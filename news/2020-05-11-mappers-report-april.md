@@ -119,7 +119,7 @@ Flex your mapping muscles by voting and participating in some of this month's on
  
 ### Monthly Beatmapping Contest
  
-As per usual, the [Monthly Beatmapping Contest](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is here to provide your regular dosage of competitive mapping! Each month's contest features a different mapping limitation that entries must adhere to.
+As per usual, the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is here to provide your regular dosage of competitive mapping! Each month's contest features a different mapping limitation that entries must adhere to.
  
 April's contest is currently in its voting stage! Visit the [contest listing](https://osu.ppy.sh/community/contests/93) to vote for any 2 of the top 6 entries, and keep in mind that sliders in all entries were required to use reverses, meaning normal slider rhythms were not allowed!
  

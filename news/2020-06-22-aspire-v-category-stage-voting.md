@@ -12,7 +12,7 @@ The first voting stage of Aspire V begins! Help us choose your favourites from s
 
 We have also put together short compilations of each category, consisting of 45 second clips of each beatmap. These are designed to give you a short preview of each beatmap without revealing all they have to offer - we strongly recommend downloading the maps yourself to enjoy in game (it’s definitely worth it).
 
-# Categories
+## Categories
 
 **[You can watch snippets of all entries in all major categories via this link.](https://www.youtube.com/playlist?list=PLmWVQsxi34bPOwMZSzySyrnIzsHGy2xKW)**
 
@@ -34,7 +34,7 @@ We also have an **Innovative Storyboarding** category for the maps that aren’t
 
 Our final category is the **Manipulation of Time** category. A first in Aspire history, each of these osu!mania beatmaps use extreme timing point manipulation to create very impressive visual effects, as well as offering a challenge to all key smashers.
 
-# Voting
+## Voting
 
 The voting page for each of the categories can be found below, as well as download links to their respective zip files:
 

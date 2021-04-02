@@ -54,7 +54,7 @@ Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1110
     <source src="https://assets.ppy.sh/artists/72/previews/1962.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 All of the above plus so, so much more are ready and waiting for you over at [**ginkiha**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/72), so grab your things and set off into your next round of mapping adventures today, totally worry free. 100% free for use in mapping in osu!, forever.
 

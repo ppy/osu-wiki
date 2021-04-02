@@ -38,8 +38,8 @@ The Taiko Suiji Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map selector | ![][flag_TW] [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_KR] [Piel](https://osu.ppy.sh/users/8917069) |
+| Organiser | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Mappool selector | ![][flag_TW] [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_KR] [Piel](https://osu.ppy.sh/users/8917069) |
 | Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_RU] [-dragon67](https://osu.ppy.sh/users/4328734), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
@@ -100,9 +100,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | The Shitmissers ft. zkane2 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | #TeamTrees |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Worldwide Bongo |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **The Shitmissers ft. zkane2** (![][flag_CL] **[Catulus](https://osu.ppy.sh/users/6276709)**, ![][flag_JP] [zkane2](https://osu.ppy.sh/users/6359835), ![][flag_ID] [Naverlyn](https://osu.ppy.sh/users/14324722), ![][flag_ES] [naliem](https://osu.ppy.sh/users/3252709), ![][flag_CR] [Hotman](https://osu.ppy.sh/users/7902082), ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **#TeamTrees** (![][flag_NZ] **[Sparxe](https://osu.ppy.sh/users/5750235)**, ![][flag_RU] [Naninub](https://osu.ppy.sh/users/8188876), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_MX] [ZaveryK](https://osu.ppy.sh/users/10913397), ![][flag_SK] [Ayumi-chan](https://osu.ppy.sh/users/6269547), ![][flag_TW] [ryan940618](https://osu.ppy.sh/users/8369908)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Worldwide Bongo** (![][flag_RU] **[TwinT](https://osu.ppy.sh/users/9976154)**, ![][flag_NL] [Hypello](https://osu.ppy.sh/users/1594036), ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_PT] [Yumi\_Hideaki](https://osu.ppy.sh/users/10081162), ![][flag_HK] [LDator](https://osu.ppy.sh/users/9534414), ![][flag_US] [Yujki](https://osu.ppy.sh/users/14987094)) |
 
 ## Mappools
 
@@ -468,6 +468,8 @@ Sunday, 1 March 2020:
 
 ### Qualifiers
 
+More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1atC4Ym2qwmt8s-nRkbkWlQRYHKPauuTBVeeAP3vSmk8/edit#gid=0)
+
 | Seed | Team | Average |
 | --: | :-- | --: |
 | #1 | 🍘 | 4.2 |
@@ -503,8 +505,7 @@ Sunday, 1 March 2020:
 | #31 | 1 | 26.2 |
 | #32 | THANOS OBAMA | 31.2 |
 
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1atC4Ym2qwmt8s-nRkbkWlQRYHKPauuTBVeeAP3vSmk8/edit#gid=0)
-- Average is determined by `Σ position earned when playing the qualifiers mappool / 5`
+Average was determined by `Σ position earned when playing the qualifiers mappool / 5`
 
 ## Ruleset
 

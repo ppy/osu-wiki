@@ -1,4 +1,5 @@
-separator: "，"
+# need to update alumni.roles.tournaments and gmt.areas.tournaments
+separator: ，
 alumni:
   roles:
     academy: osu!academy 创立者
@@ -16,11 +17,10 @@ gmt:
     forum: 论坛管理员
     team: 官方团队
     dev: osu! 开发
-    osu_idol: osu!idol 主持者
     player: 玩家支持
     support: 技术支持
     tournaments: 锦标赛管理员
-    wiki: Wiki 管理
+    wiki: wiki 管理
 nat:
   areas:
     communication: 沟通
@@ -33,6 +33,7 @@ languages:
   bg: 保加利亚语
   bn: 孟加拉语
   ca: 加泰罗尼亚语
+  da: 丹麥语
   de: 德语
   el: 希腊语
   es: 西班牙语
@@ -48,11 +49,14 @@ languages:
   ko: 韩语
   ms: 马来语
   nl: 荷兰语
+  no: 挪威语
   pl: 波兰语
   pt: 葡萄牙语
+  ro: 罗马尼亚语
   ru: 俄语
   sr: 塞尔维亚语
   sv: 瑞典语
+  te: 泰卢固语
   th: 泰语
   tr: 土耳其语
   ur: 乌尔都语

@@ -76,18 +76,18 @@ osu!의 대부분의 화면에서 `F9` 혹은 오른쪽 아래의 `Online Users`
 | :-- | :-- | :-- | :-- |
 | `/addfriend [유저]` | 친구 목록에 `[유저]`를 추가합니다. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [유저]` | 친구 목록에서 `[유저]`를 제거합니다. | `/delfriend Amigo` | You are no longer friends with Amigo. |
-| `/away [메시지]` | 자리비움 메시지를 설정합니다. 취소하려면 메시지를 비운채로 사용하세요. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith.|
-| `/bb` | 반초에게 rank `[숫자]` 같은 메시지를 보냅니다. | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/away [메시지]` | 자리비움 메시지를 설정합니다. 취소하려면 메시지를 비운채로 사용하세요. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith. |
+| `/bb` | 반초에게 rank `[숫자]` 같은 메시지를 보냅니다. | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [유저]` | 특정 유저와 채팅할 수 있는 탭이 열립니다. | `/chat Amigo` | (Amigo 탭이 열립니다) |
 | `/clear` | 현재 채팅 버퍼를 지웁니다. | `/clear` | (현재 탭에 있는 모든 내용이 지워집니다.) |
-| `/ignore [유저][@chp]` | 특정 유저에게서 오는 모든 메시지를 무시합니다. @ 뒤에 c, h, 혹은 p를 추가하는 것으로 각각 채팅, 하이라이트, 혹은 PM에서의 메시지를 무시할 수 있습니다. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (채팅 콘솔 설정: Amigo가 작성한 텍스트를 무시하고 [c], Amigo가 호출하는 것을 무시하고 [h], Amigo가 보내는 비공개 메시지를 무시합니다 [p]) |
+| `/ignore [유저][@chp]` | 특정 유저에게서 오는 모든 메시지를 무시합니다. @ 뒤에 c, h, 혹은 p를 추가하는 것으로 각각 채팅, 하이라이트, 혹은 PM에서의 메시지를 무시할 수 있습니다. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (채팅 콘솔 설정: Amigo가 작성한 텍스트를 무시하고 \[c\], Amigo가 호출하는 것을 무시하고 \[h\], Amigo가 보내는 비공개 메시지를 무시합니다 \[p\]) |
 | `/j [채널]` or `/join [채널]` | 특정 채널에 들어갑니다. | `/join #lobby` | (#lobby 탭이 열립니다) |
 | `/p` or `/part` | 현재 채널에서 나갑니다. | `/part` | n/a |
 | `/unignore [유저]` | 특정 유저의 메세지를 무시하는 것을 중지합니다. | `/unignore Amigo` | You may now hear Amigo. (Amigo가 작성한 메세지를 다시 채팅 콘솔에서 볼 수 있습니다.) |
 | `/me [행동]` | 3인칭 행동을 합니다. | `/me is at home` | * John is at home |
 | `/msg [유저] [메시지]` | `[유저]`에게 비공개 메시지를 보냅니다. | `/msg Amigo I am sick at home.` | (Amigo와의 채팅) John: I am sick at home. |
-|`/np`| 현재 듣고있거나 플레이하는 노래를 출력합니다. | `/np` | (플레이중이라면) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
-| `/reply` or `/r` | 마지막으로 받은 비공개 메시지에 회신합니다. | `/r Do you know any good doctor?` | (Amigo와의 채팅) [이전 내용] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
+| `/np` | 현재 듣고있거나 플레이하는 노래를 출력합니다. | `/np` | (플레이중이라면) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
+| `/reply` or `/r` | 마지막으로 받은 비공개 메시지에 회신합니다. | `/r Do you know any good doctor?` | (Amigo와의 채팅) \[이전 내용\] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
 | `/savelog` | 현재 채팅 탭을 텍스트 파일에 저장합니다. | `/savelog` | (osu! 폴더 내에 있는 "Chat" 폴더에 채팅 내역을 저장합니다. 이 이후의 채팅 내역도 이곳에 저장됩니다.) |
 | `/watch [유저]` | `[유저]`를 관전합니다. | `/watch Amigo` | * Started spectating Amigo. (Amigo가 당신이 가진 비트맵을 플레이 하면, 왼쪽에 자신의 이름과 함께 Amigo가 플레이하는 스크린을 볼 수 있습니다. |
 | `/nopm` | 비공개 메시지를 받는 대상을 전환할 수 있습니다 (모두/친구만 허용). | `/nopm` | (비공개 메시지가 누구의 비공개 메시지만 받는지에 대한 내용이 중앙 팝업 배너에 나타납니다.) |

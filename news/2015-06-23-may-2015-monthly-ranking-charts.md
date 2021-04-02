@@ -139,7 +139,7 @@ Kyousuke- brings out 8 difficulties in a mapset featuring the ever-popular 4K ke
 
 - [Hana - Kuukirikigaku Shoujo to Shounen no Uta](https://osu.ppy.sh/beatmapsets/251951) by [[AyanoTatemaya]](https://osu.ppy.sh/users/2760619)
 
-[AyanoTatemaya] brings us another mapset that contains both 4K and 7K keymodes, adding up to 6 difficulties in total. The difficulty spread is great, covering for a wide variety of players. The patterns are done well and are very enjoyable, and the mix of long notes and regular notes provide a little bit of challenge as you work up through the difficulties. Even then, the mapset's structure and the song go along with each other very well, and this is a mapset that many people would enjoy.
+\[AyanoTatemaya\] brings us another mapset that contains both 4K and 7K keymodes, adding up to 6 difficulties in total. The difficulty spread is great, covering for a wide variety of players. The patterns are done well and are very enjoyable, and the mix of long notes and regular notes provide a little bit of challenge as you work up through the difficulties. Even then, the mapset's structure and the song go along with each other very well, and this is a mapset that many people would enjoy.
 
 **The May 2015 ranking charts will end on the 15th July 2015**. For the next month, we will elect new community members to pick their favourite beatmaps, so stay tuned!
 

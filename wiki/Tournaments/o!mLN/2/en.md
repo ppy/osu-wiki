@@ -9,7 +9,7 @@ tags:
 
 ![o!mLN2 logo](img/logo.jpg)
 
-The **osu!mania LN Tournament 2** (***o!mLN2***) is a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament features a variety of maps with a lot of sliders (or Long Notes) in its mappools. This is the second installment of the osu!mania LN Tournament.
+The **osu!mania LN Tournament 2** (***o!mLN2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. This was the second installment of the osu!mania LN Tournament.
 
 ## Tournament schedule
 
@@ -34,9 +34,11 @@ The **osu!mania LN Tournament 2** (***o!mLN2***) is a worldwide double-eliminati
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive profile banner |
 
+![](img/badge.jpg "o!mLN2 winner badge")
+
 ## Organisation
 
-The osu!mania LN Tournament 2 is run by various community members.
+The osu!mania LN Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -67,6 +69,16 @@ The osu!mania LN Tournament 2 is run by various community members.
 | Mid | ![][flag_RU] [gdfgdfgd](https://osu.ppy.sh/users/13894943), ![][flag_MY] [Blethz](https://osu.ppy.sh/users/11918602), ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430), ![][flag_FR] [Ping36](https://osu.ppy.sh/users/9388217), ![][flag_FR] [DragonSonic](https://osu.ppy.sh/users/7294830), ![][flag_PL] [Mr\_adamello](https://osu.ppy.sh/users/7420894), ![][flag_KR] [pieerre](https://osu.ppy.sh/users/9201507), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607), ![][flag_SG] [AdamAckerville](https://osu.ppy.sh/users/12297375), ![][flag_US] [\[GS\]Ery](https://osu.ppy.sh/users/9872668), ![][flag_RU] [FoXCHANNEL](https://osu.ppy.sh/users/8454236), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Hlimak](https://osu.ppy.sh/users/1340272), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014) |
 | Low | ![][flag_KR] [VrChatGamer](https://osu.ppy.sh/users/14213383), ![][flag_AU] [HD\_AdreNaline](https://osu.ppy.sh/users/10540368), ![][flag_PH] [Eon Musk](https://osu.ppy.sh/users/12239110), ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035), ![][flag_PH] [Bentai Bosmic](https://osu.ppy.sh/users/6375534), ![][flag_AU] [DarkistDeci](https://osu.ppy.sh/users/13360768), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_TH] [GoDJI\_KunG](https://osu.ppy.sh/users/12852613), ![][flag_MX] [\[PTS\]HectorAF](https://osu.ppy.sh/users/12815564), ![][flag_GB] [yipyapyop](https://osu.ppy.sh/users/5156656), ![][flag_GB] [-Rain](https://osu.ppy.sh/users/12161151), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_UY] [HopelessPlayer](https://osu.ppy.sh/users/12528267), ![][flag_TH] [shokoha](https://osu.ppy.sh/users/14134289), ![][flag_PL] [Rekon](https://osu.ppy.sh/users/2486125), ![][flag_GB] [Percyqaz](https://osu.ppy.sh/users/9218461) |
 | Eliminated | ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120), ![][flag_GB] [-Isla-](https://osu.ppy.sh/users/11080606), ![][flag_MX] [- Astaroth -](https://osu.ppy.sh/users/10629411), ![][flag_ID] [xChose](https://osu.ppy.sh/users/10213428), ![][flag_US] [Feylos](https://osu.ppy.sh/users/4565040), ![][flag_MY] [col1234](https://osu.ppy.sh/users/13382147), ![][flag_AU] [Cat-man](https://osu.ppy.sh/users/10800918), ![][flag_ES] [game\_maker26](https://osu.ppy.sh/users/4876699), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_TH] [nsf](https://osu.ppy.sh/users/15597537), ![][flag_CA] [\[ro\]Nosteal](https://osu.ppy.sh/users/8160564), ![][flag_MY] [XxTheJKxX](https://osu.ppy.sh/users/9048451), ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TH] [MyZterioN-](https://osu.ppy.sh/users/8521723) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923) |
 
 ## Mappools
 
@@ -221,6 +233,20 @@ The osu!mania LN Tournament 2 is run by various community members.
   - [Kurubukko vs yukitani - Minamichita EVOLVED (juankristal) \[Stage 3-3: Heaven\]](https://osu.ppy.sh/beatmapsets/1187874#mania/2475458)
 
 ## Match results
+
+### Finals - Week 2
+
+Saturday, 1 August 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MyZterion-** ![][flag_TH] | **7** | 6 | ![][flag_KR] SuddenDeath | [#1](https://osu.ppy.sh/community/matches/64845024) |
+
+Sunday, 2 August 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_TH] MyZterion- | [#1](https://osu.ppy.sh/community/matches/64880360) |
 
 ### Finals - Week 1
 
@@ -515,9 +541,9 @@ Sunday, 21 June 2020:
 | #79 | ![][flag_MY] [XxTheJKxX](https://osu.ppy.sh/users/9048451) | 237 |
 | #80 | ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121) | 240 |
 
-- Only the top 64 player can proceed to the Knockout Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1zY13dvZIPwpcgL1E9FAfBQy80Wq2QKTwI3kpUMeB0Cs/edit#gid=809028813)
-- Sum is determined by `Σ position earned when playing the Qualifiers mappool`
+- Only the top 64 player could proceed to the Knockout Stage
+- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1zY13dvZIPwpcgL1E9FAfBQy80Wq2QKTwI3kpUMeB0Cs/edit#gid=809028813)
+- Sum was determined by `Σ position earned when playing the Qualifiers mappool`
 
 ## Ruleset
 

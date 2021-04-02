@@ -24,6 +24,7 @@ Le développement d'osu! est dirigé par ![][flag_AU] **[peppy](https://osu.ppy.
 ### Développeur du client du jeu
 
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
+- ![][flag_SK] [Domco](https://osu.ppy.sh/users/3562660)
 - ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
@@ -35,6 +36,7 @@ Le développement d'osu! est dirigé par ![][flag_AU] **[peppy](https://osu.ppy.
 - ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102)
 - ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+- ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Designers
 
@@ -51,10 +53,11 @@ Le développement d'osu! est dirigé par ![][flag_AU] **[peppy](https://osu.ppy.
 
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
-[flag___]: /wiki/shared/flag/__.gif
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovaquie"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag___]: /wiki/shared/flag/__.gif

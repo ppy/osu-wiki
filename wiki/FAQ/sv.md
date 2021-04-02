@@ -16,7 +16,7 @@ Cirklarna är på nedre skärmen, och en berättelse visas på övre skärmen. V
 
 ### Hur spelar man?
 
-*Fullständig förklaring: [osu!](/wiki/Game_Modes/osu!)*
+*Fullständig förklaring: [osu!](/wiki/Game_mode/osu!)*
 
 Även om de flesta spelare inte har en touch-skärm, är spelet gjord med hänsyn för att kunna spelas med en vanlig mus, och även andra kreativa apparater som inmatningsmetod. Information om olika spelstilar kan hittas i [spelstilar](/wiki/Play_Styles)-sidan. Det finns vissa låtar som tar spelandet med en mus till gränsen av vad som är möjligt, men alla rankade och godkända beatmaps har testats och (de flesta) kan klaras av med bara en mus.
 
@@ -62,11 +62,11 @@ Den yttre vita cirkeln visar hur mycket tid det finns kvar för att klara av spi
 
 Den lilla rutan nedanför spinnern visar varv per minut. Talet är alltså antalet möjliga varv ifall spinnern snurras under en minut med nuvarande hastighet. Om musknappen eller tangenten släpps (eller pennan lyfts från ritplattan) för tidigt, slutar spinnern läsa av rotationen.
 
-På ett *DS* är det lämpligt att rita cirklar på touch-skärmen (eller skärmskyddet), speciellt på högre svårighetsgrader. I osu! har spinners tonats ner för att inte vara så besvärliga att avklara. Det högsta möjliga antalet varv per minut är 477. Detta är också hur snabbt [Auto](/wiki/Game_Modifiers)-modifieraren snurrar, medan [Spun Out](/wiki/Game_Modifiers)-modifieraren snurrar i en lägre fart av 287 varv per minut.
+På ett *DS* är det lämpligt att rita cirklar på touch-skärmen (eller skärmskyddet), speciellt på högre svårighetsgrader. I osu! har spinners tonats ner för att inte vara så besvärliga att avklara. Det högsta möjliga antalet varv per minut är 477. Detta är också hur snabbt [Auto](/wiki/Game_modifier/Auto)-modifieraren snurrar, medan [Spun Out](/wiki/Game_modifier/Spun_Out)-modifieraren snurrar i en lägre fart av 287 varv per minut.
 
 #### Spelets gränssnitt
 
-![osu! Gränssnitt](/wiki/shared/Interface_osu.jpg "Gränssnittet i osu!")
+![osu! Gränssnitt](/wiki/shared/osu-gameplay.jpg "Gränssnittet i osu!")
 
 Den ifyllda linjen i det övre vänstra hörnet visar hälsan, som stadigt minskar (i en fart beroende på beatmappens svårighetsinställing), men kan fyllas på genom att träffa noter vid rätt tillfälle eller genom att snurra på spinnern. En perfekt träff (en 300 eller Geki) ger mer hälsa än en för sen eller tidig träff (50). En miss tar bort en bit av hälsan.
 
@@ -82,9 +82,9 @@ Standardkontrollerna i osu! är:
 
 Hitobjekt i osu! registrerar träffar från alla knappar på enheten, så länge varje hitobjekt är tryckta i tid.
 
-Om [Relax](/wiki/Game_Modifiers)-modifieraren används, fungerar bara muspekaren. Använd muspekaren för att följa hitobjekten som istället trycks automatiskt. Spinners måste fortfarande avklaras.
+Om [Relax](/wiki/Game_modifier/Relax)-modifieraren används, fungerar bara muspekaren. Använd muspekaren för att följa hitobjekten som istället trycks automatiskt. Spinners måste fortfarande avklaras.
 
-Om [Auto Pilot](/wiki/Game_Modifiers)-modifieraren används, fungerar endast knapparna. Muspekaren rör sig automatiskt till varje hitobjekt, som behövs bara tryckas i tid. Spinners kommer att automatiskt snurras i samma fart som [Spun Out](/wiki/Game_Modifiers)-modifieraren.
+Om [Auto Pilot](/wiki/Game_modifier/Autopilot)-modifieraren används, fungerar endast knapparna. Muspekaren rör sig automatiskt till varje hitobjekt, som behövs bara tryckas i tid. Spinners kommer att automatiskt snurras i samma fart som [Spun Out](/wiki/Game_modifier/Spun_Out)-modifieraren.
 
 ---
 
@@ -94,13 +94,13 @@ Om [Auto Pilot](/wiki/Game_Modifiers)-modifieraren används, fungerar endast kna
 
 ![Gränssnitt för ändring av spelläge](/wiki/shared/Interface_mode.png "Inställning för att ändra spelläge")
 
-Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spellägen i osu!**. Klicka på önskad spelläge och osu! kommer att byta till det spelläget och dess ledartavla. Alternativt går det att trycka på `Ctrl` och `1` (![][osu! icon] *[osu!standard](/wiki/Game_Modes/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_Modes/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_Modes/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_Modes/osu!mania)*) på tangentbordet för att snabbt byta spelläge.
+Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spellägen i osu!**. Klicka på önskad spelläge och osu! kommer att byta till det spelläget och dess ledartavla. Alternativt går det att trycka på `Ctrl` och `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) på tangentbordet för att snabbt byta spelläge.
 
 ### Vad är osu!taiko?
 
-*Fullständig förklaring: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
+*Fullständig förklaring: [osu!taiko](/wiki/Game_mode/osu!taiko)*
 
-![osu!taiko Gränssnitt](/wiki/shared/Interface_taiko.jpg "Gränssnittet i osu!taiko")
+![osu!taiko Gränssnitt](/wiki/shared/taiko-gameplay.jpg "Gränssnittet i osu!taiko")
 
 *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* är ett rytmspel gjort av *Namco* (numera Namco Bandai). I spelet används en taiko-trumma för att spela i takt med musiken. I osu! kan beatmaps spelas i stil med *Taiko no Tatsujin* genom osu!taiko-spelläget.
 
@@ -162,15 +162,15 @@ Standardkontrollerna för osu!taiko är:
 
 Positionen av muspekaren spelar ingen roll.
 
-Om [Relax](/wiki/Game_Modifiers)-modifieraren används, räknas endast slag i rätt rytm (automatiskt korrigerar fel färg med korrekt färg).
+Om [Relax](/wiki/Game_modifier/Relax)-modifieraren används, räknas endast slag i rätt rytm (automatiskt korrigerar fel färg med korrekt färg).
 
 *TaTaCon*-trumcontroller gjordes i första hand för hem-versioner av *Taiko no Tatsujin* och *Taiko: Drum Master*.
 
 ### Vad är osu!catch?
 
-*Fullständig förklaring: [osu!catch](/wiki/Game_Modes/osu!catch)*
+*Fullständig förklaring: [osu!catch](/wiki/Game_mode/osu!catch)*
 
-![osu!catch Gränssnitt](/wiki/shared/Interface_ctb.jpg "Gränssnittet i osu!catch")
+![osu!catch Gränssnitt](/wiki/shared/catch-gameplay.jpg "Gränssnittet i osu!catch")
 
 osu!catch (tidigare kallad *Catch the Beat*) är det andra spelläget tillagt i osu!, efter osu!taiko.
 
@@ -202,7 +202,7 @@ Kombon bryts ifall juicedroppen missas (eftersom det är en slidertick), men int
 
 Stora bananer regnar ner och krymper tills de landar på tallriken (eller inte). Varje uppfångad banan ger 1 100 poäng oavsett modifierare och poängfaktorer.
 
-Bananerna kan ignoreras utan straff på hälsan. Däremot går de möjliga poängen från att fånga dem förlorade. Noterbart är att [Auto](/wiki/Game_Modifiers)-modifieraren kan fånga alla bananer utan undantag.
+Bananerna kan ignoreras utan straff på hälsan. Däremot går de möjliga poängen från att fånga dem förlorade. Noterbart är att [Auto](/wiki/Game_modifier/Auto)-modifieraren kan fånga alla bananer utan undantag.
 
 ##### Hyperfrukter
 
@@ -217,13 +217,13 @@ När hyperfrukten fångas blir fångarens dash en *hyperdash* (precis snabb nog 
 - Som standard används vänster `<-` (L) och höger pil `->` (R) för att röra fångaren.
 - Tryck och håll in `leftSkift` (D) -knappen med ett av piltangenterna för att genomföra en *dash* åt det hållet dubbelt så fort (indikerat av ett **ljussken** från fångaren).
 
-Positionen av muspekaren har vanligtvis ingen betydelse. Om [Relax](/wiki/Game_Modifiers)-modifieraren används, kontrolleras fångaren med muspekaren istället. Däremot blir blir resultatet inte rankad (eftersom det tar bort svårigheten från osu!catch; fångarens konstanta hastighet och talrikskontroll).
+Positionen av muspekaren har vanligtvis ingen betydelse. Om [Relax](/wiki/Game_modifier/Relax)-modifieraren används, kontrolleras fångaren med muspekaren istället. Däremot blir blir resultatet inte rankad (eftersom det tar bort svårigheten från osu!catch; fångarens konstanta hastighet och talrikskontroll).
 
 ### Vad är osu!mania?
 
-*Fullständig förklaring: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Fullständig förklaring: [osu!mania](/wiki/Game_mode/osu!mania)*
 
-![osu!mania Gränssnitt](/wiki/shared/Interface_mania.jpg "Gränssnittet i osu!mania")
+![osu!mania Gränssnitt](/wiki/shared/mania-gameplay.jpg "Gränssnittet i osu!mania")
 
 osu!mania är den tredje spelläget tillagt i osu!, efter osu!taiko och osu!catch.
 
@@ -231,9 +231,9 @@ Denna stil används i nästan alla populära rytmspel. Det kräver bra koordinat
 
 Vid konvertering av beatmaps är antalet tangenter mellan ungefär 4 till 7 som standard.
 
-Med the [xK](/wiki/Game_Modifiers)-modifieraren kan spelaren själv välja antalet tangenter från 1 till 9, men med medföljande nedsänkt poängfaktor. Emellertid fungerar den inte med osu!mania-specifika beatmaps.
+Med the [xK](/wiki/Game_modifier/xK)-modifieraren kan spelaren själv välja antalet tangenter från 1 till 9, men med medföljande nedsänkt poängfaktor. Emellertid fungerar den inte med osu!mania-specifika beatmaps.
 
-Med [Co-Op](/wiki/Game_Modifiers)-modifieraren delar spelfältet itu och använder Co-Op-kontroller, vilket tillåter 2 spelare att spela samtidigt med upp till 18 tangenter med en nedsänkt poängfaktor. Notera att ett specificerat antal tangenter fördubblas inte i osu!mania-specifika beatmaps, men spelfältet delas ändå upp på mitten (vänster sida får fler tangenter vid udda antal), använder Co-Op-kontroller och har ingen nedsänkt poängfaktor.
+Med [Co-Op](/wiki/Game_modifier/Co-op)-modifieraren delar spelfältet itu och använder Co-Op-kontroller, vilket tillåter 2 spelare att spela samtidigt med upp till 18 tangenter med en nedsänkt poängfaktor. Notera att ett specificerat antal tangenter fördubblas inte i osu!mania-specifika beatmaps, men spelfältet delas ändå upp på mitten (vänster sida får fler tangenter vid udda antal), använder Co-Op-kontroller och har ingen nedsänkt poängfaktor.
 
 #### Enkel förklaring
 
@@ -355,8 +355,8 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 
 **Speciella rang:**
 
-- Silver SS (SSH) = Vanligt SS-rang med *[Hidden](/wiki/Game_Modifiers)*- och/eller *[Flashlight](/wiki/Game_Modifiers)*-modifierare.
-- Silver S (SH) = Vanligt S-rang med *[Hidden](/wiki/Game_Modifiers)*- och/eller *[Flashlight](/wiki/Game_Modifiers)*-modifierare.
+- Silver SS (SSH) = Vanligt SS-rang med *[Hidden](/wiki/Game_modifier/Hidden)*- och/eller *[Flashlight](/wiki/Game_modifier/Flashlight)*-modifierare.
+- Silver S (SH) = Vanligt S-rang med *[Hidden](/wiki/Game_modifier/Hidden)*- och/eller *[Flashlight](/wiki/Game_modifier/Flashlight)*-modifierare.
 
 **Angående *Rang* i profilsidan:**
 
@@ -382,7 +382,7 @@ För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Perfor
 
 #### Varifrån laddar jag ner beatmaps?
 
-*Detaljerad förklaring av beatmaps: [Beatmaps](/wiki/Beatmaps)*
+*Detaljerad förklaring av beatmaps: [Beatmaps](/wiki/Beatmap)*
 
 I huvudsidan, under *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. Kom ihåg att logga in i hemsidan med en *osu!konto* för att kunna ladda ner beatmaps från hemsidan.
 
@@ -448,7 +448,7 @@ Hela `osu!`-mappen, till och med gömda filer, är det korta svaret. På en ny e
 
 #### Kan jag spela osu! på min mobil?
 
-*Fullständig lista: [Game Modes under External Ports section](/wiki/Game_Modes)*
+*Fullständig lista: [Game Modes under External Ports section](/wiki/Game_mode)*
 
 För tillfället har osu! officiellt inget stöd för mobila enheter.
 
@@ -456,11 +456,11 @@ Det finns dock inofficiella versioner och ett spin-off spel för iOS med egen le
 
 Några av de mest notabla versionerna är:
 
-- ![][osu! icon] opsu! [Windows/OS X/Linux/Android]:
+- ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
   Java-version av osu! främst gjort av **itdelatrisu** med **fluddokt**s som överförde den till Android.
-- ![][osu!taiko icon] T-Aiko! v2 [Android/iOS]:
+- ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
   osu!taiko-spelläget överfört till mobila enheter av **low.moe (Guy-kun) team** med dagliga utmaningar och en helt egen T-Aiko! ledartavla.
-- ![][osu! icon] osu!stream [iOS]:
+- ![][osu! icon] osu!stream \[iOS\]:
   Upplev en ny spin-off-version av osu!-spelläget för iOS skapat av osu!-teamet från grunden.
 
 ### osu!
@@ -481,7 +481,7 @@ En slider har en start-cirkel, regelbundna små cirklar s.k. sliderticks, vändn
 
 Slidertick dyker bara upp inom dess egna slider; om slidertick står för nära början eller slutet av slidern, såsom på bilden ovan, blir den dold av start-cirkeln eller avslutningscirkeln. Dolda slidertick räknas fortfarande till kombo och ger poäng, och måste därför plockas upp tillsammans med synliga slidertick. De dyker upp igen om det finns en eller flera vändningspiler och måste återigen plockas upp, fast åt andra hållet.
 
-Om spelaren missar start-cirkeln, någon av slidertickarna eller vändningspunkterna, bryts kombon (ett ljud spelas för att indikera detta om kombon är högt nog) utan att räknas som en miss. Om spelaren emellertid missar avslutningscirkeln bryts kombon inte och den ökar inte, men räknas inte heller som en miss; istället ges 100 (eller katu) för hela slidern, förutsatt att start-cirkeln och eventuella slidertick/vändningspilar klarades av. Märkvärdigt är att [Sudden Death](/wiki/Game_Modifiers)-modifieraren tvingar inte en game over även om sliderns avslutningscirkel inte blev träffad (eftersom kombon inte bröts, aktiverades aldrig Sudden Death-effekten).
+Om spelaren missar start-cirkeln, någon av slidertickarna eller vändningspunkterna, bryts kombon (ett ljud spelas för att indikera detta om kombon är högt nog) utan att räknas som en miss. Om spelaren emellertid missar avslutningscirkeln bryts kombon inte och den ökar inte, men räknas inte heller som en miss; istället ges 100 (eller katu) för hela slidern, förutsatt att start-cirkeln och eventuella slidertick/vändningspilar klarades av. Märkvärdigt är att [Sudden Death](/wiki/Game_modifier/Sudden_Death)-modifieraren tvingar inte en game over även om sliderns avslutningscirkel inte blev träffad (eftersom kombon inte bröts, aktiverades aldrig Sudden Death-effekten).
 
 Dessa situationer kallas tillsammans för **sliderbreak**. En *Perfect* på prestationsgrafen indikerar max kombo. Ifall den inte dyker upp, kan det betyda att en sliderbreak har hänt, speciellt om det inte fanns några missar.
 

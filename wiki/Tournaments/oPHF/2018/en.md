@@ -861,7 +861,7 @@ The following players are the people who managed to pull through the whole compe
   - [Hyadain - Enemy Apperance! (MapleSyrup-) \[Anticipation!\]](https://osu.ppy.sh/beatmaps/1825670)
   - [chromonicci - Power. (Lenfried-) \[money.\]](https://osu.ppy.sh/beatmaps/1825644)
   - [EX Industry - Memory (Cryolien) \[Fragments\]](https://osu.ppy.sh/beatmaps/1825737)
-  - [OG Mako - yusa??o?"?yusa?seyoku$B%i!\&lt\;%a%s(B" (Lenfried-) \[in memoriam\]](https://osu.ppy.sh/beatmaps/1825680)
+  - [OG Mako - yusa??o?"?yusa?seyoku$B%i!\&lt;%a%s(B" (Lenfried-) \[in memoriam\]](https://osu.ppy.sh/beatmaps/1825680)
 
 ---
 
@@ -927,7 +927,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 5 | Rammu | 0 | **5** | **Nyanntai** | 28 | -win by default- |
 | 12 | Umuuu | 0 | **5** | **ArtillerySenpai** | 21 |  |
 | 2 | **zonelouise** | **5** | 0 | Aoi_Shimoto | 31 |  |
-| 15 | Kaneko Akiraie | 2 | **5** | **[Vik]** | 18 |  |
+| 15 | Kaneko Akiraie | 2 | **5** | **\[Vik\]** | 18 |  |
 | 7 | **Fzechen** | **5** | 4 | KasperBK | 26 |  |
 | 10 | Nyahrumanyah | 3 | **5** | **JasonEspiritu** | 23 |  |
 | 3 | **TyrantsEye2014** | **5** | 0 | Tornikel | 30 |  |
@@ -1234,7 +1234,6 @@ Detailed results for this round are found via [this link](https://docs.google.co
 #### Restrictions for osu!standard
 
 - Standard Division winners of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068) and the [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) are not allowed to join the osu!standard tournament.
-
 - Players not allowed to join the osu!standard tournament are allowed to join the other four tournaments as they see fit.
 
 #### Restrictions for osu!mania 4K

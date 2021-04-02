@@ -143,14 +143,14 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/mania/1-finixe.jpg)](https://osu.ppy.sh/community/forums/topics/947133)
 
 [Silentroom - Finixe](https://osu.ppy.sh/beatmapsets/688577#mania) by [shuniki](https://osu.ppy.sh/users/4942174)  
-222 BPM, 2:35 | [4K] 5.66★, [4K] 5.66★, [4K] 8.66★
+222 BPM, 2:35 | \[4K\] 5.66★, \[4K\] 5.66★, \[4K\] 8.66★
 
 Returning with more of his staple extraordinarily hard LN maps is shuniki being nominated for *Finixe*. While this isn't the hardest of shuniki's LN maps that have been nominated for Loved, it is certainly no pushover when it comes to the strain and speed required to perform well on it. The chart contains massive inverse walls as well as some less dense—though in a way, trickier—LN streams with patterns clocking in at 222 BPM which are sure to fire up players who thrive on giving themselves some physically taxing LN. As has been the story with past shuniki nominations, this is a perfect map for those hardcore LN lovers, those who want to push their skill, speed, and reading with inverse and general long note play to the limit, and those who want to have a fun time with the smooth, yet challenging experience that can be found in *Finixe*.
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/mania/2-toraburu-kuroneko-manbiki.jpg)](https://osu.ppy.sh/community/forums/topics/947132)
 
 [Masami-T - Toraburu Kuroneko Manbiki](https://osu.ppy.sh/beatmapsets/591252#mania) by [AutotelicBrown](https://osu.ppy.sh/users/4238941)  
-119 BPM, 2:40 | [4K], 4.90★ – 6.99★
+119 BPM, 2:40 | \[4K\], 4.90★ – 6.99★
 
 AutotelicBrown gets her first mapset nominated for the Loved section with *Trouble Kuroneko Man'yuuki*. Chordjack charts are a common favourite among most players, and *Man'yuuki* is just that: chordjacks.
 
@@ -161,7 +161,7 @@ This mapset also has 5 different rates (1.0x to 1.4x), so it's very likely that 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/mania/3-suikinkutsu-feat-uehara-hiromi.jpg)](https://osu.ppy.sh/community/forums/topics/947130)
 
 [Tokyo Ska Paradise Orchestra - -SUIKINKUTSU- feat. Uehara Hiromi](https://osu.ppy.sh/beatmapsets/327318#mania) by [Evening](https://osu.ppy.sh/users/2193881)  
-51 BPM, 6:53 | [7K] 6.05★, [7K] 6.05★
+51 BPM, 6:53 | \[7K\] 6.05★, \[7K\] 6.05★
 
 Following Evening's success last round with their 4k pick, it would be unwise to skip over a 7k pick for this round. For this round, we're having *SUIKINKUTSU*.
 

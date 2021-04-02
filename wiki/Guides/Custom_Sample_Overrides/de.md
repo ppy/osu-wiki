@@ -6,7 +6,7 @@ Sie können entweder `.wav` oder `.mp3` verwenden, beachten Sie jedoch folgendes
 
 Die folgenden Dateien können ersetzt werden:
 
-## Normal (laut) Sampleset:
+## Normal (laut) Sampleset
 
 - normal-hitnormal
 - normal-hitwhistle
@@ -16,7 +16,7 @@ Die folgenden Dateien können ersetzt werden:
 - normal-sliderwhistle (Schleife)
 - normal-slidertick
 
-## Soft Sampleset:
+## Soft Sampleset
 
 - soft-hitnormal
 - soft-hitwhistle
@@ -26,7 +26,7 @@ Die folgenden Dateien können ersetzt werden:
 - soft-sliderwhistle (Schleife)
 - soft-slidertick
 
-## Drum Sampleset:
+## Drum Sampleset
 
 - drum-hitnormal
 - drum-hitwhistle
@@ -36,7 +36,7 @@ Die folgenden Dateien können ersetzt werden:
 - soft-sliderwhistle (Schleife)
 - soft-slidertick
 
-## Universal Samples:
+## Universal Samples
 
 - spinnerspin
 - spinnerbonus (Ding)

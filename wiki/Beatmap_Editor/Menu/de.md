@@ -46,7 +46,7 @@
 | `.osu` im Editor öffnen | Öffnet die Schwierigkeitsstufe im Texteditor. |
 | `.osb` im Editor öffnen | Öffnet die Storyboarddatei im Texteditor. |
 
-### Emergency Exit command.
+### Emergency Exit command
 
 | Name | Beschreibung |
 | :-- | :-- |

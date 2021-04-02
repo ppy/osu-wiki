@@ -135,8 +135,8 @@ Ryuuta
 ?
 
 #### Aparece em
-- Catch the Beat (como chibi-Ryuuta) [substituido por Yuzu]
-- osu!webpage (chibi-Ryuuta como Mascote) [Retirado]
+- Catch the Beat (como chibi-Ryuuta) \[substituido por Yuzu\]
+- osu!webpage (chibi-Ryuuta como Mascote) \[Retirado\]
 - [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 - Yandere Simulator (as NPC Easter Egg)
 
@@ -147,7 +147,7 @@ iNiS Corporation
 Masculino
 
 #### Introduzido em
-2008 [Até 2014]
+2008 \[Até 2014\]
 
 #### Peso
 ?
@@ -172,7 +172,7 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Aparece em
-- osu!webpage (chibi-J como Mascote) [Retirado]
+- osu!webpage (chibi-J como Mascote) \[Retirado\]
 - [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Criador
@@ -182,7 +182,7 @@ iNiS Corporation
 Masculino
 
 #### Introduzido em
-2008 [Até 2014]
+2008 \[Até 2014\]
 
 #### Peso
 ?
@@ -211,8 +211,8 @@ Don, Don-chan
 {Official skin for [Options's trigger](/wiki/Options#Skin)}
 
 #### Criador
-- Yukiko Yokoo (横尾有希子) [Art]
-- Narahashi Miki (楢橋 美紀) [Voice provider]
+- Yukiko Yokoo (横尾有希子) \[Art\]
+- Narahashi Miki (楢橋 美紀) \[Voice provider\]
 
 #### Sexo
 Masculino

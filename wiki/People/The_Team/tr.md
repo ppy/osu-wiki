@@ -37,6 +37,8 @@ Aşağıdaki listelenen kişiler **osu!team** çekirdek kadrosunu oluşturmakta,
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Genel ev bekçisi, turnuva asistanı, wiki idarecisi |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Tehlike altındaki tür |
 
+Yukarıdakilere ek olarak, [hesap destek ekibi](Account_support_team) erişiminizin ötesindeki konularda size yardımcı olmak için bulunurlar.
+
 ## Kullanıcı grupları
 
 Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyelerinden oluşturulmuş kullanıcı gruplarıdır. Bu kullanıcıların çoğu forumdaki renklerinden, oyun-içi sohbet renklerinden, profil ünvanları, ve/veya profil rozetlerinden ayırt edilebilir.
@@ -62,13 +64,13 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! geliştiricisi, oyun-içi sohbet için IRC entegrasyonu sağlayıcı, site sorumlusu. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour sunucusu, Dünya Kupası yayıncısı, turnuva organizatörü |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! geliştiricisi, osz2 ve p2p backend sağlayıcısı |
-| ![][flag_US] Jim | Orijinal site tasarımcısı. [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | Orijinal site tasarımcısı, sitenin ilk zamanlarındaki hosting sağlayıcısı. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Dünya Kupası organizatörü ve yöneticisi, QAT lideri, topluluk yöneticisi |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Destansı tema tasarımcısı, varsayılan tema ve ikon seti katkısı. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu! geliştiricisi, mm sliderlarının mucidi |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone geliştiricisi |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | osu! geliştiricisi, Mappers' Guild organizatörü |
-| ![][flag_US] Phil | Forum tasarımcısı |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Forum tasarımcısı |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, havalı olağandışı şeyler yapan adam |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Orijinal pippi konsepti ve çizim dizaynerı. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Erken topluluk yöneticisi ve lideri, toplantı notları ve SSS katkısı |

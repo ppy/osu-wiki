@@ -18,7 +18,7 @@ Referentie voor één hitcirkel:
 
 ```
 300 -> 300 / 300 = 1   = 100.00%
-100 -> 100 / 300 = 1/3 =  33.00%
+100 -> 100 / 300 = 1/3 =  33.33%
 50  ->  50 / 300 = 1/6 =  16.67%
 0   ->   0 / 300 = 0   =   0.00%
 ```
@@ -67,7 +67,7 @@ Unstable rate staat voor de consistentie van de timing van de hits, waar lagere 
 
 ### Spin
 
-*Opmerking: spin wordt enkel in [osu!standard](/wiki/Game_Modes/osu!) gebruikt.*
+*Opmerking: spin wordt enkel in [osu!standard](/wiki/Game_mode/osu!) gebruikt.*
 
 Naast nauwkeurigheid is er ook informatie over spinners te vinden in dezelfde tooltip.
 

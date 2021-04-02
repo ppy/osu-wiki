@@ -109,7 +109,7 @@ This jazzy map brought you by jakads and multiple guest mappers packs a punch wi
 
 It seems that whenever pporse makes a new ranked map, it always appears on the mania charts. Since the days of Canmusic, pporse has gained an extensive amount of experience in mapping, and this map reflects that well. The map is structurally organized and keeps consistent with the music's growing intensity. Similar to his Yooh - Salvation (one of the maps in the previous month's monthly ranked charts), the patterning is pretty comfortable, so if you think you are pretty good at 7K, you might want to try this out!
 
-- [ P*Light - Gekkou Ranbu](https://osu.ppy.sh/beatmapsets/382403) by [Spy](https://osu.ppy.sh/users/1217122) (Nominator: [Feerum](https://osu.ppy.sh/users/4815717))
+- [P\*Light - Gekkou Ranbu](https://osu.ppy.sh/beatmapsets/382403) by [Spy](https://osu.ppy.sh/users/1217122) (Nominator: [Feerum](https://osu.ppy.sh/users/4815717))
 
 A long journey finally ended. Spy made here a really well done mix of a 4K and 7+1K (8K) beatmap. I voted for this beatmap especially because of the two different key-modes in it. The 4K difficulties have a pretty well done spread where all kind of player, either beginner or already experienced player will have their fun.
 The 4K Gravity difficulty gives a lot of variety but what i specially like are that the beatmap follows pretty good the pitch from the music what is pretty good to see at the ending where he added a lot of trills.

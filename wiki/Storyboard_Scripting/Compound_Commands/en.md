@@ -51,7 +51,7 @@ __(event),(easing),(relative_starttime),(relative_endtime),(params...)
 where:
 
 - (triggerType) indicates the trigger condition and can be one of the following:
-  - HitSound[SampleSet] [AdditionsSampleSet] [Addition] [CustomSampleSet], where:
+  - HitSound\[SampleSet\] \[AdditionsSampleSet\] \[Addition\] \[CustomSampleSet\], where:
     - *SampleSet* and *AdditionsSampleSet* are one of All / Normal / Soft / Drum.
     - *Addition* is one of Whistle / Finish / Clap.
     - *CustomSampleSet* is the custom sample number, 0 for Default.

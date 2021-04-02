@@ -14,7 +14,7 @@ Referensi untuk satu hit lingkaran:
 
 ```
 300 -> 300 / 300 = 1   = 100.00%
-100 -> 100 / 300 = 1/3 =  33.00%
+100 -> 100 / 300 = 1/3 =  33.33%
 50  ->  50 / 300 = 1/6 =  16.67%
 0   ->   0 / 300 = 0   =   0.00%
 ```
@@ -63,7 +63,7 @@ Laju tidak stabil mewakili konsistensi penepatan dalam hit, dimana semakin kecil
 
 ### Spinner
 
-*Catatan: Sutaran hanya digunakan dalam [osu!standard](/wiki/Game_Modes/osu!).*
+*Catatan: Sutaran hanya digunakan dalam [osu!standard](/wiki/Game_mode/osu!).*
 
 Sebagai tambahan akurasi, beberapa informasi mengenai spinner juga terdapat di tooltip yang sama.
 

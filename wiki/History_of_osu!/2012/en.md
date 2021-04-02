@@ -91,7 +91,7 @@ On 2012-12-21, osu! was given quite a major update. The most notable changes wer
 4. Fun Spoiler Settings was changed to [Visual Settings](/wiki/Visual_Settings) and placed at the bottom of the screen
 5. No Video mod was moved to Visual Settings
 
-Technical issues and bugs were expected. The widescreen support, despite being functional, caused some images and videos to look weird (head of a character not visible, missing or partly hidden text) as the top and bottom were cropped. [Storyboards](/wiki/Storyboards) currently don't support widescreen, instead, letterboxes or black bars appear on the sides which caused them to look cramped. This created an issue for [Catch the Beat](/wiki/Game_Modes/osu!catch) as the fruit would go *over* the black bars that were supposed to be in the boundary when using widescreen. Some storyboards also do not function properly (some images do not stay in the playing area, but instead, extend out to the black bars). These issues were currently known and were being fixed as solution to the issues were discussed and found.
+Technical issues and bugs were expected. The widescreen support, despite being functional, caused some images and videos to look weird (head of a character not visible, missing or partly hidden text) as the top and bottom were cropped. [Storyboards](/wiki/Storyboards) currently don't support widescreen, instead, letterboxes or black bars appear on the sides which caused them to look cramped. This created an issue for [Catch the Beat](/wiki/Game_mode/osu!catch) as the fruit would go *over* the black bars that were supposed to be in the boundary when using widescreen. Some storyboards also do not function properly (some images do not stay in the playing area, but instead, extend out to the black bars). These issues were currently known and were being fixed as solution to the issues were discussed and found.
 
 Links:
 
@@ -99,7 +99,7 @@ Links:
 
 ---
 
-On 2012-12-25, it was a Merry Christmas for the ones who celebrate it. A new version of [bancho](/wiki/Bancho) was released which "reduces the amount of traffic sent when connecting. This means you should experience 95% faster connection times". Being a special occasion, osu!direct was turned on for everyone for the day.
+On 2012-12-25, it was a Merry Christmas for the ones who celebrate it. A new version of [bancho](/wiki/Bancho_(server)) was released which "reduces the amount of traffic sent when connecting. This means you should experience 95% faster connection times". Being a special occasion, osu!direct was turned on for everyone for the day.
 
 Links:
 

@@ -506,7 +506,7 @@ Monday, 22 July 2019:
    - **Any form of registration, other than the registration form provided in related channels, will be disregarded.**
 2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
-4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](https://osu.ppy.sh/help/wiki/osu!tourney/Prizes#tournament-screening) for more information about tournament screening.
+4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](/wiki/osu!tourney/Prizes#tournament-screening) for more information about tournament screening.
 5. All players eligible to participate in the tournament will be published after the Registration period ends.
 
 ### Stage instructions

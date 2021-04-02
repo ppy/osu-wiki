@@ -16,7 +16,7 @@ W trybie osu!standard wartości dla jednego obiektu są następujące:
 
 ```
 300 -> 300 / 300 = 1   = 100.00%
-100 -> 100 / 300 = 1/3 =  33.00%
+100 -> 100 / 300 = 1/3 =  33.33%
 50  ->  50 / 300 = 1/6 =  16.67%
 0   ->   0 / 300 = 0   =   0.00%
 ```
@@ -73,7 +73,7 @@ Wskaźnik dokładności określa powtarzalność gracza dla każdego trafienia, 
 
 ### Kręcenie spinnerami
 
-*Ważne: te wartości są dostępne tylko dla trybu [osu!standard](/wiki/Game_Modes/osu!) i nie są zachowywane po wyjściu z gry.*
+*Ważne: te wartości są dostępne tylko dla trybu [osu!standard](/wiki/Game_mode/osu!) i nie są zachowywane po wyjściu z gry.*
 
 W etykiecie wykresu wyniku znajduje się kilka informacji odnośnie kręcenia spinnerami na danej beatmapie.
 

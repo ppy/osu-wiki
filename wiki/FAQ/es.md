@@ -16,9 +16,9 @@ Pudes ver los círculos en la pantalla inferior, y en la pantalla superior tiene
 
 ### ¿Cómo puedo jugar?
 
-*Explicación completa: [osu! Standard](/wiki/Game_Modes/osu!)*
+*Explicación completa: [osu! Standard](/wiki/Game_mode/osu!)*
 
-Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Play_Styles) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmaps) y [aprobados](/wiki/Beatmaps)) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
+Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Play_Styles) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmap) y [aprobados](/wiki/Beatmap)) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
 
 #### Lo Básico del Juego
 
@@ -71,14 +71,14 @@ Vamos a aprender cuáles son los objetos ¿De acuerdo?
     - Si no mantienes ningún botón antes de dar vueltas, no podrás llenar el medidor de SPM.
 - En el DS, esta es una buena manera de rayar tu pantalla táctil (o protector de pantalla), especialmente en las mayores dificultades.
 - En osu!, los spinners han sido atenuados para que no sean molestos de completar.
-  - El máximo número de spins por minuto posible es 477 que es también la velocidad con la que el mod [Auto](/wiki/Game_Modifiers) gira, mientras que el mod [Spun Out](/wiki/Game_Modifiers) gira a menos de 287 spins por minuto.
+  - El máximo número de spins por minuto posible es 477 que es también la velocidad con la que el mod [Auto](/wiki/Game_modifier/Auto) gira, mientras que el mod [Spun Out](/wiki/Game_modifier/Spun_Out) gira a menos de 287 spins por minuto.
   - Practica y trata de girar en cículos muy pequeños (como hace el mod Auto, pero poniendo un esfuerzo en tu brazo si es que no estás acostumbrado.)
 - \[Ratón\]**Si tu cursor no gira en absoluto, o se mueve estáticamente a pesar de que giras muy rápido. O bien entiende que es el límite de tu ratón o consigue un mejor ratón/mousepad**.
   - Un ratón convencional puede sufrir este problema, y lo mejor es **empezar a girar lentamente en lugar de girar muy rápido repentinamente** de modo que el ratón pueda detectar lo que estás haciendo.
 
 #### Interfaz del Juego
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 Esta es la interfaz del estilo de juego osu! Standard.
 
@@ -95,9 +95,9 @@ Esta es la interfaz del estilo de juego osu! Standard.
 
 ### ¿Qué es "Taiko"?
 
-*Explicación completa: [Taiko](/wiki/Game_Modes/osu!taiko)*
+*Explicación completa: [Taiko](/wiki/Game_mode/osu!taiko)*
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 [Taiko no Tatsujin](http://es.wikipedia.org/wiki/Taiko_no_Tatsujin) es un juego de ritmo hecho por Namco, que consiste en simular tocar los tambores al ritmo de la música. En osu!, los beatmaps pueden ser jugados al estilo de Taiko no Tatsujin mediante el uso del modo de juego special llamado Taiko.
 
@@ -137,33 +137,33 @@ Como en osu! standard, existen tres elementos en el juego.
 
 Los controles por defecto del modo Taiko son:
 
-- Rojo: [Ratón] Click izquierdo, [Teclado] [X] o [C], [TaTaCon] Superficie plana del tambor.
-- Azul: [Ratón] Click derecho, [Teclado] [Z] o [V], [TaTaCon] Superficie exterior del tambor.
+- Rojo: \[Ratón\] Click izquierdo, \[Teclado\] \[X\] o \[C\], \[TaTaCon\] Superficie plana del tambor.
+- Azul: \[Ratón\] Click derecho, \[Teclado\] \[Z\] o \[V\], \[TaTaCon\] Superficie exterior del tambor.
 - El lugar del cursor de osu! no importa cuando juegas.
 
 Puedes configurar los botones del teclado como te parezca cómodo, desde la pestaña de Controles en el menú de Opciones.
 
 ### ¿Qué es "Catch the Beat"?
 
-![](/wiki/shared/Interface_ctb.jpg)
+![](/wiki/shared/catch-gameplay.jpg)
 
-*Explicación completa: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
+*Explicación completa: [Catch the Beat](/wiki/Game_mode/osu!catch)*
 
 - Catch the Beat es el segundo modo de juego especial añadido, después de Taiko.
 - En lugar de hacer clic en los círculos, ahora tienes la tarea de mover al [catcher](/wiki/Glossary) (recolector) en la parte inferior de la pantalla mientras que frutas caen desde arriba.
 
 #### Controlando al catcher
 
-Si el mod [relax](/wiki/Game_Modifiers) es usado, el catcher se controla moviendo el ratón.
+Si el mod [Relax](/wiki/Game_modifier/Relax) es usado, el catcher se controla moviendo el ratón.
 
 - Por defecto, las flechas izquierda \[<-\] y derecha \[->\] son usadas para mover al catcher.
 - Presionando la tecla SHIFT con alguna de las flechas, el catcher correrá en la dirección indicada a una velocidad de x1.5 (indicada por un brillante resplandor rodeando al catcher).
 
 ### ¿Qué es "osu!mania"?
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
-*Explicación completa: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Explicación completa: [osu!mania](/wiki/Game_mode/osu!mania)*
 
 - osu!mania es el tercer modo de juego especial añadido, después de Taiko y CtB.
 - Este modo de juego ha sido inmensamente utilizado en casi todos los grandes juegos de ritmo que requieren una buena coordinación mano/pierna, donde las notas siguen el ritmo dependiendo del BPM y la dificultad, y el jugador debe presionar la tecla correcta en el tiempo correcto para una nota específica. Aunque el modo de juego fue originalmente hecho como imitación del estilo de Beatmania, cambiando el número de teclas, puedes hacer que se vea más como Guitar Hero (5 teclas) o Dance Dance Revolution (4 teclas), etc. Actualmente, puedes establecerlo entre 4 y 8 teclas.
@@ -222,8 +222,8 @@ Disposición de teclas*de Izquierda a Derecha* (Para el estilo Beatmania IIDX)
 
 **Notas Especiales:**
 
-- SS de plata (SSH) = 100% de precisión con el(los) mod(s) '[hidden](/wiki/Game_Modifiers)' y/o '[flashlight](/wiki/Game_Modifiers)'.
-- S de plata (SH) = Encima del 90% de 300s, menos del 1% de 50s y sin errores con el(los) mod(s) '[hidden](/wiki/Game_Modifiers)' y/o '[flashlight](/wiki/Game_Modifiers)'.
+- SS de plata (SSH) = 100% de precisión con el(los) mod(s) '[Hidden](/wiki/Game_modifier/Hidden)' y/o '[Flashlight](/wiki/Game_modifier/Flashlight)'.
+- S de plata (SH) = Encima del 90% de 300s, menos del 1% de 50s y sin errores con el(los) mod(s) '[Hidden](/wiki/Game_modifier/Hidden)' y/o '[Flashlight](/wiki/Game_modifier/Flashlight)'.
 
 **En cuanto a los "Ranks" (rangos) en la página del perfil:**
 
@@ -239,7 +239,7 @@ Disposición de teclas*de Izquierda a Derecha* (Para el estilo Beatmania IIDX)
 
 ### ¿Donde puedo encontrar beatmaps?
 
-*Explicación detallada de los beatmaps: [Beatmaps](/wiki/Beatmaps)*
+*Explicación detallada de los beatmaps: [Beatmaps](/wiki/Beatmap)*
 
 Puedes encontrarlos en la página principal bajo el nombre de "[Beatmaps](https://osu.ppy.sh/beatmapsets)".
 

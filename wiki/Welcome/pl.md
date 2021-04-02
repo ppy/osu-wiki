@@ -8,7 +8,7 @@ Witaj w osu!, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiad
 - [Instalacja](/wiki/Installation)
 - [Zasady](/wiki/Rules)
 - [Najczęściej zadawane pytania](/wiki/FAQ)
-- [Tryby gry](/wiki/Game_Modes)
+- [Tryby gry](/wiki/Game_mode)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
@@ -42,4 +42,4 @@ Tworzenie skórek pozwala na zmianę wyglądu osu!. Zmiany mogą być zarówno k
 
 26 sierpnia 2016 roku osu! wiki została przeniesiona do repozytorium na GitHubie. Po tej zmianie proces współtworzenia drastycznie się zmienił. Wszystkie artykuły na wiki muszą być edytowane poprzez [repozytorium osu-wiki na GitHubie](https://github.com/ppy/osu-wiki) a następnie zostać ocenione, zanim pojawią się na osu! wiki.
 
-Aby zacząć pomagać, sprawdź [poradnik dot. pomocy na osu! wiki](/wiki/owcg).
+Aby zacząć pomagać, sprawdź [poradnik dot. pomocy na osu! wiki](/wiki/osu!_wiki_Contribution_Guide).

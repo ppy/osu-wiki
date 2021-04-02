@@ -153,7 +153,7 @@ At the **bottom-centre**, there is a **timeline** with markings and the compulso
 | Yellow up | Start of Drain time. |
 | Green up | Inherited Points. (See [Timing Setup](/wiki/Beatmap_Editor/Timing)) |
 | Red up | Timing Points. (See Timing Setup) |
-| Blue Down |Bookmark |
+| Blue Down | Bookmark |
 
 #### Colour Highlights
 

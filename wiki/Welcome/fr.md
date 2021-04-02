@@ -8,7 +8,7 @@ Bienvenue sur osu!, un jeu de rythme free-to-play développé par peppy qui comp
 - [Inscription](/wiki/Registration)
 - [Règles](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
-- [Modes de jeu](/wiki/Game_Modes)
+- [Modes de jeu](/wiki/Game_mode)
   - ![icône osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![icône osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![icône osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
@@ -44,4 +44,4 @@ Le skinning permet à n'importe qui de changer l'apparence d'osu!. Cela peut tr�
 
 Depuis le 26/08/2016, le osu! wiki a migré sur GitHub. Grâce à cette migration, le flux de travail a radicalement changé. Toutes les contributions doivent désormais se faire à partir du [dépôt osu-wiki sur GitHub](https://github.com/ppy/osu-wiki) et seront vérifiées avant d'être approuvées et utilisées sur l'osu! wiki.
 
-Pour bien démarrer, jetez un coup d'oeil au [guide pour contribuer au osu! wiki](/wiki/owcg)
+Pour bien démarrer, jetez un coup d'oeil au [guide pour contribuer au osu! wiki](/wiki/osu!_wiki_Contribution_Guide)

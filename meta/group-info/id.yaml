@@ -1,11 +1,65 @@
-outdated: true # missing entries
+# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
+alumni:
+  roles:
+    academy: pendiri osu!academy
+    admin: administrator
+    chat: Chat Moderator
+    dev: osu!dev
+    media: pereka cipta osu!media
+    support: Support Team
+    tournaments: manajemen turnamen
 gmt:
+  all_mods: seluruh moderator
   areas:
-    beatmap: Moderasi beatmap
-    chat: Moderasi chat
-    forum: Moderasi forum
-    player: Bantuan pemain
-    support: Dukungan teknis
-    tournaments: Turnamen
-    wiki: Administrasi wiki
+    beatmap: moderasi beatmap
+    chat: moderasi chat
+    forum: moderasi forum
+    team: anggota inti osu!team
+    dev: pengembangan osu!
+    player: dukungan pengguna
+    support: dukungan teknis
+    tournaments: manajemen turnamen
+    wiki: administrasi osu!wiki
+nat:
+  areas:
+    communication: komunikasi
+    evaluation: evaluasi
+    moderation: moderasi
+    structural: struktural
+languages:
+  partial: sedikit <language>
+  ar: Arab
+  bg: Bulgaria
+  bn: Bengal
+  ca: Katalan
+  da: Denmark
+  de: Jerman
+  el: Yunani
+  es: Spanyol
+  et: Estonia
+  fi: Finlandia
+  fil: Tagalog
+  fr: Prancis
+  hr: Kroasia
+  hu: Hungaria
+  id: Indonesia
+  it: Italia
+  ja: Jepang
+  ko: Korea
+  ms: Malaysia
+  nl: Belanda
+  no: Norwegia
+  pl: Polandia
+  pt: Portugis
+  ro: Rumania
+  ru: Rusia
+  sr: Serbia
+  sv: Swedia
+  te: Telugu
+  th: Thai
+  tr: Turki
+  ur: Urdu
+  vi: Vietnam
+  yue: Kanton
+  zh: Mandarin

@@ -364,7 +364,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 | --: | :-: | :-: | :-- | :-- |
 | **Ikeda Chizuru** ![][flag_US] | **3** | 2 | ![][flag_US] Sliceofpie | [#1](https://osu.ppy.sh/community/matches/51943277) |
 | **YungCowboy** ![][flag_US] | **3** | 0 | ![][flag_US] Slo | [#1](https://osu.ppy.sh/community/matches/51943275) |
-| **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] [KOR] Sora | -forfeit- |
+| **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] \[KOR\] Sora | -forfeit- |
 | **pishifat** ![][flag_US] | **3** | 1 | ![][flag_US] MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/51942892) |
 | Ikeda Chizuru ![][flag_US] | 2 | **3** | ![][flag_US] **YungCowboy** | [#1](https://osu.ppy.sh/community/matches/51943880) |
 | **Darin on osu** ![][flag_US] | **3** | 0 | ![][flag_US] pishifat | [#1](https://osu.ppy.sh/community/matches/51943344) |
@@ -378,7 +378,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 | **pishifat** ![][flag_US] | **3** | 1 | ![][flag_US] Sliceofpie | [#1](https://osu.ppy.sh/community/matches/51941939) |
 | **Darin on osu** ![][flag_US] | **3** | 0 | ![][flag_US] Achao3 | [#1](https://osu.ppy.sh/community/matches/51941917) |
 | **Musket** ![][flag_US] | **3** | 0 | ![][flag_US] Slo | [#1](https://osu.ppy.sh/community/matches/51941899) |
-| [KOR] Sora ![][flag_US] | 0 | **3** | ![][flag_US] **YungCowboy** | [#1](https://osu.ppy.sh/community/matches/51942119) |
+| \[KOR\] Sora ![][flag_US] | 0 | **3** | ![][flag_US] **YungCowboy** | [#1](https://osu.ppy.sh/community/matches/51942119) |
 | **Ikeda Chizuru** ![][flag_US] | **3** | 2 | ![][flag_US] MyAngelNeptune | -played offline- |
 
 ##### Losers
@@ -399,7 +399,7 @@ All of the players except ![][flag_US] Ikeda Chizuru played in a [seeding multip
 | ![][flag_US] Darin on osu | 34 |
 | ![][flag_US] Musket | 34 |
 | ![][flag_US] Ikeda Chizuru | 58 |
-| ![][flag_US] [KOR] Sora | 61 |
+| ![][flag_US] \[KOR\] Sora | 61 |
 | ![][flag_US] pishifat | 65 |
 | ![][flag_US] Sliceofpie | 72 |
 | ![][flag_US] YungCowboy | 77 |

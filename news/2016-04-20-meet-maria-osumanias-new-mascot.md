@@ -17,7 +17,7 @@ To celebrate Maria's release, we've added a brand new achievement (and swanky me
 
 *(We highly recommend using the default skin so that you actually see Maria in-game, but it isn't necessary to get the achievement.)*
 
-The more intrepid creators among us will find a few new skinning options available to them for the osu!mania mode - read all about it over at the [osu!wiki](https://osu.ppy.sh/help/wiki/Skinning/skin.ini#[mania]).
+The more intrepid creators among us will find a few new skinning options available to them for the osu!mania mode - read all about it over at the [osu!wiki](/wiki/Skinning/skin.ini#[mania]).
 
 ![](https://puu.sh/o5Hxq/d486b21976.jpg)
 

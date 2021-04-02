@@ -23,7 +23,7 @@ You can watch the full record of the finals right here:
 
 Congratulations again to the winners, and thanks to all participants for making this tournament so great. During the finals, over 1,000 viewers were recorded watching the live-stream, the highest view count that we have ever had broadcasting an osu! Taiko World Cup before!. We hope to see more players in the roster for next year's tournament, and are looking forward to broadcasting more awesome matches in the future!
 
-If you want to learn more about the osu! Taiko World Cup 2015, take a look at the [wiki article](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2015).
+If you want to learn more about the osu! Taiko World Cup 2015, take a look at the [wiki article](/wiki/Tournaments/TWC/2015).
 
 We would also like to mention the upcoming tournaments, mostly the upcoming osu! Catch the Beat World Cup 2015! Registrations are currently open and we are still expecting more people to sign up! Prepare your skills, corral your friends and [sign up for your country today!](https://osu.ppy.sh/home/news/2015-04-02-osu-catch-the-beat-world-cup-2015-registrations).
 

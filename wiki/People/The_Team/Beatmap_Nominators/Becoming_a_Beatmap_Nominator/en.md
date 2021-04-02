@@ -1,8 +1,10 @@
 # Becoming a Beatmap Nominator
 
-Users interested in joining the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) need to go through an application process overseen by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT). Applications are conducted via the [NAT website](http://bn.mappersguild.com/).
+Users interested in joining the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) need to go through an application process overseen by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT). 
 
-Applicants are required to meet a modding activity requirement, submit at least two maps they have recently modded, and complete a test on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. There is a 90-day cooldown for submitting new applications once an application has been submitted. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
+Applications are conducted via the [NAT website](http://bn.mappersguild.com/bnapps).
+
+Applicants are required to meet a modding activity requirement, submit at least two maps they have recently modded, and complete a [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
 
 ## Basic criteria
 
@@ -33,24 +35,50 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 
 ### How the required minimum score is calculated
 
-- This depends on the total `Mod Score` an applicant achieved over the last months. This value is determined according to the following formula:
+- This depends on the total `ModScore` an applicant achieved over the last months. This value is determined according to the following formula:
 
-![Mod Score Formula](/wiki/shared/Modscore_new_wiki.png "Mod Score Formula")
+![ModScore Formula](/wiki/shared/Modscore_new_wiki.png "ModScore Formula")
 
-`m` = Minimum expected number of individual beatmaps modded in a month  
+`m` = Minimum expected number of individual beatmaps modded in a month\
 `M` = Total achieved number of individual beatmaps modded in a month
 
-- [The website](http://bn.mappersguild.com/bnapps) has a tool for calculating mod score on its main page.
-- In order to determine their `Required Minimum Score`, the sum of the total Mod Score within the last three months must be greater or equal to zero,
+- [The website](http://bn.mappersguild.com/bnapps) has a tool for calculating `ModScore` on its main page.
+- In order to determine their required minimum score, the sum of the total `ModScore` within the last three months must be greater or equal to zero,
 - The overall minimum threshold is set to the following values:
-  - osu!taiko, osu!catch and osu!mania: m = 3 and a total of 150 kudosu or more
-  - osu!: m = 4 and a total of 200 kudosu or more
+  - osu!taiko, osu!catch and osu!mania: `m` = 3 and a total of 150 kudosu or more
+  - osu!: `m` = 4 and a total of 200 kudosu or more
 - It is usually a good idea to keep your score above these numbers, as they can vary slightly depending on the number of applicants.
 
 ### How new potential Beatmap Nominators are chosen
 
-- The `Mod Score` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
+- The `ModScore` of all applications will be doublechecked to confirm if they reached the required minimum score.
 - Modders that acquired enough score will be evaluated by the corresponding NAT members of the game mode they applied for, taking into account the following criteria:
   - General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), as well as general behaviour in chat/forums.
   - Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
 - After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
+
+## Cooldowns
+
+Depending on your status, your cooldown and modscore requirement before you can apply again may vary.
+
+### Failed applications
+
+You have these requirements if you failed a Beatmap Nominator application and apply again.
+
+| **Type** | **Cooldown** | **Activity Requirements** |
+| :-- | :-- | :-- |
+| Standard | 90 days | `ModScore` greater than 0 over 90 days |
+| Reduced | 60 days | `ModScore` greater than 0 over 90 days |
+| Failed [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 days | `ModScore` greater than 0 over 90 days |
+
+### Rejoining after being removed from the Beatmap Nominators
+
+Users who have recently left the Beatmap Nominators may have different requirements to rejoin compared to when they first joined. For users who have performed well prior to leaving, they may be able to rejoin with relaxed requirements. The NAT will inform the user if they have the opportunity to fast-track their way back into the Beatmap Nominators.
+
+If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were a Beatmap Nominator.
+
+| **Type** | **Cooldown** | **Activity Requirements** |
+| :-- | :-- | :-- |
+| Standard | 60 days | `ModScore` greater than 0 over 60 days |
+| Activity | 30 days | `ModScore` irrelevant, but 8 mods in 60 days |
+| Good | 30 days | `ModScore` greater than 0 over 30 days |

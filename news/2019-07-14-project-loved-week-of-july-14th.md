@@ -181,14 +181,14 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-07-14-project-loved-week-of-july-14th/mania/1-ghost.jpg)](https://osu.ppy.sh/community/forums/topics/934327)
 
 [Camellia - GHOST](https://osu.ppy.sh/beatmapsets/658081#mania) by [Lynessa](https://osu.ppy.sh/users/6703951)  
-220 BPM, 5:15 | [4K] 5.30★, [4K] 5.76★, [4K] 6.17★, [4K] 6.63★
+220 BPM, 5:15 | \[4K\] 5.30★, \[4K\] 5.76★, \[4K\] 6.17★, \[4K\] 6.63★
 
 One of Trixta's more popular charts (with no small part to the catchy, near-apocalyptic song that comes with it), *GHOST* is a jumpstream/handstream player's delight. Clocking in at 4-5 minutes of dense jumpstreams and handstreams with very few breaks, *GHOST* works excellently as an assessor of jumpstream or handstream ability and a gratifying challenge to players. The mapset contains rates as well (from 1.0 to 1.3) with the hardest difficulty being at a blisteringly fast 286 BPM. If you like jumpstream or handstream, this should absolutely be up your alley.
 
 [![](/wiki/shared/news/2019-07-14-project-loved-week-of-july-14th/mania/2-chik-habit.jpg)](https://osu.ppy.sh/community/forums/topics/934326)
 
 [The Flashbulb - Chik Habit](https://osu.ppy.sh/beatmapsets/732982#mania) by [Gekido-](https://osu.ppy.sh/users/4693052)  
-210 BPM, 2:34 | [4K] 4.17★, [4K] 4.45★
+210 BPM, 2:34 | \[4K\] 4.17★, \[4K\] 4.45★
 
 If you've been playing rhythm games for at least a year or two, you'll know who The Flashbulb is. His early crisp drill-and-bass tunes are hard to forget, and the combination of cinematic elements and IDM in his later works is an approachable yet cathartic listen for many. *Chik Habit* is, in the rhythm game community, one of The Flashbulb's most popular songs. There are multiple charts for *Chik Habit* in osu!mania, StepMania, and Flash Flash Revolution that are mind-numbingly difficult, one of which practically impossible. In this wave, we're nominating a chart for *Chik Habit* that is, while not as freakishly difficult as most charts for *Chik Habit*, a chart that is fair, exciting, complementary, and challenging.
 
@@ -199,7 +199,7 @@ Looking or playing through the chart, it's hard not to see why: Gekido's tactful
 [![](/wiki/shared/news/2019-07-14-project-loved-week-of-july-14th/mania/3-sakurairo-time-capsule.jpg)](https://osu.ppy.sh/community/forums/topics/934325)
 
 [\*namirin - Sakurairo Time Capsule](https://osu.ppy.sh/beatmapsets/831039#mania) by [MisterLuka](https://osu.ppy.sh/users/6117525), [eZmmR](https://osu.ppy.sh/users/8647138), [upan](https://osu.ppy.sh/users/4289829) and [kaythen](https://osu.ppy.sh/users/5782153)  
-170 BPM, 4:20 | [4K] 6.35★, [7K] 4.25★, [7K] 8.22★
+170 BPM, 4:20 | \[4K\] 6.35★, \[7K\] 4.25★, \[7K\] 8.22★
 
 After a very successful round with Ame to Asphalt, MisterLuka returns to Project Loved with another set to look out for! This round, we have *Sakurairo Time Capsule* which follows the usual 4K + 7K O2LN combination but with the aid of another 7K difficulty by kaythen.
 

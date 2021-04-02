@@ -8,12 +8,13 @@ no_native_review: true
 
 1. Dopo [aver installato](/wiki/Installation) osu! ed averlo aperto, osu! ti chiederà di fare il login o di registrarti. Supponendo che tu sia qui perché hai bisogno di un account, clicca `Crea un account`.
 
-![Il modulo di registrazione del sito web](img/ingame-registration.jpg "Il modulo di registrazione")
+   ![Il modulo di registrazione del sito web](img/ingame-registration.jpg "Il modulo di registrazione")
 
 2. Compila tutti i campi del modulo.
    - Per il campo del nome utente, c'è un massimo di 15 caratteri; i quali possono essere solo caratteri alfanumerici (`a-z`, `A-Z`, `0-9`), trattini bassi (`_`), parentesi quadre, (`[` e `]`), trattini (`-`), e spazi (` `).
    - Per il campo dell'indirizzo email, usa la tua email. Questa viene utilizzata per il reset della password e per mandarti dei codici di verifica quando sono necessari, quindi non usare un'email a casaccio.
    - Per il campo della password, usa una password che sia lunga almeno 8 caratteri.
+
 3. Una volta completato, clicca `1. Crea il mio account`. Sarà fatto automaticamente l'accesso.
 
 ## Cosa c'è dopo?

@@ -233,7 +233,7 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Maou** | **12** |  | **Horou** | **11** |  | **Davvyforte** | **12** |  | **Ladylag** | **12** |
 | **edisonhello** | **9** |  | **NestleiFan** | **9** |  | **BITONIC** | **8** |  | **NutAndGo** | **9** |
-| TNKSTC | 7 |  | ReanimateS | 8 |  | [xiao ba] | 6 |  | GodYeeKung | 4 |
+| TNKSTC | 7 |  | ReanimateS | 8 |  | \[xiao ba\] | 6 |  | GodYeeKung | 4 |
 | - Blue Bell - | 0 |  | JunFish | 3 |  | Katsumi | 4 |  | Blujae | 5 |
 
 | Group E | Score |  | Group F | Score |  | Group G | Score |  | Group H | Score |
@@ -241,7 +241,7 @@
 | **Yukina-** | **12** |  | **palmEuEi** | **12** |  | **Halo-** | **12** |  | **mewmew** | **12** |
 | **HD_AdreNaline** | **11** |  | **Antalf** | **9** |  | **EDTA233** | **8** |  | **vincent4399** | **8** |
 | Kasumii-sama | 4 |  | xyxyxy091 | 4 |  | Loily | 5 |  | Yozomi | 6 |
-| -[ GuiboxFR ]- | 6 |  | OumiOVO | 5 |  | XxTheJKxX | 4 |  | DrugManager | 0 |
+| -\[ GuiboxFR \]- | 6 |  | OumiOVO | 5 |  | XxTheJKxX | 4 |  | DrugManager | 0 |
 
 ## 规则
 
@@ -272,7 +272,6 @@
 主办方有对规则的最终解释权。
 
 - 注意：如果任何人被主办方或是 osu! 官方认为是“作弊者”或“有嫌疑”，将被立刻从比赛中删除。
-
 - 入场
   - 房间名均有 TNMT 前缀，对应场次的选手亦将在比赛前收到邀请。
   - 选手需在比赛开始前 10 分钟入场。

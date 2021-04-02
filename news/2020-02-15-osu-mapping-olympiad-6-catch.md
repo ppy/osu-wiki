@@ -6,7 +6,7 @@ date: 2020-02-15 20:30:00 +0000
 
 Fruit artists assemble as the Mapping Olympiad returns to osu!catch! Do you have what it takes to ascend the pantheon of osu! Mapping Olympians? Read inside for all the juicy contest details and how to participate!
 
-[![](https://osu.ppy.sh/help/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/90)
+[![](/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/90)
 
 With a hearty congratulations to our Mapping Olympians in each of osu!'s four game modes, we set our sights on the future, and the time is once again ripe for fruit arrangers from all corners of the globe to take centre stage.
 
@@ -28,7 +28,7 @@ MYLK's *Waffle Wave* masterfully blends electronic dance rhythms and sugar-sweet
 ## Rules
 
 - This contest is for the **osu!catch** mode only.
-- Each entry must follow the **[Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)** (with one notable exception, stated below). Entries found to break the Ranking Criteria will be subject to penalties, ranging from point deductions to disqualification based on severity.
+- Each entry must follow the **[Ranking Criteria](/wiki/Ranking_Criteria)** (with one notable exception, stated below). Entries found to break the Ranking Criteria will be subject to penalties, ranging from point deductions to disqualification based on severity.
 - Beatmap submissions must **not** exceed 15MB.
 - Storyboards will **not** be considered in the judging process.
 - Custom hitsounds **may** be used.

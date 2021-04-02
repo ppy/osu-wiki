@@ -64,6 +64,7 @@ Dieser Bereich ist für alle Turniere bestimmt. Klicken Sie auf [hier](https://o
 - [osu!tourney](/wiki/osu!tourney) (Client zum Streamen der Turniere)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif

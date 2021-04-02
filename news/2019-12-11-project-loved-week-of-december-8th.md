@@ -55,7 +55,7 @@ The mapset is topped off with a beautiful, supplemental storyboard which you sho
 
 [ARM feat. miko - Hysteric Soda](https://osu.ppy.sh/beatmapsets/59515#osu) by [ryza](https://osu.ppy.sh/users/1171628)  
 175 BPM, 4:06 | 5.20★, 6.06★  
-The [Hard], [f e a r's Hysteria], [Horo's Taiksoda], [Normal], [CXu] and [Easy] difficulties are *not* being nominated for Loved.  
+The \[Hard\], \[f e a r's Hysteria\], \[Horo's Taiksoda\], \[Normal\], \[CXu\] and \[Easy\] difficulties are *not* being nominated for Loved.  
 *description written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
 
 One of Silynn's earlier creations with the aim of it hitting the Ranked section, *Hysteric Soda* is a fun tune with some very nostalgic mapping conventions thrown in. Despite this however, it would be somewhat difficult to recognise this as a 2012 map—the patterning is clean and still holds up to today's standards in aesthetics. Included in the set is a slightly edited CS0 AR8 version of the map, obviously made for a giggle but actually provides a nice reading and density challenge for those looking for that kind of thing. Interested? Give it a play!
@@ -129,7 +129,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-12-11-project-loved-week-of-december-8th/mania/1-please-don-t-remember.jpg)](https://osu.ppy.sh/community/forums/topics/996119)
 
 [The Flashbulb - Please Don’t Remember](https://osu.ppy.sh/beatmapsets/809304#mania) by [Gekido-](https://osu.ppy.sh/users/4693052)  
-175 BPM, 2:53 | [4K] 4.27★
+175 BPM, 2:53 | \[4K\] 4.27★
 
 A common favourite among tech enthusiasts, [Gekido-](https://osu.ppy.sh/users/4693052)'s rendition of *Please Don't Remember* is a well-coordinated maelstrom of fast bursts, minijacks, and tricky patterns that is both difficult and rewarding to play through, with a banger of a song to boot.
 
@@ -140,14 +140,14 @@ While the chart is very difficult to get good accuracy on, *Please Don't Remembe
 [![](/wiki/shared/news/2019-12-11-project-loved-week-of-december-8th/mania/2-ump9.jpg)](https://osu.ppy.sh/community/forums/topics/996118)
 
 [tomatoism - UMP9](https://osu.ppy.sh/beatmapsets/970727#mania) by [Ticle](https://osu.ppy.sh/users/11602148)  
-200 BPM, 2:56 | [4K] 4.55★
+200 BPM, 2:56 | \[4K\] 4.55★
 
 A brand new face to the osu!mania Loved scene is Ticle with his map for *UMP9*! This is a familiar piece to those who tuned in for this year's osu!mania 4K World Cup, and a brilliant one at that. It is a mixed experience, involving no shortage of long notes, bursts, some small SVs, and many other well-designed and smoothly flowing patterns throughout. The main kick of the chart is when the chorus comes in, where the main synth is represented by LNs on either columns 1 and 2, or columns 3 and 4, locking one hand down at a time whilst the other sounds are represented on the opposite hand. It makes not only for a representative piece, but one that you can feel especially clearly while playing. Not to mention it also is quite tricky, making it engaging for low- and high-level players alike. This nomination thoroughly earns its spot in Loved.
 
 [![](/wiki/shared/news/2019-12-11-project-loved-week-of-december-8th/mania/3-la-md.jpg)](https://osu.ppy.sh/community/forums/topics/996117)
 
 [Billx - LA MD](https://osu.ppy.sh/beatmapsets/903549#mania) by [Wilben_Chan](https://osu.ppy.sh/users/6659363)  
-190 BPM, 6:09 | [7K] 7.27★, [7K] 7.59★, [7K] 7.91★
+190 BPM, 6:09 | \[7K\] 7.27★, \[7K\] 7.59★, \[7K\] 7.91★
 
 For this round, we're getting a fairly familiar stamina pick from the Finals round of the osu!mania 7K World Cup 2019. If you enjoyed [Wind God Girl](https://osu.ppy.sh/beatmapsets/347113#mania) and [DJ Sharpnel 7K](https://osu.ppy.sh/beatmapsets/538667#mania), then you're in for a treat!
 

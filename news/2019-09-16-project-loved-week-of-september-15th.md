@@ -124,7 +124,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-09-16-project-loved-week-of-september-15th/mania/1-sense.jpg)](https://osu.ppy.sh/community/forums/topics/961642)
 
 [SCRIPT - SENSE](https://osu.ppy.sh/beatmapsets/981117#mania) by [LeiN-](https://osu.ppy.sh/users/2162939)  
-177 BPM, 2:55 | [4K] 4.94★
+177 BPM, 2:55 | \[4K\] 4.94★
 
 Did you guys miss LeiN-? We did too. Unlike LeiN-'s previous charts in the Loved section, *SENSE* is an extremely complex drumstep song with many distinct sections, unpredictable bass wobbles, and a multitude of sound textures to be found. Just like the song, LeiN-'s rendition of *SENSE* is very complex and very technical.
 
@@ -135,14 +135,14 @@ To say that the chart is dynamic is an understatement—it's one of LeiN-'s most
 [![](/wiki/shared/news/2019-09-16-project-loved-week-of-september-15th/mania/2-kimi-no-shiranai-monogatari.jpg)](https://osu.ppy.sh/community/forums/topics/961641)
 
 [supercell - Kimi no Shiranai Monogatari](https://osu.ppy.sh/beatmapsets/696444#mania) by [eZmmR](https://osu.ppy.sh/users/8647138) et al.  
-165 BPM, 5:36 | [4K] 6.22★
+165 BPM, 5:36 | \[4K\] 6.22★
 
 We've seen him before taking the spot of a popular LN charter, and here eZmmR is once again along with collaborative partners Pianissimo, Timbergling and Yuichie (also including a couple of familiar faces) for their chart of *Kimi no Shiranai Monogatari*. As you might expect from the familiar group, the chart is chock full of difficult LN patterns taking various forms, from LN streams to release oriented dump patterns, to occasional runs of inverse patterning. Similar to their last entry, it is truly the type of chart for those LN enthusiasts to jump all over and enjoy, and one for those looking to introduce themselves to the vast array of difficult LN patterns there are to find. The chart is certainly a popular one of this genre, and can be very appealing to the two groups mentioned, and thus earns itself a spot among the Loved nominations.
 
 [![](/wiki/shared/news/2019-09-16-project-loved-week-of-september-15th/mania/3-tiefsee.jpg)](https://osu.ppy.sh/community/forums/topics/961640)
 
 [SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE](https://osu.ppy.sh/beatmapsets/861816#mania) by [Kim_GodSSI](https://osu.ppy.sh/users/2218047)  
-165 BPM, 5:49 | [7K] 8.29★
+165 BPM, 5:49 | \[7K\] 8.29★
 
 It's time for another Kim_GodSSI pick! This round we're having *TIEFSEE*! You might have seen this from the last 7K Mania World Cup and it is arguably one of the more well-received maps in the pool for all the right reasons.
 

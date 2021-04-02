@@ -1,3 +1,8 @@
+---
+needs_cleanup: true  # слишком много громоздких предложений, плюс, формат статьи устарел (см. оригинал)
+outdated: true
+---
+
 # Основное окно чата
 
 Можно вызвать с большинства экранов osu! нажав на клавиатуре `F8` или нажав на экране `Show chat` в правом нижнем углу.
@@ -60,26 +65,26 @@
 7. `Ignore User`: Любая запись игрока не появится в вашем окне чата.
 8. `Close`: Закрывает панель.
 
-## Список комманд
+## Список команд
 
 ### /help
 
-| Комманда | Что произойдет | Пример | Ответ BanchoBot'а |
+| Команда | Что произойдет | Пример | Ответ BanchoBot'а |
 | :-- | :-- | :-- | :-- |
 | `/addfriend [игрок]` or `/delfriend [игрок]` | Добавляет/Удаляет `[игрок]` в/из список/списка друзей. | `/addfriend Amigo` | Теперь вы друзья с Amigo. |
 | `/away [сообщение]` | Устанавливает ответное сообщение (отправляется игрокам пишущим вам). Оставьте сообщение пустым, чтобы отменить. | `/away Я John Smith.` | Вы были помечены как: Я John Smith. Когда Amigo пишет: /msg John,кто ты? BanchoBot отвечает: Я John Smith. |
-| `/bb` | Отправляет сообщение bancho как rank <№> | `/bb rank 1` | [15/11/12] Статистика для Uan: Очки: 47,323,299,680 (#1) Игр: 176293 (lv102) Аккуратность: 98.95% |
-| /chat [игрок] | Открывает окно чата с указанным пользователем. | `/chat Amigo` | (окно чата с Amigo открыто) |
+| `/bb` | Отправляет сообщение bancho как rank <№> | `/bb rank 1` | \[15/11/12\] Статистика для Uan: Очки: 47,323,299,680 (#1) Игр: 176293 (lv102) Аккуратность: 98.95% |
+| /chat \[игрок\] | Открывает окно чата с указанным пользователем. | `/chat Amigo` | (окно чата с Amigo открыто) |
 | `/clear` | Очищает текущий чат. | `/clear` | (Очищено всё в текущей вкладке) |
-| `/ignore [игрок][@chp]` | Игнорировать все сообщения от указанного игрока. Добавляя после @ буквы, c, h, и/или p, вы можете игнорировать чат, "Хайлайты" или приватные сообщения соответственно. | `/ignore Amigo@chp` | BanchoBot: Вы больше не будете слышать от Amigo {chat} {highlights} {PM} (Ваше окно чата установленно в: игнорировать любой текст, написанный Amigo [c], все возможные "хайлайты" от Amigo [h] все отправленные вам сообщения от Amigo [p]) |
+| `/ignore [игрок][@chp]` | Игнорировать все сообщения от указанного игрока. Добавляя после @ буквы, c, h, и/или p, вы можете игнорировать чат, "Хайлайты" или приватные сообщения соответственно. | `/ignore Amigo@chp` | BanchoBot: Вы больше не будете слышать от Amigo {chat} {highlights} {PM} (Ваше окно чата установленно в: игнорировать любой текст, написанный Amigo \[c\], все возможные "хайлайты" от Amigo \[h\] все отправленные вам сообщения от Amigo \[p\]) |
 | `/unignore [user]` | Перестать игнорировать этого пользователя. | /unignore Amigo | Теперь ты можешь слышать Amigo. (Ваше окно чата может отображать любые сообщения от Amigo) |
 | `/me [действие]` | Выполнение действия от третьего лица. | `/me дома` | John дома |
 | `/msg [игрок] [msg]` | Отправить приватное сообщение `[игрок]`. | `/msg Amigo я болею дома.` | (В окне Amigo) John: Я болею дома. |
 | `/names` | Показать всех IRC пользователей. | `/name` | (Появляется список ников) |
-| `/np` | Напечатать в чат какую песню вы сейчас слушаете или выбираете. | `/np` |(Если играет) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) (Если вы ничего не делаете,то печатается песня которая играет в плеере osu!) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) (Если наблюдает автоигру) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
-| `/reply` или `/r` | Ответ на последнее полученное сообщение. | `/r Ты знаешь какого-нибудь хорошего доктора?` | (В окне чата Amigo) [Предыдущие комментарии] John: Я болею дома. Amigo: Серьезно? John: Ты знаешь какого-нибудь хорошего доктора? |
+| `/np` | Напечатать в чат какую песню вы сейчас слушаете или выбираете. | `/np` | (Если играет) \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) (Если вы ничего не делаете,то печатается песня которая играет в плеере osu!) \* John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756#osu/22538) (Если наблюдает автоигру) \* John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) [Autoplay](/wiki/Game_modifier/Auto) |
+| `/reply` или `/r` | Ответ на последнее полученное сообщение. | `/r Ты знаешь какого-нибудь хорошего доктора?` | (В окне чата Amigo) \[Предыдущие комментарии\] John: Я болею дома. Amigo: Серьезно? John: Ты знаешь какого-нибудь хорошего доктора? |
 | `/savelog` | Сохраняет текущий чат в текстовый файл. | `/savelog` | (Папка под названием "Chat" будет создана в корневой папке osu!,в нее будут сохраняться все следующие чаты) |
-| `/watch [игрок]` | Начать наблюдение за `[игрок]`. | `/watch Amigo` | Начато наблюдение за Amigo. (Если Amigo играет в карту которая есть у вас,вы увидите как играет Amigo [после недолгой загрузки] Amigo увидит ваш ник у себя на экране) |
+| `/watch [игрок]` | Начать наблюдение за `[игрок]`. | `/watch Amigo` | Начато наблюдение за Amigo. (Если Amigo играет в карту которая есть у вас,вы увидите как играет Amigo \[после недолгой загрузки\] Amigo увидит ваш ник у себя на экране) |
 
 ### /keys
 

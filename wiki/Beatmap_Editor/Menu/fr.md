@@ -95,8 +95,8 @@ Notez que ces commandes peuvent être désactivées à partir de la barre latér
 | Renverser verticalement (`Ctrl` + `J`) | Renverser la ou les notes de haut en bas (par rapport à la ligne de l'axe des x de l'origine du terrain de jeu) et vice versa. |
 | Rotation de 90° dans le sens des aiguilles d'une montre (`Ctrl` + `>`) | Faites pivoter la ou les notes de 90° vers la droite |
 | Rotate 90° Anticlockwise (`Ctrl` + `<`) | Rotate the note(s) 90° left |
-| Tournez par... (`Ctrl` + `Shift` + `R`) | Réglez votre angle de rotation (+/- 180°) pour la ou les mauvaises notes. Vous pouvez régler le sens de rotation [(Anti-/)Clockwise] et Origin] (Playfield/Selection) Centre.] |
-| Échelle par... (`Ctrl` + `Shift` + `S`) | Définissez votre taille d'agrandissement (0.500x - 1.200x) pour la ou les mauvaises notes. Vous pouvez ajuster l'Origine [(Playfield/Selection) Centre] et " Appliquer à " (l'échelle d'agrandissement à) l'un ou l'autre ou les deux axes x et/ou y. |
+| Tournez par... (`Ctrl` + `Shift` + `R`) | Réglez votre angle de rotation (+/- 180°) pour la ou les mauvaises notes. Vous pouvez régler le sens de rotation \[(Anti-/)Clockwise\] et Origin\] (Playfield/Selection) Centre.] |
+| Échelle par... (`Ctrl` + `Shift` + `S`) | Définissez votre taille d'agrandissement (0.500x - 1.200x) pour la ou les mauvaises notes. Vous pouvez ajuster l'Origine \[(Playfield/Selection) Centre\] et " Appliquer à " (l'échelle d'agrandissement à) l'un ou l'autre ou les deux axes x et/ou y. |
 
 ### Boutons de réinitialisation
 

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: c1175ba788c488eb294b1b04c55a6dee798009de
+---
+
 # Équipe du Support
 
 L'**équipe de support** (aussi connu sous le nom de **Équipe de support Redux**, à ne pas confondre avec l'équipe de support pour les comptes, aussi connu sous le nom d' "Équipe de support") sont des membres du staff d'osu! dont leur objectif premier est d'aider les joueurs par la modération d'une partie des sous-forums du jeu : [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (sauf [Tournaments](https://osu.ppy.sh/community/forums/55) et [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), et [Help](https://osu.ppy.sh/community/forums/5).

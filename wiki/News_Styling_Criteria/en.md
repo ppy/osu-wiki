@@ -136,7 +136,7 @@ Alt text is not to be used in banners.
 
 Limited HTML use for the purposes of embedding off-site content such as YouTube videos, Twitch VODs or other applets designed to showcase osu! or osu! related content is allowed.
 
-``<center>`` tag use (or any equivalent styling such as ``<p align='center'>``is disallowed due to the news system styling automatically centering non-text elements.
+``<center>`` tag use (or any equivalent styling such as ``<p align='center'>``) is disallowed due to the news system styling automatically centering non-text elements.
 
 The width of all embedded content frames must be set to ``width: 100%``. To be included in articles in general, embedded content must support display at full-width styling without breaking or looking awful.
 

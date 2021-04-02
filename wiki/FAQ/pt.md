@@ -16,7 +16,7 @@ Você poder ver os círculos na parte inferior da tela, e no topo da tela você 
 
 ### Como jogar?
 
-*Explicação completa: [osu! Standard](/wiki/Game_Modes/osu!)*
+*Explicação completa: [osu! Standard](/wiki/Game_mode/osu!)*
 
 como a maioria dos usuários de computadores não possuem tela touchscreen, o jogo foi feito para ser jogado com mouse. Algumas musicas passam do limite do que podemos considerar Jogável com apenas o mouse, mas a maioria das musicas ranqueadas são jogáveis com apenas mouse, para musicas mais difíceis é mais apropriado usar o teclado junto. Existem outros tipos de dispositivos que podem ser usados para jogar, visite [Play Styles](/wiki/Play_Styles) para mais informação.
 
@@ -45,7 +45,7 @@ Vamos aprender sobre os tipos de hit-objects.
 
 - Aqui você pode ver os círculos (mais conhecidos como hit-circles, circles ou apenas nota) que você deve acertar. note que eles são numerados, você deve acerta-los em ordem crescente até um novo conjunto aparecer.
   - O circulo menor na parte de fora (conhecido como approach-circle ou circulo de aproximação) encolhe e você tem que acertar a nota no momento exato que o approach circle e o hitcircle se tocam.
-- Você não deve apenas depender de seus olhos para calcular o momento certo de acertar as notas. Tente entender que tipo de ritmo o criador do [Beatmap](/wiki/Beatmaps) está seguindo usando seus ouvidos.
+- Você não deve apenas depender de seus olhos para calcular o momento certo de acertar as notas. Tente entender que tipo de ritmo o criador do [Beatmap](/wiki/Beatmap) está seguindo usando seus ouvidos.
 
 ##### Sliders
 
@@ -74,7 +74,7 @@ Vamos aprender sobre os tipos de hit-objects.
 
 #### Interface durante uma partida
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 - A barra na parte superior esquerda é sua "barra de saúde" (mais conhecida como health bar)
   - Ela vai reduzir lentamente \[depende das configurações escolhidas pelo criador\], você pode preencher a barra novamente acertando as notas com o máximo de precisão
@@ -89,9 +89,9 @@ Vamos aprender sobre os tipos de hit-objects.
 
 ### O que é "Taiko"?
 
-*Explicação completa: [Taiko](/wiki/Game_Modes/osu!taiko)*
+*Explicação completa: [Taiko](/wiki/Game_mode/osu!taiko)*
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)é um jogo de tambores de taiko criado pela namco, o jogo envolve simulação de tocar esses tambores seguindo o ritmo da musica. No osu!, beatmaps podem ser jogados no estilo de Taiko no Tatsujin em uma versão adaptada.
 
@@ -128,8 +128,8 @@ Vamos aprender sobre os tipos de hit-objects.
 
 Os comandos padrão para o modo taiko são:
 
-- Vermelho: [Mouse] Clique Esquerdo, [Keyboard] [X] ou [C], [TaTaCon] Superfície do tambor.
-- Azul: [Mouse] Clique Direito, [Keyboard] [Z] ou [V], [TaTaCon] Laterais do tambor.
+- Vermelho: \[Mouse\] Clique Esquerdo, \[Keyboard\] \[X\] ou \[C\], \[TaTaCon\] Superfície do tambor.
+- Azul: \[Mouse\] Clique Direito, \[Keyboard\] \[Z\] ou \[V\], \[TaTaCon\] Laterais do tambor.
 
 O local onde o cursor fica não faz diferença em quanto joga
 
@@ -137,25 +137,25 @@ Talvez você precise reconfigurar os comandos para que fiquem mais confortáveis
 
 ### O que é "Catch the Beat"?
 
-![](/wiki/shared/Interface_ctb.jpg)
+![](/wiki/shared/catch-gameplay.jpg)
 
-*Explicação completa: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
+*Explicação completa: [Catch the Beat](/wiki/Game_mode/osu!catch)*
 
 - Catch the Beat é o segundo modo de jogo especial adicionado, depois de Taiko.
 - Ao invés de clicar em círculos, sua tarefa é mover o catcher na parte inferior da tela enquanto as frutas caem da parte superior.
 
 #### Controlando o catcher
 
-Caso o mod [Relax](/wiki/Game_Modifiers) estiver sendo utilizado, o catcher pode ser movido com o mouse.
+Caso o mod [Relax](/wiki/Game_modifier/Relax) estiver sendo utilizado, o catcher pode ser movido com o mouse.
 
 - Por padrão, as setas esquerda \[<-\] e direita \[->\] do teclado são usadas para mover o catcher.
 - Pressionando o botão \[SHIFT\] esquerdo com uma das setas faz com que o catcher correr naquela direção (indicado por um brilho ao redor do catcher).
 
 ### O que é "osu!mania"?
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
-*Explicação completa: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Explicação completa: [osu!mania](/wiki/Game_mode/osu!mania)*
 
 - osu!mania é o terceiro modo de jogo especial adicionado, depois de Taiko e CtB.
 - Esse modo é similar a vários jogos rítmicos que precisam de boa coordenação, a quantidade de notas depende do BPM e dificuldade escolhida nas configurações, e o jogador deve acertar a tecla correspondente a nota e no tempo certo. O jogo foi originalmente feito como uma imitação da jogabilidade do Beatmania, porém, mudando o numero de teclas, você pode fazer a jogabilidade ficar semelhante a Guitar Hero (5 teclas) ou Dance Dance Revolution (4 teclas). Atualmente é possível jogar com 4 a 8 teclas.
@@ -249,8 +249,8 @@ Padrão de teclas *Esquerda-a-Direita* (estilo Beatmania IIDX)
 
 **Classificações Especiais:**
 
-- SS Prateado (SSH) = 100% precisão jogando com mod '[hidden](/wiki/Game_Modifiers)' e/ou '[flashlight](/wiki/Game_Modifiers)'
-- S Prateado (SH) = acima de 90% de 300s, menos de 1% de 50s sem perder nenhuma nota e jogando com o mod '[hidden](/wiki/Game_Modifiers)' e/ou '[flashlight](/wiki/Game_Modifiers)'.
+- SS Prateado (SSH) = 100% precisão jogando com mod '[Hidden](/wiki/Game_modifier/Hidden)' e/ou '[Flashlight](/wiki/Game_modifier/Flashlight)'
+- S Prateado (SH) = acima de 90% de 300s, menos de 1% de 50s sem perder nenhuma nota e jogando com o mod '[Hidden](/wiki/Game_modifier/Hidden)' e/ou '[Flashlight](/wiki/Game_modifier/Flashlight)'.
 
 **A respeito dos "Ranks" na pagina do perfil:**
 
@@ -263,7 +263,7 @@ Padrão de teclas *Esquerda-a-Direita* (estilo Beatmania IIDX)
 
 ### Onde eu encontro beatmaps para baixar?
 
-*Explicação detalhada sobre beatmaps: [Beatmaps](/wiki/Beatmaps)*
+*Explicação detalhada sobre beatmaps: [Beatmaps](/wiki/Beatmap)*
 
 Você pode encontrar beatmaps para baixar na pagina principal com o nome "[Beatmaps](https://osu.ppy.sh/beatmapsets)".
 
@@ -299,7 +299,7 @@ Certifique-se de que a tecla de fumaça/escrita/desenho não esta próxima das t
 
 ## Créditos
 
-- FAQ do peppy[1]
+- FAQ do peppy\[1\]
 - Peter Lambert - osu! tutorial ([Tutorial Original do peppy](https://osu.ppy.sh/beatmapsets/3756), [Tutorial não-oficial Ranqueado](https://osu.ppy.sh/beatmapsets/19928))
 - Treino para iniciantes do Pokebis [2](https://osu.ppy.sh/community/forums/topics/5456)
 - Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

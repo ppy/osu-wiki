@@ -2,7 +2,7 @@
 
 El Divisor de ritmo se usa para limitar dónde se pueden colocar notas para que siempre caigan al ritmo. Mover el control deslizante hacia la derecha aumenta la granularidad de las notas, es decir, se pueden colocar más notas en la misma medida.
 
-Cada una de las configuraciones pone marcas de diferentes colores en las [Lineas de Tiempo](/wiki/Beatmap_Editor/Timelines). Las marcas son los siguientes (para [estandar](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), y [osu!catch](/wiki/Game_Modes/osu!catch)):
+Cada una de las configuraciones pone marcas de diferentes colores en las [Lineas de Tiempo](/wiki/Beatmap_Editor/Timelines). Las marcas son los siguientes (para [estandar](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), y [osu!catch](/wiki/Game_mode/osu!catch)):
 
 ## osu!, osu!taiko, osu!catch
 

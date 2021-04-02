@@ -248,7 +248,7 @@ We've got **4** brand new tracks from Trial & Error, with all of them also avail
 
 Trial & Error. It's science, people.
 
--------
+---
 
 This should go without saying, but all the tracks listed above and every one on a Featured Artist listing are 100% free for use in mapping, so go ahead and get creative with things!
 

@@ -12,7 +12,7 @@ Les cercles sont sur l'écran du bas, et l'histoire sur l'écran du haut. Chaque
 
 ### Comment jouer ?
 
-*Explication complète: [osu!](/wiki/Game_Modes/osu!)*
+*Explication complète: [osu!](/wiki/Game_mode/osu!)*
 
 La majorité des joueurs n'ayant pas d'écran tactile, le jeu a été fait pour être joué avec une souris, ainsi que l'utilisation d'une variété d'appareils de pointage. Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu](/wiki/Play_Styles). Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
@@ -58,11 +58,11 @@ Le cercle blanc montre combien de temps il reste avant que le spinner ne se term
 
 La petite boîte en bas montre le nombre de tours par minute. Le nombre dans cette boîte devient le nombre de tours possibles. Si la souris/touche a été relâchée (ou que le stylet ne touche pas la tablette) vers le début du tour, le spinner arrêtera de lire le tour.
 
-Sur *DS*, c'est un très bon moyen d'abîmer l'écran tactile (ou sa protection), surtout sur les plus grandes difficultés. Dans osu!, les spinners ont été faits de manière à ce qu'ils ne soient pas aussi embêtant à compléter. Le nombre maximum de tours par minute est 477, qui est également à la vitesse à laquelle le game modifier [Auto](/wiki/Game_Modifiers) et tourne, mais le game modifier [Spun Out](/wiki/Game_Modifiers) tourne à 287 tours de minute.
+Sur *DS*, c'est un très bon moyen d'abîmer l'écran tactile (ou sa protection), surtout sur les plus grandes difficultés. Dans osu!, les spinners ont été faits de manière à ce qu'ils ne soient pas aussi embêtant à compléter. Le nombre maximum de tours par minute est 477, qui est également à la vitesse à laquelle le game modifier [Auto](/wiki/Game_modifier/Auto) et tourne, mais le game modifier [Spun Out](/wiki/Game_modifier/Spun_Out) tourne à 287 tours de minute.
 
 #### Interface du jeu
 
-![interface d'osu!](/wiki/shared/Interface_osu.jpg "Interface osu!")
+![interface d'osu!](/wiki/shared/osu-gameplay.jpg "Interface osu!")
 
 La barre en haut à gauche est celle de la vie, qui diminuera à un rythme soutenu (qui dépend des réglages de la beatmap), mais qui peut être remplie en tapant les notes au bon moment ou en tournant un spinner. Un hit parfaitement tappé (un 300 ou un Geki) donnera plus de vie qu'un hit moins bien tappé (50). Une note manquée prendra beaucoup de vie.
 
@@ -78,9 +78,9 @@ Les contrôles par défaut d'osu! sont:
 
 Les hit objects sur osu! acceptent n'importe quelle entrée de l'appareil, tant que chaque hit object est tapé à temps.
 
-Si le game modifier [Relax](/wiki/Game_Modifiers) est utilisé, seul le curseur fonctionnera. Utilisez le curseur pour suivre les hit objects, sans vous préoccuper de les taper. Les spinners doivent tout de même être faits.
+Si le game modifier [Relax](/wiki/Game_modifier/Relax) est utilisé, seul le curseur fonctionnera. Utilisez le curseur pour suivre les hit objects, sans vous préoccuper de les taper. Les spinners doivent tout de même être faits.
 
-Si le game modifier [Auto Pilot](/wiki/Game_Modifiers) est utilisé, seule l'entrée des appareils ne fonctionneront. Calculez le moment auquel taper les hit objects, sans vous occuper des mouvements du curseur. Les spinners iront à la vitesse du mod [Spun Out](/wiki/Game_Modifiers).
+Si le game modifier [Auto Pilot](/wiki/Game_modifier/Autopilot) est utilisé, seule l'entrée des appareils ne fonctionneront. Calculez le moment auquel taper les hit objects, sans vous occuper des mouvements du curseur. Les spinners iront à la vitesse du mod [Spun Out](/wiki/Game_modifier/Spun_Out).
 
 ---
 
@@ -90,13 +90,13 @@ Si le game modifier [Auto Pilot](/wiki/Game_Modifiers) est utilisé, seule l'ent
 
 ![Mode change interface](/wiki/shared/Interface_mode.png "Interface de changement de mode")
 
-Cliquez sur le bouton `Mode` pour **ouvrir une liste des modes de jeu disponibles sur osu!**. Cliquez sur le mode de jeu voulu. osu! changera donc de mode de jeu, les leaderboards se mettront également à jour. Autrement, appuyez sur `Ctrl` puis `1` (![][osu! icon] *[osu!standard](/wiki/Game_Modes/osu!)*) / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_Modes/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_Modes/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_Modes/osu!mania)*) sur votre clavier pour facilement changer de mode de jeu.
+Cliquez sur le bouton `Mode` pour **ouvrir une liste des modes de jeu disponibles sur osu!**. Cliquez sur le mode de jeu voulu. osu! changera donc de mode de jeu, les leaderboards se mettront également à jour. Autrement, appuyez sur `Ctrl` puis `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!)*) / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) sur votre clavier pour facilement changer de mode de jeu.
 
 ### Qu'est-ce qu'osu!taiko?
 
-*Expliquation complète: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
+*Expliquation complète: [osu!taiko](/wiki/Game_mode/osu!taiko)*
 
-![osu!taiko Interface](/wiki/shared/Interface_taiko.jpg "Interface osu!taiko")
+![osu!taiko Interface](/wiki/shared/taiko-gameplay.jpg "Interface osu!taiko")
 
 *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* est un jeu de rythme de tambour taiko fait par *Namco* (maintenant Namco Bandai). Le jeu implique la simulation d'un tambour de taiko au rythme de la musique. Dans osu!, les beatmaps peuvent être jouées avec le même style que celui de *Taiko no Tatsujin* en passant par le mode de jeu osu!taiko.
 
@@ -158,15 +158,15 @@ Les contrôles par défaut pour osu!taiko sont:
 
 La position du curseur n'est pas utilisée.
 
-Si le mod [Relax](/wiki/Game_Modifiers) est utilisé, le jugement ne prendra compte que du timing des hits (ne prend pas en compte une mauvaise couleur).
+Si le mod [Relax](/wiki/Game_modifier/Relax) est utilisé, le jugement ne prendra compte que du timing des hits (ne prend pas en compte une mauvaise couleur).
 
 Les contrôleurs *TaTaCon* ont d'abord été créés pour *Taiko no Tatsujin* et *Taiko: Drum Master*.
 
 ### Qu'est-ce qu'osu!catch ?
 
-*Explication complète: [osu!catch](/wiki/Game_Modes/osu!catch)*
+*Explication complète: [osu!catch](/wiki/Game_mode/osu!catch)*
 
-![Interface d'osu!catch](/wiki/shared/Interface_ctb.jpg "Interface osu!catch")
+![Interface d'osu!catch](/wiki/shared/catch-gameplay.jpg "Interface osu!catch")
 
 osu!catch (anciennement connu sous le nom de *Catch the Beat*) est le deuxième mode de jeu ajouté à osu!, après osu!taiko.
 
@@ -204,7 +204,7 @@ Rater une goutte de jus cassera le combo (comme un tick de slider), mais les gou
 
 De grandes bananes pleuveront, certaines rétréciront même, tout en tombant vers le plateau. Chaque banane collectée ajoutera 1,100 au score, indépendamment des mods ou du multiplicateur de combo.
 
-Les bananes peuvent être ignorées, elles ne donnent pas de pénalité de vie. Cependant, cela peut coûter des points supplémentaires et de la récupération de vie de ne pas les récupérer. Le mod [Auto](/wiki/Game_Modifiers) fera quelque chose d'impossible: récupérer *toutes* kes bananes, sans en rater une seule.
+Les bananes peuvent être ignorées, elles ne donnent pas de pénalité de vie. Cependant, cela peut coûter des points supplémentaires et de la récupération de vie de ne pas les récupérer. Le mod [Auto](/wiki/Game_modifier/Auto) fera quelque chose d'impossible: récupérer *toutes* kes bananes, sans en rater une seule.
 
 ##### Hyperfruits
 
@@ -220,13 +220,13 @@ Attraper un hyperfruit augmentera la vitesse du dash, qui est devenu un *hyperda
 - Appuyez et maintenez la touche `leftShift`(D) et une flèche afin que l'attrapeur *dash* dans la direction données à une vitesse x2.0 (indiqué avec une **surbrillance** de l'attrapeur).
   - Autrement, appuyez et maintenez le Click Gauche(D) pour déclencher le dash.
 
-La position du curseur n'est pas utilisée en jouant normalement. Si le mod [Relax](/wiki/Game_Modifiers) est activé, l'attrapeur est déplacé avec le curseur. Cependant, la partie n'est pas classable quand le mod Relax est activé (puisque cela gâcherait l'intérêt d'osu!catch; la vitesse fixée de l'attrapeur et le contrôle du plateau).
+La position du curseur n'est pas utilisée en jouant normalement. Si le mod [Relax](/wiki/Game_modifier/Relax) est activé, l'attrapeur est déplacé avec le curseur. Cependant, la partie n'est pas classable quand le mod Relax est activé (puisque cela gâcherait l'intérêt d'osu!catch; la vitesse fixée de l'attrapeur et le contrôle du plateau).
 
 ### Qu'est-ce qu'osu!mania?
 
-*Explication complète: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Explication complète: [osu!mania](/wiki/Game_mode/osu!mania)*
 
-![Interface d'osu!mania](/wiki/shared/Interface_mania.jpg "Interface osu!mania")
+![Interface d'osu!mania](/wiki/shared/mania-gameplay.jpg "Interface osu!mania")
 
 osu!mania est le troisième mode de jeu ajouté à osu!, après osu!taiko et osu!catch.
 
@@ -234,9 +234,9 @@ Ce mode est très utilisé dans la plupart des jeux de rythme majeurs. Il demand
 
 Lorsque l'on convertit une map qui n'est pas spécifique à osu!mania, le nombre de touches va de 4 à 7.
 
-Avec le modifieur [xK](/wiki/Game_Modifiers), le joueur peut manuellement changer le nombre de touches, qui peut aller de 1 à 9, avec une réduction du multiplicateur de score. Cependant, le modifieur ne fonctionnera pas sur les maps spécifiques à osu!mania.
+Avec le modifieur [xK](/wiki/Game_modifier/xK), le joueur peut manuellement changer le nombre de touches, qui peut aller de 1 à 9, avec une réduction du multiplicateur de score. Cependant, le modifieur ne fonctionnera pas sur les maps spécifiques à osu!mania.
 
-Avec le modifieur [Co-Op](/wiki/Game_Modifiers), l'écran sera divisé en deux, et les contrôles Co-Op seront utilisés. Il permet de jouer de 2 à 18 touches, avec une réduction du multiplicateur de score. Puisque le nombre de touches n'est pas doublé sur les maps spécifiques à osu!mania, l'écran sera séparé en deux (la partie gauche aura une touche en plus si impair), utilisera les contrôles Co-Op, et n'aura pas de réduction du multiplicateur de score.
+Avec le modifieur [Co-Op](/wiki/Game_modifier/Co-op), l'écran sera divisé en deux, et les contrôles Co-Op seront utilisés. Il permet de jouer de 2 à 18 touches, avec une réduction du multiplicateur de score. Puisque le nombre de touches n'est pas doublé sur les maps spécifiques à osu!mania, l'écran sera séparé en deux (la partie gauche aura une touche en plus si impair), utilisera les contrôles Co-Op, et n'aura pas de réduction du multiplicateur de score.
 
 #### Explication basique
 
@@ -358,8 +358,8 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 **Special grades:**
 
-- SS d'argent (SSH) = Grade SS normal avec le mod *[Hidden](/wiki/Game_Modifiers) et/ou *[Flashlight](/wiki/Game_Modifiers)*.
-- S d'argent (SH) = Grade S normal avec le mod *[Hidden](/wiki/Game_Modifiers)* et/ou *[Flashlight](/wiki/Game_Modifiers)*.
+- SS d'argent (SSH) = Grade SS normal avec le mod *[Hidden](/wiki/Game_modifier/Hidden)* et/ou *[Flashlight](/wiki/Game_modifier/Flashlight)*.
+- S d'argent (SH) = Grade S normal avec le mod *[Hidden](/wiki/Game_modifier/Hidden)* et/ou *[Flashlight](/wiki/Game_modifier/Flashlight)*.
 
 **À propos des *Ranks* sur la pages de profil:**
 
@@ -385,7 +385,7 @@ Pour les questions concernant les pp, veuillez d'abord consulter [la page du wik
 
 #### Où trouver et télécharger les beatmaps?
 
-*Explication détaillée sur les beatmaps: [Beatmaps](/wiki/Beatmaps)*
+*Explication détaillée sur les beatmaps: [Beatmaps](/wiki/Beatmap)*
 
 La page principale, sous le nom *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. N'oubliez juste pas de vous connecter avec un *compte osu!* auparavant pour pouvoir télécharger les beatmaps sur le site.
 
@@ -451,7 +451,7 @@ Tout le dossier `osu!`, ce qui inclut les fichiers cachés. Après avoir lancé 
 
 #### Puis-je utiliser osu! sur un téléphone ?
 
-*Liste complète: [Game Modes under External Ports section](/wiki/Game_Modes)*
+*Liste complète: [Game Modes under External Ports section](/wiki/Game_mode)*
 
 Le osu! actuel ne supporte pas les téléphones.
 
@@ -459,11 +459,11 @@ Cependant, il y a des portages non officiels d'osu! et un jeu officiel sur iOS q
 
 Les plus notables sont:
 
-- ![][osu! icon] opsu! [Windows/OS X/Linux/Android]:
+- ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
   Portage Java d'osu! créé par **itdelatrisu** avec **fluddokt** fournissant un support pour la version Android.
-- ![][osu!taiko icon] T-Aiko! v2 [Android/iOS]:
+- ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
   le mode osu!taiko porté par **low.moe (Guy-kun) team** avec des challenges quotidiens et de tout nouveaux classements T-Aiko!
-- ![][osu! icon] osu!stream [iOS]:
+- ![][osu! icon] osu!stream \[iOS\]:
   Expériencez le mode de jeu osu! sur iOS, développé par la team osu!
 
 ### osu!
@@ -486,7 +486,7 @@ Un slider est composé d'un cercle de départ, de petits cercles nommés ticks d
 
 Les ticks de slider n'apparaîssent que dans les chemins de slider; si les ticks de slider sont trop proches du départ ou de la fin comme montré sur l'image ci-dessus, il sera caché dans le cercle. Les ticks de slider cachés comptent quand même dans le combo et le score, il doit donc être collecté au même titre que les ticks de slider classiques. Si le slider possède des flèches de renversement, alors les ticks de slider réapparaîtront et pourront être collectés de nouveau dans le sens inverse.
 
-Si vous manquez le cercle de départ, un tick de slider, ou une flèche de renversement, le combo sera brisé (et devrait jouer un son si le combo est assez grand) mais n'est pas considéré comme un manqué. Cependant, si vous manquez le cercle de fin, le combo ne sera pas brisé et n'augmentera pas de 1. Ce n'est également pas compté comme un manqué; un 100 (ou katu pour une fin de combo) sera donné pour tout le slider, en partant du principe que le cercle de départ a été tapé correctement, et complété tous les ticks et les flèches de renversement. Surtout, le mod [Sudden Death](/wiki/Game_Modifiers) ne fera pas de game over si l'on manque le cercle de fin (puisque le combo ne casse pas, l'effet Sudden Death n'est pas activé).
+Si vous manquez le cercle de départ, un tick de slider, ou une flèche de renversement, le combo sera brisé (et devrait jouer un son si le combo est assez grand) mais n'est pas considéré comme un manqué. Cependant, si vous manquez le cercle de fin, le combo ne sera pas brisé et n'augmentera pas de 1. Ce n'est également pas compté comme un manqué; un 100 (ou katu pour une fin de combo) sera donné pour tout le slider, en partant du principe que le cercle de départ a été tapé correctement, et complété tous les ticks et les flèches de renversement. Surtout, le mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) ne fera pas de game over si l'on manque le cercle de fin (puisque le combo ne casse pas, l'effet Sudden Death n'est pas activé).
 
 Ces situations, causées par un slider, sont nommés **sliderbreak**. Une partie ayant un combo maximal peut être remarqué en regardant la présence du mot *Perfect* sur le graphique des performances; ne pas avoir de *Perfect*, surtout sans manqués, indique généralement qu'il y a eu un sliderbreak durant la partie.
 

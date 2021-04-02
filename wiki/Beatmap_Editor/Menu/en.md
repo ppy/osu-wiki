@@ -93,7 +93,7 @@ Do note that these commands can be disabled at [Options](/wiki/Options) sidebar 
 | Rotate 90° Clockwise (`Ctrl` + `>`) | Rotate the note(s) 90° right |
 | Rotate 90° Anticlockwise (`Ctrl` + `<`) | Rotate the note(s) 90° left |
 | Rotate by... (`Ctrl` + `Shift` + `R`) | Set your rotation angle (+/- 180°) for the poor note(s). You can adjust the rotation Direction \[(Anti-)Clockwise\] and Origin \[(Playfield/Selection) Centre\]. |
-| Scale by... (`Ctrl` + `Shift` + `S`) | Set your enlargement size (0.500x - 1.200x) for the poor note(s). You can adjust the Origin [(Playfield/Selection) Centre] and "Apply to" (the enlargement scale to) either or both x-axis and/or y-axis. |
+| Scale by... (`Ctrl` + `Shift` + `S`) | Set your enlargement size (0.500x - 1.200x) for the poor note(s). You can adjust the Origin \[(Playfield/Selection) Centre\] and "Apply to" (the enlargement scale to) either or both x-axis and/or y-axis. |
 
 ### Reset Buttons
 

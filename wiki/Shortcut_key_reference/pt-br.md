@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 526e49f5b89310dbe8b7cdf8144cac713aaf770a
 no_native_review: true
 tags:
   - hotkey
@@ -67,18 +69,18 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 
 | Atalho | Ação |
 | :-- | :-- |
-| `F1` | Abre o menu de seleção de [modificadores de jogo](/wiki/Game_Modifiers). |
+| `F1` | Abre o menu de seleção de [modificadores de jogo](/wiki/Game_modifier). |
 | `F2` | Aleatoriamente seleciona um beatmap. |
 | `Shift` + `F2` | Volta ao beatmap préviamente escolhio aleatoriamente. |
 | `F3` | Abre as opções de beatmap. |
 | `F5` | Reprocessa os beatmaps (isso talvez te peça confirmação para continuar). |
 | `Shift` + `Delete` | Mostra o diálogo de deletar beatmaps. Isso irá te perguntar se você deseja deletar o beatmapset (todas as dificuldades), o beatmap (a dificuldade selecionada), ou todos os beatmaps visíveis. |
-| `Ctrl` + `1` | Muda o modo de jogo para o [osu!](/wiki/Game_Modes/osu!). |
-| `Ctrl` + `2` | Muda o modo de jogo para o [osu!taiko](/wiki/Game_Modes/osu!taiko). |
-| `Ctrl` + `3` | Muda o modo de jogo para o [osu!catch](/wiki/Game_Modes/osu!catch). |
-| `Ctrl` + `4` | Muda o modo de jogo para o [osu!mania](/wiki/Game_Modes/osu!mania). |
-| `Ctrl` + `Enter` | Joga o beatmap selecionado com o [mod Auto](/wiki/Game_Modifiers#auto). |
-| `Ctrl` + `Shift` + `Enter` | Joga o beatmap selecionado com o [mod Cinema](/wiki/Game_Modifiers#auto). |
+| `Ctrl` + `1` | Muda o modo de jogo para o [osu!](/wiki/Game_mode/osu!). |
+| `Ctrl` + `2` | Muda o modo de jogo para o [osu!taiko](/wiki/Game_mode/osu!taiko). |
+| `Ctrl` + `3` | Muda o modo de jogo para o [osu!catch](/wiki/Game_mode/osu!catch). |
+| `Ctrl` + `4` | Muda o modo de jogo para o [osu!mania](/wiki/Game_mode/osu!mania). |
+| `Ctrl` + `Enter` | Joga o beatmap selecionado com o [mod Auto](/wiki/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Joga o beatmap selecionado com o [mod Cinema](/wiki/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Liga e desliga o mod Auto. |
 | `Ctrl` + `F3` or `Ctrl` + `+` | Aumenta a velocidade de scroll/rolamento do osu!mania (enquanto no modo osu!mania). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Diminui a velocidade de scroll/rolamento do osu!mania (enquanto no modo osu!mania). |
@@ -92,7 +94,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 
 ### Modificadores de jogo
 
-*Página principal: [Game modifiers](/wiki/Game_Modifiers)*  
+*Página principal: [Game modifiers](/wiki/Game_modifier)*  
 *Nota: Pressionar o atalho irá ativar ou desativar-los. Você precisa estar dentro do menu dos modificadores de jogo para utilizar esses atalhos.*  
 *Nota: Target practice (osu!standard), 1K e 2K (osu!mania), Co-op (osu!mania), e Mirror (osu!mania) não possuem atalhos.*
 

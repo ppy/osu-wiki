@@ -13,7 +13,7 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 | Obecna, domyślna ścieżka | Stara ścieżka |
 | :-- | :-- |
-| C:\Users\<Username>\AppData\Local\osu! | C:\Program Files\osu! / C:\Program Files(x86)\osu! (dla 7 64-bit lub 8) |
+| C:\Users\\\<Username\>\AppData\Local\osu! | C:\Program Files\osu! / C:\Program Files(x86)\osu! (dla 7 64-bit lub 8) |
 > "C:" jest twoim dyskiem z zainstalowanym osu!.
 
 ## Foldery
@@ -43,10 +43,10 @@ Pojawia się, gdy zmienisz swój język w Opcjach. **'Zawiera przetłumaczone pl
 
 ### Replays
 
-Zawiera **zewnętrzny, wykonywalny plik z powtórką (.osr)**. Nie działa, gdy nie posiadasz mapy do której chcesz obejrzeć powtórkę. Przetrzymuje wyniki i odtwarza ruch kursora w powtórce. Żeby stworzyć plik .osr, wciśnij ***[F2]*** na ekranie rezultatu albo zaznacz pole "Save as .osr" na ekranie Rankingu Online (poniżej ekranu Rezultatu w trybie Solo). Nie zapisuje replayów z trybu Multiplayer. Wielkość pliku sięga blisko 100KB ~ 1KB. [Dla graczy zainteresowanych wstawianiem powtórek na YouTube](https://osu.ppy.sh/community/forums/topics/108092).
+Zawiera **zewnętrzny, wykonywalny plik z powtórką (.osr)**. Nie działa, gdy nie posiadasz mapy do której chcesz obejrzeć powtórkę. Przetrzymuje wyniki i odtwarza ruch kursora w powtórce. Żeby stworzyć plik .osr, wciśnij ***\[F2\]*** na ekranie rezultatu albo zaznacz pole "Save as .osr" na ekranie Rankingu Online (poniżej ekranu Rezultatu w trybie Solo). Nie zapisuje replayów z trybu Multiplayer. Wielkość pliku sięga blisko 100KB ~ 1KB. [Dla graczy zainteresowanych wstawianiem powtórek na YouTube](https://osu.ppy.sh/community/forums/topics/108092).
 
 Szyk: `{Lokalny pseudonim gracza} - {Wykonawca} - {Tytuł} {[Poziom trudności]}{(Rok-Miesiąc-Dzień)} {Tryb Gry}`
-**Przykład:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
+**Przykład:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania
 
 ### Screenshots
 
@@ -56,7 +56,7 @@ Szyk: `screenshot###` gdzie "###" to numer zrzutu ekranu.
 
 ### Skins
 
-Zawiera stworzone przez użytkowników skórki, które mogą być użyte w celu zmienienia wyglądu osu!. Możesz pobrać więcej skinów z [centrum skinowania osu!](https://osu.ppy.sh/community/forums/15). Są dwie możliwości rozpakowania skórek. Jeśli posiadasz uruchamialny plik skórki (.osk), bezpośrednio go otwórz i skórka zostanie dodana do osu!. Jeśli posiadasz skórkę w formie foldera, przenieś go do tego folderu. Jeśli to format .zip/.rar, musisz najpierw go rozpakować. Możesz zmienić skórki w [ opcjach (Wybór skórek)](/wiki/Options).
+Zawiera stworzone przez użytkowników skórki, które mogą być użyte w celu zmienienia wyglądu osu!. Możesz pobrać więcej skinów z [centrum skinowania osu!](https://osu.ppy.sh/community/forums/15). Są dwie możliwości rozpakowania skórek. Jeśli posiadasz uruchamialny plik skórki (.osk), bezpośrednio go otwórz i skórka zostanie dodana do osu!. Jeśli posiadasz skórkę w formie foldera, przenieś go do tego folderu. Jeśli to format .zip/.rar, musisz najpierw go rozpakować. Możesz zmienić skórki w [opcjach (Wybór skórek)](/wiki/Options).
 
 Dla dalszego źródła, proszę odnoś się do strony [Skinning](/wiki/Skinning). Również, "osu! by peppy" to jedyny skin bez folderu oraz nie może zostać skasony bezpośrednio.
 
@@ -93,7 +93,7 @@ Pliki .db przechowują dane beatmap, które tylko osu!.exe/osu!test.exe może wy
 Pliki konfiguracyjne konfigurują wstępne ustawienia osu! do pracy. Pliki te mogą zostać otworzone przy użyciu Notatnika.
 
 - osu!.cfg (logiczna konfiguracja osu!)
-- osu!.{YOUR PC NAME}.cfg ("Ekran [Opcji](/wiki/Options)". Zawiera także [ zlekceważone/ciekawe zmienne i osobiste informacje](/wiki/osu!_Program_Files/User_configuration_file))
+- osu!.{YOUR PC NAME}.cfg ("Ekran [Opcji](/wiki/Options)". Zawiera także [zlekceważone/ciekawe zmienne i osobiste informacje](/wiki/osu!_Program_Files/User_configuration_file))
   - {YOUR PC NAME}: Nazwa twojego konta PC. Powiedzmy, że nazwa twojego konta PC to "HelloWorld", plik .cfg będzie się nazywał, osu!.HelloWorld.cfg.
 
 ### .exe (aplikacja)

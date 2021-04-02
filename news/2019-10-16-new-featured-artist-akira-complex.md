@@ -46,7 +46,7 @@ Think you're ready to digest it all? Give it a preview below!
     <source src="https://assets.ppy.sh/artists/51/previews/1512.mp3" type="audio/mpeg">
 </audio>
 
------
+---
 
 If, by chance, this is your first time reading this far, all of these tracks are available ready for mapping and 100% free to use over at [**Akira Complex's** Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/51)!
 

@@ -26,6 +26,7 @@ La coupe du monde de osu! est un tournoi à double élimination par équipe de 4
 | [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Pologne | ![][flag_US] États-Unis d'Amérique | ![][flag_GB] Royaume-Uni |
 | [osu! World Cup 2018](/wiki/Tournaments/OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] États-Unis d'Amérique | ![][flag_GB] Royaume-Uni | ![][flag_DE] Allemagne |
 | [osu! World Cup 2019](/wiki/Tournaments/OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] États-Unis d'Amérique | ![][flag_KR] Corée du Sud | ![][flag_GB] Royaume-Uni |
+| [osu! World Cup 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ![][flag_US] États-Unis d'Amérique | ![][flag_DE] Allemagne | ![][flag_CA] Canada |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -40,12 +41,13 @@ La coupe du monde de osu! est un tournoi à double élimination par équipe de 4
 | [osu!taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_HK] Hong Kong |
 | [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_CA] Canada |
 | [osu!taiko World Cup 2019](/wiki/Tournaments/TWC/2019) | 2019-04-20 | 2019-05-26 | ![][flag_JP] Japon | ![][flag_TW] Taiwan | ![][flag_KR] Corée du Sud |
+| [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_US] États-Unis d'Amérique |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Catch the Beat World Cup](/wiki/Tournaments/CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] Chine | ![][flag_TW] Taïwan | ![][flag_CL] Chili |
+| [Catch the Beat World Cup](/wiki/Tournaments/CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] half manual player team | ![][flag_CL] Chile |
 | [Catch the Beat World Cup 2013](/wiki/Tournaments/CWC/2013) | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chili | ![][flag_TW] Taïwan | ![][flag_AR] Argentine/Colombie |
 | [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] Corée du Sud | ![][flag_DE] Allemagne | ![][flag_SE] Suède |
 | [osu!ctb World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_DE] Allemagne |
@@ -53,6 +55,7 @@ La coupe du monde de osu! est un tournoi à double élimination par équipe de 4
 | [osu!catch World Cup 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_ID] Indonésie |
 | [osu!catch World Cup 2018](/wiki/Tournaments/CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] Chine | ![][flag_US] États-Unis d'Amérique | ![][flag_CL] Chili |
 | [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_CL] Chili |
+| [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_US] États-Unis d'Amérique |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -69,6 +72,7 @@ La coupe du monde de osu! est un tournoi à double élimination par équipe de 4
 | [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4K | ![][flag_KR] Corée du Sud | ![][flag_US] États-Unis d'Amérique | ![][flag_BR] Brésil |
 | [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 2019-02-09 | 2019-03-17 | 7K | ![][flag_KR] Corée du Sud | ![][flag_PH] Philippines | ![][flag_CN] Chine |
 | [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K) | 2019-09-21 | 2019-10-27 | 4K | ![][flag_KR] Corée du Sud | ![][flag_BR] Brésil | ![][flag_US] États-Unis d'Amérique |
+| [osu!mania 4K World Cup 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | 4K | ![][flag_BR] Brésil | ![][flag_JP] Japon | ![][flag_KR] Corée du Sud |
 
 ## Tournois communautaires
 
@@ -210,7 +214,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) | ![][flag_CL] [Furioso](https://osu.ppy.sh/u/8588666) |
+| Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) | ![][flag_CL] [Furioso](https://osu.ppy.sh/users/8588666) |
 | Beginners' Taiko Tournament Season 2 | 2017-05-04 | 2017-06-25 | Team Yiff | Midnight Demons | Ghostly Kangies |
 | Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) | ![][flag_PT] [Just2Gud](https://osu.ppy.sh/users/4430263) | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
 | [Beginners' Taiko Tournament 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
@@ -329,37 +333,37 @@ Tournois/Compétitions non officiels organisés par la communauté.
 - [Liste des pays qui ont participés dans des tournois d'osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client utilisé pour le streaming de tournoi)
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RO]: /wiki/shared/flag/RO.gif "Roumanie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turquie"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

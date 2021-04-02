@@ -5,11 +5,11 @@ date: 2015-07-12 19:44:48 +0000
 tumblr_url: http://osunews.tumblr.com/post/123912240253/osumania-4k-world-cup-2015-registrations-open
 ---
 
-We'd like to welcome all of you to this year's official osu!mania 4K World Cup. We have split the 4K and 7K brackets of the MWC into two seperated tournaments and start with the 4K tournament. However, the rules have been adjusted from the previous MWC, so please [read them carefully ](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2015#ruleset) before registering for this tournament.
+We'd like to welcome all of you to this year's official osu!mania 4K World Cup. We have split the 4K and 7K brackets of the MWC into two seperated tournaments and start with the 4K tournament. However, the rules have been adjusted from the previous MWC, so please [read them carefully](/wiki/Tournaments/MWC/2015#ruleset) before registering for this tournament.
 
 ![](/wiki/shared/news/banners/MWC_2015.png)
 
-For more details, refer to the [osu!mania 4K World Cup 2015 wiki article](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2015).
+For more details, refer to the [osu!mania 4K World Cup 2015 wiki article](/wiki/Tournaments/MWC/2015).
 
 ## Tournament Schedule
 
@@ -24,11 +24,11 @@ For more details, refer to the [osu!mania 4K World Cup 2015 wiki article](https:
 
 ## What has been changed?
 
-- Sign-ups are individual now. Teams will be compiled by captains **after registration phase**. For more information, please read the [Tournament Registration Regulations](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2015#tournament-registration).
+- Sign-ups are individual now. Teams will be compiled by captains **after registration phase**. For more information, please read the [Tournament Registration Regulations](/wiki/Tournaments/MWC/2015#tournament-registration).
 - Sign-ups run via [this web registration now](https://osu.ppy.sh/tournaments/1).
 - We split the 4K and 7K brackets into two independent tournaments. Whereas the 4K version takes place now, the 7K version takes place on December 2015.
 - We plan to run this tournament as a 3 versus 3 tournament.
-- We have changed over to a double elimination bracket after group stage. Therefore, the tournament runs for a full week longer. Check [the Stage Instructions](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2015#stage-instructions) for more details.
+- We have changed over to a double elimination bracket after group stage. Therefore, the tournament runs for a full week longer. Check [the Stage Instructions](/wiki/Tournaments/MWC/2015#stage-instructions) for more details.
 - We adjusted the mappool sizes according to the stages.
 - We adjusted the winning conditions on every Stage.
 - We have implemented a new 'veto' rule, replacing the previous beatmap picking restrictions.

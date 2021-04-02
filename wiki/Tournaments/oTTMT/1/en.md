@@ -65,7 +65,7 @@ The osu! Tag Team Multiplayer Tournament was run by various community members by
 | **Untitled** | ![][flag_CN] **[ignorethis](https://osu.ppy.sh/users/27343)**, ![][flag_CN] [leimiliya](https://osu.ppy.sh/users/76568) |
 | **FOE** | ![][flag_US] **[Mafiamaster](https://osu.ppy.sh/users/17695)**, ![][flag_DE] [Nharox](https://osu.ppy.sh/users/6794) |
 
-------------------------------
+---
 
 ## Podium
 
@@ -79,7 +79,7 @@ This competition has come to an end and resulted in the following podium:
 
 ![oTTMT Bracket](img/bracket.png)
 
-------------------------------
+---
 
 ## Mappools
 
@@ -170,7 +170,7 @@ This competition has come to an end and resulted in the following podium:
 - [UI-70 - Invisible Full Moon](https://osu.ppy.sh/beatmapsets/5763)
 - [Yoko Hikasa - Don't Say "Lazy"](https://osu.ppy.sh/beatmapsets/6257)
 
-------------------------------
+---
 
 ## Match Results
 
@@ -222,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
 | **Animalz D:** | **2** | 1 | ?! |
 | **Untitled** | **2** | 1 | FOE |
 
-------------------------------
+---
 
 ## Ruleset
 

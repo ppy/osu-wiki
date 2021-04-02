@@ -8,7 +8,7 @@ Vítaj v osu!, rytmickej hre ktorá je zadarmo. Bola vytvorená peppy-m a má 4 
 - [Registrácia](/wiki/Registration)
 - [Pravidlá](/wiki/Rules)
 - [Najčastejšie kladené otázky](/wiki/FAQ)
-- [Hracie módy](/wiki/Game_Modes)
+- [Hracie módy](/wiki/Game_mode)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
@@ -44,4 +44,4 @@ Skinovanie dovoľuje komukoľvek zmeniť vzhľad osu!. Skinovanie sa môže pohy
 
 Od 26. augusta 2016 sa osu! wiki presunula na svoje vlastné GitHub repo. Všetky príspevky idú cez [osu-wiki GitHub repo](https://github.com/ppy/osu-wiki) kde sú následne overené a zlúčené do osu! wiki.
 
-Pokiaľ sa chceš pridať, pozri si [osu! wiki Príučku k prispievaniu](/wiki/owcg).
+Pokiaľ sa chceš pridať, pozri si [osu! wiki Príučku k prispievaniu](/wiki/osu!_wiki_Contribution_Guide).

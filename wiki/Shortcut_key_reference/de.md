@@ -66,7 +66,7 @@ Diese Kürzel können überall verwendet werden:
 
 - `Alt` + `Pfeil oben`: Lautstärke erhöhen
 - `Alt` + `Pfeil unten`: Lautstärke verringern
-- `F1`: [Mod](/wiki/Game_Modifiers)-Auswahl öffnen
+- `F1`: [Mod](/wiki/Game_modifier)-Auswahl öffnen
 - `F2`: Eine zufällige Beatmap auswählen
 - `Shift` + `F2`: Zufällige Map-Auswahl rückgängig machen
 - `F3`: Beatmap-Optionen
@@ -97,7 +97,7 @@ Diese Kürzel können überall verwendet werden:
 
 ### Spielmodifikatoren (Mods)
 
-*Siehe auch: [Spielmodifikatoren](/wiki/Game_Modifiers)*
+*Siehe auch: [Spielmodifikatoren](/wiki/Game_modifier)*
 
 **Hinweis:** Die Tastenkürzel gehen davon aus, dass kein Mod ausgewählt ist.
 

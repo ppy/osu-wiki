@@ -78,7 +78,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | A | H-ShJie | KirigayaSnow | yuki hirahira | 1ess\_\_ |
 | B | Anonie | magical Sao | HerrySun | shizehao |
 | C | bouquetww | a794151336 | s\_w\_w | Yutto007 |
-| D | [xiao ba] | Star0v0 | RW233 | A M D |
+| D | \[xiao ba\] | Star0v0 | RW233 | A M D |
 
 ## Mappools
 

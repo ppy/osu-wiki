@@ -176,21 +176,21 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/mania/1-hype-feat-such-lapix-remix.jpg)](https://osu.ppy.sh/community/forums/topics/910856)
 
 [PSYQUI - Hype feat. Such (lapix Remix)](https://osu.ppy.sh/beatmapsets/934819#mania) by [Chrubble](https://osu.ppy.sh/users/2594280)  
-175 BPM, 4:37 | [4K] 4.97★
+175 BPM, 4:37 | \[4K\] 4.97★
 
 Starting off osu!mania Loved is a chart whose description is summed up very nicely within its own title. Yes, this map very much lives up to the word "hype" through its great variety of technical elements, the consistency and satisfaction of these choices, and also the difficulty of it that more than matches up with the expectations of the song. A player who wishes to experience the hype around this map will find themselves immersed in a plethora of fast and tricky bursts, difficult minijack patterns, and disjointed LNs and releases sure to keep the attention of said player. Even with its near-5-minute play time, the chart continues to develop its patterns, eventually culminating in an intense showcase of LNs that neatly captures the ultimate intensity that the song was preparing and keeping the player on their toes for. All-in-all, a satisfying experience with the quickly-grown following gives this chart more than enough hype to earn it a nomination spot.
 
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/mania/2-a-reyvateil-s-curse.jpg)](https://osu.ppy.sh/community/forums/topics/910855)
 
 [Helblinde - A Reyvateil's Curse](https://osu.ppy.sh/beatmapsets/580790#mania) by [Skochan](https://osu.ppy.sh/users/7861278)  
-200 BPM, 4:25 | [4K] 7.69★, [7K] 6.92★
+200 BPM, 4:25 | \[4K\] 7.69★, \[7K\] 6.92★
 
 Joining in on the trend of insanely difficult and popular LN maps to be nominated comes A Reyvateil's Curse, a rather varied LN chart as far as these maps come. Skochan makes sure to bombard the player with as many difficult patterns as he can while remaining faithful to the song, stretching from LN jacks, speed and bursts to full on inverse in some sections. This variety has made it very appealing to LN enthusiasts, as well as anyone looking to get practice with the upper end of the skillset, and has led it to gain a significant following, landing it in a perfect position to be nominated for the Loved section.
 
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/mania/3-endymion.jpg)](https://osu.ppy.sh/community/forums/topics/910854)
 
 [fallen shepherd feat. RabbiTon Strings - ENDYMION](https://osu.ppy.sh/beatmapsets/684675#mania) by [Halogen-](https://osu.ppy.sh/users/169992) and [Kamikaze](https://osu.ppy.sh/users/2124783)  
-220 BPM, 1:59 | [4K] 1.35★, [4K] 3.56★, [4K] 4.09★, [4K] 5.44★
+220 BPM, 1:59 | \[4K\] 1.35★, \[4K\] 3.56★, \[4K\] 4.09★, \[4K\] 5.44★
 
 DanceDanceRevolution A's ENDYMION is notorious for having the hardest official singles chart in all of DDR, and, in the realm of osu!mania, having a difficult chart that has accumulated both notoriety and admiration over the years.
 
@@ -203,14 +203,14 @@ For lower-level players, there are three lower difficulties to check out, includ
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/mania/4-snailchan-adventure.jpg)](https://osu.ppy.sh/community/forums/topics/910853)
 
 [Ujico\*/Snail's House - Snailchan Adventure](https://osu.ppy.sh/beatmapsets/872779#mania) by [Wonki](https://osu.ppy.sh/users/7898495)  
-174 BPM, 3:22 | [7K] 6.58★
+174 BPM, 3:22 | \[7K\] 6.58★
 
 Finally coming into the Project Loved scene, we have Wonki's Snailchan Adventure! This map clocks in at 174 BPM and delivers a striking balance between rigid and comfy chordstream patterns. You name it, this has it! Brackets, anchors, chordtrills, and and a copious amount of comfy chordstreams. With its own share of pattern repetition to highlight similar sounding sections, a lot of sectional changes to the overall feel to the chart are present as well. Ranging from jacking, to burst patterns, and even an LN section later on into the song, this chart has something that everyone should look forward to playing.
 
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/mania/5-credens-justitiam.jpg)](https://osu.ppy.sh/community/forums/topics/910852)
 
 [Kajiura Yuki - Credens justitiam](https://osu.ppy.sh/beatmapsets/598654#mania) by [Flexo123](https://osu.ppy.sh/users/5367287)  
-136 BPM, 3:39 | [7K] 5.88★
+136 BPM, 3:39 | \[7K\] 5.88★
 
 In classic O2Jam fashion, we have our LN pick with Flexo123's Credens justitiam. Primarily a release-intensive chart, the map starts with with simple light chordstreaming at 136 BPM, which gradually transitions into a nearly full-LN chart by the first main section. While note yet release heavy, the section slowly picks up with the LN density and introduces some instances of LN release tech which peaks towards the end of the section. These introduced patterns only get more and more difficult as the map progresses.
 

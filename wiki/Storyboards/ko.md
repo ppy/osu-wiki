@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 스토리보드
 
 ![EBA중 Walkie Talkie Man 플레이 화면. 단, 이 화면은 "Elite Beat 300"을 따냈을 때만 나온다.](img/Sbpassing.png "EBA중 Walkie Talkie Man 플레이 화면. 단, 이 화면은 \"Elite Beat 300\"을 따냈을 때만 나온다.")

@@ -1,6 +1,6 @@
 # Se faire modder sa map
 
-Si vous souhaitez que votre map soit [classée](/wiki/Beatmaps#ranked), vous devrez vous la faire [modder](/wiki/Modding). Il y a plusieurs moyens d'y arriver.
+Si vous souhaitez que votre map soit [classée](/wiki/Beatmap/Category#ranked), vous devrez vous la faire [modder](/wiki/Modding). Il y a plusieurs moyens d'y arriver.
 
 ## \#modreqs
 

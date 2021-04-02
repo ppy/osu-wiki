@@ -26,9 +26,9 @@ First of all, congratulations to the winners of the Spring 2019 Seasonal Spotlig
 - [osu!catch](#catch)
 - [osu!mania](#mania)
 
-# Summer Spotlights
+## Summer Spotlights
 
-## <a name="osu" id="osu"></a>osu!
+### <a name="osu" id="osu"></a>osu!
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/hide.jpg)](https://osu.ppy.sh/beatmapsets/972932)
 
@@ -74,7 +74,7 @@ The top difficulty of the mapset by [Skystar](https://osu.ppy.sh/users/873961) a
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/dear.jpg)](https://osu.ppy.sh/beatmapsets/951890)
 
-[semaphore](https://osu.ppy.sh/users/6313643)'s LEAF XCEED Music Division - Dear You [ver. XCEED] is the perfect example of the saying "Less is more." Coming to the ranked with his first ranked map, semaphore is nowhere close to being a new mapper and decided to rank his first map not because it was innovative, new, conceptual or creative, but simply because it's probably the best execution he ever achieved in a map.
+[semaphore](https://osu.ppy.sh/users/6313643)'s LEAF XCEED Music Division - Dear You \[ver. XCEED\] is the perfect example of the saying "Less is more." Coming to the ranked with his first ranked map, semaphore is nowhere close to being a new mapper and decided to rank his first map not because it was innovative, new, conceptual or creative, but simply because it's probably the best execution he ever achieved in a map.
 
 The marathon itself is quite a simple difficulty, with clear visual, flow, and patterns, based on EvilElvis older mapping. In addition the slow pacing of the music and the main guitar leads are represented beautifuly by it's slider velocity and spacing changes, making this one of the best hard diffs to come out this year. To all casual, experienced and Higurashi fans out there, you should definetly try this map out.
 
@@ -140,7 +140,7 @@ The combination of lower intensity sections that contrast with alternate style o
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/ukiyoe.jpg)](https://osu.ppy.sh/beatmapsets/713506)
 
-It's been a good season for jazzy songs, and [Otosaka-Yu](https://osu.ppy.sh/users/3170678)'s mapset of "Ukiyoe Yokochou" pushes rhythmic variety to its limits. Featured in the Semi-Finals of OWC2018, [Brew] astounds through its very fresh-feeling rhythmic choices and patterning. Not a dull moment goes by in this action-packed 2 minutes, leaving no idea unexplored and no sound unmapped. The entire set is set to dazzle, so please take a look through it all.
+It's been a good season for jazzy songs, and [Otosaka-Yu](https://osu.ppy.sh/users/3170678)'s mapset of "Ukiyoe Yokochou" pushes rhythmic variety to its limits. Featured in the Semi-Finals of OWC2018, \[Brew\] astounds through its very fresh-feeling rhythmic choices and patterning. Not a dull moment goes by in this action-packed 2 minutes, leaving no idea unexplored and no sound unmapped. The entire set is set to dazzle, so please take a look through it all.
 
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
@@ -184,7 +184,7 @@ And as if the map wasn't already enough of a masterpiece on its own, [Peter](htt
 
 *written by [Deca](https://osu.ppy.sh/users/9088487)*
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+### <a name="taiko" id="taiko"></a>osu!taiko
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/taiko/field.jpg)](https://osu.ppy.sh/beatmapsets/897127)
 
@@ -245,7 +245,7 @@ If you love some speedy maps with complex patterns, this map will certainly fulf
 
 *written by [Nepuri](https://osu.ppy.sh/users/6637817)*
 
-## <a name="catch" id="catch"></a>osu!catch
+### <a name="catch" id="catch"></a>osu!catch
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/catch/oriental.jpg)](https://osu.ppy.sh/beatmapsets/910194)
 
@@ -283,7 +283,7 @@ Majeure has fun and technical streams with tap dashes and wiggles, which are esp
 
 *written by [F D Flourite](https://osu.ppy.sh/users/2459589)*
 
-## <a name="mania" id="mania"></a>osu!mania
+### <a name="mania" id="mania"></a>osu!mania
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/ari.jpg)](https://osu.ppy.sh/beatmapsets/933455)
 

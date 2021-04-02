@@ -14,7 +14,8 @@ osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their 
 - [Tournament Matches](#matches)
 - [Looking Ahead](#ahead)
 
---------
+---
+
 **Have you already forgotten the events that have transpired last week?** Here's a video recap by our beloved [Junihuhn](https://osu.ppy.sh/users/4182339) summarising the highlights of the Group Stage.
 
 <iframe style="display: block; margin: auto;" width="90%" height="450" src="https://www.youtube.com/embed/69UAX01RA14?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -27,7 +28,7 @@ osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their 
 
 This stage, we saw a total of 39 picks and 14 bans across 7 complete matches.
 
-### A word from our Mappool Selectors:
+### A word from our Mappool Selectors
 
 *"The mappool was ok overall, though we might have had a few problems with Ro16 quality-wise and it might have been more unbalanced than usual. We have received a lot of positive feedback and constructive criticism - this will no doubt help us grow as map selectors, and improve the mappools for the later stages."*
 
@@ -41,7 +42,7 @@ This stage, we saw a total of 39 picks and 14 bans across 7 complete matches.
 
 —[spoonguy](https://osu.ppy.sh/users/932381)
 
-### Mappool Statistics:
+### Mappool Statistics
 
 Picks were fairly balanced across the board, with the exception of [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/beatmaps/293691&m=3) and [she - gum](https://osu.ppy.sh/beatmaps/1546340&m=3) - both were banned a total of 6 times each. [she - Is This Love [osu!mania Speedmapping Challenge #5]](https://osu.ppy.sh/beatmaps/1206690&m=3) was the most popular pick this weekend, having been played in 6 out of 7 matches.
 
@@ -51,7 +52,7 @@ For full details, please refer to the [statistics sheet](https://docs.google.com
 
 Taking place over 2 blocks on the same day, the majority of the matches ended up in sweeps, though some of the matches were a lot closer than you would think.
 
-### Sunday:
+### Sunday
 
 ***Block 1 (03:00 - 05:00 UTC):***
 
@@ -61,7 +62,7 @@ Taking place over 2 blocks on the same day, the majority of the matches ended up
 
 ![](/wiki/shared/news/2018-02-22-osu-mania-7k-world-cup-ro16-recap/unitedstates_australia.jpg)
 
---------
+---
 
 ***Block 2 (10:00 - 16:00 UTC):***
 
@@ -83,7 +84,7 @@ Enter [kamome sano - eclair au chocolat (extended bittersweet mix)](https://osu.
 
 What a surprising weekend this has been!
 
---------
+---
 
 If you're looking for something a little bit more visual, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all). Alternatively, you can check out Junihuhn's wonderful recap video below!
 
@@ -115,7 +116,7 @@ That concludes all the matches for this weekend! Good luck to all the remaining 
 
 **Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can purchase the banners [here](https://osu.ppy.sh/store/products/280).
 
---------
+---
 
 And that's all from me this week! It's good to be back writing for the World Cups again, even though I'm a little busy working on some other community projects. If you have any feedback or suggestions, feel free to drop me a PM, or leave a comment down below.
 

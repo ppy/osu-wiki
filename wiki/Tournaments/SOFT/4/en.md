@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
 
 - FreeMod
   - [X Kirby - Epic Manner (Guilhermeziat) \[Epic Streamz lol xd\]](https://osu.ppy.sh/beatmapsets/970737#mania/2032750)
-  - [onoken - Ramua ([Crz]Crysarlene) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/866194#mania/1811018)
+  - [onoken - Ramua (\[Crz\]Crysarlene) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/866194#mania/1811018)
   - [eye burn -  SHI\*A\*WA\*SE (Elekton) \[joy\]](https://osu.ppy.sh/beatmapsets/735407#mania/1552444)
   - [ikaruga_nex - ReviXy (qqqant) \[Another (edit)\]](https://osu.ppy.sh/beatmapsets/927413#mania/1937058)
   - [Pegboard Nerds - Try This (Ciel) \[Your Size\]](https://osu.ppy.sh/beatmapsets/871668#mania/1821216)
@@ -281,7 +281,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 | Saturday, 2019-06-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **MyZterioN-** ![][flag_TH] | **7** | 5 | ![][flag_ID] [Crz]Crysarlene | [#1](https://osu.ppy.sh/community/matches/52456773) |
+| **MyZterioN-** ![][flag_TH] | **7** | 5 | ![][flag_ID] \[Crz\]Crysarlene | [#1](https://osu.ppy.sh/community/matches/52456773) |
 | -Electro- ![][flag_US] | 0 | **7** | ![][flag_BR] **andreymc** | -win by default- |
 
 | Sunday, 2019-06-09 |  |  |  |  |
@@ -295,14 +295,14 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 | Saturday, 2019-06-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **[Crz]Crysarlene** ![][flag_ID] | **6** | 1 | ![][flag_TH] Nyarlahothep | [#1](https://osu.ppy.sh/community/matches/52271689) |
+| **\[Crz\]Crysarlene** ![][flag_ID] | **6** | 1 | ![][flag_TH] Nyarlahothep | [#1](https://osu.ppy.sh/community/matches/52271689) |
 | HeZeuS ![][flag_US] | 1 | **6** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/52274695) |
 | -Rem- ![][flag_ID] | 2 | **6** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/52279895) |
 
 | Sunday, 2019-06-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Tidek ![][flag_PL] | 2 | **6** | ![][flag_SG] **ByeForNow** | [#1](https://osu.ppy.sh/community/matches/52301779) |
-| [Crz]Crysarlene ![][flag_ID] | 2 | **6** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/52302942) |
+| \[Crz\]Crysarlene ![][flag_ID] | 2 | **6** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/52302942) |
 | **ByeForNow** ![][flag_SG] | **6** | 2 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/52304454) |
 | -Electro- ![][flag_US] | 0 | **6** | ![][flag_KR] **wonder5193** | [#1](https://osu.ppy.sh/community/matches/52305875) |
 | MyZterioN- ![][flag_TH] | 0 | **6** | ![][flag_US] **Toaph Daddy** | [#1](https://osu.ppy.sh/community/matches/52309120) |
@@ -330,7 +330,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | --: | :-: | :-: | :-- | :-- |
 | **-Electro-** ![][flag_US] | **6** | 0 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/52101773) |
 | Chrubble ![][flag_US] | 1 | **6** | ![][flag_SG] **ByeForNow** | [#1](https://osu.ppy.sh/community/matches/52103811) |
-| [Crz]Crysarlene ![][flag_ID] | 0 | **6** | ![][flag_KR] **wonder5193** | -win by default- |
+| \[Crz\]Crysarlene ![][flag_ID] | 0 | **6** | ![][flag_KR] **wonder5193** | -win by default- |
 | NKEYBOARD ![][flag_KR] | 1 | **6** | ![][flag_TH] **Nyarlahothep** | [#1](https://osu.ppy.sh/community/matches/52111935) |
 | **AMDuskia1996** ![][flag_JP] | **6** | 0 | ![][flag_SG] Tamaneko | -forfeited- |
 | RuleBlazing ![][flag_TH] | 3 | **6** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/52116950) |
@@ -342,14 +342,14 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 | Friday, 2019-05-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **[Crz]Crysarlene** ![][flag_ID] | **5** | 1 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/51864071) |
+| **\[Crz\]Crysarlene** ![][flag_ID] | **5** | 1 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/51864071) |
 
 | Saturday, 2019-05-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Rek ![][flag_AU] | 0 | **5** | ![][flag_SG] **ByeForNow** | -win by default- |
 | Adri ![][flag_FR] | 0 | **5** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/51890758) |
 | SitekX ![][flag_PL] | 2 | **5** | ![][flag_TH] **MyZterioN-** | [#1](https://osu.ppy.sh/community/matches/51890833) |
-| [ misa ] ![][flag_JP] | 3 | **5** | ![][flag_FI] **Daughter-** | [#1](https://osu.ppy.sh/community/matches/51892281) |
+| \[ misa \] ![][flag_JP] | 3 | **5** | ![][flag_FI] **Daughter-** | [#1](https://osu.ppy.sh/community/matches/51892281) |
 | Polytetral ![][flag_SG] | 0 | **5** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/51898993) |
 | RuleBlazing ![][flag_TH] | 4 | **5** | ![][flag_US] **HeZeuS** | [#1](https://osu.ppy.sh/community/matches/51898844) |
 | **-Rem-** ![][flag_ID] | **5** | 1 | ![][flag_SG] Tamaneko | [#1](https://osu.ppy.sh/community/matches/51898858) |
@@ -374,9 +374,9 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_AU] Rek | -win by default- |
 | AMDuskia1996 ![][flag_JP] | 3 | **5** | ![][flag_BR] **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/51703534) |
 | **HeZeuS** ![][flag_US] | **5** | 2 | ![][flag_TH] HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/51704541) |
-| **Toaph Daddy** ![][flag_US] | **5** | 0 | ![][flag_JP] [ misa ] | -win by default- |
+| **Toaph Daddy** ![][flag_US] | **5** | 0 | ![][flag_JP] \[ misa \] | -win by default- |
 | **RuleBlazing** ![][flag_TH] | **5** | 3 | ![][flag_GB] SoFast | [#1](https://osu.ppy.sh/community/matches/51707499) |
-| **[Crz]Crysarlene** ![][flag_ID] | **5** | 0 | ![][flag_SG] Polytetral | [#1](https://osu.ppy.sh/community/matches/51707469) |
+| **\[Crz\]Crysarlene** ![][flag_ID] | **5** | 0 | ![][flag_SG] Polytetral | [#1](https://osu.ppy.sh/community/matches/51707469) |
 | **-Electro-** ![][flag_US] | **5** | 0 | ![][flag_FR] Adri | [#1](https://osu.ppy.sh/community/matches/51715930) |
 | **Tidek** ![][flag_PL] | **5** | 3 | ![][flag_US] EtienneXC | [#1](https://osu.ppy.sh/community/matches/51718126) |
 | AYAYAA ![][flag_US] | 0 | **5** | ![][flag_AR] **BossPlays** | -forfeited- |
@@ -397,7 +397,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | Saturday, 2019-04-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Tamaneko** ![][flag_SG] | **4** | 0 | ![][flag_AU] Spartan- | [#1](https://osu.ppy.sh/community/matches/51326729) |
-| **-[DaNieL_TH]-** ![][flag_TH] | **4** | 1 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/51327530) |
+| **-\[DaNieL_TH\]-** ![][flag_TH] | **4** | 1 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/51327530) |
 | **Tamaneko** ![][flag_SG] | **4** | 0 | ![][flag_RU] X_Devil | [#1](https://osu.ppy.sh/community/matches/51328368) |
 | Tamaneko ![][flag_SG] | 2 | **4** | ![][flag_KR] **wonder5193** | [#1](https://osu.ppy.sh/community/matches/51329555) |
 | **AMDuskia1996** ![][flag_JP] | **4** | 0 | ![][flag_GB] Xonica | -forfeited- |
@@ -419,25 +419,25 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | JztCallMeRon ![][flag_PH] | 0 | **4** | ![][flag_US] **TrapsAreNotGay** | -win by default- |
 | **sleetgirl** ![][flag_JP] | **4** | 1 | ![][flag_PH] Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/51359367) |
 | Spartan- ![][flag_AU] | 3 | **4** | ![][flag_RU] **X_Devil** | [#1](https://osu.ppy.sh/community/matches/51360140) |
-| **[ misa ]** ![][flag_JP] | **4** | 1 | ![][flag_CA] AndyTechGuy | [#1](https://osu.ppy.sh/community/matches/51360554) |
+| **\[ misa \]** ![][flag_JP] | **4** | 1 | ![][flag_CA] AndyTechGuy | [#1](https://osu.ppy.sh/community/matches/51360554) |
 | **wonder5193** ![][flag_KR] | **4** | 0 | ![][flag_AU] Spartan- | [#1](https://osu.ppy.sh/community/matches/51361147) |
 | ByeForNow ![][flag_SG] | 2 | **4** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/51361155) |
 | **wonder5193** ![][flag_KR] | **4** | 0 | ![][flag_RU] X_Devil | [#1](https://osu.ppy.sh/community/matches/51362162) |
 | **ByeForNow** ![][flag_SG] | **4** | 2 | ![][flag_DE] Malox | [#1](https://osu.ppy.sh/community/matches/51362171) |
 | **Nyarlahothep** ![][flag_TH] | **4** | 1 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/51362135) |
-| [Crz]Cribob ![][flag_IT] | 3 | **4** | ![][flag_AU] **PotassiumF** | [#1](https://osu.ppy.sh/community/matches/51363455) |
+| \[Crz\]Cribob ![][flag_IT] | 3 | **4** | ![][flag_AU] **PotassiumF** | [#1](https://osu.ppy.sh/community/matches/51363455) |
 | sleetgirl ![][flag_JP] | 0 | **4** | ![][flag_AR] **BossPlays** | [#1](https://osu.ppy.sh/community/matches/51363485) |
 | andreymc ![][flag_BR] | 3 | **4** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/51363291) |
 | Silhoueska Elze ![][flag_PH] | 0 | **4** | ![][flag_AR] **BossPlays** | -win by default- |
-| **[Crz]Crysarlene** ![][flag_ID] | **4** | 0 | ![][flag_PH] windrush123 | [#1](https://osu.ppy.sh/community/matches/51364530) |
+| **\[Crz\]Crysarlene** ![][flag_ID] | **4** | 0 | ![][flag_PH] windrush123 | [#1](https://osu.ppy.sh/community/matches/51364530) |
 | **Toaph Daddy** ![][flag_US] | **4** | 0 | ![][flag_PH] JztCallMeRon | [#1](https://osu.ppy.sh/community/matches/51365732) |
 | **Couil** ![][flag_SE] | **4** | 1 | ![][flag_NL] Obligerator | [#1](https://osu.ppy.sh/community/matches/51366607) |
 | Xonica ![][flag_GB] | 0 | **4** | ![][flag_RU] **YaLTeR** | -forfeited- |
-| Yyorshire ![][flag_US] | 0 | **4** | ![][flag_IT] **[Crz]Cribob** | [#1](https://osu.ppy.sh/community/matches/51369390) |
+| Yyorshire ![][flag_US] | 0 | **4** | ![][flag_IT] **\[Crz\]Cribob** | [#1](https://osu.ppy.sh/community/matches/51369390) |
 | Elementaires ![][flag_FR] | 2 | **4** | ![][flag_FR] **Adri** | [#1](https://osu.ppy.sh/community/matches/51370693) |
 | **EtienneXC** ![][flag_US] | **4** | 3 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/51370703) |
 | **SillyFangirl** ![][flag_BR] | **4** | 0 | ![][flag_US] TrapsAreNotGay | [#1](https://osu.ppy.sh/community/matches/51371672) |
-| **HeZeuS** ![][flag_US] | **4** | 0 | ![][flag_IT] [Crz]Cribob | [#1](https://osu.ppy.sh/community/matches/51371678) |
+| **HeZeuS** ![][flag_US] | **4** | 0 | ![][flag_IT] \[Crz\]Cribob | [#1](https://osu.ppy.sh/community/matches/51371678) |
 | **-Electro-** ![][flag_US] | **4** | 0 | ![][flag_FI] Camopoltergeist | [#1](https://osu.ppy.sh/community/matches/51371998) |
 | Couil ![][flag_SE] | 1 | **4** | ![][flag_GB] **SoFast** | [#1](https://osu.ppy.sh/community/matches/51372011) |
 | **SoFast** ![][flag_GB] | **4** | 1 | ![][flag_NL] Obligerator | [#1](https://osu.ppy.sh/community/matches/51371998) |
@@ -457,10 +457,10 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | Saturday, 2019-05-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | PikachuNick ![][flag_GB] | 0 | **4** | ![][flag_NZ] **Spicy Meme** | -win by default- |
-| **Nyarlahothep** ![][flag_TH] | **4** | 1 | ![][flag_TH] -[DaNieL_TH]- | [#1](https://osu.ppy.sh/community/matches/51516450) |
+| **Nyarlahothep** ![][flag_TH] | **4** | 1 | ![][flag_TH] -\[DaNieL_TH\]- | [#1](https://osu.ppy.sh/community/matches/51516450) |
 | **HowToPlayLN** ![][flag_TH] | **4** | 2 | ![][flag_PH] windrush123 | [#1](https://osu.ppy.sh/community/matches/51516468) |
 | **AMDuskia1996** ![][flag_JP] | **4** | 1 | ![][flag_RU] YaLTeR | [#1](https://osu.ppy.sh/community/matches/51517583) |
-| Cunu ![][flag_FR] | 3 | **4** | ![][flag_JP] **[ misa ]** | [#1](https://osu.ppy.sh/community/matches/51517598) |
+| Cunu ![][flag_FR] | 3 | **4** | ![][flag_JP] **\[ misa \]** | [#1](https://osu.ppy.sh/community/matches/51517598) |
 | PatouZ ![][flag_FR] | 0 | **4** | ![][flag_FI] **Daughter-** | [#1](https://osu.ppy.sh/community/matches/51517922) |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PH] Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/51518579) |
 | Yyorshire ![][flag_US] | 0 | **4** | ![][flag_AU] **PotassiumF** | -forfeited- |
@@ -491,15 +491,15 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **DaZeRo5** ![][flag_PE] | **4** | 0 | ![][flag_NZ] Spicy Meme | [#1](https://osu.ppy.sh/community/matches/51551364) |
 | **SitekX** ![][flag_PL] | **4** | 1 | ![][flag_JP] sleetgirl | [#1](https://osu.ppy.sh/community/matches/51551736) |
 | **NKEYBOARD** ![][flag_KR] | **4** | 1 | ![][flag_FR] DemonWaves | [#1](https://osu.ppy.sh/community/matches/51551743) |
-| **[Crz]Crysarlene** ![][flag_ID] | **4** | 0 | ![][flag_TH] HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/51551747) |
+| **\[Crz\]Crysarlene** ![][flag_ID] | **4** | 0 | ![][flag_TH] HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/51551747) |
 | **Malox** ![][flag_DE] | **4** | 3 | ![][flag_KR] NKEYBOARD | [#1](https://osu.ppy.sh/community/matches/51552681) |
-| **Tidek** ![][flag_PL] | **4** | 1 | ![][flag_JP] [ misa ] | [#1](https://osu.ppy.sh/community/matches/51552619) |
-| DaDarkDragon ![][flag_PL] | 1 | **4** | ![][flag_PL] **_underjoy** | [#1](https://osu.ppy.sh/community/matches/51553879) |
+| **Tidek** ![][flag_PL] | **4** | 1 | ![][flag_JP] \[ misa \] | [#1](https://osu.ppy.sh/community/matches/51552619) |
+| DaDarkDragon ![][flag_PL] | 1 | **4** | ![][flag_PL] **\_underjoy** | [#1](https://osu.ppy.sh/community/matches/51553879) |
 | **HowToPlayLN** ![][flag_TH] | **4** | 0 | ![][flag_CA] CommandoBlack | [#1](https://osu.ppy.sh/community/matches/51553865) |
 | **Polytetral** ![][flag_SG] | **4** | 0 | ![][flag_US] -Lethal- | -win by default- |
 | **Amascite** ![][flag_GB] | **4** | 3 | ![][flag_PL] _underjoy | [#1](https://osu.ppy.sh/community/matches/51555294) |
 | **windrush123** ![][flag_PH] | **4** | 2 | ![][flag_CA] CommandoBlack | [#1](https://osu.ppy.sh/community/matches/51555567) |
-| **[Crz]Crysarlene** ![][flag_ID] | **4** | 1 | ![][flag_CA] CommandoBlack | [#1](https://osu.ppy.sh/community/matches/51557279) |
+| **\[Crz\]Crysarlene** ![][flag_ID] | **4** | 1 | ![][flag_CA] CommandoBlack | [#1](https://osu.ppy.sh/community/matches/51557279) |
 | **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_FR] Cunu | -forfeited- |
 | Cunu ![][flag_FR] | 0 | **4** | ![][flag_CA] **AndyTechGuy** | -forfeited- |
 | **RuleBlazing** ![][flag_TH] | **4** | 0 | ![][flag_US] RemiFlan | [#1](https://osu.ppy.sh/community/matches/51561135) |
@@ -510,7 +510,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | Monday, 2019-05-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Nyarlahothep** ![][flag_TH] | **4** | 3 | ![][flag_US] EtienneXC | [#1](https://osu.ppy.sh/community/matches/51572339) |
-| -[DaNieL_TH]- ![][flag_TH] | 2 | **4** | ![][flag_US] **EtienneXC** | [#1](https://osu.ppy.sh/community/matches/51573109) |
+| -\[DaNieL_TH\]- ![][flag_TH] | 2 | **4** | ![][flag_US] **EtienneXC** | [#1](https://osu.ppy.sh/community/matches/51573109) |
 | Rek ![][flag_AU] | 0 | **4** | ![][flag_PL] **_underjoy** | [#1](https://osu.ppy.sh/community/matches/51576838) |
 | DaDarkDragon ![][flag_PL] | 2 | **4** | ![][flag_AU] **Rek** | [#1](https://osu.ppy.sh/community/matches/51577507) |
 
@@ -627,58 +627,40 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
   - If 63 players enter, the 31 worst-performing players get eliminated and the top 32 will advance to the next round.
   - If 64 players enter, all 64 players will qualify and no one gets eliminated.
   - If 127 players enter, the 63 worst-performing players get eliminated and the top 64 will advance to the next round.
-
 - The qualification round will have a 4 song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament.
-
 - **All four maps will be created by the map selectors and will be unreleased prior to the tournament qualification stage, to provide 0 opportunity for advantage through familiarity**.
-
 - All players will have two chances at each qualifier map, in which the highest of the two runs on each qualifier map will be used to calculate your final score.
-
 - Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match. The purpose of putting you in groups of 8 is to give everyone streaming time, for qualifiers will be streamed as well!
-
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best verage score rating being seed \#1, and the worst verage score rating being seed n; n being the number of players in the qualification stage.
-
 - We will be using **Score V2** for all rounds of the tournament.
 
 #### Post-Qualification
 
 - The round after the qualification stage (also known as the play-offs stage) is a **single elimination** stage with specific rules.
-
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups. Each group will have a different set of protocol to follow.
   - **1st-16th seeds**: The top 16 seeds of the qualification stage will advance directly into the group stage of the tournament. They do not need to participate in any matches in this stage.
-
   - **17th-32nd seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player from the 97th to 128th seed group. Players who win their matches in this stage will advance to the Group Stage.
-
   - **33rd-96th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in the 33rd to 96th seed group. In particular, their opponent's seed will be `(129 - player's seed)`. Players who win their match in this stage will advance to the Group Stage.
-
   - **97th-128th seeds**: Players within this group will participate in **two matches** in the Play-Offs stage. Their first opponent will be a player in the 97th to 128th seed group. In particular, their opponent's seed will be `(225 - player's seed)`. If the player wins their first match, their second opponent will be a player in the 17th to 32nd seed group. Players who win both of their matches in this stage will advance to the Group Stage.
 
 #### Group Stage
 
 - After the Play-Offs stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
-
 - Each player in these groups will face each other once. In total, every player in the Group Stage will participate in **three matches**. The two best-performing players in each group will advance to the bracket stage.
-
 - A player's performance in the group is determined through these metrics, arranged from highest priority to lowest:
   - Number of matches won.
   - `Number of rounds won - numbers of round lost`.
   - Number of losses by default (lower is better).
   - Higher qualification seed.
-
 - The two worst-performing players of each group will be eliminated from the tournament.
 
 #### Bracket Stage
 
 - The bracket stage is a **double elimination** stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
-
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(33 - player's GS seed)`.
-
 - In a winners bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
-
 - In a losers bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will be eliminated from the tournament.
-
 - Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
-
 - Players who are in the losers bracket at the start of the Quarterfinals stage or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
 ### Tournament Play
@@ -686,84 +668,51 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 #### Protocol
 
 - Overlaps between matches may happen in certain stages, and streaming every match is not viable because of these overlaps. However, we will do our best to give every player in the tourney some stream time.
-
 - Your matches will be listed in schedules. **It is your duty as a player to properly identify your timeslot and reschedule your match with your opponent as soon as possible if a reschedule is necessary.**
-
 - Reschedules will only be considered if both players agree to a time, this needs to be done and notified to the tournament staff before **Wednesday at 23:59 UTC+0** in that particular week when your match takes place.
-
 - ***It is your right as a player and tournament entrant to expect that staff will perform to the best of their abilities in moderating matches in such a way that they will conclude in a timely manner***.
   - Rooms with matches will be created before the match start time, and you will be invited to the corresponding tournament room before the match start time.
-
   - For maximal accountability on the SOFT4 staff, each match will have a primary referee and a backup referee. That way, we will assure you that there will be someone present to handle your tournament match.
-
   - If both players arrive on time, tournament proceedings will begin promptly at the start time of the match, no earlier and no later.
-
   - Take care of any priorities you may have immediately before and/or after the match, for we will be running on a fixed schedule.
-
   - If your match starts in less than 5 minutes and you have not been invited to your corresponding multiplayer room, notify any Tournament Staff member who is online on Discord or in-game that you are a player in SOFT4 and you currently do not have an invitation to your match. They will ameliorate the situation by notifying the designated referees for your match to give you an invitation to your corresponding multiplayer room.
-
-
 - ***It is our right as tournament staff to expect that you will arrive for your matches before your expected time***.
   - Players will be given a ten (10) minute grace period after the match start time to enter their room; if they have not entered by this point. The match will be forfeited and the player that has arrived will win by default. However, exceptions will be given to players who were late due to the negligence of the SOFT4 staff.
-
   - In the extreme circumstance where both players did not show up, **the player with the higher group stage seed in the match-up will advance automatically**. In the Post-Qualification stage **the player with the higher qualifier seed in the match-up will advance automatically**
-
-
 - ***It is your privilege as a player and tournament entrant to have an opinion about the content/structure used in the tournament***.
   - You are experiencing this event as a competitor, and every choice made in the process directly affects how you will progress in the tournament.
-
   - If you dislike something, you are allowed to state your concerns -- however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
-
-
 - ***It is our right as the SOFT4 staff to reprimand users for intolerable behavior***.
   - SOFT4 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
-
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
 #### Warm-up Songs
 
 - Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players. All warm-up songs must be osu!mania 4K specific beatmaps.
-
 - The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match. Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
-
 - Maps that have a beatmap listing but cannot be downloaded are not allowed for the purpose of warming up.
-
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
-
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
 #### Bans, Rolls and Song Selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
-
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
-
 - Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
-
 - After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
-
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
-
     - The winning player moves onto the next match.
-
     - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
-
   2. Both players are at match point at the same time.
-
     - Both players will play the song designated as the tiebreaker.
-
     - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
-
 - If the beatmap ends in a draw, the game will be nullified and the beatmap will be replayed.
 
 #### Disconnections
 
 - Maps with a player disconnection that occurs within the first 30 seconds, or 25% of the song (whichever comes first) will be nullified and re-attempted.
-
 - Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
-
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
-
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
 [flag_AR]: /wiki/shared/flag/AR.gif

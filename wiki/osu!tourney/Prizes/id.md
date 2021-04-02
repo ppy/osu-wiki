@@ -1,8 +1,12 @@
+---
+outdated: true
+---
+
 # Hadiah
 
 ## Lencana Profil
 
-Tim osu! (atas kebijakan mereka sendiri), dapat memberikan turnamen yang dikelola oleh komunitas sebuah *lencana profil*, hadiah khusus yang dapat dilihat di profil pemain. 
+Tim osu! (atas kebijakan mereka sendiri), dapat memberikan turnamen yang dikelola oleh komunitas sebuah *lencana profil*, hadiah khusus yang dapat dilihat di profil pemain.
 
 Lencana ini biasanya menampilkan keterampilan dan keahlian seorang pemain dalam skenario turnamen, dan karenanya diatur untuk memastikan bahwa mereka dapat mempertahankan nilai keterampilannya.
 

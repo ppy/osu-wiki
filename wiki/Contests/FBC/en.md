@@ -83,7 +83,7 @@ The song picked for osu!standard and osu!catch was [Phantom Sage - Holystone](ht
 | Roles | Members |
 | :-- | :-- |
 | Host | ![][flag_FR] [Ovoui](https://osu.ppy.sh/users/2282098) |
-| Judge | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_DE] [Pho](https://osu.ppy.sh/users/3624692), ![][flag_AU] [sahuang](https://osu.ppy.sh/users/5318910)|
+| Judge | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_DE] [Pho](https://osu.ppy.sh/users/3624692), ![][flag_AU] [sahuang](https://osu.ppy.sh/users/5318910) |
 
 ### Links
 
@@ -111,7 +111,7 @@ The song picked for this contest edition was [ak+q - Excelsia](https://soundclou
 | Roles | Members |
 | :-- | :-- |
 | Host | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
-| Judge | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)|
+| Judge | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
 
 ### Link
 
@@ -138,7 +138,7 @@ The song picked for this tournament edition was [Thaehan - Sunrise](https://www.
 | Roles | Members |
 | :-- | :-- |
 | Host | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
-| Judge | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492), ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812), ![][flag_US] [ailv](https://osu.ppy.sh/users/6933054), ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696)|
+| Judge | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492), ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812), ![][flag_US] [ailv](https://osu.ppy.sh/users/6933054), ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) |
 
 ### Links
 

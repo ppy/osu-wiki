@@ -24,13 +24,13 @@ The Ranking Criteria. For some a blessing, for others a curse. On top of that, i
 
 ### All modes
 
-- **[Applause File and Passive Hitsounds](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.4):** Previously a Rule, this has now been changed to a Guideline. Applause files and passive hitsounds should use .mp3 or .ogg files. The only exception of this is when using a .wav file will result in smaller file size.
-- **[Generalised Mode-Specific Guidelines about Custom Hitsounds](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.4):** Previously found in the osu! and osu!catch Ranking Criterias, this guideline has now been modified and moved to the general Ranking Criteria. The hit finish in soft and normal sample sets should not be replaced with frequently used hitsounds because these can sound obnoxious for anyone disabling beatmap hitsounds. osu!taiko beatmaps are exempt from this Guideline because the mode has its own mode-specific hitsound sample guideline.
-- **[Storyboarding Conflicting Commands Guideline](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.6):** The existing guideline **Avoid illogical, conflicting and obsolete commands** has had its description improved to clarify that commands of the same type with overlapping intervals should be fixed to no longer overlap.
+- **[Applause File and Passive Hitsounds](/wiki/Ranking_Criteria#guidelines.4):** Previously a Rule, this has now been changed to a Guideline. Applause files and passive hitsounds should use .mp3 or .ogg files. The only exception of this is when using a .wav file will result in smaller file size.
+- **[Generalised Mode-Specific Guidelines about Custom Hitsounds](/wiki/Ranking_Criteria#guidelines.4):** Previously found in the osu! and osu!catch Ranking Criterias, this guideline has now been modified and moved to the general Ranking Criteria. The hit finish in soft and normal sample sets should not be replaced with frequently used hitsounds because these can sound obnoxious for anyone disabling beatmap hitsounds. osu!taiko beatmaps are exempt from this Guideline because the mode has its own mode-specific hitsound sample guideline.
+- **[Storyboarding Conflicting Commands Guideline](/wiki/Ranking_Criteria#guidelines.6):** The existing guideline **Avoid illogical, conflicting and obsolete commands** has had its description improved to clarify that commands of the same type with overlapping intervals should be fixed to no longer overlap.
 
 ### osu!taiko 
 
-- **[1/3 Patterns in Futsuu](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!taiko#-futsuu):** The osu!taiko Futsuu difficulty Rule and Guideline regarding 1/3 pattern has been modified. The clause about rest moments was moved from the Rule to the Guideline. 
+- **[1/3 Patterns in Futsuu](/wiki/Ranking_Criteria/osu!taiko#-futsuu):** The osu!taiko Futsuu difficulty Rule and Guideline regarding 1/3 pattern has been modified. The clause about rest moments was moved from the Rule to the Guideline. 
 
 ## Open Ranking Criteria Proposals 
 

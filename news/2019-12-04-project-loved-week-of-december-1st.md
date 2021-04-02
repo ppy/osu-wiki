@@ -89,7 +89,7 @@ If you're one of those that have been in osu since the beginning of time, back w
 180 BPM, 3:44 | 8.07★  
 *description written by [Ulqui](https://osu.ppy.sh/users/1263669)*
 
-This week we bring you *Education*, mapped by [\_Chichinya\_]. It's a single-diff map that got attention due to the amount of work it has on hitsounds. In this map you'll see a lot of different sounds carefully placed and mapped, making the playing experience even more rich, including interesting and different patterns that make the map difficulty and unique. We expect to see impressive scores from all kinds of experienced players; enjoy this hitsound mapping!
+This week we bring you *Education*, mapped by \[\_Chichinya\_\]. It's a single-diff map that got attention due to the amount of work it has on hitsounds. In this map you'll see a lot of different sounds carefully placed and mapped, making the playing experience even more rich, including interesting and different patterns that make the map difficulty and unique. We expect to see impressive scores from all kinds of experienced players; enjoy this hitsound mapping!
 
 ## <a id="catch"></a>osu!catch
 
@@ -122,7 +122,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/1-that-schoolgirl.jpg)](https://osu.ppy.sh/community/forums/topics/993240)
 
 [Rotten Blood - that schoolgirl](https://osu.ppy.sh/beatmapsets/707565#mania) by [Abraxos](https://osu.ppy.sh/users/5025064)  
-297 BPM, 1:29 | [4K] 4.53★, [4K] 4.85★, [4K] 5.23★, [4K] 5.58★, [4K] 5.93★
+297 BPM, 1:29 | \[4K\] 4.53★, \[4K\] 4.85★, \[4K\] 5.23★, \[4K\] 5.58★, \[4K\] 5.93★
 
 Abraxos is a charter who is more well-known for his extremely technical charts focused on difficult LN releases, heavy grace note/minijack usage and polyrhythms. His charts for [ExaVid](https://osu.ppy.sh/beatmapsets/649306) and [Rhuzerv](https://osu.ppy.sh/beatmapsets/846866) exemplify his style. His rendition of *that schoolgirl* might come as a pleasant surprise to some charters and players because of its mostly straightforward nature.
 
@@ -135,7 +135,7 @@ Contrary to the difficulty name, the mapset is actually not the worst. Far from 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/2-autotheist-movements-i-ii-iii.jpg)](https://osu.ppy.sh/community/forums/topics/993239)
 
 [The Faceless - Autotheist Movements I, II & III](https://osu.ppy.sh/beatmapsets/429742#mania) by [XeoStyle](https://osu.ppy.sh/users/3377280)  
-80 BPM, 17:42 | [4K] 5.32★
+80 BPM, 17:42 | \[4K\] 5.32★
 
 Veteran charter and unbridled progressive metal fanboy XeoStyle is well-known for a few things: his more straightforward charts like [Lone Digger](https://osu.ppy.sh/beatmapsets/537933), his more technical low-difficulty charts like [Pablo's Place](https://osu.ppy.sh/beatmapsets/630584), and his extremely ambitious progressive metal project, [The Parallax II: Future Sequence](https://osu.ppy.sh/beatmapsets/682489).
 
@@ -146,7 +146,7 @@ Despite the chart being made over three years ago, it has shown over time to be 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/3-regular-dan-phase-iii.jpg)](https://osu.ppy.sh/community/forums/topics/993238)
 
 [osu!mania 7K Dan Course - Regular Dan Phase III](https://osu.ppy.sh/beatmapsets/930218#mania) by [Jinjin](https://osu.ppy.sh/users/3360737) et al.  
-125 BPM, 9:59 | [7K] 7.32★, [7K] 7.47★, [7K] 8.14★, [7K] 8.66★, [7K] 9.30★
+125 BPM, 9:59 | \[7K\] 7.32★, \[7K\] 7.47★, \[7K\] 8.14★, \[7K\] 8.66★, \[7K\] 9.30★
 
 This is it. The absolute carbohydrate packed monster. This is what sets the difference from the skilled players from the true ETs. This is *Regular Dan Phase III*.
 

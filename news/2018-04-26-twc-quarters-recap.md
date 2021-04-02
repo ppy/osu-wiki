@@ -91,7 +91,7 @@ In the Quarterfinals we saw every map get played atleast twice except for the ti
 
 ### Semifinals Preview
 
-The tiebreaker drought is indeed real, but these upcoming matches are looking likely to break that trend. In the winners bracket, mid-seeded South Korea will challenge Japan while Taiwan and United States play a rematch from last year. In the losers bracket, we'll be seeing another rematch from last year between Australia and Chile, along with Canada versus Hong Kong, Brazil versus Indonesia and a European brawl between Spain and Poland. Finally, two more matches that are dependant on the other losers bracket results will take place. To learn more, you can find the schedule, bracket and other info on [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018/).
+The tiebreaker drought is indeed real, but these upcoming matches are looking likely to break that trend. In the winners bracket, mid-seeded South Korea will challenge Japan while Taiwan and United States play a rematch from last year. In the losers bracket, we'll be seeing another rematch from last year between Australia and Chile, along with Canada versus Hong Kong, Brazil versus Indonesia and a European brawl between Spain and Poland. Finally, two more matches that are dependant on the other losers bracket results will take place. To learn more, you can find the schedule, bracket and other info on [the wiki page](/wiki/Tournaments/TWC/2018/).
 
 ### Useful Links
 

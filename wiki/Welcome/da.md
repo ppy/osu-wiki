@@ -12,7 +12,7 @@ Velkommen til osu!, et free-to-win rytmespil udviklet af peppy komplet med fire 
 - [Registrering](/wiki/Registration)
 - [Regler](/wiki/Rules)
 - [Ofte Stillede Spørgsmål](/wiki/FAQ)
-- [Game Modes](/wiki/Game_Modes)
+- [Game Modes](/wiki/Game_mode)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
@@ -48,4 +48,4 @@ Skinning lader enhver ændre måden osu! ser ud på. Dette kan være alt fra sm�
 
 Siden 2016-08-26, er osu! wiki gået fra at være på peppys egne servere til et GitHub repository. Det betyder nu at alle og enhver kan hjælpe til med at gøre osu! wiki bedre. Alle bidrag går gennem [osu-wiki GitHub repository'et](https://github.com/ppy/osu-wiki) og bliver revideret før de bliver godkendt og en del af osu! wiki.
 
-For at komme igang, se [osu! wiki Bidrags-guiden](/wiki/owcg).
+For at komme igang, se [osu! wiki Bidrags-guiden](/wiki/osu!_wiki_Contribution_Guide).

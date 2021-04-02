@@ -37,6 +37,8 @@ The people listed below are the core of the **osu!team** and are chiefly respons
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, tournament assistant, wiki maintainer |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
+In addition to the above, the [account support team](Account_support_team) is there to help with what is beyond the reach.
+
 ## User groups
 
 The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized by their forum colours, in-game chat colours, profile titles, and/or profile badges.
@@ -53,6 +55,8 @@ The following are user groups which are made up of the osu! community members th
 
 ## Inactive core team members
 
+<!-- Jim is the only person here that has never had an osu! profile (PR #4611) -->
+
 | Name | Role |
 | :-- | :-- |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | General housekeeper and helper, chibi artist. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
@@ -62,13 +66,13 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! developer, provider of IRC integration for in-game chat, site maintainer. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streamer, tournament organiser |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! developer, provider of osz2 and p2p backend |
-| ![][flag_US] Jim | Original site designer. [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | Original site designer, hosting provider in the early days. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | World Cup organiser and administrator, QAT leader, community manager |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin designer, contributor to default skin and iconset. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu! developer, creator of mm sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone developer |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | osu! developer, Mappers' Guild organiser |
-| ![][flag_US] Phil | Forum designer |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Forum designer |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, cool stuff maker-guy extraordinaire |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original pippi concept and artwork designer. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Early community manager and leader, meeting minutes and FAQ contributor |

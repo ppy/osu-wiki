@@ -6,7 +6,7 @@ outdated: true
 
 Existem três tipos de precisão:
 
-- Precisão por [beatmap](/wiki/Beatmaps).
+- Precisão por [beatmap](/wiki/Beatmap).
 - Precisão individual geral.
 - Precisão em [Pontuação de Performance (pp)](/wiki/Performance_Points).
 
@@ -21,7 +21,7 @@ Em termos simples,
 
 ### ![](/wiki/shared/mode/osu.png) osu!standard
 
-No [osu!standard](/wiki/Game_Modes/osu!), a precisão é calculada ao pesar o julgamento recebido por cada nota (em função seu respectivo valor) e dividir pela pontuação máxima atribuível a ela.
+No [osu!standard](/wiki/Game_mode/osu!), a precisão é calculada ao pesar o julgamento recebido por cada nota (em função seu respectivo valor) e dividir pela pontuação máxima atribuível a ela.
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
@@ -39,7 +39,7 @@ Para referências:
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-No modo [osu!taiko](/wiki/Game_Modes/osu!taiko), a precisão é calculada pela soma das precisões de todas as notas dividido pela quantidade total de notas.
+No modo [osu!taiko](/wiki/Game_mode/osu!taiko), a precisão é calculada pela soma das precisões de todas as notas dividido pela quantidade total de notas.
 Um ÓTIMO (良) conta como 100%, um BOM (可) como 50% (metade) e um MISS/RUIM (不可) como 0% (eles interrompem o combo).
 Os Drumrolls e Spinners não influenciam a precisão.
 
@@ -52,7 +52,7 @@ Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total 
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-No [osu!catch](/wiki/Game_Modes/osu!catch), a precisão é calculada pela quantidade de objetos não-spinners coletados dividido pela quantidade total de objetos não-spinners do mapa; frutas, drops grandes e drops pequenos (droplets) todos têm o mesmo valor.
+No [osu!catch](/wiki/Game_mode/osu!catch), a precisão é calculada pela quantidade de objetos não-spinners coletados dividido pela quantidade total de objetos não-spinners do mapa; frutas, drops grandes e drops pequenos (droplets) todos têm o mesmo valor.
 
 Em outras palavras: `Precisão = Quantidade total de frutas coletadas / Quantidade total de frutas`
 
@@ -67,7 +67,7 @@ Note que caso esteja usando a API para calcular a precisão, a quantidade de dro
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-No [osu!mania](/wiki/Game_Modes/osu!mania), a precisão é calculada de modo similar ao [osu!standard](/wiki/Game_Modes/osu!).
+No [osu!mania](/wiki/Game_mode/osu!mania), a precisão é calculada de modo similar ao [osu!standard](/wiki/Game_mode/osu!).
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
@@ -103,7 +103,7 @@ Informações adicionais são mostradas quando o cursor do jogo é passado por c
 
 #### Spin
 
-*Spin é somente para o [osu!standard](/wiki/Game_Modes/osu!)*
+*Spin é somente para o [osu!standard](/wiki/Game_mode/osu!)*
 
 | Termo | Significado |
 | :-- | :-- |

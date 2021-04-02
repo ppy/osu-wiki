@@ -234,7 +234,6 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-06-06: Added [Fall](https://osu.ppy.sh/users/4800816) to **Probationary BN**
 - 2020-06-09: Added [Baron](https://osu.ppy.sh/users/10286499) to **Probationary BN**
-- 2020-06-10: Added [Shima Rin](https://osu.ppy.sh/users/6089608) to **Probationary BN**
 - 2020-06-13: Added [Axer](https://osu.ppy.sh/users/7299864) to **Probationary BN**
 - 2020-06-13: Added [Cychloryn](https://osu.ppy.sh/users/6921736) to **Probationary BN**
 - 2020-06-14: Added [Secre](https://osu.ppy.sh/users/2306637) to **Probationary BN**
@@ -282,6 +281,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-12: Added [Log Off Now](https://osu.ppy.sh/users/4378277) to **Probationary BN**
 - 2020-07-18: Added [Davvy](https://osu.ppy.sh/users/10047413) to **Probationary BN**
 - 2020-07-28: Added [-Joni-](https://osu.ppy.sh/users/9988837) to **Probationary BN**
+- 2020-07-31: Added [C00L](https://osu.ppy.sh/users/4930630) to **Probationary BN**
 
 #### Moves
 
@@ -300,6 +300,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-28: Moved [Bastian](https://osu.ppy.sh/users/6345176) from **Probationary BN** to **BN**
 - 2020-07-29: Moved [Elayue](https://osu.ppy.sh/users/6400861) from **Probationary BN** to **BN**
 - 2020-07-29: Moved [NexusQI](https://osu.ppy.sh/users/13822800) from **Probationary BN** to **BN**
+- 2020-07-31: Moved [Smoke](https://osu.ppy.sh/users/10726630) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -308,4 +309,236 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-26: Removed [Volta](https://osu.ppy.sh/users/4154071) from **BN**
 - 2020-07-29: Removed [Kaitjuh](https://osu.ppy.sh/users/2225327) from **BN**
 
-<!-- last update: 2020-07-29 18 UTC removed kaitjuh from bn -->
+## August
+
+- 2020-08-07: Added [Scotty](https://osu.ppy.sh/users/11085809) to **NAT**
+- 2020-08-08: Added [Domco](https://osu.ppy.sh/users/3562660) to **Developers**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-08-05: Added [Ayucchi](https://osu.ppy.sh/users/7823498) to **Probationary BN**
+- 2020-08-05: Added [Hobbes2](https://osu.ppy.sh/users/8157492) to **Probationary BN**
+- 2020-08-10: Added [RiP46](https://osu.ppy.sh/users/5222596) to **Probationary BN**
+- 2020-08-10: Added [Murumoo](https://osu.ppy.sh/users/8001433) to **Probationary BN**
+- 2020-08-11: Added [Rocma](https://osu.ppy.sh/users/566276) to **Probationary BN**
+- 2020-08-22: Added [JierYagtama](https://osu.ppy.sh/users/7483452) to **Probationary BN**
+- 2020-08-23: Added [Ryuusei Aika](https://osu.ppy.sh/users/7777875) to **Probationary BN**
+- 2020-08-23: Added [Een Persoon](https://osu.ppy.sh/users/10959501) to **Probationary BN**
+- 2020-08-23: Added [NeKroMan4ik](https://osu.ppy.sh/users/11387664) to **Probationary BN**
+- 2020-08-23: Added [Karen](https://osu.ppy.sh/users/3143784) to **Probationary BN**
+- 2020-08-23: Added [Sylas](https://osu.ppy.sh/users/3906405) to **Probationary BN**
+- 2020-08-30: Added [autofanboy](https://osu.ppy.sh/users/636114) to **Probationary BN**
+- 2020-08-30: Added [Firika](https://osu.ppy.sh/users/9590557) to **Probationary BN**
+- 2020-08-30: Added [Pentori](https://osu.ppy.sh/users/7452237) to **Probationary BN**
+
+#### Moves
+
+- 2020-08-02: Moved [Muse Dash](https://osu.ppy.sh/users/13695676) from **Probationary BN** to **BN**
+- 2020-08-09: Moved [Garden](https://osu.ppy.sh/users/2849992) from **Probationary BN** to **BN**
+- 2020-08-09: Moved [Bibbity Bill](https://osu.ppy.sh/users/4446810) from **Probationary BN** to **BN**
+- 2020-08-11: Moved [-Aqua](https://osu.ppy.sh/users/7150015) from **Probationary BN** to **BN**
+- 2020-08-13: Moved [Stefan](https://osu.ppy.sh/users/626907) from **Probationary BN** to **BN**
+- 2020-08-13: Moved [Capu](https://osu.ppy.sh/users/2474015) from **Probationary BN** to **BN**
+- 2020-08-17: Moved [wonjae](https://osu.ppy.sh/users/5032045) from **Probationary BN** to **BN**
+- 2020-08-17: Moved [Nikakis](https://osu.ppy.sh/users/4351739) from **Probationary BN** to **BN**
+- 2020-08-21: Moved [Arzenvald](https://osu.ppy.sh/users/3027421) from **Probationary BN** to **BN**
+- 2020-08-22: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **BN** to **Probationary BN**
+- 2020-08-22: Moved [Log Off Now](https://osu.ppy.sh/users/4378277) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2020-08-02: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
+- 2020-08-03: Removed [Rizen](https://osu.ppy.sh/users/3056732) from **BN**
+- 2020-08-07: Removed [Scotty](https://osu.ppy.sh/users/11085809) from **BN**
+- 2020-08-09: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **Probationary BN**
+- 2020-08-19: Removed [Yales](https://osu.ppy.sh/users/2377881) from **Probationary BN**
+- 2020-08-19: Removed [Dako](https://osu.ppy.sh/users/11081858) from **BN**
+- 2020-08-22: Removed [Axer](https://osu.ppy.sh/users/7299864) from **BN**
+
+## September
+
+- 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
+- 2020-09-12: Added [hypercyte](https://osu.ppy.sh/users/9155377) to **NAT**
+- 2020-09-16: Added [Irreversible](https://osu.ppy.sh/users/1287964) to **osu! Alumni**
+- 2020-09-24: Moved [Zetera](https://osu.ppy.sh/users/587737) from **GMT** to **osu! Alumni**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-09-01: Added [Mimari](https://osu.ppy.sh/users/14339830) to **Probationary BN**
+- 2020-09-05: Added [Stelar](https://osu.ppy.sh/users/15205070) to **Probationary BN**
+- 2020-09-06: Added [Jaltzu](https://osu.ppy.sh/users/2597417) to **Probationary BN**
+- 2020-09-06: Added [Ulqui](https://osu.ppy.sh/users/1263669) to **Probationary BN**
+- 2020-09-14: Added [Luscent](https://osu.ppy.sh/users/2688581) to **Probationary BN**
+- 2020-09-14: Added [StarCastler](https://osu.ppy.sh/users/12402453) to **Probationary BN**
+- 2020-09-14: Added [Beomsan](https://osu.ppy.sh/users/3626063) to **Probationary BN**
+- 2020-09-14: Added [newton-](https://osu.ppy.sh/users/5875419) to **Probationary BN**
+- 2020-09-19: Added [Nelly](https://osu.ppy.sh/users/4741164) to **Probationary BN**
+- 2020-09-21: Added [Sylvarus](https://osu.ppy.sh/users/4505918) to **Probationary BN**
+- 2020-09-27: Added [Blitzifyyy](https://osu.ppy.sh/users/11787713) to **Probationary BN**
+- 2020-09-27: Added [Petal](https://osu.ppy.sh/users/7354729) to **Probationary BN**
+- 2020-09-28: Added [Phob](https://osu.ppy.sh/users/6069462) to **Probationary BN**
+- 2020-09-28: Added [Spectator](https://osu.ppy.sh/users/702598) to **Probationary BN**
+
+#### Moves
+
+- 2020-09-02: Moved [Davvy](https://osu.ppy.sh/users/10047413) from **Probationary BN** to **BN**
+- 2020-09-02: Moved [Secre](https://osu.ppy.sh/users/2306637) from **Probationary BN** to **BN**
+- 2020-09-04: Moved [Bunnrei](https://osu.ppy.sh/users/829284) from **BN** to **Probationary BN**
+- 2020-09-04: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **Probationary BN** to **BN**
+- 2020-09-10: Moved [incandescence](https://osu.ppy.sh/users/6256027) from **BN** to **Probationary BN**
+- 2020-09-11: Moved [C00L](https://osu.ppy.sh/users/4930630) from **Probationary BN** to **BN**
+- 2020-09-16: Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from **Probationary BN** to **BN**
+- 2020-09-17: Moved [Ayucchi](https://osu.ppy.sh/users/7823498) from **Probationary BN** to **BN**
+- 2020-09-20: Moved [Rocma](https://osu.ppy.sh/users/566276) from **Probationary BN** to **BN**
+- 2020-09-24: Moved [Murumoo](https://osu.ppy.sh/users/8001433) from **Probationary BN** to **BN**
+- 2020-09-24: Moved [RiP46](https://osu.ppy.sh/users/5222596) from **Probationary BN** to **BN**
+- 2020-09-29: Moved [Karen](https://osu.ppy.sh/users/3143784) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2020-09-08: Removed [Venix](https://osu.ppy.sh/users/5999631) from **BN**
+- 2020-09-12: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **BN**
+- 2020-09-12: Removed [Keiga](https://osu.ppy.sh/users/6866022) from **BN**
+- 2020-09-14: Removed [Garalulu](https://osu.ppy.sh/users/757783) from **Probationary BN**
+- 2020-09-16: Removed [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) from **Probationary BN**
+- 2020-09-16: Removed [wonjae](https://osu.ppy.sh/users/5032045) from **BN**
+- 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
+- 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
+
+## October
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-10-07: Added [Lirai](https://osu.ppy.sh/users/3734394) to **Probationary BN**
+- 2020-10-18: Added [Fresh Chicken](https://osu.ppy.sh/users/3984370) to **Probationary BN**
+- 2020-10-21: Added [Nokashi](https://osu.ppy.sh/users/5431196) to **Probationary BN**
+- 2020-10-22: Added [Astronic](https://osu.ppy.sh/users/9320502) to **Probationary BN**
+- 2020-10-22: Added [Akito](https://osu.ppy.sh/users/5716327) to **Probationary BN**
+- 2020-10-22: Added [riffy](https://osu.ppy.sh/users/597957) to **Probationary BN**
+- 2020-10-22: Added [Krisom](https://osu.ppy.sh/users/99269) to **Probationary BN**
+- 2020-10-27: Added [Cynplytholowazy](https://osu.ppy.sh/users/3901754) to **Probationary BN**
+
+#### Moves
+
+- 2020-10-02: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **Probationary BN** to **BN**
+- 2020-10-02: Moved [autofanboy](https://osu.ppy.sh/users/636114) from **Probationary BN** to **BN**
+- 2020-10-04: Moved [Sylas](https://osu.ppy.sh/users/3906405) from **Probationary BN** to **BN**
+- 2020-10-07: Moved [Firika](https://osu.ppy.sh/users/9590557) from **Probationary BN** to **BN**
+- 2020-10-07: Moved [lenpai](https://osu.ppy.sh/users/5314573) from **Probationary BN** to **BN**
+- 2020-10-10: Moved [Mimari](https://osu.ppy.sh/users/14339830) from **Probationary BN** to **BN**
+- 2020-10-10: Moved [Pentori](https://osu.ppy.sh/users/7452237) from **Probationary BN** to **BN**
+- 2020-10-17: Moved [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN** to **BN**
+- 2020-10-17: Moved [Jaltzu](https://osu.ppy.sh/users/2597417) from **Probationary BN** to **BN**
+- 2020-10-18: Moved [Stelar](https://osu.ppy.sh/users/15205070) from **Probationary BN** to **BN**
+- 2020-10-21: Moved [Ulqui](https://osu.ppy.sh/users/1263669) from **BN** to **Probationary BN**
+- 2020-10-22: Moved [StarCastler](https://osu.ppy.sh/users/12402453) from **Probationary BN** to **BN**
+- 2020-10-31: Moved [Sylvarus](https://osu.ppy.sh/users/4505918) from **Probationary BN** to **BN**
+- 2020-10-31: Moved [Luscent](https://osu.ppy.sh/users/2688581) from **Probationary BN** to **BN**
+- 2020-10-31: Moved [SMOKELIND](https://osu.ppy.sh/users/9327302) from **BN** to **Probationary BN**
+
+#### Removals
+
+- 2020-10-02: Removed [Bunnrei](https://osu.ppy.sh/users/829284) from **Probationary BN**
+- 2020-10-03: Removed [NeKroMan4ik](https://osu.ppy.sh/users/11387664) from **Probationary BN**
+- 2020-10-03: Removed [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **Probationary BN**
+- 2020-10-03: Removed [Fall](https://osu.ppy.sh/users/4800816) from **BN**
+- 2020-10-03: Removed [Nikakis](https://osu.ppy.sh/users/4351739) from **BN**
+- 2020-10-03: Removed [Smoke](https://osu.ppy.sh/users/10726630) from **BN**
+- 2020-10-13: Removed [Kamuy](https://osu.ppy.sh/users/7439226) from **BN**
+- 2020-10-20: Removed [Roger](https://osu.ppy.sh/users/1538223) from **BN**
+- 2020-10-21: Removed [tasuke912](https://osu.ppy.sh/users/2774767) from **BN**
+- 2020-10-21: Removed [Muse Dash](https://osu.ppy.sh/users/13695676) from **BN**
+- 2020-10-23: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN**
+- 2020-10-26: Removed [newton-](https://osu.ppy.sh/users/5875419) from **Probationary BN**
+
+## November
+
+- 2020-11-14: Moved [Kuron-kun](https://osu.ppy.sh/users/2697284) from **GMT** to **osu! Alumni**
+- 2020-11-15: Removed [mtmcl](https://osu.ppy.sh/users/5960) from **osu! Alumni**
+- 2020-11-15: Removed [Maeglwn](https://osu.ppy.sh/users/2440936) from **osu! Alumni**
+- 2020-11-16: Added [Intermezzo](https://osu.ppy.sh/users/136842) to **osu! Alumni**
+- 2020-11-16: Removed [Flanster](https://osu.ppy.sh/users/447818) from **GMT**
+- 2020-11-16: Removed [Kuron-kun](https://osu.ppy.sh/users/2697284) from **osu! Alumni**
+- 2020-11-20: Moved [Nepuri](https://osu.ppy.sh/users/6637817) from **NAT** to **osu! Alumni**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-11-01: Added [Unpredictable](https://osu.ppy.sh/users/7560872) to **Probationary BN**
+- 2020-11-11: Added [Jerry](https://osu.ppy.sh/users/605973) to **Probationary BN**
+- 2020-11-30: Added [Shmiklak](https://osu.ppy.sh/users/5504231) to **Probationary BN**
+
+#### Moves
+
+- 2020-11-05: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **BN** to **Probationary BN**
+- 2020-11-08: Moved [Phob](https://osu.ppy.sh/users/6069462) from **Probationary BN** to **BN**
+- 2020-11-08: Moved [Spectator](https://osu.ppy.sh/users/702598) from **Probationary BN** to **BN**
+- 2020-11-08: Moved [Blitzifyyy](https://osu.ppy.sh/users/11787713) from **Probationary BN** to **BN**
+- 2020-11-08: Moved [Petal](https://osu.ppy.sh/users/7354729) from **Probationary BN** to **BN**
+- 2020-11-12: Moved [JierYagtama](https://osu.ppy.sh/users/7483452) from **Probationary BN** to **BN**
+- 2020-11-17: Moved [Een Persoon](https://osu.ppy.sh/users/10959501) from **Probationary BN** to **BN**
+- 2020-11-18: Moved [Lirai](https://osu.ppy.sh/users/3734394) from **Probationary BN** to **BN**
+- 2020-11-28: Moved [Fresh Chicken](https://osu.ppy.sh/users/3984370) from **Probationary BN** to **BN**
+- 2020-11-29: Moved [Nokashi](https://osu.ppy.sh/users/5431196) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2020-11-06: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
+- 2020-11-14: Removed [incandescence](https://osu.ppy.sh/users/6256027) from **Probationary BN**
+- 2020-11-18: Removed [Baron](https://osu.ppy.sh/users/10286499) from **BN**
+
+## December
+
+- 2020-12-16: Moved [Raiden](https://osu.ppy.sh/users/2239480) from **GMT** to **osu! Alumni**
+- 2020-12-28: Moved [Spectator](https://osu.ppy.sh/users/702598) from **osu! Alumni** to **NAT**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-12-07: Added [Nana Abe](https://osu.ppy.sh/users/6443117) to **Probationary BN**
+- 2020-12-07: Added [UberFazz](https://osu.ppy.sh/users/8646059) to **Probationary BN**
+- 2020-12-09: Added [ikin5050](https://osu.ppy.sh/users/4007649) to **Probationary BN**
+- 2020-12-09: Added [Gamelan4](https://osu.ppy.sh/users/9856910) to **Probationary BN**
+- 2020-12-14: Added [Eyenine](https://osu.ppy.sh/users/1259391) to **Probationary BN**
+- 2020-12-14: Added [Benita](https://osu.ppy.sh/users/1259391) to **Probationary BN**
+- 2020-12-20: Added [Default Guy](https://osu.ppy.sh/users/7058457) to **Probationary BN**
+- 2020-12-21: Added [Zer0-](https://osu.ppy.sh/users/4260033) to **Probationary BN**
+- 2020-12-21: Added [realy0_](https://osu.ppy.sh/users/8863359) to **Probationary BN**
+- 2020-12-21: Added [Morrighan](https://osu.ppy.sh/users/12042090) to **Probationary BN**
+- 2020-12-26: Added [Mipha-](https://osu.ppy.sh/users/5767941) to **Probationary BN**
+
+#### Moves
+
+- 2020-12-05: Moved [Astronic](https://osu.ppy.sh/users/9320502) from **Probationary BN** to **BN**
+- 2020-12-05: Moved [Akito](https://osu.ppy.sh/users/5716327) from **Probationary BN** to **BN**
+- 2020-12-06: Moved [Arzenvald](https://osu.ppy.sh/users/3027421) from **BN** to **Probationary BN**
+- 2020-12-07: Moved [riffy](https://osu.ppy.sh/users/597957) from **Probationary BN** to **BN**
+- 2020-12-07: Moved [Krisom](https://osu.ppy.sh/users/99269) from **Probationary BN** to **BN**
+- 2020-12-09: Moved [Nelly](https://osu.ppy.sh/users/4741164) from **Probationary BN** to **BN**
+- 2020-12-12: Moved [Unpredictable](https://osu.ppy.sh/users/7560872) from **Probationary BN** to **BN**
+- 2020-12-14: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **BN** to **Probationary BN**
+- 2020-12-17: Moved [SMOKELIND](https://osu.ppy.sh/users/9327302) from **Probationary BN** to **BN**
+- 2020-12-17: Moved [Beomsan](https://osu.ppy.sh/users/3626063) from **Probationary BN** to **BN**
+- 2020-12-18: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **Probationary BN** to **BN**
+- 2020-12-23: Moved [Jerry](https://osu.ppy.sh/users/605973) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2020-12-15: Removed [Sylas](https://osu.ppy.sh/users/3906405) from **BN**
+- 2020-12-15: Removed [Yahuri](https://osu.ppy.sh/users/4682629) from **BN**
+- 2020-12-16: Removed [Raiden](https://osu.ppy.sh/users/2239480) from **BN**
+- 2020-12-23: Removed [Blitzifyyy](https://osu.ppy.sh/users/11787713) from **BN**
+- 2020-12-28: Removed [Spectator](https://osu.ppy.sh/users/702598) from **BN**
+- 2020-12-28: Removed [Dapuluous](https://osu.ppy.sh/users/8140944) from **BN**
+- 2020-12-29: Removed [Xinely](https://osu.ppy.sh/users/1521445) from **BN**
+- 2020-12-30: Removed [Myxo](https://osu.ppy.sh/users/2202645) from **BN**
+
+<!-- last update: 2021-01-01 02:00 UTC removed myxo from bn -->

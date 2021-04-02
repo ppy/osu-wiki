@@ -1,20 +1,20 @@
 ---
 tags:
-- TWC 2012
-- TWC2012
+  - TWC 2012
+  - TWC2012
 ---
 
 # Taiko World Cup 2012
 
-![TWC 2012 Logo](img/logo.png)
+![TWC 2012 logo](img/logo.png)
 
 The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second installment of the osu!taiko World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2011-11-14/2012-02-03 |
+| Registration phase | 2011-11-14/2012-02-03 |
 | Round 1-1 | 2012-02-11/2012-02-12 |
 | Round 1-2 | 2012-02-18/2012-02-19 |
 | Round 1-3 | 2012-02-25/2012-02-26 |
@@ -28,62 +28,60 @@ The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tour
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 | *Special* | 1 month of osu!supporter tag |
 
-![TWC 2012 Winner Badge](img/badge.png)
+![](img/badge.jpg "TWC 2012 winner badge")
 
 ## Organisation
 
-The Taiko World Cup 2012 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Taiko World Cup 2012 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_KR] [wmfchris](https://osu.ppy.sh/users/7401) |
-| Map Selector | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
+| Mappool selector | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
+| Referee | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733), ![][flag_TW] [Numbers 596108](https://osu.ppy.sh/users/194653), ![][flag_FR] [Odaril](https://osu.ppy.sh/users/113005) |
 | Scheduler | ![][flag_US] [anongos](https://osu.ppy.sh/users/7135) |
 | Streamer | ![][flag_HK] [Kirisaki\_Hayashi](https://osu.ppy.sh/users/857986), ![][flag_HK] [matthewhln](https://osu.ppy.sh/users/291487) |
-| Referee | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733), ![][flag_TW] [Numbers 596108](https://osu.ppy.sh/users/194653), ![][flag_FR] [Odaril](https://osu.ppy.sh/users/113005) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/66910)
-- Livestreams
+- Livestream
   - [Matthewhln](https://www.twitch.tv/matthewhln)
   - [lunarsaki](https://www.twitch.tv/lunarsaki)
 - **[Statistics sheet](https://docs.google.com/spreadsheet/ccc?key=0Aozv0NW718V1dHlVQldGc0VEN1lpWnlRMHhJakJ1Vnc)**
-
----
 
 ## Participants
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AT] | **Austria** | **[M A R I O](https://osu.ppy.sh/users/594424)**, [Necro Neko](https://osu.ppy.sh/users/697203), [Hawkii](https://osu.ppy.sh/users/709719), [TheNutritiousGuy](https://osu.ppy.sh/users/626907) |
-| ![][flag_BR] | **Brazil** | **[fabriciorby](https://osu.ppy.sh/users/209664)**, [Hyguys](https://osu.ppy.sh/users/362851), [\[Luanny PhNyx\]](https://osu.ppy.sh/users/802909), [JhowM](https://osu.ppy.sh/users/599290) |
+| ![][flag_AT] | **Austria** | **[M A R I O](https://osu.ppy.sh/users/594424)**, [Hawkii](https://osu.ppy.sh/users/709719), [Necro Neko](https://osu.ppy.sh/users/697203), [TheNutritiousGuy](https://osu.ppy.sh/users/626907) |
+| ![][flag_BR] | **Brazil** | **[fabriciorby](https://osu.ppy.sh/users/209664)**, [\[Luanny PhNyx\]](https://osu.ppy.sh/users/802909), [Hyguys](https://osu.ppy.sh/users/362851), [JhowM](https://osu.ppy.sh/users/599290) |
 | ![][flag_CA] | **Canada** | **[xcherry](https://osu.ppy.sh/users/684730)**, [Crystalloid](https://osu.ppy.sh/users/699741), [orangespanky](https://osu.ppy.sh/users/125142), [Super\_Banana](https://osu.ppy.sh/users/459886) |
-| ![][flag_CL] | **Chile** | **[Kurisuchianu](https://osu.ppy.sh/users/194345)**, [Letz\_shake](https://osu.ppy.sh/users/593579), [Verdisphena](https://osu.ppy.sh/users/378377), [Touche](https://osu.ppy.sh/users/744220) |
+| ![][flag_CL] | **Chile** | **[Kurisuchianu](https://osu.ppy.sh/users/194345)**, [Letz\_shake](https://osu.ppy.sh/users/593579), [Touche](https://osu.ppy.sh/users/744220), [Verdisphena](https://osu.ppy.sh/users/378377) |
 | ![][flag_CN] | **China** | **[HM495](https://osu.ppy.sh/users/810813)**, [baka\_baka\_Koishi](https://osu.ppy.sh/users/915103), [narcissu2012](https://osu.ppy.sh/users/819937), [small-qiang](https://osu.ppy.sh/users/619179) |
 | ![][flag_FR] | **France** | **[Nashmun](https://osu.ppy.sh/users/49031)**, [Dagonpater](https://osu.ppy.sh/users/205257), [Didou](https://osu.ppy.sh/users/594822), [Omegaflo](https://osu.ppy.sh/users/83291) |
 | ![][flag_DE] | **Germany A** | **[OnosakiHito](https://osu.ppy.sh/users/290128)**, [DarkDunskin](https://osu.ppy.sh/users/98985), [LittleMagic](https://osu.ppy.sh/users/105380), [RockeDon](https://osu.ppy.sh/users/624957) |
-| ![][flag_DE] | **Germany B** | **[Locher](https://osu.ppy.sh/users/587835)**, [Slih](https://osu.ppy.sh/users/606738), [Xayphon](https://osu.ppy.sh/users/961417), [Brokenarrow](https://osu.ppy.sh/users/384034) |
+| ![][flag_DE] | **Germany B** | **[Locher](https://osu.ppy.sh/users/587835)**, [Brokenarrow](https://osu.ppy.sh/users/384034), [Slih](https://osu.ppy.sh/users/606738), [Xayphon](https://osu.ppy.sh/users/961417) |
 | ![][flag_HK] | **Hong Kong A** | **[aabc271](https://osu.ppy.sh/users/155707)**, [KanaRin](https://osu.ppy.sh/users/310747), [kanpakyin](https://osu.ppy.sh/users/394326), [XeBi320](https://osu.ppy.sh/users/342622) |
-| ![][flag_HK] | **Hong Kong B** | **[7odoa](https://osu.ppy.sh/users/643394)**, [sakurasuzaku](https://osu.ppy.sh/users/192704), [jiujiu123](https://osu.ppy.sh/users/728511), [rturuurud](https://osu.ppy.sh/users/520016) |
-| ![][flag_IT] ![][flag_NL] | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [Pheon](https://osu.ppy.sh/users/292295), [happy30](https://osu.ppy.sh/users/27767), [Jak64](https://osu.ppy.sh/users/29029) |
-| ![][flag_JP] | **Japan A** | **[pota-row](https://osu.ppy.sh/users/858415)**, [TTTL](https://osu.ppy.sh/users/164583), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [asuke916](https://osu.ppy.sh/users/863073) |
-| ![][flag_JP] | **Japan B** | **[asgardv](https://osu.ppy.sh/users/752078)**, [shifon\[0312\]](https://osu.ppy.sh/users/295488), [Lye](https://osu.ppy.sh/users/508616), [tamutamu](https://osu.ppy.sh/users/364497) |
-| ![][flag_KR] | **Korea A** | **[Remilia-Scarlet](https://osu.ppy.sh/users/602783)**, [Mapper 31](https://osu.ppy.sh/users/156215), [KDS](https://osu.ppy.sh/users/257977), [Riboflavin](https://osu.ppy.sh/users/575159) |
-| ![][flag_KR] | **Korea B** | **[\[Shalon\]](https://osu.ppy.sh/users/317802)**, [OFC\_youngdow](https://osu.ppy.sh/users/1312550), [EkiBen](https://osu.ppy.sh/users/344783), [iketa](https://osu.ppy.sh/users/571504) |
-| ![][flag_MO] | **Macau** | **[L y n n i e](https://osu.ppy.sh/users/189880)**, [tuidaololi](https://osu.ppy.sh/users/359750), [benisakura](https://osu.ppy.sh/users/384986), [\_\_\_\_\_\_\_\_yL](https://osu.ppy.sh/users/761205) |
-| ![][flag_MY] | **Malaysia** | **[HeatKai](https://osu.ppy.sh/users/332555)**, [Taiko\_Maniac1811](https://osu.ppy.sh/users/595764), [x3Jerry](https://osu.ppy.sh/users/605973), [mekadon](https://osu.ppy.sh/users/157835) |
-| ![][flag_PH] | **Philippines** | **[AngelusMist](https://osu.ppy.sh/users/640612)**, [\[Zero\_One\]](https://osu.ppy.sh/users/347574), [Zekira](https://osu.ppy.sh/users/36749), [blacksymbian](https://osu.ppy.sh/users/53956) |
+| ![][flag_HK] | **Hong Kong B** | **[7odoa](https://osu.ppy.sh/users/643394)**, [jiujiu123](https://osu.ppy.sh/users/728511), [rturuurud](https://osu.ppy.sh/users/520016), [sakurasuzaku](https://osu.ppy.sh/users/192704) |
+| ![][flag_IT] ![][flag_NL] | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [happy30](https://osu.ppy.sh/users/27767), [Jak64](https://osu.ppy.sh/users/29029), [Pheon](https://osu.ppy.sh/users/292295) |
+| ![][flag_JP] | **Japan A** | **[pota-row](https://osu.ppy.sh/users/858415)**, [asuke916](https://osu.ppy.sh/users/863073), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [TTTL](https://osu.ppy.sh/users/164583) |
+| ![][flag_JP] | **Japan B** | **[asgardv](https://osu.ppy.sh/users/752078)**, [Lye](https://osu.ppy.sh/users/508616), [shifon\[0312\]](https://osu.ppy.sh/users/295488), [tamutamu](https://osu.ppy.sh/users/364497) |
+| ![][flag_MO] | **Macau** | **[L y n n i e](https://osu.ppy.sh/users/189880)**, [\_\_\_\_\_\_\_\_yL](https://osu.ppy.sh/users/761205), [benisakura](https://osu.ppy.sh/users/384986), [tuidaololi](https://osu.ppy.sh/users/359750) |
+| ![][flag_MY] | **Malaysia** | **[HeatKai](https://osu.ppy.sh/users/332555)**, [Taiko\_Maniac1811](https://osu.ppy.sh/users/595764), [mekadon](https://osu.ppy.sh/users/157835), [x3Jerry](https://osu.ppy.sh/users/605973) |
+| ![][flag_PH] | **Philippines** | **[AngelusMist](https://osu.ppy.sh/users/640612)**, [\[Zero\_One\]](https://osu.ppy.sh/users/347574), [blacksymbian](https://osu.ppy.sh/users/53956), [Zekira](https://osu.ppy.sh/users/36749) |
 | ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [1miko1](https://osu.ppy.sh/users/95690), [DarkStoorM](https://osu.ppy.sh/users/174347), [flyleaf95](https://osu.ppy.sh/users/375174) |
+| ![][flag_KR] | **South Korea A** | **[Remilia-Scarlet](https://osu.ppy.sh/users/602783)**, [KDS](https://osu.ppy.sh/users/257977), [Mapper 31](https://osu.ppy.sh/users/156215), [Riboflavin](https://osu.ppy.sh/users/575159) |
+| ![][flag_KR] | **South Korea B** | **[\[Shalon\]](https://osu.ppy.sh/users/317802)**, [EkiBen](https://osu.ppy.sh/users/344783), [iketa](https://osu.ppy.sh/users/571504), [OFC\_youngdow](https://osu.ppy.sh/users/1312550) |
 | ![][flag_ES] | **Spain** | **[CARRI](https://osu.ppy.sh/users/854536)**, [charly kempachi](https://osu.ppy.sh/users/280115), [MYRKUL](https://osu.ppy.sh/users/255933) |
-| ![][flag_TW] | **Taiwan A** | **[doraewon1](https://osu.ppy.sh/users/358675)**, [ISHIDAMITSUNARI](https://osu.ppy.sh/users/242910), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766), [mliencheng](https://osu.ppy.sh/users/586659) |
-| ![][flag_TW] | **Taiwan B** | **[jih7491](https://osu.ppy.sh/users/259446)**, [610522](https://osu.ppy.sh/users/965771), [Tomoka Rin](https://osu.ppy.sh/users/125308), [kg2161012](https://osu.ppy.sh/users/468393) |
-| ![][flag_US] | **United States A** | **[MMzz](https://osu.ppy.sh/users/128993)**, [Sander-Don](https://osu.ppy.sh/users/284307), [OzzyOzrock](https://osu.ppy.sh/users/465153) |
+| ![][flag_TW] | **Taiwan A** | **[doraewon1](https://osu.ppy.sh/users/358675)**, [ISHIDAMITSUNARI](https://osu.ppy.sh/users/242910), [mliencheng](https://osu.ppy.sh/users/586659), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766) |
+| ![][flag_TW] | **Taiwan B** | **[jih7491](https://osu.ppy.sh/users/259446)**, [610522](https://osu.ppy.sh/users/965771), [kg2161012](https://osu.ppy.sh/users/468393), [Tomoka Rin](https://osu.ppy.sh/users/125308) |
+| ![][flag_US] | **United States A** | **[MMzz](https://osu.ppy.sh/users/128993)**, [OzzyOzrock](https://osu.ppy.sh/users/465153), [Sander-Don](https://osu.ppy.sh/users/284307) |
 | ![][flag_US] | **United States B** | **[Makar8000](https://osu.ppy.sh/users/686389)**, [Backfire](https://osu.ppy.sh/users/263110), [KYOUI](https://osu.ppy.sh/users/460978), [Love](https://osu.ppy.sh/users/467487) |
 
 ## Groups
@@ -95,13 +93,9 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan B | ![][flag_PH] Philippines | ![][flag_KR] Korea A | ![][flag_JP] Japan A | ![][flag_KR] Korea B |
 | ![][flag_PL] Poland | ![][flag_TW] Taiwan A | ![][flag_US] United States B | ![][flag_ES] Spain | ![][flag_TW] Taiwan B | ![][flag_US] United States A |
 
----
+![TWC 2012 podium](img/podium.png)
 
-![TWC 2012 Podium](img/podium.png)
-
-![TWC 2012 Bracket](img/bracket.jpg)
-
----
+![TWC 2012 bracket](img/bracket.jpg)
 
 ## Mappools
 
@@ -309,49 +303,61 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 - Tiebreaker
   - **[Cait Sith - Schrodinger's Cat (Sushi) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/36409#taiko/117642)**
 
----
-
-## Match Results
+## Match results
 
 ### Round 5
 
-| Saturday, 2012-03-31 |  |  |  |  |
+Saturday, 31 March 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Japan B** ![][flag_JP] | **5** | 4 | ![][flag_FR] France |  |
 
-| Sunday, 2012-04-01 |  |  |  |  |
+Sunday, 1 April 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong A ![][flag_HK] | 2 | **5** | ![][flag_JP] **Japan A** |  |
 
 ### Round 4
 
-| Saturday, 2012-03-24 |  |  |  |  |
+Saturday, 24 March 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Japan B ![][flag_JP] | 1 | **5** | ![][flag_HK] **Hong Kong A** |  |
 | **Japan A** ![][flag_JP] | **5** | 0 | ![][flag_FR] France |  |
 
 ### Round 3
 
-| Saturday, 2012-03-17 |  |  |  |  |
+Saturday, 17 March 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Germany B ![][flag_DE] | 1 | **4** | ![][flag_FR] **France** |  |
 | **Japan A** ![][flag_JP] | **4** | 1 | ![][flag_TW] Taiwan A |  |
 
-| Sunday, 2012-03-18 |  |  |  |  |
+Sunday, 18 March 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong A** ![][flag_HK] | **4** | 2 | ![][flag_US] United States A |  |
 | Korea A ![][flag_KR] | 1 | **4** | ![][flag_JP] **Japan B** |  |
 
 ### Round 2
 
-| Saturday, 2012-03-10 |  |  |  |  |
+Saturday, 10 March 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Korea A** ![][flag_KR] | **4** | 1 | ![][flag_CN] China |  |
 | Taiwan B ![][flag_TW] | 0 | **4** | ![][flag_FR] **France** |  |
-| Philippines ![][flag_PH] | 0 | **4** | ![][flag_HK] **Hong Kong A** | -win by default- |
+| Philippines ![][flag_PH] | 0 | **4** | ![][flag_HK] **Hong Kong A** | *win by default* |
 | Italy-Netherlands ![][flag_IT] ![][flag_NL] | 2 | **4** | ![][flag_US] **United States A** |  |
 
-| Sunday, 2012-03-11 |  |  |  |  |
+Sunday, 11 March 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Japan A** ![][flag_JP] | **4** | 1 | ![][flag_KR] Korea B |  |
 | **Taiwan A** ![][flag_TW] | **4** | 1 | ![][flag_US] United States B |  |
@@ -360,7 +366,9 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 
 ### Round 1-4
 
-| Saturday, 2012-03-03 |  |  |  |  |
+Saturday, 3 March 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong B ![][flag_HK] | 0 | **3** | ![][flag_TW] **Taiwan A** |  |
 | **Germany B** ![][flag_DE] | **3** | 0 | ![][flag_PL] Poland |  |
@@ -368,7 +376,9 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 | Chile ![][flag_CL] | 0 | **3** | ![][flag_PH] **Philippines** |  |
 | **France** ![][flag_FR] | **3** | 1 | ![][flag_US] United States B |  |
 
-| Sunday, 2012-03-04 |  |  |  |  |
+Sunday, 4 March 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Malaysia ![][flag_MY] | 0 | **3** | ![][flag_US] **United States A** |  |
 | China ![][flag_CN] | 1 | **3** | ![][flag_KR] **Korea B** |  |
@@ -378,30 +388,38 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 
 ### Round 1-3
 
-| Saturday, 2012-02-25 |  |  |  |  |
+Saturday, 25 February 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Macau ![][flag_MO] | 0 | **3** | ![][flag_HK] **Hong Kong A** |  |
 | Italy-Netherlands ![][flag_IT] ![][flag_NL] | 1 | **3** | ![][flag_KR] **Korea A** |  |
 | **Germany A** ![][flag_DE] | **3** | 1 | ![][flag_TW] Taiwan B |  |
 | **France** ![][flag_FR] | **3** | 0 | ![][flag_PH] Philippines |  |
 
-| Sunday, 2012-02-26 |  |  |  |  |
+Sunday, 26 February 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States B** ![][flag_US] | **3** | 1 | ![][flag_CL] Chile |  |
 | **United States A** ![][flag_US] | **3** | 0 | ![][flag_CN] China |  |
 | **Spain** ![][flag_ES] | **3** | 2 | ![][flag_AT] Austria |  |
-| Brazil ![][flag_BR] | 0 | **3** | ![][flag_JP] **Japan A** | -win by default- |
+| Brazil ![][flag_BR] | 0 | **3** | ![][flag_JP] **Japan A** | *win by default* |
 
 ### Round 1-2
 
-| Saturday, 2012-02-18 |  |  |  |  |
+Saturday, 18 February 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Germany B ![][flag_DE] | 2 | **3** | ![][flag_HK] **Hong Kong A** |  |
 | **Macau** ![][flag_MO] | **3** | 2 | ![][flag_PL] Poland |  |
 | Germany A ![][flag_DE] | 1 | **3** | ![][flag_JP] **Japan A** |  |
 | **Korea A** ![][flag_KR] | **3** | 0 | ![][flag_ES] Spain |  |
 
-| Sunday, 2012-02-19 |  |  |  |  |
+Sunday, 19 February 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan A** ![][flag_TW] | **3** | 0 | ![][flag_CA] Canada |  |
 | Malaysia ![][flag_MY] | 1 | **3** | ![][flag_KR] **Korea B** |  |
@@ -410,26 +428,28 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 
 ### Round 1-1
 
-| Saturday, 2012-02-11 |  |  |  |  |
+Saturday, 11 February 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **3** | 0 | ![][flag_MY] Malaysia |  |
-| Macau ![][flag_MO] | 0 | **3** | ![][flag_DE] **Germany B** | -win by default- |
+| Macau ![][flag_MO] | 0 | **3** | ![][flag_DE] **Germany B** | *win by default* |
 | **Hong Kong A** ![][flag_HK] | **3** | 0 | ![][flag_PL] Poland |  |
 | Austria ![][flag_AT] | 0 | **3** | ![][flag_IT] ![][flag_NL] **Italy-Netherlands** |  |
 | **France** ![][flag_FR] | **3** | 0 | ![][flag_CL] Chile |  |
 | Brazil ![][flag_BR] | 0 | **3** | ![][flag_DE] **Germany A** |  |
 | Korea B ![][flag_KR] | 0 | **3** | ![][flag_US] **United States A** |  |
 
-| Sunday, 2012-02-12 |  |  |  |  |
+Sunday, 12 February 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 1 | **3** | ![][flag_HK] **Hong Kong B** |  |
 | **Taiwan A** ![][flag_TW] | **3** | 0 | ![][flag_JP] Japan B |  |
 
----
-
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The maps for certain round will be announced by staff. Only those maps can be used in the round.
    - There will be some maps that can be used only for the final games.
@@ -481,7 +501,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 20. If the manager is absent when decisions from the manager are needed, vice-manager will take over the job temporarily.
 21. This rules can be modified without noticing.
 
-### Tournament Registration
+### Tournament registration
 
 1. Minimum 3 players per one team. You can add 1 back-up player, so maximum number of the player in one team is 4.
    - You don't need to specify which player is back-up.
@@ -498,7 +518,7 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 7. Staff can't participate tournament as a player.
 8. These rules can be modified without noticing.
 
-### Stage Instructions
+### Stage instructions
 
 The 1st round of the tournament is group robin-round stage. There are 6 groups and each groups have 4 teams. Your team will play every other teams once, and the team achieved #1 or #2 in their group and 4 best #3 teams will be ascended to the next round. (Total 16 teams will be ascended.) Ranking of teams will be decided by certain standards:
 
@@ -511,7 +531,7 @@ Other rounds are Knock-out stage. If your team wins the match, your team will be
 
 Usually your team has one match per a week.
 
-### Match Instructions
+### Match instructions
 
 1. One of referees will make the room about 15 minutes before the time. All players should arrive the room in right time.
    - The room will be locked. The password will be sent to the two captains as soon as possible.
@@ -528,23 +548,23 @@ Usually your team has one match per a week.
 8. In Group stage, the team wins 3 games first will win the match. In Knock-out stage, the team need to win 4 games.
    - From semi-final round, you have to win 5 games first.
 
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_MO]: /wiki/shared/flag/MO.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_MO]: /wiki/shared/flag/MO.gif "Macau"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

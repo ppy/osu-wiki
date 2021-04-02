@@ -4,7 +4,7 @@
 
 [skin.iniも参照してください](/wiki/Skinning/Skin.ini)。
 
-## [General]セクション以下
+## \[General\]セクション以下
 
 `UseSkinSprites: 1`
 

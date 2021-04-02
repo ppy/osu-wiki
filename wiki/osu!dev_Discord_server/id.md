@@ -23,10 +23,10 @@ Setiap topik pengembangan yang dibahas telah memiliki server masing - masing:
 | [osu!lazer](https://github.com/ppy/osu "ppy/osu di GitHub") | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework "ppy/osu-framework di GitHub") | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web "ppy/osu-web di GitHub") | `#osu-web` |
-| [osu!standard](/wiki/Game_Modes/osu!) [star rating](/wiki/Beatmapping/Star_rating) dan [performance points](/wiki/Performance_Points) | `#difficulty-osu` |
-| [osu!taiko](/wiki/Game_Modes/osu!taiko) star rating dan performance points | `#difficulty-taiko` |
-| [osu!catch](/wiki/Game_Modes/osu!catch) star rating dan performance points | `#difficulty-catch` |
-| [osu!mania](/wiki/Game_Modes/osu!mania) star rating dan performance points | `#difficulty-mania` |
+| [osu!standard](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmapping/Star_rating) dan [performance points](/wiki/Performance_Points) | `#difficulty-osu` |
+| [osu!taiko](/wiki/Game_mode/osu!taiko) star rating dan performance points | `#difficulty-taiko` |
+| [osu!catch](/wiki/Game_mode/osu!catch) star rating dan performance points | `#difficulty-catch` |
+| [osu!mania](/wiki/Game_mode/osu!mania) star rating dan performance points | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki di GitHub") | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |

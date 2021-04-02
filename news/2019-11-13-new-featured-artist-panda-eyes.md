@@ -44,7 +44,7 @@ Feast your ears and behold:
     <source src="https://assets.ppy.sh/artists/55/previews/1563.mp3" type="audio/mpeg">
 </audio>
 
--------
+---
 
 As is the usual, all of the above plus a whole ton more are available for your mapping delight over at [**Panda Eyes**' Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/55). Head on over and check the massive collection out!
 

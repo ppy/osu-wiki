@@ -13,7 +13,7 @@ The results are broken into two sections, the hard numbers of the public poll re
 
 We'll be granting the supporter tags and contacting the first prize winners about the physical prizes in the next few days. If we use any of this art in upcoming merchandise, one of those will be given to the artist as part of the prize as well.
 
-## PUBLIC POLL RESULTS:
+## PUBLIC POLL RESULTS
 
 **First Place:**
 
@@ -55,7 +55,7 @@ Full: [Download Here](/wiki/shared/news/2014-11-12-fourth-official-osu-fanart-co
 
 by UUL
 
-## STAFF FAVORITES:
+## STAFF FAVORITES
 
 **Winner:**
 
@@ -97,7 +97,7 @@ Full: [Download Here](/wiki/shared/news/2014-11-12-fourth-official-osu-fanart-co
 
 by CosmicTea
 
-## HONORABLE MENTIONS (IN NO PARTICULAR ORDER):
+## HONORABLE MENTIONS (IN NO PARTICULAR ORDER)
 
 ![](/wiki/shared/news/2014-11-12-fourth-official-osu-fanart-contest-results/thumb-83.jpg)
 

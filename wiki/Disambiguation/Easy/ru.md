@@ -1,15 +1,9 @@
----
-outdated: true
-outdated_since: 8043b3a603ef5a8bb7ab9f982fceed3825cb249f
----
+# Easy (значения)
 
-# Easy
+**Easy** может означать:
 
-**Easy** также может означать:
-
-- [Игровой мод](/wiki/Game_Modifiers#easy).
-- Название версии карты.
-- Сложность карты:
+- [Игровой мод](/wiki/Game_modifier/Easy).
+- [Сложность](/wiki/Beatmap/Difficulty) карты:
   - ![](/wiki/shared/diff/easy-s.png) Easy, для osu!standard.
   - ![](/wiki/shared/diff/easy-t.png) Kantan, для osu!taiko.
   - ![](/wiki/shared/diff/easy-c.png) Cup, для osu!catch.

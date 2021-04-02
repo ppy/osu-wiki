@@ -43,42 +43,42 @@ Di osu!, terdapat variasi pintasan yang dapat berguna baik dalam game maupun tam
 
 ## Pemilihan Lagu
 
-- **F1**: [Pemilihan Mod](/wiki/Game_Modifiers)
+- **F1**: [Pemilihan Mod](/wiki/Game_modifier)
 - **F2**: Map Acak (tekan 2x secara cepat untuk map acak instan)
 - **F3**: Opsi Beatmap
 - **F5**: Menyegarkan kembali daftar lagu
 - **Shift-Delete**: Menghapus map yang disorot
-- **Ctrl-1/2/3/4**: Mengubah ke ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) mode permainan (berurut).
-- **Ctrl-Enter**: Memainkan map yang dipilih dengan mod [Otomatis](/wiki/Game_Modifiers)
+- **Ctrl-1/2/3/4**: Mengubah ke ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_mode/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_mode/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_mode/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_mode/osu!mania) mode permainan (berurut).
+- **Ctrl-Enter**: Memainkan map yang dipilih dengan mod [Otomatis](/wiki/Game_modifier)
 - **Ctrl-Shift-Enter**: Memainkan map yang dipilih dengan mod Cinema
-- **Ctrl-A**: Mengaktifkan/Menon-aktifkan mod [Otomatis](/wiki/Game_Modifiers)
+- **Ctrl-A**: Mengaktifkan/Menon-aktifkan mod [Otomatis](/wiki/Game_modifier)
 - **Up/Down**: Mengganti pilihan
 - **PageUp/PageDown**: Mengganti pilihan (Besar)
 - **Enter**: Memilih
 
 ## Tampilan Mod
 
-Catatan: Mod spesial seperti [Perfect](/wiki/Game_Modifiers) atau [Nightcore](/wiki/Game_Modifiers) perlu ditekan sekali lagi.
+Catatan: Mod spesial seperti [Perfect](/wiki/Game_modifier/Perfect) atau [Nightcore](/wiki/Game_modifier/Nightcore) perlu ditekan sekali lagi.
 
 ![Daftar mod yang dapat digunakan (Sesuai Urutan)](Soloplay8.png "Daftar mod yang dapat digunakan <Sesuai Urutan>")
 
-- **Q**: [Easy](/wiki/Game_Modifiers)
-- **W**: [No-Fail](/wiki/Game_Modifiers)
-- **E**: [Half Time](/wiki/Game_Modifiers)
+- **Q**: [Easy](/wiki/Game_modifier/Easy)
+- **W**: [No-Fail](/wiki/Game_modifier/No_Fail)
+- **E**: [Half Time](/wiki/Game_modifier/Half_Time)
 
-------------------------------------------------------------------------
+---
 
-- **A**: [Hard Rock](/wiki/Game_Modifiers)
-- **S**: [Sudden Death](/wiki/Game_Modifiers)
-- **D**: [Double Time](/wiki/Game_Modifiers)
-- **F**: [Hidden](/wiki/Game_Modifiers)
-- **G**: [Flashlight](/wiki/Game_Modifiers)
+- **A**: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
+- **S**: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
+- **D**: [Double Time](/wiki/Game_modifier/Double_Time)
+- **F**: [Hidden](/wiki/Game_modifier/Hidden)
+- **G**: [Flashlight](/wiki/Game_modifier/Flashlight)
 
-------------------------------------------------------------------------
+---
 
-- **X**: [Relax](/wiki/Game_Modifiers) (di osu!mania 4/5/6/7/8K mod)
-- **C**: [Auto-Pilot](/wiki/Game_Modifiers)
-- **V**: [Spun-Out](/wiki/Game_Modifiers)
+- **X**: [Relax](/wiki/Game_modifier/Relax) (di osu!mania 4/5/6/7/8K mod)
+- **C**: [Auto-Pilot](/wiki/Game_modifier/Autopilot)
+- **V**: [Spun-Out](/wiki/Game_modifier/Spun_Out)
 - **B**: Auto
 
 ## Mode Bermain

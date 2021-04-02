@@ -142,7 +142,7 @@ osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/
 [PinocchioP - Weekly Shonen BYE-BYE](https://osu.ppy.sh/beatmapsets/279313#fruits) by [[224]Reol](https://osu.ppy.sh/users/3313041)  
 *written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-This week we're bringing back one of [224]Reol's earlier maps, "Shuukan Shounen Bye Bye". While being submitted back in 2015, and not quite considered an "old" map yet, it sure does contain some patterns that are considered awkward compared to the newer maps. It's filled with constant wiggles, both with hyperdashes and without! Now, of course wiggles are fun and all, but it also contains some tap dashes here and there to increase the overall difficulty just to top it all off. Because the song is so action packed, you don't really get any time to lose concentration, otherwise you will miss right away because of everything going on. Enjoy!
+This week we're bringing back one of \[224\]Reol's earlier maps, "Shuukan Shounen Bye Bye". While being submitted back in 2015, and not quite considered an "old" map yet, it sure does contain some patterns that are considered awkward compared to the newer maps. It's filled with constant wiggles, both with hyperdashes and without! Now, of course wiggles are fun and all, but it also contains some tap dashes here and there to increase the overall difficulty just to top it all off. Because the song is so action packed, you don't really get any time to lose concentration, otherwise you will miss right away because of everything going on. Enjoy!
 
 [![](/wiki/shared/news/2019-02-12-project-loved-week-of-february-10th/catch/coolest.jpg)](https://osu.ppy.sh/community/forums/topics/868454)
 

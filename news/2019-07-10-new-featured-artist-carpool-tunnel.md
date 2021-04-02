@@ -44,7 +44,7 @@ Here's a few previews of what Carpool Tunnel has to offer:
     <source src="https://assets.ppy.sh/artists/42/previews/1005.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 These tracks and many more can be found with pre-timed beatmap templates over on [**Carpool Tunnel**'s Featured Artist page](https://osu.ppy.sh/beatmaps/artists/42). As with all Featured Artist tracks, these new tracks are all 100% free for use in mapping. Be sure to give each a listen!
 

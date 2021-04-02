@@ -128,7 +128,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/mania/1-starfall.jpg)](https://osu.ppy.sh/community/forums/topics/953231)
 
 [Kopophobia & Ajataa - Starfall](https://osu.ppy.sh/beatmapsets/762671#mania) by [riktoi](https://osu.ppy.sh/users/4940393)  
-240 BPM, 5:15 | [4K] 6.30★, [4K] 6.56★, [4K] 6.82★
+240 BPM, 5:15 | \[4K\] 6.30★, \[4K\] 6.56★, \[4K\] 6.82★
 
 riktoi earns his first nominated mapset with *Starfall*. One of *Starfall*'s difficulties, Planetary Annihilation 1.1x, is notorious for being the hardest rice chart used in MWC 4K 2018, and was arguably the hardest rice chart used in any MWC up to this point.
 
@@ -139,14 +139,14 @@ Players who enjoyed [Jole](https://osu.ppy.sh/users/2883132)'s *[Peter on Crack]
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/mania/2-stress.jpg)](https://osu.ppy.sh/community/forums/topics/953230)
 
 [xKore - Stress](https://osu.ppy.sh/beatmapsets/861705#mania) by [Halogen-](https://osu.ppy.sh/users/169992)  
-280 BPM, 1:37 | [4K] 3.15★
+280 BPM, 1:37 | \[4K\] 3.15★
 
 *Stress* is a map that very directly embodies the name it was given. A brutally tough creation by Halogen-, local osu!mania sadist, *Stress* proves to provide the players with an intensely stressful experience chock-full of unexpected, unorthodox snappings and the main meat of the map: SVs that prove to be both predictable and unpredictable at the same time. Although they are sightreadable to a certain extent, they are extremely tough consisting almost completely of instantaneous jumps followed by slow approaches of the following notes, a technique that, if understood, can be played with great finesse. Without an understanding of these SV gimmicks though, it may as well be the most difficult SV chart in osu!mania's maplist making it a great target for those extreme SV enthusiasts. The map gained great exposure about as soon as it was released and it is clear why as it's so difficult, yet rewarding to play making it the perfect choice for loved.
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/mania/3-play-time.jpg)](https://osu.ppy.sh/community/forums/topics/953229)
 
 [kors k x marasy - Play Time!!](https://osu.ppy.sh/beatmapsets/429609#mania) by [qodtjr](https://osu.ppy.sh/users/3021168)  
-185 BPM, 2:53 | [7K] 5.53★, [7K] 6.52★
+185 BPM, 2:53 | \[7K\] 5.53★, \[7K\] 6.52★
 
 qodtjr makes another comeback for this round of Project Loved with his map *Play Time!!*
 

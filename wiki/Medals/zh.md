@@ -58,7 +58,7 @@ _S_ 奖章的获取条件，是完成一张指定星级的谱面且获得 S 评�
 
 ## Mod 初体验
 
-_参见：[Mods](/wiki/Game_Modifiers)。_
+_参见：[Mods](/wiki/Game_modifier)。_
 
 mod 初体验类奖章可以通过初次使用相应的 mods 来完成谱面获得，以此来激励玩家主动尝试和体验游戏提供的各种不同的 mods。
 

@@ -181,7 +181,7 @@ The next map in the list goes by the name of Black Lotus, and it's made by Rain-
 [CELLON. - Madpakke](https://osu.ppy.sh/beatmapsets/304248) by [[ C r a c k ]](https://osu.ppy.sh/users/3628274), [richardfeder](https://osu.ppy.sh/users/2446000) and [Kuo Kyoka](https://osu.ppy.sh/users/2596306)  
 *written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
 
-We're finishing the list with a bit of a classic. Madpakke is a mapset that's been going around since forever, a 4&7K mapset with 4K difficulties made by [ C r a c k ] and 7K difficulties made by richardfeder and Kuo Kyoka. This set is interesting, as it takes the song's very unique and dynamic nature and showcases it through its patterning really well.
+We're finishing the list with a bit of a classic. Madpakke is a mapset that's been going around since forever, a 4&7K mapset with 4K difficulties made by \[ C r a c k \] and 7K difficulties made by richardfeder and Kuo Kyoka. This set is interesting, as it takes the song's very unique and dynamic nature and showcases it through its patterning really well.
 
 The mapset has gained a lot of attention through tournaments, especially with the 4K Another difficulty being featured in the Springtime osu!mania Tournament and richard's 7K Another being featured in osu!mania 7K World Cup 2016. It has retained its popularity throughout the years, and we believe that it's a very good candidate for the Loved section!
 

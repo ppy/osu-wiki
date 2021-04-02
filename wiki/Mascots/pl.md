@@ -135,8 +135,8 @@ Ryuuta
 ?
 
 #### Występowanie
-- Catch the Beat (jako chibi-Ryuuta) [zastąpiony przez Yuzu]
-- Strona osu! (chibi-Ryuuta jako maskotka) [Zakończył karierę]
+- Catch the Beat (jako chibi-Ryuuta) \[zastąpiony przez Yuzu\]
+- Strona osu! (chibi-Ryuuta jako maskotka) \[Zakończył karierę\]
 - [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
 - Yandere Simulator (jako NPC (easteregg))
 
@@ -147,7 +147,7 @@ iNiS Corporation
 Mężczyzna
 
 #### Data dołączenia
-2008 [Zakończył karierę w 2014]
+2008 \[Zakończył karierę w 2014\]
 
 #### Waga
 ?
@@ -172,7 +172,7 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Występowanie
-- Strona osu! (chibi-J jako maskotka) [Zakończył karierę]
+- Strona osu! (chibi-J jako maskotka) \[Zakończył karierę\]
 - [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Twórcy
@@ -182,7 +182,7 @@ iNiS Corporation
 Mężczyzna
 
 #### Data dołączenia
-2008 [Zakończył karierę:2014]
+2008 \[Zakończył karierę:2014\]
 
 #### Waga
 ?
@@ -211,8 +211,8 @@ Don, Don-chan
 {Oficjalna skórka dost. [w opcjach](/wiki/Options#Skin)}
 
 #### Twórcy
-- Yukiko Yokoo (横尾有希子) [Wygląd]
-- Narahashi Miki (楢橋 美紀) [Głos]
+- Yukiko Yokoo (横尾有希子) \[Wygląd\]
+- Narahashi Miki (楢橋 美紀) \[Głos\]
 
 #### Płeć
 Mężczyzna

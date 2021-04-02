@@ -123,7 +123,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/mania/1-poetic-justice-away.jpg)](https://osu.ppy.sh/community/forums/topics/973341)
 
 [PLINI X KENDRICK LAMAR - POETIC JUSTICE // AWAY](https://osu.ppy.sh/beatmapsets/955714#mania) by [Razzy](https://osu.ppy.sh/users/7690361)  
-140 BPM, 2:37 | [4K] 4.66★
+140 BPM, 2:37 | \[4K\] 4.66★
 
 You might remember Razzy's opening gambit in Loved, [Groundhog](https://osu.ppy.sh/beatmapsets/591171)—a wonderfully simple, but effective SV chart—and now she returns to Loved with a more complex, but just as effective Long Note chart in *POETIC JUSTICE // AWAY*. The chart is an LN experience that encapsulates such a large range of patterns including mini-LN streams, effective minijack and technical transitions, three-column inverse as well as full inverse, difficult but satisfying release patterns, and almost anything else you can think of. Each of these LN elements is impressively tied to distinct sounds and sections of the chart, all being logical and matching very well from a player's perspective.
 
@@ -132,7 +132,7 @@ All of this charted to a surprisingly rare (given its popularity outside of osu!
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/mania/2-eighto.jpg)](https://osu.ppy.sh/community/forums/topics/973340)
 
 [Jomekka - Eighto](https://osu.ppy.sh/beatmapsets/584698#mania) by [Wh1teh](https://osu.ppy.sh/users/2640467)  
-234 BPM, 3:26 | [4K] 5.48★
+234 BPM, 3:26 | \[4K\] 5.48★
 
 Wh1teh gets another chart nominated into the Loved section with his rendition of Jomekka's *Eighto*. To call the chart relentless is an understatement—Eighto has nonstop 1/6 bursts at 234 BPM (351 BPM 1/4s) with occasional doubles, 1/4 split jumptrills, and many extended 1/6 light jumpstreams sandwiched in its fairly short 3 minute lifespan. The first 2 minutes practically has no break, so you'll most likely find yourself running on fumes by the time you reach the longer jumpstreams in the chart.
 
@@ -141,7 +141,7 @@ This chart is fairly popular among high-level players, and for good reason. It's
 [![](/wiki/shared/news/2019-10-14-project-loved-week-of-october-13th/mania/3-kawaki-wo-ameku.jpg)](https://osu.ppy.sh/community/forums/topics/973339)
 
 [Minami - Kawaki wo Ameku](https://osu.ppy.sh/beatmapsets/919643#mania) by [Flexo123](https://osu.ppy.sh/users/5367287)  
-136 BPM, 4:09 | [7K] 10.78★
+136 BPM, 4:09 | \[7K\] 10.78★
 
 Starting off with with K-pop and into something Choir-y, Flexo123 comes back to Project Loved with another O2-style chart with a J-rock track. Inversions and dense 1/4 LN chordstreams with varying lengths are commonplace in this map and it's definitely not a cakewalk to go through these patterns clocking in at a seemingly tame BPM of 129. As the chart progresses, hints of what is yet to come are presented with increasingly rigid chordstreams and inclusion of 1/8 LN dumps. A fair amount of breaks are presented between main section to work as breathers but even those get progressively harder which ends things at a staggering section with tons of 1/8 LN inversions which at times goes to be double staircases mixed into longer LNs. A fair challenge for anyone wanting to test their LN reading and inverse streaming skills.
 

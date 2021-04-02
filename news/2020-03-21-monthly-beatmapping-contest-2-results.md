@@ -28,7 +28,7 @@ Garnering **37** votes, [UndeadCapulet](https://osu.ppy.sh/users/2523533)'s entr
 
 One of the screening crew members, [Uberzolik](https://osu.ppy.sh/users/1314547), noted that while most entries focused on creating low star rating yet engaging maps through slider velocity changes, this one took a different approach. Instead, this entry utilized its small circle size to draw out less conventional cursor movements while also employing unusual rhythms to create a stand-out experience. Give it a play if that's what you're into!
 
-As the contest's runner-up, UndeadCapulet earned a month of supporter and is halfway to the first reward tier's profile badge prize! See the rewards breakdown on the [MBC wiki article's rewards section](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest#rewards) for more info about how this works.
+As the contest's runner-up, UndeadCapulet earned a month of supporter and is halfway to the first reward tier's profile badge prize! See the rewards breakdown on the [MBC wiki article's rewards section](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) for more info about how this works.
 
 ---
 

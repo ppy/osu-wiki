@@ -64,7 +64,7 @@ Check out a brief sample of what's new below:
     <source src="https://assets.ppy.sh/artists/15/previews/1975.mp3" type="audio/mpeg">
 </audio>
 
---------
+---
 
 As always, all the tracks above are [available now over at **Fractal Dreamers** Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/15#album-207), pre-timed and ready for you to set your own story to them.
 

@@ -8,7 +8,7 @@ osu! へようこそ。 peppyによって開発された、フリートゥーウ
 - [アカウントを作成](/wiki/Registration)
 - [ルール](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
-- [ゲームモード](/wiki/Game_Modes)
+- [ゲームモード](/wiki/Game_mode)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
@@ -44,4 +44,4 @@ osu! へようこそ。 peppyによって開発された、フリートゥーウ
 
 2016年8月26日に、osu! wiki はGitHubリポジトリ上へ移動されました。この変化によって、ワークフローは大きく変わってきました。すべての貢献は [osu-wiki GitHub リポジトリ](https://github.com/ppy/osu-wiki) を通して行われ、それらはosu! wikiへ反映される前に審査されます。
 
-初めるには、[osu! wiki 貢献ガイド](/wiki/owcg) をご覧ください。
+初めるには、[osu! wiki 貢献ガイド](/wiki/osu!_wiki_Contribution_Guide) をご覧ください。

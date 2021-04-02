@@ -20,7 +20,7 @@ Un fichier ayant une extension **.osz** contient/peut contenir ces différents t
 
 Il y a plusieurs moyens d'ouvrir un fichier .osz
 
-- L'ouvrir avec osu! Il en est l'application principale. Un fichier .osz est toujours redirigé vers osu! Lors du double clic sur le fichier ou du glissé-déposé dans osu! le fichier va s'extraire. Pour pouvoir retrouver les fichiers contenus dans cette archive, ceux-ci se trouvent dans un sous-dossier du dossier "Songs" sous le nom de "<ID> <Artiste> - <Titre >".
+- L'ouvrir avec osu! Il en est l'application principale. Un fichier .osz est toujours redirigé vers osu! Lors du double clic sur le fichier ou du glissé-déposé dans osu! le fichier va s'extraire. Pour pouvoir retrouver les fichiers contenus dans cette archive, ceux-ci se trouvent dans un sous-dossier du dossier "Songs" sous le nom de "\<ID\> \<Artiste\> - \<Titre\>".
 - L'ouvrir avec des programmes lisant les fichiers .zip. Un fichier .osz est un fichier compressé, il est donc logique que l'on puisse y accéder avec des logiciels lisant les fichiers compressés, cela peut être très pratique pour ne pas perdre son temps à trouver la beatmap dans le dossiers Songs pour pouvoir en extraire une partie, comme des [Hitsounds](/wiki/Glossary).
 
 [Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)

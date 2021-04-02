@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
+---
+
 # Signaler un mauvais comportement
 
 ## Quel est le système de rapport ?
@@ -20,15 +25,15 @@ Si l'utilisateur a un espace dans son nom d'utilisateur, il doit être remplacé
 
 Les reports ne sont pas sensibles à la casse. Vous pouvez donc utiliser des lettres minuscules comme ``this_user_name``.
 
-![Exemple d'utilisation de la commande !report](img/Report-command.png "Exemple d'utilisation de la commande !report")
+![Exemple d'utilisation de la commande !report](img/report-command.jpg "Exemple d'utilisation de la commande !report")
 
 ### Utiliser le bouton de report dans le jeu
 
 Signaler l’utilisateur de cette manière n’a besoin que d’un type de motif et du texte personnalisé, contrairement à la commande `!report`.
 
-![Cliquez sur le bouton report](img/Report-user-1.png "Cliquez sur le bouton report")
+![Cliquez sur le bouton report](img/report-user-1.png "Cliquez sur le bouton report")
 
-![N'oubliez pas d'ajouter une raison ici !](img/Report-user-2.png "N'oubliez pas d'ajouter une raison ici !")
+![N'oubliez pas d'ajouter une raison ici !](img/report-user-2.png "N'oubliez pas d'ajouter une raison ici !")
 
 ### Utilisation du bouton de report dans le profil d'un utilisateur
 
@@ -36,37 +41,37 @@ Cela fonctionne également de la même manière que le bouton de report dans le 
 
 N'oubliez pas d'ajouter des détails à votre rapport lors des commentaires.
 
-![Cela ouvrira une boîte de dialogue pour signaler l'utilisateur.](img/Report-user-profile.png "Cela ouvrira une boîte de dialogue pour signaler l'utilisateur.")
+![Cela ouvrira une boîte de dialogue pour signaler l'utilisateur.](img/report-user-profile.png "Cela ouvrira une boîte de dialogue pour signaler l'utilisateur.")
 
 ### Utilisation du lien de report dans l'enregistrement d'un utilisateur dans la liste de beatmap
 
 Ceci ne devrait être utilisé que pour signaler des utilisateurs qui cheat.
 
-![Appuyez sur ce lien pour signaler ce score.](img/Report-user-beatmap.png "Appuyez sur ce lien pour signaler ce score.")
+![Appuyez sur ce lien pour signaler ce score.](img/report-score-beatmap.png "Appuyez sur ce lien pour signaler ce score.")
 
 ## Exemples à signaler
 
-### Spamming ou flood dans le chat.
+### Spamming ou flood dans le chat
 
 L'utilisation d'un clavier cassé n'est pas une excuse !
 
-### Utilisation excessive de lettres majuscules.
+### Utilisation excessive de lettres majuscules
 
 Cela a été considéré comme criant et agaçant.
 
-### Affichage de contenus inappropriés tels que du matériel pornographique (douteux/suggestifs sont considérables).
+### Affichage de contenus inappropriés tels que du matériel pornographique (douteux/suggestifs sont considérables)
 
 Les modérateurs mettent directement en silence, supprimant le contenu sans avertissement.
 
-### Publication de contenus indésirables tels que des publicités, des hurlements et des renvois.
+### Publication de contenus indésirables tels que des publicités, des hurlements et des renvois
 
 Prenez note que les liens de diffusion de spam sont appliqués à cette règle.
 
-### Comportement offensif envers les autres joueurs.
+### Comportement offensif envers les autres joueurs
 
 Dire aux gens de se tuer n'est pas une bonne chose à dire.
 
-### et beaucoup plus...
+et beaucoup plus...
 
 ## Questions fréquemment posées
 
@@ -97,4 +102,4 @@ Un utilisateur peut utiliser le système ignore pour éviter que des messages pr
 
 ### Puis-je signaler un modérateur ?
 
- Vous pouvez, mais il est recommandé de contacter osu!support soutien(support@ppy.sh) pour les plaintes du staff.
+ Vous pouvez, mais il est recommandé de contacter osu!support soutien ([support@ppy.sh](mailto:support@ppy.sh)) pour les plaintes du staff.

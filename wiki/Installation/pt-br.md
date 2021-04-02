@@ -34,7 +34,7 @@ Se você está usando o Windows 7 64-bit, você pode ter dificuldades em instala
 
 ## Adicionando beatmapsets
 
-*Veja também: [Beatmaps](/wiki/Beatmaps)*
+*Veja também: [Beatmaps](/wiki/Beatmap)*
 
 Existe duas formas de adicionar beatmaps, via website ou osu!direct (requer [osu!supporter](/wiki/osu!supporter)).
 

@@ -138,7 +138,7 @@ TB:
 - [IAHN - Transform (Original Mix) \[Aspire\]](https://osu.ppy.sh/beatmaps/1046276)
 - [Seiryu - Critical Crystal \[Zan's Blue Another\]](https://osu.ppy.sh/beatmaps/829747)
 - [SYUNN - Megalara Garuda \[EXTREME\]](https://osu.ppy.sh/beatmaps/1134548)
-- [Tatsh - reunion <Platinum Long Version> \[victorica'4K MX\]](https://osu.ppy.sh/beatmaps/315361)
+- [Tatsh - reunion \<Platinum Long Version\> \[victorica'4K MX\]](https://osu.ppy.sh/beatmaps/315361)
 - [nao - Symmetric generation \[NEPGEAR\]](https://osu.ppy.sh/beatmaps/902070)
 - [P\*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/beatmaps/1135210)
 
@@ -205,15 +205,15 @@ TB:
 
 | Date | Team A |  | Score |  | Team B | Notes |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 5. Augest | [Crz]ScSolAr | ![][CN] | 0 : 7 | ![][TW] | - Choma - | WBD |
-| 6. Augest | - Choma - | ![][TW] | 7 : 0 | ![][CN] | [Crz]MemoryI | WBD |
+| 5. Augest | \[Crz\]ScSolAr | ![][CN] | 0 : 7 | ![][TW] | - Choma - | WBD |
+| 6. Augest | - Choma - | ![][TW] | 7 : 0 | ![][CN] | \[Crz\]MemoryI | WBD |
 
 ### Finals - week 1
 
 | Date | Team A |  | Score |  | Team B | Notes |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 29. July | [Crz]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [record](https://osu.ppy.sh/community/matches/34872032) |
-|  | [Crz]MemoryI | ![][CN] | 6 : 0 | ![][CN] | [Crz]ScSolAr | WBD |
+| 29. July | \[Crz\]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [record](https://osu.ppy.sh/community/matches/34872032) |
+|  | \[Crz\]MemoryI | ![][CN] | 6 : 0 | ![][CN] | \[Crz\]ScSolAr | WBD |
 |  | pikechu | ![][CN] | 2 : 6 | ![][MY] | Neokje | [record](https://osu.ppy.sh/community/matches/34873568) |
 | 30. July | - Choma - | ![][TW] | 6 : 5 | ![][MY] | Neokje | [record](https://osu.ppy.sh/community/matches/34893510) |
 
@@ -221,94 +221,94 @@ TB:
 
 | Date | Team A |  | Score |  | Team B | Notes |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 22. July | NED_Q | ![][CN] | 6 : 0 | ![][AU] | [Crz]Yukikaze | WBD |
+| 22. July | NED_Q | ![][CN] | 6 : 0 | ![][AU] | \[Crz\]Yukikaze | WBD |
 |  | drunkenstein | ![][HK] | 0 : 6 | ![][CN] | pikechu | WBD |
 |  | - Choma - | ![][TW] | 6 : 0 | ![][CN] | - ZedXD - | [record](https://osu.ppy.sh/community/matches/34703556) |
-|  | [Crz]Liusecy | ![][CN] | 2 : 6 | ![][CN] | Stink God | [record](https://osu.ppy.sh/community/matches/34706159) |
-|  | [Crz]Riri | ![][CN] | 2 : 6 | ![][CN] | [Crz]MemoryI | [record](https://osu.ppy.sh/community/matches/34771665) |
+|  | \[Crz\]Liusecy | ![][CN] | 2 : 6 | ![][CN] | Stink God | [record](https://osu.ppy.sh/community/matches/34706159) |
+|  | \[Crz\]Riri | ![][CN] | 2 : 6 | ![][CN] | \[Crz\]MemoryI | [record](https://osu.ppy.sh/community/matches/34771665) |
 | 23. July | - Choma - | ![][CA] | 6 : 0 | ![][CN] | Stink God | WBD |
-|  | Neokje | ![][MY] | 2 : 6 | ![][CN] | [Crz]ScSolAr | [record](https://osu.ppy.sh/community/matches/34731835) |
+|  | Neokje | ![][MY] | 2 : 6 | ![][CN] | \[Crz\]ScSolAr | [record](https://osu.ppy.sh/community/matches/34731835) |
 |  | NED_Q | ![][CN] | 0 : 6 | ![][CN] | pikechu | WBD |
 
 ### Quarterfinals
 
 | Date | Team A |  | Score |  | Team B | Notes |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 15. July | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | [Crz]Riri | [record](https://osu.ppy.sh/community/matches/34542511) |
+| 15. July | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | \[Crz\]Riri | [record](https://osu.ppy.sh/community/matches/34542511) |
 |  | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [record](https://osu.ppy.sh/community/matches/34543141) |
 |  | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | WBD |
-|  | NED_Q | ![][CN] | 3 : 5 | ![][CN] | [Crz]MemoryI | [record](https://osu.ppy.sh/community/matches/34547424) |
-| 16. July | Murasame | ![][CA] | 0 : 5 | ![][AU] | [Crz]Yukikaze- | WBD |
-|  | pikechu | ![][CN] | 5 : 1 | ![][CN] | [Crz]Mix0130 | [record](https://osu.ppy.sh/community/matches/34566588) |
-|  | [Crz]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [record](https://osu.ppy.sh/community/matches/34570396) |
-|  | - Choma - | ![][TW] | 2 : 5 | ![][CN] | [Crz]ScSolAr | [record](https://osu.ppy.sh/community/matches/34571413) |
+|  | NED_Q | ![][CN] | 3 : 5 | ![][CN] | \[Crz\]MemoryI | [record](https://osu.ppy.sh/community/matches/34547424) |
+| 16. July | Murasame | ![][CA] | 0 : 5 | ![][AU] | \[Crz\]Yukikaze- | WBD |
+|  | pikechu | ![][CN] | 5 : 1 | ![][CN] | \[Crz\]Mix0130 | [record](https://osu.ppy.sh/community/matches/34566588) |
+|  | \[Crz\]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [record](https://osu.ppy.sh/community/matches/34570396) |
+|  | - Choma - | ![][TW] | 2 : 5 | ![][CN] | \[Crz\]ScSolAr | [record](https://osu.ppy.sh/community/matches/34571413) |
 
 ### Round of 16
 
 | Date | Team A |  | Score |  | Team B | Notes |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 8. July | drunkenstein | ![][HK] | 5 : 1 | ![][CN] | - ZedXD - | [record](https://osu.ppy.sh/community/matches/34380098) |
-|  | [Crz]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [record](https://osu.ppy.sh/community/matches/34380710) |
+|  | \[Crz\]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [record](https://osu.ppy.sh/community/matches/34380710) |
 |  | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [record](https://osu.ppy.sh/community/matches/34384012) |
-|  | Stink God | ![][CN] | 1 : 5 | ![][CN] | [Crz]MemoryI | [record](https://osu.ppy.sh/community/matches/34385381) |
-| 9. July | [Crz]Liusecy | ![][CN] | 5 : 0 | ![][CA] | Murasame | WBD |
-|  | Neokje | ![][MY] | 5 : 0 | ![][AU] | [Crz]Yukikaze- | WBD |
+|  | Stink God | ![][CN] | 1 : 5 | ![][CN] | \[Crz\]MemoryI | [record](https://osu.ppy.sh/community/matches/34385381) |
+| 9. July | \[Crz\]Liusecy | ![][CN] | 5 : 0 | ![][CA] | Murasame | WBD |
+|  | Neokje | ![][MY] | 5 : 0 | ![][AU] | \[Crz\]Yukikaze- | WBD |
 |  | - Choma - | ![][TW] | 5 : 0 | ![][CN] | pikechu | [record](https://osu.ppy.sh/community/matches/34404265) |
-|  | [Crz]ScSolAr | ![][CN] | 5 : 0 | ![][CN] | [Crz]Mix0130 | [record](https://osu.ppy.sh/community/matches/34407900) |
+|  | \[Crz\]ScSolAr | ![][CN] | 5 : 0 | ![][CN] | \[Crz\]Mix0130 | [record](https://osu.ppy.sh/community/matches/34407900) |
 
 ### Group Stage
 
 | Team A |  | Score |  | Team B |  | Team A |  | Score |  | Team B |
 | --: | --: | :-: | :-- | :-- | :-: | --: | --: | :-: | :-- | :-- |
 | ***Group A*** |  |  |  |  |  |  |  |  |
-| Pridra Yinda | ![][CN] | 0 : 4 | ![][MY] | [Xiiao]Ray |  | drunkenstein | ![][HK] | 4 : 0 | ![][CN] | Pridra Yinda |
-| Murasame | ![][CA] | 4 : 0 | ![][CN] | Pridra Yinda |  | Murasame | ![][CA] | 0 : 4 | ![][MY] | [Xiiao]Ray |
-| drunkenstein | ![][HK] | 4 : 0 | ![][CA] | Murasame |  | drunkenstein | ![][HK] | 4 : 0 | ![][MY] | [Xiiao]Ray |
+| Pridra Yinda | ![][CN] | 0 : 4 | ![][MY] | \[Xiiao\]Ray |  | drunkenstein | ![][HK] | 4 : 0 | ![][CN] | Pridra Yinda |
+| Murasame | ![][CA] | 4 : 0 | ![][CN] | Pridra Yinda |  | Murasame | ![][CA] | 0 : 4 | ![][MY] | \[Xiiao\]Ray |
+| drunkenstein | ![][HK] | 4 : 0 | ![][CA] | Murasame |  | drunkenstein | ![][HK] | 4 : 0 | ![][MY] | \[Xiiao\]Ray |
 | ***Group B*** |  |  |  |  |  |  |  |  |
-| [Crz]Liusecy | ![][CN] | 2 : 4 | ![][CN] | - ZedXD - |  | fgdg858 | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |
-| - ZedXD - | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |  | [Crz]Liusecy | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |
-| - ZedXD - | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |  | [Crz]Liusecy | ![][CN] | 0 : 4 | ![][MY] | Chizuru Shinkai |
+| \[Crz\]Liusecy | ![][CN] | 2 : 4 | ![][CN] | - ZedXD - |  | fgdg858 | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |
+| - ZedXD - | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |  | \[Crz\]Liusecy | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |
+| - ZedXD - | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |  | \[Crz\]Liusecy | ![][CN] | 0 : 4 | ![][MY] | Chizuru Shinkai |
 | ***Group C*** |  |  |  |  |  |  |  |  |
 | BDXiaoQian | ![][SG] | 0 : 4 | ![][CN] | Stink God |  | zero2snow | ![][HK] | 0 : 0 | ![][CN] | Stink God |
 | zero2snow | ![][HK] | 0 : 4 | ![][CN] | wjh123 |  | zero2snow | ![][HK] | 0 : 4 | ![][SG] | BDXiaoQian |
 | BDXiaoQian | ![][SG] | 2 : 4 | ![][CN] | wjh123 |  | wjh123 | ![][CN] | 3 : 4 | ![][CN] | Stink God |
 | ***Group D*** |  |  |  |  |  |  |  |  |
 | NED_Q | ![][CN] | 4 : 0 | ![][HK] | Opean |  | hly200 | ![][CN] | 4 : 0 | ![][HK] | Opean |
-| NED_Q | ![][CN] | 0 : 4 | ![][CN] | [Crz]MemoryI |  | [Crz]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
-| hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q |  | [Crz]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
+| NED_Q | ![][CN] | 0 : 4 | ![][CN] | \[Crz\]MemoryI |  | \[Crz\]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
+| hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q |  | \[Crz\]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
 | ***Group E*** |  |  |  |  |  |  |  |  |
 | Neokje | ![][MY] | 4 : 0 | ![][CN] | - Xiaoluoli - |  | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
 | Neokje | ![][MY] | 4 : 0 | ![][CN] | spensll |  | qiluo | ![][CN] | 4 : 1 | ![][CN] | - Xiaoluoli - |
 | Neokje | ![][MY] | 4 : 1 | ![][CN] | qiluo |  | spensll | ![][CN] | 4 : 0 | ![][CN] | - Xiaoluoli - |
 | ***Group F*** |  |  |  |  |  |  |  |  |
-| [Crz]Riri | ![][CN] | 4 : 1 | ![][AU] | [Crz]Yukikaze- |  | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
-| WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- |  | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | WF Night |
-| [Crz]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 |  | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
+| \[Crz\]Riri | ![][CN] | 4 : 1 | ![][AU] | \[Crz\]Yukikaze- |  | \[Crz\]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
+| WF Night | ![][CN] | 0 : 4 | ![][AU] | \[Crz\]Yukikaze- |  | \[Crz\]Riri | ![][CN] | 4 : 0 | ![][CN] | WF Night |
+| \[Crz\]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 |  | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
 | ***Group G*** |  |  |  |  |  |  |  |  |
-| AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - |  | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | [Crz]Mix0130 |
-| [Crz]Mix0130 | ![][CN] | 4 : 0 | ![][CN] | AnLs |  | - Choma - | ![][TW] | 4 : 0 | ![][HK] | AnLs |
-| [Crz]Mix0130 | ![][CN] | 0 : 4 | ![][TW] | - Choma - |  | AnLs | ![][HK] | 4 : 0 | ![][CN] | Luv Letter |
+| AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - |  | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | \[Crz\]Mix0130 |
+| \[Crz\]Mix0130 | ![][CN] | 4 : 0 | ![][CN] | AnLs |  | - Choma - | ![][TW] | 4 : 0 | ![][HK] | AnLs |
+| \[Crz\]Mix0130 | ![][CN] | 0 : 4 | ![][TW] | - Choma - |  | AnLs | ![][HK] | 4 : 0 | ![][CN] | Luv Letter |
 | ***Group H*** |  |  |  |  |  |  |  |  |
-| Banshasan | ![][CN] | 0 : 4 | ![][CN] | [Crz]ScSolAr |  | [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | pikechu |
-| [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | Banshasan |  | [Crz]ScSolAr | ![][CN] | 4 : 1 | ![][CN] | pikechu |
-| [Crz]ScSolAr | ![][CN] | 0 : 0 | ![][CN] | [M1nzzZ] |  | pikechu | ![][CN] | 4 : 1 | ![][CN] | Banshasan |
+| Banshasan | ![][CN] | 0 : 4 | ![][CN] | \[Crz\]ScSolAr |  | \[M1nzzZ\] | ![][CN] | 0 : 4 | ![][CN] | pikechu |
+| \[M1nzzZ\] | ![][CN] | 0 : 4 | ![][CN] | Banshasan |  | \[Crz\]ScSolAr | ![][CN] | 4 : 1 | ![][CN] | pikechu |
+| \[Crz\]ScSolAr | ![][CN] | 0 : 0 | ![][CN] | \[M1nzzZ\] |  | pikechu | ![][CN] | 4 : 1 | ![][CN] | Banshasan |
 
 ### Qualification Stage
 
 |  | ID | Score |  | ID | Score |  | ID | Score |
 | --: | :-- | :-: | --: | :-- | :-: | --: | :-- | :-: |
 | ![][HK] | zero2snow | 3,952,107 | ![][HK] | drunkenstein | 3,849,131 | ![][CN] | spensll | 3,724,897 |
-| ![][MY] | [Xiiao]Ray | 3,932,611 | ![][CN] | Stink God | 3,843,568 | ![][HK] | Opean | 3,722,732 |
-| ![][CN] | [Crz] Luna | 3,924,151 | ![][CN] | hly200 | 3,812,688 | ![][CN] | wjh123 | 3,714,831 |
-| ![][CN] | [Crz]MemoryI | 3,921,461 | ![][CN] | qiluo | 3,799,348 | ![][CN] | Pridra Yinda | 3,708,903 |
-| ![][CN] | [Crz]Riri | 3,917,019 | ![][CN] | - ZedXD - | 3,774,138 | ![][CN] | AnLs | 3,696,360 |
+| ![][MY] | \[Xiiao\]Ray | 3,932,611 | ![][CN] | Stink God | 3,843,568 | ![][HK] | Opean | 3,722,732 |
+| ![][CN] | \[Crz\] Luna | 3,924,151 | ![][CN] | hly200 | 3,812,688 | ![][CN] | wjh123 | 3,714,831 |
+| ![][CN] | \[Crz\]MemoryI | 3,921,461 | ![][CN] | qiluo | 3,799,348 | ![][CN] | Pridra Yinda | 3,708,903 |
+| ![][CN] | \[Crz\]Riri | 3,917,019 | ![][CN] | - ZedXD - | 3,774,138 | ![][CN] | AnLs | 3,696,360 |
 | ![][MY] | Neokje | 3,889,365 | ![][CN] | WF Night | 3,769,391 | ![][CN] | prelude8792916 | 3,665,105 |
-| ![][MY] | fgdg858 | 3,884,687 | ![][CN] | [Crz]Liusecy | 3,762,477 | ![][CN] | gzdongsheng | 3,659,840 |
-| ![][CN] | [Crz]ScSolAr | 3,884,594 | ![][SG] | BDXiaoQian | 3,741,087 | ![][CN] | NED_Q | 3,638,679 |
-| ![][CN] | [Crz]Mix0130 | 3,881,972 | ![][CN] | [M1nzzZ] | 3,739,376 | ![][CN] | - Xiaoluoli - | 3,600,070 |
+| ![][MY] | fgdg858 | 3,884,687 | ![][CN] | \[Crz\]Liusecy | 3,762,477 | ![][CN] | gzdongsheng | 3,659,840 |
+| ![][CN] | \[Crz\]ScSolAr | 3,884,594 | ![][SG] | BDXiaoQian | 3,741,087 | ![][CN] | NED_Q | 3,638,679 |
+| ![][CN] | \[Crz\]Mix0130 | 3,881,972 | ![][CN] | \[M1nzzZ\] | 3,739,376 | ![][CN] | - Xiaoluoli - | 3,600,070 |
 | ![][CN] | pikechu | 3,879,190 | ![][CN] | Luv Letter | 3,737,152 | ![][CN] | Banshasan | 3,385,012 |
 | ![][TW] | - Choma - | 3,870,458 | ![][CA] | Murasame | 3,735,205 | ![][CN] | Chizuru Shinkai | 1,686,985 |
-| ![][AU] | [Crz]Yukikaze- | 3,853,597 |  |  |  |  |  |  |
+| ![][AU] | \[Crz\]Yukikaze- | 3,853,597 |  |  |  |  |  |  |
 
 ### Test match
 
@@ -327,7 +327,7 @@ TB:
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
-6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
 9. If a player disconnects (In the case of the player is not able to finish the map):
@@ -359,16 +359,22 @@ TB:
 ### Stage Instructions
 
 1. In the Qualification stage, all players will be divided into groups of 8. The mappool for qualification round has **4** maps and all players will have two chances at each qualifier where the highest of the two runs will be cumulated for players' final score. The highest **32** (may vary with the number of registered players) players will qualify next stage.
+
 2. In the Group stage, qualified players will be divided into groups of 4.
+
 3. All the players from each group will face each other.
+
 4. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    - Most maps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
+
 5. The top **2** players (may vary with the number of registered players) of each group will move on to the Knock-Out Stages.
+
 6. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
+
 7. The stages are split up into the following:
 
    | Stage | Match ID |

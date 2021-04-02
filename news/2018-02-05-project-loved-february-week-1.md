@@ -178,7 +178,7 @@ Once again, [PiraTom](https://osu.ppy.sh/users/1847698) and [inteliser](https://
 
 This is a quick, dense and varied semi-finals pick in 2016 meaning that this chart certainly doesn't mess about, and getting that full combo may be easier said than done. That said, good luck!
 
------
+---
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame?lang=en).
 

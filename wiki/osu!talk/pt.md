@@ -15,7 +15,7 @@ outdated: true
 
 ## Episódios
 
-| EP\# | Entrevistas | Profession | [Link] |
+| EP\# | Entrevistas | Profession | Link |
 | :-- | :-- | :-- | :-- |
 | #1 | [Charles445](https://osu.ppy.sh/users/85000) | GMT/BN | [Link](https://www.youtube.com/watch?v=e8lhBtcPbjw) |
 | #2 | [MMzz](https://osu.ppy.sh/users/128993) | QAT | [Link](https://www.youtube.com/watch?v=fBBQ4bwNZcY) |
@@ -63,7 +63,7 @@ outdated: true
 
 ## Discussões
 
-| EP\# | Tópicos | Entrevistas | [Link] |
+| EP\# | Tópicos | Entrevistas | Link |
 | :-- | :-- | :-- | :-- |
 | #1 | Reformas na Staff | [Charles445](https://osu.ppy.sh/users/85000), [Ephemeral](https://osu.ppy.sh/users/102335), [deadbeat](https://osu.ppy.sh/users/128370), and [OnosakiHito](https://osu.ppy.sh/users/290128) | [Link](https://www.youtube.com/watch?v=c10Jiq1xZus) |
 | #2 | Overmapping | [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Loctav](https://osu.ppy.sh/users/71366), [MMzz](https://osu.ppy.sh/users/128993), and [OnosakiHito](https://osu.ppy.sh/users/290128) | [Link](https://www.youtube.com/watch?v=RepSYE3hN3A) |
@@ -83,7 +83,7 @@ outdated: true
 
 ### Taiko World Cup 2015
 
-| Type | Entrevistas | [Lien] |
+| Type | Entrevistas | Lien |
 | :-- | :-- | :-- |
 | Estagio de Grupos | deadbeat, Tasha, tiamus e ztrot | [Lien](https://www.youtube.com/watch?v=-T9xDo7Y8Fo) |
 | Round de 16 | deadbeat, FLANKs, Tasha e ztrot | [Lien](https://www.youtube.com/watch?v=Y8IHcukw9Dw) |
@@ -93,7 +93,7 @@ outdated: true
 
 ### Catch the Beat World Cup 2015
 
-| Type | Entrevistas | [Lien] |
+| Type | Entrevistas | Lien |
 | :-- | :-- | :-- |
 | Round de 16 | Pulado | N/A |
 | Quartas de Finais | deadbeat, Tasha e ztrot | [Lien](https://www.youtube.com/watch?v=lagFdqHqVHA) |
@@ -102,7 +102,7 @@ outdated: true
 
 ## Especiais
 
-| EP\# | Events | Entrevistas | [Link] |
+| EP\# | Events | Entrevistas | Link |
 | :-- | :-- | :-- | :-- |
 | #1 | Me pergunte qualquer coisa | [deadbeat](https://osu.ppy.sh/users/128370) and [ztrot](https://osu.ppy.sh/users/6347) | [Link](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
 | #2 | Me pergunte qualquer coisa 2015 | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [p3n](https://osu.ppy.sh/users/123703), and [ztrot](https://osu.ppy.sh/users/6347) | [Link](https://www.youtube.com/watch?v=a9An8cD18Co) |

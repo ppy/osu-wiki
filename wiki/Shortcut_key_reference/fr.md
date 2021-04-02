@@ -66,7 +66,7 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 
 - `Alt` + `Arrow Up`: Monte le volume
 - `Alt` + `Arrow Down`: Baisse le volume
-- `F1`: Ouvre le menu de sélection des [Mod](/wiki/Game_Modifiers)
+- `F1`: Ouvre le menu de sélection des [Mod](/wiki/Game_modifier)
 - `F2`: Sélectionne aléatoirement une map
 - `Shift` + `F2`: Supprime la sélection aléatoire de map
 - `F3`: Options de Beatmap
@@ -97,13 +97,12 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 
 ### Game Modifiers
 
-*Page principale : [Game Modifiers](/wiki/Game_Modifiers)*
+*Page principale : [Game Modifiers](/wiki/Game_modifier)*
 
 **Notes:**
 
 - Les raccourcis claviers ci-dessous présume qu'aucun mod n'est sélectionné.
 - Certains mods exige que le joueur presse le raccourci deux fois.
-
 - `Q`: [Easy](/wiki/Easy_mod)
 - `W`: [No Fail](/wiki/No_Fail)
 - `E`: [Half Time](/wiki/Half_Time)

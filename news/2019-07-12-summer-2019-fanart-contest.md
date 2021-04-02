@@ -30,7 +30,7 @@ Make sure you read the rules carefully before entering. We've had a lot of other
 - **SUBMIT ONLY YOUR OWN WORK! NO TRACING! NO REDRAWING! NO COMPOSITE WORKS!** Brushes and other helpful assets are fine, but redrawing manga stills or tracing or any other really ugly and spurious artistic thing that everybody generally hates and involves flogging other people's work off as your own is flat out not allowed, and if we find out you're doing it... well, you don't want to find out what'll happen.
 - **Don't use copyrighted characters from other intellectual properties.** You can freely use any of the osu! mascots (pippi, Yuzu, Mocha, Maria) and any of the community mascots (Tama, Aiko, Taikonator, so on), but stay away from using direct representations of characters from other worlds or franchises in your work. Remember that the community mascots are also someone else's creation, so make sure to treat their work with the same respect that you'd treat yours.
 
-Oh, and just in case you've forgotten, you can also consult [this handy link](https://osu.ppy.sh/help/wiki/Mascots/) for a quick overview of all the osu! official mascots and their current designs, plus many of the more popular community mascots.
+Oh, and just in case you've forgotten, you can also consult [this handy link](/wiki/Mascots/) for a quick overview of all the osu! official mascots and their current designs, plus many of the more popular community mascots.
 
 So what are you waiting for? [Take the plunge and head over to the Summer 2019 Fanart Contest listing and enter now!](https://osu.ppy.sh/community/contests/79)
 

@@ -8,7 +8,7 @@ osu!에 오신 것을 환영합니다! osu!는 peppy가 개발한 무료 리듬�
 - [회원가입](/wiki/Registration)
 - [규칙](/wiki/Rules)
 - [자주 묻는 질문 (FAQ)](/wiki/FAQ)
-- [게임 모드](/wiki/Game_Modes)
+- [게임 모드](/wiki/Game_mode)
   - ![osu!standard 아이콘](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko 아이콘](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch 아이콘](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
@@ -44,4 +44,4 @@ osu!에 오신 것을 환영합니다! osu!는 peppy가 개발한 무료 리듬�
 
 2016년 8월 26일 이후로, osu! wiki는 GitHub 저장소로 옮겨졌습니다. 이렇게 바뀐 이후, 작업 방식이 크게 바뀌었습니다. 모든 기여는 [osu-wiki GitHub 저장소](https://github.com/ppy/osu-wiki)를 통해 이루어지며, 검토 후 승인을 받고 osu!wiki에 병합됩니다.
 
-시작하려면, [osu! wiki 기여 가이드](/wiki/owcg)를 읽어주세요.
+시작하려면, [osu! wiki 기여 가이드](/wiki/osu!_wiki_Contribution_Guide)를 읽어주세요.

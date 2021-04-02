@@ -105,7 +105,7 @@ Starting the map, the player is introduced to some light jacks with half a measu
 
 Players will be taken by surprise at the height of the song with a long note section full of quickly timed 1/4ths which will require precise holding and releasing to get through with a high accuracy. While not terribly difficult, this will definitely challenge and force your average player out of their comfort zone and serves as an excellent introduction to harder types of patterning not commonly found in the ranked section.
 
---------
+---
 
 And that is the end of this month's Spotlight listing. We hope that you click, drum, catch, and mash your heart out on these maps and earn a shiny medal for your profile page! Look forward to next month's installment!
 

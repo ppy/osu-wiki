@@ -11,11 +11,11 @@ The song choice for this month is cYsmix ft. emii - Tear Rain. This is a relativ
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/103959650&color=ff6600&auto_play=false&show_artwork=true"></iframe>
 
-## Judges:
+## Judges
 
 [Nyquill](https://osu.ppy.sh/users/682935), [Charles445](https://osu.ppy.sh/users/85000), [LunarSakuya](https://osu.ppy.sh/users/1027860), [kanpakyin](https://osu.ppy.sh/users/394326), [Scorpiour](https://osu.ppy.sh/users/867259), [dkun](https://osu.ppy.sh/users/dkun), [Gabe](https://osu.ppy.sh/users/654108).
 
-## Prizes:
+## Prizes
 
 - 6 months of supporter for you or a friend
 - An [osu!tablet](/wiki/shared/news/2013-10-28-monthly-beatmapping-contest-2-submissions-open/_A080002.jpg) (when available).
@@ -24,7 +24,7 @@ The song choice for this month is cYsmix ft. emii - Tear Rain. This is a relativ
 
 Download the base beatmap and enter [here!](https://osu.ppy.sh/p/contest?c=8)
 
-## Rules:
+## Rules
 
 - You must map 3 difficulties in an appropriate spread - either ENH (easy, normal and hard) or NHI (normal, hard, insane).
 - Collaboration is allowed, but will only be registered under the name of the person whom submitted the beatmap.

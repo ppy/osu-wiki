@@ -8,7 +8,7 @@ Welcome to osu!, a free-to-win rhythm game developed by peppy with four game mod
 - [Registration](/wiki/Registration)
 - [Rules](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
-- [Game Modes](/wiki/Game_Modes)
+- [Game Modes](/wiki/Game_mode)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
@@ -44,4 +44,4 @@ Skinning allows anyone to change the way osu! looks and feels. This can be as sm
 
 Since 2016-08-26, the osu! wiki has moved to a GitHub repository. After this change, the workflow has drastically changed. All contributions now go through the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) and are reviewed before being approved and merged to the osu! wiki.
 
-To get started, see the [osu! wiki Contribution Guide](/wiki/owcg).
+To get started, see the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).

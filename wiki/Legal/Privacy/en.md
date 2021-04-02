@@ -4,7 +4,7 @@ legal: true
 
 # osu! privacy policy
 
-Last Updated 25th May 2018. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Last Updated 24th August 2020. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 In addition to this policy, please also make sure to visit and understand our [Terms of Service](https://osu.ppy.sh/legal/terms).
 
@@ -62,11 +62,23 @@ The main purpose of this is to maintain a fair ranking system and help us enforc
 
 When completing a game session (passing or failing a beatmap), details on your performance will be automatically submitted to our server. The scoring portion of this submission includes game replay data and may be displayed publicly in the Global Leaderboards and on your User Profile and can not be deleted or modified.
 
-### Analytics and Logging
+### Anti-cheat
 
-We utilise error log collection and web analytics which collect technical and usage information as you use our services. This may include IP address, your username, browser type and version, time zone setting and location, operating system and platform and other details on what devices you use to access our services.
+osu! contains executable code that is used to detect the usage of cheat software. The aim of osu!'s anti-cheat is to maintain a fair and competitive gaming environment for all players, while not affecting gameplay performance or user privacy.
 
-This collected data is aggregated and only retained as it is useful. Generally the period of retention for non-aggregated data (such as error logs) is less than one month, with automatic purge rules.
+- Cheat detection occurs on your device and no unnecessary data is sent to our server during the detection process.
+- If the anti-cheat determines you are cheating, then this fact in addition to proof in the form of diagnostics and metadata are sent to our servers for verification. If you are not cheating, no anti-cheat data will be transmitted.
+- Even on detection, a best effort attempt is made to never send any information outside of the osu! ecosystem which could be used to personally identify you.
+- Transmitted metadata is only retained on our server for the duration it is useful. This is generally hours to days while we analyse the reported content.
+- Analysis is largely automated. Transmitted metadata is not accessible by support team members, and must be accessed via multi-layered security. Only database server admins are able to view metadata. 
+
+We respect and value your privacy and do not wish to impose fear on legitimate users by having anti-cheat present in the game.
+
+### Logging
+
+We utilise error logging which collects technical and usage information as you use our services. This may include IP address, your username, browser type and version, time zone setting and location, operating system and platform and other details on what devices you use to access our services.
+
+This collected data is aggregated and only retained as it is useful. Generally the period of retention for non-aggregated data is less than one month, with automatic purge rules.
 
 ## Disclosures of your personal data
 

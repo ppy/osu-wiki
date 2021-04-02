@@ -16,7 +16,7 @@ There's a few things to keep in mind, however. This contest is about giving Yuzu
 
 ## Who is Yuzu?
 
-[![](https://osu.ppy.sh/help/wiki/Mascots/Yuzu_Profile.png)](https://osu.ppy.sh/wiki/Mascots/Gallery#yuzu)
+[![](/wiki/Mascots/Yuzu_Profile.png)](https://osu.ppy.sh/wiki/Mascots/Gallery#yuzu)
 
 Yuzu is the _osu!catch_ mascot. He's most commonly seen in the base game skin, holding up the catcher.
 
@@ -60,7 +60,7 @@ You could consider something like an assistant or a sidekick. 2B from _NieR: Aut
 
 Perhaps a floating plate, a cat holding a net, or some nifty gadget that helps explain _hyperdashing_ are all things you could consider.
 
---------
+---
 
 This is a little different from our previous osu! mascot design contest, where we asked for a full redesign instead of a refresh. To clarify, Yuzu's going to remain Yuzu, but he's going to look a lot better after this is all done.
 

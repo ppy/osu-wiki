@@ -23,7 +23,7 @@
 
 ## 비트맵 추가하기
 
-*참고 항목: [비트맵](/wiki/Beatmaps)*
+*참고 항목: [비트맵](/wiki/Beatmap)*
 
 비트맵을 추가하는 방법은 웹사이트를 통해 다운로드하거나, osu!direct ([osu!supporter](/wiki/osu!supporter) 필요)를 사용하는 방법이 있습니다.
 

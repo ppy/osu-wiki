@@ -50,7 +50,7 @@ Already a household name among osu! players craving a more gruesome set of faste
     <source src="https://assets.ppy.sh/artists/43/previews/1021.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 As with every other Featured Artist release, you can find the rest of **Inferi**'s music fully pre-timed and ready to download over at their [Featured Artist page](https://osu.ppy.sh/beatmaps/artists/43). You can sleep easy knowing all of these tracks are 100% free to use for your mapping pleasure, so snag a beatmap template and get going!
 

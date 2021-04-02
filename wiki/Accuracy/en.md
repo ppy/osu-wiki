@@ -4,7 +4,7 @@
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
-Accuracy is a measurement of a player's consistency. There are three types of accuracy that a player can have: the beatmap's accuracy, which is dependent on hit scores gained; the player's overall accuracy, which is weighed to allow better scores to stand out more; and the player's [Performance Points (pp)](/wiki/Performance_Points) accuracy, which is dependent on the submitted score's accuracy.
+Accuracy is a percentile measurement of a player's ability to hit [hit objects](/wiki/Hit_object) on-time. There are three types of accuracy that a player can have: the beatmap's accuracy, which is dependent on hit scores gained; the player's overall accuracy, which is weighed to allow better scores to stand out more; and the player's [Performance Points (pp)](/wiki/Performance_Points) accuracy, which is dependent on the submitted score's accuracy.
 
 ## Game modes
 
@@ -18,7 +18,7 @@ Reference for one hit circle:
 
 ```
 300 -> 300 / 300 = 1   = 100.00%
-100 -> 100 / 300 = 1/3 =  33.00%
+100 -> 100 / 300 = 1/3 =  33.33%
 50  ->  50 / 300 = 1/6 =  16.67%
 0   ->   0 / 300 = 0   =   0.00%
 ```
@@ -49,7 +49,7 @@ In osu!mania, accuracy is calculated similarly to [osu!standard](#-osu!standard)
 
 The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
 
-*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/results_screen), this information will not be saved.*
+*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Interface#ranking-screen), this information will not be saved.*
 
 ### Accuracy
 
@@ -67,7 +67,7 @@ Due to the way the [DT](/wiki/DT) (Double Time) and [HT](/wiki/HT) (Half Time) m
 
 ### Spin
 
-*Note: Spin is only used for [osu!standard](/wiki/Game_Modes/osu!).*
+*Note: Spin is only used for [osu!standard](/wiki/Game_mode/osu!).*
 
 In addition to the accuracy, some information regarding spinners is also seen in the same tooltip. <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
 

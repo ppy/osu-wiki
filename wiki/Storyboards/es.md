@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Storyboards
 
 ***Artículo original aquí***

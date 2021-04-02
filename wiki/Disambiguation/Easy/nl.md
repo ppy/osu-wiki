@@ -8,8 +8,7 @@ outdated_since: 8043b3a603ef5a8bb7ab9f982fceed3825cb249f
 
 **Easy** kan verwijzen naar:
 
-- De [spelmodifier](/wiki/Game_Modifiers#easy).
-- De versienaam van een beatmap.
+- De [spelmodifier](/wiki/Game_modifier/Easy).
 - De moeilijkheidgraad van een beatmap:
   - ![](/wiki/shared/diff/easy-s.png) Easy, voor osu!standard.
   - ![](/wiki/shared/diff/easy-t.png) Kantan, voor osu!taiko.

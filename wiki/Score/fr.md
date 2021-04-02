@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 ---
 
 # Score
@@ -71,7 +73,7 @@ Le ScoreV2 essaie de normaliser les systèmes de scoring des différents modes d
 Chaque objet fait à présent partie du score de 1 million et sont réajustées en conséquence, plutôt que d'utiliser leurs propres valeurs de score et formules bonus.
 
 Le ScoreV2 peut être testé en mode [Multijoueur](/wiki/Multi) en tant que Condition de Victoire dans les Options de Salon.
-Depuis le [22 février 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3), le système ScoreV2 peut être testé en mode *Solo* en utilisant le mod **NON-CLASSÉ** [ScoreV2](/wiki/Game_Modifiers).
+Depuis le [22 février 2017 (2017-02-22)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), le système ScoreV2 peut être testé en mode *Solo* en utilisant le mod **NON-CLASSÉ** [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 ### Score
 
@@ -133,7 +135,7 @@ Pour une difficulté de 4\* à 4.5\*, *n* est égal à 64, avec un score maximum
 Dans le cas extrême, *n* atteint une valeur de 96, où le score maximum par note vaut 1,260/2,520.
 Il existe bien entendu des valeurs de *n* moins élevées pour les difficultés moins élevées.
 
-Contrairement à [osu!standard](/wiki/Game_Modes/osu!)/[osu!catch](/wiki/Game_Modes/osu!catch), un Miss dans osu!taiko ne causera pas une différence *radicale* du score avec le score maximum atteignable. (dans osu!standard/osu!catch, la différence de score due à un Miss est d'autant plus large que le combo maximum, surtout si cela se produit aux alentours de la moitié du combo maximum).
+Contrairement à [osu!standard](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), un Miss dans osu!taiko ne causera pas une différence *radicale* du score avec le score maximum atteignable. (dans osu!standard/osu!catch, la différence de score due à un Miss est d'autant plus large que le combo maximum, surtout si cela se produit aux alentours de la moitié du combo maximum).
 Au lieu de cela, un score constant de *n* (décrit ci-dessus) est réduit par Miss dans une beatmap si chaque Miss est séparé par 100 de combo ou plus.
 Avec la présence de Shakers ou de grandes notes, la perte de score sera plus grande.
 
@@ -162,7 +164,7 @@ Exceptions :-
 
 #### osu!catch
 
-Le scoring pour osu!catch utilise le même multiplicateur qu'[osu!standard](/wiki/Game_Modes/osu!).
+Le scoring pour osu!catch utilise le même multiplicateur qu'[osu!standard](/wiki/Game_mode/osu!).
 Cependant, le fruit réceptionné s'ajoute différemment au score.
 
 - Un Fruit normal donne un score de 300, multiplié par le multiplicateur.

@@ -52,11 +52,11 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 - [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
 - [Challonge](https://challonge.com/zh_CN/cjb4)
 
---------------------------------------------------
+---
 
 ![CJB 4K 4th Podium](img/podium.jpg)
 
---------------------------------------------------
+---
 
 ## Mappools
 
@@ -262,7 +262,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
 5. Failed during a map will be treated as losing in this map, even though you have a higher score.
-6. Use of the [Visual Settings](/wiki/Game_Modifiers) are allowed.
+6. Use of the [Visual Settings](/wiki/Visual_Settings) are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
 9. If a player disconnects (In the case of the player is not able to finish the map):  

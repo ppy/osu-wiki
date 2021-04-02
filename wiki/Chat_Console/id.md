@@ -15,8 +15,8 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 | :-- | :-- |
 | Putih | Kamu |
 | Kuning Pucat | Orang Lain |
-| Kuning | [osu!supporter](/wiki/osu!supporter)
-| Merah | Anggota [Tim Moderasi Global](/wiki/People/The_Team/Global_Moderation_Team) atau [Tim Penjamin Kualitas](/wiki/Glossary#quality-assurance-team)
+| Kuning | [osu!supporter](/wiki/osu!supporter) |
+| Merah | Anggota [Tim Moderasi Global](/wiki/People/The_Team/Global_Moderation_Team) atau [Tim Penjamin Kualitas](/wiki/Glossary#quality-assurance-team) |
 | Hijau | Baris yang berisi nama pengguna anda atau berbagai kata kunci yang anda tambahkan ke daftar highlight. Salinan dari pesan itu juga akan muncul di channel yang terdedikasi untuk itu yaitu, `#highlight`. |
 | Biru | Pesan Pribadi |
 | Biru Terang | [peppy](https://osu.ppy.sh/users/2), pembuat osu! |
@@ -81,19 +81,19 @@ Tekan tombol angka atau menekan salah satu bar untuk:-
 | `/addfriend [pengguna]` | Menambahkan `[pengguna]` ke dalam daftar teman. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [pengguna]` | Menghapus `[pengguna]` dari daftar teman. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [pesan]` | Memasang sebuah pesan away (dikirim ke pengguna yang mengirimkanmu pesan pribadi ketika kamu sedang afk). Kosongkan `[pesan]` untuk membatalkan. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. Ketika Amigo /msg John Dimana kamu~? BanchoBot: I am John Smith. |
-| `/bb` | Mengirim sebuah pesan ke bancho untuk rank `[nomor]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/bb` | Mengirim sebuah pesan ke bancho untuk rank `[nomor]` | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [pengguna]` | Membuka sebuah tab obrolan baru dengan pengguna yang telah dispesifikasikan. | `/chat Amigo` | (Tab amigo akan terbuka) |
 | `/clear` | Menghapus obrolan yang telah dimuat. (Hanya terhapus pada layarmu saja) | `/clear` | (Menghapus segalanya pada tab yang sedang kamu buka) |
-| `/ignore [pengguna][@chp]` | Mengabaikan segala pesan dari pengguna yang telah dispesifikasikan pada sesi ini. Dengan menambahkan sebuah @ diikuti oleh huruf, c,h, dan/atau p, kamu mengabaikannya di obrolan, highlight, atau pesan pribadi secara berurut. | /ignore Amigo@chp | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Konsol obrolanmu disetel untuk: mengabaikan teks apapun yang Amigo tulis [c], teks yang mungkin menghighlightmu dari Amigo [h] Pesan pribadi yang dikirim Amigo kepadamu [p]) |
+| `/ignore [pengguna][@chp]` | Mengabaikan segala pesan dari pengguna yang telah dispesifikasikan pada sesi ini. Dengan menambahkan sebuah @ diikuti oleh huruf, c,h, dan/atau p, kamu mengabaikannya di obrolan, highlight, atau pesan pribadi secara berurut. | /ignore Amigo@chp | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Konsol obrolanmu disetel untuk: mengabaikan teks apapun yang Amigo tulis \[c\], teks yang mungkin menghighlightmu dari Amigo \[h\] Pesan pribadi yang dikirim Amigo kepadamu \[p\]) |
 | `/j [channel]` or `/join [channel]` | Memasuki channel yang dispesifikasikan | `/join #lobby` | (Tab #lobby akan terbuka) |
 | `/p` or `/part` | Meninggalkan channel yang sedang kamu masuki (Perintah ini akan menutup jendela channel di tempat kamu mengetik perintah ini). | `/part` | n/a |
 | `/unignore [user]` | Berhenti mengabaikan pengguna ini pada sesi sekarang. | `/unignore Amigo` | You may now hear Amigo. (Konsol obrolanmu akan memperbolehkan komentar apapun yang dibuat oleh Amigo muncul di konsol obrolanmu) |
 | `/me [aksi]` | Melakukan sebuah aksi orang ketiga. | `/me sedang berguling` | Nekonyan sedang berguling |
 | `/msg [pengguna] [pesan]` | Mengirimkan sebuah pesan pribadi kepada `[pengguna]`. | `/msg Amigo` Saya sedang sakit. | (Di tab Amigo) John: Saya sedang sakit. |
 | `/np` | Menampilkan lagu yang sedang kamu dengarkan atau yang kamu mainkan pada obrolan | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
-| `/reply` or `/r` | Membalas ke pesan pribadi yang diterima terakhir kali. | `/r Kamu kenal dokter yang bagus?` | (Di tab Amigo) [Komentar sebelumnya] John: Saya sedang sakit. Amigo: Ah masa? John: Kamu kenal dokter yang bagus? |
+| `/reply` or `/r` | Membalas ke pesan pribadi yang diterima terakhir kali. | `/r Kamu kenal dokter yang bagus?` | (Di tab Amigo) \[Komentar sebelumnya\] John: Saya sedang sakit. Amigo: Ah masa? John: Kamu kenal dokter yang bagus? |
 | `/savelog` | Menyimpan tab obrolan yang sedang dibuka menjadi sebuah berkas teks. | `/savelog` | (Sebuah folder bernama "Chat" akan dibuat di direktori) |
-| `/watch [pengguna]` | Memulai menonton `[pengguna]`. | `/watch Amigo` | Started spectating Amigo. (Jika Amigo bermain sebuah beatmap yang kamu miliki, kamu akan menonton permainan dia [setelah beberapa saat pemuatan] dengan namamu di sebelah kiri layar Amigo) |
+| `/watch [pengguna]` | Memulai menonton `[pengguna]`. | `/watch Amigo` | Started spectating Amigo. (Jika Amigo bermain sebuah beatmap yang kamu miliki, kamu akan menonton permainan dia \[setelah beberapa saat pemuatan\] dengan namamu di sebelah kiri layar Amigo) |
 | `/nopm` | Memperbolehkan atau tidaknya pesan pribadi dari semua orang | `/nopm` | (Sebuah pop-up akan muncul ditengah, yang menjelaskan bahwa kamu memperbolehkan/tidaknya pesan pribadi dari semua orang) |
 | `/invite [pengguna]` | `[pengguna]` telah diundang ke dalam permainan | `/invite Nathanael` | * Nathanael has been invited to the game |
 

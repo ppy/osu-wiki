@@ -70,7 +70,7 @@ The **Rin Standard Beatmap Pack** quest was completed by **[type 1 if cute](http
 
 ![Imperial Circus Dead Decadence header image](https://assets.ppy.sh/artists/35/header.jpg)
 
-For this quest, the mappers had to create and rank 3 mapsets of songs by **Imperial Circus Dead Decadence** from their albums *Yomi yori [...]* and *Fusyoku [...]* each hosted by a different user.
+For this quest, the mappers had to create and rank 3 mapsets of songs by **Imperial Circus Dead Decadence** from their albums *Yomi yori \[...\]* and *Fusyoku \[...\]* each hosted by a different user.
 
 The **Standard ICDD: Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo & Fusyoku Ressentiment, Fushiyoku no Sarugakuza** quest was completed by **[egg and cheese](https://osu.ppy.sh/users/3789276)**, **[Stack](https://osu.ppy.sh/users/6122935)**, **[Foxy Grandpa](https://osu.ppy.sh/users/5580983)**, **[Kite](https://osu.ppy.sh/users/134572)** and **[Riven](https://osu.ppy.sh/users/3638005)**.
 
@@ -78,7 +78,7 @@ The **Standard ICDD: Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo & Fusyo
 - [Imperial Circus Dead Decadence - Danzai No Honoo To Koibito-Tachi No Rondo](https://osu.ppy.sh/beatmapsets/961431) hosted by [Stack](https://osu.ppy.sh/users/6122935)
 - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru](https://osu.ppy.sh/beatmapsets/482382) hosted by [Kite](https://osu.ppy.sh/users/134572)
 
-Another ICDD quest tasked mappers to create and rank 4 mapsets of songs from their album *Kuroushiku Saita [...]*, each hosted by a different user.
+Another ICDD quest tasked mappers to create and rank 4 mapsets of songs from their album *Kuroushiku Saita \[...\]*, each hosted by a different user.
 
 The **Standard ICDD: Kuruoshiku Saita Seisan na Mukuro wa Kanade, Itooshiku Saita Shoujo wa Seisen no Kotoba wo Utau** quest was completed by **[VINXIS](https://osu.ppy.sh/users/4323406)**, **[deetz](https://osu.ppy.sh/users/3513559)**, **[RLC](https://osu.ppy.sh/users/1047883)**, **[Nyquill](https://osu.ppy.sh/users/682935)**, **[Cheesecake](https://osu.ppy.sh/users/3700647)** and **[Sing](https://osu.ppy.sh/users/3795679)**.
 

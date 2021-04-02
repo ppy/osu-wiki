@@ -12,7 +12,7 @@ You know it, you love it, our yearly descent into madness is finally here and wi
 
 Ready? I know I am!
 
-------------
+---
 
 [![](https://assets.ppy.sh/contests/81/banners/Sunako.jpg)](https://assets.ppy.sh/contests/81/winners/Sunako.png)
 
@@ -100,7 +100,7 @@ There's something I'd never thought I'd have to write in one of these posts.
 
 **2333** voters joined [**Misakko**](https://osu.ppy.sh/users/3173752)'s batwinged Aiko in a flight above eerie, skyborne ruins, with lakes that look strangely like liquid taffy.
 
------------
+---
 
 All of the entries showcased above are now the spooktacular background for our upcoming Halloween escapades, and will remain for a goodly week or so alongside some extra tunes made just for the occasion.
 
@@ -108,7 +108,7 @@ All of the entries showcased above are now the spooktacular background for our u
 
 *You can also download a zip of all the high-quality winning entries [here](https://assets.ppy.sh/contests/81/winners/Halloween2019FanartWinners.zip). Be sure to check each artist out!*
 
------------
+---
 
 But wait, that's not all!
 
@@ -134,7 +134,7 @@ One of them is also so difficult that we're not wholly sure if anyone can actual
 
 Good luck in your searching! And don't spoil the medals for other people, dammit! Half the fun is in trying to figure them out. If you're in need of a hint, maybe you should visit the *Medals* section in your profile page and mouse-over the one you're having trouble with.
 
-------------
+---
 
 From all of us on the osu!team, we hope you have a wonderful Halloween!
 

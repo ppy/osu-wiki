@@ -4,7 +4,7 @@ outdated: true
 
 # Modding (Français)
 
-Le **Modding** est le fait d'examiner la [map](/wiki/Beatmaps) de quelqu'un d'autre et de faire des suggestions. Ces suggestions auront pour but de, soit corriger des erreurs, soit de simplement améliorer la map. La personne qui modde la map est appelée un "moddeur" et la personne ayant créée la map un "mappeur". Le modding peut-être utile pour trois raisons principales:
+Le **Modding** est le fait d'examiner la [map](/wiki/Beatmap) de quelqu'un d'autre et de faire des suggestions. Ces suggestions auront pour but de, soit corriger des erreurs, soit de simplement améliorer la map. La personne qui modde la map est appelée un "moddeur" et la personne ayant créée la map un "mappeur". Le modding peut-être utile pour trois raisons principales:
 
 1. Si votre mod a été utile pour le mappeur, il vous donnera un [Kudosu](/wiki/Glossary). Les kudosus peuvent être utilisés afin d'augmenter la priorité de votre propre map.
 2. "Mod4mods", ou bien le fait de modder la map de quelqu'un pour obtenir un mod de sa part sur votre map en retour, est un excellent moyen d'être moddé.
@@ -18,9 +18,9 @@ Que vous soyez un mappeur débutant ou un peu plus expérimenté, le modding est
 
 Je vous rappelle que les mods doivent toujours se faire en anglais, vous pouvez le faire en français si le mappeur l'est aussi, mais je vous recommande quand même l'anglais, de cette manière les autres moddeurs sauront quels sont les suggestions que vous avez faites.
 
-Tout d'abord, téléchargez une map dans la partie [Pending Beatmap](/wiki/Beatmaps) ou [Work In Progress/Help](/wiki/Glossary) du forum (et non les parties [Ranked](/wiki/Beatmaps)/[Approved](/wiki/Beatmaps) !). Vous pouvez choisir des maps au hasard ou ouvrir une modding queue dans la sous-partie **Modding Queue** en dessous de [Work In Progress/Help](/wiki/Glossary) et accepter des demandes de mods. Si vous avez l'intention d'ouvrir une modding queue, n'hésitez pas à jeter un coup d'oeil à certains d'entre eux pour vous donner une idée générale de leur fonctionnement.
+Tout d'abord, téléchargez une map dans la partie [Pending Beatmap](/wiki/Beatmap) ou [Work In Progress/Help](/wiki/Glossary) du forum (et non les parties [Ranked](/wiki/Beatmap)/[Approved](/wiki/Beatmap) !). Vous pouvez choisir des maps au hasard ou ouvrir une modding queue dans la sous-partie **Modding Queue** en dessous de [Work In Progress/Help](/wiki/Glossary) et accepter des demandes de mods. Si vous avez l'intention d'ouvrir une modding queue, n'hésitez pas à jeter un coup d'oeil à certains d'entre eux pour vous donner une idée générale de leur fonctionnement.
 
-Ensuite, allez dans l'[Editeur](/wiki/Beatmap_Editor) et selectionnez la map que vous souhaitez modder. Puis, commencez à écrire une réponse dans le topic de la [map](/wiki/Beatmaps).
+Ensuite, allez dans l'[Editeur](/wiki/Beatmap_Editor) et selectionnez la map que vous souhaitez modder. Puis, commencez à écrire une réponse dans le topic de la [map](/wiki/Beatmap).
 
 Pour commencer, choisissez une difficulter à modder. Il est recommandé de commencer avec la difficulté la plus facile ou la plus difficile et d'aller progressivement vers les autres difficultés.
 
@@ -52,7 +52,7 @@ Le spacing est un des aspects les plus importants du beatmapping, le spacing aid
 
 ### Nouveaux Combos
 
-Les combos sont ce qui divisent les [cercles](/wiki/Hit_Objects) d'une [Beatmap](/wiki/Beatmaps) pour les rendre faciles à lire. En règle générale, les combos ne vont pas au dessus de 20 pour les Insane, 12 pour les Hard et 8 pour les Facile et Normal. Il n'y a pas de problèmes lorsque le combo dépasse ces valeurs si il y a une raison valable, mais il y a une façon logique d'arrêter un long combo, et il est recommandé de faire ainsi. Dans certains cas, les combos peuvent être utilisés afin d'indiquer un changement d'espacement ou de vitesse du slider.
+Les combos sont ce qui divisent les [cercles](/wiki/Hit_Objects) d'une [Beatmap](/wiki/Beatmap) pour les rendre faciles à lire. En règle générale, les combos ne vont pas au dessus de 20 pour les Insane, 12 pour les Hard et 8 pour les Facile et Normal. Il n'y a pas de problèmes lorsque le combo dépasse ces valeurs si il y a une raison valable, mais il y a une façon logique d'arrêter un long combo, et il est recommandé de faire ainsi. Dans certains cas, les combos peuvent être utilisés afin d'indiquer un changement d'espacement ou de vitesse du slider.
 
 ### Chevauchements et piles
 

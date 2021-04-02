@@ -181,7 +181,7 @@ This section is about the appearance during gameplay.
 
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
-| `Background dim` | Adjust the level of dimming applied to the background and storyboard while playing (can be set per-beatmap). | Slider | `30%` |
+| `Background dim` | Adjust the level of dimming applied to the background and storyboard while playing (can be set per-beatmap). | Slider | `80%` |
 | `Don't change dim level during breaks` | Disable brightening the dim level during breaks, making the background never visble. | Button | `Disabled` |
 | `Progress display` | Configure where and how the song progress bar is displayed. See below for details. | Dropdown | `Top-Right (Pie)` |
 | `Score meter type` | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use `Colour`. | Dropdown | `Hit error` |
@@ -311,7 +311,7 @@ If you open the dropdown list for `Confine mouse cursor`, you will be presented 
 | Name | Description | Type |
 | :-- | :-- | :-- |
 | `Change keyboard bindings` | Displays a dialog of the keyboard bindings. See [Keyboard Bindings](/wiki/Keyboard_Bindings) for more details. | Button |
-| `osu!mania layout` | Displays a dialog of osu!mania key bindings. See [osu!mania layout](/wiki/Game_Modes/osu!mania) for more details. | Button |
+| `osu!mania layout` | Displays a dialog of osu!mania key bindings. See [osu!mania layout](/wiki/Game_mode/osu!mania) for more details. | Button |
 
 ### Other
 

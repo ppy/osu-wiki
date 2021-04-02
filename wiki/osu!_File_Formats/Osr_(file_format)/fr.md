@@ -32,7 +32,7 @@ Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à tail
 | Court (short) | Nombre de fautes (misses) |
 | Entier (int) | Score total |
 | Court (short) | Combo maximum effectué lors du replay |
-| Octet (byte) | Combo parfait (le plus grand combo possible) [1 = oui (pas de miss ni de slider break ou de slider fini trop tôt); 0 = non] |
+| Octet (byte) | Combo parfait (le plus grand combo possible) \[1 = oui (pas de miss ni de slider break ou de slider fini trop tôt); 0 = non\] |
 | Entier (int) | Mods utilisés (voir en dessous pour plus d'infos) |
 | Chaîne de caractère (string) | Graphique de la barre de vie: paires u/v séparées par des virgules, où u est le temps en millisecondes dans la musique et v est un float allant de 0 à 1 qui représente la quantité de vie du joueur à un temps donné (0 = barre de vie vide, 1 = barre de vie remplie) |
 | Long | Horodatage ([ticks Windows](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |

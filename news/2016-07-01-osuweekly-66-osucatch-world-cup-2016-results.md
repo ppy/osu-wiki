@@ -36,19 +36,19 @@ The osu!catch World Cup 2016 has concluded with Indonesia facing off again last 
 
 <center>![](https://puu.sh/pMLj3/47284249df.png)</center>
 
-As the Grand Final began, China picked Morimori Atsushi - PUPA (Cherry Blossom) [Butterfly] and Indonesia responded it by gained their first point.
+As the Grand Final began, China picked Morimori Atsushi - PUPA (Cherry Blossom) \[Butterfly\] and Indonesia responded it by gained their first point.
 
-Indonesia picked DJ Sharpnel - IVALTEK (happy30) [HappyMiX] in hope they could get their second point, but China was able to win it and made it tie 1 - 1. The performance of both teams were very contrast after the tie.; Indonesia's performance dropped down and made a lot of mistakes while China nailed everything calmly.
+Indonesia picked DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\] in hope they could get their second point, but China was able to win it and made it tie 1 - 1. The performance of both teams were very contrast after the tie.; Indonesia's performance dropped down and made a lot of mistakes while China nailed everything calmly.
 
 Without wasting time China tried to gain everything they could, closed the 1st round with a massive 7 - 1 win and proceed to 2nd match as China came from Loser Bracket and they needed another win to be crowned as World Champion.
 
 ![](https://puu.sh/pK4SR/a62fc1da7e.png)
 
-Lost their first chance to win, Indonesia changed the strategy by picked different song in the first pick (Hitori Tori - perthed again (yambabom remix) (CLSW) [Nervous Breakdown]) in hope they could get their first point, but China was able to convert it to their point and made 4 - 1 lead shortly. Indonesia didn't want to give up, tried everything they can and they successfully chased their deficit to 4 - 3. Indonesia tried their last chance to win the remaining rounds in order to win the World Cup, but the on-fire China sealed the match with 7 - 3 and brought home World Champion title for second time as they have won it previously in 2012.
+Lost their first chance to win, Indonesia changed the strategy by picked different song in the first pick (Hitori Tori - perthed again (yambabom remix) (CLSW) \[Nervous Breakdown\]) in hope they could get their first point, but China was able to convert it to their point and made 4 - 1 lead shortly. Indonesia didn't want to give up, tried everything they can and they successfully chased their deficit to 4 - 3. Indonesia tried their last chance to win the remaining rounds in order to win the World Cup, but the on-fire China sealed the match with 7 - 3 and brought home World Champion title for second time as they have won it previously in 2012.
 
 ![](https://puu.sh/pK4V0/ff02f4bf04.png)
 
-An honorable mention to Dusk (China) as the player who successfully made SS in same song (T.M.Revolution x Mizuki Nana - Preserved Roses (Xinely) [Collab Insane]) three times in a row.
+An honorable mention to Dusk (China) as the player who successfully made SS in same song (T.M.Revolution x Mizuki Nana - Preserved Roses (Xinely) \[Collab Insane\]) three times in a row.
 
 ![](https://puu.sh/pGKjK/91b509024b.jpg)
 

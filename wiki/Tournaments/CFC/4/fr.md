@@ -202,7 +202,7 @@ Samedi, 27 Avril 2019:
 | --: | :-: | :-: | :-- | :-- |
 | Noulayfe ![][flag_FR] | 1 | **7** | ![][flag_FR] **Alostis** | [#1](https://osu.ppy.sh/community/matches/51332651) |
 | **-Ken** ![][flag_TN] | **7** | 0 | ![][flag_FR] Sounny | *win by default* |
-| Noulayfe ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** |[#1](https://osu.ppy.sh/community/matches/51344482) |
+| Noulayfe ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/51344482) |
 
 Dimanche, 28 Avril 2019:
 

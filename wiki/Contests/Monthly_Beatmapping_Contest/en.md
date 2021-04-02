@@ -4,41 +4,45 @@ As implied by its name, the **Monthly Beatmapping Contest** (***MBC***) is a [co
 
 The MBC was originally managed on a nearly monthly basis between 2013 and 2015 and was followed by hiatus until 2020. The first 12 iterations of the MBC can be found on the [Contests article](/wiki/Contests#monthly-beatmapping-contest). The results for the 13th iteration can be found on its [news post](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results).
 
-Since 2020, the MBC has adopted a new schedule, ruleset, voting procedure, and reward scheme. The rest of this article details the current format for Monthly Beatmapping Contests.
+Since 2020, the MBC has adopted a new schedule, ruleset, voting procedure, and reward scheme. 10 contests were run between January and October 2020, followed by a break until March 2021 while the [A Labour of Love Contest](/wiki/Contests/A_Labour_of_Love_Contest) was taking submissions. The MBC's 2021 return includes opportunities for mappers of all game modes to participate.
+
+The rest of this article details the current format for Monthly Beatmapping Contests.
 
 ## Schedule
 
 The timeline for each month's contest is as follows:
 
 - **Beatmapping (3 weeks):** Contest is announced at the start of the month and beatmappers create their entries.
-- **Screening (1 week):** Competitive entries are selected by experienced beatmappers.
-- **Judging (2 weeks):** Competitive entries are judged by different experienced beatmappers.
+- **Screening (1.5 weeks):** Competitive entries are selected by experienced beatmappers.
+- **Judging (1.5 weeks):** Competitive entries are judged by different experienced beatmappers.
 - **Rewards:** Winners are announced and prizes are redeemed.
 
-The judging portion of each contest overlaps with the next month's contest's beatmapping portion.
+The judging portion of each contest overlaps with the next month's contest's beatmapping portion. Screening and judging may be formatted differently for smaller game modes.
 
 ## Ruleset
 
 Submissions for the MBC must abide by the following rules:
 
-- **Submissions must follow the month's beatmapping limitation.** The limitation differs month by month and is detailed on each contest's announcement post.
+- **Submissions must be in the contest's specified game mode.**
+- **Submissions must follow the month's beatmapping limitation/theme.** The limitation/theme differs month by month and is detailed on each contest's announcement post.
 - **Submissions must be a single difficulty from one of the month's selected songs.** Selected songs differ month by month and are included in each contest's announcement post.
 - **Submissions must be in `.osz` format.** Storyboarded content will not be considered.
-- **Submissions must be in the osu! game mode.** Other game modes will be considered after trialing this contest with osu! only.
-- **Submissions must *not* be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** Creators of each entry are anonymous during the screening and voting processes.
+- **Submissions must *not* be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** Creators of each entry are anonymous during the screening and judging processes.
 - **Submissions must abide by the [ranking criteria](/wiki/Ranking_Criteria).**
 
 One or more rules may be added or dropped depending on the month's specifications. Any exceptions will be clearly explained in the contest's announcement post.
 
 ## Results
 
-Results for the MBC are first narrowed down to the most competitive entries, then published for community vote. Creators of all entries are anonymous in the screening and voting stages.
+Results for the MBC are first narrowed down to the most competitive entries, then evaluated by a team of judges. Creators of all entries are anonymous in the screening and judging stages.
+
+Smaller game modes may use different formats for screening and judging depending on mapper availability.
 
 ### Screening
 
-A group of at least 10 experienced beatmappers (*screening crew*) are tasked with reviewing all entries and providing their top picks in order of preference. Entries that receive the most praise from the screening crew will move on to the voting stage.
+A group of at least 10 experienced beatmappers (*screening crew*) are tasked with reviewing all entries and providing their top picks in order of preference. Entries that receive the most praise from the screening crew will move on to the judging stage.
 
-The amount of beatmaps that advance to the voting stage varies depending on the amount of highly competitive submissions the contest receives and will usually range between 5 and 10 finalists.
+The amount of beatmaps that advance to the judging stage varies depending on the amount of highly competitive submissions the contest receives and will usually range between 5 and 10 finalists.
 
 ### Judging
 
@@ -51,7 +55,7 @@ Judging categories:
 - **Musical representation (10):** How effectively the beatmap's rhythms, object placements, and hitsounds fit the music.
 - **Creativity (10):** How inventive the beatmap's structure/design choices are.
 - **Gameplay (10):** How engaging the beatmap is to play.
-- **Limitation (5):** How effectively the beatmap fits the contest's limitation.
+- **Limitation (5) or Theme (10):** How effectively the beatmap fits the contest's limitation/theme.
 
 For each submission, the sum of categories is a judge's *raw score*. A judge's *final score* for each submission is calculated as follows: 
 
@@ -77,7 +81,12 @@ Information and results for all iterations of the MBC since its relaunch in 2020
 | [April 2020](https://osu.ppy.sh/community/contests/93) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | ![][flag_KR] [Acyl](https://osu.ppy.sh/users/1943309) | [Results](https://osu.ppy.sh/home/news/2020-05-22-monthly-beatmapping-contest-4-results) |
 | [May 2020](https://osu.ppy.sh/community/contests/95) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | ![][flag_KR] [Acyl](https://osu.ppy.sh/users/1943309) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | [Results](https://osu.ppy.sh/home/news/2020-07-24-monthly-beatmapping-contest-5-6-results) |
 | [June 2020](https://osu.ppy.sh/community/contests/96) | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777), ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421), ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | N/A | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | [Results](https://osu.ppy.sh/home/news/2020-07-24-monthly-beatmapping-contest-5-6-results) |
-| [July 2020](https://osu.ppy.sh/community/contests/108) | TBD | TBD | TBD |  |
+| [July 2020](https://osu.ppy.sh/community/contests/108) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | [Results](https://osu.ppy.sh/home/news/2020-08-27-monthly-beatmapping-contest-7-results) |
+| [August 2020](https://osu.ppy.sh/community/contests/110) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | ![][flag_KR] [Acyl](https://osu.ppy.sh/users/1943309) | ![][flag_KR] [Acyl](https://osu.ppy.sh/users/1943309) | [Results](https://osu.ppy.sh/home/news/2020-09-27-monthly-beatmapping-contest-8-results) |
+| [September 2020](https://osu.ppy.sh/community/contests/111) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | [Results](https://osu.ppy.sh/home/news/2020-10-31-monthly-beatmapping-contest-9-results) |
+| [October 2020](https://osu.ppy.sh/community/contests/113) | ![][flag_DE] [0ppInOsu](https://osu.ppy.sh/users/12551840) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) | [Results](https://osu.ppy.sh/home/news/2020-12-14-monthly-beatmapping-contest-10-results) |
+
+The MBC was put on hold between October 2020 and March 2021 to provide time for the [A Labour of Love Contest](/wiki/Contests/A_Labour_of_Love_Contest). Statistics about all 2020 MBC iterations can be found on the [10th contest's results news post](https://osu.ppy.sh/home/news/2020-12-14-monthly-beatmapping-contest-10-results).
 
 ## Rewards
 
@@ -101,18 +110,20 @@ MBC points of every contest participant are listed below.
 
 | User | Points |
 | :-- | :-- |
+| ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | 8 |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 7 |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | 5 |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 5 |
+| ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | 4 |
 | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | 2 |
 | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | 2 |
 | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777) | 2 |
-| ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | 2 |
-| ![][flag_KR] [Acyl](https://osu.ppy.sh/users/1943309) | 2 |
+| ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | 2 |
+| ![][flag_DE] [0ppInOsu](https://osu.ppy.sh/users/12551840) | 2 |
 | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | 1 |
 | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | 1 |
-| ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | 1 |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 1 |
 | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | 1 |
+| ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) | 1 |
 
 Prior to June 2020, community vote winners/runner-ups would receive 2 and 1 points respectively.
 
@@ -125,3 +136,4 @@ Prior to June 2020, community vote winners/runner-ups would receive 2 and 1 poin
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"

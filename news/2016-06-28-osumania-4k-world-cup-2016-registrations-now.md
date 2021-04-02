@@ -5,11 +5,11 @@ date: 2016-06-28 16:48:48 +0000
 tumblr_url: http://osunews.tumblr.com/post/146609981558/osumania-4k-world-cup-2016-registrations-now
 ---
 
-We'd like to welcome all of you to this year's official osu!mania 4K World Cup. As usual, the rules have been adjusted from the previous MWC 4K, so please **[read them carefully](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2016_4K#ruleset)** before registering for this tournament.
+We'd like to welcome all of you to this year's official osu!mania 4K World Cup. As usual, the rules have been adjusted from the previous MWC 4K, so please **[read them carefully](/wiki/Tournaments/MWC/2016_4K#ruleset)** before registering for this tournament.
 
 ![](https://puu.sh/pJ9Ml/8d6f0d1b51.png)
 
-For more details, refer to the **[osu!mania 4K World Cup 2016 wiki article](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2016_4K)**.
+For more details, refer to the **[osu!mania 4K World Cup 2016 wiki article](/wiki/Tournaments/MWC/2016_4K)**.
 You can discuss this event in the **[official forum thread](https://osu.ppy.sh/community/forums/topics/472027)**.
 
 ## Tournament Schedule

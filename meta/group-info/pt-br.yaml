@@ -1,37 +1,39 @@
-outdated: true # missing alumni.roles.tournaments, languages.ur, languages.vi, languages.hr, languages.bn
+# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
-    academy: Fundador da osu!academy
-    admin: Administração
-    chat: Moderador de Chat
+    academy: fundador da osu!academy
+    admin: administração
+    chat: moderador de chat
     dev: osu!dev
     media: criador do osu!media
-    support: Equipe de Suporte
+    tournaments: torneios
+    support: equipe de suporte
 gmt:
-  all_mods: Todos os moderadores
+  all_mods: todos os moderadores
   areas:
-    beatmap: Moderação de beatmap
-    chat: Moderação de chat
-    forum: Moderação de fórum
-    team: Presença oficial da equipe
-    dev: Desenvolvimento do osu!
-    osu_idol: Hospedagem do osu!idol
-    player: Suporte ao jogador
-    support: Suporte técnico
-    tournaments: Torneios
-    wiki: Administração da wiki
+    beatmap: moderação de beatmap
+    chat: moderação de chat
+    forum: moderação de fórum
+    team: presença oficial da equipe
+    dev: desenvolvimento do osu!
+    player: suporte ao jogador
+    support: suporte técnico
+    tournaments: torneios
+    wiki: administração da wiki
 nat:
   areas:
-    communication: Comunicação
-    evaluation: Avaliação
-    moderation: Moderação
-    structural: Estrutural
+    communication: comunicação
+    evaluation: avaliação
+    moderation: moderação
+    structural: estrutural
 languages:
-  partial: Um pouco de <language>
-  ar: Arábico
+  partial: um pouco de <language>
+  ar: Árabe
   bg: Búlgaro
+  bn: Bengali
   ca: Catalão
+  da: Dinamarquês
   de: Alemão
   el: Grego
   es: Espanhol
@@ -39,6 +41,7 @@ languages:
   fi: Finlandês
   fil: Filipino
   fr: Francês
+  hr: Croata
   hu: Húngaro
   id: Indonésio
   it: Italiano
@@ -46,12 +49,17 @@ languages:
   ko: Coreano
   ms: Malaio
   nl: Holandês
+  no: Norueguês
   pl: Polonês
   pt: Português
+  ro: Romeno
   ru: Russo
   sr: Sérvio
   sv: Sueco
+  te: Telugu
   th: Tailandês
   tr: Turco
+  ur: Urdu
+  vi: Vietnamita
   yue: Cantonês
   zh: Chinês

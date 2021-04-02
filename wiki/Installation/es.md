@@ -38,7 +38,7 @@ Si estas usando Windows 7 de 64 bits, puede ser que tengas dificultades al insta
 
 ## Agregar beatmapsets
 
-*Ver también: [Beatmaps](/wiki/Beatmaps) y [Beatmapsets](/wiki/Glossary#beatmapset)*
+*Ver también: [Beatmaps](/wiki/Beatmap) y [Beatmapsets](/wiki/Glossary#beatmapset)*
 
 Hay dos maneras de agregar beatmaps, a través del sitio web o osu!direct (requiere [osu!supporter](/wiki/osu!supporter)).
 

@@ -315,7 +315,7 @@ En **en bas à droite**, vous pouvez ajuster la **Fréquence de lecture** par **
 
 ![Sample pop-up window (Windows 8's ver.)](img/Sample_omc.jpg "Exemple de fenêtre pop-up (ver. Windows 8)")
 
-**Pour commencer, sélectionnez la note et **`Alt` + clic gauche** sur la note sélectionnée (une fenêtre pop-up sera affichée avec des échantillons sonores dans votre dossier beatmap).
+Pour commencer, sélectionnez la note et **`Alt` + clic gauche** sur la note sélectionnée (une fenêtre pop-up sera affichée avec des échantillons sonores dans votre dossier beatmap).
 
 #### Importation d'échantillons
 

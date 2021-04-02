@@ -3,11 +3,14 @@
 *Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami gry](/wiki/Rules)!*
 
 1. Po [zainstalowaniu](/wiki/Installation) i otworzeniu gry, osu! poprosi cię o zalogowanie się lub utworzenie nowego konta. Naciśnij przycisk `Stwórz konto`, by wyświetlić formularz rejestracyjny.
+
    ![Formularz rejestracyjny w grze](img/ingame-registration.jpg "Formularz rejestracyjny")
+
 2. Wypełnij wszystkie pola w formularzu.
    - W polu `Username` wprowadź nazwę użytkownika. Może składać się z maksymalnie 15 znaków, z których dozwolone są tylko: znaki alfanumeryczne (`a-z`, `A-Z`, `0-9`), znaki podkreślenia (`_`), nawiasy kwadratowe, (`[` i `]`), myślniki (`-`) oraz spacje (` `).
    - W polu `Email Address` wprowadź swój aktywny adres e-mail. Będzie on potrzebny do zresetowania hasła i uzyskiwania kodów weryfikacyjnych, dlatego upewnij się, że masz do niego stały dostęp. Nie używaj tymczasowego adresu e-mail.
    - W polu `Password` wprowadź hasło o długości co najmniej 8 znaków.
+
 3. Po wykonaniu tych czynności naciśnij przycisk `1. Create my account`, by utworzyć nowe konto i automatycznie się zalogować.
 
 ## Co dalej?

@@ -8,10 +8,6 @@ Skinning is one of the key features of osu!. It enables players to derive from t
 
 **For beatmaps only,** if your beatmap skin contains a single element from the listed sets in the Ranking Criteria, it must contain all of the other elements within said skinning set. This only applies to beatmap skins, but other skinners may want to consider those lists as well.
 
-## How do I make a skin?
-
-*Main page: [Skinning Tutorial](/wiki/Skinning/Tutorial)*
-
 ## Skin elements lists
 
 The list of skinning elements is split up into these categories:
@@ -25,8 +21,8 @@ The list of skinning elements is split up into these categories:
 
 ## See also
 
-- [skin.ini](/wiki/skin.ini)
+- [skin.ini](/wiki/Skinning/skin.ini)
 - [Skinning History](/wiki/Skinning/History) - a list of old skinning elements
 - [Compendium](https://osu.ppy.sh/community/forums/topics/686664) - a list of completed skins
 - [Skinning FAQ](/wiki/Skinning/FAQ)
-- [Guides and Important Threads](/wiki/Skinning/Guides_and_Important_Threads)
+- [Guides and important threads](/wiki/Skinning/Guides_and_important_threads)

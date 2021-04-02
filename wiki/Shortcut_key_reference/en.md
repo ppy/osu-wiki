@@ -66,18 +66,18 @@ These shortcuts work anywhere:
 
 | Shortcut | Action |
 | :-- | :-- |
-| `F1` | Open the [game modifiers](/wiki/Game_Modifiers) selection menu. |
+| `F1` | Open the [game modifiers](/wiki/Game_modifier) selection menu. |
 | `F2` | Randomly select a beatmap. |
 | `Shift` + `F2` | Go back to the previously random-selected beatmap. |
 | `F3` | Open the beatmap options. |
 | `F5` | Reprocess beatmaps (this may prompt you to continue). |
 | `Shift` + `Delete` | Prompt the delete beatmap dialog. This will ask you if you want to delete the beatmapset (all difficulties), the beatmap (the selected difficulty), or all visible beatmaps. |
-| `Ctrl` + `1` | Switch the game mode to [osu!](/wiki/Game_Modes/osu!). |
-| `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/Game_Modes/osu!taiko). |
-| `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/Game_Modes/osu!catch). |
-| `Ctrl` + `4` | Switch the game mode to [osu!mania](/wiki/Game_Modes/osu!mania). |
-| `Ctrl` + `Enter` | Play the selected beatmap with the [Auto mod](/wiki/Game_Modifiers#auto). |
-| `Ctrl` + `Shift` + `Enter` | Play the selected beatmap with the [Cinema mod](/wiki/Game_Modifiers#auto).<!-- TODO: cinema should have its own link --> |
+| `Ctrl` + `1` | Switch the game mode to [osu!](/wiki/Game_mode/osu!). |
+| `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/Game_mode/osu!taiko). |
+| `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/Game_mode/osu!catch). |
+| `Ctrl` + `4` | Switch the game mode to [osu!mania](/wiki/Game_mode/osu!mania). |
+| `Ctrl` + `Enter` | Play the selected beatmap with the [Auto mod](/wiki/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Play the selected beatmap with the [Cinema mod](/wiki/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Toggle the Auto mod. |
 | `Ctrl` + `F3` or `Ctrl` + `+` | Increase the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Decrease the osu!mania scroll speed (while in osu!mania mode). |
@@ -91,8 +91,8 @@ These shortcuts work anywhere:
 
 ### Game modifiers
 
-*Main page: [Game modifiers](/wiki/Game_Modifiers)*  
-*Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*  
+*Main page: [Game modifiers](/wiki/Game_modifier)*\
+*Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*\
 *Note: Target practice (osu!standard), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
 
 | Shortcut | Mod |
@@ -194,6 +194,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 | Shortcut | Action |
 | :-- | :-- |
+| `Double Click` | On circles or slider ends to jump to the object's position in the timeline from any point in the song. (osu!standard, osu!taiko, osu!catch) |
 | `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting). |
 
 #### General
@@ -208,6 +209,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `C` | Copy. |
 | `Ctrl` + `V` | Paste. |
 | `Ctrl` + `D` | Clone the selection. This will paste the selection 1 measure after last selected object. |
+| `Ctrl` + `M` | Adjust the snap divisor. |
 | `Delete` | Delete. |
 | `1`, `2`, `3`, or `4` | Switch between placement/selection mode: select, circle, slider, and spinner respectively (osu!standard, osu!taiko, or osu!catch). |
 | `1`, `2`, or `3` | Switch between placement/selection mode: select, circle, and hold respectively (osu!mania). |
@@ -262,7 +264,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 | Shortcut | Action |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Set the [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Set the [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 and 1/9 respectively. |
 | `Shift` (while dragging in the timeline) | Ignore the beat snap divisor snapping. |
 | `J` | Nudge the selection backwards 1 divisor. |
 | `K` | Nudge the selection forwards 1 divisor. |
@@ -285,4 +287,7 @@ These shortcuts work anywhere within the beatmap editor:
 | Shortcut | Action |
 | :-- | :-- |
 | `T` | Set BPM and offset when tapped to the beat of the song. |
-| `Shift` while adjusting the BPM and offset | Increment 4x the normal amount. |
+| `Shift` while adjusting BPM or offset | Increment 5x the normal amount. |
+| `Ctrl` while adjusting BPM | Increment by 0.25. |
+| `Ctrl` while adjusting offset | Increment by 1. |
+| `Ctrl` while adjusting slider velocity | Increment by 0.1. |

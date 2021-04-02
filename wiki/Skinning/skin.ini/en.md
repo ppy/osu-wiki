@@ -148,12 +148,12 @@ When viewing these tables:
 
 ### RGB and RGB(a)
 
-A few commands may ask for a colour in the _RGB_ or _RGB(a)_ format.
+A few commands may ask for a colour in the *RGB* or *RGB(a)* format.
 
 - For RGB, the format looks like this `R, G, B` where `R` is red, `G` is green, and `B` is blue.
-  - Most commands will only accept _RGB_, without the alpha. If you specify an alpha value here, osu! will ignore it.
+  - Most commands will only accept *RGB*, without the alpha. If you specify an alpha value here, osu! will ignore it.
 - For RGB(a), the format looks like this `R, G, B, a`, in addition to above, `a` means alpha (opacity).
-  - A few commands accept _RGB(a)_, with the alpha. If you don't specify an alpha value, 255 (opaque/not transparent) will be used.
+  - A few commands accept *RGB(a)*, with the alpha. If you don't specify an alpha value, 255 (opaque/not transparent) will be used.
 
 ### Sections
 
@@ -163,15 +163,15 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 
 - `Name:`
   - Question: What is the name of this skin?
-  - Value: text _(skin name)_
-  - Default: _(empty)_
+  - Value: text *(skin name)*
+  - Default: *(empty)*
   - Notes:
     - At this time, this command is not used.
     - The osu!client will refer to the folder's name instead when listing.
 - `Author:`
   - Question: Who is the author of this skin?
-  - Value: text _(skin creator)_
-  - Default: _(empty)_
+  - Value: text *(skin creator)*
+  - Default: *(empty)*
   - Notes:
     - At this time, this command is not used.
     - Use your username.
@@ -230,7 +230,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 - `CustomComboBurstSounds:`
   - Question: On which combo counts should the comboburst sounds be played?
   - Value: *comma-split list with positive integers*
-  - Default: _(empty)_
+  - Default: *(empty)*
   - Notes:
     - This is not for [osu!taiko](/wiki/osu!taiko).
     - This only affects the combo burst sounds, not the milestones.
@@ -253,22 +253,6 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Default: `1`
   - Notes:
     - This is for [osu!standard](/wiki/osu!standard) only.
-- `SliderBallFrames:`
-  - Question: How many frames do you have for the sliderball animation?
-  - Value: *positive integer*
-  - Default: _(empty)_
-  - Notes:
-    - This is for [osu!standard](/wiki/osu!standard) only.
-    - This is slider velocity dependent
-    - This command might be obsolete
-- `SliderStyle:`
-  - Question: What style should the sliders use?
-  - Value: `1` / `2`
-  - Default: `2`
-  - Notes:
-    - **Stable (Fallback) stream only**
-    - `1` = Segmented tracks
-    - `2` = Gradient tracks
 - `SpinnerFadePlayfield:`
   - Question: Should the spinner add black bars during spins?
   - Values: `0` or `1`
@@ -288,108 +272,108 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 
 - `Combo1:`
   - Question: What colour is used for the last combo?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: 255,192,0
   - Notes:
     - This is used if beatmap skin is disabled or uses default colours.
     - This appears last.
 - `Combo2:`
   - Question: What colour is used for the first combo?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: 0,202,0
   - Notes:
     - This is used if beatmap skin is disabled or uses default colours.
     - This appears first.
 - `Combo3:`
   - Question: What colour is used for the second combo?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: 18,124,255
   - Notes:
     - This is used if beatmap skin is disabled or uses default colours.
     - This appears second, if defined.
 - `Combo4:`
   - Question: What colour is used for the third combo?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: 242,24,57
   - Notes:
     - This is used if beatmap skin is disabled or uses default colours.
     - This appears third, if defined.
 - `Combo5:`
   - Question: What colour is used for the fourth combo?
-  - Value: _RGB_
-  - Default: _(empty)_
+  - Value: *RGB*
+  - Default: *(empty)*
   - Notes:
     - This is used if beatmap skin is disabled or uses default colours.
     - This appears fourth, if defined.
 - `Combo6:`
   - Question: What colour is used for the fifth combo?
-  - Value: _RGB_
-  - Default: _(empty)_
+  - Value: *RGB*
+  - Default: *(empty)*
   - Notes:
     - This is used if beatmap skin is disabled or uses default colours.
     - This appears fifth, if defined.
 - `Combo7:`
   - Question: What colour is used for the sixth combo?
-  - Value: _RGB_
-  - Default: _(empty)_
+  - Value: *RGB*
+  - Default: *(empty)*
   - Notes:
     - This is used if beatmap skin is disabled or uses default colours.
     - This appears sixth, if defined.
 - `Combo8:`
   - Question: What colour is used for the seventh combo?
-  - Value: _RGB_
-  - Default: _(empty)_
+  - Value: *RGB*
+  - Default: *(empty)*
   - Notes:
     - This is used if beatmap skin is disabled or uses default colours.
     - This appears seventh, if defined.
 - `InputOverlayText:`
   - Question: What colour should the numbers on the input keys be tinted in?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `0,0,0`
   - Notes:
     - This is for [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch) only..
     - This tints the numbers shown on the input overlay.
 - `MenuGlow:`
   - Question: What colour should the spectrum bars in the main menu be coloured in?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `0,78,155`
   - Notes:
     - [osu!supporter](/wiki/osu!supporter) required
 - `SliderBall:`
   - Question: What colour should the default sliderball be coloured in?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `2,170,255`
   - Notes:
     - This is for [osu!standard](/wiki/osu!standard).
     - Default sliderball's colour if tinting is disabled in [options](/wiki/options).
 - `SliderBorder:`
   - Question: What colour should be used for the sliderborders?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `255,255,255`
   - Notes:
     - This is for [osu!standard](/wiki/osu!standard) only.
 - `SliderTrackOverride:`
   - Question: What colour should all sliderbodies be coloured in?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: *use current combo colour*
   - Notes:
     - This is for [osu!standard](/wiki/osu!standard) only.
     - Using this will make all slider track colours the same.
 - `SongSelectActiveText:`
   - Question: What colour should the text of the active panel be tinted in?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `0,0,0`
 - `SongSelectInactiveText:`
   - Question: What colour should the text of the inactive panels be tinted in?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `255,255,255`
 - `SpinnerBackground:`
   - Question: What colour should be added to the spinner-background?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `100,100,100`
 - `StarBreakAdditive:`
   - Question: What colour should be added to star2 during breaks?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `255,182,193`
   - Notes:
     - colour of `star2` during breaks
@@ -398,7 +382,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 
 - `HitCirclePrefix:`
   - Question: What prefix is used for the hitcircle numbers?
-  - Value: text _(path/filename prefix)_
+  - Value: text *(path/filename prefix)*
   - Default: `default`
   - Notes:
     - You can use a custom path
@@ -410,7 +394,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
     - Negative integers will add a gap.
 - `ScorePrefix:`
   - Question: What prefix is used for the score numbers?
-  - Value: text _(path/filename prefix)_
+  - Value: text *(path/filename prefix)*
   - Default: `score`
 - `ScoreOverlap:`
   - Question: By how many pixels should the score numbers overlap?
@@ -420,7 +404,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
     - Negative integers will add a gap.
 - `ComboPrefix:`
   - Question: What prefix is used for the combo numbers?
-  - Value: text _(path/filename prefix)_
+  - Value: text *(path/filename prefix)*
   - Default: `score`
 - `ComboOverlap:`
   - Question: By how many pixels should the combo numbers overlap?
@@ -433,21 +417,21 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 
 - `HyperDash:`
   - Question: What colour should be used for the dash?
-  - Values: _RGB_
+  - Values: *RGB*
   - Default: `255,0,0`
   - Notes:
     - osu! will use a default alpha value.
     - This is the colour of the catcher itself.
 - `HyperDashFruit:`
   - Question: What colour should be used for the fruits?
-  - Values: _RGB_
+  - Values: *RGB*
   - Default: *use `HyperDash`*
   - Notes:
     - osu! will use a default alpha value.
     - This is the colour outlining the fruit.
 - `HyperDashAfterImage:`
   - Question: What colour should be used for the after images?
-  - Values: _RGB_
+  - Values: *RGB*
   - Default: *use `HyperDash`*
   - Notes:
     - osu! will use a default alpha value.
@@ -498,14 +482,14 @@ Keys: 5
     - `16`
     - `18`
   - Notes:
-    - This is ***required*** per key set
+    - This is **required** per key set
 - `ColumnStart:`
   - Question: Where does the left column start?
-  - Value: _number_
+  - Value: *number*
   - Default: `136`
 - `ColumnRight:`
   - Question: Up to which point can columns be drawn?
-  - Value: _number_
+  - Value: *number*
   - Default: `19`
 - `ColumnSpacing:`
   - Question: What is the distance between all columns individually?
@@ -526,19 +510,19 @@ Keys: 5
   - Default: `2`
 - `BarlineHeight:`
   - Question: How thick is the barline?
-  - Value: _number_
+  - Value: *number*
   - Default: `1.2`
 - `LightingNWidth:`
   - Question: Which widths should `LightingN` use for all columns individually?
-  - Value: _comma-split list with numbers_
-  - Default: _(empty)_
+  - Value: *comma-split list with numbers*
+  - Default: *(empty)*
 - `LightingLWidth:`
   - Question: Which widths should `LightingL` use for all columns individually?
-  - Value: _comma-split list with numbers_
-  - Default: _(empty)_
+  - Value: *comma-split list with numbers*
+  - Default: *(empty)*
 - `WidthForNoteHeightScale:`
   - Question: Which height should all notes have if columns have individual widths?
-  - Value: _number_
+  - Value: *number*
   - Notes:
     - If not defined, the height scale of the smallest column width is used
 - `HitPosition:`
@@ -549,18 +533,18 @@ Keys: 5
     - `StageHint`, `LightingN`, and `LightingL` are drawn at this position
 - `LightPosition:`
   - Question: On which height should the stage lights be drawn at?
-  - Value: _integer_
+  - Value: *integer*
   - Default: `413`
   - Notes:
     - This is only for `StageLight`.
 - `ScorePosition:`
   - Question: On which height should the hitbursts appear at?
-  - Value: _integer_
+  - Value: *integer*
   - Notes:
     - The hitbursts will be vertically centered on the stage.
 - `ComboPosition:`
   - Question: On which height should the combo counter appear at?
-  - Value: _integer_
+  - Value: *integer*
   - Notes:
     - The combo counter will be vertically centered on the stage.
 - `JudgementLine:`
@@ -602,7 +586,7 @@ Keys: 5
     - Each keycount higher than 1 can be splitted (or merged, if count is higher than 9).
 - `StageSeparation:`
   - Question: What distance should the 2 stages have when splitted?
-  - Value: _number_
+  - Value: *number*
   - Default: `40`
   - Notes: The distance of the two stages, if split.
 - `SeparateScore:`
@@ -691,131 +675,131 @@ Keys: 5
     - Column specific (for notes)
 - `Colour#:`
   - Question: What colour should be used for the column's lane?
-  - Value: _RGB(a)_
+  - Value: *RGB(a)*
   - Default: `0,0,0,255`
   - Notes:
     - For the specific column's background.
     - `#` starts at `1`
 - `ColourLight#:`
   - Question: What colour should be used for the column's lighting?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `55,255,255`
   - Notes:
     - Column specific (StageLight).
     - `#` starts at `1`
 - `ColourColumnLine:`
   - Question: What colour should be used for the column lines?
-  - Value: _RGB(a)_
+  - Value: *RGB(a)*
   - Default: `255,255,255,255`
   - Notes:
     - These are the lines that separate the columns.
 - `ColourBarline:`
   - Question: What colour should be used for the bar seperator?
-  - Value: _RGB(a)_
+  - Value: *RGB(a)*
   - Default: `255,255,255,255`
   - Notes:
     - A bar is one full measure.
 - `ColourJudgementLine:`
   - Question: What colour should be used for the timing line?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `255,255,255`
 - `ColourKeyWarning:`
   - Question: What colour should be used for the keybinding reminders?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `0,0,0`
   - Notes:
     - This is the colour of the keybindings check before the game starts
 - `ColourHold:`
   - Question: What colour should be used for the combo counter during holds?
-  - Value: _RGB(a)_
+  - Value: *RGB(a)*
   - Default: `255,191,51,255`
 - `ColourBreak:`
   - Question: What colour should be used for the combo counter when it breaks?
-  - Value: _RGB_
+  - Value: *RGB*
   - Default: `255,0,0`
   - Notes:
     - This is the colour of combo counter during a combobreak.
 - `KeyImage#:`
   - Question: What is the name of the column's unpressed key image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This is for the specific column's idle key image.
 - `KeyImage#D:`
   - Question: What is the name of the column's pressed key image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This is for the specific column's pressed key image.
 - `NoteImage#:`
   - Question: What is the name of the column's note image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This is for the specific column's note image.
 - `NoteImage#H:`
   - Question: What is the name of the column's hold note head image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This is for the specific column's hold note head image.
 - `NoteImage#L:`
   - Question: What is the name of the column's hold note body image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This is for the specific column's hold note body image.
 - `NoteImage#T:`
   - Question: What is the name of the column's hold note tail image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This is for the specific column's hold note tail image.
 - `StageLeft:`
   - Question: What is the name of the left stage image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This is the left border.
 - `StageRight:`
   - Question: What is the name of the right stage image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This is the right border.
 - `StageBottom:`
   - Question: What is the name of the bottom stage image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This will **not** be streched to fit
 - `StageHint:`
   - Question: What is the name of the stage hint image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This is the graphical judgement line.
 - `StageLight:`
   - Question: What is the name of the stage light image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This is the column lighting.
 - `LightingN:`
   - Question: What is the name of the note lighting image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
 - `LightingL:`
   - Question: What is the name of the hold note lighting image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
 - `WarningArrow:`
   - Question: What is the name of the warning arrow image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
   - Notes:
     - This appears three barlines before the map starts, if there is enough time.
 - `Hit0:`
   - Question: What is the name of the hit0 image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
 - `Hit50:`
   - Question: What is the name of the hit50 image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
 - `Hit100:`
   - Question: What is the name of the hit100 image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
 - `Hit200:`
   - Question: What is the name of the hit200 image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
 - `Hit300:`
   - Question: What is the name of the hit300 image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*
 - `Hit300g:`
   - Question: What is the name of the hit300g image?
-  - Value: text _(path to image)_
+  - Value: text *(path to image)*

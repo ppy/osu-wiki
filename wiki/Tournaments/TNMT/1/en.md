@@ -21,7 +21,7 @@ The **:thonking: Newbie mania Tournament** (***TNMT***) is a one-on-one osu!mani
 
 ## Prize
 
-All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329)**.
+All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6679329)**.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -231,7 +231,7 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Maou** | **12** |  | **Horou** | **11** |  | **Davvyforte** | **12** |  | **Ladylag** | **12** |
 | **edisonhello** | **9** |  | **NestleiFan** | **9** |  | **BITONIC** | **8** |  | **NutAndGo** | **9** |
-| TNKSTC | 7 |  | ReanimateS | 8 |  | [xiao ba] | 6 |  | GodYeeKung | 4 |
+| TNKSTC | 7 |  | ReanimateS | 8 |  | \[xiao ba\] | 6 |  | GodYeeKung | 4 |
 | - Blue Bell - | 0 |  | JunFish | 3 |  | Katsumi | 4 |  | Blujae | 5 |
 
 | Group E | Score |  | Group F | Score |  | Group G | Score |  | Group H | Score |
@@ -239,7 +239,7 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 | **Yukina-** | **12** |  | **palmEuEi** | **12** |  | **Halo-** | **12** |  | **mewmew** | **12** |
 | **HD_AdreNaline** | **11** |  | **Antalf** | **9** |  | **EDTA233** | **8** |  | **vincent4399** | **8** |
 | Kasumii-sama | 4 |  | xyxyxy091 | 4 |  | Loily | 5 |  | Yozomi | 6 |
-| -[ GuiboxFR ]- | 6 |  | OumiOVO | 5 |  | XxTheJKxX | 4 |  | DrugManager | 0 |
+| -\[ GuiboxFR \]- | 6 |  | OumiOVO | 5 |  | XxTheJKxX | 4 |  | DrugManager | 0 |
 
 ## Ruleset
 
@@ -270,7 +270,6 @@ All the mappools are in FreeMod. If a player wants to enable DT, NC or HT, both 
 CJB & TMT Team has the ultimate power of interpretation.
 
 - **Notice: Any and all whom we deem as a "cheater" or "suspicious", screened by both the tourney and the official osu! staff, will be removed from the tournament immediately.**
-
 - Join match
   - The match room has **TNMT** as prefix and players in this match will receive an invitation.
   - Players should enter the room 10 minutes before match time.

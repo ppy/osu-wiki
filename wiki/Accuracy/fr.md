@@ -20,7 +20,7 @@ Référence pour un hit circle :
 
 ```text
 300 -> 300 / 300 = 1   = 100.00%
-100 -> 100 / 300 = 1/3 =  33.00%
+100 -> 100 / 300 = 1/3 =  33.33%
 50  ->  50 / 300 = 1/6 =  16.67%
 0   ->   0 / 300 = 0   =   0.00%
 ```
@@ -69,7 +69,7 @@ Le taux instable représente la cohérence du timing des hits, où les nombres i
 
 ### Spin
 
-*Note: Spin est seulement utiliser pour [osu!standard](/wiki/Game_Modes/osu!).*
+*Note: Spin est seulement utiliser pour [osu!standard](/wiki/Game_mode/osu!).*
 
 En plus de la précision, certaines informations concernant les spinners sont également visibles dans la même info-bulle.
 

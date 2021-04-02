@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 3c596a71cc876a14daabb7af66321a16db3885f6
+---
+
 # Storyboards
 
 ![Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS](img/Sbpassing.png "Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS")

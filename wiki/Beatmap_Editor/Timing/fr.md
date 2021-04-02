@@ -8,7 +8,7 @@ outdated: true
 
 ![Menu Timing](img/Timing_base.jpg "Menu Timing")
 
-Le timing d'un [beatmap](/wiki/Beatmaps) consiste en un décalage de la chanson et un BPM (battements par minute). Le décalage de la chanson est la quantité de temps entre le début d'un fichier audio et le premier battement de la chanson. Le BPM de la chanson est essentiellement la vitesse de la chanson.
+Le timing d'un [beatmap](/wiki/Beatmap) consiste en un décalage de la chanson et un BPM (battements par minute). Le décalage de la chanson est la quantité de temps entre le début d'un fichier audio et le premier battement de la chanson. Le BPM de la chanson est essentiellement la vitesse de la chanson.
 
 Un timing correct est impératif dans le processus de beatmapping pour permettre de placer les objets à temps avec le rythme.
 

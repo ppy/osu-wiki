@@ -58,7 +58,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 - [Livestream](https://www.twitch.tv/osutechnicalchampionship)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-IjXdVEQfj6mGB9DNDXhzJiXGx0sJ5QgJUMF7kRIxU4DAV9kEer1YsVK4-RxgfOI0NHMczJZmpFUi/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -90,7 +90,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 | **O** | ![][flag_US] [Gifted](https://osu.ppy.sh/users/7971757) | ![][flag_GR] [Riven](https://osu.ppy.sh/users/3638005) | ![][flag_GB] [hlo](https://osu.ppy.sh/users/2232928) | ![][flag_SE] [Saika-](https://osu.ppy.sh/users/4316633) |
 | **P** | ![][flag_DE] [Dustice](https://osu.ppy.sh/users/754565) | ![][flag_NL] [Lilily](https://osu.ppy.sh/users/6502403) | ![][flag_RU] [neko ds](https://osu.ppy.sh/users/4688735) | ![][flag_CA] [amano megumi](https://osu.ppy.sh/users/5426640) |
 
------------------------
+---
 
 ## Podium
 
@@ -102,7 +102,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890) |
 
------------------------
+---
 
 ## Mappools
 
@@ -252,7 +252,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 - Tiebreaker
   - **[Billain - Specialist (semaphore) \[Dance\]](https://osu.ppy.sh/beatmapsets/623765#osu/1314755)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -480,7 +480,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 | N1 | **WillCookie** ![][flag_US] | **4** | 3 | ![][flag_DE] papika | [#1](https://osu.ppy.sh/community/matches/49016650) |
 | O2 | **Gifted** ![][flag_US] | **4** | 0 | ![][flag_GB] hlo | -win by default- |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

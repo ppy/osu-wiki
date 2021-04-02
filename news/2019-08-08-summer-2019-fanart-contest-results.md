@@ -82,7 +82,7 @@ Clear, cool skies charmed **2706** voters in [**Charrmy**](https://osu.ppy.sh/us
 
 **2586** people squealed at [**Arind**](https://osu.ppy.sh/users/12116469)'s startled Mocha dropping her balloons mid-way through a waterfight with pippi. Let's be honest, we all know pippi has better aim here.
 
-------------
+---
 
 And now, for a little bit of a sombre moment.
 
@@ -98,7 +98,7 @@ This piece will be featured alongside the winning fifteen entries above as a par
 
 *As always, you can download a zip archive of all winning entries (plus the tribute above) in full size via [this link](https://assets.ppy.sh/contests/79/SummerFanart2019Winners.zip).*
 
-------------
+---
 
 Thank you to everyone who participated - this year marks the *biggest* our Fanart contests have ever gotten. So big in fact, that we're thinking we may have to sit down and reassess just how voting will work in the future.
 

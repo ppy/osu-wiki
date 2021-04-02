@@ -23,7 +23,7 @@
 | Integer | 创建该回放文件的游戏版本（例如：20131216） |
 | String | 该地图的 MD5 hash 值 |
 | String | 玩家名称 |
-| String | 回放文件的 MD5 hash（包含回放的确定属性）|
+| String | 回放文件的 MD5 hash（包含回放的确定属性） |
 | Short | “300” 判定的数量 |
 | Short | “100” 判定（osu!standard），“150” 判定（Taiko），“100” 判定（CTB），“100” 判定（osu!mania）的数量 |
 | Short | “50” 判定（osu!standard），小水果（CTB），“50” 判定（osu!mania）的数量 |
@@ -39,7 +39,7 @@
 | Integer | 以 byte 表示的压缩后的回放数据的长度 |
 | Byte 数组 | 压缩后的回放数据 |
 | Long | 在线分数 ID |
-| Double | 附加的 mod 信息。只在 [Target Practice](/wiki/Game_Modifiers#special.1) 开启时存在 |
+| Double | 附加的 mod 信息。只在 [Target Practice](/wiki/Game_modifier/Target_Practice) 开启时存在 |
 
 **附加的Mod信息:**
 

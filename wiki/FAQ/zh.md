@@ -36,7 +36,7 @@ outdated: true
 
 点击 **Play** 之后，四个按钮将变成 **Solo（单人）**, **Multi（多人）** 和 **Back（返回）**
 
-点击 **Solo** 按钮后可以选择模式(osu!标准模式、[太鼓模式(Taiko)](/wiki/Game_Modes/osu!taiko)、[接水果模式(Catch the Beat)和](/wiki/Game_Modes/osu!catch)[osu!mania模式](/wiki/Game_Modes/osu!mania))、歌曲和难度，然后开始游戏。
+点击 **Solo** 按钮后可以选择模式(osu!标准模式、[太鼓模式(Taiko)](/wiki/Game_mode/osu!taiko)、[接水果模式(Catch the Beat)和](/wiki/Game_mode/osu!catch)[osu!mania模式](/wiki/Game_mode/osu!mania))、歌曲和难度，然后开始游戏。
 
 点击 **Multi** 按钮后将出现房间列表和聊天窗口。点击房间以加入多人游戏，或者点击 New Game 以建立房间。请参见 [Multi](/wiki/Multi) (English)。
 
@@ -70,7 +70,7 @@ outdated: true
 
 #### 游戏之内的界面
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 以上为游戏之内的界面。
 
@@ -173,7 +173,7 @@ outdated: true
 
 ### 太鼓(Taiko)模式怎样玩？
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 向那些不熟悉的人介绍一下吧，太鼓达人是 Namco 制作的太鼓音乐类游戏，根据音乐的节奏敲击模拟出来的鼓。在 osu! 里，您可以用太鼓模式来玩您所喜欢的 beatmap。
 
@@ -219,7 +219,7 @@ outdated: true
 
 ### 什么是 “osu!mania”? (翻译未完成)
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
 osu!mania 是继太鼓和接水果模式后，第三个加入的特别模式
 

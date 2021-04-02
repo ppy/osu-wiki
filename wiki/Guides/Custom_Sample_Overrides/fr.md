@@ -8,7 +8,7 @@ no_native_review: true
 
 La section suivante décrit le nom des fichiers qui peuvent être remplacés.
 
-## Jeu d'échantillons normal (fort) :
+## Jeu d'échantillons normal (fort)
 
 - `normal-hitnormal`
 - `normal-hitwhistle`
@@ -21,7 +21,7 @@ Les trois échantillons suivants sont additifs, ce qui signifie que lorsque vous
 - `normal-sliderwhistle` (boucles)
 - `normal-slidertick`
 
-## Ensemble d'échantillons souples :
+## Ensemble d'échantillons souples
 
 - `soft-hitnormal`
 - `soft-hitwhistle`
@@ -34,7 +34,7 @@ Les trois échantillons suivants sont additifs, ce qui signifie que lorsque vous
 - `soft-sliderwhistle` (boucles)
 - `soft-slidertick`
 
-## Tambour d'échantillonnage :
+## Tambour d'échantillonnage
 
 - `drum-hitnormal`
 - `drum-hitwhistle`
@@ -47,7 +47,7 @@ Les trois échantillons suivants sont additifs, ce qui signifie que lorsque vous
 - `drum-sliderwhistle` (boucles)
 - `drum-slidertick`
 
-## Échantillons universels :
+## Échantillons universels
 
 - `spinnerspin` (ce son est décalé en hauteur au fur et à mesure que la toupie augmente. Il passe de ~500hz à 80000hz alors que l'échantillon original est de 44100hz)
 - `spinnerbonus` (ding)

@@ -13,13 +13,13 @@ The song for this contest is **Soleily - Renatus**. You may listen to a short pr
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/95082536&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"></iframe>
 
-# What are the prizes?
+## What are the prizes?
 
 - 6 months of supporter for you or a friend!
 - 'Elite Mapper' forum title
 - **Winning mapset will be bundled with the osu! game client download!**
 
-# What are the rules?
+## What are the rules?
 
 - You must map 3 difficulties in an appropriate spread - either ENH (easy, normal and hard) or NHI (normal, hard, insane). This counts for all 4 brackets.
 - In the osu!mania bracket, you may only submit difficulties with the same key amount.
@@ -27,7 +27,7 @@ The song for this contest is **Soleily - Renatus**. You may listen to a short pr
 - Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything comparable.
 - Maps submitted to the contest must not be submitted to the BSS until the contest has concluded.
 
-# Where can I enter?
+## Where can I enter?
 
 Submit your creations under the following links:
 

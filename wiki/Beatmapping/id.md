@@ -1,9 +1,9 @@
 # Beatmapping
 
-**Beatmapping** adalah proses pembuatan [beatmaps](/wiki/Beatmaps) di osu! untuk pengguna agar dapat dimainkan.
+**Beatmapping** adalah proses pembuatan [beatmaps](/wiki/Beatmap) di osu! untuk pengguna agar dapat dimainkan.
 Ini termasuk pemilihan lagu, [timing](/wiki/Timing), peletakan [objects](/wiki/Hit_Objects), dan (opsional) [skinning](/wiki/Skinning) dan [storyboarding](/wiki/Storyboarding).
 
-Mapper biasanya ingin beatmapnya berstatus [ranked](/wiki/Beatmaps) dimana terdiri dari [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+Mapper biasanya ingin beatmapnya berstatus [ranked](/wiki/Beatmap) dimana terdiri dari [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 osu! adalah permainan berbasis musik, Musik yang kamu pilih harus memiliki beat yang jelas dan konstan.
 Hindari musik yang memiliki ketukan (kecepatan) berubah atau musik lambat sampai kamu berpengalaman dan terbiasa dalam membuat beatmap.
@@ -23,7 +23,7 @@ Klik musik, kemudian otomatis akan terbuka [beatmap editor](/wiki/Beatmap_Editor
 
 Ketika akan membuat [mapset](/wiki/Glossary) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
 
-Kamu harus mengisi informasi terlebih dahulu sebelum membuat [difficulty](/wiki/Difficulties) lain.
+Kamu harus mengisi informasi terlebih dahulu sebelum membuat [difficulty](/wiki/Beatmap/Difficulty) lain.
 Ini akan memastikan bahwa metadata konsisten di semua tingkat kesulitan dalam mapset.
 
 Kamu dapat mengubah opsi di tab lain untuk sekarang jika itu yang kamu mau, tapi itu dapat diubah nanti.

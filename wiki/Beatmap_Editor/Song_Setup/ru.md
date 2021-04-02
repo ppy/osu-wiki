@@ -86,4 +86,4 @@ outdated: true
 
 ## Режим сложности
 
-Здесь вы можете выбрать в каком стиле делать сложность: [Тайко](/wiki/Game_Modes/osu!taiko), [КтБ](/wiki/Game_Modes/osu!catch), [Мания](/wiki/Game_Modes/osu!mania) или Осу.
+Здесь вы можете выбрать в каком стиле делать сложность: [Тайко](/wiki/Game_mode/osu!taiko), [КтБ](/wiki/Game_mode/osu!catch), [Мания](/wiki/Game_mode/osu!mania) или Осу.

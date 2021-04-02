@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - devs
   - osu!dev
@@ -23,6 +22,7 @@ O esforço de desenvolvimento do osu! é liderado pelo ![][flag_AU] **[peppy](ht
 ### Desenvolvedores do cliente de jogo
 
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
+- ![][flag_SK] [Domco](https://osu.ppy.sh/users/3562660)
 - ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
@@ -34,6 +34,7 @@ O esforço de desenvolvimento do osu! é liderado pelo ![][flag_AU] **[peppy](ht
 - ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102)
 - ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+- ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Designers
 
@@ -46,14 +47,15 @@ O esforço de desenvolvimento do osu! é liderado pelo ![][flag_AU] **[peppy](ht
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
 
-### Contas robô
+### Contas de bot
 
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
+[flag_AU]: /wiki/shared/flag/AU.gif "Austrália"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
+[flag_FR]: /wiki/shared/flag/FR.gif "França"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japão"
+[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
+[flag_SK]: /wiki/shared/flag/SK.gif "Eslováquia"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
 [flag___]: /wiki/shared/flag/__.gif
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

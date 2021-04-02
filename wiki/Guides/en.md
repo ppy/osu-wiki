@@ -9,7 +9,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 - [Adding Custom Hitsounds](Adding_Custom_Hitsounds)
 - [Audio Editing](Audio_Editing)
 - [Changing the Artist or Title](Changing_the_Artist_or_Title)
-- [Changing the Title Text](/wiki/Beatmaps/Title_Text#changing-title-text)
+- [Changing the Title Text](/wiki/Beatmap/Title_Text#changing-title-text)
 - [Collab Information](Collab_Information)
 - [Compressing Files](Compressing_Files)
 - [Custom Hitsound Library](Custom_Hitsound_Library)
@@ -31,7 +31,6 @@ Below is a sorted list of guides created by members of the osu!community; most o
 ## Playing
 
 - [Beginner's Tutorial](Beginner's_Tutorial)
-- [How to Play osu!mania](How_to_Play_osu!mania)
 - [How to Use the Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Searching and Downloading Beatmaps](Searching_and_Downloading_Beatmaps)
 - [Tablet Purchase](Tablet_Purchase)
@@ -39,9 +38,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 
 ## Skinning
 
-*Main page: [Skinning](/wiki/Skinning)*
-
-*See also: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
+*Main page: [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)*
 
 - [Cropping with Complex Backgrounds](Cropping_with_Complex_Backgrounds)
 - [Cropping with Simple Backgrounds](Cropping_with_Simple_Backgrounds)
@@ -50,6 +47,6 @@ Below is a sorted list of guides created by members of the osu!community; most o
 ## Miscellaneous
 
 - [Discord Rich Presence](Discord_Rich_Presence)
-- [Live Streaming osu!](Live_Streaming_osu!)
+- [Live Streaming osu!](Livestreaming_osu!)
 - [OpenGL Support Issues](OpenGL_Support_Issues)
 - [Recording osu!](Recording_osu!)
