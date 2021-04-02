@@ -10,22 +10,23 @@ tags:
 
 ![Cuplikan laman profil Tom94](img/dev.png "Gelar \“osu!dev\” sebagaimana yang tersemat pada laman profil Tom94.")
 
-A **user title** is a short label on a user's profile page set by the [osu!team](/wiki/People/The_Team). Most titles indicate membership of a [user group](/wiki/People/The_Team#user-groups), but some users have earned [more unique titles](/wiki/People/Users_with_unique_titles) for specific achievements or contributions.
+**Gelar pengguna** merupakan label atau tajuk khusus yang tersemat pada laman profil pemain. Suatu gelar pengguna pada umumnya disematkan oleh [osu!team](/wiki/People/The_Team) untuk menandakan status keanggotaan seseorang di dalam [gugus pengguna (*user group*)](/wiki/People/The_Team#user-groups) tertentu. Meskipun demikian, terdapat beberapa gelar yang [diberikan secara khusus](/wiki/People/Users_with_unique_titles) kepada pemain-pemain tertentu sebagai bentuk apresiasi atas pencapaian yang telah mereka raih dalam bidangnya masing-masing.
 
-The colour of a user title is the same as the user's colour, which is also usually set by group membership. If the user has no colour set, the title is white.
+Gelar-gelar yang ada pada umumnya akan tertera dalam warna yang sesuai dengan warna gugus pengguna yang bersangkutan. Untuk gelar-gelar yang tidak terkait dengan keanggotaan suatu gugus pengguna, gelar yang bersangkutan akan tertera dalam warna putih.
 
-## History
+## Sejarah
 
-### Post count titles
+### Gelar-gelar yang terkait dengan jumlah postingan forum
 
-![Screenshot of Damnae's post sidebar on the old website](img/star-shooter.png "The \"Star Shooter\" title sits above Damnae's post count.")
+![Cuplikan tampilan profil Damnae pada forum osu! terdahulu](img/star-shooter.png "Gelar \“Star Shooter\” sebagaimana yang tersemat di atas jumlah postingan forum Damnae.
+")
 
 <!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
 
-On the forum sections of the [old osu! website](https://old.ppy.sh)<!-- TODO: wiki page -->, users could obtain titles by reaching certain post count milestones. These were only shown on the sidebars of forum posts, not the users' profiles, and were not shown if a custom title was already set.
+Pada [situs web osu! yang lama](https://old.ppy.sh), terdapat beberapa gelar yang akan secara otomatis disematkan kepada para pemain yang telah menulis postingan forum dalam jumlah tertentu. Gelar-gelar ini hanya dapat dilihat pada laman forum dan tidak akan muncul pada laman profil masing-masing pemain.
 
 <!-- TODO: list all of the titles and their requirements -->
 
 ## Trivia
 
-- User titles are referred to as "rank titles" throughout the game's code. This is a leftover name from when osu! was built on top of [phpBB](https://www.phpbb.com/).
+- Dalam kode sumbernya, situs web osu! menggunakan nama variabel “rank title” (gelar peringkat) alih-alih “user title” untuk mendefinisikan gelar-gelar pengguna yang ada. Hal ini merupakan bawaan dari sistem [phpBB](https://www.phpbb.com/) yang dahulu digunakan untuk menopang forum osu! pada awal pembentukannya.
