@@ -6,15 +6,11 @@ tags:
  - list of mods
 ---
 
-<!-- READ BEFORE EDITING:
-- Mods under "List of Mods" are listed by order of appearance on the Mod Selection Screen; same order as /Summary
-- Updates to this article should be accompanied with appropriate updates to /Summary -->
-
 # Game modifier
 
 *Untuk penggunaan lainnya, lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod).*
 
-![Layar pemilihan mod](img/GM_Main_id.jpg)
+![Layar pemilihan mod](img/mod-selection-screen-ID.jpg)
 
 **Game modifier** (disingkat menjadi "mod") adalah sebuah modifikasi opsional terhadap elemen dan kesulitan dari sebuah [beatmap](/wiki/Beatmaps) dimana pemain dapat mengaktifkannya melalui `Layar Pemilihan Mod` (diatas). Mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau hanya untuk kesenangan biasa.
 
