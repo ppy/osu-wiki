@@ -41,7 +41,7 @@ In osu!catch, accuracy is calculated by taking the total number of non-spinner h
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
 
-In osu!mania, accuracy is calculated similarly to [osu!standard](#-osu!standard).
+In osu!mania, accuracy is calculated similarly to [osu!standard](#![](/wiki/shared/mode/osu.png)-osu!standard).
 
 ## Performance graph
 
@@ -55,11 +55,11 @@ The performance graph is a chart that displays the player's performance (based o
 
 When hovering over the performance graph, a tooltip is displayed with an `Error` and `Unstable Rate` rating.
 
-Due to the way the [DT](/wiki/DT) (Double Time) and [HT](/wiki/HT) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing with the DT mod, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing with the HT mod.
+Due to the way the [DT](/wiki/Game_modifier/Double_time) (Double Time) and [HT](/wiki/Game_modifier/Half_time) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing with the DT mod, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing with the HT mod.
 
 #### Error
 
-`Error` will always display two values that represents how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Overall_Difficulty) value of the beatmap is, the lower the error values will have to be to do well when playing the beatmap.
+`Error` will always display two values that represents how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) value of the beatmap is, the lower the error values will have to be to do well when playing the beatmap.
 
 #### Unstable rate
 

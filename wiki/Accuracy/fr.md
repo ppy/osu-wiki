@@ -41,7 +41,7 @@ Dans osu!catch, la précision est calculée en prenant le nombre total de hit ob
 
 ![Précision = (50 \* nombre de 50s + 100 \* nombre de 100s + 200 \* nombre de 200s + 300 \* nombre de 300s + 300 \* nombre de MAXs) / 300(nombre de 0s + nombre de 50s + nombre de 100s + nombre de 200s + nombre de 300s + nombre de MAXs)](img/accuracy_mania.png "La formule de la précision pour osu!mania")
 
-Dans osu!mania, la précision est calculée d'une façon similaire à [osu!standard](#-osu!standard).
+Dans osu!mania, la précision est calculée d'une façon similaire que [osu!standard](#![](/wiki/shared/mode/osu.png)-osu!standard).
 
 ## Graphique de performance
 
@@ -55,15 +55,15 @@ Le graphique de performance est un tableau qui affiche la performance du joueur 
 
 Lorsque l'on passe la souris sur le graphique de performance, une infobulle s'affiche avec une icône d'évaluation `Error` et `Unstable Rate`.
 
-En raison de la manière dont les mods [DT](/wiki/DT) (Double Time) et [HT](/wiki/HT) (Half Time) sont introduits, les valeurs d'erreur et de taux d'instabilité seront multipliées par le même facteur que la chanson. Pour obtenir les vraies valeurs en jouant avec le mod DT, divisez les résultats par 1,5. De même, multipliez les résultats par 1,33 lorsque vous jouez avec le mod HT.
+En raison de la manière dont les mods [DT](/wiki/Game_modifier/Double_time) (Double Time) et [HT](/wiki/Game_modifier/Half_time) (Half Time) sont introduits, les valeurs d'erreur et de taux d'instabilité seront multipliées par le même facteur que la chanson. Pour obtenir les vraies valeurs en jouant avec le mod DT, divisez les résultats par 1,5. De même, multipliez les résultats par 1,33 lorsque vous jouez avec le mod HT.
 
-#### Erreur
+#### Error
 
-`Error` affichera toujours deux valeurs qui représentent l'écart moyen entre les premiers résultats et les derniers résultats. Plus la valeur [Overall Difficulty (OD)](/wiki/Overall_Difficulty) de la beatmap est élevée, plus les valeurs d'erreur devront être faibles pour obtenir de bons résultats lors de la partie.
+La valeur `Error` affichera toujours deux valeurs qui représentent l'écart moyen entre les premiers résultats et les derniers résultats. Plus la valeur [Overall Difficulty (OD)](/wiki/Beatmapping/Overall_Difficulty) de la beatmap est élevée, plus les valeurs d'erreur devront être faibles pour obtenir de bons résultats lors de la partie.
 
-#### Taux d'instabilité
+#### Unstable Rate
 
-`Unstable Rate` représente la constance du timing des hits, les chiffres les plus bas étant les meilleurs (les meilleurs joueurs obtiennent souvent un score inférieur à 100). Notez que la valeur mesure la constance, et non la précision, de sorte que toucher les hit objects régulièrement 15ms en avance est la même chose que les toucher régulièrement à temps. La formule est essentiellement l'écart type des erreurs de hit (en millisecondes), multiplié par 10. [Un code simple](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) est disponible comme référence, montrant comment osu-stable calcule les valeurs du taux d'instabilité.
+La valeur `Unstable Rate` représente la constance du timing des hits, les chiffres les plus bas étant les meilleurs (les meilleurs joueurs obtiennent souvent un score inférieur à 100). Notez que la valeur mesure la constance, et non la précision, de sorte que toucher les hit objects régulièrement 15ms en avance est la même chose que les toucher régulièrement à temps. La formule est essentiellement l'écart type des erreurs de hit (en millisecondes), multiplié par 10. [Un code simple](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) est disponible comme référence, montrant comment osu-stable calcule les valeurs du taux d'instabilité.
 
 ### Spin
 
@@ -73,4 +73,4 @@ En plus de la précision, certaines informations concernant les spinners sont é
 
 #### Vitesse
 
-`Speed` représente le RPM (Tours par minute) moyen de tous les spinners de la beatmap. `Max` est la valeur de RPM la plus élevée que le joueur a atteint tous spinners confondus lors de la partie.
+La valeur `Speed` représente le RPM (Tours par minute) moyen de tous les spinners de la beatmap. La valeur `Max` est la valeur de RPM la plus élevée que le joueur a atteint tout les  spinners lors de la partie.

@@ -41,7 +41,7 @@
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Формула расчёта точности для osu!mania")
 
-В osu!mania точность рассчитывается аналогично [osu!standard](#-osu!standard).
+В osu!mania точность рассчитывается аналогично [osu!standard](#![](/wiki/shared/mode/osu.png)-osu!standard).
 
 ## График производительности
 
