@@ -40,16 +40,13 @@ Her modun aylık aktivite için kendi asgari gereksinimleri aşağıdaki gibidir
 - **Aday göstereceğiniz modu/modları içeren tüm zorlukları düzgünce kontrol etmeden beatmap setini aday göstermeyin.** Aday göstermeden önce sadece bir modlama aracı çalıştırmak ya da hatta beatmapi bile indirmemek hatalı kontrol sayılır.
 - **Eğer herhangi bir şeyden emin değilseniz beatmapi aday göstermeyin.** Bu gibi durumlarda, acele bir karar vermeden önce başka aday göstericilerden yardım isteyin. Bu, iyi bilinmeyen oyun modlarını, gri alanda bulunan/derecelendirilemez olabilecek şüpheli sorunları, kalite sorunları ya da karmaşık zamanlamaları da içerir.
 - **Akıl çerçevesinde değerlendiremeyeceğiniz beatmapi aday göstermeyin.** Bir beatmapi akıl çerçevesinde değerlendirmek, oynayarak test ederek veya modlama tecrübesiyle, bir beatmapin kalitesini değerlendirebilmenin çekirdeğini oluşturur. Eğer yeteri kadar oyun yeteneğiniz ya da modlama deneyiminiz olmadığı düşünülüyorsa, beatmapi değerlendirme yeteneğinizden şüphe duyabiliriz.
-- **Resmiyette yeterliliğinizin olmadığı oyun modlarındaki beatmapleri aday göstermeyin.** Aday gösterebilmeniz için Beatmap Aday Göstericilerin ilgili kısmının bir üyesi olarak beatmap setinde bulunan oyun modlarından en az birinde aday göstermek için kalifiye olmalısınız.
 - **Beatmapi aday göstermeden önce beatmap tartışmasında hiç bir gönderinin göz ardı edilmediğinden emin olun.** Yeterli bir yanıtı bulunmayan gönderiler yoksayılmış farz edilebilir. Şüphede kaldığınızda, beatmap tartışmasında Mapleme ve Modlama Etik Davranış Kuralları ihlal edilmiş mi diye iki kez kontrol edin ve ona göre davranın.
 
 ### Niteliklendirme
 
 - **Bir şarkının benzer versiyonlarının farklı beatmapleri aynı modda aynı anda niteliklendirilemez.** Kısaltmalar, uzatmalar, ya da basit aranjmanlar şarkının benzer versiyonlarına dahildir.
 - **Bir şarkının önemli derecede farklı versiyonlarından en fazla 3 tanesi aynı modda aynı anda niteliklendirilebilir.** Remixler, derlemeler, ve mashuplar şarkının önemli derecede farklı versiyonlarına dahildir.
-- **Asil üyesi olmadığnız modlardaki beatmapleri, eğer olan bir başkası tarafından aday gösterilmediyse niteliklendirmeyin.** Bu, her zaman, her mod için bir asil aday göstericinin sürecin bir parçası olmasını sağlar.
 - **Bir beatmapi mapper ile iletişim kurmadan doğrudan niteliklendirmeyin.** Son aday göstermeden sonra mapperın kendisi bazı değişiklikler yapmış olabilir, dolayısıyla mapper ile irtibat halinde olmadan bir beatmap setini aday göstermek gereksiz diskalifikasyonlara yol açabilir.
-- **Hibrit bir beatmap setinde bulunan her bir modun o modun uzmanı iki aday gösterici tarafından aday gösterilmesi gerekir.** Hibrit aday gösterme süreci henüz tamamen desteklenmediğinden, birden fazla modda uzmanlaşan aday göstericiler en fazla bir mod için onay verebilir.
 
 ## Aday gösterme sıfırlama
 
