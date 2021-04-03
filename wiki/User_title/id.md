@@ -10,9 +10,9 @@ tags:
 
 ![Cuplikan laman profil Tom94](img/dev.png "Gelar \“osu!dev\” sebagaimana yang tersemat pada laman profil Tom94.")
 
-**Gelar pengguna** merupakan label atau tajuk khusus yang tersemat pada laman profil pemain. Suatu gelar pengguna pada umumnya disematkan oleh [osu!team](/wiki/People/The_Team) untuk menandakan status keanggotaan seseorang di dalam [gugus pengguna (*user group*)](/wiki/People/The_Team#user-groups) tertentu. Meskipun demikian, terdapat beberapa gelar yang [diberikan secara khusus](/wiki/People/Users_with_unique_titles) kepada pemain-pemain tertentu sebagai bentuk apresiasi atas pencapaian yang telah mereka raih dalam bidangnya masing-masing.
+**Gelar pengguna** merupakan label atau tajuk khusus yang tersemat pada laman profil pengguna. Suatu gelar pengguna pada umumnya disematkan oleh [osu!team](/wiki/People/The_Team) untuk menandakan status keanggotaan seseorang di dalam [gugus pengguna (*user group*)](/wiki/People/The_Team#user-groups) tertentu. Meskipun demikian, terdapat beberapa gelar yang [diberikan secara khusus](/wiki/People/Users_with_unique_titles) kepada pengguna-pengguna tertentu sebagai bentuk apresiasi atas pencapaian yang telah mereka raih dalam bidangnya masing-masing.
 
-Gelar-gelar yang ada pada umumnya akan tertera dalam warna yang sesuai dengan warna gugus pengguna yang bersangkutan. Untuk gelar-gelar yang tidak terkait dengan keanggotaan suatu gugus pengguna, gelar yang bersangkutan akan tertera dalam warna putih.
+Gelar-gelar yang disematkan pada pengguna pada umumnya akan terpajang dengan warna yang sesuai dengan warna gugus pengguna yang bersangkutan. Untuk gelar-gelar yang tidak terkait dengan keanggotaan suatu gugus pengguna, gelar yang bersangkutan akan terpajang dalam warna putih.
 
 ## Sejarah
 
@@ -23,7 +23,7 @@ Gelar-gelar yang ada pada umumnya akan tertera dalam warna yang sesuai dengan wa
 
 <!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
 
-Pada [situs web osu! yang lama](https://old.ppy.sh), terdapat beberapa gelar yang akan secara otomatis disematkan kepada para pemain yang telah menulis postingan forum dalam jumlah tertentu. Gelar-gelar ini hanya dapat dilihat pada laman forum dan tidak akan muncul pada laman profil masing-masing pemain.
+Pada [situs web osu! yang lama](https://old.ppy.sh), terdapat beberapa gelar yang akan secara otomatis disematkan kepada para pengguna yang telah menulis postingan forum dalam jumlah tertentu. Gelar-gelar ini hanya dapat dilihat pada laman forum dan tidak akan muncul pada laman profil masing-masing pengguna.
 
 <!-- TODO: list all of the titles and their requirements -->
 
