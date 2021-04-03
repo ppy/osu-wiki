@@ -12,7 +12,7 @@ tags:
 
 Le **HP drain rate** (***HP***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui contrôle la quantité de [santé](/wiki/Beatmapping/Health) qui est perdue passivement à cause du [health drain](/wiki/Beatmapping/Health_drain). Il affecte également le degré de pénalisation du joueur lorsqu'il manque des notes et la quantité de santé qu'il récupère en touchant avec précision les [hit objects](/wiki/Hit_Objects).
 
-Le HP drain rate va de 0 à 10, où 10 est le plus punitif et 0 le plus indulgent.<!-- TODO: quanitfy what the value actually means -->
+Le HP drain rate va de 0 à 10, où 10 est le plus punitif et 0 le plus indulgent.<!-- TODO: quantify what the value actually means -->
 
 ## Effets des mods
 
