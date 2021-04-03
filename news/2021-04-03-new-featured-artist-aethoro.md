@@ -16,7 +16,7 @@ The genres explored in **Aethoro**'s music are fairly new to the Featured Artist
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/153/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -25,25 +25,25 @@ The genres explored in **Aethoro**'s music are fairly new to the Featured Artist
 Check out [this mapset from the video above](https://osu.ppy.sh/beatmapsets/1309729) hosted by [verychill](https://osu.ppy.sh/users/10132936)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/153/Spiritdance/Aethoro%20-%20Woodfairies.mp3" type="audio/mpeg">
 </audio>
 
 ### Deertracks
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/153/Spiritdance/Aethoro%20-%20Deertracks.mp3" type="audio/mpeg">
 </audio>
 
-### Sanctuary
+### Riverlight (feat. vally.exe)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/153/Spiritdance/Aethoro%20-%20Riverlight%20(feat.%20vally.exe).mp3" type="audio/mpeg">
 </audio>
 
-### A Town Beside The Ocean
+### Life
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/153/Fable/Aethoro%20-%20Life.mp3" type="audio/mpeg">
 </audio>
 
 ---
