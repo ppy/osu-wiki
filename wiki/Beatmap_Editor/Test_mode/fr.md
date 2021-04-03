@@ -28,4 +28,4 @@ Jouer un beatmap en test mode diffère du jeu normal, car il ne soumet aucun sco
 - Le combo maximum possible qu'un joueur peut réaliser sur la beatmap
 - Diverses commandes de raccourcis.
 
-Le mode test diffère également de la lecture standard d'une beatmap car il exige que les utilisateurs sauvegardent leur beatmap avant de le jouer, et permet aux utilisateurs de regarder la beatmap en "autoplay", qui joue le beatmap comme le ferait le mod [Auto](/wiki/Game_modifier/Auto).
+Le mode test diffère également de la lecture standard d'une beatmap car il exige que les utilisateurs sauvegardent leur beatmap avant de le jouer, et permet aux utilisateurs de regarder la beatmap en "autoplay", qui joue la beatmap comme le ferait le mod [Auto](/wiki/Game_modifier/Auto).
