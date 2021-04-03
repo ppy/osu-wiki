@@ -5,7 +5,7 @@ tags:
   - tempo
 ---
 
-#  Battement par minute
+# Battement par minute
 
 Le **Battement par minute** (***BPM***) désignent le nombre de battements musicaux entiers par minute et sont utilisés pour mesurer la [tempo](https://fr.wikipedia.org/wiki/Tempo) d'une chanson.
 
