@@ -48,7 +48,7 @@ This will save you (and the modding community) a lot of hassle later on.
 *Main page: [Compose](/wiki/Compose)*
 
 The compose tab of the beatmap editor is where you will probably spend a majority of your time beatmapping.
-It is where you can visually place hit objects and toggle their [hitsounds](/wiki/hit_sounds)
+It is where you can visually place hit objects and toggle their [hitsounds](/wiki/Beatmapping/Hitsound)
 
 ### Design
 
