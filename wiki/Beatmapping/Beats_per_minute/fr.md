@@ -5,17 +5,17 @@ tags:
   - tempo
 ---
 
-# Battements par minutes
+#  Battement par minute
 
-**Les battements par minute** (***BPM***) désignent le nombre de battements musicaux entiers par minute et sont utilisés pour mesurer la [tempo](https://en.wikipedia.org/wiki/Tempo) d'une chanson.
+Le **Battement par minute** (***BPM***) désignent le nombre de battements musicaux entiers par minute et sont utilisés pour mesurer la [tempo](https://fr.wikipedia.org/wiki/Tempo) d'une chanson.
 
-## Points de timing
+## Timing points
 
-Les [points de timing](/wiki/Glossary#timing-section) utilisent un BPM et un décalage pour permettre de fixer les [hit objects](/wiki/Hit_Objects) sur la ligne de temps lors de la création des [beatmap](/wiki/Beatmap). L'accrochage à la timeline garantit l'alignement du jeu sur le rythme.
+Les [timing points](/wiki/Glossary#timing-section) utilisent un BPM et un décalage pour permettre de fixer les [hit objects](/wiki/Hit_Objects) sur la timeline lors de la création des [beatmaps](/wiki/Beatmap). L'accrochage à la timeline garantit l'alignement des différents éléments sur le rythme.
 
-Dans l'onglet [Timing](/wiki/Beatmap_Editor/Timing) de l'[éditeur de beatmap](/wiki/Beatmap_Editor), vous trouverez un outil d'estimation du BPM. Cet outil calcule un BPM et un décalage à partir de l'utilisateur qui tape pendant que la chanson est jouer. Cette méthode est utile pour estimer une valeur de BPM, mais elle nécessite généralement un ajustement supplémentaire pour être totalement synchronisée avec la chanson.
+Dans l'onglet [Timing](/wiki/Beatmap_Editor/Timing) de l'[éditeur de beatmap](/wiki/Beatmap_Editor), vous trouverez un outil d'estimation du BPM. Cet outil calcule un BPM et un décalage à partir de l'utilisateur qui joue pendant que la chanson est jouer. Cette méthode est utile pour estimer une valeur de BPM, mais elle nécessite généralement un ajustement supplémentaire pour être totalement synchronisée avec la chanson.
 
-La plupart des chansons modernes utilisent un seul BPM, ce qui nécessite un seul point de timing. Les chansons plus complexes peuvent nécessiter plusieurs points de timing et des réinitialisations de timing pour être synchronisées correctement. Les points de timing sont représentés par des lignes rouges sur la ligne de temps en bas de l'éditeur.
+La plupart des chansons modernes utilisent un seul BPM, ce qui nécessite un seul timing points. Les chansons plus complexes peuvent nécessiter plusieurs timing points et des réinitialisations de timing pour être synchronisées correctement. Les timing points sont représentés par des lignes rouges sur la timeline en bas de l'éditeur.
 
 ## Gameplay
 

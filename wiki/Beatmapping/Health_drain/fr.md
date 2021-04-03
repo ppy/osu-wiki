@@ -5,10 +5,10 @@ tags:
   - passive drain
 ---
 
-# Drain de vie
+# Health drain
 
-Le **Drain de [Santé](/wiki/Beatmapping/Health) est le drainage naturel de la barre de santé<!-- TODO : link --> qui se produit lorsque vous jouez une [beatmap](/wiki/Beatmap). Le drainage de la santé dépend du paramètre de difficulté [HP drain rate](/wiki/Beatmapping/HP_drain_rate).
+Le **[Health](/wiki/Beatmapping/Health) drain** est le drainage naturel de la barre de santé qui se produit lorsque vous jouez une [beatmap](/wiki/Beatmap). Le health drain dépend du paramètre de difficulté [HP drain rate](/wiki/Beatmapping/HP_drain_rate).
 
-Le drain de santé est uniquement actif en [osu!standard](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch). Il ne prend pas non plus effet avant le début du jeu ou pendant les pauses.
+Le health drain est uniquement actif dans les modes [osu!standard](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch). Il ne prend pas non plus effet avant le début du jeu ou pendant les pauses.
 
 <!--TODO: Insert links-->

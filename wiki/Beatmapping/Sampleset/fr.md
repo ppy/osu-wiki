@@ -4,7 +4,7 @@ stub: true
 
 # Sampleset
 
-Un **sampleset** est la collection d'effets sonores qui sont entendus pendant le jeu.
+Un **sampleset** sont des d'effets sonores qui sont entendus pendant le jeu.
 
 Il existe trois types de sons :
 
@@ -20,4 +20,4 @@ Parmi ces types, il y a trois ajouts différents de hitsound qui sont joués par
 
 Un hitsound *normal* est utilisé par défaut lorsque l'un des sampleset ci-dessus est utilisé.
 
-D'autres parties d'un sampleset peuvent inclure les tick sound du slider et le son émis lors du remplissage du mètre du spinner.
+D'autres parties d'un sampleset peuvent inclure les ticksound du slider et le son émis lors du remplissage du mètre du spinner.
