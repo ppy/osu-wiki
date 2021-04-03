@@ -8,7 +8,7 @@ tags:
 
 ![OIT 2021 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #11 (2021)** (***OIT 2021***) is an Indonesian double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) and co-hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), and ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825). It is the eleventh iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #11 (2021)** (***OIT 2021***) was an Indonesian double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) and co-hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), and ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825). It was the eleventh iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -32,9 +32,11 @@ The **osu! Indonesia Tournament #11 (2021)** (***OIT 2021***) is an Indonesian d
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 4 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 2 months of osu!supporter |
 
+![Profile badge](img/badge.jpg)
+
 ## Organization
 
-OIT 2021 is run by various osu! community members predominantly hailing from Indonesia.
+OIT 2021 was run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -96,6 +98,10 @@ Listed below are players who qualified into the Round of 32 (along with their re
 | 32 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | 31.7 |
 
 ¹ ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) decided to withdrew from the competition entirely during the course of the Round of 32. Under the unanimous discretion of all staff members and other participating players, the* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) vs* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) match was awarded to* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) by default and* ![][flag_ID] *[Splacten](https://osu.ppy.sh/users/10018405), the 33rd-seeded player based on the Qualifier results, was later admitted in* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649)'s place from the start of the Lower Bracket onwards.*
+
+## Podium
+
+![Champion: rho, 2nd place: Skydiver, 3rd place: Crezz](img/podium.jpg)
 
 ## Mappools
 
@@ -303,6 +309,20 @@ Listed below are players who qualified into the Round of 32 (along with their re
   - [Sunpon - Skyscraper Grief (Natteke) \[Happy's Lunatic\]](https://osu.ppy.sh/beatmapsets/15200#osu/69390)
 
 ## Match results
+
+### Finals (week 2)
+
+Friday, 26 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Crezz](https://osu.ppy.sh/users/7108275) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/79111217) |
+
+Saturday, 27 March 2021, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **7** | 4 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/79206937) |
 
 ### Finals (week 1)
 
