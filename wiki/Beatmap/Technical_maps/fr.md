@@ -8,21 +8,21 @@ tags:
   - term
 ---
 
-# Cartes techniques
+# Beatmap technique
 
 <!-- Line to be added eventually: *Not to be confused with [Slider Art](link) or [Taikosu maps](link) -->
 
 *Remarque : Dans le cadre de cet article, le terme "tech map" sera considéré comme un terme générique qui inclut toutes ces définitions.*
 
-**Les cartes techniques** (souvent abrégées en "tech map") sont un terme qui n'a pas de définition claire et acceptée par la communauté osu! Selon l'utilisateur, une "carte technique" peut être aussi large qu'une [beatmap](/wiki/Beatmap) qui contient simplement des [patterns](/wiki/Beatmap/Pattern) non génériques, ou aussi spécifique qu'une beatmap dense en [object](/wiki/Hit_object) et contenant de nombreuses formes irrégulières de [slider](/wiki/Hit_object/Slider) qui changent rapidement et radicalement de vitesse (souvent à haute intensité).
+Les **beatmaps techniques** (souvent abrégées en "tech map") est un terme qui n'a pas de définition claire et acceptée par la communauté osu!. Selon l'utilisateur, une "beatmap technique" peut être aussi large qu'une [beatmap](/wiki/Beatmap) qui contient simplement des [patterns](/wiki/Beatmap/Pattern) non génériques, ou aussi spécifique qu'une beatmap dense en [object](/wiki/Hit_object) et contenant de nombreuses formes irrégulières de [slider](/wiki/Hit_object/Slider) qui changent rapidement et radicalement de vitesse (souvent à haute intensité).
 
-Les cartes techniques sont le plus souvent associées à des genres musicaux qui offrent des sons complexes et rapides (par exemple, drum-and-bass, dubstep et drumstep), car elles permettent souvent au mappeur d'explorer en détail chaque son individuel, ce qui profite à la beatmap. Bien que la musique de ce type ne soit pas explicitement requise.
+Les beatmaps techniques sont le plus souvent associées à des genres musicaux qui offrent des sons complexes et rapides (par exemple, drum-and-bass, dubstep et drumstep), car elles permettent souvent au mappeur d'explorer en détail chaque son individuel, ce qui profite à la beatmap. Bien que la musique de ce type ne soit pas explicitement requise.
 
-Indépendamment de la définition, de nombreux joueurs affirment que les cartes tech sont injustes (en termes de compétences) en raison de l'augmentation principale de la difficulté découlant principalement ou uniquement des motifs confus ou des curseurs irréguliers. De même, cela signifie qu'elles ne sont pas très populaires pour gagner de grandes quantités de [pp](/wiki/Performance_Points) en une seule fois, en raison de la façon dont le système actuel fonctionne et de la manière dont il sous-évalue les beatmaps de cette nature.
+Indépendamment de la définition, de nombreux joueurs affirment que les tech map sont injustes (en termes de compétences) en raison de l'augmentation principale de la difficulté découlant principalement ou uniquement des motifs confus ou des sliders irréguliers. De même, cela signifie qu'elles ne sont pas très populaires pour gagner de grandes quantités de [pp](/wiki/Performance_Points) en une seule fois, en raison de la façon dont le système actuel fonctionne et de la manière dont il sous-évalue les beatmaps de cette nature.
 
 ## Définitions
 
-En raison de la nature générale du terme "carte technique", il existe de nombreux aspects différents qui peuvent décrire ce terme. Les listes ci-dessous décrivent différentes définitions de "types" de joueurs populaires.
+En raison de la nature générale du terme "beatmap technique", il existe de nombreux aspects différents qui peuvent décrire ce terme. Les listes ci-dessous décrivent différentes définitions de "types" de joueurs populaires.
 
 ### Définition la plus large
 
