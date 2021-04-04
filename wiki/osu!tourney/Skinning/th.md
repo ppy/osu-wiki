@@ -18,4 +18,4 @@ Client จะแสดงไอคอนที่อยู่ใน `/Skins/User
 
 ชื่อของไอคอนต้องตรงกับชื่อของทีม เช่นถ้าห้องถูกเรียกว่า `Test Tourney: (Team 1) vs (Team 2)` ไอคอนต้องมีชื่อว่า `Team 1.jpg` และ `Team 2.jpg` ไอคอนสามารถเป็น `.jpg` หรือ `.png` ก็ได้ และความคมชัดควรเป็น 50x50px
 
-[โหลดรูปแบบสกิน](https://s.ppy.sh/images/tournament/template.zip) เพื่อที่จะตกแต่ง Client
+[โหลดรูปแบบสกิน](https://s.ppy.sh/images/tournament/template.zip) เพื่อที่จะตกแต่ง client

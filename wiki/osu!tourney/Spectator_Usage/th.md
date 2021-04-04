@@ -15,9 +15,9 @@
 
 หน้าที่ของปุ่มแต่ละอันได้ถูกอธิบายไว้ข้างล่าง:
 
-- `Sync music`: Client จะพยายาม resync เสียงเพลงให้ตรงกับ hitsounds
+- `Sync music`: Client จะพยายามซิงค์เสียงเพลงให้ตรงกับ hitsounds อีกรอบ
 - `Toggle annotation`: เปิด/ปิด คำอธิบายประกอบ (annotation) จะมีการอธิบายเพิ่มเติมด้านล่าง
-- `Panic`: กดปุ่มนี้เมื่อมีอะไรผิดปกติ เช่น ตัวเกมไม่ยอม spectate ผู้เล่น หรือตัวเกม crash ปุ่มนี้จะเปิดเกมใหม่ <!-- I can't really think of a straight and easy to understand way to translate reinitialize -->
+- `Panic`: กดปุ่มนี้เมื่อมีอะไรผิดปกติ เช่น ตัวเกมไม่ยอม spectate ผู้เล่น หรือตัวเกม crash ปุ่มนี้จะเปิดหน้าจอ osu! ทั้งหมดขึ้นมาใหม่
 - `Exit`: ปิดตัว client
 
 หน้าที่ของกล่องข้อความแต่ละอันได้ถูกอธิบายไว้ข้างล่าง:
