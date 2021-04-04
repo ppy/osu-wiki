@@ -14,7 +14,7 @@ tags:
 
 *For the complete history of osu!, see: [History of osu!](/wiki/History_of_osu!)*
 
-Every year, the [osu! team](/wiki/People/The_Team) likes to play pranks on the community on April Fools' day. This article contains a list of all the April Fools' day jokes that have been played on the osu! community since 2009.
+Every year, the [osu! team](/wiki/People/The_Team) likes to play pranks on the community on April Fools' day. This article lists all April Fools' day jokes that have been played on the osu! community since 2009.
 
 ## 2009
 
@@ -36,7 +36,7 @@ For the 2010 April Fools' prank, the osu! website along with the in-game main me
 
 ![](img/2010-touhosu-website.jpg "The osu! website on 1 April 2009")
 
-The joke largely stems from a [long-standing feature request](https://osu.ppy.sh/community/forums/topics/19307) to create a [game mode](/wiki/Game_mode) based on the currently-existing [osu!catch](/wiki/Game_mode/osu!catch) game mode, and the core gameplay from the Touhou Project [[8]][r].
+The joke largely stems from a [long-standing feature request](https://osu.ppy.sh/community/forums/topics/19307) to create a [game mode](/wiki/Game_mode) based on the currently-existing [osu!catch](/wiki/Game_mode/osu!catch) game mode with the core gameplay from the Touhou Project games [[8]][r].
 
 There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/102335) jokingly remarking that buying an osu!supporter tag would show a naked Marisa Kirisame on the main menu screen instead of a fully clothed one. However, this claim was only a joke and was quickly disproven by others [[9]][r].
 
@@ -72,7 +72,7 @@ The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of bea
 
 — Cyclone, "Bad Apple Ranking Chart!" [[21,22]][r]
 
-The chart was opened on 1 April 2012 and closed on 2 April 2012. At the end of the ranking period, player [Mesita](https://osu.ppy.sh/users/201459) was the number one player with a ranked score of 145,623,328 [[23]][r].
+The chart was opened on 1 April 2012 and closed on 2 April 2012. At the end of the ranking period, [Mesita](https://osu.ppy.sh/users/201459) was the number one player with a ranked score of 145,623,328 [[23]][r].
 
 The beatmaps included in the ranking chart are listed below:
 
@@ -95,7 +95,7 @@ The "Bad Apple!!" music video had been some sort of an in-joke at the time with 
 
 ### BanchoBot becomes a tsundere
 
-On 1 April 2013, [BanchoBot](/wiki/BanchoBot) was turned into a [tsundere](https://en.wikipedia.org/wiki/Tsundere "Wikipedia"). On this April Fools' day, any time a user would issue a command to BanchoBot or prompt it to speak in a public chat, its chat messages would be replaced with stereotypical tsundere-like responses to a romantic interest [[24,25,26,27,28,29]][r].
+On 1 April 2013, [BanchoBot](/wiki/BanchoBot) was turned into a [tsundere](https://en.wikipedia.org/wiki/Tsundere "Wikipedia"). On this April Fools' day, every time a user would issue a command to BanchoBot or prompt it to speak in a public chat, its chat messages would be replaced with stereotypical tsundere-like responses to a romantic interest [[24,25,26,27,28,29]][r].
 
 ![](img/2013-regular-banchobot.jpg "Interactions with BanchoBot in 2019")
 
@@ -119,7 +119,7 @@ On 1 April 2014, the osu! main menu screen was temporarily changed (shown below)
 
 *See also: [osu!coin](/wiki/osu!coin)*
 
-![](img/2015-osucoins.png "Three osu! coins")
+![](img/2015-osucoins.png "The osu! coins")
 
 On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a newspost](https://osu.ppy.sh/home/news/2015-03-31-osucoins) that announced the addition of a new in-game currency, called "osu!coins" [[33,34]][r]. The newspost explained what the in-game currency was and how it worked along with a specially-created [osu!academy video](https://www.youtube.com/watch?v=BImc5McuK1o "YouTube"). Along with this, peppy also joked that his reasoning behind the change was due to the fact that the current monetary gain from player donations would not have been enough to buy him a personal jet within his lifetime:
 
@@ -131,7 +131,7 @@ On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a newspost](http
 
 In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must have spent one osu!coin, and once they ran out of osu!coins, they would either have to stop playing and wait until the next day, or pay real money to get more osu!coins. In spite of this description, however, actual gameplay was not affected, and users could just continue playing as normal, even if all their osu!coins were depleted [[33,35,36,37]][r].
 
-The main screen of osu! also had a barrage of slowly rising osu!coins in the background, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop. Additional new textures, sound effects, animations, and music were created for this prank, including a counter that would display the amount of coins players had throughout their plays. [[37,38]][r]. <!--needs further verification; also not sure if this paragraph is necessary or not-->
+The main screen of osu! also had a barrage of slowly rising osu!coins in the background, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop. Additional new textures, sound effects, animations, and music were created for this prank, including a counter that would display the amount of coins players had throughout their plays. [[37,38]][r]. <!--needs further verification-->
 
 The update was generally well-received by players and saw some actual support for a future implementation without the monetization. Despite this, peppy rolled back the implementation of osu!coins the following day with [a remark in its corresponding changelog update](https://osu.ppy.sh/comments/121803) about the feedback [[35,39,40,41]][r].
 
@@ -179,9 +179,9 @@ On 1 April 2018 the [osu! cookie](/wiki/Glossary/Cookie) on the main menu screen
 
 ## 2019
 
-### Sneezing girl sound effect (2019)
+### Sneezing girl sound effect
 
-For April Fools' day 2019 there was approximately a 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a beatmap [[68,69,70]][r].
+For the April Fools' day of 2019, there was approximately a 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a beatmap [[68,69,70]][r].
 
 ---
 
@@ -199,7 +199,7 @@ For April Fools' day 2019 there was approximately a 1 in 20 chance of hearing th
 
 ["MillhioreF - Waltz o' the Irish (MillhioreF)"](https://osu.ppy.sh/beatmapsets/73348#osu/326585)—a long-running joke beatmap within the community—was also [Loved](/wiki/Beatmap/Category#loved) on 31 March 2020 as part of this joke.
 
-### Sneezing girl sound effect (2020)
+### Sneezing girl sound effect
 
 April Fools' day 2020 recycled the same joke from the previous year, which caused an approximately 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a beatmap [[72,73]][r].
 
@@ -207,7 +207,7 @@ April Fools' day 2020 recycled the same joke from the previous year, which cause
 
 ## 2021
 
-### Sneezing girl sound effect (2021)
+### Sneezing girl sound effect
 
 April Fools' day 2021 recycled the same joke from the previous two years, which was a 1 in 20 chance of hearing a sound effect of a high-pitched girl sneezing upon opening a beatmap [[74,75]][r].
 
