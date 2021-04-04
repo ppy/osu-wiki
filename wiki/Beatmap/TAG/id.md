@@ -13,4 +13,4 @@ Dalam mode ini, setiap pemain bertanggung jawab untuk satu [komboset](/wiki/id/B
 
 [Tingkat kesulitan](/wiki/id/Beatmap/Difficulty) TAG biasanya dilambangkan dengan penggunaan istilah "TAG" dalam nama kesulitan beatmap. Pada nama kesulitan "TAG" biasanya diikuti dengan angka, dengan khusus menunjukkan jumlah pemain yang harus bergabung untuk beatmap tersebut (misalnya, "TAG2" untuk dua pemain atau "TAG4" untuk empat pemain).
 
-Karena sifatnya, tingkat kesulitan TAG tidak diranked atau Loved, karena tingkat kesulitan TAG disengaja dirancang agar hampir mustahil dimainkan oleh hanya satu pemain.
+Karena sifatnya, tingkat kesulitan TAG tidak memiliki status Ranked maupun Loved, karena tingkat kesulitan TAG sengaja dirancang agar hampir mustahil dimainkan oleh satu pemain.
