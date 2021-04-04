@@ -1,0 +1,9 @@
+---
+stub: true
+---
+
+# Overlap
+
+![](img/overlap.jpg "Exemple d'un hit circle recouvrant un sliderhead.")
+
+Un **overlap** apparaît lorsque des [hit objects](/wiki/Hit_Objects) se touchent sans créer de [stacking](/wiki/Mapping_Techniques/Stack).
