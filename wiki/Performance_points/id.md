@@ -34,7 +34,7 @@ Performance point memiliki tumpuan besar pada kalkulasi tingkat kesulitan suatu 
 
 Tingkat kesulitan dari beatmap yang dimainkan menentukan jumlah akhir pp dari skor mereka. Secara matematis, rumus penghitungan pp memiliki empat nilai inti: **[aim](#aim)**, **[speed](#speed)**, **[akurasi](#accuracy)**, dan **[strain](#strain)**. Semuanya kemudian digabungkan dalam ukuran yang berbeda-beda untuk menghasilkan skor keseluruhan yang terkait dengan tingkat [kesulitan](/wiki/id/Beatmap/Difficulty) dan performa pemain dalam beatmap tersebut.
 
-Setelah itu, skor "dibobotkan" satu sama lain untuk memastikan bahwa hanya skor-skor terbaik yang didapatkan pemain yang paling berpengaruh terhadap  ranking performance point mereka secara keseluruhan. Diketahui sebagai [*sistem pembobotan*](#weightage-system), sistem ini bertujuan untuk mencegah perolehan skor dengan pp kecil secara cepat dan berulang pada beatmap yang mudah dengan mengurangi jumlah pp yang sebenarnya diperoleh berdasarkan skor terbaik lainnya yang dimiliki pemain tersebut.
+Setelah itu, skor "dibobotkan" satu sama lain untuk memastikan bahwa hanya skor-skor terbaik yang didapatkan pemain yang paling berpengaruh terhadap  ranking performance point mereka secara keseluruhan. Diketahui sebagai [*sistem pembobotan*](#sistem-pembobotan), sistem ini bertujuan untuk mencegah perolehan skor dengan pp kecil secara cepat dan berulang pada beatmap yang mudah dengan mengurangi jumlah pp yang sebenarnya diperoleh berdasarkan skor terbaik lainnya yang dimiliki pemain tersebut.
 
 *Catatan: Sejumlah kecil pp bonus diberikan berdasarkan pada jumlah map Ranked yang sudah kamu dapatkan skor.*
 
@@ -103,7 +103,7 @@ Pertimbangkan tip-tip berikut ini:
 
 Performance points menggunakan sistem pemboboton, yang berarti skor paling tinggimu memberikan 100% jumlah pp-nya, dan setiap skor yang kamu dapatkan setelahnya memberikan lebih sedikit secara bertahap.
 
-Kamu bisa mempelajari lebih lanjut tentang sistem pemboboton [di atas](#weightage-system). 
+Kamu bisa mempelajari lebih lanjut tentang sistem pemboboton [di atas](#sistem-pembobotan). 
 
 ### Berapa banyak pp bonus yang diberikan untuk mendapatkan skor dalam banyak beatmap Ranked?
 
