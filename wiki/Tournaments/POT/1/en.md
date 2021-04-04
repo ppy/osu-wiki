@@ -31,7 +31,7 @@ The **PERAK osu! Tournament** was a double-elimination 1v1 osu!standard tourname
 
 ## Organization
 
-The PERAK osu! Tournament is run by various Indonesian osu! community members.
+The PERAK osu! Tournament was run by various Indonesian osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
