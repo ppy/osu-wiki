@@ -8,11 +8,11 @@ tags:
 
 ![TKBC2 Logo](img/logo.png)
 
-**Taiko Korean Beatmap Contest #2** (***TKBC2***)는 한국인을 위한 태고 대회입니다. TKBC 2회차에 대한 내용을 담고 있습니다.
+**Taiko Korean Beatmap Contest #2** (***TKBC2***)는 ![][flag_KR]한국인을 위한 태고 대회입니다. Taiko Korean Beatmap Contest 2회차에 대한 내용을 담고 있습니다.
 
 ## 대회 일정
 
-| 일정 | 날짜 (UTC +9) |
+| 일정 | 날짜 (UTC +09) |
 | --: | :-- |
 | 제출 기간 | 2020-11-30/2020-12-27 |
 | 심사 기간 | 2020-12-28/2021-01-17 |
@@ -23,6 +23,7 @@ tags:
 ### 대회 규칙
 
 - osu! taiko 모드의 매핑 대회입니다.
+- 주제는 눈(Snow) 또는 별(Star)입니다.
 - 제시되는 주제 혹은 장르에 맞는 곡을 직접 고르신 뒤 맵을 만들어 제출하시면 됩니다.
 - Drain Time 기준 80초 이상 150초 미만이어야합니다.
 - 제출되는 난이도는 'Oni' 이상이어야합니다. 이 이상의 난이도는 전부 'Inner Oni'로 간주합니다.
@@ -41,18 +42,13 @@ tags:
 - Source랑 Tags는 전부 비워주세요.
 - 이메일에 아티스트와 곡명, 그리고 주제와 연관되는 간략한 이유를 포함해서 제출해주시기 바랍니다.
 
-## 주제
-
-- 눈
-- 별
-
 ## 상품
 
 | 순위 | 상품 |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 프로필 뱃지 |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 서포터 2개월 |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 서포터 1개월 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 프로필 뱃지 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 서포터 2개월 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 서포터 1개월 |
 
 ## 주최
 
@@ -68,9 +64,9 @@ Taiko Korean Beatmap Contest #2는 한국 태고 매핑 커뮤니티 인원들�
 
 | 순위 | 매퍼 |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [ddm](https://osu.ppy.sh/users/7910282) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [ddm](https://osu.ppy.sh/users/7910282) |
 
 ## 링크
 
