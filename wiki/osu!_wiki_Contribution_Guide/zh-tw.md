@@ -88,6 +88,7 @@
    如果是文章翻譯的 pull request ，請在標題前面加上翻譯語言的雙字母代號，並以方括弧包起來，而標題可以只寫您翻譯的文章名字就好。例如 `[FR] BBCode` 表示您更新了 [BBCode](/wiki/BBCode) 這篇文章的法文翻譯。
 
 9. 在說明欄寫下您的修改的概要，包括任何與您的 pull request 相關的資訊，例如進度及任何您想要審閱者知道的資訊。您同時也可以讓您的 pull request 被合併之後自動關閉 issue。只要在說明欄寫下 "resolves #1" 或 "closes #1" (詳見 Github 說明頁的 [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/))。
+
 10. 完成後，點擊 `Create pull request`。
 
     ![](img/new-pull-request.png)
