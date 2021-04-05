@@ -63,7 +63,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
-| Mappool selector (Global) | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555) |
+| Mappool selector (Global) | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555) |
 | Mappool selector (Asia) | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) |
 | Mappool selector (Europe) | ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438), ![][flag_DE] [xMrtn-](https://osu.ppy.sh/users/866297) |
 | Mappool selector (North America) | ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934) |
