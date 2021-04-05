@@ -83,7 +83,56 @@ The 3 Digit World Cup is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Voss](https://osu.ppy.sh/users/7657761)**, [Rinnu](https://osu.ppy.sh/users/12179012), [majoreh](https://osu.ppy.sh/users/7959222), [Kingling](https://osu.ppy.sh/users/7010761), [Jemzsee](https://osu.ppy.sh/users/11553627), [Doomsday](https://osu.ppy.sh/users/18983) |
 | ![][flag_US] | **United States** | **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, [Exarch](https://osu.ppy.sh/users/5370153), [Apraxia](https://osu.ppy.sh/users/4194445), [Woey](https://osu.ppy.sh/users/3792472), [Flezlin](https://osu.ppy.sh/users/3696423), [Tekkito](https://osu.ppy.sh/users/7075211) |
 
+## Match schedule: Round of 16
+
+### Saturday, 10 April 2021
+
+| Team A | Team B | Match time | Local time A | Local time B |
+| --: | :-- | :-: | :-: | :-: |
+| Taiwan ![][flag_TW] | ![][flag_AU] Australia | **10:00 UTC** | 18:00 UTC+08 | 20:00 UTC+10 |
+| Sweden ![][flag_SE] | ![][flag_JP] Japan | **11:00 UTC** | 13:00 UTC+02 | 20:00 UTC+09 |
+| Germany ![][flag_DE] | ![][flag_CN] China | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
+| Russia ![][flag_RU] | ![][flag_GB] United Kingdom | **13:00 UTC** | 17:00 UTC+04 | 14:00 UTC+01 |
+
+### Sunday, 11 April 2021
+
+| Team A | Team B | Match time | Local time A | Local time B |
+| --: | :-- | :-: | :-: | :-: |
+| United States ![][flag_US] | ![][flag_KR] South Korea | **03:00 UTC** | 21:00 (Fri.) UTC-06 | 12:00 UTC+09 |
+| Poland ![][flag_PL] | ![][flag_FR] France | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
+| Brazil ![][flag_BR] | ![][flag_FI] Finland | **15:00 UTC** | 12:00 UTC-03 | 18:00 UTC+03 |
+| Countryless ![][flag_XX] | ![][flag_CA] Canada | **16:00 UTC** | 16:00 UTC+00 | 11:00 UTC-05 |
+
 ## Mappools
+
+### Round of 16
+
+- NoMod
+  - [Kurosaki Maon - Setsuna no Kajitsu (jonathanlfj) \[captin lfj's Paradise\]](https://osu.ppy.sh/beatmapsets/332112#osu/1900365)
+  - [m108 - \* Crow Solace \* (knowledgeking) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/1338384#osu/2772466)
+  - [Nanahoshi Kangengakudan - No,39 (pkk) \[No Sankyuu\]](https://osu.ppy.sh/beatmapsets/531488#osu/1126317)
+  - [seatrus - MONONOKE (Realazy) \[Cubby's Expert\]](https://osu.ppy.sh/beatmapsets/1280194#osu/2733296)
+  - [fallen shepherd feat. RabbiTon Strings - ENDYMION (Acylica) \[Realazy(Frenchcore)\]](https://osu.ppy.sh/beatmapsets/1291409#osu/2680522)
+  - [Saint Snow - CRASH MIND (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/1134448#osu/2369018)
+- Hidden
+  - [Ayaponzu\* - Streaming Heart (Lasse) \[Karen's Extra\]](https://osu.ppy.sh/beatmapsets/552702#osu/1172667)
+  - [lapix - shime (Extended Mix) (Livia) \[Collab\]](https://osu.ppy.sh/beatmapsets/1144604#osu/2389811)
+  - [Lizean - Shinde Shimau towa Nasakenai! (Yugu) \[BAKA x BAKA x BAKA\]](https://osu.ppy.sh/beatmapsets/1052264#osu/2199070)
+- HardRock
+  - [Jin ft.MARiA from GARNiDELiA - daze (deetz) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/306746#osu/695893)
+  - [Ling Yuan yousa - Shen De Sui Bo Zhu Liu (Rizen) \[Karen's Expert\]](https://osu.ppy.sh/beatmapsets/650303#osu/1395662)
+  - [Nanawo Akari - One Room Sugar Life (Fushimi Rio) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/818245#osu/1730526)
+- DoubleTime
+  - [Minato Aqua - #Aquairo Palette (Yuuma) \[Ne Motto\]](https://osu.ppy.sh/beatmapsets/1244542#osu/2587040)
+  - [Nekomata Master - Sennen no Kotowari (celerih) \[Real's EXHAUST\]](https://osu.ppy.sh/beatmapsets/647730#osu/1438536)
+  - [HTT - Gohan wa Okazu (Sumisola) \[Insane\]](https://osu.ppy.sh/beatmapsets/21872#osu/77580)
+  - [ak+q & Redeilia - Enigma Helix (Icekalt) \[Celeslashed's Hard\]](https://osu.ppy.sh/beatmapsets/867825#osu/1814067)
+- FreeMod
+  - [Akatsuki Records - Trance Dance Anarchy (papapa213) \[Dancing!\]](https://osu.ppy.sh/beatmapsets/1056140#osu/2207263)
+  - [Renard - TU4AR (Mercurius) \[Nogard\]](https://osu.ppy.sh/beatmapsets/28997#osu/97934)
+  - [SHK - Identity Part III (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/280329#osu/634351)
+- Tiebreaker
+  - **[USAO - Extra Mode (\_MiaoFUuU\_) \[Rhythm Crisis\]](https://osu.ppy.sh/beatmapsets/579451#osu/1226973)**
 
 ### Qualifiers
 
@@ -127,7 +176,7 @@ The 3 Digit World Cup is run by various community members.
 ### Match instructions
 
 - Round of 16 and Quarterfinals
-   - Best of 11, 2 Bans, 5NM/2HD/2HR/3DT/2FM/1TB
+   - Best of 11, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 - Semifinals
    - Best of 11, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 - Finals and Grand Finals
