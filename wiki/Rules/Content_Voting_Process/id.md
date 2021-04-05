@@ -1,35 +1,35 @@
-# Content voting process
+# Proses pengkajian konten
 
-Content submitted to the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (BN), [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (GMT) and the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) for review undergoes a special voting process as outlined below.
+Konten-konten yang diajukan kepada para anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (BN), [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (GMT), dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) untuk dikaji lebih lanjut akan melalui beberapa tahapan dalam proses pengkajiannya sebagaimana yang tertera di bawah ini.
 
-## Process
+## Proses kajian
 
-1. A mapper, modder or concerned member of the community raises any visual element in a beatmap for review under the [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations) by reporting it via the [BN website](https://bn.mappersguild.com/reports).
-2. The report is assessed by the NAT and for all but the most obvious situations, a new "content case" is made live and available for voting as soon as possible. All members of the BN, GMT and NAT are eligible to vote.
-3. While the vote is active, any map containing said visual element cannot be nominated or qualified. If the map is qualified, it is temporarily disqualified while the discussion continues.
-4. The vote concludes after a period of 3 days without any new votes, or 7 days since the vote began, whichever comes first.
+1. Pada mulanya, para mapper, modder, atau pengguna lainnya yang merasa menemukan suatu hal/konten pada beatmap yang disinyalir melanggar [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations) melaporkan hasil temuan mereka melalui situs web Beatmap Nominator.
+2. Laporan yang masuk tersebut akan diperiksa keabsahannya oleh NAT, di mana NAT kemudian akan membuka “berkas kasus” (*content case*) untuk konten yang bersangkutan. Masing-masing anggota BN, GMT, dan NAT kemudian akan menyatakan suaranya secara terpisah terkait apakah konten yang bersangkutan layak untuk dipergunakan di osu! atau tidak.
+3. Pada saat berkas kasus yang bersangkutan masih terbuka, beatmap-beatmap yang dilaporkan tidak dapat dinominasikan ataupun di-qualify. Beatmap-beatmap yang sebelumnya sudah berstatus Qualified akan didiskualifikasi dengan segera.
+4. Berkas kasus yang bersangkutan akan secara otomatis ditutup apabila dalam rentang waktu 3 hari tidak ada suara baru yang masuk atau apabila 7 hari telah berlalu.
 
-## Outcome
+## Hasil pengkajian
 
-The voting is tallied using a simple cascading system as described below:
+Hasil pemungutan suara yang ada akan menentukan apakah konten yang bersangkutan dinyatakan layak untuk dipergunakan di osu! atau tidak sebagai berikut:
 
-- **If there is a consensus of 70% on a particular answer from the combined GMT and NAT votes, that answer is used as the outcome of the vote.**
-- If there is no consensus of 70% from the combined GMT and NAT vote, the BN vote is then merged into the total votes.
-- If the merged vote is 70% yes or above, the content is considered acceptable and is allowed to be used.
-- If the merged vote is below 70% yes, the content is judged to be not allowed for use and must be removed and changed immediately.
+- **Apabila suara-suara yang masuk dari anggota-anggota GMT dan NAT mencapai suatu konsensus (70% suara “yes” atau 70% suara “no”), maka konsensus tersebut akan menentukan apakah konten yang bersangkutan dinyatakan layak atau tidak.**
+- Apabila suara-suara yang masuk dari anggota-anggota GMT dan NAT tidak mencapai suatu konsensus, maka suara-suara yang masuk dari anggota-anggota BN akan turut dijadikan bahan pertimbangan.
+- Apabila total suara “yes” yang masuk dari anggota-anggota GMT, NAT, dan BN setelah digabungkan mencapai bilangan 70% atau lebih, maka konten yang bersangkutan dinyatakan layak.
+- Apabila total suara “yes” yang masuk dari anggota-anggota GMT, NAT, dan BN setelah digabungkan tidak melebihi 70%, maka konten yang bersangkutan tidak dinyatakan layak dan harus dihapus dengan segera dari lingkungan osu!.
 
-Once a result has been achieved, the outcome is **final** and cannot be contested by any means save for intervention from the osu!team.
+Keputusan-keputusan di atas bersifat **mutlak** dan tidak dapat diganggu gugat kecuali apabila terdapat intervensi lebih lanjut dari pihak osu!team.
 
-### Examples
+### Contoh kasus
 
-Ultralazer420 finds a background for his new beatmap that he wants to use, but is unsure if it is allowed. Following the process above, he puts it up for vote.
+Ultralazer420 tidak yakin apakah gambar yang hendak ia gunakan sebagai gambar latar untuk beatmap miliknya melanggar Pertimbangan Konten Visual atau tidak. Ia pun mengajukan gambar yang bersangkutan untuk dikaji lebih lanjut.
 
-After 3 days, the vote has concluded, and the results come back.
+Setelah 3 hari, ia mendapatkan kabar seputar gambar yang ia ajukan tersebut.
 
-52% of the GMT and NAT agreed that the image was okay. 48% did not.
+Ternyata, hanya 52% anggota GMT dan NAT yang menyatakan bahwa gambar tersebut layak guna. 48% sisanya mengajukan keberatan.
 
-This means that the BN votes are now merged into the total votes, and those are used to determine the outcome.
+Karena suara-suara GMT dan NAT tidak mengarah pada suatu konsensus, maka (sesuai prosedur yang ada) suara-suara BN akan turut dijadikan bahan pertimbangan dalam kasus ini.
 
-After factoring in the BN votes with the GMT and NAT votes, 67% of the vote agrees that the image is okay, 33% do not. 
+Setelah dihitung ulang, rupanya hanya 67% dari keseluruhan anggota GMT, NAT, dan BN yang menyatakan bahwa gambar tersebut layak guna. 33% sisanya mengajukan keberatan.
 
-As this does not reach the 70% threshold required for the image to pass, the image is considered unacceptable and Ultralazer420 is asked to find another one to use instead.
+Mengingat jumlah suara “yes” yang masuk tidak mencapai 70%, gambar tersebut dinyatakan tidak layak guna dan Ultralazer420 diharuskan untuk menggantinya dengan gambar lain yang lebih layak.
