@@ -12,7 +12,7 @@ tags:
 
 Le **Ranking** (alternativement appelé "leaderboards") est une liste qui classe les membres de la communauté d'osu! selon certains critères.
 
-Tous les classements, à l'exception des classements individuels, peuvent être consultés en passant la souris sur le menu `raknings` de l'en-tête du site. Pour le classement individuel d'une beatmap, vous pouvez le trouver sur la page d'information de la beatmap.
+Tous les classements, à l'exception des classements individuels, peuvent être consultés en passant la souris sur le menu `rankings` de l'en-tête du site. Pour le classement individuel d'une beatmap, vous pouvez le trouver sur la page d'information de la beatmap.
 
 ## Classement des points de performance
 
