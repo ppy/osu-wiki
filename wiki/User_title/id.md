@@ -8,7 +8,9 @@ tags:
 
 # Gelar pengguna
 
-![Cuplikan laman profil Tom94](img/dev.png "Gelar \“osu!dev\” sebagaimana yang tersemat pada laman profil Tom94.")
+*Untuk melihat daftar nama-nama pengguna yang memiliki gelar khusus, harap kunjungi laman [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles).*
+
+![Cuplikan laman profil Tom94](img/dev.png "Gelar \"osu!dev\" sebagaimana yang tersemat pada laman profil Tom94.")
 
 **Gelar pengguna** merupakan label atau tajuk khusus yang tersemat pada laman profil pengguna. Suatu gelar pengguna pada umumnya disematkan oleh [osu!team](/wiki/People/The_Team) untuk menandakan status keanggotaan seseorang di dalam [gugus pengguna (*user group*)](/wiki/People/The_Team#user-groups) tertentu. Meskipun demikian, terdapat beberapa gelar yang [diberikan secara khusus](/wiki/People/Users_with_unique_titles) kepada pengguna-pengguna tertentu sebagai bentuk apresiasi atas pencapaian yang telah mereka raih dalam bidangnya masing-masing.
 
@@ -18,14 +20,27 @@ Gelar-gelar yang disematkan pada pengguna pada umumnya akan terpajang dengan war
 
 ### Gelar-gelar yang terkait dengan jumlah postingan forum
 
-![Cuplikan tampilan profil Damnae pada forum osu! terdahulu](img/star-shooter.png "Gelar \“Star Shooter\” sebagaimana yang tersemat di atas jumlah postingan forum Damnae.
+![Cuplikan tampilan profil Damnae pada forum osu! terdahulu](img/star-shooter.png "Gelar \"Star Shooter\" sebagaimana yang tersemat di atas jumlah postingan forum Damnae.
 ")
 
 <!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
 
-Pada [situs web osu! yang lama](https://old.ppy.sh), terdapat beberapa gelar yang akan secara otomatis disematkan kepada para pengguna yang telah menulis postingan forum dalam jumlah tertentu. Gelar-gelar ini hanya dapat dilihat pada laman forum dan tidak akan muncul pada laman profil masing-masing pengguna.
+Pada [situs web osu! yang lama](https://old.ppy.sh), terdapat beberapa gelar yang akan secara otomatis disematkan kepada para pengguna yang telah menulis postingan forum dalam jumlah tertentu sebagai berikut:
 
-<!-- TODO: list all of the titles and their requirements -->
+| Gelar forum | Total postingan forum |
+| :-: | :-- |
+| Rhythm Rookie | 0-4 |
+| Tempo Trainee | 5-14 |
+| Whistle Blower | 15-29 |
+| Cymbal Sounder | 30-49 |
+| Beat Clicker | 50-79 |
+| Slider Savant | 80-119 |
+| Spinner Sage | 120-179 |
+| Star Shooter | 180-259 |
+| Combo Commander | 260-499 |
+| Rhythm Incarnate | 500+ |
+
+Adapun gelar-gelar di atas hanya dapat dilihat pada laman forum dan tidak akan muncul pada laman profil masing-masing pengguna.
 
 ## Trivia
 
