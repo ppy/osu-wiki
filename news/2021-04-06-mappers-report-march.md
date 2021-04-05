@@ -1,0 +1,173 @@
+---
+layout: post
+title: "The Mappers' Report: March"
+date: 2020-04-06 08:00:00 +0000
+---
+
+Extra! Extra! Read all about it! It's time for another issue of your favorite newspost, the Mappers' Report!
+
+![](/wiki/shared/news/banners/the-mappers-report.jpg)
+
+This month's issue of the Mappers' Report contains the following topics:
+
+- **[Ranking Criteria Changes](#rc-changes)**
+- **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
+- **[Mappers' Showcase](#mappers-showcase)**
+- **[Mapping Contests](#mapping-contests)**
+- **[Around the Community](#around-community)**
+- **[Conclusion](#conclusion)**
+
+## <a id="rc-changes"></a>Ranking Criteria Changes
+
+As always, we start with this month's ranking criteria changes. Let's hop right in and see what happened this month. 
+
+### All Modes
+
+- **[General guideline to strongly recommend crediting the creator of the map's background](https://osu.ppy.sh/community/forums/topics/1191040)**: This change aims to give credit where it is due. If your beatmap contains elements from other people's work, such as an artwork opted as the background, make sure to refer to them in the beatmap description.
+
+### osu!mania
+
+- **[Allow ranking 10-Key beatmaps](https://osu.ppy.sh/community/forums/topics/1285594)**: A long-awaited change for the entire osu!mania community. You can now finally rank beatmaps which use 10-keys, and smash all your ten fingers to play osu!mania! 
+
+## Open Ranking Criteria Proposals 
+
+### All Modes
+
+- [Remove Song Restrictions from Qualified](https://osu.ppy.sh/community/forums/topics/1282982)
+- [Add guideline for maximum SV for Easy diffs](https://osu.ppy.sh/community/forums/topics/1285933)
+- [Guideline regarding sudden drops in hitsound volume](https://osu.ppy.sh/community/forums/topics/1278789)
+
+### osu!catch
+
+- [osu!catch RC rework (part 1)](https://osu.ppy.sh/community/forums/topics/1265691)
+
+## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
+
+As with every other month, we are once again here to show you which poor souls decided to sell themselves for the better. Here is a list of all recent Beatmap Nominator movements. 
+
+### BN Additions
+
+- **osu!:** [VINXIS](https://osu.ppy.sh/users/4323406), [AJT](https://osu.ppy.sh/users/3181083), [Sylas](https://osu.ppy.sh/users/3906405) & [Kudosu](https://osu.ppy.sh/users/11038155)
+- **osu!taiko:** [Horiiizon](https://osu.ppy.sh/users/8071438), [gevbiivi5](https://osu.ppy.sh/users/7140680) & [-Aku](https://osu.ppy.sh/users/12315824)
+- **osu!catch:** [NyalettOwO x3](https://osu.ppy.sh/users/7592136) & [wonjae](https://osu.ppy.sh/users/5032045)
+- **osu!mania:** [Paran](https://osu.ppy.sh/users/13340203), [Komirin](https://osu.ppy.sh/users/4725379) & [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608)
+
+Do you like modding and helping other people with their beatmaps? Do you want to see your own name on this list? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator!
+
+The applications are always open, so head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today!
+
+### BN Departures
+
+- **osu!:** [Lafayla](https://osu.ppy.sh/users/5312547), [riffy](https://osu.ppy.sh/users/597957), [Battle](https://osu.ppy.sh/users/4037545) & [BaAR_Vendel](https://osu.ppy.sh/users/8679346)
+- **osu!taiko:** [frukoyurdakul](https://osu.ppy.sh/users/7612550)
+- **osu!catch:** [GIGACHAD](https://osu.ppy.sh/users/11081858), [Phob](https://osu.ppy.sh/users/6069462) & [Secre](https://osu.ppy.sh/users/2306637)
+
+### NAT Additions
+
+A new red-name appeared out of nowhere! [Zelq](https://osu.ppy.sh/users/8953955) has decided to join the red crusade after two years as a BN and will support the NAT from now on by ensuring that the constant flow of Beatmap Nominators won't come to an end. Once again, welcome to the team Zelq!
+
+What's better than one new red-name? Of course, two of them! [Agatsu](https://osu.ppy.sh/users/5579871) has ascended to the NAT after roughly one and a half years within the BNs. With the same mission as Zelq, Agatsu has rolled up his sleeves to work alongside the NAT to better the mapping and modding community. Welcome to the team Agatsu!
+
+## BN and QAT/NAT Badges
+
+Last but not least, it's been a while since we last time included the badges in the Mappers' Report. Therefore, the list will be a little longer this time! They all received their badge for their longstanding contributions as a BN or a member of the QAT or NAT to their respective game mode. We are thankful for all their contributions and hope to see much more in the future!
+
+Here is the list of everyone who received a badge this past session:
+
+| Badge | User |
+| :-- | :-- |
+| ![BN Badge (1 year)](https://assets.ppy.sh/profile-badges/BN1y.png "Longstanding contribution to the Beatmap Nominators - 1 year") | [-Aqua](https://osu.ppy.sh/users/7150015), [Agatsu](https://osu.ppy.sh/users/5579871), [AirinCat](https://osu.ppy.sh/users/11119539), [Amiichii](https://osu.ppy.sh/users/9228569), [Bunnrei](https://osu.ppy.sh/users/829284), [Capu](https://osu.ppy.sh/users/2474015), [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [Dapuluous](https://osu.ppy.sh/users/8140944), [Dubstek](https://osu.ppy.sh/users/9555243), [frukoyurdakul](https://osu.ppy.sh/users/7612550), [Greenshell](https://osu.ppy.sh/users/8693851), [Hobbes2](https://osu.ppy.sh/users/8157492), [Kamuy](https://osu.ppy.sh/users/7439226), [kanpakyin](https://osu.ppy.sh/users/394326), [Keiga](https://osu.ppy.sh/users/6866022), [Peter](https://osu.ppy.sh/users/8623835), [PokeSky](https://osu.ppy.sh/users/3617111), [radar](https://osu.ppy.sh/users/7131099), [Riana](https://osu.ppy.sh/users/1997633), [Roasted Chicken](https://osu.ppy.sh/users/9461160), [Secre](https://osu.ppy.sh/users/2306637), [SMOKELIND](https://osu.ppy.sh/users/9327302), [Smokeman](https://osu.ppy.sh/users/2140676), [Stack](https://osu.ppy.sh/users/6122935), [Teky](https://osu.ppy.sh/users/10520912), [Uberzolik](https://osu.ppy.sh/users/1314547), [Voxa](https://osu.ppy.sh/users/9229539), [Yales](https://osu.ppy.sh/users/2377881) |
+| ![BN Badge (2 years)](https://assets.ppy.sh/profile-badges/BN2y.png "Longstanding contribution to the Beatmap Nominators - 2 years") | [-Keitaro](https://osu.ppy.sh/users/3378391), [_Stan](https://osu.ppy.sh/users/1653229), [Benita](https://osu.ppy.sh/users/4023183), [Beomsan](https://osu.ppy.sh/users/3626063), [Cris-](https://osu.ppy.sh/users/6175280), [Crissa](https://osu.ppy.sh/users/5405836), [eiri-](https://osu.ppy.sh/users/3388410), [fieryrage](https://osu.ppy.sh/users/3533958), [hypercyte](https://osu.ppy.sh/users/9155377), [Icekalt](https://osu.ppy.sh/users/5410645), [Jemzuu](https://osu.ppy.sh/users/7890134), [Lafayla](https://osu.ppy.sh/users/5312547), [Milan-](https://osu.ppy.sh/users/1052994), [Mirash](https://osu.ppy.sh/users/2841009), [pimp](https://osu.ppy.sh/users/328615), [riffy](https://osu.ppy.sh/users/597957), [Rizen](https://osu.ppy.sh/users/3056732), [skylaa](https://osu.ppy.sh/users/9505704), [Sparhten](https://osu.ppy.sh/users/7601720), [Spectator](https://osu.ppy.sh/users/702598), [Yahuri](https://osu.ppy.sh/users/4682629), [Yugu](https://osu.ppy.sh/users/3161834), [Zelq](https://osu.ppy.sh/users/8953955) |
+| ![BN Badge (3 years)](https://assets.ppy.sh/profile-badges/BN3y.jpg "Longstanding contribution to the Beatmap Nominators - 3 years") | [Andrea](https://osu.ppy.sh/users/33599), [Arzenvald](https://osu.ppy.sh/users/3027421), [autofanboy](https://osu.ppy.sh/users/636114), [Hinsvar](https://osu.ppy.sh/users/1249323), [Myxo](https://osu.ppy.sh/users/2202645), [Nao Tomori](https://osu.ppy.sh/users/5364763), [Nardoxyribonucleic](https://osu.ppy.sh/users/876419), [Nevo](https://osu.ppy.sh/users/7451883), [Raiden](https://osu.ppy.sh/users/2239480), [Realazy](https://osu.ppy.sh/users/918297), [TheKingHenry](https://osu.ppy.sh/users/5128277), [timemon](https://osu.ppy.sh/users/2072005) |
+| ![BN Badge (4 years)](https://assets.ppy.sh/profile-badges/BN4y.jpg "Longstanding contribution to the Beatmap Nominators - 4 years") | [Mafumafu](https://osu.ppy.sh/users/3076909), [Rivals_7](https://osu.ppy.sh/users/4610379), [Stefan](https://osu.ppy.sh/users/626907), [Xinely](https://osu.ppy.sh/users/1521445) |
+| ![BN Badge (5 years)](https://assets.ppy.sh/profile-badges/BN5y.jpg "Longstanding contribution to the Beatmap Nominators - 5 years") | [Kawawa](https://osu.ppy.sh/users/4647754), [neonat](https://osu.ppy.sh/users/1561995), [Nozhomi](https://osu.ppy.sh/users/2716981), [tasuke912](https://osu.ppy.sh/users/2774767) |
+| ![NAT Badge (1 year)](https://assets.ppy.sh/profile-badges/QAT1y.png "Longstanding contribution to the Nomination Assessment Team - 1 year") | [Greaper](https://osu.ppy.sh/users/2369776), [Leniane](https://osu.ppy.sh/users/7138602), [Nepuri](https://osu.ppy.sh/users/6637817), [Seto Kousuke](https://osu.ppy.sh/users/2857314), [Tyistiana](https://osu.ppy.sh/users/1421452), [yaspo](https://osu.ppy.sh/users/4945926) |
+| ![QAT/NAT Badge (2 years)](https://assets.ppy.sh/profile-badges/QAT2y.png "Longstanding contribution to the QAT/NAT - 2 years") | [Kibbleru](https://osu.ppy.sh/users/3193504), [Noffy](https://osu.ppy.sh/users/1541323) |
+| ![QAT/NAT Badge (3 years)](https://assets.ppy.sh/profile-badges/QAT3y.jpg "Longstanding contribution to the QAT/NAT - 3 years") | [-Mo-](https://osu.ppy.sh/users/2202163), [Lasse](https://osu.ppy.sh/users/896613), [Naxess](https://osu.ppy.sh/users/8129817) |
+| ![QAT/NAT Badge (4 years)](https://assets.ppy.sh/profile-badges/QAT4y.jpg "Longstanding contribution to the QAT/NAT - 4 years") | [Feerum](https://osu.ppy.sh/users/4815717), [pishifat](https://osu.ppy.sh/users/3178418) |
+
+## <a id="mappers-showcase"></a>Mappers' Showcase
+
+It's time for the Mappers' Showcase. This month, we will feature two hidden gems from osu!taiko. Should you be into hitting drums, you've got to check them out for sure!
+
+Huge thanks to the selectors of this issue, [Hivie](https://osu.ppy.sh/users/14102976) and [radar](https://osu.ppy.sh/users/7131099)!
+
+### Maimaing
+
+A newer yet very promising mapper, [Maimaing](https://osu.ppy.sh/users/14520910) has quickly caught the ropes of mapping and has been on the rise the moment he started delving into the editor since late 2020.
+
+His name quickly started spreading among the Japanese community and later into the general scene upon his first steps towards the ranked section. His very first ranked beatmap, [PSYQUI - Hype feat. Such (lapix Remix)](https://osu.ppy.sh/beatmapsets/1316175), a well-crafted map featuring fascinating rhythms and patterning, provides the players with a great experience that gives the song justice.
+
+Another event that highlights his ever-growing potential is him joining the roster of the custom mappers for osu!taiko World Cup 2021! He has attained the chance to create a DT map for the Group Stage. Thus, he took the opportunity to bring the v-tuber atmosphere to the TWC in the form of [hololive IDOL PROJECT - SHIJOSHUGI ADTRUCK](https://osu.ppy.sh/beatmapsets/1387197), offering a challenging and fun experience for players to compete on, featuring rhythms that will surely put your finger control skills to the test.
+
+While he still has a long way to reach his full potential, it will be quite fascinating to see how Maimaing will develop as a mapper later on. He's always trying something new, so make sure to check out his other works, and maybe subscribe to this profile if you're interested enough in what he'll make next.
+
+### X a v y
+
+A mapper, whose popularity has been on the rise among high-level players, [X a v y](https://osu.ppy.sh/users/3738344) burst into the ranked section for the first time in early 2021 with [Houshou Marine - Ahoy!! Warera Houshou Kaizokudan\*](https://osu.ppy.sh/beatmapsets/1282787), a marathon of a song composed by a fairly popular Virtual YouTuber. However, this didn't happen before amassing a very sizable catalog of pending/graveyarded challenge maps. If you are a high-level player, he is sure to have something in his graveyard that will suit your tastes!
+
+That being said, even if you're a casual drum-roller, he still has quite a few maps to offer! Check out [Yuiphex - My Red H3ad Girl](https://osu.ppy.sh/beatmapsets/1407922) and [Jouhoushori-bu - Setsuna Iro (tamame's EZC remix)](https://osu.ppy.sh/beatmapsets/1381626), both of which feature well-structured lower difficulties that ensure such a smooth playing experience as his higher difficulty creations!
+
+We're very excited to see what X a v y will produce in the coming months and hope to see his dedication forge him into a truly excellent mapper!
+
+## <a id="mapping-contests"></a>Mapping Contests
+
+You are up for contests, but you prefer mapping over playing? Then search no more. We have some terrific contests to offer, which still accept participants. All quality-checked and perceived as good!
+
+### Hyperpop Beatmapping Contest
+
+Do you like Hyperpop music? Do you like clicking or placing circles? Then we have a perfect contest for you: [Hyperpop Beatmapping Contest](https://osu.ppy.sh/community/forums/topics/1283577 "Thread")! This osu! mapping contest aims to introduce more mappers to the underrated music genre, Hyperpop. Never heard of it, yet curious? No problem! The registrations are up until the **April 11th**. 
+
+Of course, what could be more exciting than the rewards? The first place gets a shiny new badge for their osu! profile, together with 3 months of osu! supporter. However, the second and third places won't be left out. Their achievement will also be rewarded with osu! supporter.
+
+So what are you waiting for, go and check it out! 
+
+### A Labour of Love: Voting Open
+
+Remember the [Labour of Love](https://osu.ppy.sh/wiki/en/Contests/A_Labour_of_Love_Contest) contest? Submissions are in, and now it's on you to pick the winner, but you have only two votes to cast out of eight incredible mapsets. Don't forget that you also have only less than a week to vote!
+
+So make sure to check them all out and vote for your favorite. You can find all the submissions and download them on the [Labour of Love contest page](https://osu.ppy.sh/community/contests/115).
+
+We're excited to see who will take the trophy home!
+
+## <a id="around-community"></a>Around the Community
+
+Last but not least, we want to give other mapping-related projects a voice that does not fit in any of the categories above. All have the same goal: Helping the community. Should you be interested in it, make sure to check them out!
+
+### Community Mentorship Program Spring 2021
+
+The Mentorship program is back with another cycle! Are you interested in mapping but have no idea where to start? Or, are you looking for people to convey your ingenious mapping techniques? Then search no more. The [Community Mentorship Program](https://osu.ppy.sh/community/forums/topics/1273766 "Thread") is exactly what you are looking for.
+
+In this program, experienced mappers will teach people interested in how to create a beatmap. Whether it be osu!, osu!taiko, osu!catch or osu!mania, the program has mapping mentors from every game mode. While the mentor signups have already been closed, the mentee signups will open on **April 19th** and will remain up until **April 25th**. Save the date!
+
+If you have ever wanted to learn how to map, do not waste this chance and sign up now! You can find all the vital information in the forum thread linked above.
+
+### Advanced beatmap search is here!
+
+Always wanted to search for older beatmaps but hated having to scroll through the endless pages of the beatmap listing? Then we have good news for you! The [beatmap listing page](https://osu.ppy.sh/beatmapsets) has been significantly improved and now finally supports advanced searching functions. You can search for beatmaps ranked in a specific year, for example, by using `ranked=2010`. You may also search for specific keys for osu!mania beatmaps, via `keys=7`. 
+
+A complete list of possible search options can be found on the [Interface wiki page](https://osu.ppy.sh/wiki/en/Interface#search "Wiki").
+
+### dsco's Guide to Making and Ranking the First Mapset
+
+If you have ever wondered how a beatmap is created from scratch and carried all over to the ranked section, this is your lucky day because we have an answer for you! [dsco](https://osu.ppy.sh/users/4330511), a mapper and modder with quite a few years-long experience, has livestreamed for over 9 hours in order to guide his viewers into creating a beatmap and getting it ranked. Throughout his livestream, he began mapping [Litku Klemetti - Jaakuningatar (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1421834) from scratch and carried it to the ranking queue at the very end. 
+
+Exhibiting all stages of a beatmap from choosing the song all the way to having it nominated, the livestream eventually became a fruitful guide for those wishing to learn the essentials regarding mapping, modding, and ranking.
+
+Curious? Here is a video-on-demand to the stream that compiles all aspects of mapping in 9 hours:
+
+<iframe src="https://player.twitch.tv/?video=974267996&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
+
+<a id="conclusion"></a>
+
+---
+
+And that's it for the March issue of the Mappers' Report! 
+
+Should you know anything mapping or modding related, be it guides, podcasts or videos, let us know. We would love to touch upon them in the next issue of Mappers' Report! 
+
+You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord").
+
+Hope to see you there soon. Thank you for reading, stay safe and healthy!
+
+—Feerum, radar, Hivie & Zeus-
