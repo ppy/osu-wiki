@@ -30,15 +30,15 @@ On the forum sections of the [old osu! website](https://old.ppy.sh)<!-- TODO: wi
 
 | Forum title | Total post count |
 | :-: | :-- |
-| Rhythm Rookie | 0-4 |
-| Tempo Trainee | 5-14 |
-| Whistle Blower | 15-29 |
-| Cymbal Sounder | 30-49 |
-| Beat Clicker | 50-79 |
-| Slider Savant | 80-119 |
-| Spinner Sage | 120-179 |
-| Star Shooter | 180-259 |
-| Combo Commander | 260-499 |
+| Rhythm Rookie | 0–4 |
+| Tempo Trainee | 5–14 |
+| Whistle Blower | 15–29 |
+| Cymbal Sounder | 30–49 |
+| Beat Clicker | 50–79 |
+| Slider Savant | 80–119 |
+| Spinner Sage | 120–179 |
+| Star Shooter | 180–259 |
+| Combo Commander | 260–499 |
 | Rhythm Incarnate | 500+ |
 
 These titles were only visible on the sidebars of forum posts (not on the users' profiles) and were not shown if another custom title was already set prior.
