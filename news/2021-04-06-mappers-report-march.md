@@ -124,7 +124,7 @@ So what are you waiting for, go and check it out!
 
 ### A Labour of Love: Voting Open
 
-Remember the [Labour of Love](https://osu.ppy.sh/wiki/en/Contests/A_Labour_of_Love_Contest) contest? Submissions are in, and now it's on you to pick the winner, but you have only two votes to cast out of eight incredible mapsets. Don't forget that you also have only less than a week to vote!
+Remember the [Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest? Submissions are in, and now it's on you to pick the winner, but you have only two votes to cast out of eight incredible mapsets. Don't forget that you also have only less than a week to vote!
 
 So make sure to check them all out and vote for your favorite. You can find all the submissions and download them on the [Labour of Love contest page](https://osu.ppy.sh/community/contests/115).
 
@@ -146,7 +146,7 @@ If you have ever wanted to learn how to map, do not waste this chance and sign u
 
 Always wanted to search for older beatmaps but hated having to scroll through the endless pages of the beatmap listing? Then we have good news for you! The [beatmap listing page](https://osu.ppy.sh/beatmapsets) has been significantly improved and now finally supports advanced searching functions. You can search for beatmaps ranked in a specific year, for example, by using `ranked=2010`. You may also search for specific keys for osu!mania beatmaps, via `keys=7`. 
 
-A complete list of possible search options can be found on the [Interface wiki page](https://osu.ppy.sh/wiki/en/Interface#search "Wiki").
+A complete list of possible search options can be found on the [Interface wiki page](/wiki/Interface#search).
 
 ### dsco's Guide to Making and Ranking the First Mapset
 
