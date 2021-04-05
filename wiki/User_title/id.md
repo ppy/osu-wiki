@@ -25,7 +25,7 @@ Gelar-gelar yang disematkan pada pengguna pada umumnya akan terpajang dengan war
 
 <!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
 
-Pada [situs web osu! yang lama](https://old.ppy.sh), terdapat beberapa gelar yang akan secara otomatis disematkan kepada para pengguna yang telah menulis postingan forum dalam jumlah tertentu sebagai berikut:
+Pada [situs web osu! yang lama](https://old.ppy.sh), terdapat beberapa gelar yang akan secara otomatis disematkan kepada para pengguna yang telah menulis postingan forum dalam jumlah tertentu sebagai berikut: <!-- https://osu.ppy.sh/community/forums/posts/2306316 -->
 
 | Gelar forum | Total postingan forum |
 | :-: | :-- |
