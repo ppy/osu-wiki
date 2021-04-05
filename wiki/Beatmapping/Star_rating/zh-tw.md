@@ -25,4 +25,3 @@ tags:
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+ (達達人+): 6.5★ 以上
 
 大部分圖譜的難度都與被給予的圖示相符，但某些圖譜卻大相逕庭。所以[審核標準](/wiki/Ranking_Criteria)在決定難度和評估圖譜上變得更加嚴格。
-<!-- TODO: add Star rating calculation formula -->
