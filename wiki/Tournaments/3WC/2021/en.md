@@ -98,7 +98,7 @@ The 3 Digit World Cup is run by various community members.
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
-| United States ![][flag_US] | ![][flag_KR] South Korea | **03:00 UTC** | 21:00 (Fri.) UTC-06 | 12:00 UTC+09 |
+| United States ![][flag_US] | ![][flag_KR] South Korea | **03:00 UTC** | 21:00 (Sat.) UTC-06 | 12:00 UTC+09 |
 | Poland ![][flag_PL] | ![][flag_FR] France | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
 | Brazil ![][flag_BR] | ![][flag_FI] Finland | **15:00 UTC** | 12:00 UTC-03 | 18:00 UTC+03 |
 | Countryless ![][flag_XX] | ![][flag_CA] Canada | **16:00 UTC** | 16:00 UTC+00 | 11:00 UTC-05 |
