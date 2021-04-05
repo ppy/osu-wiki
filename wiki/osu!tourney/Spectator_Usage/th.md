@@ -25,18 +25,18 @@
 - `Annotation text`: ข้อความที่แสดงเป็นคำอธิบายประกอบ
 - `Best Of`: อัปเดตจำนวนของดาวด้านบนตามจำนวนของแมตช์ที่ต้องแข่ง
 
-![When a room is created correctly, it will be listed instead of the instructions](img/Osutourneyroomlist.png)
+![เมื่อห้องถูกสร้างขึ้นอย่างถูกต้อง มันจะแสดงขึ้นแทนที่วิธีการใช้งาน](img/Osutourneyroomlist.png)
 
 ถ้าทำการกดชื่อห้องที่ทำการสร้างอย่างถูกต้อง จะทำให้ client รับชมห้องนั้น
 
-![Team and player names are assigned automatically](img/Osutourneyidle.png)
+![ทีมและชื่อผู้เล่นจะถูกมอบหมายให้โดนอัตโนมัติ](img/Osutourneyidle.png)
 
-![The current team score and the currently playing song are displayed](img/Osutourneyspectate.png)
+![คะแนนรวมของทีม และเพลงที่กำลังเล่นอยู่จะถูกแสดงขึ้นมา](img/Osutourneyspectate.png)
 
-![A winner is declared automatically upon the conclusion of a match, and a star is filled for the winning team. Failed players are blacked out.](img/Osutourneyresults.png)
+![ผู้ชนะจะถูกคำนวนโดยอัตโนมัติหลังจากผลสรุปของแมตช์ และจะเติมดาวให้ทีมที่ชนะ ผู้เล่นที่ failed ไปจะแสดงจอสีดำ](img/Osutourneyresults.png)
 
 คุณสามารถคลิกซ้ายหรือขวาเพื่อเพิ่มหรือลดคะแนนของแต่ละทีมได้
 
-![A message can be displayed by activating the annotation from the control panel](img/Osutourneywarmup.png)
+![ข้อความสามารถถูกแสดงขึ้นได้โดยการเปิด annotation จากแผงควบคุม](img/Osutourneywarmup.png)
 
 เมื่อเปิดใช้งาน ข้อความในกล่องข้อความในแผงควบคุมจะแสดงขึ้นมาในด้านบนของจอ และคะแนนของแต่ละทีมจะไม่เปลี่ยนหลังจากบีทแมพจบ
