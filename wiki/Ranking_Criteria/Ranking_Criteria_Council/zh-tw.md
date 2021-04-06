@@ -8,7 +8,7 @@
 
 ## 起始成員
 
-Ranking Criteria Council 的成員都經過篩選，需代表不同地區的玩家和譜師。與 [Triumvir Conglomerate][Triumvir Conglomerate] 的成員組成類似。
+Ranking Criteria Council 的成員都經過篩選，需代表不同地區的玩家和譜師。與 [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) 的成員組成類似。
 
 ### osu! 成員
 
