@@ -45,16 +45,16 @@ Berikut ini adalah ciri-ciri modding yang diharapkan dari Beatmap Nominator. Keg
 - [Situs web ini](http://bn.mappersguild.com/bnapps) memiliki alat untuk menghitung `skor mod` di halaman utamanya.
 - Untuk menentukan skor minimum yang dibutuhkan, jumlah total `Skor Mod` dalam tiga bulan terakhir harus lebih besar atau sama dengan nol,
 - Batas minimum keseluruhan ditetapkan berdasarkan nilai berikut:
- - osu!taiko, osu!catch, dan osu!mania: `m` = 3 dan total 150 kudosu atau lebih
- - osu!: `m` = 4 dan total 200 kudosu atau lebih
+  - osu!taiko, osu!catch, dan osu!mania: `m` = 3 dan total 150 kudosu atau lebih
+  - osu!: `m` = 4 dan total 200 kudosu atau lebih
 - Adalah ide yang bagus untuk menjaga skor kamu di atas angka ini, karena dapat sedikit berbeda tergantung pada jumlah pelamar.
 
 ### Bagaimana calon Beatmap Nominator baru dipilih
 
 - `Skor Mod` dari semua pelamar akan diperiksa kembali untuk mengonfirmasi apakah mereka sudah mencapai skor minimum yang dibutuhkan.
 - Modder yang memperoleh skor yang cukup akan dievaluasi oleh anggota NAT yang sesuai dengan mode permainan yang mereka ajukan, dengan mempertimbangkan kriteria berikut:
- - Sikap secara umum: Pola dalam penyampaian mod dan ekspektasi perilaku lainnya berdasarkan [Kode Etik](/wiki/Ranking_Criteria/Code_of_Conduct), termasuk perilaku secara umum dalam obrolan/forum.
- - Kemampuan modding: Pengetahuan tentang [Ranking Criteria](/wiki/Ranking_Criteria) secara umum dan secara spesifik dari setiap mode permainan. Kemampuan tambahan seperti Metadata, Timing, dan lain-lain juga akan dipertimbangkan.
+  - Sikap secara umum: Pola dalam penyampaian mod dan ekspektasi perilaku lainnya berdasarkan [Kode Etik](/wiki/Ranking_Criteria/Code_of_Conduct), termasuk perilaku secara umum dalam obrolan/forum.
+  - Kemampuan modding: Pengetahuan tentang [Ranking Criteria](/wiki/Ranking_Criteria) secara umum dan secara spesifik dari setiap mode permainan. Kemampuan tambahan seperti Metadata, Timing, dan lain-lain juga akan dipertimbangkan.
 - Setelah mengevaluasi setiap modder, sebuah diskusi akan dilakukan untuk mengetahui apakah modder tersebut akan bergabung dengan Nominator Beatmap.
 
 ## Cooldown
