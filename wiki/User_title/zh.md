@@ -11,6 +11,7 @@ tags:
   - titles
   - user color # these can be removed if a dedicated page for "user colour" is added
   - user colour
+outdated: true
 ---
 
 # 用户头衔

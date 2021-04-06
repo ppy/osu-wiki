@@ -145,7 +145,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 | Placing | Results | Original Artists |
 | :-: | :-- | :-- |
-| ![Gold Crown][GCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [FictionJunction](https://vimeo.com/61327345) |
+| ![Gold Crown][GCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | FictionJunction |
 | ![Silver Crown][SCrown] | [Sharlo](https://osu.ppy.sh/users/1622450) - 緋色月下、狂咲ノ絶 -1st Anniversary Remix- | EastNewSound |
 | ![Bronze Crown][BCrown] | [MissTitannia](https://osu.ppy.sh/users/4490361) - *unknown* | *unknown* |
 
@@ -158,9 +158,9 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 | Placing | Results | Original Artists |
 | :-: | :-- | :-- |
-| ![Gold Crown][GCrown] | [Sagi](https://osu.ppy.sh/users/491799) - [Systematic Love](http://flan.s-ul.eu/OQXT0SsA) | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8) |
-| ![Silver Crown][SCrown] | [CptHampton](https://osu.ppy.sh/users/3200587) - [Drumming Song](http://flan.s-ul.eu/ZCA8KxCl) | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
-| ![Bronze Crown][BCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Hyadain no Kakakata☆Kataomoi](http://flan.s-ul.eu/8w5u4phq) | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4) |
+| ![Gold Crown][GCrown] | [Sagi](https://osu.ppy.sh/users/491799) - Systematic Love | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8) |
+| ![Silver Crown][SCrown] | [CptHampton](https://osu.ppy.sh/users/3200587) - Drumming Song | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
+| ![Bronze Crown][BCrown] | [yealina](https://osu.ppy.sh/users/139551) - Hyadain no Kakakata☆Kataomoi | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4) |
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [News post](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)
