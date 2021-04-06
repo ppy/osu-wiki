@@ -96,7 +96,7 @@ A big thank you goes out to the showcase selectors for this issue, namely [Hivie
 
 ### Maimaing
 
-A newer yet very promising mapper, [Maimaing](https://osu.ppy.sh/users/14520910) has quickly caught on to the particulars of mapping and has been something of a rising start from the moment he started delving into the editor in late 2020.
+A newer yet very promising mapper, [Maimaing](https://osu.ppy.sh/users/14520910) has quickly caught on to the particulars of mapping and has been something of a rising star from the moment he started delving into the editor in late 2020.
 
 His name quickly started spreading among the Japanese community and later into the general scene upon his first steps towards the ranked section, particularly with his very first ranked beatmap, [PSYQUI - Hype feat. Such (lapix Remix)](https://osu.ppy.sh/beatmapsets/1316175). This well-crafted map features fascinating rhythms and patterning, creating an experience that really does the song justice and is great to play as well.
 
@@ -140,7 +140,7 @@ Last but certainly not least, here's a rundown of all the other mapping and modd
 
 The Mentorship program is back with another cycle! Are you interested in mapping but have no idea where to start? Or, are you looking for people to convey your ingenious mapping techniques? The [Community Mentorship Program](https://osu.ppy.sh/community/forums/topics/1273766) is exactly what you are looking for.
 
-In this program, experienced mappers are allocated groups of people to tutor on both basic and advanced beatmapping concepts. Whether it be osu!, osu!taiko, osu!catch or osu!mania, the program has mapping mentors from every game mode, and many of the more recently popular mappers have been participants in the program in the past. 
+In this program, experienced mappers are allocated groups of people to tutor on both basic and advanced beatmapping concepts. Whether it is osu!, osu!taiko, osu!catch or osu!mania, the program has mapping mentors from every game mode, and many of the more recently popular mappers have been participants in the program in the past. 
 
 While the mentor signups have already been closed, the mentee signups will open on **April 19th** and will remain up until **April 25th**. Take a look at the project and save the date, it could be your big break into the scene!
 
