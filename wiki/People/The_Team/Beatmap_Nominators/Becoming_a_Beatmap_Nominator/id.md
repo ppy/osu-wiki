@@ -65,7 +65,7 @@ Bergantung pada status Anda, persyaratan cooldown dan mod skor Anda sebelum Anda
 
 Anda memiliki persyaratan ini jika Anda gagal dalam melamar dan kembali mengajukan lamaran tersebut.
 
-| **Tipe** | **Cooldown** | **Persyaratan Aktivitas** |
+| Tipe | Cooldown | Persyaratan Aktivitas |
 | :-- | :-- | :-- |
 | Standar | 90 hari | `Skor Mod` lebih dari 0 selama 90 hari |
 | Dikurangi | 60 hari | `Skor Mod` lebih dari 0 selama 90 hari |
@@ -79,7 +79,7 @@ Jika Anda sebelumnya adalah seorang Beatmap Nominator, persyaratan ini akan dite
 
 If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were Beatmap Nominators.
 
-| **Tipe** | **Cooldown** | **Persyaratan Aktivitas** |
+| Tipe | Cooldown | Persyaratan Aktivitas |
 | :-- | :-- | :-- |
 | Standar | 90 hari | `Skor Mod` lebih dari 0 selama 90 hari |
 | Aktivitas | 60 hari | Tidak ada hubungannya dengan `Skor Mod`, tetapi terdapat 8 mod dalam 60 hari |
