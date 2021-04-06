@@ -24,7 +24,7 @@ tags:
 - Deskripsi: `Kursor akan digerakkan secara otomatis - Anda hanya perlu mengikuti ritme lagu! ** UNRANKED **`
 - Mode permainan yang cocok: ![][o!s]
 
-## Tentang
+## Deskripsi
 
 *Perhatian: Penggunaan mod Auto akan menyebabkan permainan menjadi unranked dan tidak akan tersimpan di papan peringkat lokal.*
 
