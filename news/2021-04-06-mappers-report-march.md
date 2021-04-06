@@ -135,7 +135,7 @@ We're excited to see who will take the trophy home!
 
 ## <a id="around-community"></a>Around the Community
 
-Last but not certainly not least, here's a rundown of all the other mapping and modding related projects that are going on in the community at the moment:
+Last but certainly not least, here's a rundown of all the other mapping and modding related projects that are going on in the community at the moment:
 
 ### Community Mentorship Program Spring 2021
 
