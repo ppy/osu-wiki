@@ -71,7 +71,7 @@ Recommended for older PCs or for conserving battery on a laptop.
 
 ### Optimal
 
-This frame limiter attempts to keep a frame rate 8x your refresh rate, with a maximum of 960Hz. This is our recommended frame limiter for users who don’t want to run their CPU/GPU to extremities, while maintaining high levels of performance resulting in low input latency.
+This frame limiter attempts to keep a frame rate 8x your refresh rate, with a maximum of 960fps. This is our recommended frame limiter for users who don’t want to run their CPU/GPU to extremities, while maintaining high levels of performance resulting in low input latency.
 
 Can be preferred to unlimited in order to reduce the number of frames rendered, in turn leading to less potential for [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science) "Wikipedia") overhead (which can result in spike frames).
 
@@ -86,3 +86,19 @@ While this may seem like the best option (and indeed can be, if your hardware ca
 - GPUs generally aren’t meant to render 1000+ frames per second, so unexpected behaviour may occur, including lower performance or higher latency than otherwise attainable.
 
 Even so, if heat generation and potentially overworking your hardware is not considered an issue, unlimited may be the option that provides you the most stable frame times.
+
+### Custom
+
+This frame limiter attempts to keep a frame rate equal to your custom preference. However, this is a setting that cannot be changed to within the in-game menu.
+
+To change osu! custom maximum framerate, you'll need to tweak some values in the config file. Here's the steps:
+
+- Open your osu! folder. (The default is `C:\Users\<yourPCusername>\AppData\Roaming\osu!`.)
+- Open the `osu!.<yourPCusername>.cfg` file with Notepad or any text editors.
+- Find the line `FrameSync = <value>` and change the value to `Custom`.
+- Find the line `CustomFrameLimit = <value>` and change the value to your preference.
+
+This is our recommended frame limiter for users who don’t want to run their CPU/GPU to extremities (but not particularly satisfied with the maximum of 960fps that Optimal gives), resulting in even lower input latency without abusing your CPU/GPU too much with Unlimited.
+
+Note that, if you're using cuttingedge Release Stream, if you change the `CustomFrameLimit` to any number above 999, it will be reverted to 999. On Stable, you can set the value above 1000 normally.
+Also, you can not switch into this setting with F7 shortcut in-game, even if you had done the steps above, (only available via the Settings menu). And you'll need to switch to Custom in the Settings before quitting the game, so it'll be available the next time osu! runs. Else, you'll have to change the `FrameSync` manually again.
