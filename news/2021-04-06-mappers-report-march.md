@@ -124,7 +124,6 @@ Do you like Hyperpop music and enjoy clicking or placing circles? Then we have j
 
 Of course, all good contests come with even better rewards! First place nabs themselves a shiny new badge for their osu! profile plus together with 3 months of osu! supporter, while second and third get a bit of osu!supporter as well for their efforts.
 
-
 ### A Labour of Love: Voting Open
 
 Remember the [Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest? The community vote has been live for over a week now, with eight teams squaring off to fight for your two votes.
