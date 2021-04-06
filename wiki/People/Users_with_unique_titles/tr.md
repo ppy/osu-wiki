@@ -86,7 +86,6 @@ Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wik
 2020 itibariyle, [Beatmap Aday Göstericilerin](/wiki/People/The_Team/Beatmap_Nominators) ve [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) üyelerinin derecelendirme sistemini destekleyici faaliyetleri **Elite Nominator** ünvanıyla ödüllendirilmeye başlandı. Bu ünvan her yılın başında önceki yıl için yapılan katkılar sonucu verilir, ve kullanıcının takımdan ayrılması sonucu profillerinden kaldırılır.
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
-- ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
@@ -231,7 +230,6 @@ Bu oyuncular ya oyunda çılgın bir başarım elde ederek ya da belirli bir zor
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Elite Mapper |
-| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Elite Nominator |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
