@@ -1,3 +1,3 @@
 # .osb (format file)
 
-.osb adalah sebuah file arsip yang mengandung informasi mengenai tentang storyboard osu!.
+.osb adalah sebuah format file yang mengandung informasi mengenai tentang [storyboard osu!](/wiki/Storyboards).
