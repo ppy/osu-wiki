@@ -1,8 +1,10 @@
 # Menjadi seorang Beatmap Nominator
 
-Pengguna yang tertarik untuk bergabung dengan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) harus melalui proses lamaran yang diawasi oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT). Lamaran dilakukan di [situs NAT](http://bn.mappersguild.com/).
+Para pengguna yang tertarik untuk bergabung dengan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) harus melalui proses lamaran yang diawasi oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
 
-Pelamar harus memenuhi persyaratan aktivitas modding, mengirimkan setidaknya dua map yang baru saja mereka mod, dan menyelesaikan sebuah [Tes Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) tentang [Kriteria Ranking](/wiki/Ranking_Criteria) untuk mengirimkan lamaran mereka. Ada waktu jeda selama 90 hari untuk mengirimkan lamaran baru setelah lamaran dikirimkan. Pesan dari NAT akan dikirim setelah penentuan keputusan. Informasi lebih lanjut tentang melamar dapat ditemukan di situs web.
+Lamaran dilakukan di [situs NAT](http://bn.mappersguild.com/).
+
+Pelamar diwajibkan memenuhi persyaratan aktivitas modding, setidaknya mengirimkan dua map yang baru saja mereka mod, dan menyelesaikan [Tes Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) tentang [Ranking Criteria](/wiki/Ranking_Criteria) untuk mengirimkan lamaran mereka. Pesan dari NAT akan dikirim apabila keputusan telah ditentukan. Informasi lebih lanjut tentang melamar dapat ditemukan di situs web.
 
 ## Kriteria dasar
 
@@ -40,17 +42,45 @@ Berikut ini adalah ciri-ciri modding yang diharapkan dari Beatmap Nominator. Keg
 `m` = Jumlah minimum yang diharapkan dari beatmap yang di mod secara individu dalam satu bulan\
 `M` = Jumlah total yang dicapai dari beatmap yang di mod secara individu dalam satu bulan
 
-- [Situs web ini](http://bn.mappersguild.com/bnapps) memiliki alat untuk menghitung skor mod di halaman utamanya.
-- Untuk menentukan `Skor Minimum yang Dibutuhkan`, jumlah total Skor Mod dalam tiga bulan terakhir harus lebih besar atau sama dengan nol,
+- [Situs web ini](http://bn.mappersguild.com/bnapps) memiliki alat untuk menghitung `skor mod` di halaman utamanya.
+- Untuk menentukan skor minimum yang dibutuhkan, jumlah total `Skor Mod` dalam tiga bulan terakhir harus lebih besar atau sama dengan nol,
 - Batas minimum keseluruhan ditetapkan berdasarkan nilai berikut:
- - osu!taiko, osu!catch and osu!mania: m = 3 dan total 150 kudosu atau lebih
- - osu!: m = 4 dan total 200 kudosu atau lebih
+  - osu!taiko, osu!catch, dan osu!mania: `m` = 3 dan total 150 kudosu atau lebih
+  - osu!: `m` = 4 dan total 200 kudosu atau lebih
 - Adalah ide yang bagus untuk menjaga skor kamu di atas angka ini, karena dapat sedikit berbeda tergantung pada jumlah pelamar.
 
 ### Bagaimana calon Beatmap Nominator baru dipilih
 
-- `Skor Mod` dari semua pelamar akan diperiksa kembali untuk mengonfirmasi apakah mereka sudah mencapai `Skor Minimum yang Dibutuhkan`.
+- `Skor Mod` dari semua pelamar akan diperiksa kembali untuk mengonfirmasi apakah mereka sudah mencapai skor minimum yang dibutuhkan.
 - Modder yang memperoleh skor yang cukup akan dievaluasi oleh anggota NAT yang sesuai dengan mode permainan yang mereka ajukan, dengan mempertimbangkan kriteria berikut:
- - Sikap secara umum: Pola dalam penyampaian mod dan ekspektasi perilaku lainnya berdasarkan [Kode Etik](/wiki/Ranking_Criteria/Code_of_Conduct), termasuk perilaku secara umum dalam obrolan/forum.
- - Kemampuan modding: Pengetahuan tentang [Kriteria Ranking](/wiki/Ranking_Criteria) secara umum dan secara spesifik dari setiap mode permainan. Kemampuan tambahan seperti Metadata, Timing, dan lain-lain juga akan dipertimbangkan.
+  - Sikap secara umum: Pola dalam penyampaian mod dan ekspektasi perilaku lainnya berdasarkan [Kode Etik](/wiki/Ranking_Criteria/Code_of_Conduct), termasuk perilaku secara umum dalam obrolan/forum.
+  - Kemampuan modding: Pengetahuan tentang [Ranking Criteria](/wiki/Ranking_Criteria) secara umum dan secara spesifik dari setiap mode permainan. Kemampuan tambahan seperti Metadata, Timing, dan lain-lain juga akan dipertimbangkan.
 - Setelah mengevaluasi setiap modder, sebuah diskusi akan dilakukan untuk mengetahui apakah modder tersebut akan bergabung dengan Nominator Beatmap.
+
+## Cooldown
+
+Bergantung pada status Anda, persyaratan cooldown dan mod skor Anda sebelum Anda melamar kembali sangat bervariasi.
+
+### Lamaran yang gagal
+
+Anda memiliki persyaratan ini jika Anda gagal dalam melamar dan kembali mengajukan lamaran tersebut.
+
+| Tipe | Cooldown | Persyaratan Aktivitas |
+| :-- | :-- | :-- |
+| Standar | 90 hari | `Skor Mod` lebih dari 0 selama 90 hari |
+| Dikurangi | 60 hari | `Skor Mod` lebih dari 0 selama 90 hari |
+| Gagal [Tes Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 hari | `Skor Mod` lebih dari 0 selama 90 hari |
+
+### Bergabung kembali setelah dikeluarkan dari Beatmap Nominator
+
+Pengguna yang sebelumnya keluar dari Beatmap Nominator mempunyai persyaratan yang berbeda dibandingkan dengan mereka yang baru pertama kali bergabung. Untuk pengguna yang mempunyai rekam jejak histori yang baik sebelum keluar dari Beatmap Nominator, mereka dimungkinkan dapat bergabung kembali dengan persyaratan yang lebih mudah. NAT akan memberi tahu pengguna tersebut jika mereka mempunyai kesempatan untuk mempercepat proses mereka kembali menjadi Beatmap Nominator.
+
+Jika Anda sebelumnya adalah seorang Beatmap Nominator, persyaratan ini akan diterapkan kecuali Anda gagal saat terakhir kali melamar Beatmap Nominator.
+
+If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were Beatmap Nominators.
+
+| Tipe | Cooldown | Persyaratan Aktivitas |
+| :-- | :-- | :-- |
+| Standar | 90 hari | `Skor Mod` lebih dari 0 selama 90 hari |
+| Aktivitas | 60 hari | Tidak ada hubungannya dengan `Skor Mod`, tetapi terdapat 8 mod dalam 60 hari |
+| Baik | 30 hari | `Skor Mod` lebih dari 0 selama 30 hari |
