@@ -63,7 +63,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
-| Mappool selector (Global) | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555) |
+| Mappool selector (Global) | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555) |
 | Mappool selector (Asia) | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) |
 | Mappool selector (Europe) | ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438), ![][flag_DE] [xMrtn-](https://osu.ppy.sh/users/866297) |
 | Mappool selector (North America) | ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934) |
@@ -276,6 +276,36 @@ This competition has come to an end and resulted in the following podium:
 ## Mappools
 
 ### Global phase
+
+#### Finals
+
+**[Download the mappack here! (101 MB)](https://mega.nz/file/g9UzxQ4T#sTOYr1vJaw21SU5hR5uGnqFohRcLTEaDc8XOWFxisP4)**
+
+- NoMod
+  - [Camellia - WE ARE \*NOT\* CURZED (rubies87) \[CURZED ONI\]](https://osu.ppy.sh/beatmapsets/1070730#taiko/2241295)
+  - [iserobin - SSD (7\_7) \[?\]](https://osu.ppy.sh/beatmapsets/1155051#taiko/2410534)
+  - [Nasuno Takamiya - MeniMeni ManiMani (KawaiiBass) \[Money (Short Ver.)\]](https://osu.ppy.sh/beatmapsets/1250252#taiko/2598493)
+  - [Shawn Wasabi & YDG - Burnt Rice (feat. Yung GEMMY) (\[Zeth\]) \[Lemonade\]](https://osu.ppy.sh/beatmapsets/1183296#taiko/2466953)
+  - [Metaroom - Out of Control (Mister Boo) \[CGTS Edit Outroless\]](https://osu.ppy.sh/beatmapsets/1417213#taiko/2929624)
+  - [WE ARE AMEN ANONYMOUS - OiLIrGzpwuJy3z9SZn9Br7WxPgz8yh (extend) (KawaiiBass) \[820c4ccf7da7c761\]](https://osu.ppy.sh/beatmapsets/1310676#taiko/2716841)
+- Hidden
+  - [Frums - memoryfactory.lzh (Nifty) \[DEFLATE.zip\]](https://osu.ppy.sh/beatmapsets/761900#taiko/1601977)
+  - [Mizuki Nana - Nageki no Hana (Slax Remix) (Salieri) \[OiOi Oni\]](https://osu.ppy.sh/beatmapsets/971144#taiko/2033466)
+  - [Rahatt - Mafijas Breakcore (Genjuro) \[Ulqui's Hell Oni\]](https://osu.ppy.sh/beatmapsets/1164471#taiko/2430214)
+- HardRock
+  - [II-L - VANGUARD-1 (Idealism) \[VOYAGE\]](https://osu.ppy.sh/beatmapsets/1367925#taiko/2828901)
+  - [Camellia as "fluX Xroise" - Xronier (1RoHa\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/835443#taiko/1749771)
+  - [Snail's House - Snailchan Adventure (POCARI SWEAT) \[dream\]](https://osu.ppy.sh/beatmapsets/1207395#taiko/2514302)
+- DoubleTime
+  - [ZUTOMAYO - Kansaete Kuyashiiwa (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1309199#taiko/2714234)
+  - [Houshou Marine with Holoism Fantasy - Hoihoi\*Gensou Holoism (yassu-) \[\_Rise's Oni\]](https://osu.ppy.sh/beatmapsets/1336533#taiko/2785673)
+  - [Sophie Twilight (CV: Tomita Miyu) - DIARIUM\~Kindan no Grimoire\~ (Shamirin_mzk) \[Grimoire\]](https://osu.ppy.sh/beatmapsets/1275971#taiko/2651107)
+- FreeMod
+  - [Soleily - Silent Rush (Skull Kid) \[End\]](https://osu.ppy.sh/beatmapsets/916558#taiko/1914161)
+  - [LeaF - Armageddon (Cynplytholowazy) \[Mystical Recreation\]](https://osu.ppy.sh/beatmapsets/1384091#taiko/2877224)
+  - [Masayoshi Iimori - NEWALONE (roufou) \[Flagrant\]](https://osu.ppy.sh/beatmapsets/1137961#taiko/2377216)
+- Tiebreaker
+  - **[DJKurara - Parallel Equilibrium (D3kuu) \[T4tsujin\]](https://osu.ppy.sh/beatmapsets/1189259#taiko/2478145)**
 
 #### Semifinals
 
@@ -1114,6 +1144,22 @@ This competition has come to an end and resulted in the following podium:
 ## Match results
 
 ### Global phase
+
+#### Semifinals
+
+Saturday, 3 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Oceania/SEA** | **7** | 2 | South America | [#1](https://osu.ppy.sh/community/matches/79811736) |
+| **Europe** | **7** | 3 | North America | [#1](https://osu.ppy.sh/community/matches/79863702) |
+
+Sunday, 4 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Asia** | **7** | 0 | Oceania/SEA | [#1](https://osu.ppy.sh/community/matches/79921411) |
+| **North America** | **7** | 1 | South America | [#1](https://osu.ppy.sh/community/matches/79971843) |
 
 #### Qualifiers
 

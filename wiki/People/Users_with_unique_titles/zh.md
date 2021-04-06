@@ -91,7 +91,6 @@ outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
 自2020年以来，**Elite Nominator** 成为 [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (BN) 和 [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) 成员 在 Rank 系统中获得的奖励。该头衔是在每年年初根据上一年所做贡献而给出的，并且会在玩家离开团队后删除。
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
-- ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
@@ -229,7 +228,6 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Elite Mapper |
-| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Elite Nominator |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
