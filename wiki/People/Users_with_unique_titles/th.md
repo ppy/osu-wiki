@@ -86,7 +86,6 @@ Titles ของผู้เล่นนั้นปกติจะเกี่�
 ตั้งแต่ 2020 [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) และ [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) ที่ช่วยเหลือในเรื่องการ Rank บีทแมพอย่างสม่ำเสมอ จะได้ title **Elite Nominator** Title นี้จะถูกให้ทุกต้นปีสำหรับการช่วยเหลือที่ทำไปในปีก่อนหน้า และจะถูกนำออกเมื่อผู้เล่นออกจากทีม
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
-- ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
@@ -226,7 +225,6 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Elite Mapper |
-| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Elite Nominator |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
