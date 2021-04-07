@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 6e9200e42c1c320aa83b8ac62a2dd9b678bb3eb4
----
-
 # Prosedur Beatmap Ranking
 
 *Lihat juga: [Rank (disambiguasi)](/wiki/Disambiguation/Rank)*
@@ -29,9 +24,9 @@ Sangat dianjurkan untuk menerima mod sebelum meminta nominasi dari BN, lima hype
 
 ## Kualifikasi
 
-Beatmap yang memiliki 2 nominasi dari masing-masing game mode yang ada di beatmapset tersebut akan dipindahkan ke kategori beatmap [Qualified](/wiki/Beatmap/Category#qualified) selama 7 hari. Qualified Beatmap memiliki scoreboard tapi tidak akan menghasilkan [performance points](/wiki/Performance_Points). Ketika beatmap berada di Qualified setidaknya selama 7 hari, [antrian ranking](Ranking_queue) dapat memindahkannya ke [Ranked](#ranked).
+Beatmap yang memiliki 2 nominasi dari masing-masing mode permainan yang ada di beatmapset tersebut akan dipindahkan ke kategori beatmap [Qualified](/wiki/Beatmap/Category#qualified) selama 7 hari. Qualified Beatmap memiliki scoreboard tapi tidak akan menghasilkan [performance points](/wiki/Performance_Points). Ketika beatmap berada di Qualified setidaknya selama 7 hari, [antrian ranking](Ranking_queue) dapat memindahkannya ke [Ranked](#ranked).
 
-Kategori ini ada untuk memberikan tanggapan-tanggapan dari Komunitas osu! dengan berharap menemukan potensi yang bermasalah. Masalah tersebut dapat dilaporkan kepada anggota BN dan NAT pada halaman diskusi beatmap. Berbeda dengan Pending beatmaps, Qualified beatmaps tidak dapat diperbarui oleh pembuat, jadi umpan balik atau kritik dapat diterapkan setelah meminta sebuah [pengulangan nominasi](#pengulangan-nominasi).
+Kategori ini ada untuk memberikan tanggapan-tanggapan dari Komunitas osu! harapan potensi masalah dapat ditemukan. Masalah tersebut dapat dilaporkan kepada anggota BN dan NAT pada halaman diskusi beatmap. Berbeda dengan Pending beatmap, Qualified beatmap tidak dapat diperbarui oleh pembuat, jadi umpan balik atau kritik dapat diterapkan setelah meminta sebuah [pengulangan nominasi](#pengulangan-nominasi).
 
 ## Pengulangan nominasi
 
@@ -39,7 +34,7 @@ Pengulangan nominasi *(nomination reset)* membantu memastikan bahwa modder, BN d
 
 Nominasi dapat disetel ulang ketika pembuat beatmapset melakukan pembaruan atau ketika anggota dari BN atau NAT menemukan sebuah masalah di dalam beatmapset yg ternominasi. Mereka juga dapat disetel ulang oleh anggota dari [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) ketika alasannya beatmap yang dimaksud mengandung konten yang tidak pantas. Jika sebuah beatmapset memenuhi syarat ketika nominasinya disetel ulang, beatmapset tersebut akan didiskualifikasi, dan terhapus dari antrian ranking
 
-Anggota dari BN dan NAT kadang melakukan [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) terhadap beatmapset yang mereka yakini memiliki masalah kualitas yang tidak terkait dengan Kriteria Ranking.
+Anggota dari BN dan NAT kadang melakukan [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) terhadap beatmapset yang mereka yakini memiliki masalah kualitas yang tidak terkait dengan Ranking Criteria.
 
 ## Ranked
 
