@@ -1,8 +1,12 @@
-# Beatmap Packs 0916
+---
+outdated: true
+---
 
-***[Вернуться к описанию достижений](..)***
+# Anciens packs de beatmaps
 
-Оригинальные тематические архивы карт прямиком из 2009 до их обновления [Stefan'ом 16 января 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
+***[Cliquez ici pour retourner à la page des "Succès/Médailles"](..)***
+
+Packs originaux pendant les années de début d'osu! (2009) avant d'être mis à jour par [Stefan le 16 janvier 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 
 ## Anime Pack
 
@@ -398,11 +402,15 @@ Maps:
 - [Crush 40 - Sonic Heroes](https://osu.ppy.sh/beatmapsets/21836)
 - [Anamanaguchi - Scott Pilgrim Anthem](https://osu.ppy.sh/beatmapsets/23073)
 
-## В цифрах
+## Quelques chiffres
 
-- 16 архивов (4 тематики по 4 части)
-  - Каждая тематика — на 80 минут (примерное время на прохождение одного архива)
-- 211 карт (206 + [три](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) ранкнутые, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/beatmaps/21010) и одна [неранкнутая](https://osu.ppy.sh/beatmaps/19630))
-- 662 сложности (660 ![](/wiki/shared/icon/heart.gif) ранкнутых, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/beatmaps/21010) и одна [неранкнутая](https://osu.ppy.sh/beatmaps/19630))
-- 1.39 GB в запакованном виде и 1.47 GB — после импорта
-- Примерное время импорта — 3 minutes 33 seconds.
+- 16 packs (4 thèmes x 4 volumes)
+  - 1 heure et 20 minutes = 1 pack (estimation du temps requis pour compléter un pack de beatmaps)
+- 211 chansons (206 + [3](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) et 1 [pending](https://osu.ppy.sh/beatmaps/19630))
+- 662 difficultés (660 ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) et 1 [pending](https://osu.ppy.sh/beatmaps/19630))
+- 1.39 GB (zippées), 1.47 GB (importées)
+- 3 minutes et 33 secondes (estimation du temps d'importation des 16 packs)
+
+## Remerciements spéciaux
+
+- [Wayback Machine](https://archive.org/web/)

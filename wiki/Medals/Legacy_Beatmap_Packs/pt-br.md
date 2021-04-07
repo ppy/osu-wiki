@@ -1,11 +1,14 @@
-# Anciens packs de beatmaps
+---
+outdated: true
+---
 
-***[Cliquez ici pour retourner à la page des "Succès/Médailles"](..)***
+# Pacotes de Beatmap
 
-Packs originaux pendant les années de début d'osu! (2009) avant d'être mis à jour par [Stefan le 16 janvier 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
+***[Clique aqui para retornar à página "Conquistas"](..)***
 
-## Anime Pack
+Pacotes temáticos clássicos/originais durante os anos de infância do osu! (2009) antes de serem atualizados por [Stefan em 16 de janeiro de 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 
+## Pacote Anime
 ### Volume 1
 
 > LuigiHann/DeathxShinigami (2011)
@@ -14,7 +17,7 @@ Download:
 
 - [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
 
-Maps:
+Mapas:
 
 - [Beat Crusaders - Hit in the USA](https://osu.ppy.sh/beatmapsets/35)
 - [Chieco Kawabe - Sakura Kiss](https://osu.ppy.sh/beatmapsets/147)
@@ -38,7 +41,7 @@ Download:
 
 - [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
 
-Maps:
+Mapas:
 
 - [Kana Ueda - Pumpkin Ondo](https://osu.ppy.sh/beatmapsets/86)
 - [Porno Graffitti - Mellisa (TV Size)](https://osu.ppy.sh/beatmapsets/150)
@@ -62,7 +65,7 @@ Download:
 
 - [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
 
-Maps:
+Mapas:
 
 - [Kageyama Hironobu - Ore wa Tokoton Tomaranai](https://osu.ppy.sh/beatmapsets/2618)
 - [Lucky Star - Motteke! Sailor Fuku (REDALiCE Remix)](https://osu.ppy.sh/beatmapsets/3030)
@@ -86,7 +89,7 @@ Download:
 
 - [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
 
-Maps:
+Mapas:
 
 - [Chata - Dango Daikazoku](https://osu.ppy.sh/beatmapsets/516)
 - [AKINO - Sousei no Aquarion (TV Size)](https://osu.ppy.sh/beatmapsets/5438)
@@ -102,7 +105,7 @@ Maps:
 - [Susumu Hirasawa - Shiroi Oka - Maromi no Theme](https://osu.ppy.sh/beatmapsets/16252)
 - [DOMINO - U Can Do It! (TV Size)](https://osu.ppy.sh/beatmapsets/21197)
 
-## Internet Pack
+## Pacote Internet
 
 ### Volume 1
 
@@ -112,7 +115,7 @@ Download:
 
 - None
 
-Maps:
+Mapas:
 
 - [Dudelstudios - Angry Video Game Nerd Theme](https://osu.ppy.sh/beatmapsets/66)
 - [Trans-Siberian Orchestra - Wizards In Winter](https://osu.ppy.sh/beatmapsets/132)
@@ -138,7 +141,7 @@ Download:
 
 - None
 
-Maps:
+Mapas:
 
 - [The INTERNET - At The Playground](https://osu.ppy.sh/beatmapsets/203)
 - [Jakazid - Cillit Bang (Hardcore Mix)](https://osu.ppy.sh/beatmapsets/917)
@@ -162,7 +165,7 @@ Download:
 
 - None
 
-Maps:
+Mapas:
 
 - [NicoNicoDouga - Nice Boat.](https://osu.ppy.sh/beatmapsets/1839)
 - [Verix - Drop the Dodongo](https://osu.ppy.sh/beatmapsets/3337)
@@ -186,7 +189,7 @@ Download:
 
 - None
 
-Maps:
+Mapas:
 
 - [TuTuWan - Wo Yao Jin Ke La](https://osu.ppy.sh/beatmapsets/11443)
 - [Parry Gripp - Do You Like Waffles](https://osu.ppy.sh/beatmapsets/12033)
@@ -202,7 +205,7 @@ Maps:
 - [yamas03 - bloomin' octagon](https://osu.ppy.sh/beatmapsets/17217)
 - [8corporation - The Ultimate Trololo Mashup](https://osu.ppy.sh/beatmapsets/17724)
 
-## Rhythm Game Music Pack
+## Pacote Jogos de Ritmo
 
 ### Volume 1
 
@@ -212,7 +215,7 @@ Download:
 
 - [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
 
-Maps:
+Mapas:
 
 - [Beautiful Day - Bride in Dream](https://osu.ppy.sh/beatmapsets/74)
 - [Speed Over Beethoven](https://osu.ppy.sh/beatmapsets/96)
@@ -236,7 +239,7 @@ Download:
 
 - [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
 
-Maps:
+Mapas:
 
 - [Tatsh feat. K.Nayuki - Sphere](https://osu.ppy.sh/beatmapsets/1207)
 - [Taiko no Tatsujin - Kita Saitama2000](https://osu.ppy.sh/beatmapsets/1567)
@@ -260,7 +263,7 @@ Download:
 
 - [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
 
-Maps:
+Mapas:
 
 - [BanYa - Csikos Post](https://osu.ppy.sh/beatmapsets/1206)
 - [Mutsuhiko Izumi - Jet World](https://osu.ppy.sh/beatmapsets/4357)
@@ -284,7 +287,7 @@ Download:
 
 - [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
 
-Maps:
+Mapas:
 
 - [Beautiful Day - Bang! Bang! Bang!](https://osu.ppy.sh/beatmapsets/10842)
 - [Yamajet - Over The Ocean](https://osu.ppy.sh/beatmapsets/11135)
@@ -300,7 +303,7 @@ Maps:
 - [Chai Found Music Workshop - Kikyoku ~Seasons of Asia~](https://osu.ppy.sh/beatmapsets/19809)
 - [M2U - Memory of Beach](https://osu.ppy.sh/beatmapsets/22401)
 
-## Video Game Music Pack
+## Pacote Jogos
 
 ### Volume 1
 
@@ -310,7 +313,7 @@ Download:
 
 - None
 
-Maps:
+Mapas:
 
 - [Team Nekokan - Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/25)
 - [Portal - Still Alive](https://osu.ppy.sh/beatmapsets/92)
@@ -334,7 +337,7 @@ Download:
 
 - None
 
-Maps:
+Mapas:
 
 - [IOSYS - Marisa wa Taihen na Mono wo Nusunde Ikimashita](https://osu.ppy.sh/beatmapsets/243)
 - [Nintendo - Super Mario Bros. (TECHNO remix)](https://osu.ppy.sh/beatmapsets/628)
@@ -358,7 +361,7 @@ Download:
 
 - None
 
-Maps:
+Mapas:
 
 - [Victims of Science - The Device Has Been Modified](https://osu.ppy.sh/beatmapsets/1890)
 - [Phoenix Wright - Sugimori Masakazu - Compilation](https://osu.ppy.sh/beatmapsets/2085)
@@ -382,7 +385,7 @@ Download:
 
 - None
 
-Maps:
+Mapas:
 
 - [Megadeth - Grabbag](https://osu.ppy.sh/beatmapsets/7077)
 - [David J. Franco - Scribblenauts Theme](https://osu.ppy.sh/beatmapsets/9580)
@@ -398,15 +401,15 @@ Maps:
 - [Crush 40 - Sonic Heroes](https://osu.ppy.sh/beatmapsets/21836)
 - [Anamanaguchi - Scott Pilgrim Anthem](https://osu.ppy.sh/beatmapsets/23073)
 
-## Quelques chiffres
+## Curiosidades
 
-- 16 packs (4 thèmes x 4 volumes)
-  - 1 heure et 20 minutes = 1 pack (estimation du temps requis pour compléter un pack de beatmaps)
-- 211 chansons (206 + [3](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) et 1 [pending](https://osu.ppy.sh/beatmaps/19630))
-- 662 difficultés (660 ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) et 1 [pending](https://osu.ppy.sh/beatmaps/19630))
-- 1.39 GB (zippées), 1.47 GB (importées)
-- 3 minutes et 33 secondes (estimation du temps d'importation des 16 packs)
+- 16 pacotes. (4 temas x 4 volumes)
+  - 1 hora e 20 minutos = 1 pacote (Estimativa de tempo necessária para completar um pacote de beatmap)
+- 211 canções (206 + [3](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) rankeadas, 1 ![](/wiki/shared/icon/flame.gif) [aprovada](https://osu.ppy.sh/beatmaps/21010) e 1 [pendente](https://osu.ppy.sh/beatmaps/19630))
+- 662 dificuldades (660 ![](/wiki/shared/icon/heart.gif) rankeadas, 1 ![](/wiki/shared/icon/flame.gif) [aprovadas](https://osu.ppy.sh/beatmaps/21010) e 1 [pendente](https://osu.ppy.sh/beatmaps/19630))
+- 1.39 GB (compactado), 1.47 GB (importado)
+- 3 minutos e 33 segundos. (Estimativa do tempo de importação de todos os 16 pacotes)
 
-## Remerciements spéciaux
+## Agradecimentos especiais
 
 - [Wayback Machine](https://archive.org/web/)
