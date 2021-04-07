@@ -3,15 +3,15 @@ outdated: true
 outdated_since: f2a2541a7f3463857bb378af0c07814ad7faf405
 ---
 
-# Kriteria ranking
+# Ranking criteria
 
-*Untuk kriteria ranking spesifik [mode permainan](/wiki/Game_mode), kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
+*Untuk ranking criteria spesifik [mode permainan](/wiki/Game_mode), kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
 
-Kumpulan **kriteria ranking** ini menjabarkan [aturan dan pedoman](#istilah-umum) yang harus diikuti [beatmaps](/wiki/Beatmap) untuk melalui [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
+Kumpulan **ranking criteria** ini menjabarkan [aturan dan pedoman](#istilah-umum) yang harus diikuti [beatmaps](/wiki/Beatmap) untuk melalui [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Lihat *[How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)* untuk panduan kontribusi. Catat bahwa perubahan pada bahasa, tata bahasa, atau organisasi dokumen ini dapat melewati tahap post forum selama tidak mengubah arti aturan atau pedoman.
 
-**Perlu diingat bahwa [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), panduan [timing lagu dengan birama #/8](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) dan [aturan konten lagu](/wiki/Rules/Song_Content_Rules) adalah bagian dari kriteria ranking dan berlaku untuk semua mode permainan.**
+**Perlu diingat bahwa [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), panduan [timing lagu dengan birama #/8](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) dan [aturan konten lagu](/wiki/Rules/Song_Content_Rules) adalah bagian dari ranking criteria dan berlaku untuk semua mode permainan.**
 
 ## Glosarium
 
@@ -48,7 +48,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 ### Peraturan
 
 - **Semua mode permainan dalam sebuah beatmapset harus membentuk sebuah spread dimulai dari tingkat kesulitan terendah yang ditentukan oleh [drain time](/wiki/Gameplay/Drain_time) lagu tersebut.** Untuk tingkat kesulitan di atas tingkat kesulitan terendah yang diperlukan, spread tidak dapat melewati tingkat kesulitan mana pun dan tidak boleh ada perbedaan kesulitan yang sangat besar antara dua tingkat kesulitan mana pun.
-- **Setiap tingkat kesulitan harus patuh terhadap kriteria ranking khusus tingkat kesulitan modenya.** Lihat kriteria ranking [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania) untuk informasi lebih lanjut.
+- **Setiap tingkat kesulitan harus patuh terhadap ranking criteria khusus tingkat kesulitan modenya.** Lihat ranking criteria [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania) untuk informasi lebih lanjut.
 - **Setiap tingkat kesulitan dalam sebuah beatmapset harus memiliki [drain time](/wiki/Gameplay/Drain_time) minimum 30 detik.**
 - **Jika [drain time](/wiki/Gameplay/Drain_time) dari tiap tingkat kesulitan itu...**
   - **...kurang dari 3:30**, tingkat kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Normal.
@@ -140,13 +140,13 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 - **Logo tidak boleh digunakan sebagai referensi untuk kapitalisasi judul atau artis.** Karena logo sering kali memiliki gaya, gunakan kapitalisasi standar kecuali jika metadata berbasis teks lain mendukungnya.
 - **Lagu yang dibuat oleh artis yang termasuk dalam circle doujin harus mencantumkan nama circle sebagai artis utama.** Kecuali jika artis dari lagu tertentu cukup terkenal dengan namanya sendiri. Dalam hal ini, nama artis tertentu dapat digunakan.
-- **Jika lagu yang sama sudah ada di bagian Ranked atau Loved, metadatanya harus diikuti kecuali jika melanggar aturan lain dalam kriteria ranking atau sumber resmi menyatakan sesuatu yang sangat berbeda.**
+- **Jika lagu yang sama sudah ada di bagian Ranked atau Loved, metadatanya harus diikuti kecuali jika melanggar aturan lain dalam ranking criteria atau sumber resmi menyatakan sesuatu yang sangat berbeda.**
 - **Nama artis harus konsisten di antara lagu yang berbeda dari orang atau grup yang sama di bagian Ranked atau Loved.** Ini tidak berlaku jika orang atau grup tersebut dengan sengaja menggunakan alias berbeda untuk rilis lagu atau album yang berbeda.
 - **Simbol tunggal harus diromanisasi sehingga memiliki spasi di depan dan di belakangnya, kecuali simbol itu sendiri biasanya tidak memerlukan spasi dalam bahasa Inggris.** Ini dapat diabaikan jika artis sengaja menggunakan karakter khusus yang mengabaikan penggunaan umum mereka.
 
 ### Diperbolehkan
 
-Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang biasanya tidak jelas bahkan setelah membaca seluruh bagian kriteria ranking ini.
+Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang biasanya tidak jelas bahkan setelah membaca seluruh bagian ranking criteria ini.
 
 - **Untuk lagu di mana komposer dan penyanyi adalah orang yang berbeda, penyanyi dapat dicantumkan setelah nama komposer atau circle/grup dengan indikator `feat.`.**
 - **Jika seorang artis telah memberikan terjemahan resmi untuk namanya, itu dapat digunakan dalam kolom romanisasi artis.** Romanisasi resmi dapat digunakan untuk ejaan nama artis, tetapi urutan nama harus mengikuti aturan yang ada.
@@ -184,7 +184,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **Semua objek yang diklik harus memiliki suara [hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound).** Beatmap osu!mania dikecualikan dari ini karena konstruksi ritme mode ini.
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound) harus menggunakan format file `.wav` atau` .ogg`.** File `.mp3` memiliki sedikit tundaan, dan oleh karena itu hanya digunakan untuk [hitsound pasif](/wiki/Beatmapping/Hitsound#passive-hitsound), seperti suara ambient.
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound) tidak boleh memiliki tundaan lebih dari 5 milidetik.** "Tundaan" disini merupakan puncak suara daripada awal suara. Hal ini memastikan umpan balik hitsound tersinkron dengan lagu secara efektif. `normal-hitfinish.wav` skin default mengalami sedikit tundaan, namun masih dapat digunakan sebagai hitsound kustom.
-- **Hitsound harus dapat didengar.** Tujuannya adalah untuk memberikan masukan, jadi hitsound dengan volume yang sangat rendah atau sampel yang menyatu dengan sampel lagu tidak dapat diterima. Mode permainan tertentu mencantumkan pengecualian untuk aturan ini pada kriteria rankingnya masing-masing.
+- **Hitsound harus dapat didengar.** Tujuannya adalah untuk memberikan masukan, jadi hitsound dengan volume yang sangat rendah atau sampel yang menyatu dengan sampel lagu tidak dapat diterima. Mode permainan tertentu mencantumkan pengecualian untuk aturan ini pada ranking criteria-nya masing-masing.
 - **Previw point harus disetel dan konsisten di antara semua kesulitan beatmapset.** Ini digunakan untuk menu pemilihan lagu dan pratinjau thumbnail online.
 - **Setiap file hitsound harus memiliki durasi setidaknya 25ms.** File yang lebih pendek dapat menyebabkan tidak ada suara yang dimainkan dalam game.
 - **File suara yang sepenuhnya sunyi harus menggunakan [file 44-byte ini](https://up.ppy.sh/files/blank.wav).** File lain memiliki ukuran file yang terlalu besar dan file 0-byte tidak berfungsi.
