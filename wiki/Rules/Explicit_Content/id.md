@@ -1,6 +1,6 @@
 # Konten eksplisit
 
-![Tampilan beatmap yang mengandung konten eksplisit](img/explicit-tag.jpg "Contoh beatmap dengan ditandai dengan label 'eksplisit'.")
+![Tampilan beatmap yang mengandung konten eksplisit](img/explicit-tag.jpg "Contoh beatmap yang ditandai dengan label 'eksplisit'.")
 
 Ketika membuat beatmap, para mapper dapat menyematkan label 'eksplisit' pada beatmap-beatmap buatan mereka di situs web osu! untuk menandai bahwa beatmap-beatmap yang bersangkutan mengandung konten eksplisit.
 
