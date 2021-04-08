@@ -43,7 +43,7 @@ Voici de bons exemples de beatmaps techniques qui correspondent à cette défini
 
 ### Définition la plus restrictive/spécifique
 
-**Attention : La définition "la plus restrictive/spécifique" exige que **tous** les aspects énumérés soient présents afin de définir un beatmap comme étant technique.*
+*Attention : La définition "la plus restrictive/spécifique" exige que **tous** les aspects énumérés soient présents afin de définir un beatmap comme étant technique.*
 
 - Formes irrégulières des sliders
 - Changements rapides et nets de la vitesse des sliders
