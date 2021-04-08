@@ -82,7 +82,7 @@ This month's artist is the vocal-chopping expert [**MYUKKE.**](https://osu.ppy.s
 
 ## Rules
 
-You might have limitless mapping ideas, but you'll still need to fit within the bounds of the contest to participate:
+You might have limitless mapping ideas, but you'll still need to fit within the bounds of the contest to participate. Each submission must:
 
 - **follow the month's [beatmapping limitation](#limitation) for the contest's mode:**
     - **osu!:**
