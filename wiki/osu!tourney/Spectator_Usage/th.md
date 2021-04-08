@@ -1,15 +1,15 @@
 # การใช้งานในการรับชมของ osu!tourney
 
-![osu!tourney interface](img/Osutourneymain.png "อินเตอร์เฟซเบื้องต้นของ osu!tourney")
+![อินเตอร์เฟซของ osu!tourney](img/Osutourneymain.png "อินเตอร์เฟซเบื้องต้นของ osu!tourney")
 
 นี่คืออินเตอร์เฟซของ osu!tourney ส่วนด้านบนจะถูกแบ่งออกเป็นสองส่วน แสดงถึงทีมสองทีมในห้องผู้เล่นหลายคน
 หน้าต่าง osu! แต่ละอันจะตรงกับตำแหน่งของช่องของผู้เล่น
 
-![Players are assigned to the windows based on their slot in the room](img/Osutourneywindows.png)
+![ผู้เล่นจะถูกใส่ในหน้าต่างตามตำแหน่งผู้เล่นในห้อง](img/Osutourneywindows.png)
 
 ผู้เล่นจะต้องเลือกช่องที่ถูกต้องในกรณีที่จะทำให้ client ทำงานได้อย่างถูกต้อง สามารถอ่านข้อมูลเพิ่มเติมได้ที่ [การใช้งานในห้องผู้เล่นหลายคน](/wiki/osu!tourney/Multiplayer_Usage)
 
-![osu!tourney control panel](img/Osutourneypanel.png)
+![แผงควบคุม osu!tourney](img/Osutourneypanel.png)
 
 แผงควบคุมจะอยู่ในช่วงล่างของ client ซึ่งโดยปกติแล้วต้องตั้งชื่อห้องเพื่อที่จะทำให้ห้องแสดงขึ้นในแผงควบคุม สามารถอ่านข้อมูลเพิ่มเติมได้ที่ [การใช้งานในห้องผู้เล่นหลายคน](/wiki/osu!tourney/Multiplayer_Usage)
 
