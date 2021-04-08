@@ -6,14 +6,14 @@ tags:
 
 # Hype
 
-Chaque [pending](/wiki/Beatmap/Category#pending) d'une [beatmap](/wiki/Beatmap) a un **hype train** qui représente grossièrement le nombre de personnes intéressées à voir la carte [ranked](/wiki/Beatmap/Category#ranked). Les utilisateurs peuvent poster des [discussions sur le thème de la beatmap](/wiki/Beatmap_Discussion) dans l'onglet `General (All difficulties)` avec l'option `Hype!` pour contribuer à la Hype d'une beatmap.
+Chaque [beatmap](/wiki/Beatmap) dans le status [en attente](/wiki/Beatmap/Category#pending) ont un **train de la hype** qui représente grossièrement le nombre de personnes intéressées à voir la beatmap [classée](/wiki/Beatmap/Category#ranked). Les utilisateurs peuvent poster des discussions sur la [page de discussion de la beatmap](/wiki/Beatmap_Discussion) dans l'onglet `Général (Toutes les difficultés)` avec l'option `Hype!` pour contribuer à la Hype d'une beatmap.
 
 ## Exigences de classement
 
-Les beatmap doivent avoir au moins 5 hype (une mesure complète du train de hype) pour être éligibles à la nomination<!-- TODO: link me -->, un pas vers le classement de la carte.
+Les beatmaps doivent avoir au moins 5 hype (une mesure complète du train de la hype) pour être éligibles à la nomination, un pas de plus vers le classement de la beatmap.
 
 ## Limite
 
-Les utilisateurs commencent avec 10 hypes, et ils sont consommés lorsqu'ils sont utilisés sur les beatmaps. Chaque hype met une semaine à redevenir disponible.
+Les utilisateurs commencent avec un quota de 10 hypes, et ils sont consommés lorsqu'ils sont utilisés sur les beatmaps. Chaque hype met une semaine à redevenir disponible.
 
 <!-- TODO: images of the beatmapset page and the modding page -->
