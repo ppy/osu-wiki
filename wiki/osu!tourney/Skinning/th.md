@@ -1,6 +1,6 @@
 # osu!tourney skinning
 
-![The client can be customized in various ways](img/Osutourneycustom.png)
+![client สามารถปรับแต่งได้หลายรูปแบบ](img/Osutourneycustom.png)
 
 Client นั้นมีการรองรับการปรับแต่งต่าง ๆ เพื่อที่คุณจะได้ปรับแต่งมันให้เข้ากับทัวร์นาเมนต์ของคุณ ซึ่งคุณจะต้องสร้างโฟลเดอร์ `/Skins/User/tournament` ในที่ติดตั้งของ client การปรับแต่งรองรับรูปแบบไฟล์ `.jpg` และ `.png`
 
