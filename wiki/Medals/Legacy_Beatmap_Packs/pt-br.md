@@ -4,11 +4,12 @@ outdated: true
 
 # Pacotes de Beatmap
 
-***[Clique aqui para retornar à página "Conquistas"](..)***
+***[Clique aqui para retornar à página "Conquistas"](/wiki/Medals)***
 
 Pacotes temáticos clássicos/originais durante os anos de infância do osu! (2009) antes de serem atualizados por [Stefan em 16 de janeiro de 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 
 ## Pacote Anime
+
 ### Volume 1
 
 > LuigiHann/DeathxShinigami (2011)
@@ -131,7 +132,7 @@ Mapas:
 - [Hatsune Miku - Ievan Polkka](https://osu.ppy.sh/beatmapsets/1287)
 - [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463)
 
-> __Note:__ Loituma - Ievan Polkka is an unranked beatmap. You can skip this beatmap if you want to.
+*Note: Loituma - Ievan Polkka is an unranked beatmap. You can skip this beatmap if you want to.*
 
 ### Volume 2
 
@@ -405,8 +406,8 @@ Mapas:
 
 - 16 pacotes. (4 temas x 4 volumes)
   - 1 hora e 20 minutos = 1 pacote (Estimativa de tempo necessária para completar um pacote de beatmap)
-- 211 canções (206 + [3](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) rankeadas, 1 ![](/wiki/shared/icon/flame.gif) [aprovada](https://osu.ppy.sh/beatmaps/21010) e 1 [pendente](https://osu.ppy.sh/beatmaps/19630))
-- 662 dificuldades (660 ![](/wiki/shared/icon/heart.gif) rankeadas, 1 ![](/wiki/shared/icon/flame.gif) [aprovadas](https://osu.ppy.sh/beatmaps/21010) e 1 [pendente](https://osu.ppy.sh/beatmaps/19630))
+- 211 canções (206 + [3](https://osu.ppy.sh/beatmapsets/2490#osu/19696) ![](/wiki/shared/icon/heart.gif) rankeadas, 1 ![](/wiki/shared/icon/flame.gif) [aprovada](https://osu.ppy.sh/beatmapsets/1785#osu/21010) e 1 [pendente](https://osu.ppy.sh/beatmapsets/2463#osu/19630))
+- 662 dificuldades (660 ![](/wiki/shared/icon/heart.gif) rankeadas, 1 ![](/wiki/shared/icon/flame.gif) [aprovadas](https://osu.ppy.sh/beatmapsets/1785#osu/21010) e 1 [pendente](https://osu.ppy.sh/beatmapsets/2463#osu/19630))
 - 1.39 GB (compactado), 1.47 GB (importado)
 - 3 minutos e 33 segundos. (Estimativa do tempo de importação de todos os 16 pacotes)
 

@@ -4,7 +4,7 @@ outdated: true
 
 # Anciens packs de beatmaps
 
-***[Cliquez ici pour retourner à la page des "Succès/Médailles"](..)***
+***[Cliquez ici pour retourner à la page des "Succès/Médailles"](/wiki/Medals)***
 
 Packs originaux pendant les années de début d'osu! (2009) avant d'être mis à jour par [Stefan le 16 janvier 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 
@@ -132,7 +132,7 @@ Maps:
 - [Hatsune Miku - Ievan Polkka](https://osu.ppy.sh/beatmapsets/1287)
 - [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463)
 
-> __Note:__ Loituma - Ievan Polkka is an unranked beatmap. You can skip this beatmap if you want to.
+*Note: Loituma - Ievan Polkka is an unranked beatmap. You can skip this beatmap if you want to.*
 
 ### Volume 2
 
@@ -406,8 +406,8 @@ Maps:
 
 - 16 packs (4 thèmes x 4 volumes)
   - 1 heure et 20 minutes = 1 pack (estimation du temps requis pour compléter un pack de beatmaps)
-- 211 chansons (206 + [3](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) et 1 [pending](https://osu.ppy.sh/beatmaps/19630))
-- 662 difficultés (660 ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) et 1 [pending](https://osu.ppy.sh/beatmaps/19630))
+- 211 chansons (206 + [3](https://osu.ppy.sh/beatmapsets/2490#osu/19696) ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmapsets/1785#osu/21010) et 1 [pending](https://osu.ppy.sh/beatmapsets/2463#osu/19630))
+- 662 difficultés (660 ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmapsets/1785#osu/21010) et 1 [pending](https://osu.ppy.sh/beatmapsets/2463#osu/19630))
 - 1.39 GB (zippées), 1.47 GB (importées)
 - 3 minutes et 33 secondes (estimation du temps d'importation des 16 packs)
 

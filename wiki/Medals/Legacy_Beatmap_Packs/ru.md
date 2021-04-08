@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmap Packs 0916
 
-***[Вернуться к описанию достижений](..)***
+***[Вернуться к описанию достижений](/wiki/Medals)***
 
 Оригинальные тематические архивы карт прямиком из 2009 до их обновления [Stefan'ом 16 января 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 
@@ -132,7 +132,7 @@ Maps:
 - [Hatsune Miku - Ievan Polkka](https://osu.ppy.sh/beatmapsets/1287)
 - [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463)
 
-> __Note:__ Loituma - Ievan Polkka is an unranked beatmap. You can skip this beatmap if you want to.
+*Note: Loituma - Ievan Polkka is an unranked beatmap. You can skip this beatmap if you want to.*
 
 ### Volume 2
 
@@ -406,7 +406,7 @@ Maps:
 
 - 16 архивов (4 тематики по 4 части)
   - Каждая тематика — на 80 минут (примерное время на прохождение одного архива)
-- 211 карт (206 + [три](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) ранкнутые, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/beatmaps/21010) и одна [неранкнутая](https://osu.ppy.sh/beatmaps/19630))
-- 662 сложности (660 ![](/wiki/shared/icon/heart.gif) ранкнутых, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/beatmaps/21010) и одна [неранкнутая](https://osu.ppy.sh/beatmaps/19630))
+- 211 карт (206 + [три](https://osu.ppy.sh/beatmapsets/2490#osu/19696) ![](/wiki/shared/icon/heart.gif) ранкнутые, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/beatmapsets/1785#osu/21010) и одна [неранкнутая](https://osu.ppy.sh/beatmapsets/2463#osu/19630))
+- 662 сложности (660 ![](/wiki/shared/icon/heart.gif) ранкнутых, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/beatmapsets/1785#osu/21010) и одна [неранкнутая](https://osu.ppy.sh/beatmapsets/2463#osu/19630))
 - 1.39 GB в запакованном виде и 1.47 GB — после импорта
 - Примерное время импорта — 3 minutes 33 seconds.
