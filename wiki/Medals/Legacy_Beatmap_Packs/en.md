@@ -8,9 +8,9 @@ This article lists the contents of the beatmap packs, which had been subjected t
 
 ### Volume 1
 
-This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn "MediaFire")
 
@@ -32,9 +32,9 @@ Beatmaps:
 
 ### Volume 2
 
-This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - [MediaFire](https://www.mediafire.com/?722os55j52ikylq "Mediafire")
 
@@ -56,9 +56,9 @@ Beatmaps:
 
 ### Volume 3
 
-This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b "Mediafire")
 
@@ -80,9 +80,9 @@ Beatmaps:
 
 ### Volume 4
 
-This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv "Mediafire")
 
@@ -106,9 +106,9 @@ Beatmaps:
 
 ### Volume 1
 
-This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - *N/A*
 
@@ -132,9 +132,9 @@ Beatmaps:
 
 ### Volume 2
 
-This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - *N/A*
 
@@ -156,9 +156,9 @@ Beatmaps:
 
 ### Volume 3
 
-This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - *N/A*
 
@@ -180,9 +180,9 @@ Beatmaps:
 
 ### Volume 4
 
-This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - *N/A*
 
@@ -206,9 +206,9 @@ Beatmaps:
 
 ### Volume 1
 
-This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob "MediaFire")
 
@@ -230,9 +230,9 @@ Beatmaps:
 
 ### Volume 2
 
-This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - [MediaFire](https://www.mediafire.com/?axvxrnx637767ls "Mediafire")
 
@@ -254,9 +254,9 @@ Beatmaps:
 
 ### Volume 3
 
-This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
 
@@ -278,9 +278,9 @@ Beatmaps:
 
 ### Volume 4
 
-This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
 
@@ -304,9 +304,9 @@ Beatmaps:
 
 ### Volume 1
 
-This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - *N/A*
 
@@ -328,9 +328,9 @@ Beatmaps:
 
 ### Volume 2
 
-This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - *N/A*
 
@@ -352,9 +352,9 @@ Beatmaps:
 
 ### Volume 3
 
-This beatmap pack was first introduced by ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - *N/A*
 
@@ -376,9 +376,9 @@ Beatmaps:
 
 ### Volume 4
 
-This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
+This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download Link:
+Download link:
 
 - *N/A*
 
