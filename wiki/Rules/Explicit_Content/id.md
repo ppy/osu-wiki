@@ -20,7 +20,7 @@ Pada intinya, selama dilabeli sebagaimana mestinya, lagu-lagu yang bersifat eksp
 
 Untuk dapat dikategorikan eksplisit, suatu lagu harus memiliki lirik yang mengandung hujatan, cacian, atau kata-kata kasar lainnya dalam porsi yang signifikan. Apabila kata-kata kasar tersebut hanya muncul sekali atau dua kali dalam keseluruhan lirik lagu yang ada, maka lagu yang bersangkutan tidak perlu untuk dilabeli eksplisit selama tema lagu yang dimaksud berada pada ranah PG-13 atau lebih rendah. Apabila kamu tidak yakin apakah suatu lagu terbilang eksplisit atau tidak, sebaiknya kamu mengasumsikan bahwa lagu tersebut adalah lagu yang eksplisit demi kemaslahatan bersama.
 
-Singkatnya, suatu lagu harus memiliki lirik yang mengandung kata-kata kasar yang diucap berulang-ulang untuk dapat dikategorikan eksplisit.
+Singkatnya, suatu lagu harus mengandung lirik yang penuh dengan kata-kata kasar untuk dapat dikategorikan eksplisit.
 
 Di samping itu, suatu lagu juga dapat dikategorikan eksplisit apabila lagu tersebut mengusung tema yang “sensitif” terlepas dari apakah lagu yang bersangkutan memiliki lirik ataupun tidak. Berikut adalah contoh-contoh tema lagu yang jatuh ke dalam kategori eksplisit yang dimaksud:
 
