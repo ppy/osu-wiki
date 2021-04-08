@@ -30,7 +30,7 @@ To ensure each MBC is a brand new experience, they all feature a **limitation** 
 - All sliders must use red anchors.
 - Red anchors must form clear corners in the slidershape.
 
-This idea leaves room for interpretation, so here's a few examples of acceptable sliders. Note how each of their red anchors create a distinct bump in the slidershape:
+This idea leaves room for interpretation, so here are a few examples of acceptable sliders. Note how each of their red anchors creates a distinct bump in the slidershape:
 
 ![](/wiki/shared/news/2021-04-08-monthly-beatmapping-contest-april-2021/allowed.png)
 
@@ -38,7 +38,7 @@ And here's a few examples of what is *NOT* allowed. They either have no red anch
 
 ![](/wiki/shared/news/2021-04-08-monthly-beatmapping-contest-april-2021/not_allowed.png)
 
-Because of the obvious potential for loopholes with this limitation, we'll give more weight to "limitation" category in this month's judging (similar to the [overlap-themed MBC](https://osu.ppy.sh/home/news/2020-09-08-monthly-beatmapping-contest-september) from a few months ago).
+Because of the obvious potential for loopholes with this limitation, we'll give more weight to the "limitation" category in this month's judging (similar to the [overlap-themed MBC](https://osu.ppy.sh/home/news/2020-09-08-monthly-beatmapping-contest-september) from a few months ago).
 
 **[osu!taiko MBC](https://osu.ppy.sh/community/contests/123) limitation:**
 
