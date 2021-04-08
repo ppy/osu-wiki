@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Conquistas
 
 **Conquistas** (também chamadas de **Medalhas**) são pequenas insígnias no perfil de alguém que indicam que o jogador alcançou um objetivo excepcional. Atualmente, elas estão divididas em 5 grupos.
