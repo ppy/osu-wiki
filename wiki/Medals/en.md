@@ -70,11 +70,11 @@ All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) 
 | Mappers' Guild Pack V | Clear all the beatmaps bundled in the [Mappers' Guild Pack V](https://osu.ppy.sh/beatmaps/packs/2032) beatmap pack. |
 | Mappers' Guild Pack VI | Clear all the beatmaps bundled in the [Mappers' Guild Pack VI](https://osu.ppy.sh/beatmaps/packs/2033) beatmap pack. |
 
-It is worth noting however that the contents of all the Video Game Packs, Anime Packs, Internet! Packs, and Rhythm Game Packs have been dramatically altered over time since [their first introduction in 2008](https://osu.ppy.sh/community/forums/topics/1853). For the list of all the beatmaps that was being listed in the aforementioned beatmap packs in their legacy/original state, see [Legacy Beatmap Packs](/wiki/Medals/Legacy_Beatmap_Packs).
+It is worth noting however that the contents of all the Video Game Packs, Anime Packs, Internet! Packs, and Rhythm Game Packs have been dramatically altered since [their first introduction in 2008](https://osu.ppy.sh/community/forums/topics/1853). For the list of all the beatmaps that was being listed in the aforementioned beatmap packs in their legacy/original state, see [Legacy Beatmap Packs](/wiki/Medals/Legacy_Beatmap_Packs).
 
 ## Skill
 
-The **Skill medals** are medals that are being awarded by rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/Glossary/Combo_%28score_multiplier%29) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/FC) on any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap within a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) ranges.
+The **Skill medals** are medals that are being awarded by rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/Glossary/Combo_%28score_multiplier%29) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/FC) on any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap within a certain [star rating](/wiki/Beatmap/Difficulty#star-rating) ranges.
 
 ### List of obtainable Skill medals
 
@@ -239,7 +239,7 @@ As the Hush-Hush medals are meant to be a secret achievement of some sort, the l
 
 The **Beatmap Spotlights medals** are medals that are being awarded upon the completion of certain beatmap packs that are being released as a part of the [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four gamemode packs* that is being contested on the corresponding Beatmap Spotlights ranking chart. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
 
-Although the Monthly Beatmap Spotlights have been discontinued as of April 2018 in favor of the [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), all of the medals pertinant to it are still able to be obtained to this day.
+Although the Monthly Beatmap Spotlights have been discontinued as of April 2018 in favor of the [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), all of the medals pertinent to it are still able to be obtained to this day.
 
 ### List of obtainable Beatmap Spotlights medals
 
@@ -265,7 +265,7 @@ Although the Monthly Beatmap Spotlights have been discontinued as of April 2018 
 
 The **Seasonal Spotlights medals** are medals that are being awarded upon the completion of certain beatmap packs that are being released as a part of the [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four gamemode packs* that is being contested on the corresponding Seasonal Spotlights ranking chart. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
 
-Although the Seasonal Spotlights have been discontinued as of early 2020 in favor of the [current Beatmap Spotlights system](wiki/Beatmap_Spotlights), all of the medals pertinant to it are still able to be obtained to this day.
+Although the Seasonal Spotlights have been discontinued as of early 2020 in favor of the [current Beatmap Spotlights system](wiki/Beatmap_Spotlights), all of the medals pertinent to it are still able to be obtained to this day.
 
 ### List of obtainable Seasonal Spotlights medals
 
