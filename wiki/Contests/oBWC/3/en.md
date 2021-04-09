@@ -81,47 +81,47 @@ The osu! Beatmapping World Championship is run by various community members.
 
 1. **What is this contest?**
 
-    The osu! Beatmapping World Championship is a standard mode contest where several countries compete against each other to show off their country's mapping ability. Each team member will be handpicked by a Team Captain, composed of 3 to 6 members, including the Team Captain.
+The osu! Beatmapping World Championship is a standard mode contest where several countries compete against each other to show off their country's mapping ability. Each team member will be handpicked by a Team Captain, composed of 3 to 6 members, including the Team Captain.
 
 2. **How does this contest work?**
 
-    During the Registration period, participants are expected to team up with users under the same country and decide on a team name. After the Registrations, all teams are supposed to enter the First Round. Users can form multiple teams under the same country; however, only the team with the highest score among them may proceed to the Second Round. From the Second Round onwards, there will be three more rounds. The results of these three rounds will remain confidential until the conclusion of the Fourth Round. Once the Fourth Round ends, combined results will be announced during the livestream. This is to encourage teams that passed the First Round to stay in this contest till the end and not get unexpectedly impacted by intermediate results.
+During the Registration period, participants are expected to team up with users under the same country and decide on a team name. After the Registrations, all teams are supposed to enter the First Round. Users can form multiple teams under the same country; however, only the team with the highest score among them may proceed to the Second Round. From the Second Round onwards, there will be three more rounds. The results of these three rounds will remain confidential until the conclusion of the Fourth Round. Once the Fourth Round ends, combined results will be announced during the livestream. This is to encourage teams that passed the First Round to stay in this contest till the end and not get unexpectedly impacted by intermediate results.
 
 3. **What will be the songs?**
 
-    The songs will be announced as soon as the stage starts. Keep in mind that all the songs used for this contest will be picked from the [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library.
+The songs will be announced as soon as the stage starts. Keep in mind that all the songs used for this contest will be picked from the [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library.
 
 4. **What is a "Team Captain"?**
 
-    The Team Captains, also called Captains will be the ones in charge of communicating with the organizers and their team members in order to let us know about team-related things. No additional requirements are needed to become a Team Captain.
+The Team Captains, also called Captains will be the ones in charge of communicating with the organizers and their team members in order to let us know about team-related things. No additional requirements are needed to become a Team Captain.
 
 5. **What if my country doesn't have a Team Captain?**
 
-    You’re free to apply as one through the website if you wish to participate! The country you will be allowed to participate with will be based on your profile's flag. No country merge will be allowed to avoid management complications.
+You’re free to apply as one through the website if you wish to participate! The country you will be allowed to participate with will be based on your profile's flag. No country merge will be allowed to avoid management complications.
 
 6. **Do I have to join the Discord server to participate?**
 
-    Only the Team Captain is required to join the Discord server. The team members however are very welcomed to join, as all the important information will be shared on Discord and on our website.
+Only the Team Captain is required to join the Discord server. The team members however are very welcomed to join, as all the important information will be shared on Discord and on our website.
 
 7. **Can I join the Discord server even if I don't want to participate in the contest?**
 
-    Yes, you can. Upon joining, you'll be placed in the `#arrival` channel, where you will have to post your osu! profile link, and then a member of the staff or a moderator will accept you.
+Yes, you can. Upon joining, you'll be placed in the `#arrival` channel, where you will have to post your osu! profile link, and then a member of the staff or a moderator will accept you.
 
 8. **"At least 2 mappers will have to collaborate on each song" - Are we able to work with my full team on each map?**
 
-    Yes! We set this rule to make sure the main spirit of the contest about collaborations remains, while not restricting people with their team management. If you want to work on a full team on each stage, you’re encouraged to do so!
+Yes! We set this rule to make sure the main spirit of the contest about collaborations remains, while not restricting people with their team management. If you want to work on a full team on each stage, you’re encouraged to do so!
 
-13. **Can I make an osu!mania, osu!taiko or osu!catch beatmap?**
+9. **Can I make an osu!mania, osu!taiko or osu!catch beatmap?**
 
-    Unfortunately, this edition of the contest is osu!standard game mode only. However, we are planning to organize multi-mode editions in 2 months upon the start of this edition! 
+Unfortunately, this edition of the contest is osu!standard game mode only. However, we are planning to organize multi-mode editions in 2 months upon the start of this edition! 
 
-14. **Will this event be broadcasted on Twitch?**
+10. **Will this event be broadcasted on Twitch?**
 
-    Yes, many of the contest-related events will be broadcasted on our Twitch channel. During the livestreams, there will be a summary of all important moments of the contest.
-    
-15. **My team has been eliminated in the very first round of the contest, do I have a chance to win the Players' Pick award?**
+Yes, many of the contest-related events will be broadcasted on our Twitch channel. During the livestreams, there will be a summary of all important moments of the contest.
 
-    Your entry will be taken into consideration by the Players' Pick judges even if your team was eliminated in the regular contest. Consider the Players' Pick as a sort of side category that has its own leaderboard.
+11. **My team has been eliminated in the very first round of the contest, do I have a chance to win the Players' Pick award?**
+
+Your entry will be taken into consideration by the Players' Pick judges even if your team was eliminated in the regular contest. Consider the Players' Pick as a sort of side category that has its own leaderboard.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
