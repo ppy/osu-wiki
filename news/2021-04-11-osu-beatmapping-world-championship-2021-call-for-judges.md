@@ -46,7 +46,7 @@ To take part as a Players' Pick judge, your osu! rank needs to be *higher than #
 
 ### Multi-mode Judges
 
-Drummers, fruit catchers, and keyboard smashers behold! This year, we are going to host three more contests for three other game modes. The details are still worked on, but if you're an early bird wishing to partake as a judge for osu!taiko, osu!catch, and osu!mania editions of the osu! Beatmapping World Championship, you may submit your application right away!
+Drummers, fruit catchers, and keyboard smashers behold! This year, we are going to host three more contests for three other game modes. The details are still worked on, but if you're an early bird wishing to partake as a judge for osu!taiko, osu!catch, or osu!mania edition of the osu! Beatmapping World Championship, you may submit your application right away!
 
 ## Schedule
 
@@ -66,7 +66,7 @@ Below is the provisional schedule for the upcoming contest. Be reminded that res
 | Fourth Round - Judging phase | 2021-08-30/2021-09-13 |
 | Results Announcement & Livestream | 2021-09-15 |
 
-Schedules for multi-mode contests are planned to be hosted approximately 2 months anterior to the conclusion of the osu! Beatmapping World Championship. We are trying our best to finalize things in that regard as quick as possible, so keep a lookout!
+Multi-mode contests are planned to be hosted approximately 2 months anterior to the conclusion of the osu! Beatmapping World Championship. We are trying our best to finalize things in that regard as quick as possible, so keep a lookout!
 
 ## Applications
 
