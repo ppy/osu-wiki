@@ -42,7 +42,7 @@ Players' Pick is a new side-competition that will be organized in parallel to th
 
 Additionally, we will also entertain a **Player's Impression** section. Players are asked to note down their personal thoughts and subjective opinions regarding the beatmap and rate it accordingly.
 
-To take part as a Players' Pick judge, your osu! rank needs to be *under #5000* as the initial requirement. We're planning to recruit **5 judges** in total for this section of the contest. So if you're a professional osu! player and like playing a variety of beatmaps, don't miss out on becoming a Players' Pick judge!
+To take part as a Players' Pick judge, your osu! rank needs to be *higher than #5000* as the initial requirement. We're planning to recruit **5 judges** in total for this section of the contest. So if you're a professional osu! player and like playing a variety of beatmaps, don't miss out on becoming a Players' Pick judge!
 
 ### Multi-mode Judges
 
