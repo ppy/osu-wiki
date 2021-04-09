@@ -144,7 +144,7 @@ All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki
 | Dial It Right Back | Clear any Qualified, Ranked, or Approved beatmap with the [Easy](/wiki/Game_modifier/Easy) mod enabled. |
 | Risk Averse | Clear any Qualified, Ranked, or Approved beatmap with the [NoFail](/wiki/Game_modifier/No_Fail) mod enabled. |
 | Slowboat | Clear any Qualified, Ranked, or Approved beatmap with the [HalfTime](/wiki/Game_modifier/Half_Time) mod enabled. |
-| Burned Out | Clear any Qualified, Ranked, or Approved beatmap with the [SpunOut](/wiki/Game_modifier/Spun_Out) mod enabled. This medal can only be achieved in the [osu!](/wiki/Game_mode/osu!) game mode as the SpunOut mod is not present in other game modes. |
+| Burned Out | Clear any Qualified, Ranked, or Approved beatmap with the [SpunOut](/wiki/Game_modifier/Spun_Out) mod enabled. This medal can only be achieved in the osu! game mode as the SpunOut mod is not present in other game modes. |
 
 ## Hush-Hush
 
