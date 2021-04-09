@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 메달
 
 이전에 *업적*이라고 불리었던 메달은 유저가 특별한 목표를 달성했음을 나타내는 배지입니다. 현재 이 배지는, 종류별로 7개의 그룹으로 나뉘어져 있습니다: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), Beatmap Spotlights, Seasonal Spotlights.
