@@ -74,7 +74,7 @@ It is worth noting however that the contents of all the Video Game Packs, Anime 
 
 ## Skill
 
-The **Skill medals** are medals that are being awarded by rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/en/Glossary/Combo_%28score_multiplier%29) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/FC) on any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap within a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) ranges.
+The **Skill medals** are medals that are being awarded by rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/Glossary/Combo_%28score_multiplier%29) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/FC) on any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap within a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) ranges.
 
 ### List of obtainable Skill medals
 
@@ -126,7 +126,7 @@ The **Dedication medals** are medals that are being awarded upon reaching certai
 
 *See also: [Game modifier](/wiki/Game_modifier)*
 
-The **Mod Introduction medals** are medals that are being awarded by clearing any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap with the corresponding game modifier. These medals are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that however if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
+The **Mod Introduction medals** are medals that are being awarded by clearing any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap with the corresponding game modifiers. These medals are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that however if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
 
 All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki/Game_mode) unless otherwise specified.
 
