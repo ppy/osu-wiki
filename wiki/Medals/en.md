@@ -126,7 +126,7 @@ It is worth noting however that the contents of all the Video Game Packs, Anime 
 
 *See also: [Game modifier](/wiki/Game_modifier)*
 
-**Mod Introduction medals** are medals that are awarded upon clearing any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap with their corresponding [game modifier (mod)](/wiki/Game_modifier). These medals are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that, however, that if players play with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
+**Mod Introduction medals** are medals that are awarded upon clearing any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap with their corresponding [game modifier (mod)](/wiki/Game_modifier). These medals are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note, however, that if players play with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
 
 All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki/Game_mode) unless otherwise specified.
 
