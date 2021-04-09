@@ -11,7 +11,7 @@ tags:
 
 ## 連結
 
-- **[個人網頁]](https://ppy.sh/)**
+- **[個人網頁](https://ppy.sh/)**
 - [ppy blog](https://blog.ppy.sh/)
 - [GitHub](https://github.com/peppy "GitHub")
 - [Twitter](https://twitter.com/ppy "Twitter")
