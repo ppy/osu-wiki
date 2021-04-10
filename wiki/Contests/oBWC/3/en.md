@@ -56,7 +56,6 @@ The osu! Beatmapping World Championship is run by various community members.
 ## Links
 
 - [Discord server](https://discord.gg/CZp4bNx)
-- [Official website](https://obwc.net/)
 - [Twitter](https://twitter.com/osubwc)
 - [Livestream](https://www.twitch.tv/osubwc)
 

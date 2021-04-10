@@ -12,7 +12,7 @@ For the third iteration of osu! Beatmapping World Championship, we have taken yo
 
 ## osu! Beatmapping World Championship 2021
 
-For more information, check out the [wiki page](/wiki/Contests/oBWC/3) and the [official website](https://obwc.net/ "osu! Beatmapping World Championship").
+For more information, check out the [wiki page](/wiki/Contests/oBWC/3).
 
 ### Contest Judges - Mappers
 
