@@ -1,9 +1,10 @@
 ---
 outdated: true
 ---
+
 # Medale
 
-Medale, znane także jako _osiągnięcia_, to odznaki wyświetlające się na profilach użytkowników. Są przyznawane za wykonanie konkretnego zadania.
+Medale, znane także jako *osiągnięcia*, to odznaki wyświetlające się na profilach użytkowników. Są przyznawane za wykonanie konkretnego zadania.
 Obecnie medale są podzielone na 5 grup: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction) oraz [Hush-Hush](#hush-hush).
 
 ## Beatmap Packs
@@ -46,9 +47,9 @@ Medale The High Ranker są przyznawane za osiągnięcie konkretnej pozycji w ran
 
 ---
 
-Medale Star-based są podzielone na dwie grupy: _Pass_ oraz _S_.
-Medale _Pass_ są przyznawane za ukończenie dowolnej beatmapy o konkretnej liczbie gwiazdek.
-Medale _S_ są przyznawane za uzyskanie [pełnego combo](/wiki/FC) wraz z oceną S na dowolnej beatmapie o konkretnej liczbie gwiazdek.
+Medale Star-based są podzielone na dwie grupy: *Pass* oraz *S*.
+Medale *Pass* są przyznawane za ukończenie dowolnej beatmapy o konkretnej liczbie gwiazdek.
+Medale *S* są przyznawane za uzyskanie [pełnego combo](/wiki/FC) wraz z oceną S na dowolnej beatmapie o konkretnej liczbie gwiazdek.
 Trudność beatmapy zostanie zaokrąglona do najbliższej pełnej liczbie gwiazdek i zostanie przyznany medal.
 Użycie modyfikacji utrudniających bądź ułatwiających rozgrywkę jest dozwolone.
 Beatmapa musi także posiadać status rankingowej bądź zatwierdzonej.
@@ -60,7 +61,7 @@ Medale Dedication są przyznawane za poświęcenie dużej ilości czasu w każdy
 
 ## Mod Introduction
 
-_Zobacz także: [Modyfikacje](/wiki/Game_modifier)._
+*Zobacz także: [Modyfikacje](/wiki/Game_modifier).*
 
 Medale Mod Introduction są przyznawane za ukończenie dowolnej beatmapy z konkretną modyfikacją.
 Mają one za zadanie zachęcić nowszych użytkowników do wypróbowania każdej modyfikacji oraz odkrycia, co osu! ma do zaoferowania.
@@ -74,5 +75,5 @@ Podpowiedź znajduje się w tytule medalu.
 
 ## Źródła
 
-- [Oryginalne paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Beatmap_Packs_0916)
+- [Oryginalne paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Legacy_Beatmap_Packs)
 - [Wątek peppy'ego dot. grafik medali](https://osu.ppy.sh/community/forums/topics/80448).
