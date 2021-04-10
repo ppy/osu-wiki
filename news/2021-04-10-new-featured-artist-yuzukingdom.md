@@ -18,7 +18,7 @@ Not familiar with these musical gems? Give yourself a taste by watching as [NiN]
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/155/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/155/release-showcase-2.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
