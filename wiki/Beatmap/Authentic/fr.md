@@ -20,4 +20,4 @@ tags:
 
 # Beatmap authentique
 
-Une **[beatmap authentique](/wiki/Beatmap)** est une beatmap qui émule une scène des [jeux iNiS](/wiki/iNiS_games). Le terme provient d'une époque où le [mapping](/wiki/Beatmapping) était fortement inspiré par iNiS. Aujourd'hui, le terme "authentique" a peu de sens, car les générations de mappeurs se sont inspirées les unes des autres plutôt que des jeux originaux.
+Une **[beatmap authentique](/wiki/Beatmap)** est une beatmap qui provient d'une scène des [jeux iNiS](/wiki/iNiS_games). Le terme provient d'une époque où le [mapping](/wiki/Beatmapping) était fortement inspiré par iNiS. Aujourd'hui, le terme "authentique" a peu de sens, car les générations de mappeurs se sont inspirées les unes des autres plutôt que des jeux originaux.

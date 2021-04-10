@@ -7,7 +7,7 @@ tags:
 
 # TAG
 
-Le terme **TAG** est le terme utilisé pour décrire les modes de jeu en mode [multijoueur](/wiki/Multi) appelés [Tag Coop ou Tag Team Vs](/wiki/Multi#tag-coop-/-tag-team-vs) où les joueurs essaient de compléter une [beatmap](/wiki/Beatmap) en coopération. Les beatmaps qui sont spécifiquement conçues pour ces modes sont généralement appelés **TAG beatmaps/difficultés**.
+Le terme **TAG** est le terme utilisé pour décrire les modes de jeu en mode [multijoueur](/wiki/Multi) appelés [Tag Coop ou Tag Team Vs](/wiki/Multi#tag-coop-/-tag-team-vs) où les joueurs essaient de compléter une [beatmap](/wiki/Beatmap) ensemble. Les beatmaps qui sont spécifiquement conçues pour ces modes sont généralement appelés **TAG beatmaps/difficulties**.
 
 Dans ces modes, chaque joueur est responsable d'un [comboset](/wiki/Beatmapping/Combo), et tout au long du morceau, les joueurs passent d'un comboset à l'autre. Pour cette raison, les beatmaps TAG sont conçus de telle manière que leurs combosets sont placés beaucoup plus loin les uns des autres et plus complexes que d'habitude, ce qui les rend presque impossible a jouer seul.
 

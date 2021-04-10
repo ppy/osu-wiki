@@ -12,7 +12,7 @@ tags:
 
 *Remarque : Dans le cadre de cet article, le terme "tech map" sera considéré comme un terme générique qui inclut toutes ces définitions.*
 
-Les **beatmaps techniques** (souvent abrégées en "tech map") est un terme qui n'a pas de définition claire et acceptée par la communauté d'osu!. Selon l'utilisateur, une "beatmap technique" peut être aussi large qu'une [beatmap](/wiki/Beatmap) qui contient simplement des [patterns](/wiki/Beatmap/Pattern) non génériques, ou aussi spécifique qu'une beatmap dense en [object](/wiki/Hit_object) et contenant de nombreuses formes irrégulières de [slider](/wiki/Hit_object/Slider) qui changent rapidement et radicalement de vitesse (souvent à haute intensité).
+Les **beatmaps techniques** (abrégé en "tech map") est un terme qui n'a pas de définition claire et acceptée par la communauté d'osu!. Selon l'utilisateur, une "beatmap technique" peut être aussi large qu'une [beatmap](/wiki/Beatmap) qui contient simplement des [patterns](/wiki/Beatmap/Pattern) non génériques, ou aussi spécifique qu'une beatmap dense en [objets](/wiki/Hit_object) et contenant de nombreuses formes irrégulières de [slider](/wiki/Hit_object/Slider) qui changent rapidement et radicalement de vitesse (souvent à haute intensité).
 
 Les beatmaps techniques sont le plus souvent associées à des genres musicaux qui offrent des sons complexes et rapides (par exemple, drum-and-bass, dubstep et drumstep), car elles permettent souvent au mappeur d'explorer en détail chaque son individuellement, ce qui profite à la beatmap. Bien que la musique de ce type ne soit pas explicitement requise.
 
@@ -26,18 +26,18 @@ En raison de la nature générale du terme "beatmap technique", il existe de nom
 
 *Attention : La définition "la plus large" ne requiert qu'un ou deux des aspects énumérés pour définir une beatmap comme étant technique.*
 
-- Motifs de beatmap non génériques ou difficiles à lire (exemple ci-dessous)
-  - Un "flow" dur sur la beatmap
-- SV sliders
+- Motifs d'une beatmap non génériques ou difficiles à lire (exemple ci-dessous)
+  - Un "flow" difficile sur ladite beatmap
+- Des SV sliders
   - Ils peuvent contenir des arts en slider
-- Formes irrégulières des sliders
-- Changements rapides et nets de la vitesse du slider
-- Intensité générale élevée
+- Des formes irrégulières des sliders
+- Des changements rapides et nets de la vitesse du slider
+- Une intensité générale élevée
   - Extrêmement dense en nombre d'objets dans une grande partie de la beatmap (à l'exception des [streams](/wiki/Beatmap/Pattern/Stream)).
 
 ![Modèle non générique de beatmap (Nhelv)](img/nongeneric_beatmap_pattern.jpg "Modèle non générique de beatmap")
 
-![Flow dur (Densetsu no Matsuri)](img/beatmap_hard_flow.jpg "Modèle de beatmap avec un flow dur")
+![Flow difficile (Densetsu no Matsuri)](img/beatmap_hard_flow.jpg "Modèle de beatmap avec un flow difficile")
 
 Voici de bons exemples de beatmaps techniques qui correspondent à cette définition : [Silentroom - Nhelv (Nyxa) \[iniquitatem\]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) et [RUMI - Densetsu no Matsuri (Net0) \[Oni\]](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
 
@@ -45,13 +45,13 @@ Voici de bons exemples de beatmaps techniques qui correspondent à cette défini
 
 *Attention : La définition "la plus restrictive/spécifique" exige que **tous** les aspects énumérés soient présents afin de définir un beatmap comme étant technique.*
 
-- Formes irrégulières des sliders
-- Changements rapides et nets de la vitesse des sliders
-- SV sliders
+- Des formes irrégulières des sliders
+- Des changements rapides et nets de la vitesse des sliders
+- Des SV sliders
 - Des patterns de la beatmap difficiles à lire (souvent décrits comme ayant un "flow" difficile) (exemple ci-dessous).
 
 ![Un pattern difficile à lire (Camellia)](img/difficult_to_read_beatmap.jpg "Un pattern difficile à lire")
 
-![Forme irrégulière de slider (MARENOL)](img/irregular_slider.jpg "Forme irrégulière de slider (SV slider)")
+![Une forme irrégulière de slider (MARENOL)](img/irregular_slider.jpg "Une forme irrégulière de slider (SV slider)")
 
-Voici de bons exemples de cartes techniques qui correspondent à cette définition [Camellia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) \[Primordial Nucleosynthesis\]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) et [LeaF - MARENOL (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
+Voici de bons exemples de beatmaps techniques qui correspondent à cette définition : [Camellia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) \[Primordial Nucleosynthesis\]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) et [LeaF - MARENOL (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
