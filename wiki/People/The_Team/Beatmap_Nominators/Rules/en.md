@@ -44,8 +44,6 @@ Each mode has its own required minimum for monthly activity.
 
 ### Qualification
 
-- **Different beatmaps of similar versions of a song cannot be qualified in the same mode at the same time.** Similar versions of a song include cuts, extensions, and simple covers.
-- **Only 3 significantly different versions of a song may be qualified in the same mode at the same time.** Significantly different versions include remixes, compilations, and mashups.
 - **Do not qualify a beatmap directly without any communication with the mapper.** The mapper might have done self-changes after the last nomination, so nominating a beatmapset without communicating with the mapper can lead to pointless disqualifications.
 
 ## Nomination reset
