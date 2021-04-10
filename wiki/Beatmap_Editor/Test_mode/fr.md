@@ -14,16 +14,16 @@ Le **test mode** est une fonctionnalité de l'[éditeur de beatmap](/wiki/Beatma
 
 ![Bouton du test mode](img/test-mode-button.png "Le bouton du test mode dans l'éditeur de beatmap")
 
-*Note : La lecture d'un beatmap en test mode est connue pour provoquer un certain décalage ou des baisses notables du framerate pour certains utilisateurs.*
+*Note : La lecture d'une beatmap en test mode est connue pour provoquer un certain décalage ou des baisses notables du framerate pour certains utilisateurs.*
 
-Jouer un beatmap en test mode diffère du jeu normal, car il ne soumet aucun score, n'affiche aucun classement, ne permet pas aux utilisateurs d'échouer les beatmaps, et affiche toujours les informations suivantes sur le côté gauche de l'écran :
+Jouer une beatmap en test mode diffère du jeu normal, car il ne soumet aucun score, n'affiche aucun classement, ne permet pas aux utilisateurs d'échouer les beatmaps, et affiche toujours les informations suivantes sur le côté gauche de l'écran :
 
 - L'actuel [timestamp](/wiki/Modding/Timestamp) de la beatmap
 - Le [SB load](/wiki/Beatmap_editor/SB_load)
-- Le nombre total de 300s, 100s, 50s et de miss obtenues
+- Le nombre total de 300s, 100s, 50s et de miss obtenus
 - Le pourcentage de hit qui sont mal placées
-- Le délai moyen (en millisecondes) dans lequel les hits mal placées sont en retard
-- Le [star ranting](/wiki/Beatmapping/Star_rating) de la beatmap 
+- Le délai moyen (en millisecondes) dans lequel les hits mal placés sont en retard
+- Le [star rating](/wiki/Beatmapping/Star_rating) de la beatmap  
 - La durée totale de lecture de la beatmap (en secondes)
 - Le combo maximum possible qu'un joueur peut réaliser sur la beatmap
 - Diverses commandes de raccourcis.
