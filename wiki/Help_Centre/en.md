@@ -115,7 +115,7 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 
 **Yes, absolutely!**
 
-If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be able to change your username **once** for free. This username change can be redeemed on the [osu!store](https://osu.ppy.sh/store/products/32) page.
+If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be able to change your username **once** for free. This username change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32) page.
 
 At any point thereafter, you may purchase a [purchase a username change](https://osu.ppy.sh/store/products/32) to change your username to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
@@ -199,13 +199,13 @@ If you are covered by the European Union, then you have the option to delete you
 
 **So long as you are playing on only your own account**, you can play osu! anywhere!
 
-If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software. 
+If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software.
 
 #### Can I get a list of all maps I've played or downloaded?
 
 **You can see all maps you've played on the website.**
 
-**If you have an active supporter tag**, you can see all maps you have submitted a score on by going to the [beatmap list page](https://osu.ppy.sh/beatmapsets), then clicking "more search options". Then select the "PLAYED" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the filtered page directly.
+**If you have an active supporter tag**, you can see all maps you have submitted a score on by going to the [beatmap list page](https://osu.ppy.sh/beatmapsets), clicking "more search options", then selecting the "PLAYED" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the filtered page directly.
 
 Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
 
@@ -221,11 +221,10 @@ Unfortunately, we do not keep track of all maps a user has downloaded, so it is 
 
 Follow these steps to restore osu! to its default settings:
 
-1. Hold down the `Shift` key on your keyboard.
-2. While holding `Shift`, double click the osu! icon on your desktop.
-3. Continue holding `Shift` until you see the osu! recovery dialog prompt.
-4. When the `osu! configuration` dialog opens, click the `reset settings` button.
-5. If you still aren't having any luck, open the dialog again and click `repair osu!`.
+1. Start osu! while holding down the `Shift` key on your keyboard.
+2. Continue holding `Shift` until you see the osu! recovery dialog prompt.
+3. When the `osu! configuration` dialog opens, click the `reset settings` button.
+4. If you still aren't having any luck, open the dialog again and click `repair osu!`.
 
 #### osu! freezes when I click a link or multiplayer map!
 
@@ -271,7 +270,7 @@ You can also try forcing the game to update.
 **This can be changed via the in-game options menu.**
 
 1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
+2. Enter the `Options` menu or hit `Control` + `O`.
 3. Type `release` into the quick-search to jump straight to the option.
 4. Ensure the dropdown says `Stable (Latest)` to receive the latest stable build of the game.
 
@@ -280,7 +279,7 @@ You can also try forcing the game to update.
 **You can force the game to update via the options menu.**
 
 1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
+2. Enter the `Options` menu or hit `Control` + `O`.
 3. Type `update` into the quick-search to jump straight to the option.
 4. Click the `Run osu! updater` button.
 
@@ -303,7 +302,7 @@ See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista
 
 #### Some of my beatmaps are missing!
 
-**Make sure you are not grouping your beatmaps by anything in the top right of the screen, "grouping" should be set to "no grouping".**
+**Make sure you are not grouping your beatmaps by anything in the top right of the screen, i.e. "grouping" should be set to "no grouping".**
 
 If you've just downloaded a map, you may want to try refreshing your beatmap list by pressing `F5` at the song selection screen.
 
@@ -312,21 +311,23 @@ Make sure you are not limiting what maps are being displayed in the game options
 To check or change what beatmaps are displayed in the song select menu, try the following steps:
 
 1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
+2. Enter the `Options` menu or hit `Control` + `O`.
 3. Type `song select` into the quick-search to jump straight to the option.
 4. Make sure `Display beatmaps from` is set to 0 stars, and that `to` is set to 10+ stars.
+
+![](/img/beatmapdiffdisp "The Diplay Beatmaps setting set to the correct values")
 
 If none of these methods work, as a last resort you can try forcing your beatmap database to be recreated. **Note that this will mark all your maps as "unplayed", so searching and grouping maps by fields that rely on date played will no longer work.**
 
 To safely force your beatmap database to be recreated, try the following steps:
 
 1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
+2. Enter the `Options` menu or hit `Control` + `O`.
 3. Click `Open osu! folder`
 4. Close osu!.
 5. Find the `osu!.db` file located in the folder you just opened.
 6. Right-click on it, then click `Rename`.
-7. Rename it to anything, it does not matter what you rename it to, as long as it is not "osu!". Then press `Enter`.
+7. Rename it to anything. It does not matter what you rename it to, as long as it is not "osu!". Then press `Enter`.
 8. Relaunch osu!.
 
 #### My song list keeps scrolling!
@@ -437,7 +438,9 @@ Try closing any extra programs before playing osu! if you find that your scores 
 
 **Sometimes the statuses of your beatmaps can get messed up, meaning the scores you set on them can't submit.**
 
-In the song select menu, check in the top left of the screen for any small icons, for example a ranked beatmap should display a blue arrow icon in the top left. If your beatmaps do not display any icon, or an incorrect icon, then your scores cannot submit. 
+In the song select menu, check in the top left of the screen for any small icons, for example a ranked beatmap should display a blue arrow icon in the top left. If your beatmaps do not display any icon, or displays an incorrect icon, then your scores cannot submit. 
+
+![](img/mapstatusgood.png "This is what it should look like")
 
 Playing with the `global leaderboard` selected, rather than the local leaderboard, can help prevent this on a map by map basis. If a large number of your beatmaps, or all of them, are missing/have incorrect statuses, try forcing your beatmap database file to be recreated. You can find out how to safely do this above in the "Some of my beatmaps are missing!" section. After doing this, it may take some time to for all your maps to regain the correct status.
 
@@ -565,7 +568,7 @@ This helps to identify your own messages from everyone else's. There is no optio
 To check what your frame limiter is set to, follow these steps:
 
 1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
+2. Enter the `Options` menu or hit `Control` + `O`.
 3. Type `frame` into the quick-search to bring up the frame limiter options.
 
 If your frame limiter is set to Unlimited, you may notice a significant improvement by changing it to one of the other three options.
@@ -629,7 +632,7 @@ We also suggest ensuring your peripherals are clean and free from dirt or debris
 To enable raw input, follow these steps:
 
 1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
+2. Enter the `Options` menu or hit `Control` + `O`.
 3. Type `raw` into the quick-search to jump straight to the option.
 4. Click the `Raw input` setting to enable it.
 
@@ -659,7 +662,7 @@ Try closing some programs that you do not need open while playing the game and/o
 
 **Viruses, spyware, malware or other unwanted software can cause serious performance problems for even high-end computers.**
 
-Keep your computer clean and safe and you might notice an improvement. Try running a virus scan on your computer to find and get eliminate such issues.
+Keep your computer clean and safe and you might notice an improvement. Try running a virus scan on your computer to find and eliminate such issues.
 
 ##### How old is your computer?
 
@@ -755,7 +758,7 @@ Users who are not on your friendslist can no longer contact you.
 
 ##### Prevent any new forum private messages from reaching you
 
-Go to your [account settings](https://osu.ppy.sh/home/account/edit) and click `block private messages from people not on your friends list` in the Privacy section. Private messages from users in your friendlist will still reach you.
+Go to your [account settings](https://osu.ppy.sh/home/account/edit) and click `block private messages from people not on your friends list` in the Privacy section. Private messages from users in your friendslist will still reach you.
 
 ##### What if I'm still having problems with a user after blocking them?
 
@@ -1024,9 +1027,7 @@ When faced with tricky performance issues in osu!, the Frame Time Graph is a goo
 If a support team member has asked you to take a video or screenshot with the Frame Time Graph open, here's how to do it:
 
 1. Open osu!.
-2. Press `Ctrl` + `F11`. to open the Frame Time Graph.
+2. Press `Ctrl` + `F11` to open the Frame Time Graph.
 3. Trigger or wait for the performance issue to occur.
 4. Take a screenshot by pressing `Shift` + `F12`. This will open a browser tab with the screenshot in it, copy and paste the link provided into your forum post.
 5. Close the Frame Time Graph the same way you opened it, by pressing `Ctrl` + `F11`.
-
-If you need to record a video of this, you will need to download a video recording software and use that.
