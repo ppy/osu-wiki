@@ -44,8 +44,6 @@ Her modun aylık aktivite için kendi asgari gereksinimleri aşağıdaki gibidir
 
 ### Niteliklendirme
 
-- **Bir şarkının benzer versiyonlarının farklı beatmapleri aynı modda aynı anda niteliklendirilemez.** Kısaltmalar, uzatmalar, ya da basit aranjmanlar şarkının benzer versiyonlarına dahildir.
-- **Bir şarkının önemli derecede farklı versiyonlarından en fazla 3 tanesi aynı modda aynı anda niteliklendirilebilir.** Remixler, derlemeler, ve mashuplar şarkının önemli derecede farklı versiyonlarına dahildir.
 - **Bir beatmapi mapper ile iletişim kurmadan doğrudan niteliklendirmeyin.** Son aday göstermeden sonra mapperın kendisi bazı değişiklikler yapmış olabilir, dolayısıyla mapper ile irtibat halinde olmadan bir beatmap setini aday göstermek gereksiz diskalifikasyonlara yol açabilir.
 
 ## Aday gösterme sıfırlama
