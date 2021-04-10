@@ -10,7 +10,7 @@ tags:
 
 *Pour d'autres utilisations, voir [Rank (désambiguïsation)](/wiki/Disambiguation/Rank).*
 
-Le **Ranking** (alternativement appelé "leaderboards") est une liste qui classe les membres de la communauté d'osu! selon certains critères.
+Le **ranking** (alternativement appelé "leaderboards") est une liste qui classe les membres de la communauté d'osu! selon certains critères.
 
 Tous les classements, à l'exception des classements individuels, peuvent être consultés en passant la souris sur le menu `rankings` de l'en-tête du site. Pour le classement individuel d'une beatmap, vous pouvez le trouver sur la page d'information de la beatmap.
 
@@ -34,7 +34,7 @@ Les classements Spotlights sont des classements limités dans le temps qui compa
 
 ## Classement Beatmap
 
-Le classement des beatmaps compare les scores des joueurs entre eux sur des beatmaps individuels. Ils apparaissent lorsqu'un beatmap a été [Qualifié](/wiki/Beatmap/Category#qualified), [Classé](/wiki/Beatmap/Category#ranked), [Approuvé](/wiki/Beatmap/Category#approved) ou Loved. Les huit premiers sont affichés sans qu'il soit nécessaire de les faire défiler, et si le joueur a un score parmi les 50 premiers, son score défilera automatiquement. Les rangs de première place peuvent être vus sur la page de profil d'un utilisateur.
+Le classement des beatmaps compare les scores des joueurs entre eux sur des beatmaps individuels. Ils apparaissent lorsqu'une beatmap a été [Qualifié](/wiki/Beatmap/Category#qualified), [Classé](/wiki/Beatmap/Category#ranked), [Approuvé](/wiki/Beatmap/Category#approved) ou Loved. Les huit premiers sont affichés sans qu'il soit nécessaire de les faire défiler, et si le joueur a un score parmi les 50 premiers, son score défilera automatiquement. Les rangs de première place peuvent être vus sur la page de profil d'un utilisateur.
 
 ## Classement par pays
 

@@ -13,7 +13,7 @@ Le terme **star** a quatre significations :
 1. Étape du processus de modification d'une beatmap au cours de laquelle un modérateur juge qu'une beatmap est sur la bonne voie mais doit être amélioré avant d'être approuvé par une bulle.
    - Il s'agit par exemple d'ajustements du timing, d'un espacement incorrect des beats dans certaines zones ou de la création de versions de difficulté supplémentaires.
    - Les beatmaps qui reçoivent une étoile sont signalés par une étoile graphique à côté du titre de leur fil de discussion.
-   - Une étoile peut être retirée par un autre mod si l'on estime que la beatmap doit être amélioré.
+   - Une étoile peut être retirée par un autre modder si l'on estime que la beatmap doit être amélioré.
 2. Un autre terme pour "classement par étoiles".
    - Le symbole qui représente la difficulté d'une beatmap.
 3. Un autre terme pour "[Kudosu](/wiki/Modding/Kudosu)".

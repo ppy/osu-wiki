@@ -11,14 +11,14 @@ Le terme **Silence** est utilisé pour décrire la punition consistant à limite
 Les utilisateurs qui sont réduits au silence par les modérateurs ne peuvent pas faire ce qui suit :
 
 - Modifier leur page d'utilisateur
-- Modifier son avatar/son profil <!-- unconfirmed on new site, but was a thing on old -->
+- Modifier son avatar/son profil
 - Soumettre une [beatmap](/wiki/Beatmap)
 - Envoyer/recevoir des messages privés
-- Postez sur l'un des forums d'osu!
+- Postez sur les forums d'osu!
 
 ## Raisons courantes des silences
 
-*Attention : Adopter un "comportement inapproprié" dans les messages privés n'est pas contraire aux règles, à moins que ce comportement inapproprié ne soit transmis à des destinataires involontaires ou non consentants dans lesdits messages privés. En cas de signalement, des sanctions appropriées seront prises.*
+*Attention : Adopter un "comportement inapproprié" dans les messages privés n'est pas contraire aux règles, à moins que ce comportement inapproprié ne soit transmis à des destinataires involontaires ou non consentants dans les messages privés en question. En cas de signalement, des sanctions appropriées seront prises.*
 
 - Comportement inapproprié dans les chats ou forums publics (par exemple, `#multiplayer`, discussions sur les beatmaps, commentaires, etc.) y compris, mais sans s'y limiter, le spamming, les discussions absurdes, le racisme, etc.
 - Télécharger ou publier du contenu inapproprié par d'autres moyens. (Par exemple, avatars de profil, soumissions de beatmaps, détails de profil, bio de page d'utilisateur, bannière, etc.)
