@@ -315,7 +315,7 @@ To check or change what beatmaps are displayed in the song select menu, try the 
 3. Type `song select` into the quick-search to jump straight to the option.
 4. Make sure `Display beatmaps from` is set to 0 stars, and that `to` is set to 10+ stars.
 
-![](/img/beatmapdiffdisp "The Diplay Beatmaps setting set to the correct values")
+![](img/beatmapdiffdisp "The Diplay Beatmaps setting set to the correct values")
 
 If none of these methods work, as a last resort you can try forcing your beatmap database to be recreated. **Note that this will mark all your maps as "unplayed", so searching and grouping maps by fields that rely on date played will no longer work.**
 
