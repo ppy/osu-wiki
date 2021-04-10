@@ -12,7 +12,7 @@ For the third iteration of osu! Beatmapping World Championship, we have taken yo
 
 ## osu! Beatmapping World Championship 2021
 
-For more information, check out the [wiki page](/wiki/Contests/oBWC/3) and the [official website](https://obwc.net/).
+For more information, check out the [wiki page](/wiki/Contests/oBWC/3) and the [official website](https://obwc.net/ "osu! Beatmapping World Championship").
 
 ### Contest Judges - Mappers
 
@@ -76,7 +76,7 @@ Interested in becoming a judge? Awesome! Whichever judging section you wish to t
 
 ---
 
-Ultimately, it is time to wrap things up. We hope that 2021 edition of osu! Beatmapping Championship, with its traditional and brand-new features, has piqued your interest. For forthcoming updates, [follow us on Twitter](https://twitter.com/osubwc) and [join our Discord server](https://discord.gg/CZp4bNx)!
+With all the exciting news, it is time to wrap things up. We hope that the 2021 edition of osu! Beatmapping Championship, with its traditional and brand-new features, has piqued your interest. For forthcoming updates, [follow us on Twitter](https://twitter.com/osubwc "Twitter") and [join our Discord server](https://discord.gg/CZp4bNx "Discord")!
 
 We are eagerly waiting for your applications and looking forward to meeting with you by early May 2021!
 
