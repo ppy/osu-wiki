@@ -1,6 +1,6 @@
 # ppv1
 
-第一代Performance Points （简称 **ppv1**） 是用于所有osu!游戏模式的一种老式的评定标准。它取代了原有的*总分数排名*，并因 [ppv2](..)的加入被遗弃。
+第一代Performance Points （简称 **ppv1**） 是用于所有osu!游戏模式的一种老式的评定标准。它取代了原有的*总分数排名*，并因 [ppv2](/wiki/Performance_points/ppv2)的加入被遗弃。
 
 ## 历史
 
