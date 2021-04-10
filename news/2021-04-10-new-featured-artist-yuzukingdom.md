@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Featured Artist: Voicians"
+title: "New Featured Artist: YUZUKINGDOM"
 date: 2021-04-10 08:30:00 +0000
 ---
 
