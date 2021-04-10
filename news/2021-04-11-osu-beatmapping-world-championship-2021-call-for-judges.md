@@ -4,11 +4,11 @@ title: "osu! Beatmapping World Championship 2021: Call for Judges"
 date: 2021-04-11 14:00:00 +0000
 ---
 
-With the Spring season comes the next iteration of osu! Beatmapping World Championship! If you're excited and eager to help us out, here's your chance: We are looking for judges!
+With the Spring season comes the next iteration of osu! Beatmapping World Championship! If you're excited and eager to help us out, here's your chance, because we're looking for judges!
 
 ![](/wiki/shared/news/banners/obwc2021.png)
 
-For the third iteration of osu! Beatmapping World Championship, we have taken your feedbacks into account and implemented some significant changes in order to make this contest enjoyable for everyone. To help us with judging, we are looking for mappers, modders, and this time even players! Looking for where to apply? Just keep on reading, and you'll find out!
+For the third iteration of osu! Beatmapping World Championship, we have taken your feedback into account and implemented some significant changes in order to make this contest enjoyable for everyone. To help us with judging, we are looking for mappers, modders, and this time even players! Looking for where to apply? Just keep on reading, and you'll find out!
 
 ## osu! Beatmapping World Championship 2021
 
@@ -18,9 +18,9 @@ For more information, check out the [wiki page](/wiki/Contests/oBWC/3) and the [
 
 Unlike the last iteration, this year's contest is planned to host an accumulative leaderboard, enabling all participants to stay in the contest for as long as it goes. To determine the placements, we will need the help of the mappers extraordinaire, modding enthusiasts, and maybe even you (yes, you!) to partake as judges throughout the contest.
 
-Now, you may have questions as to according to which criteria these judges will rate the submissions. Worry not! Here are the criteria:
+Now, you may have questions regarding which criteria these judges will rate the submissions. Worry not! Here are the criteria:
 
-- **Fundamentals**: This criterion will focus on the fundamental abilities of mapping. A map can show the fundamental skills of mappers in different aspects, include, but not limit to: respect to the ranking criteria, completeness of hitsounding, style and pattern consistencies throughout the difficulty, reasonable fluctuations of difficulty according to the music, and many more.
+- **Fundamentals**: This criterion will focus on the fundamental abilities of mapping. A map can show the fundamental skills of mappers in different aspects, including, but not limited to: respect to the ranking criteria, completeness of hitsounding, style and pattern consistencies throughout the difficulty, reasonable fluctuations of difficulty according to the music, and much more.
 - **Expertise**: Our judges are also expected to focus on the advanced skills or expertise of mapping. A map with high expertise shows excellent management over note patterns, flows, movements, and even hitsounds. Those maps are outstanding compared with their peers in this contest and mark themselves as top-tier in the state-of-the-art mapping community.
 - **Creativity**: As with everything, beatmaps and mapping techniques are subject to change over time. Moreover, the history of osu!mapping is always shaped by creative maps, showing an avant-garde or even ahead-of-time understanding of mapping. Creative yet solid maps are the art of osu! and thus definitely promoted in this contest.
 
@@ -46,11 +46,11 @@ To take part as a Players' Pick judge, your osu! rank needs to be *higher than #
 
 ### Multi-mode Judges
 
-Drummers, fruit catchers, and keyboard smashers behold! This year, we are going to host three more contests for three other game modes. The details are still worked on, but if you're an early bird wishing to partake as a judge for osu!taiko, osu!catch, or osu!mania edition of the osu! Beatmapping World Championship, you may submit your application right away!
+Drummers, fruit catchers, and keyboard smashers behold! This year, we are going to host three more contests for three other game modes. The details are still worked on, but if you're an early bird wishing to partake as a judge for the osu!taiko, osu!catch, or osu!mania edition of the osu! Beatmapping World Championship, you may submit your application right away!
 
 ## Schedule
 
-Below is the provisional schedule for the upcoming contest. Be reminded that reschedules might occur due to unexpected organizational matters.
+Below is the provisional schedule for the upcoming contest. Keep in mind that reschedules might occur due to unexpected organizational matters.
 
 | Event | Timestamp |
 | --: | :-- |
@@ -72,7 +72,7 @@ Multi-mode contests are planned to be hosted approximately 2 months anterior to 
 
 Interested in becoming a judge? Awesome! Whichever judging section you wish to take part in, all you have to do is to click on the link below.
 
-[**Please fill out this form in order to apply as a judge!**](https://forms.gle/he4sT7DeX5UVr4j27)
+[**Please fill out this form in order to apply as a judge!**](https://forms.gle/he4sT7DeX5UVr4j27 "Google Forms")
 
 ---
 
