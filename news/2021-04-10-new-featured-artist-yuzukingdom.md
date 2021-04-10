@@ -14,7 +14,7 @@ What happens when you merge an insanely talented J-rock vocalist with the instru
 
 We've hand-picked **11** of the most osu!-esque songs from these albums, all available right now from [**YUZUKINGDOM**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/155).
 
-Not familiar with these musical gems? Give yourself a taste by watching as [NiN](https://osu.ppy.sh/users/7166622) struggles to play a map of [*YUZUKINGDOM - Roskill Lavendar*](https://osu.ppy.sh/beatmapsets/1410727) by [Nao Tomori](https://osu.ppy.sh/users/5364763) in a super tiny 640x480 window. Oh, and check out the rest of these previews:
+Not familiar with these musical gems? Give yourself a taste by watching as [NiN](https://osu.ppy.sh/users/7166622) struggles to play a map of [*YUZUKINGDOM - Roskill Lavender*](https://osu.ppy.sh/beatmapsets/1410727) by [Nao Tomori](https://osu.ppy.sh/users/5364763) in a super tiny 640x480 window. Oh, and check out the rest of these previews:
 
 <div align="center">
     <video width="95%" controls>
