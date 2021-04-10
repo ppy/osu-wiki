@@ -7,4 +7,4 @@ tags:
 
 # Blanket
 
-Un **blanket** est l'effet créé lorsqu'un [sliderbody](/wiki/Hit_object/Sliderbody) s'enroule autour de la forme d'un autre [hit object](/wiki/Hit_object). le blanket peut être réalisée de plusieurs façons pour s'adapter au style visuel d'une [beatmap](/wiki/Beatmap). Vous trouverez un guide pour les réaliser dans l'article sur les [techniques de mapping](/wiki/Mapping_Techniques/Making_Good_Sliders#beat-blankets).
+Un **blanket** est l'effet créé lorsqu'un [sliderbody](/wiki/Hit_object/Sliderbody) s'enroule autour de la forme d'un autre [objet](/wiki/Hit_object). le blanket peut être réalisée de plusieurs façons pour s'adapter au style visuel d'une [beatmap](/wiki/Beatmap). Vous trouverez un guide pour les réaliser dans l'article sur les [techniques de mapping](/wiki/Mapping_Techniques/Making_Good_Sliders#beat-blankets).
