@@ -44,8 +44,6 @@ Setiap mode memiliki kebutuhan minimum tersendiri untuk aktivitas bulanan.
 
 ### Kualifikasi
 
-- **Beatmap yang berbeda dari versi sebuah lagu yang sama tidak dapat dikualifikasikan di mode yang sama pada waktu yang bersamaan.** Versi yang sama dari sebuah lagu yang dimaksud adalah potongan, perpanjangan, dan cover sederhana.
-- **Hanya 3 versi lagu yang berbeda yang dapat dikualifikasikan di mode yang sama pada waktu yang bersamaan.** Versi yang berbeda yang dimaksud adalah remix, kompilasi, dan mashup.
 - **Jangan mengkualifikasi sebuah beatmap secara langsung tanpa komunikasi apapun dengan mapper.** Mapper tersebut mungkin telah melakukan perubahan sendiri setelah nominasi terakhir, jadi menominasi sebuah beatmapset tanpa berkomunikasi dengan mapper dapat menyebabkan diskualifikasi yang sia-sia.
 
 ## Mereset nominasi
