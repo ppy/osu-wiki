@@ -1,0 +1,14 @@
+---
+stub: true
+tags:
+  - score v1
+  - skor v1
+---
+
+# Efek pengganda kombo
+
+**Efek pengganda kombo** adalah sebuah bug di dalam [scoreV1](/wiki/Score/ScoreV1) yang mana [skor](/wiki/Score) diizinkan dihitung secara mundur. Ini adalah sebuah kecacatan *integer* (bilangan bulat) 32-bit bertanda, di mana (dalam komputasi) *integer* memiliki maksimal `2,147,483,647`. Setelah batasan tersebut tercapai, skor akan mulai dihitung mundur. Di dalam [scoreV2](/wiki/Score#scorev2) masalah ini telah diperbaiki dengan membatasi skor pada 1 juta poin, bukan pengubah akuntansi.
+
+Efek pengganda kombo terjadi pada [osu!standard](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), dan [osu!catch](/wiki/Game_mode/osu!catch) saja. Ini disebabkan karena mode permainan terdaftar menggunakan [kombo](/wiki/Glossary/Combo_(score_multiplier)) dari arus pemain sebagai bagian dari perhitungan skor. Artinya seorang pemain akan mendapatkan skor yang lebih tinggi jika memperoleh [full combo (FC)](/wiki/Glossary#fc) daripada pemain lainnya yang memainkan beatmap yang sama dengan kombo yang pecah.
+
+<!--TODO: Add images and links-->
