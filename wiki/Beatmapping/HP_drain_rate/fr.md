@@ -5,18 +5,18 @@ tags:
   - passive drain rate
 ---
 
-# HP drain rate
+# Taux de drain de vie
 
 *Pour la santé en tant que mécanisme de gameplay, voir : [Santé](/wiki/Beatmapping/Health)*\
-*Pour les règles concernant HP drain rate, voir : [Critères de classement](/wiki/Ranking_Criteria)*.
+*Pour les règles concernant le taux de drain de vie, voir : [Critères de classement](/wiki/Ranking_Criteria)*.
 
-Le **HP drain rate** (***HP***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui contrôle la quantité de [santé](/wiki/Beatmapping/Health) qui est perdue passivement à cause du [health drain](/wiki/Beatmapping/Health_drain). Il affecte également le degré de pénalisation du joueur lorsqu'il manque des notes et la quantité de santé qu'il récupère en touchant avec précision les [hit objects](/wiki/Hit_Objects).
+Le **taux de drain de vie** (***HP***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui contrôle la quantité de [santé](/wiki/Beatmapping/Health) qui est perdue passivement à cause du [drain de vie](/wiki/Beatmapping/Health_drain). Il affecte également le degré de pénalisation du joueur lorsqu'il manque des notes et la quantité de santé qu'il récupère en touchant avec précision les [objets](/wiki/Hit_Objects).
 
-Le HP drain rate va de 0 à 10, où 10 est le plus punitif et 0 le plus indulgent.<!-- TODO: quantify what the value actually means -->
+Le taux de drain de vie va de 0 à 10, où 10 est le plus punitif et 0 le plus indulgent.
 
 ## Effets des mods
 
-Il existe quatre mods qui modifient le HP drain rate lorsqu'ils sont activés :
+Il existe quatre mods qui modifient le taux de drain de vie lorsqu'ils sont activés :
 
 - [Easy](/wiki/Game_modifier/Easy): Réduit de moitié la valeur HP.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplie la valeur HP par 1.4, jusqu'à un maximum de 10.

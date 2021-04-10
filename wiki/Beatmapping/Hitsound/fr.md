@@ -7,11 +7,9 @@ tags:
 
 # Hitsound
 
-*Voir aussi : [Ajouter des hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*.
+*Voir aussi : [Ajouter des hitsounds personnalisés](/wiki/Guides/Adding_Custom_Hitsounds)*.
 
-<!-- TODO: could make more articles about each part of hitsounds, and also one focused more on gameplay than mapping -->
-
-Les **hitsounds** sont les sons qu'osu! joue en réponse aux frappes de l'utilisateur lorsqu'il interagit avec les [hit objects](/wiki/Hit_Objects). Les hitsounds sont généralement utilisés pour donner un retour auditif au joueur afin de l'aider à évaluer sa [précision](/wiki/Accuracy) par rapport à la chanson.
+Les **hitsounds** sont les sons qu'osu! joue en réponse aux frappes de l'utilisateur lorsqu'il interagit avec les [objets](/wiki/Hit_Objects). Les hitsounds sont généralement utilisés pour donner un retour auditif au joueur afin de l'aider à évaluer sa [précision](/wiki/Accuracy) par rapport à la beatmap.
 
 Le feedback hitsound se compose d'un échantillon par défaut appelé "normal hit", et de n'importe quelle combinaison d'ajouts d'échantillons de whistle, de finish ou de clap. Chaque échantillon a un des trois "ensembles d'échantillons" qui changent son style : `Normal`, `Soft`, ou `Drum`.
 
@@ -31,10 +29,10 @@ Les hitsounds peuvent être ajoutés lors du storyboarding, mais comme ils ne so
 
 ## Keysound
 
-Un keysound est un échantillon de hitsound qui est extrêmement similaire à la chanson, ou directement tiré de celle-ci, et qui est utilisé pour reproduire la hauteur des notes de la chanson. Cette méthode de sonorisation des hits fournit généralement un faible feedback au joueur, mais peut rendre le jeu de certains beatmaps plus intéressant et faire ressortir certaines sections d'une map lorsqu'elle est bien appliquée.
+Un keysound est un échantillon de hitsound qui est extrêmement similaire à la musique, ou directement tiré de celle-ci, et qui est utilisé pour reproduire la hauteur des notes de la musique. Cette méthode de sonorisation des hits fournit généralement un faible feedback au joueur, mais peut rendre le jeu de certains beatmaps plus intéressant et faire ressortir certaines sections d'une map lorsqu'elle est bien appliquée.
 
 ## Dans osu!taiko
 
-Contrairement aux autres [modes de jeu](/wiki/Game_mode), les hitsounds de [osu!taiko](/wiki/Game_mode/osu!taiko) affectent directement la jouabilité de leurs cartes. Les Kats se distinguent des Dons à l'aide de whistle et de claps, et les grandes notes se distinguent des notes normales à l'aide de finishers.
+Contrairement aux autres [modes de jeu](/wiki/Game_mode), les hitsounds du mode [osu!taiko](/wiki/Game_mode/osu!taiko) affectent directement la jouabilité de leurs beatmaps. Les Kats se distinguent des Dons à l'aide de whistle et de claps, et les grandes notes se distinguent des notes normales à l'aide de finishers.
 
 Les échantillons par défaut de osu!taiko sont uniques au mode, et les mappeurs ne les remplacent généralement pas.

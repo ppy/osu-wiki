@@ -11,7 +11,7 @@ Le **star ranting** (***SR***) décrit la difficulté d'une [beatmap](/wiki/Beat
 
 ## Difficulté
 
-*Page principale : [Difficulty](/wiki/Beatmap/Difficulty)*
+*Page principale : [Difficulté](/wiki/Beatmap/Difficulty)*
 
 ![Plages de classement par étoiles](/wiki/Beatmap/Difficulty/img/SR-range.png)
 
