@@ -6,7 +6,7 @@ stub: true
 
 ![](img/taiko-drum.jpg "Tambour de Taiko")
 
-Le **contrôleur de tambour** est un périphérique d'entrée conçus pour fonctionner avec des jeux de batterie de type Taiko. Ils ont le plus souvent quatre zones d'entrée : centre de la batterie droite, centre de la batterie gauche , bord de la batterie droite et bord de la batterie gauche, chaque entrée (touche) étant activée par une baguette de batterie qui est frappée sur la zone correspondante de la batterie.
+Le **contrôleur de tambour** est un périphérique d'entrée conçus pour fonctionner avec des jeux de batterie de type Taiko. Ils ont le plus souvent quatre zones d'entrée : centre de la batterie droite, le centre de la batterie gauche , le bord de la batterie droite et le bord de la batterie gauche, chaque entrée (touche) étant activée par une baguette de batterie qui est frappée sur la zone correspondante de la batterie.
 
 ## Entrée
 

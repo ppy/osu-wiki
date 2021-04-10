@@ -14,7 +14,7 @@ Cette option vous permet de sélectionner une vitesse de souris personnalisée e
 
 ### Entrée brute
 
-L'entrée brute contournera l'accélération de la souris de Windows et fournira le mouvement de la souris le plus précis. Il est nécessaire d'activer l'entrée brute pour pouvoir définir la sensibilité personnalisée de la souris sous Windows 7+.
+L'entrée brute contournera l'accélération de la souris de Windows et fournira le mouvement de la souris le plus précis. Il est nécessaire d'activer l'entrée brute pour pouvoir définir la sensibilité personnalisée de la souris sous Windows 7 et +.
 
 ### Confinez le curseur
 
