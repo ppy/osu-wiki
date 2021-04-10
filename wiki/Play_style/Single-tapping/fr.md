@@ -10,9 +10,9 @@ tags:
 
 # Single-tapping
 
-Le **Single-tapping** est un style de tapping pour [osu!standard](/wiki/Game_mode/osu!) dans lequel les joueurs cliquent sur des cercles, font glisser des sliders et font tourner des spinners en utilisant une seule touche de leur clavier (`Z` ou `X` par défaut). Ce style est commun à tous les joueurs, quel que soit leur niveau, et c'est celui auquel il est le plus facile de s'adapter.
+Le **Single-tapping** est un style de jeu pour le mode [osu!standard](/wiki/Game_mode/osu!) dans lequel les joueurs cliquent sur des cercles, font glisser des sliders et font tourner des spinners en utilisant une seule touche de leur clavier (`Z` ou `X` par défaut). Ce style est commun à tous les joueurs, quel que soit leur niveau, et c'est celui auquel il est le plus facile de s'adapter.
 
-Malgré leur nom, la plupart des joueurs qui single-tapping ne tapent pas toujours avec une seule touche. La plupart d'entre eux préfèrent taper sur une seule touche pour presque tout, sauf pour les [streams](/wiki/Beatmap/Pattern/Stream), les [stacks](/wiki/Mapping_Techniques/Stack) et les streams rapides. Dans ce cas, ils opteront souvent pour un style [alternating](/wiki/Play_style/Alternating) et/ou [double tapping](/wiki/Play_style/Double_tapping).
+Malgré leur nom, la plupart des joueurs qui utilise le single-tapping ne tapent pas toujours avec une seule touche. La plupart d'entre eux préfèrent taper sur une seule touche pour presque tout, sauf pour les [streams](/wiki/Beatmap/Pattern/Stream), les [stacks](/wiki/Mapping_Techniques/Stack) et les streams rapides. Dans ce cas, ils opteront souvent pour un style [alternating](/wiki/Play_style/Alternating) et/ou [double tapping](/wiki/Play_style/Double_tapping).
 
 ## Arguments
 

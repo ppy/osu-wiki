@@ -8,6 +8,6 @@ tags:
 
 # Tapping style
 
-*À ne pas confondre avec [Style de jeu](/wiki/Play_style).*
+*À ne pas confondre avec [style de jeu](/wiki/Play_style).*
 
-Un **tapping style** est un terme utilisé pour décrire une méthode de frappe des touches ou d'envoi des entrées sur le périphérique d'entrée pour toucher les [hit object](/wiki/Hit_objects) dans osu!. Les tapping style courants pour [osu!standard](/wiki/Game_mode/osu!) comprennent [alternating](/wiki/Play_style/Alternating), [single-tap](/wiki/Play_style/Single-tap), [double tap](/wiki/Play_style/Double_tapping), [Hybrid](/wiki/Play_style/Hybrid), et [tapx](/wiki/Play_style/Tapx).
+Le terme **tapping style** est utilisé pour décrire une méthode de frappe des touches ou d'envoi des entrées sur le périphérique d'entrée pour toucher les [objets](/wiki/Hit_objects) dans osu!. Les tapping style courants pour le mode [osu!standard](/wiki/Game_mode/osu!) comprennent l'[alternating](/wiki/Play_style/Alternating), le [single-tap](/wiki/Play_style/Single-tap), le [double tap](/wiki/Play_style/Double_tapping), l'[hybrid](/wiki/Play_style/Hybrid), ou encore le [tapx](/wiki/Play_style/Tapx).
