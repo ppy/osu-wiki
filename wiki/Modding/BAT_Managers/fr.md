@@ -19,7 +19,7 @@ Suite à la promotion de tous les membres actifs de la [Mapping Assistance Team]
 
 Ces postes BATm régionaux ont été remplacés le 22 décembre 2013 par ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), et ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) jusqu'à la séparation du BAT en groupe de nomination Beatmap (puis en [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)) et en [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) le 21 août 2014.
 
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
