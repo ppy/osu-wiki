@@ -13,7 +13,7 @@ tags:
 
 *À ne pas confondre avec [Nightcore (genre)](https://fr.wikipedia.org/wiki/Nightcore "Wikipedia").*\
 *Voir aussi : [NC (désambiguïsation)](/wiki/Disambiguïsation/NC), [Double Time (mod)](/wiki/Game_modifier/Double_Time)*\
-*Pour la liste complète de tous les mods, voir : [Modificateurs de jeu](/wiki/Game_modifier)*
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*
 
 ## À propos
 
@@ -25,7 +25,7 @@ tags:
   - ![][o!c]: 1.06x
   - ![][o!m]: 1.00x
 - Touche de raccourci par défaut : `D` `D` ou `Shift`+`D`
-- Légende : `uguuuuuuuu`
+- Légende : `uguuuu~`
 - Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - Variante : [Double Time](/wiki/Game_modifier/Double_Time)
 

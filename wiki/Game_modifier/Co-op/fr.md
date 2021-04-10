@@ -12,9 +12,9 @@ tags:
 
 # Le mod Co-op
 
-![Icône du mod co-op](/wiki/shared/mods/CP.png "Icône du mod Co-op (CO)")
+![Icône du mod CO](/wiki/shared/mods/CP.png "Icône du mod Co-op (CO)")
 
-*Pour la liste complète de tous les mods, voir : [Modificateur de jeu](/wiki/Game_modifier)*\
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*\
 *À ne pas confondre avec [Multiplayer](/wiki/Multi).*
 
 ## À propos
@@ -22,22 +22,22 @@ tags:
 - Abréviation : CP ou CO
 - Type : Spécial
 - Multiplicateur de score : 0.70x-1.00x (voir [tableau ci-dessous](#multiplicateur-de-score))
-- Légende : `Doublez le montant de la clé, doublez le plaisir !`.
+- Légende : `Deux fois plus de touches pour deux fois plus de fun !`.
 - Modes de jeu compatibles : ![][o!m]
 
 ## Description
 
 *Attention : L'activation du mod Co-op entraînera un jeu non classé*.
 
-Le mod **Co-op** est un [modificateur de jeu](/wiki/Game_modifier) pour [osu!mania](/wiki/Game_mode/osu!mania) qui introduit un deuxième champ de jeu avec un deuxième ensemble de contrôles basés sur le compte *x*K actuel (par exemple, 7K -> 7K + 7K = 14K). Pour les [beatmaps](/wiki/Beatmap) spécifiques à osu!mania, le *x*K est divisé en deux (par exemple 7K -> 4K + 3K = 7K).
+Le mod **Co-op** est un [modificateur de jeu](/wiki/Game_modifier) pour le mode [osu!mania](/wiki/Game_mode/osu!mania) qui introduit un deuxième champ de jeu avec un deuxième ensemble de contrôles basés sur le compte *x*K actuel (par exemple, 7K -> 7K + 7K = 14K). Pour les [beatmaps](/wiki/Beatmap) spécifiques à osu!mania, le *x*K est divisé en deux (par exemple 7K -> 4K + 3K = 7K).
 
 ![Comparaison du gameplay spécifique de osu!mania avec le mod Co-op](img/CP-comparison-mania-specific-beatmap.jpg "Comparaison entre un jeu normal (à gauche) et un jeu avec le mod Co-op activé (à droite) sur une beatmap spécifique à osu!mania")
 
-![Comparaison du gameplay en osu!mania avec le mod Co-op sur une beatmap converti](img/CP-comparison-converted-beatmap.jpg "Comparaison entre un jeu normal (à gauche) et un jeu avec le mod Co-op activé (à droite) sur une beatmap osu!mania converti.")
+![Comparaison du gameplay de osu!mania avec le mod Co-op sur une beatmap converti](img/CP-comparison-converted-beatmap.jpg "Comparaison entre un jeu normal (à gauche) et un jeu avec le mod Co-op activé (à droite) sur une beatmap osu!mania converti.")
 
 ### Multiplicateur de score
 
-Le tableau suivant ne concerne que les beatmaps convertis de [osu!standard](/wiki/Game_mode) en osu!mania avec le mod Co-op activé :
+Le tableau suivant ne concerne que les beatmaps convertis du mode [osu!standard](/wiki/Game_mode) en osu!mania avec le mod Co-op activé :
 
 | Défaut | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |

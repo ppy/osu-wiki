@@ -12,7 +12,7 @@ tags:
 
 ![Icône du mod TP](/wiki/shared/mods/TP.png "Icône du mod Target Practice (TP)")
 
-*Pour la liste complète de tous les mods, voir : [Modificateurs de jeu](/wiki/Game_modifier)*\
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*\
 *Remarque : le mod Target Practice n'est accessible que dans le build `Cutting Edge`.*
 
 ## À propos
@@ -26,7 +26,7 @@ tags:
 
 *Attention : L'activation du mod Target Practice entraînera un jeu non classé*.
 
-Le mod **Target Practice** est un [modificateur de jeu](/wiki/Game_modifier) expérimental qui supprime tous les [hit object](/wiki/Hit_object) mappés et les remplace par un ensemble simplifié et cohérent de "cibles".
+Le mod **Target Practice** est un [modificateur de jeu](/wiki/Game_modifier) expérimental qui supprime tous les [objets](/wiki/Hit_object) mappés et les remplace par un ensemble simplifié et cohérent de "cibles".
 
 Lors d'une partie avec le mod Target Practice activé, les joueurs se voient présenter un ensemble de "cibles" dont la taille et la luminosité augmentent lentement. Le joueur est censé toucher ou cliquer sur les cibles lorsqu'elles ont atteint leur taille et leur luminosité maximales et que le moment est venu. Un métronome constant sera joué en arrière-plan pour indiquer aux joueurs quand ils doivent toucher la cible.
 

@@ -14,8 +14,8 @@ tags:
 
 ![Icône du mod AT](/wiki/shared/mods/AT.png "Icône du mod Auto (AT)")
 
-*Pour la liste complète de tous les mods, voir : [Modificateur de jeu](/wiki/Game_modifier)*\
-*Ne pas confondre avec le mod [Autopilot](/wiki/Game_modifier/Autopilot)*.
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*\
+*À ne pas confondre avec le mod [Autopilot](/wiki/Game_modifier/Autopilot)*.
 
 ## À propos
 
@@ -23,7 +23,7 @@ tags:
 - Type : Spécial
 - Multiplicateur de score : 1.00x
 - Touche de raccourci par défaut : `V`
-- Légende : `Regardez un automate parfait jouer la chanson.`<!-- yes, that is written correctly -->
+- Légende : `Regardez l'ordinateur réaliser un score parfait`<!-- yes, that is written correctly -->
 - Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ## Description
@@ -36,24 +36,24 @@ Le mod fonctionne exactement comme un [replay](/wiki/Replay), avec les options d
 
 ### osu!standard
 
-En [osu!standard](/wiki/Game_mode/osu!), lorsqu'il est confronté à un spinner, le mod Auto tourne jusqu'à un maximum de 477 tours par minute (SPM) dans le sens inverse des aiguilles d'une montre.
+Dans le mode [osu!standard](/wiki/Game_mode/osu!), lorsqu'il est confronté à un spinner, le mod Auto tourne jusqu'à un maximum de 477 tours par minute (SPM) dans le sens inverse des aiguilles d'une montre.
 
 ### osu!taiko
 
-Dans [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Auto tentera de jouer parfaitement, mais n'obtiendra pas toujours la note SS. Il manquera parfois un tic-tac sur les roulements de tambour qui ne commencent pas sur un temps entier ou un demi-ton et ne sera pas toujours capable de terminer les dendens sur les cartes dont la difficulté globale est très élevée.
+Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Auto tentera de jouer parfaitement, mais n'obtiendra pas toujours la note SS. Il manquera parfois un tick sur les drum rolls qui ne commencent pas sur un temps entier ou un demi-ton et ne sera pas toujours capable de terminer les dendens sur les cartes dont la difficulté globale est très élevée.
 
 ### osu!catch
 
-Dans [osu!catch](/wiki/Game_mode/osu!catch), le mod Auto va en fait aller au-delà de la perfection et utiliser une vitesse illimitée pour attraper *toutes les bananes* dans un spinner, même si un tel exploit est impossible pour un joueur humain.
+Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), le mod Auto va en fait aller au-delà de la perfection et utiliser une vitesse illimitée pour attraper *toutes les bananes* dans un spinner, même si un tel exploit est impossible pour un joueur humain.
 
 ### osu!mania
 
-Dans [osu!mania](/wiki/Game_mode/osu!mania), le mod Auto tentera d'effectuer une lecture parfaite, mais peut manquer des notes densément empilées (par exemple, plusieurs pressions de touches rapprochées sur une barre de maintien).
+Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), le mod Auto tentera d'effectuer une lecture parfaite, mais peut manquer des notes densément empilées (par exemple, plusieurs pressions de touches rapprochées sur une barre de maintien).
 
 ## Le saviez-vous ?
 
 - Lorsque vous regardez un replay automatique, le nom d'utilisateur affiché dans le classement sera "osu!".
-- Après avoir regardé un replay de Auto, le mod se désélectionnera et l'utilisateur sera obligé de resélectionner le mod s'il souhaite regarder à nouveau la rediffusion. Cela se produira que la rediffusion soit regardée ou non jusqu'au bout.
+- Après avoir regardé un replay du mod Auto, ce dernier se désélectionnera et l'utilisateur sera obligé de resélectionner le mod s'il souhaite regarder à nouveau la rediffusion. Cela se produira que la rediffusion soit regardée ou non jusqu'au bout.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"

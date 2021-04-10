@@ -60,7 +60,7 @@ In [osu!catch](/wiki/Game_mode/osu!catch), the effects the same as in osu!standa
 
 Despite only using one axis, the fruits' larger size and slower falling rate may cause them to clump together, creating the same common issues with difficulty as in osu!standard.
 
-![EZ gameplay catch](img/EZ-comparison-catch.jpg "Comparison between a regular osu!at play (left) vs a play with the Easy mod enabled (right) in osu!catch")
+![EZ gameplay catch](img/EZ-comparison-catch.jpg "Comparison between a regular osu! at play (left) vs a play with the Easy mod enabled (right) in osu!catch")
 
 ### osu!mania
 

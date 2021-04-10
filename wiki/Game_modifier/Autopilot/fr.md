@@ -12,8 +12,8 @@ tags:
 
 ![Icône du mod AP](/wiki/shared/mods/AP.png "Icône du mod Autopilot (AP)")
 
-*Pour la liste complète de tous les mods, voir : Modificateurs de jeu](/wiki/Game_modifier)*\
-*Ne pas confondre avec le mod [Auto](/wiki/Game_modifier/Auto)*.
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*\
+*À ne pas confondre avec le mod [Auto](/wiki/Game_modifier/Auto)*.
 
 ## À propos
 
@@ -21,14 +21,14 @@ tags:
 - Type : Spécial
 - Multiplicateur de score : 0.00x
 - Touche de raccourci par défaut : `X`
-- Légende : `Déplacement automatique du curseur - il suffit de suivre le rythme. ** UNRANKED **`
+- Légende : `Le mouvement du curseur est automatique, contentez-vous de suivre le rythme. ** LE SCORE RÉALISÉ NE SERA PAS COMPTABILISÉ **`
 - Modes de jeu compatibles : ![][o!s]
 
 ## Description
 
 *Attention : Si vous activez le mod Autopilot, le jeu ne sera pas classé et ne sera pas enregistré dans les classements locaux.*
 
-Le mod **Autopilot** est un [modificateur de jeu](/wiki/Game_modifier) pour [osu!standard](/wiki/Game_mode/osu!) qui prendra le contrôle du mouvement du curseur et se déplacera systématiquement vers le centre exact du prochain [hit object](/wiki/Hit_object), laissant au joueur le soin de le taper. Pendant une partie avec le mod Autopilot activé, le joueur ne pourra pas déplacer son curseur, sauf s'il se trouve sur l'écran de pause.
+Le mod **Autopilot** est un [modificateur de jeu](/wiki/Game_modifier) pour le mode [osu!standard](/wiki/Game_mode/osu!) qui prendra le contrôle du mouvement du curseur et se déplacera systématiquement vers le centre exact du prochain [objet](/wiki/Hit_object), laissant au joueur le soin de le taper. Pendant une partie avec le mod Autopilot activé, le joueur ne pourra pas déplacer son curseur, sauf s'il se trouve sur l'écran de pause.
 
 Le mod Autopilot désactive également l'interface du jeu, masquant ainsi le [score](/wiki/Score), le [combo](/wiki/Beatmapping/Combo) et les ratés, bien que cela puisse être réactivé en appuyant sur `Shift`+`Tab`.
 
