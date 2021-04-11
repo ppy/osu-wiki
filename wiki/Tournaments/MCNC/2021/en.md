@@ -63,10 +63,10 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 **[Download the mappack here! (18 MB)](https://drive.google.com/file/d/1KYzdeiVoa11U0FYwjzqu-EKnDiA8DFr4/view?usp=sharing)**
 
 - FreeMod
-  - [Petit Rabbit's - Tenkuu Cafeteria (TV Size) (Hidden is fun) \[BLOOM! (No LN)\]](https://osu.ppy.sh/b/2923231)
-  - [Makoto (CV: Komatsu Mikako) / Kasumi (CV: Minase Inori) - Mikaiketsuna omoi (\[Crz\]Satori) \[ln\]](https://osu.ppy.sh/b/2924900)
-  - [Synthwulf - Passacaglia (\[Illustrious\]) \[Insane\]](https://osu.ppy.sh/b/2906275)
-  - [Applesoda - Tales of Pumpnia (\[Crz\]xz1z1z) \[Battle\]](https://osu.ppy.sh/b/2922271)
+  - [Petit Rabbit's - Tenkuu Cafeteria (TV Size) (Hidden is fun) \[BLOOM! (No LN)\]](https://osu.ppy.sh/beatmapsets/1418929#mania/2923231)
+  - [Makoto (CV: Komatsu Mikako) / Kasumi (CV: Minase Inori) - Mikaiketsuna omoi (\[Crz\]Satori) \[ln\]](https://osu.ppy.sh/beatmapsets/1419855#mania/2924900)
+  - [Synthwulf - Passacaglia (\[Illustrious\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/1409526#mania/2906275)
+  - [Applesoda - Tales of Pumpnia (\[Crz\]xz1z1z) \[Battle\]](https://osu.ppy.sh/beatmapsets/1418376#mania/2922271)
 
 ## Ruleset
 
@@ -125,7 +125,5 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 11. The referees may nullify rules at their discretion if necessary, and have the final say in what occurs during the match.
 
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
