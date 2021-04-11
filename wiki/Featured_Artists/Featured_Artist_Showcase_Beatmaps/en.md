@@ -229,6 +229,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 - **[Se-U-Ra](https://osu.ppy.sh/home/news/2020-11-03-new-featured-artist-se-u-ra)** (2020-11-03)
   - (![][o!s]) [Se-U-Ra - Qlifact -another-](https://osu.ppy.sh/beatmapsets/1224699#osu/2547134) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
+  - (![][o!m]) [Elif to Shiro Kura no Yoru -Called-](https://osu.ppy.sh/beatmapsets/1226466#mania/2550395) hosted by ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
 - **[glass beach](https://osu.ppy.sh/home/news/2020-11-07-new-featured-artist-glass-beach)** (2020-11-07)
   - (![][o!s]) [glass beach - bedroom community](https://osu.ppy.sh/beatmapsets/1080104#osu/2259739) hosted by ![][flag_US] [Dashyy-](https://osu.ppy.sh/users/6513356)
   - (![][o!s]) [glass beach - cold weather](https://osu.ppy.sh/beatmapsets/1280001#osu/2658939) hosted by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
@@ -318,7 +319,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
 
-As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming featured artist contents were pften only restricted to a handful of mappers who were predominantly of the [osu!](wiki/Game_mode/osu!) game mode. However, [the Guild's shift to an open and automated entry system in early 2019](wiki/Mapping_and_Modding_Timeline#march.5) has gradually allowed more and more mappers to participate in the creation of showcase beatmaps for future featured artists over time regardless of their game mode given that they either have achieved Tier 1 (or higher) in [Guild rank](/wiki/Mappers_Guild#rewards) or been accepting certain [limited-time mystery quests](wiki/Mappers_Guild#quests) set by the Guild in advance.
+As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming featured artist contents were pften restricted only to a handful of mappers who were predominantly of the [osu!](wiki/Game_mode/osu!) game mode. However, [the Guild's shift to an open and automated entry system in early 2019](wiki/Mapping_and_Modding_Timeline#march.5) has gradually allowed more and more mappers to participate in the creation of showcase beatmaps for future featured artists over time regardless of their game mode given that they either have achieved Tier 1 (or higher) in [Guild rank](/wiki/Mappers_Guild#rewards) or been accepting certain [limited-time mystery quests](wiki/Mappers_Guild#quests) set by the Guild in advance.
 
 Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) in December 2020 onwards, new featured artist announcement posts have also began to feature short preview videos — often with these showcase beatmaps as their main headline — every now and then.
 
