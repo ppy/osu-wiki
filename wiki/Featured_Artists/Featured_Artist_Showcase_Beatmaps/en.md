@@ -224,7 +224,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][o!s]) [Blacklolita feat. Sennzai - Tears of Warrior](https://osu.ppy.sh/beatmapsets/1242059#osu/2582250) hosted by ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
 - **[DUAL ALTER WORLD](https://osu.ppy.sh/home/news/2020-10-31-new-featured-artist-dual-alter-world)** (2020-10-31)
   - (![][o!s]) [DUAL ALTER WORLD - CONSOLE1 (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1267302#osu/2633906) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
-  
+
 ### November 2020
 
 - **[Se-U-Ra](https://osu.ppy.sh/home/news/2020-11-03-new-featured-artist-se-u-ra)** (2020-11-03)
