@@ -98,7 +98,10 @@ To change osu! custom maximum framerate, you'll need to tweak some values in the
 - Find the line `FrameSync = <value>` and change the value to `Custom`.
 - Find the line `CustomFrameLimit = <value>` and change the value to your preference.
 
-This is our recommended frame limiter for users who don’t want to run their CPU/GPU to extremities (but not particularly satisfied with the maximum of 960fps that Optimal gives), resulting in even lower input latency without abusing your CPU/GPU too much with Unlimited.
+This is our recommended frame limiter for users who:
+
+- Want to set the frame limiter at 4x refresh rate, etc. but the game doesn't have the option to do so.
+- Doesn't satisfied with the maximum of 960fps that Optimal gives (but **do not** want to run their CPU/GPU to extremities), resulting in even lower input latency than Optimal without abusing your CPU/GPU too much with Unlimited.
 
 Note that, if you're using cuttingedge Release Stream, if you change the `CustomFrameLimit` to any number above 999, it will be reverted to 999. On Stable, you can set the value above 1000 normally.
 Also, you can not switch into this setting with F7 shortcut in-game, even if you had done the steps above, (only available via the Settings menu). And you'll need to switch to Custom in the Settings before quitting the game, so it'll be available the next time osu! runs. Else, you'll have to change the `FrameSync` manually again.

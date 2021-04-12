@@ -98,7 +98,10 @@ Mức giới hạn này cố gắng giữ tần suất khung hình bằng với 
 - Tìm dòng `FrameSync = <giá trị nào đó>` và sửa giá trị thành `Custom`.
 - Tìm dòng `CustomFrameLimit = <giá trị nào đó>` và sửa giá trị thành con số bạn muốn.
 
-Đây là mức giới hạn khuyên dùng cho người không muốn đốt CPU/GPU quá mức (nhưng không đủ thoả mãn với mức tối đa là 960fps của Optimal), dẫn đến độ trễ tín hiệu vào xuống thấp hơn nữa mà không lạm dụng CPU/GPU quá mức như ở Unlimited.
+Đây là mức giới hạn khuyên dùng cho người:
+
+- Muốn đặt giới hạn khung hình ở 4x tần số quét màn hình, v.v. nhưng game không có lựa chọn để làm việc đó.
+- Không thoả mãn với mức tối đa là 960fps của Optimal (nhưng cũng không muốn đốt CPU/GPU quá mức), dẫn đến độ trễ tín hiệu vào xuống thấp hơn nữa so với Optimal mà không lạm dụng CPU/GPU quá mức như ở Unlimited.
 
 Lưu ý rằng, nếu bạn chơi bản cuttingedge, nếu bạn sửa `CustomFrameLimit` thành bất cứ số nào lớn hơn 999, nó sẽ bị đưa về 999. Ở bản Stable, bạn có thể đặt giá trị lớn hơn 1000 bình thường.
 Ngoài ra, bạn không thể đổi sang mức giới hạn này bằng phím F7 trong game, kể cả khi bạn đã làm xong các bước trên, (chỉ đổi được thông qua menu Cài đặt). Và bạn cần phải đổi về Custom trước khi thoát game, thì lần tới bạn chạy osu! sẽ có lại lựa chọn này. Nếu không, bạn sẽ lại phải chỉnh `FrameSync` thủ công lần nữa.
