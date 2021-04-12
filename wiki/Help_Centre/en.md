@@ -2,7 +2,7 @@
 
 # Help centre
 
-Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen. If your issue is not listed here, or if you are still having problems, send an email to [support@ppy.sh](mailto:support@ppy.sh). Alternatively, consider posting your issue in the [Help Forum](/community/forums/5), where someone will be able to help you.
+Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen. If your issue is not listed here, or if you are still having problems, send an email to [support@ppy.sh](mailto:support@ppy.sh). Alternatively, consider posting your issue in the [Help Forum](https://osu.ppy.sh/community/forums/5), where someone will be able to help you.
 
 ## Account
 
@@ -91,7 +91,7 @@ If this happens to you, simply wait for a while and try to sign in a little late
 
 A couple of hours, at the absolute maximum, will clear the status for most people and allow them to sign in again.
 
-#### I'm not receive any emails from osu!/I forgot my email address!
+#### I'm not receiving any emails from osu!/I forgot my email address!
 
 **There might be an issue with your account's current email address.**
 
@@ -117,7 +117,7 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 
 If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be able to change your username **once** for free. This username change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32) page.
 
-At any point thereafter, you may purchase a [purchase a username change](https://osu.ppy.sh/store/products/32) to change your username to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
+At any point thereafter, you may purchase a [username change](https://osu.ppy.sh/store/products/32) to change your username to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
 Please note that usernames must abide by our [Community Rules](/wiki/Rules) in that they must not be broadly offensive to other users, overly provocative or otherwise inflammatory in any way. In addition, usernames that impersonate or assume the identity of major public figures (such as celebrities, politicians, etc.) are not allowed and will be forcefully reverted once we find out about them.
 
@@ -191,7 +191,7 @@ We are considering extra 'score reset' purchases from the osu!store for the trul
 
 This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is against the rules, and we will disable any such accounts that are brought to our attention.
 
-If you are covered by the European Union, then you have the option to delete your account. You can read more about this on the [Privacy page](/legal/Privacy#your-rights-and-control). If you are not covered by the European Union, then we will not delete your account.
+If you are covered by the European Union, then you have the option to delete your account. You can read more about this on the [Privacy Page](https://osu.ppy.sh/legal/en/Privacy#your-rights-and-control). If you are not covered by the European Union, then we will not delete your account.
 
 #### Can I play on a computer that another osu! user has used before?
 
@@ -205,7 +205,7 @@ If you are playing from a public place, make sure to keep a close eye on your ac
 
 **You can see all maps you've played on the website.**
 
-**If you have an active supporter tag**, you can see all maps you have submitted a score on by going to the [beatmap list page](https://osu.ppy.sh/beatmapsets), clicking "more search options", then selecting the "PLAYED" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the filtered page directly.
+**If you have an active supporter tag**, you can see all maps you have submitted a score on by going to the [beatmap list page](https://osu.ppy.sh/beatmapsets), clicking "more search options", then selecting the "PLAYED" filter. Alternatively, you can use [this link](https://osu.ppy.sh/beatmapsets?played=played) to access the filtered page directly.
 
 Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
 
@@ -302,7 +302,7 @@ See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista
 
 #### Some of my beatmaps are missing!
 
-**Make sure you are not grouping your beatmaps by anything in the top right of the screen, i.e. "grouping" should be set to "no grouping".**
+**Make sure you are not grouping your beatmaps by anything in the top right of the screen (i.e. "grouping" should be set to "no grouping").**
 
 If you've just downloaded a map, you may want to try refreshing your beatmap list by pressing `F5` at the song selection screen.
 
@@ -313,7 +313,7 @@ To check or change what beatmaps are displayed in the song select menu, try the 
 1. Open osu!.
 2. Enter the `Options` menu or hit `Control` + `O`.
 3. Type `song select` into the quick-search to jump straight to the option.
-4. Make sure `Display beatmaps from` is set to 0 stars, and that `to` is set to 10+ stars.
+4. Make sure `Display beatmaps from` is set to 0 stars, and that `up to` is set to 10+ stars.
 
 ![](img/beatmapdiffdisp.png "The Diplay Beatmaps setting set to the correct values")
 
@@ -323,7 +323,7 @@ To safely force your beatmap database to be recreated, try the following steps:
 
 1. Open osu!.
 2. Enter the `Options` menu or hit `Control` + `O`.
-3. Click `Open osu! folder`
+3. Click `Open osu! folder`.
 4. Close osu!.
 5. Find the `osu!.db` file located in the folder you just opened.
 6. Right-click on it, then click `Rename`.
@@ -377,12 +377,6 @@ Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filte
 A common cause of this problem arises from playing maps of another game mode, which then automatically set song selection to use that mode's scores until the mode is set back again.
 
 You can change the game mode by clicking the `Mode` button at the bottom left of the screen in song select, then choosing the appropriate mode that you are looking for your scores in.
-
-##### Are you playing offline?
-
-**Unfortunately, scores set while playing offline cannot be added to the online rankings.**
-
-If you are playing online and suffer a brief disconnection for whatever reason, your game will automatically try to send the scores itself for as long as you keep the client open.
 
 ##### Have you recently downloaded a large number of maps? (ie: a beatmap pack or bundle)
 
@@ -442,7 +436,7 @@ In the song select menu, check in the top left of the screen for any small icons
 
 ![](img/mapstatusgood.png "This is what it should look like")
 
-Playing with the `global leaderboard` selected, rather than the local leaderboard, can help prevent this on a map by map basis. If a large number of your beatmaps, or all of them, are missing/have incorrect statuses, try forcing your beatmap database file to be recreated. You can find out how to safely do this above in the "Some of my beatmaps are missing!" section. After doing this, it may take some time to for all your maps to regain the correct status.
+Playing with the `global leaderboard` selected, rather than the local leaderboard, can help prevent this on a map by map basis. If a large number of your beatmaps, or all of them, are missing/have incorrect statuses, try forcing your beatmap database file to be recreated. You can find out how to safely do this above in the "Some of my beatmaps are missing!" section. After doing this, it may take some time to for all of your maps to regain the correct status.
 
 ##### Are the score submission servers up?
 
@@ -700,7 +694,7 @@ If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming
 
 If it doesn't resolve, a reboot can sometimes help.
 
-**If you are still having lag spikes or stuttering during gameplay, have a look through the [performance troubleshooting guide](wiki/Performance_Troubleshooting) for more related problems and their solutions.**
+**If you are still having lag spikes or stuttering during gameplay, have a look through the [performance troubleshooting guide](/wiki/Performance_Troubleshooting) for more related problems and their solutions.**
 
 ---
 
@@ -736,13 +730,13 @@ If you wish to ignore highlights, private messages, or public messages, you can 
 
 ##### Blocking all non-friends from sending private messages in-game
 
-If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
+If you wish to prevent anyone not on your friends list from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
 
 1. Enter the `Options` menu or hit `Control` + `O`.
 2. Type "block" to filter the options listing to the "In-game Chat" section.
 3. Click on the setting that appears to enable it.
 
-Users who are not on your friendslist can no longer contact you.
+Users who are not on your friends list can no longer contact you.
 
 <!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one
 
@@ -758,7 +752,7 @@ Users who are not on your friendslist can no longer contact you.
 
 ##### Prevent any new forum private messages from reaching you
 
-Go to your [account settings](https://osu.ppy.sh/home/account/edit) and click `block private messages from people not on your friends list` in the Privacy section. Private messages from users in your friendslist will still reach you.
+Go to your [account settings](https://osu.ppy.sh/home/account/edit) and click `block private messages from people not on your friends list` in the Privacy section. Private messages from users in your friends list will still reach you.
 
 ##### What if I'm still having problems with a user after blocking them?
 
@@ -768,21 +762,21 @@ If a user is still harassing you via other means, or using their friends or some
 
 Make sure to include any chatlogs or other evidence in the email, and our support staff will look into your case and get it sorted for you.
 
-#### What are these "user pages" that I see on other players profiles?
+#### What are these "Me!" pages that I see on other player's profiles?
 
-**User pages are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
+**Me! pages are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
 
-Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. User pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
+Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. Me! pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
 
-Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out, your user page will **remain visible** and you will still be able to edit its contents.
+Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out, your Me! page will **remain visible** and you will still be able to edit its contents.
 
-#### My user page contents are missing!
+#### My Me! page contents are missing!
 
-**This can happen if your user page had inappropriate content on it as defined by our [community rules](/wiki/Rules).**
+**This can happen if your Me! page had inappropriate content on it as defined by our [community rules](/wiki/Rules).**
 
 In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh) and discussing your situation with them.
 
-If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
+If at any point you are in doubt as to whether something is appropriate for a Me! page, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
 
 #### Do I need to use my email address to register?
 
@@ -846,7 +840,7 @@ In the editor, click `File` in the menu, then `Open .osu in Notepad`. Check the 
 
 If it isn't, manually change it for every difficulty in your beatmapset, reload the beatmap, and you should be able to submit it.
 
-If you are still having issues or want more information on this, have a read through the [BSS issues page](/wiki/Guides%2FBSS_Issues)
+If you are still having issues or want more information on this, have a read through the [BSS issues page](/wiki/Guides%2FBSS_Issues).
 
 #### I am an osu!supporter, but I don't have 10 pending slots!
 
@@ -888,7 +882,7 @@ Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 
 ##### How do I tell if my LEDs have corrosion on them?
 
-**Rubbing the base of the LED connectors with a small square of aluminum foil will remove most of the residue caused from corrosion.**
+**Rubbing the base of the LED connectors with a small square of aluminium foil will remove most of the residue caused from corrosion.**
 
 Corrosive residue usually appears to be blackish-grey, or may appear as strange stains on the metal.
 
@@ -980,7 +974,7 @@ If you encounter any issues with this process, please send an email to [store@pp
 
 ### Log files
 
-#### What are 'log files' and how do I make them?
+#### What are 'log files' and how do I get them?
 
 **Log files are detailed recordings of what the game client is doing at any given point in time. We can use them to help determine what is causing your issue.**
 
@@ -991,9 +985,9 @@ If a support team member has asked you for these logs, here's how to get them:
 1. Open *osu!*.
 2. Go to the `Options` menu by clicking the button on the main menu, or hitting `Ctrl` + `O`.
 3. Type `release` into the quick-search bar. This will take you to the current release stream your client is using.
-4. Make sure it is set to either `Beta` or `Cutting Edge (Experimental)`. We recommend `Beta` for the best chance of stability in this situation.
-5. Restart the game client if you made any changes to the release stream to apply them.
-6. Reopen the game, enter `Options`, and click `Open osu! folder`.
+4. Make sure it is set to `Cutting Edge (Experimental)`.
+5. Click the restart button that appears at the bottom of the screen if you made any changes to the release stream to apply them.
+6. Go to the `Options`menu again and click `Open osu! folder`.
 7. Find the `Logs` directory in the window that opens.
 8. Select the log file required (the support representative will tell you which), and attach it to your ticket or upload it to a public filesharing service.
 
