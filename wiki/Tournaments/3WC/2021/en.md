@@ -198,7 +198,7 @@ Sunday, 11 April 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **6** | 0 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/80536771) |
 | **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/80551557) |
-| **Germany** ![][flag_DE] | **6** | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/mp/80567562) |
+| **Germany** ![][flag_DE] | **6** | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/80567562) |
 | **Poland** ![][flag_PL] | **6** | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/80567658) |
 | **Countryless** ![][flag_XX] | **6** | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/80575588) |
 | **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/80579699) |
