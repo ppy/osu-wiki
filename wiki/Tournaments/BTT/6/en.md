@@ -304,6 +304,20 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 3 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Barack ![][flag_CL] | 4 | **7** | ![][flag_CA] **Garfield\_osu** | [#1](https://osu.ppy.sh/community/matches/79883045), [#2](https://osu.ppy.sh/community/matches/79887645) |
+
+Sunday, 4 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **-Schwarts** ![][flag_US] | **7** | 5 | ![][flag_CA] Garfield\_osu | [#1](https://osu.ppy.sh/community/matches/79971517) |
+
 ### Finals
 
 Friday, 26 March 2021:
