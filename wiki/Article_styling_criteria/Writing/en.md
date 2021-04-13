@@ -182,7 +182,7 @@ Game modes must be written as follows:
 - `osu!catch`
 - `osu!mania`
 
-Referring to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) may be done if discussing said game mode's previous name. Do note however that citing the osu! game mode as `osu!standard` is *not* recommended.
+Referring to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) may be done if discussing said game mode's previous name.
 
 ## osu!
 
