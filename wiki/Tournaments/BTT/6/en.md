@@ -35,6 +35,8 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
+![](img/badge.jpg "BTT6 winner badge")
+
 Generous donations from ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) and ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) helped fund some of the prizes.
 
 ## Organisation
