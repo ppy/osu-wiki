@@ -125,7 +125,7 @@ The 3 Digit World Cup is run by various community members.
 - DoubleTime
   - [aki - Clione no Akari (MiyohashiKoori) \[G11K's Insane\]](https://osu.ppy.sh/beatmapsets/1013752#osu/2225415)
   - [Lime - Noblesse Gloria (yaspo) \[Noblesse\]](https://osu.ppy.sh/beatmapsets/1257575#osu/2613166)
-  - [Infinite Stratos Cast - SUPER STREAM ~INFINIT FUTURE Revised MIX~ (JauiPlaY) \[DisPlaY\]](https://osu.ppy.sh/beatmapsets/29601#osu/98163)
+  - [Infinite Stratos Cast - SUPER STREAM \~INFINIT FUTURE Revised MIX\~ (JauiPlaY) \[DisPlaY\]](https://osu.ppy.sh/beatmapsets/29601#osu/98163)
   - [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (Mir) \[Hyper\]](https://osu.ppy.sh/beatmapsets/806859#osu/1694582)
 - FreeMod
   - [USAO - Cyaegha (captin1) \[edit\]](https://osu.ppy.sh/beatmapsets/1171888#osu/2444326)
