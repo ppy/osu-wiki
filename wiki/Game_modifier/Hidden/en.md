@@ -41,17 +41,17 @@ In [osu!standard](/wiki/Game_mode/osu!), the Hidden mod eliminates the approach 
 
 Although it should be noted that the Hidden mod is considered the easiest difficulty increasing mod amongst top players due to the consistency of when hit objects appear and disappear. As a result of this consistency, it is very much possible to learn when to tap objects based on when they fade out alone.
 
-![Gameplay of HD in osu!standard](img/GM_HD_O.jpg "Screenshot of osu!standard gameplay with the Hidden mod")
+![HD gameplay standard](img/HD-standard.jpg "Gameplay of osu!standard with the Hidden mod enabled")
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the notes fade out at around halfway through the screen, requiring players to remember the timing and colour. However, sliders and dendens still cross the full timeline and do not fade out (with the condition that the denden has no approach circle to indicate whenit times out.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the notes fade out at around halfway through the screen, requiring players to remember the timing and colour. However, sliders and dendens still cross the full timeline and do not fade out, with the condition that the denden has no approach circle to indicate when it times out.
 
-On beatmaps with high overall difficulty, the Hidden mod is used by experienced players to increase score instead of the [Hard Rock (HR)](/wiki/Game_modififer/Hard_Rock) mod because HR occasinally makes the timing window too small.
+On beatmaps with high overall difficulty, the Hidden mod is used by experienced players to increase score instead of the [Hard Rock (HR)](/wiki/Game_modififer/Hard_Rock) mod because HR occasionally makes the timing window too small.
 
-Unlike osu!standard, the Hidden mod is typically regarded as much harder to read or "get used-to" due to requiring th eplayer to memorize which color comes next.
+Unlike osu!standard, the Hidden mod is typically regarded as much harder to read or "get used-to" due to requiring the player to memorize which color comes next.
 
-![Gameplay of HD in osu!taiko](img/GM_HD_T.jpg "Screenshot of osu!taiko gameplay with the Hidden mod")
+![HD gameplay taiko](img/HD-taiko.jpg "Gameplay of osu!taiko with the Hidden mod enabled")
 
 ### osu!catch
 
@@ -59,13 +59,13 @@ In [osu!catch](/wiki/Game_mode/osu!catch), the Hidden mod causes the fruits to f
 
 The effects on difficulty for osu!catch regarding the use of the Hidden mod vary from beatmap-to-beatmap, but it is generally considered that maps with an [approach rate (AR)](/wiki/Beatmapping/Approach_rate) of 9 or higher makes very little difference in increase of difficulty.
 
-![Gameplay of HD in osu!catch](img/GM_HD_C.jpg "Screenshot of osu!catch gameplay with the Hidden mod")
+![HD gameplay catch](img/HD-catch.jpg "Gameplay of osu!catch with the Hidden mod enabled")
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the Hidden mod functions as the inverse of the Fade In mod as the notes, and thus, it will cause the notes  ot fade out before you are supposed to hit them.
+In [osu!mania](/wiki/Game_mode/osu!mania), the Hidden mod functions as the inverse of the Fade In mod as the notes will fade out before you are supposed to hit them.
 
-![Gameplay of HD in osu!mania](img/GM_HD2_M.jpg "Screenshots of osu!mania gameplay with the Hidden mod, at different combo milestones")
+![HD gameplay mania](img/HD-combo-comparison-mania.jpg "Gameplay with the Hidden mod at 91x combo (top-left), at 326x combo (top-middle), at 516x combo (top-right/bottom-left), and at 900x combo (bottom-right) in osu!mania")
 
 ## Trivia
 

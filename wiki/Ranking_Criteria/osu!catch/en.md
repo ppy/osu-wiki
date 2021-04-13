@@ -121,7 +121,8 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Hyperdashes may be used if the time between the ticks of the desired snapping is 125 ms or higher.** As an example, 1/3 hyperdashes would be allowed at 160 BPM and below, whereas 1/4 hyperdashes would be allowed under 120 BPM.
 - **Hyperdashes cannot be used on individual drops and/or slider repititions.** The accuracy and control required is unreasonable at this level and can create a situation where the player potentially fails to read the sliderpath.
-- **Basic hyperdashes must not be used more than two times between consecutive fruits. If higher-snapped hyperdashes are used, they must be used singularly (not in conjunction with other hyperdashes or dashes)**
+- **Basic hyperdashes must not be used more than two times between consecutive fruits.**
+- **Higher-snapped hyperdashes must not be used in conjunction with any other dashes or hyperdashes.**
 - **Hyperdashes of different beat snap (for example, a 1/2 hyperdash followed by a 1/4 hyperdash) must not be used between consecutive fruits.**
 - **Dashes may be used if the time between the ticks of the desired snapping is 62 ms or higher.** As an example, 1/6 dashes would be allowed at 160 BPM and below, whereas 1/8 dashes would be allowed at 120 BPM and below.
 - **Basic dashes must not be used more than four times between consecutive fruits. Higher-snapped dashes can be used up to two times between consecutive fruits, provided there isn't a direction change between them.**
@@ -139,7 +140,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 7 and 8.5.
+- Approach Rate / Overall Difficulty should be between 7 and 8.2.
 - HP Drain Rate should be between 4 and 5.
 - Circle Size should be between 3 and 4.
 
@@ -148,13 +149,15 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Hyperdashes and dashes may be used if the time between the ticks of the desired snapping is 62 ms or higher.** As an example, 1/6 hyperdashes and dashes would be allowed at 160 BPM and below, whereas 1/8 hyperdashes and dashes would be allowed at 120 BPM and below.
-- **Basic hyperdashes must not be used more than four times between consecutive fruits.** If higher-snapped hyperdashes are used, they must not be used in conjunction with other hyperdashes or higher-snapped dashes.
+- **Basic hyperdashes must not be used more than four times between consecutive fruits.**
+- **Higher-snapped hyperdashes must not be used in conjunction with higher-snapped dashes or any other hyperdashes.**
 - **At least 125 ms must be left between circles/sliders and the start and end of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
 
 #### Guidelines
 
 - **Hyperdashes should not be used on individual drops and/or slider repetitions.** If used, the slider path must be simple and easy-to-follow and they must not exceed two consecutive uses for basic hyperdashes. Higher-snapped hyperdashes within a slider are not allowed.
 - **Basic hyperdashes of different beat snap should not be used between consecutive fruits.**
+- **Higher-snapped hyperdashes should not be followed by antiflow dashes with a gap lower than 250ms.**
 - **Edge dashes may only be used singularly (not in conjunction with other dashes or hyperdashes).**
 - **Combos should not exceed 16 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 patterns and higher should be used sparingly.

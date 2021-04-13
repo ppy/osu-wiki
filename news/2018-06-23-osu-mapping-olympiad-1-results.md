@@ -33,18 +33,18 @@ And rounding out the top three, **third place** belongs to [**Gaia**](https://os
 
 | Rank | Username | Entry Name | Musical Relevance (50) | Creativity (50) | Technique (50) | Impression (50) | Hitsounding (25) | Total Score |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1| Bonzi | Uptight Dolphin | 46 | 41.5 | 44.5 | 43 | 20.5 | **195.5** |
-| \#2| Rokkea | Composed Chipmunk | 41 | 40 | 43.3 | 42.5 | 18.3 | **185.1** |
-| \#3| fanzhen0019 | Vulnerable Pelican | 43.3 | 37 | 38.3 | 40 | 19.3 | **177.9** |
-| \#4| Shizuku- | Hesitant Whale | 38.3 | 36 | 40.8 | 38.3 | 14.5 | **167.9** |
-| \#5| MaridiuS | Jovial Bison | 37.5 | 34.5 | 41 | 35.8 | 18.3 | **167.1** |
-| \#6| SyraxAxoJaxco | Uncivil Phoebe | 35.8 | 26.5 | 34.5 | 33 | 21.3 | **151.1** |
-| \#7| Innovation | Tolerant Harrier | 31.8 | 29.5 | 30 | 29 | 7 | **127.3** |
-| \#8| Jonawaga | Forgiving Bat | 28.1 | 22 | 32 | 28.5 | 3.5 | **114.1** |
-| \#9| Myxomatosis | Guilty Bufflehead | 25.5 | 19.5 | 20.7 | 23 | 14.9 | **103.6** |
-| \#10| snickertit | Intimidated Lark | 20.5 | 17 | 17.8 | 17.5 | 7 | **79.8** |
-| \#11| Mattchanhew | Ignorant Ibis | 19.9 | 17.5 | 18.5 | 18.8 | 3.5 | **78.2** |
-| \#12| makillerts | Vile Crow | 14.2 | 11 | 13.2 | 14 | 7.3 | **59.7** |
+| \#1 | Bonzi | Uptight Dolphin | 46 | 41.5 | 44.5 | 43 | 20.5 | **195.5** |
+| \#2 | Rokkea | Composed Chipmunk | 41 | 40 | 43.3 | 42.5 | 18.3 | **185.1** |
+| \#3 | fanzhen0019 | Vulnerable Pelican | 43.3 | 37 | 38.3 | 40 | 19.3 | **177.9** |
+| \#4 | Shizuku- | Hesitant Whale | 38.3 | 36 | 40.8 | 38.3 | 14.5 | **167.9** |
+| \#5 | MaridiuS | Jovial Bison | 37.5 | 34.5 | 41 | 35.8 | 18.3 | **167.1** |
+| \#6 | SyraxAxoJaxco | Uncivil Phoebe | 35.8 | 26.5 | 34.5 | 33 | 21.3 | **151.1** |
+| \#7 | Innovation | Tolerant Harrier | 31.8 | 29.5 | 30 | 29 | 7 | **127.3** |
+| \#8 | Jonawaga | Forgiving Bat | 28.1 | 22 | 32 | 28.5 | 3.5 | **114.1** |
+| \#9 | Myxomatosis | Guilty Bufflehead | 25.5 | 19.5 | 20.7 | 23 | 14.9 | **103.6** |
+| \#10 | snickertit | Intimidated Lark | 20.5 | 17 | 17.8 | 17.5 | 7 | **79.8** |
+| \#11 | Mattchanhew | Ignorant Ibis | 19.9 | 17.5 | 18.5 | 18.8 | 3.5 | **78.2** |
+| \#12 | makillerts | Vile Crow | 14.2 | 11 | 13.2 | 14 | 7.3 | **59.7** |
 
 In **first place** for *Escapism* is [**Bonzi**](https://osu.ppy.sh/users/1313969) with a total score of **195.5**! Bonzi received the highest marks for every category, demonstrating that his entry was truly a cut above the rest!
 
@@ -58,19 +58,19 @@ In **first place** for *Escapism* is [**Bonzi**](https://osu.ppy.sh/users/131396
 
 | Rank | Username | Entry Name | Musical Relevance (50) | Creativity (50) | Technique (50) | Impression (50) | Hitsounding (25) | Total Score |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1| Monstrata | Responsive Porcupine | 43.5 | 38.8 | 45 | 42 | 21.5 | **190.8** |
-| \#2| Kibbleru | Tenacious Starling | 38.3 | 34.5 | 40 | 34 | 19.5 | **166.3** |
-| \#3| Nozhomi | Happy Raccoon | 34.5 | 33.5 | 35.5 | 35.5 | 18.5 | **157.5** |
-| \#4| Delis | Content Mouse | 32 | 28.5 | 31 | 31 | 18.3 | **140.8** |
-| \#5| Senery | Charming Thrasher | 34.8 | 26.5 | 32.5 | 28.5 | 16.5 | **138.8** |
-| \#6| Veridian | Woeful Mouse | 30 | 25.5 | 33 | 30 | 17 | **135.5** |
-| \#7| Frostings | Anxious Sparrow | 28 | 29.5 | 32 | 28.3 | 16.8 | **134.6** |
-| \#8| ReFaller | Prejudicial Chameleon | 32 | 24.5 | 33 | 27 | 17.5 | **134** |
-| \#9| megafanx3 | Perturbed Waxwing | 23.5 | 28 | 24 | 23.5 | 9.5 | **108.5** |
-| \#10| Respirte | Sober Badger | 22.5 | 24 | 22.5 | 22.2 | 8 | **99.2** |
-| \#11| I love Emilia | Expectant Opossum | 16.5 | 16.5 | 17 | 17 | 6 | **73** |
-| \#12| ARGENTINE DREAM | Wistful Iguana | 18.5 | 12 | 14.5 | 15 | 10.5 | **70.5** |
-| \#13| - Crow | Ultimate Chameleon | 16.5 | 18.5 | 17.3 | 17 | 1 | **70.3** |
+| \#1 | Monstrata | Responsive Porcupine | 43.5 | 38.8 | 45 | 42 | 21.5 | **190.8** |
+| \#2 | Kibbleru | Tenacious Starling | 38.3 | 34.5 | 40 | 34 | 19.5 | **166.3** |
+| \#3 | Nozhomi | Happy Raccoon | 34.5 | 33.5 | 35.5 | 35.5 | 18.5 | **157.5** |
+| \#4 | Delis | Content Mouse | 32 | 28.5 | 31 | 31 | 18.3 | **140.8** |
+| \#5 | Senery | Charming Thrasher | 34.8 | 26.5 | 32.5 | 28.5 | 16.5 | **138.8** |
+| \#6 | Veridian | Woeful Mouse | 30 | 25.5 | 33 | 30 | 17 | **135.5** |
+| \#7 | Frostings | Anxious Sparrow | 28 | 29.5 | 32 | 28.3 | 16.8 | **134.6** |
+| \#8 | ReFaller | Prejudicial Chameleon | 32 | 24.5 | 33 | 27 | 17.5 | **134** |
+| \#9 | megafanx3 | Perturbed Waxwing | 23.5 | 28 | 24 | 23.5 | 9.5 | **108.5** |
+| \#10 | Respirte | Sober Badger | 22.5 | 24 | 22.5 | 22.2 | 8 | **99.2** |
+| \#11 | I love Emilia | Expectant Opossum | 16.5 | 16.5 | 17 | 17 | 6 | **73** |
+| \#12 | ARGENTINE DREAM | Wistful Iguana | 18.5 | 12 | 14.5 | 15 | 10.5 | **70.5** |
+| \#13 | - Crow | Ultimate Chameleon | 16.5 | 18.5 | 17.3 | 17 | 1 | **70.3** |
 
 **First place** for *HONEY SNOWFLAKES* goes to [**Monstrata**](https://osu.ppy.sh/users/2706438) with a total score of **190.8**! Monstrata's entry surpassed all the others by a large margin, achieving the highest scores for each category as well as the only exceptional score from judge Electoz.
 

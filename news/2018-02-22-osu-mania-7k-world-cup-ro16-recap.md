@@ -14,7 +14,8 @@ osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their 
 - [Tournament Matches](#matches)
 - [Looking Ahead](#ahead)
 
---------
+---
+
 **Have you already forgotten the events that have transpired last week?** Here's a video recap by our beloved [Junihuhn](https://osu.ppy.sh/users/4182339) summarising the highlights of the Group Stage.
 
 <iframe style="display: block; margin: auto;" width="90%" height="450" src="https://www.youtube.com/embed/69UAX01RA14?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -61,7 +62,7 @@ Taking place over 2 blocks on the same day, the majority of the matches ended up
 
 ![](/wiki/shared/news/2018-02-22-osu-mania-7k-world-cup-ro16-recap/unitedstates_australia.jpg)
 
---------
+---
 
 ***Block 2 (10:00 - 16:00 UTC):***
 
@@ -83,7 +84,7 @@ Enter [kamome sano - eclair au chocolat (extended bittersweet mix)](https://osu.
 
 What a surprising weekend this has been!
 
---------
+---
 
 If you're looking for something a little bit more visual, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all). Alternatively, you can check out Junihuhn's wonderful recap video below!
 
@@ -115,7 +116,7 @@ That concludes all the matches for this weekend! Good luck to all the remaining 
 
 **Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can purchase the banners [here](https://osu.ppy.sh/store/products/280).
 
---------
+---
 
 And that's all from me this week! It's good to be back writing for the World Cups again, even though I'm a little busy working on some other community projects. If you have any feedback or suggestions, feel free to drop me a PM, or leave a comment down below.
 

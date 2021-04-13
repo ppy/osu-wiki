@@ -248,7 +248,7 @@ Although this map does not even reach 3 stars, it is more difficult than it look
 
 It has a simple but cute storyboard, harmless to your sight while you are playing it. The final section becomes a little bit more complicated with some Long Note releases that can make you drop some accuracy, but every single set of different type of patterns make this map worth enough for this spotlight.
 
---------
+---
 
 And that concludes the Spotlights listing. We hope that you click, drum, catch, and mash your heart out from these maps and nab yourself a shiny new Spotlight medal for your profile page! Look forward to next month's installment!
 

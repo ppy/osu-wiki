@@ -52,7 +52,7 @@ Sound interesting? Check out a few samples for yourself below:
     <source src="https://assets.ppy.sh/artists/67/previews/1869.mp3" type="audio/mpeg">
 </audio>
 
-----
+---
 
 Like always, these tracks and a bunch more are available right now over at [**Kola Kid**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/67), all pre-timed and just waiting for you to press start. Head on over and get cracking!
 

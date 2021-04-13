@@ -382,7 +382,7 @@ För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Perfor
 
 #### Varifrån laddar jag ner beatmaps?
 
-*Detaljerad förklaring av beatmaps: [Beatmaps](/wiki/Beatmaps)*
+*Detaljerad förklaring av beatmaps: [Beatmaps](/wiki/Beatmap)*
 
 I huvudsidan, under *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. Kom ihåg att logga in i hemsidan med en *osu!konto* för att kunna ladda ner beatmaps från hemsidan.
 

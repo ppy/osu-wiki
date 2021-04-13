@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Prix
 
 _Page principale: [osu!tourney](/wiki/osu!tourney)_

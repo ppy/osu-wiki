@@ -247,7 +247,7 @@ Notez également que les drumrolls en 1/6 sont donnés si le taux de slider tick
   - 8 fois la longueur du slider dans la musique si elle est égale ou inférieure à 125 BPM.
 - Contrairement aux autres modes de jeux, le *Kiai Time* a un effet sur le score car cela fait référence au *"Go-Go Time"* dans le jeu *Taiko no Tatsujin*. Quand le *Kiai Time* est activé, le tambour dans le coin en haut à gauche change d'animation (nommé *pippidon* ou *Don*/*Katsu* dans *Taiko no Tatsujin*), le terrain de jeu a un arrière plan dégradé et la zone de hit est enflammé.
   -En plus, chaque note hit fait gagner x1,2 au multiplicateur de score, les longues notes jaunes incluses, excepté pour les hit sur un shaker (le hit final est toujours multiplié).
-- La mascotte pour osu!taiko est [pippidon](/wiki/Mascots#pippi).
+- La mascotte pour osu!taiko est [pippidon](/wiki/Mascots#-pippi).
 - Quand vous jouez en mod [Auto](/wiki/Game_modifier/Auto), le nom du joueur sera *mekkadosu!*.
 
 ### Historique

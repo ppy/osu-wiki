@@ -24,7 +24,7 @@ The **Asian Taiko Showdown 2018** (***ATS 2018***), is a double elimination one-
 | Quarterfinals | 2018-06-16/2018-06-17 |
 | Semifinals | 2018-06-23/2018-06-24 |
 | Finals | 2018-06-30/2018-07-01 |
-| Grand Finals | 2018-07-08
+| Grand Finals | 2018-07-08 |
 
 ## Prizes
 
@@ -56,7 +56,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 - [Asian Taiko Showdown 2018 Discord](https://discord.gg/2xQDbkS)
 - **[Asian Taiko Showdown 2018 Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)**
 
------------------------
+---
 
 ## Participants
 
@@ -80,11 +80,11 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 | **G** | ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
 | **H** | ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651) | ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981) | ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134) |
 
------------------------
+---
 
 ![ATS 2018 Podium](img/podium.jpg)
 
------------------------
+---
 
 ![ATS 2018 Upper Bracket](img/upper_bracket.jpg)
 
@@ -92,7 +92,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ![ATS 2018 GS Participants](img/gs_participants.gif)
 
------------------------
+---
 
 ## Mappools
 
@@ -287,7 +287,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 - Tiebreaker
   - **[Demetori - Desire Drive ~ Desire Dream (OnosakiHito) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42234#taiko/135188)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -424,7 +424,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 | EM | **Taiko\_VN12** ![][flag_VN] | **3** | 0 | ![][flag_PH] -Zephy- | -win by default- |
 | EM | \_CaKy\_ ![][flag_ID] | 0 | **3** | ![][flag_SG] **uchuuj1n** | [#1](https://osu.ppy.sh/community/matches/42923346) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

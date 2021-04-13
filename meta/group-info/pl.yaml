@@ -1,33 +1,65 @@
-outdated: true # missing entries
+# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
+alumni:
+  roles:
+    academy: prowadzenie akademii osu!
+    admin: administrator
+    chat: moderator czatu
+    dev: programista gry
+    media: współtworzenie mediów gry
+    support: pomoc techniczna
+    tournaments: organizowanie turniejów
 gmt:
+  all_mods: wszyscy moderatorzy
   areas:
-    beatmap: Moderacja beatmap
-    chat: Moderacja czatu
-    forum: Moderacja forum
-    team: Oficjalny profil zespołu gry
-    dev: Rozwój gry
-    player: Zarządzanie społecznością
-    support: Pomoc techniczna
-    tournaments: Organizowanie turniejów
-    wiki: Zarządzanie wiki osu!
+    beatmap: moderowanie beatmap
+    chat: moderowanie czatu
+    forum: moderowanie forum
+    team: oficjalny profil zespołu gry
+    dev: rozwój gry
+    player: zarządzanie społecznością
+    support: pomoc techniczna
+    tournaments: organizowanie turniejów
+    wiki: zarządzanie wiki osu!
+nat:
+  areas:
+    communication: komunikacja
+    evaluation: ewaluacja
+    moderation: moderacja
+    structural: struktury
 languages:
-  bg: Bułgarski
-  ca: Kataloński
-  de: Niemiecki
-  es: Hiszpański
-  fi: Fiński
-  fil: Filipiński
-  fr: Francuski
-  hu: Węgierski
-  id: Indonezyjski
-  it: Włoski
-  ja: Japoński
-  ko: Koreański
-  nl: Holenderski
-  pl: Polski
-  pt: Portugalski
-  ru: Rosyjski
-  sv: Szwedzki
-  tr: Turecki
-  zh: Chiński
+  partial: <language> (częściowo)
+  ar: arabski
+  bg: bułgarski
+  bn: bengalski
+  ca: kataloński
+  da: duński
+  de: niemiecki
+  el: grecki
+  es: hiszpański
+  et: estoński
+  fi: fiński
+  fil: filipiński
+  fr: francuski
+  hr: chorwacki
+  hu: węgierski
+  id: indonezyjski
+  it: włoski
+  ja: japoński
+  ko: koreański
+  ms: malajski
+  nl: holenderski
+  no: norweski
+  pl: polski
+  pt: portugalski
+  ro: rumuński
+  ru: rosyjski
+  sr: serbski
+  sv: szwedzki
+  te: telugu
+  th: tajski
+  tr: turecki
+  ur: urdu
+  vi: wietnamski
+  yue: kantoński
+  zh: chiński

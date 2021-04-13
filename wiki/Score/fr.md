@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
 ---
 
 # Score
@@ -71,7 +73,7 @@ Le ScoreV2 essaie de normaliser les systèmes de scoring des différents modes d
 Chaque objet fait à présent partie du score de 1 million et sont réajustées en conséquence, plutôt que d'utiliser leurs propres valeurs de score et formules bonus.
 
 Le ScoreV2 peut être testé en mode [Multijoueur](/wiki/Multi) en tant que Condition de Victoire dans les Options de Salon.
-Depuis le [22 février 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3), le système ScoreV2 peut être testé en mode *Solo* en utilisant le mod **NON-CLASSÉ** [ScoreV2](/wiki/Game_modifier/ScoreV2).
+Depuis le [22 février 2017 (2017-02-22)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), le système ScoreV2 peut être testé en mode *Solo* en utilisant le mod **NON-CLASSÉ** [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 ### Score
 

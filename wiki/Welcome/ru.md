@@ -46,4 +46,4 @@ outdated: true
 
 Начиная с 2016-08-26 osu! wiki была перенесена в репозиторий на GitHub. После этого рабочий процесс сильно изменился. Все правки теперь вносятся через [репозиторий osu-wiki на GitHub](https://github.com/ppy/osu-wiki) и проверяются перед тем, как они будут  опубликованы на osu! wiki.
 
-Прочтите [гайд](/wiki/owcg) или [тему на форуме](https://osu.ppy.sh/community/forums/topics/566978) если хотите поучаствовать в переводе и наполнении wiki.
+Прочтите [гайд](/wiki/osu!_wiki_Contribution_Guide) или [тему на форуме](https://osu.ppy.sh/community/forums/topics/566978) если хотите поучаствовать в переводе и наполнении wiki.

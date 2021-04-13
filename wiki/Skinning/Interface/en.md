@@ -537,6 +537,14 @@ Notes:
 
 ---
 
+`selection-mod-scorev2.png`
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+---
+
 `selection-mod-spunout.png`
 
 ![](img/selection-mod-spunout.png)

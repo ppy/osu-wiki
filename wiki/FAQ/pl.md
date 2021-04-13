@@ -233,7 +233,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ### Gdzie mogę znaleźć i ściągnąć beatmapy?
 
-*Pełny artykuł: [Beatmapy](/wiki/Beatmaps)*
+*Pełny artykuł: [Beatmapy](/wiki/Beatmap)*
 
 Możesz znaleźć je pod nazwą "[Beatmaps](https://osu.ppy.sh/beatmapsets)".
 

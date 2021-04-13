@@ -455,7 +455,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Saturday, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **fieryrage** ![][flag_US] | **7** | 5 | ![][flag_US] im a fancy lad
+| **fieryrage** ![][flag_US] | **7** | 5 | ![][flag_US] im a fancy lad |
 
 | Sunday, 2019-06-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |

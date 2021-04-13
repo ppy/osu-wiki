@@ -9,9 +9,7 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 ### Enregistrement
 
 1. [Inscrivez-vous](https://github.com/join) sur GitHub si vous n'avez pas de compte.
-
 2. [Connecter-vous](https://github.com/login).
-
 3. Continuez à [Forking](#forking).
 
 ### Forking
@@ -46,7 +44,7 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 
 3. Ce n'est pas vraiment un problème; autrement dit, si vous ne modifiez pas un fichier qui a déjà été modifié, il est peu probable que vous soyez en retard.
 
-4. Pour résoudre ce problème, voir [Ma branche est obsolète ! section de l'article sur les problèmes courants](/wiki/owcg/Common_Issues#ma-branche-n'est-plus-à-jour!).
+4. Pour résoudre ce problème, voir [Ma branche est obsolète ! section de l'article sur les problèmes courants](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#ma-branche-n'est-plus-à-jour!).
 
 5. Lorsque vous avez terminé l’étape 4, passez à [Modification en ligne ou localement](#edition-en-ligne-ou-localement).
 
@@ -54,8 +52,8 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 
 À ce stade, vous avez deux choix:
 
-- [Interface Web GitHub](/wiki/owcg/GitHub_Web_Interface) - éditez en ligne; c'est le meilleur choix pour l'édition d'un seul article
-- [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - éditez localement; ceci est préférable pour les modifications d'article simples et/ou multiples (ceci inclut le téléchargement, la suppression et le déplacement d'images ou de fichiers)
+- [Interface Web GitHub](/wiki/osu!_wiki_Contribution_Guide/GitHub_Web_Interface) - éditez en ligne; c'est le meilleur choix pour l'édition d'un seul article
+- [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop) - éditez localement; ceci est préférable pour les modifications d'article simples et/ou multiples (ceci inclut le téléchargement, la suppression et le déplacement d'images ou de fichiers)
 
 *Remarque: vous n'êtes pas limité aux deux choix énumérés ci-dessus pour l'édition. Pour que ce guide soit simple et concis, ces articles ne parleront pas d’utilisation d’autres outils en profondeur ou pas du tout. Il existe d’autres applications tierces qui peuvent faire plus ou moins que ce que font déjà l’Interface Web GitHub et GitHub Desktop.*
 

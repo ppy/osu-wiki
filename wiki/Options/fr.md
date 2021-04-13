@@ -123,7 +123,7 @@ Cliquez sur la barre "Sélectionner un skin" pour accéder a l'interface de sél
 | :-- | :-- |
 | Ignorer les skins intégrés aux beatmaps | Si cette option est cochée, votre skin prendra toujours le dessus pendant les parties. |
 | Activer les bruitages du skin choisi | Si cette option n'est pas cochée, les bruitages par défaut d'osu! seront utilisés. |
-| Toujours utiliser le skin Taiko (mode Taiko) | Si cette option est cochée, [le skin Taiko de LuigiHann](https://osu.ppy.sh/community/forums/topics/662) sera toujours utilisé durant les parties de Taiko (vous devez l'avoir téléchargé et il doit être dans le dossier Skin).
+| Toujours utiliser le skin Taiko (mode Taiko) | Si cette option est cochée, [le skin Taiko de LuigiHann](https://osu.ppy.sh/community/forums/topics/662) sera toujours utilisé durant les parties de Taiko (vous devez l'avoir téléchargé et il doit être dans le dossier Skin). |
 | Toujours utiliser le curseur du skin choisi | Si cette option est cochée, le jeu ignorera les curseurs intégrés aux beatmaps. |
 | Utiliser la disposition et les animations du nouveau format de skin | **Désactivé:** Aucun changement. Les comportements de l'ancien skin. **Activé:** Force le jeu à utiliser des texture en HD. Peut entraîner le remplacement de certains éléments du skin remplacée par le nouveau skin par défaut. |
 | Utiliser les couleurs des combos comme couleur des slider balls | Ceci prend effet que si le skin utilisé est compatible |

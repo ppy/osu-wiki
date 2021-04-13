@@ -1,25 +1,25 @@
 ---
 tags:
-- TWC 2011
-- TWC2011
+  - TWC 2011
+  - TWC2011
 ---
 
 # Taiko World Cup 2011
 
-![TWC 2011 Logo](img/logo.png)
+![TWC 2011 logo](img/logo.png)
 
 The **Taiko World Cup 2011** (***TWC 2011***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the first installment of the osu!taiko World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2011-03-12/2011-04-09 |
-| Group Stage - Week 1 | 2011-04-15/2011-04-17 |
-| Group Stage - Week 2 | 2011-04-22/2011-04-26 |
-| Group Stage - Week 3 | 2011-04-29/2011-05-01 |
+| Registration phase | 2011-03-12/2011-04-09 |
+| Group Stage week 1 | 2011-04-15/2011-04-17 |
+| Group Stage week 2 | 2011-04-22/2011-04-26 |
+| Group Stage week 3 | 2011-04-29/2011-05-01 |
 | Quarterfinals | 2011-05-07/2011-05-08 |
-| Semifinals | 2011-05-14/2011-05-15 |
+| Semifinals | 2011-05-14 |
 | Finals | 2011-05-22/2011-05-29 |
 
 ## Prizes
@@ -31,23 +31,21 @@ The **Taiko World Cup 2011** (***TWC 2011***) was a country-based osu!taiko tour
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 | *Special* | 1 month of osu!supporter tag |
 
-![TWC 2011 Winner Badge](img/badge.png)
+![](img/badge.jpg "TWC 2011 winner badge")
 
 ## Organisation
 
-The Taiko World Cup 2011 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Taiko World Cup 2011 was run by various community members.
 
-| Position | Member(s) |
+| Position | Members |
 | :-- | :-- |
-| Manager | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_KR] [arien666](https://osu.ppy.sh/users/113646), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_IL] [Noobita](https://osu.ppy.sh/users/119188), ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) |
+| Manager | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_KR] [arien666](https://osu.ppy.sh/users/113646), ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_IL] [Noobita](https://osu.ppy.sh/users/119188), ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_HK] [matthewhln](https://osu.ppy.sh/users/291487) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/47356)
 - **[Statistics sheet](https://spreadsheets.google.com/ccc?key=0Aozv0NW718V1dGpOTlAxbnZndXh2QkM2MFdUUUJ5cVE&hl=en&authkey=CNv6phk)**
-
----
 
 ## Participants
 
@@ -81,11 +79,7 @@ The Taiko World Cup 2011 was run by various community members by distributing th
 | ![][flag_MY] Malaysia | ![][flag_GB] United Kingdom | ![][flag_US] United States | ![][flag_KR] South Korea B |
 | ![][flag_PH] Philippines |  |  |  |
 
----
-
-![TWC 2011 Podium](img/podium.png)
-
----
+![TWC 2011 podium](img/podium.png)
 
 ## Mappools
 
@@ -149,7 +143,7 @@ The Taiko World Cup 2011 was run by various community members by distributing th
 - Tiebreaker
   - **[Frederic Chopin - Etude Op. 10-4 (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/22374#taiko/77232)**
 
-### Group Stage - Week 3
+### Group Stage week 3
 
 - FreeMod
   - [\_yoc feat. Sara Matsumoto - Moonlight Windia (ouranhshc) \[Roko-Don's Taiko\]](https://osu.ppy.sh/beatmapsets/20266#taiko/73769)
@@ -174,7 +168,7 @@ The Taiko World Cup 2011 was run by various community members by distributing th
   - **[Ai Otsuka - Sakuranbo (S i R i R u) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/16928#taiko/60790)**
   - **[yak\_won - lucid (soulfear) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/15898#taiko/58041)**
 
-### Group Stage - Week 2
+### Group Stage week 2
 
 - FreeMod
   - [Beniiro Litmus - Rin to Shite Saku Hana no Gotoku (Chacha17) \[lepidon's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/13451#taiko/49881)
@@ -199,7 +193,7 @@ The Taiko World Cup 2011 was run by various community members by distributing th
   - **[9mm Parabellum Bullet - Punishment (lepidopodus) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/16715#taiko/59792)**
   - **[Anamanaguchi - Rock Club (Sushi) \[Taiko\]](https://osu.ppy.sh/beatmapsets/20801#taiko/73057)**
 
-### Group Stage - Week 1
+### Group Stage week 1
 
 - FreeMod
   - [3oh!3 - Chokechain (Gens) \[Hard\]](https://osu.ppy.sh/beatmapsets/10863#taiko/41909)
@@ -223,46 +217,58 @@ The Taiko World Cup 2011 was run by various community members by distributing th
   - **[L'Arc\~en\~Ciel - DAYBREAK'S BELL (RandomJibberish) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/19681#taiko/70624)**
   - **[Rex - Heart of Witch (yeahyeahyeahhh) \[Roko-Don's Taiko\]](https://osu.ppy.sh/beatmapsets/20309#taiko/75251)**
 
----
-
-## Match Results
+## Match results
 
 ### Finals
 
-| Sunday, 2011-05-22 |  |  |  |  |
+Sunday, 22 May 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/762010) |
 
-| Sunday, 2011-05-29 |  |  |  |  |
+Sunday, 29 May 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Japan ![][flag_JP] | 4 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/809078) |
 
 ### Semifinals
 
-| Saturday, 2011-05-14 |  |  |  |  |
+Saturday, 14 May 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 1 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/714056) |
-| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_US] United States | -win by default- |
+| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_US] United States | *win by default* |
 
 ### Quarterfinals
 
-| Saturday, 2011-05-07 |  |  |  |  |
+Saturday, 7 May 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_IT] ![][flag_NL] Italy-Netherlands | [#1](https://osu.ppy.sh/community/matches/669276) |
 | **China** ![][flag_CN] | **4** | 3 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/670326) |
-| South Korea B ![][flag_KR] | 0 | **4** | ![][flag_US] **United States** | -win by default- |
+| South Korea B ![][flag_KR] | 0 | **4** | ![][flag_US] **United States** | *win by default* |
 
-| Sunday, 2011-05-08 |  |  |  |  |
+Sunday, 8 May 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ![][flag_HK] | 3 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/677605) |
 
-### Group Stage - Week 3
+### Group Stage week 3
 
-| Friday, 2011-04-29 |  |  |  |  |
+Friday, 29 April 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Germany A** ![][flag_DE] | **3** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/620058) |
 
-| Saturday, 2011-04-30 |  |  |  |  |
+Saturday, 30 April 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **3** | 0 | ![][flag_BR] ![][flag_CL] Brazil-Chile | [#1](https://osu.ppy.sh/community/matches/621893) |
 | South Korea A ![][flag_KR] | 1 | **3** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/625054) |
@@ -272,40 +278,54 @@ The Taiko World Cup 2011 was run by various community members by distributing th
 | France ![][flag_FR] | 0 | **3** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/620058) |
 | **United States** ![][flag_US] | **3** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/628633) |
 
-| Sunday, 2011-05-01 |  |  |  |  |
+Sunday, 1 May 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Malaysia ![][flag_MY] | 0 | 0 | ![][flag_PH] Philippines | -nullified- |
+| Malaysia ![][flag_MY] | 0 | 0 | ![][flag_PH] Philippines | *nullified* |
 | China ![][flag_CN] | 2 | **3** | ![][flag_DE] **Germany A** | [#1](https://osu.ppy.sh/community/matches/633234) |
 | **Japan** ![][flag_JP] | **3** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/633728) |
 
-### Group Stage - Week 2
+### Group Stage week 2
 
-| Friday, 2011-04-22 |  |  |  |  |
+Friday, 22 April 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | United Kingdom ![][flag_GB] | 2 | **3** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/570806) |
 | **South Korea A** ![][flag_KR] | **3** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/571429) |
 
-| Saturday, 2011-04-23 |  |  |  |  |
+Saturday, 23 April 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **3** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/574922) |
 
-| Sunday, 2011-04-24 |  |  |  |  |
+Sunday, 24 April 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/587957) |
 | **Japan** ![][flag_JP] | **3** | 0 | ![][flag_DE] Germany B | [#1](https://osu.ppy.sh/community/matches/588494) |
 
-| Tuesday, 2011-04-26 |  |  |  |  |
+Tuesday, 26 April 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Germany A ![][flag_DE] | 1 | **3** | ![][flag_IT] ![][flag_NL] **Italy-Netherlands** | [#1](https://osu.ppy.sh/community/matches/602804) |
-| Brazil-Chile ![][flag_BR] ![][flag_CL] | 0 | **3** | ![][flag_PL] **Poland** | -win by default- |
+| Brazil-Chile ![][flag_BR] ![][flag_CL] | 0 | **3** | ![][flag_PL] **Poland** | *win by default* |
 
-### Group Stage - Week 1
+### Group Stage week 1
 
-| Friday, 2011-04-15 |  |  |  |  |
+Friday, 15 April 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United Kingdom** ![][flag_GB] | **3** | 1 | ![][flag_KR] South Korea A | [#1](https://osu.ppy.sh/community/matches/528963) |
 
-| Saturday, 2011-04-16 |  |  |  |  |
+Saturday, 16 April 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Poland ![][flag_PL] | 1 | **3** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/534263) |
 | Philippines ![][flag_PH] | 1 | **3** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/534652) |
@@ -314,7 +334,9 @@ The Taiko World Cup 2011 was run by various community members by distributing th
 | Finland ![][flag_FI] | 0 | **3** | ![][flag_DE] **Germany B** | [#1](https://osu.ppy.sh/community/matches/537311) |
 | **United States** ![][flag_US] | **3** | 0 | ![][flag_BR] ![][flag_CL] Brazil-Chile | [#1](https://osu.ppy.sh/community/matches/538664) |
 
-| Sunday, 2011-04-17 |  |  |  |  |
+Sunday, 17 April 2011:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/542259) |
 | **China** ![][flag_CN] | **3** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/542705) |
@@ -322,53 +344,7 @@ The Taiko World Cup 2011 was run by various community members by distributing th
 
 ## Ruleset
 
-### Tournament Instructions
-
-The 1st round of the tournament will be robin-round stage. There will be 4 groups and each groups have 4~5 teams. Your team will play every other teams once, and the team achieved #1 or #2 in their group will be ascended to the next round. Ranking of teams will be decided by certain standards:
-
-1. More matches won.
-2. Have bigger `{(the number of games won) - (the number of games defeated)}`.
-3. More games won.
-4. Have bigger `∑{(total score difference) / (maximum score)}`.
-5. Winner of the rematch.
-
-Other stages will be Knockout stage. If your team wins the match, your team will be ascended to the next round immediately. but if you lose your match, your team will be knocked out from the tournament.
-
-Usually you will have a match per a week, but in the 1st round you may have two matches in certain week if your group consists of 5 teams.
-
-### Registration Rules
-
-1. Minimum 3 players per one team. You can add 1 back-up player, so maximum number of the player in one team is 4.
-2. The team should include a captain for managing the team and the players.
-3. Basically a team represents a nation since it's World Cup. That means you can make a team with players from same country basically.
-4. If your country lacks Taiko players sufficient to participate this, you can recruit players from other nations with permission.
-5. Due to so many Taiko players are from certain countries, more than one team per country is available with permission.
-6. Captain should forum-PM to Tournament manager or post in this thread to make a team.
-   - Captain can make a team first, then add some players for it.
-   - One team should include at least 3 players until the registration is closed. If it's not, the team will be disbanded.
-   - Captain can add back-up player if there's no one for the team until the tournament actually starts.
-7. Staff can't participate tournament as a player.
-8. This rules can be modified without noticing.
-
-### Match Instructions
-
-1. One of referees will make the room 15 minutes before the time. All players should arrive the room in right time.
-   - The room will be locked. The password will be sent to the two captains as soon as possible.
-   - Referee can wait maximum 15 minutes.
-   - Referee should post multiplayer history in this thread.
-2. The team that mentioned first in the timetable will be Blue team. Referee will be Blue team, too.
-   - From semi-final, which team will be blue team will be decided by coin flipping of referee.
-   - Referee should not touch anything that can affect score.
-3. If everythings are ready for the matches, referee will give host to the captain of blue team.
-4. Captain of the blue team selects the map from the maps that are announced for the round, then starts the game.
-5. When the game ends, referee will save screenshot for the result screen, and post it to this thread when the match ends.
-6. Captain of the blue team will give host to captain of the red team and the rest is same as 4 and 5.
-   - In final game, referee will become host and select the map to play.
-7. Repeat 4~6 until winner is decided.
-8. In Robin-round stage, the team wins 3 games first will win the match. In Knock-out stage, the team need to win 4 games.
-9. In final round, you have to win 5 games first.
-
-### Rules
+### General rules
 
 1. The maps for the tournament will be announced each round. Basically this will be decided by staff.
    - There will be some maps that can be used only for the final games.
@@ -410,21 +386,67 @@ Usually you will have a match per a week, but in the 1st round you may have two 
 16. If the manager is absent when decisions from the manager are needed, vice-manager will take over the job temporarily.
 17. This rules can be modified without noticing.
 
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+### Tournament instructions
+
+The 1st round of the tournament will be robin-round stage. There will be 4 groups and each groups have 4~5 teams. Your team will play every other teams once, and the team achieved #1 or #2 in their group will be ascended to the next round. Ranking of teams will be decided by certain standards:
+
+1. More matches won.
+2. Have bigger `{(the number of games won) - (the number of games defeated)}`.
+3. More games won.
+4. Have bigger `∑{(total score difference) / (maximum score)}`.
+5. Winner of the rematch.
+
+Other stages will be Knockout stage. If your team wins the match, your team will be ascended to the next round immediately. but if you lose your match, your team will be knocked out from the tournament.
+
+Usually you will have a match per a week, but in the 1st round you may have two matches in certain week if your group consists of 5 teams.
+
+### Registration rules
+
+1. Minimum 3 players per one team. You can add 1 back-up player, so maximum number of the player in one team is 4.
+2. The team should include a captain for managing the team and the players.
+3. Basically a team represents a nation since it's World Cup. That means you can make a team with players from same country basically.
+4. If your country lacks Taiko players sufficient to participate this, you can recruit players from other nations with permission.
+5. Due to so many Taiko players are from certain countries, more than one team per country is available with permission.
+6. Captain should forum-PM to Tournament manager or post in this thread to make a team.
+   - Captain can make a team first, then add some players for it.
+   - One team should include at least 3 players until the registration is closed. If it's not, the team will be disbanded.
+   - Captain can add back-up player if there's no one for the team until the tournament actually starts.
+7. Staff can't participate tournament as a player.
+8. This rules can be modified without noticing.
+
+### Match instructions
+
+1. One of referees will make the room 15 minutes before the time. All players should arrive the room in right time.
+   - The room will be locked. The password will be sent to the two captains as soon as possible.
+   - Referee can wait maximum 15 minutes.
+   - Referee should post multiplayer history in this thread.
+2. The team that mentioned first in the timetable will be Blue team. Referee will be Blue team, too.
+   - From semi-final, which team will be blue team will be decided by coin flipping of referee.
+   - Referee should not touch anything that can affect score.
+3. If everythings are ready for the matches, referee will give host to the captain of blue team.
+4. Captain of the blue team selects the map from the maps that are announced for the round, then starts the game.
+5. When the game ends, referee will save screenshot for the result screen, and post it to this thread when the match ends.
+6. Captain of the blue team will give host to captain of the red team and the rest is same as 4 and 5.
+   - In final game, referee will become host and select the map to play.
+7. Repeat 4~6 until winner is decided.
+8. In Robin-round stage, the team wins 3 games first will win the match. In Knock-out stage, the team need to win 4 games.
+9. In final round, you have to win 5 games first.
+
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

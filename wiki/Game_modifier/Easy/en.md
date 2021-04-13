@@ -11,6 +11,8 @@ tags:
 
 ![EZ mod icon](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
 
+*For other uses, see [Easy (disambiguation)](/wiki/Disambiguation/Easy).*
+
 *For the full list of all mods, see: [Game modifier](/wiki/Game_modifier)*
 
 ## About
@@ -28,7 +30,7 @@ tags:
 
 ## Description
 
-The **Easy** mod is a [game modifier](/wiki/Game_modifier) that attempts to ease the difficulty of a [beatmap](/wiki/Beatmaps). It sets out to do this by halving all of the difficulty settings of a selected beatmap.
+The **Easy** mod is a [game modifier](/wiki/Game_modifier) that attempts to ease the difficulty of a [beatmap](/wiki/Beatmap). It sets out to do this by halving all of the difficulty settings of a selected beatmap.
 
 In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod will grant the player two additional "lives" during a play if the [life bar](/wiki/Glossary#life-bar) drops to zero. In the case that this does happen, the game will pause to slowly refill the life bar to about 80% and remove one "life" from the player's life count. No sound will be played during this effect.
 
@@ -38,7 +40,7 @@ This refill event will be signaled to the player with the ready sound (`readysou
 
 In [osu!standard](wiki/Game_Modes/osu!), the Easy mod decreases [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) by half.
 
-![EZ Gameplay o!s](img/GM_EZ2.jpg "osu!standard gameplay with the Easy mod enabled")
+![EZ gameplay standard](img/EZ-comparison-standard.jpg "Comparison between a regular play (left) vs a play with the Easy mod enabled (right) in osu!standard")
 
 Although, it is worth mentioning that many players do not find the use of the Easy mod to be helpful in decreasing the relative difficulty of beatmaps, especially high-intensity ones. The argument for this goes that the decreased approach rate creates a messy, difficulty-to-read situation where the actual speed of the beatmap is not very well reflected visually (displayed below).
 
@@ -58,7 +60,7 @@ In [osu!catch](/wiki/Game_mode/osu!catch), the effects the same as in osu!standa
 
 Despite only using one axis, the fruits' larger size and slower falling rate may cause them to clump together, creating the same common issues with difficulty as in osu!standard.
 
-<!-- image needed here -->
+![EZ gameplay catch](img/EZ-comparison-catch.jpg "Comparison between a regular osu!at play (left) vs a play with the Easy mod enabled (right) in osu!catch")
 
 ### osu!mania
 

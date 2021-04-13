@@ -69,7 +69,7 @@ Be aware that becoming a free agent will **not guarantee a spot for playing in t
 | --: | :-- |
 | Host | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759) |
 | Co-Host | ![][flag_NZ] [Div](https://osu.ppy.sh/users/3751116) |
-| Spreadsheet management | ![][flag_CA] [Meow Mix](https://osu.ppy.sh/users/3021634)
+| Spreadsheet management | ![][flag_CA] [Meow Mix](https://osu.ppy.sh/users/3021634) |
 | Statistician | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759) |
 | Programmer | ![][flag_KR] [Eurus](https://osu.ppy.sh/users/3426414) |
 | Media | ![][flag_US] [Weed](https://osu.ppy.sh/users/2609349) |

@@ -91,13 +91,13 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 | Country3 | Example | Example | Example |
 | Country4 | Example | Example | Example |
 
----------------------------
+---
 
 ![{ABBR} Podium](img/podium.png)
 
 ![{ABBR} Bracket](img/bracket.png)
 
----------------------------
+---
 
 ## Mappools
 
@@ -117,7 +117,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 <!-- Tiebreaker beatmap must be bolded -->
 
---------------------------------
+---
 
 ## Match results
 
@@ -128,8 +128,8 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 Day, date:
 
-| Blue team |  |  | Red team | Match link |
 <!-- For solo tournaments, replace table header with: | Player 1 |  |  | Player 2 | Match link | -->
+| Blue team |  |  | Red team | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **WINNER** ![][flag] | **SCORE** | SCORE | ![][flag] LOSER | [#1](MATCH_LINK) |
 | LOSER ![][flag] | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ![][flag] **WINNER** | *win by default* |
@@ -140,7 +140,7 @@ Day, date:
 ### Round of 16
 ### Group stage
 
----------------------------------
+---
 
 ## Ruleset
 <!-- For official tournaments it depends on game mode used -->

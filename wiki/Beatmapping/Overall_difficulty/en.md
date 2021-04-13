@@ -11,7 +11,7 @@ tags:
 
 *For recommended OD values, see: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Overall difficulty** (***OD***) defines how difficult it is to achieve high [accuracy](/wiki/Accuracy) on a [beatmap](/wiki/Beatmaps). The value ranges from 0 to 10, where higher OD will require more accuracy and precision. Since accuracy is important for gaining health, overall difficulty also influences how hard it is to pass a beatmap.
+**Overall difficulty** (***OD***) defines how difficult it is to achieve high [accuracy](/wiki/Accuracy) on a [beatmap](/wiki/Beatmap). The value ranges from 0 to 10, where higher OD will require more accuracy and precision. Since accuracy is important for gaining health, overall difficulty also influences how hard it is to pass a beatmap.
 
 ## Timing
 
@@ -55,5 +55,7 @@ While Half Time and Double Time do not change the OD value, the speed difference
 Overall difficulty is visible when viewing osu!catch beatmap information, but it does not affect gameplay.
 
 <!-- TODO: taiko and mania info -->
+
 <!-- TODO: Insert lots of links -->
+
 <!-- TODO: add CHART -->

@@ -114,7 +114,7 @@ Similar to his previous ranked sets, [Lenfried-](https://osu.ppy.sh/users/531457
 
 During the kiai time, he expresses the music perfectly through extensive usage of long notes. Additionally, the rough slider velocities changes that he uses are very helpful in expressing the feeling of song too. This may be hot stuff, but it's actually a really cool map - just don't get fooled by the star rating!.
 
---------
+---
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the near future. Until then, happy clicking, drumming, catching, and hitting the piano notes! Be sure to bring a hot cup of tea along the way!
 

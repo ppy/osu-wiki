@@ -1,6 +1,7 @@
 ---
 outdated: true
 outdated_since: 84df5a5c33bb4256a47c830bc67b6f3bb7636846
+needs_cleanup: true  # нужно заново перевести без руссификации термина
 ---
 
 # Приглашённые исполнители

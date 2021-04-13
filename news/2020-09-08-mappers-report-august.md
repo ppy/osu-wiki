@@ -126,7 +126,7 @@ The osu! Beatmapping World Championship is still underway! With each month we're
 
 #### Quarterfinals Results
 
-| Team 1 | | | Team 2 |
+| Team 1 |  |  | Team 2 |
 | --: | :-: | :-: | :-- |
 | ![](/wiki/shared/flag/FR.gif) France | 1 | **6** | **Argentina** ![](/wiki/shared/flag/AR.gif) |
 | ![](/wiki/shared/flag/VN.gif) Vietnam | 3 | **4** | **Brazil** ![](/wiki/shared/flag/BR.gif) |
@@ -135,7 +135,7 @@ The osu! Beatmapping World Championship is still underway! With each month we're
 
 #### Semifinals Match-ups
 
-| Team 1 | | Team 2 |
+| Team 1 |  | Team 2 |
 | --: | :-: | :-- |
 | ![](/wiki/shared/flag/AR.gif) **Argentina** | vs. | **Brazil** ![](/wiki/shared/flag/BR.gif) |
 | ![](/wiki/shared/flag/GB.gif) **United Kingdom** | vs. | **Russian Federation** ![](/wiki/shared/flag/RU.gif) |

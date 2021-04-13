@@ -44,4 +44,4 @@ osu! へようこそ。 peppyによって開発された、フリートゥーウ
 
 2016年8月26日に、osu! wiki はGitHubリポジトリ上へ移動されました。この変化によって、ワークフローは大きく変わってきました。すべての貢献は [osu-wiki GitHub リポジトリ](https://github.com/ppy/osu-wiki) を通して行われ、それらはosu! wikiへ反映される前に審査されます。
 
-初めるには、[osu! wiki 貢献ガイド](/wiki/owcg) をご覧ください。
+初めるには、[osu! wiki 貢献ガイド](/wiki/osu!_wiki_Contribution_Guide) をご覧ください。

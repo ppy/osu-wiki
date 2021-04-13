@@ -1,3 +1,8 @@
+---
+outdated:  true
+outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
+---
+
 # Países que han participado en torneos de osu!
 
 Este artículo enlista a los países que han participado en los variados torneos de osu!, osu!taiko, CtB y osu!mania, así como su posición si terminaron en el top 4.
@@ -153,7 +158,7 @@ Este artículo enlista a los países que han participado en los variados torneos
 | ![][flag_TW] Taiwán | ![][true] 1st | ![][true] ×2 | ![][true] 1st ×2 | ![][false] | ![][true] 2nd | ![][true] 2nd | ![][true] 2nd |
 | ![][flag_TH] Tailandia | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_UA] Ukraine | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_GB] Reino Unido| ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] |
+| ![][flag_GB] Reino Unido | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] |
 | ![][flag_US] Estados Unidos | ![][true] 4th | ![][true] ×2 | ![][true] ×2 | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_VE] Venezuela | ![][false] | ![][false] | ![][true] ½ | ![][false] | ![][false] | ![][true] | ![][true] |
 | Total number of teams | 17 | 24 | 32 | 20 | 24 | 24 | 24 |
@@ -237,7 +242,7 @@ Este artículo enlista a los países que han participado en los variados torneos
 | 4 | ![][flag_PH] Filipinas |  | 1 |  |
 | 4 | ![][flag_TH] Tailandia |  | 1 |  |
 | 5 | ![][flag_MY] Malasia |  |  | 3 |
-| 6 | ![][flag_GB] Reino Unido|  |  | 1 |
+| 6 | ![][flag_GB] Reino Unido |  |  | 1 |
 
 #### Asistencia
 

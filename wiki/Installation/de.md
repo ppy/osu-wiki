@@ -27,7 +27,7 @@ Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum La
 
 ## Beatmapsets hinzufügen
 
-*Siehe auch: [Beatmaps](/wiki/Beatmaps) und [Beatmapsets](/wiki/Glossary#beatmapset)*
+*Siehe auch: [Beatmaps](/wiki/Beatmap) und [Beatmapsets](/wiki/Glossary#beatmapset)*
 
 Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!direct (benötigt [osu!supporter](/wiki/osu!supporter)).
 

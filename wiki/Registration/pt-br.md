@@ -14,6 +14,7 @@ no_native_review: true
    - Para o campo de username, há um máximo de 15 caracteres; de quais só podem ser alfanuméricos (`a-z`, `A-Z`, `0-9`), sublinhado (`_`), colchetes, (`[` e `]`), traços (`-`), e espaços (` `).
    - Para o campo de email, utilize seu próprio email. Este irá ser utilizado para resetar sua senha e te enviar códigos de verificação quando necessário, então não utilize um email falso ou que você não irá usar.
    - Para o campo de senha, utilize uma senha que possua pelo menos 8 caracteres.
+
 3. Depois de completo, clique em `1. Create my account!`. Você será automaticamente logado dentro do jogo.
 
 ## E então, qual a próxima?

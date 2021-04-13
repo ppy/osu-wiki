@@ -1,63 +1,90 @@
 ---
 layout: main_page
-outdated: true
-outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
+no_native_review: true
 ---
-<!-- Translated to Latin American Spanish, there it might be some differences with Castilian. -->
-<!-- Most possibly, it seems more like Chilean Spanish. -->
+
+<!-- Translated to Latin American Spanish, there it might be some differences with Castilian. Most possibly, it seems more like Chilean Spanish. -->
 
 <div class="wiki-main-page__blurb">
-Welcome to the osu! wiki, a project containing a wide range of osu! related information.
+Bienvenido al wiki de osu!, un proyecto que contiene una amplia gama de información relacionada con osu!
 </div>
-
 
 <div class="wiki-main-page__panels">
-<div class="wiki-main-page-panel">
+<div class="wiki-main-page-panel wiki-main-page-panel--full">
 
+# Empezamos
 
-# Empecemos
-
-[Bienvenido](/wiki/Welcome) • [Registro](/wiki/Registration) • [Instalación](/wiki/Installation) • [Interfaz del juego](/wiki/Interface) • [Opciones del juego](/wiki/Options) • [Referencia de atajos de teclado](/wiki/Shortcut_key_reference) • [Mapa del sitio](/wiki/Sitemap) • [Guias](/wiki/Guides) • [Centro de ayuda](/wiki/Help_Centre)
+[Bienvenido](/wiki/Welcome) • [Instalación](/wiki/Installation) • [Registro](/wiki/Registration) • [Centro de ayuda](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
 
+# Cliente del juego
+
+[Interfaz](/wiki/Interface) • [Opciones](/wiki/Options) • [Configuraciones visuales](/wiki/Visual_Settings) • [Referencias de atajos del teclado](/wiki/Shortcut_key_reference) • [Archivo de configuración](/wiki/osu!_Program_Files/User_Configuration_File) • [Archivos de programa](/wiki/osu!_Program_Files)
+
+[Formatos de archivo](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
+
+</div>
+<div class="wiki-main-page-panel">
 
 # Juego
 
-[Preguntas frecuentes](/wiki/FAQ) • [Multijugador](/wiki/Multi) • [Modos de juego](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
+[Modos de juego](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
+
+[Beatmap](/wiki/Beatmap) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Puntuación](/wiki/Score) • [Repetición](/wiki/Replay) • [Multi](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # [Editor de Beatmaps](/wiki/Beatmap_Editor)
 
-Sections: ([Componer](/wiki/Beatmap_Editor/Compose) • [Diseñar](/wiki/Beatmap_Editor/Design) • [Temporizar](/wiki/Beatmap_Editor/Timing) • [Configuración de las canciones](/wiki/Beatmap_Editor/Song_Setup)) • Components: ([Divisor de beat rápido](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distancia del beat](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Dificultades](/wiki/Difficulties) • [Objetos golpeables](/wiki/Hit_Objects) • [Tecnicas de mapeado](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+Secciones: [Composición](/wiki/Beatmap_Editor/Compose) • [Diseño](/wiki/Beatmap_Editor/Design) • [Tiempo](/wiki/Beatmap_Editor/Timing) • [Configuración de la canción](/wiki/Beatmap_Editor/Song_Setup)
+
+Componentes: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divisor de golpes](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distancía de golpes](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [Carga de SB](/wiki/Beatmap_Editor/SB_Load) • [Líneas de tiempo](/wiki/Beatmap_Editor/Timelines)
+
+[Beatmapping](/wiki/Beatmapping) • [Dificultades](/wiki/Beatmap/Difficulty) • [Técnicas de mapeo](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
 
+# Envío y clasificación de Beatmap
 
-# Edición y ranking en línea
+[Envío](/wiki/Submission) • [Modding](/wiki/Modding) • [Procedimiento de clasificación](/wiki/Beatmap_ranking_procedure) • [Gremio de Mapeadores](/wiki/Mappers_Guild) • [Proyecto Amado](/wiki/Project_Loved)
 
-[Enviar un Beatmap](/wiki/Submission) • [Aprobación de los Beatmap](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Criterios del ranking](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
-
-</div>
-<div class="wiki-main-page-panel">
-
-
-# El mundo de osu!
-
-[Glosario](/wiki/Glossary) • [Torneos](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proyectos](/wiki/Projects)
+[Criterio de clasificación](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
 
+# Comunidad
+
+[Torneos](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proyectos](/wiki/Projects) • [Guías](/wiki/Guides) • [Servidor de Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cómo puedes ayudar](/wiki/How_You_Can_Help!) • [Glosario](/wiki/Glossary)
+
+</div>
+<div class="wiki-main-page-panel">
 
 # Personas
 
-[El equipo](/wiki/People/The_Team) • [Equipo de moderación global](/wiki/People/Global_Moderation_Team) • [Moderadores de idioma](/wiki/People/Language_Moderators) • [Equipo de evaluación de las nominaciones](/wiki/People/Nomination_Assessment_Team) • [Nominadores de Beatmaps](/wiki/People/Beatmap_Nominators) • [Alumni de osu!](/wiki/People/osu!_Alumni) • [Equipo de soporte](/wiki/People/Support_Team)
+[El equipo](/wiki/People/The_Team): [Desarrolladores](/wiki/People/The_Team/Developers) • [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipo de Apoyo](/wiki/People/The_Team/Support_Team) • [Equipo de Evaluación de Nominaciones](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominadores de Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipo del Proyecto Amado](/wiki/People/The_Team/Project_Loved_Team)
+
+Organizaciones: [osu! UCI](/wiki/Organisations/osu!_UCI)
+
+[Colaboradores de la Comunidad](/wiki/People/Community_Contributors) • [Usuarios con Títulos Únicos](/wiki/People/Users_with_unique_titles)
+
+</div>
+<div class="wiki-main-page-panel">
+
+# Para desarrolladores
+
+[API](/wiki/osu!api) • [Cuenta Bot](/wiki/Bot_account) • [Reglas para la identidad de la marca](/wiki/Brand_identity_guidelines)
+
+</div>
+<div class="wiki-main-page-panel">
+
+# Acerca de la wiki
+
+[Mapa del sitio](/wiki/Sitemap) • [Guía de contribuciones](/wiki/osu!_wiki_Contribution_Guide) • [Criterios de estilización de artículos](/wiki/Article_Styling_Criteria) • [Criterios de estilización de noticias](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

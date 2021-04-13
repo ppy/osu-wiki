@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
 tags:
   - bot accounts
   - chat bot

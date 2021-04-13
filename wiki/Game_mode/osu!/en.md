@@ -2,6 +2,8 @@
 
 # osu! (game mode)
 
+*For other uses, see [osu! (disambiguation)](/wiki/Disambiguation/osu!).*
+
 ![Gameplay of osu!](/wiki/shared/osu-gameplay.jpg "osu! Interface")
 
 The first game mode and namesake which was based from the ouendan series.
@@ -264,7 +266,7 @@ The system used to calculate health drain and health gain is complicated so it w
 - Changing spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then spin in the correct direction. The spin progress will not be lost during the reorientation (it will not increase instead), and will continue to increase on reverse spin.
 - Not spinning around the centre core of the spinner will **not** be considered as a valid spin.
 - Smoke last longer than default in-game cursor trail. Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
-- Mascot for osu! is [pippi](/wiki/Mascots#pippi).
+- Mascot for osu! is [pippi](/wiki/Mascots#-pippi).
 - When played by [Auto](/wiki/Game_modifier/Auto), the player name will be osu!.
 
 ### History

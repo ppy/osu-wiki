@@ -58,7 +58,7 @@ The DeltaMax's Mania Key Smasher was run by various community members.
 - [Livestream](https://www.twitch.tv/deltamax_tournaments)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaYwnjoRil9gwnnlX8oPqoGNrFaiqjGe2IqgvKsDkCeTUYGOgGZIlyVH-GFRhZCkfIQ46hnGdDUy10/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -82,7 +82,7 @@ The DeltaMax's Mania Key Smasher was run by various community members.
 | **G** | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600) | ![][flag_IT] [CribobFangirl](https://osu.ppy.sh/users/2727928) | ![][flag_IT] [Kiraz](https://osu.ppy.sh/users/3807675) |
 | **H** | ![][flag_MY] [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142) | ![][flag_VE] [Edvo](https://osu.ppy.sh/users/8301758) | ![][flag_HK] [SamsonNote7](https://osu.ppy.sh/users/10353103) |
 
------------------------
+---
 
 ## Podium
 
@@ -94,7 +94,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [xSnaggles](https://osu.ppy.sh/users/3799946) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
 
------------------------
+---
 
 ## Mappools
 
@@ -199,7 +199,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Evil Scarecrow - End Level Boss (Pope Gadget) \[Robototron's Revenge\]](https://osu.ppy.sh/beatmapsets/609536#mania/1287224)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -340,7 +340,7 @@ This competition has come to an end and resulted in the following podium:
 | E4 | 2fast4you98 ![][flag_NL] | 0 | **4** | ![][flag_FR] **ZayyKen** | -win by default- |
 | G4 | **CribobFanGirl** ![][flag_IT] | **4** | 0 | ![][flag_IT] Kiraz | [#1](https://osu.ppy.sh/community/matches/47676716) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

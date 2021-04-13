@@ -27,7 +27,7 @@ tags:
 
 ## Description
 
-The **Flashlight** mod is a [game modifier](/wiki/Game_modifier/Flashlight) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmaps) by limiting the visible area of the screen.
+The **Flashlight** mod is a [game modifier](/wiki/Game_modifier/Flashlight) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmap) by limiting the visible area of the screen.
 
 ### osu!standard
 
@@ -37,7 +37,7 @@ The visible area will become smaller at 100x combo and again at 200x combo. If t
 
 All of this adds up to an effect that looks like a virtual flashlight is being shone on the player's cursor:
 
-![FL gameplay](img/GM_FL_O.jpg "Gameplay of osu!standard with the Flashlight mod")
+![FL gameplay standard](img/FL-comparison-standard.jpg "Comparison between a play with the Flashlight mod enabled at 13x combo (top-middle), 100x combo (bottom-left), and at 200x combo (bottom-right)")
 
 It should be noted that when paired with the Hidden mod, the "flashlight's" visible area barely matters: with limited vision, the fading of the hit objects may occur while the cursor is not focused to the hit object's appearance point.
 
@@ -47,7 +47,7 @@ The Flashlight mod is widely regarded by many as the hardest mod in osu!standard
 
 In [osu!taiko](/wiki/Game_mode/osu!taiko), the position of visible area is fixed at the hitting area. And similarly to osu!standard, the visible area shrinks as the combo increases: shrinking at 100x and 200x combo while returning to its original size if the combo breaks.
 
-![FL gameplay o!t](img/GM_FL_T.jpg "Gameplay of osu!taiko with the Flashlight mod")
+![FL gameplay taiko](img/FL-taiko.jpg "Gameplay of osu!taiko with the Flashlight mod enabled")
 
 When paired with the Hidden mod, the "flashlight's" visible area becomes a moot point because notes are technically "invisible" because the notes fade out completely upon reaching the visible area. This also requires complete memorization of the beatmap.
 
@@ -55,15 +55,15 @@ When paired with the Hidden mod, the "flashlight's" visible area becomes a moot 
 
 In [osu!catch](/wiki/Game_mode/osu!catch), the Flashlight mod's behaviour is the same as in osu!standard, except for the fact that the visible area follows the catcher instead of the cursor. And due to the nature of osu!catch, the visible area is notably larger than in osu!standard or osu!taiko.
 
-![FL gameplay o!c](img/GM_FL_C.jpg "Gameplay of osu!catch with the Flashlight mod")
+![FL gameplay catch](img/FL-catch.jpg "Gameplay of osu!catch with the Flashlight mod enabled")
 
 When paired with the Hidden mod, the fruits are momentarily visible if the catcher is *directly under* the fruits. That is, up until the player reaches 100x combo, at which point the fruits become completely invisible by the time the fruits reach the visible area. Much like osu!standard and osu!taiko, this also requires complete memorization of the beatmap.
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the center of the screen whilst everything else is obstructed from view. Thus this could be thought of the Hidden mod and [Fade In](/wiki/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
+In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the center of the track whilst everything else is obstructed from view. In that sense, the Flashlight mod could be thought of as the Hidden mod and [Fade In](/wiki/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
 
-![FL gameplay o!m](img/GM_FL_M.jpg "Gameplay of osu!mania with the Flashlight mod")
+![FL gameplay mania](img/FL-mania.jpg "Gameplay of osu!mania with the Flashlight mod enabled")
 
 ## Trivia
 

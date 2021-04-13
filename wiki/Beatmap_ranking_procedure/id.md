@@ -5,7 +5,7 @@ outdated_since: 6e9200e42c1c320aa83b8ac62a2dd9b678bb3eb4
 
 # Prosedur Beatmap Ranking
 
-[Beatmap](/wiki/Beatmaps) dapat dipromosikan ke Komunitas dengan mengikuti prosedur beatmap ranking dan sudah berada dalam kategori [Ranked](/wiki/Beatmaps#ranked).
+[Beatmap](/wiki/Beatmap) dapat dipromosikan ke Komunitas dengan mengikuti prosedur beatmap ranking dan sudah berada dalam kategori [Ranked](/wiki/Beatmap/Category#ranked).
 
 ## Umpan balik
 
@@ -27,7 +27,7 @@ Sangat dianjurkan untuk menerima mod sebelum meminta nominasi dari BN, lima hype
 
 ## Kualifikasi
 
-Beatmap yang memiliki 2 nominasi akan dipindahkan ke kategori beatmap [Qualified](/wiki/Beatmaps#qualified) selama 7 hari. Qualified Beatmap memiliki scoreboard tapi tidak akan menghasilkan [performance points](/wiki/Performance_Points).
+Beatmap yang memiliki 2 nominasi akan dipindahkan ke kategori beatmap [Qualified](/wiki/Beatmap/Category#qualified) selama 7 hari. Qualified Beatmap memiliki scoreboard tapi tidak akan menghasilkan [performance points](/wiki/Performance_Points).
 
 Kategori ini ada untuk memberikan tanggapan-tanggapan dari Komunitas osu! dengan berharap menemukan potensi yang bermasalah. Masalah tersebut dapat dilaporkan kepada anggota BN dan NAT pada halaman diskusi beatmap. Berbeda dengan Pending beatmaps, Qualified beatmaps tidak dapat diperbarui oleh pembuat, jadi umpan balik atau kritik dapat diterapkan setelah meminta sebuah [pengulangan nominasi](#pengulangan-nominasi).
 

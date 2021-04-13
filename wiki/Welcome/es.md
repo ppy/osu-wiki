@@ -44,4 +44,4 @@ Skinning permite que cualquier persona cambie la forma en la que osu! se ve y se
 
 Desde el 26 de agosto del año 2016, el osu! wiki ha sido movido al repositorio de GitHub. Después de este cambio, el flujo de trabajo ha sido cambiado drásticamente. Todas las contribuciones ahora van hacia el [Repositorio de la osu! wiki en GitHub](https://github.com/ppy/osu-wiki) y son revisados antes de ser aprobados y fusionados a la osu! wiki.
 
-Para empezar, ve la [Guia de contribución de la osu! wiki](/wiki/owcg).
+Para empezar, ve la [Guia de contribución de la osu! wiki](/wiki/osu!_wiki_Contribution_Guide).

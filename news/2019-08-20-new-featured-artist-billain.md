@@ -48,7 +48,7 @@ Check them out:
     <source src="https://assets.ppy.sh/artists/46/previews/1184.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 You know the drill by now, all of the above tracks and **MORE** are available pre-timed and pre-packaged for your convenience over at [**Billain**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/46), all 100% free for use in mapping your wildest dreams.
 

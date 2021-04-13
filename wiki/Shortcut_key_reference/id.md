@@ -66,7 +66,7 @@ Catatan: Mod spesial seperti [Perfect](/wiki/Game_modifier/Perfect) atau [Nightc
 - **W**: [No-Fail](/wiki/Game_modifier/No_Fail)
 - **E**: [Half Time](/wiki/Game_modifier/Half_Time)
 
-------------------------------------------------------------------------
+---
 
 - **A**: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
 - **S**: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
@@ -74,7 +74,7 @@ Catatan: Mod spesial seperti [Perfect](/wiki/Game_modifier/Perfect) atau [Nightc
 - **F**: [Hidden](/wiki/Game_modifier/Hidden)
 - **G**: [Flashlight](/wiki/Game_modifier/Flashlight)
 
-------------------------------------------------------------------------
+---
 
 - **X**: [Relax](/wiki/Game_modifier/Relax) (di osu!mania 4/5/6/7/8K mod)
 - **C**: [Auto-Pilot](/wiki/Game_modifier/Autopilot)

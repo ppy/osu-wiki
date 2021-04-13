@@ -40,7 +40,7 @@ Don't believe me? Try listening to a few previews below:
     <source src="https://assets.ppy.sh/artists/41/previews/998.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 You'll find the four above included among the **48 new tracks** available now under [**Rising Sun Traxx**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/41), fully timed and ready for the editor. 
 

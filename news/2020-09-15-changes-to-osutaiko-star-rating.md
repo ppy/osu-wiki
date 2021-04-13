@@ -22,10 +22,10 @@ These changes should make it so that Star Rating much more accurately reflects t
 
 | Task | Status | Notes |
 | :-- | :-- | :-- |
-| client update | Done | |
-| server difficulty recalculation | Done | |
+| client update | Done |  |
+| server difficulty recalculation | Done |  |
 | server pp recalculation | Done | Note that inactive users were removed from the leaderboards, so most users will see a rank increase. |
-| user top score reindexing | Done | |
+| user top score reindexing | Done |  |
 
 ## Introduction
 

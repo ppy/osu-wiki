@@ -26,13 +26,13 @@ Les maps nominées sont ensuite postées sur le [forum Project Loved](https://os
 
 Il y a quelques critères très minimaux à respecter pour que les beatmaps soient approuvées comme étant loved. Les capitaines considèrent qu'un beatmapset est éligible pour la catégorie Loved si:
 
-- Si elle n'est pas dans les catégories [Qualified](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked) ou [Approved](/wiki/Beatmaps#approved)
+- Si elle n'est pas dans les catégories [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked) ou [Approved](/wiki/Beatmap/Category#approved)
 - Son créateur ne désapprouve pas le fait qu'il soit loved
 - Son créateur n'est ni banni ni restreint
 - Au moins une difficulté peut être passée
 - Aucune difficulté ne contient d'erreurs de Beatmapping (problèmes de timing, formatage de fichier incorrect, etc.)
 
-Cependant, malgré que presque toutes les maps dans [Pending and Work-in-progress](/wiki/Beatmaps#pending) répondant à ces critères, peu de personnes sont élues dans la catégorie «loved» en raison des exigences plus sélectives en matière de nomination et de vote.
+Cependant, malgré que presque toutes les maps dans [Pending and Work-in-progress](/wiki/Beatmap/Category#pending) répondant à ces critères, peu de personnes sont élues dans la catégorie «loved» en raison des exigences plus sélectives en matière de nomination et de vote.
 
 ### Priorité de nomination
 

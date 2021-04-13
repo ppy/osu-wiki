@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mara's Gaming Corner - July"
-date: 2013-07-31 00:00:00 +0000
+date: 2013-07-31 05:52:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56948588121/maras-gaming-corner-july
 ---
 
@@ -32,7 +32,7 @@ Cube World has a combat that focuses on player skill and free movement. Of cours
 
 ![](/wiki/shared/news/2013-07-31-maras-gaming-corner-july/CubeWorld1.jpg)
 
-_You are able to defeat most monsters in the world if you are skilled enough._
+*You are able to defeat most monsters in the world if you are skilled enough.*
 
 The game also supports crafting, even though there aren't too many things to craft yet. You can craft potions, armor, amulets and other stuff that will come in handy later on. Not only that, but you can customize your weapon with special cubes you can find in caves. You can place the cubes on your weapon freely, leading to your own interesting designs. I hope this feature will also be added on other gear in the future.
 
@@ -42,7 +42,7 @@ Speaking of riding, one of the features I like are the pets. There are all kinds
 
 ![](/wiki/shared/news/2013-07-31-maras-gaming-corner-july/CubeWorld2.jpg)
 
-_Multiplayer is great fun if you get the right people to play with you._
+*Multiplayer is great fun if you get the right people to play with you.*
 
 Cube World already has 4 player multiplayer support both online and LAN, but it's been a buggy ride so far. The biggest issue with multiplayer is that all players get experience points from completing a quest. This means that everyone else can just stay in town while one player goes and completes a quest. I have encountered some players who have been asking for powerleveling and I find this really sad. I also heard from a friend that one of his friends went to a modded server which had about 100 players and then came back with level 800 without doing anything. I hope this will be fixed, so only the people doing hard work are getting rewarded. Not only that, but servers like to crash when someone disconnects.
 

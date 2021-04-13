@@ -1,8 +1,8 @@
 # GitHub Web Interface
 
-*父页面：[osu! wiki 贡献指南](/wiki/owcg).*
+*父页面：[osu! wiki 贡献指南](/wiki/osu!_wiki_Contribution_Guide).*
 
-*这篇文章继续父页面的内容。* 如果你打算修改多篇文章（包括上传，删除，移动图片或其他文件），请阅读另一篇指南——[GitHub Desktop](/wiki/owcg/GitHub_Desktop)。
+*这篇文章继续父页面的内容。* 如果你打算修改多篇文章（包括上传，删除，移动图片或其他文件），请阅读另一篇指南——[GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop)。
 
 ## 编辑
 
@@ -22,7 +22,7 @@
 
 ### 移动文件
 
-_注意：**不推荐**这么做_。因为你只能一次移动一个文件！可能会制造很多“无意义”的提交，让其他审阅人员误解而关闭你的 Pull Request。
+*注意：**不推荐**这么做*。因为你只能一次移动一个文件！可能会制造很多“无意义”的提交，让其他审阅人员误解而关闭你的 Pull Request。
 
 1\. 定位到你希望文章移动的文件，然后打开它。
 
@@ -102,4 +102,4 @@ _注意：**不推荐**这么做_。因为你只能一次移动一个文件！�
 
 ## 完成
 
-你现在可以回到 [osu! wiki 贡献指南](/wiki/owcg#完成)，继续阅读与 Pull Request 和审阅有关的信息。
+你现在可以回到 [osu! wiki 贡献指南](/wiki/osu!_wiki_Contribution_Guide#完成)，继续阅读与 Pull Request 和审阅有关的信息。

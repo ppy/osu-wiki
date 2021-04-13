@@ -70,7 +70,7 @@ Here's a sample of what we've got in store for you to map to:
     <source src="https://assets.ppy.sh/artists/29/previews/630.mp3" type="audio/mpeg">
 </audio>
 
---------
+---
 
 Check out all these and more, over at [**Culprate**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/29). If you like what you hear, there's a plethora of links on his listing to all of his social media outlets.
 

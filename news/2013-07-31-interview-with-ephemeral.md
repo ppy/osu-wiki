@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview with Ephemeral"
-date: 2013-07-31 00:00:00 +0000
+date: 2013-07-31 05:38:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56947685704/interview-with-ephemeral
 ---
 
@@ -29,7 +29,7 @@ I think we have a pretty diverse team as far as nationalities go, with many peop
 
 **What's your favorite part of being community manager?**
 
-_*laughs*_ There's a favorite part? Really? There's nothing really "favorite" about it, to be honest. I wish it wasn't needed, and I know that really isn't a "favorite" thing, but I just wish I could have been a BAT, rather than being a personal secretary. I guess there is the satisfaction of seeing people do stuff without me having to step in.
+*\*laughs\** There's a favorite part? Really? There's nothing really "favorite" about it, to be honest. I wish it wasn't needed, and I know that really isn't a "favorite" thing, but I just wish I could have been a BAT, rather than being a personal secretary. I guess there is the satisfaction of seeing people do stuff without me having to step in.
 
 **What's your reasoning behind merging the two teams (MAT & BAT) together?**
 

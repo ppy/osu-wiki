@@ -4,7 +4,7 @@ outdated: true
 
 # Modding (Português)
 
-**Modding** é o processo de examinar o [map](/wiki/Beatmaps) de outra pessoa e fazer sugestões. A pessoa fazendo sugestões para o map é chamada de "modder", e a pessoa que fez o map é referida como "mapper". Modding pode ser útil de três formas:
+**Modding** é o processo de examinar o [map](/wiki/Beatmap) de outra pessoa e fazer sugestões. A pessoa fazendo sugestões para o map é chamada de "modder", e a pessoa que fez o map é referida como "mapper". Modding pode ser útil de três formas:
 
 1. Se seu post de mod é útil ao mapper, então ele vai te dar [kudosu](/wiki/Glossary). Kudosu pode ser usado para aumentar a prioridade de seu map ou de outro map da sua escolha.
 2. "Mod4Mod", como é chamado o acordo de fazer mods no beatmap de outra pessoa caso ela também faça no seu, é uma ótima forma de receber mods.

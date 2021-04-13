@@ -89,13 +89,13 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 | Country3 | Contoh | Contoh | Contoh |
 | Country4 | Contoh | Contoh | Contoh |
 
----------------------------
+---
 
 ![Podium {ABBR}](img/podium.png) -->
 
 ![Bagan {ABBR}](img/bracket.png) -->
 
----------------------------
+---
 
 ## Mappools
 
@@ -115,7 +115,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 
 <!-- Beatmap Tiebreaker wajib dicetak tebal -->
 
---------------------------------
+---
 
 ## Hasil Pertandingan
 
@@ -133,7 +133,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 ### Babak 16 Besar
 ### Babak Grup
 
----------------------------------
+---
 
 ## Peraturan
 <!-- Untuk turnamen resmi, tergantung pada mode game yang dilombakan -->

@@ -14,7 +14,7 @@ With a field of 12 teams being cut in half in this stage of the tournament, the 
 - [Tournament Matches](#matches)
 - [Looking Ahead](#ahead)
 
---------
+---
 
 At the conclusion of last week's matches, we had to pay our due respects to four teams — this week, the overall stakes would be substantially higher for those in the Losers Bracket, requiring two wins to make it into the finals.
 
@@ -72,7 +72,7 @@ That did not stop them from going toe-to-toe with the prospective frontrunners, 
 
 **The final match of the weekend was the second Winners Bracket match of the stage, between United States and Chile.** Upon winning the roll, the Chile team boldly, and incorrectly opted into picking [Ekcle - The Impulsive State](https://osu.ppy.sh/beatmapsets/620962#mania/1364765) against a United States team that is well known for not steering away from SV maps, quickly finding themselves into a 1-0 deficit. Opening the match with increased confidence against a potentially threatening Chile team, the United States team continued with unbroken momentum, punishing their opponents song after song until no songs were left to be played, sending Chile to the Losers Bracket after a convincing 6-0 result.
 
---------
+---
 
 ### Sunday
 
@@ -90,7 +90,7 @@ Continued trading along the United Kingdom's expected picks of speed and stamina
 
 ![](/wiki/shared/news/2017-09-07-osu-mania-4k-world-cup-semifinals-recap/ChinaUnitedKingdom_game5.jpg)
 
---------
+---
 
 As usual, if you have missed any of the matches for the past weekend, all VODs of the matches can be found on the [official osulive Twitch channel](https://www.twitch.tv/osulive/videos/all).
 
@@ -110,7 +110,7 @@ In the Winners Bracket will be the defending champions, South Korea, facing off 
 
 The United Kingdom and Japan teams have progressed in the Losers Bracket as a result of their well-played matches, where they will face off against Brazil and Chile respectively in their first of three steps to climb back to the grand finals, where the winners of those corresponding showdowns will face each other. From there, they will await their opponent based off of the results of the Winners Bracket match between the South Korea and United States team, facing off against the loser for the chance to take out the winner in the Grand Finals.
 
---------
+---
 
 **Join us on the [osu!live Twitch channel](https://www.twitch.tv/osulive/) starting at 14:00 UTC on Saturday, September 9th for the first two Losers Bracket matches!** Japan and Chile will begin week 1 of the Finals, fighting each other on this brutally difficult Finals mappool. Immediately after that will be the United Kingdom and Brazil teams fighting it out to push their way through the bracket.
 

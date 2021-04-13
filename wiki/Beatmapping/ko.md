@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmapping (한국어)
 
-**매핑(Beatmapping)** 은 [비트맵을](/wiki/Beatmaps) 만드는 과정이다.
+**매핑(Beatmapping)** 은 [비트맵을](/wiki/Beatmap) 만드는 과정이다.
 
 곡 선택, [타이밍](/wiki/Timing), 오브젝트 배치, 그리고 선택적으로 [스킨과](/wiki/Skinning) [스토리보드의](/wiki/Storyboarding) 제작 과정이 이에 포함된다.
 

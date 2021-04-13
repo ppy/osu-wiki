@@ -365,7 +365,7 @@ Samedi, 8 Septembre 2018:
 | C | ume-skills ![][flag_FR] | 0 | **3** | ![][flag_CA] **Sinaeb** | *win by default* |
 | C | Sinaeb ![][flag_CA] | 0 | **3** | ![][flag_FR] **Orazeit** | [#1](https://osu.ppy.sh/community/matches/45801482) |
 | C | **ume-skills** ![][flag_FR] | **3** | 0 | ![][flag_FR] FulgurentKille | *win by default* |
-| H | **Noulayfe** ![][flag_FR] | **3** | 0 | ![][flag_FR] Mnemosyne | [#1](https://osu.ppy.sh/community/matches/45802376)
+| H | **Noulayfe** ![][flag_FR] | **3** | 0 | ![][flag_FR] Mnemosyne | [#1](https://osu.ppy.sh/community/matches/45802376) |
 | E | **Electr0o** ![][flag_FR] | **3** | 0 | ![][flag_FR] CaptainAlexis | [#1](https://osu.ppy.sh/community/matches/45808697) |
 
 Dimanche, 9 Septembre 2018:

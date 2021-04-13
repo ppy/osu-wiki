@@ -36,11 +36,11 @@ The mod functions exactly like a [replay](/wiki/Replay), with the options for 0.
 
 ### osu!standard
 
-In [osu!standard](/wiki/Game_mode/osu!), when encountered with a spinner, the Auto mod will spin to a maximum of 477 spins per minute (SPM) in a counter-clockwise rotation.
+In [osu!standard](/wiki/Game_mode/osu!), when encountered with a spinner, the Auto mod will spin to a maximum of 477 spins per minute (SPM) in a anticlockwise rotation.
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the Auto mod will attempt a perfect playthrough, but won't always get an SS grade. It will occasionally miss a tick on drumrolls that do not start on a whole or half beat and will not always be able to complete dendens on maps with a very high overall difficulty.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the Auto mod will attempt a perfect playthrough, but won't always get an SS grade. It will occasionally miss a tick on drum rolls that do not start on a whole or half beat and will not always be able to complete dendens on maps with a very high overall difficulty.
 
 ### osu!catch
 
@@ -53,6 +53,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the Auto mod will attempt a perfect p
 ## Trivia
 
 - When watching an Auto replay, the username displayed in the leaderboard will be "osu!."
+- After watching an Auto replay, the mod will deselect itself and the user will be forced to reselect the mod if they wish to watch the replay again. This will happen whether or not the replay is watched all the way through.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"

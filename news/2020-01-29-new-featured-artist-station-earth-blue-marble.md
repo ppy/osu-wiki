@@ -44,7 +44,7 @@ Check it out for yourself:
     <source src="https://assets.ppy.sh/artists/66/previews/1854.mp3" type="audio/mpeg">
 </audio>
 
-----
+---
 
 You know the drill, all of this plus so much more is available right now over at [**Station Earth / Blue Marble**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/66), all pre-timed and awaiting your creative spin. You never know, you might end up the next Bearizm. 20 million plays on a single set is no joke!
 

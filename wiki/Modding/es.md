@@ -7,16 +7,14 @@ outdated: true
 **Modding** es cuando alguien revisa el Beatmap de otra persona y hace sugerencias. Las sugerencias pueden ser para solucionar errores o simplemente para hacer el Beatmap mejor de lo que es. La persona haciendo el modding es llamado “[modder](/wiki/Glossary)”, y la persona que hace el Beatmap es llamado “[mapper](/wiki/Glossary)”. Si tu mapeas, es altamente recomendado que des mod por tres grandes razones:
 
 1. Si tu mod post es útil para el mapper, entonces el te dará un [kudosu](/wiki/Glossary). Los kudos pueden ser usados para aumentar el [Star Priority](/wiki/Glossary) (SP) de tu map.
-
 2. “Mod4mods”, o cuando haces un trato con alguien para que haga un mod post en tu Beatmap a cambio de que tu hagas un mod post en el suyo.
-
 3. Un buen mod post reduce el tiempo que los equipos de aprobación utilizan señalando errores básicos. Esto a su vez reduce la cantidad de estrés en los equipos de aprobación, y adicionalmente hace que ellos estén más dispuestos a hacer un mod post a tu Beatmap. Confía en nosotros, un MAT feliz y de buen animo es el que no tuvo que gastar 10 minutos llorando porque el Beatmap obviamente necesitaba muchos más mod post.
 
 Si estás aprendiendo a mapear o ya sabes cómo hacerlo, modear es una buena manera para mejorar tus habilidades del mapeo.
 
 ## Método básico de modding
 
-Primero, descarga un map (Beatmap) desde [Pending](/wiki/Beatmaps) o [Works In Progress/Help](/wiki/Glossary) (WIP). Puede ser una petición (Request) de algún mapper o un map totalmente al azar. Solo necesita no estar rankeado. Por ahora, toma un map totalmente al azar.
+Primero, descarga un map (Beatmap) desde [Pending](/wiki/Beatmap) o [Works In Progress/Help](/wiki/Glossary) (WIP). Puede ser una petición (Request) de algún mapper o un map totalmente al azar. Solo necesita no estar rankeado. Por ahora, toma un map totalmente al azar.
 
 Luego ve al editor y empieza tu respuesta (mod) en el hilo del Beatmap.
 
@@ -71,10 +69,8 @@ Las opciones de las dificultades se pueden hallar en la ventana de Set-up de la 
 ## Que evitar en tu mod post
 
 1. **Evita decir solo** "spacing" o "espaciado". Los mappers más experimentados raramente comenten errores de espaciado, así que por favor explica **porqué** crees tu que el espaciado debe ser cambiado.
-
 2. **WTF!?**. Es altamente recomendado evitar cualquier expresión o frase que haga que el mapper evite leer tu mod, trata de llegar tu estado de “WTF” a algo más entendible y que ayude al mapper.
-
-3.**1 grid lvl4 to the right (Un cuadrado nivel 4 a la derecha)**. No siempre es evidente el porqué de mover algo a en un distancia tan pequeña, asi que añade un explicacion del porqué hacerlo.
+3. **1 grid lvl4 to the right (Un cuadrado nivel 4 a la derecha)**. No siempre es evidente el porqué de mover algo a en un distancia tan pequeña, asi que añade un explicacion del porqué hacerlo.
 
 Esencialmente, **cada punto en tu mod post tiene que tener el “dónde”, “qué” y “porqué”**. Cuando no utilizas el “porqué” o el “qué” es fácil para el mapper no saber que es lo que quieres decir. De fallar en estas cosas tu mod sera mucho menos útil de lo que debería ser. Simplemente explicando tus sugerencias hará que tu mod sera mucho más útil.
 

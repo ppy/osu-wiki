@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 029eb57bd83c4d5d74fb54d65723f05b44411250
+---
+
 # Storyboard Scripting
 
 ![Sebuah contoh scripting di .osb.](img/SBS_Base.jpg "Sebuah contoh scripting di .osb.")

@@ -56,7 +56,7 @@ The osu! European Tournament 2 was run by various community members.
 - [Livestream](https://www.twitch.tv/osueuropeantournament)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUhf1LUEhexa1Uaria2AjiBnM2mzsgfIJYrfhZTLPrxEhqBDz-rDR2TbeDkce_tPDDLsT1M0_9rDWa/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -138,7 +138,7 @@ The osu! European Tournament 2 was run by various community members.
 | **BezMaman** | ![][flag_FR] **[maefok](https://osu.ppy.sh/users/3635748)**, ![][flag_FR] [Dragon\_697](https://osu.ppy.sh/users/4961538), ![][flag_FR] [Vaan](https://osu.ppy.sh/users/6467440) |
 | **not even european** | ![][flag_DE] **[\[Shadez\]](https://osu.ppy.sh/users/549954)**, ![][flag_HK] [Nocy](https://osu.ppy.sh/users/4801735), ![][flag_RU] [Liswiera](https://osu.ppy.sh/users/9356954) |
 
------------------------
+---
 
 ## Podium
 
@@ -168,7 +168,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Yes (Yes) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Polish Musketeers |
 
------------------------
+---
 
 ## Mappools
 
@@ -574,7 +574,7 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [zts - resurrectedreplayer (EvilElvis) \[Difficult\]](https://osu.ppy.sh/beatmapsets/304672#osu/696177)
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -904,7 +904,7 @@ This competition has come to an end and resulted in the following podium:
 | L-C | Der Superbekanntenkreis | 0 | **4** | **D&Y** | -win by default- |
 | L-B | **AT Fighting for Breasts** | **4** | 0 | \[No PP Farmers\] | -win by default- |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

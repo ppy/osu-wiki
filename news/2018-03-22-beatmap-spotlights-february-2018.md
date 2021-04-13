@@ -140,7 +140,7 @@ After a two-year break between his last ranked map and now, [liaoxingyao](https:
 
 Its low level of difficulty makes it an accessible mapset for almost any level player, and is why it's found itself a spot in this month's spotlights.
 
---------
+---
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the future.
 

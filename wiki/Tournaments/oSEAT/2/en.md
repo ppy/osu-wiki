@@ -94,7 +94,7 @@ The osu! South East Asia Tournament 2 was run by various community members.
 | **M** | ![][flag_CA] [dunois](https://osu.ppy.sh/users/4581715) | ![][flag_MY] [haruchi](https://osu.ppy.sh/users/4845266) | ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825) | ![][flag_MY] [Desumond](https://osu.ppy.sh/users/7399262) | ![][flag_SG] [finneyneo](https://osu.ppy.sh/users/291512) |
 | **N** | ![][flag_MY] [TequilaWolf](https://osu.ppy.sh/users/3633477) | ![][flag_VN] [Shironi](https://osu.ppy.sh/users/8660120) | ![][flag_ID] [\[-Kazumine-\]](https://osu.ppy.sh/users/6372345) | ![][flag_TH] [IamIkaros](https://osu.ppy.sh/users/9332745) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) |
 | **O** | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427) | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | ![][flag_MY] [Zygody](https://osu.ppy.sh/users/3677251) | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) | ![][flag_SG] [CryingWaff](https://osu.ppy.sh/users/9768060) |
-| **P** | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | ![][flag_SG] [feces](https://osu.ppy.sh/users/9347706) | ![][flag_TH] [Dcyte](https://osu.ppy.sh/users/2659707) | ![][flag_MY] [alphaplay](https://osu.ppy.sh/users/9304966) | ![][flag_ID] [praguzz](https://osu.ppy.sh/users/5014039)
+| **P** | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | ![][flag_SG] [feces](https://osu.ppy.sh/users/9347706) | ![][flag_TH] [Dcyte](https://osu.ppy.sh/users/2659707) | ![][flag_MY] [alphaplay](https://osu.ppy.sh/users/9304966) | ![][flag_ID] [praguzz](https://osu.ppy.sh/users/5014039) |
 
 ---
 

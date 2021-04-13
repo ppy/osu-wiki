@@ -12,7 +12,7 @@ tags:
 
 *Notice: This play style requires the use of a graphics tablet.*
 
-**Tapx** is a tapping style for [tablet-only](/wiki/Play_style#tablet-only) players in [osu!standard](/wiki/Game_mode/osu!) in which players click circles, slide sliders, and spin spinners by tapping a tablet pen onto a tablet, along with a secondary keyboard and/or tablet key to assist with [streams](/wiki/Beatmaps/Pattern/Stream) and [stacks](/wiki/Mapping_Techniques/Stack). This method is fairly difficult for most players and is not very popular amongst most tablet players.
+**Tapx** is a tapping style for [tablet-only](/wiki/Play_style#tablet-only) players in [osu!standard](/wiki/Game_mode/osu!) in which players click circles, slide sliders, and spin spinners by tapping a tablet pen onto a tablet, along with a secondary keyboard and/or tablet key to assist with [streams](/wiki/Beatmap/Pattern/Stream) and [stacks](/wiki/Mapping_Techniques/Stack). This method is fairly difficult for most players and is not very popular amongst most tablet players.
 
 ## Streaming
 

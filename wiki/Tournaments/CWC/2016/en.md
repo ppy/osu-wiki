@@ -1,46 +1,46 @@
 ---
 tags:
-- CWC 2016
-- CWC2016
+  - CWC 2016
+  - CWC2016
 ---
 
 # osu!catch World Cup 2016
 
-![CWC 2016 Logo](img/logo.png)
+![CWC 2016 logo](img/logo.jpg)
 
-The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 5th installment of the osu!catch World Cup.
+The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth installment of the osu!catch World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2016-04-12/2016-04-30 |
-| Live Drawings | 2016-05-15 (14:00 UTC) |
+| Registration phase | 2016-04-12/2016-04-30 |
+| Live drawings | 2016-05-15 (14:00 UTC) |
 | Group Stage | 2016-05-21/2016-05-22 |
-| Round of 16 | 2016-05-28/2016-05-29 |
-| Quarterfinals | 2016-06-04/2016-06-05 |
+| Round of 16 | 2016-05-28 |
+| Quarterfinals | 2016-06-05 |
 | Semifinals | 2016-06-11/2016-06-12 |
-| Finals | 2016-06-18/2016-06-19 |
-| Grand Finals | 2016-06-25/2016-06-26 |
+| Finals week 1 | 2016-06-18/2016-06-19 |
+| Finals week 2 | 2016-06-26 |
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
-
-| Place | Prize(s) |
+| Place | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, unique profile badge, special user title |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, unique profile badge |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, unique profile badge, special user title |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, unique profile badge |
+
+![](img/badge.jpg "CWC 2016 winner badge") ![](img/badge2.jpg "CWC 2016 2nd place badge") ![](img/badge3.jpg "CWC 2016 3rd place badge")
 
 ## Organisation
 
-The osu!catch World Cup 2016 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!catch World Cup 2016 was run by various community members.
 
 | Position | Members |
 | :-- | :-- |
-| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selector | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) |
+| Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Mappool selector | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) |
 | Commentator | ![][flag_US] [Arf](https://osu.ppy.sh/users/3716999), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -50,43 +50,41 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wl_-ovoojuvTLDeMRkFPqBdBdX0AAFZR60ysbNkk-S8/pubhtml)**
 
------------------------
-
 ## Participants
 
 |  | Country | Members |
 | --: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **[\[Force\]](https://osu.ppy.sh/users/1617217)**, [VelperK](https://osu.ppy.sh/users/348467), [Retz](https://osu.ppy.sh/users/5095790), [koliron](https://osu.ppy.sh/users/4632730), [Danti](https://osu.ppy.sh/users/4785841), [Tadashi](https://osu.ppy.sh/users/4027910) |
-| ![][flag_AU] | **Australia** | **[Zeverage](https://osu.ppy.sh/users/237550)**, [chickennando](https://osu.ppy.sh/users/5818665), [Seiga](https://osu.ppy.sh/users/4403718), [Janga](https://osu.ppy.sh/users/3917884), [EL-S](https://osu.ppy.sh/users/5385123), [tachima](https://osu.ppy.sh/users/3420156) |
-| ![][flag_BE] | **Belgium** | **[\[ Zorua \]](https://osu.ppy.sh/users/3112563)**, [Skir](https://osu.ppy.sh/users/1938228), [\[ Seraf \]](https://osu.ppy.sh/users/6376151), [\[K y o k o\]](https://osu.ppy.sh/users/626677) |
-| ![][flag_BR] | **Brazil** | **[ThanaR](https://osu.ppy.sh/users/3834323)**, [Mikudesu](https://osu.ppy.sh/users/4120228), [Ari Light](https://osu.ppy.sh/users/4383265), [HK Kimma](https://osu.ppy.sh/users/3328968), [Senfuresu Kura](https://osu.ppy.sh/users/3464898), [Michael Jordan](https://osu.ppy.sh/users/4099041) |
-| ![][flag_CA] | **Canada** | **[jeubach](https://osu.ppy.sh/users/3406015)**, [MikuChan](https://osu.ppy.sh/users/2571882), [Kyptoric](https://osu.ppy.sh/users/1361268), [Fii](https://osu.ppy.sh/users/3922569), [Yoshi\_green](https://osu.ppy.sh/users/1035891), [FastYoshi](https://osu.ppy.sh/users/4820793) |
-| ![][flag_CL] | **Chile** | **[\[Nico\]](https://osu.ppy.sh/users/1011240)**, [lineqtxz](https://osu.ppy.sh/users/989542), [nacho-s-m](https://osu.ppy.sh/users/3673417), [Quit user](https://osu.ppy.sh/users/2389481), [lechuguin](https://osu.ppy.sh/users/2872000), [Kohaku](https://osu.ppy.sh/users/1866048) |
-| ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)**, [Intensity](https://osu.ppy.sh/users/3072921), [- N a g i -](https://osu.ppy.sh/users/2956936), [Sakurano Kurimu](https://osu.ppy.sh/users/1338103), [Crystal](https://osu.ppy.sh/users/1646397), [KagamineRin02](https://osu.ppy.sh/users/518503) |
-| ![][flag_DK] | **Denmark** | **[Crab](https://osu.ppy.sh/users/2563435)**, [Only1Magma](https://osu.ppy.sh/users/3922957), [SharpN](https://osu.ppy.sh/users/4382076), [DragonsDungeon](https://osu.ppy.sh/users/4134819), [Wermii](https://osu.ppy.sh/users/2424947), [Separ](https://osu.ppy.sh/users/5266889) |
-| ![][flag_FI] | **Finland** | **[forgottentaco](https://osu.ppy.sh/users/6109660)**, [xDarkon](https://osu.ppy.sh/users/4188814), [undo](https://osu.ppy.sh/users/2782290), [Awsumi](https://osu.ppy.sh/users/4174308) |
-| ![][flag_FR] | **France** | **[Kyuare](https://osu.ppy.sh/users/2705312)**, [Ttobas](https://osu.ppy.sh/users/2084568), [LeRenegat](https://osu.ppy.sh/users/3391775), [Vincs](https://osu.ppy.sh/users/2026299), [Orinoshi](https://osu.ppy.sh/users/3047355), [Fuka Pura](https://osu.ppy.sh/users/2326688) |
-| ![][flag_DE] | **Germany** | **[NoteKuroi](https://osu.ppy.sh/users/186642)**, [- Flutter -](https://osu.ppy.sh/users/4202284), [Vinci007](https://osu.ppy.sh/users/5030297), [-Rico](https://osu.ppy.sh/users/2392087), [Kingkevin30](https://osu.ppy.sh/users/564334), [MgnTby](https://osu.ppy.sh/users/4839807) |
-| ![][flag_HK] | **Hong Kong** | **[CheungB](https://osu.ppy.sh/users/788406)**, [alienflybot](https://osu.ppy.sh/users/636114), [Latifah-sama](https://osu.ppy.sh/users/1226238), [RankoP](https://osu.ppy.sh/users/1784164), [-N a n a k o-](https://osu.ppy.sh/users/1407516) |
+| ![][flag_AR] | **Argentina** | **[\[Force\]](https://osu.ppy.sh/users/1617217)**, [Danti](https://osu.ppy.sh/users/4785841), [koliron](https://osu.ppy.sh/users/4632730), [Retz](https://osu.ppy.sh/users/5095790), [Tadashi](https://osu.ppy.sh/users/4027910), [VelperK](https://osu.ppy.sh/users/348467) |
+| ![][flag_AU] | **Australia** | **[Zeverage](https://osu.ppy.sh/users/237550)**, [chickennando](https://osu.ppy.sh/users/5818665), [EL-S](https://osu.ppy.sh/users/5385123), [Janga](https://osu.ppy.sh/users/3917884), [Seiga](https://osu.ppy.sh/users/4403718), [tachima](https://osu.ppy.sh/users/3420156) |
+| ![][flag_BE] | **Belgium** | **[\[ Zorua \]](https://osu.ppy.sh/users/3112563)**, [\[ Seraf \]](https://osu.ppy.sh/users/6376151), [\[K y o k o\]](https://osu.ppy.sh/users/626677), [Skir](https://osu.ppy.sh/users/1938228) |
+| ![][flag_BR] | **Brazil** | **[ThanaR](https://osu.ppy.sh/users/3834323)**, [Ari Light](https://osu.ppy.sh/users/4383265), [HK Kimma](https://osu.ppy.sh/users/3328968), [Michael Jordan](https://osu.ppy.sh/users/4099041), [Mikudesu](https://osu.ppy.sh/users/4120228), [Senfuresu Kura](https://osu.ppy.sh/users/3464898) |
+| ![][flag_CA] | **Canada** | **[jeubach](https://osu.ppy.sh/users/3406015)**, [FastYoshi](https://osu.ppy.sh/users/4820793), [Fii](https://osu.ppy.sh/users/3922569), [Kyptoric](https://osu.ppy.sh/users/1361268), [MikuChan](https://osu.ppy.sh/users/2571882), [Yoshi\_green](https://osu.ppy.sh/users/1035891) |
+| ![][flag_CL] | **Chile** | **[\[Nico\]](https://osu.ppy.sh/users/1011240)**, [Kohaku](https://osu.ppy.sh/users/1866048), [lechuguin](https://osu.ppy.sh/users/2872000), [lineqtxz](https://osu.ppy.sh/users/989542), [nacho-s-m](https://osu.ppy.sh/users/3673417), [Quit user](https://osu.ppy.sh/users/2389481) |
+| ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)**, [- N a g i -](https://osu.ppy.sh/users/2956936), [Crystal](https://osu.ppy.sh/users/1646397), [Intensity](https://osu.ppy.sh/users/3072921), [KagamineRin02](https://osu.ppy.sh/users/518503), [Sakurano Kurimu](https://osu.ppy.sh/users/1338103) |
+| ![][flag_DK] | **Denmark** | **[Crab](https://osu.ppy.sh/users/2563435)**, [DragonsDungeon](https://osu.ppy.sh/users/4134819), [Only1Magma](https://osu.ppy.sh/users/3922957), [Separ](https://osu.ppy.sh/users/5266889), [SharpN](https://osu.ppy.sh/users/4382076), [Wermii](https://osu.ppy.sh/users/2424947) |
+| ![][flag_FI] | **Finland** | **[forgottentaco](https://osu.ppy.sh/users/6109660)**, [Awsumi](https://osu.ppy.sh/users/4174308), [undo](https://osu.ppy.sh/users/2782290), [xDarkon](https://osu.ppy.sh/users/4188814) |
+| ![][flag_FR] | **France** | **[Kyuare](https://osu.ppy.sh/users/2705312)**, [Fuka Pura](https://osu.ppy.sh/users/2326688), [LeRenegat](https://osu.ppy.sh/users/3391775), [Orinoshi](https://osu.ppy.sh/users/3047355), [Ttobas](https://osu.ppy.sh/users/2084568), [Vincs](https://osu.ppy.sh/users/2026299) |
+| ![][flag_DE] | **Germany** | **[NoteKuroi](https://osu.ppy.sh/users/186642)**, [- Flutter -](https://osu.ppy.sh/users/4202284), [Kingkevin30](https://osu.ppy.sh/users/564334), [MgnTby](https://osu.ppy.sh/users/4839807), [-Rico](https://osu.ppy.sh/users/2392087), [Vinci007](https://osu.ppy.sh/users/5030297) |
+| ![][flag_HK] | **Hong Kong** | **[CheungB](https://osu.ppy.sh/users/788406)**, [alienflybot](https://osu.ppy.sh/users/636114), [Latifah-sama](https://osu.ppy.sh/users/1226238), [-N a n a k o-](https://osu.ppy.sh/users/1407516), [RankoP](https://osu.ppy.sh/users/1784164) |
 | ![][flag_HU] | **Hungary** | **[gaaraati](https://osu.ppy.sh/users/3320300)**, [kisbee](https://osu.ppy.sh/users/1505264), [mardebra](https://osu.ppy.sh/users/5419149), [Shigaisen](https://osu.ppy.sh/users/6635772) |
 | ![][flag_ID] | **Indonesia** | **[Deceitful](https://osu.ppy.sh/users/1396447)**, [Ddraigon-](https://osu.ppy.sh/users/1380645), [dika312](https://osu.ppy.sh/users/741613), [El SolarBeam](https://osu.ppy.sh/users/1074710), [Galaxi](https://osu.ppy.sh/users/2552435), [Shurelia](https://osu.ppy.sh/users/3807986) |
-| ![][flag_IT] | **Italy** | **[Pizza Kun](https://osu.ppy.sh/users/768609)**, [BlasterONE](https://osu.ppy.sh/users/1861182), [nicostrike](https://osu.ppy.sh/users/4277070), [Jordan Greenway](https://osu.ppy.sh/users/1605599) |
-| ![][flag_JP] | **Japan** | **[giru HD](https://osu.ppy.sh/users/707456)**, [noraRcat](https://osu.ppy.sh/users/883939), [Molqus](https://osu.ppy.sh/users/1927193), [INO](https://osu.ppy.sh/users/904219), [rullu](https://osu.ppy.sh/users/595140), [ririkun](https://osu.ppy.sh/users/318357) |
-| ![][flag_MY] | **Malaysia** | **[Future\_miku95](https://osu.ppy.sh/users/2351567)**, [Kagari](https://osu.ppy.sh/users/3366264), [murutattack](https://osu.ppy.sh/users/4480237), [SYAHME](https://osu.ppy.sh/users/3886013), [Lute](https://osu.ppy.sh/users/4011799), [QHideaki13](https://osu.ppy.sh/users/733998) |
-| ![][flag_MX] | **Mexico** | **[messi](https://osu.ppy.sh/users/1600437)**, [Ponchiwi](https://osu.ppy.sh/users/1089040), [Astrea](https://osu.ppy.sh/users/3845678), [ChibiOzed](https://osu.ppy.sh/users/1690328), [blacklotus](https://osu.ppy.sh/users/2115337), [Cxlucha](https://osu.ppy.sh/users/5063961) |
-| ![][flag_NL] | **Netherlands** | **[Nebux](https://osu.ppy.sh/users/2342051)**, [Wesley](https://osu.ppy.sh/users/2407265), [Sartan](https://osu.ppy.sh/users/4100941), [- Yuri -](https://osu.ppy.sh/users/3212806), [slimmecodo1](https://osu.ppy.sh/users/1800103), [CakeAndBanana](https://osu.ppy.sh/users/1981424) |
-| ![][flag_NZ] | **New Zealand** | **[Crono](https://osu.ppy.sh/users/4249989)**, [Trumpet](https://osu.ppy.sh/users/5405204), [KillxorKile](https://osu.ppy.sh/users/3167450), [- Banana -](https://osu.ppy.sh/users/2004337), [Health](https://osu.ppy.sh/users/88973) |
-| ![][flag_NO] | **Norway** | **[Razor Sharp](https://osu.ppy.sh/users/3414261)**, [Taboki](https://osu.ppy.sh/users/2075483), [Cameragod](https://osu.ppy.sh/users/4974088), [Mile](https://osu.ppy.sh/users/2760954), [Vanilla-](https://osu.ppy.sh/users/3400701), [RazorFanGirl](https://osu.ppy.sh/users/2535200) |
-| ![][flag_PE] | **Peru** | **[AleZer0](https://osu.ppy.sh/users/214574)**, [The Fire Tiger](https://osu.ppy.sh/users/7240612), [-Sh1n1-](https://osu.ppy.sh/users/1957638), [LzeusL](https://osu.ppy.sh/users/2173232), [MONOKUMA-](https://osu.ppy.sh/users/3751796), [Alen J Sempai](https://osu.ppy.sh/users/2712301) |
+| ![][flag_IT] | **Italy** | **[Pizza Kun](https://osu.ppy.sh/users/768609)**, [BlasterONE](https://osu.ppy.sh/users/1861182), [Jordan Greenway](https://osu.ppy.sh/users/1605599), [nicostrike](https://osu.ppy.sh/users/4277070) |
+| ![][flag_JP] | **Japan** | **[giru HD](https://osu.ppy.sh/users/707456)**, [INO](https://osu.ppy.sh/users/904219), [Molqus](https://osu.ppy.sh/users/1927193), [noraRcat](https://osu.ppy.sh/users/883939), [rullu](https://osu.ppy.sh/users/595140), [ririkun](https://osu.ppy.sh/users/318357) |
+| ![][flag_MY] | **Malaysia** | **[Future\_miku95](https://osu.ppy.sh/users/2351567)**, [Kagari](https://osu.ppy.sh/users/3366264), [Lute](https://osu.ppy.sh/users/4011799), [murutattack](https://osu.ppy.sh/users/4480237), [QHideaki13](https://osu.ppy.sh/users/733998), [SYAHME](https://osu.ppy.sh/users/3886013) |
+| ![][flag_MX] | **Mexico** | **[messi](https://osu.ppy.sh/users/1600437)**, [Astrea](https://osu.ppy.sh/users/3845678), [blacklotus](https://osu.ppy.sh/users/2115337), [ChibiOzed](https://osu.ppy.sh/users/1690328), [Cxlucha](https://osu.ppy.sh/users/5063961), [Ponchiwi](https://osu.ppy.sh/users/1089040) |
+| ![][flag_NL] | **Netherlands** | **[Nebux](https://osu.ppy.sh/users/2342051)**, [- Yuri -](https://osu.ppy.sh/users/3212806), [CakeAndBanana](https://osu.ppy.sh/users/1981424), [Sartan](https://osu.ppy.sh/users/4100941), [slimmecodo1](https://osu.ppy.sh/users/1800103), [Wesley](https://osu.ppy.sh/users/2407265) |
+| ![][flag_NZ] | **New Zealand** | **[Crono](https://osu.ppy.sh/users/4249989)**, [- Banana -](https://osu.ppy.sh/users/2004337), [Health](https://osu.ppy.sh/users/88973), [KillxorKile](https://osu.ppy.sh/users/3167450), [Trumpet](https://osu.ppy.sh/users/5405204) |
+| ![][flag_NO] | **Norway** | **[Razor Sharp](https://osu.ppy.sh/users/3414261)**, [Cameragod](https://osu.ppy.sh/users/4974088), [Mile](https://osu.ppy.sh/users/2760954), [RazorFanGirl](https://osu.ppy.sh/users/2535200), [Taboki](https://osu.ppy.sh/users/2075483), [Vanilla-](https://osu.ppy.sh/users/3400701) |
+| ![][flag_PE] | **Peru** | **[AleZer0](https://osu.ppy.sh/users/214574)**, [Alen J Sempai](https://osu.ppy.sh/users/2712301), [LzeusL](https://osu.ppy.sh/users/2173232), [MONOKUMA-](https://osu.ppy.sh/users/3751796), [-Sh1n1-](https://osu.ppy.sh/users/1957638), [The Fire Tiger](https://osu.ppy.sh/users/7240612) |
 | ![][flag_PH] | **Philippines** | **[Chara](https://osu.ppy.sh/users/829284)**, [\_Joshualel\_](https://osu.ppy.sh/users/4818935), [Hi\_Hello](https://osu.ppy.sh/users/2984583) |
-| ![][flag_PL] | **Poland** | **[Kosmit](https://osu.ppy.sh/users/1749173)**, [WujekGrzyb](https://osu.ppy.sh/users/258289), [Sawa88](https://osu.ppy.sh/users/993495), [Hirikoshi](https://osu.ppy.sh/users/2114149), [Korglif](https://osu.ppy.sh/users/2568961), [wampir](https://osu.ppy.sh/users/261497) |
-| ![][flag_RU] | **Russian Federation** | **[MeGl](https://osu.ppy.sh/users/1126814)**, [skvix](https://osu.ppy.sh/users/4447639), [VagaNNN](https://osu.ppy.sh/users/1260040), [Temnushka](https://osu.ppy.sh/users/1872513) |
-| ![][flag_SG] | **Singapore** | **[He Ang Erika](https://osu.ppy.sh/users/2451381)**, [geraldwch](https://osu.ppy.sh/users/2923441), [Accel](https://osu.ppy.sh/users/1169796), [edicatxd](https://osu.ppy.sh/users/4671484), [Setsuen](https://osu.ppy.sh/users/2673742), [KyousukeRentaro](https://osu.ppy.sh/users/4971343) |
-| ![][flag_KR] | **South Korea** | **[\[224\]Reol](https://osu.ppy.sh/users/3313041)**, [\_Asriel](https://osu.ppy.sh/users/566276), [T s u m i](https://osu.ppy.sh/users/4080520), [Byeol](https://osu.ppy.sh/users/2754651), [\[224\]Hyperw7](https://osu.ppy.sh/users/4158549), [Pikicast](https://osu.ppy.sh/users/1368780) |
-| ![][flag_SE] | **Sweden** | **[Setomi](https://osu.ppy.sh/users/2205929)**, [Yukiteru Amano](https://osu.ppy.sh/users/1894511), [DamnEasy](https://osu.ppy.sh/users/4452911), [27845913](https://osu.ppy.sh/users/4312036), [Negri\_sk](https://osu.ppy.sh/users/2231396), [Toggeni](https://osu.ppy.sh/users/3555166) |
-| ![][flag_TW] | **Taiwan** | **[e0486](https://osu.ppy.sh/users/1840467)**, [Megpoid](https://osu.ppy.sh/users/158240), [Noire-](https://osu.ppy.sh/users/3325166), [anvo146](https://osu.ppy.sh/users/1113372), [473147315371](https://osu.ppy.sh/users/1952803), [LonelyLancer](https://osu.ppy.sh/users/3568065) |
-| ![][flag_GB] | **United Kingdom** | **[- Magic Bomb -](https://osu.ppy.sh/users/3071175)**, [destructor966](https://osu.ppy.sh/users/2667584), [Riari](https://osu.ppy.sh/users/2553016), [FABninja](https://osu.ppy.sh/users/5257769), [JBHyperion](https://osu.ppy.sh/users/4879508), [Klitty](https://osu.ppy.sh/users/6261222) |
-| ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [-itsy_v2-](https://osu.ppy.sh/users/2815946), [Jimmy Rustler](https://osu.ppy.sh/users/4365562), [-Kurisu-](https://osu.ppy.sh/users/500696), [Del](https://osu.ppy.sh/users/2996241), [chickenbible](https://osu.ppy.sh/users/2306637) |
+| ![][flag_PL] | **Poland** | **[Kosmit](https://osu.ppy.sh/users/1749173)**, [Hirikoshi](https://osu.ppy.sh/users/2114149), [Korglif](https://osu.ppy.sh/users/2568961), [Sawa88](https://osu.ppy.sh/users/993495), [wampir](https://osu.ppy.sh/users/261497), [WujekGrzyb](https://osu.ppy.sh/users/258289) |
+| ![][flag_RU] | **Russian Federation** | **[MeGl](https://osu.ppy.sh/users/1126814)**, [skvix](https://osu.ppy.sh/users/4447639), [Temnushka](https://osu.ppy.sh/users/1872513), [VagaNNN](https://osu.ppy.sh/users/1260040) |
+| ![][flag_SG] | **Singapore** | **[He Ang Erika](https://osu.ppy.sh/users/2451381)**, [Accel](https://osu.ppy.sh/users/1169796), [edicatxd](https://osu.ppy.sh/users/4671484), [geraldwch](https://osu.ppy.sh/users/2923441), [KyousukeRentaro](https://osu.ppy.sh/users/4971343), [Setsuen](https://osu.ppy.sh/users/2673742) |
+| ![][flag_KR] | **South Korea** | **[\[224\]Reol](https://osu.ppy.sh/users/3313041)**, [\[224\]Hyperw7](https://osu.ppy.sh/users/4158549), [\_Asriel](https://osu.ppy.sh/users/566276), [Byeol](https://osu.ppy.sh/users/2754651), [Pikicast](https://osu.ppy.sh/users/1368780), [T s u m i](https://osu.ppy.sh/users/4080520) |
+| ![][flag_SE] | **Sweden** | **[Setomi](https://osu.ppy.sh/users/2205929)**, [27845913](https://osu.ppy.sh/users/4312036), [DamnEasy](https://osu.ppy.sh/users/4452911), [Negri\_sk](https://osu.ppy.sh/users/2231396), [Toggeni](https://osu.ppy.sh/users/3555166), [Yukiteru Amano](https://osu.ppy.sh/users/1894511) |
+| ![][flag_TW] | **Taiwan** | **[e0486](https://osu.ppy.sh/users/1840467)**, [473147315371](https://osu.ppy.sh/users/1952803), [anvo146](https://osu.ppy.sh/users/1113372), [LonelyLancer](https://osu.ppy.sh/users/3568065), [Megpoid](https://osu.ppy.sh/users/158240), [Noire-](https://osu.ppy.sh/users/3325166) |
+| ![][flag_GB] | **United Kingdom** | **[- Magic Bomb -](https://osu.ppy.sh/users/3071175)**, [destructor966](https://osu.ppy.sh/users/2667584), [FABninja](https://osu.ppy.sh/users/5257769), [JBHyperion](https://osu.ppy.sh/users/4879508), [Klitty](https://osu.ppy.sh/users/6261222), [Riari](https://osu.ppy.sh/users/2553016) |
+| ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [chickenbible](https://osu.ppy.sh/users/2306637), [Del](https://osu.ppy.sh/users/2996241), [-itsy\_v2-](https://osu.ppy.sh/users/2815946), [Jimmy Rustler](https://osu.ppy.sh/users/4365562), [-Kurisu-](https://osu.ppy.sh/users/500696) |
 | ![][flag_VE] | **Venezuela** | **[Mrbinking](https://osu.ppy.sh/users/6492475)**, [AizW](https://osu.ppy.sh/users/6672736), [Alcrena](https://osu.ppy.sh/users/1502415) |
 
 ## Groups
@@ -98,24 +96,20 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | ![][flag_ID] Indonesia | ![][flag_MX] Mexico | ![][flag_HK] Hong Kong | ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_SE] Sweden |
 | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_CL] Chile | ![][flag_FR] France | ![][flag_DE] Germany | ![][flag_AR] Argentina | ![][flag_CN] China |
 
----------------------------
+![CWC 2016 podium](img/podium.jpg)
 
-![CWC 2016 Podium](img/podium.jpg)
-
-![CWC 2016 Bracket](img/bracket.jpg)
-
----------------------------
+![CWC 2016 bracket](img/bracket.jpg)
 
 ## Mappools
 
 ### Finals
 
-**This mappool was played in Finals and Grand Finals.**
+**This mappool was played during the Finals week 1 and Finals week 2.**
 
 **[Download the mappack here! (115 MB)](https://www.mediafire.com/download/g5lof1srmoxf81x/CWC_2016_Finals.rar)**
 
 - NoMod
-  - Hitori Tori - perthed again (yambabom remix) (CLSW) \[Nervous Breakdown\]
+  - [Hitori Tori - perthed again (yambabom remix) (CLSW) \[Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/347196#fruits/766249)
   - [DJ Totoriott - Chronoxia (Kyuare) \[Chronos\]](https://osu.ppy.sh/beatmapsets/429184#fruits/926084)
   - [ZUN remixed by LeaF - Resurrection Spell (osu\_gangster) \[Hourai Doll\]](https://osu.ppy.sh/beatmapsets/311925#fruits/696566)
   - [O2i3 - Ooi \[Game Edit\] (xi-False) \[MQ (Deluge EX)\]](https://osu.ppy.sh/beatmapsets/451239#fruits/968033)
@@ -148,7 +142,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
   - [Nekomata Master - Avalon no oka (Intensity) \[oveRdose\]](https://osu.ppy.sh/beatmapsets/218623#fruits/512401)
   - [ginkiha - eastward (Deif) \[Oriental\]](https://osu.ppy.sh/beatmapsets/365365#fruits/801911)
   - [Suzumu - Kakumeisei : Ousama densenbyo (Spectator) \[Kingdom\]](https://osu.ppy.sh/beatmapsets/331453#fruits/734255)
-  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ (Kyuare) \[Excalibur\]](https://osu.ppy.sh/beatmapsets/368469#fruits/808225)
+  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Kyuare) \[Excalibur\]](https://osu.ppy.sh/beatmapsets/368469#fruits/808225)
   - [Hige Driver join. SELEN - Dadadadadadadadadada (CLSW) \[EX\]](https://osu.ppy.sh/beatmapsets/350076#fruits/771879)
 - Hidden
   - [S-C-U - milky ice bear (MMzz) \[Deif's CTB\]](https://osu.ppy.sh/beatmapsets/57272#fruits/172985)
@@ -175,7 +169,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 - NoMod
   - [Seiryu - Ultramarine (ZiRoX) \[Spec's Abyss\]](https://osu.ppy.sh/beatmapsets/275991#fruits/635701)
   - [Ryu\* - Sakura Mirage (Priti) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/205022#fruits/484036)
-  - ONE OK ROCK - Kanzen Kankaku Dreamer (CLSW) \[Nemesis\]
+  - [ONE OK ROCK - Kanzen Kankaku Dreamer (CLSW) \[Nemesis\]](https://osu.ppy.sh/beatmapsets/194941#fruits/462771)
   - [Yasuda Mizuho - Yoake no Bell ga Naru (wairin) \[Furely's Overdose\]](https://osu.ppy.sh/beatmapsets/379459#fruits/830620)
   - [ETIA. - Claiomh Solais (Zare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/165664#fruits/403039)
   - [Memme - Avalanche (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/357244#fruits/785892)
@@ -220,7 +214,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
   - [Oratorio The World God Only Knows - God only knows Dai San Maku (O.A. version) (DJPop) \[Insane\]](https://osu.ppy.sh/beatmapsets/22196#fruits/77308)
 - DoubleTime
   - [Bangbros - Yeah Yeah Yeah! (Nightcore Mix) (ztrot) \[Yeah Yeah Yeah!\]](https://osu.ppy.sh/beatmapsets/28147#fruits/93964)
-  - Tamaz-P - Hirari, Hirari (DragonSlayer96) \[Platter\]
+  - [Tamaz-P - Hirari, Hirari (DragonSlayer96) \[Platter\]](https://osu.ppy.sh/beatmapsets/208769#fruits/1609883)
   - [Sakaue Nachi - Light travel distance RAYTO MIX (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/42575#fruits/133852)
   - [RADWIMPS - Jugemu (Amir) \[Ursa's Platter\]](https://osu.ppy.sh/beatmapsets/213732#fruits/502367)
 - Tiebreaker
@@ -255,33 +249,39 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 - Tiebreaker
   - **[ginkiha - EOS (kamome sano rmx) (Broccoly) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/404360#fruits/893683)**
 
-------------------------------------------------------------------------
+## Match results
 
-## Match Results
+### Finals week 2
 
-### Grand Finals
+Sunday, 26 June 2016:
 
-| Sunday, 2016-06-26 |  |  |  |  |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesia ![][flag_ID] | 1 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/25901098) |
 | **China** ![][flag_CN] | **7** | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/25902982) |
 
-### Finals
+### Finals week 1
 
-| Saturday, 2016-06-18 |  |  |  |  |
+Saturday, 18 June 2016:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Germany ![][flag_DE] | 3 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/25701298) |
 | **South Korea** ![][flag_KR] | **6** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/25703145) |
 | **China** ![][flag_CN] | **6** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/25705167) |
 
-| Sunday, 2016-06-19 |  |  |  |  |
+Sunday, 19 June 2016:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | South Korea ![][flag_KR] | 2 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/25729938) |
 | **China** ![][flag_CN] | **6** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/25731784) |
 
 ### Semifinals
 
-| Saturday, 2016-06-11 |  |  |  |  |
+Saturday, 11 June 2016:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/25527622) |
 | **Singapore** ![][flag_SG] | **6** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/25528861) |
@@ -290,14 +290,18 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | Argentina ![][flag_AR] | 5 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/25534617) |
 | **Germany** ![][flag_DE] | **6** | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/25537230) |
 
-| Sunday, 2016-06-12 |  |  |  |  |
+Sunday, 12 June 2016:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/25559066) |
 | France ![][flag_FR] | 1 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/25560625) |
 
 ### Quarterfinals
 
-| Saturday, 2016-06-05 |  |  |  |  |
+Saturday, 5 June 2016:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/25351351) |
 | Mexico ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/25352347) |
@@ -310,7 +314,9 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 ### Round of 16
 
-| Saturday, 2016-05-28 |  |  |  |  |
+Saturday, 28 May 2016:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | South Korea ![][flag_KR] | 4 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/25185568) |
 | Singapore ![][flag_SG] | 2 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/25186841) |
@@ -323,21 +329,23 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 ### Group Stage
 
-| Saturday, 2016-05-21 |  |  |  |  |
+Saturday, 21 May 2016:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| New Zealand ![][flag_NZ] | 0 | **4** | ![][flag_DE] **Germany** | - win by default -|
+| New Zealand ![][flag_NZ] | 0 | **4** | ![][flag_DE] **Germany** | *win by default* |
 | United Kingdom ![][flag_GB] | 0 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/25018104) |
 | Norway ![][flag_NO] | 0 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/25018102) |
-| Italy ![][flag_IT] | 0 | **4** | ![][flag_SG] **Singapore** | - win by default -|
-| Finland ![][flag_FI] | 0 | **4** | ![][flag_KR] **South Korea** | - win by default -|
-| **Denmark** ![][flag_DK] | **4** | 0 | ![][flag_PH] Philippines | - win by default -|
+| Italy ![][flag_IT] | 0 | **4** | ![][flag_SG] **Singapore** | *win by default* |
+| Finland ![][flag_FI] | 0 | **4** | ![][flag_KR] **South Korea** | *win by default* |
+| **Denmark** ![][flag_DK] | **4** | 0 | ![][flag_PH] Philippines | *win by default* |
 | Taiwan ![][flag_TW] | 3 | **4** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/25020154) |
-| Belgium ![][flag_BE] | 0 | **4** | ![][flag_PL] **Poland** | - win by default -|
-| Finland ![][flag_FI] | 0 | **4** | ![][flag_HK] **Hong Kong** | - win by default -|
+| Belgium ![][flag_BE] | 0 | **4** | ![][flag_PL] **Poland** | *win by default* |
+| Finland ![][flag_FI] | 0 | **4** | ![][flag_HK] **Hong Kong** | *win by default* |
 | Venezuela ![][flag_VE] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/25025285) |
 | Netherlands ![][flag_NL] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/25025297) |
 | Finland ![][flag_FI] | 1 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/25026662) |
-| Peru ![][flag_PE] | 0 | **4** | ![][flag_NO] **Norway** | - win by default -|
+| Peru ![][flag_PE] | 0 | **4** | ![][flag_NO] **Norway** | *win by default* |
 | Italy ![][flag_IT] | 1 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/25028108) |
 | Denmark ![][flag_DK] | 0 | **4** | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/25028109) |
 | Hungary ![][flag_HU] | 1 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/25030123) |
@@ -347,14 +355,16 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | Mexico ![][flag_MX] | 3 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/25031395) |
 | Hungary ![][flag_HU] | 2 | **4** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/25031396) |
 
-| Sunday, 2016-05-22 |  |  |  |  |
+Sunday, 22 May 2016:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 0 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/25039064) |
 | **Japan** ![][flag_JP] | **4** | 3 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/25039065) |
 | Australia ![][flag_AU] | 1 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/25039066) |
 | Brazil ![][flag_BR] | 1 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/25039067) |
 | Malaysia ![][flag_MY] | 2 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/25040198) |
-| Peru ![][flag_PE] | 0 | **4** | ![][flag_CN] **China** | - win by default -|
+| Peru ![][flag_PE] | 0 | **4** | ![][flag_CN] **China** | *win by default* |
 | Australia ![][flag_AU] | 1 | **4** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/25041116) |
 | Singapore ![][flag_SG] | 2 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/25041117) |
 | Malaysia ![][flag_MY] | 0 | **4** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/25041118) |
@@ -363,25 +373,23 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | **Hong Kong** ![][flag_HK] | **4** | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/25047279) |
 | Denmark ![][flag_DK] | 0 | **4** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/25047287) |
 | Sweden ![][flag_SE] | 1 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/25047290) |
-| Philippines ![][flag_PH] | 0 | **4** | ![][flag_FR] **France** | - win by default -|
-| Italy ![][flag_IT] | 0 | **4** | ![][flag_JP] **Japan** | - win by default -|
+| Philippines ![][flag_PH] | 0 | **4** | ![][flag_FR] **France** | *win by default* |
+| Italy ![][flag_IT] | 0 | **4** | ![][flag_JP] **Japan** | *win by default* |
 | New Zealand ![][flag_NZ] | 1 | **4** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/25048393) |
 | Russian Federation ![][flag_RU] | 1 | **4** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/25048394) |
 | Australia ![][flag_AU] | 2 | **4** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/25049601) |
-| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_PH] Philippines | - win by default -|
+| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_PH] Philippines | *win by default* |
 | Indonesia ![][flag_ID] | 1 | **4** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/25049603) |
 | Brazil ![][flag_BR] | 0 | **4** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/25052194) |
-| Belgium ![][flag_BE] | 0 | **4** | ![][flag_ID] **Indonesia** | - win by default -|
+| Belgium ![][flag_BE] | 0 | **4** | ![][flag_ID] **Indonesia** | *win by default* |
 | **Singapore** ![][flag_SG] | **4** | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/25052196) |
-| Venezuela ![][flag_VE] | 0 | **4** | ![][flag_PL] **Poland** | - win by default -|
+| Venezuela ![][flag_VE] | 0 | **4** | ![][flag_PL] **Poland** | *win by default* |
 | United Kingdom ![][flag_GB] | 0 | **4** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/25053697) |
 | Norway ![][flag_NO] | 0 | **4** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/25053698) |
 
-------------------------------------------------------------------------
-
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The osu!catch World Cup is a country-based team tournament.
 2. **Map scoring is based on a new metric, called Score V2, but unlike in osu! without the accuracy score portion.**
@@ -416,7 +424,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
     - Disqualification from the current and future official tournaments until appealed
 22. Any modification of these rules will be announced.
 
-### Tournament Registration
+### Tournament registration
 
 1. Every user interested in joining their country's team signs up individually **on the specifically created sign-up webpage**.
    - Tournament Management will create a list of potential candidates for a country's team.
@@ -426,42 +434,47 @@ The osu!catch World Cup 2016 was run by various community members by distributin
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, you have to ensure that your global osu!catch performace ranking is above \#5000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
-2. All successfully formed teams will be published after the Registration Phase.
-3. Only the 32 potentially strongest countries will pariticipate. The potential strength of a country is determined by the online statistics of all valid candidates.
+3. All successfully formed teams will be published after the Registration Phase.
+4. Only the 32 potentially strongest countries will pariticipate. The potential strength of a country is determined by the online statistics of all valid candidates.
    - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
-4. Mapset selectors may not participate as a player in this tournament.
+5. Mapset selectors may not participate as a player in this tournament.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change according to the final amount of formed teams.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    - Most maps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
-| Stage | Match ID |
-| :-- | :-- |
-| Round of 16 | A, B, C, D, E, F, G, H |
-| Quarter-finals | I, J, K, L & R, S, T, U |
-| Semi-finals | M, N & V, W, X, Y, Z,AA |
-| Finals | O & AB, AC, AD, AE |
-| Grand Finals | P, Q |
+   | Stage | Match ID |
+   | :-- | :-- |
+   | Round of 16 | A, B, C, D, E, F, G, H |
+   | Quarter-finals | I, J, K, L & R, S, T, U |
+   | Semi-finals | M, N & V, W, X, Y, Z,AA |
+   | Finals | O & AB, AC, AD, AE |
+   | Grand Finals | P, Q |
 
-**Winning conditions:**
-  - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-  - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
-  - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
-  - In Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
+7. **Winning conditions:**
+   - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+   - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+   - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+   - In Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!catch, Team-Vs., Win Condition: 'Score'. Room name must be "CWC 2016: TeamBlue vs TeamRed".
@@ -477,7 +490,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
    - In case of a tie, the Tiebreaker map must be played.
 7. Results of all stages will be published via a Statistics sheet.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals & Grand Finals use the same mappool.
@@ -492,7 +505,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 8. The size of the NoMod bracket will be 6 in all stages.
 9. The size of the mod-specific brackets will be 4 in all stages.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.
@@ -502,36 +515,36 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

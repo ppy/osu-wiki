@@ -114,7 +114,7 @@ On top of that, we've also got a brand new piece in *SELF DESTRUCT*, a collab tr
     <source src="https://assets.ppy.sh/artists/8/previews/888.mp3" type="audio/mpeg">
 </audio>
 
--------
+---
 
 We've got another big (and familiar!) artist release slated for the end of the month with well over a dozen tracks in the wings, so if your thirst for new music just can't be sated, make sure to check in then!
 

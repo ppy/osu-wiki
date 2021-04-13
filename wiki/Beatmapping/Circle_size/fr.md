@@ -9,7 +9,7 @@ tags:
 
 *Pour les règlementations concernant la taille des cercles, voir : [Critères de classement](/wiki/Ranking_Criteria)*
 
-La **Taille des Cercles** (**Circle Size** ou ***CS***) est un paramètre de difficulté des [beatmaps](/wiki/Beatmaps) qui affecte la taille des [hit object](/wiki/Hit_Objects). La valeur du CS varie entre 0 et 10, mais seules les valeurs de 2 à 7 peuvent être choisies dans [l'éditeur de beatmaps](/wiki/Beatmap_Editor). Les autres valeurs peuvent être utilisées via modification directe du [fichier `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) de la map.
+La **Taille des Cercles** (**Circle Size** ou ***CS***) est un paramètre de difficulté des [beatmaps](/wiki/Beatmap) qui affecte la taille des [hit object](/wiki/Hit_Objects). La valeur du CS varie entre 0 et 10, mais seules les valeurs de 2 à 7 peuvent être choisies dans [l'éditeur de beatmaps](/wiki/Beatmap_Editor). Les autres valeurs peuvent être utilisées via modification directe du [fichier `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) de la map.
 
 ## osu!standard
 

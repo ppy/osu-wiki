@@ -173,7 +173,7 @@ Ta sekcja poświęcona jest rozgrywce w osu!.
 
 | Nazwa | Opis | Typ | Domyślnie |
 | :-- | :-- | :-- | :-- |
-| `Przyciemnienie tła` | Dostosowuje poziom efektu przyciemniania nakładanego na tło i scenorys podczas gry. | Suwak | `30%` |
+| `Przyciemnienie tła` | Dostosowuje poziom efektu przyciemniania nakładanego na tło i scenorys podczas gry. | Suwak | `80%` |
 | `Nie zmieniaj przyciemniania tła podczas przerw` | Wyłącza zmniejszenie poziomu przyciemniania podczas przerw. | Przycisk | `Wyłączone` |
 | `Rodzaj wykresu postępu` | Ustawia miejsce i sposób wyświetlania wykresu postępu. Sprawdź poniżej, aby dowiedzieć się więcej. | Rozwijane menu | `Prawy górny róg (koło)` |
 | `Rodzaj paska błędu` | Konfiguruje pasek w dolnej części ekranu określający celność gracza. Ważne: niezależnie od wybranego rodzaju paska, dla trybu osu!catch będzie użyty `Wynik trafień`. | Rozwijane menu | `Nierówność trafień` |

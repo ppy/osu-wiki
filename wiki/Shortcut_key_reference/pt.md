@@ -65,7 +65,7 @@ outdated: true
 - **W**: [No Fail](/wiki/Game_modifier/No_Fail)
 - **E**: [Half-Time](/wiki/Game_modifier/Half_Time)
 
-------------------------------------------------------------------------
+---
 
 - **A**: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
 - **S**: [Sudden Death](/wiki/Game_modifier/Sudden_Death) (Para ativar o mod [Perfect](/wiki/Game_modifier/Perfect) é preciso clicar uma vez mais)
@@ -73,7 +73,7 @@ outdated: true
 - **F**: [Hidden](/wiki/Game_modifier/Hidden)
 - **G**: [Flashlight](/wiki/Game_modifier/Flashlight)
 
-------------------------------------------------------------------------
+---
 
 - **X**: [Relax](/wiki/Game_modifier/Relax) (Não faz efeito no mod 4/5/6/7/8K do osu!mania)
 - **C**: [Auto-Pilot](/wiki/Game_modifier/Autopilot)

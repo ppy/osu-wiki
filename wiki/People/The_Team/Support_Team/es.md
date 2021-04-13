@@ -1,23 +1,27 @@
 ---
-outdated: true
+no_native_review: true
 ---
 
 # Equipo de Soporte
 
-El **Equipo de Soporte** son miembros del staff de osu! que se encargan de la moderación de los foros en varios subforos: [Desarrollo](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (excluding [Torneos](https://osu.ppy.sh/community/forums/55) and [Técnicas de Mapeo](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Solicitud de características](https://osu.ppy.sh/community/forums/4), y [Soporte Técnico](https://osu.ppy.sh/community/forums/5)
+*Para un equipo que administra las cuentas, ver: [Equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team)*
+
+El **Equipo de Soporte**, también conocido como **Equipo de Soporte Redux**, son miembros del staff de osu! que se encargan de la moderación de los foros en varios subforos: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (excluding [Tournaments](https://osu.ppy.sh/community/forums/55) and [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), y [Help](https://osu.ppy.sh/community/forums/5)
 
 ## Responsabilidades
 
 El equipo de soporte se responsabiliza de:
 
 1. Probar y/o confirmar reportes de errores para dar a conocerlos a los desarrolladores para resolverlos.
-2. Organizar temas en [Solicitud de Características](https://osu.ppy.sh/community/forums/4) y [Soporte Técnico](https://osu.ppy.sh/community/forums/5) y marcarlos como Resuelto, Confirmado, Inválido, Duplicado y Añadido.
+2. Organizar temas en [Feature Requests](https://osu.ppy.sh/community/forums/4) y [Help](https://osu.ppy.sh/community/forums/5) y marcarlos como *Resuelto*, *Confirmado*, *Inválido*, *Duplicado* o *Añadido*.
 
 Si alguien necesita ayuda en estos subforos, ellos pueden ayudar.
 
 ## Miembros del Equipo
 
-*Todos los miembros hablan inglés a menos que se indique lo contrario. [Página del grupo del Equipo de Soporte](https://osu.ppy.sh/groups/22).*
+La [Página del grupo del Equipo de Soporte](https://osu.ppy.sh/groups/22) lista todos los miembros del equipo.
+
+*Nota: Todos los miembros del Equipo de Apoyo hablan inglés además del(los) idioma(s) listado(s) a continuación, a menos que se indique lo contrario.*
 
 | Nombres | Idiomas |
 | :-- | :-- |

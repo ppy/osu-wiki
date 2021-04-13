@@ -1,23 +1,25 @@
 # Destek Ekibi
 
-**Destek Ekibi** (aynı zamanda **Destek Ekibi Redux** olarak da bilinir, hesap destek ekibi ve aynı isimde olan "Destek Ekibi" ile karıştırılmamalıdır.) osu! ekibi içerisinde daha çok birkaç alt forumun moderasyonu ile ilgilenir: [Geliştirme](https://osu.ppy.sh/community/forums/2), [Oynanış & Sıralama](https://osu.ppy.sh/community/forums/13) ([Turnuvalar](https://osu.ppy.sh/community/forums/55) ve [Mapleme Teknikleri](https://osu.ppy.sh/community/forums/61) hariç), [Temalar](https://osu.ppy.sh/community/forums/15), [Özellik İstekleri](https://osu.ppy.sh/community/forums/4), ve [Yardım](https://osu.ppy.sh/community/forums/5).
+*Hesapları yöneten ekip için, bakınız: [Hesap destek ekibi](/wiki/People/The_Team/Account_support_team)*
 
-## Görev ve Sorumluluklar
+**Destek Ekibi**, aynı zamanda **Destek Ekibi Redux** olarak da bilinir, osu! ekibinin birtakım alt forumların moderasyonundan sorumlu üyeleridir. Bu forumlar şu şekilde sıralanır: [Geliştirme](https://osu.ppy.sh/community/forums/2), [Oynanış & Sıralama](https://osu.ppy.sh/community/forums/13) ([Turnuvalar](https://osu.ppy.sh/community/forums/55) ve [Mapleme Teknikleri](https://osu.ppy.sh/community/forums/61) hariç), [Temalar](https://osu.ppy.sh/community/forums/15), [Özellik İstekleri](https://osu.ppy.sh/community/forums/4), ve [Yardım](https://osu.ppy.sh/community/forums/5).
+
+## Rol ve sorumluluklar
 
 Destek ekibi şunlar ile sorumludur:
 
 1. Bug bildirimlerini geliştiricilerin görmesi ve çözmesi için test etmek/doğrulamak.
-2. [Özellik İstekleri](https://osu.ppy.sh/community/forums/4) ve [Yardım](https://osu.ppy.sh/community/forums/5) altforumlarındaki başlıkları, onları *Çözüldü*, *Doğrulandı*, *Geçersiz*, *Kopya*, ve/veya *Eklendi* diye işaretleyek düzenler.
+2. [Özellik İstekleri](https://osu.ppy.sh/community/forums/4) ve [Yardım](https://osu.ppy.sh/community/forums/5) altforumlarındaki başlıkları *Çözüldü*, *Doğrulandı*, *Geçersiz*, *Kopya*, ve/veya *Eklendi* diye işaretleyerek düzenler.
 
-Eğer birinin bahsi geçen altforumlarda yardıma ihtiyacı olursa, ilk olarak onlara başvurmalı.
+Eğer bir kimse bahsi geçen alt forumlarda yardıma ihtiyaç duyarsa, ilk olarak onlara başvurmalıdır.
 
-## Takım Üyeleri
+## Takım üyeleri
 
-[Destek ekibi sayfası](https://osu.ppy.sh/groups/22), tüm ekip üyelerini listeler.
+[Destek Ekibi grup sayfası](https://osu.ppy.sh/groups/22) tüm ekip üyelerini listeler.
 
-*Not: Aksi belirtilmedikçe bütün Destek Ekibi üyeleri İngilizce konuşur.*
+*Not: Tüm Destek Ekibi üyeleri, aksi not edilmediği sürece, belirtilen dillerin yanısıra İngilizce de konuşabilirler.*
 
-| İsim | Ek Diller |
+| İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |

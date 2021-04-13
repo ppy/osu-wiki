@@ -52,7 +52,7 @@ Check out a little sample of what's available below:
     <source src="https://assets.ppy.sh/artists/44/previews/1063.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 All these tracks and a bunch more are available right now for your mapping delight over at [**Disko Warp**'s Featured Artist page](https://osu.ppy.sh/beatmaps/artists/44). You know the drill - 100% free for use in mapping, no sweat.
 

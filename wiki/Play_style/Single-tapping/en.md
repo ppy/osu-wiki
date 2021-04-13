@@ -12,7 +12,7 @@ tags:
 
 **Single-tapping** is a tapping style for [osu!standard](/wiki/Game_mode/osu!) in which players click circles, slide sliders, and spin spinners using only one key on their keyboard (`Z` or `X` by default). This style is common amongst players of all skill levels and is the easiest to adapt to.
 
-Despite the name, most single-tap players do not always tap with one key. Most prefer to single-tap most everything except for fast [streams](/wiki/Beatmaps/Pattern/Stream), [stacks](/wiki/Mapping_Techniques/Stack), and burst streams. In which case they will often opt to [alternate](/wiki/Play_style/Alternating) and/or [double tap](/wiki/Play_style/Double_tapping).
+Despite the name, most single-tap players do not always tap with one key. Most prefer to single-tap most everything except for fast [streams](/wiki/Beatmap/Pattern/Stream), [stacks](/wiki/Mapping_Techniques/Stack), and burst streams. In which case they will often opt to [alternate](/wiki/Play_style/Alternating) and/or [double tap](/wiki/Play_style/Double_tapping).
 
 ## Arguments
 

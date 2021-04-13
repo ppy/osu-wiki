@@ -16,7 +16,9 @@ tags:
 
 # Gim dari iNiS
 
-[Jenis permainan](/wiki/Game_mode) [osu!standard](/wiki/Game_mode/osu!) dan bahkan osu! sendiri berdasar pada gim ritme yang dikembangkan oleh **[iNiS](https://en.wikipedia.org/wiki/INiS "iNiS di Wikipedia")** untuk [Nintendo DS](https://id.wikipedia.org/wiki/Nintendo_DS "Nintendo DS di Wikipedia") pada awal tahun 2000-an. ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) mengembangkan osu! untuk menjadi simulator dan editor level untuk gim - gim yang dikembangkan oleh iNiS, dan perlu diketahui anggota komunitas osu! paling awal saat itu pada umumnya juga merupakan penggemar gim tersebut. [Beatmap](/wiki/Beatmaps) yang dibuat pada masa itu sangat dipengaruhi oleh desain level yang dibuat oleh iNiS.
+*Lihat juga: [osu! (disambiguasi)](/wiki/Disambiguation/osu!)*
+
+[Jenis permainan](/wiki/Game_mode) [osu!standard](/wiki/Game_mode/osu!) dan bahkan osu! sendiri berdasar pada gim ritme yang dikembangkan oleh **[iNiS](https://en.wikipedia.org/wiki/INiS "iNiS di Wikipedia")** untuk [Nintendo DS](https://id.wikipedia.org/wiki/Nintendo_DS "Nintendo DS di Wikipedia") pada awal tahun 2000-an. ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) mengembangkan osu! untuk menjadi simulator dan editor level untuk gim - gim yang dikembangkan oleh iNiS, dan perlu diketahui anggota komunitas osu! paling awal saat itu pada umumnya juga merupakan penggemar gim tersebut. [Beatmap](/wiki/Beatmap) yang dibuat pada masa itu sangat dipengaruhi oleh desain level yang dibuat oleh iNiS.
 
 Gim yang dimaksud adalah:
 

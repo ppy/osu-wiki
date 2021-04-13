@@ -1,47 +1,48 @@
 ---
 tags:
-- TWC2019
+  - TWC 2019
+  - TWC2019
 ---
 
 # osu!taiko World Cup 2019
 
-![TWC 2019 Logo](img/logo.jpg)
+![TWC 2019 logo](img/logo.jpg)
 
-The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth installment of the osu!taiko World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-03-15/2019-03-29 |
-| Live Drawings | 2019-04-13 (14:00 UTC) |
+| Registration phase | 2019-03-15/2019-03-29 |
+| Live drawings | 2019-04-13 (14:00 UTC) |
 | Group Stage | 2019-04-20/2019-04-21 |
 | Round of 16 | 2019-04-27/2019-04-28 |
 | Quarterfinals | 2019-05-04/2019-05-05 |
 | Semifinals | 2019-05-11/2019-05-12 |
-| Finals | 2019-05-18/2019-05-19 |
-| Grand Finals | 2019-05-25/2019-05-26 |
+| Finals week 1 | 2019-05-18/2019-05-19 |
+| Finals week 2 | 2019-05-26 |
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, "osu!taiko Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, "osu!taiko Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
-![TWC 2019 Winner Badge](img/badge.png) ![TWC 2019 2nd Place Badge](img/badge2.png) ![TWC 2019 3rd Place Badge](img/badge3.png)
+![](img/badge.jpg "TWC 2019 winner badge") ![](img/badge2.jpg "TWC 2019 2nd place badge") ![](img/badge3.jpg "TWC 2019 3rd place badge")
 
 ## Organisation
 
-The osu!taiko World Cup 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!taiko World Cup 2019 was run by various community members.
 
-| Position | Member(s) |
+| Position | Members |
 | :-- | :-- |
-| Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| Map Selector | ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
-| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Mew104](https://osu.ppy.sh/users/2345156), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) |
+| Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
+| Mappool selector | ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
 | Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Mew104](https://osu.ppy.sh/users/2345156), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) |
 | Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
@@ -50,58 +51,50 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://bit.ly/2Z92mAw)**
 
----
-
 ## Participants
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **[gaston\_2199](https://osu.ppy.sh/users/5938161)**, [Jintsuu](https://osu.ppy.sh/users/7165127), [Axer](https://osu.ppy.sh/users/7299864), [BossPlays](https://osu.ppy.sh/users/7341471), [TrolloCat](https://osu.ppy.sh/users/9228032) |
-| ![][flag_AU] | **Australia** | **[Fuel](https://osu.ppy.sh/users/5155081)**, [remii](https://osu.ppy.sh/users/2913584), [Jaye](https://osu.ppy.sh/users/4841352), [Ceryuia](https://osu.ppy.sh/users/5253213), [rango](https://osu.ppy.sh/users/7728466) |
+| ![][flag_AR] | **Argentina** | **[gaston\_2199](https://osu.ppy.sh/users/5938161)**, [Axer](https://osu.ppy.sh/users/7299864), [BossPlays](https://osu.ppy.sh/users/7341471), [Jintsuu](https://osu.ppy.sh/users/7165127), [TrolloCat](https://osu.ppy.sh/users/9228032) |
+| ![][flag_AU] | **Australia** | **[Fuel](https://osu.ppy.sh/users/5155081)**, [Ceryuia](https://osu.ppy.sh/users/5253213), [Jaye](https://osu.ppy.sh/users/4841352), [rango](https://osu.ppy.sh/users/7728466), [remii](https://osu.ppy.sh/users/2913584) |
 | ![][flag_BR] | **Brazil** | **[HiroK](https://osu.ppy.sh/users/4050738)**, [Brasil](https://osu.ppy.sh/users/3949268), [Foxerus](https://osu.ppy.sh/users/7479684), [Ppus](https://osu.ppy.sh/users/5918857), [Skull Kid](https://osu.ppy.sh/users/3044264) |
 | ![][flag_CA] | **Canada** | **[Raichael](https://osu.ppy.sh/users/459886)**, [beary605](https://osu.ppy.sh/users/2198070), [janitoreihil](https://osu.ppy.sh/users/3307897), [Fudgyking](https://osu.ppy.sh/users/3802922), [vladyushko](https://osu.ppy.sh/users/4908773) |
 | ![][flag_CL] | **Chile** | **[Ulqui](https://osu.ppy.sh/users/1263669)**, [Alepat](https://osu.ppy.sh/users/1164931), [Vulkin](https://osu.ppy.sh/users/4901066) |
-| ![][flag_CN] | **China** | **[Wilben\_Chan](https://osu.ppy.sh/users/6659363)**, [da2b](https://osu.ppy.sh/users/2781054), [7jasmine](https://osu.ppy.sh/users/4112195), [superSSS](https://osu.ppy.sh/users/4315477),  [trxhbii](https://osu.ppy.sh/users/10943068) |
-| ![][flag_FI] | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)**, [Reikocchi](https://osu.ppy.sh/users/1110109),  [Kurakao](https://osu.ppy.sh/users/3064715), [aarokoo](https://osu.ppy.sh/users/4330939), [gevbiivi5](https://osu.ppy.sh/users/7140680) |
-| ![][flag_FR] | **France** | **[TimmyAkmed](https://osu.ppy.sh/users/1799973)**, [omegaflo](https://osu.ppy.sh/users/83291), [Nofool](https://osu.ppy.sh/users/672430), [Yona la loutre](https://osu.ppy.sh/users/7930622), [BananaW](https://osu.ppy.sh/users/9298106) |
-| ![][flag_DE] | **Germany** | **[Ak1o](https://osu.ppy.sh/users/1600041)**, [Zetera](https://osu.ppy.sh/users/587737), [Xay](https://osu.ppy.sh/users/961417), [frz](https://osu.ppy.sh/users/6956922), [jleste](https://osu.ppy.sh/users/8275687) |
+| ![][flag_CN] | **China** | **[Wilben\_Chan](https://osu.ppy.sh/users/6659363)**, [7jasmine](https://osu.ppy.sh/users/4112195), [da2b](https://osu.ppy.sh/users/2781054), [superSSS](https://osu.ppy.sh/users/4315477), [trxhbii](https://osu.ppy.sh/users/10943068) |
+| ![][flag_FI] | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)**, [aarokoo](https://osu.ppy.sh/users/4330939), [gevbiivi5](https://osu.ppy.sh/users/7140680), [Kurakao](https://osu.ppy.sh/users/3064715), [Reikocchi](https://osu.ppy.sh/users/1110109) |
+| ![][flag_FR] | **France** | **[TimmyAkmed](https://osu.ppy.sh/users/1799973)**, [BananaW](https://osu.ppy.sh/users/9298106), [Nofool](https://osu.ppy.sh/users/672430), [omegaflo](https://osu.ppy.sh/users/83291), [Yona la loutre](https://osu.ppy.sh/users/7930622) |
+| ![][flag_DE] | **Germany** | **[Ak1o](https://osu.ppy.sh/users/1600041)**, [frz](https://osu.ppy.sh/users/6956922), [jleste](https://osu.ppy.sh/users/8275687), [Xay](https://osu.ppy.sh/users/961417), [Zetera](https://osu.ppy.sh/users/587737) |
 | ![][flag_GR] | **Greece** | **[Genjuro](https://osu.ppy.sh/users/3196091)**, [KostPer](https://osu.ppy.sh/users/10584732) |
-| ![][flag_HK] | **Hong Kong** | **[sing216](https://osu.ppy.sh/users/6096445)**, [iamdicky000](https://osu.ppy.sh/users/4409670), [Consified](https://osu.ppy.sh/users/6502903), [Taka030](https://osu.ppy.sh/users/7563054), [MTDex](https://osu.ppy.sh/users/9468283) |
-| ![][flag_ID] | **Indonesia** | **[Lightning Wyvern](https://osu.ppy.sh/users/1533122)**, [pmriva](https://osu.ppy.sh/users/2180885), [ayomikasa](https://osu.ppy.sh/users/4866957), [apaajaboleh10](https://osu.ppy.sh/users/5151647), [Mikurio](https://osu.ppy.sh/users/10734140) |
-| ![][flag_IT] | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)**, [Kith190](https://osu.ppy.sh/users/7365988), [VenomPlus](https://osu.ppy.sh/users/7722827), [send help](https://osu.ppy.sh/users/7807444) |
-| ![][flag_JP] | **Japan** | **[iceOC](https://osu.ppy.sh/users/5482401)**,  [isobe](https://osu.ppy.sh/users/8047347), [v2fax](https://osu.ppy.sh/users/7739269), [ekumea1123](https://osu.ppy.sh/users/9119501), [uone](https://osu.ppy.sh/users/5321719) |
-| ![][flag_MY] | **Malaysia** | **[\[Zeth\]](https://osu.ppy.sh/users/9912966)**, [delibrium](https://osu.ppy.sh/users/9445913), [CrabCow](https://osu.ppy.sh/users/9755504), [OPMiss](https://osu.ppy.sh/users/10812080), [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
-| ![][flag_MX] | **Mexico** | **[Ammy](https://osu.ppy.sh/users/4183406)**, [Warfu](https://osu.ppy.sh/users/2451000), [\[ItsTakane\]](https://osu.ppy.sh/users/4420046) |
-| ![][flag_NL] | **Netherlands** | **[Hypello](https://osu.ppy.sh/users/1594036)**, [jesse-98](https://osu.ppy.sh/users/502722), [StrijkIjzer](https://osu.ppy.sh/users/4130926), [Fiicht](https://osu.ppy.sh/users/7448559), [Krekker](https://osu.ppy.sh/users/8265940) |
-| ![][flag_NZ] | **New Zealand** | **[Sparxe](https://osu.ppy.sh/users/5750235)**, [Ayachi Meme](https://osu.ppy.sh/users/4636461), [Onyx](https://osu.ppy.sh/users/7771668), [Bwhaa](https://osu.ppy.sh/users/7960435) |
+| ![][flag_HK] | **Hong Kong** | **[sing216](https://osu.ppy.sh/users/6096445)**, [Consified](https://osu.ppy.sh/users/6502903), [iamdicky000](https://osu.ppy.sh/users/4409670), [MTDex](https://osu.ppy.sh/users/9468283), [Taka030](https://osu.ppy.sh/users/7563054) |
+| ![][flag_ID] | **Indonesia** | **[Lightning Wyvern](https://osu.ppy.sh/users/1533122)**, [apaajaboleh10](https://osu.ppy.sh/users/5151647), [ayomikasa](https://osu.ppy.sh/users/4866957), [Mikurio](https://osu.ppy.sh/users/10734140), [pmriva](https://osu.ppy.sh/users/2180885) |
+| ![][flag_IT] | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)**, [Kith190](https://osu.ppy.sh/users/7365988), [send help](https://osu.ppy.sh/users/7807444), [VenomPlus](https://osu.ppy.sh/users/7722827) |
+| ![][flag_JP] | **Japan** | **[iceOC](https://osu.ppy.sh/users/5482401)**, [ekumea1123](https://osu.ppy.sh/users/9119501), [isobe](https://osu.ppy.sh/users/8047347), [uone](https://osu.ppy.sh/users/5321719), [v2fax](https://osu.ppy.sh/users/7739269) |
+| ![][flag_MY] | **Malaysia** | **[\[Zeth\]](https://osu.ppy.sh/users/9912966)**, [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), [CrabCow](https://osu.ppy.sh/users/9755504), [delibrium](https://osu.ppy.sh/users/9445913), [OPMiss](https://osu.ppy.sh/users/10812080) |
+| ![][flag_MX] | **Mexico** | **[Ammy](https://osu.ppy.sh/users/4183406)**, [\[ItsTakane\]](https://osu.ppy.sh/users/4420046), [Warfu](https://osu.ppy.sh/users/2451000) |
+| ![][flag_NL] | **Netherlands** | **[Hypello](https://osu.ppy.sh/users/1594036)**, [Fiicht](https://osu.ppy.sh/users/7448559), [jesse-98](https://osu.ppy.sh/users/502722), [Krekker](https://osu.ppy.sh/users/8265940), [StrijkIjzer](https://osu.ppy.sh/users/4130926) |
+| ![][flag_NZ] | **New Zealand** | **[Sparxe](https://osu.ppy.sh/users/5750235)**, [Ayachi Meme](https://osu.ppy.sh/users/4636461), [Bwhaa](https://osu.ppy.sh/users/7960435), [Onyx](https://osu.ppy.sh/users/7771668) |
 | ![][flag_NO] | **Norway** | **[STREAMBABE](https://osu.ppy.sh/users/2908051)**, [Kiwi-P](https://osu.ppy.sh/users/1794766), [Staroll](https://osu.ppy.sh/users/7234023) |
-| ![][flag_PH] | **Philippines** | **[Pochacco](https://osu.ppy.sh/users/2927742)**, [Kyoren](https://osu.ppy.sh/users/1266303), [Rimazii](https://osu.ppy.sh/users/3831514), [Niro-](https://osu.ppy.sh/users/6443899), [Toastytoast123](https://osu.ppy.sh/users/7269594) |
-| ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347),  [CreepyDuck](https://osu.ppy.sh/users/2435013), [Mjonsz](https://osu.ppy.sh/users/5696361), [\_SC0RP10N](https://osu.ppy.sh/users/9511518) |
-| ![][flag_PT] | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)**, [Shinzui](https://osu.ppy.sh/users/2505011), [BlackPet](https://osu.ppy.sh/users/3795067), [MeovvCAT](https://osu.ppy.sh/users/5905091), [hi im costarino](https://osu.ppy.sh/users/9209430) |
-| ![][flag_RU] | **Russian Federation** | **[Dayzeek](https://osu.ppy.sh/users/5009970)**,  [aoe](https://osu.ppy.sh/users/6094216), [Chaosfan](https://osu.ppy.sh/users/7041990), [Naninub](https://osu.ppy.sh/users/8188876), [artemean](https://osu.ppy.sh/users/8650631) |
-| ![][flag_SG] | **Singapore** | **[Lalamomo4](https://osu.ppy.sh/users/7609510)**, [Element118](https://osu.ppy.sh/users/2283992), [Main Heroine](https://osu.ppy.sh/users/5231504), [uchuuj1n](https://osu.ppy.sh/users/9140302), [Bobfree](https://osu.ppy.sh/users/10096125) |
-| ![][flag_KR] | **South Korea** | **[Peaceful](https://osu.ppy.sh/users/165027)**, [0290jbb](https://osu.ppy.sh/users/87546), [Konpaku Sariel](https://osu.ppy.sh/users/533502), [BamgoeSN](https://osu.ppy.sh/users/1152851), [R-18](https://osu.ppy.sh/users/4637369) |
-| ![][flag_ES] | **Spain** | **[AlvaroYL](https://osu.ppy.sh/users/6333166)**, [LZD](https://osu.ppy.sh/users/224335), [Hanjamon](https://osu.ppy.sh/users/1703330), [Raiden](https://osu.ppy.sh/users/2239480), [TheMadnessLady](https://osu.ppy.sh/users/3928960) |
+| ![][flag_PH] | **Philippines** | **[Pochacco](https://osu.ppy.sh/users/2927742)**, [Kyoren](https://osu.ppy.sh/users/1266303), [Niro-](https://osu.ppy.sh/users/6443899), [Rimazii](https://osu.ppy.sh/users/3831514), [Toastytoast123](https://osu.ppy.sh/users/7269594) |
+| ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [\_SC0RP10N](https://osu.ppy.sh/users/9511518), [CreepyDuck](https://osu.ppy.sh/users/2435013), [DarkStoorM](https://osu.ppy.sh/users/174347), [Mjonsz](https://osu.ppy.sh/users/5696361) |
+| ![][flag_PT] | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)**, [BlackPet](https://osu.ppy.sh/users/3795067), [hi im costarino](https://osu.ppy.sh/users/9209430), [MeovvCAT](https://osu.ppy.sh/users/5905091), [Shinzui](https://osu.ppy.sh/users/2505011) |
+| ![][flag_RU] | **Russian Federation** | **[Dayzeek](https://osu.ppy.sh/users/5009970)**, [aoe](https://osu.ppy.sh/users/6094216), [artemean](https://osu.ppy.sh/users/8650631), [Chaosfan](https://osu.ppy.sh/users/7041990), [Naninub](https://osu.ppy.sh/users/8188876) |
+| ![][flag_SG] | **Singapore** | **[Lalamomo4](https://osu.ppy.sh/users/7609510)**, [Bobfree](https://osu.ppy.sh/users/10096125), [Element118](https://osu.ppy.sh/users/2283992), [Main Heroine](https://osu.ppy.sh/users/5231504), [uchuuj1n](https://osu.ppy.sh/users/9140302) |
+| ![][flag_KR] | **South Korea** | **[Peaceful](https://osu.ppy.sh/users/165027)**, [0290jbb](https://osu.ppy.sh/users/87546), [BamgoeSN](https://osu.ppy.sh/users/1152851), [Konpaku Sariel](https://osu.ppy.sh/users/533502), [R-18](https://osu.ppy.sh/users/4637369) |
+| ![][flag_ES] | **Spain** | **[AlvaroYL](https://osu.ppy.sh/users/6333166)**, [Hanjamon](https://osu.ppy.sh/users/1703330), [LZD](https://osu.ppy.sh/users/224335), [Raiden](https://osu.ppy.sh/users/2239480), [TheMadnessLady](https://osu.ppy.sh/users/3928960) |
 | ![][flag_SE] | **Sweden** | **[Raphalge](https://osu.ppy.sh/users/3918650)**, [MyAngelMiori](https://osu.ppy.sh/users/2290294), [Sebbe](https://osu.ppy.sh/users/3181965) |
 | ![][flag_CH] | **Switzerland** | **[Oui](https://osu.ppy.sh/users/5538419)**, [MC2BP](https://osu.ppy.sh/users/11296097) |
-| ![][flag_TW] | **Taiwan** | **[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)**, [PING](https://osu.ppy.sh/users/818907), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [Y u w a n](https://osu.ppy.sh/users/8192004), [KyouRekii87](https://osu.ppy.sh/users/10457907) |
-| ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [Horiiizon](https://osu.ppy.sh/users/8071438), [ZTH](https://osu.ppy.sh/users/5258461), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [ControlPro](https://osu.ppy.sh/users/10633982) |
-| ![][flag_US] | **United States** | **[Ney](https://osu.ppy.sh/users/5991961)**, [\_cc](https://osu.ppy.sh/users/1656336), [cheese salad](https://osu.ppy.sh/users/6349821), [yea](https://osu.ppy.sh/users/6874332), [Loopy542](https://osu.ppy.sh/users/5468461) |
+| ![][flag_TW] | **Taiwan** | **[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)**, [KyouRekii87](https://osu.ppy.sh/users/10457907), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [PING](https://osu.ppy.sh/users/818907), [Y u w a n](https://osu.ppy.sh/users/8192004) |
+| ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [\_DUSK\_](https://osu.ppy.sh/users/6092181), [ControlPro](https://osu.ppy.sh/users/10633982), [Horiiizon](https://osu.ppy.sh/users/8071438), [ZTH](https://osu.ppy.sh/users/5258461) |
+| ![][flag_US] | **United States** | **[Ney](https://osu.ppy.sh/users/5991961)**, [\_cc](https://osu.ppy.sh/users/1656336), [cheese salad](https://osu.ppy.sh/users/6349821), [Loopy542](https://osu.ppy.sh/users/5468461), [yea](https://osu.ppy.sh/users/6874332) |
 | ![][flag_VE] | **Venezuela** | **[Te amo Kazu](https://osu.ppy.sh/users/1368025)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [My Angel Kazu](https://osu.ppy.sh/users/5136821), [Nutellitah](https://osu.ppy.sh/users/10613075) |
 
----
+![TWC 2019 podium](img/podium.jpg)
 
-![TWC 2019 Podium](img/podium.png)
-
----
-
-![TWC 2019 Bracket](img/bracket.png)
-
----
+![TWC 2019 bracket](img/bracket.jpg)
 
 ## Mappools
 
-### Grand Finals
+### Finals week 2
 
 - NoMod
   - [kaitendaentai - Hizai ni Negu (maziari1105) \[Metaphysical\]](https://osu.ppy.sh/beatmapsets/653870#taiko/1386003)
@@ -126,7 +119,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 - Tiebreaker
   - **[Yuuyu - Howdy! and... Good-Die! (tasuke912) \[Grande Finale\]](https://osu.ppy.sh/beatmapsets/974134#taiko/2039122)**
 
-### Finals
+### Finals week 1
 
 - NoMod
   - [Kobaryo vs. Camellia - Villain Virus (shinchikuhome) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/826093#taiko/1731436)
@@ -247,37 +240,47 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 - Tiebreaker
   - **[Laur - Sound Chimera (yea) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/779916#taiko/1637636)**
 
-## Match Results
+## Match results
 
-### Grand Finals
+### Finals week 2
 
-| Sunday, 2019-05-26 |  |  |  |  |
+Sunday, 26 May 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **7** | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/52105527) |
 | **Japan** ![][flag_JP] | **7** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/52107329) |
 
-### Finals
+### Finals week 1
 
-| Saturday, 2019-05-18 |  |  |  |  |
+Saturday, 18 May 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ![][flag_HK] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51892392) |
 | **Canada** ![][flag_CA] | **7** | 3 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/51909730) |
 
-| Sunday, 2019-05-19 |  |  |  |  |
+Sunday, 19 May 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 4 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51917485) |
 | **Japan** ![][flag_JP] | **7** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/51924396) |
 
 ### Semifinals
 
-| Saturday, 2019-05-11 |  |  |  |  |
+Saturday, 11 May 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Poland ![][flag_PL] | 6 | **7** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/51701077) |
 | **Hong Kong** ![][flag_HK] | **7** | 4 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/51703619) |
 | **Canada** ![][flag_CA] | **7** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/51709679) |
 | **Brazil** ![][flag_BR] | **7** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/51715624) |
 
-| Sunday, 2019-05-12 |  |  |  |  |
+Sunday, 12 May 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Canada** ![][flag_CA] | **7** | 6 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/51725919) |
 | United States ![][flag_US] | 5 | **7** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51728069) |
@@ -286,7 +289,9 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 
 ### Quarterfinals
 
-| Saturday, 2019-05-04 |  |  |  |  |
+Saturday, 4 May 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Australia** ![][flag_AU] | **6** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/51512356) |
 | **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/51517084) |
@@ -295,14 +300,18 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 | **Germany** ![][flag_DE] | **6** | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/51531420) |
 | **United States** ![][flag_US] | **6** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/51534760) |
 
-| Sunday, 2019-05-05 |  |  |  |  |
+Sunday, 5 May 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 2 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51542733) |
 | Poland ![][flag_PL] | 1 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51552462) |
 
 ### Round of 16
 
-| Saturday, 2019-04-27 |  |  |  |  |
+Saturday, 27 April 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/51329705) |
 | **Poland** ![][flag_PL] | **6** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/51332255) |
@@ -310,7 +319,9 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 | Germany ![][flag_DE] | 2 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/51339196) |
 | Chile ![][flag_CL] | 2 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51342269) |
 
-| Sunday, 2019-04-28 |  |  |  |  |
+Sunday, 28 April 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/51359304) |
 | Singapore ![][flag_SG] | 1 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51361043) |
@@ -318,7 +329,9 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 
 ### Group Stage
 
-| Saturday, 2019-04-20 |  |  |  |  |
+Saturday, 20 April 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 3 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/51149005) |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51149009) |
@@ -343,7 +356,9 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 | United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51162759) |
 | Netherlands ![][flag_NL] | 2 | **5** | ![][flag_VE] **Venezuela** | [#1](https://osu.ppy.sh/community/matches/51166257) |
 
-| Sunday, 2019-04-21 |  |  |  |  |
+Sunday, 21 April 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/51171557) |
 | Argentina ![][flag_AR] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51171569) |
@@ -372,11 +387,9 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/51187961) |
 | Germany ![][flag_DE] | 3 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/51187986) |
 
----
-
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
    - **While this competition is planned as a 2 versus 2 setup, this might change depending on the amount of incoming registrations.**
@@ -414,7 +427,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
     - Disqualification from the current and future official tournaments until appealed
     - Any modification of these rules will be announced.
 
-### Tournament Registration
+### Tournament registration
 
 1. Every user interested in joining their country's team signs up individually.
    - Tournament Management will create a list of potential candidates for a country's team.
@@ -429,10 +442,12 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
    - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
 5. Mapset selectors may not participate as a player in this tournament.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -441,31 +456,34 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
-| Stage | Match ID |
-| --: | :-- |
-| Round of 16 | A, B, C, D, E, F, G, H |
-| Quarterfinals | I, J, K, L & R, S, T, U |
-| Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals | O & AB, AC, AD |
-| Grand Finals | AE, P, Q |
+   | Stage | Match ID |
+   | --: | :-- |
+   | Round of 16 | A, B, C, D, E, F, G, H |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z, AA |
+   | Finals | O & AB, AC, AD |
+   | Grand Finals | AE, P, Q |
 
 7. The **Winning conditions** for each stage will be:
-  - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
-  - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
-  - In Semifinals, Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
+   - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
+   - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
+   - In Semifinals, Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2019: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
-3. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.  
+3. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in #multiplayer.
    - The winner of the !roll starts picking the first beatmap of the match.
@@ -474,7 +492,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
    - In case of a tie, the tiebreaker map must be played.
 7. Results of the Group Stage will be published via a Statistics sheet.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
@@ -490,7 +508,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 2 in all stages.
 11. The size of the FreeMod brackets will be 3 in all stages.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.
@@ -502,35 +520,35 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
 7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealands"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

@@ -1,7 +1,9 @@
 ---
 outdated: true
 ---
+
 <!-- TODO: plenty to add, and some of these are now completely dead or unusable -->
+
 <!-- TODO: it might be a good idea to link these somewhere in the osu!dev discord server so people can find other projects to work on -->
 
 # Projects
@@ -44,7 +46,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/itdelatrisu/opsu) | [Website](http://itdelatrisu.github.io/opsu/)
 - [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175)—Python clone of osu!
 - [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640)—A free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") game that plays osu! beatmaps on your iPhone or Android device.
-- osu!droid—An unofficial osu! client written for Android.
+- osu!droid—An unofficial osu! client written for Android, open source.
+  - [GitHub](https://github.com/osudroid/osu-droid)
   - [Website](http://ops.dgsrz.com/)
 
 ### Gameplay
@@ -132,11 +135,15 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 - [AIBat](https://osu.ppy.sh/community/forums/topics/55305)—An attempt to make modding easier for modders.
   - [GitHub](https://github.com/akrolsmir/AIBat)
+- [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895)—Automate [Ranking Criteria](/wiki/Ranking_Criteria) issue detection.
+  - [GitHub](https://github.com/Naxesss/MapsetVerifier)
 - [Mod Helper](https://osu.ppy.sh/community/forums/topics/527602)—A simple tool to help deal with BBCode when modding.
 - [Osu Distance Checker](https://osu.ppy.sh/community/forums/topics/55305)—Lists out the various hit object distances to allow one to scan through potential spacing mistakes.
 
 ### Skinning
 
+- [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643)—Removes fringes from skin elements.
+  - [GitHub](https://github.com/RoanH/FringeRemover)
 - [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684)—Downscale HD skinning elements to SD.
   - [GitHub](https://github.com/RoanH/ImageScaler)
 - [Mania Column Centering](https://osu.ppy.sh/community/forums/topics/581972)—Calculates the osu!mania stage positioning to make it centre.
@@ -212,6 +219,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Miscellaneous
 
+- [Aiess](https://github.com/Naxesss/Aiess)—Provides subscriptions for mapping-related events in osu! (e.g. ranks, qualifications, nominations, suggestions, newsposts, group changes, etc).
 - [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510)—Calculates the AR times and OD hit window accuracy.
 - [Beatmap URL Formatter](https://osu.ppy.sh/community/forums/topics/55305)—A program to format beatmap URLs to BBCode for posting.
 - [BloodyFox \[Android\]](https://osu.ppy.sh/community/forums/topics/475693)—Search and view user stats and search and download beatmaps.

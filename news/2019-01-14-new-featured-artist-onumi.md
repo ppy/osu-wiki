@@ -42,7 +42,7 @@ Check out a quick sample of a few below, or [head on over to her listing now to 
     <source src="https://assets.ppy.sh/artists/32/previews/809.mp3" type="audio/mpeg">
 </audio>
 
-------------
+---
 
 All the tracks listed above, plus the others on [**onumi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/32) are 100% free for use in osu! mapping and modding, and come pre-timed and ready to go.
 

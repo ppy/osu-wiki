@@ -127,7 +127,7 @@ These are the more minor technical changes that we introduced to fix previous is
 - Slightly less performance points are now awarded due to the aim rating on approach rate 10.33+ beatmaps. ([#76](https://github.com/ppy/osu-performance/pull/76))
 - Slightly more performance points are now awarded due to the speed rating on approach rate 10.33+ beatmaps. ([#76](https://github.com/ppy/osu-performance/pull/76))
 
-----------
+---
 
 We hope that these changes shake up the leaderboard in a way that is both fun and exciting for all players. Stay tuned for more updates in the future and happy clicking!
 

@@ -385,7 +385,7 @@ Pour les questions concernant les pp, veuillez d'abord consulter [la page du wik
 
 #### Où trouver et télécharger les beatmaps?
 
-*Explication détaillée sur les beatmaps: [Beatmaps](/wiki/Beatmaps)*
+*Explication détaillée sur les beatmaps: [Beatmaps](/wiki/Beatmap)*
 
 La page principale, sous le nom *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. N'oubliez juste pas de vous connecter avec un *compte osu!* auparavant pour pouvoir télécharger les beatmaps sur le site.
 

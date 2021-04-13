@@ -4,7 +4,7 @@ outdated: true
 
 # Kiai Time
 
-**Kiai Time** wird vom [Mapper](/wiki/Glossary) in der [Beatmap](/wiki/Beatmaps) zwischen 2 [Timingsektionen](/wiki/Beatmap_Editor/Timing) definiert. Sie werden es durch die Sternenfontänen und an dem Geblinke auf Ihrem Bildschirm erkennen, danach werden alle [Hit Objekte](/wiki/Hit_Objects) im Rhythmus zum Hauptbeat anfangen zu blinken und Sterne werden aus Ihrem Cursor erscheinen, wenn Sie einen [Hit Circle](/wiki/Hit_Objects) anklicken oder von Ihrem Cursor runterfallen, wenn Sie die Taste bei einem [Slider](/wiki/Hit_Objects) oder einem [Spinner](/wiki/Hit_Objects) durchgehend gedrückt halten.
+**Kiai Time** wird vom [Mapper](/wiki/Glossary) in der [Beatmap](/wiki/Beatmap) zwischen 2 [Timingsektionen](/wiki/Beatmap_Editor/Timing) definiert. Sie werden es durch die Sternenfontänen und an dem Geblinke auf Ihrem Bildschirm erkennen, danach werden alle [Hit Objekte](/wiki/Hit_Objects) im Rhythmus zum Hauptbeat anfangen zu blinken und Sterne werden aus Ihrem Cursor erscheinen, wenn Sie einen [Hit Circle](/wiki/Hit_Objects) anklicken oder von Ihrem Cursor runterfallen, wenn Sie die Taste bei einem [Slider](/wiki/Hit_Objects) oder einem [Spinner](/wiki/Hit_Objects) durchgehend gedrückt halten.
 
 ![Sternenfontänen erscheinen, wenn der Kiai Time beginnt.](img/Kiai_Time_test.jpg "Sternenfontänen erscheinen, wenn der Kiai Time beginnt.")
 
@@ -16,7 +16,7 @@ Die übliche Definition für den Kiai Time, wenn sie Beatmaps [editieren](/wiki/
 
 ## Dinge, die Sie bei der Verwendung vom Kiai berücksichtigen sollten
 
-1. Bei **[osu!taiko](/wiki/Game_mode/osu!taiko) Maps** geben die Kiai-Sektionen 20% mehr [Punkte](/wiki/Score). Wenn Sie also osu!taiko spezifische [Maps](/wiki/Beatmaps) erstellen, sollten Sie berücksichtigen, dass der Kiai das Gameplay mitbeeinflusst.
+1. Bei **[osu!taiko](/wiki/Game_mode/osu!taiko) Maps** geben die Kiai-Sektionen 20% mehr [Punkte](/wiki/Score). Wenn Sie also osu!taiko spezifische [Maps](/wiki/Beatmap) erstellen, sollten Sie berücksichtigen, dass der Kiai das Gameplay mitbeeinflusst.
 2. **Konsequent sein**; es ist nervig, wenn Sie 3 Kiai-Sektionen an verschienden Sektionen innerhalb einer [Schwierigkeitsstufe](/wiki/Beatmap_Editor/Song_Setup) definieren und sich alle voneinander soundtechnisch unterscheiden. Des Weiteren ist es für einen [Mapper](/wiki/Glossary) ratsam die Kiai Time-Sektionen bei allen eigenen Schwierigkeitsstufen zu vereinheitlichen.
 3. **Benutzen Sie keine weiße Combofarben** (255,255,255); dadurch wird der Spieler geblendet und dessen Augen stark beansprucht.
 4. Es ist normal, dass eine Kiai-Sektion im Vergleich zum Rest der Map schwieriger ist. Siehe Definiton vom Kiai Time.

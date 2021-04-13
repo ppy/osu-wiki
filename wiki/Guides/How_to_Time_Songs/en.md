@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+
 <!-- TODO: some outdated info and this could be simplified a lot. it's a pretty long read for what you get -->
 
 # How to time songs
@@ -88,7 +89,7 @@ Testing is the phase where we will put the actual notes into the beatmap, simila
 - Notes should not begin immediately in the first few seconds. Give yourself some time to get used to the rhythm and start with a slider or two;
 - Set the notes on white ticks (Beat Snap Divisor on 1/1; "Strong beat"), and nowhere else (don't use 1/2 or 1/4 yet).
 
-After mapping, we will use Test Mode (hotkey is F5), which has a very useful feedback mechanism: it shows the difference between the time when a note appears in the editor (according to time-frame concept), and the moment when we click it. If you do not have problems with hearing, rhythm, reaction, accuracy and sound card (or paranoia), you can continue on. Otherwise, refrain from independent testing. Request for testplays (or the timing itself) instead. You can often seek the \#modhelp channel for timing requests.
+After mapping, we will use Test Mode (hotkey is F5), which has a very useful feedback mechanism: it shows the difference between the time when a note appears in the editor (according to time-frame concept), and the moment when we click it. If you do not have problems with hearing, rhythm, reaction, accuracy and sound card (or paranoia), you can continue on. Otherwise, refrain from independent testing. Request for testplays (or the timing itself) instead. You can often seek the \#mapping channel for timing requests.
 
 So, put the notes, press F5 (Test mode) and hit the said notes as precisely as possible. A couple of hints:
 
@@ -125,7 +126,7 @@ If everything is done correctly, you now have a properly timed beatmap. Sometime
 
 ### Introduction
 
-There are situations when one red bar is not enough (some example will be [Bad Apple](https://osu.ppy.sh/beatmaps/64780), [DJ Amuro's A](https://osu.ppy.sh/beatmaps/20841) or [kemu's Ikasama Life Game](https://osu.ppy.sh/beatmaps/183240)). Admit it, it can range from hardrock, metal, any guitar compositions, concerts, live performances, songs with audible acceleration/deceleration/pause ([Black∞Hole's Pluto](https://osu.ppy.sh/beatmaps/147406)) and so on. Even by using the metronome, certain parts of a song (likely on the climax or ending section) it no longer snaps into the previous rhythm. The song's tempo suddenly bumps up/down a notch, the singer suddenly starts singing frantically/melodically and goes off, and the musical instruments are played extensively/acoustically. In this scenario, shifting or changing the first red bar to fit the tempo will not help.
+There are situations when one red bar is not enough (some example will be [Bad Apple](https://osu.ppy.sh/beatmapsets/64780), [DJ Amuro's A](https://osu.ppy.sh/beatmapsets/20841) or [kemu's Ikasama Life Game](https://osu.ppy.sh/beatmapsets/183240)). Admit it, it can range from hardrock, metal, any guitar compositions, concerts, live performances, songs with audible acceleration/deceleration/pause ([Black∞Hole's Pluto](https://osu.ppy.sh/beatmapsets/147406)) and so on. Even by using the metronome, certain parts of a song (likely on the climax or ending section) it no longer snaps into the previous rhythm. The song's tempo suddenly bumps up/down a notch, the singer suddenly starts singing frantically/melodically and goes off, and the musical instruments are played extensively/acoustically. In this scenario, shifting or changing the first red bar to fit the tempo will not help.
 
 You can ask for help from others on this, but there are only few people who *know* how to identify and work with multi-timing. Moreover, people will not help you if you don't make an effort on your beatmap or don't seem to be worth their time. You can do this yourself if you have a lot of experience and/or a pretty good accuracy, and are able to hit the notes correctly. This is vital, because you'll have to do lots of test plays, and mistimed hits will make it frustrating to the player.
 

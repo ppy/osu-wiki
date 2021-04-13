@@ -11,7 +11,7 @@ tags:
 
 ## Timing points
 
-[Timing points](/wiki/Glossary#timing-section) use a BPM and offset to allow snapping [hit objects](/wiki/Hit_Objects) to the timeline when creating [beatmaps](/wiki/Beatmaps). Timeline snapping ensures gameplay aligns with the beat.
+[Timing points](/wiki/Glossary#timing-section) use a BPM and offset to allow snapping [hit objects](/wiki/Hit_Objects) to the timeline when creating [beatmaps](/wiki/Beatmap). Timeline snapping ensures gameplay aligns with the beat.
 
 Inside the [Timing tab](/wiki/Beatmap_Editor/Timing) of the [beatmap editor](/wiki/Beatmap_Editor), a BPM estimation tool can be found. This works by calculating a BPM and offset from the user tapping along with the song. This is useful for estimating a BPM value, but usually requires additional adjustment to be fully synced with the song.
 

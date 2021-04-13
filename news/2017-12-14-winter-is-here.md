@@ -20,7 +20,7 @@ This track will be a fixture on the main-menu to accompany the Winter seasonal b
     
 [Follow him on Twitter too](https://twitter.com/nekodex), because why not?
 
-----
+---
 
 And that's not all!
 
@@ -100,7 +100,7 @@ Clad in a Christmas costume, [XFINCHIIX](https://osu.ppy.sh/users/7075621)'s pip
 
 And last but definitely not least, [Vio](https://osu.ppy.sh/users/5661237)'s pastel celebration of pippi and Mocha is so unbearably cute that it scored **2,813** votes, and shows that wintertime doesn't necessarily mean colours go away!
 
--------
+---
 
 It wouldn't be a Fan Art contest announcement if I didn't gush endlessly about how amazing the contest was this time around, but really, we've honestly never seen anything quite like this in all the years we've hosted them.
 

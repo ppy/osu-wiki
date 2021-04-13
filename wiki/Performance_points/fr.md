@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Points de Performance
 
 Le système de Points de Performance est un système de classement métrique visant à suivre la progression du joueur dans un jeu continuel tel qu'osu!

@@ -22,12 +22,12 @@ The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!
 | Round of 16 | 2019-02-16/2019-02-17 |
 | Quarterfinals | 2019-02-23/2019-02-24 |
 | Semifinals | 2019-03-02/2019-03-03 |
-| Finals | 2019-03-09/2019-03-10 |
-| Grand Finals | 2019-03-17 |
+| Finals week 1 | 2019-03-09/2019-03-10 |
+| Finals week 2 | 2019-03-17 |
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, "osu!mania Champion" user title for one year |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
@@ -37,14 +37,14 @@ The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!
 
 ## Organisation
 
-The osu!mania 7K World Cup 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!mania 7K World Cup 2019 was run by various community members.
 
-| Position | Member(s) |
+| Position | Members |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
-| Map selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
-| Commentator | ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Mappool selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
 | Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Commentator | ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
@@ -57,30 +57,30 @@ The osu!mania 7K World Cup 2019 was run by various community members by distribu
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [BossPlays\_02](https://osu.ppy.sh/users/7341471), [DUELODER](https://osu.ppy.sh/users/8224116), [aluuu](https://osu.ppy.sh/users/4585260) |
-| ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/users/9530019)**, [Lazarento](https://osu.ppy.sh/users/3224958), [UrsoManso](https://osu.ppy.sh/users/4569601), [SillyFangirl](https://osu.ppy.sh/users/2288363) |
-| ![][flag_CA] | **Canada** | **[Sinaeb](https://osu.ppy.sh/users/1576095)**, [LelPop](https://osu.ppy.sh/users/10242770), [XzVx](https://osu.ppy.sh/users/12286606), [Tagua](https://osu.ppy.sh/users/3665472) |
-| ![][flag_CN] | **China** | **[\[Crz\]Satori](https://osu.ppy.sh/users/7082178)**, [ZhangFan](https://osu.ppy.sh/users/89545), [Wilben\_Chan](https://osu.ppy.sh/users/6659363), [qx0407](https://osu.ppy.sh/users/10569738) |
-| ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)**, [Matiias](https://osu.ppy.sh/users/3215366), [Asagaki](https://osu.ppy.sh/users/2632902), [Sebaex](https://osu.ppy.sh/users/4686036) |
-| ![][flag_DK] | **Denmark** | **[mart732c](https://osu.ppy.sh/users/4402263)**, [Nibbe](https://osu.ppy.sh/users/5001658), [Jole](https://osu.ppy.sh/users/2883132), [Optane](https://osu.ppy.sh/users/7871427) |
-| ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)**, [CharlisMadCut](https://osu.ppy.sh/users/2863607), [AntoAa](https://osu.ppy.sh/users/3897919), [Cunu](https://osu.ppy.sh/users/7190228) |
-| ![][flag_DE] | **Germany** | **[Dualshock](https://osu.ppy.sh/users/1902591)**, [Malox](https://osu.ppy.sh/users/4516252), [ReTLoM](https://osu.ppy.sh/users/2271049), [playin14](https://osu.ppy.sh/users/2144038) |
-| ![][flag_HK] | **Hong Kong** | **[Opean](https://osu.ppy.sh/users/4544555)**, [Sn7\_1163](https://osu.ppy.sh/users/10353103), [Nakoii](https://osu.ppy.sh/users/12874576) |
-| ![][flag_ID] | **Indonesia** | **[Snowdrop](https://osu.ppy.sh/users/1031263)**, [Exyph](https://osu.ppy.sh/users/10364342), [Nyooo](https://osu.ppy.sh/users/2319372), [hidea022](https://osu.ppy.sh/users/7226693) |
+| ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [aluuu](https://osu.ppy.sh/users/4585260), [BossPlays\_02](https://osu.ppy.sh/users/7341471), [DUELODER](https://osu.ppy.sh/users/8224116) |
+| ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/users/9530019)**, [Lazarento](https://osu.ppy.sh/users/3224958), [SillyFangirl](https://osu.ppy.sh/users/2288363), [UrsoManso](https://osu.ppy.sh/users/4569601) |
+| ![][flag_CA] | **Canada** | **[Sinaeb](https://osu.ppy.sh/users/1576095)**, [LelPop](https://osu.ppy.sh/users/10242770), [Tagua](https://osu.ppy.sh/users/3665472), [XzVx](https://osu.ppy.sh/users/12286606) |
+| ![][flag_CN] | **China** | **[\[Crz\]Satori](https://osu.ppy.sh/users/7082178)**, [qx0407](https://osu.ppy.sh/users/10569738), [Wilben\_Chan](https://osu.ppy.sh/users/6659363), [ZhangFan](https://osu.ppy.sh/users/89545) |
+| ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)**, [Asagaki](https://osu.ppy.sh/users/2632902), [Matiias](https://osu.ppy.sh/users/3215366), [Sebaex](https://osu.ppy.sh/users/4686036) |
+| ![][flag_DK] | **Denmark** | **[mart732c](https://osu.ppy.sh/users/4402263)**, [Jole](https://osu.ppy.sh/users/2883132), [Nibbe](https://osu.ppy.sh/users/5001658), [Optane](https://osu.ppy.sh/users/7871427) |
+| ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)**, [AntoAa](https://osu.ppy.sh/users/3897919), [CharlisMadCut](https://osu.ppy.sh/users/2863607), [Cunu](https://osu.ppy.sh/users/7190228) |
+| ![][flag_DE] | **Germany** | **[Dualshock](https://osu.ppy.sh/users/1902591)**, [Malox](https://osu.ppy.sh/users/4516252), [playin14](https://osu.ppy.sh/users/2144038), [ReTLoM](https://osu.ppy.sh/users/2271049) |
+| ![][flag_HK] | **Hong Kong** | **[Opean](https://osu.ppy.sh/users/4544555)**, [Nakoii](https://osu.ppy.sh/users/12874576), [Sn7\_1163](https://osu.ppy.sh/users/10353103) |
+| ![][flag_ID] | **Indonesia** | **[Snowdrop](https://osu.ppy.sh/users/1031263)**, [Exyph](https://osu.ppy.sh/users/10364342), [hidea022](https://osu.ppy.sh/users/7226693), [Nyooo](https://osu.ppy.sh/users/2319372) |
 | ![][flag_IL] | **Israel** | **[lidhen](https://osu.ppy.sh/users/8574116)**, [nadavv](https://osu.ppy.sh/users/7673299), [Zeevee](https://osu.ppy.sh/users/9493441) |
 | ![][flag_JP] | **Japan** | **[quicalid4](https://osu.ppy.sh/users/6172698)**, [Lenxis\_](https://osu.ppy.sh/users/10133496) |
 | ![][flag_MO] | **Macau** | **[idqoos123](https://osu.ppy.sh/users/3946113)**, [capchon](https://osu.ppy.sh/users/8566617) |
-| ![][flag_NL] | **Netherlands** | **[Freek](https://osu.ppy.sh/users/9630674)**, [Redon](https://osu.ppy.sh/users/3572355), [Penda](https://osu.ppy.sh/users/4268370), [Redenor](https://osu.ppy.sh/users/6964358) |
-| ![][flag_PH] | **Philippines** | **[Cielo Day](https://osu.ppy.sh/users/2722489)**, [Dadots](https://osu.ppy.sh/users/3525251), [- Kura -](https://osu.ppy.sh/users/11420405), [Entozer](https://osu.ppy.sh/users/277044) |
-| ![][flag_PL] | **Poland** | **[SitekX](https://osu.ppy.sh/users/3840946)**, [Hudonom](https://osu.ppy.sh/users/1654221), [DaDarkDragon](https://osu.ppy.sh/users/8902097), [Benzopirene](https://osu.ppy.sh/users/1887068) |
-| ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)**, [Daleenie](https://osu.ppy.sh/users/1540597), [timebuka](https://osu.ppy.sh/users/6857841), [Flexo123](https://osu.ppy.sh/users/5367287) |
-| ![][flag_SG] | **Singapore** | **[ByeForNow](https://osu.ppy.sh/users/7199159)**, [Seiryuu](https://osu.ppy.sh/users/2808028), [Eskalade](https://osu.ppy.sh/users/9093634), [Zerulite](https://osu.ppy.sh/users/7349397) |
-| ![][flag_KR] | **South Korea** | **[Jakads](https://osu.ppy.sh/users/259972)**, [wonder5193](https://osu.ppy.sh/users/8474029), [NKEYBOARD](https://osu.ppy.sh/users/10132430), [Estonians](https://osu.ppy.sh/users/7014697) |
-| ![][flag_SE] | **Sweden** | **[Sadcat](https://osu.ppy.sh/users/4123399)**, [Vortex-](https://osu.ppy.sh/users/4999669), [Craty](https://osu.ppy.sh/users/3918056), [Stug](https://osu.ppy.sh/users/4899311) |
+| ![][flag_NL] | **Netherlands** | **[Freek](https://osu.ppy.sh/users/9630674)**, [Penda](https://osu.ppy.sh/users/4268370), [Redenor](https://osu.ppy.sh/users/6964358), [Redon](https://osu.ppy.sh/users/3572355) |
+| ![][flag_PH] | **Philippines** | **[Cielo Day](https://osu.ppy.sh/users/2722489)**, [- Kura -](https://osu.ppy.sh/users/11420405), [Dadots](https://osu.ppy.sh/users/3525251), [Entozer](https://osu.ppy.sh/users/277044) |
+| ![][flag_PL] | **Poland** | **[SitekX](https://osu.ppy.sh/users/3840946)**, [Benzopirene](https://osu.ppy.sh/users/1887068), [DaDarkDragon](https://osu.ppy.sh/users/8902097), [Hudonom](https://osu.ppy.sh/users/1654221) |
+| ![][flag_RU] | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)**, [Daleenie](https://osu.ppy.sh/users/1540597), [Flexo123](https://osu.ppy.sh/users/5367287), [timebuka](https://osu.ppy.sh/users/6857841) |
+| ![][flag_SG] | **Singapore** | **[ByeForNow](https://osu.ppy.sh/users/7199159)**, [Eskalade](https://osu.ppy.sh/users/9093634), [Seiryuu](https://osu.ppy.sh/users/2808028), [Zerulite](https://osu.ppy.sh/users/7349397) |
+| ![][flag_KR] | **South Korea** | **[Jakads](https://osu.ppy.sh/users/259972)**, [Estonians](https://osu.ppy.sh/users/7014697), [NKEYBOARD](https://osu.ppy.sh/users/10132430), [wonder5193](https://osu.ppy.sh/users/8474029) |
+| ![][flag_SE] | **Sweden** | **[Sadcat](https://osu.ppy.sh/users/4123399)**, [Craty](https://osu.ppy.sh/users/3918056), [Stug](https://osu.ppy.sh/users/4899311), [Vortex-](https://osu.ppy.sh/users/4999669) |
 | ![][flag_TW] | **Taiwan** | **[FoxTailTofu](https://osu.ppy.sh/users/1793562)**, [\[ Snow Rabbit \]](https://osu.ppy.sh/users/1833280) |
-| ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)**, [KenZ](https://osu.ppy.sh/users/437945), [BossMadWolf](https://osu.ppy.sh/users/2772110), [harlemshake555](https://osu.ppy.sh/users/7355319) |
+| ![][flag_TH] | **Thailand** | **[LostCool](https://osu.ppy.sh/users/766374)**, [BossMadWolf](https://osu.ppy.sh/users/2772110), [harlemshake555](https://osu.ppy.sh/users/7355319), [KenZ](https://osu.ppy.sh/users/437945) |
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/users/3628783)**, [Lelloq](https://osu.ppy.sh/users/8610776) |
-| ![][flag_US] | **United States** | **[-Squishy](https://osu.ppy.sh/users/4372604)**, [stupud man](https://osu.ppy.sh/users/2141612), [Gekido-](https://osu.ppy.sh/users/4693052), [AYAYAA](https://osu.ppy.sh/users/4980256) |
+| ![][flag_US] | **United States** | **[-Squishy](https://osu.ppy.sh/users/4372604)**, [AYAYAA](https://osu.ppy.sh/users/4980256), [Gekido-](https://osu.ppy.sh/users/4693052), [stupud man](https://osu.ppy.sh/users/2141612) |
 
 ## Groups
 
@@ -103,7 +103,7 @@ The osu!mania 7K World Cup 2019 was run by various community members by distribu
 
 ### Finals
 
-**This mappool was played during the Finals and the Grand Finals.**
+**This mappool was played during the Finals week 1 and Finals week 2.**
 
 - FreeMod
   - [Hommarju - Rings of Rainbow (qodtjr) \[Sweet Ring\]](https://osu.ppy.sh/beatmapsets/867713#mania/1813878)
@@ -194,7 +194,7 @@ The osu!mania 7K World Cup 2019 was run by various community members by distribu
 
 ## Match results
 
-### Grand Finals
+### Finals week 2
 
 Sunday, 17 March 2019:
 
@@ -204,7 +204,7 @@ Sunday, 17 March 2019:
 | Philippines ![][flag_PH] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50332058) |
 | **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/50333689) |
 
-### Finals
+### Finals week 1
 
 Saturday, 9 March 2019:
 
@@ -377,7 +377,9 @@ Sunday, 10 February 2019:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -386,10 +388,14 @@ Sunday, 10 February 2019:
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing team gets moved to the Losers' bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -397,6 +403,7 @@ Sunday, 10 February 2019:
    | Semifinals | M, N & V, W, X, Y, Z, AA |
    | Finals | O & AB, AC, AD |
    | Grand Finals | AE, P, Q |
+
 7. The **Winning conditions** for each stage will be:
    - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)

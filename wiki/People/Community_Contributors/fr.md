@@ -110,8 +110,8 @@ Les **contributeurs** (*Community Contributors* en anglais) sont des joueurs aya
 | ![CN][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Contribution exceptionnelle et organisation du projet de localisation en chinois pour osu !, osu! wiki et osu! lazer |
 | ![DE][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Contribution exceptionnelle au projet osu! Lazer et création de nombreux outils médiatiques |
 | ![AU][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Créateur de PerformancePlus et osu!chan |
-| ![SG][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Effort exceptionnel dans la production et la publication du projet Score |
-| ![FR][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Effort exceptionnel dans la production et la publication du projet Score |
+| ![SG][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Effort exceptionnel dans la production et la publication du projet Scorewatch |
+| ![FR][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Effort exceptionnel dans la production et la publication du projet Scorewatch |
 | ![US][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Des efforts exceptionnels pour faire avancer le projet osu! projet wiki avec d'innombrables révisions, retravaux et revues |
 | ![PL][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | Pierre angulaire du projet osu!wiki et contribution exceptionnelle au fil des ans |
 

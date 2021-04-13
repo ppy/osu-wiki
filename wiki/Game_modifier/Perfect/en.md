@@ -26,7 +26,7 @@ tags:
 
 ## Description
 
-The **Perfect** mod is a [game modifier](/wiki/Game_modifier) that aims to aid players who are going for an SS grade by automatically failing and retrying [beatmaps](/wiki/Beatmaps) upon missing a note or obtaining any score on a [hit object](/wiki/Hit_object) other than 300 or more.
+The **Perfect** mod is a [game modifier](/wiki/Game_modifier) that aims to aid players who are going for an SS grade by automatically failing and retrying [beatmaps](/wiki/Beatmap) upon missing a note or obtaining any score on a [hit object](/wiki/Hit_object) other than 300 or more.
 
 Any of the following acts **will cause** the Perfect mod to restart the beatmap:
 

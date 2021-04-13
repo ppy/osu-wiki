@@ -7,7 +7,7 @@ tags:
 
 # Combo (score multiplier)
 
-*Not to be confused with [Combo (comboset)](/wiki/Beatmapping/Combo).*
+*For other uses, see [Combo (disambiguation)](/wiki/Disambiguation/Combo).*
 
 **Combo** refers to the number of [hit objects](/wiki/Hit_object) a player has hit consecutively without missing or [sliderbreaking](/wiki/Gameplay/Slider_break) once. This number is displayed in various places during gameplay:
 

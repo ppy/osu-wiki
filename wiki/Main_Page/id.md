@@ -29,7 +29,7 @@ Selamat datang di osu! wiki, sebuah proyek yang bertujuan untuk mendokumentasika
 
 [Jenis permainan](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmaps) • [Objek ketukan (Hit object)](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Skor](/wiki/Score) • [Tayangan ulang (Replay)](/wiki/Replay) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Objek ketukan (Hit object)](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Skor](/wiki/Score) • [Tayangan ulang (Replay)](/wiki/Replay) • [Multi](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,7 +40,7 @@ Komponen Utama: [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatm
 
 Komponen Pendukung: [AIMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timeline](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Tingkat kesulitan](/wiki/Difficulties) • [Teknik mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+[Beatmapping](/wiki/Beatmapping) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Teknik mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

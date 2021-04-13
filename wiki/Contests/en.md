@@ -2,9 +2,11 @@
 
 # Contests
 
-A list of contests that are not listed on the [Community Contests page](https://osu.ppy.sh/community/contests) (mostly before late-2016 and other [community-ran contests](#community-contests)).
+A list of contests that are not mentioned on the [Community Contests page](https://osu.ppy.sh/community/contests) (mostly before late-2016 and other [community-ran contests](#community-contests)).
 
 ## Monthly Beatmapping Contest
+
+*Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
 | Contest No. | Beatmap | Mode | Mapper | Results | Scores |
 | :-: | :-- | :-: | :-- | :-- | :-- |
@@ -26,7 +28,7 @@ A list of contests that are not listed on the [Community Contests page](https://
 
 Notes:
 
-- Winners of the Monthly Beatmapping Contests #1 to #13 received the *Elite Mapper* forum title.
+- Winners of the MBC #1 to #13 received the *Elite Mapper* forum title.
 - Winning beatmapsets from MBC #1 to #12 (excluding MBC #6) were bundled with the [osu!installer](https://osu.ppy.sh/home/download). They have since been replaced by other beatmapsets.
 - Monthly Beatmapping Contests after #13 have a different premise and reward scheme from the previous contests detailed in the [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest) article.
 
@@ -55,18 +57,20 @@ Mapping With Rewards is a contest without strict deadlines and features one winn
 | 2.1 | [cYsmix - Fright March](https://osu.ppy.sh/beatmapsets/486142) | ![osu!standard][o!s] | [Gero](https://osu.ppy.sh/users/1467715) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.1](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
 | 2.2 | [cYsmix - Moonlight Sonata](https://osu.ppy.sh/beatmapsets/486535) | ![osu!standard][o!s] | [Okoratu](https://osu.ppy.sh/users/1623405) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.2](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
 | 2.3 | [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/488238) | ![osu!standard][o!s] | [-kevincela-](https://osu.ppy.sh/users/266596) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.3](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
-| 3.1 | [Loki/Thaehan - A New King Is Born](https://osu.ppy.sh/beatmapsets/760694) | ![osu!standard][o!s] | [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
-| 3.2 | [Loki/Thaehan - A New King Is Born](https://osu.ppy.sh/beatmapsets/1158282) | ![osu!taiko][o!t] | [Raiden](https://osu.ppy.sh/users/2239480) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
-| 3.3 | [Loki/Thaehan - A New King Is Born](https://osu.ppy.sh/beatmapsets/772257) | ![osu!mania][o!m] | [chouyaa](https://osu.ppy.sh/users/8404646) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
-| 3.4 | [\*namirin - closing eyes](https://osu.ppy.sh/beatmapsets/669437) | ![osu!standard][o!s] | [pishifat](https://osu.ppy.sh/users/3178418) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
-| 3.5 | [\*namirin - closing eyes](https://osu.ppy.sh/beatmapsets/705499) | ![osu!taiko][o!t] | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
-| 3.6 | [Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmapsets/1158282) | ![osu!standard][o!s] | [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
+| 3.1 | [Loki/Thaehan - A New King Is Born](https://osu.ppy.sh/beatmapsets/760694) | ![osu!standard][o!s] | [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |  |
+| 3.2 | [Loki/Thaehan - A New King Is Born](https://osu.ppy.sh/beatmapsets/1158282) | ![osu!taiko][o!t] | [Raiden](https://osu.ppy.sh/users/2239480) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |  |
+| 3.3 | [Loki/Thaehan - A New King Is Born](https://osu.ppy.sh/beatmapsets/772257) | ![osu!mania][o!m] | [chouyaa](https://osu.ppy.sh/users/8404646) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |  |
+| 3.4 | [\*namirin - closing eyes](https://osu.ppy.sh/beatmapsets/669437) | ![osu!standard][o!s] | [pishifat](https://osu.ppy.sh/users/3178418) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |  |
+| 3.5 | [\*namirin - closing eyes](https://osu.ppy.sh/beatmapsets/705499) | ![osu!taiko][o!t] | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |  |
+| 3.6 | [Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmapsets/1158282) | ![osu!standard][o!s] | [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |  |
 
 Notes:
 
 - Mapping With Rewards #1 was concluded without a results post.
 
 ## osu! Mapping Olympiad
+
+*Main page: [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
 
 osu! Mapping Olympiad is a contest with similar formatting to Monthly Beatmapping Contests #1 to #12. Each iteration of it can be found on the [Community Contests page](https://osu.ppy.sh/community/contests).
 
@@ -141,7 +145,7 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 | Placing | Results | Original Artists |
 | :-: | :-- | :-- |
-| ![Gold Crown][GCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [FictionJunction](https://vimeo.com/61327345) |
+| ![Gold Crown][GCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | FictionJunction |
 | ![Silver Crown][SCrown] | [Sharlo](https://osu.ppy.sh/users/1622450) - 緋色月下、狂咲ノ絶 -1st Anniversary Remix- | EastNewSound |
 | ![Bronze Crown][BCrown] | [MissTitannia](https://osu.ppy.sh/users/4490361) - *unknown* | *unknown* |
 
@@ -154,9 +158,9 @@ osu!idol is a contest where contestants as a solo or a duet sing their way throu
 
 | Placing | Results | Original Artists |
 | :-: | :-- | :-- |
-| ![Gold Crown][GCrown] | [Sagi](https://osu.ppy.sh/users/491799) - [Systematic Love](http://flan.s-ul.eu/OQXT0SsA) | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8) |
-| ![Silver Crown][SCrown] | [CptHampton](https://osu.ppy.sh/users/3200587) - [Drumming Song](http://flan.s-ul.eu/ZCA8KxCl) | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
-| ![Bronze Crown][BCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Hyadain no Kakakata☆Kataomoi](http://flan.s-ul.eu/8w5u4phq) | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4) |
+| ![Gold Crown][GCrown] | [Sagi](https://osu.ppy.sh/users/491799) - Systematic Love | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8) |
+| ![Silver Crown][SCrown] | [CptHampton](https://osu.ppy.sh/users/3200587) - Drumming Song | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
+| ![Bronze Crown][BCrown] | [yealina](https://osu.ppy.sh/users/139551) - Hyadain no Kakakata☆Kataomoi | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4) |
 
 - [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [News post](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)

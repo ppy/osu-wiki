@@ -27,7 +27,7 @@ Questa pagina ti spiegherà approssimativamente come far funzionare osu! su un d
 
 ## Aggiungere beatmap
 
-*Vedi anche: [Beatmaps](/wiki/Beatmaps) e [Beatmapsets](/wiki/Glossary#beatmapset)*
+*Vedi anche: [Beatmaps](/wiki/Beatmap) e [Beatmapsets](/wiki/Glossary#beatmapset)*
 
 Ci sono due modi per aggiungere beatmap, tramite sito web o osu!direct (che richiede [osu!supporter](/wiki/osu!supporter)).
 

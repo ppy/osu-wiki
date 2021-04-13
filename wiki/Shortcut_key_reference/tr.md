@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 526e49f5b89310dbe8b7cdf8144cac713aaf770a
 tags:
   - hotkey
   - hotkeys
@@ -93,8 +91,8 @@ Bu kısayollar her yerde çalışır:
 
 ### Oyun modifikasyonları
 
-*Ana sayfa: [Oyun Modifikasyonları](/wiki/Game_modifier)*  
-*Not: Kısayol tuşuna basmak onu açar/kapatır. Bu kısayolları kullanabilmeniz için oyun modifikasyonları menüsünde bulunmanız gerekir.*  
+*Ana sayfa: [Oyun Modifikasyonları](/wiki/Game_modifier)*\
+*Not: Kısayol tuşuna basmak onu açar/kapatır. Bu kısayolları kullanabilmeniz için oyun modifikasyonları menüsünde bulunmanız gerekir.*\
 *Not: Target practice (osu!standard), 1K ve 2K (osu!mania), Co-op (osu!mania), ve Mirror (osu!mania) modlarının kısayolu yoktur.*
 
 | Kısayol | Mod |
@@ -196,6 +194,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
+| `Çift Tık` | Dairelerin veya slider sonlarının üzerine şarkının herhangi bir yerinden objenin zaman çizgisindeki konumuna atla. (osu!standard, osu!taiko, osu!catch) |
 | `Sağ Tık` | Yeni kombo dizisine geç (yeni vuruş objesi yerleştirirken) ya da objeyi sil (seçerken). |
 
 #### Genel
@@ -210,6 +209,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `Ctrl` + `C` | Kopyala. |
 | `Ctrl` + `V` | Yapıştır. |
 | `Ctrl` + `D` | Seçimi klonla. Bu seçiminizi seçilen son objeden 1 ölçü sonrasına yapıştıracaktır. |
+| `Ctrl` + `M` | Izgara bölücüyü ayarla. |
 | `Delete` | Sil. |
 | `1`, `2`, `3`, veya `4` | Sırasıyla seçim, circle, slider, ve spinner yerleştirme/seçim modları arasında geçiş yap (osu!standard, osu!taiko, veya osu!catch). |
 | `1`, `2`, veya `3` | Sırasıyla seçim, circle, hold yerleştirme/seçim modları arasında geçiş yap (osu!mania). |
@@ -264,7 +264,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, veya `8`) | [Nota ızgara bölücüyü](/wiki/Beatmap_Editor/Beat_Snap_Divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/6, ve 1/8 olarak ayarla. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, veya `9`) | [Nota ızgara bölücüyü](/wiki/Beatmap_Editor/Beat_Snap_Divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, ve 1/9 olarak ayarla. |
 | `Shift` (zaman çizgisinde sürüklerken) | Nota ızgara bölücü ayarını yoksay. |
 | `J` | Seçimi 1 bölüm geriye ötele. |
 | `K` | Seçimi 1 bölüm ileriye ötele. |
@@ -287,4 +287,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | Kısayol | Eylem |
 | :-- | :-- |
 | `T` | Şarkının ritmine göre tıklandığında BPM ve offset'i ayarla. |
-| `Shift` BPM ve offset ayarlarken | Normal artış aralığını 4'e katlar. |
+| `Shift` BPM veya offset ayarlarken | Normal artış aralığını 5'e katlar. |
+| `Ctrl` BPM ayarlarken | 0.25 kat arttırır. |
+| `Ctrl` offset ayarlarken | 1 kat arttırır. |
+| `Ctrl` slider hızını ayarlarken | 0.1 kat arttırır. |

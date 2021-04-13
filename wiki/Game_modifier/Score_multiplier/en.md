@@ -1,9 +1,12 @@
 ---
+outdated: true
 stub: true
 tags:
   - score multiplier
   - score
 ---
+
+<!--Outdated because the math and formula to the score multiplier is wrong. Spawned from issue #4448-->
 
 # Score multiplier
 
@@ -15,7 +18,7 @@ tags:
 
 The **Score Multiplier** is a value used to determine how much osu! should multiply the [score](/wiki/Score) recieved from each individual [hit object](/wiki/Hit_object) throughout a play. By default, the Score Multiplier will be 1.00x, but this value can be changed through the use of [game modifiers](/wiki/Game_modifier).
 
-For example, if a player plays a [beatmap](/wiki/Beatmaps) on osu!standard with no mods enabled, and gains a final score of 100,000, then the final score will be 100,000. However, if that same player achieved the *exact same play* on the *exact same beatmap*, with the [Hard Rock](/wiki/Game_modifier/Hard_Rock) mod enabled, then the final score would be 106,000 because the Hard Rock mod's Score Multiplier value is 1.06x. During a play, the score multiplier value is multiplied with the current score in real-time, although it is possible to calculate the final score after-the-fact by simply multiplying the two values together: `finalScore * scoreMultiplier`.
+For example, if a player plays a [beatmap](/wiki/Beatmap) on osu!standard with no mods enabled, and gains a final score of 100,000, then the final score will be 100,000. However, if that same player achieved the *exact same play* on the *exact same beatmap*, with the [Hard Rock](/wiki/Game_modifier/Hard_Rock) mod enabled, then the final score would be 106,000 because the Hard Rock mod's Score Multiplier value is 1.06x. During a play, the score multiplier value is multiplied with the current score in real-time, although it is possible to calculate the final score after-the-fact by simply multiplying the two values together: `finalScore * scoreMultiplier`.
 
 However, if multiple mods are enabled, the score multiplier value would be the two score multiplier values of each mod, multiplies together. For example, if the Hard Rock mod and [Half Time](/wiki/Game_modifier/Half_Time) mod are enabled simultaneously in osu!standard, the final value would be approximately 0.32x.
 

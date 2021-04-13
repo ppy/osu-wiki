@@ -1,0 +1,5 @@
+# Indonesia Convert Cup
+
+Index page for all of the Indonesia Convert Cup tournament series.
+
+- [Indonesia Convert Cup 2020](2020)

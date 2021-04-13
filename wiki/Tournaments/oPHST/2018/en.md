@@ -1088,9 +1088,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 ### Tournament Formats
 
 - The **osu!standard** division will adopt a Qualifier Round (explained below) in order to reduce the field into 32 players which will then be subjected to a **single elimination** bracket. Seeding for this division will be based on qualifier results.
-
 - The **osu!catch** division will be subjected to a **16-player double elimination** bracket. Seeding for this division will be based on their Global Ranking as of 2018-04-15 (18:00 UTC+8).
-
 - Both **osu!mania 4K** and **osu!mania 7K** divisions will adopt a Qualifier Round (explained below) in order to reduce the field as registration numbers may see fit. If registrants exceed 32 players, a play-off round will be introduced in order to reduce the field to 16 players. The players are then split into four **single round robin** groups of four players each, the top 2 of each group will advance to a **double elimination** bracket. Seeding for this division will be based on qualifier results.
 
 ### Mods Used in the Tournament

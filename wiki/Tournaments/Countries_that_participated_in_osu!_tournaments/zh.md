@@ -1,3 +1,8 @@
+---
+outdated:  true
+outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
+---
+
 # 参与 osu! 锦标赛的国家
 
 本文列出了参加各种 osu!, osu!taiko, osu!catch and osu!mania 锦标赛的国家以及排名前4的国家或地区。
@@ -35,7 +40,6 @@
 | 12 | ![][flag_CO] 哥伦比亚 |  |  | 1 |
 | 12 | ![][flag_SE] 瑞典 |  |  | 1 |
 | 12 | ![][flag_GB] 英国 |  |  | 1 |
-
 
 ## 单个模式
 

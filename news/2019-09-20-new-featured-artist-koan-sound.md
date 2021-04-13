@@ -44,7 +44,7 @@ Don't have a clue what I'm getting at? Never fear, their music tells the full st
     <source src="https://assets.ppy.sh/artists/49/previews/1243.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 All these and more add up to **16** brand new tracks awaiting you over on their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/49), all pre-timed and ready for you to experiment with. We're excited to see what people come up with to some more complex electronic sounds, especially after all of the metal we've had blasting about lately.
 

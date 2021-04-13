@@ -46,7 +46,7 @@ Take a listen for yourself and see what all the hype's about:
     <source src="https://assets.ppy.sh/artists/52/previews/1527.mp3" type="audio/mpeg">
 </audio>
 
--------
+---
 
 As always, the above tracks and all the others are immediately available from [**False Noise**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/52) for modding and mapping, no fuss, and 100% free.
 

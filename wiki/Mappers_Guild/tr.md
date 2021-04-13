@@ -6,7 +6,7 @@ tags:
 
 # Mappers' Guild
 
-**Mappers' Guild** osu!'nun [featured artistleri](/wiki/Featured_Artists) için [beatmapler](/wiki/Beatmaps) oluşturmaktan sorumlu bir mapper grubudur. Bir MMO loncasıymış gibi yürütülen grup, featured artistlerin beatmaplerinin derecelendirilme prosedürüne katkıda bulunarak ve mapleme ile alakalı görevleri tamamlayarak mapperların ödüller kazanmalarını sağlayan bir sistemdir.
+**Mappers' Guild** osu!'nun [featured artistleri](/wiki/Featured_Artists) için [beatmapler](/wiki/Beatmap) oluşturmaktan sorumlu bir mapper grubudur. Bir MMO loncasıymış gibi yürütülen grup, featured artistlerin beatmaplerinin derecelendirilme prosedürüne katkıda bulunarak ve mapleme ile alakalı görevleri tamamlayarak mapperların ödüller kazanmalarını sağlayan bir sistemdir.
 
 Loncanın organizasyonu ve tartışması [osu!dev Discord sunucusundaki](https://discord.gg/ppy) `#mappers-guild` kanalında bulunabilir.
 

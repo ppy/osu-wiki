@@ -27,7 +27,7 @@ Tämä sivu kertoo miten saat osu!'n toimimaan Windows-tietokoneellesi. [osu!aka
 
 ## Beatmapsettien lataaminen
 
-*Katso myös: [Beatmaps](/wiki/Beatmaps)*
+*Katso myös: [Beatmaps](/wiki/Beatmap)*
 
 Voit ladata beatmappejä kotisivulta tai osu!direct'in avulla (vaatii [osu!supporter](/wiki/osu!supporter)-merkinnän).
 

@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+outdated: true
 ---
 
 # Problemas comunes para los contribuidores de la wiki

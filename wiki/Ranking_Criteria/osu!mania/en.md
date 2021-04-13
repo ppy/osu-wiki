@@ -19,7 +19,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 ### Common terms
 
 - **BPM**: Tempo of a song measured in beats per minute.
-- **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8` for timestamp labels.
+- **Column**: Vertical lines on the playfield where notes are placed. The editor uses `0|1|2|3|4|5|6|7|8|9` for timestamp labels.
 - **Key mode**: The number of columns present in a difficulty.
 - **Keysounding**: Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
 - **Slider velocity**: The speed at which the notes/bar lines move on the playfield. Base slider velocity (1.0x) is based on the user's scroll speed, and additional changes can be made through inherited (green) timing points.
@@ -58,7 +58,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **Two notes cannot be placed in a single column at the same timestamp.**
 - **No column can be left empty.** If you want to use fewer keys, change the number of keys in the Song Setup.
 - **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
-- **Beatmaps can only use 4 to 9 keys.** Anything else is not supported for the Ranked section.
+- **Beatmaps can only use 4 to 10 keys.** Anything else is not supported for the Ranked section.
 - **If multiple key modes are present in a single beatmap set, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
 
 ### Guidelines
@@ -138,10 +138,6 @@ Additional guidelines for *7 key Normal* difficulties:
 - **Bracket patterns should be used sparingly.**
 - **Long notes played with adjacent keys that are held simultaneously should be released at the same time.** Long notes with multiple release timings require coordination that players of this level cannot reasonably handle.
 
-If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
-
-- **Consecutive 1/4 snaps should only be three notes long.** More dense rhythms are not appropriate for the lowest difficulty of a beatmapset.
-
 ### ![](/wiki/shared/diff/hard-m.png) Hard
 
 #### Guidelines
@@ -169,11 +165,6 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous.
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
-
-If a Hard difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
-
-- **Chords within streams are discouraged.** The density of these patterns is often too difficult for players of this skill level, especially when used on the lowest difficulty of a beatmap set. However, using a chord at the beginning/end of a stream is fine.
-- **Short-term slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and the slider velocity should not be drastically variable.
 
 ### ![](/wiki/shared/diff/insane-m.png) Insane
 
