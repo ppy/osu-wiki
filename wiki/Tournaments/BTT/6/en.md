@@ -100,7 +100,7 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 ## Podium
 
-![](img/podium.jpg "BTT5 podium")
+![](img/podium.jpg "BTT6 podium")
 
 ## Mappools
 
