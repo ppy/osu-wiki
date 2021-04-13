@@ -16,10 +16,10 @@ The Offset Wizard will then open, playing the song that was previously playing i
 **Using the Offset Wizard to calibrate your Universal Offset**:
 
 1. Listen carefully to the song and the metronome playing together.
-2. Start adjusting the universal offset up or down, using the `Up arrow` or `Down arrow` keys, or the `Scroll wheel`.
-   - If the hitsounds seem like they are playing too early in-game, you will need to *decrease* your universal offset.
-   - If the hitsounds seem like they are playing too late in-game, you will need to *increase* your universal offset.
+2. Start adjusting the Universal Offset up or down, using the `Up arrow` or `Down arrow` keys, or the `Scroll wheel`.
+   - If the hitsounds seem like they are playing too early in-game, you will need to *decrease* your Universal Offset.
+   - If the hitsounds seem like they are playing too late in-game, you will need to *increase* your Universal Offset.
 3. Adjust it until you hear the metronome line up perfectly with the song, using the scrolling bar on the screen to help you.
-4. Once you have successfully calibrated your universal offset, press the `Back` button at the bottom left to exit the offset wizard.
+4. Once you have successfully calibrated your Universal Offset, press the `Back` button at the bottom left to exit the Offset Wizard.
 
 If the metronome feels too fast or too slow for the song, you may want to enable either `Half tick` or `Double tick` in the top left of the screen to make things easier.
