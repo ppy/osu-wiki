@@ -8,7 +8,7 @@ tags:
 
 ![BTT6 logo](img/logo.jpg)
 
-The **Beginners' Taiko Tournament Season 6** (***BTT6***) is a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) and ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263). Only players ranked #10,000 and above can participate. It is the sixth installment of the Beginners' Taiko Tournament.
+The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) and ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263). Only players ranked #10,000 and above can participate. It was the sixth installment of the Beginners' Taiko Tournament.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ Generous donations from ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098
 
 ## Organisation
 
-The Beginners' Taiko Tournament Season 6 is run by various community members.
+The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -585,7 +585,7 @@ Sunday, 21 February 2021:
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/12EpuCD918BFSfmlIO0G-u1f7UPv78a5UGGesqa0t3Yc/edit#gid=2038944874)
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 - Only the top 64 player can proceed to the Group Stage
 
 | Seed | Player | Average rank |
