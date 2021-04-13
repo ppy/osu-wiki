@@ -93,15 +93,15 @@ The 3 Digit World Cup is run by various community members.
 | Australia ![][flag_AU] | ![][flag_SE] Sweden | **12:00 UTC** | 22:00 UTC+10 | 14:00 UTC+02 |
 | Finland ![][flag_FI] | ![][flag_CN] China | **13:00 UTC** | 16:00 UTC+03 | 21:00 UTC+08 |
 | France ![][flag_FR] | ![][flag_CA] Canada | **17:30 UTC** | 19:30 UTC+02 | 12:30 UTC-05 |
+| United States ![][flag_US] | ![][flag_RU] Russia | **18:00 UTC** | 12:00 UTC-06 | 22:00 UTC+04 |
 
 ### Sunday, 18 April 2021
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
 | South Korea ![][flag_KR] | ![][flag_GB] United Kingdom | **14:00 UTC** | 23:00 UTC+09 | 15:00 UTC+01 |
+| Poland ![][flag_PL] | ![][flag_XX] Countryless | **15:00 UTC** | 17:00 UTC+02 | 15:00 UTC+00 |
 | Brazil ![][flag_BR] | ![][flag_DE] Germany | **16:00 UTC** | 13:00 UTC-03 | 18:00 UTC+02 |
-| Poland ![][flag_PL] | ![][flag_XX] Countryless | **16:00 UTC** | 18:00 UTC+02 | 16:00 UTC+00 |
-| United States ![][flag_US] | ![][flag_RU] Russia | **17:00 UTC** | 11:00 UTC-06 | 21:00 UTC+04 |
 
 ## Mappools
 
