@@ -98,6 +98,10 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 | **O** | ![][flag_CA] [Garfield\_osu](https://osu.ppy.sh/users/9743947) | ![][flag_DE] [AngeliumX](https://osu.ppy.sh/users/15000256) | ![][flag_UA] [Kargondz](https://osu.ppy.sh/users/9919528) | ![][flag_SG] [DEUS\_LUDORUM](https://osu.ppy.sh/users/10360747) |
 | **P** | ![][flag_BE] [onixir](https://osu.ppy.sh/users/2993521) | ![][flag_AR] [Cata](https://osu.ppy.sh/users/5958063) | ![][flag_RU] [Prade](https://osu.ppy.sh/users/9318565) | ![][flag_FR] [Bambinex](https://osu.ppy.sh/users/18818124) |
 
+## Podium
+
+![](img/podium.jpg "BTT5 podium")
+
 ## Mappools
 
 ### Grand Finals
