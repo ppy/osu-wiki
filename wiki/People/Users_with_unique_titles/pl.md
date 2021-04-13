@@ -89,10 +89,13 @@ Jedną z nagród w większości oficjalnych konkursów w tworzeniu beatmap jest 
 
 Od 2020 roku wkład [nominatorów beatmap](/wiki/People/The_Team/Beatmap_Nominators) i członków [zespołu zapewniania jakości](/wiki/People/The_Team/Nomination_Assessment_Team) w rozwój systemu rankingowego jest nagradzany tytułem **Elite Nominator**. Jest on przyznawany na początku każdego roku za całoroczne działania i odbierany przy odejściu użytkowników z wyżej wymienionych grup.
 
-- ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437)
+- ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+- ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
+- ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
+- ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
 
 ### Zwycięzcy konkursów w tworzeniu beatmap „Aspire”
 
@@ -165,9 +168,11 @@ Poniżsi użytkownicy otrzymali tytuł **osu! Hall of Famer** za rozgrywkę na w
 
 Twórcy scenorysów, którzy wykazali się niezwykłym talentem i ponadprzeciętnymi umięjętnościami w tworzeniu scenorysów, otrzymali tytuł **Elite Storyboarder**.
 
+- ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366)
 - ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
 - ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349)
+- ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669)
 
 ### Rozgrywka
 
@@ -186,12 +191,14 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | Użytkownik | Tytuł |
 | :-- | :-- |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
+| ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | osu! Paragon |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
@@ -212,7 +219,9 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | :-- | :-- |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
+| ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366) | Elite Storyboarder |
 | ![][flag_US] [11t](https://osu.ppy.sh/users/2112092) | Elite Storyboarder |
+| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) | Elite Nominator |
 | ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010) | osu! Champion |
 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | osu!mania Champion |
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | Featured Artist |
@@ -225,9 +234,8 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229) | Elite Mapper |
 | ![][flag_US] [BigMoist10](https://osu.ppy.sh/users/20787676) | Featured Artist |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
-| ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Elite Nominator |
 | ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | osu! Champion |
-| ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant |
+| ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant / osu! Paragon |
 | ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | Featured Artist |
 | ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) | osu!artist |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | osu! Hall of Famer |
@@ -237,7 +245,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Elite Mapper |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | Featured Artist |
-| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator |
+| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator II |
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
 | ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349) | Elite Storyboarder |
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | Elite Mapper |
@@ -253,7 +261,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
-| ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Elite Nominator |
+| ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Elite Nominator II |
 | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | osu!artist |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Elite Mapper |
 | ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603) | osu! Champion |
@@ -264,6 +272,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
 | ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824) | osu!mania Champion |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Mapper II |
 | ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
 | ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
 | ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | Elite Mapper |
@@ -272,10 +281,11 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | osu!mania Champion |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | Elite Mapper |
+| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Elite Nominator |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
-| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Elite Nominator |
+| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Elite Nominator II |
 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626) | osu!catch Champion |
 | ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) | Elite Mapper: Aspirant |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
@@ -316,13 +326,15 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
 | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | osu!artist |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | Featured Artist |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) | Elite Nominator |
 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | osu!taiko Champion |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
-| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
+| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist / Beatmap Nominator |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | Elite Mapper |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
 | ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) | osu!artist |
+| ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669) | Elite Storyboarder |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Elite Mapper |
@@ -334,6 +346,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chiny"
 [flag_DE]: /wiki/shared/flag/DE.gif "Niemcy"
+[flag_DK]: /wiki/shared/flag/DK.gif "Dania"
 [flag_ES]: /wiki/shared/flag/ES.gif "Hiszpania"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
 [flag_FR]: /wiki/shared/flag/FR.gif "Francja"
