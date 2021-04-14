@@ -388,7 +388,7 @@ Playing the game or doing something else will let the client catch up in the bac
 
 **This is a special feature called *smoke* and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
 
-The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
+The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu!` section of the `Change keyboard bindings` options dialog.
 
 #### How do I save my own replay of a score I just made?
 
@@ -989,7 +989,7 @@ If a support team member has asked you for these logs, here's how to get them:
 5. Click the restart button that appears at the bottom of the screen if you made any changes to the release stream to apply them.
 6. Go to the `Options`menu again and click `Open osu! folder`.
 7. Find the `Logs` directory in the window that opens.
-8. Select the log file required (the support representative will tell you which), and attach it to your ticket or upload it to a public filesharing service.
+8. Select the log file required (the support representative will tell you which), and attach it to your support ticket or forum post.
 
 ### Event Viewer
 
@@ -1008,7 +1008,7 @@ If a support team member has asked you to find a crash log in Event Viewer, here
 5. On the filter window that opens, make sure you have the Error box checked and press OK.
 6. Press `Ctrl` + `F` and type osu! in the find box. It will find the first crash log from osu!.
 7. Go into the `Details` tab, expand `System` and`Event Data` by clicking on each of them.
-8. Copy the text from there and paste it into your forum post.
+8. Copy the text from there and paste it into your support ticket or forum post.
 
 ### Frame Time Graph
 
@@ -1023,5 +1023,5 @@ If a support team member has asked you to take a video or screenshot with the Fr
 1. Open osu!.
 2. Press `Ctrl` + `F11` to open the Frame Time Graph.
 3. Trigger or wait for the performance issue to occur.
-4. Take a screenshot by pressing `Shift` + `F12`. This will open a browser tab with the screenshot in it, copy and paste the link provided into your forum post.
+4. Take a screenshot by pressing `Shift` + `F12`. This will open a browser tab with the screenshot in it, copy and paste the link provided into your support ticket or forum post.
 5. Close the Frame Time Graph the same way you opened it, by pressing `Ctrl` + `F11`.
