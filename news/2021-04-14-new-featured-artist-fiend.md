@@ -22,7 +22,7 @@ Anyone who hasn't heard **fiend** is missing out. It's the honest truth. If you 
 
 ### 2DF2
 
-Play through [this map of short the bonus track](https://osu.ppy.sh/beatmapsets/1288865) mapped by [0ppInOsu](https://osu.ppy.sh/users/12551840)!
+Play through [this map of the short bonus track](https://osu.ppy.sh/beatmapsets/1288865) mapped by [0ppInOsu](https://osu.ppy.sh/users/12551840)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
