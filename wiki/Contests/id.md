@@ -29,7 +29,7 @@ Sebuah daftar kontes yang tidak disebutkan pada [Halaman Kontes Komunitas](https
 Catatan:
 
 - Pemenang MBC #1 sampai #13 mendapatkan gelar forum *Elite Mapper*.
-- Beatmapset yang menang pada MBC #1 sampai #2 (termasuk MBC #6) dibundel dengan [osu!installer](https://osu.ppy.sh/home/download). Mereka telah digantikan oleh beatmap lainnya.
+- Beatmapset yang memenangi MBC #1 sampai #12 (tidak termasuk MBC #6) dibundel dengan [osu!installer](https://osu.ppy.sh/home/download). Sekarang, beatmap-beatmap tersebut telah digantikan oleh beatmap lainnya.
 - Monthly Beatmapping Contest sesudah #13 memiliki premis dan skema hadiah yang berbeda dari kontes-kontes sebelumnya seperti yang dijelaskan pada artikel [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest).
 
 ## Aspire
