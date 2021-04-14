@@ -25,13 +25,13 @@ Anyone who hasn't heard **fiend** is missing out. It's the honest truth. If you 
 Play through [this map of the short bonus track](https://osu.ppy.sh/beatmapsets/1288865) mapped by [0ppInOsu](https://osu.ppy.sh/users/12551840)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/156/FEVER%20DREAM%2Ffiend%20-%202DF2%20%28real%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Disconnect
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/156/FEVER%20DREAM%2Ffiend%20-%20Disconnect.mp3" type="audio/mpeg">
 </audio>
 
 ---
