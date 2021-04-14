@@ -305,6 +305,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) | ![][flag_PT] [Just2Gud](https://osu.ppy.sh/users/4430263) | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
 | [Beginners' Taiko Tournament 4](BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
 | [Beginners' Taiko Tournament 5](BTT/5) | 2020-01-25 | 2020-03-15 | ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252) | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) |
+| [Beginners' Taiko Tournament 6](BTT/6) | 2021-02-06 | 2021-04-04 | ![][flag_US] [-Schwarts](https://osu.ppy.sh/users/4673649) | ![][flag_CA] [Garfield\_osu](https://osu.ppy.sh/users/9743947) | ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889) |
 
 ### ![](/wiki/shared/mode/taiko.png) 3 Digit Taiko World Cup
 
