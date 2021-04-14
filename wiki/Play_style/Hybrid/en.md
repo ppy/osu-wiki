@@ -9,7 +9,7 @@ tags:
 
 # Hybrid
 
-**Hybrid** is a tapping style for [osu!standard](/wiki/Game_mode/osu!) in which players click circles, slide sliders, and spin spinners by using a combination of [single-tapping](/wiki/Play_style/Single-tapping) and/or [alternating](/wiki/Play_style/Alternating). This style can be found from players of all skill-levels and the skill required to execute it can vary from beatmap to beatmap and variation to variation.
+**Hybrid** is a tapping style for [osu!](/wiki/Game_mode/osu!) game mode in which players click circles, slide sliders, and spin spinners by using a combination of [single-tapping](/wiki/Play_style/Single-tapping) and/or [alternating](/wiki/Play_style/Alternating). This style can be found from players of all skill-levels and the skill required to execute it can vary from beatmap to beatmap and variation to variation.
 
 ## Usage/techniques
 

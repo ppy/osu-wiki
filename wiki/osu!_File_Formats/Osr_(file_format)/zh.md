@@ -19,16 +19,16 @@
 
 | 数据类型 | 描述 |
 | :-- | :-- |
-| Byte | 该回放的游戏模式（0 = osu!Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania） |
+| Byte | 该回放的游戏模式（0 = osu!, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania） |
 | Integer | 创建该回放文件的游戏版本（例如：20131216） |
 | String | 该地图的 MD5 hash 值 |
 | String | 玩家名称 |
 | String | 回放文件的 MD5 hash（包含回放的确定属性） |
 | Short | “300” 判定的数量 |
-| Short | “100” 判定（osu!standard），“150” 判定（Taiko），“100” 判定（CTB），“100” 判定（osu!mania）的数量 |
-| Short | “50” 判定（osu!standard），小水果（CTB），“50” 判定（osu!mania）的数量 |
-| Short | “激”判定（osu!standard），彩色 “300” 判定（osu!mania）的数量 |
-| Short | “喝”判定（osu!standard），“200” 判定（osu!mania）的数量 |
+| Short | “100” 判定（osu!），“150” 判定（Taiko），“100” 判定（CTB），“100” 判定（osu!mania）的数量 |
+| Short | “50” 判定（osu!），小水果（CTB），“50” 判定（osu!mania）的数量 |
+| Short | “激”判定（osu!），彩色 “300” 判定（osu!mania）的数量 |
+| Short | “喝”判定（osu!），“200” 判定（osu!mania）的数量 |
 | Short | Miss 的数量 |
 | Integer | 结算界面显示的总分 |
 | Short | 结算界面显示的最大连击数 |

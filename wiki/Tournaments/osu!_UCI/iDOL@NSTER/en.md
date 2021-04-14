@@ -20,7 +20,7 @@ tags:
 
 The tournament took place on Sunday, May 19, 2019 from roughly 12 to 10 p.m. It was located in the UCI Student Center (full address: 311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB.
 
-The osu!standard Loser's Finals and Grand Finals matches were livestreamed to the [front page of Twitch](https://www.twitch.tv), and at one point over 11,000 people were watching, making this one of osu! UCI's most popular events so far.
+The osu! Loser's Finals and Grand Finals matches were livestreamed to the [front page of Twitch](https://www.twitch.tv), and at one point over 11,000 people were watching, making this one of osu! UCI's most popular events so far.
 
 ## Prizes
 

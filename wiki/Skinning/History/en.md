@@ -349,7 +349,7 @@ Notes:
 
 Notes:
 
-- This is for [osu!standard](/wiki/osu!standard) only.
+- This is for [osu!](/wiki/Game_modes/osu!) game mode only.
 - This is slider velocity dependent
 
 [true]: /wiki/shared/true.png

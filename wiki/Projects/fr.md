@@ -60,7 +60,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
   - [GitHub](https://github.com/jkapi/Osu-Replays)
 - [Remote osu! Keyboard](https://osu.ppy.sh/community/forums/topics/391981?n=1)—Une application android qui permet à votre téléphone d'agir comme un clavier.
 
-#### osu!standard
+#### osu!
 
 - [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716)—Détermine la vitesse à laquelle vous appuyez.
 
@@ -93,7 +93,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
   - [GitHub](https://github.com/Tom94/AiModtpDifficultyCalculator)
 - [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059)—Un outil qui stabilise la vitesse de slider après les changements de BPM.
 
-#### osu!standard
+#### osu!
 
 - [osu! Slider Creator Tool](https://osu.ppy.sh/community/forums/topics/536978)—Traduit les formes dessinnées en sliders.
   - [GitHub](https://github.com/kamisenpaii/slider-creator)
@@ -113,7 +113,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
 - [Hitsound Detective](https://osu.ppy.sh/community/forums/topics/488175)—Vérifie s'il y a des hitsounds non-utilisés dans les autres difficultés (basé sur la difficulté sélectionnée).
 - [Keysound Maker](https://osu.ppy.sh/community/forums/topics/488175)—Crée des keysounds pour osu!mania.
   - [GitHub](https://github.com/dudehacker/Osu-Keysound-Maker)
-- [lua-mania](https://osu.ppy.sh/community/forums/topics/465914)—Convertit les beatmaps osu!standard, osu!taiko et osu!catch en beatmaps osu!mania.
+- [lua-mania](https://osu.ppy.sh/community/forums/topics/465914)—Convertit les beatmaps osu!, osu!taiko et osu!catch en beatmaps osu!mania.
   - [GitHub](https://github.com/semyon422/lua-mania)
 - [Magic Copy](https://osu.ppy.sh/community/forums/topics/488175)—Outil qui copie les hitsounds d'une difficulté à une autre (fonctionne avec les hitsounds par défaut et personnalisés).
 - [Note Density calculator](https://osu.ppy.sh/community/forums/topics/488175)—Liste la distribution des keys dans les maps osu!mania.
@@ -224,7 +224,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
 - [Beatmap URL Formatter](https://osu.ppy.sh/community/forums/topics/55305)—Programme qui formatte les URL de beatmaps en BBCode pour les poster.
 - [BloodyFox \[Android\]](https://osu.ppy.sh/community/forums/topics/475693)—Rechercher et télécharger des beatmaps/Voir les statistiques d'un joueur.
 - [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311)—Trouve le dossier osu! et rapporte son chemin. Utile pour les développeurs travaillant en IO sur leurs applications
-- [o!subscribe](https://osu.ppy.sh/community/forums/topics/587110)—Un service qui vous permet de vous abonner à vos créateurs favoris grâce à Discord.
+- [osu!ubscribe](https://osu.ppy.sh/community/forums/topics/587110)—Un service qui vous permet de vous abonner à vos créateurs favoris grâce à Discord.
   - [GitHub](https://github.com/christopher-dG/gosubscribe)
 - [osu! mouse simulator for Leap](https://osu.ppy.sh/community/forums/topics/139360)—Un emballage du mouvement du pointeur de souris pour Leap.
   - [GitHub](https://github.com/Brejlounek/Leap-Input)

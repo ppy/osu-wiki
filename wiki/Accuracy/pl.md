@@ -8,11 +8,11 @@ Precyzja to wartość określająca umiejętności gracza w śledzeniu rytmu. Te
 
 ## Tryby gry
 
-### ![](/wiki/shared/mode/osu.png) osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!
 
-![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 300 \* liczba 300) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 300)](img/accuracy_standard.png "Wzór na precyzję dla osu!standard")
+![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 300 \* liczba 300) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 300)](img/accuracy_osu.png "Wzór na precyzję dla osu!")
 
-W trybie osu!standard wartości dla jednego obiektu są następujące:
+W trybie osu! wartości dla jednego obiektu są następujące:
 
 ```
 300 -> 300 / 300 = 1   = 100.00%
@@ -47,7 +47,7 @@ W trybie osu!catch wszystkie obiekty mają taką samą wartość oprócz bananó
 
 ![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 200 \* liczba 200 + 300 \* liczba 300 + 300 \* liczba MAX) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 200 + liczba 300 + liczba MAX)](img/accuracy_mania.png "Wzór na precyzję dla osu!mania")
 
-Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!standard](#osu!standard).
+Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!](#osu!).
 
 ## Wykres wyniku
 
@@ -73,7 +73,7 @@ Wskaźnik dokładności określa powtarzalność gracza dla każdego trafienia, 
 
 ### Kręcenie spinnerami
 
-*Ważne: te wartości są dostępne tylko dla trybu [osu!standard](/wiki/Game_mode/osu!) i nie są zachowywane po wyjściu z gry.*
+*Ważne: te wartości są dostępne tylko dla trybu [osu!](/wiki/Game_mode/osu!) i nie są zachowywane po wyjściu z gry.*
 
 W etykiecie wykresu wyniku znajduje się kilka informacji odnośnie kręcenia spinnerami na danej beatmapie.
 

@@ -1,5 +1,6 @@
 ---
 stub: true
+outdated: true
 tags:
   - internet relay chat
   - IRC

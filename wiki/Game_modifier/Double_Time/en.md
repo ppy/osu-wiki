@@ -19,13 +19,13 @@ tags:
 - Abbreviation: DT
 - Type: Difficulty Increasing
 - Score Multiplier:
-  - ![][o!s]: 1.12x
-  - ![][o!t]: 1.12x
-  - ![][o!c]: 1.06x
-  - ![][o!m]: 1.00x
+  - ![][osu!]: 1.12x
+  - ![][osu!taiko]: 1.12x
+  - ![][osu!catch]: 1.06x
+  - ![][osu!mania]: 1.00x
 - Default shortcut key: `D`
 - Caption: `Zoooooooooom.`
-- Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variant: [Nightcore](/wiki/Game_modifier/Nightcore)
 
 ## Description
@@ -34,7 +34,7 @@ tags:
 
 The **Double Time** mod is a [game modifier](/wiki/Game_modifier) that attempts to increase the difficulty of a [beatmap](/wiki/Beatmap) by increasing their overall speed (BPM) by 150% (1.5x), reducing the length of the song by 33%, and increasing the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), and [health (HP)](/wiki/Beatmapping/Health).
 
-The Double Time mod is widely regarded as one of the best mods used for gaining large amounts of [performance points](/wiki/Performance_points) on easier difficulties in [osu!standard](/wiki/Game_mode/osu!).
+The Double Time mod is widely regarded as one of the best mods used for gaining large amounts of [performance points](/wiki/Performance_points) on easier difficulties in [osu!](/wiki/Game_mode/osu!) game mode.
 
 ### osu!taiko
 
@@ -55,7 +55,7 @@ Although this mod does greatly increase the hyperdash leniency, making fruits re
 
 ![Changed values](img/GM_DT.jpg "Screenshot of beatmap values being changed by the Double Time mod")
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

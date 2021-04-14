@@ -220,7 +220,7 @@ The background colour is Purple and the lights will darken depending on current 
 
 ## Song list
 
-**_[Click for full list](Song_List)_**
+***[Click for full list](Song_List)***
 
 ## Scoring
 
@@ -322,7 +322,7 @@ The following will not increase or reset the score multiplier:
 
 ### Life meter
 
-Unlike the osu!standard, the lifebar is different in osu! stream as it is based on gameplay mode.
+Unlike the osu! game mode, the lifebar is different in osu!stream as it is based on gameplay mode.
 
 In **Easy Mode, lifebar is completely removed**.
 
@@ -364,7 +364,7 @@ Because of the difficulty in obtaining licensing for the said song.
 
 Head to the "Store" section in the game or pressing the "Download more songs..." at the "Play" section.
 
-The beatmaps are in bundle, and some are priced. Make sure to look out of the price tag before buying to prevent _accidental purchase_.
+The beatmaps are in bundle, and some are priced. Make sure to look out of the price tag before buying to prevent *accidental purchase*.
 
 ### What is the theme song of osu!stream?
 

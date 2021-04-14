@@ -54,7 +54,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 **interface/UI changes**
 
 - Thumbnail support.
-  - Must be enabled by the user in the [Options](/wiki/Options) and be supported by the skin in the [skin.ini](/wiki/skin.ini) file.
+  - Must be enabled by the user in the [Options](/wiki/Options) and be supported by the skin in the skin.ini file.
 - Changes star rating display to scaling `star.png` instead of partially widthed `star.png`.
 - Panel text alignment optimisations.
 
@@ -65,7 +65,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 - `fruit-ryuuta.png` will no longer work from this point forward.
 - New catcher states (and images).
 - New osu!catch specific combobursts (`comboburst-fruits.png`).
-  - osu!standard combobursts will no longer be used for osu!catch.
+  - osu! combobursts will no longer be used for osu!catch.
 
 ### 2.4
 
@@ -201,13 +201,13 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Values: `0` or `1`
   - Default: `0`
   - Notes:
-    - The default sliderball will always get tinted, if enabled in [options](/wiki/options).
+    - The default sliderball will always get tinted, if enabled in [options](/wiki/Options).
 - `ComboBurstRandom`
   - Question: Should combobursts be shown in a random order?
   - Values: `0` or `1`
   - Default: `0`
   - Notes:
-    - This is not for [osu!taiko](/wiki/osu!taiko).
+    - This is not for [osu!taiko](/wiki/Game_mode/osu!taiko).
 - `CursorCentre:`
   - Question: Should the cursor have an origin at the centre of the image?
   - Values: `0` or `1`
@@ -232,27 +232,27 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Value: *comma-split list with positive integers*
   - Default: *(empty)*
   - Notes:
-    - This is not for [osu!taiko](/wiki/osu!taiko).
+    - This is not for [osu!taiko](/wiki/Game_mode/osu!taiko).
     - This only affects the combo burst sounds, not the milestones.
 - `HitCircleOverlayAboveNumber:`
   - Question: Should the hitcircleoverlay be drawn above the numbers?
   - Values: `0` or `1`
   - Default: `1`
   - Notes:
-    - This is for [osu!standard](/wiki/osu!standard) only.
+    - This is for [osu!](/wiki/Game_mode/osu!) only.
     - Old command: `HitCircleOverlayAboveNumer` (with typo) still works for legacy support
 - `LayeredHitSounds:`
   - Question: Should the hitnormal sounds always be played?
   - Values: `0` or `1`
   - Default: `1`
   - Notes:
-    - This is not for [osu!taiko](/wiki/osu!taiko).
+    - This is not for [osu!taiko](/wiki/Game_mode/osu!taiko).
 - `SliderBallFlip:`
   - Question: If the sliderball is reversed, should the sliderball sprite flip horizontally?
   - Values: `0` or `1`
   - Default: `1`
   - Notes:
-    - This is for [osu!standard](/wiki/osu!standard) only.
+    - This is for [osu!](/wiki/Game_mode/osu!) only.
 - `SpinnerFadePlayfield:`
   - Question: Should the spinner add black bars during spins?
   - Values: `0` or `1`
@@ -331,7 +331,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Value: *RGB*
   - Default: `0,0,0`
   - Notes:
-    - This is for [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch) only..
+    - This is for [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch) only..
     - This tints the numbers shown on the input overlay.
 - `MenuGlow:`
   - Question: What colour should the spectrum bars in the main menu be coloured in?
@@ -344,20 +344,20 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Value: *RGB*
   - Default: `2,170,255`
   - Notes:
-    - This is for [osu!standard](/wiki/osu!standard).
-    - Default sliderball's colour if tinting is disabled in [options](/wiki/options).
+    - This is for [osu!](/wiki/Game_mode/osu!).
+    - Default sliderball's colour if tinting is disabled in [options](/wiki/Options).
 - `SliderBorder:`
   - Question: What colour should be used for the sliderborders?
   - Value: *RGB*
   - Default: `255,255,255`
   - Notes:
-    - This is for [osu!standard](/wiki/osu!standard) only.
+    - This is for [osu!](/wiki/Game_mode/osu!) only.
 - `SliderTrackOverride:`
   - Question: What colour should all sliderbodies be coloured in?
   - Value: *RGB*
   - Default: *use current combo colour*
   - Notes:
-    - This is for [osu!standard](/wiki/osu!standard) only.
+    - This is for [osu!](/wiki/Game_mode/osu!) only.
     - Using this will make all slider track colours the same.
 - `SongSelectActiveText:`
   - Question: What colour should the text of the active panel be tinted in?
