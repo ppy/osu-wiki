@@ -83,7 +83,7 @@ When writing out game modifiers for tournament articles, they must instead use u
 Gameplay elements must not be capitalised, unless they act as a title for a link that points to the article. The following is an example:
 
 ```markdown
-In osu!, beatmaps are composed of three different gameplay elements: hit circles, sliders, and spinners.
+In the osu! game mode, beatmaps are composed of three different gameplay elements: hit circles, sliders, and spinners.
 ```
 
 ### Language names
