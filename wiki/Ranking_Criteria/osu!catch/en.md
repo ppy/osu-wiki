@@ -134,7 +134,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Hyperdashes must have at least a 125 ms gap between their two objects.**
-- **Hyperdashes cannot be used on individual drops and/or slider repetitions.** The accuracy and control required is unreasonable at this level and can create a situation where the player potentially fails to read the sliderpath.
+- **Hyperdashes cannot be used on individual drops and/or slider repetitions.** The accuracy and control required is unreasonable at this level and can create a situation where the player potentially fails to read the slider path.
 - **Hyperdashes of different beat snap must not be used between consecutive fruits.** For example, a 1/2 hyperdash followed by a 1/4 hyperdash.
 - **Hyperdashes that are basic-snapped must not be used more than two times between consecutive fruits.**
 - **Hyperdashes that are higher-snapped must not be used in conjunction with any other dashes or hyperdashes.**
