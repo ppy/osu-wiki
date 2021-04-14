@@ -38,6 +38,8 @@ Play through [this map of short the bonus track](https://osu.ppy.sh/beatmapsets/
 
 As per usual, you can find a few more beats to fawn over on [**fiend**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/156), all with timing handled by us and mapping soon-to-be-handled by none other than you.
 
-What could be better than **fiend**? "Two fiends" is the answer we're looking for, but if you answered "a new Featured Artist coming this Saturday", we'll give you partial credit. Stick around the [@osugame Twitter](https://twitter.com/osugame) for news on that and we'll see you soon.
+And before anyone mentions it, we unfortunately couldn't pick up the song *Morrissey* due to unlicensed samples. Sometimes that's just how the cookie crumbles, sorry!
+
+Anyway, what could be better than **fiend**? "Two fiends" is the answer we're looking for, but if you answered "a new Featured Artist coming this Saturday", we'll give you partial credit. Stick around the [@osugame Twitter](https://twitter.com/osugame) for news on that and we'll see you soon.
 
 —pishifat
