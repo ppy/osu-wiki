@@ -8,7 +8,7 @@ Sebuah daftar kontes yang tidak disebutkan pada [Halaman Kontes Komunitas](https
 
 *Halaman utama: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
-| Kontes No. | Beatmap | Mode | Mapper | Hasil | Skor |
+| Nomor Kontes | Beatmap | Mode | Mapper | Hasil | Skor |
 | :-: | :-- | :-: | :-- | :-- | :-- |
 | 1 | [Rostik - Liquid (Paul Rosenthal Remix)](https://osu.ppy.sh/beatmapsets/123593) | ![osu!standard][o!s] | [Charles445](https://osu.ppy.sh/users/85000) | [Hasil](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) | [Skor #1](https://osu.ppy.sh/p/contestresults?c=7) |
 | 2 | [cYsmix feat. Emmy - Tear Rain](https://osu.ppy.sh/beatmapsets/140662) | ![osu!standard][o!s] | [jonathanlfj](https://osu.ppy.sh/users/270377) | [Hasil](https://osu.ppy.sh/home/news/2014-01-06-monthly-beatmapping-contest-2-results) | [Skor #2](https://osu.ppy.sh/p/contestresults?c=8) |
@@ -28,7 +28,7 @@ Sebuah daftar kontes yang tidak disebutkan pada [Halaman Kontes Komunitas](https
 
 Catatan:
 
-- Pemenang MBC #1 sampai #13 mendapatkan gelar *Elite Mapper* di forum.
+- Pemenang MBC #1 sampai #13 mendapatkan gelar forum *Elite Mapper*.
 - Beatmapset yang menang pada MBC #1 sampai #2 (termasuk MBC #6) dibundel dengan [osu!installer](https://osu.ppy.sh/home/download). Mereka telah digantikan oleh beatmap lainnya.
 - Monthly Beatmapping Contest sesudah #13 memiliki premis dan skema hadiah yang berbeda dari kontes-kontes sebelumnya seperti yang dijelaskan pada artikel [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest).
 
@@ -36,20 +36,20 @@ Catatan:
 
 Aspire adalah sebuah kontes beatmapping dengan satu pengecualian khusus, mereka tidak terikat pada [Ranking Criteria](/wiki/Ranking_Criteria).
 
-| Kontes No. | Beatmap | Mode | Mapper | Hasil | Skor |
+| Nomor Kontes | Beatmap | Mode | Mapper | Hasil | Skor |
 | :-: | :-- | :-: | :-- | :-- | :-- |
 | Aspire 2016 | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438) | [Hasil](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) | [Skor #1](https://osu.ppy.sh/p/contestresults?c=22) |
 
 Catatan:
 
-- Pemenang kontes-kontes Aspire akan mendapatkan gelar "Elite Mapper: Aspirant" di forum dan sebuah lencana profil Aspire.
+- Pemenang kontes-kontes Aspire akan mendapatkan gelar forum "Elite Mapper: Aspirant" dan sebuah lencana profil Aspire.
 - "Monthly Beatmapping Contest #6" merupakan sebuah kontes Aspire, tetapi bukan merupakan bagian dari daftar ini (kunjungi artikel Monthly Beatmapping Contest).
 
 ## Mapping With Rewards
 
 Mapping With Rewards merupakan sebuah kontes yang diadakan tanpa tenggat waktu yang ketat dan hanya menampilkan satu pemenang pada masing-masing dari tiga lagu yang tersedia per putaran.
 
-| Kontes No. | Beatmap | Mode | Mapper | Hasil | Skor |
+| Nomor Kontes | Beatmap | Mode | Mapper | Hasil | Skor |
 | :-: | :-- | :-: | :-- | :-- | :-- |
 | 1.1 | [cYsmix - Manic](https://osu.ppy.sh/beatmapsets/361175) | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438) |  |  |
 | 1.2 | [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950) | ![osu!standard][o!s] | [Guy](https://osu.ppy.sh/users/91738) |  |  |
@@ -135,7 +135,7 @@ Community Choice adalah penerus dari kontes "Best of".
 
 ## Community Mapping Contest
 
-Community Mapping Contest memungkinkan penggunanya untuk mengirim entri untuk tingkat kesulitan apa pun dari mode permainan apa pun (osu!mania dibagi menjad dua yaitu 4K dan 7K). Melalui [daftar Kontes Komunitas](https://osu.ppy.sh/community/contests), pengguna-pengguna dapat memilih entri favorit mereka. Para pemenang dikompilasi menjadi sebuah [beatmapset](https://osu.ppy.sh/beatmapsets/587388).
+Community Mapping Contest memungkinkan penggunanya untuk mengirim entri untuk tingkat kesulitan apa pun dari mode permainan mana pun (osu!mania dibagi menjadi dua key mode yaitu 4K dan 7K). Melalui [daftar Kontes Komunitas](https://osu.ppy.sh/community/contests), pengguna-pengguna dapat memilih entri favorit mereka. Para pemenang dikompilasikan menjadi sebuah [beatmapset](https://osu.ppy.sh/beatmapsets/587388).
 
 ## osu!idol
 
@@ -145,7 +145,7 @@ osu!idol adalah sebuah kontes dimana para kontestan baik solo maupun duet bernya
 
 | Posisi | Hasil | Artis orisinal |
 | :-: | :-- | :-- |
-| ![Gold Crown][GCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [FictionJunction](https://vimeo.com/61327345) |
+| ![Gold Crown][GCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | FictionJunction |
 | ![Silver Crown][SCrown] | [Sharlo](https://osu.ppy.sh/users/1622450) - 緋色月下、狂咲ノ絶 -1st Anniversary Remix- | EastNewSound |
 | ![Bronze Crown][BCrown] | [MissTitannia](https://osu.ppy.sh/users/4490361) - *tidak diketahui* | *tidak diketahui* |
 
@@ -158,9 +158,9 @@ osu!idol adalah sebuah kontes dimana para kontestan baik solo maupun duet bernya
 
 | Posisi | Hasil | Artis orisinal |
 | :-: | :-- | :-- |
-| ![Gold Crown][GCrown] | [Sagi](https://osu.ppy.sh/users/491799) - [Systematic Love](http://flan.s-ul.eu/OQXT0SsA) | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8) |
-| ![Silver Crown][SCrown] | [CptHampton](https://osu.ppy.sh/users/3200587) - [Drumming Song](http://flan.s-ul.eu/ZCA8KxCl) | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
-| ![Bronze Crown][BCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Hyadain no Kakakata☆Kataomoi](http://flan.s-ul.eu/8w5u4phq) | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4) |
+| ![Gold Crown][GCrown] | [Sagi](https://osu.ppy.sh/users/491799) - Systematic Love | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8) |
+| ![Silver Crown][SCrown] | [CptHampton](https://osu.ppy.sh/users/3200587) - Drumming Song | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
+| ![Bronze Crown][BCrown] | [yealina](https://osu.ppy.sh/users/139551) - Hyadain no Kakakata☆Kataomoi | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4) |
 
 - [Arsip spreadsheet untuk semua tahapan (periksa berdasarkan tab di bawah spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
 - [Postingan berita](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)
@@ -177,7 +177,7 @@ Kontes-kontes tidak resmi yang diselenggarakan oleh komunitas.
 
 ### Pending Cup
 
-Pending Cup adalah sebuah kontes mapping di mana peserta utamanya biasanya merupakan orang Tionghoa. Pending Cup mendorong kreativitas dan prinsip-prinsip utama mapping, pada semua tingkat keahlian - khususnya mapper-mapper pemula.
+Pending Cup adalah sebuah kontes mapping di mana peserta utamanya biasanya berasal dari Cina. Pending Cup mendorong kreativitas dan prinsip-prinsip utama mapping, pada semua tingkat keahlian - khususnya mapper-mapper pemula.
 
 #### Pending Cup \#1 (2013)
 
