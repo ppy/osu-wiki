@@ -10,4 +10,4 @@ stub: true
 
 Each player's optimal universal offset value differs due to variations in their systems. A Universal Offset, other than `0`, should only be used when **all beatmaps** have a noticeable delay, otherwise a [local offset](/wiki/Glossary/Local_song_offset) should be used instead. An incorrectly determined Universal Offset will cause significant timing problems on all beatmaps.
 
-Follow [this guide](/wiki/Guides/How_to_Use_the_Offset_Wizard) for step-by-step instructions on how to set your Universal Offset to the correct value using the [offset wizard](/wiki/Options/Offset_Wizard).
+For step-by-step instructions on how to set the Universal Offset to the correct value, see [How to use the Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
