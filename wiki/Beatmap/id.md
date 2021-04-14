@@ -8,10 +8,10 @@ tags:
 
 Sebuah **beatmap** (terkadang disebut sebagai *beatmapset*) adalah sebuat set dari level gim ([tingkat kesulitan](#difficulty)) yang terdiri dari berbagai [hit object](/wiki/Hit_object) dan hampir selalu mewakili satu lagu. Beatmap juga mencakup komponen lainnya, semua dikemas dalam bentuk arsip dengan [ekstensi .osz](/wiki/osu!_File_Formats/Osz_(file_format)):
 
-- Lagu itu sendiri, disimpan dalam format MP3 atau Ogg.
+- Berkas lagu itu sendiri, yang tersimpan dalam format MP3 atau Ogg.
 - [background/gambar latar belakang](wiki/Beatmap/Background), atau sebuah video, atau berperan sebagai playfield.
 - [custom hitsounds](/wiki/Beatmapping/Hitsound) untuk aransemen dan umpan balik aural yang ditingkatkan (opsional).
-- [storyboard](/wiki/Storyboards) dengan grafis motion dan efek spesial, berfungsi sebagai latar cerita atau tema lagu (opsional).
+- [storyboard](/wiki/Storyboards) dengan efek-efek visual, berfungsi sebagai latar cerita atau tema lagu (opsional).
 - [custom skin](/wiki/Skinning), yang mengubah tampilan elemen antarmuka dan gameplay (opsional).
 
 *Catatan: beberapa fitur visual dan aural pada sebuah beatmap dapat dinonaktifkan melalui [visual settings](/wiki/Visual_Settings).*
@@ -30,7 +30,7 @@ Pembuat beatmap dapat [mengunggah](/wiki/Glossary#bss) kreasi mereka ke [daftar 
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
-Setelah submisi, sebuah beatmap akan mendapatkan tambahan tempat khusus untuk metadata, seperti deskripsi, bahasa, genre, dan penanda konten eksplisit yang dapat diubah oleh pembuat beatmap di situs web. Beatmap juga mendapatkan [judul teks](Title_Text), yang dapat diubah dengan meminta bantuan kepada [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
+Setelah di-submit, sebuah beatmap akan mendapatkan tambahan tempat khusus untuk metadata, seperti deskripsi, bahasa, genre, dan penanda konten eksplisit yang dapat diubah oleh pembuat beatmap di situs web. Beatmap juga mendapatkan [judul teks](Title_Text), yang dapat diubah dengan meminta bantuan kepada [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ### Identifikasi
 
@@ -59,13 +59,13 @@ Beberapa kategori mempunyai [kriteria submisi](/wiki/Ranking_Criteria) dan memun
 
 Beatmap dapat didapatkan melalui beberapa cara yang berbeda:
 
-### Daftar beatmap
+### Laman daftar beatmap
 
 Beatmap dari berbagai kategori tersedia pada [daftar beatmap](https://osu.ppy.sh/beatmapsets) di situs web. Beatmap-beatmap tersebut dapat diurutkan berdasarkan dengan keinginan dan kebutuhan pengguna (mis. beatmap [osu!taiko](/wiki/Game_mode/osu!taiko) yang dibuat oleh mapper tertentu), lalu diunduh satu per satu. [osu!supporter](/wiki/osu!supporter) memiliki beberapa filter tambahan yang tidak dimiliki oleh pengguna biasa, seperti fitur untuk melihat beatmap di mana mereka mencapai peringkat tertentu.
 
 ### osu!direct
 
-osu!direct merupakan daftar beatmap yang dibuat di dalam klien gim, yang digunakan sebagai akses cepat sekaligus menyediakan serangkaian fitur yang sama seperti daftar beatmap yang ada di situs web. Fitur ini hanya tersedia bagi pengguna [osu!supporter](/wiki/osu!supporter).
+osu!direct merupakan fitur yang dapat digunakan untuk mengakses daftar beatmap dari dalam klien gim, yang digunakan sebagai akses cepat sekaligus menyediakan serangkaian fitur yang sama seperti daftar beatmap yang ada di situs web. Fitur ini hanya tersedia bagi pengguna [osu!supporter](/wiki/osu!supporter).
 
 ### Paket beatmap
 
@@ -78,7 +78,7 @@ Beatmap yang ranked di bulan yang sama, atau mempunyai tema yang sama (mis. arti
 Terdapat sumber-sumber beatmap lainnya, yang **tidak diperiksa atau dioperasikan oleh osu!team**. Namun, sumber-sumber tersebut tersedia di forum dan diterima oleh komunitas. Sumber-sumber tersebut meliputi:
 
 - mirror beatmap pihak ketiga yang dihosting di luar platform;
-- paket dan kompilasi beatmap yang dibuat oleh pengguna biasa yang dibagikan melalui [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia"), seperti BitTorrent.
+- paket dan kompilasi beatmap yang dibuat oleh pengguna biasa yang dibagikan melalui [jaringan-jaringan peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia"), seperti BitTorrent.
 
 ## Beatmap dan komunitas
 
@@ -101,9 +101,9 @@ Peringkat 500 skor teratas di setiap tingkat kesulitan pada sebuah beatmap akan 
 
 *Artikel utama: [Beatmap Spotlight](/wiki/Beatmap_Spotlights)*
 
-Pada awalnya, komunitas osu! memiliki berbagai cara untuk menampilkan map-map yang unik dan luar biasa. Salah satu pendekatan yang pertama kali terdokumentasi merupakan grafik bulanan dan musiman yang terdiri dari subset kecil dari beatmap-beatmap yang telah ranked, di mana pemain-pemain teratas pada papan peringkat yang berisi skor total dari pemain pada seluruh map yang telah dimainkan ini akan mendapatkan [osu!supporter](/wiki/osu!supporter).
+Pada awalnya, komunitas osu! memiliki berbagai cara untuk menampilkan map-map yang unik dan luar biasa. Salah satu upaya yang dilakukan oleh anggota-anggota komunitas osu! untuk membuat beatmap-beatmap yang luar biasa tersebut menjadi lebih tersorot adalah dengan membuat Ranking Chart bulanan dan musiman yang terdiri dari subset kecil dari beatmap-beatmap yang telah ranked, di mana pemain-pemain teratas pada papan peringkat yang berisi skor total dari pemain pada seluruh map yang telah dimainkan ini akan mendapatkan [osu!supporter](/wiki/osu!supporter).
 
-Kemudian, sistem grafik berkembang menjadi [Beatmap Spotlights](/wiki/Beatmap_Spotlights), yang sekarang beroperasi dengan kondisi yang sama, tetapi daftar putar dilakukan di osu!lazer.
+Seiring berjalannya waktu, sistem Ranking Chart ini kemudian perlahan mulai berubah wujud menjadi [Beatmap Spotlight](/wiki/Beatmap_Spotlights) yang sama, tetapi daftar putar dilakukan di osu!lazer.
 
 ### Kontes beatmap
 
