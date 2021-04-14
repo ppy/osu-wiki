@@ -15,7 +15,7 @@ Hasil pemungutan suara yang ada akan menentukan apakah konten yang bersangkutan 
 
 - **Apabila suara-suara yang masuk dari anggota-anggota GMT dan NAT mencapai suatu konsensus (70% suara “yes” atau 70% suara “no”), konsensus tersebut menentukan apakah konten yang bersangkutan dinyatakan layak guna atau tidak.**
 - Apabila suara-suara yang masuk dari anggota-anggota GMT dan NAT tidak mencapai suatu konsensus, suara-suara yang masuk dari anggota-anggota BN turut dijadikan bahan pertimbangan.
-- Apabila total suara “yes” yang masuk dari anggota-anggota GMT, NAT, dan BN setelah digabungkan mencapai bilangan 70% atau lebih, konten yang bersangkutan dinyatakan layak guna.
+- Apabila total suara “yes” yang masuk dari anggota-anggota GMT, NAT, dan BN setelah digabungkan mencapai 70% atau lebih, konten yang bersangkutan dinyatakan layak guna.
 - Apabila total suara “yes” yang masuk dari anggota-anggota GMT, NAT, dan BN setelah digabungkan tidak melebihi 70%, konten yang bersangkutan dinyatakan tidak layak guna dan harus dihapus dengan segera dari lingkungan osu!.
 
 Segala keputusan yang tercapai bersifat **mutlak** dan tidak dapat diganggu gugat kecuali apabila terdapat intervensi lebih lanjut dari pihak osu!team.
@@ -28,7 +28,7 @@ Setelah 3 hari, ia mendapatkan kabar seputar gambar yang ia ajukan tersebut.
 
 Ternyata, hanya 52% anggota GMT dan NAT yang menyatakan bahwa gambar tersebut layak guna. 48% sisanya mengajukan keberatan.
 
-Karena suara-suara GMT dan NAT tidak mengarah pada suatu konsensus, maka (sesuai prosedur yang ada) suara-suara BN turut dijadikan bahan pertimbangan dalam kasus ini.
+Karena suara-suara GMT dan NAT tidak mengarah pada suatu konsensus, maka suara-suara yang masuk dari para anggota BN akan turut dijadikan bahan pertimbangan dalam kasus ini.
 
 Setelah dihitung ulang, rupanya hanya 67% dari keseluruhan anggota GMT, NAT, dan BN yang menyatakan bahwa gambar tersebut layak guna. 33% sisanya mengajukan keberatan.
 
