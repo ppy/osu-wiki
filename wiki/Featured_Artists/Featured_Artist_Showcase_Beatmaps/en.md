@@ -322,6 +322,8 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 - **[YUZUKINGDOM](https://osu.ppy.sh/home/news/2021-04-10-new-featured-artist-yuzukingdom)** (2021-04-10)
   - (![][osu!]) [YUZUKINGDOM - Roskill Lavender](https://osu.ppy.sh/beatmapsets/1410727#osu/2908440) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
+- **[fiend](https://osu.ppy.sh/home/news/2021-04-14-new-featured-artist-fiend)** (2021-04-14)
+  - (![][osu!]) [fiend - FEVER DREAM (feat. yzzyx)](https://osu.ppy.sh/beatmapsets/1405913#osu/2899195) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
 
 ## History
 
