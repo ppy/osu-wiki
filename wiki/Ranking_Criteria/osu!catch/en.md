@@ -110,7 +110,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Hyperdashes of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players.
 - **Dashes must have at least a 125 ms gap between their two objects.**
 - **Dashes that are basic-snapped must not be used more than two times between consecutive fruits.**
-- **Dashes that are higher-snapped must always be followed by walkable distances.**
+- **Dashes that are higher-snapped must always be followed by a walk.**
 - **Edge dashes must not be used.** They require extremely precise timing which cannot be expected of less-experienced players.
 - **At least 250 ms must be left between circles/sliders and the start and end of spinners.** This is to ensure readability.
 - **Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).**
@@ -141,15 +141,15 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Dashes must have at least a 62 ms gap between their two objects.**
 - **Dashes that are basic-snapped must not be used more than four times between consecutive fruits.**
 - **Dashes that are higher-snapped can be used up to two times between consecutive fruits, provided there isn't a direction change between them.**
-- **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
+- **Edge dashes must not be used.** They require extremely precise timing which cannot be expected of less-experienced players.
 - **At least 125 ms must be left between circles/sliders and the start of spinners.** This is to ensure readability.
 - **At least 250 ms must be left between circles/sliders and the end of spinners.** This is to ensure readability.
 
 #### Guidelines
 
 - **Strong hyperdashes should not be used.** For basic-snapped hyperdashes, a limit of 1.5 times the trigger distance is recommended. For higher-snapped hyperdashes, a limit of 1.3 times the trigger distance is recommended instead.
-- **Hyperdashes that are basic-snapped may be used in conjunction with antiflow patterns.** If used, the spacing should not exceed a distance snap of 1.2 times the trigger distance when followed by a walkable movement, or 1.1 times the trigger distance when followed by a basic-snapped dash.
-- **Hyperdashes that are higher-snapped should not be followed by antiflow patterns.** If used, the spacing should not exceed a distance snap of 1.1 times the trigger distance and the movement after the hyperdash must be walkable.
+- **Hyperdashes that are basic-snapped may be used in conjunction with antiflow patterns.** If used, the spacing should not exceed a distance snap of 1.2 times the trigger distance when followed by a walk, or 1.1 times the trigger distance when followed by a basic-snapped dash.
+- **Hyperdashes that are higher-snapped should not be followed by antiflow patterns.** If used, the spacing should not exceed a distance snap of 1.1 times the trigger distance and the movement after the hyperdash must be a walk.
 - **Combos should not exceed 12 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/2 and/or 1/3 pattern.** 1/4 and/or 1/6 patterns should be used sparingly.
 
