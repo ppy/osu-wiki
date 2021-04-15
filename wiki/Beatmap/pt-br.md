@@ -4,6 +4,7 @@ tags:
   - beatmapset
   - mapas
   - beatmapa
+no_native_review: true
 ---
 
 # Beatmap
