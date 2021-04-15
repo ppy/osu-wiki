@@ -313,6 +313,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 2021-01-09 | 2021-02-21 | ![][flag_CN] China | ![][flag_KR] South Korea | ![][flag_MY] Malaysia |
 
+### ![](/wiki/shared/mode/taiko.png) North & South American Taiko Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [North & South American Taiko Tournament 2019](NSATT/2019) | 2019-06-22 | 2019-07-28 | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_BR] [eae](https://osu.ppy.sh/users/4050738) |
+
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
