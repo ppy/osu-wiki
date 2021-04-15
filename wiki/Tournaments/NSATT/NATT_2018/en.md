@@ -83,7 +83,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] [eae](https://osu.ppy.sh/users/4050738) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
 
 ## Mappools
 
@@ -312,29 +312,26 @@ Complete Group Stage match results can be accessed through the [statistics sheet
 
 ## Ruleset
 
-1. Only Players with a North or South American flag on their account are allowed to register in this tournament. This includes only the following countries: USA, Canada, Mexico, Brazil, Chile, Argentina, Colombia, Venezuela, Uruguay, Paraguay, Peru, Ecuador, Bolivia, Guyana, Suriname, and French Guiana. Countries in the Caribbean and Central America may not sign up for this tournament.
-2. Group Stage matches are seeded based on global rank **at the end of the registration period**.
-3. NSATT will have a Group Stage followed by a knock-out double elimination structure with a loser bracket.
-4. NSATT matches will be 1v1 Taiko in team style format with a point given to the highest score achieved in the Score V2 system.
+1. Only Players with a **United States, Canadian, or Mexican flag on their account are allowed** to register in this tournament.
+2. Group Stage matches are seeded based on global rank at time of registration submission.
+3. NATT will have a Group Stage followed by a knock-out double elimination structure with a loser bracket.
+4. NATT matches will be 1v1 Taiko in team style format with a point given to the highest score achieved in the Score V2 system.
 5. The win conditions for each stage are as follows.
-   - In **Group Stage**, it is Bo7: First to score 4 points wins.
-   - In **Round of 16**, it is Bo9: First to score 5 points wins.
-   - In **Quarterfinals and Semifinals**, it is Bo11: First to score 6 points wins.
-   - In **Finals and Grand Finals**, it is Bo13: First to score 7 points wins.
-6. Map pools will start with 4 No Mod, 2 HD, 2 HR, 2 DT, 3 FM and 1 Tiebreaker. At the RO16, 1 NoMod will be added, and at the Finals, another NoMod will be added.
-7. Only the player who selects a FreeMod pick is required to use at least 1 mod. The opponent is not required to use a mod if they choose not to do so.
-8. You are allowed 1 map ban per match, this does not include the Tie-breaker.
-9. Each player can choose to play up to 1 warm-up map. A warm-up must be shorter than 4 minutes. If both players agree to one warm-up, the duration must be shorter than 6 minutes.
-10. Players roll to determine who will get the first pick and the first ban. The winner of roll will select the first map, whereas the loser will ban the first map.
-11. Tiebreaker will be played if both players are 1 point away from winning. It will not be Free Mod.
-12. In cases where a map results in a tie, the map is nullified and the Player who picked said map will pick another. (If the Tiebreaker ends in a draw, the tiebreaker will be replayed under FM.)
-13. If no staff or referee is available, the match will be postponed.
-14. Players will have up to 15 minutes after the scheduled time to show up. Failure to show up without prior notice will result in a win by default.
-15. Players may not directly throw a match. If a player chooses to do so, a rematch will be forced. If the match is still thrown, the player will be ejected from the tournament.
-16. If a player disconnects during a map:
-    - If it before 30 seconds into the map, the referee will abort the map, and it will be replayed.
-    - If it is after 30 seconds into the map, it is up to the discretion of the referee.
-17. Any modification of these rules will be announced.
+   - In **Group Stage**, it is Bo5: First to win 3 maps wins.
+   - In **Round of 16**, it is Bo7: First to 4 maps wins.
+   - In **Quarterfinals and Semifinals**, it is Bo9: First to win 5 maps wins.
+   - In **Finals and Grand Finals**, it is Bo11: First to win 6 maps wins.
+6. Score V2 will be used.
+7. Map pools will contain 5 No Mod (3+2 EX), 2 HD, 2 HR, 2 DT, 3 FM and 1 Tiebreaker.
+8. Players must have at least 1 mod activated during the Free Mod pool.
+9. You are allowed 1 map ban per match, this does not include the Tie-breaker.
+10. Each player can choose to play up to 1 warm-up map. A warm-up must be shorter than 4 minutes. If both players agree to one warm-up, the duration must be shorter than 6 minutes.
+11. Roll is used to determine who will get the first pick and the first ban. The winner of roll will select the first map, whereas the loser will ban the first map.
+12. Tiebreaker will be played if both players are 1 point away from winning. It will not be Free Mod.
+13. In cases where a map results in a tie, the map is nullified and the Player who picked said map will pick another. (If the Tiebreaker ends in a draw, the tiebreaker will be replayed under FM.)
+14. If no staff or referee is available, the match will be postponed.
+15. Players will have up to 15 minutes after the scheduled time to show up. Failure to show up without prior notice will result in a win by default.
+16. Any modification of these rules will be announced.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
