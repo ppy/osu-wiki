@@ -48,7 +48,7 @@ Di [osu!catch](/wiki/Game_mode/osu!catch), mod Auto benar-benar akan melampaui k
 
 ### osu!mania
 
-Di [osu!mania](/wiki/Game_mode/osu!mania), mod Auto akan mencoba permainan yang sempurna, tetapi mungkin akan miss pada note yang tertumpuk (mis., penekanan tombol ditengah-tengah sebuah note panjang).
+Di [osu!mania](/wiki/Game_mode/osu!mania), mod Auto akan mencoba permainan yang sempurna, tetapi mungkin akan terjadi miss pada note yang tertumpuk (misalnya penekanan tombol di tengah sebuah note panjang).
 
 ## Trivia
 
