@@ -11,6 +11,8 @@ tags:
 
 ![Ikon mod EZ](/wiki/shared/mods/EZ.png "Ikon mod Easy (EZ)")
 
+*Untuk penggunaan lainnya, lihat artikel [Easy (disambiguasi)](/wiki/Disambiguation/Easy).*
+
 *Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*
 
 ## Tentang
@@ -38,11 +40,11 @@ Pemain akan diberi tanda berupa suara ready (`readysound.wav`) saat sedang pengi
 
 Di [osu!standard](wiki/Game_Modes/osu!), mod Easy menurunkan setengah dari [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), dan [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP).
 
-![Gameplay EZ pada o!s](img/GM_EZ2.jpg "Gameplay osu!standard saat mod Easy diaktifkan")
+![Gameplay EZ pada standard](img/EZ-comparison-standard.jpg "Perbandingan antara permainan biasa (kiri) dan permainan dengan mod Easy (kanan) pada osu!standard")
 
 Meskipun demikian, perlu diingat bahwa banyak pemain yang menganggap bahwa penggunaan mod Easy dapat membantu dalam mengurangi kesulitan dari beatmap, terutama yang berintensitas tinggi. Argumen untuk hal ini adalah bahwa penurunan approach rate justru menciptakan kekacauan, dan situasi ini menyebabkan pemain sulit untuk membaca karena kecepatan sebenarnya dari beatmap tersebut tidak divisualisasikan dengan baik (ditampilkan di bawah).
 
-*Catatan: Poin-poin yang disebutkan di atas diuraikan pada "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)", sebuah permohonan fitur untuk meningkatkan mod.*
+*Catatan: Poin-poin yang disebutkan di atas diuraikan pada "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)", sebuah permohonan fitur untuk meningkatkan mod ini.*
 
 ### osu!taiko
 
@@ -58,7 +60,7 @@ Di [osu!catch](/wiki/Game_mode/osu!catch), efeknya sama seperti di osu!standard 
 
 Meski hanya menggunakan satu sumbu, ukuran buah yang lebih besar dan kecepatan jatuh yang lebih lambat dapat menyebabkan buah-buah tersebut menggumpal, sehingga timbul masalah yang sama pada kesulitan di osu!standard.
 
-<!-- image needed here -->
+![Gameplay EZ pada catch](img/EZ-comparison-catch.jpg "Perbandingan antara permainan biasa (kiri) dan permainan dengan mod Easy (kanan) pada osu!catch")
 
 ### osu!mania
 
