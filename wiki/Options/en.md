@@ -1,8 +1,6 @@
 ---
 outdated: true
 ---
-<!-- TODO: new options exist and haven't been added to this article yet -->
-
 # Options
 
 ![Options menu](img/options_basic.jpg "Options menu \(sidebar on left\)")
@@ -31,7 +29,6 @@ If you are a guest, these options will be shown:
 | `Remember Password` | If checked, the game client will remember the entered password. This will also keep you signed in to the game client. | Checkbox | `Disabled` |
 | `Sign In` | Sign in to osu! with the given credentials. Pressing `Enter` in the username or password forms also works. | Button |  |
 | `Create an account` | Opens the [account registration](/wiki/Registration) screen. | Button |  |
-
 
 ---
 
