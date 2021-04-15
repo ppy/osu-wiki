@@ -10,6 +10,6 @@ tags:
 
 Dampak skor karena kehilangan combo pada saat miss diakhir slider, secara luas dalam komunitas dianggap sebagai full combo. Anggapan ini berbeda dengan skor di dalam klien gim dan tampilan situs web.
 
-![Sebuah tangkapan layar dari full combo dan combo yang pecah](img/combo-comparison.png "Skor teratas adalah full combo dan skor terbawah adalah combo yang pecah.")
+![Sebuah tangkapan layar dari full combo dan combo break](img/combo-comparison.png "Skor teratas adalah full combo dan skor terbawah adalah combo break.")
 
 Dikarenakan [efek pengganda combo](/wiki/Glossary/Combo_multiplier_effect), full combo akan memberikan [skor](/wiki/Score) paling banyak di dalam [mode permainan](/wiki/Game_mode) [osu!standard](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), dan [osu!catch](/wiki/Game_mode/osu!catch).
