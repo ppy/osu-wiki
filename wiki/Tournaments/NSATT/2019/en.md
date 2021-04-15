@@ -74,7 +74,7 @@ The North & South American Taiko Tournament 2019 was run by various community me
 | **E** | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_VE] [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739) | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) | ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/5014664) |
 | **F** | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) | ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223) | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) | ![][flag_AR] [warning dark](https://osu.ppy.sh/users/5040981) |
 | **G** | ![][flag_BR] [Skull Kid](https://osu.ppy.sh/users/3044264) | ![][flag_US] [Whulf](https://osu.ppy.sh/users/11601107) | ![][flag_US] [Kotu776](https://osu.ppy.sh/users/8494571) | ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911) |
-| **H** | ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471) | ![][flag_US] [\_knots](https://osu.ppy.sh/users/4407678), ![][flag_US] [Brames](https://osu.ppy.sh/users/6417190), ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252)
+| **H** | ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471) | ![][flag_US] [\_knots](https://osu.ppy.sh/users/4407678), ![][flag_US] [Brames](https://osu.ppy.sh/users/6417190), ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) |
 
 ## Podium
 
