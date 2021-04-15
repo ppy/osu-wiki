@@ -78,7 +78,13 @@ The North & South American Taiko Tournament 2019 was run by various community me
 
 ## Podium
 
-![](img/podium.jpg "NSATT 2019 podium")
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] [eae](https://osu.ppy.sh/users/4050738) |
 
 ## Mappools
 
