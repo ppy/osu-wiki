@@ -20,7 +20,7 @@ The **North American Taiko Tournament 2018** (***NATT 2018***) was a double-elim
 | Quarterfinals | 2018-08-11/2018-08-12 |
 | Semifinals | 2018-08-18/2018-08-19 |
 | Finals | 2018-08-25/2018-08-26 |
-| Grand Finals | 2018-09-01/2018-09-02 |
+| Grand Finals | 2018-09-01 |
 
 ## Prizes
 
@@ -91,7 +91,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/3n8rkoxbo5ir6ty/NSATT%202019%20-%20Finals%20Map%20Pack.rar)**
+**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/3n8rkoxbo5ir6ty/NSATT%202018%20-%20Finals%20Map%20Pack.rar)**
 
 - NoMod
   - [MASAKI(ZUNTATA) - Touhou Kijinretsu (JUDYDANNY) \[Retsu\]](https://osu.ppy.sh/beatmapsets/969930#taiko/2029111)
@@ -118,7 +118,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (82 MB)](https://www.dropbox.com/s/w4iu8kqg5389gk4/NSATT%202019%20-%20Semi%20Finals%20Map%20pack.rar)**
+**[Download the mappack here! (82 MB)](https://www.dropbox.com/s/w4iu8kqg5389gk4/NSATT%202018%20-%20Semi%20Finals%20Map%20pack.rar)**
 
 - NoMod
   - [Ruby My Dear - Spectacle (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/747789#taiko/1575570)
@@ -144,7 +144,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://www.dropbox.com/s/zlbe9blvtdg9zd1/NSATT%202019%20Quarter%20Finals%20Map%20Pack.rar)**
+**[Download the mappack here! (83 MB)](https://www.dropbox.com/s/zlbe9blvtdg9zd1/NSATT%202018%20Quarter%20Finals%20Map%20Pack.rar)**
 
 - NoMod
   - [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/beatmapsets/177838#taiko/427932)
@@ -170,7 +170,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (63 MB)](https://www.dropbox.com/s/luzhzs0c12b9e2h/NSATT%202019%20-%20RO16%20Map%20Pack.rar)**
+**[Download the mappack here! (63 MB)](https://www.dropbox.com/s/luzhzs0c12b9e2h/NSATT%202018%20-%20RO16%20Map%20Pack.rar)**
 
 - NoMod
   - [t+pazolite - Pee-Kan Breaks (Ulqui) \[Overlapse Oni\]](https://osu.ppy.sh/beatmapsets/529539#taiko/1122796)
@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (57 MB)](https://www.dropbox.com/s/ywc3w1vai12cvv9/NSATT%202019%20-%20Group%20Stage%20Map%20Pack.rar)**
+**[Download the mappack here! (57 MB)](https://www.dropbox.com/s/ywc3w1vai12cvv9/NSATT%202018%20-%20Group%20Stage%20Map%20Pack.rar)**
 
 - NoMod
   - [Igorrr - Mastication Numerique (grumd) \[Loctav's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/54182#taiko/165342)
@@ -223,97 +223,92 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Saturday, 27 July 2019:
+Saturday, 1 September 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **vladyushko** ![][flag_CA] | **7** | 3 | ![][flag_BR] eae | [#1](https://osu.ppy.sh/community/matches/53620192) |
-
-Sunday, 28 July 2019:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **janitoreihil** ![][flag_CA] | **7** | 3 | ![][flag_CA] vladyushko | [#1](https://osu.ppy.sh/community/matches/53673786) |
+| **janitoreihil** ![][flag_CA] | **6** | 3 | ![][flag_CA] vladyushko | - |
 
 ### Finals
 
-Saturday, 20 July 2019:
+Saturday, 25 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **janitoreihil** ![][flag_CA] | **7** | 4 | ![][flag_CA] vladyushko | [#1](https://osu.ppy.sh/community/matches/53482413) |
-| **eae** ![][flag_BR] | **7** | 2 | ![][flag_AR] BossPlays | [#1](https://osu.ppy.sh/community/matches/53489806) |
-| **Loopy542** ![][flag_US] | **7** | 3 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/53508927) |
+| **Das** ![][flag_US] | **6** | 1 | ![][flag_US] Catgirl | [#1](https://osu.ppy.sh/community/matches/45411966) |
+| Tem ![][flag_US] | 0 | **6** | ![][flag_US] **Loopy542** | [#1](https://osu.ppy.sh/community/matches/45415647) |
+| **janitoreihil** ![][flag_CA] | **6** | 1 | ![][flag_CA] vladyushko | - |
 
-Sunday, 21 July 2019:
+Sunday, 26 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **eae** ![][flag_BR] | **7** | 6 | ![][flag_US] Loopy542 | [#1](https://osu.ppy.sh/community/matches/53511386) |
+| **Loopy542** ![][flag_US] | **6** | 0 | ![][flag_US] Das | - |
+| **vladyushko** ![][flag_CA] | **6** | 3 | ![][flag_US] Loopy542 | - |
 
 ### Semifinals
 
-Saturday, 13 July 2019:
+Saturday, 18 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **BossPlays** ![][flag_AR] | **6** | 3 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/53315504) |
-| **vladyushko** ![][flag_CA] | **6** | 5 | ![][flag_BR] eae | [#1](https://osu.ppy.sh/community/matches/53316695) |
-| TrolloCat ![][flag_US] | -1 | **0** | ![][flag_VE] \[\_Chichinya\_\] | *win by default* |
-| **janitoreihil** ![][flag_CA] | **6** | 0 | ![][flag_US] Loopy542 | [#1](https://osu.ppy.sh/community/matches/53318814) |
+| **Catgirl** ![][flag_US] | **5** | 2 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/45197263) |
+| **yea** ![][flag_US] | **5** | 1 | ![][flag_US] Brames | [#1](https://osu.ppy.sh/community/matches/45201244) |
+| Shyguy ![][flag_US] | 3 | **5** | ![][flag_US] **closed** | [#1](https://osu.ppy.sh/community/matches/45202941) |
+| **Loopy542** ![][flag_US] | **5**  | 2 | ![][flag_US] jyake\_ou | [#1](https://osu.ppy.sh/community/matches/45203685) |
 
-Sunday, 14 July 2019:
+Sunday, 19 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **BossPlays** ![][flag_AR] | **6** | 0 | ![][flag_VE] \[\_Chichinya\_\] | [#1](https://osu.ppy.sh/community/matches/53343237) |
-| **jyake** ![][flag_US] | **6** | 5 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/53341909) |
-| **cheese salad** ![][flag_US] | **6** | 3 | ![][flag_VE] My Angel Kazu | [#1](https://osu.ppy.sh/community/matches/53347573) |
-| **cheese salad** ![][flag_US] | **6** | 5 | ![][flag_US] jyake | [#1](https://osu.ppy.sh/community/matches/53370414) |
+| closed ![][flag_US] | 0 | **5** | ![][flag_US] **Loopy542** | [#1](https://osu.ppy.sh/community/matches/45230660) |
+| **Catgirl** ![][flag_US] | **5** | 3 | ![][flag_US] yea | [#1](https://osu.ppy.sh/community/matches/45232566) |
+| **vladyushko** ![][flag_CA] | **5** | 2 | ![][flag_US] Tem | [#1](https://osu.ppy.sh/community/matches/45239686) |
+| **janitoreihil** ![][flag_CA] | **5** | 1 | ![][flag_US] Das | [#1](https://osu.ppy.sh/community/matches/45236803) |
 
 ### Quarterfinals
 
-Saturday, 6 July 2019:
+Saturday, 11 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **janitoreihil** ![][flag_CA] | **6** | 0 | ![][flag_AR] BossPlays | [#1](https://osu.ppy.sh/community/matches/53152636) |
-| **\[\_Chichinya\_\]** ![][flag_VE] | **0** | -1 | ![][flag_AR] Atreevete | *win by default* |
-| Axer ![][flag_AR] | 0 | **6** | ![][flag_BR] **Skull Kid** | [#1](https://osu.ppy.sh/community/matches/53158344) |
-| **Loopy542** ![][flag_US] | **6** | 0 | ![][flag_US] TrolloCat | [#1](https://osu.ppy.sh/community/matches/53176080) |
-| Kyoumo ![][flag_BR] | 4 | **6** | ![][flag_US] **Whulf** | [#1](https://osu.ppy.sh/community/matches/53177930) |
-| cheese salad ![][flag_US] | 1 | **6** | ![][flag_BR] **eae** | [#1](https://osu.ppy.sh/community/matches/53179464) |
+| Shyguy ![][flag_US] | 2 | **5** | ![][flag_US] Das | [#1](https://osu.ppy.sh/community/matches/44983751) |
+| Tem ![][flag_US] | **5** | 3 | ![][flag_US] Catgirl | [#1](https://osu.ppy.sh/community/matches/44988957) |
+| ayyEve ![][flag_CA] | 0 | **5** | ![][flag_US] **Brames** | [#1](https://osu.ppy.sh/community/matches/44987507) |
+| **closed** ![][flag_US] | **0** | -1 | ![][flag_US] Alchyr | *win by default* |
 
-Sunday, 7 July 2019:
+Sunday, 12 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **My Angel Kazu** ![][flag_VE] | **6** | 3 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/53182563) |
-| **vladyushko** ![][flag_CA] | **6** | 4 | ![][flag_US] jyake | [#1](https://osu.ppy.sh/community/matches/53183507) |
+| **vladyushko** ![][flag_CA] | **5** | 2 | ![][flag_US] yea | [#1](https://osu.ppy.sh/community/matches/45017827) |
+| **janitoreihil** ![][flag_CA] | **5** | 2 | ![][flag_US] Loopy542 | [#1](https://osu.ppy.sh/community/matches/45019657) |
+| **\_knots** ![][flag_US] | **5** | 0 | ![][flag_US] Obama Taichou | [#1](https://osu.ppy.sh/community/matches/45021091) |
+| **jyake\_ou** ![][flag_US] | **5** | 2 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/45022374) |
 
 ### Round of 16
 
-Saturday, 29 June 2019:
+Saturday, 4 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Loopy542** ![][flag_US] | **5** | 0 | ![][flag_VE] My Angel Kazu | [#1](https://osu.ppy.sh/community/matches/52949621) |
-| **janitoreihil** ![][flag_CA] | **5** | 0 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/52991246) |
-| Skull Kid ![][flag_BR] | 4 | **5** | ![][flag_US] **jyake** | [#1](https://osu.ppy.sh/community/matches/52992931) |
-| **eae** ![][flag_BR] | **5** | 0 | ![][flag_VE] \[\_Chichinya\_\] | [#1](https://osu.ppy.sh/community/matches/52996294) |
+| **Das** ![][flag_US] | **4** | 0 | ![][flag_CA] ayyEve | [#1](https://osu.ppy.sh/community/matches/44776589) |
+| **Catgirl** ![][flag_US] | **4** | 3 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/44778291) |
+| jyake\_ou ![][flag_US] | 0 | **4** | ![][flag_US] **Tem** | [#1](https://osu.ppy.sh/community/matches/44781218) |
 
-Sunday, 30 June 2019:
+Sunday, 5 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **cheese salad** ![][flag_US] | **5** | 0 | ![][flag_AR] Atreevete | [#1](https://osu.ppy.sh/community/matches/52998024) |
-| **vladyushko** ![][flag_CA] | **5** | 1 | ![][flag_AR] Axer | [#1](https://osu.ppy.sh/community/matches/53012000) |
-| **BossPlays** ![][flag_AR] | **5** | 4 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/53017178) |
-| **TrolloCat** ![][flag_US] | **5** | 2 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/53022697) |
+| **Loopy542** ![][flag_US] | **4** | 0 | ![][flag_US] Obama Taichou | [#1](https://osu.ppy.sh/community/matches/44805389) |
+| **janitoreihil** ![][flag_CA] | **4** | 0 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/44807439) |
+| **Shyguy** ![][flag_US] | **4** | 3 | ![][flag_US] Brames | [#1](https://osu.ppy.sh/community/matches/44808530) |
+| **yea** ![][flag_US] | **0** | -1 | ![][flag_US] Alchyr | *win by default* |
+| **vladyushko** ![][flag_CA] | **4** | 0 | ![][flag_US] closed | [#1](https://osu.ppy.sh/community/matches/44840845) |
 
 ### Group Stage
 
-Complete Group Stage match results can be accessed through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPxwqEqzN-miTVZ9fM20aMelIYCwnm1FFJV3M0yn7w8YoBB60lS-hIzpV4l9JOqQ3v9iyTBXHhoOAk/pubhtml)
+Complete Group Stage match results can be accessed through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSY7o2krAotf6bOo8pImth_2NBNtjjsKxuKFeW6HxTyyBsk87BEz0V8VZ6O9_bQxh8MnaPTdOrP8T5w/pubhtml)
 
 ## Ruleset
 
