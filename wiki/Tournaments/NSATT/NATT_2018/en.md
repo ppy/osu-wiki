@@ -87,137 +87,156 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Finals
+### Grand Finals
 
-**This mappool was played in Finals and Grand Finals.**
-
-**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/3n8rkoxbo5ir6ty/NSATT%202018%20-%20Finals%20Map%20Pack.rar)**
+**[Download the mappack here! (71 MB)](https://www.dropbox.com/s/lqgbst12fv5y2u7/NATT%202018%20GF.rar)**
 
 - NoMod
-  - [MASAKI(ZUNTATA) - Touhou Kijinretsu (JUDYDANNY) \[Retsu\]](https://osu.ppy.sh/beatmapsets/969930#taiko/2029111)
-  - [GigaP - Rettou Joutou(BRING IT ON) ft.Kagamine Rin&Ren (Yozumina Remix) (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/961877#taiko/2014095)
-  - [USAO - Cyaegha (Charlotte) \[Apocalypse\]](https://osu.ppy.sh/beatmapsets/973521#taiko/2038013)
-  - [Camellia as "Bang Riot" - Blastix Riotz (Nwolf) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/351644#taiko/781907)
-  - [LSD - Stimulant Beatmaps (maziari1105) \[KatHarSis\]](https://osu.ppy.sh/beatmapsets/597075#taiko/1262365)
-  - [Kobaryo - GGSBNDS (yea) \[GENOCIDE\]](https://osu.ppy.sh/beatmapsets/974085#taiko/2039035)
+  - [The Flashbulb - Chik Habit (incandescence) \[Raidcore\]](https://osu.ppy.sh/beatmapsets/827049#taiko/1733135)
+  - [TangJuan Vs Black Box - Xetta (Nishizumi) \[Oni\]](https://osu.ppy.sh/beatmapsets/811482/%23taiko/1702251)
+  - [Igorrr - Cheval (yopohapan) \[Gallop\]](https://osu.ppy.sh/beatmapsets/656130#taiko/1390258)
+  - [Xenon - ?63HiiraossHuikgoeH53? (-Kazu-) \[?InnerrOnI? (NATT Ver.)\]](https://puu.sh/BkVVT/1c1a03a78c.osz)
+  - [3034 - NS18 (Inner Stamina+) \[\_Rise\]](https://osu.ppy.sh/beatmapsets/508943#taiko/1082389)
 - Hidden
-  - [lapix - Future Raver feat. Numb'n'dub (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/963997#taiko/2018209)
-  - [toach - Fill it a Try (tasuke912) \[Edit\]](https://osu.ppy.sh/beatmapsets/824580#taiko/1729490)
+  - [PHQUASE - Plain Asia -PHQ remix- (TKS) \[Lunatic Asia\]](https://osu.ppy.sh/beatmapsets/737935#taiko/1557323)
+  - [MuryokuP - Frozen World (c36098651) \[Firce777's North Pole\]](https://osu.ppy.sh/beatmapsets/194955/#taiko/465192)
 - HardRock
-  - [Umeboshi Chazuke - Bison Charge (Midnaait) \[Bit Crusher\]](https://osu.ppy.sh/beatmapsets/739116#taiko/1559744)
-  - [Zekk - Sugary Daydream (TKS) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/578489#taiko/1224835)
+  - [OISHII - ONIGIRI FREEWAY (cdhsausageboy) \[tasuke's INNER ONI\]](https://osu.ppy.sh/beatmapsets/662519#taiko/1406423)
+  - [Helblinde - Oath of Kings (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/762676#taiko/1603470)
 - DoubleTime
-  - [Boogie Belgique - Piccadilly (lazyboy007) \[West End\]](https://osu.ppy.sh/beatmapsets/717359#taiko/1515547)
-  - [-12insomnia- - Gravity Blast (Raphalge) \[Liftoff\]](https://osu.ppy.sh/beatmapsets/574961#taiko/1217636)
+  - [Linkin Park - Breaking the Habit (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/237069/#taiko/548872)
+  - [Equilibrium - Wirtshaus Gaudi (Zetera) \[Inner Kneipe\]](https://osu.ppy.sh/beatmapsets/549450#taiko/1163499)
 - FreeMod
-  - [USAO - Night sky (Extended Mix) (Jaye) \[Beyond Astronomical Twilight\]](https://osu.ppy.sh/beatmapsets/536313#taiko/1135874)
-  - [xyst - Ylil's overed landscape (SKSalt) \[komasy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1887454)
-  - [xi - Inixia (Raediaufar) \[Sur's Ura Oni\]](https://osu.ppy.sh/beatmapsets/424299#taiko/919457)
+  - [Caladborg - invoker (-Kazu-) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/351126#taiko/1495790)
+  - [Uesaka Sumire - POP TEAM EPIC(YUKIYANAGI's Dubstep Edit) (KitajimaYN) \[Ahhhhhhh!!!!!!!\]](https://osu.ppy.sh/beatmapsets/751580#taiko/1583035)
+  - [Sick Puppy - Nigro (Xay) \[Xay's Taiko\]](https://osu.ppy.sh/beatmapsets/430223#taiko/928094)
 - Tiebreaker
-  - **[BlackY - Harpuia -evolutionary extended ver- (S a n d) \[Sand x Backfire\]](https://osu.ppy.sh/beatmapsets/523713#taiko/1111804)**
+  - **[Camellia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (Alchyr) \[Pressure\]](https://osu.ppy.sh/beatmapsets/832997#taiko/1744951)**
+
+### Finals
+
+- NoMod
+  - [cosMo@BousouP - UltraHardAttacks of OddMusiK(cosmobsp-style) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/304074#taiko/681296)
+  - [katagiri - cafe de kemomimi loli (Soukun1shiki) \[Cracking Journey\]](https://osu.ppy.sh/beatmapsets/792135#taiko/1661574)
+  - [uma vs. Morimori Atsushi - Re : End of a Dream (Ryui) \[Ryui's Taiko\]](https://osu.ppy.sh/beatmapsets/532070#taiko/1127436)
+  - [xi - Mirage Garden (Mono Kuma) \[Mono Taiko\]](https://osu.ppy.sh/beatmapsets/89851#taiko/244082)
+  - [Fleshgod Apocalypse - The Fool (LZD) \[Stamina Thief\]](https://osu.ppy.sh/beatmapsets/442451#taiko/965433)
+- Hidden
+  - Reol - YoiYoi Kokon (steven1) \[Phylum (NATT ver.)\]
+  - [Igorrr - Cicadidae (nyouso) \[Nyouso's Taiko\]](https://osu.ppy.sh/beatmapsets/182507/#taiko/437655)
+- HardRock
+  - [weyheyhey !! - Loving The Girl Who Hates Me (Jaye) \[Bella\]](https://osu.ppy.sh/beatmapsets/438651#taiko/1164383)
+  - [goreshit - beautiful loli thing (Raphalge) \[Beautiful Taiko Thing\]](https://osu.ppy.sh/beatmapsets/582863#taiko/1233483)
+- DoubleTime
+  - [capitaro - Koigahara no Kassen (Zero__wind) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/466053#taiko/1163723)
+  - [CINDERELLA PROJECT - Shine!! (DJ Ramakun FUNKOT REMIX) (Nishizumi) \[Inner Oni!!\]](https://osu.ppy.sh/beatmapsets/549167#taiko/1162938)
+- FreeMod
+  - [Sota Fujimori - polygon (Fallmorph) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/721297#taiko/1523103)
+  - [Yuuyu - Scrap Syndrome (Nyan) \[Original Oni\]](https://osu.ppy.sh/beatmapsets/179946/#taiko/432510)
+  - [IOSYS TRAX (uno with.chiyoko) - DX Choseinou Full Metal Shoujo (Akyuu) \[Hirok's really fresh!\]](https://osu.ppy.sh/beatmapsets/823625#taiko/1725942)
+- Tiebreaker
+  - **Billain & Kodin - Feed For Speed (Remus) \[Hunger\]**
 
 ### Semifinals
 
-**[Download the mappack here! (82 MB)](https://www.dropbox.com/s/w4iu8kqg5389gk4/NSATT%202018%20-%20Semi%20Finals%20Map%20pack.rar)**
-
 - NoMod
-  - [Ruby My Dear - Spectacle (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/747789#taiko/1575570)
-  - [Hiro - VERTeX (Nwolf) \[Apex\]](https://osu.ppy.sh/beatmapsets/856990#taiko/1790210)
-  - [uma vs. Morimori Atsushi - Touhou Youyoumu ULTIMATE MEDLEY (komasy) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/871329#taiko/1820576)
-  - [DJ Mass MAD Izm\* - SHAKUNETSU Pt.2 Long Train Running (Consified) \[YO!\]](https://osu.ppy.sh/beatmapsets/805516#taiko/1882208)
-  - [Kobaryo - Cartoon Candy (Plua-) \[Nisweetzumi\]](https://osu.ppy.sh/beatmapsets/556809#taiko/1186496)
+  - [An - artcore JINJA (SKSalt) \[Wrath Oni\]](https://osu.ppy.sh/beatmapsets/198600#taiko/471176)
+  - [katagiri - Katagiri Catch Ball (rezi888) \[TAIKO.WAV \[NATT Ver.\]\]](https://drive.google.com/uc?id=1p1PbqEYVHw_KgCP3fqpLAPQv3TbrRLZB)
+  - [Risuko, Mona from STAR\*ANIS - Otona Mode [YUC'e Remix] (hoku) \[twinkle night ^z^\]](https://osu.ppy.sh/beatmapsets/804530#taiko/1688880)
+  - [Melt-Banana - The Hive (Zetera) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/694436#taiko/2346971)
+  - [REOL - DetaramE KiddinG (tkdLolly) \[TaikO\]](https://osu.ppy.sh/beatmapsets/790656#taiko/1658966)
 - Hidden
-  - [t+pazolite - blckout (S a n d) \[Sand's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/234541#taiko/543963)
-  - [Vladimir Zelentsov - A.Vivaldi - Summer (Metal Cover) (Grimbow) \[Solstice\]](https://osu.ppy.sh/beatmapsets/694481#taiko/1469275)
+  - [Rainbowdragoneyes - The Rift (Mew104) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/445365#taiko/1489206)
+  - [RADIOFISH - PERFECT HUMAN (chaica) \[I’m a perfect human\]](https://osu.ppy.sh/beatmapsets/497333#taiko/1058605)
 - HardRock
-  - [xi - Glorious Crown (asuasu_yura) \[Special\]](https://osu.ppy.sh/beatmapsets/806381#taiko/1692612)
-  - [Nightmare - Dream to Nightmare (Kqrth) \[Tenebrae\]](https://osu.ppy.sh/beatmapsets/834254#taiko/1747624)
+  - Lite Show Magic (t+pazolite vs C-Show) - TRICKL4SH 220 (KitajimaYN) \[Yuni\]
+  - [Tyrfing - Verflucht (yuzu\_\_rinrin) \[†LEGGENDARIA\]](https://osu.ppy.sh/beatmapsets/726120#taiko/1533064)
 - DoubleTime
-  - [EZFG - Hurting for a Very Hurtful Pain (Nwolf) \[Painful Demon\]](https://osu.ppy.sh/beatmapsets/955541#taiko/1995363)
-  - [Memme - Chinese Restaurant (Love) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/243893#taiko/562332)
+  - [Memme - China Dress (Tear) \[Zexous' Oni\]](https://osu.ppy.sh/beatmapsets/137665#taiko/403249)
+  - [Reol - Logic Agent (shinchikuhome) \[Agent\]](https://osu.ppy.sh/beatmapsets/691178#taiko/1462711)
 - FreeMod
-  - [Lite Show Magic - TRICKL4SH 220 (22,000 Power Extended) (incandescence) \[Electrification\]](https://osu.ppy.sh/beatmapsets/896623#taiko/1873220)
-  - [t+pazolite - Ka wa Taredoki no Yuuwaku (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/749335#taiko/1578366)
-  - [SEVENTH SISTERS - SEVENTH HAVEN(Mtell Remix)(Short ver.) (kei821) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/857635#taiko/1791925)
+  - [BlackY vs. Yooh - XROSS THE XOUL (KinomiCandy) \[BEYOND THE XOUL\]](https://osu.ppy.sh/beatmapsets/498960#taiko/1062071)
+  - [P\*Light - psy_tek (JessiChan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/579294#taiko/1226633)
+  - [Brymir - Nephilim (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/727270#taiko/1535391)
 - Tiebreaker
-  - **[Gram VS Camellia - Ragnarok (yassu-) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/812048#taiko/1703338)**
+  - **[Venetian Snares - My Love Is A Bulldozer (Nifty) \[Destructive Lust\]](https://osu.ppy.sh/beatmapsets/773337#taiko/1625609)**
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://www.dropbox.com/s/zlbe9blvtdg9zd1/NSATT%202018%20Quarter%20Finals%20Map%20Pack.rar)**
+**[Download the mappack here! (80 MB)](https://drive.google.com/uc?id=19lLzrZ95rAxyhtS6t44Bd9YVS0ozC_f_)**
 
 - NoMod
-  - [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/beatmapsets/177838#taiko/427932)
-  - [wataame - MonoCrossRoad (sjfd) \[taiko collab\]](https://osu.ppy.sh/beatmapsets/465609#taiko/996827)
-  - [Minami Yuni - Kanagawa Cyber Culvert (ekumea1123) \[tasuke's Upheaval\]](https://osu.ppy.sh/beatmapsets/898783#taiko/1877558)
-  - [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Nishizumi) \[Kraken\]](https://osu.ppy.sh/beatmapsets/542058#taiko/1149263)
-  - [U1 High-Speed - EGOISM 440 (youtune3) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/899958#taiko/1879812)
+  - [LeaF - Chronostasis (DakeDekaane) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/193469#taiko/566347)
+  - [Tatsh - THE SUN (Osamix) \[yzrin's SURVIVAL\]](https://osu.ppy.sh/beatmapsets/499614#taiko/1066202)
+  - [cosMo@Bousou-P - The Real Disappearance of Hatsune Miku (thika1432) \[Yuni's Hell Oni\]](https://osu.ppy.sh/beatmapsets/489791#taiko/1043960)
+  - [Sara - Natu iro Present Wo BPM180 Ni Shitemita (asuasu_yura) \[Special\]](https://osu.ppy.sh/beatmapsets/506844#taiko/1078077)
+  - [Toromaru - Shounen wa Sora wo Tadoru Prog Piano Remix (-\[ ix Ishida xi \]-) \[-\[ ix Taiko xi \]- (NATT Ver.)\]](http://puu.sh/B9lWf/2b353d1cb1.osz)
 - Hidden
-  - [Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix (Skull Kid) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/564918#taiko/1194117)
-  - [renard - destination of the heart (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/464930#taiko/995374)
+  - [Boogie Belgique - Piccadilly (lazyboy007) \[West End (NATT Ver.)\]](https://puu.sh/B7MKd/578642611a.osz)
+  - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (xfraczynho) \[Final Oni\]](https://osu.ppy.sh/beatmapsets/682914#taiko/1444126)
 - HardRock
-  - [Getty vs. DJ DiA - Ops:Code-Rapture- (eiri-) \[Outer Oni\]](https://osu.ppy.sh/beatmapsets/757450#taiko/1593442)
-  - [goreshit - wasting my time (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/494063#taiko/1052058)
+  - [Paramore - Anklebiters (Priti) \[Expert Collab\]](https://osu.ppy.sh/beatmapsets/227990#taiko/545965)
+  - [sasakure.UK - ChRoNiClESeVeN feat. Annabel (Delis) \[Arrimoxx' Inner Oni\]](https://osu.ppy.sh/beatmapsets/630014#taiko/1400388)
 - DoubleTime
-  - [wowaka - World's End Dancehall (ROCKETMAN Remix) (Mira-san) \[Stefan's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/88911#taiko/417032)
-  - [nameless - SLoWMoTIoN (Marfuri) \[SLoW oNI\]](https://osu.ppy.sh/beatmapsets/834799#taiko/1748618)
+  - [USAO - Showdown (Side) \[tasuke's Oni\]](https://osu.ppy.sh/beatmapsets/438839#taiko/985780)
+  - [Keiichi Okabe, Keigo Hoashi - Fantastic Theater (Odeum of Illusions) (AxelHino) \[Oni\]](https://osu.ppy.sh/beatmapsets/209685#taiko/493520)
 - FreeMod
-  - [Kaneko Chiharu - Ai want U (Kqrth) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/914852#taiko/1910701)
-  - [t+pazolite - Chrome VOX (Uncut Edition) (juanilp4evr) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/939007#taiko/1961414)
-  - [cybermiso - Surveiller et punir (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/921181#taiko/1923626)
+  - [Silence Records x NIZI-RINGO - Spell No. 213 (S o h) \[Spooky Witch\]](https://osu.ppy.sh/beatmapsets/661025#taiko/1399545)
+  - [Mazare(Camellia, kradness, Nanahira, Yukacco) - Mazare Party (katacheh) \[kata's Sp.Taiko\]](https://osu.ppy.sh/beatmapsets/551363#taiko/1167864)
+  - [Pa's Lam System - If (hoku-4625) \[FREEDOM\]](https://osu.ppy.sh/beatmapsets/769769#taiko/1618520)
 - Tiebreaker
-  - **[Knife Party - GIVE IT UP (BILLX HARDTEK RMX) (Grimbow) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/618352#taiko/1637029)**
+  - **[Casandra - Junpaku*study time (Greenshell) \[Inner Loli\]](https://osu.ppy.sh/beatmapsets/688533#taiko/1457061)**
 
 ### Round of 16
 
-**[Download the mappack here! (63 MB)](https://www.dropbox.com/s/luzhzs0c12b9e2h/NSATT%202018%20-%20RO16%20Map%20Pack.rar)**
+**[Download the mappack here! (102 MB)](https://www.dropbox.com/s/jxwcyc6razyjpor/ro16%20mappack.zip)**
 
 - NoMod
-  - [t+pazolite - Pee-Kan Breaks (Ulqui) \[Overlapse Oni\]](https://osu.ppy.sh/beatmapsets/529539#taiko/1122796)
-  - [EVO+ feat. GigaReol - \[A\]ddiction (KinomiCandy) \[Kinobles, MMzz & YOUTA's \[C\]ollaboration \[NSATT ver.\]\]](https://www.dropbox.com/s/u2zxzoob6nro27o/EVO%2B%20feat.%20GigaReol%20-%20%5BA%5Dddiction.osz)
-  - [Kemono Friends - Cerulean (S a n d) \[Regretless Oni\]](https://osu.ppy.sh/beatmapsets/595790#taiko/1259995)
-  - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (\_DUSK\_) \[Nishizumi's Inner Oni\]](https://osu.ppy.sh/beatmapsets/925900#taiko/1943253)
-  - [AAAA Chazuke - Fatality Saga (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/768449#taiko/1616129)
+  - [Furby@NineMusez - Mousou Express (JUDYDANNY) \[Kano's Inner Oni\]](https://osu.ppy.sh/beatmapsets/329416#taiko/730412)
+  - [Ice - citanLu (Nwolf) \[inorenIn\]](https://osu.ppy.sh/beatmapsets/616252#taiko/1299710)
+  - [Camellia - Proluvies (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/766605#taiko/1611526)
+  - [Various Artist - kogachai's Taiko Crazy Map Pack (kogachai1125) \[kors k - Say YEEEAHH\]](https://osu.ppy.sh/beatmapsets/621537#taiko/1465809)
+  - [Suzumu - Kakumeisei: Ousama Densenbyou (incandescence) \[Revolution Nature\]](https://osu.ppy.sh/beatmapsets/720846#taiko/1522245)
 - Hidden
-  - [RoughSketch - The Omen (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/566671#taiko/1200352)
-  - [XIzE - will o' the wisp (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/948821#taiko/1981442)
+  - [Aire - Peperoncino (S o h) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/639361#taiko/1356039)
+  - [USAO - Extra Mode (DJ Myosuke Remix) (jyake) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/692594#taiko/1465550)
 - HardRock
-  - [Fire EX. - Shattered Dreams (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/287251#taiko/648184)
-  - [SOUND HOLIC feat. Nana Takahashi - 1001 -ESCAPE- (Charlotte) \[Kqrth's Escape Oni\]](https://osu.ppy.sh/beatmapsets/857208#taiko/2033297)
+  - [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Taiko (NATT ver.)\]](https://puu.sh/ASKdc/e14372a56e.osz)
+  - [Getty - Pump It (yea) \[Lunatic Oni (NATT Edition)\]](https://puu.sh/B5pI6/a243544b90.osz)
 - DoubleTime
-  - [Pegboard Nerds - BAMF (Dargin) \[Oni\]](https://osu.ppy.sh/beatmapsets/517687#taiko/1099907)
-  - [Rin - Kishinjou set 02 \~ Mermaid from the Uncharted Land (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/951618#taiko/1987309)
+  - [Cranky - X-Y-Z (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/493654#taiko/1052245)
+  - [FELT - Day after (Senritsu) \[Oni\]](https://osu.ppy.sh/beatmapsets/323180#taiko/718430)
 - FreeMod
-  - [Mitsuyoshi Takenobu no Ani - Amphisbaena (Nifty) \[Polycephaly\]](https://osu.ppy.sh/beatmapsets/693993#taiko/1468369)
-  - [aran - Xperanza (Arrival) [Inner Oni]](https://osu.ppy.sh/beatmapsets/828903#taiko/1736621)
-  - [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu - Miracle Tone's Fantasy (Clover Remix) (7\_7) \[7\_7 & solo's Fantasy\]](https://osu.ppy.sh/beatmapsets/711159#taiko/1503524)
+  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30128#taiko/105917)
+  - [BNSI (Taku Inoue) - Yoake Made Ato 3-byou (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/619121#taiko/1304997)
+  - [sky_delta - Cubicsphere (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/498320#taiko/1060833)
 - Tiebreaker
-  - **[Camellia - Primitive Pump (frz) \[Inner PUMP\]](https://osu.ppy.sh/beatmapsets/712424#taiko/1505977)**
+  - **[Camellia - Anomaly (Ulqui) \[Overlapse Oni\]](https://osu.ppy.sh/beatmapsets/557263#taiko/1179183)**
 
 ### Group Stage
 
-**[Download the mappack here! (57 MB)](https://www.dropbox.com/s/ywc3w1vai12cvv9/NSATT%202018%20-%20Group%20Stage%20Map%20Pack.rar)**
 
 - NoMod
-  - [Igorrr - Mastication Numerique (grumd) \[Loctav's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/54182#taiko/165342)
-  - [TAROLIN - Anoko no Jinta (TARO no Jigoku Megu Remix) (eiri-) \[yea's Inner Oni\]](https://osu.ppy.sh/beatmapsets/825937#taiko/1731107)
-  - [yuki. - Be Your Light (Rhytoly) \[Creativity\]](https://osu.ppy.sh/beatmapsets/878344#taiko/1837010)
-  - [HimeHina - Rettou Joutou (katacheh) \[Jojijoji Taiko\]](https://osu.ppy.sh/beatmapsets/902934#taiko/1885021)
+  - [DJ TECHNORCH - Digital Kecak No_5 (Remo-Con Remix Radio Edit) (Pettsu) \[Yuni's uchuujin\]](https://osu.ppy.sh/beatmapsets/599672#taiko/1313638)
+  - [Zekk - Palpitation (yuzu\_\_rinrin) \[Pe'z Inner Oni\]](https://osu.ppy.sh/beatmapsets/761071#taiko/1608677)
+  - [xi - Jackknife (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/646616#taiko/1378164)
+  - [LeaF - Aleph-0 (Lno) \[Inner-0ni\]](https://osu.ppy.sh/beatmapsets/675251#taiko/1428519)
+  - [M2U feat. MYULEE & OneStar - March of Fear (Backfire) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/721467#taiko/1523450)
 - Hidden
-  - [Akhuta - Nigra Ludia (Kqrth) \[Black Oni\]](https://osu.ppy.sh/beatmapsets/838406#taiko/1755294)
-  - [DIVELA feat. Hatsune Miku - DITHER TUNE (uone) \[uone&Shallty's Inner Oni\]](https://osu.ppy.sh/beatmapsets/844655#taiko/1766838)
+  - [MASAKI(ZUNTATA) - Zawawa (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/459183#taiko/983805)
+  - [Giga-P & Suzumu - Undead Enemy (Raphalge) \[Oni\]](https://osu.ppy.sh/beatmapsets/706303#taiko/1493559)
 - HardRock
-  - [Furries in a Blender - Storm World (Firce777) \[Oni\]](https://osu.ppy.sh/beatmapsets/319473#taiko/711061)
-  - [FELT - New World (Nao Tomori) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/782955#taiko/1659378)
+  - [wa. vs ETIA. - Akasagarbha (\_DUSK\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/709333#taiko/1499438)
+  - [TAKA respect for J.S.B. - No.13 (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/33401#taiko/109504)
 - DoubleTime
-  - [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Oni\]](https://osu.ppy.sh/beatmapsets/169969#taiko/411522)
-  - [40mP - Dandan Hayaku Naru (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/697711#taiko/1477882)
+  - [M2U - A Bella! (feat. Lucy) (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/760757#taiko/1599881)
+  - [Another Infinity feat. Mayumi Morinaga - kotone (Strawberry) \[KPY & aabc's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/82094#taiko/272134)
 - FreeMod
-  - [cillia - Rolling Girl (mintong89) \[Ura Oni Lv.29\]](https://osu.ppy.sh/beatmapsets/434536#taiko/936283)
-  - [Helblinde - Putin's Boner (KitajimaYN) \[Small Putin\]](https://osu.ppy.sh/beatmapsets/621547#taiko/1310558)
-  - [BiBi - Cutie Panther (OzzyOzrock) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/680237#taiko/1438348)
+  - [LeaF - Calamity Fortune (Flower) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/96103#taiko/263683)
+  - [Junichi Masuda - Battle! (Legendary Pokemon) (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/219713#taiko/514690)
+  - [Chino(CV.Minase Inori) - Shinsaku no Shiawase wa Kochira! (KinomiCandy) \[Don Don\]](https://osu.ppy.sh/beatmapsets/504752#taiko/1073838)
 - Tiebreaker
-  - **[Yousei Teikoku - Astral Dogma (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/715185#taiko/1511109)**
+  - **[Makai Toshi Niigata - Ukiyo-e Yokochou (D o t) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/748850#taiko/1577500)**
 
 ## Match results
 
