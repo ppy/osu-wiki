@@ -28,7 +28,7 @@ tags:
 
 *Notice: Enabling the Autopilot mod will cause the play to be unranked and will not be saved to the local leaderboards.*
 
-The **Autopilot** mod is a [game modifier](/wiki/Game_modifier) for [osu!](/wiki/Game_mode/osu!) game mode, that will take control of the cursor movement and systematically move to the exact centre of the next [hit object](/wiki/Hit_object), leaving the tapping to to the player. During a play with the Autopilot mod enabled, the player will not be able to move their cursor, unless they are on the pause screen.
+The **Autopilot** mod is a [game modifier](/wiki/Game_modifier) for the [osu!](/wiki/Game_mode/osu!) game mode that will take control of the cursor movement and systematically move to the exact centre of the next [hit object](/wiki/Hit_object), leaving the tapping to the player. During a play with the Autopilot mod enabled, the player will not be able to move their cursor, unless they are on the pause screen.
 
 The Autopilot mod also disables the in-game interface, thus hiding the [score](/wiki/Score), [combo](/wiki/Beatmapping/Combo), and misses, although this can be re-enabled by pressing `Shift`+`Tab`.
 

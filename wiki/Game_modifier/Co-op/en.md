@@ -37,7 +37,7 @@ The **Co-op** mod is a [game modifier](/wiki/Game_modifier) for [osu!mania](/wik
 
 ### Score multiplier
 
-The following table only affects beatmaps converted from the [osu!](/wiki/Game_mode/osu!) game mode to osu!mania with the Co-op mod on:
+The following table only affects beatmaps converted from [osu!](/wiki/Game_mode/osu!) to osu!mania with the Co-op mod on:
 
 | Default | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |

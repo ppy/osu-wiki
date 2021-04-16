@@ -44,7 +44,7 @@ In [osu!taiko](/wiki/Game_mode/osu!taiko), the Relax mod removes colour judgemen
 
 Along with this, the Relax mod will also give more lenient timing to collect the slider ticks during drumrolls, while dendens can be cleared with any colour sequence instead of alternating the colour sequence. The animated mascot will also be removed.
 
-Unlike osu! game mode, in osu!taiko, the Relax mod *will* display score, combo, and misses.
+As opposed to osu!, the Relax mod in osu!taiko *will* display score, combo, and misses.
 
 ### osu!catch
 

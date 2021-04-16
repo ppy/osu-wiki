@@ -11,7 +11,7 @@ Medals, previously known as *achievements*, are badges on a user's profile which
 
 ## Beatmap Packs
 
-The **Beatmap Packs** medals can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme). You must play in [osu!](/wiki/Game_mode/osu!) game mode to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme) and the badge.
+The **Beatmap Packs** medals can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme). You must play in the [osu!](/wiki/Game_mode/osu!) game mode to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme) and the badge.
 
 ### Requirements
 
@@ -47,7 +47,7 @@ The star-based medals are split into two groups, *Pass* and *S*. The *Pass* meda
 
 ## Dedication
 
-The **Dedication** medals can be obtained by playing a lot of osu! game mode, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
+The **Dedication** medals can be obtained by playing a lot of osu!, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
 
 ## Mod Introduction
 

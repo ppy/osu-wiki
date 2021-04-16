@@ -45,8 +45,8 @@ This mod has the same effect across all [game modes](/wiki/Game_mode).
 
 ### Trivia
 
-- Missing a note with the Sudden Death mod enabled will result in an extra large miss figure to appear in the [osu!](/wiki/Game_mode/osu!) game mode.
-- When playing with Sudden Death mod enabled in osu! game mode, there are rare cases where the player may survive from a full life bar drain for breaking the combo count. If the player managed to preserve at least a sliver of health by getting a slider tick in a very short time-margin right after the combo broke and before the life bar is drained completely, the player can continue playing the beatmap as is and no large miss figure will be imposed.
+- Missing a note with the Sudden Death mod enabled will result in an extra large miss figure to appear in [osu!](/wiki/Game_mode/osu!).
+- When playing with Sudden Death mod enabled in osu!, there are rare cases where the player may survive from a full life bar drain for breaking the combo count. If the player managed to preserve at least a sliver of health by getting a slider tick in a very short time-margin right after the combo broke and before the life bar is drained completely, the player can continue playing the beatmap as is and no large miss figure will be imposed.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

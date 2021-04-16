@@ -66,7 +66,7 @@ The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?
 
 This contest edition was the last one to use a marathon-style music (longer than 5 minutes) and also was the last to allow other game modes to participate, due to the low amount of contestants in osu!taiko, osu!catch and osu!mania.
 
-The song picked for osu! and osu!catch game modes was [Phantom Sage - Holystone](https://www.youtube.com/watch?v=gnZXoRb--z4) while the song for osu!taiko and osu!mania game modes was [Weyheyhey!! - Throw It Away](https://www.youtube.com/watch?v=qtQ8Xo4p9js).
+The song picked for osu! and osu!catch was [Phantom Sage - Holystone](https://www.youtube.com/watch?v=gnZXoRb--z4) while the song for osu!taiko and osu!mania was [Weyheyhey!! - Throw It Away](https://www.youtube.com/watch?v=qtQ8Xo4p9js).
 
 ![FBC 2016 Badge](img/fbc2016.png)
 

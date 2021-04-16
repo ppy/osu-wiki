@@ -12,7 +12,7 @@ tags:
 
 ## osu!
 
-In [osu!](/wiki/Game_mode/osu!) game mode, health will decrease at a steady rate called [health drain](/wiki/Beatmapping/Health_drain), but can be replenished by hitting notes at the right time or spinning spinners.
+In [osu!](/wiki/Game_mode/osu!), health will decrease at a steady rate called [health drain](/wiki/Beatmapping/Health_drain), but can be replenished by hitting notes at the right time or spinning spinners.
 
 Score bursts will appear after tapping hit circles, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover more health than a badly timed hit (50). Players also receive larger boosts if they achieve a katu or a geki at the end of a combo. A miss will drain health instead. If spinners are cleared early, continuing to spin will gain additional health back. For an overview of health recovery and health loss see below:
 

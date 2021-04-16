@@ -1,6 +1,5 @@
 ---
 no_native_review: true
-outdated: true
 ---
 
 # Nauwkeurigheid

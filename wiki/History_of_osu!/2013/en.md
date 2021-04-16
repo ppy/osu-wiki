@@ -30,7 +30,7 @@ Links:
 
 ## March
 
-osu! received a complete overhaul of the UI (User Interface)!. osu! game mode received a new leitmotif symbol (previously, it was a circle with "osu!", was now a circle with a "1"). Buttons on the editor has been updated. Special mode has been combined with Song Selection menu (named under "Mods"), allowing players to switch modes quicker and hassle-free. All [Game Modifiers](/wiki/Game_modifier) buttons received their respective image overhaul. The result screen now shows the beatmap's background image rather than user skin's result background.
+osu! received a complete overhaul of the UI (User Interface)! The osu! game mode received a new leitmotif symbol (previously, it was a circle with "osu!", was now a circle with a "1"). Buttons on the editor has been updated. Special mode has been combined with Song Selection menu (named under "Mods"), allowing players to switch modes quicker and hassle-free. All [Game Modifiers](/wiki/Game_modifier) buttons received their respective image overhaul. The result screen now shows the beatmap's background image rather than user skin's result background.
 
 Hit-Offset can now be known by hovering to the Accuracy from the result screen. Do note that it will disappear and can't be saved. Online Results was now hidden below the result screen rather than forcing you to see it. You can scroll down to see or you can just click the button and you will be directed to the Online Results screen.
 

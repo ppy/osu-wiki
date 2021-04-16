@@ -176,7 +176,7 @@ Combo will not be lost for missing droplets (considered as *Miss Droplet* in ser
 
 - 300s and a combo increment are not given to a finished spinner
 - reverse slider ticks are counted as a full score of a hit
-  - note that in the osu!, a reverse tick only gives 30 points
+  - note that in osu!, a reverse tick only gives 30 points
 
 #### osu!mania
 

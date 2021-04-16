@@ -322,7 +322,7 @@ The following will not increase or reset the score multiplier:
 
 ### Life meter
 
-Unlike the osu! game mode, the lifebar is different in osu!stream as it is based on gameplay mode.
+Unlike in osu!, the lifebar is different in osu!stream as it is based on gameplay mode.
 
 In **Easy Mode, lifebar is completely removed**.
 

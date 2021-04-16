@@ -18,7 +18,7 @@ In [osu!](/wiki/Game_mode/osu!), each [hit object](/wiki/Hit_object) has its own
 
 ## osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), each type of fruit is coloured by the currently selected combo colour. When a new combo is started, the combo colour changes. Unlike in [osu!](#osu!), fruits do not have a combo number.
+In [osu!catch](/wiki/Game_mode/osu!catch), each type of fruit is coloured by the currently selected combo colour. When a new combo is started, the combo colour changes. Unlike in osu!, fruits do not have a combo number.
 
 ## Other game modes
 

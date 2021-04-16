@@ -146,7 +146,7 @@ Combo has two meanings:
 1. A set of hit circles and sliders that comes one after another (also called a *comboset*).
 2. The number representing the number of objects a player has hit consecutively without missing or [sliderbreaking](#sliderbreak) once.
    - This number is displayed in various places:
-     - Bottom-left in[osu!](/wiki/Game_mode/osu!) game mode.
+     - Bottom-left in[osu!](/wiki/Game_mode/osu!).
      - On the drums in [osu!taiko](/wiki/Game_mode/osu!taiko).
      - Above the fruit catcher in [osu!catch](/wiki/Game_mode/osu!catch).
      - Centre of the stage in [osu!mania](/wiki/Game_mode/osu!mania) (vertical height varies by skin).
@@ -177,11 +177,11 @@ This feature was later disabled on 2013-03-05 due to performance concerns.
 
 A set of numbers that will shoot stars and display a comboburst (if enabled in the [options](/wiki/options)) after obtaining one of these milestones.
 
-The combo milestones for osu! and osu!catch game modes are 30, 60, 100, and multiples of 50 after 100. For osu!taiko, the combo milestones are multiples of 50. For osu!mania, the combo milestones are multiples of 100.
+The combo milestones for osu! and osu!catch are 30, 60, 100, and multiples of 50 after 100. For osu!taiko, the combo milestones are multiples of 50. For osu!mania, the combo milestones are multiples of 100.
 
 ### Combo Multiplier Effect
 
-The combo multiplier effect occurs in the osu!, osu!taiko, and osu!catch game modes. This occurs because said game modes use the player's current combo as a part of the score calculations. Meaning that a player would get a higher score, if they had gotten a full combo, than someone who played the same map with a broken combo.
+The combo multiplier effect occurs in the osu!, osu!taiko, and osu!catch. This occurs because said game modes use the player's current combo as a part of the score calculations. Meaning that a player would get a higher score, if they had gotten a full combo, than someone who played the same map with a broken combo.
 
 However, if you obtain a combo of ~10,000, your score will begin to count backwards. This is a flaw with the 32-bit signed integer where (in computing) the max integer is 2,147,483,647. A new scoring system, [scoreV2](/wiki/Score#scorev2), is in the works to fix this.
 
@@ -193,11 +193,11 @@ A term used when the player loses their combo during any part of playing a beatm
 
 A celebration of achieving a [combo milestone](#combo-milestone).
 
-- For osu! and osu!catch game modes, a character will *burst* out from either the left or right side of the window.
+- For osu! and osu!catch, a character will *burst* out from either the left or right side of the window.
 - For osu!taiko, a collection of flowers will *burst* behind pippidon.
 - For osu!mania, a character will *burst* from the right side of the stage (or left side or both if specified in the `skin.ini`).
 
-In addition to this, osu!, osu!taiko, and osu!catch game modes, stars will shoot out from either the left or right side of the playfield, for combos less than 100, then both sides for combos 100 or higher. For osu!mania, the stars will shoot out from the left and right sides of the stage.
+In addition to this, osu!, osu!taiko, and osu!catch, stars will shoot out from either the left or right side of the playfield, for combos less than 100, then both sides for combos 100 or higher. For osu!mania, the stars will shoot out from the left and right sides of the stage.
 
 Combobursts can be disabled in the options.
 
@@ -251,7 +251,7 @@ A collective term for *[Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Os
 
 A set of rhythm games, developed by [iNiS](https://en.wikipedia.org/wiki/INiS) for the Nintendo DS handheld video game system, which share a lot of gameplay and presentation elements.
 
-The osu! game mode was is mostly based off of those games.
+The osu! game mode is mostly based off of those games.
 
 ## E
 
@@ -271,7 +271,7 @@ Fail has three meanings:
 
 - The incompletion of a beatmap due to:
   - Not filling the health bar up to 80% when completing a beatmap (in [osu!taiko](/wiki/Game_mode/osu!taiko)).
-  - Empty health bar ([osu!](/wiki/Game_mode/osu!), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania) game mode).
+  - Empty health bar ([osu!](/wiki/Game_mode/osu!), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania)).
 - In multiplayer, an indicator underneath the player's name to show they have failed the beatmap.
 - The player having less than 50% health during a break; where an indicator will display if you failed the section.
   - A fail indicator will be shown.
@@ -285,7 +285,7 @@ Fail has three meanings:
 
 A term used when a player completes a beatmap while obtaining the maximum combo possible. This does not account accuracy as it is often used to mean clearing a beatmap without having any misses or [sliderbreaks](#sliderbreak).
 
-Due to the [combo multiplier effect](#combo-multiplier-effect), full combos will give the most score in osu!, osu!taiko, and osu!catch game modes.
+Due to the [combo multiplier effect](#combo-multiplier-effect), full combos will give the most score in osu!, osu!taiko, and osu!catch.
 
 ### Featured Artist
 
@@ -370,7 +370,7 @@ A blacklist of words (or users) that the player does not want to be displayed in
 
 ### Juice stream
 
-An osu!catch element that includes Drops and Droplets. Drops give a score of 100, equivalent to slider ticks in osu! game mode, while Droplets give a score of 10, equivalent to the [slider tick](#slider-tick) in osu!.
+An osu!catch element that includes Drops and Droplets. Drops give a score of 100, equivalent to slider ticks in osu!, while Droplets give a score of 10, equivalent to the [slider tick](#slider-tick) in osu!.
 
 Missing a Drop breaks the player's combo, but missing a Droplet does not.
 
@@ -426,13 +426,13 @@ A 3 second time period of silence that is sometimes automatically be inserted be
 
 ### Life Bar
 
-The life bar, also known as the *health bar*, *HP bar*, *spirit bar*, or *ki bar*, is a bar at the top left of the playing screen for [osu!](/wiki/Game_mode/osu!), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!taiko](/wiki/Game_mode/osu!taiko) game modes. For [osu!mania](/wiki/Game_mode/osu!mania), the life bar is rotated 90 degrees anti-clockwise and is placed next to the bottom-right of the stage.
+The life bar, also known as the *health bar*, *HP bar*, *spirit bar*, or *ki bar*, is a bar at the top left of the playing screen for [osu!](/wiki/Game_mode/osu!), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!taiko](/wiki/Game_mode/osu!taiko). For [osu!mania](/wiki/Game_mode/osu!mania), the life bar is rotated 90 degrees anti-clockwise and is placed next to the bottom-right of the stage.
 
 In all modes, expect for osu!mania, there is a symbol moving along it indicating the player's life. If the bar is completely empty, the player fails the current beatmap (assuming no special game modifiers are enabled).
 
-osu! and osu!catch game modes will have health drain at a constant rate—known as *passive HP*—throughout the course of a beatmap, except during breaks.
+osu! and osu!catch will have health drain at a constant rate—known as *passive HP*—throughout the course of a beatmap, except during breaks.
 
-For osu! game mode, the bar is replenished by the player [tapping](#tap) hit circles, following sliders and slider ticks, and spinning spinners. The more accurate the tapping, the bigger the boost. The player also receives larger boosts if he achieves a [katu](#katu) or an [geki](#geki) at the end of a combo.
+For osu!, the bar is replenished by the player [tapping](#tap) hit circles, following sliders and slider ticks, and spinning spinners. The more accurate the tapping, the bigger the boost. The player also receives larger boosts if he achieves a [katu](#katu) or an [geki](#geki) at the end of a combo.
 
 For osu!catch, this can be done by catching fruit and drops.
 
@@ -712,7 +712,7 @@ Silences lasts for 4 weeks before being reset, along with the time that gets add
 
 ### Skin
 
-A set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu!. This will allow for a more customized user experience. Most of what you see and hear in osu! can be skinned.
+A set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu!. This will allow for a more customised user experience. Most of what you see and hear in osu! can be skinned.
 
 To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/community/forums/15).
 
@@ -752,14 +752,6 @@ A mysterious phenomenon that could cause players to [choke](#choke) their [combo
 Stacked objects are hit objects that overlap each other in the playfield. The most common object that is stacked are hit circles.
 
 Stacking hit circles (a clear violation of beat spacing) is, nevertheless, permitted if the hit circles are very close to each other in the timeline (half a beat or usually even less).
-
-### Standard
-
-*Main page: [osu!](/wiki/Game_mode/osu!)*
-
-Standard refers to the game mode in osu! and has been used since it is the first game mode. This is previously known as *osu!standard* (without italics).
-
-This term is used greatly within the osu! wiki to prevent ambiguity between osu! (the framework, game client, etc.) and the game mode itself.
 
 ### Star
 

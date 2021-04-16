@@ -278,7 +278,7 @@ Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 
 11. **I want to vote, but I don't have any mapping experience, am I allowed to do so?**
 
-    Sadly, no you can't. You must have at least one ranked guest difficulty in osu!. If you meet these criteria, you'll be able to vote for the potential Team Captains based on your country flag, which means you can't vote for the Russian Team Captain if you're from the United Kingdom.
+    Sadly, no you can't. You must have at least one ranked guest difficulty in the osu! mode. If you meet these criteria, you'll be able to vote for the potential Team Captains based on your country flag, which means you can't vote for the Russian Team Captain if you're from the United Kingdom.
 
 12. **Are we allowed to change our votes?**
 

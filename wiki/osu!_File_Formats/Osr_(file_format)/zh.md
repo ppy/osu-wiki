@@ -19,7 +19,7 @@
 
 | 数据类型 | 描述 |
 | :-- | :-- |
-| Byte | 该回放的游戏模式（0 = osu!, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania） |
+| Byte | 该回放的游戏模式（0 = osu!, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania） |
 | Integer | 创建该回放文件的游戏版本（例如：20131216） |
 | String | 该地图的 MD5 hash 值 |
 | String | 玩家名称 |

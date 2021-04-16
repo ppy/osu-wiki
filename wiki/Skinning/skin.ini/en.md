@@ -54,7 +54,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 **interface/UI changes**
 
 - Thumbnail support.
-  - Must be enabled by the user in the [Options](/wiki/Options) and be supported by the skin in the skin.ini file.
+  - Must be enabled by the user in the [Options](/wiki/Options) and be supported by the skin in the [skin.ini](/wiki/Skinning/skin.ini) file.
 - Changes star rating display to scaling `star.png` instead of partially widthed `star.png`.
 - Panel text alignment optimisations.
 

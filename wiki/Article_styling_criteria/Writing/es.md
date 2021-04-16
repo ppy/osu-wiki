@@ -187,8 +187,6 @@ Los modos de juego deben escribirse como sigue:
 - `osu!catch`
 - `osu!mania`
 
-*Aviso: `osu!standard` se utiliza para mantener la consistencia al referirse al modo de juego. Los nombres de las carpetas, sin embargo, deben usar `osu!` aunque se refieran al modo de juego.*
-
 Referirse a los nombres de la antigua modalidad de juego (es decir, `Catch the Beat`, `Taiko` y `Mania`) puede hacerse si se discute el nombre anterior de dicha modalidad de juego.
 
 ## osu!

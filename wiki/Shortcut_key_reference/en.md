@@ -245,7 +245,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `Shift` + `S` | Scale selected hit objects by a specified amount (opens a dialog). |
 | `Ctrl` + `Shift` + `D` | Generate polygons with a specificied number of points (opens a dialog). |
 | `Ctrl` + `Shift` + `F` | Convert the selected slider into a hit circle stream (opens a dialog). |
-| `Ctrl` + `Left/Right/Up/Down Arrow` | Nudge the selected notes in the pressed direction. (osu!standard, osu!taiko, osu!catch) |
+| `Ctrl` + `Left/Right/Up/Down Arrow` | Nudge the selected notes in the pressed direction. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Left/Right Arrow` | Move selected objects left or right one column. (osu!mania) |
 | `Ctrl` + `Up/Down Arrow` | Move selected objects up or down one tick in time. (osu!mania) |
 

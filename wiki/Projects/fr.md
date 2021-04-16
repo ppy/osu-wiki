@@ -224,7 +224,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
 - [Beatmap URL Formatter](https://osu.ppy.sh/community/forums/topics/55305)—Programme qui formatte les URL de beatmaps en BBCode pour les poster.
 - [BloodyFox \[Android\]](https://osu.ppy.sh/community/forums/topics/475693)—Rechercher et télécharger des beatmaps/Voir les statistiques d'un joueur.
 - [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311)—Trouve le dossier osu! et rapporte son chemin. Utile pour les développeurs travaillant en IO sur leurs applications
-- [osu!ubscribe](https://osu.ppy.sh/community/forums/topics/587110)—Un service qui vous permet de vous abonner à vos créateurs favoris grâce à Discord.
+- [o!subscribe](https://osu.ppy.sh/community/forums/topics/587110)—Un service qui vous permet de vous abonner à vos créateurs favoris grâce à Discord.
   - [GitHub](https://github.com/christopher-dG/gosubscribe)
 - [osu! mouse simulator for Leap](https://osu.ppy.sh/community/forums/topics/139360)—Un emballage du mouvement du pointeur de souris pour Leap.
   - [GitHub](https://github.com/Brejlounek/Leap-Input)

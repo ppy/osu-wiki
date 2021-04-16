@@ -36,7 +36,7 @@
 
 ## xK mod score multipliers
 
-*Notice: This table only affects beatmaps converted from osu! game mode to osu!mania during play, not on osu!mania-specific beatmaps!*
+*Notice: This table only affects beatmaps converted from osu! to osu!mania during play, not on osu!mania-specific beatmaps!*
 
 | Default/Modifier | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
@@ -47,7 +47,7 @@
 
 ### *x*K mod with Co-op score multipliers
 
-*Notice: This table only affects beatmaps converted from osu! game mode to osu!mania during play, not on osu!mania-specific beatmaps. And as such, the Co-Op mod gives no penalty on osu!mania-specific beatmaps.*
+*Notice: This table only affects beatmaps converted from osu! to osu!mania during play, not on osu!mania-specific beatmaps. And as such, the Co-Op mod gives no penalty on osu!mania-specific beatmaps.*
 
 | Default/Modifier | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |

@@ -778,8 +778,6 @@ Dean Herbert（也就是 peppy）在 2007 年创造了 osu!。
 
 ### 游戏模式
 
-<!-- ppy 规定 std 的名字继续使用 osu!，直到创造了一个新名词。in:#osu-wiki from:ppy#0001 during:2017-07-12 osu! -->
-
 游戏模式必须拼写如下：
 
 - `osu!` (非官方，用于防止歧义)
@@ -787,17 +785,11 @@ Dean Herbert（也就是 peppy）在 2007 年创造了 osu!。
 - `osu!catch`
 - `osu!mania`
 
-*注意：`osu!` 用于保持游戏模式名字的一致性。但是如果文件夹名称指的是游戏模式，也必须使用 `osu!` 而不是 `osu!`。*
-
 如果需要使用游戏的旧名称，则游戏模式必须拼写如下：
 
  - `Catch the Beat`
  - `Taiko`
  - `Mania`
-
----
-
-诸如 [Ranking Criteria](/wiki/Ranking_Criteria) 类似的文章使用 `osu!` 代替 `osu!`。
 
 ### 缩写
 
