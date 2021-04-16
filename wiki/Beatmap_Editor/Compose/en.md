@@ -92,7 +92,7 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 **Your construction toolkit, made for DIY (do it yourself).**
 
-**Please note that in the osu!'s default notes, hitsounds works differently in osu!mania.**
+**Please note that in osu!, default note hitsounds work differently than in osu!mania.**
 
 - Adding clap on a notes will play `hitclap` + `hitnormal` sound on hit while in osu!mania: will only play `hitclap` sound on hit
 
