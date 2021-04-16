@@ -153,10 +153,26 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-06: Moved [NeKroMan4ik](https://osu.ppy.sh/users/11387664) from **Probationary BN** to **BN**
 - 2021-04-07: Moved [Mipha-](https://osu.ppy.sh/users/5767941) from **Probationary BN** to **BN**
 - 2021-04-08: Moved [Xinely](https://osu.ppy.sh/users/1521445) from **Probationary BN** to **BN**
+- 2021-04-16: Added [-mint-](https://osu.ppy.sh/users/8976576) to **Project Loved Team**
+- 2021-04-16: Added [Abraxos](https://osu.ppy.sh/users/5025064) to **Project Loved Team**
+- 2021-04-16: Added [Bubbleman](https://osu.ppy.sh/users/5182050) to **Project Loved Team**
+- 2021-04-16: Added [DigitalHypno](https://osu.ppy.sh/users/4384207) to **Project Loved Team**
+- 2021-04-16: Added [Kawawa](https://osu.ppy.sh/users/4647754) to **Project Loved Team**
+- 2021-04-16: Added [KuroKuroKuro](https://osu.ppy.sh/users/11931563) to **Project Loved Team**
+- 2021-04-16: Added [Penguinosity](https://osu.ppy.sh/users/10235296) to **Project Loved Team**
+- 2021-04-16: Added [POCARI SWEAT](https://osu.ppy.sh/users/5082685) to **Project Loved Team**
+- 2021-04-16: Added [Pope Gadget](https://osu.ppy.sh/users/2288341) to **Project Loved Team**
+- 2021-04-16: Added [Remus](https://osu.ppy.sh/users/6850949) to **Project Loved Team**
+- 2021-04-16: Added [Sartan](https://osu.ppy.sh/users/4100941) to **Project Loved Team**
+- 2021-04-16: Added [Spectator](https://osu.ppy.sh/users/702598) to **Project Loved Team**
+- 2021-04-16: Added [Tenshichan](https://osu.ppy.sh/users/1101600) to **Project Loved Team**
+- 2021-04-16: Added [waywern2012](https://osu.ppy.sh/users/5870453) to **Project Loved Team**
+- 2021-04-16: Added [Wesley](https://osu.ppy.sh/users/2407265) to **Project Loved Team**
+- 2021-04-16: Added [X a v y](https://osu.ppy.sh/users/3738344) to **Project Loved Team**
 
 #### Removals
 
 - 2021-04-02: Removed [Battle](https://osu.ppy.sh/users/4037545) from **Probationary BN**
 - 2021-04-04: Removed [BaAR_Vendel](https://osu.ppy.sh/users/8679346) from **BN**
 
-<!-- last update: 2021-04-08 11:00 UTC moved xinely from probation to bn -->
+<!-- last update: 2021-04-08 11:00 UTC moved xinely from probation to bn. the 2021-04-16 Project Loved Team updates were added independently from the rest of the log, so there may be unlogged updates before them. remove these 2 sentences when checked -->
