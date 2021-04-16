@@ -10,18 +10,18 @@ tags:
 
 # Tapx
 
-*Avis : Ce style de jeu nécessite l'utilisation d'une tablette graphique.*
+*Note : Ce style de jeu nécessite l'utilisation d'une tablette graphique.*
 
-Le **tapx** est un style de jeu pour les joueurs de [tablette uniquement](/wiki/Play_style#tablet-only) dans [osu!standard](/wiki/Game_mode/osu!) dans lequel les joueurs cliquent sur des cercles, font glisser des sliders et font tourner des spinners en tapotant un stylet sur une tablette, avec une touche secondaire du clavier et/ou de la tablette pour les [streams](/wiki/Beatmap/Pattern/Stream) et les [stacks](/wiki/Mapping_Techniques/Stack). Cette méthode est assez difficile pour la plupart des joueurs et n'est pas très populaire parmi les joueurs sur tablette.
+Le **tapx** est une méthode de jeu pour les joueurs de [tablette uniquement](/wiki/Play_style#tablet-only) dans le mode [osu!](/wiki/Game_mode/osu!) qui consiste à cliquer sur les cercles, faire glisser les sliders, ou faire tourner les spinners en tapotant un stylet sur une tablette, avec une touche secondaire du clavier et/ou de la tablette pour les [streams](/wiki/Beatmap/Pattern/Stream) et les [stacks](/wiki/Mapping_Techniques/Stack). Cette méthode est assez difficile pour la plupart des joueurs et n'est pas très populaire parmi les joueurs sur tablette.
 
 ## Streaming
 
 *Remarque : la superposition d'entrée montrera toutes les touches de la tablette en tant que `M1`.*
 
-Le streaming via tapx s'effectue en alternant le tapotement d'un stylo sur une tablette et l'appui rapide sur une autre touche secondaire assignée (`Z` et `X` par défaut). Certains joueurs peuvent trouver du réconfort en alternant le tapotement de la tablette et la touche secondaire entre chaque [objet](/wiki/Hit_objects), de la même manière que les joueurs qui utilise l'[alternating](/wiki/Play_style/Alternating) déterminent les pressions de touche entre chaque objets.
+Le **streaming** via tapx s'effectue en alternant le tapotement d'un stylet sur une tablette et l'appui rapide sur une autre touche secondaire assignée (`Z` et `X` par défaut). Certains joueurs peuvent trouver du réconfort en alternant le tapotement de la tablette et la touche secondaire entre chaque [objet](/wiki/Hit_objects), de la même manière que les joueurs qui utilise l'[alternating](/wiki/Play_style/Alternating) déterminent les pressions de touche entre chaque objets.
 
 ## Arguments
 
 Le tapx n'a généralement pas d'avantages et d'inconvénients par rapport aux autres styles de style de jeu sur tablette, car il s'agit moins d'un tapping style avantageux que d'une nécessité pour les joueurs sur tablette.
 
-Bien sûr, les joueurs qui ne jouent qu'avec une tablette le font généralement par préférence personnelle, mais il est largement reconnu que le streaming en utilisant uniquement les tapes de la tablette est pratiquement impossible, et nécessite donc l'utilisation du tapx ou d'une autre seconde méthode de saisie pour réaliser les streams.
+Bien sûr, les joueurs qui ne jouent qu'avec une tablette le font généralement par préférence personnelle, mais il est largement reconnu que le streaming en utilisant uniquement les tapotement de la tablette est pratiquement impossible, et nécessite donc l'utilisation du tapx ou d'une seconde méthode de saisie pour réaliser les streams.
