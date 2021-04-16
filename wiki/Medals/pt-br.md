@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Conquistas
 
 **Conquistas** (também chamadas de **Medalhas**) são pequenas insígnias no perfil de alguém que indicam que o jogador alcançou um objetivo excepcional. Atualmente, elas estão divididas em 5 grupos.
@@ -41,7 +42,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
 
 #### Curiosidades
 
-- [Pacotes de beatmaps clássicos (2009 — 2016) antes da atualização de Stefan.](Beatmap_Packs_0916)
+- [Pacotes de beatmaps clássicos (2009 — 2016) antes da atualização de Stefan.](Legacy_Beatmap_Packs)
 
 ## Skill
 
