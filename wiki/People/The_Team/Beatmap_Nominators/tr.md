@@ -210,7 +210,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/5767941) |  |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/5767941) | İspanyolca, Portekizce, İtalyanca, Japonca |
 
 ## Tarihçe
 
