@@ -77,7 +77,7 @@ Some VPN providers and proxy servers simply do not work with osu! for whatever r
 
 **We'll need a `network.log` file from you to figure out what's going on if neither of the above solutions work.**
 
-For information on how to get a netwrok.log file to send to us, see [log files](/wiki/Help_Centre#log_files).
+For information on how to get a network.log file to send to us, see [log files](/wiki/Help_Centre#log_files).
 
 Rarely, you might need to contact your Internet Service Provider (ISP) to inquire about these problems. Certain ISPs have historically had issues connecting to osu!, usually due to poor routing.
 
