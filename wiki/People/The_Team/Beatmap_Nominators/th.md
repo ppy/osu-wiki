@@ -210,7 +210,7 @@ tags:
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/5767941) |  |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/5767941) | สเปน, โปรตุเกส, อิตาลี, ญี่ปุ่น |
 
 ## ประวัติ
 

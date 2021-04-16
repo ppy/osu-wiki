@@ -210,7 +210,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/5767941) |  |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/5767941) | Spanish, Portuguese, Galician, Italian, Japanese |
 
 ## History
 
