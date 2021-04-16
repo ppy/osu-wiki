@@ -69,9 +69,9 @@ The North American Taiko Tournament 2018 was run by various community members.
 | **A** | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_US] [JarHed](https://osu.ppy.sh/users/7488794) | ![][flag_CA] [ayyEve](https://osu.ppy.sh/users/5013564) | ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
 | **B** | ![][flag_US] [yea](https://osu.ppy.sh/users/6874332) | ![][flag_MX] [Mennock](https://osu.ppy.sh/users/854580) | ![][flag_US] [Obama Taichou](https://osu.ppy.sh/users/3220847) | ![][flag_US] [dragonworm](https://osu.ppy.sh/users/11464752) |
 | **C** | ![][flag_US] [\_knots](https://osu.ppy.sh/users/4407678) | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) | ![][flag_US] [jyake\_ou](https://osu.ppy.sh/users/9099822) | ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934) |
-| **D** | ![][flag_US] [Catgirl](https://osu.ppy.sh/users/2771995) | ![][flag_US] worst player | ![][flag_US] [Brames](https://osu.ppy.sh/users/6417190) | ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062)|
+| **D** | ![][flag_US] [Catgirl](https://osu.ppy.sh/users/2771995) | ![][flag_US] worst player | ![][flag_US] [Brames](https://osu.ppy.sh/users/6417190) | ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062) |
 | **E** | ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038) | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) | ![][flag_US] [Karoshi\_tv](https://osu.ppy.sh/users/9879536) | ![][flag_US] [-Treble](https://osu.ppy.sh/users/5750909) |
-| **F** |![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_US] [Tem](https://osu.ppy.sh/users/5393042) | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | ![][flag_US] [Kotu776](https://osu.ppy.sh/users/8494571) |
+| **F** | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_US] [Tem](https://osu.ppy.sh/users/5393042) | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | ![][flag_US] [Kotu776](https://osu.ppy.sh/users/8494571) |
 | **G** | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) | ![][flag_US] [Alchyr](https://osu.ppy.sh/users/4993032) | ![][flag_US] [Voltaeyx](https://osu.ppy.sh/users/2715118) | ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977) |
 | **H** | ![][flag_US] [Das](https://osu.ppy.sh/users/3165416) | ![][flag_US] [closed](https://osu.ppy.sh/users/5116922) | ![][flag_MX] [GodEater7x](https://osu.ppy.sh/users/6911992) | ![][flag_US] [booty](https://osu.ppy.sh/users/4605217) |
 
@@ -215,7 +215,6 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-
 - NoMod
   - [DJ TECHNORCH - Digital Kecak No_5 (Remo-Con Remix Radio Edit) (Pettsu) \[Yuni's uchuujin\]](https://osu.ppy.sh/beatmapsets/599672#taiko/1313638)
   - [Zekk - Palpitation (yuzu\_\_rinrin) \[Pe'z Inner Oni\]](https://osu.ppy.sh/beatmapsets/761071#taiko/1608677)
@@ -352,7 +351,6 @@ Complete Group Stage match results can be accessed through the [statistics sheet
 15. Players will have up to 15 minutes after the scheduled time to show up. Failure to show up without prior notice will result in a win by default.
 16. Any modification of these rules will be announced.
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
