@@ -87,7 +87,7 @@ En tant qu'utilisateur, vous avez le droit de migrer, de mettre à jour ou de su
 
 Dans de nombreux cas, les soumissions d'utilisateurs telles que les messages de forum et les beatmaps peuvent être supprimés sur une base individuelle. Vous trouverez des boutons de suppression directement associés aux éléments qui peuvent être supprimés.
 
-Si vous résidez dans un pays membre de l'Union européenne, vous avez la possibilité de supprimer votre compte de notre service. Veuillez noter qu'il s'agit actuellement d'un processus manuel qui peut prendre plusieurs jours à compléter ([contactez-nous](mailto:privacy@ppy.sh) pour déposer une demande). Dans le cas d'une suppression de compte, une partie de vos contributions publiques peut rester intacte, comme indiqué dans la section "Informations que nous collectons". 
+Vous avez la possibilité de supprimer votre compte de notre service. Veuillez noter qu'il s'agit actuellement d'un processus manuel qui peut prendre plusieurs jours à compléter ([contactez-nous](mailto:privacy@ppy.sh) pour déposer une demande). Dans le cas d'une suppression de compte, une partie de vos contributions publiques peut rester intacte, comme indiqué dans la section "Informations que nous collectons". 
 
 Comme nous avons une politique stricte d'un seul compte par utilisateur pour maintenir des classements équitables, après la suppression d'un compte, il se peut que vous ne puissiez pas revenir à notre service. Pour ce faire, nous conserverons également la chaîne d'identification unique mentionnée dans la section "Informations que nous recueillons".
 
