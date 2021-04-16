@@ -52,7 +52,6 @@ tags:
 | ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | ญี่ปุ่น |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | อิตาลี |
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | จีน |
-| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | ญี่ปุ่น |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | เกาหลี |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | จีน |
@@ -82,6 +81,7 @@ tags:
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | เยอรมัน |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | เดนมาร์ก |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
+| ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | รัสเซีย |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | จีน |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  |
@@ -147,6 +147,7 @@ tags:
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | เยอรมัน |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | รัสเซีย |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | กรีก |
+| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | อินโดนีเซีย |
 
 #### osu!mania
 
@@ -162,6 +163,7 @@ tags:
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | ฟิลิปปินส์ |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | อินโดนีเซีย |
+| ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | อินโดนีเซีย |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | เกาหลี |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | จีน, กวางตุ้ง |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | อินโดนีเซีย |
@@ -183,7 +185,6 @@ tags:
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | ฝรั่งเศส, เยอรมัน |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | เกาหลี |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | เยอรมัน |
-| ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | รัสเซีย |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | โรมาเนีย, ฝรั่งเศส |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
@@ -203,15 +204,13 @@ tags:
 | :-- | :-- |
 | ![][flag_AT] [NyalettOwO x3](https://osu.ppy.sh/users/7592136) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
-| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | อินโดนีเซีย |
 
 #### osu!mania
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/5767941) |  |
-| ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | อินโดนีเซีย |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/5767941) | สเปน, โปรตุเกส, อิตาลี, ญี่ปุ่น |
 
 ## ประวัติ
 
@@ -239,7 +238,6 @@ tags:
 [flag_HK]: /wiki/shared/flag/HK.gif "ฮ่องกง"
 [flag_ID]: /wiki/shared/flag/ID.gif "อินโดนีเซีย"
 [flag_IT]: /wiki/shared/flag/IT.gif "อิตาลี"
-[flag_JP]: /wiki/shared/flag/JP.gif "ญี่ปุ่น"
 [flag_KR]: /wiki/shared/flag/KR.gif "เกาหลีใต้"
 [flag_MY]: /wiki/shared/flag/MY.gif "มาเลเซีย"
 [flag_NL]: /wiki/shared/flag/NL.gif "เนเธอร์แลนด์"
