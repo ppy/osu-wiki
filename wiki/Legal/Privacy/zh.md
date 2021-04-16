@@ -1,7 +1,6 @@
 ---
 legal: true
 outdated: true
-outdated_since: e95d1bf509dcb730b46f93ef70215e84f57bc37f
 ---
 
 # osu! 隐私政策
