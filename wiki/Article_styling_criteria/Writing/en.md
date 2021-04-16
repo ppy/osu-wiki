@@ -83,7 +83,7 @@ When writing out game modifiers for tournament articles, they must instead use u
 Gameplay elements must not be capitalised, unless they act as a title for a link that points to the article. The following is an example:
 
 ```markdown
-In osu!standard, beatmaps are composed of three different gameplay elements: hit circles, sliders, and spinners.
+In the osu! game mode, beatmaps are composed of three different gameplay elements: hit circles, sliders, and spinners.
 ```
 
 ### Language names
@@ -177,16 +177,12 @@ October 25, 2016 (11:45 UTC)
 
 Game modes must be written as follows:
 
-- `osu!standard` (unofficial, but used to prevent ambiguity)
+- `osu!`
 - `osu!taiko`
 - `osu!catch`
 - `osu!mania`
 
-*Notice: `osu!standard` is used to maintain consistency when referring to the game mode. Folder names, however, must use `osu!` even if it is referring to the game mode.*
-
 Referring to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) may be done if discussing said game mode's previous name.
-
-Articles such as the [Ranking Criteria](/wiki/Ranking_Criteria) may use `osu!` instead of `osu!standard`.
 
 ## osu!
 

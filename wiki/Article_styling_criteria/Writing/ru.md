@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Содержание статей
 
 *См. также: [Оформление статей](/wiki/Article_style_criteria/Formatting)*
