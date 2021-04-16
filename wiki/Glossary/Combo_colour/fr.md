@@ -13,9 +13,9 @@ Les **couleurs de combo** sont des couleurs qui permettent de séparer les [comb
 
 Les couleurs de combo sont des aspects importantes de l'esthétique d'une beatmap, car c'est l'un des seuls moyens de modifier l'aspect visuel d'une beatmap en dehors du [storyboarding](/wiki/Storyboard_Scripting) et du [skinning](/wiki/Skinning). Les couleurs de combos peuvent être définies dans le panneau [Song Setup](/wiki/Beatmap_Editor/Song_Setup) avec un minimum de 2 et un maximum de 8 couleurs de combo. Les couleurs de combo définies dans un skin ne seront utilisées que si le mappeur ne définit pas de couleurs de combo ou si le joueur les remplace dans ses paramètres.
 
-## osu!standard
+## osu!
 
-Dans le mode [osu!standard](/wiki/Game_mode/osu!), tous les [combosets](/wiki/Beatmapping/Combo) ont une couleur. Un nouveau combo est lancé lorsque la couleur de l'[objet](/wiki/Hit_object) change. Les couleurs se répètent en fonction du nombre de combos définis par le mappeur (ou par le fichier [skin.ini](/wiki/Skinning/skin.ini) de votre skin).
+Dans le mode [osu!](/wiki/Game_mode/osu!), tous les [combosets](/wiki/Beatmapping/Combo) ont une couleur. Un nouveau combo est lancé lorsque la couleur de l'[objet](/wiki/Hit_object) change. Les couleurs se répètent en fonction du nombre de combos définis par le mappeur (ou par le fichier [skin.ini](/wiki/Skinning/skin.ini) de votre skin).
 
 ## osu!catch
 
