@@ -191,6 +191,8 @@ This doesn't mean you can make a new account to do the same thing, either! Havin
 
 #### Can i delete my account?
 
+*For more information on account deletion, see: [your rights and controls](https://osu.ppy.sh/legal/Privacy/your-rights-and-control).*
+
 *Caution: Account deletion is permanent and therefore cannot be undone!*
 
 Any user can request for their account to be deleted by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh). Keep in mind that deleting your account **does not** mean you can create a new account, as that is against the [community rules](/wiki/Rules#community-rules).
