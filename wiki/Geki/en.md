@@ -8,44 +8,42 @@ tags:
 
 *See also: [Katu](/wiki/Katu)*
 
-**Geki (激)**, or *Elite Beat!*, is a [scoring](/wiki/Score) term used when a player has completed a comboset with the highest possible [accuracy](/wiki/Gameplay/Accuracy) on every note.
+**Geki (激)**, or *Elite Beat!*, is a [scoring](/wiki/Score) term for when a [combo](/wiki/Beatmapping/Combo) is completed with the highest possible [accuracy](/wiki/Gameplay/Accuracy) on every note. It gives higher HP boost in comparison with the last 300 on a non-perfect combo.
 
-Geki gives a higher HP gain, compared to a combo ending with a non-Geki 300s.
-
-This idea originates from the Nintendo DS game [Elite Beat Agents](/wiki/iNiS_games), which [osu!](/wiki/Game_mode/osu!)'s gameplay is based on.
+Geki comes from the Nintendo DS game [Elite Beat Agents](/wiki/iNiS_games), which [osu!](/wiki/Game_mode/osu!)'s gameplay is based on.
 
 ## Screenshots
 
-In here provided the screenshots of obtaining a Geki/Elite Beat from Elite Beat Agents, Ouendan 2, and osu! itself.
+![Geki in Elite Beat Agents](img/eba-bornlove-300g.jpg "Geki in Elite Beat Agents")
 
-![](img/eba-bornlove-300g.jpg) ![](img/oto-sambomaster-300g.jpg)
+![Geki in Osu! Tatakae! Ouendan! 2](img/oto-sambomaster-300g.jpg "Geki in Osu! Tatakae! Ouendan! 2")
 
-![](img/osu-lonelest-300g.jpg)
+![Geki in osu!](img/osu-lonelest-300g.jpg "Geki in osu!")
 
 ## Other game modes
 
 ### osu!taiko
 
-Geki is only shown on result screen to show all big note hitting succession.
+Geki is only shown on the results screen for successful large note hits.
 
 ### osu!catch
 
-Geki shows that the player completed the combo without breaking it.
+osu!catch doesn't have Geki.
 
 ### osu!mania
 
-Geki is shown as a sprite with rainbow-coloured `MAX` written over it. During the score calculation process, it is worth 320 points instead of 300. There's no accuracy difference between a 300 and a MAX in osu!mania.
+Geki denotes a perfectly timed hit, and its osu!mania sprite is a rainbow-coloured `300`, often called MAX. Its score value is 320, but it has the same accuracy value as a regular 300.
 
-## Other game aspects
+## Storyboard
 
-### Storyboard (DS Games)
+### DS Games
 
-Geki triggers the best tier on the storyboard during the gameplay, which usually shows a very strong spirit during the sequence.
+Geki triggers the best tier on the storyboard during the gameplay, which usually shows very strong spirit during the sequence.
 
-### Storyboard (osu!)
+### osu!
 
-Storyboards in osu! are mostly intended for osu!standard. Obtaining Geki makes several events occur:
+Obtaining Geki triggers several events:
 
 - [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers) is deactivated.
 - [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers) is activated.
-- "Passing" event is triggered, if the previous state was Fail.
+- "Passing" event is triggered, if the previous state was "Fail".
