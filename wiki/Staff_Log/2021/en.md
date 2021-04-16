@@ -175,4 +175,4 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-02: Removed [Battle](https://osu.ppy.sh/users/4037545) from **Probationary BN**
 - 2021-04-04: Removed [BaAR_Vendel](https://osu.ppy.sh/users/8679346) from **BN**
 
-<!-- last update: 2021-04-08 11:00 UTC moved xinely from probation to bn -->
+<!-- last update: 2021-04-08 11:00 UTC moved xinely from probation to bn. the 2021-04-16 Project Loved Team updates were added independently from the rest of the log, so there may be unlogged updates before them. remove these 2 sentences when checked -->
