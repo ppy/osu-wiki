@@ -2,6 +2,7 @@
 tags:
   - grade
   - ranking
+no_native_review: true
 ---
 
 # Rank

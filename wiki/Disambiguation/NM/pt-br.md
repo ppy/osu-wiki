@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # NM
 
 **NM** pode ter vários significados:

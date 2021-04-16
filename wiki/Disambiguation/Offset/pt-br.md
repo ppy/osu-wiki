@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Offset (desambiguação)
 
 **Offset** pode ter vários significados:

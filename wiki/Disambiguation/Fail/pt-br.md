@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Fail (desambiguação)
 
 **Fail** pode ter múltiplos significados:

@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Combo (desambiguação)
 
 **Combo** pode tem múltiplos significados:
