@@ -317,7 +317,8 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [North & South American Taiko Tournament 2019](NSATT/2019) | 2019-06-22 | 2019-07-28 | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_BR] [eae](https://osu.ppy.sh/users/4050738) |
+| [North American Taiko Tournament 2018](NSATT/NATT_2018) | 2018-07-28 | 2018-09-01 | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
+| [North & South American Taiko Tournament 2019](NSATT/NSATT_2019) | 2019-06-22 | 2019-07-28 | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_BR] [eae](https://osu.ppy.sh/users/4050738) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
