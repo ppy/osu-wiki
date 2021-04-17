@@ -144,15 +144,7 @@ Abbreviations for user groups are used throughout this log:
 
 ## April
 
-### Beatmap Nominators
-
-#### Moves
-
-- 2021-04-01: Moved [Crissa](https://osu.ppy.sh/users/5405836) from **BN** to **Probationary BN**
-- 2021-04-01: Moved [Smoke](https://osu.ppy.sh/users/10726630) from **Probationary BN** to **BN**
-- 2021-04-06: Moved [NeKroMan4ik](https://osu.ppy.sh/users/11387664) from **Probationary BN** to **BN**
-- 2021-04-07: Moved [Mipha-](https://osu.ppy.sh/users/5767941) from **Probationary BN** to **BN**
-- 2021-04-08: Moved [Xinely](https://osu.ppy.sh/users/1521445) from **Probationary BN** to **BN**
+- 2021-04-13: Moved [Leniane](https://osu.ppy.sh/users/7138602) from **NAT** to **osu! Alumni**
 - 2021-04-16: Added [-mint-](https://osu.ppy.sh/users/8976576) to **Project Loved Team**
 - 2021-04-16: Added [Abraxos](https://osu.ppy.sh/users/5025064) to **Project Loved Team**
 - 2021-04-16: Added [Bubbleman](https://osu.ppy.sh/users/5182050) to **Project Loved Team**
@@ -169,10 +161,27 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-16: Added [waywern2012](https://osu.ppy.sh/users/5870453) to **Project Loved Team**
 - 2021-04-16: Added [Wesley](https://osu.ppy.sh/users/2407265) to **Project Loved Team**
 - 2021-04-16: Added [X a v y](https://osu.ppy.sh/users/3738344) to **Project Loved Team**
+- 2021-04-16: Removed [nekodex](https://osu.ppy.sh/users/102) from **osu! Alumni**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2021-04-15: Added [Souvenir](https://osu.ppy.sh/users/14057792) to **Probationary BN**
+- 2021-04-15: Added [Okoratu](https://osu.ppy.sh/users/1623405) to **Probationary BN**
+
+#### Moves
+
+- 2021-04-01: Moved [Crissa](https://osu.ppy.sh/users/5405836) from **BN** to **Probationary BN**
+- 2021-04-01: Moved [Smoke](https://osu.ppy.sh/users/10726630) from **Probationary BN** to **BN**
+- 2021-04-06: Moved [NeKroMan4ik](https://osu.ppy.sh/users/11387664) from **Probationary BN** to **BN**
+- 2021-04-07: Moved [Mipha-](https://osu.ppy.sh/users/5767941) from **Probationary BN** to **BN**
+- 2021-04-08: Moved [Xinely](https://osu.ppy.sh/users/1521445) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2021-04-02: Removed [Battle](https://osu.ppy.sh/users/4037545) from **Probationary BN**
 - 2021-04-04: Removed [BaAR_Vendel](https://osu.ppy.sh/users/8679346) from **BN**
+- 2021-04-15: Removed [-Aqua](https://osu.ppy.sh/users/7150015) from **BN**
 
 <!-- last update: 2021-04-08 11:00 UTC moved xinely from probation to bn. the 2021-04-16 Project Loved Team updates were added independently from the rest of the log, so there may be unlogged updates before them. remove these 2 sentences when checked -->

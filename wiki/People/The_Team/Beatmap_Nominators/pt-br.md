@@ -46,7 +46,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonésio |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Russo |
 | ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japonês |
@@ -185,6 +184,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | Francês, Alemão |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Alemão |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Alemão |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romeno, Francês |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
@@ -203,6 +203,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ![][flag_AT] [NyalettOwO x3](https://osu.ppy.sh/users/7592136) |  |
+| ![][flag_CN] [Souvenir](https://osu.ppy.sh/users/14057792) | Chinês |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
@@ -210,7 +211,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/5767941) | Espanhol, Português, Italiano, Japonês |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Espanhol, Português, Italiano, Japonês |
 
 ## History
 

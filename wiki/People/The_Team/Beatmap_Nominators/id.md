@@ -46,7 +46,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Tagalog |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesia |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Rusia |
 | ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Jepang |
@@ -185,6 +184,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | Prancis, Jerman |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korea |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Jerman |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Rumania, Prancis |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
@@ -203,6 +203,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_AT] [NyalettOwO x3](https://osu.ppy.sh/users/7592136) |  |
+| ![][flag_CN] [Souvenir](https://osu.ppy.sh/users/14057792) | Mandarin |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
@@ -210,7 +211,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/5767941) | Spanyol, Portugis, Italia, Jepang |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Spanyol, Portugis, Italia, Jepang |
 
 ## Sejarah
 
