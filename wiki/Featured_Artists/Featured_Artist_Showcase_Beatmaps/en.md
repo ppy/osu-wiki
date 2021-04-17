@@ -306,7 +306,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Empty Peperoncino - Ame ni Utaeba](https://osu.ppy.sh/beatmapsets/1385670#osu/2862491) hosted by ![][flag_CA] [cococolaco](https://osu.ppy.sh/users/9579526)
   - (![][osu!]) [Empty Peperoncino - End Roll Empty Peperoncino ver. (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1361717#osu/2817599) hosted by ![][flag_CL] [Hazu-](https://osu.ppy.sh/users/4668230)
 - **[polysha](https://osu.ppy.sh/home/news/2021-03-10-new-featured-artist-polysha)** (2021-03-10)
-  - (![][osu!catch]) [polysha - Hypnos Metropolis](https://osu.ppy.sh/beatmapsets/1339895#fruits/2775957) hosted by ![][flag_PL] [Jemzuu](https://osu.ppy.sh/users/7890134)
+  - (![][osu!catch]) [polysha - Hypnos Metropolis](https://osu.ppy.sh/beatmapsets/1339895#fruits/2775957) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
   - (![][osu!mania]) [polysha - TAKEMIKADUCHI](https://osu.ppy.sh/beatmapsets/1357994#mania/2810330) hosted by ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
 - **[URBANGARDE](https://osu.ppy.sh/home/news/2021-03-20-new-featured-artist-urbangarde)** (2021-03-20)
   - (![][osu!]) [URBANGARDE - BAERUNA](https://osu.ppy.sh/beatmapsets/1330252#osu/2756144) hosted by ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
@@ -326,6 +326,8 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [YUZUKINGDOM - Roskill Lavender](https://osu.ppy.sh/beatmapsets/1410727#osu/2908440) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
 - **[fiend](https://osu.ppy.sh/home/news/2021-04-14-new-featured-artist-fiend)** (2021-04-14)
   - (![][osu!]) [fiend - FEVER DREAM (feat. yzzyx)](https://osu.ppy.sh/beatmapsets/1405913#osu/2899195) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
+- **[2ToneDisco](https://osu.ppy.sh/home/news/2021-04-17-new-featured-artist-2tonedisco)** (2021-04-17)
+  - (![][osu!]) [2ToneDisco x Kabuki - Giga](https://osu.ppy.sh/beatmapsets/1392421) hosted by ![][flag_CL] [Hazu-](https://osu.ppy.sh/users/4668230)
 
 ## History
 
