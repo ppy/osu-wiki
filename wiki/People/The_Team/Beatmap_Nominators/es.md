@@ -47,7 +47,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesio |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Ruso |
 | ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japonés |
@@ -74,9 +73,9 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Español |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Alemán |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbio |
-| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Español |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Alemán |
@@ -148,7 +147,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Alemán |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Ruso |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Griego |
-| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Indonesio |
 
 #### osu!mania
 
@@ -184,8 +182,8 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Español |
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | Francés, alemán |
-| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Alemán |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Alemán |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Rumano, francés |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
@@ -203,7 +201,9 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Tailandés |
 | ![][flag_AT] [NyalettOwO x3](https://osu.ppy.sh/users/7592136) |  |
+| ![][flag_CN] [Souvenir](https://osu.ppy.sh/users/14057792) | Chino |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
@@ -211,7 +211,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/5767941) | Español, portugués, italiano, japonés |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Español, portugués, italiano, japonés |
 
 ## Historia
 
