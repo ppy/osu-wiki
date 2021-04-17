@@ -98,6 +98,9 @@ Mức giới hạn này cố gắng giữ tần suất khung hình bằng với 
 
 1. Mở thư mục osu! của bạn (Mặc định là `C:\Users\<TênTàiKhoảnPC>\AppData\Local\osu!` ở Windows; `/Applications/osu!.app/Contents/Resources/drive_c/osu!` ở Mac.)
 Bạn cũng có thể bấm vào "Mở thư mục chứa osu!" ở Options (Tuỳ chỉnh) trong game.
-2. Mở tệp `osu!.<TênTàiKhoảnPC>.cfg` bằng Notepad hoặc một trình soạn thảo văn bản nào khác theo ý thích.
-3. Tìm dòng `FrameSync = <giá trị nào đó>` và sửa giá trị thành `Custom`.
-4. Tìm dòng `CustomFrameLimit = <giá trị nào đó>` và sửa giá trị thành con số bạn muốn.
+2. Đóng osu!.
+3. Mở tệp `osu!.<TênTàiKhoảnPC>.cfg` bằng Notepad hoặc một trình soạn thảo văn bản nào khác theo ý thích.
+4. Tìm dòng `FrameSync = <giá trị nào đó>` và sửa giá trị thành `Custom`.
+5. Tìm dòng `CustomFrameLimit = <giá trị nào đó>` và sửa giá trị thành con số bạn muốn.
+6. Lưu tệp config. Nếu bạn chưa đóng osu! ở bước thứ hai, hãy làm điều đó trước khi lưu.
+7. Mở lại game.
