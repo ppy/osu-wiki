@@ -89,19 +89,15 @@ Even so, if heat generation and potentially overworking your hardware is not con
 
 ### Custom
 
-This frame limiter attempts to keep a frame rate equal to your custom preference. However, this is a setting that cannot be changed to within the in-game menu.
+*Note that, if you're using the Cutting Edge release stream, changing the `CustomFrameLimit` to any number above 999, will be reverted to 999; on Stable, you can set the value above 1000 with no issues.*
+*Also note that you cannot switch into this setting with the `F7` shortcut in-game, even if you had done the steps above: you'll need to switch to Custom in the Settings before quitting the game so it'll be available the next time osu! runs. Otherwise, you'll have to change the `FrameSync` manually again.*
 
-To change osu! custom maximum framerate, you'll need to tweak some values in the config file. Here's the steps:
+This frame limiter attempts to keep a frame rate equal to your custom preference; however, this is a setting that cannot be changed to within the in-game menu by default.
 
-- Open your osu! folder. (The default is `C:\Users\<yourPCusername>\AppData\Roaming\osu!`.)
-- Open the `osu!.<yourPCusername>.cfg` file with Notepad or any text editors.
-- Find the line `FrameSync = <value>` and change the value to `Custom`.
-- Find the line `CustomFrameLimit = <value>` and change the value to your preference.
+To change osu!'s custom maximum framerate, you'll need to tweak some values in the config file:
 
-This is our recommended frame limiter for users who:
-
-- Want to set the frame limiter at 4x refresh rate, etc. but the game doesn't have the option to do so.
-- Doesn't satisfied with the maximum of 960fps that Optimal gives (but **do not** want to run their CPU/GPU to extremities), resulting in even lower input latency than Optimal without abusing your CPU/GPU too much with Unlimited.
-
-Note that, if you're using cuttingedge Release Stream, if you change the `CustomFrameLimit` to any number above 999, it will be reverted to 999. On Stable, you can set the value above 1000 normally.
-Also, you can not switch into this setting with F7 shortcut in-game, even if you had done the steps above, (only available via the Settings menu). And you'll need to switch to Custom in the Settings before quitting the game, so it'll be available the next time osu! runs. Else, you'll have to change the `FrameSync` manually again.
+1. Open your osu! folder. (The default is `C:\Users\<yourPCusername>\AppData\Local\osu!` for Windows; `/Applications/osu!.app/Contents/Resources/drive_c/osu!` for Mac.)
+You can also click the "Open osu! folder" button in Options menu in-game.
+2. Open the `osu!.<yourPCusername>.cfg` file with Notepad or a text editor of your choice.
+3. Find the line `FrameSync = <value>` and change the value to `Custom`.
+4. Find the line `CustomFrameLimit = <value>` and change the value to your preference.
