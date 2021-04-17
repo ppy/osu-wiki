@@ -1,20 +1,20 @@
 # How to use the Offset Wizard
 
-*See also: [Offset Wizard](/wiki/Options/Offset_Wizard) and [Universal Offset](/wiki/Universal_offset)*
+*See also: [Offset Wizard](/wiki/Options/Offset_Wizard) and [Universal offset](/wiki/Universal_offset)*
 
-If the [hitsounds](/wiki/Beatmapping/Hitsound) feel out of sync with the music, in every beatmap you play, you will more than likely need to change your [universal offset](/wiki/Universal_offset). The easiest way to do this is by using the **Offset Wizard**.
+If the [hitsounds](/wiki/Beatmapping/Hitsound) feel out of sync with the music in every beatmap you play, you will more than likely need to change your [universal offset](/wiki/Universal_offset). The easiest way to do this is by using the **Offset Wizard**.
 
-Follow these steps to adjust your universal offset using the Offset Wizard:
+Follow the following steps to adjust your universal offset using the Offset Wizard.
 
-**Opening the Offset Wizard**:
+## Opening the Offset Wizard
 
 1. Open osu!.
 2. Go to the `Options` menu, or press `Ctrl` + `O`.
-3. Search "offset" in the quick-search and click on `Offset wizard`.
+3. Search "offset" in the quick-search, and click the `Offset wizard` button.
 
 The Offset Wizard will then open, playing the song that was previously played in osu!, while green bars scroll across the screen and a metronome is ticking.
 
-**Using the Offset Wizard to calibrate your universal offset**:
+## Calibrating the universal offset
 
 1. Listen carefully to the song and the metronome playing together.
 2. Start adjusting the universal offset up or down, using the corresponding arrow keys, or the mouse scroll wheel.
