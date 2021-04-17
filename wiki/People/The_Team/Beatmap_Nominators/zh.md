@@ -69,9 +69,9 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | 西班牙语 |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | 德语 |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | 中文 |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | 塞尔维亚语 |
-| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | 西班牙语 |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | 德语 |
@@ -143,7 +143,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | 德语 |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | 俄语 |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | 希腊语 |
-| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | 印度尼西亚语 |
 
 #### osu!mania
 
@@ -179,7 +178,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | 西班牙语 |
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | 法语，德语 |
-| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | 德语 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
@@ -199,6 +197,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | 泰语 |
 | ![][flag_AT] [NyalettOwO x3](https://osu.ppy.sh/users/7592136) |  |
 | ![][flag_CN] [Souvenir](https://osu.ppy.sh/users/14057792) | 中文 |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |

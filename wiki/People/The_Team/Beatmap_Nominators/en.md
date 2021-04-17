@@ -72,9 +72,9 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Spanish |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbian |
-| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Spanish |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | German |
@@ -146,7 +146,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | German |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Russian |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Greek |
-| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Indonesian |
 
 #### osu!mania
 
@@ -182,7 +181,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Spanish |
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | French, German |
-| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | German |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
@@ -202,6 +200,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
 | ![][flag_AT] [NyalettOwO x3](https://osu.ppy.sh/users/7592136) |  |
 | ![][flag_CN] [Souvenir](https://osu.ppy.sh/users/14057792) | Chinese |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
