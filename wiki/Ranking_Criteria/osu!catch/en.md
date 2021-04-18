@@ -1,6 +1,6 @@
 # osu!catch ranking criteria
 
-***Note: This document is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
+***Notice: This article is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
 
 The **osu!catch Ranking Criteria** are rules and guidelines that apply to the creation of osu!catch-specific difficulties. In order to get a osu!catch-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
