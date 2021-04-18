@@ -44,7 +44,7 @@ More Freedom Dive can never hurt, right? Especially not when it's been remixed b
 [![](/wiki/shared/news/2021-04-19-project-loved-april-2021/647615.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [EBIMAYO - GOODBOUNCE](https://osu.ppy.sh/beatmapsets/647615#osu) by [NyarkoO](https://osu.ppy.sh/users/6622567) and [Nyantiaz](https://osu.ppy.sh/users/6223841)\
-180 BPM, 0:00 | 2.13★, 5.82★
+180 BPM, 2:09 | 2.13★, 5.82★, 6.47★
 
 The star rating says 5.82\*, but don't let that one fool you - this is a real rhythmic challenge. Many different rhythmic ideas are featured in this song, and the map definitely captures all of them in good fashion, not letting any high spacing get in the way of the complexity of the song, and if you know EBIMAYO then you'll know this song is top notch. A modern remap has been added, also, if you're looking for something a bit more liberal on difficulty but with the same tapping intensity. A joy to play, come and test yourself against the ever-changing rhythms and light technicality this map has to offer, it's a really enjoyable experience!
 
