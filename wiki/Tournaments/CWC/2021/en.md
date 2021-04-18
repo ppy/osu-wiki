@@ -38,7 +38,7 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Mappool selector | *To be announced* |
+| Mappool selector | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542), ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266), ![][flag_CA] [wwwww](https://osu.ppy.sh/users/8434466) |
 | Commentator | *To be announced* |
 | Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
@@ -47,7 +47,43 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1287741)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Registration Page](https://osu.ppy.sh/community/tournaments/28)**
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_AR] | **Argentina** | **[\[Force\]](https://osu.ppy.sh/users/1617217)** |
+| ![][flag_AU] | **Australia** | **[chickennando](https://osu.ppy.sh/users/5818665)** |
+| ![][flag_BE] | **Belgium** | **[\[ Quinten \]](https://osu.ppy.sh/users/6283136)** |
+| ![][flag_BR] | **Brazil** | **[Hanik](https://osu.ppy.sh/users/4533507)** |
+| ![][flag_CA] | **Canada** | **[Zerkarian](https://osu.ppy.sh/users/3616480)** |
+| ![][flag_CL] | **Chile** | **[eldnl](https://osu.ppy.sh/users/285756)** |
+| ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)** |
+| ![][flag_CO] | **Colombia** | **[Deley-](https://osu.ppy.sh/users/8291465)** |
+| ![][flag_DK] | **Denmark** | **[SharpN](https://osu.ppy.sh/users/4382076)** |
+| ![][flag_FI] | **Finland** | **[Kurtsi](https://osu.ppy.sh/users/4222176)** |
+| ![][flag_FR] | **France** | **[bastoo0](https://osu.ppy.sh/users/4864877)** |
+| ![][flag_DE] | **Germany** | **[Vinci007](https://osu.ppy.sh/users/5030297)** |
+| ![][flag_HK] | **Hong Kong** | **[autofanboy](https://osu.ppy.sh/users/636114)** |
+| ![][flag_ID] | **Indonesia** | **[LeWind](https://osu.ppy.sh/users/9718235)** |
+| ![][flag_IT] | **Italy** | **[Karym](https://osu.ppy.sh/users/5220794)** |
+| ![][flag_JP] | **Japan** | **[Molqus](https://osu.ppy.sh/users/1927193)** |
+| ![][flag_MY] | **Malaysia** | **[Future\_miku95](https://osu.ppy.sh/users/2351567)** |
+| ![][flag_MX] | **Mexico** | **[daxeroz](https://osu.ppy.sh/users/1170156)** |
+| ![][flag_NL] | **Netherlands** | **[Sartan](https://osu.ppy.sh/users/4100941)** |
+| ![][flag_NO] | **Norway** | **[Cameragod](https://osu.ppy.sh/users/4974088)** |
+| ![][flag_PE] | **Peru** | **[-Takato-](https://osu.ppy.sh/users/10755079)** |
+| ![][flag_PH] | **Philippines** | **[Roido](https://osu.ppy.sh/users/6829103)** |
+| ![][flag_PL] | **Poland** | **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)** |
+| ![][flag_RU] | **Russian Federation** | **[Nelly](https://osu.ppy.sh/users/4741164)** |
+| ![][flag_SG] | **Singapore** | **[He Ang CTB](https://osu.ppy.sh/users/2451381)** |
+| ![][flag_KR] | **South Korea** | **[\[224\]Hyperw7](https://osu.ppy.sh/users/4158549)** |
+| ![][flag_SE] | **Sweden** | **[Aceon](https://osu.ppy.sh/users/4452911)** |
+| ![][flag_TW] | **Taiwan** | **[Beepu](https://osu.ppy.sh/users/4958376)** |
+| ![][flag_TH] | **Thailand** | **[Eito](https://osu.ppy.sh/users/10043310)** |
+| ![][flag_GB] | **United Kingdom** | **[Matt\_H](https://osu.ppy.sh/users/4067115)** |
+| ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)** |
+| ![][flag_VN] | **Vietnam** | **[Cac](https://osu.ppy.sh/users/4744615)** |
 
 ## Ruleset
 
@@ -175,11 +211,36 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
 7. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a particular match, the match will be considered forfeited.
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
