@@ -57,7 +57,7 @@ Khi chơi, FPS thấp quá làm cho các vật thể xuất hiện trên màn h�
 
 osu! cho bạn nhiều lựa chọn giới hạn khung hình. Chúng đều có ưu và nhược điểm riêng. Chú ý rằng ở bất cứ thiết đặt nào, osu! sẽ giới hạn khung hình ở menu để hạn chế việc sử dụng CPU.
 
-### VSync (đồng bộ dọc)
+### VSync (Đồng bộ dọc)
 
 Mức giới hạn này phụ thuộc vào cơ chế đồng bộ dọc của driver. Nó đảm bảo không có hiện tượng xé hình, nhưng sẽ làm tăng độ trễ khoảng 1-2 khung hình vì cần phải buffer khung hình trước khi hiển thị.
 
@@ -96,8 +96,7 @@ Mức giới hạn này cố gắng giữ tần suất khung hình bằng với 
 
 Để chỉnh giới hạn khung hình của osu! thủ công, bạn cần thay đổi vài giá trị bên trong tệp config:
 
-1. Mở thư mục osu! của bạn (Mặc định là `C:\Users\<TênTàiKhoảnPC>\AppData\Local\osu!` ở Windows; `/Applications/osu!.app/Contents/Resources/drive_c/osu!` ở Mac.)
-Bạn cũng có thể bấm vào "Mở thư mục chứa osu!" ở Options (Tuỳ chỉnh) trong game.
+1. Mở thư mục osu! của bạn bằng cách bấm nút `Mở thư mục chứa osu!` trong Options (Tuỳ chỉnh), hoặc tự điều hướng thủ công tới thư mục đó. (Mặc định là `C:\Users\<TênTàiKhoảnPC>\AppData\Local\osu!` ở Windows; `/Applications/osu!.app/Contents/Resources/drive_c/osu!` ở Mac.)
 2. Đóng osu!.
 3. Mở tệp `osu!.<TênTàiKhoảnPC>.cfg` bằng Notepad hoặc một trình soạn thảo văn bản nào khác theo ý thích.
 4. Tìm dòng `FrameSync = <giá trị nào đó>` và sửa giá trị thành `Custom`.

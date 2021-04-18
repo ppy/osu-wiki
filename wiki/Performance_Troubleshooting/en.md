@@ -96,11 +96,10 @@ This frame limiter attempts to keep a frame rate equal to your custom preference
 
 To change osu!'s custom maximum framerate, you'll need to tweak some values in the config file:
 
-1. Open your osu! folder. (The default is `C:\Users\<yourPCusername>\AppData\Local\osu!` for Windows; `/Applications/osu!.app/Contents/Resources/drive_c/osu!` for Mac.)
-You can also click the "Open osu! folder" button in Options menu in-game.
+1. Open your osu! folder by clicking the `Open osu! folder` button in the Options menu, or by navigating to the folder manually. (The default path is `C:\Users\<yourPCusername>\AppData\Local\osu!` for Windows; `/Applications/osu!.app/Contents/Resources/drive_c/osu!` for Mac.)
 2. Close osu!.
 3. Open the `osu!.<yourPCusername>.cfg` file with Notepad or a text editor of your choice.
 4. Find the line `FrameSync = <value>` and change the value to `Custom`.
 5. Find the line `CustomFrameLimit = <value>` and change the value to your preference.
-6. Save the config file. If you haven't close osu! in the second step, please do so before saving.
+6. Save the config file. If you haven't closed osu! in the second step, please do so before saving.
 7. Re-open the game.
