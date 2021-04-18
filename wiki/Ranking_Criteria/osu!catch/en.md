@@ -37,7 +37,7 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 #### Snapping reference table
 
 | Difficulty | Basic-snapped dash | Higher-snapped dash | Basic-snapped hyperdash | Higher-snapped hyperdash |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | **Cup** | - | - | - | - |
 | **Salad** | 250 ms or higher | 125-249 ms | - | - |
 | **Platter** | 125 ms or higher | 62-124 ms | 250 ms or higher | 125-249 ms |
