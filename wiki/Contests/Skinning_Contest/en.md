@@ -37,8 +37,9 @@ The Skinning Contest is run by various community members.
 | ![][flag_DE] [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning |
 | ![][flag_RO] [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning, graphic design |
 | ![][flag_NL] [Roan](https://osu.ppy.sh/users/8214639) | Contest planning |
-| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
-| ![][flag_GB] [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening, showcase preparations |
+| ![][flag_GB] [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning, showcase preparations |
+| ![][flag_PL] [watterino](https://osu.ppy.sh/users/3512261) | Video editor, showcase preparations |
 | ![][flag_NL] [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
 
 ## Links
@@ -74,11 +75,11 @@ The Skinning Contest is run by various community members.
 | ![][flag_CA] [Nashboss100](https://osu.ppy.sh/users/15802424) | [The Nash Skin](https://osu.ppy.sh/community/forums/topics/1278022) |
 | ![][flag_ID] [Nikano](https://osu.ppy.sh/users/8196177) | [Neynda.](https://osu.ppy.sh/community/forums/topics/1291076) |
 | ![][flag_RU] [Nikstrim](https://osu.ppy.sh/users/10577559) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) |
-| ![][flag_MX] [Nochito](https://osu.ppy.sh/users/15255804) | [Chocomint](https://osu.ppy.sh/community/forums/topics/1281445) |
+| ![][flag_MX] [Nochito](https://osu.ppy.sh/users/15255804) | [Nochito Chocomint](https://osu.ppy.sh/community/forums/topics/1281445) |
 | ![][flag_TR] [NotConsistent](https://osu.ppy.sh/users/13845312) | [Space \[Universal Apocalypse\]](https://osu.ppy.sh/community/forums/topics/1267043) |
 | ![][flag_UA] [Pirasto](https://osu.ppy.sh/users/6766278) | [Prinz Heinrich](https://osu.ppy.sh/community/forums/topics/1292847) |
 | ![][flag_AU] [spiefie99](https://osu.ppy.sh/users/10934017) | [Glassmorphism](https://osu.ppy.sh/community/forums/topics/1269582) |
-| ![][flag_VE] [Suminoze](https://osu.ppy.sh/users/5308780) | [!~ 1stTry ~!](https://osu.ppy.sh/community/forums/topics/1285565) |
+| ![][flag_VE] [Suminoze](https://osu.ppy.sh/users/5308780) | [1stTry](https://osu.ppy.sh/community/forums/topics/1285565) |
 | ![][flag_PL] [tearek\_](https://osu.ppy.sh/users/20767121) | [Multicolor Diamond HUD](https://osu.ppy.sh/community/forums/topics/1272664) |
 | ![][flag_VN] [TKieen](https://osu.ppy.sh/users/12561202) | [Randoline](https://osu.ppy.sh/community/forums/topics/1291235) |
 | ![][flag_MX] [xet](https://osu.ppy.sh/users/16274977) | [Who Tao](https://osu.ppy.sh/community/forums/topics/1281532) |
