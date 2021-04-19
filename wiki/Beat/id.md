@@ -9,7 +9,6 @@ tags:
   - satu ketukan
   - satu ketukan penuh
   - tick putih
-
 ---
 
 # Ketukan (Beat)
