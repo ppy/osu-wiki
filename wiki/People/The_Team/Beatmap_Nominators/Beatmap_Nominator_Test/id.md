@@ -17,7 +17,7 @@ Pertanyaan tes diambil dari banyak pertanyaan yang diurutkan berdasarkan kategor
 - [Kriteria Ranking Tentang Metadata](/wiki/Ranking_Criteria#metadata): 1 pertanyaan
 - [Kriteria Ranking Tentang Timing](/wiki/Ranking_Criteria#timing): 1 pertanyaan
 - [Kriteria Ranking Tentang Audio](/wiki/Ranking_Criteria#audio): 1 pertanyaan
-- [Kriteria Ranking Tentang Video dan Background](/Ranking_Criteria#video-and-background): 1 pertanyaan
+- [Kriteria Ranking Tentang Video dan Background](/wiki/Ranking_Criteria#video-and-background): 1 pertanyaan
 - [Kriteria Ranking Tentang Skinning](/wiki/Ranking_Criteria#skinning): 1 pertanyaan
 - [Kriteria Ranking Tentang Storyboarding](/wiki/Ranking_Criteria#storyboarding)
 - Kriteria Ranking secara spesifik dari suatu mode: 4 pertanyaan secara spesifik dari mode permainan yang dipilih (osu!, osu!taiko, osu!catch, osu!mania)
