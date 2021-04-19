@@ -79,7 +79,6 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Jerman, Polandia | Evaluasi |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Belanda | Evaluasi, moderasi |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arab, Prancis | Evaluasi |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
