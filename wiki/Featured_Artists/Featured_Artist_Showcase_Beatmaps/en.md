@@ -97,7 +97,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!taiko]) [MYLK - Bubblegum](https://osu.ppy.sh/beatmapsets/1055143#taiko/2204737) hosted by ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/2204735)
   - (![][osu!taiko]) [MYLK - Let You Go (Original Mix)](https://osu.ppy.sh/beatmapsets/1053583#taiko/2201615) hosted by ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817)
   - (![][osu!taiko]) [MYLK - Prism](https://osu.ppy.sh/beatmapsets/1051590#taiko/2197618) hosted by ![][flag_NO] [salchow](https://osu.ppy.sh/users/9738159)
-  - (![][osu!taiko]) [MYLK - SOAP (Original Mix)](https://osu.ppy.sh/beatmapsets/1055618#taiko/2205809) hosted by ![][flag_JP] [tasuke712](https://osu.ppy.sh/users/2774767)
+  - (![][osu!taiko]) [MYLK - SOAP (Original Mix)](https://osu.ppy.sh/beatmapsets/1055618#taiko/2205809) hosted by ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767)
   - (![][osu!taiko]) [MYLK - Smile (Original Mix)](https://osu.ppy.sh/beatmapsets/1065517#taiko/2231210) hosted by ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
 
 ---
@@ -124,7 +124,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [ELFENSJoN - Akayake no Majo](https://osu.ppy.sh/beatmapsets/1100484#osu/2299178) hosted by ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645)
   - (![][osu!]) [ELFENSJoN - Shiroki Yume wa Madara ni](https://osu.ppy.sh/beatmapsets/1083468#osu/2266069) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
 - **[Sound Souler](https://osu.ppy.sh/home/news/2020-02-26-new-featured-artist-sound-souler)** (2020-02-26)
-  - (![][osu!]) [Sound Souler - Absent Color](https://osu.ppy.sh/beatmapsets/1093465#osu/2285424) hosted by ![][flag_KR] [Icekalt](https://osu.ppy.sh/users/11771)
+  - (![][osu!]) [Sound Souler - Absent Color](https://osu.ppy.sh/beatmapsets/1093465#osu/2285424) hosted by ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771)
   - (![][osu!]) [Sound Souler - Aqua Stars](https://osu.ppy.sh/beatmapsets/1085144#osu/2269224) hosted by ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628)
 
 ### March
@@ -151,7 +151,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 ### May
 
 - **[BLANKFIELD](https://osu.ppy.sh/home/news/2020-05-06-new-featured-artist-blankfield)** (2020-05-06)
-  - (![][osu!]) [BLANKFIELD - Falling Falls](https://osu.ppy.sh/beatmapsets/1133317#osu/2366967) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
+  - (![][osu!]) [BLANKFIELD - Falling Falls](https://osu.ppy.sh/beatmapsets/1120635#osu/2341586) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
   - (![][osu!]) [BLANKFIELD - Retrospective City](https://osu.ppy.sh/beatmapsets/1120645#osu/2341602) hosted by ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
 - **[Disasterpeace](https://osu.ppy.sh/home/news/2020-05-13-new-featured-artist-disasterpeace)** (2020-05-13)
   - (![][osu!]) [Disasterpeace - Wagering Lights (feat. Derris-Kharlan)](https://osu.ppy.sh/beatmapsets/1163910#osu/2440219) hosted by ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
@@ -306,7 +306,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Empty Peperoncino - Ame ni Utaeba](https://osu.ppy.sh/beatmapsets/1385670#osu/2862491) hosted by ![][flag_CA] [cococolaco](https://osu.ppy.sh/users/9579526)
   - (![][osu!]) [Empty Peperoncino - End Roll Empty Peperoncino ver. (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1361717#osu/2817599) hosted by ![][flag_CL] [Hazu-](https://osu.ppy.sh/users/4668230)
 - **[polysha](https://osu.ppy.sh/home/news/2021-03-10-new-featured-artist-polysha)** (2021-03-10)
-  - (![][osu!catch]) [polysha - Hypnos Metropolis](https://osu.ppy.sh/beatmapsets/1339895#fruits/2775957) hosted by ![][flag_PL] [Jemzuu](https://osu.ppy.sh/users/7890134)
+  - (![][osu!catch]) [polysha - Hypnos Metropolis](https://osu.ppy.sh/beatmapsets/1339895#fruits/2775957) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
   - (![][osu!mania]) [polysha - TAKEMIKADUCHI](https://osu.ppy.sh/beatmapsets/1357994#mania/2810330) hosted by ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
 - **[URBANGARDE](https://osu.ppy.sh/home/news/2021-03-20-new-featured-artist-urbangarde)** (2021-03-20)
   - (![][osu!]) [URBANGARDE - BAERUNA](https://osu.ppy.sh/beatmapsets/1330252#osu/2756144) hosted by ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
@@ -326,6 +326,8 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [YUZUKINGDOM - Roskill Lavender](https://osu.ppy.sh/beatmapsets/1410727#osu/2908440) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
 - **[fiend](https://osu.ppy.sh/home/news/2021-04-14-new-featured-artist-fiend)** (2021-04-14)
   - (![][osu!]) [fiend - FEVER DREAM (feat. yzzyx)](https://osu.ppy.sh/beatmapsets/1405913#osu/2899195) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
+- **[2ToneDisco](https://osu.ppy.sh/home/news/2021-04-17-new-featured-artist-2tonedisco)** (2021-04-17)
+  - (![][osu!]) [2ToneDisco x Kabuki - Giga](https://osu.ppy.sh/beatmapsets/1392421) hosted by ![][flag_CL] [Hazu-](https://osu.ppy.sh/users/4668230)
 
 ## History
 
