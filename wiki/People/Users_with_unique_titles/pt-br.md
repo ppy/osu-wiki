@@ -92,7 +92,6 @@ Desde 2020, atividade de membros dos [Nomeadores de Beatmap](/wiki/People/The_Te
 - ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
-- ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445)
 
 ### Vencedores de competição de mapping Aspire
 
@@ -337,7 +336,6 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | Elite Mapper |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
 | ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) | osu!artist |
-| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Elite Nominator |
 | ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669) | Elite Storyboarder |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter |
