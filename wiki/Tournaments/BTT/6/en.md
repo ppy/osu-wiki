@@ -8,7 +8,7 @@ tags:
 
 ![BTT6 logo](img/logo.jpg)
 
-The **Beginners' Taiko Tournament Season 6** (***BTT6***) is a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) and ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263). Only players ranked #10,000 and above can participate. It is the sixth installment of the Beginners' Taiko Tournament.
+The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) and ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263). Only players ranked #10,000 and above can participate. It was the sixth installment of the Beginners' Taiko Tournament.
 
 ## Tournament schedule
 
@@ -35,17 +35,19 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) is a worldwide double-
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
+![](img/badge.jpg "BTT6 winner badge")
+
 Generous donations from ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) and ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) helped fund some of the prizes.
 
 ## Organisation
 
-The Beginners' Taiko Tournament Season 6 is run by various community members.
+The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Co-organiser | ![][flag_FR] [Badeline](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) |
-| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_DE] [DrugManager](https://osu.ppy.sh/users/8694649), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
+| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_DE] [DrugManager](https://osu.ppy.sh/users/8694649), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
 | Referee | ![][flag_FR] [Badeline](https://osu.ppy.sh/users/4833654), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_CH] [OverKurumi](https://osu.ppy.sh/users/9987378), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316), ![][flag_US] [travis\_ba](https://osu.ppy.sh/users/10822220) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
 | Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_HK] [-Storm7-](https://osu.ppy.sh/users/12248285), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
@@ -95,6 +97,10 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 | **N** | ![][flag_PL] [zts](https://osu.ppy.sh/users/4675441) | ![][flag_MX] [-Teka-](https://osu.ppy.sh/users/5065096) | ![][flag_US] [Magirhythm](https://osu.ppy.sh/users/10205817) | ![][flag_CH] [aliciapom](https://osu.ppy.sh/users/15101150) |
 | **O** | ![][flag_CA] [Garfield\_osu](https://osu.ppy.sh/users/9743947) | ![][flag_DE] [AngeliumX](https://osu.ppy.sh/users/15000256) | ![][flag_UA] [Kargondz](https://osu.ppy.sh/users/9919528) | ![][flag_SG] [DEUS\_LUDORUM](https://osu.ppy.sh/users/10360747) |
 | **P** | ![][flag_BE] [onixir](https://osu.ppy.sh/users/2993521) | ![][flag_AR] [Cata](https://osu.ppy.sh/users/5958063) | ![][flag_RU] [Prade](https://osu.ppy.sh/users/9318565) | ![][flag_FR] [Bambinex](https://osu.ppy.sh/users/18818124) |
+
+## Podium
+
+![](img/podium.jpg "BTT6 podium")
 
 ## Mappools
 
@@ -303,6 +309,20 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 3 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Barack ![][flag_CL] | 4 | **7** | ![][flag_CA] **Garfield\_osu** | [#1](https://osu.ppy.sh/community/matches/79883045), [#2](https://osu.ppy.sh/community/matches/79887645) |
+
+Sunday, 4 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **-Schwarts** ![][flag_US] | **7** | 5 | ![][flag_CA] Garfield\_osu | [#1](https://osu.ppy.sh/community/matches/79971517) |
 
 ### Finals
 
@@ -585,7 +605,7 @@ Sunday, 21 February 2021:
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/12EpuCD918BFSfmlIO0G-u1f7UPv78a5UGGesqa0t3Yc/edit#gid=2038944874)
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 - Only the top 64 player can proceed to the Group Stage
 
 | Seed | Player | Average rank |
