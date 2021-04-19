@@ -42,7 +42,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 ### Full BN
 
-#### osu!standard
+#### osu!
 
 | 닉네임 | 추가 언어 |
 | :-- | :-- |
@@ -172,7 +172,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 ### Probation BN
 
-#### osu!standard
+#### osu!
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
