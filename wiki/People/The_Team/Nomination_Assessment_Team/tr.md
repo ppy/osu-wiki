@@ -79,7 +79,6 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Almanca, Lehçe | Değerlendirme |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Flemenkçe | Değerlendirme, moderasyon |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arapça, Fransızca | Değerlendirme |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
