@@ -43,7 +43,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 
 ### Beatmap Nominators confirmés
 
-#### osu!standard
+#### osu!
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
@@ -175,7 +175,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 
 ### Beatmap Nominators probatoires
 
-#### osu!standard
+#### osu!
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
