@@ -141,4 +141,3 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 [flag_PH]: /wiki/shared/flag/PH.gif "Philipipnes"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
