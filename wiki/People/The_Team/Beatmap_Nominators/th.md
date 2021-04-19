@@ -42,7 +42,7 @@ tags:
 
 ### Beatmap Nominators เต็มรูปแบบ
 
-#### osu!standard
+#### osu!
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
@@ -174,7 +174,7 @@ tags:
 
 ### Beatmap Nominators ภาคทัณฑ์
 
-#### osu!standard
+#### osu!
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |

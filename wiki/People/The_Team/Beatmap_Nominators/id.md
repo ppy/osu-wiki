@@ -42,7 +42,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 ### Full Beatmap Nominator
 
-#### osu!standard
+#### osu!
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
@@ -174,7 +174,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 ### Probationary Beatmap Nominator
 
-#### osu!standard
+#### osu!
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |

@@ -42,7 +42,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 ### Nomeadores de Beatmap Fixos
 
-#### osu!standard
+#### osu!
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
@@ -174,7 +174,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 ### Nomeadores de Beatmap em Teste
 
-#### osu!standard
+#### osu!
 
 | Nome | Línguas adicionais |
 | :-- | :-- |

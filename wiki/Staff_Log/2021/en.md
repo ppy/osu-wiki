@@ -191,4 +191,4 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-12: Removed [Xinely](https://osu.ppy.sh/users/1521445) from **BN**
 - 2021-04-15: Removed [-Aqua](https://osu.ppy.sh/users/7150015) from **BN**
 
-<!-- last update: 2021-04-19 moved juankristal to alumni. the 2021-04-16 Project Loved Team updates were added independently from the rest of the log, so there may be unlogged updates before them. remove these 2 sentences when checked -->
+<!-- last update: 2021-04-19 16:00 UTC moved juankristal to alumni. the 2021-04-16 Project Loved Team updates were added independently from the rest of the log, so there may be unlogged updates before them. remove these 2 sentences when checked -->

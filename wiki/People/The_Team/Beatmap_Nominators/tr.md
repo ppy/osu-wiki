@@ -42,7 +42,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 ### Asil Beatmap Aday Göstericiler
 
-#### osu!standard
+#### osu!
 
 | İsim | Ek diller |
 | :-- | :-- |
@@ -174,7 +174,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 ### Deneme sürecindeki Beatmap Aday Göstericiler
 
-#### osu!standard
+#### osu!
 
 | İsim | Ek diller |
 | :-- | :-- |

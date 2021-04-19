@@ -43,7 +43,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 ### Beatmap Nominators completos
 
-#### osu!standard
+#### osu!
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
@@ -175,7 +175,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 ### Beatmap Nominators provisionales
 
-#### osu!standard
+#### osu!
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
