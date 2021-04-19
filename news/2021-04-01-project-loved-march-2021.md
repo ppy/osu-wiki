@@ -234,11 +234,11 @@ VANGUARD-1 by Elekton is just about as technical of a map as you're going to get
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/892422.jpg)](https://osu.ppy.sh/community/forums/topics/1284202)
 
-[Mili - Ikutoshitsuki](https://osu.ppy.sh/beatmapsets/892422#mania) by [eyucliwood](https://osu.ppy.sh/users/6897733)\
+[Mili - Ikutoshitsuki](https://osu.ppy.sh/beatmapsets/1427571#mania) by [Flexo123](https://osu.ppy.sh/users/5367287)\
 86 BPM, 3:22 | \[7K\] 3.72★\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
-*Ikutoshitsuki* is here to bring 7K players some relaxed long note patterns, to an equally relaxed song. eyucliwood has done a great job here making a map that can appeal to many types of people. The map strikes a balance between laid-back and challenging, as throughout these 3 and a half minutes you will always need to pay attention to release timing. Some tasteful and unintrusive SV also works its way into a few spots, making this map even more dynamic and enjoyable.
+*Ikutoshitsuki* is here to bring 7K players some relaxed long note patterns, to an equally relaxed song. Flexo123 has done a great job here making a map that can appeal to many types of people. The map strikes a balance between laid-back and challenging, as throughout these 3 and a half minutes you will always need to pay attention to release timing. Some tasteful and unintrusive SV also works its way into a few spots, making this map even more dynamic and enjoyable.
 
 [![](/wiki/shared/news/2021-03-31-project-loved-march-2021/344771.jpg)](https://osu.ppy.sh/community/forums/topics/1284201)
 

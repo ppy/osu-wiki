@@ -79,7 +79,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | German, Polish | Evaluation |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation, moderation |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French | Evaluation |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
