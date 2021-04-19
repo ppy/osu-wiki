@@ -97,138 +97,46 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 - Tiebreaker
   - **[Venetian Snares - Epidermis (Horiiizon) \[HiroK's Oni\]](https://osu.ppy.sh/beatmapsets/1262133#taiko/2663673)**
 
-## Match results
-
-### Grand Finals
-
-Saturday, 27 July 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **vladyushko** ![][flag_CA] | **7** | 3 | ![][flag_BR] eae | [#1](https://osu.ppy.sh/community/matches/53620212) |
-
-Sunday, 28 July 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **janitoreihil** ![][flag_CA] | **7** | 3 | ![][flag_CA] vladyushko | [#1](https://osu.ppy.sh/community/matches/53673786) |
-
-### Finals
-
-Saturday, 20 July 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **janitoreihil** ![][flag_CA] | **7** | 4 | ![][flag_CA] vladyushko | [#1](https://osu.ppy.sh/community/matches/53482413) |
-| **eae** ![][flag_BR] | **7** | 2 | ![][flag_AR] BossPlays | [#1](https://osu.ppy.sh/community/matches/53489806) |
-| **Loopy542** ![][flag_US] | **7** | 3 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/53508927) |
-
-Sunday, 21 July 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **eae** ![][flag_BR] | **7** | 6 | ![][flag_US] Loopy542 | [#1](https://osu.ppy.sh/community/matches/53511386) |
-
-### Semifinals
-
-Saturday, 13 July 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **BossPlays** ![][flag_AR] | **6** | 3 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/53315504) |
-| **vladyushko** ![][flag_CA] | **6** | 5 | ![][flag_BR] eae | [#1](https://osu.ppy.sh/community/matches/53316695) |
-| TrolloCat ![][flag_US] | -1 | **0** | ![][flag_VE] \[\_Chichinya\_\] | *win by default* |
-| **janitoreihil** ![][flag_CA] | **6** | 0 | ![][flag_US] Loopy542 | [#1](https://osu.ppy.sh/community/matches/53318814) |
-
-Sunday, 14 July 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **BossPlays** ![][flag_AR] | **6** | 0 | ![][flag_VE] \[\_Chichinya\_\] | [#1](https://osu.ppy.sh/community/matches/53343237) |
-| **jyake** ![][flag_US] | **6** | 5 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/53341909) |
-| **cheese salad** ![][flag_US] | **6** | 3 | ![][flag_VE] My Angel Kazu | [#1](https://osu.ppy.sh/community/matches/53347573) |
-| **cheese salad** ![][flag_US] | **6** | 5 | ![][flag_US] jyake | [#1](https://osu.ppy.sh/community/matches/53370414) |
-
-### Quarterfinals
-
-Saturday, 6 July 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **janitoreihil** ![][flag_CA] | **6** | 0 | ![][flag_AR] BossPlays | [#1](https://osu.ppy.sh/community/matches/53152636) |
-| **\[\_Chichinya\_\]** ![][flag_VE] | **0** | -1 | ![][flag_AR] Atreevete | *win by default* |
-| Axer ![][flag_AR] | 0 | **6** | ![][flag_BR] **Skull Kid** | [#1](https://osu.ppy.sh/community/matches/53158344) |
-| **Loopy542** ![][flag_US] | **6** | 0 | ![][flag_US] TrolloCat | [#1](https://osu.ppy.sh/community/matches/53176080) |
-| Kyoumo ![][flag_BR] | 4 | **6** | ![][flag_US] **Whulf** | [#1](https://osu.ppy.sh/community/matches/53177930) |
-| cheese salad ![][flag_US] | 1 | **6** | ![][flag_BR] **eae** | [#1](https://osu.ppy.sh/community/matches/53179464) |
-
-Sunday, 7 July 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **My Angel Kazu** ![][flag_VE] | **6** | 3 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/53182563) |
-| **vladyushko** ![][flag_CA] | **6** | 4 | ![][flag_US] jyake | [#1](https://osu.ppy.sh/community/matches/53183507) |
-
-### Round of 16
-
-Saturday, 29 June 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Loopy542** ![][flag_US] | **5** | 0 | ![][flag_VE] My Angel Kazu | [#1](https://osu.ppy.sh/community/matches/52949621) |
-| **janitoreihil** ![][flag_CA] | **5** | 0 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/52991246) |
-| Skull Kid ![][flag_BR] | 4 | **5** | ![][flag_US] **jyake** | [#1](https://osu.ppy.sh/community/matches/52992931) |
-| **eae** ![][flag_BR] | **5** | 0 | ![][flag_VE] \[\_Chichinya\_\] | [#1](https://osu.ppy.sh/community/matches/52996294) |
-
-Sunday, 30 June 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **cheese salad** ![][flag_US] | **5** | 0 | ![][flag_AR] Atreevete | [#1](https://osu.ppy.sh/community/matches/52998024) |
-| **vladyushko** ![][flag_CA] | **5** | 1 | ![][flag_AR] Axer | [#1](https://osu.ppy.sh/community/matches/53012000) |
-| **BossPlays** ![][flag_AR] | **5** | 4 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/53017178) |
-| **TrolloCat** ![][flag_US] | **5** | 2 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/53022697) |
-
-### Group Stage
-
-Complete Group Stage match results can be accessed through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPxwqEqzN-miTVZ9fM20aMelIYCwnm1FFJV3M0yn7w8YoBB60lS-hIzpV4l9JOqQ3v9iyTBXHhoOAk/pubhtml)
-
 ## Ruleset
 
-1. Only Players with a North or South American flag on their account are allowed to register in this tournament. This includes only the following countries: USA, Canada, Mexico, Brazil, Chile, Argentina, Colombia, Venezuela, Uruguay, Paraguay, Peru, Ecuador, Bolivia, Guyana, Suriname, and French Guiana. Countries in the Caribbean and Central America may not sign up for this tournament.
-2. Group Stage matches are seeded based on global rank **at the end of the registration period**.
-3. NSATT will have a Group Stage followed by a knock-out double elimination structure with a loser bracket.
-4. NSATT matches will be 1v1 Taiko in team style format with a point given to the highest score achieved in the Score V2 system.
-5. The win conditions for each stage are as follows.
-   - In **Group Stage**, it is Bo7: First to score 4 points wins.
-   - In **Round of 16**, it is Bo9: First to score 5 points wins.
-   - In **Quarterfinals and Semifinals**, it is Bo11: First to score 6 points wins.
-   - In **Finals and Grand Finals**, it is Bo13: First to score 7 points wins.
-6. Map pools will start with 4 No Mod, 2 HD, 2 HR, 2 DT, 3 FM and 1 Tiebreaker. At the RO16, 1 NoMod will be added, and at the Finals, another NoMod will be added.
-7. Only the player who selects a FreeMod pick is required to use at least 1 mod. The opponent is not required to use a mod if they choose not to do so.
-8. You are allowed 1 map ban per match, this does not include the Tie-breaker.
-9. Each player can choose to play up to 1 warm-up map. A warm-up must be shorter than 4 minutes. If both players agree to one warm-up, the duration must be shorter than 6 minutes.
-10. Players roll to determine who will get the first pick and the first ban. The winner of roll will select the first map, whereas the loser will ban the first map.
-11. Tiebreaker will be played if both players are 1 point away from winning. It will not be Free Mod.
-12. In cases where a map results in a tie, the map is nullified and the Player who picked said map will pick another. (If the Tiebreaker ends in a draw, the tiebreaker will be replayed under FM.)
-13. If no staff or referee is available, the match will be postponed.
-14. Players will have up to 15 minutes after the scheduled time to show up. Failure to show up without prior notice will result in a win by default.
-15. Players may not directly throw a match. If a player chooses to do so, a rematch will be forced. If the match is still thrown, the player will be ejected from the tournament.
-16. If a player disconnects during a map:
-    - If it before 30 seconds into the map, the referee will abort the map, and it will be replayed.
-    - If it is after 30 seconds into the map, it is up to the discretion of the referee.
-17. Any modification of these rules will be announced.
+### General rules
 
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+1. Tournament is open to players living in Australia, New Zealand, Malaysia, Singapore, Indonesia, Philippines, and Thailand. Recommended rank is #7,500+.
+2. The tournament style is a double-elimination bracket.
+3. Players will be seeded by global rank.
+4. The tournament will take the best of the first 32 entrants (given they fit the next rule).
+5. There exists an ambiguous rank limit (as always); because many countries have a large gap somewhere in their top 5 players, this leaves a large gap in competitive skill. As a result, some players may be denied entry to participate (as a guideline, around 8.5kpp is the desired cap).
+6. Poor attitude with other players/tournament staff will result in disqualification (this point applies too for staff members).
+
+### Match rules
+
+1. The tournament is a 1v1 osu!taiko match; highest score wins.
+2. Scoring will be calculated via **ScoreV2**.
+3. The mappool will change in size depending on round, but at a very minimum will contain: 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, and 1 Tiebreaker.
+   - FreeMod consists of Hidden, HardRock, or Hidden+HardRock. No other mods/combinations of mods may be used (that includes NM).
+4. Players can request to use Nightcore instead of DoubleTime, but the opponent must also agree upon the request.
+5. Players are allowed 1 ban per match.
+6. Players can pick a warmup with the max length of **4:00**.
+7. `!roll` will determine who will pick the first beatmap.
+8. The player with the lowest `!roll` score will ban first, followed by their opponent.
+9. Players have 10 minutes in Group Stage or 15 minutes in every stage above to attend their match before a win by default is given to the other player.
+10. If both players fail, the player with the highest failed score wins the point.
+11. If the scores are tired, then the beatmap will be played again and no point(s) will be awarded.
+    - If there exists two ties in a row on the same beatmap, the map may be nullified and not reused. The player whom selected the tied map may pick again.
+
+#### Tournament structure
+
+1. Seeding is based off of the player's rankings; there will be four seed categories and every player will fit into one of these depending on their total Taiko pp compared to the rest of the players. Groups for the Group Stage will be groups of four, where each player is from a different seed category. Please note: this may change depending on the number of participants.
+2. 5 points to win the match in the Group Stage.
+3. 6 points to win the match in the Round of 16 and Quarterfinals.
+4. 7 points to win the match in Semifinals and Finals.
+
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philipipnes"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
