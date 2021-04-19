@@ -162,6 +162,7 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-16: Added [Wesley](https://osu.ppy.sh/users/2407265) to **Project Loved Team**
 - 2021-04-16: Added [X a v y](https://osu.ppy.sh/users/3738344) to **Project Loved Team**
 - 2021-04-16: Removed [nekodex](https://osu.ppy.sh/users/102) from **osu! Alumni**
+- 2021-04-19: Moved [juankristal](https://osu.ppy.sh/users/443656) from **GMT** to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -170,6 +171,7 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-10: Added [-Luminate](https://osu.ppy.sh/users/4778689) to **Probationary BN**
 - 2021-04-15: Added [Souvenir](https://osu.ppy.sh/users/14057792) to **Probationary BN**
 - 2021-04-15: Added [Okoratu](https://osu.ppy.sh/users/1623405) to **Probationary BN**
+- 2021-04-18: Added [My Angel RangE](https://osu.ppy.sh/users/6336713) to **Probationary BN**
 
 #### Moves
 
@@ -179,6 +181,7 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-07: Moved [Mipha-](https://osu.ppy.sh/users/5767941) from **Probationary BN** to **BN**
 - 2021-04-08: Moved [Xinely](https://osu.ppy.sh/users/1521445) from **Probationary BN** to **BN**
 - 2021-04-12: Moved [Luscent](https://osu.ppy.sh/users/2688581) from **Probationary BN** to **BN**
+- 2021-04-18: Moved [Mir](https://osu.ppy.sh/users/8688812) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -188,4 +191,4 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-12: Removed [Xinely](https://osu.ppy.sh/users/1521445) from **BN**
 - 2021-04-15: Removed [-Aqua](https://osu.ppy.sh/users/7150015) from **BN**
 
-<!-- last update: 2021-04-17 15:00 UTC removed nekodex from alumni. the 2021-04-16 Project Loved Team updates were added independently from the rest of the log, so there may be unlogged updates before them. remove these 2 sentences when checked -->
+<!-- last update: 2021-04-19 moved juankristal to alumni. the 2021-04-16 Project Loved Team updates were added independently from the rest of the log, so there may be unlogged updates before them. remove these 2 sentences when checked -->
