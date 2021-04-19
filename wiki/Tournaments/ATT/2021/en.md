@@ -62,16 +62,16 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ## Groups
 
-| Group | Top seed | Middle seed | Low seed | Unseeded |
-| :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977) | ![][flag_CL] [Catulus](https://osu.ppy.sh/users/6276709) |
-| **B** | ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822) | ![][flag_AR] [trollocat](https://osu.ppy.sh/users/9228032) | ![][flag_AR] [Jintsuu](https://osu.ppy.sh/users/7165127) | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) |
-| **C** | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) | ![][flag_US] [closed](https://osu.ppy.sh/users/5116922) | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) | ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062) |
-| **D** | ![][flag_BR] [eae](https://osu.ppy.sh/users/4050738) | ![][flag_VE] [My Angel Kazu](https://osu.ppy.sh/users/5136821) | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556) | ![][flag_MX] [\[ItsTakane\]](https://osu.ppy.sh/users/4420046) |
-| **E** | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_VE] [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739) | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) | ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/5014664) |
-| **F** | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) | ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223) | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) | ![][flag_AR] [warning dark](https://osu.ppy.sh/users/5040981) |
-| **G** | ![][flag_BR] [Skull Kid](https://osu.ppy.sh/users/3044264) | ![][flag_US] [Whulf](https://osu.ppy.sh/users/11601107) | ![][flag_US] [Kotu776](https://osu.ppy.sh/users/8494571) | ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911) |
-| **H** | ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471) | ![][flag_US] [\_knots](https://osu.ppy.sh/users/4407678) | ![][flag_US] [Brames](https://osu.ppy.sh/users/6417190) | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) |
+| Group | Top seed | High seed | Mid seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) | ![][flag_PH] [Aiery](https://osu.ppy.sh/users/10363380) | ![][flag_MY] [CrabCow](https://osu.ppy.sh/users/9755504) | ![][flag_SG] [kuudere-desu](https://osu.ppy.sh/users/10694200) | ![][flag_TH] [KappuChinooo](https://osu.ppy.sh/users/9582525) |
+| **B** | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) | ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) | ![][flag_PH] [CoEqual](https://osu.ppy.sh/users/14167247) | ![][flag_PH] [Astrid Park](https://osu.ppy.sh/users/12320451) | - |
+| **C** | ![][flag_AU] [r1chyy](https://osu.ppy.sh/users/11499467) | ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ![][flag_PH] [Kotaro](https://osu.ppy.sh/users/796530) | ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885) | - |
+| **D** | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | ![][flag_PH] [ezeenS](https://osu.ppy.sh/users/3679969) | ![][flag_PH] [DescriptiCringe](https://osu.ppy.sh/users/10882115) | ![][flag_NZ] [Bwhaa](https://osu.ppy.sh/users/7960435) | - |
+| **E** | ![][flag_TH] [Ponamis](https://osu.ppy.sh/users/7897892) | ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) | ![][flag_MY] [vun](https://osu.ppy.sh/users/6932501) | ![][flag_SG] [dantoh000](https://osu.ppy.sh/users/11414361) |
+| **F** | ![][flag_ID] [Naverlyn](https://osu.ppy.sh/users/14324722) | ![][flag_SG] [tzechi](https://osu.ppy.sh/users/4662795) | ![][flag_TH] [ConieSan](https://osu.ppy.sh/users/2035344) | ![][flag_PH] [qish](https://osu.ppy.sh/users/17050115) | ![][flag_MY] [TaikOseania](https://osu.ppy.sh/users/14036825) |
+| **G** | ![][flag_ID] [misaki_tk](https://osu.ppy.sh/users/3866964) | ![][flag_SG] [Prehistoria](https://osu.ppy.sh/users/8364237) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) | ![][flag_NZ] [arley\_](https://osu.ppy.sh/users/9039824) | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) |
+| **H** | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | ![][flag_MY] [nikolpai\_15](https://osu.ppy.sh/users/11584592) | - |
 
 ## Mappools
 
