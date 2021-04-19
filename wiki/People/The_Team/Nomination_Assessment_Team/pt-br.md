@@ -81,7 +81,6 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Alemão, Polonês | Avaliação |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Holandês | Avaliação, moderação |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, Francês | Avaliação |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
