@@ -42,7 +42,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 ### Full Beatmap Nominators
 
-#### osu!standard
+#### osu!
 
 | Name | Additional languages |
 | :-- | :-- |
@@ -76,6 +76,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbian |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
+| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | German |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | German |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Danish |
@@ -173,7 +174,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 ### Probationary Beatmap Nominators
 
-#### osu!standard
+#### osu!
 
 | Name | Additional languages |
 | :-- | :-- |
@@ -181,7 +182,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Spanish |
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | French, German |
-| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | German |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian, French |
@@ -201,6 +201,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
+| ![][flag_KR] [My Angel RangE](https://osu.ppy.sh/users/6336713) | Korean |
 | ![][flag_AT] [NyalettOwO x3](https://osu.ppy.sh/users/7592136) |  |
 | ![][flag_CN] [Souvenir](https://osu.ppy.sh/users/14057792) | Chinese |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
