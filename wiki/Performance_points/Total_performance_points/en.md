@@ -1,5 +1,6 @@
 ---
 stub: true
+tags:
   - rank
 ---
 

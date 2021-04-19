@@ -82,7 +82,6 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Alemán, polaco | Evaluación |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Holandés | Evaluación, moderación |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, francés | Evaluación |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
