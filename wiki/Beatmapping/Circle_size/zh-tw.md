@@ -10,7 +10,7 @@ tags:
 
 **圓圈大小** (***CS***)是影響[打擊物件](/wiki/Hit_Objects)大小的[圖譜](/wiki/Beatmap)難度設定。數值可介於 0 到 10 之間，但在[圖譜編輯器](/wiki/Beatmap_Editor)中只能在 2 到 7 間調整。若要繞過此限制，必須手動修改圖譜的 [.osu檔案](/wiki/osu!_File_Formats/Osu_(file_format))。
 
-## osu!standard
+## osu!
 
 在 osu!standard 中，圓圈大小將改變打擊圈圈和滑條的大小。數值越大，物件越小。轉盤不會被影響。以下是計算公式：
 
