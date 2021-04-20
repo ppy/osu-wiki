@@ -8,7 +8,7 @@ tags:
 
 ![ATT 2021 logo](img/logo.jpg)
 
-The **Ausu!Taiko Tournament 2021** (***ATT 2021***) is a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235). The tournament was restricted to players within the Southeast Asian countries only. It is the seventh installment of the Ausu!Taiko Tournament.
+The **Ausu!Taiko Tournament 2021** (**ATT 2021**) is a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235). The tournament is restricted to players within the Southeast Asian countries only. It is the seventh installment of the Ausu!Taiko Tournament.
 
 ## Tournament schedule
 
@@ -44,11 +44,11 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1284274)
-- [Livestream](https://www.twitch.tv/sparxenic)
-- [Challonge bracket](https://challonge.com/ausutaiko2021)
+- [Livestream](https://www.twitch.tv/sparxenic "Twitch")
+- [Challonge bracket](https://challonge.com/ausutaiko2021 "Challonge")
 - Spreadsheet
-  - [Schedule](https://docs.google.com/spreadsheets/d/18xadwgbLM3mc5nPs316bF0OSwcyyGSgibFEv_hNkgeU/edit?usp=sharing)
-  - [Mappool](https://docs.google.com/spreadsheets/d/1dUo00W0UH3pgq1wPru-U9EGf35qAisRyM2C6OWBn2Ns/edit?usp=sharing)
+  - [Schedule](https://docs.google.com/spreadsheets/d/18xadwgbLM3mc5nPs316bF0OSwcyyGSgibFEv_hNkgeU/edit?usp=sharing "Google Docs")
+  - [Mappool](https://docs.google.com/spreadsheets/d/1dUo00W0UH3pgq1wPru-U9EGf35qAisRyM2C6OWBn2Ns/edit?usp=sharing "Google Docs")
 
 ## Participants
 
@@ -102,32 +102,32 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ### General rules
 
-1. Tournament is open to players living in Australia, New Zealand, Malaysia, Singapore, Indonesia, Philippines, and Thailand. Recommended rank is #7,500+.
+1. The tournament is open to players living in Australia, New Zealand, Malaysia, Singapore, Indonesia, Philippines, and Thailand. Recommended rank is #7,500+.
 2. The tournament style is a double-elimination bracket.
 3. Players will be seeded by global rank.
 4. The tournament will take the best of the first 32 entrants (given they fit the next rule).
-5. There exists an ambiguous rank limit (as always); because many countries have a large gap somewhere in their top 5 players, this leaves a large gap in competitive skill. As a result, some players may be denied entry to participate (as a guideline, around 8.5kpp is the desired cap).
-6. Poor attitude with other players/tournament staff will result in disqualification (this point applies too for staff members).
+5. There exists an ambiguous rank limit, as many countries have a large gap somewhere in their top five players, which leaves a large gap in competitive skill. As a result, some players may be denied entry to participate (as a guideline, around 8,500 pp is the desired cap).
+6. Poor attitude with other players/tournament staff will result in disqualification (this point applies for staff members too).
 
 ### Match rules
 
 1. The tournament is a 1v1 osu!taiko match; highest score wins.
 2. Scoring will be calculated via **ScoreV2**.
-3. The mappool will change in size depending on round, but at a very minimum will contain: 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, and 1 Tiebreaker.
-   - FreeMod consists of Hidden, HardRock, or Hidden+HardRock. No other mods/combinations of mods may be used (that includes NM).
+3. The mappool will change in size depending on round, but at a very minimum will contain 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, and 1 Tiebreaker.
+   - FreeMod consists of Hidden, HardRock, or Hidden+HardRock. No other mods/combinations of mods may be used (this includes NM).
 4. Players can request to use Nightcore instead of DoubleTime, but the opponent must also agree upon the request.
-5. Players are allowed 1 ban per match.
-6. Players can pick a warmup with the max length of **4:00**.
+5. Players are allowed one ban per match.
+6. Players can pick a warmup with the max length of **four minutes**.
 7. `!roll` will determine who will pick the first beatmap.
 8. The player with the lowest `!roll` score will ban first, followed by their opponent.
 9. Players have 10 minutes in Group Stage or 15 minutes in every stage above to attend their match before a win by default is given to the other player.
 10. If both players fail, the player with the highest failed score wins the point.
-11. If the scores are tired, then the beatmap will be played again and no point(s) will be awarded.
+11. If the scores are tied, then the beatmap will be played again and no point(s) will be awarded.
     - If there exists two ties in a row on the same beatmap, the map may be nullified and not reused. The player whom selected the tied map may pick again.
 
 #### Tournament structure
 
-1. Seeding is based off of the player's rankings; there will be four seed categories and every player will fit into one of these depending on their total Taiko pp compared to the rest of the players. Groups for the Group Stage will be groups of four, where each player is from a different seed category. Please note: this may change depending on the number of participants.
+1. Seeding is based off of the player's rankings; there will be four seed categories and every player will fit into one of these depending on their total Taiko pp compared to the rest of the players. Groups for the Group Stage will be groups of four, where each player is from a different seed category. (This may change depending on the number of participants.)
 2. 5 points to win the match in the Group Stage.
 3. 6 points to win the match in the Round of 16 and Quarterfinals.
 4. 7 points to win the match in Semifinals and Finals.
