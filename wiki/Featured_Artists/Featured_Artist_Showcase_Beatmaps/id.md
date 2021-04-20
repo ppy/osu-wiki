@@ -331,7 +331,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 
 ## Sejarah
 
-Bahkan sejak awal, Mappers' Guild telah diatur sejalan dengan "membuat paket promosi beatmap untuk featured artist yang akan datang" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> sebagai salah satu tujuan utamanya; Faktanya, enam beatmap yang dibuat untuk [Pengumuman MOtOLOiD sebagai featured artist](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) juga merupakan kreasi pertama dari Guild.
+Bahkan sejak awal, Mappers' Guild telah diatur sejalan dengan "membuat paket beatmap promosional untuk featured artist yang akan datang" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> sebagai salah satu tujuan utamanya; Faktanya, enam beatmap yang dibuat untuk [Pengumuman MOtOLOiD sebagai featured artist](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) juga merupakan kreasi pertama dari Guild.
 
 Karena Guild sendiri beroperasi berbasis aplikasi tertutup pada masa-masa awalnya, akses ke konten featured artist yang akan datang sering kali dibatasi hanya untuk segelintir pembuat beatmap mode permainan [osu!](/wiki/Game_mode/osu!); Bagaimanapun juga, pada saat [peralihan ke sistem entri terbuka dan otomatis pada awal 2019](/wiki/Mapping_and_Modding_Timeline#march.5), guild secara bertahap mengizinkan semakin banyak kreator untuk berpartisipasi dalam pembuatan beatmap showcase untuk featured artist ke depannya dari waktu ke waktu terlepas dari mode permainan mereka.
 
