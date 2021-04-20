@@ -267,7 +267,7 @@ It's because of this sets history, and the significance of things like it that t
 150 BPM, 1:57 | 2.56★\
 *description written by [-mint-](https://osu.ppy.sh/users/8976576)*
 
-Featured in the group stage mappool of MWC 2020, this simple yet exciting SV map serves as a friendly reminder not to slack on your intake of dairy products, an important part of the typical diet. 
+Featured in the group stage mappool of osu!mania World Cup 2020 this simple yet exciting SV map serves as a friendly reminder not to slack on your intake of dairy products, an important part of the typical diet. 
 
 The superior beverage over water, *MilK* is an approachable chart to learn, especially since many players are already familiar enough with this song which is popular in the rhythm game community. We hope you are not lactose intolerant when you play this map, and vote so that it may gain its deserved spot in the Loved section!
 
