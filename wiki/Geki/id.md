@@ -2,53 +2,49 @@
 tags:
   - "300"
   - perfect
+no_native_review: true
 ---
 
 # Geki
 
 *Lihat juga: [Katu](/wiki/Katu)*
 
-**Geki (激)** atau *Elite Beat!* merupakan istilah dalam [penilaian](/wiki/Score) yang digunakan ketika pemain menyelesaikan suatu comboset dengan [akurasi](/wiki/Gameplay/Accuracy) sempurna.
+**Geki (激)** atau *Elite Beat!* merupakan sebuah indikator dalam [sistem penilaian osu!](/wiki/Score) yang akan muncul setiap kali seorang pemain berhasil menyelesaikan suatu rangkaian combo dengan [akurasi](/wiki/Gameplay/Accuracy) yang sempurna. Apabila seorang pemain berhasil memunculkan Geki, *health bar* yang dimiliki oleh pemain yang bersangkutan akan terisi ulang secara signifikan.
 
-Dengan mendapatkan Geki, health bar gain yang didapatkan cukup tinggi dibandingkan mengakhiri suatu comboset dengan 300 non-Geki.
+Terminologi Geki sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_games) pada konsol Nintendo DS yang mendasari awal terbentuknya [osu!](/wiki/Game_Mode).
 
-Hal ini berasal dari permainan Nintendo DS Elite Beat Agents yang menjadi dasar [mode](/wiki/Game_Mode) [osu!standard](/wiki/Game_mode/osu!).
+## Geki dalam berbagai permainan
 
-## Screenshots
+![Contoh kenampakan Geki dalam Elite Beat Agents](img/eba-bornlove-300g.jpg "Contoh kenampakan  Geki dalam Elite Beat Agents")
 
-Berikut contoh dalam mendapatkan Geki/Elite Beat dalam Elite Beat Agents, Ouendan 2 dan osu! sendiri.
+![Contoh kenampakan  Geki dalam Osu! Tatakae! Ouendan! 2](img/oto-sambomaster-300g.jpg "Contoh kenampakan  Geki Osu! Tatakae! Ouendan! 2")
 
-![](img/eba-bornlove-300g.jpg) ![](img/oto-sambomaster-300g.jpg)
+![Contoh kenampakan  Geki dalam osu!](img/osu-lonelest-300g.jpg "Contoh kenampakan Geki dalam osu!")
 
-![](img/osu-lonelest-300g.jpg)
-
-## Dalam mode yang lain
+## Geki dalam mode-mode permainan lainnya
 
 ### osu!taiko
 
-Geki hanya ditampilkan pada result screen untuk menunjukkan semua pukulan note besar yang berhasil didapatkan dengan sempurna.
+Simbol Geki dapat dilihat pada layar *result screen* sebagai penanda dari jumlah not-not besar yang berhasil dieksekusi dengan baik.
 
 ### osu!catch
 
-Geki menandakan bahwa comboset telah diselesaikan tanpa memecahkan combo yang sedang berjalan.
+Geki tidak dipergunakan dalam mode osu!catch.
 
 ### osu!mania
 
-Geki digunakan untuk menandakan **MAX** atau "320", dimana dalam mode ini nilai MAX merupakan dasar nilai tertinggi. Tidak ada perbedaaan akurasi diantara 300 dan MAX pada mode osu!mania, karena itu penilaian ini memberikan nilai tambah dengan akurasi yang sama.
+Geki dipergunakan untuk menandakan not-not yang berhasil dikenai dengan sempurna, di mana Geki akan muncul pada layar permainan dalam bentuk `300` yang berwarna pelangi (terkadang disebut juga dengan MAX). Walaupun dalam perhitungannya setiap Geki akan bernilai 320 poin, Geki memiliki bobot akurasi yang serupa dengan 300 normal pada umumnya.
 
-## Aspek permainan yang lain
+## Storyboard
 
-### Storyboard (DS Games)
+### Permainan-permainan DS
 
-Geki memanggil storyboard terbaik dalam permainan. Biasanya ditunjukkan dengan semangat yang sangat kuat dalam melakukan hal tersebut.
+Kemunculan Geki akan memicu respon storyboard terbaik (*best-tier storyboard*) yang ada di dalam kode permainan, yang pada umumnya tersaji dalam rupa tarian penuh hasrat dan semangat dari para penari Ouendan yang ada.
 
-### Storyboard (osu!)
+### osu!
 
-Storyboard dalam osu! umumnya difokuskan untuk mode osu!standard.
-Mendapatkan Geki akan beberapa hal terjadi:
+Kemunculan Geki dapat memicu hal-hal berikut:
 
-- Fail Layer akan dinonaktifkan.
-- Pass Layer akan diaktifkan.
-- Memicu pemanggilan "Passing" apabila sebelumnya dalam keadaan Fail.
-
-<!-- NOTE: for Indonesian translator, please use this as base of translation to EN one -->
+- Penonaktifan [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
+- Aktivasi [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
+- Terjadinya suatu *event* yang dikategorikan dalam kelompok "Passing" walaupun pemain yang bersangkutan sebelumnya berada dalam keadaan "Fail".

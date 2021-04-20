@@ -2,65 +2,60 @@
 tags:
   - "100"
   - katsu
+no_native_review: true
 ---
 
 # Katu
 
 *Lihat juga: [Geki](/wiki/Geki)*
 
-*Berbeda konteks dengan Katu dari osu!taiko*
+*”Katu” yang dibahas pada artikel ini memiliki konteks yang berbeda dengan “Katu” yang ada pada mode permainan osu!taiko.*
 
-**Katu (喝)**, *Katsu* atau *Beat!*  merupakan istilah dalam [penilaian](/wiki/Score) yang digunakan ketika pemain menyelesaikan suatu comboset tidak dengan [akurasi](/wiki/Gameplay/Accuracy) sempurna.
-Namun, nilai ini tidak dapat diraih apabila mendapatkan 50 atau lebih rendah dalam combo tersebut.
+**Katu (激)**, *Katsu*, atau *Beat!*, merupakan sebuah indikator dalam [sistem penilaian osu!](/wiki/Score) yang akan muncul setiap kali seorang pemain berhasil menyelesaikan suatu rangkaian combo tanpa [akurasi](/wiki/Gameplay/Accuracy) yang sempurna. Meskipun demikian, Katu tidak akan muncul apabila dalam suatu rangkaian combo terdapat 50 atau *miss* dari pemain.
 
-Ada dua jenis Katu, jenis tersebut ditentukan dengan penilaian terakhir dalam akhir comboset.
-Katu yang diakhiri dengan 300 memberikan bonus health yang lebih dibanding dengan Katu yang diakhiri dengan 100, namun keduanya lebih lemah daripada Geki.
+Terdapat dua jenis Katu yang kemunculannya ditentukan berdasarkan seberapa akurat seorang pemain dalam mengenai objek terakhir yang ada di dalam suatu rangkaian combo. Katu yang disertai dengan 300 pada akhir combo akan mengisi ulang *health bar* dalam jumlah yang lebih signifikan dibanding dengan Katu yang disertai dengan 100 pada akhir combo walaupun dampak keduanya tidak sebesar ketika mendapatkan [Geki](/wiki/Geki).
 
-Hal ini berasal dari permainan Nintendo DS Elite Beat Agents yang menjadi dasar [mode](/wiki/Game_Mode) [osu!standard](/wiki/Game_mode/osu!).
+Terminologi Katu sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_games) pada konsol Nintendo DS yang mendasari awal terbentuknya [osu!](/wiki/Game_Mode).
 
-## Screenshots
+## Katu dalam berbagai permainan
 
-Diberikan contoh dalam mendapatkan Katu/Katsu/Beat dalam Elite Beat Agents, Ouendan 2 dan osu! sendiri.
+![Contoh kenampakan Katu dalam Elite Beat Agents](img/eba-without-100k.jpg "Contoh kenampakan Katu dalam Elite Beat Agents")
 
-![](img/eba-without-100k.jpg) ![](img/oto-countdwn-300k.jpg)
+![Contoh kenampakan Katu dalam Osu! Tatakae! Ouendan! 2](img/oto-countdwn-300k.jpg "Contoh kenampakan Katu dalam Osu! Tatakae! Ouendan! 2")
 
-![](img/osu-cutepnth-100k.jpg)
+![Contoh kenampakan Katu (100) dalam osu!](img/osu-cutepnth-100k.jpg "Contoh kenampakan Katu (100) dalam osu!")
 
-![](img/osu-stardisc-300k.jpg)
+![Contoh kenampakan Katu (300) dalam osu!](img/osu-stardisc-300k.jpg "Contoh kenampakan Katu (300) dalam osu!")
 
-## Contoh permainan
+## Katu dalam permainan-permainan iNiS
 
-- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs)
-- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI)
+- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs "YouTube")
+- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI "YouTube")
 
-## Dalam mode yang lain
+## Katu dalam mode-mode permainan lainnya
 
 ### osu!taiko
 
-Nilai Katu didapatkan dengan memukul big note secara bersamaan. osu!taiko memiliki toleransi yang lebih dalam menentukan suatu pukulan perlu mendapatkan bonus health dan penilaian.
+Simbol Katu dapat dilihat pada layar *result screen* sebagai penanda dari jumlah not-not besar yang berhasil dieksekusi dengan sempurna (dengan menekan dua tombol input yang tepat pada waktu yang bersamaan).
 
 ### osu!catch
 
-Katu dihitung untuk setiap droplet yang terlewatkan. Nilai ini tidak dimunculkan pada result screen.
+Katu dipergunakan untuk menghitung jumlah droplet yang gagal untuk ditangkap oleh pemain. Adapun jumlah ini tidak ditampilkan pada layar *result screen*.
 
 ### osu!mania
 
-Dalam osu!mania, Katu diganti menjadi **200**. Sesuai namanya ini memberikan nilai 200 pada perhitungan dasar serta memberikan sedikit penalti pada bagian penilaian.
+Katu dipergunakan untuk menandakan not-not yang bernilai 200, yang menandakan bahwa *timing* pemain dalam mengenai not-not yang ada tersebut masih kurang akurat.
 
-## Aspek permainan yang lain
+## Storyboard
 
-### Storyboard (DS Games)
+### Permainan-permainan DS
 
-Katu memanggil storyboard moderat dalam permainan.
-Biasanya ditunjukkan dengan aktivitas yang cukup standar.
+Kemunculan Geki akan memicu respon storyboard kedua terbaik (*second-tier storyboard*) yang ada di dalam kode permainan, yang pada umumnya tersaji dalam rupa tarian yang bernuansa netral dari para penari Ouendan yang ada.
 
-### Storyboard (osu!)
+### osu!
 
-Storyboard dalam osu! umumnya difokuskan untuk mode osu!standard.
-Mendapatkan Katu akan beberapa hal terjadi:
+Kemunculan Katu dapat memicu hal-hal berikut:
 
-- Fail Layer akan diaktifkan.
-- Pass Layer akan dinonaktifkan.
-- Memicu pemanggilan "Failing" apabila sebelumnya dalam keadaan Pass.
-
-Untuk diketahui bahwa Fail dalam storyboard osu! itu berbeda dengan game DS.
+- Penonaktifan [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
+- Aktivasi [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
+- Terjadinya suatu *event* yang dikategorikan dalam kelompok "Passing" walaupun pemain yang bersangkutan sebelumnya berada dalam keadaan "Fail".
