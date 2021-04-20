@@ -3,7 +3,7 @@ stub: true
 tags:
   - forum
   - wastelanded
-- abandoned
+  - abandoned
 ---
 
 # Abandoned wasteland
