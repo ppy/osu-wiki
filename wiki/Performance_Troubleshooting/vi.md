@@ -71,7 +71,7 @@ Khuyến nghị cho máy tính cổ hoặc laptop cần tiết kiệm pin.
 
 ### Optimal (Tối ưu)
 
-Mức giới hạn này giữ tần suất khung hình bằng 8 lần tần số quét màn hình, tối đa là 960fps. Đây là mức giới hạn được khuyến nghị cho người dùng không muốn đốt CPU/GPU quá mức, nhưng vẫn đảm bảo hiệu năng đủ cao dẫn đến độ trễ tín hiệu vào thấp.
+Mức giới hạn này giữ tần suất khung hình bằng 8 lần tần số quét màn hình, tối đa là 960 FPS. Đây là mức giới hạn được khuyến nghị cho người dùng không muốn đốt CPU/GPU quá mức, nhưng vẫn đảm bảo hiệu năng đủ cao dẫn đến độ trễ tín hiệu vào thấp.
 
 Thường được ưa chuộng hơn Unlimited để làm giảm số khung hình được xuẩt ra, đồng thời làm giảm khả năng dẫn đến [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science) "Wikipedia") overhead (thứ dẫn đến khung hình bị đứng).
 
@@ -89,8 +89,9 @@ Tuy nhiên, nếu sự sinh nhiệt và tiềm năng làm phần cứng bạn qu
 
 ### Custom (Tuỳ chỉnh)
 
-*Lưu ý rằng, nếu bạn chơi bản Cutting Edge, nếu bạn sửa `CustomFrameLimit` thành bất cứ số nào lớn hơn 999, nó sẽ bị đưa về 999. Ở bản Stable, bạn có thể đặt giá trị lớn hơn 1000 mà không gặp bất cứ vấn đề gì.*
-*Ngoài ra, bạn không thể đổi sang thiết lập này bằng phím tắt `F7` trong game, kể cả khi bạn đã làm xong các bước trên: Bạn cần phải đổi về Custom trong trong Options (Tuỳ chỉnh) trước khi thoát game để lần tới bạn chạy osu! sẽ có lại lựa chọn này. Nếu không, bạn sẽ phải chỉnh lại `FrameSync` thủ công lần nữa.*
+*Lưu ý đối với người dùng bản Cutting Edge: sửa giá trị `CustomFrameLimit` thành bất cứ số nào lớn hơn 999, sẽ bị đưa về 999; ở bản Stable, bạn có thể đặt giá trị lớn hơn 1000 mà không gặp vấn đề gì.*
+
+*Chú ý: bạn không thể đổi sang thiết lập này bằng phím tắt `F7` trong game, kể cả khi bạn đã làm xong các bước bên dưới: bạn cần phải đổi về Custom trong trong Options (Tuỳ chỉnh) trước khi thoát game để lần tới bạn chạy osu! sẽ có lại lựa chọn này. Nếu không, bạn sẽ phải chỉnh lại `FrameSync` thủ công lần nữa.*
 
 Mức giới hạn này cố gắng giữ tần suất khung hình bằng với con số mà bạn yêu thích; tuy nhiên, đây là thiết lập mà bạn không thể thay đổi thông qua menu trong game.
 

@@ -71,7 +71,7 @@ Recommended for older PCs or for conserving battery on a laptop.
 
 ### Optimal
 
-This frame limiter attempts to keep a frame rate 8x your refresh rate, with a maximum of 960fps. This is our recommended frame limiter for users who don’t want to run their CPU/GPU to extremities, while maintaining high levels of performance resulting in low input latency.
+This frame limiter attempts to keep a frame rate 8x your refresh rate, with a maximum of 960 FPS. This is our recommended frame limiter for users who don’t want to run their CPU/GPU to extremities, while maintaining high levels of performance resulting in low input latency.
 
 Can be preferred to unlimited in order to reduce the number of frames rendered, in turn leading to less potential for [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science) "Wikipedia") overhead (which can result in spike frames).
 
@@ -89,8 +89,9 @@ Even so, if heat generation and potentially overworking your hardware is not con
 
 ### Custom
 
-*Note that, if you're using the Cutting Edge release stream, changing the `CustomFrameLimit` to any number above 999, will be reverted to 999; on Stable, you can set the value above 1000 with no issues.*
-*Also note that you cannot switch into this setting with the `F7` shortcut in-game, even if you had done the steps above: you'll need to switch to Custom in the Settings before quitting the game so it'll be available the next time osu! runs. Otherwise, you'll have to change the `FrameSync` manually again.*
+*Notice to Cutting Edge users: changing the value of `CustomFrameLimit` to any number above 999, will be reverted to 999; on Stable, you can set the value above 1000 with no issues.*
+
+*Caution: you cannot switch into this setting with the `F7` shortcut in-game, even if you do the steps below: you'll need to switch to Custom in the Settings before quitting the game so it'll be available the next time osu! runs. Otherwise, you'll have to change the `FrameSync` manually again.*
 
 This frame limiter attempts to keep a frame rate equal to your custom preference; however, this is a setting that cannot be changed to within the in-game menu by default.
 
