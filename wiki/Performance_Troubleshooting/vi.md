@@ -101,5 +101,5 @@ Mức giới hạn này cố gắng giữ tần suất khung hình bằng với 
 3. Mở tệp `osu!.<TênTàiKhoảnPC>.cfg` bằng Notepad hoặc một trình soạn thảo văn bản nào khác theo ý thích.
 4. Tìm dòng `FrameSync = <giá trị nào đó>` và sửa giá trị thành `Custom`.
 5. Tìm dòng `CustomFrameLimit = <giá trị nào đó>` và sửa giá trị thành con số bạn muốn.
-6. Lưu tệp config. Nếu bạn chưa đóng osu! ở bước thứ hai, hãy làm điều đó trước khi lưu.
+6. Lưu tệp config. (Nếu bạn chưa đóng osu! ở bước thứ hai, hãy làm điều đó trước khi lưu.)
 7. Mở lại game.

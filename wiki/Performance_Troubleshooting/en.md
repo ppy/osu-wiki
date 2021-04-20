@@ -101,5 +101,5 @@ To change osu!'s custom maximum framerate, you'll need to tweak some values in t
 3. Open the `osu!.<yourPCusername>.cfg` file with Notepad or a text editor of your choice.
 4. Find the line `FrameSync = <value>` and change the value to `Custom`.
 5. Find the line `CustomFrameLimit = <value>` and change the value to your preference.
-6. Save the config file. If you haven't closed osu! in the second step, please do so before saving.
+6. Save the config file. (If you haven't closed osu! in the second step, please do so before saving.)
 7. Re-open the game.
