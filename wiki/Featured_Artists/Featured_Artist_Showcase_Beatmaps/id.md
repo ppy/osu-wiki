@@ -335,7 +335,7 @@ Bahkan sejak awal, Mappers' Guild telah diatur sejalan dengan "membuat paket bea
 
 Karena Guild sendiri beroperasi berbasis aplikasi tertutup pada masa-masa awalnya, akses ke konten featured artist yang akan datang sering kali dibatasi hanya untuk segelintir pembuat beatmap mode permainan [osu!](/wiki/Game_mode/osu!); Bagaimanapun juga, pada saat [peralihan ke sistem entri terbuka dan otomatis pada awal 2019](/wiki/Mapping_and_Modding_Timeline#march.5), guild secara bertahap mengizinkan semakin banyak kreator untuk berpartisipasi dalam pembuatan beatmap showcase untuk featured artist ke depannya dari waktu ke waktu terlepas dari mode permainan mereka.
 
-Dimulai dari [Pengumuman MYUKKE. sebagai featured artist](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) pada Desember 2020 dan seterusnya, kiriman pengumuman featured artist baru sering menampilkan pratinjau video singkat, seringkali dengan beatmap showcase ini bertindak sebagai tajuk utama mereka.
+Dimulai dari [Pengumuman MYUKKE. sebagai featured artist](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) pada Desember 2020 dan seterusnya, kiriman pengumuman featured artist baru kadang-kadang menampilkan pratinjau video singkat, seringkali dengan beatmap showcase ini bertindak sebagai tajuk utama mereka.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
