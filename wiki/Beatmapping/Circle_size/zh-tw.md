@@ -12,7 +12,7 @@ tags:
 
 ## osu!
 
-在 osu!standard 中，圓圈大小將改變打擊圈圈和滑條的大小。數值越大，物件越小。轉盤不會被影響。以下是計算公式：
+在 osu! 中，圓圈大小將改變打擊圈圈和滑條的大小。數值越大，物件越小。轉盤不會被影響。以下是計算公式：
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
