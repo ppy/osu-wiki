@@ -41,7 +41,7 @@ The 3 Digit World Cup is run by various community members.
 | Mappool selector | ![][flag_US] [fooders](https://osu.ppy.sh/users/7545218), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
 | Referee | ![][flag_KR] [choke-](https://osu.ppy.sh/users/12242622), ![][flag_PL] [crissof](https://osu.ppy.sh/users/9505673), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_AT] [GumalaOC](https://osu.ppy.sh/users/5367718), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [ruruchewy](https://osu.ppy.sh/users/7112839), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_PL] [zibi](https://osu.ppy.sh/users/11301620) |
 | Streamer | ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
-| Commentator | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) |
+| Commentator | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458), ![][flag_AU] [jordanlr7](https://osu.ppy.sh/users/11652827), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [Mavs](https://osu.ppy.sh/users/11076938), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) |
 | Designer | ![][flag_US] [Celsea](https://osu.ppy.sh/users/7464885), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -83,27 +83,68 @@ The 3 Digit World Cup is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Voss](https://osu.ppy.sh/users/7657761)**, [Rinnu](https://osu.ppy.sh/users/12179012), [majoreh](https://osu.ppy.sh/users/7959222), [Kingling](https://osu.ppy.sh/users/7010761), [Jemzsee](https://osu.ppy.sh/users/11553627), [Doomsday](https://osu.ppy.sh/users/18983) |
 | ![][flag_US] | **United States** | **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, [Exarch](https://osu.ppy.sh/users/5370153), [Apraxia](https://osu.ppy.sh/users/4194445), [Woey](https://osu.ppy.sh/users/3792472), [Flezlin](https://osu.ppy.sh/users/3696423), [Tekkito](https://osu.ppy.sh/users/7075211) |
 
-## Match schedule: Quarterfinals
+## Match schedule: Semifinals
 
-### Saturday, 17 April 2021
+This schedule is likely to change as a result of reschedules. Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Spreadsheet") for an up-to-date schedule.
 
-| Team A | Team B | Match time | Local time A | Local time B |
-| --: | :-- | :-: | :-: | :-: |
-| Taiwan ![][flag_TW] | ![][flag_JP] Japan | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
-| Australia ![][flag_AU] | ![][flag_SE] Sweden | **12:00 UTC** | 22:00 UTC+10 | 14:00 UTC+02 |
-| Finland ![][flag_FI] | ![][flag_CN] China | **13:00 UTC** | 16:00 UTC+03 | 21:00 UTC+08 |
-| France ![][flag_FR] | ![][flag_CA] Canada | **17:30 UTC** | 19:30 UTC+02 | 12:30 UTC-05 |
-| United States ![][flag_US] | ![][flag_RU] Russia | **18:00 UTC** | 12:00 UTC-06 | 22:00 UTC+04 |
+### Saturday, 24 April 2021
 
-### Sunday, 18 April 2021
+| Team A | Team B | Match time | Local time A | Local time B | |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| Japan ![][flag_JP] | ![][flag_FR] France | **12:30 UTC** | 21:30 UTC+09 | 14:30 UTC+02 | ² |
+| Russia ![][flag_RU] | ![][flag_CN] China | **14:00 UTC** | 18:00 UTC+04 | 22:00 UTC+08 | ² |
+| Poland ![][flag_PL] | ![][flag_SE] Sweden | **15:30 UTC** | 17:30 UTC+02 | 17:30 UTC+02 | ² |
+| Germany ![][flag_DE] | ![][flag_GB] United Kingdom | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 | ² |
 
-| Team A | Team B | Match time | Local time A | Local time B |
-| --: | :-- | :-: | :-: | :-: |
-| South Korea ![][flag_KR] | ![][flag_GB] United Kingdom | **14:00 UTC** | 23:00 UTC+09 | 15:00 UTC+01 |
-| Poland ![][flag_PL] | ![][flag_XX] Countryless | **15:00 UTC** | 17:00 UTC+02 | 15:00 UTC+00 |
-| Brazil ![][flag_BR] | ![][flag_DE] Germany | **16:00 UTC** | 13:00 UTC-03 | 18:00 UTC+02 |
+### Sunday, 25 April 2021
+
+| Team A | Team B | Match time | Local time A | Local time B | |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| Germany ![][flag_DE] | ![][flag_JP] Japan | **11:00 UTC** | 13:00 UTC+02 | 20:00 UTC+09 | ³ |
+| United Kingdom ![][flag_GB] | ![][flag_JP] Japan | **11:00 UTC** | 12:00 UTC+01 | 20:00 UTC+09 | ³ |
+| Poland ![][flag_PL] | ![][flag_RU] Russia | **12:30 UTC** | 14:30 UTC+02 | 16:30 UTC+04 | ³ |
+| Poland ![][flag_PL] | ![][flag_CN] China | **12:30 UTC** | 14:30 UTC+02 | 20:30 UTC+08 | ³ |
+| Sweden ![][flag_SE] | ![][flag_RU] Russia | **12:30 UTC** | 14:30 UTC+02 | 16:30 UTC+04 | ³ |
+| Sweden ![][flag_SE] | ![][flag_CN] China | **12:30 UTC** | 14:30 UTC+02 | 20:30 UTC+08 | ³ |
+| Taiwan ![][flag_TW] | ![][flag_BR] Brazil | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 | ¹ |
+| United States ![][flag_US] | ![][flag_XX] Countryless | **15:30 UTC** | 09:30 UTC-06 | 15:30 UTC+00 | ¹ |
+| Germany ![][flag_DE] | ![][flag_FR] France | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 | ³ |
+| United Kingdom ![][flag_GB] | ![][flag_FR] France | **17:00 UTC** | 18:00 UTC+01 | 19:00 UTC+02 | ³ |
+
+¹ Winner bracket encounter\
+² Loser bracket encounter\
+³ Encounter dependent on results of ² Loser bracket encounter
 
 ## Mappools
+
+### Semifinals
+
+- NoMod
+  - [Suzuki Konomi - My Days (Depths) \[Ascend Beyond the Heavens\]](https://osu.ppy.sh/beatmapsets/1005224#osu/2103821)
+  - [Xi - Densetsu no Sabori Shinigami \~ Make a quick escape (vita2) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1432725#osu/2948669)
+  - [Akatsuki Records - BLOODSHED (Zelq) \[Extra\]](https://osu.ppy.sh/beatmapsets/937624#osu/1958623)
+  - [Camellia - B L A C K - R A Y (Mir) \[Obtrusion\]](https://osu.ppy.sh/beatmapsets/1020387#osu/2134989)
+  - [goreshit - MATZcore (smozit) \[A A A A A\]](https://osu.ppy.sh/beatmapsets/865872#osu/1810374)
+  - [Alice Schach and the Magic Orchestra - The eve of epokhe (captin1) \[movement mapping\]](https://osu.ppy.sh/beatmapsets/1436242#osu/2955142)
+- Hidden
+  - [04 Limited Sazabys - Squall (Gillstar) \[Expert\]](https://osu.ppy.sh/beatmapsets/1029349#osu/2152441)
+  - [MYUKKE. - The 89's Momentum (Cubby) \[Cubby & Yusomi Extreme\]](https://osu.ppy.sh/beatmapsets/1235496#osu/2568326)
+  - [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
+- HardRock
+  - [ZAQ - Seven Doors (SkyFlame) \[knowledge's Extreme\]](https://osu.ppy.sh/beatmapsets/1078911#osu/2430049)
+  - [Rin - Eientewi set 13 \~ Extend Ash (Halfslashed) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1262466#osu/2624071)
+  - [GUHROOVY - AIR RAID FROM THA UNDAGROUND (Matrix) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1067854#osu/2272299)
+- DoubleTime
+  - [senya - Wasurerareta Kiseki (Satellite) \[Narcissu's Lunatic\]](https://osu.ppy.sh/beatmapsets/662578#osu/1428656)
+  - [Feryquitous feat. F9 - Monochrome Anomaly (captin1) \[Insane\]](https://osu.ppy.sh/beatmapsets/1436243#osu/2955143)
+  - [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmapsets/28332#osu/94533)
+  - [Cranky - Libera me (eiri-) \[IOException's Insane\]](https://osu.ppy.sh/beatmapsets/757813#osu/1596819)
+- FreeMod
+  - [Yuuka - Girls' Carnival (mindmaster107) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1279334#osu/2657668)
+  - [Jun.A - The Fairy's Adventurous Tale (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/26480#osu/89229)
+  - [\*Luna feat. IA - Start Line (Cut Ver.) (Niva) \[Niva x Kuro Fuyusaki's Sea Food Extra\]](https://osu.ppy.sh/beatmapsets/1395285#osu/2880033)
+- Tiebreaker
+  - **[Demetori - Furuki Yuanxian (GoldenWolf) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/430959#osu/929660)**
 
 ### Quarterfinals
 
@@ -181,6 +222,28 @@ The 3 Digit World Cup is run by various community members.
   - [Duca - Dreamer (timemon) \[Insane\]](https://osu.ppy.sh/beatmapsets/730660#osu/1542024)
 
 ## Match results
+
+### Quarterfinals
+
+The stats of the Quarterfinals can be found [here]("https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1091288063" "Google spreadsheet").
+
+Saturday, 17 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Finland ![][flag_FI] | 2 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/81084501) |
+| **United States** ![][flag_US] | **6** | 2 | ![][flag_RU] Russia | [#1](https://osu.ppy.sh/community/matches/81093063) |
+
+Sunday, 18 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Australia ![][flag_AU] | 1 | **6** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/81169171) |
+| South Korea ![][flag_KR] | 1 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/81174384) |
+| **Taiwan** ![][flag_TW] | **6** | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/81176236) |
+| Poland ![][flag_PL] | 2 | **6** | ![][flag_XX] **Countryless** | [#1](https://osu.ppy.sh/community/matches/81181353) |
+| **Brazil** ![][flag_BR] | **6** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/81194271) |
+| **France** ![][flag_FR] | **6** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/81205049) |
 
 ### Round of 16
 
