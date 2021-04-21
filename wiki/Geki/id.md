@@ -9,7 +9,7 @@ no_native_review: true
 
 *Lihat juga: [Katu](/wiki/Katu)*
 
-**Geki (激)** atau *Elite Beat!* merupakan sebuah indikator dalam [sistem penilaian osu!](/wiki/Score) yang akan muncul setiap kali seorang pemain berhasil menyelesaikan suatu rangkaian combo dengan [akurasi](/wiki/Gameplay/Accuracy) yang sempurna. Apabila seorang pemain berhasil memunculkan Geki, *health bar* yang dimiliki oleh pemain yang bersangkutan akan terisi ulang secara signifikan.
+**Geki (激)** atau *Elite Beat!* merupakan sebuah indikator dalam [sistem penilaian osu!](/wiki/Score) yang akan muncul setiap kali seorang pemain berhasil mengenai seluruh objek yang ada dalam suatu rangkaian combo dengan [akurasi](/wiki/Gameplay/Accuracy) yang sempurna. Apabila seorang pemain berhasil memunculkan Geki, *health bar* yang dimiliki oleh pemain yang bersangkutan akan terisi ulang secara signifikan.
 
 Terminologi Geki sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_games) pada konsol Nintendo DS yang mendasari awal terbentuknya [osu!](/wiki/Game_Mode).
 
@@ -17,9 +17,9 @@ Terminologi Geki sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_g
 
 ![Contoh kenampakan Geki dalam Elite Beat Agents](img/eba-bornlove-300g.jpg "Contoh kenampakan  Geki dalam Elite Beat Agents")
 
-![Contoh kenampakan  Geki dalam Osu! Tatakae! Ouendan! 2](img/oto-sambomaster-300g.jpg "Contoh kenampakan  Geki Osu! Tatakae! Ouendan! 2")
+![Contoh kenampakan Geki dalam Osu! Tatakae! Ouendan! 2](img/oto-sambomaster-300g.jpg "Contoh kenampakan dalam Geki Osu! Tatakae! Ouendan! 2")
 
-![Contoh kenampakan  Geki dalam osu!](img/osu-lonelest-300g.jpg "Contoh kenampakan Geki dalam osu!")
+![Contoh kenampakan Geki dalam osu!](img/osu-lonelest-300g.jpg "Contoh kenampakan Geki dalam osu!")
 
 ## Geki dalam mode-mode permainan lainnya
 
@@ -33,7 +33,7 @@ Geki tidak dipergunakan dalam mode osu!catch.
 
 ### osu!mania
 
-Geki dipergunakan untuk menandakan not-not yang berhasil dikenai dengan sempurna, di mana Geki akan muncul pada layar permainan dalam bentuk `300` yang berwarna pelangi (terkadang disebut juga dengan MAX). Walaupun dalam perhitungannya setiap Geki akan bernilai 320 poin, Geki memiliki bobot akurasi yang serupa dengan 300 normal pada umumnya.
+Geki dipergunakan untuk menandai not-not yang berhasil dikenai dengan sempurna, di mana Geki akan muncul pada layar permainan dalam wujud `300` yang berwarna pelangi (terkadang disebut juga dengan MAX). Walaupun dalam perhitungannya setiap Geki bernilai 320 poin, Geki memiliki bobot akurasi yang serupa dengan 300 normal pada umumnya.
 
 ## Storyboard
 
