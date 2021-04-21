@@ -16,7 +16,7 @@ Distinguished metal mapper [Mazzerin](https://osu.ppy.sh/users/2942381) started 
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/158/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -25,7 +25,7 @@ Distinguished metal mapper [Mazzerin](https://osu.ppy.sh/users/2942381) started 
 Check out [this osu! map](https://osu.ppy.sh/beatmapsets/361035) hosted by [Makeli](https://osu.ppy.sh/users/3411824) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1047259) hosted by [radar](https://osu.ppy.sh/users/7131099)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/158/Outer%20Isolation/Vektor%20-%20Tetrastructural%20Minds.mp3" type="audio/mpeg">
 </audio>
 
 ### Cosmic Cortex
@@ -33,7 +33,7 @@ Check out [this osu! map](https://osu.ppy.sh/beatmapsets/361035) hosted by [Make
 Give [this osu! map](https://osu.ppy.sh/beatmapsets/357996#osu/787307) by [Mazzerin](https://osu.ppy.sh/users/2942381) an attempt or two. Or twenty. You'll need all of them.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/158/Outer%20Isolation/Vektor%20-%20Cosmic%20Cortex.mp3" type="audio/mpeg">
 </audio>
 
 ### Outer Isolation
@@ -41,7 +41,7 @@ Give [this osu! map](https://osu.ppy.sh/beatmapsets/357996#osu/787307) by [Mazze
 Try playing [this osu! map](https://osu.ppy.sh/beatmapsets/469408) hosted by [FCL](https://osu.ppy.sh/users/4715762)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/158/Outer%20Isolation/Vektor%20-%20Outer%20Isolation.mp3" type="audio/mpeg">
 </audio>
 
 ### Fast Paced Society
@@ -49,7 +49,7 @@ Try playing [this osu! map](https://osu.ppy.sh/beatmapsets/469408) hosted by [FC
 Play [the osu! map](https://osu.ppy.sh/beatmapsets/298996) from the video above hosted by [Mazzerin](https://osu.ppy.sh/users/2942381). If you're a drum basher, [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1118123) by [3san](https://osu.ppy.sh/users/8050850) and [this osu!taiko map](https://osu.ppy.sh/beatmapsets/518689) by [Skull Kid](https://osu.ppy.sh/users/3044264) are options too.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/158/Outer%20Isolation/Vektor%20-%20Fast%20Paced%20Society.mp3" type="audio/mpeg">
 </audio>
 
 ### Recharging the Void
@@ -57,7 +57,7 @@ Play [the osu! map](https://osu.ppy.sh/beatmapsets/298996) from the video above 
 And lastly, check out [this loved osu! map](https://osu.ppy.sh/beatmapsets/489236) as the perfect finale to **Vektor**'s music.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/158/Terminal%20Redux/Vektor%20-%20Recharging%20The%20Void.mp3" type="audio/mpeg">
 </audio>
 
 ---
