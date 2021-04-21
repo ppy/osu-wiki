@@ -62,7 +62,7 @@ And lastly, check out [this loved osu! map](https://osu.ppy.sh/beatmapsets/48923
 
 ---
 
-As per usual, many more songs behind this monumentous release can be found over at [**Vektor**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/158). Pick up any track and you'll become the next Mazzerin in no time (results may vary, Mazzerin's muscles not included).
+As per usual, many more songs behind this monumentous release can be found over at [**Vektor**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/158). Pick up any track and you'll become the next Mazzerin in no time (results may vary).
 
 One more artist is slated for this weekend. Keep tabs on the [@osugame Twitter](https://twitter.com/osugame) for news on that and some other special stuff coming near the end of the week. Until then!
 
