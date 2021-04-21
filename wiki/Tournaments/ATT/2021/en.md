@@ -15,7 +15,7 @@ The **Ausu!Taiko Tournament 2021** (**ATT 2021**) is a double-elimination 1v1 os
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2021-03-29/2021-04-05 |
-| Seedings and groups released | 2021-04-18 |
+| Reveal of seedings and groups | 2021-04-18 |
 | Group Stage | 2021-04-24/2021-04-25 |
 | Round of 16 | 2021-05-01/2021-05-02 |
 | Quarterfinals | 2021-05-08/2021-05-09 |
@@ -106,8 +106,8 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 2. The tournament style is a double-elimination bracket.
 3. Players will be seeded by global rank.
 4. The tournament will take the best of the first 32 entrants (given they fit the next rule).
-5. There exists an ambiguous rank limit, as many countries have a large gap somewhere in their top five players, which leaves a large gap in competitive skill. As a result, some players may be denied entry to participate (as a guideline, around 8,500 pp is the desired cap).
-6. Poor attitude with other players/tournament staff will result in disqualification (this point applies for staff members too).
+5. There is an ambiguous rank limit, as many countries have a large gap somewhere in their top five players, which leaves a large gap in competitive skill. As a result, some players may be denied entry to participate (as a guideline, around 8,500 pp is the desired cap).
+6. Poor attitude towards other players or tournament staff will result in disqualification (this point applies to staff members as well).
 
 ### Match rules
 
