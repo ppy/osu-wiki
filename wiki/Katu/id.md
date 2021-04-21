@@ -44,7 +44,7 @@ Katu dipergunakan untuk menghitung jumlah droplet yang gagal untuk ditangkap ole
 
 ### osu!mania
 
-Katu dipergunakan untuk menandakan not-not yang bernilai 200, yang menandakan bahwa *timing* pemain dalam mengenai not-not yang ada tersebut masih kurang akurat.
+Katu dipergunakan untuk menandai not-not yang bernilai 200, di mana kemunculan Katu secara tidak langsung menyiratkan bahwa *timing* pemain dalam mengenai not-not yang ada tersebut masih kurang akurat.
 
 ## Storyboard
 
