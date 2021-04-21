@@ -11,7 +11,7 @@ no_native_review: true
 
 *”Katu” yang dibahas pada artikel ini memiliki konteks yang berbeda dengan “Katu” yang ada pada mode permainan osu!taiko.*
 
-**Katu (激)**, *Katsu*, atau *Beat!*, merupakan sebuah indikator dalam [sistem penilaian osu!](/wiki/Score) yang akan muncul setiap kali seorang pemain berhasil menyelesaikan suatu rangkaian combo tanpa [akurasi](/wiki/Gameplay/Accuracy) yang sempurna. Meskipun demikian, Katu tidak akan muncul apabila dalam suatu rangkaian combo terdapat 50 atau *miss* dari pemain.
+**Katu (激)**, *Katsu*, atau *Beat!*, merupakan sebuah indikator dalam [sistem penilaian osu!](/wiki/Score) yang akan muncul setiap kali seorang pemain berhasil mengenai seluruh objek yang ada dalam suatu rangkaian combo dengan [akurasi](/wiki/Gameplay/Accuracy) yang baik namun tidak sempurna. Meskipun demikian, Katu tidak akan muncul apabila dalam suatu rangkaian combo terdapat 50 atau *miss* dari pemain.
 
 Terdapat dua jenis Katu yang kemunculannya ditentukan berdasarkan seberapa akurat seorang pemain dalam mengenai objek terakhir yang ada di dalam suatu rangkaian combo. Katu yang disertai dengan 300 pada akhir combo akan mengisi ulang *health bar* dalam jumlah yang lebih signifikan dibanding dengan Katu yang disertai dengan 100 pada akhir combo walaupun dampak keduanya tidak sebesar ketika mendapatkan [Geki](/wiki/Geki).
 
