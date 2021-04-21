@@ -85,7 +85,7 @@ The 3 Digit World Cup is run by various community members.
 
 ## Match schedule: Semifinals
 
-This is likely to change as a result of reschedules. Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Spreadsheet") for up-to-date match times.
+This is likely to change as a result of reschedules. Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google spreadsheet") for up-to-date match times.
 
 ### Saturday, 24 April 2021
 
