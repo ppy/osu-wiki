@@ -85,7 +85,7 @@ The 3 Digit World Cup is run by various community members.
 
 ## Match schedule: Semifinals
 
-This schedule is likely to change as a result of reschedules. Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Spreadsheet") for an up-to-date schedule.
+This is likely to change as a result of reschedules. Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Spreadsheet") for up-to-date match times.
 
 ### Saturday, 24 April 2021
 
@@ -107,7 +107,7 @@ This schedule is likely to change as a result of reschedules. Check the [spreads
 | Sweden ![][flag_SE] | ![][flag_RU] Russia | **12:30 UTC** | 14:30 UTC+02 | 16:30 UTC+04 | ³ |
 | Sweden ![][flag_SE] | ![][flag_CN] China | **12:30 UTC** | 14:30 UTC+02 | 20:30 UTC+08 | ³ |
 | Taiwan ![][flag_TW] | ![][flag_BR] Brazil | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 | ¹ |
-| United States ![][flag_US] | ![][flag_XX] Countryless | **15:30 UTC** | 09:30 UTC-06 | 15:30 UTC+00 | ¹ |
+| United States ![][flag_US] | ![][flag_XX] Countryless | **13:00 UTC** | 07:00 UTC-06 | 13:00 UTC+00 | ¹ |
 | Germany ![][flag_DE] | ![][flag_FR] France | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 | ³ |
 | United Kingdom ![][flag_GB] | ![][flag_FR] France | **17:00 UTC** | 18:00 UTC+01 | 19:00 UTC+02 | ³ |
 
@@ -225,7 +225,7 @@ This schedule is likely to change as a result of reschedules. Check the [spreads
 
 ### Quarterfinals
 
-The stats of the Quarterfinals can be found [here]("https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1091288063" "Google spreadsheet").
+The stats of the Quarterfinals can be found on the [spreadsheet]("https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1091288063" "Google spreadsheet").
 
 Saturday, 17 April 2021:
 
@@ -247,7 +247,7 @@ Sunday, 18 April 2021:
 
 ### Round of 16
 
-The stats of the Round of 16 can be found [here]("https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit?rm=minimal#gid=676071053" "Google spreadsheet").
+The stats of the Round of 16 can be found on the [spreadsheet]("https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit?rm=minimal#gid=676071053" "Google spreadsheet").
 
 Saturday, 10 April 2021:
 
