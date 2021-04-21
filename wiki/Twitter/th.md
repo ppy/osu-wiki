@@ -6,8 +6,8 @@ osu! มีบัญชีทวิตเตอร์หลายบัญชี
 
 | รูปโปรไฟล์ | ชื่อ | คำบรรยาย |
 | :-: | :-: | :-- |
-| ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | แหล่งข่าวและประกาศอย่างเป็นทางการของ osu! ทวีตน้อยแต่มีคุณภาพ |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | ใช้เพื่อบอกปัญหาของเกมและปัญหาของ bancho |
-| ![Dean Herbert avatar](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | ไม่ได้เกี่ยวกับ osu! ทั้งหมดแต่เราใส่ไว้เผื่อคนที่สนใจ แต่ชีวิตของ ppy ส่วนใหญ่ก็เป็น osu! นี่แหละ |
-| ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | ช่วยเหลือเรื่องปัญหาเกี่ยวกับบัญชีหรือชุมชน |
-| ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | มุกตลกคลายเครียดเมื่อมีอะไรผิดพลาดไป |
+| ![รูปโปรไฟล์ osu!](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | แหล่งข่าวและประกาศอย่างเป็นทางการของ osu! ทวีตน้อยแต่มีคุณภาพ |
+| ![รูปโปรไฟล์ osu!status](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | ใช้เพื่อบอกปัญหาของเกมและปัญหาของ bancho |
+| ![รูปโปรไฟล์ Dean Herbert](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | ไม่ได้เกี่ยวกับ osu! ทั้งหมดแต่เราใส่ไว้เผื่อคนที่สนใจ แต่ชีวิตของ ppy ส่วนใหญ่ก็เป็น osu! นี่แหละ |
+| ![รูปโปรไฟล์ osu! support](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | ช่วยเหลือเรื่องปัญหาเกี่ยวกับบัญชีหรือชุมชน |
+| ![รูปโปรไฟล์ BanchoBoat](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | มุกตลกคลายเครียดเมื่อมีอะไรผิดพลาดไป |
