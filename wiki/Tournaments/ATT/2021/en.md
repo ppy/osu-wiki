@@ -127,7 +127,7 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 #### Tournament structure
 
-1. Seeding is based off of the player's rankings; there will be four seed categories and every player will fit into one of these depending on their total Taiko pp compared to the rest of the players. Groups for the Group Stage will be groups of four, where each player is from a different seed category. (This may change depending on the number of participants.)
+1. Seeding is based off of the player's rankings; there will be four seed categories and every player will fit into one of these depending on their total osu!taiko pp compared to the rest of the players. Groups for the Group Stage will be groups of four, where each player is from a different seed category. (This may change depending on the number of participants.)
 2. 5 points to win the match in the Group Stage.
 3. 6 points to win the match in the Round of 16 and Quarterfinals.
 4. 7 points to win the match in Semifinals and Finals.
