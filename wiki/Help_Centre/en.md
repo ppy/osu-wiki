@@ -187,15 +187,15 @@ If you currently have more than one account, please contact [accounts@ppy.sh](ma
 
 We are considering extra 'score reset' purchases from the osu!store for the truly hardcore players who wish nothing but perfection in their stats, but as it currently stands, we cannot wipe an account's statistics for you.
 
-This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is against the rules, and we will disable any such accounts that are brought to our attention.
+This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is against the [rules](/wiki/Rules#community-rules), and we will disable any such accounts that are brought to our attention.
 
 #### Can i delete my account?
 
 *For more information on account deletion, see: [your rights and controls](https://osu.ppy.sh/legal/Privacy#your-rights-and-control).*
 
-*Caution: Account deletion is permanent and therefore cannot be undone!*
+*Caution: Account deletion is permanent, and therefore cannot be undone!*
 
-Any user can request for their account to be deleted by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh). Keep in mind that deleting your account **does not** mean you can create a new account, as that is against the [community rules](/wiki/Rules#community-rules).
+Yes, any user can request for their account to be deleted by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh). Keep in mind that deleting your account is **final**, meaning that it cannot be reversed or undone. Deleting your account does not mean you can create a new account, as having multiple accounts is against the [rules](/wiki/Rules#community-rules). This means you will no longer be able to use any of osu!'s online features.
 
 #### Can I play on a computer that another osu! user has used before?
 
