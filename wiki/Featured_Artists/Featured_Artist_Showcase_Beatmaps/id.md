@@ -1,6 +1,6 @@
 # Kumpulan beatmap showcase Featured Artist
 
-Anggota dari [Mappers' Guild](/wiki/Mappers_Guild) kadan-kadang membuat "beatmap showcase" eksklusif dengan menggunakan lagu yang belum dirilis dan materi lain dari osu! [featured artist](/wiki/Featured_Artists). Ketika sebuah featured artist diumumkan secara publik, beatmap-beatmap yang tertera di sini dicantumkan ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali dipromosikan di [Twitter @osugame](https://twitter.com/osugame).
+Anggota dari [Mappers' Guild](/wiki/Mappers_Guild) kadan-kadang membuat "beatmap showcase" eksklusif dengan menggunakan lagu yang belum dirilis dan materi lain dari [featured artist](/wiki/Featured_Artists) osu!. Ketika sebuah featured artist diumumkan secara publik, beatmap-beatmap yang tertera di sini akan dicantumkan ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali dipromosikan di [Twitter @osugame](https://twitter.com/osugame).
 
 Untuk ikut berpartisipasi ke dalam beatmap showcase featured artist, seorang anggota dari Mappers' Guild wajib menerima [sebuah quest misteri dengan waktu terbatas](/wiki/Mappers_Guild#quests) atau memperoleh langsung undangan untuk membuat beatmap setelah mendapatkan tier 1 (atau lebih tinggi) dalam [rank Guild](/wiki/Mappers_Guild#rewards).
 
@@ -333,7 +333,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 
 Bahkan sejak awal, Mappers' Guild telah diatur sejalan dengan "membuat paket beatmap promosional untuk featured artist yang akan datang" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> sebagai salah satu tujuan utamanya; Faktanya, enam beatmap yang dibuat untuk [Pengumuman MOtOLOiD sebagai featured artist](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) juga merupakan kreasi pertama dari Guild.
 
-Karena awalnya guild beroperasi berbasis aplikasi entri tertutup, akses ke konten featured artist yang akan datang sering kali dibatasi hanya untuk segelintir pembuat beatmap mode permainan [osu!](/wiki/Game_mode/osu!); Bagaimanapun juga, pada saat [peralihan ke sistem entri terbuka dan otomatis pada awal 2019](/wiki/Mapping_and_Modding_Timeline#march.5), guild secara bertahap mengizinkan semakin banyak kreator untuk berpartisipasi dalam pembuatan beatmap showcase untuk featured artist ke depannya dari waktu ke waktu terlepas dari mode permainan mereka.
+Karena pada awalnya Guild beroperasi berbasis aplikasi entri tertutup, akses ke konten featured artist yang akan datang sering kali dibatasi hanya untuk segelintir pembuat beatmap mode permainan [osu!](/wiki/Game_mode/osu!); Bagaimanapun juga, pada saat [peralihan ke sistem entri terbuka dan otomatis pada awal 2019](/wiki/Mapping_and_Modding_Timeline#march.5), Guild secara bertahap mengizinkan semakin banyak kreator untuk berpartisipasi dalam pembuatan beatmap showcase untuk featured artist ke depannya dari waktu ke waktu terlepas dari mode permainan mereka.
 
 Dimulai dari [Pengumuman MYUKKE. sebagai featured artist](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) pada Desember 2020 dan seterusnya, kiriman pengumuman featured artist baru kadang-kadang menampilkan pratinjau video singkat, seringkali dengan beatmap showcase ini bertindak sebagai tajuk utama mereka.
 
