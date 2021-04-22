@@ -271,7 +271,7 @@ Sunday, 11 April 2021:
 
 ### Tournament rules
 
-1. The 3 Digit World cup is a world cup style tournament aimed for players in the 3 digit rank range (#100-#999) of osu!standard without the enforcement of a Badge Weighting System (BWS).
+1. The 3 Digit World cup is a world cup style tournament aimed for players in the 3 digit rank range (#100-#999) of osu! without the enforcement of a Badge Weighting System (BWS).
 2. Team size is 4-6 players, and matches are played in a 3v3 format.
 3. Beatmap scoring is based on ScoreV2.
 4. After signups close, players that did not get a minimum roster for their country will be able to form a "Countryless team", with a maximum of one player per country. 

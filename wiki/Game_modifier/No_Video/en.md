@@ -20,7 +20,7 @@ tags:
 
 - Abbreviation: NV
 - Type: Special
-- Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
@@ -30,7 +30,7 @@ The **No Video** mod was a [game modifier](/wiki/Game_modifier) that enabled pla
 
 The mod's functionality was replaced with an option in [Visual Settings](/wiki/Visual_Settings), and thus the icon and its mod are no longer being used.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

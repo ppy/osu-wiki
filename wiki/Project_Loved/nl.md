@@ -31,7 +31,7 @@ Er zijn een paar criteria waaraan moet worden voldaan om beatmaps te kunnen nomi
 - De maker van de beatmap akkoord gaat met de Loved-nominering
 - De account van de maker niet gebanned of beperkt is
 - Minstens één moeilijkheidgraad uitgespeeld (passed) kan worden
-- De beatmap minstens 30 favorieten heeft (enkel van toepassing op osu!standard maps)
+- De beatmap minstens 30 favorieten heeft (enkel van toepassing op osu! maps)
 
 Ondanks dat bijna alle beatmaps [In Afwachting (Pending) en In Uitvoering (WIP)](/wiki/Beatmap/Category#work-in-progress-and-pending) aan deze criteria voldoen, worden er toch weinig van hen tot in de Loved-categorie gestemd omdat de nominatie- en stemmingsverseisten vrij selectief zijn.
 

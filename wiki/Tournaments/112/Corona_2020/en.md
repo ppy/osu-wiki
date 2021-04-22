@@ -351,7 +351,7 @@ Monday, 27 April 2020:
 
 ### Tournament rules
 
-1. 112's Corona Tournament is an osu!standard tournament only allowed for Turkish-speaking players regardless of their profile flags.
+1. 112's Corona Tournament is an osu! tournament only allowed for Turkish-speaking players regardless of their profile flags.
 2. The tournament uses a qualifier into a double elimination bracket.
 3. The format of the tournament is planned as **2-player team versus** setup.
 4. Beatmap scoring is based on Score V2.
