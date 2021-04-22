@@ -49,13 +49,21 @@ Implementation of the username change system in the osu!store was set live on 16
 
 The ability to see what a replay would look like without [mods](/wiki/Game_modifier) was added on 23 June 2015 as per a [feature request](https://osu.ppy.sh/community/forums/topics/97560), although the change only made the mods [Double Time](/wiki/Game_modifier/Double_Time), [Half Time](/wiki/Game_modifier/Half_Time), and [Flashlight](/wiki/Game_modifier/Flashlight) toggle-able [[20]][r].
 
+## July
+
+On 15 July 2015, it was announced that a new public [Slack](https://slack.com/ "Slack") team was created for the purpose of better communicating with public contributors. [peppy](https://osu.ppy.sh/users/2) initially made the announcement on his blog and had explained that anyone who was willing to help test cutting-edge features, contribute graphical/sound resources, or get help working with osu! services could come and join the team and talk to the osu! team directly [[21]][r].
+
+*Note: There was still a private Slack team that the osu! team used for internal communications, which was not accessible or viewable to outside users; these two teams were independent of each other.*
+
+Notwithstanding, the new team was completely public and available for anyone to join, which caused many unwanted users to flood the channels. This forced peppy into "locking down" the new team the very next day. Despite this, peppy continued to make use of the team throughout the rest of the year, and often invited users to come and join when they were testing new features or implementations [[22,23]][r].
+
 ## August
 
-The Chat Moderators were officially merged into the Global Moderation Team (GMT) on 20 August 2015 [[21,22]][r].
+The Chat Moderators were officially merged into the Global Moderation Team (GMT) on 20 August 2015 [[24,25]][r].
 
 ## September
 
-The old FPS counter was replaced with a new "refresh and latency display" on 2 September 2015. This new display would still display the current FPS (frames per second), but the new change caused it to hide from view if it exceeded 500 FPS. In addition, a new counter was added below the FPS counter that would display exactly how much latency was being introduced during frame rendering (measured in milliseconds). "Stuttered" or "dropped" frames would be shown as coloured rectangles to the left of the counter to better visualise exactly how much frame render latency a user was experiencing [[23,24]][r].
+The old FPS counter was replaced with a new "refresh and latency display" on 2 September 2015. This new display would still display the current FPS (frames per second), but the new change caused it to hide from view if it exceeded 500 FPS. In addition, a new counter was added below the FPS counter that would display exactly how much latency was being introduced during frame rendering (measured in milliseconds). "Stuttered" or "dropped" frames would be shown as coloured rectangles to the left of the counter to better visualise exactly how much frame render latency a user was experiencing [[26,27]][r].
 
 On 26 September 2015, [cYsmix](http://cysmix.com/ "cysmix.com") became one of the first official osu! artists. This partnership entailed the creation of four tracks made specifically for osu!, along with the creation of a mapping contest using those tracks. The aforementioned four tracks were as follows:
 
@@ -67,7 +75,7 @@ On 26 September 2015, [cYsmix](http://cysmix.com/ "cysmix.com") became one of th
 
 Each track had its own pre-timed [`.osz`](/wiki/osu!_File_Formats/Osz_(file_format)) file included with it and were released on [cYsmix's SoundCloud](https://soundcloud.com/olemlanglie "SoundCloud") on 28 September 2015.
 
-In addition to this, an "open bounty" named "Mapping With Rewards" was created for this event, that allowed anyone to map one of the aforementioned tracks, get it into a rankable state, and if it was impressive enough, that person would receive a bounty for it. The bounty reward offered at the time was as follows: one song bundled with client (for a limited period of time), $50 osu!store credit, 6 months supporter tag, and a unique profile badge. This open bounty was reportedly created due to a want to reward players for quality beatmaps and to celebrate the new tracks but without having to go through the hassle that comes with running traditional mapping contests [[23]][r].
+In addition to this, an "open bounty" named "Mapping With Rewards" was created for this event, that allowed anyone to map one of the aforementioned tracks, get it into a rankable state, and if it was impressive enough, that person would receive a bounty for it. The bounty reward offered at the time was as follows: one song bundled with client (for a limited period of time), $50 osu!store credit, 6 months supporter tag, and a unique profile badge. This open bounty was reportedly created due to a want to reward players for quality beatmaps and to celebrate the new tracks but without having to go through the hassle that comes with running traditional mapping contests [[26]][r].
 
 Despite [promises from peppy on his blog](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015 "ppy blog"), however, the results for Mapping With Rewards were not posted by the end of the year.
 
@@ -75,31 +83,31 @@ Despite [promises from peppy on his blog](https://blog.ppy.sh/post/132009865043/
 
 ## October
 
-After many months of work, a full migration from [DirectX](https://en.wikipedia.org/wiki/DirectX "Wikipedia") to [OpenGL](https://en.wikipedia.org/wiki/OpenGL "Wikipedia") graphics rendering was completed and pushed out to all users on the Stable release stream on 16 October 2015; however, users who were not able to run the new update due to compatibility issues were switched to a new release stream named "Stable (Fallback)", which used the old DirectX graphics rendering and was meant to be continuously supported alongside the Stable release until the team felt confident enough in the compatibility of the OpenGL rendering for all users [[25,26,27,28,29]][r]. <!--not sure if we should elaborate on this more or not (delete before merge)-->
+After many months of work, a full migration from [DirectX](https://en.wikipedia.org/wiki/DirectX "Wikipedia") to [OpenGL](https://en.wikipedia.org/wiki/OpenGL "Wikipedia") graphics rendering was completed and pushed out to all users on the Stable release stream on 16 October 2015; however, users who were not able to run the new update due to compatibility issues were switched to a new release stream named "Stable (Fallback)", which used the old DirectX graphics rendering and was meant to be continuously supported alongside the Stable release until the team felt confident enough in the compatibility of the OpenGL rendering for all users [[28,29,30,31,32]][r]. <!--not sure if we should elaborate on this more or not (delete before merge)-->
 
-Another batch of official osu! songs were released by cYsmix on 27 October 2015, with a similar "open-bounty–style" contest being opened for it as well. The three songs were ["Fright March"](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu "SoundCloud"), ["Moonlight Sonata"](https://soundcloud.com/olemlanglie/cysmix-moonlight-sonata-osu "SoundCloud"), and ["Classic Pursuit"](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu "SoundCloud") [[30,31]][r].
+Another batch of official osu! songs were released by cYsmix on 27 October 2015, with a similar "open-bounty–style" contest being opened for it as well. The three songs were ["Fright March"](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu "SoundCloud"), ["Moonlight Sonata"](https://soundcloud.com/olemlanglie/cysmix-moonlight-sonata-osu "SoundCloud"), and ["Classic Pursuit"](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu "SoundCloud") [[33,34]][r].
 
 ![](img/cysmix-album-cover-2.jpg "The album cover for cYsmix's second release of official osu! songs")
 
 Just like the [previous month's Mapping with Rewards contest](#september), the results were not posted before the end of the year.
 
-The URL for the testing subdomain of the new osu! forums (jizz.ppy.sh) was replaced with new.ppy.sh on 26 October 2015 due to the sexual connotations that the word "jizz" in the old URL may have implied [[31,32]][r].
+The URL for the testing subdomain of the new osu! forums (jizz.ppy.sh) was replaced with new.ppy.sh on 26 October 2015 due to the sexual connotations that the word "jizz" in the old URL may have implied [[34,35]][r].
 
-The first and only batch of portable osu! install USB sticks (shown below) were first announced on 30 October 2015 on [peppy's blog](https://blog.ppy.sh/ "ppy blog"), showcasing the first images of their completely metal body design. At the time of announcement, they were slated for a December 2015 release [[31,34]][r]. <!--everything about this line is practically a guess; needs heavy scrutiny (delete before merge)-->
+The first and only batch of portable osu! install USB sticks (shown below) were first announced on 30 October 2015 on [peppy's blog](https://blog.ppy.sh/ "ppy blog"), showcasing the first images of their completely metal body design. At the time of announcement, they were slated for a December 2015 release [[34,36]][r]. <!--everything about this line is practically a guess; needs heavy scrutiny (delete before merge)-->
 
 ![](img/osu-usb-stick.jpg "Front and back side of an osu! USB stick")
 
 ## November
 
-[OWC](/wiki/Tournaments#-osu!-world-cup) profile banners were added to the osu!store on 7–8 November 2015 [[34,35]][r].
+[OWC](/wiki/Tournaments#-osu!-world-cup) profile banners were added to the osu!store on 7–8 November 2015 [[37,38]][r].
 
-Required email verification for certain account actions began rolling out on 16 November 2015 in response to recent events at the time involving the compromisation of numerous osu! streamers' accounts [[36,37,38]][r]. The following day, [peppy posted to his blog](https://blog.ppy.sh/post/133395614668/20151117 "ppy blog"), where he initially announced the change in account security:
+Required email verification for certain account actions began rolling out on 16 November 2015 in response to recent events at the time involving the compromisation of numerous osu! streamers' accounts [[39,40,41]][r]. The following day, [peppy posted to his blog](https://blog.ppy.sh/post/133395614668/20151117 "ppy blog"), where he initially announced the change in account security:
 
 > It has come to my attention that over the last few days a lot of osu! livestreamers have been hacked. The common link seems to be that they all had active xsplit accounts (which was hacked in 2013, leaking all passwords). This means that the said users were using the same password across twitch, twitter, osu! and more. First and foremost, if you are doing something like this, LEAVE RIGHT NOW AND CHANGE YOUR PASSWORDS. Get a password manager and set one password per service!
 >
 > Even though I am confident that osu! was not involved in the leaking of any details, I am making sure further such attempts will not result in osu! accounts being compromised. Starting yesterday I began rolling out email verification for certain account actions. Going forward, we will also be adding email verification to the game client, but this will require a touch more implementation. Expect it in the near future.
 
-— peppy, "20151117" [[36]][r]
+— peppy, "20151117" [[39]][r]
 
 A few days later (19 November 2015), peppy updated users on the situation in [another blog post](https://blog.ppy.sh/post/133524244723/20151119 "ppy blog"), in which he elaborated on the situation and kept his stance the same:
 
@@ -119,7 +127,7 @@ A few days later (19 November 2015), peppy updated users on the situation in [an
 >
 > We have a lot of accounts to forcefully reset due to weak passwords, and due to limited support staff, will be staggering the “rollout” of these resets over the coming weeks.
 
-— peppy, "20151119" [[37]][r]
+— peppy, "20151119" [[40]][r]
 
 <!--needs information regarding public opinion towards this change; section should aim to be as unbiased and neutral as possible-->
 
@@ -152,23 +160,26 @@ https://haveibeenpwned.com/PwnedWebsites#XSplit -->
 18. [ppy blog - "20150617"](https://blog.ppy.sh/post/121762218848/20150617 "ppy blog")
 19. [ppy blog - "20150618"](https://blog.ppy.sh/post/121862035218/20150618 "ppy blog")
 20. [ppy blog - "20150623"](https://blog.ppy.sh/post/122272830393/20150623 "ppy blog")
-21. [osu! newspost [Tasha] (22 August 2015) - "osu!weekly #24"](https://osu.ppy.sh/home/news/2015-08-22-osuweekly-24)
-22. [osu! forum comment (Development) [IamKwaN] - "Staff Promotion/Retirement Log"](https://osu.ppy.sh/community/forums/topics/179514?start=4435972)
-23. [ppy blog - "Mapping with Rewards (Sep. 2015)"](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015 "ppy blog")
-24. [osu! newspost [Tasha] (29 September 2015) - "osu!weekly #29"](https://osu.ppy.sh/home/news/2015-09-29-osuweekly-29)
-25. [ppy blog - "20150611 /Team94/"](https://blog.ppy.sh/post/121209041498/20150611-team94 "ppy blog")
-26. [ppy blog - "20150731"](https://blog.ppy.sh/post/125505179343/20150731 "ppy blog")
-27. [ppy blog - "20150812"](https://blog.ppy.sh/post/126507986673/20150812 "ppy blog")
-28. [ppy blog - "20150904"](https://blog.ppy.sh/post/128331961733/20150904 "ppy blog")
-29. [ppy blog - "20151016"](https://blog.ppy.sh/post/131290077973/20151016 "ppy blog")
-30. [ppy blog - "Mapping with Rewards (Oct. 2015)"](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015 "ppy blog")
-31. [osu! newspost [deadbeat] (2 November 2105) - "osu!weekly #34"](https://osu.ppy.sh/home/news/2015-11-02-osuweekly-34)
-32. [osu! forum comment (Development) [peppy] - "What is your opinion on the new forum design?"](https://osu.ppy.sh/community/forums/topics/376031?start=4619563)
-33. [ppy blog - "20151030"](https://blog.ppy.sh/post/132211570533/20151030 "ppy blog")
-34. [ppy blog - "20151112"](https://blog.ppy.sh/post/133060402138/20151112 "ppy blog")
-35. [osu! newspost [Tari] (16 November 2015) - "osu!weekly #35"](https://osu.ppy.sh/home/news/2015-11-16-osuweekly-35)
-36. [ppy blog - "20151117"](https://blog.ppy.sh/post/133395614668/20151117 "ppy blog")
-37. [ppy blog - "20151119"](https://blog.ppy.sh/post/133524244723/20151119 "ppy blog")
-38. [osu! newspost [Tari] (23 November 2015) - "osu!weekly #36"](https://osu.ppy.sh/home/news/2015-11-23-osuweekly-36)
+21. [ppy blog - '20150715 /Slack/"](https://blog.ppy.sh/post/124145059058/20150715-slack "ppy blog")
+22. [ppy blog - "20150716"](https://blog.ppy.sh/post/124270196183/20150716 "ppy blog")
+23. [ppy blog - "20150720"](https://blog.ppy.sh/post/124591178658/20150720 "ppy blog")
+24. [osu! newspost [Tasha] (22 August 2015) - "osu!weekly #24"](https://osu.ppy.sh/home/news/2015-08-22-osuweekly-24)
+25. [osu! forum comment (Development) [IamKwaN] - "Staff Promotion/Retirement Log"](https://osu.ppy.sh/community/forums/topics/179514?start=4435972)
+26. [ppy blog - "Mapping with Rewards (Sep. 2015)"](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015 "ppy blog")
+27. [osu! newspost [Tasha] (29 September 2015) - "osu!weekly #29"](https://osu.ppy.sh/home/news/2015-09-29-osuweekly-29)
+28. [ppy blog - "20150611 /Team94/"](https://blog.ppy.sh/post/121209041498/20150611-team94 "ppy blog")
+29. [ppy blog - "20150731"](https://blog.ppy.sh/post/125505179343/20150731 "ppy blog")
+30. [ppy blog - "20150812"](https://blog.ppy.sh/post/126507986673/20150812 "ppy blog")
+31. [ppy blog - "20150904"](https://blog.ppy.sh/post/128331961733/20150904 "ppy blog")
+32. [ppy blog - "20151016"](https://blog.ppy.sh/post/131290077973/20151016 "ppy blog")
+33. [ppy blog - "Mapping with Rewards (Oct. 2015)"](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015 "ppy blog")
+34. [osu! newspost [deadbeat] (2 November 2105) - "osu!weekly #34"](https://osu.ppy.sh/home/news/2015-11-02-osuweekly-34)
+35. [osu! forum comment (Development) [peppy] - "What is your opinion on the new forum design?"](https://osu.ppy.sh/community/forums/topics/376031?start=4619563)
+36. [ppy blog - "20151030"](https://blog.ppy.sh/post/132211570533/20151030 "ppy blog")
+37. [ppy blog - "20151112"](https://blog.ppy.sh/post/133060402138/20151112 "ppy blog")
+38. [osu! newspost [Tari] (16 November 2015) - "osu!weekly #35"](https://osu.ppy.sh/home/news/2015-11-16-osuweekly-35)
+39. [ppy blog - "20151117"](https://blog.ppy.sh/post/133395614668/20151117 "ppy blog")
+40. [ppy blog - "20151119"](https://blog.ppy.sh/post/133524244723/20151119 "ppy blog")
+41. [osu! newspost [Tari] (23 November 2015) - "osu!weekly #36"](https://osu.ppy.sh/home/news/2015-11-23-osuweekly-36)
 
 [r]: #references
