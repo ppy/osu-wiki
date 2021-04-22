@@ -63,7 +63,7 @@ The 112's Corona Tournament was run by various community members.
 | Bakamitai | ![][flag_TR] [JustBurak](https://osu.ppy.sh/users/4939723), ![][flag_LT] [mamakatas](https://osu.ppy.sh/users/7011187) | 
 | bucocukamerikalı | ![][flag_TR] [Cynesta](https://osu.ppy.sh/users/8674027), ![][flag_TR] [huckmen444](https://osu.ppy.sh/users/5019334) |
 | busu | ![][flag_TR] [MFaik](https://osu.ppy.sh/users/11199222), ![][flag_TR] [Berkk](https://osu.ppy.sh/users/16298931) |
-| deneme | ![][flag_TR] [nitromehmet](https://osu.ppy.sh/users/9909537), ![][flag_TR] [Eren EKEBAS](https://osu.ppy.sh/users/11604012) | 
+| deneme | ![][flag_TR] [nitromehmet](https://osu.ppy.sh/users/9909537), ![][flag_TR] [haygiya](https://osu.ppy.sh/users/11604012) | 
 | Easy Bots | ![][flag_TR] [MouseControlV2](https://osu.ppy.sh/users/10307622), ![][flag_TR] [kanna\_kamuisan](https://osu.ppy.sh/users/14728608) |
 | EkmekKırıntısı | ![][flag_TR] [velihan33](https://osu.ppy.sh/users/14181899), ![][flag_US] [Avora](https://osu.ppy.sh/users/8986927) | 
 | Gaz Treni | ![][flag_TR] [Lxran](https://osu.ppy.sh/users/3651081), ![][flag_TR] [SnowLyRain](https://osu.ppy.sh/users/12489717) | 
