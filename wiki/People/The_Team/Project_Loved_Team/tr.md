@@ -114,7 +114,6 @@ Metaveri denetçileri oylamaya sunulacak her bir mapi kontrol eder, ve mapperlar
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
 
-
 ## Ek bilgiler
 
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) orijinal kaptanlar takımını Eylül 2017'de, daha sonra Project Loved ismini alacak olan [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) sistemiyle birlikte oluşturdu. 2019'un sonlarına dek, tüm projeyi gözlemledi ve yönetti.
