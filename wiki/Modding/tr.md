@@ -1,10 +1,6 @@
----
-no_native_review: true
-outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
----
-
 # Modlama
+
+*Diğer kullanımlar için, bakınız: [Mod (anlam ayrımı)](/wiki/Disambiguation/Mod).*
 
 Bir başkasının [beatmapine](/wiki/Beatmap) geri bildirim sağlama eylemine **modlama** denir. Modlama işlemini yapan bir kullanıcı *modlayıcı*, ve onların beatmapin tartışma kısmındaki toplu gönderileri ise *mod* olarak adlandırılır.
 

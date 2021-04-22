@@ -34,7 +34,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | 17 | ![][flag_FR] France |  |  | 2 |
 | 18 | ![][flag_SE] Sweden |  |  | 1 |
 
-### ![][o!s] osu! ranking
+### ![][osu!] osu! ranking
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -50,7 +50,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | 9 | ![][flag_BR] Brazil |  |  | 1 |
 | 9 | ![][flag_CA] Canada |  |  | 1 |
 
-### ![][o!t] osu!taiko ranking
+### ![][osu!taiko] osu!taiko ranking
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -62,7 +62,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | 5 | ![][flag_CN] China |  |  | 1 |
 | 5 | ![][flag_GB] United Kingdom |  |  | 1 |
 
-### ![][o!c] osu!catch ranking
+### ![][osu!catch] osu!catch ranking
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -75,7 +75,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | 6 | ![][flag_TW] Taiwan |  | 1 |  |
 | 7 | ![][flag_SE] Sweden |  |  | 1 |
 
-### ![][o!m] osu!mania ranking
+### ![][osu!mania] osu!mania ranking
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -92,7 +92,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ## Attendance
 
-### ![][o!s] osu! World Cup
+### ![][osu!] osu! World Cup
 
 | Country | 1 | 2 | 3 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -152,7 +152,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | ![][flag_VN] Vietnam | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | **Total** | 28 | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 43 | 48 |
 
-### ![][o!t] osu!taiko World Cup
+### ![][osu!taiko] osu!taiko World Cup
 
 | Country | 2011 | 2012 | 3 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -198,7 +198,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | ![][flag_VE] Venezuela | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] |
 | **Total** | 13 | 17 | 21 | 20 | 24 | 24 | 24 | 24 | 32 | 32 |
 
-### ![][o!c] osu!catch World Cup
+### ![][osu!catch] osu!catch World Cup
 
 | Country | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -250,7 +250,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | ![][flag_VN] Vietnam | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
 | **Total** | 23 | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 |
 
-### ![][o!m] osu!mania World Cup
+### ![][osu!mania] osu!mania World Cup
 
 | Country | 2014 4K | 2014 7K | 2015 4K | 2016 7K | 2016 4K | 2017 7K | 2017 4K | 2018 7K | 2018 4K | 2019 7K | 2019 4K | 2020 4K |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -296,10 +296,10 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | ![][flag_VN] Vietnam | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | **Total** | 20 | 20 | 32 | 20 | 32 | 16 | 32 | 24 | 32 | 24 | 32 | 32 |
 
-[o!s]: /wiki/shared/mode/osu.png "osu!"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
 
 [GCrown]: /wiki/shared/crown-gold.png "1st place"
 [SCrown]: /wiki/shared/crown-silver.png "2nd place"

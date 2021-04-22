@@ -8,11 +8,11 @@ De nauwkeurigheid is een meting van de consistentie van een speler. Er zijn drie
 
 ## Spelmodi
 
-### ![](/wiki/shared/mode/osu.png) osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!
 
-![Nauwkeurigheid = (50 \* aantal 50s + 100 \* aantal 100s + 300 \* aantal 300s) / 300(aantal 0s + aantal 50s + aantal 100s + aantal 300s)](img/accuracy_standard.png "Nauwkeurigheidsformule voor osu!standard")
+![Nauwkeurigheid = (50 \* aantal 50s + 100 \* aantal 100s + 300 \* aantal 300s) / 300(aantal 0s + aantal 50s + aantal 100s + aantal 300s)](img/accuracy_osu.png "Nauwkeurigheidsformule voor osu!")
 
-In osu!standard wordt nauwkeurigheid berekend door de beoordeling van elk hitobject te wegen en dan te delen door de hoogst mogelijke waarde die behaald kan worden voor dat object.
+In osu! wordt nauwkeurigheid berekend door de beoordeling van elk hitobject te wegen en dan te delen door de hoogst mogelijke waarde die behaald kan worden voor dat object.
 
 Referentie voor één hitcirkel:
 
@@ -41,7 +41,7 @@ In osu!catch wordt nauwkeurigheid berekend door de totale score van de niet-spin
 
 ![Nauwkeurigheid = (50 \* aantal 50s + 100 \* aantal 100s + 200 \* aantal 200s + 300 \* aantal 300s + 300 \* aantal MAXs) / 300(aantal 0s + aantal 50s + aantal 100s + aantal 200s + aantal 300s + aantal MAXs)](img/accuracy_mania.png "Nauwkeurigheidsformule voor osu!mania")
 
-Nauwkeurigheid in osu!mania wordt op dezelfde manier berekend als in [osu!standard](#-osu!standard).
+Nauwkeurigheid in osu!mania wordt op dezelfde manier berekend als in [osu!](#-osu!).
 
 ## Prestatiegrafiek
 
@@ -67,7 +67,7 @@ Unstable rate staat voor de consistentie van de timing van de hits, waar lagere 
 
 ### Spin
 
-*Opmerking: spin wordt enkel in [osu!standard](/wiki/Game_mode/osu!) gebruikt.*
+*Opmerking: spin wordt enkel in [osu!](/wiki/Game_mode/osu!) gebruikt.*
 
 Naast nauwkeurigheid is er ook informatie over spinners te vinden in dezelfde tooltip.
 

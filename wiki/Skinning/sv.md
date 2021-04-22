@@ -21,7 +21,7 @@ Skinning är en av de viktigaste funktionerna i osu!. Det gör det möjligt för
 Listan över skinelement är uppdelad i följande kategorier:
 
 - [Skinna Gränssnitt](/wiki/Skinning/Interface)
-- [Skinna osu!standard](/wiki/Skinning/osu!)
+- [Skinna osu!](/wiki/Skinning/osu!)
 - [Skinna osu!taiko](/wiki/Skinning/osu!taiko)
 - [Skinna osu!catch](/wiki/Skinning/osu!catch)
 - [Skinna osu!mania](/wiki/Skinning/osu!mania)

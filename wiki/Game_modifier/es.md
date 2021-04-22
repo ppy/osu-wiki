@@ -25,48 +25,48 @@ En la pantalla de selección, los mods se separan en tres categorías: `Reducci�
 
 *Ver también: [Resumen (Modificador de Juego)](/wiki/Game_modifier/Summary)*
 
-Cada uno de los mods que aparecen a continuación tendrá su icono de modos de juego compatibles (![][o!s] ![][o!t] ![][o!c] ![][o!m]) junto a él.
+Cada uno de los mods que aparecen a continuación tendrá su icono de modos de juego compatibles (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) junto a él.
 
 ### Reducción de la dificultad
 
-- [Easy (EZ)](/wiki/Game_modifier/Easy) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [No Fail (NF)](/wiki/Game_modifier/No_Fail) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [Half Time (HT)](/wiki/Game_modifier/Half_Time) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Easy (EZ)](/wiki/Game_modifier/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [No Fail (NF)](/wiki/Game_modifier/No_Fail) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Half Time (HT)](/wiki/Game_modifier/Half_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ### Aumento de la dificultad
 
-- [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [Perfect (PF)](/wiki/Game_modifier/Perfect) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [Double Time (DT)](/wiki/Game_modifier/Double_Time) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [Nightcore (NC)](/wiki/Game_modifier/Nightcore) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [Hidden (HD)](/wiki/Game_modifier/Hidden) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [Fade In (FI)](/wiki/Game_modifier/Fade_In) ![][o!m]
-- [Flashlight (FL)](/wiki/Game_modifier/Flashlight) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [Perfect (PF)](/wiki/Game_modifier/Perfect) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Double Time (DT)](/wiki/Game_modifier/Double_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [Nightcore (NC)](/wiki/Game_modifier/Nightcore) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Hidden (HD)](/wiki/Game_modifier/Hidden) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [Fade In (FI)](/wiki/Game_modifier/Fade_In) ![][osu!mania]
+- [Flashlight (FL)](/wiki/Game_modifier/Flashlight) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ### Especial
 
-- [Relax (RL)](/wiki/Game_modifier/Relax) ![][o!s] ![][o!t] ![][o!c]
-- [Autopilot (AP)](/wiki/Game_modifier/Autopilot) ![][o!s]
-- [Spun Out (SO)](/wiki/Game_modifier/Spun_Out) ![][o!s]
-- [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K (xK)](/wiki/Game_modifier/xK) ![][o!m]
-- [Co-op (CP)](/wiki/Game_modifier/Co-op) ![][o!m]
-- [Mirror (MR)](/wiki/Game_modifier/Mirror) ![][o!m]
-- [Random (RD)](/wiki/Game_modifier/Random) ![][o!m]
-- [Auto (AT)](/wiki/Game_modifier/Auto) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [Cinema (CM)](/wiki/Game_modifier/Cinema) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [ScoreV2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][o!s] **Sólo en Cutting Edge**
+- [Relax (RL)](/wiki/Game_modifier/Relax) ![][osu!] ![][osu!taiko] ![][osu!catch]
+- [Autopilot (AP)](/wiki/Game_modifier/Autopilot) ![][osu!]
+- [Spun Out (SO)](/wiki/Game_modifier/Spun_Out) ![][osu!]
+- [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K (xK)](/wiki/Game_modifier/xK) ![][osu!mania]
+- [Co-op (CP)](/wiki/Game_modifier/Co-op) ![][osu!mania]
+- [Mirror (MR)](/wiki/Game_modifier/Mirror) ![][osu!mania]
+- [Random (RD)](/wiki/Game_modifier/Random) ![][osu!mania]
+- [Auto (AT)](/wiki/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [Cinema (CM)](/wiki/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [ScoreV2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Sólo en Cutting Edge**
 
 ### Otro
 
 *Nota: Estos mods fueron usados y disponibles hace algún tiempo, pero ahora no están disponibles.*
 
-- [10K](/wiki/Game_modifier/10k) ![][o!m]
-- [Fade Out](/wiki/Game_modifier/Fade_Out) ![][o!m]
-- [No Video](/wiki/Game_modifier/No_Video) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
+- [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

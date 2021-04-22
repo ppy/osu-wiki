@@ -20,7 +20,7 @@ tags:
 ## About
 
 - Type: Special
-- Compatible game modes: ![][o!m]
+- Compatible game modes: ![][osu!mania]
 
 ## Description
 
@@ -28,4 +28,4 @@ tags:
 
 The **10K** mod was a [game modifier](/wiki/Game_modifier) for [osu!mania](/wiki/Game_mode/osu!mania) that enabled the player to use 10 keys for a single playfield on all *converted* osu!mania [beatmaps](/wiki/Beatmap). It functions exactly the same as the rest of the [xK](/wiki/Game_modifier/xK) mods, and thus was not rankable.
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
