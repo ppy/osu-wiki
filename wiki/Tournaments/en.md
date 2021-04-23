@@ -321,6 +321,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | [North American Taiko Tournament 2018](NSATT/NATT_2018) | 2018-07-28 | 2018-09-01 | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
 | [North & South American Taiko Tournament 2019](NSATT/NSATT_2019) | 2019-06-22 | 2019-07-28 | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_BR] [eae](https://osu.ppy.sh/users/4050738) |
 
+### ![](/wiki/shared/mode/taiko.png) Ausu!Taiko Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Ausu!Taiko Tournament 2020](ATT/2020) | 2020-05-09 | 2020-06-07 | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| [Ausu!Taiko Tournament 2021](ATT/2021) | 2021-04-24 | 2021-05-23 | - | - | - |
+
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
