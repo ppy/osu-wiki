@@ -4,7 +4,7 @@ legal: true
 
 # Kebijakan privasi osu!
 
-Terakhir diperbarui pada 24 Agustus 2020. [Lihat riwayatnya disini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Terakhir diperbarui pada 16 April 2021. [Lihat riwayatnya disini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 Selain kebijakan ini, pastikan juga untuk mengunjungi dan memahami [Ketentuan Layanan](https://osu.ppy.sh/legal/terms) kami.
 
