@@ -198,13 +198,19 @@ Saturday, 9 May 2020:
 | AmateurMonkeyYT ![][flag_AU] | 0 | **5** | ![][flag_SG] **uchuuj1n** | [#1](https://osu.ppy.sh/community/matches/61438467) |
 | **Bobfree** ![][flag_SG] | **5** | 2 | ![][flag_PH] FiNNb | [#1](https://osu.ppy.sh/community/matches/61439748) |
 | **camx** ![][flag_AU] | **5** | 0 | ![][flag_NZ] Erkfir | [#1](https://osu.ppy.sh/community/matches/61439738) |
+| Katdon\_donKat ![][flag_ID] | -1 | **0** | ![][flag_ID] **Volta** | *forfeit* |
 | **cdhsausageboy** ![][flag_MY] | **5** | 2 | ![][flag_AU] AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/61439727) |
 | Tsubasa2 ![][flag_AU] | 4 | **5** | ![][flag_ID] **Kaemz** | [#1](https://osu.ppy.sh/community/matches/61440495) |
+| **- ease -** ![][flag_AU] | **0** | -1 | ![][flag_AU] Vezuri | *forfeit* |
 | **Volta** ![][flag_ID] | **5** | 0 | ![][flag_AU] camx | [#1](https://osu.ppy.sh/community/matches/61440887) |
+| **Kaemz** ![][flag_ID] | **0** | -1 | ![][flag_AU] Vezuri | *forfeit* |
 | **cdhsausageboy** ![][flag_MY] | **5** | 1 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/61441777) |
 | **Tsubasa2** ![][flag_AU] | **5** | 0 | ![][flag_AU] - ease - | [#1](https://osu.ppy.sh/community/matches/61441608) |
 | **Kaemz** ![][flag_ID] | **5** | 1 | ![][flag_AU] - ease - | [#1](https://osu.ppy.sh/community/matches/61442293) |
+| Katdon\_donKat ![][flag_ID] | -1 | **0** | ![][flag_AU] **camx** | *forfeit* |
+| **Tsubasa2** ![][flag_AU] | **0** | -1 | ![][flag_AU] Vezuri | *forfeit* |
 | **Volta** ![][flag_ID] | **5** | 0 | ![][flag_NZ] Erkfir | [#1](https://osu.ppy.sh/community/matches/61443187) |
+| Katdon\_donKat ![][flag_ID] | -1 | **0** | ![][flag_NZ] **Erkfir** | *forfeit* |
 
 Sunday, 10 May 2020:
 
