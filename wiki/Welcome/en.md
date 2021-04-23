@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to osu!, a free-to-win rhythm game developed by peppy with four game modes: osu!standard, a circle clicking simulator; osu!taiko, a drumming emulator; osu!catch, a fruit salad catcher; and osu!mania, a key smashing synthesizer.
+Welcome to osu!, a free-to-win rhythm game developed by peppy with four game modes: the osu! mode, a circle clicking simulator; osu!taiko, a drumming emulator; osu!catch, a fruit salad catcher; and osu!mania, a key smashing synthesizer.
 
 ## Common points of interest
 
@@ -9,13 +9,13 @@ Welcome to osu!, a free-to-win rhythm game developed by peppy with four game mod
 - [Rules](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
 - [Game Modes](/wiki/Game_mode)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
+  - ![osu! mode icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
+  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Game_mode/osu!taiko)
+  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Game_mode/osu!catch)
+  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Game_mode/osu!mania)
 - [Multi](/wiki/Multi)
 - [Ranking Criteria](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
@@ -36,7 +36,7 @@ Modding is the process of users reviewing (or commonly called "modders") a creat
 
 *Main page: [Skinning](/wiki/Skinning)*
 
-*See also: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
+*See also: [Skinning Tutorial](/wiki/Skinning/Guides_and_important_threads)*
 
 Skinning allows anyone to change the way osu! looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 

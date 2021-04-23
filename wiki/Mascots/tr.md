@@ -6,7 +6,7 @@ Maskotlar hakkında bir video [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
 ## Resmi
 
-### ![osu!standard ikonu](/wiki/shared/mode/osu.png) pippi
+### ![osu! ikonu](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 

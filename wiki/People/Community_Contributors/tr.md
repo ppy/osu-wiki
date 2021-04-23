@@ -1,14 +1,10 @@
----
-outdated: true
----
+# Topluluk İştirakçileri
 
-# Topluluk İştirakçıları
+![](/wiki/shared/contributor.jpg "İştirakçi rozeti")
 
-![](/wiki/shared/contributor.jpg "İştirakçı rozeti")
+**Topluluk İştirakçileri** *(Community Contributors)* osu! topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
 
-**Topluluk İştirakçıları** (*Community Contributors*) osu! topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
-
-Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçısı rozetleri osu! ve topluluk çevresini iyileştirmek adına kendilerinden beklenenden çok daha fazlasını ortaya koyan kamuya açık bağımsız çalışan kişilere verilir.
+Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçisi rozetleri osu! ve topluluk çevresini iyileştirmek adına kendilerinden beklenenden çok daha fazlasını ortaya koyan kamuya açık bağımsız çalışan kişilere verilir.
 
 ## 2013
 
@@ -53,7 +49,7 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | Kullanıcı | Katkılar |
 | :-- | :-- |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) kurucusu |
-| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + Haber İştirakçısı |
+| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + Haber İştirakçisi |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Olağanüstü moderasyon varlığı (10k+ öldürme) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Olağanüstü moderasyon varlığı (10k+ öldürme) |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Olağanüstü moderasyon varlığı ve bağlılık (30k+ öldürme) |
@@ -67,7 +63,7 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 
 | Kullanıcı | Katkılar |
 | :-- | :-- |
-| ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Yıllar boyunca *mapping* kalitesini yüceltme ve iyileştirme, topluluk içerisindeki çeşitli sorunları gidermek adına yardım sağlama. |
+| ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Yıllar boyunca mapleme kalitesini yüceltme ve iyileştirme, topluluk içerisindeki çeşitli sorunları gidermek adına yardım sağlama. |
 
 ### Kasım
 
@@ -111,7 +107,7 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | PerformancePlus ve osu!chan'ın yaratıcısı |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Scorewatch projesinin yapımında ve yayımlanmasında olağanüstü gayret |
 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Scorewatch projesinin yapımında ve yayımlanmasında olağanüstü gayret |
-| ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Sayısız gözden geçirme ve yeniden düzenleme ile osu! wiki projesinin devam ettirilmesinde olağanüstü gayret |
+| ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Sayısız gözden geçirme ve yeniden düzenleme ile osu! wiki projesinin sürdürülmesinde olağanüstü gayret |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | osu! wiki projesinin mihenktaşı ve yıllardan beri süregelen olağanüstü katkı |
 
 ## 2019
@@ -139,11 +135,11 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | ![][flag_DE] [Tenshichan](https://osu.ppy.sh/users/1101600) | Project Loved kaptanı (osu!catch) |
 | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) | Project Loved kaptanı (osu!mania) |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) | Project Loved kaptanı (osu!mania) |
-| ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) | Topluluk Mentorluğu Programına olağanüstü katkı |
-| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) | Topluluk Mentorluğu Programına olağanüstü katkı |
-| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Topluluk Mentorluğu Programına olağanüstü katkı |
-| ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Topluluk Mentorluğu Programına olağanüstü katkı |
-| ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Topluluk Mentorluğu Programına olağanüstü katkı |
+| ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) | Community Mentorship Programına olağanüstü katkı |
+| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) | Community Mentorship Programına olağanüstü katkı |
+| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Community Mentorship Programına olağanüstü katkı |
+| ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Community Mentorship Programına olağanüstü katkı |
+| ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Community Mentorship Programına olağanüstü katkı |
 | ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | osu!lazer projesine olağanüstü katkı |
 
 ## 2020
@@ -155,8 +151,8 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | Kullanıcı | Katkılar |
 | :-- | :-- |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Topluluk ilişkilerine, etkinliklerine & turnuvalarına olağanüstü katkı |
-| ![][flag_SG] [hehe](https://osu.ppy.sh/users/2123087) | *Mapping* kesimine, etkinliklerine & turnuvalarına olağanüstü katkı |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | *Mapping*, *modding* ve metaveri sahnesine olağanüstü katkı |
+| ![][flag_SG] [hehe](https://osu.ppy.sh/users/2123087) | Mapleme sahnesine, etkinliklerine & turnuvalarına olağanüstü katkı |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | Mapleme, modlama ve metaveri sahnesine olağanüstü katkı |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania oyun moduna olağanüstü katkı |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch oyun moduna ve yönetimine olağanüstü katkı |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Yönetim ve liderlik ilişkilerine olağanüstü katkı |
@@ -175,6 +171,22 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Oyuncu desteğine & yardımına her daim olağanüstü katkı |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Mappers' Guild ve Beatmap Aday Göstericiler ekibine olağanüstü katkı |
 | ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | osu! açık kaynak projelerine olağanüstü katkı |
+
+## 2021
+
+### Mart
+
+*Haber gönderisi için, bakınız: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+
+| Kullanıcı | Katkılar |
+| :-- | :-- |
+| ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) | Topluluk etkinliklerine ve gelişimine olağanüstü katkı |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Dünya Kupalarına ve topluluk etkinliklerine olağanüstü katkı |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Mapleme ve modlama sahnesine olağanüstü katkı |
+| ![][flag_PL] [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Birçok proje üzerinden osu!'nun gelişimine olağanüstü katkı |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | osu! tema oluşturma ve moderasyon sahnesine olağanüstü katkı |
+| ![][flag_US] [I Must Decrease](https://osu.ppy.sh/users/2773526) | Puanlama bakımı ve gelişimine olağanüstü katkı |
+| ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) | Dünya Kupalarına ve topluluk turnuvaları sahnesine olağanüstü katkı |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
 [flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"

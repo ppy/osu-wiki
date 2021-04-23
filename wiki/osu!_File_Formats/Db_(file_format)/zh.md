@@ -93,7 +93,7 @@
 | Byte | osu!mania得到的评级。 |
 | Short | 本地谱面偏移值 |
 | Single | 堆叠判定值 |
-| Byte | osu! 游戏模式。 0x00 = osu!Standard，0x01 = Taiko，0x02 = CTB，0x03 = Mania |
+| Byte | osu! 游戏模式。 0x00 = osu!，0x01 = osu!taiko，0x02 = osu!catch，0x03 = osu!mania |
 | String | 音乐来源 |
 | String | 音乐标签 |
 | Short | 在线偏移值 |
@@ -155,16 +155,16 @@
 
 | 数据类型 | 描述 |
 | :-- | :-- |
-| Byte | osu! 游戏模式（0x00 = osu!Standard，0x01 = Taiko，0x02 = CTB，0x03 = Mania） |
+| Byte | osu! 游戏模式（0x00 = osu!，0x01 = osu!taiko，0x02 = osu!catch，0x03 = osu!mania） |
 | Int | 该分数/回放的版本号（例如：20150203） |
 | String | 谱面MD5校验值 |
 | String | 玩家名称 |
 | String | 回放MD5校验值 |
 | Short | “300” 判定的数量 |
-| Short | “100” 判定（osu!standard），“150” 判定（Taiko），“100” 判定（CTB），“100” 判定（osu!mania）的数量 |
-| Short | “50” 判定（osu!standard），小水果（CTB），“50” 判定（osu!mania）的数量 |
-| Short | “激”判定（osu!standard），彩色 “300” 判定（osu!mania）的数量 |
-| Short | “喝”判定（osu!standard），“200” 判定（osu!mania）的数量 |
+| Short | “100” 判定（osu!），“150” 判定（osu!taiko），“100” 判定（osu!catch），“100” 判定（osu!mania）的数量 |
+| Short | “50” 判定（osu!），小水果（osu!catch），“50” 判定（osu!mania）的数量 |
+| Short | “激”判定（osu!），彩色 “300” 判定（osu!mania）的数量 |
+| Short | “喝”判定（osu!），“200” 判定（osu!mania）的数量 |
 | Short | Miss的数量 |
 | Int | 回放分数 |
 | Short | 最大连击数 |
