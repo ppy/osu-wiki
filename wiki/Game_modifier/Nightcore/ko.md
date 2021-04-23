@@ -22,13 +22,13 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 - 축약형: NC
 - 종류: 난이도 상승 모드
 - 점수 배수:
-  - ![][o!s]: 1.12x
-  - ![][o!t]: 1.12x
-  - ![][o!c]: 1.06x
-  - ![][o!m]: 1.00x
+  - ![][osu!]: 1.12x
+  - ![][osu!taiko]: 1.12x
+  - ![][osu!catch]: 1.06x
+  - ![][osu!mania]: 1.00x
 - 기본 단축키: `D` `D` 또는 `Shift`+`D`
 - 설명: `꺄아아아아아아아아!!`
-- NC를 사용할 수 있는 osu!의 장르: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- NC를 사용할 수 있는 osu!의 장르: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - 같은 계열의 모드: [더블 타임](/wiki/Game_modifier/Double_Time)
 
 ## 상세 설명
@@ -45,7 +45,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 - 나이트코어 모드는 본래 [만우절 장난](https://osu.ppy.sh/community/forums/topics/49733)이었지만, 추후에 실제로 플레이가 가능한 모드로 추가 되었습니다.
 - 나이트코어 모드는 음악을 편집하거나 생성할 때 대략 10-30%의 속도를 높이고 더 높은 음조의 목소리를 갖는 "나이트코어" 장르에서 이름을 따왔습니다. 단, 이런 종류의 음악의 타당성과 역사는 논쟁의 여지가 있긴 합니다.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

@@ -4,12 +4,12 @@ Les médailles, auparavant appelées *succès*, sont des badges sur le profil d'
 
 ## Beatmap Packs
 
-Les médailles **Packs de beatmaps** peuvent être obtenues en **jouant toutes les beatmaps dans n'importe quelle difficulté** d'un [Pack de beatmaps thématique](https://osu.ppy.sh/beatmaps/packs?type=theme). Vous devez jouer au mode de jeu [osu!standard](/wiki/osu!standard) pour qualifier un statut **`CLEARED`** sur [la liste des pack de beatmaps](https://osu.ppy.sh/beatmaps/packs?type=theme).
+Les médailles **Packs de beatmaps** peuvent être obtenues en **jouant toutes les beatmaps dans n'importe quelle difficulté** d'un [Pack de beatmaps thématique](https://osu.ppy.sh/beatmaps/packs?type=theme). Vous devez jouer au mode de jeu [osu!](/wiki/Game_mode/osu!) pour qualifier un statut **`CLEARED`** sur [la liste des pack de beatmaps](https://osu.ppy.sh/beatmaps/packs?type=theme).
 
 ### Exigences
 
 - Le joueur doit terminer chaque beatmap une fois (peu importe la difficulté) d'un pack venant de [la liste des packs de beatmaps](https://osu.ppy.sh/beatmaps/packs?type=theme).
-- Les beatmaps doivent être jouées en mode osu!standard.
+- Les beatmaps doivent être jouées en mode osu!.
 - Extraire le pack thématique du fichier `.zip` et placez le contenu dans le dossier `Songs`.
   - De là, ouvrez osu! et laissez le client analyser les fichiers avant de lire les beatmaps.
   - Alternativement, le joueur peut télécharger les chansons qu’il contient manuellement, une par une et cela comptera quand même.
@@ -25,7 +25,7 @@ Les médailles **Packs de beatmaps** peuvent être obtenues en **jouant toutes l
 
 Les médailles **Talent** sont actuellement divisées en trois groupes: Combos, top-niveau et niveau en étoiles.
 
-Les médailles Combo peuvent être obtenues en obtenant un [combo](/wiki/combo) en osu!standard et peuvent être complétées avec n’importe quelle musique. Atteindre le même nombre de combos dans les modes de jeu [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), ou [osu!mania](/wiki/osu!mania) n'entraînera pas l'obtention de la médaille.
+Les médailles Combo peuvent être obtenues en obtenant un [combo](/wiki/combo) en osu! et peuvent être complétées avec n’importe quelle musique. Atteindre le même nombre de combos dans les modes de jeu [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), ou [osu!mania](/wiki/osu!mania) n'entraînera pas l'obtention de la médaille.
 
 Pour les médailles combinées de 1 000 et de 2 000, vous devriez trouver des beatmaps approuvées au lieu des beatmaps classées.
 
@@ -39,7 +39,7 @@ Les réalisations basées sur la difficulté en étoiles sont divisées en deux 
 
 ## Dévouement
 
-Les médailles **Dévouement** peuvent être obtenues en jouant beaucoup à osu!standard, en récoltant beaucoup de fruits dans osu!catch, en frappant beaucoup de notes dans osu!taiko, en appuyant sur beaucoup de touches dans osu!mania.
+Les médailles **Dévouement** peuvent être obtenues en jouant beaucoup à osu!, en récoltant beaucoup de fruits dans osu!catch, en frappant beaucoup de notes dans osu!taiko, en appuyant sur beaucoup de touches dans osu!mania.
 
 ## Introduction du mod
 

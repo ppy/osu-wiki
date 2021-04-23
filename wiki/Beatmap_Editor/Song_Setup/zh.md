@@ -169,7 +169,7 @@ Approach Rate 通常缩写为"**AR**"。
 
 这个选项可以设定谱面的皮肤，如果谱面要求的皮肤存在，则在玩这个谱面的时候，将自动使用该皮肤，否则将会提示用户下载，并使用默认的皮肤（即玩家正在使用的皮肤）。现在你可以将你的皮肤打包进曲包(MapSet)中，而不必要要求玩家额外下载其他的皮肤。一些老图使用了这个设定。
 
-这是一个使用例子 [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/beatmaps/41820).
+这是一个使用例子 [Beautiful Day - Bang! Bang! Bang! (-SiN-)](https://osu.ppy.sh/beatmapsets/10842).
 
 ![点击打开图像](img/SS_Skin_eg.jpg)
 
@@ -191,4 +191,4 @@ Approach Rate 通常缩写为"**AR**"。
 
 ### 谱面适用模式指定(Mode Specific)
 
-通常情况下，谱面对于四个模式(osu!standard, osu!taiko, osu!catch, osu!mania)来说都是通用的。如果你将此项设定设置为“osu!taiko（太鼓专谱）”，“CTB（接水果专谱）” 或 “osu!mania（下落式专谱）” 时谱面将只会对应设定的模式。
+通常情况下，谱面对于四个模式(osu!, osu!taiko, osu!catch, osu!mania)来说都是通用的。如果你将此项设定设置为“osu!taiko（太鼓专谱）”，“CTB（接水果专谱）” 或 “osu!mania（下落式专谱）” 时谱面将只会对应设定的模式。

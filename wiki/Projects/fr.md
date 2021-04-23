@@ -60,7 +60,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
   - [GitHub](https://github.com/jkapi/Osu-Replays)
 - [Remote osu! Keyboard](https://osu.ppy.sh/community/forums/topics/391981?n=1)—Une application android qui permet à votre téléphone d'agir comme un clavier.
 
-#### osu!standard
+#### osu!
 
 - [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716)—Détermine la vitesse à laquelle vous appuyez.
 
@@ -93,7 +93,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
   - [GitHub](https://github.com/Tom94/AiModtpDifficultyCalculator)
 - [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059)—Un outil qui stabilise la vitesse de slider après les changements de BPM.
 
-#### osu!standard
+#### osu!
 
 - [osu! Slider Creator Tool](https://osu.ppy.sh/community/forums/topics/536978)—Traduit les formes dessinnées en sliders.
   - [GitHub](https://github.com/kamisenpaii/slider-creator)
@@ -113,7 +113,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
 - [Hitsound Detective](https://osu.ppy.sh/community/forums/topics/488175)—Vérifie s'il y a des hitsounds non-utilisés dans les autres difficultés (basé sur la difficulté sélectionnée).
 - [Keysound Maker](https://osu.ppy.sh/community/forums/topics/488175)—Crée des keysounds pour osu!mania.
   - [GitHub](https://github.com/dudehacker/Osu-Keysound-Maker)
-- [lua-mania](https://osu.ppy.sh/community/forums/topics/465914)—Convertit les beatmaps osu!standard, osu!taiko et osu!catch en beatmaps osu!mania.
+- [lua-mania](https://osu.ppy.sh/community/forums/topics/465914)—Convertit les beatmaps osu!, osu!taiko et osu!catch en beatmaps osu!mania.
   - [GitHub](https://github.com/semyon422/lua-mania)
 - [Magic Copy](https://osu.ppy.sh/community/forums/topics/488175)—Outil qui copie les hitsounds d'une difficulté à une autre (fonctionne avec les hitsounds par défaut et personnalisés).
 - [Note Density calculator](https://osu.ppy.sh/community/forums/topics/488175)—Liste la distribution des keys dans les maps osu!mania.
