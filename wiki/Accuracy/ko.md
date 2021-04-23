@@ -4,11 +4,11 @@
 
 ## 게임에서 사용되는 모드
 
-### ![](/wiki/shared/mode/osu.png) osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_standard.png "Accuracy formula for osu!standard")
+![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_osu.png "Accuracy formula for osu!")
 
-osu!standard에서 정확도는 각 서클의 점수에 따라 가중치를 부여해 더한 뒤, 가능한 최대 서클 개수로 나누어서 계산합니다.
+osu!에서 정확도는 각 서클의 점수에 따라 가중치를 부여해 더한 뒤, 가능한 최대 서클 개수로 나누어서 계산합니다.
 
 서클 1개 당 정확도 판정:
 
@@ -37,7 +37,7 @@ osu!catch에서는 스피너가 아닌 히트 오브젝트를 얻은 갯수를 �
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
 
-osu!mania의 정확도는 [osu!standard](#![](/wiki/shared/mode/osu.png)-osu!standard)와 유사하게 계산됩니다.
+osu!mania의 정확도는 [osu!](#-osu!)와 유사하게 계산됩니다.
 
 ## 퍼포먼스 그래프
 
@@ -63,7 +63,7 @@ osu!mania의 정확도는 [osu!standard](#![](/wiki/shared/mode/osu.png)-osu!sta
 
 ### 스핀 (Spin)
 
-*참고: 스핀은 [osu!standard](/wiki/Game_mode/osu!)에서만 표시됩니다.*
+*참고: 스핀은 [osu!](/wiki/Game_mode/osu!)에서만 표시됩니다.*
 
 정확성 외에 스핀에 관한 일부 정보도 퍼포먼스 그래프 툴팁에 표시됩니다.
 

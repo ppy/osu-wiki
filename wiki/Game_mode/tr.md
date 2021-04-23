@@ -2,21 +2,21 @@
 
 osu! dört **oyun moduna** sahiptir: [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch), ve [osu!mania](#-osu!mania). Her biri benzersiz oyun mekaniklerine sahiptir ve özünde diğer ritim oyunlarından ilham alınmıştır.
 
-Her bir oyun modunun kendine ait bir ikonu/sembolü vardır: ![][o!s] ![][o!t] ![][o!c] ![][o!m] (sırasıyla osu!, osu!taiko, osu!catch, ve osu!mania).
+Her bir oyun modunun kendine ait bir ikonu/sembolü vardır: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] (sırasıyla osu!, osu!taiko, osu!catch, ve osu!mania).
 
 Varsayılan oyun modu osu!'dur. Ancak, başlatıldığında, osu! en son seçilmiş olan oyun moduyla açılır. Oyun modları arasından geçiş yapmak için, oyuncu Şarkı Seçim Ekranının altında yer alan `Mode` butonuna tıklayarak, ya da `Ctrl`+`1`, `Ctrl`+`2`, `Ctrl`+`3`, veya `Ctrl`+`4` tuşlarına basarak sırasıyla osu!, osu!taiko, osu!catch, ve osu!mania arasında geçiş yapabilir.
 
 ![Mod seçme arayüzü](/wiki/shared/Interface_mode.png "Mod seçme arayüzü")
 
-## ![][o!s] osu!
+## ![][osu!] osu!
 
 *Ana sayfa: [osu!](osu!)*
 
-*osu!* (çoğunlukla *osu!standard* olarak adlandırılır) osu! istemcisindeki varsayılan oyun modudur, ve özünde [iNiS'](https://en.wikipedia.org/wiki/INiS "Vikipedi") tarafından yapılan *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Vikipedi")* ritim video oyunundan esinlenilmiştir. osu!'da, oyuncudan şarkıların ritmine uygun bir şekilde vuruş dairelerine tıklaması, sliderları basılı tutması, ve spinner'ları çevirmesi beklenir.
+*osu!* osu! istemcisindeki varsayılan oyun modudur, ve özünde [iNiS'](https://en.wikipedia.org/wiki/INiS "Vikipedi") tarafından yapılan *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Vikipedi")* ritim video oyunundan esinlenilmiştir. osu!'da, oyuncudan şarkıların ritmine uygun bir şekilde vuruş dairelerine tıklaması, sliderları basılı tutması, ve spinner'ları çevirmesi beklenir.
 
 ![osu!'nun oynanışı](/wiki/shared/osu-gameplay.jpg "osu!'nun oynanışı")
 
-## ![][o!t] osu!taiko
+## ![][osu!taiko] osu!taiko
 
 *Ana sayfa: [osu!taiko](osu!taiko)*
 
@@ -24,7 +24,7 @@ Varsayılan oyun modu osu!'dur. Ancak, başlatıldığında, osu! en son seçilm
 
 ![osu!taiko'nun oynanışı](/wiki/shared/taiko-gameplay.jpg "osu!taiko'nun oynanışı")
 
-## ![][o!c] osu!catch
+## ![][osu!catch] osu!catch
 
 *Ana sayfa: [osu!catch](osu!catch)*
 
@@ -32,7 +32,7 @@ Varsayılan oyun modu osu!'dur. Ancak, başlatıldığında, osu! en son seçilm
 
 ![osu!catch'in oynanışı](/wiki/shared/catch-gameplay.jpg "osu!catch'in oynanışı")
 
-## ![][o!m] osu!mania
+## ![][osu!mania] osu!mania
 
 *Ana sayfa: [osu!mania](osu!mania)*
 
@@ -40,7 +40,7 @@ Varsayılan oyun modu osu!'dur. Ancak, başlatıldığında, osu! en son seçilm
 
 ![osu!mania'nın oynanışı](/wiki/shared/mania-gameplay.jpg "osu!mania'nın oynanışı")
 
-[o!s]: /wiki/shared/mode/osu.png "osu!"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

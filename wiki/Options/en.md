@@ -426,6 +426,6 @@ b{YYYY}{MM}{DD}.{revision}{type}
 ### History
 
 - The old options screen was an actual screen that had tabs, buttons, and a dark pale blue background.
-- The old options screen also featured a skin selection screen that also allows you to preview live play of a beatmap in osu!standard.
+- The old options screen also featured a skin selection screen that also allows you to preview live play of a beatmap in osu!.
   - After the options screen was moved over to a sidebar, this screen was still accessible by opening a skin file.
   - Access to this was later removed after skin previews and the live preview functions came to be.

@@ -8,11 +8,11 @@ Accuracy is a percentile measurement of a player's ability to hit [hit objects](
 
 ## Game modes
 
-### ![](/wiki/shared/mode/osu.png) osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_standard.png "Accuracy formula for osu!standard")
+![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_osu.png "Accuracy formula for osu!")
 
-In osu!standard, accuracy is calculated by weighting the judgement gained from each hit object by its value and divided by the maximum possible amount.
+In osu!, accuracy is calculated by weighting the judgement gained from each hit object by its value and divided by the maximum possible amount.
 
 Reference for one hit circle:
 
@@ -41,7 +41,7 @@ In osu!catch, accuracy is calculated by taking the total number of non-spinner h
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
 
-In osu!mania, accuracy is calculated similarly to [osu!standard](#![](/wiki/shared/mode/osu.png)-osu!standard).
+In osu!mania, accuracy is calculated similarly to [osu!](#-osu!).
 
 ## Performance graph
 
@@ -67,7 +67,7 @@ Due to the way the [DT](/wiki/Game_modifier/Double_time) (Double Time) and [HT](
 
 ### Spin
 
-*Note: Spin is only used for [osu!standard](/wiki/Game_mode/osu!).*
+*Note: Spin is only used for the [osu! game mode](/wiki/Game_mode/osu!).*
 
 In addition to the accuracy, some information regarding spinners is also seen in the same tooltip. <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
 

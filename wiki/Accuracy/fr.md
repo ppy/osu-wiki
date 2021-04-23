@@ -8,9 +8,9 @@ La précision est une mesure en pourcentage de la capacité d'un joueur à touch
 
 ## Modes de jeu
 
-### ![](/wiki/shared/mode/osu.png) osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!
 
-![Précision = (50 \* nombre de 50s + 100 \* nombre de 100s + 300 \* nombre de 300s) / 300(nombre de 0s + nombre de 50s + nombre de 100s + nombre de 300s)](img/accuracy_standard.png "La formule de la précision pour osu!standard")
+![Précision = (50 \* nombre de 50s + 100 \* nombre de 100s + 300 \* nombre de 300s) / 300(nombre de 0s + nombre 50s + nombre de 100s + nombre de 300s)](img/accuracy_osu.png "Formule de précision pour osu!")
 
 Dans osu!standard, la précision est calculée en pondérant le jugement obtenu de chaque hit object et en le divisant par la valeur maximum qu'il est possible de réaliser.
 
@@ -41,7 +41,7 @@ Dans osu!catch, la précision est calculée en prenant le nombre total de hit ob
 
 ![Précision = (50 \* nombre de 50s + 100 \* nombre de 100s + 200 \* nombre de 200s + 300 \* nombre de 300s + 300 \* nombre de MAXs) / 300(nombre de 0s + nombre de 50s + nombre de 100s + nombre de 200s + nombre de 300s + nombre de MAXs)](img/accuracy_mania.png "La formule de la précision pour osu!mania")
 
-Dans osu!mania, la précision est calculée d'une façon similaire que [osu!standard](#![](/wiki/shared/mode/osu.png)-osu!standard).
+Dans osu!mania, la précision est calculée d'une façon similaire que [osu!](#-osu!).
 
 ## Graphique de performance
 
@@ -67,7 +67,7 @@ La valeur `Unstable Rate` représente la constance du timing des hits, les chiff
 
 ### Spin
 
-*Note : Spin est uniquement utilisé pour [osu!standard](/wiki/Game_mode/osu!).*
+*Note : Spin est uniquement utilisé pour [osu!](/wiki/Game_mode/osu!).*
 
 En plus de la précision, certaines informations concernant les spinners sont également visibles dans la même infobulle. <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
 

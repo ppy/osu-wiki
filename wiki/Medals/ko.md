@@ -4,12 +4,12 @@
 
 ## Beatmap Packs
 
-**비트맵 팩(Beatmap Packs)** 메달은 각각의 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 **모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어**하면 얻을 수 있습니다. [비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 맵이 **`클리어한 맵`** 상태가 되고 배지를 얻으려면 반드시 [osu!standard](/wiki/osu!standard) 모드에서 플레이해야 합니다.
+**비트맵 팩(Beatmap Packs)** 메달은 각각의 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 **모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어**하면 얻을 수 있습니다. [비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme) 내의 맵이 **`클리어한 맵`** 상태가 되고 배지를 얻으려면 반드시 [osu!](/wiki/Game_mode/osu!) 모드에서 플레이해야 합니다.
 
 ### 요구 사항
 
 - 플레이어는 [테마 비트맵 팩](https://osu.ppy.sh/beatmaps/packs?type=theme)에서 다운로드한 맵 팩 내의 모든 비트맵을 어떤 난이도로든 적어도 한 번 이상 클리어해야 합니다.
-- 게임 모드는 osu!standard 이어야 합니다.
+- 게임 모드는 osu! 이어야 합니다.
 - 테마 비트맵 팩을 다운로드하고, `.zip` 파일의 압축을 푼 뒤, 게임 설치 폴더 내의 `Songs` 폴더에 넣으세요.
   - 여기서 osu!를 실행해 새롭게 추가된 비트맵을 인식할 수 있도록 해주세요.
   - 다른 방법으로, 플레이어가 맵 팩 내의 곡을 수동으로 다운로드한 뒤 플레이할 수도 있습니다.
@@ -26,7 +26,7 @@
 
 **스킬(Skill)** 메달은 현재 세 그룹으로 나뉩니다: 콤보(Combo), 하이 랭커(High Ranker), 난이도 기반(Star-based).
 
-콤보(Combo) 메달은 osu!standard에서 특정 [콤보](/wiki/combo)를 도달하는 것으로 해금할 수 있으며, 어떤 노래든 달성이 가능합니다. 다만, [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) 또는 [osu!mania](/wiki/osu!mania)에서는 메달을 해금할 수 없습니다.
+콤보(Combo) 메달은 osu!에서 특정 [콤보](/wiki/combo)를 도달하는 것으로 해금할 수 있으며, 어떤 노래든 달성이 가능합니다. 다만, [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) 또는 [osu!mania](/wiki/osu!mania)에서는 메달을 해금할 수 없습니다.
 
 1000, 2000 콤보 메달을 해금하려면 길이가 긴 비트맵을 찾아보는 게 좋습니다. **Ranked 또는 Approved 상태가 아닌 비트맵은 인정되지 않으니 주의하세요.**
 
@@ -42,7 +42,7 @@
 
 ## Dedication
 
-**Dedication** 메달은 osu!standard에서 많이 플레이하거나, osu!catch에서 과일을 많이 수집하거나, osu!taiko에서 드럼을 많이 치거나, osu!mania에서 많은 키를 누름으로써 해금할 수 있습니다. 즉, 노력의 산물이죠!
+**Dedication** 메달은 osu!에서 많이 플레이하거나, osu!catch에서 과일을 많이 수집하거나, osu!taiko에서 드럼을 많이 치거나, osu!mania에서 많은 키를 누름으로써 해금할 수 있습니다. 즉, 노력의 산물이죠!
 
 ## Mod Introduction
 

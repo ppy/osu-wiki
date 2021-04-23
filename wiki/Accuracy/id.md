@@ -4,11 +4,11 @@ Akurasi adalah suatu pengukur konsistensi pemain. Terdapat tiga jenis akurasi ya
 
 ## Mode permainan
 
-### ![](/wiki/shared/mode/osu.png) osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!
 
-![Akurasi = (50 \* jumlah 50 + 100 \* jumlah 100 + 300 \* jumlah 300) / 300(jumlah 0 + jumlah 50 + jumlah 100 + jumlah 300)](img/accuracy_standard.png "Formula akurasi untuk osu!standard")
+![Akurasi = (50 \* jumlah 50 + 100 \* jumlah 100 + 300 \* jumlah 300) / 300(jumlah 0 + jumlah 50 + jumlah 100 + jumlah 300)](img/accuracy_osu.png "Formula akurasi untuk osu!")
 
-Di osu!standard, akurasi dikalkulasi dengan menimbang penilaian yang diperoleh dari setiap hit objek berdasarkan nilainya dan dibagi dengan jumlah maksimum yang mungkin.
+Di osu!, akurasi dikalkulasi dengan menimbang penilaian yang diperoleh dari setiap hit objek berdasarkan nilainya dan dibagi dengan jumlah maksimum yang mungkin.
 
 Referensi untuk satu hit lingkaran:
 
@@ -37,7 +37,7 @@ Di osu!catch, akurasi dikalkulasi dengan mengambil jumlah hit objek tanpa spinne
 
 ![Akurasi = (50 \* jumlah 50 + 100 \* jumlah 100 + 200 \* jumlah 200 + 300 \* jumlah 300 + 300 \* jumlah MAX) / 300(jumlah 0 + jumlah 50 + jumlah 100 + jumlah 200 + jumlah 300 + jumlah MAX)](img/accuracy_mania.png "Formula akurasi untuk osu!mania")
 
-Di osu!mania, akurasi dikalkulasi mirip dengan [osu!standard](#![](/wiki/shared/mode/osu.png)-osu!standard).
+Di osu!mania, akurasi dikalkulasi mirip dengan [osu!](#-osu!).
 
 ## Grafik performa
 
@@ -63,7 +63,7 @@ Laju tidak stabil mewakili konsistensi penepatan dalam hit, dimana semakin kecil
 
 ### Spinner
 
-*Catatan: Sutaran hanya digunakan dalam [osu!standard](/wiki/Game_mode/osu!).*
+*Catatan: Sutaran hanya digunakan dalam [osu!](/wiki/Game_mode/osu!).*
 
 Sebagai tambahan akurasi, beberapa informasi mengenai spinner juga terdapat di tooltip yang sama.
 

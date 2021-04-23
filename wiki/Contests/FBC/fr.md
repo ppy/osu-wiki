@@ -16,13 +16,13 @@ Depuis l'édition 2017, les musiques choisies ont une durée inférieure à 3 mi
 
 ## FBC 2015
 
-L'édition 2015 était la première édition à avoir réuni les 4 modes de jeu: osu!standard, osu!taiko, osu!catch, osu!mania. Malheureusement, en mode osu!catch et osu!mania, il n'y avait pas assez de participants pour récompenser les vainqueurs d'un badge.
+L'édition 2015 était la première édition à avoir réuni les 4 modes de jeu: osu!, osu!taiko, osu!catch, osu!mania. Malheureusement, en mode osu!catch et osu!mania, il n'y avait pas assez de participants pour récompenser les vainqueurs d'un badge.
 
 La musique sélectionnée pour ce concours était [ANTI - Koi](https://www.youtube.com/watch?v=NuQfuYxf6lk) d'une durée de 5:06 minutes.
 
 ![FBC 2015 Badge](img/fbc2015.png)
 
-### Vainqueurs du mode osu!standard
+### Vainqueurs du mode osu!
 
 | Place | Joueurs |
 | :-: | :-- |
@@ -67,7 +67,7 @@ La musique sélectionnée pour ce concours était [ANTI - Koi](https://www.youtu
 
 Cette édition du tournoi était la dernière édition à utiliser une musique au format marathon (plus de 5 minutes) et était également la dernière à proposer un tournoi multi-modes à cause du faible taux de participants dans les modes osu!taiko, osu!catch, osu!mania.
 
-La musique sélectionnée pour le mode osu!standard et osu!catch était [Phantom Sage - Holystone](https://www.youtube.com/watch?v=gnZXoRb--z4) tandis que la musique pour les modes osu!taiko et osu!mania était [Weyheyhey!! - Throw It Away](https://www.youtube.com/watch?v=qtQ8Xo4p9js).
+La musique sélectionnée pour le mode osu! et osu!catch était [Phantom Sage - Holystone](https://www.youtube.com/watch?v=gnZXoRb--z4) tandis que la musique pour les modes osu!taiko et osu!mania était [Weyheyhey!! - Throw It Away](https://www.youtube.com/watch?v=qtQ8Xo4p9js).
 
 ![FBC 2016 Badge](img/fbc2016.png)
 
