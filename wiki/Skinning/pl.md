@@ -17,7 +17,7 @@ Tworzenie skórek to jedna z najważniejszych funkcji w osu!, która umożliwia 
 Elementy skórek są podzielone na następujące kategorie:
 
 - [Interfejs](/wiki/Skinning/Interface)
-- [osu!standard](/wiki/Skinning/osu!)
+- [osu!](/wiki/Skinning/osu!)
 - [osu!taiko](/wiki/Skinning/osu!taiko)
 - [osu!catch](/wiki/Skinning/osu!catch)
 - [osu!mania](/wiki/Skinning/osu!mania)

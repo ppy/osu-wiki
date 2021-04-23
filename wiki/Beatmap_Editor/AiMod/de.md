@@ -157,6 +157,6 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 | This mapset needs at least 2 Catch the Beat diffs. | Nur bei osu!catch Maps |  |
 | This mapset needs at least 1 Easy/Normal diff. |  |  |
 | This mapset needs at least 2 osu!mania diffs. | Nur bei osu!mania Maps |  |
-| This mapset needs at least 2 standard diffs. | Nur bei osu!standard Maps |  |
+| This mapset needs at least 2 standard diffs. | Nur bei osu! Maps |  |
 | This mapset needs at least 2 Taiko diffs. | Nur bei osu!taiko Maps |  |
 | Uninherited timing points conflict with {0} diff. |  |  |

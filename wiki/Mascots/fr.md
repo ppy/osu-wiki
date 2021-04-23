@@ -6,11 +6,11 @@ Une [Présentation des mascottes](https://youtu.be/mJF2cAs_MrI) est disponible.
 
 ## Officiel
 
-### ![Icône osu!standard](/wiki/shared/mode/osu.png) pippi
+### ![Icône osu!](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stylisée avec un "p" minuscule, est la mascotte d'osu!standard qui a été créer en juillet 2008. Elle est aussi connue sous le nom de pippidon dans osu!taiko et apparait dans le jeu [Yandere Simulator](https://yanderesimulator.com) comme un personnage non joueur. Le concept art initial à été créer par [Sarumaru](https://osu.ppy.sh/users/9427), le sprite de pippidon à été créer par [crystalsuicune](https://osu.ppy.sh/users/9974) et le dessin actuel à été conçu par [Daru](https://osu.ppy.sh/users/32480).
+pippi, stylisée avec un "p" minuscule, est la mascotte d'osu! qui a été créer en juillet 2008. Elle est aussi connue sous le nom de pippidon dans osu!taiko et apparait dans le jeu [Yandere Simulator](https://yanderesimulator.com) comme un personnage non joueur. Le concept art initial à été créer par [Sarumaru](https://osu.ppy.sh/users/9427), le sprite de pippidon à été créer par [crystalsuicune](https://osu.ppy.sh/users/9974) et le dessin actuel à été conçu par [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![Icône osu!catch](/wiki/shared/mode/catch.png) Yuzu
 

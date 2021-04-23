@@ -112,7 +112,7 @@ Yes! We set this rule to make sure the main spirit of the contest about collabor
 
 9. **Can I make an osu!mania, osu!taiko or osu!catch beatmap?**
 
-Unfortunately, this edition of the contest is osu!standard game mode only. However, we are planning to organize multi-mode editions in 2 months upon the start of this edition! 
+Unfortunately, this edition of the contest is for the osu! game mode only. However, we are planning to organize multi-mode editions in 2 months upon the start of this edition! 
 
 10. **Will this event be broadcasted on Twitch?**
 

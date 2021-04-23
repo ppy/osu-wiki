@@ -1,13 +1,14 @@
 ---
 outdated: true
 ---
+
 # Conquistas
 
 **Conquistas** (achievements) são pequenos emblemas para perfil que indicam que o usuário conseguiu realizar certo objetivo. Atualmente, eles são divididos em 5 grupos.
 
 ## Beatmap Packs
 
-As conquistas de **Beatmap Packs** são obtidas por **jogar todos os beatmaps de um [Beatmap Pack Temático](https://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade)**, sendo que o modo de jogo deva ser [osu!Standard](/wiki/Game_mode/osu!).
+As conquistas de **Beatmap Packs** são obtidas por **jogar todos os beatmaps de um [Beatmap Pack Temático](https://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade)**, sendo que o modo de jogo deva ser [osu!](/wiki/Game_mode/osu!).
 
 Existem 16 conquistas neste grupo, as quais são divididos em 4 seções:
 
