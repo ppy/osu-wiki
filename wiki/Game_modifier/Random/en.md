@@ -18,7 +18,7 @@ tags:
 - Score Multiplier: 0.00x
 - Default shortcut key: `X`
 - Caption: `Shuffle around the notes!`
-- Compatible game modes: ![][o!m]
+- Compatible game modes: ![][osu!mania]
 
 ## Description
 
@@ -26,4 +26,4 @@ The **Random** mod is a [game modifier](/wiki/Game_modifier) for [osu!mania](/wi
 
 ![RD gameplay mania](img/RD-comparison-mania.jpg "Comparison between a regular play (left) vs. a play with the Random mod enabled (right) in osu!mania")
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

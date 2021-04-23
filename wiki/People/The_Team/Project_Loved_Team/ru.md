@@ -22,7 +22,7 @@ tags:
 
 ![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** курирует проект, пишет новости и посты на форуме, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) ведёт общедоступные таблицы и помогает модерировать обсуждения категории Loved, а ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) и ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) проверяют метаданные карт, которые будут выставлены на голосование. Остальная часть команды — это капитаны:
 
-### Капитаны osu!standard
+### Капитаны osu!
 
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)

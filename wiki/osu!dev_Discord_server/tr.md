@@ -22,7 +22,7 @@ Sunucuda tartışılan her bir geliştirme ürününün kendine ait bir kanalı 
 | [osu!lazer](https://github.com/ppy/osu "GitHub'ta ppy/osu") | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework "GitHub'ta ppy/osu-framework") | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web "GitHub'ta ppy/osu-web") | `#osu-web` |
-| [osu!standard](/wiki/Game_mode/osu!) [yıldız dereceleri](/wiki/Beatmapping/Star_rating) ve [performans puanları](/wiki/Performance_Points) | `#difficulty-osu` |
+| [osu!](/wiki/Game_mode/osu!) [yıldız dereceleri](/wiki/Beatmapping/Star_rating) ve [performans puanları](/wiki/Performance_Points) | `#difficulty-osu` |
 | [osu!taiko](/wiki/Game_mode/osu!taiko) yıldız dereceleri ve performans puanları | `#difficulty-taiko` |
 | [osu!catch](/wiki/Game_mode/osu!catch) yıldız dereceleri ve performans puanları | `#difficulty-catch` |
 | [osu!mania](/wiki/Game_mode/osu!mania) yıldız dereceleri ve performans puanları | `#difficulty-mania` |
