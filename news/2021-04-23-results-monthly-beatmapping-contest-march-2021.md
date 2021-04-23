@@ -41,13 +41,13 @@ Given it's their first MBC win, Innovation has earned the first tier MBC profile
 
 Yep, there's two! Final scores (both raw and standardized) were practically tied for both [Mao](https://osu.ppy.sh/users/2204515)'s [*Traveler ~stand aloof~*](https://osu.ppy.sh/beatmapsets/1439562) and [Oriental](https://osu.ppy.sh/users/16142512)'s [*Se-U-Ra - Melusia*](https://osu.ppy.sh/beatmapsets/1439439), so both received the **runner-up** position this month. Going forward we'll be trying some new tiebreaker methods for cases like this, so stay tuned for that possibility.
 
-Despite tying on the leaderboard, these maps couldn't be more different from each other. Oriental's is a high-effort storyboard/skinning/keysounding/concept-mapping moshpit that would've scored considerably higher if it actually focused on the "no 1/4 sliders" limitation. Meanwhile, Mao's nearly 7-star entry was a riskier mapping venture featuring "incredibly based doubles" according to screener [Chugger](https://osu.ppy.sh/users/4491713).
+Despite scoring similarly, these maps couldn't be more different. Oriental's is a high-effort storyboard/skinning/keysounding/concept-mapping moshpit that would've scored considerably higher if it actually focused on the "no 1/4 sliders" limitation. Meanwhile, Mao's nearly 7-star entry was a riskier mapping venture featuring "incredibly based doubles" according to screener [Chugger](https://osu.ppy.sh/users/4491713).
 
-The runner-up spot isn't enough to earn Oriental any prizes, but Mao was on the cusp of earning the ***Elite Mapper*** title and this finally pushed him over the edge! Congratulations to Mao for joining [hypercyte](https://osu.ppy.sh/users/9155377) and [xbopost](https://osu.ppy.sh/users/6842421) as mappers who've earned this prestigious title through the Monthly Beatmapping Contest!
+The runner-up spot isn't enough to earn Oriental any prizes, but Mao was on the cusp of earning the ***Elite Mapper*** title and this finally pushed him over the edge. Congratulations to Mao for joining [hypercyte](https://osu.ppy.sh/users/9155377) and [xbopost](https://osu.ppy.sh/users/6842421) as mappers who've earned this prestigious title through the Monthly Beatmapping Contest!
 
 ### Screening crew #1
 
-And last but definitely not least, [Acylica](https://osu.ppy.sh/users/1943309)'s [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439570) earned a nearly universal gut reaction of "awesome map" from the [screening crew](/wiki/Contests/Monthly_Beatmapping_Contest#screening), with **9 of the 10** screeners putting the map in their top 5.
+And last but definitely not least, [Acylica](https://osu.ppy.sh/users/1943309)'s [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439570) earned a nearly universal gut reaction of "awesome map" from the [screening crew](/wiki/Contests/Monthly_Beatmapping_Contest#screening), with **9 of the 11** screeners putting the map in their top 5.
 
 For those keeping count, this is Acylica's third time achieving the screening crew's #1 pick. That paired with his two runner-up positions in past contests makes him just 1 point shy of the *Elite Mapper* title. Could he be the first mapper to earn the title without actually *winning* the MBC? Is such a thing even possible? Seriously, this situation is insanely awkward, but we'll see how things progress and hope for a proper win from Acylica one of these days.
 
