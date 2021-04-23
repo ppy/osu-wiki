@@ -15,7 +15,7 @@ Storyboard rules were updated to allow for image sizes larger than 854x640 on 16
 
 The first ever edition of osu!weekly was released on 13 March 2015. Written by [Tasha](https://osu.ppy.sh/users/1031958), osu!weekly positioned itself as "a weekly news digest covering the latest happenings of the game and its community" [[2]][r].
 
-The first ever osu! Beatmap Blueprint stickers were added to the [osu!store](https://osu.ppy.sh/store/listing) on 20 March 2015. The stickers came in two packs of 8.5" x 11" custom sticker sheets featuring elements such hit circles, combo counters, sliders, and much more [[3]][r]. In celebration of the launch, a contest was run to see who could make the best [beatmaps](/wiki/Beatmap) using the stickers, with a first place prize of an osu! tablet and osu! sticker sets 1 and 2. Despite this, no actual follow-up towards this contest was ever publicly announced, thus it is presumed that the contest was cancelled [[3,4]][r]. <!--official verification needed; price needed-->
+The first ever osu! Beatmap Blueprint stickers were added to the [osu!store](https://osu.ppy.sh/store/listing) on 20 March 2015. The stickers came in two packs of 8.5" x 11" custom sticker sheets featuring elements such hit circles, combo counters, sliders, and much more [[3]][r]. In celebration of the launch, a contest was run to see who could make the best [beatmaps](/wiki/Beatmap) using the stickers, with a first place prize of an osu! tablet and osu! sticker sets 1 and 2. Despite this, the contest was cancelled due to a lack of submissions, and no follow-up regarding this was ever publicly stated at the time [[3,4]][r]. <!--price needed-->
 
 [Wii Remote](https://en.wikipedia.org/wiki/Wii_Remote "Wikipedia") support was added for [osu!taiko](/wiki/Game_mode/osu!taiko) on 26 March 2015 [[5]][r]. <!--changelog entry missing-->
 
@@ -143,7 +143,7 @@ https://haveibeenpwned.com/PwnedWebsites#XSplit -->
 1. [osu! newspost [Tasha] (13 March 2015) - "osu!weekly #1"](https://osu.ppy.sh/home/news/2015-03-13-osuweekly-1)
 2. [osu! forum thread (Beatmaps) [Xgor] - "[Rule Change] Higher storyboard image sizes"](https://osu.ppy.sh/community/forums/topics/276337&start=0)
 3. [osu! newspost [yelle] (20 March 2015) - "osu! Beatmap Blueprints Available & Contest Details"](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)
-4. [osu! forum thread (Development) [peppy] - "Beatmap Blueprint Contest Thread"](https://osu.ppy.sh/community/forums/topics/312138)
+4. [GitHub comment (ppy/osu-wiki) [peppy] - "Update History of osu! 2015 #5236"](https://github.com/ppy/osu-wiki/pull/5236#discussion_r618896306 "GitHub")
 5. [osu! newspost [Tasha] (28 March 2015) - "osu!weekly #3"](https://osu.ppy.sh/home/news/2015-03-28-osuweekly-3)
 6. [osu! forum thread (Completed Requests) [Animewolf3] - "[added] #balkan channel"](https://osu.ppy.sh/community/forums/topics/152009)
 7. [osu! newspost [Tasha] (4 April 2015) - "osu!weekly #4"](https://osu.ppy.sh/home/news/2015-04-04-osuweekly-4)
