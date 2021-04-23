@@ -4,11 +4,11 @@ La precisión es una forma de medir la consistencia de un jugador. Hay tres tipo
 
 ## Modos de juego
 
-### ![](/wiki/shared/mode/osu.png) osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!
 
-![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_standard.png "Formula de precisión para osu!standard")
+![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_osu.png "Formula de precisión para osu!")
 
-En osu!standard, la precisión se calcula ponderando el criterio con el que se le da a cada nota, multiplicado por su valor y dividido por la cantidad maxima posible.
+En osu!, la precisión se calcula ponderando el criterio con el que se le da a cada nota, multiplicado por su valor y dividido por la cantidad maxima posible.
 
 Referencias para un círculo de golpe
 
@@ -37,7 +37,7 @@ En osu!catch, la precisión se calcula tomando el total de objetos de golpe reco
 
 ![Precisión = (50 \* número de 50s + 100 \* número de 100s + 200 \* número de 200s + 300 \* número de 300s + 300 \* número de MAXs) / 300(número de 0s + número de 50s + número de 100s + número de 200s + número de 300s + número de MAXs)](img/accuracy_mania.png "Formula de precisión para osu!mania")
 
-En osu!mania, la precisión es calculada de forma similar a [osu!standard](#osu!standard).
+En osu!mania, la precisión es calculada de forma similar a [osu!](#-osu!).
 
 ## Gráfico de rendimiento
 
@@ -63,7 +63,7 @@ Unstable rate, o Tasa de inestabilidad, representa la consistencia de tiempo de 
 
 ### Spin
 
-*Nota: Spin solo se usa para [osu!standard](/wiki/Game_mode/osu!).*
+*Nota: Spin solo se usa para [osu!](/wiki/Game_mode/osu!).*
 
 Además de la precisión, también se ve algo de información sobre las ruletas en el mismo mensaje de información.
 

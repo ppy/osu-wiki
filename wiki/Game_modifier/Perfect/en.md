@@ -21,7 +21,7 @@ tags:
 - Score Multiplier: 1.00x
 - Default shortcut key: `S` `S` or `Shift`+`S`
 - Caption: `SS or quit.`
-- Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variant: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
 
 ## Description
@@ -49,7 +49,7 @@ This mod has the same effect across all [game modes](/wiki/Game_mode)
 - If there is a skippable prologue, the Perfect mod will not automatically skip it because it uses restart functionality as opposed to a quick-retry.
 - The Perfect mod is a variant of the [Sudden Death](/wiki/Game_modifier/Sudden_Death) mod.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

@@ -15,13 +15,13 @@ Since the 2017 edition, the chosen songs have a length lower than 3 minutes and 
 
 ## FBC 2015
 
-This edition was the first one which reunited all game modes: osu!standard, osu!taiko, osu!catch, osu!mania. However, in osu!catch and osu!mania, there weren’t enough contestants to attribute a badge to the winners.
+This edition was the first one which reunited all game modes: osu!, osu!taiko, osu!catch, osu!mania. However, in osu!catch and osu!mania, there weren’t enough contestants to attribute a badge to the winners.
 
 The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?v=NuQfuYxf6lk).
 
 ![FBC 2015 Badge](img/fbc2015.png)
 
-### osu!standard Winners
+### osu! Winners
 
 | Place | Mappers |
 | :-: | :-- |
@@ -66,7 +66,7 @@ The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?
 
 This contest edition was the last one to use a marathon-style music (longer than 5 minutes) and also was the last to allow other game modes to participate, due to the low amount of contestants in osu!taiko, osu!catch and osu!mania.
 
-The song picked for osu!standard and osu!catch was [Phantom Sage - Holystone](https://www.youtube.com/watch?v=gnZXoRb--z4) while the song for osu!taiko and osu!mania was [Weyheyhey!! - Throw It Away](https://www.youtube.com/watch?v=qtQ8Xo4p9js).
+The song picked for osu! and osu!catch was [Phantom Sage - Holystone](https://www.youtube.com/watch?v=gnZXoRb--z4) while the song for osu!taiko and osu!mania was [Weyheyhey!! - Throw It Away](https://www.youtube.com/watch?v=qtQ8Xo4p9js).
 
 ![FBC 2016 Badge](img/fbc2016.png)
 

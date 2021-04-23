@@ -24,12 +24,12 @@ outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Insane
-- ![](/wiki/shared/diff/expert-s.png) Expert
-- ![](/wiki/shared/diff/expertplus-s.png) Expert+
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Insane
+- ![](/wiki/shared/diff/expert-o.png) Expert
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -64,11 +64,11 @@ outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 
 ウェブサイトでは、ビートマップにはこれらの星評価範囲に基づいて難易度アイコンが自動的に付与されます。:
 
-- ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
-- ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
-- ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
-- ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
-- ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ 以上
+- ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-o.png) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-o.png) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ 以上
 
 ほとんどのマップの意図された難易度は、与えられたアイコンと一致しますが、いくつかは著しく異なります。これが[ランキング基準](/wiki/Ranking_Criteria)が難易度を決定し、ビートマップセットを評価するためのより正確なルールを定義する理由です。

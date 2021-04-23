@@ -10,11 +10,11 @@ La précision est une mesure de la cohérence d'un joueur. Il existe trois types
 
 ## Modes de jeu
 
-### ![](/wiki/shared/mode/osu.png) osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!
 
-![Précision = (50 \* nombre de 50s + 100 \* nombre de 100s + 300 \* nombre de 300s) / 300(nombre de 0s + nombre 50s + nombre de 100s + nombre de 300s)](img/accuracy_standard.png "Formule de précision pour osu!standard")
+![Précision = (50 \* nombre de 50s + 100 \* nombre de 100s + 300 \* nombre de 300s) / 300(nombre de 0s + nombre 50s + nombre de 100s + nombre de 300s)](img/accuracy_osu.png "Formule de précision pour osu!")
 
-Dans osu!standard, la précision est calculée en pondérant le jugement obtenu pour chaque objet touché par sa valeur et divisé par le montant maximum possible.
+Dans osu!, la précision est calculée en pondérant le jugement obtenu pour chaque objet touché par sa valeur et divisé par le montant maximum possible.
 
 Référence pour un hit circle :
 
@@ -43,7 +43,7 @@ Dans osu!catch, la précision est calculée en prenant le total des objets touch
 
 ![Accuracy = (50 \* nombre de 50s + 100 \* nombre de 100s + 200 \* nombre de 200s + 300 \* nombre de 300s + 300 \* nombre de MAXs) / 300(nombre de 0s + nombre de 50s + nombre de 100s + nombre de 200s + nombre de 300s + nombre de MAXs)](img/accuracy_mania.png "Formule de précision pour osu!mania")
 
-Dans osu!mania, la précision est calculée de la même manière que [osu!standard](#-osu!standard).
+Dans osu!mania, la précision est calculée de la même manière que [osu!](#-osu!).
 
 Graphique de performance
 
@@ -69,7 +69,7 @@ Le taux instable représente la cohérence du timing des hits, où les nombres i
 
 ### Spin
 
-*Note: Spin est seulement utiliser pour [osu!standard](/wiki/Game_mode/osu!).*
+*Note: Spin est seulement utiliser pour [osu!](/wiki/Game_mode/osu!).*
 
 En plus de la précision, certaines informations concernant les spinners sont également visibles dans la même info-bulle.
 

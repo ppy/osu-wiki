@@ -24,12 +24,12 @@ Esses são os típicos níveis de dificuldade que um beatmap pode ser categoriza
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Insane
-- ![](/wiki/shared/diff/expert-s.png) Expert
-- ![](/wiki/shared/diff/expertplus-s.png) Expert+
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Insane
+- ![](/wiki/shared/diff/expert-o.png) Expert
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -64,11 +64,11 @@ Esses são os típicos níveis de dificuldade que um beatmap pode ser categoriza
 
 No site, beatmaps são automaticamente dados um ícone de dificuldade baseado na variação de sua classificação de estrelas:
 
-- ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
-- ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
-- ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
-- ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
-- ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ e acima disso
+- ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-o.png) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-o.png) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ e acima disso
 
 A maioria dos mapas tem seu respectivo nível de ícone categorizados de forma correta, mas alguns podem sair dessa curva e variar bastante. E é esse o motivo que a [ranking criteria](/wiki/Ranking_Criteria) define regras mais precisas para a determinação da dificuldade de um beatmap e a variação de dificuldade entre as dificuldades de um beatmapset.
