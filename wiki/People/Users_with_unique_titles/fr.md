@@ -181,7 +181,7 @@ Ces joueurs ont gagnés leurs titres à travers des prouesses exceptionnelles, o
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | A réalisé le premier FC nomod sur [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | A complété à 100% toutes les beatmaps du mode osu!taiko classées avant le 3 novembre 2019 |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Non-Documenté* <!-- TODO: a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further --> |
-| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | A joué toutes les beatmaps du mode osu!standard classée avant le 27 avril 2019 |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | A joué toutes les beatmaps du mode osu! classée avant le 27 avril 2019 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | A gagné [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ### Contributeurs

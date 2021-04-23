@@ -27,7 +27,7 @@ Jika pemain menekan hit object diluar dari 50 hit window, itu akan dihitung seba
 
 ## Sliders dan spinners
 
-Di [osu!standard](/wiki/Game_mode/osu!), sliders akan memberikan 300 selama mereka hit dalam 50 hit window. Ini terkadang disebut sebagai *slideracc* dan dihapus di dalam ScoreV2<!-- TODO: link -->.
+Di [osu!](/wiki/Game_mode/osu!), sliders akan memberikan 300 selama mereka hit dalam 50 hit window. Ini terkadang disebut sebagai *slideracc* dan dihapus di dalam ScoreV2<!-- TODO: link -->.
 
 Overall difficulty juga berefek pada spinner, dimana mereka harus memutar lebih untuk mengisi pengukur pada waktunya. Di [osu!taiko](/wiki/Game_mode/osu!taiko), denden juga membutuhkan hit yang lebih banyak untuk diselesaikan. Spin per detik sangat dibutuhkan untuk menyelesaikan spinner, yang dimana akan dijelaskan dengan rumus berikut:
 
@@ -37,7 +37,7 @@ Overall difficulty juga berefek pada spinner, dimana mereka harus memutar lebih 
 
 ## Notelock
 
-Di osu!standard, sistem timing tidak akan mengijinkan hit object untuk diselesaikan sampai objek sebelumnya sudah diselesaikan terlebih dahulu (atau terjadi miss setelah hit window diselesaikan). Ini bisa mengarah pada contoh dari **notelock** dimana pemain akan mendapatkan miss, meskipun mereka mengenainya dengan sempurna disaat beat tersinkronisasi. Ini lebih sering terjadi beaatmap yang memiliki nilai OD yang rendah, karena hit window dari hit object lebih sering saling melengkapi.
+Di osu!, sistem timing tidak akan mengijinkan hit object untuk diselesaikan sampai objek sebelumnya sudah diselesaikan terlebih dahulu (atau terjadi miss setelah hit window diselesaikan). Ini bisa mengarah pada contoh dari **notelock** dimana pemain akan mendapatkan miss, meskipun mereka mengenainya dengan sempurna disaat beat tersinkronisasi. Ini lebih sering terjadi beaatmap yang memiliki nilai OD yang rendah, karena hit window dari hit object lebih sering saling melengkapi.
 
 ## Efek mod
 

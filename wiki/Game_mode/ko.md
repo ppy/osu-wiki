@@ -6,21 +6,21 @@ no_native_review: true
 
 osu!는 4가지 **게임 모드**가 있는데: [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch), 그리고 [osu!mania](#-osu!mania)로 구성됩니다. 각각 독특한 게임플레이 구조로 되어 있으며, 다른 리듬 게임들로부터 영감을 받았습니다.
 
-각 게임모드는 아이콘/심볼을 가지고 있습니다: ![][o!s] ![][o!t] ![][o!c] ![][o!m] (osu!, osu!taiko, osu!catch, 그리고 osu!mania 순서).
+각 게임모드는 아이콘/심볼을 가지고 있습니다: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] (osu!, osu!taiko, osu!catch, 그리고 osu!mania 순서).
 
 기본 게임 모드는 osu!로 설정되어 있지만, osu!를 실행시키면 최근에 선택한 게임 모드로 설정됩니다. 노래 선택 화면 하단에 있는 `Mode` 버튼을 이용하거나, `Ctrl`+`1`, `Ctrl`+`2`, `Ctrl`+`3`, 또는 `Ctrl`+`4`를 눌러 osu!, osu!taiko, osu!catch, 그리고 osu!mania로 게임 모드를 변경할 수 있습니다.
 
 ![모드 선택 인터페이스](/wiki/shared/Interface_mode.png "모드 선택 인터페이스")
 
-## ![][o!s] osu!
+## ![][osu!] osu!
 
 *메인 문서: [osu!](osu!)*
 
-*osu!*(보통 *osu!standard*로 불립니다.)는 osu! 클라이언트의 기본 게임 모드이며, [iNiS'](https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EB%8B%88%EC%8A%A4 "위키백과")의 리듬 비디오 게임 *[오쓰! 싸워라! 응원단](https://ko.wikipedia.org/wiki/%EC%98%A4%EC%93%B0!_%EC%8B%B8%EC%9B%8C%EB%9D%BC!_%EC%9D%91%EC%9B%90%EB%8B%A8 "위키백과")*에 기반을 두고 있습니다. osu!에서 플레이어는 노래의 박자에 맞추어 히트 서클을 치고, 슬라이더를 누르거나 스피너를 돌려야 합니다.
+*osu!*는 osu! 클라이언트의 기본 게임 모드이며, [iNiS'](https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EB%8B%88%EC%8A%A4 "위키백과")의 리듬 비디오 게임 *[오쓰! 싸워라! 응원단](https://ko.wikipedia.org/wiki/%EC%98%A4%EC%93%B0!_%EC%8B%B8%EC%9B%8C%EB%9D%BC!_%EC%9D%91%EC%9B%90%EB%8B%A8 "위키백과")*에 기반을 두고 있습니다. osu!에서 플레이어는 노래의 박자에 맞추어 히트 서클을 치고, 슬라이더를 누르거나 스피너를 돌려야 합니다.
 
 ![osu! 게임플레이](/wiki/shared/osu-gameplay.jpg "osu! 게임플레이")
 
-## ![][o!t] osu!taiko
+## ![][osu!taiko] osu!taiko
 
 *메인 문서: [osu!taiko](osu!taiko)*
 
@@ -28,7 +28,7 @@ osu!는 4가지 **게임 모드**가 있는데: [osu!](#-osu!), [osu!taiko](#-os
 
 ![osu!taiko 게임플레이](/wiki/shared/taiko-gameplay.jpg "osu!taiko 게임플레이")
 
-## ![][o!c] osu!catch
+## ![][osu!catch] osu!catch
 
 *메인 문서: [osu!catch](osu!catch)*
 
@@ -36,7 +36,7 @@ osu!는 4가지 **게임 모드**가 있는데: [osu!](#-osu!), [osu!taiko](#-os
 
 ![osu!catch 게임플레이](/wiki/shared/catch-gameplay.jpg "osu!catch 게임플레이")
 
-## ![][o!m] osu!mania
+## ![][osu!mania] osu!mania
 
 *메인 문서: [osu!mania](osu!mania)*
 
@@ -44,7 +44,7 @@ osu!는 4가지 **게임 모드**가 있는데: [osu!](#-osu!), [osu!taiko](#-os
 
 ![osu!mania 게임플레이](/wiki/shared/mania-gameplay.jpg "osu!mania 게임플레이")
 
-[o!s]: /wiki/shared/mode/osu.png "osu!"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

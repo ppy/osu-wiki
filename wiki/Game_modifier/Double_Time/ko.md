@@ -21,13 +21,13 @@ no_native_review: true
 - 축약형: DT
 - 종류: 난이도 상승 모드
 - 점수 배수:
-  - ![][o!s]: 1.12x
-  - ![][o!t]: 1.12x
-  - ![][o!c]: 1.06x
-  - ![][o!m]: 1.00x
+  - ![][osu!]: 1.12x
+  - ![][osu!taiko]: 1.12x
+  - ![][osu!catch]: 1.06x
+  - ![][osu!mania]: 1.00x
 - 기본 단축키: `D`
 - 설명: `빨라아아아아아아아!!`
-- DT를 사용할 수 있는 osu!의 장르 ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- DT를 사용할 수 있는 osu!의 장르 ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - 같은 계열의 모드: [Nightcore](/wiki/Game_modifier/Nightcore)
 
 ## 상세 설명
@@ -36,7 +36,7 @@ no_native_review: true
 
 **더블 타임** 모드는 [비트맵](/wiki/Beatmap)의 속도를 1.5배 증가시킵니다. 또한 노래의 길이를 33% 줄이고 [전체적인 난이도(OD)](/wiki/Beatmapping/Overall_difficulty)와 [체력 감소량(HP)](/wiki/Beatmapping/Health)을 높이며 [원이 생기고 사라지기까지 걸리는 시간(AR)](/wiki/Beatmapping/Approach_rate)을 감소시키는 [모드](/wiki/Game_modifier)입니다.
 
-더블 타임 모드는 [osu!standard](/wiki/Game_mode/osu!)에서 쉬운 난이도의 맵을 플레이할 때 더 많은 [pp](/wiki/Performance_points)를 얻을 수 있는 가장 좋은 모드로 널리 이용되고 있습니다.
+더블 타임 모드는 [osu!](/wiki/Game_mode/osu!)에서 쉬운 난이도의 맵을 플레이할 때 더 많은 [pp](/wiki/Performance_points)를 얻을 수 있는 가장 좋은 모드로 널리 이용되고 있습니다.
 
 ### osu!taiko
 
@@ -57,7 +57,7 @@ no_native_review: true
 
 ![변경된 값](img/GM_DT.jpg "더블 타임 모드에 의해 변경되는 비트맵 값의 스크린샷")
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

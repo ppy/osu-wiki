@@ -22,7 +22,7 @@ tags:
 - Type: Difficulty Increasing
 - Score Multiplier: 1.00x
 - Default shortcut key: `F`
-- Compatible game modes: ![][o!m]
+- Compatible game modes: ![][osu!mania]
 - Variant: [Hidden](/wiki/Game_modifier/Hidden)
 
 ## Description
@@ -39,4 +39,4 @@ The fading size only stops when a 500x combo milestone is reached (at which poin
 
 - If a beatmap is passed with an S or SS grade with the Fade In mod enabled, said beatmap will award the silver variant of that grade instead.
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
