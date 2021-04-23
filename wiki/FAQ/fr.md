@@ -90,7 +90,7 @@ Si le game modifier [Auto Pilot](/wiki/Game_modifier/Autopilot) est utilisé, se
 
 ![Mode change interface](/wiki/shared/Interface_mode.png "Interface de changement de mode")
 
-Cliquez sur le bouton `Mode` pour **ouvrir une liste des modes de jeu disponibles sur osu!**. Cliquez sur le mode de jeu voulu. osu! changera donc de mode de jeu, les leaderboards se mettront également à jour. Autrement, appuyez sur `Ctrl` puis `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!)*) / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) sur votre clavier pour facilement changer de mode de jeu.
+Cliquez sur le bouton `Mode` pour **ouvrir une liste des modes de jeu disponibles sur osu!**. Cliquez sur le mode de jeu voulu. osu! changera donc de mode de jeu, les leaderboards se mettront également à jour. Autrement, appuyez sur `Ctrl` puis `1` (![][osu! icon] *[osu!](/wiki/Game_mode/osu!)*) / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) sur votre clavier pour facilement changer de mode de jeu.
 
 ### Qu'est-ce qu'osu!taiko?
 

@@ -20,7 +20,7 @@ tags:
 - Abbreviation: TP
 - Type: Special
 - Score Multiplier: 1.00x
-- Compatible game modes: ![][o!s]
+- Compatible game modes: ![][osu!]
 
 ## Description
 
@@ -32,11 +32,11 @@ During a play with the Target Practice mod enabled, players will be presented wi
 
 The mod's use is mostly for fun, but can also be used to practice maintaining a consistent tempo.
 
-![TP Gameplay](img/TP-gameplay.jpg "Gameplay of osu!standard with the Target Practice mod enabled")
+![TP Gameplay](img/TP-gameplay.jpg "osu! gameplay with the Target Practice mod enabled")
 
 ## Trivia
 
 - The Target Practice Mod will use the [combo colours](/wiki/Beatmapping/Combo#combo-colour) that are marked in the player's current [skin.ini](/wiki/Skinning/skin.ini) folder.
 - Upon failing a play with the Target Practice mod enabled, the player will be brought to the Ranking Screen, instead of a fail screen.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
+[osu!]: /wiki/shared/mode/osu.png "osu!"

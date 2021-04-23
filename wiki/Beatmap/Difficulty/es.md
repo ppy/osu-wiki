@@ -16,11 +16,11 @@ La dificultad de un beatmap *describe* el nivel de habilidad necesario para comp
 
 Desde los [Criterios de clasificación](/wiki/Ranking_Criteria), una calificación por estrellas de:
 
-- 1.50 estrellas y menos es Easy ![Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy")
-- 2.25 estrellas y menos es Normal ![Icono Normal](/wiki/shared/diff/normal-s.png "Icono Normal")
-- 3.75 estrellas y menos es Hard ![Ícono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard")
-- 5.25 estrellas y menos Insane ![Ícono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane")
-- 5.25 estrellas y más es Expert ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert")
+- 1.50 estrellas y menos es Easy ![Icono Easy](/wiki/shared/diff/easy-o.png "cono Easy")
+- 2.25 estrellas y menos es Normal ![Icono Normal](/wiki/shared/diff/normal-o.png "Icono Normal")
+- 3.75 estrellas y menos es Hard ![Ícono Hard](/wiki/shared/diff/hard-o.png "Ícono Hard")
+- 5.25 estrellas y menos Insane ![Ícono Insane](/wiki/shared/diff/insane-o.png "Ícono Insane")
+- 5.25 estrellas y más es Expert ![Icono de Expert](/wiki/shared/diff/expert-o.png "icono Expert")
 
 ### Iconos web
 
@@ -32,11 +32,11 @@ Los rangos de clasificación de estrellas determinan qué icono web se va a util
 
 ### osu!
 
-- ![Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy") Easy
-- ![Icono normal](/wiki/shared/diff/normal-s.png "Icono Normal") Normal
-- ![Icono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard") Hard
-- ![Icono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane") Insane
-- ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert") Expert
+- ![Icono Easy](/wiki/shared/diff/easy-o.png "cono Easy") Easy
+- ![Icono normal](/wiki/shared/diff/normal-o.png "Icono Normal") Normal
+- ![Icono Hard](/wiki/shared/diff/hard-o.png "Ícono Hard") Hard
+- ![Icono Insane](/wiki/shared/diff/insane-o.png "Ícono Insane") Insane
+- ![Icono de Expert](/wiki/shared/diff/expert-o.png "icono Expert") Expert
 
 ### osu!taiko
 

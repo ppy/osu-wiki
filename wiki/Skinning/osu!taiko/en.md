@@ -1,8 +1,6 @@
 # osu!taiko skinning
 
-*See also: [Skinning osu!taiko Tutorial](/wiki/Skinning_osu!taiko_Tutorial)*
-
-You can override the osu!taiko playfield parts by creating a folder called `taiko` inside your skin folder. If this approach is used, the user will need to explicitly enable this in the [options](/wiki/options) (enable the `Use Taiko skin for Taiko mode` button), otherwise the default skin elements will be used.
+You can override the osu!taiko playfield parts by creating a folder called `taiko` inside your skin folder. If this approach is used, the user will need to explicitly enable this in the [options](/wiki/Options) (enable the `Use Taiko skin for Taiko mode` button), otherwise the default skin elements will be used.
 
 ## Pippidon
 
@@ -38,7 +36,7 @@ Notes:
 - Animation name: `pippidonfail{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays when the player misses a note or does not have enough health during a break.
-- This overrides `pippidonkiai` if the player misses a note during [kiai time](/wiki/kiai_time).
+- This overrides `pippidonkiai` if the player misses a note during [kiai time](/wiki/Kiai_time).
 
 ---
 
@@ -70,7 +68,7 @@ Notes:
 
 - Animation name: `pippidonkiai{n}.png`.
 - The animation rate is BPM dependent.
-- This animation plays during [kiai time](/wiki/kiai_time).
+- This animation plays during [kiai time](/wiki/Kiai_time).
 - `pippidonfail.png` overrides this if the player misses a note during kiai time.
 
 ## Hit Bursts
@@ -249,7 +247,7 @@ Notes:
 Notes:
 
 - This element is used on the hit position as a border.
-- This element is also used in osu!standard.
+- This element is also used in [osu!](/wiki/Game_mode/osu!).
 
 ---
 
@@ -265,7 +263,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - Tinted yellow.
-- This element is behind the hit position during [kiai time](/wiki/kiai_time), expands when notes are hit.
+- This element is behind the hit position during [kiai time](/wiki/Kiai_time), expands when notes are hit.
 
 ---
 
@@ -282,7 +280,7 @@ Notes:
 - Tinted orange-red.
 - There isn't a need to skin this element for osu!taiko.
   - This element is only visible when using a transparent taiko bar.
-- This pulsates behind the scrolling bar on the hit position during [kiai time](/wiki/kiai_time).
+- This pulsates behind the scrolling bar on the hit position during [kiai time](/wiki/Kiai_time).
 
 ## Playfield (upper half)
 
@@ -472,7 +470,7 @@ Notes:
 
 Notes:
 
-- This element is also used in osu!standard.
+- This element is also used in [osu!](/wiki/Game_mode/osu!).
 - This are the ticks of the roll.
 
 ## Shaker
@@ -502,7 +500,7 @@ Notes:
 Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
-- This element is also used in [osu!standard](/wiki/osu!standard).
+- This element is also used in [osu!](/wiki/Game_mode/osu!).
 - For each hit in the spinner happens, the circle rotates anti-clockwise.
 
 ---
@@ -518,7 +516,7 @@ Notes:
 Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
-- This element is also used in [osu!standard](/wiki/osu!standard).
+- This element is also used in [osu!](/wiki/Game_mode/osu!).
 - This element is the duration indicator of the spinner.
   - This shrinks over time.
 
