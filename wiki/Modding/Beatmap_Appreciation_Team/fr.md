@@ -14,7 +14,7 @@ La **Beatmap Appreciation Team** (***BAT***, précédemment appelée *Beatmap Ap
 
 Avec la [Mapping Assistance Team (*MAT*)](/wiki/Modding/Mapping_Assistance_Team) jusqu'à leur fusion en avril 2013, les BAT étaient chargés d'évaluer la qualité des [beatmaps](/wiki/Beatmap) et de décider du contenu à intégrer dans la section [Ranked](/wiki/Beatmap/Category#ranked).
 
-Depuis le 15 mai 2013, les BAT sont régies par un groupe de [BAT Managers (*BATm*)](/wiki/Modding/BAT_Managers) qui supervisent leur fonctionnement et fournissent des conseils si nécessaire.
+Depuis le 15 mai 2013, les BAT sont gérés par un groupe de [BAT Managers (*BATm*)](/wiki/Modding/BAT_Managers) qui supervisent leur fonctionnement et fournissent des conseils si nécessaire.
 
 ## Histoire
 
@@ -22,9 +22,9 @@ Depuis le 15 mai 2013, les BAT sont régies par un groupe de [BAT Managers (*BAT
 
 La BAT a été formée dès 2008.
 
-Les membres potentiels des BAT pouvaient demander à les rejoindre en soumettant un échantillon de leur activité de modding et de leur expérience au cours des cycles alloués, et leur aptitude à devenir membre des BAT était examinée par les membres existants des BAT (et plus tard par les gestionnaires des BAT). La fréquence des cycles de candidature était déterminée par les BAT Managers. Il arrivait également que les BAT Managers invitent directement des utilisateurs présentant un potentiel exceptionnel.
+Les membres potentiels des BAT pouvaient demander à les rejoindre en soumettant un échantillon de leur activité de modding et de leur expérience au cours des cycles alloués, et leurs candidatures étaient examinées par les membres existants des BAT (et plus tard par les gestionnaires des BAT). La fréquence des cycles de candidature était déterminée par les BAT Managers. Il arrivait également que les BAT Managers invitent directement des utilisateurs présentant un potentiel exceptionnel.
 
-Le 21 août 2014, les membres actuels du BAT ont eu le choix de rester dans le BAT pour se concentrer sur la qualification des beatmaps (en abandonnant leurs pouvoirs et responsabilités de modération dans le processus), ou de faire la transition vers la nouvelle [Quality Assurance Team (*QAT*)](/wiki/Modding/Quality_Assurance_Team). Les membres restants du BAT se concentreront sur le processus de nomination des beatmaps pour la catégorie [Classé](/wiki/Beatmap/Category#ranked), tandis que QAT se concentrera sur la vérification de ces beatmaps [Qualifiées](/wiki/Beatmap/Category#qualified), et sur la disqualification de celles qu'ils considèrent comme ne respectant pas les [critères de classement](/wiki/Ranking_Criteria), ou manquant de qualité.
+Le 21 août 2014, les membres du BAT ont eu le choix entre rester dans le BAT pour se concentrer sur la qualification des beatmaps (en abandonnant leurs pouvoirs et responsabilités de modération dans le processus), ou de faire la transition vers la nouvelle [Quality Assurance Team (*QAT*)](/wiki/Modding/Quality_Assurance_Team). Les membres restants du BAT se concentreront sur le processus de nomination des beatmaps pour la catégorie [Classé](/wiki/Beatmap/Category#ranked), tandis que QAT se concentrera sur la vérification de ces beatmaps [Qualifiées](/wiki/Beatmap/Category#qualified), et sur la disqualification de celles qu'ils considèrent comme ne respectant pas les [critères de classement](/wiki/Ranking_Criteria), ou manquant de qualité.
 
 Le 31 janvier 2015, le groupe a été rebaptisé "Beatmap Appreciators", et peu après "Beatmap Nomination Group (*BNG*)" , qui est devenu par la suite les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). À cette époque, les règles d'admission de nouveaux membres au BAT ont été modifiées pour permettre une entrée par candidature uniquement sur une base mensuelle.
 
