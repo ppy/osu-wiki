@@ -10,9 +10,9 @@ tags:
 
 **Circle size** (***CS***) is a [beatmap](/wiki/Beatmap) difficulty setting that affects the size of [hit objects](/wiki/Hit_Objects). Circle size values range from 0 to 10, but only values from 2 to 7 can be chosen in the [beatmap editor](/wiki/Beatmap_Editor). Other values can be used by manually editing the [.osu file](/wiki/osu!_File_Formats/Osu_(file_format)) of a map.
 
-## osu!standard
+## osu!
 
-In osu!standard, circle size changes the size of hit circles and sliders, with higher values creating smaller hit objects. Spinners are unaffected by circle size. Circle size is derived through the following formula:
+In osu!, circle size changes the size of hit circles and sliders, with higher values creating smaller hit objects. Spinners are unaffected by circle size. Circle size is derived through the following formula:
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 

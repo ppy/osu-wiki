@@ -21,7 +21,7 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组
 
 ![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** 负责监督该项目并撰写新闻和论坛帖子，![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) 负责维护公共表格，并帮助版主管理有关 Loved 的讨论帖，最后是 ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)，![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) 和 ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) 负责检查谱面的元数据，这些元数据会用于社区投票。其余成员则是每一种模式的队长：
 
-### osu!standard 队长
+### osu! 队长
 
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)

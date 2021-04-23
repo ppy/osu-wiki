@@ -27,7 +27,6 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | 项目/社区的维护 & 精选艺术家推广 |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | 首席设计师 & Creative Cloud 常任观察员 |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | 摸图和作图圈的顾问 |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 世界杯的组织者和管理者 |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 摸图和作图圈的顾问 |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | osu!web 开发者 |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 基本秩序维护 & Moderation<!--NT--> 顾问 |
@@ -40,7 +39,7 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者 & osu!mania 爱好者 & bug 杀手 |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved 领导者 & 社区顾问 & 精选艺术家推广 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 基本秩序维护 & 赛事助手 |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 基本秩序维护 & 赛事助手 & wiki 维护 |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 基本秩序维护 & 世界杯的组织者和管理者 & wiki 维护 |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | 濒危物种 |
 
 ## 用户组
@@ -69,6 +68,7 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 组织者 & 世界杯直播员、组织者 |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发团队 & osz2/p2p 后端 |
 | ![][flag_US] Jim | 初代网页设计 & [Brave New Games](http://www.bravegamer.com/) |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 世界杯的组织者和管理者 |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 世界杯的组织和管理者 & QAT 领导者 & 社区管理 |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | 杰出皮肤设计者 & 为默认皮肤和图标的设计做出贡献 & [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! 开发团队 & mm 滑条创始人 |

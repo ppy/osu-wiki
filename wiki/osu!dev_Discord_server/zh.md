@@ -27,7 +27,7 @@ no_native_review: true
 | [osu!lazer](https://github.com/ppy/osu "Github 上的 ppy/osu 项目") | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework "Github 上的 ppy/osu-framework 项目") | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web "Github 上的 ppy/osu-web 项目") | `#osu-web` |
-| [osu!standard](/wiki/Game_mode/osu!) [星级](/wiki/Beatmapping/Star_rating)和 [PP](/wiki/Performance_Points) | `#difficulty-osu` |
+| [osu!](/wiki/Game_mode/osu!) [星级](/wiki/Beatmapping/Star_rating)和 [PP](/wiki/Performance_Points) | `#difficulty-osu` |
 | [osu!taiko](/wiki/Game_mode/osu!taiko) 星级和 PP | `#difficulty-taiko` |
 | [osu!catch](/wiki/Game_mode/osu!catch) 星级和 PP | `#difficulty-catch` |
 | [osu!mania](/wiki/Game_mode/osu!mania) 星级和 PP | `#difficulty-mania` |

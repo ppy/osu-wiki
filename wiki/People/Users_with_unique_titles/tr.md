@@ -181,7 +181,7 @@ Bu oyuncular ya oyunda çılgın bir başarım elde ederek ya da belirli bir zor
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) mapinde ilk NoMod FC skorunu yaptı |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | 3 Kasım 2019 itibariyle tüm Dereceli osu!taiko maplerini FC'ledi |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Belgelenmemiş* <!-- TODO: a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further --> |
-| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | 27 Nisan 2019 itibariyle tüm dereceli osu!standard maplerini oynadı |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | 27 Nisan 2019 itibariyle tüm dereceli osu! maplerini oynadı |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) yarışmasını kazandı |
 
 ### İştirakçılar

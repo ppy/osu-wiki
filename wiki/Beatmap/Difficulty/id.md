@@ -32,12 +32,12 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Insane
-- ![](/wiki/shared/diff/expert-s.png) Expert
-- ![](/wiki/shared/diff/expertplus-s.png) Expert+
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Insane
+- ![](/wiki/shared/diff/expert-o.png) Expert
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -72,11 +72,11 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 
 Situs web osu! secara otomatis mengelompokkan beatmap-beatmap yang diunggah ke dalam enam rentang tingkat kesulitan berdasarkan star rating dari beatmap yang bersangkutan sebagai berikut:
 
-- ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
-- ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
-- ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
-- ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
-- ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ atau lebih
+- ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-o.png) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-o.png) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ atau lebih
 
 Star rating suatu beatmap pada umumnya cukup menggambarkan seberapa sukar beatmap yang bersangkutan. Namun, dalam berbagai kasus, terdapat beatmap-beatmap yang pada kenyataannya jauh lebih mudah ataupun lebih sukar dibanding star rating yang tertera. Inilah mengapa [Ranking Criteria](/wiki/Ranking_Criteria) mendefinisikan aturan yang lebih spesifik untuk menentukan tingkat kesulitan yang sesuai untuk suatu beatmap.

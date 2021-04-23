@@ -80,7 +80,7 @@ The common notation to represent a difficulty setting and its value is the setti
 
 HP Drain Rate, commonly abbreviated as HP, determines the rate of health recovery from good hit scores and health punishment from bad hit scores. The value ranges from 0 to 10; higher HP values will give lower health recovery with higher health punishment.
 
-In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Glossary#life-bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Glossary#break).
+In osu! and osu!catch, this also affects the [Passive HP](/wiki/Glossary#life-bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Glossary#break).
 
 *Note: More HP is recovered with [Geki and Katu](/wiki/Score#osu!) hit scores, which can be given from the last hit object in a combo.*
 
@@ -90,7 +90,7 @@ In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Glossary
 
 *Note: This option is visible in osu!taiko, but it does not do anything that affects gameplay.*
 
-Circle Size, commonly abbreviated as CS, exists only in osu!standard and osu!catch. CS determines the size of hit objects or, more specifically in osu!catch, determines the size of the catcher and fruit. The values range from 2 to 7; higher CS values will make hit objects smaller. Using the highest value will make the hit objects as big as the cursor.
+Circle Size, commonly abbreviated as CS, exists only in osu! and osu!catch. CS determines the size of hit objects or, more specifically in osu!catch, determines the size of the catcher and fruit. The values range from 2 to 7; higher CS values will make hit objects smaller. Using the highest value will make the hit objects as big as the cursor.
 
 Most beatmaps use a value of 3 or 4, while a value of 5 or 6 is sometimes used and a value of 7 is almost never used. A value of 7 onwards is likely to be seen when using the [Hard Rock](/wiki/Game_modifier/Hard_Rock) mod.
 
@@ -110,7 +110,7 @@ Checking the `Co-op mode` checkbox will double the currently selected amount (fr
 
 *Note: This option is visible in osu!taiko and osu!mania, but it does not do anything that affects gameplay. This is mainly because both use a scroll speed, which is based on BPM (beats per minute).*
 
-Approach Rate, commonly abbreviated as AR, exists only in the osu!standard and osu!catch. The values range from 0 to 10; higher AR values will make the hit windows of hit objects shorter. AR indicates how long hit objects will stay on the screen, from the moment they appear until the time to tap/collect.
+Approach Rate, commonly abbreviated as AR, exists only in osu! and osu!catch. The values range from 0 to 10; higher AR values will make the hit windows of hit objects shorter. AR indicates how long hit objects will stay on the screen, from the moment they appear until the time to tap/collect.
 
 Higher Approach Rates mean that hit objects will be shown for a shorter period of time, thus giving less reaction time to plan ahead. Inversely, lower Approach Rates mean that hit objects will be shown on the screen for a longer time, allowing more time to react, but can result in an excessive amount of hit objects appearing on the screen at once if the AR is too low.
 
@@ -135,11 +135,11 @@ While Half Time and Double Time does not change the actual given AR value, the s
 
 Overall Difficulty, commonly abbreviated as OD, defines how difficult it is to achieve high accuracy. The values range from 0 to 10; higher OD values will require more accuracy and precision. Since accuracy is important for gaining HP, Overall Difficulty indirectly influences how hard it is to pass the beatmap. Higher OD values mean shorter time windows to clear the hit objects, both in general and terms of getting the highest score value from the hit object.
 
-In osu!standard, this also affects spinners, in which they must be spun more to fill up the gauge in time. In osu!taiko, the denden (osu!taiko spinner) will also need more hits to clear it.
+In osu!, this also affects spinners, in which they must be spun more to fill up the gauge in time. In osu!taiko, the denden (osu!taiko spinner) will also need more hits to clear it.
 
 *Note: This does imply that raising the OD too high can make previously possible spinners near impossible to clear on time.*
 
-In osu!standard, the timing system will not allow a hit object to be tapped until the previous object is tapped (or missed after the hit window passes); resulting in a miss. With a low OD value, the hit window of one hit object may overlap with the next. Thus, a player could hit the second hit object with perfect timing after failing to hit the first hit object but this would result in completely missing both hit objects due to the hit window of the first hit object being active.
+In osu!, the timing system will not allow a hit object to be tapped until the previous object is tapped (or missed after the hit window passes); resulting in a miss. With a low OD value, the hit window of one hit object may overlap with the next. Thus, a player could hit the second hit object with perfect timing after failing to hit the first hit object but this would result in completely missing both hit objects due to the hit window of the first hit object being active.
 
 ---
 
@@ -237,17 +237,17 @@ You can, however, include the skin elements inside the beatmap folder. As most c
 
 ![However, while playing, the game will slope them for the player.](img/stacking-playtest.jpg "Stacked hit objects while playing")
 
-In osu!standard, hit objects will automatically stack if they are both placed in the same spot while being close in-time. This is to help players see hit objects that overlap each other.
+In osu!, hit objects will automatically stack if they are both placed in the same spot while being close in-time. This is to help players see hit objects that overlap each other.
 
 Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. This option is best left as is to its default value of `7`.
 
-*Notice: Stacked hit circles in osu!standard will move towards the point where the stacking occurs.*
+*Notice: Stacked hit circles in osu! will move towards the point where the stacking occurs.*
 
 Objects are considered to belong to same stack if they are at the same coordinate and no further in-time than `[(Approach Window) * (Stack Leniency) / 10]`, where `Approach Window` is the duration for which objects stay on screen (see [Approach Rate](#approach-rate) above).
 
 ### Mode Specific
 
-`Allowed Modes` is a dropdown to confirm that the beatmap can only be played by the specified mode. Default setting is `All`, which means the creator will create an osu!standard beatmap that can be converted into the other game modes. This can be changed to be osu!taiko-specific, osu!catch-specific, or osu!mania-specific; but keep in mind that the change will remove every hit object in the beatmap.
+`Allowed Modes` is a dropdown to confirm that the beatmap can only be played by the specified mode. Default setting is `All`, which means the creator will create an osu! beatmap that can be converted into the other game modes. This can be changed to be osu!taiko-specific, osu!catch-specific, or osu!mania-specific; but keep in mind that the change will remove every hit object in the beatmap.
 
 *Note: Decide at the time of creation and confirm the beatmap's playable mode(s) first before adding in any hit objects to prevent wasted effort.*
 
