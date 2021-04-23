@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Results - Monthly Beatmapping Contest: March 2021"
-date: 2021-04-23 20:00:00 +0000
+date: 2021-04-23 19:30:00 +0000
 ---
 
 The jury is in! Results for last month's osu! and osu!taiko mapping contests are here along with our newest Elite Mapper!
