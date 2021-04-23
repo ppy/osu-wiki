@@ -54,11 +54,10 @@ The Ausu!Taiko Tournament 2019 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647), ![][flag_AU] [r1chyy](https://osu.ppy.sh/users/11499467), ![][flag_ID] [misaki\_tk](https://osu.ppy.sh/users/3866964), ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973), ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269), ![][flag_TH] [Ponamis](https://osu.ppy.sh/users/7897892), ![][flag_ID] [Naverlyn](https://osu.ppy.sh/users/14324722), ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) |
-| High | ![][flag_PH] [Aiery](https://osu.ppy.sh/users/10363380), ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125), ![][flag_SG] [Prehistoria](https://osu.ppy.sh/users/8364237), ![][flag_SG] [tzechi](https://osu.ppy.sh/users/4662795), ![][flag_PH] [ezeenS](https://osu.ppy.sh/users/3679969), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) |
-| Mid | ![][flag_TH] [ConieSan](https://osu.ppy.sh/users/2035344), ![][flag_MY] [CrabCow](https://osu.ppy.sh/users/9755504), ![][flag_PH] [CoEqual](https://osu.ppy.sh/users/14167247), ![][flag_PH] [Kotaro](https://osu.ppy.sh/users/796530), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_PH] [DescriptiCringe](https://osu.ppy.sh/users/10882115) |
-| Low | ![][flag_NZ] [arley\_](https://osu.ppy.sh/users/9039824), ![][flag_MY] [vun](https://osu.ppy.sh/users/6932501), ![][flag_NZ] [Bwhaa](https://osu.ppy.sh/users/7960435), ![][flag_PH] [qish](https://osu.ppy.sh/users/17050115), ![][flag_SG] [kuudere-desu](https://osu.ppy.sh/users/10694200), ![][flag_PH] [Astrid Park](https://osu.ppy.sh/users/12320451), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_MY] [nikolpai\_15](https://osu.ppy.sh/users/11584592) |
-| Unseeded | ![][flag_SG] [dantoh000](https://osu.ppy.sh/users/11414361), ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957), ![][flag_TH] [KappuChinooo](https://osu.ppy.sh/users/9582525), ![][flag_MY] [TaikOseania](https://osu.ppy.sh/users/14036825) |
+| Top | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647), ![][flag_AU] [remii](https://osu.ppy.sh/users/2913584), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_AU] [Aloda](https://osu.ppy.sh/users/1190127), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_ID] [steven1](https://osu.ppy.sh/users/3090416), ![][flag_SG] [salakau](https://osu.ppy.sh/users/5231504), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| High | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [OPMiss](https://osu.ppy.sh/users/10812080), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125), ![][flag_ID] [reyss](https://osu.ppy.sh/users/4557440), ![][flag_ID] o\_Owata, ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_NZ] [Bwhaa](https://osu.ppy.sh/users/7960435) |
+| Mid | ![][flag_MY] [xxXBabyMetalXxx](https://osu.ppy.sh/users/10508577), ![][flag_AU] [Pyrofermot](https://osu.ppy.sh/users/10801698), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_AU] [mhyykl](https://osu.ppy.sh/users/7012650), ![][flag_SG] [Kekneko](https://osu.ppy.sh/users/8414979), ![][flag_ID] [Viewland](https://osu.ppy.sh/users/6250135), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_AU] [Olympyss](https://osu.ppy.sh/users/10654844) |
+| Low | ![][flag_ID] [Kzl](https://osu.ppy.sh/users/7058490), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
 
 ## Groups
 
@@ -134,6 +133,7 @@ The Ausu!Taiko Tournament 2019 was run by various community members.
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philipipnes"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
