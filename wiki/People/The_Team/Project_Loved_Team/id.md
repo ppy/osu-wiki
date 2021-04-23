@@ -12,7 +12,7 @@ tags:
 
 ## Kapten
 
-Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpilih yang bertindak selaku *kapten* (*captain*) pada [mode permainannya](/wiki/Game_mode) masing-masing. Tiap-tiap kapten memiliki tanggung jawab untuk menominasikan beatmap-beatmap yang dianggap mewakili aspirasi komunitas secara luas ke dalam kategori Loved. Mereka juga menulis deskripsi singkat tentang beatmap-beatmap yang mereka nominasikan di setiap siklusnya.
+Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpilih yang bertindak selaku kapten (*captain*) pada [mode permainannya](/wiki/Game_mode) masing-masing. Tiap-tiap kapten memiliki tanggung jawab untuk menominasikan beatmap-beatmap yang dianggap mewakili aspirasi komunitas secara luas ke dalam kategori Loved. Mereka juga menulis deskripsi singkat tentang beatmap-beatmap yang mereka nominasikan di setiap siklusnya.
 
 ### osu!
 
@@ -46,14 +46,14 @@ Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpil
 
 ## Koordinator
 
-Koordinator secara langsung bertanggung jawab untuk memastikan semua kapten tetap bekerja sama menjalankan Project Loved dengan lancar. Koordinator bertugas untuk menulis berita dan memposting di forum, memelihara peralatan, serta membantu memoderasi diskusi tentang Loved.
+Koordinator secara garis besar bertanggung jawab untuk memastikan semua kapten saling bekerja sama antar satu sama lain demi kelancaran Project Loved. Mereka bertugas untuk menulis berita, membuat topik forum, memelihara sumber daya yang ada, serta mengawal opini publik seputar kategori Loved.
 
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
 
 ## Peninjau metadata beatmap
 
-Peninjau metadata bekerja memeriksa setiap beatmap yang akan disiapkan untuk pemungutan suara, serta bekerja sama dengan pembuat beatmap untuk memperbaiki setiap kesalahan pada metadata sebelum beatmap dipindahkan ke Loved.
+Peninjau metadata bertugas untuk memeriksa kesiapan setiap beatmap yang hendak dibawa ke tahapan pemungutan suara. Mereka bekerja sama dengan para pembuat beatmap untuk memperbaiki setiap kesalahan metadata yang ada sebelum beatmap-beatmap yang bersangkutan dipromosikan ke dalam kategori Loved.
 
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
@@ -77,7 +77,7 @@ Peninjau metadata bekerja memeriksa setiap beatmap yang akan disiapkan untuk pem
 ### Kapten-kapten osu!taiko
 
 - ![][flag_JP] [\_yu68](https://osu.ppy.sh/users/6170507)
-- ![][flag_TW] [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910)
+- ![][flag_TW] [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)
 - ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110)
 - ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
 - ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
@@ -117,7 +117,7 @@ Peninjau metadata bekerja memeriksa setiap beatmap yang akan disiapkan untuk pem
 ## Trivia
 
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) merupakan orang pertama yang ditugaskan untuk menyusun daftar kapten pada awal mula berdirinya Project Loved (September 2017) yang kala itu masih bernama [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-dan-project-loved-(sep-2017-–-hingga-sekarang)). Ia menjabat sebagai ketua dan pengelola utama Project Loved hingga akhir 2019.
-- Terdapat gugus pengguna (*usergroup*) Project Loved pada situs web osu! dengan ID grup 31. Gugus pengguna tersebut bersifat rahasia dan dibuat secara khusus bagi para [pengelola Project Loved](https://osu.ppy.sh/community/forums/120) untuk dapat memoderasi [forum Project Loved](https://osu.ppy.sh/community/forums/120) dan mempromosi beatmap masuk ke kategori Loved.
+- Terdapat gugus pengguna (*usergroup*) Project Loved pada situs web osu! dengan ID grup 31. Gugus pengguna tersebut bersifat rahasia dan dibuat secara khusus bagi para pengelola Project Loved agar mereka dapat memoderasi [forum Project Loved](https://osu.ppy.sh/community/forums/120) dan mempromosikan beatmap-beatmap ke dalam kategori Loved dengan mudah.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
@@ -127,7 +127,7 @@ Peninjau metadata bekerja memeriksa setiap beatmap yang akan disiapkan untuk pem
 [flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungaria"
-[flag_IT]: /wiki/shared/flag/IT.gif "Itali"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
