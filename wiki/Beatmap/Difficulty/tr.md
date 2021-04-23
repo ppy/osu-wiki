@@ -23,12 +23,12 @@ Bunlar bir beatmapin alabileceği tipik zorluk seviyeleridir. Bunların mutlak t
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Insane
-- ![](/wiki/shared/diff/expert-s.png) Expert
-- ![](/wiki/shared/diff/expertplus-s.png) Expert+
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Insane
+- ![](/wiki/shared/diff/expert-o.png) Expert
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -63,11 +63,11 @@ Bunlar bir beatmapin alabileceği tipik zorluk seviyeleridir. Bunların mutlak t
 
 Web sayfasında, beatmaplere aşağıdaki yıldız derecelerine göre bir zorluk simgesi otomatik olarak verilir:
 
-- ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
-- ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
-- ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
-- ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
-- ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ ve üzeri
+- ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-o.png) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-o.png) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ ve üzeri
 
 Pek çok mapin istenilen zorluk seviyesi onlara verilen ikonlara uyar, ancak bazıları bundan bariz biçimde sapar. Bundan ötürü [derecelendirme kriterleri](/wiki/Ranking_Criteria) zorluk hesaplama ve beatmap seti dağılımını değerlendirmek için daha kesin kurallar tanımlamıştır. 

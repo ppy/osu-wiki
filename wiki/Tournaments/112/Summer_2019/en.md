@@ -477,7 +477,7 @@ Monday, 22 July 2019:
 
 ### Tournament rules
 
-1. 112’s Summer Tournament 2019 is an osu!standard tournament only allowed for Turkish-speaking players regardless of their profile flags.
+1. 112’s Summer Tournament 2019 is an osu! tournament only allowed for Turkish-speaking players regardless of their profile flags.
 2. The tournament uses a qualifier into a double elimination bracket.
 3. Qualifiers and Group stage matches are in **single-player** format, the Elimination stage is planned as a **2-player team versus** setup.
 4. Beatmap scoring is based on Score V2.

@@ -2,6 +2,7 @@
 needs_cleanup: true
 outdated: true
 ---
+
 <!-- TODO: new types of medals have been added but aren't listed here yet -->
 
 # Medals
@@ -10,12 +11,12 @@ Medals, previously known as *achievements*, are badges on a user's profile which
 
 ## Beatmap Packs
 
-The **Beatmap Packs** medals can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme). You must play in [osu!standard](/wiki/osu!standard) to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme) and the badge.
+The **Beatmap Packs** medals can be obtained by **playing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme). You must play in the [osu!](/wiki/Game_mode/osu!) game mode to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme) and the badge.
 
 ### Requirements
 
 - The player must finish every beatmap once in any difficulty of the pack downloaded from [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme).
-- The played game mode must be osu!standard.
+- The played game mode must be osu!.
 - Extract the theme pack from the `.zip` file and place the contents into the `Songs` folder.
   - From here, open the osu! client and let the client parse the files before playing the beatmaps.
   - Alternatively, the player can download the songs inside manually one by one and it would still count.
@@ -32,7 +33,7 @@ The **Beatmap Packs** medals can be obtained by **playing every beatmap all the 
 
 The **Skill** medals are currently divided into three groups: Combo, High Ranker, and Star-based.
 
-The Combo medals can be obtained by gaining a specific [combo](/wiki/combo) in osu!standard and can be completed with any one song. Achieving the same combo count in [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), or [osu!mania](/wiki/osu!mania) mode will not result in getting the medal.
+The Combo medals can be obtained by gaining a specific [combo](/wiki/Beatmapping/Combo) in osu! and can be completed with any one song. Achieving the same combo count in [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), or [osu!mania](/wiki/Game_mode/osu!mania) mode will not result in getting the medal.
 
 For the 1,000 and 2,000 combo medals, you should look for sufficiently long beatmaps. **If the beatmap is not in the Ranked or Approved state, the medals will not be granted.**
 
@@ -46,7 +47,7 @@ The star-based medals are split into two groups, *Pass* and *S*. The *Pass* meda
 
 ## Dedication
 
-The **Dedication** medals can be obtained by playing a lot of osu!standard, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
+The **Dedication** medals can be obtained by playing a lot of osu!, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
 
 ## Mod Introduction
 

@@ -19,4 +19,4 @@ Kebanyakan musik modern, hanya menggunakan satu BPM sehingga hanya membutuhkan s
 
 ## Gameplay
 
-BPM juga memengaruhi elemen gameplay seperti [slider velocity](/wiki/Hit_Objects#slider-speed) di [osu!standard](/wiki/Game_mode/osu!), dan scroll speed pada [osu!mania](/wiki/Game_mode/osu!mania).
+BPM juga memengaruhi elemen gameplay seperti [slider velocity](/wiki/Hit_Objects#slider-speed) di [osu!](/wiki/Game_mode/osu!), dan scroll speed pada [osu!mania](/wiki/Game_mode/osu!mania).
