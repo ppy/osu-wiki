@@ -19,12 +19,12 @@ Pemenang [OWC 2020](/wiki/Tournaments/OWC/2020) dengan gelar **osu! Champion**:
 - ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
-Pemenang [TWC 2020](/wiki/Tournaments/TWC/2020) dengan gelar **osu!taiko Champion**:
+Pemenang [TWC 2021](/wiki/Tournaments/TWC/2021) dengan gelar **osu!taiko Champion**:
 
 - ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
-- ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
-- ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196)
+- ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073)
 - ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950)
+- ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
 Pemenang [CWC 2020](/wiki/Tournaments/CWC/2020) dengan gelar **osu!catch Champion**:
@@ -67,6 +67,7 @@ Sebagian besar kontes mapping resmi menawarkan gelar **Elite Mapper** sebagai ha
 - ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)
 - ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023)
 - ![][flag_AU] [m980](https://osu.ppy.sh/users/3288)
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
 - ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993)
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
@@ -255,10 +256,10 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) | osu! Champion |
 | ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072) | Elite Mapper |
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | Elite Mapper |
+| ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073) | osu!taiko Champion |
 | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387) | osu!mania Champion |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Elite Mapper |
-| ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko Champion |
 | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) | osu! Champion |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator |
@@ -269,7 +270,6 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603) | osu! Champion |
 | ![][flag_JP] [kanki2](https://osu.ppy.sh/users/9595391) | Featured Artist |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | Featured Artist |
-| ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196) | osu!taiko Champion |
 | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
@@ -283,6 +283,7 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | osu!mania Champion |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | Elite Mapper |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Elite Mapper |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Elite Nominator |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
@@ -324,6 +325,7 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
 | ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296) | osu! Champion |
+| ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) | osu!taiko Champion |
 | ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520) | osu!catch Champion |
 | ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
 | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | osu!artist |
