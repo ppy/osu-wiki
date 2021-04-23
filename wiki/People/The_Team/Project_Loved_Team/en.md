@@ -75,7 +75,7 @@ Metadata reviewers check through every beatmap that will be put up for voting, a
 ### osu!taiko captains
 
 - ![][flag_JP] [\_yu68](https://osu.ppy.sh/users/6170507)
-- ![][flag_TW] [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910)
+- ![][flag_TW] [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)
 - ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110)
 - ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
 - ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)

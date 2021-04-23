@@ -77,7 +77,7 @@ Metaveri denetçileri oylamaya sunulacak her bir mapi kontrol eder, ve mapperlar
 ### osu!taiko kaptanları
 
 - ![][flag_JP] [\_yu68](https://osu.ppy.sh/users/6170507)
-- ![][flag_TW] [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910)
+- ![][flag_TW] [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)
 - ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110)
 - ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
 - ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
