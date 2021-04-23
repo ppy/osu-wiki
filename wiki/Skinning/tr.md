@@ -17,7 +17,7 @@ Tema yapımı osu!'nun olmazsa olmaz özelliklerinden biridir. Bu, oyuncuların 
 Tema yapma elementlerinin listesi aşağıdaki kategorilere ayrılmıştır:
 
 - [Arayüz Tema Yapımı](/wiki/Skinning/Interface)
-- [osu!standard Tema Yapımı](/wiki/Skinning/osu!)
+- [osu! Tema Yapımı](/wiki/Skinning/osu!)
 - [osu!taiko Tema Yapımı](/wiki/Skinning/osu!taiko)
 - [osu!catch Tema Yapımı](/wiki/Skinning/osu!catch)
 - [osu!mania Tema Yapımı](/wiki/Skinning/osu!mania)

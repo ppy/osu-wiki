@@ -19,7 +19,7 @@ needs_cleanup: true
 Список элементов скиннига разделен на следующие категории:
 
 - [Изменение интерфейса в скине](/wiki/Skinning/Interface)
-- [Изменение скина для osu!standard](/wiki/Skinning/osu!)
+- [Изменение скина для osu!](/wiki/Skinning/osu!)
 - [Изменение скина для osu!taiko](/wiki/Skinning/osu!taiko)
 - [Изменение скина для osu!catch](/wiki/Skinning/osu!catch)
 - [Изменение скина для osu!mania](/wiki/Skinning/osu!mania)

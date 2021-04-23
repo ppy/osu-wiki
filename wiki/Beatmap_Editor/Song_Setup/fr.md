@@ -84,7 +84,7 @@ La notation courante pour représenter un réglage de difficulté et sa valeur e
 
 Le taux de drainage HP, communément abrégé en HP, détermine le taux de récupération de la santé à partir de bons scores de coups et la punition de la santé à partir de mauvais scores de coups. La valeur varie de 0 à 10 ; des valeurs de HP plus élevées donneront une récupération de santé plus faible avec une punition de santé plus élevée.
 
-Dans osu!standard et osu!catch, cela affecte également le [Passive HP](/wiki/Passive_HP) (la vitesse constante à laquelle HP diminue, sauf pendant les[Breaks](/wiki/Breaks).
+Dans osu! et osu!catch, cela affecte également le [Passive HP](/wiki/Passive_HP) (la vitesse constante à laquelle HP diminue, sauf pendant les[Breaks](/wiki/Breaks).
 
 *Remarque : Plus de HP est récupéré avec [Geki and Katu](/wiki/Score#osu) les scores de coups, qui peuvent être donnés à partir du dernier objet touché dans un combo.*
 
@@ -94,7 +94,7 @@ Dans osu!standard et osu!catch, cela affecte également le [Passive HP](/wiki/Pa
 
 *Remarque : Cette option est visible dans osu!taiko, mais elle ne fait rien qui affecte le gameplay.*
 
-La taille du cercle, communément abrégée en CS, n'existe que dans osu!standard et osu!catch. CS détermine la taille des objets touchés ou, plus précisément dans osu!catch, détermine la taille du receveur et du fruit. Les valeurs vont de 2 à 7 ; des valeurs CS plus élevées rendront les objets touchés plus petits. L'utilisation de la valeur la plus élevée rendra les objets touchés aussi gros que le curseur.
+La taille du cercle, communément abrégée en CS, n'existe que dans osu! et osu!catch. CS détermine la taille des objets touchés ou, plus précisément dans osu!catch, détermine la taille du receveur et du fruit. Les valeurs vont de 2 à 7 ; des valeurs CS plus élevées rendront les objets touchés plus petits. L'utilisation de la valeur la plus élevée rendra les objets touchés aussi gros que le curseur.
 
 La plupart des beatmaps utilisent une valeur de 3 ou 4, alors qu'une valeur de 5 ou 6 est parfois utilisée et qu'une valeur de 7 n'est presque jamais utilisée. Une valeur de 7 et plus est susceptible d'être vue lorsque l'on utilise le mod [Hard Rock](/wiki/HR).
 
@@ -112,7 +112,7 @@ Si vous cochez la case `Mode Co-op`, le montant actuellement sélectionné sera 
 
 *Remarque : Cette option est visible dans osu!taiko et osu!mania, mais elle ne fait rien qui affecte le gameplay. C'est principalement parce que les deux utilisent une vitesse de défilement, qui est basée sur le BPM (battements par minute).*
 
-Le taux d'approche, communément abrégé en AR, n'existe que dans osu!standard et osu!catch. Les valeurs vont de 0 à 10 ; des valeurs AR plus élevées rendront les fenêtres de frappe des objets frappés plus courtes. AR indique combien de temps les objets frappés resteront à l'écran, à partir du moment où ils apparaissent jusqu'au moment de taper/recueillir.
+Le taux d'approche, communément abrégé en AR, n'existe que dans osu! et osu!catch. Les valeurs vont de 0 à 10 ; des valeurs AR plus élevées rendront les fenêtres de frappe des objets frappés plus courtes. AR indique combien de temps les objets frappés resteront à l'écran, à partir du moment où ils apparaissent jusqu'au moment de taper/recueillir.
 
 Des taux d'approche plus élevés signifient que les objets touchés seront montrés pendant une période plus courte, ce qui donne moins de temps de réaction pour planifier à l'avance. Inversement, des vitesses d'approche plus faibles signifient que les objets touchés seront affichés à l'écran plus longtemps, ce qui laisse plus de temps pour réagir, mais peuvent entraîner l'apparition d'une quantité excessive d'objets touchés à l'écran en même temps si AR est trop faible.
 
@@ -137,11 +137,11 @@ Bien que le Half Time et le Double Time ne changent pas la valeur AR réelle don
 
 La difficulté globale, communément abrégée en OD, définit la difficulté à atteindre une haute précision. Les valeurs vont de 0 à 10 ; des valeurs de OD plus élevées nécessiteront plus de précision et d'exactitude. Comme la précision est importante pour obtenir des HP, la Difficulté Globale influence indirectement la difficulté à passer la carte de rythme. Des valeurs OD plus élevées signifient des fenêtres de temps plus courtes pour nettoyer les objets touchés, à la fois en général et en termes d'obtention de la valeur de score la plus élevée de l'objet touché.
 
-En osu!standard, cela concerne également les pirouettes, dans lesquelles il faut les faire tourner davantage pour remplir la jauge à temps. Dans osu!taiko, le denden (spinner osu!taiko) aura aussi besoin de plus de coups pour le dégager.
+En osu!, cela concerne également les pirouettes, dans lesquelles il faut les faire tourner davantage pour remplir la jauge à temps. Dans osu!taiko, le denden (spinner osu!taiko) aura aussi besoin de plus de coups pour le dégager.
 
 *Remarque : Ceci implique que le fait de relever le OD trop haut peut rendre des spinners précédemment possibles presque impossibles à dégager à temps.*
 
-Dans osu!standard, le système de chronométrage ne permet pas de frapper un objet jusqu'à ce que l'objet précédent soit frappé (ou manqué après le passage de la fenêtre de frappe), ce qui entraîne un échec. Avec une valeur OD basse, la fenêtre de frappe d'un objet peut se chevaucher avec la suivante. Ainsi, un joueur pourrait frapper le second objet avec un timing parfait après avoir échoué à frapper le premier objet, mais cela aurait pour résultat de manquer complètement les deux objets en raison de la fenêtre de frappe du premier objet actif.
+Dans osu!, le système de chronométrage ne permet pas de frapper un objet jusqu'à ce que l'objet précédent soit frappé (ou manqué après le passage de la fenêtre de frappe), ce qui entraîne un échec. Avec une valeur OD basse, la fenêtre de frappe d'un objet peut se chevaucher avec la suivante. Ainsi, un joueur pourrait frapper le second objet avec un timing parfait après avoir échoué à frapper le premier objet, mais cela aurait pour résultat de manquer complètement les deux objets en raison de la fenêtre de frappe du premier objet actif.
 
 ---
 
@@ -239,17 +239,17 @@ Vous pouvez cependant inclure les éléments de skin à l'intérieur du dossier 
 
 ![Cependant, en jouant, le jeu les inclinera pour le joueur.](img/stacking-playtest.jpg "Objets touchés empilés pendant le jeu")
 
-Dans osu!standard, les objets frappés s'empilent automatiquement s'ils sont tous les deux placés au même endroit tout en étant proches dans le temps. Ceci pour aider les joueurs à voir les objets touchés qui se chevauchent.
+Dans osu!, les objets frappés s'empilent automatiquement s'ils sont tous les deux placés au même endroit tout en étant proches dans le temps. Ceci pour aider les joueurs à voir les objets touchés qui se chevauchent.
 
 En déplaçant le curseur vers la droite, la "proximité" des objets touchés sera espacée dans le temps avant que l'empilage n'ait lieu. [Rules](/wiki/rc_osu!#gameplay) dictent que si `Stack Leniency` est réglé pour que l'empilement ne se produise plus, le créateur doit manuellement décaler les objets touchés. Il est préférable de laisser cette option telle quelle, avec sa valeur par défaut `7`.
 
-*Avis : Les cercles de frappe empilés dans osu!standard se déplaceront vers le point où l'empilement se produit.*
+*Avis : Les cercles de frappe empilés dans osu! se déplaceront vers le point où l'empilement se produit.*
 
 Les objets sont considérés comme appartenant à la même pile s'ils sont à la même coordonnée et pas plus loin dans le temps que `[(Approach Window) * (Stack Leniency) / 10]`, ou `Approach Window` est la durée pendant laquelle les objets restent à l'écran (voir [Approach Rate](#taux-d'approche) plus haut).
 
 ### Mode spécifique
 
-`Allowed Modes` est un menu déroulant qui confirme que le beatmap ne peut être joué que par le mode spécifié. Le réglage par défaut est `All`, ce qui signifie que le créateur va créer un beatmap osu!standard qui peut être converti dans les autres modes de jeu. Il peut être modifié pour être spécifique à osu!taiko, osu!catch ou osu!mania ; mais gardez à l'esprit que le changement supprimera tous les objets touchés dans le beatmap.
+`Allowed Modes` est un menu déroulant qui confirme que le beatmap ne peut être joué que par le mode spécifié. Le réglage par défaut est `All`, ce qui signifie que le créateur va créer un beatmap osu! qui peut être converti dans les autres modes de jeu. Il peut être modifié pour être spécifique à osu!taiko, osu!catch ou osu!mania ; mais gardez à l'esprit que le changement supprimera tous les objets touchés dans le beatmap.
 
 *Remarque : Décidez au moment de la création et confirmez le(s) mode(s) jouable(s) du beatmap avant d'ajouter tout objet de frappe pour éviter de gaspiller l'effort.*
 

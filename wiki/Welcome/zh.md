@@ -1,6 +1,6 @@
 # 欢迎
 
-欢迎来到 osu!，一款由 peppy 开发的有着以下四个模式的音乐游戏： osu!standard ——戳泡泡、 osu!taiko ——打太鼓、 osu!catch ——接水果、 osu!mania ——敲键盘。
+欢迎来到 osu!，一款由 peppy 开发的有着以下四个模式的音乐游戏： osu! ——戳泡泡、 osu!taiko ——打太鼓、 osu!catch ——接水果、 osu!mania ——敲键盘。
 
 ## 可能感兴趣的内容
 
@@ -9,13 +9,13 @@
 - [规章制度](/wiki/Rules)
 - [常见问题](/wiki/FAQ)
 - [游戏模式](/wiki/Game_mode)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [多人游戏](/wiki/Multi)
 - [Rank 标准](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
