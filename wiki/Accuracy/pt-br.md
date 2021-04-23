@@ -19,9 +19,9 @@ Em termos simples,
 
 ## Modos de Jogo
 
-### ![](/wiki/shared/mode/osu.png) osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!
 
-No [osu!standard](/wiki/Game_mode/osu!), a precisão é calculada ao pesar o julgamento recebido por cada nota (em função seu respectivo valor) e dividir pela pontuação máxima atribuível a ela.
+No [osu!](/wiki/Game_mode/osu!), a precisão é calculada ao pesar o julgamento recebido por cada nota (em função seu respectivo valor) e dividir pela pontuação máxima atribuível a ela.
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
@@ -67,7 +67,7 @@ Note que caso esteja usando a API para calcular a precisão, a quantidade de dro
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-No [osu!mania](/wiki/Game_mode/osu!mania), a precisão é calculada de modo similar ao [osu!standard](/wiki/Game_mode/osu!).
+No [osu!mania](/wiki/Game_mode/osu!mania), a precisão é calculada de modo similar ao [osu!](#-osu!).
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
@@ -103,7 +103,7 @@ Informações adicionais são mostradas quando o cursor do jogo é passado por c
 
 #### Spin
 
-*Spin é somente para o [osu!standard](/wiki/Game_mode/osu!)*
+*Spin é somente para o [osu!](/wiki/Game_mode/osu!)*
 
 | Termo | Significado |
 | :-- | :-- |

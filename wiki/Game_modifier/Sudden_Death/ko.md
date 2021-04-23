@@ -23,7 +23,7 @@ tags:
 - 점수 배수: 1.00x
 - 기본 단축키: `S`
 - 설명: `노트를 놓치는 순간 너의 목숨은 없다.`
-- SD를 사용할 수 있는 osu!의 장르: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- SD를 사용할 수 있는 osu!의 장르: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - 같은 계열의 모드: [퍼펙트](/wiki/Game_modifier/Perfect)
 
 ## 상세 설명
@@ -33,7 +33,7 @@ tags:
 좀 더 자세히 설명하자면, 아래의 경우 **실패하게 됩니다**.
 
 - 노트를 놓친 경우
-- 슬라이더 틱을 한개라도 놓친 경우 (osu!standard만 해당)
+- 슬라이더 틱을 한개라도 놓친 경우 (osu!만 해당)
 - 스피너를 돌리지 못한 경우
 
 서든 데스 모드는 아래의 경우 **실패 처리되지 않습니다**.
@@ -47,10 +47,10 @@ tags:
 
 ### 그 외
 
-- [osu!standard](/wiki/Game_mode/osu!)의 경우, 서든 데스가 활성화된 상태에서 노트를 놓칠 경우 더 커다란 미스 표시가 뜹니다.
-- osu!standard 에서 서든 데스 모드가 활성화 된 상태일 때, 플레이어가 체력바의 체력이 전부 소모되어 콤보 카운트를 깨고 실패하는 경우는 드뭅니다. 콤보와 최소한의 HP를 유지할 수 있다면 비트맵을 계속해서 플레이할 수 있고, 더 커다란 미스 표시가 뜨지 않을 것입니다.
+- [osu!](/wiki/Game_mode/osu!)의 경우, 서든 데스가 활성화된 상태에서 노트를 놓칠 경우 더 커다란 미스 표시가 뜹니다.
+- osu! 에서 서든 데스 모드가 활성화 된 상태일 때, 플레이어가 체력바의 체력이 전부 소모되어 콤보 카운트를 깨고 실패하는 경우는 드뭅니다. 콤보와 최소한의 HP를 유지할 수 있다면 비트맵을 계속해서 플레이할 수 있고, 더 커다란 미스 표시가 뜨지 않을 것입니다.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

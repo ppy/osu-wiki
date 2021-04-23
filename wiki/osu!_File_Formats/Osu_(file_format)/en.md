@@ -22,6 +22,7 @@ The following content is separated into sections, indicated by section titles in
 ## General
 
 <!-- TODO: this is missing some functional options that are leftover from very old file formats -->
+
 | Option | Value type | Description | Default value |
 | :-- | :-- | :-- | :-- |
 | `AudioFilename` | String | Location of the audio file relative to the current folder |  |
@@ -279,7 +280,7 @@ If the slider's `length` is longer than the defined curve, the slider will exten
 - For bézier, catmull, and linear curves, it continues in a straight line from the end of the curve.
 - For perfect circle curves, it continues the circular arc.
 
-*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (assuming `beatLength` has been adjusted for inherited timing points).*
+*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier*100)*beatLength` tells how many milliseconds it takes to complete one slide of the slider (assuming `beatLength` has been adjusted for inherited timing points).*
 
 #### Slider hitsounds
 
@@ -336,7 +337,7 @@ The third object is a slider:
 
 <!-- TODO: specific details about all of the other game modes (this article should provide everything necessary to parse a .osu file)
 
-also there is no info about how they convert to other game modes from an osu!standard beatmap -->
+also there is no info about how they convert to other game modes from an osu! beatmap -->
 
 ### osu!taiko
 

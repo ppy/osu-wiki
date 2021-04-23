@@ -5,11 +5,13 @@ tags:
 ---
 
 # osu! Z-Tournament 2018
+
 ![osu!Z-Tournament 2018](img/OZT2018.png)
 
-The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, hosted by BearZyo and Div. This is the 5th iteration of the Z-Tournament series; the previous iteration could be found [**here**](https://osu.ppy.sh/community/forums/topics/580366).
+The **osu! Z-Tournament 2018**, is a 4v4 international osu! tournament, hosted by BearZyo and Div. This is the 5th iteration of the Z-Tournament series; the previous iteration could be found [**here**](https://osu.ppy.sh/community/forums/topics/580366).
 
 ## Links
+
 - [OZT2018 Discord server](https://discord.gg/29RmHDQ)
 - [OZT2018 Twitch stream](https://www.twitch.tv/ztournament)
 - [OZT2018 Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24OMXj6iKV2XeAHADas4JtTGi1E_dAfxeiAMt4-j_smF62yWz92H03LUrLkLjltk9M6zHz7iQSHlk/pubhtml)
@@ -18,6 +20,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 - [OZT2018 osu! Forum post](https://osu.ppy.sh/community/forums/topics/735631)
 
 ## General tournament rules
+
 - Score system: Scorev2
 - This tournament will hold up to 64 teams, with 6 players at minimum and 8 players at maximum in each team.
 - There will be a qualifications round where all teams will play through a pool and the top 32 teams will advance, afterwards the Bracket stages will be double elimination
@@ -27,6 +30,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 - Any misconduct will result in a punishment.
 - Any further questions must be forwarded to [**BearZyo**](https://osu.ppy.sh/users/6116759) or [**Div**](https://osu.ppy.sh/users/3751116)
 - [OZT2018 Ruleset](https://docs.google.com/document/d/1JailsFw7ZMr9svB_gxxd0uMX2yCkhw7CY4VX4M4TTQs/edit?usp=sharing) will contain rules in detail.
+
 ## Tournament schedule
 
 | Event | Timestamp (YYYY-MM-DD) |
@@ -42,6 +46,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 | Grand Finals | 2018-07-14 / 2018-07-15 |
 
 ## Prizes
+
 - The prizes are subject to change throughout the tournament.
 
 | Place | Prize |
@@ -51,9 +56,11 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | TBD |
 
 ## Brackets
+
 - TBA: 2018-06-11
 
 ## Registrations
+
 [**Register your team here!**](https://docs.google.com/forms/d/e/1FAIpQLSeNBB5MHAsdFCYxbHYR3v97OIHzCbUNRErOVYf023VAkGnGaQ/viewform) Remember, all team members must join the discord for the team to be eligible to play. There are no rank limits, therefore allowing any player to join.
 
 **Team admission will be decided through their PP average**, which means that the teams with the highest PP average will take priority.
@@ -65,6 +72,7 @@ Don't have a team? You're in the right place! Fill in the [**Free Agent Registra
 Be aware that becoming a free agent will **not guarantee a spot for playing in the tournament**.
 
 ## Staff
+
 | Role | Member(s) |
 | --: | :-- |
 | Host | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759) |

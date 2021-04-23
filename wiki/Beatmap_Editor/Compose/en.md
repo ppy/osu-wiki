@@ -17,6 +17,7 @@ For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 ### Top-Left (Hit Objects Timeline)
 
 <!-- TODO find the article that links to this and possibly redirect to here instead (why is this shared?) -->
+
 ![Hit Objects Timeline](/wiki/shared/BE_NTL.jpg "Hit Objects Timeline")
 
 **Shows the timeline for hit objects with respect to Beat Snap Divisor and timestamp.**
@@ -91,7 +92,7 @@ Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
 
 **Your construction toolkit, made for DIY (do it yourself).**
 
-**Please note that in osu!standard's default notes hitsounds works differently in osu!mania.**
+**Please note that in osu!, default note hitsounds work differently than in osu!mania.**
 
 - Adding clap on a notes will play `hitclap` + `hitnormal` sound on hit while in osu!mania: will only play `hitclap` sound on hit
 
