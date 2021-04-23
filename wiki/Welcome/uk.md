@@ -1,6 +1,6 @@
 # Ласкаво просимо
 
-Ласкаво просимо в osu!, безплатна ритм гра, розроблена peppy з чотирма ігровими режимами: osu!standard - симулятор натискання по кругам; osu!taiko - емулятор барабана; osu!catch - ловець фруктів; і osu!mania - емулятор ударів по клавішам.
+Ласкаво просимо в osu!, безплатна ритм гра, розроблена peppy з чотирма ігровими режимами: osu! - симулятор натискання по кругам; osu!taiko - емулятор барабана; osu!catch - ловець фруктів; і osu!mania - емулятор ударів по клавішам.
 
 ## Популярні теми
 
@@ -9,13 +9,13 @@
 - [Правила](/wiki/Rules)
 - [ЧаПи](/wiki/FAQ)
 - [Ігрові режими](/wiki/Game_mode)
-  - ![піктограма osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![піктограма osu!](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![піктограма osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![піктограма osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![піктограма osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Мультиплеєр](/wiki/Multi)
 - [Критерії Ранкінгу](/wiki/Ranking_Criteria)
-  - ![піктограма osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![піктограма osu!](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![піктограма osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![піктограма osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![піктограма osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)

@@ -114,7 +114,7 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 - `S`, puis `S`: [Perfect](/wiki/Perfect)
 - `D`: [Double Time](/wiki/Double_Time)
 - `D`, puis `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, et osu!catch)
+- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, et osu!catch)
   - cela activera [Fade In](/wiki/Fade_In) pour osu!mania
 - `F`, puis `F`: [Hidden](/wiki/Hidden) (seulement pour osu!mania)
 - `G`: [Flashlight](/wiki/Flashlight)

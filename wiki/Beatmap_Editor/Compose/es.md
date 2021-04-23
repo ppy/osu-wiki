@@ -17,6 +17,7 @@ Comenzando desde izquierda a derecha y de arriba hacia abajo)
 ### Esquina superior izquierda (Linea de Tiempo de los Objetos golpeables)
 
 <!-- TODO find the article that links to this and possibly redirect to here instead (why is this shared?) -->
+
 ![Linea de Tiempo de los Objetos golpeables](/wiki/shared/BE_NTL.jpg "Linea de Tiempo de los Objetos golpeables")
 
 **Muestra la línea de tiempo para los objetos golpeables con respecto al Divisor de ritmo y la marca de tiempo.**
@@ -91,7 +92,7 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 
 **Su kit de herramientas de construcción, hecho para DIY ("Do it yourself": hágalo usted mismo).**
 
-**Ten en cuenta que en las notas predeterminadas de osu!standard, los sonidos de golpe funcionan de manera diferente que en osu!mania.**
+**Ten en cuenta que en las notas predeterminadas de osu!, los sonidos de golpe funcionan de manera diferente que en osu!mania.**
 
 - Al poner aplausos en una nota, se reproducirá el sonido `hitclap` + `hitnormal` al golpear mientras está en osu!mania: solo se reproducirá el sonido de `hitclap` al golpear
 

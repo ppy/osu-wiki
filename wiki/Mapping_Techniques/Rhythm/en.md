@@ -30,7 +30,7 @@ Angles between 10 and 80 degrees can also be used.
 
 ### Accelerated Spacing
 
-_Not to be confused with [Spacing Out](#spacing-out)._
+*Not to be confused with [Spacing Out](#spacing-out).*
 
 Nominator(s): [Gabi](https://osu.ppy.sh/users/57057)
 
@@ -60,11 +60,11 @@ When playing a beatmap using this technique, it can be very challenging to play 
 
 Nominator(s): [SapphireGhost](https://osu.ppy.sh/users/388602)
 
-Drain sections is a section in a beatmap that suddenly becomes _slower_ or _less difficult_ in an attempt to either match the song better or cause the HP bar to drain.
+Drain sections is a section in a beatmap that suddenly becomes *slower* or *less difficult* in an attempt to either match the song better or cause the HP bar to drain.
 
 This can be done by placing less notes and/or slowing the slider speed.
 
-Drain sections should be used sparingly and only when the song may _hint_ it.
+Drain sections should be used sparingly and only when the song may *hint* it.
 
 ### Half-Backing
 
@@ -100,7 +100,7 @@ It is very important that the mapper makes it clear as to the direction of where
 
 ### Spacing Out
 
-_Not to be confused with [Accelerated Spacing](#accelerated-spacing)_
+*Not to be confused with [Accelerated Spacing](#accelerated-spacing)*
 
 Nominator(s): [Pasonia](https://osu.ppy.sh/users/43345)
 
@@ -130,7 +130,7 @@ Slider slowdowns abruptly slows down a slider by temporarily halving an inherite
 
 ## Streams
 
-_See [Mapping Techniques/Basics](/wiki/Mapping_Techniques/Basics#streams) for a description on streams._
+*See [Mapping Techniques/Basics](/wiki/Mapping_Techniques/Basics#streams) for a description on streams.*
 
 ### Compressed Streams
 
@@ -145,29 +145,29 @@ A majority of maps that uses streams are most likely to be seen using compressed
 
 Nominator(s): [benguin](https://osu.ppy.sh/users/1322807)
 
-Discontinuous streams is when there is a _jump_ in the stream even if the timing between the notes in the jump are the same length as the timing between notes in the rest of the stream.
+Discontinuous streams is when there is a *jump* in the stream even if the timing between the notes in the jump are the same length as the timing between notes in the rest of the stream.
 
 ### Deathstreams
 
 Nominator(s): [NoHItter](https://osu.ppy.sh/users/124455)
 
-Deathstreams are _very_ long and difficult streams.
+Deathstreams are *very* long and difficult streams.
 These consist of sliders (with or without repeats), hit circles or a combination of both.
 
 The job of a deathstream is to practically fail players that cannot handle ordinary streams.
 
 The use of deathstreams will make your map **unrankable**!
-However, it may go through as one of the _approved_ beatmaps.
+However, it may go through as one of the *approved* beatmaps.
 
 ### Slider Stream Jumps
 
 Nominator(s): [dkun](https://osu.ppy.sh/users/154400) and [MMzz](https://osu.ppy.sh/users/128993)
 
-Slider stream jumps is a more advanced technique for osu!standard.
+Slider stream jumps is a more advanced technique for osu!.
 Instead of using an orthodox stream, you replace it with sliders.
 This keeps the same stream difficulty, as you need to move and click rather than just following a stream.
 
-Essentially, you jump with your cursor and stream, hence the term _Slider Stream Jumps_.
+Essentially, you jump with your cursor and stream, hence the term *Slider Stream Jumps*.
 
 ### Triplet Streams
 
@@ -192,4 +192,4 @@ Nominator(s): [Daru](https://osu.ppy.sh/users/32480)
 
 Zig-Zag streams are streams with hit objects placed in such a manner that they form a very jagged line.
 However, they are placed very closely that they can be passed by moving the cursor through them in a straight line which intersects all notes.
-These are most commonly found with notes _zig-zagging_ across one another.
+These are most commonly found with notes *zig-zagging* across one another.
