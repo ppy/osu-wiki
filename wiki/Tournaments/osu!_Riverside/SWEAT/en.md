@@ -14,6 +14,7 @@ tags:
 ![SWEAT banner](img/banner.jpg)
 
 <!-- TODO: Link to Organisations page when it exists -->
+
 The **Standard/Mania Weekend End of Autumn Tournament** (***SWEAT***) was an osu! and osu!mania BYOC LAN tournament hosted by osu! Riverside. It took place during *Highlander Con Fall 2019*, a gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
 
 ## Event details
@@ -31,7 +32,7 @@ Details about Highlander Con Fall 2019 were posted on its [Eventbrite page](http
 - [Highlander Con Fall 2019 Eventbrite page](https://www.eventbrite.com/e/highlander-con-fall-2019-tickets-74580744013)
 - [Livestream](https://www.twitch.tv/osuriverside)
 - [osu! Riverside Discord server](https://discord.gg/SVztsp5)
-- [osu!standard Challonge bracket](https://challonge.com/SWEATSTD)
+- [osu! Challonge bracket](https://challonge.com/SWEATSTD)
 - [osu!mania Challonge bracket](https://challonge.com/l4xtf5z5)
 
 ## Prizes
@@ -39,9 +40,11 @@ Details about Highlander Con Fall 2019 were posted on its [Eventbrite page](http
 All prizes were awarded to osu! and osu!mania winners separately.
 
 <!-- TODO: Add other prizes if/when there are images uploaded that show winners with them... -->
+
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge |
+
 <!--
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
@@ -60,7 +63,7 @@ All prizes were awarded to osu! and osu!mania winners separately.
 
 ## Podium
 
-### osu!standard
+### osu!
 
 | Placing | Player |
 | :-: | :-- |
@@ -78,7 +81,7 @@ All prizes were awarded to osu! and osu!mania winners separately.
 
 ## Match results
 
-### osu!standard
+### osu!
 
 #### Grand finals
 
@@ -200,7 +203,7 @@ Seeding maps were played in a [multiplayer match](https://osu.ppy.sh/community/m
 
 ## Mappools
 
-### osu!standard
+### osu!
 
 #### Grand finals
 
@@ -450,7 +453,7 @@ Tiebreaker:
 
 This is a double-elimination tournament.
 
-#### osu!standard
+#### osu!
 
 - **Seeding:** Players will play through all the maps in the mappool and will given a certain amount of points depending on how well they place against other players.
 - **Round of 16:** Best of 5
@@ -479,7 +482,7 @@ This is a double-elimination tournament.
 - In the case where both players are one game off from a win, a predetermined tiebreaker map will be played.
 - In the Grand Finals, the participant from the winner's bracket will have a 1-point advantage.
 
-#### osu!standard
+#### osu!
 
 - Players have one ban in all bracket stages.
 - Players may pick Hidden or Flashlight for a DoubleTime map.

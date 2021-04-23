@@ -23,13 +23,13 @@ tags:
 - 점수 배수: 0.90x
 - 기본 단축키: `C`
 - 설명: `스피너가 자동으로 돌아갑니다.`
-- SO를 사용할 수 있는 osu!의 장르 ![][o!s]
+- SO를 사용할 수 있는 osu!의 장르 ![][osu!]
 
 ## 상세 설명
 
-**스펀 아웃**은 [osu!standard](/wiki/Game_mode/osu!)의 플레이어가 [비트맵](/wiki/Beatmap)을 플레이할 때 성공적으로 스피너를 돌릴 수 있게 도와주는 [모드](/wiki/Game_modifier)입니다.
+**스펀 아웃**은 [osu!](/wiki/Game_mode/osu!)의 플레이어가 [비트맵](/wiki/Beatmap)을 플레이할 때 성공적으로 스피너를 돌릴 수 있게 도와주는 [모드](/wiki/Game_modifier)입니다.
 이 모드는 모든 비트맵의 스피너를 시계 방향으로 분당 회전수(SPM)를 정확히 286.48로 맞추며 돌립니다. 이 수치는 477.26 SPM의 3/5입니다.
 
 스피너는 비활성화되며, 플레이어는 SPM 값을 올리기 위해 스피너를 돌릴 수 없습니다.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
+[osu!]: /wiki/shared/mode/osu.png "osu!"

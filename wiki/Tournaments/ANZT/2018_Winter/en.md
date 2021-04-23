@@ -2,7 +2,7 @@
 
 ![ANZT 5W Logo](img/logo.jpg)
 
-The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a double elimination one-on-one osu!standard tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the 6th installment of Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a double elimination one-on-one osu! tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the 6th installment of Aus/NZ tourneys.
 
 ## Tournament Schedule
 
@@ -69,7 +69,7 @@ All individual match results can be found on the spreadsheet linked above.
 
 ### General Rules
 
-- This is an 1v1 double elimination osu!standard tourney for Australian/New Zealand players only.
+- This is an 1v1 double elimination osu! tourney for Australian/New Zealand players only.
 - Participants must have an Australian or New Zealand flag on their osu profile.
 - Matches will be **Head to Head** with **Score V2** as the scoring system.
 - Any harassment or abuse of a staff member or other players will result in an expulsion from the tournament.

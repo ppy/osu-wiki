@@ -182,7 +182,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | 在 [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) 上获得了第一个 NoMod FC。 |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | 截至 2019 年 11 月 3 日，FC 了全部 8841 张 Ranked osu!taiko 谱面。 |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *待补充* |
-| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | 截至 2019 年 4 月 27 日，游玩了全部 Ranked osu!standard 谱面。 |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | 截至 2019 年 4 月 27 日，游玩了全部 Ranked osu! 谱面。 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) 冠军 |
 
 ### 贡献者

@@ -21,7 +21,7 @@ Reszta zespołu pomaga z kontrolą jakości, zarządzaniem i organizacją.
 
 ![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** nadzoruje projekt a także pisze posty na forum oraz aktualności, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) zarządza publicznymi skoroszytami i moderuje dyskusje związane z projektem, natomiast ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) i ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) sprawdzają metadane beatmap, które trafiają do głosowań. Reszta zespołu to kapitanowie:
 
-### Kapitanowie osu!standard
+### Kapitanowie osu!
 
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)

@@ -41,7 +41,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 类似于 [缩圈速度](/wiki/Beatmapping/Approach_rate) 和特定的 [Mods](/wiki/Game_modifier)（即[Flashlight](/wiki/Game_modifier/Flashlight)，[Hidden](/wiki/Game_modifier/Hidden)和[Hard Rock](/wiki/Game_modifier/Hard_Rock)）使快速准确地移动光标的难度显著地提升，因此影响了成绩得到pp的数量。
 
-在[osu!standard](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmap/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常得到的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
+在[osu!](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmap/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常得到的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
 
 ### 速度
 

@@ -14,7 +14,7 @@ hampir tidak mungkin untuk dimainkan.
 Berikut merupakan daftar dari beberapa elemen dalam membuat skin yang terbagi menjadi beberapa kategori:
 
 - [Tampilan membuat skin](/wiki/Skinning/Interface)
-- [Membuat skin di osu!standard](/wiki/Skinning/osu!)
+- [Membuat skin di osu!](/wiki/Skinning/osu!)
 - [Membuat skin di osu!taiko](/wiki/Skinning/osu!taiko)
 - [Membuat skin di osu!catch](/wiki/Skinning/osu!catch)
 - [Membuat skin di osu!mania](/wiki/Skinning/osu!mania)

@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+
 <!-- TODO: scrap this when relevant images can be put on the main mascots article with a proper gallery/slideshow feature. https://github.com/ppy/osu-web/issues/4257 -->
 
 # Gallery
@@ -13,7 +14,7 @@ needs_cleanup: true
 
 ![Original concept art of pippi](img/pippi-original-concept.jpg "pippi's concept art by Sarumaru.")
 
-![osu!standard comboburst from the default v1 skin](img/pippi-original-comboburst.png "Comboburst from the default v1 skin.")
+![osu! comboburst from the default v1 skin](img/pippi-original-comboburst.png "Comboburst from the default v1 skin.")
 
 ![Chibi-pippi (Header image)](img/pippi-original-header.jpg "Chibi-pippi (Banner image)")
 
@@ -29,7 +30,7 @@ needs_cleanup: true
 
 ![pippi redesigned by Daru](img/pippi-Daru-redesigned.png "pippi redesigned by Daru (seen in the welcome page)")
 
-![osu!standard comboburst from the default v2 skin](img/pippi-Daru-comboburst.png "Comboburst from the default v2 skin.")
+![osu! comboburst from the default v2 skin](img/pippi-Daru-comboburst.png "Comboburst from the default v2 skin.")
 
 ![404 error image](img/pippi-Daru-404.png "404 error image")
 

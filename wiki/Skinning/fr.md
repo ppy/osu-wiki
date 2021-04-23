@@ -17,7 +17,7 @@ Le skinning est l'une des principales caractéristiques d'osu!. Cela permet aux 
 La liste des éléments de skinning est divisée en plusieurs catégories:
 
 - [Skinning de l'interface](/wiki/Skinning/Interface)
-- [Skinning osu!standard](/wiki/Skinning/osu!)
+- [Skinning osu!](/wiki/Skinning/osu!)
 - [Skinning osu!taiko](/wiki/Skinning/osu!taiko)
 - [Skinning osu!catch](/wiki/Skinning/osu!catch)
 - [Skinning osu!mania](/wiki/Skinning/osu!mania)

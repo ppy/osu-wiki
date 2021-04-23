@@ -112,7 +112,7 @@ Diese Kürzel können überall verwendet werden:
 - `S` -> `S`: [Perfect](/wiki/Perfect)
 - `D`: [Double Time](/wiki/Double_Time)
 - `D` -> `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, und osu!catch)
+- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, und osu!catch)
   - [Fade In](/wiki/Fade_In) für osu!mania
 - `F` -> `F`: [Hidden](/wiki/Hidden) (nur für osu!mania)
 - `G`: [Flashlight](/wiki/Flashlight)
@@ -149,7 +149,7 @@ Nur für osu!mania:
 
 ## Im Beatmap Editor
 
-_Siehe auch: [Beatmap Editor](/wiki/Beatmap_Editor)._
+*Siehe auch: [Beatmap Editor](/wiki/Beatmap_Editor).*
 
 ### Generell
 
