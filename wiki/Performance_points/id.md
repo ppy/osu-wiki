@@ -52,7 +52,7 @@ Mengenai rumus yang ada diatas, *p* melambangkan nilai pp penuh dari masing-masi
 
 Elemen seperti [approach rate](/wiki/Beatmapping/Approach_rate) dan [mod-mod](/wiki/Game_modifier) tertentu (yaitu [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) dan [Hard Rock](/wiki/Game_modifier/Hard_Rock)) membuat navigasi kursor menjadi lebih cepat dan keakuratan menjadi jauh lebih sulit untuk dicapai, dan dengan demikian memengaruhi jumlah pp yang diberikan oleh skor tersebut.
 
-Dalam kasus seperti [osu!standard](/wiki/Game_mode/osu!), beatmap dengan [jumps](/wiki/id/Beatmap/Pattern/Jump) yang sangat besar itu dipertimbangkan sebagai beatmap "aim tinggi", dan oleh karena itu, sering memberikan skor pp yang sangat tinggi. Demikian juga, beatmap dengan lebih banyak hyperdashing di [osu!catch](/wiki/Game_mode/osu!catch) akan dipertimbangkan secara mirip. Aim tidak dipertimbangkan pada game mode seperti [osu!taiko](/wiki/Game_mode/osu!taiko) dan [osu!mania](/wiki/Game_mode/osu!mania).
+Dalam kasus seperti [osu!](/wiki/Game_mode/osu!), beatmap dengan [jumps](/wiki/id/Beatmap/Pattern/Jump) yang sangat besar itu dipertimbangkan sebagai beatmap "aim tinggi", dan oleh karena itu, sering memberikan skor pp yang sangat tinggi. Demikian juga, beatmap dengan lebih banyak hyperdashing di [osu!catch](/wiki/Game_mode/osu!catch) akan dipertimbangkan secara mirip. Aim tidak dipertimbangkan pada game mode seperti [osu!taiko](/wiki/Game_mode/osu!taiko) dan [osu!mania](/wiki/Game_mode/osu!mania).
 
 ### Speed
 

@@ -13,7 +13,7 @@
 外观元素列表分为以下几类：
 
 - [外观界面](/wiki/Skinning/Interface)
-- [osu!standard 皮肤](/wiki/Skinning/osu!)
+- [osu! 皮肤](/wiki/Skinning/osu!)
 - [osu!taiko 皮肤](/wiki/Skinning/osu!taiko)
 - [osu!catch 皮肤](/wiki/Skinning/osu!catch)
 - [osu!mania 皮肤](/wiki/Skinning/osu!mania)

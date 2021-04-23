@@ -114,7 +114,7 @@ outdated: true
 - `S`, затем `S`: [Perfect](/wiki/Perfect)
 - `D`: [Double Time](/wiki/Double_Time)
 - `D`, затем `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, и osu!catch)
+- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, и osu!catch)
   - эта кнопка будет включать/выключать [Fade In](/wiki/Fade_In) для osu!mania
 - `F`, затем `F`: [Hidden](/wiki/Hidden) (только в osu!mania)
 - `G`: [Flashlight](/wiki/Flashlight)
