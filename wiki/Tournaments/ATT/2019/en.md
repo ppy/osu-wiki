@@ -72,6 +72,16 @@ The Ausu!Taiko Tournament 2019 was run by various community members.
 | **G** | ![][flag_AU] [Aloda](https://osu.ppy.sh/users/1190127) | ![][flag_NZ] [Bwhaa](https://osu.ppy.sh/users/7960435) | ![][flag_ID] [Viewland](https://osu.ppy.sh/users/6250135) | - |
 | **H** | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) | ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125) | ![][flag_AU] [Pyrofermot](https://osu.ppy.sh/users/10801698) | - |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
+
 ## Mappools
 
 ### Group Stage
