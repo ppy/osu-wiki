@@ -1,6 +1,6 @@
 # Khắc phục sự cố hiệu năng trong osu!
 
-osu! luôn cố gắng chạy với thiết lập mặc định và sẽ cảnh báo bạn nếu bạn đang làm/chạy gì đó có thể gây ảnh hưởng tới hiệu năng của trò chơi bị giảm sút.
+osu! luôn cố gắng chạy với thiết lập mặc định và sẽ cảnh báo bạn nếu bạn đang làm/chạy gì đó có thể gây ảnh hưởng tới hiệu năng của trò chơi.
 
 Không may là với phạm vi các phần cứng được sử dụng để chơi osu! là quá lớn, sẽ rất khó để đảm bảo hiệu năng tối ưu cho mọi người chơi. Trang này ngoài việc giúp bạn tự phát hiện vấn đề hiệu năng mình gặp phải, mà còn cung cấp một vài thuật ngữ bạn có thể học (và có thể thực hiện kiểm tra) để giúp chúng tôi giúp được bạn khi bạn cần hỗ trợ.
 
@@ -10,7 +10,7 @@ Rất khó để hỗ trợ bạn khi mọi vấn đề bạn gặp được g�
 
 ### Âm thanh bị lặp
 
-Nhạc của beatmap kiểu thi thoảng bị tua ngược, hoặc cảm thấy giật. Về cơ bản thì khi game lag, bạn có thể cảm nhận thấy nó qua âm thanh nghe được. Trước khi tiến hành chẩn đoán hoặc báo cáo, bạn hãy thử:
+Nhạc của beatmap thi thoảng bị tua ngược, hoặc cảm thấy giật. Về cơ bản thì khi game lag, bạn có thể cảm nhận thấy nó qua âm thanh nghe được. Trước khi tiến hành chẩn đoán hoặc báo cáo, bạn hãy thử:
 
 - Kiểm tra xem nó có hiện tượng tương tự với mọi thiết bị âm thanh khác (loa, tai nghe, ...). Nếu bạn dùng tai nghe có chân cắm USB, bạn hãy thử kết nối qua analog output của PC.
 - Thử xem việc bật "Audio compatibility mode" trong Cài đặt có giúp ích gì không.

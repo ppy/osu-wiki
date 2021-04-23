@@ -46,7 +46,7 @@ Nếu việc giới hạn tài khoản của bạn là chính đáng, chúng tô
 
 - **Tiếp tục tận hưởng game!** Khi tài khoản của bạn bị giới hạn, và bạn đang trong thời gian chờ, bạn vẫn có thể tiếp tục chơi game (miễn là ở tài khoản chính!). Điểm bạn ghi được khi bị giới hạn cũng sẽ được ghi nhận khi bạn được gỡ giới hạn (trừ khi bạn bị rollback).
 - **Giữ thái độ tốt.** Chúng tôi hiểu rằng việc bị giới hạn có thể gây khó chịu, nhưng hãy coi như đây là một cơ hội cho bạn tạm nghỉ, rời xa cộng đồng. Hãy tránh tương tác với cộng đồng trong một vài ngày (bất kể qua Discord, mạng xã hội, hay bất cứ hình thức liên lạc nào khác) để hối cải về hành động bạn đã làm khiến cho tài khoản bị giới hạn.
-- **Đảm bảo bạn tuân thủ nội quy.** Giới hạn dài hạn là hình phạt cho việc phạm quy. Nếu bạn vẫn tái diễn khi bị giới hạn, thời gian chờ để xin khiếu nại sẽ đếm lại về ba tháng kể từ lần gần đây nhất bạn vi phạm. Nó bao gồm tiếp tục gian lận, truy cập tài khoản người khác, hoặc tạo tài khoản mới để né giới hạn.
+- **Đảm bảo bạn tuân thủ nội quy.** Giới hạn dài hạn là hình phạt cho việc phạm quy. Nếu bạn vẫn tái diễn khi bị giới hạn, thời gian chờ để xin khiếu nại sẽ được tính lại về ba tháng kể từ lần gần đây nhất bạn vi phạm. Nó bao gồm tiếp tục gian lận, truy cập tài khoản người khác, hoặc tạo tài khoản mới để né giới hạn.
 - **Làm theo hướng dẫn của đội ngũ hỗ trợ.** Thời gian chờ 3 tháng là cơ hội để bạn nghỉ và hối cải. Nếu bạn gửi khiếu nại trước khi hết thời hạn này, email của bạn sẽ bị bỏ qua. Nếu bạn không rõ khi nào bạn có thể xin khiếu nại, hay bạn nên chơi trên tài khoản nào (và xin khiếu nại từ cái nào), bạn có thể gửi email để hỏi chúng tôi.
 - **Đừng e ngại liên lạc chúng tôi khi có câu hỏi.** Miễn là bạn không cố né tránh hình phạt của mình, chúng tôi luôn vui vẻ trả lời bất cứ câu hỏi nào liên quan đến việc tài khoản của bạn bị giới hạn!
 
@@ -76,7 +76,7 @@ Với một vài trường hợp, người chơi trở lại sẽ bị cấm tha
 
 **Gian lận hoặc chia sẻ tài khoản khi tham gia giải đấu chính thức hay giải có badge sẽ khiến người chơi bị cấm *vĩnh viễn* khỏi mọi giải đấu trong tương lai.** Bạn không thể khiếu nại điều này (email bạn sẽ bị bỏ qua nếu bạn cố) và sẽ không thể gỡ bỏ, hay giảm với bất cứ lý do nào.
 
-Một vài người chơi có thể bị giới hạn lại khi họ bắt đầu chơi lại sau khi khiếu nại được chấp nhận. Đây chỉ là một quy tình tự động và sẽ thường được gỡ trong 24 tiếng. Đừng ngần ngại hỏi trên twitter [@osusupport](https://twitter.com/osusupport) hoặc bằng cách gửi email [accounts@ppy.sh](mailto:accounts@ppy.sh) nếu nó xảy ra với bạn!
+Một vài người chơi có thể bị giới hạn lại khi họ bắt đầu chơi lại sau khi khiếu nại được chấp nhận. Đây chỉ là một quy trình tự động và sẽ thường được gỡ trong 24 tiếng. Đừng ngần ngại hỏi trên twitter [@osusupport](https://twitter.com/osusupport) hoặc bằng cách gửi email [accounts@ppy.sh](mailto:accounts@ppy.sh) nếu nó xảy ra với bạn!
 
 Một vài vi phạm sẽ khiến tài khoản của bạn bị rollback sau khi gỡ giới hạn. Điều này nhằm xoá bỏ các điểm số không hợp lệ được ghi nhận trên tài khoản của bạn **ở mọi chế độ**, bao gồm cả huy chương và badge ở hồ sơ.
 **Số lần chơi và thời gian chơi sẽ không bị thay đổi.**
