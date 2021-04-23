@@ -17,7 +17,7 @@ tags:
 - Abbreviation: MR
 - Type: Special
 - Score Multiplier: 1.00x
-- Compatible game modes: ![][o!m]
+- Compatible game modes: ![][osu!mania]
 
 ## Description
 
@@ -34,4 +34,4 @@ The reasoning behind this is that many osu!mania beatmaps are mapped by right-ha
   - The current Mirror mod had actually been requested multiple times, and years before Kamuy's feature request, but Kamuy's was the only post that actually gained enough attention for the mod to actually be added.
 - The Mirror mod is the only game modifier in the "Special" category that affects neither the amount of [performance points (pp)](/wiki/Performance_Points) nor [score](/wiki/Score) that a player gains, whilst still being rankable.
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

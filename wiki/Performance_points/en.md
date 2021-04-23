@@ -52,7 +52,7 @@ Regarding the formula above, *p* represents each score's full pp value (pre-weig
 
 Elements like [approach rate](/wiki/Beatmapping/Approach_rate) and certain [mods](/wiki/Game_modifier) (namely [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) and [Hard Rock](/wiki/Game_modifier/Hard_Rock)) make navigating the cursor quickly and accurately significantly more difficult, and thus influence the amount of pp a score gives.
 
-In the case of [osu!standard](/wiki/Game_mode/osu!), beatmaps with very large [jumps](/wiki/Beatmap/Pattern/Jump) are considered to be "high aim" beatmaps, and are thus often given very high pp scores. Likewise, beatmaps with more hyperdashing in [osu!catch](/wiki/Game_mode/osu!catch) will be considered similarly. Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania).
+In case of [osu!](/wiki/Game_mode/osu!), beatmaps with very large [jumps](/wiki/Beatmap/Pattern/Jump) are considered to be "high aim" beatmaps, and are thus often given very high pp scores. Likewise, beatmaps with more hyperdashing in [osu!catch](/wiki/Game_mode/osu!catch) will be considered similarly. Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania).
 
 ### Speed
 

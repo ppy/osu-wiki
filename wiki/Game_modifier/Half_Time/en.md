@@ -18,11 +18,11 @@ tags:
 - Abbreviation: HT
 - Type: Difficulty Reduction
 - Score Multiplier: 
-  - ![][o!s] ![][o!t] ![][o!c]: 0.30x
-  - ![][o!m]: 0.50x
+  - ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.30x
+  - ![][osu!mania]: 0.50x
 - Default shortcut key: `E`
 - Caption: `Less zoom.`
-- Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
@@ -51,7 +51,7 @@ In addition to this, the leniency for hyperdashes is increased, which makes it m
 
 ![Changed values](img/GM_HT.jpg "Screenshot of beatmap values being changed by the Half Time mod")
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

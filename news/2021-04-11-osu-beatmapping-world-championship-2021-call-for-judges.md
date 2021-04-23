@@ -20,7 +20,7 @@ Unlike the last iteration, this year's contest is planned to host an accumulativ
 
 Now, you may have questions regarding which criteria these judges will rate the submissions. Worry not! Here are the criteria:
 
-- **Fundamentals**: This criterion will focus on the fundamental abilities of mapping. A map can show the fundamental skills of mappers in different aspects, including, but not limited to: respect to the ranking criteria, completeness of hitsounding, style and pattern consistencies throughout the difficulty, reasonable fluctuations of difficulty according to the music, and much more.
+- **Cohesion**: This criterion will focus on how consistent the map is. All elements of the map has to remain coherent with the rhythm and the music. For instance, if the entry represents the music well and the sections from different members are integrated seamlessly without weird transitions and abrupt spikes, that entry deserves to be praised.
 - **Expertise**: Our judges are also expected to focus on the advanced skills or expertise of mapping. A map with high expertise shows excellent management over note patterns, flows, movements, and even hitsounds. Those maps are outstanding compared with their peers in this contest and mark themselves as top-tier in the state-of-the-art mapping community.
 - **Creativity**: As with everything, beatmaps and mapping techniques are subject to change over time. Moreover, the history of osu!mapping is always shaped by creative maps, showing an avant-garde or even ahead-of-time understanding of mapping. Creative yet solid maps are the art of osu! and thus definitely promoted in this contest.
 
