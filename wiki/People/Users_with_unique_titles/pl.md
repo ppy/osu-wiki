@@ -183,7 +183,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Uzyskanie pierwszego Full Combo bez modyfikatorów rozgrywki na beatmapie [Shotgun Symphony+ \[Impossibly Intense\]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Uzyskanie Full Combo na wszystkich rankingowych beatmapach w trybie osu!taiko (według stanu z 3 listopada 2019) |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Nieznane* |
-| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Ukończenie wszystkich rankingowych beatmap w trybie osu!standard (według stanu z 27 kwietnia 2019) |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Ukończenie wszystkich rankingowych beatmap w trybie osu! (według stanu z 27 kwietnia 2019) |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Zwycięzca wyzwania [„The Hunt for the Girl in the Forest”](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ### Ochotnicy

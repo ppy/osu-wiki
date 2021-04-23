@@ -16,9 +16,9 @@ Notes:
 
 - To have multiple combobursts, use: `comboburst-{n}.png`.
   - One of the images in the set will be appear when a combo milestone is met.
-- For v2.2-, this is osu!standard and osu!catch's combobursts.
-- For v2.3+, this is osu!standard's combobursts.
-- This can be disabled in the [options](/wiki/options).
+- For v2.2-, this is osu! and osu!catch's combobursts.
+- For v2.3+, this is osu!'s combobursts.
+- This can be disabled in the [options](/wiki/Options).
 - This should face towards the right.
 
 ## Default Numbers
@@ -34,7 +34,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -51,7 +51,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -68,7 +68,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -85,7 +85,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -102,7 +102,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -119,7 +119,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -136,7 +136,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -153,7 +153,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -170,7 +170,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -187,7 +187,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -205,7 +205,7 @@ Notes:
 
 - Tinting depends on the hit circle's combo colour.
 - This element shrinks over time.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this element will not be used.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this element will not be used.
     - To show the first approach circle with Hidden mod enabled, the player will need to enable it in the [options](/wiki/options).
 - Should be a circle.
 
@@ -222,7 +222,7 @@ Notes:
 Notes:
 
 - This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - Tinting depends on the hit circle's combo colour.
 - Also used for `sliderstartcircle` and/or `sliderendcircle` if not skinned.
 - Should be a circle.
@@ -243,7 +243,7 @@ Notes:
 - Animation rate: 2 FPS (4 FPS max).
   - This rate is affected by the half time and double time/nightcore the game modifiers.
 - This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
   - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
 - Also used for `sliderstartcircleoverlay` and/or `sliderendcircleoverlay` if not skinned.
@@ -297,7 +297,7 @@ Notes:
 - Used during kiai time:
   - Coloured afterimage as part of hitburst explosion.
   - Glowing behind hit circles during kiai time.
-- This element is also used in [osu!taiko](/wiki/osu!taiko) and [osu!catch](/wiki/osu!catch).
+- This element is also used in [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!catch](/wiki/Game_mode/osu!catch).
 - In v2.0+, the expanding animation is smaller.
 
 ## Slider
@@ -313,7 +313,7 @@ Notes:
 - Overrides `hitcircle.png` for the start of the slider, if skinned.
 - This element is the hit circle for the start of the slider.
 - This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - Should be a circle.
 
 ---
@@ -330,7 +330,7 @@ Notes:
 - Animation rate: 2 FPS (4 FPS max).
   - This rate is affected by the half time and double time/nightcore the game modifiers.
 - This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
   - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
 - Overrides the `hitcircle.png` image for the start of the slider.
@@ -350,7 +350,7 @@ Notes:
 - Overrides `hitcircle.png` for the start of the slider, if skinned.
 - This element is the hitcircle for the end of the slider.
 - This element fades in before completing and expands when completed.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before completing and only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
 - Should be a circle.
 
 ---
@@ -367,7 +367,7 @@ Notes:
 - Animation rate: 2 FPS (4 FPS max).
   - This rate is affected by the half time and double time/nightcore the game modifiers.
 - This element fades in before completing and expands when completed.
-  - If [Hidden](/wiki/Hidden) mod is enabled, this will fade in before completing and only fade out.
+  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
   - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
 - Overrides the `hitcircle.png` image for the start of the slider.
@@ -520,7 +520,7 @@ Notes:
 - Applied to both styles.
 - Shrinks over time, like `approachcircle.png`
 - Usage is forced when `spinner-circle.png` or `spinner-top.png` is skinned.
-- This element is also used for [osu!taiko](/wiki/osu!taiko).
+- This element is also used for [osu!taiko](/wiki/Game_mode/osu!taiko).
 
 ---
 
@@ -600,7 +600,7 @@ Notes:
 
 - This element is positioned around 397px vertically.
 - This element is the rotating part of the spinner.
-- This element is also used for [osu!taiko](/wiki/osu!taiko).
+- This element is also used for [osu!taiko](/wiki/Game_mode/osu!taiko).
   - If using the new spinner style, you can still skin this for osu!taiko.
 
 ---
@@ -619,7 +619,7 @@ Notes:
   - (0,46) at 1024x768 and (171,46) at 1366x768.
 - This element is the progression bars
 - The highest part of the bar will blink when bonus points are awarded.
-  - Blinking can be disabled by setting `SpinnerNoBlink` to `1` in the [skin.ini](/wiki/skin.ini)
+  - Blinking can be disabled by setting `SpinnerNoBlink` to `1` in the [skin.ini](/wiki/Skinning/skin.ini)
 
 ---
 

@@ -13,7 +13,7 @@ Skinning is one of the key features of osu!. It enables players to derive from t
 The list of skinning elements is split up into these categories:
 
 - [Skinning Interface](/wiki/Skinning/Interface)
-- [Skinning osu!standard](/wiki/Skinning/osu!)
+- [Skinning osu!](/wiki/Skinning/osu!)
 - [Skinning osu!taiko](/wiki/Skinning/osu!taiko)
 - [Skinning osu!catch](/wiki/Skinning/osu!catch)
 - [Skinning osu!mania](/wiki/Skinning/osu!mania)

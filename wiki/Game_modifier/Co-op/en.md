@@ -23,7 +23,7 @@ tags:
 - Type: Special
 - Score Multiplier: 0.70x–1.00x (see [table below](#score-multiplier))
 - Caption: `Double the key amount, double the fun!`
-- Compatible game modes: ![][o!m]
+- Compatible game modes: ![][osu!mania]
 
 ## Description
 
@@ -37,7 +37,7 @@ The **Co-op** mod is a [game modifier](/wiki/Game_modifier) for [osu!mania](/wik
 
 ### Score multiplier
 
-The following table only affects beatmaps converted from [osu!standard](/wiki/Game_mode) to osu!mania with the Co-op mod on:
+The following table only affects beatmaps converted from [osu!](/wiki/Game_mode/osu!) to osu!mania with the Co-op mod on:
 
 | Default | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -54,4 +54,4 @@ A detailed explanation about the second playfield can be found in the [osu!mania
 
 - The Co-op mod was introduced on March 5, 2015
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

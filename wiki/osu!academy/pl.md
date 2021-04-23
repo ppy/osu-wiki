@@ -25,7 +25,7 @@ Kliknij na obrazek aby zostać zabranym do odpowiedniego odcinka.
 | Odcinek | Opis |
 | :-- | :-- |
 | [![](img/Academy_1.png)](https://www.youtube.com/watch?v=cz522ZAs5aQ "Odcinek 1") | W tym odcinku, zajmiemy się instalacją gry i tworzeniem konta |
-| [![](img/Academy_2.png)](https://www.youtube.com/watch?v=mswLEXK0eDk "Odcinek 2") | W tym odcinku, weźmiemy pod lupę rozgrywkę trybu osu!standard i dostosowanie różnych stylów gry |
+| [![](img/Academy_2.png)](https://www.youtube.com/watch?v=mswLEXK0eDk "Odcinek 2") | W tym odcinku, weźmiemy pod lupę rozgrywkę trybu osu! i dostosowanie różnych stylów gry |
 | [![](img/Academy_3.png)](https://www.youtube.com/watch?v=UAomychlbic "Odcinek 3") | W tym odcinku wraz z LoliFlan, zajmiemy się trybem gry osu!mania |
 | [![](img/Academy_4.png)](https://www.youtube.com/watch?v=6WKZE2HPOK8 "Odcinek 4") | W tym odcinku, weźmiemy pod lupę tryb gry CTB |
 | [![](img/Academy_5.png)](https://www.youtube.com/watch?v=f_uSO2ESCRI "Odcinek 5") | W tym odcinku wraz z Tashą, zajmiemy się trybem gry Taiko |
@@ -37,7 +37,7 @@ Kliknij na obrazek aby zostać zabranym do odpowiedniego odcinka.
 | [![](img/Academy_8.png)](https://www.youtube.com/watch?v=PFEYlQfiJHQ "Odcinek 8") | W tym odcinku, weźmiemy pod lupę ważną część mapowania, która może ulepszyć albo zespuć mapę: dźwiękami |
 | [![](img/Academy_9.png)](https://www.youtube.com/watch?v=bTGBspoMFVA "Odcinek 9") | W tym odcinku, powiemy o modowaniu beatmap |
 | [![](img/Academy_10.png)](https://www.youtube.com/watch?v=bTGBspoMFVA "Odcinek 10") | W tym odcinku, będziemy kontynuować dyskusję o modowaniu beatmap |
-| [![](img/Academy_11.png)](https://www.youtube.com/watch?v=j8fpJKCjTvM "Odcinek 11") | W tym odcinku, zajmiemy się wskazówkami i sztuczkami osu!standard |
+| [![](img/Academy_11.png)](https://www.youtube.com/watch?v=j8fpJKCjTvM "Odcinek 11") | W tym odcinku, zajmiemy się wskazówkami i sztuczkami osu! |
 | [![](img/Academy_12.png)](https://www.youtube.com/watch?v=8reEFNk5kQY "Odcinek 12") | W tym odcinku, powiemy o tworzeniu map dla trybu gry Taiko |
 | [![](img/Academy_13.png)](https://www.youtube.com/watch?v=oUvCBsGyTtw "Odcinek 13") | W tym odcinku, dowiemy się jak zmienić wygląd osu! poprzez skórki |
 | [![](img/Academy_14.png)](https://www.youtube.com/watch?v=dyDMyB9D420 "Odcinek 14") | W tym odcinku, powiemy o tworzeniu map dla trybu gry CTB |

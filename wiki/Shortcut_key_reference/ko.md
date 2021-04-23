@@ -114,7 +114,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `S`, `S`: [Perfect](/wiki/Perfect)
 - `D`: [Double Time](/wiki/Double_Time)
 - `D`, `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, osu!catch)
+- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, osu!catch)
   - [Fade In](/wiki/Fade_In) (osu!mania)
 - `F`, `F`: [Hidden](/wiki/Hidden) (osu!mania 전용)
 - `G`: [Flashlight](/wiki/Flashlight)
@@ -195,7 +195,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `Ctrl` + `V`: 붙여넣기
 - `Ctrl + D`: 선택한 노트 복제 (복제된 노트는 가장 뒷쪽의 노트를 기준으로 1박자 만큼의 간격을 두고 배치됨)
 - `Delete`: 선택한 노트 삭제
-- `1`, `2`, `3`, `4`: 배치/선택 모드 전환: 각각 Select, Circle, Slider, Spinner 선택 (osu!standard, osu!taiko, osu!catch 모드에서)
+- `1`, `2`, `3`, `4`: 배치/선택 모드 전환: 각각 Select, Circle, Slider, Spinner 선택 (osu!, osu!taiko, osu!catch 모드에서)
 - `1`, `2`, `3`: 배치/선택 모드 전환: 각각 Select, Circle, Hold 선택 (osu!mania 모드에서)
 - `Ctrl` + `Alt` + `Mouse Wheel Up`: 배치/선택 모드 전환 (위쪽으로)
 - `Ctrl` + `Alt` + `Mouse Wheel Down`: 배치/선택 모드 전환 (아래쪽으로)
