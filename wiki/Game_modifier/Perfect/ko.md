@@ -23,7 +23,7 @@ tags:
 - 점수 배수: 1.00x
 - 기본 단축키: `S` `S` or `Shift`+`S`
 - 설명: `SS가 아니면 죽음을!`
-- PF를 사용할 수 있는 osu!의 장르: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- PF를 사용할 수 있는 osu!의 장르: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - 같은 계열의 모드: [서든 데스](/wiki/Game_modifier/Sudden_Death)
 
 ## 상세 설명
@@ -51,7 +51,7 @@ tags:
 - 비트맵에 프롤로그가 있는 경우, 퍼펙트 모드는 자동으로 그것을 건너뛰지 않습니다. 왜냐햐면 이 모드는 빠른 실행이 아닌 자동 재도전 기능을 사용하기 때문입니다.
 - 퍼펙트 모드는 [서든 데스](/wiki/Game_modifier/Sudden_Death)가 변형된 모드입니다.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

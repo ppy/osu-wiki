@@ -1,8 +1,8 @@
 # Featured artist showcase beatmaps
 
-Members of the [Mappers' Guild](/wiki/Mappers_Guild) occasionally create exclusive "showcase beatmaps" by using songs and other materials from osu!'s unreleased [featured artists](wiki/Featured_Artists). When a featured artist is publicly announced, these beatmaps are covered in the corresponding [newsposts](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame).
+Members of the [Mappers' Guild](/wiki/Mappers_Guild) occasionally create exclusive "showcase beatmaps" by using songs and other materials from osu!'s unreleased [featured artists](/wiki/Featured_Artists). When a featured artist is publicly announced, these beatmaps are covered in the corresponding [newsposts](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame).
 
-To participate in featured artist showcase beatmaps, a member of the Mappers' Guild must accept a [limited-time mystery quests](wiki/Mappers_Guild#quests) or be directly invited to create a beatmap after reaching tier 1 (or higher) in [Guild rank](/wiki/Mappers_Guild#rewards).
+To participate in featured artist showcase beatmaps, a member of the Mappers' Guild must accept a [limited-time mystery quests](/wiki/Mappers_Guild#quests) or be directly invited to create a beatmap after reaching tier 1 (or higher) in [Guild rank](/wiki/Mappers_Guild#rewards).
 
 This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
 
@@ -109,7 +109,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Teminite](https://osu.ppy.sh/home/news/2020-01-15-new-featured-artist-teminite)** (2020-01-15)
   - (![][osu!]) [Teminite - Step Into The Light (feat. Jonah Hitchens)](https://osu.ppy.sh/beatmapsets/1089017#osu/2276963) hosted by ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - **[Blue Stahli](https://osu.ppy.sh/home/news/2020-01-22-new-featured-artist-blue-stahli)** (2019-01-22)
-  - (![][osu!]) [Blue Stahli - Throw Away](https://osu.ppy.sh/beatmapsets/1061411#osu/2222638) hosted by ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
+  - (![][osu!])(![][osu!taiko]) [Blue Stahli - Throw Away](https://osu.ppy.sh/beatmapsets/1061411#osu/2222638) hosted by ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
   - (![][osu!catch]) [Blue Stahli - Suit Up](https://osu.ppy.sh/beatmapsets/1061425#fruits/2222665) hosted by ![][flag_GB] [MBomb](https://osu.ppy.sh/users/3071175)
   - (![][osu!catch]) [Blue Stahli & Nyyzy Nyce - Run The Track](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242234) hosted by ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
 
@@ -333,7 +333,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
 
-As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming featured artist contents were often restricted to only a handful of mappers who were predominantly of the [osu!](wiki/Game_mode/osu!) game mode; however, the Guild's [shift to an open and automated entry system in early 2019](wiki/Mapping_and_Modding_Timeline#march.5) gradually allowed more and more creators to participate in the creation of showcase beatmaps for future featured artists over time regardless of their game mode.
+As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming featured artist contents were often restricted to only a handful of mappers who were predominantly of the [osu!](/wiki/Game_mode/osu!) game mode; however, the Guild's [shift to an open and automated entry system in early 2019](/wiki/Mapping_and_Modding_Timeline#march.5) gradually allowed more and more creators to participate in the creation of showcase beatmaps for future featured artists over time regardless of their game mode.
 
 Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) in December 2020 onwards, new featured artist announcement posts occasionally began to feature short preview videos, often with these showcase beatmaps acting as their main headline.
 

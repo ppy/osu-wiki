@@ -1,6 +1,6 @@
 # Vítaj
 
-Vítaj v osu!, rytmickej hre ktorá je zadarmo. Bola vytvorená peppy-m a má 4 hracie módy: osu!standard, simulátor klikania krúžkov; osu!taiko, emulátor bubnovania; osu!catch, chytač ovocného šalátu; a osu!mania, syntezátor búchania do klávesov.
+Vítaj v osu!, rytmickej hre ktorá je zadarmo. Bola vytvorená peppy-m a má 4 hracie módy: osu!, simulátor klikania krúžkov; osu!taiko, emulátor bubnovania; osu!catch, chytač ovocného šalátu; a osu!mania, syntezátor búchania do klávesov.
 
 ## Najdôležitejšie veci
 
@@ -9,13 +9,13 @@ Vítaj v osu!, rytmickej hre ktorá je zadarmo. Bola vytvorená peppy-m a má 4 
 - [Pravidlá](/wiki/Rules)
 - [Najčastejšie kladené otázky](/wiki/FAQ)
 - [Hracie módy](/wiki/Game_mode)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Multi](/wiki/Multi)
 - [Kritéria pre ohodnotenie beatmáp](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
