@@ -22,11 +22,11 @@ tags:
 - Score Multiplier: 0.50x
 - Default shortcut key: `Q`
 - Caption:
-  - ![][o!s]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.`
-  - ![][o!t]: `Reduces overall difficulty - notes move slower, less accuracy required.`
-  - ![][o!c]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.`
-  - ![][o!m]: `Reduces overall difficulty - more forgiving HP drain, less accuracy required.`
-- Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+  - ![][osu!]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.`
+  - ![][osu!taiko]: `Reduces overall difficulty - notes move slower, less accuracy required.`
+  - ![][osu!catch]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.`
+  - ![][osu!mania]: `Reduces overall difficulty - more forgiving HP drain, less accuracy required.`
+- Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
@@ -36,11 +36,11 @@ In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taik
 
 This refill event will be signaled to the player with the ready sound (`readysound.wav`). Once the life bar has been finished being refilled, the player will be signaled again but with the go sound (`gosound.wav`). After which the beatmap will then resume play and let the player continue. If the player has no remaining lives and the life bar has dropped to zero, the play will fail like normal.
 
-### osu!standard
+### osu!
 
-In [osu!standard](wiki/Game_Modes/osu!), the Easy mod decreases [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) by half.
+In [osu!](wiki/Game_Modes/osu!), the Easy mod decreases [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) by half.
 
-![EZ gameplay standard](img/EZ-comparison-standard.jpg "Comparison between a regular play (left) vs a play with the Easy mod enabled (right) in osu!standard")
+![EZ gameplay osu!](EZ-comparison-osu.jpg "Comparison between a regular play (left) vs a play with the Easy mod enabled (right) in osu!")
 
 Although, it is worth mentioning that many players do not find the use of the Easy mod to be helpful in decreasing the relative difficulty of beatmaps, especially high-intensity ones. The argument for this goes that the decreased approach rate creates a messy, difficulty-to-read situation where the actual speed of the beatmap is not very well reflected visually (displayed below).
 
@@ -56,9 +56,9 @@ Unlike the other game modes, using the Easy mod in osu!taiko reduces note score 
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the effects the same as in osu!standard with a few parallels and adjustments: all fruits fall slower (increased AR), the camera is "zoomed in" (increased CS), the two additional "lives" are granted.
+In [osu!catch](/wiki/Game_mode/osu!catch), the effects the same as in osu! with a few parallels and adjustments: all fruits fall slower (increased AR), the camera is "zoomed in" (increased CS), the two additional "lives" are granted.
 
-Despite only using one axis, the fruits' larger size and slower falling rate may cause them to clump together, creating the same common issues with difficulty as in osu!standard.
+Despite only using one axis, the fruits' larger size and slower falling rate may cause them to clump together, creating the same common issues with difficulty as in osu!.
 
 ![EZ gameplay catch](img/EZ-comparison-catch.jpg "Comparison between a regular osu!at play (left) vs a play with the Easy mod enabled (right) in osu!catch")
 
@@ -72,7 +72,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the effects are the same as in osu!ta
 - In [Multi](/wiki/Multi) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs) team mode.
 - The Easy mod will cancel out the [Hard Rock](/wiki/Game_modifier/Hard_Rock) mod, and vice-versa.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

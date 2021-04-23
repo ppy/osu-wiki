@@ -339,7 +339,7 @@ The following example was done correctly:
 Bulleted lists must use a hyphen (`-`). These must then be followed by one space. (Example shown below.)
 
 ```markdown
-- osu!standard
+- osu!
   - Hit circle
     - Combo number
     - Approach circle

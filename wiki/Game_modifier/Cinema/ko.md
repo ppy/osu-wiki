@@ -21,7 +21,7 @@ no_native_review: true
 - 종류: 특별 모드
 - 점수 배수: 1.00x
 - 기본 단축키: `V` `V` 또는 `Shift`+`V` (또는 [비트맵](/wiki/Beatmap)을 선택할 때 `Ctrl`키를 누른 채로 `Shift`키를 누르기)
-- CM을 사용할 수 있는 osu!의 장르: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- CM을 사용할 수 있는 osu!의 장르: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## 상세 설명
 
@@ -35,7 +35,7 @@ no_native_review: true
 
 이 모드는 모든 osu!의 장르에서 동일하게 작동합니다.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
