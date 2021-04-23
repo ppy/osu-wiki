@@ -336,22 +336,22 @@ The bracket was cut off early due to time concerns, so later matches switched to
 ### Tournament Rules
 
 1. The Most Amazing LAN Ever is a one-on-one osu! and osu!mania tournament.
-1. Players must play all of their matches at Highlander Con 2019.
-1. Map scoring is based on **Score V2**.
-1. In osu!standard, seeding will be based on the results of the Group Stage. In osu!mania, seeding will be based on player rank.
-1. Except in Group Stage, each player will be allowed to ban one map per match.
-1. Any mods may be used on FreeMod, Tiebreaker and Marathon maps.
+2. Players must play all of their matches at Highlander Con 2019.
+3. Map scoring is based on **Score V2**.
+4. In osu!, seeding will be based on the results of the Group Stage. In osu!mania, seeding will be based on player rank.
+5. Except in Group Stage, each player will be allowed to ban one map per match.
+6. Any mods may be used on FreeMod, Tiebreaker and Marathon maps.
 
 ### Stages
 
-1. In osu!standard Group Stage, every player plays every map. The total scores of each player will determine the seeding for further stages of the tournament.
-1. All other stages are in the double-elimination format.
+1. In osu! Group Stage, every player plays every map. The total scores of each player will determine the seeding for further stages of the tournament.
+2. All other stages are in the double-elimination format.
 
 ### Match Instructions
 
 1. Warm-up picks will likely not be allowed due to time concerns.
-1. Both players will !roll when they join the lobby. The player with the lower result will ban first, and the other will pick first.
-1. Map selection alternates between players. If the scores are tied at match point, the tiebreaker will be played.
+2. Both players will !roll when they join the lobby. The player with the lower result will ban first, and the other will pick first.
+3. Map selection alternates between players. If the scores are tied at match point, the tiebreaker will be played.
 
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_US]: /wiki/shared/flag/US.gif

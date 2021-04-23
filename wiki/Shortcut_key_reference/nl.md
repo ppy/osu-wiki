@@ -93,9 +93,9 @@ Deze combinaties werken overal:
 
 ### Game modifiers
 
-*Hoofdpagina: [Game modifiers](/wiki/Game_modifier)*  
-*Opmerking: Je moet in het game modifiers menu zitten om gebruik te kunnen maken van deze sneltoetsen.*  
-*Opmerking: Target practice (osu!standard), 1K en 2K (osu!mania), Co-op (osu!mania) en Mirror (osu!mania) hebben geen sneltoetsen.*
+*Hoofdpagina: [Game modifiers](/wiki/Game_modifier)*
+*Opmerking: Je moet in het game modifiers menu zitten om gebruik te kunnen maken van deze sneltoetsen.*
+*Opmerking: Target practice (osu!), 1K en 2K (osu!mania), Co-op (osu!mania) en Mirror (osu!mania) hebben geen sneltoetsen.*
 
 | Sneltoets | Mod |
 | :-- | :-- |
@@ -107,12 +107,12 @@ Deze combinaties werken overal:
 | `S` twee keer | Perfect |
 | `D` | Double Time |
 | `D` twee keer | Nightcore |
-| `F` | Hidden (osu!standard, osu!taiko en osu!catch) of Fade In (osu!mania) |
+| `F` | Hidden (osu!, osu!taiko en osu!catch) of Fade In (osu!mania) |
 | `F` twee keer | Hidden (osu!mania) |
 | `G` | Flashlight |
-| `Z` | Relax (osu!standard, osu!taiko en osu!catch) of ga door de xK mods (osu!mania) |
-| `X` | Auto Pilot (osu!standard) of Random (osu!mania) |
-| `C` | Spun Out (osu!standard) |
+| `Z` | Relax (osu!, osu!taiko en osu!catch) of ga door de xK mods (osu!mania) |
+| `X` | Auto Pilot (osu!) of Random (osu!mania) |
+| `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` twee keer | Cinema |
 | `B` | Score V2 |
@@ -211,7 +211,7 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `V` | Plak. |
 | `Ctrl` + `D` | Dupliceert de selectie. Dit plakt de selectie 1 maat achter het laatst geselecteerde object. |
 | `Delete` | Verwijder. |
-| `1`, `2`, `3`, of `4` | Schakel tussen de plaats/selectie modus: select, circle, slider en spinner (osu!standard, osu!taiko of osu!catch). |
+| `1`, `2`, `3`, of `4` | Schakel tussen de plaats/selectie modus: select, circle, slider en spinner (osu!, osu!taiko of osu!catch). |
 | `1`, `2`, of `3` | Schakel tussen de plaats/selectie modus: select, circle en hold (osu!mania). |
 | `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Switch tussen plaats/selectie modus. |
 | `Ctrl` + `Shift` + `A` | Opent [AiMod](/wiki/Beatmap_Editor/AiMod). |
@@ -245,7 +245,7 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `Shift` + `S` | Schaalt geselecteerde hit-objecten met een bepaald nummer (opent een dialoog). |
 | `Ctrl` + `Shift` + `D` | Creert polygons met een bepaald nummer punten (opent een dialoog). |
 | `Ctrl` + `Shift` + `F` | Verandert de geselecteerde slider in een cirkel stroom (opent een dialoog). |
-| `Ctrl` + `Left/Right/Up/Down Arrow` | Duwt de geselecteerde objecten in de gedrukte directie. (osu!standard, osu!taiko, osu!catch) |
+| `Ctrl` + `Left/Right/Up/Down Arrow` | Duwt de geselecteerde objecten in de gedrukte directie. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Left/Right Arrow` | Verplaatst objecten een kolom naar links of rechts. (osu!mania) |
 | `Ctrl` + `Up/Down Arrow` | Verplaatst objecten een tick in tijd omhoog of omlaag. (osu!mania) |
 

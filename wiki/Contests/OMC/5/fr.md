@@ -35,7 +35,7 @@ Vous pouvez télécharger le fichier .osz pour les chansons fournies [ici](https
 
 ### Règles
 
-- Ce concours est pour le mode osu!standard seulement.
+- Ce concours est pour le mode osu! seulement.
 - Seuls les Coréens sont autorisés à participer. Si le drapeau de votre profil n'indique pas que vous êtes en Corée pour certaines raisons comme la résidence à l'étranger, vous pouvez quand même participer tant que vous êtes en mesure de vérifier que vous êtes coréen.
 - Les participants ne doivent soumettre qu'une seule difficulté. Les difficultés supplémentaires ne seront pas considérées comme votre participation.
 - La difficulté ne doit pas être plus facile que celle de la folie, sinon la difficulté ne sera pas considérée comme une participation.

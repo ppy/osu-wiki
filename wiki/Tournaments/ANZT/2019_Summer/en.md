@@ -2,7 +2,7 @@
 
 ![ANZT 6S Logo](img/logo.png)
 
-The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single elimination one-on-one osu!standard tournament with a Swiss format group stage hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the 7th installment of Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single elimination one-on-one osu! tournament with a Swiss format group stage hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475) and ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the 7th installment of Aus/NZ tourneys.
 
 ## Tournament Schedule
 
@@ -29,7 +29,7 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single e
 | :-- | :-- |
 | Manager | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
 | Scheduler | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Commentator | ![][flag_AU] [abolaspany](https://osu.ppy.sh/users/4261853), ![][flag_AU] [awesometa](https://osu.ppy.sh/users/7114425), ![][flag_NZ] [Monster Bait](https://osu.ppy.sh/u/6890546), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/u/4012086), ![][flag_AU] [Arbusion](https://osu.ppy.sh/users/11469447), ![][flag_AU] [HolyJesus](https://osu.ppy.sh/users/7785655), ![][flag_AU] [Aus](https://osu.ppy.sh/users/6541404), ![][flag_AU] [Takagaki](https://osu.ppy.sh/users/3698691), ![][flag_AU] [pewdekz](https://osu.ppy.sh/users/5754859) |
+| Commentator | ![][flag_AU] [abolaspany](https://osu.ppy.sh/users/4261853), ![][flag_AU] [awesometa](https://osu.ppy.sh/users/7114425), ![][flag_NZ] [Monster Bait](https://osu.ppy.sh/users/6890546), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086), ![][flag_AU] [Arbusion](https://osu.ppy.sh/users/11469447), ![][flag_AU] [HolyJesus](https://osu.ppy.sh/users/7785655), ![][flag_AU] [Aus](https://osu.ppy.sh/users/6541404), ![][flag_AU] [Takagaki](https://osu.ppy.sh/users/3698691), ![][flag_AU] [pewdekz](https://osu.ppy.sh/users/5754859) |
 | Streamer | ![][flag_AU] [pewdekz](https://osu.ppy.sh/users/5754859), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 | Referee | ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_AU] [Soulskyeflare](https://osu.ppy.sh/users/8264319), ![][flag_AU] [awesometa](https://osu.ppy.sh/users/7114425), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_NZ] [phophicles](https://osu.ppy.sh/users/9373724), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_KR] [silverlightcs](https://osu.ppy.sh/users/9862564), ![][flag_NZ] [Div](https://osu.ppy.sh/users/3751116), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
 | Map Selector | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_JP] [Angel Arrow](https://osu.ppy.sh/users/1970239), ![][flag_MV] [HypebeastHijabi](https://osu.ppy.sh/users/1786945) |
@@ -65,7 +65,7 @@ All individual match results can be found on the spreadsheet linked above.
 
 ### General Rules
 
-- This is an osu!standard tourney for Australian/New Zealand players only.
+- This is an osu! tourney for Australian/New Zealand players only.
 - Participants must have an Australian or New Zealand flag on their osu profile.
 - Matches will be **Head to Head** with **Score V2** as the scoring system.
 - Any harassment or abuse of a staff member or other players will result in an expulsion from the tournament.

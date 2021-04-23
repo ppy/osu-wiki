@@ -42,7 +42,7 @@ Cliquer sur `Modding/Discussion` sur la page de la beatmap vous amènera à la p
 
 ![](img/modes.jpg "Sélection du mode")
 
-Change le mode de jeu entre osu!standard, osu!taiko, osu!catch et osu!mania. Vous ne pouvez sélectionner chaque mode de jeu que si le beatmapset a une difficulté avec ledit mode de jeu.
+Change le mode de jeu entre osu!, osu!taiko, osu!catch et osu!mania. Vous ne pouvez sélectionner chaque mode de jeu que si le beatmapset a une difficulté avec ledit mode de jeu.
 
 ## Page Beatmap / Sélection de la difficulté
 
@@ -203,7 +203,7 @@ Les membres de BN, NAT et GMT peuvent refuser Kudosu ! en donnant un pouce en ba
 
 ## Guide étape par étape pour poster un mod
 
-1. Sélectionnez le mode de jeu approprié en haut de la page de la carte des temps que vous souhaitez modifier (osu!standard, osu!taiko, osu!catch, osu!mania)
+1. Sélectionnez le mode de jeu approprié en haut de la page de la carte des temps que vous souhaitez modifier (osu!, osu!taiko, osu!catch, osu!mania)
 2. Sélectionnez la difficulté que vous souhaitez modifier dans le menu déroulant. (Facile, Normal, Difficile, Insane, etc.)
 3. Sélectionnez la section dans laquelle vous souhaitez poster votre mod (`General (all difficulties)`, `General`, ou `Timeline`))
 4. Tapez votre mod dans le champ de discussion. Utilisez un horodatage si vous utilisez la section Timeline. **Un problème par message !**

@@ -8,7 +8,7 @@ tags:
 
 ![OIT 2020 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #10 (2020)** (***OIT 2020***) was an Indonesian double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) and co-hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), and ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825). It was the 10th iteration of the tournament series.
+The **osu! Indonesia Tournament #10 (2020)** (***OIT 2020***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) and co-hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), and ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825). It was the 10th iteration of the tournament series.
 
 ## Tournament schedule
 
