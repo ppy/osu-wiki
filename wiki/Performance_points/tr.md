@@ -42,7 +42,7 @@ Ağırlık sistemi, bir oyundan elde edilen toplam performans puanının hesapla
 
 [Yaklaşma oranı](/wiki/Beatmapping/Approach_rate) gibi elemanlar ve birtakım [modlar](/wiki/Game_modifier) (özellikle [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) ve [Hard Rock](/wiki/Game_modifier/Hard_Rock)) imleci çabuk ve isabetli bir şekilde yönlendirmeyi büyük ölçüde zorlaştırır, dolayısıyla skorun verdiği pp miktarını etkiler. 
 
-[osu!standard](/wiki/Game_mode/osu!)'daki durumda, arası çok açık [jumpların](/wiki/Beatmap/Pattern/Jump) olduğu beatmapler "nokta atışı" beatmapleri olarak bilinir, ve çoğunlukla yüksek pp skorları verir. Aynı şekilde, [osu!catch](/wiki/Game_mode/osu!catch)'teki daha çok hyperdash bulunan beatmapler de benzer şekilde değerlendirilir. [osu!taiko](/wiki/Game_mode/osu!taiko) ve [osu!mania](/wiki/Game_mode/osu!mania) gibi oyun modlarında hedefleme mekaniği bulunmaz.
+[osu!](/wiki/Game_mode/osu!)'daki durumda, arası çok açık [jumpların](/wiki/Beatmap/Pattern/Jump) olduğu beatmapler "nokta atışı" beatmapleri olarak bilinir, ve çoğunlukla yüksek pp skorları verir. Aynı şekilde, [osu!catch](/wiki/Game_mode/osu!catch)'teki daha çok hyperdash bulunan beatmapler de benzer şekilde değerlendirilir. [osu!taiko](/wiki/Game_mode/osu!taiko) ve [osu!mania](/wiki/Game_mode/osu!mania) gibi oyun modlarında hedefleme mekaniği bulunmaz.
 
 ### Hız
 

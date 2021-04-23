@@ -1,6 +1,7 @@
 ---
 no_native_review: true
 ---
+
 # Compose
 
 ![Éditeur de composition pour osu! en mode fenêtré](img/Compose.jpg "Éditeur de composition pour osu! en mode fenêtré")
@@ -20,6 +21,7 @@ Pour un guide débutant :[Beatmapping](/wiki/Beatmapping).
 ### Haut-Gauche (Ligne de temps des Hit Objects)
 
 <!-- TODO trouver l'article qui fait un lien vers ceci et éventuellement rediriger vers ici à la place (pourquoi est-ce partagé ?) -->
+
 ![Hit Objects Timeline](/wiki/shared/BE_NTL.jpg "Ligne de temps des Hit Objects")
 
 **Affiche la chronologie des objets touchés par rapport au Beat Snap Divisor et à l'horodatage.**
@@ -94,7 +96,7 @@ Le bouton **Insérer le temps de pause** démarrera/arrêtera le "temps de pause
 
 **Votre boîte à outils de construction, faite pour le bricolage (faites-le vous-même).**
 
-**Veuillez noter que dans les notes par défaut de osu!standard, les hitsounds fonctionnent différemment dans osu!mania.**
+**Veuillez noter que dans les notes par défaut de osu!, les hitsounds fonctionnent différemment dans osu!mania.**
 
 - l'ajout de clap sur une note jouera le son `hitclap` + `hitnormal` sur le hit alors que dans osu!mania : jouera seulement le son `hitclap` sur le hit
 

@@ -84,7 +84,7 @@ Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), 
 
 ![Mode-mode permainan](/wiki/shared/Interface_mode.png "Mode-mode permainan yang dapat dipilih pada layar Song Selection")
 
-osu! memiliki beberapa mode permainan yang dapat kamu mainkan. Pada layar Song Selection, klik pada tombol `Mode` pada bagian bawah layar untuk memunculkan **daftar mode-mode permainan yang tersedia pada osu!**. Kamu dapat kemudian memilih mode permainan yang kamu hendaki pada daftar yang muncul tersebut. Di samping itu, kamu juga dapat berpindah antar mode permainan dengan menggunakan kombinasi tombol `Ctrl` dan `1` (untuk mode ![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!)*), `Ctrl` dan `2` (untuk mode ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*), `Ctrl` dan `3` (untuk mode ![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*), serta `Ctrl` dan `4` (untuk mode ![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*).
+osu! memiliki beberapa mode permainan yang dapat kamu mainkan. Pada layar Song Selection, klik pada tombol `Mode` pada bagian bawah layar untuk memunculkan **daftar mode-mode permainan yang tersedia pada osu!**. Kamu dapat kemudian memilih mode permainan yang kamu hendaki pada daftar yang muncul tersebut. Di samping itu, kamu juga dapat berpindah antar mode permainan dengan menggunakan kombinasi tombol `Ctrl` dan `1` (untuk mode ![][osu! icon] *[osu!](/wiki/Game_mode/osu!)*), `Ctrl` dan `2` (untuk mode ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*), `Ctrl` dan `3` (untuk mode ![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*), serta `Ctrl` dan `4` (untuk mode ![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*).
 
 ### Apa itu osu!taiko?
 
@@ -217,7 +217,7 @@ Posisi kursormu tidak memiliki pengaruh apapun dalam permainan osu!catch kecuali
 
 osu!mania merupakan mode permainan osu! yang didasari pada permainan-permainan *vertical scrolling rhythm game* (VSRG) lainnya seperti *beatmania*, *Guitar Hero*, dan *Dance Dance Revoulution*. Tidak jauh berbeda dengan permainan-permainan tersebut, mode permainan osu!mania menuntut kamu untuk dapat menekan tombol input yang sesuai pada keyboard kamu pada waktu yang tepat sejalan dengan bergulirnya not-not yang ada pada layar permainan.
 
-Pada umumnya, beatmap-beatmap osu!mania memiliki 4 hingga 7 lajur not yang berkorespondensi dengan jumlah tombol input *(key)* yang dipergunakan dalam permainan. Pada beatmap-beatmap osu!mania yang di-*convert* dari osu!standard, kamu dapat menggunakan mod [xK](/wiki/Game_modifier/xK) untuk mengubah jumlah key tersebut dari rentang 1K hingga 9K. Di samping itu, kamu juga dapat bermain dengan menggunakan mod [Co-Op](/wiki/Game_modifier/Co-op) yang akan memecah layar permainan ke dalam dua bagian untuk dapat dimainkan oleh dua orang pemain (mulai dari 2K/1K+1K hingga maksimal 18K/9K+9K) secara bersamaan.
+Pada umumnya, beatmap-beatmap osu!mania memiliki 4 hingga 7 lajur not yang berkorespondensi dengan jumlah tombol input *(key)* yang dipergunakan dalam permainan. Pada beatmap-beatmap osu!mania yang di-*convert* dari osu!, kamu dapat menggunakan mod [xK](/wiki/Game_modifier/xK) untuk mengubah jumlah key tersebut dari rentang 1K hingga 9K. Di samping itu, kamu juga dapat bermain dengan menggunakan mod [Co-Op](/wiki/Game_modifier/Co-op) yang akan memecah layar permainan ke dalam dua bagian untuk dapat dimainkan oleh dua orang pemain (mulai dari 2K/1K+1K hingga maksimal 18K/9K+9K) secara bersamaan.
 
 #### Penjelasan dasar
 
@@ -227,7 +227,7 @@ Pada umumnya, beatmap-beatmap osu!mania memiliki 4 hingga 7 lajur not yang berko
 
 Secara *default*, not-not yang ada dalam permainan osu!mania akan secara perlahan bergulir turun pada layar. Sebelum memulai permainan, kamu akan dihadapkan dengan sebuah anak panah yang akan menunjukkan arah perguliran not-not yang akan kamu hadapi. Kamu dapat mengubah arah perguliran not-not tersebut menjadi dari bawah ke atas melalui menu `Options`; cari dan pilih `osu!mania layout` dari daftar pilihan yang tersedia lalu centang `Vertically flip playfield (DDR style)` pada layar yang muncul.
 
-Kamu akan menemui health bar pada tepi kanan rangkaian lajur not yang muncul di layar permainan. Tidak seperti pada osu!standard dan osu!catch, health bar pada osu!mania tidak akan berkurang secara perlahan seiring waktu -- health bar tersebut hanya akan berkurang di saat kamu mendapatkan miss. Di samping itu, menekan tombol input kamu pada lajur yang kosong juga tidak akan mengurangi health bar yang kamu miliki.
+Kamu akan menemui health bar pada tepi kanan rangkaian lajur not yang muncul di layar permainan. Tidak seperti pada osu! dan osu!catch, health bar pada osu!mania tidak akan berkurang secara perlahan seiring waktu -- health bar tersebut hanya akan berkurang di saat kamu mendapatkan miss. Di samping itu, menekan tombol input kamu pada lajur yang kosong juga tidak akan mengurangi health bar yang kamu miliki.
 
 Kamu dapat **mengatur kecepatan perguliran not-not pada layar** dengan menggunakan tombol `F3` atau kombinasi tombol `Ctrl`/`Shift` + `+` (untuk mempercepat) serta tombol `F4` atau kombinasi tombol `Ctrl`/`Shift` + `-` (untuk memperlambat).
 

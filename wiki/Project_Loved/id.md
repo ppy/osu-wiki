@@ -27,7 +27,7 @@ Ada beberapa kriteria yang sangat minimal yang harus dipenuhi untuk beatmap yang
 - Pembuat beatmap tidak menolak beatmap yang dinominasikan untuk diberi status Loved
 - Pembuat beatmap tidak dalam status *banned* atau sedang dibatasi
 - Setidaknya satu tingkat kesulitan bisa diselesaikan
-- Setidaknya memiliki 30 favorit (hanya berlaku untuk map osu!standard)
+- Setidaknya memiliki 30 favorit (hanya berlaku untuk map osu!)
 
 Namun, meskipun hampir semua map dalam status [Pending dan Work-in-progress](/wiki/Beatmap/Category#pending) memenuhi kriteria ini, hanya sedikit yang masuk ke dalam kategori Loved karena persyaratan nominasi dan pemilihan yang lebih selektif.
 

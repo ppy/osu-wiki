@@ -1,6 +1,6 @@
 # Hoş Geldiniz
 
-peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması ücretsiz bir ritim oyunu olan osu!'ya hoş geldiniz: osu!standard, daire tıklama simülatörü; osu!taiko, davul çalma emülatörü; osu!catch, meyve salatası yakalamaca; ve osu!mania, klavye dövme sentezleyicisi.
+peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması ücretsiz bir ritim oyunu olan osu!'ya hoş geldiniz: osu!, daire tıklama simülatörü; osu!taiko, davul çalma emülatörü; osu!catch, meyve salatası yakalamaca; ve osu!mania, klavye dövme sentezleyicisi.
 
 ## Sıkça merak edilenler
 
@@ -9,13 +9,13 @@ peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması 
 - [Kurallar](/wiki/Rules)
 - [SSS](/wiki/FAQ)
 - [Oyun modları](/wiki/Game_mode)
-  - ![osu!standard ikonu](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![osu! ikonu](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![osu!taiko ikonu](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch ikonu](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![osu!mania ikonu](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Çoklu](/wiki/Multi)
 - [Derecelendirme Kriterleri](/wiki/Ranking_Criteria)
-  - ![osu!standard ikonu](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu! ikonu](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![osu!taiko ikonu](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![osu!catch ikonu](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania ikonu](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)

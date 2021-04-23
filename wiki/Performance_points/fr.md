@@ -6,7 +6,7 @@ outdated: true
 
 Le système de Points de Performance est un système de classement métrique visant à suivre la progression du joueur dans un jeu continuel tel qu'osu!
 
-Il ne met pas en avant la progression des compétences du joueur par rapport à son temps de jeu mais plutôt une **représentation actuelle des compétences du joueur.** Tout cela est fait via le calcul d'un score en _pp_, basé sur la difficulté de la beatmap ainsi que la performance de ce joueur sur la map.
+Il ne met pas en avant la progression des compétences du joueur par rapport à son temps de jeu mais plutôt une **représentation actuelle des compétences du joueur.** Tout cela est fait via le calcul d'un score en *pp**, basé sur la difficulté de la beatmap ainsi que la performance de ce joueur sur la map.
 
 ## Histoire
 
@@ -32,7 +32,7 @@ Pour être plus précis, la formule repose sur quatre valeurs principales, qui s
 
 Ces valeurs sont combinées à des magnitudes variantes pour produire un score global adapté à la difficulté de la beatmap, et le score de la performance sur ladite map.
 
-Les scores sont ensuite pondérés les uns contre les autres pour s'assurer que seuls les meilleurs scores d'un joueur ne comptent dans le classement des performances. C'est connu sous le nom de _système de pondération_, et est un concept fondamental dans la mesure des points de performance.
+Les scores sont ensuite pondérés les uns contre les autres pour s'assurer que seuls les meilleurs scores d'un joueur ne comptent dans le classement des performances. C'est connu sous le nom de *système de pondération*, et est un concept fondamental dans la mesure des points de performance.
 
 Un petit nombre de pp vous est donné par rapport au nombre de beatmaps classées sur lesquels vous avez eu un score.
 
@@ -42,9 +42,9 @@ Un petit nombre de pp vous est donné par rapport au nombre de beatmaps classée
 
 Les éléments comme l'Approach Rate (AR) et certains mods (Flashlight, Hidden et HardRock) rendent la visée bien plus difficile, et influencent donc le nombre de pp rapportés.
 
-Les maps avec de très grands sauts (dans le cas d'_osu!standard_) sont considérées comme des maps à haute visée, et offrent donc un très haut score de pp. Les maps avec un grand nombre d'hyperdashing dans _osu!catch_ sont considérés de la même manière.
+Les maps avec de très grands sauts (dans le cas d'*osu!*) sont considérées comme des maps à haute visée, et offrent donc un très haut score de pp. Les maps avec un grand nombre d'hyperdashing dans *osu!catch* sont considérés de la même manière.
 
-La visée n'est pas prise en compte dans les modes de jeu _osu!taiko_ et _osu!mania_.
+La visée n'est pas prise en compte dans les modes de jeu *osu!taiko* et *osu!mania*.
 
 ### Qu'est-ce que la vitesse ?
 
@@ -88,20 +88,19 @@ Cela signifie que le plus haut score en pp vous donnera tout son montant de pp. 
 
 Pour donner un exemple avec une formule mathématique:
 
-_PP_ représente la valeur en pp de chaque score. _PP\[i\]_ dénote la *i*ème valeur du score de pp, ordonées de manière décroissante, où _i_ va de 1 à _n_, et où _n_ est le nombre de scores que vous avez.
+*PP* représente la valeur en pp de chaque score. *PP\[i\]* dénote la *i*ème valeur du score de pp, ordonées de manière décroissante, où `i` va de 1 à `n`, et où `n` est le nombre de scores que vous avez.
 
 ```Total des pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)```
 
 ### Combien de pp bonus peuvent être obtenus pour avoir un grand nombre de score sur des maps classées ?
 
-**Jusqu'à 416.6667 pp bonus peuvent être donnés pour avoir un grand nombre de scores. Ce qui peut être atteint avec approximativement _25397_ scores.**
+**Jusqu'à 416.6667 pp bonus peuvent être donnés pour avoir un grand nombre de scores. Ce qui peut être atteint avec approximativement *25397* scores.**
 
-Vous pouvez calculer exactement ce bonus en suivant la formule suivante, où _N_ est le nombre de maps classées avec un score de fait:
+Vous pouvez calculer exactement ce bonus en suivant la formule suivante, où `N` est le nombre de maps classées avec un score de fait:
 
-416.6667 \/ (1- 0.9994^_N_).
+416.6667 \/ (1- 0.9994^`N`).
 
-Le nombre moyen de scores requis pour atteindre la moitié de ce bonus est _1168_ (approximativement). Comme vous pouvez le remarquer, Le nombre de scores requis fait un pic vers la fin du spectre.
-
+Le nombre moyen de scores requis pour atteindre la moitié de ce bonus est *1168* (approximativement). Comme vous pouvez le remarquer, Le nombre de scores requis fait un pic vers la fin du spectre.
 
 ## FAQ
 
@@ -126,11 +125,11 @@ Prenez en compte les conseils suivants :
 
 ### Pourquoi je ne gagne pas le nombre de pp total qu'une map que j'ai joué ne vaut ?
 
-**Les points de performance utilisent une système de _pondération_, ce qui signifie que votre meilleur score vous donnera 100 % de son total de pp, et chaque score après vous en donnera graduellement moins.**
+**Les points de performance utilisent une système de *pondération*, ce qui signifie que votre meilleur score vous donnera 100 % de son total de pp, et chaque score après vous en donnera graduellement moins.**
 
-C'est expliqué en profondeur dans la section _système de pondération_ de l'article ci-dessus. Pour l'expliquer avec des exemples simple:
+C'est expliqué en profondeur dans la section *système de pondération* de l'article ci-dessus. Pour l'expliquer avec des exemples simple:
 
-Si votre classement des meilleurs scores ne compte que deux maps, et qu'elles valent toutes les deux 100 pp, votre total de pp serait _195 pp_.
+Si votre classement des meilleurs scores ne compte que deux maps, et qu'elles valent toutes les deux 100 pp, votre total de pp serait *195 pp*.
 
 Le premier score vaut 100 % de sa valeur totale de pp puisque c'est votre meilleur score.
 

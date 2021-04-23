@@ -53,13 +53,13 @@
 
 *주 문서: [난이도명](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Insane
-- ![](/wiki/shared/diff/expert-s.png) Expert
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Insane
+- ![](/wiki/shared/diff/expert-o.png) Expert
 
-### ![](/wiki/shared/diff/easy-s.png) Easy
+### ![](/wiki/shared/diff/easy-o.png) Easy
 
 #### 규칙
 
@@ -90,7 +90,7 @@
 - [OD](/wiki/Beatmapping/Overall_difficulty) / [HP](/wiki/Beatmapping/HP_drain_rate)는 1 이상 3 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 4 이하여야 합니다.
 
-### ![](/wiki/shared/diff/normal-s.png) Normal
+### ![](/wiki/shared/diff/normal-o.png) Normal
 
 #### 규칙
 
@@ -130,7 +130,7 @@
 - [OD](/wiki/Beatmapping/Overall_difficulty) / [HP](/wiki/Beatmapping/HP_drain_rate)는 3 이상 5 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 5 이하여야 합니다.
 
-### ![](/wiki/shared/diff/hard-s.png) Hard
+### ![](/wiki/shared/diff/hard-o.png) Hard
 
 #### Rules
 
@@ -155,7 +155,7 @@
 - [HP](/wiki/Beatmapping/HP_drain_rate)는 4 이상 6 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 6 이하여야 합니다.
 
-### ![](/wiki/shared/diff/insane-s.png) Insane
+### ![](/wiki/shared/diff/insane-o.png) Insane
 
 #### 가이드라인
 
@@ -173,7 +173,7 @@
 - [HP](/wiki/Beatmapping/HP_drain_rate)는 5 이상 8 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 7 이하여야 합니다.
 
-### ![](/wiki/shared/diff/expert-s.png) Expert
+### ![](/wiki/shared/diff/expert-o.png) Expert
 
 #### 가이드라인
 

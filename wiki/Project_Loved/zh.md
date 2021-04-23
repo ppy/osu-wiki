@@ -32,7 +32,7 @@ Project Loved Team团队的**队长**会定期为一个特定游戏模式的谱�
 - 谱面制作者不反对谱面被Loved。
 - 谱面制作者未被封禁或者限制。
 - 至少有一个难度可以通过。
-- 谱面至少要30个收藏（仅应用于osu!standard谱面）
+- 谱面至少要30个收藏（仅应用于osu!谱面）
 
 虽然几乎所有的[Pending和Working-in-progress](/wiki/Beatmap/Category#work-in-progress-和-pending)地图都符合这些标准，但出于更挑剔的提名条件与投票要求，只有少数谱面才能进入Loved。
 
