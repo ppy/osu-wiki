@@ -71,6 +71,16 @@ The Ausu!Taiko Tournament 2020 was run by various community members.
 | **E** | ![][flag_PH] [Aiery](https://osu.ppy.sh/users/10363380) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) | ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885) | ![][flag_AU] [Monk The Don](https://osu.ppy.sh/users/4012086) |
 | **F** | ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514) | ![][flag_ID] [ImChro](https://osu.ppy.sh/users/7280717) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | ![][flag_AU] [jkl68](https://osu.ppy.sh/users/4560404) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+
 ## Mappools
 
 ### Group Stage
