@@ -16,7 +16,7 @@ L'**Alternating** est une méthode de jeu pour le mode [osu!](/wiki/Game_mode/os
 
 ## Utilisation
 
-L'Alternating peut être utilisé de diverses manières et ses formes peuvent varier d'un joueur à l'autre. Par exemple, de nombreux joueurs qui pratique l'alternating changent de touche, passant de `Z` à `X` une note (ou objet) sur deux, tandis que d'autres ne le font que tous les deux ou trois objets. Il faut souligner que certains joueurs la pratique, la plupart du temps, mais frappent parfois deux fois la même touche si un objet les surprend. Il s'agit simplement d'une question de préférence personnelle.
+L'Alternating peut être utilisé de diverses manières et ses formes peuvent varier d'un joueur à l'autre. Par exemple, de nombreux joueurs qui pratiquent l'alternating changent de touche, passant de `Z` à `X` une note (ou objet) sur deux, tandis que d'autres ne le font que tous les deux ou trois objets. Il faut souligner que certains joueurs le pratiquent la plupart du temps, mais frappent parfois deux fois la même touche si un objet les surprend. C'est une question de préférence personnelle.
 
 De même, certains joueurs préfèrent frapper leurs touches avec l'index et le majeur, tandis que d'autres utilisent l'index et l'annulaire. Les joueurs qui utilisent l'index et l'annulaire auront généralement des touches plus éloignées les unes des autres pour tenir compte de l'écart plus important. Par exemple, `Z` et `C` au lieu de `Z` et `X`.
 
