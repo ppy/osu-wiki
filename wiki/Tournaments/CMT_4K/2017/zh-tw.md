@@ -21,9 +21,9 @@
 ## 比賽獎品
 
 本次比賽獎品由音游網和漢斯共同贊助，鍵盤由 CrazyBoard 提供。
-![](/wiki/shared/crown-gold.png) 3個月 osu!支持者，主頁訂製勳章，CrazyBoard Mark One 鍵盤；
-![](/wiki/shared/crown-silver.png) 2個月 osu!支持者；
-![](/wiki/shared/crown-bronze.png) 1個月 osu!支持者。
+![](/wiki/shared/crown-gold.png) 3個月 osu! 支持者，主頁訂製勳章，CrazyBoard Mark One 鍵盤；
+![](/wiki/shared/crown-silver.png) 2個月 osu! 支持者；
+![](/wiki/shared/crown-bronze.png) 1個月 osu! 支持者。
 
 ## 比賽主辦團隊
 
@@ -95,7 +95,7 @@ TB:
 TB:
 - [Camellia - Exit This Earth's Atomosphere \[Spaceship\]](https://osu.ppy.sh/beatmaps/1043774)
 
-### 四分之一決賽
+### 八強賽
 
 [**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)
 - [DJ Genki feat. yukacco - Candy Star \[Noodle Star\]](https://osu.ppy.sh/beatmaps/1243769)
@@ -116,7 +116,7 @@ TB:
 TB:
 - [Billain - Specialist \[Maestro\]](https://osu.ppy.sh/beatmaps/1216877)
 
-### 16強
+### 十六強賽
 
 [**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloSM2ivgLojrSLnxT)
 - [senya - Shinrabansho ni furete \[Insane(LN)\]](https://osu.ppy.sh/beatmaps/1242917)
@@ -217,7 +217,7 @@ TB:
 |  | Neokje | ![][MY] | 2 : 6 | ![][CN] | \[Crz\]ScSolAr | [記錄](https://osu.ppy.sh/community/matches/34731835) |
 |  | NED_Q | ![][CN] | 0 : 6 | ![][CN] | pikechu | 缺席 |
 
-### 四分之一決賽
+### 八強賽
 
 | 日期 | 藍隊 |  | 比分 |  | 紅隊 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
@@ -230,7 +230,7 @@ TB:
 |  | \[Crz\]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [記錄](https://osu.ppy.sh/community/matches/34570396) |
 |  | - Choma - | ![][TW] | 2 : 5 | ![][CN] | \[Crz\]ScSolAr | [記錄](https://osu.ppy.sh/community/matches/34571413) |
 
-### 16強
+### 十六強賽
 
 | 日期 | 藍隊 |  | 比分 |  | 藍隊 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
@@ -415,7 +415,7 @@ TB:
    - 半決賽與決賽各有**16**張圖。
 3. 每一個圖池包括一個決勝圖（Tie-breaker）（資格賽除外）。
 4. 所有地圖，包括決勝圖，都使用 Free-mod 進行：
-   - 任何選手都可以自行選擇 Hidden (HD), Flashlight (FL), 或其他 Mod。
+   - 任何選手都可以自行選擇 Hidden (HD)、Flashlight (FL)、或其他 Mod。
 
 ## 日程安排
 
@@ -432,7 +432,7 @@ TB:
 [UK]: /wiki/shared/flag/GB.gif "英國"
 [TW]: /wiki/shared/flag/TW.gif "臺灣"
 [MY]: /wiki/shared/flag/MY.gif "馬來西亞"
-[AU]: /wiki/shared/flag/AU.gif "澳大利亞"
+[AU]: /wiki/shared/flag/AU.gif "澳洲"
 [SG]: /wiki/shared/flag/SG.gif "新加坡"
 [HK]: /wiki/shared/flag/HK.gif "香港"
 [CA]: /wiki/shared/flag/CA.gif "加拿大"
