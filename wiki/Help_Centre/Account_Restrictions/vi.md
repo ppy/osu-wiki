@@ -74,7 +74,7 @@ Thêm vào đó, trong thời hạn một năm, chúng tôi sẽ không chấp n
 
 Với một vài trường hợp, người chơi trở lại sẽ bị cấm tham gia giải đấu chính thức và giải có badge, bất kể dưới vai trò là người chơi hay người điều hành giải. Thời hạn cấm là 1 năm ứng với mỗi lần vi phạm (nếu người chơi quay lại sau lần khiếu nại thứ hai, thì sẽ bị cấm 2 năm). Điều này sẽ được ghi rõ trong email phản hồi khiếu nại.
 
-**Gian lận hoặc chia sẻ tài khoản khi tham gia giải đấu chính thức hay giải có badge sẽ khiến người chơi bị cấm *vĩnh viễn* khỏi mọi giải đấu trong tương lai.** Bạn không thể khiếu nại điều này (email bạn sẽ bị bỏ qua nếu bạn cố) và sẽ không thể gỡ bỏ, hay giảm với bất cứ lý do nào.
+**Gian lận hoặc chia sẻ tài khoản khi tham gia giải đấu chính thức hay giải có badge sẽ khiến người chơi bị cấm *vĩnh viễn* khỏi mọi giải đấu trong tương lai.** Bạn không thể khiếu nại điều này (email của bạn sẽ bị bỏ qua nếu bạn cố) và sẽ không thể được gỡ bỏ, hay giảm xuống với bất cứ lý do nào.
 
 Một vài người chơi có thể bị giới hạn lại khi họ bắt đầu chơi lại sau khi khiếu nại được chấp nhận. Đây chỉ là một quy trình tự động và sẽ thường được gỡ trong 24 tiếng. Đừng ngần ngại hỏi trên twitter [@osusupport](https://twitter.com/osusupport) hoặc bằng cách gửi email [accounts@ppy.sh](mailto:accounts@ppy.sh) nếu nó xảy ra với bạn!
 
