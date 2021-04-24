@@ -210,7 +210,7 @@ Saturday, 10 August 2019:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Lusty Platypus ![][flag_AU] | 3 | **7** | ![][flag_NZ] **Sparxe** | [#1](https://osu.ppy.sh/community/matches/53971181) |
-| Beat43210 ![][flag_AU] | 1 | **7** | ![][flag_ID] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/53970259) |
+| Beat43210 ![][flag_AU] | 1 | **7** | ![][flag_ID] **apaajaboleh10** | [#1](https://osu.ppy.sh/community/matches/53970259) |
 
 Sunday, 11 August 2019:
 
