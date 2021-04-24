@@ -23,13 +23,13 @@ Experiencing these songs for yourself is the best way to really do them justice,
 ### Kites
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/159/Songs/Grynpyret%20-%20Kites.mp3" type="audio/mpeg">
 </audio>
 
 ### Tamagotchi
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/159/Songs/Grynpyret%20-%20Tamagotchi.mp3" type="audio/mpeg">
 </audio>
 
 ### A Song About Naps (Vessence Remix)
@@ -37,7 +37,7 @@ Experiencing these songs for yourself is the best way to really do them justice,
 Try [this osu! set](https://osu.ppy.sh/beatmapsets/398008) also hosted by [VINXIS](https://osu.ppy.sh/users/4323406)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/159/Songs/Grynpyret%20-%20A%20Song%20About%20Naps%20%28Vessence%20Remix%29.mp3" type="audio/mpeg">
 </audio>
 
 ---
