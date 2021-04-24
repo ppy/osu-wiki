@@ -8,7 +8,7 @@ date: 2021-04-24 08:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/159/header.jpg)
 
-Ever since their own brand of eccentric melodies took root on SoundCloud in 2014, **Grynpyret** (pronounced "green parrot") has pioneering the electronic music sphere. Their sound is a blend of relaxation and peculiarity, involving a calming blend of sound samples you won't find in any other music.
+Ever since their own brand of eccentric melodies took root on SoundCloud in 2014, **Grynpyret** (pronounced "green parrot") has been pioneering the electronic music sphere. Their sound is a blend of relaxation and peculiarity, involving a calming blend of sound samples you won't find in any other music.
 
 We've scored **9** tracks this time around, including the cult classic behind [*Boba Beach*](https://osu.ppy.sh/beatmapsets/327224) hosted by [VINXIS](https://osu.ppy.sh/users/4323406).
 
