@@ -12,7 +12,7 @@ Rất khó để hỗ trợ bạn khi mọi vấn đề bạn gặp được g�
 
 Nhạc của beatmap thi thoảng bị tua ngược, hoặc cảm thấy giật. Về cơ bản thì khi game lag, bạn có thể cảm nhận thấy nó qua âm thanh nghe được. Trước khi tiến hành chẩn đoán hoặc báo cáo, bạn hãy thử:
 
-- Kiểm tra xem nó có hiện tượng tương tự với mọi thiết bị âm thanh khác (loa, tai nghe, ...). Nếu bạn dùng tai nghe có chân cắm USB, bạn hãy thử kết nối qua analog output của PC.
+- Kiểm tra xem liệu hiện tượng tương tự có xảy ra với các thiết bị âm thanh khác (loa, tai nghe, ...). Nếu bạn dùng tai nghe có chân cắm USB, bạn hãy thử kết nối qua analog output của PC.
 - Thử xem việc bật "Audio compatibility mode" trong Cài đặt có giúp ích gì không.
 
 ### Bị đứng hình
@@ -65,7 +65,7 @@ Không khuyến nghị cho màn hình 60Hz. Nhưng nó có thể hữu ích hơn
 
 ### Power Saving (Tiết kiệm điện)
 
-Mức giới hạn này nhắm tới việc tiết kiệm điện trong khi vẫn đáp ứng được trải nghiệm game ổn định. Game sẽ chạy với fps bằng 2 lần tần số quét của màn hình và cố gắng giữ ổn định tần suất khung hình.
+Mức giới hạn này nhắm tới việc tiết kiệm điện trong khi vẫn đáp ứng được trải nghiệm game ổn định. Game sẽ chạy với FPS bằng 2 lần tần số quét của màn hình và cố gắng giữ ổn định tần suất khung hình.
 
 Khuyến nghị cho máy tính cổ hoặc laptop cần tiết kiệm pin.
 
@@ -85,7 +85,7 @@ Nghe thì có vẻ là lựa chọn tốt nhất (và đúng là như vậy, n�
 - Bằng việc đẩy CPU và GPU đến cực hạn, có khả năng chúng sẽ nghẽn, dẫn đến giảm hiệu năng tổng thể.
 - GPU vốn dĩ không dùng để xuất hơn 1000 khung hình trên giây, nên nhiều hành vi bất thường có thể xảy ra, bao gồm giảm hiệu năng và tăng độ trễ thay vì giảm đi theo lý thuyết.
 
-Tuy nhiên, nếu sự sinh nhiệt và tiềm năng làm phần cứng bạn quá tải không phải là vấn đề đáng quan tâm, Unlimited có thể là lựa chọn đem lại tần suất frame ổn định nhất.
+Tuy nhiên, nếu sự sinh nhiệt và nguy cơ làm phần cứng của bạn quá tải không phải là vấn đề đáng quan tâm, Unlimited có thể là lựa chọn đem lại FPS ổn định nhất.
 
 ### Custom (Tuỳ chỉnh)
 

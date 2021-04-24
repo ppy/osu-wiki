@@ -72,7 +72,7 @@ Nếu chúng tôi quyết định cho bạn quay lại, chúng tôi sẽ yêu c�
 
 Thêm vào đó, trong thời hạn một năm, chúng tôi sẽ không chấp nhận yêu cầu thay đổi cờ ở tài khoản của bạn.
 
-Với một vài trường hợp, người chơi trở lại sẽ bị cấm tham gia giải đấu chính thức và giải có badge, bất kể dưới vai trò là người chơi hay người điều hành giải. Thời hạn cấm là 1 năm ứng với mỗi lần vi phạm (nếu người chơi quay lại sau lần khiếu nại thứ hai, thì sẽ bị cấm 2 năm). Điều này sẽ được ghi rõ trong email phản hồi khiếu nại.
+Đối với một vài trường hợp, người chơi trở lại sẽ bị cấm tham gia giải đấu chính thức và giải có badge, bất kể dưới vai trò là người chơi hay người điều hành giải. Thời hạn cấm là 1 năm ứng với mỗi lần vi phạm (nếu người chơi quay lại sau lần khiếu nại thứ hai, thì sẽ bị cấm 2 năm). Điều này sẽ được ghi rõ trong email phản hồi khiếu nại.
 
 **Gian lận hoặc chia sẻ tài khoản khi tham gia giải đấu chính thức hay giải có badge sẽ khiến người chơi bị cấm *vĩnh viễn* khỏi mọi giải đấu trong tương lai.** Bạn không thể khiếu nại điều này (email của bạn sẽ bị bỏ qua nếu bạn cố) và sẽ không thể được gỡ bỏ, hay giảm xuống với bất cứ lý do nào.
 
