@@ -75,6 +75,29 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+- NoMod
+  - [sabi\_c - Class B (Maeda) \[Diff A\]](https://osu.ppy.sh/beatmapsets/1295205#taiko/2687456)
+  - [Digital Math - The Musky Thrust (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1153833#taiko/2408145)
+  - [doth - Toy Boxxxx (Sayaka-) \[Oni\]](https://osu.ppy.sh/beatmapsets/380854#taiko/833267)
+  - [tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix) (Myckoll) \[Myruki's Sweet\]](https://osu.ppy.sh/beatmapsets/724269#taiko/1529288)
+- Hidden
+  - [Sou - tontiki rantiki tin nomi kikou (nekomusya1234) \[Oni\]](https://osu.ppy.sh/beatmapsets/1313318#taiko/2721748)
+  - [Tatsh feat. Ayane - STARLIGHT TWILIGHT -GC edit- (ll-oscar) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/502704#taiko/1069808)
+- HardRock
+  - [Chicala Lpis - Blackest Luxury Car (tasuke912) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1098791#taiko/2295648)
+  - [MIMI feat. Hatsune Miku - Ai no Sukima (Rock Cover) (Hivie) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1096932#taiko/2292104)
+- DoubleTime
+  - [TUYU - Territory Battle (Jerry) \[Oni\]](https://osu.ppy.sh/beatmapsets/1363181#taiko/2820285)
+  - [Lena Raine - Pigstep (Fallmorph) \[Oni\]](https://osu.ppy.sh/beatmapsets/1162493#taiko/2424957)
+- FreeMod
+  - [REDALiCE - Masakari Blade (Kobayu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1238727#taiko/2575509)
+  - [otetsu - Minamo no Sakura, Yume wa Sakayume (hikikochan) \[Dreamless\]](https://osu.ppy.sh/beatmapsets/442068#taiko/950736)
+  - [Frums - 24eeev0-$ (Gamelan4) \[rubies87's Oni\]](https://osu.ppy.sh/beatmapsets/1111340#taiko/2331733)
+- Tiebreaker
+  - **[Camellia - Quaoar (Nepuri) \[Transneptunian\]](https://osu.ppy.sh/beatmapsets/931741#taiko/1945451)**
+
 ### Group Stage
 
 **[Download the mappack here! (53 MB)](https://drive.google.com/file/d/1_9FfeVHDMf3fMae8ZxMMWkrEESVETm-r/view?usp=sharing)**
