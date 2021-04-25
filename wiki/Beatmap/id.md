@@ -34,7 +34,7 @@ Setelah di-submit, sebuah beatmap akan mendapatkan tambahan tempat khusus untuk 
 
 ### Identifikasi
 
-Setiap beatmap yang diunggah akan mendapatkan pengenal numerik (`BeatmapSetID`), yang dapat dilacak di situs web dan melalui [osu!api](/wiki/osu!api). Tingkat kesulitan pada sebuah beatmap juga mempunyai pengenal numerik masing-masing (`BeatmapID`). URL yang mengarah ke tab tingkat kesulitan tertentu pada halaman beatmap menyertakan pengenal numerik tambahan dan memiliki format sebagai berikut:
+Setiap beatmap yang diunggah akan mendapatkan pengenal numerik (`BeatmapSetID`), yang dapat dilacak di situs web dan melalui [osu!api](/wiki/osu!api). Tingkat kesulitan pada sebuah beatmap juga mempunyai pengenal numerik masing-masing (`BeatmapID`). URL yang mengarah ke tingkat kesulitan tertentu pada halaman beatmap akan diberikan juga pengenal numerik tambahan dan memiliki format sebagai berikut:
 
 ```
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
@@ -53,7 +53,7 @@ Terdapat beberapa kategori pada beatmap yang telah diunggah, yang dapat berubah 
 - [Approved](Category#approved)
 - [Loved](Category#loved)
 
-Beberapa kategori mempunyai [kriteria submisi](/wiki/Ranking_Criteria) dan memungkinkan beatmap memiliki [papan peringkat](#leaderboards) sementara atau permanen. Cara yang paling disukai untuk mendapatkannya adalah melalui [prosedur beatmap ranking](/wiki/Beatmap_ranking_procedure), sedangkan opsi kedua adalah dengan menjadikan beatmap [loved](Category#loved).
+Beberapa kategori mempunyai [kriteria submisi](/wiki/Ranking_Criteria) dan memungkinkan beatmap memiliki [papan peringkat](#leaderboards) sementara atau permanen. Cara untuk mendapatkan papan peringkat pada beatmap adalah melalui [prosedur beatmap ranking](/wiki/Beatmap_ranking_procedure), sedangkan opsi kedua adalah dengan menjadikan beatmap [loved](Category#loved).
 
 ## Mengunduh beatmap
 
@@ -84,7 +84,7 @@ Terdapat sumber-sumber beatmap lainnya, yang **tidak diperiksa atau dioperasikan
 
 ### Papan peringkat
 
-Pengguna osu! di semua mode permainan menggunakan beatmap untuk [menaikkan peringkat secara global](/wiki/Performance_points) dan [bersaing satu sama lain](/wiki/Ranking). osu! mempunyai beberapa tipe penyortiran pada papan peringkat spesifik beatmap. Semuanya, kecuali yang pertama, hanya tersedia bagi pengguna [osu!supporter](/wiki/osu!supporter):
+Pengguna osu! di semua mode permainan menggunakan beatmap untuk [menaikkan peringkat secara global](/wiki/Performance_points) dan [bersaing satu sama lain](/wiki/Ranking). osu! mempunyai beberapa tipe penyortiran pada papan peringkat spesifik beatmap. Semua papan peringkat dapat dilihat oleh pengguna, namun beberapa papan peringkat tertentu hanya tersedia bagi pengguna [osu!supporter](/wiki/osu!supporter):
 
 - Peringkat global, yang berfungsi di seluruh pemain yang aktif;
 - Peringkat global untuk setiap kombinasi dari [game modifier](/wiki/Game_modifier);
