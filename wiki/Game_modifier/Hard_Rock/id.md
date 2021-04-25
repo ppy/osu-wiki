@@ -35,7 +35,7 @@ Pada [osu!](/wiki/Game_mode/osu!), (bersama dengan pengaturan kesulitan yang tel
 
 Sebagai tambahan, jika pemain telah menghafal atau sudah terbiasa dengan gerakan dan pola sebuah beatmap, beralih ke mod Hard Rock bisa menghilangkan penghafalan tersebut dan menyebabkan semacam sebuah kesulitan palsu.
 
-![Tampilan permainan HR](img/HR-comparison-standard.jpg "Perbandingan dari sebuah map tanpa mod terpasang (kiri) dengan map yang sama dengan mod Hard Rock dipasang (kanan) pada mode osu!")
+![Tampilan permainan HR](img/HR-comparison-osu.jpg "Perbandingan dari sebuah map tanpa mod terpasang (kiri) dengan map yang sama dengan mod Hard Rock dipasang (kanan) pada mode osu!")
 
 ### osu!taiko
 
@@ -64,7 +64,7 @@ Pada [osu!mania](/wiki/Game_mode/osu!mania), hanya pengaturan kesulitan penilaia
 - Mod Hard Rock dinamai dari kesulitan tersusah pada permainan [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS "Wikipedia"), "[Elite Beat Agents](/wiki/Glossary#eba)"
 - Mod Hard Rock akan mematikan mod [Easy](/wiki/Game_modifier/Easy). Dan sebaliknya.
 
-[osu!]: /wiki/shared/mode/osu.png "osu!standard"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
