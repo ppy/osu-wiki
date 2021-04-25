@@ -9,17 +9,17 @@ tags:
 
 ## February
 
-Storyboard rules were updated to allow for image sizes larger than 854x640 on 16 February 2015. As  suggested by [Xgor](https://osu.ppy.sh/users/98661), the new maximum rankable image size in storyboards was updated to 1366x768 [[1,2]][r].
+On 16 February 2015, storyboard rules were updated to allow image sizes larger than 854x640. As  suggested by [Xgor](https://osu.ppy.sh/users/98661), the new maximum rankable image size for storyboards was updated to 1366x768 [[1,2]][r].
 
 ## March
 
 The first ever edition of osu!weekly was released on 13 March 2015. Written by [Tasha](https://osu.ppy.sh/users/1031958), osu!weekly positioned itself as "a weekly news digest covering the latest happenings of the game and its community" [[2]][r].
 
-The first ever osu! Beatmap Blueprint stickers were added to the [osu!store](https://osu.ppy.sh/store/listing) on 20 March 2015. The stickers came in two packs of 8.5" x 11" custom sticker sheets featuring elements such hit circles, combo counters, sliders, and much more [[3]][r]. In celebration of the launch, a contest was run to see who could make the best [beatmaps](/wiki/Beatmap) using the stickers, with a first place prize of an osu! tablet and osu! sticker sets 1 and 2. Despite this, the contest was cancelled due to a lack of submissions, and no follow-up regarding this was ever publicly stated at the time [[3,4]][r]. <!--price needed-->
+The first ever osu! Beatmap Blueprint stickers were added to the [osu!store](https://osu.ppy.sh/store/listing) on 20 March 2015. The stickers came in two packs of 8.5" x 11" custom sticker sheets featuring such elements as hit circles, combo counters, sliders, and much more [[3]][r]. In celebration of the launch, a contest was run to see who could make the best [beatmap](/wiki/Beatmap) using the stickers, with a first place prize of an osu! tablet and osu! sticker sets 1 and 2. Despite this, the contest was cancelled due to a lack of submissions, and no follow-up regarding this was ever publicly stated at the time [[3,4]][r]. <!--price needed-->
 
 [Wii Remote](https://en.wikipedia.org/wiki/Wii_Remote "Wikipedia") support was added for [osu!taiko](/wiki/Game_mode/osu!taiko) on 26 March 2015 [[5]][r]. <!--changelog entry missing-->
 
-On 31 March 2015, [osu!coins](/wiki/osu!coins) were added as a joke in-game currency for osu! as part of an April Fools' day joke. The coins were made to parody [free-to-play](https://en.wikipedia.org/wiki/Free-to-play "Wikipedia") mobile games' common use of in-game currencies and [microtransactions](https://en.wikipedia.org/wiki/Microtransaction "Wikipedia") and were quickly removed the next day.
+On 31 March 2015, [osu!coins](/wiki/osu!coins) were added as a joke in-game currency for osu! as a part of an April Fools' day joke. The coins were made to parody [free-to-play](https://en.wikipedia.org/wiki/Free-to-play "Wikipedia") mobile games' common use of in-game currencies and [microtransactions](https://en.wikipedia.org/wiki/Microtransaction "Wikipedia"). The osu!coins were quickly removed the following day.
 
 ## April
 
@@ -35,19 +35,20 @@ The [Co-op mod](/wiki/Game_modifier/Co-op) became an unranked mod on 6 April 201
 
 The old Beatmap Nominator (BN) ranking was fully deprecated on 1 May 2015, and replaced with a new, real-time ranking. This new ranking retained the original goal of the previous one, although it focused on challenge and collaboration as opposed to individual performance over a set timeframe. Public reception towards this new change was overall mostly positive, although many users did remark that the new system was confusing [[10,11]][r].
 
-Among the changes and announcements made surrounding beatmap ranking, [a change was made in the ranking process](https://osu.ppy.sh/community/forums/topics/325973) on 5 May 2015 that allowed players to dispute disqualifications made by the Quality Assurance Team (QAT), due to the lack of any way to dispute issues that the QAT may bring up. The new change made it from then on possible to submit a form if there was a dispute, where a final decision could be made regarding the map and whether it is ready to be ranked [[12]][r].
+Among the changes and announcements made surrounding beatmap ranking, [a change was made to the ranking process](https://osu.ppy.sh/community/forums/topics/325973) on 5 May 2015 that allowed players to dispute disqualifications made by the Quality Assurance Team (QAT), due to the lack of any way to dispute issues that the QAT may bring up. The new change made it possible to submit a form if there was a dispute, where a final decision could be made regarding a beatmap and whether it is ready to be ranked [[12]][r].
 
-The [osu!news YouTube Channel](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ "YouTube") uploaded its [first video](https://www.youtube.com/watch?v=KQbudVxEjr8 "YouTube") to the public on 8 May 2015. The channel was run by various members of the community and aimed to create videos on skin showcases, tournaments, mapping, contests, and other news from the community [[12,13]][r].
+
+The [osu!news YouTube channel](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ "YouTube") uploaded its [first video](https://www.youtube.com/watch?v=KQbudVxEjr8 "YouTube") to the public on 8 May 2015. The channel was run by various members of the community and aimed to create videos on skin showcases, tournaments, mapping, contests, and other news from the community [[12,13]][r].
 
 The osu!keyboard (also known as the "osu! 'nono' keyboard") was added to the osu!store on 30 May 2015, retailing for about $40 at launch. Initially announced in a [tweet by peppy](https://twitter.com/ppy/status/603797988742336512) on 28 May 2015, there were only 100 keyboards available at launch, and were more akin to a keypad than a full-sized keyboard [[14,15]][r].
 
-![](img/osu-keyboard.jpg "Image of the osu! keyboard teased in the tweet by peppy")
+![](img/osu-keyboard.jpg "The osu! keyboard teased in a tweet by peppy")
 
 ## June
 
 Implementation of the username change system in the osu!store was set live on 16 June 2015, although full functionality of the system was not available until 18 June 2015. The changes made it so that players must pay $4 USD for their first name change, $8 USD for their second, $16 USD for their third, after which the price would double with each succeeding purchase with a cap at $100 USD; however, if a user had bought an [osu!supporter tag](https://osu.ppy.sh/home/support), then their first change would be free [[16,17,18,19]][r].
 
-The ability to see what a replay would look like without [mods](/wiki/Game_modifier) was added on 23 June 2015 as per a [feature request](https://osu.ppy.sh/community/forums/topics/97560), although the change only made the mods [Double Time](/wiki/Game_modifier/Double_Time), [Half Time](/wiki/Game_modifier/Half_Time), and [Flashlight](/wiki/Game_modifier/Flashlight) toggle-able [[20]][r].
+The ability to see what a replay would look like without [mods](/wiki/Game_modifier) was added on 23 June 2015 as per a [feature request](https://osu.ppy.sh/community/forums/topics/97560), although the change only made the mods [Double Time](/wiki/Game_modifier/Double_Time), [Half Time](/wiki/Game_modifier/Half_Time), and [Flashlight](/wiki/Game_modifier/Flashlight) togglable [[20]][r].
 
 ## July
 
@@ -65,7 +66,7 @@ The Chat Moderators were officially merged into the Global Moderation Team (GMT)
 
 The old FPS counter was replaced with a new "refresh and latency display" on 2 September 2015. This new display would still display the current FPS (frames per second), but the new change caused it to hide from view if it exceeded 500 FPS. In addition, a new counter was added below the FPS counter that would display exactly how much latency was being introduced during frame rendering (measured in milliseconds). "Stuttered" or "dropped" frames would be shown as coloured rectangles to the left of the counter to better visualise exactly how much frame render latency a user was experiencing [[26,27]][r].
 
-On 26 September 2015, [cYsmix](http://cysmix.com/ "cysmix.com") became one of the first official osu! artists. This partnership entailed the creation of four tracks made specifically for osu!, along with the creation of a mapping contest using those tracks. The aforementioned four tracks were as follows:
+On 26 September 2015, [cYsmix](http://cysmix.com/ "cysmix.com") became one of the first official osu! artists. This partnership entailed the creation of three tracks made specifically for osu!, along with the creation of a mapping contest using those tracks. The aforementioned four tracks were as follows:
 
 - ["Manic"](https://soundcloud.com/olemlanglie/cysmix-manic-osu)
 - ["House with Legs"](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-osu)
@@ -75,7 +76,7 @@ On 26 September 2015, [cYsmix](http://cysmix.com/ "cysmix.com") became one of th
 
 Each track had its own pre-timed [`.osz`](/wiki/osu!_File_Formats/Osz_(file_format)) file included with it and were released on [cYsmix's SoundCloud](https://soundcloud.com/olemlanglie "SoundCloud") on 28 September 2015.
 
-In addition to this, an "open bounty" named "Mapping With Rewards" was created for this event, that allowed anyone to map one of the aforementioned tracks, get it into a rankable state, and if it was impressive enough, that person would receive a bounty for it. The bounty reward offered at the time was as follows: one song bundled with client (for a limited period of time), $50 osu!store credit, 6 months supporter tag, and a unique profile badge. This open bounty was reportedly created due to a want to reward players for quality beatmaps and to celebrate the new tracks but without having to go through the hassle that comes with running traditional mapping contests [[26]][r].
+In addition to this, an "open bounty" named "Mapping With Rewards" was created for this event, that allowed anyone to map one of the aforementioned tracks, get it into a rankable state, and if it was impressive enough, that person would receive a bounty for it. The bounty reward offered at the time was as follows: one song bundled with client (for a limited period of time), $50 osu!store credit, 6 months supporter tag, and a unique profile badge. This open bounty was reportedly created due to a need to reward players for quality beatmaps and to celebrate the new tracks without having to go through the hassle that comes with running traditional mapping contests [[26]][r].
 
 Despite [promises from peppy on his blog](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015 "ppy blog"), however, the results for Mapping With Rewards were not posted by the end of the year.
 
@@ -83,7 +84,7 @@ Despite [promises from peppy on his blog](https://blog.ppy.sh/post/132009865043/
 
 ## October
 
-After many months of work, a full migration from [DirectX](https://en.wikipedia.org/wiki/DirectX "Wikipedia") to [OpenGL](https://en.wikipedia.org/wiki/OpenGL "Wikipedia") graphics rendering was completed and pushed out to all users on the Stable release stream on 16 October 2015; however, users who were not able to run the new update due to compatibility issues were switched to a new release stream named "Stable (Fallback)", which used the old DirectX graphics rendering and was meant to be continuously supported alongside the Stable release until the team felt confident enough in the compatibility of the OpenGL rendering for all users [[28,29,30,31,32]][r]. <!--not sure if we should elaborate on this more or not (delete before merge)-->
+After months of work, a full migration from [DirectX](https://en.wikipedia.org/wiki/DirectX "Wikipedia") to [OpenGL](https://en.wikipedia.org/wiki/OpenGL "Wikipedia") graphics rendering was completed and pushed out to all users on the Stable release stream on 16 October 2015. However, users who were not able to run the new update due to compatibility issues were switched to a new release stream named "Stable (Fallback)", which used the old DirectX graphics rendering. It was meant to be continuously supported alongside the Stable release until the team felt confident enough in the compatibility of the OpenGL rendering for all users [[28,29,30,31,32]][r]. <!--not sure if we should elaborate on this more or not (delete before merge)-->
 
 Another batch of official osu! songs were released by cYsmix on 27 October 2015, with a similar "open-bounty–style" contest being opened for it as well. The three songs were ["Fright March"](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu "SoundCloud"), ["Moonlight Sonata"](https://soundcloud.com/olemlanglie/cysmix-moonlight-sonata-osu "SoundCloud"), and ["Classic Pursuit"](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu "SoundCloud") [[33,34]][r].
 
@@ -91,7 +92,7 @@ Another batch of official osu! songs were released by cYsmix on 27 October 2015,
 
 Just like the [previous month's Mapping with Rewards contest](#september), the results were not posted before the end of the year.
 
-The URL for the testing subdomain of the new osu! forums (jizz.ppy.sh) was replaced with new.ppy.sh on 26 October 2015 due to the sexual connotations that the word "jizz" in the old URL may have implied [[34,35]][r].
+The URL for the testing subdomain of the new osu! forums (jizz.ppy.sh) was replaced with new.ppy.sh on 26 October 2015 due to the explicit connotations that the old URL may have implied [[34,35]][r].
 
 The first and only batch of portable osu! install USB sticks (shown below) were first announced on 30 October 2015 on [peppy's blog](https://blog.ppy.sh/ "ppy blog"), showcasing the first images of their completely metal body design. At the time of announcement, they were slated for a December 2015 release [[34,36]][r]. <!--everything about this line is practically a guess; needs heavy scrutiny (delete before merge)-->
 
