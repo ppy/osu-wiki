@@ -9,7 +9,7 @@ tags:
 
 # Hybrid
 
-L'**Hybrid** est une méthode de jeu pour le mode [osu!](/wiki/Game_mode/osu!) qui consiste à cliquer sur les cercles, faire glisser les sliders, ou faire tourner les spinners en utilisant une combinaison de [single-tapping](/wiki/Play_style/Single-tapping) et/ou d'[alternating](/wiki/Play_style/Alternating). Ce style peut être trouvé chez des joueurs de tous niveaux de compétence et la compétence requise pour l'exécuter peut varier d'une beatmap à l'autre et d'une variation à l'autre.
+L'**hybrid** est une méthode de jeu pour le mode [osu!](/wiki/Game_mode/osu!) qui consiste à cliquer sur les cercles, faire glisser les sliders, ou faire tourner les spinners en utilisant une combinaison de [single-tapping](/wiki/Play_style/Single-tapping) et/ou d'[alternating](/wiki/Play_style/Alternating). Ce style peut être trouvé chez des joueurs de tous niveaux de compétence et la compétence requise pour l'exécuter peut varier d'une beatmap à l'autre et d'une variation à l'autre.
 
 ## Usage/techniques
 
