@@ -10,17 +10,3 @@ A **storyboard** (SB) is a custom-made animated background that accompanies a [b
 Storyboards are stored in beatmap folders as either standalone [`.osb` files](/wiki/osu!_File_Formats/Osb_(file_format)) or extensions to the `[Events]` section of a [`.osu` file](/wiki/osu!_File_Formats/Osu_(file_format)). Because of this, it's possible to create different storyboards for different maps within a [beatmapset](/wiki/Glossary#beatmapset).
 
 Storyboards are often very difficult to make and require considerable time and expertise in standard animation and in the creation of graphics. osu! offers a [design editor](/wiki/Beatmap_Editor/Design) inside of the [beatmap editor](/wiki/Beatmap_Editor) to aid the creation of storyboards, but most avid storyboard producers opt to instead program via [storyboard scripting](/wiki/Storyboard_Scripting) directly. Many creators choose to write programs in full-featured programming languages to generate storyboards scripts, because complex visual effects can require a great amount of storyboard code to produce.
-
-## Storyboarding
-
-*See also: [Storyboarding](/wiki/Storyboarding).*
-
-## Beatmaps with nice storyboard
-
-- [Code Red - 18 Mne Uzhe (Dan Winter Radio Edit) (jericho2442)](https://osu.ppy.sh/beatmapsets/28926)
-- [HTT - NO, Thank You! (S i R i R u)](https://osu.ppy.sh/beatmapsets/18841)
-- [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring (Mafiamaster)](https://osu.ppy.sh/beatmapsets/27107)
-- [kors k vs. L.E.D. - SOLID STATE SQUAD (yeahyeahyeahhh vs. La Cataline)](https://osu.ppy.sh/beatmapsets/27148)
-- [The O.C. Supertones - I Can Be Your Friend (K2J)](https://osu.ppy.sh/beatmapsets/10559)
-- [Perfume - Baby Cruising Love (peppy)](https://osu.ppy.sh/beatmapsets/8023)
-- [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/beatmapsets/5381)
