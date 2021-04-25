@@ -212,7 +212,7 @@ Ces joueurs ont gagnés leurs titres à travers des prouesses exceptionnelles, o
 
 <!-- TODO: reasons -->
 
-| Utilisateur | Artiste |
+| Utilisateur | Titre |
 | :-- | :-- |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE <!-- old forum meme --> |
@@ -222,7 +222,7 @@ Ces joueurs ont gagnés leurs titres à travers des prouesses exceptionnelles, o
 
 ## Par nom
 
-| Utilisateur | Artiste |
+| Utilisateur | Titre |
 | :-- | :-- |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
