@@ -24,7 +24,7 @@ tags:
 - Pengali Skor: 1.00x
 - Tombol shortcut: `V`
 - Deskripsi: `Tonton permainan sempurna yang berjalan secara otomatis`<!-- yes, that is written correctly -->
-- Mode permainan yang cocok: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Mode permainan yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Deskripsi
 
@@ -34,9 +34,9 @@ Mod **Auto** adalah sebuah [game modifier](/wiki/Game_modifier) yang memungkinka
 
 Fungsi mod ini sama seperti sebuah [tayangan ulang](/wiki/Replay), dengan opsi pemutaran kecepatan 0.5x/1.0x/2.0x yang dapat digunakan, dan komentar pada beatmap yang dapat dilihat dan dibuat seperti biasa. Mod Auto akan selalu mendapatkan grade SS, dengan pengecualian tertentu dalam beberapa kasus.
 
-### osu!standard
+### osu!
 
-Di [osu!standard](/wiki/Game_mode/osu!), saat bertemu dengan sebuah spinner, mod Auto akan memutar spinner pada kecepatan maksimal yaitu 477 spins per minute (SPM) dengan arah yang berlawanan dengan arah jarum jam.
+Di [osu!](/wiki/Game_mode/osu!), saat bertemu dengan sebuah spinner, mod Auto akan memutar spinner pada kecepatan maksimal yaitu 477 spins per minute (SPM) dengan arah yang berlawanan dengan arah jarum jam.
 
 ### osu!taiko
 
@@ -54,7 +54,7 @@ Di [osu!mania](/wiki/Game_mode/osu!mania), mod Auto akan mencoba melakukan perma
 
 - Saat menonton sebuah tayangan ulang Auto, nama pengguna yang ditampilkan pada papan peringkat akan menjadi "osu!."
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
