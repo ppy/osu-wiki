@@ -6,11 +6,11 @@ tags:
 
 # Beatmap
 
-Sebuah **beatmap** (terkadang disebut sebagai *beatmapset*) adalah sebuat set dari level gim ([tingkat kesulitan](#difficulty)) yang terdiri dari berbagai [hit object](/wiki/Hit_object) dan hampir selalu mewakili satu lagu. Beatmap juga mencakup komponen lainnya, semua dikemas dalam bentuk arsip dengan [ekstensi .osz](/wiki/osu!_File_Formats/Osz_(file_format)):
+**Beatmap** (terkadang disebut sebagai *beatmapset*) adalah sebuah set yang memiliki level gim (atau [tingkat kesulitan](#difficulty)) yang terdiri dari berbagai [hit object](/wiki/Hit_object) yang hampir selalu mewakili suatu lagu. Selain mewakili suatu lagu, beatmap juga mencakup komponen lainnya, semua dikemas dalam bentuk arsip [berekstensi .osz](/wiki/osu!_File_Formats/Osz_(file_format)):
 
-- Berkas lagu itu sendiri, yang tersimpan dalam format MP3 atau Ogg.
-- [background/gambar latar belakang](wiki/Beatmap/Background), atau sebuah video, atau berperan sebagai playfield.
-- [custom hitsounds](/wiki/Beatmapping/Hitsound) untuk aransemen dan umpan balik aural yang ditingkatkan (opsional).
+- berkas lagu itu sendiri, yang tersimpan dalam format MP3 atau Ogg.
+- [background/gambar latar belakang](wiki/Beatmap/Background), atau sebuah video, yang berperan sebagai playfield.
+- [custom hitsound](/wiki/Beatmapping/Hitsound) yang digunakan untuk aransemen dan umpan balik aural yang ditingkatkan (opsional).
 - [storyboard](/wiki/Storyboards) dengan efek-efek visual, berfungsi sebagai latar cerita atau tema lagu (opsional).
 - [custom skin](/wiki/Skinning), yang mengubah tampilan elemen antarmuka dan gameplay (opsional).
 
