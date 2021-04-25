@@ -55,6 +55,7 @@ Titles ของผู้เล่นนั้นปกติจะเกี่�
 - ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106)
 - ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229)
 - ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+- ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612)
 - ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072)
 - ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174)
@@ -72,6 +73,7 @@ Titles ของผู้เล่นนั้นปกติจะเกี่�
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
 - ![][flag_FI] [PianoLuigi](https://osu.ppy.sh/users/9665915)
+- ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
 - ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883)
 - ![][flag_MY] [RyoKazuka](https://osu.ppy.sh/users/6258586)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
@@ -114,6 +116,7 @@ Titles ของผู้เล่นนั้นปกติจะเกี่�
 ผู้ชนะการแข่งขัน osu!remix จะได้ Title **osu!mixer**
 
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)
+- ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
 
 ### Featured Artists
 
@@ -230,7 +233,7 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
 | ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229) | Elite Mapper |
 | ![][flag_US] [BigMoist10](https://osu.ppy.sh/users/20787676) | Featured Artist |
-| ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
+| ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer II |
 | ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | osu! Champion |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant / osu! Paragon |
 | ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | Featured Artist |
@@ -241,6 +244,7 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Elite Mapper |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) | Elite Mapper |
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | Featured Artist |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator II |
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
@@ -277,7 +281,7 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | osu!mania Champion |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | Elite Mapper |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Elite Mapper |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Elite Mapper II |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Elite Nominator |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
@@ -299,6 +303,7 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506) | osu!catch Champion |
 | ![][flag_KR] [R-18](https://osu.ppy.sh/users/4637369) | osu!catch Champion |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
+| ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Elite Mapper |
 | ![][flag_BR] [Remu](https://osu.ppy.sh/users/8700468) | osu!mania Champion |
 | ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883) | Elite Mapper |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | osu!catch Champion |
@@ -308,6 +313,7 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | osu! Hall of Famer |
 | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) | osu!taiko Champion |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game |
+| ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574) | osu!mixer |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363) | osu!mania Champion |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | Elite Mapper |
