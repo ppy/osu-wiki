@@ -56,7 +56,7 @@
 
 *提醒: 編輯的方式並不限於以上兩種，但為了指南的長度及整潔度，我們不會提到或深入討論其他工具。其他的第三方軟體跟 GitHub 網頁介面和 GitHub Desktop 相比，有更多或更少的功能。*
 
-**當你閱讀完 *GitHub Web Interface* or *GitHub Desktop* 的頁面後，你就可以繼續前往下個章節了。**
+**當你閱讀完 *GitHub 網頁介面* 或 *GitHub Desktop* 的頁面後，你就可以繼續前往下個章節了。**
 
 ## 收尾
 
