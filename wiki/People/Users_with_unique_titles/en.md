@@ -112,7 +112,7 @@ The Aspire mapping contests feature a special variation of the Elite Mapper titl
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)²
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) was awarded with the **Elite Mapper II : Aspirant** title instead for having won both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [2016 Aspire Beatmapping Contest](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
+¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) was awarded with the **Elite Mapper II : Aspirant** title instead for having won both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
 
 ² ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) is currently using the **osu!catch Champion** title instead at his request.
 
