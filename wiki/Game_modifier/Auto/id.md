@@ -28,7 +28,7 @@ tags:
 
 ## Deskripsi
 
-*Perhatian: Penggunaan mod Auto akan menyebabkan permainan menjadi unranked dan tidak akan tersimpan di papan peringkat lokal.*
+*Catatan: Penggunaan mod Auto akan menyebabkan permainan menjadi unranked dan tidak akan tersimpan di papan peringkat lokal.*
 
 Mod **Auto** adalah sebuah [game modifier](/wiki/Game_modifier) yang memungkinkan pemain untuk menonton sebuah permainan yang sempurna dari beatmap yang dipilih.
 
