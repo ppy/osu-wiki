@@ -6,7 +6,7 @@ User titles are typically associated with [user groups](/wiki/People/The_Team#us
 
 ### World Cup winners
 
-One of the prizes given to first-place winners of [official World Cups](/wiki/Tournaments#official-world-cups) is a user title that lasts for one year.
+One of the prizes given to first-place winners of [official World Cups](/wiki/Tournaments#official-world-cups) is a user title that lasts for roughly one year.
 
 Winners of [OWC 2020](/wiki/Tournaments/OWC/2020) with the **osu! Champion** user title:
 
@@ -55,6 +55,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106)
 - ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229)
 - ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+- ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612)
 - ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072)
 - ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174)
@@ -67,11 +68,12 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)
 - ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023)
 - ![][flag_AU] [m980](https://osu.ppy.sh/users/3288)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)¹
 - ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993)
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
 - ![][flag_FI] [PianoLuigi](https://osu.ppy.sh/users/9665915)
+- ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
 - ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883)
 - ![][flag_MY] [RyoKazuka](https://osu.ppy.sh/users/6258586)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
@@ -82,44 +84,52 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
+¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) was awarded with the **Elite Mapper II** title instead for having successfully earned the Elite Mapper title through two different means: Winning the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest and surpassing the 6-points threshold in the new [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest) system.
+
 ### Elite Nominators
 
 Since 2020, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)' and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members' activity in supporting the ranking system has been rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and is removed upon the user leaving the team.
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
-- ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
-- ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
-- ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
-- ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)
-- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
+- ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
+- ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)¹
+- ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)¹
+- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)¹
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
+
+¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) were all awarded with the **Elite Nominator II** title instead for having been named as Elite Nominators for two years in a row.
 
 ### Aspire mapping contest winners
 
 The Aspire mapping contests feature a special variation of the Elite Mapper title called **Elite Mapper: Aspirant** as a prize.
 
-- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
+- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)¹
 - ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
 - ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619)
 - ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792)
 - ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267)
-- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)²
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) received this title after already having an Elite Mapper title, so it was "upgraded" to **Elite Mapper II: Aspirant**. ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) is currently using the **osu!catch Champion** title instead.
+¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) was awarded with the **Elite Mapper II : Aspirant** title instead for having won both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [2016 Aspire Beatmapping Contest](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
+
+² ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) is currently using the **osu!catch Champion** title instead at his request.
 
 ### osu!remix contest winners
 
 The osu!remix contests award the **osu!mixer** title as a first-place prize.
 
-- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)
+- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
+- ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
+
+¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest.
 
 ### Featured Artists
 
 [Featured Artists](/wiki/Featured_Artists) with osu! accounts are given the **Featured Artist** title to show their involvement.
 
-![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) and ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) have the **osu!musician** title for earlier contributions to osu!'s sound design and official themes, and ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) opted to keep the **osu!mixer** title when he became a Featured Artist.
+![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) and ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) have the **osu!musician** title for earlier contributions to osu!'s sound design and official themes, and ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) opted to keep the **osu!mixer** title (which has since been upgraded into osu!mixer II) when he became a Featured Artist.
 
 | User | Artist |
 | :-- | :-- |
@@ -171,6 +181,7 @@ Storyboarders who demonstrate exceptional storyboarding talent and impress the c
 - ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
 - ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349)
+- ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231)
 - ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669)
 
 ### Gameplay-related
@@ -236,7 +247,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
 | ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229) | Elite Mapper |
 | ![][flag_US] [BigMoist10](https://osu.ppy.sh/users/20787676) | Featured Artist |
-| ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
+| ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer II |
 | ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | osu! Champion |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant / osu! Paragon |
 | ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | Featured Artist |
@@ -247,6 +258,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Elite Mapper |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) | Elite Mapper |
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | Featured Artist |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator II |
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
@@ -274,7 +286,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
 | ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824) | osu!mania Champion |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Mapper II |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Nominator II |
 | ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
 | ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
 | ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | Elite Mapper |
@@ -283,8 +295,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | osu!mania Champion |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | Elite Mapper |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Elite Mapper |
-| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Elite Nominator |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Elite Mapper II |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
@@ -305,6 +316,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506) | osu!catch Champion |
 | ![][flag_KR] [R-18](https://osu.ppy.sh/users/4637369) | osu!catch Champion |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
+| ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Elite Mapper |
 | ![][flag_BR] [Remu](https://osu.ppy.sh/users/8700468) | osu!mania Champion |
 | ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883) | Elite Mapper |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | osu!catch Champion |
@@ -314,7 +326,9 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | osu! Hall of Famer |
 | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) | osu!taiko Champion |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game |
+| ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574) | osu!mixer |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
+| ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Elite Storyboarder |
 | ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363) | osu!mania Champion |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | Elite Mapper |
 | ![][flag_US] [skymuted](https://osu.ppy.sh/users/7734050) | Featured Artist |
