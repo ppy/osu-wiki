@@ -26,6 +26,6 @@ tags:
 
 *Perhatian: Mod ini sudah tidak lagi tersedia untuk digunakan.*
 
-Mod **10K** merupakan sebuah [game modifier](/wiki/Game_modifier) untuk [osu!mania](/wiki/Game_mode/osu!mania) yang memungkinkan pemain untuk menggunakan 10 tombol pada sebuah arena bermain untuk semua [beatmap](/wiki/Beatmaps) *converted* osu!mania. Fungsinya sama persis seperti mod [xK](/wiki/Game_modifier/xK), dan dengan demikian menjadi unranked.
+Mod **10K** merupakan sebuah [game modifier](/wiki/Game_modifier) untuk [osu!mania](/wiki/Game_mode/osu!mania) yang memungkinkan pemain untuk memainkan [beatmap-beatmap](/wiki/Beatmaps) osu!mania yang di-*convert* dari mode lain dengan total 10 tombol input. Fungsinya sama persis seperti mod [xK](/wiki/Game_modifier/xK) lainnya dan dapat membuat gameplay menjadi menjadi unranked.
 
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
