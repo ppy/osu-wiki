@@ -24,13 +24,13 @@ tags:
 
 ## Deskripsi
 
-*Perhatian: Penggunaan mod Cinema akan menyebabkan permainan menjadi unranked.*
+*Catatan: Penggunaan mod Cinema akan menyebabkan permainan menjadi unranked.*
 
 Mod **Cinema** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujuan agar pemain dapat bersantai dan menonton video atau storyboard dari sebuah beatmap tanpa munculnya [hit object](/wiki/Hit_object). Mod ini sama seperti mod [Auto](/wiki/Game_modifier/Auto), tetapi **hanya background dan storyboard yang ditampilkan**.
 
 Karena mod Cinema merupakan variasi dari mod Auto, hitsound yang berasal dari hit object akan tetap terdengar. Namun, elemen tayangan ulang dan layar hasil akan dinonaktifkan bersamaan dengan dim background yang disetel ke 0%.
 
-![Gameplay Auto vs. Cinema](img/GM_Cinema.jpg)
+![Gameplay Auto dan Cinema](img/CM-comparison.jpg "Perbandingan mod Auto (kiri) dan mod Cinema (kanan)") 
 
 Mod ini memiliki efek yang sama di semua mode permainan.
 
