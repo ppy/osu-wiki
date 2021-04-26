@@ -28,9 +28,9 @@ tags:
 
 ## Deskripsi
 
-*Perhatian: Mod ini sudah tidak lagi tersedia untuk digunakan.*
+*Catatan: Mod ini sudah tidak lagi tersedia untuk digunakan.*
 
-Mod **Fade Out** adalah sebuah [game modifier](/wiki/Game_modifier) untuk [osu!mania](/wiki/Game_mode/osu!mania) yang bertujuan untuk menciptakan pengalaman yang mirip seperti mod [Fade In](/wiki/Game_modifier/Fade_In), dengan note memudar *keluar* sebelum di-hit (sebagai lawan dari memudar *ke dalam*). Mod ini digantikan oleh mod [Hidden](/wiki/Game_Modifier/Hidden).
+Mod **Fade Out** adalah sebuah [game modifier](/wiki/Game_modifier) untuk [osu!mania](/wiki/Game_mode/osu!mania) yang berkebalikan dengan mod [Fade In](/wiki/Game_modifier/Fade_In), Pada mod Fade Out, note-note yang ada akan memudar *ke arah luar* (alih-alih *ke arah dalam*) seiring waktu. Mod ini sekarang sudah digantikan oleh mod [Hidden](/wiki/Game_Modifier/Hidden).
 
 Mod Hidden dan mod Fade Out mempunyai fungsi yang sama.
 
