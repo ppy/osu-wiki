@@ -22,7 +22,7 @@
 
 3. 再點一次來前往你的分支。
 
-4. 如果你看到類似以下圖片的畫面，代表你成功建立了 `ppy/osu-wiki` 的分支，且已經到達您的分支了。
+4. 如果你看到類似以下圖片的畫面，代表你成功建立了 `ppy/osu-wiki` 的分支，且已經到達你的分支了。
    ![](img/forked.jpg)
 
 5. 繼續閱讀[同步你的分支](#syncing-your-fork)。
@@ -31,7 +31,7 @@
 
 1. 前往你的 `osu-wiki` 分支。
 
-2. 在檔案列表上方有一行文字告訴你你的分支是落後，超前，或相等於 `ppy:master`。如果顯示您的分支已經 "落後" (`This branch is X commits behind ppy:master.`) 或 "落後且超前" (`This branch is X commits ahead, X commits behind ppy:master.`) 任意數量的 commits，表示您的分支已過時。
+2. 在檔案列表上方有一行文字告訴你你的分支是落後、超前、或相等於 `ppy:master`。如果顯示你的分支已經 "落後" (`This branch is X commits behind ppy:master.`) 或 "落後且超前" (`This branch is X commits ahead, X commits behind ppy:master.`) 任意數量的 commits，表示你的分支已過時。
 
    ![](img/fork-even.jpg "OK \(無 commit 也未過時\)")
 
@@ -39,9 +39,9 @@
 
    ![](img/fork-behind.jpg "有點問題 \(你的分支過時了\)")
 
-   ![](img/fork-ahead-behind.jpg "有點問題 \(您的 commits 及分支都過時了\)")
+   ![](img/fork-ahead-behind.jpg "有點問題 \(你的 commits 及分支都過時了\)")
 
-3. 這不算什麼大問題，只要您不要編輯到已經修改的檔案，但您落後的 commits 越多，情況就越不可能發生。
+3. 這不算什麼大問題，只要你不要編輯到已經修改的檔案，但你落後的 commits 越多，情況就越不可能發生。
 
 4. 為了解決這個問題，請參見常見問題中的[我的分支過期了！](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#my-branch-is-out-of-date!)。
 
@@ -49,7 +49,7 @@
 
 ## 在本機或線上編輯
 
-現在你有兩個選擇:
+現在你有兩個選擇：
 
 - [GitHub 網頁介面](/wiki/osu!_wiki_Contribution_Guide/GitHub_Web_Interface) - 線上編輯；適合單篇文章的編輯。
 - [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop) - 在自己的電腦上編輯；適合單篇和/或多篇文章的編輯 (包括上傳、刪除及移動照片或其他檔案)。
@@ -85,7 +85,7 @@
 7. 點擊 `Create pull request`。
 
 8. 以英文輸入標題。請簡短的描述您作的修改。
-   如果是文章翻譯的 pull request ，請在標題前面加上翻譯語言的雙字母代號，並以方括弧包起來，而標題可以只寫您翻譯的文章名字就好。例如 `[FR] BBCode` 表示您更新了 [BBCode](/wiki/BBCode) 這篇文章的法文翻譯。
+   如果是關於文章翻譯的 pull request，請在標題前面加上翻譯語言的雙字母代號，並以方括弧包起來，而標題可以只寫您翻譯的文章名字就好。例如 `[FR] BBCode` 表示您更新了 [BBCode](/wiki/BBCode) 這篇文章的法文翻譯。
 
 9. 在說明欄寫下您的修改的概要，包括任何與您的 pull request 相關的資訊，例如進度及任何您想要審閱者知道的資訊。您同時也可以讓您的 pull request 被合併之後自動關閉 issue。只要在說明欄寫下 "resolves #1" 或 "closes #1" (詳見 Github 說明頁的 [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/))。
 
