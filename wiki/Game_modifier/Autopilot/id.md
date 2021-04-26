@@ -22,16 +22,16 @@ tags:
 - Pengali Skor: 0.00x
 - Tombol shortcut: `X`
 - Deskripsi: `Kursor akan digerakkan secara otomatis - Anda hanya perlu mengikuti ritme lagu! ** UNRANKED **`
-- Mode permainan yang cocok: ![][o!s]
+- Mode permainan yang cocok: ![][osu!]
 
 ## Deskripsi
 
-*Perhatian: Penggunaan mod Auto akan menyebabkan permainan menjadi unranked dan tidak akan tersimpan di papan peringkat lokal.*
+*Perhatian: Penggunaan mod Auto akan menyebabkan permainan menjadi unranked dan tidak tersimpan di papan peringkat lokal.*
 
-Mod **Autopilot** adalah sebuah [game modifier](/wiki/Game_modifier) untuk [osu!standard](/wiki/Game_mode/osu!) yang akan mengontrol pergerakan kursor dan secara sistematis berpindah tepat ke tengah [hit object](/wiki/Hit_object) berikutnya, dan menyerahkan tapping kepada pemain. Saat bermain dengan menggunakan mod Autopilot, pemain tidak akan bisa menggerakkan kursor mereka, kecuali mereka sedang berada di layar jeda (pause).
+Mod **Autopilot** adalah sebuah [game modifier](/wiki/Game_modifier) untuk [osu!](/wiki/Game_mode/osu!) yang akan mengontrol pergerakan kursor dan secara sistematis berpindah tepat ke tengah [hit object](/wiki/Hit_object) berikutnya, dan menyerahkan tapping kepada pemain. Saat bermain dengan menggunakan mod Autopilot, pemain tidak akan bisa menggerakkan kursor mereka, kecuali mereka sedang berada di layar jeda (pause).
 
-Mod Autopilot juga menonaktifkan antarmuka in-game, sehingga [skor](/wiki/Score), [kombo](/wiki/Beatmapping/Combo), dan miss menjadi tidak terlihat, meskipun hal tersebut dapat diaktifkan kembali dengan menekan tombol `Shift`+`Tab`.
+Mod Autopilot juga menonaktifkan antarmuka in-game sehingga [skor](/wiki/Score), [kombo](/wiki/Beatmapping/Combo), dan miss menjadi tidak terlihat, meskipun hal tersebut dapat diaktifkan kembali dengan menekan tombol `Shift`+`Tab`.
 
 Selain itu, nilai spins per minute (SPM) yang dilakukan oleh mod Autopilit juga sama seperti spins per minute yang dilakukan oleh mod [Spun Out](/wiki/Game_modifier/Spun_out). Dengan demikian, pemain tidak dapat meningkatkan SPM dengan cara memutar spinner menggunakan kursor mereka.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
+[osu!]: /wiki/shared/mode/osu.png "osu!"

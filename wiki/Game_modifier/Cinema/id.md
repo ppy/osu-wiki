@@ -20,21 +20,21 @@ tags:
 - Jenis: Spesial
 - Pengali Skor: 1.00x
 - Tombol shortcut: `V` `V` atau `Shift`+`V` (atau tahan `Ctrl`+`Shift` saat sedang memilih sebuah [beatmap](/wiki/Beatmaps))
-- Mode permainan yang cocok: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Mode permainan yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Deskripsi
 
-*Perhatian: Penggunaan mod Auto akan menyebabkan permainan menjadi unranked.*
+*Perhatian: Penggunaan mod Cinema akan menyebabkan permainan menjadi unranked.*
 
 Mod **Cinema** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujuan agar pemain dapat bersantai dan menonton video atau storyboard dari sebuah beatmap tanpa munculnya [hit object](/wiki/Hit_object). Mod ini sama seperti mod [Auto](/wiki/Game_modifier/Auto), tetapi **hanya background dan storyboard yang ditampilkan**.
 
-Karena mod Cinema merupakan variasi dari mod Auto, hitsound yang berasal dari hit object akan tetap terdengar. Namun elemen tayangan ulang dan layar hasil akan dinonaktifkan bersamaan dengan dim background yang disetel ke 0%.
+Karena mod Cinema merupakan variasi dari mod Auto, hitsound yang berasal dari hit object akan tetap terdengar. Namun, elemen tayangan ulang dan layar hasil akan dinonaktifkan bersamaan dengan dim background yang disetel ke 0%.
 
 ![Gameplay Auto vs. Cinema](img/GM_Cinema.jpg)
 
 Mod ini memiliki efek yang sama di semua mode permainan.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

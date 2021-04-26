@@ -23,7 +23,7 @@ tags:
 - Jenis: Spesial
 - Pengali Skor: 0.70x–1.00x (lihat [tabel dibawah](#score-multiplier))
 - Deskripsi: `Dua kali jumlah key-nya, dua kali keseruannya!`
-- Mode permainan yang cocok: ![][o!m]
+- Mode permainan yang cocok: ![][osu!mania]
 
 ## Deskripsi
 
@@ -35,7 +35,7 @@ Mod **Co-op** adalah sebuah [game modifier](/wiki/Game_modifier) untuk [osu!mani
 
 ### Pengali skor
 
-Tabel berikut hanya mempengaruhi beatmap convert [osu!standard](/wiki/Game_mode) yang dimainkan pada mode permainan osu!mania dengan menggunakan mod Co-op:
+Tabel berikut hanya mempengaruhi beatmap convert [osu!](/wiki/Game_mode) yang dimainkan pada mode permainan osu!mania dengan menggunakan mod Co-op:
 
 | Bawaan | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -52,4 +52,4 @@ Penjelasan mendetail tentang arena permainan kedua dapat ditemukan di [halaman o
 
 - Mod Co-op diperkenalkan pada 5 Maret 2015
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
