@@ -85,6 +85,90 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Zak](https://osu.ppy.sh/users/1375955), [Kisetsunotori](https://osu.ppy.sh/users/3692648), [Colin](https://osu.ppy.sh/users/5502521), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Lexii](https://osu.ppy.sh/users/7226149) |
 | ![][flag_VN] | **Vietnam** | **[Cac](https://osu.ppy.sh/users/4744615)**, [Hana Yukiko](https://osu.ppy.sh/users/4964095), [mothernature](https://osu.ppy.sh/users/6403418), [Stardust Prism](https://osu.ppy.sh/users/8525921), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [Huytimeclock](https://osu.ppy.sh/users/10920086) |
 
+## Match schedule: Group Stage
+
+### Saturday, 1 May 2021
+
+| Team A | Team B | Match time | Local time A | Local time B |
+| --: | :-- | :-: | :-: | :-: |
+| France ![][flag_FR] | ![][flag_AU] Australia | **11:00 UTC** | 13:00 UTC+02 | 21:00 UTC+10 |
+| South Korea ![][flag_KR] | ![][flag_JP] Japan | **11:00 UTC** | 20:00 UTC+09 | 20:00 UTC+09 |
+| Vietnam ![][flag_VN] | ![][flag_SG] Singapore | **11:00 UTC** | 18:00 UTC+07 | 19:00 UTC+08 |
+| Hong Kong ![][flag_HK] | ![][flag_TH] Thailand | **12:00 UTC** | 20:00 UTC+08 | 19:00 UTC+07 |
+| Taiwan ![][flag_TW] | ![][flag_JP] Japan | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 |
+| China ![][flag_CN] | ![][flag_FI] Finland | **12:00 UTC** | 20:00 UTC+08 | 15:00 UTC+03 |
+| Italy ![][flag_IT] | ![][flag_PH] Philippines | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
+| Taiwan ![][flag_TW] | ![][flag_GB] United Kingdom | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
+| Russian Federation ![][flag_RU] | ![][flag_SG] Singapore | **13:00 UTC** | 16:00 UTC+03 | 21:00 UTC+08 |
+| Philippines ![][flag_PH] | ![][flag_BE] Belgium | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 |
+| Thailand ![][flag_TH] | ![][flag_DK] Denmark | **14:00 UTC** | 21:00 UTC+07 | 16:00 UTC+02 |
+| Poland ![][flag_PL] | ![][flag_VN] Vietnam | **14:00 UTC** | 16:00 UTC+02 | 21:00 UTC+07 |
+| Netherlands ![][flag_NL] | ![][flag_FI] Finland | **16:00 UTC** | 18:00 UTC+02 | 19:00 UTC+03 |
+| Italy ![][flag_IT] | ![][flag_BE] Belgium | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
+| Germany ![][flag_DE] | ![][flag_AR] Argentina | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
+| Argentina ![][flag_AR] | ![][flag_SE] Sweden | **17:00 UTC** | 14:00 UTC-03 | 19:00 UTC+02 |
+| Chile ![][flag_CL] | ![][flag_NO] Norway | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
+| Netherlands ![][flag_NL] | ![][flag_PE] Peru | **17:00 UTC** | 19:00 UTC+02 | 12:00 UTC-05 |
+| Germany ![][flag_DE] | ![][flag_SE] Sweden | **18:00 UTC** | 20:00 UTC+02 | 20:00 UTC+02 |
+| France ![][flag_FR] | ![][flag_CO] Colombia | **18:00 UTC** | 20:00 UTC+02 | 13:00 UTC-05 |
+| Mexico ![][flag_MX] | ![][flag_NO] Norway | **18:00 UTC** | 12:00 UTC-06 | 20:00 UTC+02 |
+| Canada ![][flag_CA] | ![][flag_CL] Chile | **23:00 UTC** | 18:00 UTC-05 | 19:00 UTC-04 |
+| Australia ![][flag_AU] | ![][flag_BR] Brazil | **23:00 UTC** | 09:00 (Sun.) UTC+10 | 20:00 UTC-03 |
+
+### Sunday, 2 May 2021
+
+| Team A | Team B | Match time | Local time A | Local time B |
+| --: | :-- | :-: | :-: | :-: |
+| Australia ![][flag_AU] | ![][flag_CO] Colombia | **00:00 UTC** | 10:00 UTC+10 | 19:00 (Sat.) UTC-05 |
+| Chile ![][flag_CL] | ![][flag_MX] Mexico | **00:00 UTC** | 20:00 (Sat.) UTC-04 | 18:00 (Sat.) UTC-06 |
+| United States ![][flag_US] | ![][flag_AR] Argentina | **00:00 UTC** | 20:00 (Sat.) UTC-04 | 21:00 (Sat.) UTC-03 |
+| Brazil ![][flag_BR] | ![][flag_CO] Colombia | **01:00 UTC** | 22:00 (Sat.) UTC-03 | 20:00 (Sat.) UTC-05 |
+| Canada ![][flag_CA] | ![][flag_MX] Mexico | **01:00 UTC** | 20:00 (Sat.) UTC-05 | 19:00 (Sat.) UTC-06 |
+| China ![][flag_CN] | ![][flag_PE] Peru | **02:00 UTC** | 10:00 UTC+08 | 21:00 (Sat.) UTC-05 |
+| Hong Kong ![][flag_HK] | ![][flag_ID] Indonesia | **11:00 UTC** | 19:00 UTC+08 | 18:00 UTC+07 |
+| Philippines ![][flag_PH] | ![][flag_MY] Malaysia | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
+| South Korea ![][flag_KR] | ![][flag_TW] Taiwan | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
+| Russian Federation ![][flag_RU] | ![][flag_VN] Vietnam | **11:00 UTC** | 14:00 UTC+03 | 18:00 UTC+07 |
+| Indonesia ![][flag_ID] | ![][flag_TH] Thailand | **12:00 UTC** | 19:00 UTC+07 | 19:00 UTC+07 |
+| Italy ![][flag_IT] | ![][flag_MY] Malaysia | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
+| South Korea ![][flag_KR] | ![][flag_GB] United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
+| Hong Kong ![][flag_HK] | ![][flag_DK] Denmark | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Belgium ![][flag_BE] | ![][flag_MY] Malaysia | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
+| Japan ![][flag_JP] | ![][flag_GB] United Kingdom | **13:00 UTC** | 22:00 UTC+09 | 14:00 UTC+01 |
+| Indonesia ![][flag_ID] | ![][flag_DK] Denmark | **14:00 UTC** | 21:00 UTC+07 | 16:00 UTC+02 |
+| Poland ![][flag_PL] | ![][flag_SG] Singapore | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
+| China ![][flag_CN] | ![][flag_NL] Netherlands | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 |
+| United States ![][flag_US] | ![][flag_SE] Sweden | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
+| Poland ![][flag_PL] | ![][flag_RU] Russian Federation | **17:00 UTC** | 19:00 UTC+02 | 20:00 UTC+03 |
+| France ![][flag_FR] | ![][flag_BR] Brazil | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
+| Finland ![][flag_FI] | ![][flag_PE] Peru | **18:00 UTC** | 21:00 UTC+03 | 13:00 UTC-05 |
+| Canada ![][flag_CA] | ![][flag_NO] Norway | **18:00 UTC** | 13:00 UTC-05 | 20:00 UTC+02 |
+| Germany ![][flag_DE] | ![][flag_US] United States | **18:00 UTC** | 20:00 UTC+02 | 14:00 UTC-04 |
+
+## Mappools
+
+### Group Stage
+
+- NoMod
+  - [AAAA vs. Morimori Atsushi - Xrocus (Souvenir) \[Rain\]](https://osu.ppy.sh/beatmapsets/1419078#fruits/2923590)
+  - [Vivid BAD SQUAD - Fragile (Sinnoh) \[Master\]](https://osu.ppy.sh/beatmapsets/1441990#fruits/2966325)
+  - [Akira Complex x Hommarju feat. Yukacco - Connected (WRLD Remix) (Cut ver.) (-MomoX) \[Integrity\]](https://osu.ppy.sh/beatmapsets/1338331#fruits/2966330)
+  - [Reol & nqrse - Ooedo Ranvu (Pho) \[Another\]](https://osu.ppy.sh/beatmapsets/357544#fruits/952576)
+- Hidden
+  - [M2U - Tian Di Kai Pi (ZiRoX) \[Rain\]](https://osu.ppy.sh/beatmapsets/1441999#fruits/2966342)
+  - [Yu\_Asahina - Ongaku -resolve- (Ascendance) \[Mike x Benita's Rain\]](https://osu.ppy.sh/beatmapsets/1442003#fruits/2966346)
+  - [Ariabl'eyeS - Kegare Naki Bara Juuji (Short ver.) (My Angel RangE) \[Left's Insane\]](https://osu.ppy.sh/beatmapsets/535277#fruits/1170869)
+- HardRock
+  - [Studio EIM - Raindrop Flower (F D Flourite) \[Fulaoer\]](https://osu.ppy.sh/beatmapsets/1442018#fruits/2966397)
+  - [USAO - Rampage (Rocma) \[Platter\]](https://osu.ppy.sh/beatmapsets/1442014#fruits/2966392)
+  - [nanobii - rainbow road (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/375073#fruits/823197)
+- DoubleTime
+  - [Eve - As You Like It (GIGACHAD) \[Platter\]](https://osu.ppy.sh/beatmapsets/1442026#fruits/2966405)
+  - [Minato Aqua - Shiroi Yuki no Princess wa (Secre) \[Platter\]](https://osu.ppy.sh/beatmapsets/1375156#fruits/2874509)
+  - [Yorushika - Yuunagi, Bou, Hana Madoi (Delis) \[Insane\]](https://osu.ppy.sh/beatmapsets/1029921#fruits/2154729)
+- Tiebreaker
+  - **[Muzzy - Spectrum (Greaper) \[Refraction\]](https://osu.ppy.sh/beatmapsets/1442175#fruits/2966667)**
+
 ## Ruleset
 
 ### Tournament rules
