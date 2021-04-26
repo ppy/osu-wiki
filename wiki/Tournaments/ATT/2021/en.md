@@ -168,7 +168,7 @@ Sunday, 25 April 2021:
 | **Aiery** ![][flag_PH] | **4** | 0 | ![][flag_TH] KappuChinooo | [#1](https://osu.ppy.sh/community/matches/81682450) |
 | r1chyy ![][flag_AU] | 0 | **4** | ![][flag_ID] **Katdon\_donKat** | [#1](https://osu.ppy.sh/community/matches/81681284) |
 | **Katdon\_donKat** | **4** | 0 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/81732057) |
-| **Jerry** ![][flag_MY] | **4** | ![][flag_MY] CrabCow | [#1](https://osu.ppy.sh/community/matches/81742310) |
+| **Jerry** ![][flag_MY] | **4** | 1 | ![][flag_MY] CrabCow | [#1](https://osu.ppy.sh/community/matches/81742310) |
 | **apaajaboleh10** ![][flag_ID] | **4** | 0 | ![][flag_PH] CoEqual | [#1](https://osu.ppy.sh/community/matches/81741418) |
 | **r1chyy** ![][flag_AU] | **4** | 2 | ![][flag_PH] Kotaro | [#1](https://osu.ppy.sh/community/matches/81743719) |
 | **Volta** ![][flag_ID] | **4** | 0 | ![][flag_PH] DescriptiCringe | [#1](https://osu.ppy.sh/community/matches/81744585) |
