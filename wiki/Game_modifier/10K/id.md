@@ -20,7 +20,7 @@ tags:
 ## Tentang
 
 - Jenis: Spesial
-- Mode permainan yang cocok: ![][o!m]
+- Mode permainan yang cocok: ![][osu!mania]
 
 ## Deskripsi
 
@@ -28,4 +28,4 @@ tags:
 
 Mod **10K** merupakan sebuah [game modifier](/wiki/Game_modifier) untuk [osu!mania](/wiki/Game_mode/osu!mania) yang memungkinkan pemain untuk memainkan [beatmap-beatmap](/wiki/Beatmaps) osu!mania yang di-*convert* dari mode lain dengan total 10 tombol input. Fungsinya sama persis seperti mod [xK](/wiki/Game_modifier/xK) lainnya dan dapat membuat gameplay menjadi menjadi unranked.
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

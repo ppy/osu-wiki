@@ -24,7 +24,7 @@ tags:
 - Singkatan: FO
 - Jenis: Peningkat Kesulitan
 - Tombol shortcut: `F` `F` atau `Shift`+`F`
-- Mode permainan yang cocok: ![][o!m]
+- Mode permainan yang cocok: ![][osu!mania]
 
 ## Deskripsi
 
@@ -34,4 +34,4 @@ Mod **Fade Out** adalah sebuah [game modifier](/wiki/Game_modifier) untuk [osu!m
 
 Mod Hidden dan mod Fade Out mempunyai fungsi yang sama.
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

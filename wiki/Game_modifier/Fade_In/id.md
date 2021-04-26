@@ -22,7 +22,7 @@ tags:
 - Jenis: Peningkat kesulitan
 - Pengali Skor: 1.00x
 - Tombol shortcut: `F`
-- Mode permainan yang cocok: ![][o!m]
+- Mode permainan yang cocok: ![][osu!mania]
 - Variasi: [Hidden](/wiki/Game_modifier/Hidden)
 
 ## Deskripsi
@@ -39,4 +39,4 @@ Ukuran pemudaran akan berhenti bertambah ketika kombo sudah mencapai 500x (di ma
 
 - Jika sebuah beatmap yang menggunakan mod Fade In berhasil diselesaikan dan mendapat grade S atau SS, maka skor yang diraih akan ditampilkan dalam warna silver pada grade tersebut.
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
