@@ -63,7 +63,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 - **Dashes and hyperdashes should not be used when the destination of the dash or hyperdash is located near the left or right border of the playfield.** This creates an uncomfortable movement as the catcher is forcibly stopped upon reaching the border of the playfield (x:16 on the left and x:496 on the right).
 - **Ensure combos do not reach unreasonable lengths.** Caught fruits will stack up on the plate and can potentially obstruct the player's view. Bear in mind that slider tails, repeats and spinner bananas also count as "fruits". New Combos should be placed regularly to clear the plate and avoid this.
 - **Try to have at least one spinner in each difficulty to create variety in the map and fluctuation among scores.** However, if a spinner just doesn't fit anywhere in the song, then there's no need to force one.
-- **Overall Difficulty should have the same value as the Approach Rate.** This is just a standardized value, as Overall Difficulty does not affect gameplay nor the number of fruits a spinner has, just the maximum score of a difficulty. However, if a difficulty uses a lower Approach Rate than one or more difficulties in the difficulty level below it, then the Overall Difficulty should be equal to that of the highest Overall Difficulty value in the previous difficulty level.
+- **Overall Difficulty should have the same value as the Approach Rate.** This is just a standardised value, as Overall Difficulty does not affect gameplay nor does the number of fruits a spinner has. Overall Difficulty only affects the maximum score of a difficulty. However, if a difficulty uses a lower Approach Rate than one or more difficulties in the difficulty level below it, then the Overall Difficulty should be equal to that of the highest Overall Difficulty value in the previous difficulty level.
 - **Slider tick rate should be set according to the song.** For example if your song only uses 1/3 snapping, using tick rate 2 or 4 would not be fitting.
 - **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
 - **Avoid using combo colours with ~50 luminosity or lower.** Dark colours impact the readability of fruits with low background dim.
@@ -135,7 +135,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Hyperdashes must have at least a 125 ms gap between their two objects.**
 - **Hyperdashes cannot be used on individual drops and/or slider repetitions.** The accuracy and control required is unreasonable at this level and can create a situation where the player potentially fails to read the slider path.
-- **Hyperdashes of different beat snap must not be used between consecutive fruits.** For example, a 1/2 hyperdash followed by a 1/4 hyperdash.
+- **Hyperdashes of a different beat snap must not be used between consecutive fruits.** For example, a 1/2 hyperdash followed by a 1/4 hyperdash.
 - **Hyperdashes that are basic-snapped must not be used more than two times between consecutive fruits.**
 - **Hyperdashes that are higher-snapped must not be used in conjunction with any other dashes or hyperdashes.**
 - **Dashes must have at least a 62 ms gap between their two objects.**
