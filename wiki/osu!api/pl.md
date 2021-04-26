@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # osu!api
 
 osu! posiada publiczne [API](https://en.wikipedia.org/wiki/API), którego używać mogą zewnętrzne usługi. W przeszłości miały do niego dostęp tylko upoważnione osoby, ale obecnie każdy użytkownik osu! może z niego korzystać.
