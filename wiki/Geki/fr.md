@@ -46,4 +46,4 @@ L'obtention de Geki déclenche plusieurs événements :
 
 - [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers) est désactivé.
 - [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers) est activé.
-- L'événement "Passing" est déclenché, si l'état précédent était "Fail"..
+- L'événement "Passing" est déclenché, si l'état précédent était "Fail".
