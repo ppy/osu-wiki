@@ -37,7 +37,6 @@ The old Beatmap Nominator (BN) ranking was fully deprecated on 1 May 2015, and r
 
 Among the changes and announcements made surrounding beatmap ranking, [a change was made to the ranking process](https://osu.ppy.sh/community/forums/topics/325973) on 5 May 2015 that allowed players to dispute disqualifications made by the Quality Assurance Team (QAT), due to the lack of any way to dispute issues that the QAT may bring up. The new change made it possible to submit a form if there was a dispute, where a final decision could be made regarding a beatmap and whether it is ready to be ranked [[12]][r].
 
-
 The [osu!news YouTube channel](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ "YouTube") uploaded its [first video](https://www.youtube.com/watch?v=KQbudVxEjr8 "YouTube") to the public on 8 May 2015. The channel was run by various members of the community and aimed to create videos on skin showcases, tournaments, mapping, contests, and other news from the community [[12,13]][r].
 
 The osu!keyboard (also known as the "osu! 'nono' keyboard") was added to the osu!store on 30 May 2015, retailing for about $40 at launch. Initially announced in a [tweet by peppy](https://twitter.com/ppy/status/603797988742336512) on 28 May 2015, there were only 100 keyboards available at launch, and were more akin to a keypad than a full-sized keyboard [[14,15]][r].
