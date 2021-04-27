@@ -7,6 +7,7 @@ stub: true
 **輸入裝置**是指能夠向電腦或特定軟體提供輸入訊號的設備。在 osu!wiki 中，專指能夠遊玩 osu! 的裝置。
 
 以下是常見遊玩 osu! 的輸入裝置：
+
 - [滑鼠](/wiki/Gameplay/Input_device/Mouse)
 - [鍵盤](/wiki/Gameplay/Input_device/Keyboard)
 - [觸控裝置](/wiki/Gameplay/Input_device/Touch_device)
