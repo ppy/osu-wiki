@@ -44,7 +44,7 @@ See full results for the community vote from the [contest listing](https://osu.p
 
 Alongside the community vote, we asked a curated group of 18 experienced mappers and musicians to give their input on the entries as well! See the panelists from [A Labour of Love's wiki page](/wiki/Contests/A_Labour_of_Love_Contest#prizes).
 
-Following a format similar to [Monthly Beatmapping Contest screening](https://osu.ppy.sh/wiki/en/Contests/Monthly_Beatmapping_Contest#screening), each of the judges selected their ordered top 5 entries focusing on their area of expertise (mapping or music production). Each position in a judge's top 5 was assigned a number (first place = 5 points, second place = 4 points, etc.), and the sum of these selections made up the mapping and musician panel results.
+Following a format similar to [Monthly Beatmapping Contest screening](/wiki/Contests/Monthly_Beatmapping_Contest#screening), each of the judges selected their ordered top 5 entries focusing on their area of expertise (mapping or music production). Each position in a judge's top 5 was assigned a number (first place = 5 points, second place = 4 points, etc.), and the sum of these selections made up the mapping and musician panel results.
 
 The overall panel followed the same format with contribution from all judges. Their top 5 picks were based on an evaluation of the full beatmap package (song remix, beatmap, visuals, and general cohesiveness of the elements). To balance out the 6 musician-focused panelists with the 12 mapping-focused panelists, musicians were given more weight in the overall category.
 
