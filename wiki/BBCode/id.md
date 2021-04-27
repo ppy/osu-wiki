@@ -2,9 +2,9 @@
 
 BBCode adalah [sintaks markup](https://en.wikipedia.org/wiki/Markup_language "Wikipedia") yang digunakan pada forum osu! dan sebagian besar forum di Internet. Hampir keseluruhan forum osu! telah mendukung rich text formatting, yang terdiri dari tag-tag yang mengelilingi teks untuk menandakan pemformatan, atribut, embed, dan lainnya. BBCode telah digunakan di berbagai area di situs web osu!, seperti postingan forum, signature, user page, dan deskripsi beatmap.
 
-![forum post dengan tombol-tombolnya](img/editor.jpg "kotak edit postingan di dalam forum osu!")  
+![postingan forum dengan tombol-tombolnya](img/editor.jpg "kotak edit postingan di dalam forum osu!")  
 
-## Upaya Tindakan
+## Upaya tindakan
 
 Mengklik tombol markup tanpa menyorot teks apa pun akan membuat serangkaian tag terbuka dan tertutup di sekitar teks pada editor postingan. Menyoroti teks sebelum mengklik tombol markup akan mengelilingi teks tersebut dengan tag yang diinginkan.
 
@@ -27,7 +27,7 @@ Penting juga dicatat bahwa, tag terbuka terkadang menyertakan tanda sama dengan 
 [b]teks[/b]
 ```
 
-Tag `[b]` atau (*huruf tebal*) digunakan untuk penekanan teks melalui penggunaan huruf tebal. Huruf tebal BBCode tidak memengaruhi ukuran font.
+Tag `[b]` atau *huruf tebal* digunakan untuk penekanan teks melalui penggunaan huruf tebal. Huruf tebal BBCode tidak memengaruhi ukuran font.
 
 Tombol pada toolbar: ![Tombol Bold](img/bold.png "Bold")
 
@@ -37,7 +37,7 @@ Tombol pada toolbar: ![Tombol Bold](img/bold.png "Bold")
 [i]teks[/i]
 ```
 
-Tag `[i]` atau (*huruf miring*) digunakan untuk memberi penekanan ringan pada teks dengan memiringkan teks ke depan (yaitu, miring).
+Tag `[i]` atau *huruf miring* digunakan untuk memberi penekanan ringan pada teks dengan memiringkan teks ke depan (yaitu, miring).
 
 Tombol pada toolbar: ![Tombol Italic](img/italic.png "Italic")
 
@@ -47,7 +47,7 @@ Tombol pada toolbar: ![Tombol Italic](img/italic.png "Italic")
 [u]teks[/u]
 ```
 
-Tag `[u]` atau (*garis bawah*) digunakan untuk penekanan teks dengan garis horizontal di bawah teks (yaitu menggaris bawahi). Garis horizontal dapat dipengaruhi oleh tag lain seperti penggunaan tag [huruf tebal](#bold) dan penggunaan tag [huruf miring](#italic)`.
+Tag `[u]` atau *garis bawah* digunakan untuk penekanan teks dengan garis horizontal di bawah teks (yaitu menggaris bawahi). Garis horizontal dapat dipengaruhi oleh tag lain seperti penggunaan tag [huruf tebal](#bold) dan penggunaan tag [huruf miring](#italic)`.
 
 ### Strikethrough
 
@@ -57,7 +57,7 @@ Tag `[u]` atau (*garis bawah*) digunakan untuk penekanan teks dengan garis horiz
 
 *Juga dikenal sebagai **strike**.*
 
-Tag `[strike]` atau (*garis ditengah huruf*) digunakan untuk menunjukkan asumsi penghapusan teks yang sebelumnya dimasukkan melalui penggunaan garis horizontal yang "mencoret" teks (yaitu "coret").
+Tag `[strike]` atau *garis ditengah huruf* digunakan untuk menunjukkan asumsi penghapusan teks yang sebelumnya dimasukkan melalui penggunaan garis horizontal yang "mencoret" teks (yaitu "coret").
 
 Tombol pada toolbar: ![Tombol Strike](img/strike.png "Strikethrough")
 
@@ -69,7 +69,7 @@ Tombol pada toolbar: ![Tombol Strike](img/strike.png "Strikethrough")
 
 *Untuk daftar dari semua nama warna, kunjungi [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart "Wikipedia")*
 
-Tag `[color]` atau (*pewarnaan*) digunakan untuk mengatur gaya teks melalui berbagai jenis warna web-safe. Tag menggunakan format [kode HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet "Wikipedia") untuk menentukan warna, meskipun juga dapat ditentukan melalui nama warna HTML seperti "Red" atau "Green". Untuk menggunakannya, ganti argumen `HEXCODE` dengan kode HEX atau nama HTML warna yang sesuai.
+Tag `[color]` atau *pewarnaan* digunakan untuk mengatur gaya teks melalui berbagai jenis warna web-safe. Tag menggunakan format [kode HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet "Wikipedia") untuk menentukan warna, meskipun juga dapat ditentukan melalui nama warna HTML seperti "Red" atau "Green". Untuk menggunakannya, ganti argumen `HEXCODE` dengan kode HEX atau nama HTML warna yang sesuai.
 
 Argumen warna tersebut menyertakan tanda kutip (`"`) serta tidak memiliki warna default. Jika tidak ada argumen yang ditentukan atau jika tanda kutip digunakan, tag tidak akan diuraikan sebagai tag BBCode.
 
@@ -79,7 +79,7 @@ Argumen warna tersebut menyertakan tanda kutip (`"`) serta tidak memiliki warna 
 [size=NUMBER]teks[/size]
 ```
 
-Tag `[size]` atau (*ukuran font*) digunakan untuk mengatur gaya teks melalui penggunaan ukuran font yang berbeda. Saat ini, ada empat ukuran yang didukung oleh situs web osu!: 50, 85, 100, dan 150. Ukuran secara internal disebut sebagai "sangat kecil", "kecil", "normal", dan "besar".
+Tag `[size]` atau *ukuran font* digunakan untuk mengatur gaya teks melalui penggunaan ukuran font yang berbeda. Saat ini, ada empat ukuran yang didukung oleh situs web osu!: 50, 85, 100, dan 150. Ukuran secara internal disebut sebagai "sangat kecil", "kecil", "normal", dan "besar".
 
 Argumen `NUMBER` tidak menerima tanda kutip, dan hanya menerima salah satu dari empat ukuran yang didukung. Jika memasukkan angka yang bukan salah satu dari empat yang didukung, format teks akan kembali ke ukuran default.
 
@@ -93,7 +93,7 @@ Tombol pada toolbar: ![Pengaturan Ukuran Font](img/font-size.png "Font size")
 
 *Jangan disamakan dengan [Spoilerbox](#spoilerbox).*
 
-Tag `[spoiler]` atau (*penutup teks*) digunakan untuk menutupi informasi sensitif dengan latar depan hitam pekat yang menampilkan teks di belakangnya saat disorot. Jika ditumpuk dengan tag [`[color]`](#color), penutup berwarna hitam tidak akan berpengaruh. Namun, teks di belakang sampul hitam yang akan diberi warna, apakah dapat dibaca atau tidak.
+Tag `[spoiler]` atau *penutup teks* digunakan untuk menutupi informasi sensitif dengan latar depan hitam pekat yang menampilkan teks di belakangnya saat disorot. Jika ditumpuk dengan tag [`[color]`](#color), penutup berwarna hitam tidak akan berpengaruh. Namun, teks di belakang sampul hitam yang akan diberi warna, apakah dapat dibaca atau tidak.
 
 Tag paling sering digunakan untuk mencegah pengumbaran informasi kritis/sensitif tentang acara TV, film, atau media lainnya. Seringkali juga digunakan untuk efek komedi atau penekanan. 
 
@@ -107,7 +107,7 @@ teks
 
 *Jangan disamakan dengan [Spoilerbox](#spoilerbox).*
 
-Tag `[box]` atau (*kotak ciut*) digunakan untuk menyembunyikan teks dan gambar di dalam hyperlink yang dapat diklik. Setelah mengklik, konten di dalamnya akan terungkap mirip dengan menu dropdown.
+Tag `[box]` atau *kotak ciut* digunakan untuk menyembunyikan teks dan gambar di dalam hyperlink yang dapat diklik. Setelah mengklik, konten di dalamnya akan terungkap mirip dengan menu dropdown.
 
 Teks hyperlink kustom dilambangkan dengan argumen `NAME`. Menggunakan argumen `NAME` akan membuat teks judul mengikuti di dalam kotak, dan akan menyesuaikan ukuran kotak yang sesuai. Jika teks judul tidak diberikan, tag `[box]` akan membuat kotak tanpa teks judul di dalamnya (yang tidak dapat diklik). Argumen ini tidak menggunakan tanda kutip (`"`), dan akan membuat spasi kosong.
 
@@ -133,7 +133,7 @@ teks
 [/quote]
 ```
 
-Tag `[quote]` atau (*kutipan*) digunakan untuk gaya pemformatan kutipan panjang secara (alias "tanda kutip blok") melalui penggunaan indentasi, pewarnaan, cetak tebal, dan pemisahan teks melalui garis vertikal merah muda. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAME` menentukan penulis kutipan (meskipun ini opsional). Teks di dalam tanda kutip akan membuat spasi dan jeda baris.
+Tag `[quote]` atau *kutipan* digunakan untuk gaya pemformatan kutipan panjang secara (alias "tanda kutip blok") melalui penggunaan indentasi, pewarnaan, cetak tebal, dan pemisahan teks melalui garis vertikal merah muda. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAME` menentukan penulis kutipan (meskipun ini opsional). Teks di dalam tanda kutip akan membuat spasi dan jeda baris.
 
 *Perhatikan: Argumen `NAME` wajib diapit dengan tanda kutip (`"`).*
 
@@ -149,7 +149,7 @@ teks
 [/code]
 ```
 
-Tag `[code]` atau (*font gaya kode*) digunakan untuk membuat *kode blok yang telah diformat sebelumnya*. Di situs web osu!, tag `[code]` akan memformat teks dalam font monospace di dalam kotak abu-abu semi transparan. Pemformatan teks di dalam kode blok akan memberi tahu editor untuk memperlakukan teks di antara tag tersebut secara harfiah, sehingga mencegah konversi tag atau kode sumber apa pun menjadi sesuatu yang lain.
+Tag `[code]` atau *font gaya kode* digunakan untuk membuat *kode blok yang telah diformat sebelumnya*. Di situs web osu!, tag `[code]` akan memformat teks dalam font monospace di dalam kotak abu-abu semi transparan. Pemformatan teks di dalam kode blok akan memberi tahu editor untuk memperlakukan teks di antara tag tersebut secara harfiah, sehingga mencegah konversi tag atau kode sumber apa pun menjadi sesuatu yang lain.
 
 Di dalam forum osu!, kode blok paling sering digunakan untuk memposting source code untuk [storyboard](/wiki/Storyboards), atau dalam tutorial yang mengharuskan menampilkan sintaks untuk tag, perintah, atau source code.
 
@@ -159,7 +159,7 @@ Di dalam forum osu!, kode blok paling sering digunakan untuk memposting source c
 [centre]teks[/centre]
 ```
 
-Tag `[centre]` atau (*rata tengah*) digunakan untuk meratakan teks ke tengah kotak. Tag ini paling sering digunakan untuk efek gaya dalam judul, tajuk, atau puisi. Jika ditempatkan di dalam atau di sekitar tag [`[quote]`](#quote), teks di dalam blok kutipan akan dipusatkan, tetapi tidak untuk garis gaya dan semacamnya.
+Tag `[centre]` atau *rata tengah* digunakan untuk meratakan teks ke tengah kotak. Tag ini paling sering digunakan untuk efek gaya dalam judul, tajuk, atau puisi. Jika ditempatkan di dalam atau di sekitar tag [`[quote]`](#quote), teks di dalam blok kutipan akan dipusatkan, tetapi tidak untuk garis gaya dan semacamnya.
 
 ### URL
 
@@ -167,7 +167,7 @@ Tag `[centre]` atau (*rata tengah*) digunakan untuk meratakan teks ke tengah kot
 [url=LINK]teks[/url]
 ```
 
-Tag `[URL]` atau (*tautan*) digunakan untuk mengubah teks biasa menjadi hyperlink yang dapat diklik.
+Tag `[URL]` atau *tautan* digunakan untuk mengubah teks biasa menjadi hyperlink yang dapat diklik.
 
 *Catatan: Tag ini tidak diperlukan jika seseorang tidak ingin menggunakan teks hyperlink kustom, karena editor forum mengurai URL yang tepat menjadi link secara otomatis.*
 
@@ -181,7 +181,7 @@ Tombol pada toolbar: ![tombol URL](img/url.png "URL")
 [profile=userid]username[/profile]
 ```
 
-Tag `[profile]` atau (*profil*) digunakan untuk menautkan halaman profil pengguna osu! dengan menggunakan nama pengguna atau ID pengguna mereka. Penggunaan tag `[profile]` berbeda dengan penggunaan tag [`[url]`](#url), karena tag `[profile]` menampilkan kartu pengguna saat mengarahkan kursor ke tautan yang dibuat oleh tag.
+Tag `[profile]` atau *profil* digunakan untuk menautkan halaman profil pengguna osu! dengan menggunakan nama pengguna atau ID pengguna mereka. Penggunaan tag `[profile]` berbeda dengan penggunaan tag [`[url]`](#url), karena tag `[profile]` menampilkan kartu pengguna saat mengarahkan kursor ke tautan yang dibuat oleh tag.
 
 *Catatan: ID pengguna adalah rangkaian angka yang langsung mengikuti `/users/` di akhir URL sebuah halaman profil osu!.*
 
@@ -197,7 +197,7 @@ Jika ditentukan melalui ID penggunanya, teks diantara tag terbuka dan tag tertut
 [/list]
 ```
 
-Tag `[list]` atau (*uraian/daftar*) digunakan untuk pemformatan berbagai jenis daftar di seluruh forum osu! dengan menggunakan tanda bintang yang diapit tanda kurung (`[*]`) untuk menunjukkan item baru dalam daftar (ditampilkan di atas) secara otomatis. Umumnya, menggunakan tag ini akan menjadikan daftar poin lebih jelas.
+Tag `[list]` atau *uraian/daftar* digunakan untuk pemformatan berbagai jenis daftar di seluruh forum osu! dengan menggunakan tanda bintang yang diapit tanda kurung (`[*]`) untuk menunjukkan item baru dalam daftar (ditampilkan di atas) secara otomatis. Umumnya, menggunakan tag ini akan menjadikan daftar poin lebih jelas.
 
 Gaya daftar pada poin lainnya dapat diformat dengan menetapkan argumen `TYPE` sebagai `1`, `a`, `A`, `i`, atau `I`, yang akan memformat daftar point sebagai bernomor, berhuruf (huruf kecil), berhuruf (huruf besar), angka romawi (huruf kecil), dan angka romawi (huruf besar).
 
@@ -211,7 +211,7 @@ Tombol-tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol daf
 [img]ADDRESS[/img]
 ```
 
-Tag `[img]` atau (*gambar*) digunakan untuk menyematkan tautan gambar berekstensi dari online ke dalam postingan forum osu!. Untuk menggunakan tag, pengguna harus menempelkan alamat gambar langsung (diwakili oleh argumen `ADDRESS` di atas) yang bersumber dari situs web. Jalur file lokal. Menggunakan tautan langsung dari komputer (*offline*), (misalnya, `C:\Users\Name\Pictures\image.jpg`), **tidak akan berfungsi**.
+Tag `[img]` atau *gambar* digunakan untuk menyematkan tautan gambar berekstensi dari online ke dalam postingan forum osu!. Untuk menggunakan tag, pengguna harus menempelkan alamat gambar langsung (diwakili oleh argumen `ADDRESS` di atas) yang bersumber dari situs web. Jalur file lokal. Menggunakan tautan langsung dari komputer (*offline*), (misalnya, `C:\Users\Name\Pictures\image.jpg`), **tidak akan berfungsi**.
 
 *Perhatikan: URL situs web **tidak** sama dengan alamat gambar.*
 
