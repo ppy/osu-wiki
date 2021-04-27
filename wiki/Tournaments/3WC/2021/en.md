@@ -41,7 +41,7 @@ The 3 Digit World Cup is run by various community members.
 | Mappool selector | ![][flag_US] [fooders](https://osu.ppy.sh/users/7545218), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
 | Referee | ![][flag_KR] [choke-](https://osu.ppy.sh/users/12242622), ![][flag_PL] [crissof](https://osu.ppy.sh/users/9505673), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_AT] [GumalaOC](https://osu.ppy.sh/users/5367718), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [ruruchewy](https://osu.ppy.sh/users/7112839), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_PL] [zibi](https://osu.ppy.sh/users/11301620) |
 | Streamer | ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
-| Commentator | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458), ![][flag_AU] [jordanlr7](https://osu.ppy.sh/users/11652827), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [Mavs](https://osu.ppy.sh/users/11076938), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) |
+| Commentator | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458), ![][flag_AU] [jordanlr7](https://osu.ppy.sh/users/11652827), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [Mavs](https://osu.ppy.sh/users/11076938), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_SE] [nautzz](https://osu.ppy.sh/users/2012039), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189)
 | Designer | ![][flag_US] [Celsea](https://osu.ppy.sh/users/7464885), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -85,37 +85,59 @@ The 3 Digit World Cup is run by various community members.
 
 ## Match schedule: Semifinals
 
-This is likely to change as a result of reschedules. Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google spreadsheet") for up-to-date match times.
+This is likely to change as a result of reschedules. Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM/edit#gid=1909881276 "Google spreadsheet") for up-to-date match times.
 
 ### Saturday, 24 April 2021
 
 | Team A | Team B | Match time | Local time A | Local time B | |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| Japan ![][flag_JP] | ![][flag_FR] France | **12:30 UTC** | 21:30 UTC+09 | 14:30 UTC+02 | ² |
-| Russia ![][flag_RU] | ![][flag_CN] China | **14:00 UTC** | 18:00 UTC+04 | 22:00 UTC+08 | ² |
-| Poland ![][flag_PL] | ![][flag_SE] Sweden | **15:30 UTC** | 17:30 UTC+02 | 17:30 UTC+02 | ² |
-| Germany ![][flag_DE] | ![][flag_GB] United Kingdom | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 | ² |
+| Countryless ![][flag_XX] | ![][flag_DE] Germany | **13:30 UTC** | 13:30 UTC+00 | 15:30 UTC+02 | ² |
+| Taiwan ![][flag_TW] | ![][flag_US] United States | **15:00 UTC** | 23:00 UTC+08 | 09:00 UTC-06 | ¹ |
+| Brazil ![][flag_BR] | ![][flag_PL] Poland | **16:30 UTC** | 13:30 UTC-03 | 18:30 UTC+02 | ² |
 
 ### Sunday, 25 April 2021
 
 | Team A | Team B | Match time | Local time A | Local time B | |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| Germany ![][flag_DE] | ![][flag_JP] Japan | **11:00 UTC** | 13:00 UTC+02 | 20:00 UTC+09 | ³ |
-| United Kingdom ![][flag_GB] | ![][flag_JP] Japan | **11:00 UTC** | 12:00 UTC+01 | 20:00 UTC+09 | ³ |
-| Poland ![][flag_PL] | ![][flag_RU] Russia | **12:30 UTC** | 14:30 UTC+02 | 16:30 UTC+04 | ³ |
-| Poland ![][flag_PL] | ![][flag_CN] China | **12:30 UTC** | 14:30 UTC+02 | 20:30 UTC+08 | ³ |
-| Sweden ![][flag_SE] | ![][flag_RU] Russia | **12:30 UTC** | 14:30 UTC+02 | 16:30 UTC+04 | ³ |
-| Sweden ![][flag_SE] | ![][flag_CN] China | **12:30 UTC** | 14:30 UTC+02 | 20:30 UTC+08 | ³ |
-| Taiwan ![][flag_TW] | ![][flag_BR] Brazil | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 | ¹ |
-| United States ![][flag_US] | ![][flag_XX] Countryless | **13:00 UTC** | 07:00 UTC-06 | 13:00 UTC+00 | ¹ |
-| Germany ![][flag_DE] | ![][flag_FR] France | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 | ³ |
-| United Kingdom ![][flag_GB] | ![][flag_FR] France | **17:00 UTC** | 18:00 UTC+01 | 19:00 UTC+02 | ³ |
+| Countryless ![][flag_XX] | ![][flag_BR] Brazil | **14:00 UTC** | 14:00 UTC+00 | 11:00 UTC-03 | ³ |
+| Countryless ![][flag_XX] | ![][flag_PL] Poland | **14:00 UTC** | 14:00 UTC+00 | 16:00 UTC+02 | ³ |
+| Germany ![][flag_DE] | ![][flag_BR] Brazil | **14:00 UTC** | 16:00 UTC+02 | 11:00 UTC-03 | ³ |
+| Germany ![][flag_DE] | ![][flag_PL] Poland | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 | ³ |
 
 ¹ Winner bracket encounter\
 ² Loser bracket encounter\
 ³ Encounter dependent on results of ² Loser bracket encounter
 
 ## Mappools
+
+### Finals
+
+- NoMod
+  - [Aqours - Kimeta yo Hand in Hand (SkyFlame) \[Unity\]](https://osu.ppy.sh/beatmapsets/1288914#osu/2675756)
+  - [Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu (knowledgeking) \[Tenebrae of Regina\]](https://osu.ppy.sh/beatmapsets/1443880#osu/2970030)
+  - [THE BINARY mido - Ego mo Id mo Tanjun ni (kuyusu) \[Expert\]](https://osu.ppy.sh/beatmapsets/1268824#osu/2636826)
+  - [ISOMERZ (DJ Raisei + seatrus) - Symmetric (Realazy) \[Sing's Extreme\]](https://osu.ppy.sh/beatmapsets/1381824#osu/2961607)
+  - [Spire - sayonara (Seamob) \[240\]](https://osu.ppy.sh/beatmapsets/1093583#osu/2288722)
+  - [ESQUARIA - Kantsubaki (Regou) \[Sakimashita\]](https://osu.ppy.sh/beatmapsets/621584#osu/1310626)
+- Hidden
+  - [Kotone - Autonomy (captin1) \[Thorn\]](https://osu.ppy.sh/beatmapsets/1420776#osu/2926505)
+  - [DJ Totoriott - Chloe (Yusomi) \[yf's Extra\]](https://osu.ppy.sh/beatmapsets/768982#osu/1908705)
+  - [solfa - Battle 6 : okamitachi no kiba -Revenge of the wolves- (Reiji Maigo) \[awa\]](https://osu.ppy.sh/beatmapsets/1431935#osu/2947341)
+- HardRock
+  - [Kishida Kyoudan & THE Akeboshi Rockets - Necrofantasia (skytuna) \[Delusion\]](https://osu.ppy.sh/beatmapsets/1100490#osu/2299186)
+  - [HiTECH NINJA - Modelista (-jordan-) \[Beyond Lv.10\]](https://osu.ppy.sh/beatmapsets/1148442#osu/2397737)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (yf\_bmp) \[Itsuki's Another\]](https://osu.ppy.sh/beatmapsets/714552#osu/1597481)
+- DoubleTime
+  - [Mikakuning! - Tomadoi Recipe (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/154114#osu/378617)
+  - [KAMELOT - Kevlar Skin (LMT) \[Insane\]](https://osu.ppy.sh/beatmapsets/1267309#osu/2633777)
+  - [hapi - NTD03 ''26ROAD'' (Full Edit) (\[Takuya\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/23667#osu/80863)
+  - [the GazettE - MALFORMED BOX / INSIDE BEAST (Vell) \[Insane\]](https://osu.ppy.sh/beatmapsets/627671#osu/1322582)
+- FreeMod
+  - [ShinRa-Bansho - Traveller of the Aurora (Asagi) \[Heaven\]](https://osu.ppy.sh/beatmapsets/827677#osu/1734270)
+  - [HuMeR - ChaserXX (Hishiro Chizuru) \[Cybernetics\]](https://osu.ppy.sh/beatmapsets/1293408#osu/2771171)
+  - [Brymir - Nephilim (LMT) \[Unholy Ritualus\]](https://osu.ppy.sh/beatmapsets/1271973#osu/2643166)
+- Tiebreaker
+  - **[Amuro vs Killer - Mei (Camellia's "Yomigae' Remix) (RLC) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/1123064#osu/2346860)**
 
 ### Semifinals
 
@@ -223,9 +245,36 @@ This is likely to change as a result of reschedules. Check the [spreadsheet](htt
 
 ## Match results
 
+### Semifinals
+
+The stats of the Semifinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=740688322 "Google spreadsheet").
+
+Saturday, 24 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Germany** ![][flag_DE] | **6** | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/81677156) |
+| Russia ![][flag_RU] | 3 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/81677216) |
+| Japan ![][flag_JP] | 1 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/81681175) |
+| **Poland** ![][flag_PL] | **6** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/81683023) |
+
+Sunday, 25 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **6** | 5 | ![][flag_XX] Countryless | [#1](https://osu.ppy.sh/community/matches/81761659) |
+| **Germany** ![][flag_DE] | **6** | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/81768522) |
+| **Poland** ![][flag_PL] | **6** | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/81770687) |
+
+Monday, 26 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/81840073) |
+
 ### Quarterfinals
 
-The stats of the Quarterfinals can be found on the [spreadsheet]("https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1091288063" "Google spreadsheet").
+The stats of the Quarterfinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1091288063 "Google spreadsheet").
 
 Saturday, 17 April 2021:
 
@@ -247,7 +296,7 @@ Sunday, 18 April 2021:
 
 ### Round of 16
 
-The stats of the Round of 16 can be found on the [spreadsheet]("https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit?rm=minimal#gid=676071053" "Google spreadsheet").
+The stats of the Round of 16 can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit?rm=minimal#gid=676071053 "Google spreadsheet").
 
 Saturday, 10 April 2021:
 
