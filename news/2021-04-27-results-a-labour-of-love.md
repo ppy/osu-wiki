@@ -8,7 +8,7 @@ Votes are tallied and locked in. Discover who won this contest celebrating one o
 
 ![](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_cover.jpg)
 
-In case you're new around here, [**Kuba Oms - My Love**](https://osu.ppy.sh/beatmapsets/163112) is that "memorable beatmap". Participants of the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest created a full beatmap experience around *My Love* including each of these elements:
+In case you're new around here, [**Kuba Oms - My Love**](https://osu.ppy.sh/beatmapsets/163112) is that "memorable beatmap". Participants of the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest created a full beatmap experience around *My Love*, including each of these elements:
 
 - Remix of **Kuba Oms - My Love**
 - Beatmap spread of the remix
@@ -18,7 +18,7 @@ After 5 months of hard work from creators and judges along with votes from thous
 
 ## Live stream showcase
 
-If text isn't your style, we live streamed a reveal of the contest results on [our Twitch channel](https://www.twitch.tv/videos/1000707526) the other day. Watch the top 8 entries alongside live chat reactions, quick interviews with the winners, and commentary from [pishifat](https://osu.ppy.sh/users/3178418), [Ephemeral](https://osu.ppy.sh/users/102335) and [Uberzolik](https://osu.ppy.sh/users/1314547):
+If text isn't your style, we live streamed a reveal of the contest results on [our Twitch channel](https://www.twitch.tv/videos/1000707526 "Twitch") the other day. Below, you can watch the top 8 entries alongside live chat reactions, quick interviews with the winners, and commentary from [pishifat](https://osu.ppy.sh/users/3178418), [Ephemeral](https://osu.ppy.sh/users/102335) and [Uberzolik](https://osu.ppy.sh/users/1314547):
 
 <iframe src="https://player.twitch.tv/?video=1000707526&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
@@ -26,7 +26,7 @@ Read on for a summary of the results!
 
 ## Community vote results
 
-Remember when we asked you to vote for your favourite 2 contest entries [here](https://osu.ppy.sh/home/news/2021-03-26-a-labour-of-love-voting-open)? We received a MASSIVE **7224** total votes spread across the 8 submissions!
+Remember when we asked you to vote for your favourite 2 contest entries [here](https://osu.ppy.sh/home/news/2021-03-26-a-labour-of-love-voting-open)? Well, we received a MASSIVE **7224** total votes spread across the 8 submissions!
 
 Proving to the world that you don't need a crazy 7 star map to win the love of osu! players, *Team Red but Blue*'s entry [**Kuba Oms - My Love (Redside Remix)**](https://osu.ppy.sh/beatmapsets?q=My%20Love%20%28Redside%20Remix%29%20%28feat.%20Hatsune%20Miku%29) dominated the community vote with a 300 point lead!
 
@@ -48,7 +48,7 @@ Following a format similar to [Monthly Beatmapping Contest screening](/wiki/Cont
 
 The overall panel followed the same format with contribution from all judges. Their top 5 picks were based on an evaluation of the full beatmap package (song remix, beatmap, visuals, and general cohesiveness of the elements). To balance out the 6 musician-focused panelists with the 12 mapping-focused panelists, musicians were given more weight in the overall category.
 
-A full overview of judge results can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTts0zpdjKdCUS3oCP4XZ18vh5ckEDqL_Jvy2eh0B4kC8je09bCGwYcpOWgjaXXy0251c3f33u7BDjv/pubhtml) and on the [A Labour of Love wiki page](/wiki/Contests/A_Labour_of_Love_Contest#prizes)
+A full overview of judge results can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTts0zpdjKdCUS3oCP4XZ18vh5ckEDqL_Jvy2eh0B4kC8je09bCGwYcpOWgjaXXy0251c3f33u7BDjv/pubhtml "Google Sheets") and on the [A Labour of Love wiki page](/wiki/Contests/A_Labour_of_Love_Contest#prizes)
 
 ### Overall runner-up
 
@@ -62,11 +62,11 @@ While it may not have scored especially high from either the mapper or musician 
 
 ![Overall runner-up badge](/wiki/shared/news/2021-04-27-results-a-labour-of-love/alol_overallrunnerup@2x.png)
 
-Seeing as the *Elite Storyboarder* title wasn't rewarded to anyone in the overall winning team, we've passed down the title to [Shmiklak](https://osu.ppy.sh/users/5504231) for their outstanding creativity in this contest (along with their vast experience with storyboarding elsewhere of course!).
+Seeing as the *Elite Storyboarder* title wasn't awarded to anyone in the overall winning team, we've passed down the title to [Shmiklak](https://osu.ppy.sh/users/5504231) for their outstanding creativity in this contest (along with their vast experience with storyboarding elsewhere of course!).
 
 ### Overall winner
 
-Taking the breathe away from mappers and musicians across the board, team *extremely valid* wears the heart-shaped crown with their submission [**Raphlesia & BilliumMoto - My Love**](https://osu.ppy.sh/beatmapsets/1388906#osu/2868388)!
+Taking the breath away from mappers and musicians across the board, team *extremely valid* wears the heart-shaped crown with their submission [**Raphlesia & BilliumMoto - My Love**](https://osu.ppy.sh/beatmapsets/1388906#osu/2868388)!
 
 ![Overall runner-up badge](/wiki/shared/news/2021-04-27-results-a-labour-of-love/overall.jpeg)
 
@@ -86,13 +86,13 @@ On top of this, each member of the team has earned a forum title to honour their
 - [DeviousPanda](https://osu.ppy.sh/users/4966334): Elite Mapper
 - [Realazy](https://osu.ppy.sh/users/918297): Elite Mapper
 
-Given [BilliumMoto](https://osu.ppy.sh/users/3862471) and [Mao](https://osu.ppy.sh/users/2204515) already earned these user titles for different contests, they've been granted the *II* suffix. Double congrats to them!
+Given [BilliumMoto](https://osu.ppy.sh/users/3862471) and [Mao](https://osu.ppy.sh/users/2204515) already earned these user titles from different contests, they've been granted the *II* suffix. Double congrats to them!
 
 ## Conclusion
 
-Congratulations again to the winners and thanks to everyone who participated in A Labour of Love!
+Congratulations again to all the winners and thanks to everyone who participated in A Labour of Love!
 
-We hope this contest has been as fun for you as it has been for us. Community members joining together to produce something cool has been the spirit of osu! since the very beginning, and it's awesome to see that feeling shine through in every submission (...except maybe [this one](https://osu.ppy.sh/beatmapsets/1348553), sorry team Down).
+We hope this contest has been as fun for you as it has been for us. Community members joining together to produce something cool has been the spirit of osu! since the very beginning, and it's awesome to see that feeling shine through in every submission (...except maybe [this one](https://osu.ppy.sh/beatmapsets/1348553), sorry team *Down*).
 
 This may be the end for A Labour of Love, but there's no doubt that another contest focused on the full beatmap experience will fill its shoes one day. It's rare for a contest to connect with so many different people throughout the osu! world like this one has, and we look forward to fully embracing that again at some point in the future.
 
