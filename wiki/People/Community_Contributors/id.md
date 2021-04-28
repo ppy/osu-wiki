@@ -180,8 +180,8 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 
 | Pengguna | Kontribusi |
 | :-- | :-- |
-| ![][flag_DE] [Hallowatcher](https://osu.ppy.sh/users/1874761) | Kontribusi luar biasa terhadap acara-acara persatuan dan pengembangan |
-| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kontribusi luar biasa terhadap acara-acara World Cups dan komunitas |
+| ![][flag_DE] [Hallowatcher](https://osu.ppy.sh/users/1874761) | Kontribusi luar biasa terhadap acara-acara komunitas dan pengembangan |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kontribusi luar biasa terhadap World Cups dan acara-acara komunitas |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Kontribusi luar biasa terhadap taraf mapping dan modding |
 | ![][flag_PL] [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Kontribusi luar biasa terhadap pengembangan osu! melalui banyak proyek |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Kontribusi luar biasa terhadap taraf skin osu! dan moderasi |
