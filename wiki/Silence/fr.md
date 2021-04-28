@@ -4,7 +4,7 @@ stub: true
 
 # Silence
 
-Le terme **Silence** est utilisé pour décrire la punition consistant à limiter les moyens de communication d'un utilisateur au sein de la communauté d'osu!. Les silences peuvent être imposés par les [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) et [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), et ne sont imposés qu'aux utilisateurs qui ont enfreint les [Règles de la communauté](/wiki/Rules).
+Le terme **Silence** est utilisé pour décrire la punition consistant à limiter les moyens de communication d'un utilisateur au sein de la communauté d'osu!. Les silences peuvent être imposés par les membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) et de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), et ne sont imposés qu'aux utilisateurs qui ont enfreint les [Règles de la communauté](/wiki/Rules).
 
 ## Limitations
 

@@ -18,7 +18,7 @@ tags:
 
 *Voir aussi : [osu! (disambiguation)](/wiki/Disambiguation/osu!)*
 
-Le [mode de jeu](/wiki/Game_mode) [osu!standard](/wiki/Game_mode/osu!) et osu! lui-même étaient à l'origine basés sur des jeux de rythme développés par **[iNiS](https://fr.wikipedia.org/wiki/INiS "Wikipédia")** pour la [Nintendo DS](https://fr.wikipedia.org/wiki/Nintendo_DS "Wikipédia") au début des années 2000. ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) a construit osu! pour être un simulateur et un éditeur de niveaux pour les jeux iNiS, et les premiers membres de la communauté en étaient généralement fans aussi. Les anciennes [beatmaps](/wiki/Beatmap) ont été fortement influencés par la conception des niveaux d'iNiS.
+Le [mode de jeu](/wiki/Game_mode) [osu!standard](/wiki/Game_mode/osu!) et osu! lui-même étaient à l'origine basés sur des jeux de rythme développés par **[iNiS](https://fr.wikipedia.org/wiki/INiS "Wikipédia")** pour la [Nintendo DS](https://fr.wikipedia.org/wiki/Nintendo_DS "Wikipédia") au début des années 2000. ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) a construit osu! pour être un simulateur et un éditeur de niveaux pour les jeux iNiS, et les premiers membres de la communauté en étaient généralement fans aussi. Les anciennes [beatmaps](/wiki/Beatmap) ont été fortement influencées par la conception des niveaux d'iNiS.
 
 Les jeux auxquels il est fait référence sont :
 

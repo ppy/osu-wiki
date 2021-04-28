@@ -22,7 +22,7 @@ Le classement des points de performance décrit le niveau de compétence d'un jo
 
 ## Classement par score
 
-Le classement par score compare le score total des joueurs et les classe en conséquence. Se classer en tête de ce classement demande beaucoup de temps, mais requiert relativement moins de compétences mécaniques que le classement par points de performance.
+Le classement par score compare le score classé des joueurs et les classe en conséquence. Se classer en tête de ce classement demande beaucoup de temps, mais requiert relativement moins de compétences mécaniques que le classement par points de performance.
 
 ## Classement Kudosu
 
@@ -34,7 +34,7 @@ Les classements Spotlights sont des classements limités dans le temps qui compa
 
 ## Classement Beatmap
 
-Le classement des beatmaps compare les scores des joueurs entre eux sur des beatmaps individuels. Ils apparaissent lorsqu'une beatmap a été [Qualifié](/wiki/Beatmap/Category#qualified), [Classé](/wiki/Beatmap/Category#ranked), [Approuvé](/wiki/Beatmap/Category#approved) ou Loved. Les huit premiers sont affichés sans qu'il soit nécessaire de les faire défiler, et si le joueur a un score parmi les 50 premiers, son score défilera automatiquement. Les rangs de première place peuvent être vus sur la page de profil d'un utilisateur.
+Le classement des beatmaps compare les scores des joueurs entre eux sur des beatmaps individuelles. Ils apparaissent lorsqu'une beatmap a été [Qualifiée](/wiki/Beatmap/Category#qualified), [Classée](/wiki/Beatmap/Category#ranked), [Approuvée](/wiki/Beatmap/Category#approved) ou Loved. Les huit premiers sont affichés sans qu'il soit nécessaire de les faire défiler, et si le joueur a un score parmi les 50 premiers, son score défilera automatiquement. Le nombre et la liste des premières places peuvent être vus sur la page de profil d'un utilisateur.
 
 ## Classement par pays
 

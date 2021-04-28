@@ -19,7 +19,7 @@ Lorsque les joueurs n'avaient plus d'osu!coins, ils ne pouvaient plus jouer de b
 - 0.8€ = 1 osu!coin
 - 8.4€ = 10 osu!coins
 - 845.3€ = 1000 osu!coins
-- premier enfant à naître = une infinités d'osu!coins (l'enfant à naître fonctionne pour osu!)
+- premier enfant à naître = une infinité d'osu!coins (l'enfant travaillera pour osu!)
 
 Le jour suivant, peppy a annulé l'implémentation de osu!coins, a ouvert un nouveau sous-domaine pour la refonte de l'osu!web et a terminé par une [remarque concernant les corrections de bugs et les améliorations mineures](https://osu.ppy.sh/comments/121803).
 
