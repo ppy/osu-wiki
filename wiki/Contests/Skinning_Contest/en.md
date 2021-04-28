@@ -17,8 +17,8 @@ The **Skinning Contest** is a free-for-all osu! skinning contest hosted by [skin
 | --: | :-- |
 | Announcement | 2021-03-08 |
 | Submission phase | 2021-03-08/2021-04-08 |
-| Voting phase | 2021-04-15/2021-04-29 |
-| Results | 2021-05-02 |
+| Voting phase | 2021-04-29/2021-05-13 |
+| Results | 2021-05-20 |
 
 ## Prizes
 
@@ -66,7 +66,7 @@ The Skinning Contest is run by various community members.
 | ![][flag_RU] [cyperdark](https://osu.ppy.sh/users/9893708) | [WhiteCat 2.1](https://osu.ppy.sh/community/forums/topics/1279815) |
 | ![][flag_NZ] [downy](https://osu.ppy.sh/users/4585661) | [New Zealand](https://osu.ppy.sh/community/forums/topics/1292880) |
 | ![][flag_PL] [h3oCharles](https://osu.ppy.sh/users/8712289) | [Untitled Red](https://osu.ppy.sh/community/forums/topics/1278791) |
-| ![][flag_PH] [Inflique](https://osu.ppy.sh/users/13865585) | [Ai Hayasaka](https://osu.ppy.sh/community/forums/topics/1293078) |
+| ![][flag_PH] [Inflique](https://osu.ppy.sh/users/13865585) | [Ai Hayasaka non-weeb ver.](https://osu.ppy.sh/community/forums/topics/1293078) |
 | ![][flag_VE] [Kim Minnie](https://osu.ppy.sh/users/3858685) | [Elation](https://osu.ppy.sh/community/forums/topics/1293200) |
 | ![][flag_VN] [koomo](https://osu.ppy.sh/users/2168518) | [Loona](https://osu.ppy.sh/community/forums/topics/1285299) |
 | ![][flag_EE] [Krizto](https://osu.ppy.sh/users/13474556) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) |
