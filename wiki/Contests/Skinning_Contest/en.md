@@ -44,7 +44,9 @@ The Skinning Contest is run by various community members.
 
 ## Links
 
+- [**Contest page**](https://osu.ppy.sh/community/contests/126)
 - [Announcement newspost](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement)
+- [Voting Open newspost](https://osu.ppy.sh/home/news/2021-04-29-skinning-contest-voting-open)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1266342)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1266324)
 - [Discord server](https://discord.skinship.xyz/)
