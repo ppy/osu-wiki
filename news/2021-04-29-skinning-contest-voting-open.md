@@ -15,6 +15,7 @@ From the most simplistic and cozy skins to the ones with extravagantly placed an
 All these works of outstanding artistry are being displayed for your eyes to see on our contest page, where votes are cast. We used in-game screenshots to serve you the submissions properly, but don't let them fool you by the looks! Download the skins through their respective forum posts listed on the contest page and experience them yourself. Enjoy the ride!
 
 Should you find yourself sitting on the fence, don't worry because we have prepared showcase videos of each submission to help you out. Take a seat and watch all of them on the playlist below:
+
 <iframe width="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLA2Nwtxa4WMo7ickjmFkmMWp1WIa7swaS" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Have you made up your mind already? If so, that's great! Head over to the [contest page](https://osu.ppy.sh/community/contests/126) and cast your votes right away! You're entitled to **3 votes** to make your voice heard, but you'll only have **2 weeks** to register them. Hurry up, folks!
