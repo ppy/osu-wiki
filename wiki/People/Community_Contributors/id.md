@@ -180,13 +180,13 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 
 | Pengguna | Kontribusi |
 | :-- | :-- |
-| ![][flag_DE] [Hallowatcher](https://osu.ppy.sh/users/1874761) | Kontribusi luar biasa terhadap acara persatuan dan pengembangan |
-| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kontribusi luar biasa terhadap World Cups dan komunitas |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Kontribusi luar biasa terhadap mapping dan modding |
+| ![][flag_DE] [Hallowatcher](https://osu.ppy.sh/users/1874761) | Kontribusi luar biasa terhadap acara-acara persatuan dan pengembangan |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kontribusi luar biasa terhadap acara-acara World Cups dan komunitas |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Kontribusi luar biasa terhadap taraf mapping dan modding |
 | ![][flag_PL] [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Kontribusi luar biasa terhadap pengembangan osu! melalui banyak proyek |
-| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Kontribusi luar biasa terhadap skin osu! dan moderasi |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Kontribusi luar biasa terhadap taraf skin osu! dan moderasi |
 | ![][flag_US] [I Must Decrease](https://osu.ppy.sh/users/2773526) | Kontribusi luar biasa terhadap pemeliharaan skor dan pengembangan |
-| ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) | Kontribusi luar biasa terhadap World Cups dan turnamen komunitas |
+| ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) | Kontribusi luar biasa terhadap World Cups dan taraf turnamen komunitas |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
