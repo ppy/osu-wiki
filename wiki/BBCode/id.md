@@ -2,7 +2,7 @@
 
 BBCode adalah [sintaks markup](https://en.wikipedia.org/wiki/Markup_language "Wikipedia") yang digunakan pada forum osu! dan sebagian besar forum di Internet. Hampir keseluruhan forum osu! telah mendukung rich text formatting, yang terdiri dari tag-tag yang mengelilingi teks untuk menandakan pemformatan, atribut, embed, dan lainnya. BBCode telah digunakan di berbagai area di situs web osu!, seperti postingan forum, signature, user page, dan deskripsi beatmap.
 
-![postingan forum dengan tombol-tombolnya](img/editor.jpg "kotak edit postingan di dalam forum osu!")  
+![postingan forum dengan tombol-tombolnya](img/editor-id.jpg "kotak edit postingan di dalam forum osu!")  
 
 ## Upaya tindakan
 
@@ -85,7 +85,7 @@ Tag `[size]` atau *ukuran font* digunakan untuk mengatur gaya teks melalui pengg
 
 Argumen `NUMBER` tidak menerima tanda kutip, dan hanya menerima salah satu dari empat ukuran yang didukung. Jika memasukkan angka yang bukan salah satu dari empat yang didukung, format teks akan kembali ke ukuran default.
 
-Tombol pada toolbar: ![Pengaturan Ukuran Font](img/font-size.png "Font size")
+Tombol pada toolbar: ![Pengaturan Ukuran Font](img/font-size-id.png "Font size")
 
 ### Spoiler
 
