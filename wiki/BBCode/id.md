@@ -6,7 +6,7 @@ BBCode adalah [sintaks markup](https://en.wikipedia.org/wiki/Markup_language "Wi
 
 ## Upaya tindakan
 
-Mengklik tombol markup tanpa menyorot teks apa pun akan membuat serangkaian tag terbuka dan tertutup di sekitar teks pada editor postingan. Menyoroti teks sebelum mengklik tombol markup akan mengelilingi teks tersebut dengan tag yang diinginkan.
+Mengklik tombol markup tanpa menyeleksi teks apa pun akan membuat serangkaian tag terbuka dan tertutup di sekitar teks pada editor postingan. Menyeleksi teks sebelum mengklik tombol markup akan menjadikan teks tersebut diapit oleh tag yang diinginkan.
 
 Pengguna yang ingin menggabungkan pemformatan ke dalam satu bagian teks, dapat melakukannya dengan menempatkan tag BBCode satu sama lain. Namun, urutan dan tingkatan tag yang diinginkan, **wajib kenali** saat digabungkan. Kegagalan menerapkannya akan merusak pemformatan.
 
@@ -20,6 +20,8 @@ Serangkaian penggunaan tag berlapis yang benar dan salah dijelaskan di bawah ini
 BBCode, seperti banyak sintaks markup lainnya, pemformatan teks menggunakan sistem tag, yang ditunjukkan dengan sepasang tanda kurung siku (`[]`). Tag ini dibagi menjadi tag "pembuka" dan tag "penutup", yang dibedakan melalui penyertaan garis miring (`/`). Secara khusus, tag penutup berisi garis miring tepat setelah kurung dibuka, sedangkan tag terbuka tidak disertakan.
 
 Penting juga dicatat bahwa, tag terbuka terkadang menyertakan tanda sama dengan (`=`) di dalamnya untuk menunjukkan URL, ukuran font, dan elemen sejenis lainnya yang akan dibahas selanjutnya.
+
+Tag-tag BBCode yang didukung di situs web osu!, terdaftar dan dijelaskan secara rinci di bawah ini.
 
 ### Bold
 
@@ -69,9 +71,9 @@ Tombol pada toolbar: ![Tombol Strike](img/strike.png "Strikethrough")
 
 *Untuk daftar dari semua nama warna, kunjungi [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart "Wikipedia")*
 
-Tag `[color]` atau *pewarnaan* digunakan untuk mengatur gaya teks melalui berbagai jenis warna web-safe. Tag menggunakan format [kode HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet "Wikipedia") untuk menentukan warna, meskipun juga dapat ditentukan melalui nama warna HTML seperti "Red" atau "Green". Untuk menggunakannya, ganti argumen `HEXCODE` dengan kode HEX atau nama HTML warna yang sesuai.
+Tag `[color]` atau *pewarnaan* digunakan untuk mengatur gaya teks melalui berbagai jenis warna web-safe. Tag ini menggunakan format [kode HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet "Wikipedia") untuk menentukan warna, meskipun juga dapat ditentukan melalui nama warna HTML seperti "Red" atau "Green". Untuk menggunakannya, ganti argumen `HEXCODE` dengan kode HEX atau nama HTML warna yang sesuai.
 
-Argumen warna tersebut menyertakan tanda kutip (`"`) serta tidak memiliki warna default. Jika tidak ada argumen yang ditentukan atau jika tanda kutip digunakan, tag tidak akan diuraikan sebagai tag BBCode.
+Argumen warna tersebut tidak menyertakan tanda kutip (`"`) serta tidak memiliki warna default. Jika tidak ada argumen yang ditentukan atau jika tanda kutip digunakan, tag tidak akan diuraikan sebagai tag BBCode.
 
 ### Font size
 
@@ -93,7 +95,7 @@ Tombol pada toolbar: ![Pengaturan Ukuran Font](img/font-size.png "Font size")
 
 *Jangan disamakan dengan [Spoilerbox](#spoilerbox).*
 
-Tag `[spoiler]` atau *penutup teks* digunakan untuk menutupi informasi sensitif dengan latar depan hitam pekat yang menampilkan teks di belakangnya saat disorot. Jika ditumpuk dengan tag [`[color]`](#color), penutup berwarna hitam tidak akan berpengaruh. Namun, teks di belakang sampul hitam yang akan diberi warna, apakah dapat dibaca atau tidak.
+Tag `[spoiler]` atau *penutup teks* digunakan untuk menutupi informasi sensitif dengan latar depan hitam pekat yang menampilkan teks di belakangnya saat diseleksi. Jika ditumpuk dengan tag [`[color]`](#color), penutup berwarna hitam tidak akan berpengaruh. Namun, teks di belakang penutup hitam tersebut tetap berwarna, baik dapat dibaca atau tidak.
 
 Tag paling sering digunakan untuk mencegah pengumbaran informasi kritis/sensitif tentang acara TV, film, atau media lainnya. Seringkali juga digunakan untuk efek komedi atau penekanan. 
 
@@ -107,11 +109,11 @@ teks
 
 *Jangan disamakan dengan [Spoilerbox](#spoilerbox).*
 
-Tag `[box]` atau *kotak ciut* digunakan untuk menyembunyikan teks dan gambar di dalam hyperlink yang dapat diklik. Setelah mengklik, konten di dalamnya akan terungkap mirip dengan menu dropdown.
+Tag `[box]` atau *kotak spoiler* digunakan untuk menyembunyikan teks dan gambar di dalam hyperlink yang dapat diklik. Setelah mengklik, konten di dalamnya akan terungkap mirip dengan menu dropdown.
 
 Teks hyperlink kustom dilambangkan dengan argumen `NAME`. Menggunakan argumen `NAME` akan membuat teks judul mengikuti di dalam kotak, dan akan menyesuaikan ukuran kotak yang sesuai. Jika teks judul tidak diberikan, tag `[box]` akan membuat kotak tanpa teks judul di dalamnya (yang tidak dapat diklik). Argumen ini tidak menggunakan tanda kutip (`"`), dan akan membuat spasi kosong.
 
-Tag yang paling sering digunakan untuk menyembunyikan teks-teks besar dan gambar yang mungkin berukuran besar pada postingan di forum. Paling dikenal di FAQ atau [skin](/wiki/Skinning).
+Tag ini sering digunakan untuk menyembunyikan teks-teks besar dan gambar yang mungkin berukuran besar pada postingan di forum. Paling dikenal di FAQ atau [skin](/wiki/Skinning).
 
 *Catatan: Kotak tombol pada toolbar BBCode disebut "spoilerbox", tetapi tidak membuat tag `[spoilerbox]`.*
 
@@ -133,13 +135,13 @@ teks
 [/quote]
 ```
 
-Tag `[quote]` atau *kutipan* digunakan untuk gaya pemformatan kutipan panjang secara (alias "tanda kutip blok") melalui penggunaan indentasi, pewarnaan, cetak tebal, dan pemisahan teks melalui garis vertikal merah muda. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAME` menentukan penulis kutipan (meskipun ini opsional). Teks di dalam tanda kutip akan membuat spasi dan jeda baris.
+Tag `[quote]` atau *kutipan* digunakan untuk gaya pemformatan kutipan panjang, (alias "tanda kutip blok") melalui penggunaan indentasi, pewarnaan, cetak tebal, dan pemisahan teks melalui garis vertikal merah muda. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAME` menentukan penulis kutipan (meskipun ini opsional). Teks di dalam tanda kutip akan membuat spasi dan jeda baris.
 
 *Perhatikan: Argumen `NAME` wajib diapit dengan tanda kutip (`"`).*
 
-Kutipan panjang biasanya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Bagaimanapun, di dalam forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain, yang dapat dilakukan melalui tombol `Quote post for reply` dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan (ditampilkan di bawah). Namun, tombol ini **hanya akan muncul jika kursor berada di dekatnya**.
+Kutipan panjang biasanya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Bagaimanapun, di dalam forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain, yang dapat dilakukan melalui tombol `Kutip posting untuk balasan` dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan (ditampilkan di bawah). Namun, tombol ini **hanya akan muncul jika kursor berada di dekatnya**.
 
-![Tombol Quote reply](img/quotereply.png "Quote post for reply")
+![Tombol Quote reply](img/quotereply.png "Kutip posting untuk balasan")
 
 ### Code block
 
@@ -178,7 +180,7 @@ Tombol pada toolbar: ![tombol URL](img/url.png "URL")
 ### Profile
 
 ```
-[profile=userid]username[/profile]
+[profile=userid]nama pengguna[/profile]
 ```
 
 Tag `[profile]` atau *profil* digunakan untuk menautkan halaman profil pengguna osu! dengan menggunakan nama pengguna atau ID pengguna mereka. Penggunaan tag `[profile]` berbeda dengan penggunaan tag [`[url]`](#url), karena tag `[profile]` menampilkan kartu pengguna saat mengarahkan kursor ke tautan yang dibuat oleh tag.
@@ -299,4 +301,4 @@ Tag *Heading (v2)* adalah sebuah tag usang yang pernah digunakan di forum osu! u
 
 - Artikel wiki ini diadaptasi dari ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) utas forum milik [Stefan](https://osu.ppy.sh/users/626907).
 - Dulu ada sebuah bug yang memungkinkan pengguna membuat teks transparan dengan menggunakan [tag warna](#colour) dan mengetik "transparent" setelah tanda sama dengan (`=`).
-- Untuk saat ini, teks akan kembali ke warna default (putih) saat itu terjadi.
+  - Untuk saat ini, teks akan kembali ke warna default (putih) saat itu terjadi.
