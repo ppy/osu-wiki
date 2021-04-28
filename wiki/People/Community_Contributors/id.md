@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # Kontributor Komunitas
 
 ![](/wiki/shared/contributor.jpg "Lencana kontributor")
