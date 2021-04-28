@@ -179,6 +179,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 ## 2021
 
 ### Maret
+
 *Untuk posting berita terkait, lihat: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
 | Pengguna | Kontribusi |
