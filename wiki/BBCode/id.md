@@ -29,7 +29,7 @@ Tag-tag BBCode yang didukung di situs web osu!, terdaftar dan dijelaskan secara 
 [b]teks[/b]
 ```
 
-Tag `[b]` atau *huruf tebal* digunakan untuk penekanan teks melalui penggunaan huruf tebal. Huruf tebal BBCode tidak memengaruhi ukuran font.
+Tag `[b]` atau *cetak tebal* digunakan untuk penekanan teks melalui penggunaan huruf tebal. Huruf tebal BBCode tidak memengaruhi ukuran font.
 
 Tombol pada toolbar: ![Tombol Bold](img/bold.png "Bold")
 
@@ -39,7 +39,7 @@ Tombol pada toolbar: ![Tombol Bold](img/bold.png "Bold")
 [i]teks[/i]
 ```
 
-Tag `[i]` atau *huruf miring* digunakan untuk memberi penekanan ringan pada teks dengan memiringkan teks ke depan (yaitu, miring).
+Tag `[i]` atau *cetak miring* digunakan untuk memberi penekanan ringan pada teks dengan memiringkan teks ke depan (yaitu, miring).
 
 Tombol pada toolbar: ![Tombol Italic](img/italic.png "Italic")
 
@@ -59,7 +59,7 @@ Tag `[u]` atau *garis bawah* digunakan untuk penekanan teks dengan garis horizon
 
 *Juga dikenal sebagai **strike**.*
 
-Tag `[strike]` atau *garis ditengah huruf* digunakan untuk menunjukkan asumsi penghapusan teks yang sebelumnya dimasukkan melalui penggunaan garis horizontal yang "mencoret" teks (yaitu "coret").
+Tag `[strike]` atau *coret* digunakan untuk menunjukkan asumsi penghapusan teks yang sebelumnya dimasukkan melalui penggunaan garis horizontal yang "mencoret" teks (yaitu "coret").
 
 Tombol pada toolbar: ![Tombol Strike](img/strike.png "Strikethrough")
 
@@ -81,7 +81,7 @@ Argumen warna tersebut tidak menyertakan tanda kutip (`"`) serta tidak memiliki 
 [size=NUMBER]teks[/size]
 ```
 
-Tag `[size]` atau *ukuran font* digunakan untuk mengatur gaya teks melalui penggunaan ukuran font yang berbeda. Saat ini, ada empat ukuran yang didukung oleh situs web osu!: 50, 85, 100, dan 150. Ukuran secara internal disebut sebagai "sangat kecil", "kecil", "normal", dan "besar".
+Tag `[size]` atau *ukuran font* digunakan untuk mengatur gaya teks melalui penggunaan ukuran font yang berbeda. Saat ini, ada empat ukuran yang didukung oleh situs web osu!: 50, 85, 100, dan 150. Ukuran secara internal disebut sebagai "mungil", "kecil", "normal", dan "besar".
 
 Argumen `NUMBER` tidak menerima tanda kutip, dan hanya menerima salah satu dari empat ukuran yang didukung. Jika memasukkan angka yang bukan salah satu dari empat yang didukung, format teks akan kembali ke ukuran default.
 
@@ -253,7 +253,7 @@ Untuk menyematkan file audio melalui metode ini, pengguna harus menempelkan sumb
 [heading]teks[/heading]
 ```
 
-Tag `[heading]` digunakan untuk pemformatan teks menjadi header besar berwarna merah jambu. Tag ini tidak mendukung tajuk multi-level, dan tidak dapat ditautkan secara khusus.
+Tag `[heading]` atau *tajuk* digunakan untuk pemformatan teks menjadi header besar berwarna merah jambu. Tag ini tidak mendukung tajuk multi-level, dan tidak dapat ditautkan secara khusus.
 
 Tombol pada toolbar: ![Tombol Heading](img/heading.png "Heading")
 
