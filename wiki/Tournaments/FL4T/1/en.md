@@ -29,6 +29,8 @@ The **osu!mania Flashlight 4K Tournament** (***FL4T***) is a 1v1 osu!mania 4-key
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.jpg "FL4T winner badge")
+
 ## Organisation
 
 The osu!mania Flashlight 4K Tournament is run by various community members.
