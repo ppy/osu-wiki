@@ -77,6 +77,16 @@ The osu!mania Flashlight 4K Tournament was run by various community members.
 | **G** | ![][flag_PH] [- l e j -](https://osu.ppy.sh/users/6413944) | ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531) | ![][flag_FR] [Babibelbleu](https://osu.ppy.sh/users/16892459) | ![][flag_PH] [Tensai422](https://osu.ppy.sh/users/12688477) |
 | **H** | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) | ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132) | ![][flag_TH] [IjustLuvBanana](https://osu.ppy.sh/users/16011592) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [- l e j -](https://osu.ppy.sh/users/6413944) |
+
 ## Mappools
 
 ### Finals week 2
