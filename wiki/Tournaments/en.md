@@ -453,6 +453,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania South East Asia Champion 2020](SEAC/2020) | 2020-12-26 | 2021-02-14 | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ![][flag_VN] [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) | ![][flag_VN] [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
 
+### ![](/wiki/shared/mode/mania.png) osu!mania Flashlight 4K Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania Flashlight 4K Tournament](FL4T/1) | 2021-02-06 | 2021-03-21 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) | ![][flag_PH] [- l e j -](https://osu.ppy.sh/users/6413944) |
+
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
