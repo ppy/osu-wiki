@@ -216,6 +216,20 @@ The osu!mania Flashlight 4K Tournament was run by various community members.
 
 ## Match results
 
+### Finals week 2
+
+Saturday, 21 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| - l e j - ![][flag_PH] | 1 | **7** | ![][flag_GB] **TingMomentum** | [#1](https://osu.ppy.sh/community/matches/78553676) |
+
+Sunday, 22 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **andreymc** ![][flag_BR] | **7** | 2 | ![][flag_GB] TingMomentum | [#1](https://osu.ppy.sh/community/matches/78677718) |
+
 ### Finals week 1
 
 Saturday, 13 March 2021:
