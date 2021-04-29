@@ -58,7 +58,7 @@ The Skinning Contest is run by various community members.
 | :-- | :-- |
 | ![][flag_SI] [\[ Foxxo \]](https://osu.ppy.sh/users/15183579) | [AI](https://osu.ppy.sh/community/forums/topics/1271982) |
 | ![][flag_DE] [5teven](https://osu.ppy.sh/users/8568397) | [5kin](https://osu.ppy.sh/community/forums/topics/1292897) |
-| ![][flag_ID] [Archie47](https://osu.ppy.sh/users/7087699) | [Simplified Dark](https://osu.ppy.sh/community/forums/topics/1270022) |
+| ![][flag_ID] [ArchieA7](https://osu.ppy.sh/users/7087699) | [Simplified Dark](https://osu.ppy.sh/community/forums/topics/1270022) |
 | ![][flag_DE] [Aregularhuman](https://osu.ppy.sh/users/20727092) | [冷戦(Reisen)](https://osu.ppy.sh/community/forums/topics/1292152) |
 | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) | [Starcruiser](https://osu.ppy.sh/community/forums/topics/1289843) |
 | ![][flag_SA] [Beatzs](https://osu.ppy.sh/users/8095677) | [Beats's Own Negligible](https://osu.ppy.sh/community/forums/topics/1275236) |
