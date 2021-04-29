@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skinning Contest: Voting Open"
-date: 2021-04-29 12:00:00 +0000
+date: 2021-04-29 08:00:00 +0000
 ---
 
 Skins are aboard! Try them all out and vote for your favourite before the ship sails!
@@ -16,13 +16,9 @@ All these works of outstanding artistry are being displayed for your eyes to see
 
 Should you find yourself sitting on the fence, don't worry because we have prepared showcase videos of each submission to help you out. Take a seat and watch all of them on the playlist below:
 
-<iframe width="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLA2Nwtxa4WMo7ickjmFkmMWp1WIa7swaS" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLA2Nwtxa4WMo7ickjmFkmMWp1WIa7swaS" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Have you made up your mind already? If so, that's great! Head over to the [contest page](https://osu.ppy.sh/community/contests/126) and cast your votes right away! You're entitled to **3 votes** to make your voice heard, but you'll only have **2 weeks** to register them. Hurry up, folks!
-
----
-
-That was it for today!
+Have you made up your mind already? If so, that's great! Head over to the [contest page](https://osu.ppy.sh/community/contests/126) and cast your votes right away by clicking the grey star overlay on the bottom left of the entry you like. You have **3 votes** to make your voice heard, but you'll only have **2 weeks** to register them. Hurry up, folks!
 
 For more information about the contest, check out our [wiki article](/wiki/Contests/Skinning_Contest) and [forum thread](https://osu.ppy.sh/community/forums/topics/1266342). If you wish to meet the contest staff or show your appreciation to our contestants, you are always welcome to join our [Discord server](https://discord.skinship.xyz)!
 
