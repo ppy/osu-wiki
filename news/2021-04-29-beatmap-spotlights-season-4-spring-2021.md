@@ -46,7 +46,7 @@ The applications will remain open for at least 2 weeks (ending at 13rd May 2021)
 | Timeshift Lobby: Playlist D | Jun 24th - Jul 1st, 2021 |
 | Season Conclusion | Jul 1st, 2021 |
 
-You can check the finalized leaderboard for the previous season [here](<!-- insert url here :) -->).
+You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRap2yEiRfYPplKL0kt2SGx9WCxvlRLj2OKH9dqmTMpF_wzCTcyfpRyQBKM1P9tL_pNUa_6JTBX6acY/pubhtml).
 
 The Spring Season 2021 leaderboard will be available over at the [Beatmap Spotlights Season Spring 2021](/wiki/Beatmap_Spotlights/Seasons/2021_Spring) wiki article once the first batch of lobbies conclude in the coming weeks.
 
