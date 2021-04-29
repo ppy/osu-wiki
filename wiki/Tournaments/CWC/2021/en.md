@@ -39,7 +39,7 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | :-- | :-- |
 | Manager | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542), ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266), ![][flag_CA] [wwwww](https://osu.ppy.sh/users/8434466) |
-| Commentator | *To be announced* |
+| Commentator | ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_BE] [\[ Quinten \]](https://osu.ppy.sh/users/6283136), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941), ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) |
 | Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -91,27 +91,27 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
+| Belgium ![][flag_BE] | ![][flag_MY] Malaysia | **09:00 UTC** | 11:00 UTC+02 | 17:00 UTC+08 |
 | France ![][flag_FR] | ![][flag_AU] Australia | **11:00 UTC** | 13:00 UTC+02 | 21:00 UTC+10 |
 | South Korea ![][flag_KR] | ![][flag_JP] Japan | **11:00 UTC** | 20:00 UTC+09 | 20:00 UTC+09 |
-| Vietnam ![][flag_VN] | ![][flag_SG] Singapore | **11:00 UTC** | 18:00 UTC+07 | 19:00 UTC+08 |
 | Hong Kong ![][flag_HK] | ![][flag_TH] Thailand | **12:00 UTC** | 20:00 UTC+08 | 19:00 UTC+07 |
 | Taiwan ![][flag_TW] | ![][flag_JP] Japan | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 |
 | China ![][flag_CN] | ![][flag_FI] Finland | **12:00 UTC** | 20:00 UTC+08 | 15:00 UTC+03 |
+| Vietnam ![][flag_VN] | ![][flag_SG] Singapore | **12:00 UTC** | 19:00 UTC+07 | 20:00 UTC+08 |
 | Italy ![][flag_IT] | ![][flag_PH] Philippines | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
-| Taiwan ![][flag_TW] | ![][flag_GB] United Kingdom | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
-| Russian Federation ![][flag_RU] | ![][flag_SG] Singapore | **13:00 UTC** | 16:00 UTC+03 | 21:00 UTC+08 |
-| Philippines ![][flag_PH] | ![][flag_BE] Belgium | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 |
 | Thailand ![][flag_TH] | ![][flag_DK] Denmark | **14:00 UTC** | 21:00 UTC+07 | 16:00 UTC+02 |
 | Poland ![][flag_PL] | ![][flag_VN] Vietnam | **14:00 UTC** | 16:00 UTC+02 | 21:00 UTC+07 |
-| Netherlands ![][flag_NL] | ![][flag_FI] Finland | **16:00 UTC** | 18:00 UTC+02 | 19:00 UTC+03 |
-| Italy ![][flag_IT] | ![][flag_BE] Belgium | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
+| Hong Kong ![][flag_HK] | ![][flag_ID] Indonesia | **14:00 UTC** | 22:00 UTC+08 | 21:00 UTC+07 |
+| Russian Federation ![][flag_RU] | ![][flag_SG] Singapore | **14:00 UTC** | 17:00 UTC+03 | 22:00 UTC+08 |
 | Germany ![][flag_DE] | ![][flag_AR] Argentina | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
 | Argentina ![][flag_AR] | ![][flag_SE] Sweden | **17:00 UTC** | 14:00 UTC-03 | 19:00 UTC+02 |
 | Chile ![][flag_CL] | ![][flag_NO] Norway | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
-| Netherlands ![][flag_NL] | ![][flag_PE] Peru | **17:00 UTC** | 19:00 UTC+02 | 12:00 UTC-05 |
+| France ![][flag_FR] | ![][flag_CO] Colombia | **17:00 UTC** | 19:00 UTC+02 | 12:00 UTC-05 |
+| Italy ![][flag_IT] | ![][flag_BE] Belgium | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
 | Germany ![][flag_DE] | ![][flag_SE] Sweden | **18:00 UTC** | 20:00 UTC+02 | 20:00 UTC+02 |
-| France ![][flag_FR] | ![][flag_CO] Colombia | **18:00 UTC** | 20:00 UTC+02 | 13:00 UTC-05 |
 | Mexico ![][flag_MX] | ![][flag_NO] Norway | **18:00 UTC** | 12:00 UTC-06 | 20:00 UTC+02 |
+| Brazil ![][flag_BR] | ![][flag_CO] Colombia | **20:00 UTC** | 17:00 UTC-03 | 15:00 UTC-05 |
+| Canada ![][flag_CA] | ![][flag_MX] Mexico | **20:00 UTC** | 15:00 UTC-05 | 14:00 UTC-06 |
 | Canada ![][flag_CA] | ![][flag_CL] Chile | **23:00 UTC** | 18:00 UTC-05 | 19:00 UTC-04 |
 | Australia ![][flag_AU] | ![][flag_BR] Brazil | **23:00 UTC** | 09:00 (Sun.) UTC+10 | 20:00 UTC-03 |
 
@@ -121,11 +121,10 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | --: | :-- | :-: | :-: | :-: |
 | Australia ![][flag_AU] | ![][flag_CO] Colombia | **00:00 UTC** | 10:00 UTC+10 | 19:00 (Sat.) UTC-05 |
 | Chile ![][flag_CL] | ![][flag_MX] Mexico | **00:00 UTC** | 20:00 (Sat.) UTC-04 | 18:00 (Sat.) UTC-06 |
-| United States ![][flag_US] | ![][flag_AR] Argentina | **00:00 UTC** | 20:00 (Sat.) UTC-04 | 21:00 (Sat.) UTC-03 |
-| Brazil ![][flag_BR] | ![][flag_CO] Colombia | **01:00 UTC** | 22:00 (Sat.) UTC-03 | 20:00 (Sat.) UTC-05 |
-| Canada ![][flag_CA] | ![][flag_MX] Mexico | **01:00 UTC** | 20:00 (Sat.) UTC-05 | 19:00 (Sat.) UTC-06 |
-| China ![][flag_CN] | ![][flag_PE] Peru | **02:00 UTC** | 10:00 UTC+08 | 21:00 (Sat.) UTC-05 |
-| Hong Kong ![][flag_HK] | ![][flag_ID] Indonesia | **11:00 UTC** | 19:00 UTC+08 | 18:00 UTC+07 |
+| United States ![][flag_US] | ![][flag_AR] Argentina | **01:00 UTC** | 21:00 (Sat.) UTC-04 | 22:00 (Sat.) UTC-03 |
+| China ![][flag_CN] | ![][flag_PE] Peru | **03:00 UTC** | 11:00 UTC+08 | 22:00 (Sat.) UTC-05 |
+| Philippines ![][flag_PH] | ![][flag_BE] Belgium | **09:00 UTC** | 17:00 UTC+08 | 11:00 UTC+02 |
+| Taiwan ![][flag_TW] | ![][flag_GB] United Kingdom | **10:00 UTC** | 18:00 UTC+08 | 11:00 UTC+01 |
 | Philippines ![][flag_PH] | ![][flag_MY] Malaysia | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
 | South Korea ![][flag_KR] | ![][flag_TW] Taiwan | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
 | Russian Federation ![][flag_RU] | ![][flag_VN] Vietnam | **11:00 UTC** | 14:00 UTC+03 | 18:00 UTC+07 |
@@ -133,17 +132,18 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | Italy ![][flag_IT] | ![][flag_MY] Malaysia | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
 | South Korea ![][flag_KR] | ![][flag_GB] United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
 | Hong Kong ![][flag_HK] | ![][flag_DK] Denmark | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
-| Belgium ![][flag_BE] | ![][flag_MY] Malaysia | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
 | Japan ![][flag_JP] | ![][flag_GB] United Kingdom | **13:00 UTC** | 22:00 UTC+09 | 14:00 UTC+01 |
 | Indonesia ![][flag_ID] | ![][flag_DK] Denmark | **14:00 UTC** | 21:00 UTC+07 | 16:00 UTC+02 |
 | Poland ![][flag_PL] | ![][flag_SG] Singapore | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 |
 | China ![][flag_CN] | ![][flag_NL] Netherlands | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 |
+| Netherlands ![][flag_NL] | ![][flag_PE] Peru | **16:30 UTC** | 18:30 UTC+02 | 11:30 UTC-05 |
 | United States ![][flag_US] | ![][flag_SE] Sweden | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
 | Poland ![][flag_PL] | ![][flag_RU] Russian Federation | **17:00 UTC** | 19:00 UTC+02 | 20:00 UTC+03 |
 | France ![][flag_FR] | ![][flag_BR] Brazil | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
 | Finland ![][flag_FI] | ![][flag_PE] Peru | **18:00 UTC** | 21:00 UTC+03 | 13:00 UTC-05 |
 | Canada ![][flag_CA] | ![][flag_NO] Norway | **18:00 UTC** | 13:00 UTC-05 | 20:00 UTC+02 |
 | Germany ![][flag_DE] | ![][flag_US] United States | **18:00 UTC** | 20:00 UTC+02 | 14:00 UTC-04 |
+| Netherlands ![][flag_NL] | ![][flag_FI] Finland | **19:00 UTC** | 21:00 UTC+02 | 22:00 UTC+03 |
 
 ## Mappools
 
