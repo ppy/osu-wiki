@@ -197,6 +197,7 @@ In August 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) stepped
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
