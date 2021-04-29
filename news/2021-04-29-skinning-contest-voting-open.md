@@ -16,7 +16,7 @@ All these works of outstanding artistry are being displayed for your eyes to see
 
 Should you find yourself sitting on the fence, don't worry because we have prepared showcase videos of each submission to help you out. Take a seat and watch all of them on the playlist below:
 
-<iframe width="90%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLA2Nwtxa4WMo7ickjmFkmMWp1WIa7swaS" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLA2Nwtxa4WMo7ickjmFkmMWp1WIa7swaS" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Have you made up your mind already? If so, that's great! Head over to the [contest page](https://osu.ppy.sh/community/contests/126) and cast your votes right away by clicking the grey star overlay on the bottom left of the entry you like. You have **3 votes** to make your voice heard, but you'll only have **2 weeks** to register them. Hurry up, folks!
 
