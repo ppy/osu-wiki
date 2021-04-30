@@ -24,7 +24,7 @@ To participate in the Beatmap Spotlights League, you need to download the latest
 
 ## <a id="applications"></a> Seeking new curators
 
-We are looking for members that are both willing and capable of making decent beatmap selections for upcoming Beatmap Spotlights seasons. This season we are seeking new members for **osu!catch** and **osu!taiko** tams. We've also changed the application form to make it simpler for you to apply!
+We are looking for members that are both willing and capable of making decent beatmap selections for upcoming Beatmap Spotlights seasons. This season we are seeking new members for **osu!catch** and **osu!taiko** teams. We've also changed the application form to make it simpler for you to apply!
 
 **If you think you've got what it takes to be a part of Spotlights Team, don't hesitate and [apply today!](https://spotlights.team/app)**
 
