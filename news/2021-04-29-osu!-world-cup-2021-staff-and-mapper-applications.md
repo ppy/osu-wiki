@@ -14,15 +14,15 @@ Similar to last year we have multiple open positions for people to apply to. A f
 
 ### Mappool Selector
 
-Mappool selectors are often underappreciated, but here we recognise the value of experienced insight and acumen that go towards shaping the mappools.
+Mappool Selectors are often underappreciated, but here we recognise the value of experienced insight and acumen that go towards shaping the mappools.
 
 We are looking for individuals who, in addition to being able to quickly and critically evaluate key skillsets of maps, are also open to discussing and exploring new ideas through lengthy discourse.
 
-The responsibility and commitment is heavy for this role, but if you feel you have what it takes to be a mappool selector, then [Apply here](https://forms.gle/wRZbUw8ysSkC7JrN9)!
+The responsibility and commitment is heavy for this role, but if you feel you have what it takes to be a Mappool Selector, then [apply here](https://forms.gle/wRZbUw8ysSkC7JrN9)!
 
 ### Mapper for custom OWC maps
 
-If the mappool selectors form the backbone of a tournament, then the custom mappers surely are its muscle.
+If the Mappool Selectors form the backbone of a tournament, then the custom mappers surely are its muscle.
 
 In the past year custom mapping has taken community tournaments by storm, and the osu! World Cup will continue to uphold the highest standards in supporting mappers with this process. This year features a more specific application form with various slot descriptions to make it easier to apply as a mapper and get a feel for the broad skillsets a mappool needs.
 
