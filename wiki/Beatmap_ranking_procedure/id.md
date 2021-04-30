@@ -2,7 +2,7 @@
 
 *Lihat juga: [Rank (disambiguasi)](/wiki/Disambiguation/Rank)*
 
-[Beatmap](/wiki/Beatmap) dapat dipromosikan ke Komunitas dengan mengikuti prosedur beatmap ranking dan sudah berada dalam kategori [Ranked](/wiki/Beatmap/Category#ranked).
+[Beatmap](/wiki/Beatmap) dapat dipromosikan ke Komunitas dengan mengikuti prosedur beatmap ranking dan siap memasuki kategori [Ranked](/wiki/Beatmap/Category#ranked).
 
 ## Umpan balik
 
@@ -12,7 +12,7 @@ Seorang mapper dapat menandai status kiriman beatmap mereka sebagai `Work in Pro
 
 Mapper baru biasanya membutuhkan modding ekstensif supaya beatmap yang mereka buat memenuhi standar kualitas kategori Ranked. Tidak jarang mereka mendapat kritik untuk membuat ulang beatmap mereka dari awal.
 
-Sebelum sebuah beatmap dapat dinominasikan untuk ranking, beatmapset membutuhkan postingan [hype](/wiki/Glossary#hype) dari lima pengguna berbeda.
+Sebelum sebuah beatmap dapat dinominasikan untuk ranking, beatmapset membutuhkan postingan [hype](/wiki/Glossary#hype) paling sedikit  dari lima pengguna berbeda.
 
 ## Nominasi
 

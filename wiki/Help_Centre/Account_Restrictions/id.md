@@ -4,13 +4,13 @@ Restriction akun adalah tindakan pembatasan dari komunitas yang diterapkan pada 
 
 Ketika suatu akun ter-restrict, akun tersebut tidak dapat berinteraksi dengan orang lain sampai restriction-nya dicabut. Pemain yang di-restrict masih bisa memainkan game, mengunduh beatmap, dan mengirimkan skor, tetapi profil mereka tidak akan terlihat oleh orang lain.
 
-Fitur berikut dinonaktifkan untuk akun yang ter-restrict:
+Berikut fitur-fitur yang dinonaktifkan untuk akun yang ter-restrict:
 
 - Obrolan dalam game
 - pesan pribadi
 - posting dalam forum atau bagian komentar
 - mengunggah atau memperbarui beatmap
-- memperbarui detail profil
+- perbaruan detail profil
 - pembelian di osu!store
 
 ## Akun saya telah di-restrict! Apa yang harus saya lakukan?

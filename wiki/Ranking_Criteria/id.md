@@ -1,6 +1,6 @@
 # Ranking criteria
 
-*Untuk ranking criteria spesifik [mode permainan](/wiki/Game_mode), kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
+*Untuk ranking criteria [mode permainan](/wiki/Game_mode) yang spesifik, kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
 
 Kumpulan **ranking criteria** ini menjabarkan [aturan dan pedoman](#istilah-umum) yang harus diikuti [beatmaps](/wiki/Beatmap) untuk melalui [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
@@ -58,6 +58,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 - **Seorang [beatmapset host](/wiki/Beatmap/Beatmap_host) tidak dapat mengindikasikan kepemilikan dalam nama tingkat kesulitan** (misalnya, Beatmapset Host's Insane). Konflik yang disebabkan oleh beatmapping lagu-lagu dengan metadata yang sama dan [tingkat kesulitan kolaboratif](/wiki/Beatmap/Beatmap_collaborations) adalah pengecualian. Namun, [Guest difficulty](/wiki/Beatmap/Guest_difficulty) dapat mengindikasikan kepemilikan dengan nama pengguna atau nama panggilan pembuatnya.
 - **Seorang [beatmapset host](/wiki/Beatmap/Beatmap_host) harus membuat tingkat kesulitan yang jumlahnya sama atau lebih dari pembuat [guest difficulty](/wiki/Beatmap/Guest_difficulty).** hal ini bertujuan untuk memberi pengakuan. [Tingkat kesulitan kolaboratif](/wiki/Beatmap/Beatmap_collaborations) hanya dianggap sebagai sebagian dari tingkat kesulitan, dan [drain time](/wiki/Gameplay/Drain_time) akan digunakan untuk menentukan jumlah kontribusi ketika seorang guest telah membuat beatmap yang secara signifikan lebih banyak daripada host.
 - **Seorang [beatmapset host](/wiki/Beatmap/Beatmap_host) dan pembuat [guest difficulty](/wiki/Beatmap/Guest_difficulty) dapat mengubah tingkat kesulitan masing-masing sesuai keinginan.** Jika ada ketidaksepakatan antara keduanya, host beatmapset harus menghapus guest difficulty atas permintaan. Jika pembuat guest difficulty tidak dapat dihubungi selama sebulan, mereka akan dianggap setuju dengan perubahan apa pun.
+- **Beatmapsets tidak boleh berisi bagian-bagian signifikan dari tingkat kesulitan milik pengguna lain tanpa keterlibatan atau izin eksplisit dari mereka.**
 
 ### Pedoman
 
