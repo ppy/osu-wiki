@@ -10,7 +10,7 @@ Spotlights rivals assemble! As many of you might've already known, the Winter Se
 
 With the new season lounch, there will be some changes regarding gameplay aspects, as well as communication related matters.
 
-We are also, as in the previous season, seeking new team members so make sure to check out the **[seeking new curators](#applications)** section if you'd be interested in helping out!
+We are also, as in the previous season, seeking new team members so make sure to check out the **[seeking new curators](#applications)** section if you'd be interested in helping out in **osu!catch** or **osu!taiko**!
 
 If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies are now open for play on the osu!lazer client**. If you've got no idea how to get started with things, read on below!
 
@@ -24,7 +24,7 @@ To participate in the Beatmap Spotlights League, you need to download the latest
 
 ## <a id="applications"></a> Seeking new curators
 
-We are looking for members that are both willing and capable of making decent beatmap selections for upcoming Beatmap Spotlights seasons. We've also changed the application form to make it simpler for you to apply!
+We are looking for members that are both willing and capable of making decent beatmap selections for upcoming Beatmap Spotlights seasons. This season we are seeking new members for **osu!catch** and **osu!taiko** tams. We've also changed the application form to make it simpler for you to apply!
 
 **If you think you've got what it takes to be a part of Spotlights Team, don't hesitate and [apply today!](https://spotlights.team/app)**
 
