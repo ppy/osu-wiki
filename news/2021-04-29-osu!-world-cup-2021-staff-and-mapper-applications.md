@@ -4,7 +4,7 @@ title: "osu! World Cup 2021: Staff and Mapper Applications"
 date: 2021-05-01 00:00:00 +0000
 ---
 
-After an exciting TWC we're already looking to prepare for the osu! World Cup 2021. For anyone who is interested in helping out behind the scenes for the upcoming osu! World Cup -- read on to find out more!
+osu! World Cup 2021 may be over 5 months away, but already we are looking to prepare and plan ahead. For anyone who is interested in helping out behind the scenes -- read on to find out more!
 
 ![](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
