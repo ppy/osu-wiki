@@ -4,7 +4,7 @@ title: "osu! World Cup 2021: Staff and Mapper Applications"
 date: 2021-05-01 00:00:00 +0000
 ---
 
-As we continue to take our planning and preparation to the next level, we are eager to announce that Staff and Mapper Applications for OWC 2021 are now open - read on to find out more!
+After an exciting osu!taiko World Cup we're already looking to prepare for the osu! World Cup 2021. For anyone who is interested in helping out behind the scenes for the upcoming osu! World Cup -- read on to find out more!
 
 ![](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
@@ -18,7 +18,7 @@ Mappool selectors are often underappreciated, but here we recognise the value of
 
 We are looking for individuals who, in addition to being able to quickly and critically evaluate key skillsets of maps, are also open to discussing and exploring new ideas through lengthy discourse.
 
-The responsibility and commitment is heavy for this role, but if you feel you have what it takes to be a mappool selector, then [Apply here](linkhere)!
+The responsibility and commitment is heavy for this role, but if you feel you have what it takes to be a mappool selector, then [Apply here](https://forms.gle/wRZbUw8ysSkC7JrN9)!
 
 ### Mapper for custom OWC maps
 
@@ -28,7 +28,7 @@ In the past year custom mapping has taken community tournaments by storm, and th
 
 Mappers can expect to be contacted between late May and November.
 
-[Apply here](linkhere) if you are interested in helping out as a custom mapper!
+[Apply here](https://forms.gle/BYhDbVz4PZjzAaDv6) if you are interested in helping out as a custom mapper!
 
 ### Commentator/Referee
 
