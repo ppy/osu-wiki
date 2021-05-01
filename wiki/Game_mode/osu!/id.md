@@ -44,19 +44,19 @@ Cara lainnya, klik tombol `Mode` dan pilih` osu! `.
 
 #### Area Bermain
 
-![antarmuka osu!](/wiki/shared/osu-gameplay.jpg "osu! Interface")
+![antarmuka osu!](/wiki/shared/osu-gameplay.jpg "antarmuka osu!")
 
-Bilah kiri atas adalah bilah kesehatan, yang akan menurun dengan kecepatan tetap (tergantung pada kesulitan beatmap), tetapi dapat diisi ulang dengan mengetuk nada pada waktu yang tepat atau memutar *spinner*. Pukulan yang tepat waktunya (300 atau Geki) akan memulihkan kesehatan lebih baik daripada pukulan yang tidak tepat waktunya (50). pukulan yang gagal akan menghilangkan sebagian kesehatan dari bilah kesehatan.
+Bilah kiri atas adalah bilah HP (health bar), yang akan menurun dengan kecepatan tetap (tergantung pada kesulitan beatmap), tetapi dapat diisi ulang dengan mengetuk nada pada waktu yang tepat atau memutar *spinner*. Pukulan yang tepat waktunya (300 atau Geki) akan memulihkan HP lebih baik daripada pukulan yang tidak tepat waktunya (50). pukulan yang gagal akan menghilangkan sebagian HP dari bilah HP.
 
-Di sebelah kanan bilah kesehatan adalah skor total. Dan di bawahnya adalah akurasi. Lingkaran di samping akurasi (dan di bawah skor) adalah penghitung waktu dari durasi sebuah beatmap.
+Di sebelah kanan bilah HP adalah skor total. Dan di bawahnya adalah akurasi. Lingkaran di samping akurasi (dan di bawah skor) adalah penghitung waktu dari durasi sebuah beatmap.
 
 Angka di kiri bawah adalah penghitung kombo / pengganda skor.
 
-#### Lingkaran pukul
+#### Hit circle
 
-![Lingkaran pukul](/wiki/shared/osu_hitcircles.jpg "osu! hit circles")
+![Hit circle](/wiki/shared/osu_hitcircles.jpg "osu! hit circle")
 
-Sebuah lingkaran pendekatan tipis berwarna serupa di luar lingkaran hit yang akan menyusut seiring waktu. Ketuk lingkaran pada titik yang tepat ketika menyentuh batas putih lingkaran hit. letusan skor akan muncul setelah mengetuk lingkaran hit, menampilkan skor dan merubah kesehatan tergantung pada waktu ketukan. Lingkaran hit akan hilang setelah skor meletus.
+Sebuah lingkaran pendekatan tipis berwarna serupa di luar hit circle yang akan menyusut seiring waktu. Ketuk lingkaran pada titik yang tepat ketika menyentuh batas putih hit circle. letusan skor akan muncul setelah mengetuk hit circle, menampilkan skor dan merubah HP tergantung pada waktu ketukan. hit circle akan hilang setelah skor meletus.
 
 Untuk memahami hit circle, jangan hanya mengandalkan persepsi; rasakan ketukan dan ritme beatmap. Ini akan membantu dalam menyelesaikan beberapa pola lingkaran visual yang lebih kompleks yang ditemukan dalam tantangan selanjutnya.
 
@@ -72,7 +72,7 @@ Terkadang, seperti yang terlihat pada gambar di atas, bola bisa berbalik arah da
 
 ![Spinner](/wiki/shared/osu_spinner.jpg "osu! spinners")
 
-Tahan tombol mouse / keyboard (atau simpan pena di atas tablet). Dari sana, gunakan mouse (atau pena) dan putar *spinner* dengan gerakan melingkar (ke salah satu arah) sampai lingkaran *spinner* benar-benar keluar. Peringatan *Clear* akan muncul untuk menunjukkan bahwa *spinner* telah selesai. Jika *spinner* dihapus lebih awal, lanjutkan berputar untuk mengumpulkan bonus skor dan mengisi kembali bar kesehatan.
+Tahan tombol mouse / keyboard (atau simpan pena di atas tablet). Dari sana, gunakan mouse (atau pena) dan putar *spinner* dengan gerakan melingkar (ke salah satu arah) sampai lingkaran *spinner* benar-benar keluar. Peringatan *Clear* akan muncul untuk menunjukkan bahwa *spinner* telah selesai. Jika *spinner* dihapus lebih awal, lanjutkan berputar untuk mengumpulkan bonus skor dan mengisi kembali bilah HP.
 
 Lingkaran putih luar menunjukkan berapa banyak waktu yang tersisa untuk menyelesaikan *spinner*. Lingkaran ini akan berubah menjadi merah untuk memberitahukan bahwa waktu hampir habis. Beatmap lama, menggunakan *skin versi 1.0*, memiliki fungsi pengukur untuk menunjukkan seberapa dekat untuk menyelesaikan *spinner*.
 
@@ -145,7 +145,7 @@ Skor yang diberikan oleh setiap hit circle dan ujung slider dihitung dengan rumu
 
 | Istilah | Penjelasan |
 | :-: | :-- |
-| **Nilai Hit** | Skor hit lingkaran (50, 100 atau 300), slider tick dan bonus *spinner* |
+| **Nilai Hit** | Skor hit circle (50, 100 atau 300), slider tick dan bonus *spinner* |
 | **Pengganda kombo** | (Kombo sebelum hit ini - 1) atau 0; manapun yang lebih tinggi |
 | **Pengganda kesulitan** | Pengaturan kesulitan untuk beatmap (lihat tajuk berikutnya) |
 | **Pengganda mod** | Pengganda dari mod yang dipilih |
@@ -176,10 +176,10 @@ Perhatikan bahwa pengubah game (seperti Hard Rock / Easy) tidak akan mengubah **
 
 ### Penilaian hit objek
 
-**Lingkaran hit:**
+**Hit circle:**
 
-- Skor 300, 100 atau 50 diberikan dari lingkaran hit normal tergantung pada seberapa akurat pemain mengetuknya.
-- Sebuah miss diberikan jika pemain tidak mengklik sama sekali pada lingkaran hit atau mengkliknya terlalu awal.
+- Skor 300, 100 atau 50 diberikan dari hit circle normal tergantung pada seberapa akurat pemain mengetuknya.
+- Sebuah miss diberikan jika pemain tidak mengklik sama sekali pada hit circle atau mengkliknya terlalu awal.
 
 **Slider:**
 
@@ -209,7 +209,7 @@ Perhatikan bahwa pengubah game (seperti Hard Rock / Easy) tidak akan mengubah **
 
 **Berikut ini akan mengatur ulang pengganda skor menjadi nol:**
 
-- Miss pada lingkaran hit.
+- Miss pada hit circle.
 - Mengetuk slider terlalu awal.
 - Miss pada slider awal atau slider tick
 - Gagal memperluas lingkaran spinner ke ukuran yang memuaskan.
@@ -220,28 +220,28 @@ Perhatikan bahwa pengubah game (seperti Hard Rock / Easy) tidak akan mengubah **
 - Miss pada ujung slider (akan menghasilkan Katu atau 100/50 hit)
 - Spinner: 1,000 Bonus poin
 
-## Bar kesehatan
+## Bilah HP
 
-Bar kesehatan adalah sistem yang digunakan untung menghitung *health drain* dan *health gain*, penjelasannya cukup rumit sehingga tidak akan dijelaskan secara detail. Semuanya berputar di sekitar pengaturan kesulitan HP yang hanya dapat diatur oleh pembuat map itu sendiri
+bilah HP adalah sistem yang digunakan untung menghitung *health drain* dan *health gain*, penjelasannya cukup rumit sehingga tidak akan dijelaskan secara detail. Semuanya berputar di sekitar pengaturan kesulitan HP yang hanya dapat diatur oleh pembuat map itu sendiri
 
-**Berikut ini hal akan menghasilkan pemulihan kesehatan pada bar:**
+**Berikut ini hal akan menghasilkan pemulihan HP pada bilah:**
 
-- Ketukan yang berhasil pada lingkaran hit (penilaian yang lebih baik menghasilkan lebih banyak kesehatan; lingkaran hit terakhir dalam kombinasi warna memberikan lebih banyak kesehatan).
+- Ketukan yang berhasil pada hit circle (penilaian yang lebih baik menghasilkan lebih banyak HP; hit circle terakhir dalam kombinasi warna memberikan lebih banyak HP).
 - Ketukan yang berhasil pada awal slider.
 - Bola slider yang berhasil mengumpulkan slider tick.
-- Bola penggeser yang berhasil menyentuh ujung atau panah balik dari slider (penilaian yang lebih baik di titik akhir akan menghasilkan lebih banyak kesehatan).
-- Menyelesaikan spinner dan spinner berkelanjutan dalam durasi spinner (penilaian yang lebih baik di akhir spinner menghasilkan lebih banyak perolehan kesehatan).
+- Bola penggeser yang berhasil menyentuh ujung atau panah balik dari slider (penilaian yang lebih baik di titik akhir akan menghasilkan lebih banyak HP).
+- Menyelesaikan spinner dan spinner berkelanjutan dalam durasi spinner (penilaian yang lebih baik di akhir spinner menghasilkan lebih banyak perolehan HP).
 
-**Berikut ini hal yang akan mengakibatkan hilangnya kesehatan pada bar**
+**Berikut ini hal yang akan mengakibatkan hilangnya HP pada bilah**
 
-- Pengurasan kesehatan konstan / *health drain*
+- Pengurasan HP konstan / *health drain*
 - Sebuah miss.
-- Miss pada lingkaran hit
+- Miss pada hit circle
 - Mengetuk slider terlalu awal
 - Miss pada slider tick atau panah slider
 - Gagal menyelesaikan spinner untuk mendapatkan nilai 50.
 
-**Berikut ini hal yang akan menahan kesehatan pada bar**
+**Berikut ini hal yang akan menahan HP pada bilah**
 
 - Waktu istirahat.
 
