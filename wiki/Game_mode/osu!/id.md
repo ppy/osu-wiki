@@ -56,7 +56,7 @@ Angka di kiri bawah adalah penghitung kombo / pengganda skor.
 
 ![Hit circle](/wiki/shared/osu_hitcircles.jpg "osu! hit circle")
 
-Sebuah lingkaran pendekatan tipis berwarna serupa di luar hit circle yang akan menyusut seiring waktu. Ketuk lingkaran pada titik yang tepat ketika menyentuh batas putih hit circle. letusan skor akan muncul setelah mengetuk hit circle, menampilkan skor dan merubah HP tergantung pada waktu ketukan. hit circle akan hilang setelah skor meletus.
+Sebuah lingkaran tipis berwarna serupa di luar hit circle yang akan menyusut seiring waktu. Ketuk lingkaran pada titik yang tepat ketika menyentuh batas putih hit circle. letusan skor akan muncul setelah mengetuk hit circle, menampilkan skor dan merubah HP tergantung pada waktu ketukan. hit circle akan hilang setelah skor meletus.
 
 Untuk memahami hit circle, jangan hanya mengandalkan persepsi; rasakan ketukan dan ritme beatmap. Ini akan membantu dalam menyelesaikan beberapa pola lingkaran visual yang lebih kompleks yang ditemukan dalam tantangan selanjutnya.
 
