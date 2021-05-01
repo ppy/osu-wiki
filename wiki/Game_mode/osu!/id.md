@@ -4,7 +4,7 @@
 
 *Untuk kegunaan lain, lihat [osu! (disambiguasi)](/wiki/Disambiguasi/osu!).*
 
-![Gameplay dari osu!](/wiki/shared/osu-gameplay.jpg "osu! Interface")
+![Tampilan permainan osu!](/wiki/shared/osu-gameplay.jpg "Antarmuka osu!")
 
 Mode permainan pertama yang namanya didasarkan dari seri ouendan.
 
