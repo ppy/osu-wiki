@@ -6,7 +6,7 @@ date: 2021-05-01 00:00:00 +0000
 
 osu! World Cup 2021 may be over 5 months away, but already we are looking to prepare and plan ahead. For anyone who is interested in helping out behind the scenes -- read on to find out more!
 
-![](/wiki/shared/news/banners/OWC_2020_banner.jpg)
+![](/wiki/shared/news/banners/OWC_Master_Logo.png)
 
 Similar to last year we have multiple open positions for people to apply to. A few forms have been updated and revised, namely the Mappool Selector and the Mapper Application forms!
 
