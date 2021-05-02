@@ -15,7 +15,8 @@ macOS 版本的 osu! 可能會有一些畫面上的 bug 及效能問題。遊戲
    1. 將 `osu!.app` 移到桌面。
    2. 開啟終端機，貼上這段指令 `xattr -c 'Desktop/osu!.app'`，然後按下 `Return`。
 3. 打開 `osu!.app`。
-4. 安裝程式會自動執行。安裝位置就是 `osu!.app` 所在的位置，且無法修改。移動 `osu!.app` 會讓所有檔案跟著一起移動，包括[圖譜](/wiki/Beatmap)及 [Skin](/wiki/Skin)，您可以對其按下滑鼠右鍵並選擇 `Show Package Contents` 來檢視資料夾內的檔案。 
+4. 安裝程式會自動執行。安裝位置就是 `osu!.app` 所在的位置，且無法修改。移動 `osu!.app` 會將所有檔案跟著一起移動，包括[圖譜](/wiki/Beatmap)及[Skin](/wiki/Skin)，您可以對其按下滑鼠右鍵並選擇 `Show Package Contents` 來檢視資料夾內的檔案。
+5. 安裝完成後，osu! 會自動啟動並使用 osu!direct 為您下載一些起始圖譜。
 6. osu! 會提示您登入或註冊。
    - 如果您已經有帳號的話，請登入。
    - 如果您需要註冊，請參見[註冊](/wiki/Registration)。
