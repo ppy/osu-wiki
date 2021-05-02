@@ -145,7 +145,7 @@ Un article d'index doit être créé si le dossier est destiné à contenir uniq
 
 ### Articles de désambiguïsation
 
-Les articles de [désambiguïsation](/wiki/Disambiguation) doit être placé dans le dossier`/wiki/Disambiguation`. La page principale doit être mise à jour pour inclure l'article de désambiguïsation. Voir l'exemple de [Désambiguïsation/Mod](/wiki/Disambiguation/Mod).
+Les articles de [désambiguïsation](/wiki/Disambiguation) doit être placé dans le dossier `/wiki/Disambiguation`. La page principale doit être mise à jour pour inclure l'article de désambiguïsation. Voir l'exemple de [Désambiguïsation/Mod](/wiki/Disambiguation/Mod).
 
 Les redirections doivent être mises à jour pour que le ou les mots clés ambigus soient redirigés vers l'article de désambiguïsation.
 
@@ -203,7 +203,7 @@ Les hatnotes sont de courtes notes placées en haut d'un article ou d'une sectio
 
 Les hatnotes doivent être en italique et être placées immédiatement après le titre. Si plusieurs hatnotes sont utilisées, elles doivent figurer dans le même paragraphe et être séparées par un saut de ligne.
 
-### Main page
+### Page principale
 
 La hatnote *Page principale* dirigent le lecteur vers l'article principal d'un sujet. Lorsque cette hatnote est utilisée, elle implique que la section sur laquelle elle se trouve est un résumé de ce dont traite la page liée. Cette hatnote ne doit comporter qu'un seul lien. Ils doivent être formatés comme suit :
 
