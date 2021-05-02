@@ -19,7 +19,7 @@ The first ever osu! Beatmap Blueprint stickers were added to the [osu!store](htt
 
 [Wii Remote](https://en.wikipedia.org/wiki/Wii_Remote "Wikipedia") support was added for [osu!taiko](/wiki/Game_mode/osu!taiko) on 26 March 2015 [[5]][r]. <!--changelog entry missing-->
 
-On 31 March 2015, [osu!coins](/wiki/osu!coins) were added as a joke in-game currency for osu! as a part of an April Fools' day joke. The coins were made to parody [free-to-play](https://en.wikipedia.org/wiki/Free-to-play "Wikipedia") mobile games' common use of in-game currencies and [microtransactions](https://en.wikipedia.org/wiki/Microtransaction "Wikipedia"). The osu!coins were quickly removed the following day.
+On 31 March 2015, [osu!coins](/wiki/History_of_osu!/April_Fools#osu!coins) were added as a joke in-game currency for osu! as a part of an April Fools' day joke. The coins were made to parody [free-to-play](https://en.wikipedia.org/wiki/Free-to-play "Wikipedia") mobile games' common use of in-game currencies and [microtransactions](https://en.wikipedia.org/wiki/Microtransaction "Wikipedia"). The osu!coins were quickly removed the following day.
 
 ## April
 
