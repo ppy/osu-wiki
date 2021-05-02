@@ -758,7 +758,7 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 
 ## Citations en bloc
 
-Les citations en bloc est limité à la citation du texte d'une personne. Elle ne doit pas être utilisée pour formater le texte autrement.
+Les citations en bloc sont limité à la citation du texte d'une personne. Elle ne doit pas être utilisé pour formater le texte.
 
 ## Ruptures thématiques
 
