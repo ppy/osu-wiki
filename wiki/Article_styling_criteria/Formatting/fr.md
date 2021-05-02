@@ -696,17 +696,15 @@ Toutes les captures d'écran de jeu doivent être faites dans la version stable,
 
 Vous devez définir ces paramètres avant de prendre une capture d'écran du client de jeu (les paramètres non indiqués ci-dessous sont supposés être à leur valeur par défaut) :
 
-- Langue : `English`
-- Préférer les métadonnées dans la langue d'origine : `Enabled`
+- Langue : `Français`
+- Préférer les métadonnées dans la langue d'origine : `Activé`
 - Résolution: `1280x720`
-- Mode plein écran : `Disabled`
-- Parallaxe : `Disabled`
-- Conseils sur les menus : `Disabled`
-- Arrière-plans saisonniers : `Never`
-- Toujours afficher la superposition des touches : `Enabled`
-- Skin actuel : `Default` Première option
-
-*Remarque : Si vous traduisez un article contenant des captures d'écran du jeu, vous pouvez régler la langue du client du jeu sur la langue dans laquelle vous traduisez.*
+- Mode plein écran : `Désactivé`
+- Parallaxe : `Désactivé`
+- Conseils sur les menus : `Désactivé`
+- Arrière-plans saisonniers : `Jamais`
+- Toujours afficher la superposition des touches : `Activé`
+- Skin actuel : `Default` (Première option)
 
 ### Liens d'image
 
