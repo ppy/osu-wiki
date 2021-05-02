@@ -131,7 +131,7 @@ Les noms de dossiers ne doivent utiliser que ces caractères :
 
 - les lettres majuscules et minuscules
 - les nombres
-- les underscore (`_`)
+- les traits de soulignement (`_`)
 - les traits d'union (`-`)
 - les points d'exclamation (`!`)
 
@@ -147,7 +147,7 @@ Un article d'index doit être créé si le dossier est destiné à contenir uniq
 
 Les articles de [désambiguïsation](/wiki/Disambiguation) doit être placé dans le dossier `/wiki/Disambiguation`. La page principale doit être mise à jour pour inclure l'article de désambiguïsation. Voir l'exemple de [Désambiguïsation/Mod](/wiki/Disambiguation/Mod).
 
-Les redirections doivent être mises à jour pour que le ou les mots clés ambigus soient redirigés vers l'article de désambiguïsation.
+Les redirections doivent être mises à jour afin que les mots clés ambigus soient redirigés vers l'article de désambiguïsation.
 
 Les articles liés à partir d'un article de désambiguïsation doivent avoir une hatnote [pour d'autres utilisations](#for-other-uses).
 
@@ -171,7 +171,7 @@ Un bon exemple :
 Les commentaires HTML<!-- TODO explain HTML comments --> devraient être utilisés pour marquer les tâches à faire ou annoter le texte.
 ```
 
-*Note : Ne pas traduire les commentaires, car ces derniers sont destiner à des changements sur la version anglaise, il n'a pas lieu de les traduire.*
+*Note : Ne pas traduire les commentaires, car ces derniers sont destinés à des changements sur la version anglaise, il n'y a pas lieu de les traduire.*
 
 ## Édition
 
@@ -183,7 +183,7 @@ Les fichiers Markdown doivent être enregistrés en utilisant la séquence de fi
 
 ### Espacement
 
-La syntaxe Markdown doit être espacés si nécessaire. Toutefois, les titres des articles sont analysés en tant que texte brut et ne doivent donc pas être espacés.
+La syntaxe Markdown doit être espacée si nécessaire. Toutefois, les titres des articles sont analysés en tant que texte brut et ne doivent donc pas être espacés.
 
 ### Paragraphes
 
@@ -201,11 +201,11 @@ Les sauts de ligne doivent être utilisés avec parcimonie.
 
 Les hatnotes sont de courtes notes placées en haut d'un article ou d'une section pour aider les lecteurs à naviguer vers des articles connexes ou les informer sur des sujets connexes.
 
-Les hatnotes doivent être en italique et être placées immédiatement après le titre. Si plusieurs hatnotes sont utilisées, elles doivent figurer dans le même paragraphe et être séparées par un saut de ligne.
+Les hatnotes doivent être en italique et placées immédiatement après le titre. Si plusieurs hatnotes sont utilisées, elles doivent figurer dans le même paragraphe et être séparées par un saut de ligne.
 
 ### Page principale
 
-La hatnote *Page principale* dirigent le lecteur vers l'article principal d'un sujet. Lorsque cette hatnote est utilisée, elle implique que la section sur laquelle elle se trouve est un résumé de ce dont traite la page liée. Cette hatnote ne doit comporter qu'un seul lien. Ils doivent être formatés comme suit :
+La hatnote *Page principale* dirige le lecteur vers l'article principal d'un sujet. Lorsque cette hatnote est utilisée, elle implique que la section sur laquelle elle se trouve est un résumé de ce dont traite la page liée. Cette hatnote ne doit comporter qu'un seul lien. Ils doivent être formatés comme suit :
 
 ```markdown
 *Page principale : {article}*
@@ -255,7 +255,7 @@ Les hatnotes *Pour d'autres utilisations* sont similaires aux hatnotes *À ne pa
 
 *À ne pas confondre avec [Hatnote](#hatnote).*
 
-Une note doit être placé à l'endroit approprié dans une section, mais doit commencer le paragraphe et utiliser l'italique. Les avis peuvent contenir des caractères gras lorsque cela est approprié, mais doivent être limités au minimum. Les notes doivent être rédigés sous forme de phrases complètes. Ainsi, contrairement à la plupart des [hatnotes](#hatnote), elles doivent utiliser un point (`.`) ou un point d'exclamation (`!`) si nécessaire. Tout ce qui se trouve dans le même paragraphe d'un avis doit également être en italique. Ils doivent être formatés comme suit :
+Une note doit être placée à l'endroit approprié dans une section, mais doit commencer le paragraphe et utiliser l'italique. Les avis peuvent contenir des caractères gras lorsque cela est approprié, mais doivent être limités au minimum. Les notes doivent être rédigées sous forme de phrases complètes. Ainsi, contrairement à la plupart des [hatnotes](#hatnote), elles doivent utiliser un point (`.`) ou un point d'exclamation (`!`) si nécessaire. Tout ce qui se trouve dans le même paragraphe d'un avis doit également être en italique. Ils doivent être formatés comme suit :
 
 ```markdown
 *Note : {note}.*
@@ -267,7 +267,7 @@ Une note doit être placé à l'endroit approprié dans une section, mais doit c
 *Avertissement : {avertissement}.*
 ```
 
-- `Note` doit être utilisé pour les détails factuels ou triviaux.
+- `Note` doit être utilisé pour les détails factuels ou anecdotiques.
 - `Remarque` doit être utilisé pour des rappels ou pour attirer l'attention sur quelque chose dont le lecteur doit être informé.
 - `Attention` doit être utilisé pour avertir le lecteur afin d'éviter des conséquences involontaires.
 - `Avertissement` doit être utilisé pour avertir le lecteur que des mesures peuvent être prises à son encontre.
@@ -288,15 +288,15 @@ Les noms des œuvres ou des jeux vidéo doivent être en italique. osu! (le jeu)
 
 La première occurrence d'une abréviation, d'un acronyme ou d'un sigle peut être mise en italique.
 
-L'italique peut également être utilisé pour mettre l'accent ou faciliter la lecture.
+L'italique peut également être utilisée pour mettre l'accent ou faciliter la lecture.
 
 ## Rubriques
 
 Toutes les rubriques doivent respecter la casse.
 
-Les rubriques doivent utiliser le style [ATX (dièse)](https://github.github.com/gfm/#atx-headings "GitHub") et doivent être précédés et suivis d'une ligne vide. Le titre est une exception lorsqu'il se trouve sur la première ligne. Dans ce cas, il suffit de laisser une ligne vide après le titre.
+Les rubriques doivent utiliser le style [ATX (dièse)](https://github.github.com/gfm/#atx-headings "GitHub") et doivent être précédées et suivies d'une ligne vide. Le titre est une exception lorsqu'il se trouve sur la première ligne. Dans ce cas, il suffit de laisser une ligne vide après le titre.
 
-Les rubriques ne doivent pas dépasser un niveau d'en-tête de 5 et ne doivent pas être utilisés pour styliser ou formater le texte.
+Les rubriques ne doivent pas dépasser un niveau d'en-tête de 5 et ne doivent pas être utilisées pour styliser ou formater le texte.
 
 ### Titres
 
@@ -306,7 +306,7 @@ Les rubriques ne doivent pas dépasser un niveau d'en-tête de 5 et ne doivent p
 
 Le premier titre de tous les articles doit être un titre de niveau 1, c'est-à-dire le titre de l'article. Tous les titres suivants doivent être des [titres de section](#sections). Les titres ne doivent pas contenir de formatage, de liens ou d'images.
 
-L'intitulé du titre doit figurer sur la première ligne, sauf si la [page de garde](#page-de-garde) est utilisé. Si c'est le cas, l'intitulé du titre doit être placé à la suite de celui-ci et une ligne vide doit précéder l'intitulé du titre.
+L'intitulé du titre doit figurer sur la première ligne, sauf si la [page de garde](#page-de-garde) est utilisée. Si c'est le cas, l'intitulé du titre doit être placé à la suite de celui-ci et une ligne vide doit précéder l'intitulé du titre.
 
 ### Sections
 
@@ -679,7 +679,7 @@ Il faut éviter d'annoter les images, car il est difficile pour les traducteurs 
 
 #### Traduire des images annotées
 
-Lors de la traduction d'images annotées, la version localisée de l'image doit être placée dans le même répertoire que la version originale (c'est-à-dire la version anglaise). Le nom de fichier d'une version localisée de l'image doit commencer par le nom de la version originale, suivi d'un tiret, puis du nom locale (en lettres majuscules). Voir les exemples suivants :
+Lors de la traduction d'images annotées, la version localisée de l'image doit être placée dans le même répertoire que la version originale (c'est-à-dire la version anglaise). Le nom de fichier d'une version localisée de l'image doit commencer par le nom de la version originale, suivi d'un tiret, puis du nom local (en lettres majuscules). Voir les exemples suivants :
 
 - `hardrock-mod-vs-easy-mod.jpg` pour les Anglais
 - `hardrock-mod-vs-easy-mod-DE.jpg` pour les Allemands
