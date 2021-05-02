@@ -61,6 +61,7 @@ The osu! Beatmapping World Championship is run by various community members.
 - [Twitter](https://twitter.com/osubwc)
 - [Livestream](https://www.twitch.tv/osubwc)
 - [Official website](https://obwc.net/)
+- [Official documentation](https://gist.github.com/zeusminus/5b7cac0cbd6bcec422776dac5085f25f)
 
 ## Ruleset
 
