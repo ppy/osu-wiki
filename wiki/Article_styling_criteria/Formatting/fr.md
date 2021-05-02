@@ -8,7 +8,7 @@
 
 Vous trouverez ci-dessous la liste des langues correctement supportées pour le wiki :
 
-| Nom du fichier | Nom en local | Écriture native |
+| Nom du fichier | Nom en Français | Écriture native |
 | :-- | :-- | :-- |
 | `en.md` | Anglais | English |
 | `ar.md` | Arabe | اَلْعَرَبِيَّةُ |
@@ -46,7 +46,7 @@ Vous trouverez ci-dessous la liste des langues correctement supportées pour le 
 
 ### Parité de contenu
 
-Les traductions sont soumises à une stricte parité de contenu avec leur article anglais, en ce sens qu'elles doivent avoir le même message, indépendamment de la grammaire et de la syntaxe. Toute modification du sens des traductions doit être accompagnée de modifications équivalentes de l'article anglais.
+Les traductions sont soumises à une stricte parité de contenu avec leur article anglais, ce qui signifie qu'elles doivent avoir le même message, indépendamment de la grammaire et de la syntaxe. Toute modification du sens des traductions doit être accompagnée de modifications équivalentes de l'article anglais.
 
 Dans certains cas, il est permis de différer le contenu :
 
@@ -749,13 +749,13 @@ La ligne de délimitation (la ligne suivante après le titre du tableau) ne doit
 Voici un exemple de ce à quoi doit ressembler un tableau :
 
 ```markdown
-| Team "Picturesque" Red | Score | Team "Statuesque" Blue | Average Beatmap Stars |
+| Équipe rouge "Picturesque" | Score | Équipe bleue "Statuesque" | Moyenne des étoiles de la beatmap |
 | :-- | :-: | --: | :-- |
 | **peppy** | 5 - 2 | pippi | 9.3 stars |
 | Aiko | 1 - 6 | **Alisa** | 4.2 stars |
 | Ryūta | 3 - 4 | **Yuzu** | 5.1 stars |
 | **Taikonator** | 7 - 0 | Tama | 13.37 stars |
-| Maria | No Contest | Mocha |  |
+| Maria | Pas de concours | Mocha |  |
 ```
 
 ## Citations en bloc
