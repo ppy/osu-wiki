@@ -10,7 +10,9 @@ Attention to all mappers! osu! Beatmapping World Championship 2021 is on the hor
 
 People say the third time is the charm, and here we are announcing the third iteration of osu! Beatmapping World Championship. We've got to make this one count, everyone!
 
-Having all the judges, participants and guests enjoy the spirit of the contest is the primary goal we've set to achieve. Therefore, we have taken your feedback by heart and applied certain changes to get us closer to this very objective. Without further adieu, let's have a look at what has changed!
+Having all the judges, participants and guests enjoy the spirit of the contest is the primary goal we've set to achieve. Therefore, we have taken your feedback to heart and applied certain changes to get us closer to this very objective. 
+
+Without further ado, let's have a look at what has changed!
 
 ## Team Formation
 
@@ -30,7 +32,9 @@ Each round, teams will be awarded a certain amount of points by the judges evalu
 
 ### Judges
 
-If you recall, we were previously looking for judges, details of which can be found in [this newspost](https://osu.ppy.sh/home/news/2021-04-11-osu-beatmapping-world-championship-2021-call-for-judges). We have received dozens of applicants over the span of a few weeks, and for that, we would like to thank you for your interest! Unfortunately, we have closed the osu! mode judge applications for this edition as of today, so if you're a latecomer, try to make it earlier next year! For multi-mode judges (osu!taiko, osu!catch, and osu!mania), applications are still open! If you're interested, fill out the [application form](https://forms.gle/Yu2M2ZiwhapJYc7K7 "Google Forms") right away!
+If you recall, we were previously looking for judges, details of which can be found in [this newspost](https://osu.ppy.sh/home/news/2021-04-11-osu-beatmapping-world-championship-2021-call-for-judges). We have received dozens of applicants over the span of a few weeks, and for that, we would like to thank you for your interest.
+
+We have closed the osu! mode judge applications for this edition as of today, so if you're a latecomer, try to make it earlier next year. For multi-mode judges (osu!taiko, osu!catch, and osu!mania), applications are still open - if you're interested, fill out the [application form](https://forms.gle/Yu2M2ZiwhapJYc7K7 "Google Forms") right away!
 
 ## Schedule
 
