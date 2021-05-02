@@ -10,29 +10,29 @@ Mode permainan pertama yang namanya didasarkan dari seri ouendan.
 
 ## Apa itu "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* adalah permainan ritme untuk *Nintendo DS*. Alur permainan ini terdiri dari tiga elemen: mengetuk lingkaran pada layar sentuh, menyeret bola melintasi jalur dan memutar *spinner* dengan sangat cepat. Semua elemen ini diatur waktunya oleh (cover dari) lagu-lagu jepang populer, Ini akan terlihat seperti ini di *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* adalah permainan ritme musik untuk *Nintendo DS*. Alur pada permainan ini terdiri dari tiga elemen: mengetuk lingkaran pada layar sentuh, menyeret bola melintasi jalur dan memutar *spinner* dengan sangat cepat. Semua elemen ini diatur waktunya oleh (cover dari) lagu-lagu Jepang populer, Permainan tersebut akan terlihat seperti ini pada sistem *Nintento DS*:
 
 ![Contoh alur permainan dari Osu! Tatakae! Ouendan di Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
 
-Ceritanya bisa dilihat di layar atas, dan lingkarannya bisa dilihat di layar bawah. Setiap tahap pada dasarnya adalah cerita pribadi tentang seseorang yang bermasalah. Di situlah *Ouendan* (Skuad Penyorak) masuk. Dengan kekuatan magis dari pemandu sorak pria, pemain harus membantu orang yang bermasalah.
+Ceritanya bisa dilihat di layar atas, dan lingkarannya bisa dilihat di layar bawah. Setiap level pada dasarnya adalah cerita pribadi tentang seseorang yang bermasalah. Di situlah *Ouendan* (Skuad Penyorak) masuk. Dengan kekuatan magis dari para pemandu sorak pria, pemain harus membantu orang yang mempunyai masalah.
 
 ## ![](/wiki/shared/mode/osu.png) Alur Permainan
 
 *Tutorial: [new beginnings (Sudah termasuk di dalam osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
 
-Alur permainannya menekankan pada:
+Alur permainannya berfokus pada:
 
 - Adaptasi dan reaksi terhadap rangsangan (yaitu, objek yang dapat diketuk muncul di seluruh layar dengan kecepatan kilat).
-- Memahami ketukan lagu dan pola.
+- Memahami irama dan pola lagu.
 - Kontrol perangkat masukan.
-- Waktu klik pada objek yang muncul di layar.
+- Timing untuk mengklik objek yang muncul di layar.
 - Kemampuan untuk memutar mouse (atau pena untuk tablet) pada *spinner*.
-- Stamina fisik dan mental (terutama lagu jenis maraton yang lebih panjang).
+- Stamina fisik dan mental (terutama pada lagu jenis maraton yang durasinya lebih panjang).
 - Penentuan posisi yang tepat dan koordinasi mata-tangan.
 
-Berikut ini adalah beberapa keterampilan penting untuk menjadi *juara di game osu!*.
+Berikut ini adalah beberapa skill yang penting untuk menjadi *juara di game osu!*.
 
-Langkah pertama untuk memulai perjalanan adalah mempelajari dasar-dasar (dan teori) dari objek-objek yang dapat dipukul (disebut sebagai *hit objek* mulai sekarang dan seterusnya).
+Langkah pertama untuk memulai perjalanan kamu adalah dengan mempelajari dasar-dasar (dan teori) dari objek-objek yang dapat dipukul (disebut sebagai *hit object* mulai sekarang dan seterusnya).
 
 ### Pemilihan Lagu
 
@@ -46,7 +46,7 @@ Cara lainnya, klik tombol `Mode` dan pilih` osu! `.
 
 ![antarmuka osu!](/wiki/shared/osu-gameplay.jpg "antarmuka osu!")
 
-Bilah kiri atas adalah bilah HP (health bar), yang akan menurun dengan kecepatan tetap (tergantung pada kesulitan beatmap), tetapi dapat diisi ulang dengan mengetuk nada pada waktu yang tepat atau memutar *spinner*. Pukulan yang tepat waktunya (300 atau Geki) akan memulihkan HP lebih baik daripada pukulan yang tidak tepat waktunya (50). pukulan yang gagal akan menghilangkan sebagian HP dari bilah HP.
+Bilah kiri atas adalah bilah HP (health bar), yang akan menurun dengan kecepatan tetap (tergantung pada kesulitan beatmap), tetapi dapat diisi ulang dengan mengetuk nada pada waktu yang tepat atau memutar *spinner*. Pukulan yang tepat waktunya (300 atau Geki) akan memulihkan HP lebih baik daripada pukulan yang tidak tepat waktunya (50). Pukulan yang gagal akan menghilangkan sebagian HP dari bilah HP.
 
 Di sebelah kanan bilah HP adalah skor total. Dan di bawahnya adalah akurasi. Lingkaran di samping akurasi (dan di bawah skor) adalah penghitung waktu dari durasi sebuah beatmap.
 
@@ -54,35 +54,35 @@ Angka di kiri bawah adalah penghitung kombo / pengganda skor.
 
 #### Hit circle
 
-![Hit circle](/wiki/shared/osu_hitcircles.jpg "osu! hit circle")
+![Hit circle](/wiki/shared/osu_hitcircles.jpg "Hit circle osu!")
 
-Sebuah lingkaran tipis berwarna serupa di luar hit circle yang akan menyusut seiring waktu. Ketuk lingkaran pada titik yang tepat ketika menyentuh batas putih hit circle. letusan skor akan muncul setelah mengetuk hit circle, menampilkan skor dan merubah HP tergantung pada waktu ketukan. hit circle akan hilang setelah skor meletus.
+Sebuah lingkaran tipis berwarna serupa di luar hit circle yang akan menyusut seiring waktu. Klik lingkaran pada waktu yang tepat ketika lingkaran tipis tersebut menyentuh batas putih hit circle. Letusan skor akan muncul setelah mengetuk hit circle, menampilkan skor dan merubah HP tergantung pada waktu ketukan. Hit circle tersebut akan menghilang setelah skor meletus.
 
-Untuk memahami hit circle, jangan hanya mengandalkan persepsi; rasakan ketukan dan ritme beatmap. Ini akan membantu dalam menyelesaikan beberapa pola lingkaran visual yang lebih kompleks yang ditemukan dalam tantangan selanjutnya.
+Untuk memahami hit circle, jangan hanya mengandalkan persepsi; rasakan ketukan dan ritme pada beatmap tersebut. Hal ini akan membantu dalam menyelesaikan beberapa pola lingkaran visual yang lebih kompleks yang ditemukan dalam tingkat kesulitan selanjutnya.
 
 #### Slider
 
-![Slider](/wiki/shared/osu_slider.jpg "osu! sliders")
+![Slider](/wiki/shared/osu_slider.jpg "Slider osu!")
 
-Pertama, ketuk pada saat yang tepat, namun tidak berakhir di situ. Sebuah bola akan mulai bergerak melintasi jalur tersebut. Tahan tombol mouse / keyboard (atau simpan pena di atas tablet) dan ikuti bola di dalam lingkaran oranye tebal, mengelilingi bola, saat bergerak. Lingkaran luar berwarna oranye, yang disebut *follow circle*, akan muncul jika bola slider ditahan, tetapi akan hilang saat dilepaskan.
+Pertama, ketuk pada saat yang tepat, namun, tidak berakhir di situ. Sebuah bola akan mulai bergerak melintasi jalur tersebut. Tahan tombol mouse / keyboard (atau tahan pena di atas tablet) dan ikuti bola yang berada di dalam lingkaran berwarna oranye tebal, mengelilingi bola, seiring bola itu bergerak terus. Lingkaran luar berwarna oranye, yang disebut *follow circle*, akan muncul jika bola slider ditahan, tetapi akan menghilang saat dilepaskan.
 
 Terkadang, seperti yang terlihat pada gambar di atas, bola bisa berbalik arah dan pemain harus mengikuti bola kembali ke awal jalur atau sebaliknya. petunjuk visualnya adalah panah balik di lingkaran akhir / awal jalur.
 
 #### Spinner
 
-![Spinner](/wiki/shared/osu_spinner.jpg "osu! spinners")
+![Spinner](/wiki/shared/osu_spinner.jpg "Spinner osu!")
 
-Tahan tombol mouse / keyboard (atau simpan pena di atas tablet). Dari sana, gunakan mouse (atau pena) dan putar *spinner* dengan gerakan melingkar (ke salah satu arah) sampai lingkaran *spinner* benar-benar keluar. Peringatan *Clear* akan muncul untuk menunjukkan bahwa *spinner* telah selesai. Jika *spinner* dihapus lebih awal, lanjutkan berputar untuk mengumpulkan bonus skor dan mengisi kembali bilah HP.
+Tahan tombol mouse / keyboard (atau tahan pena di atas tablet). Dari situ, gunakan mouse (atau pena) dan putar *spinner* dengan gerakan melingkar (ke salah satu arah) sampai lingkaran *spinner* benar-benar keluar. Sebuah pemberitahuan *Clear* akan muncul untuk menunjukkan bahwa *spinner* telah diselesaikan. Jika *spinner* dihapus lebih awal, lanjutkankanlah berputar untuk mengumpulkan bonus skor dan mengisi kembali bilah HP.
 
 Lingkaran putih luar menunjukkan berapa banyak waktu yang tersisa untuk menyelesaikan *spinner*. Lingkaran ini akan berubah menjadi merah untuk memberitahukan bahwa waktu hampir habis. Beatmap lama, menggunakan *skin versi 1.0*, memiliki fungsi pengukur untuk menunjukkan seberapa dekat untuk menyelesaikan *spinner*.
 
-Kotak kecil di bawah *spinner* menunjukkan putaran per menit. Angka di dalam kotak itu diterjemahkan menjadi jumlah putaran yang memungkinkan, jika untuk terus memutar *spinner* dengan kecepatan tersebut selama satu menit. Jika tombol mouse / keyboard dilepaskan (atau pena tidak menyentuh tablet) selama putaran, *spinner* akan berhenti membaca putaran.
+Kotak kecil di bawah *spinner* menunjukkan putaran per menit. Angka di dalam kotak itu diterjemahkan menjadi jumlah putaran yang memungkinkan, jika untuk terus memutar *spinner* dengan kecepatan tersebut selama satu menit. Jika tombol mouse / keyboard dilepaskan (atau pena tidak menyentuh tablet) selama putaran, *spinner* akan berhenti membaca putaran tersebut.
 
-Di *DS*, ini adalah cara yang baik untuk menggores layar sentuh (atau pelindung layar), terutama pada tingkat kesulitan yang lebih tinggi. Di osu !, *spinner* telah diperkecil agar tidak terlalu merepotkan untuk diselesaikan. Jumlah maksimum putaran per menit yang dapat dicapai adalah 477 yang juga merupakan tingkat di mana mod [Auto](/wiki/Game_modifier/Auto) berputar sementara mod [Spun Out](/wiki/Game_modifier/Spun_Out) berputar lebih lambat pada 287 putaran per menit.
+Pada *DS*, ini adalah cara yang bisa mengakibatkan goresan pada layar sentuh (atau pelindung layar), terutama pada tingkat kesulitan yang lebih tinggi. Di osu!, *spinner* telah dipermudah agar tidak terlalu merepotkan untuk diselesaikan. Jumlah maksimum putaran per menit yang dapat dicapai adalah 477 yang juga merupakan tingkat di mana mod [Auto](/wiki/Game_modifier/Auto) berputar sementara mod [Spun Out](/wiki/Game_modifier/Spun_Out) berputar lebih lambat pada 287 putaran per menit.
 
 ## Gaya Bermain
 
-*Mengacu kepada [Halaman gaya bermain di osu!](/wiki/Play_Styles).*
+*Merujuk pada [Halaman gaya bermain di osu!](/wiki/Play_Styles).*
 
 ## Kontrol
 
@@ -92,11 +92,11 @@ Kontrol default untuk osu! adalah:
 | :-- | :-- | :-- |
 | Klik kiri(M1) / Klik kanan(M2) | `Z`(K1) / `X`(K2) | Sentuhan layar(M1) |
 
-Objek hit di osu! akan menerima masukan apa pun dari perangkat masukan, selama setiap objek yang terkena diketuk tepat waktu.
+Hit object di osu! akan menerima masukan apa pun dari perangkat masukan, selama setiap hit object diketuk tepat pada waktunya.
 
 Jika mod [Relax](/wiki/Game_modifier/Relax) digunakan, hanya kursor dalam game yang akan bekerja. Gunakan kursor dalam game untuk mengikuti objek yang terkena dengan ketukan otomatis. *Spinner* masih harus diselesaikan.
 
-Jika mod [Auto Pilot](/wiki/Game_modifier/Autopilot) digunakan, hanya input dari perangkat input yang akan bekerja. Atur waktu ketukan pada objek yang terkena dengan gerakan kursor otomatis. *Spinner* akan mengikuti kecepatan mod [Spun Out](/wiki/Game_modifier/Spun_Out).
+Jika mod [Auto Pilot](/wiki/Game_modifier/Autopilot) digunakan, hanya input dari perangkat input yang akan bekerja. Aturlah timing kamu pada hit object yang terkena dengan gerakan kursor otomatis. *Spinner* akan mengikuti kecepatan mod [Spun Out](/wiki/Game_modifier/Spun_Out).
 
 ## Penilaian
 
@@ -174,7 +174,7 @@ Biasanya CS tidak bisa di bawah 2 atau di atas 7 (diperlukan modifikasi langsung
 
 Perhatikan bahwa pengubah game (seperti Hard Rock / Easy) tidak akan mengubah **Pengganda kesulitan**. Ini hanya akan menjelaskan nilai asli saja.
 
-### Penilaian hit objek
+### Penilaian hit object
 
 **Hit circle:**
 
@@ -201,7 +201,7 @@ Perhatikan bahwa pengubah game (seperti Hard Rock / Easy) tidak akan mengubah **
 
 **Masing-masing berikut akan menambahkan satu poin ke pengganda skor/kombo:**
 
-- Ketukan yang tepat pada lingkaran sasaran.
+- Ketukan yang tepat pada hit circle.
 - Ketukan yang berhasil di awal slider.
 - Bola slider berhasil mengumpulkan slider tick.
 - Bola slider berhasil menyentuh ujung atau panah mundur pada slider.
@@ -229,45 +229,45 @@ bilah HP adalah sistem yang digunakan untung menghitung *health drain* dan *heal
 - Ketukan yang berhasil pada hit circle (penilaian yang lebih baik menghasilkan lebih banyak HP; hit circle terakhir dalam kombinasi warna memberikan lebih banyak HP).
 - Ketukan yang berhasil pada awal slider.
 - Bola slider yang berhasil mengumpulkan slider tick.
-- Bola penggeser yang berhasil menyentuh ujung atau panah balik dari slider (penilaian yang lebih baik di titik akhir akan menghasilkan lebih banyak HP).
-- Menyelesaikan spinner dan spinner berkelanjutan dalam durasi spinner (penilaian yang lebih baik di akhir spinner menghasilkan lebih banyak perolehan HP).
+- Bola slider yang berhasil menyentuh ujung atau panah balik dari slider (penilaian yang lebih baik di titik akhir akan menghasilkan lebih banyak HP).
+- Menyelesaikan spinner dan tetap memutar spinner dalam durasi spinner (penilaian yang lebih baik di akhir spinner menghasilkan lebih banyak perolehan HP).
 
-**Berikut ini hal yang akan mengakibatkan hilangnya HP pada bilah**
+**Berikut ini adalah hal-hal yang akan menguras HP**
 
 - Pengurasan HP konstan / *health drain*
 - Sebuah miss.
-- Miss pada hit circle
-- Mengetuk slider terlalu awal
-- Miss pada slider tick atau panah slider
-- Gagal menyelesaikan spinner untuk mendapatkan nilai 50.
+- Miss pada hit circle.
+- Mengetuk slider terlalu awal.
+- Miss pada slider tick atau slider reverse arrow.
+- Gagal dalam menyelesaikan sebuah spinner untuk mendapatkan setidaknya nilai 50.
 
-**Berikut ini hal yang akan menahan HP pada bilah**
+**Berikut ini adalah hal yang akan menahan HP pada bilah HP**
 
 - Waktu istirahat.
 
 ## Skinning
 
-*Mengacu kepada [Halaman skinning di osu!](/wiki/Skinning/osu!) untuk informasi lebih lengkap.*
+*Kunjungi [Halaman skinning osu!](/wiki/Skinning/osu!) untuk informasi yang lebih lanjut.*
 
 ## Beatmapping
 
-*Mengacu kepada [Halaman beatmapping](/wiki/Beatmapping) untuk informasi lebih lengkap.*
+*Kunjungi [Halaman beatmapping](/wiki/Beatmapping) untuk informasi yang lebih lanjut.*
 
 ## Trivia
 
 ### Gameplay
 
-![efek asap pada osu!](/wiki/shared/osu_smoke.jpg "Penggunaan asap")
+![Efek asap pada osu!](/wiki/shared/osu_smoke.jpg "Penggunaan asap")
 
-![pengaturan efek asap pada osu!](/wiki/shared/osu_smoke_set.jpg "Kunci binding untuk efek asap")
+![Pengaturan efek asap pada osu!](/wiki/shared/osu_smoke_set.jpg "Tombol binding untuk efek asap")
 
-- Bergantung pada pengaturan kesulitan dan toleransi waktu, mengetuk hit objek *terlalu awal* akan menggetarkan objek yang terkena pukulan.
+- Tergantung pada pengaturan kesulitan dan toleransi waktu, mengetuk hit objek *terlalu awal* akan menggetarkan objek yang terkena pukulan.
 - Melepaskan bola slider di jalur kosong tanpa slider tick yang tersembunyi atau terlihat tidak menghilangkan kombo atau skor apa pun yang diberikan. Penilaian slider hanya memeriksa apakah lingkaran awal diklik, slider tick dikumpulkan, dan lingkaran akhir berhasil diselesaikan atau tidak.
-- Mengubah arah putaran di tengah putaran akan menyebabkan putaran lambat (putaran per menit akan turun ke 0 untuk menyetel ulang orientasi putaran), kemudian berputar ke arah yang benar. Kemajuan putaran tidak akan hilang selama reorientasi (sebaliknya tidak akan meningkat), dan akan terus meningkat pada putaran mundur.
+- Mengubah arah putaran di tengah putaran akan menyebabkan spinner melambat (putaran per menit akan turun ke 0 untuk menyetel ulang orientasi putaran), kemudian berputar ke arah yang benar. Kemajuan putaran tidak akan hilang selama reorientasi (sebaliknya tidak akan meningkat), dan akan terus meningkat pada putaran mundur.
 - Tidak berputar di sekitar inti tengah dari spinner **tidak** akan dianggap sebagai putaran yang valid.
-- Asap bertahan lebih lama dari jejak kursor dalam game default. Terapkan efek asap secara jarang untuk mencegah efek asap lama menghilang terlalu cepat.
+- Efek asap bertahan lebih lama daripada jejak kursor dalam game default. Terapkan efek asap sesekali untuk mencegah efek asap sebelumnya menghilang terlalu cepat.
 - Maskot untuk osu! adalah [pippi](/wiki/Mascots#-pippi).
-- Saat dimainkan [Auto](/wiki/Game_modifier/Auto), nama pemain akan ditampilkan sebagai osu!.
+- Saat dimainkan dengan mod [Auto](/wiki/Game_modifier/Auto), nama pemain akan ditampilkan sebagai osu!.
 
 ### Sejarah
 
@@ -275,9 +275,9 @@ bilah HP adalah sistem yang digunakan untung menghitung *health drain* dan *heal
 
 - Versi lama osu! digunakan untuk meniru beberapa elemen dari deret *ouendan* sebelum dihapus atau diganti.
   - Kombo api saat mencapai kombo baru.
-    - Dihapus pada 05 Maret 2013, karena masalah kinerja.
+    - Dihapus pada 05 Maret 2013, karena terdapat masalah kinerja.
   - Versi pertama dari skin default yang menggunakan perilaku skin v1, yang merupakan *osu! Default* skin *oleh peppy*, menyediakan salinan antarmuka *ouendan* yang hampir identik.
-    - Itu diganti dengan skin default yang lebih bagus saat ini menggunakan skin v2.
+    - Skin tersebut diganti dengan skin default yang lebih bagus terkini yang menggunakan perilaku skin v2.
   - Perbedaan fitur yang paling mencolok antara perilaku skin v1 dan v2 adalah spinner.
     - Perilaku skin v1 untuk bagian spinner akan menaikkan pengukur spinner dari bawah ke atas dalam level hingga penuh sesuai seri *ouendan*.
       - Pengatur waktu adalah lingkaran di dalam spinner yang akan menyatu dengan inti tengah spinner. Spinner berakhir saat lingkaran pengatur waktu mencapai inti tengah dari spinner.
