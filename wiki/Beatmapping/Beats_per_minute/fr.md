@@ -19,6 +19,6 @@ La plupart des chansons modernes utilisent un seul BPM, ce qui nécessite un seu
 
 ## Gameplay
 
-Le BPM influence également des éléments de gameplay comme la [vitesse du slider](/wiki/Hit_Objects#slider-speed) dans le mode [osu!standard](/wiki/Game_mode/osu!), et la vitesse de défilement dans le mode [osu!mania](/wiki/Game_mode/osu!mania).
+Le BPM influence également des éléments de gameplay comme la [vitesse du slider](/wiki/Hit_Objects#slider-speed) dans le mode [osu!](/wiki/Game_mode/osu!), et la vitesse de défilement dans le mode [osu!mania](/wiki/Game_mode/osu!mania).
 
 <!-- TODO: Insert links -->
