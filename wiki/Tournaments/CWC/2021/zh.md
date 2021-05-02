@@ -33,7 +33,7 @@ tags:
 
 ## 工作人员
 
-osu!catch 2021 世界杯由 osu! team 和多位社区成员举办。
+osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区成员举办。
 
 | 职位 | 成员 |
 | :-- | :-- |
@@ -183,7 +183,7 @@ osu!catch 2021 世界杯由 osu! team 和多位社区成员举办。
 2. 分数计算基于 Score V2。
 3. 每轮比赛的图池将由图池管理在实际比赛开始之前的周日公布。选手在比赛过程中只能选择其中的谱面。
    - 图池包含 [Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time) 以及 NoMod
-    - 一张谱面会被选为 Tiebreaker(TB)，TB 仅能在加时赛中被强制选择。
+   - 一张谱面会被选为 Tiebreaker(TB)，TB 仅能在加时赛中被强制选择。
 4. 时间表将由比赛管理部门确定（请参见[排程说明](#排程说明)）
 5. 如果没有空闲的工作人员或裁判，比赛将被推迟。
 6. 允许使用视觉设置来调整背景暗化或禁用谱面背景。
@@ -202,12 +202,13 @@ osu!catch 2021 世界杯由 osu! team 和多位社区成员举办。
 18. 小组赛中，“不战而胜”（*Win by default*）视为 5:0，得 1 分。
 19. 意外事件由比赛管理人员处理。特定情况下，裁判可以根据自己的判断放宽限制。
 20. 违反比赛规则的处罚包括但不限于：
-    - 取消当前谱面的上场资格。
-    - 取消本场比赛的上场资格。
-    - 判负（Lost by Default）。
-    - 取消整个锦标赛的参赛资格。
-    - 处以禁赛直到选手提出上诉。
-    - 对以上规则进行任何修改。
+
+   - 取消当前谱面的上场资格。
+   - 取消本场比赛的上场资格。
+   - 判负（Lost by Default）。
+   - 取消整个锦标赛的参赛资格。
+   - 处以禁赛直到选手提出上诉。
+   - 将公示对以上规则进行的任何修改。
 
 ### 比赛报名
 
@@ -280,7 +281,7 @@ osu!catch 2021 世界杯由 osu! team 和多位社区成员举办。
 3. 小组赛图池为 14 张，十六强赛和四分之一决赛图池为 15 张，半决赛和决赛图池为 16 张。
 4. 每个图池都包含一张 TB（Tiebreaker）。
 5. **NoFail 会被强制开启**
-6. NoMod 图池不能使用任何 Mod。
+6. NoMod 图池不能使用任何 Mod。（除了NoFail）
 7. Hidden，HardRock 和 DoubleTime 则要求选手使用图池的对应 Mod。
    - 在 HardRock 和 DoubleTime 图池中，Hidden 为可选项。
 8. TB 可用 Hidden。
