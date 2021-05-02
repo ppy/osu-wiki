@@ -1,5 +1,4 @@
 ---
-outdated: false
 tags:
   - bot accounts
   - chat bot
@@ -12,11 +11,11 @@ tags:
 
 Un **compte bot** est un type spécial de compte osu! appartenant à un service automatisé et non à une personne. Sur le site web, ils ont un badge de groupe blanc intitulé `BOT`, et seulement la section `moi!` de leur profil est visible. Les comptes bots sont principalement utilisés pour héberger des "tchat bots" qui offrent des fonctionnalités variées dans les salons [multijoueur](/wiki/fr/Multi) ou encore dans les messages privés.
 
-Les comptes bot ne peuvent être crées que via [un formulaire d'inscription](#créer-un-compte-bot). Essayer de créer un compte bot en s'inscrivant est considéré comme du multi compte, qui revient à être à l'encontre des [règles de la communauté](/wiki/fr/Rules#règles-de-communauté).
+Les comptes bot ne peuvent être créés que via [un formulaire d'inscription](#créer-un-compte-bot). Essayer de créer un compte bot en s'inscrivant est considéré comme du multi-compte, ce qui est à l'encontre des [règles de la communauté](/wiki/fr/Rules#règles-de-communauté).
 
 ## Avantages des comptes bot  
 
-La différence principale entre les comptes personnels et les comptes bot ce situe dans la limite de messages qu'ils peuvent envoyer dans le [tchat](/wiki/fr/Chat_Console). Les comptes bot ont de plus grandes limites pour permettre à leurs services d'interagir avec plusieurs utilisateurs en même temps sans risques de voir leurs compte [réduit au silence](/wiki/fr/Glossary#silence) :
+La différence principale entre les comptes personnels et les comptes bot se situe dans la limite de messages qu'ils peuvent envoyer dans le [tchat](/wiki/fr/Chat_Console). Les comptes bot ont de plus grandes limites pour permettre à leurs services d'interagir avec plusieurs utilisateurs en même temps sans risques de voir leur compte [réduit au silence](/wiki/fr/Glossary#silence) :
 
 - Les comptes personnels peuvent envoyer 10 messages toutes les 5 secondes
 - Les comptes bot peuvent envoyer 300 messages toutes les 60 secondes
@@ -29,24 +28,24 @@ Si vous cherchez à créer un bot, commencez par l'héberger sur votre propre co
 
 ### Critères minimum
 
-Avant d'envoyer une requête, le support à besoin que le bot remplisse les critères suivants :
+Avant d'envoyer une requête, le support a besoin que le bot remplisse les critères suivants :
 
 - Le bot fonctionne sur votre compte depuis au moins 6 mois
 - Le bot est complètement open-source et a une documentation complète et publique
 - Le bot est utilisé par au moins 50 utilisateurs chaque mois
 - Le bot respecte les limitations de comptes personnels
-- Le bot n'envoie aucun messages dans les salons publics
+- Le bot n'envoie aucun message dans les salons publics
 - Le bot est utile et a une grande audience dans la communauté osu!
 
 ### Remplir une requête
 
 Si votre bot remplit les critères ci-dessus, vous pouvez remplir une requête pour créer un compte bot.
 
-Envoyez un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) avec le sujet `Bot Account Request`. Ce mail doit être envoyé avec le mail lié à vôtre compte osu!.
+Envoyez un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) avec le sujet `Bot Account Request`. Ce mail doit être envoyé avec le mail lié à votre compte osu!.
 
-Le contenu du mail doit contenir :
+Le mail doit contenir :
 
-- Votre pseudo osu! (celui ou le bot est hébergé)
+- Votre pseudo osu! (celui sur lequel le bot est hébergé)
 - Le pseudo que vous voulez donner au compte bot
 - La date depuis laquelle le bot est hébergé
 - Un lien vers le code source et la documentation
@@ -59,7 +58,7 @@ L'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) e
 ## Le saviez-vous ?
 
 - Le badge `BOT` est affiché sur les comptes avec un groupe principal de `Chat Bots` (groupe #29). La liste des membres du groupe n'est pas publique.
-- Quelques comptes personnels sont dans le groupe des bots de tchat car les propriétaires de ceux-ci ne souhaitaient pas ou n'avais pas demandé à avoir un compte bot séparé pour leur service, par exemple ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) et ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Cette fonction n'est plus proposée, et tous les nouveaux bots rejoignant le groupe auront un compte bot séparé.
+- Quelques comptes personnels sont dans le groupe des bots de tchat car les propriétaires de ceux-ci ne souhaitaient pas ou n'avaient pas demandé à avoir un compte bot séparé pour leur service, par exemple ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) et ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Cette fonction n'est plus proposée, et tous les nouveaux bots rejoignant le groupe auront un compte bot séparé.
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
