@@ -21,7 +21,7 @@ tags:
 - Multiplicateur de score : 1.00x
 - Touche de raccourci par défaut : `S`
 - Légende : `Ratez une note et vous échouez.`
-- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variante : [Perfect](/wiki/Game_modifier/Perfect)
 
 ## Description
@@ -31,7 +31,7 @@ Le mod **Sudden Death** est un [modificateur de jeu](/wiki/Game_modifier) qui pe
 Pour être plus précis, le mod Sudden Death **ne fera échouer** la beatmap que si l'une des situations suivantes se produit :
 
 - Manquer une note
-- Rater la collecte d'un tick de slider (mode osu!standard uniquement)
+- Rater la collecte d'un tick de slider (mode osu! uniquement)
 - Ne pas réussir à compléter un spinner
 
 Le mod Sudden Death **ne fera pas** échouer la beatmap si l'une des situations suivantes se produit :
@@ -45,10 +45,10 @@ Ce mod a le même effet sur tous les [modes de jeu](/wiki/Game_mode).
 
 ### Le saviez-vous ?
 
-- Si vous manquez une note alors que le mod Sudden Death est activé, une grande figure manquée supplémentaire apparaîtra dans le mode [osu!standard](/wiki/Game_mode/osu!).
-- Lorsque vous jouez avec le mod Sudden Death activé en mode osu!standard, il y a de rares cas où le joueur peut survivre à un vidage complet de la barre de vie pour avoir cassé le compte de combo. Si le joueur a réussi à préserver au moins un peu de santé en obtenant un tick du slider dans une marge de temps très courte juste après que le combo ait été cassé et avant que la barre de vie ne soit complètement vidée, le joueur peut continuer à jouer le beatmap tel quel et aucun chiffre de ratage important ne sera imposé.
+- Si vous manquez une note alors que le mod Sudden Death est activé, une grande figure manquée supplémentaire apparaîtra dans le mode [osu!](/wiki/Game_mode/osu!).
+- Lorsque vous jouez avec le mod Sudden Death activé en mode osu!, il y a de rares cas où le joueur peut survivre à un vidage complet de la barre de vie pour avoir cassé le compte de combo. Si le joueur a réussi à préserver au moins un peu de santé en obtenant un tick du slider dans une marge de temps très courte juste après que le combo ait été cassé et avant que la barre de vie ne soit complètement vidée, le joueur peut continuer à jouer le beatmap tel quel et aucun chiffre de ratage important ne sera imposé.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

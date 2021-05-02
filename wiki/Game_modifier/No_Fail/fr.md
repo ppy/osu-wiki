@@ -20,7 +20,7 @@ tags:
 - Multiplicateur de score : 0.50x
 - Touche de raccourci par défaut : `W`
 - Légende : `Impossible  d'échouer, quoi que vous fassiez`
-- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
@@ -30,7 +30,7 @@ Le mod **No Fail** est un [modificateur de jeu](/wiki/Game_modifier) qui empêch
 
 Ce mod a le même effet dans tous les [modes de jeu](/wiki/Game_mode).
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

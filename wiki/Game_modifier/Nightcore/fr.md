@@ -20,13 +20,13 @@ tags:
 - Abréviation : NC
 - Type : Difficulté croissante
 - Multiplicateur de score :
-  - ![][o!s]: 1.06x
-  - ![][o!t]: 1.12x
-  - ![][o!c]: 1.06x
-  - ![][o!m]: 1.00x
+  - ![][osu!]: 1.06x
+  - ![][osu!taiko]: 1.12x
+  - ![][osu!catch]: 1.06x
+  - ![][osu!mania]: 1.00x
 - Touche de raccourci par défaut : `D` `D` ou `Shift`+`D`
 - Légende : `uguuuu~`
-- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variante : [Double Time](/wiki/Game_modifier/Double_Time)
 
 ## Description
@@ -42,7 +42,7 @@ Ce mod a le même effet dans tous les modes de jeu.
 - Le mod Nightcore était à l'origine une [blague de poisson d'avril](https://osu.ppy.sh/community/forums/topics/49733) mais a ensuite été ajouté au jeu en tant que mod jouable.
 - Le mod Nightcore tire son nom du genre (ou pour certains, du sous-genre) "Nightcore" dans lequel les chansons sont modifiées ou créées pour être accélérées d'environ 10 à 30 % et avoir des voix plus aiguës. Bien que la validité et l'histoire de ce type de musique soient controversées.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

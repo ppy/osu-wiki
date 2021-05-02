@@ -19,29 +19,29 @@ tags:
 - Abréviation : HD
 - Type : Difficulté croissante
 - Multiplicateur de score :
-  - ![][o!s] ![][o!t] ![][o!c]: 1.06x
-  - ![][o!m]: 1.00x
+  - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
+  - ![][osu!mania]: 1.00x
 - Touche de raccourci par défaut : `F`
   - Touche de raccourci par défaut ([osu!mania](/wiki/Game_mode/osu!mania)) : `F` `F` ou `Shift`+`F`
 - Légende :
-  - ![][o!s]: `Jouez sans cercles d'approche et avec des notes qui s'estompent progressivement.`
-  - ![][o!t]: `Les notes s'estompent progressivement.`
-  - ![][o!c]: `Jouez sans cercles d'approche et avec des notes qui s'estompent progressivement.`
-  - ![][o!m]: `Les notes s'estompent progressivement.`
-- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+  - ![][osu!]: `Jouez sans cercles d'approche et avec des notes qui s'estompent progressivement.`
+  - ![][osu!taiko]: `Les notes s'estompent progressivement.`
+  - ![][osu!catch]: `Jouez sans cercles d'approche et avec des notes qui s'estompent progressivement.`
+  - ![][osu!mania]: `Les notes s'estompent progressivement.`
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variante (osu!mania) : [Fade In](/wiki/Game_modifier/Fade_In)
 
 ## Description
 
 Le mod **Hidden** est un [modificateur de jeu](/wiki/Game_modifier) qui augmente la difficulté des beatmaps en supprimant les cercles d'approche et en faisant disparaître les [objets](/wiki/Hit_object) après leur apparition à l'écran.
 
-### osu!standard
+### osu!
 
-Dans le mode [osu!standard](/wiki/Game_mode/osu!), le mod Hidden élimine les cercles d'approche et fait disparaître les objets peu après leur apparition, ce qui oblige les joueurs à mémoriser plus ou moins le timing et, dans une moindre mesure, le placement et la trajectoire du slider.
+Dans le mode [osu!](/wiki/Game_mode/osu!), le mod Hidden élimine les cercles d'approche et fait disparaître les objets peu après leur apparition, ce qui oblige les joueurs à mémoriser plus ou moins le timing et, dans une moindre mesure, le placement et la trajectoire du slider.
 
 Bien qu'il faille noter que le mod Hidden est considéré comme le mod d'augmentation de la difficulté le plus facile parmi les meilleurs joueurs en raison de la cohérence du moment où les objets apparaissent et disparaissent. En raison de cette cohérence, il est tout à fait possible d'apprendre à toucher les objets en se basant uniquement sur le moment où ils disparaissent.
 
-![Gameplay du mod HD dans osu!standard](img/HD-standard.jpg "Gameplay de osu!standard avec le mod Hidden activé")
+![Gameplay du mod HD dans osu!](img/HD-standard.jpg "Gameplay de osu! avec le mod Hidden activé")
 
 ### osu!taiko
 
@@ -49,7 +49,7 @@ Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), les notes s'éteignent à l
 
 Sur les beatmap présentant une difficulté générale élevée, le mod Hidden est utilisé par les joueurs expérimentés pour augmenter le score au lieu du mod [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock) car HR rend parfois la fenêtre de timing trop petite.
 
-Contrairement à osu!standard, le mod Hidden est généralement considéré comme beaucoup plus difficile à lire ou à "s'habituer", car il oblige le joueur à mémoriser la couleur suivante.
+Contrairement à osu!, le mod Hidden est généralement considéré comme beaucoup plus difficile à lire ou à "s'habituer", car il oblige le joueur à mémoriser la couleur suivante.
 
 ![Gameplay du mod HD dans osu!taiko](img/HD-taiko.jpg "Gameplay de osu!taiko avec le mod Hidden activé")
 
@@ -71,11 +71,11 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), le mod Hidden fonctionne co
 
 - Le mod Hidden a fait ses débuts dans Ouendan 2, qui était le deuxième jeu DS japonais de la série [Osu! Tatake! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan "Wikipédia") (la série dont osu! s'inspire).
 - Si une beatmap est passé avec un grade S ou SS avec le mod Hidden activé, le beatmap attribuera la variante argentée du grade à la place.
-- Par défaut, dans [osu!standard](/wiki/Game_mode/osu!) le [approach circle](/wiki/Hit_object/Approach_circle) du premier [objet](/wiki/Hit_object) sera temporairement visible au début d'une beatmap afin d'aider les joueurs à mieux évaluer le moment où ils doivent toucher l'objet en question. Ceci peut être désactivé dans les options sous `Gameplay`.
+- Par défaut, dans [osu!](/wiki/Game_mode/osu!) le [approach circle](/wiki/Hit_object/Approach_circle) du premier [objet](/wiki/Hit_object) sera temporairement visible au début d'une beatmap afin d'aider les joueurs à mieux évaluer le moment où ils doivent toucher l'objet en question. Ceci peut être désactivé dans les options sous `Gameplay`.
 - Dans le mode osu!mania, le mod Hidden est une variante du mod [Fade In](/wiki/Game_modififer/Fade_In).
 - La version actuelle du mod Hidden dans osu!mania était auparavant un mod séparé appelé [Fade Out](/wiki/Game_modifier/Fade_Out).
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

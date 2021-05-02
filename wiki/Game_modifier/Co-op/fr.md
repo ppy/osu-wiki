@@ -23,7 +23,7 @@ tags:
 - Type : Spécial
 - Multiplicateur de score : 0.70x-1.00x (voir [tableau ci-dessous](#multiplicateur-de-score))
 - Légende : `Deux fois plus de touches pour deux fois plus de fun !`.
-- Modes de jeu compatibles : ![][o!m]
+- Modes de jeu compatibles : ![][osu!mania]
 
 ## Description
 
@@ -37,7 +37,7 @@ Le mod **Co-op** est un [modificateur de jeu](/wiki/Game_modifier) pour le mode 
 
 ### Multiplicateur de score
 
-Le tableau suivant ne concerne que les beatmaps convertis du mode [osu!standard](/wiki/Game_mode) en osu!mania avec le mod Co-op activé :
+Le tableau suivant ne concerne que les beatmaps convertis du mode [osu!](/wiki/Game_mode) en osu!mania avec le mod Co-op activé :
 
 | Défaut | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -54,4 +54,4 @@ Une explication détaillée du deuxième champ de jeu se trouve dans la page [os
 
 - Le mod Co-op a été introduit le 5 mars 2015.
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

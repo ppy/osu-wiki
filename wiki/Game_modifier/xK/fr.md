@@ -29,7 +29,7 @@ tags:
 - Type : Spécial
 - Multiplicateur de score : 0.66x–1.00x
 - Touche de raccourci par défaut : `Z` (chaque clic/pression de touche passe de 4K à 9K, puis revient à 1K jusqu'à 3K avant d'être désactivé).
-- Modes de jeu compatibles : ![][o!m]
+- Modes de jeu compatibles : ![][osu!mania]
 
 ## Description
 
@@ -46,4 +46,4 @@ Le tableau ci-dessous explique comment le multiplicateur de score sera appliqué
 | 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

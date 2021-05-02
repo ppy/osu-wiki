@@ -18,24 +18,24 @@ tags:
 - Abréviation : HR
 - Type : Augmentation de la difficulté
 - Multiplicateur de score :
-  - ![][o!s] ![][o!t]: 1.06x
-  - ![][o!c]: 1.12x
-  - ![][o!m]: 1.00x
+  - ![][osu!] ![][osu!taiko]: 1.06x
+  - ![][osu!catch]: 1.12x
+  - ![][osu!mania]: 1.00x
 - Touche de raccourci par défaut : `A`
 - Légende : `Tout devient un peut plus compliqué.`
-- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
 Le mod **Hard Rock** est un [modificateur de jeu](/wiki/Game_modifier) qui vise à augmenter la difficulté de la plupart (sinon de tous) les aspects d'une [beatmap](/wiki/Beatmap). Il atteint cet objectif en augmentant le [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) de 30%, et tous les autres paramètres de difficulté de 40%.
 
-### osu!standard
+### osu!
 
-Dans le mode [osu!standard](/wiki/Game_mode/osu!), (en plus de l'augmentation des paramètres de difficulté) le mod Hard Rock renverse le beatmap sur son axe X (montré ci-dessus). Cela peut parfois rendre certains [patterns](/wiki/Beatmap/Pattern) peu naturels, ce qui peut augmenter la difficulté.
+Dans le mode [osu!](/wiki/Game_mode/osu!), (en plus de l'augmentation des paramètres de difficulté) le mod Hard Rock renverse le beatmap sur son axe X (montré ci-dessus). Cela peut parfois rendre certains [patterns](/wiki/Beatmap/Pattern) peu naturels, ce qui peut augmenter la difficulté.
 
 De plus, si un joueur a mémorisé ou s'est familiarisé avec les mouvements et les motifs de la beatmap, le passage au mod Hard Rock peut briser cette mémorisation et provoquer une sorte de difficulté artificielle.
 
-![Comparaison du gameplay du mod HR dans osu!standard](img/HR-comparison-standard.jpg "Comparaison d'un jeu normal (à gauche) et d'un jeu avec le mod Hard Rock activé (à droite) dans osu!standard.")
+![Comparaison du gameplay du mod HR dans osu!](img/HR-comparison-standard.jpg "Comparaison d'un jeu normal (à gauche) et d'un jeu avec le mod Hard Rock activé (à droite) dans osu!.")
 
 ### osu!taiko
 
@@ -64,7 +64,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), seules le judgement difficu
 - Le mod Hard Rock tire son nom de la difficulté la plus difficile du jeu "[Elite Beat Agents](/wiki/Glossary#eba)" de la [Nintendo DS](https://fr.wikipedia.org/wiki/Nintendo_DS "Wikipedia")."
 - Le mod Hard Rock annulera le mod [Easy](/wiki/Game_modifier/Easy). Et vice-versa.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

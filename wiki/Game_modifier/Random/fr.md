@@ -18,7 +18,7 @@ tags:
 - Multiplicateur de score : 0.00x
 - Touche de raccourci par défaut : `X`
 - Légende : `Mettez un peut d'aléatoire pour pimenter votre partie.`
-- Modes de jeu compatibles : ![][o!m]
+- Modes de jeu compatibles : ![][osu!mania]
 
 ## Description
 
@@ -26,4 +26,4 @@ Le mod **Random** est un [modificateur de jeu](/wiki/Game_modifier) pour le mode
 
 ![Comparaison de Gameplay du mod RD dans osu!mania](img/RD-comparison-mania.jpg "Comparaison entre un jeu normal (à gauche) et un jeu avec le mod aléatoire activé (à droite) dans osu!mania")
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

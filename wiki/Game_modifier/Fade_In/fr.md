@@ -22,7 +22,7 @@ tags:
 - Type : Difficulté croissante
 - Multiplicateur de score : 1.00x
 - Touche de raccourci par défaut : `F`
-- Modes de jeu compatibles : ![][o!m]
+- Modes de jeu compatibles : ![][osu!mania]
 - Variante : [Hidden](/wiki/Game_modifier/Hidden)
 
 ## Description
@@ -39,4 +39,4 @@ Le fondu ne s'arrête que lorsque le nombre de combos atteint 500x (il couvre al
 
 - Si un beatmap est passé avec un grade S ou SS avec le mod Fade In activé, ladite beatmap attribuera la variante argentée de ce grade à la place.
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

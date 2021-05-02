@@ -24,7 +24,7 @@ tags:
 - Abréviation : FO
 - Type : Augmentation de la difficulté
 - Touche de raccourci par défaut : `F` `F` ou `Shift`+`F`
-- Modes de jeu compatibles : ![][o!m]
+- Modes de jeu compatibles : ![][osu!mania]
 
 ## Description
 
@@ -34,4 +34,4 @@ Le mod **Fade Out** était un [modificateur de jeu](/wiki/Game_modifier) pour [o
 
 Le mod Hidden et le mod Fade Out ont la même fonctionnalité.
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

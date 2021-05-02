@@ -17,7 +17,7 @@ tags:
 - Abréviation : MR
 - Type : Spécial
 - Multiplicateur de score : 1.00x
-- Modes de jeu compatibles : ![][o!m]
+- Modes de jeu compatibles : ![][osu!mania]
 
 ## Description
 
@@ -34,4 +34,4 @@ Le raisonnement derrière cela est que de nombreuse beatmaps du mode osu!mania s
   - Le mod Mirror actuel avait en fait été demandé à plusieurs reprises, et des années avant la demande de fonctionnalité de Kamuy, mais le message de Kamuy a été le seul à susciter suffisamment d'attention pour que le mod soit effectivement ajouté.
 - Le mod Mirror est le seul modificateur de jeu de la catégorie "Spécial" qui n'affecte ni le nombre de [points de performance (pp)](/wiki/Performance_Points) ni le [score](/wiki/Score) qu'un joueur gagne, tout en restant classable.
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

@@ -18,11 +18,11 @@ tags:
 - Abréviation : HT
 - Type : Réduction de la difficulté
 - Multiplicateur de score : 
-  - ![][o!s] ![][o!t] ![][o!c]: 0.30x
-  - ![][o!m]: 0.50x
+  - ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.30x
+  - ![][osu!mania]: 0.50x
 - Touche de raccourci par défaut : `E`
 - Légende : `Tout va plus lentement...`
-- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
@@ -51,7 +51,7 @@ En plus de cela, l'indulgence pour les hyperdashs est augmentée, ce qui rend be
 
 ![Valeurs modifiées](img/GM_HT.jpg "Capture d'écran des valeurs de beatmap modifiées par le mod Half Time")
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

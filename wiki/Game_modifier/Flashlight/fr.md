@@ -19,33 +19,33 @@ tags:
 - Abréviation : FL
 - Type : Augmentation de la difficulté
 - Multiplicateur de score :
-  - ![][o!s] ![][o!t] ![][o!c]: 1.12x
-  - ![][o!m]: 1.00x
+  - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.12x
+  - ![][osu!mania]: 1.00x
 - Touche de raccourci par défaut : `G`
 - Légende : `Jouez dans la pénombre avec votre curseur en guise de lampe torche`
-- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
 Le mod **Flashlight** est un [modificateur de jeu](/wiki/Game_modifier) qui vise à augmenter artificiellement la difficulté d'une [beatmap](/wiki/Beatmap) en limitant la zone visible de l'écran.
 
-### osu!standard
+### osu!
 
-Dans le mode [osu!standard](/wiki/Game_mode/osu!), seul un petit cercle éclairé (c'est-à-dire la zone visible) entourant le curseur est affiché, ce qui permet d'afficher les parties du terrain de jeu contenues dans ce cercle. La taille de ce cercle change en fonction du combo actuel du joueur.
+Dans le mode [osu!](/wiki/Game_mode/osu!), seul un petit cercle éclairé (c'est-à-dire la zone visible) entourant le curseur est affiché, ce qui permet d'afficher les parties du terrain de jeu contenues dans ce cercle. La taille de ce cercle change en fonction du combo actuel du joueur.
 
 La zone visible devient plus petite à partir d'un combo de 100x et à nouveau à partir d'un combo de 200x. Si le combo du joueur est interrompu à un moment donné, la zone visible reprend sa taille initiale. De plus, lorsque vous faites glisser un [slider](/wiki/Hit_object/Slider), la zone visible s'assombrit partiellement jusqu'à ce que le curseur soit terminé.
 
 Tout cela donne un effet qui ressemble à une lampe de poche virtuelle braquée sur le curseur du joueur :
 
-![Comparaison du gameplay avec le mod FL dans osu!standard](img/FL-comparison-standard.jpg "Comparaison entre un jeu avec le mod Flashlight activé à 13x combo (en haut au milieu), 100x combo (en bas à gauche), et à 200x combo (en bas à droite)")
+![Comparaison du gameplay avec le mod FL dans osu!](img/FL-comparison-standard.jpg "Comparaison entre un jeu avec le mod Flashlight activé à 13x combo (en haut au milieu), 100x combo (en bas à gauche), et à 200x combo (en bas à droite)")
 
 Il convient de noter que lorsqu'elle est associée au mod Hidden, la zone visible de Flashlight n'a guère d'importance : avec une vision limitée, l'atténuation des objets peut se produire alors que le curseur n'est pas focalisé sur le point d'apparition de l'objet en question.
 
-Le mod Flashlight est considéré par beaucoup comme le mod le plus difficile d'osu!standard, et les scores obtenus avec lui nécessitent généralement que les joueurs mémorisent l'intégralité de la beatmap.
+Le mod Flashlight est considéré par beaucoup comme le mod le plus difficile d'osu!, et les scores obtenus avec lui nécessitent généralement que les joueurs mémorisent l'intégralité de la beatmap.
 
 ### osu!taiko
 
-Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), la position de la zone visible est fixée à la zone de hit. Et de la même manière que dans osu!standard, la zone visible rétrécit au fur et à mesure que le combo augmente : elle rétrécit lorsque le combo est multiplié par 100 et 200, mais revient à sa taille initiale si le combo est interrompu.
+Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), la position de la zone visible est fixée à la zone de hit. Et de la même manière que dans osu!, la zone visible rétrécit au fur et à mesure que le combo augmente : elle rétrécit lorsque le combo est multiplié par 100 et 200, mais revient à sa taille initiale si le combo est interrompu.
 
 ![Gameplay avec le mod FL dans osu!taiko](img/FL-taiko.jpg "Gameplay de osu!taiko avec le mod Flashlight activé")
 
@@ -53,11 +53,11 @@ Lorsqu'il est associé au mod Hidden, la zone visible de Flashlight devient un p
 
 ### osu!catch
 
-Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), le comportement du mod Flashlight est le même que dans osu!standard, à l'exception du fait que la zone visible suit l'attrapeur au lieu du curseur. Et en raison de la nature du mode osu!catch, la zone visible est nettement plus grande que dans les modes osu!standard et osu!taiko.
+Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), le comportement du mod Flashlight est le même que dans osu!, à l'exception du fait que la zone visible suit l'attrapeur au lieu du curseur. Et en raison de la nature du mode osu!catch, la zone visible est nettement plus grande que dans les modes osu! et osu!taiko.
 
 ![Gameplay avec le mod FL dans osu!catch](img/FL-catch.jpg "Gameplay de osu!catch avec le mod Flashlight activé")
 
-Lorsqu'il est associé au mod Hidden, les fruits sont momentanément visibles si l'attrapeur se trouve *directement sous* les fruits. C'est-à-dire jusqu'à ce que le joueur atteigne 100x le combo, auquel cas les fruits deviennent complètement invisibles au moment où ils atteignent la zone visible. Tout comme les modes osu!standard et osu!taiko, cela nécessite également une mémorisation complète de la beatmap.
+Lorsqu'il est associé au mod Hidden, les fruits sont momentanément visibles si l'attrapeur se trouve *directement sous* les fruits. C'est-à-dire jusqu'à ce que le joueur atteigne 100x le combo, auquel cas les fruits deviennent complètement invisibles au moment où ils atteignent la zone visible. Tout comme les modes osu! et osu!taiko, cela nécessite également une mémorisation complète de la beatmap.
 
 ### osu!mania
 
@@ -72,7 +72,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), la zone visible est limité
   - [Flashlight mod disabled #2](https://osu.ppy.sh/community/forums/topics/41039)
   - [Flashlight is back!](https://osu.ppy.sh/community/forums/topics/41519)
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

@@ -20,7 +20,7 @@ tags:
 - Type : Spécial
 - Multiplicateur de score : 1.00x
 - Touche de raccourci par défaut : `V` `V` ou `Shift`+`V` (ou maintenez `Ctrl`+`Shift` lors de la sélection d'une [beatmap](/wiki/Beatmap))
-- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
@@ -34,7 +34,7 @@ Le mod Cinema étant une variante du mod Auto, les hitsounds causés par les obj
 
 Ce mod a le même effet dans tous les modes de jeu.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

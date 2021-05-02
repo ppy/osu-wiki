@@ -21,7 +21,7 @@ tags:
 - Multiplicateur de score : 1.00x
 - Touche de raccourci par défaut : `S` `S` ou `Shift`+`S`
 - Légende : `Un SS sinon rien.`
-- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variante : [Sudden Death](/wiki/Game_modifier/Sudden_Death)
 
 ## Description
@@ -49,7 +49,7 @@ Ce mod a le même effet sur tous les [modes de jeu](/wiki/Game_mode)
 - S'il y a un prologue à sauter, le mod Perfect ne le sautera pas automatiquement parce qu'il utilise la fonctionnalité de redémarrage par opposition à la répétition rapide.
 - Le mod Perfect est une variante du mod [Sudden Death](/wiki/Game_modifier/Sudden_Death).
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

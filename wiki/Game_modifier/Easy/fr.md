@@ -22,11 +22,11 @@ tags:
 - Multiplicateur de score : 0.50x
 - Touche de raccourci par défaut : `Q`
 - Légende :
-  - ![][o!s]: `Réduit la difficulté de manière générale : cercles plus grands, barre de vie plus indulgente et moins de précision requise.`
-  - ![][o!t]: `Réduit la difficulté de manière générale : barre de vie plus indulgente et moins de précision requise.`
-  - ![][o!c]: `Réduit la difficulté de manière générale : cercles plus grands, barre de vie plus indulgente et moins de précision requise.`
-  - ![][o!m]: `Réduit la difficulté de manière générale : barre de vie plus indulgente et moins de précision requise.`
-- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+  - ![][osu!]: `Réduit la difficulté de manière générale : cercles plus grands, barre de vie plus indulgente et moins de précision requise.`
+  - ![][osu!taiko]: `Réduit la difficulté de manière générale : barre de vie plus indulgente et moins de précision requise.`
+  - ![][osu!catch]: `Réduit la difficulté de manière générale : cercles plus grands, barre de vie plus indulgente et moins de précision requise.`
+  - ![][osu!mania]: `Réduit la difficulté de manière générale : barre de vie plus indulgente et moins de précision requise.`
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
@@ -36,11 +36,11 @@ Dans tous les [modes de jeu](/wiki/Game_mode) sauf [osu!taiko](/wiki/Game_mode/o
 
 Cet événement de recharge sera signalé au joueur par le son "ready" (`readysound.wav`). Une fois que la barre de vie a fini d'être remplie, le joueur sera signalé à nouveau mais avec le son go (`gosound.wav`). Après quoi, la beatmap reprendra le jeu et laissera le joueur continuer. Si le joueur n'a plus de vies et que la barre de vie est tombée à zéro, le jeu échouera comme d'habitude.
 
-### osu!standard
+### osu!
 
-Dans le mode [osu!standard](wiki/Game_Modes/osu!), le mod Easy diminue le [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), et l'[HP drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) de moitié.
+Dans le mode [osu!](wiki/Game_Modes/osu!), le mod Easy diminue le [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), et l'[HP drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) de moitié.
 
-![Gameplay du mod Easy dans osu!standard](img/EZ-comparison-standard.jpg "Comparaison entre un jeu normal (gauche) et un jeu avec le mod Easy activé (droite) dans osu!standard")
+![Gameplay du mod Easy dans osu!](img/EZ-comparison-standard.jpg "Comparaison entre un jeu normal (gauche) et un jeu avec le mod Easy activé (droite) dans osu!")
 
 Cependant, il convient de mentionner que de nombreux joueurs ne trouvent pas l'utilisation du mod Easy utile pour diminuer la difficulté relative des beatmaps, en particulier ceux de forte intensité. L'argument avancé est que la diminution du taux d'approche crée une situation désordonnée, difficile à lire, où la vitesse réelle du beatmap n'est pas très bien reflétée visuellement (voir ci-dessous).
 
@@ -56,9 +56,9 @@ Contrairement aux autres modes de jeu, l'utilisation du mod Easy dans le mode os
 
 ### osu!catch
 
-Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), les effets sont les mêmes que dans osu!standard avec quelques parallèles et ajustements : tous les fruits tombent plus lentement (AR augmenté), la caméra est "zoomée" (CS augmenté), les deux "vies" supplémentaires sont accordées.
+Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), les effets sont les mêmes que dans osu! avec quelques parallèles et ajustements : tous les fruits tombent plus lentement (AR augmenté), la caméra est "zoomée" (CS augmenté), les deux "vies" supplémentaires sont accordées.
 
-Malgré l'utilisation d'un seul axe, la taille plus importante des fruits et leur vitesse de chute plus lente peuvent les faire s'agglutiner, créant ainsi les mêmes problèmes de difficulté que dans le mode osu!standard.
+Malgré l'utilisation d'un seul axe, la taille plus importante des fruits et leur vitesse de chute plus lente peuvent les faire s'agglutiner, créant ainsi les mêmes problèmes de difficulté que dans le mode osu!.
 
 ![Gameplay du mod Easy dans osu!catch](img/EZ-comparison-catch.jpg "Comparaison entre un jeu osu!normal (à gauche) et un jeu avec le module Easy activé (à droite) dans osu!catch")
 
@@ -72,7 +72,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), les effets sont les mêmes 
 - En mod [Multi](/wiki/Multi), l'effet des "vies" ne fonctionnera pas en mod [Tag Co-op ou Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs)
 - Le mod Easy annule le mod [Hard Rock](/wiki/Game_modifier/Hard_Rock), et vice-versa.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

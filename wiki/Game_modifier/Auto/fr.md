@@ -24,7 +24,7 @@ tags:
 - Multiplicateur de score : 1.00x
 - Touche de raccourci par défaut : `V`
 - Légende : `Regardez l'ordinateur réaliser un score parfait`<!-- yes, that is written correctly -->
-- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
@@ -34,9 +34,9 @@ Le mod **Auto** est un [modificateur de jeu](/wiki/Game_modifier) qui permet aux
 
 Le mod fonctionne exactement comme un [replay](/wiki/Replay), avec les options de lecture à la vitesse de 0,5x/1,0x/2,0x et les commentaires sur la beatmap qui peuvent être vus et faits comme d'habitude. Le mod Auto obtiendra toujours la note SS, à l'exception de quelques cas particuliers.
 
-### osu!standard
+### osu!
 
-Dans le mode [osu!standard](/wiki/Game_mode/osu!), lorsqu'il est confronté à un spinner, le mod Auto tourne jusqu'à un maximum de 477 tours par minute (SPM) dans le sens inverse des aiguilles d'une montre.
+Dans le mode [osu!](/wiki/Game_mode/osu!), lorsqu'il est confronté à un spinner, le mod Auto tourne jusqu'à un maximum de 477 tours par minute (SPM) dans le sens inverse des aiguilles d'une montre.
 
 ### osu!taiko
 
@@ -55,7 +55,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), le mod Auto tentera d'effec
 - Lorsque vous regardez un replay automatique, le nom d'utilisateur affiché dans le classement sera "osu!".
 - Après avoir regardé un replay du mod Auto, ce dernier se désélectionnera et l'utilisateur sera obligé de resélectionner le mod s'il souhaite regarder à nouveau la rediffusion. Cela se produira que la rediffusion soit regardée ou non jusqu'au bout.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
