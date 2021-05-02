@@ -10,7 +10,7 @@ Mode permainan pertama yang namanya didasarkan dari seri ouendan.
 
 ## Apa itu "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* adalah permainan ritme musik untuk *Nintendo DS*. Alur pada permainan ini terdiri dari tiga elemen: mengetuk lingkaran pada layar sentuh, menyeret bola melintasi jalur dan memutar *spinner* dengan sangat cepat. Semua elemen ini diatur waktunya oleh (cover dari) lagu-lagu Jepang populer, Permainan tersebut akan terlihat seperti ini pada sistem *Nintento DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* adalah permainan ritme musik untuk *Nintendo DS*. Alur pada permainan ini terdiri dari tiga elemen: mengetuk lingkaran pada layar sentuh, menyeret bola melintasi jalur dan memutar *spinner* dengan sangat cepat. Semua elemen ini diatur waktunya oleh (cover dari) lagu-lagu Jepang populer, Permainan tersebut akan terlihat seperti ini pada sistem *Nintendo DS*:
 
 ![Contoh alur permainan dari Osu! Tatakae! Ouendan di Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
 
