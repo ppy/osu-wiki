@@ -261,7 +261,7 @@ bilah HP adalah sistem yang digunakan untung menghitung *health drain* dan *heal
 
 ![Pengaturan efek asap pada osu!](/wiki/shared/osu_smoke_set.jpg "Tombol binding untuk efek asap")
 
-- Tergantung pada pengaturan kesulitan dan toleransi waktu, mengetuk hit objek *terlalu awal* akan menggetarkan objek yang terkena pukulan.
+- Tergantung pada pengaturan kesulitan dan toleransi waktu, mengetuk hit object *terlalu awal* akan menggetarkan objek yang terkena pukulan.
 - Melepaskan bola slider di jalur kosong tanpa slider tick yang tersembunyi atau terlihat tidak menghilangkan kombo atau skor apa pun yang diberikan. Penilaian slider hanya memeriksa apakah lingkaran awal diklik, slider tick dikumpulkan, dan lingkaran akhir berhasil diselesaikan atau tidak.
 - Mengubah arah putaran di tengah putaran akan menyebabkan spinner melambat (putaran per menit akan turun ke 0 untuk menyetel ulang orientasi putaran), kemudian berputar ke arah yang benar. Kemajuan putaran tidak akan hilang selama reorientasi (sebaliknya tidak akan meningkat), dan akan terus meningkat pada putaran mundur.
 - Tidak berputar di sekitar inti tengah dari spinner **tidak** akan dianggap sebagai putaran yang valid.
