@@ -16,7 +16,7 @@ Mode permainan pertama yang namanya didasarkan dari seri ouendan.
 
 Circle gameplay bisa dilihat pada layar bawah dan cerita bisa dilihat pada layar atas. Dasarnya, setiap tahap cerita adalah kisah tentang seseorang yang bermasalah. Disaat itulah [*Ouendan*](/wiki/Ouendan) (pemandu sorak) datang. Melalui kekuatan magis pemandu sorak pria, pemain harus membantu orang-orang yang bermasalah.
 
-## ![](/wiki/shared/mode/osu.png) Alur Permainan
+## ![](/wiki/shared/mode/osu.png) Gameplay
 
 *Tutorial: [new beginnings (Sudah termasuk di dalam osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
 
