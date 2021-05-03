@@ -10,24 +10,24 @@ Mode permainan pertama yang namanya didasarkan dari seri ouendan.
 
 ## Apa itu "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* adalah permainan ritme musik untuk *Nintendo DS*. Alur pada permainan ini terdiri dari tiga elemen: mengetuk lingkaran pada layar sentuh, menyeret bola melintasi jalur dan memutar *spinner* dengan sangat cepat. Semua elemen ini diatur waktunya oleh (cover dari) lagu-lagu Jepang populer, Permainan tersebut akan terlihat seperti ini pada sistem *Nintendo DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* adalah sebuah game rhythm untuk *Nintendo DS*. Dengan gameplay yang terdiri dari tiga elemen: menekan circle pada touchscreen, menyeret bola melintasi jalur dan memutar spinner dengan sangat cepat. Semua elemen ini secara teratur mengikuti (kover) lagu-lagu populer Jepang. Berikut adalah contoh gameplay pada *Nintendo DS*:
 
-![Contoh alur permainan dari Osu! Tatakae! Ouendan di Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
+![Contoh gameplay Osu! Tatakae! Ouendan di Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
 
 Circle gameplay bisa dilihat pada layar bawah dan cerita bisa dilihat pada layar atas. Dasarnya, setiap tahap cerita adalah kisah tentang seseorang yang bermasalah. Disaat itulah [*Ouendan*](/wiki/Ouendan) (pemandu sorak) datang. Melalui kekuatan magis pemandu sorak pria, pemain harus membantu orang-orang yang bermasalah.
 
 ## ![](/wiki/shared/mode/osu.png) Gameplay
 
-*Tutorial: [new beginnings (Sudah termasuk di dalam osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
+*Tutorial: [new beginnings (Dibundel ke dalam instalasi osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
 
-Alur permainannya berfokus pada:
+Gameplaynya berfokus pada:
 
-- Adaptasi dan reaksi terhadap rangsangan (yaitu, objek yang dapat diketuk muncul di seluruh layar dengan kecepatan kilat).
+- Adaptasi dan reaksi terhadap rangsangan (yaitu, objek yang dapat diklik muncul di seluruh layar dengan kecepatan kilat).
 - Memahami irama dan pola lagu.
 - Kontrol perangkat masukan.
 - Timing untuk mengklik objek yang muncul di layar.
-- Kemampuan untuk memutar mouse (atau pena untuk tablet) pada *spinner*.
-- Stamina fisik dan mental (terutama pada lagu jenis maraton yang durasinya lebih panjang).
+- Kemampuan untuk memutar mouse (atau pena untuk tablet) pada spinner.
+- Stamina fisik dan kekuatan mental (terutama untuk lagu-lagu berdurasi panjang, seperti maraton).
 - Penentuan posisi yang tepat dan koordinasi mata-tangan.
 
 Berikut ini adalah beberapa skill yang penting untuk menjadi *juara di game osu!*.
@@ -36,27 +36,27 @@ Langkah pertama untuk memulai perjalanan kamu adalah dengan mempelajari dasar-da
 
 ### Pemilihan Lagu
 
-Untuk mengakses mode permainan di osu!, tekan `Ctrl` +` 1` secara bersamaan.
+Untuk mengakses mode permainan osu!, tekan kombinasi tombol `Ctrl` +` 1`.
 
-Cara lainnya, klik tombol `Mode` dan pilih` osu! `.
+Alternatif lainnya, dengan menekan pada tombol `Mode` dan pilih `osu!`.
 
-### Dasar-dasar Alur Permainan
+### Dasar-dasar Gameplay
 
 #### Area Bermain
 
 ![antarmuka osu!](/wiki/shared/osu-gameplay.jpg "antarmuka osu!")
 
-Bilah kiri atas adalah bilah HP (health bar), yang akan menurun dengan kecepatan tetap (tergantung pada kesulitan beatmap), tetapi dapat diisi ulang dengan mengetuk nada pada waktu yang tepat atau memutar *spinner*. Pukulan yang tepat waktunya (300 atau Geki) akan memulihkan HP lebih baik daripada pukulan yang tidak tepat waktunya (50). Pukulan yang gagal akan menghilangkan sebagian HP dari bilah HP.
+Bilah kiri atas adalah bilah HP (health bar), yang akan menurun dengan kecepatan tetap (tergantung pada kesulitan beatmap), tetapi dapat diisi ulang dengan melanjutkan bermain dan menekan not-not secara tepat atau memutar spinner. Menekan not-not dengan tepat (300 atau Geki) akan memulihkan HP lebih besar ketimbang saat menekan not-not dengan buruk (50). Mendapatkan miss saat bermain juga akan mengurangi sebagian HP.
 
-Di sebelah kanan bilah HP adalah skor total. Dan di bawahnya adalah akurasi. Lingkaran di samping akurasi (dan di bawah skor) adalah penghitung waktu dari durasi sebuah beatmap.
+Pada sisi kanan dari bilah HP adalah skor total. Dan di bawahnya adalah akurasi. Dengan sebuah lingkaran di samping akurasi (dan di bawah skor) adalah timer untuk durasi beatmap yang dimainkan.
 
-Angka di kiri bawah adalah penghitung kombo / pengganda skor.
+Angka di kiri bawah adalah penghitung kombo/score multiplier.
 
 #### Hit circle
 
 ![Hit circle](/wiki/shared/osu_hitcircles.jpg "Hit circle osu!")
 
-Sebuah lingkaran tipis berwarna serupa di luar hit circle yang akan menyusut seiring waktu. Klik lingkaran pada waktu yang tepat ketika lingkaran tipis tersebut menyentuh batas putih hit circle. Letusan skor akan muncul setelah mengetuk hit circle, menampilkan skor dan merubah HP tergantung pada waktu ketukan. Hit circle tersebut akan menghilang setelah skor meletus.
+Sebuah lingkaran tipis berwarna serupa di luar hit circle yang akan mengecil seiring waktu. Klik lingkaran pada waktu yang tepat ketika lingkaran tipis tersebut menyentuh batas putih hit circle. Letusan skor akan muncul setelah menekan hit circle, menampilkan skor dan merubah HP tergantung pada ketepatan waktu hit. Hit circle tersebut akan menghilang setelah skor meletus.
 
 Untuk memahami hit circle, jangan hanya mengandalkan persepsi; rasakan ketukan dan ritme pada beatmap tersebut. Hal ini akan membantu dalam menyelesaikan beberapa pola lingkaran visual yang lebih kompleks yang ditemukan dalam tingkat kesulitan selanjutnya.
 
@@ -64,21 +64,21 @@ Untuk memahami hit circle, jangan hanya mengandalkan persepsi; rasakan ketukan d
 
 ![Slider](/wiki/shared/osu_slider.jpg "Slider osu!")
 
-Pertama, ketuk pada saat yang tepat, namun, tidak berakhir di situ. Sebuah bola akan mulai bergerak melintasi jalur tersebut. Tahan tombol mouse / keyboard (atau tahan pena di atas tablet) dan ikuti bola yang berada di dalam lingkaran berwarna oranye tebal, mengelilingi bola, seiring bola itu bergerak terus. Lingkaran luar berwarna oranye, yang disebut *follow circle*, akan muncul jika bola slider ditahan, tetapi akan menghilang saat dilepaskan.
+Pertama, tekan pada saat yang tepat, namun, tidak berakhir di situ. Sebuah bola akan mulai bergerak melintasi jalur tersebut. Tahan tombol mouse/keyboard (atau tahan pena di atas tablet) dan ikuti bola yang berada di dalam lingkaran berwarna oranye tebal, mengelilingi bola, seiring bola itu bergerak terus. Lingkaran luar berwarna oranye, yang disebut *follow circle* akan muncul jika bola slider ditekan, tetapi akan menghilang saat dilepaskan.
 
-Terkadang, seperti yang terlihat pada gambar di atas, bola bisa berbalik arah dan pemain harus mengikuti bola kembali ke awal jalur atau sebaliknya. petunjuk visualnya adalah panah balik di lingkaran akhir / awal jalur.
+Terkadang, seperti yang terlihat pada gambar di atas, bola bisa berbalik arah dan pemain harus mengikuti bola kembali ke awal jalur atau sebaliknya. petunjuk visualnya adalah panah di akhir/awal slider.
 
 #### Spinner
 
 ![Spinner](/wiki/shared/osu_spinner.jpg "Spinner osu!")
 
-Tahan tombol mouse / keyboard (atau tahan pena di atas tablet). Dari situ, gunakan mouse (atau pena) dan putar *spinner* dengan gerakan melingkar (ke salah satu arah) sampai lingkaran *spinner* benar-benar keluar. Sebuah pemberitahuan *Clear* akan muncul untuk menunjukkan bahwa *spinner* telah diselesaikan. Jika *spinner* dihapus lebih awal, lanjutkankanlah berputar untuk mengumpulkan bonus skor dan mengisi kembali bilah HP.
+Tahan tombol mouse/keyboard (atau tahan pena di atas tablet). Lalu, gunakan mouse (atau pena) dan putar spinner dengan gerakan melingkar (ke salah satu arah) sampai lingkaran spinner benar-benar muncul. Sebuah pemberitahuan *Clear* akan muncul untuk menunjukkan bahwa spinner berhasil diselesaikan. Jika spinner selesai lebih awal, lanjutkankanlah berputar untuk mengumpulkan bonus skor dan mengisi kembali bilah HP.
 
-Lingkaran putih luar menunjukkan berapa banyak waktu yang tersisa untuk menyelesaikan *spinner*. Lingkaran ini akan berubah menjadi merah untuk memberitahukan bahwa waktu hampir habis. Beatmap lama, menggunakan *skin versi 1.0*, memiliki fungsi pengukur untuk menunjukkan seberapa dekat untuk menyelesaikan *spinner*.
+Lingkaran putih luar menunjukkan berapa banyak waktu yang tersisa untuk menyelesaikan spinner. Lingkaran ini akan berubah menjadi merah untuk memberitahukan bahwa waktu hampir habis. Pada beatmap lama yang menggunakan *skin versi 1.0*, terdapat fungsi pengukur untuk mengukur persentase penyelesaian spinner.
 
-Kotak kecil di bawah *spinner* menunjukkan putaran per menit. Angka di dalam kotak itu diterjemahkan menjadi jumlah putaran yang memungkinkan, jika untuk terus memutar *spinner* dengan kecepatan tersebut selama satu menit. Jika tombol mouse / keyboard dilepaskan (atau pena tidak menyentuh tablet) selama putaran, *spinner* akan berhenti membaca putaran tersebut.
+Kotak kecil di bawah spinner menunjukkan putaran per menit. Angka di dalam kotak itu menunjukkan berapa jumlah putaran yang memungkinkan, jika untuk terus memutar spinner dengan kecepatan konstan selama satu menit. Jika tombol mouse/keyboard dilepaskan (atau pena tidak menyentuh tablet) selama putaran, spinner akan berhenti berputar.
 
-Pada *DS*, ini adalah cara yang bisa mengakibatkan goresan pada layar sentuh (atau pelindung layar), terutama pada tingkat kesulitan yang lebih tinggi. Di osu!, *spinner* telah dipermudah agar tidak terlalu merepotkan untuk diselesaikan. Jumlah maksimum putaran per menit yang dapat dicapai adalah 477 yang juga merupakan tingkat di mana mod [Auto](/wiki/Game_modifier/Auto) berputar sementara mod [Spun Out](/wiki/Game_modifier/Spun_Out) berputar lebih lambat pada 287 putaran per menit.
+Pada *DS*, ini adalah cara yang dapat mengakibatkan goresan pada layar sentuh (atau pelindung layar), terutama pada tingkat kesulitan yang lebih tinggi. Di osu!, spinner telah dipermudah agar tidak terlalu merepotkan untuk diselesaikan. Jumlah maksimum putaran per menit yang dapat dicapai adalah 477 yang juga merupakan tingkat di mana mod [Auto](/wiki/Game_modifier/Auto) berputar, sementara pada mod [Spun Out](/wiki/Game_modifier/Spun_Out) kecepatan berputarnya diperlambat menjadi 287 putaran per menit.
 
 ## Gaya Bermain
 
@@ -90,19 +90,19 @@ Kontrol default untuk osu! adalah:
 
 | Mouse | Keyboard | Tablet/Touchscreen |
 | :-- | :-- | :-- |
-| Klik kiri(M1) / Klik kanan(M2) | `Z`(K1) / `X`(K2) | Sentuhan layar(M1) |
+| Klik kiri(M1)/Klik kanan(M2) | `Z`(K1)/`X`(K2) | Sentuhan layar(M1) |
 
-Hit object di osu! akan menerima masukan apa pun dari perangkat masukan, selama setiap hit object diketuk tepat pada waktunya.
+Hit object di osu! akan menerima masukan apa pun dari perangkat masukan, selama setiap hit object ditekan tepat pada waktunya.
 
-Jika mod [Relax](/wiki/Game_modifier/Relax) digunakan, hanya kursor dalam game yang akan bekerja. Gunakan kursor dalam game untuk mengikuti objek yang terkena dengan ketukan otomatis. *Spinner* masih harus diselesaikan.
+Jika mod [Relax](/wiki/Game_modifier/Relax) digunakan, hanya kursor dalam game yang akan bekerja. Gunakan kursor dalam game untuk mengikuti objek yang terkena hit otomatis. Untuk spinner tetap harus diselesaikan.
 
-Jika mod [Auto Pilot](/wiki/Game_modifier/Autopilot) digunakan, hanya input dari perangkat input yang akan bekerja. Aturlah timing kamu pada hit object yang terkena dengan gerakan kursor otomatis. *Spinner* akan mengikuti kecepatan mod [Spun Out](/wiki/Game_modifier/Spun_Out).
+Jika mod [Auto Pilot](/wiki/Game_modifier/Autopilot) digunakan, hanya input dari perangkat input yang akan bekerja. Aturlah timing kamu pada hit object yang terkena dengan gerakan kursor otomatis. Spinner akan mengikuti kecepatan mod [Spun Out](/wiki/Game_modifier/Spun_Out).
 
 ## Penilaian
 
 *Penilaian Skor dapat ditemukan di [Skor dalam osu! Bagian Penilaian Skor](/wiki/Score#osu).*
 
-Bagian detail penilaian mengenai semua seluk-beluk penilaian, termasuk rumus matematika.
+Berikut adalah bagian penjelasan detail mengenai penilaian, termasuk rumus matematika.
 
 ### Nilai
 
@@ -119,9 +119,9 @@ Nilai S atau SS perak dapat diperoleh dengan menggunakan mod *[Hidden](/wiki/Gam
 
 ### Akurasi
 
-Akurasi dihitung dengan membobot penilaian yang diperoleh pada setiap catatan dengan nilainya dan membaginya dengan jumlah semaksimal mungkin.
+Akurasi dihitung dengan menjumlahkan penilaian yang diperoleh pada setiap nilai hit dan membaginya dengan jumlah maksimal hit.
 
-Dengan kata lain: `Akurasi = Total poin dari hit / (Total hit * 300p)`
+Dengan kata lain: `Akurasi = Total poin dari hit/(Total hit * 300p)`
 
 | Istilah | Rumus |
 | :-: | :-- |
@@ -134,51 +134,51 @@ Dengan kata lain, setiap *Miss* dihitung sebagai 0 poin, masing-masing *50* dihi
 
 Tambahkan semuanya dan bagi jumlahnya dengan jumlah klik dikalikan 300.
 
-- Jika hanya 300s: hasil 1.00, yang berarti akurasi 100%.
-- Jika hanya 100s: hasil 0,3333 (yaitu 100/300), yang berarti akurasi 33,33%.
+- Jika hanya 300s: maka hasilnya 1.00, yang berarti akurasi 100%.
+- Jika hanya 100s: maka hasilnya 0,3333 (yaitu 100/300), yang berarti akurasi 33,33%.
 
 ### Skor
 
 Skor yang diberikan oleh setiap hit circle dan ujung slider dihitung dengan rumus sebagai berikut:
 
-`Skor = Nilai Hit + (Nilai Hit * ((Pengganda combo * Pengganda kesulitan * Pengganda mod) / 25))`
+`Skor = Nilai Hit + (Nilai Hit * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))`
 
 | Istilah | Penjelasan |
 | :-: | :-- |
-| **Nilai Hit** | Skor hit circle (50, 100 atau 300), slider tick dan bonus *spinner* |
-| **Pengganda kombo** | (Kombo sebelum hit ini - 1) atau 0; manapun yang lebih tinggi |
-| **Pengganda kesulitan** | Pengaturan kesulitan untuk beatmap (lihat tajuk berikutnya) |
-| **Pengganda mod** | Pengganda dari mod yang dipilih |
+| **Nilai Hit** | Skor hit circle (50, 100 atau 300), slider tick dan bonus spinner |
+| **Combo multiplier** | (Kombo sebelum hit saat ini - 1) atau 0; manapun yang lebih tinggi |
+| **Difficulty multiplier** | Pengaturan kesulitan untuk beatmap (lihat topik berikutnya) |
+| **Mod multiplier** | Pengganda dari mod yang dipilih |
 
-Sebagai tambahan, setiap slider awal, akhir dan tick pengulangan memberikan 30 poin, setiap slider tick tengah memberikan 10 poin dan setiap putaran *spinner* memberikan 100 poin.
+Sebagai tambahan, setiap slider awal, akhir dan tick pengulangan memberikan 30 poin, setiap slider tick yang berada di tengah memberikan 10 poin dan setiap putaran spinner memberikan 100 poin.
 
-Bonus tambahan 1.000 poin diberikan untuk setiap putaran *spinner* setelah meteran *spinner* penuh.
+Bonus tambahan 1.000 poin diberikan untuk setiap putaran spinner setelah meteran spinner penuh.
 
-#### Cara menghitung Pengganda kesulitan
+#### Cara menghitung Difficulty multiplier
 
 [Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup) dan [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup) masing-masing diberi tanda pada *difficulty point*.
 
-*Poin kesulitan* yang terkumpul dapat mempengaruhi **Pengganda kesulitan** sebagai berikut:
+*Poin kesulitan* yang terkumpul dapat mempengaruhi **Difficulty multiplier** sebagai berikut:
 
-| Rentang poin kesulitan | Pengganda kesulitan |
+| Rentang poin kesulitan | Difficulty multiplier |
 | :-: | :-- |
-| 0 - 5 | 2x efek pengganda |
-| 6 - 12 | 3x efek pengganda |
-| 13 - 17 | 4x efek pengganda |
-| 18 - 24 | 5x efek pengganda |
-| 25 - 30 | 6x efek pengganda |
+| 0 - 5 | 2x |
+| 6 - 12 | 3x |
+| 13 - 17 | 4x |
+| 18 - 24 | 5x |
+| 25 - 30 | 6x |
 
-Batas tertinggi point kesulitan adalah 27 poin dengan CS7, OD10 dan HP10. Batas terendah poin kesulitan adalah 2 titik kesulitan dengan CS2, OD0 dan HP0.
+Batas tertinggi point kesulitan adalah 27 poin dengan CS7, OD10 dan HP10. Batas terendah poin kesulitan adalah 2 dengan CS2, OD0 dan HP0.
 
 Biasanya CS tidak bisa di bawah 2 atau di atas 7 (diperlukan modifikasi langsung ke file `.osu`).
 
-Perhatikan bahwa pengubah game (seperti Hard Rock / Easy) tidak akan mengubah **Pengganda kesulitan**. Ini hanya akan menjelaskan nilai asli saja.
+Perlu diperhatikan bahwa mod (seperti Hard Rock/Easy) tidak akan mengubah **Difficulty multiplier**.
 
 ### Penilaian hit object
 
 **Hit circle:**
 
-- Skor 300, 100 atau 50 diberikan dari hit circle normal tergantung pada seberapa akurat pemain mengetuknya.
+- Skor 300, 100 atau 50 akan diberikan dari hit circle tergantung pada seberapa akurat pemain mengkliknya.
 - Sebuah miss diberikan jika pemain tidak mengklik sama sekali pada hit circle atau mengkliknya terlalu awal.
 
 **Slider:**
@@ -186,64 +186,64 @@ Perhatikan bahwa pengubah game (seperti Hard Rock / Easy) tidak akan mengubah **
 - Penilaian untuk slider tidak bergantung pada keakuratan ketukan awal.
 - Slider terdiri dari slider tick, yang mencakup titik awal, akhir, dan pengulangan dari slider.
 - Skor 300 diberikan jika pemain berhasil mendapatkan semua slider tick, 100 diberikan jika pemain mendapatkan setidaknya setengah dari mereka, dan 50 diberikan jika pemain berhasil mengumpulkan bahkan salah satu dari tick tersebut.
-- Mengetuk slider **terlalu awal** tidak akan membuat miss, tetapi akan **menyetel ulang** pengganda skor menjadi **0**.
-  - Tidak mengumpulkan slider tick, ditampilkan atau tidak, tidak akan membuat Anda ketinggalan, tetapi akan **mengatur ulang** pengganda skor menjadi **0**.
-  - Lepasnya akhir slider tidak akan menyebabkan miss tetapi ** tidak ** akan menambah pengganda skor.
+- Menekan slider **terlalu awal** tidak akan membuat miss, tetapi akan **menyetel ulang** kombo menjadi **0**.
+  - Tidak mengumpulkan slider tick, yang terlihat ataupun tidak, tidak akan membuat Anda ketinggalan, tetapi akan **mengatur ulang** kombo menjadi **0**.
+  - Gagal menyelesaikan slider sampai akhir tidak akan menyebabkan miss tetapi **tidak** akan menambah kombo.
 - Sebuah miss diberikan jika pemain tidak mengumpulkan slider tick.
 
 **Spinner:**
 
-- Skor 300, 100, atau 50 diberikan tergantung pada jumlah putaran yang dilakukan dibandingkan dengan panjang *spinner*.
-- Miss diberikan jika pemain tidak dapat memperluas lingkaran spinner ke batas yang memuaskan untuk diberikan 50
-  - Pada skin v1 : Miss diberikan jika pemain tidak dapat memenuhi meteran yang ada di kedua sisi spinner hingga batas yang memuaskan untuk diberikan 50.
+- Skor 300, 100, atau 50 diberikan tergantung pada jumlah putaran yang dilakukan dibandingkan dengan panjang spinner.
+- Miss diberikan jika pemain tidak dapat memperluas lingkaran spinner ke batas yang telah disesuaikan untuk mendapatkan skor 50
+  - Pada skin v1 : Miss diberikan jika pemain tidak dapat memenuhi meteran yang ada di kedua sisi spinner hingga batas yang telah disesuaikan untuk mendapatkan skor 50.
 
 ### Skor/Pengganda Kombo
 
-**Masing-masing berikut akan menambahkan satu poin ke pengganda skor/kombo:**
+**berikut adalah hal-hal yang akan menambahkan satu poin ke combo multiplier:**
 
 - Ketukan yang tepat pada hit circle.
 - Ketukan yang berhasil di awal slider.
-- Bola slider berhasil mengumpulkan slider tick.
-- Bola slider berhasil menyentuh ujung atau panah mundur pada slider.
+- Bola slider yang berhasil mengumpulkan slider tick.
+- Bola slider yang berhasil sampai pada ujung slider atau reverse arrow pada slider.
 - Spinner yang selesai/setengah selesai
 
-**Berikut ini akan mengatur ulang pengganda skor menjadi nol:**
+**Berikut ini akan mengatur ulang combo multiplier menjadi nol:**
 
 - Miss pada hit circle.
-- Mengetuk slider terlalu awal.
-- Miss pada slider awal atau slider tick
-- Gagal memperluas lingkaran spinner ke ukuran yang memuaskan.
-  - Pada skin v1 : Gagal mengisi setidaknya setengah ukuran spinner.
+- Menekan slider terlalu awal.
+- Miss pada awal slider atau slider tick
+- Gagal memperluas lingkaran spinner ke ukuran yang telah disesuaikan.
+  - Pada skin v1 : Gagal mengisi setidaknya setengah dari meteran spinner.
 
-**Hal berikut tidak akan menambah atau mengatur ulang pengganda skor:**
+**Hal berikut tidak akan menambah atau mengatur ulang combo multiplier:**
 
 - Miss pada ujung slider (akan menghasilkan Katu atau 100/50 hit)
-- Spinner: 1,000 Bonus poin
+- Spinner dengan bonus poin 1,000
 
 ## Bilah HP
 
-bilah HP adalah sistem yang digunakan untung menghitung *health drain* dan *health gain*, penjelasannya cukup rumit sehingga tidak akan dijelaskan secara detail. Semuanya berputar di sekitar pengaturan kesulitan HP yang hanya dapat diatur oleh pembuat map itu sendiri
+bilah HP adalah sistem yang digunakan untung menghitung *health drain* dan *health gain*, penjelasannya cukup rumit sehingga tidak akan dijelaskan secara detail. Semuanya disimpan di pengaturan kesulitan HP yang hanya dapat diatur oleh pembuat map itu sendiri
 
-**Berikut ini hal akan menghasilkan pemulihan HP pada bilah:**
+**Berikut ini hal yang dapat memulihkan HP:**
 
-- Ketukan yang berhasil pada hit circle (penilaian yang lebih baik menghasilkan lebih banyak HP; hit circle terakhir dalam kombinasi warna memberikan lebih banyak HP).
+- Ketukan yang berhasil pada hit circle (penilaian yang lebih baik menghasilkan lebih banyak HP; hit circle terakhir dalam kombo akan memberikan lebih banyak HP).
 - Ketukan yang berhasil pada awal slider.
 - Bola slider yang berhasil mengumpulkan slider tick.
-- Bola slider yang berhasil menyentuh ujung atau panah balik dari slider (penilaian yang lebih baik di titik akhir akan menghasilkan lebih banyak HP).
-- Menyelesaikan spinner dan tetap memutar spinner dalam durasi spinner (penilaian yang lebih baik di akhir spinner menghasilkan lebih banyak perolehan HP).
+- Bola slider yang berhasil menyentuh ujung atau reverse arrow dari slider (penilaian yang lebih baik di titik akhir akan menghasilkan lebih banyak HP).
+- Menyelesaikan spinner dan tetap memutar spinner selama durasi spinner (penilaian yang lebih baik di akhir spinner menghasilkan lebih banyak perolehan HP).
 
 **Berikut ini adalah hal-hal yang akan menguras HP**
 
-- Pengurasan HP konstan / *health drain*
+- Pengurasan HP konstan/*health drain*
 - Sebuah miss.
 - Miss pada hit circle.
-- Mengetuk slider terlalu awal.
+- Menekan slider terlalu awal.
 - Miss pada slider tick atau slider reverse arrow.
 - Gagal dalam menyelesaikan sebuah spinner untuk mendapatkan setidaknya nilai 50.
 
 **Berikut ini adalah hal yang akan menahan HP pada bilah HP**
 
-- Waktu istirahat.
+- Break time/waktu jeda.
 
 ## Skinning
 
@@ -261,11 +261,11 @@ bilah HP adalah sistem yang digunakan untung menghitung *health drain* dan *heal
 
 ![Pengaturan efek asap pada osu!](/wiki/shared/osu_smoke_set.jpg "Tombol binding untuk efek asap")
 
-- Tergantung pada pengaturan kesulitan dan toleransi waktu, mengetuk hit object *terlalu awal* akan menggetarkan objek yang terkena pukulan.
-- Melepaskan bola slider di jalur kosong tanpa slider tick yang tersembunyi atau terlihat tidak menghilangkan kombo atau skor apa pun yang diberikan. Penilaian slider hanya memeriksa apakah lingkaran awal diklik, slider tick dikumpulkan, dan lingkaran akhir berhasil diselesaikan atau tidak.
-- Mengubah arah putaran di tengah putaran akan menyebabkan spinner melambat (putaran per menit akan turun ke 0 untuk menyetel ulang orientasi putaran), kemudian berputar ke arah yang benar. Kemajuan putaran tidak akan hilang selama reorientasi (sebaliknya tidak akan meningkat), dan akan terus meningkat pada putaran mundur.
-- Tidak berputar di sekitar inti tengah dari spinner **tidak** akan dianggap sebagai putaran yang valid.
-- Efek asap bertahan lebih lama daripada jejak kursor dalam game default. Terapkan efek asap sesekali untuk mencegah efek asap sebelumnya menghilang terlalu cepat.
+- Tergantung pada pengaturan kesulitan dan toleransi waktu, mengetuk hit object *terlalu awal* akan membuat objek yang terkena hit bergetar.
+- Melepaskan bola slider di jalur kosong tanpa slider tick yang tersembunyi ataupun terlihat tidak akan menghilangkan kombo atau skor apa pun. Penilaian slider hanya memeriksa apakah lingkaran awal ditekan, slider tick dikumpulkan, dan ujung slider yang berhasil diselesaikan atau tidak.
+- Mengubah arah putaran di tengah putaran akan menyebabkan spinner melambat (putaran per menit akan turun ke 0 untuk menyetel ulang orientasi putaran), kemudian berputar ke arah yang benar. Kemajuan putaran tidak akan hilang selama reorientasi (sebaliknya tidak akan meningkat), dan akan terus meningkat pada putaran setelahnya.
+- Tidak melakukan putaran di sekitar inti tengah dari spinner **tidak** akan dianggap sebagai putaran yang valid.
+- Efek asap bertahan lebih lama daripada jejak kursor dalam game. Terapkan efek asap sesekali untuk mencegah efek asap sebelumnya menghilang terlalu cepat.
 - Maskot untuk osu! adalah [pippi](/wiki/Mascots#-pippi).
 - Saat dimainkan dengan mod [Auto](/wiki/Game_modifier/Auto), nama pemain akan ditampilkan sebagai osu!.
 
@@ -273,19 +273,19 @@ bilah HP adalah sistem yang digunakan untung menghitung *health drain* dan *heal
 
 ![Kombo Api](/wiki/shared/combo-fire.jpg "Combo Fire")
 
-- Versi lama osu! digunakan untuk meniru beberapa elemen dari deret *ouendan* sebelum dihapus atau diganti.
-  - Kombo api saat mencapai kombo baru.
+- Versi lama osu! menggunakan beberapa elemen dari seri *ouendan* sebelum mulai dihapus atau digantikan.
+  - Muncul kombo api saat mencapai kombo baru.
     - Dihapus pada 05 Maret 2013, karena terdapat masalah kinerja.
-  - Versi pertama dari skin default yang menggunakan perilaku skin v1, yang merupakan *osu! Default* skin *oleh peppy*, menyediakan salinan antarmuka *ouendan* yang hampir identik.
-    - Skin tersebut diganti dengan skin default yang lebih bagus terkini yang menggunakan perilaku skin v2.
+  - Versi pertama dari skin default menggunakan perilaku skin v1, yang merupakan *osu! Default* skin *oleh peppy*, menyediakan antarmuka yang hampir identik dengan *ouendan*.
+    - Skin tersebut diganti dengan skin default yang lebih bagus yang menggunakan perilaku skin v2.
   - Perbedaan fitur yang paling mencolok antara perilaku skin v1 dan v2 adalah spinner.
-    - Perilaku skin v1 untuk bagian spinner akan menaikkan pengukur spinner dari bawah ke atas dalam level hingga penuh sesuai seri *ouendan*.
-      - Pengatur waktu adalah lingkaran di dalam spinner yang akan menyatu dengan inti tengah spinner. Spinner berakhir saat lingkaran pengatur waktu mencapai inti tengah dari spinner.
-    - Perilaku skin v2 untuk bagian spinner akan perlahan-lahan memperluas lingkaran spinner ke ukuran penuh dan bersinar setelah selesai.
-      - Pengatur waktu adalah lingkaran luar spinner yang berubah warna. Spinner berakhir saat warna lingkaran pengatur waktu berubah total.
-- Tiga beatmap ranked pertama diterbitkan pada hari yang sama (07 Oktober 2007) ketika papan peringkat online ditayangkan adalah:
+    - Perilaku skin v1 untuk bagian spinner akan menaikkan meteran spinner dari bawah ke atas dalam level hingga penuh sesuai dengan seri *ouendan*.
+      - Pengatur waktunya adalah lingkaran di dalam spinner yang akan menyatu dengan inti tengah spinner. Spinner berakhir ketika lingkaran pengatur waktu mencapai inti tengah dari spinner.
+    - Perilaku skin v2 untuk bagian spinner akan perlahan-lahan memperluas lingkaran spinner ke ukuran penuh dan bercahaya setelah selesai.
+      - Pengatur waktunya adalah lingkaran luar spinner yang berubah warna. Spinner berakhir saat warna lingkaran pengatur waktu berubah total.
+- Tiga beatmap ranked pertama yang diterbitkan pada hari yang sama (07 Oktober 2007) ketika papan peringkat online ditayangkan adalah:
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), atau `discoprince`; yang tampaknya dibuat dalam waktu sekitar satu jam.
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 ) , atau `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), atau `Brandy - Love Fighter`.
-- Secara khusus, folder lama memiliki konvensi penamaan sendiri (nama folder hanya dapat ditemukan di paket beatmap *kuno*) dan tidak secara ketat mengikuti arus yang diberlakukan dengan format `{BeatmapSetID} {ArtistName} - {BeatmapName}`.
+- Secara khusus, folder lama memiliki konvensi penamaan sendiri (nama folder hanya dapat ditemukan di paket beatmap *ancient*) dan tidak secara ketat mengikuti arus yang diberlakukan dengan format `{BeatmapSetID} {ArtistName} - {BeatmapName}`.
   - Mengunduh langsung dari situs web osu! Beatmaplist mengikuti format penamaan yang diterapkan saat ini.
