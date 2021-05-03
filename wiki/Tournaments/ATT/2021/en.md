@@ -125,6 +125,26 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 1 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Volta** ![][flag_ID] | **5** | 1 | ![][flag_SG] Element118 | [#1](https://osu.ppy.sh/community/matches/82234962) |
+| **Jerry** ![][flag_MY] | **5** | 0 | ![][flag_MY] nikolpai\_15 | [#1](https://osu.ppy.sh/community/matches/82255830) |
+| **Ponamis** ![][flag_TH] | **5** | 0 | ![][flag_PH] ezeenS | [#1](https://osu.ppy.sh/community/matches/82257768) |
+
+Sunday, 2 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Katdon\_donKat** ![][flag_ID] | **5** | 0 | ![][flag_ID] Naverlyn | [#1](https://osu.ppy.sh/community/matches/82277963) |
+| **misaki\_tk** ![][flag_ID] | **5** | 0 | ![][flag_PH] CoEqual | [#1](https://osu.ppy.sh/community/matches/82343068) |
+| jmeh07 ![][flag_PH] | 3 | **5** | ![][flag_PH] **Aiery** | [#1](https://osu.ppy.sh/community/matches/82346921) |
+| **tzechi** ![][flag_SG] | **5** | 3 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/82351619) |
+| **apaajaboleh10** ![][flag_ID] | **5** | 1 | ![][flag_SG] Prehistoria | [#1](https://osu.ppy.sh/community/matches/82353782) |
+
 ### Group Stage
 
 Saturday, 24 April 2021:
