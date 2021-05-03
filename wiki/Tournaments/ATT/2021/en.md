@@ -75,6 +75,31 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (78 MB)](https://mega.nz/file/Dnxw0RTI#2UC44Xg1Nbfd0-IucNmAOKECAd3n9YyU33ohWdTWFLI)**
+
+- NoMod
+  - [sky\_delta Feat.Kanata.N - Crystal Clear and Nothing (yassu-) \[Inner Oni (long ver)\]](https://osu.ppy.sh/beatmapsets/858136#taiko/1800886)
+  - [t+pazolite vs. P\*Light - IZANA (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1098381#taiko/2294846)
+  - [AZKi - Fake.Fake.Fake (WTHBRO) \[Heaxys' Oni\]](https://osu.ppy.sh/beatmapsets/1283761#taiko/2723322)
+  - [PSYQUI - Architect (Nifty) \[Brutalism\]](https://osu.ppy.sh/beatmapsets/874516#taiko/1827736)
+- Hidden
+  - [Erio wo kamatte-chan - Os-Uchujin (RM J-core Remix) (7\_7) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/736797#taiko/1554891)
+  - [Sewerslvt - inlove (Horiiizon) \[incompatible\]](https://osu.ppy.sh/beatmapsets/1311932#taiko/2719092)
+- HardRock
+  - [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Reol) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/167783#taiko/824509)
+  - [Zekk - Hatsukoi Memories (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690025#taiko/1460477)
+- DoubleTime
+  - [Vitamin C - Vacation (D3kuu) \[Happy oni\]](https://osu.ppy.sh/beatmapsets/1025990#taiko/2145737)
+  - [Tezuka x Qayo - NiNi (\_DUSK\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/1048248#taiko/2192546)
+- FreeMod
+  - [Sakura Miko,Shirakami Fubuki,Natsuiro Matsuri,Housyou Marine - Gimme ginmi virtua ru saikou star!!!! (Maimaing) \[Groovin Groovin Party!\]](https://osu.ppy.sh/beatmapsets/1423035#taiko/2930560)
+  - [Notorious - GIFT (7\_7) \[oni\]](https://osu.ppy.sh/beatmapsets/1300448#taiko/2697591)
+  - [PolyphonicBranch - Nijigen Dream Fever (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1410471#taiko/2907913)
+- Tiebreaker
+  - **[rejection - Signal feat. Such (Cychloryn) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1104277#taiko/2307668)**
+
 ### Round of 16
 
 **[Download the mappack here! (56 MB)](https://drive.google.com/file/d/1DksCzwr0ei44qIIdS-l7-grU5liRRkxb/view?usp=sharing)**
