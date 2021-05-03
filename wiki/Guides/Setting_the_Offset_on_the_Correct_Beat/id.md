@@ -2,21 +2,21 @@
 
 *[Tentang Offset Interval oleh Alace](https://osu.ppy.sh/community/forums/topics/20998)*
 
-Kebanyakan pemain osu! tidak begitu mahir di musik, jadi kita mempunyai masalah pada beberapa beatmap:
+Kebanyakan pemain osu! tidak begitu mahir dalam hal-hal yang berhubungan kental dengan musik, akibatnya kita mempunyai masalah pada beberapa beatmap:
 
 **Tanda white tick panjang tidak mengikuti awal bagian yang sebenarnya.**
 
 Divisor pertama pada suatu bagian adalah beat yang berat. Lihat contohnya.
 
-***lagu 4/4:***
+***Lagu 4/4:***
 
 **0** 0 0 0 **0** 0 0 0 **0** 0 0 0 **0** 0 0 0
 
-***lagu 3/4:***
+***Lagu 3/4:***
 
 **0** 0 0 **0** 0 0 **0** 0 0 **0** 0 0
 
-Dimana **0** adalah beat yang berat, jadi Kamu perlu mengatur offset di padanya.
+Dimana **0** adalah beat yang berat, jadi Kamu perlu mengatur offset padanya.
 
 BAIKLAH, mari kita lihat contoh pada sebuah ranked beatmap: [Toyosaki Aki - Miracle Happy Day](https://osu.ppy.sh/beatmapsets/11023)
 
