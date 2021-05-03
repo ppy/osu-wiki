@@ -14,7 +14,7 @@ Mode permainan pertama yang namanya didasarkan dari seri ouendan.
 
 ![Contoh alur permainan dari Osu! Tatakae! Ouendan di Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
 
-Ceritanya bisa dilihat di layar atas, dan lingkarannya bisa dilihat di layar bawah. Setiap level pada dasarnya adalah cerita pribadi tentang seseorang yang bermasalah. Di situlah *Ouendan* (Skuad Penyorak) masuk. Dengan kekuatan magis dari para pemandu sorak pria, pemain harus membantu orang yang mempunyai masalah.
+Circle gameplay bisa dilihat pada layar bawah dan cerita bisa dilihat pada layar atas. Dasarnya, setiap tahap cerita adalah kisah tentang seseorang yang bermasalah. Disaat itulah [*Ouendan*](/wiki/Ouendan) (pemandu sorak) datang. Melalui kekuatan magis pemandu sorak pria, pemain harus membantu orang-orang yang bermasalah.
 
 ## ![](/wiki/shared/mode/osu.png) Alur Permainan
 
