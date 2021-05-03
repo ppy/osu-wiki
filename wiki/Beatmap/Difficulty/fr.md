@@ -15,7 +15,7 @@ La **difficulté** d'une beatmap est un niveau de jeu, qui est stocké dans un f
 
 Les objets d'une difficulté composent des [motifs](/wiki/Beatmap/Pattern), qui varient également selon le mode de jeu et donnent l'aspect général dont une difficulté doit être jouée. La jouabilité des difficultés d'une beatmap peut également être modifiée par divers [paramètres de difficulté](/wiki/Beatmap_Editor/Song_Setup#difficulty) définis par l'auteur de la beatmap ou activés par des [modificateurs de jeu](/wiki/Game_modifier).
 
-Du point de vue auditif, une difficulté peut augmenter la musique en fournissant un ou plusieurs ensembles d'échantillons audio, ou [hitsounds] (/wiki/Beatmapping/Hitsound), qui servent de couche supplémentaire.
+Du point de vue auditif, une difficulté peut augmenter la musique en fournissant un ou plusieurs ensembles d'échantillons audio, ou [hitsounds](/wiki/Beatmapping/Hitsound), qui servent de couche supplémentaire.
 
 <!-- TODO: this description of visuals needs to be improved:
   - a separate section;
