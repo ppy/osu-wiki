@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Season 3: Spring 2021 & Applications"
-date: 2021-04-29 10:00:00 +0000
+date: 2021-05-03 10:00:00 +0000
 ---
 
 Spotlights rivals assemble! As many of you might've already known, the Winter Season 2021 is over, and we are finally here to announce the start of the **Spring Season** for 2021!
@@ -35,16 +35,16 @@ The applications will remain open for at least 2 weeks (ending at 13rd May 2021)
 | Event | Time |
 | :-- | :-- |
 | Season Start | Apr 29th, 2021 |
-| Timeshift Lobby: Playlist A | Apr 29th - May 6th, 2021 |
-| Timeshift Lobby: Playlist B | May 6th - May 13th, 2021 |
-| Timeshift Lobby: Playlist C | May 13th - May 20th, 2021 |
-| Timeshift Lobby: Playlist D | May 20th - May 27th, 2021 |
-| INTERMISSION | May 27th - Jun 3rd, 2021 |
-| Timeshift Lobby: Playlist A | Jun 3rd - Jun 10th, 2021 |
-| Timeshift Lobby: Playlist B | Jun 10th - Jun 17th, 2021 |
-| Timeshift Lobby: Playlist C | Jun 17th - Jun 24th, 2021 |
-| Timeshift Lobby: Playlist D | Jun 24th - Jul 1st, 2021 |
-| Season Conclusion | Jul 1st, 2021 |
+| Timeshift Lobby: Playlist A | May 3rd - May 10th, 2021 |
+| Timeshift Lobby: Playlist B | May 10th - May 17th, 2021 |
+| Timeshift Lobby: Playlist C | May 17th - May 24th, 2021 |
+| Timeshift Lobby: Playlist D | May 24th - May 31st, 2021 |
+| INTERMISSION | May 31st - Jun 7th, 2021 |
+| Timeshift Lobby: Playlist A | Jun 7th - Jun 14th, 2021 |
+| Timeshift Lobby: Playlist B | Jun 14th - Jun 21st, 2021 |
+| Timeshift Lobby: Playlist C | Jun 21st - Jun 28th, 2021 |
+| Timeshift Lobby: Playlist D | Jun 28th - Jul 5th, 2021 |
+| Season Conclusion | Jul 5th, 2021 |
 
 You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRap2yEiRfYPplKL0kt2SGx9WCxvlRLj2OKH9dqmTMpF_wzCTcyfpRyQBKM1P9tL_pNUa_6JTBX6acY/pubhtml).
 
