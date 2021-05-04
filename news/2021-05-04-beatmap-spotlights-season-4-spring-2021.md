@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Beatmap Spotlights Season 3: Spring 2021 & Applications"
-date: 2021-05-03 10:00:00 +0000
+title: "Beatmap Spotlights Season 4: Spring 2021 & Applications"
+date: 2021-05-04 01:45:00 +0000
 ---
 
 Spotlights rivals assemble! As many of you might've already known, the Winter Season 2021 is over, and we are finally here to announce the start of the **Spring Season** for 2021!
@@ -34,7 +34,7 @@ The applications will remain open for at least 2 weeks (ending at 13rd May 2021)
 
 | Event | Time |
 | :-- | :-- |
-| Season Start | Apr 29th, 2021 |
+| Season Start | May 3rd, 2021 |
 | Timeshift Lobby: Playlist A | May 3rd - May 10th, 2021 |
 | Timeshift Lobby: Playlist B | May 10th - May 17th, 2021 |
 | Timeshift Lobby: Playlist C | May 17th - May 24th, 2021 |
