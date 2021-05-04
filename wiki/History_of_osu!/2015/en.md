@@ -15,7 +15,7 @@ On 16 February 2015, storyboard rules were updated to allow image sizes larger t
 
 The first ever edition of osu!weekly was released on 13 March 2015. Written by [Tasha](https://osu.ppy.sh/users/1031958), osu!weekly positioned itself as "a weekly news digest covering the latest happenings of the game and its community" [[2]][r].
 
-The first ever osu! Beatmap Blueprint stickers were added to the [osu!store](https://osu.ppy.sh/store/listing) on 20 March 2015. The stickers came in two packs of 8.5" x 11" custom sticker sheets featuring such elements as hit circles, combo counters, sliders, and much more [[3]][r]. In celebration of the launch, a contest was run to see who could make the best [beatmap](/wiki/Beatmap) using the stickers, with a first place prize of an osu! tablet and osu! sticker sets 1 and 2. Despite this, the contest was cancelled due to a lack of submissions, and no follow-up regarding this was ever publicly stated at the time [[3,4]][r]. <!--price needed-->
+The first ever osu! Beatmap Blueprint stickers were added to the [osu!store](https://osu.ppy.sh/store/listing) on 20 March 2015. The stickers came in two packs of 8.5" x 11" custom sticker sheets featuring such elements as hit circles, combo counters, sliders, and much more [[3]][r]. In celebration of the launch, a contest was run to see who could make the best [beatmap](/wiki/Beatmap) using the stickers, with a first place prize of an osu! tablet and osu! sticker sets 1 and 2. Despite this, the contest was cancelled due to a lack of submissions, and no follow-up regarding this was ever publicly stated at the time [[3,4]][r].
 
 [Wii Remote](https://en.wikipedia.org/wiki/Wii_Remote "Wikipedia") support was added for [osu!taiko](/wiki/Game_mode/osu!taiko) on 26 March 2015 [[5]][r]. <!--changelog entry missing-->
 
@@ -79,11 +79,9 @@ In addition to this, an "open bounty" named "Mapping With Rewards" was created f
 
 Despite [promises from peppy on his blog](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015 "ppy blog"), however, the results for Mapping With Rewards were not posted by the end of the year.
 
-<!--I don't think we should be mentioning anything about future years in the history posts as I want to make the posts as seamless as possible so that we only have to update the current (previous) year and not go back and fix anything, thus im not mentioning any future competitions, nor am I mentioning the results of the competition, as they were announced in 2016 (delete before merge)-->
-
 ## October
 
-After months of work, a full migration from [DirectX](https://en.wikipedia.org/wiki/DirectX "Wikipedia") to [OpenGL](https://en.wikipedia.org/wiki/OpenGL "Wikipedia") graphics rendering was completed and pushed out to all users on the Stable release stream on 16 October 2015. However, users who were not able to run the new update due to compatibility issues were switched to a new release stream named "Stable (Fallback)", which used the old DirectX graphics rendering. It was meant to be continuously supported alongside the Stable release until the team felt confident enough in the compatibility of the OpenGL rendering for all users [[28,29,30,31,32]][r]. <!--not sure if we should elaborate on this more or not (delete before merge)-->
+After months of work, a full migration from [DirectX](https://en.wikipedia.org/wiki/DirectX "Wikipedia") to [OpenGL](https://en.wikipedia.org/wiki/OpenGL "Wikipedia") graphics rendering was completed and pushed out to all users on the Stable release stream on 16 October 2015. However, users who were not able to run the new update due to compatibility issues were switched to a new release stream named "Stable (Fallback)", which used the old DirectX graphics rendering. It was meant to be continuously supported alongside the Stable release until the team felt confident enough in the compatibility of the OpenGL rendering for all users [[28,29,30,31,32]][r].
 
 Another batch of official osu! songs were released by cYsmix on 27 October 2015, with a similar "open-bounty–style" contest being opened for it as well. The three songs were ["Fright March"](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu "SoundCloud"), ["Moonlight Sonata"](https://soundcloud.com/olemlanglie/cysmix-moonlight-sonata-osu "SoundCloud"), and ["Classic Pursuit"](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu "SoundCloud") [[33,34]][r].
 
@@ -93,7 +91,7 @@ Just like the [previous month's Mapping with Rewards contest](#september), the r
 
 The URL for the testing subdomain of the new osu! forums (jizz.ppy.sh) was replaced with new.ppy.sh on 26 October 2015 due to the explicit connotations that the old URL may have implied [[34,35]][r].
 
-The first and only batch of portable osu! install USB sticks (shown below) were first announced on 30 October 2015 on [peppy's blog](https://blog.ppy.sh/ "ppy blog"), showcasing the first images of their completely metal body design. At the time of announcement, they were slated for a December 2015 release [[34,36]][r]. <!--everything about this line is practically a guess; needs heavy scrutiny (delete before merge)-->
+The first and only batch of portable osu! install USB sticks (shown below) were first announced on 30 October 2015 on [peppy's blog](https://blog.ppy.sh/ "ppy blog"), showcasing the first images of their completely metal body design. At the time of announcement, they were slated for a December 2015 release [[34,36]][r].
 
 ![](img/osu-usb-stick.jpg "Front and back side of an osu! USB stick")
 
@@ -128,15 +126,6 @@ A few days later (19 November 2015), peppy updated users on the situation in [an
 > We have a lot of accounts to forcefully reset due to weak passwords, and due to limited support staff, will be staggering the “rollout” of these resets over the coming weeks.
 
 — peppy, "20151119" [[40]][r]
-
-<!--needs information regarding public opinion towards this change; section should aim to be as unbiased and neutral as possible-->
-
-<!--the names of some of the streamers and their take on this would be appreciated here-->
-
-<!--resources regarding the xsplit breach: 
-https://www.xsplit.com/blog/xsplit-password-reset-alert
-https://www.cyberinsurance.com/breaches/xsplit/
-https://haveibeenpwned.com/PwnedWebsites#XSplit -->
 
 ## References
 
