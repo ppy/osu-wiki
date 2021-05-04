@@ -8,7 +8,7 @@ Spotlights rivals assemble! As many of you might've already known, the Winter Se
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-With the new season lounch, there will be some changes regarding gameplay aspects, as well as communication related matters.
+With the new season launch, there will be some changes regarding gameplay aspects, as well as communication related matters.
 
 We are also, as in the previous season, seeking new team members so make sure to check out the **[seeking new curators](#applications)** section if you'd be interested in helping out in **osu!catch** or **osu!taiko**!
 
@@ -28,7 +28,7 @@ We are looking for members that are both willing and capable of making decent be
 
 **If you think you've got what it takes to be a part of Spotlights Team, don't hesitate and [apply today!](https://spotlights.team/app)**
 
-The applications will remain open for at least 2 weeks (ending at 13rd May 2021).
+The applications will remain open for at least 2 weeks (ending at 18th May 2021).
 
 ## Season schedule and leaderboards
 
