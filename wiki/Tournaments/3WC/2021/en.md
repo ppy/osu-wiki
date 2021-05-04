@@ -83,32 +83,56 @@ The 3 Digit World Cup is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Voss](https://osu.ppy.sh/users/7657761)**, [Rinnu](https://osu.ppy.sh/users/12179012), [majoreh](https://osu.ppy.sh/users/7959222), [Kingling](https://osu.ppy.sh/users/7010761), [Jemzsee](https://osu.ppy.sh/users/11553627), [Doomsday](https://osu.ppy.sh/users/18983) |
 | ![][flag_US] | **United States** | **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, [Exarch](https://osu.ppy.sh/users/5370153), [Apraxia](https://osu.ppy.sh/users/4194445), [Woey](https://osu.ppy.sh/users/3792472), [Flezlin](https://osu.ppy.sh/users/3696423), [Tekkito](https://osu.ppy.sh/users/7075211) |
 
-## Match schedule: Semifinals
+## Match schedule: Grand Finals
 
 This is likely to change as a result of reschedules. Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM/edit#gid=1909881276 "Google spreadsheet") for up-to-date match times.
 
-### Saturday, 24 April 2021
+### Saturday, 8 May 2021
 
 | Team A | Team B | Match time | Local time A | Local time B | |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| Countryless ![][flag_XX] | ![][flag_DE] Germany | **13:30 UTC** | 13:30 UTC+00 | 15:30 UTC+02 | ² |
-| Taiwan ![][flag_TW] | ![][flag_US] United States | **15:00 UTC** | 23:00 UTC+08 | 09:00 UTC-06 | ¹ |
-| Brazil ![][flag_BR] | ![][flag_PL] Poland | **16:30 UTC** | 13:30 UTC-03 | 18:30 UTC+02 | ² |
+| United States ![][flag_US] | ![][flag_PL] Poland | **18:00 UTC** | 12:00 UTC-06 | 20:00 UTC+02 | ¹ |
 
-### Sunday, 25 April 2021
+### Sunday, 9 May 2021
 
 | Team A | Team B | Match time | Local time A | Local time B | |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| Countryless ![][flag_XX] | ![][flag_BR] Brazil | **14:00 UTC** | 14:00 UTC+00 | 11:00 UTC-03 | ³ |
-| Countryless ![][flag_XX] | ![][flag_PL] Poland | **14:00 UTC** | 14:00 UTC+00 | 16:00 UTC+02 | ³ |
-| Germany ![][flag_DE] | ![][flag_BR] Brazil | **14:00 UTC** | 16:00 UTC+02 | 11:00 UTC-03 | ³ |
-| Germany ![][flag_DE] | ![][flag_PL] Poland | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 | ³ |
+| Taiwan ![][flag_TW] | ![][flag_US] United States | **03:00 UTC** | 11:00 UTC+08 | 21:00 UTC-06 | ² |
+| Taiwan ![][flag_TW] | ![][flag_PL] Poland | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 | ² |
 
-¹ Winner bracket encounter\
-² Loser bracket encounter\
-³ Encounter dependent on results of ² Loser bracket encounter
+¹ 3rd place encounter\
+² Encounter dependent on results of ¹ 3rd place encounter
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [nao - Toaru Shoukoku no Ohimesama ga... (Nana Abe) \[Hime Hime Collab\]](https://osu.ppy.sh/beatmapsets/1276409#osu/2651915)
+  - [Plum - Dustwind (knowledgeking) \[Hikuptah\]](https://osu.ppy.sh/beatmapsets/1450157#osu/2981463)
+  - [Imy - Meteora (Icekalt) \[Petal\]](https://osu.ppy.sh/beatmapsets/1129440#osu/2359478)
+  - [Getty vs. DJ DiA - Antifront Gears (Realazy) \[Assault\]](https://osu.ppy.sh/beatmapsets/1103463#osu/2305315)
+  - [cosMo@bousouP feat. Hatsune Miku, GUMI - Monochrome Voice (rollpan) \[Anti the "OJT" HOLIC\]](https://osu.ppy.sh/beatmapsets/1395882#osu/2881155)
+  - [xi - d e a t h p i a n o \~for four pianos\~ (Riana) \[Finale\]](https://osu.ppy.sh/beatmapsets/950606#osu/2507141)
+- Hidden
+  - [Yousei Teikoku - Kuusou Mesorogiwi (IsomirDiAngelo) \[Prophecy\]](https://osu.ppy.sh/beatmapsets/1260852#osu/2621030)
+  - [POLKADOT STINGRAY - Otoshimae (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1301330#osu/2699135)
+  - [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[Labyrinth of Steam\]](https://osu.ppy.sh/beatmapsets/1312079#osu/2719334)
+- HardRock
+  - [yuikonnu - caramel heaven (knowledgeking) \[Sweet Heaven\]](https://osu.ppy.sh/beatmapsets/1101604#osu/2301348)
+  - [linear ring - enchanted love (captin1) \[special\]](https://osu.ppy.sh/beatmapsets/1450161#osu/2981472)
+  - [onoken - K8107 (MaridiuS) \[Red Another\]](https://osu.ppy.sh/beatmapsets/807396#osu/1694521)
+- DoubleTime
+  - [la la larks - self (captin1) \[Insane\]](https://osu.ppy.sh/beatmapsets/646002#osu/1594070)
+  - [SOUND HOLIC vs. dj TAKA feat. YURiCa - TIEFSEE (celerih) \[Insane\]](https://osu.ppy.sh/beatmapsets/928646#osu/2248322)
+  - [Faylan - Mind as Judgment (miccoliasms) \[Impossible\]](https://osu.ppy.sh/beatmapsets/10192#osu/43666)
+  - [lapix - Horizon Blue feat. Kanata.N (Mir) \[Reform's Insane\]](https://osu.ppy.sh/beatmapsets/974832#osu/2062581)
+- FreeMod
+  - [Getty vs. DJ DiA - Ops:Code-Rapture- (Seolv) \[Ren's Eternal Warfare\]](https://osu.ppy.sh/beatmapsets/1341590#osu/2779114)
+  - [Zutto Mayonaka de Ii no ni. - Byoushin o Kamu (Natteke desu) \[Hareta Leila\]](https://osu.ppy.sh/beatmapsets/969520#osu/2028397)
+  - [Takanashi Yasuharu - Ketsudan no Toki (Mordred) \[Final Judgement\]](https://osu.ppy.sh/beatmapsets/1312098#osu/2719372)
+- Tiebreaker
+  - **[LeaF - Kyouki Ranbu (extended ver.) (My Angel Watame) \[Master\]](https://osu.ppy.sh/beatmapsets/1371373#osu/2835408)**
 
 ### Finals
 
@@ -244,6 +268,24 @@ This is likely to change as a result of reschedules. Check the [spreadsheet](htt
   - [Duca - Dreamer (timemon) \[Insane\]](https://osu.ppy.sh/beatmapsets/730660#osu/1542024)
 
 ## Match results
+
+### Finals
+
+The stats of the Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1957562667 "Google spreadsheet").
+
+Saturday, 1 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Countryless** ![][flag_XX] | **7** | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/82272039) |
+| **Taiwan** ![][flag_TW] | **7** | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/82282558) |
+| Brazil ![][flag_BR] | 6 | **7** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/82284291) |
+
+Sunday, 2 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Countryless ![][flag_XX] | 2 | **7** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/82360123) |
 
 ### Semifinals
 
