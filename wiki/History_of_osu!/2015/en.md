@@ -45,7 +45,7 @@ The osu!keyboard (also known as the "osu! 'nono' keyboard") was added to the osu
 
 ## June
 
-Implementation of the username change system in the osu!store was set live on 16 June 2015, although full functionality of the system was not available until 18 June 2015. The changes made it so that players must pay $4 USD for their first name change, $8 USD for their second, $16 USD for their third, after which the price would double with each succeeding purchase with a cap at $100 USD; however, if a user had bought an [osu!supporter tag](https://osu.ppy.sh/home/support), then their first change would be free [[16,17,18,19]][r].
+Implementation of the username change system in the osu!store was set live on 16 June 2015, although full functionality of the system was not available until 18 June 2015. The changes made it so that players had to pay $4 USD for their first name change, after which the price would double with each succeeding purchase with a cap at $100 USD; however, if a user bought an [osu!supporter tag](https://osu.ppy.sh/home/support), then their first change would be free [[16,17,18,19]][r].
 
 The ability to see what a replay would look like without [mods](/wiki/Game_modifier) was added on 23 June 2015 as per a [feature request](https://osu.ppy.sh/community/forums/topics/97560), although the change only made the mods [Double Time](/wiki/Game_modifier/Double_Time), [Half Time](/wiki/Game_modifier/Half_Time), and [Flashlight](/wiki/Game_modifier/Flashlight) togglable [[20]][r].
 
