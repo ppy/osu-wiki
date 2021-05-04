@@ -80,4 +80,5 @@ IRC 標準中有頻道模式的概念，也就是每位使用者能做的行為�
 使用遊戲內或網頁連接的使用者不會有前綴符號。
 
 ### 有人不在頻道用戶列表，但還是可以傳送訊息！
+
 他們是透過[網頁](https://osu.ppy.sh/community/chat)或是 [osu!lazer](https://github.com/ppy/osu "GitHub") 連接的。
