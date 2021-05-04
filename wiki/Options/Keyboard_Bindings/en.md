@@ -23,7 +23,6 @@ Here, you can change reassign keyboard keys with the listed actions.
 | Drum Rim (Left) | `Z` |
 | Drum Rim (Right) | `V` |
 
-
 ## Catch the Beat Mode
 
 | Name | Default |
@@ -102,9 +101,9 @@ Here, you can change reassign keyboard keys with the listed actions.
 | Audio Pause | `C` |
 | Jump to End | `V` |
 | Grid Size Change | `G` |
-| Add Timing Section | _(None)_ |
-| Add Inheriting Section | _(None)_ |
-| Remove Section | _(None)_ |
+| Add Timing Section | *(None)* |
+| Add Inheriting Section | *(None)* |
+| Remove Section | *(None)* |
 
 ## Mod Select
 
