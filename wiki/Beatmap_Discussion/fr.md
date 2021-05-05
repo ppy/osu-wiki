@@ -21,7 +21,7 @@ La **discussion de la beatmap** (aussi connu sous le nom de *Modding v2*) est un
 - Le champ de soumission
 - Les discussions
 
-Vous pouvez suivre nos images à partir de [cette beatmap] (https://osu.ppy.sh/beatmapsets/924551/discussion) pour vous familiariser avec la discussion de la beatmap ou essayer d'ouvrir une page de discussion vous-même !
+Vous pouvez suivre nos images à partir de [cette beatmap](https://osu.ppy.sh/beatmapsets/924551/discussion) pour vous familiariser avec la discussion de la beatmap ou essayer d'ouvrir une page de discussion vous-même !
 
 ## Démarrage rapide
 
@@ -121,7 +121,7 @@ Le mod se fait par le biais de trois onglets, qui séparent les messages de diff
 
 ![](img/submission-field-FR.png "Où les mods sont écrits.")
 
-Le champ de soumission est l'endroit où les [mods] (/wiki/Modding) sont écrits. Une fois écrit, le mod doit être soumis à la page de discussion. Cela peut être fait en appuyant sur l'un des trois boutons de type ; `Compliments`, `Suggestion` ou `Problème`.
+Le champ de soumission est l'endroit où les [mods](/wiki/Modding) sont écrits. Une fois écrit, le mod doit être soumis à la page de discussion. Cela peut être fait en appuyant sur l'un des trois boutons de type ; `Compliments`, `Suggestion` ou `Problème`.
 
 `Compliments` est utilisé pour les éloges et les encouragements. `Suggestion` est utilisé pour les messages qui ne sont pas directement en conflit avec les règles. `Problème` est utilisé pour les messages qui sont en conflit direct avec les [critères de classement](/wiki/Ranking_Criteria), ou qui sont considérés comme mauvais. Une fois le bouton pressé, le mod sera soumis à la page de discussion.
 
