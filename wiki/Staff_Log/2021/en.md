@@ -166,6 +166,7 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-28: Added [Wixonater](https://osu.ppy.sh/users/10083084) to **Project Loved Team**
 - 2021-04-28: Added [Alter-](https://osu.ppy.sh/users/4980256) to **Project Loved Team**
 - 2021-04-28: Removed [waywern2012](https://osu.ppy.sh/users/5870453) from **Project Loved Team**
+- 2021-04-28: Removed [Kaifin](https://osu.ppy.sh/users/2596942) from **Project Loved Team**
 - 2021-04-28: Added [RandomeLoL](https://osu.ppy.sh/users/7080063) to **Project Loved Team**
 - 2021-04-28: Added [Nikolayio](https://osu.ppy.sh/users/11279465) to **Project Loved Team**
 - 2021-04-28: Added [Komirin](https://osu.ppy.sh/users/4725379) to **Project Loved Team**
