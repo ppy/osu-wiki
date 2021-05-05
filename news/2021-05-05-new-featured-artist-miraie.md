@@ -50,7 +50,7 @@ Try playing [this osu! mapset](https://osu.ppy.sh/beatmapsets/1320542) hosted by
 
 ---
 
-Aiming to become one of osu!'s first hyperpop mappers? Head on down to [**miraie**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/162) and give mapping a stab with any of the pre-timed beatmap templates. We strongly starting with the song *feelings* for reasons you can figure out for yourself.
+Aiming to become one of osu!'s first hyperpop mappers? Head on down to [**miraie**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/162) and give mapping a stab with any of the pre-timed beatmap templates. We strongly reccomend starting with the song *feelings* for reasons you can figure out for yourself.
 
 Today's release is done and dusted, but if you're looking for more artists, we've got another scheduled for this upcoming Saturday! As per usual, news on that and whatever else we throw your way can be found on the  [@osugame Twitter](https://twitter.com/osugame).
 
