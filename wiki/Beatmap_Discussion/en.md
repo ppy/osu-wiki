@@ -35,7 +35,7 @@ It is important to keep a few things in mind to use beatmap discussion pages eff
 
 ## Mode selection
 
-![](img/mode-selection.jpg "Mode selection")
+![](img/mode-selection.png "Mode selection")
 
 Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This is only used with beatmaps that contain multiple game modes; otherwise, it will default to the mapped game mode.
 

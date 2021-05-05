@@ -34,7 +34,7 @@ Het is belangrijk om een paar dingen te onthouden zodat je de beatmapdiscussiepa
 
 ## Modusselectie
 
-![](img/mode-selection.jpg "Modusselectie")
+![](img/mode-selection.png "Modusselectie")
 
 Modusselectie verandert de [spelmodus](/wiki/Game_mode) waarvoor je modt. Het is enkel mogelijk om een bepaalde spelmodus te selecteren als de beatmapset een moeilijkheidsgraad heeft van die spelmodus. Dit wordt enkel gebruikt voor beatmaps die meerdere spelmodi bevatten; anders zal gewoon de spelmodus waarvoor gemapt werd gebruikt worden.
 
