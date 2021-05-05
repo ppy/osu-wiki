@@ -12,7 +12,7 @@ Those of us who grew up in the osu! neighbourhood may be more than familiar with
 
 Recently **miraie** has been exploring new territory. He's taken a deep dive into music production (beyond his infamous [Gucci Gucci Literature Club bootleg mashup](https://osu.ppy.sh/beatmapsets/723641)), most notably with success as a vocalist and producer in the *hyperpop* genre.
 
-**17** of these new songs are available from [**miraie**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/103), all prepped for you to start mapping!
+**17** of these new songs are available from [**miraie**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/162), all prepped for you to start mapping!
 
 Ever wondered how an osu! player thinks about music? Wonder no more since we interviewed **miraie** the other day about exactly that. Check it out and preview some of his stellar tracks below:
 
