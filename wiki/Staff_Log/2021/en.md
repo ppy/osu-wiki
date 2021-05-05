@@ -206,6 +206,8 @@ Abbreviations for user groups are used throughout this log:
 
 ## May
 
+### Beatmap Nominators
+
 #### Additions
 
 - 2021-05-04: Added [CallieCube](https://osu.ppy.sh/users/7535045) to **Probationary BN**
