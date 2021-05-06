@@ -9,7 +9,7 @@ tags:
 
 ## February
 
-On 16 February 2015, storyboard rules were updated to allow image sizes larger than 854x640. As  suggested by [Xgor](https://osu.ppy.sh/users/98661), the new maximum rankable image size for storyboards was updated to 1366x768 [[1,2]][r].
+On 16 February 2015, storyboard rules were updated to allow image sizes larger than 854x640. As suggested by [Xgor](https://osu.ppy.sh/users/98661), the new maximum rankable image size for storyboards was updated to 1366x768 [[1,2]][r].
 
 ## March
 
