@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contests: May 2021"
-date: 2021-05-07 08:00:00 +0000
+date: 2021-05-09 08:00:00 +0000
 ---
 
 Try your hand at this month's slow-slider-themed contest with a chance to become osu!'s next *Elite Mapper*!
@@ -44,7 +44,7 @@ Pretty straightforward, right? For those who'd rather not think, the default bas
 
 - All patterns on snaps faster than 1/2 must have an **even** number of notes.
 
-![](/wiki/shared/news/2021-05-07-monthly-beatmapping-contest-may-2021/taiko-examples.png)
+![](/wiki/shared/news/2021-05-09-monthly-beatmapping-contest-may-2021/taiko-examples.png)
 
 If you're brave enough to map anything other than a swing song with this limitation, we'll give them an honorary 0.01 MBC points for the attempt.
 
