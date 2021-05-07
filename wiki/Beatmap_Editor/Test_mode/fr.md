@@ -21,11 +21,11 @@ Jouer une beatmap en test mode diffère du jeu normal, car il ne soumet aucun sc
 - L'actuel [timestamp](/wiki/Modding/Timestamp) de la beatmap
 - Le [SB load](/wiki/Beatmap_editor/SB_load)
 - Le nombre total de 300s, 100s, 50s et de miss obtenus
-- Le pourcentage de hit qui sont mal placées
+- Le pourcentage de hit qui sont mal placés
 - Le délai moyen (en millisecondes) dans lequel les hits mal placés sont en retard
 - Le [star rating](/wiki/Beatmapping/Star_rating) de la beatmap  
 - La durée totale de lecture de la beatmap (en secondes)
-- Le combo maximum possible qu'un joueur peut réaliser sur la beatmap
+- Le combo maximum qu'un joueur peut réaliser sur la beatmap
 - Diverses commandes de raccourcis.
 
 Le mode test diffère également de la lecture standard d'une beatmap car il exige que les utilisateurs sauvegardent leur beatmap avant de le jouer, et permet aux utilisateurs de regarder la beatmap en "autoplay", qui joue la beatmap comme le ferait le mod [Auto](/wiki/Game_modifier/Auto).
