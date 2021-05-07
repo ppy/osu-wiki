@@ -32,7 +32,7 @@ The 1/2 snap divisor allows for hit objects to be placed on every *half beats* a
 
 The 1/3 snap divisor allows for hit objects to be placed on *triplets*, which is the third fraction of a beat and its multiples (e.g. 1/3 and 2/3). It is being represented by the purple-coloured ticks on the editor timeline.
 
-Although relatively rare, there are some songs and music genres out there (e.g. swing jazz) that are being assembled primarily in the 1/3 snap divisor.
+Although relatively rare, there are some songs and music genres out there (e.g. swing jazz) that are primarily utilizing this snap divisor throughout.
 
 ## 1/4 snap divisor
 
@@ -62,7 +62,7 @@ This snap divisor is extremely uncommon out there and should be used with extrem
 
 The 1/6 snap divisor allows for hit objects to be placed on *double triplets*, which is the sixth fraction of a beat and its multiples (e.g. 1/6 and 5/6). It is being represented by the purple-coloured ticks on the editor timeline.
 
-Although relatively rare, there are some songs and music genres out there (e.g. swing jazz) that are being assembled primarily in the 1/3 snap divisor.
+Although relatively rare, there are some songs and music genres out there (e.g. swing jazz) that are primarily utilizing this snap divisor throughout.
 
 ## 1/7 snap divisor
 
