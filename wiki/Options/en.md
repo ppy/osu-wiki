@@ -244,8 +244,8 @@ The master, music, and effect volume can be changed elsewhere by pressing `Alt` 
 | `Universal offset` | The offset (in milliseconds) that all beatmaps will use (in addition to the local offset). | Slider | `0ms` |
 | `Offset wizard` | Opens the offset wizard. | Button |  |
 
-- For details about the offset wizard, see [Offset Wizard](/wiki/Offset_Wizard).
-- For details on using the offset wizard, see [How to use Offset Wizard](/wiki/How_to_use_the_Offset_Wizard).
+- For details about the offset wizard, see [Offset Wizard](/wiki/Options/Offset_Wizard).
+- For details on using the offset wizard, see [How to use Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard).
 
 ## Skin
 
@@ -305,8 +305,8 @@ If you open the dropdown list for `Confine mouse cursor`, you will be presented 
 
 | Name | Description | Type |
 | :-- | :-- | :-- |
-| `Change keyboard bindings` | Displays a dialog which allows you to see or change your keyboard bindings. See [Keyboard Bindings](/wiki/Keyboard_Bindings) for more details. | Button |
-| `osu!mania layout` | Displays a dialog which allowws you to see or change your osu!mania bindings. See [osu!mania layout](/wiki/Game_mode/osu!mania) for more details. | Button |
+| `Change keyboard bindings` | Displays a dialog which allows you to see or change your keyboard bindings. See [Keyboard Bindings](/wiki/Options/Keyboard_Bindings) for more details. | Button |
+| `osu!mania layout` | Displays a dialog which allows you to see or change your osu!mania bindings. See [osu!mania layout](/wiki/Game_mode/osu!mania) for more details. | Button |
 
 ### Other
 
