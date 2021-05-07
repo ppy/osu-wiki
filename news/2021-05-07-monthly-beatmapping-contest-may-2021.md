@@ -76,7 +76,7 @@ Beatmap template download: [Short version](https://assets.ppy.sh/contests/127/os
 
 #### busy come, busy go (instrumental version) (270 BPM)
 
-Beatmap template download: [Short version](https://assets.ppy.sh/artists/136/The%20Game%20Changer/Masahiro%20Godspeed%20Aoki%20-%20busy%20come,%20busy%20go%20(instrumental%20version).osz) (2:15)
+Beatmap template download: [Short version](https://assets.ppy.sh/artists/136/The%20Game%20Changer/Masahiro%20Godspeed%20Aoki%20-%20busy%20come,%20busy%20go%20(instrumental%20version).osz) (1:52)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/136/The%20Game%20Changer/Masahiro%20Godspeed%20Aoki%20-%20busy%20come,%20busy%20go%20(instrumental%20version).mp3" type="audio/mpeg">
@@ -84,15 +84,12 @@ Beatmap template download: [Short version](https://assets.ppy.sh/artists/136/The
 
 ## Rules
 
-Breaking any of these rules will land you in MBC prison:
+Breaking any of these rules will land you in MBC prison. Submissions must...
 
 - **follow the month's [beatmapping limitation](#limitation) for the contest's mode:**
-    - **osu!:**
-        - Total slider velocity cannot be higher than 1.4
-    - **osu!taiko:**
-        - All patterns on snaps faster than 1/2 must have an **even** number of notes.
-    - **osu!mania:**
-        - Long notes cannot be used.
+    - **osu!:** Total slider velocity cannot be higher than 1.4
+    - **osu!taiko:** All patterns on snaps faster than 1/2 must have an **even** number of notes.
+    - **osu!mania:** Long notes cannot be used.
 - **be in `.osz` format.** Including a background image and custom hitsounds is fine, but skin/storyboard/video content will not be considered.
 - **be a single difficulty for one of the month's [selected songs](#songs).**
 - **not be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** All contest submissions are anonymous during the screening/judging phases to avoid bias. **DO NOT SHARE YOUR ENTRY!**
