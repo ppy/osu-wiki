@@ -50,8 +50,6 @@ Fortunately, there are a few ways to resolve this problem depending on which bra
 
 #### Using GitHub
 
-**Warning: This tool is experimental. While it was tested on most common cases, it may still break. If you encounter issues, please report it to the [osu-wiki issues board](https://github.com/ppy/osu-wiki/issues).**
-
 You'll need to run a GitHub workflow written by osu! wiki contributors.
 
 1. Open **your fork** and go to the `Actions` tab.

@@ -8,6 +8,13 @@ Submissions to this contest include the following elements:
 - Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria) (osu! only)
 - Storyboard or custom video
 
+## Links
+
+- [Contest listing](https://osu.ppy.sh/contests/115)
+- [Contest announcement](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love)
+- [Voting announcement](https://osu.ppy.sh/home/news/2021-03-26-a-labour-of-love-voting-open)
+- [Results summary](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love)
+
 ## Teams
 
 | Team name | Remixer(s) | Beatmapper(s) | Storyboard/video creator(s) | Entry |
@@ -99,7 +106,85 @@ Teams are encouraged tease their submissions in this contest prior to the result
 
 The following usage terms were provided by Kuba Oms: *The remixers can post their remixes on any and all social media, but they cannot sell, release, distribute, license or use the remixes for monetary gain without written consent from Kuba Oms.*
 
-<!-- ## Results -->
+## Results
+
+For more information on results, see the [detailed results overview](https://docs.google.com/spreadsheets/d/e/2PACX-1vTts0zpdjKdCUS3oCP4XZ18vh5ckEDqL_Jvy2eh0B4kC8je09bCGwYcpOWgjaXXy0251c3f33u7BDjv/pubhtml) and the [results summary](http://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love).
+
+### Musician panel
+
+| Rank | Team name |
+| :-- | :-- |
+| 1 | extremely valid |
+| 2 | Pentangle of Ambivalence |
+| 3 | Team Red but Blue |
+| 4 | Incoherent Sound |
+| 5 | Moyai |
+| 6 | schoolboy fans |
+| 7 | Daniel Gaming |
+| 8 | Lovers |
+| 9 | le fishe au chocolat |
+| 10 | humilde |
+| 11 | Dolbit Normalno |
+| 12 | Team Name |
+| 13 | Bowkutoly Encore |
+| 14 | Down |
+
+### Mapping panel
+
+| Rank | Team name |
+| :-- | :-- |
+| 1 | extremely valid |
+| 2 | Dolbit Normalno |
+| 3 | le fishe au chocolat |
+| 4 | Moyai |
+| 5 | schoolboy fans |
+| 6 | Pentangle of Ambivalence |
+| 7 | Incoherent Sound |
+| 8 | Team Red but Blue |
+| 9 | Lovers |
+| 10 | humilde |
+| 11 | Daniel Gaming |
+| 12 | Team Name |
+| 13 | Bowkutoly Encore |
+| 14 | Down |
+
+### Overall panel
+
+| Rank | Team name |
+| :-- | :-- |
+| 1 | extremely valid |
+| 2 | schoolboy fans |
+| 3 | Dolbit Normalno |
+| 4 | Incoherent Sound |
+| 5 | le fishe au chocolat |
+| 6 | Team Red but Blue |
+| 7 | Moyai |
+| 8 | Pentangle of Ambivalence |
+| 9 | Lovers |
+| 10 | Daniel Gaming |
+| 11 | humilde |
+| 12 | Team Name |
+| 13 | Bowkutoly Encore |
+| 14 | Down |
+
+### Community Vote
+
+| Rank | Team name | Total votes |
+| :-- | :-- | :-- |
+| 1 | Team Red but Blue | 1379 |
+| 2 | extremely valid | 1079 |
+| 3 | schoolboy fans | 1054 |
+| 4 | Pentangle of Ambivalence | 963 |
+| 5 | Dolbit Normalno | 843 |
+| 6 | Incoherent Sound | 833 |
+| 7 | le fishe au chocolat | 643 |
+| 8 | Moyai | 430 |
+| N/A | Lovers | N/A |
+| N/A | Daniel Gaming | N/A |
+| N/A | humilde | N/A |
+| N/A | Team Name | N/A |
+| N/A | Bowkutoly Encore | N/A |
+| N/A | Down | N/A |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
