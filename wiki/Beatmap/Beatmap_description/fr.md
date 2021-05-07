@@ -23,6 +23,6 @@ De nombreuses descriptions des beatmaps contiennent au moins une image (souvent 
 
 ### Sections de difficultés
 
-Une **section de difficulté** est une liste de toutes les difficultés des invités et de leurs créateurs située dans la description d'un beatmap. Elle est surtout utilisée pour présenter les difficultés d'une beatmap. Les sections de difficulté ont généralement des images pour les icônes.
+Une **section de difficulté** est une liste de toutes les difficultés des invités et de leurs créateurs située dans la description d'une beatmap. Elle est surtout utilisée pour présenter les difficultés d'une beatmap. Les sections de difficulté ont généralement des images pour les icônes.
 
 Les icônes des difficultés se trouvent dans l'article [difficulté](/wiki/Beatmap/Difficulty).
