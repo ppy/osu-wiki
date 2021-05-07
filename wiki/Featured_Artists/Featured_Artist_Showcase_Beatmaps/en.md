@@ -329,6 +329,13 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[2ToneDisco](https://osu.ppy.sh/home/news/2021-04-17-new-featured-artist-2tonedisco)** (2021-04-17)
   - (![][osu!]) [2ToneDisco x Kabuki - Giga](https://osu.ppy.sh/beatmapsets/1392421) hosted by ![][flag_CL] [Hazu-](https://osu.ppy.sh/users/4668230)
 
+### May
+
+- **[m108](https://osu.ppy.sh/home/news/2021-05-01-new-featured-artist-m108)** (2021-05-01)
+  - (![][osu!]) [m108 - Sunflower](https://osu.ppy.sh/beatmapsets/1403962) hosted by ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530)
+  - (![][osu!catch]) [m108 - XIII Charlotte](https://osu.ppy.sh/beatmapsets/1400205) hosted by ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071)
+  - (![][osu!mania]) [m108 - XIII Charlotte](https://osu.ppy.sh/beatmapsets/1366994) hosted by ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
+
 ## History
 
 Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
