@@ -31,7 +31,7 @@ Below are the limitations for this month!
 
 - Total slider velocity (SV) cannot be higher than **1.4**
 
-What's "total slider velocity"? It's not an official term, but we're talking about a map's **base SV** (set in the Timing tab of the editor) combined with any **SV multipliers** (green lines set in the F6 timing panel).
+What's "total slider velocity"? It's not an official term, but we're talking about a map's **base SV** (set in the Timing tab of the editor) combined with any **SV multipliers** (green lines set in the `F6` timing panel).
 
 So for example:
 
@@ -56,7 +56,7 @@ If you're brave enough to map anything other than a swing song with this limitat
 
 Each MBC provides beatmappers a choice between songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 
-This month's artist is guitar savant [**Masahiro "Godspeed" Aoki**](https://osu.ppy.sh/beatmaps/artists/121). These three songs are available for mapping in the osu!, osu!taiko, and osu!mania contests:
+This month's artist is guitar savant [**Masahiro "Godspeed" Aoki**](https://osu.ppy.sh/beatmaps/artists/136). These three songs are available for mapping in the osu!, osu!taiko, and osu!mania contests:
 
 #### Frostbite (188 BPM)
 
