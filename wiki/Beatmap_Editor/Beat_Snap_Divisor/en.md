@@ -108,6 +108,6 @@ This snap divisor is extremely uncommon out there and should be used with extrem
 
 ![1/16 snap divisor in the osu!mania editor](/wiki/shared/1_16_m.jpg "1/16 snap divisor in the osu!mania editor")
 
-The 1/16 snap divisor allows for hit objects to be placed on the sixteenth fraction of a beat and its multiples (e.g. 1/16, 3/16, 5/16, and so on). It is represented by  grey-coloured ticks on the editor timeline.
+The 1/16 snap divisor allows for hit objects to be placed on the sixteenth fraction of a beat and its multiples (e.g. 1/16, 3/16, 5/16, and so on). It is represented by grey-coloured ticks on the editor timeline.
 
 This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/16 snap divisor out of the blue, it is recommended for you to seek further advice from experienced mappers.
