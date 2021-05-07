@@ -4,21 +4,21 @@ title: "osu! World Cup 2021: Staff and Mapper Applications"
 date: 2021-05-07 16:00:00 +0000
 ---
 
-osu! World Cup 2021 may be over 5 months away, but already we are looking to prepare and plan ahead. For anyone who is interested in helping out behind the scenes -- read on to find out more!
+osu! World Cup 2021 may be over 5 months away, but we are already looking to prepare and plan ahead. For anyone who is interested in helping out behind the scenes -- read on to find out more!
 
 ![](/wiki/shared/news/banners/OWC_Master_Logo.png)
 
-Similar to last year we have multiple open positions for people to apply to. A few forms have been updated and revised, namely the Mappool Selector and the Mapper Application forms!
+Similar to last year, we have multiple open positions for people to apply to. A few forms have been updated and revised, namely the Mappool Selector and the Mapper Application forms, so please be sure to read through them thoroughly if you're interested in applying.
 
 ## osu! World Cup 2021
 
 ### Mappool Selector
 
-Mappool Selectors are often underappreciated, but here we recognise the value of experienced insight and acumen that go towards shaping the mappools.
+Mappool Selectors are often underappreciated, but here we recognise the value of experienced insight and acumen that goes toward shaping the very backbone of any good tournament.
 
-We are looking for individuals who, in addition to being able to quickly and critically evaluate key skillsets of maps, are also open to discussing and exploring new ideas through lengthy discourse.
+We are looking for individuals who in addition to being able to quickly and critically evaluate key skillsets of maps, are also open to discussing and exploring new ideas through lengthy discourse. If you're an experienced mapper, player or both with this kind of mindset, please consider applying.
 
-The responsibility and commitment is heavy for this role, but if you feel you have what it takes to be a Mappool Selector, then [apply here](https://forms.gle/wRZbUw8ysSkC7JrN9)!
+Be warned: the responsibility and commitment is heavy for this role, but if you feel you have what it takes to be a Mappool Selector, then [apply here](https://forms.gle/wRZbUw8ysSkC7JrN9)!
 
 ### Mapper for custom OWC maps
 
