@@ -34,6 +34,7 @@ Below are the limitations for this month!
 What's "total slider velocity"? It's not an official term, but we're talking about a map's **base SV** (set in the Timing tab of the editor) combined with any **SV multipliers** (green lines set in the F6 timing panel).
 
 So for example:
+
 - If base SV is **1.4**, SV multipliers can't be higher than **1x**. (1.4 x 1 = 1.4 "total SV")
 - If base SV is **2.8**, your multipliers can't be higher than **0.5x** (2.8 x 0.5 = 1.4 "total SV").
 
