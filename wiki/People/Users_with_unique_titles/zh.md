@@ -60,6 +60,7 @@ outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
 - ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106)
 - ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229)
 - ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+- ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612)
 - ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072)
 - ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174)
@@ -77,6 +78,7 @@ outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
 - ![][flag_FI] [PianoLuigi](https://osu.ppy.sh/users/9665915)
+- ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
 - ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883)
 - ![][flag_MY] [RyoKazuka](https://osu.ppy.sh/users/6258586)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
@@ -117,6 +119,7 @@ Aspire 作图大赛采用了 **Elite Mapper** 的特殊变体 **Elite Mapper: As
 osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)
+- ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
 
 ### 精选艺术家
 
@@ -137,6 +140,7 @@ osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 | ![][flag_JP] [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
+| ![][flag_MY] [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
@@ -172,6 +176,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 - ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
 - ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349)
+- ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231)
 - ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669)
 
 ### 与游戏相关
@@ -233,7 +238,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
 | ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229) | Elite Mapper |
 | ![][flag_US] [BigMoist10](https://osu.ppy.sh/users/20787676) | Featured Artist |
-| ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
+| ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer II |
 | ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | osu! Champion |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant / osu! Paragon |
 | ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | Featured Artist |
@@ -244,6 +249,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Elite Mapper |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) | Elite Mapper |
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | Featured Artist |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator II |
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
@@ -271,7 +277,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
 | ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824) | osu!mania Champion |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Mapper II |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Nominator II |
 | ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
 | ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
 | ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | Elite Mapper |
@@ -280,9 +286,9 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | osu!mania Champion |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | Elite Mapper |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Elite Mapper |
-| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Elite Nominator |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Elite Mapper II |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
+| ![][flag_MY] [Miraie](https://osu.ppy.sh/users/6483437) | Featured Artist |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Elite Nominator II |
@@ -302,6 +308,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506) | osu!catch Champion |
 | ![][flag_KR] [R-18](https://osu.ppy.sh/users/4637369) | osu!catch Champion |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
+| ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Elite Mapper |
 | ![][flag_BR] [Remu](https://osu.ppy.sh/users/8700468) | osu!mania Champion |
 | ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883) | Elite Mapper |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | osu!catch Champion |
@@ -311,7 +318,9 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | osu! Hall of Famer |
 | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) | osu!taiko Champion |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game |
+| ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574) | osu!mixer |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
+| ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Elite Storyboarder |
 | ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363) | osu!mania Champion |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | Elite Mapper |
 | ![][flag_US] [skymuted](https://osu.ppy.sh/users/7734050) | Featured Artist |
