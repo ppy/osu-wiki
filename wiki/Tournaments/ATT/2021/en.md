@@ -75,6 +75,31 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/1DksCzwr0ei44qIIdS-l7-grU5liRRkxb/view?usp=sharing)**
+
+- NoMod
+  - [sabi\_c - Class B (Maeda) \[Diff A\]](https://osu.ppy.sh/beatmapsets/1295205#taiko/2687456)
+  - [Digital Math - The Musky Thrust (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1153833#taiko/2408145)
+  - [doth - Toy Boxxxx (Sayaka-) \[Oni\]](https://osu.ppy.sh/beatmapsets/380854#taiko/833267)
+  - [tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix) (Myckoll) \[Myruki's Sweet\]](https://osu.ppy.sh/beatmapsets/724269#taiko/1529288)
+- Hidden
+  - [Sou - tontiki rantiki tin nomi kikou (nekomusya1234) \[Oni\]](https://osu.ppy.sh/beatmapsets/1313318#taiko/2721748)
+  - [Tatsh feat. Ayane - STARLIGHT TWILIGHT -GC edit- (ll-oscar) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/502704#taiko/1069808)
+- HardRock
+  - [Chicala Lpis - Blackest Luxury Car (tasuke912) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1098791#taiko/2295648)
+  - [MIMI feat. Hatsune Miku - Ai no Sukima (Rock Cover) (Hivie) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1096932#taiko/2292104)
+- DoubleTime
+  - [TUYU - Territory Battle (Jerry) \[Oni\]](https://osu.ppy.sh/beatmapsets/1363181#taiko/2820285)
+  - [Lena Raine - Pigstep (Fallmorph) \[Oni\]](https://osu.ppy.sh/beatmapsets/1162493#taiko/2424957)
+- FreeMod
+  - [REDALiCE - Masakari Blade (Kobayu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1238727#taiko/2575509)
+  - [otetsu - Minamo no Sakura, Yume wa Sakayume (hikikochan) \[Dreamless\]](https://osu.ppy.sh/beatmapsets/442068#taiko/950736)
+  - [Frums - 24eeev0-$ (Gamelan4) \[rubies87's Oni\]](https://osu.ppy.sh/beatmapsets/1111340#taiko/2331733)
+- Tiebreaker
+  - **[Camellia - Quaoar (Nepuri) \[Transneptunian\]](https://osu.ppy.sh/beatmapsets/931741#taiko/1945451)**
+
 ### Group Stage
 
 **[Download the mappack here! (53 MB)](https://drive.google.com/file/d/1_9FfeVHDMf3fMae8ZxMMWkrEESVETm-r/view?usp=sharing)**
@@ -97,6 +122,84 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
   - [t+pazolite - Our Wrenally (Uncut Edition) (komasy) \[Oni\]](https://osu.ppy.sh/beatmapsets/892110#taiko/1864987)
 - Tiebreaker
   - **[Venetian Snares - Epidermis (Horiiizon) \[HiroK's Oni\]](https://osu.ppy.sh/beatmapsets/1262133#taiko/2663673)**
+
+## Match results
+
+### Group Stage
+
+Saturday, 24 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **apaajaboleh10** ![][flag_ID] | **4** | 1 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/81653293) |
+| **Jerry** ![][flag_MY] | **4** | 3 | ![][flag_PH] Aiery | [#1](https://osu.ppy.sh/community/matches/81653228) |
+| **CoEqual** ![][flag_PH] | **0** | -1 | ![][flag_PH] Astrid Park | *win by default* |
+| **Volta** ![][flag_ID] | **4** | 0 | ![][flag_PH] ezeenS | [#1](https://osu.ppy.sh/community/matches/81661181) |
+| DescriptiCringe ![][flag_PH] | 0 | **4** | ![][flag_NZ] **Bwhaa** | [#1](https://osu.ppy.sh/community/matches/81665715) |
+| **Ponamis** ![][flag_TH] | **4** | 1 | ![][flag_SG] Element118 | [#1](https://osu.ppy.sh/community/matches/81656430) |
+| AmateurMonkeyYT ![][flag_AU] | 1 | **4** | ![][flag_MY] **vun** | [#1](https://osu.ppy.sh/community/matches/81657502) |
+| Naverlyn ![][flag_ID] | 0 | **4** | ![][flag_SG] **tzechi** | [#1](https://osu.ppy.sh/community/matches/81657634) |
+| ConieSan ![][flag_TH] | 1 | **4** | ![][flag_PH] qish | [#1](https://osu.ppy.sh/community/matches/81657906) |
+| Beat43210 ![][flag_AU] | -1 | **0** | ![][flag_NZ] **arley\_** | *win by default* |
+| **Tsubasa2** ![][flag_AU] | **0** | -1 | ![][flag_PH] Astrid Park | *win by default* |
+| Bedwyr Aorta ![][flag_MY] | 3 | **4** | ![][flag_MY] **nikolpai\_15** | [#1](https://osu.ppy.sh/community/matches/81659814) |
+| **Aiery** ![][flag_PH] | **4** | 0 | ![][flag_MY] CrabCow | [#1](https://osu.ppy.sh/community/matches/81660028) |
+| **Ponamis** ![][flag_TH] | **4** | 0 | ![][flag_SG] dantoh000 | [#1](https://osu.ppy.sh/community/matches/81660953) |
+| **Naverlyn** ![][flag_ID] | **4** | 0 | ![][flag_MY] TaikOseania | [#1](https://osu.ppy.sh/community/matches/81661153) |
+| **Jerry** ![][flag_MY] | **4** | 0 | ![][flag_TH] KappuChinooo | [#1](https://osu.ppy.sh/community/matches/81662208) |
+| **Prehistoria** ![][flag_SG] | **0** | -1 | ![][flag_NZ] arley\_ | *win by default* |
+| **Kotaro** ![][flag_PH] | **4** | 0 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/81662982) |
+| Tsubasa2 ![][flag_AU] | 3 | **4** | ![][flag_PH] **CoEqual** | [#1](https://osu.ppy.sh/community/matches/81663047) |
+| **ezeenS** ![][flag_PH] | **4** | 2 | ![][flag_PH] DescriptiCringe | [#1](https://osu.ppy.sh/community/matches/81664069) |
+| **Element118** ![][flag_SG] | **4** | 0 | ![][flag_AU] AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/81664398) |
+| **tzechi** ![][flag_SG] | **4** | 0 | ![][flag_TH] ConieSan | [#1](https://osu.ppy.sh/community/matches/81665397) |
+| **Prehistoria** ![][flag_SG] | **0** | -1 | ![][flag_AU] Beat43210 | *win by default* |
+| **jmeh07** ![][flag_PH] | 0 | -1 | ![][flag_SG] Bobfree | *win by default* |
+| **Element118** ![][flag_SG] | **4** | 3 | ![][flag_SG] dantoh000 | [#1](https://osu.ppy.sh/community/matches/81667577) |
+| **tzechi** ![][flag_SG] | **4** | 0 | ![][flag_MY] TaikOseania | [#1](https://osu.ppy.sh/community/matches/81667594) |
+| **Prehistoria** ![][flag_SG] | **0** | -1 | ![][flag_SG] \_gt | *win by default* |
+
+Sunday, 25 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Katdon\_donKat** ![][flag_ID] | **0** | -1 | ![][flag_PH] Kotaro | *win by default* |
+| **Naverlyn** ![][flag_ID] | **4** | 0 | ![][flag_TH] ConieSan | [#1](https://osu.ppy.sh/community/matches/81682418) |
+| **Aiery** ![][flag_PH] | **4** | 0 | ![][flag_TH] KappuChinooo | [#1](https://osu.ppy.sh/community/matches/81682450) |
+| r1chyy ![][flag_AU] | 0 | **4** | ![][flag_ID] **Katdon\_donKat** | [#1](https://osu.ppy.sh/community/matches/81681284) |
+| **Katdon\_donKat** | **4** | 0 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/81732057) |
+| **Jerry** ![][flag_MY] | **4** | 1 | ![][flag_MY] CrabCow | [#1](https://osu.ppy.sh/community/matches/81742310) |
+| **apaajaboleh10** ![][flag_ID] | **4** | 0 | ![][flag_PH] CoEqual | [#1](https://osu.ppy.sh/community/matches/81741418) |
+| **r1chyy** ![][flag_AU] | **4** | 2 | ![][flag_PH] Kotaro | [#1](https://osu.ppy.sh/community/matches/81743719) |
+| **Volta** ![][flag_ID] | **4** | 0 | ![][flag_PH] DescriptiCringe | [#1](https://osu.ppy.sh/community/matches/81744585) |
+| **Jerry** ![][flag_MY] | **0** | -1 | ![][flag_SG] kuudere-desu | *win by default* |
+| **ezeenS** ![][flag_PH] | **4** | 1 | ![][flag_NZ] Bwhaa | [#1](https://osu.ppy.sh/community/matches/81744609) |
+| Bobfree ![][flag_SG] | -1 | **0** | ![][flag_MY] Bedwyr Aorta | *win by default* |
+| **misaki\_tk** ![][flag_ID] | **4** | 1 | ![][flag_SG] \_gt | [#1](https://osu.ppy.sh/community/matches/81745778) |
+| **Element118** ![][flag_SG] | **4** | 1 | ![][flag_MY] vun | [#1](https://osu.ppy.sh/community/matches/81746378) |
+| **tzechi** ![][flag_SG] | **4** | 0 | ![][flag_PH] qish | [#1](https://osu.ppy.sh/community/matches/81746400) |
+| **misaki\_tk** ![][flag_ID] | **0** | -1 | ![][flag_AU] Beat43210 | *win by default* |
+| **jmeh07** ![][flag_PH] | **4** | 0 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/81747164) |
+| **Ponamis** ![][flag_TH] | **4** | 1 | ![][flag_AU] AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/81747688) |
+| **CrabCow** ![][flag_MY] | **4** | 2 | ![][flag_SG] kuudere-desu | [#1](https://osu.ppy.sh/community/matches/81747808) |
+| **misaki\_tk** ![][flag_ID] | **4** | 0 | ![][flag_NZ] arley\_ | [#1](https://osu.ppy.sh/community/matches/81749321) |
+| **Naverlyn** ![][flag_ID] | **4** | 2 | ![][flag_PH] qish | [#1](https://osu.ppy.sh/community/matches/81749317) |
+| AmateurMonkeyYT ![][flag_AU] | 1 | **4** | ![][flag_SG] **dantoh000** | [#1](https://osu.ppy.sh/community/matches/81749901) |
+| **ConieSan** ![][flag_TH] | **4** | 0 | ![][flag_MY] TaikOseania | [#1](https://osu.ppy.sh/community/matches/81749363) |
+| Beat43210 ![][flag_AU] | -1 | **0** | ![][flag_SG] **\_gt** | *win by default* |
+| **Aiery** ![][flag_PH] | **4** | 0 | ![][flag_SG] kuudere-desu | [#1](https://osu.ppy.sh/community/matches/81749384) |
+| **CrabCow** ![][flag_MY] | **4** | 1 | ![][flag_TH] KappuChinooo | [#1](https://osu.ppy.sh/community/matches/81750811) |
+| **misaki\_tk** ![][flag_ID] | **4** | 2 | ![][flag_SG] Prehistoria | [#1](https://osu.ppy.sh/community/matches/81750774) |
+| **nikolpai\_15** ![][flag_MY] | 0 | -1 | ![][flag_SG] Bobfree | *win by default* |
+| **r1chyy** ![][flag_AU] | **4** | 1 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/81752028) |
+| **apaajaboleh10** ![][flag_ID] | **0** | -1 | ![][flag_PH] Astrid Park | *win by default* |
+| **jmeh07** ![][flag_PH] | **4** | 0 | ![][flag_MY] nikolpai\_15 | [#1](https://osu.ppy.sh/community/matches/81753776) |
+| **Ponamis** ![][flag_TH] | **4** | 1 | ![][flag_MY] vun | [#1](https://osu.ppy.sh/community/matches/81752573) |
+| **arley\_** ![][flag_NZ] | **4** | 3 | ![][flag_SG] \_gt | [#1](https://osu.ppy.sh/community/matches/81753509) |
+| **vun** ![][flag_MY] | **4** | 1 | ![][flag_SG] dantoh000 | [#1](https://osu.ppy.sh/community/matches/81755826) |
+| **qish** ![][flag_PH] | **4** | 0 | ![][flag_MY] TaikOseania | [#1](https://osu.ppy.sh/community/matches/81756549) |
+| **Volta** ![][flag_ID] | **4** | 0 | ![][flag_NZ] Bwhaa | [#1](https://osu.ppy.sh/community/matches/81759925) |
+| kuudere-desu ![][flag_SG] | -1 | **0** | ![][flag_TH] **KappuChinooo** | *win by default* |
 
 ## Ruleset
 
@@ -128,9 +231,10 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 #### Tournament structure
 
 1. Seeding is based off of the player's ranking; there will be four seed categories and every player will fit into one of these depending on their total osu!taiko pp compared to the rest of the players. Groups for the Group Stage will be groups of four, where each player is from a different seed category (this may change depending on the number of participants).
-2. 5 points to win the match in the Group Stage.
-3. 6 points to win the match in the Round of 16 and Quarterfinals.
-4. 7 points to win the match in Semifinals and Finals.
+2. 4 points to win the match in the Group Stage.
+3. 5 points to win the match in the Round of 16.
+4. 6 points to win the match in the Quarterfinals and the Semifinals.
+5. 7 points to win the match in the Finals.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
