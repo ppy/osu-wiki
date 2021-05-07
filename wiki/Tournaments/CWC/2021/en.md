@@ -94,17 +94,17 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
-| Indonesia ![][flag_ID] | ![][flag_RU] Russian Federation | **10:00 UTC** | 17:00 UTC+07 | 13:00 UTC+03 |
-| China ![][flag_CN] | ![][flag_IT] Italy | **11:30 UTC** | 19:30 UTC+08 | 13:30 UTC+02 |
 | Australia ![][flag_AU] | ![][flag_KR] South Korea | **13:00 UTC** | 23:00 UTC+10 | 22:00 UTC+09 |
+| China ![][flag_CN] | ![][flag_IT] Italy | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
 
 ### Sunday, 9 May 2021
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
 | Finland ![][flag_FI] | ![][flag_PH] Philippines | **10:00 UTC** | 13:00 UTC+03 | 18:00 UTC+08 |
-| France ![][flag_FR] | ![][flag_TW] Taiwan | **11:30 UTC** | 13:30 UTC+02 | 19:30 UTC+08 |
+| France ![][flag_FR] | ![][flag_TW] Taiwan | **12:30 UTC** | 14:30 UTC+02 | 20:30 UTC+08 |
 | Hong Kong ![][flag_HK] | ![][flag_PL] Poland | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Indonesia ![][flag_ID] | ![][flag_RU] Russian Federation | **14:30 UTC** | 21:30 UTC+07 | 17:30 UTC+03 |
 | Germany ![][flag_DE] | ![][flag_CL] Chile | **18:30 UTC** | 20:30 UTC+02 | 14:30 UTC-04 |
 | United States ![][flag_US] | ![][flag_CA] Canada | **20:00 UTC** | 16:00 UTC-04 | 15:00 UTC-05 |
 
