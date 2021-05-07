@@ -27,7 +27,7 @@ We have two goals here at MBC headquarters: to create mapping contests every mon
 
 Below are the limitations for this month!
 
-**[osu! MBC](LINK) limitations:**
+**[osu! MBC](https://osu.ppy.sh/community/contests/127) limitations:**
 
 - Total slider velocity (SV) cannot be higher than **1.4**
 
@@ -40,7 +40,7 @@ So for example:
 
 Pretty straightforward, right? For those who'd rather not think, the default base SV is 1.4, so don't touch that and only use SV multipliers below 1x. You'll be fine.
 
-**[osu!taiko MBC](LINK) limitation:**
+**[osu!taiko MBC](https://osu.ppy.sh/community/contests/128) limitation:**
 
 - All patterns on snaps faster than 1/2 must have an **even** number of notes.
 
@@ -48,7 +48,7 @@ Pretty straightforward, right? For those who'd rather not think, the default bas
 
 If you're brave enough to map anything other than a swing song with this limitation, we'll give them an honorary 0.01 MBC points for the attempt.
 
-**[osu!mania MBC](LINK) limitation:**
+**[osu!mania MBC](https://osu.ppy.sh/community/contests/129) limitation:**
 
 - Long notes cannot be used.
 
@@ -60,7 +60,7 @@ This month's artist is guitar savant [**Masahiro "Godspeed" Aoki**](https://osu.
 
 #### Frostbite (188 BPM)
 
-Beatmap template download: [Short version](LINK) (1:47) / [Full version](https://assets.ppy.sh/artists/136/Veiled/Masahiro%20Godspeed%20Aoki%20-%20Frostbite.mp3) (3:49)
+Beatmap template download: [Short version](https://assets.ppy.sh/contests/127/osz/Masahiro_Godspeed_Aoki_-_Frostbite_Cut_Ver..osz) (1:47) / [Full version](https://assets.ppy.sh/artists/136/Veiled/Masahiro%20Godspeed%20Aoki%20-%20Frostbite.mp3) (3:49)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/136/Veiled/Masahiro%20Godspeed%20Aoki%20-%20Frostbite.mp3">
@@ -68,7 +68,7 @@ Beatmap template download: [Short version](LINK) (1:47) / [Full version](https:/
 
 #### The Game Changer (280 BPM)
 
-Beatmap template download: [Short version](LINK) (2:24) / [Full version](https://assets.ppy.sh/artists/136/Songs/Masahiro%20Godspeed%20Aoki%20-%20The%20Game%20Changer.mp3) (3:44)
+Beatmap template download: [Short version](https://assets.ppy.sh/contests/127/osz/Masahiro_Godspeed_Aoki_-_The_Game_Changer_Cut_Ver..osz) (2:24) / [Full version](https://assets.ppy.sh/artists/136/Songs/Masahiro%20Godspeed%20Aoki%20-%20The%20Game%20Changer.mp3) (3:44)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/136/Songs/Masahiro%20Godspeed%20Aoki%20-%20The%20Game%20Changer.mp3" type="audio/mpeg">
@@ -103,9 +103,9 @@ Breaking any of these rules will land you in MBC prison:
 
 You've got a bit under **3 weeks** to prepare your masterpiece of a map! Once it's ready, head over to the relevant contest listing to submit:
 
-- [osu! contest listing](LINK)
-- [osu!taiko contest listing](LINK)
-- [osu!mania contest listing](LINK)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/127)
+- [osu!taiko contest listing](https://osu.ppy.sh/community/contests/128)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/129)
 
 Results for April's contest are coming up in a few weeks!
 
