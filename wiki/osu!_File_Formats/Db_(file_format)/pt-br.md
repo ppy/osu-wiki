@@ -5,7 +5,7 @@ Arquivos **.db** são arquivos binários usados pelo osu! para guardar várias i
 Eles podem ser geralmente encontrados no diretório de instalação do osu!:
 
 - Windows: `%localappdata%\osu!`
-- Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
+- macOS: `/Applications/osu!.app/Contents/Resources/drive_c/osu!/`
 
 Atualmente os únicos são osu!.db, scores.db, collection.db, e presence.db.
 

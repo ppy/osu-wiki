@@ -58,6 +58,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 - **A [beatmapset host](/wiki/Beatmap/Beatmap_host) cannot indicate possession in a difficulty's name.** (e.g. Beatmapset Host's Insane). Conflicts caused by beatmapping multiple songs with the same metadata and [collaborative difficulties](/wiki/Beatmap/Beatmap_collaborations) are the only exceptions. [Guest difficulties](/wiki/Beatmap/Guest_difficulty), however, may indicate possession with its creators' username or nickname.
 - **A [beatmapset host](/wiki/Beatmap/Beatmap_host) must have beatmapped equal or more difficulties than any [guest difficulty](/wiki/Beatmap/Guest_difficulty) creator.** This is to provide credit where credit is due. [Collaborative difficulties](/wiki/Beatmap/Beatmap_collaborations) are only considered partial difficulties, and [drain time](/wiki/Gameplay/Drain_time) will be used to determine the amount of contribution when a guest has beatmapped significantly more than the host.
 - **A [beatmapset host](/wiki/Beatmap/Beatmap_host) and [guest difficulty](/wiki/Beatmap/Guest_difficulty) creators can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the beatmapset host must delete the guest contribution upon request. If a guest difficulty creator cannot be contacted for a month, they will be assumed to agree with any changes.
+- **Beatmapsets cannot contain significant portions of difficulties belonging to other users without their explicit involvement or permission.**
 
 ### Guidelines
 
