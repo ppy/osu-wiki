@@ -7,7 +7,7 @@ tags:
 
 ![FL4T logo](img/logo.jpg)
 
-The **osu!mania Flashlight 4K Tournament** (***FL4T***) is a 1v1 osu!mania 4-key tournament hosted by ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) and ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895). All beatmaps in the tournament will be played under Flashlight mod only. It is the first installment of the osu!mania Flashlight 4K Tournament.
+The **osu!mania Flashlight 4K Tournament** (***FL4T***) was a 1v1 osu!mania 4-key tournament hosted by ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) and ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895). All beatmaps in the tournament was played under Flashlight mod only. It was the first installment of the osu!mania Flashlight 4K Tournament.
 
 ## Tournament schedule
 
@@ -29,9 +29,11 @@ The **osu!mania Flashlight 4K Tournament** (***FL4T***) is a 1v1 osu!mania 4-key
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.jpg "FL4T winner badge")
+
 ## Organisation
 
-The osu!mania Flashlight 4K Tournament is run by various community members.
+The osu!mania Flashlight 4K Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -47,11 +49,11 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1215742)
-- [FL4T Discord server](https://discord.gg/3py8gHy)
-- [Livestream](https://www.twitch.tv/osu_FL4T)
-- [Mappool suggestion form](https://forms.gle/xqgrJhUbQrfBwNvR6)
-- [Staff application form](https://forms.gle/qQBVRFvQKjqBG53e8)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing)**
+- [FL4T Discord server](https://discord.gg/3py8gHy "Discord")
+- [Livestream](https://www.twitch.tv/osu_FL4T "Twitch")
+- [Challonge bracket](https://challonge.com/osu_FL4T1 "Challonge")
+- [Livestream VOD archive](https://www.youtube.com/channel/UC-3KbBtjS9ymQ46ZW1lHxIQ "Youtube Channel")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing "Google Docs")**
 
 ## Participants
 
@@ -74,6 +76,16 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 | **F** | ![][flag_DE] [LastExceed](https://osu.ppy.sh/users/6232245) | ![][flag_US] [\[GS\]Teo](https://osu.ppy.sh/users/7081478) | ![][flag_FR] [CharlisMadCut](https://osu.ppy.sh/users/2863607) | ![][flag_ID] [Fr05tyGD](https://osu.ppy.sh/users/14230684) |
 | **G** | ![][flag_PH] [- l e j -](https://osu.ppy.sh/users/6413944) | ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531) | ![][flag_FR] [Babibelbleu](https://osu.ppy.sh/users/16892459) | ![][flag_PH] [Tensai422](https://osu.ppy.sh/users/12688477) |
 | **H** | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) | ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132) | ![][flag_TH] [IjustLuvBanana](https://osu.ppy.sh/users/16011592) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [- l e j -](https://osu.ppy.sh/users/6413944) |
 
 ## Mappools
 
@@ -213,6 +225,20 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 - Hybrid: [PSYQUI - Endless (Mameyudoufu Remix) (HowToPlayLN) \[Stage 4: Divergence\]](https://osu.ppy.sh/beatmapsets/1362356#mania/2818760)
 
 ## Match results
+
+### Finals week 2
+
+Saturday, 21 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| - l e j - ![][flag_PH] | 1 | **7** | ![][flag_GB] **TingMomentum** | [#1](https://osu.ppy.sh/community/matches/78553676) |
+
+Sunday, 22 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **andreymc** ![][flag_BR] | **7** | 2 | ![][flag_GB] TingMomentum | [#1](https://osu.ppy.sh/community/matches/78677718) |
 
 ### Finals week 1
 
@@ -357,8 +383,8 @@ Sunday, 14 February 2021:
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing)
-- Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
-- All players passed the qualifiers and will enter the Group Stage with following seedings:
+- Average rank was determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
+- All players passed the qualifiers and entered the Group Stage with following seedings:
   - Seed #1 - Seed #8 will be named as Top seed
   - Seed #9 - Seed #16 will be named as High seed
   - Seed #17 - Seed #24 will be named as Low seed
