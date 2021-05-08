@@ -119,7 +119,7 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
   - [TUYU - Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante (banter) \[Extra\]](https://osu.ppy.sh/beatmapsets/1246152#fruits/2597330)
   - [K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla (Sylas) \[PRESTIGE\]](https://osu.ppy.sh/beatmapsets/1246543#fruits/2590943)
 - Hidden
-  - [Raito - False Infinite Parallel (JierYagtama) \[Hollow Night IWEX\]]()
+  - [Raito - False Infinite Parallel (JierYagtama) \[Hollow Night IWEX\]](https://osu.ppy.sh/beatmapsets/1450769#fruits/2982696)
   - [40mP - Dandan Hayaku Naru (F D Flourite) \[Dandan\]](https://osu.ppy.sh/beatmapsets/1450388#fruits/2981944)
   - [Chaos City Niigata - Ukiyoe Yokochou (Otosaka-Yu) \[nika mika's Sanbanchou Another\]](https://osu.ppy.sh/beatmapsets/713506#fruits/1566637)
 - HardRock
