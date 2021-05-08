@@ -95,7 +95,7 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 | Message | Explication | Solution |
 | :-- | :-- | :-- |
 | L'image d'arrière-plan est plus grande que 2560x1440. | *Auto-explicatif* | Redimensionnez ou remplacez l'image de fond. |
-| Cette map doit faire l'objet d'une mise en garde contre l'épilepsie, car elle contient des storyboards qui bouge fréquemment. | Les éléments du storyboard changent très rapidement. | Activez l'option `Afficher l'avertissement d'épilepsie (le storyboard a un stroboscope rapide)` dans l'onglet Design du menu [sont setup] (/wiki/Beatmap_Editor/Song_Setup). |
+| Cette map doit faire l'objet d'une mise en garde contre l'épilepsie, car elle contient des storyboards qui bouge fréquemment. | Les éléments du storyboard changent très rapidement. | Activez l'option `Afficher l'avertissement d'épilepsie (le storyboard a un stroboscope rapide)` dans l'onglet Design du menu [sont setup](/wiki/Beatmap_Editor/Song_Setup). |
 | <!-- Not sure how to test this one -->Les dimensions de {0} doivent être {1}x{1}. |  |  |
 | Les dimensions de votre vidéo ne doivent pas dépasser 1024x768 pour le format 4:3. | *Auto-explicatif* | Redimensionnez ou remplacez la vidéo de fond. |
 | Les dimensions de votre vidéo ne doivent pas dépasser 1280x720 pour le format 16:9. | *Auto-explicatif* | Redimensionnez ou remplacez la vidéo de fond. |
