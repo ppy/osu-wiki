@@ -8,11 +8,11 @@ We're proud to boost **Reku Mochizuki** into the Featured Artist lineup!
 
 ![](https://assets.ppy.sh/artists/163/header.jpg)
 
-Illustrating some of the rhythm gaming scene's finest talent in recent years, **Reku Mochizuki** is a Japanese composer and producer with roots in doujin music culture. With inspiration directly drawing from other rhythm game composers, the power behind his works resonates with players worldwide, as seen through his countless features in other rhythm games like *Dynamix*, *RAVON*, and *Muse Dash*.
+Illustrating some of the rhythm gaming scene's finest talent in recent years, **Reku Mochizuki** is a Japanese composer and producer with roots in doujin music culture. Taking inspiration directly from other rhythm game composers, the power behind his works resonates with players worldwide, as seen through his countless features in other rhythm games like *Dynamix*, *RAVON*, and *Muse Dash*.
 
 We've hand-picked **12** tracks for your mapping needs, all standing at the perfect game-size 2 minute mark and up for grabs on [**Reku Mochizuki**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/163).
 
-Since **Reku Mochizuki** is a relatively new face to osu!, folks from the [Mappers' Guild](/wiki/Mappers_Guild) set up a batch of [showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) for you to experience this sound for yourself. Check those out below or watch the mapper [Yugu](https://osu.ppy.sh/users/3161834)'s hydralic pressed sliders on his map of [*Yorixiro*](https://osu.ppy.sh/beatmapsets/1438879):
+Since **Reku Mochizuki** is a relatively new face to osu!, folks from the [Mappers' Guild](/wiki/Mappers_Guild) set up a batch of [showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) for you to experience this sound for yourself. Check those out below or watch the mapper [Yugu](https://osu.ppy.sh/users/3161834)'s hydraulic pressed sliders on his map of [*Yorixiro*](https://osu.ppy.sh/beatmapsets/1438879):
 
 <div align="center">
     <video width="95%" controls>
@@ -22,7 +22,7 @@ Since **Reku Mochizuki** is a relatively new face to osu!, folks from the [Mappe
 
 ### Yorixiro
 
-Play [the osu! map in the video above](https://osu.ppy.sh/beatmapsets/1438879) by [Yugu](https://osu.ppy.sh/users/3161834) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1397782) by [duski](https://osu.ppy.sh/users/6506484)!
+Play [the osu! mapset in the video above](https://osu.ppy.sh/beatmapsets/1438879) by [Yugu](https://osu.ppy.sh/users/3161834) or [this osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1397782) by [duski](https://osu.ppy.sh/users/6506484)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
@@ -30,7 +30,7 @@ Play [the osu! map in the video above](https://osu.ppy.sh/beatmapsets/1438879) b
 
 ### Falseimager
 
-Or try [this osu! map](https://osu.ppy.sh/beatmapsets/1398967) hosted by [Peter](https://osu.ppy.sh/users/8623835)!
+Or try [this osu! mapset](https://osu.ppy.sh/beatmapsets/1398967) hosted by [Peter](https://osu.ppy.sh/users/8623835)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
@@ -38,7 +38,7 @@ Or try [this osu! map](https://osu.ppy.sh/beatmapsets/1398967) hosted by [Peter]
 
 ### VEZZELiX
 
-Maybe [another osu!taiko map](https://osu.ppy.sh/beatmapsets/1406171) hosted by [Idealism](https://osu.ppy.sh/users/3869519) is also worth a try!
+Maybe [another osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1406171) hosted by [Idealism](https://osu.ppy.sh/users/3869519) is also worth a try!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
