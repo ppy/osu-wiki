@@ -34,7 +34,6 @@ The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko 
 ![image](https://user-images.githubusercontent.com/30021847/117518638-7b181e00-af98-11eb-8771-32a243ea78f1.png "TWC 2021 winner badge") ![image](https://user-images.githubusercontent.com/30021847/117518656-8ff4b180-af98-11eb-98e5-541283fca1bc.png "TWC 2021 2nd Place badge")
 ![image](https://user-images.githubusercontent.com/30021847/117518661-97b45600-af98-11eb-9c4a-285d05fecef6.png "TWC 2021 3rd Place badge")
 
-
 ## Organisation
 
 The osu!taiko World Cup 2021 was run by various community members.
