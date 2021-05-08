@@ -10,12 +10,12 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 
 ## Onglets
 
-- **All:** Rassemble les éléments des autres onglets.
-- **Compose:** Ces problèmes sont généralement dus au placement des objets. Vous devrez peut-être cocher la case "Check distance snap" pour que ces avertissements apparaissent (car ces vérifications peuvent provoquer un décalage, en fonction de la taille/longueur de la beatmap).
-- **Design:** Ces problèmes concernent généralement certains aspects de l'interface, comme l'arrière-plan, les storyboards, etc.
-- **Timing:** Lorsque ces problèmes apparaissent, vérifiez la timeline car un élément est probablement mal placé.
-- **Meta:** Lorsque ces problèmes apparaissent, vérifiez le song setup.
-- **Mapset:** Ces problèmes affectent la map dans son ensemble.
+- **All :** Rassemble les éléments des autres onglets.
+- **Compose :** Ces problèmes sont généralement dus au placement des objets. Vous devrez peut-être cocher la case "Check distance snap" pour que ces avertissements apparaissent (car ces vérifications peuvent provoquer un décalage, en fonction de la taille/longueur de la beatmap).
+- **Design :** Ces problèmes concernent généralement certains aspects de l'interface, comme l'arrière-plan, les storyboards, etc.
+- **Timing :** Lorsque ces problèmes apparaissent, vérifiez la timeline car un élément est probablement mal placé.
+- **Meta :** Lorsque ces problèmes apparaissent, vérifiez le song setup.
+- **Mapset :** Ces problèmes affectent la map dans son ensemble.
 
 ## Messages
 
@@ -29,7 +29,7 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 | :-- | :-- | :-- |
 | Aucun problème détecté ! | AiMod n'a trouvé aucun problème avec votre map ! | Vous pourriez télécharger votre beatmap en utilisant BSS pour permettre aux moddeurs de trouver d'autres erreurs et problèmes avec votre beatmap. |
 
-#### Méta
+#### Meta
 
 | Message | Explication | Solution |
 | :-- | :-- | :-- |
