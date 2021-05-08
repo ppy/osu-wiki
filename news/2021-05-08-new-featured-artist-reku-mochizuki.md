@@ -25,7 +25,7 @@ Since **Reku Mochizuki** is a relatively new face to osu!, folks from the [Mappe
 Play [the osu! mapset in the video above](https://osu.ppy.sh/beatmapsets/1438879) by [Yugu](https://osu.ppy.sh/users/3161834) or [this osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1397782) by [duski](https://osu.ppy.sh/users/6506484)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/163/Songs/Reku%20Mochizuki%20-%20Yorixiro.mp3" type="audio/mpeg">
 </audio>
 
 ### Falseimager
@@ -33,7 +33,7 @@ Play [the osu! mapset in the video above](https://osu.ppy.sh/beatmapsets/1438879
 Or try [this osu! mapset](https://osu.ppy.sh/beatmapsets/1398967) hosted by [Peter](https://osu.ppy.sh/users/8623835)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/163/Songs/Reku%20Mochizuki%20-%20Falseimager.mp3" type="audio/mpeg">
 </audio>
 
 ### VEZZELiX
@@ -41,7 +41,7 @@ Or try [this osu! mapset](https://osu.ppy.sh/beatmapsets/1398967) hosted by [Pet
 Maybe [another osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1406171) hosted by [Idealism](https://osu.ppy.sh/users/3869519) is also worth a try!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/163/VEZZELiX/Reku%20Mochizuki%20-%20VEZZELiX.mp3" type="audio/mpeg">
 </audio>
 
 ---
