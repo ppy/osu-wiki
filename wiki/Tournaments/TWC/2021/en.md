@@ -31,8 +31,7 @@ The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
-![image](https://user-images.githubusercontent.com/30021847/117518638-7b181e00-af98-11eb-8771-32a243ea78f1.png "TWC 2021 winner badge") ![image](https://user-images.githubusercontent.com/30021847/117518656-8ff4b180-af98-11eb-98e5-541283fca1bc.png "TWC 2021 2nd Place badge")
-![image](https://user-images.githubusercontent.com/30021847/117518661-97b45600-af98-11eb-9c4a-285d05fecef6.png "TWC 2021 3rd Place badge")
+![](img/badge1.png "TWC 2021 winner badge") ![](img/badge2.png "TWC 2021 2nd place badge") ![](img/badge3.png "TWC 2021 3rd place badge")
 
 ## Organisation
 
@@ -91,7 +90,7 @@ The osu!taiko World Cup 2021 was run by various community members.
 | ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [cheese salad](https://osu.ppy.sh/users/6349821), [R J](https://osu.ppy.sh/users/6490509), [3san](https://osu.ppy.sh/users/8050850), [ChurroChef](https://osu.ppy.sh/users/9258564) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [-BunZ-](https://osu.ppy.sh/users/7556673), [SaraSoul](https://osu.ppy.sh/users/13493346) |
 
-![TWC 2021 Podium](https://user-images.githubusercontent.com/30021847/117518465-bc5bfe00-af97-11eb-886b-bdee59a4f91b.png)
+![TWC 2021 podium](img/podium.png)
 
 ## Mappools
 
