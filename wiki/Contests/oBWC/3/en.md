@@ -49,8 +49,8 @@ The osu! Beatmapping World Championship is run by various community members.
 | :-- | :-- |
 | Host | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909), ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | Web manager | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
-| Mapper judge | *To be announced* |
-| Player judge | *To be announced* |
+| Mapper judge | ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970), ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334), ![][flag_TH] [Electoz](https://osu.ppy.sh/users/6485263), ![][flag_RU] [fergas](https://osu.ppy.sh/users/3144542), ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269), ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830), ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ![][flag_DE] [sdafsf](https://osu.ppy.sh/users/3523418), ![][flag_RS] [Seolv](https://osu.ppy.sh/users/8067876), ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) |
+| Player judge | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_UA] [Ayla](https://osu.ppy.sh/users/4548264), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133), ![][flag_US] [saiyo](https://osu.ppy.sh/users/2709574) |
 | Designer | ![][flag_CA] [Kaetwo](https://osu.ppy.sh/users/1997719) |
 | Statistician | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
 | Wiki editor | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
@@ -142,9 +142,17 @@ Yes, many of the contest-related events will be broadcasted on our Twitch channe
 
 Your entry will be taken into consideration by the Players' Pick judges even if your team was eliminated in the regular contest. Consider the Players' Pick as a sort of side category that has its own leaderboard.
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
