@@ -60,7 +60,7 @@ This month's artist is guitar savant [**Masahiro "Godspeed" Aoki**](https://osu.
 
 #### Frostbite (188 BPM)
 
-Beatmap template download: [Short version](https://assets.ppy.sh/contests/127/osz/Masahiro_Godspeed_Aoki_-_Frostbite_Cut_Ver..osz) (1:47) / [Full version](https://assets.ppy.sh/artists/136/Veiled/Masahiro%20Godspeed%20Aoki%20-%20Frostbite.mp3) (3:49)
+Beatmap template download: [Short version](https://assets.ppy.sh/contests/127/osz/Masahiro_Godspeed_Aoki_-_Frostbite_Cut_Ver..osz) (1:47) / [Full version](https://assets.ppy.sh/artists/136/Veiled/Masahiro%20Godspeed%20Aoki%20-%20Frostbite.osz) (3:49)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/136/Veiled/Masahiro%20Godspeed%20Aoki%20-%20Frostbite.mp3">
@@ -68,7 +68,7 @@ Beatmap template download: [Short version](https://assets.ppy.sh/contests/127/os
 
 #### The Game Changer (280 BPM)
 
-Beatmap template download: [Short version](https://assets.ppy.sh/contests/127/osz/Masahiro_Godspeed_Aoki_-_The_Game_Changer_Cut_Ver..osz) (2:24) / [Full version](https://assets.ppy.sh/artists/136/Songs/Masahiro%20Godspeed%20Aoki%20-%20The%20Game%20Changer.mp3) (3:44)
+Beatmap template download: [Short version](https://assets.ppy.sh/contests/127/osz/Masahiro_Godspeed_Aoki_-_The_Game_Changer_Cut_Ver..osz) (2:24) / [Full version](https://assets.ppy.sh/artists/136/Songs/Masahiro%20Godspeed%20Aoki%20-%20The%20Game%20Changer.osz) (3:44)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/136/Songs/Masahiro%20Godspeed%20Aoki%20-%20The%20Game%20Changer.mp3" type="audio/mpeg">
