@@ -88,7 +88,7 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 
 ### Au centre à gauche (Sélecteur)
 
-![Sélecteur de notes](img/BE_HO.jpg "Sélecteur de notes")
+![Sélecteur de notes](img/BE_HO-FR.png "Sélecteur de notes")
 
 **Votre boîte à outils de construction, faite pour vous**
 
@@ -115,7 +115,7 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 
 **Liste des sous-outils disponibles en complément de la boîte à outils originale.**
 
-![Hitsounds & Outils d'assistance](img/BE_HSAT.jpg "Hitsounds & Outils d'assistance")
+![Hitsounds & Outils d'assistance](img/BE_HSAT-FR.png "Hitsounds & Outils d'assistance")
 
 | Bouton (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
@@ -196,7 +196,7 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 
 - L'ajout d'un clap sur une note ne jouera que le son `hitclap` au lieu du son `hitclap` + `hitnormal` lors de la frappe dans osu!mania :
 
-![Sélecteur de notes (osu!mania)](img/BEM_HO.jpg "Sélecteur de notes (osu!mania)")
+![Sélecteur de notes (osu!mania)](img/BEM_HO-FR.png "Sélecteur de notes (osu!mania)")
 
 #### Sélecteur
 
