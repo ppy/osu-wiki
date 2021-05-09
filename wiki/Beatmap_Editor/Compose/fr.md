@@ -289,6 +289,7 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Lock Notes (`L`) | ("Select" sur une note) **Clic gauche :** Verrouiller cette note | Verrouille la note sélectionnée à la position et à l'horodatage actuels. |
 
 Pour **keysound** (ajout de SE sur les hitnotes), sélectionnez la note et **`Alt` + Clic gauche** sur la note sélectionnée (une fenêtre pop-up s'affichera avec des échantillons sonores dans votre dossier beatmap). Référez vous à [L'échantillonnage](#L'échantillonnage)
+
 ### En bas (Timeline de la chanson)
 
 ![Timeline de la chanson](/wiki/shared/BE_STL.jpg "Timeline de la chanson")
