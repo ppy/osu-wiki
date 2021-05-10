@@ -220,9 +220,11 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-01: Moved [gevbiivi5](https://osu.ppy.sh/users/7140680) from **Probationary BN** to **BN**
 - 2021-04-01: Moved [VINXIS](https://osu.ppy.sh/users/4323406) from **Probationary BN** to **BN**
 - 2021-04-01: Moved [AJT](https://osu.ppy.sh/users/3181083) from **Probationary BN** to **BN**
+- 2021-04-11: Moved [Xahlt](https://osu.ppy.sh/users/13466351) from **Probationary BN** to **BN**
+- 2021-04-11: Moved [rosario wknd](https://osu.ppy.sh/users/6341518) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2021-04-09: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **BN**
 
-<!-- last update: 2021-05-10 01:00 UTC removed ulqui from bn -->
+<!-- last update: 2021-05-12 00:00 UTC moved rosario wknd to full bn -->
