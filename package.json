@@ -6,7 +6,7 @@
     "dependencies": {
         "remark": "^13.0.0",
         "remark-cli": "^9.0.0",
-        "remark-frontmatter": "2.0.0",
+        "remark-frontmatter": "^3.0.0",
         "remark-lint-definition-case": "2.0.0",
         "remark-lint-fenced-code-flag": "2.0.0",
         "remark-lint-final-definition": "2.0.0",
