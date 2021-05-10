@@ -75,6 +75,31 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+- NoMod
+  - [katagiri - #2wise4u (maguro869) \[#magur0\]](https://osu.ppy.sh/beatmapsets/995928#taiko/2083254)
+  - [DJHASH1M0T0KANNA - BangB00gie (7\_7) \[YuniNana Boogie\]](https://osu.ppy.sh/beatmapsets/1079552#taiko/2258650)
+  - [Hatsune Miku - Talent Shredder (toara\_fict) \[Oni\]](https://osu.ppy.sh/beatmapsets/537044#taiko/1138147)
+  - [KOTONOHOUSE - Labyrinth (Nifty) \[Black Sail\]](https://osu.ppy.sh/beatmapsets/1386801#taiko/2864592)
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690344#taiko/1461118)
+- Hidden
+  - [BilliumMoto - four veiled stars (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/972301#taiko/2084704)
+  - [lapix feat. Luschel - Cranberry City (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1133066#taiko/2366551)
+- HardRock
+  - [braven - Nyctophobia (HEKUSODASU) \[KUSOni\]](https://osu.ppy.sh/beatmapsets/1291170#taiko/2680127)
+  - [Mrs. GREEN APPLE - Samama Festival! (katagiri bootleg) (KTYN) \[KTYN's Festival! (BPM225)\]](https://osu.ppy.sh/beatmapsets/1220204#taiko/2538385)
+- DoubleTime
+  - [MAX COVERI - RUNNING IN THE 90'S (Default Guy) \[Retro Oni\]](https://osu.ppy.sh/beatmapsets/1369915#taiko/2832591)
+  - [Ono Hideyuki - sola (Mapper 31) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/131347#taiko/330848)
+  - [Sakuzyo - Eater Merry (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1097688#taiko/2293612)
+- FreeMod
+  - [sky_delta - Kreuz (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/844081#taiko/1765808)
+  - [Hyphen - ^/7(L|?\[_(L+#<>+&|^(o) (\[Zeth\]) \[Faceless\]](https://osu.ppy.sh/beatmapsets/732250#taiko/1545035)
+  - [Sakuzyo - Lie (komasy) \[False\]](https://osu.ppy.sh/beatmapsets/920188#taiko/1921771)
+- Tiebreaker
+  - **[t+pazolite vs RoughSketch - GRK Spice (tpz Overheat Remix) (Backfire) \[Taikocalypse DX\]](https://osu.ppy.sh/beatmapsets/799203#taiko/1678044)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (78 MB)](https://mega.nz/file/Dnxw0RTI#2UC44Xg1Nbfd0-IucNmAOKECAd3n9YyU33ohWdTWFLI)**
