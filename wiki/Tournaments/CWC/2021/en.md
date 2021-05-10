@@ -96,6 +96,7 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | --: | :-- | :-: | :-: | :-: |
 | Hong Kong ![][flag_HK] | ![][flag_CN] China | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
 | Finland ![][flag_FI] | ![][flag_ID] Indonesia | **14:30 UTC** | 17:30 UTC+03 | 21:30 UTC+07 |
+| Poland ![][flag_PL] | ![][flag_IT] Italy | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
 
 ### Sunday, 16 May 2021
 
@@ -106,7 +107,6 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | Australia ![][flag_AU] | ![][flag_DE] Germany | **12:30 UTC** | 22:30 UTC+010 | 14:30 UTC+02 |
 | Philippines ![][flag_PH] | ![][flag_RU] Russian Federation | **14:00 UTC** | 22:00 UTC+08 | 17:00 UTC+03 |
 | United States ![][flag_US] | ![][flag_FR] France | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
-| Poland ![][flag_PL] | ![][flag_IT] Italy | **18:30 UTC** | 20:30 UTC+02 | 20:30 UTC+02 |
 
 ## Mappools
 
