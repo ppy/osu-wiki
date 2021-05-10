@@ -223,6 +223,6 @@ Abbreviations for user groups are used throughout this log:
 
 #### Removals
 
-- 2021-04-02: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **BN**
+- 2021-04-09: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **BN**
 
-<!-- last update: 2021-05-10 01:00 UTC added callmelyra to probo bn -->
+<!-- last update: 2021-05-10 01:00 UTC removed ulqui from bn -->
