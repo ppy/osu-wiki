@@ -3,6 +3,7 @@ stub: true
 tags:
   - downbeats
   - first beat
+no_native_review: true
 ---
 
 # 下拍
