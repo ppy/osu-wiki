@@ -212,12 +212,17 @@ Abbreviations for user groups are used throughout this log:
 #### Additions
 
 - 2021-05-04: Added [CallieCube](https://osu.ppy.sh/users/7535045) to **Probationary BN**
+- 2021-05-06: Added [CallMeLyra](https://osu.ppy.sh/users/15272997) to **Probationary BN**
 
 #### Moves
 
 - 2021-04-01: Moved [Horiiizon](https://osu.ppy.sh/users/8071438) from **Probationary BN** to **BN**
 - 2021-04-01: Moved [gevbiivi5](https://osu.ppy.sh/users/7140680) from **Probationary BN** to **BN**
 - 2021-04-01: Moved [VINXIS](https://osu.ppy.sh/users/4323406) from **Probationary BN** to **BN**
-- 2021-04-01: Moved [Smoke](https://osu.ppy.sh/users/3181083) from **Probationary BN** to **BN**
+- 2021-04-01: Moved [AJT](https://osu.ppy.sh/users/3181083) from **Probationary BN** to **BN**
 
-<!-- last update: 2021-05-05 00:00 UTC added calliecube to probo bn -->
+#### Removals
+
+- 2021-04-02: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **BN**
+
+<!-- last update: 2021-05-10 01:00 UTC added callmelyra to probo bn -->
