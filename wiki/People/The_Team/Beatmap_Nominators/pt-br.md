@@ -136,7 +136,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Francês |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Alemão, Sérvio |
-| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Espanhol |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Alemão, um pouco de Francês |
 
 #### osu!catch
@@ -196,6 +195,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ![][flag_FI] [-Aku](https://osu.ppy.sh/users/12315824) | Finlandês |
+| ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
 
 #### osu!catch
 

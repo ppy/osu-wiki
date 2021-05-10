@@ -136,7 +136,6 @@ tags:
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | ฝรั่งเศส |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | เยอรมัน, เซอร์เบีย |
-| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | สเปน |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | เยอรมัน, ฝรั่งเศส บ้าง |
 
 #### osu!catch
@@ -196,6 +195,7 @@ tags:
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ![][flag_FI] [-Aku](https://osu.ppy.sh/users/12315824) | ฟินแลนด์ |
+| ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
 
 #### osu!catch
 
