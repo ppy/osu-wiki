@@ -4,8 +4,8 @@
     "description": "home of the osu! wiki",
     "repository": "github:ppy/osu-wiki",
     "dependencies": {
-        "remark": "12.0.0",
-        "remark-cli": "8.0.0",
+        "remark": "^13.0.0",
+        "remark-cli": "^9.0.0",
         "remark-frontmatter": "2.0.0",
         "remark-lint-definition-case": "2.0.0",
         "remark-lint-fenced-code-flag": "2.0.0",
