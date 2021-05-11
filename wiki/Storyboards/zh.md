@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 故事板
 
 ![](img/Sbpassing.png "这种场景只有在你游戏时得到“完美的300分”才会出现。")
