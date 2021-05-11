@@ -14,14 +14,14 @@ Jika Kamu adalah pendatang baru di osu! wiki, Kamu dapat membaca lebih lanjut di
 
 Untuk menjaga keamanan hub komunitas resmi, osu! memiliki tim moderasi khusus yang memantau forum dan obrolan online sepanjang waktu.
 
-Untungnya, masih mudah bagi Kamu untuk membantu menjaga semuanya tetap aman. Berikut ini sebagian kecil dari banyak cara yang dapat Kamu lakukan untuk membantu:
+Untungnya, masih mudah bagi Kamu untuk membantu menjaga semuanya tetap aman. Berikut ini adalah sebagian kecil dari banyak cara yang dapat Kamu lakukan untuk membantu:
 
 - Ikuti kanal favorit Kamu di [obrolan osu! dalam gim](/wiki/Chat_Console), atau di forum.
 - Jika Kamu melihat suatu peristiwa yang tidak pantas atau mengganggu, gunakan perintah `!report` dalam obrolan dalam osu! untuk memberi tahu moderator.
 
 ## Bantu anggota komunitas lainnya
 
-Jika Kamu menemui seseorang yang memiliki masalah dengan osu!, bantulah mereka! Apakah itu masalah pada driver, pertanyaan beatmap, atau pertanyaan gameplay, jika Kamu dapat menjawabnya, Kamu dapat membantu orang tersebut memecahkan masalah mereka.
+Jika Kamu menemui seseorang yang memiliki masalah dengan osu!, bantulah mereka! Apakah itu masalah pada driver, pertanyaan seputar beatmap, atau pertanyaan seputar gameplay, jika Kamu dapat menjawabnya, Kamu dapat membantu orang tersebut memecahkan masalah mereka.
 
 Secara garis besar, berikut ini beberapa cara Kamu dapat membantu orang lain:
 
@@ -36,7 +36,7 @@ Secara garis besar, berikut ini beberapa cara Kamu dapat membantu orang lain:
 
 ## Bantu memeriksa/modding beatmap!
 
-osu! memiliki tim peninjau yang berdedikasi untuk memeriksa apakah beatmap-beatmap siap untuk dipindahkan ke bagian peringkat dan dimainkan oleh semua orang. Kamu juga dapat ikut berkontribusi di sektor ini:
+osu! memiliki tim peninjau yang berdedikasi untuk memeriksa apakah beatmap-beatmap siap untuk dipindahkan ke bagian peringkat dan dimainkan oleh semua orang. Kamu juga dapat ikut berkontribusi pada sektor ini:
 
 - Lihat atau cari daftar [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) untuk artis atau lagu yang Kamu suka dan/atau ingin Kamu kontribusikan.
 - Mainkan beatmap [Pending atau Work-in-progress](/wiki/Beatmap/Category#work-in-progress-and-pending) dan tinggalkan umpan balik di utas diskusi beatmap.
@@ -46,7 +46,7 @@ osu! memiliki tim peninjau yang berdedikasi untuk memeriksa apakah beatmap-beatm
 
 ## Membantu atau bergabung dengan proyek komunitas yang dijalankan pengguna
 
-osu! memiliki komunitas teknis dan kompetitif yang berkembang pesat. Mulai dari penggemar, hobi, hingga veteran berpengalaman rhythm gim. Ada banyak proposal dan proyek yang dibuat khusus untuk osu! dan Kamu dapat membantu mereka, atau mendorong masa depan osu! dengan proposal/proyek Kamu sendiri!
+osu! memiliki komunitas teknis dan kompetitif yang berkembang pesat. Mulai dari penggemar, hobi, hingga veteran berpengalaman gim ritme. Ada banyak proposal dan proyek yang dibuat khusus untuk osu! dan Kamu dapat membantu mereka, atau mendorong masa depan osu! dengan proposal/proyek Kamu sendiri!
 
 Di bawah ini beberapa cara Kamu dapat berkontribusi:
 
@@ -59,6 +59,13 @@ Di bawah ini beberapa cara Kamu dapat berkontribusi:
 ## Berkontribusi untuk masa depan osu!
 
 Dimulai pada tahun 2017, proyek osu!lazer saat ini menjadi fokus osu! team, bersama dengan situs web baru yang Kamu lihat saat ini! Jika Kamu ingin membantu menjadikan proyek ini lebih baik dan membawa kita lebih dekat ke masa depan osu!, ada beberapa hal yang dapat Kamu lakukan, tetapi di bawah ini hanya beberapa contoh:
+
+- Membantu proyek [osu!lazer](https://github.com/ppy/osu). Ada begitu banyak yang harus diterapkan ke versi baru osu! ini, dan Kamu juga dapat mewujudkannya!
+- Menjadikan [website baru](https://github.com/ppy/osu-web) yang lebih baik.
+
+## Hindari bersikap negatif! Buat orang-orang bahagia!
+
+Ada pepatah lama yang mengatakan bahwa Kamu harus menjadi bagian dari solusi, bukan dari masalah. Cukup dengan mengikuti pepatah lama ini, Kamu akan membantu osu! dengan membuat komunitas menjadi tempat yang lebih cerah. Mungkin orang-orang akan selalu mengeluh, tetapi masih banyak cara yang dapat Kamu lakukan untuk membantu meringankan suasana dalam komunitas:
 
 - Bersikap ramah satu sama lain. Hidup terlalu pendek untuk diperdebatkan.
 - Jangan mengeluhkan jika terdapat pemain yang melakukan kecurangan. [Laporkan saja mereka dan lanjutkan harimu](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play), sederhananya menggunakan perintah `!report <username> sepertinya melakukan kecurangan` dapat memperbaiki masalah Kamu dalam beberapa menit hingga jam.
