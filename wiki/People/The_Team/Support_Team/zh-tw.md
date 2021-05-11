@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Support Team (支援團隊)
 
 *關於管理帳號的團隊，請見：[帳號支援團隊](/wiki/People/The_Team/Account_support_team)*
