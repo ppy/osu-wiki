@@ -18,7 +18,7 @@ To help assist with taking in all this superb art at once, we've prepared a litt
     </video>
 </div>
 
-In a very proud moment, Spring 2021 marks the first year of Fan Art contests ever where nobody (and we mean *nobody*) left the osu! cookie template visible in any of their artworks. Truly a momentous occasion. Celebrate it by heading over to the [Spring 2021 Fanart Contest listing](https://osu.ppy.sh/community/contests/125) and voting for your favourites today!
+In a very proud moment, Spring 2021 marks the first year of Fan Art contests ever where nobody (and we mean *nobody*) left the osu! cookie template visible in any of their artworks. Truly a momentous occasion. Celebrate it by heading over to the [**Spring 2021 Fanart Contest listing**](https://osu.ppy.sh/community/contests/125) and voting for your favourites today!
 
 The voting will only be open for **7 days**, so get in soon before time rips the opportunity from your fingers like an overzealous pigeon and a piece of bread.
 
