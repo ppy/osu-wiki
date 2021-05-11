@@ -98,6 +98,7 @@ Breaking any of these rules will land you in MBC prison. Submissions must...
 - **be solely created by you.** Collaborations are not allowed.
 - **abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **be a 4K or a 7K entry for osu!mania.**
+
 ## Submission
 
 You've got a bit under **3 weeks** to prepare your masterpiece of a map! Once it's ready, head over to the relevant contest listing to submit:
