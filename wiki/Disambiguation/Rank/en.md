@@ -4,9 +4,9 @@ tags:
   - ranking
 ---
 
-# Rank
+# Rank (disambiguation)
 
-Rank has three meanings:
+**Rank** can have multiple meanings:
 
 - A [letter grade](/wiki/Grade)
 - The [player ranking](/wiki/Ranking), or a position in online leaderboards
