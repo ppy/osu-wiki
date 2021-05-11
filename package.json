@@ -6,6 +6,7 @@
     "dependencies": {
         "remark-cli": "9.0.0",
         "remark-frontmatter": "3.0.0",
+        "remark-gfm": "1.0.0",
         "remark-lint-final-newline": "1.0.5",
         "remark-lint-hard-break-style": "github:cl8n/remark-lint-hard-break-style",
         "remark-lint-linebreak-style": "2.0.1",

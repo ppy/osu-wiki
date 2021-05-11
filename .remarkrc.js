@@ -1,6 +1,5 @@
 module.exports = {
   settings: {
-    // missing all GFM options
     bullet: '-',
     fences: true,
     listItemIndent: 'one',
@@ -11,6 +10,7 @@ module.exports = {
   plugins: [
     'preset-lint-markdown-style-guide',
     ['frontmatter', {type: 'yaml', marker: '-'}],
+    ['gfm', {singleTilde: false, tablePipeAlign: false}],
     ['lint-definition-case', false],
     ['lint-fenced-code-flag', {allowEmpty: true}],
     ['lint-final-newline'],
