@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # BruinGG 錦標賽
 
 <!-- TODO link to organisation page if added -->
