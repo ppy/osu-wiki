@@ -1,12 +1,10 @@
 ---
 legal: true
-outdated: true
-outdated_since: e95d1bf509dcb730b46f93ef70215e84f57bc37f
 ---
 
 # Kebijakan privasi osu!
 
-Terakhir diperbarui pada 24 Agustus 2020. [Lihat riwayatnya disini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Terakhir diperbarui pada 16 April 2021. [Lihat riwayatnya disini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 Selain kebijakan ini, pastikan juga untuk mengunjungi dan memahami [Ketentuan Layanan](https://osu.ppy.sh/legal/terms) kami.
 
@@ -100,7 +98,7 @@ Sebagai seorang pengguna, Anda memiliki hak untuk memigrasi, memperbarui, atau m
 
 Dalam kebanyakan kasus, kiriman pengguna seperti postingan forum dan beatmap dapat dihapus secara tersendiri. Anda akan menemui tombol hapus yang terasosiasi langsung dengan persoalan yang bisa dihapus.
 
-Jika Anda tinggal di daerah dengan cakupan Uni Eropa, Anda memiliki opsi untuk menghapus akun Anda dari layanan kami. Harap diperhatikan bahwa proses ini dilakukan secara manual dan membutuhkan waktu beberapa hari untuk menyelesaikannya ([hubungi kami](mailto:privacy@ppy.sh) untuk mengajukan permintaan). Dalam kasus penghapusan akun, sebagian kontribusi Anda yang dilakukan secara publik mungkin tidak terhapus, seperti yang telah dijelaskan dalam "Informasi yang kami kumpulkan."
+Anda memiliki opsi untuk menghapus akun milik sendiri dari layanan kami. Harap diperhatikan bahwa proses ini dilakukan secara manual dan membutuhkan waktu beberapa hari untuk menyelesaikannya. Anda dapat [menghubungi kami](mailto:privacy@ppy.sh) untuk mengajukan permintaan penghapusan akun. Dalam kasus penghapusan akun, sebagian kontribusi Anda yang telah dilakukan secara publik mungkin tidak terhapus, seperti yang telah dijelaskan dalam "Informasi yang kami kumpulkan."
 
 Kami memiliki kebijakan satu-akun-per-pengguna yang ketat untuk menjaga papan peringkat tetap adil sehingga setelah akun Anda dihapus, Anda mungkin tidak dapat kembali lagi ke layanan kami. Untuk menegakkan kebijakan ini, kami juga akan tetap menyimpan string pengenal unik seperti yang telah disebutkan di "Informasi yang kami kumpulkan" bahkan setelah akun dihapus. Penghapusan akun ini dilakukan sebagai [kepentingan yang sah sebagaimana diuraikan dalam GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) untuk menegakkan aturan kami. Tidak perlu khawatir, informasi ini di-hash satu arah dan tidak dapat digunakan untuk mengidentifikasi Anda di luar osu! atau di luar konteks yang tepat dalam menegakkan kebijakan ini.
 
