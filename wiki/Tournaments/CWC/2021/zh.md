@@ -182,8 +182,8 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
    - 虽然本次比赛计划为 3v3，但可能会根据报名人数而改变。
 2. 分数计算基于 Score V2。
 3. 每轮比赛的图池将由图池管理在实际比赛开始之前的周日公布。选手在比赛过程中只能选择其中的谱面。
-   - 图池包含 [Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time) 以及 NoMod
-   - 一张谱面会被选为 Tiebreaker(TB)，TB 仅能在加时赛中被强制选择。
+   - 图池包含 NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time)。
+   - 一张谱面会被选为 Tiebreaker，Tiebreaker 仅能在加时赛中被强制选择。
 4. 时间表将由比赛管理部门确定（请参见[排程说明](#排程说明)）
 5. 如果没有空闲的工作人员或裁判，比赛将被推迟。
 6. 允许使用视觉设置来调整背景暗化或禁用谱面背景。
@@ -218,7 +218,7 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
    - 队长可以从他们国家/地区的候选名单中选择并组成他们的队伍。
 2. 为确报名的真实性，比赛管理团队将检查每位报名玩家。
    - 每个报名玩家将被分配到其各自国家/地区的候选列表。
-   - 报名玩家的 osu!catch 全球排名必须在 #5000 以内。
+   - 报名玩家的 osu!catch 全球排名必须在 \#5000 以内。
    - 报名玩家在过去的 12 个月内没有违反 [osu! 社区守则](/wiki/Rules)。
 3. 所有组建成功的队伍将在报名阶段结束后公布。
 4. 只有 32 个潜在实力最强大的国家/地区可以参加。一个国家/地区的潜在实力取决于所有有效候选人的在线统计数据。
@@ -279,12 +279,12 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
 1. 小组赛，十六强赛，四分之一决赛，半决赛，决赛以及总决赛都会使用它们阶段各自的图池。
 2. 图池包含四组：NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock) 和 [DoubleTime](/wiki/Game_modifier/Double_Time)。
 3. 小组赛图池为 14 张，十六强赛和四分之一决赛图池为 15 张，半决赛和决赛图池为 16 张。
-4. 每个图池都包含一张 TB（Tiebreaker）。
+4. 每个图池都包含一张 Tiebreaker。
 5. **NoFail 会被强制开启**
 6. NoMod 图池不能使用任何 Mod。（除了NoFail）
 7. Hidden，HardRock 和 DoubleTime 则要求选手使用图池的对应 Mod。
    - 在 HardRock 和 DoubleTime 图池中，Hidden 为可选项。
-8. TB 可用 Hidden。
+8. Tiebreaker 可用 Hidden。
 9. 在小组赛图池中 NoMod 谱面的数量为 4，十六强赛图池中为 5，半决赛、决赛以及总决赛则为 6.
 10. 所有阶段图池中都包含[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Game_modifier/Double_Time) 谱面各三张。
 
