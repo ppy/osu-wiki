@@ -12,7 +12,7 @@ En raison de besoins différents en matière de style de mapping (osu! est très
 
 Pour un guide du débutant : [Beatmapping](/wiki/Beatmapping).
 
-(En commençant de de haut en bas et de gauche à droite)
+(En commençant de haut en bas et de gauche à droite)
 
 ### En haut à gauche (La Timeline des objets)
 
@@ -84,7 +84,7 @@ Maintenez la touche `Alt` pour déclencher le Distance Snap. La valeur peut êtr
 - Huitième temps
 - Ajoute des ticks jaunes, en plus des ticks rouges et bleues
 
-Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage actuel et **x/y** sont les coordonnée actuelle de la souris.
+Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage actuel et **x/y** sont les coordonnées actuelles de la souris.
 
 ### Au centre à gauche (Sélecteur)
 
@@ -101,7 +101,7 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 | Boutons/En-tête (Raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
 | Sampleset | Auto, Normal, Soft, Drum | Cela ignore les paramètres du sampleset de la section de timing, et ajoute celui sélectionné. Par exemple, un point de timing avec **soft 77%**, alors que ce sampleset est réglé sur **Drum** et a **Clap** sur les notes, jouera par défaut drum-hitnormal 77% + drum-hitclap 77% sur les frappes. |
-| Additions | Auto, Normal, Soft, Drum | L'ajout de hitsound signifie ajouter des Clap, des Finish, et des Whistle avec le set sélectionner. exemple avec un Sampleset **Normal**, le Timing point sera **Soft 77%**, alors que Additions est réglé sur **Drum** et ont **Clap** sur les notes, le résultat sera normal-hitnormal 77% + drum-hitclap 77% sur les frappes |
+| Additions | Auto, Normal, Soft, Drum | L'ajout de hitsound signifie ajouter des Clap, des Finish, et des Whistle avec le set sélectionné. Exemple avec un Sampleset **Normal**, le Timing point sera **Soft 77%**, alors que Additions est réglé sur **Drum** et ont **Clap** sur les notes, le résultat sera normal-hitnormal 77% + drum-hitclap 77% sur les frappes |
 | Select (`1`) | **Clic gauche/glisser :** Sélectionnez/ajustez l'emplacement des notes/sliderpoints. **Clic droit :** Supprimez les notes/sliderpoints. **`Ctrl` + Clic :** Sélection multiple. | Sélectionnez et modifiez les notes existantes. |
 | Circle (`2`) | **Clic gauche/droit :** Ajout/suppression d'un cercle | Ajout d'un cercle |
 | Slider (`3`) | **Clic gauche/droit :** Début/Fin de slider. Ajouter/supprimer des sliderpoints (carré blanc). **Clic gauche x2 :** Nouvelle section de courbe (carré rouge). | Slider. |
@@ -109,7 +109,7 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 
 ### Au centre (Terrain de jeu)
 
-**Représentation visuelle du mappage basée sur l'horodatage actuel** Mappez votre design ici et ol apparaîtra exactement comme vous l'avez mappé pendant le jeu. Il s'agit d'un mappage WYSIWYG (what you see is what you get > ce que vous voyez est ce que vous obtenez). Pour un mapping en texte (généralement pour un réglage fin), vous pouvez ouvrir le fichier `.osu` directement en utilisant Notepad.
+**Représentation visuelle du mappage basée sur l'horodatage actuel** Mappez votre design ici et il apparaîtra exactement comme vous l'avez mappé pendant le jeu. Il s'agit d'un mappage WYSIWYG (what you see is what you get > ce que vous voyez est ce que vous obtenez). Pour un mapping en texte (généralement pour un réglage fin), vous pouvez ouvrir le fichier `.osu` directement en utilisant Notepad.
 
 ### Au centre à droite (Hitsounds & Outils d'assistance)
 
@@ -119,7 +119,7 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 
 | Bouton (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
-| Nouveau combo (`Q`) | **Clic droit :** Changez la note actuelle pour la couleur combinée suivante. | Note du combo. C'est l'équivalent d'un couplet/ybe mesure dans une chanson/un instrument. Une fourchette acceptable est d'environ 5 à 20. |
+| Nouveau combo (`Q`) | **Clic droit :** Changez la note actuelle pour la couleur combinée suivante. | Note du combo. C'est l'équivalent d'un couplet/une mesure dans une chanson/un instrument. Une fourchette acceptable est d'environ 5 à 20. |
 
 #### Hitsounds
 
@@ -172,7 +172,7 @@ Au **centre en bas**, il y a une **timeline** avec des marques et les boutons ob
 | `Ctrl` + Flèche `Droit` | Signet suivant. |
 | `Ctrl` + Flèche `Gauche` | Signet précédent. |
 
-En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur par trimestre**.
+En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur de quart**.
 
 ## Caractéristiques (osu!mania)
 
@@ -182,7 +182,7 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 
 ![Beat Snap Divisor (osu!mania)](img/BEM_BSD-FR.png "Beat Snap Divisor (osu!mania)")
 
-*Article principale : [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)*
+*Article principal  : [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)*
 
 **En termes simples, l'ajustement d'une longueur donnée d'un fil à coudre de couleur (section de chronométrage) pour un espace de dessin de broderie (mesures, divisées par le diviseur pour être appelées battements) sur le tissu (morceau).** Puisque osu!mania accorde une grande importance au timing des notes, le **time signature** (MM:B) de la section Timing est ajoutée (15:3 = 15ème mesure 3ème temps) à côté de la barre d'ajustement pour faciliter la référence du mappeur. Elle peut prendre une valeur négative (-8:-3 par exemple) si la première section de timing est à *quelques secondes* du début du fichier chanson de la beatmap.
 
@@ -192,7 +192,7 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 
 **Votre boîte à outils de construction pour osu!mania, faite pour vous**
 
-**Veuillez noter que dans les notes d'hitsound par défaut d'osu!mania fonctionne différemment avec le mode osu!**
+**Veuillez noter que les notes d'hitsound par défaut d'osu!mania fonctionnent différemment avec le mode osu!**
 
 - L'ajout d'un clap sur une note ne jouera que le son `hitclap` au lieu du son `hitclap` + `hitnormal` lors de la frappe dans osu!mania :
 
@@ -260,7 +260,7 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 
 - Quarts de battements
 - Ajoute des ticks bleues, en plus des ticks rouges.
-- Utile pour le mapping en générale
+- Utile pour le mapping en général
 
 ### Au centre à droite (Hitsounds & Outils d'assistance)
 
@@ -276,7 +276,7 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 
 | Bouton (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
-| Whistle (`W`) | ("Select" sur une note) **Clic gauche :** Utilisez le son du sifflet sur cette note | Ajoutez un ajout de son de sifflet à la sélection. |
+| Whistle (`W`) | ("Select" sur une note) **Clic gauche :** Utilisez le son du sifflet sur cette note | Ajoutez un son de sifflet à la sélection. |
 | Finish (`E`) | ("Select" sur une note) **Clic gauche :** Utilisez le son de finition sur cette note | Ajoutez un son de finition (cymbale) à la sélection. |
 | Clap (`R`) | ("Select" sur une note) **Clic gauche :** Utilisez un son de claquement sur cette note | Ajoutez un son de claquement à la sélection. |
 
@@ -307,7 +307,7 @@ En **bas au centre**, il affiche la **timeline avec des marques et les boutons o
 | `Ctrl` + Flèche `Droit` | Signet suivant. |
 | `Ctrl` + Flèche `Gauche` | Signet précédent. |
 
-En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur par trimestre**.
+En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur de quart**.
 
 ### L'échantillonnage
 
@@ -315,7 +315,7 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 
 **L'échantillonnage** est un processus qui consiste à **ajouter du son à la note**. Pour commencer, sélectionnez la note et **`Alt` + Clic gauche** sur la note sélectionnée (une fenêtre pop-up s'affichera avec des échantillons sonores dans votre dossier beatmap).
 
-#### Exemple d'importation
+#### Importation de sample
 
 **La section gauche** est la **liste des fichiers sonores que vous avez dans le dossier de votre beatmap**.
 
@@ -344,7 +344,7 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 
 #### Exemple de liste d'événements
 
-Le **Storyboarding actuem**. En cliquant sur "Liste d'exemples", vous ferez apparaître une autre fenêtre (à droite de l'image) appelée "Liste d'exemples d'événements", qui sera la suivante. Les deux boutons devraient être explicites (Supprimer = Supprimer l'événement sélectionné. Fermer = Fermer la fenêtre). **Ces éléments storyboardés iront dans le fichier `.osu` (la difficulté sélectionnée).**
+Le **Storyboarding actuel**. En cliquant sur "Liste d'exemples", vous ferez apparaître une autre fenêtre (à droite de l'image) appelée "Liste d'exemples d'événements", qui sera la suivante. Les deux boutons devraient être explicites (Supprimer = Supprimer l'événement sélectionné. Fermer = Fermer la fenêtre). **Ces éléments storyboardés iront dans le fichier `.osu` (la difficulté sélectionnée).**
 
 Le codage est `MM:SS:XXX` `{Sound_file}@{Volume}` où MM:SS:XXX est respectivement Minutes:Secondes:Millisecondes.
 
