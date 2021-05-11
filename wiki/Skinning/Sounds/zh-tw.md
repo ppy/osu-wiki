@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 音效 Skin
 
 `.wav`，`.mp3` 和/或 `.ogg` 都是可用的檔案格式。
