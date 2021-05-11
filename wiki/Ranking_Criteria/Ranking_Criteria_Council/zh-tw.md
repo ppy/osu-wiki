@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Ranking Criteria Council (審核標準委員會)
 
 **Ranking Criteria Council** 是在 2016 年由玩家組成的群組，目標為重新修訂[審核標準](/wiki/Ranking_Criteria)。
