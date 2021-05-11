@@ -1,12 +1,11 @@
 module.exports = {
   settings: {
-    commonmark: true,
-    emphasis: '*',
+    // missing all GFM options
+    bullet: '-',
     fences: true,
-    listItemIndent: '1',
+    listItemIndent: 'one',
+    resourceLink: true, // false (default) should be preferred later
     rule: '-',
-    ruleSpaces: false,
-    tablePipeAlign: false,
     tightDefinitions: true,
   },
   plugins: [
