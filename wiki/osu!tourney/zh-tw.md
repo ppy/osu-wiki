@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!tourney
 
 **osu!tourney** 是官方的多人遊戲觀戰客戶端，可以一次觀看及直播房間內的所有玩家。
