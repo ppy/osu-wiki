@@ -93,6 +93,7 @@ tags:
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | ฝรั่งเศส |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | ฝรั่งเศส |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | เกาหลี |
+| ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | รัสเซีย |
 | ![][flag_GB] [skylaa](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -108,6 +109,7 @@ tags:
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | สเปน, ฝรั่งเศส |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
+| ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | ฝรั่งเศส |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | จีน, ญี่ปุ่น |
 | ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033) | สวีเดน |
 
@@ -186,9 +188,7 @@ tags:
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | สเปน |
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | ฝรั่งเศส, เยอรมัน |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | เยอรมัน |
-| ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | โรมาเนีย, ฝรั่งเศส |
-| ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | ฝรั่งเศส |
 
 #### osu!taiko
 

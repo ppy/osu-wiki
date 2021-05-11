@@ -93,6 +93,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Francês |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Francês |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Coreano |
+| ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Russo |
 | ![][flag_GB] [skylaa](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -108,6 +109,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Espanhol, Francês |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
+| ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | Francês |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Chinês, Japonês |
 | ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033) | Sueco |
 
@@ -186,9 +188,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Espanhol |
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | Francês, Alemão |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Alemão |
-| ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romeno, Francês |
-| ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | Francês |
 
 #### osu!taiko
 
