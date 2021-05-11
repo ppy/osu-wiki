@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spring Fanart 2021 Contest Voting Open!"
-date: 2020-05-11 10:00:00 +0000
+date: 2021-05-11 10:00:00 +0000
 ---
 
 **124** super talented artists have come forth and put their entries in the running - so now do your part and help us decide which ones make it to the main menu!
