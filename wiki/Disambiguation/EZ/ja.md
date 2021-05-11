@@ -2,7 +2,7 @@
 
 **EZ**には複数の意味があります:
 
-- [Easy game modifier](/wiki/Game_modifier/Easy)
+- [Easyゲームモディファイア](/wiki/Game_modifier/Easy)
 - ビートマップの[難易度](/wiki/Beatmap/Difficulty):
   - ![](/wiki/shared/diff/easy-m.png) osu!maniaでのEZ
   - ![](/wiki/shared/diff/easy-o.png) osu!でのEasy
