@@ -23,7 +23,7 @@ Voir l'infographie et les formules ci-dessous pour un aperçu :
                                        X = taper/collecter
         e n   a v a n c e              ↓
 ├───────────────────────┬──────────────┤
-0%       fondu          100% opacité
+0%       apparition       100% opacité
 ```
 
 Le hit object commencent à apparaître à `X - en avance` avec:
@@ -34,9 +34,9 @@ Le hit object commencent à apparaître à `X - en avance` avec:
 
 Le temps nécessaire pour que le hit object apparaisse complètement dépend également de la vitesse d'approche :
 
-- AR < 5: `fondu = 800ms + 400ms * (5 - AR) / 5`
-- AR = 5: `fondu = 800ms`
-- AR > 5: `fondu = 800ms - 500ms * (AR - 5) / 5`
+- AR < 5: `apparition = 800ms + 400ms * (5 - AR) / 5`
+- AR = 5: `apparition = 800ms`
+- AR > 5: `apparition = 800ms - 500ms * (AR - 5) / 5`
 
 ## Effets des mods
 
