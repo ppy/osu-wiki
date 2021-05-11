@@ -1,6 +1,6 @@
 # Easy（曖昧さ回避）
 
-**Easy**には複数の意味があります：
+**Easy**には複数の意味があります:
 
 - [ゲームモディファイア](/wiki/Game_modifier/Easy)
 - ビートマップの[難易度](/wiki/Beatmap/Difficulty):
