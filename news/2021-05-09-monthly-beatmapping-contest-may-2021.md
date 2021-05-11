@@ -50,7 +50,9 @@ If you're brave enough to map anything other than a swing song with this limitat
 
 **[osu!mania MBC](https://osu.ppy.sh/community/contests/129) limitation:**
 
-- Long notes cannot be used.
+- Long notes cannot be used. 
+
+Entries must be 4k and 7k maps, meaning that 5k, 6k, 8k, 9k, and 10k entries are excluded from this edition. 
 
 ### <a id="songs"></a>Songs
 
@@ -89,7 +91,7 @@ Breaking any of these rules will land you in MBC prison. Submissions must...
 - **follow the month's [beatmapping limitation](#limitation) for the contest's mode:**
     - **osu!:** Total slider velocity cannot be higher than 1.4
     - **osu!taiko:** All patterns on snaps faster than 1/2 must have an **even** number of notes.
-    - **osu!mania:** Long notes cannot be used.
+    - **osu!mania:** Long notes cannot be used. Must be a 4k or a 7k entry.
 - **be in `.osz` format.** Including a background image and custom hitsounds is fine, but skin/storyboard/video content will not be considered.
 - **be a single difficulty for one of the month's [selected songs](#songs).**
 - **not be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** All contest submissions are anonymous during the screening/judging phases to avoid bias. **DO NOT SHARE YOUR ENTRY!**
