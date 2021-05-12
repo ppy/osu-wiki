@@ -56,14 +56,14 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # コミュニティ
 
-[トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discord server](/wiki/osu!dev_Discord_server) • [ご協力のお願い](/wiki/How_You_Can_Help!) • [用語集](/wiki/Glossary)
+[トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/osu!dev_Discord_server) • [ご協力のお願い](/wiki/How_You_Can_Help!) • [用語集](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # 人物
 
-[The Team](/wiki/People/The_Team): [Developers](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
+[チーム](/wiki/People/The_Team): [開発者](/wiki/People/The_Team/Developers) • [グローバルモデレーションチーム](/wiki/People/The_Team/Global_Moderation_Team) • [サポートチーム](/wiki/People/The_Team/Support_Team) • [ノミネーション アセスメント チーム](/wiki/People/The_Team/Nomination_Assessment_Team) • [ビートマップノミネーター](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved チーム](/wiki/People/The_Team/Project_Loved_Team)
 
 組織: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
