@@ -59,7 +59,7 @@ Aucun effet:
 - Ignorer les roulements de tambour
 - Terminer des Dendens
 - Terminer des Shakers
-  
+
 *Note: Il est complètement possible qu'une beatmap ne passe jamais à cause de son design si elle contient uniquement des roulements de tambours et/ou des dendens/shakers.*
 
 ## osu!catch

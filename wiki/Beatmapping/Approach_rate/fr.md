@@ -1,17 +1,17 @@
 ---
 tags:
-  - temps d'approche
+  - Approach rate
   - AR
   - reading
 ---
 
-# Taux d'approche
+# Approach Rate
 
 *Pour les valeurs AR suggérées, voir: [Critères de classement](/wiki/Ranking_Criteria)*
 
-Le **taux d'approche** (***AR***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui défini à quel moment les [hit objects](/wiki/Hit_Objects) commencent à apparaître par rapport à quand ils doivent être tapés ou récoltés. Il éxiste seulement dans les modes [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch).
+L'**Approach Rate** (***AR***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui défini à quel moment les [hit objects](/wiki/Hit_Objects) commencent à apparaître par rapport à quand ils doivent être tapés ou récoltés. Il éxiste seulement dans les modes [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch).
 
-Les valeurs de l'AR vont de 0 à 10. Un taux d'approche plus élevé signifie que les objets touchés seront affichés pendant une période plus courte, ce qui laisse moins de temps au joueur pour réagir. En revanche, des taux d'approche plus faibles permettent plus de temps de réaction, mais peuvent entraîner l'apparition d'un nombre excessif de hit objects à l'écran en même temps.
+Les valeurs de l'AR vont de 0 à 10. Un approach rate plus élevé signifie que les objets touchés seront affichés pendant une période plus courte, ce qui laisse moins de temps au joueur pour réagir. En revanche, des approach rates plus faibles permettent plus de temps de réaction, mais peuvent entraîner l'apparition d'un nombre excessif de hit objects à l'écran en même temps.
 
 ## Timing de l'animation
 
@@ -40,7 +40,7 @@ Le temps nécessaire pour que le hit object apparaisse complètement dépend ég
 
 ## Effets des mods
 
-Il existe quatre mods qui modifient le taux d'approche lorsqu'ils sont activés:
+Il existe quatre mods qui modifient l'approach rate lorsqu'ils sont activés:
 
 - [Easy](/wiki/Game_modifier/Easy): Réduit de moitié la valeur de l'AR.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock):  Multiplie la valeur de l'AR par 1,4, jusqu'à un maximum de 10.
@@ -51,4 +51,4 @@ Alors que le Half Time et le Double Time ne modifient pas la valeur de l'AR, la 
 
 ## osu!taiko et osu!mania
 
-Le taux d'approche est visible lors de l'affichage des informations d'une beatmap d'osu!taiko ou d'osu!mania, mais elle n'affecte pas la jouabilité. La vitesse de défilement de chaque mode est déterminée par d'autres facteurs.
+L'approach rate est visible lors de l'affichage des informations d'une beatmap d'osu!taiko ou d'osu!mania, mais elle n'affecte pas la jouabilité. La vitesse de défilement de chaque mode est déterminée par d'autres facteurs.
