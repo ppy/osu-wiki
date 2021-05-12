@@ -4,7 +4,7 @@
 
 **AiMod** est un outil intégré à l'[éditeur de beatmap](/wiki/Beatmap_Editor) qui détecte les problèmes dans une [beatmap](/wiki/Beatmap). Il peut être ouvert via l'option de menu `Fichier` > `Ouvrir AiMod` ou les [raccourcis clavier](/wiki/Shortcut_key_reference) `Ctrl` + `Shift` + `A`.
 
-Si AiMod peut être utile pour détecter les problèmes de base d'une carte, il ne remplace pas le [modding](/wiki/Modding) réalisé par de vraies personnes. AiMod ne peut pas évaluer la qualité d'une carte ou détecter des problèmes complexes tels qu'un mauvais [patterning](/wiki/Beatmap/Pattern) ou [timing](/wiki/Guides/How_to_Time_Songs). Lorsque vous [créer une beatmap](/wiki/Beatmapping), il est recommandé de corriger d'abord les avertissements d'AiMod, puis de demander l'aide d'autres [moddeurs](/wiki/Glossary#modder).
+Si AiMod peut être utile pour détecter les problèmes de base d'une carte, il ne remplace pas le [modding](/wiki/Modding) réalisé par de vraies personnes. AiMod ne peut pas évaluer la qualité d'une carte ou détecter des problèmes complexes tels qu'un mauvais [patterning](/wiki/Beatmap/Pattern) ou [timing](/wiki/Guides/How_to_Time_Songs). Lorsque vous [créez une beatmap](/wiki/Beatmapping), il est recommandé de corriger d'abord les avertissements d'AiMod, puis de demander l'aide d'autres [moddeurs](/wiki/Glossary#modder).
 
 Le développement d'AiMod est généralement en retard par rapport aux normes de la communauté de mapping et aux [critères de classement](/wiki/Ranking_Criteria), et par conséquent, [certains de ses résultats sont considérés comme incorrects](#défauts).
 
@@ -33,9 +33,9 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 
 | Message | Explication | Solution |
 | :-- | :-- | :-- |
-| Le HP drain rate des difficultés Easy et Normal devrait être au minimum 4. | maps ous!mania uniquement ! | Allez dans le Song Settings et réglez le taux de drain de santé sur 4 ou plus. |
-| Le HP drain rate des difficultés Hard et supérieures devrait être au minimum 7. | maps ous!mania uniquement ! | Allez dans le Song Settings et réglez le taux drain de santé sur 7 ou plus. |
-| L'overall difficulty des maps contenant peu de sliders devrait être au minimum 7. | maps ous!mania uniquement ! | Allez dans Song Settings et réglez le taux d'OD sur 7 ou plus. |
+| Le taux de drain de santé des difficultés Easy et Normal devrait être au minimum 4. | maps osu!mania uniquement ! | Allez dans le Song Settings et réglez le taux de drain de santé sur 4 ou plus. |
+| Le taux de drain de santé des difficultés Hard et supérieures devrait être au minimum 7. | maps osu!mania uniquement ! | Allez dans le Song Settings et réglez le taux drain de santé sur 7 ou plus. |
+| L'overall difficulty des maps contenant peu de sliders devrait être au minimum 7. | maps osu!mania uniquement ! | Allez dans Song Settings et réglez le taux d'OD sur 7 ou plus. |
 | Le slider velocity devrait être égal à 1,40 ou 1,60. | maps osu!taiko uniquement ! | Allez dans l'onglet Timing et modifiez le slider velocity à 1,40 ou 1,60. |
 
 ### Erreurs
@@ -48,10 +48,10 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 | Ces deux objets apparaissent exactement au même moment. | Deux objets se trouvent l'un sur l'autre. Cela rendra la map impossible à classer ! | Trouvez les deux objets et déplacez-les ou supprimez-les. |
 | Il n'y a pas de hitsounds sur aucun objet. Les hitsounds sont nécessaires pour les beatmaps classables. | *Auto-explicatif* | Ajouter des hitsounds sur la map en utilisant des whistles, des claps et des finishes. |
 | Ce spinner et l'objet suivant ne sont pas assez espacés. | Des objets apparaissent lorsque le spinner est actif. Cela peut être dû au fait que l'AR est faible et/ou que les objets sont placés trop près (dans le temps) du spinner. | Modifiez la longueur du spinner et/ou retirez les objets suivants |
-| Cette note dure moins de 10 ms ! | maps ous!mania uniquement ! Cela obligera le joueur à appuyer et relâcher la touche à un rythme très rapide, rendant votre map impossible à SS. | Augmenter la longueur de la hold note ou supprimez-la |
-| Cet objet chevauche un autre objet. | maps ous!mania uniquement ! | Supprimez l'un des objets qui se chevauchent. |
-| Cet objet est placé par-dessus un autre objet. | maps ous!mania uniquement Les keys et/ou les hold notes spécifiées sont superposées. Cela rendra votre carte impossible à obtenir un SS ! | Trouvez la key ou la hold note et corrigez-la ou supprimez-la. |
-| Il est interdit de placer plus de 6 notes simultanément. | maps ous!mania uniquement La plupart des claviers permettent de presser jusqu'à 6 touches à la fois. | Vérifiez votre beatmap pour vous assurer que chaque colonne a au maximum 6 notes pressés. |
+| Cette note dure moins de 10 ms ! | maps osu!mania uniquement ! Cela obligera le joueur à appuyer et relâcher la touche à un rythme très rapide, rendant votre map impossible à SS. | Augmenter la longueur de la hold note ou supprimez-la |
+| Cet objet chevauche un autre objet. | maps osu!mania uniquement ! | Supprimez l'un des objets qui se chevauchent. |
+| Cet objet est placé par-dessus un autre objet. | maps osu!mania uniquement Les keys et/ou les hold notes spécifiées sont superposées. Cela rendra votre carte impossible à obtenir un SS ! | Trouvez la key ou la hold note et corrigez-la ou supprimez-la. |
+| Il est interdit de placer plus de 6 notes simultanément. | maps osu!mania uniquement La plupart des claviers permettent de presser jusqu'à 6 touches à la fois. | Vérifiez votre beatmap pour vous assurer que chaque colonne a au maximum 6 notes pressés. |
 
 #### Design
 
@@ -82,20 +82,20 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 | Le slider a un nombre de points absurdement élevé ! | *Auto-explicatif* | Supprimez certains des points d'ancrage de votre slider. |
 | Ce combo est très long. Pensez à le diviser. | La longueur des combos peut affecter la difficulté de la map, ainsi que la quantité de fruits qui seront empilés sur l'attrapeur. | Allez voir les combos fautifs et décidez où commencer le nouveau combo (Il est préférable que la longueur des combos soit, au maximum, de 15-18). |
 | La fin de l'objet est hors champ ! | Les objets qui sont hors écran peuvent ne pas être vus dans les clients d'osu! fonctionnant avec un rapport d'écran 4:3. Cela n'est pas toujours exact, alors vérifiez en utilisant une résolution de rapport d'écran 4:3. | Retirer ou déplacer l'objet. |
-| L'objet est hors champ ! | Les objets qui sont hors écran peuvent ne pas être vus dans les clients osu!s fonctionnant dans des rapports d'écran 4:3. | Retirer ou déplacer l'objet. |
+| L'objet est hors champ ! | Les objets qui sont hors écran peuvent ne pas être vus dans les clients osu! fonctionnant dans des rapports d'écran 4:3. | Retirer ou déplacer l'objet. |
 | Cet objet est trop proche de l'objet précédent. | "Check distance snap" doit être vérifié. | Déplacez l'objet plus loin de l'objet précédent. |
 | Cet objet est trop éloigné de l'objet précédent. | "Check distance snap" doit être vérifié. | Rapprochez l'objet de l'objet précédent. |
 | Ce spinner est trop court. le mod Auto doit obtenir au moins 1000 points de bonus sur les spinners. | Le spinner spécifiée est trop courte, ce qui rendra impossible un SS. | Trouvez le spinner et supprimez-le ou allongez-le d'environ 3 temps entiers. La longueur peut varier en fonction du BPM de la chanson. |
-| Les spinner doivent avoir un nouveau combo. |  |  |
+| Les spinners doivent avoir un nouveau combo. |  |  |
 | <!-- Potential removal? Wasn't able to make an actual object (not including slider ends) go offscreen as editor forced it back in again -->L'objet n'est pas aligné ! | L'objet spécifié n'est pas aligner sur la timeline. | Vérifiez le timing, si vous l'avez modifié, il se peut que vous deviez aligner toutes les notes (vous pouvez le faire manuellement ou cliquer sur Timing > Resnap all notes (si vous faites cela, vous devrez vérifier si des notes ont été placées au mauvais endroit !)). |
-| La fin de l'objet n'est pas aligné ! | La fin de l'objet spécifié n'est pas aligné sur la timeline. | Vérifiez le timing, si vous l'avez modifié, il se peut que vous deviez aligner toutes les notes (vous pouvez le faire manuellement ou cliquer sur Timing > Resnap all notes (si vous faites cela, vous devrez vérifier si des notes ont été placées au mauvais endroit !)). |
+| La fin de l'objet n'est pas alignée ! | La fin de l'objet spécifié n'est pas alignée sur la timeline. | Vérifiez le timing, si vous l'avez modifié, il se peut que vous deviez aligner toutes les notes (vous pouvez le faire manuellement ou cliquer sur Timing > Resnap all notes (si vous faites cela, vous devrez vérifier si des notes ont été placées au mauvais endroit !)). |
 
 #### Design
 
 | Message | Explication | Solution |
 | :-- | :-- | :-- |
 | L'image d'arrière-plan est plus grande que 2560x1440. | *Auto-explicatif* | Redimensionnez ou remplacez l'image de fond. |
-| Cette map doit faire l'objet d'une mise en garde contre l'épilepsie, car elle contient des storyboards qui bouge fréquemment. | Les éléments du storyboard changent très rapidement. | Activez l'option `Afficher l'avertissement d'épilepsie (le storyboard a un stroboscope rapide)` dans l'onglet Design du menu [sont setup](/wiki/Beatmap_Editor/Song_Setup). |
+| Cette map doit faire l'objet d'une mise en garde contre l'épilepsie, car elle contient des storyboards qui bouge fréquemment. | Les éléments du storyboard changent très rapidement. | Activez l'option `Afficher l'avertissement d'épilepsie (le storyboard a un stroboscope rapide)` dans l'onglet Design du menu [song setup](/wiki/Beatmap_Editor/Song_Setup). |
 | <!-- Not sure how to test this one -->Les dimensions de {0} doivent être {1}x{1}. |  |  |
 | Les dimensions de votre vidéo ne doivent pas dépasser 1024x768 pour le format 4:3. | *Auto-explicatif* | Redimensionnez ou remplacez la vidéo de fond. |
 | Les dimensions de votre vidéo ne doivent pas dépasser 1280x720 pour le format 16:9. | *Auto-explicatif* | Redimensionnez ou remplacez la vidéo de fond. |
@@ -105,11 +105,11 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 | Message | Explication | Solution |
 | :-- | :-- | :-- |
 | Cette beatmap dure plus de 6 minutes. Pensez à la raccourcir s'il ne s'agit pas d'une map de type marathon. |  |  |
-| Votre beatmap est plus court que 45 secondes. Envisagez de l'allonger. |  |  |
+| Votre beatmap est plus courte que 45 secondes. Envisagez de l'allonger. |  |  |
 | <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file -->Le débit binaire audio est supérieur à 192kbps. Pensez à recompresser en CBR 192kbps ou VBR ~1.0. |  |  |
 | <!-- Same as above -->Le débit binaire audio est inférieur à 128 kbps. Envisagez de trouver une source de meilleure qualité. |  |  |
 | Le kiai time est activé pendant moins de 15 secondes. | *Auto-explicatif* | Étendre la durée du kiai time à plus de 15 secondes. |
-| Le mp3 que vous utilisez est beaucoup plus long que la partie qui est mappé. Envisagez de le recadrer pour réduire la taille du fichier. | *Auto-explicatif* | Prolongez la beatmap ou coupez le morceau. |
+| Le mp3 que vous utilisez est beaucoup plus long que la partie qui est mappée. Envisagez de le recadrer pour réduire la taille du fichier. | *Auto-explicatif* | Prolongez la beatmap ou coupez le morceau. |
 | Le kiai a besoin d'un end time point. |  |  |
 | Aucun preview point n'a été défini pour cette map. Pensez à en définir une à partir de l'onglet Timing. |  |  |
 | Deux timing points existent en même temps ! |  |  |
@@ -162,13 +162,13 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 | Ce mapset a besoin d'au moins 2 difficultés en mode osu!mania. | maps osu!mania uniquement |  |
 | Ce mapset a besoin d'au moins 2 difficultés en mode osu!. | maps osu! uniquement |  |
 | Ce mapset a besoin d'au moins 2 difficultés osu!taiko. | maps osu!taiko uniquement |  |
-| Les timing point non hérités entrent en conflit avec la difficulté {0}. |  |  |
+| Les timing points non hérités entrent en conflit avec la difficulté {0}. |  |  |
 
 ## Défauts
 
 <!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
 
-- **AiMod ne peut pas détecter un grand nombre de problèmes** qui sont considérés comme non classables par les [critères de classement](/wiki/Ranking_Criteria), tels que les objets potentiellement manqués, les hitsounds retardés, les fichiers d'arrière-plan de plus de 2,5 Mo, etc.
+- **AiMod ne peut pas détecter un grand nombre de problèmes** qui sont considérés comme non classables par les [critères de classement](/wiki/Ranking_Criteria), tels que les objets potentiellement mal rythmés, les hitsounds retardés, les fichiers d'arrière-plan de plus de 2,5 Mo, etc.
 - **AiMod peut vous avertir de l'absence de problèmes**, comme le fait que les mapsets nécessite deux difficultés du mode osu! sur une map [marathon](/wiki/Glossary#marathon) et que l'option [kiai time](/wiki/Beatmap_Editor/Kiai_Time) soit activée pendant moins de 15 secondes.
 - **Si `Check distance snap` est activé, AiMod ne vérifiera pas la distance snap entre les combos.**
 - **S'il y a plusieurs fichiers MP3 dans le dossier beatmap, AiMod peut vous avertir de la présence de plusieurs fichiers**, Toutefois, les fichiers MP3 peuvent également être utilisés pour des effets sonores tels que des applaudissements.
