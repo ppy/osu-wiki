@@ -34,10 +34,12 @@ All deadlines start at 00:00 UTC and end at 23:59 UTC.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | *To be announced* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *To be announced* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *To be announced* |
-| **Players' Pick Winner** | *To be announced* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 8 months of osu!supporter tag, unique profile badge, entries fast-tracked over to the qualified section |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag, unique profile badge |
+| **Players' Pick Winner** | 2 months of osu!supporter tag, unique profile badge¹ |
+
+¹ Profile badge is pending approval
 
 ## Organisation
 
@@ -46,10 +48,10 @@ The osu! Beatmapping World Championship is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909), ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
-| Web manager | ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) |
-| Mapper judge | *To be announced* |
-| Player judge | *To be announced* |
-| Designer | ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_CA] [Kaetwo](https://osu.ppy.sh/users/1997719) |
+| Web manager | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
+| Mapper judge | ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970), ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334), ![][flag_TH] [Electoz](https://osu.ppy.sh/users/6485263), ![][flag_RU] [fergas](https://osu.ppy.sh/users/3144542), ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269), ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830), ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ![][flag_DE] [sdafsf](https://osu.ppy.sh/users/3523418), ![][flag_RS] [Seolv](https://osu.ppy.sh/users/8067876), ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) |
+| Player judge | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_UA] [Ayla](https://osu.ppy.sh/users/4548264), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133), ![][flag_US] [saiyo](https://osu.ppy.sh/users/2709574) |
+| Designer | ![][flag_CA] [Kaetwo](https://osu.ppy.sh/users/1997719) |
 | Statistician | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
 | Wiki editor | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 
@@ -58,6 +60,8 @@ The osu! Beatmapping World Championship is run by various community members.
 - [Discord server](https://discord.gg/CZp4bNx)
 - [Twitter](https://twitter.com/osubwc)
 - [Livestream](https://www.twitch.tv/osubwc)
+- [Official website](https://obwc.net/)
+- [Official documentation](https://gist.github.com/zeusminus/5b7cac0cbd6bcec422776dac5085f25f)
 
 ## Ruleset
 
@@ -76,11 +80,27 @@ The osu! Beatmapping World Championship is run by various community members.
 13. **Teams must consist of users from a single country only.** Merging or combining countries does not allow people to represent their individual country to the fullest. You can only join the team that belongs to the country displayed on your osu! profile.
 14. **Keep the organizers in touch with team updates past the preparation phase.** If a contestant has to drop out from the contest for any reason, please let the staff know about it as soon as possible. No replacements will be allowed and no rewards will be attributed to the user if the team achieves the top 3 or is nominated for the Players' Pick award. Users that quit the contest are not able to rejoin. If the number of participants drops below the required minimum, the team will be disqualified.
 
+## Judging criteria
+
+### Mapper panel
+
+- **Cohesion (30%)**: This criterion will focus on how consistent the map is. All elements of the map has to remain coherent with the rhythm and the music. For instance, if the entry represents the music well and the sections from different members are integrated seamlessly without weird transitions and abrupt spikes, that entry deserves to be praised.
+- **Expertise (30%)**: Our judges are also expected to focus on the advanced skills or expertise of mapping. A map with high expertise shows excellent management over note patterns, flows, movements, and even hitsounds. Those maps are outstanding compared with their peers in this contest and mark themselves as top-tier in the state-of-the-art mapping community.
+- **Creativity (30%)**: As with everything, beatmaps and mapping techniques are subject to change over time. Moreover, the history of osu!mapping is always shaped by creative maps, showing an avant-garde or even ahead-of-time understanding of mapping. Creative yet solid maps are the art of osu! and thus definitely promoted in this contest.
+- **Judge's Impression (10%)**: Judges can use this for extra scores or penalties for their specific comments or remarks on something in the entry.
+
+### Player panel
+
+- **Sophistication (30%)**: This criterion will focus on how comfortable it is to play the beatmap, according to its difficulty level. As much as they can be considered pieces of art, beatmaps are defined as in-game levels made for users to enjoy them. Therefore, for them to gain players' attraction, they need to be player-friendly first.
+- **Profundity (30%)**: Players are supposed to rate the quality of the beatmap by looking at nothing but its structure. Playing a super-simple jump/stream map might be fun, but we are here to have a competition here after all! Establishing complex mapping structures can take vast amounts of time and effort. Thus players are supposed to take the profundities of the beatmaps into account during their evaluation.
+- **Uniqueness (30%)**: Throughout the history of osu!, we can see that beatmaps displaying unique patterns usually be the centre of community attention and sometimes even become era-defining masterpieces. With that in mind, we would like to draw players' attention to the artistic aspects of mapping and see where their opinions revolve.
+- **Player's Impression (10%)**: Players are asked to note down their personal thoughts and subjective opinions regarding the beatmap and rate it accordingly.
+
 ## FAQ
 
 1. **What is this contest?**
 
-The osu! Beatmapping World Championship is a standard mode contest where several countries compete against each other to show off their country's mapping ability. Each team member will be handpicked by a Team Captain, composed of 3 to 6 members, including the Team Captain.
+The osu! Beatmapping World Championship is an osu! mode mapping contest where several countries compete against each other to show off their country's mapping ability. Each team member will be handpicked by a Team Captain, composed of 3 to 6 members, including the Team Captain.
 
 2. **How does this contest work?**
 
@@ -122,9 +142,17 @@ Yes, many of the contest-related events will be broadcasted on our Twitch channe
 
 Your entry will be taken into consideration by the Players' Pick judges even if your team was eliminated in the regular contest. Consider the Players' Pick as a sort of side category that has its own leaderboard.
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

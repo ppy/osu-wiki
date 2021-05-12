@@ -19,7 +19,7 @@ Once you have your desired sound files, move them into the folder of the beatmap
 5. Click `Open Song Folder`.
 6. Paste your files here.
 
-If you are running osu! on MacOS, you may need to take a slightly different approach:
+If you are running osu! on macOS, you may need to take a slightly different approach:
 
 1. Right-click on the osu! application icon and select `Show Package Contents`.
 2. Locate your beatmap's folder in `drive_c -> osu! -> Songs` (sorting by `Last Modified` might be helpful).
