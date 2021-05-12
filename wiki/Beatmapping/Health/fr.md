@@ -9,7 +9,7 @@ tags:
 
 # Les points de vie
 
-Les **points de vie** ou *PV*, est la valeur qui détermine si le joueur a réussi ou échoué une [beatmap](/wiki/Beatmap). La vie est visible dans la [barre de vie](/wiki/Glossary/Health_bar), qui se met à jour au fur et à mesure de la progression du jeu. Le paramètre de difficulté appelé [taux de drain de santé](/wiki/Beatmapping/HP_drain_rate) détermine à quel point il est difficile de garder une valeur de points de vie élevée.
+Les **points de vie** (abrégé en *PV*) est la valeur qui détermine si le joueur a réussi ou échoué une [beatmap](/wiki/Beatmap). La vie est visible dans la [barre de vie](/wiki/Glossary/Health_bar), qui s'actualise au fur et à mesure de la progression du jeu. Le paramètre de difficulté appelé [taux de drain de santé](/wiki/Beatmapping/HP_drain_rate) détermine à quel point il est difficile de garder une valeur de points de vie élevée.
 
 ## osu!
 
@@ -19,7 +19,7 @@ Des bursts de score apparaissent après avoir frappé des cercles, modifiant les
 
 Récupération de vie :
 
-- Une frappe réussie sur le cercle (un meilleur jugement permet de gagner plus de vie ; le dernier cercle de tir d'un combo de couleur donne plus de vie).
+- Une frappe réussie sur le cercle (un meilleur jugement permet de gagner plus de vie ; le dernier cercle d'un combo d'une couleur donne plus de vie).
 - Une frappe réussie sur un début de slider
 - La slider ball a réussi à collecter un slider tick
 - La slider ball a touché la fin du slider ou une flèche inversée avec succès (un meilleur jugement à la marque de fin permet de gagner plus de vie)
