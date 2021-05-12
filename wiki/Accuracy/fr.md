@@ -59,7 +59,7 @@ En raison de la manière dont les mods [DT](/wiki/Game_modifier/Double_time) (Do
 
 #### Error
 
-La valeur `Error` affichera toujours deux valeurs qui représentent l'écart moyen entre les premiers résultats et les derniers résultats. Plus la valeur [Overall Difficulty (OD)](/wiki/Beatmapping/Overall_Difficulty) de la beatmap est élevée, plus les valeurs d'erreur devront être faibles pour obtenir de bons résultats lors de la partie.
+La valeur `Error` affichera toujours deux valeurs qui représentent l'écart moyen entre les premières frappes et les dernières frappes. Plus la valeur de l'[Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) de la beatmap est élevée, plus les valeurs d'Error devront être faibles pour réussir la beatmap.
 
 #### Unstable Rate
 
