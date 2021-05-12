@@ -12,7 +12,7 @@ A trailblazer in electronic music scenes for a decade, **Agressor Bunx** is a Uk
 
 We've picked up a solid **7** tracks for today's release, each with a shorter ~2 minute version available from [**Agressor Bunx**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/164)!
 
-No video this time around, but it's safe to bet that you've heard **Agressor Bunx**'s sound already thanks to a popular beatmap of [*Tornado*](https://osu.ppy.sh/beatmapsets/236292) hosted by [Shadren](https://osu.ppy.sh/users/745494). On top of the classic *Tornado*, we've snagged a few of the duo's newer tracks as well!
+No video this time around, but it's safe to bet that you've heard **Agressor Bunx**'s music already thanks to a popular beatmap of [*Tornado*](https://osu.ppy.sh/beatmapsets/236292) hosted by [Shadren](https://osu.ppy.sh/users/745494). On top of the classic *Tornado*, we've snagged a few of the duo's newer tracks as well!
 
 Check it all out:
 
@@ -50,8 +50,8 @@ Play [this osu! map](https://osu.ppy.sh/beatmapsets/236292) by [Shadren](https:/
 
 ---
 
-Everything above plus a couple more can be found on [**Agressor Bunx**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/164), packed with convenient timing already done and even-more-convenient shorter versions of the songs up for grabs.
+Everything above plus a couple more can be found on [**Agressor Bunx**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/164), packed with convenient timing already done and *even more convenient* shorter versions of the songs up for grabs.
 
-Similar to this release's short version templates, next week's artist release is also paried with some unexpected extras! Look forward to that and investigate the [@osugame Twitter](https://twitter.com/osugame) if you feel an insatiable compulsion to click circles.
+Similar to this release's short version templates, next week's artist release is also paired with some unexpected extras! Look forward to that and investigate the [@osugame Twitter](https://twitter.com/osugame) if you feel an insatiable compulsion to click circles.
 
 —pishifat
