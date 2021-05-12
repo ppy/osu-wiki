@@ -39,7 +39,7 @@ Et c'est tout ! Votre arrière-plan sera remplacé par un mur noir solide, qui n
 
 ### Évitez les espaces vides dans vos images
 
-Pour chaque png que vous utilisez dans votre storyboard, osu! doit dessiner l'ensemble. Même les pixels transparents doivent être "dessinés", de sorte que les images comportant beaucoup d'espace vide imposent un stress inutile à l'ordinateur. C'est un problème facile à résoudre, en général :
+Pour chaque png que vous utilisez dans votre storyboard, osu! doit en dessiner l'ensemble. Même les pixels transparents doivent être "dessinés", de sorte que les images comportant beaucoup d'espaces vides imposent un stress inutile à l'ordinateur. C'est un problème facile à résoudre, en général :
 
 - **Découpez vos images autant que possible.** Photoshop dispose d'un outil qui peut faire cela pour vous. Il vous suffit de cliquer sur Image -> Trim et vous obtiendrez plusieurs options pour recadrer les espaces vides autour de vos bords.
 - **Utilisez les différentes options d'"origine" que vous offre le storyboard.** Disons que vous avez un sprite d'un personnage dont la tête bouge de haut en bas. Dans la plupart des images, il y a un morceau d'espace vide en haut du sprite, parce que vous voulez que toutes les images soient alignées, n'est-ce pas ? Mais si vous définissez l'origine sur BottomCentre, la hauteur du sprite n'aura aucune importance, il sera toujours aligné depuis le bas. Vous pouvez donc éliminer l'espace vide en haut.

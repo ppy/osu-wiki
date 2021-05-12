@@ -33,10 +33,10 @@ Il serait bon de faire des cours accélérés de toutes les commandes en utilisa
 | Nom | Description |
 | :-- | :-- |
 | Boutons `+`/`-` à gauche | Augmenter/diminuer le zoom de la timeline |
-| Flèches `Haut`/`Bas` en bas à gauche | Faites défiler vers le haut/bas la timelie de transformation (pour voir la timeline des mouvements/couleurs). |
+| Flèches `Haut`/`Bas` en bas à gauche | Faites défiler vers le haut/bas la timeline de transformation (pour voir la timeline des mouvements/couleurs). |
 | Centre | Timeline de transformation pour l'objet SB sélectionné. |
 
-#### Contrôle des keyframe
+#### Contrôle des keyframes
 
 Il sera utilisé pour **ajouter des points d'ancrage (points de début/fin).** Il fonctionne à peu près de la même manière que les signets. Les boutons sont juste en dessous de la timeline.
 
