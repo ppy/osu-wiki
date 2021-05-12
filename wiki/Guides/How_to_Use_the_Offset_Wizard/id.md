@@ -23,4 +23,4 @@ Kemudian Offset Wizard akan terbuka, memutar lagu yang sebelumnya diputar di kli
 3. Penyesuaian dilanjutkan hingga Kamu mendengar garis metronom menjadi cocok sempurna dengan lagu, menggunakan bar gulir di layar untuk membantu Kamu.
 4. Setelah Kamu berhasil mencocokkan Universal offset, tekan tombol `Back` di kiri bawah layar untuk keluar dari Offset Wizard.
 
-Jika Kamu merasa metronom terasa terlalu cepat atau terlalu lambat untuk lagu tersebut, Kamu mungkin perlu mengaktifkan `Half tick` atau` Double tick` di kiri atas layar untuk mempermudah penyesuaiannya.
+Jika Kamu merasa metronom terasa terlalu cepat atau terlalu lambat untuk lagu tersebut, Kamu mungkin perlu mengaktifkan `Half tick` atau `Double tick` di kiri atas layar untuk mempermudah penyesuaiannya.
