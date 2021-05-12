@@ -12,7 +12,7 @@ tags:
 
 *Remarque : Dans le cadre de cet article, le terme "tech map" sera considéré comme un terme générique qui inclut toutes ces définitions.*
 
-Les **beatmaps techniques** (abrégé en "tech map") est un terme qui n'a pas de définition claire et acceptée par la communauté d'osu!. Selon l'utilisateur, une "beatmap technique" peut être aussi large qu'une [beatmap](/wiki/Beatmap) qui contient simplement des [patterns](/wiki/Beatmap/Pattern) non génériques, ou aussi spécifique qu'une beatmap dense en [objets](/wiki/Hit_object) et contenant de nombreuses formes irrégulières de [slider](/wiki/Hit_object/Slider) qui changent rapidement et radicalement de vitesse (souvent à haute intensité).
+Les **beatmaps techniques** (abrégé en "tech map") est un terme qui n'a pas de définition claire et acceptée par la communauté d'osu!. En fonction de chaque utilisateur, la définition d'une "beatmap technique" peut être aussi large qu'une [beatmap](/wiki/Beatmap) qui contient simplement des [patterns](/wiki/Beatmap/Pattern) non génériques, ou aussi spécifique qu'une beatmap dense en [objets](/wiki/Hit_object) et contenant de nombreuses formes irrégulières de [slider](/wiki/Hit_object/Slider) qui changent rapidement et radicalement de vitesse (souvent à haute intensité).
 
 Les beatmaps techniques sont le plus souvent associées à des genres musicaux qui offrent des sons complexes et rapides (par exemple, drum-and-bass, dubstep et drumstep), car elles permettent souvent au mappeur d'explorer en détail chaque son individuellement, ce qui profite à la beatmap. Bien que la musique de ce type ne soit pas explicitement requise.
 
@@ -43,7 +43,7 @@ Voici de bons exemples de beatmaps techniques qui correspondent à cette défini
 
 ### Définition la plus restrictive/spécifique
 
-*Attention : La définition "la plus restrictive/spécifique" exige que **tous** les aspects énumérés soient présents afin de définir un beatmap comme étant technique.*
+*Attention : La définition "la plus restrictive/spécifique" exige que **tous** les aspects énumérés soient présents afin de définir une beatmap comme étant technique.*
 
 - Des formes irrégulières des sliders
 - Des changements rapides et nets de la vitesse des sliders
