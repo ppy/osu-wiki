@@ -29,7 +29,6 @@ As always, we start with this month's ranking criteria changes. Let's hop right 
 ### All Modes
 
 - **[Video Games genre for songs that are only video game songs](https://osu.ppy.sh/community/forums/topics/1314759)**
-
 - **[Standardize dividing markers for maps containing 2 or more songs in the title](https://osu.ppy.sh/community/forums/topics/1308666)**
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
@@ -39,9 +38,7 @@ As the cycle of life, the Beatmap Nominators line-up changes every month. New pe
 ### BN Additions
 
 - **osu!:** [Milan-](https://osu.ppy.sh/users/1052994), [Okoratu](https://osu.ppy.sh/users/1623405) & [CallieCube](https://osu.ppy.sh/users/7535045)
-
 - **osu!taiko:** [CallMeLyra](https://osu.ppy.sh/users/15272997)
-
 - **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689), [Souvenir](https://osu.ppy.sh/users/14057792) & [My Angel RangE](https://osu.ppy.sh/users/6336713)
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
@@ -51,9 +48,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 ### BN Departures
 
 - **osu!:** [-Aqua](https://osu.ppy.sh/users/7150015) & [Ayucchi](https://osu.ppy.sh/users/7823498)
-
 - **osu!taiko:** [Ulqui](https://osu.ppy.sh/users/1263669)
-
 - **osu!catch:** [Xinely](https://osu.ppy.sh/users/1521445) & [Myxo](https://osu.ppy.sh/users/2202645)
 
 ## <a id="mappers-showcase"></a>Mappers’ Showcase
