@@ -480,7 +480,7 @@ Voici un exemple de style de référence :
 
 ---
 
-Les liens doivent utiliser le style en ligne s'ils ne sont référencés qu'une seule fois. Le style inline entre crochets doit être évité. Les références aux liens de référence doivent être placées en bas de l'article.
+Les liens doivent utiliser le style en ligne s'ils ne sont référencés qu'une seule fois. Le style en ligne entre crochets doit être évité. Les références aux liens de référence doivent être placées en bas de l'article.
 
 ### Liens internes
 
