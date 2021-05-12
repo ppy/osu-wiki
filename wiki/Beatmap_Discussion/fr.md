@@ -9,7 +9,7 @@ tags:
 
 # Discussion de la beatmap
 
-La **discussion de la beatmap** (aussi connu sous le nom de *Modding v2*) est un système pour gérer et simplifier le processus de [modding](/wiki/Modding). Il vise à fournir une interface claire et compréhensible, où l'amélioration d'un beatmap est au centre des préoccupations. Lorsqu'une beatmap est [soumise](/wiki/Submission), une page de discussion est automatiquement créée à côté de la page d'information de la beatmap. Lorsque la beatmap est mis à jour, la page de discussion est également mise à jour. La page de discussion peut être atteinte en cliquant sur le bouton `Discussion` de la page d'information. La page de discussion de la beatmap se compose de quelques éléments (de haut en bas) :
+La **discussion de la beatmap** (aussi connu sous le nom de *Modding v2*) est un système pour gérer et simplifier le processus de [modding](/wiki/Modding). Il vise à fournir une interface claire et compréhensible, où l'amélioration d'une beatmap est au centre des préoccupations. Lorsqu'une beatmap est [soumise](/wiki/Submission), une page de discussion est automatiquement créée à côté de la page d'information de la beatmap. Lorsque la beatmap est mis à jour, la page de discussion est également mise à jour. La page de discussion peut être atteinte en cliquant sur le bouton `Discussion` de la page d'information. La page de discussion de la beatmap se compose de quelques éléments (de haut en bas) :
 
 - La sélection du mode
 - L'en-tête de la beatmap
@@ -45,7 +45,7 @@ La sélection du mode change le [mode de jeu](/wiki/Game_mode) que vous modifiez
 
 ![](img/beatmap-header-FR.png "En-tête de la beatmap")
 
-L'en-tête du beatmap affiche le titre et l'artiste fournis dans l'[éditeur du beatmap](/wiki/Beatmap_Editor). En cliquant sur l'en-tête du beatmap, vous retournerez à la page d'information.
+L'en-tête de la beatmap affiche le titre et l'artiste fournis dans l'[éditeur du beatmap](/wiki/Beatmap_Editor). En cliquant sur l'en-tête de la beatmap, vous retournerez à la page d'information.
 
 ## Menu de difficulté
 
@@ -70,7 +70,7 @@ Les options de tri modifient la façon dont les discussions sont affichées. Lor
 
 ![](img/visual-timeline-FR.png "Posts de modding répartis sur la timeline")
 
-La visualisation de la timeline affiche tous les mods réalisés pour une difficulté qui utilisent un horodatage. En cliquant sur l'une d'entre elles, vous ferez défiler la liste jusqu'au mod posté à cette date. Notez que toutes les options de filtrage modifieront ce qui est affiché ici. La visualisation de la timeline est un outil utile pour voir d'un coup d'œil combien une beatmap a été modifiée. Une timeline serrée signifie qu'un beatmap a déjà reçu beaucoup d'attention. Les paramètres de la difficulté sélectionnée sont également affichés en haut à droite de la visualisation de la timeline. De gauche à droite, ils décrivent la `Longueur`, le `BPM`, le `Circle Count` et le `Slider Count` d'une difficulté.
+La visualisation de la timeline affiche tous les mods réalisés pour une difficulté qui utilisent un horodatage. En cliquant sur l'une d'entre elles, vous ferez défiler la liste jusqu'au mod posté à cette date. Notez que toutes les options de filtrage modifieront ce qui est affiché ici. La visualisation de la timeline est un outil utile pour voir d'un coup d'œil à quel point une beatmap a été modifiée. Une timeline serrée signifie qu'une beatmap a déjà reçu beaucoup d'attention. Les paramètres de la difficulté sélectionnée sont également affichés en haut à droite de la visualisation de la timeline. De gauche à droite, ils décrivent la `Longueur`, le `BPM`, le `Circle Count` et le `Slider Count` d'une difficulté.
 
 ## Statut de la beatmap
 
@@ -89,7 +89,7 @@ Le train de la hype permet de savoir combien de [hypes](/wiki/Beatmap/Hype) un m
 
 ### Statut de la nomination
 
-Le statut de la nomination permet de suivre les nominations d'un beatmap. Lorsqu'une beatmap a reçu deux nominations, elle est qualifié.
+Le statut de la nomination permet de suivre les nominations d'une beatmap. Lorsqu'une beatmap a reçu deux nominations, elle est qualifié.
 
 ### Informations générales
 
@@ -101,7 +101,7 @@ Les boutons `Suivre` et `Ne plus suivre` permettent de suivre/ne plus suivre les
 
 ### Page de la beatmap
 
-Le bouton `Page de la beatmap` permet de naviguer vers la page d'information d'un beatmap. Cela peut également être fait en cliquant sur l'[en-tête de la beatmap](#en-tête-de-la-beatmap).
+Le bouton `Page de la beatmap` permet de naviguer vers la page d'information d'une beatmap. Cela peut également être fait en cliquant sur l'[en-tête de la beatmap](#en-tête-de-la-beatmap).
 
 ## Onglets de modding
 
@@ -149,7 +149,7 @@ La timeline à gauche d'une discussion montre l'horodatage du message. Ceci est 
 
 ### Tags
 
-Les tags affichent les [rôles importants](/wiki/People/The_Team) sous le nom de l'utilisateur. Seuls les rôles pertinents pour la discussion sur le beatmap sont affichés. Cela inclut les membres `MAPPER`, `BN`, `NAT`, `GMT`, et `DEV` qui ont plus d'options qu'un utilisateur normal regardant une page de discussion.
+Les tags affichent les [rôles importants](/wiki/People/The_Team) sous le nom de l'utilisateur. Seuls les rôles pertinents pour la discussion sur la beatmap sont affichés. Cela inclut les membres `MAPPER`, `BN`, `NAT`, `GMT`, et `DEV` qui ont plus d'options qu'un utilisateur normal regardant une page de discussion.
 
 ### Outils de mise en forme
 
