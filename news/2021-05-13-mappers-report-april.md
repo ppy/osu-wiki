@@ -46,7 +46,7 @@ As the cycle of life, the Beatmap Nominators line-up changes every month. New pe
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
-Head over to the [Beatmap Nominator website](https://bn.mappersguild.com “Beatmap Nominators”) and apply today!
+Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today!
 
 ### BN Departures
 
@@ -84,7 +84,7 @@ And that's it! There's even more to check out, however, because these two have e
 
 Along with amazing storyboards that have come out in general, a sizeable batch of great new storyboards were produced in the recently ended *A Labour of Love* contest! Have a look at its [results news post](http://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love), or its [wiki page](/wiki/Contests/A_Labour_of_Love_Contest) for a list of each participating storyboard!
 
-If you're up for the task to compete with these marvellous creations, you may want to pop in the [osu! storyboarder banquet Discord server](https://discord.gg/B8NX7YW "Discord") for the greatest in the making as well as the latest in the discussion of the art of sprite-twiddling!
+If you're up for the task to compete with these marvellous creations, you may want to pop in the [osu! storyboarder banquet Discord server](https://discord.gg/B8NX7YW) for the greatest in the making as well as the latest in the discussion of the art of sprite-twiddling!
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
