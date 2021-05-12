@@ -58,7 +58,7 @@ Dans certains cas, il est permis de différer le contenu :
 
 ## Page de garde
 
-La page de garde doit être placée tout en haut du fichier. Il est écrit en [YAML](https://fr.wikipedia.org/wiki/YAML#Exemple "Article sur le YAML sur Wikipédia") et décrit des informations supplémentaires sur l'article. Il doit être entouré de trois traits d'union (`---`) sur les lignes qui le précèdent et le suivent, et une ligne vide doit le suivre avant l'intitulé du titre.
+La page de garde doit être placée tout en haut du fichier. Elle est écrite en [YAML](https://fr.wikipedia.org/wiki/YAML#Exemple "Article sur le YAML sur Wikipédia") et décrit des informations supplémentaires sur l'article. Elle doit être entourée de trois traits d'union (`---`) sur les lignes qui la précèdent et la suivent, et d'une ligne vide avant l'intitulé du titre.
 
 ### Articles nécessitant une aide
 
@@ -141,11 +141,11 @@ Le nom du fichier d'un article peut être trouvé dans la colonne `Nom du fichie
 
 ### Articles d'index
 
-Un article d'index doit être créé si le dossier est destiné à contenir uniquement d'autres articles. Les articles d'index doivent contenir une liste d'articles qui se trouvent dans son propre dossier. Ils peuvent également contenir d'autres informations, telles qu'un paragraphe principal ou des descriptions des articles liés.
+Les articles d'index doivent être créés si le dossier est destiné à contenir uniquement d'autres articles, et doivent contenir une liste d'articles qui se trouvent dans son propre dossier. Ils peuvent également contenir d'autres informations, telles qu'un paragraphe principal ou des descriptions des articles liés.
 
 ### Articles de désambiguïsation
 
-Les articles de [désambiguïsation](/wiki/Disambiguation) doit être placé dans le dossier `/wiki/Disambiguation`. La page principale doit être mise à jour pour inclure l'article de désambiguïsation. Voir l'exemple de [Désambiguïsation/Mod](/wiki/Disambiguation/Mod).
+Les articles de [désambiguïsation](/wiki/Disambiguation) doivent être placés dans le dossier `/wiki/Disambiguation`. La page principale doit être mise à jour pour les inclure. Voir l'exemple de [Désambiguïsation/Mod](/wiki/Disambiguation/Mod).
 
 Les redirections doivent être mises à jour afin que les mots clés ambigus soient redirigés vers l'article de désambiguïsation.
 
@@ -205,7 +205,7 @@ Les hatnotes doivent être en italique et placées immédiatement après le titr
 
 ### Page principale
 
-La hatnote *Page principale* dirige le lecteur vers l'article principal d'un sujet. Lorsque cette hatnote est utilisée, elle implique que la section sur laquelle elle se trouve est un résumé de ce dont traite la page liée. Cette hatnote ne doit comporter qu'un seul lien. Ils doivent être formatés comme suit :
+La hatnote *Page principale* dirige le lecteur vers l'article principal d'un sujet. Lorsque cette hatnote est utilisée, elle implique que la section sur laquelle elle se trouve est un résumé de ce dont traite la page liée. Cette hatnote ne doit comporter qu'un seul lien. Elle doit être formatée comme suit :
 
 ```markdown
 *Page principale : {article}*
@@ -213,19 +213,19 @@ La hatnote *Page principale* dirige le lecteur vers l'article principal d'un suj
 *Pages principales : {article} et {article}*
 ```
 
-### Voir également
+### Voir aussi
 
 Les hatnotes *Voir aussi* suggèrent aux lecteurs d'autres points d'intérêt d'un article ou d'une section donnée. Elles doivent être formatées comme suit :
 
 ```markdown
-*Voir également : {article}*
+*Voir aussi : {article}*
 
-*Voir également : {article} et {article}*
+*Voir aussi : {article} et {article}*
 ```
 
 ### Pour voir
 
-Les hatnotes *Pour voir* sont similaires aux hatnotes *Voir aussi*, mais sont généralement plus descriptives et directes. Cette hatnote peut utiliser plus d'un lien si nécessaire. Ceux-ci doivent être formatés comme suit :
+Les hatnotes *Pour voir* sont similaires aux hatnotes *Voir aussi*, mais sont généralement plus descriptives et directes. Cette hatnote peut utiliser plus d'un lien si nécessaire. Elles doivent être formatées comme suit :
 
 ```markdown
 *Pour {description}, voir : {article}`*
@@ -235,7 +235,7 @@ Les hatnotes *Pour voir* sont similaires aux hatnotes *Voir aussi*, mais sont g�
 
 ### À ne pas confondre avec
 
-Les hatnotes *À ne pas confondre avec* aident à distinguer les titres ou sections d'articles ambigus ou mal compris. Cette hatnote peut utiliser plus d'un lien si nécessaire. Ceux-ci doivent être formatés comme suit :
+Les hatnotes *À ne pas confondre avec* aident à distinguer les titres ou sections d'articles ambigus ou mal compris. Elles peuvent utiliser plus d'un lien si nécessaire. Elles doivent être formatées comme suit :
 
 ```markdown
 *À ne pas confondre avec {article}.*
@@ -245,7 +245,7 @@ Les hatnotes *À ne pas confondre avec* aident à distinguer les titres ou secti
 
 ### Pour d'autres utilisations
 
-Les hatnotes *Pour d'autres utilisations* sont similaires aux hatnotes *À ne pas confondre avec*, mais renvoient directement à l'article de désambiguïsation (#articles-de-désambiguïsation). Cette hatnote doit uniquement renvoyer à l'article de désambiguïsation. Elles doivent être formatées comme suit :
+Les hatnotes *Pour d'autres utilisations* sont similaires aux hatnotes *À ne pas confondre avec*, mais renvoient directement à l'article de désambiguïsation (#articles-de-désambiguïsation). Elles doivent uniquement renvoyer à l'article de désambiguïsation. Elles doivent être formatées comme suit :
 
 ```markdown
 *Pour d'autres utilisations, voir {article de désambiguïsation}.*
@@ -255,7 +255,7 @@ Les hatnotes *Pour d'autres utilisations* sont similaires aux hatnotes *À ne pa
 
 *À ne pas confondre avec [Hatnote](#hatnote).*
 
-Une note doit être placée à l'endroit approprié dans une section, mais doit commencer le paragraphe et utiliser l'italique. Les avis peuvent contenir des caractères gras lorsque cela est approprié, mais doivent être limités au minimum. Les notes doivent être rédigées sous forme de phrases complètes. Ainsi, contrairement à la plupart des [hatnotes](#hatnote), elles doivent utiliser un point (`.`) ou un point d'exclamation (`!`) si nécessaire. Tout ce qui se trouve dans le même paragraphe d'un avis doit également être en italique. Ils doivent être formatés comme suit :
+Une note doit être placée à l'endroit approprié dans une section, mais doit commencer le paragraphe et utiliser l'italique. Les notes peuvent contenir des caractères gras lorsque cela est approprié, mais ils doivent être limités autant que possible. Les notes doivent être rédigées sous forme de phrases complètes. Ainsi, contrairement à la plupart des [hatnotes](#hatnote), elles doivent utiliser un point (`.`) ou un point d'exclamation (`!`) si nécessaire. Tout ce qui se trouve dans le même paragraphe qu'une note doit également être en italique. Elles doivent être formatées comme suit :
 
 ```markdown
 *Note : {note}.*
@@ -269,7 +269,7 @@ Une note doit être placée à l'endroit approprié dans une section, mais doit 
 
 - `Note` doit être utilisé pour les détails factuels ou anecdotiques.
 - `Remarque` doit être utilisé pour des rappels ou pour attirer l'attention sur quelque chose dont le lecteur doit être informé.
-- `Attention` doit être utilisé pour avertir le lecteur afin d'éviter des conséquences involontaires.
+- `Attention` doit être utilisé pour avertir le lecteur afin d'éviter des malentendus.
 - `Avertissement` doit être utilisé pour avertir le lecteur que des mesures peuvent être prises à son encontre.
 
 ## Mise en valeur
@@ -288,7 +288,7 @@ Les noms des œuvres ou des jeux vidéo doivent être en italique. osu! (le jeu)
 
 La première occurrence d'une abréviation, d'un acronyme ou d'un sigle peut être mise en italique.
 
-L'italique peut également être utilisée pour mettre l'accent ou faciliter la lecture.
+L'italique peut également être utilisée pour accenter un ou plusieurs mots ou faciliter la lecture.
 
 ## Rubriques
 
@@ -338,7 +338,7 @@ L'exemple suivant a été réalisé correctement :
 
 ### À puces
 
-Les listes à puces doivent utiliser un trait d'union (`-`). Ils doivent ensuite être suivis d'un espace. (Exemple illustré ci-dessous.)
+Les listes à puces doivent utiliser un trait d'union (`-`) et être suivies d'un espace. (Exemple illustré ci-dessous.)
 
 ```markdown
 - osu!
@@ -353,7 +353,7 @@ Les listes à puces doivent utiliser un trait d'union (`-`). Ils doivent ensuite
 - osu!taiko
 ```
 
-### Numéroté
+### Numérotée
 
 Les chiffres d'une liste numérotée doivent être incrémentés pour représenter leur échelon.
 
@@ -431,7 +431,7 @@ Pour l'instant, les commandes `Name` et `Author` dans le fichier de configuratio
 Lorsque vous copiez le nom d'un fichier, la casse des lettres doit être copiée telle qu'elle apparaît. Le cas échéant, préférez les lettres minuscules. (Exemple illustré ci-dessous).
 
 ```markdown
-Pour jouer à osu!, double-cliquez sur l'icône `osu !.exe`.
+Pour jouer à osu!, double-cliquez sur l'icône `osu!.exe`.
 ```
 
 ### Extensions de fichiers
@@ -581,7 +581,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 *Remarque : Les liens externes font référence aux liens qui sortent du domaine `https://osu.ppy.sh/`.*
 
-Le protocole `https` doit être utilisé, sauf si le site ne le prend pas en charge. Les liens externes doivent être des liens propres et directs vers une source réputée. Le texte du lien doit être le titre de la page à laquelle il renvoie. L'URL de la barre d'adresse de votre navigateur Web doit être copiée comme elle l'est pour les liens vers d'autres pages externes.
+Le protocole `https` doit être utilisé, sauf si le site ne le prend pas en charge. Les liens externes doivent être des liens propres et directs vers une source réputée. Le texte du lien doit être le titre de la page à laquelle il renvoie. L'URL de la barre d'adresse de votre navigateur Web doit être copiée telle quelle pour les liens vers d'autres pages externes.
 
 Il n'y a pas de différences visuelles entre les liens externes et les liens Web d'osu!. Pour cette raison, le nom du site web doit être inclus dans le texte du titre. Voir l'exemple suivant :
 
