@@ -381,7 +381,7 @@ La combinaison de listes à puces et de listes numérotées doit être faite ave
 
 ## Code
 
-Le balisage du code est une grave (`` ` ``). Pour mettre des points d'ancrage dans le code, utilisez plutôt des points d'ancrage doubles. Si le point d'interrogation se trouve au début ou à la fin, ajoutez un espace. (Exemple illustré ci-dessous.)
+Le balisage du code est un accent grave (`` ` ``). Pour mettre des accent grave dans le code, utilisez plutôt des accent grave doubles. Si l'accent grave se trouve au début ou à la fin, ajoutez un espace. (Exemple illustré ci-dessous.)
 
 ```markdown
 `` ` ``
@@ -456,7 +456,7 @@ Lorsque vous copiez le nom d'un canal de discussion, commencez par un dièse (`#
 
 *Remarque : La coloration syntaxique pour le texte préformaté n'est pas encore implémentée sur le site web.*
 
-Le texte préformaté (également connu sous le nom de blocs de code) doit être clôturé à l'aide de trois points d'arrêt. Ils doivent définir l'identifiant de la langue pour la coloration syntaxique.
+Le texte préformaté (également connu sous le nom de blocs de code) doit être clôturé à l'aide de trois accent grave. Ils doivent définir l'identifiant de la langue pour la coloration syntaxique.
 
 ## Liens
 
@@ -488,7 +488,9 @@ Les liens doivent utiliser le style en ligne s'ils ne sont référencés qu'une 
 
 #### Liens Wiki
 
-Tous les liens qui pointent vers un article wiki doivent commencer par `/wiki/` suivi du chemin pour arriver à l'article visé. Des liens relatifs peuvent également être utilisés. Voici quelques exemples :
+Tous les liens qui pointent vers un article wiki doivent commencer par `/wiki/` suivi du chemin pour arriver à l'article visé. Des liens relatifs peuvent également être utilisés. 
+  
+Voici quelques exemples :
 
 ```markdown
 [FAQ](/wiki/FAQ)
@@ -507,7 +509,7 @@ Les mauvais exemples sont les suivants :
 [Developers](/wiki/Developers/#game-client-developers)
 ```
 
-Good examples include the following:
+Voici de bons exemples :
 
 ```markdown
 [Critères de style des articles](/wiki/Article_styling_criteria)
