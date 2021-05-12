@@ -83,8 +83,6 @@ If you're up for the task to compete with these marvellous creations, you may wa
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
-## Mapping Contests
-
 Hold it right there competition-thirsty fellows! We're right with you again, and this time with a hefty batch of news related to mapping contests all over the community.
 
 ### A Labour of Love Concludes
