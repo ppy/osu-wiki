@@ -9,11 +9,11 @@ tags:
 
 ![Une capture d'écran du genre, de la langue et des tags sur une page de beatmap.](img/beatmap-info-FR.png "Le genre et la langue sont indiqués sur les pages des beatmap.")
 
-Les [beatmaps](/wiki/Beatmap) soumis au site web ont des champs **genre** et **langue** pour aider à catégoriser les chansons. Ils sont considérés comme faisant partie des *métadonnées* d'une beatmap.
+Les [beatmaps](/wiki/Beatmap) soumises au site web ont des champs **genre** et **langue** pour aider à catégoriser les chansons. Ils sont considérés comme faisant partie des *métadonnées* d'une beatmap.
 
 Le genre et la langue n'ont pas de fonction dans le jeu, mais seront disponibles comme options de recherche dans osu!lazer.
 
-## Liste des beatmap
+## Liste des beatmaps
 
 ![Les filtres disponibles sur la liste des beatmaps](img/beatmap-listing-FR.png)
 
@@ -24,11 +24,11 @@ La [liste des beatmaps](https://osu.ppy.sh/beatmapsets) dispose de filtres pour 
 Le genre et la langue peuvent être modifiés sur le site Web en cliquant sur l'icône en forme de crayon lorsque vous survolez les détails d'une beatmap. Cette possibilité est déterminée par les [groupes d'utilisateurs](/wiki/People/The_Team#user-groups) et la [catégorie](/wiki/Beatmap/Category#beatmap-categories) de la beatmap :
 
 - Les propriétaires de Mapset sont autorisés lorsque la beatmap est dans les catégories [WIP](/wiki/Beatmap/Category#work-in-progress-et-en-attente), [en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente), ou [cimetière](/wiki/Beatmap/Category#cimetière), et n'a pas de nominations.
-- Les membres de la [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) sont autorisés lorsque la beatmap se trouve dans les catégories [qualifié](/wiki/Beatmap/Category#qualifié), WIP, ou en attente.
+- Les membres de la [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) sont autorisés lorsque la beatmap se trouve dans les catégories [qualifiée](/wiki/Beatmap/Category#qualifié), WIP, ou en attente.
 - Les membres de la [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) sont autorisés lorsque la beatmap se trouve dans la catégorie [loved](/wiki/Beatmap/Category#loved).
 - Les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) et des [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) sont autorisés pour toutes les catégories.
 
-Un beatmap ne peut pas être nominé s'il a le genre ou la langue `non spécifié`.
+Une beatmap ne peut pas être nominée si elle a le genre ou la langue `non spécifié`.
 
 ## Liste des genres
 
@@ -42,7 +42,7 @@ Un beatmap ne peut pas être nominé s'il a le genre ou la langue `non spécifi�
 | Autre | N'appartient pas à l'un des genres énumérés. |
 | Novelty | Comique ou inhabituel. Chez osu!, cette catégorie comprend principalement des chansons comme YouTube Poops, Niconico MADs, et la musique même. |
 | Hip Hop | "Musique rythmique stylisée qui accompagne généralement le rap", parfois "en échantillonnant les rythmes ou les lignes de basse des disques". ([La *Musique hip-hop* sur Wikipédia](https://fr.wikipedia.org/wiki/Hip-hop#Caract%C3%A9ristiques)). |
-| Électronique | Composed digitally or with electronic instruments. |
+| Électronique | Composé numériquement ou avec des instruments électroniques. |
 | Métal | Avoir un son lourd, utilisant des guitares électriques et des basses fortes et distordues, et contenant des rythmes de batterie rapides ou denses. |
 | Classique | Formel, structuré autour de la théorie musicale avancée, et ayant des racines dans la vieille culture occidentale ou s'en inspirant. |
 | Folk | Traditionnel ou personnel, décontracté, et reflétant l'identité d'une culture ou d'un groupe de personnes. |
