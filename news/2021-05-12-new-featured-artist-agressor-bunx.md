@@ -21,31 +21,31 @@ Check it all out:
 Play [this osu! map](https://osu.ppy.sh/beatmapsets/236292) by [Shadren](https://osu.ppy.sh/users/745494) and take a guaranteed nostalgia trip back to the days of learning to play Hard Rock for the first time.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/164/Return%20Of%20Gods%20EP%2FAgressor%20Bunx%20-%20Tornado.mp3" type="audio/mpeg">
 </audio>
 
 ### The Order
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/164/The%20Order%20EP%2FAgressor%20Bunx%20-%20The%20Order.mp3" type="audio/mpeg">
 </audio>
 
 ### In Deep
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/164/Power%20Glow%20EP%2FAgressor%20Bunx%20-%20In%20Deep.mp3" type="audio/mpeg">
 </audio>
 
 ### Acid Mirage
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/164/Acid%20Mirage%20EP%2FAgressor%20Bunx%20-%20Acid%20Mirage.mp3" type="audio/mpeg">
 </audio>
 
 ### Free Machine
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/164/The%20Order%20EP%2FAgressor%20Bunx%20-%20Free%20Machine.mp3" type="audio/mpeg">
 </audio>
 
 ---
