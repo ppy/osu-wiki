@@ -8,7 +8,7 @@ date: 2021-05-12 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/164/header.jpg)
 
-A trailblazer in electronic scenes for a decade, **Agressor Bunx** is a Ukrainian duo with an insanely fierce sound. Developing their powerful sound over the years from a simple drum & bass feel to deeper neurofunk tones, the two talents have perfected their craft and are still managing to one-up themselves with each new song.
+A trailblazer in electronic music scenes for a decade, **Agressor Bunx** is a Ukrainian duo with an insanely fierce sound. Developing their musical power over the years from a simple drum & bass feel to deeper neurofunk tones, the two talents have perfected their craft and are still managing to one-up themselves with each new song.
 
 We've picked up a solid **7** tracks for today's release, each with a shorter ~2 minute version available from [**Agressor Bunx**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/164)!
 
