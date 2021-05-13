@@ -58,10 +58,10 @@ From another explosive song by our very own Featured Artist, a mid 6-star tech m
 
 [![](/wiki/shared/news/2021-05-10-project-loved-may-2021/311433.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
-[pocotan - Summer Wing 2013](https://osu.ppy.sh/beatmapsets/311433#osu) by [Necroluttah](https://osu.ppy.sh/users/2917471)\
+[u's - Natsuiro Egao de 1, 2, Jump! Funkot Remix](https://osu.ppy.sh/beatmapsets/311433#osu) by [Necroluttah](https://osu.ppy.sh/users/2917471)\
 180 BPM, 6:14 | 5.82★
 
-Failing to be permanently ranked in 2015 after a tragic unrank, *pocotan - Summer Wings 2013* comes back for a warm reunion to those awaiting its arrival. With another *Love Live!* song hitting the Loved section, this map has consistent jumps with slightly awkward angles, as well as triples and doubles spread evenly throughout. All of this makes for a relaxing experience, so simply ride along and enjoy this map's belated redemption arc. For old players and new, I recommend you give it a try.
+Failing to be permanently ranked in 2015 after a tragic unrank, this map previously known as *Summer Wing 2013* comes back for a warm reunion to those awaiting its arrival. Another *Love Live!* song hitting the Loved section, this map has consistent jumps with slightly awkward angles, as well as triples and doubles spread evenly throughout. All of this makes for a relaxing experience, so simply ride along and enjoy this map's belated redemption arc. For old players and new, I recommend you give it a try.
 
 [![](/wiki/shared/news/2021-05-10-project-loved-may-2021/819239.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
