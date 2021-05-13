@@ -148,7 +148,6 @@ Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Opt
 | "Follow points" | Affichez (et animez) les follow points comme dans le jeu. |
 | Empilage des notes | Stack the overlaid hitcircles as if in-game (dependent on difficulty settings) |
 
-
 ## Compose
 
 *Page principale : [Compose](/wiki/Beatmap_Editor/Compose)*
@@ -243,5 +242,5 @@ Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Opt
 
 | Nom | Description |
 | :-- | :-- |
-| Afficher l'aide (menu Compose)| Ouvre la référence de l'aide en jeu. |
+| Afficher l'aide (menu Compose) | Ouvre la référence de l'aide en jeu. |
 | Ouvrir la FAQ... | Liens vers [Beatmapping](/wiki/Beatmapping). |
