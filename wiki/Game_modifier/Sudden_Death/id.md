@@ -21,12 +21,12 @@ tags:
 - Pengali Skor: 1.00x
 - Tombol shortcut default: `S`
 - Caption: `Lakukan satu kesalahan dan semuanya akan berakhir!`
-- Mode-mode game yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- Mode-mode permainan yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variasi: [Perfect](/wiki/Game_modifier/Perfect)
 
 ## Deskripsi
 
-Mod **Sudden Death** adalah sebuah [game modifier](/wiki/Game_modifier) yang akan membuat pemain gagal dalam sebuah [beatmap](/wiki/Beatmap) ketika meleset dalam mengenai sebuah [hit object](/wiki/Hit_Objects) atau gagal untuk mengumpulkan sebuah slidertick. Mod ini sangat berguna bagi pemain yang ingin mendapatkan [full combo (FC)](/wiki/Glossary#fc). Meskipun ada beberapa perdebatan tentang apakah penggunaan Sudden Death atau tindakan untuk mencoba ulang pada saat [combo break](/wiki/Glossary#combobreak) pertama itu dapat membantu, atau, tidak baik bagi pemain yang ingin skillnya untuk meningkat dengan cepat,
+Mod **Sudden Death** adalah sebuah [game modifier](/wiki/Game_modifier) yang akan membuat pemain gagal dalam sebuah [beatmap](/wiki/Beatmap) ketika meleset dalam mengenai sebuah [hit object](/wiki/Hit_Objects) atau gagal untuk mengumpulkan sebuah slidertick, atau pemain memperoleh miss di dalam permainan. Mod ini sangat berguna bagi pemain yang ingin mendapatkan [full combo (FC)](/wiki/Glossary#fc). Meskipun ada beberapa perdebatan tentang apakah penggunaan Sudden Death atau tindakan untuk percobaan ulang pada poin [combo break](/wiki/Glossary#combobreak) pertama dapat membantu atau tidak, baik bagi pemain yang ingin meningkatkan skillnya dengan cepat.
 
 Lebih spesifik, mod Sudden Death akan hanya membuat pemain gagal dalam sebuah beatmap jika hal-hal dibawah terjadi:
 
@@ -37,9 +37,9 @@ Lebih spesifik, mod Sudden Death akan hanya membuat pemain gagal dalam sebuah be
 Mod Sudden Death **tidak akan** membuat pemain gagal dalam sebuah beatmap jika hal-hal dibawah terjadi:
 
 - Melewatkan sebuah [sliderend](/wiki/Hit_object/Slidertail) (seperti, sliderbreak)
-- Tidak menahan /mengumpulkan pada jalur kosong slider.
+- Tidak menahan/mengumpulkan pada jalur kosong slider.
 
-Tidak seperti variasi dari Sudden Death, [Perfect](/wiki/Game_modifier/Perfect), Beatmap tidak akan diulangi secara otomatis. Pemain hanya akan diberikan layar fail yang biasa saat meleset dalam mengenai sebuah not.
+Tidak seperti variasi dari Sudden Death, mod [Perfect](/wiki/Game_modifier/Perfect) tidak akan mengulangi permainan secara otomatis. Pemain hanya akan diberikan layar fail yang biasa saat meleset dalam mengenai sebuah not.
 
 Mod ini mempunyai fungsi yang sama bagi semua [mode-mode game](/wiki/Game_mode).
 
