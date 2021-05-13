@@ -119,8 +119,6 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
 | --: | :-- | :-: | :-: | :-: |
 | 美国 ![][flag_US] | ![][flag_FR] 法国 | **01:00 UTC+08** | 13:00 (星期日) UTC-04 | 19:00 (星期日) UTC+02 |
 
-
-
 ## 图池
 
 ### 四分之一决赛
@@ -168,7 +166,6 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
   - [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#fruits/76612)
 - Tiebreaker
   - **[you vs. ETIA. - Shang A Lang (kamome sano Remix) (Benita) \[meowning\]](https://osu.ppy.sh/beatmapsets/1450408#fruits/2981985)**
-
 
 ### 小组赛
 
