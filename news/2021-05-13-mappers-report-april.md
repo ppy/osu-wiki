@@ -37,7 +37,7 @@ As is the cycle of life, some Beatmap Nominators come and go every month. Hereâ€
 
 ### BN Additions
 
-- **osu!:** [Milan-](https://osu.ppy.sh/users/1052994), [Okoratu](https://osu.ppy.sh/users/1623405) & [CallieCube](https://osu.ppy.sh/users/7535045)
+- **osu!:** [Okoratu](https://osu.ppy.sh/users/1623405) & [CallieCube](https://osu.ppy.sh/users/7535045)
 - **osu!taiko:** [CallMeLyra](https://osu.ppy.sh/users/15272997)
 - **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689), [Souvenir](https://osu.ppy.sh/users/14057792) & [My Angel RangE](https://osu.ppy.sh/users/6336713)
 
@@ -47,7 +47,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 
 ### BN Departures
 
-- **osu!:** [-Aqua](https://osu.ppy.sh/users/7150015) & [Ayucchi](https://osu.ppy.sh/users/7823498)
+- **osu!:** [-Aqua](https://osu.ppy.sh/users/7150015), [Ayucchi](https://osu.ppy.sh/users/7823498) & [Milan-](https://osu.ppy.sh/users/1052994),
 - **osu!taiko:** [Ulqui](https://osu.ppy.sh/users/1263669)
 - **osu!catch:** [Xinely](https://osu.ppy.sh/users/1521445) & [Myxo](https://osu.ppy.sh/users/2202645)
 
