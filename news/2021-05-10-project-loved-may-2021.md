@@ -24,12 +24,12 @@ That's all for the monthly update, now let's get into those maps!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207) and [Wixonater](https://osu.ppy.sh/users/10083084)! This round, all osu! beatmap descriptions were written by [Wixonater](https://osu.ppy.sh/users/10083084).
 
@@ -91,7 +91,7 @@ Made in early 2017, this map has gathered over 130 favourites over the last 4 ye
 
 An absolutely killer collab between \_MiaoFUuU\_ and EijiKuinbii, this 175 BPM mid-6-star is anything but what it appears on the surface. With a slow start and slow entrance into the main focus of the map, whether the higher velocity sliders, cut streams into doubles, or even the spaced triples gets you, during the kiai there will be no let down. High flow aim control is required with all the back-to-back patterns you will be hit by in this map. This electronic gothic song will leave you with little room to breathe when it gets difficult.
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [KuroKuroKuro](https://osu.ppy.sh/users/11931563), [POCARI SWEAT](https://osu.ppy.sh/users/5082685) and [X a v y](https://osu.ppy.sh/users/3738344)!
 
@@ -145,7 +145,7 @@ We can't deny that this was one of the most popular beatmaps among the entire TW
 
 Rahatt has had a few appearances here in the Loved section already, and we're glad they're back with *Matusa Bomber*, a very fast-paced Gypsycore (as Rahatt likes to call it, meaning a breakcore song with a Balkan sound for its unique flavor) song clocking at 220 BPM. That tempo might not seem like a lot to the most experienced taiko players, but it sure is when you factor in how nananass maps it! As per usual, the "nass style" involves a flurry of 1/6 patterns, mixed 1/8+1/6 patterns, 1/12 snapped 1/6 quadruplets and a lot of burst patterns that might be incredibly hard to hit no matter how good you are, which will require a TON of speed and reading capabilities to get a good score. Good luck!
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Spectator](https://osu.ppy.sh/users/702598), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
 
@@ -192,7 +192,7 @@ Maybe you all are quite familiar with the name "fuhie" already, since he's well-
 
 This month I present you *Insane Techniques*, a collaboration between Minato Yukina and Ascendance, two of the biggest names of osu!catch mapping. The map sort of lacks attention because it was abandoned shortly after its creation, which is a little sad because I think that it is a nice addition to the game, and we have two very proficient mappers involved in it. The style of the map reflects the experience of its mappers; it is overall really clean and has a good flow throughout the map. Most of the patterns are about consistency, lots of stream patterns with the occasional wiggle or hyperchain. While the first half of the map is not as difficult, the second half and especially the ending part will surely challenge you. I think the map spent time in graveyard for way too long already and it is time to give it some love!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Alter-](https://osu.ppy.sh/users/4980256), [Kawawa](https://osu.ppy.sh/users/4647754) and [Penguinosity](https://osu.ppy.sh/users/10235296)!
 
