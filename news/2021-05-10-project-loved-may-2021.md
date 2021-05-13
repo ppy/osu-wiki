@@ -222,6 +222,14 @@ Any tournament frequenter will instantly recognize this pick as one of the most 
 
 Mipha-'s *Battle Against a True Hero* is here to show who the strongest players truly are! This mapset includes two very different difficulties, each with their own respective rates. Starting with the "Challenge" difficulty, this one offers some clean rice patterns that test players' ability to stay patient with lots of short breaks between the relatively comfortable patterns. The final section on this difficulty introduces some heavy hand usage and still keeps these same breaks from before, so your accuracy will be put to the test. Now as for the "Howling" difficulty, the charting takes a turn and becomes full LN. At OD8, your release accuracy abilities are definitely strained. The first half or so you will be coordinating a barrage of short LNs alongside ones that extend further. As for the final leg of the map, hands are also introduced like the Challenge diff, but in full LN form this time. Your reading is truly put to the test to try and properly hit this last tricky section of the map. Give Mipha- your support by voting!
 
+[![](/wiki/shared/news/2021-05-10-project-loved-may-2021/1178017.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+
+[Apo11o"QUASAR"program feat. Endou Shun - saihate](https://osu.ppy.sh/beatmapsets/1178017#mania) by [Tidek](https://osu.ppy.sh/users/743282)\
+155.4 BPM, 2:13 | 5.56★, 5.79★\
+*description written by [-mint-](https://osu.ppy.sh/users/8976576)*
+
+Tidek is back with *saihate*, an extraordinarily difficult hybrid that has just about everything you can ask for—jacks, inverses, streams, and bursts persisting throughout the map. Featured in multiple tournaments including MWC 2020, this map has become increasingly popular, and for good reason, as it constantly provides the player with a significant challenge. And if the default rate wasn't a challenge enough, this mapset includes up to 1.15x, which provides even greater of a challenge for those who are up for it. Because of its quality and popularity, *saihate* pretty clearly deserves a spot in the Loved section, so we hope you'll show the map some support by voting!
+
 [![](/wiki/shared/news/2021-05-10-project-loved-may-2021/875519.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Eir Aoi - INNOCENCE](https://osu.ppy.sh/beatmapsets/875519#mania) by [AWMRone](https://osu.ppy.sh/users/10351684), [Alipay](https://osu.ppy.sh/users/9339256), [Imperial Wolf](https://osu.ppy.sh/users/9080296), [ruka](https://osu.ppy.sh/users/6117525), [SK_la](https://osu.ppy.sh/users/6601796), [Wilben_Chan](https://osu.ppy.sh/users/6659363) and [wjh123](https://osu.ppy.sh/users/1147820)\
