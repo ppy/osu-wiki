@@ -4,7 +4,7 @@
 
 *Note : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119 "Outils IETF") pour décrire les niveaux d'exigence.*
 
-**Attention : cette article n'a pas une réelle importance pour les traductions dans la langue française, il est plus destiné à la création d'articles en langue anglaise.**
+**Attention : cet article n'a pas une réelle importance pour les traductions dans la langue française, il est plus destiné à la création d'articles en langue anglaise.**
 
 Tous les articles en anglais doivent utiliser un anglais simple.
 
@@ -302,7 +302,7 @@ Les expressions `vous` et `votre` sont à éviter. Le `je` ne doit pas être uti
 
 ## Grammar and syntax
 
-Les articles doivent utiliser de préférence une grammaire et une [syntaxe américaines plus simples](https://www.thepunctuationguide.com/british-versus-american-style.html "Le Guide de la ponctuation").
+Les articles doivent utiliser de préférence une grammaire et une [syntaxe américaines plus simple](https://www.thepunctuationguide.com/british-versus-american-style.html "Le Guide de la ponctuation").
 
 ### Contractions
 
