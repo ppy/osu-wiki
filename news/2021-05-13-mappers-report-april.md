@@ -69,7 +69,7 @@ For even more craziness, check out the visuals for [BilliumMoto - life flashes b
 
 Being undoubtedly an outstanding storyboarder for a couple years now, [- AzRaeL -](https://osu.ppy.sh/users/10027577) has amassed quite the collection of beautiful storyboards! Their meticulously squeaky clean visuals have only been improving time after time, showing excellence despite simplicity.
 
-A prime showcase of - AzRaelL -'s expertise is on [Tanchiky - WABI-CIRCUIT (Original Mix)](https://osu.ppy.sh/beatmapsets/1081177), featuring gorgeous artwork with parallax, clean transition effects, and exceptional design. For the intense map, the amazing but minimal background may lend itself well to players who play better without flashy distractions. Do give it a try!
+A prime showcase of - AzRaeL -'s expertise is on [Tanchiky - WABI-CIRCUIT (Original Mix)](https://osu.ppy.sh/beatmapsets/1081177), featuring gorgeous artwork with parallax, clean transition effects, and exceptional design. For the intense map, the amazing but minimal background may lend itself well to players who play better without flashy distractions. Do give it a try!
 
 As a fairly recently ranked example (at least in the storyboarding world), their visuals for [SEKAI NO OWARI - Hey Ho](https://osu.ppy.sh/beatmapsets/1157286#osu/2415040) seem almost too appropriate. This one too has a simpler design, with fitting background art, clear sections that reflect the song, and impactful moments to accentuate the adventurous vibe.
 
