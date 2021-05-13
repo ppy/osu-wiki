@@ -33,7 +33,7 @@ Vous trouverez ci-dessous la liste des langues correctement supportées pour le 
 | `pt-br.md` | Portugais du Brésil | Português (Brasil) |
 | `ro.md` | Roumain | Română |
 | `ru.md` | Russe | Русский |
-| `sk.md` | Slovaquie | Slovenčina |
+| `sk.md` | Slovaque | Slovenčina |
 | `sv.md` | Suédois | Svenska |
 | `th.md` | Thaïlandais | ไทย |
 | `tr.md` | Turc | Türkçe |
@@ -260,7 +260,7 @@ Une note doit être placée à l'endroit approprié dans une section, mais doit 
 ```markdown
 *Note : {note}.*
 
-*Remarque : {notice}.*
+*Remarque : {Remarque}.*
 
 *Attention : {attention}.*
 
@@ -288,7 +288,7 @@ Les noms des œuvres ou des jeux vidéo doivent être en italique. osu! (le jeu)
 
 La première occurrence d'une abréviation, d'un acronyme ou d'un sigle peut être mise en italique.
 
-L'italique peut également être utilisée pour accenter un ou plusieurs mots ou faciliter la lecture.
+L'italique peut également être utilisé pour accenter un ou plusieurs mots ou faciliter la lecture.
 
 ## Rubriques
 
