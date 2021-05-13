@@ -53,11 +53,6 @@ tags:
 
 [グローバルモデレーションチームのグループページ](https://osu.ppy.sh/groups/4)には、チームの全メンバーが掲載されています。下記の分野に加えてすべてのGMTメンバーは、[ビートマップに含まれる視覚的および聴覚的コンテンツの審査](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed)に参加しています。
 
-
-## チームメンバー
-
-*Please note: 特に記載が無ければ全てのGMTは英語を話します* - [Team Page](https://osu.ppy.sh/groups/4)
-
 | 名前 | その他の言語 | 注力分野 |
 | :-- | :-- | :-- |
 | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419) | 中国語, マレー語 | チャットモデレーション |
