@@ -21,7 +21,7 @@ tags:
 - Pengali Skor: 0.90x
 - Tombol shortcut default: `C`
 - Caption: `Putaran (spinner) akan diselesaikan secara otomatis.` 
-- Mode-mode game yang cocok: ![][osu!]
+- Mode permainan yang cocok: ![][osu!]
 
 ## Deskripsi
 
