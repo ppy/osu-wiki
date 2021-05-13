@@ -20,7 +20,7 @@ tags:
 
 - Singkatan: NV
 - Tipe: Spesial
-- Mode-mode game yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- Mode-mode permainan yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Deskripsi
 
