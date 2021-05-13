@@ -22,7 +22,7 @@ As always, we start with this month's ranking criteria changes. Let's hop right 
 
 ### All Modes
 
-- **[Remove Song Restrictions from Qualified](https://osu.ppy.sh/community/forums/topics/1282982)**: Speed rank war! What is it good for? Exactly: Absolutely nothing. With this rule change we finally got rid of them. Now an infinite number of the same songs can be qualified at the same time.
+- **[Remove Song Restrictions from Qualified](https://osu.ppy.sh/community/forums/topics/1282982)**: The days of speed ranking wars are over - multiple versions of the same song can now be qualified at the same time. This rule was a holdover from a bygone time that has lost its relevance in the modern age, and we're glad to see it gone.
 
 ## Open Ranking Criteria Proposals
 
@@ -33,7 +33,7 @@ As always, we start with this month's ranking criteria changes. Let's hop right 
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-As the cycle of life, the Beatmap Nominators line-up changes every month. New people come, old people go, this month was no exception. Here’s a list of all movements in the last month.
+As is the cycle of life, some Beatmap Nominators come and go every month. Here’s a list of all movements in the group recently:
 
 ### BN Additions
 
@@ -53,7 +53,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 
 ## <a id="mappers-showcase"></a>Mappers’ Showcase
 
-A little change in the usual program of the Mappers’ Showcase for this month. As we have so many amazing storyboarders we decided to sneak in another Storyboarder showcase! A lot of thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month's picks.
+As we have so many amazing storyboarders, we've decided to sneak in another Storyboarder showcase this time around! Big thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month's picks.
 
 ### Peter
 
@@ -61,13 +61,13 @@ With an ever-growing prowess for the technical side of storyboarding, [Peter](ht
 
 The concept choice for their interpretation of [Rachel (CV: Chisuga Haruka) - Pray](https://osu.ppy.sh/beatmapsets/940111) is more than fitting for the dark mood of the song. The dense flood of sprites forms a dynamic texture as the background. Along with just the right colour scheme, image choice, and some 3D effects to boot, this storyboard scores full marks on musical representation!
 
-One of their more *expressive* work is for [Utsu-P - I thought I was an angel](https://osu.ppy.sh/beatmapsets/1004320), containing an abundance of complex sprite formations and something that can be only described as pure chaos. While perhaps not comparable to the prettiest of paintings, this storyboard doesn't fail to match the song's intensity in the slightest. Props to anyone who can clear this one with 0% background dim!
+One of their more *expressive* works is for [Utsu-P - I thought I was an angel](https://osu.ppy.sh/beatmapsets/1004320), containing an abundance of complex sprite formations and something that can be only described as pure chaos. While perhaps not comparable to the prettiest of paintings, this storyboard doesn't fail to match the song's intensity in the slightest. Props to anyone who can clear this one with 0% background dim!
 
 For even more craziness, check out the visuals for [BilliumMoto - life flashes before weeb eyes](https://osu.ppy.sh/beatmapsets/985172) and its barrage of pretty colours covering the screen! Nearly every sound in the music is expressed in some way, from the quick synths and piano to the great variety of sound samples. The creative usage of simple shapes, namely circles, hearts, rectangles and triangles, is definitely a good resource for ideas!
 
 ### - AzRaeL -
 
-Being undoubtedly an outstanding storyboarder for a couple years now, [- AzRaeL -](https://osu.ppy.sh/users/10027577) has amassed quite the collection of beautiful storyboards! Their meticulously squeaky clean visuals have only been improving masterpiece after masterpiece, showing excellence despite simplicity.
+Being undoubtedly an outstanding storyboarder for a couple years now, [- AzRaeL -](https://osu.ppy.sh/users/10027577) has amassed quite the collection of beautiful storyboards! Their meticulously squeaky clean visuals have only been improving time after time, showing excellence despite simplicity.
 
 A prime showcase of - AzRaelL -'s expertise is on [Tanchiky - WABI-CIRCUIT (Original Mix)](https://osu.ppy.sh/beatmapsets/1081177), featuring gorgeous artwork with parallax, clean transition effects, and exceptional design. For the intense map, the amazing but minimal background may lend itself well to players who play better without flashy distractions. Do give it a try!
 
@@ -87,9 +87,9 @@ Hold it right there competition-thirsty fellows! We're right with you again, and
 
 ### A Labour of Love Concludes
 
-Oriented around one of the most popular songs within the community, *Kuba Oms - My Love*, A Labour of Love contest has recently come to a conclusion.
+Oriented around one of the most iconic songs within the osu! community (namely *Kuba Oms - My Love*), the A Labour of Love contest has recently come to a close.
 
-Consisting of musician and mapper panels on top of community vote, the contest shed light to the artistic gems lying around within the osu! community, rewarding their outstanding performance with the following:
+Consisting of musician and mapper panels on top of community vote, the contest was the first official full-spectrum (aka, mapping, music and storyboarding in one package) mapping contest held to date, and did a lot to bring light to the artistic talent within the osu! community. Here's a brief coverage of the overall results:
 
 | Award | Team | Submission |
 | :-- | :-- | :-- |
@@ -97,11 +97,11 @@ Consisting of musician and mapper panels on top of community vote, the contest s
 | ![A Labour of Love: Overall Runner-up](https://assets.ppy.sh/profile-badges/alol_overallrunnerup.png "A Labour of Love: Overall Runner-up") | schoolboy fans | [Kuba Oms - My Love (Shadren Remix)](https://osu.ppy.sh/beatmapsets/1382412) |
 | ![A Labour of Love: Overall Winner](https://assets.ppy.sh/profile-badges/alol_overallwinner.png "A Labour of Love: Overall Winner") | extremely valid | [Raphlesia & BilliumMoto - My Love](https://osu.ppy.sh/beatmapsets/1388906) |
 
-Details regarding the results, along with the livestream VOD can be viewed in [this newspost](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love). For further information about the contest, we recommend you pay a visit to the [wiki article](/wiki/Contests/A_Labour_of_Love_Contest)!
+Details regarding the results, along with the livestream VOD (which includes commentary by pishifat, Uberzolik and Ephemeral) can be viewed in [this newspost](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love). For further information about the contest, we recommend you pay a visit to the [wiki article](/wiki/Contests/A_Labour_of_Love_Contest)!
 
 ### Monthly Beatmapping Contest: March & April
 
-Just like our monthly mapping-flavoured bulletin, the streak continues for the Monthly Beatmapping Contest as well. This time, we are letting you know about the conclusion of one as the other is announced.
+Just like our monthly mapping-flavoured bulletin, the streak continues for the Monthly Beatmapping Contest as well.
 
 If you recall, the March edition of the contest was held in both osu! and osu!taiko game modes. On the osu! side of things, we have an underdog among the veterans, [Innovation](https://osu.ppy.sh/users/6304412) winning the contest.
 
@@ -111,7 +111,7 @@ osu!taiko section of the contest had [Ph0eNiiXZ](https://osu.ppy.sh/users/946372
 
 If you're craving for some details, [this newspost](https://osu.ppy.sh/home/news/2021-04-23-results-monthly-beatmapping-contest-march-2021) should satisfy your needs.
 
-Next up, the April edition of Monthly Beatmapping Contest greets us with a few novelties. For the first time ever, the contest will entertain osu!catch submissions in addition to osu! and osu!taiko. The limitations of this month are as follows:
+Next up, the April edition of Monthly Beatmapping Contest greets us with a few novelties. For the first time ever, the contest will entertain osu!catch submissions in addition to osu! and osu!taiko. Though the submission period has since ended, the limitations for April were as follows:
 
 - **osu!**:
     - All sliders must use red anchors.
@@ -121,7 +121,7 @@ Next up, the April edition of Monthly Beatmapping Contest greets us with a few n
 - **osu!catch**:
     - Sliders cannot be used.
 
-Unfortunately, the submission period for this edition ended weeks ago. However, if you're excited to see the results, we suggest you take few minutes to look through [this newspost](https://osu.ppy.sh/home/news/2021-04-08-monthly-beatmapping-contest-april-2021) to keep yourself up-to-date with the details.
+If you're excited to see the results, we suggest you take few minutes to look through [this newspost](https://osu.ppy.sh/home/news/2021-04-08-monthly-beatmapping-contest-april-2021) to keep yourself up-to-date with the details.
 
 For those unfamiliar with the format of the Monthly Beatmapping Contest and its proceedings, go ahead and have a read of the [wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
 
@@ -131,11 +131,11 @@ It's that time of the year again! As for the third mapping contest of this issue
 
 Keeping the notion of country-based competition, the 2021 edition of the contest is allowing multiple teams to be formed to represent a particular country, yet only the best one among them will get the chance of proceeding further than the first round. May the best team win!
 
-What is more, featuring a notable batch of professional circle-clickers, a judging panel consisting of players has been added to the judging scene, which will function like a side dish to the main contest. As the mappers extraordinaire are evaluating the submissions, the player panel will be testplaying these to rate them in accordance with a certain set of criteria. Sounds interesting, doesn't it?
+What's more, a judging panel featuring a notable batch of professional player circle-clickers has been added to the contest proceedings, which will function like a side dish to the main contest. As a hit squad of high-level mappers are evaluating the submissions, the professional player panel will be testplaying these to rate them in accordance with a certain set of criteria. Sounds interesting, doesn't it?
 
-Oh, if you're a drum basher, fruit catcher or keyboard masher, this one is just for you! This year, osu!taiko, osu!catch and osu!mania editions of Beatmapping World Championship are going to be organized as well! Sadly, details for these contests are work-in-progress, but you still have a chance to partake in the judging panels. All you have to do is to fill out [this form](https://forms.gle/Yu2M2ZiwhapJYc7K7)! Good luck!
+Oh, if you're a drum basher, fruit catcher or keyboard masher, this one is just for you! This year, the osu!taiko, osu!catch and osu!mania editions of Beatmapping World Championship are going to be organized as well! The details for these contests are work-in-progress, but you still have a chance to partake in the judging panels if you're interested in helping out - check out [this form](https://forms.gle/Yu2M2ZiwhapJYc7K7) for more details!
 
-The details concerning these and so much more can be found in [this newspost](https://osu.ppy.sh/home/news/2021-05-02-osu-beatmapping-world-championship-2021-registrations-open), [wiki article](/wiki/Contests/oBWC/3) and the [official website](https://obwc.net/). Check them all out!
+The particulars concerning the contest and so much more can be found in full within [this newspost](https://osu.ppy.sh/home/news/2021-05-02-osu-beatmapping-world-championship-2021-registrations-open), the [wiki article](/wiki/Contests/oBWC/3) and the [official website](https://obwc.net/). Check them all out!
 
 ### osu!mania J-Rock Mapping Contest
 
@@ -153,7 +153,7 @@ Looks like another osu!mania-related mapping contest is on the horizon. Here com
 
 Hosted by [Sun](https://osu.ppy.sh/users/4115819), [Murumoo](https://osu.ppy.sh/users/8001433), [Paran](https://osu.ppy.sh/users/13340203) and [deta5859](https://osu.ppy.sh/users/15275662), the contest allows everyone to participate in each of the pre-selected two songs.
 
-The winning entry hosting the runner-ups' guest difficulties will be speed-carried to the ranked section, and you will have the pleasure of being remembered as an *Otaku Mapper*!
+The winning entry hosting the runner-ups' guest difficulties will be speed-carried to the ranked section, and you will have the pleasure of being remembered as an *Otaku Mapper*! For better or worse.
 
 If you're an anime fan, don't let this opportunity pass you by! Have a thorough look at this [forum thread](https://osu.ppy.sh/community/forums/topics/1308172) and you're good to go!
 
@@ -161,7 +161,7 @@ If you're an anime fan, don't let this opportunity pass you by! Have a thorough 
 
 ---
 
-And that’s it for this month's issue of the Mappers’ Report! We are a bit late this month because most of our helpers were pretty busy with IRL. We can’t promise that the next issues will be on time, but we'll try our best!
+And that’s it for this month's issue of the Mappers’ Report! We are a bit late this month because most of our helpers were pretty busy with real life shenanigans. We can’t promise that the next issues will be on time, but we'll try our best!
 
 As always, should you know anything mapping or modding related, be it guides, podcasts or videos, let us know. We would love to touch upon them in the next issue of Mappers' Report!
 
