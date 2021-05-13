@@ -157,7 +157,6 @@ tags:
 | `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  |  |
 
-
 [flag_AR]: /wiki/shared/flag/AR.gif "アルゼンチン"
 [flag_AT]: /wiki/shared/flag/AT.gif "オーストリア"
 [flag_AU]: /wiki/shared/flag/AU.gif "オーストラリア"
