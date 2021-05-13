@@ -53,7 +53,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 
 ## <a id="mappers-showcase"></a>Mappers’ Showcase
 
-As we have so many amazing storyboarders, we've decided to sneak in another Storyboarder showcase this time around! Big thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month's picks.
+Since we have so many amazing storyboarders, we've decided to sneak in another storyboarder showcase this time around! Big thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month's picks.
 
 ### Peter
 
@@ -77,13 +77,13 @@ The storyboard for [Liu Zeng Tong - Lun Hui](https://osu.ppy.sh/beatmapsets/8540
 
 And that's it! There's even more to check out, however, because these two have even more storyboards out there. We look forward to whatever else they may have up their sleeves for the future!
 
-Along with amazing storyboards that have come out in general, a sizeable batch of great new storyboards were produced in the recently ended *A Labour of Love* contest! Have a look at its [results news post](http://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love), or its [wiki page](/wiki/Contests/A_Labour_of_Love_Contest) for a list of each participating storyboard!
+Along with amazing storyboards that have come out in general, a sizeable batch of great new storyboards were produced in the recently ended A Labour of Love contest! You can read a bit more about it in the section below, but do have a look at its [results news post](http://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love), or its [wiki page](/wiki/Contests/A_Labour_of_Love_Contest) for a list of each participating storyboard!
 
 If you're up for the task to compete with these marvellous creations, you may want to pop in the [osu! storyboarder banquet Discord server](https://discord.gg/B8NX7YW) for the greatest in the making as well as the latest in the discussion of the art of sprite-twiddling!
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
-Hold it right there competition-thirsty fellows! We're right with you again, and this time with a hefty batch of news related to mapping contests all over the community.
+Hold it right there competition-thirsty fellows! We're right here with you again, this time with a hefty batch of news related to mapping contests all over the community.
 
 ### A Labour of Love Concludes
 
@@ -105,13 +105,13 @@ Just like our monthly mapping-flavoured bulletin, the streak continues for the M
 
 If you recall, the March edition of the contest was held in both osu! and osu!taiko game modes. On the osu! side of things, we have an underdog among the veterans, [Innovation](https://osu.ppy.sh/users/6304412) winning the contest.
 
-Appearing as the runner-up, [Mao](https://osu.ppy.sh/users/2204515), on the other hand, not only achieves the third tier profile badge but also attains the *Elite Mapper* user title, which later turns into *Elite Mapper II* thanks to his participation in the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) winning entry. As for the Screener Crew #1, [Acylica](https://osu.ppy.sh/users/1943309) takes the spotlight and getting an inch closer to the *Elite Mapper* title. Huge applause to them for their flawless victories!
+On the other hand, appearing as the runner-up, [Mao](https://osu.ppy.sh/users/2204515) not only achieves the third tier profile badge, but also attains the *Elite Mapper* user title. But it doesn't end there, because this title laters turns into *Elite Mapper II* thanks to his participation in the winning entry for [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest). As for the Screener Crew #1, [Acylica](https://osu.ppy.sh/users/1943309) takes the spotlight and gets an inch closer to the *Elite Mapper* title. Huge applause to them for their flawless victories!
 
-osu!taiko section of the contest had [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) rise forth to the first place, followed by [Nifty](https://osu.ppy.sh/users/4956097) as the runner-up. Many congrats to both of them!
+The osu!taiko section of the contest had [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) rise to the first place, followed by [Nifty](https://osu.ppy.sh/users/4956097) as the runner-up. Many congrats to both of them!
 
 If you're craving for some details, [this newspost](https://osu.ppy.sh/home/news/2021-04-23-results-monthly-beatmapping-contest-march-2021) should satisfy your needs.
 
-Next up, the April edition of Monthly Beatmapping Contest greets us with a few novelties. For the first time ever, the contest will entertain osu!catch submissions in addition to osu! and osu!taiko. Though the submission period has since ended, the limitations for April were as follows:
+Next up, the April edition of Monthly Beatmapping Contest greets us with a few novelties. For the first time ever, the contest will entertain osu!catch submissions in addition to osu! and osu!taiko. The submission period has since ended, but for those interested, the limitations for April were as follows:
 
 - **osu!**:
     - All sliders must use red anchors.
@@ -123,27 +123,27 @@ Next up, the April edition of Monthly Beatmapping Contest greets us with a few n
 
 If you're excited to see the results, we suggest you take few minutes to look through [this newspost](https://osu.ppy.sh/home/news/2021-04-08-monthly-beatmapping-contest-april-2021) to keep yourself up-to-date with the details.
 
-For those unfamiliar with the format of the Monthly Beatmapping Contest and its proceedings, go ahead and have a read of the [wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
+For those unfamiliar with the format of the Monthly Beatmapping Contest and its proceedings, go ahead and read through the [wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
 
 ### osu! Beatmapping World Championship 2021: Registrations Open
 
-It's that time of the year again! As for the third mapping contest of this issue, we're featuring the third iteration of the osu! Beatmapping Championship, registrations for which have recently opened.
+It's that time of the year again! For the *third* mapping contest of this issue, we're featuring the *third* iteration of the osu! Beatmapping Championship, registrations for which have already opened.
 
-Keeping the notion of country-based competition, the 2021 edition of the contest is allowing multiple teams to be formed to represent a particular country, yet only the best one among them will get the chance of proceeding further than the first round. May the best team win!
+Keeping the notion of country-based competition, the 2021 edition of the contest is allowing multiple teams to be formed to represent a particular country, yet only one among them will get the chance of proceeding further than the first round. May the best team win!
 
-What's more, a judging panel featuring a notable batch of professional player circle-clickers has been added to the contest proceedings, which will function like a side dish to the main contest. As a hit squad of high-level mappers are evaluating the submissions, the professional player panel will be testplaying these to rate them in accordance with a certain set of criteria. Sounds interesting, doesn't it?
+What's more, a judging panel featuring a notable batch of professional circle-clickers has been added to the contest proceedings, which will function like a side dish to the main contest. While a hit squad of high-level mappers are evaluating the submissions, the professional player panel will be test-playing these to rate them in accordance with a certain set of criteria. Sounds interesting, doesn't it?
 
-Oh, if you're a drum basher, fruit catcher or keyboard masher, this one is just for you! This year, the osu!taiko, osu!catch and osu!mania editions of Beatmapping World Championship are going to be organized as well! The details for these contests are work-in-progress, but you still have a chance to partake in the judging panels if you're interested in helping out - check out [this form](https://forms.gle/Yu2M2ZiwhapJYc7K7) for more details!
+Oh, and if you're a drum basher, fruit catcher or keyboard masher, this one is just for you! This year, the osu!taiko, osu!catch and osu!mania editions of Beatmapping World Championship are going to be organized as well! The details for these contests are work-in-progress, but you still have a chance to partake in the judging panels if you're interested in helping out — check out [this form](https://forms.gle/Yu2M2ZiwhapJYc7K7) for more details!
 
 The particulars concerning the contest and so much more can be found in full within [this newspost](https://osu.ppy.sh/home/news/2021-05-02-osu-beatmapping-world-championship-2021-registrations-open), the [wiki article](/wiki/Contests/oBWC/3) and the [official website](https://obwc.net/). Check them all out!
 
 ### osu!mania J-Rock Mapping Contest
 
-Attention to all J-Rock fans out there! If you're keen on playing a keytar as well, this will probably catch your interest.
+Attention to all J-Rock fans out there! If you're keen on playing the keytar, this will probably catch your interest.
 
 Organized by [RiP46](https://osu.ppy.sh/users/5222596), osu!mania J-Rock Mapping Contest is featuring three lovely songs, each of which everyone can participate in.
 
-As for the most exciting part, the prizes, the winning mapset for each song will be pushed to ranked. Yes, you read it right, but that's not even it! The second and third place runner-ups will have the chance to participate in the winning set with a guest difficulty.
+As for the most exciting part (the prizes), the winning mapset for each song will be pushed to ranked. Yes, you read it right, but that's not even it! The second and third place runner-ups will have the chance to participate in the winning set with a guest difficulty.
 
 Well, what are you waiting for? Start tuning your keytar and head over to the [forum thread](https://osu.ppy.sh/community/forums/topics/1312702) for details!
 
@@ -151,7 +151,7 @@ Well, what are you waiting for? Start tuning your keytar and head over to the [f
 
 Looks like another osu!mania-related mapping contest is on the horizon. Here comes the Otaku TV Size Mapping Contest for you to enjoy the spirit of anime to the fullest!
 
-Hosted by [Sun](https://osu.ppy.sh/users/4115819), [Murumoo](https://osu.ppy.sh/users/8001433), [Paran](https://osu.ppy.sh/users/13340203) and [deta5859](https://osu.ppy.sh/users/15275662), the contest allows everyone to participate in each of the pre-selected two songs.
+Hosted by [Sun](https://osu.ppy.sh/users/4115819), [Murumoo](https://osu.ppy.sh/users/8001433), [Paran](https://osu.ppy.sh/users/13340203) and [deta5859](https://osu.ppy.sh/users/15275662), the contest allows everyone to participate in both of the two pre-selected songs.
 
 The winning entry hosting the runner-ups' guest difficulties will be speed-carried to the ranked section, and you will have the pleasure of being remembered as an *Otaku Mapper*! For better or worse.
 
@@ -161,12 +161,12 @@ If you're an anime fan, don't let this opportunity pass you by! Have a thorough 
 
 ---
 
-And that’s it for this month's issue of the Mappers’ Report! We are a bit late this month because most of our helpers were pretty busy with real life shenanigans. We can’t promise that the next issues will be on time, but we'll try our best!
+And that’s it for this month's issue of the Mappers’ Report! We were a bit late this month because most of our helpers were pretty busy with real life shenanigans. We can’t promise that the next issues will be on time, but we'll try our best!
 
 As always, should you know anything mapping or modding related, be it guides, podcasts or videos, let us know. We would love to touch upon them in the next issue of Mappers' Report!
 
 You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H).
 
-Hope to see you there soon. Thank you for reading, stay safe and healthy!
+Hope to see you there soon. Thank you for reading ⁠— stay safe and healthy!
 
 —Feerum, Walavouchey and Zeus-
