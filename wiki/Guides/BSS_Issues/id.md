@@ -10,10 +10,10 @@ tags:
 Jika **[Sistem Submisi Beatmap](/wiki/Glossary#bss)** (***BSS***) tidak mengizinkan Anda mengunggah beatmap milik sendiri karena dikatakan bahwa map bukan milik Anda, maka lakukan hal berikut ini:
 
 1. Pergi ke folder beatmapset.
-   - Secara singkat dapat melalui [beatmap editor](/wiki/Beatmap_Editor) pada menu `File` lalu tekan `Open Song Folder`.
+   - Secara singkat dapat melalui [beatmap editor](/wiki/Beatmap_Editor) pada menu `File` lalu pilih opsi `Open Song Folder`.
 2. Keluar dari osu! (Ini untuk memastikan bahwa perubahan diterapkan dengan benar.)
 3. Buka berkas tingkat kesulitan `.osu` menggunakan editor plain text apapun (Misalnya. Notepad).
-4. Masukkan nama pengguna ke kotak `Creator`. (Gunakan spasi jika nama pengguna mempunyai spasi.)
+4. Masukkan nama pengguna ke kotak `Creator`. (Jika nama pengguna memiliki spasi, maka gunakan spasi.)
 5. Atur `BeatmapID` menjadi `0`.
 6. Atur `BeatmapSetID` menjadi `-1`.
 7. Pastikan nama folder beatmap tidak dimulai dengan rangkaian angka.
