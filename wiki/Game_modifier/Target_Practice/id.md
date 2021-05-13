@@ -20,11 +20,11 @@ tags:
 - Singkatan: TP
 - Tipe: Spesial
 - Pengali Skor: 1.00x
-- Mode-mode permainan yang cocok: ![][osu!]
+- Mode permainan yang cocok: ![][osu!]
 
 ## Deskripsi
 
-*Catatan: Menggunakan mod Target Practice akan mengakibatkan dalam sebuah unranked play.*
+*Catatan: Menggunakan mod Target Practice akan menjadikan sebuah unranked play.*
 
 Mod **Target Practice** adalah sebuah [game modifier](/wiki/Game_modifier) eksperimental yang menghapus semua [hit object](/wiki/Hit_object) yang ada dan menggantinya dengan kumpulan "target" yang telah disederhanakan dan konsisten.
 
