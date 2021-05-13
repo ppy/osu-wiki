@@ -29,7 +29,7 @@ tags:
 - Tipe: Spesial
 - Pengali Skor: 0.66x–1.00x
 - Tombol shortcut default: `Z` (setiap klik/tekanan, key berganti mulai dari 4K sampai 9K, lalu kembali ke 1K sampai 3K sebelum mod dimatikan)
-- Mode-mode game yang cocok: ![][osu!mania]
+- Mode permainan yang cocok: ![][osu!mania]
 
 ## Deskripsi
 
