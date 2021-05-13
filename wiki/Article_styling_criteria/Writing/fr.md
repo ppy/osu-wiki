@@ -294,7 +294,7 @@ Préférer : Les nominateurs peuvent nommer votre beatmapset.
 
 Les termes `joueur`, `utilisateur`, `skinner`, `scénariste` et `créateur` doivent être utilisés pour désigner le lecteur ou une autre personne. `ils`, `les`, `leur`, et `leurs` peuvent être utilisés si nécessaire.
 
-Les expressions `vous` et `votre` sont à éviter. Le `je` ne doit pas être utilisé. Les termes `nous`, `il` ou `sa` et `elle` ou `son` ne doivent pas être utilisés (voir ci-dessus pour les autres termes).
+Les expressions `tu` et `ton` sont à éviter. Le `je` ne doit pas être utilisé. Les termes `nous`, `il` ou `sa` et `elle` ou `son` ne doivent pas être utilisés (voir ci-dessus pour les autres termes).
 
 ---
 
