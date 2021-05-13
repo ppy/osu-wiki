@@ -129,6 +129,22 @@ Do you want to be able to play stream maps well? This map is for you. Of course,
 
 If you are not good at this kind of stream map, this is a good opportunity to overcome it. And if you're good at it, try this map to get a good record. Have fun!
 
+[![](/wiki/shared/news/2021-05-10-project-loved-may-2021/1335803.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+
+[Dz'Xa - 8284-TM](https://osu.ppy.sh/beatmapsets/1335803#taiko) by [uone](https://osu.ppy.sh/users/5321719)\
+175 BPM, 2:59 | 6.51★\
+*description written by [POCARI SWEAT](https://osu.ppy.sh/users/5082685)*
+
+We can't deny that this was one of the most popular beatmaps among the entire TWC pool. *Dz'Xa - 8284-TM* mapped by uone was selected for the TWC 2021 Quarter Finals and also as the Japanese team qualifier. Dz'Xa is a rising musician in osu!taiko mapping scene, and he is also a taiko player himself! His unique style of music with unconventional beat snappings creates great synergy with taiko mapping. uone expressed the song's polyrhythmic theme and concept very accurately, ultimately making its way to the TWC's mappool. This beatmap will be an exciting challenge for you, so give it a shot!
+
+[![](/wiki/shared/news/2021-05-10-project-loved-may-2021/1336341.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+
+[Rahatt - Matusa Bomber](https://osu.ppy.sh/beatmapsets/1336341#taiko) by [nananass](https://osu.ppy.sh/users/7231722)\
+220 BPM, 3:03 | 8.36★, 8.62★\
+*description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
+
+Rahatt has had a few appearances here in the Loved section already, and we're glad they're back with *Matusa Bomber*, a very fast-paced Gypsycore (as Rahatt likes to call it, meaning a breakcore song with a Balkan sound for its unique flavor) song clocking at 220 BPM. That tempo might not seem like a lot to the most experienced taiko players, but it sure is when you factor in how nananass maps it! As per usual, the "nass style" involves a flurry of 1/6 patterns, mixed 1/8+1/6 patterns, 1/12 snapped 1/6 quadruplets and a lot of burst patterns that might be incredibly hard to hit no matter how good you are, which will require a TON of speed and reading capabilities to get a good score. Good luck!
+
 ## <a id="catch"></a>osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Spectator](https://osu.ppy.sh/users/702598), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
