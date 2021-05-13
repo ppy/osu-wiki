@@ -1,6 +1,6 @@
 # Catégories des beatmaps
 
-Les [beatmaps](/wiki/Beatmap) soumises en ligne sont répartis en catégories en fonction de leurs activités récentes, de leurs [nomination](/wiki/Beatmap_ranking_procedure#qualification) et de leurs popularités.
+Les [beatmaps](/wiki/Beatmap) soumises en ligne sont réparties en catégories en fonction de leurs activités récentes, de leurs [nomination](/wiki/Beatmap_ranking_procedure#qualification) et de leurs popularités.
 
 ## Catégories actuelles
 
