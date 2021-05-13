@@ -16,6 +16,8 @@ Lately there has been a lot of discussion in the `#osu-loved` channel of [osu!de
 - [DigitalHypno](https://osu.ppy.sh/users/4384207) recently organized a usability testing program to help understand what we need to focus on to make Loved more understandable and usable as a category. So far results from that are great, as we've already confirmed some suspected issues and learned about new ones. This month I'm going to try to fix and add things on the osu! website that should help solve those issues.
 - Overall there is some sentiment that we want to make significant changes to the Loved process and presentation, which at largest scope could involve completely redesigning the category—definitely look out for these conversations in `#osu-loved` if you're interested, and please share your thoughts. These are just some ideas floating around right now and no actual plans, but as we make progress on the above two points we'll shift focus to getting more serious about this too.
 
+On top of these developments, we've got some new captains this round! Say hello to [Wixonater](https://osu.ppy.sh/users/10083084) for osu! and [Alter-](https://osu.ppy.sh/users/4980256) for osu!mania. Both are extremely skilled players that are excited to share awesome maps here!
+
 You also may have noticed that the [Project Loved group](https://osu.ppy.sh/groups/31) on the website is public and we've all got group badges now! This should make it easy to identify captains (look for the mode icon in the badge) and get in touch with people involved with Loved.
 
 That's all for the monthly update, now let's get into those maps!
