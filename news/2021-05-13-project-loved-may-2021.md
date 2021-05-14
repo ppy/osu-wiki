@@ -40,7 +40,7 @@ osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/438
 [Umeri - paranoia](https://osu.ppy.sh/beatmapsets/724881#osu) by [Sakurauchi Riko](https://osu.ppy.sh/users/5710809)\
 150 BPM, 3:47 | 6.23★, 6.62★
 
-With inspirations from the Ranked 2014 mapset of the same song, *Umeri - paranoia* is a serene song accompanied by 150 BPM, high-6-star streams with ever-changing difficulty. 
+With inspirations from the Ranked 2014 mapset of the same song, *Umeri - paranoia* is a serene song accompanied by 150 BPM, high-6-star streams with ever-changing difficulty.
 
 A perfect balance between cut streams, spaced triples, and slider rhythms, this map is a challenge for even the best players' flow aim. Throughout its 4 minutes, the map's style stays consistent yet increases gradually in difficulty, all leading to an ending that will push you to the limits of what you've learned throughout the map. Including both CS 3.3 and CS 4 difficulties, hopefully you will all be able to find enjoyment in this wonderful map.
 
@@ -49,16 +49,16 @@ A perfect balance between cut streams, spaced triples, and slider rhythms, this 
 [Hana - Sakura no Uta (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/811908#osu) by [tsundereSam](https://osu.ppy.sh/users/6357685) and [quantumvortex](https://osu.ppy.sh/users/10660777)\
 207 BPM, 3:21 | 7.06★, 8.06★, 8.23★, 8.24★
 
-*Hana - Sakura no Uta* has resounded its bells throughout the community since 2015, with this mapset of the song being no exception. Sitting at 207 BPM as a 1.15x rate speed-up of the song, the difficulties range from low-7★ to 8★, with every single one offering a challenge for your aim. Multiple spikes line the map with squares, triangles, and overall geometric jumps, fitting together cleanly. 
+*Hana - Sakura no Uta* has resounded its bells throughout the community since 2015, with this mapset of the song being no exception. Sitting at 207 BPM as a 1.15x rate speed-up of the song, the difficulties range from low-7★ to 8★, with every single one offering a challenge for your aim. Multiple spikes line the map with squares, triangles, and overall geometric jumps, fitting together cleanly.
 
-With three of the difficulties being made a year apart starting in 2018, and a guest difficulty following in 2020, this set provides exactly what you would hope for in an aim map, likely to entertain people for years to come.
+With three of the difficulties being made a year apart starting in 2018, and a guest difficulty following in 2020, this set provides exactly what you would hope for in an aim map. These Verses of the Sakura Tree I hope to see entertain those who play for the years to come.
 
 [![](/wiki/shared/news/2021-05-13-project-loved-may-2021/752105.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Camellia feat. Nanahira - Rawstyle Bomb](https://osu.ppy.sh/beatmapsets/752105#osu) by [tomadoi](https://osu.ppy.sh/users/5712451)\
 150 BPM, 4:45 | 6.51★
 
-From another explosive song by one of our very own Featured Artists, a mid 6-star tech map arises: *Camellia feat. Nanahira - Rawstyle Bomb*. 
+From another explosive song by one of our very own Featured Artists, a mid 6-star tech map arises: *Camellia feat. Nanahira - Rawstyle Bomb*.
 
 Sitting at 150 BPM, challenging players with slider tech transitioning into 1/3rd and 1/6th alt-burst sections, this 4 minute map gives little time for rest. Although pairing these vastly different styles of play, *Rawstyle Bomb* flows between the two excellently, creating a fun and upbeat experience. By Nanahira's lyrics, "Come on, sing along!", for all who have the pleasure of playing.
 
@@ -67,7 +67,7 @@ Sitting at 150 BPM, challenging players with slider tech transitioning into 1/3r
 [u's - Natsuiro Egao de 1, 2, Jump! Funkot Remix](https://osu.ppy.sh/beatmapsets/311433#osu) by [Necroluttah](https://osu.ppy.sh/users/2917471)\
 180 BPM, 6:14 | 5.82★
 
-Failing to be permanently ranked in 2015 after a tragic unrank, this map previously known as *Summer Wing 2013* comes back for a warm reunion to those awaiting its arrival. 
+Failing to be permanently ranked in 2015 after a tragic unrank, this map previously known as *Summer Wing 2013* comes back for a warm reunion to those awaiting its arrival.
 
 Another *Love Live!* song hitting the Loved section, this map has consistent jumps with slightly awkward angles, as well as triples and doubles spread evenly throughout. All of this makes for a relaxing experience, so simply ride along and enjoy this map's belated redemption arc. For old players and new, I recommend you give it a try.
 
@@ -85,18 +85,18 @@ With the difficulties ranging from 2★ to high 6★, this collab set caters to 
 [goreshit - i love you more each time you die](https://osu.ppy.sh/beatmapsets/965977#osu) by [DE ME TO RI](https://osu.ppy.sh/users/9781471)\
 220 BPM, 6:34 | 6.85★
 
-Simply by eyeing the name goreshit, most players will have a good idea of the 220 BPM stamina map to come. 
+Simply by eyeing the name goreshit, most players will have a good idea of the 220 BPM stamina map to come.
 
-In the 6-minute runtime *i love you more each time you die* plays for, there's the challenge of bursts, tech, slider flow, and the occasional stream - nothing within this map will ever let you off easy. This map stands as a constant stamina check to even those who excel in the field. 
+In the 6-minute runtime *i love you more each time you die* plays for, there's the challenge of bursts, tech, slider flow, and the occasional stream—nothing within this map will ever let you off easy. This map stands as a constant stamina check to even those who excel in the field.
 
-Even those not strong in the speed or stamina skillsets should still check it out - 130 favourites already peg it as a clear crowd pleasure that you'll likely not regret... though your hand might be another story entirely.
+Even those not strong in the speed or stamina skillsets should still check it out—130 favourites already peg it as a clear crowd pleasure that you'll likely not regret... though your hand might be another story entirely.
 
 [![](/wiki/shared/news/2021-05-13-project-loved-may-2021/559466.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [lapix - Morning Glow (feat. kradness)](https://osu.ppy.sh/beatmapsets/559466#osu) by [Cassu2](https://osu.ppy.sh/users/2587961)\
 175 BPM, 3:54 | 5.76★
 
-Made in early 2017, *lapix - Morning Glow (feat. kradness)* has gathered over 130 favourites over the last 4 years, performing well in accessibility to the normally more difficult stream tech niche. 
+Made in early 2017, *lapix - Morning Glow (feat. kradness)* has gathered over 130 favourites over the last 4 years, performing well in accessibility to the normally more difficult stream tech niche.
 
 Sitting at high 5 stars and a comfortable 175 BPM, this map provides a fun alternative to flow aim with cleverly cut and spaced streams, buzz sliders, and finally slight applications of slider tech throughout, managing to cater to a large variety of techniques all at the same time. Whether it be for the map or the upbeat EDM, give this one a shot.
 
@@ -105,9 +105,9 @@ Sitting at high 5 stars and a comfortable 175 BPM, this map provides a fun alter
 [Team Grimoire - RougokuSTRIP (Grimoire crossbreed rmx)](https://osu.ppy.sh/beatmapsets/494923#osu) by [EijiKuinbii](https://osu.ppy.sh/users/6270995) and [\_MiaoFUuU\_](https://osu.ppy.sh/users/4299356)\
 175 BPM, 5:12 | 6.64★
 
-An absolutely killer collab between \_MiaoFUuU\_ and EijiKuinbii, this 175 BPM mid-6-star is anything but what it appears on the surface. 
+An absolutely killer collab between \_MiaoFUuU\_ and EijiKuinbii, this 175 BPM mid-6-star is anything but what it appears on the surface.
 
-With a slow start and ponderous entrance into the main focus of the map, the higher velocity sliders, cut streams into doubles, and even the spaced triples all pose a daunting challenge - doubly so during kiai time. High flow aim control is all but required with the constant back-to-back patterning you will be hit by in this map, creating a challenging experience that makes every second of breathing room you can scrape back count.
+With a slow start and ponderous entrance into the main focus of the map, the higher velocity sliders, cut streams into doubles, and even the spaced triples all pose a daunting challenge—doubly so during kiai time. High flow aim control is all but required with the constant back-to-back patterning you will be hit by in this map, creating a challenging experience that makes every second of breathing room you can scrape back count.
 
 ## osu!taiko
 
@@ -153,7 +153,7 @@ If you are not good at this kind of stream map, this is a good opportunity to ov
 175 BPM, 2:59 | 6.51★\
 *description written by [POCARI SWEAT](https://osu.ppy.sh/users/5082685)*
 
-We can't deny that this was one of the most popular beatmaps among the entire TWC pool. *Dz'Xa - 8284-TM* mapped by uone was selected for the TWC 2021 Quarter Finals and also as the Japanese team qualifier. 
+We can't deny that this was one of the most popular beatmaps among the entire TWC pool. *Dz'Xa - 8284-TM* mapped by uone was selected for the TWC 2021 Quarter Finals and also as the Japanese team qualifier.
 
 Dz'Xa is a rising musician in osu!taiko mapping scene, and he is also a taiko player himself! His unique style of music with unconventional beat snappings creates great synergy with taiko mapping. uone expressed the song's polyrhythmic theme and concept very accurately, ultimately making its way to the TWC's mappool. This beatmap will be an exciting challenge for you, so give it a shot!
 
@@ -163,7 +163,7 @@ Dz'Xa is a rising musician in osu!taiko mapping scene, and he is also a taiko pl
 220 BPM, 3:03 | 8.36★, 8.62★\
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-Rahatt has had a few appearances here in the Loved section already, and we're glad they're back with *Matusa Bomber*, a very fast-paced Gypsycore (as Rahatt likes to call it, meaning a breakcore song with a Balkan sound for its unique flavor) song clocking at 220 BPM. 
+Rahatt has had a few appearances here in the Loved section already, and we're glad they're back with *Matusa Bomber*, a very fast-paced Gypsycore (as Rahatt likes to call it, meaning a breakcore song with a Balkan sound for its unique flavor) song clocking at 220 BPM.
 
 That tempo might not seem like a lot to the most experienced taiko players, but it sure is when you factor in how nananass maps it! As per usual, the "nass style" involves a flurry of 1/6 patterns, mixed 1/8+1/6 patterns, 1/12 snapped 1/6 quadruplets and a lot of burst patterns that might be incredibly hard to hit no matter how good you are, which will require a TON of speed and reading capabilities to get a good score. Good luck!
 
@@ -179,7 +179,7 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 200 BPM, 2:06 | 5.43★, 6.87★\
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-This month we are going back in time once again - all the way back to 2011, when the difficulty "Original ver 2011" was created. ZHSteven, being one of the pioneers of osu!catch mapping, is not a newcomer to the Loved category with this being potentially their *7th* Loved map.
+This month we are going back in time once again—all the way back to 2011, when the difficulty "Original ver 2011" was created. ZHSteven, being one of the pioneers of osu!catch mapping, is not a newcomer to the Loved category with this being potentially their *7th* Loved map.
 
 If you have played any of their maps before, you already know you are in for a bumpy ride. Showcasing its 2011 creation date, the map contains a lot of patterns that you might not see in the maps you see nowadays: namely "low" ar, tight movement pretty much everywhere and the dreaded stairs.
 
@@ -193,9 +193,9 @@ If you are a fan of maps that give you a run for your money, you should 100% giv
 180 BPM, 4:06 | 6.46★\
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-A brand new face to Loved, Seija has been mapping for quite a while now, and is rapidly making a name for himself with his two other ranked maps. *Paradoxy* is pulled straight from his graveyard, showcasing a lot of similarity with his most popular ranked map, [Hypnotize](https://osu.ppy.sh/beatmapsets/901704). 
+A brand new face to Loved, Seija has been mapping for quite a while now, and is rapidly making a name for himself with his two other ranked maps. *Paradoxy* is pulled straight from his graveyard, showcasing a lot of similarity with his most popular ranked map, [Hypnotize](https://osu.ppy.sh/beatmapsets/901704).
 
-There are no crazy out-of-this-world gimmicks to be seen here - just a very solidly mapped difficulty, with an absolute banger track to support it. Players at the mid/high skill level should be able to play this quite well, and people from the higher/highest skill level echelons should be able to have a lot of fun with added mods.
+There are no crazy out-of-this-world gimmicks to be seen here—just a very solidly mapped difficulty, with an absolute banger track to support it. Players at the mid/high skill level should be able to play this quite well, and people from the higher/highest skill level echelons should be able to have a lot of fun with added mods.
 
 So go check this out, see if you enjoy it, and vote yes if you do (this procedure is not quite as charmingly paradoxical as the map itself, but what can you do eh?)!
 
@@ -232,7 +232,7 @@ osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976
 211.2 BPM, 2:09 | 4.58★, 4.90★, 5.25★, 5.62★, 5.96★\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
-NikoSek makes their first appearance in the Loved section with *Colorful*! To preface a bit for this pick, NikoSek is someone who everyone in the osu!mania community should be familiar with by this point. 
+NikoSek makes their first appearance in the Loved section with *Colorful*! To preface a bit for this pick, NikoSek is someone who everyone in the osu!mania community should be familiar with by this point.
 
 Their charting style tends to be very approachable and comfortable for players of all kinds, which has been a big contributor to the immense popularity of most of their sets. *Colorful* here is no exception, being a straightforward chordjack map with some breaks strung throughout. The ending can be a bit tricky however, especially on higher rates, lasting more than 30 seconds and being loaded with quad transitions. Show your support to NikoSek's first chart for Loved by giving your vote!
 
@@ -242,7 +242,7 @@ Their charting style tends to be very approachable and comfortable for players o
 273 BPM, 3:57 | 5.06★, 5.30★, 5.49★, 5.72★\
 *description written by [-mint-](https://osu.ppy.sh/users/8976576)*
 
-Any tournament frequenter will instantly recognize this pick as one of the most notorious and difficult technical maps commonly used in recent mappools. Used in MWC2020 and countless other tournaments, Chrubble's *Dysnomia* is a staple boss chart for the tournament protagonist seeking an adventurous challenge. 
+Any tournament frequenter will instantly recognize this pick as one of the most notorious and difficult technical maps commonly used in recent mappools. Used in MWC 2020 and countless other tournaments, Chrubble's *Dysnomia* is a staple boss chart for the tournament protagonist seeking an adventurous challenge.
 
 Sitting at a whopping 4 minutes, this map persists in its continued intensity and technicality throughout, giving players a massive and formidable challenge. It's no surprise that this map has been used so often in the tournament scene. Its popularity in this regard has garnered the map a spot in Loved voting, and we hope you enjoy this map and give it a vote!
 
@@ -252,9 +252,9 @@ Sitting at a whopping 4 minutes, this map persists in its continued intensity an
 165 BPM, 2:34 | 3.67★ – 6.15★\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
-Mipha-'s *Battle Against a True Hero* is here to show who the strongest players truly are! 
+Mipha-'s *Battle Against a True Hero* is here to show who the strongest players truly are!
 
-This mapset includes two very different difficulties, each with their own respective rates. The "Challenge" difficulty offers some clean rice patterns that test players' ability to stay patient with lots of short breaks between the relatively comfortable patterns, weaving in heavy hand sections during the final portion that are sure to live up to the difficulty's name. 
+This mapset includes two very different difficulties, each with their own respective rates. The "Challenge" difficulty offers some clean rice patterns that test players' ability to stay patient with lots of short breaks between the relatively comfortable patterns, weaving in heavy hand sections during the final portion that are sure to live up to the difficulty's name.
 
 With the "Howling" difficulty, the charting takes a turn and becomes full LN, testing the limits of your release accuracy at OD8 and gradually expanding in the last half to a flurry of hands in the same full LN, really putting your reading skills to the test.
 
@@ -264,9 +264,9 @@ With the "Howling" difficulty, the charting takes a turn and becomes full LN, te
 155.4 BPM, 2:13 | 5.56★, 5.79★\
 *description written by [-mint-](https://osu.ppy.sh/users/8976576)*
 
-Tidek is back with *saihate*, an extraordinarily difficult hybrid that has just about everything you can ask for—jacks, inverses, streams, and bursts persisting throughout the map. 
+Tidek is back with *saihate*, an extraordinarily difficult hybrid that has just about everything you can ask for—jacks, inverses, streams, and bursts persisting throughout the map.
 
-Featured in multiple tournaments including MWC 2020, this map has become increasingly popular and for good reason - it constantly provides the player with a significant challenge. And if the default rate wasn't a challenge enough, this mapset includes rate-ups to 1.15x, which provides even greater of a challenge for those who are up for it. 
+Featured in multiple tournaments including MWC 2020, this map has become increasingly popular and for good reason—it constantly provides the player with a significant challenge. And if the default rate wasn't a challenge enough, this mapset includes rate-ups to 1.15x, which provides even greater of a challenge for those who are up for it.
 
 Because of its quality and popularity, *saihate* pretty clearly deserves a spot in the Loved section, so we hope you'll show the map some support by voting!
 
@@ -276,9 +276,9 @@ Because of its quality and popularity, *saihate* pretty clearly deserves a spot 
 183 BPM, 4:30 | 3.01★ – 8.74★\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
-AWMRone's *INNOCENCE* set is here to give some representation to all key counts. This set includes six other collaborators who helped this variety happen, and all of them took some different approaches to how they mapped the song. 
+AWMRone's *INNOCENCE* set is here to give some representation to all key counts. This set includes six other collaborators who helped this variety happen, and all of them took some different approaches to how they mapped the song.
 
-The 5K, 6K, 7K, and MisterLuka's 4K difficulty all take a long-note-oriented approach, as well as vary in the level of difficulty that they test. The 8K, 9K, 10K, and AWMRone's 4K all have more of a focus put onto the rice dynamics of the chart and also vary greatly in density from each other. 
+The 5K, 6K, 7K, and MisterLuka's 4K difficulty all take a long-note-oriented approach, as well as vary in the level of difficulty that they test. The 8K, 9K, 10K, and AWMRone's 4K all have more of a focus put onto the rice dynamics of the chart and also vary greatly in density from each other.
 
 It's always cool to see mappers come together and collaborate on something like this in order to all provide something different for a variety of players. Give your vote to show support for what AWMRone helped put together here!
 
@@ -288,9 +288,9 @@ It's always cool to see mappers come together and collaborate on something like 
 240 BPM, 2:57 | 7.30★, 7.68★\
 *description written by [Alter-](https://osu.ppy.sh/users/4980256)*
 
-Such an extremely well-made technical hybrid chart can only be made by the talented tournament mapper Gekido- (lemonguy). 
+Such an extremely well-made technical hybrid chart can only be made by the talented tournament mapper Gekido- (lemonguy).
 
-This chart was first introduced for the MWC 7K 2019 Finals mappool to challenge the finalists for their precise control in maintaining consistency, stamina, dense rice, and confusing LN. There are zero mental breaks in regards to maintaining a good score; throughout the song, you're challenged with 240 BPM chordstreams and diversifying trills with technical LN transitions. Even when the song shifts to lower density, you're yet again challenged with light tech LN releases and single trills that may come with unexpected chokes for those not paying attention... 
+This chart was first introduced for the MWC 7K 2019 Finals mappool to challenge the finalists for their precise control in maintaining consistency, stamina, dense rice, and confusing LN. There are zero mental breaks in regards to maintaining a good score; throughout the song, you're challenged with 240 BPM chordstreams and diversifying trills with technical LN transitions. Even when the song shifts to lower density, you're yet again challenged with light tech LN releases and single trills that may come with unexpected chokes for those not paying attention...
 
 Over the 2 years, this map has been seen as a genuine pick for players to add to their practice collections and hone their skills for future tournament use, as this chart pays close attention to similarly charted finalist mappools. To continue that challenging aspect, and raise the stakes for the competitive scene, give your vote to support this chart to go further within the player base!
 
@@ -300,9 +300,9 @@ Over the 2 years, this map has been seen as a genuine pick for players to add to
 160 BPM, 4:30 | 6.41★\
 *description written by [Alter-](https://osu.ppy.sh/users/4980256)*
 
-The well-known mapper and player Kim_GodSSI released this beautifully symmetrical chart in 2018 and has since been known across the 7K community to be a perfect map to getting started in the BMS skillset. 
+The well-known mapper and player Kim_GodSSI released this beautifully symmetrical chart in 2018 and has since been known across the 7K community to be a perfect map to getting started in the BMS skillset.
 
-This is 4 minutes of differentiated rice patterning for any 7K BMS players' dreams. Featured within is consistent, bouncy chordstream/jacking along with technical dump, becoming more dense within the vocal sessions of the song. The chart is definitely no breezefly of a task, as although the patterning is easy to read, it's 4 minutes of constant pressure to maintain consistency, which can definitely be nerve racking to full combo. 
+This is 4 minutes of differentiated rice patterning for any 7K BMS players' dreams. Featured within is consistent, bouncy chordstream/jacking along with technical dump, becoming more dense within the vocal sessions of the song. The chart is definitely no breezefly of a task, as although the patterning is easy to read, it's 4 minutes of constant pressure to maintain consistency, which can definitely be nerve racking to full combo.
 
 With the song being such a joy to listen to, pairing the fun and bouncy structure along with it, this map is definitely a way to start your day! Give it your support by voting for this joyous chart!
 
