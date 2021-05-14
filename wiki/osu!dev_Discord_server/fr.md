@@ -29,5 +29,5 @@ Chaque partie du développement possède son propre canal de discussion :
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki sur GitHub") | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
-| Discussions sur le [Modding](/wiki/Modding) et [réunions de la NAT](/wiki/Modding/NAT_meetings) | `#modding` |
+| Discussions sur le [Modding](/wiki/Modding)/[Réunions de la NAT](/wiki/Modding/NAT_meetings) | `#modding` |
 | Discussions autour de la [Mappers' Guild](/wiki/Mappers_Guild) ainsi que les mises à jour du statut des beatmaps et de l'ajout de quêtes liées à ce projet. | `#mappers-guild` |
