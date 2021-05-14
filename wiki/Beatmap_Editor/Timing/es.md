@@ -6,7 +6,7 @@ no_native_review: true
 
 *También vea: [Cómo timear canciones](/wiki/Guides/How_To_Time_Songs)*
 
-![Pantallazo de la pestaña de tempo en el editor](img/Timing_base.jpg)
+![Pantallazo de la pestaña de tempo en el editor](img/Timing_base.png)
 
 La **pestaña de tempo** del [editor de beatmap](/wiki/Beatmap_Editor) permite que los mapers cambien las configuraciones del tempo de un [beatmap](/wiki/Beatmap). El tempo es usualmente el primer paso al momento de crear un nuevo beatmap.
 
@@ -14,7 +14,7 @@ El tempo consiste en la [compensación](/wiki/Beatmapping/Offset) de una canció
 
 ## Ventana de Tempo y de Punto de Control
 
-![Pantallazo de la ventana de Tempo y Puntos de Control](img/TimingSetup.jpg)
+![Pantallazo de la ventana de Tempo y Puntos de Control](img/TimingSetup.png)
 
 Los puntos de tiempo pueden ser añadidos desde la ventana de `Tiempos y Puntos de Control` en el editor (acceso directo por defecto `F6`). Los puntos de tiempo dividen la canción en secciones para reflejar cambios precisos en el tempo de una canción.
 
