@@ -6,7 +6,7 @@ Ketika suatu akun ter-restrict, akun tersebut tidak dapat berinteraksi dengan or
 
 Berikut fitur-fitur yang dinonaktifkan untuk akun yang ter-restrict:
 
-- Obrolan dalam game
+- obrolan dalam game
 - pesan pribadi
 - posting dalam forum atau bagian komentar
 - mengunggah atau memperbarui beatmap
