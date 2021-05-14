@@ -38,6 +38,6 @@ Anggota dari BN dan NAT terkadang melakukan [veto](/wiki/People/The_Team/Beatmap
 
 ## Ranked
 
-Beatmapset yang telah memenuhi syarat dari tahap kualifikasi dan juga telah memenuhi semua prosedur Ranking. Beatmap tersebut akan memiliki skor di papan peringkat dan beatmap tersebut dapat menghadiahkan pemain dengan perfomance points.
+Beatmapset yang telah memenuhi syarat dari tahap kualifikasi dan juga telah memenuhi semua prosedur Ranking. Beatmap tersebut akan memiliki skor di papan peringkat dan beatmap tersebut dapat menghadiahkan pemain dengan performance points.
 
 Beatmap ranked hanya akan dicopot status ranking-nya jika ditemukan masalah serius.

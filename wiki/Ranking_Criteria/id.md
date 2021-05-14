@@ -92,7 +92,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 - **Koma, `vs.`, `feat.`, `CV:` dan simbol lain yang menghubungkan atau menunjuk artis harus disertai spasi.** Kecuali koma, spasi juga diperlukan jika penanda diawali dengan kata.
 - **Segala bentuk `vs.`, `Vs.`, `VS`, dll. harus ditulis sebagai `vs.` ketika digunakan sebagai penanda kolaborasi antara dua atau lebih artis.**
 - **Segala bentuk `feat.`, `ft.`, `Ft.`, etc. harus ditulis sebagai `feat.` ketika digunakan sebagai penanda tamu artis dalam lagu tersebut.**
-- **Jika karakter fiksi digunakankan sebagai penyanyi lagu, nama mereka akan dirubah dalam format `Karakter (CV: Aktor Suara)`.** Untuk laga hidup, gunakan pengisi suara saja.
+- **Jika karakter fiksi digunakan sebagai penyanyi lagu, nama mereka harus dirubah dalam format `Nama Karakter (CV: Aktor Suara)`.** Untuk laga hidup, gunakan pengisi suara saja.
 - **Jika sebuah lagu digunakan dalam program televisi, serial web, atau serial direct-to-video, seperti lagu pembuka/penutup/sisipan, gunakan penanda `(TV Size)` di akhir judul.** Jika sudah ada penanda TV size di judul, ganti dengan `(TV Size)`.
 - **Jika judul lagu berisi penanda versi singkat atau game, penanda tersebut harus distandardisasi menjadi `(Short Ver.)` dan `(Game Ver.)` berturutan.**
 - **Versi singkat yang tidak resmi harus menambahkan penanda `(Cut Ver.)` di akhir judul.** Jika penanda panjang lagu sudah ada di judul lagu, `(Cut Ver.)` akan menggantinya. Hal ini untuk membedakan versi singkat tidak resmi dari versi panjang lagu tersebut. Lagu yang dipersingkat dengan bagian yang hampir sama dengan versi resminya, dan lagu yang merupakan loop penuh dari lagu yang berulang tidak dianggap dipotong.
