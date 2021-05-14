@@ -106,7 +106,7 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | Canada ![][flag_CA] | ![][flag_TW] Taiwan | **03:30 UTC** | 22:30 (Sat.) UTC-05 | 11:30 UTC+08 |
 | Australia ![][flag_AU] | ![][flag_DE] Germany | **12:30 UTC** | 22:30 UTC+010 | 14:30 UTC+02 |
 | Philippines ![][flag_PH] | ![][flag_RU] Russian Federation | **14:00 UTC** | 22:00 UTC+08 | 17:00 UTC+03 |
-| United States ![][flag_US] | ![][flag_FR] France | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
+| United States ![][flag_US] | ![][flag_FR] France | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 |
 
 ## Mappools
 
