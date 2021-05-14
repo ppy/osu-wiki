@@ -26,7 +26,7 @@
 
 | Nom | Description |
 | :-- | :-- |
-| Tester la beatmap (F5) | Testez la beatmap. Les modifications actuelles seront sauvegardées afin de pouvoir la tester. |
+| Tester la beatmap (`F5`) | Testez la beatmap. Les modifications actuelles seront sauvegardées afin de pouvoir la tester. |
 | Ouvrir AiMod (`Ctrl` + `Shift` + `A`) | Ouvre [AiMod](/wiki/Beatmap_Editor/AiMod). |
 
 ### Commandes de package de la beatmap
