@@ -54,7 +54,7 @@ Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terda
 - ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) (perwakilan QAT)
 - ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092) (perwakilan QAT)
 
-Dalam prakteknya, Ranking Criteria Council dinilai gagal dalam melaksanakan tugasnya. Dari empat divisi yang ada, hanya divisi osu!catch yang berhasil merombak Ranking Criteria yang ada. Ranking Criteria Council pun dibubarkan untuk kemudian digantikan oleh United Beat-Knights of Ranking Criteria.
+Dalam prakteknya, Ranking Criteria Council dinilai gagal dalam melaksanakan tugasnya. Dari empat divisi yang ada, hanya divisi osu!catch yang berhasil merombak Ranking Criteria sebagaimana yang diharapkan. Ranking Criteria Council pun dibubarkan untuk kemudian digantikan oleh United Beat-Knights of Ranking Criteria.
 
 ## United Beat-Knights of Ranking Criteria
 
