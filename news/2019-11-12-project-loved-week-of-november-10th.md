@@ -14,12 +14,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -68,7 +68,7 @@ The \[Cyllinus's Hard\] difficulty is *not* being nominated for Loved.
 
 Many of you may know this map already. It's a jumpy, 7-difficulty spread that actually used to be Loved in the past. If you've never seen this mapset before, the favourite count of over *1,500* might be a sign that you'll want to give it a try. Be sure to drop your vote. After the mapper pulled the mapset out of the Loved category to make some adjustments, it's time for it to go back up for voting!
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822), [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [Ulqui](https://osu.ppy.sh/users/1263669)!
 
@@ -90,7 +90,7 @@ As one of those maps that meant the "calm before the storm" in the osu!taiko Wor
 
 And representing the "storm" we mentioned before, *The illegaL QueeN*, one of the most fearsome maps in the Grand Finals pools for the osu!taiko World Cup 2019 was one we wanted to bring to the Loved section the most after seeing how it made our finalists struggle through it and give us all the chance to see what incredible scores we could have witnessed on this hellish though exquisite map. We could say that tkdLolly's mapping is nowadays unfamiliar to nobody, and this is a perfect example of the masterpieces he brings to us: excellent usage of SV as a tool to emphasize his mapping, perfect placement of bursts in his patterns that are unbelievably tricky yet reasonable to hit, and a musical sense that creates a great playing experience. For all this, we hope to see the competition in this map and really surprising, highlight-worthy scores.
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -114,7 +114,7 @@ Every difficulty in this mapset has a very unique feeling to it. Not one of the 
 
 Kyptoric is back in for some loved action again! *Yotogibanashi no Kamikakushi* is one of his most popular maps that isn't too difficult for most high end players to attempt, having been used in various tournaments and having seen plenty of play in multiplayer lobbies as well. The map itself is fairly straightforward, mostly consisting of jumps with few stream section thrown around here and there. It is very satisfying to play through—the song also being something that tends to appeal to most of the community. The map can be quite challenging for players on the lower end, but is very well doable and even fcable on the higher end of the playerbase, even with hardrock and/or hidden being applied. I am definitely recommending you to give this Kyptoric map a spin, even if you didn't quite like his others maps that have been Loved so far, as this one is quite more streamlined, yet very fun.
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

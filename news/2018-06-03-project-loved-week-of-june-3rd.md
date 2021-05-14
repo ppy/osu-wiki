@@ -24,12 +24,12 @@ Alright then, let's jump right in!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 [![](/wiki/shared/news/2018-06-03-project-loved-week-of-june-3rd/osu/angel-with-a-shotgun-nightcore-mix-.jpg)](https://osu.ppy.sh/community/forums/topics/755746)
 
@@ -101,7 +101,7 @@ I remember one of the first times I checked the /r/osugame subreddit, there was 
 
 Another of my previous favorite mappers that seems to have been forgotten after he went missing is ShiraKai. This mapset for BRYNHILDR IN THE DARKNESS, from of the season's most popular anime, is one of my personal favorites. It does a fantastic job at feeling intense and fast even if the map itself isn't "difficult" to today's standards. Just be careful for the map's final jump/stream pattern, as it's been known to be the cause of many failed runs.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 [![](/wiki/shared/news/2018-06-03-project-loved-week-of-june-3rd/taiko/boogie-woogie-splatter-show.jpg)](https://osu.ppy.sh/community/forums/topics/755763)
 
@@ -154,7 +154,7 @@ Not sure that when KinomiCandy created his name all the way back in 2010, he wou
 
 After many insane gimmick beatmaps going into Loved polls, here's something more tame using a song that has been used (and abused) in the second osu! Aspire contest. This beatmap doesn't double-cross you with absurd ninjas or nigh-impossible reading, making it a good entry point to anyone not too familiar with gimmick maps. However, this doesn't mean you are allowed to let your guard down! SVs, 0 BPM and notes inside spinners are present in this beatmap asuasu\_yura crafted with much love.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 [![](/wiki/shared/news/2018-06-03-project-loved-week-of-june-3rd/catch/r-u-still-xxxx-.jpg)](https://osu.ppy.sh/community/forums/topics/755776)
 
@@ -184,7 +184,7 @@ Do you like stairs? Do you like jumps? Do you like left-rights? Are you in love 
 
 Whenever you hear Furely you're probably first thinking of his already-loved, more gimmicky maps like [Avalon](https://osu.ppy.sh/beatmapsets/345834) or [Ikisugi Trap](https://osu.ppy.sh/beatmapsets/463542); this one, however, is way different. Furely does a great job in bringing the best out of this song. An excellent usage of patterns which compliment the drumstep style of the song make a great flow while not being too easy either. On the other hand it is not too hard which makes it accessible for players who are comfortable with playing overdose-level difficulties. Altogether a very enjoyable map with a neat design - you're in for an intense ride to fight the apocalypse!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 [![](/wiki/shared/news/2018-06-03-project-loved-week-of-june-3rd/mania/ns18.jpg)](https://osu.ppy.sh/community/forums/topics/755784)
 
