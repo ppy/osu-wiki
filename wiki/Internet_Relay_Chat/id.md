@@ -2,7 +2,7 @@
 
 *Untuk informasi lebih lanjut, lihat: [Internet Relay Chat (Wikipedia)](https://id.wikipedia.org/wiki/IRC "Wikipedia")*
 
-[Internet Relay Chat](https://id.wikipedia.org/wiki/IRC), dikenal juga sebagai IRC, adalah sebuah protokol standar yang sering digunakan untuk mengobrol dengan banyak pengguna lain yang tersedia.
+**Internet Relay Chat**, dikenal juga sebagai IRC, adalah sebuah protokol standar yang sering digunakan untuk mengobrol dengan banyak pengguna lain yang tersedia.
 
 ## osu!Bancho
 
@@ -19,7 +19,7 @@ Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server (Anda mungkin
 - **Port:** `6667` 
 - **Password:** Dapatkan di [Otentikasi IRC](https://osu.ppy.sh/p/irc).
 
-*Catatan: Kata sandi IRC Anda berbeda dengan kata sandi akun osu! Anda. **Jangan dibagikan kepada orang lain**.*
+*Peringatan: Kata sandi IRC Anda berbeda dengan kata sandi akun osu! Anda. ***Jangan dibagikan kepada orang lain***.
 
 ## Perintah dasar IRC
 
@@ -35,7 +35,7 @@ Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server (Anda mungkin
 
 ## Menonaktifkan pesan JOIN/PART/QUIT
 
-Pada dasarnya, beberapa klien IRC memberitahumu ketika pengguna bergabung atau pergi meninggalkan kanal. Untuk jaringan seperti osu!Bancho dengan ribuan pengguna yang sering bergabung dan pergi, pesan semacam itu menjadi sebuah spam, yang mungkin ingin Anda sembunyikan. Beberapa daftar klien IRC yang umum dan cara menonaktifkan pesan tersebut dijelaskan di bawah ini:
+Pada dasarnya, beberapa klien IRC memberitahumu ketika seorang pengguna bergabung atau meninggalkan kanal. Untuk jaringan seperti osu!Bancho dengan ribuan pengguna yang sering bergabung dan pergi, pesan semacam itu menjadi spam, yang mungkin ingin Anda sembunyikan. Beberapa daftar klien IRC yang umum dan cara menonaktifkan pesan tersebut dijelaskan di bawah ini:
 
 | IRC client | Deskripsi |
 | :-- | :-- |
@@ -48,11 +48,11 @@ Pada dasarnya, beberapa klien IRC memberitahumu ketika pengguna bergabung atau p
 | [Quassel IRC](https://quassel-irc.org/ "Quassel IRC") | Klik kanan di dalam chat dan pilih Joins/Parts/Quits di "Hide Events" menu |
 | [XChat](http://xchat.org/ "XChat") | Ketik `/set irc_conf_mode 1` |
 
-## Pertanyaan yang sering diajukan
+## Pertanyaan yang sering diajukan (FAQ)
 
 ### Saya tidak bisa bergabung
 
-osu!Bancho menggunakan otentikasi teks biasa - pastikan tidak ada mode otentikasi khusus yang dipilih dalam pengaturan klien IRC Anda.
+osu!Bancho menggunakan otentikasi *plain text* - pastikan tidak ada mode otentikasi khusus yang dipilih dalam pengaturan klien IRC Anda.
 
 Alternatifnya, gunakan alamat server yang berbeda, `cho.ppy.sh` (Anda akan tetap terhubung dengan osu!Bancho).
 
@@ -61,7 +61,7 @@ Alternatifnya, gunakan alamat server yang berbeda, `cho.ppy.sh` (Anda akan tetap
 Ikuti cara ini:
 
 1. Pastikan Anda menggunakan password yang sesuai yang didapatkan dari [halaman otentikasi IRC](https://osu.ppy.sh/p/irc).
-2. Jika nama penggunamu menggunakan spasi, gantilah dengan garis bawah (contoh: `This Username` menjadi `This_Username`).
+2. Jika nama pengguna Anda menggunakan spasi, gantilah dengan garis bawah (contoh: `Username ini` menjadi `Username_ini`).
 
 ### Dapatkah saya menggunakan nama pengguna lain?
 
@@ -76,7 +76,7 @@ Ketik beberapa kata pertama dari nama pengguna, lalu tekan `Tab` untuk memunculk
 Konsep IRC pada umumnya memiliki beberapa mode kanal atau sekumpulan aksi di mana setiap pengguna dapat menggunakannya. Di osu!Bancho terdapat dua mode yang digunakan untuk mewakilkan kelompok khusus pengguna obrolan:
 
 - `+`, atau "voice status": pengguna terhubung dengan klien IRC eksternal
-- `@`, or "chat operator status": pengguna adalah seorang moderator ([GMT](/wiki/GMT) atau [NAT](/wiki/NAT))
+- `@`, atau "chat operator status": pengguna adalah seorang moderator ([GMT](/wiki/GMT) atau [NAT](/wiki/NAT))
 
 Pengguna yang terhubung melalui klien osu! atau website tidak mempunyai prefix.
 
