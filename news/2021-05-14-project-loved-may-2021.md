@@ -202,8 +202,7 @@ So go check this out, see if you enjoy it, and vote yes if you do (this procedur
 [![](/wiki/shared/news/2021-05-14-project-loved-may-2021/1179819.jpg)](https://osu.ppy.sh/community/forums/topics/1323438)
 
 [Hixxy - More and More (MCing in Tesco Cover)](https://osu.ppy.sh/beatmapsets/1179819#fruits) by [fuhie](https://osu.ppy.sh/users/7620002)\
-175.75 – 193.32 BPM, 1:54 | 7.20★, 7.76★\
-The \[spittin bars innit bruv\] difficulty is *not* being nominated for Loved.\
+175.75 – 193.32 BPM, 1:54 | 7.11★, 7.20★, 7.76★\
 *description written by [Spectator](https://osu.ppy.sh/users/702598)*
 
 Already well known for his proficiency at crazy stamina and technical maps, fuhie also moonlights as a mapper when the mood strikes him, as shown with his set for *Hixxy - More and More (MCing in Tesco Cover)*.
