@@ -24,26 +24,26 @@ Check that out and listen to the rest of these awesome song previews:
 
 ### CONSUMPTION
 
-[Beatmap template download](LINK)
+[Beatmap template download](https://assets.ppy.sh/artists/165/Songs/Kitazawa%20Kyouhei%20feat.%20Hatsune%20Miku%20-%20CONSUMPTION.osz)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/165/Songs/Kitazawa%20Kyouhei%20feat.%20Hatsune%20Miku%20-%20CONSUMPTION.mp3" type="audio/mpeg">
 </audio>
 
 ### CANNIBALISM
 
-[Beatmap template download](LINK)
+[Beatmap template download](https://assets.ppy.sh/artists/165/Songs/Kitazawa%20Kyouhei%20feat.%20flower%20-%20CANNIBALISM.osz)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/165/Songs/Kitazawa%20Kyouhei%20feat.%20flower%20-%20CANNIBALISM.mp3" type="audio/mpeg">
 </audio>
 
 ### TRUE-QUEEN
 
-[Beatmap template download](LINK)
+[Beatmap template download](https://assets.ppy.sh/artists/165/Songs/Kitazawa%20Kyouhei%20feat.%20Hatsune%20Miku%20-%20TRUE-QUEEN.osz)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/165/Songs/Kitazawa%20Kyouhei%20feat.%20Hatsune%20Miku%20-%20TRUE-QUEEN.mp3" type="audio/mpeg">
 </audio>
 
 ---
