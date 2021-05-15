@@ -50,7 +50,7 @@
 
 | Nom | Description |
 | :-- | :-- |
-| Quitter... (`Esc`) | Quitter l'éditeur de Beatmap. Peut vous demander de sauvegarder les changements récents. Parfois *ignore* les modifications de l'onglet Design. |
+| Quitter... (`Esc`) | Quitte l'éditeur de beatmap. Peut vous demander de sauvegarder les changements récents. Parfois *ignore* les modifications de l'onglet Design. |
 
 ## Éditer
 
