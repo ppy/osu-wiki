@@ -6,7 +6,7 @@
 
 ## osu!Bancho
 
-*Catatan: server ini hanya menyediakan sebagian penerapan dari protokol IRC. beberapa fitur tak berdasar seperti [HexChat](https://hexchat.github.io/) mungkin tidak bekerja dengan baik atau tidak sama sekali.*
+*Catatan: server ini hanya menyediakan sebagian penerapan dari protokol IRC. Beberapa fitur pada client IRC yang tak berdasar seperti di [HexChat](https://hexchat.github.io) mungkin tidak bekerja dengan baik atau tidak sama sekali.*
 
 *osu!Bancho* (sering disingkat menjadi *Bancho*) menawarkan untuk mengakses IRC (in-game chat). Anda dapat menggunakan klien IRC apa pun untuk terhubung ke osu!Bancho (lihat daftar IRC di bawah yang paling umum digunakan).
 
