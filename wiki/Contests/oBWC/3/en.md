@@ -210,7 +210,7 @@ Yes, you can. Upon joining, you'll be placed in the `#arrival` channel, where yo
 
 8. **"All team members must contribute each round throughout the contest." - Do I have to work with my team as a whole on each map?**
 
-Yes! We set this rule to make sure the main spirit of the contest about collaborations remains, while not restricting people with their team management. If you want to work on a full team on each stage, you’re encouraged to do so!
+Yes! We set this rule to make sure the main spirit of the contest about collaborations remains, while not restricting people with their team management. Aside from mapping a particular section of the entry, hitsounding, making sliderarts, combo-colouring, and modding can be considered as valid contributions. Organization of these tasks is totally up to you!
 
 9. **Can I make an osu!mania, osu!taiko or osu!catch beatmap?**
 
