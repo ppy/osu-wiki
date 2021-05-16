@@ -156,6 +156,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
+| ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesian |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesian |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Swedish |
@@ -163,6 +164,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korean |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korean, Japanese |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesian |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Indonesian |
@@ -211,8 +213,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |
 
 ## History
 
