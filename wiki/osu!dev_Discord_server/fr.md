@@ -1,6 +1,6 @@
 ---
 tags:
-  - development
+  - développement
 ---
 
 # Serveur Discord osu!dev
