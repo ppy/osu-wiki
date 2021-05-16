@@ -156,6 +156,7 @@ tags:
 | Имя | Языки |
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Китайский |
+| ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Индонезийский |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Индонезийский |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Шведский |
@@ -163,6 +164,7 @@ tags:
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Корейский |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Корейский, японский |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Испанский, португальский, итальянский, японский |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Филиппинский |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Индонезийский |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Индонезийский |
