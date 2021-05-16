@@ -65,6 +65,8 @@ The osu! Beatmapping World Championship is run by various community members.
 - [Official website](https://obwc.net/)
 - [Official documentation](https://gist.github.com/zeusminus/5b7cac0cbd6bcec422776dac5085f25f)
 
+## Participants
+
 |  | Country | Name | Members |
 | :-: | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **MaestroSplinter** | **[MaestroSplinter](https://osu.ppy.sh/users/6707918)**, [Birke](https://osu.ppy.sh/users/3265658), [Chaphe](https://osu.ppy.sh/users/8428983), [fusionnqn](https://osu.ppy.sh/users/11606403), [Lince Cosmico](https://osu.ppy.sh/users/6070370), [Megafan](https://osu.ppy.sh/users/6632605) |
