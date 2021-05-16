@@ -209,7 +209,7 @@ Abbreviations for user groups are used throughout this log:
 
 ### Beatmap Nominators
 
-- 2021-05-13: Moved [Mao](https://osu.ppy.sh/users/2204515) from **NAT** to **osu!Alumni**
+- 2021-05-13: Moved [Mao](https://osu.ppy.sh/users/2204515) from **NAT** to **osu! Alumni**
 
 #### Additions
 
