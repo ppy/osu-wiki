@@ -228,9 +228,11 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-15: Moved [Kudosu](https://osu.ppy.sh/users/11038155) from **Probationary BN** to **BN**
 - 2021-04-15: Moved [Default Guy](https://osu.ppy.sh/users/7058457) from **BN** to **Probationary BN**
 - 2021-04-15: Moved [davidminh0111](https://osu.ppy.sh/users/9623142) from **BN** to **Probationary BN**
+- 2021-04-16: Moved [Komirin](https://osu.ppy.sh/users/4725379) from **Probationary BN** to **BN**
+- 2021-04-16: Moved [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2021-04-09: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **BN**
 
-<!-- last update: 2021-05-16 21:00 UTC moved davidminh0111 to probationary bn -->
+<!-- last update: 2021-05-16 22:00 UTC moved AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH to full bn -->
