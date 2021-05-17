@@ -34,7 +34,7 @@ The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) is a worldwide 
 | Qualifiers | 2021-03-27/2021-03-28 |
 | Semifinals | 2021-04-03/2021-04-04 |
 | Finals | 2021-04-10/2021-04-11 |
-| Grand Finals | 2021-04-17 |
+| Grand Finals & Japan vs The Rest of the world | 2021-04-17 |
 
 ## Prizes
 
