@@ -53,7 +53,7 @@ The replay will be paused, darken, and with an osu!logo at the foreground center
 ![](img/Replay_discussion_example.jpg "An example of comment flow")
 
 To filter the comments by difficulty, enable `Difficulty (#)`.
-To filter the comments by the overall beatmapset, enable `Song (#)`.
+To filter the comments by the overall beatmap, enable `Song (#)`.
 When watching a top play from the `Global leaderboard`, enable `Player (#)` to show comments from the player itself.
 
 Mapper's comment will be placed above the flowing comments with a light-blue text and an jump-out/jump-in animation instead.
@@ -109,7 +109,7 @@ A white, hovering text from right-to-left, will be shown above the comments but 
 The format is shown below unless stated otherwise:-
 
 ```
-Format : REPLAY MODE - Watching {PlayerName} play {ArtistName} - {BeatmapsetName} [{Difficulty}]
+Format : REPLAY MODE - Watching {PlayerName} play {ArtistName} - {BeatmapName} [{Difficulty}]
 Example: REPLAY MODE - Watching osu! play Peter Lambert - osu!tutorial [Gameplay Basics]
 ```
 
@@ -194,7 +194,7 @@ A white, hovering text from right-to-left will be shown on top when watching a s
 The format and example is shown below:-
 
 ```
-Format : SPECTATOR MODE - Watching {PlayerName} play {ArtistName} - {BeatmapsetName} [{Difficulty}]
+Format : SPECTATOR MODE - Watching {PlayerName} play {ArtistName} - {BeatmapName} [{Difficulty}]
 Example: SPECTATOR MODE - Watching peppy play Peter Lambert - osu!tutorial [Gameplay Basics]
 ```
 

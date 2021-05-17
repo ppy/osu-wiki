@@ -465,7 +465,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### November
 
-- **2020-11-30:** Hybrid beatmapsets were reworked to require 2 nominations per game mode. <!-- https://github.com/ppy/osu-web/pull/6832 -->
+- **2020-11-30:** Hybrid beatmaps were reworked to require 2 nominations per game mode. <!-- https://github.com/ppy/osu-web/pull/6832 -->
     - Nominators proficient in multiple game modes could select one or more game modes to nominate on applicable mapsets.
 
 ### December
