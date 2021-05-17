@@ -38,6 +38,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!taiko World Cup 2018](TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_CA] Canada |
 | [osu!taiko World Cup 2019](TWC/2019) | 2019-04-20 | 2019-05-26 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_KR] South Korea |
 | [osu!taiko World Cup 2020](TWC/2020) | 2020-03-07 | 2020-04-12 | ![][flag_JP] Japan | ![][flag_KR] South Korea | ![][flag_GB] United Kingdom |
+| [osu!taiko World Cup 2021](TWC/2021) | 2021-03-06 | 2021-04-11 | ![][flag_JP] Japan | ![][flag_KR] South Korea | ![][flag_BR] Brazil |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -275,6 +276,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 2020-06-06 | 2020-07-19 | ![][flag_US] Unites States A | ![][flag_JP] Japan A | ![][flag_SG] Singapore |
 | [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 2020-09-12 | 2020-11-01 | ![][flag_SG] Singapore | ![][flag_CN] China A | ![][flag_JP] Japan A |
 | [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 2020-12-05 | 2021-02-07 | ![][flag_HK] Hong Kong | ![][flag_CA] Canada | ![][flag_RO] Romania |
+| [Continental Global Taiko Showdown 2021](GTS/CGTS_2021) | 2021-02-06 | 2021-04-17 | Asia | Europe | North America |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
@@ -305,12 +307,28 @@ Unofficial tournaments/competitions hosted by the communities.
 | Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) | ![][flag_PT] [Just2Gud](https://osu.ppy.sh/users/4430263) | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
 | [Beginners' Taiko Tournament 4](BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
 | [Beginners' Taiko Tournament 5](BTT/5) | 2020-01-25 | 2020-03-15 | ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252) | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) |
+| [Beginners' Taiko Tournament 6](BTT/6) | 2021-02-06 | 2021-04-04 | ![][flag_US] [-Schwarts](https://osu.ppy.sh/users/4673649) | ![][flag_CA] [Garfield\_osu](https://osu.ppy.sh/users/9743947) | ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889) |
 
 ### ![](/wiki/shared/mode/taiko.png) 3 Digit Taiko World Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [3 Digit Taiko World Cup](3TWC/1) | 2021-01-09 | 2021-02-21 | ![][flag_CN] China | ![][flag_KR] South Korea | ![][flag_MY] Malaysia |
+
+### ![](/wiki/shared/mode/taiko.png) North & South American Taiko Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [North American Taiko Tournament 2018](NSATT/NATT_2018) | 2018-07-28 | 2018-09-01 | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
+| [North & South American Taiko Tournament 2019](NSATT/NSATT_2019) | 2019-06-22 | 2019-07-28 | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_BR] [eae](https://osu.ppy.sh/users/4050738) |
+
+### ![](/wiki/shared/mode/taiko.png) Ausu!Taiko Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Ausu!Taiko Tournament 2019](ATT/2019) | 2019-07-13 | 2019-08-11 | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
+| [Ausu!Taiko Tournament 2020](ATT/2020) | 2020-05-09 | 2020-06-07 | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| [Ausu!Taiko Tournament 2021](ATT/2021) | 2021-04-24 | 2021-05-23 | - | - | - |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
@@ -435,6 +453,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania South East Asia Champion 2020](SEAC/2020) | 2020-12-26 | 2021-02-14 | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ![][flag_VN] [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) | ![][flag_VN] [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
+
+### ![](/wiki/shared/mode/mania.png) osu!mania Flashlight 4K Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania Flashlight 4K Tournament](FL4T/1) | 2021-02-06 | 2021-03-21 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) | ![][flag_PH] [- l e j -](https://osu.ppy.sh/users/6413944) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 

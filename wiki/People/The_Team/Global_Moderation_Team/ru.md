@@ -76,7 +76,6 @@ tags:
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Поддержка игроков, администрирование вики |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Польский | Модерация чата |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Модерация чата, модерация карт |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Испанский | Турниры |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Кантонский диалект, китайский, японский | Модерация чата, модерация карт |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Русский | Модерация чата, модерация карт |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Русский | Модерация чата |
@@ -152,7 +151,7 @@ tags:
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |

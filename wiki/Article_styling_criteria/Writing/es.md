@@ -1,4 +1,5 @@
 ---
+outdated: true
 no_native_review: true
 ---
 
@@ -87,7 +88,7 @@ Al escribir los modificadores de juego para los artículos de los torneos, deben
 Los elementos de juego no deben ser puestos en minúsculas, a menos que actúen como un título para un enlace que apunte al artículo. El siguiente es un ejemplo:
 
 ```markdown
-En el osu!standard, los beatmaps se componen de tres elementos de juego diferentes: hit circles, sliders y spinners.
+En el osu!, los beatmaps se componen de tres elementos de juego diferentes: hit circles, sliders y spinners.
 ```
 
 ### Nombres de los idiomas
@@ -181,16 +182,12 @@ Un buen ejemplo:
 
 Los modos de juego deben escribirse como sigue:
 
-- `osu!standard` (no oficial, pero usado para prevenir la ambigüedad)
+- `osu!`
 - `osu!taiko`
 - `osu!catch`
 - `osu!mania`
 
-*Aviso: `osu!standard` se utiliza para mantener la consistencia al referirse al modo de juego. Los nombres de las carpetas, sin embargo, deben usar `osu!` aunque se refieran al modo de juego.
-
 Referirse a los nombres de la antigua modalidad de juego (es decir, `Catch the Beat`, `Taiko` y `Mania`) puede hacerse si se discute el nombre anterior de dicha modalidad de juego.
-
-Artículos como el [Criterio de clasificación](/wiki/Ranking_Criteria) pueden usar `osu!` en lugar de`osu!standard`.
 
 ## osu!
 

@@ -94,7 +94,7 @@ Om [Auto Pilot](/wiki/Game_modifier/Autopilot)-modifieraren används, fungerar e
 
 ![Gränssnitt för ändring av spelläge](/wiki/shared/Interface_mode.png "Inställning för att ändra spelläge")
 
-Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spellägen i osu!**. Klicka på önskad spelläge och osu! kommer att byta till det spelläget och dess ledartavla. Alternativt går det att trycka på `Ctrl` och `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) på tangentbordet för att snabbt byta spelläge.
+Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spellägen i osu!**. Klicka på önskad spelläge och osu! kommer att byta till det spelläget och dess ledartavla. Alternativt går det att trycka på `Ctrl` och `1` (![][osu! icon] *[osu!](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) på tangentbordet för att snabbt byta spelläge.
 
 ### Vad är osu!taiko?
 

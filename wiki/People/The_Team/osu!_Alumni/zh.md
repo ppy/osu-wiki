@@ -109,6 +109,7 @@ tags:
 | ![][flag_US] [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 锦标赛管理员 |
 | ![][flag_MX] [Kai](https://osu.ppy.sh/users/4537) | BAT |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT，osu!media 创立者 |
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
@@ -129,6 +130,7 @@ tags:
 | ![][flag_CA] [Lanturn](https://osu.ppy.sh/users/1446665) | QAT |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | QAT，NAT |
 | ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530) | GMT |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | NAT |
 | ![][flag_DO] [Lissette](https://osu.ppy.sh/users/19835) | BAT |
 | ![][flag_DO] [Lizbeth](https://osu.ppy.sh/users/21970) | MAT |
 | ![][flag_CN] [ljqandylee](https://osu.ppy.sh/users/141469) | BAT |
@@ -146,6 +148,7 @@ tags:
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | QAT，NAT |
 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT，osu! 开发者 |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
@@ -163,7 +166,6 @@ tags:
 | ![][flag_UY] [narakucrimson](https://osu.ppy.sh/users/287468) | BAT |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | QAT，NAT |
 | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
-| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | BAT |
 | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | NAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |

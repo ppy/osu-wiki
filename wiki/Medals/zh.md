@@ -9,14 +9,14 @@ outdated: true
 
 ## 曲包
 
-**曲包**奖章的获得方法是： **完整体验特定曲包中的所有谱面** （每张至少选任意一难度）。您必须在 [osu!standard](/wiki/osu!standard) 模式中 pass 曲包中的每一张图，才能得到对应的奖章。
+**曲包**奖章的获得方法是： **完整体验特定曲包中的所有谱面** （每张至少选任意一难度）。您必须在 [osu!](/wiki/Game_mode/osu!) 模式中 pass 曲包中的每一张图，才能得到对应的奖章。
 
 当前共有16个曲包奖章，分为4大类：电子游戏，动漫，网络，以及音乐游戏，其中每一大类有4个曲包。[查看并下载主题曲包](https://osu.ppy.sh/p/packlist?t=t)
 
 ### 要求
 
 - 玩家必须完成[曲包](https://osu.ppy.sh/p/packlist?t=t)中的每张谱面的任意难度至少一次。
-- 游戏模式必须是 osu!standard 。
+- 游戏模式必须是 osu! 。
 - 将曲包的`.rar`文件解压到`Songs`文件夹下。
   启动 osu!client，让客户端加载这些谱面，然后您就能开始游戏了。
   - 如果您不想这么做，您也可以逐一下载曲包中的每张谱面。
@@ -33,7 +33,7 @@ outdated: true
 
 实力奖章目前有三类：连击数，排名，水准。
 
-**连击数**奖章获取条件：在 osu!standard 模式中玩任意谱面并取得指定[连击数](/wiki/combo)。
+**连击数**奖章获取条件：在 osu! 模式中玩任意谱面并取得指定[连击数](/wiki/combo)。
 从 [osu!taiko](/wiki/osu!taiko)，[osu!catch](/wiki/osu!catch) 或 [osu!mania](/wiki/osu!mania) 模式中取得的连击数不计入奖章获取条件。
 
 如果想要取得 1000 或 2000 连击数的奖牌，通常您需要搜索 Approved 谱面，而不是 Ranked 谱面。因为 Approved 谱面的谱面时间将会更长（5分钟以上），这样更容易取得更高的连击数。
@@ -55,7 +55,7 @@ outdated: true
 
 ## 毅力
 
-毅力奖章会随着游戏的深入而自然获得。尝试在 osu!standard 模式中完成更多的谱面，在 osu!catch 中接到更多的水果，在 osu!taiko 中击打更多次鼓面，在 osu!mania 中按更多的键数，就可以得到相应的奖章！
+毅力奖章会随着游戏的深入而自然获得。尝试在 osu! 模式中完成更多的谱面，在 osu!catch 中接到更多的水果，在 osu!taiko 中击打更多次鼓面，在 osu!mania 中按更多的键数，就可以得到相应的奖章！
 
 ## Mod 初体验
 

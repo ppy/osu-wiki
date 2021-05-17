@@ -25,7 +25,7 @@ no_native_review: true
 - 점수 배수: 1.00x
 - 기본 단축키: `V`
 - 설명: `자동으로 연주되는 완벽한 플레이를 감상하세요.`
-- AT를 사용할 수 있는 osu!의 장르: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- AT를 사용할 수 있는 osu!의 장르: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## 상세 설명
 
@@ -35,9 +35,9 @@ no_native_review: true
 
 이 모드는 [리플레이](/wiki/Replay)와 동일하게 작동합니다. 0.5배/1.0배/2.0배의 리플레이 옵션을 제공하며, 비트맵 플레이 후 결과를 정상적으로 표시합니다. 이 모드는 몇 가지 특별한 경우를 제외하면 항상 SS 등급을 받습니다.
 
-### osu!standard
+### osu!
 
-[osu!standard](/wiki/Game_mode/osu!)에서는 오토 모드가 스피너를 돌릴 때 반시계 방향으로 최대 477의 분당 회전수(SPM)로 돌립니다.
+[osu!](/wiki/Game_mode/osu!)에서는 오토 모드가 스피너를 돌릴 때 반시계 방향으로 최대 477의 분당 회전수(SPM)로 돌립니다.
 
 ### osu!taiko
 
@@ -56,7 +56,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania)에서는 오토 모드가 완벽한 �
 - 오토 리플레이를 감상할 때, 리더보드 속 유저 닉네임이 "osu!"로 나옵니다.
 - 오토 리플레이를 감상한 후, 오토 모드는 플레이어가 끝까지 보든 보지 않았든 상관없이 비활성화됩니다. 만약 리플레이를 다시 보고 싶다면, 모드 창에서 오토 모드를 다시 선택해야 합니다.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
