@@ -75,7 +75,6 @@ tags:
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | เกาหลี |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | จีน |
-| ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | เซอร์เบีย |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | เยอรมัน |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | รัสเซีย |
@@ -96,7 +95,6 @@ tags:
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | เกาหลี |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | รัสเซีย |
-| ![][flag_GB] [skylaa](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | รัสเซีย |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | เกาหลี |
@@ -186,7 +184,6 @@ tags:
 | :-- | :-- |
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045) |  |
-| ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | สเปน |
 | ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | เยอรมัน |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | โรมาเนีย, ฝรั่งเศส |
@@ -249,7 +246,6 @@ tags:
 [flag_NZ]: /wiki/shared/flag/NZ.gif "นิวซีแลนด์"
 [flag_PH]: /wiki/shared/flag/PH.gif "ฟิลิปปินส์"
 [flag_PR]: /wiki/shared/flag/PR.gif "ปวยร์โตรีโก"
-[flag_RS]: /wiki/shared/flag/RS.gif "เซอร์เบีย"
 [flag_RU]: /wiki/shared/flag/RU.gif "รัสเซีย"
 [flag_SE]: /wiki/shared/flag/SE.gif "สวีเดน"
 [flag_SG]: /wiki/shared/flag/SG.gif "สิงคโปร์"

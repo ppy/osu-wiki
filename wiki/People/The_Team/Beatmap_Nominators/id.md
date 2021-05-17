@@ -75,7 +75,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korea |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Mandarin |
-| ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbia |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Jerman |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Rusia |
@@ -96,7 +95,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korea |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Rusia |
-| ![][flag_GB] [skylaa](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Rusia |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Korea |
@@ -186,7 +184,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045) |  |
-| ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Spanyol |
 | ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Rumania, Prancis |
@@ -249,7 +246,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
 [flag_PR]: /wiki/shared/flag/PR.gif "Puerto Riko"
-[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
