@@ -75,7 +75,13 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+
+
 ### Semifinals
+
+**[Download the mappack here! (98 MB)](https://mega.nz/file/njYSyTKS#ypEKEeqgJSDpnjgmLAiyivefJl1iY4otlZCW4sCF-VI)**
 
 - NoMod
   - [katagiri - #2wise4u (maguro869) \[#magur0\]](https://osu.ppy.sh/beatmapsets/995928#taiko/2083254)
