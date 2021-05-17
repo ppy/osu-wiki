@@ -1,6 +1,6 @@
 ---
 tags:
-  - wiki standar
+  - standar wiki
   - wiki resmi
 ---
 
