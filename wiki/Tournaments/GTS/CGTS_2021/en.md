@@ -277,6 +277,36 @@ This competition has come to an end and resulted in the following podium:
 
 ### Global phase
 
+#### Grand Finals
+
+**[Download the mappack here! (102 MB)](https://mega.nz/file/V51V3KTY#teh9XpIBJPsp5Km5lsEJVwMsd4CBKwHN_y2p25ZTHDk)**
+
+- NoMod
+  - [ReeK - Possesed By The Blood Moon (KTYN) \[Sacrifice\]](https://osu.ppy.sh/beatmapsets/1211308#taiko/2521563)
+  - [Sasaki Eri - Fuyu Biyori (Polcka Remix) (KTYN) \[Little Happiness\]](https://osu.ppy.sh/beatmapsets/1346344#taiko/2788245)
+  - [Retractable - Eye of xxxx (4sbet1) \[Oni\]](https://osu.ppy.sh/beatmapsets/1383882#taiko/2858741)
+  - [Foozogz - Seismo (Yuzeyun) \[Akumu\]](https://osu.ppy.sh/beatmapsets/1141442#taiko/2384114)
+  - [II-L - SPUTNIK-6 (woosungko) \[SUPERNOVA\]](https://osu.ppy.sh/beatmapsets/1400703#taiko/2889674)
+  - [katagiri - Heisei saikyou no Curry Ya (KitajimaYN) \[SPICE\]](https://osu.ppy.sh/beatmapsets/936833#taiko/1957032)
+- Hidden
+  - [Feryquitous - Risk (ensan71714) \[Risky Oni\]](https://osu.ppy.sh/beatmapsets/858100#taiko/1793351)
+  - [Frums - Mdrqnxtagon (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/967870#taiko/2134205)
+  - [katagiri - Angel's Salad (Socus) \[redefinition\]](https://osu.ppy.sh/beatmapsets/1295972#taiko/2778658)
+- HardRock
+  - [xyst - Ylil's overed landscape (SKSalt) \[komasy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1887454)
+  - [Frums - Star-of-the-COME ON!! (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/732882#taiko/1546204)
+  - [Silentroom - Nhelv (Faputa) \[Seeker\]](https://osu.ppy.sh/beatmapsets/1076775#taiko/2253084)
+- DoubleTime
+  - [POLKADOT STINGRAY - Otoshimae (\[Zeth\]) \[Contention\]](https://osu.ppy.sh/beatmapsets/1306948#taiko/2709671)
+  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (KitajimaYN) \[Taiko of an Illusion\]](https://osu.ppy.sh/beatmapsets/673226#taiko/1424840)
+  - [AVTechNO!xTreow - DYE/Re:flection+ (Michiru) \[In:ner+Oni\]](https://osu.ppy.sh/beatmapsets/1019970#taiko/2134290)
+- FreeMod
+  - [Camellia - Circles of Death (\[Zeth\]) \[Reincarnation\]](https://osu.ppy.sh/beatmapsets/1088266#taiko/2275550)
+  - [LeaF - UR+ MusicEater LV99 (yuzu\_\_rinrin) \[UNLIMITED Oni\]](https://osu.ppy.sh/beatmapsets/455972#taiko/1016347)
+  - [Kobaryo - SUPER REACTOR X \[feat. HiTNEX-X\] (Nifty) \[SUPER COLLAB X \[feat. rubies87\]\]](https://osu.ppy.sh/beatmapsets/1406016#taiko/2899359)
+- Tiebreaker
+  - **[Sparxe - Chicxulub (\[Zeth\]) \[Continental Divide\]](https://osu.ppy.sh/beatmapsets/1429738#taiko/2943238)**
+
 #### Finals
 
 **[Download the mappack here! (101 MB)](https://mega.nz/file/g9UzxQ4T#sTOYr1vJaw21SU5hR5uGnqFohRcLTEaDc8XOWFxisP4)**
