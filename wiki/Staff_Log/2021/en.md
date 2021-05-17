@@ -234,5 +234,8 @@ Abbreviations for user groups are used throughout this log:
 #### Removals
 
 - 2021-04-09: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **BN**
+- 2021-04-16: Removed [Crissa](https://osu.ppy.sh/users/5405836) from **Probationary BN**
+- 2021-04-16: Removed [skylaa](https://osu.ppy.sh/users/9505704) from **BN**
+- 2021-04-17: Removed [Maridius](https://osu.ppy.sh/users/4496961) from **BN**
 
-<!-- last update: 2021-05-16 22:00 UTC moved AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH to full bn -->
+<!-- last update: 2021-05-17 16:00 UTC removed maridius from bn -->
