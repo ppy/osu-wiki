@@ -41,13 +41,13 @@ Pemilihan mode merubah [mode permainan](/wiki/Game_mode) yang kamu modding. Pemi
 
 *Untuk informasi tentang pengaturan metadata, lihat: [Pengaturan Lagu & Metadata Map dan Lagu](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
-![](img/beatmap-header-ID.jpg "Beatmap header")
+![](img/beatmap-header.jpg "Beatmap header")
 
 Beatmap header menampilkan judul dan artis yang telah ditentukan di dalam [beatmap editor](/wiki/Beatmap_Editor). Mengklik beatmap header akan mengarahkan kembali ke laman info.
 
 ## Menu tingkat kesulitan
 
-![](img/difficulty-menu-ID.jpg "Menu tingkat kesulitan")
+![](img/difficulty-menu.png "Menu tingkat kesulitan")
 
 Kamu dapat memilih [tingkat kesulitan](/wiki/Beatmap/Difficulty) yang berbeda melalui dropdown menu. Ini akan memunculkan semua tingkat kesulitan yang tersedia saat ini, bersama dengan yang lama, dan menghapus tingkat kesulitan yang memiliki saran/masalah. Angka yang muncul di samping nama tingkat kesulitan adalah angka postingan yang belum terselesaikan berdasarkan tingkat kesulitan tertentu. Ini penting untuk memeriksa kembali menu ini sebelum melakukan pengiriman mod apa pun.
 
@@ -66,7 +66,7 @@ Opsi pengurutan merubah cara pandang diskusi beatmap dilihat. Ketika sebuah opsi
 
 ## Tampilan linimasa
 
-![](img/visual-timeline-ID.jpg "Postingan mod tersebar di linimasa")
+![](img/visual-timeline.jpg "Postingan mod tersebar di linimasa")
 
 Tampilan linimasa menampilkan semua mod yang telah dibuat untuk tingkat kesulitan yang menggunakan timestamp. Mengklik salah satu timestamp di tampilan linimasa akan menggulir ke bawah menuju postingan mod terkait. Perhatikan bahwa opsi pem-filteran apa pun akan mengubah apa yang ditampilkan di sini. Tampilan linimasa merupakan alat yang berguna untuk melihat seberapa banyak beatmap yang telah dimodifikasi. Tampilan linimasa yang padat berarti beatmap tersebut telah menerima banyak perhatian. Pengaturan tingkat kesulitan yang dipilih juga ditampilkan di kanan atas tampilan linimasa. Dari kiri ke kanan ini menjelaskan tingkat kesulitan `Durasi`, `BPM`, `Jumlah Circle` dan `Jumlah Slider`.
 
