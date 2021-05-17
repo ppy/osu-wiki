@@ -84,10 +84,10 @@ Diese Kürzel können überall verwendet werden:
 - `Strg` + `F4`: Die osu!mania-Scrollgeschwindigkeit verringern
   - alias: `Strg` + `-`
 - `Strg` + `Rücktaste`: Das letzte Wort (in der Suche) löschen
-- `Pfeil oben`: Die Beatmap über der aktuellen auswählen
-- `Pfeil unten`: Die Beatmap unter der aktuellen auswählen
-- `Pfeil links`: Das Beatmapset über dem aktuellen auswählen
-- `Pfeil rechts`: Das Beatmapset über dem aktuellen auswählen
+- `Pfeil oben`: Die Difficulty über der aktuellen auswählen
+- `Pfeil unten`: Die Difficulty unter der aktuellen auswählen
+- `Pfeil links`: Das Beatmap über dem aktuellen auswählen
+- `Pfeil rechts`: Das Beatmap über dem aktuellen auswählen
 - `Bild hoch`: Hochscrollen
 - `Bild runter`: Runterscrollen
 - `Enter`: Ausgewählte Map spielen

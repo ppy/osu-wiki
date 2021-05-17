@@ -430,7 +430,7 @@ C'est généralement réglé en fermant tout ce qui n'est pas essentiel à osu!.
 
 **Il arrive qu'après une mise à jour, le jeu ait du mal sans raison.**
 
-Si vous avez beaucoup de beatmaps, attendez au moins 10-15 minutes avant de blâmer la mise à jour. Le jeu peut recalculer toutes les difficultés de chaque beatmapset.
+Si vous avez beaucoup de beatmaps, attendez au moins 10-15 minutes avant de blâmer la mise à jour. Le jeu peut recalculer toutes les difficultés de chaque beatmap.
 
 Si le problème ne se corrige pas tout seul, un redémarrage ne serait pas de trop.
 
