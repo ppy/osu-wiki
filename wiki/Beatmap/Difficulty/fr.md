@@ -1,8 +1,12 @@
 ---
 tags:
+  - difficulties
+  - difficulty name
+  - SR
+  - star rating
+  - stars
   - difficultés
   - nom de la difficulté
-  - SR
   - classement en étoiles
   - étoiles
 ---

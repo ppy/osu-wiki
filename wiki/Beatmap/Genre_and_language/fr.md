@@ -1,8 +1,9 @@
 ---
 tags:
   - genres
-  - langue
+  - languages
   - metadata
+  - langue
 ---
 
 # Genre et langue

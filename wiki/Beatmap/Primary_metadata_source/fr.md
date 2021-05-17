@@ -1,5 +1,11 @@
 ---
 tags:
+  - metadata sources
+  - official metadata source
+  - official metadata sources
+  - official source
+  - official sources
+  - primary metadata sources
   - sources de métadonnées
   - source officielle de métadonnées
   - sources officielles de métadonnées
