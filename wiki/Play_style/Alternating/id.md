@@ -10,15 +10,15 @@ tags:
 
 # Alternating
 
-*Berbeda  konteks dengan [Double tapping](/wiki/Play_style/Double_tapping).*
+*Berbeda konteks dengan [Double tapping](/wiki/Play_style/Double_tapping).*
 
-Alternating adalah gaya ketukan di [osu!standard](/wiki/Game_mode/osu!) dimana pemain menekan circle, menggeser slider, dan memutar spinner dengan Alternating antara dua set tombol di keyboard mereka (`Z` and `X` secara default) satu sama lain [hit objek](/wiki/Hit_object) kurang lebih. Oleh karena itu. Gaya ini paling umum di antara pemain yang lebih berpengalaman dan merupakan salah satu yang paling sulit untuk diadaptasi.
+Alternating adalah gaya ketukan di [osu!standard](/wiki/Game_mode/osu!) dimana pemain menekan circle, menggeser slider, dan memutar spinner dengan Alternating antara dua set tombol di keyboard mereka (`Z` dan `X` secara default) satu sama lain [hit objek](/wiki/Hit_object) kurang lebih. Oleh karena itu. Gaya ini paling umum di antara pemain yang lebih berpengalaman dan merupakan salah satu yang paling sulit untuk diadaptasi.
 
 ## Penggunaan
 
 Alternating memiliki variasi yang sangat besar dari pengguna dan cara untuk melakukannya dapat bervariasi dari satu pemain ke pemain lainnya. Sebagai contoh, banyak pemain yang biasanya alternating bergantian antara `Z` dan `X` pada setiap not yang lain (atau hit object), sementara pemain yang lainnya bergantian tombol setelah setiap dua atau tiga hit objek. Perlu diperhatikan bahwa beberapa pemain akan melakukan alternating sebagian besar waktu, tetapi terkadang menekan tombol yang sama dua kali jika hit objek yang terkena akan membuat mereka lengah. Semua ini hanya tergantung pada preferensi pribadi.
 
-Pada not yang serupa, beberapa pemain lebih suka menekan tombol dengan  menggunkanan jari telunjuk dan tengah, sementara yang lain mengguakan jari telunjuk dan jari manis. Pemain yang menggunakan jari telunjuk dan jari manis biasanya akan mengatur tombol mereka lebih jauh untuk mengakomodasi celah yang lebih besar. Contoh, `Z` dan `C` sebagai ganti dari `Z` and `X`.
+Pada not yang serupa, beberapa pemain lebih suka menekan tombol dengan  menggunkanan jari telunjuk dan tengah, sementara yang lain mengguakan jari telunjuk dan jari manis. Pemain yang menggunakan jari telunjuk dan jari manis biasanya akan mengatur tombol mereka lebih jauh untuk mengakomodasi celah yang lebih besar. Contoh, `Z` dan `C` sebagai ganti dari `Z` dan `X`.
 
 ## Argumen
 
