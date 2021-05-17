@@ -209,10 +209,13 @@ Abbreviations for user groups are used throughout this log:
 
 ### Beatmap Nominators
 
+- 2021-05-13: Moved [Mao](https://osu.ppy.sh/users/2204515) from **NAT** to **osu! Alumni**
+
 #### Additions
 
 - 2021-05-04: Added [CallieCube](https://osu.ppy.sh/users/7535045) to **Probationary BN**
 - 2021-05-06: Added [CallMeLyra](https://osu.ppy.sh/users/15272997) to **Probationary BN**
+- 2021-05-13: Added [Logic Agent](https://osu.ppy.sh/users/6341262) to **Probationary BN**
 
 #### Moves
 
@@ -222,9 +225,14 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-01: Moved [AJT](https://osu.ppy.sh/users/3181083) from **Probationary BN** to **BN**
 - 2021-04-11: Moved [Xahlt](https://osu.ppy.sh/users/13466351) from **Probationary BN** to **BN**
 - 2021-04-11: Moved [rosario wknd](https://osu.ppy.sh/users/6341518) from **Probationary BN** to **BN**
+- 2021-04-15: Moved [Kudosu](https://osu.ppy.sh/users/11038155) from **Probationary BN** to **BN**
+- 2021-04-15: Moved [Default Guy](https://osu.ppy.sh/users/7058457) from **BN** to **Probationary BN**
+- 2021-04-15: Moved [davidminh0111](https://osu.ppy.sh/users/9623142) from **BN** to **Probationary BN**
+- 2021-04-16: Moved [Komirin](https://osu.ppy.sh/users/4725379) from **Probationary BN** to **BN**
+- 2021-04-16: Moved [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2021-04-09: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **BN**
 
-<!-- last update: 2021-05-12 00:00 UTC moved rosario wknd to full bn -->
+<!-- last update: 2021-05-16 22:00 UTC moved AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH to full bn -->

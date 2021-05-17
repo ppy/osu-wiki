@@ -70,6 +70,7 @@ tags:
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | จีน, ฝรั่งเศส บ้าง |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | จีน |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | สเปน |
+| ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | ฝรั่งเศส, เยอรมัน |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | เยอรมัน |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | เกาหลี |
@@ -121,8 +122,6 @@ tags:
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | เยอรมัน |
 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | ญี่ปุ่น บ้าง |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | จีน, กวางตุ้ง |
-| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | เวียดนาม |
-| ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | สเปน |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | สเปน |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | ฟิลิปปินส์ |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | สเปน |
@@ -157,6 +156,7 @@ tags:
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | จีน |
+| ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | อินโดนีเซีย |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | อินโดนีเซีย |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | สวีเดน |
@@ -164,6 +164,7 @@ tags:
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | เกาหลี |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | เกาหลี, ญี่ปุ่น |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | สเปน, โปรตุเกส, อิตาลี, ญี่ปุ่น |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | ฟิลิปปินส์ |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | อินโดนีเซีย |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | อินโดนีเซีย |
@@ -186,7 +187,7 @@ tags:
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045) |  |
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | สเปน |
-| ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | ฝรั่งเศส, เยอรมัน |
+| ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | เยอรมัน |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | โรมาเนีย, ฝรั่งเศส |
 
@@ -196,6 +197,8 @@ tags:
 | :-- | :-- |
 | ![][flag_FI] [-Aku](https://osu.ppy.sh/users/12315824) | ฟินแลนด์ |
 | ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
+| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | เวียดนาม |
+| ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | สเปน |
 
 #### osu!catch
 
