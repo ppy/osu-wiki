@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Storyboard scripting shorthand
 
 在寫[指令](/wiki/Storyboard_Scripting/Commands)時，有三種**縮寫**方法可以使撰寫過程更簡單。
