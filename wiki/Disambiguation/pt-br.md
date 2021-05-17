@@ -21,4 +21,5 @@ Artigos que discutem tópicos com títulos similares, devem usar a [*hatnote* "P
 - [Offset](Offset)
 - [osu!](osu!)
 - [Rank](Rank)
+- [Star](Star)
 - [Versão](Version)

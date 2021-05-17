@@ -17,4 +17,5 @@ Jika pada sebuah artikel mempunyai judul yang mirip, harus menggunakan [hatnote 
 - [Offset](Offset)
 - [osu!](osu!)
 - [Rank](Rank)
+- [Star](Star)
 - [Versi](Version)
