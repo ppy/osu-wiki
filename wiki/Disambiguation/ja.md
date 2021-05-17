@@ -15,6 +15,7 @@
 - [NC](NC)
 - [NM](NM)
 - [オフセット](Offset)
+- [Ouendan](Ouendan)
 - [osu!](osu!)
 - [ランク](Rank)
 - [Star](Star)
