@@ -1145,6 +1145,17 @@ This competition has come to an end and resulted in the following podium:
 
 ### Global phase
 
+#### Grand Finals
+
+Saturday, 17 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Asia** | **7** | 1 | Europe | [#1](https://osu.ppy.sh/community/matches/81084347) |
+| **Japan** | **7** | 0 | Rest of the World | [#1](https://osu.ppy.sh/community/matches/81090281)¹ |
+
+¹ It was part of the Japan vs Rest of the World special match showcase
+
 #### Finals
 
 Saturday, 10 April 2021:
