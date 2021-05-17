@@ -15,6 +15,7 @@
 - [NC](NC)
 - [NM](NM)
 - [Оффсет](Offset)
+- [Ouendan](Ouendan)
 - [osu!](osu!)
 - [Ранк](Rank)
 - [Версия](Version)
