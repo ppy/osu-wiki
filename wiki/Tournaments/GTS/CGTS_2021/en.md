@@ -231,6 +231,14 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
+### Global phase
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Asia |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Europe |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | North America |
+
 ### Regional phase
 
 #### Asia
