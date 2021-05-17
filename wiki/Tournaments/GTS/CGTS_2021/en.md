@@ -81,19 +81,20 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1221339)
-- [GTS Discord server](https://discord.gg/3mGC3HB)
+- [GTS Discord server](https://discord.gg/3mGC3HB "Discord")
 - [GTS website](https://gtsosu.com)
 - Livestream
-  - [GTSosu](https://www.twitch.tv/gtsosu)
-  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
+  - [GTSosu](https://www.twitch.tv/gtsosu "Twitch")
+  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b "Twitch")
     - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
 - Challonge bracket
-  - [Asia](https://challonge.com/CGTS2021_Asia)
-  - [Europe](https://challonge.com/CGTS2021_Europe)
-  - [North America](https://challonge.com/CGTS2021_NA)
-  - [Oceania/SEA](https://challonge.com/CGTS2021_OSEA)
-  - [South America](https://challonge.com/CGTS2021_SA)
-- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStfVzMzkNbi4gs_cfuXTuFVHLdY20VChL61mPRFzooxJ6BAmkliT5u0OG0hyYJv1ZEXcwy25otJA6n/pubhtml) provided by ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710)
+  - [Global phase](https://challonge.com/cgts2021_4v4 "Challonge")
+  - [Asia](https://challonge.com/CGTS2021_Asia "Challonge")
+  - [Europe](https://challonge.com/CGTS2021_Europe "Challonge")
+  - [North America](https://challonge.com/CGTS2021_NA "Challonge")
+  - [Oceania/SEA](https://challonge.com/CGTS2021_OSEA "Challonge")
+  - [South America](https://challonge.com/CGTS2021_SA "Challonge")
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStfVzMzkNbi4gs_cfuXTuFVHLdY20VChL61mPRFzooxJ6BAmkliT5u0OG0hyYJv1ZEXcwy25otJA6n/pubhtml "Google Docs") provided by ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710)
 
 ## Participants
 
