@@ -17,4 +17,5 @@
 - [オフセット](Offset)
 - [osu!](osu!)
 - [ランク](Rank)
+- [Star](Star)
 - [バージョン](Version)

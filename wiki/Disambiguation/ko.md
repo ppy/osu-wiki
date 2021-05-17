@@ -21,4 +21,5 @@ no_native_review: true
 - [오프셋](Offset)
 - [osu!](osu!)
 - [랭크](Rank)
+- [Star](Star)
 - [버전](Version)
