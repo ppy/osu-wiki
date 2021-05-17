@@ -110,7 +110,7 @@ Pour chaque 500 parties pour tous les modes de jeu réunis, un an de plus (365 j
 
 **Oui, mais sous certaines conditions.**
 
-Nous ne faisons de retour de nom gratuit que pour le dernier nom d'utilisateur (celui montré en survolant leur nom dans leur profil). Les changements vers n'importe quel autre nom précédent doivent être [achetés dans la boutique](https://osu.ppy.sh/store/products/32). Contactez simplement accounts@ppy.sh et demandez à ce que votre changement de nom soit annulé.
+Nous ne faisons de retour de nom gratuit que pour le dernier nom d'utilisateur (celui montré en survolant leur nom dans leur profil). Les changements vers n'importe quel autre nom précédent doivent être [achetés dans la boutique](https://osu.ppy.sh/store/products/32). Contactez simplement [accounts@ppy.sh](mailto:accounts@ppy.sh) et demandez à ce que votre changement de nom soit annulé.
 
 Nous ne permettons cela qu'une fois par compte, choisissez donc bien votre moment !
 
@@ -126,7 +126,7 @@ Si le changement a été effectué avec le changement gratuit offert aux support
 
 **Pas pour le moment, désolé.**
 
-Votre profil affichera tous vos anciens changements de noms, et nous n'acceptons pas de requêtes de suppression pour le moment. Si un de vos anciens noms d'utilisateur est une atteinte à votre confidentialité (par exemple, s'il contient votre nom), contactez accounts@ppy.sh pour demander sa suppression.
+Votre profil affichera tous vos anciens changements de noms, et nous n'acceptons pas de requêtes de suppression pour le moment. Si un de vos anciens noms d'utilisateur est une atteinte à votre confidentialité (par exemple, s'il contient votre nom), contactez [accounts@ppy.sh](mailto:accounts@ppy.sh) pour demander sa suppression.
 
 ### Autres problèmes
 

@@ -1,6 +1,6 @@
 # Beatmap veto
 
-The _beatmap veto_ allows a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) to withhold a beatmap from Qualification if they feel there are significant issues regarding beatmap quality which make it unfit for the Ranked section. Seeking further discussion or clarification over any kind of quality issues which they feel need to be addressed before the map can proceed with Qualification is one of their main responsibilities.
+The *beatmap veto* allows a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) to withhold a beatmap from Qualification if they feel there are significant issues regarding beatmap quality which make it unfit for the Ranked section. Seeking further discussion or clarification over any kind of quality issues which they feel need to be addressed before the map can proceed with Qualification is one of their main responsibilities.
 
 Any Beatmap Nominator may place a beatmap veto, provided they are formally qualified for the game mode(s) in question, as stated in the [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules). Each beatmap veto must be discussed by both parties - the mapper as well as the Nominator placing the beatmap veto - in an attempt to reach an agreed compromise.
 

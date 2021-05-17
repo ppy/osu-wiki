@@ -298,6 +298,7 @@ Geki(激), or *Elite Beat!*, is a scoring term used when you complete a [combose
 A grade, usually confused with "rank", is a letter-grade that represents the player's performance after playing a beatmap. It accompanies the total score at the result screen and appears in all lists where scores appear.
 
 From lowest to highest, the possible grades are D, C, B, A, S, Silver S, SS, and Silver SS.
+
 ### Graveyard
 
 A subforum for beatmaps that were abandoned. Graveyarded maps do not count towards a user's total upload limit. The owner may revive them by updating, which sends them back to being a Work in Progress. This requires having a free pending slot.
