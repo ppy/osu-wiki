@@ -9,7 +9,7 @@ tags:
 
 ![CGTS 2021 logo](img/logo.jpg)
 
-The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). The tournament has a regional phase and a global phase: the regional phase is a 1v1 bracket to find the best players on each continent, and the global phase is a 4v4 bracket where the top players from each continent face each other. It is the second installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) was a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). The tournament had a regional phase and a global phase: the regional phase was a 1v1 bracket to find the best players on each continent, and the global phase was a 4v4 bracket where the top players from each continent face each other. It was the second installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -60,7 +60,7 @@ A prize pool of $1,000 with physical prizes are made possible thanks to [LotusPr
 
 ## Organisation
 
-The Continental Global Taiko Showdown 2021 is run by various community members.
+The Continental Global Taiko Showdown 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -1446,7 +1446,7 @@ Sunday, 14 February 2021:
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1T6SBlSxIUKp5gKO97oMLFcVSJYYrrZSPrU3wbW79Sro/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
-- All 27 players will participate in the Knockout Stage
+- All 27 players participated in the Knockout Stage
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
@@ -1569,7 +1569,7 @@ Sunday, 21 February 2021:
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1WO4rxmOvKv4Nc7dLSTbb4XiDp8haU42oSR-H2dEkHSU/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
-- Only the top 16 players will participate in the Knockout Stage
+- Only the top 16 players participated in the Knockout Stage
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
@@ -1691,8 +1691,8 @@ Sunday, 21 February 2021:
 ##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1Nblq6uZqjShlUUAJWi0VSxS7vCubwu9c8u1YiR00JXg/edit)
-- Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
-- Only the top 16 players will participate in the Knockout Stage
+- Average rank was determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
+- Only the top 16 players participated in the Knockout Stage
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
@@ -1808,7 +1808,7 @@ Sunday, 21 February 2021:
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/13m-Y8oSviIBZ6r8-ChwORrKLxuu0c9k0G-89lH96FHk/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
-- All 14 players will participate in the Knockout Stage
+- All 14 players participated in the Knockout Stage
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
