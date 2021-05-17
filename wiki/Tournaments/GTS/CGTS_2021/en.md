@@ -1145,6 +1145,21 @@ This competition has come to an end and resulted in the following podium:
 
 ### Global phase
 
+#### Finals
+
+Saturday, 10 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Asia** | **7** | 0 | Europe | [#1](https://osu.ppy.sh/community/matches/80470565) |
+| Oceania/SEA | 0 | **7** | **North America** | [#1](https://osu.ppy.sh/community/matches/80494048) |
+
+Sunday, 11 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Europe** | **7** | 6 | North America | [#1](https://osu.ppy.sh/community/matches/80584586) |
+
 #### Semifinals
 
 Saturday, 3 April 2021:
