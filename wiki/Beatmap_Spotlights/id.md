@@ -10,7 +10,7 @@ tags:
 
 ![Beatmap Spotlights logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-**Beatmap Spotlights** (dikenal juga sebagai *Spotlights* atau *Ranking Charts*) adalah sebuah program kurasi berulang untuk merekomendasikan dan menyoroti [beatmap](/wiki/Beatmap) karena desain dan permainannya yang luar biasa dan unik. Spotlights disertai dengan [liga musiman](#spotlights-seasons) yang mana akan memberi penghargaan kepada pemain yang turut berpartisipasi.
+**Beatmap Spotlights** (dikenal juga sebagai *Spotlights* atau *Ranking Charts*) adalah sebuah program kurasi berulang untuk merekomendasikan dan menyoroti [beatmap](/wiki/Beatmap) karena desain dan permainannya yang luar biasa dan unik. Spotlights disertai dengan [liga musiman](#musim-spotlights) yang mana akan memberi penghargaan kepada pemain yang turut berpartisipasi.
 
 **Program Beatmap Spotlights saat ini masih berjalan dalam tahapan uji coba dan masih terdapat berbagai fitur yang belum sepenuhnya diimplementasikan.** Sistem-sistem spesifik seperti perhargaan, papan peringkat musiman, dan fitur-fitur permainan lainnya masih bersifat tentatif dan dapat berubah kapan saja.
 
