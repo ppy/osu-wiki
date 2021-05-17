@@ -56,6 +56,8 @@ The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) is a worldwide 
 
 A prize pool of $1,000 with physical prizes are made possible thanks to [LotusPro](http://www.lotuspro.io/).
 
+![](img/badge.jpg "CGTS 2021 winner badge")
+
 ## Organisation
 
 The Continental Global Taiko Showdown 2021 is run by various community members.
