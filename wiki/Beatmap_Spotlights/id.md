@@ -32,7 +32,6 @@ Setiap rilis Beatmap Spotlights disusun oleh tim kurator khusus dan dipilih seca
 
 ### Kurator osu!
 
-
 - ![][flag_US] **[pishifat](https://osu.ppy.sh/users/3178418)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
