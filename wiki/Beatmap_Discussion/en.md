@@ -43,13 +43,13 @@ Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is o
 
 *For information about setting metadata, see: [Song Setup § Song and Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
-![](img/beatmap-header.jpg "Beatmap header")
+![](img/beatmap-header.png "Beatmap header")
 
 The beatmap header displays the title and artist provided in the [beatmap editor](/wiki/Beatmap_Editor). Clicking the beatmap header will navigate back to the info page.
 
 ## Difficulty menu
 
-![](img/difficulty-menu.jpg "Difficulty menu")
+![](img/difficulty-menu.png "Difficulty menu")
 
 You can select different [difficulties](/wiki/Beatmap/Difficulty) through the dropdown menu. This will show all currently available difficulties, along with older, deleted ones that have had suggestions/problems. The number that appears besides a difficulty's name is the number of unresolved posts on that specific difficulty. It is important to double-check this menu before submitting any mods.
 

@@ -42,13 +42,13 @@ Modusselectie verandert de [spelmodus](/wiki/Game_mode) waarvoor je modt. Het is
 
 *Voor meer info over het instellen van metadata, zie: [Song Setup § Muziek en Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
-![](img/beatmap-header.jpg "Beatmaphoofding")
+![](img/beatmap-header.png "Beatmaphoofding")
 
 De beatmaphoofding geeft de titel en artiest die in de [beatmap editor](/wiki/Beatmap_Editor). Als je op de beatmaphoofding klikt zal je terug naar de informatiepagina navigeren.
 
 ## Moeilijkheidsgraadmenu
 
-![](img/difficulty-menu.jpg "Moeilijkheidsgraadmenu")
+![](img/difficulty-menu.png "Moeilijkheidsgraadmenu")
 
 Je kan de verschillende [moeilijkheidsgraden](/wiki/Beatmap/Difficulty) selecteren via het uitklapmenu. Dit zal alle beschikbare moeilijkheidsgraden tonen, ook oudere, verwijderde moeilijkheidsgraden die suggesties/problemen hadden. Het cijfer dat verschijnt naast de naam van een moeilijkheidsgraad staat voor de hoeveelheid posts die niet opgelost werden voor die specifieke moeilijkheidsgraad. Het is belangrijk om dit menu grondig te controleren vooraleer je mods inzendt.
 

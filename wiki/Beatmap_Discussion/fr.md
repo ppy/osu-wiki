@@ -44,13 +44,13 @@ La sélection du mode change le [mode de jeu](/wiki/Game_mode) que vous modifiez
 
 *Pour plus d'informations sur le paramétrage des métadonnées, voir : [Song Setup § Song and Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
-![](img/beatmap-header-FR.png "En-tête de la beatmap")
+![](img/beatmap-header.png "En-tête de la beatmap")
 
 L'en-tête de la beatmap affiche le titre et l'artiste fournis dans l'[éditeur du beatmap](/wiki/Beatmap_Editor). En cliquant sur l'en-tête de la beatmap, vous retournerez à la page d'information.
 
 ## Menu de difficulté
 
-![](img/difficulty-menu-FR.png "Le menu de difficulté")
+![](img/difficulty-menu.png "Le menu de difficulté")
 
 Vous pouvez sélectionner différentes [difficultés](/wiki/Beatmap/Difficulty) via le menu déroulant. Cela affichera toutes les difficultés actuellement disponibles, ainsi que les difficultés plus anciennes, supprimées, qui ont fait l'objet de suggestions/problèmes. Le nombre qui apparaît à côté du nom d'une difficulté est le nombre de messages non résolus sur cette difficulté spécifique. Il est important de vérifier ce menu avant de soumettre des mods.
 
@@ -69,7 +69,7 @@ Les options de tri modifient la façon dont les discussions sont affichées. Lor
 
 ## Visualisation de la timeline
 
-![](img/visual-timeline-FR.png "Posts de modding répartis sur la timeline")
+![](img/visual-timeline.jpg "Posts de modding répartis sur la timeline")
 
 La visualisation de la timeline affiche tous les mods réalisés pour une difficulté qui utilisent un horodatage. En cliquant sur l'une d'entre elles, vous ferez défiler la liste jusqu'au mod posté à cette date. Notez que toutes les options de filtrage modifieront ce qui est affiché ici. La visualisation de la timeline est un outil utile pour voir d'un coup d'œil à quel point une beatmap a été modifiée. Une timeline serrée signifie qu'une beatmap a déjà reçu beaucoup d'attention. Les paramètres de la difficulté sélectionnée sont également affichés en haut à droite de la visualisation de la timeline. De gauche à droite, ils décrivent la `Longueur`, le `BPM`, le `Circle Count` et le `Slider Count` d'une difficulté.
 
