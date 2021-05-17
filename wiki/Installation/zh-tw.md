@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 安裝
 
 *另見: [在 macOS 上安裝](/wiki/Installation/macOS)*
