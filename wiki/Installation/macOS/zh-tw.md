@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 在 macOS 上安裝
 
 這個頁面將指導您如何將 osu! 安裝到您的 macOS 裝置上。
