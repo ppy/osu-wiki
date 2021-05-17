@@ -77,7 +77,30 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ### Finals
 
+**[Download the mappack here! (68 MB)](https://mega.nz/file/O2BzBKiI#WoW-x4LM_mvIPmSsNTXy3DvF8arwJE2tUwcC2dIyiks)**
 
+- NoMod
+  - [Kobaryo - HUG AND KILL (vzk) \[nerf\]](https://osu.ppy.sh/beatmapsets/773541#taiko/1626066)
+  - [USAO - Chariot (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1252022#taiko/2602256)
+  - [Umeboshi Chazuke - Lollipop\*driveR (KitajimaYN) \[Yuni\]](https://osu.ppy.sh/beatmapsets/567620#taiko/1203103)
+  - [Camellia - U Got That (Camellia's Neurofunk Bootleg) (rubies87) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1037894#taiko/2169753)
+  - [Akita Neru - Gotya Gotya Uruse! (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/764965#taiko/1608469)
+- Hidden
+  - [7\_7 - Katyukusa (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1430308#taiko/2944441)
+  - [t+pazolite - Troll The Cowardly (Sick Candy Terror Of Feryquitous) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/808095#taiko/1695840)
+- HardRock
+  - [chelmico - Easy Breezy feat. Zenpaku (dj-Jo Remix) (D3kuu) \[Breeze\]](https://osu.ppy.sh/beatmapsets/1122895#taiko/2346527)
+  - [Lzie - Say it.(Nightcore amen Mix) (maguro869) \[Say it.\]](https://osu.ppy.sh/beatmapsets/971578#taiko/2034239)
+- DoubleTime
+  - [ZUN - Magus Night (x847606653) \[KG's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44435#taiko/185475)
+  - [Akiyama Uni - Sawa no Kappa no Gijutsuryoku (CallMeLyra) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1323908#taiko/2742327)
+  - [Kry.exe - Hibike! (GOD82028) \[Oni\]](https://osu.ppy.sh/beatmapsets/1202264#taiko/2503905)
+- FreeMod
+  - [Tomoyuki Uchida - forever under construction (Jaltzu) \[roufou's ura oni\]](https://osu.ppy.sh/beatmapsets/1188147#taiko/2475988)
+  - [S.S.H. - Daedalus (DarkVortex) \[Relentless Oni\]](https://osu.ppy.sh/beatmapsets/358799#taiko/793432)
+  - [tarolabo - Miko (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1100379#taiko/2298926)
+- Tiebreaker
+  - **[LeaF - Wizdomiot (extended ver.) (yassu-) \[Jealous Oni\]](https://osu.ppy.sh/beatmapsets/988522#taiko/2067808)**
 
 ### Semifinals
 
