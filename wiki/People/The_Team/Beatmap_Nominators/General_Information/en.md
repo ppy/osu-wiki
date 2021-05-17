@@ -26,7 +26,7 @@ Nominations and resetting nominations are the evidence of a BN's efforts when ch
 
 **This allows you to reset a beatmap's progress in the ranking proccess.** If a beatmap is currently nominated or qualified, you as a nominator are given the ability to reset the beatmaps' nomination(s) by posting an issue using a Problem stamp. If a beatmap is qualified, it can only be disqualified by a full BN. These options are usually used when there is a major or unrankable issue in the beatmap which should be addressed before considering it for ranking.
 
-Steps on disqualifying a beatmap:
+Steps for disqualifying a beatmap:
 
 - Make sure that you are on the beatmap discussion for the correct set.
 - Write your disqualification reason into the text field. Make sure that the first line summarises the disqualification as this is what is displayed at the top of the discussion page.

@@ -25,7 +25,7 @@ Tämä sivu kertoo miten saat osu!'n toimimaan Windows-tietokoneellesi. [osu!aka
    - Jos sinulla on tili, kirjaudu sisään.
    - Jos tarvitset rekisteröityä, mene [rekisteröitymissivulle](/wiki/Registration).
 
-## Beatmaptien lataaminen
+## Beatmappien lataaminen
 
 *Katso myös: [Beatmaps](/wiki/Beatmap)*
 
