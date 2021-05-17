@@ -1,10 +1,11 @@
 ---
 tags:
-  - précision
+  - accuracy
   - hit window
   - notelock
   - OD
   - spinner difficulty
+  - précision
 ---
 
 # Overall difficulty

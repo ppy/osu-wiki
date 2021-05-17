@@ -1,6 +1,6 @@
 ---
 tags:
-  - Approach rate
+  - approach time
   - AR
   - reading
 ---

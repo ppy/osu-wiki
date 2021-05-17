@@ -1,8 +1,10 @@
 ---
 tags:
-  - points de vie
+  - health points
   - hit points
   - HP
+  - life
+  - points de vie
   - vie
   - PV
 ---
