@@ -175,6 +175,26 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 15 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Volta** ![][flag_ID] | **6** | 0 | ![][flag_PH] CoEqual | [#1](https://osu.ppy.sh/community/matches/83378695) |
+| misaki\_tk ![][flag_ID] | 4 | **6** | ![][flag_AU] **r1chyy** | [#1](https://osu.ppy.sh/community/matches/83383801) |
+| Aiery ![][flag_PH] | 3 | **6** | ![][flag_ID] **Naverlyn** | [#1](https://osu.ppy.sh/community/matches/83386494) |
+| **apaajaboleh10** ![][flag_ID] | **6** | 5 | ![][flag_SG] tzechi | [#1](https://osu.ppy.sh/community/matches/83389059) |
+| Ponamis ![][flag_TH] | 2 | **6** | ![][flag_PH] **jmeh07** | [#1](https://osu.ppy.sh/community/matches/83391904) |
+| Jerry ![][flag_MY] | 0 | **6** | ![][flag_ID] **Katdon\_donKat** | [#1](https://osu.ppy.sh/community/matches/83405952) |
+
+Sunday, 16 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Volta** ![][flag_ID] | **6** | 5 | ![][flag_ID] Naverlyn | [#1](https://osu.ppy.sh/community/matches/83464591) |
+| **jmeh07** ![][flag_PH] | **6** | 2 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/83475288) |
+
 ### Quarterfinals
 
 Saturday, 8 May 2021:
