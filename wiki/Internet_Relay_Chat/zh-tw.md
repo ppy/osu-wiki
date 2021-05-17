@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # IRC
 
 *若要深入了解，請見：[Internet Relay Chat (維基百科)](https://zh.wikipedia.org/wiki/Internet_Relay_Chat "維基百科")*
