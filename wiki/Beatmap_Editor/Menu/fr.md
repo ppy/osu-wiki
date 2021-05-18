@@ -33,7 +33,7 @@
 
 | Nom | Description |
 | :-- | :-- |
-| Publier la beatmap... (`Ctrl` + `Shift` + `U`) | Télécharge la beatmap dans la section [WIP](https://osu.ppy.sh/community/forums/10). Nécessite un osu!account connecté au site pour voir le forum "Beatmaps".    |
+| Publier la beatmap... (`Ctrl` + `Shift` + `U`) | Télécharge la beatmap dans la section [WIP](https://osu.ppy.sh/community/forums/10). Nécessite un osu!account connecté au site pour voir le forum "Beatmaps". |
 | Exporter la beatmap... | Exporte la beatmap en tant que `.osz`. Le fichier sera envoyé dans le dossier "Exports" et vous serez dirigé vers osu!/Exports depuis l'éditeur de beatmap. |
 | Extraire le contenu de la beatmap | ? |
 | Importer un fichier... | **bms/bme:** (osu!mania seulement) Ouvre le fichier .bms/.bme à importer comme difficulté osu!mania. |

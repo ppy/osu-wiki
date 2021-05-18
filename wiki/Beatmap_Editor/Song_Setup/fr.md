@@ -257,5 +257,5 @@ La case à cocher  `Use special style(N+1 style) for mania` ne fait rien, étant
 
 ## Le saviez-vous ?
 
-- L'onglet `Design` était auparavant appelé "Storyboarding"..
+- L'onglet `Design` était auparavant appelé "Storyboarding".
 - Dans l'onglet `Difficulty`, il y avait auparavant `Approximate Difficulty Rating` qui est un résumé de tous les paramètres choisis sur cette page. Plus d'étoiles signifiait que la beatmap était plus difficile. Cependant, il ne s'agissait pas du classement final en étoiles de la beatmap, mais d'une approximation basée sur les paramètres de difficulté actuels. Il a été remplacé par un tag expliquant que le fait de maintenir la touche `Shift` permettait d'affiner les valeurs par incréments de 0,1.
