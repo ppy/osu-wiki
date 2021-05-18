@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - tablet tap
   - tap
