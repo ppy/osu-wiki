@@ -4,9 +4,9 @@ tags:
   - Osu! Tatake! Ouendan
 ---
 
-# Ouendan
+# Ouendan (disambiguation)
 
-Ouendan can have multiple meanings:
+**Ouendan** can have multiple meanings:
 
 - In Japanese culture, a cheer squad which, similar to western cheerleaders, rallies a sports team using drums, horns, banners and cheers of encouragement.
 - The pair of Japanese DS games that osu! is based on.

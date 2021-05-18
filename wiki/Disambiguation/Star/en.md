@@ -6,9 +6,9 @@ stub: true
 
 <!-- we could keep this as a piece of history or something but "stars" are pretty much only used in the context of "star rating" nowadays (didn't edit the original glossary entry) -->
 
-# Star
+# Star (disambiguation)
 
-**Star** has four meanings:
+**Star** can have multiple meanings:
 
 1. A stage in a beatmap's modding process where a moderator judges a beatmap to be on the right track but needing some improvements before approve with a bubble.
    - Examples include adjustments in timing, incorrect beat spacing in some areas, or creating additional difficulty versions.

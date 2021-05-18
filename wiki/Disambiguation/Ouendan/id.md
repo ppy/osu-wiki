@@ -4,9 +4,9 @@ tags:
   - Osu! Tatake! Ouendan
 ---
 
-# Ouendan
+# Ouendan (disambiguasi)
 
-Ouendan dapat memiliki berbagai-bagai arti:
+**Ouendan** dapat memiliki berbagai-bagai arti:
 
 - Dalam budaya Jepang, sebuah regu pemandu sorak yang mirip dengan pemandu sorak barat, menggalang tim olahraga menggunakan drum, terompet, spanduk, dan sorakan penyemangat.
 - Sepasang gim DS Jepang yang didasarkan pada osu!.

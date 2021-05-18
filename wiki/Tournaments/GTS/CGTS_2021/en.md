@@ -9,7 +9,7 @@ tags:
 
 ![CGTS 2021 logo](img/logo.jpg)
 
-The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). The tournament has a regional phase and a global phase: the regional phase is a 1v1 bracket to find the best players on each continent, and the global phase is a 4v4 bracket where the top players from each continent face each other. It is the second installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) was a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). The tournament had a regional phase and a global phase: the regional phase was a 1v1 bracket to find the best players on each continent, and the global phase was a 4v4 bracket where the top players from each continent face each other. It was the second installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) is a worldwide 
 | Qualifiers | 2021-03-27/2021-03-28 |
 | Semifinals | 2021-04-03/2021-04-04 |
 | Finals | 2021-04-10/2021-04-11 |
-| Grand Finals | 2021-04-17 |
+| Grand Finals & Japan vs The Rest of the world | 2021-04-17 |
 
 ## Prizes
 
@@ -56,9 +56,11 @@ The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) is a worldwide 
 
 A prize pool of $1,000 with physical prizes are made possible thanks to [LotusPro](http://www.lotuspro.io/).
 
+![](img/badge.jpg "CGTS 2021 winner badge")
+
 ## Organisation
 
-The Continental Global Taiko Showdown 2021 is run by various community members.
+The Continental Global Taiko Showdown 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -81,19 +83,20 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1221339)
-- [GTS Discord server](https://discord.gg/3mGC3HB)
+- [GTS Discord server](https://discord.gg/3mGC3HB "Discord")
 - [GTS website](https://gtsosu.com)
 - Livestream
-  - [GTSosu](https://www.twitch.tv/gtsosu)
-  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
+  - [GTSosu](https://www.twitch.tv/gtsosu "Twitch")
+  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b "Twitch")
     - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
 - Challonge bracket
-  - [Asia](https://challonge.com/CGTS2021_Asia)
-  - [Europe](https://challonge.com/CGTS2021_Europe)
-  - [North America](https://challonge.com/CGTS2021_NA)
-  - [Oceania/SEA](https://challonge.com/CGTS2021_OSEA)
-  - [South America](https://challonge.com/CGTS2021_SA)
-- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStfVzMzkNbi4gs_cfuXTuFVHLdY20VChL61mPRFzooxJ6BAmkliT5u0OG0hyYJv1ZEXcwy25otJA6n/pubhtml) provided by ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710)
+  - [Global phase](https://challonge.com/cgts2021_4v4 "Challonge")
+  - [Asia](https://challonge.com/CGTS2021_Asia "Challonge")
+  - [Europe](https://challonge.com/CGTS2021_Europe "Challonge")
+  - [North America](https://challonge.com/CGTS2021_NA "Challonge")
+  - [Oceania/SEA](https://challonge.com/CGTS2021_OSEA "Challonge")
+  - [South America](https://challonge.com/CGTS2021_SA "Challonge")
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStfVzMzkNbi4gs_cfuXTuFVHLdY20VChL61mPRFzooxJ6BAmkliT5u0OG0hyYJv1ZEXcwy25otJA6n/pubhtml "Google Docs") provided by ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710)
 
 ## Participants
 
@@ -231,6 +234,14 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
+### Global phase
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Asia |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Europe |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | North America |
+
 ### Regional phase
 
 #### Asia
@@ -276,6 +287,36 @@ This competition has come to an end and resulted in the following podium:
 ## Mappools
 
 ### Global phase
+
+#### Grand Finals
+
+**[Download the mappack here! (102 MB)](https://mega.nz/file/V51V3KTY#teh9XpIBJPsp5Km5lsEJVwMsd4CBKwHN_y2p25ZTHDk)**
+
+- NoMod
+  - [ReeK - Possesed By The Blood Moon (KTYN) \[Sacrifice\]](https://osu.ppy.sh/beatmapsets/1211308#taiko/2521563)
+  - [Sasaki Eri - Fuyu Biyori (Polcka Remix) (KTYN) \[Little Happiness\]](https://osu.ppy.sh/beatmapsets/1346344#taiko/2788245)
+  - [Retractable - Eye of xxxx (4sbet1) \[Oni\]](https://osu.ppy.sh/beatmapsets/1383882#taiko/2858741)
+  - [Foozogz - Seismo (Yuzeyun) \[Akumu\]](https://osu.ppy.sh/beatmapsets/1141442#taiko/2384114)
+  - [II-L - SPUTNIK-6 (woosungko) \[SUPERNOVA\]](https://osu.ppy.sh/beatmapsets/1400703#taiko/2889674)
+  - [katagiri - Heisei saikyou no Curry Ya (KitajimaYN) \[SPICE\]](https://osu.ppy.sh/beatmapsets/936833#taiko/1957032)
+- Hidden
+  - [Feryquitous - Risk (ensan71714) \[Risky Oni\]](https://osu.ppy.sh/beatmapsets/858100#taiko/1793351)
+  - [Frums - Mdrqnxtagon (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/967870#taiko/2134205)
+  - [katagiri - Angel's Salad (Socus) \[redefinition\]](https://osu.ppy.sh/beatmapsets/1295972#taiko/2778658)
+- HardRock
+  - [xyst - Ylil's overed landscape (SKSalt) \[komasy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1887454)
+  - [Frums - Star-of-the-COME ON!! (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/732882#taiko/1546204)
+  - [Silentroom - Nhelv (Faputa) \[Seeker\]](https://osu.ppy.sh/beatmapsets/1076775#taiko/2253084)
+- DoubleTime
+  - [POLKADOT STINGRAY - Otoshimae (\[Zeth\]) \[Contention\]](https://osu.ppy.sh/beatmapsets/1306948#taiko/2709671)
+  - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (KitajimaYN) \[Taiko of an Illusion\]](https://osu.ppy.sh/beatmapsets/673226#taiko/1424840)
+  - [AVTechNO!xTreow - DYE/Re:flection+ (Michiru) \[In:ner+Oni\]](https://osu.ppy.sh/beatmapsets/1019970#taiko/2134290)
+- FreeMod
+  - [Camellia - Circles of Death (\[Zeth\]) \[Reincarnation\]](https://osu.ppy.sh/beatmapsets/1088266#taiko/2275550)
+  - [LeaF - UR+ MusicEater LV99 (yuzu\_\_rinrin) \[UNLIMITED Oni\]](https://osu.ppy.sh/beatmapsets/455972#taiko/1016347)
+  - [Kobaryo - SUPER REACTOR X \[feat. HiTNEX-X\] (Nifty) \[SUPER COLLAB X \[feat. rubies87\]\]](https://osu.ppy.sh/beatmapsets/1406016#taiko/2899359)
+- Tiebreaker
+  - **[Sparxe - Chicxulub (\[Zeth\]) \[Continental Divide\]](https://osu.ppy.sh/beatmapsets/1429738#taiko/2943238)**
 
 #### Finals
 
@@ -1145,6 +1186,32 @@ This competition has come to an end and resulted in the following podium:
 
 ### Global phase
 
+#### Grand Finals
+
+Saturday, 17 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Asia** | **7** | 1 | Europe | [#1](https://osu.ppy.sh/community/matches/81084347) |
+| **Japan** | **7** | 0 | Rest of the World | [#1](https://osu.ppy.sh/community/matches/81090281)¹ |
+
+¹ It was part of the Japan vs Rest of the World special match showcase
+
+#### Finals
+
+Saturday, 10 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Asia** | **7** | 0 | Europe | [#1](https://osu.ppy.sh/community/matches/80470565) |
+| Oceania/SEA | 0 | **7** | **North America** | [#1](https://osu.ppy.sh/community/matches/80494048) |
+
+Sunday, 11 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Europe** | **7** | 6 | North America | [#1](https://osu.ppy.sh/community/matches/80584586) |
+
 #### Semifinals
 
 Saturday, 3 April 2021:
@@ -1379,7 +1446,7 @@ Sunday, 14 February 2021:
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1T6SBlSxIUKp5gKO97oMLFcVSJYYrrZSPrU3wbW79Sro/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
-- All 27 players will participate in the Knockout Stage
+- All 27 players participated in the Knockout Stage
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
@@ -1502,7 +1569,7 @@ Sunday, 21 February 2021:
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1WO4rxmOvKv4Nc7dLSTbb4XiDp8haU42oSR-H2dEkHSU/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
-- Only the top 16 players will participate in the Knockout Stage
+- Only the top 16 players participated in the Knockout Stage
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
@@ -1624,8 +1691,8 @@ Sunday, 21 February 2021:
 ##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1Nblq6uZqjShlUUAJWi0VSxS7vCubwu9c8u1YiR00JXg/edit)
-- Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
-- Only the top 16 players will participate in the Knockout Stage
+- Average rank was determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
+- Only the top 16 players participated in the Knockout Stage
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
@@ -1741,7 +1808,7 @@ Sunday, 21 February 2021:
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/13m-Y8oSviIBZ6r8-ChwORrKLxuu0c9k0G-89lH96FHk/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
-- All 14 players will participate in the Knockout Stage
+- All 14 players participated in the Knockout Stage
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
