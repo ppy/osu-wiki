@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 制作故事板
 
 ## 创建故事板
