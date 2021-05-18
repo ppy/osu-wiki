@@ -14,4 +14,4 @@ tags:
 
 Une **section de timing** dans l'[éditeur de beatmap](/wiki/Beatmap_editor) désigne un changement dans le timing (par exemple [offset](/wiki/Offset) ou [BPM](/wiki/Beatmapping/Beats_per_minute)) d'une [beatmap](/wiki/Beatmap). Les beatmaps peuvent avoir une seule section de timing qui occupe tout le morceau ou de nombreuses sections de timings qui sont réparties tout au long du morceau.
 
-Lorsque la tempo d'une musique change, les créateurs sont tenus d'ajouter une nouvelle section de timing pour accompagner la nouvelle tempo. Une beatmap qui utilise un timing incorrect ne sera pas considérée comme classable.
+Lorsque le tempo d'une musique change, les créateurs sont tenus d'ajouter une nouvelle section de timing pour accompagner le nouveau tempo. Une beatmap qui utilise un timing incorrect ne sera pas considérée comme classable.

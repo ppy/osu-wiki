@@ -4,7 +4,7 @@ stub: true
 
 # Sampleset
 
-Un **sampleset** sont des effets sonores qui sont entendus pendant le jeu.
+Un **sampleset** est un ensemble d'effets sonores qui sont entendus pendant le jeu.
 
 Il existe trois types de sons :
 
