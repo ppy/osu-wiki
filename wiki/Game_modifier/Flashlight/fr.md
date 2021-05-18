@@ -33,7 +33,7 @@ Le mod **Flashlight** est un [modificateur de jeu](/wiki/Game_modifier) qui vise
 
 Dans le mode [osu!](/wiki/Game_mode/osu!), seul un petit cercle éclairé (c'est-à-dire la zone visible) entourant le curseur est affiché, ce qui permet d'afficher les parties du terrain de jeu contenues dans ce cercle. La taille de ce cercle change en fonction du combo actuel du joueur.
 
-La zone visible devient plus petite à partir d'un combo de 100x et à nouveau à partir d'un combo de 200x. Si le combo du joueur est interrompu à un moment donné, la zone visible reprend sa taille initiale. De plus, lorsque vous faites glisser un [slider](/wiki/Hit_object/Slider), la zone visible s'assombrit partiellement jusqu'à ce que le curseur soit terminé.
+La zone visible devient plus petite à partir d'un combo de 100x et à nouveau à partir d'un combo de 200x. Si le combo du joueur est interrompu à un moment donné, la zone visible reprend sa taille initiale. De plus, lorsque vous faites glisser un [slider](/wiki/Hit_object/Slider), la zone visible s'assombrit partiellement jusqu'à ce que le slider soit terminé.
 
 Tout cela donne un effet qui ressemble à une lampe de poche virtuelle braquée sur le curseur du joueur :
 
@@ -67,7 +67,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), la zone visible est limité
 
 ## Le saviez-vous ?
 
-- Si une beatmap est passé avec un grade S ou SS avec le mod Flashlight activé, le beatmap attribuera la variante argentée du grade à la place.
+- Si une beatmap est passée avec un grade S ou SS avec le mod Flashlight activé, le beatmap attribuera la variante argentée du grade à la place.
 - Le mod Flashlight a fait l'objet d'une vive controverse en 2010, car il s'agissait du mod le plus facile à pirater, ce qui a obligé le mod à ne pas être classé jusqu'à ce qu'un correctif soit mis en place pour combler la faille de l'implémentation du mod Flashlight.
   - [Flashlight mod disabled #2](https://osu.ppy.sh/community/forums/topics/41039)
   - [Flashlight is back!](https://osu.ppy.sh/community/forums/topics/41519)

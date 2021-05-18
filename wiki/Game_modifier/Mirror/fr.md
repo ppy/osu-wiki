@@ -21,11 +21,11 @@ tags:
 
 ## Description
 
-Le mod **Mirror** est un [modificateur de jeu](/wiki/Game_modifier) pour [osu!mania](/wiki/Game_mode/osu!mania) qui tente d'aider les joueurs gauchers à jouer des [beatmaps](/wiki/Beatmap) qui ont été mappés à l'origine en pensant aux droitiers. Le mod y parvient en reflétant les notes sur un axe y virtuel qui se trouve au milieu du clavier d'osu!mania. C'est-à-dire qu'il "reflète" les notes. Plus précisément, le miroir des notes est le suivant :
+Le mod **Mirror** est un [modificateur de jeu](/wiki/Game_modifier) pour [osu!mania](/wiki/Game_mode/osu!mania) qui tente d'aider les joueurs gauchers à jouer des [beatmaps](/wiki/Beatmap) qui ont été mappées à l'origine en pensant aux droitiers. Le mod y parvient en reflétant les notes sur un axe y virtuel qui se trouve au milieu du clavier d'osu!mania. C'est-à-dire qu'il "reflète" les notes. Plus précisément, le miroir des notes est le suivant :
 
 ![Gameplay du mod MR dans osu!mania](img/MR-comparison-mania.jpg "Comparaison entre un jeu normal (à gauche) et un jeu avec le mod Mirror activé (à droite) dans osu!mania.")
 
-Le raisonnement derrière cela est que de nombreuse beatmaps du mode osu!mania sont mappés par des créateurs droitiers, et donc de nombreux modèles de beatmaps sont faits pour être plus confortables pour les joueurs osu!mania droitiers. Ainsi, de nombreux joueurs gauchers, en particulier ceux de haut niveau, estiment que le placement des notes en miroir provoqué par le mod permet d'utiliser leur main gauche plus efficacement.
+Le raisonnement derrière cela est que de nombreuses beatmaps du mode osu!mania sont mappées par des créateurs droitiers, et donc de nombreux modèles de beatmaps sont faits pour être plus confortables pour les joueurs osu!mania droitiers. Ainsi, de nombreux joueurs gauchers, en particulier ceux de haut niveau, estiment que le placement des notes en miroir provoqué par le mod permet d'utiliser leur main gauche plus efficacement.
 
 ## Le saviez-vous ?
 

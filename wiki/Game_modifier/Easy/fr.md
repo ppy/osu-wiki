@@ -30,7 +30,7 @@ tags:
 
 ## Description
 
-Le mod **Easy** est un [modificateur de jeu](/wiki/Game_modifier) qui allège la difficulté d'une [beatmap](/wiki/Beatmap). Pour ce faire, il divise par deux tous les paramètres de difficulté de la beatmap sélectionné.
+Le mod **Easy** est un [modificateur de jeu](/wiki/Game_modifier) qui allège la difficulté d'une [beatmap](/wiki/Beatmap). Pour ce faire, il divise par deux tous les paramètres de difficulté de la beatmap sélectionnée.
 
 Dans tous les [modes de jeu](/wiki/Game_mode) sauf [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Easy accordera au joueur deux "vies" supplémentaires pendant une partie si la [barre de vie](/wiki/Glossary#life-bar) tombe à zéro. Si cela se produit, le jeu se met en pause pour remplir lentement la barre de vie jusqu'à environ 80 % et retire une "vie" du compteur de vie du joueur. Aucun son ne sera joué pendant cet effet.
 
@@ -42,7 +42,7 @@ Dans le mode [osu!](wiki/Game_Modes/osu!), le mod Easy diminue le [circle size (
 
 ![Gameplay du mod Easy dans osu!](img/EZ-comparison-standard.jpg "Comparaison entre un jeu normal (gauche) et un jeu avec le mod Easy activé (droite) dans osu!")
 
-Cependant, il convient de mentionner que de nombreux joueurs ne trouvent pas l'utilisation du mod Easy utile pour diminuer la difficulté relative des beatmaps, en particulier ceux de forte intensité. L'argument avancé est que la diminution du taux d'approche crée une situation désordonnée, difficile à lire, où la vitesse réelle du beatmap n'est pas très bien reflétée visuellement (voir ci-dessous).
+Cependant, il convient de mentionner que de nombreux joueurs ne trouvent pas l'utilisation du mod Easy utile pour diminuer la difficulté relative des beatmaps, en particulier celles de fortes intensités. L'argument avancé est que la diminution du taux d'approche crée une situation désordonnée, difficile à lire, où la vitesse réelle de la beatmap n'est pas très bien reflétée visuellement (voir ci-dessous).
 
 *Remarque : les points mentionnés ci-dessus sont développés dans la demande de fonctionnalité "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" pour améliorer le mod.*
 
@@ -52,7 +52,7 @@ Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Easy réduit de moit
 
 *Note : Le nombre de tours nécessaires pour terminer un [spinner](/wiki/Hit_object/Spinner) est réduit à la valeur de l'OD.*
 
-Contrairement aux autres modes de jeu, l'utilisation du mod Easy dans le mode osu!taiko réduit le score requis pour gagner de la santé dans osu!taiko fait que la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu d'une chanson dans taiko.
+Contrairement aux autres modes de jeu, l'utilisation du mod Easy dans le mode osu!taiko réduit le score requis pour gagner de la santé. Dans ce mode de jeu la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu d'une chanson.
 
 ### osu!catch
 

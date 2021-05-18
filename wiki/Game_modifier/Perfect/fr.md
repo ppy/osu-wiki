@@ -28,9 +28,9 @@ tags:
 
 Le mod **Perfect** est un [modificateur de jeu](/wiki/Game_modifier) qui vise à aider les joueurs qui cherchent à obtenir une note SS en échouant automatiquement et en réessayant les [beatmaps](/wiki/Beatmap) lorsqu'ils manquent une note ou obtiennent un score sur un [objet](/wiki/Hit_object) autre que 300 ou plus.
 
-L'un des actes suivants **entraînera** le redémarrage du beatmap par le mod Perfect :
+L'une des actions suivantes **entraînera** le redémarrage de la beatmap par le mod Perfect :
 
-- Manque une note
+- Manquer une note
 - Obtenir un `100` ou un `50`
 - Échec d'un spinner
 - Sliderbreaking

@@ -35,7 +35,7 @@ tags:
 
 *Avis : Tous les mods xK seront ignorés sur les beatmaps spécifiques à osu!mania. L'utilisation des mods 1K, 2K ou 3K entraînera un jeu non classé.*
 
-Ils s'agit des [modificateurs de jeu](/wiki/Game_modifier) qui forceront toutes les [beatmap](/wiki/Beatmap) du mode [osu!mania](/wiki/Game_mode/osu!mania) convertis à utiliser le paramètre K sélectionné. Cela ignore le paramètre K supposé de la beatmap au prix d'une diminution du multiplicateur de score, en fonction de la différence de K.
+Ils s'agit des [modificateurs de jeu](/wiki/Game_modifier) qui forceront toutes les [beatmaps](/wiki/Beatmap) du mode [osu!mania](/wiki/Game_mode/osu!mania) converties à utiliser le paramètre K sélectionné. Cela ignore le paramètre K supposé de la beatmap au prix d'une diminution du multiplicateur de score, en fonction de la différence de K.
 
 Le tableau ci-dessous explique comment le multiplicateur de score sera appliqué à tous les mods xK :
 

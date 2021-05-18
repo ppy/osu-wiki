@@ -37,6 +37,6 @@ Le fondu ne s'arrête que lorsque le nombre de combos atteint 500x (il couvre al
 
 ## Le saviez-vous ?
 
-- Si un beatmap est passé avec un grade S ou SS avec le mod Fade In activé, ladite beatmap attribuera la variante argentée de ce grade à la place.
+- Si une beatmap est passée avec un grade S ou SS avec le mod Fade In activé, ladite beatmap attribuera la variante argentée de ce grade à la place.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

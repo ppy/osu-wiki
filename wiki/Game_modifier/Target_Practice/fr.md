@@ -30,7 +30,7 @@ Le mod **Target Practice** est un [modificateur de jeu](/wiki/Game_modifier) exp
 
 Lors d'une partie avec le mod Target Practice activé, les joueurs se voient présenter un ensemble de "cibles" dont la taille et la luminosité augmentent lentement. Le joueur est censé toucher ou cliquer sur les cibles lorsqu'elles ont atteint leur taille et leur luminosité maximales et que le moment est venu. Un métronome constant sera joué en arrière-plan pour indiquer aux joueurs quand ils doivent toucher la cible.
 
-Ce mod est surtout utilisé pour le plaisir, mais il peut aussi être utilisé pour s'entraîner à maintenir une tempo constant.
+Ce mod est surtout utilisé pour le plaisir, mais il peut aussi être utilisé pour s'entraîner à maintenir un tempo constant.
 
 ![Gameplay du mod TP](img/TP-gameplay.jpg "Gameplay de osu! avec le mod Target Practice activé")
 

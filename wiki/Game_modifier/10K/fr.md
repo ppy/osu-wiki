@@ -26,6 +26,6 @@ tags:
 
 *Avis : Ce mod n'est plus disponible pour l'utilisation.*
 
-Le mod **10K** était un [modificateur de jeu](/wiki/Game_modifier) pour le mode [osu!mania](/wiki/Game_mode/osu!mania) qui permettait au joueur d'utiliser 10 touches pour un seul champ de jeu sur toutes les [beatmap](/wiki/Beatmap) osu!mania *convertis*. Il fonctionne exactement de la même manière que les autres mods [xK](/wiki/Game_modifier/xK), et n'était donc pas classable.
+Le mod **10K** était un [modificateur de jeu](/wiki/Game_modifier) pour le mode [osu!mania](/wiki/Game_mode/osu!mania) qui permettait au joueur d'utiliser 10 touches pour un seul champ de jeu sur toutes les [beatmaps](/wiki/Beatmap) osu!mania *converties*. Il fonctionne exactement de la même manière que les autres mods [xK](/wiki/Game_modifier/xK), et n'était donc pas classable.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
