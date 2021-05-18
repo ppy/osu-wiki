@@ -121,7 +121,7 @@ La durée d'un objet qui reste visible à l'écran (sans mods) varie de 1800ms (
 Il existe quatre mods qui modifient le timing de l'approach rate lorsqu'ils sont activés :
 
 - [Easy](/wiki/Game_modifier/Easy) : Divise par deux la valeur AR. (par exemple, AR10→AR5)
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock) :  Multiplie la valeur AR par 1,40, jusqu'à un maximum de AR10. (par exemple, AR3→AR4.2 ou AR9→AR10)
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock) :  Multiplie la valeur d'AR par 1,40, jusqu'à AR10 au maximum. (par exemple, on passe de AR3 à AR4.2 ou de AR9 à AR10)
 - [Double Time](/wiki/Game_modifier/Double_Time) : La valeur d'AR n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de lecture, les cercles restent à l'écran 33% de millisecondes en moins.
 - [Half Time](/wiki/Game_modifier/Half_Time) : La valeur d'AR n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse de lecture, les cercles restent à l'écran 33 % de millisecondes de plus.
 
