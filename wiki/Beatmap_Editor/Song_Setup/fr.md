@@ -1,6 +1,6 @@
 # Fenêtre Song Setup
 
-Song Setup est la quatrième section du [l'éditeur de beatmap](/wiki/Beatmap_Editor). Elle contient les métadonnées et les paramètres généraux de configuration de la beatmap.
+Song Setup est la quatrième section de [l'éditeur de beatmap](/wiki/Beatmap_Editor). Elle contient les métadonnées et les paramètres généraux de configuration de la beatmap.
 
 ## Général
 
@@ -12,13 +12,13 @@ Song Setup est la quatrième section du [l'éditeur de beatmap](/wiki/Beatmap_Ed
 
 Ces champs doivent être remplis avant de créer une deuxième difficulté. Il s'agit principalement de s'assurer que les métadonnées seront cohérentes pour toutes les difficultés du beatmapset.
 
-ILes données des champs "artiste", "titre" et "source" doivent provenir de la [source primaire de métadonnées](/wiki/Beatmap/Primary_metadata_source) de la chanson.
+Les données des champs "artiste", "titre" et "source" doivent provenir de la [source primaire de métadonnées](/wiki/Beatmap/Primary_metadata_source) de la chanson.
 
 #### Artiste
 
 **Le groupe, le chanteur, le compositeur ou le groupe qui a interprété ou créé la chanson**. Normalement, cette information est automatiquement extraite des métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
 
-*Attention : Les titres d'anime ou de jeux doivent être placés dans le champ [Source](#source). Les noms de Vocaloid ou de sociétés doivent être placés dans le champ [Tags](#tags).*
+*Attention : Les titres d'animes ou de jeux doivent être placés dans le champ [Source](#source). Les noms de Vocaloid ou de sociétés doivent être placés dans le champ [Tags](#tags).*
 
 Les noms étrangers/orientaux doivent être présentés dans le même ordre que celui utilisé sur Wikipédia (généralement, le prénom suivi du nom de famille ; l'ordre occidental, par souci de cohérence).
 
@@ -50,7 +50,7 @@ Ce champ peut également être utilisé pour indiquer qu'il s'agit d'une difficu
 
 #### Source
 
-**L'origine de la chanson.** En général, ce champ ne doit être utilisé que pour les chansons d'anime ou de jeux vidéo et occasionnellement pour les chansons de novels (films, télévision ou Internet).
+**L'origine de la chanson.** En général, ce champ ne doit être utilisé que pour les chansons d'animes ou de jeux vidéo et occasionnellement pour les chansons de novels (films, télévision ou Internet).
 
 Si la chanson est tirée d'un anime, d'un jeu vidéo ou si elle est célèbre pour son utilisation dans un film ou une émission de télévision, le titre de cette source doit être ajouté dans ce champ. Dans le cas contraire, ce champ doit être laissé vide.
 
@@ -110,7 +110,7 @@ En cochant la case "Co-op mode", le montant sélectionné sera doublé (à parti
 
 *Remarque : cette option est visible dans osu!taiko et osu!mania, mais elle n'a aucune incidence sur la jouabilité. C'est principalement parce que les deux utilisent une vitesse de défilement, qui est basée sur le BPM (battements par minute)..*
 
-L'**Approach Rate**, communément abrégée en AR, n'existe que dans osu! et osu!catch. Les valeurs vont de 0 à 10 ; plus les valeurs AR sont élevées, plus la hit windows des objets est courte. L'AR indique combien de temps les objets resteront à l'écran, depuis le moment où ils apparaissent jusqu'au moment où il faut les frapper/récupérer.
+L'**Approach Rate**, communément abrégée en AR, n'existe que dans osu! et osu!catch. Les valeurs vont de 0 à 10 ; plus les valeurs d'AR sont élevées, plus la hit windows des objets est courte. L'AR indique combien de temps les objets resteront à l'écran, depuis le moment où ils apparaissent jusqu'au moment où il faut les frapper/récupérer.
 
 Un approach rate plus élevé signifie que les objets seront affichés pendant une période plus courte, ce qui laisse moins de temps de réaction pour planifier. Inversement, un approach rate plus faible signifie que les objets seront affichés à l'écran pendant plus longtemps, ce qui laisse plus de temps pour réagir, mais peut entraîner l'apparition d'un nombre excessif d'objets à l'écran en même temps si l'approach rate est trop faible.
 
@@ -122,10 +122,10 @@ Il existe quatre mods qui modifient le timing de l'approach rate lorsqu'ils sont
 
 - [Easy](/wiki/Game_modifier/Easy) : Divise par deux la valeur AR. (par exemple, AR10→AR5)
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock) :  Multiplie la valeur AR par 1,40, jusqu'à un maximum de AR10. (par exemple, AR3→AR4.2 ou AR9→AR10)
-- [Double Time](/wiki/Game_modifier/Double_Time) : La valeur AR n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de lecture, les cercles restent à l'écran 33% de millisecondes en moins.
-- [Half Time](/wiki/Game_modifier/Half_Time) : La valeur AR n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse de lecture, les cercles restent à l'écran 33 % de millisecondes de plus.
+- [Double Time](/wiki/Game_modifier/Double_Time) : La valeur d'AR n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de lecture, les cercles restent à l'écran 33% de millisecondes en moins.
+- [Half Time](/wiki/Game_modifier/Half_Time) : La valeur d'AR n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse de lecture, les cercles restent à l'écran 33 % de millisecondes de plus.
 
-Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur réelle de l'AR, la différence de vitesse entraîne un changement de AR apparent, aussi bas que AR-5 ou aussi élevé que AR11. Dans le tableau AR fourni, ces valeurs apparentes sont données pour permettre une comparaison facile entre les vitesses d'approche avec et sans mods. L'AR réel, cependant, est toujours un nombre compris entre 0 et 10. Notez que les niveaux d'AR s'échelonnent de 120 ms pour une valeur inférieure à AR5 et de 150 ms pour une valeur supérieure à AR5.
+Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur réelle de l'AR, la différence de vitesse entraîne un changement d'AR apparent, aussi bas que AR-5 ou aussi élevé que AR11. Dans le tableau d'AR fourni, ces valeurs apparentes sont données pour permettre une comparaison facile entre les vitesses d'approche avec et sans mods. L'AR réel, cependant, est toujours un nombre compris entre 0 et 10. Notez que les niveaux d'AR s'échelonnent de 120 ms pour une valeur inférieure à l'AR5 et de 150 ms pour une valeur supérieure à l'AR5.
 
 ### Overall Difficulty
 
@@ -148,11 +148,11 @@ Dans osu!, le système de timing ne permet pas de toucher un objet tant que l'ob
 Il existe quatre mods qui modifient le timing de l'overall difficulty lorsqu'ils sont activés :
 
 - [Easy](/wiki/Game_modifier/Easy): Divise par deux la valeur de l'OD.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplie la valeur de l'OD par 1,4, jusqu'à un maximum de OD10.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplie la valeur de l'OD par 1,4, jusqu'à OD10 au maximum.
 - [Double Time](/wiki/Game_modifier/Double_Time): La valeur OD n'est pas affectée, mais en raison de l'augmentation de 50 % de la vitesse de lecture, les hit windows sont 33 % plus courtes.
 - [Half Time](/wiki/Game_modifier/Half_Time): La valeur OD n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse de lecture, les hit windows sont 33 % plus longues.
 
-Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne changent pas la valeur réelle de l'OD, l'effet de la vitesse sur les hit windows fera que les objets sembleront avoir une OD apparente inférieure ou supérieure, respectivement. Dans le tableau de l'OD fourni, les valeurs de l'OD apparentes sont indiquées pour permettre la comparaison entre les temps avec et sans ces mods. Notez que ces valeurs d'OD apparentes ne s'appliquent qu'aux 300 sur les cercles. Les fenêtres pour les 100, les 50 et les sliders (qui utilisent la hit windows 50) sont plus sévères avec le Double Time que ne le suggère cette OD apparente et plus clémentes avec le Half Time. Encore une fois, en dehors du NoMod, Hard Rock *(HR)* et Easy *(EZ)* (sur le côté gauche), les valeurs de l'OD fournies ne servent qu'à des fins de comparaison : la valeur réelle de l'OD est toujours un nombre compris entre 0 et 10.
+Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne changent pas la valeur réelle de l'OD, l'effet de la vitesse sur les hit windows fera que les objets sembleront avoir une OD apparente inférieure ou supérieure, respectivement. Dans le tableau de l'OD fourni, les valeurs d'OD apparentes sont indiquées pour permettre la comparaison entre les temps avec et sans ces mods. Notez que ces valeurs d'OD apparentes ne s'appliquent qu'aux 300 sur les cercles. Les fenêtres pour les 100, les 50 et les sliders (qui utilisent la hit windows 50) sont plus sévères avec le Double Time que ne le suggère cette OD apparente et plus clémentes avec le Half Time. Encore une fois, en dehors du NoMod, Hard Rock *(HR)* et Easy *(EZ)* (sur le côté gauche), les valeurs de l'OD fournies ne servent qu'à des fins de comparaison : la valeur réelle de l'OD est toujours un nombre compris entre 0 et 10.
 
 ## Audio
 
@@ -160,7 +160,7 @@ Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne changent pas la val
 
 ### Paramètres par défaut de l'échantillon
 
-Configuration pour les hitsounds. Cependant, en utilisant les sections [timing](/wiki/Beatmap_Editor/Timing) (`F6`), le créateur peut changer les deux ensembles de hitsounds ou le volume individuellement à travers des points de timing. Les sections `Sample Set Selection` et `Sample Set Volume` seront inaccessibles si des ajustements de volume sensibles au timing sont utilisés dans la beatmap. Cliquer sur le bouton `Reset Settings` supprimera tous les ajustements de volume personnalisés.
+Configuration pour les hitsounds. Cependant, en utilisant les sections [timing](/wiki/Beatmap_Editor/Timing) (`F6`), le créateur peut changer les deux ensembles de hitsounds ou le volume individuellement grâce à des points de timing. Les sections `Sample Set Selection` et `Sample Set Volume` seront inaccessibles si des ajustements de volume sensibles au timing sont utilisés dans la beatmap. Cliquer sur le bouton `Reset Settings` supprimera tous les ajustements de volume personnalisés.
 
 #### Sample Set Selection
 
@@ -182,7 +182,7 @@ La case à cocher `Samples match playback rate (for fully-hitsounded maps)` ajus
 
 ![Capture d'écran de l'onglet Colours](img/SS_Colours.jpg "Onglet Colours")
 
-Configurez les couleurs des combinaisons et la couleur de fond du terrain de jeu.
+Configurez les couleurs des combos et la couleur de fond du terrain de jeu.
 
 ### Hitcircle/Slider Combos
 
@@ -223,7 +223,7 @@ Lorsqu'elle est activée, l'animation du compte à rebours peut être affinée �
 
 ![Capture d'écran de l'onglet Skinning](img/SS_Skin_eg.jpg "Onglet Skinning")
 
-La liste déroulante `Preferred Skin` est utilisée pour définir le skin préférée pour la beatmap. L'utilisation de cette option suppose que le joueur possède le skin que vous souhaitez qu'il utilise. Cependant, si le joueur n'a pas le skin, une notification apparaîtra pour le joueur, indiquant que le skin demandé est manquant, mais que le skin actuel du joueur sera utilisé à la place. Par défaut, `User's preference (No Change)` est utilisé.
+La liste déroulante `Preferred Skin` est utilisée pour définir le skin préféré pour la beatmap. L'utilisation de cette option suppose que le joueur possède le skin que vous souhaitez qu'il utilise. Cependant, si le joueur n'a pas le skin, une notification apparaîtra pour le joueur, indiquant que le skin demandé est manquant, mais que le skin actuel du joueur sera utilisé à la place. Par défaut, `User's preference (No Change)` est utilisé.
 
 Vous pouvez toutefois inclure les éléments du skin dans le dossier de la beatmap. Comme la plupart des créateurs le feront à la place, cette option est rarement utilisée, sauf si elle permet de réduire la taille du fichier ou si elle fait partie d'un projet d'une beatmap, où le skin peut être fourni sur la page du projet elle-même.
 
@@ -235,7 +235,7 @@ Vous pouvez toutefois inclure les éléments du skin dans le dossier de la beatm
 
 ![L'empilement des objets lors de l'édition peut les faire se chevaucher et se retrouver les uns sur les autres.](img/stacking-editor.jpg "Empiler les objets pendant l'édition")
 
-![Cependant, pendant le jeu, le jeu les inclinera pour le joueur.](img/stacking-playtest.jpg "Objets empilés frappés pendant le jeu")
+![Cependant, pendant la partie, le jeu les inclinera pour le joueur.](img/stacking-playtest.jpg "Objets empilés frappés pendant le jeu")
 
 Dans osu!, les objets s'empilent automatiquement s'ils sont placés au même endroit tout en étant proches dans le temps. Ceci afin d'aider les joueurs à voir les objets qui se chevauchent.
 
@@ -247,7 +247,7 @@ Les objets sont considérés comme appartenant à la même pile s'ils se trouven
 
 ### Mode Specific
 
-`Allowed Modes` est une liste déroulante pour confirmer que la beatmap ne peut être joué que par le mode spécifié. Le paramètre par défaut est `All`, ce qui signifie que le créateur créera une beatmap du mode osu! qui pourra être converti dans les autres modes de jeu. Ce paramètre peut être modifié pour être spécifique à osu!taiko, osu!catch, ou osu!mania ; mais **gardez à l'esprit que ce changement supprimera tous les objets dans la beatmap**.
+`Allowed Modes` est une liste déroulante pour confirmer que la beatmap ne peut être jouée que par le mode spécifié. Le paramètre par défaut est `All`, ce qui signifie que le créateur créera une beatmap du mode osu! qui pourra être converti dans les autres modes de jeu. Ce paramètre peut être modifié pour être spécifique à osu!taiko, osu!catch, ou osu!mania ; mais **gardez à l'esprit que ce changement supprimera tous les objets dans la beatmap**.
 
 *Remarque : décidez au moment de la création et confirmez d'abord le(s) mode(s) de jeu de la beatmap avant d'ajouter des objets pour éviter de gaspiller des efforts.*
 
