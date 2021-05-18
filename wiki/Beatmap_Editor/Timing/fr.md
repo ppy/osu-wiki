@@ -1,6 +1,6 @@
 # Onglet Timing 
 
-*Voir aussi : [How to time songs](/wiki/Guides/How_to_Time_Songs)*
+*Voir aussi : [Comment synchroniser les musiques](/wiki/Guides/How_to_Time_Songs)*
 
 ![Capture d'écran de l'onglet "timing" dans l'éditeur](img/Timing_base-FR.jpg)
 

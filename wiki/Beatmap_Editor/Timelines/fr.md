@@ -1,6 +1,6 @@
 # Timeline de l'éditeur de beatmap
 
-Dans l'[éditeur de beatmap](/wiki/Beatmap_Editor), il existe trois timeline différentes qu'un mappeur peut rencontrer. Cet article explique le fonctionnement de chacune d'entre elles.
+Dans l'[éditeur de beatmap](/wiki/Beatmap_Editor), il existe trois timelines différentes qu'un mappeur peut rencontrer. Cet article explique le fonctionnement de chacune d'entre elles.
 
 ## Raccourcis
 
@@ -14,7 +14,7 @@ Le lecteur de morceaux est visible dans n'importe quelle partie de l'éditeur de
 
 A gauche, il y a l'horodatage en millisecondes et le pourcentage de la durée du morceau. Le pourcentage peut afficher `intro` ou `outro` s'il y a du storyboarding avant ou après la chanson.
 
-Au centre, il montre la timeline avec les signets et les boutons obligatoires du lecteur de morceaux. Le bouton `Test` sauvegardera votre beatmap puis commencera à le tester à partir du timestamp actuel.
+Au centre, il montre la timeline avec les signets et les boutons obligatoires du lecteur de morceaux. Le bouton `Test` sauvegardera votre beatmap puis commencera à la tester à partir du timestamp actuel.
 
 La timeline elle-même utilise quelques coches qui ont diverses significations.
 
@@ -37,14 +37,14 @@ Il existe deux types différents de timeline des objets, selon le mode de jeu ut
 
 ### osu!, osu!taiko, et osu!catch
 
-![La timeline des objets dans les modes osu!, osu!taiko, et osu!catch](/wiki/shared/BE_NTL.jpg "Cela montre la timeline des objets par rapport au diviseur de mesure et à l'horodatage du beat snap.")
+![La timeline des objets dans les modes osu!, osu!taiko, et osu!catch](/wiki/shared/BE_NTL.jpg "Cela montre la timeline des objets par rapport au diviseur de mesures et à l'horodatage du beat snap.")
 
 En mode [compose](/wiki/Compose), cette timeline se trouve sous l'onglet `Compose` pour tous les modes de jeu, sauf pour [osu!mania](/wiki/Game_mode/osu!mania).
 
 | Nom | Description |
 | :-- | :-- |
 | Boutons `+`/`-` | Augmente/diminue le zoom de la timeline. |
-| Double ligne verticale blanche | Cela montre l'horodatage actuel par rapport à la timeline des objets. |
+| Double lignes verticales blanches | Cela montre l'horodatage actuel par rapport à la timeline des objets. |
 
 Un clic gauche sur un objet le sélectionne et un glissement déplace l'objet sélectionné sur la timeline.
 
