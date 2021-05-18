@@ -8,7 +8,7 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 - Daftar tab menampilkan kanal-kanal yang telah ditambahkan. Cukup klik tab lainnya untuk pindah ke kanal yang ingin dituju. Klik tombol tanda tambah berwarna kuning `+` untuk membuka daftar-daftar kanal yang bisa kamu masuki.
 - Warna dari masing-masing pengguna memiliki arti yang berbeda.
 
-| Warna | Siapa?  |
+| Warna | Siapa? |
 | :-- | :-- |
 | Putih | Kamu |
 | Kuning Pucat | Bukan pengguna osu!supporter |
