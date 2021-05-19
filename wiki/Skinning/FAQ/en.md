@@ -212,7 +212,7 @@ However, the osu!mania ranking screen is an exception to this. That is, if an an
 
 *Notice: In osu!mania, osu! ignores the specified path from the `skin.ini` file and will only use the image from the root directory (the folder where the skin elements are loaded).*
 
-## Animiations
+## Animations
 
 ### How do I animate an element?
 

@@ -35,7 +35,7 @@ It is important to keep a few things in mind to use beatmap discussion pages eff
 
 ## Mode selection
 
-![](img/mode-selection.jpg "Mode selection")
+![](img/mode-selection.png "Mode selection")
 
 Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This is only used with beatmaps that contain multiple game modes; otherwise, it will default to the mapped game mode.
 
@@ -43,13 +43,13 @@ Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is o
 
 *For information about setting metadata, see: [Song Setup § Song and Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
-![](img/beatmap-header.jpg "Beatmap header")
+![](img/beatmap-header.png "Beatmap header")
 
 The beatmap header displays the title and artist provided in the [beatmap editor](/wiki/Beatmap_Editor). Clicking the beatmap header will navigate back to the info page.
 
 ## Difficulty menu
 
-![](img/difficulty-menu.jpg "Difficulty menu")
+![](img/difficulty-menu.png "Difficulty menu")
 
 You can select different [difficulties](/wiki/Beatmap/Difficulty) through the dropdown menu. This will show all currently available difficulties, along with older, deleted ones that have had suggestions/problems. The number that appears besides a difficulty's name is the number of unresolved posts on that specific difficulty. It is important to double-check this menu before submitting any mods.
 

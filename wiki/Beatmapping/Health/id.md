@@ -84,7 +84,7 @@ Tidak berefek:
 
 Di [osu!mania](/wiki/Game_mode/osu!mania), hanya hit object yang memberikan efek, karena [health drain](/wiki/Beatmapping/Health_drain) dimatikan.
 
-Score burst akan muncul setelah menekan not, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan memulihkan banyak health daripada Hit yang buruk (50). Pemain juga mendapatkan tambahan besar jika mereka menerima katu atau geki saat kombo terakhir. Kehilangan not akan menguras health. Health bar memulih ketika menekan not. Untuk gambaran tentang pemulihan health dan kehilangan health, silahkan lihat:
+Score burst akan muncul setelah menekan not, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan memulihkan banyak health daripada Hit yang buruk (50). Kehilangan not akan menguras health. Health bar memulih ketika menekan not. Untuk gambaran tentang pemulihan health dan kehilangan health, silahkan lihat:
 
 Pemulihan Health:
 
