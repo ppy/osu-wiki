@@ -4,7 +4,7 @@ stub: true
 
 # Mouse
 
-**Mouse** adalah cara yang sangat populer untuk bermain osu!. Kamu dapat menggunakan mouse untuk mengarahkan dan menekan. Tombol pada tengah mouse diatur untuk menghentikan permainan (dapat dinonaktifkan di dalam opsi), dan roda gulir dapat digunakan untuk mengubah volume.
+**Mouse** adalah cara yang sangat populer untuk bermain osu!. Kamu dapat menggunakan mouse untuk mengarahkan dan menekan. Tombol pada tengah mouse diatur untuk menghentikan permainan (dapat dinonaktifkan di dalam opsi pengaturan), dan roda gulir dapat digunakan untuk mengubah volume.
 
 ## Opsi terkait pada mouse
 
@@ -18,20 +18,20 @@ Raw input akan melewati akselerasi mouse Windows dan memberikan gerakan mouse ya
 
 ### Membatasi kursor mouse
 
-Opsi ini mengizinkan kursor mouse untuk berada tetap di dalam jendela osu! dengan mengatur pada `Only when fullscreen`. Opsi yang tersedia meliputi:
+Opsi ini mengizinkan kursor mouse untuk berada tetap di dalam window osu! dengan mengatur pada `Only when fullscreen`. Opsi yang tersedia meliputi:
 
-- `Never`: Mouse tidak akan berada tetap di dalam jendela osu!.
-- `Only when fullscreen`: Mouse akan berada tetap di dalam jendela osu! ketika pada layar penuh.
-- `Always`: Mouse akan berada tetap di dalam jendela osu!.
+- `Never`: Mouse tidak akan berada tetap di dalam window osu!.
+- `Only when fullscreen`: Mouse akan berada tetap di dalam window osu! ketika pada layar penuh.
+- `Always`: Mouse akan berada tetap di dalam window osu!.
 
-### Nonaktifkan roda mouse dalam mode bermain
+### Nonaktifkan roda mouse selagi bermain
 
-Selama bermain, Kamu dapat menggunakan roda mouse untuk menyesuaikan volume dan menjeda permainan. Mengaktifkan opsi ini akan menonaktifkan fungsionalitas ini saat bermain.
+Selama bermain, Kamu dapat menggunakan roda mouse untuk menyesuaikan volume dan menjeda permainan. Mengaktifkan opsi ini akan menonaktifkan fungsi ini saat bermain.
 
-### Nonaktifkan tombol mouse dalam mode bermain
+### Nonaktifkan tombol mouse selagi bermain
 
-Opsi ini akan menonaktifkan semua tombol mouse selama bermain, yang mungkin berguna bagi orang-orang yang menggunakan keyboard untuk menekan.
+Opsi ini akan menonaktifkan semua tombol mouse selama pemain sedang bermain, yang mungkin berguna bagi orang-orang yang menggunakan keyboard untuk menekan.
 
-### Riak kursor
+### Efek gelombang kursor
 
-Kursor akan bergerak ke luar saat menekan.
+Kursor akan memunculkan sebuah gelombang tipis yang membesar saat ditekan.

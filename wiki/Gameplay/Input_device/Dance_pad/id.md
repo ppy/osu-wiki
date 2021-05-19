@@ -4,7 +4,7 @@ stub: true
 
 # Dance pad
 
-![](img/dance-pad.jpg "kontroller dance pad 4 tombol")
+![](img/dance-pad.jpg "Kontroller dance pad 4 tombol")
 
 **Dance pad**, atau **Dance mat**, adalah sebuah tipe kontroller gim rhythm yang menggunakan penempatan kaki para pemain sebagai input. Ditunjukkan pada gambar diatas, dance pad ditempatkan pada lantai dan memungkinkan para pengguna untuk melangkah ke mana saja dari empat hingga sembilan "arah" untuk mengaktifkan tombol. Jenis kontroller ini paling sering digunakan pada gim-gim rhythm, seperti *[Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution "Wikipedia")*.
 

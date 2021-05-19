@@ -10,6 +10,6 @@ stub: true
 
 Karena sifatnya, kontroller Beatmania paling sering digunakan sebagai perangkat input di [osu!mania](/wiki/Game_mode/osu!mania).
 
-## Metode masukan
+## Metode input
 
-Pemain-pemain yang memiliki kontroller Playstation 2 (PS2) *Beatmania*, dapat menggunakan adaptor untuk menghubungkan kontroller ke komputer mereka melalui USB dan mengatur tombol di opsi dalam permainan. Namun, bagi pemain yang memiliki pengontrol *DJ DAO IIDX*, cukup mencolokkan pengontrol ke komputer mereka melalui USB dan mengatur kunci dalam permainan.
+Pemain-pemain yang memiliki kontroller Playstation 2 (PS2) *Beatmania*, dapat menggunakan adaptor untuk menghubungkan kontroller ke komputer mereka melalui USB dan mengatur tombol di opsi pengaturan dalam permainan. Namun, bagi pemain yang memiliki kontroller *DJ DAO IIDX*, dapat tinggal mencolokkan kontroller ke komputer mereka melalui USB dan mengatur key dalam permainan.
