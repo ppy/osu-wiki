@@ -13,7 +13,7 @@ Welcome to the osu! wiki, the open-source knowledge base of osu!, a free-to-win 
 
 # Getting started
 
-Important articles and guides that help dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Technical help](https://osu.ppy.sh/forum/5) forum, which is always open.
+Important articles and guides that help dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5), which is always open.
 
 [Rules](/wiki/Rules) • [Welcome](/wiki/Welcome) • [Installation](/wiki/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_Centre)
 
@@ -85,7 +85,7 @@ Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelin
 
 Answers to frequent questions and solutions to common issues live here. Learn how to deal with network issues, or combat bad behaviour online.
 
-[Help Centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_Troubleshooting) • [Account support team](wiki/People/The_Team/Account_support_team) • [Technical help](https://osu.ppy.sh/forum/5)
+[Help Centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_Troubleshooting) • [Account support team](wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
 Profile: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_Centre/Account_Restrictions)
 
