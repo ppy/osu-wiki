@@ -53,7 +53,7 @@ If a command has the same start time and end time, you can leave out the endtime
 
 is treated as this:
 
-`_(event),(easing),(starttime),(starttime),(params...)`
+`_(event),(easing),(starttime),(endtime),(params...)`
 
 For instance, say you have a bunch of commands on an object that cause it to move around the screen, starting at time 1000. But wherever it appears, you always want the object to be 50% opaque. Therefore, you can make a single endpoint like so:
 

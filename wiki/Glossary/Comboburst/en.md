@@ -7,7 +7,7 @@ tags:
 
 # Combo burst
 
-*Combo bursts* celebrate achieving a [combo milestone](/wiki/Glossary/Combo_milestone) by flashing a combo burst image. Said images are different for each game mode.
+**Combo bursts** celebrate achieving a [combo milestone](/wiki/Glossary/Combo_milestone) by flashing a combo burst image. Said images are different for each game mode.
 
 - In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), a character will burst out from either the left or right side of the window. By default, said character will be [pippi](/wiki/Mascots#-pippi) and [Yuzu](/wiki/Mascots#-yuzu) respectively.
 - In [osu!taiko](/wiki/Game_mode/osu!taiko), a collection of flowers will burst behind pippidon.<!-- TODO: stubless term "pippidon" -->.
