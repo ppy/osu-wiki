@@ -1024,7 +1024,7 @@ Notes:
 - Full image height is 768px.
 - Smaller images are shown with transparent borders while larger images are partially shown.
 - This can also be a `.jpg` file (and can have the `.jpg` extension).
-  - osu! preferences `.png` over `.jpg`.
+  - osu! prefers `.png` over `.jpg`.
 
 ---
 
@@ -1039,7 +1039,7 @@ Notes:
 - When the player has failed, the playfield will be dimmed and this file will overlay on top of it.
 - This element will stretch to fit.
 - This can also be a `.jpg` file (and can have the `.jpg` extension).
-  - osu! preferences `.png` over `.jpg`.
+  - osu! prefers `.png` over `.jpg`.
 
 ---
 
