@@ -21,9 +21,9 @@ To summarize the article very briefly (you should really read the whole thing on
 
 **The changes listed below apply solely to the osu! game mode.**
 
-# Release Schedule
+## Release Schedule
 
-## ✅ Background user total recalculations \[Done\]
+### ✅ Background user total recalculations \[Done\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
@@ -33,25 +33,25 @@ Scores in "best performance" may look to be out of order or not visible.
 
 This is estimated to take 2 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
 
-## ✅ Re-enabling of global rank history updates \[Done\]
+### ✅ Re-enabling of global rank history updates \[Done\]
 
 Rank history graphs will be enabled and updated again throughout Monday (18th January). At this point, all users' global leaderboard ranks will be stable going forward.
 
-## ✅ Background user score recalculations \[Done\]
+### ✅ Background user score recalculations \[Done\]
 
 This took 10 days in total (started 18th January, finished 28th January). Note that an initial pass has only covered active users (in the last month) and in some cases, only top 100 scores. This should cover basically all visible scores. We will continue to perform consitency updates for the remaining users and scores over the coming weeks.
 
 To make this happens, many pieces of the infrastructure saw optimisation passes and some temporary tweaks were introduced to `osu-performance` (the pp calculater/updater component) to keep things running smoothly.
 
-## ✅ Reindexing \[Done\]
+### ✅ Reindexing \[Done\]
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all. Started on 28th January, this step is estimated to take 2-3 days.
 
-# Summary of changes
+## Summary of changes
 
 Let's get started with the details:
 
-## Approach Rate 11 Changes 
+### Approach Rate 11 Changes
 
 Previously, any map with an approach rate (hereafter referred to as AR) higher than 10.33 was affected by a buff that increased the value of the speed and aim components by a flat 20%.
 
@@ -70,7 +70,7 @@ Consult the graphs below for a visualization of the changes:
 
 ![](/wiki/shared/news/2021-01-14-performance-points-updates/ar-speed.png)
 
-## No Fail Changes
+### No Fail Changes
 
 Before today's changes, the performance points algorithm applied a flat 10% reduction in the maximum possible pp (not score) you could receive for a play made with the No Fail mod active.
 
@@ -84,7 +84,7 @@ The score reduction multiplier of 0.5x remains unchanged.
 
 This makes sudden "pop-off" performances made with the No Fail mod less punishing and more rewarding, and reduces the ability for the NoFail mod to be used by unscrupulous players to "sandbag" for rank restricted tournaments. Win-win.
 
-## Spun Out Changes
+### Spun Out Changes
 
 Similar to how NoFail used to function as described above, Spun Out also applied a flat 5% reduction in the maximum possible pp (again, not score) you could receive while making a play with it enabled.
 
@@ -102,7 +102,7 @@ Consult the graph below for a visualization of the changes:
 
 ![](/wiki/shared/news/2021-01-14-performance-points-updates/spunout-mult.png)
 
-## Miss Penalty Curve Adjustments
+### Miss Penalty Curve Adjustments
 
 To understand these changes, it is important to know that the performance points algorithm previously penalized misses *exponentially*, reducing the aim and speed pp components awarded for a score based on a simple function that factored in only the number of misses made during a play and absolutely nothing else.
 
@@ -121,7 +121,7 @@ To help illustrate these changes better, consult the graph image below. The blue
 
 This change seeks to penalize misses on short maps more, while significantly reducing the impact of a small number of misses on longer maps. The one-off 3% penalty for a miss provides incentive for players to hone any 1-miss plays they might still make, but otherwise makes them considerably less punishing on longer plays.
 
-## Speed & Accuracy Curve Adjustments
+### Speed & Accuracy Curve Adjustments
 
 As osu! has evolved over time, accuracy has slowly but steadily fallen to the wayside as a principle component for determining the pp values of modern scores. To illustrate this, 500-700pp scores from many years ago sometimes derived as much as 20-40% of their overall pp purely from the accuracy component alone.
 

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Getting Your Map Modded
 
 あなたのビートマップが[Rankedになるために](/wiki/Beatmapping)、[Modを手に入れる必要があります](/wiki/Modding)。 ここにはそれをするいくつかの手段があります。
