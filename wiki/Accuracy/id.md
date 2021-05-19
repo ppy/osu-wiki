@@ -1,6 +1,6 @@
 # Akurasi
 
-Akurasi adalah suatu pengukur konsistensi pemain untuk menekan [hit objek](/wiki/Hit_object). Terdapat tiga jenis akurasi yang dimiliki pemain: keseluruhan akurasi pada beatmap, yang bergantung pada skor hit yang diperoleh; keseluruhan akurasi pada pemain, yang ditimbang untuk memungkinkan skor yang lebih baik dan menonjol; dan akurasi [Performance Point (pp)](/wiki/Performance_Points) pada pemain, yang bergantung pada akurasi skor yang terkirim.
+Akurasi adalah suatu pengukur konsistensi pemain untuk menekan [hit object](/wiki/Hit_object). Terdapat tiga jenis akurasi yang dimiliki pemain: akurasi keseluruhan pada beatmap, yang bergantung pada hit skor dari keseluruhan hit object yang diperoleh; akurasi keseluruhan pemain, yang ditimbang untuk memungkinkan skor yang lebih baik dan menonjol; dan akurasi [Performance Point (pp)](/wiki/Performance_Points) pada pemain, yang bergantung pada akurasi skor yang terkirim.
 
 ## Mode permainan
 
@@ -49,13 +49,13 @@ Grafik performa adalah sebuah grafik yang menampilkan performa pemain (berdasark
 
 ### Akurasi
 
-Saat menunjuk di atas grafik performa, sebuah tooltip akan ditampilkan dengan *Error* dan *Unstable Rate*.
+Saat menggerakkan kursor ke grafik performa, sebuah tooltip akan ditampilkan dengan informasi tentang *Error* dan *Unstable Rate*.
 
 Sebab saat mod [DT](/wiki/DT) (Double Time) dan [HT](/wiki/HT) (Half Time) diimplementasikan, nilai kesalahan dan laju tidak stabil akan dikalikan dengan faktor yang sama dengan lagu. Untuk mendapat nilai asli saat bermain DT, bagi hasil dengan 1.5. Sama halnya, kalikan hasil dengan 1.33 saat bermain HT.
 
 #### Error
 
-`Error` akan selalu menampilkan dua nilai yang mewakili seberapa jauh hit lebih dahulu dari rata-rata dan seberapa jauh hit lebih lambat dari rata-rata. Semakin besar nilai [Overall Difficulty](/wiki/Overall_Difficulty) dari suatu beatmap, semakin kecil nilai kesalahan yang harus dilakukan saat bermain beatmap.
+`Error` akan selalu menampilkan dua nilai yang mewakili seberapa jauh hit yang lebih dahulu dari rata-rata dan seberapa jauh hit yang lebih lambat dari rata-rata. Semakin besar nilai [Overall Difficulty](/wiki/Overall_Difficulty) dari suatu beatmap, semakin kecil nilai kesalahan yang harus dilakukan saat bermain beatmap.
 
 #### Unstable Rate
 
@@ -69,4 +69,4 @@ Sebagai tambahan untuk akurasi, beberapa informasi mengenai spinner juga terdapa
 
 #### Kecepatan
 
-Kecepatan mewakili rata-rata RPM (revolutions per minute) di semua spinner dalam beatmap. `Max` adalah RPM tertinggi yang dicapai oleh pemain pada spinner beatmap apa pun.
+Kecepatan mewakili rata-rata RPM (revolutions per minute) di semua spinner dalam beatmap. `Max` adalah RPM tertinggi yang dapat dicapai oleh pemain pada spinner beatmap apa pun.
