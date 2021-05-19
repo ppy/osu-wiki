@@ -8,4 +8,4 @@ stub: true
 
 **Dance pad**, atau **Dance mat**, adalah sebuah tipe kontroller gim rhythm yang menggunakan penempatan kaki para pemain sebagai input. Ditunjukkan pada gambar diatas, dance pad ditempatkan pada lantai dan memungkinkan para pengguna untuk melangkah ke mana saja dari empat hingga sembilan "arah" untuk mengaktifkan tombol. Jenis kontroller ini paling sering digunakan pada gim-gim rhythm, seperti *[Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution "Wikipedia")*.
 
-[Wii](https://en.wikipedia.org/wiki/Wii "Wikipedia") Dance Mat membutuhkan penggunaan adaptor kontroller [GameCube](https://en.wikipedia.org/wiki/GameCube "Wikipedia") untuk dapat berfungsi dengan komputer. Setelah komputer terhubung dengan dance pad, aturlah key yang benar di dalam pengaturan osu!.
+[Wii](https://en.wikipedia.org/wiki/Wii "Wikipedia") Dance Mat membutuhkan penggunaan adaptor kontroller [GameCube](https://en.wikipedia.org/wiki/GameCube "Wikipedia") untuk dapat digunakan pada komputer. Setelah dance pad terhubung dengan komputer, aturlah key yang benar di dalam pengaturan osu!.
