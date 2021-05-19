@@ -5,7 +5,7 @@ Les fichiers **.db** sont utilisés en tant que fichiers binaire par osu! pour y
 On peut très souvent retrouver des fichiers .db dans la racine d'osu!:
 
 - Windows: `%localappdata%\osu!`
-- Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
+- macOS: `/Applications/osu!.app/Contents/Resources/drive_c/osu!/`
 
 En ce moment, osu! utilise 4 fichiers .db: osu!.db, scores.db, collection.db et presence.db.
 

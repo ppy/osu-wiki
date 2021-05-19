@@ -329,6 +329,24 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[2ToneDisco](https://osu.ppy.sh/home/news/2021-04-17-new-featured-artist-2tonedisco)** (2021-04-17)
   - (![][osu!]) [2ToneDisco x Kabuki - Giga](https://osu.ppy.sh/beatmapsets/1392421) hosted by ![][flag_CL] [Hazu-](https://osu.ppy.sh/users/4668230)
 
+### May
+
+- **[m108](https://osu.ppy.sh/home/news/2021-05-01-new-featured-artist-m108)** (2021-05-01)
+  - (![][osu!]) [m108 - Sunflower](https://osu.ppy.sh/beatmapsets/1403962) hosted by ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530)
+  - (![][osu!catch]) [m108 - XIII Charlotte](https://osu.ppy.sh/beatmapsets/1400205) hosted by ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071)
+  - (![][osu!mania]) [m108 - XIII Charlotte](https://osu.ppy.sh/beatmapsets/1366994) hosted by ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[Reku Mochizuki](https://osu.ppy.sh/home/news/2021-05-08-new-featured-artist-reku-mochizuki)** (2021-05-08)
+  - (![][osu!]) [Reku Mochizuki - Yorixiro](https://osu.ppy.sh/beatmapsets/1438879) hosted by ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834)
+  - (![][osu!taiko]) [Reku Mochizuki - Yorixiro](https://osu.ppy.sh/beatmapsets/1397782) hosted by ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484)
+  - (![][osu!]) [Reku Mochizuki - Falseimager](https://osu.ppy.sh/beatmapsets/1398967) hosted by ![][flag_PL] [Peter](https://osu.ppy.sh/users/8623835)
+  - (![][osu!]) [Reku Mochizuki - VEZZELiX](https://osu.ppy.sh/beatmapsets/1406171) hosted by ![][flag_BR] [Idealism](https://osu.ppy.sh/users/3869519)
+- **[Kitazawa Kyouhei](https://osu.ppy.sh/home/news/2021-05-15-new-featured-artist-kitazawa-kyouhei)** (2021-05-15)
+  - (![][osu!]) [Kitazawa Kyouhei feat. Hatsune Miku](https://osu.ppy.sh/beatmapsets/1373644) hosted by ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804)
+- **[Aiobahn](https://osu.ppy.sh/home/news/2021-05-19-new-featured-artist-aiobahn)** (2021-05-19)
+  - (![][osu!]) [Aiobahn - Koko ni Iru (feat. rionos)](https://osu.ppy.sh/beatmapsets/1129013) hosted by ![][flag_MX] [Gero](https://osu.ppy.sh/users/1467715)
+  - (![][osu!taiko]) [Sugiyuku Hi to Kimi e (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1124134) hosted by ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][osu!mania]) [Sugiyuku Hi to Kimi e (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1126358) hosted by ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)
+
 ## History
 
 Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 

@@ -5,7 +5,7 @@
 通常可以在osu!安装目录找到它们:
 
 - Windows: `%localappdata%\osu!`
-- Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
+- macOS: `/Applications/osu!.app/Contents/Resources/drive_c/osu!/`
 
 目前仅有 osu!.db，scores.db，collection.db，和 presence.db.
 

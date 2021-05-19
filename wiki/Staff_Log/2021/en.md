@@ -163,6 +163,16 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-16: Added [X a v y](https://osu.ppy.sh/users/3738344) to **Project Loved Team**
 - 2021-04-16: Removed [nekodex](https://osu.ppy.sh/users/102) from **osu! Alumni**
 - 2021-04-19: Moved [juankristal](https://osu.ppy.sh/users/443656) from **GMT** to **osu! Alumni**
+- 2021-04-28: Added [Wixonater](https://osu.ppy.sh/users/10083084) to **Project Loved Team**
+- 2021-04-28: Added [Alter-](https://osu.ppy.sh/users/4980256) to **Project Loved Team**
+- 2021-04-28: Removed [waywern2012](https://osu.ppy.sh/users/5870453) from **Project Loved Team**
+- 2021-04-28: Removed [Kaifin](https://osu.ppy.sh/users/2596942) from **Project Loved Team**
+- 2021-04-28: Added [RandomeLoL](https://osu.ppy.sh/users/7080063) to **Project Loved Team**
+- 2021-04-28: Added [Nikolayio](https://osu.ppy.sh/users/11279465) to **Project Loved Team**
+- 2021-04-28: Added [Komirin](https://osu.ppy.sh/users/4725379) to **Project Loved Team**
+- 2021-04-28: Added [kadoen](https://osu.ppy.sh/users/12780575) to **Project Loved Team**
+- 2021-04-28: Added [Noffy](https://osu.ppy.sh/users/1541323) to **Project Loved Team**
+- 2021-04-28: Added [hypercyte](https://osu.ppy.sh/users/9155377) to **Project Loved Team**
 
 ### Beatmap Nominators
 
@@ -182,6 +192,8 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-08: Moved [Xinely](https://osu.ppy.sh/users/1521445) from **Probationary BN** to **BN**
 - 2021-04-12: Moved [Luscent](https://osu.ppy.sh/users/2688581) from **Probationary BN** to **BN**
 - 2021-04-18: Moved [Mir](https://osu.ppy.sh/users/8688812) from **Probationary BN** to **BN**
+- 2021-04-28: Moved [Daletto](https://osu.ppy.sh/users/7592136) from **Probationary BN** to **BN**
+- 2021-04-28: Moved [Paran](https://osu.ppy.sh/users/13340203) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -190,5 +202,40 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-10: Removed [Milan-](https://osu.ppy.sh/users/1052994) from **BN**
 - 2021-04-12: Removed [Xinely](https://osu.ppy.sh/users/1521445) from **BN**
 - 2021-04-15: Removed [-Aqua](https://osu.ppy.sh/users/7150015) from **BN**
+- 2021-04-24: Removed [Ayucchi](https://osu.ppy.sh/users/7823498) from **BN**
+- 2021-04-28: Removed [Myxo](https://osu.ppy.sh/users/2202645) from **BN**
 
-<!-- last update: 2021-04-19 16:00 UTC moved juankristal to alumni. the 2021-04-16 Project Loved Team updates were added independently from the rest of the log, so there may be unlogged updates before them. remove these 2 sentences when checked -->
+## May
+
+### Beatmap Nominators
+
+- 2021-05-13: Moved [Mao](https://osu.ppy.sh/users/2204515) from **NAT** to **osu! Alumni**
+
+#### Additions
+
+- 2021-05-04: Added [CallieCube](https://osu.ppy.sh/users/7535045) to **Probationary BN**
+- 2021-05-06: Added [CallMeLyra](https://osu.ppy.sh/users/15272997) to **Probationary BN**
+- 2021-05-13: Added [Logic Agent](https://osu.ppy.sh/users/6341262) to **Probationary BN**
+
+#### Moves
+
+- 2021-04-01: Moved [Horiiizon](https://osu.ppy.sh/users/8071438) from **Probationary BN** to **BN**
+- 2021-04-01: Moved [gevbiivi5](https://osu.ppy.sh/users/7140680) from **Probationary BN** to **BN**
+- 2021-04-01: Moved [VINXIS](https://osu.ppy.sh/users/4323406) from **Probationary BN** to **BN**
+- 2021-04-01: Moved [AJT](https://osu.ppy.sh/users/3181083) from **Probationary BN** to **BN**
+- 2021-04-11: Moved [Xahlt](https://osu.ppy.sh/users/13466351) from **Probationary BN** to **BN**
+- 2021-04-11: Moved [rosario wknd](https://osu.ppy.sh/users/6341518) from **Probationary BN** to **BN**
+- 2021-04-15: Moved [Kudosu](https://osu.ppy.sh/users/11038155) from **Probationary BN** to **BN**
+- 2021-04-15: Moved [Default Guy](https://osu.ppy.sh/users/7058457) from **BN** to **Probationary BN**
+- 2021-04-15: Moved [davidminh0111](https://osu.ppy.sh/users/9623142) from **BN** to **Probationary BN**
+- 2021-04-16: Moved [Komirin](https://osu.ppy.sh/users/4725379) from **Probationary BN** to **BN**
+- 2021-04-16: Moved [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2021-04-09: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **BN**
+- 2021-04-16: Removed [Crissa](https://osu.ppy.sh/users/5405836) from **Probationary BN**
+- 2021-04-16: Removed [skylaa](https://osu.ppy.sh/users/9505704) from **BN**
+- 2021-04-17: Removed [Maridius](https://osu.ppy.sh/users/4496961) from **BN**
+
+<!-- last update: 2021-05-17 16:00 UTC removed maridius from bn -->

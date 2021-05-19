@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 如何找 mod
 
 在你的谱面最终 [ranked](/wiki/Beatmap/Category#ranked) 之前，找 [mod](/wiki/Modding) 是必经之路。当然，如何找 mod，也有不少方式。
