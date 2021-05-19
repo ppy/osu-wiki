@@ -2,11 +2,13 @@
 stub: true
 tags:
   - Osu! Tatake! Ouendan
+outdated: true
+outdated_since: 9eb0beb9e4e5381f34f66673a296fc77e685014e
 ---
 
 # Ouendan
 
-Ouendan สามารถมีหลายความหมาย:
+**Ouendan** สามารถมีหลายความหมาย:
 
 - ในวัฒนธรรมญี่ปุ่นเป็นกลุ่มเชียร์คล้าย ๆ ในวัฒนธรรมตะวันตกคือการให้กำลังใจทีมกีฬาโดยการใช้กลอง แตร ป้าย และเสียงเชียร์ <!-- I try not to change a meaning and make it easier to read.-->
 - เกมญี่ปุ่นสองเกมคู่ใน DS ที่เป็นต้นแบบของ osu!

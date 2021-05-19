@@ -70,11 +70,11 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Mandarin, sedikit Prancis |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Mandarin |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Spanyol |
+| ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | Prancis, Jerman |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Jerman |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korea |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Mandarin |
-| ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbia |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Jerman |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Rusia |
@@ -95,7 +95,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korea |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Rusia |
-| ![][flag_GB] [skylaa](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Rusia |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Korea |
@@ -121,8 +120,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Jerman |
 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Sedikit Jepang |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Mandarin, Kanton |
-| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnam |
-| ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Spanyol |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanyol |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Tagalog |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Spanyol |
@@ -157,6 +154,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Mandarin |
+| ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesia |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesia |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Swedia |
@@ -164,6 +162,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korea |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korea, Jepang |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Spanyol, Portugis, Italia, Jepang |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Tagalog |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesia |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Indonesia |
@@ -185,8 +184,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045) |  |
-| ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Spanyol |
-| ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | Prancis, Jerman |
+| ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Rumania, Prancis |
 
@@ -196,6 +194,8 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_FI] [-Aku](https://osu.ppy.sh/users/12315824) | Finlandia |
 | ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
+| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnam |
+| ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Spanyol |
 
 #### osu!catch
 
@@ -246,7 +246,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
 [flag_PR]: /wiki/shared/flag/PR.gif "Puerto Riko"
-[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
