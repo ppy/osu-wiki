@@ -1,4 +1,4 @@
-# NM
+# NM (disambiguation)
 
 **NM** can have multiple meanings:
 
