@@ -28,7 +28,7 @@ Play through any of these beatmaps:
 - [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1151233) hosted by [Charlotte](https://osu.ppy.sh/users/3686901)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/166/Koko%20ni%20Iru%2FAiobahn%20-%20Koko%20ni%20Iru%20%28feat.%20rionos%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta)
@@ -41,7 +41,7 @@ Or check out one of these beatmaps:
 - [osu!mania mapset](https://osu.ppy.sh/beatmapsets/1126358) hosted by [Feerum](https://osu.ppy.sh/users/4815717)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/166/Sugiyuku%20Hi%20to%20Kimi%20e%2FAiobahn%20-%20Sugiyuku%20Hi%20to%20Kimi%20e%20%28feat.%20nayuta%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix)
@@ -49,13 +49,13 @@ Or check out one of these beatmaps:
 Play through the super popular [loved osu! difficulty](https://osu.ppy.sh/beatmapsets/519256) by [hehe](https://osu.ppy.sh/users/2123087)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/139/Burnt%20Rice%20(feat.%20Yung%20GEMMY)/Shawn%20Wasabi%20+%20YDG%20feat.%20YUNG%20GEMMY%20-%20Burnt%20Rice%20(Aiobahn%20&%20Jh-Anu%20Remix).mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/166/Burnt%20Rice%20%28feat.%20Yung%20GEMMY%29%2FShawn%20Wasabi%20%2B%20YDG%20feat.%20YUNG%20GEMMY%20-%20Burnt%20Rice%20%28Aiobahn%20%26%20Jh-Anu%20Remix%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Aiobahn - Famima
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/166/Songs/Aiobahn%20-%20Famima.mp3" type="audio/mpeg">
 </audio>
 
 ---
