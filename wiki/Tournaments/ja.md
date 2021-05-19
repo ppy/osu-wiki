@@ -234,7 +234,7 @@ osu! World Cupは、国別に行われる4対4のチーム対抗トーナメン�
 
 | 名前 | 開始 | 終了 | ![ゴールドクラウン][GCrown] | ![シルバークラウン][SCrown] | ![ブロンズクラウン][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Non-Professional Cup 2](NPC/2) | 2020-05-30 | 2020-07-12  | WeHatePP | Alek & Friends | OSBT Sqaud |
+| [Non-Professional Cup 2](NPC/2) | 2020-05-30 | 2020-07-12 | WeHatePP | Alek & Friends | OSBT Sqaud |
 
 ### ![](/wiki/shared/mode/osu.png) インドネシアn Draft Cup
 
