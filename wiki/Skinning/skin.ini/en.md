@@ -399,7 +399,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 - `ScoreOverlap:`
   - Question: By how many pixels should the score numbers overlap?
   - Value: *integer*
-  - Default: `-2`
+  - Default: `0`
   - Notes:
     - Negative integers will add a gap.
 - `ComboPrefix:`
@@ -409,7 +409,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 - `ComboOverlap:`
   - Question: By how many pixels should the combo numbers overlap?
   - Value: *integer*
-  - Default: `-2`
+  - Default: `0`
   - Notes:
     - Negative integers will add a gap.
 

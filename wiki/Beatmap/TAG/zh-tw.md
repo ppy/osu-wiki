@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - multiplayer
   - co-op
@@ -13,4 +12,4 @@ tags:
 
 TAG [難度](/wiki/Beatmap/Difficulty) 通常會在名稱上註明，而後面的數字則表示此圖譜適合幾位玩家。例如 "TAG2" 或 "TAG4" 表示此圖譜適合兩位或四位玩家。
 
-因其本身設計對單人玩家來說近乎不可能達成，所以 TAG 難度會被列為 unranked 或 Loved。
+因其本身設計對單人玩家來說近乎不可能達成，所以 TAG 難度會被列為 unranked 或 [Loved](/wiki/Beatmap/Category#loved)。

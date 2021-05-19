@@ -18,9 +18,9 @@ The Mapper's Pick is awarded to the map which received the most votes from ranke
 
 So without further ado, here are the winners of Aspire V:
 
-# Community Pick Grand Award
+## Community Pick Grand Award
 
-## KNOWER - Time Traveler (HomelyBobolink) by Mr HeliX
+### KNOWER - Time Traveler (HomelyBobolink) by Mr HeliX
 
 [Check out the map here!](https://osu.ppy.sh/beatmapsets/1236988#osu/2573493)
 
@@ -28,9 +28,9 @@ Taking the lead with **1687** votes is an entry utilising a beautiful fusion of 
 
 Playing this map will see you playing patterns forwards and backwards in time, and even through different versions of the game. It's a significant feat to create an Aspire map that is better experienced as a player rather than as a spectator, but this winning definitely pulls that off extremely well. Congratulations again to Mr HeliX!
 
-# Mapper's Pick Grand Award
+## Mapper's Pick Grand Award
 
-## Frums - XNOR XNOR XNOR (PitifulStoat) by fanzhen0019
+### Frums - XNOR XNOR XNOR (PitifulStoat) by fanzhen0019
 
 [Check out the map here!](https://osu.ppy.sh/beatmapsets/1236927#osu/2571051)
 
@@ -38,9 +38,9 @@ Voted by **122** mappers and by far and away one of the most talked about entrie
 
 Not only is this map a visual spectacle and a challenge for the budding player, there are also several secrets scattered throughout the map. Can you find them?
 
-# Honourable Mention
+## Honourable Mention
 
-## Teminite & MDK - Space Invaders (LovableChickadee) by Meow Mix
+### Teminite & MDK - Space Invaders (LovableChickadee) by Meow Mix
 
 [Check out the map here!](https://osu.ppy.sh/beatmapsets/1237212#fruits/2571609)
 

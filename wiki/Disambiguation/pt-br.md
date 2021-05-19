@@ -19,6 +19,8 @@ Artigos que discutem tópicos com títulos similares, devem usar a [*hatnote* "P
 - [NC](NC)
 - [NM](NM)
 - [Offset](Offset)
+- [Ouendan](Ouendan)
 - [osu!](osu!)
 - [Rank](Rank)
+- [Star](Star)
 - [Versão](Version)
