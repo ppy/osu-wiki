@@ -53,7 +53,7 @@ _F,0,1000,2000,0.75
 
 程序解析后：
 
-`_(event),(easing),(starttime),(starttime),(params...)`
+`_(event),(easing),(starttime),(endtime),(params...)`
 
 再来个例子，假如你要在某个对象上执行大量的命令，使其从时间`1000`开始，让它在屏幕上移动，但是不管它在哪你都希望对象是`50%`透明的。那么你可以这样做：
 
