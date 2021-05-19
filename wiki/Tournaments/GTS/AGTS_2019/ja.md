@@ -59,8 +59,6 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーに
 - [Challonge順位表](https://challonge.com/AGTS2019)
 - **[統計シート](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
 
----
-
 ## 参加者
 
 |  | 国 | メンバー |
