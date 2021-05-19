@@ -16,5 +16,7 @@ A regular article, if it has a similar title, must use the ["For other uses" hat
 - [NM](NM)
 - [Offset](Offset)
 - [osu!](osu!)
+- [Ouendan](Ouendan)
 - [Rank](Rank)
+- [Star](Star)
 - [Version](Version)

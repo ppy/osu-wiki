@@ -45,7 +45,7 @@ Cambia el modo de juego entre osu!, osu!taiko, osu!catch y osu!mania. Solo puede
 
 ## Pagina del beatmap / Selección de dificultad
 
-![](img/difficulty-menu.jpg "Menu de dificultad")
+![](img/difficulty-menu.png "Menu de dificultad")
 
 Al hacer clic en el artista/título del beatmap, volveras a la página de información del Beatmap. Puedes seleccionar una dificultad para modificar usando el menú desplegable. El número que aparece ademas del nombre de dificultad es el número de discusiones pendientes que deben resolverse. **¡Asegúrate de estar en la dificultad correcta antes de enviar modificaciones al beatmap!**
 
