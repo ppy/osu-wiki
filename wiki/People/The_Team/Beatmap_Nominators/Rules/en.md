@@ -20,6 +20,7 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 
 - **Activity requirements for your respective gamemode(s) must be met.** Average activity over the last 3 months will be checked on the first day of each month and during regular BN evaluations, taking into account any leave of absence communicated. Any BN who falls below their mode's required average will get an activity warning.
 - **When warned for activity, minimum activity requirements for your respective gamemode(s) must be met over the course of one month.** Failing to meet the required minimum when being warned for it prior may result in removal from the Beatmap Nominators.
+- **Beatmap Nominators can not exceed 20 unique nominations per month, on a calendar month basis.** Users exceeding this amount will first be warned and then removed if they do not cap their activity accordingly.
 
 ### Requirements
 
