@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Getting Your Map Modded
 
 Agar mapmu bisa dimod agar bisa menjadi map dengan status [ranked](/wiki/Beatmap/Category#ranked), map tersebut harus mendapat [mod](/wiki/Modding). Ada beberapa cara untuk mencapai hal ini.

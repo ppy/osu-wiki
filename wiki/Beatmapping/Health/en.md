@@ -84,7 +84,7 @@ No effect:
 
 In [osu!mania](/wiki/Game_mode/osu!mania), only hit objects will affect the health bar, as [health drain](/wiki/Beatmapping/Health_drain) is disabled.
 
-Score bursts will appear after hitting notes, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover more health than a badly timed hit (50). Players also receive larger boosts if they achieve a katu or a geki at the end of a combo. A miss will drain health instead. Health bar regeneration occurs slowly while holding hold notes. For an overview of health recovery and health loss see below:
+Score bursts will appear after hitting notes, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover more health than a badly timed hit (50). A miss will drain health instead. Health bar regeneration occurs slowly while holding hold notes. For an overview of health recovery and health loss see below:
 
 Health recovery:
 

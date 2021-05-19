@@ -51,7 +51,6 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | Değerlendirme, yapısal, moderasyon, haberleşme |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Değerlendirme |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Almanca | Değerlendirme |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Yapısal, haberleşme |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Değerlendirme, yapısal, haberleşme |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Yapısal |
