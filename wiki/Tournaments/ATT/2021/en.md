@@ -75,6 +75,85 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (68 MB)](https://mega.nz/file/O2BzBKiI#WoW-x4LM_mvIPmSsNTXy3DvF8arwJE2tUwcC2dIyiks)**
+
+- NoMod
+  - [Kobaryo - HUG AND KILL (vzk) \[nerf\]](https://osu.ppy.sh/beatmapsets/773541#taiko/1626066)
+  - [USAO - Chariot (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1252022#taiko/2602256)
+  - [Umeboshi Chazuke - Lollipop\*driveR (KitajimaYN) \[Yuni\]](https://osu.ppy.sh/beatmapsets/567620#taiko/1203103)
+  - [Camellia - U Got That (Camellia's Neurofunk Bootleg) (rubies87) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1037894#taiko/2169753)
+  - [Akita Neru - Gotya Gotya Uruse! (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/764965#taiko/1608469)
+- Hidden
+  - [7\_7 - Katyukusa (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1430308#taiko/2944441)
+  - [t+pazolite - Troll The Cowardly (Sick Candy Terror Of Feryquitous) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/808095#taiko/1695840)
+- HardRock
+  - [chelmico - Easy Breezy feat. Zenpaku (dj-Jo Remix) (D3kuu) \[Breeze\]](https://osu.ppy.sh/beatmapsets/1122895#taiko/2346527)
+  - [Lzie - Say it.(Nightcore amen Mix) (maguro869) \[Say it.\]](https://osu.ppy.sh/beatmapsets/971578#taiko/2034239)
+- DoubleTime
+  - [ZUN - Magus Night (x847606653) \[KG's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44435#taiko/185475)
+  - [Akiyama Uni - Sawa no Kappa no Gijutsuryoku (CallMeLyra) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1323908#taiko/2742327)
+  - [Kry.exe - Hibike! (GOD82028) \[Oni\]](https://osu.ppy.sh/beatmapsets/1202264#taiko/2503905)
+- FreeMod
+  - [Tomoyuki Uchida - forever under construction (Jaltzu) \[roufou's ura oni\]](https://osu.ppy.sh/beatmapsets/1188147#taiko/2475988)
+  - [S.S.H. - Daedalus (DarkVortex) \[Relentless Oni\]](https://osu.ppy.sh/beatmapsets/358799#taiko/793432)
+  - [tarolabo - Miko (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1100379#taiko/2298926)
+- Tiebreaker
+  - **[LeaF - Wizdomiot (extended ver.) (yassu-) \[Jealous Oni\]](https://osu.ppy.sh/beatmapsets/988522#taiko/2067808)**
+
+### Semifinals
+
+**[Download the mappack here! (98 MB)](https://mega.nz/file/njYSyTKS#ypEKEeqgJSDpnjgmLAiyivefJl1iY4otlZCW4sCF-VI)**
+
+- NoMod
+  - [katagiri - #2wise4u (maguro869) \[#magur0\]](https://osu.ppy.sh/beatmapsets/995928#taiko/2083254)
+  - [DJHASH1M0T0KANNA - BangB00gie (7\_7) \[YuniNana Boogie\]](https://osu.ppy.sh/beatmapsets/1079552#taiko/2258650)
+  - [Hatsune Miku - Talent Shredder (toara\_fict) \[Oni\]](https://osu.ppy.sh/beatmapsets/537044#taiko/1138147)
+  - [KOTONOHOUSE - Labyrinth (Nifty) \[Black Sail\]](https://osu.ppy.sh/beatmapsets/1386801#taiko/2864592)
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690344#taiko/1461118)
+- Hidden
+  - [BilliumMoto - four veiled stars (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/972301#taiko/2084704)
+  - [lapix feat. Luschel - Cranberry City (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1133066#taiko/2366551)
+- HardRock
+  - [braven - Nyctophobia (HEKUSODASU) \[KUSOni\]](https://osu.ppy.sh/beatmapsets/1291170#taiko/2680127)
+  - [Mrs. GREEN APPLE - Samama Festival! (katagiri bootleg) (KTYN) \[KTYN's Festival! (BPM225)\]](https://osu.ppy.sh/beatmapsets/1220204#taiko/2538385)
+- DoubleTime
+  - [MAX COVERI - RUNNING IN THE 90'S (Default Guy) \[Retro Oni\]](https://osu.ppy.sh/beatmapsets/1369915#taiko/2832591)
+  - [Ono Hideyuki - sola (Mapper 31) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/131347#taiko/330848)
+  - [Sakuzyo - Eater Merry (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1097688#taiko/2293612)
+- FreeMod
+  - [sky_delta - Kreuz (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/844081#taiko/1765808)
+  - [Hyphen - ^/7(L|?\[_(L+#<>+&|^(o) (\[Zeth\]) \[Faceless\]](https://osu.ppy.sh/beatmapsets/732250#taiko/1545035)
+  - [Sakuzyo - Lie (komasy) \[False\]](https://osu.ppy.sh/beatmapsets/920188#taiko/1921771)
+- Tiebreaker
+  - **[t+pazolite vs RoughSketch - GRK Spice (tpz Overheat Remix) (Backfire) \[Taikocalypse DX\]](https://osu.ppy.sh/beatmapsets/799203#taiko/1678044)**
+
+### Quarterfinals
+
+**[Download the mappack here! (78 MB)](https://mega.nz/file/Dnxw0RTI#2UC44Xg1Nbfd0-IucNmAOKECAd3n9YyU33ohWdTWFLI)**
+
+- NoMod
+  - [sky\_delta Feat.Kanata.N - Crystal Clear and Nothing (yassu-) \[Inner Oni (long ver)\]](https://osu.ppy.sh/beatmapsets/858136#taiko/1800886)
+  - [t+pazolite vs. P\*Light - IZANA (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1098381#taiko/2294846)
+  - [AZKi - Fake.Fake.Fake (WTHBRO) \[Heaxys' Oni\]](https://osu.ppy.sh/beatmapsets/1283761#taiko/2723322)
+  - [PSYQUI - Architect (Nifty) \[Brutalism\]](https://osu.ppy.sh/beatmapsets/874516#taiko/1827736)
+- Hidden
+  - [Erio wo kamatte-chan - Os-Uchujin (RM J-core Remix) (7\_7) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/736797#taiko/1554891)
+  - [Sewerslvt - inlove (Horiiizon) \[incompatible\]](https://osu.ppy.sh/beatmapsets/1311932#taiko/2719092)
+- HardRock
+  - [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Reol) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/167783#taiko/824509)
+  - [Zekk - Hatsukoi Memories (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690025#taiko/1460477)
+- DoubleTime
+  - [Vitamin C - Vacation (D3kuu) \[Happy oni\]](https://osu.ppy.sh/beatmapsets/1025990#taiko/2145737)
+  - [Tezuka x Qayo - NiNi (\_DUSK\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/1048248#taiko/2192546)
+- FreeMod
+  - [Sakura Miko,Shirakami Fubuki,Natsuiro Matsuri,Housyou Marine - Gimme ginmi virtua ru saikou star!!!! (Maimaing) \[Groovin Groovin Party!\]](https://osu.ppy.sh/beatmapsets/1423035#taiko/2930560)
+  - [Notorious - GIFT (7\_7) \[oni\]](https://osu.ppy.sh/beatmapsets/1300448#taiko/2697591)
+  - [PolyphonicBranch - Nijigen Dream Fever (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1410471#taiko/2907913)
+- Tiebreaker
+  - **[rejection - Signal feat. Such (Cychloryn) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1104277#taiko/2307668)**
+
 ### Round of 16
 
 **[Download the mappack here! (56 MB)](https://drive.google.com/file/d/1DksCzwr0ei44qIIdS-l7-grU5liRRkxb/view?usp=sharing)**
@@ -124,6 +203,66 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
   - **[Venetian Snares - Epidermis (Horiiizon) \[HiroK's Oni\]](https://osu.ppy.sh/beatmapsets/1262133#taiko/2663673)**
 
 ## Match results
+
+### Semifinals
+
+Saturday, 15 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Volta** ![][flag_ID] | **6** | 0 | ![][flag_PH] CoEqual | [#1](https://osu.ppy.sh/community/matches/83378695) |
+| misaki\_tk ![][flag_ID] | 4 | **6** | ![][flag_AU] **r1chyy** | [#1](https://osu.ppy.sh/community/matches/83383801) |
+| Aiery ![][flag_PH] | 3 | **6** | ![][flag_ID] **Naverlyn** | [#1](https://osu.ppy.sh/community/matches/83386494) |
+| **apaajaboleh10** ![][flag_ID] | **6** | 5 | ![][flag_SG] tzechi | [#1](https://osu.ppy.sh/community/matches/83389059) |
+| Ponamis ![][flag_TH] | 2 | **6** | ![][flag_PH] **jmeh07** | [#1](https://osu.ppy.sh/community/matches/83391904) |
+| Jerry ![][flag_MY] | 0 | **6** | ![][flag_ID] **Katdon\_donKat** | [#1](https://osu.ppy.sh/community/matches/83405952) |
+
+Sunday, 16 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Volta** ![][flag_ID] | **6** | 5 | ![][flag_ID] Naverlyn | [#1](https://osu.ppy.sh/community/matches/83464591) |
+| **jmeh07** ![][flag_PH] | **6** | 2 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/83475288) |
+
+### Quarterfinals
+
+Saturday, 8 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| nikolpai\_15 ![][flag_MY] | 0 | **6** | ![][flag_PH] **CoEqual** | [#1](https://osu.ppy.sh/community/matches/82831488) |
+| **apaajaboleh10** ![][flag_ID] | **6** | 4 | ![][flag_PH] Aiery | [#1](https://osu.ppy.sh/community/matches/82834608) |
+
+Sunday, 9 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Katdon\_donKat** ![][flag_ID] | **6** | 0 | ![][flag_TH] Ponamis | [#1](https://osu.ppy.sh/community/matches/82853146) |
+| Prehistoria ![][flag_SG] | 1 | **6** | ![][flag_PH] **jmeh07** | [#1](https://osu.ppy.sh/community/matches/82852417) |
+| Volta ![][flag_ID] | 2 | **6** | ![][flag_SG] **tzechi** | [#1](https://osu.ppy.sh/community/matches/82915394) |
+| **Naverlyn** ![][flag_ID] | **6** | 0 | ![][flag_PH] ezeenS | [#1](https://osu.ppy.sh/community/matches/82917432) |
+| Element118 ![][flag_SG] | 1 | **6** | ![][flag_AU] **r1chyy** | [#1](https://osu.ppy.sh/community/matches/82919450) |
+| **Jerry** ![][flag_MY] | **6** | 2 | ![][flag_ID] misaki\_tk | [#1](https://osu.ppy.sh/community/matches/82921604) |
+
+### Round of 16
+
+Saturday, 1 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Volta** ![][flag_ID] | **5** | 1 | ![][flag_SG] Element118 | [#1](https://osu.ppy.sh/community/matches/82234962) |
+| **Jerry** ![][flag_MY] | **5** | 0 | ![][flag_MY] nikolpai\_15 | [#1](https://osu.ppy.sh/community/matches/82255830) |
+| **Ponamis** ![][flag_TH] | **5** | 0 | ![][flag_PH] ezeenS | [#1](https://osu.ppy.sh/community/matches/82257768) |
+
+Sunday, 2 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Katdon\_donKat** ![][flag_ID] | **5** | 0 | ![][flag_ID] Naverlyn | [#1](https://osu.ppy.sh/community/matches/82277963) |
+| **misaki\_tk** ![][flag_ID] | **5** | 0 | ![][flag_PH] CoEqual | [#1](https://osu.ppy.sh/community/matches/82343068) |
+| jmeh07 ![][flag_PH] | 3 | **5** | ![][flag_PH] **Aiery** | [#1](https://osu.ppy.sh/community/matches/82346921) |
+| **tzechi** ![][flag_SG] | **5** | 3 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/82351619) |
+| **apaajaboleh10** ![][flag_ID] | **5** | 1 | ![][flag_SG] Prehistoria | [#1](https://osu.ppy.sh/community/matches/82353782) |
 
 ### Group Stage
 
