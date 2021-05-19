@@ -5,13 +5,15 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Welcome to the osu! wiki, a project containing a wide range of osu! related information.
+Welcome to the osu! wiki, the open-source knowledge base of osu!, a free-to-win rhythm game.
 </div>
 
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 # Getting started
+
+Important articles and guides that help dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Technical help](https://osu.ppy.sh/forum/5) forum, which is always open.
 
 [Rules](/wiki/Rules) • [Welcome](/wiki/Welcome) • [Installation](/wiki/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_Centre)
 
@@ -22,6 +24,8 @@ Welcome to the osu! wiki, a project containing a wide range of osu! related info
 
 # Game client
 
+Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know it better, from miscellaneous settings and customization possibilities to technical details and file formats it uses and understands.
+
 [Interface](/wiki/Interface) • [Options](/wiki/Options) • [Visual settings](/wiki/Visual_Settings) • [Shortcut key reference](/wiki/Shortcut_key_reference) • [Configuration file](/wiki/osu!_Program_Files/User_Configuration_File) • [Program files](/wiki/osu!_Program_Files)
 
 [File formats](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
@@ -30,6 +34,8 @@ Welcome to the osu! wiki, a project containing a wide range of osu! related info
 <div class="wiki-main-page-panel">
 
 # Gameplay
+
+Anything about clicking circles, striking drums, catching fruits, or touching the synthesizer: key elements, concepts, mechanics, and competitive play.
 
 [Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
@@ -40,16 +46,20 @@ Welcome to the osu! wiki, a project containing a wide range of osu! related info
 
 # [Beatmap editor](/wiki/Beatmap_Editor)
 
+All osu! beatmaps are created by its vibrant and dynamic community, blooming with ideas. Always wanted to share your favourite music with others, but never knew how? Familiarize yourself with the built-in editor and the opportunities it has to offer.
+
 Sections: [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song setup](/wiki/Beatmap_Editor/Song_Setup)
 
 Components: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timelines](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding) • [Skinning](/wiki/Skinning)
+Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding) • [Skinning](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Beatmap submission and ranking
+
+Ranking is the process of obtaining a scoreboard for a beatmap, which makes it more popular and well-recognized. Discover what it takes to walk this path, and how to increase your chance to succeed: beatmap reviews, quality control, and procedures that help streamline ranking.
 
 [Submission](/wiki/Submission) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
@@ -59,6 +69,8 @@ Components: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Be
 <div class="wiki-main-page-panel">
 
 # Rules and legalese
+
+Read about procedures and regulations that keep osu! and its community safe, from music licensing and media guidelines to chat and forum rules.
 
 [Legal pages](/wiki/Legal): [Copyright (DMCA)](/wiki/Legal/Copyright) • [Music licensing](/wiki/Legal/Music_Licensing) • [Privacy](/wiki/Legal/Privacy) • [Terms of Service](/wiki/Legal/Terms)
 
@@ -71,7 +83,11 @@ Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelin
 
 # Help
 
-[Technical help](https://osu.ppy.sh/forum/5) • [Help Centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_Troubleshooting) • [Account support team](wiki/People/The_Team/Account_support_team)
+Answers to frequent questions and solutions to common issues live here. Learn how to deal with network issues, or combat bad behaviour online.
+
+[Help Centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_Troubleshooting) • [Account support team](wiki/People/The_Team/Account_support_team) • [Technical help](https://osu.ppy.sh/forum/5)
+
+Profile: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_Centre/Account_Restrictions)
 
 Do your part: [How and what to help with](/wiki/How_you_can_help!) • [Report bad behaviour](/wiki/Reporting_Bad_Behaviour) • [Report abuse](/wiki/Reporting_Bad_Behaviour/Abuse) • [Report cheating](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play)
 
@@ -79,6 +95,8 @@ Do your part: [How and what to help with](/wiki/How_you_can_help!) • [Report b
 <div class="wiki-main-page-panel">
 
 # Community and projects
+
+Social interaction is one of main things that fuel osu! players around the world. Explore the activities and contests, get in touch with others, or organize the next big event!
 
 [Tournaments](/wiki/Tournaments) • [Featured Artists](/wiki/Featured_Artists) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](wiki/Community_Mentorship_Program)
 
@@ -88,6 +106,8 @@ Do your part: [How and what to help with](/wiki/How_you_can_help!) • [Report b
 <div class="wiki-main-page-panel">
 
 # People
+
+osu! wouldn't have been possible without many users helping with development, maintenance and community management: their efforts, time, and dedication make the game live and prosper.
 
 [The Team](/wiki/People/The_Team): [Developers](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
@@ -100,12 +120,16 @@ Organisations: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # For developers
 
+Interact with osu! via other applications and media, or help it grow further.
+
 [API](/wiki/osu!api) • [Bot account](/wiki/Bot_account) • [Brand identity guidelines](/wiki/Brand_identity_guidelines) • [osu!dev Discord server](/wiki/osu!dev_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Meta
+# Wiki and meta pages
+
+Just as almost everything out here, the osu! wiki is written and maintained by volunteers like you. Suggest an improvement, report an issue, or even write your own article at the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki "osu! wiki at GitHub").
 
 [History of osu!](/wiki/History_of_osu!) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/Mapping_and_Modding_Timeline) • [April Fools](wiki/History_of_osu!/April_Fools)
 
