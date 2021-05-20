@@ -72,18 +72,18 @@ Ranking is the process of obtaining a scoreboard for a beatmap, which makes it m
 
 Read about procedures and regulations that keep osu! and its community safe, from music licensing and media guidelines to chat and forum rules.
 
-[Legal pages](/wiki/Legal): [Copyright (DMCA)](/wiki/Legal/Copyright) • [Music licensing](/wiki/Legal/Music_Licensing) • [Privacy](/wiki/Legal/Privacy) • [Terms of Service](/wiki/Legal/Terms)
+[Rules](/wiki/Rules) • [Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) • [Code of Conduct for modding and mapping](wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelines) • [Explicit content](/wiki/Rules/Explicit_Content) • [Song content rules](/wiki/Rules/Song_Content_Rules) • [Visual content considerations](/wiki/Rules/Visual_Content_Considerations)
 
-[Rules](/wiki/Rules) • [Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) • [Code of Conduct for modding and mapping](wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Legal pages](/wiki/Legal): [Copyright (DMCA)](/wiki/Legal/Copyright) • [Music licensing](/wiki/Legal/Music_Licensing) • [Privacy](/wiki/Legal/Privacy) • [Terms of Service](/wiki/Legal/Terms)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Help
 
-Answers to frequent questions and solutions to common issues live here. Learn how to deal with network issues, or combat bad behaviour online.
+Answers to frequent questions and solutions to common issues live here. Learn how to deal with network issues, or combat bad behaviour in the community.
 
 [Help centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_Troubleshooting) • [Account support team](wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
