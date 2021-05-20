@@ -88,27 +88,61 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Zak](https://osu.ppy.sh/users/1375955), [Kisetsunotori](https://osu.ppy.sh/users/3692648), [Colin](https://osu.ppy.sh/users/5502521), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Lexii](https://osu.ppy.sh/users/7226149) |
 | ![][flag_VN] | **Vietnam** | **[Cac](https://osu.ppy.sh/users/4744615)**, [Hana Yukiko](https://osu.ppy.sh/users/4964095), [mothernature](https://osu.ppy.sh/users/6403418), [Stardust Prism](https://osu.ppy.sh/users/8525921), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [Huytimeclock](https://osu.ppy.sh/users/10920086) |
 
-## Match schedule: Quarterfinals
+## Match schedule: Semifinals
 
-### Saturday, 15 May 2021
+### Saturday, 22 May 2021
 
-| Team A | Team B | Match time | Local time A | Local time B |
-| --: | :-- | :-: | :-: | :-: |
-| Hong Kong ![][flag_HK] | ![][flag_CN] China | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
-| Finland ![][flag_FI] | ![][flag_ID] Indonesia | **14:30 UTC** | 17:30 UTC+03 | 21:30 UTC+07 |
-| Poland ![][flag_PL] | ![][flag_IT] Italy | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
+| Team A | Team B | Match time | Local time A | Local time B |  |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| Hong Kong ![][flag_HK] | ![][flag_FR] France | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 | ¹ |
+| China ![][flag_CN] | ![][flag_ID] Indonesia | **14:00 UTC** | 22:00 UTC+08 | 21:00 UTC+07 | ² |
+| Russian Federation ![][flag_RU] | ![][flag_IT] Italy | **16:00 UTC** | 19:00 UTC+03 | 18:00 UTC+02 | ² |
+| Chile ![][flag_CL] | ![][flag_CA] Canada | **18:00 UTC** | 14:00 UTC-04 | 13:00 UTC-05 | ² |
 
-### Sunday, 16 May 2021
+### Sunday, 23 May 2021
 
-| Team A | Team B | Match time | Local time A | Local time B |
-| --: | :-- | :-: | :-: | :-: |
-| South Korea ![][flag_KR] | ![][flag_CL] Chile | **02:00 UTC** | 11:00 UTC+09 | 22:00 (Sat.) UTC-04 |
-| Canada ![][flag_CA] | ![][flag_TW] Taiwan | **03:30 UTC** | 22:30 (Sat.) UTC-05 | 11:30 UTC+08 |
-| Australia ![][flag_AU] | ![][flag_DE] Germany | **12:30 UTC** | 22:30 UTC+010 | 14:30 UTC+02 |
-| Philippines ![][flag_PH] | ![][flag_RU] Russian Federation | **14:00 UTC** | 22:00 UTC+08 | 17:00 UTC+03 |
-| United States ![][flag_US] | ![][flag_FR] France | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 |
+| Team A | Team B | Match time | Local time A | Local time B |  |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| South Korea ![][flag_KR] | ![][flag_PH] Philippines | **10:30 UTC** | 19:30 UTC+09 | 18:30 UTC+08 | ¹ |
+| United States ![][flag_US] | ![][flag_AU] Australia | **12:30 UTC** | 08:30 UTC-04 | 22:30 UTC+10 | ² |
+| Australia ![][flag_AU] | ![][flag_CN] China | **14:30 UTC** | 00:30 (Mon.) UTC+10 | 22:30 UTC+08 | ³ |
+| Australia ![][flag_AU] | ![][flag_ID] Indonesia | **14:30 UTC** | 00:30 (Mon.) UTC+10 | 21:30 UTC+07 | ³ |
+| United States ![][flag_US] | ![][flag_CN] China | **14:30 UTC** | 10:30 UTC-04 | 22:30 UTC+08 | ³ |
+| United States ![][flag_US] | ![][flag_ID] Indonesia | **14:30 UTC** | 10:30 UTC-04 | 21:30 UTC+07 | ³ |
+| Russian Federation ![][flag_RU] | ![][flag_CL] Chile | **16:30 UTC** | 19:30 UTC+03 | 12:30 UTC-04 | ³ |
+| Russian Federation ![][flag_RU] | ![][flag_CA] Canada | **16:30 UTC** | 19:30 UTC+03 | 11:30 UTC-05 | ³ |
+| Italy ![][flag_IT] | ![][flag_CL] Chile | **16:30 UTC** | 18:30 UTC+02 | 12:30 UTC-04 | ³ |
+| Italy ![][flag_IT] | ![][flag_CA] Canada | **16:30 UTC** | 18:30 UTC+02 | 11:30 UTC-05 | ³ |
+
+¹ Winner bracket encounter\
+² Loser bracket encounter\
+³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
+
+### Semifinals
+
+- NoMod
+  - [Caravan Palace - Dragons (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1464027#fruits/3007191)
+  - [USAO - Cthugha (Greaper) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/1464062#fruits/3007246)
+  - [cosMo@BousouP - Oceanus (Du5t) \[Deep Marine\]](https://osu.ppy.sh/beatmapsets/1463973#fruits/3007106)
+  - [jioyi - Platinum (-MomoX) \[Special\]](https://osu.ppy.sh/beatmapsets/1463966#fruits/3007094)
+  - [Kaf - Montage (Sparhten) \[Diffused Identity\]](https://osu.ppy.sh/beatmapsets/1344469#fruits/2784409)
+  - [Nekomata Master+ - chaos eater -IIDX edition- (fanzhen0019) \[LeggendariA\]](https://osu.ppy.sh/beatmapsets/1169533#fruits/2439848)
+- Hidden
+  - [Rohi - Slan Leat (Rocma) \[Farewell\]](https://osu.ppy.sh/beatmapsets/1463978#fruits/3007113)
+  - [KAKU P-MODEL - Sore ike! Halycon (Deif) \[Go for it!\]](https://osu.ppy.sh/beatmapsets/1463986#fruits/3007125)
+  - [sekai - Zange Mairi (Yugu) \[Voice's Insane\]](https://osu.ppy.sh/beatmapsets/1176431#fruits/2853477)
+- HardRock
+  - [MisoilePunch - AstroNotes. (Jemzuu) \[OverDose. (CWC HR Ver.)\]](https://osu.ppy.sh/beatmapsets/1464350#fruits/3007647)
+  - [supercell - Rock 'n' Roll Nandesu no (Ascendance) \[Today is a beautiful day!\]](https://osu.ppy.sh/beatmapsets/1463994#fruits/3007144)
+  - [siqlo - Dirigeant Decision (PandaHero) \[Extra\]](https://osu.ppy.sh/beatmapsets/1240362#fruits/2578746)
+- DoubleTime
+  - [USAO - Showdown (Cut Ver.) (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1464000#fruits/3007151)
+  - [zts - miragecoordinator (Deif) \[Memoirs\]](https://osu.ppy.sh/beatmapsets/1464008#fruits/3007160)
+  - [nameless x toa - Patchwork Staccato (Taeyang) \[Another\]](https://osu.ppy.sh/beatmapsets/416702#fruits/1962068)
+- Tiebreaker
+  - **[BlackY - AlphaOmega (Evolutionary Extended ver.) (Jemzuu) \[Jemzuu vs. Du5t's GRAVITY\]](https://osu.ppy.sh/beatmapsets/1464352#fruits/3007653)**
 
 ### Quarterfinals
 
@@ -179,6 +213,26 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
   - **[Muzzy - Spectrum (Greaper) \[Refraction\]](https://osu.ppy.sh/beatmapsets/1442175#fruits/2966667)**
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 15 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/83397495) |
+| Finland ![][flag_FI] | 0 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/83403222) |
+| Poland ![][flag_PL] | 2 | **6** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/83409746) |
+
+Sunday, 16 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **6** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/83452050) |
+| **Canada** ![][flag_CA] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/83456925) |
+| **Australia** ![][flag_AU] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/83479138) |
+| **Philippines** ![][flag_PH] | **6** | 3 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/83483976) |
+| United States ![][flag_US] | 5 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/83491471) |
 
 ### Round of 16
 
