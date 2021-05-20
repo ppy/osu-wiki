@@ -12,9 +12,9 @@ Spring is the season of prosperity and new life, something the artists in the os
 
 And boy did they deliver.
 
-Over **120** talented creators stepped forth and threw their work into the ring, creating the terrible but wonderful agony for the rest of us that is choosing only **15** of them to vote. But now, those painful times have passed, and we're ready to celebrate the talented finalists as chosen by all of you.
+Over **120** talented creators stepped forth and threw their work into the ring, creating the terrible but wonderful agony for the rest of us that is choosing only **15** of them to vote. But now, those painful times have passed, and we're ready to celebrate the finalists as chosen by all of you.
 
-Without further ado, here are the finalists:
+Without further ado, here they are:
 
 *Click any of the banners to be taken to a high-resolution version of the image!*
 
