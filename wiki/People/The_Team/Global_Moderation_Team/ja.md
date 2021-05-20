@@ -167,7 +167,7 @@ tags:
 [flag_HM]: /wiki/shared/flag/HM.gif "ハード島とマクドナルド諸島"
 [flag_ID]: /wiki/shared/flag/ID.gif "インドネシア"
 [flag_IT]: /wiki/shared/flag/IT.gif "イタリア"
-[flag_JP]: /wiki/shared/flag/JP.gif "２本"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_KR]: /wiki/shared/flag/KR.gif "韓国"
 [flag_MX]: /wiki/shared/flag/MX.gif "メキシコ"
 [flag_MY]: /wiki/shared/flag/MY.gif "マレーシア"
