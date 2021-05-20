@@ -16,7 +16,7 @@ Song Setup est la quatrième section de [Beatmap Editor](/wiki/Beatmap_Editor). 
 
 ![A completed Song Setup form](img/SS_General.jpg "Un exemple de métadonnées complètes (onglet Général) dans la configuration de la chanson")
 
-Ces champs doivent être remplis avant de créer une deuxième difficulté. Ceci est principalement pour s'assurer que les métadonnées seront cohérentes à travers toutes les difficultés du beatmap.
+Ces champs doivent être remplis avant de créer une deuxième difficulté. Ceci est principalement pour s'assurer que les métadonnées seront cohérentes à travers toutes les difficultés de la beatmap.
 
 #### Artiste
 

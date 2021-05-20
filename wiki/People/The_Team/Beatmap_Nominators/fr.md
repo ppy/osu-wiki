@@ -29,7 +29,7 @@ Les Beatmap Nominators confirmés ne montrant que peu d'activité ne seront pas 
 
 ### Beatmap Nominators probatoires
 
-La probation est utilisée pour surveiller les nouveaux Beatmap Nominators ou les Beatmap Nominators ayant un comportement inquiétant. Le rôle principal des Beatmap Nominators probatoires est d'établir une fondation en tant que Beatmap Nominator en promouvant des beatmaps à la procédure de classement. Au moins un Beatmap Nominator confirmé doit être impliqué à la procédure de classement pour chaque mode de jeu sur un beatmap, les Beatmap Nominators probatoires ne peuvent donc pas donner la dernière nomination à une beatmap qui n'a reçu que des nominations d'autres membres probatoires pour leur mode de jeu.
+La probation est utilisée pour surveiller les nouveaux Beatmap Nominators ou les Beatmap Nominators ayant un comportement inquiétant. Le rôle principal des Beatmap Nominators probatoires est d'établir une fondation en tant que Beatmap Nominator en promouvant des beatmaps à la procédure de classement. Au moins un Beatmap Nominator confirmé doit être impliqué à la procédure de classement pour chaque mode de jeu sur une beatmap, les Beatmap Nominators probatoires ne peuvent donc pas donner la dernière nomination à une beatmap qui n'a reçu que des nominations d'autres membres probatoires pour leur mode de jeu.
 
 Les nouveaux Beatmap Nominators commencent avec un mois de probation. Si leurs nominations et leur comportement sont satisfaisants, ils seront promus au rang de Beatmap Nominator confirmés. Autrement, ils resteront en probation pour un autre mois ou seront retirés des Beatmap Nominators.
 

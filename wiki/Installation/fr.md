@@ -35,7 +35,7 @@ Il existe deux manières d'ajouter des beatmaps, via le site Web ou osu!direct (
 
 1. Allez à la page [beatmaps](https://osu.ppy.sh/beatmapsets) et connectez vous au site si cela n'a pas encore été fait.
 2. Trouvez une chanson que vous aimeriez jouer.
-3. Cliquez sur l'icône de téléchargement pour enregistrer le beatmap sur votre ordinateur.
+3. Cliquez sur l'icône de téléchargement pour enregistrer la beatmap sur votre ordinateur.
 4. Recherchez et ouvrez le fichier beatmap, il possède l'extension `.osz` (normalement présent dans votre dossier "Téléchargement").
    - Vous pouvez également placer le fichier beatmap dans le dossier `Songs` du dossier osu! (qui se situe dans votre dossier "AppData\Local" par défaut si vous n'aviez pas changé le dossier au début de l'installation).
 5. osu! se chargera automatiquement du reste et chargera la beatmap.
@@ -49,7 +49,7 @@ Il existe deux manières d'ajouter des beatmaps, via le site Web ou osu!direct (
 2. Trouvez une chanson que vous aimeriez.
 3. Double-cliquez sur la chanson dans la liste ou cliquez sur `Télécharger` à droite pour la télécharger.
    - Si vous ne souhaitez pas télécharger la vidéo, cliquez sur `DL NoVideo` en jeu.
-4. Quand osu! a fini le téléchargement du beatmap, il sera automatiquement chargé si vous êtes en mode solo, à l'écran [Song Selection](/wiki/Interface#song-selection-screen).
+4. Quand osu! a fini le téléchargement de la beatmap, il sera automatiquement chargé si vous êtes en mode solo, à l'écran [Song Selection](/wiki/Interface#song-selection-screen).
    - Si, pour une raison quelconque, vous ne les voyez pas, pressez `F5` en [Mode Solo](/wiki/Interface#song-selection-screen) pour re-traiter vos beatmaps. *Ce processus prendra du temps si vous avez beaucoup de beatmaps.*
 
 ## Ajout de skins

@@ -19,7 +19,7 @@ Avant d'être nominés pour le classement, les beatmaps doivent recevoir [hype](
 
 ## Nominations
 
-Les membres des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) sont des modders expérimentés qui sont capables de nommer des beatmaps pour le classement. Leur rôle est de s'assurer qu'un beatmap répond aux critères du [Ranking Criteria](/wiki/Ranking_Criteria) ainsi que leurs propres normes de qualité personnelles.
+Les membres des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) sont des modders expérimentés qui sont capables de nommer des beatmaps pour le classement. Leur rôle est de s'assurer qu'une beatmap répond aux critères du [Ranking Criteria](/wiki/Ranking_Criteria) ainsi que leurs propres normes de qualité personnelles.
 
 Les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) peuvent également nommer des maps, mais ce n'est pas leur rôle principal.
 
@@ -33,20 +33,20 @@ Cette catégorie de beatmaps existe pour fournir une plus grande exposition à l
 
 ### Déménagement au classement
 
-Les beatmaps qualifiés sont placés dans une file d'attente pour le classement. 8 beatmaps de chaque mode de jeu peuvent passer de Qualifié à Classé, à condition qu'ils aient été dans la file d'attente pendant au moins 7 jours. Cela signifie que certains beatmaps restent qualifiés pendant un peu plus de 7 jours.
+Les beatmaps qualifiés sont placés dans une file d'attente pour le classement. 8 beatmaps de chaque mode de jeu peuvent passer de Qualifié à Classé, à condition qu'ils aient été dans la file d'attente pendant au moins 7 jours. Cela signifie que certaines beatmaps restent qualifiés pendant un peu plus de 7 jours.
 
-Lorsque une beatmap est disqualifié, sa position dans la file d'attente de classement est sauvegardée. S'il est re-qualifié, il sera placé à sa position précédente dans la file d'attente de classement. Par exemple, si un beatmap est qualifié pendant 2 jours, puis disqualifié et re-qualifié, il restera dans la catégorie Qualifié pendant environ 5 jours de plus. Si la position sauvegardée dans la file d'attente est à moins de 24 heures du classement, elle sera remise à 24 heures lors de l'entrée dans la catégorie Qualifié.
+Lorsque une beatmap est disqualifié, sa position dans la file d'attente de classement est sauvegardée. S'il est re-qualifié, il sera placé à sa position précédente dans la file d'attente de classement. Par exemple, si une beatmap est qualifié pendant 2 jours, puis disqualifié et re-qualifié, il restera dans la catégorie Qualifié pendant environ 5 jours de plus. Si la position sauvegardée dans la file d'attente est à moins de 24 heures du classement, elle sera remise à 24 heures lors de l'entrée dans la catégorie Qualifié.
 
 ## Réinitialisation des nominations
 
-Les réinitialisations de nomination aident à s'assurer que les modders, les BNs et les membres du NAT vérifient la version la plus récente d'un beatmap avant qu'il n'entre dans la file d'attente de classement.
+Les réinitialisations de nomination aident à s'assurer que les modders, les BNs et les membres du NAT vérifient la version la plus récente d'une beatmap avant qu'il n'entre dans la file d'attente de classement.
 
-Les nominations peuvent être réinitialisées quand le créateur d'un beatmap met à jour l'ensemble ou quand un membre du BN ou du NAT trouve un problème dans un beatmap nommé. Elles peuvent aussi être réinitialisées par les membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) quand la raison implique un contenu inapproprié. Si un beatmap est qualifié lorsque ses nominations sont réinitialisées, l'ensemble sera disqualifié, le retirant de la file de classement.
+Les nominations peuvent être réinitialisées quand le créateur d'une beatmap met à jour l'ensemble ou quand un membre du BN ou du NAT trouve un problème dans une beatmap nommé. Elles peuvent aussi être réinitialisées par les membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) quand la raison implique un contenu inapproprié. Si une beatmap est qualifié lorsque ses nominations sont réinitialisées, l'ensemble sera disqualifié, le retirant de la file de classement.
 
 Membres du BN et du NAT à l'occasion [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) les ensembles de battants qu'ils estiment avoir des problèmes de qualité qui ne sont pas liés aux critères de classement.
 
 ## Classé
 
-Les Beatmaps qui sont passés par l'étape de qualification ont terminé la procédure de classement. Ils ont des tableaux de classement et récompensent les joueurs avec des points de performance.
+Les beatmaps qui sont passés par l'étape de qualification ont terminé la procédure de classement. Ils ont des tableaux de classement et récompensent les joueurs avec des points de performance.
 
 Les beatmaps classées ne sont plus classées que dans des circonstances exceptionnelles lorsque des problèmes sont découverts peu après qu'elles aient atteint le statut de Ranked.

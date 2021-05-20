@@ -24,9 +24,9 @@ Si vous avez toujours des problèmes, suivez ces étapes :
 
 1. Exportez la beatmap en utilisant l’éditeur de beatmap.
    - `File` puis `Export Package`.
-2. Sortez de l’éditeur de beatmap et supprimez le beatmap depuis osu!.
+2. Sortez de l’éditeur de beatmap et supprimez la beatmap depuis osu!.
 3. Sortez d’osu!
-4. Allez dans le beatmap exporté et changez l’extension de `.osz` à `.zip` (vous devez avoir les extensions de fichier visible dans l’explorateur de fichier pour faire ceci).
+4. Allez dans la beatmap exporté et changez l’extension de `.osz` à `.zip` (vous devez avoir les extensions de fichier visible dans l’explorateur de fichier pour faire ceci).
 5. Extrayez ce fichier `.zip`.
 6. Ouvrez le fichier de difficulté `.osu` avec un éditeur de texte brut (ex : Notepad).
 7. Entrez un nom d’utilisateur quelconque dans `Creator`, mais n’utilisez pas votre nom d’utilisateur.

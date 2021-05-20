@@ -24,7 +24,7 @@ Les maps nominées sont ensuite postées sur le [forum Project Loved](https://os
 
 ### Éligibilité
 
-Il y a quelques critères très minimaux à respecter pour que les beatmaps soient approuvées comme étant loved. Les capitaines considèrent qu'un beatmap est éligible pour la catégorie Loved si:
+Il y a quelques critères très minimaux à respecter pour que les beatmaps soient approuvées comme étant loved. Les capitaines considèrent qu'une beatmap est éligible pour la catégorie Loved si:
 
 - Si elle n'est pas dans les catégories [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked) ou [Approved](/wiki/Beatmap/Category#approved)
 - Son créateur ne désapprouve pas le fait qu'il soit loved
