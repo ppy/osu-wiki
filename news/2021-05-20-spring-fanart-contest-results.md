@@ -12,9 +12,9 @@ Spring is the season of prosperity and new life, something the artists in the os
 
 And boy did they deliver.
 
-Over **120** talented creators stepped forth and threw their work into the ring, creating the terrible but wonderful agony for the rest of us that is choosing only **15** of them to vote. But now, the time for pain has passed, and we celebrate the talented finalists as voted for by you.
+Over **120** talented creators stepped forth and threw their work into the ring, creating the terrible but wonderful agony for the rest of us that is choosing only **15** of them to vote. But now, those painful times have passed, and we're ready to celebrate the talented finalists as chosen by all of you.
 
-Here's what you all voted for:
+Without further ado, here are the finalists:
 
 *Click any of the banners to be taken to a high-resolution version of the image!*
 
@@ -30,7 +30,7 @@ Astute observers may see something suspicious in this image if they care to look
 
 Contest newcomer [**Kyvrin**](https://osu.ppy.sh/users/11589256) blasts into the scene with their utterly transfixing take on a sundress-toting pippi enjoying the great outdoors with sea, ground and sky motifs, earning a whopping **5517** votes in the process.
 
-Talk about a fearsome debut! This piece was tied for (and briefly overtook) first place multiple times throughout the contest, with some days showing a difference in votes of *less than twenty* overall, essentially a sneeze in the grand scheme of things. 
+Talk about a fearsome debut! This piece was tied for (and briefly overtook) first place multiple times throughout the contest, with some days showing an absolute neck-to-neck race to the finish with sometimes as little as *less than twenty* votes between them. Crazy stuff.
 
 Kyvrin has put a serious foot forward here with their first ever entry, and we certainly hope to see them again in future contests!
 
@@ -38,7 +38,7 @@ Kyvrin has put a serious foot forward here with their first ever entry, and we c
 
 **4777** voters couldn't help but be wooed by [**risuuna**](https://osu.ppy.sh/users/7266506)'s pippi and her adorable smile as she shares some of the comforts of a pristine river with a pogfish and a lounging don.
 
-Cute and funny is a well-established winning combination in these contests and for damned good reason, as this piece indicates all too well.
+Cute and funny is a well-established winning combination in these contests and for damned good reason, as risuuna demonstrates here all too well.
 
 [![](https://assets.ppy.sh/contests/125/banners/Sjao.jpg)](https://assets.ppy.sh/contests/125/winners/Sjao.png)
 
