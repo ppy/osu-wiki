@@ -135,7 +135,7 @@ Community Choice is the successor to the "Best of" contests.
 
 ## Community Mapping Contest
 
-The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4K and 7K entries). Through the [Community Contests listing](https://osu.ppy.sh/community/contests), users voted for their favorite entries. The winners were compiled into a [beatmap](https://osu.ppy.sh/beatmapsets/587388).
+The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4K and 7K entries). Through the [Community Contests listing](https://osu.ppy.sh/community/contests), users voted for their favorite entries. The winning difficulties were compiled into a [beatmap](https://osu.ppy.sh/beatmapsets/587388).
 
 ## osu!idol
 

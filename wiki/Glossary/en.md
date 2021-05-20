@@ -320,7 +320,7 @@ Guest difficulty, or *GD*, refers to any difficulty made by a creator for inclus
 There are many reasons for guest difficulties to exist:
 
 - Etiquette in the community can make it difficult for multiple creators to upload beatmaps of the same song around the same time.
-  - The guest creator, interested in creating a beatmap that song, may choose to contribute a difficulty to an existing work in progress beatmap instead.
+  - The guest creator, interested in creating a beatmap that song, may choose to contribute a difficulty to an existing work-in-progress beatmap instead.
 - The guest creator may also decide, after-the-fact, upon playing the beatmap that they want to create a difficulty for it.
 - The guest creator did not want to put in the effort in creating the difficulties on their own, but would rather just create one and give it to another creator.
 

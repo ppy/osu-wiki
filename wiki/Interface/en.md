@@ -174,7 +174,7 @@ Supported comparisons:
 - `<=`: Less than or equal to
 - `>=`: Greater than or equal to
 
-You may also enter a difficulty or beatmap identifier in your search to get a single result.
+You may also enter a difficulty or beatmap ID number in your search to get a single result.
 
 ### Rankings
 
