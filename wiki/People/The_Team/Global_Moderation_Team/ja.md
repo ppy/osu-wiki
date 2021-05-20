@@ -128,7 +128,7 @@ tags:
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419)、![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131)、![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326)、![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729)、![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) |
-| `#english` |  | *All moderators* |
+| `#english` | | *すべてのモデレーター* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)、![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210)、![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) |
 | `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059)、![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981)、![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)、![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) |
