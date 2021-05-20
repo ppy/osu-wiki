@@ -97,7 +97,7 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | Hong Kong ![][flag_HK] | ![][flag_FR] France | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 | ¹ |
 | China ![][flag_CN] | ![][flag_ID] Indonesia | **14:00 UTC** | 22:00 UTC+08 | 21:00 UTC+07 | ² |
 | Russian Federation ![][flag_RU] | ![][flag_IT] Italy | **16:00 UTC** | 19:00 UTC+03 | 18:00 UTC+02 | ² |
-| Chile ![][flag_CL] | ![][flag_CA] Canada | **18:00 UTC** | 14:00 UTC-04 | 13:00 UTC-05 | ² |
+| Chile ![][flag_CL] | ![][flag_CA] Canada | **19:00 UTC** | 15:00 UTC-04 | 14:00 UTC-05 | ² |
 
 ### Sunday, 23 May 2021
 
@@ -112,7 +112,7 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | Russian Federation ![][flag_RU] | ![][flag_CL] Chile | **16:30 UTC** | 19:30 UTC+03 | 12:30 UTC-04 | ³ |
 | Russian Federation ![][flag_RU] | ![][flag_CA] Canada | **16:30 UTC** | 19:30 UTC+03 | 11:30 UTC-05 | ³ |
 | Italy ![][flag_IT] | ![][flag_CL] Chile | **16:30 UTC** | 18:30 UTC+02 | 12:30 UTC-04 | ³ |
-| Italy ![][flag_IT] | ![][flag_CA] Canada | **16:30 UTC** | 18:30 UTC+02 | 11:30 UTC-05 | ³ |
+| Italy ![][flag_IT] | ![][flag_CA] Canada | **19:00 UTC** | 21:00 UTC+02 | 14:00 UTC-05 | ³ |
 
 ¹ Winner bracket encounter\
 ² Loser bracket encounter\
