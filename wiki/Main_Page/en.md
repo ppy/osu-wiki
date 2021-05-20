@@ -5,7 +5,7 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Welcome to the osu! wiki, the open-source knowledge base of osu!, a free-to-win rhythm game.
+Welcome to the osu! wiki, the open-source knowledge base containing a wide range of information related to osu!, a free-to-win rhythm game.
 </div>
 
 <div class="wiki-main-page__panels">
@@ -13,7 +13,7 @@ Welcome to the osu! wiki, the open-source knowledge base of osu!, a free-to-win 
 
 # Getting started
 
-Important articles and guides that help dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5), which is always open.
+Important articles and guides which will help you dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5).
 
 [Rules](/wiki/Rules) • [Welcome](/wiki/Welcome) • [Installation](/wiki/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_Centre)
 
@@ -24,7 +24,7 @@ Important articles and guides that help dive into osu!. In case anything goes wr
 
 # Game client
 
-Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know it better, from miscellaneous settings and customization possibilities to technical details and file formats it uses and understands.
+Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know it better, from various settings, through customization capabilities, to technical details and file formats the game uses.
 
 [Interface](/wiki/Interface) • [Options](/wiki/Options) • [Visual settings](/wiki/Visual_Settings) • [Shortcut key reference](/wiki/Shortcut_key_reference) • [Configuration file](/wiki/osu!_Program_Files/User_Configuration_File) • [Program files](/wiki/osu!_Program_Files)
 
@@ -35,7 +35,7 @@ Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to pr
 
 # Gameplay
 
-Anything about clicking circles, striking drums, catching fruits, or touching the synthesizer: key elements, concepts, mechanics, and competitive play.
+Everything about clicking circles, striking drums, catching fruits, and playing the synthesizer: key elements, concepts, mechanics, and competitive play.
 
 [Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
@@ -85,9 +85,9 @@ Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelin
 
 Answers to frequent questions and solutions to common issues live here. Learn how to deal with network issues, or combat bad behaviour online.
 
-[Help Centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_Troubleshooting) • [Account support team](wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
+[Help centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_Troubleshooting) • [Account support team](wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
-Profile: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_Centre/Account_Restrictions)
+Profile restrictions: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_Centre/Account_Restrictions)
 
 Do your part: [How and what to help with](/wiki/How_you_can_help!) • [Report bad behaviour](/wiki/Reporting_Bad_Behaviour) • [Report abuse](/wiki/Reporting_Bad_Behaviour/Abuse) • [Report cheating](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play)
 
@@ -96,7 +96,7 @@ Do your part: [How and what to help with](/wiki/How_you_can_help!) • [Report b
 
 # Community and projects
 
-Social interaction is one of main things that fuel osu! players around the world. Explore the activities and contests, get in touch with others, or organize the next big event!
+Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or organize the next big event!
 
 [Tournaments](/wiki/Tournaments) • [Featured Artists](/wiki/Featured_Artists) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](wiki/Community_Mentorship_Program)
 
@@ -129,7 +129,7 @@ Interact with osu! via other applications and media, or help it grow further.
 
 # Wiki and meta pages
 
-Just as almost everything out here, the osu! wiki is written and maintained by volunteers like you. Suggest an improvement, report an issue, or even write your own article at the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki "osu! wiki at GitHub").
+Just as almost everything out here, the osu! wiki is written and maintained by volunteers. Suggest an improvement, report an issue, or even write your own article at the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki "osu! wiki at GitHub").
 
 [History of osu!](/wiki/History_of_osu!) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/Mapping_and_Modding_Timeline) • [April Fools](wiki/History_of_osu!/April_Fools)
 
