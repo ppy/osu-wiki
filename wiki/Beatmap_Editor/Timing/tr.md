@@ -10,7 +10,7 @@ Zamanlama, bir şarkının [offseti](/wiki/Beatmapping/Offset), [dakika başı v
 
 ## Zamanlama ve Kontrol Noktaları penceresi
 
-![Zamanlama ve Kontrol Noktaları penceresi ekran görüntüsü](img/TimingSetup.jpg)
+![Zamanlama ve Kontrol Noktaları penceresi ekran görüntüsü](img/TimingSetup.png)
 
 Zamanlama noktaları editördeki `Zamanlama ve Kontrol Noktaları` penceresinden (varsayılan kısayolu `F6`) eklenebilir. Zamanlama noktaları bir şarkının zamanlamasındaki değişiklikleri doğru bir şekilde yansıtabilmek için bir şarkıyı parçalara böler.
 
