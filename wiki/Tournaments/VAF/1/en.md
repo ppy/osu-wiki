@@ -54,12 +54,14 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1284274)
-- [Livestream](https://www.twitch.tv/sparxenic "Twitch")
-- [Challonge bracket](https://challonge.com/ausutaiko2021 "Challonge")
-- Spreadsheet
-  - [Schedule](https://docs.google.com/spreadsheets/d/18xadwgbLM3mc5nPs316bF0OSwcyyGSgibFEv_hNkgeU/edit?usp=sharing "Google Docs")
-  - [Mappool](https://docs.google.com/spreadsheets/d/1dUo00W0UH3pgq1wPru-U9EGf35qAisRyM2C6OWBn2Ns/edit?usp=sharing "Google Docs")
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1299571)
+- Livestream
+  - [Twitch](https://www.twitch.tv/vafautumnfiesta "Twitch")
+  - [Trovo](https://trovo.live/VafAutumnFiesta "Trovo")
+    - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
+- [VAF Discord server](https://discord.gg/h6AcC2XB3B "Discord")
+- [Challonge bracket](https://challonge.com/VAF "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1A0MAwHb0xVQefsPAc1v1SMox9dTyWodRXyqyIWNaVjg/edit?usp=sharing "Google Docs")**
 
 ## Participants
 
