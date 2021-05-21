@@ -1,23 +1,23 @@
-# Techniques de Mapping
+# Techniques de mapping
 
-Les techniques de Mapping sont des méthodes de placements/patterns qui sont largement utilisés par les beatmappers connus dans leurs maps.
+Les **techniques de mapping** sont des méthodes de placements/patterns qui sont largement utilisés par les mappers connus dans leurs beatmaps.
 
-Ces pages sont ici comme guides pour débutant, pour aider à expliquer comment faire de telles techniques jusqu'à ce que vous ayez développé votre propre style de mapping. Pour commencer, il est recommandé d'observer et de copier ces techniques de mapping à partir de mappers expérimentés tout en permettant à votre créativité de circuler librement petit-à-petit. Beaucoup de grands mappers ont aiguisé leurs compétences à leurs débuts en imitant les autres qu'ils admiraient, il n'y a donc aucune honte à ce que vous le faites vous-même.
+Ces pages sont un guide pour les débutants, pour leurs expliquer comment réaliser de telles techniques jusqu'à ce que vous ayez développé votre propre style de mapping. Pour commencer, il est recommandé d'observer et de copier ces techniques de mapping à partir de mappers expérimentés tout en permettant à votre créativité de circuler librement petit-à-petit. Beaucoup de grands mappers ont aiguisé leurs compétences à leurs débuts en imitant les autres qu'ils admiraient, il n'y a donc aucune honte à ce que vous le faites vous-même.
 
-Vous trouverez ci-dessous des liens vers certaines techniques de mapping connues, et toutes largements utilisées par les mappers.
-Si nécessaire, vous pourriez également obtenir un essentiel des techniques de mapping à [Techniques de Mapping/Notions de base](Basics/).
+Vous trouverez ci-dessous des liens vers certaines techniques de mapping connues, et toutes largement utilisées par les mappers.
+Si nécessaire, vous pourriez également obtenir un essentiel des techniques de mapping sur l'article [techniques de mapping/Notions de base](Basics/).
 
-Si vous voulez savoir comment faire de bons sliders, voir [Faire de Bons Sliders](Making_Good_Sliders).
+Si vous voulez savoir comment faire de bons sliders, voir [Faire de bons sliders](Making_Good_Sliders).
 
-## List des Techniques de Mapping
+## Liste des Techniques de mapping
 
 <!-- please place all mapping techniques in alphabetical order -->
 
 ### Formations
 
-*Main page: [Techniques de Mapping/Formations](Formations)*
+*Page principale : [Techniques de mapping/Formations](Formations)*
 
-#### Creatif
+#### Créatif
 
 - [Blanket Combos](Formations/#blanket-combos)
 - [Divebomb Combos](Formations/#divebomb-combos)
@@ -28,7 +28,7 @@ Si vous voulez savoir comment faire de bons sliders, voir [Faire de Bons Sliders
 - [Tornado Combos](Formations/#tornado-combos)
 - [ztrot Spacing](Formations/#ztrot-spacing)
 
-#### Formes Symmétriques 
+#### Formes symétriques 
 
 - [Circle Formation](Formations/#circle-formation)
 - [Diamond Formation](Formations/#diamond-formation)
@@ -42,9 +42,9 @@ Si vous voulez savoir comment faire de bons sliders, voir [Faire de Bons Sliders
 
 ### Jumps
 
-*Main page: [Mapping Techniques/Jumps](Jumps)*
+*Page principale : [Techniques de mapping/Jumps](Jumps)*
 
-#### Hit Circle
+#### Cercles
 
 - [Anti-Jumps](Jumps/#anti-jumps)
 - [Anti-SeibeiStyle-Jumps](Jumps/#anti-seibeistyle-jumps)
@@ -60,7 +60,7 @@ Si vous voulez savoir comment faire de bons sliders, voir [Faire de Bons Sliders
 
 ### Rythme 
 
-*Main page: [Mapping Techniques/Rhythm](Rhythm)*
+*Page principale : [Techniques de mapping/Rhythm](Rhythm)*
 
 #### Espacement
 
@@ -91,14 +91,14 @@ Si vous voulez savoir comment faire de bons sliders, voir [Faire de Bons Sliders
 
 ### Spinners
 
-*Main page: [Mapping Techniques/Spinners](Spinners)*
+*Page principale : [Techniques de mapping/Spinners](Spinners)*
 
-#### Effets Additionnels 
+#### Effets additionnels 
 
 - [Post-Spinner Note](Spinners#post-spinner-note)
 - [Pre-Spinner Note](Spinners#pre-spinner-note)
 
-#### Variaions de Spinners
+#### Variations de spinners
 
 - [Double Spinners](Spinners#double-spinners)
 - [End Spinner](Spinners#end-spinner)
@@ -106,7 +106,7 @@ Si vous voulez savoir comment faire de bons sliders, voir [Faire de Bons Sliders
 
 ### Sliders
 
-*Main page: [Mapping Techniques/Sliders](Sliders)*
+*Page principale : [Techniques de mapping/Sliders](Sliders)*
 
 #### Patterns
 
@@ -140,7 +140,7 @@ Si vous voulez savoir comment faire de bons sliders, voir [Faire de Bons Sliders
 
 ### Unrankable
 
-*Main page: [Mapping Techniques/Unrankable](Unrankable)*
+*Page principale : [Techniques de mapping/Unrankable](Unrankable)*
 
 - [Burai Sliders](Unrankable/#burai-sliders)
 - [Hold Sliders](Unrankable/#hold-sliders)
