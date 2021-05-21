@@ -208,7 +208,6 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Circle (`2`) | **Clic gauche/droit :** Placer/supprimer la note. | Ajoute une note à la colonne actuelle en fonction de la position de la souris. |
 | Hold (`3`) | **Clic gauche (maintenu) :** Place une hold note et ajuste la longueur. **Relâcher à la fin: ** Définit la longueur de la hold note | Ajoute une hold note à la colonne actuelle en fonction de la position de la souris. |
 
-
 ### Centre (Terrain de jeu)
 
 ![Terrain de jeu (osu!mania)](/wiki/shared/BEM_PF.jpg "Terrain de jeu (osu!mania)")
