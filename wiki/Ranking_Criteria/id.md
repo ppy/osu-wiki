@@ -40,7 +40,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 - **Kiai harus dimulai dengan suara dalam musik.** Jika tidak dilakukan, lampu kilat kiai akan terasa tidak mempunyai hubungan dengan lagu.
 - **Pengaturan `Aktifkan hitung mundur` harus konsisten di antara tingkat kesulitan dalam mode yang sama.** Jika tingkat kesulitan tidak memiliki periode intro yang cukup lama untuk hitung mundur, pengaturan ini tidak perlu konsisten.
 
-## Beatmapset
+## Beatmap
 
 *Catatan: Setiap key count [osu!mania](/wiki/Game_mode/osu!mania) dianggap sebagai mode permainan individu di seluruh bagian ini.*
 

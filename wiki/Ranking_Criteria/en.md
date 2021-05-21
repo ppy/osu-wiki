@@ -19,9 +19,9 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 ### Rules
 
-- **No two hit objects can be placed on the same tick.** This includes hit circles and the durations of sliders and spinners. osu!mania beatmaps are exempt from this.
+- **No two hit objects can be placed on the same tick.** This includes hit circles and the durations of sliders and spinners. osu!mania difficulties are exempt from this.
 - **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations) for more detailed rules.
-- **Beatmaps that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz (i.e. 3 flashes per second) and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
+- **Difficulties that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz (i.e. 3 flashes per second) and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
 - **There must not be any unused files or 0-byte files in the beatmap's folder.** 0-byte files prevent other files in a beatmap's folder from properly uploading. Automatically generated `thumbs.db` files are the only exceptions.
 - **[Break times](/wiki/Glossary#break) must be inserted with the restrictions of the [beatmap editor](/wiki/Beatmap_Editor).**
 - **[Difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) must not use more precision than is possible in the [beatmap editor](/wiki/Beatmap_Editor).**
@@ -31,12 +31,12 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 ### Guidelines
 
 - **Creators of the media used in a beatmap should be credited in the beatmap's description.** Per the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines), media used in beatmaps should be permitted for use in osu!, and their licensing will likely detail how to credit their creators. Common reasons to omit credits from the description include exceeding difficulty in sourcing, creators' wishes to remain uncredited, and presence of credits in the artist, title, or source fields.
-- **Directly re-using your own Ranked beatmaps in other Ranked beatmaps is discouraged.** This is to avoid unnecessary bloating of Ranked content.
+- **Directly re-using your own Ranked difficulties in other Ranked beatmaps is discouraged.** This is to avoid unnecessary bloating of Ranked content.
 - **Slider tick rate should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they do not cause slider ticks to be unsnapped.
 - **Kiai should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
 - **The `Enable countdown` setting should be consistent between difficulties of the same mode.** If a difficulty does not have a long enough intro period for the countdown to occur, this setting does not need to be consistent.
 
-## Beatmapset
+## Beatmap
 
 *Note: Each of [osu!mania](/wiki/Game_mode/osu!mania)'s key counts are considered individual game modes throughout this section.*
 
@@ -173,11 +173,11 @@ This category contains explicit allowance statements of concepts and rules that 
 ### Rules
 
 - **A beatmap's audio file must use the `.mp3` or `.ogg` file format and have an average bit rate no greater than 192kbps.**
-- **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
+- **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **Beatmaps must be hitsounded.** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
   - **For osu!mania beatmaps containing only difficulties Insane or above, additions are not required.**
-- **All clicked objects must have audible [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound).** osu!mania beatmaps are exempt from this because of the mode's rhythm construction.
+- **All clicked objects must have audible [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound).** osu!mania difficulties are exempt from this because of the mode's rhythm construction.
 - **[Active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) must use the `.wav` or `.ogg` file formats.** `.mp3` files have slight delays, and therefore are reserved only for longer [passive hitsounds](/wiki/Beatmapping/Hitsound#passive-hitsound), such as ambient noises.
 - **[Active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hitsound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hitsound.
 - **Hitsounds must be audible.** Their purpose is to provide feedback, so hitsounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criteria.
@@ -213,7 +213,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Guidelines
 
-- **A beatmap's background image should be of reasonable quality.** Try to find the original source of any image and avoid unnecessary upscaling or file size bloating.
+- **The background image of each difficulty in a beatmap should be of reasonable quality.** Try to find the original source of any image and avoid unnecessary upscaling or file size bloating.
 
 ## Skinning
 
@@ -245,19 +245,19 @@ This category contains explicit allowance statements of concepts and rules that 
 ### Rules
 
 - **Storyboarded images must not exceed an area of 17,000,000 pixels to keep loading times of large images within reasonable ranges for most computers to handle.** Additionally you may need to rescale your images accordingly to the internal maximum dimensions of the storyboard editor of 854 x 480 osu!pixels when using them.
-- **The beatmap must not throw parsing errors upon loading.** This means the parser cannot read part of the storyboard instructions.
+- **The difficulty must not throw parsing errors upon loading.** This means the parser cannot read part of the storyboard instructions.
 - **The `Widescreen support` setting must be consistent between storyboarded difficulties in a beatmap,** unless difficulty-specific storyboards are designed for different aspect ratios.
 
 ### Guidelines
 
 - **There should be no active sprites and commands after the end of the song.** This is flexible up to a few extra seconds depending on the storyboard effect, but more than that should not be necessary.
 - **Consider leaving a one pixel border of transparency around storyboard images of rotated sprites for interpolation to work properly.** osu! does not utilize anti-aliasing around images, and as such this becomes very noticeable if the edges are visible and the sprite is rotated.
-- **Avoid any noticeable performance issues as much as possible. Even being optimized, having consistent frame rates is crucial for the playing experience of the beatmap.** Test play the beatmap during the modding process to confirm this.
+- **Avoid any noticeable performance issues as much as possible. Even being optimized, having consistent frame rates is crucial for the playing experience of the difficulty.** Test play the beatmap during the modding process to confirm this.
 - **Refrain from usage of storyboard sound samples in ways that are easily confused with hitsounds during gameplay.** This goes against the concept of audible feedback, as the sound samples will play independently of any input from the player.
 - **Avoid illogical, conflicting and obsolete commands.** Commands that have their ending time before their start time or are bound to impossible to reach triggers are either not working as intended or obsolete, and should either be removed or adjusted to work as intended. Commands of the same type whose intervals overlap should have their intervals and parameters adjusted so that they no longer overlap.
-- **The `Widescreen support` setting should be turned on if the beatmap contains a widescreen storyboard.** Alternatively, if the storyboard is designed for 4:3 resolutions, widescreen support should be turned off. This setting will not affect anything within the beatmap without a storyboard being present.
+- **The `Widescreen support` setting should be turned on if the difficulty contains a widescreen storyboard.** Alternatively, if the storyboard is designed for 4:3 resolutions, widescreen support should be turned off. This setting will not affect anything within the beatmap without a storyboard being present.
 - **Make sure the storyboard is optimized as much as possible,** within practical means.
-  - **Avoid having sprites, or the background of the beatmap, completely visually obstructed while rendered.** Fading these out when otherwise not visible is preferable for the sake of performance. To fade out the background of the beatmap, turn the same background image into a sprite, with `Background` or `0` as second parameter, and fade accordingly.
+  - **Avoid having sprites, or the background of the difficulty, completely visually obstructed while rendered.** Fading these out when otherwise not visible is preferable for the sake of performance. To fade out the background of the difficulty, turn the same background image into a sprite, with `Background` or `0` as second parameter, and fade accordingly.
   - **Avoid sprites being partially off-screen or visually obstructed for the entire time they are used.** In these cases the respective parts of the images should be cut unless this is necessary for an effect within the storyboard.
   - **Avoid unnecessary transparency around storyboard images.** For the sake of performance, images should be cropped as much as possible for their desired effects.
   - **Use loops for commands that repeat themselves many times, unless this goes against what is visually intended.** Using the loop command will often reduce the line count considerably, which in turn reduces file size.
@@ -266,4 +266,4 @@ This category contains explicit allowance statements of concepts and rules that 
   - **Avoid any duplicate image files.** Having two instances of the exact same image adds unnecessary file size.
   - **Refrain from having multiple sprites active while not rendered.** Active sprites will still process commands regardless of whether they are visible or not. Should this be the case for longer periods of time, instantiate new sprites instead, for when visibility is regained.
   - **When using many commands of the same type on a sprite, try leaving at least 16 ms between their start times.** 60 commands per second is often more than enough for any sprite to make smooth transitions on an average setup. This is for the sake of reducing file size and loading times.
-  - **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the beatmap, which is why fading these out when done is preferable.
+  - **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the difficulty, which is why fading these out when done is preferable.
