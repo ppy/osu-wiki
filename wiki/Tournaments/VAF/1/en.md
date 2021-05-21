@@ -7,7 +7,7 @@ tags:
 
 ![VAF logo](img/logo.jpg)
 
-The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament will run in a swiss style to determine seedings first before going onto double-elimination bracket and it is rank restricted to rank #50 or below. It is the first installment of the Vaf's Autumn Fiesta.
+The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament will run in a swiss style to determine seedings first before going onto double elimination bracket and it is rank restricted to rank #50 or below. It is the first installment of the Vaf's Autumn Fiesta.
 
 ## Tournament schedule
 
@@ -44,11 +44,11 @@ The Vaf's Autumn Fiesta is run by various community members.
 | Organiser | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Administrator | ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_AR] [trollocat](https://osu.ppy.sh/users/9228032) |
 | Mappool selector | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011), ![][flag_AR] [trollocat](https://osu.ppy.sh/users/9228032) |
-| Mapper | ![][flag_JP] [7\_7](https://osu.ppy.sh/users/7491106), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) |
+| Mapper | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_JP] [7\_7](https://osu.ppy.sh/users/7491106), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) |
 | Referee | ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387), ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_DK] [Colibz](https://osu.ppy.sh/users/13647254), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_GB] [NightmareParty](https://osu.ppy.sh/users/15671175), ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_PL] [SebekPlayed](https://osu.ppy.sh/users/7871365), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_GB] [SSScotty](https://osu.ppy.sh/users/10319851), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) |
 | Streamer | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_CL] [Touche](https://osu.ppy.sh/users/1603962), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_US] [Wilfred Murr](https://osu.ppy.sh/users/2598555), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
 | Commentator | ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_GB] [hammygames](https://osu.ppy.sh/users/12232503), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_US] [Wilfred Murr](https://osu.ppy.sh/users/2598555) |
-| Designer | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
+| Designer | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) |
 | Statistician | ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
@@ -357,36 +357,53 @@ Sunday, 25 April 2021:
 
 ### General rules
 
-1. The tournament is open to players living in Australia, New Zealand, Malaysia, Singapore, Indonesia, Philippines, and Thailand. Recommended rank is #7,500+.
-2. The tournament style is a double-elimination bracket.
-3. Players will be seeded by global rank.
-4. The tournament will take the best of the first 32 entrants (given they fit the next rule).
-5. There is an ambiguous rank limit, as many countries have a large gap somewhere in their top five players, which leaves a large gap in competitive skill. As a result, some players may be denied entry to participate (as a guideline, around 8,500 pp is the desired cap).
-6. Poor attitude towards other players or tournament staff will result in disqualification (this point applies to staff members as well).
+1. At the time of the match. Players will be invited by the referee.
+2. If a player has a **10 minute delay** they will have their `!roll` automaticaly lost.
+3. If a player has a **15 minute delay** they will have their match automatically lost.
+4. If both players end up noshowing it will be deemed as a tie.
+5. Each player can submit a warmup. However, it might not be more than **3 minutes** long.
+6. Highest `!roll` will be given four options and be asked to pick one. Those options are:
+   - Pick first
+   - Pick second
+   - Ban first
+   - Ban second
+   - The loser will then choose the other option, for example; Winner picks ban order so loser chooses pick order.
+7. Referee will summarise then the pick/ban order selected by players.
+8. You can call for an abort or disconnection within the first **30 seconds** of the map having started in order to replay the map. Each player has a limit of **1 replay** per match.
+9. Players **are not allowed to ban the same mod bracket twice with the exception of nomod**.
+10. Players **have no restrictions regarding picks**. They can pick any map in any order.
+11. Players **do not have any FreeMod restrictions**, they can go with NoMod, Hidden, HardRock or Hidden+HardRock.
+12. It is the player's responsibility to be prepared for the match. If any technical difficulties appear related to the maps (for example, if a player has a slow connection and has problems downloading a map), the referee is allowed to give the point to the enemy player, assuming the problematic player is taking too long fixing their problem and not cooperating.
+13. There are no time restrictions, but players are expected to act using common sense. If a player is obviously stalling, then the referees is allowed to add an `!mp timer` of their choice (preferably 2 minutes).
+14. Disrespect of the assigned referee, and/or opponent, will not be tolerated. (Also applies for the Discord server and towards other staff members)
+15. If there are 2 ties, the pick will be nullified.
+16. Ban order is: Player 1 ban, Player 2 ban, Player 1 ban, Player 2 ban.
+17. The mappool size will follow the listed format:
+    - Swiss bracket: 5 Nomod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, No Tiebreaker
+    - Semifinals, Finals, and Grand Finals: 5 Nomod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, 1 Tiebreaker
 
-### Match rules
+### Swiss style
 
-1. The tournament is a 1v1 osu!taiko match; highest score wins.
-2. Scoring will be calculated via **ScoreV2**.
-3. The mappool will change in size depending on round, but at a very minimum will contain 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, and 1 Tiebreaker.
-   - FreeMod consists of Hidden, HardRock, or Hidden+HardRock. No other mods/combinations of mods may be used (this includes NM).
-4. Players can request to use Nightcore instead of DoubleTime, but the opponent must also agree upon the request.
-5. Players are allowed one ban per match.
-6. Players can pick a warmup with the max length of **four minutes**.
-7. `!roll` will determine who will pick the first beatmap.
-8. The player with the lowest `!roll` score will ban first, followed by their opponent.
-9. Players have 10 minutes in Group Stage or 15 minutes in every stage above to attend their match before a win by default is given to the other player.
-10. If both players fail, the player with the highest failed score wins the point.
-11. If the scores are tied, then the beatmap will be played again and no point(s) will be awarded.
-    - If there exists two ties in a row on the same beatmap, the map may be nullified and not reused. The player whom selected the tied map may pick again.
-
-#### Tournament structure
-
-1. Seeding is based off of the player's ranking; there will be four seed categories and every player will fit into one of these depending on their total osu!taiko pp compared to the rest of the players. Groups for the Group Stage will be groups of four, where each player is from a different seed category (this may change depending on the number of participants).
-2. 4 points to win the match in the Group Stage.
-3. 5 points to win the match in the Round of 16.
-4. 6 points to win the match in the Quarterfinals and the Semifinals.
-5. 7 points to win the match in the Finals.
+1. Swiss Style is a league style format which consists in playing against an x amount of oponents depending on the format and the rounds existing. This implies that each player will not play against everyone in the swiss. Each matchup will depend on the seeding and performance of every player in the swiss bracket. There is an exception where in case of a tie a player might rematch someone depending on their point difference (this depends on the Challonge bracket). More explanation on video format can be accesed through the [following video](https://youtu.be/WsvFrxJPBZA).
+2. Each player will play throughout 6 weeks, 6 matches/rounds of swiss style.
+3. Matchups will be paired between players who posses the same amount of W-L-D (for example someone that goes 3-0 will be prioritized against someone who also is 3-0). What is more, playing against the same player twice will be avoided unless it's completely necessary.
+4. Every match will use BO13 format, this means throughout the entire swiss bracket a player will need 7 points to win a match or 6 to guarantee a tie. Semifinals onwards will also use BO13 format. The difference will be, swiss bracket won't have a tiebreaker.
+5. In case of a tie in W-L-D at the end of the 6 rounds/matches several tiebreaker methods will be used on different information:
+   - Points
+   - [Bucholz](https://en.wikipedia.org/wiki/Buchholz_system)
+   - Points scored difference
+6. Everyone who meets the rank restricted requirements is able to sign up. Any members of staff apart from **Organiser, Mappool selector, and Referee are allowed to play**.
+7. The top 12 players from the swiss stage will move on to a **bracket reset** if the team from the loser's bracket wins the first match.
+8. Players who are not in the rank range are allowed to **register**. However, if they are not within the rank range by the time the registration ends, their registration will be removed. Nevertheless, when registration is coming to a close, players are allowed to bypass the rank restriction.
+9. Signing up does not guarantee your participation in the tournament. Players will have to stay within the cutoff until the registrations close. The cutoff will be held at 64 players.
+10. To register, each player must follow the format posting: Their osu! user ID followed by timezone (in UTC) in the `#registration` text-channel in the VAF Discord server, which will only be open for 2 weeks until the registrations end.
+11. After registration ends players are **allowed to leave the rank range to any extent**.
+12. Every player who enters will play 6 matches in total 6 throughout 6 weeks in the swiss bracket. Only the top 12 players will go through the double elimination bracket afterwards.
+13. Players will enter immediately into a Semifinals situation in bracket. top 4 players in the swiss bracket will be in the winners bracket while the top 5 - top 12 will start from the losers bracket.
+14. All match schedules will be written in UTC.
+15. Reschedules will always be taken as long as they are **24 hours before** the first schedule of the running stage.
+16. 1 match will be played per week to make it easy for the players. In total players will play 6 matches in total during swiss bracket.
+17. Mappools will be released by each week's Monday so every match can occur before that.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
