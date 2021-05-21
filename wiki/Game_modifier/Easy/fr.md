@@ -5,6 +5,7 @@ tags:
   - Easy
   - mod
   - game modifier
+  - modificateur de jeu
 ---
 
 # Le mod Easy

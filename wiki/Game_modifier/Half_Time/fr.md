@@ -5,6 +5,7 @@ tags:
   - mod
   - game modifier
   - HT
+  - modificateur de jeu
 ---
 
 # Le mod Half Time

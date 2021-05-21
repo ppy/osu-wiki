@@ -6,6 +6,7 @@ tags:
   - FO
   - mod
   - game modifier
+  - modificateur de jeu
 ---
 
 <!-- TODO:

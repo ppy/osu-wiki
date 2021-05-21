@@ -5,6 +5,7 @@ tags:
   - NF
   - mod
   - game modifier
+  - modificateur de jeu
 ---
 
 # Le mod No Fail

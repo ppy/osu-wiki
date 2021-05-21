@@ -8,6 +8,8 @@ tags:
   - mod
   - game modifier
   - playing with a friend
+  - modificateur de jeu
+  - jouer avec un ami
 ---
 
 # Le mod Co-op

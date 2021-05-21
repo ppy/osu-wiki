@@ -6,6 +6,7 @@ tags:
   - SO
   - mod
   - game modifier
+  - modificateur de jeu
 ---
 
 # Le mod Spun Out

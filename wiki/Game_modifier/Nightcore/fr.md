@@ -5,6 +5,7 @@ tags:
   - NC
   - mod
   - game modifier
+  - modificateur de jeu
 ---
 
 # Le mod Nightcore

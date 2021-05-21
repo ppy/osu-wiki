@@ -5,6 +5,7 @@ tags:
   - HD
   - mod
   - game modifier
+  - modificateur de jeu
 ---
 
 # Le mod Hidden

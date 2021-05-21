@@ -5,6 +5,7 @@ tags:
   - CM
   - mod
   - game modifier
+  - modificateur de jeu
 ---
 
 # Le mod Cinema

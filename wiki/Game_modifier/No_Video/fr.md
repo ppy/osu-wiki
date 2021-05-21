@@ -5,6 +5,7 @@ tags:
   - NV
   - mod
   - game modifier
+  - modificateur de jeu
 ---
 
 <!-- TODO:

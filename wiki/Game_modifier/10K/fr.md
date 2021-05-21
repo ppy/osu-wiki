@@ -4,6 +4,7 @@ tags:
   - 10K
   - mod
   - game modifier
+  - modificateur de jeu
 ---
 
 <!-- TODO:

@@ -5,6 +5,7 @@ tags:
   - FL
   - mod
   - game modifier
+  - modificateur de jeu
 ---
 
 # Le mod Flashlight

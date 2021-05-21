@@ -5,6 +5,7 @@ tags:
   - mod
   - game modifier
   - SD
+  - modificateur de jeu
 ---
 
 # Le mod Sudden Death

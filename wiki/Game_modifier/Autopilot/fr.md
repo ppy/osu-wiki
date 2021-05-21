@@ -6,6 +6,7 @@ tags:
   - AP
   - mod
   - game modifiers
+  - modificateur de jeu
 ---
 
 # Le mod Autopilot

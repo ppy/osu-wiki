@@ -6,6 +6,7 @@ tags:
   - mod
   - game modifier
   - cutting edge
+  - modificateur de jeu
 ---
 
 # Le mod Target Practice

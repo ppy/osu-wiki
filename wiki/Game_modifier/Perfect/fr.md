@@ -5,6 +5,7 @@ tags:
   - mod
   - game modifier
   - PF
+  - modificateur de jeu
 ---
 
 # Le mod Perfect
