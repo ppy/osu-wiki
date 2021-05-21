@@ -11,7 +11,7 @@ outdated_since: ea5cceced4dbd81d528eb86ae2777947acc739b9
 
 Les Beatmaps sont déplacées en Loved par un processus de nomination et de vote.
 
-Les membres de l'équipe  Project Loved, appelés **capitaines**, nomment régulièrement des beatmapsets pour un mode de jeu spécifique. Presque toujours, ces ensembles proviennent de soumissions de la communauté d'osu!. Les formulaires de soumission actuels et les listes peuvent être trouvés via les liens suivants :
+Les membres de l'équipe  Project Loved, appelés **capitaines**, nomment régulièrement des beatmaps pour un mode de jeu spécifique. Presque toujours, ces ensembles proviennent de soumissions de la communauté d'osu!. Les formulaires de soumission actuels et les listes peuvent être trouvés via les liens suivants :
 
 - [formulaire osu!/osu!taiko/osu!catch](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
 - [formulaire osu!mania](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform)
@@ -24,7 +24,7 @@ Les maps nominées sont ensuite postées sur le [forum Project Loved](https://os
 
 ### Éligibilité
 
-Il y a quelques critères très minimaux à respecter pour que les beatmaps soient approuvées comme étant loved. Les capitaines considèrent qu'un beatmapset est éligible pour la catégorie Loved si:
+Il y a quelques critères très minimaux à respecter pour que les beatmaps soient approuvées comme étant loved. Les capitaines considèrent qu'une beatmap est éligible pour la catégorie Loved si:
 
 - Si elle n'est pas dans les catégories [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked) ou [Approved](/wiki/Beatmap/Category#approved)
 - Son créateur ne désapprouve pas le fait qu'il soit loved

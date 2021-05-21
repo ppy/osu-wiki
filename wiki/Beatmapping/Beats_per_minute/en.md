@@ -19,6 +19,6 @@ Most modern songs use a single BPM which requires a single timing point. More co
 
 ## Gameplay
 
-BPM also influences gameplay elements such as [slider velocity](/wiki/Hit_Objects#slider-speed) in [osu!standard](/wiki/Game_mode/osu!), and scroll speed in [osu!mania](/wiki/Game_mode/osu!mania).
+BPM also influences gameplay elements such as [slider velocity](/wiki/Hit_Objects#slider-speed) in [osu!](/wiki/Game_mode/osu!), and scroll speed in [osu!mania](/wiki/Game_mode/osu!mania).
 
 <!-- TODO: Insert links -->

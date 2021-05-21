@@ -22,7 +22,7 @@ Cada desenvolvimento principal discutido no servidor tem seu próprio canal:
 | [osu!lazer](https://github.com/ppy/osu "ppy/osu no GitHub") | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework "ppy/osu-framework no GitHub") | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web "ppy/osu-web no GitHub") | `#osu-web` |
-| [Classificação de estrelas](/wiki/Beatmapping/Star_rating) e [pontos de performance](/wiki/Performance_Points) no [osu!standard](/wiki/Game_Modes/osu!) | `#difficulty-osu` |
+| [Classificação de estrelas](/wiki/Beatmapping/Star_rating) e [pontos de performance](/wiki/Performance_Points) no [osu!](/wiki/Game_Modes/osu!) | `#difficulty-osu` |
 | Classificação de estrelas e pontos de performance no [osu!taiko](/wiki/Game_Modes/osu!taiko) | `#difficulty-taiko` |
 | Classificação de estrelas e pontos de performance no [osu!mania](/wiki/Game_Modes/osu!mania) | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: c16d34867b14268eef6878eb3c297ceb7333ffe9
+---
+
 # Pemecahan masalah kinerja osu!
 
 osu! memberikan pengalaman yang terbaik saat dijalankan dengan pengaturan default yang normal dan secara proaktif memberi peringatan jika kamu melakukan / menjalankan sesuatu yang menyebabkan kinerja gim menurun.

@@ -24,6 +24,6 @@ outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
 
 Nezabudni si pozorne prečítať [pravidlá](/wiki/Rules)!
 
-Keď si s tým hotový, si pripravený začať tvoje rytmové dobrodružstvo! Môžeš si [pridať beatmapy](/wiki/Installation#adding-beatmapsets) na hranie, [vytvoriť si skin](/wiki/Skinning), alebo [vytvoriť beatmapu](/wiki/Beatmapping). Tiež sa môžeš zastaviť a povedať "Čau" v [Predstavovaciom subfóre](https://osu.ppy.sh/community/forums/8).
+Keď si s tým hotový, si pripravený začať tvoje rytmové dobrodružstvo! Môžeš si [pridať beatmapy](/wiki/Installation#adding-beatmaps) na hranie, [vytvoriť si skin](/wiki/Skinning), alebo [vytvoriť beatmapu](/wiki/Beatmapping). Tiež sa môžeš zastaviť a povedať "Čau" v [Predstavovaciom subfóre](https://osu.ppy.sh/community/forums/8).
 
 Pokiaľ potrebuješ pomoc v hre, môžeš sa spýtať v  `#help` [IRC](/wiki/IRC) (Internet Relay Čete) kanáli otvorením četovej konzoly (stlač `F8` alebo `F9` v hre) a napíš `/join help`. Tiež sa môžeš opýtať v [subfóre Pomoc](https://osu.ppy.sh/community/forums/5).

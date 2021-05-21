@@ -1,23 +1,26 @@
-# How to use the offset wizard
+# How to use the Offset Wizard
 
-To make the offset wizard easier to use, you will need to get the following beatmap: [peppy - Offset Wizard (peppy)](https://osu.ppy.sh/beatmapsets/4659).
-After downloading, load it up in osu! then follow these instructions:
+*See also: [Offset Wizard](/wiki/Options/Offset_Wizard) and [Universal offset](/wiki/Universal_offset)*
 
-1. Turn down the effects volume to `0%`.
-2. Find it in your beatmap list and select it.
-3. Press `F3` and `5`.
-4. Navigate to (almost) the start of the beatmap.
-5. Click on `Test` or press `F5`.
-6. **Listen to the beat.** You will need to see when you *should* be hitting the circles.
-7. Restart the play test but close your eyes this time. This time, you should be clicking to the beat when you hear it. You will click 16 times.
-8. Open your eyes and take a look at how much you got your ms too early or too late.
-9. Go to the options and set your Universal Adjustment by `-x` if you were late or by `+x` if you were early.
-10. Repeat steps 2 - 9, this time the too early / too late values should be smaller.
-11. Repeat the 10th step until the difference gets really small (±4ms).
-12. Enjoy *actually* clicking to the rhythm!
+If the [hitsounds](/wiki/Beatmapping/Hitsound) feel out of sync with the music in every beatmap you play, you will more than likely need to change your [universal offset](/wiki/Universal_offset). The easiest way to do this is by using the **Offset Wizard**.
 
-## Notes
+Follow the following steps to adjust your universal offset using the Offset Wizard.
 
-- Using fullscreen mode and windowed mode may require recalibration since fullscreen mode can lower input latency.
-- The effects volume should be zero when doing this because the hitsound can confuse you while doing this.
-- Using other game modes may require extensive recalibration.
+## Opening the Offset Wizard
+
+1. Open osu!.
+2. Go to the `Options` menu, or press `Ctrl` + `O`.
+3. Search "offset" in the quick-search, and click the `Offset wizard` button.
+
+The Offset Wizard will then open, playing the song that was previously played in osu!, while green bars scroll across the screen and a metronome is ticking.
+
+## Calibrating the universal offset
+
+1. Listen carefully to the song and the metronome playing together.
+2. Start adjusting the universal offset up or down, using the corresponding arrow keys, or the mouse scroll wheel.
+   - If the hitsounds seem like they are playing too early in-game, you will need to *decrease* your universal offset.
+   - If the hitsounds seem like they are playing too late in-game, you will need to *increase* your universal offset.
+3. Adjust it until you hear the metronome line up perfectly with the song, using the scrolling bars on the screen to help you.
+4. Once you have successfully calibrated your universal offset, press the `Back` button at the bottom left of the screen to exit the Offset Wizard.
+
+If the metronome feels too fast or too slow for the song, you may want to enable either `Half tick` or `Double tick` in the top left of the screen to make things easier.

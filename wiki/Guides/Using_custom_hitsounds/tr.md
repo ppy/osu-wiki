@@ -19,7 +19,7 @@ Arzu ettiğiniz ses dosyalarınıza sahip olduğunuzda, içerisinde kullanmak is
 5. `Müzik Dosyasını Aç` sekmesine tıklayın.
 6. Dosyalarınızı buraya yapıştırın.
 
-Eğer osu!'yu MacOS üzerinde çalıştırıyorsanız, nispeten daha farklı bir yaklaşım izlemeniz gerekebilir:
+Eğer osu!'yu macOS üzerinde çalıştırıyorsanız, nispeten daha farklı bir yaklaşım izlemeniz gerekebilir:
 
 1. osu! uygulama ikonuna sağ-tıklayın ve `Paket İçeriklerini Göster` seçeneğini seçin.
 2. Beatmapinizin klasörünü `drive_c -> osu! -> Songs` üzerinden konumlandırın (`Son Düzenlenen`'e göre sıralamanız yardımcı olabilir).
@@ -39,7 +39,7 @@ buradaki `<örnekseti>` yerine "normal", "soft" veya "drum", ve `<ses>` yerine i
 
 ![](img/beatmap-folder-resources.png "Özel vuruş sesleri içeren tipik bir beatmap klasörü")
 
-Yukarıdaki resimde, ilk listelenen ses `soft-hitclap.wav` olarak isimlendirilmiştir, Soft örnek setini ve "hitclap" eklemesi bulunan bir nota başarılı bir şekilde vurulduğunda varsayılan vuruş sesinin yerine geçen başka bir ses çıkarır. Bunun yalnızca *seçilen örnek sette* oynatılacağını unutmayın. Eğer beatmapiniz diğer örnek setlerini de kullanıyorsa, örneğin Normal örnek setini kullanırken bir `normal-hitclap.wav` eklemek gibi, ek vuruş sesi dosyaları gerektirecektir (her ne kadar aynı ses örneğini kullanmak isteseniz de). 
+Yukarıdaki resimde, ilk listelenen ses `soft-hitclap.wav` olarak isimlendirilmiştir, Soft örnek setini ve "hitclap" eklemesi bulunan bir nota başarılı bir şekilde vurulduğunda varsayılan vuruş sesinin yerine geçen başka bir ses çıkarır. Bunun yalnızca *seçilen örnek sette* oynatılacağını unutmayın. Eğer beatmapiniz diğer örnek setlerini de kullanıyorsa, örneğin Normal örnek setini kullanırken bir `normal-hitclap.wav` eklemek gibi, ek vuruş sesi dosyaları gerektirecektir (her ne kadar aynı ses örneğini kullanmak isteseniz de).
 
 ## Özel vuruş seslerini kullanmak
 

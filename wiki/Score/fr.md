@@ -40,7 +40,7 @@ La plupart du temps, le combo joue un rôle majeur dans le système de score, pu
 | ![](img/catch-100.jpg "Juice Drop") | Juice Drops (Slider Tick) | Ces grosses gouttes représentent les ticks d'un Slider, similaires aux points (ticks) à l'intérieur des Sliders. Il est obligatoire de les capturer pour conserver le combo. Elles font deux fois la taille d'une Droplet (Chemin d'un Slider). 30pt par Drop en cas de capture (représenté par un 100 en multijoueur et sur l'écran de résultats) |
 | ![](img/catch-50.jpg "Droplet") | Droplets (Chemin d'un Slider) | Ces gouttelettes représentent le Chemin d'un Slider, et sont plus petites que les Juice Drops. 10pt par Droplet en cas de capture. Ne pas les capturer diminue la précision et fait perdre un des 50 pouvant être obtenus, mais ne brise pas le combo (représenté par un 50 en multijoueur ou sur l'écran de résultats) |
 | (None) | Miss Droplets | Droplets (Chemin de Slider) ratées. Elles ne sont pas affichées sur l'écran de résultats, mais le sont côté serveur. Le combo ne sera pas brisé, mais cela diminue la précision et fait perdre un des 50 pouvant être obtenus. Cela n'est pas considéré comme un Miss. N'est pas affiché en multijoueur ou sur l'écran de résultats, mais l'est en tant que *Droplet Miss* dans le classement du site. |
-| ![](img/catch-banana.jpg "Banana") | Bananas | Équivalent du Spinner. Ces petites bananes rétrécissent lorsqu'elles s'approchent du Catcher. Il n'est pas obligatoire de les capturer. 1,100pt en cas de capture, ceci venant de la complétion du Spinner dans osu!standard qui offre 1000pt bonus ainsi que 100pt pour une rotation. |
+| ![](img/catch-banana.jpg "Banana") | Bananas | Équivalent du Spinner. Ces petites bananes rétrécissent lorsqu'elles s'approchent du Catcher. Il n'est pas obligatoire de les capturer. 1,100pt en cas de capture, ceci venant de la complétion du Spinner dans osu! qui offre 1000pt bonus ainsi que 100pt pour une rotation. |
 | ![](img/catch-0.jpg "Miss") | Miss | Fruit et Juice Drops ratés. Brise le combe. Obtenu lorsque la capture d'un Fruit/Juice Drops est échouée. Aucun score accordé et brise le combo. Visible uniquement sur l'écran de résultats. |
 
 ### osu!mania
@@ -73,7 +73,7 @@ Le ScoreV2 essaie de normaliser les systèmes de scoring des différents modes d
 Chaque objet fait à présent partie du score de 1 million et sont réajustées en conséquence, plutôt que d'utiliser leurs propres valeurs de score et formules bonus.
 
 Le ScoreV2 peut être testé en mode [Multijoueur](/wiki/Multi) en tant que Condition de Victoire dans les Options de Salon.
-Depuis le [22 février 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3), le système ScoreV2 peut être testé en mode *Solo* en utilisant le mod **NON-CLASSÉ** [ScoreV2](/wiki/Game_modifier/ScoreV2).
+Depuis le [22 février 2017 (2017-02-22)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), le système ScoreV2 peut être testé en mode *Solo* en utilisant le mod **NON-CLASSÉ** [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 ### Score
 
@@ -135,7 +135,7 @@ Pour une difficulté de 4\* à 4.5\*, *n* est égal à 64, avec un score maximum
 Dans le cas extrême, *n* atteint une valeur de 96, où le score maximum par note vaut 1,260/2,520.
 Il existe bien entendu des valeurs de *n* moins élevées pour les difficultés moins élevées.
 
-Contrairement à [osu!standard](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), un Miss dans osu!taiko ne causera pas une différence *radicale* du score avec le score maximum atteignable. (dans osu!standard/osu!catch, la différence de score due à un Miss est d'autant plus large que le combo maximum, surtout si cela se produit aux alentours de la moitié du combo maximum).
+Contrairement à [osu!](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), un Miss dans osu!taiko ne causera pas une différence *radicale* du score avec le score maximum atteignable. (dans osu!/osu!catch, la différence de score due à un Miss est d'autant plus large que le combo maximum, surtout si cela se produit aux alentours de la moitié du combo maximum).
 Au lieu de cela, un score constant de *n* (décrit ci-dessus) est réduit par Miss dans une beatmap si chaque Miss est séparé par 100 de combo ou plus.
 Avec la présence de Shakers ou de grandes notes, la perte de score sera plus grande.
 
@@ -164,7 +164,7 @@ Exceptions :-
 
 #### osu!catch
 
-Le scoring pour osu!catch utilise le même multiplicateur qu'[osu!standard](/wiki/Game_mode/osu!).
+Le scoring pour osu!catch utilise le même multiplicateur qu'[osu!](/wiki/Game_mode/osu!).
 Cependant, le fruit réceptionné s'ajoute différemment au score.
 
 - Un Fruit normal donne un score de 300, multiplié par le multiplicateur.
@@ -183,11 +183,11 @@ Le combo ne sera pas rompu si des Droplets sont manqués (représentés en tant 
 | **Difficulty multiplier** | Le paramètre de difficulté de la beatmap |
 | **Mod multiplier** | Le multiplicateur correspondant aux mods sélectionnés |
 
-**Note:** Il existe des différences entre les systèmes de scoring d'osu!standard et d'osu!catch :
+**Note:** Il existe des différences entre les systèmes de scoring d'osu! et d'osu!catch :
 
 - Les 300 et les incrémentations de combo ne sont pas accordés lors de la complétion d'un Spinner
 - Les points de répétition de Slider sont comptés au score plein
-  - Pour osu!standard, ces objets comptent pour 30 points
+  - Pour osu!, ces objets comptent pour 30 points
 
 #### osu!mania
 
@@ -239,7 +239,7 @@ Flashlight                    1.06
 
 ## Autres scores
 
-Supposons qu'un joueur ait joué ces quatre beatmaps en ligne avec un compte osu! enregistré et connecté dans un seul mode de jeu, osu!standard :-
+Supposons qu'un joueur ait joué ces quatre beatmaps en ligne avec un compte osu! enregistré et connecté dans un seul mode de jeu, osu! :-
 
 - ![](/wiki/shared/icon/heart.gif) [BRANDY - The Festival of Ghosts 2 (darrihuka)](https://osu.ppy.sh/beatmapsets/3302)
   - Relaxing : 3,000,000
@@ -257,9 +257,9 @@ Supposons qu'un joueur ait joué ces quatre beatmaps en ligne avec un compte osu
   - **Normal : 2,000,000**
     - Essai hors-ligne : 50,000,000
 
-Le **Score classé total pour osu!standard** du joueur serait : 5,000,000 + 1,000,000 + 2,000,000 + 2,000,000 = **10,000,000 score**.
+Le **Score classé total pour osu!** du joueur serait : 5,000,000 + 1,000,000 + 2,000,000 + 2,000,000 = **10,000,000 score**.
 
-Similairement, le **Score total pour osu!standard** du joueur serait : (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000 + 2,450,000 + 50,000) + (2,000,000) = **17,500,000 score**.
+Similairement, le **Score total pour osu!** du joueur serait : (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000 + 2,450,000 + 50,000) + (2,000,000) = **17,500,000 score**.
 
 ### Score classé
 

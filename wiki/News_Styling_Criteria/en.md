@@ -144,6 +144,6 @@ The width of all embedded content frames must be set to ``width: 100%``. To be i
 
 All osu! related information should aim to use the new site wherever possible.
 
-This includes forum threads (``https://osu.ppy.sh/community/forums/13``), user profiles (``https://osu.ppy.sh/users/102335``), beatmapsets (``https://osu.ppy.sh/beatmapsets/611806#osu/1291369``), and any other view which has a fully functioning implementation in osu-web.
+This includes forum threads (``https://osu.ppy.sh/community/forums/13``), user profiles (``https://osu.ppy.sh/users/102335``), beatmaps (``https://osu.ppy.sh/beatmapsets/611806#osu/1291369``), and any other view which has a fully functioning implementation in osu-web.
 
 If unsure, ask a reviewer.

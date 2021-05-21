@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # BBCode
 
 ![Edytor postów na forum](img/editor.jpg "Pole edycji postów na forum")

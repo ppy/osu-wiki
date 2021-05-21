@@ -1,8 +1,6 @@
 ---
-outdated: true
+outdated: true  # TODO: rewrite this guide and not mention #modreqs (see issue #5441)
 ---
-
-<!-- TODO: modreqs doesn't work anymore -->
 
 # How to get your map modded
 

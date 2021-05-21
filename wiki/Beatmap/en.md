@@ -61,7 +61,7 @@ Beatmaps can be obtained through a few different ways:
 
 ### Beatmap listing
 
-Beatmaps from various categories are available from the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the website. They can be filtered according to certain conditions (e.g. beatmaps from [osu!taiko](/wiki/Game_mode/osu!) created by a certain mapper), and then downloaded one by one. [osu!supporters](/wiki/osu!supporter) have access to an extended set of filters, such as an ability to see beatmaps on which they achieved a certain rank.
+Beatmaps from various categories are available from the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the website. They can be filtered according to certain conditions (e.g. beatmaps from [osu!taiko](/wiki/Game_mode/osu!taiko) created by a certain mapper), and then downloaded one by one. [osu!supporters](/wiki/osu!supporter) have access to an extended set of filters, such as an ability to see beatmaps on which they achieved a certain rank.
 
 ### osu!direct
 

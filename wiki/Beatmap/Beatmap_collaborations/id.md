@@ -1,5 +1,7 @@
 ---
 stub: true
+outdated: true
+outdated_since: 596efd8dff27df4ce19401c51c3f809562ea6e95
 ---
 
 # Kolaborasi beatmap

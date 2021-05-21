@@ -222,8 +222,8 @@
 "beat_spacing":                "Glossary#beat-spacing"
 "beatmapid":                   "Beatmap#identification"
 "beatmap_id":                  "Beatmap#identification"
-"beatmapset":                  "Glossary#beatmapset"
-"mapset":                      "Glossary#beatmapset"
+"beatmapset":                  "Beatmap"
+"mapset":                      "Beatmap"
 "beatmapsetid":                "Beatmap#identification"
 "beatmapset_id":               "Beatmap#identification"
 "mapset_id":                   "Beatmap#identification"
@@ -746,8 +746,8 @@
 "medal":                           "Medals"
 "achievements":                    "Medals"
 "achievement":                     "Medals"
-"achievements/beatmap_packs_0916": "Medals/Beatmap_Packs_0916"
-"beatmap_packs_0916":              "Medals/Beatmap_Packs_0916"
+"achievements/beatmap_packs_0916": "Medals/Legacy_Beatmap_Packs"
+"beatmap_packs_0916":              "Medals/Legacy_Beatmap_Packs"
 
 "modded":                      "Modding"
 
@@ -1035,6 +1035,16 @@
 
 "rule":                        "Rules"
 "osu!:rules":                  "Rules"
+"content_voting":              "Rules/Content_Voting_Process"
+"content_licencing":           "Rules/Content_Usage_Guidelines"
+"content_licensing":           "Rules/Content_Usage_Guidelines"
+"licencing":                   "Rules/Content_Usage_Guidelines"
+"licensing":                   "Rules/Content_Usage_Guidelines"
+"explicit":                    "Rules/Explicit_Content"
+"scr":                         "Rules/Song_Content_Rules"
+"song_content":                "Rules/Song_Content_Rules"
+"songs_content":               "Rules/Song_Content_Rules"
+"vcc":                         "Rules/Visual_Content_Considerations"
 
 "scorev1":                     "Score/ScoreV1"
 "scorev2":                     "Score#scorev2"
@@ -1682,3 +1692,6 @@
 
 # Moved "Live_Streaming_osu!" to "Livestreaming_osu!"
 "guides/live_streaming_osu!": "Guides/Livestreaming_osu!"
+
+# Moved "Beatmap_Packs_0916" to "Legacy_Beatmap_Packs"
+"medals/beatmap_packs_0916": "Medals/Legacy_Beatmap_Packs"

@@ -22,7 +22,7 @@ tags:
 
 ![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** курирует проект, пишет новости и посты на форуме, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) ведёт общедоступные таблицы и помогает модерировать обсуждения категории Loved, а ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) и ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) проверяют метаданные карт, которые будут выставлены на голосование. Остальная часть команды — это капитаны:
 
-### Капитаны osu!standard
+### Капитаны osu!
 
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
@@ -31,8 +31,9 @@ tags:
 ### Капитаны osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
-- ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
+- ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
+- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
 - ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 
 ### Капитаны osu!catch
@@ -46,6 +47,7 @@ tags:
 
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
+- ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
@@ -64,6 +66,7 @@ tags:
 [flag_LV]: /wiki/shared/flag/LV.gif "Латвия"
 [flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
 [flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
+[flag_RU]: /wiki/shared/flag/RU.gif "Российская Федерация"
 [flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
 [flag_TW]: /wiki/shared/flag/TW.gif "Тайвань"
 [flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"

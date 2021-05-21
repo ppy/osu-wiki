@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # BBCode
 
 ![论坛中的编辑器与按钮](img/editor.jpg "论坛中的编辑器")

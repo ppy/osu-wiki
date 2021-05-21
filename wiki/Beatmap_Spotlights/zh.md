@@ -15,7 +15,7 @@ tags:
 
 **聚光灯仍在测试运行当中，许多功能仍在等待实现。** 该系统的各种细节（例如奖励，赛季排名或游戏内功能）会被随时更改。
 
-当前赛季为 2020 夏。
+当前赛季为 2021 冬。
 
 ## 组织
 
@@ -118,14 +118,14 @@ tags:
 
 | 徽章 | 段位 | 排名 |
 | :-: | :-- | :-- |
-| ![](img/badges/autumn_2020/osu/ri_2.png) ![](img/badges/autumn_2020/osu/ri_3.png) | 人韵合一（Rhythm Incarnate） | Top 50 |
-| ![](img/badges/autumn_2020/osu/diamond_2.png) ![](img/badges/autumn_2020/osu/diamond_3.png) | 钻石（Diamond） | Top 51 – 3% |
-| ![](img/badges/autumn_2020/osu/platinum_2.png) ![](img/badges/autumn_2020/osu/platinum_3.png) | 铂金（Platinum） | 3% – 10% |
-| ![](img/badges/autumn_2020/osu/gold_2.png) ![](img/badges/autumn_2020/osu/gold_3.png) | 黄金（Gold） | 10% – 25% |
-| ![](img/badges/autumn_2020/osu/silver_2.png) ![](img/badges/autumn_2020/osu/silver_3.png) | 白银（Silver） | 25% – 50% |
-| ![](img/badges/autumn_2020/osu/bronze_2.png) ![](img/badges/autumn_2020/osu/bronze_3.png) | 青铜（Bronze） | 50% – 70% |
-| ![](img/badges/autumn_2020/osu/copper_2.png) ![](img/badges/autumn_2020/osu/copper_3.png) | 黄铜（Copper） | 70% – 95% |
-| ![](img/badges/autumn_2020/osu/iron_2.png) ![](img/badges/autumn_2020/osu/iron_3.png) | 黑铁（Iron） | 95% – 100% |
+| ![](img/badges/winter_2021/osu/ri_1.png) ![](img/badges/winter_2021/osu/ri_2.png) | 人韵合一（Rhythm Incarnate） | Top 50 |
+| ![](img/badges/winter_2021/osu/diamond_1.png) ![](img/badges/winter_2021/osu/diamond_2.png) | 钻石（Diamond） | Top 51 – 3% |
+| ![](img/badges/winter_2021/osu/platinum_1.png) ![](img/badges/winter_2021/osu/platinum_2.png) | 铂金（Platinum） | 3% – 10% |
+| ![](img/badges/winter_2021/osu/gold_1.png) ![](img/badges/winter_2021/osu/gold_2.png) | 黄金（Gold） | 10% – 25% |
+| ![](img/badges/winter_2021/osu/silver_1.png) ![](img/badges/winter_2021/osu/silver_2.png) | 白银（Silver） | 25% – 50% |
+| ![](img/badges/winter_2021/osu/bronze_1.png) ![](img/badges/winter_2021/osu/bronze_2.png) | 青铜（Bronze） | 50% – 70% |
+| ![](img/badges/winter_2021/osu/copper_1.png) ![](img/badges/winter_2021/osu/copper_2.png) | 黄铜（Copper） | 70% – 95% |
+| ![](img/badges/winter_2021/osu/iron_1.png) ![](img/badges/winter_2021/osu/iron_2.png) | 黑铁（Iron） | 95% – 100% |
 
 该表仅展示四个徽章设计中的 osu! 版本。每种游戏模式都有其自己的徽章设计。
 

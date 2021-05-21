@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Getting Your Map Modded
 
 당신의 비트맵이 [랭크가](/wiki/Beatmap/Category#ranked) 되기 위해 [모딩를](/wiki/Modding) 받을 필요가 있습니다. 아래는 Mod를 받을수 있는 몇가지 방법들 입니다.

@@ -30,7 +30,7 @@ In September of 2017, the *QAT Gazette* series began using [osu!news](https://os
 
 #### November
 
-- [osu!standard BN Examination](https://osu.ppy.sh/home/news/2016-11-08-osustandard-bn-examination)
+- [osu! BN Examination](https://osu.ppy.sh/home/news/2016-11-08-osustandard-bn-examination)
 - [BN Test Review (osu!taiko, catch and mania)](https://osu.ppy.sh/home/news/2016-11-27-bn-test-review-osutaiko-catch-and-mania)
 
 ### 2017

@@ -38,7 +38,7 @@ Most of the time, combo plays a major part in the scoring system since it serves
 | ![](img/catch-100.jpg "Juice Drop") | Juice Drops (Slider Tick) | These large droplets signifies Slider's ticks, similar to the dots (slider ticks) inside the sliders. It is compulsory to catch for combo. It is twice the size of Droplet (Slider Trails). 30pt for successful capture (shown as 100 on multiplayer and result). |
 | ![](img/catch-50.jpg "Droplet") | Droplets (Slider Trail) | These small droplets are slider trails. They form the trails of the slider and are smaller comparatively to Juice Drops. 10pt for each Droplets. It would decrease accuracy for not capturing but does not break combo count (shown as 50 on multiplayer and result) |
 | (None) | Miss Droplets | Droplets (Slider Trails) not caught. Not shown in Results screen but is shown in server-side. Combo will not be broken but will decrease accuracy and lose out one of the 50's score. Not considered a miss. Not shown at multiplayer and result but shown as *Droplet Miss* in website leaderboard. |
-| ![](img/catch-banana.jpg "Banana") | Bananas | Spinner's equivalent. These pesky Bananas will become smaller as they fall towards the catcher. It is not compulsory to catch them. 1,100pt given, however this one follows spinner clear in osu!standard which combines 1000 as bonus and 100 as spinning score. |
+| ![](img/catch-banana.jpg "Banana") | Bananas | Spinner's equivalent. These pesky Bananas will become smaller as they fall towards the catcher. It is not compulsory to catch them. 1,100pt given, however this one follows spinner clear in osu! which combines 1000 as bonus and 100 as spinning score. |
 | ![](img/catch-0.jpg "Miss") | Miss | Normal Fruit and Juice Drops not caught. Breaks combo count. Given when failed to catch the Fruit/Juice Drops. No score given and breaks combo. This can only be seen from the results screen. |
 
 ### osu!mania
@@ -75,7 +75,7 @@ ScoreV2 attempts to standardise all the game modes' scoring system to 1,000,000 
 Each of the hit objects are now part of the 1 million score and scaled accordingly rather than their own scoring values and bonus formulae.
 
 ScoreV2 can be tested in [Multi](/wiki/Multi) mode as one of the Match Setup's Win Condition.
-As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3), the ScoreV2 system can be tested in *Solo* mode using the **UNRANKED** [ScoreV2](/wiki/Game_modifier/ScoreV2) game modifier.
+As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), the ScoreV2 system can be tested in *Solo* mode using the **UNRANKED** [ScoreV2](/wiki/Game_modifier/ScoreV2) game modifier.
 
 ### Score
 
@@ -124,7 +124,7 @@ For 4 - 4.5 star difficulties, `n` is equal to 64 in which the maximum score per
 In the hardest case, `n` is equal to 96 in which the maximum score per hit is 1,260/2,520.
 There are lower value of `n` for even easier difficulties.
 
-Unlike [osu!standard](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), a miss in osu!taiko will not cause a *drastic* score difference from the maximum possible score (in osu!standard/osu!catch, score deviation damage from a miss grows *wider* the higher the maximum combo and especially breaking in around half combo of the maximum combo).
+Unlike [osu!](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), a miss in osu!taiko will not cause a *drastic* score difference from the maximum possible score (in osu!/osu!catch, score deviation damage from a miss grows *wider* the higher the maximum combo and especially breaking in around half combo of the maximum combo).
 Instead, a constant score of `n` (explained above) is reduced per miss if each miss is separated by more than 100 combos.
 With the existence of shaker and large notes, score loss would be larger.
 
@@ -153,8 +153,8 @@ Exceptions:-
 
 #### osu!catch
 
-Scoring for osu!catch follows the same multiplier as in [osu!standard](/wiki/Game_mode/osu!).
-However, the fruit that adds up the score is different from osu!standard.
+Scoring for osu!catch follows the same multiplier as in [osu!](/wiki/Game_mode/osu!).
+However, the fruit that adds up the score is different from osu!.
 
 - A regular sized fruit gives a score of 300 times the multiplier.
 - A large juice drop (slider tick) gives a score of 100.
@@ -172,11 +172,11 @@ Combo will not be lost for missing droplets (considered as *Miss Droplet* in ser
 | **Difficulty multiplier** | The difficulty setting for the beatmap |
 | **Mod multiplier** | The multiplier of the selected mods |
 
-**Note:** There is a difference between osu!standard and osu!catch's scoring methods:
+**Note:** There is a difference between osu! and osu!catch's scoring methods:
 
 - 300s and a combo increment are not given to a finished spinner
 - reverse slider ticks are counted as a full score of a hit
-  - note that in osu!standard, a reverse tick only gives 30 points
+  - note that in osu!, a reverse tick only gives 30 points
 
 #### osu!mania
 
@@ -228,7 +228,7 @@ Flashlight                    1.06
 
 ## Other Scores
 
-Suppose a player played these four beatmaps online with a signed in osu!account on a single game mode, osu!standard:
+Suppose a player played these four beatmaps online with a signed in osu!account on a single game mode, osu!:
 
 - ![](/wiki/shared/icon/heart.gif) [BRANDY - The Festival of Ghosts 2 (darrihuka)](https://osu.ppy.sh/beatmapsets/3302)
   - **Relaxing**: 3,000,000
@@ -246,9 +246,9 @@ Suppose a player played these four beatmaps online with a signed in osu!account 
   - **Normal**: 2,000,000
     - Offline play : 50,000,000
 
-The player's **total ranked score for osu!standard** would be: (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000) + 2,000,000 = **15,000,000 score**.
+The player's **total ranked score for osu!** would be: (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000) + 2,000,000 = **15,000,000 score**.
 
-Meanwhile, the player's **total score for osu!standard** would be: (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000 + 2,450,000 + 50,000) + (2,000,000) = **17,500,000 score**.
+Meanwhile, the player's **total score for osu!** would be: (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000 + 2,450,000 + 50,000) + (2,000,000) = **17,500,000 score**.
 
 ### Ranked Score
 

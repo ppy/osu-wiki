@@ -30,7 +30,7 @@ Kategori ini ada untuk memberikan tanggapan-tanggapan dari Komunitas osu! dengan
 
 ## Pengulangan nominasi
 
-Pengulangan nominasi *(nomination reset)* membantu memastikan bahwa modder, BN dan anggota NAT memeriksa versi terbaru dari beatmapset sebelum memasuki antrian ranking.
+Pengulangan nominasi *(nomination reset)* membantu memastikan bahwa modder, BN dan anggota NAT memeriksa versi terbaru dari beatmap sebelum memasuki antrian ranking.
 
 Nominasi dapat disetel ulang ketika pembuat beatmapset melakukan pembaruan atau ketika anggota dari BN maupun NAT menemukan sebuah masalah di dalam beatmapset yang ternominasi. Mereka juga dapat disetel ulang oleh anggota dari [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) apabila beatmap yang dimaksud mengandung konten yang tidak pantas. Jika sebuah beatmapset sedang berada di Qualified ketika nominasinya disetel ulang, beatmapset tersebut akan didiskualifikasi dan dihapus dari antrian ranking.
 
