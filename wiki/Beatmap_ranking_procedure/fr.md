@@ -16,7 +16,7 @@ Avant d'être proposés au classement, les beatmaps doivent recevoir des message
 
 ## Nominations
 
-Les membres du groupe des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) sont des moddeurs expérimentés capables de proposer des beatmaps classable. Leur rôle est de s'assurer qu'une beatmapset répond aux [critères de classement](/wiki/Ranking_Criteria) ainsi qu'à leurs propres critères de qualité.
+Les membres du groupe des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) sont des moddeurs expérimentés capables de proposer des beatmaps classable. Leur rôle est de s'assurer qu'une beatmap répond aux [critères de classement](/wiki/Ranking_Criteria) ainsi qu'à leurs propres critères de qualité.
 
 Les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) peuvent également nommer des beatmaps, mais ce n'est pas leur rôle principal.
 
