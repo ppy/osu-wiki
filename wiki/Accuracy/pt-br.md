@@ -92,7 +92,7 @@ Um gráfico da sua performance durante uma jogada.
 
 Informações adicionais são mostradas quando o cursor do jogo é passado por cima do gráfico.
 
-![Performance Graph](img/performance_graph.jpg "Performance Graph")
+![Performance Graph](img/performance_graph.png "Performance Graph")
 
 #### Precisão
 
@@ -114,5 +114,6 @@ Informações adicionais são mostradas quando o cursor do jogo é passado por c
 
 - Os valores citados logo acima **não serão salvos** e desaparecerão após fechar o osu!. Para poder conferí-los novamente, assista a um replay.
 - Devido ao jeito que os mods Double Time (DT) e Half Time (HT) foram implementados, os valores do Miss Rate e Unstable Rate serão multiplicados pelo mesmo fator da música.
+
 Para obter os valores reais quando jogar com o mod DT, divida os resultados por *1.5*.
 Da mesma forma, multiplique os resultados por *1.33* quando estiver jogando com o mod HT.
