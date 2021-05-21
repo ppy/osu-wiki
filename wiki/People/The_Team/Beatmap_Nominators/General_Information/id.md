@@ -23,7 +23,7 @@ Nominasi dan mereset nominasi adalah bukti dari usaha seorang Beatmap Nominator 
 
 ![tombol nominasi](img/nominate_id.png)
 
-**Tombol ini memungkinkan kamu untuk menominasi beatmap.** Untuk menominasi sebuah beatmap, mapset harus memiliki setidaknya 5 Hype dan tidak ada tanda Masalah atau Saran yang saat ini belum terselesaikan. Pastikan kamu puas dengan semua tingkat kesulitan, bahkan mode permainan lainnya, sebelum menempatkan ini. Jika beatmapset sebelumnya diveto, kamu harus memastikan veto tersebut sudah diselesaikan sebelum memajukan mapset. Ketika sebuah beatmap memiliki 2 nominasi, itu akan dikualifikasi dan masuk ke antrian ranking.
+**Tombol ini memungkinkan kamu untuk menominasi beatmap.** Untuk menominasi sebuah beatmap, mapset harus memiliki setidaknya 5 Hype dan tidak ada tanda Masalah atau Saran yang saat ini belum terselesaikan. Pastikan kamu puas dengan semua tingkat kesulitan, bahkan mode permainan lainnya, sebelum menempatkan ini. Jika beatmap sebelumnya diveto, kamu harus memastikan veto tersebut sudah diselesaikan sebelum memajukan mapset. Ketika sebuah beatmap memiliki 2 nominasi, itu akan dikualifikasi dan masuk ke antrian ranking.
 
 ### Diskualifikasi atau mereset nominasi
 
@@ -31,7 +31,7 @@ Nominasi dan mereset nominasi adalah bukti dari usaha seorang Beatmap Nominator 
 
 **Ini memungkinkan kamu untuk mereset perkembangan dari sebuah beatmap dalam proses ranking.** Jika sebuah beatmap saat ini dinominasi atau dikualifikasi, kamu sebagai seorang nominator diberikan kemampuan untuk mereset nominasi pada beatmap dengan memposting sebuah tanda Masalah. Jika sebuah beatmap dikualifikasi, itu hanya dapat didiskualifikasi oleh seorang full Beatmap Nominator. Opsi ini biasanya digunakan ketika ada masalah besar atau masalah unrankable dalam beatmap yang harus ditangani sebelum mempertimbangkannya untuk ranking.
 
-Langkah-langkah untuk Mendiskualifikasi Beatmapset:
+Langkah-langkah untuk Mendiskualifikasi Beatmap:
 
 - Pastikan bahwa kamu berada di diskusi beatmap pada set yang benar.
 - Tulis alasan diskualifikasi kamu ke dalam kolom teks. Pastikan bahwa baris pertama merangkum diskualifikasi karena inilah yang ditampilkan di bagian atas halaman diskusi.

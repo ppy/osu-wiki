@@ -67,8 +67,8 @@ Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wik
 | `Version` | String | Nome da dificuldade |
 | `Source` | String | Mídia original para a qual a música foi produzida |
 | `Tags` | Lista de strings separadas por espaços | Termos de pesquisa |
-| `BeatmapID` | Integer | ID do beatmap |
-| `BeatmapSetID` | Integer | ID do beatmapset |
+| `BeatmapID` | Integer | ID do dificuldade |
+| `BeatmapSetID` | Integer | ID do beatmap |
 
 ## Difficulty
 
@@ -116,7 +116,7 @@ Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wik
 
 *Para informções sobre a sintaxe de storyboards, veja [Storyboard Scripting](/wiki/Storyboard_Scripting).*
 
-Os storyboards podem ser definidos em um arquivo de storyboard separado, com a extensão `.osb`. Storyboards externos são compartilhados com todos os beatmaps em um beatmapset.
+Os storyboards podem ser definidos em um arquivo de storyboard separado, com a extensão `.osb`. Storyboards externos são compartilhados com todos os dificuldades em um beatmap.
 
 Cada beatmap pode conter seu próprio storyboard de dificuldade, em conjunto com o storyboard externo ou sozinho.
 

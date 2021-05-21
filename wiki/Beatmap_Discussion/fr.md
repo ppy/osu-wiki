@@ -38,7 +38,7 @@ Il est important de garder quelques éléments à l'esprit pour utiliser efficac
 
 ![](img/mode-selection-FR.png "Sélection du mode")
 
-La sélection du mode change le [mode de jeu](/wiki/Game_mode) que vous modifiez. Il n'est possible de sélectionner un mode de jeu que si la beatmapset possède une difficulté de ce mode. Cette option n'est utilisée qu'avec les beatmap contenant plusieurs modes de jeu ; sinon, le mode sélectionné par défaut sera utilisé.
+La sélection du mode change le [mode de jeu](/wiki/Game_mode) que vous modifiez. Il n'est possible de sélectionner un mode de jeu que si la beatmap possède une difficulté de ce mode. Cette option n'est utilisée qu'avec les beatmap contenant plusieurs modes de jeu ; sinon, le mode sélectionné par défaut sera utilisé.
 
 ## En-tête de la beatmap
 
@@ -94,7 +94,7 @@ Le statut de la nomination permet de suivre les nominations d'une beatmap. Lorsq
 
 ### Informations générales
 
-Les informations générales indiquent le créateur de la beatmapset, la date de soumission et la date de la dernière mise à jour. Les [changements de statut](/wiki/Beatmap), tels que le classement, l'appréciation ou le classement au cimetière d'une beatmap, sont également considérés comme des mises à jour et seront affichés ici.
+Les informations générales indiquent le créateur de la beatmap, la date de soumission et la date de la dernière mise à jour. Les [changements de statut](/wiki/Beatmap), tels que le classement, l'appréciation ou le classement au cimetière d'une beatmap, sont également considérés comme des mises à jour et seront affichés ici.
 
 ### Suivre/Ne plus suivre
 
@@ -110,7 +110,7 @@ Le bouton `Page de la beatmap` permet de naviguer vers la page d'information d'u
 
 Le mod se fait par le biais de trois onglets, qui séparent les messages de différents types et les divisent en formats lisibles. En outre, un quatrième onglet enregistre toutes les modifications. Le nombre à côté de chaque onglet décrit le nombre de messages qu'il contient.
 
-`Général (toutes les difficultés)` affiche les messages qui s'appliquent à toutes les difficultés. Les messages courants de cet onglet comprennent les métadonnées, les notes et les discussions sur l'ensemble de la beatmapset.
+`Général (toutes les difficultés)` affiche les messages qui s'appliquent à toutes les difficultés. Les messages courants de cet onglet comprennent les métadonnées, les notes et les discussions sur l'ensemble de la beatmap.
 
 `Général (Cette difficulté)` affiche les messages qui ne s'appliquent qu'à la difficulté actuellement sélectionnée. Les messages les plus courants de cet onglet concernent les paramètres de la beatmap, les problèmes récurrents et les discussions générales sur la difficulté sélectionnée.
 
@@ -134,7 +134,7 @@ Si vous postez dans l'onglet `Chronologie`, vous devez inclure un horodatage dan
 
 Les discussions sont l'endroit où les messages du [champ de soumission](#champ-de-soumission) sont placés une fois soumis. Les utilisateurs qui visitent une page de discussion peuvent voir les messages rédigés par tous les autres utilisateurs, et pourront participer à la discussion sur les messages. Pour ce faire, il suffit de cliquer sur les boutons "Répondre" ou "Répliquer" sous un message et d'écrire une réponse. Après avoir terminé une réponse, appuyez sur la touche "Entrée" ou cliquez sur "Répondre" pour la soumettre à la discussion.
 
-Le créateur du beatmapset et l'auteur d'un modpost, ont la possibilité de fermer les problèmes avec le bouton `Marquer comme résolu`. Cela indique aux autres utilisateurs que le problème a été traité et le supprime de la liste des questions dans [l'option de tri](#options-de-tri) `En Attente`. Les modposts peuvent être réouverts par n'importe quel utilisateur en ajoutant des réponses supplémentaires à un post et en cliquant sur `Répondre et réouvrir`. Ceci est utilisé lorsque les moddeurs tombent sur des problèmes fermés qui n'ont pas été entièrement résolus, ou lorsqu'un sujet nécessite une discussion plus approfondie.
+Le créateur de la beatmap et l'auteur d'un modpost, ont la possibilité de fermer les problèmes avec le bouton `Marquer comme résolu`. Cela indique aux autres utilisateurs que le problème a été traité et le supprime de la liste des questions dans [l'option de tri](#options-de-tri) `En Attente`. Les modposts peuvent être réouverts par n'importe quel utilisateur en ajoutant des réponses supplémentaires à un post et en cliquant sur `Répondre et réouvrir`. Ceci est utilisé lorsque les moddeurs tombent sur des problèmes fermés qui n'ont pas été entièrement résolus, ou lorsqu'un sujet nécessite une discussion plus approfondie.
 
 ### Tri des discussions
 
