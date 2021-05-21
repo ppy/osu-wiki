@@ -64,8 +64,6 @@ The Skins folder holds user-created skins, which can be used to customise the in
 
 ### Songs
 
-*Caution: Be careful with these files, you might break osu! if you are not careful.*
-
 The Songs folder holds the player's osu! beatmaps. Usually contains `.osu` (difficulties), `.mp3`/`.ogg` (music files), `.jpg`/`.png`/`.gif` (background images), `.osb` (storyboard files) and `.mp4`/`.flv` (video files). May also contain `.wav`/`.ogg` (hitsound files) and folders (storyboard spites and/or skin folders).
 
 The file name structure is `{Beatmap number} {Artist} - {Song Title}`.
