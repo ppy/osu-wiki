@@ -15,5 +15,3 @@ Les beatmaps doivent avoir au moins 5 hype (une mesure complète du train de la 
 ## Limite
 
 Les utilisateurs commencent avec un quota de 10 hypes, et ils sont consommés lorsqu'ils sont utilisés sur les beatmaps. Chaque hype met une semaine à redevenir disponible.
-
-<!-- TODO: images of the beatmapset page and the modding page -->
