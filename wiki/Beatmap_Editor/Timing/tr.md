@@ -2,7 +2,7 @@
 
 *Ayrıca bakınız: [Şarkılar nasıl zamanlanır](/wiki/Guides/How_to_Time_Songs)*
 
-![Editördeki zamanlama penceresinin ekran görüntüsü](img/Timing_base.png)
+![Editördeki zamanlama penceresinin ekran görüntüsü](img/Timing_base.jpg)
 
 [Beatmap editörünün](/wiki/Beatmap_Editor) **zamanlama penceresi** bir [beatmapin](/wiki/Beatmap) zamanlama ayarlarının mapperlar tarafından değiştirilebilmesini sağlar. Zamanlama genellikle yeni bir beatmap yaparken atılan ilk atımdır.
 
@@ -10,7 +10,7 @@ Zamanlama, bir şarkının [offseti](/wiki/Beatmapping/Offset), [dakika başı v
 
 ## Zamanlama ve Kontrol Noktaları penceresi
 
-![Zamanlama ve Kontrol Noktaları penceresi ekran görüntüsü](img/TimingSetup.png)
+![Zamanlama ve Kontrol Noktaları penceresi ekran görüntüsü](img/TimingSetup.jpg)
 
 Zamanlama noktaları editördeki `Zamanlama ve Kontrol Noktaları` penceresinden (varsayılan kısayolu `F6`) eklenebilir. Zamanlama noktaları bir şarkının zamanlamasındaki değişiklikleri doğru bir şekilde yansıtabilmek için bir şarkıyı parçalara böler.
 

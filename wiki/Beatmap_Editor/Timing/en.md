@@ -2,7 +2,7 @@
 
 *See also: [How to time songs](/wiki/Guides/How_to_Time_Songs)*
 
-![Screenshot of the timing tab in the editor](img/Timing_base.png)
+![Screenshot of the timing tab in the editor](img/Timing_base.jpg)
 
 The **timing tab** of the [beatmap editor](/wiki/Beatmap_Editor) lets mappers change the timing settings of a [beatmap](/wiki/Beatmap). Timing is usually the first step in creating a new beatmap.
 
@@ -10,7 +10,7 @@ Timing consists of a song's [offset](/wiki/Beatmapping/Offset), [beats per minut
 
 ## Timing and Control Points window
 
-![Screenshot of the Timing and Control Points window](img/TimingSetup.png)
+![Screenshot of the Timing and Control Points window](img/TimingSetup.jpg)
 
 Timing points can be added from the `Timing and Control Points` window in the editor (default shortcut `F6`). Timing points divide a song into timing sections to accurately reflect changes to a song's timing.
 

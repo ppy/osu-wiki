@@ -10,7 +10,7 @@ Le timing est constitué du [décalage](/wiki/Beatmapping/Offset), des [battemen
 
 ## Fenêtre Timing et Control Points
 
-![Screenshot de la fenêtre Timing et Control Points](img/TimingSetup.png)
+![Screenshot de la fenêtre Timing et Control Points](img/TimingSetup.jpg)
 
 Les points de timing peuvent être ajoutés à partir de la fenêtre `Timing and Control Points` de l'éditeur (raccourci par défaut `F6`). Les points de timing divisent un morceau en sections de synchronisation pour refléter précisément les changements de timing d'un morceau.
 
