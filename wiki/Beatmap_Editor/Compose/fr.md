@@ -206,7 +206,8 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Additions | Auto, Normal, Soft, Drum | Même chose que ci-dessus, MAIS les réglages des additions écrasent les réglages du sampleset. Exemple : Timing **Drum 55%**, Sampleset **Soft**, alors que cette Additions est **Normal**, jouera tous les sons **Normal** sur les notes comme clap, normal, finish, whistle avec un volume de 55%. |
 | Select (`1`) | **Clic gauche/glisser :** Déplacement de l'horodatage et de l'emplacement d'une note. **Clic droit :** Supprimer la note. **`Ctrl` + Clic :** Sélection multiple. | Sélectionne et modifie les notes existantes. |
 | Circle (`2`) | **Clic gauche/droit :** Placer/supprimer la note. | Ajoute une note à la colonne actuelle en fonction de la position de la souris. |
-| Hold (`3`) | **Clic gauche (maintien):** Placez une hold note et ajustez la longueur. **Relâcher à la fin:** Définir une longueur de hold | Ajoute une hold note à la colonne actuelle en fonction de la position de la souris. |
+| Hold (`3`) | **Clic gauche (maintenu) :** Place une hold note et ajuste la longueur. **Relâcher à la fin: ** Définit la longueur de la hold note | Ajoute une hold note à la colonne actuelle en fonction de la position de la souris. |
+
 
 ### Centre (Terrain de jeu)
 
