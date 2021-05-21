@@ -41,7 +41,7 @@ Technically, this is the best way to squash commits from a branch when limited t
 
 ## My branch is out of date!
 
-When you created your fork of the `osu-wiki` repo, you took a snapshot of the contents at that very moment. The problem is that it doesn't automatically update on its own, nor is there a feature from GitHub to do this for you<!--outdated: there is now a button to fetch upstream below the green button to download your fork-->.
+When you created your fork of the `osu-wiki` repo, you took a snapshot of the contents at that very moment. The problem is that it doesn't automatically update on its own, nor is there a feature from GitHub to do this for you<!--outdated: there is now a button to fetch upstream below the green button to download your fork on the github site-->.
 
 ---
 
