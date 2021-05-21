@@ -22,7 +22,7 @@ tags:
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - Default shortcut key: `F`
-  - Default shortcut key ([osu!mania](/wiki/Game_mode/osu!catch)): `F` `F` or `Shift`+`F`
+  - Default shortcut key ([osu!mania](/wiki/Game_mode/osu!mania)): `F` `F` or `Shift`+`F`
 - Caption:
   - ![][osu!]: `Play with no approach circles and fading notes for a slight score advantage.`
   - ![][osu!taiko]: `The notes fade out before you hit them!`
@@ -47,7 +47,7 @@ Although it should be noted that the Hidden mod is considered the easiest diffic
 
 In [osu!taiko](/wiki/Game_mode/osu!taiko), the notes fade out at around halfway through the screen, requiring players to remember the timing and colour. However, sliders and dendens still cross the full timeline and do not fade out, with the condition that the denden has no approach circle to indicate when it times out.
 
-On beatmaps with high overall difficulty, the Hidden mod is used by experienced players to increase score instead of the [Hard Rock (HR)](/wiki/Game_modififer/Hard_Rock) mod because HR occasionally makes the timing window too small.
+On beatmaps with high overall difficulty, the Hidden mod is used by experienced players to increase score instead of the [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock) mod because HR occasionally makes the timing window too small.
 
 Unlike osu!, the Hidden mod is typically regarded as much harder to read or "get used-to" due to requiring the player to memorize which color comes next.
 
