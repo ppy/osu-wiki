@@ -44,7 +44,12 @@ When you created your fork of the `osu-wiki` repo, you took a snapshot of the co
 
 1. Go to your fork of the `osu-wiki` repo.
 2. Select the branch, that you intend to update, from the dropdown.
+
+![](img/select-branch.png "Selecting the outdated branch in your fork repository")
+
 3. Click `Fetch upstream`, and select `Fetch and merge`.
+
+![](img/update-branch.png "Updating the outdated branch")
 
 Now your branch will be up-to-date with the upstream repository!
 
