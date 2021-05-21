@@ -347,7 +347,7 @@ Pour changer le nombre forcé de touches, allez dans Song Setup sous l'onglet Di
 
 - osu!mania est sorti le [08 October 2012 (2012-10-08), principalement implémenté par woc2006](https://osu.ppy.sh/community/forums/posts/1825880).
 - L'ancien éditeur d'osu!mania *demandait* au mappeur de placer des cercles et des sliders dans un terrain de jeu d'osu!, où la scène sera retranscrite en notes propres basées sur la position des cercles et autres hit objects utilisés.
-- Le tout premier beatmapset osu!mania a être officiellement ranké est [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/beatmapsets/63089).
+- La toute première beatmap osu!mania a être officiellement ranké est [fripSide - only my railgun (TV Size) (DJPop)](https://osu.ppy.sh/beatmapsets/63089).
 
 ## Références
 

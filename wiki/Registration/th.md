@@ -17,6 +17,6 @@
 
 อย่าลืมอ่าน[กฎ](/wiki/Rules)ให้ดีด้วยนะ!
 
-หลังจากที่อ่านกฎเสร็จแล้ว ก็พร้อมที่จะผจญภัยในโลกของเพลงและจังหวะแล้วหล่ะ หลังจากนี้จะสามารถ[เพิ่มบีทแมพ](/wiki/Installation#adding-beatmapsets) [เปลี่ยนสกิน](/wiki/Skinning) [สร้างบีทแมพ](/wiki/Beatmapping) หรือจะแวะมาทักทายกันใน[ฟอรั่มย่อย Introductions](https://osu.ppy.sh/community/forums/8) ก็ได้นะ
+หลังจากที่อ่านกฎเสร็จแล้ว ก็พร้อมที่จะผจญภัยในโลกของเพลงและจังหวะแล้วหล่ะ หลังจากนี้จะสามารถ[เพิ่มบีทแมพ](/wiki/Installation#adding-beatmaps) [เปลี่ยนสกิน](/wiki/Skinning) [สร้างบีทแมพ](/wiki/Beatmapping) หรือจะแวะมาทักทายกันใน[ฟอรั่มย่อย Introductions](https://osu.ppy.sh/community/forums/8) ก็ได้นะ
 
 ถ้าต้องการความช่วยเหลือเพิ่มเติม สามารถขอความช่วยเหลือได้ในช่อง `#help` บน [IRC](/wiki/Internet_Relay_Chat) โดยการเปิดคอนโซลการพูดคุย (กด `F8` หรือ `F9` ในเกม) จากนั้นพิมพ์ `/join help` หรืออีกวิธีการคือสามารถโพสถามได้ที่[ฟอรั่มย่อย Help](https://osu.ppy.sh/community/forums/5) เหมือนกัน
