@@ -35,7 +35,7 @@ Penting untuk diperhatikan bagaimana menggunakan laman diskusi beatmap secara ef
 
 ![](img/mode-selection-ID.jpg "Pemilihan mode")
 
-Pemilihan mode merubah [mode permainan](/wiki/Game_mode) yang kamu modding. Pemilihan mode bisa dilakukan jika beatmapset tersebut memiliki mode permainan yang berbeda; jika tidak, maka akan ditampilkan mode permainan default.
+Pemilihan mode merubah [mode permainan](/wiki/Game_mode) yang kamu modding. Pemilihan mode bisa dilakukan jika beatmap tersebut memiliki mode permainan yang berbeda; jika tidak, maka akan ditampilkan mode permainan default.
 
 ## Beatmap header
 
@@ -91,7 +91,7 @@ Status bar nominasi akan melacak nominasi dari sebuah beatmap. Setelah beatmap t
 
 ### Informasi umum
 
-Informasi umum menunjukkan pembuat beatmapset, tanggal pengiriman, dan tanggal terakhir diperbarui. [Perubahan status](/wiki/Beatmap/Category), seperti beatmap yang mendapatkan status Ranked, Loved atau Graveyard, juga dianggap sebagai pembaruan dan akan ditampilkan di sini.
+Informasi umum menunjukkan pembuat beatmap, tanggal pengiriman, dan tanggal terakhir diperbarui. [Perubahan status](/wiki/Beatmap/Category), seperti beatmap yang mendapatkan status Ranked, Loved atau Graveyard, juga dianggap sebagai pembaruan dan akan ditampilkan di sini.
 
 ### Amati/Tidak amati
 
@@ -107,7 +107,7 @@ Tombol `Laman Beatmap` akan mengarahkan pengguna menuju ke laman info beatmap. I
 
 Modding terjadi melalui tiga tab, yang memisahkan postingan dari berbagai jenis dan membaginya menjadi format yang dapat dibaca. Selain itu, tab keempat mencatat semua perubahan. Nomor di samping setiap tab menggambarkan jumlah postingan di dalamnya.
 
-`Umum (Semua tingkat kesulitan)` menunjukkan postingan yang berlaku untuk semua tingkat kesulitan. Postingan yang umum di tab ini mencakup metadata, catatan, dan diskusi di beatmapset secara keseluruhan.
+`Umum (Semua tingkat kesulitan)` menunjukkan postingan yang berlaku untuk semua tingkat kesulitan. Postingan yang umum di tab ini mencakup metadata, catatan, dan diskusi di beatmap secara keseluruhan.
 
 `Umum (Tingkat kesulitan ini)` menunjukkan tulisan yang hanya berlaku untuk kesulitan yang saat ini dipilih. Postingan umum di tab ini termasuk pengaturan beatmap, masalah berulang dan diskusi umum tentang tingkat kesulitan yang dipilih.
 
@@ -131,7 +131,7 @@ Jika kamu memposting di tab `Linimasa`, kamu harus menyertakan timestamp di post
 
 Diskusi adalah postingan di mana [tempat pengajuan](#tempat-pengajuan) ditaruh ketika dikirim. Pengguna yang sedang mengunjungi laman diskusi bisa melihat postingan yang dibuat oleh semua pengguna lainnya, dan bisa ikut partisipasi dalam postingan diskusi. Diskusi bisa diselesaikan dengan mengklik tombol `Tanggapi` atau `Balas` di bawah postingan dan tulis sebuah tanggapan. Setelah selesai menanggapi, tekan `Enter` atau mengklik `Balas` untuk mengirimkan ke dalam diskusi.
 
-Pembuat beatmapset dan penulis dari postingan mod, memiliki kemampuan untuk menutup postingan masalah dengan tombol `Ditandai sebagai telah terjawab`. Ini menandai bahwa masalah telah ditangani oleh pengguna lain dan menghapusnya dari [opsi pengurutan](#opsi-pengurutan) `Belum terjawab`. Postingan mod dapat dibuka kembali oleh pengguna mana pun dengan menambahkan balasan lebih lanjut ke sebuah postingan dan mengklik `Balas dan Buka kembali`. Balasan ini digunakan ketika modder merasa kesalahan yang telah ditutup belum diperbaiki sepenuhnya, atau topik tersebut perlu didiskusikan lebih lanjut.
+Pembuat beatmap dan penulis dari postingan mod, memiliki kemampuan untuk menutup postingan masalah dengan tombol `Ditandai sebagai telah terjawab`. Ini menandai bahwa masalah telah ditangani oleh pengguna lain dan menghapusnya dari [opsi pengurutan](#opsi-pengurutan) `Belum terjawab`. Postingan mod dapat dibuka kembali oleh pengguna mana pun dengan menambahkan balasan lebih lanjut ke sebuah postingan dan mengklik `Balas dan Buka kembali`. Balasan ini digunakan ketika modder merasa kesalahan yang telah ditutup belum diperbaiki sepenuhnya, atau topik tersebut perlu didiskusikan lebih lanjut.
 
 ### Pengurutan diskusi
 

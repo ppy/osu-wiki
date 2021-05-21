@@ -119,7 +119,7 @@ La partie du bas montre [la console de chat](/wiki/Chat_Console).
 Un nouvel onglet appelé `#multiplayer` sera ouvert, avec [BanchoBot](/wiki/BanchoBot) qui fournira un lien vers l'historique des matchs.
 Le lien est `https://osu.ppy.sh/community/matches/x` (remplacez "x" avec le nombre généré par Bancho pour cette salle).
 
-Après la fin d'un match, le résultat sera affiché dans un nouvel onglet (privé) appelé `#userlog` (ne s'applique qu'avec le type de partie "Head-to-head") par [BanchoBot](/wiki/BanchoBot) avec écrit `Vous avez obtenu la {classement}e place sur {nombre de joueurs} en multi sur {beatmapset} [difficulté] <mode de jeu>.`
+Après la fin d'un match, le résultat sera affiché dans un nouvel onglet (privé) appelé `#userlog` (ne s'applique qu'avec le type de partie "Head-to-head") par [BanchoBot](/wiki/BanchoBot) avec écrit `Vous avez obtenu la {classement}e place sur {nombre de joueurs} en multi sur {beatmap} [difficulté] <mode de jeu>.`
 
 ---
 

@@ -12,7 +12,7 @@ outdated_since: 3c596a71cc876a14daabb7af66321a16db3885f6
 
 Dalam pembuatannya, storyboard seringkali sangat sulit dibuat dan memerlukan banyak waktu serta keahlian dibidang animasi dan pembuatan gambar.
 
-Storyboard biasanya terletak di bagian folder beatmap dengan format [`.osb`](/wiki/osu!_File_Formats/Osb_(file_format)) atau dapat dilihat pada bagian `[Events]` di [`.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Karena itu, sangat mungkin untuk membuat Storyboard berbeda dengan map yang berbeda antara [beatmapset](/wiki/Glossary#beatmapset).
+Storyboard biasanya terletak di bagian folder beatmap dengan format [`.osb`](/wiki/osu!_File_Formats/Osb_(file_format)) atau dapat dilihat pada bagian `[Events]` di [`.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Karena itu, sangat mungkin untuk membuat Storyboard berbeda dengan map yang berbeda antara [beatmap](/wiki/Beatmap).
 
 ## Pembuatan storyboard
 
