@@ -549,9 +549,9 @@ Lorsque vous créez un lien vers un profil d'utilisateur, le numéro d'identific
 
 Le texte du lien de l'utilisateur doit être le nom actuel de l'utilisateur.
 
-##### Beatmaps
+##### Difficultés
 
-Lorsque vous créez un lien vers une beatmap, utilisez ce format pour le texte du lien :
+Lorsque vous créez un lien vers une difficulté, utilisez ce format pour le texte du lien :
 
 ```
 {artist} - {title} ({creator}) [{difficuty_name}]
@@ -560,20 +560,20 @@ Lorsque vous créez un lien vers une beatmap, utilisez ce format pour le texte d
 Le lien vers une beatmap doit effectivement mener à cette difficulté. Les URL des difficultés de la beatmap doivent être formatées comme suit :
 
 ```
-https://osu.ppy.sh/beatmapsets/{BeatmapsetID}#{mode}/{BeatmapID}
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{mode}/{BeatmapID}
 ```
 
 Le nom de la difficulté peut être laissé en dehors du texte du lien, mais cela doit être cohérent dans tout l'article.
 
-##### Beatmapsets
+##### Beatmaps
 
-Lorsque vous créez un lien vers une beatmapset, utilisez ce format pour le texte du lien :
+Lorsque vous créez un lien vers une beatmap, utilisez ce format pour le texte du lien :
 
 ```
 {artist} - {title} ({creator})
 ```
 
-Toutes les URL des beatmapsets doivent être formatées comme suit :
+Toutes les URL des beatmaps doivent être formatées comme suit :
 
 ```
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
