@@ -41,11 +41,15 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
-| Mappool selector | ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
-| Referee | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364) |
-| Streamer | ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442) |
-| Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
+| Organiser | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Administrator | ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_AR] [trollocat](https://osu.ppy.sh/users/9228032) |
+| Mappool selector | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011), ![][flag_AR] [trollocat](https://osu.ppy.sh/users/9228032) |
+| Mapper | ![][flag_JP] [7\_7](https://osu.ppy.sh/users/7491106), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) |
+| Referee | ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387), ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_DK] [Colibz](https://osu.ppy.sh/users/13647254), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_GB] [NightmareParty](https://osu.ppy.sh/users/15671175), ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_PL] [SebekPlayed](https://osu.ppy.sh/users/7871365), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_GB] [SSScotty](https://osu.ppy.sh/users/10319851), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) |
+| Streamer | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_CL] [Touche](https://osu.ppy.sh/users/1603962), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_US] [Wilfred Murr](https://osu.ppy.sh/users/2598555), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Commentator | ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_GB] [hammygames](https://osu.ppy.sh/users/12232503), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_US] [Wilfred Murr](https://osu.ppy.sh/users/2598555) |
+| Designer | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
+| Statistician | ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
@@ -383,11 +387,24 @@ Sunday, 25 April 2021:
 5. 7 points to win the match in the Finals.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philipipnes"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
