@@ -221,7 +221,7 @@ Places of interest.
 
 | Name | Description |
 | :-- | :-- |
-| Set Current Position as Preview Point | Set this timestamp as yellow mark (demo except for Song Selection). |
+| Set Current Position as Preview Point | Set this timestamp as yellow mark (demo excerpt for Song Selection). |
 
 ## Web
 
