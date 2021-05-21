@@ -71,7 +71,7 @@ These shortcuts work anywhere:
 | `Shift` + `F2` | Go back to the previously random-selected beatmap. |
 | `F3` | Open the beatmap options. |
 | `F5` | Reprocess beatmaps (this may prompt you to continue). |
-| `Shift` + `Delete` | Prompt the delete beatmap dialog. This will ask you if you want to delete the beatmapset (all difficulties), the beatmap (the selected difficulty), or all visible beatmaps. |
+| `Shift` + `Delete` | Prompt the delete beatmap dialog. This will ask you if you want to delete the beatmap (all difficulties), a single difficulty, or all visible beatmaps. |
 | `Ctrl` + `1` | Switch the game mode to [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/Game_mode/osu!catch). |
@@ -82,10 +82,10 @@ These shortcuts work anywhere:
 | `Ctrl` + `F3` or `Ctrl` + `+` | Increase the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Decrease the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `Backspace` | Delete the last word in the search bar. |
-| `Up/Down Arrow` | Select the next beatmap up/down respectively. |
-| `Left/Right Arrow` | Select the next beatmapset up/down respectively. |
+| `Up/Down Arrow` | Select the next difficulty up/down respectively. |
+| `Left/Right Arrow` | Select the next beatmap up/down respectively. |
 | `Page Up/Down` | Scroll the page up/down respectively. |
-| `Enter` | Enter the current selection (if selecting over a beatmapset or collection group) or being playing a difficulty (if selecting over a beatmap). |
+| `Enter` | Enter the current selection (if selecting over a beatmap or collection group) or being playing a difficulty (if selecting over a beatmap). |
 | `Shift` + `Left/Right Arrow` | Enter the next/previous group. |
 | `Shift` + `Enter` | Expand or collapse the selected group. |
 
