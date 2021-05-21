@@ -34,7 +34,7 @@ The Exports folder appears if the player uses the [Skin Selector's "Export as .o
 
 ### Localisation
 
-The Localization folder appears when the player has switched their language in the options. It will hold the translated text files which can be used each to replace the English text based on the user's selected localisation. The translated text files are generated when you switch languages.
+The Localisation folder appears when the player has switched their language in the options. It will hold the translated text files which can be used each to replace the English text based on the user's selected localisation. The translated text files are generated when you switch languages.
 
 ### Replays
 
