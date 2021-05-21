@@ -28,7 +28,7 @@ Pour un guide du débutant : [Beatmapping](/wiki/Beatmapping).
 | :-- | :-- |
 | Boutons `+`/`-` | Augmente/Diminue le zoom de la timeline |
 | Double ligne blanche verticale | L'Horodatage actuel par rapport à la timeline des objets. |
-| Cliquez sur un objet | **Clic gauche :** Sélectionner/Déplacer un objet sur la timeline **Clic droit :** Retirer un objet |
+| Cliquer sur un objet | **Clic gauche :** Sélectionne/Déplace un objet sur la timeline **Clic droit :** Retire un objet |
 
 ### En haut à droite (Le Beat Snap Divisor)
 
@@ -102,10 +102,10 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 | :-- | :-- | :-- |
 | Sampleset | Auto, Normal, Soft, Drum | Cela ignore les paramètres du sampleset de la section de timing, et ajoute celui sélectionné. Par exemple, un point de timing avec **soft 77%**, alors que ce sampleset est réglé sur **Drum** et a **Clap** sur les notes, jouera par défaut drum-hitnormal 77% + drum-hitclap 77% sur les frappes. |
 | Additions | Auto, Normal, Soft, Drum | L'ajout de hitsound signifie ajouter des Clap, des Finish, et des Whistle avec le set sélectionné. Exemple avec un Sampleset **Normal**, le Timing point sera **Soft 77%**, alors que Additions est réglé sur **Drum** et ont **Clap** sur les notes, le résultat sera normal-hitnormal 77% + drum-hitclap 77% sur les frappes |
-| Select (`1`) | **Clic gauche/glisser :** Sélectionnez/ajustez l'emplacement des notes/sliderpoints. **Clic droit :** Supprimez les notes/sliderpoints. **`Ctrl` + Clic :** Sélection multiple. | Sélectionnez et modifiez les notes existantes. |
-| Circle (`2`) | **Clic gauche/droit :** Ajout/suppression d'un cercle | Ajout d'un cercle |
-| Slider (`3`) | **Clic gauche/droit :** Début/Fin de slider. Ajouter/supprimer des sliderpoints (carré blanc). **Clic gauche x2 :** Nouvelle section de courbe (carré rouge). | Slider. |
-| Spinner (`4`) | **Clic gauche/droit :** Début/Fin du Spinner à l'horodatage actuel. | Spinner. Veillez à ce que l'Auto puisse obtenir au moins 2000 bonus par spinner (pour éviter le fameux spinner spam/ninja spinner). |
+| Select (`1`) | **Clic gauche/glisser :** Sélectionne/ajuste l'emplacement des notes/sliderpoints. **Clic droit :** Supprime les notes/sliderpoints. **`Ctrl` + Clic :** Sélection multiple. | Sélectionne et modifie les notes existantes. |
+| Circle (`2`) | **Clic gauche/droit :** Ajoute/supprime un cercle | Cercle. |
+| Slider (`3`) | **Clic gauche/droit :** Début/Fin de slider. Ajoute/supprime des sliderpoints (carré blanc). **Clic gauche x2 :** Nouvelle section de courbe (carré rouge). | Slider. |
+| Spinner (`4`) | **Clic gauche/droit :** Début/Fin du Spinner à l'horodatage actuel. | Spinner. Veillez à ce que l'Auto puisse obtenir au moins un bonus de 2000 par spinner (pour éviter le fameux spinner spam/ninja spinner). |
 
 ### Au centre (Terrain de jeu)
 
@@ -119,7 +119,7 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 
 | Bouton (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
-| Nouveau combo (`Q`) | **Clic droit :** Changez la note actuelle pour la couleur combinée suivante. | Note du combo. C'est l'équivalent d'un couplet/une mesure dans une chanson/un instrument. Une fourchette acceptable est d'environ 5 à 20. |
+| Nouveau combo (`Q`) | **Clic droit :** Change la note actuelle en la couleur du combo suivant. | Note du combo. C'est l'équivalent d'un couplet/une mesure dans une chanson/un instrument. Une fourchette acceptable est d'environ 5 à 20. |
 
 #### Hitsounds
 
@@ -133,8 +133,8 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 
 | Bouton (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
-| Grid Snap (`T`) | **`Shift` (Maintenir):** On/Off temporaire. **`Ctrl` (Maintenir):** Désactiver temporairement l'angle du snapping. | Par défaut, les notes sont fixées à la grid. |
-| Distance Snap (`Y`) | **`Alt` (Maintenir):** On/Off temporaire. Bascule Beat Snap Divisor en Distance Snap **`Alt` + Molette de souris :** Ajustez le multiplicateur de distance snap | La distance entre des notes consécutives sera cassée en fonction de leur différence rythmique. A utiliser de préférence lorsque la timeline est en pause. |
+| Grid Snap (`T`) | **`Shift` (Maintenu):** On/Off temporaire. **`Ctrl` (Maintenu):** Désactiver temporairement l'angle du snapping. | Par défaut, les notes sont fixées à la grid. |
+| Distance Snap (`Y`) | **`Alt` (Maintenu):** On/Off temporaire. Bascule Beat Snap Divisor en Distance Snap **`Alt` + Molette de souris :** Ajustez le multiplicateur de distance snap | La distance entre des notes consécutives sera cassée en fonction de leur différence rythmique. A utiliser de préférence lorsque la timeline est en pause. |
 | Lock Notes (`L`) | ("Select" sur une note) **Clic gauche :** Verrouille cette note | Verrouille la note sélectionnée à la position et à l'horodatage actuels. |
 
 ### En bas à gauche (Timeline de la chanson)
@@ -202,9 +202,9 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 
 | Boutons/En-tête (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
-| Sampleset | Auto, Normal, Soft, Drum | Changez le sampleset en ignorant l'actuel dans la section timing. Ex : Timing **Drum 66%**, alors que ce sampleset est **Soft**, jouera tous les sons **Soft** sur les notes comme clap, normal, finish, whistle avec un volume de 66%. |
+| Sampleset | Auto, Normal, Soft, Drum | Change le sampleset en ignorant l'actuel dans la section timing. Ex : Timing **Drum 66%**, alors que ce sampleset est **Soft**, jouera tous les sons **Soft** sur les notes comme clap, normal, finish, whistle avec un volume de 66%. |
 | Additions | Auto, Normal, Soft, Drum | Même chose que ci-dessus, MAIS les réglages des additions écrasent les réglages du sampleset. Exemple : Timing **Drum 55%**, Sampleset **Soft**, alors que cette Additions est **Normal**, jouera tous les sons **Normal** sur les notes comme clap, normal, finish, whistle avec un volume de 55%. |
-| Select (`1`) | **Clic gauche/glisser :** Déplacement de l'horodatage et de l'emplacement d'une note. **Clic droit :** Supprimer la note. **`Ctrl` + Clic :** Sélection multiple. | Sélectionnez et modifiez les notes existantes. |
+| Select (`1`) | **Clic gauche/glisser :** Déplacement de l'horodatage et de l'emplacement d'une note. **Clic droit :** Supprimer la note. **`Ctrl` + Clic :** Sélection multiple. | Sélectionne et modifie les notes existantes. |
 | Circle (`2`) | **Clic gauche/droit :** Placer/supprimer la note. | Ajoute une note à la colonne actuelle en fonction de la position de la souris. |
 | Hold (`3`) | **Clic gauche (maintien):** Placez une hold note et ajustez la longueur. **Relâcher à la fin:** Définir une longueur de hold | Ajoute une hold note à la colonne actuelle en fonction de la position de la souris. |
 
@@ -270,23 +270,23 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 
 | Bouton (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
-| New Combo (`Q`) | **Clic droit :** Changez la note actuelle en la couleur de la combinaison suivante. | Combo de la note. C'est l'équivalent d'un couplet dans une chanson. Une fourchette acceptable est d'environ 5 à 20. |
+| New Combo (`Q`) | **Clic droit :** Change la note actuelle en la couleur du combo suivant. | Note du combo. C'est l'équivalent d'un couplet dans une chanson. Une fourchette acceptable est d'environ 5 à 20. |
 
 #### Hitsounds
 
 | Bouton (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
-| Whistle (`W`) | ("Select" sur une note) **Clic gauche :** Utilisez le son du sifflet sur cette note | Ajoutez un son de sifflet à la sélection. |
-| Finish (`E`) | ("Select" sur une note) **Clic gauche :** Utilisez le son de finition sur cette note | Ajoutez un son de finition (cymbale) à la sélection. |
-| Clap (`R`) | ("Select" sur une note) **Clic gauche :** Utilisez un son de claquement sur cette note | Ajoutez un son de claquement à la sélection. |
+| Whistle (`W`) | ("Select" sur une note) **Clic gauche :** Utilise le son du sifflet sur cette note | Ajoute un son de sifflet à la sélection. |
+| Finish (`E`) | ("Select" sur une note) **Clic gauche :** Utilise le son de finition sur cette note | Ajoute un son de finition (cymbale) à la sélection. |
+| Clap (`R`) | ("Select" sur une note) **Clic gauche :** Utilise un son de claquement sur cette note | Ajoute un son de claquement à la sélection. |
 
 #### Outils d'assistance
 
 | Bouton (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
-| Grid Snap (`T`) | **`Shift` (Maintenir):** On/Off temporaire. **`Ctrl` (Maintenir):** Désactiver temporairement l'angle du snapping. | Par défaut, les notes sont fixées à la grille. |
-| Distance Snap (`Y`) | **`Alt` (Maintenir):** On/Off temporaire. Passe du Beat Snap Divisor à la Distance Snap **`Alt` + Molette de la souris :** Ajuster le multiplicateur de distance de Snap. | La distance entre des notes consécutives sera snappé en fonction de leur différence rythmique. A utiliser de préférence lorsque la timeline est en pause. |
-| Lock Notes (`L`) | ("Select" sur une note) **Clic gauche :** Verrouiller cette note | Verrouille la note sélectionnée à la position et à l'horodatage actuels. |
+| Grid Snap (`T`) | **`Shift` (Maintenu):** On/Off temporaire. **`Ctrl` (Maintenu):** Désactive temporairement l'angle du snapping. | Par défaut, les notes sont fixées à la grille. |
+| Distance Snap (`Y`) | **`Alt` (Maintenu):** On/Off temporaire. Passe du Beat Snap Divisor à la Distance Snap **`Alt` + Molette de la souris :** Ajuster le multiplicateur de distance de Snap. | La distance entre des notes consécutives sera snappé en fonction de leur différence rythmique. A utiliser de préférence lorsque la timeline est en pause. |
+| Lock Notes (`L`) | ("Select" sur une note) **Clic gauche :** Verrouille cette note | Verrouille la note sélectionnée à la position et à l'horodatage actuels. |
 
 Pour **keysound** (ajout de SE sur les hitnotes), sélectionnez la note et **`Alt` + Clic gauche** sur la note sélectionnée (une fenêtre pop-up s'affichera avec des échantillons sonores dans votre dossier beatmap). Référez vous à [L'échantillonnage](#L'échantillonnage)
 
@@ -302,8 +302,8 @@ En **bas au centre**, il affiche la **timeline avec des marques et les boutons o
 
 | Raccourci | Description |
 | :-- | :-- |
-| `Ctrl` + `B` | Ajouter un signet à l'emplacement actuel. |
-| `Ctrl` + `Shift` + `B` | Supprimer le signet à l'emplacement actuel. |
+| `Ctrl` + `B` | Ajoute un signet à l'emplacement actuel. |
+| `Ctrl` + `Shift` + `B` | Supprime le signet à l'emplacement actuel. |
 | `Ctrl` + Flèche `Droit` | Signet suivant. |
 | `Ctrl` + Flèche `Gauche` | Signet précédent. |
 
@@ -325,22 +325,22 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 
 | Nom | Description |
 | :-- | :-- |
-| CustomSet | **Ignorer** le hitsound personnalisé sélectionné dans cet éditeur, et appliquer le **SET** et le volume du hitsound par défaut sans utiliser le timing point. (L'utilisation de l'échantillon de base doit être activée pour que cela fonctionne comme prévu) exemple : ajout d'un soft-hitwhistle77.wav avec un volume de 90%. **Cette fonction n'est pas non plus recommandée alors que la fonction normale APPLY de cet éditeur est plus facile à utiliser que celle-ci, les deux fonctionnant de la même manière.** |
-| Volume | Le niveau sonore que vous souhaitez pour ce fichier son. Utilisez uniquement des valeurs entières. (8 - 100) |
-| Use basic sample | **Ignorer** le hitsound personnalisé sélectionné dans cet éditeur, et appliquer uniquement le volume sur les notes sélectionnées. Cela signifie que, peu importe ce que les notes sont, cette fonctionnalité ne change que le volume des notes sélectionnées. Exemple : cela peut être utilisé pour changer le volume multiple sur différentes notes avec différents échantillons de hitsound à la fois ou juste améliorer le hitsound par défaut en ignorant le réglage du volume de tout point de synchronisation. |
+| CustomSet | **Ignore** le hitsound personnalisé sélectionné dans cet éditeur, et applique le **SET** et le volume du hitsound par défaut sans utiliser le timing point. (L'utilisation de l'échantillon de base doit être activée pour que cela fonctionne comme prévu) exemple : ajout d'un soft-hitwhistle77.wav avec un volume de 90%. **Cette fonction n'est pas non plus recommandée alors que la fonction normale APPLY de cet éditeur est plus facile à utiliser que celle-ci, les deux fonctionnant de la même manière.** |
+| Volume | Le niveau sonore que vous souhaitez pour ce fichier son. Utilise uniquement des valeurs entières. (8 - 100) |
+| Use basic sample | **Ignore** le hitsound personnalisé sélectionné dans cet éditeur, et appliquer uniquement le volume sur les notes sélectionnées. Cela signifie que, peu importe ce que les notes sont, cette fonctionnalité ne change que le volume des notes sélectionnées. Exemple : cela peut être utilisé pour changer le volume multiple sur différentes notes avec différents échantillons de hitsound à la fois ou juste améliorer le hitsound par défaut en ignorant le réglage du volume de tout point de synchronisation. |
 
 ##### Boutons
 
 | Nom | Description |
 | :-- | :-- |
-| Play | Lire le fichier sonore sélectionné |
-| Import | Importez le fichier sonore personnalisé à partir d'un sous-dossier situé dans le dossier de la beatmap. |
-| Delete | **Supprimer le fichier sonore personnalisé.** Pour supprimer le fichier sonore associé à la note, utilisez le bouton "Reset". |
-| Apply | Appliquez le fichier sonore personnalisé sélectionné à cette note. |
-| Sample | Placez ce fichier sonore personnalisé sélectionné dans le storyboard en respectant l'horodatage actuel. |
+| Play | Lit le fichier sonore sélectionné |
+| Import | Importe le fichier sonore personnalisé à partir d'un sous-dossier situé dans le dossier de la beatmap. |
+| Delete | **Supprime le fichier sonore personnalisé.** Pour supprimer le fichier sonore associé à la note, utilisez le bouton "Reset". |
+| Apply | Applique le fichier sonore personnalisé sélectionné à cette note. |
+| Sample | Place ce fichier sonore personnalisé sélectionné dans le storyboard en respectant l'horodatage actuel. |
 | Sample list | [Fichiers sonores storyboardé](#Exemple-de-liste-d'événements) |
-| Reset | Supprimer le fichier son associé à la note |
-| Cancel | Fermer la fenêtre. |
+| Reset | Supprime le fichier son associé à la note |
+| Cancel | Ferme la fenêtre. |
 
 #### Exemple de liste d'événements
 
