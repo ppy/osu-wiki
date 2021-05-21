@@ -285,9 +285,9 @@ Utilisez `e.g.` " pour "par exemple" et `i.e.`pour "c'est-à-dire".
 Les abréviations, acronymes et sigles ne doivent pas être pluralisés. Le texte suivant en est un exemple :
 
 ```markdown
-Éviter :  Les BNs peuvent nommer votre beatmapset.
+Éviter :  Les BNs peuvent nommer votre beatmap.
 
-Préférer : Les nominateurs peuvent nommer votre beatmapset.
+Préférer : Les nominateurs peuvent nommer votre beatmap.
 ```
 
 ## Perspective
