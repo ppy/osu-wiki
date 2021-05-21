@@ -9,7 +9,7 @@ tags:
 
 ![AGTS 2019 logo](img/logo.jpg)
 
-**Advanced Global Taiko Showdown 2019**(***AGTS 2019***)は、![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263)と![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)が主催する2vs2ダブルエリミネーション方式国別osu! taikoトーナメントである。この退会は、Global Taiko ShowdownシリーズのAdvanced Global Taiko Showdownの第一弾として開催されました。
+**Advanced Global Taiko Showdown 2019**(***AGTS 2019***)は、![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263)と![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)が主催する2vs2ダブルエリミネーション方式国別osu! taikoトーナメントである。この大会は、Global Taiko ShowdownシリーズのAdvanced Global Taiko Showdownの第一弾として開催されました。
 
 ## 大会スケジュール
 
