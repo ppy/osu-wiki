@@ -7,8 +7,8 @@
 ## 関連記事
 
 - [セットアップ](Setup)
-- [マルチプレイヤー使い方](Multiplayer_Usage)
-- [観戦方法](Spectator_Usage)
+- [マルチプレイヤーのやり方](Multiplayer_Usage)
+- [観戦のやり方](Spectator_Usage)
 - [スキニング](Skinning)
 - [トーナメント管理コマンド](Tournament_Management_Commands)
 - [トラブルシューティング](Troubleshooting)
