@@ -174,7 +174,7 @@ Supported comparisons:
 - `<=`: Less than or equal to
 - `>=`: Greater than or equal to
 
-You may also enter a beatmap or beatmapset ID in your search to get a single result.
+You may also enter a difficulty or beatmap ID number in your search to get a single result.
 
 ### Rankings
 
@@ -216,9 +216,9 @@ While you are on the Quick Web Access Screen, you cannot access the Chat and Ext
 The song list displays all available beatmaps. Different beatmaps may have different coloured boxes:
 
 - **Pink**: This beatmap has not been played yet.
-- **Orange**: At least one beatmap from the beatmapset has been completed.
-- **Light Blue**: Other beatmaps in the same set, shown when a mapset is expanded.
-- **White**: Currently selected beatmap.
+- **Orange**: At least one difficulty from the beatmap has been completed.
+- **Light Blue**: Other difficulties in the same beatmap, shown when a beatmap is expanded.
+- **White**: Currently selected difficulty.
 
 You can navigate the beatmap list by using the mouse wheel, using the up and down arrow keys, dragging it while holding the left mouse button or clicking the right mouse button (previously known as Absolute Scrolling), which will move the scroll bar to your mouse's Y position. Click on a box to select that beatmap and display its information on the upper left, high scores (if any) on the left and, if you've cleared it, the letter grade of the highest score you've achieved. Click the box again, press `Enter` or click the osu!cookie at the lower right to begin playing the beatmap.
 
@@ -255,7 +255,7 @@ Click the `Random` button or press `F2` to have the game **randomly scroll throu
 Click the `Beatmap Options` button, press `F3` or right-click your mouse while hovering over the beatmap to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
 
 - Press `1` or click the `Manage Collections` button to bring up the Collections screen - here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
-- Press `2` or click `Delete...` to delete the \[1\] currently selected beatmapset, \[2\] delete the currently selected beatmap, or \[3\] delete **all VISIBLE beatmaps**.
+- Press `2` or click `Delete...` to delete the \[1\] currently selected difficulty, \[2\] delete the currently selected beatmap, or \[3\] delete **all VISIBLE beatmaps**.
   - Note that deleted beatmaps are moved to the Recycle Bin.
 - Press `3` or click `Remove from Unplayed` to mark an unplayed beatmap as played (that is, change its box colour from pink to orange).
 - Press `4` or click `Clear local scores` to delete all records of the scores you have achieved in this beatmap.

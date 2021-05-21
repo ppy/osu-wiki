@@ -24,4 +24,4 @@ Di dalam situs web, beatmap diberikan sebuah ikon untuk menggambarkan tingkat ke
 - ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ dan diatasnya
 
-Sebagian besar ikon yang diberikan, sebanding dengan tingkat kesulitan map yang dimiliki, tetapi dalam beberapa kasus malah menyimpang cukup jauh. Inilah mengapa [kriteria ranking](/wiki/Ranking_Criteria) menjelaskan aturan yang lebih akurat untuk menentukan tingkat kesulitan sebuah beatmap beserta mengevaluasi semua tingkat kesulitan (*spread*) yang ada dalam beatmapset.
+Sebagian besar ikon yang diberikan, sebanding dengan tingkat kesulitan map yang dimiliki, tetapi dalam beberapa kasus malah menyimpang cukup jauh. Inilah mengapa [kriteria ranking](/wiki/Ranking_Criteria) menjelaskan aturan yang lebih akurat untuk menentukan tingkat kesulitan sebuah beatmap beserta mengevaluasi semua tingkat kesulitan (*spread*) yang ada dalam beatmap.

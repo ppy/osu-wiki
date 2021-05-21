@@ -32,7 +32,7 @@ If you are using a 64-bit Windows 7, you may have difficulties installing osu! c
 - Try reinstalling the latest version of .NET Framework. [You can find it here](https://dotnet.microsoft.com/download).
 - Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
 
-## Adding beatmapsets
+## Adding beatmaps
 
 *See also: [Beatmaps](/wiki/Beatmap)*
 
@@ -42,10 +42,10 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 1. Go to the [beatmap listing page](https://osu.ppy.sh/beatmapsets) and sign in to the website.
 2. Find a song you would like to play.
-3. Click on the download icon to save the beatmapset on your computer.
-4. Locate and open the beatmapset file, it has an `.osz` extension.
-   - Alternatively, you can also place the beatmapset file into the `Songs` directory of the osu! installation.
-5. osu! will automatically handle the rest for you and load the beatmapset.
+3. Click on the download icon to save the beatmap on your computer.
+4. Locate and open the beatmap file, it has an `.osz` extension.
+   - Alternatively, you can also place the beatmap file into the `Songs` directory of the osu! installation.
+5. osu! will automatically handle the rest for you and load the beatmap.
    - If, for any reason, you do not see them, press `F5` in [Song Selection](/wiki/Interface#song-selection-screen) to re-process your beatmaps.
 
 ### osu!direct
@@ -55,8 +55,8 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 1. Open osu!, and click the osu!direct button on the right side of the main screen.
 2. Find a song that you would like to play.
 3. Double click the the song on the list or click `Download` on the right to download it.
-   - If you don't want to download the video that comes along with the beatmapset, click `DL NoVideo` instead.
-4. When osu! is done downloading the beatmapset, it will automatically load it.
+   - If you don't want to download the video that comes along with the beatmap, click `DL NoVideo` instead.
+4. When osu! is done downloading the beatmap, it will automatically load it.
    - If, for any reason, you do not see them, press `F5` in [Song Selection](/wiki/Interface#song-selection-screen) to re-process your beatmaps.
 
 ## Adding skins

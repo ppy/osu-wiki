@@ -69,8 +69,8 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | `Version` | String | Difficulty name |
 | `Source` | String | Original media the song was produced for |
 | `Tags` | Space-separated list of strings | Search terms |
-| `BeatmapID` | Integer | Beatmap ID |
-| `BeatmapSetID` | Integer | Beatmapset ID |
+| `BeatmapID` | Integer | Difficulty ID |
+| `BeatmapSetID` | Integer | Beatmap ID |
 
 ## Difficulty
 
@@ -118,7 +118,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 *For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard_Scripting).*
 
-Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all beatmaps in a beatmapset.
+Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all difficulties in a beatmap.
 
 Each beatmap may contain its own difficulty-specific storyboard, either in conjunction with the external storyboard or by itself.
 

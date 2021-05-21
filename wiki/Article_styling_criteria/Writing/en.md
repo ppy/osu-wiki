@@ -283,9 +283,9 @@ Use `e.g.` for "for example" and `i.e.` for "that is".
 Abbreviations, acronyms, and initialisms should not be pluralised. The following is an example:
 
 ```markdown
-Avoid:  BNs can nominate your beatmapset.
+Avoid:  BNs can nominate your beatmap.
 
-Prefer: Beatmap Nominators can nominate your beatmapset.
+Prefer: Beatmap Nominators can nominate your beatmap.
 ```
 
 ## Perspective

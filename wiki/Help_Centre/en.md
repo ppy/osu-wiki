@@ -845,7 +845,7 @@ Each user has a limited number of maps they can simultaneously upload. Leaving a
 
 In the editor, click `File` in the menu, then `Open .osu in Notepad`. Check the line `Creator:` under the `Metadata` section and make sure that it's set to your exact username, capitalisation included.
 
-If it isn't, manually change it for every difficulty in your beatmapset, reload the beatmap, and you should be able to submit it.
+If it isn't, manually change it for every difficulty in your beatmap, reload the beatmap, and you should be able to submit it.
 
 If you are still having issues or want more information on this, have a read through the [BSS issues page](/wiki/Guides%2FBSS_Issues).
 
