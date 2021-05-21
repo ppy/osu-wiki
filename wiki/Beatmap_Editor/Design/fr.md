@@ -32,8 +32,8 @@ Il serait bon de faire des cours accélérés de toutes les commandes en utilisa
 
 | Nom | Description |
 | :-- | :-- |
-| Boutons `+`/`-` à gauche | Augmenter/diminuer le zoom de la timeline |
-| Flèches `Haut`/`Bas` en bas à gauche | Faites défiler vers le haut/bas la timeline de transformation (pour voir la timeline des mouvements/couleurs). |
+| Boutons `+`/`-` à gauche | Augmente/diminue le zoom de la timeline |
+| Flèches `Haut`/`Bas` en bas à gauche | Fait défiler vers le haut/bas la timeline de transformation (pour voir la timeline des mouvements/couleurs). |
 | Centre | Timeline de transformation pour l'objet SB sélectionné. |
 
 #### Contrôle des keyframes
@@ -42,8 +42,8 @@ Il sera utilisé pour **ajouter des points d'ancrage (points de début/fin).** I
 
 | Nom | Description |
 | :-- | :-- |
-| Boutons `+`/`-` | Ajouter/supprimer des points d'ancrage pour la transformation sélectionnée. |
-| Flèches `Gauche`/`Droite` | Sauter en arrière/en avant vers le point d'ancrage le plus proche de la transformation sélectionnée. |
+| Boutons `+`/`-` | Ajoute/supprime des points d'ancrage pour la transformation sélectionnée. |
+| Flèches `Gauche`/`Droite` | Saute vers le point d'ancrage en arrière/en avant le plus proche de la transformation sélectionnée. |
 
 S'il y a une transformation, celle-ci est éclairée avec sa couleur et aura deux demi-lignes séparées qui déterminent la durée. La ligne blanche complète détermine les points de changement de transformation (par exemple, monter -> descendre).
 
@@ -97,7 +97,7 @@ Pour les utiliser :
 | Translation | Translation \[où aller (par exemple, monter)\]. |
 | Homothétie | Agrandissement proportionnel (un carré reste un carré). |
 | Fondu | Fade in/out. (assombrir ou éclaircir) |
-| Rotation | Faire pivoter un certain nombre de "radian" (et non de degrés). |
+| Rotation | Fait pivoter un certain nombre de "radian" (et non de degrés). |
 | Couleur | Force la coloration du sprite. Peut changer de couleur progressivement en utilisant une couleur différente comme point final. "Effet permanent". Explication de base. |
 
 ##### Effets supplémentaires (survol de la barre de gauche)
@@ -114,9 +114,9 @@ Pour les utiliser :
 | Commande | Utilisation |
 | :-- | :-- |
 | Interpolation d'animation | Vous avez deux images clés (c'est-à-dire au début et à la fin), voulez-vous animer entre elles ? Si oui, activez l'interpolation d'animation. Sinon, désactivez-la. |
-| Style d'animation | Commencez lentement/rapidement puis vite/lent vers le point final. Utile avec le Fade In. |
+| Style d'animation | Commence lentement/rapidement puis vite/lent vers le point final. Utile avec le Fade In. |
 | Origine | Point d'origine. Coin "en haut à gauche" ou "centre" de l'image. |
-| Spécifique à cette diff | Sauvegardez tous les SB dans le fichier `.osu` de cette difficulté au lieu du fichier `.osb`. |
+| Spécifique à cette diff | Sauvegarde tous les SB dans le fichier `.osu` de cette difficulté au lieu du fichier `.osb`. |
 
 **Note :**
 
