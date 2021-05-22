@@ -7,7 +7,7 @@ tags:
 
 ![VAF logo](img/logo.jpg)
 
-The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament will run in a swiss style to determine seedings first before going onto double elimination bracket and it is rank restricted to rank #50 or below. It is the first installment of the Vaf's Autumn Fiesta.
+The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament will run in a swiss style to determine the top players before going onto semifinals double elimination bracket. The tournament is also rank restricted to rank #50 or below. It is the first installment of the Vaf's Autumn Fiesta.
 
 ## Tournament schedule
 
@@ -267,7 +267,7 @@ Sunday, 16 May 2021:
 
 ### Swiss style
 
-1. Swiss Style is a league style format which consists in playing against an x amount of oponents depending on the format and the rounds existing. This implies that each player will not play against everyone in the swiss. Each matchup will depend on the seeding and performance of every player in the swiss bracket. There is an exception where in case of a tie a player might rematch someone depending on their point difference (this depends on the Challonge bracket). More explanation on video format can be accesed through the [following video](https://youtu.be/WsvFrxJPBZA).
+1. Swiss Style is a league style format which consists in playing against an x amount of oponents depending on the format and the rounds existing. This implies that each player will not play against everyone in the swiss. Each matchup will depend on the seeding and performance of every player in the swiss bracket. There is an exception where in case of a tie a player might rematch someone depending on their point difference (this depends on the Challonge bracket). More explanation on video format can be accessed through the [following video](https://youtu.be/WsvFrxJPBZA).
 2. Each player will play throughout 6 weeks, 6 matches/rounds of swiss style.
 3. Matchups will be paired between players who posses the same amount of W-L-D (for example someone that goes 3-0 will be prioritized against someone who also is 3-0). What is more, playing against the same player twice will be avoided unless it's completely necessary.
 4. Every match will use BO13 format, this means throughout the entire swiss bracket a player will need 7 points to win a match or 6 to guarantee a tie. Semifinals onwards will also use BO13 format. The difference will be, swiss bracket won't have a tiebreaker.
