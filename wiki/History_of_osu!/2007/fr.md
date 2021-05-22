@@ -16,7 +16,7 @@ osu! a débuté en tant que preuve de concept nommée "ouentest". La première v
 
 ![](img/2007-07_04.jpg "Cercles d'approches")
 
-A la fin du mois de Juillet, le système de menus a été changé pour ajouter un peu de style au jeu. Une première implémentation des sliders a été réalisée, avec une balle orange non animée, et quelques courbes relativement moches. Le beat snapping a été ajouté a l'éditeur, ainsi qu'une timeline, et une interface d'édition plus robuste (similaire a celle visible dans [Composer](/wiki/Beatmap_Editor/Compose/) aujourd'hui). 
+A la fin du mois de Juillet, le système de menus a été changé pour ajouter un peu de style au jeu. Une première implémentation des sliders a été réalisée, avec une balle orange non animée, et quelques courbes relativement moches. Le beat snapping a été ajouté a l'éditeur, ainsi qu'une timeline, et une interface d'édition plus robuste (similaire a celle visible dans [Composer](/wiki/Beatmap_Editor/Compose) aujourd'hui). 
 
 ![](img/2007-07_05.jpg "L'éditeur")
 
@@ -28,7 +28,7 @@ A la fin du mois de Juillet, le système de menus a été changé pour ajouter u
 
 ## Août
 
-Le menu principal a été mis à jour avec un nouveau look, et beaucoup de fonctionnalités ont été ajoutées a l'éditeur, incluant le support du copier-coller. La barre de menu de Windows ainsi que le curseur ont été ajoutés, rendant les fonctionnalités de l'éditeur plus accessible qu'avant; les sliders ont été améliorés avec la présence de [slider ticks](/wiki/Beatmapping/Slider_tick); l'[empilement](/wiki/Mapping_Techniques/Stack) de [cercles](/wiki/Hit_object/Hit_circle/) est présent; les scores locaux sont mieux supportés; et le format `.osu` a été revu et complètement refait, tout en incluant une conversion des anciens fichiers a ce nouveau format.
+Le menu principal a été mis à jour avec un nouveau look, et beaucoup de fonctionnalités ont été ajoutées a l'éditeur, incluant le support du copier-coller. La barre de menu de Windows ainsi que le curseur ont été ajoutés, rendant les fonctionnalités de l'éditeur plus accessible qu'avant; les sliders ont été améliorés avec la présence de [slider ticks](/wiki/Beatmapping/Slider_tick); l'[empilement](/wiki/Mapping_Techniques/Stack) de [cercles](/wiki/Hit_object/Hit_circle) est présent; les scores locaux sont mieux supportés; et le format `.osu` a été revu et complètement refait, tout en incluant une conversion des anciens fichiers a ce nouveau format.
 
 ![](img/2007-08_01.jpg "Menu de sélection de musiques")
 
@@ -74,7 +74,7 @@ L'écran de sélection de musiques a vu des améliorations avec le groupages des
 
 ## Novembre
 
-Un nouvelle note, le SS, a été ajoutée au système de ranking, remplaçant les S dans les cas ou la perfection était atteinte. Les mods [No video](/wiki/Game_modifier/No_Video) et [Hidden](/wiki/Game_modifier/Hidden/) (HD) ont étés introduits, les notes SH (S argenté) et SSH (SS argentés) également. Pour la première fois, les joueurs pouvaient modifier et assigner les sets d'échantillons normaux et doux suivant les sections. Les fichiers `.osz` peuvent maintenant être chargés avec un double-clic, ou en les glissant sur l'icône d'osu!.
+Un nouvelle note, le SS, a été ajoutée au système de ranking, remplaçant les S dans les cas ou la perfection était atteinte. Les mods [No video](/wiki/Game_modifier/No_Video) et [Hidden](/wiki/Game_modifier/Hidden) (HD) ont étés introduits, les notes SH (S argenté) et SSH (SS argentés) également. Pour la première fois, les joueurs pouvaient modifier et assigner les sets d'échantillons normaux et doux suivant les sections. Les fichiers `.osz` peuvent maintenant être chargés avec un double-clic, ou en les glissant sur l'icône d'osu!.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 

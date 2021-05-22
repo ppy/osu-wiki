@@ -36,13 +36,13 @@ Une étape importante de l'histoire d'osu! a été atteinte avec l'ajout du mode
 
 ## Juillet
 
-L'éditeur, le multijoueur, le storyboarding, les graphiques, et la console de chat ont tous reçu de nombreuses améliorations ce mois la. L'écran d'options a maintenant un nouveau modèle, et la [configuration de touches](/wiki/Options/Keyboard_Bindings/) ont été introduits.
+L'éditeur, le multijoueur, le storyboarding, les graphiques, et la console de chat ont tous reçu de nombreuses améliorations ce mois la. L'écran d'options a maintenant un nouveau modèle, et la [configuration de touches](/wiki/Options/Keyboard_Bindings) ont été introduits.
 
 ## Août
 
 Continuant sur la tendance de juillet, un joueur aura du mal a trouvé un aspect d'osu! qui n'a pas été amélioré ou optimisé durant ce mois. Dans toutes ces nouvelles additions, les tags ont été ajoutés aux beatmaps, et le support pour plusieurs écrans a été implémenté a un niveau expérimental. Une nouvelle méthode pour reprendre après une pause a été construite pour empêcher les joueurs d'abuser de la fonction de pause (qui maintenant demande aux joueurs d'aligner leur curseur a l'endroit ou il était avant la pause pour continuer).
 
-Les records personnels en ligne ont été ajoutés au menu de sélection de musiques, remplissant une demande de longue date, qui demandait une optimisation assez conséquente de la base de données. Des améliorations graphiques ont été ajoutées a l'écran de résultat, et des éléments variés du skin par défaut ont été réalisés dans le but de les rendre plus propres et nets qu'avant. L'affichage du score des ticks de slider (10/30) a été implémenté. Des améliorations ont été vues dans la préparation des matchs multijoueurs, rendant possible le transfert du contrôle de la salle. De nombreuses nouvelles [commandes de chat](/Chat_Console#commands-list) ont été ajoutées pour les utilisateurs.
+Les records personnels en ligne ont été ajoutés au menu de sélection de musiques, remplissant une demande de longue date, qui demandait une optimisation assez conséquente de la base de données. Des améliorations graphiques ont été ajoutées a l'écran de résultat, et des éléments variés du skin par défaut ont été réalisés dans le but de les rendre plus propres et nets qu'avant. L'affichage du score des ticks de slider (10/30) a été implémenté. Des améliorations ont été vues dans la préparation des matchs multijoueurs, rendant possible le transfert du contrôle de la salle. De nombreuses nouvelles [commandes de chat](/wiki/Chat_Console#commands-list) ont été ajoutées pour les utilisateurs.
 
 Un nouveau statut classé a été ajouté, "![](/img/fire.gif) [Approuvée](/wiki/Approved)" pour les maps de grande qualités, mais qui excédaient les critères de classement de longueur, difficulté, ou autres d'une manière ou. Les maps dans ce statut ne comptent pas pour les scores du joueurs, mais possèdent des classements, et se comportent comme une map ![](img/heart.gif) [Classée](/wiki/Ranked).
 
