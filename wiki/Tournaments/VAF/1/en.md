@@ -136,6 +136,33 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Mappools
 
+### Swiss week 2
+
+**[Download the mappack here! (94 MB)](https://www.mediafire.com/file/ivudcuyyvpky3eh/MAPPACK+SWISS+WEEK+2.zip/file)**
+
+- NoMod
+  - [mafumafu - Kakushigoto (kanpakyin) \[Inner Oni (Tourney Ver.)\]](https://osu.ppy.sh/beatmapsets/1320126#taiko/3006514)
+  - [Rings Of Saturn - Senseless Massacre (Vulkin) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/819819#taiko/1779857)
+  - [Silentroom - Nhelv (namaniku) \[Akanistha\]](https://osu.ppy.sh/beatmapsets/684795#taiko/1449248)
+  - [t+pazolite - Seedy Try (HiroK) \[Spooky Oni\]](https://osu.ppy.sh/beatmapsets/816696#taiko/1712661)
+  - [YUZUKINGDOM - National Anthem (Nao Tomori) \[Collab Inner Oni\]](https://osu.ppy.sh/beatmapsets/1439897#taiko/2962574)
+- Hidden
+  - [saradisk - CIAOchuru remix (KTYN) \[Foreign objects*225\]](https://osu.ppy.sh/beatmapsets/1188736#taiko/2477061)
+  - [E.G.G. - Got more raves? (DakeDekaane) \[Oni\]](https://osu.ppy.sh/beatmapsets/1080225#taiko/2259976)
+  - [Asaki - Torinaki jima nite (Mikaruge) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1380433#taiko/2852368)
+- HardRock
+  - [Nightmare - Dream to Nightmare (Kqrth) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/834254#taiko/1962899)
+  - [Chroma - Sayonara Planet Wars (404 AccNotFound) \[flw34tfg\]](https://osu.ppy.sh/beatmapsets/643875#taiko/1411960)
+  - [LEAF XCEED Music Division - Fur Elisa (coed) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1215987#taiko/2530307)
+- DoubleTime
+  - [hololive IDOL PROJECT - BLUE CLAPPER (Jerry) \[Ulqui's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1329875#taiko/2756998)
+  - [Uchida Maaya - Tsubomi Yume Miru Rhapsodia \~Alma no Michibiki\~ (lolcubes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/110292#taiko/287463)
+  - [HARUTYA - Byoushin o Kamu (juanilp4evr) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/961181#taiko/2012247)
+- FreeMod
+  - [REDALiCE & aran - Sweet Requiem (Marm) \[Threnody\]](https://osu.ppy.sh/beatmapsets/665521#taiko/1408434)
+  - [EmoCosine - Give You My World (Capu) \[Master\]](https://osu.ppy.sh/beatmapsets/1225464#taiko/2548643)
+  - [siqlo - YInMn Blue (gaston_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1233593#taiko/2564430)
+
 ### Swiss week 1
 
 **[Download the mappack here! (113 MB)](https://www.mediafire.com/file/cc6lfomy344chll/SWISS1_MAPPACK.zip/file)**
