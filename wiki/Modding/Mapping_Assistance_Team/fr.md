@@ -14,7 +14,7 @@ Les MAT étaient supervisés par un [Leader MAT](/wiki/Modding/MAT_Leaders) qui 
 
 La MAT a été créée le 27 décembre 2009, les premiers membres ayant été choisis par les membres de la BAT.
 
-Peu après, des candidatures ouvertes ont été organisées, permettant à tous les membres de la communauté générale de mapping et de modding de postuler pour un poste au sein du MAT. Le 26 février 2010, le premier lot de nouveaux membres du MAT a été ajouté à partir de ces candidatures, sur la base d'une évaluation collective des membres du BAT et du MAT existant. D'autres cycles de candidature ont été organisés régulièrement pour rechercher de nouveaux membres, ainsi que pour fournir un retour d'information aux candidats non retenus.
+Peu après, des candidatures ouvertes ont été organisées, permettant à tous les membres de la communauté générale de mapping et de modding de postuler pour un poste au sein de la MAT. Le 26 février 2010, le premier lot de nouveaux membres de la MAT a été ajouté à partir de ces candidatures, sur la base d'une évaluation collective des membres de la BAT et de la MAT existants. D'autres cycles de candidatures ont été organisés régulièrement pour rechercher de nouveaux membres, ainsi que pour fournir un retour d'informations aux candidats non retenus.
 
 Le 4 octobre 2010, les membres de la MAT ont obtenu la possibilité de placer des icônes full bubble et bubble pop sur les beatmaps, ce qui a permis d'aligner leurs rôles et responsabilités avec ceux de leurs collègues du BAT. Cependant, ils ne disposaient toujours pas d'outils de modération des forums ou des chats en jeu et se concentraient uniquement sur l'évaluation et la promotion des beatmaps.
 
