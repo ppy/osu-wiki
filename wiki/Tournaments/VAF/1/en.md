@@ -265,141 +265,49 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Match results
 
-### Semifinals
+### Swiss week 1
 
 Saturday, 15 May 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Volta** ![][flag_ID] | **6** | 0 | ![][flag_PH] CoEqual | [#1](https://osu.ppy.sh/community/matches/83378695) |
-| misaki\_tk ![][flag_ID] | 4 | **6** | ![][flag_AU] **r1chyy** | [#1](https://osu.ppy.sh/community/matches/83383801) |
-| Aiery ![][flag_PH] | 3 | **6** | ![][flag_ID] **Naverlyn** | [#1](https://osu.ppy.sh/community/matches/83386494) |
-| **apaajaboleh10** ![][flag_ID] | **6** | 5 | ![][flag_SG] tzechi | [#1](https://osu.ppy.sh/community/matches/83389059) |
-| Ponamis ![][flag_TH] | 2 | **6** | ![][flag_PH] **jmeh07** | [#1](https://osu.ppy.sh/community/matches/83391904) |
-| Jerry ![][flag_MY] | 0 | **6** | ![][flag_ID] **Katdon\_donKat** | [#1](https://osu.ppy.sh/community/matches/83405952) |
+| **nananass** ![][flag_JP] | **7** | 1 | ![][flag_KZ] Lynerrr | [#1](https://osu.ppy.sh/community/matches/83385729) |
+| **Konpaku Sariel** ![][flag_KR] | **7** | 3 | ![][flag_TW] Yuemiao | [#1](https://osu.ppy.sh/community/matches/83390574) |
+| **A-40** ![][flag_IT] | **7** | 1 | ![][flag_KR] GoZaRaNi | [#1](https://osu.ppy.sh/community/matches/83397922) |
+| **\_Doodle\_** ![][flag_AR] | **7** | 1 | ![][flag_TW] cat1346 | [#1](https://osu.ppy.sh/community/matches/83397925) |
+| **J a c k y** ![][flag_HK] | **7** | 0 | ![][flag_UA] Don Omar | [#1](https://osu.ppy.sh/community/matches/83401924) |
+| **Raytoly** ![][flag_TH] | **7** | 0 | ![][flag_CA] honkers | [#1](https://osu.ppy.sh/community/matches/83405119) |
+| **bernard351** ![][flag_PL] | **7** | 3 | ![][flag_GB] Daniels | [#1](https://osu.ppy.sh/community/matches/83405083) |
+| mangomizer ![][flag_GB] | 5 | **7** | ![][flag_NZ] **Sparxe** | [#1](https://osu.ppy.sh/community/matches/83405606) |
+| **yu-ki\_** ![][flag_JP] | **7** | 2 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/83405707) |
+| HiroK ![][flag_BR] | 2 | **7** | ![][flag_BR] **Gustav0eiji** | [#1](https://osu.ppy.sh/community/matches/83413631), [#2](https://osu.ppy.sh/community/matches/83416800) |
+| **D3kuu** ![][flag_IT] | **7** | 1 | ![][flag_MY] HoopWheat | [#1](https://osu.ppy.sh/community/matches/83417440) |
+| **Skull Kid** ![][flag_BR] | **7** | 2 | ![][flag_CH] MC2BP | [#1](https://osu.ppy.sh/community/matches/83418728) |
+| **\_knots** ![][flag_US] | **7** | 4 | ![][flag_BE] XOlifreX | [#1](https://osu.ppy.sh/community/matches/83422824) |
+| **LordEnder** ![][flag_IT] | **7** | 2 | ![][flag_BR] FurryBoujee | [#1](https://osu.ppy.sh/community/matches/83424964) |
 
 Sunday, 16 May 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Volta** ![][flag_ID] | **6** | 5 | ![][flag_ID] Naverlyn | [#1](https://osu.ppy.sh/community/matches/83464591) |
-| **jmeh07** ![][flag_PH] | **6** | 2 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/83475288) |
-
-### Quarterfinals
-
-Saturday, 8 May 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| nikolpai\_15 ![][flag_MY] | 0 | **6** | ![][flag_PH] **CoEqual** | [#1](https://osu.ppy.sh/community/matches/82831488) |
-| **apaajaboleh10** ![][flag_ID] | **6** | 4 | ![][flag_PH] Aiery | [#1](https://osu.ppy.sh/community/matches/82834608) |
-
-Sunday, 9 May 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Katdon\_donKat** ![][flag_ID] | **6** | 0 | ![][flag_TH] Ponamis | [#1](https://osu.ppy.sh/community/matches/82853146) |
-| Prehistoria ![][flag_SG] | 1 | **6** | ![][flag_PH] **jmeh07** | [#1](https://osu.ppy.sh/community/matches/82852417) |
-| Volta ![][flag_ID] | 2 | **6** | ![][flag_SG] **tzechi** | [#1](https://osu.ppy.sh/community/matches/82915394) |
-| **Naverlyn** ![][flag_ID] | **6** | 0 | ![][flag_PH] ezeenS | [#1](https://osu.ppy.sh/community/matches/82917432) |
-| Element118 ![][flag_SG] | 1 | **6** | ![][flag_AU] **r1chyy** | [#1](https://osu.ppy.sh/community/matches/82919450) |
-| **Jerry** ![][flag_MY] | **6** | 2 | ![][flag_ID] misaki\_tk | [#1](https://osu.ppy.sh/community/matches/82921604) |
-
-### Round of 16
-
-Saturday, 1 May 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Volta** ![][flag_ID] | **5** | 1 | ![][flag_SG] Element118 | [#1](https://osu.ppy.sh/community/matches/82234962) |
-| **Jerry** ![][flag_MY] | **5** | 0 | ![][flag_MY] nikolpai\_15 | [#1](https://osu.ppy.sh/community/matches/82255830) |
-| **Ponamis** ![][flag_TH] | **5** | 0 | ![][flag_PH] ezeenS | [#1](https://osu.ppy.sh/community/matches/82257768) |
-
-Sunday, 2 May 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Katdon\_donKat** ![][flag_ID] | **5** | 0 | ![][flag_ID] Naverlyn | [#1](https://osu.ppy.sh/community/matches/82277963) |
-| **misaki\_tk** ![][flag_ID] | **5** | 0 | ![][flag_PH] CoEqual | [#1](https://osu.ppy.sh/community/matches/82343068) |
-| jmeh07 ![][flag_PH] | 3 | **5** | ![][flag_PH] **Aiery** | [#1](https://osu.ppy.sh/community/matches/82346921) |
-| **tzechi** ![][flag_SG] | **5** | 3 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/82351619) |
-| **apaajaboleh10** ![][flag_ID] | **5** | 1 | ![][flag_SG] Prehistoria | [#1](https://osu.ppy.sh/community/matches/82353782) |
-
-### Group Stage
-
-Saturday, 24 April 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **apaajaboleh10** ![][flag_ID] | **4** | 1 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/81653293) |
-| **Jerry** ![][flag_MY] | **4** | 3 | ![][flag_PH] Aiery | [#1](https://osu.ppy.sh/community/matches/81653228) |
-| **CoEqual** ![][flag_PH] | **0** | -1 | ![][flag_PH] Astrid Park | *win by default* |
-| **Volta** ![][flag_ID] | **4** | 0 | ![][flag_PH] ezeenS | [#1](https://osu.ppy.sh/community/matches/81661181) |
-| DescriptiCringe ![][flag_PH] | 0 | **4** | ![][flag_NZ] **Bwhaa** | [#1](https://osu.ppy.sh/community/matches/81665715) |
-| **Ponamis** ![][flag_TH] | **4** | 1 | ![][flag_SG] Element118 | [#1](https://osu.ppy.sh/community/matches/81656430) |
-| AmateurMonkeyYT ![][flag_AU] | 1 | **4** | ![][flag_MY] **vun** | [#1](https://osu.ppy.sh/community/matches/81657502) |
-| Naverlyn ![][flag_ID] | 0 | **4** | ![][flag_SG] **tzechi** | [#1](https://osu.ppy.sh/community/matches/81657634) |
-| ConieSan ![][flag_TH] | 1 | **4** | ![][flag_PH] qish | [#1](https://osu.ppy.sh/community/matches/81657906) |
-| Beat43210 ![][flag_AU] | -1 | **0** | ![][flag_NZ] **arley\_** | *win by default* |
-| **Tsubasa2** ![][flag_AU] | **0** | -1 | ![][flag_PH] Astrid Park | *win by default* |
-| Bedwyr Aorta ![][flag_MY] | 3 | **4** | ![][flag_MY] **nikolpai\_15** | [#1](https://osu.ppy.sh/community/matches/81659814) |
-| **Aiery** ![][flag_PH] | **4** | 0 | ![][flag_MY] CrabCow | [#1](https://osu.ppy.sh/community/matches/81660028) |
-| **Ponamis** ![][flag_TH] | **4** | 0 | ![][flag_SG] dantoh000 | [#1](https://osu.ppy.sh/community/matches/81660953) |
-| **Naverlyn** ![][flag_ID] | **4** | 0 | ![][flag_MY] TaikOseania | [#1](https://osu.ppy.sh/community/matches/81661153) |
-| **Jerry** ![][flag_MY] | **4** | 0 | ![][flag_TH] KappuChinooo | [#1](https://osu.ppy.sh/community/matches/81662208) |
-| **Prehistoria** ![][flag_SG] | **0** | -1 | ![][flag_NZ] arley\_ | *win by default* |
-| **Kotaro** ![][flag_PH] | **4** | 0 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/81662982) |
-| Tsubasa2 ![][flag_AU] | 3 | **4** | ![][flag_PH] **CoEqual** | [#1](https://osu.ppy.sh/community/matches/81663047) |
-| **ezeenS** ![][flag_PH] | **4** | 2 | ![][flag_PH] DescriptiCringe | [#1](https://osu.ppy.sh/community/matches/81664069) |
-| **Element118** ![][flag_SG] | **4** | 0 | ![][flag_AU] AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/81664398) |
-| **tzechi** ![][flag_SG] | **4** | 0 | ![][flag_TH] ConieSan | [#1](https://osu.ppy.sh/community/matches/81665397) |
-| **Prehistoria** ![][flag_SG] | **0** | -1 | ![][flag_AU] Beat43210 | *win by default* |
-| **jmeh07** ![][flag_PH] | 0 | -1 | ![][flag_SG] Bobfree | *win by default* |
-| **Element118** ![][flag_SG] | **4** | 3 | ![][flag_SG] dantoh000 | [#1](https://osu.ppy.sh/community/matches/81667577) |
-| **tzechi** ![][flag_SG] | **4** | 0 | ![][flag_MY] TaikOseania | [#1](https://osu.ppy.sh/community/matches/81667594) |
-| **Prehistoria** ![][flag_SG] | **0** | -1 | ![][flag_SG] \_gt | *win by default* |
-
-Sunday, 25 April 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Katdon\_donKat** ![][flag_ID] | **0** | -1 | ![][flag_PH] Kotaro | *win by default* |
-| **Naverlyn** ![][flag_ID] | **4** | 0 | ![][flag_TH] ConieSan | [#1](https://osu.ppy.sh/community/matches/81682418) |
-| **Aiery** ![][flag_PH] | **4** | 0 | ![][flag_TH] KappuChinooo | [#1](https://osu.ppy.sh/community/matches/81682450) |
-| r1chyy ![][flag_AU] | 0 | **4** | ![][flag_ID] **Katdon\_donKat** | [#1](https://osu.ppy.sh/community/matches/81681284) |
-| **Katdon\_donKat** | **4** | 0 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/81732057) |
-| **Jerry** ![][flag_MY] | **4** | 1 | ![][flag_MY] CrabCow | [#1](https://osu.ppy.sh/community/matches/81742310) |
-| **apaajaboleh10** ![][flag_ID] | **4** | 0 | ![][flag_PH] CoEqual | [#1](https://osu.ppy.sh/community/matches/81741418) |
-| **r1chyy** ![][flag_AU] | **4** | 2 | ![][flag_PH] Kotaro | [#1](https://osu.ppy.sh/community/matches/81743719) |
-| **Volta** ![][flag_ID] | **4** | 0 | ![][flag_PH] DescriptiCringe | [#1](https://osu.ppy.sh/community/matches/81744585) |
-| **Jerry** ![][flag_MY] | **0** | -1 | ![][flag_SG] kuudere-desu | *win by default* |
-| **ezeenS** ![][flag_PH] | **4** | 1 | ![][flag_NZ] Bwhaa | [#1](https://osu.ppy.sh/community/matches/81744609) |
-| Bobfree ![][flag_SG] | -1 | **0** | ![][flag_MY] Bedwyr Aorta | *win by default* |
-| **misaki\_tk** ![][flag_ID] | **4** | 1 | ![][flag_SG] \_gt | [#1](https://osu.ppy.sh/community/matches/81745778) |
-| **Element118** ![][flag_SG] | **4** | 1 | ![][flag_MY] vun | [#1](https://osu.ppy.sh/community/matches/81746378) |
-| **tzechi** ![][flag_SG] | **4** | 0 | ![][flag_PH] qish | [#1](https://osu.ppy.sh/community/matches/81746400) |
-| **misaki\_tk** ![][flag_ID] | **0** | -1 | ![][flag_AU] Beat43210 | *win by default* |
-| **jmeh07** ![][flag_PH] | **4** | 0 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/81747164) |
-| **Ponamis** ![][flag_TH] | **4** | 1 | ![][flag_AU] AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/81747688) |
-| **CrabCow** ![][flag_MY] | **4** | 2 | ![][flag_SG] kuudere-desu | [#1](https://osu.ppy.sh/community/matches/81747808) |
-| **misaki\_tk** ![][flag_ID] | **4** | 0 | ![][flag_NZ] arley\_ | [#1](https://osu.ppy.sh/community/matches/81749321) |
-| **Naverlyn** ![][flag_ID] | **4** | 2 | ![][flag_PH] qish | [#1](https://osu.ppy.sh/community/matches/81749317) |
-| AmateurMonkeyYT ![][flag_AU] | 1 | **4** | ![][flag_SG] **dantoh000** | [#1](https://osu.ppy.sh/community/matches/81749901) |
-| **ConieSan** ![][flag_TH] | **4** | 0 | ![][flag_MY] TaikOseania | [#1](https://osu.ppy.sh/community/matches/81749363) |
-| Beat43210 ![][flag_AU] | -1 | **0** | ![][flag_SG] **\_gt** | *win by default* |
-| **Aiery** ![][flag_PH] | **4** | 0 | ![][flag_SG] kuudere-desu | [#1](https://osu.ppy.sh/community/matches/81749384) |
-| **CrabCow** ![][flag_MY] | **4** | 1 | ![][flag_TH] KappuChinooo | [#1](https://osu.ppy.sh/community/matches/81750811) |
-| **misaki\_tk** ![][flag_ID] | **4** | 2 | ![][flag_SG] Prehistoria | [#1](https://osu.ppy.sh/community/matches/81750774) |
-| **nikolpai\_15** ![][flag_MY] | 0 | -1 | ![][flag_SG] Bobfree | *win by default* |
-| **r1chyy** ![][flag_AU] | **4** | 1 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/81752028) |
-| **apaajaboleh10** ![][flag_ID] | **0** | -1 | ![][flag_PH] Astrid Park | *win by default* |
-| **jmeh07** ![][flag_PH] | **4** | 0 | ![][flag_MY] nikolpai\_15 | [#1](https://osu.ppy.sh/community/matches/81753776) |
-| **Ponamis** ![][flag_TH] | **4** | 1 | ![][flag_MY] vun | [#1](https://osu.ppy.sh/community/matches/81752573) |
-| **arley\_** ![][flag_NZ] | **4** | 3 | ![][flag_SG] \_gt | [#1](https://osu.ppy.sh/community/matches/81753509) |
-| **vun** ![][flag_MY] | **4** | 1 | ![][flag_SG] dantoh000 | [#1](https://osu.ppy.sh/community/matches/81755826) |
-| **qish** ![][flag_PH] | **4** | 0 | ![][flag_MY] TaikOseania | [#1](https://osu.ppy.sh/community/matches/81756549) |
-| **Volta** ![][flag_ID] | **4** | 0 | ![][flag_NZ] Bwhaa | [#1](https://osu.ppy.sh/community/matches/81759925) |
-| kuudere-desu ![][flag_SG] | -1 | **0** | ![][flag_TH] **KappuChinooo** | *win by default* |
+| **Ppus** ![][flag_BR] | **7** | 2 | ![][flag_BR] Coryn | [#1](https://osu.ppy.sh/community/matches/83446275) |
+| **janitore** ![][flag_CA] | **7** | 0 | ![][flag_MX] -Arato | [#1](https://osu.ppy.sh/community/matches/83452492) |
+| **\[Zeth\]** ![][flag_MY] | **7** | 3 | ![][flag_US] Garpo | [#1](https://osu.ppy.sh/community/matches/83458473) |
+| r1chyy ![][flag_AU] | 3 | **7** | ![][flag_JP] **Ku\_Ren** | [#1](https://osu.ppy.sh/community/matches/83464262) |
+| phosphene47 ![][flag_KR] | 4 | **7** | ![][flag_JP] **Saikoro** | [#1](https://osu.ppy.sh/community/matches/83468725) |
+| **XK2238** ![][flag_JP] | **7** | 1 | ![][flag_TH] Ponamis | [#1](https://osu.ppy.sh/community/matches/83473055) |
+| **Minekuchi** ![][flag_DE] | **7** | 3 | ![][flag_JP] shakegohan\_jar | [#1](https://osu.ppy.sh/community/matches/83473056) |
+| **oL0** ![][flag_KR] | **7** | 0 | ![][flag_RU] CrowWhite | [#1](https://osu.ppy.sh/community/matches/83475194) |
+| **Akonine** ![][flag_RU] | **7** | 2 | ![][flag_JP] uranosu1030 | [#1](https://osu.ppy.sh/community/matches/83477641) |
+| **Ikkun** ![][flag_IT] | **7** | 0 | ![][flag_RU] Den4ik228 | [#1](https://osu.ppy.sh/community/matches/83477972) |
+| **5henry** ![][flag_KR] | **7** | 1 | ![][flag_ID] Naverlyn | [#1](https://osu.ppy.sh/community/matches/83479482) |
+| petterde ![][flag_NO] | 4 | **7** | ![][flag_KR] **Jakads** | [#1](https://osu.ppy.sh/community/matches/83484317) |
+| **Genjuro** ![][flag_GR] | **7** | 1 | ![][flag_TW] \_Llama | [#1](https://osu.ppy.sh/community/matches/83488630) |
+| **coed** ![][flag_IT] | **0** | -1 | ![][flag_FR] BananaW | *win by default* |
+| **cheese salad** ![][flag_US] | **7** | 0 | ![][flag_GB] Teezel | [#1](https://osu.ppy.sh/community/matches/83500633) |
+| **Vulkin** ![][flag_CL] | **7** | 3 | ![][flag_NL] Cookie\_tree | [#1](https://osu.ppy.sh/community/matches/83500624) |
+| **gaston\_2199** ![][flag_AR] | **7** | 0 | ![][flag_FI] MEGAMELA | [#1](https://osu.ppy.sh/community/matches/83504892) |
+| **AuroraPhasmata** ![][flag_US] | **7** | 4 | ![][flag_US] Etholux | [#1](https://osu.ppy.sh/community/matches/83519527) |
 
 ## Ruleset
 
