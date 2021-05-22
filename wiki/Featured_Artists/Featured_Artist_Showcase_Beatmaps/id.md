@@ -335,6 +335,19 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!]) [m108 - Sunflower](https://osu.ppy.sh/beatmapsets/1403962) diurus oleh ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530)
   - (![][osu!catch]) [m108 - XIII Charlotte](https://osu.ppy.sh/beatmapsets/1400205) diurus oleh ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071)
   - (![][osu!mania]) [m108 - XIII Charlotte](https://osu.ppy.sh/beatmapsets/1366994) diurus oleh ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[Reku Mochizuki](https://osu.ppy.sh/home/news/2021-05-08-new-featured-artist-reku-mochizuki)** (2021-05-08)
+  - (![][osu!]) [Reku Mochizuki - Yorixiro](https://osu.ppy.sh/beatmapsets/1438879) diurus oleh ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834)
+  - (![][osu!taiko]) [Reku Mochizuki - Yorixiro](https://osu.ppy.sh/beatmapsets/1397782) diurus oleh ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484)
+  - (![][osu!]) [Reku Mochizuki - Falseimager](https://osu.ppy.sh/beatmapsets/1398967) diurus oleh ![][flag_PL] [Peter](https://osu.ppy.sh/users/8623835)
+  - (![][osu!]) [Reku Mochizuki - VEZZELiX](https://osu.ppy.sh/beatmapsets/1406171) diurus oleh ![][flag_BR] [Idealism](https://osu.ppy.sh/users/3869519)
+- **[Kitazawa Kyouhei](https://osu.ppy.sh/home/news/2021-05-15-new-featured-artist-kitazawa-kyouhei)** (2021-05-15)
+  - (![][osu!]) [Kitazawa Kyouhei feat. Hatsune Miku](https://osu.ppy.sh/beatmapsets/1373644) diurus oleh ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804)
+- **[Aiobahn](https://osu.ppy.sh/home/news/2021-05-19-new-featured-artist-aiobahn)** (2021-05-19)
+  - (![][osu!]) [Aiobahn - Koko ni Iru (feat. rionos)](https://osu.ppy.sh/beatmapsets/1129013) diurus oleh ![][flag_MX] [Gero](https://osu.ppy.sh/users/1467715)
+  - (![][osu!taiko]) [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1124134) diurus oleh ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][osu!mania]) [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1126358) diurus oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)
+- **[yukitani](https://osu.ppy.sh/home/news/2021-05-22-new-featured-artist-yukitani)** (2021-05-22)
+  - (![][osu!taiko]) [yukitani - Amusing Reflection Rag.](https://osu.ppy.sh/beatmapsets/1436446) diurus oleh ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011)
 
 ## Sejarah
 
