@@ -1,9 +1,12 @@
 ---
 tags:
-  - couleur de combo
+  - combo color
+  - combo colour
   - NC
-  - nouveau combo
+  - new combo
   - comboset
+  - couleur de combo
+  - nouveau combo
 ---
 
 # Combo
