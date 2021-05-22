@@ -8,11 +8,11 @@ tags:
 
 # Project Loved Team
 
-Le **Project Loved Team** est composée de membres de la communauté d'osu! qui gèrent le [Project Loved](/wiki/Project_Loved), la plateforme de vote qui promeut les [beatmaps](/wiki/Beatmap) dans la catégorie [loved](/wiki/Beatmap/Category#loved).
+La **Project Loved Team** est composée de membres de la communauté d'osu! qui gèrent le [Project Loved](/wiki/Project_Loved), la plateforme de vote qui promeut les [beatmaps](/wiki/Beatmap) dans la catégorie [loved](/wiki/Beatmap/Category#loved).
 
 ## Capitaines
 
-Le Project Loved Team se compose principalement de *capitaines* pour chaque [mode de jeu](/wiki/Game_mode). Les capitaines sont responsables de la nomination des beatmaps dans la catégorie loved et agissent en tant que représentants de la communauté en ayant une bonne idée des beatmaps à choisir. Ils rédigent également de courtes descriptions des beatmaps nominées afin d'aider les lecteurs à se faire une idée de chaque beatmap s'ils ne les ont pas vues ou jouées auparavant.
+La Project Loved Team se compose principalement de *capitaines* pour chaque [mode de jeu](/wiki/Game_mode). Les capitaines sont responsables de la nomination des beatmaps dans la catégorie loved et agissent en tant que représentants de la communauté en ayant une bonne idée des beatmaps à choisir. Ils rédigent également de courtes descriptions des beatmaps nominées afin d'aider les lecteurs à se faire une idée de chaque beatmap s'ils ne les ont pas vues ou jouées auparavant.
 
 ### osu!
 
@@ -53,7 +53,7 @@ Les coordinateurs sont principalement chargés de veiller à ce que tous les cap
 
 ## Vérificateurs des métadonnées d'une beatmap
 
-Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumis au vote, et travaillent avec les mappeurs pour corriger les éventuelles erreurs avant que les beatmaps ne soient potentiellement déplacées vers la catégorie loved.
+Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise au vote, et travaillent avec les mappeurs pour corriger les éventuelles erreurs avant que les beatmaps ne soient potentiellement déplacées vers la catégorie loved.
 
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
@@ -116,9 +116,9 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumis a
 
 ## Le saviez-vous ?
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a créé l'équipe originale de capitaines en septembre 2017 ainsi que le système [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017---present)) qui a ensuite été renommé Project Loved. Jusqu'à fin 2019, il a supervisé et géré l'ensemble du projet.
-- Il y a un groupe d'utilisateurs Project Loved sur le site web avec l'ID de groupe 31, mais la liste n'est pas publique. Il est utilisé pour les autorisations de modérer le [forum Project Loved](https://osu.ppy.sh/community/forums/120) et de promouvoir les beatmaps dans la catégorie Loved.
-  - Jusqu'au 16 avril 2021, les seules personnes qui avaient fait partie du groupe étaient ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), et ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689). Maintenant, toute les personnes du Project Loved Team appartient au groupe.
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a créé l'équipe originelle de capitaines en septembre 2017 ainsi que le système [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017---present)) qui a ensuite été renommé Project Loved. Jusqu'à fin 2019, il a supervisé et géré l'ensemble du projet.
+- Il y a un groupe d'utilisateurs Project Loved sur le site web avec l'ID de groupe 31, mais la liste n'est pas publique. Il est utilisé pour leur donner l'autorisation de modérer le [forum Project Loved](https://osu.ppy.sh/community/forums/120) et de promouvoir les beatmaps dans la catégorie Loved.
+  - Jusqu'au 16 avril 2021, les seules personnes qui faisaient partie du groupe étaient ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), et ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689). Maintenant, tous les utilisateurs faisant partie de la Project Loved Team appartiennent au groupe.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
