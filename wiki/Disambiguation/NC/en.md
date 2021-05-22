@@ -1,4 +1,4 @@
-# NC
+# NC (disambiguation)
 
 **NC** can have multiple meanings:
 

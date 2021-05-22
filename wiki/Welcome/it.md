@@ -1,6 +1,6 @@
 # Benvenuto
 
-Benvenuto su osu!, un gioco musicale free-to-win sviluppato da peppy con 4 modalità di gioco: osu!standard, un simulatore di click di cerchi; osu!taiko, un emulatore di tamburelli; osu!catch, un catcher di macedonia; e osu!mania, un sintetizzatore di tasti.
+Benvenuto su osu!, un gioco musicale free-to-win sviluppato da peppy con 4 modalità di gioco: osu!, un simulatore di click di cerchi; osu!taiko, un emulatore di tamburelli; osu!catch, un catcher di macedonia; e osu!mania, un sintetizzatore di tasti.
 
 ## Punti di interesse comuni
 
@@ -9,13 +9,13 @@ Benvenuto su osu!, un gioco musicale free-to-win sviluppato da peppy con 4 modal
 - [Regole](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
 - [Modalità di gioco](/wiki/Game_mode)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Multigiocatore](/wiki/Multi)
 - [Criterio di Ranking](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)

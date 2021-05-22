@@ -1,12 +1,8 @@
----
-outdated: true
----
-
 # Kontributor Komunitas
 
 ![](/wiki/shared/contributor.jpg "Lencana kontributor")
 
-**Kontributor Komunitas** adalah orang - orang yang meluangkan waktunya untuk melayani komunitas osu! dengan pengorbanan diri mereka sendiri - alat dan fitur yang banyak dari kita anggap remeh namun berguna hingga hari ini. Pengguna ini diberi lencana sebagai bukti atas kontribusi mereka yang telah melakukan sesuatu bagi seluruh komunitas osu!.
+**Kontributor Komunitas** adalah orang-orang yang meluangkan waktunya untuk melayani komunitas osu! dengan pengorbanan diri mereka sendiri - alat dan fitur yang banyak dari kita anggap remeh namun berguna hingga hari ini. Pengguna ini diberi lencana sebagai bukti atas kontribusi mereka yang telah melakukan sesuatu bagi seluruh komunitas osu!.
 
 Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), yang merupakan anggota osu!team yang sudah pensiun, lencana Kontributor Komunitas ini diberikan kepada *freelancer* yang telah melampaui ekspektasi dan tugas yang diberikan demi meningkatkan osu! dan komunitasnya.
 
@@ -175,6 +171,22 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Kontribusi luar biasa yang tak tergoyahkan di tim dukungan & bantuan pemain |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Kontribusi luar biasa terhadap Mappers' Guild dan Beatmap Nominators |
 | ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | Kontribusi luar biasa terhadap proyek osu! yang bersifat *open source* |
+
+## 2021
+
+### Maret
+
+*Untuk posting berita terkait, lihat: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+
+| Pengguna | Kontribusi |
+| :-- | :-- |
+| ![][flag_DE] [Hallowatcher](https://osu.ppy.sh/users/1874761) | Kontribusi luar biasa terhadap acara-acara komunitas dan pengembangan |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kontribusi luar biasa terhadap World Cups dan acara-acara komunitas |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Kontribusi luar biasa terhadap taraf mapping dan modding |
+| ![][flag_PL] [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Kontribusi luar biasa terhadap pengembangan osu! melalui banyak proyek |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Kontribusi luar biasa terhadap taraf skin osu! dan moderasi |
+| ![][flag_US] [I Must Decrease](https://osu.ppy.sh/users/2773526) | Kontribusi luar biasa terhadap pemeliharaan skor dan pengembangan |
+| ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) | Kontribusi luar biasa terhadap World Cups dan taraf turnamen komunitas |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"

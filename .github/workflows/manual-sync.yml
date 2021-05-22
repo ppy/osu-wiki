@@ -51,8 +51,8 @@ jobs:
          # https://stackoverflow.com/questions/14700579/bash-converting-string-to-boolean-variable
          function boolean () {
             case $1 in
-              true) echo true ;;
-              false) echo false ;;
+              [Tt][Rr][Uu][Ee]) echo true ;;
+              [Ff][Aa][Ll][Ss][Ee]) echo false ;;
               *) echo "Unknown operand \"$1\"" 1>&2; exit 1 ;;
             esac
          }

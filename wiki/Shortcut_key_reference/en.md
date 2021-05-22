@@ -71,7 +71,7 @@ These shortcuts work anywhere:
 | `Shift` + `F2` | Go back to the previously random-selected beatmap. |
 | `F3` | Open the beatmap options. |
 | `F5` | Reprocess beatmaps (this may prompt you to continue). |
-| `Shift` + `Delete` | Prompt the delete beatmap dialog. This will ask you if you want to delete the beatmapset (all difficulties), the beatmap (the selected difficulty), or all visible beatmaps. |
+| `Shift` + `Delete` | Prompt the delete beatmap dialog. This will ask you if you want to delete the beatmap (all difficulties), a single difficulty, or all visible beatmaps. |
 | `Ctrl` + `1` | Switch the game mode to [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/Game_mode/osu!catch). |
@@ -82,10 +82,10 @@ These shortcuts work anywhere:
 | `Ctrl` + `F3` or `Ctrl` + `+` | Increase the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Decrease the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `Backspace` | Delete the last word in the search bar. |
-| `Up/Down Arrow` | Select the next beatmap up/down respectively. |
-| `Left/Right Arrow` | Select the next beatmapset up/down respectively. |
+| `Up/Down Arrow` | Select the next difficulty up/down respectively. |
+| `Left/Right Arrow` | Select the next beatmap up/down respectively. |
 | `Page Up/Down` | Scroll the page up/down respectively. |
-| `Enter` | Enter the current selection (if selecting over a beatmapset or collection group) or being playing a difficulty (if selecting over a beatmap). |
+| `Enter` | Enter the current selection (if selecting over a beatmap or collection group) or being playing a difficulty (if selecting over a beatmap). |
 | `Shift` + `Left/Right Arrow` | Enter the next/previous group. |
 | `Shift` + `Enter` | Expand or collapse the selected group. |
 
@@ -93,7 +93,7 @@ These shortcuts work anywhere:
 
 *Main page: [Game modifiers](/wiki/Game_modifier)*\
 *Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*\
-*Note: Target practice (osu!standard), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
+*Note: Target practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
 
 | Shortcut | Mod |
 | :-- | :-- |
@@ -105,12 +105,12 @@ These shortcuts work anywhere:
 | `S` twice | Perfect |
 | `D` | Double Time |
 | `D` twice | Nightcore |
-| `F` | Hidden (osu!standard, osu!taiko, and osu!catch) or Fade In (osu!mania) |
+| `F` | Hidden (osu!, osu!taiko, and osu!catch) or Fade In (osu!mania) |
 | `F` twice | Hidden (osu!mania) |
 | `G` | Flashlight |
-| `Z` | Relax (osu!standard, osu!taiko, and osu!catch) or cycle through xK mods (osu!mania) |
-| `X` | Auto Pilot (osu!standard) or Random (osu!mania) |
-| `C` | Spun Out (osu!standard) |
+| `Z` | Relax (osu!, osu!taiko, and osu!catch) or cycle through xK mods (osu!mania) |
+| `X` | Auto Pilot (osu!) or Random (osu!mania) |
+| `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` twice | Cinema |
 | `B` | Score V2 |
@@ -194,7 +194,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 | Shortcut | Action |
 | :-- | :-- |
-| `Double Click` | On circles or slider ends to jump to the object's position in the timeline from any point in the song. (osu!standard, osu!taiko, osu!catch) |
+| `Double Click` | On circles or slider ends to jump to the object's position in the timeline from any point in the song. (osu!, osu!taiko, osu!catch) |
 | `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting). |
 
 #### General
@@ -211,7 +211,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `D` | Clone the selection. This will paste the selection 1 measure after last selected object. |
 | `Ctrl` + `M` | Adjust the snap divisor. |
 | `Delete` | Delete. |
-| `1`, `2`, `3`, or `4` | Switch between placement/selection mode: select, circle, slider, and spinner respectively (osu!standard, osu!taiko, or osu!catch). |
+| `1`, `2`, `3`, or `4` | Switch between placement/selection mode: select, circle, slider, and spinner respectively (osu!, osu!taiko, or osu!catch). |
 | `1`, `2`, or `3` | Switch between placement/selection mode: select, circle, and hold respectively (osu!mania). |
 | `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Switch between placement/selection modes. |
 | `Ctrl` + `Shift` + `A` | Open [AiMod](/wiki/Beatmap_Editor/AiMod). |
@@ -245,7 +245,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `Shift` + `S` | Scale selected hit objects by a specified amount (opens a dialog). |
 | `Ctrl` + `Shift` + `D` | Generate polygons with a specificied number of points (opens a dialog). |
 | `Ctrl` + `Shift` + `F` | Convert the selected slider into a hit circle stream (opens a dialog). |
-| `Ctrl` + `Left/Right/Up/Down Arrow` | Nudge the selected notes in the pressed direction. (osu!standard, osu!taiko, osu!catch) |
+| `Ctrl` + `Left/Right/Up/Down Arrow` | Nudge the selected notes in the pressed direction. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Left/Right Arrow` | Move selected objects left or right one column. (osu!mania) |
 | `Ctrl` + `Up/Down Arrow` | Move selected objects up or down one tick in time. (osu!mania) |
 

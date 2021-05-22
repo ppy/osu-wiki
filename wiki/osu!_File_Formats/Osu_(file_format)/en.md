@@ -22,6 +22,7 @@ The following content is separated into sections, indicated by section titles in
 ## General
 
 <!-- TODO: this is missing some functional options that are leftover from very old file formats -->
+
 | Option | Value type | Description | Default value |
 | :-- | :-- | :-- | :-- |
 | `AudioFilename` | String | Location of the audio file relative to the current folder |  |
@@ -68,8 +69,8 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | `Version` | String | Difficulty name |
 | `Source` | String | Original media the song was produced for |
 | `Tags` | Space-separated list of strings | Search terms |
-| `BeatmapID` | Integer | Beatmap ID |
-| `BeatmapSetID` | Integer | Beatmapset ID |
+| `BeatmapID` | Integer | Difficulty ID |
+| `BeatmapSetID` | Integer | Beatmap ID |
 
 ## Difficulty
 
@@ -117,7 +118,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 *For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard_Scripting).*
 
-Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all beatmaps in a beatmapset.
+Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all difficulties in a beatmap.
 
 Each beatmap may contain its own difficulty-specific storyboard, either in conjunction with the external storyboard or by itself.
 
@@ -279,7 +280,7 @@ If the slider's `length` is longer than the defined curve, the slider will exten
 - For bézier, catmull, and linear curves, it continues in a straight line from the end of the curve.
 - For perfect circle curves, it continues the circular arc.
 
-*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (assuming `beatLength` has been adjusted for inherited timing points).*
+*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier*100)*beatLength` tells how many milliseconds it takes to complete one slide of the slider (assuming `beatLength` has been adjusted for inherited timing points).*
 
 #### Slider hitsounds
 
@@ -336,7 +337,7 @@ The third object is a slider:
 
 <!-- TODO: specific details about all of the other game modes (this article should provide everything necessary to parse a .osu file)
 
-also there is no info about how they convert to other game modes from an osu!standard beatmap -->
+also there is no info about how they convert to other game modes from an osu! beatmap -->
 
 ### osu!taiko
 

@@ -2,7 +2,7 @@
 
 ***Note: This document is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
 
-This set of **osu! ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!standard](/wiki/Game_mode/osu!)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+This set of **osu! ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!](/wiki/Game_mode/osu!)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Overall
 
@@ -53,13 +53,13 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 *Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Insane
-- ![](/wiki/shared/diff/expert-s.png) Expert
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Insane
+- ![](/wiki/shared/diff/expert-o.png) Expert
 
-### ![](/wiki/shared/diff/easy-s.png) Easy
+### ![](/wiki/shared/diff/easy-o.png) Easy
 
 #### Rules
 
@@ -90,7 +90,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) / [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 1 and 3.
 - [Circle size](/wiki/Beatmapping/Circle_size) should be 4 or lower.
 
-### ![](/wiki/shared/diff/normal-s.png) Normal
+### ![](/wiki/shared/diff/normal-o.png) Normal
 
 #### Rules
 
@@ -116,7 +116,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Ensure that your combos are not unreasonably short or long.** Combos should reflect patterns expressed in the song, such as bars of music or vocal/instrumental phrases.
 - **Avoid [overlapping](/wiki/Mapping_Techniques/Overlap) hit objects with other elements of the default and beatmap-specific skins.** This refers to all elements that are part of the interface and can be skinned.
 
-If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
+If a Normal difficulty is required and used as the *lowest difficulty* of a beatmap, it should also follow these guidelines:
 
 - **Avoid more than three actively clicked 1/2 rhythms in a row.**
 - **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of beatmaps with extremely long sliders, such as sliders longer than 2 measures.
@@ -130,7 +130,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) / [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 3 and 5.
 - [Circle size](/wiki/Beatmapping/Circle_size) should be 5 or lower.
 
-### ![](/wiki/shared/diff/hard-s.png) Hard
+### ![](/wiki/shared/diff/hard-o.png) Hard
 
 #### Rules
 
@@ -155,7 +155,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 4 and 6.
 - [Circle size](/wiki/Beatmapping/Circle_size) should be 6 or lower.
 
-### ![](/wiki/shared/diff/insane-s.png) Insane
+### ![](/wiki/shared/diff/insane-o.png) Insane
 
 #### Guidelines
 
@@ -173,7 +173,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 5 and 8.
 - [Circle size](/wiki/Beatmapping/Circle_size) should be 7 or lower.
 
-### ![](/wiki/shared/diff/expert-s.png) Expert
+### ![](/wiki/shared/diff/expert-o.png) Expert
 
 #### Guidelines
 

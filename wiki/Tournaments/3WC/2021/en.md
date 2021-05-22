@@ -41,7 +41,7 @@ The 3 Digit World Cup is run by various community members.
 | Mappool selector | ![][flag_US] [fooders](https://osu.ppy.sh/users/7545218), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
 | Referee | ![][flag_KR] [choke-](https://osu.ppy.sh/users/12242622), ![][flag_PL] [crissof](https://osu.ppy.sh/users/9505673), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_AT] [GumalaOC](https://osu.ppy.sh/users/5367718), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [ruruchewy](https://osu.ppy.sh/users/7112839), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_PL] [zibi](https://osu.ppy.sh/users/11301620) |
 | Streamer | ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
-| Commentator | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) |
+| Commentator | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458), ![][flag_AU] [jordanlr7](https://osu.ppy.sh/users/11652827), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [Mavs](https://osu.ppy.sh/users/11076938), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_SE] [nautzz](https://osu.ppy.sh/users/2012039), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) |
 | Designer | ![][flag_US] [Celsea](https://osu.ppy.sh/users/7464885), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -83,27 +83,143 @@ The 3 Digit World Cup is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Voss](https://osu.ppy.sh/users/7657761)**, [Rinnu](https://osu.ppy.sh/users/12179012), [majoreh](https://osu.ppy.sh/users/7959222), [Kingling](https://osu.ppy.sh/users/7010761), [Jemzsee](https://osu.ppy.sh/users/11553627), [Doomsday](https://osu.ppy.sh/users/18983) |
 | ![][flag_US] | **United States** | **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, [Exarch](https://osu.ppy.sh/users/5370153), [Apraxia](https://osu.ppy.sh/users/4194445), [Woey](https://osu.ppy.sh/users/3792472), [Flezlin](https://osu.ppy.sh/users/3696423), [Tekkito](https://osu.ppy.sh/users/7075211) |
 
-## Match schedule: Round of 16
+## Match schedule: Grand Finals
 
-### Saturday, 10 April 2021
+This is likely to change as a result of reschedules. Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM/edit#gid=1909881276 "Google spreadsheet") for up-to-date match times.
 
-| Team A | Team B | Match time | Local time A | Local time B |
-| --: | :-- | :-: | :-: | :-: |
-| Taiwan ![][flag_TW] | ![][flag_AU] Australia | **10:00 UTC** | 18:00 UTC+08 | 20:00 UTC+10 |
-| Sweden ![][flag_SE] | ![][flag_JP] Japan | **11:00 UTC** | 13:00 UTC+02 | 20:00 UTC+09 |
-| Germany ![][flag_DE] | ![][flag_CN] China | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
-| Russia ![][flag_RU] | ![][flag_GB] United Kingdom | **13:00 UTC** | 17:00 UTC+04 | 14:00 UTC+01 |
+### Saturday, 8 May 2021
 
-### Sunday, 11 April 2021
+| Team A | Team B | Match time | Local time A | Local time B | |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| United States ![][flag_US] | ![][flag_PL] Poland | **18:00 UTC** | 12:00 UTC-06 | 20:00 UTC+02 | ¹ |
 
-| Team A | Team B | Match time | Local time A | Local time B |
-| --: | :-- | :-: | :-: | :-: |
-| United States ![][flag_US] | ![][flag_KR] South Korea | **03:00 UTC** | 21:00 (Sat.) UTC-06 | 12:00 UTC+09 |
-| Poland ![][flag_PL] | ![][flag_FR] France | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
-| Brazil ![][flag_BR] | ![][flag_FI] Finland | **15:00 UTC** | 12:00 UTC-03 | 18:00 UTC+03 |
-| Countryless ![][flag_XX] | ![][flag_CA] Canada | **16:00 UTC** | 16:00 UTC+00 | 11:00 UTC-05 |
+### Sunday, 9 May 2021
+
+| Team A | Team B | Match time | Local time A | Local time B | |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| Taiwan ![][flag_TW] | ![][flag_US] United States | **03:00 UTC** | 11:00 UTC+08 | 21:00 UTC-06 | ² |
+| Taiwan ![][flag_TW] | ![][flag_PL] Poland | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 | ² |
+
+¹ 3rd place encounter\
+² Encounter dependent on results of ¹ 3rd place encounter
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [nao - Toaru Shoukoku no Ohimesama ga... (Nana Abe) \[Hime Hime Collab\]](https://osu.ppy.sh/beatmapsets/1276409#osu/2651915)
+  - [Plum - Dustwind (knowledgeking) \[Hikuptah\]](https://osu.ppy.sh/beatmapsets/1450157#osu/2981463)
+  - [Imy - Meteora (Icekalt) \[Petal\]](https://osu.ppy.sh/beatmapsets/1129440#osu/2359478)
+  - [Getty vs. DJ DiA - Antifront Gears (Realazy) \[Assault\]](https://osu.ppy.sh/beatmapsets/1103463#osu/2305315)
+  - [cosMo@bousouP feat. Hatsune Miku, GUMI - Monochrome Voice (rollpan) \[Anti the "OJT" HOLIC\]](https://osu.ppy.sh/beatmapsets/1395882#osu/2881155)
+  - [xi - d e a t h p i a n o \~for four pianos\~ (Riana) \[Finale\]](https://osu.ppy.sh/beatmapsets/950606#osu/2507141)
+- Hidden
+  - [Yousei Teikoku - Kuusou Mesorogiwi (IsomirDiAngelo) \[Prophecy\]](https://osu.ppy.sh/beatmapsets/1260852#osu/2621030)
+  - [POLKADOT STINGRAY - Otoshimae (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1301330#osu/2699135)
+  - [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[Labyrinth of Steam\]](https://osu.ppy.sh/beatmapsets/1312079#osu/2719334)
+- HardRock
+  - [yuikonnu - caramel heaven (knowledgeking) \[Sweet Heaven\]](https://osu.ppy.sh/beatmapsets/1101604#osu/2301348)
+  - [linear ring - enchanted love (captin1) \[special\]](https://osu.ppy.sh/beatmapsets/1450161#osu/2981472)
+  - [onoken - K8107 (MaridiuS) \[Red Another\]](https://osu.ppy.sh/beatmapsets/807396#osu/1694521)
+- DoubleTime
+  - [la la larks - self (captin1) \[Insane\]](https://osu.ppy.sh/beatmapsets/646002#osu/1594070)
+  - [SOUND HOLIC vs. dj TAKA feat. YURiCa - TIEFSEE (celerih) \[Insane\]](https://osu.ppy.sh/beatmapsets/928646#osu/2248322)
+  - [Faylan - Mind as Judgment (miccoliasms) \[Impossible\]](https://osu.ppy.sh/beatmapsets/10192#osu/43666)
+  - [lapix - Horizon Blue feat. Kanata.N (Mir) \[Reform's Insane\]](https://osu.ppy.sh/beatmapsets/974832#osu/2062581)
+- FreeMod
+  - [Getty vs. DJ DiA - Ops:Code-Rapture- (Seolv) \[Ren's Eternal Warfare\]](https://osu.ppy.sh/beatmapsets/1341590#osu/2779114)
+  - [Zutto Mayonaka de Ii no ni. - Byoushin o Kamu (Natteke desu) \[Hareta Leila\]](https://osu.ppy.sh/beatmapsets/969520#osu/2028397)
+  - [Takanashi Yasuharu - Ketsudan no Toki (Mordred) \[Final Judgement\]](https://osu.ppy.sh/beatmapsets/1312098#osu/2719372)
+- Tiebreaker
+  - **[LeaF - Kyouki Ranbu (extended ver.) (My Angel Watame) \[Master\]](https://osu.ppy.sh/beatmapsets/1371373#osu/2835408)**
+
+### Finals
+
+- NoMod
+  - [Aqours - Kimeta yo Hand in Hand (SkyFlame) \[Unity\]](https://osu.ppy.sh/beatmapsets/1288914#osu/2675756)
+  - [Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu (knowledgeking) \[Tenebrae of Regina\]](https://osu.ppy.sh/beatmapsets/1443880#osu/2970030)
+  - [THE BINARY mido - Ego mo Id mo Tanjun ni (kuyusu) \[Expert\]](https://osu.ppy.sh/beatmapsets/1268824#osu/2636826)
+  - [ISOMERZ (DJ Raisei + seatrus) - Symmetric (Realazy) \[Sing's Extreme\]](https://osu.ppy.sh/beatmapsets/1381824#osu/2961607)
+  - [Spire - sayonara (Seamob) \[240\]](https://osu.ppy.sh/beatmapsets/1093583#osu/2288722)
+  - [ESQUARIA - Kantsubaki (Regou) \[Sakimashita\]](https://osu.ppy.sh/beatmapsets/621584#osu/1310626)
+- Hidden
+  - [Kotone - Autonomy (captin1) \[Thorn\]](https://osu.ppy.sh/beatmapsets/1420776#osu/2926505)
+  - [DJ Totoriott - Chloe (Yusomi) \[yf's Extra\]](https://osu.ppy.sh/beatmapsets/768982#osu/1908705)
+  - [solfa - Battle 6 : okamitachi no kiba -Revenge of the wolves- (Reiji Maigo) \[awa\]](https://osu.ppy.sh/beatmapsets/1431935#osu/2947341)
+- HardRock
+  - [Kishida Kyoudan & THE Akeboshi Rockets - Necrofantasia (skytuna) \[Delusion\]](https://osu.ppy.sh/beatmapsets/1100490#osu/2299186)
+  - [HiTECH NINJA - Modelista (-jordan-) \[Beyond Lv.10\]](https://osu.ppy.sh/beatmapsets/1148442#osu/2397737)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (yf\_bmp) \[Itsuki's Another\]](https://osu.ppy.sh/beatmapsets/714552#osu/1597481)
+- DoubleTime
+  - [Mikakuning! - Tomadoi Recipe (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/154114#osu/378617)
+  - [KAMELOT - Kevlar Skin (LMT) \[Insane\]](https://osu.ppy.sh/beatmapsets/1267309#osu/2633777)
+  - [hapi - NTD03 ''26ROAD'' (Full Edit) (\[Takuya\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/23667#osu/80863)
+  - [the GazettE - MALFORMED BOX / INSIDE BEAST (Vell) \[Insane\]](https://osu.ppy.sh/beatmapsets/627671#osu/1322582)
+- FreeMod
+  - [ShinRa-Bansho - Traveller of the Aurora (Asagi) \[Heaven\]](https://osu.ppy.sh/beatmapsets/827677#osu/1734270)
+  - [HuMeR - ChaserXX (Hishiro Chizuru) \[Cybernetics\]](https://osu.ppy.sh/beatmapsets/1293408#osu/2771171)
+  - [Brymir - Nephilim (LMT) \[Unholy Ritualus\]](https://osu.ppy.sh/beatmapsets/1271973#osu/2643166)
+- Tiebreaker
+  - **[Amuro vs Killer - Mei (Camellia's "Yomigae' Remix) (RLC) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/1123064#osu/2346860)**
+
+### Semifinals
+
+- NoMod
+  - [Suzuki Konomi - My Days (Depths) \[Ascend Beyond the Heavens\]](https://osu.ppy.sh/beatmapsets/1005224#osu/2103821)
+  - [Xi - Densetsu no Sabori Shinigami \~ Make a quick escape (vita2) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1432725#osu/2948669)
+  - [Akatsuki Records - BLOODSHED (Zelq) \[Extra\]](https://osu.ppy.sh/beatmapsets/937624#osu/1958623)
+  - [Camellia - B L A C K - R A Y (Mir) \[Obtrusion\]](https://osu.ppy.sh/beatmapsets/1020387#osu/2134989)
+  - [goreshit - MATZcore (smozit) \[A A A A A\]](https://osu.ppy.sh/beatmapsets/865872#osu/1810374)
+  - [Alice Schach and the Magic Orchestra - The eve of epokhe (captin1) \[movement mapping\]](https://osu.ppy.sh/beatmapsets/1436242#osu/2955142)
+- Hidden
+  - [04 Limited Sazabys - Squall (Gillstar) \[Expert\]](https://osu.ppy.sh/beatmapsets/1029349#osu/2152441)
+  - [MYUKKE. - The 89's Momentum (Cubby) \[Cubby & Yusomi Extreme\]](https://osu.ppy.sh/beatmapsets/1235496#osu/2568326)
+  - [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
+- HardRock
+  - [ZAQ - Seven Doors (SkyFlame) \[knowledge's Extreme\]](https://osu.ppy.sh/beatmapsets/1078911#osu/2430049)
+  - [Rin - Eientewi set 13 \~ Extend Ash (Halfslashed) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1262466#osu/2624071)
+  - [GUHROOVY - AIR RAID FROM THA UNDAGROUND (Matrix) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1067854#osu/2272299)
+- DoubleTime
+  - [senya - Wasurerareta Kiseki (Satellite) \[Narcissu's Lunatic\]](https://osu.ppy.sh/beatmapsets/662578#osu/1428656)
+  - [Feryquitous feat. F9 - Monochrome Anomaly (captin1) \[Insane\]](https://osu.ppy.sh/beatmapsets/1436243#osu/2955143)
+  - [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmapsets/28332#osu/94533)
+  - [Cranky - Libera me (eiri-) \[IOException's Insane\]](https://osu.ppy.sh/beatmapsets/757813#osu/1596819)
+- FreeMod
+  - [Yuuka - Girls' Carnival (mindmaster107) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1279334#osu/2657668)
+  - [Jun.A - The Fairy's Adventurous Tale (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/26480#osu/89229)
+  - [\*Luna feat. IA - Start Line (Cut Ver.) (Niva) \[Niva x Kuro Fuyusaki's Sea Food Extra\]](https://osu.ppy.sh/beatmapsets/1395285#osu/2880033)
+- Tiebreaker
+  - **[Demetori - Furuki Yuanxian (GoldenWolf) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/430959#osu/929660)**
+
+### Quarterfinals
+
+- NoMod
+  - [Yuna (CV: Kanada Sayaka) - Break Beat Bark! (SkyFlame) \[Checkmate\]](https://osu.ppy.sh/beatmapsets/924734#osu/1931547)
+  - [Hazuki - Legend of Millennium (Soruah) \[Zecent's Extra\]](https://osu.ppy.sh/beatmapsets/1195065#osu/2541686)
+  - [ZUTOMAYO - STUDY ME (sukiNathan) \[yanki-yanki-da\]](https://osu.ppy.sh/beatmapsets/1172774#osu/2446006)
+  - [factal - Flux (Sharu) \[liquid\]](https://osu.ppy.sh/beatmapsets/1190470#osu/2480417)
+  - [The ghost Of 3.13 - Daydream (orinel) \[ghost\]](https://osu.ppy.sh/beatmapsets/635056#osu/1347584)
+  - [II-L - SPUTNIK-4 (ConsumerOfBean) \[Odyssey\]](https://osu.ppy.sh/beatmapsets/1415634#osu/2917552)
+- Hidden
+  - [WHITEFISTS feat. Sennzai - Paralyzed Ash (Keqing) \[lowbe's Extra\]](https://osu.ppy.sh/beatmapsets/1374055#osu/2840551)
+  - [Makai Toshi Niigata - Ukiyo-e Yokochou (DeviousPanda) \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/921808#osu/1924977)
+  - [syatten remixed celas - Bird Sprite -Awakening of Light- (emu1337) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1321314#osu/2741605)
+- HardRock
+  - [Kotone - Kagome (Kyle73) \[Sparhten's Extra\]](https://osu.ppy.sh/beatmapsets/1146727#osu/2410799)
+  - [Eagle - D (P o M u T a) \[Kotori's EXTREME\]](https://osu.ppy.sh/beatmapsets/403667#osu/902947)
+  - [Nekomata Master+ - nightbird lost wing (captin1) \[apaffy's Extreme\]](https://osu.ppy.sh/beatmapsets/241892#osu/627961)
+- DoubleTime
+  - [aki - Clione no Akari (MiyohashiKoori) \[G11K's Insane\]](https://osu.ppy.sh/beatmapsets/1013752#osu/2225415)
+  - [Lime - Noblesse Gloria (yaspo) \[Noblesse\]](https://osu.ppy.sh/beatmapsets/1257575#osu/2613166)
+  - [Infinite Stratos Cast - SUPER STREAM \~INFINIT FUTURE Revised MIX\~ (JauiPlaY) \[DisPlaY\]](https://osu.ppy.sh/beatmapsets/29601#osu/98163)
+  - [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (Mir) \[Hyper\]](https://osu.ppy.sh/beatmapsets/806859#osu/1694582)
+- FreeMod
+  - [USAO - Cyaegha (captin1) \[edit\]](https://osu.ppy.sh/beatmapsets/1171888#osu/2444326)
+  - [xi - Glorious Crown (Monstrata) \[Atsuro's Extra\]](https://osu.ppy.sh/beatmapsets/558694#osu/1188172)
+  - [Tatsh - Lunatic Tears... (Tatsh Remix) (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/882485#osu/1844892)
+- Tiebreaker
+  - **[Mizuki Nana - TESTAMENT -Aufwachen Form- (Yogurtt) \[--///DEUS EX MACHINA///--\]](https://osu.ppy.sh/beatmapsets/1241779#osu/2581647)**
 
 ### Round of 16
 
@@ -151,11 +267,102 @@ The 3 Digit World Cup is run by various community members.
   - [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) \[felys' White Hard\]](https://osu.ppy.sh/beatmapsets/879051#osu/1855074)
   - [Duca - Dreamer (timemon) \[Insane\]](https://osu.ppy.sh/beatmapsets/730660#osu/1542024)
 
+## Match results
+
+### Finals
+
+The stats of the Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1957562667 "Google spreadsheet").
+
+Saturday, 1 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Countryless** ![][flag_XX] | **7** | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/82272039) |
+| **Taiwan** ![][flag_TW] | **7** | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/82282558) |
+| Brazil ![][flag_BR] | 6 | **7** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/82284291) |
+
+Sunday, 2 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Countryless ![][flag_XX] | 2 | **7** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/82360123) |
+
+### Semifinals
+
+The stats of the Semifinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=740688322 "Google spreadsheet").
+
+Saturday, 24 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Germany** ![][flag_DE] | **6** | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/81677156) |
+| Russia ![][flag_RU] | 3 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/81677216) |
+| Japan ![][flag_JP] | 1 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/81681175) |
+| **Poland** ![][flag_PL] | **6** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/81683023) |
+
+Sunday, 25 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **6** | 5 | ![][flag_XX] Countryless | [#1](https://osu.ppy.sh/community/matches/81761659) |
+| **Germany** ![][flag_DE] | **6** | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/81768522) |
+| **Poland** ![][flag_PL] | **6** | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/81770687) |
+
+Monday, 26 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/81840073) |
+
+### Quarterfinals
+
+The stats of the Quarterfinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1091288063 "Google spreadsheet").
+
+Saturday, 17 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Finland ![][flag_FI] | 2 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/81084501) |
+| **United States** ![][flag_US] | **6** | 2 | ![][flag_RU] Russia | [#1](https://osu.ppy.sh/community/matches/81093063) |
+
+Sunday, 18 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Australia ![][flag_AU] | 1 | **6** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/81169171) |
+| South Korea ![][flag_KR] | 1 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/81174384) |
+| **Taiwan** ![][flag_TW] | **6** | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/81176236) |
+| Poland ![][flag_PL] | 2 | **6** | ![][flag_XX] **Countryless** | [#1](https://osu.ppy.sh/community/matches/81181353) |
+| **Brazil** ![][flag_BR] | **6** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/81194271) |
+| **France** ![][flag_FR] | **6** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/81205049) |
+
+### Round of 16
+
+The stats of the Round of 16 can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit?rm=minimal#gid=676071053 "Google spreadsheet").
+
+Saturday, 10 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Sweden ![][flag_SE] | 5 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/80470980) |
+
+Sunday, 11 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **6** | 0 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/80536771) |
+| **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/80551557) |
+| **Germany** ![][flag_DE] | **6** | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/80567562) |
+| **Poland** ![][flag_PL] | **6** | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/80567658) |
+| **Countryless** ![][flag_XX] | **6** | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/80575588) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/80579699) |
+| **Russia** ![][flag_RU] | **6** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/80579745) |
+
 ## Ruleset
 
 ### Tournament rules
 
-1. The 3 Digit World cup is a world cup style tournament aimed for players in the 3 digit rank range (#100-#999) of osu!standard without the enforcement of a Badge Weighting System (BWS).
+1. The 3 Digit World cup is a world cup style tournament aimed for players in the 3 digit rank range (#100-#999) of osu! without the enforcement of a Badge Weighting System (BWS).
 2. Team size is 4-6 players, and matches are played in a 3v3 format.
 3. Beatmap scoring is based on ScoreV2.
 4. After signups close, players that did not get a minimum roster for their country will be able to form a "Countryless team", with a maximum of one player per country. 
