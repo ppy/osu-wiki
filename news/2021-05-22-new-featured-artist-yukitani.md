@@ -25,13 +25,13 @@ Older generations of osu! players might already be well-versed with **yukitani**
 Check out [this new osu!taiko showcase beatmap](https://osu.ppy.sh/beatmapsets/1436446) hosted by [Reficul](https://osu.ppy.sh/users/1506011) of the Mappers' Guild!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/167/Songs/yukitani%20-%20Amusing%20Reflection%20Rag..mp3" type="audio/mpeg">
 </audio>
 
 ### Kaiden joy Aura
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/167/Songs/yukitani%20-%20Kaiden%20joy%20Aura.mp3" type="audio/mpeg">
 </audio>
 
 ---
