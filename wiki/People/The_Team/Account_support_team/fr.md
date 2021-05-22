@@ -2,7 +2,7 @@
 
 *Pour l'équipe qui modère certains sous-forums, voir : [Équipe du support](/wiki/People/The_Team/Support_Team)*
 
-**L'équipe de support aux comptes** est un groupe d'utilisateurs administrant les comptes utilisateurs et les appels concernant les silences et les restrictions.
+L'**équipe de support aux comptes** est un groupe d'utilisateurs administrant les comptes utilisateurs et les demandes concernant les silences et les restrictions.
 
 ## Contacter l'équipe
 
