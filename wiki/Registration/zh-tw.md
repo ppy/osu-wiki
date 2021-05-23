@@ -17,6 +17,6 @@
 
 別忘記仔細閱讀[規則](/wiki/Rules)！
 
-讀完後，你就準備好開始你的節奏之旅了！你可以 [新增圖譜](/wiki/Installation#adding-beatmapsets)，[製作 Skin](/wiki/Skinning)，或 [製譜](/wiki/Beatmapping). 你也可以在[自介子論壇](https://osu.ppy.sh/community/forums/8)打聲招呼。
+讀完後，你就準備好開始你的節奏之旅了！你可以 [新增圖譜](/wiki/Installation#adding-beatmapsets)，[製作 Skin](/wiki/Skinning)，或 [製譜](/wiki/Beatmapping)。你也可以在[自介子論壇](https://osu.ppy.sh/community/forums/8)打聲招呼。
 
 在遊戲中，如果你需要更進一步的幫助，可以在 `#help` [Internet Relay Chat](/wiki/Internet_Relay_Chat) (IRC) 頻道中詢問，只要開啟聊天欄 (在遊戲中按下 `F8` 或 `F9`) 並輸入 `/join help` 即可進入頻道。你也可以把你的問題貼在[幫助子論壇](https://osu.ppy.sh/community/forums/5)。
