@@ -40,7 +40,7 @@ Pada mode permainan [osu!](/wiki/Game_mode/osu!), mod Hidden melenyapkan approac
 
 Perlu diperhatikan bahwa mod Hidden dianggap sebagai salah satu mod peningkat kesulitan yang paling mudah bagi para top player karena konsistensinya dalam kapan hit object muncul dan hilang. Oleh karena konsistensi itu, sangat mungkin dipelajari kapan harus menekan hit object hanya berdasarkan pada kapan objek tersebut itu menghilang.
 
-![Tampilan permainan osu! dengan menggunakan mod HD](img/HD-standard.jpg "Gameplay osu! dengan mod Hidden dinyalakan")
+![Tampilan permainan osu! dengan menggunakan mod HD](img/HD-osu.jpg "Gameplay osu! dengan mod Hidden dinyalakan")
 
 ### osu!taiko
 
