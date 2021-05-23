@@ -10,24 +10,24 @@ tags:
 
 # Le mod Double Time
 
-![Icone du mod DT](/wiki/shared/mods/DT.png "Icone du mod Double Time (DT)")
+![Icône du mod DT](/wiki/shared/mods/DT.png "Icône du mod Double Time (DT)")
 
-*Pour la liste complète de tous les mods, voir: [Modificateurs de jeu](/wiki/Game_modifier)*\
-*Voir également: [Nightcore (mod)](/wiki/Game_modifier/Nightcore)*
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*\
+*Voir également : [Nightcore (mod)](/wiki/Game_modifier/Nightcore)*
 
-## About
+## À propos
 
-- Abréviation: DT
-- Type: Augmentation de la difficulté
-- Multiplicateur de score:
+- Abréviation : DT
+- Type : Augmentation de la difficulté
+- Multiplicateur de score :
   - ![][osu!]: 1.12x
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
-- Touche de raccourci par défaut: `D`
-- Légende: `Zoooooooooom.`
-- Modes de jeu compatibles: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variant: [Nightcore](/wiki/Game_modifier/Nightcore)
+- Touche de raccourci par défaut : `D`
+- Légende : `Tout va plus vite !`
+- Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- Variante : [Nightcore](/wiki/Game_modifier/Nightcore)
 
 ## Description
 
@@ -39,7 +39,7 @@ Le mod Double Time est considéré comme un des meilleurs modificateurs de jeu p
 
 ### osu!taiko
 
-Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), l'indulgence de la précision est grandement réduite lorsque le mod Double Time est activé à cause de la difficulté générale déjà stricte dans le mode osu!taiko et les slider ticks sont considérablement plus difficiles à toucher. À cause de cela, le mod Double Time est considéré comme le mod le plus difficile et est rarement utilisé.
+Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), l'indulgence de la précision est grandement réduite lorsque le mod Double Time est activé à cause de la l'overall difficulty déjà stricte et les slider ticks sont considérablement plus difficiles à toucher. À cause de cela, le mod Double Time est considéré comme le mod le plus difficile et est rarement utilisé.
 
 ### osu!catch
 
