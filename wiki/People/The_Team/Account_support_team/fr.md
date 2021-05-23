@@ -16,7 +16,7 @@ Cela prend habituellement quelques jours avant que l'équipe prête attention à
 
 *Voir également : [Restriction de comptes](/wiki/Help_Centre/Account_Restrictions)*
 
-Vous devriez contacter cette équipe pour les sujets concernant votre compte qui sont hors de votre contrôle. Veuillez fournir le plus de contexte possible sur votre problème et envoyer un mail à l'adresse associée à votre problème.
+Vous devriez contacter cette équipe pour les sujets concernant votre compte qui sont hors de votre contrôle. Veuillez fournir le plus de détails possible sur votre problème et envoyer un mail à l'adresse associée à votre problème.
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
@@ -32,7 +32,7 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Note : Pour signaler un cas extrême de mauvaise conduite ou d'abus sexuel de n'importe quel utilisateur (modérateur inclus), voir : [Signaler un abus](/wiki/Reporting_Bad_Behaviour/Abuse).*
+*Remarque : Pour signaler un cas extrême de mauvaise conduite ou d'abus sexuel de n'importe quel utilisateur (modérateur inclus), voir : [Signaler un abus](/wiki/Reporting_Bad_Behaviour/Abuse).*
 
 - Préoccupations concernant la mauvaise conduite d'un modérateur.
 - Préoccupations concernant un modérateur brisant [le Code de conduite du contributeur](/wiki/Contributor_Code_of_Conduct).
