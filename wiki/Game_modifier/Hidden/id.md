@@ -70,7 +70,6 @@ Pada [osu!mania](/wiki/Game_mode/osu!mania), mod Hidden berfungsi sebagai semaca
 
 - Mod Hidden pertama kali muncul di Ouendan 2, yang merupakan permainan DS Jepang kedua pada seri [Osu! Tatake! Ouendan](/wiki/Ouendan) (seri awal yang menginspirasikan osu!).
 - Bila pemain berhasil lolos melewati sebuah beatmap dengan nilai S atau SS menggunakan mod Hidden, pemain akan diberikan nilai variasi perak.
-bawah `Gameplay`.
 - Pada [osu!](/wiki/Game_mode/osu!), [approach circle](/wiki/Hit_object/Approach_circle) dari [hit object](/wiki/Hit_object) yang pertama secara default akan muncul untuk sementara pada awal map untuk membantu pemain memperkirakan kapan harus menekan hit object selanjutnya. Perlakuan ini bisa dimatikan di menu `Options`, di bawah `Gameplay`.
 - Pada osu!mania, mod Hidden adalah sebuah variasi dari mod [Fade In](/wiki/Game_modifier/Fade_In).
 - Versi mod Hidden osu!mania yang seperti sekarang dulunya adalah mod terpisah bernama [Fade Out](/wiki/Game_modifier/Fade_Out).
