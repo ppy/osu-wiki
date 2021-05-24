@@ -9,7 +9,7 @@ tags:
 
 # peppy
 
-**peppy** (ditulis dengan huruf "p" kecil) adalah nama lain dari Dean herbert yang merupakan pencipta dari osu! dan juga [pengembang](/wiki/People/The_Team/Developers) utamanya.
+**peppy** (ditulis dengan huruf "p" kecil) adalah nama lain dari Dean Herbert yang merupakan pencipta dari proyek osu! dan juga seorang [pengembang](/wiki/People/The_Team/Developers) utama.
 
 ## Tautan-tautan
 
