@@ -19,4 +19,4 @@ stub: true
 3. Istilah lain untuk "[Kudosu](/wiki/Modding/Kudosu)".
    - Ini diberikan kepada modder beatmap dan dapat digunakan untuk menaikkan beatmap di atas beatmap yang lain.
 4. Istilah lain untuk "[Star Priority](/wiki/Modding/Star_priority)".
-   - Untuk dapat menggunakan bintang-bintang ini, dibutuhkan [osu!supporter](/wiki/osu!support) dan digunakan di dalam [Feature Requests](https://osu.ppy.sh/community/forums/4).
+   - Untuk dapat menggunakan bintang-bintang ini, dibutuhkan [osu!supporter](/wiki/osu!supporter) dan digunakan di dalam [Feature Requests](https://osu.ppy.sh/community/forums/4).
