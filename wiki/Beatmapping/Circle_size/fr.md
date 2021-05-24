@@ -12,7 +12,7 @@ Le **circle size** (***CS***) est un paramètre de difficulté d'une [beatmap](/
 
 ## osu!
 
-Dans le mode osu!, la taille du cercle modifie la taille des cercles et des sliders frappés, les valeurs les plus élevées créant des objets plus petits. Les spinners ne sont pas affectés par ce paramètre. Le circle size est calculée à l'aide de la formule suivante :
+Dans le mode osu!, le circle size modifie la taille des cercles et des sliders, les valeurs les plus élevées créant des objets plus petits. Les spinners ne sont pas affectés par ce paramètre. Le circle size est calculé à l'aide de la formule suivante :
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
@@ -28,11 +28,11 @@ Dans le mode osu!catch, le circle size détermine la taille de l'attrapeur et du
 
 ## osu!mania
 
-Dans osu!mania, le circle size fait référence au nombre de touches.
+Dans le mode osu!mania, le circle size fait référence au nombre de touches.
 
 ## Effets des mods
 
-Il existe deux mods qui modifient le paramètre CS lorsqu'ils sont activés :
+Il existe deux mods qui modifient le circle size lorsqu'ils sont activés :
 
-- [Easy](/wiki/Game_modifier/Easy): Réduit de moitié la valeur de CS.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplie la valeur CS par 1,3, avec un maximum de 10.
+- [Easy](/wiki/Game_modifier/Easy): Réduit de moitié la valeur du CS.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplie la valeur du CS par 1,3, avec un maximum de 10.
