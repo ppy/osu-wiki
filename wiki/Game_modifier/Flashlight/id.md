@@ -67,7 +67,7 @@ Pada [osu!mania](/wiki/Game_mode/osu!mania), area yang terlihat dibatasi pada ba
 
 ## Trivia
 
--Bila pemain berhasil lolos melewati sebuah beatmap dengan nilai S atau SS menggunakan mod Flashlight, pemain akan diberikan nilai variasi peringkat perak.
+- Bila pemain berhasil lolos melewati sebuah beatmap dengan nilai S atau SS menggunakan mod Flashlight, pemain akan diberikan nilai variasi peringkat perak.
 - Mod Flashlight pada awalnya menjadi sasaran kontroversi berat mengenai penerapannya pada tahun 2010, hal itu dikarenakan mod ini menjadi mod yang termudah untuk di hack; dan karena hal tersebut, mod ini terpaksa menjadi unranked sampai sebuah perbaikan dirilis untuk menutupi celah dari mod Flashlight.
   - [Flashlight mod disabled #2](https://osu.ppy.sh/community/forums/topics/41039)
   - [Flashlight is back!](https://osu.ppy.sh/community/forums/topics/41519)
