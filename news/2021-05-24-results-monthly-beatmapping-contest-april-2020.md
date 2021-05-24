@@ -75,7 +75,7 @@ Their entry of [*MYUKKE. - Ginevra*](https://osu.ppy.sh/beatmapsets/1468820) opt
 
 ### Runner-up
 
-placeholder
+The **runner-up** this month is [uone](https://osu.ppy.sh/users/5321719), who executed a super pleasant wavy SV idea in his version of [*MYUKKE. - Ginevra*](https://www.dropbox.com/s/mt5tpb9kqo9vtsf/radar%20%28suffering%29%20-%20Creative%20Dolphin.osz?dl=0). The map includes patterns that play incredibly well, which should be no surprise considering his playing skill and mapping history. He deserves a big congratulations as well! 
 
 ## osu!catch winners
 
