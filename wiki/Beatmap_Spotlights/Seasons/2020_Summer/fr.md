@@ -15,16 +15,16 @@ tags:
 | Événement | Temps |
 | :-- | :-- |
 | Début de la saison | 6 juillet 2020 |
-| Lobby temporaire : Liste de lecture A | 10 juillet - 12 juillet 2020 |
-| Lobby temporaire : Liste de lecture B | 17 juillet - 19 juillet 2020 |
-| Lobby temporaire : Liste de lecture C | 24 juillet - 26 juillet 2020 |
-| Lobby temporaire : Liste de lecture D | 31 juillet - 2 août 2020 |
-| Lobby temporaire : Liste de lecture A | 7 août - 9 août 2020 |
-| Lobby temporaire : Liste de lecture B | 14 août - 16 août 2020 |
-| Lobby temporaire : Liste de lecture C | 21 août - 23 août 2020 |
-| Lobby temporaire : Liste de lecture D | 28 août - 30 août 2020 |
-| Lobby temporaire : Liste de lecture A et B | 4 septembre - 6 septembre 2020 |
-| Lobby temporaire : Liste de lecture C et D | 11 septembre - 13 septembre 2020 |
+| Lobby temporaire : Playlist A | 10 juillet - 12 juillet 2020 |
+| Lobby temporaire : Playlist B | 17 juillet - 19 juillet 2020 |
+| Lobby temporaire : Playlist C | 24 juillet - 26 juillet 2020 |
+| Lobby temporaire : Playlist D | 31 juillet - 2 août 2020 |
+| Lobby temporaire : Playlist A | 7 août - 9 août 2020 |
+| Lobby temporaire : Playlist B | 14 août - 16 août 2020 |
+| Lobby temporaire : Playlist C | 21 août - 23 août 2020 |
+| Lobby temporaire : Playlist D | 28 août - 30 août 2020 |
+| Lobby temporaire : Playlists A et B | 4 septembre - 6 septembre 2020 |
+| Lobby temporaire : Playlists C et D | 11 septembre - 13 septembre 2020 |
 | Conclusion de la saison | 14 septembre - 18 septembre 2020 |
 
 ## Lobbies multijoueurs hebdomadaires
@@ -33,18 +33,18 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 
 1. Tous les vendredis d'une saison, un seul lobby temporaire multijoueur est ouvert. Tout le monde peut y participer pendant 3 jours.
    - Au cours des deux dernières semaines d'une saison, un lobby temporaire multijoueur en sera ouvert pour chacune des deux listes de jeu.
-2. Chaque lobby temporaire multijoueur propose une liste de lecture prédéfinie de beatmaps.
-   - Chaque liste de lecture est un sous-ensemble de l'ensemble des beatmaps de la saison en cours.
-   - Chaque liste de lecture contient une répartition égale de beatmaps Hard, Insane et Expert.
-   - Chaque liste de lecture correspond à la lettre attribuée à chaque semaine. Par conséquent, chaque liste de lecture est rejouée 3 fois au cours d'une saison.
+2. Chaque lobby temporaire multijoueur propose une playlist prédéfinie de beatmaps.
+   - Chaque playlist est un sous-ensemble de l'ensemble des beatmaps de la saison en cours.
+   - Chaque playlist contient une répartition égale de beatmaps Hard, Insane et Expert.
+   - Chaque playlist correspond à la lettre attribuée à chaque semaine. Par conséquent, chaque playlist est rejouée 3 fois au cours d'une saison.
 3. Au sein d'un lobby temporaire, tout le monde est en compétition pour un classement spécifique à la salle.
-   - Les classements des salles sont basés sur le système de score classé. Par conséquent, seuls les meilleurs résultats de chaque beatmap de la liste de lecture sont additionnés pour créer un classement hebdomadaire pour chaque utilisateur.
-   - Chaque beatmap d'une liste de lecture compte également pour le score du classement. Les difficultés plus difficiles ne donnent pas plus de points.
+   - Les classements des salles sont basés sur le système de score classé. Par conséquent, seuls les meilleurs résultats de chaque beatmap de la playlist sont additionnés pour créer un classement hebdomadaire pour chaque utilisateur.
+   - Chaque beatmap d'une playlist compte également pour le score du classement. Les difficultés plus difficiles ne donnent pas plus de points.
    - Le score individuel d'une beatmap est basé sur le système de notation d'osu!lazer.
 4. Le score total hebdomadaire visible dans le lobby temporaire est appelé "score hebdomadaire".
 5. Une fois qu'un lobby temporaire est terminé, le score hebdomadaire de chaque participant de la salle est ajouté au classement saisonnier.
 
-### Liste de lecture A
+### Playlist A
 
 | Date de début | Date de fin | Lobbies |
 | :-- | :-- | :-- |
@@ -52,7 +52,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 | 07/08/2020 (21h) | 10/08/2020 (21h) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28880), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
 | 04/09/2020 (20h) | 07/09/2020 (20h) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30709), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30711), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30713), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30715) |
 
-### Liste de lecture B
+### Playlist B
 
 | Date de début | Date de fin | Lobbies |
 | :-- | :-- | :-- |
@@ -60,7 +60,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 | 14/08/2020 (23h) | 07/08/2020 (23h) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29264), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29265), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29266), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29268) |
 | 04/09/2020 (20h) | 07/09/2020 (20h) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30710), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30712), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30714), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30716) |
 
-### Liste de lecture C
+### Playlist C
 
 | Date de début | Date de fin | Lobbies |
 | :-- | :-- | :-- |
@@ -68,7 +68,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 | 21/08/2020 (22h30) | 24/08/2020 (22h30) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29656), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29657), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29658), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29659) |
 | 11/09/2020 (21h) | 14/09/2020 (21h) | [osu!](https://osu.ppy.sh/multiplayer/rooms/31258), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31260), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31262), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31264) |
 
-### Liste de lecture D
+### Playlist D
 
 | Date de début | Date de fin | Lobbies |
 | :-- | :-- | :-- |
@@ -300,13 +300,13 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 | #49 | [chromb](https://osu.ppy.sh/users/10238680) | ![][mania-gold1] |
 | #50 | [dennischan](https://osu.ppy.sh/users/2875497) | ![][mania-gold1] |
 
-## Listes de lecture
+## Playlists
 
 ### osu!
 
-*Remarque : Vous pouvez [télécharger toutes les listes de lecture du mode osu!](https://osu.ppy.sh/beatmaps/packs/1992) sous la forme d'un seul pack de beatmaps.*
+*Remarque : Vous pouvez [télécharger toutes les playlists du mode osu!](https://osu.ppy.sh/beatmaps/packs/1992) sous la forme d'un seul pack de beatmaps.*
 
-#### Liste de lecture A
+#### Playlist A
 
 - [Kurenainagi Tabibito - Beloved Tomboyish Girl (Glass) \[Extended\]](https://osu.ppy.sh/beatmapsets/21678#osu/153246)
 - [Krewella - Ghost (Sulfur) \[Sulfur's Hard\]](https://osu.ppy.sh/beatmapsets/1060866#osu/2329519)
@@ -314,7 +314,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [Tove Styrke - Changed My Mind (Mint) \[Expert\]](https://osu.ppy.sh/beatmapsets/982452#osu/2056844)
 - [Britney Spears - Toxic (schoolboy) \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#osu/2223745)
 
-#### Liste de lecture B
+#### Playlist B
 
 - [Makino Yui - Undine (Hollow Wings) \[Lullaby\]](https://osu.ppy.sh/beatmapsets/396227#osu/862094)
 - [-45 - Midorigo Queen Bee (PandaHero) \[Another\]](https://osu.ppy.sh/beatmapsets/812792#osu/1728260)
@@ -322,7 +322,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [Thank You Scientist - Mr. Invisible (DTM9 Nowa) \[Insane\]](https://osu.ppy.sh/beatmapsets/1130581#osu/2387334)
 - [Limp Bizkit - Take A Look Around (FCL) \[life lesson feat. piroshki\]](https://osu.ppy.sh/beatmapsets/1109633#osu/2318842)
 
-#### Liste de lecture C
+#### Playlist C
 
 - [Kalafina - Yume no Daichi (Vell) \[Sinfonia\]](https://osu.ppy.sh/beatmapsets/468807#osu/1002657)
 - [Meramipop - Rakujitsu Romance (Loneight) \[Romance\]](https://osu.ppy.sh/beatmapsets/145976#osu/557980)
@@ -330,7 +330,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [Chata - Remind (Patchouli) \[Overdrive!!\]](https://osu.ppy.sh/beatmapsets/37292#osu/120030)
 - [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/beatmapsets/202252#osu/478605)
 
-#### Liste de lecture D
+#### Playlist D
 
 - [UNDEAD CORPORATION - Sad Dream (Hinsvar) \[Hard\]](https://osu.ppy.sh/beatmapsets/1019827#osu/2145695)
 - [Powerwolf - Christ & Combat (piroshki) \[Amen\]](https://osu.ppy.sh/beatmapsets/1013426#osu/2121136)
@@ -340,9 +340,9 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 
 ### osu!taiko
 
-*Remarque : Vous pouvez [télécharger toutes les listes de lecture du mode osu!taiko](https://osu.ppy.sh/beatmaps/packs/1993) sous la forme d'un seul pack de beatmaps.*
+*Remarque : Vous pouvez [télécharger toutes les playlists du mode osu!taiko](https://osu.ppy.sh/beatmaps/packs/1993) sous la forme d'un seul pack de beatmaps.*
 
-#### Liste de lecture A
+#### Playlist A
 
 - [Zekk - Feelsleft0ut (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1143253#taiko/2393341)
 - [t+pazolite - Shiny Kung-fu Revival (DakeDekaane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/352991#taiko/777798)
@@ -350,7 +350,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [Mary - Artificial Rose (Urushi38) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/99434#taiko/281675)
 - [Nippon Gakuon Noise Kyoukai - Igomoyos=Omul no Thema ni yoru Buyobuyo Sketch no Kokoromi (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690019#taiko/1460471)
 
-#### Liste de lecture B
+#### Playlist B
 
 - [lapix feat. Luschel - Cranberry City (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1133066#taiko/2388992)
 - [Kuripurin - Jutenija (qinche) \[Alace's Taiko\]](https://osu.ppy.sh/beatmapsets/25500#taiko/87086)
@@ -358,7 +358,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [Gekidan Record - Yuukyuu Shinwaroku -Haruka naru Sanmyaku ni Nagareru Taiga no Hotori nite- (AxelHino) \[Oni\]](https://osu.ppy.sh/beatmapsets/205637#taiko/485264)
 - [Xandria - Call Of Destiny (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/635559#taiko/1348707)
 
-#### Liste de lecture C
+#### Playlist C
 
 - [wa. - Black Lotus (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/605096#taiko/1279183)
 - [Ryu* - Mind Mapping (kors k mix) (Jerry) \[m1ng's Oni\]](https://osu.ppy.sh/beatmapsets/107237#taiko/281558)
@@ -366,7 +366,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [Zekk - Falling Down feat. Renko x TRIANGLE (Raiden) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1150487#taiko/2401584)
 - [LeaF - Doppelganger (extended ver.) (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/833092#taiko/1745096)
 
-#### Liste de lecture D
+#### Playlist D
 
 - [RoughSketch vs. L.E.D.-G - Engoku OVERKILL (Yales) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/889395#taiko/1860173)
 - [nmk - sola (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/171239#taiko/414274)
@@ -376,9 +376,9 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 
 ### osu!catch
 
-*Remarque : Vous pouvez [télécharger toutes les listes de lecture du mode osu!catch](https://osu.ppy.sh/beatmaps/packs/1994) sous la forme d'un seul pack de beatmaps.*
+*Remarque : Vous pouvez [télécharger toutes les playlists du mode osu!catch](https://osu.ppy.sh/beatmaps/packs/1994) sous la forme d'un seul pack de beatmaps.*
 
-#### Liste de lecture A
+#### Playlist A
 
 - [Virtual Self - Angel Voices (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/939437#fruits/2060158)
 - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Drafura's Rain\]](https://osu.ppy.sh/beatmapsets/48874#fruits/181233)
@@ -386,7 +386,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [DECO*27 feat. marina - Aimai Elegy (val0108) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/43248#fruits/155227)
 - [HyuN - Grin (Absolute Zero) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1065368#fruits/2230881)
 
-#### Liste de lecture B
+#### Playlist B
 
 - [Wisp X - Moonglow (wonjae) \[Platter\]](https://osu.ppy.sh/beatmapsets/1016833#fruits/2128303)
 - [illion - AIWAGUMA (Ellyu) \[Tenshichan's Rain\]](https://osu.ppy.sh/beatmapsets/533037#fruits/1254563)
@@ -394,7 +394,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [Hecq - Dstrukt (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmapsets/511538#fruits/1087385)
 - [ak+q - Axium Crisis (Lacrima) \[Vicious Labyrinth\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2084648)
 
-#### Liste de lecture C
+#### Playlist C
 
 - [sakuzyo - Altale (toybot) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/228815#fruits/724582)
 - [sana - Sunset March (Benita) \[Rain\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2020804)
@@ -402,7 +402,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [Sasaki Sayaka - Atlantico Blue (-Luminate) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1097911#fruits/2293993)
 - [IKIMONOGAKARI - Blue Bird feat. k*chan \[ dj-Jo Remix \] TV Size (Ascendance) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1174801#fruits/2450381)
 
-#### Liste de lecture D
+#### Playlist D
 
 - [FELT - Goldrop (Lust) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/204927#fruits/506395)
 - [sakuraburst - anticrystal (WildOne94) \[Team United Kingdom's Overdose\]](https://osu.ppy.sh/beatmapsets/1062804#fruits/2225576)
@@ -412,9 +412,9 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 
 ### osu!mania
 
-*Remarque : Vous pouvez [télécharger toutes les listes de lecture du mode osu!taiko](https://osu.ppy.sh/beatmaps/packs/1995) sous la forme d'un seul pack de beatmaps.*
+*Remarque : Vous pouvez [télécharger toutes les playlists du mode osu!taiko](https://osu.ppy.sh/beatmaps/packs/1995) sous la forme d'un seul pack de beatmaps.*
 
-#### Liste de lecture A
+#### Playlist A
 
 - [An - ExaVid (Abraxos) \[at\_the\_threshold\]](https://osu.ppy.sh/beatmapsets/649306#mania/1589629)
 - [Camellia - Artificial Snow (Dergo) \[ash's hard\]](https://osu.ppy.sh/beatmapsets/1026319#mania/2147852)
@@ -422,7 +422,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [Chroma - lost memory (Youwhang) \[a light received from you.\]](https://osu.ppy.sh/beatmapsets/961321#mania/2012530)
 - [bbn - Identic Conflict (pporse) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/246853#mania/568463)
 
-#### Liste de lecture B
+#### Playlist B
 
 - [X&G - Whiplash ft. josh pan (sakuraburst Remix) (error_exe777) \[break out\]](https://osu.ppy.sh/beatmapsets/723633#mania/1527737)
 - [Igorrr & Ruby My Dear - Figue Folle (Parachor) \[Grotesque [Lv.18]\]](https://osu.ppy.sh/beatmapsets/347453#mania/782953)
@@ -430,7 +430,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [Silentroom - NULCTRL EX (-mint-) \[MOTION\]](https://osu.ppy.sh/beatmapsets/1086666)
 - [Middleisland - Achromat (iJinjin) \[7K Black Another\]](https://osu.ppy.sh/beatmapsets/195940#mania/553820)
 
-#### Liste de lecture C
+#### Playlist C
 
 - [Synergy Sound - Dreaming (-MysticEyes) \[serenity\]](https://osu.ppy.sh/beatmapsets/966717#mania/2023410)
 - [Azu - Haryu (asd123iii) \[Another\]](https://osu.ppy.sh/beatmapsets/183478#mania/524443)
@@ -438,7 +438,7 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 - [Camellia - POWA OF DA WILDANES (Monheim) \[YATSUKAMIZUOMITSUNO\]](https://osu.ppy.sh/beatmapsets/1098578#mania/2295244)
 - [Camellia - Beyond the Geostationary Orbit Level (Leniane) \[Equatorial\]](https://osu.ppy.sh/beatmapsets/1011337#mania/2116795)
 
-#### Liste de lecture D
+#### Playlist D
 
 - [The Flashbulb - Every Two Days (Monheim) \[2\]](https://osu.ppy.sh/beatmapsets/905599#mania/1890121)
 - [siqlo - One Way Street (Dreamwalker) \[Unilateral\]](https://osu.ppy.sh/beatmapsets/688453#mania/1867902)

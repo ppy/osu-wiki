@@ -15,15 +15,15 @@ tags:
 | Événement | Temps |
 | :-- | :-- |
 | Début de la saison | 29 avril 2021 |
-| Lobby temporaire : Liste de lecture A | 3 mai - 10 mai 2021 |
-| Lobby temporaire : Liste de lecture B | 10 mai - 17 mai 2021 |
-| Lobby temporaire : Liste de lecture C | 17 mai - 24 mai 2021 |
-| Lobby temporaire : Liste de lecture D | 24 mai - 31 mai 2021 |
+| Lobby temporaire : Playlist A | 3 mai - 10 mai 2021 |
+| Lobby temporaire : Playlist B | 10 mai - 17 mai 2021 |
+| Lobby temporaire : Playlist C | 17 mai - 24 mai 2021 |
+| Lobby temporaire : Playlist D | 24 mai - 31 mai 2021 |
 | Interruption | 31 mai - 7 juin 2021 |
-| Lobby temporaire : Liste de lecture A | 7 juin - 14 juin 2021 |
-| Lobby temporaire : Liste de lecture B | 14 juin - 21 juin 2021 |
-| Lobby temporaire : Liste de lecture C | 21 juin - 28 juin 2021 |
-| Lobby temporaire : Liste de lecture D | 28 juin - 5 juillet 2021 |
+| Lobby temporaire : Playlist A | 7 juin - 14 juin 2021 |
+| Lobby temporaire : Playlist B | 14 juin - 21 juin 2021 |
+| Lobby temporaire : Playlist C | 21 juin - 28 juin 2021 |
+| Lobby temporaire : Playlist D | 28 juin - 5 juillet 2021 |
 | Conclusion de la saison | 5 juillet 2021 |
 
 ## Lobbies multijoueurs hebdomadaires
@@ -31,22 +31,22 @@ tags:
 Pour l'instant, les participants doivent télécharger et installer [osu!lazer](https://github.com/ppy/osu/releases) pour rejoindre les lobbies multijoueurs hebdomadaires.
 
 1. Chaque semaine d'une saison, un seul lobby temporaire multijoueur est ouvert. Tout le monde peut y participer pendant toute la semaine.
-   - Il y aura une semaine d'interruption après laquelle les lobbies de chaque liste de lecture seront réouverts chaque semaine.
-2. Chaque lobby temporaire multijoueur propose une liste de lecture prédéfinie de beatmaps.
-   - Chaque liste de lecture est un sous-ensemble de l'ensemble des beatmaps de la saison en cours.
-   - Chaque liste de lecture contient une répartition égale de beatmaps Hard, Insane et Expert.
-   - Chaque liste de lecture correspond à la lettre attribuée à chaque semaine. Par conséquent, chaque liste de lecture est rejouée une fois au cours d'une saison.
+   - Il y aura une semaine d'interruption après laquelle les lobbies de chaque playlist seront réouverts chaque semaine.
+2. Chaque lobby temporaire multijoueur propose une playlist prédéfinie de beatmaps.
+   - Chaque playlist est un sous-ensemble de l'ensemble des beatmaps de la saison en cours.
+   - Chaque playlist contient une répartition égale de beatmaps Hard, Insane et Expert.
+   - Chaque playlist correspond à la lettre attribuée à chaque semaine. Par conséquent, chaque playlist est rejouée une fois au cours d'une saison.
 3. Au sein d'un lobby temporaire, tout le monde est en compétition pour un classement spécifique à la salle.
-   - Les classements des salles sont basés sur le système de score classé. Par conséquent, seuls les meilleurs résultats de chaque beatmap de la liste de lecture sont additionnés pour créer un classement hebdomadaire pour chaque utilisateur.
-   - Chaque beatmap d'une liste de lecture compte également pour le score du classement. Les difficultés plus difficiles ne donnent pas plus de points.
+   - Les classements des salles sont basés sur le système de score classé. Par conséquent, seuls les meilleurs résultats de chaque beatmap de la playlist sont additionnés pour créer un classement hebdomadaire pour chaque utilisateur.
+   - Chaque beatmap d'une playlist compte également pour le score du classement. Les difficultés plus difficiles ne donnent pas plus de points.
    - Le score individuel d'une beatmap est basé sur le système de notation d'osu!lazer.
 4. Une fois qu'un lobby temporaire est terminé, le score hebdomadaire de chaque participant de la salle est ajouté au classement saisonnier.
 
-## Listes de lecture
+## Playlists
 
 ### osu!
 
-#### Liste de lecture A
+#### Playlist A
 
 - [Hana - Kuukirikigaku Shoujo to Shounen no Uta (Luscent) \[JeZag & Cyndere's Collab Hard\]](https://osu.ppy.sh/beatmapsets/1164291#osu/2744107)
 - [Yorushika - Spring Thief (Moecho) \[Scent of Spring, Taste of Wind, Scattering of Cherry Blossoms\]](https://osu.ppy.sh/beatmapsets/1348249#osu/2791894)
@@ -56,7 +56,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 
 ### osu!taiko
 
-#### Liste de lecture A
+#### Playlist A
 
 - [Ryu\* - We're so Happy (Spy) \[m1ng's Inner Oni\]](https://osu.ppy.sh/beatmapsets/120838#taiko/314179)
 - [SECONDWALL - Light (Volta) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1318825#taiko/2732076)
@@ -66,7 +66,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 
 ### osu!catch
 
-#### Liste de lecture A
+#### Playlist A
 
 - [siqlo - Purple Hyacinth feat. Norico (Rocma) \[Platter\]](https://osu.ppy.sh/beatmapsets/1245826#fruits/2589589)
 - [Daniel Olsen, Jonathan Eng - Wild Hearts Never Die (feat. Linnea Olsson) (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmapsets/1330448#fruits/2756540)
@@ -76,7 +76,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 
 ### osu!mania
 
-#### Liste de lecture A
+#### Playlist A
 
 - [Billie Eilish - bury a friend (Cut Ver.) (Monheim) \[false awakening\]](https://osu.ppy.sh/beatmapsets/1039475#mania/2172838)
 - [EVERGLOW - DUN DUN (Garalulu) \[PENGDOLL'S HYPER\]](https://osu.ppy.sh/beatmapsets/1217089#mania/2532342)

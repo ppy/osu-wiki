@@ -15,16 +15,16 @@ tags:
 | Événement | Temps |
 | :-- | :-- |
 | Début de la saison | 9 octobre 2020 |
-| Lobby temporaire : Listes de lecture A | 9 octobre - 16 octobre 2020 |
-| Lobby temporaire : Liste de lecture B | 16 octobre - 23 octobre 2020 |
-| Lobby temporaire : Liste de lecture C | 23 octobre - 30 octobre 2020 |
-| Lobby temporaire : Liste de lecture D | 30 octobre - 6 novembre 2020 |
+| Lobby temporaire : Playlist A | 9 octobre - 16 octobre 2020 |
+| Lobby temporaire : Playlist B | 16 octobre - 23 octobre 2020 |
+| Lobby temporaire : Playlist C | 23 octobre - 30 octobre 2020 |
+| Lobby temporaire : Playlist D | 30 octobre - 6 novembre 2020 |
 | Interruption  | 6 novembre - 13 novembre 2020 |
-| Lobby temporaire : Liste de lecture A | 13 novembre - 20 novembre 2020 |
+| Lobby temporaire : Playlist A | 13 novembre - 20 novembre 2020 |
 | Interruption  | 20 novembre - 27 novembre 2020 |
-| Lobby temporaire : Liste de lecture B | 27 novembre - 4 décembre 2020 |
-| Lobby temporaire : Liste de lecture C | 4 décembre - 11 décembre 2020 |
-| Lobby temporaire : Liste de lecture D | 11 décembre - 29 décembre 2020 |
+| Lobby temporaire : Playlist B | 27 novembre - 4 décembre 2020 |
+| Lobby temporaire : Playlist C | 4 décembre - 11 décembre 2020 |
+| Lobby temporaire : Playlist D | 11 décembre - 29 décembre 2020 |
 | Conclusion de la saison | 18 décembre 2020 |
 
 ## Lobbies multijoueurs hebdomadaires
@@ -32,15 +32,15 @@ tags:
 Pour l'instant, les participants doivent télécharger et installer [osu!lazer](https://github.com/ppy/osu/releases) pour rejoindre les lobbies multijoueurs hebdomadaires.
 
 1. Les lobby seront ouverts pendant toute la semaine.
-2. La liste de lecture comprendra désormais des mods
+2. La playlist comprendra désormais des mods
    - Les maps avec mods sont des copies de l'original et leur but est de donner du fil à retordre aux joueurs expérimentés.
    - osu!taiko est incapable de présenter des mods en raison des limitations de lazer dans cette saison.
 
-## Listes de lecture
+## Playlists
 
 ### osu!
 
-#### Liste de lecture A
+#### Playlist A
 
 - [paraoka - boot (Laurier) \[Hard\]](https://osu.ppy.sh/beatmapsets/50479#osu/155631) + DT
 - [vivi - Have a good time! (fanzhen0019) \[Master\]](https://osu.ppy.sh/beatmapsets/1130109#osu/2360737)
@@ -48,7 +48,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [Sakuzyo - I am "End" (pocket-) \[Abyss\]](https://osu.ppy.sh/beatmapsets/627159#osu/1321645)
 - [System Of A Down - Toxicity (Icekalt) \[384's Extra\]](https://osu.ppy.sh/beatmapsets/1041151#osu/2286593)
 
-#### Liste de lecture B
+#### Playlist B
 
 - [Yorushika - Night Journey (Moecho) \[Natsu Matsuri no Hanabi\]](https://osu.ppy.sh/beatmapsets/1197592#osu/2494505) + DT
 - [onumi - ARROGANCE (Mirash) \[Hard\]](https://osu.ppy.sh/beatmapsets/940377#osu/2165190)
@@ -56,7 +56,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [Marianas Trench - Celebrity Status (Krisom) \[Extra\]](https://osu.ppy.sh/beatmapsets/49351#osu/152185)
 - [rerulili - Noushou Sakuretsu Girl (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/63434#osu/187410) + HR
 
-#### Liste de lecture C
+#### Playlist C
 
 - [LEAF XCEED Music Division - Dear You \[ver. XCEED\] (semaphore) \[Sentimentality\]](https://osu.ppy.sh/beatmapsets/951890#osu/1987779) + DT
 - [Nothing But Thieves - Amsterdam (appleeaterx) \[Insane\]](https://osu.ppy.sh/beatmapsets/703956#osu/1489205) + HR
@@ -64,7 +64,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [Dictate - Treason (Realazy) \[The Senate\]](https://osu.ppy.sh/beatmapsets/848976#osu/1775314)
 - [Shade - Ontology (LMT) \[Brutal King\]](https://osu.ppy.sh/beatmapsets/1050313#osu/2195031)
 
-#### Liste de lecture D
+#### Playlist D
 
 - [Feryquitous - I can avoid it.#owo (Natsume Shiki) [Hard]](https://osu.ppy.sh/beatmapsets/1157872#osu/2426476) + DT
 - [Fleur - Zov mayaka (smozit) [mirashboy's Extra]](https://osu.ppy.sh/beatmapsets/1065266#osu/2231040) + HR
@@ -74,7 +74,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 
 ### osu!taiko
 
-#### Liste de lecture A
+#### Playlist A
 
 - [Sakuzyo - Future Coaster (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056866#taiko/2209098)
 - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2236133)
@@ -82,7 +82,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [Qrispy Joybox feat.Sana - Twinkle Wonderland (ReySHeL) \[0gre's Ura Oni\]](https://osu.ppy.sh/beatmapsets/82940#taiko/229706)
 - [Ci Mei Gui - Wu Xuan Lan (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/339558#taiko/751680)
 
-#### Liste de lecture B
+#### Playlist B
 
 - [Wowkie Zhang - Yang Guang Cai Hong Xiao Bai Ma (vrnl) \[Muzukashii!\]](https://osu.ppy.sh/beatmapsets/1177380#taiko/2478311)
 - [succducc - destination moon but it has amen breaks (Capu) \[Dekaane's Oni\]](https://osu.ppy.sh/beatmapsets/1196909#taiko/2517138)
@@ -90,7 +90,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [P\*Light - Gekkou Ranbu (kanpakyin) \[Oni\]](https://osu.ppy.sh/beatmapsets/454392#taiko/2514507)
 - [goreshit - o'er the flood (grumd) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/51972#taiko/176895)
 
-#### Liste de lecture C
+#### Playlist C
 
 - [LeaF - Poison AND/OR Affection (DakeDekaane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/245517#taiko/565691)
 - [REDALiCE vs. USAO - SAIKYO STRONGER (MMzz) \[Oni\]](https://osu.ppy.sh/beatmapsets/1145432#taiko/2394331)
@@ -98,7 +98,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [DJ TOTTO VS TOTTO - Vajra (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/322526#taiko/717065)
 - [Cranky - Into the Unknown (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/738600#taiko/1558762)
 
-#### Liste de lecture D
+#### Playlist D
 
 - [Nakanojojo - Nouryokusha Dakedo Mirai Nante Yomenai (Chromoxx) [Nardo's Muzukashii]](https://osu.ppy.sh/beatmapsets/936357#taiko/2010539)
 - [TeamGrimoire+Amaneko - croiX (HelloSCV) [714's Oni]](https://osu.ppy.sh/beatmapsets/88692#taiko/242953)
@@ -108,7 +108,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 
 ### osu!catch
 
-#### Liste de lecture A
+#### Playlist A
 
 - [LOONA - Hi High (Liyac) \[Liyac's Platter\]](https://osu.ppy.sh/beatmapsets/930513#fruits/2138903) + DT
 - [Glacier - Neos (WildOne94) \[Platter\]](https://osu.ppy.sh/beatmapsets/771096#fruits/1697137)
@@ -116,7 +116,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [Okabe Keiichi - Kaine / Escape (Sorcerer) \[Salvation\]](https://osu.ppy.sh/beatmapsets/862465#fruits/1804085) + HD
 - [DJ Totoriott - Chronoxia (Kyuare) \[Chronos\]](https://osu.ppy.sh/beatmapsets/429184#fruits/926084)
 
-#### Liste de lecture B
+#### Playlist B
 
 - [Minase Mashiro - Suna no Kodomo (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/972764#fruits/2043177) + HD
 - [Xelia - Illumiscape (Drafura) \[Drafura's CtB Platter\]](https://osu.ppy.sh/beatmapsets/43960#fruits/159792)
@@ -124,7 +124,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [Lolipusher - why as soon as we become so close, we have to say goodbye? (-MomoX) \[momox's overdose\]](https://osu.ppy.sh/beatmapsets/1135515#fruits/2488103)
 - [Street - Sakura Fubuki (Yumeno Himiko) \[Himiko's Expert\]](https://osu.ppy.sh/beatmapsets/1143608#fruits/2440597) + HD
 
-#### Liste de lecture C
+#### Playlist C
 
 - [HyuN - Illusion of Inflict (AJamez) \[Platter\]](https://osu.ppy.sh/beatmapsets/972887#fruits/2102558) + HR
 - [CLIFF EDGE - The Distance feat. Nakamura Maiko (Ascendance) \[Embrace\]](https://osu.ppy.sh/beatmapsets/494625#fruits/1053163)
@@ -132,7 +132,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [siromaru + cranky - conflict (Bunnrei) \[Conquest of the Damned\]](https://osu.ppy.sh/beatmapsets/981762#fruits/2054777) + HD
 - [REDALiCE vs. USAO - SAIKYO STRONGER (Rocma) \[ROCMA'S MIRAI\]](https://osu.ppy.sh/beatmapsets/1105820#fruits/2311283)
 
-#### Liste de lecture D
+#### Playlist D
 
 - [Mitsuhiro Kitadani - Aria of the Soul (JeirYagtama) [Platter]](https://osu.ppy.sh/beatmapsets/996344#fruits/2084141)
 - [Goose house - 18sai (mingmichael) [Rain]](https://osu.ppy.sh/beatmapsets/242856#fruits/560408) + DT
@@ -142,7 +142,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 
 ### osu!mania
 
-#### Liste de lecture A
+#### Playlist A
 
 - [Twenty Knives - Crow's Ghost (Shoegazer) \[Observer\]](https://osu.ppy.sh/beatmapsets/666119#mania/1411678) + HR
 - [Ekcle - The Impulsive State (Parachor) \[Entropy_\]](https://osu.ppy.sh/beatmapsets/643857#mania/1364765)
@@ -150,7 +150,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [SWJA - SPRINGIRLS (Garalulu) \[Colorful\]](https://osu.ppy.sh/beatmapsets/1142143#mania/2385301) + 1.2x
 - [Frums - Pictured as Perfect and Plus (Blocko) \[mint's Daze // 4K\]](https://osu.ppy.sh/beatmapsets/1023425#mania/2147648)
 
-#### Liste de lecture B
+#### Playlist B
 
 - [O2i3 - TSLove (Scotty) \[Hard\]](https://osu.ppy.sh/beatmapsets/1137583#mania/2376148)
 - [Taishi - All For The Time (AHHHHHHHHHHHHHH) \[time flies\]](https://osu.ppy.sh/beatmapsets/1029946#mania/2153612)
@@ -158,7 +158,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [Camellia - Tornado (Fresh Chicken) \[Hurricane\]](https://osu.ppy.sh/beatmapsets/666454#mania/1410606)
 - [MuryokuP - Frozen World (c36098651) \[Another\]](https://osu.ppy.sh/beatmapsets/94504#mania/258212)
 
-#### Liste de lecture C
+#### Playlist C
 
 - [Tennyson - XYZ (Parachor) \[Enlightment\]](https://osu.ppy.sh/beatmapsets/682615#mania/1443574)
 - [sakuraburst - skyshifter vip (Evening) \[us\]](https://osu.ppy.sh/beatmapsets/529155#mania/1122126)
@@ -166,7 +166,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 - [Mastermind(xi+nora2r) - Dreadnought (Kyousuke-) \[LordRaika's 7K Onslaught\]](https://osu.ppy.sh/beatmapsets/400351#mania/923665)
 - [RIOT - Overkill (yetii) \[SYNTHESIZED VIOLENCE\]](https://osu.ppy.sh/beatmapsets/945496#mania/1974394)
 
-#### Liste de lecture D
+#### Playlist D
 
 - [Kero Kero Bonito - My Party (bo en Remix) (Hydria) [Hard]](https://osu.ppy.sh/beatmapsets/812008#mania/1703185)
 - [Rohi - Kakuzetsu Thanatos (\_underjoy) [Insane]](https://osu.ppy.sh/beatmapsets/357060#mania/790529)

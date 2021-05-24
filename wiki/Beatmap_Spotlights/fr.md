@@ -16,7 +16,7 @@ Le **Beatmap Spotlights** (également connu sous le nom de *Spotlights* ou *Rank
 
 **L'itération actuelle de ce programme est toujours en cours de développement et de nombreuses fonctionnalités sont encore en attente de mise en œuvre.** Les spécificités de ce système, telles que les récompenses, les classements saisonniers ou les caractéristiques de jeu, peuvent changer à tout moment.
 
-La saison actuelle est celle de l'hiver 2021.
+La saison actuelle est celle du printemps 2021.
 
 ## Organisation
 
@@ -79,14 +79,14 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de conse
 
 *Page principale : [Saisons](Seasons)*
 
-Le projet Beatmap Spotlights est actuellement organisé en saisons prédéfinies. Chaque saison se compose d'un pool de beatmaps sélectionnés et d'une ligue saisonnière compétitive pour l'ensemble de la communauté.
+Le projet Beatmap Spotlights est actuellement organisé en saisons prédéfinies. Chaque saison se compose d'un pool de beatmaps sélectionnées et d'une ligue saisonnière compétitive pour l'ensemble de la communauté.
 
 1. Une seule saison dure 8 semaines.
 2. Les saisons sont entièrement préparées avant de commencer.
-   - Chaque beatmap est sélectionné et verrouillé avant le début de la saison.
+   - Chaque beatmap est sélectionnée et verrouillée avant le début de la saison.
    - Une fois la saison commencée, le calendrier complet sera publié.
 3. Chaque saison est divisée en semaines. Chaque semaine est identifiée par une lettre.
-   - Chaque lettre représente la liste de lecture d'un lobby multijoueur hebdomadaire.
+   - Chaque lettre représente la playlist d'un lobby multijoueur hebdomadaire.
    - Les semaines se déroulent sur toute la saison et sont répétées deux fois.
 4. Lorsqu'une saison se termine, il y aura une pause de 3 semaines avant le début d'une nouvelle saison. Pendant cette période, des réajustements du projet peuvent être effectués.
 
@@ -97,11 +97,11 @@ Le projet Beatmap Spotlights est actuellement organisé en saisons prédéfinies
 Le classement saisonnier résume les résultats du classement hebdomadaire de chaque participant. Sur la base du classement saisonnier, chaque participant est assigné à une tranche de la ligue qui reflète sa position relative dans le classement.
 
 1. Le score saisonnier au classement est la somme pondérée de tous les scores hebdomadaires obtenus dans les lobbies temporaires.
-2. Les participants ne peuvent posséder qu'un seul score hebdomadaire classé par liste de lecture.
-   - En rejouant une liste de lecture à une autre semaine, seul le meilleur score hebdomadaire classé comptera, écrasant le plus mauvais.
+2. Les participants ne peuvent posséder qu'un seul score hebdomadaire classé par playlist.
+   - En rejouant une playlist à une autre semaine, seul le meilleur score hebdomadaire classé comptera, écrasant le plus mauvais.
 3. Les participants ne seront pas informés de leur classement ou de leur score exact dans le classement saisonnier. Ils seront affectés à des tranches de ligue à la place.
    - Seul le classement exact des 50 premiers du classement saisonnier sera visible.
-   - La tranche est attribuée en fonction de la position dans le classement. Les participants se verront attribuer la tranche la plus élevée pour laquelle ils sont éligibles.
+   - La tranche est attribuée en fonction de la position dans le classement. Les participants se verront attribuer la tranche la plus élevée à laquelle ils sont éligibles.
 4. Le bracket attribué sera révélé une fois que la 2ème semaine d'une saison sera terminée.
 
 ### Récompenses
@@ -114,12 +114,12 @@ Des récompenses sont distribuées aux gagnants du lobby temporaire hebdomadaire
 2. Au cours de la saison, chaque participant est affecté à une tranche de ligue, ce qui se traduit par un badge unique sur son profil qui dure toute la saison.
    - Le badge sera mis à jour chaque semaine après la deuxième semaine de la saison.
    - Les meilleurs joueurs d'une saison pourront peut-être conserver leur badge de profil de manière permanente. Les détails à ce sujet doivent encore être décidés.
-3. A la fin de chaque saison, le meilleur créateur d'une beatmap, tel que décidé par les curateurs, sera récompensé par un osu!supporter d'un mois.
+3. À la fin de chaque saison, le meilleur créateur d'une beatmap, tel que décidé par les curateurs, sera récompensé par un osu!supporter d'un mois.
 4. À la fin de chaque saison, une nouvelle médaille à débloquer sera ajoutée. Pour l'obtenir, les joueurs doivent terminer une fois chaque beatmap de cette saison.
 
 | Badges | Palier de bracket | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/spring_2021/osu/ri_1.png) ![](img/badges/spring_2021/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
+| ![](img/badges/spring_2021/osu/ri_1.png) ![](img/badges/spring_2021/osu/ri_2.png) | Rhythm Incarnate | Le meilleur des meilleurs |
 | ![](img/badges/spring_2021/osu/diamond_1.png) ![](img/badges/spring_2021/osu/diamond_2.png) | Diamond | Top 3% |
 | ![](img/badges/spring_2021/osu/platinum_1.png) ![](img/badges/spring_2021/osu/platinum_2.png) | Platinum | 3% – 10% |
 | ![](img/badges/spring_2021/osu/gold_1.png) ![](img/badges/spring_2021/osu/gold_2.png) | Gold | 10% – 25% |
@@ -134,28 +134,28 @@ Ce tableau ne présente qu'une seule des quatre versions de badge. Chaque mode d
 
 ### Système de curation
 
-Le système de curation implique un processus de sélection par les curateurs des beatmaps mis en avant dans les Beatmap Spotlights pour chaque saison.
+Le système de curation implique un processus de sélection par les curateurs des beatmaps mises en avant dans les Beatmap Spotlights pour chaque saison.
 
-1. Les beatmaps sont sélectionnés par les curateurs de leur mode de jeu respectif pour la durée d'une saison.
+1. Les beatmaps sont sélectionnées par les curateurs de leur mode de jeu respectif pour la durée d'une saison.
    - Les curateurs doivent se mettre d'accord sur la difficulté de chaque beatmap dans le cadre d'une discussion ouverte.
    - Les responsables des modes de jeu respectifs verrouillent les décisions et consolident la sélection après des discussions concluantes.
    - Le processus de sélection lui-même varie selon les modes de jeu et s'adapte aux besoins des membres respectifs.
-2. Les beatmaps sont sélectionnés en fonction de leur caractère unique et de leur excellence. Chaque beatmap sélectionné doit être un exemple de qualité de contenu en termes de gameplay, de design et d'esthétique.
+2. Les beatmaps sont sélectionnées en fonction de leur caractère unique et de leur excellence. Chaque beatmap sélectionnée doit être un exemple de qualité de contenu en termes de gameplay, de design et d'esthétique.
 3. Ces maps servent de recommandations à l'ensemble de la communauté d'osu!
-4. Pour remplir le devoir de recommander d'excellentes beatmaps à l'ensemble de la communauté, les beatmaps curators doivent couvrir une répartition spécifique des difficultés Hard, Insane et Expert.
-   - 25% de toutes les beatmaps conservés doivent se situer dans le niveau de difficulté Hard.
-   - 45% de toutes les beatmaps conservés devraient se situer dans le niveau de difficulté Insane.
-   - 30 % de toutes les beatmaps sélectionnés doivent être dans le niveau de difficulté Expert.
-5. Pour chaque saison, 20 beatmaps au minimum doivent être sélectionnés.
-   - Toutes les beatmaps sélectionnés doivent être classés.
+4. Pour remplir le devoir de recommander d'excellentes beatmaps à l'ensemble de la communauté, les curateurs des beatmaps doivent couvrir une répartition spécifique des difficultés Hard, Insane et Expert.
+   - 25% de toutes les beatmaps conservées doivent se situer dans le niveau de difficulté Hard.
+   - 45% de toutes les beatmaps conservées devraient se situer dans le niveau de difficulté Insane.
+   - 30 % de toutes les beatmaps sélectionnées doivent être dans le niveau de difficulté Expert.
+5. Pour chaque saison, 20 beatmaps au minimum doivent être sélectionnées.
+   - Toutes les beatmaps sélectionnées doivent être classées.
    - Lors de la sélection de nouvelles beatmaps, il convient de respecter la répartition entre les niveaux de difficulté.
    - Les curateurs peuvent sélectionner plusieurs beatmaps d'un même ensemble de beatmaps.
 6. Les beatmaps doivent être un mélange sain de contenu récent et établi.
-   - Au moins 25 % des difficultés des beatmap sélectionné doivent avoir été classées dans les 3 derniers mois précédant le début de la saison.
-7. Les curateurs individuels ne doivent pas recommander les beatmaps sur lesquels ils ont aider à leur création.
-   - Au maximum 25% des beatmaps sélectionnés peuvent bénéficier d'une telle participation des curateurs eux-mêmes.
-8. Chaque beatmap doit être sélectionné avant le début de la saison. Une fois qu'une saison a commencé, les beatmaps ne peuvent plus être échangés.
-9. Les beatmaps sélectionnés sont révélés progressivement au cours de la saison. L'ensemble de la liste des beatmaps sélectionnés doit être gardé secret jusqu'à ce que chaque sous-ensemble de la saison ait été dévoilé.
+   - Au moins 25 % des difficultés des beatmap sélectionnées doivent avoir été classées dans les 3 derniers mois précédant le début de la saison.
+7. Les curateurs individuels ne doivent pas recommander les beatmaps auxquelles ils ont contribué lors de leur création.
+   - Au maximum 25% des beatmaps sélectionnées peuvent bénéficier d'une telle participation des curateurs eux-mêmes.
+8. Chaque beatmap doit être sélectionnée avant le début de la saison. Une fois qu'une saison a commencé, les beatmaps ne peuvent plus être échangées.
+9. Les beatmaps sélectionnées sont révélées progressivement au cours de la saison. L'ensemble de la liste des beatmaps sélectionnées doit être gardé secret jusqu'à ce que chaque sous-ensemble de la saison ait été dévoilé.
 
 ### Commentaires
 
@@ -173,13 +173,13 @@ Tous les candidats sont examinés par la direction du projet et les chefs d'équ
 
 ## Histoire
 
-Nommé à l'origine "Ranking Charts" et lancé en novembre 2009 par ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) et ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), le projet visait à mettre en avant les meilleurs beatmaps d'un mois en laissant la [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) et la [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) nommer et voter pour les candidats les plus appropriés.
+Nommé à l'origine "Ranking Charts" et lancé en novembre 2009 par ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) et ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), le projet visait à mettre en avant les meilleures beatmaps d'un mois en laissant la [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) et la [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) nommer et voter pour les candidats les plus appropriés.
 
 Le projet a fait l'objet de plusieurs modifications et ajouts, tels que les [classements thématiques](https://osu.ppy.sh/rankings/osu/charts?spotlight=26), les [classements réservés aux mods](https://osu.ppy.sh/rankings/osu/charts?spotlight=19) ou les [classements saisonniers](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart). À l'origine, les gagnants des classements étaient récompensés par des tags osu!supporter. Plus tard, des récompenses pour les mappeurs ou les gagnants des classements saisonniers ont été ajoutées.
 
 La direction du projet a changé plusieurs fois au cours de son histoire. ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) a pris la tête du projet en mai 2012, suivi par ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) et ![][flag_US] [Makar](https://osu.ppy.sh/users/686389). ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) et ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) ont repris le projet en décembre 2013. En mars 2015, le projet est passé de sa conception initiale de nomination et de vote à un système de renommée [les membres de la communauté sélectionnent à eux seuls une liste de beatmaps](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season) qu'ils recommandent. En septembre 2016, le [système de sélection a été en grande partie annulé](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) et la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) a été chargée de sélectionner les beatmaps les plus remarquables.
 
-Renommé [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) en mars 2017, le système lui-même est resté globalement cohérent tout en ajoutant des récompenses supplémentaires comme des médailles et en améliorant encore la présentation des Beatmap Spotlights. Lors d'une refonte interne de ma Quality Assurance Team, la responsabilité du projet a été réattribuée à ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) et a réimplanté une équipe de sélection basée sur la communauté. En novembre 2018, la fréquence des Spotlights a été modifiée pour devenir un [cycle de publication saisonnier](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). En mars 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) a repris la direction du projet avec Kurokami, en lui donnant une nouvelle forme et en constituant une nouvelle équipe de curateurs osu!
+Renommé [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) en mars 2017, le système lui-même est resté globalement cohérent tout en ajoutant des récompenses supplémentaires comme des médailles et en améliorant encore la présentation des Beatmap Spotlights. Lors d'une refonte interne de la Quality Assurance Team, la responsabilité du projet a été réattribuée à ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) et a réimplanté une équipe de sélection basée sur la communauté. En novembre 2018, la fréquence des Spotlights a été modifiée pour devenir un [cycle de publication saisonnier](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). En mars 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) a repris la direction du projet avec Kurokami, en lui donnant une nouvelle forme et en constituant une nouvelle équipe de curateurs osu!.
 
 En août 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) s'est retiré de la direction du projet. Fin novembre 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) a également démissionné, et ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) a repris le projet avec ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
 
