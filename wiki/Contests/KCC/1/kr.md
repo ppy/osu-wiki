@@ -3,6 +3,7 @@ tags:
   - KCC2021
   - KCC 2021
 ---
+
 # KCC 2021
 
 ![KCC2021 Logo](img/banner.png)
@@ -42,6 +43,7 @@ tags:
 ## 곡 리스트
 
 ### Instrumental
+
 - cYsmix - Moonlight Sonata (3:24) / 128bpm
 - Frums - Turnstile Jumper (2:37) / 321bpm
 - onumi - DESIRE (2:28) / 209bpm
@@ -49,6 +51,7 @@ tags:
 - Zekk - Kaleidoscope (2:11) / 155bpm
 
 ### Vocal
+
 - Alice Schach and the Magic Orchestra - Chocolate Missile (2:57) / 175bpm
 - HyuN - Last Paradise (feat. Serentium) (2:42) / 89bpm
 - Memme - Geurida (2:45) / 180bpm
@@ -64,11 +67,8 @@ tags:
 심사 패널은 제출한 모든 맵에 대해 아래에 명시된 기준에 의거해 점수를 부여합니다:
 
 - **Expertise (25 pts):** 맵이 구조, 노래 표현, 흐름과 관련된 기술력을 얼마나 잘 보여주고 있는가?
-
 - **Cohesion (25 pts):** 맵이 구조, 음악 표현, 흐름에 대해 얼마나 일관성을 가지고 있는가?
-
 - **Creativity (25 pts):** 다른 맵과 비교했을 때 플레이성 면에서 독창성과 특별함을 가지고 있는가?
-
 - **Judge's Impression (25 pts):** 심사위원들의 개인적 선호도를 나타내는 점수
 
 ## 상품

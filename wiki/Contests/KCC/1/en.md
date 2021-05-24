@@ -3,6 +3,7 @@ tags:
   - KCC2021
   - KCC 2021
 ---
+
 # KCC 2021
 
 ![KCC2021 Logo](img/banner.png)
@@ -42,6 +43,7 @@ The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping cont
 ## Song list
 
 ### Instrumental
+
 - cYsmix - Moonlight Sonata (3:24) / 128bpm
 - Frums - Turnstile Jumper (2:37) / 321bpm
 - onumi - DESIRE (2:28) / 209bpm
@@ -49,6 +51,7 @@ The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping cont
 - **Zekk - Kaleidoscope (2:11) / 155bpm**
 
 ### Vocal
+
 - Alice Schach and the Magic Orchestra - Chocolate Missile (2:57) / 175bpm
 - HyuN - Last Paradise (feat. Serentium) (2:42) / 89bpm
 - Memme - Geurida (2:45) / 180bpm
@@ -64,11 +67,8 @@ The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping cont
 For each eligible submitted difficulty, the juding panel will award points based on the following criteria:
 
 - **Expertise (25 pts):** How well does the submission demonstrate techniques regarding structure, music representation, flow, hitsounding, etc?
-
 - **Cohesion (25 pts):** How consistent is the submission regarding structure, music representation, flow, hitsounding etc especially between different sections?
-
 - **Creativity (25 pts):** How well does the submission show originality and uniqueness compared with the other submissions with reasonable respect to the playability?
-
 - **Judge's Impression (25 pts):** This is the part of the score left to the Judges’ personal preferences on the submission
 
 ## Prizes
