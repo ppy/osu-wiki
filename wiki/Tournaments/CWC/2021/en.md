@@ -101,7 +101,7 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Team A | Team B | Match time | Local time A | Local time B |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| Philippines ![][flag_PH] | ![][flag_US] United States | **03:00 UTC** | 11:00 UTC+08 | 01:00 UTC-04 | ² |
+| Philippines ![][flag_PH] | ![][flag_US] United States | **03:00 UTC** | 11:00 UTC+08 | 23:00 (Sat.) UTC-04 | ² |
 | Canada ![][flag_CA] | ![][flag_PH] Philippines | **15:00 UTC** | 10:00 UTC-05 | 23:00 UTC+08 | ³ |
 | France ![][flag_FR] | ![][flag_PH] Philippines | **15:00 UTC** | 17:00 UTC+02 | 23:00 UTC+08 | ³ |
 | France ![][flag_FR] | ![][flag_US] United States | **18:00 UTC** | 20:00 UTC+02 | 14:00 UTC-04 | ³ |
