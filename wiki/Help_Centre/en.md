@@ -15,7 +15,6 @@ Choose the section that matches your problem the most to find a suitable solutio
 | [Store](/wiki/Help_Centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
 | [Website](/wiki/Help_Centre/Website) | Blocking users, contacting with the support, site appearance |
 
-
 ## Help us help you
 
 ### Log files

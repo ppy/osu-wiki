@@ -1,6 +1,6 @@
 # Client
 
-*Main page [Help centre](/wiki/Help_centre)*
+*Main page [Help centre](/wiki/Help_Centre)*
 
 Having trouble with the game client? Find out if your issue is listed among the most common problems encountered by our users.
 
@@ -106,7 +106,7 @@ To check or change what beatmaps are displayed in the song select menu, try the 
 3. Type `song select` into the quick-search to jump straight to the option.
 4. Make sure `Display beatmaps from` is set to 0 stars, and that `up to` is set to 10+ stars.
 
-![](img/beatmapdiffdisp.png "Correct values of the Display Beatmaps setting")
+![](img/difficulty-display.png "Correct values of the Display Beatmaps setting")
 
 If none of these methods work, as a last resort you can try forcing your beatmap database to be recreated. **Note that this will mark all your maps as "unplayed", so searching and grouping maps by fields that rely on date played will no longer work.**
 
@@ -159,7 +159,7 @@ These are, unfortunately, gone.
 
 The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
 
-Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in-game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
+Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in-game or via [the beatmap listing page](https://osu.ppy.sh/beatmapsets?played=played&s=ranked) to find any maps that you have set scores on in the past.
 
 #### Are you set to the correct game mode?
 
@@ -225,7 +225,7 @@ Try closing any extra programs before playing osu! if you find that your scores 
 
 In the song select menu, check in the top left of the screen for any small icons (for example, a ranked beatmap should display a blue arrow icon in the top left). If your beatmaps do not display any icon, or display an incorrect icon, then your scores cannot submit. 
 
-![](img/mapstatusgood.png "This is what it should look like")
+![](img/correct-map-status.png "This is what it should look like")
 
 Playing with the `global leaderboard` selected, rather than the local leaderboard, can help prevent this on a map by map basis. If a large number of your beatmaps, or all of them, are missing/have incorrect statuses, try forcing your beatmap database file to be recreated. You can find out how to safely do this above in the "Some of my beatmaps are missing!" section. After doing this, it may take some time for all of your maps to regain the correct status.
 
@@ -430,7 +430,7 @@ To enable raw input, follow these steps:
 
 On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application.
 
-![Wacom Tablet Properties screen showing Mapping options](img/Tabarea.png "Interface for changing tablet area on Wacom devices")
+![Wacom Tablet Properties screen showing Mapping options](img/tablet-area.png "Interface for changing tablet area on Wacom devices")
 
 You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
 
