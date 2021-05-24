@@ -19,4 +19,4 @@ Als je op een link klikt zie je richtlijnen hoe de instellingen ongeveer moeten 
 
 Het komt ook voor dat mappers eigen namen gebruiken voor de [moeilijkheidsgraden](/wiki/Beatmap/Difficulty) in plaats van de standaard namen.
 
-Ook zijn er [gast moeilijkheidsgraden](//wiki/Beatmap/Guest_difficulty), wat inhoud dat een ander persoon een level maakt voor de mapset, wat dan vaak een naam krijgt met de naam van de mapper en de moeilijkheidsgraad (Bijvoorbeeld: Kyshiro's Insane).
+Ook zijn er [gast moeilijkheidsgraden](/wiki/Beatmap/Guest_difficulty), wat inhoud dat een ander persoon een level maakt voor de mapset, wat dan vaak een naam krijgt met de naam van de mapper en de moeilijkheidsgraad (Bijvoorbeeld: Kyshiro's Insane).
