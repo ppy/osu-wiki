@@ -2,7 +2,7 @@
 
 ## Janvier
 
-osu! passe sur iPhone grâce a un portage sur iPhone par nuudles. Le projet a eu son propre [sous-forum](https://osu.ppy.sh/community/forums/47)
+osu! passe sur iPhone grâce à un portage sur iPhone par nuudles. Le projet a eu son propre [sous-forum](https://osu.ppy.sh/community/forums/47)
 
 ![](img/2009-01_01.jpg "Écran d'accueil osu! iPhone")
 
