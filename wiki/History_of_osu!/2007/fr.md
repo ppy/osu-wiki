@@ -43,6 +43,7 @@ Le gameplay a été amélioré avec les débuts du [combo fire](/wiki/Glossary/C
 ## Septembre
 
 ![](img/2007-09.jpg)
+
 Le 17 septembre 2007 marque la "naissance" d'osu! pour le grand public. Les forums tels que nous les connaissons aujourd'hui ont été établis, et hébergés sur le domaine de peppy (`ppy.sh`). L'attention du public a été gagnée via un article sur le site [bemanistyle](http://bemanistyle.com) qui a fait quelques intéressés dans les habitués de jeux de rythme.
 
 ![](img/2007-09_01.jpg "Création de sliders dans l'éditeur")
