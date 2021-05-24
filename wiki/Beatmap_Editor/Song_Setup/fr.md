@@ -82,7 +82,7 @@ La notation courante pour représenter un paramètre de difficulté et sa valeur
 
 Le **taux de drain de santé**, communément abrégé en HP, détermine le taux de récupération des points de vie à la suite d'un bon score et de punition des points de vie à la suite d'un mauvais score. La valeur varie de 0 à 10 ; des valeurs de HP plus élevées donneront une récupération de santé plus faible avec une punition de santé plus élevée.
 
-Dans osu! et osu!catch, cela affecte également les [HP passifs](/wiki/Glossary#life-bar) (la vitesse constante à laquelle les HP diminuent, sauf pendant les [pauses](/wiki/Glossary#break).
+Dans osu! et osu!catch, cela affecte également les [HP passifs](/wiki/Glossary/Health_bar) (la vitesse constante à laquelle les HP diminuent, sauf pendant les [pauses](/wiki/Beatmap/Break).
 
 *Note : Plus d'HP sont récupérés avec les scores [Geki et Katu](/wiki/Score#osu!), qui peuvent être donnés par le dernier objet dans un combo.*
 
