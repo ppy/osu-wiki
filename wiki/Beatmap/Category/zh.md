@@ -27,7 +27,7 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 状态为 Graveyard 的谱面是被谱面创建者弃更了的谱面。只要一个在 [Work in Progress / Pending](#work-in-progress-和-pending) 类别中的谱面超过4周没有任何更新，它就会被自动地移至 Graveyard 类别中。类别为 Graveyard 的谱面没有排行榜，也不会影响用户成绩。但是，它们仍可以被正常的下载并游玩。这些谱面在选歌界面中使用问号（![](/wiki/shared/status/graveyard.png)）图标。
 
-当一个谱面变为Graveyard后，它仍可以被“复活” (如 重新变回[Pending](#work-in-progress-和-pending) ）。这可以由使用 [谱面提交系统](/wiki/Beatmap_ranking_procedure) 更新谱面达成。
+当一个谱面变为Graveyard后，它仍可以被“复活” (如 重新变回[Pending](#work-in-progress-和-pending) ）。这可以由使用 [谱面提交系统](/wiki/Submission) 更新谱面达成。
 
 ### Work in Progress 和 Pending
 

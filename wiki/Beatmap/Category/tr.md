@@ -27,7 +27,7 @@ Beatmapler, **[beatmap setlerinin](Beatmapsets)** bir parçası olarak yapılır
 
 Mezarlıktaki beatmapler yaratıcısı tarafından terkedilmiş beatmaplerdir. Beatmapler, 4 hafta boyunca güncellenmediğinde otomatik olarak [Yapım Aşamasında ve Beklemede](#yapım-aşamasında-ve-beklemede) kategorisinden Mezarlık kategorisine taşınır. Mezarlıktaki beatmapler bir sıralamaya sahip değildir ve kullanıcı istatistiklerini etkilemez. Ancak, normal bir şekilde indirilip oynanabilir. Şarkı seçim ekranında soru işareti ikonu (![](/wiki/shared/status/graveyard.png)) ile ayırt edilebilir.
 
-Bir beatmap mezarlığa düştüğünde, yeniden canlandırılabilir (yani, [Beklemede](#yapım-aşamasında-ve-beklemede) kategorisine geri getirilebilir). Bu, [beatmap gönderme sistemi](/wiki/Beatmap_ranking_procedure) ile beatmapi güncelleyerek yapılabilir.
+Bir beatmap mezarlığa düştüğünde, yeniden canlandırılabilir (yani, [Beklemede](#yapım-aşamasında-ve-beklemede) kategorisine geri getirilebilir). Bu, [beatmap gönderme sistemi](/wiki/Submission) ile beatmapi güncelleyerek yapılabilir.
 
 ### Yapım Aşamasında ve Beklemede
 
