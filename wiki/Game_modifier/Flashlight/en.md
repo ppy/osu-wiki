@@ -31,7 +31,7 @@ The **Flashlight** mod is a [game modifier](/wiki/Game_modifier/Flashlight) that
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!), only a small, illuminated cricle (i.e., the visible area) surrounding the cursor is shown which will display the parts of the playfield that are contained within that circle. The size of this circle will change depending on the player's current combo.
+In [osu!](/wiki/Game_mode/osu!), only a small, illuminated circle (i.e., the visible area) surrounding the cursor is shown which will display the parts of the playfield that are contained within that circle. The size of this circle will change depending on the player's current combo.
 
 The visible area will become smaller at 100x combo and again at 200x combo. If the player's combo is broken at any point, the visible area will return to its original size. Additionally, when sliding a [slider](/wiki/Hit_object/Slider), the visible area will partially darken until the slider is completed.
 
