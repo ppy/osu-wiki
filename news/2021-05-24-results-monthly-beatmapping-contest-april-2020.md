@@ -93,11 +93,15 @@ With a humble **14** entries, osu!catch skipped straight to the judging phase fo
 
 ### Winner
 
-The long-awaited **winner** of the first iteration of osu!catch MBC is [autofanboy](https://osu.ppy.sh/users/636114)! Having already established his status as a celebrated veteran in the mapping community, autofanboy showcased his experience in his rendition of [*MYUKKE. - Ginevra*](https://osu.ppy.sh/beatmapsets/1471164), resulting in a beautifully-crafted beatmap that captivated the judges. Its intricate flow used this month's limitation more like a tool to explore ideas only viable in a no-slider map, rather than an obstacle that they had to map around. Make sure to give this wonderful map a try!
+The long-awaited **winner** of the first iteration of osu!catch MBC is [autofanboy](https://osu.ppy.sh/users/636114)! 
+
+Having already established his status as a celebrated veteran in the mapping community, autofanboy showcased his experience in his rendition of [*MYUKKE. - Ginevra*](https://osu.ppy.sh/beatmapsets/1471164), resulting in a beautifully-crafted beatmap that captivated the judges. Its intricate flow used this month's limitation more like a tool to explore ideas only viable in a no-slider map, rather than an obstacle that they had to map around. Make sure to give this wonderful map a try!
 
 ### Runner-up
 
-Our **runner-up** is [rew0825](https://osu.ppy.sh/users/2488026). Their map of [*MYUKKE. - OCCHOCO-REST-LESS*](https://osu.ppy.sh/beatmapsets/1471162) is simply addicting to run through. Every pattern feels satisfying to hit and the overall playfulness and design of the map was so fitting to the song itself, leaving a strong impression on the judges!
+Our **runner-up** is [rew0825](https://osu.ppy.sh/users/2488026).
+
+Their map of [*MYUKKE. - OCCHOCO-REST-LESS*](https://osu.ppy.sh/beatmapsets/1471162) is simply addicting to run through. Every pattern feels satisfying to hit and the overall playfulness and design of the map was so fitting to the song itself, leaving a strong impression on the judges!
 
 ---
 
