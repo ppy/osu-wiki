@@ -1,5 +1,9 @@
 # Client
 
+*Main page [Help centre](/wiki/Help_centre)*
+
+Having trouble with the game client? Find out if your issue is listed among the most common problems encountered by our users.
+
 ## Bugs & crashes
 
 ### I have changed my settings, and now I can't start osu! or it freezes!

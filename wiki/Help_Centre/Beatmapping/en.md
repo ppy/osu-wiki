@@ -1,5 +1,9 @@
 # Beatmapping and Editor
 
+*Main page: [Help centre](/wiki/Help_Centre)*
+
+This section is dedicated to issues with the Beatmap Editor and beatmapping in general.
+
 ## Common issues
 
 ### How do I upload/update my map?

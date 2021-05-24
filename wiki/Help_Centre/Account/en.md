@@ -1,5 +1,9 @@
 # Account
 
+*Main page: [Help centre](/wiki/Help_Centre)*
+
+Everything related to your osu! account. Read below to find out if there's a suitable solution to your issue.
+
 ## Supporter
 
 ### I've paid for a supporter tag, but still have not received it!

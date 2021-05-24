@@ -1,5 +1,9 @@
 # Website
 
+*Main page: [Help centre](/wiki/Help_Centre)*
+
+This section is dedicated to issues with the osu! website.
+
 ## Common issues
 
 ### I have not received a reply to my support ticket and it's been over 2 weeks!
