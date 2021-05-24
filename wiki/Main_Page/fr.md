@@ -57,7 +57,7 @@ Composant : [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Be
 
 # Communauté
 
-[Tournois](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projets](/wiki/Projects) • [Guides](/wiki/Guides) • [Serveur Discord osu!dev](/wiki/osu!dev_Discord_server) • [Comment vous pouvez aider !](/wiki/How_You_Can_Help!) • [Glossaire](/wiki/Glossary)
+[Tournois](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projets](/wiki/Projects) • [Guides](/wiki/Guides) • [Serveur Discord osu!dev](/wiki/osu!dev_Discord_server) • [Comment vous pouvez aider !](/wiki/How_You_Can_Help!)
 
 </div>
 <div class="wiki-main-page-panel">

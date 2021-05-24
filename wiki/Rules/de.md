@@ -42,7 +42,7 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Comm
 
 *Diese Regeln beziehen sich auf eingereichte Beatmaps und nicht nur ranked Beatmaps. Für mehr Details bezüglich Regeln für ranked Beatmaps siehe [Ranking Kriterien](/wiki/Ranking_Criteria)*
 
-Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Glossary#bss) hochgeladen werden. Die Threads werden mithilfe des osu! Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Editor) hochlädst.
+Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Submission) hochgeladen werden. Die Threads werden mithilfe des osu! Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Editor) hochlädst.
 
 1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Damit bist du zu 100% auf der sicheren Seite.
 2. **Komm in Beatmap-Threads nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.

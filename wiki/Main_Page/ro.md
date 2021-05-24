@@ -57,7 +57,7 @@ Componente: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divizor Beat Snap](/wiki/Be
 
 # Comunitate
 
-[Turnee](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proiecte](/wiki/Projects) • [Ghiduri](/wiki/Guides) • [Serverul Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cum puteți ajuta](/wiki/How_You_Can_Help!) • [Glosar](/wiki/Glossary)
+[Turnee](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proiecte](/wiki/Projects) • [Ghiduri](/wiki/Guides) • [Serverul Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cum puteți ajuta](/wiki/How_You_Can_Help!)
 
 </div>
 <div class="wiki-main-page-panel">

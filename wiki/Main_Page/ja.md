@@ -56,7 +56,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # コミュニティ
 
-[トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/osu!dev_Discord_server) • [ご協力のお願い](/wiki/How_You_Can_Help!) • [用語集](/wiki/Glossary)
+[トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/osu!dev_Discord_server) • [ご協力のお願い](/wiki/How_You_Can_Help!)
 
 </div>
 <div class="wiki-main-page-panel">

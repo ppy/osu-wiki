@@ -58,7 +58,7 @@ layout: main_page
 
 # 社群
 
-[錦標賽](/wiki/Tournaments) • [製作 Skin](/wiki/Skinning) • [專案](/wiki/Projects) • [指南](/wiki/Guides) • [osu!開發者 Discord 伺服器](/wiki/osu!dev_Discord_server) • [如何貢獻](/wiki/How_You_Can_Help!) • [詞彙表](/wiki/Glossary)
+[錦標賽](/wiki/Tournaments) • [製作 Skin](/wiki/Skinning) • [專案](/wiki/Projects) • [指南](/wiki/Guides) • [osu!開發者 Discord 伺服器](/wiki/osu!dev_Discord_server) • [如何貢獻](/wiki/How_You_Can_Help!)
 
 </div>
 <div class="wiki-main-page-panel">

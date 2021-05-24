@@ -44,7 +44,7 @@ Sezioni: ([Componi](/wiki/Beatmap_Editor/Compose) • [Progettazione](/wiki/Beat
 
 # Il mondo di osu!
 
-[Glossario](/wiki/Glossary) • [Tornei](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Progetti](/wiki/Projects)
+[Tornei](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Progetti](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">

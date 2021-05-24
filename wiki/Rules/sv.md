@@ -41,7 +41,7 @@ Dessa regler är basen vi använder för att hålla osu! communityn en rolig och
 
 *Obs: Dessa regler gäller för **alla inlämnade beatmaps**, inte bara Rankade. För mer specifika regler om rankade beatmaps, se [Ranking Criteria](/wiki/Ranking_Criteria).*
 
-Dessa regler gäller strikt för beatmaps som skickas in via spelets [Beatmap-inlämningssystem](/wiki/Glossary#bss). Dessa trådar / diskussioner skapas via osu! klienten när en beatmap skickas in via osu!s [Beatmap redigerare](/wiki/Beatmap_Editor).
+Dessa regler gäller strikt för beatmaps som skickas in via spelets [Beatmap-inlämningssystem](/wiki/Submission). Dessa trådar / diskussioner skapas via osu! klienten när en beatmap skickas in via osu!s [Beatmap redigerare](/wiki/Beatmap_Editor).
 
 1. **Se till att du har tillåtelse att använda allt innehåll som är involverat i din beatmap.** Detta inkluderar låtar, videor, hitsounds, grafik och allt annat innehåll som inte är din egen skapelse. Om du är osäker på var du hittar innehåll som är gratis att använda, kolla in vårt växande [Featured Artist](https://osu.ppy.sh/beatmaps/artists) bibliotek för musik 100% licensierat för användning i osu! och våra [Riktlinjer för innehållsanvändning](Content_Usage_Guidelines) för mer information.
 2. **Håll ämnet i Beatmap-diskussioner.** Dessa trådar / diskussioner handlar om beatmapen i fråga och ingenting annat. Om du har problem med något som inte direkt hänför sig till beatmapen, skicka det i rätt forum.

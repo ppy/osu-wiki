@@ -59,7 +59,7 @@ Componentes: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divisor de golpes](/wiki/B
 
 # Comunidad
 
-[Torneos](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proyectos](/wiki/Projects) • [Guías](/wiki/Guides) • [Servidor de Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cómo puedes ayudar](/wiki/How_You_Can_Help!) • [Glosario](/wiki/Glossary)
+[Torneos](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proyectos](/wiki/Projects) • [Guías](/wiki/Guides) • [Servidor de Discord osu!dev](/wiki/osu!dev_Discord_server) • [Cómo puedes ayudar](/wiki/How_You_Can_Help!)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -56,7 +56,7 @@ layout: main_page
 
 # 社区
 
-[锦标赛](/wiki/Tournaments) • [皮肤](/wiki/Skinning) • [项目](/wiki/Projects) • [指南](/wiki/Guides) • [osu!dev Discord 服务器](/wiki/osu!dev_Discord_server) • [如何提供帮助](/wiki/How_You_Can_Help!) • [词汇表](/wiki/Glossary)
+[锦标赛](/wiki/Tournaments) • [皮肤](/wiki/Skinning) • [项目](/wiki/Projects) • [指南](/wiki/Guides) • [osu!dev Discord 服务器](/wiki/osu!dev_Discord_server) • [如何提供帮助](/wiki/How_You_Can_Help!)
 
 </div>
 <div class="wiki-main-page-panel">

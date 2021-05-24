@@ -280,7 +280,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `Ctrl` + `C` | Seçilen sprite'ı kopyala. |
 | `Ctrl` + `V` | Sprite'ı mevcut zamana yapıştır. *Not: Yapıştırılan sprite'lar beatmap kaydedilene ve yeniden yüklenene kadar katman listesinde gösterilmeyecektir.* |
 | `Delete` | Katman üzerinden seçilen sprite'ı kaldır. |
-| `W`, `A`, `S`, `D` | Seçilen sprite'ı bir [osu!pixel](/wiki/Glossary#osupixel) kadar sırasıyla yukarı, sola, aşağı ya da sola ötele. |
+| `W`, `A`, `S`, `D` | Seçilen sprite'ı bir [osu!pixel](/wiki/osupixel) kadar sırasıyla yukarı, sola, aşağı ya da sola ötele. |
 
 ### Zamanlama
 

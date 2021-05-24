@@ -44,7 +44,7 @@ Sektioner: ([Komponera](/wiki/Beatmap_Editor/Compose) • [Designa](/wiki/Beatma
 
 # World of osu!
 
-[Ordlista](/wiki/Glossary) • [Turneringar](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projekt](/wiki/Projects)
+[Turneringar](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projekt](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">

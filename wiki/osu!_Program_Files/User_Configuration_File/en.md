@@ -198,8 +198,8 @@ More osu!mania layout options can be found in the current skin's [skin.ini](/wik
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `EditorGridSize` | Integer | Grid size in [osu! pixels](/wiki/Glossary#osupixel) |
-| `EditorGridSizeDesign` | Integer | Design grid size in [osu! pixels](/wiki/Glossary#osupixel) |
+| `EditorGridSize` | Integer | Grid size in [osu! pixels](/wiki/osupixel) |
+| `EditorGridSizeDesign` | Integer | Design grid size in [osu! pixels](/wiki/osupixel) |
 | `EditorDim` | 0 or 1 | Whether or not the background will be dimmed while test playing |
 | `EditorGrid` | 0 or 1 | Whether or not grid snap is enabled |
 | `EditorBeatDivisor` | Integer | Last used beat snap divisor |
