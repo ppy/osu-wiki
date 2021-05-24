@@ -1,0 +1,110 @@
+---
+tags:
+  - KCC2021
+  - KCC 2021
+---
+# KCC 2021
+
+![KCC2021 Logo](img/banner.png)
+
+The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping contest for Koreans.  This edition was the first installment of the KCC.
+
+## Contest schedule
+
+| Event | Timestamp (UTC +9) |
+| --: | :-- |
+| Registration Phase, Songs Voting | 2021-02-01/2021-02-07 |
+| Submitting Phase | 2021-02-08/2021-03-07 |
+| Judging Phase | 2021-03-08/2021-03-21 |
+| Results Announcement | 2021-03-22 |
+
+## Ruleset
+
+### Contest rules
+
+- This contest is for osu!mania mode only.
+- Only Koreans can participate in this contest. If your profile flag is not showing that you're in Korea because of some reasons like foreign residence, you can still participate as long as you're able to verify that you are Korean.
+- You should pick a song that you want to map when you register. one song for Instrumental / Vocal each. You can map one of the two songs selected after the vote ends.
+- Submission must be loadable and readable by osu! client.
+- Submission must be in ``.osz`` format.
+- Custom hitsounds are allowed.
+- Title, Artist, MP3, Source, Tags and Background must NOT be modified. However, preview point can be customized.
+- No video, skin and storyboard are allowed. However, storyboard hitsounds are allowed.
+- Submission must be 4K ~ 9K.
+- Submission must be full comboed (1,000,000 score) by Auto mod.
+- Submission must be finished by the contestant only. No collaboration is allowed.
+- Submission must not be uploaded to the osu! website through the Beatmap Submission System (BSS). All contest submissions are anonymous during the judging phases to avoid bias. 
+- One and only one difficulty is allowed. If multiple difficulties are submitted, only the one with the highest star difficulty will be accepted.
+- Only the following difficulty are allowed: Insane or Higher. Please check the Difficulty-specific Rule in the [ranking criteria](/wiki/Ranking_Criteria).
+- If you submit several maps, the last one would be your final entry.
+- Submitting entries means understanding and agreeing the ruleset above.
+
+## Song list
+
+### Instrumental
+- cYsmix - Moonlight Sonata (3:24) / 128bpm
+- Frums - Turnstile Jumper (2:37) / 321bpm
+- onumi - DESIRE (2:28) / 209bpm
+- Sakuzyo - First Dance (3:12) / 116bpm
+- **Zekk - Kaleidoscope (2:11) / 155bpm**
+
+### Vocal
+- Alice Schach and the Magic Orchestra - Chocolate Missile (2:57) / 175bpm
+- HyuN - Last Paradise (feat. Serentium) (2:42) / 89bpm
+- Memme - Geurida (2:45) / 180bpm
+- mk feat.橘花音 - Awaking Beat-From the next generation- (3:51) / 178bpm
+- **YUC'e - Sengoku HOP (3:25) / 110bpm**
+
+### Vote results
+
+![KCC2021 Vote Results](img/voteresult.jpg)
+
+## Judging Criteria
+
+For each eligible submitted difficulty, the juding panel will award points based on the following criteria:
+
+- **Expertise (25 pts):** How well does the submission demonstrate techniques regarding structure, music representation, flow, hitsounding, etc?
+
+- **Cohesion (25 pts):** How consistent is the submission regarding structure, music representation, flow, hitsounding etc especially between different sections?
+
+- **Creativity (25 pts):** How well does the submission show originality and uniqueness compared with the other submissions with reasonable respect to the playability?
+
+- **Judge's Impression (25 pts):** This is the part of the score left to the Judges’ personal preferences on the submission
+
+## Prizes
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 40,000 KRW, profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 20,000 KRW |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 10,000 KRW |
+
+![KCC2021 Badge](img/badge.png)
+
+## Organisation
+
+| Position | Member(s) |
+| :-- | :-- |
+| Organizer | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
+| Manager | ![][flag_KR] [Oni Suika](https://osu.ppy.sh/users/4848023) |
+| Designer | ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
+| Judge | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/6392061), ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783), ![][flag_GT] [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_KR] [Pengdoll](https://osu.ppy.sh/users/6392061) |
+
+## Results
+
+| Place | Mapper |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [11Bit](https://osu.ppy.sh/users/14804526) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [Sherie](https://osu.ppy.sh/users/9113475) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008) |
+
+## Links
+
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1230057)
+- [Results Sheet](https://docs.google.com/spreadsheets/d/1O0Ygpning0te62S850M42oPo0lCYd1Ct8VeYnAWRcYE/edit?usp=sharing)
+- [All Entries](https://lulu.s-ul.eu/D2M3x9LH)
+
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
