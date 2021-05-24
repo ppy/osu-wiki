@@ -11,8 +11,8 @@ Nous nous engageons à agir et interagir de manière à contribuer à une commun
 Exemples de comportements qui contribuent à créer un environnement positif :
 
 - Faire preuve d’empathie et de bienveillance envers les autres
-- Être respectueux des opinions, points de vue et expériences divergents
-- Donner et recevoir avec grâce les critiques constructives
+- Être respectueux des opinions, points de vue et expériences divergentes
+- Donner et recevoir gracieusement les critiques constructives
 - Assumer ses responsabilités et s’excuser auprès des personnes affectées par nos erreurs et apprendre de ces expériences
 - Se concentrer sur ce qui est le meilleur non pas uniquement pour nous en tant qu’individu, mais aussi pour l’ensemble de la communauté
 
@@ -49,7 +49,7 @@ Tou·te·s les dirigeant·e·s de la communauté sont tenu·e·s de respecter la
 
 ## Directives d’application
 
-Les dirigeant·e·s de communauté suivront ces directives d’application sur l’impact communautaire afin de déterminer les conséquences de toute action qu’ils jugent contraire au présent code de conduite :
+Les dirigeant·e·s de la communauté suivront ces directives d’application sur l’impact communautaire afin de déterminer les conséquences de toute action qu’ils jugent contraire au présent code de conduite :
 
 ### 1. Correction
 
