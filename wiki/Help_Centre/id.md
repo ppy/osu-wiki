@@ -137,7 +137,7 @@ Jika perubahan dilakukan menggunakan penawaran perubahan gratis yang datang deng
 
 **Mohon maaf, untuk saat ini tidak bisa.**
 
-Profil Anda akan menampilkan semua nama pengguna yang Anda gunakan sebelumnya, dan kami tidak menerima permintaan untuk menghapus riwayat nama pengguna saat ini. Jika salah satu nama pengguna Anda sebelumnya melanggar privasi Anda (misalnya, jika berisi nama asli Anda), hubungi accounts@ppy.sh untuk meminta penghapusan.
+Profil Anda akan menampilkan semua nama pengguna yang Anda gunakan sebelumnya, dan kami tidak menerima permintaan untuk menghapus riwayat nama pengguna saat ini. Jika salah satu nama pengguna Anda sebelumnya melanggar privasi Anda (misalnya, jika berisi nama asli Anda), hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta penghapusan.
 
 ### Masalah lainnya
 
