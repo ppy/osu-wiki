@@ -6,7 +6,7 @@ tags:
 
 # La Mappers' Guild
 
-La **Mappers' Guild** est un groupe de mappers responsables de la création des [beatmaps](/wiki/Beatmap) pour les [artistes associés](/wiki/Featured_Artists) d'osu! En utilisant un style de guilde MMO, elle permet aux mappers de gagner des récompenses en participant au procédé de classement des beatmaps des artistes associés et en coopérant dans des quêtes en lien avec le mapping.
+La **Mappers' Guild** est un groupe de mappeurs responsables de la création des [beatmaps](/wiki/Beatmap) pour les [artistes associés](/wiki/Featured_Artists) d'osu! En utilisant un style de guilde MMO, elle permet aux mappeurs de gagner des récompenses en participant au procédé de classement des beatmaps des artistes associés et en coopérant dans des quêtes en lien avec le mapping.
 
 L'organisation et les discussions de la guilde peuvent être trouvées dans le salon `#mappers-guild` du [serveur Discord osu!dev](https://discord.gg/ppy).
 
