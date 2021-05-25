@@ -439,7 +439,6 @@ TB:
    - 除时区问题以外，选手未能按时参赛的，不论提前声明与否，仍然依照缺席处理。
 6. 选手弃权的比赛不予重赛。
 
-
 [CN]: /wiki/shared/flag/CN.gif "中国"
 [UK]: /wiki/shared/flag/GB.gif "英国"
 [TW]: /wiki/shared/flag/TW.gif "台湾"
