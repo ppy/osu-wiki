@@ -38,7 +38,7 @@ La zone visible devient plus petite à partir d'un combo de 100x et à nouveau �
 
 Tout cela donne un effet qui ressemble à une lampe de poche virtuelle braquée sur le curseur du joueur :
 
-![Comparaison du gameplay avec le mod FL dans osu!](img/FL-comparison-standard.jpg "Comparaison entre un jeu avec le mod Flashlight activé à 13x combo (en haut au milieu), 100x combo (en bas à gauche), et à 200x combo (en bas à droite)")
+![Comparaison du gameplay avec le mod FL dans osu!](img/FL-comparison-osu.jpg "Comparaison entre un jeu avec le mod Flashlight activé à 13x combo (en haut au milieu), 100x combo (en bas à gauche), et à 200x combo (en bas à droite)")
 
 Il convient de noter que lorsqu'elle est associée au mod Hidden, la zone visible de Flashlight n'a guère d'importance : avec une vision limitée, l'atténuation des objets peut se produire alors que le curseur n'est pas focalisé sur le point d'apparition de l'objet en question.
 

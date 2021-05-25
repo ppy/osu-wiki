@@ -36,7 +36,7 @@ Dans le mode [osu!](/wiki/Game_mode/osu!), (en plus de l'augmentation des param�
 
 De plus, si un joueur a mémorisé ou s'est familiarisé avec les mouvements et les motifs de la beatmap, le passage au mod Hard Rock peut briser cette mémorisation et provoquer une sorte de difficulté artificielle.
 
-![Comparaison du gameplay du mod HR dans osu!](img/HR-comparison-standard.jpg "Comparaison d'un jeu normal (à gauche) et d'un jeu avec le mod Hard Rock activé (à droite) dans osu!.")
+![Comparaison du gameplay du mod HR dans osu!](img/HR-comparison-osu.jpg "Comparaison d'un jeu normal (à gauche) et d'un jeu avec le mod Hard Rock activé (à droite) dans osu!.")
 
 ### osu!taiko
 

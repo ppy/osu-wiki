@@ -11,4 +11,4 @@ no_native_review: true
   - ![](/wiki/shared/diff/normal-m.png) NM, para osu!mania.
   - ![](/wiki/shared/diff/normal-s.png) Normal, para osu!.
   - ![](/wiki/shared/diff/normal-t.png) Muzukashii, para osu!taiko.
-  - ![](/wiki/shared/diff/normal-c.png) Platter, para osu!catch.
+  - ![](/wiki/shared/diff/normal-c.png) Salad, para osu!catch.

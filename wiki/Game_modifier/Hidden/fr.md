@@ -42,7 +42,7 @@ Dans le mode [osu!](/wiki/Game_mode/osu!), le mod Hidden élimine les cercles d'
 
 Bien qu'il faille noter que le mod Hidden est considéré comme le mod d'augmentation de la difficulté le plus facile parmi les meilleurs joueurs en raison de la cohérence du moment où les objets apparaissent et disparaissent. En raison de cette cohérence, il est tout à fait possible d'apprendre à toucher les objets en se basant uniquement sur le moment où ils disparaissent.
 
-![Gameplay du mod HD dans osu!](img/HD-standard.jpg "Gameplay de osu! avec le mod Hidden activé")
+![Gameplay du mod HD dans osu!](img/HD-osu.jpg "Gameplay de osu! avec le mod Hidden activé")
 
 ### osu!taiko
 
