@@ -1,3 +1,14 @@
+---
+tags:
+  - upload
+  - delete
+  - beatmap
+  - slot
+  - editor
+  - status
+  - warning
+---
+
 # Beatmapping and Editor
 
 *Main page: [Help centre](/wiki/Help_Centre)*

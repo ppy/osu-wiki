@@ -1,3 +1,18 @@
+---
+tags:
+  - profile
+  - issue
+  - supporter
+  - theft
+  - restriction
+  - data
+  - flag
+  - multi
+  - device
+  - username
+  - deletion
+---
+
 # Account
 
 *Main page: [Help centre](/wiki/Help_Centre)*

@@ -1,3 +1,12 @@
+---
+tags:
+  - install
+  - download
+  - account
+  - profile
+  - register
+---
+
 # Installation and registration
 
 *Main page: [Help centre](/wiki/Help_Centre)*

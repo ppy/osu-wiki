@@ -1,3 +1,17 @@
+---
+tags:
+  - site
+  - block
+  - forum
+  - ticket
+  - appearance
+  - message
+  - page
+  - profile
+  - missing
+  - stats
+---
+
 # Website
 
 *Main page: [Help centre](/wiki/Help_Centre)*

@@ -1,3 +1,23 @@
+---
+tags:
+  - bug
+  - crash
+  - freeze
+  - update
+  - launch
+  - options
+  - font
+  - directory
+  - game
+  - connection
+  - bancho
+  - performance
+  - lag
+  - glitch
+  - gameplay
+  - interface
+---
+
 # Client
 
 *Main page [Help centre](/wiki/Help_Centre)*

@@ -1,3 +1,12 @@
+---
+tags:
+  - help
+  - issue
+  - problem
+  - trouble
+  - missing
+---
+
 # Help centre
 
 Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen. If your issue is not listed here, or if you are still having problems, send an email to [support@ppy.sh](mailto:support@ppy.sh). Alternatively, consider posting your issue in the [Help forum](https://osu.ppy.sh/community/forums/5), where someone will be able to help you.

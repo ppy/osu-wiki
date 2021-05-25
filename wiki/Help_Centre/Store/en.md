@@ -1,3 +1,15 @@
+---
+tags:
+  - store
+  - product
+  - keyboard
+  - tablet
+  - area
+  - device
+  - setup
+  - pendrive
+---
+
 # osu!store and merchandise
 
 *Main page: [Help centre](/wiki/Help_Centre)*
