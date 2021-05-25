@@ -32,7 +32,7 @@ tags:
 Pour l'instant, les participants doivent télécharger et installer [osu!lazer](https://github.com/ppy/osu/releases) pour rejoindre les lobbies multijoueurs hebdomadaires.
 
 1. Tous les vendredis d'une saison, un seul lobby temporaire multijoueur est ouvert. Tout le monde peut y participer pendant 3 jours.
-   - Au cours des deux dernières semaines d'une saison, un lobby temporaire multijoueur en sera ouvert pour chacune des deux listes de jeu.
+   - Au cours des deux dernières semaines d'une saison, un lobby temporaire multijoueur y sera ouvert pour chacune des deux playlists.
 2. Chaque lobby temporaire multijoueur propose une playlist prédéfinie de beatmaps.
    - Chaque playlist est un sous-ensemble de l'ensemble des beatmaps de la saison en cours.
    - Chaque playlist contient une répartition égale de beatmaps Hard, Insane et Expert.

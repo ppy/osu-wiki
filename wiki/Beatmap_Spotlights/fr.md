@@ -143,15 +143,15 @@ Le système de curation implique un processus de sélection par les curateurs de
 2. Les beatmaps sont sélectionnées en fonction de leur caractère unique et de leur excellence. Chaque beatmap sélectionnée doit être un exemple de qualité de contenu en termes de gameplay, de design et d'esthétique.
 3. Ces maps servent de recommandations à l'ensemble de la communauté d'osu!
 4. Pour remplir le devoir de recommander d'excellentes beatmaps à l'ensemble de la communauté, les curateurs des beatmaps doivent couvrir une répartition spécifique des difficultés Hard, Insane et Expert.
-   - 25% de toutes les beatmaps conservées doivent se situer dans le niveau de difficulté Hard.
-   - 45% de toutes les beatmaps conservées devraient se situer dans le niveau de difficulté Insane.
+   - 25% de toutes les beatmaps sélectionnées doivent se situer dans le niveau de difficulté Hard.
+   - 45% de toutes les beatmaps sélectionnées doivent se situer dans le niveau de difficulté Insane.
    - 30 % de toutes les beatmaps sélectionnées doivent être dans le niveau de difficulté Expert.
 5. Pour chaque saison, 20 beatmaps au minimum doivent être sélectionnées.
    - Toutes les beatmaps sélectionnées doivent être classées.
    - Lors de la sélection de nouvelles beatmaps, il convient de respecter la répartition entre les niveaux de difficulté.
    - Les curateurs peuvent sélectionner plusieurs beatmaps d'un même ensemble de beatmaps.
 6. Les beatmaps doivent être un mélange sain de contenu récent et établi.
-   - Au moins 25 % des difficultés des beatmap sélectionnées doivent avoir été classées dans les 3 derniers mois précédant le début de la saison.
+   - Au moins 25 % des difficultés des beatmaps sélectionnées doivent avoir été classées dans les 3 derniers mois précédant le début de la saison.
 7. Les curateurs individuels ne doivent pas recommander les beatmaps auxquelles ils ont contribué lors de leur création.
    - Au maximum 25% des beatmaps sélectionnées peuvent bénéficier d'une telle participation des curateurs eux-mêmes.
 8. Chaque beatmap doit être sélectionnée avant le début de la saison. Une fois qu'une saison a commencé, les beatmaps ne peuvent plus être échangées.
@@ -159,7 +159,7 @@ Le système de curation implique un processus de sélection par les curateurs de
 
 ### Commentaires
 
-L'implémentation actuelle des Beatmap Spotlights est hautement expérimentale et peut changer à tout moment en fonction de la réaction des joueurs. Pour cette raison, il est important de recueillir autant de commentaires et de critiques que possible pour améliorer encore la direction et la mise en œuvre de ce système. Les joueurs sont encouragés à laisser leurs pensées et leurs commentaires ici :
+L'implémentation actuelle des Beatmap Spotlights est hautement expérimentale et peut changer à tout moment en fonction de la réaction des joueurs. Pour cette raison, il est important de recueillir autant de commentaires et de critiques que possible pour améliorer continuellement la direction et la mise en œuvre de ce système. Les joueurs sont encouragés à laisser leurs impressions et leurs commentaires ici :
 
 - [Fil de discussion du forum feedback](https://osu.ppy.sh/community/forums/topics/1189626)
 - `#beatmap-spotlights` sur le [serveur Discord de la communauté osu!](https://discord.gg/0Vxo9AsejDkGlk3H)
@@ -177,7 +177,7 @@ Nommé à l'origine "Ranking Charts" et lancé en novembre 2009 par ![][flag_US]
 
 Le projet a fait l'objet de plusieurs modifications et ajouts, tels que les [classements thématiques](https://osu.ppy.sh/rankings/osu/charts?spotlight=26), les [classements réservés aux mods](https://osu.ppy.sh/rankings/osu/charts?spotlight=19) ou les [classements saisonniers](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart). À l'origine, les gagnants des classements étaient récompensés par des tags osu!supporter. Plus tard, des récompenses pour les mappeurs ou les gagnants des classements saisonniers ont été ajoutées.
 
-La direction du projet a changé plusieurs fois au cours de son histoire. ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) a pris la tête du projet en mai 2012, suivi par ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) et ![][flag_US] [Makar](https://osu.ppy.sh/users/686389). ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) et ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) ont repris le projet en décembre 2013. En mars 2015, le projet est passé de sa conception initiale de nomination et de vote à un système de renommée [les membres de la communauté sélectionnent à eux seuls une liste de beatmaps](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season) qu'ils recommandent. En septembre 2016, le [système de sélection a été en grande partie annulé](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) et la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) a été chargée de sélectionner les beatmaps les plus remarquables.
+La direction du projet a changé plusieurs fois au cours de son histoire. ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) a pris la tête du projet en mai 2012, suivi par ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) et ![][flag_US] [Makar](https://osu.ppy.sh/users/686389). ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) et ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) ont repris le projet en décembre 2013. En mars 2015, le projet est passé de sa conception initiale de nomination et de vote à un système où [les membres de renom de la communauté sélectionnent à eux seuls une liste de beatmaps](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season) qu'ils recommandent. En septembre 2016, le [système de sélection a été en grande partie annulé](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) et la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) a été chargée de sélectionner les beatmaps les plus remarquables.
 
 Renommé [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) en mars 2017, le système lui-même est resté globalement cohérent tout en ajoutant des récompenses supplémentaires comme des médailles et en améliorant encore la présentation des Beatmap Spotlights. Lors d'une refonte interne de la Quality Assurance Team, la responsabilité du projet a été réattribuée à ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) et a réimplanté une équipe de sélection basée sur la communauté. En novembre 2018, la fréquence des Spotlights a été modifiée pour devenir un [cycle de publication saisonnier](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). En mars 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) a repris la direction du projet avec Kurokami, en lui donnant une nouvelle forme et en constituant une nouvelle équipe de curateurs osu!.
 
