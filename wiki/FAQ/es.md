@@ -83,8 +83,8 @@ Vamos a aprender cuáles son los objetos ¿De acuerdo?
 Esta es la interfaz del estilo de juego osu! Standard.
 
 - La barra superior izquierda muestra tu "salud".
-  - Esta disminuirá a un ritmo constante \[dependiendo de la dificultad del beatmap establecida por el(los) [mapper(s)](/wiki/Glossary), pero puedes reponerlo presionando las notas en el momento correcto.
-  - Un "hit" (golpe) perfecto ([300](/wiki/Glossary) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Glossary)).
+  - Esta disminuirá a un ritmo constante \[dependiendo de la dificultad del beatmap establecida por el(los) [mapper(s)](/wiki/Beatmapping), pero puedes reponerlo presionando las notas en el momento correcto.
+  - Un "hit" (golpe) perfecto ([300](/wiki/Score#osu!) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Score#osu!)).
   - Muchos errores quitarán una buena parte de tu salud.
 - Al lado de la barra de salud (a la derecha) se muestra tu puntaje.
 - Debajo del puntaje está tu precisión.
@@ -150,7 +150,7 @@ Puedes configurar los botones del teclado como te parezca cómodo, desde la pest
 *Explicación completa: [Catch the Beat](/wiki/Game_mode/osu!catch)*
 
 - Catch the Beat es el segundo modo de juego especial añadido, después de Taiko.
-- En lugar de hacer clic en los círculos, ahora tienes la tarea de mover al [catcher](/wiki/Glossary) (recolector) en la parte inferior de la pantalla mientras que frutas caen desde arriba.
+- En lugar de hacer clic en los círculos, ahora tienes la tarea de mover al [catcher](/wiki/Game_mode/osu!catch#playfield) (recolector) en la parte inferior de la pantalla mientras que frutas caen desde arriba.
 
 #### Controlando al catcher
 

@@ -41,7 +41,7 @@ En osu!mania, la precisión es calculada de forma similar a [osu!](#-osu!).
 
 ## Gráfico de rendimiento
 
-![Gráfico de rendimiento](img/performance_graph.jpg "Gráfico de rendimiento")
+![Gráfico de rendimiento](img/performance_graph.png "Gráfico de rendimiento")
 
 El Gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador (basado en su barra de vida) en el transcurso de un beatmap (tiempo). Se puede mostrar información adicional al pasar el cursor sobre él.
 
@@ -51,11 +51,11 @@ El Gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador
 
 Al pasar el cursor sobre el gráfico de rendimiento, se muestra un mensaje de información con *Error* y *Unstable rate*.
 
-Debido a la forma en que se implementan los mods [DT](/wiki/DT) y [HT](/wiki/HT), los valores de error e inestabilidad se multiplicarán por el mismo factor que la canción. Para obtener los valores verdaderos al jugar DT, divida los resultados por 1.5. Del mismo modo, multiplique los resultados por 1,33 al jugar HT.
+Debido a la forma en que se implementan los mods [DT](/wiki/Game_modifier/Double_time) y [HT](/wiki/Game_modifier/Half_time), los valores de error e inestabilidad se multiplicarán por el mismo factor que la canción. Para obtener los valores verdaderos al jugar DT, divida los resultados por 1.5. Del mismo modo, multiplique los resultados por 1,33 al jugar HT.
 
 #### Error
 
-Error siempre mostrará dos valores que representan cuán lejos estaban los primeros golpeos en promedio y cuán lejos estaban los golpeos finales en promedio. Cuanto mayor sea el valor de la [Dificultad general](/wiki/Overall_Difficulty) en el beatmap, menores tendrán que ser los valores de error para tener un buen rendimiento al jugar tal beatmap.
+Error siempre mostrará dos valores que representan cuán lejos estaban los primeros golpeos en promedio y cuán lejos estaban los golpeos finales en promedio. Cuanto mayor sea el valor de la [Dificultad general](/wiki/Beatmapping/Overall_Difficulty) en el beatmap, menores tendrán que ser los valores de error para tener un buen rendimiento al jugar tal beatmap.
 
 #### Unstable rate
 

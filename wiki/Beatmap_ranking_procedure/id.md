@@ -15,7 +15,7 @@ Seorang mapper dapat menandai status kiriman beatmap mereka sebagai `Work in Pro
 
 Para beatmapper baru biasanya membutuhkan modding ekstensif supaya beatmap yang mereka buat memenuhi standar kualitas kategori Ranked dan tidak jarang mereka mendapat kritik seperti lebih baik membuat ulang beatmap mereka dari awal.
 
-Sebelum sebuah beatmap dapat dinominasikan untuk ranking, beatmap membutuhkan postingan [hype](/wiki/Glossary#hype) dari lima pengguna berbeda.
+Sebelum sebuah beatmap dapat dinominasikan untuk ranking, beatmap membutuhkan postingan [hype](/wiki/Beatmap/Hype) dari lima pengguna berbeda.
 
 ## Nominasi
 

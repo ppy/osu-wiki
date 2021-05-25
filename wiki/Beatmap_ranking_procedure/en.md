@@ -12,7 +12,7 @@ A beatmap's creator can mark their submissions as `Work in Progress` or `Pending
 
 Newer beatmappers usually need extensive modding to create beatmaps that meet the Ranked category's quality standards, and often they're required to recreate their beatmaps from scratch.
 
-Before being nominated for ranking, a beatmap needs to receive [hype](/wiki/Glossary#hype) posts from at least five different users.
+Before being nominated for ranking, a beatmap needs to receive [hype](/wiki/Beatmap/Hype) posts from at least five different users.
 
 ## Nominations
 

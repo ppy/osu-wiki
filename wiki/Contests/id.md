@@ -29,7 +29,7 @@ Sebuah daftar kontes yang tidak disebutkan pada [Halaman Kontes Komunitas](https
 Catatan:
 
 - Pemenang MBC #1 sampai #13 mendapatkan gelar forum *Elite Mapper*.
-- Beatmapset yang memenangi MBC #1 sampai #12 (tidak termasuk MBC #6) dibundel dengan [osu!installer](https://osu.ppy.sh/home/download). Sekarang, beatmap-beatmap tersebut telah digantikan oleh beatmap lainnya.
+- Beatmap yang memenangi MBC #1 sampai #12 (tidak termasuk MBC #6) dibundel dengan [osu!installer](https://osu.ppy.sh/home/download). Sekarang, beatmap-beatmap tersebut telah digantikan oleh beatmap lainnya.
 - Monthly Beatmapping Contest sesudah #13 memiliki premis dan skema hadiah yang berbeda dari kontes-kontes sebelumnya seperti yang dijelaskan pada artikel [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest).
 
 ## Aspire
@@ -135,7 +135,7 @@ Community Choice adalah penerus dari kontes "Best of".
 
 ## Community Mapping Contest
 
-Community Mapping Contest memungkinkan penggunanya untuk mengirim entri untuk tingkat kesulitan apa pun dari mode permainan mana pun (osu!mania dibagi menjadi dua key mode yaitu 4K dan 7K). Melalui [daftar Kontes Komunitas](https://osu.ppy.sh/community/contests), pengguna-pengguna dapat memilih entri favorit mereka. Para pemenang dikompilasikan menjadi sebuah [beatmapset](https://osu.ppy.sh/beatmapsets/587388).
+Community Mapping Contest memungkinkan penggunanya untuk mengirim entri untuk tingkat kesulitan apa pun dari mode permainan mana pun (osu!mania dibagi menjadi dua key mode yaitu 4K dan 7K). Melalui [daftar Kontes Komunitas](https://osu.ppy.sh/community/contests), pengguna-pengguna dapat memilih entri favorit mereka. Para pemenang dikompilasikan menjadi sebuah [beatmap](https://osu.ppy.sh/beatmapsets/587388).
 
 ## osu!idol
 

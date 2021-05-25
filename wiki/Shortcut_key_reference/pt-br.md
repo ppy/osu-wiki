@@ -281,7 +281,7 @@ Esses atalhos funcionam em qualquer lugar do editor:
 | `Ctrl` + `C` | Copia a sprite selecionada. |
 | `Ctrl` + `V` | Cola a sprite selecionada no tempo atual. *Nota: Sprites coladas não serão mostradas na lista de camadas até que o beatmap seja salvo e recarregado.* |
 | `Delete` | Remove a sprite selecionada da layer. |
-| `W`, `A`, `S`, `D` | Move a sprite selecionada para cima, esquerda, baixo ou direita respectivamente por um [osu!pixel](/wiki/Glossary#osupixel). |
+| `W`, `A`, `S`, `D` | Move a sprite selecionada para cima, esquerda, baixo ou direita respectivamente por um [osu!pixel](/wiki/osupixel). |
 
 ### Timing
 

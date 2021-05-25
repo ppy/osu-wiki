@@ -14,7 +14,7 @@ Um eine neue Beatmap zu erstellen, begib dich zuerst in den "Edit"-Modus und zie
 
 *Siehe auch: [Song Setup](/wiki/Song_Setup)*
 
-Wenn du ein neues [Beatmapset](/wiki/Glossary) erstellst, siehst du diesen Dialog immer als allererstes.
+Wenn du ein neues [Beatmap](/wiki/Beatmap) erstellst, siehst du diesen Dialog immer als allererstes.
 
 Du solltest alle Informationen unter "General" ausfüllen, bevor du eine Schwierigkeitsstufe erstellst. Dadurch bleiben die [Metadaten](/wiki/Beatmap/Difficulty) über alle Schwierigkeitsgrade hinweg gleich.
 
@@ -32,7 +32,7 @@ Wenn du dir mit dem Timing nicht sicher bist, kontaktiere für Hilfe zuerst eine
 
 *Siehe auch: [Komponieren](/wiki/Compose)*
 
-Im "Compose"-Tab des Beatmapeditors wirst du wahrscheinlich den Großteil deiner Zeit beim Beatmapping verbringen. Dort kannst du nämlich Hitobjekte platzieren und deren [Hitsounds](/wiki/Glossary) verändern.
+Im "Compose"-Tab des Beatmapeditors wirst du wahrscheinlich den Großteil deiner Zeit beim Beatmapping verbringen. Dort kannst du nämlich Hitobjekte platzieren und deren [Hitsounds](/wiki/Beatmapping/Hitsound) verändern.
 
 ### Design
 

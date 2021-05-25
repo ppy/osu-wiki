@@ -4,7 +4,7 @@
 
 ![osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）](img/ComposeMania.jpg "osu!mania 模式的 Compose 画面（只有视窗最顶端的工具列未拍入）")
 
-**Compose（作曲）** 是一个在[作图者于](/wiki/Glossary) Timing 画面中设定完 BPM 后会花费大部份时间来依照时间轴设计他 / 她的图谱的地方。玩家们也可以在这里练习 Rank 图并且观察其设计，类似 DDR 的训练模式。
+**Compose（作曲）** 是一个在[作图者于](/wiki/Beatmapping) Timing 画面中设定完 BPM 后会花费大部份时间来依照时间轴设计他 / 她的图谱的地方。玩家们也可以在这里练习 Rank 图并且观察其设计，类似 DDR 的训练模式。
 
 由于作图风格上有不同的需求（osu! 非常弹性，拥有许多可供发挥创意的空间；而 osu!mania 则有键数的限制，需要极高的准确度方能用键盘演奏出一段段天籁之音），osu! 的编辑器和 osu!mania 独占编辑器拥有不同的功能配置。你可以将一难度设置为 osu!mania 模式，就可以启用 osu!mania 编辑器。
 

@@ -15,14 +15,14 @@ tags:
 
 - Abbreviation: RD
 - Type: Special
-- Score Multiplier: 0.00x
+- Score Multiplier: 1.00x
 - Default shortcut key: `X`
 - Caption: `Shuffle around the notes!`
 - Compatible game modes: ![][osu!mania]
 
 ## Description
 
-The **Random** mod is a [game modifier](/wiki/Game_modifier) for [osu!mania](/wiki/Game_mode/osu!mania) that aims to give players an interesting and fun experience for osu!mania by shuffling the note placement. The Random mod will not change the length of the notes, and it is not shuffled every time Random is used.
+The **Random** mod is a [game modifier](/wiki/Game_modifier) for [osu!mania](/wiki/Game_mode/osu!mania) that aims to give players an interesting and fun experience by shuffling the note placement every time a beatmap is played. The Random mod will not change the length of the notes.
 
 ![RD gameplay mania](img/RD-comparison-mania.jpg "Comparison between a regular play (left) vs. a play with the Random mod enabled (right) in osu!mania")
 

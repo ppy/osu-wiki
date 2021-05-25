@@ -4,9 +4,9 @@ outdated: true
 
 # Modding (Español)
 
-**Modding** es cuando alguien revisa el Beatmap de otra persona y hace sugerencias. Las sugerencias pueden ser para solucionar errores o simplemente para hacer el Beatmap mejor de lo que es. La persona haciendo el modding es llamado “[modder](/wiki/Glossary)”, y la persona que hace el Beatmap es llamado “[mapper](/wiki/Glossary)”. Si tu mapeas, es altamente recomendado que des mod por tres grandes razones:
+**Modding** es cuando alguien revisa el Beatmap de otra persona y hace sugerencias. Las sugerencias pueden ser para solucionar errores o simplemente para hacer el Beatmap mejor de lo que es. La persona haciendo el modding es llamado “[modder](/wiki/Modding/Modder)”, y la persona que hace el Beatmap es llamado “[mapper](/wiki/Beatmapping)”. Si tu mapeas, es altamente recomendado que des mod por tres grandes razones:
 
-1. Si tu mod post es útil para el mapper, entonces el te dará un [kudosu](/wiki/Glossary). Los kudos pueden ser usados para aumentar el [Star Priority](/wiki/Glossary) (SP) de tu map.
+1. Si tu mod post es útil para el mapper, entonces el te dará un [kudosu](/wiki/Modding/Kudosu). Los kudos pueden ser usados para aumentar el [Star Priority](/wiki/Modding/Star_priority) (SP) de tu map.
 2. “Mod4mods”, o cuando haces un trato con alguien para que haga un mod post en tu Beatmap a cambio de que tu hagas un mod post en el suyo.
 3. Un buen mod post reduce el tiempo que los equipos de aprobación utilizan señalando errores básicos. Esto a su vez reduce la cantidad de estrés en los equipos de aprobación, y adicionalmente hace que ellos estén más dispuestos a hacer un mod post a tu Beatmap. Confía en nosotros, un MAT feliz y de buen animo es el que no tuvo que gastar 10 minutos llorando porque el Beatmap obviamente necesitaba muchos más mod post.
 
@@ -14,13 +14,13 @@ Si estás aprendiendo a mapear o ya sabes cómo hacerlo, modear es una buena man
 
 ## Método básico de modding
 
-Primero, descarga un map (Beatmap) desde [Pending](/wiki/Beatmap) o [Works In Progress/Help](/wiki/Glossary) (WIP). Puede ser una petición (Request) de algún mapper o un map totalmente al azar. Solo necesita no estar rankeado. Por ahora, toma un map totalmente al azar.
+Primero, descarga un map (Beatmap) desde [Pending](/wiki/Beatmap) o [Works In Progress/Help](/wiki/Beatmap/Category#work-in-progress-and-pending) (WIP). Puede ser una petición (Request) de algún mapper o un map totalmente al azar. Solo necesita no estar rankeado. Por ahora, toma un map totalmente al azar.
 
 Luego ve al editor y empieza tu respuesta (mod) en el hilo del Beatmap.
 
-Escoge cualquier dificultad y empieza con tu mod. Es recomendado que empieces con la dificultad más difícil. Empieza jugando la dificultad en modo de juego o [test mode](/wiki/Glossary). Jugar y testear es una importante parte en modding ya que es la única forma de saber si algún cierto patrón se juega bien o no. Toma nota de todo lo que encuentres extraño.
+Escoge cualquier dificultad y empieza con tu mod. Es recomendado que empieces con la dificultad más difícil. Empieza jugando la dificultad en modo de juego o [test mode](/wiki/Beatmap_Editor/Test_mode). Jugar y testear es una importante parte en modding ya que es la única forma de saber si algún cierto patrón se juega bien o no. Toma nota de todo lo que encuentres extraño.
 
-Después de jugar y testear, mira la canción en el editor y pausa frecuentemente para buscar errores. En esta fase de modding es donde los modders encuentran errores mas instrincados como combo errors, inconsistencias de [hitsounds](/wiki/Glossary), y áreas donde los [hit circles](/wiki/Hit_Objects) o [sliders](/wiki/Hit_Objects) son necesarios o innecesarios. Si encuentras que un hit circle o slider que necesita atención entonces seleccionalo, luego ve al tab “Edit” y selecciona “Copy” (esto también se puede hacer con Ctrl + C). Ahora ve a tu post (mod) que iniciaste anteriormente y pega lo que acabas de copiar (con Ctrl + V). Luego escribe a continuación porque crees tu que esta mal o que se puede cambiar/hacer sobre el hit circle o slider (ejemplo: “Yo cambiaría este espaciado porque la música no sugiere un [jump](/wiki/Mapping_Techniques/Jumps) (salto) aquí), o simplemente que el circle o slider no se siente bien al hacer click sobre el. También busca por cosas de las que no te percataste al jugar el map (Por ejemplo archivos innecesarios en la carpeta).
+Después de jugar y testear, mira la canción en el editor y pausa frecuentemente para buscar errores. En esta fase de modding es donde los modders encuentran errores mas instrincados como combo errors, inconsistencias de [hitsounds](/wiki/Beatmapping/Hitsound), y áreas donde los [hit circles](/wiki/Hit_Objects) o [sliders](/wiki/Hit_Objects) son necesarios o innecesarios. Si encuentras que un hit circle o slider que necesita atención entonces seleccionalo, luego ve al tab “Edit” y selecciona “Copy” (esto también se puede hacer con Ctrl + C). Ahora ve a tu post (mod) que iniciaste anteriormente y pega lo que acabas de copiar (con Ctrl + V). Luego escribe a continuación porque crees tu que esta mal o que se puede cambiar/hacer sobre el hit circle o slider (ejemplo: “Yo cambiaría este espaciado porque la música no sugiere un [jump](/wiki/Mapping_Techniques/Jumps) (salto) aquí), o simplemente que el circle o slider no se siente bien al hacer click sobre el. También busca por cosas de las que no te percataste al jugar el map (Por ejemplo archivos innecesarios en la carpeta).
 
 **Repite lo mismo con la siguiente dificultad**, ten en mente que si ves algo en el editor de lo que no te diste cuenta al jugar, señalalo también. (Es recomendado que también reproduzcas el map a velocidad normal en el editor para corroborar que todo este bien). Cuando estés listo has submit a tu post.
 
@@ -56,7 +56,7 @@ Algunas veces los mapas contienen cambios bruscos en la velocidad del slider que
 
 ### Hitsounds
 
-Los [hitsounds](/wiki/Glossary) son los ruidos del juego que permiten a los jugadores acertar en el golpe de la nota satisfactoriamente. Todos los mapas tiene que tener la suficiente cantidad de ruidos o hitsounding, si bien pueden usar los ruidos predeterminados o default, porque de lo contrario no puede ser rankeado. Algunas veces los hitsounds pueden sonar raros o vergonzosos en el mapa. Otras veces, suenan mu bajito o son muy ruidosos. Esto probablemente puede confundir a los jugadores. Algo que es muy importante resaltar es que no debes usar el volumen tan bajo. En la mayoría de los casos, usar un volumen que no se puede oír no puede ser rankeado y es algo que debes prestar atención.
+Los [hitsounds](/wiki/Beatmapping/Hitsound) son los ruidos del juego que permiten a los jugadores acertar en el golpe de la nota satisfactoriamente. Todos los mapas tiene que tener la suficiente cantidad de ruidos o hitsounding, si bien pueden usar los ruidos predeterminados o default, porque de lo contrario no puede ser rankeado. Algunas veces los hitsounds pueden sonar raros o vergonzosos en el mapa. Otras veces, suenan mu bajito o son muy ruidosos. Esto probablemente puede confundir a los jugadores. Algo que es muy importante resaltar es que no debes usar el volumen tan bajo. En la mayoría de los casos, usar un volumen que no se puede oír no puede ser rankeado y es algo que debes prestar atención.
 
 ### Kiai Time
 

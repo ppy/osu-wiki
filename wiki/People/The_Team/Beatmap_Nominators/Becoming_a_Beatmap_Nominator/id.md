@@ -11,7 +11,7 @@ Pelamar diwajibkan memenuhi persyaratan aktivitas modding, setidaknya mengirimka
 Modder yang ingin mendaftar ke Beatmap Nominator harus memenuhi kriteria berikut:
 
 - Mereka harus melakukan mod secara aktif terhadap suatu beatmap setidaknya 3 bulan sebelum mendaftar.
-- Mereka harus mengumpulkan setidaknya 150 atau 200 [kudosu](/wiki/Glossary#kudosu!), tergantung pada mode yang akan mereka lamar.
+- Mereka harus mengumpulkan setidaknya 150 atau 200 [kudosu](/wiki/Modding/Kudosu), tergantung pada mode yang akan mereka lamar.
 - Mereka menyajikan 2 hingga 4 dari mod mereka yang menurut mereka memenuhi syarat untuk menjadi bagian dari Beatmap Nominator.
 
 ### Apa yang termasuk sebagai postingan mod
