@@ -8,8 +8,4 @@ A *hyperfruit* is an effect that can be generated on a [fruit](/wiki/Hit_object/
 
 During play, this is characterized by a coloured outline on the first object.
 
-## Hyperdash
-
-A *hyperdash* is the term used for the movement between a hyperfruit, and the following active object.
-
 <!-- TODO: Add links and images-->
