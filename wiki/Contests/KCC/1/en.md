@@ -4,20 +4,20 @@ tags:
   - KCC 2021
 ---
 
-# KCC 2021
+# Korean Charting Contest 2021
 
-![KCC2021 Logo](img/banner.png)
+![KCC2021 banner](img/banner.png)
 
-The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping contest for Koreans.  This edition was the first installment of the KCC.
+The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping contest for users from ![][flag_KR] South Korea. It was the first installment of the Korean Charting Contest.
 
 ## Contest schedule
 
-| Event | Timestamp (UTC +9) |
+| Event | Timestamp (UTC+09) |
 | --: | :-- |
-| Registration Phase, Songs Voting | 2021-02-01/2021-02-07 |
-| Submitting Phase | 2021-02-08/2021-03-07 |
-| Judging Phase | 2021-03-08/2021-03-21 |
-| Results Announcement | 2021-03-22 |
+| Registration phase, song voting | 2021-02-01/2021-02-07 |
+| Submission phase | 2021-02-08/2021-03-07 |
+| Judging phase | 2021-03-08/2021-03-21 |
+| Results announcement | 2021-03-22 |
 
 ## Ruleset
 
@@ -27,7 +27,7 @@ The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping cont
 - Only Koreans can participate in this contest. If your profile flag is not showing that you're in Korea because of some reasons like foreign residence, you can still participate as long as you're able to verify that you are Korean.
 - You should pick a song that you want to map when you register. one song for Instrumental / Vocal each. You can map one of the two songs selected after the vote ends.
 - Submission must be loadable and readable by osu! client.
-- Submission must be in ``.osz`` format.
+- Submission must be in `.osz` format.
 - Custom hitsounds are allowed.
 - Title, Artist, MP3, Source, Tags and Background must NOT be modified. However, preview point can be customized.
 - No video, skin and storyboard are allowed. However, storyboard hitsounds are allowed.
@@ -58,11 +58,11 @@ The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping cont
 - mk feat.橘花音 - Awaking Beat-From the next generation- (3:51) / 178bpm
 - **YUC'e - Sengoku HOP (3:25) / 110bpm**
 
-### Vote results
+### Voting results
 
-![KCC2021 Vote Results](img/voteresult.jpg)
+![KCC2021 voting results](img/voteresult.jpg)
 
-## Judging Criteria
+## Judging criteria
 
 For each eligible submitted difficulty, the juding panel will award points based on the following criteria:
 
@@ -75,17 +75,17 @@ For each eligible submitted difficulty, the juding panel will award points based
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 40,000 KRW, profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 20,000 KRW |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 10,000 KRW |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 40,000 KRW, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20,000 KRW |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10,000 KRW |
 
-![KCC2021 Badge](img/badge.png)
+![KCC2021 badge](img/badge.png)
 
 ## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
+| Organiser | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
 | Manager | ![][flag_KR] [Oni Suika](https://osu.ppy.sh/users/4848023) |
 | Designer | ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
 | Judge | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/6392061), ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783), ![][flag_GT] [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_KR] [Pengdoll](https://osu.ppy.sh/users/6392061) |
@@ -94,15 +94,15 @@ For each eligible submitted difficulty, the juding panel will award points based
 
 | Place | Mapper |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [11Bit](https://osu.ppy.sh/users/14804526) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [Sherie](https://osu.ppy.sh/users/9113475) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [11Bit](https://osu.ppy.sh/users/14804526) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [Sherie](https://osu.ppy.sh/users/9113475) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008) |
 
 ## Links
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1230057)
-- [Results Sheet](https://docs.google.com/spreadsheets/d/1O0Ygpning0te62S850M42oPo0lCYd1Ct8VeYnAWRcYE/edit?usp=sharing)
-- [All Entries](https://lulu.s-ul.eu/D2M3x9LH)
+- [Results sheet](https://docs.google.com/spreadsheets/d/1O0Ygpning0te62S850M42oPo0lCYd1Ct8VeYnAWRcYE/edit?usp=sharing)
+- [Entries](https://lulu.s-ul.eu/D2M3x9LH)
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"

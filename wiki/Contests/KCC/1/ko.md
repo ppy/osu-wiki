@@ -4,15 +4,15 @@ tags:
   - KCC 2021
 ---
 
-# KCC 2021
+# Korean Charting Contest 2021
 
-![KCC2021 Logo](img/banner.png)
+![KCC2021 banner](img/banner.png)
 
 **Korean Charting Contest 2021** (***KCC2021***) 은 한국인을 위한 osu!mania 매핑 대회입니다. 이 대회는 첫 번째 대회였습니다.
 
 ## 대회 일정
 
-| 일정 | 날짜 (UTC +9) |
+| 일정 | 날짜 (UTC+09) |
 | --: | :-- |
 | 신청 및 곡 투표 기간 | 2021-02-01/2021-02-07 |
 | 제출 기간 | 2021-02-08/2021-03-07 |
@@ -27,7 +27,7 @@ tags:
 - '한국인'만 참가 가능합니다. 외국 거주, 교포 2세 등의 사유로 osu! 내에서의 국기가 대한민국이 아닌 경우, 이미 한국인이라고 널리 알려져 있거나 어떠한 방식으로든 입증만 가능하다면 한국인으로서 참가할 수 있습니다.
 - 참가자들은 사전에 선정된 곡을 놓고 투표를 실시, Instrumental과 Vocal 그룹에서 매핑할 곡을 한 곡씩 선정합니다. 투표 종료 후 최종 선정된 두 곡 중 하나를 매핑하시면 됩니다.
 - 제출한 맵은 osu! 클라이언트에서 실행 가능해야 합니다.
-- ``.osz`` 포맷으로 제출해야 합니다.
+- `.osz` 포맷으로 제출해야 합니다.
 - 커스텀 히트사운드는 사용 가능합니다.
 - 제목, 아티스트, MP3, 소스, 태그, BPM 포인트(빨간 선), 배경은 수정할 수 없습니다. 단, 프리뷰 포인트는 수정 가능합니다.
 - 비디오, 스킨과 스토리보드는 추가할 수 없습니다. 단, 스토리보드 히트사운드는 사용 가능합니다.
@@ -48,7 +48,7 @@ tags:
 - Frums - Turnstile Jumper (2:37) / 321bpm
 - onumi - DESIRE (2:28) / 209bpm
 - Sakuzyo - First Dance (3:12) / 116bpm
-- Zekk - Kaleidoscope (2:11) / 155bpm
+- **Zekk - Kaleidoscope (2:11) / 155bpm**
 
 ### Vocal
 
@@ -56,11 +56,11 @@ tags:
 - HyuN - Last Paradise (feat. Serentium) (2:42) / 89bpm
 - Memme - Geurida (2:45) / 180bpm
 - mk feat.橘花音 - Awaking Beat-From the next generation- (3:51) / 178bpm
-- YUC'e - Sengoku HOP (3:25) / 110bpm
+- **YUC'e - Sengoku HOP (3:25) / 110bpm**
 
 ### 투표 결과
 
-![KCC2021 Vote Results](img/voteresult.jpg)
+![KCC2021 voting results](img/voteresult.jpg)
 
 ## 심사 기준
 
@@ -75,11 +75,11 @@ tags:
 
 | 순위 | 상품 |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1위") | 40,000 KRW, 프로필 뱃지 |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2위") | 20,000 KRW |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3위") | 10,000 KRW |
+| ![Gold crown](/wiki/shared/crown-gold.png "1위") | 40,000 KRW, 프로필 뱃지 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2위") | 20,000 KRW |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3위") | 10,000 KRW |
 
-![KCC2021 Badge](img/badge.png)
+![KCC2021 badge](img/badge.png)
 
 ## 주최
 
@@ -94,9 +94,9 @@ tags:
 
 | 순위 | 매퍼 |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1위") | ![][flag_KR] [11Bit](https://osu.ppy.sh/users/14804526) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2위") | ![][flag_KR] [Sherie](https://osu.ppy.sh/users/9113475) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3위") | ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1위") | ![][flag_KR] [11Bit](https://osu.ppy.sh/users/14804526) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2위") | ![][flag_KR] [Sherie](https://osu.ppy.sh/users/9113475) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3위") | ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008) |
 
 ## 링크
 
