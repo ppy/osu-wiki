@@ -57,7 +57,7 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 - [Various Artist - Jungdongjin's 5th LN Pack \[nanahira -Tsukitourou\]](https://osu.ppy.sh/beatmapsets/617068#mania/1301846)
 - [LeaF - Shitsubou Choco \[4K LN 'Imperial Chocolate\]](https://osu.ppy.sh/beatmapsets/602887#mania/1273424)
 - [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE \[ShuChan!!\]](https://osu.ppy.sh/beatmapsets/550148#mania/1165250)
-- [Zekk - Swampgator \[Alligator VIP\]](https://osu.ppy.sh/beatmaps/1241284)
+- [Zekk - Swampgator \[Alligator VIP\]](https://osu.ppy.sh/beatmapsets/1241284)
 - [Camellia - Backbeat Maniac \[Rewind VIP\]](https://osu.ppy.sh/beatmapsets/586848#mania/1242696)
 - [((LMB)) - Buntan \~Falling in "B" mix\~ \[%UN%D3%Ri%0Y\]](https://osu.ppy.sh/beatmapsets/569225#mania/1206728)
 - [DJKurara - Japanese Transformation \[Extra\]](https://osu.ppy.sh/beatmapsets/520438#mania/1105693)
@@ -65,7 +65,7 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 - [xi - Let's madness \[R U Ready?\]](https://osu.ppy.sh/beatmapsets/527017#mania/1118209)
 - [xi - FREEDOM DiVE \[Fullerene's 4K DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/173612#mania/473228)
 - [YZYX - Powerflux \[Challenge\]](https://osu.ppy.sh/beatmapsets/390410#mania/850891)
-- [Vixenvy - I'm sorry we really suck. \[for the best\]](https://osu.ppy.sh/beatmaps/1145475)
+- [Vixenvy - I'm sorry we really suck. \[for the best\]](https://osu.ppy.sh/beatmapsets/1145475)
 - [UNDEAD CORPORATION - Everything Will Freeze \[Time Freeze\]](https://osu.ppy.sh/beatmapsets/298452#mania/673308)
 - [Camellia - EMPIRE OF FLAME \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/415934#mania/901134)
 - [Yu_Asahina - Trickstarz \[STEPMANIA\]](https://osu.ppy.sh/beatmapsets/349432#mania/770548)
@@ -73,13 +73,13 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 TB:
 
-- [Camellia - GHOST \[Immoral Night Guard\]](https://osu.ppy.sh/beatmaps/1206398)
+- [Camellia - GHOST \[Immoral Night Guard\]](https://osu.ppy.sh/beatmapsets/1206398)
 
 ### Semifinals
 
 [**Download all** (OneDrive)](https://1drv.ms/users/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
 
-- [Mick Gordon - Cyberdemon \[Lazarus\]](https://osu.ppy.sh/beatmaps/1231110)
+- [Mick Gordon - Cyberdemon \[Lazarus\]](https://osu.ppy.sh/beatmapsets/1231110)
 - [Hitori Tori - perthed again (yambabom remix) \[Difficulty 3\]](https://osu.ppy.sh/beatmapsets/569392#mania/1207006)
 - [LeaF - MEPHISTO \[4K LN Massacre\]](https://osu.ppy.sh/beatmapsets/535700#mania/1134593)
 - [yanaginagi - landscape \[ShuChan!!\]](https://osu.ppy.sh/beatmapsets/541027#mania/1147214)
@@ -87,11 +87,11 @@ TB:
 - [a_hisa - Cheshire's dance \[LN Dancing\]](https://osu.ppy.sh/beatmapsets/555278#mania/1175264)
 - [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria \[Octodad Twerk Theme\]](https://osu.ppy.sh/beatmapsets/486138#mania/1036648)
 - [Kaneko Chiharu - iLLness LiLin \[jAkAd's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/587269#mania/1245015)
-- [xi - Solar Storm \[Extra[old]\]](https://osu.ppy.sh/beatmaps/989233)
+- [xi - Solar Storm \[Extra[old]\]](https://osu.ppy.sh/beatmapsets/989233)
 - [m108 - \* Crow Solace \* \[Meme Solace\]](https://osu.ppy.sh/beatmapsets/562722#mania/1201027)
 - [Fallujah - Sapphire \[Cerulean\]](https://osu.ppy.sh/beatmapsets/452446#mania/970464)
-- [Nizikawa - Drop That (Ghettoblaster) v1.1 \[break-even\]](https://osu.ppy.sh/beatmaps/972575)
-- [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu. - Demise Quartet \[BAN SDVX\]](https://osu.ppy.sh/beatmaps/1229459)
+- [Nizikawa - Drop That (Ghettoblaster) v1.1 \[break-even\]](https://osu.ppy.sh/beatmapsets/972575)
+- [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu. - Demise Quartet \[BAN SDVX\]](https://osu.ppy.sh/beatmapsets/1229459)
 - [xi - Aparajita \[Ambitious King\]](https://osu.ppy.sh/beatmapsets/568882#mania/1206343)
 - [gmtn vs. kozato (fw. LUZE) - squartatrice \[VonSeckendorff\]](https://osu.ppy.sh/beatmapsets/414744#mania/898932)
 - [Noah - Immortal saga \[4K MXM\]](https://osu.ppy.sh/beatmapsets/636118#mania/1349837)
@@ -112,7 +112,7 @@ TB:
 - [Nekomata L.E.D. Master+ - Chrono Diver -PENDULUMs- \[Rage!!\]](https://osu.ppy.sh/beatmapsets/382076#mania/835621)
 - [Ryu* Vs. Sota - Go Ahead!! \[Legendaria\]](https://osu.ppy.sh/beatmapsets/572415#mania/1212926)
 - [xi - Aragami \[Ultimate\]](https://osu.ppy.sh/beatmapsets/342316#mania/757103)
-- [Omnipotenx - PEACE BREAKER \[NEGATIVE LEVEL 6\]](https://osu.ppy.sh/beatmaps/1215329)
+- [Omnipotenx - PEACE BREAKER \[NEGATIVE LEVEL 6\]](https://osu.ppy.sh/beatmapsets/1215329)
 - [Demetori - Wind God Girl \[14\]](https://osu.ppy.sh/beatmapsets/591478#mania/1306105)
 - [Gram - Sigmund \[Karasu's Leggendaria\]](https://osu.ppy.sh/beatmapsets/635051#mania/1347575)
 - [Iced Blade feat. Rita - Sora no Kodou (short ver.) \[4K Liberation\]](https://osu.ppy.sh/beatmapsets/437682#mania/942355)
@@ -180,7 +180,7 @@ TB:
 
 - [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/beatmapsets/263929#mania/601737)
 - [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/beatmapsets/557062#mania/1178870)
-- [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/beatmaps/815021)
+- [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/beatmapsets/815021)
 - [seleP – Scarlet Rose \[Scarlet Rose\]](https://osu.ppy.sh/beatmapsets/580114#mania/1228278)
 - [Polyphony – Adrift \[Marine\]](https://osu.ppy.sh/beatmapsets/292423#mania/658126)
 - [LeaF – I \[UJ’s Another\]](https://osu.ppy.sh/beatmapsets/426638#mania/928341)
@@ -192,7 +192,7 @@ TB:
 - [A-Teens – Gimme! Gimme! Gimme! \[Wafles’s Beginner 24\]](https://osu.ppy.sh/beatmapsets/472781#mania/1010130)
 - [senya – Zenaku no Itadaki ni Aru Shinjitsu \[EXH (LN)\]](https://osu.ppy.sh/beatmapsets/493407#mania/1050840)
 - [96Neko – Paintings? Oh, yeah. \[PaiLNfull\]](https://osu.ppy.sh/beatmapsets/516224#mania/1103346)
-- [LeaF – 4th smile \[Prosperity\]](https://osu.ppy.sh/beatmaps/1247978)
+- [LeaF – 4th smile \[Prosperity\]](https://osu.ppy.sh/beatmapsets/1247978)
 - [Da Tweekaz – Wodka (short Ver.) \[4K MX(Hard SV Edit.)\]](https://osu.ppy.sh/beatmapsets/364913#mania/800952)
 
 TB:
