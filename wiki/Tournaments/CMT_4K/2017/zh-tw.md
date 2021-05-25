@@ -71,6 +71,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 - [plastic feat.Sakito - Hitsugi to Futago \[4KEY//PHANTASM\]](https://osu.ppy.sh/beatmapsets/516255#mania/1097111)
 
 TB:
+
 - [Camellia - GHOST \[Immoral Night Guard\]](https://osu.ppy.sh/beatmaps/1206398)
 
 ### 半決賽
@@ -95,6 +96,7 @@ TB:
 - [Noah - Immortal saga \[4K MXM\]](https://osu.ppy.sh/beatmapsets/636118#mania/1349837)
 
 TB:
+
 - [Camellia - Exit This Earth's Atomosphere \[Spaceship\]](https://osu.ppy.sh/beatmapsets/489718#mania/1043774)
 
 ### 八強賽
@@ -117,6 +119,7 @@ TB:
 - [t+pazolite - cheatreal \[TUTORIAL\]](https://osu.ppy.sh/beatmapsets/401453#mania/873247)
 
 TB:
+
 - [Billain - Specialist \[Maestro\]](https://osu.ppy.sh/beatmapsets/574577#mania/1216877)
 
 ### 十六強賽
@@ -139,6 +142,7 @@ TB:
 - [P\*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/beatmapsets/526793#mania/1135210)
 
 TB:
+
 - [Shoujo - Reminiscing \[Memories\]](https://osu.ppy.sh/beatmapsets/487074#mania/1038482)
 
 ### 小組賽
@@ -159,6 +163,7 @@ TB:
 - [w_tre respect for AT&HU - Schur's Theorem \[Anson's Ak EXTREME\]](https://osu.ppy.sh/beatmapsets/628102#mania/1324299)
 
 TB:
+
 - [Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) \[Lunatic of Love\]](https://osu.ppy.sh/beatmapsets/564014#mania/1192531)
 
 ### 資格賽
@@ -190,6 +195,7 @@ TB:
 - [Da Tweekaz – Wodka (short Ver.) \[4K MX(Hard SV Edit.)\]](https://osu.ppy.sh/beatmapsets/364913#mania/800952)
 
 TB:
+
 - [Camellia – Lunatic Rough Party!! (Long Ver.)\[Lunatic\]](https://osu.ppy.sh/beatmapsets/286262#mania/646319)
 
 ## 比賽結果
