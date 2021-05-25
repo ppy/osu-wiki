@@ -12,7 +12,7 @@ L'organisation et les discussions de la guilde peuvent être trouvées dans le s
 
 ## Le système
 
-*Pour obtenir les informations les plus récentes sur le système de Mappers' Guild, consultez la [section FAQ de son site web](https://mappersguild.com/faq).*
+*Pour obtenir les informations les plus récentes sur le système utilisé par la Mappers' Guild, consultez la [section FAQ de son site web](https://mappersguild.com/faq).*
 
 Les mappers avec 3 maps classées ou plus peuvent rejoindre la guilde à tout moment via le [site web de la Mappers' Guild](https://mappersguild.com/) en authentifiant leur compte osu! N'importe qui d'autre est libre d'observer les activités de mapping et les quêtes sur le site web.
 
