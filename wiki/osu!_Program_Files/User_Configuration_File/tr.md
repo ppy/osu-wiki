@@ -198,8 +198,8 @@ Daha fazla osu!mania düzeni seçenekleri mevcut temanın [skin.ini](/wiki/Skinn
 
 | Seçenek | Değer türü | Açıklama |
 | :-- | :-- | :-- |
-| `EditorGridSize` | Tam sayı | Izgara boyutunun [osu! pixels](/wiki/Glossary#osupixel) karşılığı |
-| `EditorGridSizeDesign` | Tam sayı | Dizayn ızgara boyutunun [osu! pixels](/wiki/Glossary#osupixel) karşılığı |
+| `EditorGridSize` | Tam sayı | Izgara boyutunun [osu! pixels](/wiki/osupixel) karşılığı |
+| `EditorGridSizeDesign` | Tam sayı | Dizayn ızgara boyutunun [osu! pixels](/wiki/osupixel) karşılığı |
 | `EditorDim` | 0 veya 1 | Test oyunundayken arkaplanı karart |
 | `EditorGrid` | 0 veya 1 | Açı yakalamayı etkinleştir |
 | `EditorBeatDivisor` | Tam sayı | Son kullanılan nota ızgara bölücü |

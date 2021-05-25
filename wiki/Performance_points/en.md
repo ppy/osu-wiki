@@ -68,7 +68,7 @@ As a result of this, mods like [Double Time](/wiki/Game_modifier/Double_Time) an
 
 *Accuracy* is a percent measure of a player's ability to hit [hit objects](/wiki/Hit_object) on-time; in regards to the pp algorithm, it is also a core value that is used to evaluate a player's individual performance on a beatmap.
 
-Scores with high accuracy values are considered by the algorithm to be highly impressive, and will award very large scores because of this. A [full combo](/wiki/Glossary#fc) play that obtained 80% accuracy can sometimes be worth 2/3 of a score set with 95% accuracy. Due to the algorithm's heavy reliance on accuracy, mods like Hidden, Hard Rock and Flashlight are considered to significantly increase the pp gain for plays with high accuracy.
+Scores with high accuracy values are considered by the algorithm to be highly impressive, and will award very large scores because of this. A [full combo](/wiki/Full_combo) play that obtained 80% accuracy can sometimes be worth 2/3 of a score set with 95% accuracy. Due to the algorithm's heavy reliance on accuracy, mods like Hidden, Hard Rock and Flashlight are considered to significantly increase the pp gain for plays with high accuracy.
 
 ### Strain
 
@@ -97,7 +97,7 @@ Consider the following tips:
 - Play efficiently and figure out which play style works best for you.
 - Focus on getting a handful of exceptional scores instead of "farming" hundreds of just okay scores.<!-- "farming" will need to be linked once a stub or section is created -->
 - Aim to improve your accuracy. Even 1% makes a massive difference.
-- Aim for higher combos. Full combos (FC) or [SS](/wiki/Glossary#grade) scores give tremendous amounts of score.
+- Aim for higher combos. Full combos (FC) or [SS](/wiki/Grade) scores give tremendous amounts of score.
 
 ### Why didn't I gain the full amount of pp from a map I played?
 

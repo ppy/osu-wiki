@@ -65,7 +65,7 @@ __(event),(easing),(relative_starttime),(relative_endtime),(params...)
 where:
 
 - (triggerType)は発動条件を示し、以下の一つが当てはまります:
-  - HitSoundClap (Clap[ヒットサウンドが鳴った時](/wiki/Glossary))
+  - HitSoundClap (Clapヒットサウンドが鳴った時)
   - HitSoundFinish (Finishが鳴った時)
   - HitSoundWhistle (Whistleが鳴った時)
   - Passing (Fail状態からPass状態へ変化した時)

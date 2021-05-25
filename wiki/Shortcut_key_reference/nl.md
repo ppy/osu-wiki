@@ -280,7 +280,7 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `C` | Kopieert de geselecteerde sprite. |
 | `Ctrl` + `V` | Plakt de sprite op het huidige tijdstip. *Opmerking: Gekopieerde sprites zijn niet zichtbaar op de layer list totdat de beatmap is opgeslagen en herladen.* |
 | `Delete` | Verwijdert de geselecteerde sprite van de laag. |
-| `W`, `A`, `S`, `D` | Duwt de geselecteerde sprite omhoog, naar links, omlaag of naar rechts respectievelijk een [osu!pixel](/wiki/Glossary#osupixel). |
+| `W`, `A`, `S`, `D` | Duwt de geselecteerde sprite omhoog, naar links, omlaag of naar rechts respectievelijk een [osu!pixel](/wiki/osupixel). |
 
 ### Timing
 

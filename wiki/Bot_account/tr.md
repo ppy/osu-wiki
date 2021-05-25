@@ -15,7 +15,7 @@ Bot hesapları yalnızca bir [başvuru süreci](#bot-hesabı-oluşturmak) ile ol
 
 ## Bot hesaplarının faydaları
 
-Kişisel hesaplar ve bot hesapları arasındaki en temel fark [sohbette](/wiki/Chat_Console) mesaj gönderirken uygulanan mesaj kotasıdır. Hesabın [susturulma](/wiki/Glossary#silence) riski olmaksızın sağladığı hizmetlerin daha fazla kullanıcıyla etkileşebilmesi için bot hesapları daha yüksek bir kotaya sahiptir:
+Kişisel hesaplar ve bot hesapları arasındaki en temel fark [sohbette](/wiki/Chat_Console) mesaj gönderirken uygulanan mesaj kotasıdır. Hesabın [susturulma](/wiki/Silence) riski olmaksızın sağladığı hizmetlerin daha fazla kullanıcıyla etkileşebilmesi için bot hesapları daha yüksek bir kotaya sahiptir:
 
 - Kişisel hesaplar her 5 saniyede 10 mesaj gönderebilir
 - Bot hesapları her 60 saniyede 300 mesaj gönderebilir

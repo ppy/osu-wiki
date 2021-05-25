@@ -40,7 +40,7 @@ De plus, si un joueur a mémorisé ou s'est familiarisé avec les mouvements et 
 
 ### osu!taiko
 
-Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Hard Rock augmente le [slider velocity](/wiki/Glossary#slider-velocity) ainsi que le [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). Ce mod est largement considéré comme le mod le plus utilisé dans osu!taiko car c'est le seul mod d'augmentation de la difficulté qui ne nécessite pas une sorte de mémorisation ou une frappe extrêmement rapide sur les difficultés plus difficiles.
+Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Hard Rock augmente le [slider velocity](/wiki/Hit_object/Slider_velocity) ainsi que le [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). Ce mod est largement considéré comme le mod le plus utilisé dans osu!taiko car c'est le seul mod d'augmentation de la difficulté qui ne nécessite pas une sorte de mémorisation ou une frappe extrêmement rapide sur les difficultés plus difficiles.
 
 Le nombre de coups requis pour terminer un denden est augmenté en raison de l'augmentation de l'OD. Par conséquent, le score maximum possible pour les difficultés de osu!taiko avec le mod Hard Rock est plus élevé que celui du mod [Hidden](/wiki/Game_modifier/Hidden).
 
@@ -62,7 +62,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), seules le judgement difficu
 
 ## Le saviez-vous ?
 
-- Le mod Hard Rock tire son nom de la difficulté la plus difficile du jeu "[Elite Beat Agents](/wiki/Glossary#eba)" de la [Nintendo DS](https://fr.wikipedia.org/wiki/Nintendo_DS "Wikipedia")."
+- Le mod Hard Rock tire son nom de la difficulté la plus difficile du jeu "[Elite Beat Agents](/wiki/iNiS_games)" de la [Nintendo DS](https://fr.wikipedia.org/wiki/Nintendo_DS "Wikipedia")."
 - Le mod Hard Rock annulera le mod [Easy](/wiki/Game_modifier/Easy). Et vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

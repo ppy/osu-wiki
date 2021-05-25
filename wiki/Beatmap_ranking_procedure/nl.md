@@ -16,7 +16,7 @@ De maker van een beatmap kan zijn of haar inzendingen markeren als `Work in Prog
 
 Nieuwe beatmappers hebben vaak uitgebreide mods nodig om beatmaps te kunnen maken die voldoen aan de kwaliteitsnormen van de Ranked-categorie, soms moeten ze hierdoor zelfs hun hele beatmap opnieuw maken.
 
-Beatmaps moeten vooraleer ze genomineerd kunnen worden eerst [hype](/wiki/Glossary#hype)-posts krijgen van minstens vijf verschillende gebruikers.
+Beatmaps moeten vooraleer ze genomineerd kunnen worden eerst [hype](/wiki/Beatmap/Hype)-posts krijgen van minstens vijf verschillende gebruikers.
 
 ## Nominaties
 

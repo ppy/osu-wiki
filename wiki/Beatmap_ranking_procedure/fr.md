@@ -15,7 +15,7 @@ Le [modding](/wiki/Modding) est le processus qui consiste à recevoir des critiq
 
 Les beatmappers les plus récents ont généralement besoin de modifications importantes pour créer des beatmaps qui répondent aux normes de qualité de la catégorie Ranked, et il leur est souvent demandé de recréer leurs beatmaps à partir de zéro.
 
-Avant d'être nominés pour le classement, les beatmaps doivent recevoir [hype](/wiki/Glossary#hype) des messages d'au moins cinq utilisateurs différents.
+Avant d'être nominés pour le classement, les beatmaps doivent recevoir [hype](/wiki/Beatmap/Hype) des messages d'au moins cinq utilisateurs différents.
 
 ## Nominations
 

@@ -37,7 +37,7 @@ Ces règles sont les bases qui nous aident à garder la communauté d'osu! fun e
 
 *Note: Ces règles s'appliquent à **toutes les maps soumises**, et non qu'aux ranked. Pour des règles plus spécifiques sur les beatmaps ranked, voir les [Ranking Criteria](/wiki/Ranking_Criteria).*
 
-Ces règles s'appliquent aux maps soumises strictements via le [Système de soumission de beatmap](/wiki/Glossary#bss) en jeu. Ces sujets/discussions sont crées par le client d'osu! quand une beatmap est soumise par l'[éditeur](/wiki/Beatmap_Editor).
+Ces règles s'appliquent aux maps soumises strictements via le [Système de soumission de beatmap](/wiki/Submission) en jeu. Ces sujets/discussions sont crées par le client d'osu! quand une beatmap est soumise par l'[éditeur](/wiki/Beatmap_Editor).
 
 1. **Soyez sûr d'avoir la permission d'utiliser tout le contenu impliqué dans votre beatmap.** Cela inclut les musiques, les vidéos, les sons, les éléments graphiques, et tout autres contenu n'étant pas de votre création. Si vous n'êtes pas sûr de l'endroit où trouver du contenu gratuit à utiliser, nous avons une bibliothèque croissante de musiques disponibles dans la liste des [Artistes Plébiscités](https://osu.ppy.sh/beatmaps/artists), où tout est 100% autorisé pour utilisation dans osu!.
 2. **Restez sur le thème dans les discussions de Beatmap.** Ces discussions sont à propos de la beatmap en question, et rien d'autre. Si vous avez un problème avec quelque chose qui n'est pas en rapport direct avec la beatmap, postez-le dans le forum approprié.
