@@ -40,4 +40,4 @@ Les BN et les membres de la NAT opposent parfois leur [veto](/wiki/People/The_Te
 
 Les beatmaps qui ont franchi l'étape de qualification ont terminé la procédure de classement. Elles disposent de tableaux de classement des scores et récompensent les joueurs par des points de performance.
 
-Les beatmaps classées ne sont déclassées que dans des circonstances exceptionnelles, lorsque des problèmes sont découverts peu après qu'ils aient atteint le statut classé.
+Les beatmaps classées ne sont déclassées que dans des circonstances exceptionnelles, lorsque des problèmes sont découverts peu après qu'elles aient atteint le statut classé.
