@@ -383,11 +383,11 @@ Sunday, 11 April 2021:
 ### Match instructions
 
 - Round of 16 and Quarterfinals
-   - Best of 11, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
+  - Best of 11, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 - Semifinals
-   - Best of 11, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
+  - Best of 11, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 - Finals and Grand Finals
-   - Best of 13, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
+  - Best of 13, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 
 1. The referee will invite the captains of each team to the multiplayer lobby. Captains have ten minutes to get a minimum of a three-man roster in the lobby, otherwise the opposing team will be allowed to claim a win by default. 
 2. Both captains will `!roll`. The lowest roll will ban first, while the highest roll will ban second and pick first. 
