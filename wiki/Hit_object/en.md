@@ -13,7 +13,7 @@ tags:
 
 | osu! | osu!taiko | osu!catch | osu!mania |
 | :-: | :-: | :-: | :-: |
-| [hit circles](/wiki/Hit_object/Hit_circle) | hit circles | fruits | notes |
+| [hit circles](/wiki/Hit_object/Hit_circle) | hit circles | [fruits](/wiki/Hit_object/Fruit) | notes |
 | [sliders](/wiki/Hit_object/Slider) | drumrolls | fruit trails | hold notes |
 | [spinners](/wiki/Hit_object/Spinner) | dendens | bananas | x |
 | x | x | hyperfruits | x |
