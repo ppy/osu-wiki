@@ -15,6 +15,7 @@ osu! has several Twitter accounts, each serving specific purposes. Most are very
 | :-: | :-: | :-- |
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | The official source of news and announcements. Low traffic high quality content. |
 | ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Comedy relief when things go wrong. |
+| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | News, announcements, and short questionnaires by NAT. |
 
 ## Personal
 
