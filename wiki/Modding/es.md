@@ -14,7 +14,7 @@ Si estás aprendiendo a mapear o ya sabes cómo hacerlo, modear es una buena man
 
 ## Método básico de modding
 
-Primero, descarga un map (Beatmap) desde [Pending](/wiki/Beatmap) o [Works In Progress/Help](/wiki/Beatmap/Category) (WIP). Puede ser una petición (Request) de algún mapper o un map totalmente al azar. Solo necesita no estar rankeado. Por ahora, toma un map totalmente al azar.
+Primero, descarga un map (Beatmap) desde [Pending](/wiki/Beatmap) o [Works In Progress/Help](/wiki/Beatmap/Category#work-in-progress-and-pending) (WIP). Puede ser una petición (Request) de algún mapper o un map totalmente al azar. Solo necesita no estar rankeado. Por ahora, toma un map totalmente al azar.
 
 Luego ve al editor y empieza tu respuesta (mod) en el hilo del Beatmap.
 

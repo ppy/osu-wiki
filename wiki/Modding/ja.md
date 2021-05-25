@@ -14,7 +14,7 @@ outdated: true
 
 ## 基本的なModdingの方法
 
-まずは[Pendingもしくは](/wiki/Beatmap)[Work In Progress/Helpの](/wiki/Beatmap/Category)[beatmapのスレッド](/wiki/Beatmap)([Ranked](/wiki/Beatmap)/[Approvedではありません](/wiki/Beatmap))からビートマップをダウンロードします。サブフォーラムからランダムに選択をすることもできますし、[Work In Progress/Helpのサブフォーラムにある](/wiki/Works_In_Progress/Help) *'Modding Queue*でスレッドを立ててリクエストを貰うこともできます。もしQueueを立てるならサブフォーラムでどのように機能しているのか確認することをお勧めします。
+まずは[Pendingもしくは](/wiki/Beatmap/Category#work-in-progress-and-pending)[Work In Progress/Helpの](/wiki/Beatmap/Category#work-in-progress-and-pending)[beatmapのスレッド](/wiki/Beatmap)([Ranked](/wiki/Beatmap/Category#ranked)/[Approvedではありません](/wiki/Beatmap/Category#approved))からビートマップをダウンロードします。サブフォーラムからランダムに選択をすることもできますし、[Work In Progress/Helpのサブフォーラムにある](/wiki/Beatmap/Category#work-in-progress-and-pending) *'Modding Queue*でスレッドを立ててリクエストを貰うこともできます。もしQueueを立てるならサブフォーラムでどのように機能しているのか確認することをお勧めします。
 
 次に[Editorを開き](/wiki/Beatmap_Editor)、あなたがModしたいビートマップを開きます。その後は[ビートマップ](/wiki/Beatmap)のスレッドを開き、返事をできるようにします。
 

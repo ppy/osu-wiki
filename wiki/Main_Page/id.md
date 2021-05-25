@@ -56,7 +56,7 @@ Komponen Pendukung: [AIMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](
 
 # Komunitas
 
-[Turnamen](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projek](/wiki/Projects) • [Panduan](/wiki/Guides) • [Server Discord osu!dev](/wiki/osu!dev_Discord_server) • [Bagaimana kamu dapat membantu](/wiki/How_You_Can_Help!)
+[Turnamen](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projek](/wiki/Projects) • [Panduan](/wiki/Guides) • [Server Discord osu!dev](/wiki/osu!dev_Discord_server) • [Bagaimana kamu dapat membantu](/wiki/How_You_Can_Help!) • [Glosarium](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">

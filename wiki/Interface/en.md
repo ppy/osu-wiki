@@ -16,7 +16,7 @@ The [osu!cookie](/wiki/Glossary/Cookie) \[1\] pulses according to the [BPM](/wik
 - \[5\] Click Exit (`Esc`) to exit osu!.
 - \[6\] A random useful tip is displayed below the menu.
 - \[7\] In the lower-left is a link to the osu! website, as well as copyright information.
-- \[8\] Connection result to [Bancho](/wiki/BanchoBot)! In this picture it is not shown, but the connection result looks like a chain link.
+- \[8\] Connection result to [Bancho](/wiki/Bancho_(server))! In this picture it is not shown, but the connection result looks like a chain link.
 - \[9\] In the bottom right are the chat controls for the extended [chat window](/wiki/Chat_Console) (called "Player List" here) and the regular chat window (`F9` & `F8`, respectively).
 - \[10\] In the upper right is the osu! jukebox which plays the songs in random order. The top shows the song currently playing. The buttons, from left to right, do as follows:
   - Previous Track

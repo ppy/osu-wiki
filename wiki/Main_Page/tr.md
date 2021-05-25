@@ -57,7 +57,7 @@ Kısımlar: [Oluştur](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatmap_
 
 # Topluluk
 
-[Turnuvalar](/wiki/Tournaments) • [Tema oluşturma](/wiki/Skinning) • [Projeler](/wiki/Projects) • [Rehberler](/wiki/Guides) • [osu!dev Discord sunucusu](/wiki/osu!dev_Discord_server) • [Nasıl yardım edebilirsiniz](/wiki/How_You_Can_Help!)
+[Turnuvalar](/wiki/Tournaments) • [Tema oluşturma](/wiki/Skinning) • [Projeler](/wiki/Projects) • [Rehberler](/wiki/Guides) • [osu!dev Discord sunucusu](/wiki/osu!dev_Discord_server) • [Nasıl yardım edebilirsiniz](/wiki/How_You_Can_Help!) • [Sözlük](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">

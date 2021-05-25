@@ -56,7 +56,7 @@ layout: main_page
 
 # Комьюнити
 
-[Турниры](/wiki/Tournaments) • [Создание скинов](/wiki/Skinning) • [Проекты](/wiki/Projects) • [Гайды](/wiki/Guides) • [osu!dev Discord сервер](/wiki/osu!dev_Discord_server) • [Как Вы можете помочь](/wiki/How_you_can_help!)
+[Турниры](/wiki/Tournaments) • [Создание скинов](/wiki/Skinning) • [Проекты](/wiki/Projects) • [Гайды](/wiki/Guides) • [osu!dev Discord сервер](/wiki/osu!dev_Discord_server) • [Как Вы можете помочь](/wiki/How_you_can_help!) • [Глоссарий](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">

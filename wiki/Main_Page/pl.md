@@ -57,7 +57,7 @@ Komponenty: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Podzielnik beatu](/wiki/Bea
 
 # Społeczność
 
-[Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!dev](/wiki/osu!dev_Discord_server) • [Jak możesz pomóc?](/wiki/How_You_Can_Help!)
+[Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!dev](/wiki/osu!dev_Discord_server) • [Jak możesz pomóc?](/wiki/How_You_Can_Help!) • [Słownik](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -57,7 +57,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 커뮤니티
 
-[토너먼트](/wiki/Tournaments) • [스킨](/wiki/Skinning) • [프로젝트](/wiki/Projects) • [가이드](/wiki/Guides) • [osu!dev 디스코드 서버](/wiki/osu!dev_Discord_server) • [도움을 줄 수 있는 방법](/wiki/How_You_Can_Help!)
+[토너먼트](/wiki/Tournaments) • [스킨](/wiki/Skinning) • [프로젝트](/wiki/Projects) • [가이드](/wiki/Guides) • [osu!dev 디스코드 서버](/wiki/osu!dev_Discord_server) • [도움을 줄 수 있는 방법](/wiki/How_You_Can_Help!) • [용어 사전](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -19,7 +19,7 @@ outdated_since: 8c58252899939eadafbdbf266f62a75aeb247bff
 - \[5\] osu!'dan çıkmak için Exit'e (`Esc`) tıklayın.
 - \[6\] Menünün alt kısmında işe yarar rastgele bir tavsiye görüntülenir.
 - \[7\] Sol-alt kısımda osu! web sayfasına bir link, aynı zamanda telif hakkı bilgisi bulunur.
-- \[8\] [Bancho](/wiki/BanchoBot)'ya bağlantı sonucu! Bu resimde gösterilmiyor, ama bağlantı sonucu bir dizi linke benziyor.
+- \[8\] [Bancho](/wiki/Bancho_(server))'ya bağlantı sonucu! Bu resimde gösterilmiyor, ama bağlantı sonucu bir dizi linke benziyor.
 - \[9\] Sağ-alt kısımda genişletilmiş [sohbet penceresi](/wiki/Chat_Console) (burada "Player List" olarak geçiyor) ve sıradan sohbet penceresi (sırasıyla `F9` & `F8`) için sohbet kontrolleri bulunur.
 - \[10\] Sağ-üstte şarkıları rastgele sırayla çalan osu! müzik kutusu bulunur. Üst kısım şu anda çalan şarkıyı gösterir. Butonlar, soldan sağa aşağıdaki gibi çalışır:
   - Önceki Parça

@@ -18,7 +18,7 @@ Que vous soyez un mappeur débutant ou un peu plus expérimenté, le modding est
 
 Je vous rappelle que les mods doivent toujours se faire en anglais, vous pouvez le faire en français si le mappeur l'est aussi, mais je vous recommande quand même l'anglais, de cette manière les autres moddeurs sauront quels sont les suggestions que vous avez faites.
 
-Tout d'abord, téléchargez une map dans la partie [Pending Beatmap](/wiki/Beatmap) ou [Work In Progress/Help](/wiki/Beatmap/Category) du forum (et non les parties [Ranked](/wiki/Beatmap)/[Approved](/wiki/Beatmap) !). Vous pouvez choisir des maps au hasard ou ouvrir une modding queue dans la sous-partie **Modding Queue** en dessous de [Work In Progress/Help](/wiki/Beatmap/Category) et accepter des demandes de mods. Si vous avez l'intention d'ouvrir une modding queue, n'hésitez pas à jeter un coup d'oeil à certains d'entre eux pour vous donner une idée générale de leur fonctionnement.
+Tout d'abord, téléchargez une map dans la partie [Pending Beatmap](/wiki/Beatmap) ou [Work In Progress/Help](/wiki/Beatmap/Category#work-in-progress-and-pending) du forum (et non les parties [Ranked](/wiki/Beatmap)/[Approved](/wiki/Beatmap) !). Vous pouvez choisir des maps au hasard ou ouvrir une modding queue dans la sous-partie **Modding Queue** en dessous de [Work In Progress/Help](/wiki/Beatmap/Category) et accepter des demandes de mods. Si vous avez l'intention d'ouvrir une modding queue, n'hésitez pas à jeter un coup d'oeil à certains d'entre eux pour vous donner une idée générale de leur fonctionnement.
 
 Ensuite, allez dans l'[Editeur](/wiki/Beatmap_Editor) et selectionnez la map que vous souhaitez modder. Puis, commencez à écrire une réponse dans le topic de la [map](/wiki/Beatmap).
 
