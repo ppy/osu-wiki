@@ -6,4 +6,4 @@
 - [`.osu`ファイル](/wiki/osu!_File_Formats/Osu_(file_format))のバージョン番号
 - [スキン](/wiki/Skinning)のバージョン番号
 - osu! クライアントのビルド番号または日付
-- osu! クライアントのリリースストリーム（`Stable`、`Stable (Fallback)`、`Beta`、`Cutting Edge`のいずれか）
+- osu! クライアントのリリースストリーム（`Stable`、`Stable (Fallback)`、`Beta`、`Cutting Edge (Experimental)`のいずれか）
