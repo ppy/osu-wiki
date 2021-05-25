@@ -14,7 +14,7 @@ outdated: true
 
 ## 基本修图方法
 
-首先，从论坛上下载一个谱面，[Pending Beatmaps 里的或者](/wiki/Beatmap) [Work In Progress/Help 的都可以](/wiki/Beatmap/Category)(唯独不要下载 [Ranked/Approved Beatmaps](/wiki/Beatmap) 里的！因为那些是已经审核通过上架了的谱面)。你可以从之前两个页面中随机选一个谱面来看，或者在 [Work In Progress/Help 里的](/wiki/Beatmap/Category#work-in-progress-and-pending) **Modding Queue** 页面开一个自己的 Modding queue（修图队列）然后接受他人的修图请求。如果你想开一个修图队列，读一读那个页面里的其他队列你就知道该怎么做了。
+首先，从论坛上下载一个谱面，[Pending Beatmaps 里的或者](/wiki/Beatmap/Category#work-in-progress-and-pending) [Work In Progress/Help 的都可以](/wiki/Beatmap/Category#work-in-progress-and-pending)(唯独不要下载 [Ranked/Approved Beatmaps](/wiki/Beatmap/Category#ranked) 里的！因为那些是已经审核通过上架了的谱面)。你可以从之前两个页面中随机选一个谱面来看，或者在 [Work In Progress/Help 里的](/wiki/Beatmap/Category#work-in-progress-and-pending) **Modding Queue** 页面开一个自己的 Modding queue（修图队列）然后接受他人的修图请求。如果你想开一个修图队列，读一读那个页面里的其他队列你就知道该怎么做了。
 
 然后，进入编辑器并选择你想要修的图。然后，在 [Beatmap's 页面打开一个新回复](/wiki/Beatmap)（为了避免浏览器突然崩溃等意外情况，用记事本写回复再粘贴过去更好；或者你可以选择使用火狐浏览器）
 
