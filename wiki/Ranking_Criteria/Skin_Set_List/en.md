@@ -216,7 +216,7 @@ The entirety of this skin set is gameplay relevant. Overlaps or gaps between the
 | score-comma.png | - | required | - |
 | score-dot.png | - | required | - |
 | score-percent.png | - | required | - |
-| score-x.png | can be left out on beatmap sets without osu! difficulties | required | - |
+| score-x.png | can be left out on beatmaps without osu! difficulties | required | - |
 
 ### Mod icon set
 

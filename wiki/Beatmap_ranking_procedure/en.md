@@ -38,6 +38,6 @@ Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nomi
 
 ## Ranked
 
-Beatmapsets that have passed through the qualification stage have completed the ranking procedure. They have score leaderboards and reward players with performance points.
+Beatmaps that have passed through the qualification stage have completed the ranking procedure. They have score leaderboards and reward players with performance points.
 
 Ranked beatmaps are only unranked under exceptional circumstances when issues are found shortly after they reach Ranked status.

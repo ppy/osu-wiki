@@ -59,7 +59,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **No column can be left empty.** If you want to use fewer keys, change the number of keys in the Song Setup.
 - **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4 to 10 keys.** Anything else is not supported for the Ranked section.
-- **If multiple key modes are present in a single beatmap set, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
+- **If multiple key modes are present in a single beatmap, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
 
 ### Guidelines
 
@@ -178,7 +178,7 @@ Additional guidelines for *7 key Hard* difficulties:
 
 Additional guidelines for *4 key Insane* difficulties:
 
-- **Avoid using chords in the middle of 1/8 streams.** The density of these patterns is often too difficult for players of this skill level, especially when used on the lowest difficulty of a beatmap set. Additionally, ineffective placement of chords may result in inconsistent 1/4 minijack usage. Using a chord at the beginning or end of a stream is fine.
+- **Avoid using chords in the middle of 1/8 streams.** The density of these patterns is often too difficult for players of this skill level, especially when used on the lowest difficulty of a beatmap. Additionally, ineffective placement of chords may result in inconsistent 1/4 minijack usage. Using a chord at the beginning or end of a stream is fine.
 - **Using split-jumptrills for 2+ beats that leads to a hand is discouraged.** Unless a beatmap uses jacks or other complex patterns frequently, this pattern is difficult to hit. If a hand is necessary, delete the note before it that would create the mini jack.
 - **Avoid using more than 9-note split-jumptrills.** These are more physically exhausting than other patterns of similar density.
 

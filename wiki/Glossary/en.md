@@ -808,7 +808,7 @@ A type of beatmap that is designed for more than one person to play at the same 
 
 Each player is responsible for one comboset, where each hit object in that comboset is mapped to be extremely farther apart, making it nearly impossible to play by a single player. Therefore it becomes a challenge for elite players in terms of precision of jumping.
 
-TAG difficulties are usually named TAG in a beatmap set. TAG2 maps are meant for 2 players, while TAG4 maps (the hardest) are meant for 4 players.
+TAG difficulties are usually named TAG in a beatmap. TAG2 maps are meant for 2 players, while TAG4 maps (the hardest) are meant for 4 players.
 
 Note that TAG difficulties are unrankable because they are intentionally not designed for a single player. However, this has not stop users from trying.
 
