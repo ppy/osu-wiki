@@ -60,7 +60,7 @@ Play [this beatmap](https://osu.ppy.sh/beatmapsets/46223) by none other than [Fr
     <source src="LINK" type="audio/mpeg">
 </audio>
 
-### A-One feat. Shihori - Bloody Night
+### A-One feat. Rute - Spider's Blood
 
 If that's enough circle clicking for you, try out [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/832564) hosted by [eiri-](https://osu.ppy.sh/users/3388410).
 
