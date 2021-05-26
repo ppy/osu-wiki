@@ -8,7 +8,7 @@ We're proud to introduce the Touhou Eurobeat superstar **A-One** to the Featured
 
 ![](https://assets.ppy.sh/artists/168/header.jpg)
 
-Spinning Touhou music in the most unexpected direction, **A-One** is the circle behind a handful of osu! classics that every player from the last decade is sure to recognize. With contribution from doujin vocalist legends like *Hanatan*, *ayaponzu\**, *Nanahira*, and a whole ton of others, **A-One**'s music is bound to resonate with anyone's idea of a traditional "osu! sound".
+Spinning Touhou music in a not-so-conventional direction, **A-One** is the circle behind a handful of osu! classics. With contribution from doujin vocalist legends like *Hanatan*, *ayaponzu\**, *Nanahira*, and a whole ton of others, **A-One**'s music is bound to resonate with anyone's idea of a traditional "osu! sound".
 
 Given how synonymous their music is with the vintage days of osu!, we're proud to officially unveil **22** blood-pumping tracks on [**A-One**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/168)!
 
@@ -70,7 +70,7 @@ If that's enough circle clicking for you, try out [this osu!taiko beatmap](https
 
 ---
 
-Considering the variety of vocalists in this collection, we super strongly encourage you to check out [**A-One**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/168) and seeing if there's a song you're interested in mapping with one of the pre-timed beatmap templates. And we recommend you do that with the rest of our Featured Artists too, obviously. Get out of here.
+Considering the variety of vocalists in this collection, we super strongly encourage you to check out [**A-One**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/168) to see if there's a song you're interested in mapping. And we recommend you do that with the rest of our Featured Artists too, obviously. Get out of here.
 
 Featured Artist fun fact: some of our earliest artist announcements included multiple artists at once. Maybe we'll try doing that again to get through the backlog faster, but for now you can be sure that you'll see another insanely talented artist coming on Saturday. The [@osugame Twitter](https://twitter.com/osugame/) has the details (and much more), so do what you will with that info.
 
