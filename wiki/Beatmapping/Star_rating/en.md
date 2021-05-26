@@ -24,6 +24,6 @@ On the website, beatmaps are automatically given a difficulty icon based on thes
 - ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ and above
 
-Most maps' intended difficulty levels match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) defines more precise rules for determining difficulty and evaluating beatmapset spreads.
+Most maps' intended difficulty levels match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) define more precise rules for determining difficulty and evaluating difficulty spreads.
 
 <!-- TODO: add Star rating calculation formula -->

@@ -8,7 +8,7 @@ This tutorial will require several things. These will be listed in case so if yo
 
 - **foobar2000.** This tutorial uses v1.1.15 which is the latest stable release at the moment of writing this tutorial. Download [here](https://foobar2000.org/download).
 - **vgmstream decoder plugin.** This tutorial will use the foobar2000 plugin (Used version: r1002) but if you know how to use the standalone version, you can use it. Download [here](https://foobar2000.org/components/view/foo_input_vgmstream). Standalone version [here](https://vgmstream.losno.co).
-- **LAME Encoder.** This is required to convert the song to the MP3 format so you can load the song in [osu!](/wiki/Glossary) and start mapping! Download [here](https://rarewares.org) (Select LAME Bundles in the MP3 menu).
+- **LAME Encoder.** This is required to convert the song to the MP3 format so you can load the song in [osu!](/wiki/Disambiguation/osu!) and start mapping! Download [here](https://rarewares.org) (Select LAME Bundles in the MP3 menu).
 - **An extracted backup from your game.** This is required to get your desired song. However, you should get the backup by yourself. This tutorial will use *Paper Mario: The Thousand Year Door* as our game.
 
 ## Starting up

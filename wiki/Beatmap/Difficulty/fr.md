@@ -1,25 +1,38 @@
 ---
 tags:
-  - difficulty
+  - difficulties
   - difficulty name
   - SR
   - star rating
   - stars
-outdated: true
-outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
+  - difficultés
+  - nom de la difficulté
+  - classement en étoiles
+  - étoiles
 ---
 
-# Difficultés
+# Difficulté
 
-*À ne pas confondre avec: [Beatmaps](/wiki/Beatmap)*
+*À ne pas confondre avec [Beatmap](/wiki/Beatmap).*
 
-La difficulté d'une beatmap *décrit* le niveau de compétence requis pour pouvoir la finir. Le nom de difficulté et le nombre d'étoiles d'une beatmap donnent généralement assez d'informations pour dire leur difficulté.
+La **difficulté** d'une beatmap est un niveau de jeu, qui est stocké dans un fichier texte avec [l'extension `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Il est composé d'[objets](/wiki/Hit_object) d'un certain [mode de jeu](/wiki/Game_mode), qui sont configurés en fonction du [timing](/wiki/Beatmapping/Timing_section) adapté à une musique spécifique. Les difficultés présentent différents aspects, qui affectent directement l'expérience de l'utilisateur. Le nom de la difficulté et le [classement en étoiles](/wiki/Beatmapping/Star_rating) donnent généralement suffisamment d'informations pour déterminer le niveau de difficulté.
+
+Les objets d'une difficulté composent des [motifs](/wiki/Beatmap/Pattern), qui varient également selon le mode de jeu et donnent l'aspect général dont une difficulté doit être jouée. La jouabilité des difficultés d'une beatmap peut également être modifiée par divers [paramètres de difficulté](/wiki/Beatmap_Editor/Song_Setup#difficulty) définis par l'auteur de la beatmap ou activés par des [modificateurs de jeu](/wiki/Game_modifier).
+
+Du point de vue auditif, une difficulté peut augmenter la musique en fournissant un ou plusieurs ensembles d'échantillons audio, ou [hitsounds](/wiki/Beatmapping/Hitsound), qui servent de couche supplémentaire.
+
+<!-- TODO: this description of visuals needs to be improved:
+  - a separate section;
+  - a very small paragraph on every key component, including those from Beatmap#overview;
+-->
+
+Les [composants visuels](/wiki/Beatmap) d'une difficulté, contrairement à ses motifs, fournissent une expérience auxiliaire pendant le jeu et peuvent être désactivés dans la superposition des [paramètres visuels](/wiki/Visual_Settings) pour la plupart. Si certains d'entre eux, comme les [storyboards](/wiki/Storyboards) ou les [skins personnalisés](/wiki/Skinning), appartiennent à l'ensemble de la beatmap, la plupart des composants visuels peuvent varier en fonction de la difficulté (par exemple, les sections [kiai time](/wiki/Kiai_time) et les [couleurs de combos](/wiki/Glossary/Combo_colour)).
 
 ## Niveaux de difficulté
 
-*Voir aussi : [Nom des difficultés](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Voir aussi : [Nom de la difficulté](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-Ce sont les niveaux de difficulté typiques auxquels une beatmap peut être soumise. Les définitions spécifiques et les exigences de chacune se trouvent dans leurs modes respectifs de [ranking criteria](/wiki/Ranking_Criteria).
+Ce sont les niveaux de difficulté typiques d'une beatmap. Les définitions et exigences spécifiques de chacun d'entre eux se trouvent dans les [critères de classement](/wiki/Ranking_Criteria) de leur mode respectif.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -57,17 +70,17 @@ Ce sont les niveaux de difficulté typiques auxquels une beatmap peut être soum
 - ![](/wiki/shared/diff/expert-m.png) Expert
 - ![](/wiki/shared/diff/expertplus-m.png) Expert+
 
-## Star rating (difficulté en étoiles)
+## Classement en étoiles
 
-![Tranches de difficulté](img/SR-range.png)
+![Plages de classement en étoiles](img/SR-range.png)
 
-Sur le site web, les beatmaps ont automatiquement une icône de difficulté basé sur leur rang de star rating :
+Sur le site web, les beatmaps se voient automatiquement attribuer une icône de difficulté en fonction de ces fourchettes d'étoiles :
 
-- ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
-- ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
-- ![](/wiki/shared/diff/hard-o.png) Hard: 2.7★–3.99★
-- ![](/wiki/shared/diff/insane-o.png) Insane: 4.0★–5.29★
-- ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ and above
+- ![](/wiki/shared/diff/easy-o.png) Easy:  0.0★–1.99★
+- ![](/wiki/shared/diff/normal-o.png) Normal : 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-o.png) Hard : 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-o.png) Insane : 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-o.png) Expert : 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+ : 6.5★ et plus
 
-La plupart des difficultées de maps rentre dans les icônes donnés, mais certaines non. C'est pourquoi le [ranking criteria](/wiki/Ranking_Criteria) définie plus précisément les règles pour déterminer la difficulté et évaluer le beatmapset.
+Les niveaux de difficulté prévus de la plupart des beatmaps correspondent aux icônes qui leur sont attribuées, mais certains s'en écartent sensiblement. C'est pourquoi les [critères de classement](/wiki/Ranking_Criteria) définissent des règles plus précises pour déterminer la difficulté et évaluer les écarts entre les beatmaps.

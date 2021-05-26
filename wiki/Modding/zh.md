@@ -6,7 +6,7 @@ outdated: true
 
 **Modding** 顾名思义就是检查他人的谱面 然后提出建议。建议可以是修正一些错误或者仅仅是简单的提高谱面质量的小建议。检查你图的人被称为"modder（修图者）", 而制作这个谱面的人就被称为"mapper（作图者）". 修图主要有三个作用：
 
-1. 如果你的建议对制图者来说有用，制图者会给你[Kudosu](/wiki/Glossary). Kudosu 可以用来提高你自己的 map 的星星数（当然也可以用来给自己喜欢的图用）
+1. 如果你的建议对制图者来说有用，制图者会给你[Kudosu](/wiki/Modding/Kudosu). Kudosu 可以用来提高你自己的 map 的星星数（当然也可以用来给自己喜欢的图用）
 2. "Mod4mods（互相修图）", 或者当别人看了你的图后你去看别人的图，都是让你的图被他人 mod 的好办法
 3. 一个好的修图贴可以减少谱面审核组检查并指出谱面的基本错误的时间。这也让审核组轻松不少，此外如果你有很好的修图能力，我想审核组都会乐意去看你的谱面。[MAT 们看到没什么大问题的谱面都会有好心情的](/wiki/People/Beatmap_Nominators)，而不是一边修图一边心里暗自伤神地念着这图其实还该多被其他人再修修的。
 
@@ -14,13 +14,13 @@ outdated: true
 
 ## 基本修图方法
 
-首先，从论坛上下载一个谱面，[Pending Beatmaps 里的或者](/wiki/Beatmap) [Work In Progress/Help 的都可以](/wiki/Glossary)(唯独不要下载 [Ranked/Approved Beatmaps](/wiki/Beatmap) 里的！因为那些是已经审核通过上架了的谱面)。你可以从之前两个页面中随机选一个谱面来看，或者在 [Work In Progress/Help 里的](/wiki/Glossary) **Modding Queue** 页面开一个自己的 Modding queue（修图队列）然后接受他人的修图请求。如果你想开一个修图队列，读一读那个页面里的其他队列你就知道该怎么做了。
+首先，从论坛上下载一个谱面，[Pending Beatmaps 里的或者](/wiki/Beatmap/Category#work-in-progress-and-pending) [Work In Progress/Help 的都可以](/wiki/Beatmap/Category#work-in-progress-and-pending)(唯独不要下载 [Ranked/Approved Beatmaps](/wiki/Beatmap/Category#ranked) 里的！因为那些是已经审核通过上架了的谱面)。你可以从之前两个页面中随机选一个谱面来看，或者在 [Work In Progress/Help 里的](/wiki/Beatmap/Category#work-in-progress-and-pending) **Modding Queue** 页面开一个自己的 Modding queue（修图队列）然后接受他人的修图请求。如果你想开一个修图队列，读一读那个页面里的其他队列你就知道该怎么做了。
 
 然后，进入编辑器并选择你想要修的图。然后，在 [Beatmap's 页面打开一个新回复](/wiki/Beatmap)（为了避免浏览器突然崩溃等意外情况，用记事本写回复再粘贴过去更好；或者你可以选择使用火狐浏览器）
 
 选择任意一个难度开始修图。建议从最简单的或者最难的难度开始修起，然后难度逐渐增加或降低。
 
-用游玩模式或者 [test mode 开始玩一下这个谱面](/wiki/Glossary)。试玩是修图中很重要的一步，因为通过试玩你可以理解并知道 [Patterns 玩起来顺不顺](/wiki/Mapping_Techniques)。试玩过程中几下你觉得奇怪的地方。
+用游玩模式或者 [test mode 开始玩一下这个谱面](/wiki/Beatmap_Editor/Test_mode)。试玩是修图中很重要的一步，因为通过试玩你可以理解并知道 [Patterns 玩起来顺不顺](/wiki/Mapping_Techniques)。试玩过程中几下你觉得奇怪的地方。
 
 试玩之后，在编辑器里播放歌曲并在你觉得奇怪的地方停下。在这样一种修图方法下，修图者可以发现一些更细微的问题，比如排列错误或者声音的不一致，或者哪里缺少一个节拍或者滑条等等。当你发现一个击打圆圈或者滑条有问题的时候，鼠标选中他，然后选择 Edit 菜单下的 “Copy” 选项（或者直接 Ctrl+C），然后在你的回复中直接粘贴（Ctrl+V）。然后就可以写你觉得不对的地方了（比如“我会改变这里的间距因为我感觉这里音乐并没有 [jump](/wiki/Mapping_Techniques/Jumps)”）,或者单纯就说你觉得这个不对，玩起来不顺。
 
@@ -34,7 +34,7 @@ AIMod 是很用的修图工具，你可以在 "Files" 菜单下看到它，或�
 
 ### BPM 和 Offset
 
-做图最重要的部分就是节拍和时间准确。如果 [BPM 不正确](/wiki/Glossary)，整个歌曲都会计时错误，节奏也会十分怪异。如果 BPM 正确但是扔感觉节拍"有偏差"，那么很可能是 offset 的问题或者 BPM 改变。offset 的作用是使拍子对准每个节拍点也就是找准重音。节拍偏差很可能就是因为没找到准确的 offset。在**所有**难度里，BPM 和 offset 都必须一致。有 BPM 改变时也是这样，所有的 BPM 改变和它们相应的 offset 都必须在**所有**难度中一致。
+做图最重要的部分就是节拍和时间准确。如果 [BPM 不正确](/wiki/Beatmapping/Beats_per_minute)，整个歌曲都会计时错误，节奏也会十分怪异。如果 BPM 正确但是扔感觉节拍"有偏差"，那么很可能是 offset 的问题或者 BPM 改变。offset 的作用是使拍子对准每个节拍点也就是找准重音。节拍偏差很可能就是因为没找到准确的 offset。在**所有**难度里，BPM 和 offset 都必须一致。有 BPM 改变时也是这样，所有的 BPM 改变和它们相应的 offset 都必须在**所有**难度中一致。
 
 ### 间距
 
@@ -42,7 +42,7 @@ AIMod 是很用的修图工具，你可以在 "Files" 菜单下看到它，或�
 
 ### 击打物的节奏
 
-osu!是音乐游戏，节奏是作图中很重要的部分。如果你觉得在一个地方缺少了一个可以让这个谱面更流畅或者让节奏听起来更顺的物件，那么就毫不犹豫地提出建议吧。如果一些节拍 [overmapped](/wiki/Glossary)，那么就建议删掉它们。如果一部分节奏听起来或者玩起来怪异，又或者在编辑器里看起来奇怪，那么很可能是击打物放错地方或者计时错误，又或者是太长或者太短(对于滑条和转盘)
+osu!是音乐游戏，节奏是作图中很重要的部分。如果你觉得在一个地方缺少了一个可以让这个谱面更流畅或者让节奏听起来更顺的物件，那么就毫不犹豫地提出建议吧。如果一些节拍 [overmapped](/wiki/Beatmapping/Overmapping)，那么就建议删掉它们。如果一部分节奏听起来或者玩起来怪异，又或者在编辑器里看起来奇怪，那么很可能是击打物放错地方或者计时错误，又或者是太长或者太短(对于滑条和转盘)
 
 ### 新组合
 

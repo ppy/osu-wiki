@@ -22,7 +22,7 @@ Users can also adjust the number of ticks on their beatmap's sliders in the `Tim
 
 ## Hitsounding sliders
 
-[Hitsounding](/wiki/Glossary) sliders is most effectively done by selecting each part of a slider by double-clicking it in the [timeline](/wiki/Beatmap_Editor/Timelines). This will highlight the element in red and limit hitsounds to the selected part. If this selection isn't done, hitsounds will apply to the whole slider and will sound confusing for sliders that cover multiple, different sounds.
+[Hitsounding](/wiki/Beatmapping/Hitsound) sliders is most effectively done by selecting each part of a slider by double-clicking it in the [timeline](/wiki/Beatmap_Editor/Timelines). This will highlight the element in red and limit hitsounds to the selected part. If this selection isn't done, hitsounds will apply to the whole slider and will sound confusing for sliders that cover multiple, different sounds.
 
 To change a slider's volume mid-slider, the current sampleset has to be changed alongside the volume for the change to take effect. This is necessary because the osu! client doesn't take sliderbodies properly into account when hitsound volumes are changed.
 

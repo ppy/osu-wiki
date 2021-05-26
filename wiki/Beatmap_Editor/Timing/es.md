@@ -14,7 +14,7 @@ El tempo consiste en la [compensación](/wiki/Beatmapping/Offset) de una canció
 
 ## Ventana de Tempo y de Punto de Control
 
-![Pantallazo de la ventana de Tempo y Puntos de Control](img/TimingSetup.jpg)
+![Pantallazo de la ventana de Tempo y Puntos de Control](img/TimingSetup.png)
 
 Los puntos de tiempo pueden ser añadidos desde la ventana de `Tiempos y Puntos de Control` en el editor (acceso directo por defecto `F6`). Los puntos de tiempo dividen la canción en secciones para reflejar cambios precisos en el tempo de una canción.
 

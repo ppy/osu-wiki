@@ -10,14 +10,14 @@ Did you miss us? I bet you did! Sorry for the wait, but here we are again, the f
 
 This month's issue of the Mappers' Report contains the following topics:
 
-- **[Ranking Criteria Changes](#rc-changes)**
-- **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
-- **[Mappers' Showcase](#mappers-showcase)**
+- **[Ranking Criteria Changes](#ranking-criteria-changes)**
+- **[Within the Beatmap Nominators and NAT](#within-the-beatmap-nominators-and-nat)**
+- **[Mappers' Showcase](#mappers'-showcase)**
 - **[Mapping Contests](#mapping-contests)**
-- **[Around the Community](#around-community)**
+- **[Around the Community](#around-the-community)**
 - **[Conclusion](#conclusion)**
 
-## <a id="rc-changes"></a>Ranking Criteria Changes
+## Ranking Criteria Changes
 
 As every month we keep you up to date with the changes to the Ranking Criteria. All rule and guideline changes are listed below and in addition you can see open proposals to give your feedback!
 
@@ -58,7 +58,7 @@ For osu!mania:
 - **[Change chord guidelines in 4k normal/hard diffs](https://osu.ppy.sh/community/forums/topics/1067554)**
 - **[Redefine the "stream" terminology in mania RC](https://osu.ppy.sh/community/forums/topics/1079647)**
 
-## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
+## Within the Beatmap Nominators and NAT
 
 The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidding, of course they do, they are humans, too. However, the group line-up is always changing! New people are coming, old are going away. This month was no exception!
 
@@ -96,7 +96,7 @@ Here is the list of everyone who received a badge this past session:
 - **QAT/NAT 2 Year Badge:** [Lasse](https://osu.ppy.sh/users/896613), [-Mo-](https://osu.ppy.sh/users/2202163) & [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - **QAT 3 Year Badge:** [OnosakiHito](https://osu.ppy.sh/users/290128)
 
-## <a id="mappers-showcase"></a>Mappers' Showcase
+## Mappers' Showcase
 
 The Mappers' Showcase presents lesser-known mappers from every game mode. Since we bundled two issues in one post, we will feature two game modes this month.
 
@@ -140,7 +140,7 @@ An example of a map which demonstrates this is their rendition of [Sta - 99 Gloo
 
 We hope to see Ticle's maps gain more traction as they are definitely worth a shot for any LN enthusiast!
 
-## <a id="mapping-contests"></a>Mapping Contests
+## Mapping Contests
 
 Get your editor ready. The mapping contests are here! Whether you are a veteran or making your first steps in mapping, contests are for everyone! 
 
@@ -210,7 +210,7 @@ Are there any other mapping contests going on? Or being announced soon? Please l
 
 Head over to the [forum post](https://osu.ppy.sh/community/forums/topics/1027590) where you can find the submission form for them, and help us keep abreast of the latest competitions going on! 
 
-## <a id="around-community"></a>Around the Community
+## Around the Community
 
 ### New Review System in Beatmap Discussion
 

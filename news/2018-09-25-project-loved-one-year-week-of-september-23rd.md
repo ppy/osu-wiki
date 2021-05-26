@@ -35,12 +35,12 @@ And lastly before we get into the maps, [\_verto\_](https://osu.ppy.sh/users/201
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [Toy](https://osu.ppy.sh/users/2757689) and [DigitalHypno](https://osu.ppy.sh/users/4384207)! This week, all osu! beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
@@ -106,7 +106,7 @@ I'm sure many of you recognize this artist from popular ranked mapsets of Uta an
 
 Some of you may know the other ranked mapsets of this song, but I'd say you're missing out if you haven't given this version a try as well. In 2014, RLC and fanzhen0019 came together to collab the extended version of this up-beat banger of a track by kors k. The comparison of their mapping styles in this collab is quite interesting, and overall makes for a very engaging map. Over 110 players have favorited this map so far, and if you're one for five minutes of disconnected streams and variable slider velocities, you just might be the next one!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [Backfire](https://osu.ppy.sh/users/263110), [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)! This week, all osu!taiko beatmap descriptions were written by [Backfire](https://osu.ppy.sh/users/263110).
 
@@ -138,7 +138,7 @@ Our redemption pick for this week, Colors only barely missed out getting Loved i
 
 > A beautiful song and a beautiful set, Colors has a lot of charm to it. The moody song, paired with the chaotic design of the top diff makes this set pop out as something truly unique to play and feast your eyes on. 1/6 so exotic, it'll make even the best players squirm. Don't fret however, bananannian has provided you with a full spread so even the lower ranked players get to have fun with this one.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Zak](https://osu.ppy.sh/users/1375955), [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941) and [Tenshichan](https://osu.ppy.sh/users/1101600)! This week, all osu!catch beatmap descriptions were written by [Sartan](https://osu.ppy.sh/users/4100941).
 
@@ -156,7 +156,7 @@ For the first time in quite a while, Badis makes his return to the Loved voting 
 
 I greet thy low-AR Hidden mod experts, your time has come! ZHsteven's Kake nukeru Nico Nico Douga has for a long time been one of the hardest hidden map challenges in osu!catch due to its AR only being 8 and its length being over 8 freaking minutes, and it still continues to be exactly that hard of a challenge until this day. The map is fairly old, which means there are a dozen of inconvenient spacings to be found. It doesn't really go too heavy on streaming or jumping sections; it's more like a jack-of-all-trades type of ordeal. To be fair though, this is quite an accessible map for people who will try it without any mods turned on, which its star rating would indeed suggest. The real challenge lies within its new form with any difficulty-increasing mod turned on. It does however also mean that the replayability on this map is very good; you will be able to play this tons to try and further improve your score. Anyway, enough talking, you've got eight long minutes ahead of you trying this map. Enjoy, but do come back to vote!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Kamikaze](https://osu.ppy.sh/users/2124783), [\_underjoy](https://osu.ppy.sh/users/2235750), [aitor98](https://osu.ppy.sh/users/3154852), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [TheToaphster](https://osu.ppy.sh/users/7616811)!
 

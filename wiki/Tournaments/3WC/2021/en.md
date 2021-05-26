@@ -8,7 +8,7 @@ tags:
 
 ![3WC 2021 banner](img/banner.png)
 
-The **3 Digit World Cup 2021** (***3WC 2021***) is a country-based osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) and ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899). It is the third installment of the 3 Digit World Cup.
+The **3 Digit World Cup 2021** (***3WC 2021***) was a country-based osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) and ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899). It was the third installment of the 3 Digit World Cup.
 
 ## Tournament schedule
 
@@ -31,9 +31,11 @@ The **3 Digit World Cup 2021** (***3WC 2021***) is a country-based osu! tourname
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner |
 
+![](img/badge.png "3WC 2021 winner badge")
+
 ## Organisation
 
-The 3 Digit World Cup is run by various community members.
+The 3 Digit World Cup was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -83,25 +85,7 @@ The 3 Digit World Cup is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Voss](https://osu.ppy.sh/users/7657761)**, [Rinnu](https://osu.ppy.sh/users/12179012), [majoreh](https://osu.ppy.sh/users/7959222), [Kingling](https://osu.ppy.sh/users/7010761), [Jemzsee](https://osu.ppy.sh/users/11553627), [Doomsday](https://osu.ppy.sh/users/18983) |
 | ![][flag_US] | **United States** | **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, [Exarch](https://osu.ppy.sh/users/5370153), [Apraxia](https://osu.ppy.sh/users/4194445), [Woey](https://osu.ppy.sh/users/3792472), [Flezlin](https://osu.ppy.sh/users/3696423), [Tekkito](https://osu.ppy.sh/users/7075211) |
 
-## Match schedule: Grand Finals
-
-This is likely to change as a result of reschedules. Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM/edit#gid=1909881276 "Google spreadsheet") for up-to-date match times.
-
-### Saturday, 8 May 2021
-
-| Team A | Team B | Match time | Local time A | Local time B | |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| United States ![][flag_US] | ![][flag_PL] Poland | **18:00 UTC** | 12:00 UTC-06 | 20:00 UTC+02 | ¹ |
-
-### Sunday, 9 May 2021
-
-| Team A | Team B | Match time | Local time A | Local time B | |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| Taiwan ![][flag_TW] | ![][flag_US] United States | **03:00 UTC** | 11:00 UTC+08 | 21:00 UTC-06 | ² |
-| Taiwan ![][flag_TW] | ![][flag_PL] Poland | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 | ² |
-
-¹ 3rd place encounter\
-² Encounter dependent on results of ¹ 3rd place encounter
+![3WC 2021 podium](img/podium.png)
 
 ## Mappools
 
@@ -269,6 +253,22 @@ This is likely to change as a result of reschedules. Check the [spreadsheet](htt
 
 ## Match results
 
+### Grand Finals
+
+The stats of the Grand Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=181538024 "Google spreadsheet").
+
+Saturday, 8 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 1 | **7** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/82865958) |
+
+Sunday, 9 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Taiwan** ![][flag_TW] | **7** | 6 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/82933592) |
+
 ### Finals
 
 The stats of the Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1957562667 "Google spreadsheet").
@@ -383,11 +383,11 @@ Sunday, 11 April 2021:
 ### Match instructions
 
 - Round of 16 and Quarterfinals
-   - Best of 11, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
+  - Best of 11, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 - Semifinals
-   - Best of 11, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
+  - Best of 11, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 - Finals and Grand Finals
-   - Best of 13, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
+  - Best of 13, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 
 1. The referee will invite the captains of each team to the multiplayer lobby. Captains have ten minutes to get a minimum of a three-man roster in the lobby, otherwise the opposing team will be allowed to claim a win by default. 
 2. Both captains will `!roll`. The lowest roll will ban first, while the highest roll will ban second and pick first. 

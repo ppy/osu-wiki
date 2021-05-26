@@ -543,31 +543,31 @@ When linking to a user profile, the user's id number must be used. Use the new w
 
 The link text of the user link should be the user's current name.
 
-##### Beatmaps
+##### Difficulties
 
-Whenever linking to a beatmap, use this format as the link text:
+Whenever linking to a single difficulty, use this format as the link text:
 
 ```
 {artist} - {title} ({creator}) [{difficuty_name}]
 ```
 
-The link to a beatmap must actually link to that difficulty. Beatmap difficulty URLs must be formatted as follows:
+The link must actually link to that difficulty. Beatmap difficulty URLs must be formatted as follows:
 
 ```
-https://osu.ppy.sh/beatmapsets/{BeatmapsetID}#{mode}/{BeatmapID}
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{mode}/{BeatmapID}
 ```
 
 The difficulty name may be left outside of the link text, but doing so must be consistent throughout the entire article.
 
-##### Beatmapsets
+##### Beatmaps
 
-Whenever linking to a beatmapset, use this format as the link text:
+Whenever linking to a beatmap, use this format as the link text:
 
 ```
 {artist} - {title} ({creator})
 ```
 
-All beatmapset URLs must be formatted as follows:
+All beatmap URLs must be formatted as follows:
 
 ```
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}

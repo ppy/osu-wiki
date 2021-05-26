@@ -7,4 +7,4 @@
   - ![](/wiki/shared/diff/normal-m.png) NM в osu!mania.
   - ![](/wiki/shared/diff/normal-o.png) Normal в osu!.
   - ![](/wiki/shared/diff/normal-t.png) Muzukashii в osu!taiko.
-  - ![](/wiki/shared/diff/normal-c.png) Platter в osu!catch.
+  - ![](/wiki/shared/diff/normal-c.png) Salad в osu!catch.

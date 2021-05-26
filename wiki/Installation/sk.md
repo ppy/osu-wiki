@@ -25,9 +25,9 @@ Táto stránka ti povie ako nainštalovať osu! na tvoje Windows zariadenie. [os
    - Pokiaľ už máš účet, prihlás sa.
    - Pokiaľ sa potrebuješ zaregistrovať, pozri si [Registráciu](/wiki/Registration), a potom sa prihlás.
 
-## Pridávanie beatmapsetov
+## Pridávanie beatmapov
 
-*Pozri tiež: [Beatmapy](/wiki/Beatmap) a [Beatmapsety](/wiki/Glossary#beatmapset)*
+*Pozri tiež: [Beatmapy](/wiki/Beatmap)*
 
 Sú dva spôsoby ako pridať beatmapy, pomocou stránky alebo osu!direct (na osu!direct potrebuješ byť [osu!supporter](/wiki/osu!supporter)).
 
@@ -35,8 +35,8 @@ Sú dva spôsoby ako pridať beatmapy, pomocou stránky alebo osu!direct (na osu
 
 1. Choď na [stránku "výpis beatmáp"](https://osu.ppy.sh/beatmapsets) a prihlás sa do stránky.
 2. Nájdi si pieseň, ktorú chceš hrať.
-3. Klikni na tlačidlo stiahnuť a ulož si beatmapset do tvojho PC.
-4. Nájdi a otvor beatmapset súbor, má `.osz` príponu.
+3. Klikni na tlačidlo stiahnuť a ulož si beatmap do tvojho PC.
+4. Nájdi a otvor beatmap súbor, má `.osz` príponu.
    - Môžeš tiež presunúť tieto súbory do priečinku `Songs` v priečinku, kde si nainštaloval osu!.
 5. osu! sa automaticky o všetko postará a načíta beatmapy
    - Pokiaľ tvoje beatmapy nevidíš, stlač `F5` v [Solo móde](/wiki/Interface#song-selection-screen) pre re-procesovanie tvojich beatmáp.
@@ -47,14 +47,14 @@ Sú dva spôsoby ako pridať beatmapy, pomocou stránky alebo osu!direct (na osu
 
 1. Otvor osu!, pokiaľ ho už nemáš otvorené.
 2. Nájdi si pieseň, ktorú chceš hrať.
-3. Dvojklikni na beatmapset v liste alebo klikni `Download` napravo aby si stiahol beatmapset.
+3. Dvojklikni na beatmap v liste alebo klikni `Download` napravo aby si stiahol beatmap.
    - Pokiaľ chceš stiahnuť beatmapu bez videa klikni na `DL NoVideo`.
-4. Keď osu! dokončí sťahovanie beatmapsetu, automaticky ho načíta v Solo móde na obrazovke [Zvolenia piesne](/wiki/Interface#song-selection-screen).
+4. Keď osu! dokončí sťahovanie beatmapu, automaticky ho načíta v Solo móde na obrazovke [Zvolenia piesne](/wiki/Interface#song-selection-screen).
    - Pokiaľ tvoje beatmapy nevidíš, stlač `F5` v [Solo móde](/wiki/Interface#song-selection-screen) pre re-procesovanie tvojich beatmáp.
 
 ## Pridávanie skinov
 
-*Pozri tiež: [Skiny](/wiki/Glossary#skin) a [Skinovanie](/wiki/Skinning)*
+*Pozri tiež: [Skiny](/wiki/Skin) a [Skinovanie](/wiki/Skinning)*
 
 1. Choď na [skinovacie sub-fórum](https://osu.ppy.sh/community/forums/15) a nájdi si skin, ktorý sa ti páči.
 2. Keď nájdeš skin, stiahni ho.

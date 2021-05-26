@@ -16,11 +16,11 @@ De maker van een beatmap kan zijn of haar inzendingen markeren als `Work in Prog
 
 Nieuwe beatmappers hebben vaak uitgebreide mods nodig om beatmaps te kunnen maken die voldoen aan de kwaliteitsnormen van de Ranked-categorie, soms moeten ze hierdoor zelfs hun hele beatmap opnieuw maken.
 
-Beatmapsets moeten vooraleer ze genomineerd kunnen worden eerst [hype](/wiki/Glossary#hype)-posts krijgen van minstens vijf verschillende gebruikers.
+Beatmaps moeten vooraleer ze genomineerd kunnen worden eerst [hype](/wiki/Beatmap/Hype)-posts krijgen van minstens vijf verschillende gebruikers.
 
 ## Nominaties
 
-Leden van de [Beatmapnominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) zijn ervaren modders die beatmaps kunnen nomineren om Ranked te worden. Hun taak is om ervoor te zorgen dat een beatmapset voldoet aan de [Rankingcriteria](/wiki/Ranking_Criteria) en aan hun persoonlijke kwaliteitsnormen.
+Leden van de [Beatmapnominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) zijn ervaren modders die beatmaps kunnen nomineren om Ranked te worden. Hun taak is om ervoor te zorgen dat een beatmap voldoet aan de [Rankingcriteria](/wiki/Ranking_Criteria) en aan hun persoonlijke kwaliteitsnormen.
 
 Leden van het [Nominatieafwegingsteam](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) mogen ook beatmaps nomineren, maar dit is niet hun belangrijkste taak.
 
@@ -34,17 +34,17 @@ Deze beatmapcategorie bestaat om beatmaps een grotere belangstelling te geven aa
 
 ### Verplaatsing naar Ranked
 
-Gekwalificeerde beatmapsets worden in een wachtrij geplaatst om ze Ranked te laten worden. 8 beatmapsets van elke spelmodus kunnen verdergaan van Gekwalificeerd naar Ranked, zolang ze minstens 7 dagen in de wachtrij hebben gestaan. Hierdoor blijven sommige beatmapsets iets langer dan 7 dagen Gekwalificeerd.
+Gekwalificeerde beatmaps worden in een wachtrij geplaatst om ze Ranked te laten worden. 8 beatmaps van elke spelmodus kunnen verdergaan van Gekwalificeerd naar Ranked, zolang ze minstens 7 dagen in de wachtrij hebben gestaan. Hierdoor blijven sommige beatmaps iets langer dan 7 dagen Gekwalificeerd.
 
-Als een beatmap gediskwalificeerd wordt, wordt de positie van die beatmap in de wachtrij opgeslagen. Bij herkwalificatie wordt de beatmap weer in die positie in de wachtrij geplaatst. Als een beatmapset bijvoorbeeld gekwalificeerd is voor 2 dagen, dan gediskwalificeerd en opnieuw geherkwalificeerd zal ze nog voor ongeveer 5 dagen in de wachtrij staan. Als de opgeslagen wachtrijpositie minder dan 24 uur verwijderd is van Ranked zal ze gereset worden naar 24 uur wanneer ze terug Gekwalificeerd wordt.
+Als een beatmap gediskwalificeerd wordt, wordt de positie van die beatmap in de wachtrij opgeslagen. Bij herkwalificatie wordt de beatmap weer in die positie in de wachtrij geplaatst. Als een beatmap bijvoorbeeld gekwalificeerd is voor 2 dagen, dan gediskwalificeerd en opnieuw geherkwalificeerd zal ze nog voor ongeveer 5 dagen in de wachtrij staan. Als de opgeslagen wachtrijpositie minder dan 24 uur verwijderd is van Ranked zal ze gereset worden naar 24 uur wanneer ze terug Gekwalificeerd wordt.
 
 ## Nominatieresets
 
-Nominatieresets zorgen ervoor dat modders, BNs en NAT-leden de meest recente versie van een beatmapset controleren voordat ze  in de Ranked-wachtrij geplaatst wordt.
+Nominatieresets zorgen ervoor dat modders, BNs en NAT-leden de meest recente versie van een beatmap controleren voordat ze  in de Ranked-wachtrij geplaatst wordt.
 
-Nominaties kunnen gereset worden als de maker van een beatmapset de set updatet of als een lid van de BNs of het NAT een probleem vindt in een genomineerde beatmapset. Nominaties kunnen ook gereset worden door het [Wereldwijde Moderatieteam](/wiki/People/The_Team/Global_Moderation_Team) als de beatmap ongepaste inhoud bevat. Als een beatmapset gekwalificeeerd is wanneer de nominaties hiervan gereset worden zal de set gediskwalificeerd worden waardoor ze uit de ranked-wachtrij verwijderd wordt.
+Nominaties kunnen gereset worden als de maker van een beatmap de set updatet of als een lid van de BNs of het NAT een probleem vindt in een genomineerde beatmap. Nominaties kunnen ook gereset worden door het [Wereldwijde Moderatieteam](/wiki/People/The_Team/Global_Moderation_Team) als de beatmap ongepaste inhoud bevat. Als een beatmap gekwalificeeerd is wanneer de nominaties hiervan gereset worden zal de set gediskwalificeerd worden waardoor ze uit de ranked-wachtrij verwijderd wordt.
 
-Leden van de BNs en het NAT geven soms een [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) voor beatmapsets wanneer ze ervan overtuigd zijn dat de set kwaliteitsproblemen heeft die niet gerelateerd zijn aan de Rankingcriteria.
+Leden van de BNs en het NAT geven soms een [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) voor beatmaps wanneer ze ervan overtuigd zijn dat de set kwaliteitsproblemen heeft die niet gerelateerd zijn aan de Rankingcriteria.
 
 ## Ranked
 

@@ -10,7 +10,7 @@ Spotlights rivals assemble! As many of you might've already known, the Winter Se
 
 With the new season launch, there will be some changes regarding gameplay aspects, as well as communication related matters.
 
-We are also, as in the previous season, seeking new team members so make sure to check out the **[seeking new curators](#applications)** section if you'd be interested in helping out in **osu!catch** or **osu!taiko**!
+We are also, as in the previous season, seeking new team members so make sure to check out the **[seeking new curators](#seeking-new-curators)** section if you'd be interested in helping out in **osu!catch** or **osu!taiko**!
 
 If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies are now open for play on the osu!lazer client**. If you've got no idea how to get started with things, read on below!
 
@@ -18,11 +18,11 @@ If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies
 
 - **Freemod is now a thing.** Thanks to changes to the osu!lazer client, this season will be able to run in a freemod system, meaning you will be able to select your favourite mods instead of sticking to ones pre-selected by the osu! Spotlights Team curators!
 
-## <a id="how-to-participate"></a> How to participate in Beatmap Spotlights League?
+## How to participate in Beatmap Spotlights League?
 
 To participate in the Beatmap Spotlights League, you need to download the latest version of osu!lazer client from [GitHub releases page](https://github.com/ppy/osu/releases/latest). Once you're done installing and logging in to your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar.
 
-## <a id="applications"></a> Seeking new curators
+## Seeking new curators
 
 We are looking for members that are both willing and capable of making decent beatmap selections for upcoming Beatmap Spotlights seasons. This season we are seeking new members for **osu!catch** and **osu!taiko** teams. We've also changed the application form to make it simpler for you to apply!
 

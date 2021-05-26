@@ -68,7 +68,7 @@ Hasilnya, mod seperti [Double Time](/wiki/Game_modifier/Double_Time) dan [Half T
 
 *Akurasi* adalah sebuah pengukuran persen dari kemampuan pemain untuk mengenai [hit objek](/wiki/id/Hit_object) pada waktunya; Berhubungan dengan algoritma pp, itu juga adalah sebuah nilai inti yang digunakan untuk mengevaluasi kinerja individu pemain pada sebuah beatmap.
 
-Skor dengan jumlah akurasi yang tinggi itu dipertimbangkan oleh algoritma tersebut sebagai yang paling mengagumkan, dan juga akan memberikan skor yang sangat besar oleh karena ini. Sebuah play [full combo](/wiki/Glossary#fc) yang diraih dengan 80% akurasi kadang-kadang bisa hanya senilai 2/3 dari skor yang diraih dengan 95% akurasi. Karena algoritma ini sangat bergantung pada akurasi, mod seperti Hidden, Hard Rock dan Flashlight itu dipertimbangkan untuk meningkatkan jumlah pp tersebut dengan akuraai yang tinggi secara signifikan.
+Skor dengan jumlah akurasi yang tinggi itu dipertimbangkan oleh algoritma tersebut sebagai yang paling mengagumkan, dan juga akan memberikan skor yang sangat besar oleh karena ini. Sebuah play [full combo](/wiki/Full_combo) yang diraih dengan 80% akurasi kadang-kadang bisa hanya senilai 2/3 dari skor yang diraih dengan 95% akurasi. Karena algoritma ini sangat bergantung pada akurasi, mod seperti Hidden, Hard Rock dan Flashlight itu dipertimbangkan untuk meningkatkan jumlah pp tersebut dengan akuraai yang tinggi secara signifikan.
 
 ### Strain
 
@@ -97,7 +97,7 @@ Pertimbangkan tip-tip berikut ini:
 - Bermainlah secara efisien dan cari tahu cara bermain yang cocok bagimu.
 - Fokus dalam mendapatkan beberapa skor yang mengagumkan daripada "farming" ratusan skor yang biasa saja.
 - Berusahalah untuk meningkatkan akurasimu. Bahkan 1% saja sudah membuat perbedaan yang sangat besar.
-- Berusahalah untuk mencapai kombo yang lebih banyak. Full Combo (FC) atau skor [SS](/wiki/Glossary#grade) dapat memberikan jumlah skor yang sangat banyak.
+- Berusahalah untuk mencapai kombo yang lebih banyak. Full Combo (FC) atau skor [SS](/wiki/Grade) dapat memberikan jumlah skor yang sangat banyak.
 
 ### Kenapa saya tidak mendapatkan seluruh jumlah pp dari map yang saya telah mainkan? 
 
