@@ -121,8 +121,8 @@ Pour les utiliser :
 **Note :**
 
 - Couleur : "Effet permanent" - La couleur que vous avez définie sera toujours en vigueur même après la fin de la timeline. C'est très utile pour les images transparentes.
-- `.osb` (base de l'événement osu!beatmap) : Base "design" (BG, Video, SB) pour chaque difficulté d'une beatmap set à suivre.
-- `.osu` (osu!beatmap difficulté) : Fichier spécifique à la difficulté. Contient *beaucoup* d'informations.
+- `.osb` : Base "design" (BG, Video, SB) pour chaque difficulté d'une beatmap à suivre.
+- `.osu` : Fichier spécifique à la difficulté. Contient *beaucoup* d'informations.
 
 ### Centre (Storyboard de la beatmap)
 

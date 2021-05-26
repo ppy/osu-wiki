@@ -203,8 +203,8 @@ These are the view settings:
 
 Click the word bubble icon to call up the **Quick Web Access** screen for the selected beatmap:
 
-- Press `1` or click the `Beatmap Listing/Scores` button and your default internet browser will pull up the Beatmap Listing and score page of the beatmap set the selected beatmap belongs to.
-- Press `2` or click `Beatmap Modding` and your default internet browser will pull up the modding page of the beatmap set the selected beatmap belongs to.
+- Press `1` or click the `Beatmap Listing/Scores` button and your default internet browser will pull up the Beatmap Listing and score page of the beatmap the selected difficulty belongs to.
+- Press `2` or click `Beatmap Modding` and your default internet browser will pull up the modding page of the beatmap the selected difficulty belongs to.
 - Press `3` or `Esc` or click `Cancel` to return to the Song Selection Screen.
 
 While you are on the Quick Web Access Screen, you cannot access the Chat and Extended Chat Consoles.
