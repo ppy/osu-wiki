@@ -13,7 +13,7 @@ Pertanyaan tes diambil dari banyak pertanyaan yang diurutkan berdasarkan kategor
 - [Peraturan Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Rules): 5 pertanyaan
 - [Kode Etik Mapping dan Modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): 1 pertanyaan
 - [Kriteria Ranking Secara Umum](/wiki/Ranking_Criteria#general): 1 pertanyaan
-- [Kriteria Ranking Tentang Spread](/wiki/Ranking_Criteria#beatmapset): 1 pertanyaan
+- [Kriteria Ranking Tentang Spread](/wiki/Ranking_Criteria#beatmap): 1 pertanyaan
 - [Kriteria Ranking Tentang Metadata](/wiki/Ranking_Criteria#metadata): 1 pertanyaan
 - [Kriteria Ranking Tentang Timing](/wiki/Ranking_Criteria#timing): 1 pertanyaan
 - [Kriteria Ranking Tentang Audio](/wiki/Ranking_Criteria#audio): 1 pertanyaan
