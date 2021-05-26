@@ -2381,7 +2381,7 @@ Notes:
 Notes:
 
 - This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!](/wiki/Game_mode/osu!) for this to see.
+- Select [osu!](/wiki/Game_mode/osu!) to see.
 
 ---
 
@@ -2396,7 +2396,7 @@ Notes:
 Notes:
 
 - This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!taiko](/wiki/Game_mode/osu!taiko) for this to see.
+- Select [osu!taiko](/wiki/Game_mode/osu!taiko) to see.
 
 ---
 
@@ -2411,7 +2411,7 @@ Notes:
 Notes:
 
 - This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!catch](/wiki/Game_mode/osu!catch) for this to see.
+- Select [osu!catch](/wiki/Game_mode/osu!catch) to see.
 
 ---
 
@@ -2426,7 +2426,7 @@ Notes:
 Notes:
 
 - This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!mania](/wiki/Game_mode/osu!mania) for this to see.
+- Select [osu!mania](/wiki/Game_mode/osu!mania) to see.
 
 ---
 
@@ -2501,7 +2501,7 @@ Notes:
 Notes:
 
 - This element is on top of the `selection-mode.png` element.
-- Select [osu!](/wiki/Game_mode/osu!) for this to see.
+- Select [osu!](/wiki/Game_mode/osu!) to see.
 - If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
 
 ---
@@ -2517,7 +2517,7 @@ Notes:
 Notes:
 
 - This element is on top of the `selection-mode.png` element.
-- Select [osu!taiko](/wiki/Game_mode/osu!taiko) for this to see.
+- Select [osu!taiko](/wiki/Game_mode/osu!taiko) to see.
 - If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
 
 ---
@@ -2533,7 +2533,7 @@ Notes:
 Notes:
 
 - This element is on top of the `selection-mode.png` element.
-- Select [osu!catch](/wiki/Game_mode/osu!catch) for this to see.
+- Select [osu!catch](/wiki/Game_mode/osu!catch) to see.
 - If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
 
 ---
@@ -2549,7 +2549,7 @@ Notes:
 Notes:
 
 - This element is on top of the `selection-mode.png` element.
-- Select [osu!mania](/wiki/Game_mode/osu!mania) for this to see.
+- Select [osu!mania](/wiki/Game_mode/osu!mania) to see.
 - If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
 
 [true]: /wiki/shared/true.png
