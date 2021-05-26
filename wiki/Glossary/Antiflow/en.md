@@ -1,0 +1,7 @@
+---
+stub: true
+---
+
+# Antiflow
+
+*Antiflow* is the term used in [osu!catch](/wiki/Game_mode/osu!catch) for a strong direction or velocity change that goes against a player's natural movement pattern.
