@@ -135,7 +135,7 @@ The jump from 1/1 to 1/4 is pretty high in several places, which is not acceptab
 
 This can be pointed out as a problem in the `General (This difficulty)` tab on the beatmap discussion page. First of all, state the problem (difficulty increase between Easy and Normal is too sharp), then give the mapper several examples in the beatmap by posting the timestamps, explaining that the spread is not acceptable. Finally, give the mapper a solution. Either by reducing or increasing one of the difficulties, or creating another difficulty altogether if the spread is too large.
 
-Do this with every difficulty in the beatmap set, taking also the ranking criteria into account.
+Do this with every difficulty of the beatmap, taking also the ranking criteria into account.
 
 **Note**: Should the beatmap have a length of over 5 minutes and still have several difficulties mapped, it does not have to follow any spread rules. This is also stated in the general Ranking Criteria.
 

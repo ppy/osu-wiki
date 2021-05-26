@@ -83,8 +83,8 @@ Quelques types de données sont spécifiques à osu!.db, les voici:
 | Int | Time total, en milliseconds |
 | Int | Le moment de l'extrait audio lorsque l'on survole une beatmap dans l'écran de sélection des musiques, en millisecondes. |
 | Timing point+ | Un Int indiquant le nombre de Timing points suivants, puis les Timing points indiqués. |
+| Int | Difficulté ID |
 | Int | Beatmap ID |
-| Int | Beatmap set ID |
 | Int | Thread ID |
 | Byte | Grade gagné en osu!. |
 | Byte | Grade gagné en osu!taiko. |
