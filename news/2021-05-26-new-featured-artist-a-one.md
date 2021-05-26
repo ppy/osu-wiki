@@ -25,7 +25,7 @@ Don't feel too bad if you don't actually recognize **A-One**'s name. Throughout 
 Check out [this beatmap](https://osu.ppy.sh/beatmapsets/91606) by [Frostmourne](https://osu.ppy.sh/users/199669)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/168/TOHO%20EUROBEAT%20VOL.%203%20THE%20EMBODIMENT%20OF%20SCARLET%20DEVIL%2FA-One%20feat.%20Shihori%20-%20DAY%20BREAKER.mp3" type="audio/mpeg">
 </audio>
 
 ### A-One feat. Aki - Wanna Be My Dream
@@ -33,7 +33,7 @@ Check out [this beatmap](https://osu.ppy.sh/beatmapsets/91606) by [Frostmourne](
 Or check out [this beatmap](https://osu.ppy.sh/beatmapsets/128432) by [Lortus](https://osu.ppy.sh/users/1008962)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/168/TOHO%20EUROBEAT%20presents%20THE%20REVIVAL%20MIX%2FA-One%20feat.%20Aki%20-%20Wanna%20Be%20My%20Dream.mp3" type="audio/mpeg">
 </audio>
 
 ### A-One feat. Shihori - Bamboo Dance
@@ -41,7 +41,7 @@ Or check out [this beatmap](https://osu.ppy.sh/beatmapsets/128432) by [Lortus](h
 Maybe check out [this beatmap](https://osu.ppy.sh/beatmapsets/39056) yet again by [Frostmourne](https://osu.ppy.sh/users/199669). We think he might be an **A-One** fan.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/168/TOHO%20EUROBEAT%20VOL.%202%2FA-One%20feat.%20Shihori%20-%20Bamboo%20Dance.mp3" type="audio/mpeg">
 </audio>
 
 ### A-One feat. ayaponzu\* - Justice Monster
@@ -49,7 +49,7 @@ Maybe check out [this beatmap](https://osu.ppy.sh/beatmapsets/39056) yet again b
 If these are too easy for you, try out [this loved map](https://osu.ppy.sh/beatmapsets/1026767) by [Settia](https://osu.ppy.sh/users/2445897)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/168/TOHO%20EUROBEAT%20VOL.%2017%20FLOWER%20VIEWING%20MOUND%2FA-One%20feat.%20ayaponzu%20-%20Justice%20Monster.mp3" type="audio/mpeg">
 </audio>
 
 ### A-One feat. Shihori - Bloody Night
@@ -57,7 +57,7 @@ If these are too easy for you, try out [this loved map](https://osu.ppy.sh/beatm
 Play [this beatmap](https://osu.ppy.sh/beatmapsets/46223) by none other than [Frostmourne](https://osu.ppy.sh/users/199669). He definitely likes **A-One**.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/168/TOHO%20EUROBEAT%20VOL.%204%20PERFECT%20CHERRY%20BLOSSOM%2FA-One%20feat.%20Shihori%20-%20Bloody%20Night.mp3" type="audio/mpeg">
 </audio>
 
 ### A-One feat. Rute - Spider's Blood
@@ -65,7 +65,7 @@ Play [this beatmap](https://osu.ppy.sh/beatmapsets/46223) by none other than [Fr
 If that's enough circle clicking for you, try out [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/832564) hosted by [eiri-](https://osu.ppy.sh/users/3388410).
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/168/TOHO%20EUROBEAT%20VOL.%208%20SUBTERRANEAN%20ANIMISM%2FA-One%20feat.%20Rute%20-%20Spider%27s%20Blood.mp3" type="audio/mpeg">
 </audio>
 
 ---
