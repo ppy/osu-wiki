@@ -12,12 +12,12 @@ If you're new here: Project Loved runs monthly polls to decide which unranked ma
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207)! This round, all osu!standard beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
@@ -86,7 +86,7 @@ There seems to be this sort of formula: a catchy song plus flowy, spaced jumps e
 
 Nothing screams "classic" like *Toto - Africa*, and thankfully, this mapset by Kyshiro does the song so much justice with its high quality all around. As a breath of fresh air for the Loved category, this mapset features three maps that are all low in star rating, all being below three stars. In all three difficulties, the mapping can be characterized by the uniquely shaped sliders, but they're surprisingly satisfying to play despite not being super difficult. Overall, this is one of those maps that you almost feel obligated to add to your collections. Definitely check this one out.
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [D3kuu](https://osu.ppy.sh/users/7807444), [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [Raphalge](https://osu.ppy.sh/users/3918650)!
 
@@ -133,7 +133,7 @@ Finally, finally, the time has come. It's time for an awakening! The beatmap is,
 
 ついに、ついにその時がやってきてしまいました。今こそ、覚醒の時です。この譜面は、その名の通り...とある違法的な薬物のように狂っている難易度（曲も例外ではないですが）のマップセットです。それでもLoved Projectにこのようにしてノミネートされるということは...。そう、この譜面は、愛されています。昔からトッププレイヤーにとっての目標であり、クリアした時の達成感はそれこそ、刺激的なものだったでしょう。もちろん、そもそもこの譜面を出来る人が存在するのか？と、昔だったら議論になったことでしょう。ですが、時代はこの譜面に追いつきつつあります。そして、あなたが時代を築く第一人者となることを期待しています！
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Spectator](https://osu.ppy.sh/users/702598), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -183,7 +183,7 @@ Many players have enjoyed the map for a long time in multi and solo, and now it'
 
 This time, my pick is a great map from underrated old mapper Equim. ginkiha is a well-known artist in osu!catch community, and the song *Starlight Express* is also one of his most famous tracks. This map is clean and fun to play, and requires a bit of technical movements for catching the patterns. The map may not be hard as hell by 2020 standards, but it is still an interesting map to enjoy. Welcome aboard *Starlight Express*, and have fun with the fruit journey!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Abraxos](https://osu.ppy.sh/users/5025064), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

@@ -54,6 +54,7 @@ Gagnants de la [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) avec le titre utilis
 La plupart des compétitions de mapping officielles offre le titre **Elite Mapper** en tant que premier prix.
 
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
+- ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309)
 - ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)
 - ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
 - ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106)
@@ -139,6 +140,7 @@ Les [Artistes associés](/wiki/Featured_Artists) ayant des comptes osu! reçoive
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) |
 | ![][flag_JP] [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
+| ![][flag_RO] [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ![][flag_MY] [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
@@ -234,6 +236,7 @@ Ces joueurs ont gagnés leurs titres à travers des prouesses exceptionnelles, o
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
 | ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366) | Elite Storyboarder |
 | ![][flag_US] [11t](https://osu.ppy.sh/users/2112092) | Elite Storyboarder |
+| ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | Elite Mapper |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) | Elite Nominator |
 | ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010) | osu! Champion |
 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | osu!mania Champion |
@@ -281,6 +284,7 @@ Ces joueurs ont gagnés leurs titres à travers des prouesses exceptionnelles, o
 | ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603) | osu! Champion |
 | ![][flag_JP] [kanki2](https://osu.ppy.sh/users/9595391) | Featured Artist |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | Featured Artist |
+| ![][flag_RO] [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | Featured Artist |
 | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
@@ -381,6 +385,7 @@ Ces joueurs ont gagnés leurs titres à travers des prouesses exceptionnelles, o
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_RO]: /wiki/shared/flag/RO.gif "Roumanie"
 [flag_RU]: /wiki/shared/flag/RU.gif "Fédération Russe"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"

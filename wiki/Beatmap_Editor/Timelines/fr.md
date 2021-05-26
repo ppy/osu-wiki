@@ -1,138 +1,123 @@
----
-no_native_review: true
----
-# Timelines
+# Timeline de l'éditeur de beatmap
 
-Dans le [beatmap editor](/wiki/Beatmap_Editor), il y a trois différentes chronologies qu'un cartographe peut rencontrer.
-Cet article explique comment chacune d'entre elles fonctionne.
+Dans l'[éditeur de beatmap](/wiki/Beatmap_Editor), il existe trois timelines différentes qu'un mappeur peut rencontrer. Cet article explique le fonctionnement de chacune d'entre elles.
 
 ## Raccourcis
 
-*Pour une liste des raccourcis clavier pour la timeline, voir :[Shortcut key r  reference](/wiki/Shortcut_key_reference)*
+*Pour une liste de raccourcis clavier pour la timeline, voir : [Référence des raccourcis clavier](/wiki/Shortcut_key_reference)*
 
-## Lecteur de chansons
+## Lecteur de morceaux
 
-![Song's Timeline](/wiki/shared/BE_STL.jpg "Song's Timeline")
+![Timeline de la chanson](/wiki/shared/BE_STL.jpg "Timeline de la chanson")
 
-Le lecteur de chansons est visible dans n'importe quelle partie de l'éditeur de beatmap.
+Le lecteur de morceaux est visible dans n'importe quelle partie de l'éditeur de beatmap.
 
-Sur la gauche, il y a l'horodatage en millisecondes et le pourcentage de la durée de la chanson.
-Le pourcentage peut afficher `intro` ou `outro` s'il y a un storyboard avant ou après la chanson.
+A gauche, il y a l'horodatage en millisecondes et le pourcentage de la durée du morceau. Le pourcentage peut afficher `intro` ou `outro` s'il y a du storyboarding avant ou après la chanson.
 
-Au centre, il montre la ligne de temps avec les marquages et les boutons obligatoires du lecteur de musique.
-Le bouton `Test` va enregistrer votre beatmap puis va commencer à le tester en lecture à partir de l'horodatage actuel.
+Au centre, il montre la timeline avec les signets et les boutons obligatoires du lecteur de morceaux. Le bouton `Test` sauvegardera votre beatmap puis commencera à la tester à partir du timestamp actuel.
 
-La ligne de temps elle-même utilise quelques coches qui ont des significations différentes.
+La timeline elle-même utilise quelques coches qui ont diverses significations.
 
 | Couleur | Description |
 | :-- | :-- |
 | Blanc (long) | Horodatage actuel |
-| Jaune (coche longue) | Point de prévisualisation |
-| Jaune (tic-tac) | Début du temps de vidange |
-| Vert (up tick) | Points hérités (Voir [Timing](/wiki/Timing)) |
-| Rouge (up tick) | Points de chronométrage (Voir [Timing](/wiki/Timing)) |
-| Bleu (coche en bas) | Signets |
-| Gris (surligné) | Pause |
-| Orange (en surbrillance) | Heure du Kiai |
+| Jaune (tick long) | Point d'aperçu |
+| Jaune (tick haut) | Début du temps de drain |
+| Vert (tick haut) | Points hérités (Voir [Timing](/wiki/Timing)) |
+| Rouge (tick haut) | Points de timing (Voir [Timing](/wiki/Timing)) |
+| Bleu (tick bas) | Signets |
+| Gris (en surbrillance) | Temps de pause |
+| Orange (en surbrillance) | Kiai time |
 
-Sur la droite, vous pouvez régler le taux de lecture de `100%`, à `75%`, `50%`, ou `25%`.
+Sur la droite, vous pouvez régler la vitesse de lecture de `100 %` à `75 %`, `50 %` ou `25 %`.
 
-## Objets Touchés
+## Objets
 
-Il existe deux types différents de lignes de temps pour les objets touchés, selon le mode de jeu utilisé par le mapper.
+Il existe deux types différents de timeline des objets, selon le mode de jeu utilisé par le mappeur.
 
 ### osu!, osu!taiko, et osu!catch
 
-![Hit Objects Timeline in osu!, osu!taiko, and osu!catch](/wiki/shared/BE_NTL.jpg "Ceci montre la chronologie des objets frappés par rapport au diviseur de battement et à l'horodatage.")
+![La timeline des objets dans les modes osu!, osu!taiko, et osu!catch](/wiki/shared/BE_NTL.jpg "Cela montre la timeline des objets par rapport au diviseur de mesures et à l'horodatage du beat snap.")
 
-Dans le mode [compose](/wiki/Compose), cette timeline se trouve sous l'onglet "Composer" pour tous les modes de jeu sauf pour [osu!mania](/wiki/Game_mode/osu!mania).
+En mode [compose](/wiki/Compose), cette timeline se trouve sous l'onglet `Compose` pour tous les modes de jeu, sauf pour [osu!mania](/wiki/Game_mode/osu!mania).
 
 | Nom | Description |
 | :-- | :-- |
-| Boutons `+`/`-` | Augmenter/Diminuer le zoom de la timeline. |
-| Double lignes verticales blanches | Ceci montre l'horodatage actuel par rapport à la timeline de l'objet touché. |
+| Boutons `+`/`-` | Augmente/diminue le zoom de la timeline. |
+| Double lignes verticales blanches | Cela montre l'horodatage actuel par rapport à la timeline des objets. |
 
-Un clic gauche sur un objet sélectionné le sélectionnera et un glisser-déposer déplacera l'objet sélectionné sur la timeline.
+Un clic gauche sur un objet le sélectionne et un glissement déplace l'objet sélectionné sur la timeline.
 
 Un clic droit permet de supprimer les objets sélectionnés.
 
 ### osu!mania
 
-![osu!mania playfield](/wiki/shared/BEM_PF.jpg "terrain de jeu osu!mania")
+![Terrain de jeu du mode osu!mania](/wiki/shared/BEM_PF.jpg "Terrain de jeu du mode osu!mania")
 
-En mode composition, cette ligne de temps se trouve au centre du terrain de jeu pour le mode osu!mania.
+En mode compose, cette timeline se trouve au centre du terrain de jeu pour le mode osu!mania.
 
-La boîte de gauche est un diagramme à barres horizontales qui affiche l'intensité de la note.
-Cela agit comme une ligne de temps.
+La case de gauche est un graphique à barres horizontales qui affiche l'intensité de la note. Cela agit comme une timeline.
 
-Au centre se trouve le terrain de jeu proprement dit.
-Le terrain de jeu est composé de deux parties : les lignes et les notes.
+Au centre se trouve le terrain de jeu proprement dit. Le terrain de jeu est composé de deux parties : les lignes et les notes.
 
 | Couleur de la ligne | Description |
 | :-- | :-- |
 | Blanc épais | Mesure complète |
 | Blanc | Temps commun |
-| Vert | Ligne d'horodatage / de jugement en cours |
+| Vert | Horodatage actuel/Ligne de jugement |
 
-| Note Couleur | Description |
+| Couleur de la note | Description |
 | :-- | :-- |
 | Bleu | Note(s) sélectionnée(s) |
 | Blanc/Rose/Jaune | Couleurs de notes non sélectionnées |
 
 ## Design
 
-![Storyboard Timeline](/wiki/shared/SE_STM.jpg "Ceci montre la chronologie des transformations du sprite sélectionné.")
+![Timeline du storyboard](/wiki/shared/SE_STM.jpg "Cela montre la timeline pour les transformations du sprite sélectionné.")
 
-La timeline [design](/wiki/Design) est située sous l'onglet "Design".
+La timeline [design](/wiki/Design) est située sous l'onglet `Design`.
 
 ### Timeline
 
 | Nom | Description |
 | :-- | :-- |
-| Boutons `+`/`-` à gauche | Augmenter/Diminuer le zoom de la timeline. |
-| Flèches `Haut`/`Bas` en bas à gauche | Faites défiler la timeline de transformation vers le haut ou vers le bas (ceci pour révéler la `Couleur` ou le `Mouvement` sur la timeline). |
+| Boutons `+`/`-` à gauche | Augmente/diminue le zoom de la timeline. |
+| Flèches `Haut`/`Bas` en bas à gauche | Fait défiler vers le haut/bas la timeline de transformation (ceci pour révéler `Colour` ou `Movement` sur la timeline). |
 
-Le centre de la timeline de conception montre les "images clés" du sprite sélectionné.
+Le centre de la timeline de design montre les "keyframes" du sprite sélectionné.
 
-### Contrôle de l'image clé
+### Contrôle des keyframes
 
-Le contrôle de l'image clé ajoute ou supprime des points d'ancrage.
-Ces points d'ancrage définissent les heures de début et de fin pour la façon dont un sprite doit être scénarisé.
+Le contrôle des keyframes ajoute ou supprime des points d'ancrage. Ces points d'ancrage définissent les heures de début et de fin pour la façon dont un sprite doit être storyboardé.
 
 | Nom | Description |
 | :-- | :-- |
-| `+`/`-` | Ajout/Suppression de points d'ancrage pour la transformation sélectionnée. |
-| Flèches `Left`/`Right` | Sauter en arrière/en avant jusqu'au point d'ancrage le plus proche de la transformation sélectionnée. |
+| `+`/`-` | Ajoute/supprime des points d'ancrage pour la transformation sélectionnée. |
+| Flèches `Gauche`/`Droite` | Saute en arrière/en avant vers le point d'ancrage le plus proche de la transformation sélectionnée. |
 
-S'il y a une transformation, cette transformation est éclairée par sa couleur.
-En plus de cela, elle aura deux demi-lignes séparées qui déterminent la durée.
-La ligne blanche complète détermine les points de commutation de la transformation (par exemple de "monter" à "descendre").
+S'il y a une transformation, celle-ci est éclairée par sa couleur. De plus, elle aura deux demi-lignes séparées qui déterminent sa durée. La ligne blanche complète détermine les points de commutation de la transformation (par exemple, de "monter" à "descendre").
 
 ## Timing
 
-![Timing Timeline](img/TT.jpg "Timing Timeline")
+![Timeline du Timing](img/TT-FR.png "Timeline du Timing")
 
-La ligne de temps est située sous l'onglet [`Timing`](/wiki/Timing).
+La timeline du [timing](/wiki/Timing) est située sous l'onglet `Timing`.
 
-### Timing Timeline
+### Timeline du Timing
 
 | Nom | Description |
 | :-- | :-- |
-| Boutons `+`/`-` à gauche | Augmenter/Diminuer le zoom de la timeline. |
+| Boutons `+`/`-` à gauche | Augmente/diminue le zoom de la timeline |
 
-Au centre se trouve la ligne de temps elle-même.
-Elle utilise des drapeaux blancs et bleus pour décrire le type de point de chronométrage qu'ils sont ; décrits dans la section [flag colours](#flag-colours).
+Au centre se trouve la timeline elle-même. Elle utilise des drapeaux blancs et bleus pour décrire le type de point temporel qu'ils représentent, comme décrit dans la section [couleurs des drapeaux](#couleurs-des-drapeaux).
 
-Sur la droite, il montre le script de signature temporelle (appelé "compteur") et le jeu de métronome.
-Dans l'image ci-dessus, le compteur est à `4:2`.
-Cela signifie que l'horodatage actuel est au deuxième temps de la quatrième mesure de la chanson.
+Sur la droite, elle montre l'écriture de la signature temporelle (connue sous le nom de "mètre") et le réglage du métronome. Dans l'image ci-dessus, le compteur est à `4:2`. Cela signifie que la signature temporelle actuelle se trouve au deuxième temps de la quatrième mesure de la chanson.
 
-Le jeu de métronome joue un son de tic-tac constant au BPM donné.
-Ceci sert également d'aide pour estimer la valeur du BPM du morceau.
+Le jeu de métronome joue un tic-tac constant au BPM donné. Il sert également d'aide pour estimer la valeur du BPM de la chanson.
 
-### Flag Colours
+### Couleurs des drapeaux
 
 | Couleur | Description |
 | :-- | :-- |
-| Blanc | Points de chronométrage. Utilisez la nouvelle valeur de BPM. (Rouge sur la ligne de temps de la chanson) |
-| Bleu | Points hérités. Réglage de la vitesse du curseur en fonction du BPM des points de chronométrage. (Vert sur la ligne de temps de la chanson) |
+| Blanc | Points de timing. Utilisez la nouvelle valeur de BPM. (Rouge sur la timeline du morceau) |
+| Bleu | Points hérités. Ajusteur de vitesse du sliderbasé sur le BPM des points de timing. (Vert sur la timeline du morceau) |

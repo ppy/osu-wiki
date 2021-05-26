@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 如何找 mod
 
 在你的谱面最终 [ranked](/wiki/Beatmap/Category#ranked) 之前，找 [mod](/wiki/Modding) 是必经之路。当然，如何找 mod，也有不少方式。
@@ -6,7 +10,7 @@
 
 **\#modreqs** 是一个在 osu! 中为找 mod 而设置的一个频道。只需要简单的输入 /np，然后坐和放宽即可。说不定会有 modder 甚至是 BN 过来 mod 你的图。（但 mod 与否取决于对方。）
 
-[Bancho](/wiki/Glossary) 会截取在该频道中最后发布的 20 个谱面，以便 modder 找图进行 mod：
+[Bancho](/wiki/BanchoBot) 会截取在该频道中最后发布的 20 个谱面，以便 modder 找图进行 mod：
 
 - 输入 `!request` 命令，BanchoBot 会随机发一个谱面链接给你。
 - 输入 `!request list` 命令，BanchoBot 会发给你最后5个发布的图，并附上链接。
@@ -26,9 +30,9 @@
 
 ## 直接找目标 modder
 
-直接找 modder 也是一个找 mod 的方法。如果你发现某个玩家没开 queue 但有不少的 [kudosu](/wiki/Glossary)（modder 的 kudosu 数量肯定不为零），你也不妨找一下这个玩家（论坛或游戏甚至是 QQ 直接私聊），只要不是很忙，基本上都会接的。当然，用这方法找泡甚至是找 rank 都行。以下是一些技巧：
+直接找 modder 也是一个找 mod 的方法。如果你发现某个玩家没开 queue 但有不少的 [kudosu](/wiki/Modding/Kudosu)（modder 的 kudosu 数量肯定不为零），你也不妨找一下这个玩家（论坛或游戏甚至是 QQ 直接私聊），只要不是很忙，基本上都会接的。当然，用这方法找泡甚至是找 rank 都行。以下是一些技巧：
 
-- 如果在签名或者 [User page](/wiki/Glossary) 已经**明确说明自己不接 mod**，那就不要劳烦他人了，不然可能会拉黑。
+- 如果在签名或者 User page 已经**明确说明自己不接 mod**，那就不要劳烦他人了，不然可能会拉黑。
 - 避免开门见山，不要遇到其他玩家第一句话就是求 mod。尽可能随便聊一下，然后慢慢再达到你求 mod 的目的，这样效果会好很多。
 - 别人接了你的 mod 请求，就不要去催 mod 了。说不定别人压根就不喜欢这个谱面甚至是你个人，本来可以强行撑过去的被你这样一催，哪还有心情 mod 你的图？
 

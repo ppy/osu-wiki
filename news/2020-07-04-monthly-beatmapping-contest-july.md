@@ -19,7 +19,7 @@ Not sure how the Monthly Beatmapping Contest (*MBC*) works? Be sure to read thro
 
 ## Beatmapping
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 Each MBC features a different way to keep entries fresh. For example, last month's contest forbid sliders 1/2 of a beat long.
 
@@ -33,7 +33,7 @@ CS below 2 and above 7 can't be set in the song setup menu, so you'll need to ch
 
 Make sure you're careful — changing anything in song setup will reset your CS to 2!
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each MBC provides beatmappers a choice between 5 songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 

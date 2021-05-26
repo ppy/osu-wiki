@@ -4,7 +4,7 @@
 
 ![Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)](img/ComposeMania.jpg "Compose for osu!mania using osu!screenshot (only the external upper menu is not shown)")
 
-**Compose** is the place where a [mapper](/wiki/Glossary) spent most of the time mapping out his/her design with respect to timeline after setting the BPM and Timing Sections. This is also the place where players can practice a ranked difficulty and inspect its design akin to DDR's Training mode.
+**Compose** is the place where a [mapper](/wiki/Beatmapping) spent most of the time mapping out his/her design with respect to timeline after setting the BPM and Timing Sections. This is also the place where players can practice a ranked difficulty and inspect its design akin to DDR's Training mode.
 
 Due to different needs in mapping style (osu! is very flexible, allowing much room for creativity while osu!mania is restrained to selected key, demanding extreme precision to evoke the keysounds harmonically), osu!'s editor and osu!mania-only's editor are given their own features section. You can easily access osu!mania editor by setting your difficulty to osu!mania-only.
 

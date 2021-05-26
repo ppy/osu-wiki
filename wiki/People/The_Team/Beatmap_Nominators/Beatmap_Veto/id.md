@@ -10,8 +10,8 @@ Dalam kasus di mana diskusi tidak terjadi atau tidak meyakinkan, dan mapper atau
 
 Sebagai seorang Beatmap Nominator, kamu bisa memveto kepada sebuah beatmap melalui salah satu dari dua cara berikut:
 
-- Dalam kasus beatmapset yang dinominasi, reset nominasinya.
-- Dalam kasus beatmapset yang berada pada sesi kualifikasi, diskualifikasikan.
+- Dalam kasus beatmap yang dinominasi, reset nominasinya.
+- Dalam kasus beatmap yang berada pada sesi kualifikasi, diskualifikasikan.
 
 Dalam kedua kasus tersebut, beatmap veto harus dinyatakan seperti itu, dan harus disertai dengan penjelasan mendetail tentang mengapa kamu yakin bahwa beatmap tersebut tidak boleh dipertimbangkan untuk Kualifikasi. Diskusi yang tepat yang mencoba untuk mencapai kesepakatan bersama oleh kedua belah pihak harus diikuti.
 
@@ -21,7 +21,7 @@ Dengan asumsi masalah yang diselesaikan atau dibenarkan secara memuaskan dengan 
 
 Beatmapping itu sangat beragam dan perbedaan yang kreatif sangat diharapkan. Hal ini didorong demi menciptakan berbagai konten yang dapat dinikmati semua pemain! Namun, perbedaan seperti itu secara alami dapat menyebabkan ketidaksepakatan.
 
-Jika diskusi tidak lagi berlanjut ke arah kompromi, atau sebaliknya tidak dapat diselesaikan secara wajar, pembuat beatmap atau Beatmap Nominator pemveto dapat meminta mediasi. Jika tidak ada permintaan yang diterima, mediasi tidak akan dimulai dan mapper akan dianggap telah menyerah pada beatmapset.
+Jika diskusi tidak lagi berlanjut ke arah kompromi, atau sebaliknya tidak dapat diselesaikan secara wajar, pembuat beatmap atau Beatmap Nominator pemveto dapat meminta mediasi. Jika tidak ada permintaan yang diterima, mediasi tidak akan dimulai dan mapper akan dianggap telah menyerah pada beatmap.
 
 Selama mediasi, juri yang dipilih secara acak dari Beatmap Nominator dan anggota NAT akan memilih secara anonim apakah akan menahan atau mencabut veto. Setelah dimulai, proses ini dapat berlangsung dari satu hari hingga satu minggu tergantung pada seberapa cepat anggota juri mengambil keputusan.
 

@@ -51,7 +51,7 @@ Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!](#-os
 
 ## Wykres wyniku
 
-![Wykres wyniku](img/performance_graph.jpg "Wykres wyniku")
+![Wykres wyniku](img/performance_graph.png "Wykres wyniku")
 
 Wykres wyniku to wykres ukazujący zmianę wartości punktów życia gracza w trakcie gry. Dodatkowe informacje wyświetlą się po najechaniu kursorem.
 
@@ -61,11 +61,11 @@ Wykres wyniku to wykres ukazujący zmianę wartości punktów życia gracza w tr
 
 Po najechaniu na wykres wyniku, wyświetli się etykieta z *zakresem błędu* i *wskaźnikiem dokładności*.
 
-W przypadku użycia modyfikatora [DT](/wiki/DT) (Double Time) lub [HT](/wiki/HT) (Half Time), do wartości dla zakresu błędu i wskaźnika dokładności zostaną użyte te same wartości, jakie dany modyfikator stosuje do szybkości piosenki (mnożenie przez 1,5 dla DT oraz dzielenie przez 1,33 dla HT).
+W przypadku użycia modyfikatora [DT](/wiki/Game_modifier/Double_time) (Double Time) lub [HT](/wiki/Game_modifier/Half_time) (Half Time), do wartości dla zakresu błędu i wskaźnika dokładności zostaną użyte te same wartości, jakie dany modyfikator stosuje do szybkości piosenki (mnożenie przez 1,5 dla DT oraz dzielenie przez 1,33 dla HT).
 
 #### Zakres błędu
 
-Zakres błędu wyświetla dwie wartości ukazujące średni czas, w którym obiekty były naciskane za wcześnie i za późno. Im większa jest [ogólna trudność (OD)](/wiki/Overall_Difficulty) beatmapy, tym mniejsze będą musiały być te wartości, by uzyskać dobry wynik.
+Zakres błędu wyświetla dwie wartości ukazujące średni czas, w którym obiekty były naciskane za wcześnie i za późno. Im większa jest [ogólna trudność (OD)](/wiki/Beatmapping/Overall_Difficulty) beatmapy, tym mniejsze będą musiały być te wartości, by uzyskać dobry wynik.
 
 #### Wskaźnik dokładności
 

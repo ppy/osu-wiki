@@ -288,9 +288,9 @@ Usa `e.g.` para "por ejemplo" y `i.e.` para "eso es".
 Las abreviaturas, acrónimos e inicialismos no deben ser pluralizados. El siguiente es un ejemplo:
 
 ```markdown
-Evita:  Los BNs pueden nominar tu beatmapset.
+Evita:  Los BNs pueden nominar tu beatmap.
 
-Preferir: Los Beatmap Nominators pueden nominar tu beatmapset.
+Preferir: Los Beatmap Nominators pueden nominar tu beatmap.
 ```
 
 ## Perspectiva

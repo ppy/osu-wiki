@@ -21,14 +21,14 @@ First of all, congratulations to the winners of the Spring 2019 Seasonal Spotlig
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
 ## Summer Spotlights
 
-### <a name="osu" id="osu"></a>osu!
+### osu!
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/hide.jpg)](https://osu.ppy.sh/beatmapsets/972932)
 
@@ -184,7 +184,7 @@ And as if the map wasn't already enough of a masterpiece on its own, [Peter](htt
 
 *written by [Deca](https://osu.ppy.sh/users/9088487)*
 
-### <a name="taiko" id="taiko"></a>osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/taiko/field.jpg)](https://osu.ppy.sh/beatmapsets/897127)
 
@@ -245,7 +245,7 @@ If you love some speedy maps with complex patterns, this map will certainly fulf
 
 *written by [Nepuri](https://osu.ppy.sh/users/6637817)*
 
-### <a name="catch" id="catch"></a>osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/catch/oriental.jpg)](https://osu.ppy.sh/beatmapsets/910194)
 
@@ -283,7 +283,7 @@ Majeure has fun and technical streams with tap dashes and wiggles, which are esp
 
 *written by [F D Flourite](https://osu.ppy.sh/users/2459589)*
 
-### <a name="mania" id="mania"></a>osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/ari.jpg)](https://osu.ppy.sh/beatmapsets/933455)
 

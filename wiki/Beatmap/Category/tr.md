@@ -9,27 +9,29 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 **Beatmapler** şarkılar için oluşturulmuş oyun seviyeleridir. [Vuruş objeleri](/wiki/Hit_Objects), [zamanlama](/wiki/Beatmap_Editor/Timing) bilgisi, zorluk ayarları, ve görsel efektler içerir.
 
-Beatmapler, **[beatmap setlerinin](Beatmapsets)** bir parçası olarak yapılır. Beatmap setleri, websitesine [gönderilebilmesi](/wiki/Glossary#bss) ve [beatmap listesinde](https://osu.ppy.sh/beatmapsets) gözükmesi için beatmapleri bir arada gruplar. Her bir beatmapi farklı bir [zorluk](/wiki/Beatmap/Difficulty) olan setler genellikle tek bir şarkıyı barındırır.
+Beatmapler, **[beatmap setlerinin](Beatmapsets)** bir parçası olarak yapılır. Beatmap setleri, websitesine [gönderilebilmesi](/wiki/Submission) ve [beatmap listesinde](https://osu.ppy.sh/beatmapsets) gözükmesi için beatmapleri bir arada gruplar. Her bir beatmapi farklı bir [zorluk](/wiki/Beatmap/Difficulty) olan setler genellikle tek bir şarkıyı barındırır.
 
 ## Beatmap kategorileri
 
 Çevrimiçi gönderilen beatmapler son etkinliğine, aday gösterim durumuna, ve popülaritesine göre kategorilere ayrılır:
 
-- [Mezarlıkta](#mezarlıkta)
-- [Yapım Aşamasında / Beklemede](#yapım-aşamasında-ve-beklemede)
-- [Nitelikli](#nitelikli)
-- [Dereceli](#dereceli)
-- [Sevilen](#sevilen)
+- [Beatmapler](#beatmapler)
+  - [Beatmap kategorileri](#beatmap-kategorileri)
+    - [Mezarlıkta](#mezarlıkta)
+    - [Yapım Aşamasında ve Beklemede](#yapım-aşamasında-ve-beklemede)
+    - [Nitelikli](#nitelikli)
+    - [Dereceli](#dereceli)
+    - [Sevilen](#sevilen)
 
 ### Mezarlıkta
 
 Mezarlıktaki beatmapler yaratıcısı tarafından terkedilmiş beatmaplerdir. Beatmapler, 4 hafta boyunca güncellenmediğinde otomatik olarak [Yapım Aşamasında ve Beklemede](#yapım-aşamasında-ve-beklemede) kategorisinden Mezarlık kategorisine taşınır. Mezarlıktaki beatmapler bir sıralamaya sahip değildir ve kullanıcı istatistiklerini etkilemez. Ancak, normal bir şekilde indirilip oynanabilir. Şarkı seçim ekranında soru işareti ikonu (![](/wiki/shared/status/graveyard.png)) ile ayırt edilebilir.
 
-Bir beatmap mezarlığa düştüğünde, yeniden canlandırılabilir (yani, [Beklemede](#yapım-aşamasında-ve-beklemede) kategorisine geri getirilebilir). Bu, [beatmap gönderme sistemi](/wiki/Glossary#bss) ile beatmapi güncelleyerek yapılabilir.
+Bir beatmap mezarlığa düştüğünde, yeniden canlandırılabilir (yani, [Beklemede](#yapım-aşamasında-ve-beklemede) kategorisine geri getirilebilir). Bu, [beatmap gönderme sistemi](/wiki/Submission) ile beatmapi güncelleyerek yapılabilir.
 
 ### Yapım Aşamasında ve Beklemede
 
-Yapım Aşamasında ve Beklemede, beatmaplerin ilk gönderimde yerleştirildiği iki kategoridir. Bu kategorilerdeki beatmapler iki ayrı [Beatmap Aday Gösterici](/wiki/People/The_Team/Beatmap_Nominators) tarafından [aday gösterilerek](/wiki/Beatmap_ranking_procedure#nominations) [Nitelikli](#nitelikli) kategorisine taşınabilir. Genellikle bu, [modderlardan](/wiki/Glossary#modder) [modlama](/wiki/Modding) yoluyla büyük ölçüde bir geri bildirim içerir. Yapım Aşamasındaki ve Beklemedeki beatmapler bir sıralamaya sahip değildir ve kullanıcı istatistiklerini etkilemez. Şarkı seçim ekranında soru işareti ikonu (![](/wiki/shared/status/pending.png)) ile ayırt edilebilir.
+Yapım Aşamasında ve Beklemede, beatmaplerin ilk gönderimde yerleştirildiği iki kategoridir. Bu kategorilerdeki beatmapler iki ayrı [Beatmap Aday Gösterici](/wiki/People/The_Team/Beatmap_Nominators) tarafından [aday gösterilerek](/wiki/Beatmap_ranking_procedure#nominations) [Nitelikli](#nitelikli) kategorisine taşınabilir. Genellikle bu, [modderlardan](/wiki/Modding/Modder) [modlama](/wiki/Modding) yoluyla büyük ölçüde bir geri bildirim içerir. Yapım Aşamasındaki ve Beklemedeki beatmapler bir sıralamaya sahip değildir ve kullanıcı istatistiklerini etkilemez. Şarkı seçim ekranında soru işareti ikonu (![](/wiki/shared/status/pending.png)) ile ayırt edilebilir.
 
 Bu kategoride 4 hafta kalan inaktif beatmapler otomatik olarak [Mezarlıkta](#mezarlıkta) kategorisine taşınır.
 

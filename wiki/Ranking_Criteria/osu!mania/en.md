@@ -105,7 +105,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
-If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it must also abide by these rules:
+If a Normal difficulty is required and used as the *lowest difficulty* of a beatmap, it must also abide by these rules:
 
 - **Slider velocity changes that alter the scrolling speed of the beatmap are disallowed.** Slider velocity changes to unify the scroll speed in variable BPM beatmaps are exempt.
 - **Scroll normalization must be done in beatmaps with variable BPM.**

@@ -17,9 +17,9 @@ outdated: true
 - Hard
 - Insane
 
-各リンクをクリックすると[Mapper](/wiki/Glossary)のためのガイドラインが表示されるので、それに従い楽しく適切なビートマップを作ってください。
+各リンクをクリックするとMapperのためのガイドラインが表示されるので、それに従い楽しく適切なビートマップを作ってください。
 
-[Mapper](/wiki/Glossary)はカスタム[難易度](/wiki/Beatmap/Difficulty)名を使うことも珍しくありません。(例えば"Mario"のような)
+Mapperはカスタム[難易度](/wiki/Beatmap/Difficulty)名を使うことも珍しくありません。(例えば"Mario"のような)
 
 更にあなたはゲストとしてマッパーの名前が入っている難易度も一般的に見つけられます。(例えば Larto's Insane)
 

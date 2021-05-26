@@ -105,7 +105,7 @@ Peraturan dan pedoman tingkat kesulitan spesifik hanya berlaku untuk tingkat kes
 
 #### Peraturan
 
-Jika tingkat kesulitan normal diperlukan dan digunakan sebagai *tingkat kesulitan terendah* dari sebuah beatmapset, maka harus mengikuti aturan berikut:
+Jika tingkat kesulitan normal diperlukan dan digunakan sebagai *tingkat kesulitan terendah* dari sebuah beatmap, maka harus mengikuti aturan berikut:
 
 - **Perubahan slider velocity yang mengubah scroll speed beatmap tidak diizinkan.** Pengecualian untuk perubahan slider velocity yang bertujuan untuk menyatukan scroll speed pada beatmap dengan variabel BPM.
 - **Normalisasi scroll harus dilakukan pada beatmap yang mempunyai beberapa BPM di dalamnya.**

@@ -10,14 +10,14 @@ Extra! Extra! Read all about it! It's time for another issue of your favorite ne
 
 This month's issue of the Mappers' Report contains the following topics:
 
-- **[Ranking Criteria Changes](#rc-changes)**
-- **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
-- **[Mappers' Showcase](#mappers-showcase)**
+- **[Ranking Criteria Changes](#ranking-criteria-changes)**
+- **[Within the Beatmap Nominators and NAT](#within-the-beatmap-nominators-and-nat)**
+- **[Mappers' Showcase](#mappers'-showcase)**
 - **[Mapping Contests](#mapping-contests)**
-- **[Around the Community](#around-community)**
+- **[Around the Community](#around-the-community)**
 - **[Conclusion](#conclusion)**
 
-## <a id="rc-changes"></a>Ranking Criteria Changes
+## Ranking Criteria Changes
 
 As always, we start with this month's ranking criteria changes. Let's hop right in and see what happened this month. 
 
@@ -41,7 +41,7 @@ As always, we start with this month's ranking criteria changes. Let's hop right 
 
 - [osu!catch RC rework (part 1)](https://osu.ppy.sh/community/forums/topics/1265691)
 
-## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
+## Within the Beatmap Nominators and NAT
 
 As with every other month, we are once again here to show you which brave souls have stepped forth to dedicate themselves to the community at large among the Beatmap Nominators. Check out an overview of all the movement in the group below:
 
@@ -88,7 +88,7 @@ Here is the list of everyone who received a badge this past session:
 | ![QAT/NAT Badge (3 years)](https://assets.ppy.sh/profile-badges/QAT3y.jpg "Longstanding contribution to the QAT/NAT - 3 years") | [-Mo-](https://osu.ppy.sh/users/2202163), [Lasse](https://osu.ppy.sh/users/896613), [Naxess](https://osu.ppy.sh/users/8129817) |
 | ![QAT/NAT Badge (4 years)](https://assets.ppy.sh/profile-badges/QAT4y.jpg "Longstanding contribution to the QAT/NAT - 4 years") | [Feerum](https://osu.ppy.sh/users/4815717), [pishifat](https://osu.ppy.sh/users/3178418) |
 
-## <a id="mappers-showcase"></a>Mappers' Showcase
+## Mappers' Showcase
 
 This month in the Mappers' Showcase, we'll be featuring two hidden gems from the drum-basher's game mode of choice, osu!taiko!
 
@@ -114,7 +114,7 @@ All that being said, even the more casual drum-rollers among us will find he sti
 
 We're very excited to see what X a v y will produce in the coming months and hope to see his dedication forge him into a truly excellent mapper!
 
-## <a id="mapping-contests"></a>Mapping Contests
+## Mapping Contests
 
 Feeling up for some competition, but find yourself yearning for mapping over playing? Search no more - we've got several contests up on offer this month, so read on to find out all about them!
 
@@ -132,7 +132,7 @@ The voting won't be open for much longer, so make sure to check them all out and
 
 We're excited to see who will take the trophy home!
 
-## <a id="around-community"></a>Around the Community
+## Around the Community
 
 Last but certainly not least, here's a rundown of all the other mapping and modding related projects that are going on in the community at the moment:
 

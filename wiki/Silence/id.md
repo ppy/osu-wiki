@@ -12,7 +12,7 @@ Pengguna yang dijatuhkan hukuman silence oleh moderator tidak dapat melakukan ha
 
 - Menyunting userpage
 - Mengubah avatar/rincian profil
-- Melakukan upload [beatmaps](/wiki/Beatmap) terhadap [BSS](/wiki/Glossary#bss)
+- Melakukan upload [beatmaps](/wiki/Beatmap) terhadap [BSS](/wiki/Submission)
 - Mengirim pesan pribadi (PM)
 - Memposting apa pun di forum osu!
 

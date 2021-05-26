@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Se faire modder sa map
 
 Si vous souhaitez que votre map soit [classée](/wiki/Beatmap/Category#ranked), vous devrez vous la faire [modder](/wiki/Modding). Il y a plusieurs moyens d'y arriver.
@@ -26,7 +30,7 @@ Un **M4M** (**Mod for Mod**) désigne l'action de modder une map en échange du 
 
 ## Demander directement aux autres joueurs
 
-Demander directement aux autres joueurs est une bonne façon d'obtenir des mods, si vous demandez aux bons joueurs. Cherchez un utilisateur ayant des [Kudosu](/wiki/Glossary) et aucune file de modding ; avec un peu de chance, il acceptera votre requête s'il n'est pas trop occupé. Demander directement aux [BATs](/wiki/People/The_Team/Beatmap_Nominators) est une mauvaise idée si votre map n'a pas encore été moddée. Les BATs sont très occupés avec des maps ayant déjà eu plusieurs mods ; faites donc preuve de patience.
+Demander directement aux autres joueurs est une bonne façon d'obtenir des mods, si vous demandez aux bons joueurs. Cherchez un utilisateur ayant des [Kudosu](/wiki/Modding/Kudosu) et aucune file de modding ; avec un peu de chance, il acceptera votre requête s'il n'est pas trop occupé. Demander directement aux [BATs](/wiki/People/The_Team/Beatmap_Nominators) est une mauvaise idée si votre map n'a pas encore été moddée. Les BATs sont très occupés avec des maps ayant déjà eu plusieurs mods ; faites donc preuve de patience.
 
 ## Astuces
 

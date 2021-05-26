@@ -11,7 +11,7 @@ outdated_since: 8c58252899939eadafbdbf266f62a75aeb247bff
 
 ![](img/main-menu.jpg "Ana Menü")
 
-[osu!cookie](/wiki/Glossary#cookie) \[1\] ana menü üzerinde o anda çalan şarkının [BPM](/wiki/Beatmapping/Beats_per_minute)'ine göre titreşir. Ek olarak, şarkının ses seviyesine göre osu!cookie'nin dışına doğru çubuklar çıkar. Eğer hiç bir şarkı çalmıyorsa, 60 BPM hızında titreşir. Ana menüyü oluşturan elemanlar aşağıdaki gibidir:
+[osu!cookie](/wiki/Glossary/Cookie) \[1\] ana menü üzerinde o anda çalan şarkının [BPM](/wiki/Beatmapping/Beats_per_minute)'ine göre titreşir. Ek olarak, şarkının ses seviyesine göre osu!cookie'nin dışına doğru çubuklar çıkar. Eğer hiç bir şarkı çalmıyorsa, 60 BPM hızında titreşir. Ana menüyü oluşturan elemanlar aşağıdaki gibidir:
 
 - \[2\] Solo modu şarkı seçim ekranına geçmek için Play'e (`P`) veya logoya tıklayın.
 - \[3\] Düzenleyici modu şarkı seçim ekranına geçmek için Edit'e (`E`) tıklayın.
@@ -19,7 +19,7 @@ outdated_since: 8c58252899939eadafbdbf266f62a75aeb247bff
 - \[5\] osu!'dan çıkmak için Exit'e (`Esc`) tıklayın.
 - \[6\] Menünün alt kısmında işe yarar rastgele bir tavsiye görüntülenir.
 - \[7\] Sol-alt kısımda osu! web sayfasına bir link, aynı zamanda telif hakkı bilgisi bulunur.
-- \[8\] [Bancho](/wiki/Glossary#bancho)'ya bağlantı sonucu! Bu resimde gösterilmiyor, ama bağlantı sonucu bir dizi linke benziyor.
+- \[8\] [Bancho](/wiki/Bancho_(server))'ya bağlantı sonucu! Bu resimde gösterilmiyor, ama bağlantı sonucu bir dizi linke benziyor.
 - \[9\] Sağ-alt kısımda genişletilmiş [sohbet penceresi](/wiki/Chat_Console) (burada "Player List" olarak geçiyor) ve sıradan sohbet penceresi (sırasıyla `F9` & `F8`) için sohbet kontrolleri bulunur.
 - \[10\] Sağ-üstte şarkıları rastgele sırayla çalan osu! müzik kutusu bulunur. Üst kısım şu anda çalan şarkıyı gösterir. Butonlar, soldan sağa aşağıdaki gibi çalışır:
   - Önceki Parça
@@ -92,7 +92,7 @@ Devam etmeden önce, bu ekranda kolayca anlaşılabilen numaralarla not edilebil
 
 Bu bölüm **seçilen beatmap zorluğunun bilgisini** görüntüler. Varsayılan olarak, osu! müzik kutusunda çalan müziğin beatmapi şarkı seçme ekranına girerken seçili olarak açılır. Sol üstte beatmapin derecelendirme durumu bulunur. Hemen yanında başlık bulunur. Normalde, latin alfabeye çevirilmiş başlık gösterilir, ancak eğer [Ayarlarda](/wiki/Options) `Kendi dilindeki metaveriyi tercih et` seçiliyse, Unicode başlığı görüntüler; bu ise bir üstteki resimde mevcuttur. Beatmapper da görüntülenir, ve beatmap bilgisi ise aşağıda görüntülenir. Soldan sağa, veriler aşağıdaki gibidir:
 
-- **Uzunluk**: Beatmapin toplam uzunluğudur, molalar dahil baştan sona. [Akış süresi (drain time)](/wiki/Glossary#drain-time) ile karıştırılmamalıdır.
+- **Uzunluk**: Beatmapin toplam uzunluğudur, molalar dahil baştan sona. [Akış süresi (drain time)](/wiki/Gameplay/Drain_time) ile karıştırılmamalıdır.
 - **BPM**: Beatmapin BPM'idir (dakika başı vuruş sayısı). Eğer (bir alttaki resimde olduğu gibi) biri parantez içinde iki BPM varsa, bu şarkı boyunca BPM'in değiştiğini gösterir. Bunlar en yavaş ve en hızlı BPM'leri gösterir, ve parantez içindeki değer ise beatmapin başlangıcındaki BPM'dir.
 - **Objeler**: Beatmap içerisindeki toplam [vuruş objesi](/wiki/Hit_Objects) sayısı.
 - **Circle sayısı**: Beatmap içerisindeki toplam vuruş çemberi sayısı.
@@ -260,7 +260,7 @@ Oyunun **tüm maplerinizi kaydırarak rastgele bir tanesini seçmesi** için `Ra
 
 - Koleksiyonlar ekranını görüntülemek için `1`'e basın veya `Koleksiyonları Düzenle` butonuna tıklayın - burada, mevcut koleksiyonları düzenleyebilir, aynı zamanda seçili beatmap veya map setini bir koleksiyona ekleyebilir veya bir koleksiyondan çıkartabilirsiniz.
 - `2` tuşuna basarak veya `Delete...` butonuna tıklayarak \[1\] şu anda seçili map setini silebilir, \[2\] şu anda seçili beatmapi silebilir, veya \[3\] tüm beatmapleri silebilirsiniz. Son seçenek şaka amaçlıdır; ona tıklamanız oyunun size beatmaplerin tamamını birden silemeyeceğinizi bildirmesine sebep olur.
-   - Silinen beatmaplerin Geri Dönüşüm Kutusuna taşındığını unutmayın.
+- Silinen beatmaplerin Geri Dönüşüm Kutusuna taşındığını unutmayın.
 - Oynanmamış bir beatmapi oynanmış olarak işaretlemek için (yani, kutucuk rengini pembeden turuncuya dönüştürür) `3` tuşuna basın veya `Oynanmamışlardan Çıkar` butonuna tıklayın.
 - Seçtiğiniz beatmap üzerindeki tüm skor kayıtlarını silmek için `4` tuşuna basın veya `Bütün yerel skorları sil` butonuna tıklayın.
 - Seçilen beatmapi osu!'nun Düzenleyicisinde açmak için `5` tuşuna basın veya `Düzenle` butonuna tıklayın.
@@ -268,7 +268,7 @@ Oyunun **tüm maplerinizi kaydırarak rastgele bir tanesini seçmesi** için `Ra
 
 **Kullanıcı Seçenekleri Menüsüne** erişmek için **kendi kullanıcı panelinize** tıklayın.
 
-**Seçilen beatmapi oynamaya başlamak için [osu!cookie](/wiki/Glossary#cookie)** üzerine tıklayın. 
+**Seçilen beatmapi oynamaya başlamak için [osu!cookie](/wiki/Glossary/Cookie)** üzerine tıklayın. 
 
 ## Sıralama Ekranı
 

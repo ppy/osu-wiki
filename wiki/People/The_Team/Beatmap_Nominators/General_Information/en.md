@@ -18,7 +18,7 @@ Nominations and resetting nominations are the evidence of a BN's efforts when ch
 
 ![nominate button](img/nominate.png)
 
-**This button allows you to nominate beatmaps.** To nominate a beatmap, the mapset must have at least 5 Hype and no currently unresolved Problem or Suggestion stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmapset was previously vetoed you must ensure the veto is resolved before moving a mapset forward. When a beatmap has 2 nominations, it will be Qualified and enter the ranking queue.
+**This button allows you to nominate beatmaps.** To nominate a beatmap, the mapset must have at least 5 Hype and no currently unresolved Problem or Suggestion stamps. Make sure you're satisfied with all difficulties, even other game modes, before placing this. If the beatmap was previously vetoed, you must ensure the veto is resolved before moving a mapset forward. When a beatmap has 2 nominations, it will be Qualified and enter the ranking queue.
 
 ### Disqualify or reset nomination 
 
@@ -26,7 +26,7 @@ Nominations and resetting nominations are the evidence of a BN's efforts when ch
 
 **This allows you to reset a beatmap's progress in the ranking proccess.** If a beatmap is currently nominated or qualified, you as a nominator are given the ability to reset the beatmaps' nomination(s) by posting an issue using a Problem stamp. If a beatmap is qualified, it can only be disqualified by a full BN. These options are usually used when there is a major or unrankable issue in the beatmap which should be addressed before considering it for ranking.
 
-Steps on Disqualifying a Beatmapset:
+Steps for disqualifying a beatmap:
 
 - Make sure that you are on the beatmap discussion for the correct set.
 - Write your disqualification reason into the text field. Make sure that the first line summarises the disqualification as this is what is displayed at the top of the discussion page.

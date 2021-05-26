@@ -56,7 +56,7 @@ where:
     - *Addition* is one of Whistle / Finish / Clap.
     - *CustomSampleSet* is the custom sample number, 0 for Default.
     - All of these are optional, examples:
-      - HitSound (any [hitsound](/wiki/Glossary) is played)
+      - HitSound (any [hitsound](/wiki/Beatmapping/Hitsound) is played)
       - HitSoundClap (any clap hitsound is played)
       - HitSoundFinish (any finish hitsound is played)
       - HitSoundWhistle (any whistle hitsound is played)

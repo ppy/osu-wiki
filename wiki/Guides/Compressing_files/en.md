@@ -1,6 +1,6 @@
 # Compressing files
 
-Each beatmapset has a file size limit dictated by its total length. This guide will help you to get your beatmap under that limit.
+Each beatmap has a file size limit dictated by its total length. This guide will help you to get your beatmap under that limit.
 
 There are 2 types of compression. **Lossy** and **Lossless** compression.
 
