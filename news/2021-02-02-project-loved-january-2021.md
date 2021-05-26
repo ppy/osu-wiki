@@ -12,12 +12,12 @@ In case you're new here: Project Loved runs monthly polls to decide which unrank
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207) and [waywern2012](https://osu.ppy.sh/users/5870453)! This round, all osu!standard beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
@@ -88,7 +88,7 @@ There are your usual finger control and rhythm complexity maps, and then there a
 
 Nothing feels more rewarding than completing a high quality technical map, especially that of a catchy song, and that's exactly the kind of experience this map provides. A 160 BPM technical map with high quality and creative rhythms that switch between 1/4 and 1/3, this map is complete with custom hitsounds to offer you the most enjoyable experience possible.
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [nyanmi-1828](https://osu.ppy.sh/users/6866480), [POCARI SWEAT](https://osu.ppy.sh/users/5082685) and [X a v y](https://osu.ppy.sh/users/3738344)!
 
@@ -126,7 +126,7 @@ A lot of the identity katagiri has as an artist is the usage of sampling over a 
 
 It's finally here, the greatest challenge of all time. yassu's beatmap of *Unmeiron* comes with another DJ MOKOJI †LEGGENDARIA diff, already proven to be ruthless with the Loved beatmap Shippuujinrai. *Unmeiron* has always been a popular classic map often played by the top players and a big challenge for decent high-ranking players. Now it's time to get it in Loved like everyone has been hoping for. There are also lots of guest difficulties from other great mappers, with unique challenges for each. Can you survive any of them?
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Spectator](https://osu.ppy.sh/users/702598), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
 
@@ -173,7 +173,7 @@ Here we have *Garakuta Doll Play*, which is a collaborative effort from Minato Y
 
 Go give both difficulties a spin, and see what you think! Definitely vote yes on this map if you feel like a fellow Garakutan Doll Player!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Abraxos](https://osu.ppy.sh/users/5025064), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

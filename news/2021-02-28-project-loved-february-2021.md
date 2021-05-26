@@ -16,12 +16,12 @@ With that out of the way, here are our picks for the month of February.
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207) and [Bubbleman](https://osu.ppy.sh/users/5182050)!
 
@@ -92,7 +92,7 @@ Awkward linear patterns at a fast pace, another classic that the newer folk amon
 
 If you've come across rustbell mapping before, you know how wacky and different it can be. This is no exception - fast sliders and a heap of rhythmic content, topped with swing timing and reading patterns galore. A real treat to play, come give it a go - this one is not to be missed.
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [POCARI SWEAT](https://osu.ppy.sh/users/5082685), [X a v y](https://osu.ppy.sh/users/3738344), [-Kazu-](https://osu.ppy.sh/users/920861) and [KuroKuroKuro](https://osu.ppy.sh/users/11931563)!
 
@@ -142,7 +142,7 @@ The \[Xoz's Infinite II\] difficulty is *not* being nominated for Loved.\
 
 Ah, what a nostalgic one. Back in 2014 things were much simpler for osu!taiko: you'd find a lolicore song you like, map a lot of 1/6 bursts and 1/4 streams to it, call it a distinctive name and you'd end up with a surefire banger that would endure the test of time. And boy has this this formula sure worked for Kurokotei, as *LeaF Style Super Shredder* was one of their most popular maps of the EX'S ULTIMATE CHALLENGE series, which we are very happy to announce is coming to the Loved section for all our beloved aliens in the community!
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Spectator](https://osu.ppy.sh/users/702598)!
 
@@ -194,7 +194,7 @@ The dan packs each test one of the following skillsets: marathon-play, jumping, 
 
 So stop doing those other "marathons", like running, or anime-binging, as they are soooo 2020. Check out this dan instead will ya?!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Abraxos](https://osu.ppy.sh/users/5025064), [lenpai](https://osu.ppy.sh/users/5314573), [Penguinosity](https://osu.ppy.sh/users/10235296) and [Pope Gadget](https://osu.ppy.sh/users/2288341)!
 

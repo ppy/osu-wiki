@@ -41,7 +41,7 @@ In case you're confused, the [MBC wiki page](/wiki/Contests/Monthly_Beatmapping_
 
 ## Beatmapping
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 A monthly competition would be pretty stale without something to mess with mappers. We handle this with *limitations*, which are basically ways to limit map design. Some examples of limitations are *circles cannot be used* and *star rating cannot exceed 4.00*, both of which hugely impact map creation.
 
@@ -61,7 +61,7 @@ And just to be super clear about the osu! limitation: 1/4 sliders with reverse a
 
 Major props to [radar](https://osu.ppy.sh/users/7131099) for organizing and deciding the limitation for osu!taiko's contest. Hopefully taiko mappers don't find his limitation too cruel, unlike standard osu! mappers who surely will find the "no 1/4 sliders" limitation obnoxious.
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each MBC provides beatmappers a choice between songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 

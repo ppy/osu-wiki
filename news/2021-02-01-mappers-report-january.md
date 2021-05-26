@@ -10,14 +10,14 @@ It's another new year in mapping! It might already be a month into 2021, but we'
 
 This month's issue of the Mappers' Report contains the following topics:
 
-- **[Ranking Criteria Changes](#rc-changes)**
-- **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
-- **[Mappers’ Showcase](#mappers-showcase)**
+- **[Ranking Criteria Changes](#ranking-criteria-changes)**
+- **[Within the Beatmap Nominators and NAT](#within-the-beatmap-nominators-and-nat)**
+- **[Mappers' Showcase](#mappers'-showcase)**
 - **[Mapping Contests](#mapping-contests)**
-- **[Around the Community](#around-community)**
+- **[Around the Community](#around-the-community)**
 - **[Conclusion](#conclusion)**
 
-## <a id="rc-changes"></a>Ranking Criteria Changes
+## Ranking Criteria Changes
 
 The ranking criteria continues to change, even in 2021. Here, we’ve gathered all changes that have happened so far.
 
@@ -40,7 +40,7 @@ For osu!mania:
 
 - **[Remove Guidelines regarding SVs](https://osu.ppy.sh/community/forums/topics/1227918)**
 
-## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
+## Within the Beatmap Nominators and NAT
 
 Another year, another wave of Beatmap Nominators! As with every issue, here's who has joined and who has left in the past little while:
 
@@ -62,7 +62,7 @@ Do you want to see your own name on this list? Do you like modding and helping o
 
 Head over to the [Beatmap Nominator website](https://bn.mappersguild.com "Beatmap Nominators") and apply today!
 
-## <a id="mappers-showcase"></a>Mappers’ Showcase
+## Mappers' Showcase
 
 Because we covered all the four game modes in the previous issues of the Mappers’ Report, this means our showcase for this month is for storyboards in general. Storyboarding is an often undersung art, so let's give a few up-and-coming storyboarders some praise for their work!
 
@@ -92,7 +92,7 @@ And that's about it for this time! Be sure to check out their future works—we 
 
 Think you've got what it takes to become the next great storyboarder? No? Well, either way, if you want to learn more about storyboarding, seek advice and feedback for your own creations, or just want to keep up with the latest in the making, then we highly recommend to stop by at the [osu! storyboarder banquet Discord server](https://discord.gg/B8NX7YW "Discord")! You may be surprised at what people are brewing up...
 
-## <a id="mapping-contests"></a>Mapping Contests
+## Mapping Contests
 
 A new year means more exciting mapping contests - this time with the 3rd season of the famous osu!mania challenge, MaMaChaCha!
 
@@ -106,7 +106,7 @@ This is a mania-specific mapping event where each mapper is given a restriction,
 
 If you're interested, check out [this thread](https://osu.ppy.sh/community/forums/topics/723358) then DM [Parachor](https://osu.ppy.sh/users/5241655) with an example of uniqueness in your mapping. The event is entirely run on Discord, so a Discord account is required as well.
 
-## <a id="around-community"></a>Around the Community
+## Around the Community
 
 Are you searching endlessly, wanting to know what’s going on in the mapping and modding community? Well search no more, friend, we’ll show you around! Everything related to the community, aside from the contests, are located right here in the Mappers' Report!
 
