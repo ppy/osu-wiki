@@ -6,27 +6,27 @@ tags:
 
 # La Mappers' Guild
 
-La **Mappers' Guild** est un groupe de mappeurs responsables de la création des [beatmaps](/wiki/Beatmap) pour les [artistes associés](/wiki/Featured_Artists) d'osu! En utilisant un style de guilde MMO, elle permet aux mappeurs de gagner des récompenses en participant au procédé de classement des beatmaps des artistes associés et en coopérant dans des quêtes en lien avec le mapping.
+La **Mappers' Guild** est un groupe de mappeurs responsables de la création des [beatmaps](/wiki/Beatmap) pour les [artistes associés](/wiki/Featured_Artists) d'osu!. En utilisant un style de guilde MMO, elle permet aux mappeurs de gagner des récompenses en participant au procédé de classement des beatmaps des artistes associés et en coopérant dans des quêtes en lien avec le mapping.
 
 L'organisation et les discussions de la guilde peuvent être trouvées dans le salon `#mappers-guild` du [serveur Discord osu!dev](https://discord.gg/ppy).
 
-## Le système
+## Fonctionnement
 
 *Pour obtenir les informations les plus récentes sur le système utilisé par la Mappers' Guild, consultez la [section FAQ de son site web](https://mappersguild.com/faq).*
 
-Les mappeurs avec 3 maps classées ou plus peuvent rejoindre la guilde à tout moment via le [site web de la Mappers' Guild](https://mappersguild.com/) en authentifiant leur compte osu!. N'importe qui d'autre est libre d'observer les activités de mapping et les quêtes sur le site web.
+Les mappeurs avec 3 maps classées ou plus peuvent rejoindre la guilde à tout moment via le [site web de la Mappers' Guild](https://mappersguild.com/) en authentifiant leur compte osu!. N'importe qui est libre d'observer les activités de mapping et les quêtes sur le site web.
 
 Les mappeurs peuvent obtenir des récompenses en participant au procédé de classement des maps des artistes associés qui sont liés à la Mappers' Guild. Cela se concentre principalement sur la création de beatmaps, mais des récompenses sont aussi fournies aux utilisateurs qui ont contribué au [modding](/wiki/Modding), à la création de [storyboards](/wiki/Modding), ou encore en complétant des quêtes dans la guilde.
 
-### Les parties
+### Parties
 
-Les parties sont des groupes de mappeurs qui s'inscrivent pour compléter une quête ensemble. Les mappeurs peuvent rejoindre autant de parties en même temps qu'il le souhaite.
+Les **parties** sont des groupes de mappeurs qui s'inscrivent pour compléter une quête ensemble. Les mappeurs peuvent rejoindre autant de parties en même temps qu'il le souhaite.
 
 Les quêtes spéciales requièrent un plus haut rang dans la guilde pour y participer. Pour qu'une partie se qualifie dans un plus haut rang, au-moins la moitié des membres doivent être du rang requit ou d'un plus haut rang.
 
-### Les quêtes
+### Quêtes
 
-Les quêtes récompensent les mappeurs pour avoir suivi certaines exigences pendant la création de leurs maps d'artistes associés. Le plus souvent, les quêtes impliquent qu'un certain nombre de beatmaps pour un artiste associé soit crée, cependant les quêtes impliquent aussi quelques petits gadgets.
+Les **quêtes** récompensent les mappeurs pour avoir suivi certaines exigences pendant la création de leurs maps d'artistes associés. Le plus souvent, les quêtes impliquent qu'un certain nombre de beatmaps pour un artiste associé soit crée, cependant les quêtes impliquent aussi quelques petits gadgets.
 
 Chaque quête a ses propres spécifications en termes de taille de groupe et de rang, de prix d'acceptation et de date limite. Tous les membres d'une partie doivent payer le prix indiqué pour accepter la quête. Les prix sont souvent assez élevés pour les quêtes fantaisistes ou en solo.
 
@@ -34,11 +34,11 @@ Les quêtes expirent après 3 mois d'inactivité. N'importe quel utilisateur peu
 
 La participation aux quêtes n'est pas requise pour les membres de la Mappers' Guild. Si un utilisateur le souhaite, il peut créer une beatmap seul pour obtenir des récompenses.
 
-### Les récompenses
+### Récompenses
 
-Les récompenses sont distribuées au travers d'un système de points. Quand un utilisateur atteint un seuil de points spécifié, il peut gagner un rang différent signifié par un badge de profil. Il y a trois niveaux de badges de profil : 100, 250 et 500 points respectivement.
+Les **récompenses** sont distribuées au travers d'un système de points. Quand un utilisateur atteint un seuil de points spécifié, il peut gagner un rang différent signifié par un badge de profil. Il y a trois niveaux de badges de profil : 100, 250 et 500 points respectivement.
 
-Les récompenses sont basées sur le total de points d'un utilisateur. Les points disponibles d'un utilisateur sont une sous-section de son total de points en suivant le même principe que les réserves de [kudosu](/wiki/Modding/Kudosu) "reçus au total" et "disponibles" d'osu!
+Les récompenses sont basées sur le total de points d'un utilisateur. Les points disponibles d'un utilisateur sont une sous-section de son total de points en suivant le même principe que les [kudosu](/wiki/Modding/Kudosu) "reçus au total" et "disponibles" d'osu!
 
 Les points sont gagnés pour différentes tâches liées au mapping. Les gains varient entre les tâches, bien qu'ils soient généralement pondérés en fonction du temps requis. Par exemple, mapper une difficulté `Hard` prend plus de temps que de mapper une difficulté `Easy`, la première rapportera donc plus de points que la deuxième.
 
@@ -52,11 +52,11 @@ Pour promouvoir d'anciens artistes associés, le groupe recrutait de nouveaux me
 
 Dans la continuité de ces deux packs de beatmaps, la Mappers' Guild a continuellement agrandi son nombre de membres tout en publiant des packs pour les nouvelles annonces d'artistes associés, comme [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), ou encore [HyuN](https://osu.ppy.sh/beatmaps/artists/33), accompagné d'autres packs pour les musiques d'anciens artistes associés.
 
-### L'Automatisation
+### Automatisation
 
 Alors que le plan initial de la Mappers' Guild était d'avoir des éléments MMO tels que des quêtes, cela s'est avéré peu pratique à gérer tout en gérant manuellement les date limites pour le nombre limité de participants à la guilde. ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) et ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) commencèrent donc le développement d'un site web pour automatiser la Mappers' Guild vers la fin de l'année 2018, permettant une gestion plus adéquate des récompenses et du système de quête/groupes.
 
-Le [site web de la Mappers' Guild](https://mappersguild.com/) fut lancer le 1er Mars 2019 et c'est ici que tout ce qui concerne la Mappers' Guild est actuellement contrôlé. Depuis son ouverture au public, la guilde a atteint un nombre de membres supérieur à 500 et a publié des [articles de mise à jour](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) pour garder le reste de la communauté d'osu! à jour sur le contenu de mapping d'artistes associés.
+Le [site web de la Mappers' Guild](https://mappersguild.com/) fut lancer le 1er Mars 2019 et c'est ici que tout ce qui concerne la Mappers' Guild est actuellement contrôlé. Depuis son ouverture au public, la guilde a atteint un nombre de membres supérieur à 500 et a publié des [articles de mise à jour](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) pour garder le reste de la communauté d'osu! à jour sur le contenu de mapping des artistes associés.
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
