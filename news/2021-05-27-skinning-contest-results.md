@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Skinning Contest: Results Out"
-date: 2021-05-26 10:00:00 +0000
+date: 2021-05-27 10:00:00 +0000
 ---
 
 The ship full of skins is now back with your votes. Check out the results for our first-ever official skinning contest right here!
 
-![](/wiki/shared/news/2021-05-27-skinning-contest-results/skinning_contest_banner.jpg))
+![](/wiki/shared/news/2021-05-27-skinning-contest-results/skinning_contest_banner.jpg)
 
 Around 2 months ago, a ship of skins with an entirely vacant cargo bay arrived at the dock, waiting to be loaded with the best of the best. After getting their palettes ready, **31** ship painters heard our call to arms and stood up for the competition with their pieces of artistic beauty. 
 
@@ -46,7 +46,7 @@ Despite the extravagantly placed objects and richness in colour, BTMC team did a
 
 With his FREEDOM DiVE↓ entry, BTMC is awarded the trophy worthy of a champion, a profile badge exclusively designed to be themed around the skin itself! Congratulations BTMC, well-deserved!
 
-![](/wiki/shared/news/2021-05-27-skinning-contest-results/skinning_contest_badge.jpg))
+![](/wiki/shared/news/2021-05-27-skinning-contest-results/skinning_contest_badge.jpg)
 
 ---
 
