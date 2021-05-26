@@ -10,13 +10,13 @@ And here we are again, full of news, Ranking Criteria changes and contests. Want
 
 This month's issue of the Mappers' Report contains the following topics:
 
-- **[Ranking Criteria Changes](#rc-changes)**
-- **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
-- **[Mappers' Showcase](#mappers-showcase)**
+- **[Ranking Criteria Changes](#ranking-criteria-changes)**
+- **[Within the Beatmap Nominators and NAT](#within-the-beatmap-nominators-and-nat)**
+- **[Mappers' Showcase](#mappers'-showcase)**
 - **[Mapping Contests](#mapping-contests)**
 - **[Conclusion](#conclusion)**
 
-## <a id="rc-changes"></a>Ranking Criteria Changes
+## Ranking Criteria Changes
 
 As always, we start with this month's ranking criteria changes. Let's hop right in and see what happened this month.
 
@@ -31,7 +31,7 @@ As always, we start with this month's ranking criteria changes. Let's hop right 
 - **[Video Games genre for songs that are only video game songs](https://osu.ppy.sh/community/forums/topics/1314759)**
 - **[Standardize dividing markers for maps containing 2 or more songs in the title](https://osu.ppy.sh/community/forums/topics/1308666)**
 
-## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
+## Within the Beatmap Nominators and NAT
 
 As is the cycle of life, some Beatmap Nominators come and go every month. Here’s a list of all movements in the group recently:
 
@@ -51,7 +51,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 - **osu!taiko:** [Ulqui](https://osu.ppy.sh/users/1263669)
 - **osu!catch:** [Xinely](https://osu.ppy.sh/users/1521445) & [Myxo](https://osu.ppy.sh/users/2202645)
 
-## <a id="mappers-showcase"></a>Mappers’ Showcase
+## Mappers' Showcase
 
 Since we have so many amazing storyboarders, we've decided to sneak in another storyboarder showcase this time around! Big thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month's picks.
 
@@ -81,7 +81,7 @@ Along with amazing storyboards that have come out in general, a sizeable batch o
 
 If you're up for the task to compete with these marvellous creations, you may want to pop in the [osu! storyboarder banquet Discord server](https://discord.gg/B8NX7YW) for the greatest in the making as well as the latest in the discussion of the art of sprite-twiddling!
 
-## <a id="mapping-contests"></a>Mapping Contests
+## Mapping Contests
 
 Hold it right there competition-thirsty fellows! We're right here with you again, this time with a hefty batch of news related to mapping contests all over the community.
 

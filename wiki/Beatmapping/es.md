@@ -20,7 +20,7 @@ Haga clic en la canción, esto abrirá el [editor de beatmap](/wiki/Beatmap_Edit
 
 *Ver también: [Configuración de la canción](/wiki/Song_Setup)*
 
-Al crear un nuevo [mapset](/wiki/Glossary), siempre verás este cuadro antes que cualquier otra cosa del editor de beatmaps.
+Al crear un nuevo [mapset](/wiki/Beatmap), siempre verás este cuadro antes que cualquier otra cosa del editor de beatmaps.
 
 Deberas completar esta información antes de crear otra [dificultad](/wiki/Beatmap/Difficulty).
 Esto asegurará que los metadatos sean consistentes en todas las dificultades del conjunto.
@@ -45,7 +45,7 @@ Esto te ahorrará a ti (y a la comunidad de modding) muchas molestias más adela
 *Ver también: [Componer](/wiki/Compose)*
 
 La pestaña de composición del editor de beatmaps es donde probablemente pasarás la mayor parte de tu tiempo de beatmapping.
-Es donde puedes colocar visualmente objetos de golpeo y alternar sus [sonidos de golpeo](/wiki/Glossary)
+Es donde puedes colocar visualmente objetos de golpeo y alternar sus [sonidos de golpeo](/wiki/Beatmapping/Hitsound)
 
 ### Diseño
 

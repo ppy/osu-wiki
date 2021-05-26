@@ -48,7 +48,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
 
 As conquistas **Skill** atualmente estão divididos em três grupos: **Combo**, **High Ranker** e **Star-based**
 
-As conquistas **Combo** podem ser obtidas ao alcançar um [Combo](/wiki/Glossary) específico no osu! padrão e pode ser obtida com qualquer música.
+As conquistas **Combo** podem ser obtidas ao alcançar um [Combo](/wiki/Beatmapping/Combo) específico no osu! padrão e pode ser obtida com qualquer música.
 Conseguir o mesmo combo nos modos Taiko, Catch the Beat ou osu!mania **não** concederá a conquista.
 
 Para as conquistas de 1.000 e 2.000 combo, você deve encontrar beatmaps aprovados em vez de beatmaps ranqueados. Não procure por beatmaps não aprovados.

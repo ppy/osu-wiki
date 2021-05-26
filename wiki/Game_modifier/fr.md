@@ -29,7 +29,7 @@ Ces mods peuvent faciliter le jeu au prix d'une diminution du multiplicateur de 
 
 Le mod Easy divise par deux tous les paramètres de difficulté du beatmap sélectionné.
 
-Le mod Easy accorde également au joueur deux " vies " supplémentaires ; si le [life bar](/wiki/Glossary#life-bar) est complètement épuisé, le jeu s'arrête et recharge lentement la barre de vie à environ 80% sans aucun son entre les deux, au prix d'une "vie" du jeu. La recharge est signalée par le son prêt (`readys.wav`) à la place du son typique de fail (`failsound.wav`) pour échouer le beatmap avec une barre de vie vide. Le beatmap reprendra une fois le remplissage réussi signalé par le son de go (`gos.wav`). Le jeu échouera à la place s'il n'y a plus de "vies" quand la barre de vie a été complètement épuisée à nouveau.
+Le mod Easy accorde également au joueur deux " vies " supplémentaires ; si le [life bar](/wiki/Glossary/Health_bar) est complètement épuisé, le jeu s'arrête et recharge lentement la barre de vie à environ 80% sans aucun son entre les deux, au prix d'une "vie" du jeu. La recharge est signalée par le son prêt (`readys.wav`) à la place du son typique de fail (`failsound.wav`) pour échouer le beatmap avec une barre de vie vide. Le beatmap reprendra une fois le remplissage réussi signalé par le son de go (`gos.wav`). Le jeu échouera à la place s'il n'y a plus de "vies" quand la barre de vie a été complètement épuisée à nouveau.
 
 Lorsque vous regardez une relecture où une "vie" supplémentaire est utilisée, l'animation de recharge de santé sera ignorée et la relecture se poursuivra comme si vous jouiez avec le mod [No Fail](#no-fail).
 
@@ -49,7 +49,7 @@ Dans le mode de jeu [osu!](/wiki/Game_mode/osu!), le mode Easy diminue [circle s
 
 - Réduit la difficulté générale - les notes se déplacent plus lentement, moins de précision requise.
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko), le mode Easy diminue le [slider velocity](/wiki/Glossary#slider-velocity) (identique à la réduction de l'AR en mode osu!), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) et [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) de moitié. Notez que le nombre de coups requis pour terminer une cuillère tournante est réduit en raison de la réduction de [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). Contrairement aux autres modes de jeu, l'exigence d'un score de note réduit pour gagner de la santé dans [osu!taiko](/wiki/Game_mode/osu!taiko) fait que la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu de la chanson.
+Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko), le mode Easy diminue le [slider velocity](/wiki/Hit_object/Slider_velocity) (identique à la réduction de l'AR en mode osu!), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) et [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) de moitié. Notez que le nombre de coups requis pour terminer une cuillère tournante est réduit en raison de la réduction de [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). Contrairement aux autres modes de jeu, l'exigence d'un score de note réduit pour gagner de la santé dans [osu!taiko](/wiki/Game_mode/osu!taiko) fait que la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu de la chanson.
 
 ---
 
@@ -71,7 +71,7 @@ Dans le mode de jeu [osu!mania](/wiki/Game_mode/osu!mania) les effets sont les m
 - Touche de raccourci : `W`
 - Tu ne peux pas échouer, quoi qu'il arrive.
 
-Le mod No Fail rend le joueur incapable d'échouer lorsque le [life bar](/wiki/Glossary#life-bar) atteint zéro.
+Le mod No Fail rend le joueur incapable d'échouer lorsque le [life bar](/wiki/Glossary/Health_bar) atteint zéro.
 
 Si le joueur n'a pas marqué de points pendant la carte, la beatmap échouera à la place, même si l'option No Fail est utilisée.
 
@@ -111,7 +111,7 @@ Ces mods introduisent de nouveaux éléments pour rendre le jeu plus difficile e
 - Touche de raccourci : `A`
 - Tout est devenu un peu plus difficile...
 
-Hard Rock (nommé d'après la difficulté la plus difficile du jeu DS [Elite Beat Agents](/wiki/Glossary#eba)) soulève [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size) de 30% et le reste des paramètres de difficulté de 40%.
+Hard Rock (nommé d'après la difficulté la plus difficile du jeu DS [Elite Beat Agents](/wiki/iNiS_games)) soulève [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size) de 30% et le reste des paramètres de difficulté de 40%.
 
 ---
 
@@ -121,7 +121,7 @@ Dans le mode de jeu [osu!](/wiki/Game_mode/osu!), Hard Rock retourne également 
 
 ---
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko) Le mod Hard Rock augmente [slider velocity](/wiki/Glossary#slider-velocity) de même que [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). C'est le mod le plus utilisé dans osu!taiko car c'est la seule difficulté à augmenter le mod qui ne nécessite pas de mémorisation ou de frappe super rapide sur les maps hard/insane.
+Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko) Le mod Hard Rock augmente [slider velocity](/wiki/Hit_object/Slider_velocity) de même que [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). C'est le mod le plus utilisé dans osu!taiko car c'est la seule difficulté à augmenter le mod qui ne nécessite pas de mémorisation ou de frappe super rapide sur les maps hard/insane.
 
 Notez que le nombre de coups requis pour terminer un denden est augmenté en raison de l'augmentation de la difficulté globale. Par conséquent, le score maximum possible de difficultés osu!taiko avec Hard Rock on est plus élevé que celui du mod. Cependant, cet effet est insignifiant dans la plupart des cas car chaque hit en denden donne un score statique de 300, ce qui est encore plus petit qu'une différence de score typique entre un GRAND hit et un BON hit (550 points à 100 combo ou plus).
 
@@ -149,7 +149,7 @@ L'utilisation de ce mod sur osu!mania entraînera un jeu non classé.
 - Touche de raccourci : `S` (à partir de non sélectionné)
 - Manquer une note et échouer.
 
-Le mod Sudden Death fait échouer la carte au joueur si le [combo](/wiki/Glossary#combo) est jamais cassé, ce qui entraîne un chiffre manquant très important (mode osu! uniquement) et un drain HP complet.
+Le mod Sudden Death fait échouer la carte au joueur si le [combo](/wiki/Beatmapping/Combo) est jamais cassé, ce qui entraîne un chiffre manquant très important (mode osu! uniquement) et un drain HP complet.
 
 Le combo peut être rompu en manquant une note, en ne cliquant pas sur un cercle de départ (osu! seulement), en ne collectant pas une coche de curseur, ou en ne complétant pas un spinner. Cependant, le combo ne sera pas cassé en manquant une fin de curseur (résultat en obtenant une valeur de 100 points à la place pour cette fin de curseur ; osu! seulement) ou en ne tenant pas/en collectant sur le chemin de curseur vide.
 

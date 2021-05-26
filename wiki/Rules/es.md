@@ -38,7 +38,7 @@ Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un l
 
 *Nota: Estas reglas se aplican a **Todos los mapas enviados**, no solamente a los clasificados. Para reglas más específicas relacionadas con los Beatmaps calificados, ve [Criterios de clasificación](/wiki/Ranking_Criteria).
 
-Estas reglas aplican estrictamente a los beatmaps que sean enviados a través del [Sistema de Envío de Beatmaps](/wiki/Glossary#bss) dentro del juego. Estos hilos/discusiones son creados a través del cliente de osu! cuando un beatmap es enviado a través del [editor](/wiki/Beatmap_Editor).
+Estas reglas aplican estrictamente a los beatmaps que sean enviados a través del [Sistema de Envío de Beatmaps](/wiki/Submission) dentro del juego. Estos hilos/discusiones son creados a través del cliente de osu! cuando un beatmap es enviado a través del [editor](/wiki/Beatmap_Editor).
 
 1. **Asegúrate de que tienes permiso de usar cualquier tipo de contenido involucrado en tu beatmap.** Esto incluye canciones, vídeos, sonidos de ritmo, arte gráfico y cualquier otro contenido que no sea de tu propia creación. Si no estás seguro de dónde encontrar contenido que sea de uso libre, dale un vistazo a nuestra librería en crecimiento de pistas de [Artistas Destacados](https://osu.ppy.sh/beatmaps/artists/) 100% licenciadas para su uso en osu! y a las [Directrices del Uso de Contenido](Content_Usage_Guidelines) para más información.
 2. **Mantén el tema en las discusiones de beatmaps.** Estos hilos/discusiones son acerca del beatmap en cuestión y de nada más. Si tienes algún problema con algo que no esté directamente relacionado con el beatmap, publícalo en el foro apropiado.

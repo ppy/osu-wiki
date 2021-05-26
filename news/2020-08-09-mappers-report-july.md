@@ -10,13 +10,13 @@ Good news, everyone! We think we've perfected a news post formula that will info
 
 This month's issue of the Mappers' Report contains the following topics:
 
-- **[Ranking Criteria Changes](#rc-changes)**
-- **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
-- **[Mappers' Showcase](#mappers-showcase)**
+- **[Ranking Criteria Changes](#ranking-criteria-changes)**
+- **[Within the Beatmap Nominators and NAT](#within-the-beatmap-nominators-and-nat)**
+- **[Mappers' Showcase](#mappers'-showcase)**
 - **[Mapping Contests](#mapping-contests)**
 - **[Conclusion](#conclusion)**
 
-## <a id="rc-changes"></a>Ranking Criteria Changes
+## Ranking Criteria Changes
 
 This month, whilst there weren't many major proposals or Ranking Criteria changes, we focused on minor wording changes throughout.
 
@@ -47,7 +47,7 @@ Every month, we keep you up to date with the changes to the Ranking Criteria. Ad
 
 - **[Change some duplicated phrases in 7K hard guidelines](https://osu.ppy.sh/community/forums/topics/1112674)**
 
-## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
+## Within the Beatmap Nominators and NAT
 
 New Beatmap Nominators have arrived! As with every month, we would like to present you with people you can request your pending maps to, just make sure to ask those proficient in the right game mode! Below are the lists of all additions and departures from this month!
 
@@ -93,7 +93,7 @@ A new member in the Nomination Assessment has risen! Please welcome [Scotty](htt
 
 Welcome aboard Scotty!
 
-## <a id="mappers-showcase"></a>Mappers' Showcase
+## Mappers' Showcase
 
 Another month, another Mappers' Showcase! However, the term "mapper" is maybe not the right one this time. Since the showcase has covered all game modes at least once, we thought we'd make something special this time. We would like to show you the work of storyboarders! As storyboarding can apply to all game modes, we thought it'd be the perfect moment to showcase some outstanding storyboarders this month!
 
@@ -121,7 +121,7 @@ And that's just the tip of the iceberg! Be sure to check out some of their many 
 
 Do you happen to know any mapper or storyboarder who is rather unknown and makes awesome content? Then make sure to let us know! Submit their names through [this form](https://forms.gle/kM5SW33xp1HttS7D8) today!
 
-## <a id="mapping-contests"></a>Mapping Contests
+## Mapping Contests
 
 Now, I hope you're ready because we're back with more news and information on the latest mapping contests happening right now, with more juicy details on results from concluding contests, and where you can participate in new and upcoming mapping contests!
 
