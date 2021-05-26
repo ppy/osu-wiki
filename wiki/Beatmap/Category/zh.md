@@ -9,27 +9,29 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 **谱面**是对音乐创建的游戏关卡。它们包含了 [击打物件](/wiki/Hit_Objects) 、 [timing](/wiki/Beatmap_Editor/Timing) 信息、难度设置，以及视觉特效。
 
-谱面是 **[谱面集](Beatmapsets)** 的一个部分。谱面集将一些谱面集合在一起以 [提交](/wiki/Glossary#bss) 至网站并显示在 [谱面列表](https://osu.ppy.sh/beatmapsets) 中。这些在同一谱面集的谱面通常包含同一个乐曲，但 [难度](/wiki/Beatmap/Difficulty) 互不相同。
+谱面是 **[谱面集](Beatmapsets)** 的一个部分。谱面集将一些谱面集合在一起以 [提交](/wiki/Submission) 至网站并显示在 [谱面列表](https://osu.ppy.sh/beatmapsets) 中。这些在同一谱面集的谱面通常包含同一个乐曲，但 [难度](/wiki/Beatmap/Difficulty) 互不相同。
 
 ## 谱面类别
 
 被提交到网站上的谱面会依照其最近活动情况、提名状态、及流行度被分入不同的谱面类别中：
 
-- [Graveyard](#graveyard)
-- [Work in Progress 和 Pending](#work-in-progress-和-pending)
-- [Qualified](#qualified)
-- [Ranked](#ranked)
-- [Loved](#loved)
+- [谱面](#谱面)
+  - [谱面类别](#谱面类别)
+    - [Graveyard](#graveyard)
+    - [Work in Progress 和 Pending](#work-in-progress-和-pending)
+    - [Qualified](#qualified)
+    - [Ranked](#ranked)
+    - [Loved](#loved)
 
 ### Graveyard
 
 状态为 Graveyard 的谱面是被谱面创建者弃更了的谱面。只要一个在 [Work in Progress / Pending](#work-in-progress-和-pending) 类别中的谱面超过4周没有任何更新，它就会被自动地移至 Graveyard 类别中。类别为 Graveyard 的谱面没有排行榜，也不会影响用户成绩。但是，它们仍可以被正常的下载并游玩。这些谱面在选歌界面中使用问号（![](/wiki/shared/status/graveyard.png)）图标。
 
-当一个谱面变为Graveyard后，它仍可以被“复活” (如 重新变回[Pending](#work-in-progress-和-pending) ）。这可以由使用 [谱面提交系统](/wiki/Glossary#bss) 更新谱面达成。
+当一个谱面变为Graveyard后，它仍可以被“复活” (如 重新变回[Pending](#work-in-progress-和-pending) ）。这可以由使用 [谱面提交系统](/wiki/Submission) 更新谱面达成。
 
 ### Work in Progress 和 Pending
 
-Work in Progress （通常缩写为 *WIP* ） 和 Pending 是谱面初次提交时能够选择的两个类别。在这两个类别中的谱面可以在至少两名 [谱面提名小组](/wiki/People/The_Team/Beatmap_Nominators) 成员的 [提名](/wiki/Beatmap_ranking_procedure#nominations) 后，转入 [Qualified](#qualified) 类别中。这样的谱面通常包括了 [修图者](/wiki/Glossary#modder) 通过 [修图](/wiki/Modding) 提交的众多反馈。类别为 Work in Progress 与 Pending 的谱面没有排行榜，也不会影响用户成绩。这些谱面在选歌界面中使用问号图标（![](/wiki/shared/status/graveyard.png)）。
+Work in Progress （通常缩写为 *WIP* ） 和 Pending 是谱面初次提交时能够选择的两个类别。在这两个类别中的谱面可以在至少两名 [谱面提名小组](/wiki/People/The_Team/Beatmap_Nominators) 成员的 [提名](/wiki/Beatmap_ranking_procedure#nominations) 后，转入 [Qualified](#qualified) 类别中。这样的谱面通常包括了 [修图者](/wiki/Modding/Modder) 通过 [修图](/wiki/Modding) 提交的众多反馈。类别为 Work in Progress 与 Pending 的谱面没有排行榜，也不会影响用户成绩。这些谱面在选歌界面中使用问号图标（![](/wiki/shared/status/graveyard.png)）。
 
 在这两个类别下的非活跃谱面会在4周后被自动地移至 [Graveyard](#graveyard) 类别中。 
 

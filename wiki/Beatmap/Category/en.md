@@ -8,11 +8,11 @@
 
 Graveyarded beatmaps are beatmaps that have been abandoned by their creator. Beatmaps are moved to the Graveyard category from the [Work in Progress and Pending](#work-in-progress-and-pending) categories automatically once they haven't been updated for 4 weeks. Graveyarded beatmaps do not have leaderboards. However, they can still be downloaded and played, and [contribute to play statistics](#unranked-beatmaps-statistics). They use the question mark icon (![](/wiki/shared/status/graveyard.png)) in the [song selection screen](/wiki/Interface#song-selection-screen).
 
-Once a beatmap is graveyarded, it can be revived (i.e. brought back to [Pending](#work-in-progress-and-pending)). This can be done by updating the beatmap via the [beatmap submission system](/wiki/Glossary#bss).
+Once a beatmap is graveyarded, it can be revived (i.e. brought back to [Pending](#work-in-progress-and-pending)). This can be done by updating the beatmap via the [beatmap submission system](/wiki/Submission).
 
 ### Work in Progress and Pending
 
-Work in Progress (commonly initialised as *WIP*) and Pending are the two categories beatmaps are put into on initial submission. Beatmaps in these categories can move to the [Qualified](#qualified) category upon [nomination](/wiki/Beatmap_ranking_procedure#nominations) by at least two [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). This usually includes a great amount of feedback from [modders](/wiki/Glossary#modder) through [modding](/wiki/Modding). Work in Progress and Pending beatmaps do not have leaderboards, but [contribute to play statistics](#unranked-beatmaps-statistics). They use the question mark icon (![](/wiki/shared/status/pending.png)) in the song selection screen.
+Work in Progress (commonly initialised as *WIP*) and Pending are the two categories beatmaps are put into on initial submission. Beatmaps in these categories can move to the [Qualified](#qualified) category upon [nomination](/wiki/Beatmap_ranking_procedure#nominations) by at least two [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). This usually includes a great amount of feedback from [modders](/wiki/Modding/Modder) through [modding](/wiki/Modding). Work in Progress and Pending beatmaps do not have leaderboards, but [contribute to play statistics](#unranked-beatmaps-statistics). They use the question mark icon (![](/wiki/shared/status/pending.png)) in the song selection screen.
 
 Inactive beatmaps that have been in this category for 4 weeks are automatically moved into the [Graveyard](#graveyard) category.
 

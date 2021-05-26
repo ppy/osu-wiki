@@ -39,7 +39,7 @@ Sebagai tambahan, jika pemain telah menghafal atau sudah terbiasa dengan gerakan
 
 ### osu!taiko
 
-Pada [osu!taiko](/wiki/Game_mode/osu!taiko), mod Hard Rock meningkatkan [slider velocity](/wiki/Glossary#slider-velocity) dan juga [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). Mod ini adalah mod yang biasa digunakan secara luas pada osu!taiko karena mod ini adalah satu-satunya mod peningkat kesulitan yang tidak membutuhkan penghafalan atau mengetuk dengan sangat cepat pada tingkat kesulitan yang lebih tinggi.
+Pada [osu!taiko](/wiki/Game_mode/osu!taiko), mod Hard Rock meningkatkan [slider velocity](/wiki/Hit_object/Slider_velocity) dan juga [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). Mod ini adalah mod yang biasa digunakan secara luas pada osu!taiko karena mod ini adalah satu-satunya mod peningkat kesulitan yang tidak membutuhkan penghafalan atau mengetuk dengan sangat cepat pada tingkat kesulitan yang lebih tinggi.
 
 Ketukan yang dibutuhkan untuk menyelesaikan denden telah ditingkatkan karena OD yang sudah ditingkatkan. Karena hal tersebut, skor maksimum yang bisa dicapai pada osu!taiko dengan mod Hard Rock lebih tinggi daripada mod [Hidden](/wiki/Game_modifier/Hidden).
 
@@ -61,7 +61,7 @@ Pada [osu!mania](/wiki/Game_mode/osu!mania), hanya pengaturan kesulitan penilaia
 
 ## Trivia
 
-- Mod Hard Rock dinamai dari kesulitan tersusah pada permainan [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS "Wikipedia"), "[Elite Beat Agents](/wiki/Glossary#eba)"
+- Mod Hard Rock dinamai dari kesulitan tersusah pada permainan [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS "Wikipedia"), "[Elite Beat Agents](/wiki/iNiS_games)"
 - Mod Hard Rock akan mematikan mod [Easy](/wiki/Game_modifier/Easy). Dan sebaliknya.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

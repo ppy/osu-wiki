@@ -4,7 +4,7 @@
 
 ![L'onglet Compose pour le mode osu!mania](img/ComposeMania-FR.png "L'onglet Compose pour le mode osu!mania")
 
-L'onglet **Compose** est l'endroit où un [mappeur](/wiki/Glossary) passe la plupart du temps à dessiner sa conception en fonction de la timeline après avoir défini les sections BPM et Timing. C'est aussi l'endroit où les joueurs peuvent s'entraîner à une difficulté classée et inspecter sa conception, un peu comme dans le mode Entraînement de DDR.
+L'onglet **Compose** est l'endroit où un [mappeur](/wiki/Beatmapping) passe la plupart du temps à dessiner sa conception en fonction de la timeline après avoir défini les sections BPM et Timing. C'est aussi l'endroit où les joueurs peuvent s'entraîner à une difficulté classée et inspecter sa conception, un peu comme dans le mode Entraînement de DDR.
 
 En raison de besoins différents en matière de style de mapping (osu! est très flexible, laissant beaucoup de place à la créativité, tandis qu'osu!mania est limité à une touche sélectionnée, exigeant une extrême précision pour évoquer les sons de touches de manière harmonieuse), l'éditeur d'osu! et l'éditeur d'osu!mania ont leur propre section de caractéristiques. Vous pouvez facilement accéder à l'éditeur d'osu!mania en réglant votre difficulté sur le mode osu!mania.
 
