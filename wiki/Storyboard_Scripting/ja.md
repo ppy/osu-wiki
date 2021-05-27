@@ -1,22 +1,20 @@
----
-outdated: true
-outdated_since: 029eb57bd83c4d5d74fb54d65723f05b44411250
----
+# ストーリーボードスクリプティング
 
-# ストーリーボードScripting
+![.osbでのスクリプティング例](img/SBS_Base.jpg ".osbでのスクリプティング例")
 
-![An example of scripting in .osb.](img/SBS_Base.jpg "An example of scripting in .osb.")
+[組み込みのストーリーボードエディター](/wiki/Beatmap_Editor/Design)に加えて、メモ帳や[Notepad++](https://www.notepad-plus-plus.org/)、[Visual Studio Code](https://code.visualstudio.com/)などのプレーンテキストエディターを使用して、ビートマップの[ストーリーボード](/wiki/Storyboards)を作成することもできます。このワークフローは**storyboarding by scripting**（*SBS*）と呼ばれ、スプライトの表示や動作などをピクセルやミリ秒単位でより正確に設定することができます。
 
-[Storyboard Editor](/wiki/Beatmap_Editor/Design)(Designタブ)で[Storyboardをビートマップに追加することができ](/wiki/Storyboards)、またテキストエディタ(メモ帳、 [Notepad++](http://www.notepad-plus-plus.org/)など)を利用しても作成できます。これは"**Storyboarding by Scripting**" (SBS)と呼ばれるもので、画像がいつ現れ、どのように動作しするかなど、より精確に設定をすることが可能となります。
+## 概要
 
-## 初心者向けガイド
+[Doomsday](https://osu.ppy.sh/users/18983)で提供されているストーリーボードスクリプティングのコンセプトの概要があります: [osu! - Storyboard Scripting for Beginners (12:22)](https://www.youtube.com/watch?v=UJ1YLDs-bZg "YouTube")
 
-[DoomsdayによるSBSの初心者向けチュートリアル (12:22).](http://www.youtube.com/watch?v=UJ1YLDs-bZg)
+## 完全な仕様書
 
-## 仕様について
+*注意: 最適化されている箇所がある為、最初にビルトインエディタで保存し、その後、プレーンテキストエディタで保存してください。誤って進行状況が失われないように、**頻繁に保存**してください。*
 
-これは[公式の仕様](https://osu.ppy.sh/community/forums/topics/1869)と大規模なSBの作成に基づいています。 これは**順を追うタイプのガイドではありません。** それはSBSがosu!のスクリーンに影響する詳細についてだけを網羅していることを意味します。
+ストーリーボードのスクリプティングプロセスは、主に[公式仕様書](https://osu.ppy.sh/community/forums/topics/1869)と大規模なストーリーボード作成の経験に基づいています。osu!wikiの記事では簡単な例を紹介していますが、ステップ・バイ・ステップのガイドではありません。基本的なスクリプトコマンドがどのようにosu!の画面上の動作に反映されるかを網羅的に説明することを目的としています。
 
-[SBSを弄る前にここを読んでください。それをすることで後で起こるかもしれない面倒事を回避することができるかもしれません](/wiki/Storyboard_Scripting/General_Rules)。 [スプライトとオブジェクトの仕様についてと](/wiki/Storyboard_Scripting/Objects)[動作させるコマンドについて](/wiki/Storyboard_Scripting/Commands).
+ストーリーボードスクリプトを書く前に、[用語と基本的な概念](/wiki/Storyboard_Scripting/General_Rules)を確認して、問題や誤解が生じないようにしてください。より詳細な説明については、こちらをご覧ください:
 
-注意: ノートパッドを保存する前に **まず最初にビートマップを保存してください**。時々Editorの動作が重くなることがあるので頻繁に保存をすることが推奨されています。
+- [ストーリーボード オブジェクト](/wiki/Storyboard_Scripting/Objects)
+- [ストーリーボードスクリプティング コマンド](/wiki/Storyboard_Scripting/Commands)
