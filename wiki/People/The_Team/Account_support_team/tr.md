@@ -21,10 +21,10 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
 - [Hesabınıza uygulanan kısıtlamalara karşı itirazlar](/wiki/Help_Centre/Account_Restrictions). Bu kısıtlamalara aşağıdakiler de dahildir:
-    - susturmalar;
-    - profil içeriğinin kaldırılması;
-    - beatmapin kaldırılması;
-    - forum gönderisinin ve yorumun kaldırılması.
+  - susturmalar;
+  - profil içeriğinin kaldırılması;
+  - beatmapin kaldırılması;
+  - forum gönderisinin ve yorumun kaldırılması.
 - [İtiraf etmek istediğiniz](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?) olumsuz davranışlar.
 - osu! hesabınızla ilişkili [e-postanıza olan erişimi kaybetmeniz](/wiki/Help_Centre#sign-in), veya hesabınızın çalınması.
 - Kullanıcı adı [geri çevirme veya ufak yazım düzeltmeleri](/wiki/Help_Centre#name-changes).
