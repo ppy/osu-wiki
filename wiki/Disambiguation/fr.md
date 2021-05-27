@@ -1,15 +1,22 @@
----
-outdated: true
-outdated_since: 8043b3a603ef5a8bb7ab9f982fceed3825cb249f
----
-
 # Désambiguïsation
 
-La désambiguïsation sur le wiki d'osu! est le processus de résolution des conflits qui surviennent lorsqu'un titre d'article potentiel est ambigu, le plus souvent parce qu'il fait référence à plus d'un sujet couvert par osu! wiki, soit en tant que sujet principal d'un article, soit en tant que sous-thème couvert par un article en plus du sujet principal de l'article.
+Les articles de **désambiguïsation** du [osu! wiki](/wiki/Main_Page) mettent en évidence les termes ambigus et expliquent leurs différentes significations.
+
+Un article ordinaire, s'il a un titre similaire, doit utiliser la hatnote ["Pour d'autres utilisations"](/wiki/Article_styling_criteria/Formatting#pour-d'autres-utilisations) avec un lien vers sa page de désambiguïsation.
 
 ## Liste des articles de désambiguïsation
 
 - [Bancho](Bancho)
+- [Combo](Combo)
 - [Easy](Easy)
 - [EZ](EZ)
+- [Fail](Fail)
 - [Mod](Mod)
+- [NC](NC)
+- [NM](NM)
+- [Offset](Offset)
+- [osu!](osu!)
+- [Ouendan](Ouendan)
+- [Rank](Rank)
+- [Star](Star)
+- [Version](Version)

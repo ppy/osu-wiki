@@ -22,12 +22,12 @@ And now onto the part you clicked here for, the maps! ~
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207)! This round, all osu!standard beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
@@ -108,7 +108,7 @@ One of the first 8 star graveyard maps to ever shine in popularity, this catchy,
 
 There's a special charm behind those giant mapsets of short, silly MP3s that get a bunch of wacky guest difficulties, but most of them fall in the dust of obscurity in the graveyard, likely to be forgotten with time. Not this one, though—with 17 difficulties, nearly 400 favourites and almost 200,000 recorded plays, this mapset found the sweet spot between innocent fun and actual playability. Enjoy a solid 33 seconds of autotune charm that gets sillier the more you listen to it.
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [KuroKuroKuro](https://osu.ppy.sh/users/11931563), [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [POCARI SWEAT](https://osu.ppy.sh/users/5082685)!
 
@@ -150,7 +150,7 @@ Players, the time has come to open the box! This map created by Grape_Tea has ma
 
 プレイヤーよ、今、箱を開ける時は来た！Grape_Teaが作るこの譜面は、1/5などを使った複雑なスナップなど、様々な工夫がありますが、特筆すべきは小節線ギミックでしょう。正直、「BPM0-無限」の文字列が見えるのであれば、ギミックがあることは分かり切っていますが...この譜面の素晴らしさはプレイしてみないと分からないでしょう。さあ、「箱」を開けてみてください。そこに入っている物も、開けた後に残る物も、誰にも分かりませんが―――。
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Spectator](https://osu.ppy.sh/users/702598), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
 
@@ -194,7 +194,7 @@ We brought the madness (of course I would make that pun), now it's time for you 
 
 Many of you probably know this map because of its presence in the nomod bracket of the 2016 osu!catch World Cup final. It certainly has been a while hasn't it? While it isn't as difficult anymore for the players today as it was for the players 5 years ago, that doesn't mean that the map lost its value. It is overall a really clean map, with the most notable part being the jumpstream section that can make you fail instantly if you make a mistake. I'd have loved to see this map in the ranked section one day but it is clear that this will never happen so it is time to give this map the exposure it deserves through Loved. Make sure to give it a try!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Kawawa](https://osu.ppy.sh/users/4647754), [lenpai](https://osu.ppy.sh/users/5314573) and [Penguinosity](https://osu.ppy.sh/users/10235296)!
 

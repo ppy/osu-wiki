@@ -11,8 +11,8 @@ osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their 
 ### Navigation
 
 - [Mappool](#mappool)
-- [Tournament Matches](#matches)
-- [Looking Ahead](#ahead)
+- [Tournament Matches](#tournament-matches)
+- [Looking Ahead](#looking-ahead:-quarterfinals)
 
 ---
 
@@ -24,7 +24,7 @@ osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their 
 
 **There were also some fancy new changes to the stream layout.** For the first time in World Cup history, the tournament client resolution was not the standard 4:3, but instead an ultrawide 21:9. With double the width, you can be sure that the highlights were twice as exciting!   
 
-## <a name="mappool" id="mappool"></a>Mappool
+## Mappool
 
 This stage, we saw a total of 39 picks and 14 bans across 7 complete matches.
 
@@ -48,7 +48,7 @@ Picks were fairly balanced across the board, with the exception of [Falcom Sound
 
 For full details, please refer to the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSzdrbcYPggEJ2gRz_2nct0KfPa6ZJmD3T-mRT6XD7Ci4MhvzYyjguqQ--uYVkYZR5Sdf-pr3oEEOx9/pubhtml#) compiled by [Nwolf](https://osu.ppy.sh/users/1910766) and [deadbeat](https://osu.ppy.sh/users/128370)!
 
-## <a name="matches" id="matches"></a>Tournament Matches
+## Tournament Matches
 
 Taking place over 2 blocks on the same day, the majority of the matches ended up in sweeps, though some of the matches were a lot closer than you would think.
 
@@ -92,7 +92,7 @@ If you're looking for something a little bit more visual, you can always catch u
 
 That concludes all the matches for this weekend! Good luck to all the remaining teams in this tournament!
 
-## <a name="ahead" id="ahead"></a>Looking Ahead: Quarterfinals
+## Looking Ahead: Quarterfinals
 
 ### Saturday, 24. February 2018
 

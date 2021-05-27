@@ -6,7 +6,7 @@ tags:
 
 # How to resolve BSS issues
 
-If the **[Beatmap Submission System](/wiki/Glossary#bss)** (***BSS***) won't let you submit your own beatmap because it says that you do not own the map then do the following:
+If the **[Beatmap Submission System](/wiki/Submission)** (***BSS***) won't let you submit your own beatmap because it says that you do not own the map then do the following:
 
 1. Go to the beatmap's folder.
    - You can get there easily by going to `File` then `Open Song Folder` in the [beatmap editor](/wiki/Beatmap_Editor).

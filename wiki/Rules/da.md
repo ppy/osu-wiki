@@ -41,7 +41,7 @@ Disse regler er grundlaget for hvordan vi holder osu! fællesskabet et sjovt og 
 
 *Note: Disse regler gælder **alle indsendte maps**, ikke kun dem der er Ranked. For at se mere specifikke regler ift. Ranked beatmaps, se [Ranking Kriteriet](/wiki/Ranking_Criteria).*
 
-Disse regler gælder strengt talt for beatmaps der indsendes via det in-game [Beatmap Indsendelses-System](/wiki/Glossary#bss). Disse tråde/diskussioner bliver oprettet af osu!-klienten når et beatmap indsendes gennem [editoren](/wiki/Beatmap_Editor).
+Disse regler gælder strengt talt for beatmaps der indsendes via det in-game [Beatmap Indsendelses-System](/wiki/Submission). Disse tråde/diskussioner bliver oprettet af osu!-klienten når et beatmap indsendes gennem [editoren](/wiki/Beatmap_Editor).
 
 1. **Sørg for at du har tilladelse til at bruge alt indhold, der er involveret i dit beatmap.** Dette inkluderer sange, videoer, hitsounds, grafik, og andet indhold der ikke er dit eget. Hvis du er i tvivl om hvor du kan finde indhold der er gratis at bruge, har vi et voksende bibliotek af sange tilgængeligt på [Featured Artist](https://osu.ppy.sh/beatmaps/artists)-siden, som alle er 100% licenseret til brug i osu!.
 2. **Hold dig til emnet i Beatmap diskussioner.** Disse tråde/diskussioner handler om det aktuelle beatmap og intet andet. Hvis du har et problem med noget der ikke direkte vedrører beatmappet, kan du lave et opslag i det relevante forum.

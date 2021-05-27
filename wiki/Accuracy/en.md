@@ -45,7 +45,7 @@ In osu!mania, accuracy is calculated similarly to [osu!](#-osu!).
 
 ## Performance graph
 
-![Performance graph](img/performance_graph.jpg "Performance graph")
+![Performance graph](img/performance_graph.png "Performance graph")
 
 The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
 
@@ -55,11 +55,11 @@ The performance graph is a chart that displays the player's performance (based o
 
 When hovering over the performance graph, a tooltip is displayed with an `Error` and `Unstable Rate` rating.
 
-Due to the way the [DT](/wiki/DT) (Double Time) and [HT](/wiki/HT) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing with the DT mod, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing with the HT mod.
+Due to the way the [DT](/wiki/Game_modifier/Double_time) (Double Time) and [HT](/wiki/Game_modifier/Half_time) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing with the DT mod, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing with the HT mod.
 
 #### Error
 
-`Error` will always display two values that represent how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Overall_Difficulty) value of the beatmap is, the lower the error values will have to be to do well when playing the beatmap.
+`Error` will always display two values that represent how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) value of the beatmap is, the lower the error values will have to be to do well when playing the beatmap.
 
 #### Unstable rate
 

@@ -38,9 +38,7 @@ As a result, using the Half Time mod will lead to an increase in maximum possibl
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the BPM is lowered by the same factor as in other modes. Though it *also* decreases the player character's speed so normal fruits without any mods *may* turn into hyperdash fruits.
-
-In addition to this, the leniency for hyperdashes is increased, which makes it much more difficult to stop underneath the next fruit when performing a hyperdash.
+In [osu!catch](/wiki/Game_mode/osu!catch), the BPM and the speed of the catcher are lowered by the same factor as in other modes. All the [fruits](/wiki/Hit_object/Fruit), [drops](/wiki/Hit_object/Juice_stream#drop), [droplets](/wiki/Hit_object/Juice_stream#droplet) and [bananas](/wiki/Hit_object/Banana) stay untouched.
 
 ## Trivia
 

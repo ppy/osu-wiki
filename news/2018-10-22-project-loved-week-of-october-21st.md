@@ -20,12 +20,12 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [Toy](https://osu.ppy.sh/users/2757689) and [DigitalHypno](https://osu.ppy.sh/users/4384207)! This week, all osu! beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
@@ -91,7 +91,7 @@ From the creator of the popular maps "oddloop" and "OWARASE NIGHT", a new readin
 
 Yet another Imperial Circus Dead Decadence song has landed itself in the Loved voting stage! This time we have a common tune to some, "FUBUKI". Recognizable from Kantai Collection (and ranked mapsets on osu!), this ICDD rendition of the song was mapped twice by AtHeoN: once in 2016, and again in 2018. The former rests at low 7-stars, while the latter reaches into mid 7-star territory. Both follow the core mechanics of the song—rhythm structure, general priority, switches between 1/3 and 1/4 snapping, etc. However, the actual style of mapping is quite the evolution. Regarding the maps themselves, they both clock in at just over four minutes, filling the time with heavy jumps and streams at a solid 195 BPM. Whether you're looking to train a bit of high-star nomod consistency or simply looking for a fun map, be sure not to skip this one! The 140+ users who favorited this mapset surely wouldn't, and for quite a good reason! If you don't see what I'm talking about, check out the maps to see for yourself!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [Backfire](https://osu.ppy.sh/users/263110), [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -127,7 +127,7 @@ Returning from the cycle during the second week of february, Nightfall, a beatma
 
 As our last pick comes directly from speed hell, Architecture mapped by 1RoHa\_ features 300 BPM of pure insanity, in the form a great map designed to bring a rich gameplay experience, with patterns that flow exquisitely and are really fun to play. We hope you're up for a challenge, as this map will for sure pack quite a punch. Don't let its high BPM and SR trick you though, as its design is quite intuitive and you will for sure be able to hit this after some intensive practice.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Zak](https://osu.ppy.sh/users/1375955), [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941) and [Tenshichan](https://osu.ppy.sh/users/1101600)! This week, all osu!catch beatmap descriptions were written by [Sartan](https://osu.ppy.sh/users/4100941).
 
@@ -149,7 +149,7 @@ Something quite different from our other pick this week would be Rocma's Skill A
 
 Whereas the previous Skill Analyzer of his was mostly aimed towards the top end of the playerbase, this one is way more accessible to people that might not be super proficient at osu!catch. Thanks to this fact, the map also has a high replayability factor, as you won't tire out from playing the map all too quick. Pretty nice innit? Go check it out and see how your skill stacks up!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Kamikaze](https://osu.ppy.sh/users/2124783), [\_underjoy](https://osu.ppy.sh/users/2235750), [aitor98](https://osu.ppy.sh/users/3154852), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [TheToaphster](https://osu.ppy.sh/users/7616811)!
 

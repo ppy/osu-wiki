@@ -21,7 +21,7 @@ Klik musik, kemudian otomatis akan terbuka [beatmap editor](/wiki/Beatmap_Editor
 
 *Lihat juga: [Song Setup](/wiki/Song_Setup)*
 
-Ketika akan membuat [mapset](/wiki/Glossary) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
+Ketika akan membuat [mapset](/wiki/Beatmap) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
 
 Kamu harus mengisi informasi terlebih dahulu sebelum membuat [difficulty](/wiki/Beatmap/Difficulty) lain.
 Ini akan memastikan bahwa metadata konsisten di semua tingkat kesulitan dalam mapset.
@@ -46,7 +46,7 @@ Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.
 *Lihat juga: [Compose](/wiki/Compose)*
 
 Compose tab di dalam beatmap editor adalah tempat menghabiskan sebagian besar waktu kamu untuk membuat beatmap.
-Ini adalah tempat kamu meletakaan hit object secara visual dan mengatur beberapa [hitsounds](/wiki/Glossary)
+Ini adalah tempat kamu meletakaan hit object secara visual dan mengatur beberapa [hitsounds](/wiki/Beatmapping/Hitsound)
 
 ### Design
 

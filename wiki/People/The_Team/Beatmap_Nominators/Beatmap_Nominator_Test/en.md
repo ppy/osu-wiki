@@ -13,7 +13,7 @@ Test questions are pulled from a large pool of questions sorted by category. The
 - [Beatmap Nominator Rules](/wiki/People/The_Team/Beatmap_Nominators/Rules): 5 questions
 - [Mapping and Modding Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): 1 question
 - [General Ranking Criteria](/wiki/Ranking_Criteria#general) (*RC*): 1 question
-- [Spread RC](/wiki/Ranking_Criteria#beatmapset): 1 question
+- [Spread RC](/wiki/Ranking_Criteria#beatmap): 1 question
 - [Metadata RC](/wiki/Ranking_Criteria#metadata): 1 question
 - [Timing RC](/wiki/Ranking_Criteria#timing): 1 question
 - [Audio RC](/wiki/Ranking_Criteria#audio): 1 question

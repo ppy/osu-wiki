@@ -41,7 +41,7 @@ Di osu!mania, akurasi dikalkulasi mirip dengan [osu!](#-osu!).
 
 ## Grafik performa
 
-![Grafik performa](img/performance_graph.jpg "Grafik performa")
+![Grafik performa](img/performance_graph.png "Grafik performa")
 
 Grafik performa adalah sebuah grafik yang menampilkan performa pemain (berdasarkan bar nyawa) selama bermain (waktu). Informasi tambahan dapat ditampilkan dengan menunjuk kursor dalam-game di atasnya.
 
@@ -51,11 +51,11 @@ Grafik performa adalah sebuah grafik yang menampilkan performa pemain (berdasark
 
 Saat menunjuk di atas grafik performa, sebuah tooltip akan ditampilkan dengan *kesalahan* dan *laju tidak stabil*.
 
-Sebab saat mod [DT](/wiki/DT) (Double Time) dan [HT](/wiki/HT) (Half Time) diimplementasikan, nilai kesalahan dan laju tidak stabil akan dikalikan dengan faktor yang sama dengan lagu. Untuk mendapat nilai asli saat bermain DT, bagi hasil dengan 1.5. Sama halnya, kalikan hasil dengan 1.33 saat bermain HT.
+Sebab saat mod [DT](/wiki/Game_modifier/Double_time) (Double Time) dan [HT](/wiki/Game_modifier/Half_time) (Half Time) diimplementasikan, nilai kesalahan dan laju tidak stabil akan dikalikan dengan faktor yang sama dengan lagu. Untuk mendapat nilai asli saat bermain DT, bagi hasil dengan 1.5. Sama halnya, kalikan hasil dengan 1.33 saat bermain HT.
 
 #### Kesalahan
 
-Kesalahan akan selalu menampilkan dua nilai yang mewakili seberapa jauh hit lebih dahulu dari rata-rata dan seberapa jauh hit lebih lambat dari rata-rata. Semakin besar nilai [Overall Difficulty](/wiki/Overall_Difficulty) dari suatu beatmap, semakin kecil nilai kesalahan yang harus dilakukan saat bermain beatmap.
+Kesalahan akan selalu menampilkan dua nilai yang mewakili seberapa jauh hit lebih dahulu dari rata-rata dan seberapa jauh hit lebih lambat dari rata-rata. Semakin besar nilai [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) dari suatu beatmap, semakin kecil nilai kesalahan yang harus dilakukan saat bermain beatmap.
 
 #### Laju tidak stabil
 

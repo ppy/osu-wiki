@@ -10,7 +10,7 @@ Timing terdiri dari sebuah [offset](/wiki/Beatmapping/Offset) lagu, [beats per m
 
 ## Jendela Timing dan Control Point
 
-![Cuplikan Timing dan jendela Control Point](img/TimingSetup.jpg)
+![Cuplikan Timing dan jendela Control Point](img/TimingSetup.png)
 
 Timing point dapat ditambahkan dari jendela `Timing dan Control Points` di editor (pintasan default `F6`). Timing point membagi lagu menjadi beberapa bagian timing untuk mencerminkan perubahan keakuratan timing lagu.
 
