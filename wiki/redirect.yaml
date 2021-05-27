@@ -212,7 +212,7 @@
 "game_modifier/9k":            "Game_modifier/xk"
 "xk":                          "Game_modifier/xk"
 
-"accuracy":                    "Accuracy"
+"acc":                         "Accuracy"
 "approach_circle":             "Hit_object/Approach_circle"
 "aspire":                      "Contests/Aspire"
 "authentic":                   "Beatmap/Authentic"
@@ -312,6 +312,7 @@
 "mod_request":                 "Modding/Mod_request"
 "modder":                      "Modding/Modder"
 "modders":                     "Modding/Modder"
+"nc":                            "Game_modifier/Nightcore"
 "nuke":                        "Modding/Nuke"
 "offset":                      "Disambiguation/Offset"
 "offsets":                     "Disambiguation/Offset"
