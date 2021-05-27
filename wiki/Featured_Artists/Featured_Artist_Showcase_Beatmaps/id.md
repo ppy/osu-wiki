@@ -70,7 +70,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 
 ### Februari
 
-- **[HyuN](https://osu.ppy.sh/home/news/2019-02-05-new-featured-artist-hyun)** (2019-02-05)
+- **[HyuN](https://osu.ppy.sh/home/news/2019-02-05-new-featured-artist-hyun)** (2019-02-06)
   - (![][osu!]) [HyuN - Guitian](https://osu.ppy.sh/beatmapsets/891348#osu/1863256) diurus oleh ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308)
   - (![][osu!]) [HyuN - Illusion of Inflict](https://osu.ppy.sh/beatmapsets/891366#osu/1863289) diurus oleh ![][flag_EE] [schoolboy](https://osu.ppy.sh/users/8722791)
   - (![][osu!]) [HyuN - Infinity Heaven](https://osu.ppy.sh/beatmapsets/891345#osu/1863246) diurus oleh ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
@@ -235,7 +235,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 
 ### November
 
-- **[Se-U-Ra](https://osu.ppy.sh/home/news/2020-11-03-new-featured-artist-se-u-ra)** (2020-11-03)
+- **[Se-U-Ra](https://osu.ppy.sh/home/news/2020-11-03-new-featured-artist-se-u-ra)** (2020-11-04)
   - (![][osu!]) [Se-U-Ra - Qlifact -another-](https://osu.ppy.sh/beatmapsets/1224699#osu/2547134) diurus oleh ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
   - (![][osu!mania]) [Elif to Shiro Kura no Yoru -Called-](https://osu.ppy.sh/beatmapsets/1226466#mania/2550395) diurus oleh ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
 - **[glass beach](https://osu.ppy.sh/home/news/2020-11-07-new-featured-artist-glass-beach)** (2020-11-07)
@@ -317,7 +317,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!]) [Amidst - Fate](https://osu.ppy.sh/beatmapsets/1359944#osu/2814151) diurus oleh ![][flag_US] [Aeril](https://osu.ppy.sh/users/4334976)
   - (![][osu!]) [Amidst - Treat (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1345615#osu/2786730) diurus oleh ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)
   - (![][osu!]) [Amidst & OHEY - Need U (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1319384#osu/2733104) diurus oleh ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231)
-- **[Xanthochroid](https://osu.ppy.sh/home/news/2021-03-27-new-featured-artist-amidst)** (2021-03-27)
+- **[Xanthochroid](https://osu.ppy.sh/home/news/2021-03-31-new-featured-artist-xanthochroid)** (2021-03-31)
   - (![][osu!]) [Xanthochroid - The Sound of Hunger Rises](https://osu.ppy.sh/beatmapsets/1335143#osu/2766094) diurus oleh ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 
 ### April
