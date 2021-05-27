@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skinning Contest: Results Out"
-date: 2021-05-27 10:00:00 +0000
+date: 2021-05-27 12:00:00 +0000
 ---
 
 The ship full of skins is now back with your votes. Check out the results for our first-ever official skinning contest right here!
