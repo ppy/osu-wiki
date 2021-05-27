@@ -42,4 +42,4 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 - [Demandes de données](/wiki/Legal/Privacy#data-controller) et problèmes de confidentialité.
-- [Requêtes de suppression de compte](/wiki/Legal/Privacy#your-rights-and-control) **permanente** pour les utilisateurs résidant dans l'Union Européenne ([RGPD](https://fr.wikipedia.org/wiki/Règlement_général_sur_la_protection_des_données "Wikipédia")).
+- [Requêtes de suppression de compte](/wiki/Legal/Privacy#your-rights-and-control) **permanente**).
