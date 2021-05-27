@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: b2838074b1f2d665b800ca95ec522f75e2cbdd90
----
-
 # Hesap destek ekibi
 
 *Birtakım alt forumları modere eden ekip için, bakınız: [Destek Ekibi](/wiki/People/The_Team/Support_Team)*
@@ -47,4 +42,4 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 - [Veri talepleri](/wiki/Legal/Privacy#data-controller) veya gizlilik endişeleri.
-- AB vatandaşları için ([GDPR](https://tr.wikipedia.org/wiki/Genel_Veri_Koruma_Y%C3%B6netmeli%C4%9Fi "Vikipedi") kapsamında) **kalıcı** [hesap kaldırma talepleri](/wiki/Legal/Privacy#your-rights-and-control).
+- **Kalıcı** [hesap kaldırma talepleri](/wiki/Legal/Privacy#your-rights-and-control).
