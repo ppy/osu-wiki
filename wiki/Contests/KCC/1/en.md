@@ -24,21 +24,21 @@ The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping cont
 ### Contest rules
 
 - This contest is for osu!mania mode only.
-- Only Koreans can participate in this contest. If your profile flag is not showing that you're in Korea because of some reasons like foreign residence, you can still participate as long as you're able to verify that you are Korean.
-- You should pick a song that you want to map when you register. one song for Instrumental / Vocal each. You can map one of the two songs selected after the vote ends.
-- Submission must be loadable and readable by osu! client.
+- Only Koreans can participate in this contest. If your profile flag is not showing that you're in ![][flag_KR] South Korea for reasons like foreign residence, you can still participate as long as you're able to verify that you are Korean.
+- You should pick a song that you want to map when you register (one song for Instrumental / Vocal each). You can map one of those two songs after the voting ends.
+- The osu! client must be able to load and read your submission.
 - Submission must be in `.osz` format.
 - Custom hitsounds are allowed.
 - Title, Artist, MP3, Source, Tags and Background must NOT be modified. However, preview point can be customized.
-- No video, skin and storyboard are allowed. However, storyboard hitsounds are allowed.
+- Videos, skins and storyboards are NOT allowed. However, storyboard hitsounds can be modified.
 - Submission must be 4K ~ 9K.
-- Submission must be full comboed (1,000,000 score) by Auto mod.
-- Submission must be finished by the contestant only. No collaboration is allowed.
+- The Auto mod must be able to full combo (1,000,000 score) your submission.
+- Submission must be finished by the contestant alone. No collaboration is allowed.
 - Submission must not be uploaded to the osu! website through the Beatmap Submission System (BSS). All contest submissions are anonymous during the judging phases to avoid bias. 
-- One and only one difficulty is allowed. If multiple difficulties are submitted, only the one with the highest star difficulty will be accepted.
-- Only the following difficulty are allowed: Insane or Higher. Please check the Difficulty-specific Rule in the [ranking criteria](/wiki/Ranking_Criteria).
-- If you submit several maps, the last one would be your final entry.
-- Submitting entries means understanding and agreeing the ruleset above.
+- Only one beatmap difficulty is allowed. If multiple difficulties are submitted, then the one with the highest star difficulty will be accepted.
+- Only the following difficulties are allowed: Insane or higher. Please check the difficulty-specific rules in the [ranking criteria](/wiki/Ranking_Criteria).
+- If you submit several maps, the last one will be your final entry.
+- Submitting entries means understanding and agreement to the ruleset above.
 
 ## Song list
 
@@ -66,10 +66,10 @@ The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping cont
 
 For each eligible submitted difficulty, the juding panel will award points based on the following criteria:
 
-- **Expertise (25 pts):** How well does the submission demonstrate techniques regarding structure, music representation, flow, hitsounding, etc?
-- **Cohesion (25 pts):** How consistent is the submission regarding structure, music representation, flow, hitsounding etc especially between different sections?
-- **Creativity (25 pts):** How well does the submission show originality and uniqueness compared with the other submissions with reasonable respect to the playability?
-- **Judge's Impression (25 pts):** This is the part of the score left to the Judges’ personal preferences on the submission
+- **Expertise (25 pts):** How well does the submission demonstrate techniques regarding structure, music representation, flow, hitsounding, etc.
+- **Cohesion (25 pts):** How consistent is the submission regarding structure, music representation, flow, hitsounding etc especially between different sections.
+- **Creativity (25 pts):** How well does the submission show originality and uniqueness compared with the other submissions with reasonable respect to the playability.
+- **Judge's Impression (25 pts):** This is the part of the score left to the Judges’ personal preferences on the submission.
 
 ## Prizes
 

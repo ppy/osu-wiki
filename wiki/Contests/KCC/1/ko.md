@@ -6,7 +6,7 @@ tags:
 
 # Korean Charting Contest 2021
 
-![KCC2021 banner](img/banner.png)
+![KCC2021 배너](img/banner.png)
 
 **Korean Charting Contest 2021** (***KCC2021***) 은 한국인을 위한 osu!mania 매핑 대회입니다. 이 대회는 첫 번째 대회였습니다.
 
@@ -60,26 +60,26 @@ tags:
 
 ### 투표 결과
 
-![KCC2021 voting results](img/voteresult.jpg)
+![KCC2021 투표 결과](img/voteresult.jpg)
 
 ## 심사 기준
 
 심사 패널은 제출한 모든 맵에 대해 아래에 명시된 기준에 의거해 점수를 부여합니다:
 
-- **Expertise (25 pts):** 맵이 구조, 노래 표현, 흐름과 관련된 기술력을 얼마나 잘 보여주고 있는가?
-- **Cohesion (25 pts):** 맵이 구조, 음악 표현, 흐름에 대해 얼마나 일관성을 가지고 있는가?
-- **Creativity (25 pts):** 다른 맵과 비교했을 때 플레이성 면에서 독창성과 특별함을 가지고 있는가?
+- **Expertise (25 pts):** 맵이 구조, 노래 표현, 흐름과 관련된 기술력을 얼마나 잘 보여주고 있는가
+- **Cohesion (25 pts):** 맵이 구조, 음악 표현, 흐름에 대해 얼마나 일관성을 가지고 있는가
+- **Creativity (25 pts):** 다른 맵과 비교했을 때 플레이성 면에서 독창성과 특별함을 가지고 있는가
 - **Judge's Impression (25 pts):** 심사위원들의 개인적 선호도를 나타내는 점수
 
 ## 상품
 
 | 순위 | 상품 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1위") | 40,000 KRW, 프로필 뱃지 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2위") | 20,000 KRW |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3위") | 10,000 KRW |
+| ![금상](/wiki/shared/crown-gold.png "1위") | 40,000 KRW, 프로필 뱃지 |
+| ![은상](/wiki/shared/crown-silver.png "2위") | 20,000 KRW |
+| ![동상](/wiki/shared/crown-bronze.png "3위") | 10,000 KRW |
 
-![KCC2021 badge](img/badge.png)
+![KCC2021 뱃지](img/badge.png)
 
 ## 주최
 
@@ -94,9 +94,9 @@ tags:
 
 | 순위 | 매퍼 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1위") | ![][flag_KR] [11Bit](https://osu.ppy.sh/users/14804526) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2위") | ![][flag_KR] [Sherie](https://osu.ppy.sh/users/9113475) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3위") | ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008) |
+| ![금상](/wiki/shared/crown-gold.png "1위") | ![][flag_KR] [11Bit](https://osu.ppy.sh/users/14804526) |
+| ![은상](/wiki/shared/crown-silver.png "2위") | ![][flag_KR] [Sherie](https://osu.ppy.sh/users/9113475) |
+| ![동상](/wiki/shared/crown-bronze.png "3위") | ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008) |
 
 ## 링크
 
