@@ -1,12 +1,10 @@
----
-outdated: true
----
-
 # osu! Alumni
 
-**osu! Alumni** は彼らが貢献していたことを知らせるものです。 [Link](https://osu.ppy.sh/groups/16)
+**osu! Alumni**とは、その貢献が知られていても、今は亡き人たちのことです。財源があれば、町の広場にそれぞれのメンバーのための銅像を建てることができます。
 
-| Name | Epitaph |
+[osu! Alumniグループページ](https://osu.ppy.sh/groups/16)には、すべてのメンバーがリストアップされています。
+
+| 名前 | 過去の役職 |
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT、GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | チャットモデレーター |
@@ -87,7 +85,7 @@ outdated: true
 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | BAT、チャットモデレーター、QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | トーナメント運営 |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | トーナメント管理者 |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | BAT、チャットモデレーター |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
@@ -104,7 +102,7 @@ outdated: true
 | ![][flag_US] [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | トーナメント運営 |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | トーナメント管理者 |
 | ![][flag_MX] [Kai](https://osu.ppy.sh/users/4537) | BAT |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT、osu!media制作者 |
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
