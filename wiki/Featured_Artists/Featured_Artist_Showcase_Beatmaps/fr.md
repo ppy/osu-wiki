@@ -1,6 +1,6 @@
 # Vitrine des beatmaps des artistes associés
 
-Les membres de la [Mappers' Guild](/wiki/Mappers_Guild) créent parfois des "beatmaps vitrines" exclusives en utilisant des chansons et d'autres éléments des [artistes associés](/wiki/Featured_Artists) inédits d'osu!. Lorsqu'un artiste est annoncé publiquement, ces beatmaps sont publiées dans les [newsposts] (https://osu.ppy.sh/home/news) et font souvent l'objet d'une promotion sur le [Twitter @osugame] (https://twitter.com/osugame).
+Les membres de la [Mappers' Guild](/wiki/Mappers_Guild) créent parfois des "beatmaps vitrines" exclusives en utilisant des chansons et d'autres éléments des [artistes associés](/wiki/Featured_Artists) inédits d'osu!. Lorsqu'un artiste est annoncé publiquement, ces beatmaps sont publiées dans les [newsposts](https://osu.ppy.sh/home/news) et font souvent l'objet d'une promotion sur le [Twitter @osugame](https://twitter.com/osugame).
 
 Pour participer aux beatmaps de la vitrine des artistes associés, un membre de la Mappers' Guild doit accepter une [quête mystérieuse à durée limitée](/wiki/Mappers_Guild#quêtes) ou être directement invité à créer une beatmap après avoir atteint le niveau 1 (ou supérieur) du [rang de la guilde](/wiki/Mappers_Guild#récompenses).
 
@@ -238,7 +238,7 @@ Cet article répertorie tous les beatmaps vitrines qui ont été créés par les
 - **[Se-U-Ra](https://osu.ppy.sh/home/news/2020-11-03-new-featured-artist-se-u-ra)** (04/11/2020)
   - (![][osu!]) [Se-U-Ra - Qlifact -another-](https://osu.ppy.sh/beatmapsets/1224699#osu/2547134) organisé par ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
   - (![][osu!mania]) [Elif to Shiro Kura no Yoru -Called-](https://osu.ppy.sh/beatmapsets/1226466#mania/2550395) organisé par ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
-- **[glass beach](https://osu.ppy.sh/home/news/2020-11-07-new-featured-artist-glas  s-beach)** (07/11/2020)
+- **[glass beach](https://osu.ppy.sh/home/news/2020-11-07-new-featured-artist-glass-beach)** (07/11/2020)
   - (![][osu!]) [glass beach - bedroom community](https://osu.ppy.sh/beatmapsets/1080104#osu/2259739) organisé par ![][flag_US] [Dashyy-](https://osu.ppy.sh/users/6513356)
   - (![][osu!]) [glass beach - cold weather](https://osu.ppy.sh/beatmapsets/1280001#osu/2658939) organisé par ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
 - **[Fuki](https://osu.ppy.sh/home/news/2020-11-11-new-featured-artist-fuki)** (11/11/2020)
@@ -355,7 +355,7 @@ Dès sa création, la Mappers' Guild s'est fixé comme objectif principal de "cr
 
 Comme la Guilde elle-même fonctionnait à ses débuts sur la base d'une inscription fermée, l'accès aux contenus des artistes associéss à venir était souvent limité à une poignée de mappeurs qui étaient principalement du mode de jeu [osu!](/wiki/Game_mode/osu!); cependant, le [passage de la Guilde à un système d'inscription ouvert et automatisé au début de 2019](/wiki/Mapping_and_Modding_Timeline#march.5 ) a progressivement permis à de plus en plus de créateurs de participer à la création de beatmaps vitrines pour les futurs artistes associés au fil du temps, quel que soit leur mode de jeu.
 
-À partir de l'annonce de l'artiste associé [MYUKKE.] (https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) en décembre 2020, les nouvelles annonces d'artistes vedettes ont parfois commencé à présenter de courtes vidéos d'avant-première, souvent accompagnées d'une beatmap en guise de titre principal.
+À partir de l'annonce de l'artiste associé [MYUKKE.](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) en décembre 2020, les nouvelles annonces d'artistes vedettes ont parfois commencé à présenter de courtes vidéos d'avant-première, souvent accompagnées d'une beatmap en guise de titre principal.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
