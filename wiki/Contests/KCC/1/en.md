@@ -64,12 +64,12 @@ The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping cont
 
 ## Judging criteria
 
-For each eligible submitted difficulty, the juding panel will award points based on the following criteria:
+For each eligible submitted difficulty, the judging panel will award points based on the following criteria:
 
-- **Expertise (25 pts):** How well does the submission demonstrate techniques regarding structure, music representation, flow, hitsounding, etc.
-- **Cohesion (25 pts):** How consistent is the submission regarding structure, music representation, flow, hitsounding etc especially between different sections.
-- **Creativity (25 pts):** How well does the submission show originality and uniqueness compared with the other submissions with reasonable respect to the playability.
-- **Judge's Impression (25 pts):** This is the part of the score left to the Judges’ personal preferences on the submission.
+- **Expertise (25 pts):** How well the submission demonstrates techniques regarding structure, music representation, flow, hitsounding, etc.
+- **Cohesion (25 pts):** How consistent the submission is regarding structure, music representation, flow, hitsounding etc especially between different sections.
+- **Creativity (25 pts):** How well the submission shows originality and uniqueness compared with the other submissions with reasonable respect to the playability.
+- **Judges' Impression (25 pts):** This is the part of the score left to the Judges' personal preferences on the submission.
 
 ## Prizes
 
