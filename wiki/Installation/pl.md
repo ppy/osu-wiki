@@ -54,7 +54,7 @@ Możesz dodawać beatmapy na dwa sposoby - poprzez stronę internetową oraz pop
 
 ## Dodawanie skórek
 
-*Zobacz także: [Skórki](/wiki/Glossary#skin) oraz [Tworzenie skórek](/wiki/Skinning)*
+*Zobacz także: [Skórki](/wiki/Skin) oraz [Tworzenie skórek](/wiki/Skinning)*
 
 1. Przejdź do [podforum dot. skórek](https://osu.ppy.sh/community/forums/15) i znajdź skórkę, która ci się spodoba.
 2. Pobierz skórkę, która ci się podoba.

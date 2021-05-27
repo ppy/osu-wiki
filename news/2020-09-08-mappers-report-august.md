@@ -10,14 +10,14 @@ Another month, another Mappers' Report! Bringing you all kinds of news about all
 
 This month's issue of the Mappers' Report contains following topics:
 
-- **[Ranking Criteria Changes](#rc-changes)**
-- **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
-- **[Mappers' Showcase](#mappers-showcase)**
+- **[Ranking Criteria Changes](#ranking-criteria-changes)**
+- **[Within the Beatmap Nominators and NAT](#within-the-beatmap-nominators-and-nat)**
+- **[Mappers' Showcase](#mappers'-showcase)**
 - **[Mapping Contests](#mapping-contests)**
-- **[Around the Community](#around-community)**
+- **[Around the Community](#around-the-community)**
 - **[Conclusion](#conclusion)**
 
-## <a id="rc-changes"></a>Ranking Criteria Changes
+## Ranking Criteria Changes
 
 As every month, we're here to show you the latest changes to the Ranking Criteria.
 
@@ -56,7 +56,7 @@ As there weren't many Ranking Criteria changes this month, we would like to list
 - **[Change some duplicated phrases in 7K hard guidelines](https://osu.ppy.sh/community/forums/topics/1112674)**
 - **[Rule regarding omitting first bar line](https://osu.ppy.sh/community/forums/topics/1122014)**
 
-## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
+## Within the Beatmap Nominators and NAT
 
 ### BN Additions
 
@@ -75,7 +75,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 - **osu!catch:** [Dako](https://osu.ppy.sh/users/11081858)
 - **osu!mania:** [Kyousukee](https://osu.ppy.sh/users/8842107)
 
-## <a id="mappers-showcase"></a>Mappers' Showcase
+## Mappers' Showcase
 
 It's time again for the Mappers' Showcase! Similar to other months, we would like to present you some lesser-known mappers which are doing great content! 
 As we have now finished the first cycle with all modes and the Storyboarder showcase, we're going back to the beginning, starting again with the osu! game mode.
@@ -98,7 +98,7 @@ pocket's ranked map of [Sakuzyo - I am "End"](https://osu.ppy.sh/beatmapsets/627
 
 pocket- mainly maps songs from other rhythm games, and similar to the map mentioned above, they are really interesting maps to experience. So if you're interested in that, go check out pocket's pending and graveyard maps!
 
-## <a id="mapping-contests"></a>Mapping Contests
+## Mapping Contests
 
 This past month we've seen results for **Aspire**, another unique month of the **Monthly Beatmapping Contest** and another round concluded in the **osu! Beatmapping World Championship**! It's a lot of big events, and we'll be sure to fill you in on the details that you may have missed!
 
@@ -142,7 +142,7 @@ The osu! Beatmapping World Championship is still underway! With each month we're
 
 Do you know about mapping contests going on, or being announced soon? Then please let us know! We love to share contests with the public so that more people can enjoy them together. All contests welcome, even mode and language specific ones. You can find our submission form for contests over at the main [forum post](https://osu.ppy.sh/community/forums/topics/1027590)!
 
-## <a id="around-community"></a>Around the Community
+## Around the Community
 
 We're back with the "Around the Community" section, this time with an interesting project for all the modders! Should you have something worth including, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! We're happy to give it more attention in our news post!
 

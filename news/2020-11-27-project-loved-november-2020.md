@@ -14,12 +14,12 @@ Before we get into the maps selected for this month, the Project Loved Team woul
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207) and [waywern2012](https://osu.ppy.sh/users/5870453)! This round, all osu!standard beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
@@ -95,7 +95,7 @@ I think we all have this general understanding that sometimes the star rating of
 
 A lot of us already know of [the Ranked short version](https://osu.ppy.sh/beatmapsets/10112) of this song mapped by [Lesjuh](https://osu.ppy.sh/users/44308): with over 3 million plays, it's easily one of the most iconic old maps in the game. However, this modern take of the song by Mismagius takes the challenge to another level by mapping the 5-minute extended mix of the song at a star rating well beyond the Ranked one, resting just under 7 stars. The map is full of intense and creative alternating patterns and unique rhythms. Five times the length, five times the fun. What's not to love?
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [Raphalge](https://osu.ppy.sh/users/3918650)!
 
@@ -127,7 +127,7 @@ When I got on the bus I wasn't expecting such a smooth, graceful ride, but with 
 
 あのインターネットが遅いさんが超速いさんになって帰ってきました！（チートではないですよ）この譜面は、文字通り、超速い譜面...ですが、超遅い地帯もあり、プレイヤーの対応力が問われます。それはさながら時折不機嫌になる自分の家の回線のよう...ｗ 配色こそシンプルですが、超速で流れるノーツにあなたは耐えられるか！？7_7による"超速い"Remixと"超速い"mappingの双方が織りなす「パワー」に、今立ち向かうときです！
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Spectator](https://osu.ppy.sh/users/702598)!
 
@@ -165,7 +165,7 @@ Badis' maps have always posed some challenges to players, and this map is one of
 
 Kuzino is certainly a name that comes to mind when you think about old mappers that made lots of good quality maps. The ones that have been Loved already show that the community definitely enjoys their mapping style and *Chocolate* is no exception to the rule. This is a map that does not require speed like most of today's maps, but rather tests your timing and catcher control. Due to the hyperdash change back in 2012, some of the jumps became more tricky than necessary because of the timing needed to catch them, but it is still very much possible to get a full combo. Both older and newer players can fully enjoy and experience this map, so make sure to give it a shot!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Abraxos](https://osu.ppy.sh/users/5025064), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

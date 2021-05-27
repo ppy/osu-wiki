@@ -10,13 +10,13 @@ News news and even more news! The February issue of the Mappers' Report is here 
 
 This month's issue of the Mappers' Report contains the following topics:
 
-- **[Ranking Criteria Changes](#rc-changes)**
-- **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
-- **[Mappers' Showcase](#mappers-showcase)**
+- **[Ranking Criteria Changes](#ranking-criteria-changes)**
+- **[Within the Beatmap Nominators and NAT](#within-the-beatmap-nominators-and-nat)**
+- **[Mappers' Showcase](#mappers'-showcase)**
 - **[Mapping Contests](#mapping-contests)**
 - **[Conclusion](#conclusion)**
 
-## <a id="rc-changes"></a>Ranking Criteria Changes
+## Ranking Criteria Changes
 
 There's been more ranking criteria changes, and we're here to show you them all! Actually, there was just one this month.
 
@@ -40,7 +40,7 @@ However, we have new open proposals which need more input from the community, so
 - **[Re-Definition of "Stream"](https://osu.ppy.sh/community/forums/topics/1253956)**
 - **[Clarification regarding easy difficulty guideline](https://osu.ppy.sh/community/forums/topics/1238923)**
 
-## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
+## Within the Beatmap Nominators and NAT
 
 Here's a list of the recent additions and departures from the Beatmap Nominators, for all those who are looking for the latest in purple:
 
@@ -67,7 +67,7 @@ However, he will continue to be present within the mapping and modding community
 
 Thank you for all the hard work!
 
-## <a id="mappers-showcase"></a>Mappers' Showcase
+## Mappers' Showcase
 
 Welcome to the 3rd cycle of the Mappers' Showcase, where we aim to show you the secret gems that are criminally underrated mappers hiding away in the community at large. This week is all about osu!, so let's get cracking:
 
@@ -91,7 +91,7 @@ While these projects are on the older side, their newer beatmaps only continue t
 
 If you prefer technical finger control focused maps with pretty visuals, you should check out all of these and more to come from Smokebloke!
 
-## <a id="mapping-contests"></a>Mapping Contests
+## Mapping Contests
 
 Do you like mapping? Do you seek competition? Do you want osu!supporter or even a shiny new badge? Search no more! All this and much more is what you can get in this month's contests:
 

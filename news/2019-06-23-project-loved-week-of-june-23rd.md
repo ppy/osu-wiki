@@ -16,12 +16,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -110,7 +110,7 @@ Artificial voice screaming has never been so pleasant! *Soitogeta Android e* by 
 
 *GALAXY BURST* a mapset that may not be too well known among most casual players but many experienced players will see this as a treat today. This mapset originally was submitted with two difficulties, "creation." and "cessation." however it later gained a third guest difficulty from AtHeoN as "atheon's terminus." With all three difficulties leveling around the 7 star range, it's extremely easy to underestimate just how hard this mapset is. We're talking spaced cutstreams, zig-zag patterns, and extreme slider velocity changes. Not exactly the most welcoming sight, but man is it a blast to play.
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -154,7 +154,7 @@ This week, we have a high-BPM map that even the best may stumble at. This map, w
 
 上位勢も唸る、高BPM譜面が今週のpickに登場です！BPM290のストリームを叩き続けるこの譜面は、プレイヤーに休憩も許すことなく、体力を削り続けていきます。。。そう、この譜面をプレイするあなたに必要なのは、"体力"と"連打のスピード"でしょう。プレイヤーたちには、マルチやクリア目標としてこの譜面が良く使われています。それもあり、この譜面はEkoroの太鼓譜面の代表作の一つと言えます。
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -176,7 +176,7 @@ As one of the top catch players, Jervis also gave mapping a try. The map *aoyama
 
 ExGon is known for his bizarre mapping, and this map is no exception. In fact, I would argue that this is one of the most bizarre maps out there. Let's start with the most obvious gimmick: CS10. While it should never be recommended to use such a high CS, in this case, it works really well. The song is very calm and the AR is set to 0, which makes aiming for the fruits doable while still having room for correction. But it is not just the CS—the HP drain is also set to 10 which makes misses very unforgiving. Especially at the end of the map when the song picks up the pace and fruits occur during spinners, a lot of players will fail. There are also stacked fruits throughout the map which also drain the HP significantly when missed. The map is a difficult reading and precision challenge, so it won't be FCd easily. Although the whole idea sounds ridiculous at first—it is a really fun map, so make sure to give it a try!
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

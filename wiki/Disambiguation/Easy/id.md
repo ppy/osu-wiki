@@ -1,4 +1,4 @@
-# Easy (keambiguan)
+# Easy (disambiguasi)
 
 **Easy** mempunyai beberapa arti:
 

@@ -12,7 +12,7 @@ A beatmap's creator can mark their submissions as `Work in Progress` or `Pending
 
 Newer beatmappers usually need extensive modding to create beatmaps that meet the Ranked category's quality standards, and often they're required to recreate their beatmaps from scratch.
 
-Before being nominated for ranking, a beatmap needs to receive [hype](/wiki/Glossary#hype) posts from at least five different users.
+Before being nominated for ranking, a beatmap needs to receive [hype](/wiki/Beatmap/Hype) posts from at least five different users.
 
 ## Nominations
 
@@ -38,6 +38,6 @@ Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nomi
 
 ## Ranked
 
-Beatmapsets that have passed through the qualification stage have completed the ranking procedure. They have score leaderboards and reward players with performance points.
+Beatmaps that have passed through the qualification stage have completed the ranking procedure. They have score leaderboards and reward players with performance points.
 
 Ranked beatmaps are only unranked under exceptional circumstances when issues are found shortly after they reach Ranked status.

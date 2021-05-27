@@ -49,9 +49,9 @@ They are usually done with [Etna sliders](#etna-sliders), but can also be used w
 
 ### Short Repeating Sliders
 
-_Also known as: **Kick Slider**_
+*Also known as: **Kick Slider***
 
-_Not to be confused with [Hold Sliders](/wiki/Mapping_Techniques/Unrankable#hold-sliders)._
+*Not to be confused with [Hold Sliders](/wiki/Mapping_Techniques/Unrankable#hold-sliders).*
 
 Nominator(s): [kingcobra52](https://osu.ppy.sh/users/9934)
 
@@ -60,7 +60,7 @@ All sliders usually have the same number of repeats and fall on the whole or hal
 
 ### Slider Trains
 
-_Also known as: **Slider Fans**_
+*Also known as: **Slider Fans***
 
 Nominator(s): [MegaManEXE](https://osu.ppy.sh/users/951)
 
@@ -85,7 +85,7 @@ However, these are positioned so that the each slider moves away from the next s
 Nominator(s): [Mashley](https://osu.ppy.sh/users/41481)
 
 Cutting sliders consists of 2 sliders, usually 1 beat long and 1/2 a beat apart, that overlap each other.
-The second slider looks like it is _cutting through_ the other slider, hence the name.
+The second slider looks like it is *cutting through* the other slider, hence the name.
 
 ### Crumpled Sliders
 
@@ -117,7 +117,7 @@ Nominator(s): MetalMario201
 Rainbow sliders are large, arc-shaped sliders which generally take up half of the screen.
 These are best used in places with long, climactic, hold notes (sort of like spinners).
 
-[EBA](/wiki/Glossary#eba) was just full of these.
+[EBA](/wiki/iNiS_games) was just full of these.
 
 ### Slider Art
 

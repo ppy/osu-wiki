@@ -7,7 +7,7 @@ tags:
 
 # Bagaimana mengatasi masalah pada BSS
 
-Jika **[Sistem Submisi Beatmap](/wiki/Glossary#bss)** (***BSS***) tidak mengizinkan Anda mengunggah beatmap milik sendiri karena dikatakan bahwa map bukan milik Anda, maka lakukan hal berikut ini:
+Jika **[Sistem Submisi Beatmap](/wiki/Submission)** (***BSS***) tidak mengizinkan Anda mengunggah beatmap milik sendiri karena dikatakan bahwa map bukan milik Anda, maka lakukan hal berikut ini:
 
 1. Pergi ke folder beatmap.
    - Secara singkat dapat melalui [beatmap editor](/wiki/Beatmap_Editor) pada menu `File` lalu pilih opsi `Open Song Folder`.

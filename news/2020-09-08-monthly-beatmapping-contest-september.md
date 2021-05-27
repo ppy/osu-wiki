@@ -19,7 +19,7 @@ The Monthly Beatmapping Contest (*MBC*) is built with a lot of nuts and bolts. I
 
 ## Beatmapping
 
-### <a id="theme"></a>Theme
+### Theme
 
 Each month's contest usually features a mapping restriction, such as "no slider velocity changes" or "star rating cannot exceed 4.00". While these strict rules make for interesting competition, this month's contest is shaking up the formula with a *theme* instead of a *limitation*.
 
@@ -29,7 +29,7 @@ This month's theme: **every object should overlap another object.**
 
 Overlap every object with another object in whatever way you believe best expresses the theme. Screeners will consider how well the your map fits the theme and the "theme" judging category will be more heavily weighted.
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each MBC provides beatmappers a choice between 5 songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 

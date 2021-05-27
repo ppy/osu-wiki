@@ -4,7 +4,7 @@
 
 **AiMod** est un outil intégré à l'[éditeur de beatmap](/wiki/Beatmap_Editor) qui détecte les problèmes dans une [beatmap](/wiki/Beatmap). Il peut être ouvert via l'option de menu `Fichier` > `Ouvrir AiMod` ou les [raccourcis clavier](/wiki/Shortcut_key_reference) `Ctrl` + `Shift` + `A`.
 
-Si AiMod peut être utile pour détecter les problèmes de base d'une carte, il ne remplace pas le [modding](/wiki/Modding) réalisé par de vraies personnes. AiMod ne peut pas évaluer la qualité d'une carte ou détecter des problèmes complexes tels qu'un mauvais [patterning](/wiki/Beatmap/Pattern) ou [timing](/wiki/Guides/How_to_Time_Songs). Lorsque vous [créez une beatmap](/wiki/Beatmapping), il est recommandé de corriger d'abord les avertissements d'AiMod, puis de demander l'aide d'autres [moddeurs](/wiki/Glossary#modder).
+Si AiMod peut être utile pour détecter les problèmes de base d'une carte, il ne remplace pas le [modding](/wiki/Modding) réalisé par de vraies personnes. AiMod ne peut pas évaluer la qualité d'une carte ou détecter des problèmes complexes tels qu'un mauvais [patterning](/wiki/Beatmap/Pattern) ou [timing](/wiki/Guides/How_to_Time_Songs). Lorsque vous [créez une beatmap](/wiki/Beatmapping), il est recommandé de corriger d'abord les avertissements d'AiMod, puis de demander l'aide d'autres [moddeurs](/wiki/Modding/Modder).
 
 Le développement d'AiMod est généralement en retard par rapport aux normes de la communauté de mapping et aux [critères de classement](/wiki/Ranking_Criteria), et par conséquent, [certains de ses résultats sont considérés comme incorrects](#défauts).
 
@@ -169,7 +169,7 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 <!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
 
 - **AiMod ne peut pas détecter un grand nombre de problèmes** qui sont considérés comme non classables par les [critères de classement](/wiki/Ranking_Criteria), tels que les objets potentiellement mal rythmés, les hitsounds retardés, les fichiers d'arrière-plan de plus de 2,5 Mo, etc.
-- **AiMod peut vous avertir de l'absence de problèmes**, comme le fait que les mapsets nécessite deux difficultés du mode osu! sur une map [marathon](/wiki/Glossary#marathon) et que l'option [kiai time](/wiki/Beatmap_Editor/Kiai_Time) soit activée pendant moins de 15 secondes.
+- **AiMod peut vous avertir de l'absence de problèmes**, comme le fait que les mapsets nécessite deux difficultés du mode osu! sur une map [marathon](/wiki/Beatmap/Marathon) et que l'option [kiai time](/wiki/Beatmap_Editor/Kiai_Time) soit activée pendant moins de 15 secondes.
 - **Si `Check distance snap` est activé, AiMod ne vérifiera pas la distance snap entre les combos.**
 - **S'il y a plusieurs fichiers MP3 dans le dossier beatmap, AiMod peut vous avertir de la présence de plusieurs fichiers**, Toutefois, les fichiers MP3 peuvent également être utilisés pour des effets sonores tels que des applaudissements.
 

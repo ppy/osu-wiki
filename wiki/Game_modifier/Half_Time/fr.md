@@ -1,5 +1,7 @@
 ---
 stub: true
+outdated: true
+outdated_since: d70ed2a1ee643d5908b44860b9158f00c3de626f
 tags:
   - half time
   - mod

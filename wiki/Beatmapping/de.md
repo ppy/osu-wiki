@@ -32,7 +32,7 @@ Wenn du dir mit dem Timing nicht sicher bist, kontaktiere für Hilfe zuerst eine
 
 *Siehe auch: [Komponieren](/wiki/Compose)*
 
-Im "Compose"-Tab des Beatmapeditors wirst du wahrscheinlich den Großteil deiner Zeit beim Beatmapping verbringen. Dort kannst du nämlich Hitobjekte platzieren und deren [Hitsounds](/wiki/Glossary) verändern.
+Im "Compose"-Tab des Beatmapeditors wirst du wahrscheinlich den Großteil deiner Zeit beim Beatmapping verbringen. Dort kannst du nämlich Hitobjekte platzieren und deren [Hitsounds](/wiki/Beatmapping/Hitsound) verändern.
 
 ### Design
 

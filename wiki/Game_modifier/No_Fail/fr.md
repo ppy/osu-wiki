@@ -27,7 +27,7 @@ tags:
 
 *Attention : L'utilisation du mod No Fail réduit de 10 % le nombre de [points de performance](/wiki/Performance_Points) qu'il est possible de gagner.*
 
-Le mod **No Fail** est un [modificateur de jeu](/wiki/Game_modifier) qui empêche le joueur d'échouer sur les [beatmaps](/wiki/Beatmap). L'activation du mod No Fail rend le joueur incapable d'échouer à une [beatmap](/wiki/Beatmap) même si la [barre de vie](/wiki/Glossary#life-bar) tombe à zéro. Cependant, si le joueur n'a pas marqué de points pendant la beatmap, le jeu échouera.
+Le mod **No Fail** est un [modificateur de jeu](/wiki/Game_modifier) qui empêche le joueur d'échouer sur les [beatmaps](/wiki/Beatmap). L'activation du mod No Fail rend le joueur incapable d'échouer à une [beatmap](/wiki/Beatmap) même si la [barre de vie](/wiki/Glossary/Health_bar) tombe à zéro. Cependant, si le joueur n'a pas marqué de points pendant la beatmap, le jeu échouera.
 
 Ce mod a le même effet dans tous les [modes de jeu](/wiki/Game_mode).
 

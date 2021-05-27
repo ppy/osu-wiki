@@ -120,8 +120,8 @@ To use them:-
 **Note:**
 
 - Colour: "Permanent effect" - The colour you set will still be in effect even after it's timeline is over. This is quite useful for transparent image.
-- `.osb` (osu!beatmap event base): "Design" base (BG, Video, SB) for each difficulty of the beatmap set to follow.
-- `.osu` (osu!beatmap difficulty): Difficulty-specific file. Holds *a lot* of information.
+- `.osb`: "Design" base (BG, Video, SB) for each difficulty of the beatmap to follow.
+- `.osu`: Difficulty-specific file. Holds *a lot* of information.
 
 ### Centre (Storyboard of the beatmap)
 

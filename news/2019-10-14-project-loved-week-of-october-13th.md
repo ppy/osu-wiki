@@ -14,12 +14,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/QeAhD9mac_g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -62,7 +62,7 @@ This map is the definition of a well-executed gimmick. It's filled with overlapp
 
 Sharpen your high BPM aim, because you're going to need it to be in tip-top shape for this 264 BPM jump map. This high 9-star map has 3 distinct kiai sections with jumps that get harder each time. No streams in sight here, just the high-spacing jumps you'd expect out of a map with such a high star rating. Even if aim is your strong suit, all I can say is "good luck".
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2Gs3IeINhww?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -88,7 +88,7 @@ Coming to Loved this week is a huge collab hosted by Noko_BSF, with 22 mappers c
 
 *Mariquita Breakcore* by 7_7 is, to put it short, insanity materialized. With an extreme amount of 1/6+1/4 patterns, 1/8 doublets, and a respectable 220 BPM, this map is as hard as it gets for maps that are still manageable to full combo. While we expect the usual gods to eat this map like breakfast, we would love to see scores from other top players that look to show off their skills in a big manner. Enjoy!!
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2Gs3IeINhww?start=170&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -112,7 +112,7 @@ Minato Yukina is by no means a new face to the Loved section already boasting a 
 
 Whereas the other selected osu!catch map for this week's Loved round is from a mapper with quite some prestige both Loved and Ranked wise, I'd like to introduce you to someone that hasn't seen any kind of love lovin' as of yet! Enter Fauzan 2000, an Indonesian mapper that has been very steadily improving throughout 2019. He has made some very fun maps in this period, such as *The Pretender*. The map itself is very straightforward in its style, being fairly jump heavy throughout with some jump streams in the solo. It does make for a very comfortable and enjoyable experience, with high end players being able to really let loose with hidden and/or hardrock turned on. So do give this more obscure map a spin, as I'm sure most of you will definitely enjoy it!
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2Gs3IeINhww?start=328&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
