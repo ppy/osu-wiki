@@ -28,11 +28,11 @@ It is worth noting that you should avoid posting in Beatmap Nominators' queues u
 
 ## #modreqs
 
+*Warning: Do not spam requests in this channel, post a mod request in #modreqs once every hour or so.*
+
 #modreqs is a channel in the osu! chat where players can request mods on their maps by linking them with the `/np` command, along with a mod request type. While it is not the most effective method of finding mods, but modders and Beatmap Nominators are often on the lookout for good maps being linked in this channel to mod.
 
 #modreqs does not have the same functionality and userbase that it has had in the past, but it is still a useful method for obtaining mods, so it is worth a shot. While it is still full of normal mod requests, these days it is also commonly used for the other request types mentioned above in [types of mods](/wiki/Guides/Getting_Your_Map_Modded#types_of_mods).
-
-*Warning: Do not spam requests in this channel, post a mod request in #modreqs once every hour or so.*
 
 ## Directly asking other users
 
