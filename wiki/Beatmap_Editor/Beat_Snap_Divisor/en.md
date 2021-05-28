@@ -1,8 +1,8 @@
 # Beat Snap Divisor
 
-![Beat Snap Divisor in the editor](img/beat_snap_divisor.png)
+![Beat Snap Divisor in the editor](img/beat_snap_divisor.png "Beat Snap Divisor in the editor")
 
-The **Beat Snap Divisor** is a built-in editor functionality that ensures all [hit objects](/wiki/Hit_Object) are placed proportionally to the song's beats. It can be found in the upper-right portion of the editor screen, where it corresponds to the granularity of the objects on the [editor timeline](/wiki/Beatmap_Editor/Timelines); that is, a denser Beat Snap Divisor setting allows for more notes to be placed in the same measure and vice versa. 
+The **Beat Snap Divisor** is an editor setting that dictates the editor's behaviour in quantisizing hit objects based on the [Beat Snap](/wiki/Beatmap_Editor/Beat_Snap) principles. It can be found in the upper-right portion of the editor screen, where it corresponds to the granularity of the objects on the [editor timeline](/wiki/Beatmap_Editor/Timelines); that is, a denser Beat Snap Divisor setting allows for more notes to be placed in the same measure and vice versa. 
 
 The osu! editor supports eleven different Beat Snap Divisor settings as follows:
 
@@ -32,7 +32,7 @@ The 1/2 snap divisor allows for hit objects to be placed on *half beats* and its
 
 The 1/3 snap divisor allows for hit objects to be placed on *triplets*, which is the third fraction of a beat and its multiples (e.g. 1/3 and 2/3). It is represented by purple-coloured ticks on the editor timeline.
 
-Although relatively rare, there are some songs and music genres (e.g. swing jazz) that are primarily utilise this snap divisor throughout.
+Although relatively rare, there are some songs and music genres (e.g. swing jazz) that primarily utilise this snap divisor throughout.
 
 ## 1/4 snap divisor
 
@@ -62,7 +62,7 @@ This snap divisor is extremely uncommon out there and should be used with extrem
 
 The 1/6 snap divisor allows for hit objects to be placed on *double triplets*, which is the sixth fraction of a beat and its multiples (e.g. 1/6 and 5/6). It is represented by purple-coloured ticks on the editor timeline.
 
-Although relatively rare, there are some songs and music genres (e.g. swing jazz) that are primarily utilise this snap divisor throughout.
+Although relatively rare, there are some songs and music genres (e.g. swing jazz) that primarily utilise this snap divisor throughout.
 
 ## 1/7 snap divisor
 
