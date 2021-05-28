@@ -73,7 +73,7 @@ Deze combinaties werken overal:
 | `Shift` + `F2` | Keer terug naar de vorige willekeurig geselecteerde beatmap. |
 | `F3` | Opent de beatmap opties. |
 | `F5` | Verwerkt je beatmappen opnieuw (dit zou je kunnen vragen of je het zeker weet). |
-| `Shift` + `Delete` | Brengt de dialoog op om beatmappen te verwijderen. Dit vraagt of je de beatmapset (alle moeilijkheden), de geselecteerde moeilijkheid of alle beatmaps wilt verwijderen. |
+| `Shift` + `Delete` | Brengt de dialoog op om beatmappen te verwijderen. Dit vraagt of je de beatmap (alle moeilijkheden), de geselecteerde moeilijkheid of alle beatmaps wilt verwijderen. |
 | `Ctrl` + `1` | Verandert de gamemode naar [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Verandert de gamemode naar [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Verandert de gamemode naar [osu!catch](/wiki/Game_mode/osu!catch). |
@@ -85,9 +85,9 @@ Deze combinaties werken overal:
 | `Ctrl` + `F4` of `Ctrl` + `-` | Verlaagt de osu!mania scroll snelheid (terwijl je in de osu!mania mode zit). |
 | `Ctrl` + `Backspace` | Verwijdert het laatste woord in de zoekbalk. |
 | `Up/Down Arrow` | Selecteert de volgende beatmap omhoog/omlaag. |
-| `Left/Right Arrow` | Selecteert de volgende beatmapset omhoog/omlaag. |
+| `Left/Right Arrow` | Selecteert de volgende beatmap omhoog/omlaag. |
 | `Page Up/Down` | Scrollt de pagina omhoog/omlaag. |
-| `Enter` | Opent de huidige selectie, als je over een beatmapset of collectie groep hangt. Opent de geselecteerde moeilijkheid, als je een beatmap hebt geselecteerd. |
+| `Enter` | Opent de huidige selectie, als je over een beatmap of collectie groep hangt. Opent de geselecteerde moeilijkheid, als je een beatmap hebt geselecteerd. |
 | `Shift` + `Left/Right Arrow` | Opent de volgende/vorige groep. |
 | `Shift` + `Enter` | Opent of sluit de geselecteerde groep. |
 
@@ -280,7 +280,7 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `C` | Kopieert de geselecteerde sprite. |
 | `Ctrl` + `V` | Plakt de sprite op het huidige tijdstip. *Opmerking: Gekopieerde sprites zijn niet zichtbaar op de layer list totdat de beatmap is opgeslagen en herladen.* |
 | `Delete` | Verwijdert de geselecteerde sprite van de laag. |
-| `W`, `A`, `S`, `D` | Duwt de geselecteerde sprite omhoog, naar links, omlaag of naar rechts respectievelijk een [osu!pixel](/wiki/Glossary#osupixel). |
+| `W`, `A`, `S`, `D` | Duwt de geselecteerde sprite omhoog, naar links, omlaag of naar rechts respectievelijk een [osu!pixel](/wiki/osupixel). |
 
 ### Timing
 

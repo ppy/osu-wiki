@@ -26,7 +26,7 @@ tags:
 
 *Artikel utama: [Submisi Beatmap](/wiki/Submission)*
 
-Pembuat beatmap dapat [mengunggah](/wiki/Glossary#bss) kreasi mereka ke [daftar beatmap](https://osu.ppy.sh/beatmapsets) secara publik. Pada umumnya, setiap beatmap hanya dikaitkan pada [satu orang](/wiki/Beatmap/Beatmap_host) saja, tetapi tidak menutup kemungkinan adanya kerja sama pada beatmap tersebut: beberapa tingkat kesulitan dapat dibuat oleh orang lain dalam bentuk [kolaborasi](/wiki/Beatmap/Beatmap_collaborations) atau [terpisah](/wiki/Beatmap/Guest_difficulty).
+Pembuat beatmap dapat [mengunggah](/wiki/Submission) kreasi mereka ke [daftar beatmap](https://osu.ppy.sh/beatmapsets) secara publik. Pada umumnya, setiap beatmap hanya dikaitkan pada [satu orang](/wiki/Beatmap/Beatmap_host) saja, tetapi tidak menutup kemungkinan adanya kerja sama pada beatmap tersebut: beberapa tingkat kesulitan dapat dibuat oleh orang lain dalam bentuk [kolaborasi](/wiki/Beatmap/Beatmap_collaborations) atau [terpisah](/wiki/Beatmap/Guest_difficulty).
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 

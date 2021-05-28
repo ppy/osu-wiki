@@ -16,12 +16,12 @@ There's not much to say for this week, just business as usual—so GET THESE BEA
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 [![](/wiki/shared/news/2018-07-16-project-loved-week-of-july-15th/osu/sorairo-days-assertive-remix.jpg)](https://osu.ppy.sh/community/forums/topics/775630)
 
@@ -58,7 +58,7 @@ Double Pendulum is a gorgeous collaboration between rrtyui, Ameth Rianno, and Fi
 
 This is an impressive older 2012 collab set from Akemi\_Homura, Revy and Poggo, formerly known as Katty Pie. The bumping 190 BPM bass will send shivers to your spine matching well with the skull and crossbones hitcircles, the skull background, and the flashing skeleton storyboard. Having gone through the qualified section once in 2015 but never returning, this map is simply a delight to play all around.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 *All osu!taiko descriptions written by [Backfire](https://osu.ppy.sh/users/263110)*
 
@@ -92,7 +92,7 @@ There's really no way to expect what katacheh is going to bring to you in a map.
 
 A classic from the early days, Blaze is one of OnosakiHito's most popular maps. A lot of older players will recognize this map from the osu!taiko World Cup 2015, where it appeared in the finals NoMod pool. Long streams are the main course for this map, and it's really a treat for players who are more accustomed to the older style of difficulty presented in maps. Ono's mapping style has remained a style that is polarizing, for its authentic style feel, but we believe this is a map fit to be Loved!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 *All osu!catch descriptions written by [SartNYAN OwO XD](https://osu.ppy.sh/users/4100941)*
 
@@ -108,7 +108,7 @@ Feelin sky is definitely one of Spectator's more ambitious maps. Because this is
 
 dazzulay is not someone often seen in the limelight of osu!catch mapping, but that is not to say that his maps aren't great fun. With some excellent clean patterning that really fits the instruments of Unmei no Dark Side, dazzulay was able to create a very nice map that feels both very playable but still creative and different from your average run-of-the-mill map. It mainly consists of clean, not-too-challenging left-right patterns, some longer than usual sliders and your occasional jumping pattern. All in all, the song makes for an extremely accessible and fun map for the majority of the playerbase, and it definitely needs some attention!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 [![](/wiki/shared/news/2018-07-16-project-loved-week-of-july-15th/mania/circles-daikyi-vocal-cover.jpg)](https://osu.ppy.sh/community/forums/topics/775654)
 

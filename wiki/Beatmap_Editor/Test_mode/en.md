@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - editor
   - beatmapping
@@ -28,4 +27,4 @@ Playing a beatmap in test mode differs from playing it normally, as it will not 
 - The maximum possible combo a player could achieve on the beatmap.
 - Various shortcut controls.
 
-Test mode also differs from a standard play of a beatamp as it requires users to save their beatmap before playing, and allows users to watch the beatmap in "autoplay", which plays the beatmap just as the [Auto](/wiki/Game_modifier/Auto) mod would.
+Test mode also differs from a standard play of a beatmap as it requires users to save their beatmap before playing, and allows users to watch the beatmap in "autoplay", which plays the beatmap just as the [Auto](/wiki/Game_modifier/Auto) mod would.

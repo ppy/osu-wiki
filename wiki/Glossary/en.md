@@ -63,12 +63,6 @@ Placing an object closer than the beat spacing may trick the player into clickin
 
 To ensure consistent beat spacing, turn on the `Distance Snap` button on the right-hand side of the editor. You can choose a beat spacing value by holding `Alt` and sliding the selector at the top right until you reach the desired value. Note that the higher the value would allow a more difficult beatmap.
 
-### Beatmapset
-
-The collection of beatmaps that are packaged inside the `.osz` file. These beatmapsets are beatmaps that were created under the same mapper.
-
-Beatmapsets will always have the same music, sounds (if mapped), and video (if any) or storyboard (if any). However, do note that some beatmaps from a beatmapset may specifically contain a certain sounds, background images, or storyboards that are separate from the others.
-
 ### Bit Rate
 
 The number of bits per second that can be transmitted along a digital network. Almost every music file contains something called a "bit rate".
@@ -304,6 +298,7 @@ Geki(激), or *Elite Beat!*, is a scoring term used when you complete a [combose
 A grade, usually confused with "rank", is a letter-grade that represents the player's performance after playing a beatmap. It accompanies the total score at the result screen and appears in all lists where scores appear.
 
 From lowest to highest, the possible grades are D, C, B, A, S, Silver S, SS, and Silver SS.
+
 ### Graveyard
 
 A subforum for beatmaps that were abandoned. Graveyarded maps do not count towards a user's total upload limit. The owner may revive them by updating, which sends them back to being a Work in Progress. This requires having a free pending slot.
@@ -325,7 +320,7 @@ Guest difficulty, or *GD*, refers to any difficulty made by a creator for inclus
 There are many reasons for guest difficulties to exist:
 
 - Etiquette in the community can make it difficult for multiple creators to upload beatmaps of the same song around the same time.
-  - The guest creator, interested in creating a beatmap that song, may choose to contribute a difficulty to an existing work in progress beatmapset instead.
+  - The guest creator, interested in creating a beatmap that song, may choose to contribute a difficulty to an existing work-in-progress beatmap instead.
 - The guest creator may also decide, after-the-fact, upon playing the beatmap that they want to create a difficulty for it.
 - The guest creator did not want to put in the effort in creating the difficulties on their own, but would rather just create one and give it to another creator.
 
@@ -336,7 +331,7 @@ On the other hand, it may be the creator who wants a few guest difficulties:
 
 Guest difficulties are often requested by private messages in-game or via forum private messages. Guest difficulties can also be requested in the modding queues, especially those who are offering to do them.
 
-More than one guest creator is allowed to contribute to a beatmapset, including creators from any one of the four game modes. If an additional game mode is to be featured in a beatmapset, that game mode must have at least two difficulties that follows the [Ranking Criteria](/wiki/Ranking_Criteria). Each guest creator is also allowed to create more than one difficulty to contribute to the beatmapset, as long as the number of difficulty versions created by the guest creator does not exceed the number of difficulty versions of the creator/uploader (this is to determine who should upload the beatmapset).
+More than one guest creator is allowed to contribute to a beatmap, including creators from any one of the four game modes. If an additional game mode is to be featured in a beatmap, that game mode must have at least two difficulties that follows the [Ranking Criteria](/wiki/Ranking_Criteria). Each guest creator is also allowed to create more than one difficulty to contribute to the beatmap, as long as the number of difficulty versions created by the guest creator does not exceed the number of difficulty versions of the creator/uploader (this is to determine who should upload the beatmap).
 
 ## H
 
@@ -441,7 +436,7 @@ For all game modes (except osu!taiko), a sizeable part of the bar is also deplet
 
 *For other uses, see [Offset (disambiguation)](/wiki/Disambiguation/Offset).*
 
-An offset set for individual [beatmaps](/wiki/Beatmap), not the entire beatmapset itself. This is to offset the beatmap's offset alongside the global offset.
+An offset used for individual [difficulties](/wiki/Beatmap/Difficulty), not the entire beatmap itself. This is to move the difficulty's offset alongside the global offset.
 
 At the start of gameplay, you can change your local song offset by pressing:
 
@@ -740,7 +735,7 @@ A hit object that gives out 10 points. The amount of slider ticks used in a slid
 
 Spectate, or spec, is when someone watches another player playing a [beatmap](/wiki/Beatmap) in real time (with approx. 500ms delay). To spectate, open the extended chat and click on a grey user panel.
 
-For this to work, you will need to have a copy of the exact same beatmap the player you wish to spectate is playing. However, if you have an [osu!supporter](/wiki/osu!supporter) tag, the beatmapset will be downloaded and processed for you.
+For this to work, you will need to have a copy of the exact same beatmap the player you wish to spectate is playing. However, if you have an [osu!supporter](/wiki/osu!supporter) tag, the beatmap will be downloaded and processed for you.
 
 ### Spectator Aura
 
@@ -813,7 +808,7 @@ A type of beatmap that is designed for more than one person to play at the same 
 
 Each player is responsible for one comboset, where each hit object in that comboset is mapped to be extremely farther apart, making it nearly impossible to play by a single player. Therefore it becomes a challenge for elite players in terms of precision of jumping.
 
-TAG difficulties are usually named TAG in a beatmap set. TAG2 maps are meant for 2 players, while TAG4 maps (the hardest) are meant for 4 players.
+TAG difficulties are usually named TAG in a beatmap. TAG2 maps are meant for 2 players, while TAG4 maps (the hardest) are meant for 4 players.
 
 Note that TAG difficulties are unrankable because they are intentionally not designed for a single player. However, this has not stop users from trying.
 
@@ -883,7 +878,7 @@ For more information about upppy, see [upppy!](https://up.ppy.sh) **(NSFW: there
 
 Version has four meanings:
 
-- The specific [beatmap](/wiki/Beatmap) of the [beatmapset](#beatmapset).
+- The specific [difficulty](/wiki/Beatmap/Difficulty) of the [beatmap](/wiki/Beatmap).
   - This term can be used in place of beatmap to prevent disambiguation.
 - The version of a skin. (See [skin.ini](/wiki/Skinning/skin.ini#versions) for more details.)
 - The release date of your osu! client.

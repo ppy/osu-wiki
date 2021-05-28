@@ -1,23 +1,25 @@
----
-outdated: true
----
+# Onglet Timing 
 
-# Onglet Timing
+*Voir aussi : [Comment synchroniser les musiques](/wiki/Guides/How_to_Time_Songs)*
 
-*Voir également : [Comment timer les chansons](/wiki/How_to_time_songs)*
+![Capture d'écran de l'onglet "timing" dans l'éditeur](img/Timing_base-FR.jpg)
 
-![Menu Timing](img/Timing_base.jpg "Menu Timing")
+L'onglet **timing** de l'[éditeur de beatmap](/wiki/Beatmap_Editor) permet aux mappeurs de modifier les paramètres de timing d'une [beatmap](/wiki/Beatmap). La synchronisation est généralement la première étape de la création d'une nouvelle beatmap.
 
-Le timing d'un [beatmap](/wiki/Beatmap) consiste en un décalage de la chanson et un BPM (battements par minute). Le décalage de la chanson est la quantité de temps entre le début d'un fichier audio et le premier battement de la chanson. Le BPM de la chanson est essentiellement la vitesse de la chanson.
+Le timing est constitué du [décalage](/wiki/Beatmapping/Offset), des [battements par minute (BPM)](/wiki/Beatmapping/Beats_par_minute) et du [mètre](https://fr.wikipedia.org/wiki/Pulsation_(musique)) d'une chanson. Un timing correct sur les beatmaps est nécessaire pour que les joueurs puissent maintenir la [précision](/wiki/Gameplay/Accuracy) pendant qu'ils jouent. Les beatmaps mal timés ne peuvent pas passer par la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
-Un timing correct est impératif dans le processus de beatmapping pour permettre de placer les objets à temps avec le rythme.
+## Fenêtre Timing et Control Points
 
-## Setup
+![Screenshot de la fenêtre Timing et Control Points](img/TimingSetup.png)
 
-![Capture d'écran de la fenêtre "Chronométrage et points de contrôle"](img/TimingSetup.jpg "Le dialogue de configuration du timing montre les fluctuations du BPM de la map et les changements de jeu d'échantillons")
+Les points de timing peuvent être ajoutés à partir de la fenêtre `Timing and Control Points` de l'éditeur (raccourci par défaut `F6`). Les points de timing divisent un morceau en sections de synchronisation pour refléter précisément les changements de timing d'un morceau.
 
-Les sections de chronométrage vous permettent de varier le chronométrage dans la chanson. Il existe deux types de sections de chronométrage : une section de chronométrage régulier et une section de chronométrage hérité.
+### Points de timing non hérités
 
-Une section de chronométrage régulier est affichée sous forme de ligne rouge dans l'éditeur. Chaque beatmap doit en comporter au moins une. Cependant, certains beatmaps changent leur BPM pendant la chanson et nécessitent par conséquent plusieurs sections de chronométrage régulier.
+Un point de timing non hérité, affiché sous la forme d'une ligne rouge, est la base du BPM, de l'offset et du compteur d'une section de timing. Chaque beatmap doit comporter au moins une ligne rouge, mais certains morceaux en nécessitent plusieurs en raison d'une composition plus complexe ou d'imprécisions de timing dues à la performance en direct.
 
-Les sections de chronométrage héritées sont affichées sous forme de ligne verte dans l'éditeur. Elles ne permettent pas de modifier le timing de la carte des temps, mais se concentrent sur l'ajustement du timing de la chanson. Les sections de timing héritées vous permettent de modifier le volume [hitsound's](/wiki/hit_sound) de la carte des temps, les hitsounds eux-mêmes, [slider velocity](/wiki/slider_velocity), etc. pour cette section sans modifier le timing de la chanson (ce qui se produirait avec une section de timing normale). Ces deux types de sections de chronométrage sont aussi communément appelés respectivement *décalages rouges* et *décalages verts*.
+### Points de timing hérités
+
+Un point de timing hérité, affiché sous la forme d'une ligne verte, hérite des paramètres de BPM, d'offset et de compteur de la ligne rouge précédente. Les lignes vertes sont utilisées pour ajuster les paramètres de [slider velocity](/wiki/Hit_object/Slider_velocity) et des [hitsounds](/wiki/Beatmapping/Hitsound).
+
+Un point de timing hérité ne peut pas être placé avant un point non hérité, car il n'hériterait d'aucun paramètre.

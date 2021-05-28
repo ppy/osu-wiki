@@ -84,8 +84,8 @@ Some data types specific to osu!.db are defined below.
 | Int | Total time, in milliseconds |
 | Int | Time when the audio preview when hovering over a beatmap in beatmap select starts, in milliseconds. |
 | Timing point+ | An Int indicating the number of following Timing points, then the aforementioned Timing points. |
+| Int | Difficulty ID |
 | Int | Beatmap ID |
-| Int | Beatmap set ID |
 | Int | Thread ID |
 | Byte | Grade achieved in osu! standard. |
 | Byte | Grade achieved in Taiko. |

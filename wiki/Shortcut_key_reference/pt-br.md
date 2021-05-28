@@ -74,7 +74,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `Shift` + `F2` | Volta ao beatmap préviamente escolhio aleatoriamente. |
 | `F3` | Abre as opções de beatmap. |
 | `F5` | Reprocessa os beatmaps (isso talvez te peça confirmação para continuar). |
-| `Shift` + `Delete` | Mostra o diálogo de deletar beatmaps. Isso irá te perguntar se você deseja deletar o beatmapset (todas as dificuldades), o beatmap (a dificuldade selecionada), ou todos os beatmaps visíveis. |
+| `Shift` + `Delete` | Mostra o diálogo de deletar beatmaps. Isso irá te perguntar se você deseja deletar o beatmap (todas as dificuldades), o beatmap (a dificuldade selecionada), ou todos os beatmaps visíveis. |
 | `Ctrl` + `1` | Muda o modo de jogo para o [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Muda o modo de jogo para o [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Muda o modo de jogo para o [osu!catch](/wiki/Game_mode/osu!catch). |
@@ -88,7 +88,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `Setas para Cima/Baixo` | Seleciona o beatmap para cima/baixo respectivamente. |
 | `Setas para Esquerda/Direita` | Seleciona o beatmap para cima/baixo respectivamente. |
 | `Page Up/Down` | Scrolla/Rola a página para cima/baixo respectivamente. |
-| `Enter` | Confirma a seleção atual (se selecionando um beatmapset ou grupo de coleção) ou estando jogando a dificuldade (se selecionando sobre um beatmap). |
+| `Enter` | Confirma a seleção atual (se selecionando um beatmap ou grupo de coleção) ou estando jogando a dificuldade (se selecionando sobre um beatmap). |
 | `Shift` + `Setas para Esquerda/Direita` | Entra no grupo próximo/anterior. |
 | `Shift` + `Enter` | Expande ou diminui o grupo selecionado. |
 
@@ -281,7 +281,7 @@ Esses atalhos funcionam em qualquer lugar do editor:
 | `Ctrl` + `C` | Copia a sprite selecionada. |
 | `Ctrl` + `V` | Cola a sprite selecionada no tempo atual. *Nota: Sprites coladas não serão mostradas na lista de camadas até que o beatmap seja salvo e recarregado.* |
 | `Delete` | Remove a sprite selecionada da layer. |
-| `W`, `A`, `S`, `D` | Move a sprite selecionada para cima, esquerda, baixo ou direita respectivamente por um [osu!pixel](/wiki/Glossary#osupixel). |
+| `W`, `A`, `S`, `D` | Move a sprite selecionada para cima, esquerda, baixo ou direita respectivamente por um [osu!pixel](/wiki/osupixel). |
 
 ### Timing
 

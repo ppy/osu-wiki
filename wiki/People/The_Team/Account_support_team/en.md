@@ -42,4 +42,4 @@ You should contact this team regarding account-related topics that are out of yo
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 - [Data requests](/wiki/Legal/Privacy#data-controller) and privacy concerns.
-- **Permanent** [account deletion requests](/wiki/Legal/Privacy#your-rights-and-control) for EU residents ([GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation "Wikipedia") coverage).
+- **Permanent** [account deletion requests](/wiki/Legal/Privacy#your-rights-and-control).

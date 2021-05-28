@@ -1,12 +1,10 @@
----
-no_native_review: true
----
+<!-- TODO: needs to be combined with /wiki/Gameplay/Accuracy in some way -->
 
 # Précision
 
-<!-- TODO: les images pourraient être dans une police plus conviviale, la formulation est parfois trop ... verbeuse -->
+<!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
-La précision est une mesure de la cohérence d'un joueur. Il existe trois types de précision qu'un joueur peut avoir. L'un d'eux étant la précision de la beatmap qui dépend des scores obtenus. Un autre étant la précision globale du joueur qui est pesée pour permettre à de meilleurs scores de se démarquer davantage. Et enfin,la précision du joueur dépend des [Performance Points (pp)](/wiki/Performance_Points) qui dépend de la précision du score soumis.
+La précision est une mesure en pourcentage de la capacité d'un joueur à toucher des [hit objects](/wiki/Hit_object) à temps. Il peut y avoir deux types de précision : la précision sur une beatmap (qui dépend des résultats obtenus) et la précision globale du joueur (qui est pondérée pour permettre aux meilleurs scores de ressortir davantage).
 
 ## Modes de jeu
 
@@ -14,11 +12,11 @@ La précision est une mesure de la cohérence d'un joueur. Il existe trois types
 
 ![Précision = (50 \* nombre de 50s + 100 \* nombre de 100s + 300 \* nombre de 300s) / 300(nombre de 0s + nombre 50s + nombre de 100s + nombre de 300s)](img/accuracy_osu.png "Formule de précision pour osu!")
 
-Dans osu!, la précision est calculée en pondérant le jugement obtenu pour chaque objet touché par sa valeur et divisé par le montant maximum possible.
+Dans osu!, la précision est calculée en pondérant le jugement obtenu de chaque hit object et en le divisant par la valeur maximum qu'il est possible de réaliser.
 
-Référence pour un hit circle :
+Référence pour un seul hit circle :
 
-```text
+```
 300 -> 300 / 300 = 1   = 100.00%
 100 -> 100 / 300 = 1/3 =  33.33%
 50  ->  50 / 300 = 1/6 =  16.67%
@@ -27,52 +25,52 @@ Référence pour un hit circle :
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![Précision = 0.5(nombre de GOOD + nombre de GREAT) / (nombre de BAD + nombre de GOOD + nombre de GREAT)](img/accuracy_taiko.png "Formule de précision pour osu!taiko")
+![Précision = 0.5(nombre de GOOD + nombre de GREAT) / (nombre de BAD + nombre de GOOD + nombre de GREAT)](img/accuracy_taiko.png "La formule de la précision pour osu!taiko")
 
-Dans osu!taiko, la précision est calculée en prenant la somme de la précision des notes divisée par le nombre de notes. La précision des notes est la suivante: un GREAT (良) compte pour 100%, un GOOD (可) pour 50% (la moitié) et MISS/BAD (不可) pour 0% (ce qui rompt également le combo). Les durm rolls et les spinners n'influencent pas la précision.
+Dans osu!taiko, la précision est calculée en prenant la somme de la précision des notes (à quel point vous étiez proche de toucher la note à temps) divisée par le nombre total de notes marquées jusqu'à présent. Les précisions des notes sont étiquetées comme tel : GREAT (良) compte pour 100%, GOOD (可) compte pour 50% (half), et MISS/BAD (不可) compte pour 0% (ce qui casse aussi le combo). Les Drum rolls et spinners n'influencent pas la précision.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![Précision = (nombre de droplets + nombre de drops + nombre de fruits) / (nombre de missed droplets + nombre de missed drops + nombre de missed fruits + nombre de droplets + nombre de drops + nombre de fruits)](img/accuracy_catch.png "Formule de précision pour osu!catch")
+![Précision = (nombre de droplets + nombre de drops + nombre de fruits) / (nombre de droplets manqués + nombre de drops manqués + nombre de fruits manqués + nombre de droplets + nombre de drops + nombre de fruits)](img/accuracy_catch.png "La formule de la précision pour osu!catch")
 
-Dans osu!catch, la précision est calculée en prenant le total des objets touchés non-spinner collectés divisé par le nombre total d'objets non-spinner. Tous les objets touchés ont la même valeur, à l'exception des bananes, car ils font partie de l'objet fileur.
+Dans osu!catch, la précision est calculée en prenant le nombre total de hit objects non-spinner collectés, divisé par le nombre total d'objets non-spinner. Tous les hit objects ont la même valeur, à l'exception des bananes, car elles font partie des objets spinner.
 
-*Remarque pour les utilisateurs de l'API: pour calculer la précision dans osu!catch, le nombre de droplets est inférieur à `count50` et le nombre de droplets manquées est sous `countkatu`.*
+*Note pour les utilisateurs de l'API : Pour calculer la précision dans osu!catch, le nombre de droplets est sous la valeur `count50` et le nombre de droplets manquées est sous la valeur `countkatu`.*
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-![Accuracy = (50 \* nombre de 50s + 100 \* nombre de 100s + 200 \* nombre de 200s + 300 \* nombre de 300s + 300 \* nombre de MAXs) / 300(nombre de 0s + nombre de 50s + nombre de 100s + nombre de 200s + nombre de 300s + nombre de MAXs)](img/accuracy_mania.png "Formule de précision pour osu!mania")
+![Précision = (50 \* nombre de 50s + 100 \* nombre de 100s + 200 \* nombre de 200s + 300 \* nombre de 300s + 300 \* nombre de MAXs) / 300(nombre de 0s + nombre de 50s + nombre de 100s + nombre de 200s + nombre de 300s + nombre de MAXs)](img/accuracy_mania.png "La formule de la précision pour osu!mania")
 
-Dans osu!mania, la précision est calculée de la même manière que [osu!](#-osu!).
+Dans osu!mania, la précision est calculée d'une façon similaire que [osu!](#-osu!).
 
-Graphique de performance
+## Graphique de performance
 
-![Performance graph](img/performance_graph.jpg "Graphique de performance")
+![Graphique de performance](img/performance_graph.png "Le graphique de performance")
 
-Le graphique des performances est un graphique qui affiche les performances du joueur (en fonction de sa barre de vie) au cours d'une partie (temps). Des informations supplémentaires peuvent être affichées lorsque vous passez le curseur dans le jeu dessus.
+Le graphique de performance est un tableau qui affiche la performance du joueur (basée sur sa barre de vie) au cours d'une partie. Des informations supplémentaires peuvent être affichées en passant le curseur du jeu dessus.
 
-*Remarque: Les informations supplémentaires ne peuvent être affichées qu'après avoir joué une beatmap ou avoir regardé une relecture exportée. Après avoir quitté l'[écran des résultats](/wiki/results_screen), ces informations ne seront pas enregistrées.*
+*Remarque : les informations supplémentaires ne peuvent être consultées qu'après avoir joué une beatmap ou regardé un replay. Après avoir quitté l'[écran des résultats](/wiki/Interface#ranking-screen), ces informations ne seront pas sauvegardées.*
 
 ### Précision
 
-Lorsque vous survolez le graphique des performances, une info-bulle s'affiche avec une *Erreur* et *Taux instable*.
+Lorsque l'on passe la souris sur le graphique de performance, une infobulle s'affiche avec une icône d'évaluation `Error` et `Unstable Rate`.
 
-En raison de la façon dont les mods [DT](/wiki/DT) (Double Time) et [HT](/wiki/HT) (Half Time) sont implémentées, les valeurs d'erreur et de taux instable seront multipliées par le même facteur que le morceau. Pour obtenir les vraies valeurs lors de la lecture de DT, divisez les résultats par 1,5. De même, multipliez les résultats par 1,33 lorsque vous jouez HT.
+En raison de la manière dont les mods [DT](/wiki/Game_modifier/Double_time) (Double Time) et [HT](/wiki/Game_modifier/Half_time) (Half Time) sont introduits, les valeurs d'erreur et de taux d'instabilité seront multipliées par le même facteur que la chanson. Pour obtenir les vraies valeurs en jouant avec le mod DT, divisez les résultats par 1,5. De même, multipliez les résultats par 1,33 lorsque vous jouez avec le mod HT.
 
-#### Erreur
+#### Error
 
-L'erreur affichera toujours deux valeurs qui représentent à quelle distance les premiers hits étaient en moyenne et à quelle distance des derniers hits étaient en moyenne. Plus la valeur [Overall Difficulty](/wiki/Overall_Difficulty) de la beatmap est, plus les valeurs d'erreur devront être basses pour bien faire lors de la lecture de la beatmap.
+La valeur `Error` affichera toujours deux valeurs qui représentent l'écart moyen entre les premières frappes et les dernières frappes. Plus la valeur de l'[Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) de la beatmap est élevée, plus les valeurs d'Error devront être faibles pour réussir la beatmap.
 
-#### Taux instable
+#### Unstable Rate
 
-Le taux instable représente la cohérence du timing des hits, où les nombres inférieurs sont meilleurs (les meilleurs joueurs marquent souvent en dessous de 100). Notez que la valeur mesure la cohérence, pas la précision, donc de manière cohérente en frappant 15 ms plus tôt est la même qu'en invoquant systématiquement "à temps". La formule est essentiellement l'écart type des erreurs de hit (en millisecondes) multiplié par 10. [Sample code](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) un simple code est disponible comme référence, montrant comment osu-stable calcule le taux instable.
+La valeur `Unstable Rate` représente la constance du timing des hits, les chiffres les plus bas étant les meilleurs (les meilleurs joueurs obtiennent souvent un score inférieur à 100). Notez que la valeur mesure la constance, et non la précision, de sorte que toucher les hit objects régulièrement 15ms en avance est la même chose que les toucher régulièrement à temps. La formule est essentiellement l'écart type des erreurs de hit (en millisecondes), multiplié par 10. [Un code simple](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) est disponible comme référence, montrant comment osu-stable calcule les valeurs du taux d'instabilité.
 
 ### Spin
 
-*Note: Spin est seulement utiliser pour [osu!](/wiki/Game_mode/osu!).*
+*Note : Spin est uniquement utilisé pour [osu!](/wiki/Game_mode/osu!).*
 
-En plus de la précision, certaines informations concernant les spinners sont également visibles dans la même info-bulle.
+En plus de la précision, certaines informations concernant les spinners sont également visibles dans la même infobulle. <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
 
 #### Vitesse
 
-La vitesse représente le RPM moyen (tours par minute) sur tous les spinners de la beatmap. Max est le RPM le plus élevé atteint dans l'un des spinneurs Beatmap.
+La valeur `Speed` représente le RPM (Tours par minute) moyen de tous les spinners de la beatmap. La valeur `Max` est la valeur de RPM la plus élevée que le joueur a atteint tout les  spinners lors de la partie.

@@ -13,7 +13,7 @@ Los postulantes necesitan cumplir con una actividad de modeo, subir por lo menos
 Los Modders que apuntan a postular a los Beatmap Nominators deben de cumplir con el siguiente criterio:
 
 - Han estado modeando mapas activamente por lo menos durante los pasados 3 meses antes de postular.
-- Han acumulado por lo menos 150 o 200 [kudosu](/wiki/Glossary#kudosu!) en total, dependiendo del modo al que aplicarán.
+- Han acumulado por lo menos 150 o 200 [kudosu](/wiki/Modding/Kudosu) en total, dependiendo del modo al que aplicarán.
 - Han proporcionado de 2 a 4 de sus modeos, los que, según ellos, creen que los pueda calificar para ser parte de los Beatmap Nominators.
 
 ### Qué califica como un post de modeo

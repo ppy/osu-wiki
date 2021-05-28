@@ -12,7 +12,7 @@ outdated_since: 4cd9c01b0078a59837d338311a38226e0e8e5fbf
 
 Beatmaps worden verplaatst naar Loved door middel van een nominatie- en stemproces.
 
-Leden van het Project Loved Team, genaamd **captains**, nomineren regelmatig beatmapsets voor een specifieke spelmodus. Deze sets komen bijna altijd uit inzendingen van de osu! community. De huidige Loved inzendingsformulieren en -lijsten kunnen gevonden worden via deze links:
+Leden van het Project Loved Team, genaamd **captains**, nomineren regelmatig beatmaps voor een specifieke spelmodus. Deze sets komen bijna altijd uit inzendingen van de osu! community. De huidige Loved inzendingsformulieren en -lijsten kunnen gevonden worden via deze links:
 
 - [osu!/osu!taiko/osu!catch formulier](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
 - [osu!mania formulier](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform)
@@ -21,7 +21,7 @@ Leden van het Project Loved Team, genaamd **captains**, nomineren regelmatig bea
 
 *Opmerking: Als de toegang tot Google Forms beperkt is, kan je ook de [Project Loved Teamleden](/wiki/People/The_Team/Project_Loved_Team#team-members) contacteren om een map in te laten zenden namens jou.*
 
-Genomineerde beatmapsets worden dan op het [Project Loved forum](https://osu.ppy.sh/community/forums/120) gepost, waar leden van de community kunnen stemmen of ze de beatmapset in de Loved categorie willen of niet. Beatmaps die een bepaalde hoeveelheid "Ja"-stemmen behalen aan het einde van de stemming zullen verplaatst worden naar de Loved-categorie.
+Genomineerde beatmaps worden dan op het [Project Loved forum](https://osu.ppy.sh/community/forums/120) gepost, waar leden van de community kunnen stemmen of ze de beatmap in de Loved categorie willen of niet. Beatmaps die een bepaalde hoeveelheid "Ja"-stemmen behalen aan het einde van de stemming zullen verplaatst worden naar de Loved-categorie.
 
 ### Voorwaarden
 
@@ -37,7 +37,7 @@ Ondanks dat bijna alle beatmaps [In Afwachting (Pending) en In Uitvoering (WIP)]
 
 ### Nominatieprioriteit
 
-Er zijn geen strikte regels over welke beatmaps een captain moet nomineren voor Loved, maar meestal zijn de genomineerde maps zeer bekend en gewaardeerd door de comminity (zoals de titel "Loved" suggereert). Soms krijgt een beatmapset ook de voorkeur als ze veel ouder is dan andere sets of als de set beatmaps met unieke en kwaliteitsvolle mappingstijlen bevat.
+Er zijn geen strikte regels over welke beatmaps een captain moet nomineren voor Loved, maar meestal zijn de genomineerde maps zeer bekend en gewaardeerd door de comminity (zoals de titel "Loved" suggereert). Soms krijgt een beatmap ook de voorkeur als ze veel ouder is dan andere sets of als de set beatmaps met unieke en kwaliteitsvolle mappingstijlen bevat.
 
 ## Meer informatie
 

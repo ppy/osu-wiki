@@ -28,7 +28,7 @@ Full Beatmap Nominator dengan aktivitas nominasi dibawah minimum tidak akan dite
 
 ### Probationary Beatmap Nominator
 
-Masa percobaan digunakan untuk memantau Beatmap Nominator baru lebih dekat. Peran utama dari probationary Beatmap Nominators adalah membangun dasar sebagai seorang Beatmap Nominator dengan mempromosikan beatmap secara eksklusif pada proses ranking. Setidaknya satu full nominator harus dilibatkan dalam proses ranking untuk setiap beatmapset, jadi anggota probationary tidak dapat memberikan nominasi akhir terhadap beatmap yang mendapatkan nominasi dari anggota probationary lainnya.
+Masa percobaan digunakan untuk memantau Beatmap Nominator baru lebih dekat. Peran utama dari probationary Beatmap Nominators adalah membangun dasar sebagai seorang Beatmap Nominator dengan mempromosikan beatmap secara eksklusif pada proses ranking. Setidaknya satu full nominator harus dilibatkan dalam proses ranking untuk setiap beatmap, jadi anggota probationary tidak dapat memberikan nominasi akhir terhadap beatmap yang mendapatkan nominasi dari anggota probationary lainnya.
 
 Anggota baru Beatmap Nominator dimulai dengan masa percobaan selama satu bulan. Jika nominasi dan perilaku mereka memuaskan, mereka akan dipromposikan menjadi full Beatmap Nominator. Jika tidak, mereka akan tetap berada di masa percobaan selama satu bulan lagi atau dikeluarkan dari Beatmap Nominator.
 

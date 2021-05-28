@@ -23,13 +23,13 @@ Meskipun ada banyak cara untuk menemukan beatmap untuk di-mod, berikut ini merup
 
 ## Cara untuk melakukan mod
 
-Untuk melakukan mod pada sebuah beatmapset, mulailah dengan mengunduh versi terbaru dan buka [halaman diskusi](/wiki/Beatmap_Discussion)nya. Mainkan tingkat kesulitan yang ingin kamu mod dan ingatlah masalah apa saja yang kamu temukan. Setelah selesai, buka tingkat kesulitan tersebut di editor dan lakukan analisis untuk menemukan masalah lain.
+Untuk melakukan mod pada sebuah beatmap, mulailah dengan mengunduh versi terbaru dan buka [halaman diskusi](/wiki/Beatmap_Discussion)nya. Mainkan tingkat kesulitan yang ingin kamu mod dan ingatlah masalah apa saja yang kamu temukan. Setelah selesai, buka tingkat kesulitan tersebut di editor dan lakukan analisis untuk menemukan masalah lain.
 
-Saat kamu menemukan masalah, pilih objek hit tersebut, lalu gunakan pintasan salin (`Ctrl` + `C`) untuk menyalin informasi dari timestamp sebagai teks. Pada diskusi beatmap, tempel (`Ctrl` + `V`) timestamp sekaligus umpan balik dari kamu. Tab `Timeline` digunakan untuk masalah yang berkaitan dengan bagian tertentu dari sebuah beatmap, tab `Umum (Tingkat kesulitan ini)` digunakan untuk umpan balik pada bagian yang lebih besar dari sebuah beatmap, dan tab `Umum (Semua tingkat kesulitan)` digunakan untuk masalah yang berlaku untuk semua tingkat kesulitan pada sebuah beatmapset.
+Saat kamu menemukan masalah, pilih objek hit tersebut, lalu gunakan pintasan salin (`Ctrl` + `C`) untuk menyalin informasi dari timestamp sebagai teks. Pada diskusi beatmap, tempel (`Ctrl` + `V`) timestamp sekaligus umpan balik dari kamu. Tab `Timeline` digunakan untuk masalah yang berkaitan dengan bagian tertentu dari sebuah beatmap, tab `Umum (Tingkat kesulitan ini)` digunakan untuk umpan balik pada bagian yang lebih besar dari sebuah beatmap, dan tab `Umum (Semua tingkat kesulitan)` digunakan untuk masalah yang berlaku untuk semua tingkat kesulitan pada sebuah beatmap.
 
 Semua postingan mod harus membahas apa saja masalahnya, mengapa itu menjadi masalah, dan bagaimana cara memperbaikinya. Lihat [Kode Etik dalam Modding dan Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#membuat-postingan-mod) untuk detail lebih lanjut tentang cara membuat format postingan mod.
 
-Beatmapper biasanya memberikan [kudosu](/wiki/Glossary#kudosu!) ke postingan mod yang mereka anggap berguna dengan mengeklik tombol *jempol*. Statistik ini dapat dilacak pada profil setiap pengguna dan menjadi rujukan saat melamar untuk bergabung dengan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators).
+Beatmapper biasanya memberikan [kudosu](/wiki/Modding/Kudosu) ke postingan mod yang mereka anggap berguna dengan mengeklik tombol *jempol*. Statistik ini dapat dilacak pada profil setiap pengguna dan menjadi rujukan saat melamar untuk bergabung dengan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators).
 
 ## Jenis postingan mod
 

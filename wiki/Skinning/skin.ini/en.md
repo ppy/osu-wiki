@@ -133,7 +133,7 @@ Here is a classic example:
 | :-: | :-: |
 | ![](img/Sliderball_flip-0.gif) | ![](img/Sliderball_flip-1.gif) |
 
-Note that Reisen, the sliderball, does **not** flip when `0` is used. However, Reisen does flip when a `1` is used. Depending on what spite is used, you will either get a moonwalking sliderball, or one that turns around.
+Note that Reisen, the sliderball, does **not** flip when `0` is used. However, Reisen does flip when a `1` is used. Depending on what sprite is used, you will either get a moonwalking sliderball, or one that turns around.
 
 ### Numbers and Integers
 
@@ -399,7 +399,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 - `ScoreOverlap:`
   - Question: By how many pixels should the score numbers overlap?
   - Value: *integer*
-  - Default: `-2`
+  - Default: `0`
   - Notes:
     - Negative integers will add a gap.
 - `ComboPrefix:`
@@ -409,7 +409,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 - `ComboOverlap:`
   - Question: By how many pixels should the combo numbers overlap?
   - Value: *integer*
-  - Default: `-2`
+  - Default: `0`
   - Notes:
     - Negative integers will add a gap.
 

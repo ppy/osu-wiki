@@ -131,7 +131,7 @@
 
 ## August
 
-- Added [Tasha](https://osu.ppy.sh/users/17909541) to osu!taiko Beatmap Appreciation Team (2013-08-01) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
+- Added [Tasha](https://osu.ppy.sh/users/1031958) to osu!taiko Beatmap Appreciation Team (2013-08-01) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
 - Added [OnosakiHito](https://osu.ppy.sh/users/290128) to osu!taiko Beatmap Appreciation Team (2013-08-01)
 - Moved [Armin](https://osu.ppy.sh/users/105902) from Beatmap Appreciation Team to osu! Alumni (2013-08-02) <!-- https://osu.ppy.sh/community/forums/posts/2474589 -->
 - Moved [abalee](https://osu.ppy.sh/users/13103) from Beatmap Appreciation Team to osu! Alumni (2013-08-02)

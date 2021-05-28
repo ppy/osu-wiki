@@ -15,11 +15,11 @@ As dificuldades mais comuns criadas em Beatmapping são:
 - Hard
 - Insane
 
-Clicar em cada link vai exibir um conjunto de diretrizes em comum para [mappers](/wiki/Glossary) seguirem e se tornarem aptos a criar um beatmap divertido apropriado para o seu nível de [difficulty](/wiki/Beatmap/Difficulty)
+Clicar em cada link vai exibir um conjunto de diretrizes em comum para mappers seguirem e se tornarem aptos a criar um beatmap divertido apropriado para o seu nível de [difficulty](/wiki/Beatmap/Difficulty)
 
-Também não é incomum para [mappers](/wiki/Glossary) usarem uma [dificuldade](/wiki/Beatmap/Difficulty) com nome customizado em vez desses. (Como "Mario", por exemplo)
+Também não é incomum para mappers usarem uma [dificuldade](/wiki/Beatmap/Difficulty) com nome customizado em vez desses. (Como "Mario", por exemplo)
 
-Adicionalmente você poderá encontrar [Guest Difficulties](/wiki/Glossary) que são comummente classificado como dificuldade do mapper em questão (Por exemplo, Larto's Insane).
+Adicionalmente você poderá encontrar [Guest Difficulties](/wiki/Beatmap/Guest_difficulty) que são comummente classificado como dificuldade do mapper em questão (Por exemplo, Larto's Insane).
 
 Com a adição de modos Special, você poderá agora adicionar dificuldades específicas para cada modo no seu beatmap em vez da dificuldade padrão do osu!. É completamente possível encher um beatmap apenas com dificuldades de Taiko/Catch the Beat, se for providenciado também uma dificuldade Easy/Normal no mesmo.
 

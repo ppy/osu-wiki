@@ -36,9 +36,9 @@ Si estas usando Windows 7 de 64 bits, puede ser que tengas dificultades al insta
 - Intenta reinstalar la última versión de .NET Framework. [La puedes encontrar aquí](https://dotnet.microsoft.com/download).
 - Limpia tu computadora - Escanea con un antivirus, limpia los registros. Un buen programa para la limpieza general es CCleaner. Escanea tanto los archivos de tu computadora como tus registros. El instalador puede fallar si hay entradas en el registro de copias previas de osu! en tu sistema.
 
-## Agregar beatmapsets
+## Agregar beatmaps
 
-*Ver también: [Beatmaps](/wiki/Beatmap) y [Beatmapsets](/wiki/Glossary#beatmapset)*
+*Ver también: [Beatmaps](/wiki/Beatmap)*
 
 Hay dos maneras de agregar beatmaps, a través del sitio web o osu!direct (requiere [osu!supporter](/wiki/osu!supporter)).
 
@@ -46,10 +46,10 @@ Hay dos maneras de agregar beatmaps, a través del sitio web o osu!direct (requi
 
 1. Ve a la [página de listado de beatmaps](https://osu.ppy.sh/beatmapsets) e inicia sesión en el sitio web.
 2. Encuentra una canción que te guste tocar.
-3. Haz clic en el ícono de descarga para guardar el beatmapset en tu computadora.
-4. Ubica y abre el archivo del beatmapset, tiene una extensión `.osz`.
-   - Alternativamente, también puedes colocar el archivo beatmapset en el directorio `Songs` de la instalación de osu!.
-5. osu! se encargará automáticamente del resto y cargará el beatmapset.
+3. Haz clic en el ícono de descarga para guardar el beatmap en tu computadora.
+4. Ubica y abre el archivo del beatmap, tiene una extensión `.osz`.
+   - Alternativamente, también puedes colocar el archivo beatmap en el directorio `Songs` de la instalación de osu!.
+5. osu! se encargará automáticamente del resto y cargará el beatmap.
    - Si, por alguna razón, no los ves, presiona `F5` en [Modo Solo](/wiki/Interface#song-selection-screen) para volver a procesar tus mapas de ritmo.
 
 ### osu!direct
@@ -60,12 +60,12 @@ Hay dos maneras de agregar beatmaps, a través del sitio web o osu!direct (requi
 2. Encuentra una canción que te guste tocar.
 3. Haz doble clic en la canción en la lista o haz clic en `Descargar` a la derecha para descargarla.
    - Si no deseas descargar el video, haga clic en `DL NoVideo` en su lugar.
-4. Cuando osu! termine de descargar el beatmapset, lo cargará automáticamente si estás en modo Solo, en la pantalla [Song Selection](/wiki/Interface#song-selection-screen).
+4. Cuando osu! termine de descargar el beatmap, lo cargará automáticamente si estás en modo Solo, en la pantalla [Song Selection](/wiki/Interface#song-selection-screen).
    - Si, por alguna razón, no los ves, presiona `F5` en [Modo Solo](/wiki/Interface#song-selection-screen) para volver a procesar tus mapas de ritmo.
 
 ## Agregar Skins
 
-*Ver también: [Skins](/wiki/Glossary#skin) y [Skinning](/wiki/Skinning)*
+*Ver también: [Skins](/wiki/Skin) y [Skinning](/wiki/Skinning)*
 
 1. Dirígete a [subforos skinning](https://osu.ppy.sh/community/forums/15) y busca el aspecto que más te guste.
 2. Una vez que encuentres un skin, descárgalo.
