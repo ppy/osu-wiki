@@ -1,6 +1,3 @@
----
-outdated: true
----
 <!-- TODO: website updates, needs a review on the writing style -->
 
 # osu!supporter
@@ -49,6 +46,7 @@ After the transaction is completed, the Recent Activity section in your account 
 ![Usercard with osu!supporter](img/usercard.png "Usercard with osu!supporter")
 
 On the osu!web, the osu!supporter badge can be found next to the user avatar and in the usercard next to your country flag.
+The osu!supporter badge is changing depending on how much time you supported the game (If you support the game for less than 1 year, you have 1 heart, if you support the game for 1-5 years, you have 2 hearts, and you have 3 hearts if you support the game for more than 5 years).
 
 ### Checking your support status
 
