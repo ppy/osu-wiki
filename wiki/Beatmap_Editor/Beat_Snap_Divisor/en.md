@@ -2,7 +2,7 @@
 
 ![Beat Snap Divisor in the editor](img/beat_snap_divisor.png "Beat Snap Divisor in the editor")
 
-The **Beat Snap Divisor** is an editor setting that dictates the editor's behaviour in quantisizing [hit objects](/wiki/Hit_Object) based on the [Beat Snap](/wiki/Beatmap_Editor/Beat_Snap) principles. It can be found in the upper-right portion of the editor screen, where it corresponds to the granularity of the objects on the [editor timeline](/wiki/Beatmap_Editor/Timelines); that is, a denser Beat Snap Divisor setting allows for more notes to be placed in the same measure and vice versa. 
+The **Beat Snap Divisor** is an editor setting that determines the editor's behaviour in quantisizing [hit objects](/wiki/Hit_Object) based on the [Beat Snap](/wiki/Beatmap_Editor/Beat_Snap) principles. It can be found in the upper-right portion of the editor screen, where it corresponds to the granularity of the objects on the [editor timeline](/wiki/Beatmap_Editor/Timelines); that is, a denser Beat Snap Divisor setting allows for more notes to be placed in the same measure and vice versa. 
 
 The osu! editor supports eleven different Beat Snap Divisor settings as follows:
 
