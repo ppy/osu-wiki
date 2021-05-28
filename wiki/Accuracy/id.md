@@ -1,4 +1,8 @@
+<!-- TODO: needs to be combined with /wiki/Gameplay/Accuracy in some way -->
+
 # Akurasi
+
+<!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
 Akurasi adalah suatu pengukur konsistensi pemain untuk menekan [hit object](/wiki/Hit_object). Terdapat tiga jenis akurasi yang dimiliki pemain: akurasi keseluruhan pada beatmap, yang bergantung pada hit skor dari keseluruhan hit object yang diperoleh; akurasi keseluruhan pemain, yang ditimbang untuk memungkinkan skor yang lebih baik dan menonjol; dan akurasi [Performance Point (pp)](/wiki/Performance_Points) pada pemain, yang bergantung pada akurasi skor yang terkirim.
 
