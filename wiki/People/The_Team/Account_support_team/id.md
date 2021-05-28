@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 234321c76b4fe27bcd7d21524603a9d975701ecb
+---
+
 # Account support team
 
 *Untuk tim yang memoderasi subforum tertentu, kunjungi: [Support Team](/wiki/People/The_Team/Support_Team)*
