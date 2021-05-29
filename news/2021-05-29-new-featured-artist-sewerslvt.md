@@ -43,7 +43,7 @@ Play [this BPM-increasing beatmap](https://osu.ppy.sh/beatmapsets/1442626/) by [
 ### Lexapro Delirium
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/169/Newlove/Sewerslvt%20-%20Newlove.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/169/Draining%20Love%20Story%2FSewerslvt%20-%20Lexapro%20Delirium.mp3" type="audio/mpeg">
 </audio>
 
 ---
