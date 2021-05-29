@@ -1,14 +1,14 @@
 # Informations générales pour les Beatmap Nominators
 
-Êtes vous un [**Beatmap Nominator**](/wiki/People/The_Team/Beatmap_Nominators) *(BN)*, ou voulez-vous en devenir un ? Si la réponse est oui, vous êtes au bon endroit ! Cet article contient toutes les informations que vous aurez besoin en tant que nouveau Beatmap Nominator.
+Êtes vous un [**Beatmap Nominator**](/wiki/People/The_Team/Beatmap_Nominators) *(BN)*, ou voulez-vous en devenir un ? Si la réponse est oui, vous êtes au bon endroit ! Cet article contient toutes les informations que vous aurez besoin en tant que Beatmap Nominator.
 
 ## Liens importants
 
-- Les [règles des Beatmaps Nominators](/wiki/People/The_Team/Beatmap_Nominators/Rules) : Explique en détails à la fois ce qu'il faut faire, et ce qu'il ne faut pas faire - il vous est aussi préférable d'éviter de les briser en toutes situations, donc soyez sûr de les avoir lu attentivement ! Vous pourrez toujours demander à un membre de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) *(NAT)* si vous n'êtes pas sûr à propos de quelque chose et ils se feront une joie de vous aider.
-- Le [code de conduite pour le Mapping et le Modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) : En tant que BN, vous êtes censés être une figure exemplaire pour la communauté, quelqu'un que les autres admireront et respecteront, donc une faute peut vous conduire à un avertissement, ou pire, à vous faire expulser.
+- Les [règles des Beatmaps Nominators](/wiki/People/The_Team/Beatmap_Nominators/Rules) : Explique en détails à la fois ce qu'il faut faire, et ce qu'il ne faut pas faire - il vous est aussi préférable d'éviter de les briser en toutes situations, donc soyez sûr de les avoir lu attentivement ! Vous pourrez toujours demander à un membre de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) *(NAT)* si vous n'êtes pas sûr à propos de quelque chose, ils se feront une joie de vous aider.
+- Le [code de conduite pour le Mapping et le Modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) : En tant que BN, vous êtes censés être une figure exemplaire pour la communauté, quelqu'un que les autres admireront et respecteront. Un écart peut vous conduire à un avertissement, ou pire, à vous faire expulser.
 - Les [critères de classement](/wiki/Ranking_Criteria) : Si vous êtes déjà un BN, alors vous devriez déjà être familier avec ceci. Essentiellement, il sert à expliquer quels aspects du mapping sont ou ne sont pas autorisés dans la catégorie classée, ainsi qu'à inclure quelques directives générales que les gens doivent suivre dans la plupart des cas. 
-- [Informations sur le Veto pour une beatmap](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) : Pour les beatmaps avec des problèmes subjectifs de qualité qui ne violent pas nécessairement les règles ou les directives de classement, mais qui, selon vous, rendent la beatmap inéligible à la catégorie classée, le veto d'une beatmap permet de retirer la qualification d'une beatmap.
-- Le [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) : Un outil créé par ([Naxess](https://osu.ppy.sh/users/8129817)), un membre du NAT . Cet outil permet de vérifier un large éventail de problèmes rendant une beatmap non-classable, ainsi qu'une fonctionnalité de capture instantanée pour facilement comparer les versions d'une map, ce qui est utile lors des revérifications. **Cela ne doit pas remplacer la vérification d'une beatmap par vous même**, mais plutôt être utilisé comme un outil de double-vérification au cas-où vous auriez loupé quelque chose.
+- [Informations sur le Veto pour une beatmap](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) : Pour les beatmaps avec des problèmes subjectifs de qualité qui ne violent pas nécessairement les règles ou les directives de classement, mais qui, selon vous, rendent la beatmap inéligible à la catégorie classée. Le veto d'une beatmap permet de retirer la qualification d'une beatmap.
+- Le [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895) : Un outil créé par ([Naxess](https://osu.ppy.sh/users/8129817)), un membre du NAT. Cet outil permet de vérifier un large éventail de problèmes rendant une beatmap non-classable, ainsi qu'une fonctionnalité de capture instantanée pour facilement comparer les versions d'une map, ce qui est utile lors des revérifications. **Cela ne doit pas remplacer la vérification d'une beatmap par vous même**, mais plutôt être utilisé comme un outil de double-vérification au cas-où vous auriez loupé quelque chose.
 
 ## Les capacités des Beatmap Nominators
 
@@ -16,13 +16,14 @@ Les nominations et les resets de nominations démontrent les efforts d'un BN lor
 
 ### Nominer
 
-![bouton de nomination](img/nominate.png)
+![Bouton de nomination](img/nominate-FR.png "Merci à Zelq pour la photo")
 
 **Ce bouton vous permet de nominer des maps.** Pour nominer une beatmap, cette dernière doit avoir au moins 5 Hype et aucun problèmes ou de suggestions non résolu. Assurez vous que vous êtes satisfait de toutes les difficultés, de même pour les autres modes de jeu, avant d'utiliser ce bouton. Si la beatmap a fait l'objet d'un veto par le passé, vous devez faire attention à ce que le veto soit retiré avant de faire avancer une beatmap. Quand une beatmap possède 2 nominations, elle sera qualifiée et entrera dans la file d'attente pour le classement.
 
 ### Disqualifier ou réinitialiser la nomination
 
-![boutons de disqualification et de réinitialisation](img/reset_dq.png)
+![Bouton de disqualification](img/reset_d-FR.png "Merci à Zelq pour la photo")
+![Bouton de réinitialisation de la nomination](img/reset_q-FR.png "Merci à Zelq pour la photo")
 
 **Cela vous permet de réinitialiser la progression d'une beatmap dans le processus de classement.** Si une beatmap est actuellement nominée ou qualifiée, vous en tant que nominateur avez la responsabilité de réinitialiser la nomination d'une beatmap en postant un problème. Si une beatmap est qualifiée, elle ne peut être disqualifiée que par un BN non probatory. Ces options sont généralement utilisées quand il y a un problème majeur ou inclassable qui doit être résolu avant d'envisager le classement.
 
@@ -31,7 +32,7 @@ Les nominations et les resets de nominations démontrent les efforts d'un BN lor
 - Assurez vous que vous êtes sur la discussion de la beatmap pour la bonne difficulté.
 - Écrivez votre raison de disqualification dans le champ prévu à cet effet. Assurez vous que la première ligne résume la disqualification car c'est ce qui est affiché en haut de la page de discussion.
 - Si la disqualification est liée à un rapport, associez également le(s) post(s) de discussion de beatmaps respectifs.
-- Appuyez sur le bouton "**Disqualify**"  en dessous du champ de texte (celui qui remplace le bouton "Problème").
+- Appuyez sur le bouton "**Disqualifier**"  en dessous du champ de texte (celui qui remplace le bouton "Problème").
 
 De plus, vous pouvez également ajouter un [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) sur une beatmap, l'empêchant d'être renominée jusqu'à ce que vous donniez une permission spéciale ou que le veto soit retiré par la médiation du veto. Cependant, placer un veto demande aussi que vous discutiez correctement du problème avec le mappeur et que vous essayiez de parvenir à un consensus. Discuter du problème avec le nominateur original pourrait vous donner un nouveau point de vue sur la question, mais vous n'êtes pas obligé de le faire.
 
@@ -53,4 +54,4 @@ Tous les BN peuvent contribuer à la modération des musiques ou des images soit
 
 ### Évaluations simulées
 
-Les Full BN peuvent être assignés au hasard pour faire des évaluations simulées sur les requêtes des BN aux côtés des vrais du NAT. Ils peuvent choisir de ne pas y participer à tout moment, et il n'est pas nécessaire de faire des évaluations assignées. Les évaluations simulées sont principalement utilisées comme informations pour le NAT pour évaluer les futurs membres du NAT, bien que les détails présentés dans les évaluations simulées puissent être ajoutées à l'occasion aux commentaires des candidats ou servir de bris d'égalité si le NAT ne peut pas se décider par lui-même.
+Les BN non probatory peuvent être assignés au hasard pour faire des évaluations simulées sur les requêtes des BN aux côtés de membres du NAT. Ils peuvent choisir de ne pas y participer à tout moment, et il n'est pas nécessaire de faire des évaluations assignées. Les évaluations simulées sont principalement utilisées comme informations pour le NAT pour évaluer les futurs membres du NAT, bien que les détails présentés dans les évaluations simulées puissent être ajoutées à l'occasion aux commentaires des candidats ou servir de bris d'égalité si le NAT ne peut pas se décider par lui-même.
