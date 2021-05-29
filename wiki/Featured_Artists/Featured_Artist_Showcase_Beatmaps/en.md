@@ -348,6 +348,8 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!mania]) [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1126358) hosted by ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)
 - **[yukitani](https://osu.ppy.sh/home/news/2021-05-22-new-featured-artist-yukitani)** (2021-05-22)
   - (![][osu!taiko]) [yukitani - Amusing Reflection Rag.](https://osu.ppy.sh/beatmapsets/1436446) hosted by ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011)
+- **[Sewerslvt](https://osu.ppy.sh/home/news/2021-05-29-new-featured-artist-sewerslvt)** (2021-05-29)
+  - (![][osu!taiko]) [Sewerslvt - Newlove](https://osu.ppy.sh/beatmapsets/1442626) hosted by ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
 
 ## History
 
