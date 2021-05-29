@@ -25,25 +25,25 @@ Ingest **Sewerslvt**'s music:
 Play [this BPM-increasing beatmap](https://osu.ppy.sh/beatmapsets/1442626/) by [DTM9 Nowa](https://osu.ppy.sh/users/5428909). It's in the video above too.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/169/Newlove/Sewerslvt%20-%20Newlove.mp3" type="audio/mpeg">
 </audio>
 
 ### Cyberia Lyr1
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/169/Cyberia%201+2=3/Sewerslvt%20-%20Cyberia%20Lyr1.mp3" type="audio/mpeg">
 </audio>
 
 ### The Grilled Fish's Ballad
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/169/Selected%20Sewer%20Works%20(2017-19)/Sewerslvt%20-%20The%20Grilled%20Fish's%20Ballad.mp3" type="audio/mpeg">
 </audio>
 
 ### Lexapro Delirium
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/169/Newlove/Sewerslvt%20-%20Newlove.mp3" type="audio/mpeg">
 </audio>
 
 ---
