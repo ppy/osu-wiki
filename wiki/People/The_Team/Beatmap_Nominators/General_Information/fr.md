@@ -16,14 +16,14 @@ Les nominations et les resets de nominations démontrent les efforts d'un BN lor
 
 ### Nominer
 
-![Bouton de nomination](img/nominate-FR.png "Merci à Zelq pour la photo")
+![Bouton de nomination](img/nominate-fr.png "Merci à Zelq pour la photo")
 
 **Ce bouton vous permet de nominer des maps.** Pour nominer une beatmap, cette dernière doit avoir au moins 5 Hype et aucun problèmes ou de suggestions non résolu. Assurez vous que vous êtes satisfait de toutes les difficultés, de même pour les autres modes de jeu, avant d'utiliser ce bouton. Si la beatmap a fait l'objet d'un veto par le passé, vous devez faire attention à ce que le veto soit retiré avant de faire avancer une beatmap. Quand une beatmap possède 2 nominations, elle sera qualifiée et entrera dans la file d'attente pour le classement.
 
 ### Disqualifier ou réinitialiser la nomination
 
-![Bouton de disqualification](img/reset_d-FR.png "Merci à Zelq pour la photo")
-![Bouton de réinitialisation de la nomination](img/reset_q-FR.png "Merci à Zelq pour la photo")
+![Bouton de disqualification](img/reset_d-fr.png "Merci à Zelq pour la photo")
+![Bouton de réinitialisation de la nomination](img/reset_q-fr.png "Merci à Zelq pour la photo")
 
 **Cela vous permet de réinitialiser la progression d'une beatmap dans le processus de classement.** Si une beatmap est actuellement nominée ou qualifiée, vous en tant que nominateur avez la responsabilité de réinitialiser la nomination d'une beatmap en postant un problème. Si une beatmap est qualifiée, elle ne peut être disqualifiée que par un BN non probatory. Ces options sont généralement utilisées quand il y a un problème majeur ou inclassable qui doit être résolu avant d'envisager le classement.
 
