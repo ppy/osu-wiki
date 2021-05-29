@@ -1,12 +1,8 @@
----
-outdated: true
-outdated_since: 61b0c342e9a9244a87adbf828967a99d14d7bcbe
----
+# Legal
 
-# Informations légales
+Page d'index pour tous les articles juridiques. Leurs liens se trouvent également dans le pied de page du site d'osu!
 
-Page listant tous les articles sur les informations légales d'osu!. Ces articles peuvent aussi être trouvés en bas de chaque page du site internet d'osu!.
-
-- [Politique des droits d'auteur d'osu!](Copyright)
+- [Politique de droit d'auteur d'osu!](Copyright)
+- [Licence musicale d'osu!](Music_Licensing)
 - [Politique de confidentialité d'osu!](Privacy)
-- [Conditions générales d'utilisation d'osu!](Terms)
+- [Conditions d'utilisation d'osu!](Terms)
