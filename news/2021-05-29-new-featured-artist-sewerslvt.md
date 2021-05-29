@@ -6,7 +6,7 @@ date: 2021-05-29 08:00:00 +0000
 
 **Sewerslvt** joins the Featured Artist roster.
 
-![](https://assets.ppy.sh/artists/169/header.jpg)
+![](https://assets.ppy.sh/artists/169/header.jpg?2021)
 
 **Sewerslvt** creates music. You listen to **Sewerslvt**'s music. You create beatmaps using **Sewerslvt**'s music.
 
