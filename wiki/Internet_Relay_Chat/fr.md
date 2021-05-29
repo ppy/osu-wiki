@@ -56,7 +56,7 @@ osu!Bancho utilise une authentification en texte brut - assurez-vous qu'aucun mo
 
 Alternativement, utilisez une adresse de serveur différente, `cho.ppy.sh` (vous vous connecterez toujours à osu!Bancho).
 
-### Je reçois l'erreur "Bad Authentication Token".
+### Je reçois l'erreur "Bad Authentication Token"
 
 Essayez ce qui suit :
 

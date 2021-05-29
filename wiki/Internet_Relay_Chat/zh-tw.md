@@ -40,6 +40,7 @@ no_native_review: true
 ## 停用 JOIN/PART/QUIT 通知
 
 預設情況下，許多 IRC 客戶端會在其他使用者加入或離開頻道時通知你。對於 osu!Bancho 這種隨時有幾千名使用者進出的網路來說，這些通知會洗版，影響你正常使用。以下是如何在常見的 IRC 客戶端中停用這些通知的方法：
+
 | IRC 客戶端 | 說明 |
 | :-- | :-- |
 | [HexChat](https://hexchat.github.io/ "GitHub") | 在 `Settings` -> `Preferences` -> `Chatting` -> `General` 勾選 "Hide join and part messages" (Advanced pre-2.9.6) |
