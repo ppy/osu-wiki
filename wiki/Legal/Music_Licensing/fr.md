@@ -22,7 +22,7 @@ Lorsqu'ils soumettent des niveaux, les créateurs sont invités à obtenir l'aut
 
 ## Conditions de licence pour les artistes associés
 
-La licence musicale d'osu! peut être téléchargée gratuitement depuis la page [Artistes Associés] (https://osu.ppy.sh/beatmaps/artists) dans des fichiers `.osz`, qui sont des modèles de beatmap. Un aperçu d'une minute généré automatiquement de chaque morceau est disponible en streaming sur la page de l'artiste. Les chansons étant utilisées comme un catalogue permettant aux membres de la communauté de créer des beatmaps, il se peut que certaines d'entre elles ne soient pas immédiatement utilisées comme contenu dans le jeu.
+La licence musicale d'osu! peut être téléchargée gratuitement depuis la page [Artistes Associés](https://osu.ppy.sh/beatmaps/artists) dans des fichiers `.osz`, qui sont des modèles de beatmap. Un aperçu d'une minute généré automatiquement de chaque morceau est disponible en streaming sur la page de l'artiste. Les chansons étant utilisées comme un catalogue permettant aux membres de la communauté de créer des beatmaps, il se peut que certaines d'entre elles ne soient pas immédiatement utilisées comme contenu dans le jeu.
 
 Nous cherchons à couvrir l'utilisation dans le jeu, le site web associé et le contenu vidéo. Notez que cela ne couvre pas nécessairement l'utilisation ultérieure sur d'autres plateformes dans les cas où un profit est impliqué. Certains artistes peuvent demander une participation aux bénéfices dans de tels cas (lorsque la plateforme le permet, par exemple les téléchargements de l'utilisateur sur YouTube).
 
