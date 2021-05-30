@@ -30,7 +30,7 @@ Si vous utilisez un Windows 7 64-bit, vous pouvez avoir des difficultés à inst
 **Si le programme d'installation du jeu génère des erreurs lors de la tentative d'installation, vous pouvez essayer plusieurs choses :**
 
 - Essayez de réinstaller la dernière version de .NET Framework. [Vous pouvez le trouver ici](https://dotnet.microsoft.com/download).
-- Nettoyez votre PC - Analysez-le avec un logiciel anti-virus, nettoyez le registre. Un bon programme pour un nettoyage général est [PrivaZer](https://privazer.com/fr/)<!-- De Doryan : d'expérience, je trouve l'utilisation de CCleaner fait plus de mal que de bien, PrivaZer est mieux et plus complet. Quoi qu'il en soit, ne nettoyer pas votre PC tout les jours, une fois par mois suffit largement. -->. Analysez à la fois les fichiers de votre ordinateur et votre registre. L'installateur peut échouer s'il y a des entrées de registre d'une copie précédente d'osu! encore présentes sur votre système.
+- Nettoyez votre PC - Analysez-le avec un logiciel anti-virus, nettoyez le registre. Un bon programme pour un nettoyage général est [PrivaZer](https://privazer.com/fr/)<!-- PrivaZer est mieux que CCleaner-->. Analysez à la fois les fichiers de votre ordinateur et votre registre. L'installateur peut échouer s'il y a des entrées de registre d'une copie précédente d'osu! encore présentes sur votre système.
 
 ## Ajouter des beatmaps
 
