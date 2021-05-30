@@ -85,7 +85,7 @@ osu! pada umumnya menganugerahkan para pemenang kontes-kontes mapping yang berst
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
-¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam memboyong gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest).
+¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam meraih gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest).
 
 ### Elite Nominator
 
@@ -194,9 +194,9 @@ Pemain-pemain berikut memperoleh gelarnya masing-masing atas keberhasilan mereka
 | Pengguna | Gelar | Pencapaian |
 | :-- | :-- | :-- |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Menorehkan FC NoMod pertama pada beatmap [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
-| ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Menorehkan FC pada semua beatmap osu!taiko yang berstatus Ranked per tanggal 3 November 2019 |
+| ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Menorehkan FC pada semua beatmap osu!taiko yang berstatus Ranked hingga tanggal 3 November 2019 |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Tidak terdokumentasi* <!-- TODO: a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further --> |
-| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Memainkan semua beatmap osu! yang berstatus Ranked per tanggal 27 April 2019 |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Memainkan semua beatmap osu! yang berstatus Ranked hingga tanggal 27 April 2019 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Memenangkan perlombaan [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ### Kontributor
