@@ -189,7 +189,7 @@ osu! menganugerahkan gelar **Elite Storyboarder** kepada para pembuat storyboard
 
 ### Terkait dengan permainan
 
-Pemain-pemain berikut memperoleh gelarnya masing-masing atas keberhasilan mereka dalam menorehkan rekor-rekor yang luar biasa atau menyelesaikan tantangan-tantangan tertentu yang terkait dengan permainan.
+Pemain-pemain berikut memperoleh gelarnya masing-masing atas keberhasilan mereka dalam mencatat rekor-rekor yang luar biasa atau menyelesaikan tantangan-tantangan tertentu yang terkait dengan permainan.
 
 | Pengguna | Gelar | Pencapaian |
 | :-- | :-- | :-- |
