@@ -26,21 +26,21 @@ tags:
   - ![][osu!mania]: 1.00x
 - Tombol shortcut default: `D` `D` atau `Shift`+`D`
 - Caption: `uguuuuuuuu`
-- Mode-mode game yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- Mode-mode permainan yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variasi: [Double Time](/wiki/Game_modifier/Double_Time)
 
 ## Deskripsi
 
-Mod **Nightcore** adalah sebuah [game modifier](/wiki/Game_modifier) yang fungsinya sama dengan variasinya (Double Time), tetapi mod ini juga meningkatkan nadanya dan menambahkan sebuah suara drum di latar belakang yang — dalam waktu 4/4 — mengikuti urutan drum bass pada beat 1 dan 3, clap pada beat 2 dan 4, dan crash pada beat 1 setiap 4 kali.
+Mod **Nightcore** adalah sebuah [game modifier](/wiki/Game_modifier) yang berfungsi sama seperti variasinya (Double Time), yang membedakan dengan variannya adalah mod ini meningkatkan nada dan menambahkan sebuah suara drum di latar belakang—dalam timing 4/4—dengan mengikuti urutan beat 1 dan 3 pada drum bass, beat 2 dan 4 pada clap, dan beat 1 setiap 4 measure pada crash.
 
 [Pengali skor](/wiki/Game_modifier/Score_multiplier) untuk mod Nightcore tetaplah sama seperti mod Double Time, dan beatmap tidak akan terpengaruhi selain dari pengaruh yang sudah ada pada mod Double Time.
 
-Mod ini mempunyai fungsi yang sama untuk semua mode-mode game.
+Mod ini mempunyai fungsi yang sama untuk semua mode-mode permainan.
 
 ## Trivia
 
-- Mod Nightcore pada awalnya adalah sebuah [lelucon April Fools](https://osu.ppy.sh/community/forums/topics/49733) tapi kemudian ditambahkan kedalam permainan sebagai mod yang benar-benar bisa dimainkan.
-- Mod Nightcore mendapatkan namanya dari sebuah genre (atau bagi beberapa orang, genre-sampingan) "Nightcore" dimana lagu diedit atau dibuat untuk dipercepat sekitar 10-30% dan mempunyai nada suara vokal yang lebih tinggi. Meskipun keberlakuan dan sejarah tentang genre ini masih kontroversial.
+- Mod Nightcore pada awalnya adalah sebuah [lelucon April Fools](https://osu.ppy.sh/community/forums/topics/49733) tapi kemudian ditambahkan ke dalam permainan sebagai mod yang benar-benar bisa dimainkan.
+- Mod Nightcore mendapatkan namanya dari sebuah genre (atau bagi beberapa orang, sub-genre) "Nightcore" di mana lagu diedit atau dibuat untuk dipercepat sekitar 10-30% dan mempunyai nada suara vokal yang lebih tinggi. Meskipun keberlakuan dan sejarah tentang genre ini masih kontroversial.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
