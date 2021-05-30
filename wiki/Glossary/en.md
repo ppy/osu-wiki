@@ -1,6 +1,6 @@
 # Glossary
 
-Index page for all articles concerning Glossary
+Index page for all articles concerning osu!-specific terms.
 
 - [Changelog](Changelog)
 - [Choke](Choke)
