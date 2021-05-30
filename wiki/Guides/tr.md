@@ -14,7 +14,6 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 - [Dosyaları Sıkıştırmak](Compressing_Files)
 - [Özel Vuruş Sesi Kütüphanesi](Custom_Hitsound_Library)
 - [Özel Ses Seti Bindirmeleri](Custom_Sample_Overrides)
-- [Video Oyunlarından Şarkıları Almak](Getting_Songs_From_Video_Games)
 - [Şarkılar Naısl Zamanlanır](How_to_Time_Songs)
 - [Müzik Teorisi](Music_Theory)
 - [osu!mania Map Yapım Kılavuzu](osu!mania_Mapping_Guide)
