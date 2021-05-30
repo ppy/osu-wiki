@@ -68,7 +68,7 @@ Although relatively rare, there are some songs and music genres (e.g. swing jazz
 
 ![](img/1_7_snap_divisor.png "1/7 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-![](/wiki/shared/1_7_m.jpg "1/7 snap divisor in the osu!mania editor")
+![](img/1_7_snap_divisor_m.png "1/7 snap divisor in the osu!mania editor")
 
 The 1/7 snap divisor allows for hit objects to be placed on the seventh fraction of a beat and its multiples (e.g. 1/7, 2/7, 3/7, and so on). It is represented by yellow-coloured ticks on the editor timeline.
 
@@ -86,7 +86,7 @@ The 1/8 snap divisor allows for hit objects to be placed on the eighth fraction 
 
 ![](img/1_9_snap_divisor.png "1/9 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-![](/wiki/shared/1_9_m.jpg "1/9 snap divisor in the osu!mania editor")
+![](img/1_9_snap_divisor_m.png "1/9 snap divisor in the osu!mania editor")
 
 The 1/9 snap divisor allows for hit objects to be placed on the ninth fraction of a beat and its multiples (e.g. 1/9, 2/9, 3/9, and so on). It is represented by yellow-coloured ticks on the editor timeline.
 
