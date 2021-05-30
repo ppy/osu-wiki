@@ -21,6 +21,6 @@ Di dalam [osu!](/wiki/Game_mode/osu!), semua [comboset](/wiki/Beatmapping/Combo)
 
 ## osu!catch
 
-Di dalam [osu!catch](/wiki/Game_mode/osu!catch), setiap fruit diwarnai sesuai urutan yang diberikan. Droplet dan end-slider fruit akan selalu memiliki warna yang sama dengan awalan fruit. Namun, banana akan selalu memiliki warna kuning.
+Di dalam [osu!catch](/wiki/Game_mode/osu!catch), setiap buah diwarnai sesuai urutan yang diberikan. Droplet dan buah pada akhir slider akan selalu memiliki warna yang sama dengan awalan buah. Meskipun demikian, sekumpulan banana yang ada akan selalu berwarna kuning terlepas dari warna combo yang digunakan.
 
 <!--TODO: Add images and links-->
