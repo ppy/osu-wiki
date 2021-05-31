@@ -72,8 +72,8 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2009-07-07 | 2009-07-10 | [\[1\]](https://web.archive.org/web/20090714162313/https://osu.ppy.sh/u/18983 "Internet Archive — osu!") [\[2\]](https://www.youtube.com/watch?t=190&v=0T5F0Zzy6ps "YouTube") [\[3\]](https://osu.ppy.sh/scores/osu/25301195) |
 | ![][flag_TW] [f0012979](https://osu.ppy.sh/users/12143) | 2009-07-10 | 2009-07-14 |  |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2009-07-14 | 2009-07-16 |  |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2009-07-16 | 2009-08-31 | [\[1\]](https://osu.ppy.sh/community/forums/topics/14784?start=179293) |
-| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-08-31 | 2009-09-08 | [\[1\]](https://web.archive.org/web/20090903052009/http://osu.ppy.sh/p/playerranking/?m=0&s=2&r=&q=&f= "Internet Archive — osu!") [\[2\]](https://osu.ppy.sh/community/forums/topics/17003?start=194808) [\[3\]](https://www.youtube.com/watch?t=200&v=0T5F0Zzy6ps "YouTube") |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2009-07-16 | 2009-08-28 | [\[1\]](https://osu.ppy.sh/community/forums/topics/14784?start=179293) |
+| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-08-28 | 2009-09-08 | [\[1\]](https://web.archive.org/web/20090903052009/http://osu.ppy.sh/p/playerranking/?m=0&s=2&r=&q=&f= "Internet Archive — osu!") [\[2\]](https://osu.ppy.sh/community/forums/topics/17003?start=194808) [\[3\]](https://www.youtube.com/watch?t=200&v=0T5F0Zzy6ps "YouTube") |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2009-09-08 | 2009-09-14 |  |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-09-14 | 2009-10-12 |  |
 | ![][flag_UY] [La Valse](https://osu.ppy.sh/users/70863) | 2009-10-12 | 2009-10-19 |  |
@@ -272,84 +272,109 @@ The following is a list of the the total amount of times a player on the previou
 
 | Player | Reigns |
 | --: | :-: |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 8 |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 7 |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 7 |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 6 |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 5 |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 12 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 12 |
+| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 11 |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 11 |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 10 |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 8 |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 7 |
+| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 6 |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 6 |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 6 |
 | ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 5 |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 5 |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 5 |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 5 |
+| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 5 |
+| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 4 |
 | ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 4 |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 4 |
-| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 3 |
-| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 3 |
-| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2 |
-| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2 |
-| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2 |
-| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2 |
+| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 4 |
+| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 4 |
+| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 4 |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 3 |
 | ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2 |
+| ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2 |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
-| ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 2 |
-| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 1 |
-| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 1 |
-| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 1 |
-| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 1 |
+| ![][flag_CN] [5231_Kinoko](https://osu.ppy.sh/users/181057) | 1 |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | 1 |
+| ![][flag_TW] [f0012979](https://osu.ppy.sh/users/12143) | 1 |
+| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 1 |
+| ![][flag_UY] [La Valse](https://osu.ppy.sh/users/70863) | 1 |
 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 1 |
 | ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 1 |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 1 |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 1 |
+| ![][flag_AU] [rushia1](https://osu.ppy.sh/users/7562902) | 1 |
 | ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 1 |
+| ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730) | 1 |
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 1 |
-| ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 1 |
 | ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 1 |
+| ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 1 |
 
 ## Longest combined reign length
 
-*Note: Only reigns after 2011-04-23 are included.*
+*Note: The current Rank #1 player is excluded.*
 
-The following is a list of the total amount of days that a player in the previous lists has had the Rank #1 spot.
+The following is a list of the total amount of days that a player in the previous lists has had the Rank #1 spot. 
 
 | Player | Length (Days) |
 | --: | :-: |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 926 |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 579 |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 467 |
-| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | >456 |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 242 |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 212 |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 968 |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 578 |
+| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 550 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 514 |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 272 |
+| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 266 |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 238 |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 213 |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 196 |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 172 |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 144 |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 132 |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 137 |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | 77 |
-| ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 70 |
 | ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 59 |
+| ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 59 |
 | ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 58 |
-| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 38 |
-| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 33 |
+| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 51 |
+| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 44 |
+| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 39 |
+| ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 37 |
+| ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 34 |
+| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 33 |
+| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 30 |
+| ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 27 |
+| ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730) | 26 |
 | ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 20 |
-| ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 19 |
-| ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 11 |
+| ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 13 |
+| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 13 |
+| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 8 |
+| ![][flag_UY] [La Valse](https://osu.ppy.sh/users/70863) | 7 |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | 6 |
+| ![][flag_TW] [f0012979](https://osu.ppy.sh/users/12143) | 4 |
+| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 4 |
+| ![][flag_CN] [5231_Kinoko](https://osu.ppy.sh/users/181057) | 1 |
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 1 |
-| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | <1 |
 
 ## Longest individual reigns
 
-*Note: Only reigns over 100 days after 2011-04-23 are included.*
+*Note: Only reigns over 100 days after 2011-04-23 are included. The current Rank #1 player is excluded.*
 
 The following is a list of how many consecutive days a player from the previous lists has held the Rank #1 spot.
 
 | Player | Reign Length (Days) |
 | --: | :-: |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 460 |
-| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | >456 |
+| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 550 |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 455 |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 258 |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 256 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 242 |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 224 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 176 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 173 |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 167 |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 145 |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 150 |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 144 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 142 |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 133 |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 109 |
 
 <!-- Includes -->
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
