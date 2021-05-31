@@ -18,3 +18,7 @@ Index page for all articles concerning osu!-specific terms.
 - [Local_song_offset](Local_song_offset)
 - [Loved](Loved)
 - [Touhosu!](Touhosu!)
+
+## Trivia
+
+- As of 2021-05-31, the Glossary has been split into seperate articles to allow further expandibility of the osu! wiki. All articles for corresponding terms are now available on the [sitemap](/wiki/Sitemap).
