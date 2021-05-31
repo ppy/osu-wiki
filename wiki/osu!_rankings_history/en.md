@@ -24,7 +24,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 ## 2007
 
-*Note: During the period where [Ranked Score](/wiki/Score#ranked-score) was used, Rank #1 would change frequently, thus the earlier listings may have reduced accuracy. Extra information can be found on the ranked score estimated global leaderboard reconstruction project [Google Sheet](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets").*
+*Note: During the period where [Ranked Score](/wiki/Score#ranked-score) was used, Rank #1 would change frequently, thus the earlier listings may have reduced accuracy. Detailed information can be found on the ranked score estimated global leaderboard reconstruction project [Google Sheet](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets").*
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
