@@ -26,7 +26,7 @@ Dalam bermain osu!, secara umum kamu dituntut untuk:
 - Dapat memahami ketukan-ketukan dan irama-irama pada lagu.
 - Dapat mengontrol peranti input yang digunakan.
 - Dapat menakar timing objek-objek yang muncul di layar.
-- Dapat melakukan gerakat rotasi yang berkelanjutan pada spinner.
+- Dapat melakukan gerakan rotasi yang berkelanjutan pada spinner.
 - Dapat senantiasa menjaga fokus dan konsentrasi mental (terutama untuk lagu-lagu berdurasi panjang, seperti maraton).
 - Dapat melakukan koordinasi yang baik antara penglihatan mata dan pergerakan kedua ruas tangan.
 
@@ -90,7 +90,7 @@ Secara *default*, input-input yang terdaftar pada osu! adalah sebagai berikut:
 | :-- | :-- | :-- |
 | Klik kiri(M1)/Klik kanan(M2) | `Z`(K1)/`X`(K2) | Sentuhan pada layar(M1) |
 
-Pada umumnya, osu! dapat menerima input dalam bentuk apapu dari peranti apapun selama kamu memberikan input yang bersangkutan pada waktu dan lokasi yang tepat.
+Pada umumnya, osu! dapat menerima input dalam bentuk apapun dari peranti apapun selama kamu memberikan input yang bersangkutan pada waktu dan lokasi yang tepat.
 
 Apabila kamu bermain menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu hanya perlu menggerakkan kursormu tanpa harus memberikan input apapun ke dalam osu!. Sebaliknya, apabila kamu bermain dengan menggunakan mod [Auto Pilot](/wiki/Game_modifier/Autopilot), kamu hanya perlu memberikan input ke dalam osu! tanpa perlu menggerakkan kursormu. Kecepatan spinner pada mod AutoPilot memiliki kecepatan yang sama dengan mod [Spun Out](/wiki/Game_modifier/Spun_Out).
 
@@ -189,7 +189,7 @@ Perlu diperhatikan juga, bahwa mod seperti Hard Rock/Easy tidak akan mempengaruh
 
 - Pada spinner, skor 300, 100, atau 50 diberikan tergantung pada jumlah putaran berhasil kamu lakukan dibandingkan dengan durasi spinner.
 - Sebuah miss akan diberikan jika pemain tidak dapat memperluas lingkaran spinner ke batas yang telah disesuaikan untuk setidaknya mendapatkan skor 50.
-  - Pada perilaku skin v1 : Sebuah miss akan diberikan jika pemain tidak dapat mengisi penuh meteran yang terdapat di kedua sisi spinner hingga batasa yang telah disesuaikan untuk setidaknya mendapatkan skor 50.
+  - Pada perilaku skin v1 : Sebuah miss akan diberikan jika pemain tidak dapat mengisi penuh meteran yang terdapat di kedua sisi spinner hingga batasan yang telah disesuaikan untuk setidaknya mendapatkan skor 50.
 
 ### Skor/Combo Multiplier
 
@@ -216,7 +216,7 @@ Perlu diperhatikan juga, bahwa mod seperti Hard Rock/Easy tidak akan mempengaruh
 
 ## Health bar
 
-Health bar adalah sebuah sistem yang digunakan untuk menghitung *health drain* dan *health gain*, per objeknya memiliki dasar perhitungan yang cukup rumit, sehingga penjelasan secara detailnya tidak akan dijabarkan pad aartikel ini. Pada intinya, *health drain* dan *health gain* bergantung pada nilai HP Drain yang dipergunakan pada masing-masing beatmap.
+Health bar adalah sebuah sistem yang digunakan untuk menghitung *health drain* dan *health gain*, per objeknya memiliki dasar perhitungan yang cukup rumit, sehingga penjelasan secara detailnya tidak akan dijabarkan pada artikel ini. Pada intinya, *health drain* dan *health gain* bergantung pada nilai HP Drain yang dipergunakan pada masing-masing beatmap.
 
 **Berikut ini adalah hal-hal yang dapat memulihkan nilai HP pada health bar:**
 
@@ -257,7 +257,7 @@ Health bar adalah sebuah sistem yang digunakan untuk menghitung *health drain* d
 
 - Ketika kamu mengetuk hit object *terlalu awal*, hit object yang bersangkutan tersebut akan bergetar. Hal tersebut bergantung pada pengaturan kesulitan dan toleransi waktu yang ada pada map.
 - Ketika kamu tidak menekan bola slider di jalur kosong tanpa slider tick, kamu tidak akan kehilangan kombo ataupun skor. Penilaian slider hanya akan memeriksa apakah lingkaran awal slider ditekan, slider tick dikumpulkan, dan ujung slider yang berhasil diselesaikan atau tidak.
-- Mengubah arah putaran di tengah putaran spinner, akan menyebabkan spinner melakukan penyetelan ulang terhadap orientasi putaran. Mula-mula, spinner akan menurunkan putaran per menit ke 0, kemudian spinner akan meelakukan penyetelan ulang dan mulai berputar ke arah yang benar.
+- Mengubah arah putaran di tengah putaran spinner, akan menyebabkan spinner melakukan penyetelan ulang terhadap orientasi putaran. Mula-mula, spinner akan menurunkan putaran per menit ke 0, kemudian spinner akan melakukan penyetelan ulang dan mulai berputar ke arah yang benar.
 - Putaran spinner **tidak** akan dianggap valid, ketika kamu tidak melakukan putaran di sekitar inti tengah dari spinner.
 - Efek asap akan bertahan lebih lama daripada jejak kursor dalam game. Oleh karena itu, terapkan efek asap sesekali untuk mencegah efek asap sebelumnya menghilang terlalu cepat.
 - Maskot untuk osu! adalah [pippi](/wiki/Mascots#-pippi).
