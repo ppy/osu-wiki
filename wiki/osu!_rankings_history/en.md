@@ -357,7 +357,7 @@ The following is a list of the total amount of days that a player in the previou
 
 ## Longest individual reigns
 
-*Note: Only reigns over 100 days after 2011-04-23 are included. The current Rank #1 player is excluded.*
+*Note: Only reigns over 100 days are included. The current Rank #1 player is excluded.*
 
 The following is a list of how many consecutive days a player from the previous lists has held the Rank #1 spot.
 
