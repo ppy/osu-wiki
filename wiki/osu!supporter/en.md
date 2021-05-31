@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 <!-- TODO: website updates, needs a review on the writing style -->
 
 # osu!supporter
