@@ -9,7 +9,7 @@ Ten zbiór zasad to podstawa, dzięki której społeczność osu! jest przyjazny
 ## Zasady dot. społeczności
 
 1. **Każdy gracz może posiadać maksymalnie *JEDNO* konto** To konto należy do ciebie. Nie do nikogo innego - brata, matki, siostry, znajomego - jest TWOJE. Nie dziel się swoim kontem z nikim innym.
-2. **Graj uczciwie.** Używanie zewnętrznych narzędzi przynoszących różnego rodzaju nieuczciwe korzyści jest niedozwolone. Dotyczy ty makr, programów poprawiających celność, modyfikacje prędkości czasu i tym podobne. Jeżeli używasz programu, który w grze robi coś za ciebie, to musisz wiedzieć, że nie jest to uczciwe!
+2. **Graj uczciwie.** Używanie zewnętrznych narzędzi przynoszących różnego rodzaju nieuczciwe korzyści jest niedozwolone. Dotyczy to makr, programów poprawiających celność, modyfikacji prędkości czasu i tym podobne. Jeżeli używasz programu, który w grze robi coś za ciebie, to musisz wiedzieć, że nie jest to uczciwe!
 3. **Zachowuj się dobrze wobec innych.** W społeczności osu! nie ma miejsca na prześladowania czy szykanowania. Jesteśmy tu po to, by klikać kółka, uderzać w bębenki, łapać owoce czy naciskać nawet osiemnaście klawiszy naraz, a nie po to, by być dupkami w stosunku do siebie.
 4. **Nie udawaj idioty.** Jeżeli nie masz pewności, czy łamiesz tę zasadę, zapewne to robisz.
 5. **W naszej społeczności są osoby z każdego przedziału wiekowego.** Oznacza to, że treści przeznaczone tylko dla pełnoletnich (takie jak temat narkotyków czy seksu) nie są tu mile widziane. Tam gdzie to właściwe, od tej reguły zdarzają się wyjątki, ale dla świętego spokoju nie udostępniaj takich materiałów.
