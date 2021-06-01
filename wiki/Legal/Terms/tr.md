@@ -114,5 +114,5 @@ Kullanıcı, Hizmet tarafından açıkça izin verilmediği sürece bu İçeriğ
 ## BAĞLANTILAR
 
 osu!, diğer Web sitelerine veya kaynaklara bağlantılar sağlayabilir, veya Kullanıcılar bunları e-postaya dahil edebilir.
-Kullanıcı, osu!'nun bu tür harici sitelerin veya kaynakların kullanılabilirliğinden sorumlu olmadığını ve bu tür siteler veya kaynaklarda bulunan ya da bu sitelerden veya kaynaklardan sağlanan herhangi bir içerik reklam, ürün veya diğer materyalleri onaylamadığını ve bunlardan sorumlu veya yükümlü olmadığını kabul ve beyan eder.
+Kullanıcı, osu!'nun bu tür harici sitelerin veya kaynakların kullanılabilirliğinden sorumlu olmadığını ve bu tür siteler veya kaynaklarda bulunan ya da bu sitelerden veya kaynaklardan sağlanan içerikleri, reklamları, ürünleri veya diğer materyalleri onaylamadığını ve bunlardan sorumlu veya yükümlü olmadığını kabul ve beyan eder.
 Kullanıcı, bu tür harici siteler veya kaynaklarda bulunan bu tür içerik, mal veya hizmetlerin kullanımından veya bunlara güvenilmesinden kaynaklanan veya neden olduğu iddia edilen herhangi bir zarar veya kayıptan doğrudan veya dolaylı olarak osu!'nun sorumlu veya yükümlü olmayacağını kabul eder.
