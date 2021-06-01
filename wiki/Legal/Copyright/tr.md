@@ -41,7 +41,7 @@ Aşağıdakileri uygulamak osu!'nun politikasıdır:
 Eğer içerik sağlayıcısı, üye veya kullanıcı kaldırılan veya erişimi devre dışı bırakılan içeriğin ihlal oluşturmadığına inanıyorsa, ya da içerik sağlayıcısı, üye veya kullanıcı ilgili içeriği telif hakkı sahibinden, telif hakkı sahibinin aracısından, veya kanunlara göre yayınlama ve kullanma hakkına sahip olduğuna inanıyorsa, içerik sağlayıcısı, üye veya kullanıcı aşağıda listelenen Atanmış Temsilci'ye aşağıdaki bilgileri içeren bir karşı bildirim gönderebilir:
 
 1. İçerik sağlayıcısının, üyenin veya kullanıcının fiziksel veya elektronik bir imzası;
-2. Kaldırılaj veya erişimi engellenen içeriğin teşhisi ve ilgili materyalin kaldırılmadan veya erişimi engellenmeden önceki konumu;
+2. Kaldırılan veya erişimi engellenen içeriğin teşhisi, ve ilgili materyalin kaldırılmadan veya erişimi engellenmeden önceki konumu;
 3. İçerik sağlayıcısının, üyenin veya kullanıcının ilgili materyalin bir yanlışlık sonucu ya da kaldırılacak veya devre dışı bırakılacak materyalin hatalı tespiti dolayısıyla kaldırıldığına veya devre dışı bırakıldığına dair iyi niyetli bir inanca sahip olduğunu belirten yeminli ifadesi; ve
 4. İçerik sağlayıcının, üyenin veya kullanıcının ismi, adresi, telefon numarası, mevcutsa e-posta adresi ve bu kişi veya kuruluşun, içerik sağlayıcısının, üyenin veya kullanıcının bulunduğu yargı bölgesi için, eğer içerik sağlayıcısının, üyenin veya kullanıcının adresi Amerika Birleşik Devletleri sınırları dışındaysa, Los Angeles Vilayeti, Kaliforniya için Federal Bölge Mahkemesinin yargı yetkisine rıza gösterdiğine, ve bu kişi veya kuruluşun iddia edilen ihlale ilişkin bildirimde bulunan kişiden veya bu kişinin bir aracısından işlem tebligatını kabul edeceğine dair bir beyan.
 
