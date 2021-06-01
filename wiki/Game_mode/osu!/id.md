@@ -166,7 +166,7 @@ Batas nilai *difficulty point* tertinggi yang dapat diperoleh melalui editor ada
 
 Untuk CS, biasanya tidak bisa di bawah 2 atau diatas 7 (jika diperlukan, kamu dapat memodifikasinya langsung melalui file `.osu`)
 
-Perlu diperhatikan juga, bahwa mod seperti Hard Rock/Easy tidak akan mempengaruhi **Difficulty multiplier**.
+Perlu diperhatikan juga, bahwa mod seperti Hard Rock/Easy tidak akan mempengaruhi **Difficulty multiplier**. Itu hanya akan menjelaskan nilai-nilai asli saja.
 
 ### Penilaian hit object
 
