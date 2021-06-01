@@ -60,4 +60,4 @@ Wembley, WA, 6014
 Australia
 ```
 
-*En son 7 Kasım 2019 tarihinde güncellendi. [Geçmişi buradan görüntüleyin](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/tr.md).*
+*En son 7 Kasım 2019 tarihinde güncellendi. [Geçmişi buradan görüntüleyin](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md).*
