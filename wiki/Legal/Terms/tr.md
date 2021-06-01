@@ -4,7 +4,7 @@ legal: true
 
 # osu! hizmet koşulları
 
-En son 8 Mart 2021 tarihinde güncellendi. [Geçmişi buradan görüntüleyin](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/tr.md)
+En son 8 Mart 2021 tarihinde güncellendi. [Geçmişi buradan görüntüleyin](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
 
 **ppy Pty Ltd** size, aşağıdaki şartlar, koşullar ve bildirimlerde herhangi bir değişiklik yapılmaksızın, sizin onayınıza bağlı bir hizmet sunuyor.
 
