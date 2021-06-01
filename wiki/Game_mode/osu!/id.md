@@ -6,17 +6,17 @@
 
 ![Tampilan antarmuka permainan osu!](/wiki/shared/osu-gameplay.jpg "Tampilan antarmuka permainan osu!")
 
-Mode permainan pertama yang namanya terinspirasi dan didasari dari seri ouendan.
+Mode permainan pertama yang namanya terinspirasi dan didasari dari seri Ouendan.
 
 ## Apa itu "Ouendan"?
 
 *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* merupakan sebuah permainan pada konsol *Nintendo DS* yang mendasari dan menginspirasi awal terbentuknya osu!. Permainan tersebut pada intinya hanya didasari pada tiga aturan yang harus kamu ikuti di dalamnya: sentuh circle-circle yang muncul pada layar, ikuti slider-slider sesuai dengan alur yang tergambar, dan putar spinner yang ada secepat mungkin. Elemen-elemen yang ada di dalam permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari lagu yang sedang dimainkan. Permainan tersebut tampak seperti ini pada layar *DS*:
 
-![Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS](/wiki/shared/Ouendan.jpg "Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS")
+![Contoh tampilan permainan Osu! Tatakae! Ouendan pada layar Nintendo DS](/wiki/shared/Ouendan.jpg "Contoh tampilan permainan Osu! Tatakae! Ouendan pada layar Nintendo DS")
 
-Terdapat dua layar *DS* yang aktif dalam satu waktu, di mana layar *DS* bagian atas menampilkan sebuah kisah bergambar dan layar DS bagian bawah menampilkan keseluruhan circle, slider, dan spinner untuk kamu mainkan. Setiap level pada ouendan memiliki ceritanya tersendiri yang pada umumnya mengisahkan seseorang yang berada dalam kesulitan. Di tengah badai permasalahan inilah pasukan Ouendan hadir menolong. Melalui kekuatan ajaib yang mereka miliki, kamu harus menolong orang-orang tersebut untuk dapat keluar dari permasalahan yang mereka hadapi.
+Terdapat dua layar *DS* yang aktif dalam satu waktu, di mana layar *DS* bagian atas menampilkan sebuah kisah bergambar dan layar DS bagian bawah menampilkan keseluruhan circle, slider, dan spinner untuk kamu mainkan. Setiap level pada Ouendan memiliki ceritanya tersendiri yang pada umumnya mengisahkan seseorang yang berada dalam kesulitan. Di tengah badai permasalahan inilah pasukan Ouendan hadir menolong. Melalui kekuatan ajaib yang mereka miliki, kamu harus menolong orang-orang tersebut untuk dapat keluar dari permasalahan yang mereka hadapi.
 
-## ![](/wiki/shared/mode/osu.png) Gameplay
+## ![](/wiki/shared/mode/osu.png) Permainan
 
 *Tutorial: [new beginnings (Dibundel ke dalam instalasi osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
 
@@ -80,7 +80,7 @@ Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seber
 
 ## Play style
 
-*Mohon lihat laman [Gaya permainan](/wiki/Play_Styles) untuk informasi lebih lenjut seputar gaya-gaya permainan yang umum digunakan di osu!.*
+*Mohon lihat laman [Gaya permainan](/wiki/Play_Styles) untuk informasi lebih lanjut seputar gaya-gaya permainan yang umum digunakan di osu!.*
 
 ## Kontrol
 
@@ -121,7 +121,7 @@ Dengan kata lain: `Akurasi = Jumlah poin dari hit yang berhasil/(Jumlah maksimal
 
 | Istilah | Rumus |
 | :-: | :-- |
-| **Total poin hit** | `(jumlah perolehan poin yang bernilai 50 * 50) + (jumlah perolehan poin yang bernilai 100 * 100) + (jumlah perolehan poin yang bernilai 300 * 300)` |
+| **Total poin hit** | `(jumlah perolehan poin yang bernilai 50 * 50 poin) + (jumlah perolehan poin yang bernilai 100 * 100 poin) + (jumlah perolehan poin yang bernilai 300 * 300 poin)` |
 | **Total hit** | `Miss + jumlah perolehan poin yang bernilai 50 + jumlah perolehan poin yang bernilai 100 + jumlah perolehan poin yang bernilai 300` |
 
 Dengan kata lain, setiap *Miss* akan dihitung sebagai 0 poin masing-masing 50 dihitung sebagai 50 poin, masing-masing 100 sebagai 100 poin dan masing-masing 300 sebagai 300 poin.
@@ -156,13 +156,13 @@ Sedangkan pada bagian spinner, bonus tambahan senilai 1.000 poin akan diberikan 
 
 | Difficulty point | Difficulty multiplier |
 | :-: | :-- |
-| 0 - 5 | 2x |
-| 6 - 12 | 3x |
-| 13 - 17 | 4x |
-| 18 - 24 | 5x |
-| 25 - 30 | 6x |
+| 0 - 5 | 2x multiplier |
+| 6 - 12 | 3x multiplier |
+| 13 - 17 | 4x multiplier |
+| 18 - 24 | 5x multiplier |
+| 25 - 30 | 6x multiplier |
 
-Nilai *difficulty point* tertinggi yang dapat diperoleh melalui editor adalah 27 poin pada pengaturan CS7, OD10, dan HP10. Sebaliknya, nilai *difficulty point* terendah yang dapat diperoleh melalui editor adalah 2 pada pengaturan CS2, OD0, dan HP0.
+Batas nilai *difficulty point* tertinggi yang dapat diperoleh melalui editor adalah 27 poin pada pengaturan CS7, OD10, dan HP10. Sebaliknya, batas nilai *difficulty point* terendah yang dapat diperoleh melalui editor adalah 2 pada pengaturan CS2, OD0, dan HP0.
 
 Untuk CS, biasanya tidak bisa di bawah 2 atau diatas 7 (jika diperlukan, kamu dapat memodifikasinya langsung melalui file `.osu`)
 
@@ -193,7 +193,7 @@ Perlu diperhatikan juga, bahwa mod seperti Hard Rock/Easy tidak akan mempengaruh
 
 ### Skor/Combo Multiplier
 
-**berikut ini adalah hal-hal yang dapat menambah poin pada combo multiplier:**
+**Berikut ini adalah hal-hal yang dapat menambah poin pada combo multiplier:**
 
 - Ketukan yang tepat pada hit circle.
 - Ketukan yang berhasil di awal slider.
@@ -267,13 +267,13 @@ Health bar adalah sebuah sistem yang digunakan untuk menghitung *health drain* d
 
 ![Kombo Api](/wiki/shared/combo-fire.jpg "Combo Fire")
 
-- Pada versi lama, osu! menggunakan beberapa elemen dari seri *ouendan* sebelum akhirnya mulai dihapus atau digantikan.
+- Pada versi lama, osu! menggunakan beberapa elemen dari seri *Ouendan* sebelum akhirnya mulai dihapus atau digantikan.
   - Efek kombo api yang muncul ketika mencapai kombo baru.
     - Dihapus pada 05 Maret 2013, dikarenakan terdapat masalah pada kinerja.
-  - Versi pertama pada skin default menggunakan perilaku skin v1, yang merupakan *osu! Default* skin yang dibuat *oleh peppy*, skin ini menyediakan antarmuka yang hampir identik dengan *ouendan*.
+  - Versi pertama pada skin default menggunakan perilaku skin v1, yang merupakan *osu! Default* skin yang dibuat *oleh peppy*, skin ini menyediakan antarmuka yang hampir identik dengan *Ouendan*.
     - Kemudian, skin tersebut digantikan dengan skin default yang lebih bagus yang menggunakan perilaku skin v2.
   - Perbedaan fitur yang paling mencolok antara perilaku skin v1 dan v2 adalah pada bagian spinner.
-    - Pada perilaku skin v1, putaran pada spinner akan mengisi meteran spinner dari kosong hingga penuh sesuai dengan seri *ouendan*.
+    - Pada perilaku skin v1, putaran pada spinner akan mengisi meteran spinner dari kosong hingga penuh sesuai dengan seri *Ouendan*.
       - Pengatur waktunya adalah lingkaran di dalam spinner yang akan menyatu dengan inti tengah spinner. Spinner berakhir ketika lingkaran pengatur waktu mencapai inti tengah dari spinner.
     - Sedangkan pada perilaku skin v2, spinner akan perlahan-lahan memperluas lingkaran spinner ke ukuran penuh dan memunculkan efek bercahaya setelah selesai.
       - Pengatur waktunya adalah lingkaran luar pada spinner yang berubah warna. Spinner akan berakhir ketika warna lingkaran pengatur waktu berubah total.
