@@ -16,11 +16,15 @@ The following is a list of players who are recognized to have reached Rank #1 in
 
 Over the years, the osu! global rankings has used three different systems for ranking players:
 
-- [Ranked Score](/wiki/score#ranked-score) (1 October 2007 – 24 July 2012)
+- [Ranked Score](/wiki/score#ranked-score) (6 October 2007 – 24 July 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 July 2012 – 27 January 2014)
 - [ppv2](/wiki/Performance_points) (27 January 2014 – Present)
 
 Because of this, this list will only include players who reached Rank #1 on the main leaderboard that was used at the time of reaching said rank. *Italicized* dates and numbers indicate that the corresponding player is continuing their reign as osu!'s Rank #1 player either from the previous year or into the following year.
+
+## Why isn't peppy included
+
+While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was the first rank #1 player, no sources can validate this claim.
 
 ## 2007
 
@@ -28,7 +32,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 2007-10-05 | 2007-10-09 | [\[1\]](https://www.youtube.com/watch?v=v7pIPYNeTDA "YouTube") |
+| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-10-06 | 2007-10-09 | [\[1\]](https://osu.ppy.sh/scores/osu/318) [\[2\]](https://web.archive.org/web/20071117154117/http://osu.ppy.sh/index.php?p=song&s=1 "Internet Archive — osu!") |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-09 | 2007-10-15 | [\[1\]](https://web.archive.org/web/20071011215722/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-10-15 | 2007-10-24 | [\[1\]](https://osu.ppy.sh/community/forums/topics/342) |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-24 | 2007-11-06 | [\[1\]](https://web.archive.org/web/20071024063540/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
@@ -47,10 +51,10 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | --: | :-- | :-- | :-- |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | *2007-12-23* | 2008-09-06 | [\[1\]](https://web.archive.org/web/20071224062629/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2008-09-06 | 2008-09-07 | [\[1\]](https://osu.ppy.sh/community/forums/topics/5999) |
-| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2008-09-07 | 2008-09-15 | [\[1\]](https://osu.ppy.sh/community/forums/topics/5999) [\[2\]](https://web.archive.org/web/20080913072815/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2008-09-07 | 2008-09-15 | [\[1\]](https://osu.ppy.sh/community/forums/topics/5999?start=48038) [\[2\]](https://web.archive.org/web/20080913072815/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2008-09-15 | 2008-09-19 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2008-09-19 | 2008-09-25 | [\[1\]](https://web.archive.org/web/20080920093301/http://osu.ppy.sh:80/?p=playerranking&s=3&o=1&f=verkel#jumpto "Internet Archive — osu!") |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2008-09-25 | 2008-11-23 | [\[1\]](https://osu.ppy.sh/community/forums/topics/6853?start=54620) |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2008-09-25 | 2008-11-23 | [\[1\]](https://osu.ppy.sh/community/forums/topics/6589?start=52778) |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 2008-11-23 | 2008-12-20 | [\[1\]](https://osu.ppy.sh/community/forums/topics/7797) |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2008-12-20 | *2009-03-05* | [\[1\]](https://osu.ppy.sh/community/forums/topics/8415) |
 
@@ -282,10 +286,10 @@ The following is a list of the the total amount of times a player on the previou
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 6 |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 6 |
 | ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 6 |
+| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 5 |
 | ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 5 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 5 |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 5 |
-| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 4 |
 | ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 4 |
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 4 |
 | ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 4 |
@@ -299,7 +303,6 @@ The following is a list of the the total amount of times a player on the previou
 | ![][flag_TW] [f0012979](https://osu.ppy.sh/users/12143) | 1 |
 | ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 1 |
 | ![][flag_KR] [La Valse](https://osu.ppy.sh/users/70863) | 1 |
-| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 1 |
 | ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 1 |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 1 |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 1 |
@@ -314,7 +317,7 @@ The following is a list of the the total amount of times a player on the previou
 
 *Note: The current Rank #1 player is excluded.*
 
-The following is a list of the total amount of days that a player in the previous lists has had the Rank #1 spot. 
+The following is a list of the total amount of days that a player in the previous lists has had the Rank #1 spot.
 
 | Player | Length (Days) |
 | --: | :-: |
@@ -340,8 +343,8 @@ The following is a list of the total amount of days that a player in the previou
 | ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 37 |
 | ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
 | ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 34 |
+| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 33 |
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 33 |
-| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 30 |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 27 |
 | ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730) | 26 |
 | ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 20 |
