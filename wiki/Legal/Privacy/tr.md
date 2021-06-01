@@ -4,7 +4,7 @@ legal: true
 
 # osu! gizlilik politikası
 
-En son 16 Nisan 2021 tarihinde güncellendi. [Geçmişi buradan görüntüleyin](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/tr.md)
+En son 16 Nisan 2021 tarihinde güncellendi. [Geçmişi buradan görüntüleyin](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 Bu politikaya ek olarak, lütfen [Hizmet Koşullarımızı](https://osu.ppy.sh/legal/terms) okuyup anladığınızdan emin olun.
 
