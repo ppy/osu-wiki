@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2021 banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament is open to all osu!catch players from Indonesia with over 3,000 osu!catch playcounts regardless of rank. It is the ninth iteration of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament is open to all osu!catch players from Indonesia with over 3,000 osu!catch playcount regardless of rank. It is the ninth iteration of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -24,7 +24,7 @@ The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-eliminati
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, 3 months of osu!supporter tag, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 2 months of osu!supporter tag |
@@ -37,7 +37,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751) |
-| Map selector | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| Mappool selector | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | Streamer | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) |
 | Commentator | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869),  ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) |
 | Referee | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Asqed](https://osu.ppy.sh/users/6525565), ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) |
