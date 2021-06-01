@@ -22,7 +22,7 @@ Seviyeleri gönderirken, oluşturucular [İçerik Kullanım Yönergeleri](/wiki/
 
 ## Featured Artist lisanslama şartları
 
-osu! tarafından lisanslanan müzikler [Featured Artist listesinden](https://osu.ppy.sh/beatmaps/artists) beatmap şablonu olan `.osz` dosyası olarak ücretsiz indirilebilir. Her parçanın otomatik olarak oluşturulan birer dakikalık şarkı önizlemesi ilgili sanatçının sayfasında dinlenebilir bir şekilde bulunur. Şarkılar, topluluk üyelerinin beatmap oluşturmaları için bir katalog olarak kullanıldığından, bazıları oyun-içi içerik olarak hemen kullanılmayabilir.
+osu! tarafından lisanslanan müzikler [Featured Artist listesinden](https://osu.ppy.sh/beatmaps/artists) beatmap şablonu olan `.osz` dosyası olarak ücretsiz indirilebilir. Her parçanın otomatik olarak oluşturulan birer dakikalık şarkı önizlemesi, ilgili sanatçının sayfasında dinlenebilir bir şekilde bulunur. Şarkılar, topluluk üyelerinin beatmap oluşturmaları için bir katalog olarak kullanıldığından, bazıları oyun-içi içerik olarak hemen kullanılmayabilir.
 
 Oyun içerisinde, ilgili web sitesinde veya video içeriklerinde kullanımı kapsamaya çalışıyoruz. Bunun, kârın söz konusu olduğu durumlarda diğer platformlardaki kullanımı kapsamadığını unutmayın. Bazı sanatçılar bu tür durumlarda (ilgili platform bunu sağlıyorsa, örn. YouTube'a yüklenen kullanıcı içerikleri) kâr komisyonu talep edebilirler.
 
