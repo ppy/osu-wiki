@@ -117,7 +117,7 @@ Peringkat S atau SS yang berwarna perak dapat diperoleh dengan memasang mod *[Hi
 
 Pada mode permainan osu!, akurasi dihitung dengan menjumlahkan penilaian yang diperoleh pada setiap nilai hit dan membaginya dengan jumlah maksimal hit.
 
-Dengan kata lain: `Akurasi = Jumlah poin dari hit yang berhasil/(Jumlah maksimal hit * 300 poin)`
+Dengan kata lain: `Akurasi = Total poin hit / (Total hit * 300 poin)`
 
 | Istilah | Rumus |
 | :-: | :-- |
@@ -126,7 +126,7 @@ Dengan kata lain: `Akurasi = Jumlah poin dari hit yang berhasil/(Jumlah maksimal
 
 Dengan kata lain, setiap *Miss* akan dihitung sebagai 0 poin masing-masing 50 dihitung sebagai 50 poin, masing-masing 100 sebagai 100 poin dan masing-masing 300 sebagai 300 poin.
 
-setelah itu, bagi total poin yang didapat dari hit dengan total hit yang dikalikan dengan 300.
+Tambahkan semuanya bersama-sama dan bagi jumlahnya dengan jumlah hit yang dikalikan dengan 300.
 
 - Jika seorang pemain mendapatkan 300 poin pada semua objek permainan yang ada: maka hasil perhitungan rumus diatas akan sama dengan 1.00, yang menandakan akurasi yang sempurna (100%).
 - Jika seorang pemain mendapatkan 100 pada semua objek permainan yang ada: Hasil perhitungan rumus di atas akan sama dengan 0.3333 (100/300), yang menandakan akurasi senilai 33.33%.
