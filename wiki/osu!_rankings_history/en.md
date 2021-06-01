@@ -12,7 +12,7 @@ tags:
 
 # osu! rankings history
 
-The following is a list of players who are recognized to have reached Rank #1 in the [osu! Global Rankings](https://osu.ppy.sh/rankings/osu/performance).
+The following is a list of players who are recognised to have reached Rank #1 in the [osu! global rankings](https://osu.ppy.sh/rankings/osu/performance).
 
 Over the years, the osu! global rankings has used three different systems for ranking players:
 
@@ -20,11 +20,10 @@ Over the years, the osu! global rankings has used three different systems for ra
 - [ppv1](/wiki/Performance_points/ppv1) (24 July 2012 – 27 January 2014)
 - [ppv2](/wiki/Performance_points) (27 January 2014 – Present)
 
-Because of this, this list will only include players who reached Rank #1 on the main leaderboard that was used at the time of reaching said rank. *Italicized* dates and numbers indicate that the corresponding player is continuing their reign as osu!'s Rank #1 player either from the previous year or into the following year.
+Because of this, this list only includes players who have reached Rank #1 on the main leaderboard that was used at the time. *Italicized* dates and numbers indicate that the corresponding player is continuing their reign as osu!'s Rank #1 player either from the previous year or into the following year.
 
-## Why isn't peppy included
 
-While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was the first rank #1 player, no sources can validate this claim.
+While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was the first Rank #1 player, no sources can validate this claim.
 
 ## 2007
 
@@ -38,7 +37,7 @@ While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) 
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-24 | 2007-11-06 | [\[1\]](https://web.archive.org/web/20071024063540/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-11-06 | 2007-11-15 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-11-15 | 2007-11-17 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
-| ![][flag_NZ] [Echo *(Echo45)*](https://osu.ppy.sh/users/431) | 2007-11-17 | 2007-11-23 | [\[1\]](https://osu.ppy.sh/community/forums/topics/963) |
+| ![][flag_NZ] [Echo (*Echo45*)](https://osu.ppy.sh/users/431) | 2007-11-17 | 2007-11-23 | [\[1\]](https://osu.ppy.sh/community/forums/topics/963) |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-11-23 | 2007-12-27 | [\[1\]](https://web.archive.org/web/20071024063540/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-11-27 | 2007-12-05 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-12-05 | 2007-12-19 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
@@ -195,7 +194,7 @@ While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) 
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-09-25 | 2016-10-03 | [\[1\]](https://web.archive.org/web/20160925212108/https://osu.ppy.sh/p/pp "Internet Archive — osu!") [\[2\]](https://ameobea.me/osutrack/user/rafis "osu!track") [\[3\]](https://web.archive.org/web/20210119084253/https://old.reddit.com/r/osugame/comments/54ghvx/rafis_back_at_1/ "Internet Archive — Reddit") [\[4\]](https://www.youtube.com/watch?v=BtSDzTScjbk "YouTube") |
 | ![][flag_KR] [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | 2016-10-03 | 2016-10-04 | [\[1\]](https://web.archive.org/web/20161004002312/https://osu.ppy.sh/p/pp "Internet Archive — osu!") [\[2\]](https://ameobea.me/osutrack/user/chocomint "osu!track") [\[3\]](https://web.archive.org/web/20210119084326/https://old.reddit.com/r/osugame/comments/55qpfb/cookiezi_has_overtaken_rafis_as_1_again/ "Internet Archive — Reddit") [\[4\]](https://www.youtube.com/watch?v=un2rRfZ2VSM "YouTube") |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-10-04 | 2016-10-08 | [\[1\]](https://web.archive.org/web/20161006200257/https://osu.ppy.sh/p/pp "Internet Archive — osu!") [\[2\]](https://ameobea.me/osutrack/user/rafis "osu!track") [\[3\]](https://web.archive.org/web/20210119084546/https://old.reddit.com/r/osugame/comments/55ukyl/rafis_claimed_back_rank_1/ "Internet Archive — Reddit") [\[4\]](https://osu.ppy.sh/scores/osu/2184102984) |
-| ![][flag_KR] [firebat92(*AngeLMegumin*)](https://osu.ppy.sh/users/1777162) | 2016-10-08 | 2016-10-10 | [\[1\]](https://web.archive.org/web/20161008045636/https://osu.ppy.sh/p/pp "Internet Archive — osu!") [\[2\]](https://ameobea.me/osutrack/user/firebat92 "osu!track") [\[3\]](https://web.archive.org/web/20210119084643/https://old.reddit.com/r/osugame/comments/56fg8r/angelmegumin_is_now_1_global/ "Internet Archive — Reddit") [\[4\]](https://www.youtube.com/watch?v=nL5ZQgBMWtM "YouTube") |
+| ![][flag_KR] [firebat92 (*AngeLMegumin*)](https://osu.ppy.sh/users/1777162) | 2016-10-08 | 2016-10-10 | [\[1\]](https://web.archive.org/web/20161008045636/https://osu.ppy.sh/p/pp "Internet Archive — osu!") [\[2\]](https://ameobea.me/osutrack/user/firebat92 "osu!track") [\[3\]](https://web.archive.org/web/20210119084643/https://old.reddit.com/r/osugame/comments/56fg8r/angelmegumin_is_now_1_global/ "Internet Archive — Reddit") [\[4\]](https://www.youtube.com/watch?v=nL5ZQgBMWtM "YouTube") |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-10-10 | 2016-10-10 | [\[1\]](https://ameobea.me/osutrack/user/rafis "osu!track") [\[2\]](https://web.archive.org/web/20210119084919/https://old.reddit.com/r/osugame/comments/56sl1o/rafis_takes_1_back_by_01pp/ "Internet Archive — Reddit") [\[4\]](https://www.youtube.com/watch?v=b-__ryiioI4 "YouTube") |
 | ![][flag_KR] [firebat92 (*AngeLMegumin*)](https://osu.ppy.sh/users/1777162) | 2016-10-10 | 2016-10-10 | [\[1\]](https://ameobea.me/osutrack/user/firebat92 "osu!track") [\[2\]](https://web.archive.org/web/20210119085142/https://old.reddit.com/r/osugame/comments/56syc4/angelmegumin_is_back_at_1/ "Internet Archive — Reddit") [\[3\]](https://www.youtube.com/watch?v=VcHXexiJp0c "YouTube") |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-10-10 | 2016-10-11 | [\[1\]](https://ameobea.me/osutrack/user/rafis "osu!track") [\[2\]](https://web.archive.org/web/20210119085352/https://old.reddit.com/r/osugame/comments/56t713/rafis_takes_1_back_again/ "Internet Archive — Reddit") [\[3\]](https://www.youtube.com/watch?v=7cKdrio81Nc "YouTube") |
@@ -272,7 +271,7 @@ While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) 
 
 ## Number of reigns
 
-The following is a list of the the total amount of times a player on the previous list has reached the Rank #1 spot in their lifetime.
+The following is a list of the the total amount of times a player in the previous lists has reached the Rank #1 spot in their lifetime.
 
 | Player | Reigns |
 | --: | :-: |
@@ -354,7 +353,6 @@ The following is a list of the total amount of days that a player in the previou
 | ![][flag_KR] [La Valse](https://osu.ppy.sh/users/70863) | 7 |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | 6 |
 | ![][flag_TW] [f0012979](https://osu.ppy.sh/users/12143) | 4 |
-| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 4 |
 | ![][flag_CN] [5231_Kinoko](https://osu.ppy.sh/users/181057) | 1 |
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 1 |
 
