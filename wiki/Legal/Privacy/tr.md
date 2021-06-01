@@ -50,13 +50,13 @@ Diğer tüm kullanıcılar tarafından herkese açık bir şekilde görüntülen
 
 Forumlarda gönderi oluşturduğunuzda, sohbete dahil olduğunuzda veya hizmetlerimize beatmap gibi bir içerik yüklediğinizde, gönderilen tüm içerikleri apaçık bir şekilde herkese açık hale getirmiş olursunuz. Çoğu durumda, bu içerikleri yükleme sonrasında dilediğiniz takdirde düzenleyebilir ve silebilirsiniz, ancak bazı durumlarda bu işlevsellik alaka düzeyini korumak ve kullanıcı tabanımıza sağladığımız hizmeti devam ettirmek adına kilitli olabilir.
 
-Örneğin, yüklediğiniz bir beatmao "dereceli" olursa, bu beatmap kullanıcı tabanının büyük bir kısmının puan alması için temel oluşturur. Bu noktada yüklenen içeriği silme seçeneği kaldırılacaktır.
+Örneğin, yüklediğiniz bir beatmap "dereceli" olursa, bu beatmap kullanıcı tabanının büyük bir kısmının puan alması için temel oluşturur. Bu noktada yüklenen içeriği silme seçeneği kaldırılacaktır.
 
 ### Oyun istemcisine giriş yaparken
 
-osu! oyun istemcisi üzerinden hizmetimize bağlanırken, istemciye özel bir karakter dizisi mevcut oyun ortamınızı tanımlayabilmemize yardımcı olması için bize gönderilir. Bu, donanım ve yazılım yapılandırma bilgilerinizden elde edilen tanımlayıcıların bir kombinasyonu baz alınarak oluşturulur ve kişisel olarak tanımlayıcı bir bilgi içermeyecek düzeyde şifrelenir, ancak hizmetimize girişler arasındaki erişimlerinizi takip etmek için kullanılabilir.
+osu! oyun istemcisi üzerinden hizmetimize bağlanırken, istemciye özel bir karakter dizisi, mevcut oyun ortamınızı tanımlayabilmemize yardımcı olması için bize gönderilir. Bu, donanım ve yazılım yapılandırma bilgilerinizden elde edilen tanımlayıcıların bir kombinasyonu baz alınarak oluşturulur ve kişisel olarak tanımlayıcı bir bilgi içermeyecek düzeyde şifrelenir, ancak hizmetimize girişler arasındaki erişimlerinizi takip etmek için kullanılabilir.
 
-Bunun temel amacı sıralama sisteminin adil kalmasını sağlamak ve riskli bir konumdan hesabınıza erişildiği takdirde hesabınızı güvence altına almamıza yardımcı olmaktır. Bu, gizli kabul edilir ve yalnızca gerekli görüldüğü sürecek saklanır. Bu, aynı zamanda transfer edilemez, ve osu! ekosistemi dışında herhangi bir anlam ifade etmez.
+Bunun temel amacı sıralama sisteminin adil kalmasını sağlamak ve riskli bir konumdan hesabınıza erişildiği takdirde hesabınızı güvence altına almamıza yardımcı olmaktır. Bu, gizli kabul edilir ve yalnızca gerekli görüldüğü sürece saklanır. Bu, aynı zamanda transfer edilemez, ve osu! ekosistemi dışında herhangi bir anlam ifade etmez.
 
 ### Oyunu oynarken ve skor gönderirken
 
