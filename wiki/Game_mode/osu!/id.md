@@ -88,7 +88,7 @@ Secara *default*, input-input yang terdaftar pada osu! adalah sebagai berikut:
 
 | Mouse | Keyboard | Tablet/Touchscreen |
 | :-- | :-- | :-- |
-| Klik kiri(M1)/Klik kanan(M2) | `Z`(K1)/`X`(K2) | Sentuhan pada layar(M1) |
+| Klik kiri(M1) / Klik kanan(M2) | `Z`(K1) / `X`(K2) | Sentuhan pada layar(M1) |
 
 Pada umumnya, osu! dapat menerima input dalam bentuk apapun dari peranti apapun selama kamu memberikan input yang bersangkutan pada waktu dan lokasi yang tepat.
 
