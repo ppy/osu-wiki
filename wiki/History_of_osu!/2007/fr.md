@@ -28,7 +28,7 @@ osu! a débuté en tant que preuve de concept nommée "ouentest". La première v
 
 ## Août
 
-Le menu principal a été mis à jour avec un nouveau look, et beaucoup de fonctionnalités ont été ajoutées a l'éditeur, incluant le support du copier-coller. La barre de menu de Windows ainsi que le curseur ont été ajoutés, rendant les fonctionnalités de l'éditeur plus accessibles qu'avant; les sliders ont été améliorés avec la présence de [slider ticks](/wiki/Beatmapping/Slider_tick); l'[empilement](/wiki/Mapping_Techniques/Stack) de [cercles](/wiki/Hit_object/Hit_circle) était présent; les scores locaux étaient mieux pris en charge; et le format `.osu` a été revu et complètement refait, tout en incluant une conversion des anciens fichiers à ce nouveau format.
+Le menu principal a été mis à jour avec un nouveau look, et beaucoup de fonctionnalités ont été ajoutées à l'éditeur, incluant le support du copier-coller. La barre de menu de Windows ainsi que le curseur ont été ajoutés, rendant les fonctionnalités de l'éditeur plus accessibles qu'avant; les sliders ont été améliorés avec la présence de [slider ticks](/wiki/Beatmapping/Slider_tick); l'[empilement](/wiki/Mapping_Techniques/Stack) de [cercles](/wiki/Hit_object/Hit_circle) était présent; les scores locaux étaient mieux pris en charge; et le format `.osu` a été revu et complètement refait, tout en incluant une conversion des anciens fichiers à ce nouveau format.
 
 ![](img/2007-08_01.jpg "Menu de sélection de musiques")
 
@@ -62,7 +62,7 @@ Peu après la sortie publique, les premiers [mods](/wiki/Game_modifier), [Easy](
 
 ## Octobre
 
-Le 1er octobre 2007 est le jour où les classements en ligne ont été implémentés publiquement. Cette date a aussi vu le lancement de la méthode de compression en `.osz`, ainsi que d'une base de données de beatmaps en ligne accompagnée d'un premier système de soumission de beatmaps. Les classements en ligne ont été ajoutés à l'interface en jeu, mais également affichés sur le site.
+Le 6 octobre 2007 est le jour où les classements en ligne ont été implémentés publiquement. Cette date a aussi vu le lancement de la méthode de compression en `.osz`, ainsi que d'une base de données de beatmaps en ligne accompagnée d'un premier système de soumission de beatmaps. Les classements en ligne ont été ajoutés à l'interface en jeu, mais également affichés sur le site.
 
 ![](img/2007-10_01.jpg)
 
@@ -87,7 +87,7 @@ Un nouvelle note, le SS, a été ajoutée au système de ranking, remplaçant le
 
 ![](img/2007-11_03.jpg "Test de l'utilisation d'IRC")
 
-Le [système de soumission de beatmaps](/wiki/Glossary#bss) (BSS) a été rendu public, autorisant les utilisateurs à facilement envoyer et partager leurs créations. Cela a introduit le statut des maps [En attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et [Classée](/wiki/Beatmap/Category#classée) pour aider à l'organisation de la collection grandissante des maps soumises. Le chat en jeu a été ajouté grâce a un client [IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat) réalisé a partir de rien, et connecté a un serveur IRC standard (sans [Bancho](/wiki/Bancho_(server)));  le chat étendu était visible; les avatars et statistiques simples étaient affichés en jeu en utilisant une communication http; les contrôles audios ont aussi été ajoutés au menu principal, qui jouait une musique aléatoire au démarrage; les [replays](/wiki/Replay) pouvaient être regardés pour les score locaux et en ligne. Les joueurs pouvaient regarder d'autres joueurs (les données spectateurs étaient envoyées en brut via IRC).
+Le [système de soumission de beatmaps](/wiki/Submission) (BSS) a été rendu public, autorisant les utilisateurs à facilement envoyer et partager leurs créations. Cela a introduit le statut des maps [En attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et [Classée](/wiki/Beatmap/Category#classée) pour aider à l'organisation de la collection grandissante des maps soumises. Le chat en jeu a été ajouté grâce a un client [IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat) réalisé a partir de rien, et connecté a un serveur IRC standard (sans [Bancho](/wiki/Bancho_(server)));  le chat étendu était visible; les avatars et statistiques simples étaient affichés en jeu en utilisant une communication http; les contrôles audios ont aussi été ajoutés au menu principal, qui jouait une musique aléatoire au démarrage; les [replays](/wiki/Replay) pouvaient être regardés pour les score locaux et en ligne. Les joueurs pouvaient regarder d'autres joueurs (les données spectateurs étaient envoyées en brut via IRC).
 
 ## Décembre
 
