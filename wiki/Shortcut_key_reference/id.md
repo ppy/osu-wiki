@@ -7,7 +7,7 @@ tags:
   - pintasan
 ---
 
-# Referensi Tombol Pintasan
+# Referensi tombol pintasan
 
 Di osu!, terdapat pintasan-pintasan yang dapat digunakan baik in-game maupun saat idle di tampilan mana pun. Pintasan-pintasan tersebut tertulis di bawah beserta fungsinya.
 
@@ -61,7 +61,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 | `J` atau `F6` | membuka menu loncat ke. |
 | `R` | Memainkan lagu acak. |
 
-## Pemilihan Lagu
+## Pemilihan lagu
 
 *Catatan: Tidak semua perintah di bawah ini bekerja saat memilih lagu di mode multiplayer*
 
@@ -117,7 +117,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 | `B` | Score V2 |
 | `3` hingga `9` | 3K hingga 9K (osu!mania) |
 
-## Mode Bermain
+## Mode bermain
 
 | Pintasan | Aksi |
 | :-- | :-- |
