@@ -18,7 +18,7 @@ Check it all out:
 
 ### The Deceit
 
-Try [this 250 BPM stream-heavy map](https://osu.ppy.sh/beatmapsets/367631) hosted by [Mazzerin](https://osu.ppy.sh/beatmapsets/991300)!
+Try [this 250 BPM stream-heavy map](https://osu.ppy.sh/beatmapsets/991300) hosted by [Mazzerin](https://osu.ppy.sh/users/2942381)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
@@ -26,7 +26,7 @@ Try [this 250 BPM stream-heavy map](https://osu.ppy.sh/beatmapsets/367631) hoste
 
 ### The Violation
 
-Or try [this 270 BPM stream-heavy map](https://osu.ppy.sh/beatmapsets/1198838) also hosted by [Mazzerin](https://osu.ppy.sh/beatmapsets/991300)!
+Or try [this 270 BPM stream-heavy map](https://osu.ppy.sh/beatmapsets/1198838) also hosted by [Mazzerin](https://osu.ppy.sh/users/2942381)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
