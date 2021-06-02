@@ -85,9 +85,9 @@ Pintasan-pintasan ini bekerja di mana pun:
 | `Panah Atas/Bawah` | Memilih beatmap di atas/bawah. |
 | `Panah Kiri/Kanan` | Memilih beatmapset di atas/bawah. |
 | `Page Up/Down` | Melakukan scroll ke atas/bawah. |
-| `Enter` |  |
-| `Shift` + `Panah Kiri/Kanan` |  |
-| `Shift` + `Enter` |  |
+| `Enter` | Memasuki pilihan saat ini (jika memilih pada sebuah beatmapset atau grup koleksi) atau memainkan sebuah tingkat kesulitan (jika memilih dari sebuah beatmap). |
+| `Shift` + `Panah Kiri/Kanan` | Memasuki grup berikutnya/sebelumnya. |
+| `Shift` + `Enter` | Membuka atau menutup grup yang dipilih. |
 
 ## Game modifier
 
@@ -174,9 +174,9 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `F4` | Membuka dialog [song setup](/wiki/Beatmap_Editor/Song_Setup). |
 | `F5` | Memasuki mode tes. |
 | `F6` | Membuka dialog timing dan control points. |
-| `Ctrl` + `P` |  |
+| `Ctrl` + `P` | Menambahkan timing point uninherited pada timestamp saat ini. Jika tidak dilakukan di dalam mode timing, membuka dialog timing dan titik kontrol. |
 | `Ctrl` + `Shift` + `P` |  |
-| `Ctrl` + `I` |  |
+| `Ctrl` + `I` | Menghapus bagian uninherited dan inherited saat ini. Pintasan ini tidak akan bekerja pada timing point uninherited pertama. |
 
 #### Mouse
 
@@ -195,7 +195,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | Pintasan | Aksi |
 | :-- | :-- |
 | `Klik Kiri` dua kali |  |
-| `Klik Kanan` |  |
+| `Klik Kanan` | Mengaktifkan/menonaktifkan combo baru (saat menempatkan hit objek baru) atau menghapus objek (saat memilih). |
 
 #### Umum
 
