@@ -22,7 +22,7 @@ Over the years, the osu! global rankings has used three different systems for ra
 
 Because of this, this list only includes players who have reached Rank #1 on the main leaderboard that was used at the time. *Italicized* dates and numbers indicate that the corresponding player is continuing their reign as osu!'s Rank #1 player either from the previous year or into the following year.
 
-While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was the first Rank #1 player, no sources can validate this claim.
+While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was the first Rank #1 player, no sources have been able to validate this claim.
 
 ## 2007
 
