@@ -153,7 +153,7 @@ While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) 
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 2013-10-04 | 2013-10-05 | [\[1\]](https://osu.ppy.sh/home/news/2013-10-04-important-pp-performance-point-changes) [\[2\]](https://osu.ppy.sh/community/forums/topics/158129) [\[3\]](https://web.archive.org/save/https://old.reddit.com/r/osugame/comments/1npkv3/so_thelewa_is_now_officially_the_1_osustandart/ "Internet Archive — Reddit") |
 | ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-10-05 | 2013-10-20 | [\[1\]](https://web.archive.org/web/20131005191933/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
 | ![][flag_KR] [Reimu-Desu (*- Hakurei Reimu-*)](https://osu.ppy.sh/users/948713) | 2013-10-20 | 2013-12-29 | [\[1\]](https://web.archive.org/web/20131020195724/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2013-12-29 | *2014-01-27* | [\[1\]](https://web.archive.org/web/20210214233331/https://isreimuunbanned.tumblr.com/reimu "Internet Archive — Tumblr") [\[2\]](https://gyazo.com/217b5cb37f684fb72515fae97a3f7858 "Gyazo") |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2013-11-24 | *2014-01-20* | [\[1\]](https://old.reddit.com/r/osugame/comments/1rctoz/wubwoofwolf_went_on_a_little_rampage/ "Reddit") |
 
 ## 2014
 
@@ -161,7 +161,7 @@ While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) 
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2013-12-29* | 2014-01-20 | [\[1\]](https://web.archive.org/web/20210214233331/https://isreimuunbanned.tumblr.com/reimu "Internet Archive — Tumblr") [\[2\]](https://gyazo.com/217b5cb37f684fb72515fae97a3f7858 "Gyazo") |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2013-11-24* | 2014-01-20 | [\[1\]](https://old.reddit.com/r/osugame/comments/1rctoz/wubwoofwolf_went_on_a_little_rampage/ "Reddit") |
 | *Vacant* | 2014-01-20 | 2014-01-27 | [\[1\]](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)  |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 2014-01-27 | 2014-06-20 | [\[1\]](https://osu.ppy.sh/community/forums/topics/181850) [\[2\]](https://web.archive.org/web/20140209113240/https://osu.ppy.sh/p/pp "Internet Archive — osu!") [\[3\]](https://ameobea.me/osutrack/user/rrtyui/ "osu!track") |
 | ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 2014-06-20 | 2014-08-17 | [\[1\]](https://web.archive.org/web/20140626074730/https://osu.ppy.sh/p/pp "Internet Archive — osu!") [\[2\]](https://ameobea.me/osutrack/user/sayonara-bye/ "osu!track") [\[3\]](https://osu.ppy.sh/community/forums/topics/219054) [\[4\]](https://web.archive.org/web/20210213224518/https://old.reddit.com/r/osugame/comments/28j2pi/sayonarabye_passed_snowwhite_in_pp/ "Internet Archive — Reddit") |
@@ -322,7 +322,7 @@ The following is a list of the total amount of days that a player in the previou
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 968 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 578 |
 | ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 550 |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 514 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 507 |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 272 |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 266 |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 238 |
