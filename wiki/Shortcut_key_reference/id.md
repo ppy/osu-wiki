@@ -175,7 +175,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `F5` | Memasuki mode tes. |
 | `F6` | Membuka dialog timing dan control points. |
 | `Ctrl` + `P` | Menambahkan timing point uninherited pada timestamp saat ini. Jika tidak dilakukan di dalam mode timing, membuka dialog timing dan titik kontrol. |
-| `Ctrl` + `Shift` + `P` |  |
+| `Ctrl` + `Shift` + `P` | Menambahkan timing point inherited pada timestamp saat ini. Pintasan ini akan membuka dialog timing dan titik kontrol. |
 | `Ctrl` + `I` | Menghapus bagian uninherited dan inherited saat ini. Pintasan ini tidak akan bekerja pada timing point uninherited pertama. |
 
 #### Mouse
@@ -194,7 +194,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 | Pintasan | Aksi |
 | :-- | :-- |
-| `Klik Kiri` dua kali |  |
+| `Klik Kiri` dua kali | Pada sebuah circle atau akhir dari slider, melompat ke posisi objek timeline di titik mana pun dalam lagu. (osu!, osu!taiko, osu!catch) |
 | `Klik Kanan` | Mengaktifkan/menonaktifkan combo baru (saat menempatkan hit objek baru) atau menghapus objek (saat memilih). |
 
 #### Umum
