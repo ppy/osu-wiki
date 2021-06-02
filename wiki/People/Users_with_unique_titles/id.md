@@ -6,7 +6,7 @@ Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status kea
 
 ### Pemenang World Cup
 
-Setiap tahunnya, osu! menganugerahkan para pemenang turnamen [World Cup](/wiki/Tournaments#official-world-cups) dengan gelar khusus yang berhak untuk mereka sandang selama kurang lebih satu tahun hingga penyelenggaraan turnamen World Cup berikutnya.
+Setiap tahunnya, osu! menganugerahkan para pemenang turnamen [World Cup](/wiki/Tournaments#official-world-cups) dengan gelar khusus yang berhak untuk mereka sandangi selama kurang lebih satu tahun hingga penyelenggaraan turnamen World Cup berikutnya.
 
 Berikut merupakan para pemenang [OWC 2020](/wiki/Tournaments/OWC/2020) yang saat ini menyandang gelar **osu! Champion**:
 
