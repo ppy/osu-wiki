@@ -93,7 +93,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 
 *Halaman utama: [Game modifier](/wiki/Game_modifier)*\
 *Catatan: Menekan tombol-tombol pintasan akan menaktifkan/menonaktifkan modifier terkait. Kamu harus berada di menu game modifier untuk memakai pintasan tersebut.*\
-*Catatan: Target practice (osu!standard), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak mempunyai tombol pintasan.*
+*Catatan: Target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak mempunyai tombol pintasan.*
 
 | Pintasan | Mod |
 | :-- | :-- |
@@ -105,12 +105,12 @@ Pintasan-pintasan ini bekerja di mana pun:
 | `S` dua kali | Perfect |
 | `D` | Double Time |
 | `D` dua kali | Nightcore |
-| `F` | Hidden (osu!standard, osu!taiko, and osu!catch) atau Fade In (osu!mania) |
+| `F` | Hidden (osu!, osu!taiko, and osu!catch) atau Fade In (osu!mania) |
 | `F` dua kali | Hidden (osu!mania) |
 | `G` | Flashlight |
-| `Z` | Relax (osu!standard, osu!taiko, and osu!catch) atau memilih mod xK (osu!mania) |
-| `X` | Auto Pilot (osu!standard) atau Random (osu!mania) |
-| `C` | Spun Out (osu!standard) |
+| `Z` | Relax (osu!, osu!taiko, and osu!catch) atau memilih mod xK (osu!mania) |
+| `X` | Auto Pilot (osu!) atau Random (osu!mania) |
+| `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` dua kali | Cinema |
 | `B` | Score V2 |
@@ -211,7 +211,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Ctrl` + `D` | Menggandakan objek yang dipilih. Perintah ini akan menempel pemilihan satu ketukan setelah objek terakhir yang dipilih. |
 | `Ctrl` + `M` | Menyetel pembagi snap. |
 | `Delete` | Menghapus pemilihan. |
-| `1`, `2`, `3`, atau `4` | Berpindah di antara mode penaruhan/pemilihan: select, circle, slider, dan spinner secara berurutan (osu!standard, osu!taiko, atau osu!catch). |
+| `1`, `2`, `3`, atau `4` | Berpindah di antara mode penaruhan/pemilihan: select, circle, slider, dan spinner secara berurutan (osu!, osu!taiko, atau osu!catch). |
 | `1`, `2`, atau `3` | Berpindah di antara mode penaruhan/pemilihan: select, circle, dan hold secara berurutan (osu!mania). |
 | `Ctrl` + `Alt` + `Roda Mouse ke Atas/Bawah` | Berpindah antar mode penaruhan/pemilihan. |
 | `Ctrl` + `Shift` + `A` | Membuka [AiMod](/wiki/Beatmap_Editor/AiMod). |
@@ -245,7 +245,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Ctrl` + `Shift` + `S` | Membesarkan/mengecilkan pemilihan sebesar sebuah angka (membuka sebuah dialog). |
 | `Ctrl` + `Shift` + `D` | Membuat poligon dengan titik sudut yang ditentukan (membuka sebuah dialog). |
 | `Ctrl` + `Shift` + `F` | Mengubah luncuran yang dipilih menjadi stream lingkaran (membuka sebuah dialog). |
-| `Ctrl` + `Panah Kiri/Kanan/Atas/Bawah` | Menggeser pilihan ke arah yang ditekan. (osu!standard, osu!taiko, osu!catch) |
+| `Ctrl` + `Panah Kiri/Kanan/Atas/Bawah` | Menggeser pilihan ke arah yang ditekan. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Panah Kiri/Kanan` | Menggeser pilihan satu kolom ke kiri atau kanan. (osu!mania) |
 | `Ctrl` + `Panah Atas/Bawah` | Menggeser pilihan ke atas atau bawah sebanyak satu divisor. (osu!mania) |
 
