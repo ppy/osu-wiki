@@ -156,11 +156,11 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `X` | Memainkan beatmap dari awal. |
 | `C` atau `Spasi` | Menjeda/melanjutkan lagu. |
 | `Panah Kiri/Kanan` | Memajukan/memundurkan lagu. |
-| `Panah Atas/Bawah` | Melompat antar timing point. |
+| `Panah Atas/Bawah` | Melompat di antara timing point. |
 | `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan/memundurkan lagu dalam kecepatan 4x. |
 | `Ctrl` + `B` | Menambahkan bookmark pada timestamp saat ini. |
 | `Ctrl` + `Shift` + `B` | Menghapus bookmark pada timestamp saat ini. |
-| `Ctrl` + `Panah Kiri/Kanan` | Melompat antar bookmark. |  
+| `Ctrl` + `Panah Kiri/Kanan` | Melompat di antara bookmark. |  
 | `Ctrl` + `L` | Kembali ke keadaan save sebelumnya (sebagian). Perintah ini akan me-load ulang file `.osu` dan `.osb`. |
 | `Ctrl` + `Shift` + `L` | Kembali ke keadaan save sebelumnya (sepenuhnya). Perintah ini akan me-load ulang semuanya. |
 | `Ctrl` + `O` | Membuka jendela pemilihan difficulty. |
@@ -213,7 +213,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Delete` | Menghapus pemilihan. |
 | `1`, `2`, `3`, atau `4` | Berpindah di antara mode penaruhan/pemilihan: select, circle, slider, dan spinner secara berurutan (osu!, osu!taiko, atau osu!catch). |
 | `1`, `2`, atau `3` | Berpindah di antara mode penaruhan/pemilihan: select, circle, dan hold secara berurutan (osu!mania). |
-| `Ctrl` + `Alt` + `Roda Mouse ke Atas/Bawah` | Berpindah antar mode penaruhan/pemilihan. |
+| `Ctrl` + `Alt` + `Roda Mouse ke Atas/Bawah` | Berpindah di antara mode penaruhan/pemilihan. |
 | `Ctrl` + `Shift` + `A` | Membuka [AiMod](/wiki/Beatmap_Editor/AiMod). |
 
 #### Playfield
