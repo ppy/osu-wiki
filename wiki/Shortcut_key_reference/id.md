@@ -4,6 +4,7 @@ tags:
   - hotkeys
   - keyboard
   - shortcuts
+  - pintasan
 ---
 
 # Referensi Tombol Pintasan
