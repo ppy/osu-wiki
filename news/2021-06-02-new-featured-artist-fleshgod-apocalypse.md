@@ -21,7 +21,7 @@ Check it all out:
 Try [this 250 BPM stream-heavy map](https://osu.ppy.sh/beatmapsets/991300) hosted by [Mazzerin](https://osu.ppy.sh/users/2942381)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/170/Agony/Fleshgod%20Apocalypse%20-%20The%20Deceit.mp3" type="audio/mpeg">
 </audio>
 
 ### The Violation
@@ -29,7 +29,7 @@ Try [this 250 BPM stream-heavy map](https://osu.ppy.sh/beatmapsets/991300) hoste
 Or try [this 270 BPM stream-heavy map](https://osu.ppy.sh/beatmapsets/1198838) also hosted by [Mazzerin](https://osu.ppy.sh/users/2942381)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/170/Agony/Fleshgod%20Apocalypse%20-%20The%20Violation.mp3" type="audio/mpeg">
 </audio>
 
 Players of all modes can attempt a combination of both *The Deceit* and *The Violation* through [this loved map](https://osu.ppy.sh/beatmapsets/367631)!
@@ -39,7 +39,7 @@ Players of all modes can attempt a combination of both *The Deceit* and *The Vio
 Give [this osu! map](https://osu.ppy.sh/beatmapsets/1261793) hosted by [Plaudible](https://osu.ppy.sh/users/7149815) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1249644) by [Heaxys](https://osu.ppy.sh/users/5671417) a play too!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/170/King/Fleshgod%20Apocalypse%20-%20In%20Aeternum.mp3" type="audio/mpeg">
 </audio>
 
 ### The Fool
@@ -51,7 +51,7 @@ Play through any of these maps:
 - [Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/442451) hosted by [LZD](https://osu.ppy.sh/users/224335)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/170/Agony/Fleshgod%20Apocalypse%20-%20The%20Fool.mp3" type="audio/mpeg">
 </audio>
 
 ### The Hypocrisy
@@ -59,7 +59,7 @@ Play through any of these maps:
 Slam your piano keys to [this osu!mania map](https://osu.ppy.sh/beatmapsets/397784) by [Phil](https://osu.ppy.sh/users/3191489)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/170/Agony/Fleshgod%20Apocalypse%20-%20The%20Hypocrisy.mp3" type="audio/mpeg">
 </audio>
 
 ### And The Vulture Beholds
@@ -67,7 +67,7 @@ Slam your piano keys to [this osu!mania map](https://osu.ppy.sh/beatmapsets/3977
 Or whack your drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/987536) by [GoldenWolf](https://osu.ppy.sh/users/1612624)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/170/King/Fleshgod%20Apocalypse%20-%20And%20The%20Vulture%20Beholds.mp3" type="audio/mpeg">
 </audio>
 
 ---
