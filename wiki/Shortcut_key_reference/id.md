@@ -160,7 +160,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan/memundurkan lagu dalam kecepatan 4x. |
 | `Ctrl` + `B` | Menambahkan bookmark pada timestamp saat ini. |
 | `Ctrl` + `Shift` + `B` | Menghapus bookmark pada timestamp saat ini. |
-| `Ctrl` + `Panah Kiri/Kanan` | Melompat di antara bookmark. |  
+| `Ctrl` + `Panah Kiri/Kanan` | Melompat di antara bookmark. |
 | `Ctrl` + `L` | Kembali ke keadaan save sebelumnya (sebagian). Perintah ini akan me-load ulang file `.osu` dan `.osb`. |
 | `Ctrl` + `Shift` + `L` | Kembali ke keadaan save sebelumnya (sepenuhnya). Perintah ini akan me-load ulang semuanya. |
 | `Ctrl` + `O` | Membuka jendela pemilihan difficulty. |
