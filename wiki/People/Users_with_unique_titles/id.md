@@ -115,7 +115,7 @@ osu! menganugerahkan gelar **Elite Mapper: Aspirant** kepada para pemenang konte
 
 ¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) saat ini menyandang gelar **Elite Mapper II: Aspirant** atas keberhasilannya dalam menjuarai [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) dan [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) secara bersamaan.
 
-² Atas permintaan dari pihak yang bersangkutan, ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) saat ini menyandang gelar **osu!catch Champion**.
+² Atas permintaannya, ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) saat ini menyandang gelar **osu!catch Champion**.
 
 ### Pemenang kontes-kontes osu!remix
 
@@ -178,7 +178,7 @@ osu! menganugerahkan gelar **osu! Hall of Famer** kepada tiga nama di bawah ini 
 
 ### Elite Storyboarder
 
-osu! menganugerahkan gelar **Elite Storyboarder** kepada para pembuat storyboard (*storyboarder*) yang telah menciptakan banyak karya yang dikagumi oleh khalayak luas.
+osu! menganugerahkan gelar **Elite Storyboarder** kepada para pembuat storyboard (*storyboarder*) yang telah menciptakan banyak karya yang dikagumi oleh khalayak ramai.
 
 - ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366)
 - ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
