@@ -66,7 +66,7 @@ Beberapa saat setelah rilis secara publik, mod bermain pertama, [Easy](/wiki/EZ)
 
 ## Oktober
 
-2007-10-01 adalah hari ketika peringkat online dibuat tersedia untuk publik. Selain peringkat online, peluncuran metode pengemasan `.osz` juga diluncurkan pada hari itu bersamaan dengan database beatmap online dengan sistem pengajuan berbasis web tahap awal. Peringkat online ditambahkan ke antarmuka dalam game dan juga ditampilkan di situs web.
+2007-10-06 adalah hari ketika peringkat online dibuat tersedia untuk publik. Selain peringkat online, peluncuran metode pengemasan `.osz` juga diluncurkan pada hari itu bersamaan dengan database beatmap online dengan sistem pengajuan berbasis web tahap awal. Peringkat online ditambahkan ke antarmuka dalam game dan juga ditampilkan di situs web.
 
 ![](img/2007-10_01.jpg)
 
