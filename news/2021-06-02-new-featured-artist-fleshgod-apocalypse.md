@@ -47,7 +47,7 @@ Give [this osu! map](https://osu.ppy.sh/beatmapsets/1261793) hosted by [Plaudibl
 Play through any of these maps:
 
 - [Loved osu!catch difficulty spread](https://osu.ppy.sh/beatmapsets/445798) hosted by [Razor Sharp](https://osu.ppy.sh/users/3414261)
-- [Ranked osu!mania difficulty spread](https://osu.ppy.sh/beatmapsets/1301878) hosted by [Mipha-](https://osu.ppy.sh/beatmapsets/1301878)
+- [Ranked osu!mania difficulty spread](https://osu.ppy.sh/beatmapsets/1301878) hosted by [Mipha-](https://osu.ppy.sh/users/5767941)
 - [Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/442451) hosted by [LZD](https://osu.ppy.sh/users/224335)
 
 <audio controls>
