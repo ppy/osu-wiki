@@ -41,7 +41,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 
 - Kekhawatiran terhadap perilaku buruk dari seorang moderator.
 - Kekhawatiran terhadap seorang moderator yang melanggar [Kode Etik Kontributor](/wiki/Contributor_Code_of_Conduct).
-- [Masalah pembayaran](/wiki/en/Help_Centre#supporter) terhadap pesanan dari [osu!store](https://osu.ppy.sh/store/listing).
+- [Masalah pembayaran](/wiki/Help_Centre#supporter) terhadap pesanan dari [osu!store](https://osu.ppy.sh/store/listing).
 - Masalah teknis yang tidak dapat atau belum diselesaikan di [forum Help](https://osu.ppy.sh/community/forums/5), termasuk [masalah konektivitas](/wiki/Help_Centre#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
