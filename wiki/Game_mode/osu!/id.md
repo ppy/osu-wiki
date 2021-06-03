@@ -270,7 +270,7 @@ Sistem yang digunakan untuk menghitung *health drain* dan *health gain* per obje
 - Pada versi lama, osu! menggunakan beberapa elemen dari seri *Ouendan* sebelum akhirnya mulai dihapus atau digantikan.
   - Efek kombo api yang muncul ketika mencapai kombo baru.
     - Dihapus pada 05 Maret 2013 dikarenakan terdapat masalah pada kinerja.
-  - Versi pertama pada skin default menggunakan perilaku skin v1, yang merupakan *osu! Default* skin yang dibuat *oleh peppy*, skin ini menyediakan antarmuka yang hampir identik dengan *Ouendan*.
+  - Versi pertama pada skin default menggunakan perilaku skin v1 yang merupakan skin *osu! Default oleh peppy*, skin ini menyediakan antarmuka yang hampir identik dengan Ouendan.
     - Kemudian, skin tersebut digantikan dengan skin default yang lebih bagus yang menggunakan perilaku skin v2.
   - Perbedaan fitur yang paling mencolok antara perilaku skin v1 dan v2 adalah pada bagian spinner.
     - Pada perilaku skin v1, putaran pada spinner akan mengisi meteran spinner dari kosong hingga penuh sesuai dengan seri *Ouendan*.
