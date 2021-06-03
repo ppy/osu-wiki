@@ -12,21 +12,21 @@ tags:
 
 # osu! rankings history
 
-The following is a list of players who are recognised to have reached Rank #1 in the [osu! global rankings](https://osu.ppy.sh/rankings/osu/performance).
+The following is a list of players who are recognised to have reached rank #1 in the [global ranking](https://osu.ppy.sh/rankings/osu/performance) of [osu!](/wiki/Game_mode/osu!).
 
-Over the years, the osu! global rankings has used three different systems for ranking players:
+Over the years, there were three different systems used for ranking players:
 
-- [Ranked Score](/wiki/score#ranked-score) (6 October 2007 – 24 July 2012)
+- [Ranked Score](/wiki/Score#ranked-score) (6 October 2007 – 24 July 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 July 2012 – 27 January 2014)
-- [ppv2](/wiki/Performance_points) (27 January 2014 – Present)
+- [ppv2](/wiki/Performance_points) (27 January 2014 – present)
 
-Because of this, this list only includes players who have reached Rank #1 on the main leaderboard that was used at the time. *Italicized* dates and numbers indicate that the corresponding player is continuing their reign as osu!'s Rank #1 player either from the previous year or into the following year.
+Because of this, this list only includes players who have reached rank #1 on the main leaderboard that was used at the time. *Italicized* dates and numbers indicate that the corresponding player is continuing their reign as the osu!'s rank #1 holder either from the previous year or into the following year.
 
 While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was the first Rank #1 player, no sources have been able to validate this claim.
 
 ## 2007
 
-*Note: During the period where [Ranked Score](/wiki/Score#ranked-score) was used, Rank #1 would change frequently, thus the earlier listings may have reduced accuracy. Detailed information can be found on the ranked score estimated global leaderboard reconstruction project [Google Sheet](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets").*
+*Note: During the period where [Ranked Score](/wiki/Score#ranked-score) was used, the rank #1 holder would change frequently, thus the earlier listings may have reduced accuracy. Detailed information can be found on the estimated reconstruction of the Ranked Score global leaderboard, which is available [here](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE "Google Sheets").*
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
@@ -270,7 +270,7 @@ While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) 
 
 ## Number of reigns
 
-The following is a list of the total amount of times a player in the previous lists has reached the Rank #1 spot in their lifetime (as of 3 June 2021).
+The following is a list of the total amount of times a player has reached the rank #1 spot in their playtime (as of 3 June 2021).
 
 | Player | Reigns |
 | --: | :-: |
@@ -313,11 +313,11 @@ The following is a list of the total amount of times a player in the previous li
 
 ## Longest combined reigns
 
-*Note: The current Rank #1 reign is excluded.*
+*Note: The current rank #1 reign is excluded.*
 
-The following is a list of the total amount of days that a player in the previous lists has had the Rank #1 spot (as of 3 June 2021).
+The following is a list of the total amount of days that a player has held the rank #1 spot (as of 3 June 2021).
 
-| Player | Length (Days) |
+| Player | Length (days) |
 | --: | :-: |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 968 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 578 |
@@ -357,9 +357,9 @@ The following is a list of the total amount of days that a player in the previou
 
 ## Longest individual reigns
 
-*Note: Only reigns over 100 days are included. The current Rank #1 reign is excluded.*
+*Note: Only reigns over 100 days are included. The current rank #1 reign is excluded.*
 
-The following is a list of the longest consecutive days a player from the previous lists has held the Rank #1 spot (as of 3 June 2021).
+The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 3 June 2021).
 
 | Player | Reign Length (Days) |
 | --: | :-: |
@@ -376,7 +376,6 @@ The following is a list of the longest consecutive days a player from the previo
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 133 |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 109 |
 
-<!-- Includes -->
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
