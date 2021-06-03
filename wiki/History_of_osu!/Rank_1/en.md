@@ -14,25 +14,25 @@ Initial versions of osu! was an mostly isolated experience, on [October 6, 2007]
 
 Numerous players has held rank #1 in each game mode under different ranking systems. The current system used by all game modes for online rankings is [performance points (pp)](/wiki/Performance_points).
 
-### ![][osu!] osu!
+## ![][osu!] osu!
 
 *Full ranking history page: [osu!](osu!)*
 
 As of June 3 2021, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ![][flag_AU] [rushia1](https://osu.ppy.sh/users/7562902/osu).
 
-### ![][osu!taiko] osu!taiko
+## ![][osu!taiko] osu!taiko
 
 *Full ranking history page: [osu!taiko](osu!taiko)*
 
 As of June 3 2021, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695/taiko).
 
-### ![][osu!catch] osu!catch
+## ![][osu!catch] osu!catch
 
 *Full ranking history page: [osu!catch](osu!catch)*
 
 As of June 3 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ![][flag_KR] [\[224\]Hyperw7](https://osu.ppy.sh/users/4158549/fruits).
 
-### ![][osu!mania] osu!mania
+## ![][osu!mania] osu!mania
 
 *Full ranking history page: [osu!mania](osu!mania)*
 
