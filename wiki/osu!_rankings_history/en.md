@@ -313,7 +313,7 @@ The following is a list of the total amount of times a player in the previous li
 
 ## Longest combined reigns
 
-*Note: The current Rank #1 player is excluded.*
+*Note: The current Rank #1 reign is excluded.*
 
 The following is a list of the total amount of days that a player in the previous lists has had the Rank #1 spot (As of 3 June 2021.)
 
@@ -357,7 +357,7 @@ The following is a list of the total amount of days that a player in the previou
 
 ## Longest individual reigns
 
-*Note: Only reigns over 100 days are included. The current Rank #1 player is excluded.*
+*Note: Only reigns over 100 days are included. The current Rank #1 reign is excluded.*
 
 The following is a list of the longest consecutive days a player from the previous lists has held the Rank #1 spot (As of 3 June 2021.)
 
