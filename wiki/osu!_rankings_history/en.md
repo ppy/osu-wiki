@@ -361,20 +361,20 @@ The following is a list of the total amount of days that a player has held the r
 
 The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 3 June 2021).
 
-| Player | Reign Length (Days) |
-| --: | :-: |
-| ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | 550 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 455 |
-| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 258 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 256 |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 242 |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 176 |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 173 |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 167 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 150 |
-| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 144 |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 133 |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 109 |
+| Player | From | To | Reign length (days) |
+| --: | :-- | :-- | :-: |
+| ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | 2019-10-06 | 2021-04-08 | 550 |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-23 | 2018-01-21 | 455 |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2007-12-23 | 2008-09-06 | 258 |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2013-01-21 | 2013-10-04 | 256 |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-03-25 | 2015-11-22 | 242 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-06-05 | 2012-11-28 | 176 |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2014-08-17 | 2015-02-06 | 173 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2011-11-05 | 2012-04-20 | 167 |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-06-08 | 2011-11-05 | 150 |
+| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 2014-01-27 | 2014-06-20 | 144 |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-31 | 2016-05-12 | 133 |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2010-10-03 | 2011-01-20 | 109 |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
