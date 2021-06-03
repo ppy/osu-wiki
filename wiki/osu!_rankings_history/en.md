@@ -270,7 +270,7 @@ While it has been assumed that ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) 
 
 ## Number of reigns
 
-The following is a list of the total amount of times a player in the previous lists has reached the Rank #1 spot in their lifetime (As of 3 June 2021.)
+The following is a list of the total amount of times a player in the previous lists has reached the Rank #1 spot in their lifetime (as of 3 June 2021).
 
 | Player | Reigns |
 | --: | :-: |
@@ -315,7 +315,7 @@ The following is a list of the total amount of times a player in the previous li
 
 *Note: The current Rank #1 reign is excluded.*
 
-The following is a list of the total amount of days that a player in the previous lists has had the Rank #1 spot (As of 3 June 2021.)
+The following is a list of the total amount of days that a player in the previous lists has had the Rank #1 spot (as of 3 June 2021).
 
 | Player | Length (Days) |
 | --: | :-: |
@@ -359,7 +359,7 @@ The following is a list of the total amount of days that a player in the previou
 
 *Note: Only reigns over 100 days are included. The current Rank #1 reign is excluded.*
 
-The following is a list of the longest consecutive days a player from the previous lists has held the Rank #1 spot (As of 3 June 2021.)
+The following is a list of the longest consecutive days a player from the previous lists has held the Rank #1 spot (as of 3 June 2021).
 
 | Player | Reign Length (Days) |
 | --: | :-: |
