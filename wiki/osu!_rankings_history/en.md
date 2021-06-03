@@ -308,7 +308,7 @@ The following is a list of the the total amount of times a player in the previou
 | ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 1 |
 | ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730) | 1 |
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 1 |
-| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 1 |
+| ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | 1 |
 | ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 1 |
 
 ## Longest combined reign length
@@ -321,7 +321,7 @@ The following is a list of the total amount of days that a player in the previou
 | --: | :-: |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 968 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 578 |
-| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 550 |
+| ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | 550 |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 507 |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 272 |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 266 |
@@ -363,7 +363,7 @@ The following is a list of how many consecutive days a player from the previous 
 
 | Player | Reign Length (Days) |
 | --: | :-: |
-| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 550 |
+| ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | 550 |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 455 |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 258 |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 256 |
