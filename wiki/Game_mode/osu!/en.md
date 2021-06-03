@@ -2,6 +2,8 @@
 
 # osu! (game mode)
 
+*For other uses, see [osu! (disambiguation)](/wiki/Disambiguation/osu!).*
+
 ![Gameplay of osu!](/wiki/shared/osu-gameplay.jpg "osu! Interface")
 
 The first game mode and namesake which was based from the ouendan series.

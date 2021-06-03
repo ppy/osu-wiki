@@ -41,11 +41,11 @@ Presionando en `Modding/Discussion` en la pagina del beatmap te llevara a la pag
 
 ![](img/modes.jpg "Seleccion de modalidad")
 
-Cambia el modo de juego entre osu!standard, osu!taiko, osu!catch y osu!mania. Solo puedes seleccionar cada modo de juego si el beatmapset tiene una dificultad con dicho modo de juego.
+Cambia el modo de juego entre osu!, osu!taiko, osu!catch y osu!mania. Solo puedes seleccionar cada modo de juego si el beatmapset tiene una dificultad con dicho modo de juego.
 
 ## Pagina del beatmap / Selección de dificultad
 
-![](img/difficulty-menu.jpg "Menu de dificultad")
+![](img/difficulty-menu.png "Menu de dificultad")
 
 Al hacer clic en el artista/título del beatmap, volveras a la página de información del Beatmap. Puedes seleccionar una dificultad para modificar usando el menú desplegable. El número que aparece ademas del nombre de dificultad es el número de discusiones pendientes que deben resolverse. **¡Asegúrate de estar en la dificultad correcta antes de enviar modificaciones al beatmap!**
 

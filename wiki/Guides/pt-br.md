@@ -13,12 +13,11 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 - [Adicionando Hitsounds Customizados](Adding_Custom_Hitsounds)
 - [Edição de Áudio](Audio_Editing)
 - [Mudando o Artista ou Título](Changing_the_Artist_or_Title)
-- [Mudando o texto do Título](/wiki/Beatmaps/Title_Text#changing-title-text)
+- [Mudando o texto do Título](/wiki/Beatmap/Title_Text#changing-title-text)
 - [Informação de Collab](Collab_Information)
 - [Compactando Arquivos](Compressing_Files)
 - [Biblioteca de Hitsound Customizado](Custom_Hitsound_Library)
 - [Sobreposição de Amostra Customizado](Custom_Sample_Overrides)
-- [Pegando Músicas de Video Games](Getting_Songs_From_Video_Games)
 - [Como Fazer o Timing de Músicas](How_to_Time_Songs)
 - [Teoria Musical](Music_Theory)
 - [Guia de Mapping de osu!mania](osu!mania_Mapping_Guide)
@@ -42,9 +41,7 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 
 ## Skinning
 
-*Página principal: [Skinning](/wiki/Skinning)*
-
-*Veja também: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
+*Página principal: [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)*
 
 - [Corte com Planos de Fundo Complexos](Cropping_with_Complex_Backgrounds)
 - [Corte com Planos de Fundo Simples](Cropping_with_Simple_Backgrounds)

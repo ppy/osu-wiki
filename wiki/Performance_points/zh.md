@@ -2,14 +2,14 @@
 
 **Performance points**（或简称**pp**）是一个评分标准，旨在准确地反映玩家在 osu! 中的水平。
 
-它的目标是把玩家水平的焦点从游玩的时长转变为玩家技术的实际体现，而不仅仅是总[分数](/wiki/Score)。通过将[谱面](/wiki/Beatmaps)的难度与玩家在该谱面上的表现计算得出一个特有分数来达到这一目标。
+它的目标是把玩家水平的焦点从游玩的时长转变为玩家技术的实际体现，而不仅仅是总[分数](/wiki/Score)。通过将[谱面](/wiki/Beatmap)的难度与玩家在该谱面上的表现计算得出一个特有分数来达到这一目标。
 
 ## 历史
 
 这种分数的最初加入是2012年4月，但只是以神秘的*"???"*被人所知。这个神秘的系统最终在月内得到了它的全名。
 之后被称为 "pp"（"performance points"的缩写）。这个新系统寻求的是将先前简单基于玩家总分来判断水平的标准，转变为某种更能准确反映技巧的东西。在当时该系统受到了玩家群体的广泛赞誉。
 
-在它亮相的几个月后，官方在20120722-24 osu! release版本正式加入了这个系统，完全取代了旧的[Ranked](/wiki/Beatmaps/Category#ranked)分数系统，新的分数每30分钟被计算一次。在当年的8月，该系统被改进为实时更新。
+在它亮相的几个月后，官方在20120722-24 osu! release版本正式加入了这个系统，完全取代了旧的[Ranked](/wiki/Beatmap/Category#ranked)分数系统，新的分数每30分钟被计算一次。在当年的8月，该系统被改进为实时更新。
 
 *注: ppv1，原始的 pp 系统也有一个更新日志，你可以通过它的[论坛主题](https://osu.ppy.sh/community/forums/topics/92185)查看。*
 
@@ -21,7 +21,7 @@ ppv2目前仍在提供服务，实时升级发布在它的[更新日志](https:/
 
 Performance points 十分依赖于计算出的谱面难度，由每个[游戏模式](/wiki/Game_mode)独立的算法决定。
 
-玩家玩的谱面的难度决定了成绩的最终pp值。公式被设计为根据四个主要数值：**[瞄准](#瞄准)**，**[速度](#速度)**，**[准确率](#准确率)**，和**[耐力](#耐力)**。上述所有的值以不同的权重组合在一起，得到一个关于谱面特定的[难度](/wiki/Difficulties)，和玩家在上述谱面的个人表现。
+玩家玩的谱面的难度决定了成绩的最终pp值。公式被设计为根据四个主要数值：**[瞄准](#瞄准)**，**[速度](#速度)**，**[准确率](#准确率)**，和**[耐力](#耐力)**。上述所有的值以不同的权重组合在一起，得到一个关于谱面特定的[难度](/wiki/Beatmap/Difficulty)，和玩家在上述谱面的个人表现。
 
 然后分数互相"权衡"来确保只有用户的最佳成绩取得最多的pp，即[*权重系统*](#权重系统)，目的是为了防止短时间多次在简单的谱面中取得低pp成绩降低玩家最佳成绩实际得到的pp。
 
@@ -41,7 +41,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 类似于 [缩圈速度](/wiki/Beatmapping/Approach_rate) 和特定的 [Mods](/wiki/Game_modifier)（即[Flashlight](/wiki/Game_modifier/Flashlight)，[Hidden](/wiki/Game_modifier/Hidden)和[Hard Rock](/wiki/Game_modifier/Hard_Rock)）使快速准确地移动光标的难度显著地提升，因此影响了成绩得到pp的数量。
 
-在[osu!standard](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmaps/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常得到的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
+在[osu!](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmap/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常得到的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
 
 ### 速度
 
@@ -57,13 +57,13 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 *准确率* 是一个权衡玩家准时击中[物件](/wiki/Hit_object)能力的百分值；它也是一项和pp算法相关的衡量玩家在谱面中某项表现的标准。
 
-准确率高的得分会得到很多的pp。一个取得 80% 准确率并[全连](/wiki/Glossary#fc) 的成绩有时相当于 95% 准确率的成绩。由于算法十分依赖于准确率，如Hidden，Hard Rock和Flashlight等Mod对高准确率的成绩得到的pp会增加很多。
+准确率高的得分会得到很多的pp。一个取得 80% 准确率并[全连](/wiki/Full_combo) 的成绩有时相当于 95% 准确率的成绩。由于算法十分依赖于准确率，如Hidden，Hard Rock和Flashlight等Mod对高准确率的成绩得到的pp会增加很多。
 
 ### 耐力
 
 *耐力* 是一个衡量玩家面对某个谱面中高密度物件的时长和次数的主要标准。
 
-谱面中*速度* 或难度[特征](/wiki/Beatmaps/Pattern) 极高的部分将显著的增加其*耐力*值。如[串](/wiki/Beatmaps/Pattern/Stream) 或者有快速连续Jump的谱面*耐力* 值会增加，从而增加谱面得到的pp。
+谱面中*速度* 或难度[特征](/wiki/Beatmap/Pattern) 极高的部分将显著的增加其*耐力*值。如[串](/wiki/Beatmap/Pattern/Stream) 或者有快速连续Jump的谱面*耐力* 值会增加，从而增加谱面得到的pp。
 
 ## FAQ
 
@@ -84,7 +84,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 - 高效地玩，找到最适合你的风格。
 - 专注于得到更多高分成绩，而不是去盲目刷很多“还行”的成绩。
 - 提高你的准确率。 即使是1%也能有很大差别。
-- 提高连击数量。 全连（FC）或[SS](/wiki/Glossary#grade) 会得到大量pp。
+- 提高连击数量。 全连（FC）或[SS](/wiki/Grade) 会得到大量pp。
 
 ### 为什么我没有得到游玩一个谱面的所有pp？
 

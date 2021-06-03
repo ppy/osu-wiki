@@ -11,9 +11,9 @@ NAT üyeleri kırmızı renk kullanıcı isimlerinden ve ünvanlarından ayırt 
 
 **Aday Gösterme Denetleme Takımının tüm üyeleri, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
 
-Eğer Aday Gösterme Denetleme Takımının herhangi bir üyesinin uygunsuz davrandığını görürseniz, lütfen olabildiğince fazla bilgiyle birlikte derhal [abuse@ppy.sh](mailto:abuse@ppy.sh) e-posta adresiyle iletişime geçin. Daha fazla bilgi için, [Kötüye Kullanım Bildirme](/wiki/Reporting_Bad_Behaviour/Abuse) sayfasına göz atın.
-
 ## Sorumluluklar
+
+***Not: Uygunsuz davranış sergileyen veya İştirakçi Etik Davranış Kurallarına uymayan bir NAT üyesini bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin.***
 
 NAT mapping ile ilgili pek çok işten sorumludur, bunlar dört alt kategoride incelenebilir:
 
@@ -38,25 +38,25 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 ## Takım üyeleri
 
-[Aday Gösterme Denetleme Takımı grup sayfası](https://osu.ppy.sh/groups/7) tüm ekip üyelerini listeler.
-
 *Not: Tüm NAT üyeleri, aksi not edilmediği sürece, belirtilen dillerin yanısıra İngilizce de konuşabilirler.*
+
+[Aday Gösterme Denetleme Takımı grup sayfası](https://osu.ppy.sh/groups/7) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm NAT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_Content_Considerations#resminizin-değerlendirilmesi) rol oynar.
 
 ### osu!
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, moderasyon |
+| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Değerlendirme |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | Değerlendirme, yapısal, moderasyon, haberleşme |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Değerlendirme |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Almanca | Değerlendirme |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Almanca | Değerlendirme |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Yapısal, haberleşme |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Değerlendirme, yapısal, haberleşme |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Yapısal |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portekizce | Değerlendirme, yapısal, haberleşme |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Flemenkçe | Değerlendirme |
+| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe | Değerlendirme |
 
 ### osu!taiko
 
@@ -78,7 +78,6 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Almanca, Lehçe | Değerlendirme |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Flemenkçe | Değerlendirme, moderasyon |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arapça, Fransızca | Değerlendirme |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
@@ -91,6 +90,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_KR]: /wiki/shared/flag/KR.gif "Güney Kore"
 [flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
 [flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tayland"
 [flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"

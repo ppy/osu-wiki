@@ -1,12 +1,12 @@
 # Project Loved
 
-**Project Loved** is the voting platform that promotes beatmaps to the [Loved](/wiki/Beatmaps/Category#loved) category. It is run primarily by the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
+**Project Loved** is the voting platform that promotes beatmaps to the [Loved](/wiki/Beatmap/Category#loved) category. It is run primarily by the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
 
 ## Moving a beatmap to Loved
 
 Beatmaps are moved to Loved by a nomination and voting process.
 
-Members of the Project Loved Team called **captains** regularly nominate beatmapsets for a specific game mode. Almost always, these sets come from submissions from the osu! community. The current Loved submission forms and listings can be found via the following links:
+Members of the Project Loved Team called **captains** regularly nominate beatmaps for a specific game mode. Almost always, these sets come from submissions from the osu! community. The current Loved submission forms and listings can be found via the following links:
 
 - [osu!/osu!catch form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
 - [osu!taiko form](https://docs.google.com/forms/d/e/1FAIpQLSclPWyjFByhHP45AtKD49y0RSl1TK5UOzD4dVdvjfJJQ1aCXQ/viewform)
@@ -21,15 +21,16 @@ Nominated mapsets are then posted to the [Project Loved forum](https://osu.ppy.s
 
 ### Eligibility
 
-There are some very minimal criteria that need to be met for beatmaps to be nominated for Loved. Captains consider a beatmapset eligible for the Loved category if:
+There are some very minimal criteria that need to be met for beatmaps to be nominated for Loved. Captains consider a beatmap eligible for the Loved category if:
 
-- It is not in the [Qualified](/wiki/Beatmaps/Category#qualified), [Ranked](/wiki/Beatmaps/Category#ranked) or [Approved](/wiki/Beatmaps/Category#approved) categories
+- It is not in the [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked) or [Approved](/wiki/Beatmap/Category#approved) categories
 - Its creator does not disapprove of it being Loved
 - Its creator is neither banned nor restricted
 - At least one difficulty can be passed
-- It has at least 30 favourites (only applies to osu!standard maps)
+- It has at least 30 favourites (only applies to osu! maps)
+- Every difficulty has at least 30 seconds of [drain time](/wiki/Gameplay/Drain_time)
 
-However, despite nearly all [Pending and Work-in-progress](/wiki/Beatmaps/Category#work-in-progress-and-pending) maps meeting these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
+However, despite nearly all [Pending and Work-in-progress](/wiki/Beatmap/Category#work-in-progress-and-pending) maps meeting these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
 
 Beatmaps entering the Loved category are required to follow some additional rule sets:
 

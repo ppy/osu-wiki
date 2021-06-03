@@ -1,16 +1,10 @@
----
-outdated: true
-outdated_since: 8043b3a603ef5a8bb7ab9f982fceed3825cb249f
----
+# Easy (désambiguïsation)
 
-# Easy
+Le terme **Easy** peut avoir plusieurs significations :
 
-**Easy** peut également se référer à :
-
-- Les [modificateur de jeu](/wiki/Game_modifier/Easy).
-- Le nom de version d'un beatmap.
-- La difficulté d'une beatmap :
-  - ![](/wiki/shared/diff/easy-s.png) Easy, pour osu!standard.
-  - ![](/wiki/shared/diff/easy-t.png) Kantan, pour osu!taiko.
-  - ![](/wiki/shared/diff/easy-c.png) Cup, pour osu!catch.
-  - ![](/wiki/shared/diff/easy-m.png) EZ, pour osu!mania.
+- Le [modificateur de jeu](/wiki/Game_modifier/Easy)
+- La [difficulté](/wiki/Beatmap/Difficulty) d'une beatmap :
+  - ![](/wiki/shared/diff/easy-o.png) Easy, pour le mode osu!.
+  - ![](/wiki/shared/diff/easy-t.png) Kantan, pour le mode osu!taiko.
+  - ![](/wiki/shared/diff/easy-c.png) Cup, pour le mode osu!catch.
+  - ![](/wiki/shared/diff/easy-m.png) EZ, pour le mode osu!mania.

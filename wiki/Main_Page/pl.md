@@ -30,7 +30,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 [Tryby gry](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmapa](/wiki/Beatmaps) • [Obiekty rozgrywki](/wiki/Hit_object) • [Modyfikatory](/wiki/Game_modifier) • [Wynik](/wiki/Score) • [Powtórka](/wiki/Replay) • [Tryb wieloosobowy](/wiki/Multi)
+[Beatmapa](/wiki/Beatmap) • [Obiekty rozgrywki](/wiki/Hit_object) • [Modyfikatory](/wiki/Game_modifier) • [Wynik](/wiki/Score) • [Powtórka](/wiki/Replay) • [Tryb wieloosobowy](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -41,7 +41,7 @@ Sekcje: [Kompozycja](/wiki/Beatmap_Editor/Compose) • [Edytor scenorysu](/wiki/
 
 Komponenty: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Podzielnik beatu](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Odległość między obiektami](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [Przeładowanie scenorysu](/wiki/Beatmap_Editor/SB_Load) • [Osie czasu](/wiki/Beatmap_Editor/Timelines)
 
-[Tworzenie beatmap](/wiki/Beatmapping) • [Poziomy trudności](/wiki/Difficulties) • [Techniki w tworzeniu beatmap](/wiki/Mapping_Techniques) • [Tworzenie scenorysów](/wiki/Storyboarding)
+[Tworzenie beatmap](/wiki/Beatmapping) • [Poziomy trudności](/wiki/Beatmap/Difficulty) • [Techniki w tworzeniu beatmap](/wiki/Mapping_Techniques) • [Tworzenie scenorysów](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

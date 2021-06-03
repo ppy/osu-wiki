@@ -38,93 +38,44 @@ Technically, this is the best way to squash commits from a branch when limited t
 
 ## My branch is out of date!
 
-When you created your fork of the `osu-wiki` repo, you took a snapshot of the contents at that very moment. The problem is that it doesn't automatically update on its own, nor is there a feature from GitHub to do this for you.
+*Note: `master` is the main branch of your fork repository. It should contain a clean copy of `osu-wiki` repository's `master` branch contents without any personal edits.*
+
+When you created your fork of the `osu-wiki` repo, you took a snapshot of the contents at that very moment. Fortunately, GitHub has a built-in feature that allows you to keep your branch up-to-date.
+
+1. Go to your fork of the `osu-wiki` repo.
+2. Select the branch, that you intend to update, from the dropdown.
+
+![](img/select-branch.png "Selecting the outdated branch in your fork repository")
+
+3. Click `Fetch upstream`, and select `Fetch and merge`.
+
+![](img/update-branch.png "Updating the outdated branch")
+
+Now your branch will be up-to-date with the upstream repository!
 
 ---
 
-Fortunately, there are a few ways to resolve this problem depending on which branch you intend to update:
+This solution works fine in most cases, although the feature itself has limited capabilities. For example, it doesn't allow you to overwrite any unwanted changes on the branch, as it only merges the upstream `master` branch.
 
-### Updating the "master" branch
+If you encountered any problems while using the GitHub tool or you want to overwrite your branch's contents, you can use the workflow written by the osu! wiki contributors.
 
-`master` is the main branch of your fork repository. It should contain a clean copy of `osu-wiki` repository's `master` branch contents without any personal edits. There are two ways to update the `master` branch of your fork:
+1. Open **your fork** and go to the `Actions` tab.
+2. In `Workflows`, look for `Sync from osu! upstream`.
+3. Click `Run workflow` and fill in the options:
 
-#### Using Upriver
+![GitHub Actions Workflow - Run Workflow](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
 
-There is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
+- **Use workflow from**: name of the branch you want to sync. By default, it is set to `master`.
+- **Overwrite any changes in the target repository**:
+  - `true`: replace the contents of your branch with a clean copy of the `master` branch from `ppy/osu-wiki`.
+  - `false` (default): merge your changes with these from `ppy/osu-wiki`.
+- **Create a backup of your target branch**:
+  - `true`:  make a branch called `backup-{name of your branch}` before changing it.
+  - `false` (default): do not make any backups.
 
-1. Go to [Upriver](https://upriver.github.io/).
-2. Click `Sign in with GitHub`, skip this if you have already done this.
-3. Click `Authorize upriver`, skip this if you have already done this.
-4. Select the following:
-   - into: *select your fork of the `osu-wiki` repo*
-   - branch: `master`
-   - from: `ppy/osu-wiki`
-   - branch: `master`
-   - force?: checked
-5. Click `Pull`.
-6. Click `Close`.
+4. Click the `Run Workflow` button and wait for the workflow to complete. If you're curious how the tool works, click on the `Sync from osu! upstream` workflow task.
 
-If nothing wrong happens, your master branch on your fork will be even with `ppy:master`. You can now create branches off of your fork's master branch without conflict problems.
-
-#### Using the command line
-
-If you prefer a more manual method of syncing changes or you want to synchronize changes in your local copy without needing to pull from the remote, you can do it through the command line.
-
-To synchronize changes using the CLI, you first need to have a reference point to the `ppy/osu-wiki`. We will name it as `upstream`.
-
-```bash
-git remote add upstream https://github.com/ppy/osu-wiki.git
-```
-
-Now we have the `upstream` remote in our list of remotes. `origin` is the remote of your fork, where you are currently making changes at, and `upstream` is the tree you want the changes to be merged into.
-
-Before continuing, make sure you are on the `master` branch of your local repository by using `git branch`.
-
-```bash
-git branch
-```
-
-If the highlighted branch is called `master`, then you are fine to continue. Otherwise, use `git checkout` to change the branch you are currently in.
-
-```bash
-git checkout master
-```
-
-To get all the latest changes, you will have to use `git pull`. It will allow us to retrieve the current state of `upstream` remote's `master` branch.
-
-```bash
- git pull upstream master
- ```
-
-Now that your local `master` branch is up-to-date, you can push it to your fork repository.
-
-```bash
- git push origin master
- ```
-
-### Updating the feature branch
-
-If you want to update your feature branch, you first need to [update your `master` branch](#updating-the-master-branch), and then use the command line.
-
-Firstly, access the feature branch you want to update using `git checkout`.
-
-```bash
-git checkout feature-branch-name
-```
-
-From there, you have two ways to update your branch: `git rebase` (recommended) or by merging `master` into your feature branch.
-
-If you prefer to use the rebase, type in the following command to update your branch and push your feature commits to the top.
-
-```bash
-git rebase master
-```
-
-Alternatively, you can merge `master` into your feature branch, which is not recommended, as additional commits are created.
-
-```bash
-git merge master
-```
+![GitHub Actions Workflow - Workflow Overview](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 
 ## My pull request has conflicts!
 

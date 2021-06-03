@@ -84,10 +84,10 @@ Diese Kürzel können überall verwendet werden:
 - `Strg` + `F4`: Die osu!mania-Scrollgeschwindigkeit verringern
   - alias: `Strg` + `-`
 - `Strg` + `Rücktaste`: Das letzte Wort (in der Suche) löschen
-- `Pfeil oben`: Die Beatmap über der aktuellen auswählen
-- `Pfeil unten`: Die Beatmap unter der aktuellen auswählen
-- `Pfeil links`: Das Beatmapset über dem aktuellen auswählen
-- `Pfeil rechts`: Das Beatmapset über dem aktuellen auswählen
+- `Pfeil oben`: Die Difficulty über der aktuellen auswählen
+- `Pfeil unten`: Die Difficulty unter der aktuellen auswählen
+- `Pfeil links`: Das Beatmap über dem aktuellen auswählen
+- `Pfeil rechts`: Das Beatmap über dem aktuellen auswählen
 - `Bild hoch`: Hochscrollen
 - `Bild runter`: Runterscrollen
 - `Enter`: Ausgewählte Map spielen
@@ -112,7 +112,7 @@ Diese Kürzel können überall verwendet werden:
 - `S` -> `S`: [Perfect](/wiki/Perfect)
 - `D`: [Double Time](/wiki/Double_Time)
 - `D` -> `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, und osu!catch)
+- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, und osu!catch)
   - [Fade In](/wiki/Fade_In) für osu!mania
 - `F` -> `F`: [Hidden](/wiki/Hidden) (nur für osu!mania)
 - `G`: [Flashlight](/wiki/Flashlight)
@@ -149,7 +149,7 @@ Nur für osu!mania:
 
 ## Im Beatmap Editor
 
-_Siehe auch: [Beatmap Editor](/wiki/Beatmap_Editor)._
+*Siehe auch: [Beatmap Editor](/wiki/Beatmap_Editor).*
 
 ### Generell
 

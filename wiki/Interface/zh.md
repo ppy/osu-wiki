@@ -1,12 +1,12 @@
 # 界面
 
-![](img/Intro_static.jpg "初始屏幕")
+![](img/intro-screen.jpg "初始屏幕")
 
 ## 主菜单
 
-![](img/Introscreen.jpg "主菜单")
+![](img/main-menu.jpg "主菜单")
 
-[osu!粉饼](/wiki/Glossary#cookie) \[1\]随着 [BPM](/wiki/Beatmapping/Beats_per_minute) 跳动，此外，从osu!粉饼延伸出来的条的长度与歌曲的音量一致。如果没有在播放歌曲或者暂停播放，osu!粉饼就会以60BPM的速度跳动。主菜单的元素如下：
+[osu!粉饼](/wiki/Glossary/Cookie) \[1\]随着 [BPM](/wiki/Beatmapping/Beats_per_minute) 跳动，此外，从osu!粉饼延伸出来的条的长度与歌曲的音量一致。如果没有在播放歌曲或者暂停播放，osu!粉饼就会以60BPM的速度跳动。主菜单的元素如下：
 
 - \[2\] 点击 Play （`P`） 或者 osu! 标志进入次级选择界面。
 - \[3\] 点击 Edit （`E`） 进入地图编辑器的歌曲选择界面。
@@ -14,7 +14,7 @@
 - \[5\] 点击 Exit （`Esc`） 退出 osu!
 - \[6\] 在主菜单下方会有随机的游戏提示。
 - \[7\] 左下角是 osu! 官网的链接，以及版权信息。
-- \[8\] 与[Bancho](/wiki/Glossary#bancho)的连接状态，在这张图总没有显示，但是连接的结果应该像一个链条。
+- \[8\] 与[Bancho](/wiki/Bancho_(server))的连接状态，在这张图总没有显示，但是连接的结果应该像一个链条。
 - \[9\] 右下角的是扩展[聊天窗口](/wiki/Chat_Console)的控制开关 (叫做"玩家列表") 和常规聊天窗口 （分别对应 `F9` 和 `F8`）。
 - \[10\] 在右上角是osu!随机播放歌曲的控制器。顶部显示了当前正在播放的歌曲。从左到右，这些按钮的作用如下:
   - 上一首
@@ -28,7 +28,7 @@
 
 ### 用户选项
 
-![](img/Useroptions1-ZH.png "用户选项")
+![](img/user-options-ZH.jpg "用户选项")
 
 点击屏幕左上角的用户面板以打开用户选项。此时将无法使用聊天界面。点击相应的选项以完成操作。
 
@@ -39,7 +39,7 @@
 
 ## 游戏界面
 
-![](img/Introscreen2.jpg "游戏界面")
+![](img/play-menu.jpg "游戏界面")
 
 - 点击 `Solo`（`P`）以进行单机游戏
 - 点击 `Multi`（`M`）以进行多人联机，你会被重定向至[多人游戏](/wiki/Multi)大厅（见下文）。
@@ -49,9 +49,9 @@
 
 *详见词条： [Multi](/wiki/Multi)*
 
-![](img/Multi-Play-2016.png "多人游戏大厅界面")
+![](img/multi-lobby.jpg "多人游戏大厅界面")
 
-![](img/Multi-play!_Host.jpg "房主视角的多人房间界面")
+![](img/multi-room.jpg "房主视角的多人房间界面")
 
 1. 你在房间中的身份。这也会显示在你名字前面。
 2. 你的个人信息
@@ -68,7 +68,7 @@
 
 ### 选歌界面
 
-![](img/Soloplay1.jpg "Song selection")
+![](img/song-selection.jpg "Song selection")
 
 你可以通过左下方的图标上方的模式，屏幕中间的透明图标来确定当前的游戏模式。你一共能看到四个模式：
 
@@ -81,13 +81,13 @@
 
 ### 谱面
 
-![](img/Soloplay2.jpg)
+![](img/metadata-comparison.jpg)
 
-![](img/Soloplay2.5.jpg)
+![](img/beatmap-metadata.jpg)
 
 这里显示**你所选的谱面难度信息**。默认情况下，进入选个界面时选中的谱面是你在主界面的音乐播放器中听到的歌。左上角会显示谱面的Rank状态。旁边是歌曲标题。正常情况下，会显示罗马化标题，但是如果在[设置](/wiki/Options)中选择了`以原语言显示歌曲信息`时，会显示Unicode标题；这在上面的图片中进行了表示，然后谱面信息会显示在下方。从左到右依次如下：
 
-- **长度**：谱面的总长度，从开始到结束包括休息时间。不要与[掉血时间](/wiki/Glossary#drain-time)混淆。
+- **长度**：谱面的总长度，从开始到结束包括休息时间。不要与[掉血时间](/wiki/Gameplay/Drain_time)混淆。
 - **BPM**：谱面的BPM。如果谱面有两个BPM （如下图所示） 而一个在括号里，这意味着BPM在歌曲中有变化。它显示这个谱面最快和最慢的BPM，而括号里的BPM时谱面开始时歌曲的BPM。
 - **物件数**：在谱面中所有[击打物件](/wiki/Hit_Objects)的数量。
 - **圈数**：谱面中所有圈的数量。
@@ -99,7 +99,7 @@
 
 ### 分组和排序
 
-![](img/Soloplay3-ZH.png)
+![](img/beatmap-filters-ZH.jpg)
 
 点击其中一个标签会**根据所选标准排序你的歌曲列表**。
 
@@ -135,7 +135,7 @@
 
 ### 搜索
 
-![](img/Soloplay5-ZH.png)
+![](img/search-bar-ZH.jpg)
 
 *注意：你不能在打开聊天窗口或设置侧边栏时搜索；否则你的输入会被视为聊天文本或选项搜索。*
 
@@ -175,7 +175,7 @@
 
 ### 排名
 
-![](img/Soloplay10-ZH.jpg)
+![](img/leaderboards-ZH.jpg)
 
 各种各样的东西可以出现在这里：
 
@@ -206,7 +206,7 @@
 
 ### 歌曲
 
-![](img/Soloplay6.jpg)
+![](img/beatmap-cards.jpg)
 
 歌曲列表会显示所有可用的谱面。不同的谱面可能会有不同的颜色：
 
@@ -219,9 +219,9 @@
 
 ### 游玩工具箱
 
-![](img/Mode_screen.png "可游玩模式的列表")
+![](img/game-mode-selector.jpg "可游玩模式的列表")
 
-![](img/Soloplay7.jpg)
+![](img/gameplay-toolbox.jpg)
 
 这一部分叫做游玩工具箱。我们将会从左到右依次讲述各个按钮的功能。
 
@@ -231,7 +231,7 @@
 
 背景透明图标和“Mode”按钮会更改至当前选中的游戏模式的图标。
 
-![](img/Soloplay8-ZH.jpg "游戏修改器")
+![](img/game-modifiers-ZH.jpg "Mod选择界面")
 
 点击`Mods`按钮或者按下`F1`来打开 **[Mod选择界面](/wiki/Game_modifier)**。
 
@@ -241,11 +241,11 @@
 
 当您在Mod选择屏幕上时，您不能使用聊天窗口和扩展聊天窗口。此外，皮肤可以改变mods的文字和/或图标，但在游戏中的效果仍然是一样的。
 
-点击`Ramdom`按钮或者按下`F2`让游戏**随机滚动并从你的所有谱面中选择一张**，你不能在滚动结束前选择谱面。
+点击`Random`按钮或者按下`F2`让游戏**随机滚动并从你的所有谱面中选择一张**，你不能在滚动结束前选择谱面。
 
-*注意：你可以通过按下`Shift`然后点击`Ramdom`按钮或者`F2`来回到你随机选择前选中的谱面。*
+*注意：你可以通过按下`Shift`然后点击`Random`按钮或者`F2`来回到你随机选择前选中的谱面。*
 
-![](img/Soloplay9-ZH.jpg "可以对谱面进行的操作")
+![](img/beatmap-options-ZH.jpg "可以对谱面进行的操作")
 
 点击`Beatmap Options`按钮或按下`F3`或者右键谱面可以唤出**当前选中谱面的谱面菜单**。
 
@@ -259,13 +259,13 @@
 
 点击**你的用户面板**以唤出**用户选项**。
 
-点击 **[osu!粉饼](/wiki/Glossary#cookie)** 来**游玩当前选择的谱面**
+点击 **[osu!粉饼](/wiki/Glossary/Cookie)** 来**游玩当前选择的谱面**
 
 ## 结算界面
 
 ### 成绩界面
 
-![](img/Accuracy_osu!.jpg "osu!的Accuracy")
+![](img/results-osu.jpg "osu!的Accuracy")
 
 这个是当你完成一个谱面之后等级界面。你可以通过下滑或者点击底部的按钮来查看你的在线结算结果。
 
@@ -273,15 +273,15 @@
 
 下面是其他游戏模式的成绩界面。
 
-![](img/Accuracy_Taiko.jpg "osu!taiko的Accuracy")
+![](img/results-taiko.jpg "osu!taiko的Accuracy")
 
-![](img/Accuracy_Mania.jpg "osu!mania的Accuracy")
+![](img/results-mania.jpg "osu!mania的Accuracy")
 
-![](img/Accuracy_CtB.jpg "osu!catch的Accuracy")
+![](img/results-catch.jpg "osu!catch的Accuracy")
 
 ### 在线排行榜
 
-![](img/Osu!_Online_score-ZH.jpg "osu!在线分数的参考")
+![](img/extended-results-screen-ZH.jpg "osu!在线分数的参考")
 
 这是你的在线排行榜。你可以通过下滑或者点击底部的按钮来查看你的在线结果。你的本地分数榜通常将会显示你的名字和你的分数。
 
@@ -289,7 +289,7 @@
 2. `存储回放到回放文件夹`：你可以稍后观看回放或者在本地排名中打开，或者在`Replays`文件夹中双击打开。
 3. `设置为线上最爱`：添加谱面到线上收藏，它位于你osu!个人资料界面的谱面下。
 4. 本地排行榜：你所有的分数都会保存在你的电脑上。要查看他们，转到[选歌界面](#song-selection-screen)，然后在左侧下拉栏点击`本地排行`。
-5. `Beatmap Ranking`部分。仅当谱面拥有在线排行榜([qualified](/wiki/Beatmaps/Category#qualified)，[ranked](/wiki/Beatmaps/Category#ranked)，或者[loved](/wiki/Beatmaps/Category#loved))时可用。
+5. `Beatmap Ranking`部分。仅当谱面拥有在线排行榜([qualified](/wiki/Beatmap/Category#qualified)，[ranked](/wiki/Beatmap/Category#ranked)，或者[loved](/wiki/Beatmap/Category#loved))时可用。
    1. `整体`：你在这个谱面排行榜的位置，你可以与使用了[mods](/wiki/Game_modifier)的人竞争尽管你没有使用[mods](/wiki/Game_modifier)。
    2. `准确度`：你这次游玩的[精确度](/wiki/Accuracy#accuracy)，只有新分数超过旧分数时才会计算。
    3. `Max Combo`：你这次游玩时达到的最高Combo。
@@ -307,6 +307,6 @@
 8. 谱面评分。根据你是否喜欢谱面进行评价。如果你不能决定，最好不要管它。
 9. 返回选歌界面
 
-![](img/MedalUnlock.jpg "解锁新成就")
+![](img/medal-unlock.jpg "解锁新成就")
 
 上图是获得成就的样子。

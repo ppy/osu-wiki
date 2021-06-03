@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+
 <!-- TODO: some outdated info and this could be simplified a lot. it's a pretty long read for what you get -->
 
 # How to time songs
@@ -11,7 +12,7 @@ needs_cleanup: true
 
 Timing a song is, in fact, not as complicated as it may seem at first glance. You only need two things: a sense of rhythm and some dexterity. An ear for music and experience playing rhythm games are not required, but can help improve the outcome of your map.
 
-You are also supposed to know what [BPM](/wiki/Glossary) and [offset](/wiki/Glossary) are, and how to set uninherited timing points (often called red offsets).
+You are also supposed to know what [BPM](/wiki/Beatmapping/Beats_per_minute) and [offset](/wiki/Disambiguation/Offset) are, and how to set uninherited timing points (often called red offsets).
 
 ## Preparing the .mp3 file
 
@@ -88,7 +89,7 @@ Testing is the phase where we will put the actual notes into the beatmap, simila
 - Notes should not begin immediately in the first few seconds. Give yourself some time to get used to the rhythm and start with a slider or two;
 - Set the notes on white ticks (Beat Snap Divisor on 1/1; "Strong beat"), and nowhere else (don't use 1/2 or 1/4 yet).
 
-After mapping, we will use Test Mode (hotkey is F5), which has a very useful feedback mechanism: it shows the difference between the time when a note appears in the editor (according to time-frame concept), and the moment when we click it. If you do not have problems with hearing, rhythm, reaction, accuracy and sound card (or paranoia), you can continue on. Otherwise, refrain from independent testing. Request for testplays (or the timing itself) instead. You can often seek the \#modhelp channel for timing requests.
+After mapping, we will use Test Mode (hotkey is F5), which has a very useful feedback mechanism: it shows the difference between the time when a note appears in the editor (according to time-frame concept), and the moment when we click it. If you do not have problems with hearing, rhythm, reaction, accuracy and sound card (or paranoia), you can continue on. Otherwise, refrain from independent testing. Request for testplays (or the timing itself) instead. You can often seek the \#mapping channel for timing requests.
 
 So, put the notes, press F5 (Test mode) and hit the said notes as precisely as possible. A couple of hints:
 
@@ -125,7 +126,7 @@ If everything is done correctly, you now have a properly timed beatmap. Sometime
 
 ### Introduction
 
-There are situations when one red bar is not enough (some example will be [Bad Apple](https://osu.ppy.sh/beatmaps/64780), [DJ Amuro's A](https://osu.ppy.sh/beatmaps/20841) or [kemu's Ikasama Life Game](https://osu.ppy.sh/beatmaps/183240)). Admit it, it can range from hardrock, metal, any guitar compositions, concerts, live performances, songs with audible acceleration/deceleration/pause ([Black∞Hole's Pluto](https://osu.ppy.sh/beatmaps/147406)) and so on. Even by using the metronome, certain parts of a song (likely on the climax or ending section) it no longer snaps into the previous rhythm. The song's tempo suddenly bumps up/down a notch, the singer suddenly starts singing frantically/melodically and goes off, and the musical instruments are played extensively/acoustically. In this scenario, shifting or changing the first red bar to fit the tempo will not help.
+There are situations when one red bar is not enough (some example will be [Bad Apple](https://osu.ppy.sh/beatmapsets/64780), [DJ Amuro's A](https://osu.ppy.sh/beatmapsets/20841) or [kemu's Ikasama Life Game](https://osu.ppy.sh/beatmapsets/183240)). Admit it, it can range from hardrock, metal, any guitar compositions, concerts, live performances, songs with audible acceleration/deceleration/pause ([Black∞Hole's Pluto](https://osu.ppy.sh/beatmapsets/147406)) and so on. Even by using the metronome, certain parts of a song (likely on the climax or ending section) it no longer snaps into the previous rhythm. The song's tempo suddenly bumps up/down a notch, the singer suddenly starts singing frantically/melodically and goes off, and the musical instruments are played extensively/acoustically. In this scenario, shifting or changing the first red bar to fit the tempo will not help.
 
 You can ask for help from others on this, but there are only few people who *know* how to identify and work with multi-timing. Moreover, people will not help you if you don't make an effort on your beatmap or don't seem to be worth their time. You can do this yourself if you have a lot of experience and/or a pretty good accuracy, and are able to hit the notes correctly. This is vital, because you'll have to do lots of test plays, and mistimed hits will make it frustrating to the player.
 
@@ -146,7 +147,7 @@ These steps should be repeated until the end of the song. As output, we get the 
 The algorithm for timing speedups/slowdowns is slightly different:
 
 1. Find a place where the song's tempo changes. Set a new offset (if possible, on a white tick). Then, zoom in the timeline scale (Alt + wheel up or press the circular "+" button);
-2. Put a note two beats ahead of it with some hitsounds (for example, finish hitsound from soft [sampleset](/wiki/Glossary)). Slow the playback rate down and listen to it a few times. Hold Shift and carefully move the note forward or backward on the timeline, then listen to it again. Repeat this until you find the best position for the note where it is in sync with the music;
+2. Put a note two beats ahead of it with some hitsounds (for example, finish hitsound from soft [sampleset](/wiki/Beatmap_editor/Compose)). Slow the playback rate down and listen to it a few times. Hold Shift and carefully move the note forward or backward on the timeline, then listen to it again. Repeat this until you find the best position for the note where it is in sync with the music;
 3. Highlight a note and double-click on it, making sure it did not shift by accident after you clicked it. Put a new offset right on it;
 4. Increase/decrease BPM of the previous offset, checking the difference between the tick before the new offset and the actual offset itself. Your goal is to remove the difference between these two by tweaking only the first section's BPM, so new section is placed exactly on the previous offset's tick.
 5. After you are done, return to Step 2.

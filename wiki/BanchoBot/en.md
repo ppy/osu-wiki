@@ -11,7 +11,7 @@ tags:
 
 # BanchoBot
 
-*Not to be confused with [Bancho (server)](/wiki/Bancho_(server))*
+*For other uses, see [Bancho (disambiguation)](/wiki/Disambiguation/Bancho).*
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
@@ -126,7 +126,7 @@ There is a total of 7 statuses which can be displayed by the `!stats` command: E
 !faq list
 ```
 
-`!faq` shows the contents of an entry. Alternatively, the `list` argument can be used to show all available entries. By default, BanchoBot will respond in English, but it is possible to recieve an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_Styling_Criteria#locales). Examples of sending this command are shown below:
+`!faq` shows the contents of an entry. Alternatively, the `list` argument can be used to show all available entries. By default, BanchoBot will respond in English, but it is possible to recieve an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_styling_criteria/Formatting#locales). Examples of sending this command are shown below:
 
 ```
 13:03 pippi: !faq peppy
@@ -146,7 +146,7 @@ There is a total of 7 statuses which can be displayed by the `!stats` command: E
 !report <user> <reason>
 ```
 
-`!report` notifies the [Global Moderation Team](/wiki/Global_Moderation_Team) about a user's inappropriate behaviour. If a user has spaces in their username, replace them with underscores (e.g. `really cool username` becomes `really_cool_username`). To report a moderator, send an email to [support@ppy.sh](mailto:support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
+`!report` notifies the [Global Moderation Team](/wiki/Global_Moderation_Team) about a user's inappropriate behaviour. If a user has spaces in their username, replace them with underscores (e.g. `really cool username` becomes `really_cool_username`). To report a moderator, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

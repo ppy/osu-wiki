@@ -99,7 +99,7 @@ tags:
 
 *小提示：按下快捷键来打开或关闭 Mod。您必须进入 Mod 菜单才可以使用这些快捷键。*
 
-*小提示：Target practice (osu!standard)，1K 和 2K (osu!mania)，Co-op (osu!mania)，还有 Mirror (osu!mania) 没有快捷键。*
+*小提示：Target practice (osu!)，1K 和 2K (osu!mania)，Co-op (osu!mania)，还有 Mirror (osu!mania) 没有快捷键。*
 
 | 快捷键 | Mod |
 | :-- | :-- |
@@ -111,12 +111,12 @@ tags:
 | 两次 `S` | Perfect |
 | `D` | Double Time |
 | 两次 `D` | Nightcore |
-| `F` | Hidden (osu!standard，osu!taiko 和 osu!catch) 或 Fade In (osu!mania) |
+| `F` | Hidden (osu!，osu!taiko 和 osu!catch) 或 Fade In (osu!mania) |
 | 两次 `F` | Hidden (osu!mania) |
 | `G` | Flashlight |
-| `Z` | Relax (osu!standard，osu!taiko 和 osu!catch) 或轮流切换 xK (osu!mania) |
-| `X` | Auto Pilot (osu!standard) 或 Random (osu!mania) |
-| `C` | Spun Out (osu!standard) |
+| `Z` | Relax (osu!，osu!taiko 和 osu!catch) 或轮流切换 xK (osu!mania) |
+| `X` | Auto Pilot (osu!) 或 Random (osu!mania) |
+| `C` | Spun Out (osu!) |
 | `V` | Auto |
 | 两次 `V` | Cinema |
 | `B` | Score v2 |
@@ -215,7 +215,7 @@ tags:
 | `Ctrl` + `V` | 粘贴 |
 | `Ctrl` + `D` | 仿制，自动粘贴在所选物件的一小节之后 |
 | `Delete` | 删除 |
-| `1`，`2`，`3` 或 `4` | 在选择（select），打击圈（circle），滑条（slider）和转盘（spinner）之间来回切换，仅适用于 osu!standard，osu!taiko 和 osu!catch |
+| `1`，`2`，`3` 或 `4` | 在选择（select），打击圈（circle），滑条（slider）和转盘（spinner）之间来回切换，仅适用于 osu!，osu!taiko 和 osu!catch |
 | `1`，`2` 或 `3` | 在选择（select），物件（circle）和长按（hold）之间来回切换，仅适用于 osu!mania |
 | `Ctrl` + `Alt` + `鼠标滚轮` | 在选择/放置之间切换 |
 | `Ctrl` + `Shift` + `A` | 打开 [AiMod](/wiki/Beatmap_Editor/AiMod) |
@@ -249,7 +249,7 @@ tags:
 | `Ctrl` + `Shift` + `S` | 缩放 （弹出对话框） |
 | `Ctrl` + `Shift` + `D` | 添加指定数量的多边形打击圈（弹出对话框） |
 | `Ctrl` + `Shift` + `F` | 把滑条转为连打（弹出对话框） |
-| `Ctrl` + `↑/↓/←/→` | 微调所选物件，仅适用于 osu!standard，osu!taiko 和 osu!catch |
+| `Ctrl` + `↑/↓/←/→` | 微调所选物件，仅适用于 osu!，osu!taiko 和 osu!catch |
 | `Ctrl` + `↑/↓/←/→` | 移动所选物件，仅适用于 osu!mania |
 
 #### 打击音效
@@ -283,7 +283,7 @@ tags:
 | `Ctrl` + `C` | 复制所选素材 |
 | `Ctrl` + `V` | 在当前位置粘贴所选素材 *小提示：除非保存并重新加载谱面，否则粘贴的素材不会显示在图层列表中。* |
 | `Delete` | 从图层中删除选定的素材 |
-| `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/Glossary#osupixel) 的标准微调所选素材 |
+| `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/osupixel) 的标准微调所选素材 |
 
 ### Timing
 

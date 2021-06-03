@@ -242,7 +242,7 @@ Notes:
 
 Notes:
 
-- Plays when switching into song selection, selecting a beatmap set, opening dropdown boxes, opening chat tabs.
+- Plays when switching into song selection, selecting a beatmap, opening dropdown boxes, opening chat tabs.
 
 ---
 
@@ -250,7 +250,7 @@ Notes:
 
 Notes:
 
-- Plays when selecting a difficulty of a beatmap set.
+- Plays when selecting a difficulty of a beatmap.
 
 ---
 
@@ -542,6 +542,7 @@ Notes:
 
 - On the ranking screen after clearing a map.
 - Should be formatted as `.mp3` or `.ogg` in beatmaps aiming for rank.
+- Using a long audio track will impact the game client’s performance. It isn’t supposed to be bigger than a few kilobytes.
 
 ---
 
@@ -552,6 +553,7 @@ Notes:
 - Plays when the game is paused.
 - This sound is looped.
 - Fades out when the client loses focus.
+- Using a long audio track will impact the game client’s performance. It isn’t supposed to be bigger than a few kilobytes.
 
 ### Hitsounds
 

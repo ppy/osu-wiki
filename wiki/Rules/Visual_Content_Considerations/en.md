@@ -4,7 +4,7 @@ As per [Community Rule 5](/wiki/Rules#community-rules), all visual content submi
 
 This includes:
 
-- submitted beatmaps
+- submitted beatmaps, **even those tagged as [explicit](/wiki/Rules/Explicit_Content)**
 - profile details (avatars, cover images)
 - any other attachments or hyperlinks (forum posts, comments, beatmap discussion posts)
 
@@ -27,8 +27,12 @@ Images or visual elements containing any of the following are **not allowed**:
 - **significant sexual innuendo**
 - **sexual posturing or solicitation**
 - **erotic content or graphic displays of sexuality**
-- **examples of drug use, preparation, or identification with illicit drug subculture**
+- **examples of drug use, preparation, or identification with illicit drug subculture**¹
 - **depictions of deliberately inflammatory political, cultural, religious, or social content**
+
+In addition, images or visual elements that could be reasonably appraised as being of poor quality (in either objective image quality or subjective composition/creation) may also be prevented from being used in a beatmaps in cases where they are not directly related to any relevant subject matter.
+
+*¹*: This may be subject to exceptions depending on the nature of the drug, its usage, and its subculture, particularly in cases of drugs experiencing rapid worldwide decriminalization and regulation like marijuana. Requesting specific exceptions to this rule should be undertaken by contacting the [osu!team](/wiki/People/The_Team) at [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Exceptions
 
@@ -39,11 +43,15 @@ Images or visual elements containing examples of the following may be considered
 - mild romance, flirting or intimate affection (hugging, embracing, kissing without sexual connotations, hand-holding, etc.)
 - swimsuits of reasonable design (standard swimwear with general coverage, ordinary bikini)
 
+In certain circumstances, some exceptions may apply for artistic use of high-effort content, such as storyboards or bespoke (ie: specifically created) video content. This must be granted directly from the osu!team. Those interested may contact them directly via [support@ppy.sh](mailto:support@ppy.sh).
+
 ## Getting your image assessed
+
+*See: [Content voting process](/wiki/Rules/Content_Voting_Process).*
 
 Images that are used anywhere on the site outside of a beatmap (avatars, profile covers, userpages, etc) are **not** subject to the voting procedure explained below and may be removed at any time at the discretion of the Global Moderation Team.
 
-If you are unsure about an image that is going to be included in a beatmap in any way, **please submit a request via [the Beatmap Nominator Report Submission page](https://bn.mappersguild.com/reports).** The image will be raised to a vote that must pass by a considerable majority, or will be automatically denied. 
+If you are unsure about an image that is going to be included in a beatmap in any way, **please submit a request via [the Beatmap Nominator Report Submission page](https://bn.mappersguild.com/reports).** The image will be raised to a vote that must pass by a considerable majority, or will be automatically denied.
 
 **The result of any vote is final**, unless the image is significantly altered in an attempt to resolve any potentially problematic elements raised during discussion.
 

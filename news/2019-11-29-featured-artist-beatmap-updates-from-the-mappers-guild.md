@@ -20,7 +20,7 @@ Today we'll be going over finished quests from the Mappers' Guild, featured arti
 - [Pack updates](#pack-updates)
 - [Ranked map updates](#ranked-map-updates)
 
-## <a id="finished-quests"></a>Finished quests
+## Finished quests
 
 ![Creo header](https://assets.ppy.sh/artists/36/header.jpg)
 
@@ -122,7 +122,7 @@ This quest was completed by [tasuke912](https://osu.ppy.sh/users/2774767), [salc
 - [ALEPH - The Evil Spirit](https://osu.ppy.sh/beatmapsets/1034358) hosted by [tasuke912](https://osu.ppy.sh/users/2774767)
 - [ALEPH - Scintillations](https://osu.ppy.sh/beatmapsets/1037567) hosted by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
 
-## <a id="pack-updates"></a>Pack updates
+## Pack updates
 
 This month we also have some changes and additions to our collection of beatmap packs. A couple of packs have been moved and renamed as part of a new system to make featured artist packs more consistent going forward! Packs for artists will get their own artist packs, while packs for general themes or ideas that include multiple artists will be made into numbered "Mappers' Guild" packs.
 
@@ -144,7 +144,7 @@ The High Tea and Culprate medals have been also updated accordingly, with anyone
 
 We will be working on adding more beatmap packs and new medals regularly, so be sure to keep an eye out for that!
 
-## <a id="ranked-map-updates"></a>Ranked map updates
+## Ranked map updates
 
 This list includes all maps of featured artist tracks ranked since the previous newspost, even those mentioned previously in the quests section above. New to this round-up, we are including maps from outside the guild as well so that readers can keep up to date with all maps of songs by our featured artists!
 

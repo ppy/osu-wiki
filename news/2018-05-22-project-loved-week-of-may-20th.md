@@ -22,12 +22,12 @@ Alright, that's all for the meta talk. As always, you can vote for your favourit
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 *All osu! descriptions were written by [Toy](https://osu.ppy.sh/users/2757689)*
 
@@ -91,7 +91,7 @@ Hopping all the way back to 2012, [galvenize](https://osu.ppy.sh/users/381444)'s
 
 If it weren't for the anomaly [Mayday](https://osu.ppy.sh/beatmapsets/756794) this week, [- M a o n -](https://osu.ppy.sh/users/701533)'s Drop Pop Candy would have had the most favorites with 244. For those looking for something easier to play this Loved round, Drop Pop Candy is perfect for you. Its popularity may stem from being one of the first maps following the release of the GigaP/Reol collab song, though its mapping should not be undermined as it matches the pace perfectly.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 [![](/wiki/shared/news/2018-05-22-project-loved-week-of-may-20th/taiko/still-scared-of-ouija-boards.jpg)](https://osu.ppy.sh/community/forums/topics/749060)
 
@@ -142,7 +142,7 @@ With over 30 favorites and a great grasp of rhythm and just the right amount of 
 
 This one was for the ages. Featuring a list of over 30 incredible and noteworthy Japanese mappers, this is their biggest and best collaboration. A 15 minute medley of Kirby music and an epic collaboration of mappers can only equal pure unadulterated joy over the length of your play. Between the storyboard and the music, this is one huge nostalgia trip for taiko nerds all around the world. Names that you may recognize, names you may never have seen before, one cannot help but feel happy for the joy that osu!taiko brings to the Japanese community, and we all get to celebrate it with this map!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 [![](/wiki/shared/news/2018-05-22-project-loved-week-of-may-20th/catch/francium.jpg)](https://osu.ppy.sh/community/forums/topics/749070)
 
@@ -172,7 +172,7 @@ Similar to the standard equivalent of the song [Kanpan Tasogare Shinbun](https:/
 
 So here we have a pretty recent map from [Emiru](https://osu.ppy.sh/users/3306180), making its way into the loved section. This map contains quite a handful of sliders with hypers integrated within them, some streams as well as occasional jumpy sections. The map should not be too challenging to pass, especially thanks to the 2.8 HP it bears, but getting a solid score could prove quite challenging as you need to be very consistent. Overall a very solid map with well integrated gimmicks!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 [![](/wiki/shared/news/2018-05-22-project-loved-week-of-may-20th/mania/free-tibet-vini-vici-remix-.jpg)](https://osu.ppy.sh/community/forums/topics/749079)
 

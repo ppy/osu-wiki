@@ -5,7 +5,7 @@ tags:
 
 # Featured artists
 
-**Featured artists** are music artists that have worked with osu! to make a selection of their tracks available for use in [beatmaps](/wiki/Beatmaps) and background music in osu!'s World Cup<!-- TODO: "World Cup" should be able to link somewhere --> live streams.
+**Featured artists** are music artists that have worked with osu! to make a selection of their tracks available for use in [beatmaps](/wiki/Beatmap) and background music in osu!'s World Cup<!-- TODO: "World Cup" should be able to link somewhere --> live streams.
 
 The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist. Each artist's page houses general information about their music and a list of their tracks licensed for use in osu! accompanied by pre-timed `.osz` files for beatmapping.
 

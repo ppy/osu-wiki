@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmapping (한국어)
 
-**매핑(Beatmapping)** 은 [비트맵을](/wiki/Beatmaps) 만드는 과정이다.
+**매핑(Beatmapping)** 은 [비트맵을](/wiki/Beatmap) 만드는 과정이다.
 
 곡 선택, [타이밍](/wiki/Timing), 오브젝트 배치, 그리고 선택적으로 [스킨과](/wiki/Skinning) [스토리보드의](/wiki/Storyboarding) 제작 과정이 이에 포함된다.
 
@@ -19,7 +19,7 @@ outdated: true
 
 매퍼들이 커스텀 난이도명을 대신 넣는것도 보기 드문일이 아니다.
 
-덧붙여서 [게스트 난이도도](/wiki/Glossary) 있으며, 보통 그 매퍼의 난이도라고 표기된다.(Larto's Insane등)
+덧붙여서 [게스트 난이도도](/wiki/Beatmap/Guest_difficulty) 있으며, 보통 그 매퍼의 난이도라고 표기된다.(Larto's Insane등)
 
 맵을 어떤 스페셜 모드에만 특정하여 플레이할 수 있도록 만들 수 있다. 이지/노말 난이도가 있으면 태고/캐치 더 비트/오스매니아 난이도만으로 이루어진 맵셋도 가능하다.
 

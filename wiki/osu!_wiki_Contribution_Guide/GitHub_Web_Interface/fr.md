@@ -1,6 +1,6 @@
 # Interface Web GitHub
 
-*Cet article est la continuité de la page principale.* Si vous envisagez de modifier plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
+*Cet article est la continuité de la page principale.* Si vous envisagez de modifier plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop).
 
 ## Édition
 
@@ -44,7 +44,7 @@
 
 3\. Cliquez sur `Create new file`.
 
-4\. Entrez l'emplacement et/ou le nom de fichier de l'article que vous créez. Le chemin doit commencer par `wiki/`, suivi du titre de l'article, suivi du nom de l'environnement local (en minuscules) suivi de `.md`. ou une liste de lieux, voir le [Paramètres régionaux dans les critères de style d'article](/wiki/ASC#locales).
+4\. Entrez l'emplacement et/ou le nom de fichier de l'article que vous créez. Le chemin doit commencer par `wiki/`, suivi du titre de l'article, suivi du nom de l'environnement local (en minuscules) suivi de `.md`. ou une liste de lieux, voir le [Paramètres régionaux dans les critères de style d'article](/wiki/Article_styling_criteria/Formatting#locales).
 
 5\. Continuez à [Saving and committing](#saving-and-committing).
 
@@ -100,4 +100,4 @@
 
 ## Finition
 
-Vous pouvez maintenant revenir au [Guide de contribution du osu! wiki](/wiki/owcg#finition) pour la dernière information concernant votre demande et vos modifications.
+Vous pouvez maintenant revenir au [Guide de contribution du osu! wiki](/wiki/osu!_wiki_Contribution_Guide#finition) pour la dernière information concernant votre demande et vos modifications.

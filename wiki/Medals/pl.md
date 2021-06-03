@@ -1,15 +1,16 @@
 ---
 outdated: true
 ---
+
 # Medale
 
-Medale, znane także jako _osiągnięcia_, to odznaki wyświetlające się na profilach użytkowników. Są przyznawane za wykonanie konkretnego zadania.
+Medale, znane także jako *osiągnięcia*, to odznaki wyświetlające się na profilach użytkowników. Są przyznawane za wykonanie konkretnego zadania.
 Obecnie medale są podzielone na 5 grup: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction) oraz [Hush-Hush](#hush-hush).
 
 ## Beatmap Packs
 
 Medale **The Beatmap Packs** są przyznawane za **zagranie dowolnego poziomu trudności w każdej beatmapie** znajdującej się w danej [tematycznej paczce beatmap](https://osu.ppy.sh/p/packlist?t=t).
-Aby uzyskać status **`UKOŃCZONA`** dla danej beatmapy oraz odznakę, musisz grać w trybie [osu!standard](/wiki/osu!standard).
+Aby uzyskać status **`UKOŃCZONA`** dla danej beatmapy oraz odznakę, musisz grać w trybie [osu!](/wiki/Game_mode/osu!).
 
 Na obecną chwilę w tej grupie istnieje 16 medali, które są podzielone na 4 sekcje: Video Game, Anime, Internet! oraz Rhythm Game.
 
@@ -18,7 +19,7 @@ Obecnie, każda z tych sekcji posiada po 4 zestawy.
 ### Wymagania
 
 - Gracz musi ukończyć dowolny poziom trudności każdej beatmapy znajdującej się w danej [tematycznej paczce beatmap](https://osu.ppy.sh/p/packlist?t=t).
-- Liczy się tylko tryb osu!standard.
+- Liczy się tylko tryb osu!.
 - Wypakuj paczkę z pliku `.zip` i umieść jej zawartość w folderze `Songs`.
   Następnie włącz klienta gry i pozwól, aby przetworzył on wszystkie beatmapy.
   - Gracz może pobrać ręcznie wszystkie beatmapy z paczki i będzie się to liczyć.
@@ -34,7 +35,7 @@ Obecnie, każda z tych sekcji posiada po 4 zestawy.
 
 Medale Skill są obecnie podzielone na trzy grupy: Combo, High Ranker oraz Star-based.
 
-Medale **The Combo** są przyznawane za uzyskanie specyficznego [combo](/wiki/combo) w trybie osu!standard na dowolnej beatmapie.
+Medale **The Combo** są przyznawane za uzyskanie specyficznego [combo](/wiki/combo) w trybie osu! na dowolnej beatmapie.
 Uzyskanie takiego samego combo w trybach [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch) czy [osu!mania](/wiki/osu!mania) nie będzie zaliczać się na medal.
 
 Dla medali 1000 i 2000 combo zaleca się wyszukiwanie beatmap zatwierdzonych zamiast rankingowych.
@@ -46,9 +47,9 @@ Medale The High Ranker są przyznawane za osiągnięcie konkretnej pozycji w ran
 
 ---
 
-Medale Star-based są podzielone na dwie grupy: _Pass_ oraz _S_.
-Medale _Pass_ są przyznawane za ukończenie dowolnej beatmapy o konkretnej liczbie gwiazdek.
-Medale _S_ są przyznawane za uzyskanie [pełnego combo](/wiki/FC) wraz z oceną S na dowolnej beatmapie o konkretnej liczbie gwiazdek.
+Medale Star-based są podzielone na dwie grupy: *Pass* oraz *S*.
+Medale *Pass* są przyznawane za ukończenie dowolnej beatmapy o konkretnej liczbie gwiazdek.
+Medale *S* są przyznawane za uzyskanie [pełnego combo](/wiki/FC) wraz z oceną S na dowolnej beatmapie o konkretnej liczbie gwiazdek.
 Trudność beatmapy zostanie zaokrąglona do najbliższej pełnej liczbie gwiazdek i zostanie przyznany medal.
 Użycie modyfikacji utrudniających bądź ułatwiających rozgrywkę jest dozwolone.
 Beatmapa musi także posiadać status rankingowej bądź zatwierdzonej.
@@ -56,11 +57,11 @@ Poniżej zostały przedstawione warianty ośmiogwiazdkowe, ale istnieją medale 
 
 ## Dedication
 
-Medale Dedication są przyznawane za poświęcenie dużej ilości czasu w każdym trybie gry. Jest to rozgrywanie beatmap w trybie osu!standard, łapanie owoców w trybie osu!catch, uderzanie bębenków w trybie osu!taiko oraz naciskanie klawiszy w trybie osu!mania.
+Medale Dedication są przyznawane za poświęcenie dużej ilości czasu w każdym trybie gry. Jest to rozgrywanie beatmap w trybie osu!, łapanie owoców w trybie osu!catch, uderzanie bębenków w trybie osu!taiko oraz naciskanie klawiszy w trybie osu!mania.
 
 ## Mod Introduction
 
-_Zobacz także: [Modyfikacje](/wiki/Game_modifier)._
+*Zobacz także: [Modyfikacje](/wiki/Game_modifier).*
 
 Medale Mod Introduction są przyznawane za ukończenie dowolnej beatmapy z konkretną modyfikacją.
 Mają one za zadanie zachęcić nowszych użytkowników do wypróbowania każdej modyfikacji oraz odkrycia, co osu! ma do zaoferowania.
@@ -74,5 +75,5 @@ Podpowiedź znajduje się w tytule medalu.
 
 ## Źródła
 
-- [Oryginalne paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Beatmap_Packs_0916)
+- [Oryginalne paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Legacy_Beatmap_Packs)
 - [Wątek peppy'ego dot. grafik medali](https://osu.ppy.sh/community/forums/topics/80448).

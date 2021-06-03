@@ -45,7 +45,7 @@ Vamos aprender sobre os tipos de hit-objects.
 
 - Aqui você pode ver os círculos (mais conhecidos como hit-circles, circles ou apenas nota) que você deve acertar. note que eles são numerados, você deve acerta-los em ordem crescente até um novo conjunto aparecer.
   - O circulo menor na parte de fora (conhecido como approach-circle ou circulo de aproximação) encolhe e você tem que acertar a nota no momento exato que o approach circle e o hitcircle se tocam.
-- Você não deve apenas depender de seus olhos para calcular o momento certo de acertar as notas. Tente entender que tipo de ritmo o criador do [Beatmap](/wiki/Beatmaps) está seguindo usando seus ouvidos.
+- Você não deve apenas depender de seus olhos para calcular o momento certo de acertar as notas. Tente entender que tipo de ritmo o criador do [Beatmap](/wiki/Beatmap) está seguindo usando seus ouvidos.
 
 ##### Sliders
 
@@ -263,7 +263,7 @@ Padrão de teclas *Esquerda-a-Direita* (estilo Beatmania IIDX)
 
 ### Onde eu encontro beatmaps para baixar?
 
-*Explicação detalhada sobre beatmaps: [Beatmaps](/wiki/Beatmaps)*
+*Explicação detalhada sobre beatmaps: [Beatmaps](/wiki/Beatmap)*
 
 Você pode encontrar beatmaps para baixar na pagina principal com o nome "[Beatmaps](https://osu.ppy.sh/beatmapsets)".
 

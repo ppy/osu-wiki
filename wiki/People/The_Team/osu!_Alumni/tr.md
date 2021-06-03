@@ -75,6 +75,7 @@
 | ![][flag_FI] [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
 | ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) | GMT, QAT |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | BAT, sohbet moderatörü, GMT, QAT |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | BAT, GMT, QAT |
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | QAT |
 | ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ![][flag_FI] [Gemi](https://osu.ppy.sh/users/7365) | BAT |
@@ -101,6 +102,7 @@
 | ![][flag_US] [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Turnuvalar |
 | ![][flag_MX] [Kai](https://osu.ppy.sh/users/4537) | BAT |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, osu!media yapımı |
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
@@ -109,6 +111,7 @@
 | ![][flag_US] [kingcobra52](https://osu.ppy.sh/users/9934) | BAT |
 | ![][flag_AU] [kingking9](https://osu.ppy.sh/users/1277097) | GMT |
 | ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) | Sohbet moderatörü |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | BAT, sohbet moderatörü, GMT, QAT |
 | ![][flag_FR] [Krah](https://osu.ppy.sh/users/1436748) | BAT, GMT, QAT |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | BAT |
 | ![][flag_KR] [KRZY](https://osu.ppy.sh/users/114017) | Sohbet moderatörü |
@@ -118,7 +121,9 @@
 | ![][flag_CA] [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
 | ![][flag_RU] [La Cataline](https://osu.ppy.sh/users/301279) | Sohbet moderatörü |
 | ![][flag_CA] [Lanturn](https://osu.ppy.sh/users/1446665) | QAT |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | QAT, NAT |
 | ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530) | GMT |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | NAT |
 | ![][flag_DO] [Lissette](https://osu.ppy.sh/users/19835) | BAT |
 | ![][flag_DO] [Lizbeth](https://osu.ppy.sh/users/21970) | MAT |
 | ![][flag_CN] [ljqandylee](https://osu.ppy.sh/users/141469) | BAT |
@@ -136,6 +141,7 @@
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | QAT, NAT |
 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, osu!dev |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
@@ -153,10 +159,8 @@
 | ![][flag_UY] [narakucrimson](https://osu.ppy.sh/users/287468) | BAT |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | QAT, NAT |
 | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
-| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | BAT |
 | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | NAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
-| ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | BAT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
@@ -209,6 +213,7 @@
 | ![][flag_US] [TheVileOne](https://osu.ppy.sh/users/278862) | osu!dev |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | BAT |
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
+| ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Sohbet moderatörü |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
@@ -231,7 +236,6 @@
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | osu!academy kurucusu |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"

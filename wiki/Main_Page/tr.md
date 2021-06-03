@@ -30,7 +30,7 @@ osu! ile ilgili çok çeşitli bilgiler içeren bir proje olan osu! wiki'ye hoş
 
 [Oyun modları](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmaps) • [Vuruş objesi](/wiki/Hit_object) • [Modlar](/wiki/Game_modifier) • [Skor](/wiki/Score) • [Tekrar](/wiki/Replay) • [Çoklu](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Vuruş objesi](/wiki/Hit_object) • [Modlar](/wiki/Game_modifier) • [Skor](/wiki/Score) • [Tekrar](/wiki/Replay) • [Çoklu](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -41,7 +41,7 @@ Kısımlar: [Oluştur](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatmap_
 
 Öğeler: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Nota ızgara bölücü](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Mesafe aralığı](/wiki/Beatmap_Editor/Distance_Snap) • [Menü](/wiki/Beatmap_Editor/Menu) • [SB yükü](/wiki/Beatmap_Editor/SB_Load) • [Zaman çizgileri](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmap oluşturma](/wiki/Beatmapping) • [Zorluklar](/wiki/Difficulties) • [Mapleme teknikleri](/wiki/Mapping_Techniques) • [Storyboard oluşturma](/wiki/Storyboarding)
+[Beatmap oluşturma](/wiki/Beatmapping) • [Zorluklar](/wiki/Beatmap/Difficulty) • [Mapleme teknikleri](/wiki/Mapping_Techniques) • [Storyboard oluşturma](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -1,6 +1,6 @@
 # Bem-vindo
 
-Bem-vindo ao osu!, um jogo de ritmo free-to-win desenvolvido por peppy com quatro modalidades de jogo: osu!standard, um simulador de cliques em círculos; osu!taiko, um emulador de tambor; osu!catch, um coletor de salada de frutas; osu!mania, um modo de ritmo com ênfase em esmagar o teclado.
+Bem-vindo ao osu!, um jogo de ritmo free-to-win desenvolvido por peppy com quatro modalidades de jogo: osu!, um simulador de cliques em círculos; osu!taiko, um emulador de tambor; osu!catch, um coletor de salada de frutas; osu!mania, um modo de ritmo com ênfase em esmagar o teclado.
 
 ## Pontos de interesse gerais
 
@@ -9,13 +9,13 @@ Bem-vindo ao osu!, um jogo de ritmo free-to-win desenvolvido por peppy com quatr
 - [Regras](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
 - [Modalidades de Jogo](/wiki/Game_mode)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Multi](/wiki/Multi)
 - [Ranking Criteria](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
@@ -44,4 +44,4 @@ Skinning permite qualquer um mudar o jeito que o osu! se parece. Isso pode ser p
 
 Desde 26 de Agosto de 2016, a osu! wiki foi movida para um repositório do Github. Após essa mudança, o fluxo de trabalho mudou drasticamente. Atualmente, todas as contribuições passam pelo [Repositório do  osu-wiki](https://github.com/ppy/osu-wiki), no qual são então revisadas, aprovadas e mescladas à osu! wiki.
 
-Para começar, confira o [Guia de Contribuição da osu! wiki](/wiki/owcg).
+Para começar, confira o [Guia de Contribuição da osu! wiki](/wiki/osu!_wiki_Contribution_Guide).

@@ -8,7 +8,7 @@ tags:
 
 ![SOL2 logo](img/logo.jpg)
 
-**Speed of Light 2: Lucha Libre Edition** (***SOL2***) is a double-elimination 1v1 osu!mania 4-key tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). It is the second installment of the Speed of Light.
+**Speed of Light 2: Lucha Libre Edition** (***SOL2***) was a double-elimination 1v1 osu!mania 4-key tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). It was the second installment of the Speed of Light.
 
 ## Tournament schedule
 
@@ -21,9 +21,9 @@ tags:
 | Round of 32 | 2020-12-04/2020-12-06 |
 | Round of 16 | 2020-12-12/2020-12-13 |
 | Quarterfinals | 2020-12-19/2020-12-20 |
-| Semifinals | 2020-12-26/2021-01-03 |
+| Semifinals | 2021-01-02/2021-01-03 |
 | Finals | 2021-01-09/2021-01-10 |
-| Grand Finals | 2021-01-16/2021-01-17 |
+| Grand Finals | 2021-01-23/2021-01-24 |
 
 ## Prizes
 
@@ -152,7 +152,60 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 | **O** | El poullios del gold pimousse | Twinkle Wish | Guayando Squad II | Karen best girl |
 | **P** | regular team | chut | RICE ZEUS | mr gamma skippers |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **regular team** (![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **World's Fastest Gamers** (![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [EtienneXC](https://osu.ppy.sh/users/5610085)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **BOTTOM GEAR** (![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_GB] [Yonk\_](https://osu.ppy.sh/users/5156656)) |
+| *4th place* | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** (![][flag_US] [iylwrychi](https://osu.ppy.sh/users/7794488), ![][flag_US] [mashu](https://osu.ppy.sh/users/12028216)) |
+
 ## Mappools
+
+### Grand Finals
+
+- FreeMod
+  - [BLANKFIELD - Far From Truth (HowToPlayLN) \[Unreasonable x1.1\]](https://osu.ppy.sh/beatmapsets/1277379#mania/2784350)
+  - [Bring Me The Horizon - Can You Feel My Heart (Guilhermeziat) \[Guilhermeziat's Beginner 1.05\]](https://osu.ppy.sh/beatmapsets/1344358#mania/2784233)
+  - [Infected Mushroom - Sa'eed (IcyWorld) \[IcyWorld's Challenge 1.25\]](https://osu.ppy.sh/beatmapsets/1344456#mania/2784390)
+  - [Xanopticon - Drunxpla (axtrmnt) \[static \[105x Rate\]\]](https://osu.ppy.sh/beatmapsets/1329447#mania/2754137)
+  - [Terminal 11 - UNDICI (ZetaSM) \[Zeta's The End 1.05x\]](https://osu.ppy.sh/beatmapsets/1340137#mania/2776359)
+  - [Terminal 11 - Staple On Smile (hi19hi19) \[Extreme 1.15x\]](https://osu.ppy.sh/beatmapsets/1309129#mania/2767504)
+  - [Akira Complex - Odyssey (Au5 Remix) (Shoegazer) \[Shoegazer's Dreamless 1.25x\]](https://osu.ppy.sh/beatmapsets/1344333#mania/2784198)
+  - [Syatten - Beyond The Limit (Cataclysm-) \[aeyeong's Challenge (167bpm)\]](https://osu.ppy.sh/beatmapsets/1344339#mania/2784205)
+  - [Camellia feat. Nanahira - finorza (HowToPlayLN) \[HowToPlayLN's Defiance 1.05 (cut/edit)\]](https://osu.ppy.sh/beatmapsets/1344353#mania/2784224)
+  - [Camellia - Arcology On Permafrost (-mint-) \[Frozen World 1.2x\]](https://osu.ppy.sh/beatmapsets/1339461#mania/2775322)
+  - [Camellia - GHOST (lemonguy) \[Gekido's Conspicuous 1.1\]](https://osu.ppy.sh/beatmapsets/1344357#mania/2784231)
+  - [DJ Genki vs Gram - Einherjar Joker (MyZterioN-) \[MyZterioN's Andhrimnir 1.05\]](https://osu.ppy.sh/beatmapsets/1344327#mania/2784192)
+  - [umu. - humanly (Raveille) \[Raveille's timing hell? 1.1 (edit)\]](https://osu.ppy.sh/beatmapsets/1344321#mania/2784184)
+  - [Frums - Nisemono (\[Crz\]Crysarlene) \[Crysarlene's Fleece (cut)\]](https://osu.ppy.sh/beatmapsets/1344329#mania/2784194)
+  - [lapix - You're Beautiful (DannyPX) \[You're Mine (cut/edit) \[1.2x Rate\]\]](https://osu.ppy.sh/beatmapsets/1309671#mania/2774411)
+- Tiebreaker
+  - **[Camellia - OOPARTS (Halogen-) \[Indecipherable\]](https://osu.ppy.sh/beatmapsets/1344963#mania/2785547)**
+
+### Finals
+
+- FreeMod
+  - [Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE (lemonguy) \[Challenge x1.22\]](https://osu.ppy.sh/beatmapsets/1205858#mania/2772986)
+  - [Kraus - Reach (-Lethal-) \[invisible 1.25x\]](https://osu.ppy.sh/beatmapsets/989100#mania/2773267)
+  - [Occams Laser - Heck Tech (Penguinosity) \[ORBITAL FAILURE 1.05\]](https://osu.ppy.sh/beatmapsets/1338648#mania/2772965)
+  - [Frums - Pictured as Perfect (-mint-) \[Daze (cut edit 1.1x)\]](https://osu.ppy.sh/beatmapsets/981508#mania/2759072)
+  - [Underoath - Writing On The Walls (Final Sketch Remix) (Shoegazer) \[Memory (282bpm)\]](https://osu.ppy.sh/beatmapsets/1210223#mania/2524417)
+  - [Bong Ra vs Igorrr - Pallbearer (DannyPX) \[Necropolis (intro cut)\]](https://osu.ppy.sh/beatmapsets/1250516#mania/2757808)
+  - [Sweet Trip - Tekka (stupud man) \[Windoze's Challenge 1.05\]](https://osu.ppy.sh/beatmapsets/1338808#mania/2773292)
+  - [dj TAKA - Last Dance (stupud man) \[1.1... 2.2...\]](https://osu.ppy.sh/beatmapsets/1082122#mania/2773305)
+  - [Camellia - +ERABY+E CONNEC+10N (HowToPlayLN) \[504 ServerError: Gateway Timeout\]](https://osu.ppy.sh/beatmapsets/1338625#mania/2772922)
+  - [Chroma - Destroy Destroy, Destroy The Happy End (Penguinosity) \[Buffalo Chicken 1.1\]](https://osu.ppy.sh/beatmapsets/1338640#mania/2772946)
+  - [Ling tosite sigure - abnormalize (Shoegazer) \[Shoegazer's desperation 1.25\]](https://osu.ppy.sh/beatmapsets/1338810#mania/2773296)
+  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_columnlocked\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2296388)
+  - [Helix6 - No. 6 (\[Crz\]Crysarlene) \[X\]](https://osu.ppy.sh/beatmapsets/881711#mania/2466829)
+  - [a\_hisa - Logical Stimulus (FelixSpade) \[LN Prodigy \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1072971#mania/2246337)
+  - [Feryquitous - Central Nucleus (Davvy) \[Davvy's Endoplasmic Reticulum (Edit)\]](https://osu.ppy.sh/beatmapsets/1338805#mania/2773284)
+- Tiebreaker
+  - **[Camellia - Stealth-Dash (HowToPlayLN) \[Undetectable 1.05 (nsv)\]](https://osu.ppy.sh/beatmapsets/1278064#mania/2655224)**
 
 ### Semifinals
 
@@ -250,6 +303,57 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
   - [Dictate - Militant (HowToPlayLN) \[Stage 4: Crewmate\]](https://osu.ppy.sh/beatmapsets/1294796#mania/2686656)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 23 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| BOTTOM GEAR | 0 | **7** | **regular team** | [#1](https://osu.ppy.sh/community/matches/74040019) |
+
+Sunday, 24 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| World's Fastest Gamers | 2 | **7** | **regular team** | [#1](https://osu.ppy.sh/community/matches/74119565) |
+| **regular team** | **7** | 0 | World's Fastest Gamers | [#1](https://osu.ppy.sh/community/matches/74123558) |
+
+### Finals
+
+Saturday, 9 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **regular team** | **7** | 4 | Oh Ten | [#1](https://osu.ppy.sh/community/matches/73080463) |
+| Xx\_OWO\_xX | 0 | **7** | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | [#1](https://osu.ppy.sh/community/matches/73098057) |
+
+Sunday, 10 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Duck Spinning To Geometry Dash Practice Mode Song 10 Hours | 0 | **7** | **regular team** | [#1](https://osu.ppy.sh/community/matches/73154873) |
+| **World's Fastest Gamers** | **7** | 2 | BOTTOM GEAR | [#1](https://osu.ppy.sh/community/matches/73169981) |
+
+### Semifinals
+
+Saturday, 2 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Crewhop\_fury | 2 | **6** | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | [#1](https://osu.ppy.sh/community/matches/72628976) |
+| **Oh Ten** | **6** | 3 | MajulahSGET | [#1](https://osu.ppy.sh/community/matches/72648317) |
+| **EggFriendRiceWithWokHay** | **6** | 0 | COME TO BRAZIL | *win by default* |
+| El poullios del gold pimousse | 4 | **6** | **\[9:30 PM\] Remu: good eletric computer team** | [#1](https://osu.ppy.sh/community/matches/72668053) |
+
+Sunday, 3 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[9:30 PM\] Remu: good eletric computer team | 5 | **6** | **Oh Ten** | [#1](https://osu.ppy.sh/community/matches/72684450) |
+| **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | **6** | 0 | EggFriendRiceWithWokHay | [#1](https://osu.ppy.sh/community/matches/72686683) |
+| **World's Fastest Gamers** | **6** | 3 | regular team | [#1](https://osu.ppy.sh/community/matches/72706831) |
+| **BOTTOM GEAR** | **6** | 3 | Xx\_OWO\_xX | [#1](https://osu.ppy.sh/community/matches/72714687) |
 
 ### Quarterfinals
 

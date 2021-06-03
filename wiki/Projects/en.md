@@ -46,7 +46,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/itdelatrisu/opsu) | [Website](http://itdelatrisu.github.io/opsu/)
 - [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175)—Python clone of osu!
 - [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640)—A free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") game that plays osu! beatmaps on your iPhone or Android device.
-- osu!droid—An unofficial osu! client written for Android.
+- osu!droid—An unofficial osu! client written for Android, open source.
+  - [GitHub](https://github.com/osudroid/osu-droid)
   - [Website](http://ops.dgsrz.com/)
 
 ### Gameplay
@@ -59,7 +60,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/jkapi/Osu-Replays)
 - [Remote osu! Keyboard](https://osu.ppy.sh/community/forums/topics/391981?n=1)—An android application that allows your phone to act as a keyboard input device.
 
-#### osu!standard
+#### osu!
 
 - [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716)—Determines one's tapping speed.
 
@@ -92,7 +93,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/Tom94/AiModtpDifficultyCalculator)
 - [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059)—A tool that stabilizes the slider velocity after BPM changes.
 
-#### osu!standard
+#### osu!
 
 - [osu! Slider Creator Tool](https://osu.ppy.sh/community/forums/topics/536978)—Translate drawn shapes into sliders.
   - [GitHub](https://github.com/kamisenpaii/slider-creator)
@@ -112,7 +113,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - [Hitsound Detective](https://osu.ppy.sh/community/forums/topics/488175)—Checks for unused hitsounds in other difficulties (based on the selected difficulty).
 - [Keysound Maker](https://osu.ppy.sh/community/forums/topics/488175)—Creates keysounds for osu!mania.
   - [GitHub](https://github.com/dudehacker/Osu-Keysound-Maker)
-- [lua-mania](https://osu.ppy.sh/community/forums/topics/465914)—Converts osu!standard, osu!taiko, and osu!catch beatmaps to osu!mania.
+- [lua-mania](https://osu.ppy.sh/community/forums/topics/465914)—Converts osu!, osu!taiko, and osu!catch beatmaps to osu!mania.
   - [GitHub](https://github.com/semyon422/lua-mania)
 - [Magic Copy](https://osu.ppy.sh/community/forums/topics/488175)—A tool that copies hitsounds from one difficulty to another and works with default and custom hitsounds.
 - [Note Density calculator](https://osu.ppy.sh/community/forums/topics/488175)—Lists the distribution of keys in osu!mania maps.
@@ -141,6 +142,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Skinning
 
+- [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643)—Removes fringes from skin elements.
+  - [GitHub](https://github.com/RoanH/FringeRemover)
 - [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684)—Downscale HD skinning elements to SD.
   - [GitHub](https://github.com/RoanH/ImageScaler)
 - [Mania Column Centering](https://osu.ppy.sh/community/forums/topics/581972)—Calculates the osu!mania stage positioning to make it centre.

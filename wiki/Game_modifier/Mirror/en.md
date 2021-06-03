@@ -17,11 +17,11 @@ tags:
 - Abbreviation: MR
 - Type: Special
 - Score Multiplier: 1.00x
-- Compatible game modes: ![][o!m]
+- Compatible game modes: ![][osu!mania]
 
 ## Description
 
-The **Mirror** mod is [game modifier](/wiki/Game_modifier) for [osu!mania](/wiki/Game_mode/osu!mania) that attempts to aid left-hand-dominant players in playing [beatmaps](/wiki/Beatmaps) that were originally mapped with right-handed patterns in-mind. The mod achieves this by reflecting the notes across a virtual y-axis that runs down the middle of the osu!mania keyboard. I.e., it "mirrors" the notes. Specifically, the mirroring of notes is as follows:
+The **Mirror** mod is [game modifier](/wiki/Game_modifier) for [osu!mania](/wiki/Game_mode/osu!mania) that attempts to aid left-hand-dominant players in playing [beatmaps](/wiki/Beatmap) that were originally mapped with right-handed patterns in-mind. The mod achieves this by reflecting the notes across a virtual y-axis that runs down the middle of the osu!mania keyboard. I.e., it "mirrors" the notes. Specifically, the mirroring of notes is as follows:
 
 ![MR gameplay](img/MR-comparison-mania.jpg "Comparison between a regular play (left) vs. a play with the Mirror mod enabled (right) in osu!mania")
 
@@ -34,4 +34,4 @@ The reasoning behind this is that many osu!mania beatmaps are mapped by right-ha
   - The current Mirror mod had actually been requested multiple times, and years before Kamuy's feature request, but Kamuy's was the only post that actually gained enough attention for the mod to actually be added.
 - The Mirror mod is the only game modifier in the "Special" category that affects neither the amount of [performance points (pp)](/wiki/Performance_Points) nor [score](/wiki/Score) that a player gains, whilst still being rankable.
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

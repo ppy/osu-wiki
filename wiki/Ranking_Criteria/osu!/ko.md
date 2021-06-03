@@ -2,7 +2,7 @@
 
 ***참고: 이 문서는 [일반 랭크 기준](/wiki/Ranking_Criteria)의 연장입니다.***
 
-이 **osu! 랭크 기준** 문서는 [osu! 스탠다드](/wiki/Game_mode/osu!) [비트맵](/wiki/Beatmaps)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_Criteria#general-terms)을 제시합니다.
+이 **osu! 랭크 기준** 문서는 [osu! 스탠다드](/wiki/Game_mode/osu!) [비트맵](/wiki/Beatmap)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_Criteria#general-terms)을 제시합니다.
 
 ## 종합
 
@@ -53,13 +53,13 @@
 
 *주 문서: [난이도명](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Insane
-- ![](/wiki/shared/diff/expert-s.png) Expert
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Insane
+- ![](/wiki/shared/diff/expert-o.png) Expert
 
-### ![](/wiki/shared/diff/easy-s.png) Easy
+### ![](/wiki/shared/diff/easy-o.png) Easy
 
 #### 규칙
 
@@ -90,7 +90,7 @@
 - [OD](/wiki/Beatmapping/Overall_difficulty) / [HP](/wiki/Beatmapping/HP_drain_rate)는 1 이상 3 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 4 이하여야 합니다.
 
-### ![](/wiki/shared/diff/normal-s.png) Normal
+### ![](/wiki/shared/diff/normal-o.png) Normal
 
 #### 규칙
 
@@ -130,7 +130,7 @@
 - [OD](/wiki/Beatmapping/Overall_difficulty) / [HP](/wiki/Beatmapping/HP_drain_rate)는 3 이상 5 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 5 이하여야 합니다.
 
-### ![](/wiki/shared/diff/hard-s.png) Hard
+### ![](/wiki/shared/diff/hard-o.png) Hard
 
 #### Rules
 
@@ -141,8 +141,8 @@
 
 - **스피너의 끝 지점과 그다음 노트 사이에는 1비트 이상의 간격이 주어져야 합니다.** 이는 스피너를 돌린 뒤 다음 노트를 클릭하기까지 충분한 시간을 부여하기 위함입니다.
 - **노트 밀도는 주로 1/2, 가끔 1/4, 또는 이보다 느린 박자로 구성되어야 합니다.**
-- **한번에 5타 초과의 [연타](/wiki/Beatmaps/Pattern/Stream)를 넣는 것을 지양하세요.** 노래에 맞추어 넣어야 할 경우 짧은 길이의 리버스 슬라이더로 대체하여 넣을 수 있습니다.
-- **다른 박자에 대하여 시각적으로 같은 배치를 지양하세요.** [점프](/wiki/Beatmaps/Pattern/Jump)를 통해 강조를 주는 것은 권장되나, 다른 박자와는 확실히 구분될 수 있어야 합니다.
+- **한번에 5타 초과의 [연타](/wiki/Beatmap/Pattern/Stream)를 넣는 것을 지양하세요.** 노래에 맞추어 넣어야 할 경우 짧은 길이의 리버스 슬라이더로 대체하여 넣을 수 있습니다.
+- **다른 박자에 대하여 시각적으로 같은 배치를 지양하세요.** [점프](/wiki/Beatmap/Pattern/Jump)를 통해 강조를 주는 것은 권장되나, 다른 박자와는 확실히 구분될 수 있어야 합니다.
 - **슬라이더 틱 히트사운드는 권장되지 않습니다.** 만약 사용하고 싶다면, 볼륨이 제대로 맞춰져 있는지 확인해보세요 (다른 히트사운드보다 너무 작은 경우 등). 너무 시끄러운 슬라이더 틱은 (특히 한 번이나 두 번 정도밖에 쓰이지 않으면) 듣기에 매우 불편할 수 있습니다.
 - **2비트보다 짧은 스피너의 사용을 지양하세요.** 플레이어들은 스피너를 인식하기까지 충분한 시간이 필요합니다.
 - **슬라이더 리버스에 도달한 후 2비트 이내에 리버스 화살표와 같은 자리에 히트 오브젝트를 놓는 것을 지양하세요.** 이는 플레이어에게 리버스 화살표를 인식할 수 있는 충분한 시간을 부여하기 위함입니다.
@@ -155,13 +155,13 @@
 - [HP](/wiki/Beatmapping/HP_drain_rate)는 4 이상 6 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 6 이하여야 합니다.
 
-### ![](/wiki/shared/diff/insane-s.png) Insane
+### ![](/wiki/shared/diff/insane-o.png) Insane
 
 #### 가이드라인
 
 - **서로 1/4비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Mapping_Techniques/Overlap)되서는 안 됩니다.** (특히 단순한 Insane 난이도의 경우)
 - **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
-- **화면을 가로지르는 [점프](/wiki/Beatmaps/Pattern/Jump) 혹은 노트들끼리 겹치지 않는 [연타](/wiki/Beatmaps/Pattern/Stream)의 사용을 지양하세요.** 이들은 Expert 레벨 이상의 매핑을 위한 기술입니다.
+- **화면을 가로지르는 [점프](/wiki/Beatmap/Pattern/Jump) 혹은 노트들끼리 겹치지 않는 [연타](/wiki/Beatmap/Pattern/Stream)의 사용을 지양하세요.** 이들은 Expert 레벨 이상의 매핑을 위한 기술입니다.
 - **슬라이더 틱 히트사운드는 권장되지 않습니다.** 만약 사용하고 싶다면, 볼륨이 제대로 맞춰져 있는지 확인해보세요 (다른 히트사운드보다 너무 작은 경우 등). 너무 시끄러운 슬라이더 틱은 (특히 한 번이나 두 번 정도밖에 쓰이지 않으면) 듣기에 매우 불편할 수 있습니다.
 - **슬라이더 리버스에 도달한 후 1/2비트 이내에 리버스 화살표와 같은 자리에 히트 오브젝트를 놓는 것을 지양하세요.** 이는 플레이어에게 리버스 화살표를 인식할 수 있는 충분한 시간을 부여하기 위함입니다.
 - **1/2비트 이내의 슬라이더 몸통끼리 서로 완전히 [오버랩](/wiki/Mapping_Techniques/Overlap)되는 것을 지양하세요.** 이는 슬라이더 몸통을 읽기 애매하게 하며 자칫 플레이어들이 서클로 리딩하게 할 수도 있습니다.
@@ -173,7 +173,7 @@
 - [HP](/wiki/Beatmapping/HP_drain_rate)는 5 이상 8 이하여야 합니다.
 - [CS](/wiki/Beatmapping/Circle_size)는 7 이하여야 합니다.
 
-### ![](/wiki/shared/diff/expert-s.png) Expert
+### ![](/wiki/shared/diff/expert-o.png) Expert
 
 #### 가이드라인
 

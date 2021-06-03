@@ -18,11 +18,11 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207), [SoraRoxas01](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -105,7 +105,7 @@ Hey TWICE fans, here's another mapset you can add to your collections! CharmCast
 
 Ah, this is a classic. I'm sure many of you know this song already, but what about this amazing map to go along with it? Alvieee's mapset of the iconic song "Take On Me" has a full difficulty spread from low-2 stars to mid-5, and features a guest difficulty from HydroCannon13. The maps themselves are very jump-focused, all with circle sizes slightly larger than 4. If you've always wanted to click circles to the sounds of Take On Me, now's your chance—and while you're at it, drop a vote if you want to see the map in the Loved category!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Zak](https://osu.ppy.sh/users/1375955)! This week, all osu!catch beatmap descriptions were written by [Sartan](https://osu.ppy.sh/users/4100941).
 
@@ -127,7 +127,7 @@ With a history of being picked in the osu!catch World Cup 2016, as well as some 
 
 Other than that the map is fairly straightforward, without any weird gimmicks, any bizarre bells or whistles, and that's what makes it charming. It has tons of replayability as most people know. So check it out if you haven't yet and enjoy yourself a very musical and jump heavy **night**!"
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

@@ -12,12 +12,12 @@ In case you're new here: Project Loved runs monthly polls to decide which unrank
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207)! This round, all osu!standard beatmap descriptions were written by [DigitalHypno](https://osu.ppy.sh/users/4384207).
 
@@ -93,7 +93,7 @@ It's rare to find a full, high quality mapset focused entirely on streams and st
 
 The way I see it, there's a big difference between a map with 2B elements and a true 2B map. A true 2B map would be one with the gimmick defining the very soul of the map to the point where it basically feels like you're playing a completely different game. This sort of map is almost impossible to execute well, but that has never stopped fanzhen0019 from delivering a perfect execution of whatever gimmick they decide for their map. This map essentially tells an entire story with the way it's created, enriching the gameplay experience to a degree that almost no other map can do. To put it shortly, don't overlook this map, as it displays a side of osu! mapping that is criminally underrated.
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [nyanmi-1828](https://osu.ppy.sh/users/6866480), [POCARI SWEAT](https://osu.ppy.sh/users/5082685) and [Raphalge](https://osu.ppy.sh/users/3918650)!
 
@@ -133,7 +133,7 @@ Congratulations to \_Rise for #1 on osu!taiko Japanese Beatmap Contest Light Edi
 
 単純な1/4パターンや高速な体力譜面を"rice"というジャンルでくくったりしますが（mania特有の表現？）...もし"Rise"というジャンルを作るのであれば、この譜面のような、「努力の結晶」、「精密に作られたパズル」のような譜面を総称していうでしょう。この曲の難解なリズムをここまで精密に再現出来ているのは、最高峰のマッピングスキルを持っている_Riseだからでしょう。音取りだけでなく、小節線での表現も必見です。あなたは、宇宙の誕生を見ることが出来るでしょう...
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Spectator](https://osu.ppy.sh/users/702598), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
 
@@ -181,7 +181,7 @@ The \[IMT Oni\] difficulty is *not* being nominated for Loved.\
 
 This week, we have one extra mapset going for Loved, featured in one of the osu!mania picks! rew0825 is mostly known for their mapsets that have a full spread and the occasional map targeted for the higher ranked players. While this mapset doesn't have a full spread, it still has two difficulties, a Platter and a Rain! Both difficulties were mapped back in 2014, giving it a whole different vibe compared to the current Platters and Rains. Because of this they will give you some trouble because of how the mapping scene has evolved to this day.
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Abraxos](https://osu.ppy.sh/users/5025064), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

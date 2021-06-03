@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Divisor de ritmo
 
 El Divisor de ritmo se usa para limitar dónde se pueden colocar notas para que siempre caigan al ritmo. Mover el control deslizante hacia la derecha aumenta la granularidad de las notas, es decir, se pueden colocar más notas en la misma medida.

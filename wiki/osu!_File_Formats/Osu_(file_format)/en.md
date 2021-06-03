@@ -22,6 +22,7 @@ The following content is separated into sections, indicated by section titles in
 ## General
 
 <!-- TODO: this is missing some functional options that are leftover from very old file formats -->
+
 | Option | Value type | Description | Default value |
 | :-- | :-- | :-- | :-- |
 | `AudioFilename` | String | Location of the audio file relative to the current folder |  |
@@ -68,8 +69,8 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | `Version` | String | Difficulty name |
 | `Source` | String | Original media the song was produced for |
 | `Tags` | Space-separated list of strings | Search terms |
-| `BeatmapID` | Integer | Beatmap ID |
-| `BeatmapSetID` | Integer | Beatmapset ID |
+| `BeatmapID` | Integer | Difficulty ID |
+| `BeatmapSetID` | Integer | Beatmap ID |
 
 ## Difficulty
 
@@ -79,7 +80,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | `CircleSize` | Decimal | CS setting (0–10) |
 | `OverallDifficulty` | Decimal | OD setting (0–10) |
 | `ApproachRate` | Decimal | AR setting (0–10) |
-| `SliderMultiplier` | Decimal | Base slider velocity in hecto-[osu! pixels](/wiki/Glossary#osupixel) per beat <!-- TODO: this prefix sounds awful ಠ_ಠ --> |
+| `SliderMultiplier` | Decimal | Base slider velocity in hecto-[osu! pixels](/wiki/osupixel) per beat <!-- TODO: this prefix sounds awful ಠ_ಠ --> |
 | `SliderTickRate` | Decimal | Amount of slider ticks per beat |
 
 ## Events
@@ -95,7 +96,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 *Background syntax:* `0,0,filename,xOffset,yOffset`
 
 - **`filename` (String):** Location of the background image relative to the beatmap directory. Double quotes are usually included surrounding the filename, but they are not required.
-- **`xOffset` (Integer)** and **`yOffset` (Integer):** Offset in [osu! pixels](/wiki/Glossary#osupixel) from the center of the screen. For example, an offset of `50,100` would have the background shown 50 osu! pixels to the right and 100 osu! pixels down from the center of the screen. If the offset is `0,0`, writing it is optional.
+- **`xOffset` (Integer)** and **`yOffset` (Integer):** Offset in [osu! pixels](/wiki/osupixel) from the center of the screen. For example, an offset of `50,100` would have the background shown 50 osu! pixels to the right and 100 osu! pixels down from the center of the screen. If the offset is `0,0`, writing it is optional.
 
 ### Videos
 
@@ -117,7 +118,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 *For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard_Scripting).*
 
-Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all beatmaps in a beatmapset.
+Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all difficulties in a beatmap.
 
 Each beatmap may contain its own difficulty-specific storyboard, either in conjunction with the external storyboard or by itself.
 
@@ -179,7 +180,7 @@ All options in this section represent colours. They are comma-separated triplets
 
 *Hit object syntax:* `x,y,time,type,hitSound,objectParams,hitSample`
 
-- **`x` (Integer)** and **`y` (Integer):** Position in [osu! pixels](/wiki/Glossary#osupixel) of the object.
+- **`x` (Integer)** and **`y` (Integer):** Position in [osu! pixels](/wiki/osupixel) of the object.
 - **`time` (Integer):** Time when the object is to be hit, in milliseconds from the beginning of the beatmap's audio.
 - **`type` (Integer):** Bit flags indicating the type of the object. See [the type section](#type).
 - **`hitSound` (Integer):** Bit flags indicating the hitsound applied to the object. See [the hitsounds section](#hitsounds).
@@ -259,7 +260,7 @@ Hit circles do not have additional `objectParams`.
 - **`curveType` (Character):** Type of curve used to construct this slider (`B` = bézier, `C` = centripetal catmull-rom, `L` = linear, `P` = perfect circle)
 - **`curvePoints` (Pipe-separated list of strings):** Points used to construct the slider. Each point is in the format `x:y`.
 - **`slides` (Integer):** Amount of times the player has to follow the slider's curve back-and-forth before the slider is complete. It can also be interpreted as the repeat count plus one.
-- **`length` (Decimal):** Visual length in [osu! pixels](/wiki/Glossary#osupixel) of the slider.
+- **`length` (Decimal):** Visual length in [osu! pixels](/wiki/osupixel) of the slider.
 - **`edgeSounds` (Pipe-separated list of integers):** Hitsounds that play when hitting edges of the slider's curve. The first sound is the one that plays when the slider is first clicked, and the last sound is the one that plays when the slider's end is hit.
 - **`edgeSets` (Pipe-separated list of strings):** Sample sets used for the `edgeSounds`. Each set is in the format `normalSet:additionSet`, with the same meaning as in [the hitsounds section](#hitsounds).
 
@@ -279,7 +280,7 @@ If the slider's `length` is longer than the defined curve, the slider will exten
 - For bézier, catmull, and linear curves, it continues in a straight line from the end of the curve.
 - For perfect circle curves, it continues the circular arc.
 
-*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (assuming `beatLength` has been adjusted for inherited timing points).*
+*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier*100)*beatLength` tells how many milliseconds it takes to complete one slide of the slider (assuming `beatLength` has been adjusted for inherited timing points).*
 
 #### Slider hitsounds
 
@@ -336,7 +337,7 @@ The third object is a slider:
 
 <!-- TODO: specific details about all of the other game modes (this article should provide everything necessary to parse a .osu file)
 
-also there is no info about how they convert to other game modes from an osu!standard beatmap -->
+also there is no info about how they convert to other game modes from an osu! beatmap -->
 
 ### osu!taiko
 

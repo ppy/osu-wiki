@@ -1,7 +1,14 @@
+---
+outdated: true
+outdated_since: 0cf0d69bb66378ba1f9f000956c30bc61b92a609
+---
+
 # Storyboarding
 
 <!-- Ceci est un bout. S'il te plait écris comme Beatmapping si possible. -->
+
 <!-- Deux liens importants sont wiki/Beatmap_Editor/Design (visuel) et wiki/Storyboard_Scripting (codage manuel fait par KJ) -->
+
 <!-- Mettez un avis pour l'outil SGL ou tout ce que vous trouvez ici comme lien vers un autre moyen -->
 
 ## Créer un storyboard

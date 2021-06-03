@@ -13,11 +13,11 @@ Test questions are pulled from a large pool of questions sorted by category. The
 - [Beatmap Nominator Rules](/wiki/People/The_Team/Beatmap_Nominators/Rules): 5 questions
 - [Mapping and Modding Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): 1 question
 - [General Ranking Criteria](/wiki/Ranking_Criteria#general) (*RC*): 1 question
-- [Spread RC](/wiki/Ranking_Criteria#beatmapset): 1 question
+- [Spread RC](/wiki/Ranking_Criteria#beatmap): 1 question
 - [Metadata RC](/wiki/Ranking_Criteria#metadata): 1 question
 - [Timing RC](/wiki/Ranking_Criteria#timing): 1 question
 - [Audio RC](/wiki/Ranking_Criteria#audio): 1 question
-- [Video and Background RC](/Ranking_Criteria#video-and-background): 1 question
+- [Video and Background RC](/wiki/Ranking_Criteria#video-and-background): 1 question
 - [Skinning RC](/wiki/Ranking_Criteria#skinning): 1 question
 - [Storyboarding RC](/wiki/Ranking_Criteria#storyboarding)
 - Mode-specific RC: 4 questions specific to the game mode applied to (osu!, osu!taiko, osu!catch, osu!mania)
@@ -30,7 +30,7 @@ The test has no time limit and it's expected that test takers read relevant wiki
 
 [Echo](https://osu.ppy.sh/users/431) created a prototype for the first modding test in 2008, however it was not used for new BN (previously known as [Beatmap Approval Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)) applicants. Users were expected to point out mistakes in an intentionally flawed beatmap, [Arashi - Kitto Daijoubu](http://up.ppy.sh/files/Arashi%20-%20Kitto%20Daijoubu.rar).
 
-Similar modding puzzles were created for fun until 2015, when the first Beatmap Nominator test was created for practical use. The test featured a multiple choice section similar to the current BN test, as well as a hands-on modding puzzle created by [Charles445](https://osu.ppy.sh/users/85000). The modding test beatmap featured 10 difficulties with short mapped segments. Each segment was assigned a [difficulty level](/wiki/Difficulties) and issues were expected to be found given that context.
+Similar modding puzzles were created for fun until 2015, when the first Beatmap Nominator test was created for practical use. The test featured a multiple choice section similar to the current BN test, as well as a hands-on modding puzzle created by [Charles445](https://osu.ppy.sh/users/85000). The modding test beatmap featured 10 difficulties with short mapped segments. Each segment was assigned a [difficulty level](/wiki/Beatmap/Difficulty) and issues were expected to be found given that context.
 
 The second test (created by [Irreversible](https://osu.ppy.sh/users/1287964) and [Mao](https://osu.ppy.sh/users/2204515)), the third test (created by Irreversible, Mao, and [Myxo](https://osu.ppy.sh/users/2202645)), and the fourth test (created by Irreversible and Mao) were designed as full beatmap spreads. These aimed to give the impression of modding a real beatmap.
 

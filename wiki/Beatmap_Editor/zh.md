@@ -6,7 +6,7 @@ outdated: true
 
 ![osu!的谱面编辑器 (Windows 系统)](Compose/img/Compose.jpg "osu!的谱面编辑器 (Windows 系统)")
 
-**谱面编辑器**是 osu! 的游戏中的图形界面，用于创建[谱面](/wiki/Beatmaps)。它被分为4种模式：
+**谱面编辑器**是 osu! 的游戏中的图形界面，用于创建[谱面](/wiki/Beatmap)。它被分为4种模式：
 
 - [Compose](Compose)：这是其中[打击物件放置和编辑的部分](/wiki/Hit_Objects)。大部分所花费的时间会在这里完成。
 - [Design](Design)：这就是故事板设计，多数作图者只会在这里使用“背景图片/视频”按钮。

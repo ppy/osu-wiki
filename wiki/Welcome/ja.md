@@ -1,6 +1,6 @@
 # ようこそ
 
-osu! へようこそ。 peppyによって開発された、フリートゥーウィンの音ゲーで、次の4つのゲームモードを備えています: osu!standard - サークルを音楽に合わせてクリック。 osu!taiko - ドラムシュミレーター。 osu!catch - リズムに乗ってフルーツや野菜をキャッチ。 osu!mania - キーボードをぶっ叩くシンセサイザー。
+osu! へようこそ。 peppyによって開発された、フリートゥーウィンの音ゲーで、次の4つのゲームモードを備えています: osu! - サークルを音楽に合わせてクリック。 osu!taiko - ドラムシュミレーター。 osu!catch - リズムに乗ってフルーツや野菜をキャッチ。 osu!mania - キーボードをぶっ叩くシンセサイザー。
 
 ## 概要
 
@@ -9,13 +9,13 @@ osu! へようこそ。 peppyによって開発された、フリートゥーウ
 - [ルール](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
 - [ゲームモード](/wiki/Game_mode)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [マルチプレイ](/wiki/Multi)
 - [ランキング制度](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
@@ -44,4 +44,4 @@ osu! へようこそ。 peppyによって開発された、フリートゥーウ
 
 2016年8月26日に、osu! wiki はGitHubリポジトリ上へ移動されました。この変化によって、ワークフローは大きく変わってきました。すべての貢献は [osu-wiki GitHub リポジトリ](https://github.com/ppy/osu-wiki) を通して行われ、それらはosu! wikiへ反映される前に審査されます。
 
-初めるには、[osu! wiki 貢献ガイド](/wiki/owcg) をご覧ください。
+初めるには、[osu! wiki 貢献ガイド](/wiki/osu!_wiki_Contribution_Guide) をご覧ください。

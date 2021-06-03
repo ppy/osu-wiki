@@ -22,7 +22,7 @@ tags:
 
 Fingerlock adalah sensasi umum yang dialami banyak pemain veteran osu!. Konsensus umum di antara sebagian besar pemain adalah fingerlock umumnya tidak perlu dikhawatirkan. Namun, jika pemain sering mengalami fingerlock yang terus-menerus atau menyakitkan, disarankan agar pemain tersebut menemui ahli medis, karena ini mungkin diakibatkan dari kondisi kesehatan.
 
-Penyebab spesifik dari fingerlock belum ditemukan atau dipahami secara umum. Namun, ada beberapa kebiasaan umum yang dapat menyebabkan atau meningkatkan kemungkinan terjadinya fingerlock: sesi bermain yang lama (terutama mengulang [beatmap](/wiki/Beatmaps) yang sama), postur atau posisi pergelangan tangan yang buruk, atau ketegangan yang berlebih pada pergelangan tangan atau jari pada waktu yang lama. Terlepas dari itu, fingerlock paling sering terjadi sekali atau dua kali selama sesi permainan sebagai akibat dari keraguan sederhana atau waktu reaksi yang lambat.
+Penyebab spesifik dari fingerlock belum ditemukan atau dipahami secara umum. Namun, ada beberapa kebiasaan umum yang dapat menyebabkan atau meningkatkan kemungkinan terjadinya fingerlock: sesi bermain yang lama (terutama mengulang [beatmap](/wiki/Beatmap) yang sama), postur atau posisi pergelangan tangan yang buruk, atau ketegangan yang berlebih pada pergelangan tangan atau jari pada waktu yang lama. Terlepas dari itu, fingerlock paling sering terjadi sekali atau dua kali selama sesi permainan sebagai akibat dari keraguan sederhana atau waktu reaksi yang lambat.
 
 ## Pertolongan & pencegahan
 

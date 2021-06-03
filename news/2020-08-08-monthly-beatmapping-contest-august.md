@@ -21,7 +21,7 @@ With this schedule in mind, note that July's contest is entering the judging pha
 
 ## Beatmapping
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 Because the MBC would be boring with the same premise monthly, each contest forces mappers to follow a different gimmick. Last month required Circle Size 0 and the month before disallowed sliders 1/2 of a beat long, just to name a few examples.
 
@@ -31,7 +31,7 @@ Cut all ties with sliders — circles are your best friends this month! ...Plus 
 
 Screeners for last month's limitation noted that entries didn't utilize the circle size limitation too well, which resulted in a lot of generic maps with oversized objects. This month's limitation was chosen because it disallows a lot of standard mapping techniques! (and it's requested practically every month!)
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each MBC provides beatmappers a choice between 5 songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 
