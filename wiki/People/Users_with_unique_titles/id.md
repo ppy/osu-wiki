@@ -170,8 +170,6 @@ Dari waktu ke waktu, osu! telah beberapa kali mengadakan kontes desain maskot ya
 
 osu! menganugerahkan gelar **osu! Hall of Famer** kepada tiga nama di bawah ini atas kontribusinya masing-masing dalam menjunjung tinggi standar permainan pada masa-masa awal berdirinya osu!.
 
-<!-- TODO: reasons -->
-
 - ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589)
 - ![][flag_PH] [James](https://osu.ppy.sh/users/5728)
 - ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781)
@@ -195,19 +193,17 @@ Pemain-pemain berikut memperoleh gelarnya masing-masing atas keberhasilan mereka
 | :-- | :-- | :-- |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Menorehkan FC NoMod pertama pada beatmap [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Menorehkan FC pada semua beatmap osu!taiko yang berstatus Ranked hingga tanggal 3 November 2019 |
-| ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Tidak terdokumentasi* <!-- TODO: a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further --> |
+| ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Tidak terdokumentasi* |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Memainkan semua beatmap osu! yang berstatus Ranked hingga tanggal 27 April 2019 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Memenangkan perlombaan [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ### Kontributor
 
-<!-- TODO: reasons -->
-
 | Pengguna | Gelar |
 | :-- | :-- |
-| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter <!-- achievements and some other graphics --> |
+| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
-| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter <!-- maria and yuzu and a bunch of artwork for old site --> |
+| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
@@ -220,13 +216,11 @@ Pemain-pemain berikut memperoleh gelarnya masing-masing atas keberhasilan mereka
 
 ### Lainnya
 
-<!-- TODO: reasons -->
-
 | Pengguna | Gelar |
 | :-- | :-- |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
-| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE <!-- old forum meme --> |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy <!-- movie threater pictures in staff chats, or something --> |
+| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
 | ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 
