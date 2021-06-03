@@ -88,30 +88,44 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Zak](https://osu.ppy.sh/users/1375955), [Kisetsunotori](https://osu.ppy.sh/users/3692648), [Colin](https://osu.ppy.sh/users/5502521), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Lexii](https://osu.ppy.sh/users/7226149) |
 | ![][flag_VN] | **Vietnam** | **[Cac](https://osu.ppy.sh/users/4744615)**, [Hana Yukiko](https://osu.ppy.sh/users/4964095), [mothernature](https://osu.ppy.sh/users/6403418), [Stardust Prism](https://osu.ppy.sh/users/8525921), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [Huytimeclock](https://osu.ppy.sh/users/10920086) |
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Saturday, 29 May 2021
-
-| Team A | Team B | Match time | Local time A | Local time B |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| Hong Kong ![][flag_HK] | ![][flag_KR] South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 | ¹ |
-| France ![][flag_FR] | ![][flag_CA] Canada | **18:00 UTC** | 20:00 UTC+02 | 13:00 UTC-05 | ² |
-
-### Sunday, 30 May 2021
+### Sunday, 6 June 2021
 
 | Team A | Team B | Match time | Local time A | Local time B |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| Philippines ![][flag_PH] | ![][flag_US] United States | **03:00 UTC** | 11:00 UTC+08 | 23:00 (Sat.) UTC-04 | ² |
-| France ![][flag_FR] | ![][flag_PH] Philippines | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 | ³ |
-| Canada ![][flag_CA] | ![][flag_PH] Philippines | **14:30 UTC** | 09:30 UTC-05 | 22:30 UTC+08 | ³ |
-| France ![][flag_FR] | ![][flag_US] United States | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 | ³ |
-| Canada ![][flag_CA] | ![][flag_US] United States | **21:00 UTC** | 16:00 UTC-05 | 17:00 UTC-04 | ³ |
+| Hong Kong ![][flag_HK] | ![][flag_US] United States | **02:30 UTC** | 10:30 UTC+08 | 22:30 (Sat.) UTC-04 | ¹ |
+| South Korea ![][flag_KR] | ![][flag_HK] Hong Kong | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 | ² |
+| South Korea ![][flag_KR] | ![][flag_US] United States | **14:00 UTC** | 23:00 UTC+09 | 10:00 UTC-04 | ² |
 
-¹ Winner bracket encounter\
-² Loser bracket encounter\
-³ Encounter dependent on results of ²Loser bracket encounter
+¹ 3rd place encounter\
+² Encounter dependent on results of ¹3rd place encounter
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [Camellia - KillerBeast (Jemzuu) \[ULTRA BERZERK\]](https://osu.ppy.sh/beatmapsets/1478459#fruits/3033155)
+  - [Silentroom vs. Frums - Aegleseeker (Jemzuu) \[Razor's Beyond\]](https://osu.ppy.sh/beatmapsets/1460413#fruits/3024977)
+  - [Camellia feat. Camellia - Hirugaeru Tsubasa Oikakete (Rocma) \[MXM\]](https://osu.ppy.sh/beatmapsets/1478449#fruits/3033136)
+  - [Akiyama Uni - Rakujitsu ni Haeru Sakasajou (Yumeno Himiko) \[Rain\]](https://osu.ppy.sh/beatmapsets/1478454#fruits/3033148)
+  - [uma vs. Morimori Atsushi - Re:End of a Dream (Battle) \[Re:Vival\]](https://osu.ppy.sh/beatmapsets/557039#fruits/1178810)
+  - [Omoi - Teo (Kroytz) \[Motto!\]](https://osu.ppy.sh/beatmapsets/721804#fruits/1524103)
+- Hidden
+  - [FictionJunction YUUKA - aikoi (F D Flourite) \[Prison (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1478465#fruits/3033162)
+  - [Luschka - Kami no Kotoba (Spectator) \[Sonorous\]](https://osu.ppy.sh/beatmapsets/1478471#fruits/3033170)
+  - [SYUNN - Megalara Garuda (Callionet) \[Intensity\]](https://osu.ppy.sh/beatmapsets/536607#fruits/1137172)
+- HardRock
+  - [Kagetora. - Crazy banger (Zyzyx) \[FATAL\]](https://osu.ppy.sh/beatmapsets/1393941#fruits/2877477)
+  - [Zekk - Sugary Daydream (Du5t) \[oh yes... (cwc 2021 ver.)\]](https://osu.ppy.sh/beatmapsets/1478481#fruits/3033189)
+  - [Riz vs. Shiron - veRtrageS (EvilElvis) \[Extreme\]](https://osu.ppy.sh/beatmapsets/473148#fruits/1011030)
+- DoubleTime
+  - [CyoucyoP feat.Hatsune Miku - End of the World (Rocma) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1478476#fruits/3033178)
+  - [A.SAKA - Yosakura Fubuki (F D Flourite) \[Flourite & Himiko's ZHNotSteven\]](https://osu.ppy.sh/beatmapsets/1478483#fruits/3033192)
+  - [GARNiDELiA - ambiguous (captin1) \[Nathan's Insane\]](https://osu.ppy.sh/beatmapsets/303867#fruits/814991)
+- Tiebreaker
+  - **[Frums - of Ambrosia (Jemzuu) \[of Heavenly Collab\]](https://osu.ppy.sh/beatmapsets/1478486#fruits/3033197)**
 
 ### Finals
 
@@ -230,6 +244,22 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
   - **[Muzzy - Spectrum (Greaper) \[Refraction\]](https://osu.ppy.sh/beatmapsets/1442175#fruits/2966667)**
 
 ## Match results
+
+### Finals
+
+Saturday, 29 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 2 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/84480798) |
+| **France** ![][flag_FR] | **7** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/84501984) |
+
+Sunday, 30 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ![][flag_PH] | 5 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/84533430) |
+| France ![][flag_FR] | 2 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/84568786) |
 
 ### Semifinals
 

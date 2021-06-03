@@ -62,7 +62,7 @@ Quickly after the public release, the first play [mods](/wiki/Game_modifier), [E
 
 ## October
 
-October 1, 2007 was the day when online rankings were made publicly available. This also saw the launch of the `.osz` packaging method, and an online beatmap database with an early web-based submission system. Online rankings were added to the in-game interface and were also displayed on the website.
+October 6, 2007 was the day when online rankings were made publicly available. This also saw the launch of the `.osz` packaging method, and an online beatmap database with an early web-based submission system. Online rankings were added to the in-game interface and were also displayed on the website.
 
 ![](img/2007-10_01.jpg)
 
