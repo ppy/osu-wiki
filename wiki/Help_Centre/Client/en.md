@@ -20,7 +20,7 @@ tags:
 
 # Client
 
-*Main page [Help centre](/wiki/Help_Centre)*
+*Main page: [Help centre](/wiki/Help_Centre)*
 
 Having trouble with the game client? Find out if your issue is listed among the most common problems encountered by our users.
 
