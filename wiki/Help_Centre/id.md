@@ -137,7 +137,7 @@ Jika perubahan dilakukan menggunakan penawaran perubahan gratis yang datang deng
 
 **Mohon maaf, untuk saat ini tidak bisa.**
 
-Profil Anda akan menampilkan semua nama pengguna yang Anda gunakan sebelumnya, dan kami tidak menerima permintaan untuk menghapus riwayat nama pengguna saat ini. Jika salah satu nama pengguna Anda sebelumnya melanggar privasi Anda (misalnya, jika berisi nama asli Anda), hubungi accounts@ppy.sh untuk meminta penghapusan.
+Profil Anda akan menampilkan semua nama pengguna yang Anda gunakan sebelumnya, dan kami tidak menerima permintaan untuk menghapus riwayat nama pengguna saat ini. Jika salah satu nama pengguna Anda sebelumnya melanggar privasi Anda (misalnya, jika berisi nama asli Anda), hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta penghapusan.
 
 ### Masalah lainnya
 
@@ -613,7 +613,7 @@ Untuk mengaktifkan raw input, ikuti langkah-langkah berikut:
 
 **Anda dapat memecahkan masalah ini dengan menentukan area tablet yang lebih kecil untuk perangkat Anda.**
 
-Pada kebanyakan tablet bermerek Wacom, pengaturan area dapat dilakukan melalui tab ​`Mapping`​ dari aplikasi `​Wacom Tablet Properties`. Sebuah contoh lebih jelas dapat dilihat [di ​sini](img/Tabarea.png)​.
+Pada kebanyakan tablet bermerek Wacom, pengaturan area dapat dilakukan melalui tab ​`Mapping`​ dari aplikasi `​Wacom Tablet Properties`. Sebuah contoh lebih jelas dapat dilihat [di ​sini](Client/img/tablet-area.png)​.
 
 Anda perlu berkonsultasi dengan produsen tablet Anda untuk mengetahui cara mengatur area tablet Anda.
 
