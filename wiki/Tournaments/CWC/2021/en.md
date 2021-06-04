@@ -94,8 +94,8 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Team A | Team B | Match time | Local time A | Local time B |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| Hong Kong ![][flag_HK] | ![][flag_US] United States | **02:30 UTC** | 10:30 UTC+08 | 22:30 (Sat.) UTC-04 | ¹ |
-| South Korea ![][flag_KR] | ![][flag_HK] Hong Kong | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 | ² |
+| Hong Kong ![][flag_HK] | ![][flag_US] United States | **12:00 UTC** | 20:00 UTC+08 | 08:00 UTC-04 | ¹ |
+| South Korea ![][flag_KR] | ![][flag_HK] Hong Kong | **14:00 UTC** | 23:00 UTC+09 | 22:00 UTC+08 | ² |
 | South Korea ![][flag_KR] | ![][flag_US] United States | **14:00 UTC** | 23:00 UTC+09 | 10:00 UTC-04 | ² |
 
 ¹ 3rd place encounter\
