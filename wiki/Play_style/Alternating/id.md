@@ -11,7 +11,7 @@ tags:
 
 *Berbeda konteks dengan [Double tapping](/wiki/Play_style/Double_tapping).*
 
-Alternating adalah sebuah gaya tapping di [osu!standard](/wiki/Game_mode/osu!) dimana pemain menekan circle, menggeser slider, dan memutar spinner dengan Alternating antara dua tombol pada keyboard mereka (`Z` dan `X` secara default) satu sama lain [hit object](/wiki/Hit_object) kurang lebih. Oleh karena itu. Gaya ini paling umum di antara pemain yang lebih berpengalaman dan merupakan salah satu yang paling sulit untuk diadaptasi.
+Alternating adalah sebuah gaya tapping di [osu!](/wiki/Game_mode/osu!) dimana pemain menekan circle, menggeser slider, dan memutar spinner dengan Alternating antara dua tombol pada keyboard mereka (`Z` dan `X` secara default) satu sama lain [hit object](/wiki/Hit_object) kurang lebih. Oleh karena itu. Gaya ini paling umum di antara pemain yang lebih berpengalaman dan merupakan salah satu yang paling sulit untuk diadaptasi.
 
 ## Penggunaan
 
