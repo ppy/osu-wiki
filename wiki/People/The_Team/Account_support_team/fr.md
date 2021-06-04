@@ -36,7 +36,7 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
 
 - Préoccupations concernant la mauvaise conduite d'un modérateur.
 - Préoccupations concernant un modérateur brisant [le Code de conduite du contributeur](/wiki/Contributor_Code_of_Conduct).
-- [Problèmes de paiement](/wiki/en/Help_Centre#supporter) pour les commandes concernant l'[osu!store](https://osu.ppy.sh/store/listing).
+- [Problèmes de paiement](/wiki/Help_Centre#supporter) pour les commandes concernant l'[osu!store](https://osu.ppy.sh/store/listing).
 - Problèmes techniques n'ayant pas pu être résolus dans le [forum d'aide](https://osu.ppy.sh/community/forums/5), tels que les [problèmes de connectivité](/wiki/Help_Centre#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)

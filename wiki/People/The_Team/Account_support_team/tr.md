@@ -36,7 +36,7 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 
 - Bir moderatörün uygunsuz davranışları hakkındaki şikayetler.
 - [İştirakçi Etik Davranış Kurallarını](/wiki/Contributor_Code_of_Conduct) çiğneyen bir moderatör hakkındaki şikayetler.
-- [osu!store](https://osu.ppy.sh/store/listing) üzerinden yapılan siparişlerle ilgili [ödeme sorunları](/wiki/en/Help_Centre#supporter).
+- [osu!store](https://osu.ppy.sh/store/listing) üzerinden yapılan siparişlerle ilgili [ödeme sorunları](/wiki/Help_Centre#supporter).
 - [Bağlantı sorunları](/wiki/Help_Centre#online-features) gibi, [Yardım forumunda](https://osu.ppy.sh/community/forums/5) düzeltilemeyen teknik sorunlar.
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)

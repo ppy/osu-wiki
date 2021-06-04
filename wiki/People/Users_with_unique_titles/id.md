@@ -85,7 +85,7 @@ osu! pada umumnya menganugerahkan para pemenang kontes-kontes mapping yang berst
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
-¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam meraih gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest).
+¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam meraih gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
 
 ### Elite Nominator
 
@@ -124,7 +124,7 @@ osu! menganugerahkan gelar **osu!mixer** kepada para pemenang kontes-kontes osu!
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
 
-¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) saat ini menyandang gelar **osu!mixer II** atas keberhasilannya dalam menjuarai dua kontes osu!remix yang berbeda, yakni [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) dan [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest).
+¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) saat ini menyandang gelar **osu!mixer II** atas keberhasilannya dalam menjuarai dua kontes osu!remix yang berbeda, yakni [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) dan [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 
 ### Featured Artist
 

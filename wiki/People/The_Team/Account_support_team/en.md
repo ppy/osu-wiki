@@ -36,7 +36,7 @@ You should contact this team regarding account-related topics that are out of yo
 
 - Concerns about a moderator's misbehaviour.
 - Concerns about a moderator breaking [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct).
-- [Payment issues](/wiki/en/Help_Centre#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
+- [Payment issues](/wiki/Help_Centre#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
 - Technical issues that couldn't or haven't been resolved in [the Help forum](https://osu.ppy.sh/community/forums/5), such as [connectivity issues](/wiki/Help_Centre#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
