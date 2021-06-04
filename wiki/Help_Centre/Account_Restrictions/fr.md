@@ -69,9 +69,9 @@ Si nous décidons de vous laisser revenir, nous vous demanderons que vous accept
 
 Par ailleurs, pour une période d'un an, nous n'accepterons pas de changement de pays sur votre compte.
 
-Dans certains cas, un utilisateur qui revient d'une restriction peut être banni de tournois officiels et badgés, à la fois en tant que joueur et membre de l'équipe du tournoi. La durée de ce bannissement est d'un an par restriction (Si l'utilisateur en est à sa deuxième restriction, le bannissement durera 2 ans). L'équipe de support aux comptes clarifiera la durée de ce bannissement.
+Dans certains cas, un utilisateur qui revient d'une restriction peut être banni des tournois officiels, à la fois en tant que joueur et membre de l'équipe du tournoi. La durée de ce bannissement est d'un an par restriction (si l'utilisateur en est à sa deuxième restriction, le bannissement durera 2 ans). L'équipe de support aux comptes clarifiera la durée de ce bannissement.
 
-**Tricher ou partager son compte durant un tournoi officiel ou badgé mènera à un bannissement permanent de l'utilisateur.** Vous ne pouvez pas faire appel quant à ce bannissement (votre mail sera ignoré si vous essayez) and ne sera pas supprimé, réduit ou levé dans n'importe quelles circonstances.
+**Tricher ou partager son compte durant un tournoi officiel mènera à un bannissement permanent de l'utilisateur.** Vous ne pouvez pas faire appel quant à ce bannissement (votre mail sera ignoré si vous essayez) et ne sera pas supprimé, réduit ou levé dans n'importe quelles circonstances.
 
 Certains joueurs peuvent être de nouveau restreints une fois qu'ils commencent à jouer après l'acceptation de leur appel. Il s'agit d'un processus automatique et sera généralement retiré sous 24 heures. N'hésitez pas à poser des questions sur Twitter à [@osusupport](https://twitter.com/osusupport) ou en envoyant un mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) si cela vous arrive !
 
