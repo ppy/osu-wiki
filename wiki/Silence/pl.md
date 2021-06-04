@@ -2,25 +2,25 @@
 stub: true
 ---
 
-# Wyciszenie/silence
+# Uciszenie
 
-**Wyciszenie**/**silence**, termin używany do jako opis kary, która ogranicza możliwości komunikacji użytkownika ze społecznością osu!. Wyciszenie może zostać nadane przez członków [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) oraz [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), jest ono nadawane wyłącznie jeśli użytkownik złamał zasady [regulaminu](/wiki/Rules).
+**Uciszenie** (ang. *silence*), to rodzaj kary, która ogranicza komunikację użytkownika ze społecznością osu!. Uciszenia są nakładane na użytkowników, którzy złamali [zasady społeczności](/wiki/Rules), przez [moderatorów globalnych](/wiki/People/The_Team/Global_Moderation_Team) i członków [zespołu zapewniania jakości](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ## Ograniczenia
 
-użytkownicy, którzy zostali wyciszeni przez moderatorów, nie mogą:
+Użytkownicy, którzy zostali wyciszeni, nie mogą:
 
-- Edytować swojego profilu
-- Zmieniać swojego awatara/szczegółów swojego profilu <!-- nie potwierdzono na nowej stronie, ale tak działało na starej -->
-- Przzesyłać [beatmap](/wiki/Beatmap)
-- Wysyłać/otrzymywać prywatnych wiadomości
-- Publikować na jakimkolwiek forum osu!
+- edytować swojej strony użytkownika;
+- zmieniać swojego awatara i szczegółów profilu;
+- przesyłać [beatmap](/wiki/Beatmap);
+- wysyłać i otrzymywać wiadomości prywatnych;
+- zamieszczać treści na forum osu!.
 
-## Najczęstsze powody wyciszenia
+## Najczęstsze powody uciszeń
 
-*Uwaga: Angażowanie się w "nieodpowiednie zachowanie" w wiadomościach prywatnych nie łamie zasad, chyba że wspomniane nieodpowiednie zachowanie jest kierowane do odbiorców nie wyrażających na to zgody. W przypadku zgłoszenia takiej wiadomości, zostaną nałożone odpowiednie kary.*
+*Ważne: Niewłaściwe zachowanie w wiadomościach prywatnych nie jest wbrew zasadom społeczności, dopóki zgadzają się na to obie strony konwersacji. Jeżeli takie zachowanie zostanie zgłoszone, moderatorzy nałożą na konto odpowiednią karę.*
 
-- Nieodpowiednie zachowanie na publicznym czacie lub lobby (np., `#multiplayer`, dyskusje beatmap, komentarze, etc.), włącznie z—ale nie ograniczone do—spamowania, pisania bez sensu, rasizm, etc.
-- Przesyłanie lub publikowanie nieodpowiednich treści w inny sposób. (np., awatary profilu, przesłane beatmapy, szczegóły profilu, biografię na stronie użytkownika, banner, etc.).
+- Niewłaściwe zachowanie na czacie publicznym lub forum (np. na kanale `#multiplayer`, w dyskusjach, komentarzach, itd.), w tym spamowanie, pisanie bez sensu, rasizm itd.
+- Zamieszczanie niewłaściwych treści (np. jako awatar, w przesyłanych beatmapach, szczegółach profilu, stronie użytkownika, sygnaturze itd.).
 
-Długość wyciszenia może się różnić w zależności od dotkliwości naruszeń. Wyciszenie można nakładać na poprzednie, dodając więcej czasu za każde z poprzednich.
+Długość uciszenia zależy od wagi przewinienia i stale się zwiększa wraz z kolejnymi uciszeniami.
