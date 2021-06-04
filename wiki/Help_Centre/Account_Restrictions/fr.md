@@ -24,7 +24,7 @@ Si votre compte a été restreint, ne paniquez pas. Veuillez suivre ces étapes 
 
 Si votre compte a été restreint pour avoir brisé les [règles](/wiki/Rules), vous ne serez autorisé à envoyer un appel qu'après trois mois.
 
-Si votre compte originel n'est pas restreint, vous pouvez vous connecter dessus et continuer à jouer normalement, mais assuez-vous de ne plus vous connecter à vos multicomptes, car cela mènera à des sanctions supplémentaires.
+Si votre compte originel n'est pas restreint, vous pouvez vous connecter dessus et continuer à jouer normalement, mais assurez-vous de ne plus vous connecter à vos multicomptes, car cela mènera à des sanctions supplémentaires.
 
 Si votre appel a récemment été accordé et que votre compte se fait restreindre de nouveau après avoir joué, ne paniquez pas ! Les systèmes automatisés peuvent avoir signalé votre compte à tort, mais votre restriction sera de nouveau levée au bout de 24 heures s'il se trouve que c'est le cas. N'hésitez pas à nous envoyez un email ou un tweet pour obtenir notre attention et retirer la restriction plus rapidement !
 
