@@ -95,10 +95,9 @@ First off, [download the package containing the osu!go default files](https://as
 
 **Follow these steps to prepare your osu!go device under Windows:**
 
-1. Open the `Start` menu.
-2. Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.
-3. **While in the Disk Management view, make sure to follow these instructions *VERY* closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
-4. Check to see what state your computer recognizes the device as being in.
+1. Right click the `Start` menu button and select `Disk Management`.
+2. **While in the Disk Management view, make sure to follow these instructions *VERY* closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
+3. Check to see what state your computer recognizes the device as being in.
 
 ### The osu!go device is present, but in a "RAW" state
 
