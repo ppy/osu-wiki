@@ -11,9 +11,9 @@ La [liste des artistes associés](https://osu.ppy.sh/beatmaps/artists) du site p
 
 ## Sélection
 
-Les ajouts récents à la bibliothèque des artistes associés sont sélectionnés indirectement par la communauté d'osu!. Si des mappers créent et classent des maps pour un artiste, l'[équipe d'osu!](/wiki/People/The_Team) contactent l'artiste pour discuter du programme d'artistes associés. Cependant, certains artistes sont parfois invités à devenir des artistes associés en fonction d'autres facteurs, tels que l'intérêt qu'ils devraient présenter pour le public du beatmapping d'osu!
+Les ajouts récents à la bibliothèque des artistes associés sont sélectionnés indirectement par la communauté d'osu!. Si des mappeurs créent et classent des maps pour un artiste, l'[équipe d'osu!](/wiki/People/The_Team) contacte l'artiste pour discuter du programme d'artistes associés. Cependant, certains artistes sont parfois invités à devenir des artistes associés en fonction d'autres facteurs, tels que l'intérêt qu'ils devraient présenter pour le public du beatmapping d'osu!
 
-La plupart des chansons figurant dans le programme des artistes associés font l'objet d'une licence non exclusive pour osu!. Dans de rares cas, un artiste créera des morceaux exclusivement pour osu!, qui seront étiquetté *osu! exclusive* sur leur liste d'artistes associés.
+La plupart des chansons figurant dans le programme des artistes associés font l'objet d'une licence non exclusive pour osu!. Dans de rares cas, un artiste créera des morceaux exclusivement pour osu!, qui seront étiquetés *osu! exclusive* sur leur liste d'artistes associés.
 
 Les détails concernant l'intégration d'un musicien aux artistes associés peuvent être trouvés dans l'article [music licensing](/wiki/Legal/Music_Licensing).
 
@@ -28,13 +28,13 @@ Les nouvelles sorties d'artistes associés par an :
 - **2020 :** 65
 - **2021 :** *à déterminer*
 
-Les nouveaux artistes associés sont annoncés chaque semaine sur le [fil d'actualités](https://osu.ppy.sh/home/news) d'osu!. La plupart des annonces comprennent une liste des chansons sous licence de l'artiste et un lien vers sa page d'artiste associés, mais certaines annonces sont associées à des concours de mapping ou à des beatmaps créés par la [Guilde des mappeurs](/wiki/Mappers_Guild).
+Les nouveaux artistes associés sont annoncés chaque semaine sur le [fil d'actualités](https://osu.ppy.sh/home/news) d'osu!. La plupart des annonces comprennent une liste des chansons sous licence de l'artiste et un lien vers sa page d'artiste associé, mais certaines annonces sont associées à des concours de mapping ou à des beatmaps créés par la [Mappers' Guild](/wiki/Mappers_Guild).
 
 ## Utilisation par la communauté
 
-Les mappers sont encouragés à créer des maps pour les pistes des artistes associés. Ces morceaux sont fournis avec des données de [timing](/wiki/Beatmap_Editor/Timing) et sont déjà autorisés à être utilisés dans osu!, ce qui permet aux utilisateurs de se lancer immédiatement dans la création de beatmap sans crainte. La version en cours de développement d'osu!, appelée [osu!lazer](https://github.com/ppy/osu/releases), mettra ces maps en évidence dans le jeu.
+Les mappeurs sont encouragés à créer des maps pour les pistes des artistes associés. Ces morceaux sont fournis avec des données de [timing](/wiki/Beatmap_Editor/Timing) et sont déjà autorisés à être utilisés sur osu!, ce qui permet aux utilisateurs de se lancer immédiatement dans la création de beatmap sans crainte. La version en cours de développement d'osu!, appelée [osu!lazer](https://github.com/ppy/osu/releases), mettra ces maps en évidence dans le jeu.
 
-Tous les concours de mapping publiés sur la [liste des concours communautaires](https://osu.ppy.sh/community/contests), tels que le [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) et l'[Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad), exigent des participants qu'ils fassent les chansons des artistes associés. Certains concours organisés par la communauté utilisent également ces chansons.
+Tous les concours de mapping publiés sur la [liste des concours communautaires](https://osu.ppy.sh/community/contests), tels que le [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) et le [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad), exigent des participants qu'ils mappent les chansons des artistes associés. Certains concours organisés par la communauté utilisent également ces chansons.
 
 Pour promouvoir le mapping du contenu des artistes, les membres de la communauté ont créé la [Mappers' Guild](/wiki/Mappers_Guild), qui offre aux mappeurs un système de quêtes de type MMO auquel ils peuvent participer avec d'autres mappeurs. Des prix sont décernés pour la création et le classement de beatmaps, y compris trois niveaux de badges de profil. Les mappeurs peuvent rejoindre la guilde en visitant le [site Web de la Mappers' Guild](https://mappersguild.com/).
 
