@@ -6,7 +6,7 @@ Cette page vous explique comment faire fonctionner osu! sur votre appareil Windo
 
 ## Configuration minimale requise
 
-- .NET framework 4+ (le programme d'installation devrait vous inviter à le télécharger, sinon, vous pouvez le trouver [ici](https://www.microsoft.com/en-us/download/details.aspx?id=48130)
+- .NET framework 4+ (le programme d'installation devrait vous inviter à le télécharger, sinon, vous pouvez le trouver [ici](https://www.microsoft.com/fr-fr/download/details.aspx?id=48130))
 - Une carte graphique décente.
 
 ## Installer osu!
@@ -30,7 +30,7 @@ Si vous utilisez un Windows 7 64-bit, vous pouvez avoir des difficultés à inst
 **Si le programme d'installation du jeu génère des erreurs lors de la tentative d'installation, vous pouvez essayer plusieurs choses :**
 
 - Essayez de réinstaller la dernière version de .NET Framework. [Vous pouvez le trouver ici](https://dotnet.microsoft.com/download).
-- Nettoyez votre PC - Analysez-le avec un logiciel anti-virus, nettoyez le registre. Un bon programme pour un nettoyage général est [PrivaZer](https://privazer.com/fr/)<!-- PrivaZer est mieux que CCleaner-->. Analysez à la fois les fichiers de votre ordinateur et votre registre. L'installateur peut échouer s'il y a des entrées de registre d'une copie précédente d'osu! encore présentes sur votre système.
+- Nettoyez votre PC - Analysez-le avec un logiciel anti-virus, nettoyez le registre. Un bon programme pour un nettoyage général est CCleaner. Analysez à la fois les fichiers de votre ordinateur et votre registre. L'installateur peut échouer s'il y a des entrées de registre d'une copie précédente d'osu! encore présentes sur votre système.
 
 ## Ajouter des beatmaps
 

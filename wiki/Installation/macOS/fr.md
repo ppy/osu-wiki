@@ -10,7 +10,7 @@ Cette page vous guidera pour installer osu! sur votre appareil macOS.
 
 La version macOS d'osu! est sujette à des bugs d'affichage mineurs et à une jouabilité moins performante. Le jeu peut ne pas fonctionner parfaitement au début et nécessite un certain réglage pour s'y habituer. Pour l'installer, procédez comme suit :
 
-1. Allez sur la [page de téléchargement non officielle de Wineskin](https://osu.ppy.sh/community/forums/topics/1106057), téléchargez la dernière version de Wineskin et décompressez-la..
+1. Allez sur la [page de téléchargement non officielle de Wineskin](https://osu.ppy.sh/community/forums/topics/1106057), téléchargez la dernière version de Wineskin et décompressez-la.
 2. Téléchargez le [unofficial osu!macOS Agent tool](https://osu.ppy.sh/community/forums/topics/1036678) et utilisez-le pour réparer le fichier `osu!app`. C'est une alternative :
    1. Déplacez `osu!.app` sur le bureau.
    2. Ouvrez le Terminal, copiez cette commande : `xattr -c 'Desktop/osu!.app'`, et appuyez sur la touche `Return`.
