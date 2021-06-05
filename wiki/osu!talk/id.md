@@ -2,9 +2,9 @@
 
 ![](img/osu!talk.jpg "logo osu!talk")
 
-**osu!talk** adalah sebuah serial *podcast* yang diselenggarakan oleh [ztrot](https://osu.ppy.sh/users/6347), bersama dengan [deadbeat](https://osu.ppy.sh/users/128370) yang berperan sebagai *co-host*. Serial ini berfokus pada mewawancarai berbagai pengguna dari komunitas osu!. Selain itu, terkadang kami juga mengadakan diskusi grup mengenai berbagai hal yang terjadi di sekitar komunitas, seperti perubahan yang terjadi pada tim osu!, atau isu-isu yang berkepanjangan yang sering dibahas seperti isu mengenai overmapping. 
+**osu!talk** adalah sebuah serial *podcast* yang diselenggarakan oleh [ztrot](https://osu.ppy.sh/users/6347), bersama dengan [deadbeat](https://osu.ppy.sh/users/128370) yang berperan sebagai *co-host*. Serial ini berfokus pada pewawancaraan pengguna-pengguna dari komunitas osu!. Selain itu, terkadang juga terdapat diskusi grup mengenai berbagai hal yang sedang terjadi di sekitar komunitas, seperti perubahan yang terjadi pada tim osu!, atau isu-isu yang berkepanjangan yang sering dibahas seperti isu mengenai overmapping.
 
-Serial *podcast* ini telah diatur sehingga siapapun dapat dengan bebas masuk ke dalam sesi siaran langsung dan mengajukan pertanyaan-pertanyaan selama sesi [tanya jawab](https://en.wikipedia.org/wiki/Q&A) publik berlangsung pada episode tersebut. Seluruh seri ini tidak disiarkan secara langsung dimana pun karena kami lebih senang mendorong para pengguna untuk bergabung dan mengikut serta.
+Serial *podcast* ini telah diatur sehingga siapa pun dapat dengan bebas masuk ke dalam sesi siaran langsung dan mengajukan pertanyaan-pertanyaan selama sesi [tanya jawab](https://en.wikipedia.org/wiki/Q&A) publik berlangsung pada episode tersebut. Seluruh seri ini tidak disiarkan secara langsung di mana pun karena kami lebih senang mendorong para pengguna untuk bergabung dan mengikut serta.
 
 ## Episode
 
@@ -14,7 +14,7 @@ Serial *podcast* ini telah diatur sehingga siapapun dapat dengan bebas masuk ke 
 | 2 | [MMzz](https://osu.ppy.sh/users/128993) | QAT | [Tautan](https://www.youtube.com/watch?v=fBBQ4bwNZcY) |
 | 3 | [Loctav](https://osu.ppy.sh/users/71366) | Manajer komunitas dan turnamen | [Tautan](https://www.youtube.com/watch?v=gxZtxmUvDoQ) |
 | 4 | [dkun](https://osu.ppy.sh/users/154400) | BAT/pensiunan anggota osu!monthly | [Tautan](https://www.youtube.com/watch?v=_nFI71fG7-c) |
-| 5 | [LuigiHann](https://osu.ppy.sh/users/1079) | Skinner Residen | [Tautan](https://www.youtube.com/watch?v=OVjq9ko83t0) |
+| 5 | [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner | [Tautan](https://www.youtube.com/watch?v=OVjq9ko83t0) |
 | 6 | [JAKACHAN](https://osu.ppy.sh/users/718696) | Pemain pro osu! | [Tautan](https://www.youtube.com/watch?v=WXFMggx94e0) |
 | 7 | [Daru](https://osu.ppy.sh/users/32480) | osu!painter | [Tautan](https://www.youtube.com/watch?v=eBFaLRXmfYc) |
 | 8 | [peppy](https://osu.ppy.sh/users/2) | osu!creator | [Tautan](https://www.youtube.com/watch?v=x7vdW5uZutU) |
@@ -38,7 +38,7 @@ Serial *podcast* ini telah diatur sehingga siapapun dapat dengan bebas masuk ke 
 | 25 | [PortalLife](https://osu.ppy.sh/users/929134) | Penyelenggara turnamen | [Tautan](https://www.youtube.com/watch?v=odGwuBwqcmc) |
 | 26 | [MillhioreF](https://osu.ppy.sh/users/941094) | Pemain pro Easy mod, pengembang paruh waktu | [Tautan](https://www.youtube.com/watch?v=dO3kv8nutSI) |
 | 27 | [machol30](https://osu.ppy.sh/users/5772) | Mapper kuno | [Tautan](https://www.youtube.com/watch?v=PR-ItQJLQTE) |
-| 28 | [Nashmun](https://osu.ppy.sh/users/49031) | Penguasa osu!taiko dari Perancis | [Tautan](https://www.youtube.com/watch?v=C8I81f2Gw1s) |
+| 28 | [Nashmun](https://osu.ppy.sh/users/49031) | Master osu!taiko dari Perancis | [Tautan](https://www.youtube.com/watch?v=C8I81f2Gw1s) |
 | 29 | [Luna](https://osu.ppy.sh/users/588007) | Pemain osu!taiko dari Jerman | [Tautan](https://www.youtube.com/watch?v=5akyzJuLLFI) |
 | 30 | [Tasha](https://osu.ppy.sh/users/1031958) | Jurnalis osu!weekly | [Tautan](https://www.youtube.com/watch?v=9-TDEjfL1YQ) |
 | 31 | [drum drum](https://osu.ppy.sh/users/4435526) | GMT | [Tautan](https://www.youtube.com/watch?v=Pna9rIzlZKk) |
@@ -49,12 +49,12 @@ Serial *podcast* ini telah diatur sehingga siapapun dapat dengan bebas masuk ke 
 | 35 | [juankristal](https://osu.ppy.sh/users/443656) | Komentator turnamen, pemain pro osu!mania | [Tautan](https://www.youtube.com/watch?v=YiVCO2U4DLo) |
 | 36 | [Halogen-](https://osu.ppy.sh/users/169992) | Pemain pro osu!mania | [Tautan](https://www.youtube.com/watch?v=5E02YK5mNRk) |
 | 37 | [Staiain](https://osu.ppy.sh/users/86188) | Pemain pro osu!mania | [Tautan](https://www.youtube.com/watch?v=_SJA69rqB6w) |
-| 38 | [Starrodkirby86](https://osu.ppy.sh/users/410) | Mapper residen Susumu Hirasawa | [Tautan](https://www.youtube.com/watch?v=54VUzflrXws) |
+| 38 | [Starrodkirby86](https://osu.ppy.sh/users/410) | Resident Susumu Hirasawa mapper | [Tautan](https://www.youtube.com/watch?v=54VUzflrXws) |
 | 39 | [Arf](https://osu.ppy.sh/users/3716999) | Komentator turnamen | [Tautan](https://www.youtube.com/watch?v=K9_4nzs5idM) |
 | 40 | [The8BitDrummer](https://www.twitch.tv/the8bitdrummer/profile) | Musisi | [Tautan](https://www.youtube.com/watch?v=tuOv9E9QkJA) |
 | 41 | [Histoire](https://osu.ppy.sh/users/3801463) | Penyelenggara Kejuaraan osu! Histy | [Tautan](https://www.youtube.com/watch?v=3Q1ygMaAb7g) |
 | 42 | [jakads](https://osu.ppy.sh/users/259972) | Pemain top osu!mania | [Tautan](https://www.youtube.com/watch?v=MXx6oknK6c8) |
-| 43 | [Evening](https://osu.ppy.sh/users/2193881) | Mapper residen Camellia | [Tautan](https://www.youtube.com/watch?v=gHKzBz8hcoE) |
+| 43 | [Evening](https://osu.ppy.sh/users/2193881) | Resident Camellia mapper | [Tautan](https://www.youtube.com/watch?v=gHKzBz8hcoE) |
 | 44 | [pishifat](https://osu.ppy.sh/users/3178418) | QAT | [Tautan](https://www.youtube.com/watch?v=YseljuHjmLo) |
 | 45 | [Rafis](https://osu.ppy.sh/users/2558286) | Pemain pro osu! | [Tautan](https://www.youtube.com/watch?v=wKhuovIMa8k) |
 | 46 | [Spare](https://osu.ppy.sh/users/2204373) | Pemain top osu! di Britania Raya | [Tautan](https://www.youtube.com/watch?v=MTWgwsIxPRc) |
@@ -105,5 +105,5 @@ Serial *podcast* ini telah diatur sehingga siapapun dapat dengan bebas masuk ke 
 
 ## Tautan eksternal
 
-- [Kanal resmi YouTube](https://www.youtube.com/user/osuacademy/videos)
+- [Kanal YouTube resmi](https://www.youtube.com/user/osuacademy/videos)
 - [Utas resmi](https://osu.ppy.sh/community/forums/topics/225111)
