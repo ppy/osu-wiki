@@ -25,7 +25,7 @@ Although they've technically been part of the osu! world since 2011 through the 
 Check out [this loved beatmap](https://osu.ppy.sh/beatmapsets/609057) hosted by [Parachute](https://osu.ppy.sh/users/1175275) and seen in the video above!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/171/Reception%20for%20witnesses%2Flove%20solfege%20-%20Vanity%20Clock.mp3" type="audio/mpeg">
 </audio>
 
 ### La Fatalite
@@ -33,19 +33,19 @@ Check out [this loved beatmap](https://osu.ppy.sh/beatmapsets/609057) hosted by 
 Try playing [this super long marathon beatmap](https://osu.ppy.sh/beatmapsets/1398874) hosted by [Hey lululu](https://osu.ppy.sh/users/4086497)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/171/La%20Fatalite%2Flove%20solfege%20-%20La%20Fatalite.mp3" type="audio/mpeg">
 </audio>
 
 ### matricaria
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/171/la%20tempesta%2Flove%20solfege%20-%20matricaria.mp3" type="audio/mpeg">
 </audio>
 
 ### protomimesis#14
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/171/protomimesis/love%20solfege%20-%20protomimesis%2314.mp3" type="audio/mpeg">
 </audio>
 
 ---
