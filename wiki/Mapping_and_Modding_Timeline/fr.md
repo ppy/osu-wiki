@@ -267,12 +267,12 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 - **05/08/2016 :** Le [blog Quality Assurance Team](/wiki/Quality_Assurance_Team_Blog) a été créé.
   - Les QAT était critiquée pour être trop fermée au reste de la communauté de mapping. Ce blog a donc été créé pour accroître la transparence des décisions des QAT et des activités de la communauté.
-- **26/08/2016 :** Le [Code de conduite] (/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) a été mis en place pour définir les attentes en matière de comportement des moddeurs.
+- **26/08/2016 :** Le [Code de conduite](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) a été mis en place pour définir les attentes en matière de comportement des moddeurs.
   - Jusqu'à présent, ces règles et directives étaient considérées comme relevant du bon sens. En les documentant, la modération pourrait être rendue plus cohérente.
 
 ### Septembre
 
-- **30/09/2016 :** Le [Community Mentorship Program] (/wiki/Community_Mentorship_Program) a été relancé après une longue interruption.
+- **30/09/2016 :** Le [Community Mentorship Program](/wiki/Community_Mentorship_Program) a été relancé après une longue interruption.
   - Sa nouvelle structure était centrée sur la communication par [Discord](https://discord.com/brand-new) et les cycles saisonniers.
   - Le programme était dirigé par ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) et ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923)
 
