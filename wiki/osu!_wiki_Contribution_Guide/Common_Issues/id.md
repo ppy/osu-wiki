@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Masalah umum yang dialami kontributor osu! wiki
 
 ## Seseorang mengatakan kepada saya untuk meninggalkan pesan commit yang lebih berarti!

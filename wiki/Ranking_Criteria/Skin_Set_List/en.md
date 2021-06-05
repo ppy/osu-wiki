@@ -120,7 +120,7 @@ The entirety of this skin set is gameplay relevant.
 | taikobigcircleoverlay(-n).png | - | required | 118x118px |
 | taikohitcircle.png | - | required | 118x118px |
 | taikohitcircleoverlay(-n).png | - | required | 118x118px |
-| sliderscorepoint.png | should only be used on beatmapsets without osu! difficulties (shared image) | required | - |
+| sliderscorepoint.png | should only be used on beatmaps without osu! difficulties (shared image) | required | - |
 | taiko-roll-middle.png | gets stretched to fill the roll | required | 1x118px (line) 1x128px (whole file) |
 | taiko-roll-end.png | right half of a circle | required | 59x118px (half circle) 64x128px (whole file) |
 | spinner-warning.png | - | required | - |
@@ -180,7 +180,7 @@ For catchers the plate must be perfectly centered and exactly 302px across in wi
 | fruit-catcher-fail(-n).png | should face right | required | minimum 302px wide |
 | fruit-catcher-idle(-n).png | should face right | required | minimum 302px wide |
 | fruit-catcher-kiai(-n).png | should face right | required | minimum 302px wide |
-| lighting.png | should only be used on beatmapsets without osu! difficulties (shared image) | optional | - |
+| lighting.png | should only be used on beatmaps without osu! difficulties (shared image) | optional | - |
 
 ## Interface
 
@@ -216,7 +216,7 @@ The entirety of this skin set is gameplay relevant. Overlaps or gaps between the
 | score-comma.png | - | required | - |
 | score-dot.png | - | required | - |
 | score-percent.png | - | required | - |
-| score-x.png | can be left out on beatmap sets without osu! difficulties | required | - |
+| score-x.png | can be left out on beatmaps without osu! difficulties | required | - |
 
 ### Mod icon set
 
@@ -273,8 +273,8 @@ This skin set is not gameplay relevant.
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| inputoverlay-background.png | must not be skinned in beatmapsets without osu! or osu!catch difficulties | required | 193x55px |
-| inputoverlay-key.png | must not be skinned in beatmapsets without osu! or osu!catch difficulties | required | max: 46x46px |
+| inputoverlay-background.png | must not be skinned in beatmaps without osu! or osu!catch difficulties | required | 193x55px |
+| inputoverlay-key.png | must not be skinned in beatmaps without osu! or osu!catch difficulties | required | max: 46x46px |
 
 ### Leaderboard entry number set
 

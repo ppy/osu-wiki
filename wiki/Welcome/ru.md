@@ -4,7 +4,7 @@ outdated: true
 
 # Добро пожаловать
 
-Добро пожаловать в osu! — бесплатную ритм-игру с четырьмя режимами: симулятор щелчков по кругам osu!standard, эмулятор барабана osu!taiko, ловля фруктов osu!catch и синтезатор ударов по клавишам osu!mania. Игра разработана Dean Herbert, известным также под ником peppy.
+Добро пожаловать в osu! — бесплатную ритм-игру с четырьмя режимами: симулятор щелчков по кругам osu!, эмулятор барабана osu!taiko, ловля фруктов osu!catch и синтезатор ударов по клавишам osu!mania. Игра разработана Dean Herbert, известным также под ником peppy.
 
 ## Популярные темы
 
@@ -13,13 +13,13 @@ outdated: true
 - [Правила](/wiki/Rules)
 - [ЧАВО](/wiki/FAQ)
 - [Режимы игры](/wiki/Game_mode)
-  - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![значок osu!](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![значок osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![значок osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Мультиплеер](/wiki/Multi)
 - [Критерии ранкинга карт](/wiki/Ranking_Criteria)
-  - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![значок osu!](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![значок osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![значок osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
@@ -46,4 +46,4 @@ outdated: true
 
 Начиная с 2016-08-26 osu! wiki была перенесена в репозиторий на GitHub. После этого рабочий процесс сильно изменился. Все правки теперь вносятся через [репозиторий osu-wiki на GitHub](https://github.com/ppy/osu-wiki) и проверяются перед тем, как они будут  опубликованы на osu! wiki.
 
-Прочтите [гайд](/wiki/owcg) или [тему на форуме](https://osu.ppy.sh/community/forums/topics/566978) если хотите поучаствовать в переводе и наполнении wiki.
+Прочтите [гайд](/wiki/osu!_wiki_Contribution_Guide) или [тему на форуме](https://osu.ppy.sh/community/forums/topics/566978) если хотите поучаствовать в переводе и наполнении wiki.

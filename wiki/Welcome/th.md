@@ -1,6 +1,6 @@
 # ยินดีต้อนรับ
 
-ยินดีต้อนรับสู่ osu! เกมกดจังหวะที่เล่นฟรี พัฒนาโดย peppy โดยมีเกมโหมด 4 แบบ: osu!standard จำลองการคลิกวงกลม; osu!taiko จำลองการตีกลอง; osu!catch จำลองการเก็บผลไม้ และ osu!mania จำลองการสแปมปุ่ม
+ยินดีต้อนรับสู่ osu! เกมกดจังหวะที่เล่นฟรี พัฒนาโดย peppy โดยมีเกมโหมด 4 แบบ: osu! จำลองการคลิกวงกลม; osu!taiko จำลองการตีกลอง; osu!catch จำลองการเก็บผลไม้ และ osu!mania จำลองการสแปมปุ่ม
 
 ## Common points of interest
 
@@ -9,13 +9,13 @@
 - [กฎ](/wiki/Rules)
 - [คำถามที่พบบ่อย](/wiki/FAQ)
 - [เกมโหมด](/wiki/Game_mode)
-  - ![ไอคอน osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![ไอคอน osu!](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![ไอคอน osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![ไอคอน osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![ไอคอน osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [ผู้เล่นหลายคน](/wiki/Multi)
 - [กฎเกณฑ์การแรงค์บีทแมพ](/wiki/Ranking_Criteria)
-  - ![ไอคอน osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![ไอคอน osu!](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![ไอคอน osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![ไอคอน osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![ไอคอน osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
@@ -44,4 +44,4 @@
 
 ตั้งแต่ 26 มิถุนายม 2559 osu! wiki ได้ถูกย้ายมาที่ GitHub repository ซึ่งหลังจากการเปลี่ยนแปลงครั้งนี้ การทำงานได้เปลี่ยนแปลงไปอย่างมาก การร่วมมือต่าง ๆ จะถูกทำผ่าน [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) และจะถูกตรวจสอบ ก่อนที่จะได้รับการยืนยันและรวมไปใน osu! wiki
 
-เพื่อที่จะเริ่ม ดูบทความ [ไกด์การร่วมมือใน osu! wiki](/wiki/owcg)
+เพื่อที่จะเริ่ม ดูบทความ [ไกด์การร่วมมือใน osu! wiki](/wiki/osu!_wiki_Contribution_Guide)

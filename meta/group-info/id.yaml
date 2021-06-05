@@ -8,7 +8,7 @@ alumni:
     dev: osu!dev
     media: pereka cipta osu!media
     support: Support Team
-    tournaments: turnamen
+    tournaments: manajemen turnamen
 gmt:
   all_mods: seluruh moderator
   areas:
@@ -19,7 +19,7 @@ gmt:
     dev: pengembangan osu!
     player: dukungan pengguna
     support: dukungan teknis
-    tournaments: turnamen
+    tournaments: manajemen turnamen
     wiki: administrasi osu!wiki
 nat:
   areas:

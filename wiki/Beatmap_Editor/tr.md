@@ -6,7 +6,7 @@
 
 *Beatmap düzenleyici kısayolları için, bakınız: [Kısayol referansı & Beatmap düzenleyici](/wiki/Shortcut_key_reference#beatmap-editor)*
 
-**Beatmap düzenleyici** osu!'nun oyun içi [beatmap](/wiki/Beatmaps) yapma bölümüdür. [Beatmapping](/wiki/Beatmapping) osu! için beatmap yapma işidir
+**Beatmap düzenleyici** osu!'nun oyun içi [beatmap](/wiki/Beatmap) yapma bölümüdür. [Beatmapping](/wiki/Beatmapping) osu! için beatmap yapma işidir
 
 Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
@@ -29,7 +29,7 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
 ## Song Setup (Müzik Kurulumu)
 
-[Song setup (Müzik kurulumu)](/wiki/Beatmap_Editor/Song_Setup) beatmapin [metaverisini](/wiki/Ranking_Criteria#metadata) ve [beatmap setleri](/wiki/Glossary#beatmapset) için evrensel olan diğer şeyleri doldurur. Bu, şarkının başlığı, sanatçısı, zorluk adı, kombo renkleri vs. içerir.
+[Song setup (Müzik kurulumu)](/wiki/Beatmap_Editor/Song_Setup) beatmapin [metaverisini](/wiki/Ranking_Criteria#metadata) ve [beatmap setleri](/wiki/Beatmap) için evrensel olan diğer şeyleri doldurur. Bu, şarkının başlığı, sanatçısı, zorluk adı, kombo renkleri vs. içerir.
 
 ## Diğer
 

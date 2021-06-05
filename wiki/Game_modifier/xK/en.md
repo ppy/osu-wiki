@@ -29,13 +29,13 @@ tags:
 - Type: Special
 - Score Multiplier: 0.66x–1.00x
 - Default shortcut key: `Z` (each click/key press goes from 4K to 9K, then back to 1K until 3K before being disabled)
-- Compatible game modes: ![][o!m]
+- Compatible game modes: ![][osu!mania]
 
 ## Description
 
 *Notice: All xK mods will be ignored on osu!mania-specific beatmaps. Using the 1K, 2K, or 3K mod will result in an unranked play.*
 
-These are [game modifiers](/wiki/Game_modifier) that will force all *converted* [osu!mania](/wiki/Game_mode/osu!mania) [beatmaps](/wiki/Beatmaps) to use the selected K setting. This ignores the supposed K setting of the beatmap at the cost of decreasing the score multiplier, depending on the K difference.
+These are [game modifiers](/wiki/Game_modifier) that will force all *converted* [osu!mania](/wiki/Game_mode/osu!mania) [beatmaps](/wiki/Beatmap) to use the selected K setting. This ignores the supposed K setting of the beatmap at the cost of decreasing the score multiplier, depending on the K difference.
 
 The table below explains how the score multiplier will be applied across all xK mods:
 
@@ -46,4 +46,4 @@ The table below explains how the score multiplier will be applied across all xK 
 | 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

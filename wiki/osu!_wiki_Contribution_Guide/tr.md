@@ -44,7 +44,7 @@ Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ih
 
 3. Eğer zaten değiştirilmiş bir dosyayı düzenlemeyecekseniz, bu pek bir sorun değil. Ancak ne kadar çok commit gerideyseniz, değiştirilmiş dosyalarla karşılaşma durumunuz bir o kadar yüksek.
 
-4. Bunu düzeltmek için, [Yaygın Sorunlar makalesinden Branch'ım güncel değil! kısmına](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!) gözatın.
+4. Bunu düzeltmek için, [Yaygın Sorunlar makalesinden Branch'ım güncel değil! kısmına](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#my-branch-is-out-of-date!) gözatın.
 
 5. 4\. adımı tamamladığınızda, [Çevrimiçi ya da yerel düzenleme](#çevrimiçi-ya-da-yerel-düzenleme) kısmına devam edin.
 
@@ -52,8 +52,8 @@ Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ih
 
 Bu noktada iki seçeneiğiniz var:
 
-- [GitHub Web Arayüzü](/wiki/owcg/GitHub_Web_Interface) - çevrimiçi düzenleyin; tekli makale düzenleme için en iyisi
-- [GitHub Masaüstü](/wiki/owcg/GitHub_Desktop) - yerel düzenleyin; tekli ve/veya çoklu makale düzenleme için en iyisi (bu resimleri veya dosyaları karşıya yükleme, silme veya taşımayı da içerir)
+- [GitHub Web Arayüzü](/wiki/osu!_wiki_Contribution_Guide/GitHub_Web_Interface) - çevrimiçi düzenleyin; tekli makale düzenleme için en iyisi
+- [GitHub Masaüstü](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop) - yerel düzenleyin; tekli ve/veya çoklu makale düzenleme için en iyisi (bu resimleri veya dosyaları karşıya yükleme, silme veya taşımayı da içerir)
 
 *Not: Düzenleme için yukarıda listelenen iki seçeneğe sınırlı değilsiniz. Rehberi kısa ve öz tutmak adına, bu makalelerde diğer araç-gereçlerin kullanımından detaylıca hatta hiç bahsedilmeyecek. GitHub Web Arayüzü ve GitHub Masaüstü'nün halihazırda yaptıklarını aşağı yukarı yapan başka üçüncü parti uygulamalar da mevcut.*
 

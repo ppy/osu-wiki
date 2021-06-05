@@ -4,7 +4,6 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 もし作業中に困ったことができたり、助けが必要になったりしたら、遠慮なく[osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` チャンネル)にメッセージを送ってください。
 
-
 ## はじめる前の準備
 
 ### 登録
@@ -45,7 +44,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 3. もし他の人によってすでに変更されたファイルを変更する予定がない場合、これはさほど大きな問題ではありません。
 
-4. これを解決するには、[My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!)を読んでください。
+4. これを解決するには、[My branch is out of date! section in the Common Issues article](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#my-branch-is-out-of-date!)を読んでください。
 
 5. 4が完了したら、 [オンラインかローカルで編集する](#オンラインかローカルで編集する)へ続けてください。
 
@@ -53,13 +52,12 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 編集する方法は大きく2つあります。
 
-- [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - オンラインで編集します。一人で編集をするのに適しています。
-- [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - ローカルで編集します。これは複数人で編集するのに適しています。（特に画像やファイルを移動したり削除したりするのに適しています。）
+- [GitHub Web Interface](/wiki/osu!_wiki_Contribution_Guide/GitHub_Web_Interface) - オンラインで編集します。一人で編集をするのに適しています。
+- [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop) - ローカルで編集します。これは複数人で編集するのに適しています。（特に画像やファイルを移動したり削除したりするのに適しています。）
 
 *ちなみに: 編集するのにこれらの方法しか使ってはいけないわけではありません。このガイドを短く簡潔にするために、ここでは他のツールについて多くは語りません。他にも上の２つのような働きをするアプリケーションが存在します。*
 
 **GitHub Web InterfaceやGitHub Desktopなどで作業を完了させた後で次のセクションへ続けてください。**
-
 
 ## 最後に
 

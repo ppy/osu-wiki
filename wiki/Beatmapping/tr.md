@@ -2,10 +2,10 @@
 
 # Beatmap oluşturma
 
-**Beatmap oluşturma** oyuncuların oynaması için gerekli [beatmaplerin](/wiki/Beatmaps) oluşturulma sürecidir.
+**Beatmap oluşturma** oyuncuların oynaması için gerekli [beatmaplerin](/wiki/Beatmap) oluşturulma sürecidir.
 Bu şarkı seçmeyi, [zamanlamayı](/wiki/Timing), [objeler](/wiki/Hit_Objects) yerleştirmeyi, ve (opsiyonel olarak) [tema](/wiki/Skinning) ve [storyboard](/wiki/Storyboarding) oluşturmayı da içerir.
 
-Mapperlar genellikle [beatmap derecelendirme prosedürünü](/wiki/Beatmap_ranking_procedure) takip ederek beatmaplerini [dereceli](/wiki/Beatmaps) yapmak isterler.
+Mapperlar genellikle [beatmap derecelendirme prosedürünü](/wiki/Beatmap_ranking_procedure) takip ederek beatmaplerini [dereceli](/wiki/Beatmap) yapmak isterler.
 
 osu! ritim tabanlı bir oyun olduğundan, maplemek için seçtiğiniz şarkı/müzik belirgin ve sürekli bir ritme sahip olmalı.
 Beatmap oluşturmaya alıştığınız ve daha deneyimli olduğunuz vakte kadar yavaş şarkılardan veya temposu (ya da hızı) değişen şarkılardan kaçınmaya çalışın.
@@ -25,7 +25,7 @@ Eğer herhangi bir nedenden dolayı şarkı seçiminde listeli değilse, beatmap
 
 Yeni bir [map seti](/wiki/mapset) oluştururken, diğer başka beatmap düzenleyici kısımlarından önce her zaman bu pencereyi görürsünüz.
 
-Başka bir [zorluk](/wiki/Difficulties) oluşturmadan önce bu bilgi kutucuğunu doldurmalısınız.
+Başka bir [zorluk](/wiki/Beatmap/Difficulty) oluşturmadan önce bu bilgi kutucuğunu doldurmalısınız.
 Bu, set içerisindeki tüm zorluklar için metaverinin tutarlı olmasını sağlayacaktır.
 
 İsterseniz şu anda diğer sekmeler içerisinden seçenekleri değiştirebilirsiniz, ancak bunlar daha sonra tekrar değiştirilebilir.

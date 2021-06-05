@@ -362,7 +362,7 @@ Sunday, 6 September 2020:
 
 ### General rules
 
-1. Indonesian Draft Cup is an osu!standard **3v3 double-elimination tournament**.
+1. Indonesian Draft Cup is an osu! **3v3 double-elimination tournament**.
 2. The tournament is however restricted to Bahasa Indonesia speaking player only and has Indonesian flag in their osu! profile (Indonesian players who live abroad could give further confirmation through osu! PM or Discord server to the organiser).
 3. There will be **no rank limit**.
 4. **Team seedings will be determined through the Group Stage**.

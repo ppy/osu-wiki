@@ -1,6 +1,6 @@
 # Project Loved
 
-**Project Loved** beatmapleri [Sevilen](/wiki/Beatmaps/Category#loved) kategorisine kazandıran oylama plaformudur. Bu proje birincil olarak [Project Loved Takımı](/wiki/People/The_Team/Project_Loved_Team) tarafından yürütülür.
+**Project Loved** beatmapleri [Sevilen](/wiki/Beatmap/Category#loved) kategorisine kazandıran oylama plaformudur. Bu proje birincil olarak [Project Loved Takımı](/wiki/People/The_Team/Project_Loved_Team) tarafından yürütülür.
 
 ## Bir beatmapin Sevilenlere eklenmesi
 
@@ -23,13 +23,14 @@ Aday gösterilen map setleri daha sonrasında, topluluk üyelerinin map setinin 
 
 Beatmaplerin Sevilen kategorisine aday gösterilebilmesi için karşılaması gereken minimal birtakım kriterler bulunmaktadır. Kaptanlar bir beatmap setini aşağıdaki kriterleri sağlıyorsa göz önünde bulundurur:
 
-- [Nitelikli](/wiki/Beatmaps/Category#qualified), [Dereceli](/wiki/Beatmaps/Category#ranked) ya da [Onaylı](/wiki/Beatmaps/Category#approved) kategorilerinde olmamalı.
+- [Nitelikli](/wiki/Beatmap/Category#qualified), [Dereceli](/wiki/Beatmap/Category#ranked) ya da [Onaylı](/wiki/Beatmap/Category#approved) kategorilerinde olmamalı.
 - Yaratıcısı setin Sevilen olmasını reddetmemeli.
 - Yaratıcısı banlı ya da kısıtlı olmamalı.
 - En az bir zorluğun geçilebilir olmalı.
-- En az 30 favoriye sahip olmalı (sadece osu!standard mapleri için geçerlidir)
+- En az 30 favoriye sahip olmalı (sadece osu! mapleri için geçerlidir)
+- Her zorluk en az 30 saniyelik [akış süresine](/wiki/Gameplay/Drain_time) sahip olmalı.
 
-Ancak, neredeyse tüm [Beklemede ve Yapım aşamasındaki](/wiki/Beatmaps/Category#work-in-progress-and-pending) maplerin bu kriterlere uymasına rağmen, nispeten daha seçici aday gösterme ve oylama gereksinimlerinden dolayı yalnızca birkaçı Sevilen kategorisine eklenmesi için oylanır.
+Ancak, neredeyse tüm [Beklemede ve Yapım aşamasındaki](/wiki/Beatmap/Category#work-in-progress-and-pending) maplerin bu kriterlere uymasına rağmen, nispeten daha seçici aday gösterme ve oylama gereksinimlerinden dolayı yalnızca birkaçı Sevilen kategorisine eklenmesi için oylanır.
 
 Sevilen kategorisine giren beatmapler birtakım ek kuralları takip etmek zorundadır:
 

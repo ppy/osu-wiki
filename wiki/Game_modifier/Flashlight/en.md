@@ -19,33 +19,33 @@ tags:
 - Abbreviation: FL
 - Type: Difficulty Increase
 - Score Multiplier:
-  - ![][o!s] ![][o!t] ![][o!c]: 1.12x
-  - ![][o!m]: 1.00x
+  - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.12x
+  - ![][osu!mania]: 1.00x
 - Default shortcut key: `G`
 - Caption: `Restricted view area`
-- Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
-The **Flashlight** mod is a [game modifier](/wiki/Game_modifier/Flashlight) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmaps) by limiting the visible area of the screen.
+The **Flashlight** mod is a [game modifier](/wiki/Game_modifier) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmap) by limiting the visible area of the screen.
 
-### osu!standard
+### osu!
 
-In [osu!standard](/wiki/Game_mode/osu!), only a small, illuminated cricle (i.e., the visible area) surrounding the cursor is shown which will display the parts of the playfield that are contained within that circle. The size of this circle will change depending on the player's current combo.
+In [osu!](/wiki/Game_mode/osu!), only a small, illuminated circle (i.e., the visible area) surrounding the cursor is shown which will display the parts of the playfield that are contained within that circle. The size of this circle will change depending on the player's current combo.
 
 The visible area will become smaller at 100x combo and again at 200x combo. If the player's combo is broken at any point, the visible area will return to its original size. Additionally, when sliding a [slider](/wiki/Hit_object/Slider), the visible area will partially darken until the slider is completed.
 
 All of this adds up to an effect that looks like a virtual flashlight is being shone on the player's cursor:
 
-![FL gameplay standard](img/FL-comparison-standard.jpg "Comparison between a play with the Flashlight mod enabled at 13x combo (top-middle), 100x combo (bottom-left), and at 200x combo (bottom-right)")
+![FL gameplay osu!](img/FL-comparison-osu.jpg "Comparison between a play with the Flashlight mod enabled at 13x combo (top-middle), 100x combo (bottom-left), and at 200x combo (bottom-right)")
 
 It should be noted that when paired with the Hidden mod, the "flashlight's" visible area barely matters: with limited vision, the fading of the hit objects may occur while the cursor is not focused to the hit object's appearance point.
 
-The Flashlight mod is widely regarded by many as the hardest mod in osu!standard, and scores obtained with it typically require players to memorize the entire beatmap.
+The Flashlight mod is widely regarded by many as the hardest mod in osu!, and scores obtained with it typically require players to memorize the entire beatmap.
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the position of visible area is fixed at the hitting area. And similarly to osu!standard, the visible area shrinks as the combo increases: shrinking at 100x and 200x combo while returning to its original size if the combo breaks.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the position of visible area is fixed at the hitting area. And similarly to osu!, the visible area shrinks as the combo increases: shrinking at 100x and 200x combo while returning to its original size if the combo breaks.
 
 ![FL gameplay taiko](img/FL-taiko.jpg "Gameplay of osu!taiko with the Flashlight mod enabled")
 
@@ -53,11 +53,11 @@ When paired with the Hidden mod, the "flashlight's" visible area becomes a moot 
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the Flashlight mod's behaviour is the same as in osu!standard, except for the fact that the visible area follows the catcher instead of the cursor. And due to the nature of osu!catch, the visible area is notably larger than in osu!standard or osu!taiko.
+In [osu!catch](/wiki/Game_mode/osu!catch), the Flashlight mod's behaviour is the same as in osu!, except for the fact that the visible area follows the catcher instead of the cursor. And due to the nature of osu!catch, the visible area is notably larger than in osu! or osu!taiko.
 
 ![FL gameplay catch](img/FL-catch.jpg "Gameplay of osu!catch with the Flashlight mod enabled")
 
-When paired with the Hidden mod, the fruits are momentarily visible if the catcher is *directly under* the fruits. That is, up until the player reaches 100x combo, at which point the fruits become completely invisible by the time the fruits reach the visible area. Much like osu!standard and osu!taiko, this also requires complete memorization of the beatmap.
+When paired with the Hidden mod, the fruits are momentarily visible if the catcher is *directly under* the fruits. That is, up until the player reaches 100x combo, at which point the fruits become completely invisible by the time the fruits reach the visible area. Much like osu! and osu!taiko, this also requires complete memorization of the beatmap.
 
 ### osu!mania
 
@@ -72,7 +72,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a r
   - [Flashlight mod disabled #2](https://osu.ppy.sh/community/forums/topics/41039)
   - [Flashlight is back!](https://osu.ppy.sh/community/forums/topics/41519)
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

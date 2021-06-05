@@ -68,7 +68,7 @@ Pour une difficulté de 4\* à 4.5\*, *n* est égal à 64, avec un score maximum
 Dans le cas extrême, *n* atteint une valeur de 96, où le score maximum par note vaut 1,260/2,520.
 Il existe bien entendu des valeurs de *n* moins élevées pour les difficultés moins élevées.
 
-Contrairement à [osu!standard](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), un Miss dans osu!taiko ne causera pas une différence *radicale* du score avec le score maximum atteignable. (dans osu!standard/osu!catch, la différence de score due à un Miss est d'autant plus large que le combo maximum, surtout si cela se produit aux alentours de la moitié du combo maximum).
+Contrairement à [osu!](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), un Miss dans osu!taiko ne causera pas une différence *radicale* du score avec le score maximum atteignable. (dans osu!/osu!catch, la différence de score due à un Miss est d'autant plus large que le combo maximum, surtout si cela se produit aux alentours de la moitié du combo maximum).
 Au lieu de cela, un score constant de *n* (décrit ci-dessus) est réduit par Miss dans une beatmap si chaque Miss est séparé par 100 de combo ou plus.
 Avec la présence de Shakers ou de grandes notes, la perte de score sera plus grande.
 
@@ -97,7 +97,7 @@ Exceptions :
 
 ## osu!catch
 
-Le scoring pour osu!catch utilise le même multiplicateur qu'[osu!standard](/wiki/Game_mode/osu!).
+Le scoring pour osu!catch utilise le même multiplicateur qu'[osu!](/wiki/Game_mode/osu!).
 Cependant, le fruit réceptionné s'ajoute différemment au score.
 
 - Un Fruit normal donne un score de 300, multiplié par le multiplicateur.
@@ -116,11 +116,11 @@ Le combo ne sera pas rompu si des Droplets sont manqués (représentés en tant 
 | **Difficulty multiplier** | Le paramètre de difficulté de la beatmap |
 | **Mod multiplier** | Le multiplicateur correspondant aux mods sélectionnés |
 
-**Note:** Il existe des différences entre les systèmes de scoring d'osu!standard et d'osu!catch :
+**Note:** Il existe des différences entre les systèmes de scoring d'osu! et d'osu!catch :
 
 - Les 300 et les incrémentations de combo ne sont pas accordés lors de la complétion d'un Spinner
 - Les points de répétition de Slider sont comptés au score plein
-  - Pour osu!standard, ces objets comptent pour 30 points
+  - Pour osu!, ces objets comptent pour 30 points
 
 ## osu!mania
 

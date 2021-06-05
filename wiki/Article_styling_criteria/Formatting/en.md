@@ -339,7 +339,7 @@ The following example was done correctly:
 Bulleted lists must use a hyphen (`-`). These must then be followed by one space. (Example shown below.)
 
 ```markdown
-- osu!standard
+- osu!
   - Hit circle
     - Combo number
     - Approach circle
@@ -543,31 +543,31 @@ When linking to a user profile, the user's id number must be used. Use the new w
 
 The link text of the user link should be the user's current name.
 
-##### Beatmaps
+##### Difficulties
 
-Whenever linking to a beatmap, use this format as the link text:
+Whenever linking to a single difficulty, use this format as the link text:
 
 ```
 {artist} - {title} ({creator}) [{difficuty_name}]
 ```
 
-The link to a beatmap must actually link to that difficulty. Beatmap difficulty URLs must be formatted as follows:
+The link must actually link to that difficulty. Beatmap difficulty URLs must be formatted as follows:
 
 ```
-https://osu.ppy.sh/beatmapsets/{BeatmapsetID}#{mode}/{BeatmapID}
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{mode}/{BeatmapID}
 ```
 
 The difficulty name may be left outside of the link text, but doing so must be consistent throughout the entire article.
 
-##### Beatmapsets
+##### Beatmaps
 
-Whenever linking to a beatmapset, use this format as the link text:
+Whenever linking to a beatmap, use this format as the link text:
 
 ```
 {artist} - {title} ({creator})
 ```
 
-All beatmapset URLs must be formatted as follows:
+All beatmap URLs must be formatted as follows:
 
 ```
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
@@ -669,7 +669,7 @@ The website's max image width is the width of the article body. Images should be
 
 ### Annotating images
 
-When annotating images, use *Exo 2 light*. For Chinese, Korean, Japanese characters, use *Microsoft YaHei*.
+When annotating images, use *Torus Regular*. For Chinese, Korean, Japanese characters, use *Microsoft YaHei*.
 
 Annotating images should be avoided, as it is difficult for translators (and other editors) to edit them.
 

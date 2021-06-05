@@ -1,6 +1,6 @@
 # Blog de l'équipe d'assurance qualité
 
-Le **[Blog de l'équipe d'assurance qualité](http://osuqat.tumblr.com)**, communément appellé le *Blog QAT*, était un blog semi-régulier écrit par des membres de l'[Equipe d'Assurance Qualité](/wiki/Glossary#quality-assurance-team). À partir d'août 2016, ils ont discuté non-seulement des activités de la QAT, mais également de nombreux autres sujets couvrant le gameplay d'osu!, le mapping, le modding et le jeu/la communauté dans son ensemble.
+Le **[Blog de l'équipe d'assurance qualité](http://osuqat.tumblr.com)**, communément appellé le *Blog QAT*, était un blog semi-régulier écrit par des membres de l'[Equipe d'Assurance Qualité](/wiki/Modding/Quality_Assurance_Team). À partir d'août 2016, ils ont discuté non-seulement des activités de la QAT, mais également de nombreux autres sujets couvrant le gameplay d'osu!, le mapping, le modding et le jeu/la communauté dans son ensemble.
 
 En septembre 2017, la série *QAT Gazette* a commencé à utiliser [osu!news](https://osu.ppy.sh/home/news) en tant que plateforme, plutôt que le blog QAT. Tous les anciens articles du blogs sont aussi sur osu!news.
 
@@ -30,7 +30,7 @@ En septembre 2017, la série *QAT Gazette* a commencé à utiliser [osu!news](ht
 
 #### Novembre
 
-- [osu!standard BN Examination](https://osu.ppy.sh/home/news/2016-11-08-osustandard-bn-examination)
+- [osu! BN Examination](https://osu.ppy.sh/home/news/2016-11-08-osustandard-bn-examination)
 - [BN Test Review (osu!taiko, catch and mania)](https://osu.ppy.sh/home/news/2016-11-27-bn-test-review-osutaiko-catch-and-mania)
 
 ### 2017

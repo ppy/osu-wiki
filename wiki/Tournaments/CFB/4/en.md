@@ -31,7 +31,7 @@ The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimin
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-![](img/badge.png "CFB4 winner badge")
+![](img/badge.jpg "CFB4 winner badge")
 
 Generous donations from ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) and ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) helped fund some of the prizes.
 
@@ -54,7 +54,7 @@ The Catch French Beginner 4 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1039950)
-- [CFB Discord server](https://discord.gg/YVYDVU9)
+- [CFB Discord server](https://discord.gg/dqAsqE3)
 - [Livestream](https://www.twitch.tv/catchfrenchbeginner)
 - [Challonge brackets](https://challonge.com/cfbquatre)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1UVwaSi_s32QEYro3zjnfMYjPrYBjr-n6El8_MntBCyk/edit#gid=1982472802)**
@@ -330,6 +330,9 @@ Sunday, 3 May 2020:
 
 ### Qualifiers
 
+- More detailed qualifiers results can be accessed via the statistics sheet inside the [link section](#links).
+- Average rank is determined by the sum of the player's positions on each map divided by the number of maps played in the qualifiers.
+
 | Seed | Player | Average rank |
 | --: | :-- | --: |
 | #1 | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | 2.2 |
@@ -348,9 +351,6 @@ Sunday, 3 May 2020:
 | #14 | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) | 12.6 |
 | #15 | ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.4 |
 | #16 | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
-
-- More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
-- Average rank is determined by the sum of the player's positions on each map divided by the number of maps played in the qualifiers.
 
 ## Ruleset
 

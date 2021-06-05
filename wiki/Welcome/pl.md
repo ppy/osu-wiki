@@ -1,6 +1,6 @@
 # Na początek
 
-Witaj w osu!, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiada cztery tryby gry: osu!standard - klikanie kółek, osu!taiko - uderzanie bębenków, osu!catch - łapanie owoców oraz osu!mania - naciskanie klawiszy.
+Witaj w osu!, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiada cztery tryby gry: osu! - klikanie kółek, osu!taiko - uderzanie bębenków, osu!catch - łapanie owoców oraz osu!mania - naciskanie klawiszy.
 
 ## Główne obszary zainteresowań
 
@@ -9,13 +9,13 @@ Witaj w osu!, darmowej grze rytmicznej rozwijanej przez peppy'ego, która posiad
 - [Zasady](/wiki/Rules)
 - [Najczęściej zadawane pytania](/wiki/FAQ)
 - [Tryby gry](/wiki/Game_mode)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/osu!Game_mode/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Tryb wieloosobowy](/wiki/Multi)
 - [Kryteria rankingowe](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu! icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
@@ -42,4 +42,4 @@ Tworzenie skórek pozwala na zmianę wyglądu osu!. Zmiany mogą być zarówno k
 
 26 sierpnia 2016 roku osu! wiki została przeniesiona do repozytorium na GitHubie. Po tej zmianie proces współtworzenia drastycznie się zmienił. Wszystkie artykuły na wiki muszą być edytowane poprzez [repozytorium osu-wiki na GitHubie](https://github.com/ppy/osu-wiki) a następnie zostać ocenione, zanim pojawią się na osu! wiki.
 
-Aby zacząć pomagać, sprawdź [poradnik dot. pomocy na osu! wiki](/wiki/owcg).
+Aby zacząć pomagać, sprawdź [poradnik dot. pomocy na osu! wiki](/wiki/osu!_wiki_Contribution_Guide).

@@ -18,7 +18,7 @@ Pudes ver los círculos en la pantalla inferior, y en la pantalla superior tiene
 
 *Explicación completa: [osu! Standard](/wiki/Game_mode/osu!)*
 
-Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Play_Styles) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmaps) y [aprobados](/wiki/Beatmaps)) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
+Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Play_Styles) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmap) y [aprobados](/wiki/Beatmap)) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
 
 #### Lo Básico del Juego
 
@@ -83,8 +83,8 @@ Vamos a aprender cuáles son los objetos ¿De acuerdo?
 Esta es la interfaz del estilo de juego osu! Standard.
 
 - La barra superior izquierda muestra tu "salud".
-  - Esta disminuirá a un ritmo constante \[dependiendo de la dificultad del beatmap establecida por el(los) [mapper(s)](/wiki/Glossary), pero puedes reponerlo presionando las notas en el momento correcto.
-  - Un "hit" (golpe) perfecto ([300](/wiki/Glossary) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Glossary)).
+  - Esta disminuirá a un ritmo constante \[dependiendo de la dificultad del beatmap establecida por el(los) [mapper(s)](/wiki/Beatmapping), pero puedes reponerlo presionando las notas en el momento correcto.
+  - Un "hit" (golpe) perfecto ([300](/wiki/Score#osu!) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Score#osu!)).
   - Muchos errores quitarán una buena parte de tu salud.
 - Al lado de la barra de salud (a la derecha) se muestra tu puntaje.
 - Debajo del puntaje está tu precisión.
@@ -150,7 +150,7 @@ Puedes configurar los botones del teclado como te parezca cómodo, desde la pest
 *Explicación completa: [Catch the Beat](/wiki/Game_mode/osu!catch)*
 
 - Catch the Beat es el segundo modo de juego especial añadido, después de Taiko.
-- En lugar de hacer clic en los círculos, ahora tienes la tarea de mover al [catcher](/wiki/Glossary) (recolector) en la parte inferior de la pantalla mientras que frutas caen desde arriba.
+- En lugar de hacer clic en los círculos, ahora tienes la tarea de mover al [catcher](/wiki/Game_mode/osu!catch#playfield) (recolector) en la parte inferior de la pantalla mientras que frutas caen desde arriba.
 
 #### Controlando al catcher
 
@@ -239,7 +239,7 @@ Disposición de teclas*de Izquierda a Derecha* (Para el estilo Beatmania IIDX)
 
 ### ¿Donde puedo encontrar beatmaps?
 
-*Explicación detallada de los beatmaps: [Beatmaps](/wiki/Beatmaps)*
+*Explicación detallada de los beatmaps: [Beatmaps](/wiki/Beatmap)*
 
 Puedes encontrarlos en la página principal bajo el nombre de "[Beatmaps](https://osu.ppy.sh/beatmapsets)".
 

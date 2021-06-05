@@ -20,9 +20,9 @@ The timeline for each month's contest is as follows:
 
 "But that's more than one month!", you may be thinking. Each month's contest overlaps, so when a contest is announced at the start of a month, you'll receive access to the voting page for the previous month's contest. Halfway through the month you'll also find out the winner from the previous month's contest (and receive a reminder of the ongoing contest's submission deadline!).
 
-## <a id="beatmapping"></a>Beatmapping
+## Beatmapping
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 Creating a high quality beatmap is a great goal to strive for, but let's be honest, *that makes for a boring competition.* 
 
@@ -36,7 +36,7 @@ For extra clarity, below are examples of allowed/disallowed slider shapes.
 
 With less wiggle room in the editor, we hope to see engaging ways of expressing the music that ordinary maps don't show!
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each contest provides beatmappers a choice between 5 songs from one of osu!'s Featured Artists.
 
@@ -84,7 +84,7 @@ Beatmap template download: [Full version](https://assets.ppy.sh/artists/62/osz/M
 
 All beatmap templates above include shortened versions of songs—mappers are free to map whichever one they prefer!
 
-## <a id="screening"></a>Screening
+## Screening
 
 While most beatmapping contests are judged solely by a panel of 3-5 judges, that isn't the case for the Monthly Beatmapping Contest.
 
@@ -94,7 +94,7 @@ The week-long process of narrowing down submissions involves each member of the 
 
 For transparency's sake, the screening users this month are  [Cris-](https://osu.ppy.sh/users/6175280), [Noffy](https://osu.ppy.sh/users/1541323),  [Nuvolina](https://osu.ppy.sh/users/10974170), [Realazy](https://osu.ppy.sh/users/918297), [ScubDomino](https://osu.ppy.sh/users/8972308), [Sing](https://osu.ppy.sh/users/3795679), [Smokeman](https://osu.ppy.sh/users/2140676), [Uberzolik](https://osu.ppy.sh/users/1314547), [Venix](https://osu.ppy.sh/users/5999631), and [Zelq](https://osu.ppy.sh/users/8953955). In case any of them drop out, back-up screening users are [Cheri](https://osu.ppy.sh/users/5226970), [Myxo](https://osu.ppy.sh/users/2202645), and [Sinnoh](https://osu.ppy.sh/users/4236057). All of these users will be reviewing the submissions without knowledge of who their creators are, and each of their preferred submissions will be viewable when the top 5 entries are announced.
 
-## <a id="voting"></a>Voting
+## Voting
 
 Instead of relying solely on mappers for their input, this contest also relies on opinions from osu! players (like you!). 
 
@@ -102,7 +102,7 @@ The final two weeks of each contest are reserved for community voting. Users can
 
 The voting page for this contest will be accessible upon the announcement of next month's contest.
 
-## <a id="rewards"></a>Rewards
+## Rewards
 
 Similar to the rewards structure of the [Mappers' Guild](https://mappersguild.com), rewards for the Monthly Beatmapping Contest will be based on cumulative points earnings:
 - **Community vote winner:** 2 points

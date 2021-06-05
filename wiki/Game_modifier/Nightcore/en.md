@@ -11,22 +11,22 @@ tags:
 
 ![NC mod icon](/wiki/shared/mods/NC.png "Nightcore (NC) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifier)*\
 *Not to be confused with [Nightcore (genre)](https://en.wikipedia.org/wiki/Nightcore "Wikipedia").*\
-*See also: [Double Time (mod)](/wiki/Game_modifier/Double_Time)*
+*See also: [NC (disambiguation)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Game_modifier/Double_Time)*\
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifier)*
 
 ## About
 
 - Abbreviation: NC
 - Type: Difficulty Increasing
 - Score Multiplier:
-  - ![][o!s]: 1.06x
-  - ![][o!t]: 1.12x
-  - ![][o!c]: 1.06x
-  - ![][o!m]: 1.00x
+  - ![][osu!]: 1.06x
+  - ![][osu!taiko]: 1.12x
+  - ![][osu!catch]: 1.06x
+  - ![][osu!mania]: 1.00x
 - Default shortcut key: `D` `D` or `Shift`+`D`
 - Caption: `uguuuuuuuu`
-- Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variant: [Double Time](/wiki/Game_modifier/Double_Time)
 
 ## Description
@@ -42,7 +42,7 @@ This mod has the same effect across all game modes.
 - The Nightcore mod was originally an [April Fools joke](https://osu.ppy.sh/community/forums/topics/49733) but was then added into the game as an actual playable mod.
 - The Nightcore mod gets its name from the genre (or to some, sub-genre) "Nightcore" in which songs are edited or created to be sped-up by about 10–30% and have higher pitched vocals. Though the validity and history of this type of music is controversial.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

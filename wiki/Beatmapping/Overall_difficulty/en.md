@@ -11,7 +11,7 @@ tags:
 
 *For recommended OD values, see: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Overall difficulty** (***OD***) defines how difficult it is to achieve high [accuracy](/wiki/Accuracy) on a [beatmap](/wiki/Beatmaps). The value ranges from 0 to 10, where higher OD will require more accuracy and precision. Since accuracy is important for gaining health, overall difficulty also influences how hard it is to pass a beatmap.
+**Overall difficulty** (***OD***) defines how difficult it is to achieve high [accuracy](/wiki/Accuracy) on a [beatmap](/wiki/Beatmap). The value ranges from 0 to 10, where higher OD will require more accuracy and precision. Since accuracy is important for gaining health, overall difficulty also influences how hard it is to pass a beatmap.
 
 ## Timing
 
@@ -27,7 +27,7 @@ If the player hits outside of the 50's hit window, it will count as a miss.
 
 ## Sliders and spinners
 
-In [osu!standard](/wiki/Game_mode/osu!), sliders will reward a 300 as long as they are hit within the 50's hit window. This is sometimes referred to as *slideracc* and is removed in ScoreV2<!-- TODO: link -->.
+In [osu!](/wiki/Game_mode/osu!), sliders will reward a 300 as long as they are hit within the 50's hit window. This is sometimes referred to as *slideracc* and is removed in ScoreV2<!-- TODO: link -->.
 
 Overall difficulty also affects spinners, in that they must be spun more to fill up the gauge in time. In [osu!taiko](/wiki/Game_mode/osu!taiko), the denden will also need more hits to be cleared. The spins per second required to clear a spinner is defined by the following formula:<!-- TODO: this is probably totally wrong with recent spinner changes -->
 
@@ -37,7 +37,7 @@ Overall difficulty also affects spinners, in that they must be spun more to fill
 
 ## Notelock
 
-In osu!standard, the timing system will not allow a hit object to be cleared until the previous object is cleared (or missed after the hit window passes). This can lead to instances of **notelock** where players will miss a note even though they hit it perfectly in sync with the beat. This occurs more often on beatmaps with low OD values, because the hit windows of hit objects overlap more frequently.
+In osu!, the timing system will not allow a hit object to be cleared until the previous object is cleared (or missed after the hit window passes). This can lead to instances of **notelock** where players will miss a note even though they hit it perfectly in sync with the beat. This occurs more often on beatmaps with low OD values, because the hit windows of hit objects overlap more frequently.
 
 ## Mod effects
 
@@ -55,5 +55,7 @@ While Half Time and Double Time do not change the OD value, the speed difference
 Overall difficulty is visible when viewing osu!catch beatmap information, but it does not affect gameplay.
 
 <!-- TODO: taiko and mania info -->
+
 <!-- TODO: Insert lots of links -->
+
 <!-- TODO: add CHART -->

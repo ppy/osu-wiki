@@ -5,7 +5,7 @@ Arquivos **.db** são arquivos binários usados pelo osu! para guardar várias i
 Eles podem ser geralmente encontrados no diretório de instalação do osu!:
 
 - Windows: `%localappdata%\osu!`
-- Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
+- macOS: `/Applications/osu!.app/Contents/Resources/drive_c/osu!/`
 
 Atualmente os únicos são osu!.db, scores.db, collection.db, e presence.db.
 
@@ -84,8 +84,8 @@ Alguns tipos de dados específicos do osu!.db estão definidos abaixo.
 | Int | Tempo total, em milissegundos |
 | Int | Tempo quando o audio preview quando selecionando um beatmap na seleção de beatmap começa, em milissegundos. |
 | Timing point+ | Um Int indicando o número do seguintes Timing points, e então os mencionados Timing points. |
+| Int | ID do dificuldade |
 | Int | ID do beatmap |
-| Int | ID do beatmap set |
 | Int | ID da thread |
 | Byte | Nota alcançada no osu! standard. |
 | Byte | Nota alcançada no Taiko. |
@@ -93,7 +93,7 @@ Alguns tipos de dados específicos do osu!.db estão definidos abaixo.
 | Byte | Nota alcançada no osu!mania. |
 | Short | Offset do beatmap local |
 | Single | Stack leniency |
-| Byte | Modo de jogo do osu! 0x00 = osu!Standard, 0x01 = Taiko, 0x02 = CTB, 0x03 = Mania |
+| Byte | Modo de jogo do osu! 0x00 = osu!，0x01 = osu!taiko，0x02 = osu!catch，0x03 = osu!mania |
 | String | Fonte da música |
 | String | Tags da música |
 | Short | Offset online |
@@ -155,16 +155,16 @@ Esta base de dados contém as pontuações alcançadas localmente.
 
 | Tipo de dado | Descrição |
 | :-- | :-- |
-| Byte | Modo de jogo do osu! (0x00 = osu!Standard, 0x01 = Taiko, 0x02 = CTB, 0x03 = Mania) |
+| Byte | Modo de jogo do osu! (0x00 = osu!，0x01 = osu!taiko，0x02 = osu!catch，0x03 = osu!mania) |
 | Int | Versão desta pontuação/replay (ex. 20150203) |
 | String | Hash MD5 do beatmap |
 | String | Nome do jogador |
 | String | Hash MD5 do replay |
 | Short | Número de 300's |
-| Short | Número de 100's no osu!Standard, 150's no Taiko, 100's no CTB, 100's no Mania |
-| Short | Número de 50's no osu!Standard, small fruit no CTB, 50's no Mania |
-| Short | Número de Gekis no osu!Standard, Max 300's no Mania |
-| Short | Número de Katus no osu!Standard, 200's no Mania |
+| Short | Número de 100's no osu!, 150's no osu!taiko, 100's no osu!catch, 100's no osu!mania |
+| Short | Número de 50's no osu!, small fruit no osu!catch, 50's no osu!mania |
+| Short | Número de Gekis no osu!, Max 300's no osu!mania |
+| Short | Número de Katus no osu!, 200's no osu!mania |
 | Short | Número de misses |
 | Int | Pontuação do replay |
 | Short | Max Combo |

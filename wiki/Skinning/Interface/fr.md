@@ -507,7 +507,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!standard](/wiki/osu!standard), [osu!taiko](/wiki/osu!taiko), et [osu!catch](/wiki/osu!catch).
+- Cet élément est spécifique à [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/osu!taiko), et [osu!catch](/wiki/osu!catch).
 
 ---
 
@@ -521,7 +521,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!standard](/wiki/osu!standard).
+- Cet élément est spécifique à [osu!](/wiki/Game_mode/osu!).
 - Ce mod va bouger le curseur à la place du joueur, qui n'aura plus qu'à appuyer sur les touches.
 
 ---
@@ -536,7 +536,7 @@ Notes:
 
 Notes:
 
-- Cet élément est spécifique à [osu!standard](/wiki/osu!standard).
+- Cet élément est spécifique à [osu!](/wiki/Game_mode/osu!).
 
 ---
 
@@ -559,7 +559,7 @@ Notes:
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 - Ce mod est disponible en version Cuttingedge uniquement.
-- Cet élément est spécifique à [osu!standard](/wiki/osu!standard).
+- Cet élément est spécifique à [osu!](/wiki/Game_mode/osu!).
 
 ## Assistant de décalage
 
@@ -934,7 +934,7 @@ Notes:
 
 - Cet élément est positionné à une hauteur de 320px.
 - Puisque l'image est tournée, l'origine de l'image elle-même est le coin supérieur gauche.
-- Cet élément est utilisé dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch).
+- Cet élément est utilisé dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch).
 - Cet élément est tourné de 90 degrés vers la droite et agrandi de 1.05x en jeu.
 - Doit être activé dans les [options](/wiki/options) pour être visible.
 
@@ -950,7 +950,7 @@ Notes:
 
 Notes:
 
-- Cet élément est utilisé dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch).
+- Cet élément est utilisé dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch).
 - Positionnement variable pour chaque touche :
   - Écarté de 24px du bord de la fenêtre
   - K1/L: à une hauteur de 350px
@@ -1179,7 +1179,7 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
     - Dans [osu!mania](/wiki/osu!mania), Produit.
 
@@ -1198,7 +1198,7 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
     - Dans [osu!mania](/wiki/osu!mania), Produit.
 
@@ -1217,7 +1217,7 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
     - Dans [osu!mania](/wiki/osu!mania), Produit.
 
@@ -1236,7 +1236,7 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
     - Dans [osu!mania](/wiki/osu!mania), Produit.
 
@@ -1255,7 +1255,7 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
     - Dans [osu!mania](/wiki/osu!mania), Produit.
 
@@ -1274,7 +1274,7 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
     - Dans [osu!mania](/wiki/osu!mania), Produit.
 
@@ -1293,7 +1293,7 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
     - Dans [osu!mania](/wiki/osu!mania), Produit.
 
@@ -1312,7 +1312,7 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
     - Dans [osu!mania](/wiki/osu!mania), Produit.
 
@@ -1331,7 +1331,7 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
     - Dans [osu!mania](/wiki/osu!mania), Produit.
 
@@ -1350,7 +1350,7 @@ Notes:
 - Par défaut, cet élément est aussi utilisé pour les nombres de combo.
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
-    - Dans [osu!standard](/wiki/osu!standard) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
+    - Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/osu!catch), Addition pour les images rémanentes en expansion.
     - De plus, dans osu!catch, les images rémanentes sont teintées par rapport à la couleur de combo du fruit.
     - Dans [osu!mania](/wiki/osu!mania), Produit.
 
@@ -1412,7 +1412,7 @@ Notes:
 
 Notes:
 
-- Cet élément est utilisé pour le combo, uniquement dans [osu!standard](/wiki/osu!standard).
+- Cet élément est utilisé pour le combo, uniquement dans [osu!](/wiki/Game_mode/osu!).
 - Mode de fusion variable :
   - Si utilisé pour le compteur de combo :
     - Addition pour les images rémanentes en expansion.
@@ -2336,7 +2336,7 @@ Notes:
 Notes:
 
 - Cet élément clignote au centre de l'écran de sélection en suivant le BPM de la chanson actuelle.
-- Sélectionner [osu!standard](/wiki/osu!standard) pour voir l'élément.
+- Sélectionner [osu!](/wiki/Game_mode/osu!) pour voir l'élément.
 
 ---
 
@@ -2456,7 +2456,7 @@ Notes:
 Notes:
 
 - Cet élément est placé au dessus de `selection-mode.png`.
-- Sélectionner [osu!standard](/wiki/osu!standard) pour voir l'élément.
+- Sélectionner [osu!](/wiki/Game_mode/osu!) pour voir l'élément.
 - Si `menu-snow.png` n'est pas présent, cet élément sera utilisé si il est sélectionné.
 
 ---

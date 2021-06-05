@@ -18,12 +18,12 @@ In the last 8 months **85** quests have been completed, nearly **400**  (yes, *4
 
 We've got a lot to cover so click on any link below to skip to a different section of this post!
 
-- [New beatmap packs and medals](#pack-medal-updates)
-- [Mappers' Guild system developments](#mappers-guild-developments)
+- [New beatmap packs and medals](#new-beatmap-packs-and-medals)
+- [Mappers' Guild system developments](#mappers'-guild-system-developments)
 - [Finished quests](#finished-quests)
 - [Major contributors to Featured Artist beatmaps](#major-contributors)
 
-## <a id="pack-medal-updates"></a>New beatmap packs and medals
+## New beatmap packs and medals
 
 Medal hunters rejoice! We've set up a bunch of new Featured Artist beatmap packs and medals for you to unlock!
 
@@ -68,7 +68,7 @@ Collections of beatmaps designed to test your skill. **Pass the top difficulty o
 - [7 star passes (Mappers' Guild Pack IX)](https://osu.ppy.sh/beatmaps/packs/2036): Beatmaps whose top difficulties range between 7 and 8 stars.
 - [Camellia Challenges Pack](https://osu.ppy.sh/beatmaps/packs/2053): Camellia beatmaps with only one or two Expert difficulties per set.
 
-## <a id="mappers-guild-developments"></a>Mappers' Guild system developments
+## Mappers' Guild system developments
 
 There's been countless changes to the Mappers' Guild system, but here's some of the most important changes since our last update:
 
@@ -80,16 +80,16 @@ There's been countless changes to the Mappers' Guild system, but here's some of 
 
 Join the [osu!dev Discord server's](https://discord.gg/ppy) `#mappers-guild` channel to keep up-to-date with everything Mappers' Guild related!
 
-## <a id="finished-quests"></a>Finished quests
+## Finished quests
 
 There's a ton of quests to go over, so click any of the types below to skip to a different quest type!
 
 - [Special quests](#special-quests): Quests with unusual requirements
-- [Artist-specific large quests](#artist-large): 5+ maps for an artist
-- [Artist-specific small quests](#artist-small): 2-4 maps for an artist
-- [Single mapset quests](#single-mapset)
+- [Artist-specific large quests](#artist-specific-large-packs): 5+ maps for an artist
+- [Artist-specific small quests](#artist-specific-small-packs): 2-4 maps for an artist
+- [Single mapset quests](#single-mapset-packs)
 
-### <a id="special-quests"></a>Special quests
+### Special quests
 
 ![Mystery header](/wiki/shared/news/banners/mappersguild-mystery.jpg)
 
@@ -202,7 +202,7 @@ The **MBC April finalists** quest   was completed by **[hypercyte](https://osu.p
 
 ---
 
-### <a id="artist-large"></a>Artist-specific large packs
+### Artist-specific large packs
 
 **For each of these quests, the mappers had to create and rank between 5 and 8 mapsets of songs by the relevant artist.**
 
@@ -303,7 +303,7 @@ The **Kola Kid pack (osu!taiko)** quest was completed by **[Gamelan4](https://os
 
 ---
 
-### <a id="artist-small"></a>Artist-specific small packs
+### Artist-specific small packs
 
 **For each of these quests, the mappers had to create and rank between 2 and 4 mapsets of songs by the relevant artist.**
 
@@ -517,7 +517,7 @@ The **Rohi double (osu!taiko)** quest was completed by **[Idealism](https://osu.
 
 ---
 
-### <a id="single-mapset"></a>Single mapset packs
+### Single mapset packs
 
 It's no surprise that of the **85** quests completed since our last update, the majority of them have been the newly implemented solo/single-mapset quests!
 
@@ -564,7 +564,7 @@ The requirements for each single-mapset quest is essentially the same: **Create 
 - **Zekk single (osu!taiko)**: [Zekk - Voyage](https://osu.ppy.sh/beatmapsets/1160498#taiko/2421285) by [eiri-](https://osu.ppy.sh/users/3388410)
 [MIMI - Shijima ni Saku](https://osu.ppy.sh/beatmapsets/1159718#osu/2419834) hosted by [eiri-](https://osu.ppy.sh/users/3388410)
 
-## <a id="major-contributors"></a>Major contributors
+## Major contributors
 
 While we would usually list each recently ranked Featured Artist song, a list of **400** beatmaps would be a bit insane.
 

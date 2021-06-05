@@ -24,7 +24,7 @@ tags:
 - Score Multiplier: 1.00x
 - Default shortcut key: `V`
 - Caption: `Watch a perfect automated play through the song.`<!-- yes, that is written correctly -->
-- Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
@@ -34,9 +34,9 @@ The **Auto** mod is a [game modifier](/wiki/Game_modifier) that allows players t
 
 The mod functions exactly like a [replay](/wiki/Replay), with the options for 0.5x/1.0x/2.0x speed playback to be used and comments on the beatmap to be seen and made like normal. The Auto mod will always get an SS grade, with the exception of a few special cases.
 
-### osu!standard
+### osu!
 
-In [osu!standard](/wiki/Game_mode/osu!), when encountered with a spinner, the Auto mod will spin to a maximum of 477 spins per minute (SPM) in a anticlockwise rotation.
+In [osu!](/wiki/Game_mode/osu!), when encountered with a spinner, the Auto mod will spin to a maximum of 477 spins per minute (SPM) in a anticlockwise rotation.
 
 ### osu!taiko
 
@@ -55,7 +55,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the Auto mod will attempt a perfect p
 - When watching an Auto replay, the username displayed in the leaderboard will be "osu!."
 - After watching an Auto replay, the mod will deselect itself and the user will be forced to reselect the mod if they wish to watch the replay again. This will happen whether or not the replay is watched all the way through.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

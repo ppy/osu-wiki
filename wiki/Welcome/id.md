@@ -1,6 +1,6 @@
 # Selamat Datang
 
-Selamat datang di osu!, game ritme free-to-win terbaik yang dikembangkan oleh peppy dengan empat mode permainan yang dapat kamu nikmati di dalamnya: osu!standard, bagi para pemain yang ingin bermain dengan lingkaran; osu!taiko, bagi para pemain yang ingin menabuh drum; osu!catch, bagi para pemain yang ingin menangkap buah; dan osu!mania, bagi para pemain yang ingin menekan tuts-tuts keyboard mengikuti irama lagu.
+Selamat datang di osu!, game ritme free-to-win terbaik yang dikembangkan oleh peppy dengan empat mode permainan yang dapat kamu nikmati di dalamnya: osu!, bagi para pemain yang ingin bermain dengan lingkaran; osu!taiko, bagi para pemain yang ingin menabuh drum; osu!catch, bagi para pemain yang ingin menangkap buah; dan osu!mania, bagi para pemain yang ingin menekan tuts-tuts keyboard mengikuti irama lagu.
 
 ## Artikel-artikel yang umum dikunjungi
 
@@ -9,13 +9,13 @@ Selamat datang di osu!, game ritme free-to-win terbaik yang dikembangkan oleh pe
 - [Peraturan](/wiki/Rules)
 - [Pertanyaan Yang Sering Diajukan (FAQ)](/wiki/FAQ)
 - [Mode Permainan](/wiki/Game_mode)
-  - ![Ikon osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![Ikon osu!](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![Ikon osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![Ikon osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![Ikon osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Multi](/wiki/Multi)
 - [Ranking Criteria](/wiki/Ranking_Criteria)
-  - ![Ikon osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![Ikon osu!](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![Ikon osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![Ikon osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![Ikon osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
@@ -44,4 +44,4 @@ Skinning merupakan proses yang memungkinkan siapapun untuk dapat merombak tampil
 
 Terhitung mulai tanggal 26 Agustus 2016, seluruh konten yang terdapat pada osu! wiki telah dipindahkan ke dalam repositori GitHub yang dapat diakses secara publik. Para pengguna yang tertarik untuk memberikan kontribusi mereka dapat membuka *pull request* baru pada [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) untuk kemudian ditinjau dan disetujui sebelum diimplementasikan ke dalam osu! wiki.
 
-Untuk informasi lebih lanjut, harap kunjungi [Panduan Kontribusi osu! wiki](/wiki/owcg).
+Untuk informasi lebih lanjut, harap kunjungi [Panduan Kontribusi osu! wiki](/wiki/osu!_wiki_Contribution_Guide).

@@ -6,7 +6,7 @@ tags:
 
 # Mod for mod
 
-**Mod for mod** (also known as *M4M*) is a term that describes a trade between two or more creators. It requires each creator to [mod](/wiki/Modding) the other's [beatmap](/wiki/Beatmaps).
+**Mod for mod** (also known as *M4M*) is a term that describes a trade between two or more creators. It requires each creator to [mod](/wiki/Modding) the other's [beatmap](/wiki/Beatmap).
 
 This term is usually found on the [forums](https://osu.ppy.sh/community/forums/60) where users review each other's maps, but may also be found on user profiles and external sites.
 

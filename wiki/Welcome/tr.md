@@ -1,6 +1,6 @@
 # Hoş Geldiniz
 
-peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması ücretsiz bir ritim oyunu olan osu!'ya hoş geldiniz: osu!standard, daire tıklama simülatörü; osu!taiko, davul çalma emülatörü; osu!catch, meyve salatası yakalamaca; ve osu!mania, klavye dövme sentezleyicisi.
+peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması ücretsiz bir ritim oyunu olan osu!'ya hoş geldiniz: osu!, daire tıklama simülatörü; osu!taiko, davul çalma emülatörü; osu!catch, meyve salatası yakalamaca; ve osu!mania, klavye dövme sentezleyicisi.
 
 ## Sıkça merak edilenler
 
@@ -9,13 +9,13 @@ peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması 
 - [Kurallar](/wiki/Rules)
 - [SSS](/wiki/FAQ)
 - [Oyun modları](/wiki/Game_mode)
-  - ![osu!standard ikonu](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![osu! ikonu](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![osu!taiko ikonu](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch ikonu](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![osu!mania ikonu](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Çoklu](/wiki/Multi)
 - [Derecelendirme Kriterleri](/wiki/Ranking_Criteria)
-  - ![osu!standard ikonu](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu! ikonu](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![osu!taiko ikonu](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![osu!catch ikonu](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![osu!mania ikonu](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
@@ -24,7 +24,7 @@ peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması 
 
 *Ana sayfa: [Beatmap yapımı](/wiki/Beatmapping).*
 
-Beatmap yapımı bir yaratıcının bir şarkıyı beatmap'e dönüştürmesi sürecinin tamamını kapsayan terimdir. Bu süreç şarkı seçimi, zamanlama, obje yerleştirme ve test etme gibi şeyleri kapsar. Bunların yanı sıra video eklemek, [storyboard](/wiki/storyboarding/#getting-started) hazırlamak ve/veya [özel tema](/wiki/skinning/#getting-started) yaratmak gibi şeyleri de kapsayabilir. Bütün bunlar tek bir kişi ya da birden fazla kullanıcı tarafından yapılabilir. Bazen bu kullanıcılara yaptıkları işe göre "storyboarder/storyboardcu", "skinner/temacı" veya "guest creator/misafir yaratıcılar" da denir.
+Beatmap yapımı bir yaratıcının bir şarkıyı beatmap'e dönüştürmesi sürecinin tamamını kapsayan terimdir. Bu süreç şarkı seçimi, zamanlama, obje yerleştirme ve test etme gibi şeyleri kapsar. Bunların yanı sıra video eklemek, [storyboard](/wiki/Storyboarding#getting-started) hazırlamak ve/veya [özel tema](/wiki/Skinning#getting-started) yaratmak gibi şeyleri de kapsayabilir. Bütün bunlar tek bir kişi ya da birden fazla kullanıcı tarafından yapılabilir. Bazen bu kullanıcılara yaptıkları işe göre "storyboarder/storyboardcu", "skinner/temacı" veya "guest creator/misafir yaratıcılar" da denir.
 
 ## Modlama
 
@@ -44,4 +44,4 @@ Tema oluşturma sayesinde ortaya çıkan temalar herkesin osu!'nun görünüşü
 
 2016-08-26 tarihinden beri, osu! wiki bir GitHub veri havuzunda barınıyor. Bu değişiklikten sonra, wiki için iş akışı kökten değişti. Bütün katkılar artık [osu-wiki GitHub veri havuzundan](https://github.com/ppy/osu-wiki) geçiyor ve orada kontrol edildikten sonra gerçek siteye ekleniyor.
 
-Başlamak için, [osu! wiki Katkı Rehberi](/wiki/owcg) sayfasına bakınız.
+Başlamak için, [osu! wiki Katkı Rehberi](/wiki/osu!_wiki_Contribution_Guide) sayfasına bakınız.

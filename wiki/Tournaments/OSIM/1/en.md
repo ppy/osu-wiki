@@ -7,7 +7,7 @@ tags:
 
 ![OSIM logo](img/logo.jpg)
 
-The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-elimination 2v2 osu!standard tournament hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), and ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531). The tournament was open to all players from Singapore, Indonesia, and Malaysia regardless of rank. It was the first iteration of the tournament series.
+The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-elimination 2v2 osu! tournament hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), and ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531). The tournament was open to all players from Singapore, Indonesia, and Malaysia regardless of rank. It was the first iteration of the tournament series.
 
 ## Tournament schedule
 
@@ -415,12 +415,12 @@ Sunday, 19 April 2020:
 
 | Placement | Seed | Player | Qualifier points |
 | --: | --: | :-- | --: |
-| #1 | A | ![][flag_ID] [Skydiver](https://osu.ppy.sh/u/4750008) | 9.081 |
+| #1 | A | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 9.081 |
 | #2 | A | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) | 8.745 |
 | #3 | A | ![][flag_MY] [ShaneLiang](https://osu.ppy.sh/users/6716499) | 8.453 |
 | #4 | A | ![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281) | 8.43 |
 | #5 | A | ![][flag_SG] [\[-Lockon-\]](https://osu.ppy.sh/users/6726331) | 8.289 |
-| #6 | A | ![][flag_ID] [Rexeez](https://osu.ppy.sh/u/1987591) | 8.047 |
+| #6 | A | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | 8.047 |
 | #7 | A | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 8.04 |
 | #8 | A | ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) | 7.681 |
 | #9 | A | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | 7.676 |
