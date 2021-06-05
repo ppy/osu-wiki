@@ -42,8 +42,9 @@ This song pack features two songs of different variety by haru☆ and Garbled Wa
 | Garbled Waves - Apatisk | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![6/10](img/dif6.png "6/10") |
 
 See also:
-  - [haru☆'s website](https://haru.ocv.me/)
-  - [Garbled Waves' Bandcamp page](https://garbledwaves.bandcamp.com)
+
+- [haru☆'s website](https://haru.ocv.me/)
+- [Garbled Waves' Bandcamp page](https://garbledwaves.bandcamp.com)
 
 ## Free Pack 1.5
 
@@ -71,8 +72,9 @@ This song pack features two songs of different variety by Bomb Boy and daniwellP
 | daniwellP - Nekomimi Switch | Team STREAM (![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) and ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269)) | ![7/10](img/dif7.png "7/10") |
 
 See also:
-  - [Bomb Boy's Twitter account](https://twitter.com/BomuBoi)
-  - [daniwellP's website](https://aidn.jp/)
+
+- [Bomb Boy's Twitter account](https://twitter.com/BomuBoi)
+- [daniwellP's website](https://aidn.jp/)
 
 ## Cranky Pack Vol. 1
 
