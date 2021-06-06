@@ -29,7 +29,7 @@ Si ce n'est pas le cas, félicitations, vous avez un magnifique slider.
 Montrez-le à vos amis.
 Si c'est le cas, déplacez le point supérieur jusqu'à ce que ce soit le cas.
 
-Si vous voulez un arc à un angle, il est généralement plus facile de le faire droit comme ci-dessus, puis `Editer`, puis `Rotate By...` pour lui donner l'angle que vous voulez.
+Si vous voulez un arc à un angle, il est généralement plus facile de le faire droit comme ci-dessus, puis `Éditer`, puis `Rotate By...` pour lui donner l'angle que vous voulez.
 
 ## Vagues
 
@@ -51,7 +51,7 @@ Désactivez le grid snap et déplacez-les tous les deux vers l'intérieur, un to
 
 Les blankets sont plus faciles à faire si vous regardez d'abord le slider pour qu'il soit à peu près correct, puis faites défiler jusqu'à un point de la timeline où l'approach circle du battement s'aligne avec le bord le plus proche du point de départ du slider.
 Il peut être utile d'aller au 1/8e de la courbe pour l'ajuster au mieux.
-Il suffit ensuite d'ajuster les points jusqu'à ce que l'ensemble du slider s'aligne sur l'apporach circle aussi parfaitement que possible.
+Il suffit ensuite d'ajuster les points jusqu'à ce que l'ensemble du slider s'aligne sur l'approach circle aussi parfaitement que possible.
 
 Gardez à l'esprit que si vous voulez qu'un slider couvre **et** soit parfaitement symétrique, préoccupez-vous d'abord de la symétrie puis ajustez les points symétriquement pour améliorer le blanket.
 
