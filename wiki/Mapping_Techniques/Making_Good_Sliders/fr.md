@@ -4,9 +4,11 @@ Cet article est un mode d'emploi pour réaliser de bons sliders.
 Dans la forme la plus basique, tout ce dont vous avez besoin est d'une [courbe de Bézier](https://fr.wikipedia.org/wiki/Courbe_de_B%C3%A9zier).
 
 De [Ephemeral](https://osu.ppy.sh/users/102335),
+
 > alignez toujours les slider endpoints sur la plus petite valeur possible - c'est-à-dire que si vous les faites glisser plus loin vers l'arrière, le slider se raccourcira. le point se centrera sur l'extrémité du slider et rendra l'obtention de courbes passables beaucoup plus facile à réaliser.
-  De plus, en faisant cela, la sélection inverse sur les sliders ne les "fout" pas en l'air.
-  Ce qui est une bonne chose.
+
+De plus, en faisant cela, la sélection inverse sur les sliders ne les "fout" pas en l'air.
+Ce qui est une bonne chose.
 
 ## Arcs
 
@@ -56,6 +58,7 @@ Gardez à l'esprit que si vous voulez qu'un slider couvre **et** soit parfaiteme
 ---
 
 De [Gonzvlo](https://osu.ppy.sh/users/237733),
+
 > comme une variation des beat blankets, parfois j'utilise un spinner pour faire de beaux cercles.
 
 ![Exemple d'image de beat blankets (avec un spinner)](img/MGS_blankets2.png)
@@ -184,6 +187,7 @@ Un slider plus facile à dire qu'à faire.
 ![Exemple d'image d'une boucle](img/MGS_loops.png)
 
 Ce qu'il faut retenir en formant des boucles, c'est que les points montent beaucoup plus haut que la boucle :
+
 - Plus chaque point est éloigné des extrémités, plus il doit être éloigné du slider.
 
 Le plus gros problème que nous pouvons remarquer avec les boucles des mappeurs, ce sont les trous.
