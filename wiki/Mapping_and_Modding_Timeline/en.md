@@ -275,7 +275,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### September
 
 - **2016-09-30:** The [Community Mentorship Program](/wiki/Community_Mentorship_Program) re-launched after a long hiatus.
-  - Its new structure was centered around [Discord](https://discord.com/brand-new) communication and seasonal cycles.
+  - Its new structure was centered around [Discord](https://discord.com/) communication and seasonal cycles.
   - The program was led by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
 ### October

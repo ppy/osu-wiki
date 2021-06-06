@@ -273,7 +273,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 ### Septembre
 
 - **30/09/2016 :** Le [Community Mentorship Program](/wiki/Community_Mentorship_Program) a été relancé après une longue interruption.
-  - Sa nouvelle structure était centrée sur la communication par [Discord](https://discord.com/brand-new) et les cycles saisonniers.
+  - Sa nouvelle structure était centrée sur la communication par [Discord](https://discord.com/) et les cycles saisonniers.
   - Le programme était dirigé par ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) et ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923)
 
 ### Octobre
