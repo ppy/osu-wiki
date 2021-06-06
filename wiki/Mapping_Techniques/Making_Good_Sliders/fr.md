@@ -29,7 +29,7 @@ Si ce n'est pas le cas, félicitations, vous avez un magnifique slider.
 Montrez-le à vos amis.
 Si c'est le cas, déplacez le point supérieur jusqu'à ce que ce soit le cas.
 
-Si vous voulez un arc à un angle, il est généralement plus facile de le faire droit comme ci-dessus, puis `Éditer`, puis `Rotate By...` pour lui donner l'angle que vous voulez.
+Si vous voulez un arc à un angle, il est généralement plus facile de le faire droit comme ci-dessus, puis `Éditer`, puis `Rotation personnalisée...` pour lui donner l'angle que vous voulez.
 
 ## Vagues
 
