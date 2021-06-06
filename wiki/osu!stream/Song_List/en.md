@@ -4,9 +4,9 @@
 
 osu!stream features up to 45 playable songs spread across various bundles and song packs. As of [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release), all songs are available to be downloaded and played free of charge.
 
-At the Store menu, you can scroll through the list of all available song packs and preview the beatmaps inside before downloading. Upon selecting the `PREVIEW` button, you'll be able to see a short preview demo of all the four difficulties in a beatmap from the easiest difficulty to the highest [in their corresponding stream order](wiki/osu!stream#new-game-play-system).
+At the Store menu, you can scroll through the list of all available song packs and preview the beatmaps inside before downloading. Upon selecting the `PREVIEW` button, you'll be able to see a short gameplay demo of all the four difficulties in a beatmap from the easiest difficulty to the highest [in their corresponding stream order](wiki/osu!stream#new-game-play-system).
 
-Just like the [featured artists](wiki/en/Featured_Artists) that osu! have nowadays, all songs available in the game are either commissioned or licensed ahead of their release. It is worth noting that osu!stream beatmaps come in the `.osf2` file format (instead of [`.osz`](/wiki/osu%21_File_Formats/Osz_%28file_format%29)) and are therefore not compatible with the regular osu! cilent.
+Just like the [featured artists](wiki/en/Featured_Artists) osu! has nowadays, all songs available in the game are either commissioned or licensed ahead of their release. It is worth noting that osu!stream beatmaps come in the `.osf2` file format (instead of [`.osz`](/wiki/osu%21_File_Formats/Osz_%28file_format%29)) and are therefore not compatible with the regular osu! client.
 
 ## Bundled songs
 
@@ -50,7 +50,7 @@ See also:
 
 Price: **Free**
 
-This song pack features the song Want You Gone by Jonathan Coulton (under the Aperture Science alias) as made famous by the video game [Portal 2](http://thinkwithportals.com/).
+This song pack features the song Want You Gone by Jonathan Coulton (under the Aperture Science alias) as made famous by the video game [Portal 2](https://www.thinkwithportals.com/).
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -103,8 +103,8 @@ This song pack features four songs by American rock band OK Go.
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
 | OK Go - All Is Not Lost | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![5/10](img/dif5.png "5/10") |
-| OK Go - End Love | !![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![3/10](img/dif3.png "3/10") |
-| OK Go - This Too Shall Pass | !![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | ![7/10](img/dif7.png "7/10") |
+| OK Go - End Love | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![3/10](img/dif3.png "3/10") |
+| OK Go - This Too Shall Pass | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | ![7/10](img/dif7.png "7/10") |
 | OK Go - WTF | Team STREAM (![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) and ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | ![6/10](img/dif6.png "6/10") |
 
 See also:
@@ -204,7 +204,7 @@ Price: **Free** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/pos
 
 This song pack features four songs/arrangements of original Touhou Project compositions by various musicians from across the world. 
 
-Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as a paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). This song pack has consequently been re-released as a free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
+Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). This song pack has consequently been re-released as free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -225,7 +225,7 @@ Price: **Free** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/pos
 
 This song pack features four songs/arrangements of original Touhou Project compositions by various musicians from across the world. 
 
-Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as a paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). This song pack has consequently been re-released as a free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
+Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). This song pack has consequently been re-released as free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
