@@ -2,13 +2,13 @@
 
 ![](img/osu!talk.jpg "logo osu!talk")
 
-**osu!talk** adalah sebuah serial *podcast* yang diselenggarakan oleh [ztrot](https://osu.ppy.sh/users/6347), bersama dengan [deadbeat](https://osu.ppy.sh/users/128370) yang berperan sebagai *co-host*. Serial ini berfokus pada pewawancaraan pengguna-pengguna dari komunitas osu!. Selain itu, terkadang juga terdapat diskusi grup mengenai berbagai hal yang sedang terjadi di sekitar komunitas, seperti perubahan yang terjadi pada tim osu!, atau isu-isu yang berkepanjangan yang sering dibahas seperti isu mengenai overmapping.
+**osu!talk** adalah sebuah seri *podcast* yang diselenggarakan oleh [ztrot](https://osu.ppy.sh/users/6347), bersama dengan [deadbeat](https://osu.ppy.sh/users/128370) yang berperan sebagai *co-host*. Seri ini berfokus pada pewawancaraan pengguna-pengguna dari komunitas osu!. Selain itu, terkadang terdapat diskusi grup mengenai berbagai hal yang sedang terjadi di sekitar komunitas, seperti perubahan yang terjadi pada tim osu! atau isu-isu berkepanjangan yang sering dibahas seperti overmapping.
 
-Serial *podcast* ini telah diatur sehingga siapa pun dapat dengan bebas masuk ke dalam sesi siaran langsung dan mengajukan pertanyaan-pertanyaan selama sesi [tanya jawab](https://en.wikipedia.org/wiki/Q&A) publik berlangsung pada episode tersebut. Seluruh seri ini tidak disiarkan secara langsung di mana pun karena kami lebih senang mendorong para pengguna untuk bergabung dan mengikut serta.
+Seri *podcast* ini telah diatur sehingga siapa pun dapat dengan bebas masuk ke dalam sesi siaran langsung dan mengajukan pertanyaan-pertanyaan selama sesi [tanya jawab](https://en.wikipedia.org/wiki/Q&A) publik berlangsung pada episode tersebut. Seluruh seri ini tidak disiarkan secara langsung di mana pun karena kami lebih senang mendorong para pengguna untuk bergabung dan ikut serta.
 
 ## Episode
 
-| EP No. | Narasumber | Profesi | Tautan |
+| No. EP | Narasumber | Profesi | Tautan |
 | :-- | :-- | :-- | :-- |
 | 1 | [Charles445](https://osu.ppy.sh/users/85000) | GMT/BN | [Tautan](https://www.youtube.com/watch?v=e8lhBtcPbjw) |
 | 2 | [MMzz](https://osu.ppy.sh/users/128993) | QAT | [Tautan](https://www.youtube.com/watch?v=fBBQ4bwNZcY) |
@@ -64,7 +64,7 @@ Serial *podcast* ini telah diatur sehingga siapa pun dapat dengan bebas masuk ke
 
 ## Diskusi
 
-| EP No. | Topik | Narasumber | Tautan |
+| No. EP | Topik | Narasumber | Tautan |
 | :-- | :-- | :-- | :-- |
 | 1 | Pengerjaan Ulang Staf | [Charles445](https://osu.ppy.sh/users/85000), [Ephemeral](https://osu.ppy.sh/users/102335), dan [OnosakiHito](https://osu.ppy.sh/users/290128) | [Tautan](https://www.youtube.com/watch?v=c10Jiq1xZus) |
 | 2 | Overmapping | [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Loctav](https://osu.ppy.sh/users/71366), [MMzz](https://osu.ppy.sh/users/128993), dan [OnosakiHito](https://osu.ppy.sh/users/290128) | [Tautan](https://www.youtube.com/watch?v=RepSYE3hN3A) |
@@ -95,7 +95,7 @@ Serial *podcast* ini telah diatur sehingga siapa pun dapat dengan bebas masuk ke
 
 ## Spesial
 
-| EP No. | Topik | Narasumber | Tautan |
+| No. EP | Topik | Narasumber | Tautan |
 | :-- | :-- | :-- | :-- |
 | 1 | Silakan Tanya Saya Apapun | *N/A* | [Tautan](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
 | 2 | Silakan Tanya Saya Apapun 2015 | [Charles445](https://osu.ppy.sh/users/85000), [Flanster](https://osu.ppy.sh/users/447818), dan [p3n](https://osu.ppy.sh/users/123703) | [Tautan](https://www.youtube.com/watch?v=a9An8cD18Co) |
