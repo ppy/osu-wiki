@@ -206,7 +206,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | Jerman |
-| ![][flag_US] [Secre]([Secre](https://osu.ppy.sh/users/2306637)) |  |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania

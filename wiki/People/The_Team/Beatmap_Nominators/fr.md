@@ -207,7 +207,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thaïlandais |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | Allemand |
-| ![][flag_US] [Secre]([Secre](https://osu.ppy.sh/users/2306637)) |  |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania

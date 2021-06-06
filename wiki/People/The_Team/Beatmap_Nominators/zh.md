@@ -203,7 +203,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | 泰语 |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | 德语 |
-| ![][flag_US] [Secre]([Secre](https://osu.ppy.sh/users/2306637)) |  |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania

@@ -206,7 +206,7 @@ tags:
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Тайский |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | Немецкий |
-| ![][flag_US] [Secre]([Secre](https://osu.ppy.sh/users/2306637)) |  |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania

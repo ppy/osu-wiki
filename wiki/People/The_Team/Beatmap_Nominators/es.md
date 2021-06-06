@@ -207,7 +207,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Tailandés |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | Alemán |
-| ![][flag_US] [Secre]([Secre](https://osu.ppy.sh/users/2306637)) |  |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
