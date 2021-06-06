@@ -94,6 +94,6 @@ You could map a stream to each one of those instances, making for a map with fre
 In osu!, it's recommended to only put streams where it corresponds to instruments in the music.
 Doing otherwise is often called *[overmapping](/wiki/Beatmapping/Overmapping)*.
 Now, one can most certainly put streams where it doesn't go to anything, but it's not recommended, especially when you're a new mapper.
-On the other hand, Taiko maps will creates a new pattern fitting the music (this is exceptional because the drums usually holds the beat).
-So generally more streams are found in Taiko maps.
+On the other hand, osu!taiko maps will creates a new pattern fitting the music (this is exceptional because the drums usually holds the beat).
+So generally more streams are found in osu!taiko maps.
 However, abusing the streams is never recommended.

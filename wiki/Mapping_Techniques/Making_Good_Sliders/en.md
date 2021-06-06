@@ -43,7 +43,7 @@ Disable grid snap and move them both in by a tiny bit at a time until the slider
 
 ## Beat Blankets
 
-*Main page: [Blanket Combos](/wiki/Mapping_Techniques/Formations/#blanket-combos)*
+*Main page: [Blanket Combos](/wiki/Mapping_Techniques/Formations#blanket-combos)*
 
 ![Image example of beat blankets (with hit circle)](img/MGS_blankets.png)
 
@@ -161,7 +161,7 @@ Start and end pointing different ways.
 
 ![Image example of wiggles (type 2)](img/MGS_wiggles2.png)
 
-Similarly to [type 1](#type-1), each arc is made up of four points, but in my experience it helps if they're kinda twisted round, like in the image above.
+Similarly to [type 1](#type-1), each arc is made up of four points, but according to experienced mappers, it helps if they're kinda twisted round, like in the image above.
 These are rotationally symmetrical, like waves, so use `Ctrl` + `H` + `J` to check points.
 
 ### Type 3
@@ -186,7 +186,7 @@ An easier said than done kind of slider.
 The things to remember when forming loops is that the points go up a lot further than the loop does:
 - The further each point is from the ends, the further away it needs to be from the slider.
 
-The biggest issue I see with people's loops are the hole.
+The biggest problem we can see with mapper loops are the holes.
 You're looking for an open, rounded teardrop shape like the above slider.
 If the hole of the loop looks like any of these, your loop isn't as awesome as the above screenshot:
 
