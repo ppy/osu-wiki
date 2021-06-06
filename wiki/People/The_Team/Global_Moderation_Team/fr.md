@@ -56,7 +56,7 @@ La [page du groupe de l'équipe de modération globale](https://osu.ppy.sh/group
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Équipe de présence officiel |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modérateur du tchat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestionnaire des tournois |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français, une certaine <langue> | Modérateur du tchat, modérateur du forum |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français, une certaine Espagnol | Modérateur du tchat, modérateur du forum |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugais | Modérateur du tchat |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, Chinois | Modérateur du tchat |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Coréen, Japonais | Modérateur du tchat |

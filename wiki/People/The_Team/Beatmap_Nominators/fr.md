@@ -66,7 +66,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinois |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chinois |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonésien |
-| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinois, une certaine <langue> |
+| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinois, une certaine Français |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Chinois |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Espagnol |
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | Français, Allemand |
@@ -116,15 +116,15 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
-| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, une certaine <langue> |
+| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, une certaine Arabe |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Allemand |
-| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Une certaine <langue> |
+| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Une certaine Japonais |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinois, Cantonais |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Espagnol |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Philippin |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Espagnol |
-| ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Une certaine <langue>, une certaine <langue> |
-| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Arabe, Français, une certaine <langue> |
+| ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Une certaine Japonais, une certaine Allemand |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Arabe, Français, une certaine Italien |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Néerlandais |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandais, Japonais |
@@ -135,7 +135,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Français |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Allemand, Serbe |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Allemand, une certaine <langue> |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Allemand, une certaine Français |
 
 #### osu!catch
 

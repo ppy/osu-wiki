@@ -50,7 +50,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Évaluation, modération |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Évaluation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, Chinois | Évaluation |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, une certaine <langue> | Évaluation, structurelle, modération, communication |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, une certaine Arabe | Évaluation, structurelle, modération, communication |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Évaluation |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Structurelle, communication |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Évaluation, structurelle, communication |

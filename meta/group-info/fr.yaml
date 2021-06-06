@@ -27,7 +27,7 @@ nat:
     moderation: modération
     structural: structurelle
 languages:
-  partial: une certaine <langue>
+  partial: une certaine <language>
   ar: Arabe
   bg: Bulgare
   bn: Bengali
