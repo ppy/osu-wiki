@@ -74,7 +74,7 @@ osu!にログインしている各ユーザーは、拡張チャットにユー�
 
 | コマンド | 効果 | 例 | BanchoBotの応答 |
 | :-- | :-- | :-- | :-- |
-| `/addfriend [user]` | フレンドリストに`[user]`を追加します。| `/addfriend Amigo` | You are now friends with Amigo. |
+| `/addfriend [user]` | フレンドリストに`[user]`を追加します。 | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [user]` | フレンドリストから`[user]`を削除します。 | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [message]` | アウェイメッセージを設定します(自分にPMを送っているユーザーに送信されます)。キャンセルする場合は、メッセージを空白にします。 | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith. |
 | `/bb` | Banchoにメッセージを送り、`!stats [user]`のようなコマンドを実行させる。 | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
