@@ -105,7 +105,7 @@ This song pack features four songs by American rock band OK Go.
 | OK Go - All Is Not Lost | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![5/10](img/dif5.png "5/10") |
 | OK Go - End Love | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![3/10](img/dif3.png "3/10") |
 | OK Go - This Too Shall Pass | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | ![7/10](img/dif7.png "7/10") |
-| OK Go - WTF | Team STREAM (![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) and ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | ![6/10](img/dif6.png "6/10") |
+| OK Go - WTF | Team STREAM (![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) and ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)) | ![6/10](img/dif6.png "6/10") |
 
 See also:
 
