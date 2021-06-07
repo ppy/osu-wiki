@@ -207,35 +207,70 @@
 
 ## 5月
 
-### ビートマップノミネーター
-
 - 2021-05-13: [Mao](https://osu.ppy.sh/users/2204515)を**NAT**から**osu! Alumni**へ
+- 2021-05-23: [Unpredictable](https://osu.ppy.sh/users/7560872)を**NAT**に追加
+
+### ビートマップノミネーター
 
 #### 追加
 
 - 2021-05-04: [CallieCube](https://osu.ppy.sh/users/7535045)を**Probationary BN**に追加
 - 2021-05-06: [CallMeLyra](https://osu.ppy.sh/users/15272997)を**Probationary BN**に追加
 - 2021-05-13: [Logic Agent](https://osu.ppy.sh/users/6341262)を**Probationary BN**に追加
+- 2021-05-17: [Secre](https://osu.ppy.sh/users/2306637)を**Probationary BN**に追加
+- 2021-05-17: [Du5t](https://osu.ppy.sh/users/6053071)を**Probationary BN**に追加
+- 2021-05-18: [Yahuri](https://osu.ppy.sh/users/4682629)を**Probationary BN**に追加
+- 2021-05-26: [tomatas95](https://osu.ppy.sh/users/11403815)を**Probationary BN**に追加
+- 2021-05-26: [Iceluin](https://osu.ppy.sh/users/3558897)を**Probationary BN**に追加
+- 2021-05-26: [Gabdu09](https://osu.ppy.sh/users/8852605)を**Probationary BN**に追加
+- 2021-05-26: [Dada](https://osu.ppy.sh/users/9119507)を**Probationary BN**に追加
+- 2021-05-26: [Akayume](https://osu.ppy.sh/users/10617530)を**Probationary BN**に追加
+- 2021-05-26: [Aakki](https://osu.ppy.sh/users/11077540)を**Probationary BN**に追加
+- 2021-05-27: [Nao Tomori](https://osu.ppy.sh/users/5364763)を**Probationary BN**に追加
 
 #### 移動
 
-- 2021-04-01: [Horiiizon](https://osu.ppy.sh/users/8071438)を**Probationary BN**から**BN**へ
-- 2021-04-01: [gevbiivi5](https://osu.ppy.sh/users/7140680)を**Probationary BN**から**BN**へ
-- 2021-04-01: [VINXIS](https://osu.ppy.sh/users/4323406)を**Probationary BN**から**BN**へ
-- 2021-04-01: [AJT](https://osu.ppy.sh/users/3181083)を**Probationary BN**から**BN**へ
-- 2021-04-11: [Xahlt](https://osu.ppy.sh/users/13466351)を**Probationary BN**から**BN**へ
-- 2021-04-11: [rosario wknd](https://osu.ppy.sh/users/6341518)を**Probationary BN**から**BN**へ
-- 2021-04-15: [Kudosu](https://osu.ppy.sh/users/11038155)を**Probationary BN**から**BN**へ
-- 2021-04-15: [Default Guy](https://osu.ppy.sh/users/7058457)を**BN**から**Probationary BN**へ
-- 2021-04-15: [davidminh0111](https://osu.ppy.sh/users/9623142)を**BN**から**Probationary BN**へ
-- 2021-04-16: [Komirin](https://osu.ppy.sh/users/4725379)を**Probationary BN**から**BN**へ
-- 2021-04-16: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608)を**Probationary BN**から**BN**へ
+- 2021-05-01: [Horiiizon](https://osu.ppy.sh/users/8071438)を**Probationary BN**から**BN**へ
+- 2021-05-01: [gevbiivi5](https://osu.ppy.sh/users/7140680)を**Probationary BN**から**BN**へ
+- 2021-05-01: [VINXIS](https://osu.ppy.sh/users/4323406)を**Probationary BN**から**BN**へ
+- 2021-05-01: [AJT](https://osu.ppy.sh/users/3181083)を**Probationary BN**から**BN**へ
+- 2021-05-11: [Xahlt](https://osu.ppy.sh/users/13466351)を**Probationary BN**から**BN**へ
+- 2021-05-11: [rosario wknd](https://osu.ppy.sh/users/6341518)を**Probationary BN**から**BN**へ
+- 2021-05-15: [Kudosu](https://osu.ppy.sh/users/11038155)を**Probationary BN**から**BN**へ
+- 2021-05-15: [Default Guy](https://osu.ppy.sh/users/7058457)を**BN**から**Probationary BN**へ
+- 2021-05-15: [davidminh0111](https://osu.ppy.sh/users/9623142)を**BN**から**Probationary BN**へ
+- 2021-05-16: [Komirin](https://osu.ppy.sh/users/4725379)を**Probationary BN**から**BN**へ
+- 2021-05-16: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608)を**Probationary BN**から**BN**へ
+- 2021-05-18: [Sylas](https://osu.ppy.sh/users/3906405)を**Probationary BN**から**BN**へ
+- 2021-05-18: [Okoratu](https://osu.ppy.sh/users/1623405)を**Probationary BN**から**BN**へ
+- 2021-05-29: [Souvenir](https://osu.ppy.sh/users/14057792)を**Probationary BN**から**BN**へ
 
 #### 削除
 
-- 2021-04-09: [Ulqui](https://osu.ppy.sh/users/1263669)を**BN**から削除
-- 2021-04-16: [Crissa](https://osu.ppy.sh/users/5405836)を**Probationary BN**から削除
-- 2021-04-16: [skylaa](https://osu.ppy.sh/users/9505704)を**BN**から削除
-- 2021-04-17: [Maridius](https://osu.ppy.sh/users/4496961)を**BN**から削除
+- 2021-05-09: [Ulqui](https://osu.ppy.sh/users/1263669)を**BN**から削除
+- 2021-05-16: [Crissa](https://osu.ppy.sh/users/5405836)を**Probationary BN**から削除
+- 2021-05-16: [skylaa](https://osu.ppy.sh/users/9505704)を**BN**から削除
+- 2021-05-17: [Maridius](https://osu.ppy.sh/users/4496961)を**BN**から削除
+- 2021-05-18: [Astronic](https://osu.ppy.sh/users/9320502)を**Probationary BN**から削除
+- 2021-05-22: [Butylcyclobutyn](https://osu.ppy.sh/users/10959501)を**BN**から削除
+- 2021-05-23: [Unpredictable](https://osu.ppy.sh/users/7560872)を**BN**から削除
+- 2021-05-23: [-Aku](https://osu.ppy.sh/users/12315824)を**Probationary BN**から削除
+- 2021-05-30: [Amiichii](https://osu.ppy.sh/users/9228569)を**BN**から削除
+
+## 6月
+
+- 2021-06-06: [Deif](https://osu.ppy.sh/users/318565)を**GMT**から削除
+- 2021-06-06: [WalterToro](https://osu.ppy.sh/users/5281416)を**GMT**から**osu! Alumni**へ
+
+### ビートマップノミネーター
+
+#### 移動
+
+- 2021-06-05: [My Angel RangE](https://osu.ppy.sh/users/6336713)を**Probationary BN**から**BN**へ
+
+#### 削除
+
+- 2021-06-02: [Teky](https://osu.ppy.sh/users/10520912)を**BN**から削除
+- 2021-06-02: [Hobbes2](https://osu.ppy.sh/users/8157492)を**BN**から削除
 
 <!-- last update: 2021-05-17 16:00 UTC removed maridius from bn -->
