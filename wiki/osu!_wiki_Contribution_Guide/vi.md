@@ -44,7 +44,7 @@ Nếu bạn thắc mắc hay cần giúp đỡ ở bất cứ phần nào, hãy 
 
 3. Đây không phải vấn đề quá to tát, **_nếu_** bạn không sửa đổi các tệp đã bị sửa bời người khác.
 
-4. Để xử lý vấn đề này, xem phần [Branch của tôi bị lỗi thời!](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#branch-của-tôi-bị-lỗi-thời!) trong trang Các vấn đề hay gặp.
+4. Để xử lý vấn đề này, xem phần [Branch của tôi bị lỗi thời!](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#branch-của-tôi-đã-lỗi-thời!) trong trang Các vấn đề hay gặp.
 
 5. Sau khi hoàn thành bước 4, tiến tới [Sửa trực tuyến hoặc cục bộ](#sửa-trực-tuyến-hoặc-cục-bộ).
 
@@ -52,8 +52,8 @@ Nếu bạn thắc mắc hay cần giúp đỡ ở bất cứ phần nào, hãy 
 
 Vào lúc này, bạn có hai lựa chọn:
 
-- [Giao diện Web GitHub](/wiki/osu!_wiki_Contribution_Guide/GitHub_Web_Interface) - sửa trực tuyến; đây là lựa chọn tốt nhất khi bạn chỉ sửa một trang văn bản.
-- [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop) - sửa cục bộ; đây là lựa chọn tốt nhất để sửa một và/hoặc nhiều trang văn bản (bao gồm đăng tải, xoá, và di chuyển ảnh cũng như các tệp khác).
+- [Giao diện Web GitHub](/wiki/osu!_wiki_Contribution_Guide/GitHub_Web_Interface) - sửa trực tuyến; đây là lựa chọn tốt nhất khi bạn chỉ sửa một bài viết.
+- [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop) - sửa cục bộ; đây là lựa chọn tốt nhất để sửa một và/hoặc nhiều bài viết (bao gồm đăng tải, xoá, và di chuyển ảnh cũng như các tệp khác).
 
 *Chú ý: Bạn không bị giới hạn chỉ ở hai lựa chọn trên. Để giữ hướng dẫn này ngắn gọn và đơn giản, chúng tôi sẽ không đi sâu, hoặc không đề cập đến cách sử dụng các công cụ khác. Có nhiều ứng dụng bên thứ ba khác có thể thực hiện tương tự những gì mà Giao diện Web Github và GitHub Desktop có thể làm.*
 
@@ -75,11 +75,11 @@ Vào lúc này, bạn có hai lựa chọn:
 
    ![](img/compare-across-forks-no.jpg "Không ổn.")
 
-5. Nhấn vào `head fork` và chọn cái có chứa tên người dùng của bạn (nó thường là cái thứ hai).
+5. Nhấn vào trình đơn thả xuống `head fork` và chọn cái có chứa tên người dùng của bạn (nó thường là cái thứ hai).
 
    ![](img/head-fork.jpg)
 
-6. Nhấn vào `compare` và chọn branch mà bạn đã tạo (danh sách này được liệt kê bảng chữ cái).
+6. Nhấn vào trình đơn thả xuống `compare` và chọn branch mà bạn đã tạo (danh sách này được liệt kê bảng chữ cái).
 
    ![](img/compare-branch.jpg)
 
@@ -87,7 +87,7 @@ Vào lúc này, bạn có hai lựa chọn:
 
 8. Nhập tiêu đề bằng tiếng Anh, giải thích ngắn gọn những gì mà bạn sửa đổi.
 
-   Đối với các văn bản dịch, điền thêm mã ngôn ngữ hai chữ cái vào trong ngoặc ở đầu tiêu đề. Tiêu đề có thể chỉ cần đề cập tới các trang văn bản mà bạn dịch. Ví dụ, `[VI] Rules` sẽ chỉ ra bạn đang cập nhật bản dịch tiếng Việt của trang [Nội quy](/wiki/Rules).
+   Đối với các văn bản dịch, điền thêm mã ngôn ngữ hai chữ cái vào trong ngoặc ở đầu tiêu đề. Tiêu đề có thể chỉ cần đề cập tới các bài viết mà bạn dịch. Ví dụ, `[VI] Rules` sẽ chỉ ra bạn đang cập nhật bản dịch tiếng Việt của trang [Nội quy](/wiki/Rules).
 
 9. Điền vào hộp mô tả khái quát những thay đổi của bạn. Bạn nên đề cập đến bất cứ thông tin gì liên quan đến pull request của bạn, như là tình trạng hoàn thành và những thứ mà bạn muốn các người đánh giá biết. Bạn cũng có thể làm cho pull request của bạn tự động đóng các issue (vấn đề) sau khi được merge (hợp nhất) bằng cách viết "resolves #1" hoặc "closes #1", v.v. trong mô tả (xem [Đóng issue bằng các từ khoá](https://help.github.com/articles/closing-issues-using-keywords/) trên GitHub Help).
 
