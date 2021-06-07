@@ -30,7 +30,7 @@ As of June 3 2021, on the [osu!taiko performance rankings](https://osu.ppy.sh/ra
 
 *Full ranking history page: [osu!catch](osu!catch)*
 
-As of June 3 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ![][flag_KR] [\[224\]Hyperw7](https://osu.ppy.sh/users/4158549/fruits).
+As of June 7 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ![][flag_KR] [CTB Rushia1](https://osu.ppy.sh/users/4158549/fruits).
 
 ## ![][osu!mania] osu!mania
 
