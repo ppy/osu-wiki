@@ -67,7 +67,7 @@ Beatmap template download: [Short version](https://assets.ppy.sh/contests/130/I2
 
 #### Tanchiky - Eternal01 (174 BPM)
 
-Beatmap template download: [Full version](https://assets.ppy.sh/artists/144/Songs/I2ka%20x%20Tanchiky%20-%20Voice.osz) (2:16)
+Beatmap template download: [Full version](https://assets.ppy.sh/artists/144/Songs/Tanchiky%20-%20Eternal01.osz) (2:16)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/144/Songs/Tanchiky%20-%20Eternal01.mp3" type="audio/mpeg">
