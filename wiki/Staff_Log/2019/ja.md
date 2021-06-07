@@ -2,7 +2,7 @@
 
 ## 1月
 
-- [clayton](https://osu.ppy.sh/users/3666350)をプロジェクトLovedチームに追加
+- [clayton](https://osu.ppy.sh/users/3666350)をプロジェクトLovedチームに追加 (2019-01-26)
 - [mancuso_JM_](https://osu.ppy.sh/users/521568)をグローバルモデレーションチームからosu! Alumniへ (2019-01-31)
 
 ### ビートマップノミネーター 削除
@@ -16,8 +16,8 @@
 
 ## 2月
 
-- [Shoegazer](https://osu.ppy.sh/users/2520707)をプロジェクトLovedチームに追加
-- [Yuii-](https://osu.ppy.sh/users/2935923)を品質保証チームから削除
+- [Shoegazer](https://osu.ppy.sh/users/2520707)をプロジェクトLovedチームに追加 (2019-02-13)
+- [Yuii-](https://osu.ppy.sh/users/2935923)を品質保証チームから削除 (2019-02-16)
 
 ### ビートマップノミネーター 削除
 
@@ -82,10 +82,10 @@
 - [Protastic101](https://osu.ppy.sh/users/6712747)を品質保証チームからosu! Alumniへ (2019-04-10)
 - [Regraz](https://osu.ppy.sh/users/3076909)を品質保証チームからosu! Alumni及びビートマップノミネーターへ (2019-04-10)
 - [Noffy](https://osu.ppy.sh/users/1541323)を品質保証チームからosu! Alumni及びビートマップノミネーターへ (2019-04-18)
-- [-Kazu-](https://osu.ppy.sh/users/920861)を品質保証チームから削除
+- [-Kazu-](https://osu.ppy.sh/users/920861)を品質保証チームから削除 (2019-04-20)
 - [Loctav](https://osu.ppy.sh/users/71366)をosu! Alumniからグローバルモデレーションチームへ (2019-04-22)
-- [Zeus-](https://osu.ppy.sh/users/5464437)をグローバルモデレーションチームに追加
-- [- Felix](https://osu.ppy.sh/users/8503985)をグローバルモデレーションチームに追加
+- [Zeus-](https://osu.ppy.sh/users/5464437)をグローバルモデレーションチームに追加 (2019-04-23)
+- [- Felix](https://osu.ppy.sh/users/8503985)をグローバルモデレーションチームに追加 (2019-04-23)
 
 ### ビートマップノミネーター 削除
 
@@ -130,7 +130,7 @@
 
 ## 6月
 
-- [clayton](https://osu.ppy.sh/users/3666350)をプロジェクトLovedチームから削除
+- [clayton](https://osu.ppy.sh/users/3666350)をプロジェクトLovedチームから削除 (2019-06-21)
 - [Hinsvar](https://osu.ppy.sh/users/1249323)をグローバルモデレーションチームからosu! Alumniへ (2019-06-30)
 
 ### ビートマップノミネーター 追加
@@ -172,7 +172,7 @@
 
 ## 8月
 
-- [Pachiru](https://osu.ppy.sh/users/2850983)をグローバルモデレーションチームに追加
+- [Pachiru](https://osu.ppy.sh/users/2850983)をグローバルモデレーションチームに追加 (2019-08-15)
 - [Nepuri](https://osu.ppy.sh/users/6637817)をビートマップノミネーターからノミネーションアセスメントチームへ (2019-08-16)
 - [Noffy](https://osu.ppy.sh/users/1541323)をビートマップノミネーター及びosu! Alumniからノミネーションアセスメントチームへ (2019-08-25)
 
@@ -205,10 +205,10 @@
 - [Daru](https://osu.ppy.sh/users/32480)を開発者からosu! Alumniへ (2019-09-11)
 - [mm201](https://osu.ppy.sh/users/30655)を開発者からosu! Alumniへ (2019-09-11)
 - [TheVileOne](https://osu.ppy.sh/users/278862)を開発者からosu! Alumniへ (2019-09-11)
-- [Echo](https://osu.ppy.sh/users/431)を開発者から削除
-- [Fly a Kite](https://osu.ppy.sh/users/7137649)を開発者から削除
-- [Marcin](https://osu.ppy.sh/users/722665)を開発者から削除
-- [BanchoBot](https://osu.ppy.sh/users/3)を開発者から削除
+- [Echo](https://osu.ppy.sh/users/431)を開発者から削除 (2019-09-11)
+- [Fly a Kite](https://osu.ppy.sh/users/7137649)を開発者から削除 (2019-09-11)
+- [Marcin](https://osu.ppy.sh/users/722665)を開発者から削除 (2019-09-11)
+- [BanchoBot](https://osu.ppy.sh/users/3)を開発者から削除 (2019-09-11)
 - [Marcin](https://osu.ppy.sh/users/722665)をグローバルモデレーションチームからosu! Alumniへ (2019-09-26)
 
 ### ビートマップノミネーター 追加
@@ -228,8 +228,8 @@
 
 ## 10月
 
-- [- [bibitaru] -](https://osu.ppy.sh/users/4482419)をグローバルモデレーションチームに追加
-- [Loneight](https://osu.ppy.sh/users/663131)をグローバルモデレーションチームに追加
+- [- [bibitaru] -](https://osu.ppy.sh/users/4482419)をグローバルモデレーションチームに追加 (2019-10-05)
+- [Loneight](https://osu.ppy.sh/users/663131)をグローバルモデレーションチームに追加 (2019-10-05)
 - [Leniane](https://osu.ppy.sh/users/7138602)をビートマップノミネーターからノミネーションアセスメントチームへ (2019-10-15)
 - [Maxus](https://osu.ppy.sh/users/4335785)をノミネーションアセスメントチームからosu! Alumniへ (2019-10-23)
 - [Yason](https://osu.ppy.sh/users/2574392)をosu! Alumniからグローバルモデレーションチームへ (2019-10-30)
@@ -266,70 +266,70 @@
 
 ### ビートマップノミネーター
 
-- [Mir](https://osu.ppy.sh/users/8688812)をビートマップノミネーターに追加
+- [Mir](https://osu.ppy.sh/users/8688812)をビートマップノミネーターに追加 (2019-11-01)
 - [Dergo](https://osu.ppy.sh/users/7439226)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-02)
 - [Cynplytholowazy](https://osu.ppy.sh/users/3901754)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-03)
 - [Greaper](https://osu.ppy.sh/users/2369776)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-07)
 - [MBomb](https://osu.ppy.sh/users/3071175)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-07)
 - [Rocma](https://osu.ppy.sh/users/566276)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-07)
-- [AirinCat](https://osu.ppy.sh/users/11119539)を試用期間中のビートマップノミネーターに追加
-- [Nao Tomori](https://osu.ppy.sh/users/5364763)を試用期間中のビートマップノミネーター - 辞任から削除
+- [AirinCat](https://osu.ppy.sh/users/11119539)を試用期間中のビートマップノミネーターに追加 (2019-11-08)
+- [Nao Tomori](https://osu.ppy.sh/users/5364763)を試用期間中のビートマップノミネーター - 辞任から削除 (2019-11-08)
 - [Lafayla](https://osu.ppy.sh/users/5312547)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-12)
-- [[ A v a l o n ]](https://osu.ppy.sh/users/4632359)をビートマップノミネーター - 辞任から削除
-- [-Luminate](https://osu.ppy.sh/users/4778689)を試用期間中のビートマップノミネーターに追加
-- [komasy](https://osu.ppy.sh/users/1980256)をビートマップノミネーター - 辞任から削除
-- [Genjuro](https://osu.ppy.sh/users/3196091)を試用期間中のビートマップノミネーターに追加
+- [[ A v a l o n ]](https://osu.ppy.sh/users/4632359)をビートマップノミネーター - 辞任から削除 (2019-11-13)
+- [-Luminate](https://osu.ppy.sh/users/4778689)を試用期間中のビートマップノミネーターに追加 (2019-11-16)
+- [komasy](https://osu.ppy.sh/users/1980256)をビートマップノミネーター - 辞任から削除 (2019-11-17)
+- [Genjuro](https://osu.ppy.sh/users/3196091)を試用期間中のビートマップノミネーターに追加 (2019-11-17)
 - [Absolute Zero](https://osu.ppy.sh/users/4847256)をビートマップノミネーターから試用期間中のビートマップノミネーター - 活動量が少なく、回避が容易な失格事項へ (2019-11-17)
-- [Xinely](https://osu.ppy.sh/users/1521445)を試用期間中のビートマップノミネーターに追加
-- [Kalibe](https://osu.ppy.sh/users/3376777)をビートマップノミネーター - 活動休止から削除
-- [NEVlR](https://osu.ppy.sh/users/8339126)をビートマップノミネーター - 活動休止から削除
-- [Ultima Fox](https://osu.ppy.sh/users/3198109)をビートマップノミネーター - 活動休止から削除
-- [Seolv](https://osu.ppy.sh/users/8067876)を試用期間中のビートマップノミネーターに追加
+- [Xinely](https://osu.ppy.sh/users/1521445)を試用期間中のビートマップノミネーターに追加 (2019-11-17)
+- [Kalibe](https://osu.ppy.sh/users/3376777)をビートマップノミネーター - 活動休止から削除 (2019-11-18)
+- [NEVlR](https://osu.ppy.sh/users/8339126)をビートマップノミネーター - 活動休止から削除 (2019-11-18)
+- [Ultima Fox](https://osu.ppy.sh/users/3198109)をビートマップノミネーター - 活動休止から削除 (2019-11-18)
+- [Seolv](https://osu.ppy.sh/users/8067876)を試用期間中のビートマップノミネーターに追加 (2019-11-18)
 - [radar](https://osu.ppy.sh/users/7131099)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-19)
 - [tasuke912](https://osu.ppy.sh/users/2774767)をビートマップノミネーターから試用期間中のビートマップノミネーター - 重大なRC違反のあるビートマップをノミネートへ (2019-11-22)
-- [Rhytoly](https://osu.ppy.sh/users/8121109)を試用期間中のビートマップノミネーター - 重大なRC違反のあるビートマップをノミネートから削除
-- [Raiden](https://osu.ppy.sh/users/2239480)をビートマップノミネーター - 辞任から削除
-- [Kyousukee](https://osu.ppy.sh/users/8842107)を試用期間中のビートマップノミネーターに追加
+- [Rhytoly](https://osu.ppy.sh/users/8121109)を試用期間中のビートマップノミネーター - 重大なRC違反のあるビートマップをノミネートから削除 (2019-11-22)
+- [Raiden](https://osu.ppy.sh/users/2239480)をビートマップノミネーター - 辞任から削除 (2019-11-25)
+- [Kyousukee](https://osu.ppy.sh/users/8842107)を試用期間中のビートマップノミネーターに追加 (2019-11-25)
 - [Bunnrei](https://osu.ppy.sh/users/829284)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-26)
-- [Nifty](https://osu.ppy.sh/users/4956097)を試用期間中のビートマップノミネーターに追加
+- [Nifty](https://osu.ppy.sh/users/4956097)を試用期間中のビートマップノミネーターに追加 (2019-11-27)
 - [-Aqua](https://osu.ppy.sh/users/7150015)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-27)
 - [Crissa](https://osu.ppy.sh/users/5405836)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-27)
 - [Myxo](https://osu.ppy.sh/users/2202645)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-27)
 - [Nozhomi](https://osu.ppy.sh/users/2716981)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-11-27)
-- [Mir](https://osu.ppy.sh/users/8688812)をビートマップノミネーター - 辞任から削除
-- [LMT](https://osu.ppy.sh/users/7262798)をビートマップノミネーター - 辞任から削除
-- [Gabe](https://osu.ppy.sh/users/654108)をビートマップノミネーター - 辞任から削除
+- [Mir](https://osu.ppy.sh/users/8688812)をビートマップノミネーター - 辞任から削除 (2019-11-28)
+- [LMT](https://osu.ppy.sh/users/7262798)をビートマップノミネーター - 辞任から削除 (2019-11-29)
+- [Gabe](https://osu.ppy.sh/users/654108)をビートマップノミネーター - 辞任から削除 (2019-11-29)
 - [Realazy](https://osu.ppy.sh/users/918297)をビートマップノミネーターから試用期間中のビートマップノミネーター - 重大なRC違反のあるビートマップをノミネートへ (2019-11-29)
 - [Sinnoh](https://osu.ppy.sh/users/4236057)をビートマップノミネーターから試用期間中のビートマップノミネーター - 顕著なRC違反があり、全体的にノミネーションの質が不十分なビートマップをノミネートへ (2019-11-29)
 
 ## 12月
 
-- [clayton](https://osu.ppy.sh/users/3666350)をプロジェクトLovedチームに追加
+- [clayton](https://osu.ppy.sh/users/3666350)をプロジェクトLovedチームに追加 (2019-12-03)
 - [Mao](https://osu.ppy.sh/users/2204515)をノミネーションアセスメントチームからosu! Alumniへ (2019-12-15)
 - [Stack](https://osu.ppy.sh/users/6122935)をノミネーションアセスメントチームからosu! Alumniへ (2019-12-15)
 - [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)をノミネーションアセスメントチームからosu! Alumniへ (2019-12-16)
 - [HappyStick](https://osu.ppy.sh/users/256802)をグローバルモデレーションチームからosu! Alumniへ (2019-12-21)
-- [mm201](https://osu.ppy.sh/users/30655)をグローバルモデレーションチームから削除
+- [mm201](https://osu.ppy.sh/users/30655)をグローバルモデレーションチームから削除 (2019-12-21)
 - [Nyquill](https://osu.ppy.sh/users/682935)をグローバルモデレーションチームからosu! Alumniへ (2019-12-21)
-- [peppy](https://osu.ppy.sh/users/2)をグローバルモデレーションチームから削除
-- [smoogipoo](https://osu.ppy.sh/users/1040328)をグローバルモデレーションチームから削除
+- [peppy](https://osu.ppy.sh/users/2)をグローバルモデレーションチームから削除 (2019-12-25)
+- [smoogipoo](https://osu.ppy.sh/users/1040328)をグローバルモデレーションチームから削除 (2019-12-25)
 
 ### ビートマップノミネーター
 
-- [newton-](https://osu.ppy.sh/users/5875419)を試用期間中のビートマップノミネーター - 熟練度不足から削除
-- [Halfslashed](https://osu.ppy.sh/users/4598899)をビートマップノミネーター - 辞任から削除
-- [chickenbible](https://osu.ppy.sh/users/2306637)をビートマップノミネーター - 辞任から削除
+- [newton-](https://osu.ppy.sh/users/5875419)を試用期間中のビートマップノミネーター - 熟練度不足から削除 (2019-12-08)
+- [Halfslashed](https://osu.ppy.sh/users/4598899)をビートマップノミネーター - 辞任から削除 (2019-12-08)
+- [chickenbible](https://osu.ppy.sh/users/2306637)をビートマップノミネーター - 辞任から削除 (2019-12-10)
 - [AirinCat](https://osu.ppy.sh/users/11119539)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-12-11)
-- [Smokeman](https://osu.ppy.sh/users/2140676)を試用期間中のビートマップノミネーターに追加
+- [Smokeman](https://osu.ppy.sh/users/2140676)を試用期間中のビートマップノミネーターに追加 (2019-12-13)
 - [Sanyi](https://osu.ppy.sh/users/7496029)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-12-15)
 - [-Luminate](https://osu.ppy.sh/users/4778689)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-12-15)
-- [Absolute Zero](https://osu.ppy.sh/users/4847256)を試用期間中のビートマップノミネーター - 熟練度不足から削除
-- [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)をビートマップノミネーターに追加
+- [Absolute Zero](https://osu.ppy.sh/users/4847256)を試用期間中のビートマップノミネーター - 熟練度不足から削除 (2019-12-15)
+- [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)をビートマップノミネーターに追加 (2019-12-16)
 - [Xinely](https://osu.ppy.sh/users/1521445)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-12-16)
-- [PokeSky](https://osu.ppy.sh/users/3617111)を試用期間中のビートマップノミネーターに追加
-- [Mirash](https://osu.ppy.sh/users/2841009)を試用期間中のビートマップノミネーターに追加
-- [Seolv](https://osu.ppy.sh/users/8067876)を試用期間中のビートマップノミネーター - 熟練度不足から削除
+- [PokeSky](https://osu.ppy.sh/users/3617111)を試用期間中のビートマップノミネーターに追加 (2019-12-18)
+- [Mirash](https://osu.ppy.sh/users/2841009)を試用期間中のビートマップノミネーターに追加 (2019-12-20)
+- [Seolv](https://osu.ppy.sh/users/8067876)を試用期間中のビートマップノミネーター - 熟練度不足から削除 (2019-12-21)
 - [Genjuro](https://osu.ppy.sh/users/3196091)を試用期間中のビートマップノミネーターからビートマップノミネーターへ (2019-12-22)
-- [Yukiyo](https://osu.ppy.sh/users/4541873)をビートマップノミネーター - 辞任から削除
-- [frukoyurdakul](https://osu.ppy.sh/users/7612550)を試用期間中のビートマップノミネーターに追加
-- [Volta](https://osu.ppy.sh/users/4154071)を試用期間中のビートマップノミネーターに追加
+- [Yukiyo](https://osu.ppy.sh/users/4541873)をビートマップノミネーター - 辞任から削除 (2019-12-27)
+- [frukoyurdakul](https://osu.ppy.sh/users/7612550)を試用期間中のビートマップノミネーターに追加 (2019-12-28)
+- [Volta](https://osu.ppy.sh/users/4154071)を試用期間中のビートマップノミネーターに追加 (2019-12-28)
