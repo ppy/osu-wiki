@@ -46,7 +46,7 @@ The OUKT1 was run by various community members
 ## Links
 
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/165077)
-- [Challonge page](https://challonge.com/UKosu)
+- [Challonge page](https://challonge.com/UKosu "Challonge")
 
 ## Participants
 
@@ -190,7 +190,7 @@ The OUKT1 was run by various community members
 
 ### Finals
 
-Saturday, 11th January 2014
+Saturday, 11 January 2014
 
 #### Grand Final
 
@@ -206,7 +206,7 @@ Saturday, 11th January 2014
 
 ### Semifinals
 
-Saturday, 4th January 2014
+Saturday, 4 January 2014
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
@@ -215,7 +215,7 @@ Saturday, 4th January 2014
 
 ### Quaterfinals
 
-Saturday, 21st December 2013
+Saturday, 21 December 2013
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
@@ -226,7 +226,7 @@ Saturday, 21st December 2013
 
 ### Round of 16
 
-Saturday, 14th December 2013
+Saturday, 14 December 2013
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
@@ -241,7 +241,7 @@ Saturday, 14th December 2013
 
 ### Round of 32
 
-Saturday, 7th December 2013
+Saturday, 7 December 2013
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
