@@ -3,8 +3,8 @@
 ## 1月
 
 - [Feerum](https://osu.ppy.sh/users/4815717)を品質保証チームからosu! Alumniへ (2018-01-02)
-- [Tommay](https://osu.ppy.sh/users/3132818)をグローバルモデレーションチームに追加
-- [stymlice](https://osu.ppy.sh/users/5122436)をグローバルモデレーションチームに追加
+- [Tommay](https://osu.ppy.sh/users/3132818)をグローバルモデレーションチームに追加 (2018-01-05)
+- [stymlice](https://osu.ppy.sh/users/5122436)をグローバルモデレーションチームに追加 (2018-01-05)
 - [Tasha](https://osu.ppy.sh/users/1031958)をグローバルモデレーションチームからosu! Alumniへ (2018-01-08)
 - [spboxer3](https://osu.ppy.sh/users/197974)をosu! Alumniからグローバルモデレーションチームへ (2018-01-09)
 - [Atrue](https://osu.ppy.sh/users/1758523)をグローバルモデレーションチームからosu! Alumniへ (2018-01-18)
@@ -45,11 +45,11 @@
 ## 2月
 
 - [Blocko](https://osu.ppy.sh/users/4075092)を品質保証チームからosu! Alumniへ (2018-02-04)
-- [Asherz007](https://osu.ppy.sh/users/9014047)を品質保証チームに追加
+- [Asherz007](https://osu.ppy.sh/users/9014047)を品質保証チームに追加 (2018-02-04)
 - [Darksonic](https://osu.ppy.sh/users/570042)をosu! Alumniからグローバルモデレーションチームへ (2018-02-13)
 - [Uni](https://osu.ppy.sh/users/617106)をグローバルモデレーションチームからosu! Alumniへ (2018-02-20)
 - [[ Another ]](https://osu.ppy.sh/users/3416573)をグローバルモデレーションチームからosu! Alumniへ (2018-02-20)
-- [Irreversible](https://osu.ppy.sh/users/1287964)を品質保証チームから削除
+- [Irreversible](https://osu.ppy.sh/users/1287964)を品質保証チームから削除 (2018-02-27)
 
 ### ビートマップノミネーター 削除
 
@@ -66,14 +66,14 @@
 
 ## 3月
 
-- [Lasse](https://osu.ppy.sh/users/896613)を品質保証チームに追加
+- [Lasse](https://osu.ppy.sh/users/896613)を品質保証チームに追加 (2018-03-01)
 - [Stefan](https://osu.ppy.sh/users/626907)をosu! Alumniからグローバルモデレーションチームへ (2018-03-11)
 - [Okoratu](https://osu.ppy.sh/users/1623405)を品質保証チームからosu! Alumni及びビートマップノミネーターへ (2018-03-17)
 - [shARPII](https://osu.ppy.sh/users/776257)をグローバルモデレーションチームからosu! Alumniへ (2018-03-17)
-- [-Mo-](https://osu.ppy.sh/users/2202163)を品質保証チームに追加
+- [-Mo-](https://osu.ppy.sh/users/2202163)を品質保証チームに追加 (2018-03-22)
 - [Gabe](https://osu.ppy.sh/users/654108)をビートマップノミネーターから品質保証チームへ (2018-03-22)
-- [Lanturn](https://osu.ppy.sh/users/1446665)を品質保証チームに追加
-- [Mir](https://osu.ppy.sh/users/8688812)を品質保証チームに追加
+- [Lanturn](https://osu.ppy.sh/users/1446665)を品質保証チームに追加 (2018-03-22)
+- [Mir](https://osu.ppy.sh/users/8688812)を品質保証チームに追加 (2018-03-22)
 
 ### ビートマップノミネーター 削除
 
@@ -103,7 +103,7 @@
 ## 4月
 
 - [Zetera](https://osu.ppy.sh/users/587737)をグローバルモデレーションチームからosu! Alumniへ (2018-04-06)
-- [Aloda](https://osu.ppy.sh/users/1190127)を品質保証チームに追加
+- [Aloda](https://osu.ppy.sh/users/1190127)を品質保証チームに追加 (2018-04-16)
 
 ### ビートマップノミネーター 削除
 
@@ -139,7 +139,7 @@
 
 ## 5月
 
-- [Chaoslitz](https://osu.ppy.sh/users/3621552)を品質保証チームに追加
+- [Chaoslitz](https://osu.ppy.sh/users/3621552)を品質保証チームに追加 (2018-05-09)
 - [Myxo](https://osu.ppy.sh/users/2202645)を品質保証チームからosu! Alumniへ (2018-05-09)
 
 ### ビートマップノミネーター 削除
@@ -159,12 +159,12 @@
 ## 6月
 
 - [Zetera](https://osu.ppy.sh/users/587737)をosu! Alumniからグローバルモデレーションチームへ (2018-06-04)
-- [Okoratu](https://osu.ppy.sh/users/1623405)をグローバルモデレーションチームに追加
+- [Okoratu](https://osu.ppy.sh/users/1623405)をグローバルモデレーションチームに追加 (2018-06-17)
 - [Kurai](https://osu.ppy.sh/users/77089)を品質保証チームからグローバルモデレーションチームへ (2018-06-18)
 - [Doyak](https://osu.ppy.sh/users/2046893)を品質保証チームからグローバルモデレーションチームへ (2018-06-18)
 - [Kurokami](https://osu.ppy.sh/users/260933)を品質保証チームからosu! Alumniへ (2018-06-18)
 - [Asherz007](https://osu.ppy.sh/users/9014047)を品質保証チームからビートマップノミネーターへ (2018-06-18)
-- [Maxus](https://osu.ppy.sh/users/4335785)を品質保証チームに追加
+- [Maxus](https://osu.ppy.sh/users/4335785)を品質保証チームに追加 (2018-06-25)
 
 ### ビートマップノミネーター 削除
 
@@ -192,11 +192,11 @@
 
 ## 7月
 
-- [Hobbes2](https://osu.ppy.sh/users/8157492)を品質保証チームに追加
+- [Hobbes2](https://osu.ppy.sh/users/8157492)を品質保証チームに追加 (2018-07-03)
 - [Seijiro](https://osu.ppy.sh/users/2581696)をosu! Alumniからグローバルモデレーションチームへ (2018-07-18)
 - **Created プロジェクトLovedチーム** (2018-07-27)
-- [Backfire](https://osu.ppy.sh/users/263110)をプロジェクトLovedチームに追加
-- [Toy](https://osu.ppy.sh/users/2757689)をプロジェクトLovedチームに追加
+- [Backfire](https://osu.ppy.sh/users/263110)をプロジェクトLovedチームに追加 (2018-07-27)
+- [Toy](https://osu.ppy.sh/users/2757689)をプロジェクトLovedチームに追加 (2018-07-27)
 
 ### ビートマップノミネーター 削除
 
@@ -238,7 +238,7 @@
 
 ## 8月
 
-- [ZiRoX](https://osu.ppy.sh/users/200768)を品質保証チームに追加
+- [ZiRoX](https://osu.ppy.sh/users/200768)を品質保証チームに追加 (2018-08-19)
 
 ### ビートマップノミネーター 削除
 
@@ -260,7 +260,7 @@
 - [Doyak](https://osu.ppy.sh/users/2046893)をグローバルモデレーションチームからosu! Alumniへ (2018-09-09)
 - [Mir](https://osu.ppy.sh/users/8688812)を品質保証チームからosu! Alumniへ (2018-09-19)
 - [Hobbes2](https://osu.ppy.sh/users/8157492)を品質保証チームからビートマップノミネーターへ (2018-09-19)
-- [Kibbleru](https://osu.ppy.sh/users/3193504)を品質保証チームに追加
+- [Kibbleru](https://osu.ppy.sh/users/3193504)を品質保証チームに追加 (2018-09-21)
 - [Elfin](https://osu.ppy.sh/users/1399551)をosu! Alumniからグローバルモデレーションチームへ (2018-09-26)
 
 ### ビートマップノミネーター 削除
@@ -276,10 +276,10 @@
 
 ## 10月
 
-- [topecnz](https://osu.ppy.sh/users/2103927)をグローバルモデレーションチームに追加
-- [-Kazu-](https://osu.ppy.sh/users/920861)を品質保証チームに追加
+- [topecnz](https://osu.ppy.sh/users/2103927)をグローバルモデレーションチームに追加 (2018-10-01)
+- [-Kazu-](https://osu.ppy.sh/users/920861)を品質保証チームに追加 (2018-10-04)
 - [VeilStar](https://osu.ppy.sh/users/4255720)をSupport Team及びグローバルモデレーションチームからosu! Alumniへ (2018-10-05)
-- [TicClick](https://osu.ppy.sh/users/672931)をグローバルモデレーションチームに追加
+- [TicClick](https://osu.ppy.sh/users/672931)をグローバルモデレーションチームに追加 (2018-10-23)
 
 ### ビートマップノミネーター 削除
 
@@ -324,11 +324,11 @@
 
 - [Aloda](https://osu.ppy.sh/users/1190127)を品質保証チームからosu! Alumniへ (2018-11-07)
 - [Pereira006](https://osu.ppy.sh/users/537344)をosu! Alumniからグローバルモデレーションチームへ (2018-11-09)
-- [Gottagof4st](https://osu.ppy.sh/users/6122935)を品質保証チームに追加
-- [Kuron-kun](https://osu.ppy.sh/users/2697284)を品質保証チームに追加
-- [Noffy](https://osu.ppy.sh/users/1541323)を品質保証チームに追加
-- [Yuii-](https://osu.ppy.sh/users/2935923)を品質保証チームに追加
-- [Regraz](https://osu.ppy.sh/users/3076909)を品質保証チームに追加
+- [Gottagof4st](https://osu.ppy.sh/users/6122935)を品質保証チームに追加 (2018-11-10)
+- [Kuron-kun](https://osu.ppy.sh/users/2697284)を品質保証チームに追加 (2018-11-10)
+- [Noffy](https://osu.ppy.sh/users/1541323)を品質保証チームに追加 (2018-11-10)
+- [Yuii-](https://osu.ppy.sh/users/2935923)を品質保証チームに追加 (2018-11-10)
+- [Regraz](https://osu.ppy.sh/users/3076909)を品質保証チームに追加 (2018-11-11)
 - [-kevincela-](https://osu.ppy.sh/users/266596)をグローバルモデレーションチームからosu! Alumniへ (2018-11-17)
 
 ### ビートマップノミネーター 削除
@@ -341,6 +341,6 @@
 ## 12月
 
 - [Hobbes2](https://osu.ppy.sh/users/8157492)をビートマップノミネーターから品質保証チームへ (2018-12-01)
-- [Hinsvar](https://osu.ppy.sh/users/1249323)をグローバルモデレーションチームに追加
+- [Hinsvar](https://osu.ppy.sh/users/1249323)をグローバルモデレーションチームに追加 (2018-12-05)
 - [Elfin](https://osu.ppy.sh/users/1399551)をグローバルモデレーションチームからosu! Alumniへ (2018-12-14)
-- [Backfire](https://osu.ppy.sh/users/263110)をプロジェクトLovedチームから削除
+- [Backfire](https://osu.ppy.sh/users/263110)をプロジェクトLovedチームから削除 (2018-12-31)
