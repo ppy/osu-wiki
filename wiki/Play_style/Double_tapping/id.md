@@ -4,6 +4,7 @@ tags:
   - tap
   - hybrid
   - play style
+  - gaya bermain
 ---
 
 # Double tapping
