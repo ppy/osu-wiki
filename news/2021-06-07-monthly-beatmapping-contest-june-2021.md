@@ -86,8 +86,8 @@ Beatmap template download: [Short version](https://assets.ppy.sh/contests/130/Ta
 Breaking any of these rules will land you in MBC prison. Submissions must...
 
 - **follow the month's [beatmapping theme](#theme) for the contest's mode:**
-    - **osu!:** square patterns
-    - **osu!catch:** 1/1 rhythm gaps
+  - **osu!:** square patterns
+  - **osu!catch:** 1/1 rhythm gaps
 - **be in `.osz` format.** Including a background image and custom hitsounds is fine, but skin/storyboard/video content will not be considered.
 - **be a single difficulty for one of the month's [selected songs](#songs).**
 - **not be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** All contest submissions are anonymous during the screening/judging phases to avoid bias. **DO NOT SHARE YOUR ENTRY!**
