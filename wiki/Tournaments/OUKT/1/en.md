@@ -30,8 +30,8 @@ The **UK osu!standard tournament!** (***OUKT1***) was an ![][flag_GB] United Kin
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "Second place") | 4 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
 
 ## Organisation
 
@@ -54,16 +54,16 @@ The OUKT1 was run by various community members
 | :-- | :-- |
 | 1-8 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515), ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193), ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199), ![][flag_GB] [Navi](https://osu.ppy.sh/users/926304), ![][flag_GB] [Cozzzy](https://osu.ppy.sh/users/2003917), ![][flag_GB] [Charleyzard](https://osu.ppy.sh/users/1062584) |
 | 9-16 | ![][flag_GB] [vidya](https://osu.ppy.sh/users/413305), ![][flag_GB] [bubby963](https://osu.ppy.sh/users/1050426), ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [\[Transcendence\]](https://osu.ppy.sh/users/2313772), ![][flag_GB] [Deathosaurus](https://osu.ppy.sh/users/1825822), ![][flag_GB] [Kardet](https://osu.ppy.sh/users/1438509), ![][flag_GB] [Slvin](https://osu.ppy.sh/users/1219567), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) |
-| 17-24 | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378), ![][flag_GB] [Snookie](https://osu.ppy.sh/users/1484934), ![][flag_GB] Nyaristoru <!-- missing -->, ![][flag_GB] [Aaruen](https://osu.ppy.sh/users/1506750), ![][flag_GB] [scouttt](https://osu.ppy.sh/users/2428292), ![][flag_GB] [Lusory](https://osu.ppy.sh/users/2101270), ![][flag_GB] [Viremon](https://osu.ppy.sh/users/827070), ![][flag_GB] [Just Miku](https://osu.ppy.sh/users/2167861) |
+| 17-24 | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378), ![][flag_GB] [Snookie](https://osu.ppy.sh/users/1484934), ![][flag_GB] Nyaristoru , ![][flag_GB] [Aaruen](https://osu.ppy.sh/users/1506750), ![][flag_GB] [scouttt](https://osu.ppy.sh/users/2428292), ![][flag_GB] [Lusory](https://osu.ppy.sh/users/2101270), ![][flag_GB] [Viremon](https://osu.ppy.sh/users/827070), ![][flag_GB] [Just Miku](https://osu.ppy.sh/users/2167861) |
 | 25-32 | ![][flag_GB] [destructor966](https://osu.ppy.sh/users/2667584), ![][flag_GB] [Yoishi](https://osu.ppy.sh/users/2167556), ![][flag_GB] [Riari](https://osu.ppy.sh/users/2553016), ![][flag_GB] [3lliot](https://osu.ppy.sh/users/2685857), ![][flag_GB] [EzLyn](https://osu.ppy.sh/users/2709812), ![][flag_GB] [Tekklorn](https://osu.ppy.sh/users/2094234), ![][flag_GB] [ItzDom](https://osu.ppy.sh/users/1849257), ![][flag_GB] [Zarfots](https://osu.ppy.sh/users/2253985) |
 
 ## Podium
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| ![Silver crown](/wiki/shared/crown-silver.png "Second place") | ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "Third place") | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
 
 ## Mappools
 
@@ -202,67 +202,65 @@ Saturday, 11th January 2014
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| Deathosaurus ![][flag_GB] | score | **5** | ![][flag_GB] **ILikeMudkipz** |
+| Deathosaurus ![][flag_GB] | 1 | **5** | ![][flag_GB] **ILikeMudkipz** |
 
 ### Semifinals
 
 Saturday, 4th January 2014
 
-| Player 1 | | | Player 2 |
-| --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] Deathosaurus |
-| ILikeMudkipz ![][flag_GB] | Forfeit | **4** | ![][flag_GB] **R a h a r u** |
+| Player 1 | | | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] Deathosaurus | |
+| ILikeMudkipz ![][flag_GB] | 0 | **1** | ![][flag_GB] **R a h a r u** | Forfeit |
 
 ### Quaterfinals
 
 Saturday, 21st December 2013
 
-| Player 1 | | | Player 2 |
-| --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 2 | ![][flag_GB] vidya |
-| **Deathosaurus** ![][flag_GB] | **3** | 1* | ![][flag_GB] Starry- |
-| **ILikeMudkipz** ![][flag_GB] | **4** | 2 | ![][flag_GB] Viremon |
-| **R a h a r u** ![][flag_GB] | **4** | 2 | ![][flag_GB] PortalLife |
-
-**(Starry- forfeit midmatch due to physical problems)*
+| Player 1 | | | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Doomsday** ![][flag_GB] | **4** | 2 | ![][flag_GB] vidya | |
+| **Deathosaurus** ![][flag_GB] | **3** | 1 | ![][flag_GB] Starry- | Forfeit (physical problems) |
+| **ILikeMudkipz** ![][flag_GB] | **4** | 2 | ![][flag_GB] Viremon | |
+| **R a h a r u** ![][flag_GB] | **4** | 2 | ![][flag_GB] PortalLife | |
 
 ### Round of 16
 
 Saturday, 14th December 2013
 
-| Player 1 | | | Player 2 |
-| --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Raiku |
-| destructor966 ![][flag_GB] | 0 | **3** | ![][flag_GB] **vidya** |
-| jesus1412 ![][flag_GB] | Forfeit | **3** | ![][flag_GB] **Deathosaurus** |
-| **Starry-** ![][flag_GB] | **3** | 1 | ![][flag_GB] \[Transcendence\] |
-| **ILikeMudkipz** ![][flag_GB] | **3** | Forfeit | ![][flag_GB] Slvin |
-| Cozzzy ![][flag_GB] | 2 | **3** | ![][flag_GB] **Viremon** |
-| **R a h a r u** ![][flag_GB] | **3** | Forfeit | ![][flag_GB] Nyaristoru |
-| Navi ![][flag_GB] | 2 | **3** | ![][flag_GB] **PortalLife** |
+| Player 1 | | | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Raiku | |
+| destructor966 ![][flag_GB] | 0 | **3** | ![][flag_GB] **vidya** | |
+| jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Deathosaurus** | Forfeit |
+| **Starry-** ![][flag_GB] | **3** | 1 | ![][flag_GB] \[Transcendence\] | |
+| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] Slvin | Forfeit |
+| Cozzzy ![][flag_GB] | 2 | **3** | ![][flag_GB] **Viremon** | |
+| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] Nyaristoru | Forfeit |
+| Navi ![][flag_GB] | 2 | **3** | ![][flag_GB] **PortalLife** | |
 
 ### Round of 32
 
 Saturday, 7th December 2013
 
-| Player 1 | | | Player 2 |
-| --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Zarfots |
-| **Raiku** ![][flag_GB] | **3** | 1 | ![][flag_GB] Mahiro Yasaka |
-| Charleyzard ![][flag_GB] | Forfeit | **3** | ![][flag_GB] **destructor966** |
-| **vidya** ![][flag_GB] | **3** | 0 | ![][flag_GB] Just miku |
-| **jesus1412** ![][flag_GB] | **3** | 0 | ![][flag_GB] EzLyn |
-| **Deathosaurus** ![][flag_GB] | **3** | 0 | ![][flag_GB] Aaruen |
-| **Starry-** ![][flag_GB] | **3** | Forfeit | ![][flag_GB] 3lliot |
-| **\[Transcendence\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] scouttt |
-| **ILikeMudkipz** ![][flag_GB] | **3** | Forfeit | ![][flag_GB] ItzDom |
-| **Slvin** ![][flag_GB] | **3** | 2 | ![][flag_GB] Snookie |
-| **Cozzzy** ![][flag_GB] | **3** | 0 | ![][flag_GB] Yoishi |
-| bubby963 ![][flag_GB] | Forfeit | **3** | ![][flag_GB] **Viremon** |
-| **R a h a r u** ![][flag_GB] | **3** | 0 | ![][flag_GB] Tekklorn |
-| Kardet ![][flag_GB] | 2 | **3** | ![][flag_GB] **Nyaristoru** |
-| **Navi** ![][flag_GB] | **3** | 0 | ![][flag_GB] Riari |
-| **PortalLife** ![][flag_GB] | **3** | 1 | ![][flag_GB] Lusory |
+| Player 1 | | | Player 2 | Notes |
+| --: | :-: | :-: | :-- | :-- |
+| **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Zarfots | |
+| **Raiku** ![][flag_GB] | **3** | 1 | ![][flag_GB] Mahiro Yasaka | |
+| Charleyzard ![][flag_GB] | 0 | **1** | ![][flag_GB] **destructor966** | Forfeit |
+| **vidya** ![][flag_GB] | **3** | 0 | ![][flag_GB] Just miku | |
+| **jesus1412** ![][flag_GB] | **3** | 0 | ![][flag_GB] EzLyn | |
+| **Deathosaurus** ![][flag_GB] | **3** | 0 | ![][flag_GB] Aaruen | |
+| **Starry-** ![][flag_GB] | **1** | 0 | ![][flag_GB] 3lliot | Forfeit |
+| **\[Transcendence\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] scouttt | |
+| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] ItzDom | Forfeit |
+| **Slvin** ![][flag_GB] | **3** | 2 | ![][flag_GB] Snookie | |
+| **Cozzzy** ![][flag_GB] | **3** | 0 | ![][flag_GB] Yoishi | |
+| bubby963 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Viremon** | Forfeit |
+| **R a h a r u** ![][flag_GB] | **3** | 0 | ![][flag_GB] Tekklorn | |
+| Kardet ![][flag_GB] | 2 | **3** | ![][flag_GB] **Nyaristoru** | |
+| **Navi** ![][flag_GB] | **3** | 0 | ![][flag_GB] Riari | |
+| **PortalLife** ![][flag_GB] | **3** | 1 | ![][flag_GB] Lusory | |
 
 ## Ruleset
 
