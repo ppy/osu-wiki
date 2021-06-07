@@ -21,7 +21,7 @@ Smaller game modes don't run contests as frequently, so they've also chosen to e
 
 ## Beatmapping
 
-### Limitation
+### Theme
 
 A **limitation** is a mapping restriction that every submission needs to follow, like "star rating cannot exceed 4.00" or "circles only". These keep the MBC fresh by ensuring each month isn't the same old contest.
 
@@ -85,7 +85,7 @@ Beatmap template download: [Short version](https://assets.ppy.sh/contests/130/Ta
 
 Breaking any of these rules will land you in MBC prison. Submissions must...
 
-- **follow the month's [beatmapping limitation/theme](#limitation) for the contest's mode:**
+- **follow the month's [beatmapping theme](#theme) for the contest's mode:**
     - **osu!:** square patterns
     - **osu!catch:** 1/1 rhythm gaps
 - **be in `.osz` format.** Including a background image and custom hitsounds is fine, but skin/storyboard/video content will not be considered.
