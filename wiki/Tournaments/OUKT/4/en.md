@@ -215,7 +215,7 @@ The OUKT4 was run by various community members
   - [DJ Genericname - Dango Dango Drum and Bass (Moway) [Insane](https://osu.ppy.sh/beatmapsets/64636#osu/190045)
   - [Leftymonster - START (HanzeR) [Finish](https://osu.ppy.sh/beatmapsets/70102#osu/201700)
 - DoubleTime
-  - [3L - Three Magic (cRyo[iceeicee]) [Collab](https://osu.ppy.sh/beatmapsets/59631#osu/178643)
+  - [3L - Three Magic (cRyo\[iceeicee\]) [Collab](https://osu.ppy.sh/beatmapsets/59631#osu/178643)
   - [kanon x kanon - The Doll House! (Asgard) [Painful World!](https://osu.ppy.sh/beatmapsets/43714#osu/137166)
 - FreeMod
   - [sakuzyo feat. Hatsune Miku - ChaiN De/structioN (Shiirn) [Loneliness](https://osu.ppy.sh/beatmapsets/49071#osu/154165)

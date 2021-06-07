@@ -40,7 +40,7 @@ The OUKT1 was run by various community members
 | Position | Member(s) |
 | :-- | :-- |
 | Organizer | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Map Selectors | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Doomsday](https://osu.ppy.sh/u/18983), ![][flag_GB] [Starry-](https://osu.ppy.sh/u/2166199) |
+| Map Selectors | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) |
 | Referees | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_US] [Rinnou Kouriri](https://osu.ppy.sh/users/1518370) |
 
 ## Links
@@ -52,7 +52,7 @@ The OUKT1 was run by various community members
 
 | Seed | Players |
 | :-- | :-- |
-| 1-8 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/u/18983), ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515), ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193), ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116), ![][flag_GB] [Starry-](https://osu.ppy.sh/u/2166199), ![][flag_GB] [Navi](https://osu.ppy.sh/users/926304), ![][flag_GB] [Cozzzy](https://osu.ppy.sh/users/2003917), ![][flag_GB] [Charleyzard](https://osu.ppy.sh/users/1062584) |
+| 1-8 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515), ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193), ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199), ![][flag_GB] [Navi](https://osu.ppy.sh/users/926304), ![][flag_GB] [Cozzzy](https://osu.ppy.sh/users/2003917), ![][flag_GB] [Charleyzard](https://osu.ppy.sh/users/1062584) |
 | 9-16 | ![][flag_GB] [vidya](https://osu.ppy.sh/users/413305), ![][flag_GB] [bubby963](https://osu.ppy.sh/users/1050426), ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [\[Transcendence\]](https://osu.ppy.sh/users/2313772), ![][flag_GB] [Deathosaurus](https://osu.ppy.sh/users/1825822), ![][flag_GB] [Kardet](https://osu.ppy.sh/users/1438509), ![][flag_GB] [Slvin](https://osu.ppy.sh/users/1219567), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) |
 | 17-24 | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378), ![][flag_GB] [Snookie](https://osu.ppy.sh/users/1484934), ![][flag_GB] Nyaristoru <!-- missing -->, ![][flag_GB] [Aaruen](https://osu.ppy.sh/users/1506750), ![][flag_GB] [scouttt](https://osu.ppy.sh/users/2428292), ![][flag_GB] [Lusory](https://osu.ppy.sh/users/2101270), ![][flag_GB] [Viremon](https://osu.ppy.sh/users/827070), ![][flag_GB] [Just Miku](https://osu.ppy.sh/users/2167861) |
 | 25-32 | ![][flag_GB] [destructor966](https://osu.ppy.sh/users/2667584), ![][flag_GB] [Yoishi](https://osu.ppy.sh/users/2167556), ![][flag_GB] [Riari](https://osu.ppy.sh/users/2553016), ![][flag_GB] [3lliot](https://osu.ppy.sh/users/2685857), ![][flag_GB] [EzLyn](https://osu.ppy.sh/users/2709812), ![][flag_GB] [Tekklorn](https://osu.ppy.sh/users/2094234), ![][flag_GB] [ItzDom](https://osu.ppy.sh/users/1849257), ![][flag_GB] [Zarfots](https://osu.ppy.sh/users/2253985) |
@@ -61,7 +61,7 @@ The OUKT1 was run by various community members
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/u/18983) |
+| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 | ![Silver crown](/wiki/shared/crown-silver.png "Second place") | ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "Third place") | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
 

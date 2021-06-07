@@ -121,7 +121,7 @@ The OUKT2 was run by various community members
   - [07th expansion - Nakanaide (Suzully) [Insane](https://osu.ppy.sh/beatmapsets/41807#osu/131840)
   - [paraoka - Dreadnought (Star Stream) [Insane](https://osu.ppy.sh/beatmapsets/48356#osu/149559)
 - DoubleTime
-  - [3L - Be Happy\* (cRyo[iceeicee]) [Happy!!!](https://osu.ppy.sh/beatmapsets/51247#osu/157205)
+  - [3L - Be Happy* (cRyo\[iceeicee\]) [Happy!!!](https://osu.ppy.sh/beatmapsets/51247#osu/157205)
   - [KOTOKO - Teller of World (DarknessAngel) [D.N.Angel](https://osu.ppy.sh/beatmapsets/95981#osu/257512)
 - FreeMod
   - [Rin - Prism Magical (DJ SHARPNEL hardrave remix) (regenz) [Extra Magical](https://osu.ppy.sh/beatmapsets/39032#osu/204536)
@@ -215,7 +215,7 @@ The OUKT2 was run by various community members
 - Nomod
   - [sakuzyo - Neurotoxin (Maddy) [Another](https://osu.ppy.sh/beatmapsets/41842#osu/131966)
   - [Umetora - Ifuudoudou (Nymph) [Insane](https://osu.ppy.sh/beatmapsets/84023#osu/231825)
-  - [Tamura Yukari feat. motsu from m.o.v.e - You & Me (cRyo[iceeicee]) [Insane](https://osu.ppy.sh/beatmapsets/67093#osu/210078)
+  - [Tamura Yukari feat. motsu from m.o.v.e - You & Me (cRyo\[iceeicee\]) [Insane](https://osu.ppy.sh/beatmapsets/67093#osu/210078)
   - [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) [Insane](https://osu.ppy.sh/beatmapsets/38872#osu/124275)
   - [Itou Kanako - fake me (Science Adventure Dance Remix) (ykcarrot) [Insane](https://osu.ppy.sh/beatmapsets/50322#osu/154727)
 - Hidden

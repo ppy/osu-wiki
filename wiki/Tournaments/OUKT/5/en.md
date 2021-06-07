@@ -79,7 +79,7 @@ OUKT5 was run by various community members
   - [U1 overground - Dopamine (fanzhen0019) [C6H3(OH)2-CH2-CH2-NH2](https://osu.ppy.sh/beatmapsets/210316#osu/494818)
   - [utsuP - MiKUSABBATH (Kuron-kun) [Distorton](https://osu.ppy.sh/beatmapsets/264483#osu/602917)
   - [sakuzyo - AXION (Flower) [Skystar's Expert](https://osu.ppy.sh/beatmapsets/115193#osu/336229)
-  - [Yousei Teikoku - Astral Dogma ([Razakisu]) [Ethereal](https://osu.ppy.sh/beatmapsets/374931#osu/821285)
+  - [Yousei Teikoku - Astral Dogma (\[Razakisu\]) [Ethereal](https://osu.ppy.sh/beatmapsets/374931#osu/821285)
 - Hidden
   - [I see MONSTAS - Holdin' On (Skrillex and Nero Remix) (Blue Dragon) [Hopeless](https://osu.ppy.sh/beatmapsets/286145#osu/646087)
   - [Pierce The Veil - King For A Day (feat Kellin Quinn) (pishifat) [Ex](https://osu.ppy.sh/beatmapsets/297909#osu/684163)
