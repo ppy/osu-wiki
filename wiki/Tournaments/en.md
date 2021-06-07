@@ -513,7 +513,6 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! UK Tournament 4](OUKT/4) | 2015-01-10 | 2015-08-21 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | N/A |
 | [osu! UK Tournament 5](OUKT/5) | 2015-09-12 | 2016-04-23 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [Kakiage](https://osu.ppy.sh/users/3104031) |
 
-
 ## See also
 
 - [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
