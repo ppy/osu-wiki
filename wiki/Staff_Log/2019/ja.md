@@ -26,7 +26,7 @@
 
 ### ビートマップノミネーター 追加
 
-All users listed below were added on 2019-02-16.
+以下の全てのユーザーは、2019-02-16に追加されました。
 
 - [Nevo](https://osu.ppy.sh/users/7451883)
 - [Hanasaka Yui](https://osu.ppy.sh/users/6443117)
