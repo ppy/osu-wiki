@@ -24,7 +24,7 @@ Harap pilih jenis permasalahan yang paling menggambarkan masalah yang kamu hadap
 
 | Jenis permasalahan | Topik-topik yang terlingkup |
 | :-- | :-- |
-| [Akun](/wiki/Help_Centre/Account) | osu!supporter, pembatasan akun (*restriction*), proses *log in*, pergantian nama pengguna, data profil |
+| [Akun](/wiki/Help_Centre/Account) | osu!supporter, pembatasan akun (*restriction*), proses *login*, pergantian nama pengguna, data profil |
 | [Beatmapping dan Editor](/wiki/Help_Centre/Beatmapping) | Pengelolaan beatmap, kepemilikan beatmap, sistem kuota beatmap (*beatmap slots*) |
 | [Klien](/wiki/Help_Centre/Client) | *Bug* dan *crash*, permainan, koneksi, performa |
 | [Instalasi dan registrasi](/wiki/Help_Centre/Installation_and_registration) | Pengunduhan, pembuatan akun |
