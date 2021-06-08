@@ -8,7 +8,7 @@ tags:
 
 **Community Mentorship Program** merupakan sebuah cara bagi mapper pemula untuk ikut terlibat dalam komunitas mapping melalui pendampingan dari mapper atau modder berpengalaman.
 
-Program ini diorganisir melalui Discord dan dikelola dalam siklus musiman. Setiap siklus diumumkan melalui sebuah postingan forum dan siklus diberitahukan melalui laman berita.
+Program ini diorganisasikan melalui Discord dan dikelola dalam siklus musiman. Setiap siklus diumumkan melalui sebuah postingan forum dan siklus diberitahukan melalui laman berita.
 
 <!-- TODO: fill with current mentorship information -->
 
