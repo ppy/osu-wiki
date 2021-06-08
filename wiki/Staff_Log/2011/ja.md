@@ -26,7 +26,7 @@
 
 ## 8月
 
-- Renamed ビートマップ承認チーム to ビートマップアプリーシエイションチーム (2011-08-23) <!-- https://osu.ppy.sh/community/forums/posts/996233 -->
+- ビートマップ承認チームからビートマップアプリーシエイションチームへ名称変更 (2011-08-23) <!-- https://osu.ppy.sh/community/forums/posts/996233 -->
 
 ## 9月
 
