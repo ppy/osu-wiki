@@ -4,6 +4,7 @@ tags:
   - tablet
   - dragging
   - play style
+  - gaya bermain
 ---
 
 # Drag
