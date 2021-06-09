@@ -40,7 +40,7 @@ Bien que cela soit relativement rare, il existe certaines chansons et certains g
 
 ![](/wiki/shared/1_4_m.jpg "Le diviseur 1/4 dans l'éditeur du mode osu!mania")
 
-Le diviseur 1/4 permet de placer les objets sur des *quart de temps*, c'est-à-dire la quatrième fraction d'un temps, et leurs multiples (par exemple 1/4 et 3/4). Il est représenté par des ticks de couleur bleue sur la timeline de l'éditeur.
+Le diviseur 1/4 permet de placer les objets sur des *quarts de temps*, c'est-à-dire la quatrième fraction d'un temps, et leurs multiples (par exemple 1/4 et 3/4). Il est représenté par des ticks de couleur bleue sur la timeline de l'éditeur.
 
 En raison de sa polyvalence, ce diviseur est extrêmement populaire parmi les mappeurs et est fréquemment utilisé dans toutes sortes de beatmaps. C'est également le paramètre par défaut qui est désigné par l'éditeur lors de l'importation d'un nouveau fichier audio.
 
