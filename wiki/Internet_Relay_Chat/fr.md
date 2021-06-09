@@ -8,7 +8,7 @@ Le **Internet Relay Chat** (**IRC**) est un protocole de couche d'application ut
 
 *Remarque : ce serveur ne fournit qu'une implémentation partielle du protocole IRC. Certaines fonctionnalités non basiques de votre client IRC (par exemple [HexChat](https://hexchat.github.io/)) peuvent ne pas fonctionner correctement, ou ne pas fonctionner du tout.*
 
-*osu!Bancho* (parfois abrégé en *Bancho*) offre une passerelle pour l'accès à l'IRC (chat en jeu). Vous pouvez utiliser n'importe quel client IRC moderne pour vous y connecter (faites défiler la liste des clients les plus populaires).
+*osu!Bancho* (parfois abrégé en *Bancho*) offre une passerelle pour l'accès à l'IRC (chat en jeu). Vous pouvez utiliser n'importe quel client IRC moderne pour vous y connecter (voir la liste des clients les plus populaires ci-dessous).
 
 ## Connexion
 
