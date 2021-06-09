@@ -48,7 +48,7 @@ Launch with [this loved osu! map](https://osu.ppy.sh/beatmapsets/1249519) hosted
 
 ---
 
-Even more is ready for mapping from [**II-L**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/172), timing all done in advance! Rhythms may be a bit hard to grasp at first, so be sure to utilize those not-so-common beat snap divisors. You'll need them.
+As per usual, even more songs are ready for mapping from [**II-L**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/172), timing all done in advance! Rhythms may be a bit hard to grasp at first, so expect to utilize those not-so-common beat snap divisors and be yelled at by AiMod.
 
 **II-L**'s talent may be rare to come by, but luckily we've got another super talented artist coming up this Saturday. And yet another next Wednesday. And one more next Saturday. And... uh, you get the idea. Make sure you don't miss anything by watching over the [@osugame Twitter](https://twitter.com/osugame/) and we'll see you soon!
 
