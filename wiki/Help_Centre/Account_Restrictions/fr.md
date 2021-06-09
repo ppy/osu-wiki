@@ -87,7 +87,7 @@ Il y a plusieurs raisons pour lesquelles un appel peut être rejeté.
 - **Vous avez continué à briser les règles tout en étant restreint.** Il n'y a aucune raison de lever la restriction d'une personne qui continue d'enfreindre les règles même après avoir été restreinte. Si vous continuez à commettre des infractions, le cooldown de votre compte sera réinitialisé à votre dernière infraction. Dans le cas d'infractions extrêmes ou continues, votre appel peut être rejeté de façon permanente.
 - **Votre historique est trop chargé.** Dans les cas de joueurs qui manquent aux règles de façon importante, ou de joueurs qui sont à nouveau restreints après avoir été autorisé à rejouer suite à un appel réussi, nous pourrions simplement conclure que votre historique est trop chargé pour rejoindre le jeu à l'heure actuelle. Si cela vous arrive, nous vous recommandons d'attendre **un très long moment** avant de renvoyer un appel, tout en vous assurant de ne pas enfreindre d'autres règles pendant cette période.
 
-## Mes mails sont ignorés / Je ne pense pas que mon appel a été traité de façon juste
+## Mes mails sont ignorés/Je ne pense pas que mon appel a été traité de façon juste
 
 Si vous pensez que vos mails ne sont pas lus ou traités correctement par notre équipe de support, veuillez nous envoyer un mail à [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) contenant les informations suivantes :
 
