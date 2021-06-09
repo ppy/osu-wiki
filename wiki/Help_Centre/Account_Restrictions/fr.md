@@ -1,6 +1,6 @@
 # Restrictions du compte
 
-Une restriction est un bannissement de la communauté appliqué sur les comptes ayant un comportement anormal, suspect ou contraire aux règles.
+Une **restriction de compte** est un bannissement de la communauté appliqué sur les comptes ayant un comportement anormal, suspect ou contraire aux règles.
 
 Lorsqu'un compte est restreint, il ne peut pas intéragir avec la communauté jusqu'à ce que la restriction soit levée.
 Les joueurs restreints peuvent toujours jouer au jeu, télécharger des beatmaps et soumettre des scores, mais leurs profils seront invisibles pour les autres joueurs.
@@ -53,7 +53,7 @@ Vous pouvez envoyer un mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) en incl
 
 Dans votre mail, nous nous attendons aux points suivants :
 
-- **L'historique du compte.** Il n'est pas utile de trop le détailler. elle devrait inclure toutes vos infractions aux principales règles (multi-comptes, partage de compte, triche ou silences majeurs). Vous ne devez pas vous souvenir de toutes les dates, de chaque silence, ou chaque compte que vous avez créé, tant que vous restez honnête sur ce que vous avez fait. Cela inclut les règles que vous avez brisé tout en étant restreint, si c'est le cas.
+- **L'historique du compte.** Il n'est pas utile de trop le détailler. Elle devrait inclure toutes vos infractions aux principales règles (multi-comptes, partage de compte, triche ou silences majeurs). Vous ne devez pas vous souvenir de toutes les dates, de chaque silence, ou chaque compte que vous avez créé, tant que vous restez honnête sur ce que vous avez fait. Cela inclut les règles que vous avez brisé tout en étant restreint, si c'est le cas.
 - **Pourquoi vous avez brisé les règles.** Une explication de ce qui vous a mené à créer de nouveaux comptes, donner votre compte, tricher, ou d'autres infractions, nous (et vous) aidera à déterminer si vous risquez de recommencer ou non. Si vous avez continué à commettre des infractions durant votre restriction, nous aimerions également savoir pourquoi.
 - **Par quel moyen vous l'avez fait.** Cela s'applique pour la triche - nous voulons savoir où vous avez obtenu l'outil que vous avez utilisé, comment vous l'avez trouvé, et s'il est toujours présent sur votre ordinateur ou non.
 - **Pourquoi nous devrions vous faire revenir.** La plupart du temps, ce point s'attache au second. Nous voulons nous assurer que vous ne recommencerez pas ! Comprenez que plus l'historique de votre compte contient de violations des règles, plus nous nous attendrons à ce que cette section de l'appel soit remplie.
@@ -63,7 +63,7 @@ Dans votre mail, nous nous attendons aux points suivants :
 Si nous décidons de vous laisser revenir, nous vous demanderons que vous acceptiez certains termes avant de lever la restriction.
 
 - **Vous ne recommencerez pas.** Cela inclut la triche et le partage de comptes.
-- **Vous ne créerez pas d'autre compte, que ça soit pour vous ou quelqu'un d'autre.**
+- **Vous ne créerez pas d'autre compte, que ça soit pour vous ou pour quelqu'un d'autre.**
 - **Vous ne vous associerez pas avec d'autres comptes.** Cela inclut de jouer sur un ordinateur partagé.
 - **Le moindre mauvais comportement majeur aura pour résultat une restriction immédiate.** Cela inclut les silences majeurs.
 
