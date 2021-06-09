@@ -14,9 +14,7 @@ tags:
 
 # Pusat bantuan
 
-Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen. If your issue is not listed here, or if you are still having problems, send an email to [support@ppy.sh](mailto:support@ppy.sh). Alternatively, consider posting your issue in the [Help forum](https://osu.ppy.sh/community/forums/5), where someone will be able to help you.
-
-Apakah kamu mengalami suatu masalah? Kami siap untuk membantumu! Pada sidebar yang tertera pada sisi kiri layar, kamu dapat melihat daftar masalah-masalah yang umum dihadapi beserta solusinya. Apabila masalahmu tidak tertera pada artikel ini atau semakin menjadi-jadi seiring waktunya, harap hubungi kami melalui email pada alamat [support@ppy.sh](mailto:support@ppy.sh). Di samping itu, kamu juga dapat meminta bantuan kepada para pengguna lainnya melalui [sub-forum Help](https://osu.ppy.sh/community/forums/5).
+Apakah kamu mengalami suatu masalah? Kami siap untuk membantumu! Pada *sidebar* yang tertera pada sisi kiri layar, kamu dapat melihat daftar masalah-masalah yang umum dihadapi beserta solusinya. Apabila masalahmu tidak tertera pada artikel ini atau semakin menjadi-jadi seiring waktunya, harap hubungi kami melalui email pada alamat [support@ppy.sh](mailto:support@ppy.sh). Di samping itu, kamu juga dapat meminta bantuan kepada para pengguna lainnya melalui [sub-forum Help](https://osu.ppy.sh/community/forums/5).
 
 ## Jenis permasalahan
 
@@ -35,7 +33,7 @@ Harap pilih jenis permasalahan yang paling menggambarkan masalah yang kamu hadap
 
 ### Berkas-berkas log
 
-**Berkas-berkas log (*log files*) merupakan kumpulan teks yang berisikan segala rekam jejak aktivitas yang terjadi di dalam klien permainan dari waktu ke waktu. Kami dapat menggunakan berkas-berkas ini untuk mengidentifikasi masalah yang kamu hadapi.**
+**Berkas-berkas log (*log files*) merupakan sekumpulan teks yang berisikan segala rekam jejak aktivitas yang terjadi di dalam klien permainan dari waktu ke waktu. Kami dapat menggunakan berkas-berkas ini untuk mengidentifikasi masalah yang kamu hadapi.**
 
 Walaupun terkesan sepele, berkas-berkas ini dapat sangat membantu kami dalam mencegah dan menuntaskan masalah-masalah yang serupa ke depannya.
 
@@ -71,7 +69,7 @@ Apabila anggota layanan dukungan kami memintamu untuk memberikan berkas-berkas *
 
 **Frame Time Graph merupakan fitur osu! yang memungkinkan kami untuk memperoleh data lebih lanjut seputar masalah-masalah performa yang kamu hadapi.**
 
-Ketika kamu merasa performa klien osu! milikmu menurun, kamu dapat menggunakan Frame Time Graph untuk mendiagnosa dan memberantas masalah yang kamu hadapi..
+Ketika kamu merasa performa klien osu! milikmu menurun, kamu dapat menggunakan Frame Time Graph untuk mendiagnosa dan memberantas masalah yang bersangkutan.
 
 Apabila anggota layanan dukungan kami memintamu untuk memberikan tangkapan layar (*screenshot*) atau video yang mencakup Frame Time Graph di dalamnya, berikut merupakan langkah-langkah yang hendaknya kamu ikuti:
 
