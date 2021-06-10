@@ -80,7 +80,6 @@ The OUKT4 was run by various community members
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 
-
 ## Mappools
 
 ### Finals
