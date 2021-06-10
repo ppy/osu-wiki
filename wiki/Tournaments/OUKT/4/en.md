@@ -8,7 +8,7 @@ tags:
 
 # osu! UK Tournament 4
 
-![OUKT 4 Banner](img/banner.png)
+![OUKT 4 Banner](img/banner.jpg)
 
 ## Introduction
 
