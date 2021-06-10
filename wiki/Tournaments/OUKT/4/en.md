@@ -423,7 +423,7 @@ Sunday, 11 January 2015:
 | -Panda- ![][flag_GB] | 2 | **3** | ![][flag_GB] **N1nYo** | |
 | **DatPenguinTho** ![][flag_GB] | **3** | 1 | ![][flag_GB] Churcheell | |
 | **Ximphia** ![][flag_GB] | **3** | 2 | ![][flag_GB] RedKing | |
-| **Navi** ![][flag_GB] | **1**| 0 | ![][flag_GB] Tsunami Rin | Forfeit |
+| **Navi** ![][flag_GB] | **1** | 0 | ![][flag_GB] Tsunami Rin | Forfeit |
 | \[ YTY \] ![][flag_GB] | 0 | **1** | ![][flag_GB] Dminic | Forfeit |
 | **Run-Cat** ![][flag_GB] | **3** | 0 | ![][flag_GB] DanZqa | |
 | Mahiro Yasaka ![][flag_GB] | 2 | **3** | ![][flag_GB] HabileLawk | |
