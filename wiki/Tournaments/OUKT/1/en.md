@@ -294,6 +294,5 @@ Saturday, 7 December 2013
 - We are looking to complete each round on Saturday. If not possible due to availability, matches can be re arranged for Sunday.
 - In special cases, with the agreement of both players; matches can also be played before this during the week. If you have a strong reason, contact the organizer.
 
-<!-- Assets -->
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
