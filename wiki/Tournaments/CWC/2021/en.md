@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2021 logo](/wiki/shared/news/banners/CWC2021.jpg)
 
-The **osu!catch World Cup 2021** (***CWC 2021***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the tenth installment of the osu!catch World Cup.
+The **osu!catch World Cup 2021** (***CWC 2021***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the tenth installment of the osu!catch World Cup.
 
 ## Tournament schedule
 
