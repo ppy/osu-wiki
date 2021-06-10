@@ -1,6 +1,6 @@
 # Unlock requirements
 
-Index page for all of medals unlock requirements.
+Index page for all medal unlock requirements.
 
 - [Beatmap challenge packs](Beatmap_challenge_packs)
 - [Beatmap packs](Beatmap_packs)
