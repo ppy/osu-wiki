@@ -172,7 +172,7 @@ Di sisi lain, apabila kamu mengganti nama penggunamu dengan cara lain (semisal d
 
 **Ya, namun dengan syarat dan ketentuan tertentu.**
 
-Pada umumnya, riwayat nama-nama pengguna yang pernah kamu gunakan akan dapat terlihat pada laman profil osu! milikmu. Apabila kamu berkeberatan akan hal ini dengan alasan privasi (semisal karena nama aslimu tercantum di salah satunya) ataupun alasan-alasan lainnya, harap hubungi melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Pada umumnya, riwayat nama-nama pengguna yang pernah kamu gunakan akan dapat terlihat pada laman profil osu! milikmu. Apabila kamu berkeberatan akan hal ini dengan alasan privasi (semisal karena nama aslimu tercantum di salah satunya) ataupun alasan-alasan lainnya, harap hubungi kami melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 ## Masalah-masalah lainnya
 
