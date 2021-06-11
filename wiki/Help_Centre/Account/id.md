@@ -98,7 +98,7 @@ Sepengetahuan kami, terdapat beberapa penyedia jasa layanan *proxy server* dan j
 
 **Harap kirimi kami berkas `network.log` milikmu agar kami dapat membantumu lebih lanjut.**
 
-Untuk mengetahui cara memperoleh berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/Help_Centre#Berkas-berkas_log).
+Untuk mengetahui cara memperoleh berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/id/Help_Centre#Berkas-berkas_log).
 
 Kamu juga dapat meminta bantuan kepada pihak penyedia layanan internet (ISP) yang kamu gunakan. Terkadang, beberapa ISP tidak dapat terhubung dengan osu! karena sistem pengantaran paket jaringan (*routing*) mereka yang sedang bermasalah.
 
@@ -114,7 +114,7 @@ Pada umumnya, pesan ini akan hilang dengan sendirinya setelah beberapa menit. Ap
 
 **Periksa apakah terdapat kekeliruan pada alamat email yang terhubung dengan akunmu.**
 
-Apabila kamu dapat mengakses akunmu, kunjungi [laman pengaturan akun berikut](https://osu.ppy.sh/home/account/edit) dan periksa apakah alamat email yang tertera pada kolom `Email` sudah benar adanya. Apabila terdapat kekeliruan, perbaiki kesalahan tersebut dan klik `perbarui` setelahnya.
+Apabila kamu dapat mengakses akunmu, kunjungi [laman pengaturan akun berikut](https://osu.ppy.sh/home/account/edit) dan periksa apakah alamat email yang tertera pada kolom Email sudah benar adanya. Apabila terdapat kekeliruan, perbaiki kesalahan tersebut dan klik `perbarui` setelahnya.
 
 Apabila kamu tidak dapat mengakses akunmu karena satu dan lain hal, atau apabila kamu sudah tidak ingat lagi alamat email yang pertama kali kamu gunakan untuk mendaftarkan akunmu, harap hubungi kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh). Harap sertakan informasi-informasi yang sekiranya dapat kami gunakan untuk memulihkan akunmu, seperti nama penggunamu, *screenshot* yang membuktikan bahwa kamu pernah menggunakan akun yang bersangkutan, bukti-bukti pembelian supporter tag yang kamu miliki, dan lain sebagainya.
 
@@ -202,34 +202,36 @@ Oleh karenanya, sejak awal osu! telah menerapkan peraturan di mana masing-masing
 
 Apabila kamu telah terlanjur memiliki lebih dari satu akun, harap hubungi kami melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-### Is it possible to start over or have my account's statistics wiped?
+### Apakah saya dapat menghapus riwayat akun saya dan memulai kembali segala sesuatunya dari nol?
 
-**Not at the moment.**
+**Tidak untuk saat ini.**
 
-We are considering extra 'score reset' purchases from the osu!store for the truly hardcore players who wish nothing but perfection in their stats, but as it currently stands, we cannot wipe an account's statistics for you.
+Kami tengah mempertimbangkan untuk membuka layanan pemutihan skor (*score reset*) melalui osu!store, namun untuk saat ini kami tidak dapat menghapus riwayat akunmu sepenuhnya.
 
-This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is against the [rules](/wiki/Rules#community-rules), and we will disable any such accounts that are brought to our attention.
+Hal ini bukan berarti kamu dibenarkan untuk membuat akun baru! Sebagaimana yang tertera pada laman [Peraturan](/wiki/id/Rules#Peraturan-komunitas), masing-masing pemain hanya diperkenankan untuk memiliki satu akun tanpa terkecuali.
 
-### Can I delete my account?
+### Apakah saya dapat menghapus akun saya?
 
-*For more information on account deletion, see: [your rights and controls](https://osu.ppy.sh/legal/Privacy#your-rights-and-control).*
+*Untuk informasi lebih lanjut mengenai penghapusan akun, lihat: [Hak dan kendali Anda](https://osu.ppy.sh/legal/id/Privacy#hak-dan-kendali-anda).*
 
-*Caution: Account deletion is permanent, and therefore cannot be undone!*
+*Perhatian: Akun yang sudah terhapus tidak dapat dikembalikan!*
 
-Yes, any user can request for their account to be deleted by sending an email to [privacy@ppy.sh](mailto:privacy@ppy.sh). Keep in mind that deleting your account is **final**, meaning that it cannot be reversed or undone. Deleting your account does not mean you can create a new account, as having multiple accounts is against the [rules](/wiki/Rules#community-rules). This means you will no longer be able to use any of osu!'s online features.
+Ya, kamu dapat menghapus akunmu dengan menghubungi kami melalui alamat email [privacy@ppy.sh](mailto:privacy@ppy.sh). Harap diingat bahwa akun yang telah dihapus **tidak dapat dikembalikan dengan alasan apapun**. Di samping itu, setelah akunmu dihapus, kamu tidak dibenarkan untuk membuat akun baru karena masing-masing pemain hanya diperkenankan untuk memiliki satu akun tanpa terkecuali sesuai dengan [peraturan yang berlaku](/wiki/id/Rules#Peraturan-komunitas).
 
-### Can I play on a computer that another osu! user has used before?
+### Apakah saya dapat bermain osu! pada komputer yang sebelumnya pernah digunakan oleh pengguna lain?
 
-**Yes, absolutely. This includes shared PCs like netcafes or PC bangs.**
+**Ya, tentu saja kamu bisa. Kamu juga dapat bermain osu! di warnet ataupun *game center* sesuka hatimu tanpa harus khawatir.**
 
-**So long as you are playing on only your own account**, you can play osu! anywhere!
+**Selama kamu hanya menggunakan akun milikmu**, kamu bebas untuk bermain osu! di mana saja!
 
-If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software.
+Meskipun demikian, apabila kamu bermain osu! di fasilitas umum, kami sangat menyarankanmu untuk senantiasa berhati-hati akan ancaman dari pihak-pihak yang tidak bertanggung jawab.
 
-### Can I get a list of all maps I've played or downloaded?
+### Apakah saya dapat mengetahui beatmap-beatmap apa saja yang pernah saya unduh dan mainkan?
 
-**You can see all maps you've played on the website.**
+**Kamu dapat melihat daftar beatmap yang pernah kamu mainkan pada situs web osu!.**
 
 **If you have an active supporter tag**, you can see all maps you have submitted a score on by going to the [beatmap list page](https://osu.ppy.sh/beatmapsets), clicking `More Search Options`, then selecting the `Played` filter. Alternatively, you can use [this link](https://osu.ppy.sh/beatmapsets?played=played) to access the filtered page directly.
 
-Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
+**Apabila kamu memiliki supporter tag yang aktif**, kamu dapat mengetahui beatmap-beatmap apa saja yang pernah kamu mainkan pada [laman daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan cara membuka menu `Pilihan Pencarian Lebih Lanjut` dan memilih pilihan `Pernah Dimainkan` yang ada pada kolom Riwayat Permainan. Apabila kamu tidak ingin repot, [klik tautan ini](https://osu.ppy.sh/beatmapsets?played=played).
+
+Sayangnya, kami tidak menyimpan data beatmap-beatmap apa saja yang pernah kamu unduh seiring waktunya. Kamu harus menerka-nerka sendiri beatmap-beatmap apa saja yang sekiranya pernah kamu unduh pada tempo hari.
