@@ -150,15 +150,15 @@ Apabila pemilik dari nama pengguna yang hendak kamu ambil tidak tercatat memilik
 
 Apabila pemilik dari nama pengguna yang hendak kamu ambil **tercatat memiliki riwayat permainan**, maka nama pengguna yang bersangkutan baru akan dapat kamu ambil setelah 6 bulan + jangka waktu tambahan sebagaimana yang ditentukan oleh [formula berikut](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph"). Hal ini ditujukan untuk mencegah terambilnya nama pengguna milik pemain lain yang masih aktif atau baru saja pensiun.
 
-### Is it possible to change my name back or revert to my old username?
+### Apakah saya dapat mengambil kembali nama pengguna saya yang terdahulu?
 
-**Yes, but only under certain circumstances.**
+**Ya, namun dengan syarat dan ketentuan tertentu.**
 
-We grant free reverts for a user's direct previous username. Simply contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and request your name change reverted.
+Kami membuka layanan pengembalian nama pengguna secara cuma-cuma pada alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32).
+Penggantian-penggantian nama lainnya harus dilakukan melalui [laman osu!store berikut](https://osu.ppy.sh/store/products/32) seperti biasa.
 
-We only grant this one time per account, so please consider carefully before requesting!
+Kami hanya akan mengabulkan permintaan pengembalian nama sebanyak satu kali per penggunanya, jadi pastikan sebelumnya kamu telah benar-benar yakin dengan keputusanmu!
 
 ### Nama pengguna yang baru saja saya ambil tiba-tiba dikembalikan seperti sedia kala!
 
