@@ -230,8 +230,6 @@ Meskipun demikian, apabila kamu bermain osu! di fasilitas umum, kami sangat meny
 
 **Kamu dapat melihat daftar beatmap yang pernah kamu mainkan pada situs web osu!.**
 
-**If you have an active supporter tag**, you can see all maps you have submitted a score on by going to the [beatmap list page](https://osu.ppy.sh/beatmapsets), clicking `More Search Options`, then selecting the `Played` filter. Alternatively, you can use [this link](https://osu.ppy.sh/beatmapsets?played=played) to access the filtered page directly.
-
 **Apabila kamu memiliki supporter tag yang aktif**, kamu dapat mengetahui beatmap-beatmap apa saja yang pernah kamu mainkan pada [laman daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan cara membuka menu `Pilihan Pencarian Lebih Lanjut` dan memilih pilihan `Pernah Dimainkan` yang ada pada kolom Riwayat Permainan. Apabila kamu tidak ingin repot, [klik tautan ini](https://osu.ppy.sh/beatmapsets?played=played).
 
 Sayangnya, kami tidak menyimpan data beatmap-beatmap apa saja yang pernah kamu unduh seiring waktunya. Kamu harus menerka-nerka sendiri beatmap-beatmap apa saja yang sekiranya pernah kamu unduh pada tempo hari.
