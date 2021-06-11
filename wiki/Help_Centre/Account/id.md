@@ -23,102 +23,102 @@ tags:
 
 # Akun
 
-*Main page: [Help centre](/wiki/Help_Centre)*
+*Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
 
-Everything related to your osu! account. Read below to find out if there's a suitable solution to your issue.
+Berikut merupakan jawaban atas pertanyaan-pertanyaan yang umum diajukan seputar segala hal yang berhubungan dengan akun osu! milikmu. Harap baca artikel ini dengan seksama untuk mengetahui apakah pertanyaan yang hendak kamu ajukan telah terperinci di dalamnya.
 
 ## Supporter
 
-### I've paid for a supporter tag, but still have not received it!
+### Saya merasa telah membayar sesuai dengan biaya yang ditagihkan, namun supporter tag yang saya pesan belum saya terima!
 
-**Depending on what payment service you used (PayPal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
+**Dalam kasus-kasus tertentu, biro-biro pembayaran *online* (semisal PayPal atau Xsolla) terkadang membutuhkan waktu yang lebih untuk dapat memproses transaksi yang kamu lakukan.**
 
-Usually, these issues resolve themselves within a few hours, and our systems will automatically apply your tag to your account.
+Pada umumnya, transaksi kamu akan terproses secara otomatis dan supporter tag yang kamu pesan akan dapat kamu terima dalam kurun waktu beberapa jam.
 
-If it has been over 24 hours and you still do not have your supporter tag, please email [support@ppy.sh](mailto:support@ppy.sh) and let us know about your problem.
+Apabila kamu belum menerima supporter tag yang kamu pesan setelah 24 jam, harap hubungi kami melalui email pada alamat [support@ppy.sh](mailto:support@ppy.sh).
 
-Make sure to include any receipts that you received during the process (PayPal transaction IDs, Xsolla receipts, etc) - these help us a lot in tracking down what happened to your payment!
+Pastikan kamu melampirkan bukti-bukti pembayaran yang terkait (semisal ID transaksi PayPal atau resi digital Xsolla) dalam email yang hendak kamu kirim - bukti-bukti pembayaran ini akan sangat membantu kami dalam menangani masalahmu!
 
-## Restriction
+## Pembatasan akun (*account restriction*)
 
-### What is "restricted" mode, exactly?
+### Apa yang dimaksud dengan pembatasan akun (*account restriction*) dan “akun yang di-restrict”?
 
-**A person with a restricted account is temporarily or permanently prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
+**Pembatasan akun (*account restriction*) merupakan salah satu bentuk hukuman yang utamanya dijatuhkan kepada para pengguna yang telah melakukan pelanggaran berat terhadap peraturan yang berlaku. Para pengguna yang akunnya di-*restrict* hanya dapat berinteraksi dengan sangat terbatas dengan pengguna-pengguna lainnya, di mana mereka tidak dapat mengobrol, bermain *multiplayer*, ataupun mencetak skor secara *online*.**
 
-If your account has been restricted, you'll likely know why after a brief conversation with the support team.
+Apabila kamu tidak yakin mengapa akunmu di-*restrict*, kamu dapat meminta penjelasan kepada tim layanan dukungan kami. 
 
-In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
+Kamu juga dapat mengajukan banding terhadap status *restricted* yang kamu miliki. Dalam situasi di mana kamu telah terbukti melanggar, kamu harus menunggu setidaknya tiga (3) bulan terhitung dari tanggal pelanggaran terakhir yang kamu buat sebelum banding yang kamu ajukan dapat kami kabulkan.
 
-Refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for more information on account restrictions and the appeal process.
+Harap kunjungi laman *[Pembatasan Akun](/wiki/Help_Centre/Account_Restrictions)* untuk informasi lebih lanjut mengenai sistem pembatasan akun dan proses banding yang berlaku.
 
-## Sign-in
+## Proses *login*
 
-### I've forgotten my username and password!
+### Saya tidak ingat nama pengguna dan kata sandi milik saya!
 
-**Please use [the password recovery page](https://osu.ppy.sh/home/password-reset) to reclaim your account automatically, provided that you still have access to the email you registered with.**
+**Apabila kamu masih memiliki akses ke alamat email yang kamu gunakan untuk mendaftar, harap ikuti instruksi-instruksi yang tertera pada [laman pemulihan kata sandi berikut](https://osu.ppy.sh/home/password-reset) untuk dapat memulihkan akunmu.**
 
-If this does not work for you (or you do not have access to your registration email), please send an email to our [support team](mailto:accounts@ppy.sh) with as much information as you can think of to help us identify you as the owner of your account.
+Apabila kamu sudah tidak lagi dapat mengakses alamat email yang bersangkutan karena satu dan lain hal, harap kirimi [tim layanan dukungan kami](mailto:accounts@ppy.sh) email yang berisikan informasi selengkap-lengkapnya seputar akun yang kamu miliki.
 
-Good information to include in this email would be:
+Berikut merupakan beberapa contoh informasi yang dapat membantu kami dalam memulihkan akunmu:
 
-- The email address that you registered the account on, or any other email the account has been associated with since
-- Any receipts for purchased osu!supporter tags or other items from the osu!store
-- The last date you can remember being able to access your account normally
-- Any other identifying information that you think could be helpful (excluding scores or replays, those do not help us very much!)
+- Alamat email yang kamu pertama kali gunakan untuk mendaftarkan akunmu (serta alamat-alamat email lainnya yang berhubungan)
+- Bukti-bukti pembelian osu!supporter tag (atau barang-barang lainnya dari osu!store) yang kamu miliki
+- Tanggal terakhir kamu mengakses akunmu
+- Informasi-informasi lainnya yang kamu rasa dapat membantu (kecuali skor dan *replay*)
 
-### My account has been stolen!
+### Akun saya telah dicuri oleh pihak lain!
 
-**Try using [the password recovery page](https://osu.ppy.sh/home/password-reset) to see if your account's email is still valid.**
+**Harap periksa apakah kamu mampu untuk mengatur ulang kata sandi milikmu melalui [laman pemulihan kata sandi berikut](https://osu.ppy.sh/home/password-reset).**
 
-If this succeeds, you will be able to reset your own password without the assistance of the support staff.
+Apabila kamu mampu, ikuti instruksi-instruksi yang tertera pada laman yang bersangkutan untuk dapat memulihkan akunmu sepenuhnya.
 
-If this does not work for you, please send us a support ticket immediately to [accounts@ppy.sh](mailto:accounts@ppy.sh) with as much identifying information as possible that will help us identify you as the owner of your account.
+Sebaliknya, apabila kamu tidak mampu, harap segera hubungi layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan menerakan informasi selengkap-lengkapnya seputar akun yang kamu miliki.
 
-Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
+Kami sangat menyarankan kamu untuk menghubungi kami melalui alamat email yang kamu pertama kali gunakan untuk mendaftarkan akunmu. Di samping itu, kami juga akan sangat terbantu apabila kamu dapat menyertakan informasi seputar hal-hal yang sekiranya hanya dapat diketahui olehmu dan tim kami.
 
-Please do not include replay or score data in your ticket - we cannot use this to verify your ownership of the account.
+Harap untuk tidak menyertakan informasi seputar skor-skor dan *replay-replay* yang pernah kamu torehkan - informasi-informasi demikian pada umumnya sangat rawan dipalsukan dan tidak dapat kami gunakan sebagai bukti yang kuat untuk memulihkan akunmu.
 
-### What is this 'Bancho authentication error' I keep receiving?
+### Mengapa saya terus-menerus mendapatkan pesan 'Bancho authentication error'?
 
-**This typically happens when there are network issues between you and our servers.**
+**Pesan tersebut pada umumnya muncul akibat terdapatnya suatu masalah jaringan yang membuat klien osu! milikmu tidak dapat terhubung ke server yang kami miliki.**
 
-There are a few things you can try to resolve this issue:
+Terdapat beberapa hal yang dapat kamu coba untuk menyelesaikan masalah ini:
 
-#### Have you entered your password correctly?
+#### Apakah kamu sudah mengetikkan kata sandi milikmu dengan benar?
 
-If you've forgotten what your password is, you can use the [password recovery page](https://osu.ppy.sh/home/password-reset) to recover access to your account.
+Apabila kamu melupakan kata sandimu, kamu dapat mengatur kata sandi baru pada [laman pemulihan kata sandi berikut](https://osu.ppy.sh/home/password-reset).
 
-#### Are you using any proxy servers or VPNs?
+#### Apakah kamu sedang berada di dalam suatu *proxy server* atau jaringan VPN?
 
-**Disabling these before attempting to connect again will likely fix your issue.**
+**Cobalah untuk keluar dari *proxy server* atau jaringan VPN yang sedang kamu gunakan.**
 
-Some VPN providers and proxy servers simply do not work with osu! for whatever reason.
+Sepengetahuan kami, terdapat beberapa penyedia jasa layanan *proxy server* dan jaringan VPN yang koneksinya tidak kompatibel dengan osu! karena satu dan lain hal.
 
-### I'm still getting the error!
+### Saya telah mencoba solusi-solusi di atas, namun saya masih mendapatkan pesan error yang sama!
 
-**We'll need a `network.log` file from you to figure out what's going on if neither of the above solutions work.**
+**Harap kirimi kami berkas `network.log` milikmu agar kami dapat membantumu lebih lanjut.**
 
-For information on how to get a network.log file to send to us, see [log files](/wiki/Help_Centre#log_files).
+Untuk mengetahui cara memperoleh berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/Help_Centre#Berkas-berkas_log).
 
-Rarely, you might need to contact your Internet Service Provider (ISP) to inquire about these problems. Certain ISPs have historically had issues connecting to osu!, usually due to poor routing.
+Kamu juga dapat meminta bantuan kepada pihak penyedia layanan internet (ISP) yang kamu gunakan. Terkadang, beberapa ISP tidak dapat terhubung dengan osu! karena sistem pengantaran paket jaringan (*routing*) mereka yang sedang bermasalah.
 
-### The website is telling me that I have tried to sign in too many times!
+### Saya mendapatkan pesan dari situs web osu! yang memperingatkan bahwa saya telah terlalu banyak melakukan percobaan *login* yang tidak valid!
 
-**This is a temporary protection measure after repeated failures to access your account. Try signing in again after 10-20 minutes.**
+**Jangan panik. Hal ini merupakan tindakan preventif yang kami ambil untuk menghindari hal-hal yang tidak diinginkan. Cobalah untuk *login* kembali setelah 10-20 menit.**
 
-If this happens to you, simply wait for a while and try to sign in a little later.
+Apabila kamu menemui pesan ini, harap bersabar sebelum kamu mencoba untuk *login* kembali.
 
-A couple of hours, at the absolute maximum, will clear the status for most people and allow them to sign in again.
+Pada umumnya, pesan ini akan hilang dengan sendirinya setelah beberapa menit. Apabila kamu masih ragu, kamu dapat menunggu hingga setidaknya satu atau dua jam untuk lebih yakinnya.
 
-### I'm not receiving any emails from osu!/I forgot my email address!
+### Saya tidak menerima email apapun dari osu!/Saya tidak ingat alamat email saya!
 
-**There might be an issue with your account's current email address.**
+**Periksa apakah terdapat kekeliruan pada alamat email yang terhubung dengan akunmu.**
 
-If you remember your account's attached email address, or think you do, try visiting the Email section in [account settings](https://osu.ppy.sh/home/account/edit) page to change your email address. Fill out the necessary fields and click `Update` when you're done.
+Apabila kamu dapat mengakses akunmu, kunjungi [laman pengaturan akun berikut](https://osu.ppy.sh/home/account/edit) dan periksa apakah alamat email yang tertera pada kolom `Email` sudah benar adanya. Apabila terdapat kekeliruan, perbaiki kesalahan tersebut dan klik `perbarui` setelahnya.
 
-If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you signed in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
+Apabila kamu tidak dapat mengakses akunmu karena satu dan lain hal, atau apabila kamu sudah tidak ingat lagi alamat email yang pertama kali kamu gunakan untuk mendaftarkan akunmu, harap hubungi kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh). Harap sertakan informasi-informasi yang sekiranya dapat kami gunakan untuk memulihkan akunmu, seperti nama penggunamu, *screenshot* yang membuktikan bahwa kamu pernah menggunakan akun yang bersangkutan, bukti-bukti pembelian supporter tag yang kamu miliki, dan lain sebagainya.
 
-Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by email and we'll change your email address for you:
+Di samping itu, berdasarkan pengalaman kami, terdapat layanan-layanan penyedia email tertentu yang tidak dapat menerima email dari osu! karena satu dan lain hal. Apabila kamu menggunakan alamat email yang berasal dari salah satu layanan penyedia email berikut, harap hubungi kami dengan menggunakan alamat email yang berbeda dan kami akan mengatur ulang alamat email akunmu setelahnya:
 
 - `att.net`
 - `bellsouth.net`
@@ -128,27 +128,27 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 - `sbcglobal.net`
 - `t-online.de`
 
-## Name Changes
+## Penggantian nama
 
-### Can I change my account's username?
+### Apakah saya dapat mengganti nama pengguna yang saya miliki?
 
-**Yes, absolutely!**
+**Tentu saja kamu bisa!**
 
-If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be able to change your username **once** for free. This username change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32) page.
+Apabila sebelumnya kamu pernah memiliki [supporter tag](https://osu.ppy.sh/home/support), kamu memiliki **satu kesempatan** untuk dapat mengubah nama penggunamu secara cuma-cuma melalui [laman osu!store berikut](https://osu.ppy.sh/store/products/32).
 
-At any point thereafter, you may purchase a [username change](https://osu.ppy.sh/store/products/32) to change your username to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
+Apabila setelahnya kamu ingin [kembali mengganti nama penggunamu](https://osu.ppy.sh/store/products/32), kamu harus membayar sejumlah uang yang jumlahnya semakin meningkat seiring waktu mulai dari $8 USD untuk penggantian nama kedua, $16 USD untuk penggantian nama ketiga, dan seterusnya hingga maksimal $100 USD. Skema ini sendiri kami terapkan untuk mencegah terdapatnya pihak-pihak yang menyalahgunakan layanan penggantian nama ini dengan itikad yang tidak baik.
 
-Please note that usernames must abide by our [Community Rules](/wiki/Rules) in that they must not be broadly offensive to other users, overly provocative or otherwise inflammatory in any way. In addition, usernames that impersonate or assume the identity of major public figures (such as celebrities, politicians, etc.) are not allowed and will be forcefully reverted once we find out about them.
+Harap diingat bahwa nama pengguna yang hendak kamu pilih harus sesuai dengan [Peraturan Komunitas](/wiki/Rules) yang berlaku, di mana nama tersebut tidak boleh mengandung unsur-unsur yang ofensif, provokatif, ataupun menghina dari segi apapun. Di samping itu, kami juga tidak membenarkan penggunaan nama yang ditujukan untuk meniru tokoh-tokoh masyarakat (baik itu artis, politisi, ataupun yang lainnya); apabila kamu tidak patuh, kami berhak untuk mengembalikan nama penggunamu seperti sedia kala.
 
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
+Apabila kamu hanya ingin mengoreksi hal-hal seperti penggunaan huruf besar/kecil atau salah ketik (*typo*) yang ada, kamu dapat menghubungi kami melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh). Proses koreksi ini tidak dipungut biaya, namun kamu **HARUS** menghubungi kami melalui email. Seperti biasa, harap untuk tidak menggunakan layanan ini secara berlebihan!
 
-### Can I take another player's username?
+### Apakah saya dapat mengambil nama pengguna yang sebelumnya telah dipakai oleh pengguna lain?
 
-**Yes, but only under certain circumstances.**
+**Ya, namun dengan syarat dan ketentuan tertentu.**
 
-If a player has not signed in for at least 6 months and has no plays, their username may be claimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for the standard fee associated with username changes.
+Apabila pemilik dari nama pengguna yang hendak kamu ambil tidak tercatat memiliki riwayat permainan apapun dan tidak pernah melakukan *login* dalam kurun waktu setidaknya 6 bulan ke belakang, maka kamu dapat mengambil nama pengguna yang bersangkutan melalui [laman penggantian nama pengguna](https://osu.ppy.sh/store/products/32) seperti biasa.
 
-If that player **does** have any plays across all game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph") is used to calculate how much extra time is added to those 6 months. This is to prevent people from stealing the usernames of active or recently retired players.
+Apabila pemilik dari nama pengguna yang hendak kamu ambil **tercatat memiliki riwayat permainan**, maka nama pengguna yang bersangkutan baru akan dapat kamu ambil setelah 6 bulan + jangka waktu tambahan sebagaimana yang ditentukan oleh [formula berikut](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph"). Hal ini ditujukan untuk mencegah terambilnya nama pengguna milik pemain lain yang masih aktif atau baru saja pensiun.
 
 ### Is it possible to change my name back or revert to my old username?
 
@@ -160,47 +160,47 @@ Changes to any other previous names must be [purchased via the store](https://os
 
 We only grant this one time per account, so please consider carefully before requesting!
 
-### My username has been changed back/reverted!
+### Nama pengguna yang baru saja saya ambil tiba-tiba dikembalikan seperti sedia kala!
 
-**We only force username reverts for usernames we deem inappropriate or abusive.**
+**Kami hanya mengembalikan nama-nama pengguna yang kami anggap tidak pantas.**
 
-If you find your recent name change has been undone, it may be because the username you changed to was abusive, inappropriate, or considered offensive. We will not perform the change again even if requested, but if you purchased it at the osu!store, we will offer a free change to replace it.
+Apabila nama penggunamu tiba-tiba dikembalikan seperti sedia kala, besar kemungkinan nama pengguna yang kamu gunakan mengandung unsur-unsur yang kami anggap ofensif, provokatif, atau jatuh ke ranah penghinaan. Apabila kamu mengganti nama penggunamu dengan membeli produk yang bersangkutan di osu!store, tim layanan dukungan kami akan memberikanmu kesempatan untuk memilih nama pengguna baru yang lebih pantas.
 
-If the change was done with the free change that comes with a supporter tag, we cannot offer to change it again.
+Di sisi lain, apabila kamu mengganti nama penggunamu dengan cara lain (semisal dengan memanfaatkan bonus yang kamu dapat ketika kamu membeli supporter tag), tim layanan dukungan kami tidak akan memberikanmu kesempatan untuk memilih nama pengguna baru.
 
-### Can I remove my previous usernames/delete username history?
+### Apakah saya dapat meminta agar laman profil osu! saya tidak menampilkan nama-nama pengguna yang pernah saya gunakan sebelumnya?
 
-**Under certain circumstances.**
+**Ya, namun dengan syarat dan ketentuan tertentu.**
 
-Your profile will show all your previous purchased name changes, but we only selectively remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact [accounts@ppy.sh](mailto:accounts@ppy.sh) to request it removed.
+Pada umumnya, riwayat nama-nama pengguna yang pernah kamu gunakan akan dapat terlihat pada laman profil osu! milikmu. Apabila kamu berkeberatan akan hal ini dengan alasan privasi (semisal karena nama aslimu tercantum di salah satunya) ataupun alasan-alasan lainnya, harap hubungi melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-## Other issues
+## Masalah-masalah lainnya
 
-### The flag on my account profile is wrong!
+### Bendera yang tertera pada laman profil osu! saya tidak benar!
 
-**We can change this for you, but only if you are actively living in the country that you wish to change to.**
+**Kami dapat mengubah benderamu dari satu negara ke negara lain, namun hanya apabila kamu dapat menunjukkan kepada kami bukti-bukti kependudukan atau kewarganegaraan yang diisukan oleh negara yang bersangkutan.**
 
-We determine your country as shown on your profile page from the area in which you first registered your account from.
+Pada saat kamu pertama kali membuat akun, sistem kami akan secara otomatis memasangkan bendera yang sesuai dengan lokasi pendaftaranmu pada akun milikmu.
 
-If you create an account while on holiday in the United States, your account will show as belonging to the US - you'll even appear on the country rankings for the US too.
+Sebagai contoh, apabila kamu menbuat akunmu pada saat kamu sedang berlibur di Amerika Serikat, akunmu akan memiliki bendera Amerika Serikat dan kamu juga akan terdaftar pada peringkat negara (*country ranking*) Amerika Serikat.
 
-The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.**
+Apabila kamu ingin mengubah bendera yang tertera pada laman profil osu! milikmu, **harap hubungi tim layanan dukungan kami**.
 
-To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
+Tim kami akan memintamu untuk menunjukkan dokumen-dokumen kependudukan atau kewarganegaraan milikmu sebagai bukti - entah itu paspor, SIM, KTP, ataupun dokumen-dokumen lainnya yang memiliki kekuatan hukum serupa. Harap kirimkan dokumen-dokumen tersebut dalam bentuk foto yang di dalamnya turut menyertakan gambar klien osu! yang tengah terhubung masuk dengan akun milikmu.
 
-We will never display this information to anyone else, and we encourage you to blank out any personal information (while still allowing us to determine which country the document is for!) if you are concerned about your privacy.
+Kami tidak akan membocorkan informasi-informasi ini kepada pihak lain, dan kami sangat menyarankan agar kamu dapat terlebih dahulu menyensor informasi-informasi yang bersifat pribadi (seperti nama, tanggal lahir, dan lain sebagainya) sebelum kamu mengirimkan foto yang bersangkutan kepada kami.
 
-### Can I make more than one account?
+### Apakah saya dapat memiliki lebih dari satu akun?
 
-**Unfortunately, no, you cannot.**
+**Mohon maaf, namun kamu tidak dibenarkan untuk memiliki lebih dari satu akun.**
 
-If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless!
+Apabila kami memperbolehkan para pemain untuk dapat membuat akun sebanyak-banyaknya, maka sistem papan peringkat (*leaderboard*) yang kami miliki akan menjadi tidak berarti!
 
-Other games encounter this issue a lot with what is commonly known as "smurfs" - accounts with low playtimes and totals that inflate the rankings and prevent other users from playing competitively.
+Dalam dunia *gaming*, praktek demikian dikenal dengan istilah “*smurfing*” - situasi di mana para pemain yang berpengalaman dengan sengaja membuat akun-akun baru dan berpura-pura menjadi pemain yang masih polos untuk memperoleh keuntungan-keuntungan tertentu.
 
-In osu!, we are very much against users having multiple accounts, and we enforce a strict rule of only one account per person, ever. You get to play on the first account you ever registered with us, and that's it!
+Oleh karenanya, sejak awal osu! telah menerapkan peraturan di mana masing-masing pengguna hanya dapat memiliki satu akun tanpa terkecuali. Akun yang pertama kali kamu daftarkan adalah akunmu satu-satunya!
 
-If you currently have more than one account, please contact [accounts@ppy.sh](mailto:accounts@ppy.sh) to get things sorted out.
+Apabila kamu telah terlanjur memiliki lebih dari satu akun, harap hubungi kami melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 ### Is it possible to start over or have my account's statistics wiped?
 
