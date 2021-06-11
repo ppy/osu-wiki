@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2021 logo](/wiki/shared/news/banners/CWC2021.jpg)
 
-The **osu!catch World Cup 2021** (***CWC 2021***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the tenth installment of the osu!catch World Cup.
+The **osu!catch World Cup 2021** (***CWC 2021***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the tenth installment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -31,9 +31,11 @@ The **osu!catch World Cup 2021** (***CWC 2021***) is a country-based osu!catch t
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
+![](img/badge.png "CWC 2021 winner badge") ![](img/badge2.png "CWC 2021 2nd place badge") ![](img/badge3.png "CWC 2021 3rd place badge")
+
 ## Organisation
 
-The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu!catch World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -88,18 +90,7 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Zak](https://osu.ppy.sh/users/1375955), [Kisetsunotori](https://osu.ppy.sh/users/3692648), [Colin](https://osu.ppy.sh/users/5502521), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Lexii](https://osu.ppy.sh/users/7226149) |
 | ![][flag_VN] | **Vietnam** | **[Cac](https://osu.ppy.sh/users/4744615)**, [Hana Yukiko](https://osu.ppy.sh/users/4964095), [mothernature](https://osu.ppy.sh/users/6403418), [Stardust Prism](https://osu.ppy.sh/users/8525921), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [Huytimeclock](https://osu.ppy.sh/users/10920086) |
 
-## Match schedule: Grand Finals
-
-### Sunday, 6 June 2021
-
-| Team A | Team B | Match time | Local time A | Local time B |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| Hong Kong ![][flag_HK] | ![][flag_US] United States | **12:00 UTC** | 20:00 UTC+08 | 08:00 UTC-04 | ¹ |
-| South Korea ![][flag_KR] | ![][flag_HK] Hong Kong | **14:00 UTC** | 23:00 UTC+09 | 22:00 UTC+08 | ² |
-| South Korea ![][flag_KR] | ![][flag_US] United States | **14:00 UTC** | 23:00 UTC+09 | 10:00 UTC-04 | ² |
-
-¹ 3rd place encounter\
-² Encounter dependent on results of ¹3rd place encounter
+![CWC 2021 podium](img/podium.jpg)
 
 ## Mappools
 
@@ -244,6 +235,15 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
   - **[Muzzy - Spectrum (Greaper) \[Refraction\]](https://osu.ppy.sh/beatmapsets/1442175#fruits/2966667)**
 
 ## Match results
+
+### Grand Finals
+
+Sunday, 6 June 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Hong Kong** ![][flag_HK] | **7** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/85043526) |
+| **South Korea** ![][flag_KR] | **7** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/85048985) |
 
 ### Finals
 
