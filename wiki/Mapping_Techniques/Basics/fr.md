@@ -2,7 +2,7 @@
 
 ## Flow de battement commun
 
-Lorsque vous commencez à utiliser une beatmap, il est bon de commencer par mappé le rythme de la musique (ou de la voix).
+Lorsque vous commencez à créer une beatmap, il est bon de commencer par mapper le rythme de la musique (ou de la voix).
 Vous devrez déterminer ce qui sera le mieux pour le joueur, car suivre l'un ou l'autre peut aider ou nuire à l'expérience d'une beatmap.
 
 ## Symétrie
@@ -39,12 +39,12 @@ Parfois ça marche, parfois non.
 
 00:20:455 (1,2,3) est l'un des exemples les plus réussis de symétrie modifiée.
 Il utilise l'échelle par caractéristique afin de faire de (3) une version plus courte de (1).
-C'est un succès parce que c'est réellement perceptible.
+Cette tentative est réussie parce que c'est réellement perceptible.
 Certaines personnes aiment cela, d'autres non, alors c'est à vous de voir.
 
 01:08:455 (3,4,5,6,7) est une tentative ratée de symétrie modifiée.
 Ici, le slider gauche fait partie du slider droit, avec (6) qui tente de "compléter" le slider gauche.
-Pour faire simple, il a échoué parce que peu de gens l'ont remarqué ; beaucoup de moddeurs ont pensé que le mappeur faisait du freestyle ici.
+Pour faire simple, cette tentative est ratée parce que peu de gens l'ont remarqué ; beaucoup de moddeurs ont pensé que le mappeur faisait du freestyle ici.
 
 ### Autres exemples
 
@@ -53,7 +53,7 @@ Toutefois, si vous voulez examiner d'autres maps, celles de Krisom sont considé
 
 ## Jumps
 
-Le saut est une technique de mapping avancée qui consiste à placer deux objets plus loin l'un de l'autre que ne le permet le multiplicateur de distance standard.
+Les jumps sont une technique de mapping avancée qui consiste à placer deux objets plus loin l'un de l'autre que ne le permet le multiplicateur de distance standard.
 Cela se fait généralement en modifiant temporairement le multiplicateur distance snap à distance ou en désactivant temporairement le distance snap à distance.
 
 Les jumps sont généralement utilisés pour représenter l'accentuation de la musique.
@@ -65,7 +65,7 @@ Ils sont également utilisés occasionnellement dans les difficultés Easy et No
 ### Utilisation abusive des jumps
 
 Une erreur fréquente des nouveaux mappeurs est qu'ils voient les jumps utilisés dans les difficultés Insane d'autres mappeurs, et qu'ils vont alors introduire des jumps dans leur map sans savoir comment les utiliser correctement, ce qui crée souvent un désordre.
-Si vous voulez utiliser un saut, posez-vous une simple question : "Y a-t-il quelque chose dans la musique ou le rythme qui suggère un saut ici ?"
+Si vous voulez utiliser les jumps, posez-vous une simple question : "Y a-t-il quelque chose dans la musique ou le rythme qui suggère des jumps ici ?"
 
 Il est recommandé de rester à l'écart des jumps "au feeling" jusqu'à ce que vous ayez plus d'expérience dans le mapping et que vous compreniez quand les utiliser correctement.
 Oui, un mappeur expérimenté utilisant des jumps "au feeling" peut réaliser une map absolument géniale.
