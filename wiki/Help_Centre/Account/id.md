@@ -128,7 +128,7 @@ Di samping itu, berdasarkan pengalaman kami, terdapat layanan-layanan penyedia e
 - `sbcglobal.net`
 - `t-online.de`
 
-## Penggantian nama
+## Penggantian nama pengguna
 
 ### Apakah saya dapat mengganti nama pengguna yang saya miliki?
 
