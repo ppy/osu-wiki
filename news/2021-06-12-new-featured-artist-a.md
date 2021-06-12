@@ -27,7 +27,7 @@ Hungering for a taste? **A?**'s 1/4 and 1/6-filled song [*Arrogation*](https://o
 Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1311422) by [OneShotFox](https://osu.ppy.sh/users/8840398) and [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1291023) by [ZTH](https://osu.ppy.sh/users/5258461)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/173/Songs/A%20-%20Arrogation.mp3" type="audio/mpeg">
 </audio>
 
 ### ENERGY INFLATION
@@ -35,19 +35,19 @@ Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1311422) by [OneShotFox
 See how **A?** interprets their own song through [their own osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1315661)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/173/Songs/A%20-%20ENERGY%20INFLATION.mp3" type="audio/mpeg">
 </audio>
 
 ### ice cream
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/173/Songs/A%20-%20ice%20cream.mp3" type="audio/mpeg">
 </audio>
 
 ### cexiria & A? - CounterMeasure
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/173/Songs/cexiria%20%26%20A%20-%20CounterMeasure.mp3" type="audio/mpeg">
 </audio>
 
 ---
