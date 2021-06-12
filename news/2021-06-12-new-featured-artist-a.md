@@ -8,7 +8,7 @@ date: 2021-06-12 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/173/header.jpg)
 
-"Wouldn't it be cool to play an osu! map of my own music?" is a question surely every player has considered at some point. Few people actually go the extra mile to make it happen though, one example being J-core/breakcore producer **A?**, or [A__](https://osu.ppy.sh/users/12011880) on osu!.
+"Wouldn't it be cool to play an osu! map of my own music?" is a question surely every player has considered at some point. Few people actually go the extra mile to make it happen though, one example being J-core/breakcore producer **A?**, also known as Aquestion or [A__](https://osu.ppy.sh/users/12011880) on osu!.
 
 Putting their osu!taiko experience to the test, **A?** grew a name for themselves through a vast collection of remixes that eventually expanded into the realm of original works. Each of their songs packs both insane energy and complex rhythms that likely come naturally to someone well versed in rhythm games.
 
