@@ -10,7 +10,7 @@ tags:
 
 ## Introduction
 
-The **osu! UK tournament 5** (***OUKT5***) was a ![][flag_GB] United Kingdom mixed elimination 1v1 osu!standard tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 5th and final iteration of the **osu! UK Tournament** (***OUKT***) series, it was succeeded by the UK Community Cup (UKCC).
+The **osu! UK tournament 5** (***OUKT5***) was a ![][flag_GB] United Kingdom mixed elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 5th and final iteration of the **osu! UK Tournament** (***OUKT***) series, it was succeeded by the UK Community Cup (UKCC).
 
 ## Tournament Schedule
 

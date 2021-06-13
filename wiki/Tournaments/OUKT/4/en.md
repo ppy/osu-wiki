@@ -12,7 +12,7 @@ tags:
 
 ## Introduction
 
-The **osu! UK tournament 4** (***OUKT4***) was n ![][flag_GB] United Kingdom single elimination 1v1 osu!standard tournament hosted by ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) and Co-Hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 4th iteration of the **osu! UK Tournament** (***OUKT***) series.
+The **osu! UK tournament 4** (***OUKT4***) was n ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) and Co-Hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 4th iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament Schedule
 
@@ -507,7 +507,7 @@ Sunday, 18 January 2015:
 - The referee shall make the game and give it a appropriate title. First pick shall be decided by `!roll`, the highest roll wins. The pick order then will alternate back and forth between both players until one player wins.
 - The game mode will be set to Team Vs.
 - The referee is not to participate in the actual playing of the beatmaps.
-- Warm-ups can be any submitted osu!standard map, as long as its under 5 mins.
+- Warm-ups can be any submitted osu! map, as long as its under 5 mins.
 - Players PM the referee with the beatmap they are picking from the map pool.
 - After the end of the match, the referee will post the title of the match and a link to the MP history of that lobby and the final match score.
 - Matches will be locked and invite only.
