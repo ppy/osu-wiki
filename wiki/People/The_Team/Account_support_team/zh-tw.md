@@ -42,4 +42,4 @@
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 - [資料請求](/wiki/Legal/Privacy#data-controller)及隱私疑慮。
-- **永久**[帳號刪除請求](/wiki/Legal/Privacy#your-rights-and-control) (僅限在 [GDPR](https://zh.wikipedia.org/wiki/%E6%AD%90%E7%9B%9F%E4%B8%80%E8%88%AC%E8%B3%87%E6%96%99%E4%BF%9D%E8%AD%B7%E8%A6%8F%E7%AF%84 "維基百科") 管轄範圍內的歐盟居民可申請)。
+- **永久**[帳號刪除請求](/wiki/Legal/Privacy#your-rights-and-control)。
