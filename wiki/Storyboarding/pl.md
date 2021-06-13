@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 0cf0d69bb66378ba1f9f000956c30bc61b92a609
+---
+
 # Tworzenie scenorysu
 
 ## Jak stworzyć scenorys?

@@ -54,7 +54,6 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalí, algo de árabe | Evaluación, estructural, moderación, comunicación |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluación |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Alemán | Evaluación |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estructural, comunicación |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluación, estructural, comunicación |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estructural |
@@ -83,6 +82,7 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Alemán, polaco | Evaluación |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, francés | Evaluación |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluación |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasil"

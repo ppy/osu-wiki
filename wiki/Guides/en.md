@@ -14,7 +14,6 @@ Below is a sorted list of guides created by members of the osu!community; most o
 - [Compressing Files](Compressing_Files)
 - [Custom Hitsound Library](Custom_Hitsound_Library)
 - [Custom Sample Overrides](Custom_Sample_Overrides)
-- [Getting Songs From Video Games](Getting_Songs_From_Video_Games)
 - [How to Time Songs](How_to_Time_Songs)
 - [Music Theory](Music_Theory)
 - [osu!mania Mapping Guide](osu!mania_Mapping_Guide)

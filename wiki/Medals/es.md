@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Logros
 
 Los **Logros** ***(Achievements)*** son pequeñas insignias en el perfil de alguien que indican que alguien ha llevado a cabo un objetivo excepcional. Actualmente, están divididos en 5 grupos.
@@ -50,7 +51,7 @@ Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 
 ## Combo
 
-Los Logros de **Combo** Se puede obtener al adquirir un determinado [Combo](/wiki/Glossary) en el modo osu! Standard y se puede completar con cualquier canción.
+Los Logros de **Combo** Se puede obtener al adquirir un determinado [Combo](/wiki/Beatmapping/Combo) en el modo osu! Standard y se puede completar con cualquier canción.
 Lograr el mismo combo en Taiko, Catch the Beat u osu!mania NO es valido para conseguir el logro.
 
 Para el logro de 1,000 y 2,000 combo, Debe ser un beatmap en estado "Aprobado". No busque beatmaps sin Aprobar o de otra forma no podra conseguir el logro.

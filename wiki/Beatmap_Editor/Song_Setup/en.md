@@ -10,7 +10,7 @@ Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). 
 
 ![A completed Song Setup form](img/SS_General.jpg "An example of complete metadata (General tab) in Song Setup")
 
-These fields should be completed before creating a second difficulty. This is primarily to ensure that the metadata will be consistent across all difficulties in the beatmapset.
+These fields should be completed before creating a second difficulty. This is primarily to ensure that the metadata will be consistent across all difficulties in the beatmap.
 
 Input for artist, title, and source fields should be sourced from the song's [primary metadata source](/wiki/Beatmap/Primary_metadata_source).
 
@@ -80,7 +80,7 @@ The common notation to represent a difficulty setting and its value is the setti
 
 HP Drain Rate, commonly abbreviated as HP, determines the rate of health recovery from good hit scores and health punishment from bad hit scores. The value ranges from 0 to 10; higher HP values will give lower health recovery with higher health punishment.
 
-In osu! and osu!catch, this also affects the [Passive HP](/wiki/Glossary#life-bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Glossary#break).
+In osu! and osu!catch, this also affects the [Passive HP](/wiki/Glossary/Health_bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Beatmap/Break).
 
 *Note: More HP is recovered with [Geki and Katu](/wiki/Score#osu!) hit scores, which can be given from the last hit object in a combo.*
 

@@ -32,7 +32,7 @@ tags:
 
 The **Easy** mod is a [game modifier](/wiki/Game_modifier) that attempts to ease the difficulty of a [beatmap](/wiki/Beatmap). It sets out to do this by halving all of the difficulty settings of a selected beatmap.
 
-In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod will grant the player two additional "lives" during a play if the [life bar](/wiki/Glossary#life-bar) drops to zero. In the case that this does happen, the game will pause to slowly refill the life bar to about 80% and remove one "life" from the player's life count. No sound will be played during this effect.
+In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod will grant the player two additional "lives" during a play if the [life bar](/wiki/Glossary/Health_bar) drops to zero. In the case that this does happen, the game will pause to slowly refill the life bar to about 80% and remove one "life" from the player's life count. No sound will be played during this effect.
 
 This refill event will be signaled to the player with the ready sound (`readysound.wav`). Once the life bar has been finished being refilled, the player will be signaled again but with the go sound (`gosound.wav`). After which the beatmap will then resume play and let the player continue. If the player has no remaining lives and the life bar has dropped to zero, the play will fail like normal.
 
@@ -40,15 +40,15 @@ This refill event will be signaled to the player with the ready sound (`readysou
 
 In [osu!](wiki/Game_Modes/osu!), the Easy mod decreases [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) by half.
 
-![EZ gameplay osu!](EZ-comparison-osu.jpg "Comparison between a regular play (left) vs a play with the Easy mod enabled (right) in osu!")
+![EZ gameplay osu!](img/EZ-comparison-osu.jpg "Comparison between a regular play (left) vs a play with the Easy mod enabled (right) in osu!")
 
-Although, it is worth mentioning that many players do not find the use of the Easy mod to be helpful in decreasing the relative difficulty of beatmaps, especially high-intensity ones. The argument for this goes that the decreased approach rate creates a messy, difficulty-to-read situation where the actual speed of the beatmap is not very well reflected visually (displayed below).
+Although, it is worth mentioning that many players do not find the use of the Easy mod to be helpful in decreasing the relative difficulty of beatmaps, especially high-intensity ones. The argument for this goes that the decreased approach rate creates a messy, difficult-to-read situation where the actual speed of the beatmap is not very well reflected visually (displayed above).
 
-*Note: The points mentioned above are elaborated upon in the "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" feature request to improve the mod.
+*Note: The points mentioned above are elaborated upon in the "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" feature request to improve the mod.*
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod decreases the [slider velocity](/wiki/Glossary#slider-velocity), overall difficulty (OD) and HP drain by half.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod decreases the [slider velocity](/wiki/Hit_object/Slider_velocity), overall difficulty (OD) and HP drain by half.
 
 *Note: The amount of hits that are required to finish a [spinner](/wiki/Hit_object/Spinner) is reduced to the value of the OD.*
 
@@ -60,7 +60,7 @@ In [osu!catch](/wiki/Game_mode/osu!catch), the effects the same as in osu! with 
 
 Despite only using one axis, the fruits' larger size and slower falling rate may cause them to clump together, creating the same common issues with difficulty as in osu!.
 
-![EZ gameplay catch](img/EZ-comparison-catch.jpg "Comparison between a regular osu!at play (left) vs a play with the Easy mod enabled (right) in osu!catch")
+![EZ gameplay catch](img/EZ-comparison-catch.jpg "Comparison between a regular osu! at play (left) vs a play with the Easy mod enabled (right) in osu!catch")
 
 ### osu!mania
 

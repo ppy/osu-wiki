@@ -21,7 +21,7 @@ Because this process takes about 6 weeks, results will be announced halfway thro
 
 ## Beatmapping
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 To ensure each MBC is a brand new experience, they all feature a **limitation** — a mapping restriction that all submissions must follow, like *no slider velocity changes* or *circles cannot be used*.
 
@@ -50,7 +50,7 @@ Because of the obvious potential for loopholes with this limitation, we'll give 
 
 - Sliders cannot be used.
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each MBC provides beatmappers a choice between songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 

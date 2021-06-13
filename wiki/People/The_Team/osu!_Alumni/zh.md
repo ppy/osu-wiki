@@ -148,6 +148,7 @@ tags:
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | QAT，NAT |
 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT，osu! 开发者 |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
@@ -225,6 +226,7 @@ tags:
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT，支持团队 |
 | ![][flag_PH] [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | GMT，锦标赛管理员 |
 | ![][flag_KR] [Where](https://osu.ppy.sh/users/549172) | GMT |
 | ![][flag_US] [whymeman](https://osu.ppy.sh/users/51994) | GMT |
 | ![][flag_ID] [Winshley](https://osu.ppy.sh/users/864895) | 聊天室管理员 |

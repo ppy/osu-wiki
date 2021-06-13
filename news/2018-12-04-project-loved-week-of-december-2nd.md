@@ -18,13 +18,13 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-    - [osu! Redemption](#osu-redemption)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+    - [osu! Redemption](#osu!-redemption)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207), [fartownik](https://osu.ppy.sh/users/56917), [SoraRoxas01](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -100,7 +100,7 @@ With a fast-paced song comes an intense map from elchxyrlia. Coming in at 8.22 s
 
 This is an amazing mapset done by \[ Kohioma \] with an awesome BABYMETAL song, YAVA! This map has seen a large growth in favourites, with nearly 180 now, making this the creator's most popular mapset. With the song's slow parts and a combination of jumps in intense parts, this map plays very nicely in every difficulty, keeping players of any skill level thrilled!
 
-### <a name="osu-redemption" id="osu-redemption"></a>osu! Redemption
+### osu! Redemption
 
 [![](/wiki/shared/news/2018-12-02-project-loved-week-of-december-2nd/osu/break-them-feat-anna-yvette.jpg)](https://osu.ppy.sh/community/forums/topics/837089)
 
@@ -137,7 +137,7 @@ Some of you may know the other ranked mapsets of this song, but I'd say you're m
 
 Many of you may recognize this iconic scene from The Simpsons; it's an everlasting meme filled with unmatched potential. This map by ProfessionalBox certainly puts that potential to good use: it's a low-4-star beatmap of the entire scene, mapped in a professional style (unintended pun, ok...). The scene begins with the character Principal Skinner inviting Superintendent Chalmers to an "unforgettable luncheon". But... what's this? Skinner burned the dinner in the oven! What will his plan be to make sure his meal with the superintendent is still an unforgettable luncheon!? If you don't already know, check out the map to find out! If you do know, you should still check out the map—I'm sure you'll love it!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [Backfire](https://osu.ppy.sh/users/263110), [iceOC](https://osu.ppy.sh/users/5482401) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)! This week, all osu!taiko beatmap descriptions were written by [Backfire](https://osu.ppy.sh/users/263110).
 
@@ -167,7 +167,7 @@ The very famous mapper SKSalt appears for his fourth time in Loved. This one in 
 
 Very well-known to those who are familiar with the osu!taiko World Cups, Sweet Melty Memes was a warmup map picked by Germany many times, and it features a ton of very unsightreadable sections. It's a classic Mew map, that is part of a series that goes along with [Mute City](https://osu.ppy.sh/beatmapsets/592315), as they are both mash-ups that require you to memorize if you want to pass, let alone FC the maps.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Zak](https://osu.ppy.sh/users/1375955)!
 
@@ -187,7 +187,7 @@ Force of Ra by Badis is a jack of all trades: it has fast wiggles, bursts as wel
 
 Boasting a strong 2nd place in the 2016 osu!catch Transcend Contest, ExGon's rendition of Dopamine is an incredibly creative challenge that is sure to put many players to the test. Requiring precise catcher control for high-speed droplets, trademark hyperwalks, alongside some unique concepts, any fans of the rare aspire-style appearances in mapping will be sure to enjoy this fantastic difficulty!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/users/2235750), [aitor98](https://osu.ppy.sh/users/3154852), [Kamikaze](https://osu.ppy.sh/users/2124783), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [TheToaphster](https://osu.ppy.sh/users/7616811)!
 

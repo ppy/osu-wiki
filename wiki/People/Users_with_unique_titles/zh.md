@@ -55,6 +55,7 @@ outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
 大多数官方作图比赛都将 **Elite Mapper** 作为冠军头衔。
 
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
+- ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309)
 - ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)
 - ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
 - ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106)
@@ -139,6 +140,7 @@ osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) |
 | ![][flag_JP] [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
+| ![][flag_RO] [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ![][flag_MY] [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
@@ -226,6 +228,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
 | ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366) | Elite Storyboarder |
 | ![][flag_US] [11t](https://osu.ppy.sh/users/2112092) | Elite Storyboarder |
+| ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | Elite Mapper |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) | Elite Nominator |
 | ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010) | osu! Champion |
 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | osu!mania Champion |
@@ -273,6 +276,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603) | osu! Champion |
 | ![][flag_JP] [kanki2](https://osu.ppy.sh/users/9595391) | Featured Artist |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | Featured Artist |
+| ![][flag_RO] [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | Featured Artist |
 | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
@@ -373,6 +377,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 [flag_NO]: /wiki/shared/flag/NO.gif "挪威"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
 [flag_PL]: /wiki/shared/flag/PL.gif "波兰"
+[flag_RO]: /wiki/shared/flag/RO.gif "罗马尼亚"
 [flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
 [flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_SG]: /wiki/shared/flag/SG.gif "新加坡"

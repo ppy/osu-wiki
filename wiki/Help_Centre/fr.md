@@ -110,7 +110,7 @@ Pour chaque 500 parties pour tous les modes de jeu réunis, un an de plus (365 j
 
 **Oui, mais sous certaines conditions.**
 
-Nous ne faisons de retour de nom gratuit que pour le dernier nom d'utilisateur (celui montré en survolant leur nom dans leur profil). Les changements vers n'importe quel autre nom précédent doivent être [achetés dans la boutique](https://osu.ppy.sh/store/products/32). Contactez simplement accounts@ppy.sh et demandez à ce que votre changement de nom soit annulé.
+Nous ne faisons de retour de nom gratuit que pour le dernier nom d'utilisateur (celui montré en survolant leur nom dans leur profil). Les changements vers n'importe quel autre nom précédent doivent être [achetés dans la boutique](https://osu.ppy.sh/store/products/32). Contactez simplement [accounts@ppy.sh](mailto:accounts@ppy.sh) et demandez à ce que votre changement de nom soit annulé.
 
 Nous ne permettons cela qu'une fois par compte, choisissez donc bien votre moment !
 
@@ -126,7 +126,7 @@ Si le changement a été effectué avec le changement gratuit offert aux support
 
 **Pas pour le moment, désolé.**
 
-Votre profil affichera tous vos anciens changements de noms, et nous n'acceptons pas de requêtes de suppression pour le moment. Si un de vos anciens noms d'utilisateur est une atteinte à votre confidentialité (par exemple, s'il contient votre nom), contactez accounts@ppy.sh pour demander sa suppression.
+Votre profil affichera tous vos anciens changements de noms, et nous n'acceptons pas de requêtes de suppression pour le moment. Si un de vos anciens noms d'utilisateur est une atteinte à votre confidentialité (par exemple, s'il contient votre nom), contactez [accounts@ppy.sh](mailto:accounts@ppy.sh) pour demander sa suppression.
 
 ### Autres problèmes
 
@@ -430,7 +430,7 @@ C'est généralement réglé en fermant tout ce qui n'est pas essentiel à osu!.
 
 **Il arrive qu'après une mise à jour, le jeu ait du mal sans raison.**
 
-Si vous avez beaucoup de beatmaps, attendez au moins 10-15 minutes avant de blâmer la mise à jour. Le jeu peut recalculer toutes les difficultés de chaque beatmapset.
+Si vous avez beaucoup de beatmaps, attendez au moins 10-15 minutes avant de blâmer la mise à jour. Le jeu peut recalculer toutes les difficultés de chaque beatmap.
 
 Si le problème ne se corrige pas tout seul, un redémarrage ne serait pas de trop.
 
@@ -604,7 +604,7 @@ Pour l'activer, essayez les étapes suivantes:
 
 Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`.
 
-![Option d'une tablette Wacom montrant les options de Mapping](img/Tabarea.png "Interface pour changer la surface de la tablette pour les appareils Wacom")
+![Option d'une tablette Wacom montrant les options de Mapping](Client/img/tablet-area.png "Interface pour changer la surface de la tablette pour les appareils Wacom")
 
 Vous devrez consulter le constructeur de votre tablette pour savoir comment le faire.
 

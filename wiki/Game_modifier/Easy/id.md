@@ -5,6 +5,8 @@ tags:
   - Easy
   - mod
   - game modifier
+outdated: true
+outdated_since: 6b8516026e4a60ca416f3f5569887e4d548cce5e
 ---
 
 # Easy (mod)
@@ -32,7 +34,7 @@ tags:
 
 Mod **Easy** adalah sebuah [game modifier](/wiki/Game_modifier) yang mencoba meringankan kesulitan pada sebuah [beatmap](/wiki/Beatmaps). Cara kerja mod ini adalah dengan mengurangi setengah dari semua pengaturan kesulitan dari beatmap yang dipilih.
 
-Di semua [mode permainan](/wiki/Game_mode) kecuali [osu!taiko](/wiki/Game_mode/osu!taiko), mod Easy akan memberikan dua "nyawa" tambahan kepada pemain saat sedang bermain jika [life bar](/wiki/Glossary#life-bar) mereka turun ke 0 (habis). Saat kasus tersebut terjadi, permainan akan berhenti sejenak untuk mengisi ulang life bar ke sekitar 80% dan menghapus satu "nyawa" dari jumlah nyawa pemain. Tidak akan ada suara yang diputar selama efek ini.
+Di semua [mode permainan](/wiki/Game_mode) kecuali [osu!taiko](/wiki/Game_mode/osu!taiko), mod Easy akan memberikan dua "nyawa" tambahan kepada pemain saat sedang bermain jika [life bar](/wiki/Glossary/Health_bar) mereka turun ke 0 (habis). Saat kasus tersebut terjadi, permainan akan berhenti sejenak untuk mengisi ulang life bar ke sekitar 80% dan menghapus satu "nyawa" dari jumlah nyawa pemain. Tidak akan ada suara yang diputar selama efek ini.
 
 Pemain akan diberi tanda berupa suara ready (`readysound.wav`) saat sedang pengisian ulang life bar. Setelah life bar selesai diisi ulang, pemain akan diberi tanda lagi berupa suara go (`gosound.wav`). Setelah itu, beatmap akan kembali dilanjutkan dan memperbolehkan pemain untuk melanjutkan bermain. Jika pemain tidak mempunyai sisa nyawa dan life bar mereka turun ke 0 (habis), permainan akan fail seperti biasa.
 
@@ -40,7 +42,7 @@ Pemain akan diberi tanda berupa suara ready (`readysound.wav`) saat sedang pengi
 
 Di [osu!](wiki/Game_Modes/osu!), mod Easy menurunkan setengah dari [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), dan [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP).
 
-![Gameplay EZ pada standard](img/EZ-comparison-standard.jpg "Perbandingan antara permainan biasa (kiri) dan permainan dengan mod Easy (kanan) pada osu!")
+![Gameplay EZ pada standard](img/EZ-comparison-osu.jpg "Perbandingan antara permainan biasa (kiri) dan permainan dengan mod Easy (kanan) pada osu!")
 
 Meskipun demikian, perlu diingat bahwa banyak pemain yang menganggap bahwa penggunaan mod Easy dapat membantu dalam mengurangi kesulitan dari beatmap, terutama yang berintensitas tinggi. Argumen untuk hal ini adalah bahwa penurunan approach rate justru menciptakan kekacauan, dan situasi ini menyebabkan pemain sulit untuk membaca karena kecepatan sebenarnya dari beatmap tersebut tidak divisualisasikan dengan baik (ditampilkan di bawah).
 
@@ -48,7 +50,7 @@ Meskipun demikian, perlu diingat bahwa banyak pemain yang menganggap bahwa pengg
 
 ### osu!taiko
 
-Di [osu!taiko](/wiki/Game_mode/osu!taiko), mod Easy menurunkan setengah dari [slider velocity](/wiki/Glossary#slider-velocity), overall difficulty (OD) dan HP drain.
+Di [osu!taiko](/wiki/Game_mode/osu!taiko), mod Easy menurunkan setengah dari [slider velocity](/wiki/Hit_object/Slider_velocity), overall difficulty (OD) dan HP drain.
 
 *Catatan: Jumlah hit yang dibutuhkan untuk menyelesaikan sebuah [spinner](/wiki/Hit_object/Spinner) dikurangi sesuai dengan nilai OD.*
 

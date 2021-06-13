@@ -14,12 +14,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZCwu7IWlHPg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -72,7 +72,7 @@ Ciyus Miapah, alternatively known as Fort, has you covered with this crazy, and 
 
 If you like 270 BPM streams, you'll love this map—it's filled with them—especially towards the end of this 83-second map. The intro is more burst-heavy rather than streamy, but they get longer as the map goes on. The kiais at the end are where the real meat is, but the whole map plays super well. Give it a try if high BPM streams are your forte!
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/fsDanUCLBkY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -96,7 +96,7 @@ Representing the Brazilian community, Hirok brings us *eu quero*, a mix of popul
 
 *Black MInD* is to our eyes a map done out of sheer genius that uses multiple snaps like 1/3 and 1/8 to really emphasize a lot on this chaotic piano song. This was also featured in the osu!taiko World Cup 2018 as a Round of 16 FreeMod pick, which along with *Time Traveler*, was one of the most played maps during that round specially by HD players. Due to the popularity this map got during said World Cup, we decided to bring it to the Loved section!.
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/fsDanUCLBkY?start=192&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -118,7 +118,7 @@ If you followed CWC 2019 this year, you might be surprised by this breathtaking 
 
 Bunnrei is truly mapper for top players. *Hoshi o Kakeru Adventure* is a map from 2017 with a lot of fun stream patterns and reverse jumps. The map creates a relaxing feeling as a hard-level map. The music piece created by artist AAAA is also really enjoyable, no doubt why the mapper creates a lot of maps from this artist. Would you like to take a unique osu!catch adventure with this map?
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/fsDanUCLBkY?start=351&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

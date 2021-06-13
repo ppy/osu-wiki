@@ -10,14 +10,14 @@ We are back with the Mappers' Report! This time covering a whole season full of 
 
 This issue of the Mappers' Report contains the following topics:
 
-- **[Ranking Criteria Changes](#rc-changes)**
-- **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
-- **[Mappers' Showcase](#mappers-showcase)**
+- **[Ranking Criteria Changes](#ranking-criteria-changes)**
+- **[Within the Beatmap Nominators and NAT](#within-the-beatmap-nominators-and-nat)**
+- **[Mappers' Showcase](#mappers'-showcase)**
 - **[Mapping Contests](#mapping-contests)**
-- **[Around the Community](#around-community)**
+- **[Around the Community](#around-the-community)**
 - **[Conclusion](#conclusion)**
 
-## <a id="rc-changes"></a>Ranking Criteria Changes
+## Ranking Criteria Changes
 
 As with every issue, the lastest ranking criteria changes cannot be missed. We've gathered them all here for your convenience!
 
@@ -57,7 +57,7 @@ As with every issue, the lastest ranking criteria changes cannot be missed. We'v
 
 - **[Add barline rule/guideline](https://osu.ppy.sh/community/forums/topics/1122014)**
 
-## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
+## Within the Beatmap Nominators and NAT
 
 The cycle of life never ends. And the same goes for the cycle of Beatmap Nominators! As with every issue we show you who has joined and left the team!
 
@@ -106,7 +106,7 @@ If you have a hybrid map set with osu!taiko, osu!catch & osu!mania, it will now 
 
 For this change Beatmap Nominators were divided into game mode specific user groups. You can see which game mode a nominator belongs to on their user page. Right next to the BN Symbol, their game mode gets displayed now!
 
-## <a id="mappers-showcase"></a>Mappers' Showcase
+## Mappers' Showcase
 
 As with every issue of the Mappers' Report we want to show you more unknown mappers who deserve some spotlight for their maps! This time, to cover a whole season, we have osu!taiko, osu!catch and osu!mania for you! So let's dive right into it.
 
@@ -162,7 +162,7 @@ Another mapset of his that is rather new compared to some of the older ones, but
 
 We hope to see MJHs make more maps in the future as it’s pretty clear he’s making a name for himself in the 5K community thus far, and hopefully we can see him rank some maps whilst he’s at it!
 
-## <a id="mapping-contests"></a>Mapping Contests
+## Mapping Contests
 
 Did someone ask for contests? No? Ahh well, you get them anyways! As always we inform you about any interesting mapping related contests going on. Even if you do not plan to participate in them, you might want to check them out to see if any of them have an open voting phase going on! Don't forget: Every vote counts!
 
@@ -221,7 +221,7 @@ The final results, in a simplified form, are as follows:
 
 Congratulations to everyone!
 
-## <a id="around-community"></a>Around the Community
+## Around the Community
 
 Hello! We're back with the latest segment of Around the Community! This time we have a bunch of awesome guides that have been put out recently! Should you have something worth including that isn't here already, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! We're happy to give it more attention in our news post!
 

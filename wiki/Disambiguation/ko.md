@@ -19,6 +19,8 @@ no_native_review: true
 - [NC](NC)
 - [NM](NM)
 - [오프셋](Offset)
+- [Ouendan](Ouendan)
 - [osu!](osu!)
 - [랭크](Rank)
+- [Star](Star)
 - [버전](Version)

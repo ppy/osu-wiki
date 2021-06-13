@@ -2,6 +2,7 @@
 needs_cleanup: true
 outdated: true
 ---
+
 <!-- TODO: this is riddled with old client information and probably needs to be rewritten anyway. -->
 
 # Replay
@@ -53,20 +54,20 @@ The replay will be paused, darken, and with an osu!logo at the foreground center
 ![](img/Replay_discussion_example.jpg "An example of comment flow")
 
 To filter the comments by difficulty, enable `Difficulty (#)`.
-To filter the comments by the overall beatmapset, enable `Song (#)`.
+To filter the comments by the overall beatmap, enable `Song (#)`.
 When watching a top play from the `Global leaderboard`, enable `Player (#)` to show comments from the player itself.
 
 Mapper's comment will be placed above the flowing comments with a light-blue text and an jump-out/jump-in animation instead.
 Depending on resolution, it may be obstructed by a **UNRANKED** notice when watching an Auto replay.
 To remove the **UNRANKED** notice, either watch a top replay from the `Global leaderboard`, or a local replay from the `Local leaderboard` without the Auto mod used.
 
-When watching a top replay, the player of the replay's comment(s) will be shown _below_ the screen instead, and will only be shown in this replay only.
+When watching a top replay, the player of the replay's comment(s) will be shown *below* the screen instead, and will only be shown in this replay only.
 
 By default without active osu!supporter, comments will be coloured based on chat colour (normal accounts will be white) except for mapper's comment(s) (light-blue).
 
 ### Collections
 
-Add this beatmap(set) to _Collections_.
+Add this beatmap(set) to *Collections*.
 This will open up the Collections screen to put the current beatmap(set) into specific sections or rename the sections.
 
 The replay will not pause and continue at the background while in this screen.
@@ -109,7 +110,7 @@ A white, hovering text from right-to-left, will be shown above the comments but 
 The format is shown below unless stated otherwise:-
 
 ```
-Format : REPLAY MODE - Watching {PlayerName} play {ArtistName} - {BeatmapsetName} [{Difficulty}]
+Format : REPLAY MODE - Watching {PlayerName} play {ArtistName} - {BeatmapName} [{Difficulty}]
 Example: REPLAY MODE - Watching osu! play Peter Lambert - osu!tutorial [Gameplay Basics]
 ```
 
@@ -117,22 +118,19 @@ Example: REPLAY MODE - Watching osu! play Peter Lambert - osu!tutorial [Gameplay
 
 ![](img/Replay_Solo.jpg "A local replay")
 
-_A typical local replay_
-
-A local _Solo_ play.
-As long as the difficulty was passed, a replay will be generated internally and can be exported to `Replays` folder.
+A local *Solo* play. As long as the difficulty was passed, a replay will be generated internally and can be exported to `Replays` folder.
 
 At the backend, one pair of files will be created in the hidden folder, `Data/r`: `.osr` (osu! replay; the replay file), and `.osg` (accuracy and combo in real-time; used for spectators' replay only) with same encrypted filename.
 It is highly suggested to **not rename the encrypted filename**, and make use of the export `F2` key instead.
 
 Deleting the `.osg` file has no effect (it is a leftover file for spectator's replay; can be safely removed).
-Deleting the `.osr` file will make the replay _lost forever_ (since the replay data is missing and nothing to export).
-Alternatively, deleting the `scores.db` (which contains local leaderboard scores and pointers to encrypted replays) _will make all (not exported) replays and local leaderboard scores lost forever_.
+Deleting the `.osr` file will make the replay *lost forever* (since the replay data is missing and nothing to export).
+Alternatively, deleting the `scores.db` (which contains local leaderboard scores and pointers to encrypted replays) *will make all (not exported) replays and local leaderboard scores lost forever*.
 
-To set a local leaderboard name when not signed in (_Guest_ account), scroll down from the results screen to access the online results screen directly after passing the difficulty and type in the name on the _Guest player name_ textbox.
+To set a local leaderboard name when not signed in (*Guest* account), scroll down from the results screen to access the online results screen directly after passing the difficulty and type in the name on the *Guest player name* textbox.
 In this screen, an alternative to using the export `F2` key is to enable the `Save replay to Replays folder` button located at the upper-right.
 
-Return to the _Song Selection_ and changes will be updated for this replay (if no name was given, it will simply be blank).
+Return to the *Song Selection* and changes will be updated for this replay (if no name was given, it will simply be blank).
 
 ### Failed
 
@@ -154,13 +152,13 @@ Using the [Perfect(PF)](/wiki/Game_modifier/Perfect) game modifier would forcefu
 **This type of replay will not be saved internally nor is allowed to be exported**.
 To record the failed replay, please use external third-party software for now since osu! has yet to have native export support for failed replay.
 
-If there was a retry streak, it will be lost once entering the _Failed_ replay state.
+If there was a retry streak, it will be lost once entering the *Failed* replay state.
 
 ### Multi
 
 ![](img/Replay_Multi.jpg "Left is the original Multi play and right is an exported Multi replay")
 
-Replays from Multi can only be exported from _Head-to-Head_ or _Team VS_ team mode only.
+Replays from Multi can only be exported from *Head-to-Head* or *Team VS* team mode only.
 These replays will **not be saved internally and not considered in the local leaderboard**.
 Multi elements will not be saved as shown in the image comparison above (refer to the second image).
 
@@ -194,7 +192,7 @@ A white, hovering text from right-to-left will be shown on top when watching a s
 The format and example is shown below:-
 
 ```
-Format : SPECTATOR MODE - Watching {PlayerName} play {ArtistName} - {BeatmapsetName} [{Difficulty}]
+Format : SPECTATOR MODE - Watching {PlayerName} play {ArtistName} - {BeatmapName} [{Difficulty}]
 Example: SPECTATOR MODE - Watching peppy play Peter Lambert - osu!tutorial [Gameplay Basics]
 ```
 
@@ -229,7 +227,7 @@ When watching a server-side replay (excluding exported replays), the player of t
 If a new top 50 global record was added, the previous holder for \#50 position's server-side replay will be removed.
 
 To watch a server replay, an osu! account must be signed in and be connected to Bancho.
-At the _Song Selection_ screen in `Solo`, switch the leaderboard to `Global leaderboard` and click on the preferred player at the leaderboard to watch the replay.
+At the *Song Selection* screen in `Solo`, switch the leaderboard to `Global leaderboard` and click on the preferred player at the leaderboard to watch the replay.
 Press on the `Watch replay` button and osu! will download the replay file from the Bancho as shown in the left of the image.
 The replay only plays once and will be deleted after the replay ends/quit early.
 
@@ -263,8 +261,8 @@ Do note that this is currently the only way to save a replay which will continue
 
 ![](img/Replay_preview_result.jpg "An example of preview gameplay's result screen")
 
-Depending on the random timespan selected, it may start at the _end of the song_ without any hit objects, leading directly to the results screen with 0 score, 0 combo, 0x hit bursts, D Grade, no performance graph, and 100.00% accuracy.
-When watching the replay, the health drain will work as usual, no cursor movement, and _no miss_ (hence 100.00% accuracy) until the point where the `Preview Gameplay` timespan was set to run, which the hit bursts will start to work.
+Depending on the random timespan selected, it may start at the *end of the song* without any hit objects, leading directly to the results screen with 0 score, 0 combo, 0x hit bursts, D Grade, no performance graph, and 100.00% accuracy.
+When watching the replay, the health drain will work as usual, no cursor movement, and *no miss* (hence 100.00% accuracy) until the point where the `Preview Gameplay` timespan was set to run, which the hit bursts will start to work.
 
 Since Auto is unable to fail, an empty healthbar has no effect on Auto.
-However, for osu!taiko, if Auto is unable to fill the healthbar 50% or more, the replay will be stuck in an _infinite loop_.
+However, for osu!taiko, if Auto is unable to fill the healthbar 50% or more, the replay will be stuck in an *infinite loop*.

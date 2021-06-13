@@ -1024,7 +1024,7 @@ Notes:
 - Full image height is 768px.
 - Smaller images are shown with transparent borders while larger images are partially shown.
 - This can also be a `.jpg` file (and can have the `.jpg` extension).
-  - osu! preferences `.png` over `.jpg`.
+  - osu! prefers `.png` over `.jpg`.
 
 ---
 
@@ -1039,7 +1039,7 @@ Notes:
 - When the player has failed, the playfield will be dimmed and this file will overlay on top of it.
 - This element will stretch to fit.
 - This can also be a `.jpg` file (and can have the `.jpg` extension).
-  - osu! preferences `.png` over `.jpg`.
+  - osu! prefers `.png` over `.jpg`.
 
 ---
 
@@ -2381,7 +2381,7 @@ Notes:
 Notes:
 
 - This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!](/wiki/Game_mode/osu!) for this to see.
+- Select [osu!](/wiki/Game_mode/osu!) for this to be visible.
 
 ---
 
@@ -2396,7 +2396,7 @@ Notes:
 Notes:
 
 - This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!taiko](/wiki/Game_mode/osu!taiko) for this to see.
+- Select [osu!taiko](/wiki/Game_mode/osu!taiko) for this to be visible.
 
 ---
 
@@ -2411,7 +2411,7 @@ Notes:
 Notes:
 
 - This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!catch](/wiki/Game_mode/osu!catch) for this to see.
+- Select [osu!catch](/wiki/Game_mode/osu!catch) for this to be visible.
 
 ---
 
@@ -2426,7 +2426,7 @@ Notes:
 Notes:
 
 - This element flashes in the centre of the song select screen in respect of the song's BPM.
-- Select [osu!mania](/wiki/Game_mode/osu!mania) for this to see.
+- Select [osu!mania](/wiki/Game_mode/osu!mania) for this to be visible.
 
 ---
 
@@ -2501,7 +2501,7 @@ Notes:
 Notes:
 
 - This element is on top of the `selection-mode.png` element.
-- Select [osu!](/wiki/Game_mode/osu!) for this to see.
+- Select [osu!](/wiki/Game_mode/osu!) for this to be visible.
 - If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
 
 ---
@@ -2517,7 +2517,7 @@ Notes:
 Notes:
 
 - This element is on top of the `selection-mode.png` element.
-- Select [osu!taiko](/wiki/Game_mode/osu!taiko) for this to see.
+- Select [osu!taiko](/wiki/Game_mode/osu!taiko) for this to be visible.
 - If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
 
 ---
@@ -2533,7 +2533,7 @@ Notes:
 Notes:
 
 - This element is on top of the `selection-mode.png` element.
-- Select [osu!catch](/wiki/Game_mode/osu!catch) for this to see.
+- Select [osu!catch](/wiki/Game_mode/osu!catch) for this to be visible.
 - If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
 
 ---
@@ -2549,7 +2549,7 @@ Notes:
 Notes:
 
 - This element is on top of the `selection-mode.png` element.
-- Select [osu!mania](/wiki/Game_mode/osu!mania) for this to see.
+- Select [osu!mania](/wiki/Game_mode/osu!mania) for this to be visible.
 - If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
 
 [true]: /wiki/shared/true.png

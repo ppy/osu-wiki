@@ -53,7 +53,6 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, Chinês | Avaliação |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | Avaliação, estrutural, moderação, comunicação |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Avaliação |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Alemão | Avaliação |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estrutural, comunicação |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Avaliação, estrutural, comunicação |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estrutural |
@@ -82,6 +81,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Alemão, Polonês | Avaliação |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, Francês | Avaliação |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Avaliação |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasil"

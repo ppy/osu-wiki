@@ -72,7 +72,7 @@ Songs which only use onbeat sliders are destined to be boring, so make sure you 
 
 ## Part 3: Overmapping
 
-My definition of [overmapping](/wiki/Glossary) is placing a note or slider end where no note exists in the background. There are a few reasons to overmap:
+My definition of [overmapping](/wiki/Beatmapping/Overmapping) is placing a note or slider end where no note exists in the background. There are a few reasons to overmap:
 
 - The rhythm is too difficult for normal/fun play.
   - This often happens with songs which use triplets in 1/6 snap, and the mapper simplifies it to 1/4th.

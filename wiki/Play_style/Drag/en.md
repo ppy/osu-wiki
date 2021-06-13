@@ -8,7 +8,7 @@ tags:
 
 # Drag
 
-**Drag** is a term used to describe the act of navigating (or "aiming") a [tablet](/wiki/Glossary#tablet) pen by physically touching the pen to the surface of the tablet and "dragging" it to the desired location (as opposed to [hovering](/wiki/Play_style/Hover)). This style is used by players of all skill levels and is easy to learn.
+**Drag** is a term used to describe the act of navigating (or "aiming") a [tablet](/wiki/Gameplay/Input_device/Graphics_tablet) pen by physically touching the pen to the surface of the tablet and "dragging" it to the desired location (as opposed to [hovering](/wiki/Play_style/Hover)). This style is used by players of all skill levels and is easy to learn.
 
 Arguments in-favor of dragging often claim that it is more comfortable/natural and is much harder to "overshoot" on [jumps](/wiki/Beatmap/Pattern/Jump). Others also claim that the friction keeps the player grounded.
 

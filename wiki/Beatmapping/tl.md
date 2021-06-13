@@ -15,4 +15,4 @@ Ang mga difficulties nakikita karaniwan sa mga mapas ay:
 - Hard
 - Insane
 
-Pag na click mo ang isang link, makikita mo ang guidelines para ma mga [mappers](/wiki/Glossary).
+Pag na click mo ang isang link, makikita mo ang guidelines para ma mga mappers.

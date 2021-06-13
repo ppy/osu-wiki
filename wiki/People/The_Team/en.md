@@ -33,7 +33,6 @@ The people listed below are the core of the **osu!team** and are chiefly respons
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved manager, community advisor, Featured Artist outreach |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament assistant |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, World Cup organiser and administrator, wiki maintainer |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
 In addition to the above, the [account support team](Account_support_team) is there to help with what is beyond the reach.
@@ -77,6 +76,7 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original pippi concept and artwork designer. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Early community manager and leader, meeting minutes and FAQ contributor |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | osu! and pp developer |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, World Cup organiser and administrator, wiki maintainer |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! developer, osu!mania mode developer |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) manager |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, media and character designer |

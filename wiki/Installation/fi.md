@@ -25,7 +25,7 @@ Tämä sivu kertoo miten saat osu!'n toimimaan Windows-tietokoneellesi. [osu!aka
    - Jos sinulla on tili, kirjaudu sisään.
    - Jos tarvitset rekisteröityä, mene [rekisteröitymissivulle](/wiki/Registration).
 
-## Beatmapsettien lataaminen
+## Beatmappien lataaminen
 
 *Katso myös: [Beatmaps](/wiki/Beatmap)*
 
@@ -35,10 +35,10 @@ Voit ladata beatmappejä kotisivulta tai osu!direct'in avulla (vaatii [osu!suppo
 
 1. Mene [beatmappien listaussivulle](https://osu.ppy.sh/beatmapsets) ja kirjaudu sisään.
 2. Valitse jonkun beatmapin, jota haluat pelata.
-3. Napsauta `Lataa`-painiketta tallentaakseen beatmapsetin tietokoneellesi.
-4. Avaa beatmapset-tiedoston, sillä on `.osz` tiedostopäätteenä.
-   - Voit myös laittaa beatmapset-tiedoston `Songs`-kansioon osu!'n asennussijainnissa.
-5. osu! tekee loput automaattisesti ja avaa beatmapsetin.
+3. Napsauta `Lataa`-painiketta tallentaakseen beatmapin tietokoneellesi.
+4. Avaa beatmap-tiedoston, sillä on `.osz` tiedostopäätteenä.
+   - Voit myös laittaa beatmap-tiedoston `Songs`-kansioon osu!'n asennussijainnissa.
+5. osu! tekee loput automaattisesti ja avaa beatmapin.
    - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Interface#song-selection-screen) ladatakseen beatmapit uudelleen.
 
 ### osu!direct
