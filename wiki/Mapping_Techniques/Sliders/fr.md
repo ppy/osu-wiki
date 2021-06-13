@@ -4,163 +4,163 @@
 
 ## Patterns
 
-### Sliders Etna
+### Etna Sliders
 
 Nominateur : [kingcobra52](https://osu.ppy.sh/users/9934)
 
-L'**etna sliders** est typiquement composé de 6 à 8 sliders d'un demi temps séparés par un autre demi temps.
+Les **etna sliders** est typiquement composé de 6 à 8 sliders d'un demi temps séparés par un autre demi temps.
 Ils peuvent aller dans n'importe quelle direction et il y en a généralement beaucoup.
 
 Le terme "Etna sliders" a été inventé par [awp](https://osu.ppy.sh/users/2650) et nommé d'après un [personnage de Disgaea](https://disgaea.fandom.com/wiki/Etna) apparaissant sur l'une de ses maps.
 
 [C'est par ce post que tout a commencé.](https://osu.ppy.sh/community/forums/posts/5783)
 
-### Flow introverti
+### Introverted Flow
 
 Nominateur : [Lizzy](https://osu.ppy.sh/users/1394757)
 
-Le **flow inversé** est (traduit littéralement du latin) "dirigé vers l'intérieur".
+Le **introverted flow** est (traduit littéralement du latin) "dirigé vers l'intérieur".
 Cela peut être vu comme :
 
 - une forte chute de flow d'un arc à un autre qui parfois [blankets](/wiki/Mapping_Techniques/Formations#blanket-combos) le début du précédent.
 - une chute moins prononcée qui fait du premier arc [blanket](/wiki/Mapping_Techniques/Formations#blanket-combos) la fin du second, avec ou sans cercles entre les deux.
 
-### Sliders en miroir
+### Mirrored Sliders
 
 Nominateur : [kingcobra52](https://osu.ppy.sh/users/9934)
 
-Les **sliders en miroirs** utilisent deux sliders identiques.
+Les **mirrored sliders** utilisent deux sliders identiques.
 Cependant, l'une d'entre elles est inversée et renversée.
 
-### Sliders parallèles
+### Parallel Sliders
 
 Nominateur : [rust45](https://osu.ppy.sh/users/117369)
 
-Les **sliders parallèles** utilisent un groupe de sliders qui sont tous parallèles les uns aux autres, les débuts de slider peuvent ou non être à côté des fins et ils peuvent aller dans n'importe quelle direction.
+Les **parallel sliders** utilisent un groupe de sliders qui sont tous parallèles les uns aux autres, les débuts de slider peuvent ou non être à côté des fins et ils peuvent aller dans n'importe quelle direction.
 
-### Segment de sliders
+### Segment Sliders
 
 Nominateur : [Xgor](https://osu.ppy.sh/users/98661)
 
-Les **segment de sliders** sont composés d'un certain nombre de sliders qui commencent au point final du slider précédent.
-Ils sont généralement réalisés avec des [sliders Etna](#sliders-etna), mais peuvent également être utilisés avec des sliders de 3 à 4 temps ou plus.
+Les **segment sliders** sont composés d'un certain nombre de sliders qui commencent au point final du slider précédent.
+Ils sont généralement réalisés avec des [Etna sliders](#etna-sliders), mais peuvent également être utilisés avec des sliders de 3 à 4 temps ou plus.
 
-### Sliders courts et répétitifs
+### Short Repeating Sliders
 
 *Aussi connu sous le nom de : **Kick Slider***
 
-*A ne pas confondre avec les [Hold Sliders](/wiki/Mapping_Techniques/Unrankable#hold-sliders).*
+*À ne pas confondre avec les [Hold Sliders](/wiki/Mapping_Techniques/Unrankable#hold-sliders).*
 
 Nominateur : [kingcobra52](https://osu.ppy.sh/users/9934)
 
-Les **sliders courts et répétitifs** consistent en une série de sliders à la fois courts et ayant de nombreuses répétitions.
+Les **short repeating sliders** consistent en une série de sliders à la fois courts et ayant de nombreuses répétitions.
 Tous les sliders ont généralement le même nombre de répétitions et tombent sur le temps entier ou le demi-temps afin de faciliter le suivi.
 
-### Trains de sliders
+### Slider Trains
 
 *Aussi connu sous le nom de : **Slider Fans***
 
 Nominateur : [MegaManEXE](https://osu.ppy.sh/users/951)
 
-Les **Trains de sliders** sont une série de sliders (de même longueur) placés en forme d'éventail.
+Les **slider trains** sont une série de sliders (de même longueur) placés en forme d'éventail.
 Le joueur doit cliquer sur chaque slider, comme s'il s'agissait d'un stream.
 
 Par exemple, s'il s'agissait d'un slider 1/2, le joueur cliquerait dans un rythme 1/1.
 
 Les sliders peuvent entrer ou sortir (ou les deux).
 
-### Sliders en zig-zag
+### Zig-Zagging Sliders
 
 Nominateur : [kingcobra52](https://osu.ppy.sh/users/9934)
 
-Les **sliders en zig-zag** sont des sliders de demi-temps disposés en zigzag (comme un "Z" ou un "S").
+Les **zig-zagging sliders** sont des sliders de demi-temps disposés en zigzag (comme un "Z" ou un "S").
 Cependant, ces derniers sont positionnés de telle sorte que chaque slider s'éloigne du suivant, créant ainsi un jump rapide pour le joueur.
 
-## Élégant
+## Esthétique
 
-### Sliders en coupe
+### Cutting Sliders
 
 Nominateur : [Mashley](https://osu.ppy.sh/users/41481)
 
-Les **sliders en coupe** consistent en 2 sliders, généralement d'une longueur d'un temps et espacés d'un demi-ton, qui se chevauchent.
+Les **cutting sliders** consistent en 2 sliders, généralement d'une longueur d'un temps et espacés d'un demi-ton, qui se chevauchent.
 Le deuxième slider semble *couper* l'autre slider, d'où son nom.
 
-### Sliders écrasés
+### Cutting Sliders
 
 Nominateur : [Lilac](https://osu.ppy.sh/users/58197)
 
-Les **Crumpled sliders** utilise un slider avec de nombreux points de contrôle pour compresser le slider afin de créer une sorte d'effet froissé ou écrasé.
-En fait, cela donnerait l'impression que le slider est plus courte qu'elle n'est censée l'être.
+Les **Crumpled sliders** utilisent un slider avec de nombreux points de contrôle pour compresser le slider afin de créer une sorte d'effet froissé ou écrasé.
+En fait, cela donnerait l'impression que le slider est plus court qu'il n'est censé l'être.
 Ceux-ci peuvent se présenter sous différentes formes.
 
-### Sliders en coupe final
+### End-Cutter Sliders
 
 Nominateur : [Xgor](https://osu.ppy.sh/users/98661)
 
-Les **sliders en coupe final** utilisent un slider dont l'extrémité est empilée sur le chemin d'un autre slider.
+Les **end-cutter sliders** utilisent un slider dont l'extrémité est empilée sur le chemin d'un autre slider.
 
 ### Krisom-Krosses
 
 Nominateur : [Rukario](https://osu.ppy.sh/users/110372)
 
-**Krisom-Krosses** se compose de deux [sliders en vague](#sliders-en-vague).
-Il s'agit de [sliders en miroir](#sliders-en-miroir) horizontaux ou verticaux tels que le milieu des deux sliders se chevauche.
+Les **Krisom-Krosses** se composent de deux [wave sliders.](#wave-sliders).
+Il s'agit de [mirrored sliders](#mirrored-sliders) horizontaux ou verticaux tels que le milieu des deux sliders se chevauche.
 
 Cette technique a été baptisée par [Krisom](https://osu.ppy.sh/users/99269).
 
-### Sliders arc-en-ciel
+### Rainbow Sliders
 
 Nominateur : MetalMario201
 
-Les **sliders arc-en-ciel** sont de grands sliders en forme d'arc qui occupent généralement la moitié de l'écran.
+Les **rainbow sliders** sont de grands sliders en forme d'arc qui occupent généralement la moitié de l'écran.
 Ils sont utilisés de préférence dans les endroits où les notes sont longues, culminantes et tenues (un peu comme des spinners).
 
 [EBA](/wiki/iNiS_games) en était rempli.
 
-### Art en slider
+### Slider Art
 
 Nominateur : [Shinxyn](https://osu.ppy.sh/users/13996)
 
-L'**art en slider** utilise un long slider pour dessiner une image ou un symbole quelconque.
+Le **slider art** utilise un long slider pour dessiner une image ou un symbole quelconque.
 
-Ceux-ci sont généralement découragés par la communauté.
+Ceux-ci sont généralement désapprouvés par la communauté.
 
-### Sliders araignée
+### Spider Sliders
 
 ¯\\\_(ツ)\_/¯
 
-### Sliders en spirale
+### Spiral Slider
 
 Nominateur : [Xgor](https://osu.ppy.sh/users/98661)
 
-Un **slider en spirale** est un slider qui va en spirale.
+Un **spiral slider** est un slider qui va en spirale.
 
 La spirale peut partir de l'extérieur ou de l'intérieur et peut avoir une flèche de répétition.
 
-### Sliders en vague
+### Wave Sliders
 
 Nominateur : [RandomJibberish](https://osu.ppy.sh/users/157879)
 
-Les **sliders en vague** sont des sliders en forme de "S".
+Les **wave sliders** sont des sliders en forme de "S".
 Il s'incurve dans une direction puis dans la direction opposée.
 Ils sont utilisés pour être un peu plus intéressants qu'un slider droit ordinaire.
 
-### Slider en moulin à vent
+### Windmill Sliders
 
 Nominateur : [Lybydose](https://osu.ppy.sh/users/64501)
 
-Un **slider  en moulin à vent** est une série de quatre sliders, qui partent tous d'un point central commun.
+Un **windmill slider** est une série de quatre sliders, qui partent tous d'un point central commun.
 Cela lui donnera l'apparence d'un moulin à vent.
 Les sliders ne sont pas nécessairement incurvés, ils peuvent au contraire former une croix ou un "x".
 
 ## Divers
 
-### Sliders Switch-Back
+### Switch-Back Sliders
 
 Nominateur : [GladiOol](https://osu.ppy.sh/users/23326)
 
-Les **sliders switch-back** sont constitués d'un slider d'un demi-temps incurvé.
-Il est ensuite copié-collé, tourné de 180 degrés et placé de manière à s'intégrer dans le slider précédent (comme dans le [slider etna](#sliders-etna)).
+Les **switch-back sliders** sont constitués d'un slider d'un demi-temps incurvé.
+Il est ensuite copié-collé, tourné de 180 degrés et placé de manière à s'intégrer dans le slider précédent (comme dans le [etna slider](#etna-slider)).
 Un cercle est alors placé à l'endroit où se trouvait la tête du slider précédent.
 
 ### Tick-Hitsounds

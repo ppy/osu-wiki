@@ -2,11 +2,11 @@
 
 ## Espacement
 
-### Patterns à 15 degré
+### 15 Degree Patterns
 
 Nominateur(s) : [grumd](https://osu.ppy.sh/users/530913)
 
-Le **pattern à 15 degrés** est une technique exclusive au slider.
+Le **15 degree patterns** est une technique exclusive au slider.
 Vous commencez par mapper une section avec uniquement des sliders horizontaux et verticaux.
 Faites-les ensuite pivoter de 15 degrés dans le sens des aiguilles d'une montre ou dans le sens inverse.
 
@@ -26,56 +26,56 @@ Des angles compris entre 10 et 80 degrés peuvent également être utilisés.
 5. Cliquez sur `OK`..
 6. Voilà, vous avez terminé !
 
-### Espacement accéléré
+### Accelerated Spacing
 
 *À ne pas confondre avec [Spacing Out](#spacing-out).*
 
 Nominateur(s) : [Gabi](https://osu.ppy.sh/users/57057)
 
-L'**espacement accéléré** consiste à espacer de plus en plus chaque objet, tout en conservant le même timing entre eux.
+L'**accelerated spacing** consiste à espacer de plus en plus chaque objet, tout en conservant le même timing entre eux.
 
-### Battements aller-retour
+### Back and Forth Beats
 
 Nominateur(s) : [kingcobra52](https://osu.ppy.sh/users/9934)
 
-Les **battements aller-retour** sont composés de deux piles de battements (ou plus), avec les notes impaires dans une pile et les notes paires dans l'autre.
+Les **back and forth beats** sont composés de deux piles de battements (ou plus), avec les notes impaires dans une pile et les notes paires dans l'autre.
 Pour l'utiliser, le joueur doit alterner entre les deux piles.
 
 Il est recommandé de ne l'utiliser que pour les difficultés les plus difficiles, car cela peut être difficile pour les nouveaux joueurs.
 
-### Piles différentielles
+### Differential Stacks
 
 Nominateur(s) : [NoHItter](https://osu.ppy.sh/users/124455)
 
-Les **piles différentielles** consistent en des notes qui sont espacées de manière incohérente les unes des autres dans la timeline.
+Les **differential stacks** consistent en des notes qui sont espacées de manière incohérente les unes des autres dans la timeline.
 À noter que ces objets sont mappés comme s'ils étaient un battement uniforme.
 
 Du sightreading peut être requis, à moins que vous puissiez vraiment bien suivre la musique.
 
 Lorsque vous jouez une beatmap utilisant cette technique, il peut être très difficile de jouer avec le modificateur de jeu Hidden.
 
-### Sections de drainage
+### Drain Sections
 
 Nominateur(s) : [SapphireGhost](https://osu.ppy.sh/users/388602)
 
-Les **sections de drainage** sont des sections dans une beatmap qui deviennent soudainement *plus lentes* ou *moins difficiles* dans le but de mieux correspondre à la chanson ou de faire baisser la barre de vie.
+Les **drain sections** sont des sections dans une beatmap qui deviennent soudainement *plus lentes* ou *moins difficiles* dans le but de mieux correspondre à la chanson ou de faire baisser la barre de vie.
 
 Cela peut être fait en plaçant moins de notes et/ou en ralentissant la vitesse du slider.
 
 Les sections de drainage doivent être utilisées avec parcimonie et uniquement lorsque la chanson peut *s'y prêter*.
 
-### Demi-Backing
+### Half-Backing
 
 Nominateur(s) : [Ekaru](https://osu.ppy.sh/users/17938)
 
-Le **demi-backing** est composé d'un quart de temps suivi de deux huitièmes de temps, arrangé de façon similaire aux [battements aller-retour](#battements-aller-retour) sauf que la troisième note s'arrête.
+Le **half-backing** est composé d'un quart de temps suivi de deux huitièmes de temps, arrangé de façon similaire aux [battements aller-retour](#battements-aller-retour) sauf que la troisième note s'arrête.
 Cela permet de créer une ligne droite.
 
-### Moyeu et rayons
+### Hub and Spoke
 
 Nominateur(s) : Beuchi-chan
 
-La formation **moyeu et rayons** est littéralement un moyeu avec des rayons qui dépassent.
+La formation **hub and spoke** est littéralement un moyeu avec des rayons qui dépassent.
 Cette technique nécessite au moins 8 à 9 objets qui sont séparés d'un demi battement les uns des autres.
 Cela oblige le joueur à se déplacer dans une direction circulaire et à revenir au centre après avoir frappé un objet.
 En général, il s'agit essentiellement de la technique des [QQ diamonds](/wiki/Mapping_Techniques/Formations#qq-diamonds) avec un centre pour chaque autre objet.
@@ -85,14 +85,14 @@ Les objets suivants, pairs, doivent ensuite être placés à 0 degré, 90 degré
 
 Il est très important de disposer les objets de manière à ce qu'ils aillent dans le sens des aiguilles d'une montre ou dans le sens inverse.
 
-La forme de base du moyeu et rayons utilise 4 rayons.
+La forme de base du hub and spoke utilise 4 rayons.
 Vous pouvez toutefois utiliser 3, 5 ou 6 rayons à la place (dans ce cas, veillez à ce que la mesure en degré reste égale pour chaque rayon).
 
-### Aller-retour linéaires
+### Linear Back and Forth
 
 Nominateur(s) : [Derekku](https://osu.ppy.sh/users/91341)
 
-L'**aller-retour linéaire** est une variation des [battements aller-retour](#battements-aller-retour).
+Le **linear back and forth** est une variation des [back and forth beats](#back-and-forth-beats ).
 La différence réside dans le fait que ces derniers n'utilisent pas de piles, mais demandent au joueur de se déplacer entre les objets.
 Il est très important que le mappeur indique clairement la direction dans laquelle se dirige l'espacement.
 
@@ -120,30 +120,30 @@ Cependant, lorsqu'ils atteignent la "fin" de la ligne, les objets reculent d'une
 
 ## Vitesse
 
-### Ralentissements des sliders
+### Slider Slowdowns
 
 Nominateur(s) : [123MegaApple123](https://osu.ppy.sh/users/2148208)
 
-Les **ralentissements de sliders** ralentissent brusquement un slider en divisant temporairement par deux un point de timing hérité (les verts) pour compléter la note longue de la musique (ou de la voix).
+Les **slider slowdowns** ralentissent brusquement un slider en divisant temporairement par deux un point de timing hérité (les verts) pour compléter la note longue de la musique (ou de la voix).
 
 ## Streams
 
 *Voir [Techniques de mapping/Basique](/wiki/Mapping_Techniques/Basics#streams) pour une description des streams.*
 
-### Streams compressés
+### Compressed Streams
 
 Nominateur(s) : [pieguyn](https://osu.ppy.sh/users/107485)
 
-Les **streams compressés** utilisent des cercles qui ne sont séparés que par 3 espaces de grille (sur un niveau à 2 ou 3 grilles).
+Les **compressed streams** utilisent des cercles qui ne sont séparés que par 3 espaces de grille (sur un niveau à 2 ou 3 grilles).
 Sinon, il suffit de rendre le stream considérablement plus petit par rapport au reste de la map.
 
 La majorité des maps qui utilisent des streams sont plus susceptibles d'utiliser des streams compressés.
 
-### Streams discontinus
+### Discontinuous Streams
 
 Nominateur(s) : [benguin](https://osu.ppy.sh/users/1322807)
 
-On parle de **streams discontinus** lorsqu'il y a un *jump* dans le stream, même si le temps entre les notes du jump est de la même longueur que le temps entre les notes du reste du stream.
+On parle de **discontinuous streams** lorsqu'il y a un *jump* dans le stream, même si le temps entre les notes du jump est de la même longueur que le temps entre les notes du reste du stream.
 
 ### Deathstreams
 
@@ -178,16 +178,16 @@ Ils peuvent être en une seule succession ou en plusieurs, selon ce que souhaite
 
 Notez que Triplet Steams ne fait **pas** référence à un triplet réel en [théorie musicale](/wiki/Beatmap_Editor_Guides/Music_Theory).
 
-### Streams à espacement variable
+### Variable Spaced Streams
 
 Nominateur(s) : [fartownik](https://osu.ppy.sh/users/56917)
 
-Les **streams à espacement variable** utilisent des streams plus longs dont l'espacement est irrégulier (généralement croissant).
+Les **variable spaced streams** utilisent des streams plus longs dont l'espacement est irrégulier (généralement croissant).
 
-### Streams en zig-zag
+### Zig-Zag Streams
 
 Nominateur(s) : [Daru](https://osu.ppy.sh/users/32480)
 
-Les **streams en zig-zag** sont des streams dont les objets sont placés de telle manière qu'ils forment une ligne très dentelée.
+Les **zig-zag streams** sont des streams dont les objets sont placés de telle manière qu'ils forment une ligne très dentelée.
 Cependant, elles sont placées très près les unes des autres, de sorte qu'on peut les dépasser en déplaçant le curseur à travers elles en une ligne droite qui croise toutes les notes.
 On les trouve le plus souvent avec des notes qui s'entrecroisent.
