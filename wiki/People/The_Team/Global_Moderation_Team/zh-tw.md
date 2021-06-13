@@ -67,7 +67,6 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | 土耳其語 | 聊天室管理 |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | 西班牙語 | 聊天室管理、論壇管理、圖譜管理 |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | 聊天室管理、技術支援 |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙語 | 賽事管理 |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 技術支援 |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | 葡萄牙語、日語 | 聊天室管理 |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | 玩家支援、wiki 管理 |
@@ -113,7 +112,6 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙語 | 技術支援 |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | 波蘭語 | 聊天室管理 |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | 波蘭語 | 聊天室管理、圖譜管理 |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 西班牙語 | 賽事管理、聊天室管理、wiki 管理 |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | 波蘭語 | 聊天室管理 |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | 聊天室管理 |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | 土耳其語、德語 | 聊天室管理、圖譜管理 |
@@ -148,7 +146,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
@@ -161,7 +159,6 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 [flag_AU]: /wiki/shared/flag/AU.gif "澳洲"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
-[flag_CL]: /wiki/shared/flag/CL.gif "智利"
 [flag_DE]: /wiki/shared/flag/DE.gif "德國"
 [flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_FI]: /wiki/shared/flag/FI.gif "芬蘭"
