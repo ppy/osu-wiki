@@ -86,7 +86,7 @@ Les objets suivants, pairs, doivent ensuite être placés à 0 degré, 90 degré
 Il est très important de disposer les objets de manière à ce qu'ils aillent dans le sens des aiguilles d'une montre ou dans le sens inverse.
 
 La forme de base du moyeu et rayons utilise 4 rayons.
-Vous pouvez toutefois utiliser 3, 5 ou 6 rayons à la place (dans ce cas, veillez à ce que la mesure du degré reste égale pour chaque rayon).
+Vous pouvez toutefois utiliser 3, 5 ou 6 rayons à la place (dans ce cas, veillez à ce que la mesure en degré reste égale pour chaque rayon).
 
 ### Aller-retour linéaires
 
