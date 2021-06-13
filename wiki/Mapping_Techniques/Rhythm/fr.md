@@ -48,21 +48,21 @@ Il est recommandé de ne l'utiliser que pour les difficultés les plus difficile
 Nominateur(s) : [NoHItter](https://osu.ppy.sh/users/124455)
 
 Les **piles différentielles** consistent en des notes qui sont espacées de manière incohérente les unes des autres dans la timeline.
-Une chose notable est que ces objets sont mappés comme s'ils étaient un battement cohérent.
+À noter que ces objets sont mappés comme s'ils étaient un battement uniforme.
 
-Une certaine lecture à haute voix peut être requise, à moins que vous ne puissiez vraiment suivre la musique.
+Du sightreading peut être requis, à moins que vous puissiez vraiment bien suivre la musique.
 
-Lorsque vous jouez une beatmap en utilisant cette technique, il peut être très difficile de jouer avec le modificateur de jeu Hidden.
+Lorsque vous jouez une beatmap utilisant cette technique, il peut être très difficile de jouer avec le modificateur de jeu Hidden.
 
 ### Sections de drainage
 
 Nominateur(s) : [SapphireGhost](https://osu.ppy.sh/users/388602)
 
-Le **sections de drainage** sont des sections dans une beatmap qui deviennent soudainement *plus lentes* ou *moins difficiles* dans le but de mieux correspondre à la chanson ou de faire baisser la barre de vie.
+Les **sections de drainage** sont des sections dans une beatmap qui deviennent soudainement *plus lentes* ou *moins difficiles* dans le but de mieux correspondre à la chanson ou de faire baisser la barre de vie.
 
 Cela peut être fait en plaçant moins de notes et/ou en ralentissant la vitesse du slider.
 
-Les sections de drainage doivent être utilisées avec parcimonie et uniquement lorsque la chanson peut *y faire* allusion.
+Les sections de drainage doivent être utilisées avec parcimonie et uniquement lorsque la chanson peut *s'y prêter*.
 
 ### Demi-Backing
 
@@ -92,9 +92,9 @@ Vous pouvez toutefois utiliser 3, 5 ou 6 rayons à la place (dans ce cas, veille
 
 Nominateur(s) : [Derekku](https://osu.ppy.sh/users/91341)
 
-L'**aller-retour linéaires** est une variation des [battements aller-retour](#battements-aller-retour).
+L'**aller-retour linéaire** est une variation des [battements aller-retour](#battements-aller-retour).
 La différence réside dans le fait que ces derniers n'utilisent pas de piles, mais demandent au joueur de se déplacer entre les objets.
-Il est très important que le mappeur indique clairement la direction dans laquelle se dirige la propagation.
+Il est très important que le mappeur indique clairement la direction dans laquelle se dirige l'espacement.
 
 ### Spacing Out
 
@@ -102,9 +102,9 @@ Il est très important que le mappeur indique clairement la direction dans laque
 
 Nominateur(s) : [Pasonia](https://osu.ppy.sh/users/43345)
 
-Le **spacing out** fait référence aux objets dans lesquels ils sont placés en termes de distance, et non de temps.
+Le **spacing out** fait référence aux objets tels qu'ils sont placés en termes de distance, et non de temps.
 Cette technique a l'avantage de maintenir l'élan d'un morceau pendant cette section de la map.
-Cependant, un patternmapping incorrect peut conduire à une map presque injouable.
+Cependant, un patternmapping incorrect peut conduire à une map quasiment injouable.
 
 En gros, formez un carré autour du centre avec 4 cercles.
 Les 4 cercles suivants doivent ensuite être placés 1 espace de grille plus loin et ainsi de suite.
@@ -115,7 +115,7 @@ Une autre variante que vous pouvez ajouter est de placer un cercle au centre apr
 
 Nominateur(s) : [OzzyOzrock](https://osu.ppy.sh/users/465153)
 
-Le **step-too-fars** utilise une trajectoire linéaire de cercles qui sont espacés d'un quart de temps.
+Les **step-too-fars** utilisent une trajectoire linéaire de cercles qui sont espacés d'un quart de temps.
 Cependant, lorsqu'ils atteignent la "fin" de la ligne, les objets reculent d'une case (le cercle avant la fin de la ligne) puis changent de direction.
 
 ## Vitesse
@@ -137,13 +137,13 @@ Nominateur(s) : [pieguyn](https://osu.ppy.sh/users/107485)
 Les **streams compressés** utilisent des cercles qui ne sont séparés que par 3 espaces de grille (sur un niveau à 2 ou 3 grilles).
 Sinon, il suffit de rendre le stream considérablement plus petit par rapport au reste de la map.
 
-La majorité des maps qui utilisent des streams sont les plus susceptibles d'être vues en utilisant des steams compressés.
+La majorité des maps qui utilisent des streams sont plus susceptibles d'utiliser des streams compressés.
 
 ### Streams discontinus
 
 Nominateur(s) : [benguin](https://osu.ppy.sh/users/1322807)
 
-On parle de **streams discontinu** lorsqu'il y a un *jump* dans le stream, même si le temps entre les notes du jump est de la même longueur que le temps entre les notes du reste du steam.
+On parle de **streams discontinus** lorsqu'il y a un *jump* dans le stream, même si le temps entre les notes du jump est de la même longueur que le temps entre les notes du reste du stream.
 
 ### Deathstreams
 
@@ -152,7 +152,7 @@ Nominateur(s) : [NoHItter](https://osu.ppy.sh/users/124455)
 Les **deathstream** sont *très* longs et difficiles.
 Il s'agit de sliders (avec ou sans répétitions), de cercles ou d'une combinaison des deux.
 
-Le travail d'un deathstream est de faire échouer pratiquement les joueurs qui ne peuvent pas gérer les streams ordinaires.
+Le but d'un deathstream est de pratiquement faire échouer les joueurs qui ne peuvent pas gérer les streams ordinaires.
 
 L'utilisation de deathstreams rendra votre map **unrankable**!
 Cependant, il peut être accepté comme l'une des beatmaps *approuvée*.
@@ -162,7 +162,7 @@ Cependant, il peut être accepté comme l'une des beatmaps *approuvée*.
 Nominateur(s) : [dkun](https://osu.ppy.sh/users/154400) et [MMzz](https://osu.ppy.sh/users/128993)
 
 Le **slider stream jumps** est une technique plus avancée pour osu!.
-Au lieu d'utiliser un stream orthodoxe, vous le remplacez par des sliders.
+Au lieu d'utiliser un stream ordinaire, vous le remplacez par des sliders.
 Cela permet de conserver la même difficulté de stream, car vous devez vous déplacer et frapper plutôt que de simplement suivre un stream.
 
 Essentiellement, vous sautez avec votre slider et votre stream, d'où le terme *Slider Stream Jumps*.
@@ -171,10 +171,10 @@ Essentiellement, vous sautez avec votre slider et votre stream, d'où le terme *
 
 Nominateur(s) : [Lybydose](https://osu.ppy.sh/users/64501)
 
-Un **triplet streams** utilise un ensemble de trois cercles qui doivent être frappés en succession rapide.
+Les **triplet streams** utilisent un ensemble de trois cercles qui doivent être frappés en succession rapide.
 Ceux-ci sont généralement placés dans un diviseur d'un quart de temps en fonction du BPM de la map.
 
-Ils peuvent l'être en une seule succession ou en plusieurs, selon ce que souhaite le mappeur.
+Ils peuvent être en une seule succession ou en plusieurs, selon ce que souhaite le mappeur.
 
 Notez que Triplet Steams ne fait **pas** référence à un triplet réel en [théorie musicale](/wiki/Beatmap_Editor_Guides/Music_Theory).
 
