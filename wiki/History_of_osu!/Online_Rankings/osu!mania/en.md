@@ -11,4 +11,4 @@ tags:
 
 # osu!mania rankings history
 
-The following is a list of players who are recognised to have reached rank #1 in the [global ranking](https://osu.ppy.sh/rankings/mania/performance) of [osu!mania](/wiki/Game_mode/osu!mania).
+This page is meant for a list of players who are recognised to have reached rank #1 in the [global ranking](https://osu.ppy.sh/rankings/mania/performance) of [osu!mania](/wiki/Game_mode/osu!mania).

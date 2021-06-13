@@ -11,4 +11,4 @@ tags:
 
 # osu!taiko rankings history
 
-The following is a list of players who are recognised to have reached rank #1 in the [global ranking](https://osu.ppy.sh/rankings/taiko/performance) of [osu!taiko](/wiki/Game_mode/osu!taiko).
+This page is meant for a list of players who are recognised to have reached rank #1 in the [global ranking](https://osu.ppy.sh/rankings/taiko/performance) of [osu!taiko](/wiki/Game_mode/osu!taiko).
