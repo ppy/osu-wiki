@@ -12,7 +12,7 @@ tags:
 
 ## Introduction
 
-The **osu! UK tournament 4** (***OUKT4***) was an ![][flag_GB] United Kingdom single elimination 1v1 osu!standard tournament hosted by ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) and Co-Hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 4th iteration of the **osu! UK Tournament** (***OUKT***) series.
+The **osu! UK tournament 4** (***OUKT4***) was n ![][flag_GB] United Kingdom single elimination 1v1 osu!standard tournament hosted by ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) and Co-Hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 4th iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament Schedule
 
@@ -493,10 +493,10 @@ Sunday, 18 January 2015:
 - UK staff are allowed to play.
 - This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets will be determined by standard seeding 1-128 2-127 and so on ([seeding explained on Wikipedia](http://en.wikipedia.org/wiki/Seed_%28sports%29 "Wikipedia"))
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round.
-- Each map pool will have 5-9 no mod picks, 2 mod picks, a freemod bracket and 1 tiebreaker The mod brackets shall be Hidden/Double Time/Hard Rock/Freemod. Two maps for each.
-- Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he cant pick from the HD pool again. P2 may however pick a HD map.
+- Each map pool will have 5-9 no mod picks, 2 mod picks, a freemod bracket, and 1 tiebreaker. The mod brackets shall be Hidden/Double Time/Hard Rock/Freemod. Two maps for each.
+- Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he can't pick from the HD pool again. P2 may however pick a HD map.
 - In the Freemod bracket, you are allowed to either pick no mods, or HD/HR (either individually or combined)
-- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - This can be any submitted map, as long as its playable (no trapce) this does not count towards match score.
+- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - this can be any submitted map, as long as it's playable (no Trapce). This does not count towards match score.
 - If one of the players fails to show, they get a additional 10 minutes or otherwise forfeit. If neither show, the match shall be re-arranged.
 - If a player disconnects from the game, a regame will be offered. Ragequitters/quits will forfeit that map. This is relating to genuine internet disconnects/cuts/failures.
 - RO128/RO64 will be best of 5. RO32/RO16 will be best of 7. Quarterfinals/Semifinals will be best of 9. Finals/3rd Place will be best of 11.
@@ -504,7 +504,7 @@ Sunday, 18 January 2015:
 
 ### Match Rules
 
-- The referee shall make the game and give it a appropriate title. First pick shall be decided by !roll, highest roll wins. The pick order then will alternate back and forth between both players until one player wins.
+- The referee shall make the game and give it a appropriate title. First pick shall be decided by `!roll`, the highest roll wins. The pick order then will alternate back and forth between both players until one player wins.
 - The game mode will be set to Team Vs.
 - The referee is not to participate in the actual playing of the beatmaps.
 - Warm-ups can be any submitted osu!standard map, as long as its under 5 mins.
@@ -516,11 +516,11 @@ Sunday, 18 January 2015:
 ### Scheduling Rules/Info
 
 - Matches will be played on the Weekends, Monday, Tuesday or Wednesday (I work so issues could arise)
-- If you cannot play at the time posted for you, contact the organizer for a re arrangement.
+- If you cannot play at the time posted for you, contact the organizer for a rearrangement.
 - Not showing to the match is subject to the rules outlined in Tournament Rules.
 - Each round schedule shall be released a week before the actual matches take place.
 - We are looking to complete each round on the weekends.
-- In special cases, with the agreement of both players; matches can also be played before this during the week. This is only if advance notice is given.
+- In special cases, with the agreement of both players, matches can also be played before this during the week. This is only if advance notice is given.
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"

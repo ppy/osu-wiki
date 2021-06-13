@@ -608,18 +608,18 @@ The RO16 onwards will be a standard Double Elimination bracket, seeded by perfor
 
 ### Tournament Rules
 
-- Your rank must be lower than #30000 to play. (29999 = lower) Signups under this rank will not be considered. You must also have a UK flag to be eligible, or be able to prove your nationality is UK. Ireland flag players are permitted to signup.
+- Your rank must be lower than #30000 to play. Signups under this rank will not be considered. You must also have a UK flag to be eligible, or be able to prove your nationality is UK. Ireland flag players are permitted to signup.
 - UK staff are allowed to play.
-- The map pool will consist of Nomod, HR, DT, HD, Freemod. The mods permitted on Freemod maps are: Hidden, Hardrock or Hidden + HardRock. Nomod is also permitted.
+- The map pool will consist of Nomod, HardRock, DoubleTime, Hidden, Freemod. The mods permitted on Freemod maps are: Hidden, HardRock or Hidden + HardRock. Nomod is also permitted.
 - A player may only pick from each mod pool once.
-- If one of the players fails to show, they get a additional 10 minutes or otherwise forfeit. If neither show, the match shall be re-arranged.
+- If one of the players fails to show, they get a additional 10 minutes or otherwise forfeit. If neither show, the match shall be rearranged.
 - If a player experiences software or hardware issues or network issues and fails a map, rematches will be offered. They may decline this at their wish.
 - Any unexpected happenings or events not covered by the rules shall be handled by the organizer at their discretion.
 
 ### Match Rules
 
-- Before the start of the match, both players are given a single ban on a map from the map pool. Maps banned cannot be picked. For mod parts of the pool, both mod picks cannot be banned. (You can only ban 1 HD, 1 HR, etc.)
-- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - This can be any submitted map, as long as its playable (no centipede-tier maps) this does not count towards match score.
+- Before the start of the match, both players are given a single ban on a map from the mappool. Maps banned cannot be picked. For mod parts of the pool, both mod picks cannot be banned. (You can only ban 1 HD, 1 HR, etc.)
+- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - this can be any submitted map, as long as it's playable (no centipede-tier maps). This does not count towards match score.
 - The game mode will be set to Team Vs.
 - The referee is not to participate in the match.
 - After the end of the match, the referee will post the title of the match and a link to the MP history of that lobby and the final match score.
@@ -629,7 +629,7 @@ The RO16 onwards will be a standard Double Elimination bracket, seeded by perfor
 ### Scheduling Rules
 
 - The tournament will aim to be on the weekends, as the majority of players will be available. However, matches can be scheduled on any day dependent on availability of staff/players.
-- If you cannot play at the time posted for you, contact the organizer for a re arrangement.
+- If you cannot play at the time posted for you, contact the organizer for a rearrangement.
 - No-Showing is subject to the rules outlined in Tournament Rules.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
