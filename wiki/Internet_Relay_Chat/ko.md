@@ -39,7 +39,7 @@ IRC 클라이언트의 설정 창에서 다음 값들을 채우세요 (서버를
 
 | IRC 클라이언트 | 설명 |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/ "GitHub") | `설정 (Settings)` -> `기본 설정 (Preferences)` -> `대화 (Chatting)` -> `일반 (General)`에서  "입장/퇴장 메시지 숨김" 체크하기  (Advanced pre-2.9.6)  |
+| [HexChat](https://hexchat.github.io/ "GitHub") | `설정 (Settings)` -> `기본 설정 (Preferences)` -> `대화 (Chatting)` -> `일반 (General)`에서  "입장/퇴장 메시지 숨김" 체크하기  (Advanced pre-2.9.6) |
 | [ircII](http://www.eterna.com.au/ircii/ "ircII") | `IGNORE * CRAP` 입력 |
 | [Irssi](https://irssi.org "Irssi") | `/ignore * JOINS PARTS QUITS` 입력 |
 | [Weechat](https://weechat.org/ "Weechat") | `/filter add joinquit * irc_join,irc_part,irc_quit *` 입력 |
@@ -76,7 +76,7 @@ osu!Bancho는 일반적인 텍스트 인증을 사용합니다 — IRC 클라이
 IRC 표준에는 모든 사용자가 할 수 있는 작업 또는 채널 모드라는 개념이 있습니다. osu!Bancho에서는, 채팅 유저들을 대상으로 2개의 특별 그룹이 존재합니다:
 
 - `+`, 또는 "음성채팅 상태": 외부 IRC 클라이언트를 통해 접속한 유저
-- `@`, 또는 "채팅 운영자 상태": 챗 모더레이터 ([GMT](/wiki/GMT) 또는 [NAT](/wiki/NAT))
+- `@`, 또는 "채팅 운영자 상태": 챗 모더레이터 ([GMT](/wiki/People/The_Team/Global_Moderation_Team) 또는 [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
 
 osu! 게임 클라이언트 또는 웹사이트를 통해 접속한 유저는 닉네임 앞에 아무것도 붙지 않습니다.
 
