@@ -491,7 +491,7 @@ Sunday, 18 January 2015:
 
 - This tournament is for players ranked #50,000 to #1 only (We can be a little lenient if needed)
 - UK staff are allowed to play.
-- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets will be determined by standard seeding 1-128 2-127 and so on. [More info.](http://en.wikipedia.org/wiki/Seed_%28sports%29)
+- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets will be determined by standard seeding 1-128 2-127 and so on ([seeding explained on Wikipedia](http://en.wikipedia.org/wiki/Seed_%28sports%29 "Wikipedia"))
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round.
 - Each map pool will have 5-9 no mod picks, 2 mod picks, a freemod bracket and 1 tiebreaker The mod brackets shall be Hidden/Double Time/Hard Rock/Freemod. Two maps for each.
 - Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he cant pick from the HD pool again. P2 may however pick a HD map.

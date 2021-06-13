@@ -12,7 +12,7 @@ tags:
 
 ## Introduction
 
-The **UK osu!standard tournament!** (***OUKT1***) was an ![][flag_GB] United Kingdom single elimination 1v1 osu!standard tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 1st iteration of the **osu! UK Tournament** (***OUKT***) series.
+The **UK osu!standard tournament!** (***OUKT1***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu!standard tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 1st iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament Schedule
 
@@ -270,7 +270,7 @@ Saturday, 7 December 2013
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round until the Finals. (no more matches)
 - Each map pool will have 6-8 no mod picks, 2 mod picks and 1 tiebreaker. The mod brackets shall be Hidden/Double Time/Hard Rock. Two maps for each.
 - Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he cant pick from the HD pool again. P2 may however pick a HD map.
-- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - This can be any ranked/approved map. this does not count towards match score.
+- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - this can be any ranked/approved map. This does not count towards match score.
 - If one of the players fails to show, they will be given 10 minutes. They will then drop 1 game. If they fail to show within 20, they forfeit the match. If neither show, the match shall be postponed to make way for other matches that are ready to be played.
 - If a player disconnects from the game, a regame will be offered. Ragequitters/quits will forfeit that map. This is relating to genuine internet disconnects/cuts/failures.
 - RO32/RO16 will be best of 5. Quarterfinals, Semifinals will be best of 7. Finals will be best of 9.
@@ -278,7 +278,7 @@ Saturday, 7 December 2013
 
 ### Match Rules
 
-- The referee shall make the game and give it a appropriate title. First pick shall be decided by !roll, highest roll wins. The pick order then will alternate back and forth between both players until a winner is declared.
+- The referee shall make the game and give it a appropriate title. First pick shall be decided by `!roll`, the highest roll wins. The pick order then will alternate back and forth between both players until a winner is declared.
 - The game mode shall be set to Team Vs.
 - The referee is not to participate in the actual playing of the beatmaps.
 - Players shall PM the referee with the beatmap they are picking from the map pool.
@@ -288,11 +288,11 @@ Saturday, 7 December 2013
 ### Scheduling Info
 
 - Matches will be played on the weekend.
-- If you cannot play at the time posted for you, contact the organizer for a re arrangement.
+- If you cannot play at the time posted for you, contact the organizer for a rearrangement.
 - Not showing to the match is subject to the rules outlined in Tournament Rules.
 - Each round schedule shall be released a week before the actual matches take place.
 - We are looking to complete each round on Saturday. If not possible due to availability, matches can be re arranged for Sunday.
-- In special cases, with the agreement of both players; matches can also be played before this during the week. If you have a strong reason, contact the organizer.
+- In special cases, with the agreement of both players, matches can also be played before this during the week. If you have a strong reason, contact the organizer.
 
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

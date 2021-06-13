@@ -10,7 +10,7 @@ tags:
 
 ## Introduction
 
-The **osu! UK tournament 3** (***OUKT3***) was an ![][flag_GB] United Kingdom single elimination 1v1 osu!standard tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 3rd iteration of the **osu! UK Tournament** (***OUKT***) series.
+The **osu! UK tournament 3** (***OUKT3***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu!standard tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 3rd iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament Schedule
 
@@ -347,10 +347,10 @@ Saturday, 28 June 2014 & Sunday, 29 July 2014
 - UK staff are allowed to play.
 - This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets will be determined by the Draw Master, see Seeding Rules.
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round.
-- Each map pool will have 5-9 no mod picks, 2 mod picks, a freemod bracket and 1 tiebreaker The mod brackets shall be Hidden/Double Time/Hard Rock/Freemod. Two maps for each.
-- Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he cant pick from the HD pool again. P2 may however pick a HD map.
-- In the Freemod bracket, you are allowed to either pick no mods, or HD/HR (either individually or combined)
-- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - This can be any submitted map, as long as its playable (no trapce) this does not count towards match score.
+- Each map pool will have 5-9 no mod picks, 2 mod picks, a freemod bracket and 1 tiebreaker. The mod brackets shall be Hidden/Double Time/Hard Rock/Freemod. Two maps for each.
+- Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he can't pick from the HD pool again. P2 may however pick a HD map.
+- In the Freemod bracket, you are allowed to either pick no mods, or HD/HR (either individually or combined).
+- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - this can be any submitted map, as long as it's playable (no Trapce). This does not count towards match score.
 - If one of the players fails to show, they get a additional 10 minutes or otherwise forfeit. If neither show, the match shall be re-arranged.
 - If a player disconnects from the game, a regame will be offered. Ragequitters/quits will forfeit that map. This is relating to genuine internet disconnects/cuts/failures.
 - RO64/RO32 will be best of 5. RO16 will be best of 7. Quarterfinals/Semifinals will be best of 9. Finals/3rd Place will be best of 11.
@@ -369,7 +369,7 @@ Seeding for this tournament will be as follows. This is a tournament of 64 playe
 
 ### Match Rules
 
-- The referee shall make the game and give it a appropriate title. First pick shall be decided by !roll, highest roll wins. The pick order then will alternate back and forth between both players until one player wins.
+- The referee shall make the game and give it a appropriate title. First pick shall be decided by `!roll`, the highest roll wins. The pick order then will alternate back and forth between both players until one player wins.
 - The game mode will be set to Team Vs.
 - The referee is not to participate in the actual playing of the beatmaps.
 - Players PM the referee with the beatmap they are picking from the map pool.
@@ -380,7 +380,7 @@ Seeding for this tournament will be as follows. This is a tournament of 64 playe
 ### Scheduling Rules/Info
 
 - Matches will be played on the weekend.
-- If you cannot play at the time posted for you, contact the organizer for a re arrangement.
+- If you cannot play at the time posted for you, contact the organizer for a rearrangement.
 - Not showing to the match is subject to the rules outlined in Tournament Rules.
 - Each round schedule shall be released a week before the actual matches take place.
 - We are looking to complete each round on the weekends.
