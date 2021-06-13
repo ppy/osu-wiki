@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 <!-- TODO: mention lazer tournament client -->
 
 # osu!tourney 設置
