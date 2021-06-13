@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!tourney Skin
 
 ![可以用各種方式自訂客戶端](img/Osutourneycustom.png)
