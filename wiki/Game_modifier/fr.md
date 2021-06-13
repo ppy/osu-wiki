@@ -25,15 +25,15 @@ Sur l'écran de sélection, les mods sont séparés en trois catégories : `Diff
 
 *Voir aussi : [Résumé (modificateur de jeu)](/wiki/Game_modifier/Summary)*
 
-Chacun des mods ci-dessous aura l'icône de son mode de jeu compatible (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) à côté d'elle.
+Chacun des mods ci-dessous aura l'icône de son mode de jeu compatible (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) affiché sur le côté.
 
-### Difficulté réduit
+### Difficulté réduite
 
 - [Easy (EZ)](/wiki/Game_modifier/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [No Fail (NF)](/wiki/Game_modifier/No_Fail) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Half Time (HT)](/wiki/Game_modifier/Half_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### DDifficulté augmentée
+### Difficulté augmentée
 
 - [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -60,7 +60,7 @@ Chacun des mods ci-dessous aura l'icône de son mode de jeu compatible (![][osu!
 
 ### Autre
 
-*Note : Ces mods ont été utilisés et disponibles il y a quelque temps, mais sont maintenant indisponibles.*
+*Note : Ces mods étaient utilisés et disponibles il y a quelque temps, mais sont maintenant indisponibles.*
 
 - [10K](/wiki/Game_modifier/10k) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
