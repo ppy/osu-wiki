@@ -353,7 +353,7 @@ Saturday, 22 March 2014
 ### Tournament Rules
 
 - UK staff are allowed to play.
-- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined through RNG (basically randomization)
+- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined through a random draw.
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round.
 - Each map pool will have 5-8 no mod picks, 2 mod picks, a freemod bracket, and 1 tiebreaker. The mod brackets shall be Hidden/Double Time/Hard Rock/Freemod. Two maps for each.
 - Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he can't pick from the HD pool again. P2 may however pick a HD map.
