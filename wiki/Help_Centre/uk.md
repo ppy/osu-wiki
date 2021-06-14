@@ -1,5 +1,6 @@
 ---
 needs_cleanup: true
+outdated: true
 ---
 
 <!-- TODO: same deal as FAQ. this should be split up into appropriate articles and only written as guides where necessary. right now this page is only useful for people linking directly to sections of it -->
@@ -622,7 +623,7 @@ Tor або мережі, асоційовані з реле Tor, не будут
 
 У більшості ГП від Wacom, це може бути зроблене через вкладку `Mapping` у програмі `Wacom Tablet Properties`.
 
-![Екран, де відкрита програма Wacom Tablet Properties показує налаштування секції Mapping](img/Tabarea.png "Інтерфейс для зміни площі планшета на девайсах від  Wacom")
+![Екран, де відкрита програма Wacom Tablet Properties показує налаштування секції Mapping](Client/img/tablet-area.png "Інтерфейс для зміни площі планшета на девайсах від  Wacom")
 
 Також, вам потрібно проконсультвуватись з виробником планшетів для зміни площі графічного пристрою для вашої периферії.
 

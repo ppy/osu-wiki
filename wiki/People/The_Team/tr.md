@@ -5,6 +5,8 @@ tags:
   - osu! team
   - staff
   - team osu!
+  - ekip
+  - takım
 ---
 
 # Ekip
@@ -33,7 +35,6 @@ Aşağıdaki listelenen kişiler **osu!team** çekirdek kadrosunu oluşturmakta,
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! geliştiricisi, osu!mania aşığı, hata haklayıcı |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved yöneticisi, topluluk danışmanı, Featured Artist'lerle iletişim |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Ev genel idarecisi, turnuva asistanı |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Ev genel idarecisi, Dünya Kupası organizatörü ve yöneticisi, wiki idarecisi |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Tehlike altındaki tür |
 
 Yukarıdakilere ek olarak, [hesap destek ekibi](Account_support_team) erişiminizin ötesindeki konularda size yardımcı olmak için bulunurlar.
@@ -75,6 +76,7 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Orijinal pippi konsepti ve çizim dizaynerı. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Erken topluluk yöneticisi ve lideri, toplantı notları ve SSS katkısı |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | osu! ve pp geliştiricisi |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Ev genel idarecisi, Dünya Kupası organizatörü ve yöneticisi, wiki idarecisi |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! geliştiricisi, osu!mania modu geliştiricisi |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) sorumlusu |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) profesörü, medya ve karakter tasarımcısı |

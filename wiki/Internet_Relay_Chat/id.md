@@ -76,7 +76,7 @@ Ketik beberapa kata pertama dari nama pengguna, lalu tekan `Tab` untuk memunculk
 Konsep IRC pada umumnya memiliki beberapa mode kanal atau sekumpulan aksi di mana setiap pengguna dapat menggunakannya. Di osu!Bancho terdapat dua mode yang digunakan untuk mewakilkan kelompok khusus pengguna obrolan:
 
 - `+`, atau "voice status": pengguna terhubung dengan klien IRC eksternal
-- `@`, atau "chat operator status": pengguna adalah seorang moderator ([GMT](/wiki/GMT) atau [NAT](/wiki/NAT))
+- `@`, atau "chat operator status": pengguna adalah seorang moderator ([GMT](/wiki/People/The_Team/Global_Moderation_Team) atau [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
 
 Pengguna yang terhubung melalui klien osu! atau website tidak akan mempunyai prefix.
 

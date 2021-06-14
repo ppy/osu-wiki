@@ -317,7 +317,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Amidst - Fate](https://osu.ppy.sh/beatmapsets/1359944#osu/2814151) hosted by ![][flag_US] [Aeril](https://osu.ppy.sh/users/4334976)
   - (![][osu!]) [Amidst - Treat (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1345615#osu/2786730) hosted by ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)
   - (![][osu!]) [Amidst & OHEY - Need U (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1319384#osu/2733104) hosted by ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231)
-- **[Xanthochroid](https://osu.ppy.sh/home/news/2021-03-27-new-featured-artist-amidst)** (2021-03-27)
+- **[Xanthochroid](https://osu.ppy.sh/home/news/2021-03-31-new-featured-artist-xanthochroid)** (2021-03-31)
   - (![][osu!]) [Xanthochroid - The Sound of Hunger Rises](https://osu.ppy.sh/beatmapsets/1335143#osu/2766094) hosted by ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 
 ### April
@@ -348,6 +348,8 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!mania]) [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1126358) hosted by ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)
 - **[yukitani](https://osu.ppy.sh/home/news/2021-05-22-new-featured-artist-yukitani)** (2021-05-22)
   - (![][osu!taiko]) [yukitani - Amusing Reflection Rag.](https://osu.ppy.sh/beatmapsets/1436446) hosted by ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011)
+- **[Sewerslvt](https://osu.ppy.sh/home/news/2021-05-29-new-featured-artist-sewerslvt)** (2021-05-29)
+  - (![][osu!taiko]) [Sewerslvt - Newlove](https://osu.ppy.sh/beatmapsets/1442626) hosted by ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
 
 ## History
 

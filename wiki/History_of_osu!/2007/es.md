@@ -67,7 +67,7 @@ Rápidamente después del lanzamiento público, los primeros mods, [Easy](/wiki/
 
 ## Octubre
 
-2007-10-01 fue el día en que las clasificaciones en línea se pusieron a disposición públicamente. Esto también vio el lanzamiento del método de empaquetado `.osz`, y la base de datos de beatmaps en línea con un sistema de envío temprano basado en la web. Las clasificaciones en línea fueron añadidas a la interfaz dentro del juego y también mostradas en la página.
+2007-10-06 fue el día en que las clasificaciones en línea se pusieron a disposición públicamente. Esto también vio el lanzamiento del método de empaquetado `.osz`, y la base de datos de beatmaps en línea con un sistema de envío temprano basado en la web. Las clasificaciones en línea fueron añadidas a la interfaz dentro del juego y también mostradas en la página.
 
 ![](img/2007-10_01.jpg)
 

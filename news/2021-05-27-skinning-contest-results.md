@@ -24,6 +24,10 @@ The mod icons look minimal, but are still information-rich and cleverly concaten
 
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/7IWbYVoNocM" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+The harmony of futuristic design and simplistic structures illustrated in notMiku rewards Nikstrim with the 3rd place profile badge! Great work, Nikstrim!
+
+![](/wiki/shared/news/2021-05-27-skinning-contest-results/skinning_contest_badge_notmiku.jpg)
+
 ## 2nd Place - Minimalist 2.0
 
 **1849** voters couldn't help but cast their vote for this masterpiece called [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223), crafted by the very hands of [**Krizto**](https://osu.ppy.sh/users/13474556), reserving them 2nd place on the podium!
@@ -33,6 +37,10 @@ As the name suggests, Minimalist 2.0 takes a better approach to the notion of mi
 Offering some needed contrast to the dark-grey ambiance, light mountain and accent colours differentiate the skin from its minimalist counterparts. Additionally, the skin utilizes a rare gimmick - a fully-animated bottom section - that most other skins handle poorly. Yet, Krizto's skillful hands have taken the hearts of many skinning enthusiasts with this very trick. If you're tired of playing with static skins, Minimalist 2.0 will most certainly satisfy your animation-thirsty needs!
 
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/InlwaD3GsJI" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Krizto's beloved masterpiece, Minimalist 2.0, earns them a shiny 2nd place profile badge inspired by the very artist's minimalistic touches! Good job, Krizto!
+
+![](/wiki/shared/news/2021-05-27-skinning-contest-results/skinning_contest_badge_minimalist.jpg)
 
 ## Winner - FREEDOM DiVE↓
 
@@ -44,9 +52,9 @@ Despite the extravagantly placed objects and richness in colour, team BTMC did a
 
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/nNIeBiWKYQI" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-With his FREEDOM DiVE↓ entry, BTMC is awarded the trophy worthy of a champion - a profile badge exclusively designed to be themed around the skin itself! Congratulations BTMC, well-deserved!
+With his FREEDOM DiVE↓ entry, BTMC is awarded the trophy worthy of a champion, a profile badge featuring the mascot of the all-time popular FREEDOM DiVE song! Congratulations BTMC, well-deserved!
 
-![](/wiki/shared/news/2021-05-27-skinning-contest-results/skinning_contest_badge.jpg)
+![](/wiki/shared/news/2021-05-27-skinning-contest-results/skinning_contest_badge_freedom_dive.jpg)
 
 ---
 

@@ -604,7 +604,7 @@ Pour l'activer, essayez les étapes suivantes:
 
 Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`.
 
-![Option d'une tablette Wacom montrant les options de Mapping](img/Tabarea.png "Interface pour changer la surface de la tablette pour les appareils Wacom")
+![Option d'une tablette Wacom montrant les options de Mapping](Client/img/tablet-area.png "Interface pour changer la surface de la tablette pour les appareils Wacom")
 
 Vous devrez consulter le constructeur de votre tablette pour savoir comment le faire.
 

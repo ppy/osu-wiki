@@ -1,6 +1,10 @@
+<!-- TODO: needs to be combined with /wiki/Gameplay/Accuracy in some way -->
+
 # Akurasi
 
-Akurasi adalah suatu pengukur konsistensi pemain. Terdapat tiga jenis akurasi yang dimiliki pemain. Salah satunya yaitu akurasi beatmap yang bergantung pada skor hit yang diperoleh. Lainnya adalah akurasi rata-rata pemain yang ditimbang agar skor yang lebih baik dapat lebih menonjol. Dan terakhir, akurasi [pp](/wiki/Performance_Points) pemain yang bergantung pada akurasi skor yang terkirim.
+<!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
+
+Akurasi adalah suatu pengukur konsistensi pemain untuk menekan [hit object](/wiki/Hit_object). Terdapat tiga jenis akurasi yang dimiliki pemain: akurasi keseluruhan pada beatmap, yang bergantung pada hit skor dari keseluruhan hit object yang diperoleh; akurasi keseluruhan pemain, yang ditimbang untuk memungkinkan skor yang lebih baik dan menonjol; dan akurasi [Performance Point (pp)](/wiki/Performance_Points) pada pemain, yang bergantung pada akurasi skor yang terkirim.
 
 ## Mode permainan
 
@@ -45,32 +49,28 @@ Di osu!mania, akurasi dikalkulasi mirip dengan [osu!](#-osu!).
 
 Grafik performa adalah sebuah grafik yang menampilkan performa pemain (berdasarkan bar nyawa) selama bermain (waktu). Informasi tambahan dapat ditampilkan dengan menunjuk kursor dalam-game di atasnya.
 
-*Catatan: Informasi tambahan hanya dapat dilihat setelah bermain sebuah beatmap atau menonton sebuah putaran ulang terekspor. Setelah keluar dari [layar hasil](/wiki/results_screen), informasi ini tidak akan tersimpan.*
+*Catatan: Informasi tambahan hanya dapat dilihat setelah bermain sebuah beatmap atau menonton sebuah putaran ulang terekspor. Setelah keluar dari [layar hasil](/wiki/Interface#ranking-screen), informasi ini tidak akan tersimpan.*
 
 ### Akurasi
 
-Saat menunjuk di atas grafik performa, sebuah tooltip akan ditampilkan dengan *kesalahan* dan *laju tidak stabil*.
+Saat menggerakkan kursor ke grafik performa, sebuah tooltip akan ditampilkan dengan informasi tentang *Error* dan *Unstable Rate*.
 
 Sebab saat mod [DT](/wiki/Game_modifier/Double_time) (Double Time) dan [HT](/wiki/Game_modifier/Half_time) (Half Time) diimplementasikan, nilai kesalahan dan laju tidak stabil akan dikalikan dengan faktor yang sama dengan lagu. Untuk mendapat nilai asli saat bermain DT, bagi hasil dengan 1.5. Sama halnya, kalikan hasil dengan 1.33 saat bermain HT.
 
-#### Kesalahan
+#### Error
 
-Kesalahan akan selalu menampilkan dua nilai yang mewakili seberapa jauh hit lebih dahulu dari rata-rata dan seberapa jauh hit lebih lambat dari rata-rata. Semakin besar nilai [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) dari suatu beatmap, semakin kecil nilai kesalahan yang harus dilakukan saat bermain beatmap.
+`Error` akan selalu menampilkan dua nilai yang mewakili seberapa jauh hit yang lebih dahulu dari rata-rata dan seberapa jauh hit yang lebih lambat dari rata-rata. Semakin besar nilai [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) dari suatu beatmap, semakin kecil nilai kesalahan yang harus dilakukan saat bermain beatmap.
 
-#### Laju tidak stabil
+#### Unstable Rate
 
-Laju tidak stabil mewakili konsistensi penepatan dalam hit, dimana semakin kecil semakin baik (pemain atas sering mendapat skor dibawah 100). Perhatikan bahwa nilai ini mengukur konsistensi, bukan akurasi, jadi konsisten dalam mengenai 15ms lebih dahulu itu sama dengan konsisten mengenai "tepat waktu." Formula dasarnya adalah standar penyimpangan dari kesalahan hit (dalam milisekon) dikalikan dengan 10.
+`Unstable Rate` mewakili konsistensi penepatan dalam hit, dimana semakin kecil semakin baik (pemain atas sering mendapat skor dibawah 100). Perhatikan bahwa nilai ini mengukur konsistensi, bukan akurasi, jadi konsisten dalam mengenai 15ms lebih dahulu itu sama dengan konsisten mengenai "tepat waktu." Formula dasarnya adalah standar penyimpangan dari kesalahan hit (dalam milisekon) dikalikan dengan 10. [Kode Sampel](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) tersedia sebagai referensi, memperlihatkan bagaimana nilai unstable rate dihitung pada osu-stable.
 
-### Spinner
+### Spin
 
-*Catatan: Sutaran hanya digunakan dalam [osu!](/wiki/Game_mode/osu!).*
+*Catatan: Spin hanya berlaku untuk mode permainan [osu!](/wiki/Game_mode/osu!).*
 
-Sebagai tambahan akurasi, beberapa informasi mengenai spinner juga terdapat di tooltip yang sama.
+Sebagai tambahan untuk akurasi, beberapa informasi mengenai spinner juga terdapat di tooltip yang sama.
 
 #### Kecepatan
 
-Kecepatan mewakili rata-rata RPM (putaran per menit) di semua spinner dalam beatmap. Maks adalah RPM tertinggi yang dicapai dalam spinner beatmap manapun.
-
-#### Laju tidak stabil
-
-Laju tidak stabil mewakili rata-rata terhadap Penyimpangan maksimum, dimana semakin kecil semakin baik. Formula tidak diketahui.
+Kecepatan mewakili rata-rata RPM (revolutions per minute) di semua spinner dalam beatmap. `Max` adalah RPM tertinggi yang dapat dicapai oleh pemain pada spinner beatmap apa pun.

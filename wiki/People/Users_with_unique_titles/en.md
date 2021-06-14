@@ -85,7 +85,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
-¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) was awarded with the **Elite Mapper II** title instead for having successfully earned the Elite Mapper title through two different means: Winning the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest and surpassing the 6-points threshold in the new [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest) system.
+¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) was awarded with the **Elite Mapper II** title instead for having successfully earned the Elite Mapper title through two different means: Winning the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest and surpassing the 6-points threshold in the new [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) system.
 
 ### Elite Nominators
 
@@ -124,7 +124,7 @@ The osu!remix contests award the **osu!mixer** title as a first-place prize.
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
 
-¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest.
+¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest.
 
 ### Featured Artists
 
