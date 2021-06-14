@@ -12,7 +12,7 @@ tags:
 
 ## Introduction
 
-The **osu! UK tournament 4** (***OUKT4***) was n ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) and Co-Hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 4th iteration of the **osu! UK Tournament** (***OUKT***) series.
+The **osu! UK tournament 4** (***OUKT4***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) and Co-Hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 4th iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament Schedule
 
