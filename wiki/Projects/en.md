@@ -10,12 +10,12 @@ outdated: true
 
 ## Official
 
-- ~~[Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310)—A forum thread to request deleted graveyarded beatmaps.~~ Closed as of May 3, 2019. If you have a **very urgent** request you can send an email to peppy.
+- [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310)—A forum thread to request deleted graveyarded beatmaps.
 - [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015)—A live feed of current player events.
   - [Website](https://osu.ppy.sh/p/events)
 - [osu! (OS X)](https://osu.ppy.sh/community/forums/topics/56460)—osu! on OS X (results will vary).
   - [GitHub](https://github.com/ppy/osu-wine) | [Website](http://osuosx.tumblr.com)
-- ~~[osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342)—The osu! localisation project, localise your language into osu!.~~ Inactive, please use the [osu-wiki Github](https://github.com/ppy/osu-wiki/) or participate in the [osu-web Crowdin translations](https://crowdin.com/project/osu-web) instead.
+- [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342)—The osu! localisation project, localise your language into osu!.
 - [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)—A release of the initial game client.
 - [osu!api](https://osu.ppy.sh/community/forums/topics/141240)—Public API for accessing osu! related data.
   - [GitHub](https://github.com/ppy/osu-api)
@@ -201,8 +201,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Beatmap Mirrors
 
-- ~~BloodCat—A well known beatmap mirror hosted in Korea.~~ Shutdown as of January 2, 2021
-  - ~~[Website](https://bloodcat.com/)~~
+- BloodCat—A well known beatmap mirror hosted in Korea.
+  - [Website](https://bloodcat.com/)
 - Beatconnect—Came back to life and popularity after the shutdown of BloodCat.
   - [Website](https://beatconnect.io/)
 - Chimu.moe—The succesor to BloodCat.
@@ -228,8 +228,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 - [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262)—A chat client for referees and casual chatters.
   - [Gitlab](https://gitlab.com/hallowatcher/chat4osu)
-- ~~[irc4osu!](https://osu.ppy.sh/community/forums/topics/430741)—A cross-platform IRC client for osu!.~~ Abandoned as of September 30, 2019
-  - ~~[GitHub](https://github.com/arogan-group/irc4osu)~~
+- [irc4osu!](https://osu.ppy.sh/community/forums/topics/430741)—A cross-platform IRC client for osu!.
+  - [GitHub](https://github.com/arogan-group/irc4osu)
 
 ### Performance
 
