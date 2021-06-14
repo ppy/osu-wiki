@@ -630,7 +630,7 @@ The RO16 onwards will be a standard Double Elimination bracket, seeded by perfor
 
 - The tournament will aim to be on the weekends, as the majority of players will be available. However, matches can be scheduled on any day dependent on availability of staff/players.
 - If you cannot play at the time posted for you, contact the organizer for a rearrangement.
-- No-Showing is subject to the rules outlined in Tournament Rules.
+- Not showing is subject to the rules outlined in Tournament Rules.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
