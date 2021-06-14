@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu! Alumni (osu! 名人堂)
 
 **osu! Alumni (osu! 名人堂)** 是為了紀念那些曾為 osu! 做出傑出貢獻的玩家。當資源允許，我們將在小鎮廣場為每位成員建立一個雕像。
