@@ -266,7 +266,7 @@ Saturday, 7 December 2013
 
 ### Tournament Rules
 
-- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined by seeding via TP. (There is one exception here, as someone took the place of a higher seed player.)
+- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined by seeding via [osu!TP](https://web.archive.org/web/20131113173042/http://osutp.net/info "Internet Archive - osu!tp). (There is one exception here, as someone took the place of a higher seed player.)
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round until the Finals. (no more matches)
 - Each map pool will have 6-8 no mod picks, 2 mod picks and 1 tiebreaker. The mod brackets shall be Hidden/Double Time/Hard Rock. Two maps for each.
 - Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he cant pick from the HD pool again. P2 may however pick a HD map.
