@@ -85,11 +85,11 @@ Nominateur : [Mashley](https://osu.ppy.sh/users/41481)
 Les **cutting sliders** consistent en 2 sliders, généralement d'une longueur d'un temps et espacés d'un demi-ton, qui se chevauchent.
 Le deuxième slider semble *couper* l'autre slider, d'où son nom.
 
-### Cutting Sliders
+### Crumpled sliders
 
 Nominateur : [Lilac](https://osu.ppy.sh/users/58197)
 
-Les **Crumpled sliders** utilisent un slider avec de nombreux points de contrôle pour compresser le slider afin de créer une sorte d'effet froissé ou écrasé.
+Les **crumpled sliders** utilisent un slider avec de nombreux points de contrôle pour compresser le slider afin de créer une sorte d'effet froissé ou écrasé.
 En fait, cela donnerait l'impression que le slider est plus court qu'il n'est censé l'être.
 Ceux-ci peuvent se présenter sous différentes formes.
 
@@ -103,7 +103,7 @@ Les **end-cutter sliders** utilisent un slider dont l'extrémité est empilée s
 
 Nominateur : [Rukario](https://osu.ppy.sh/users/110372)
 
-Les **Krisom-Krosses** se composent de deux [wave sliders.](#wave-sliders).
+Les **krisom-krosses** se composent de deux [wave sliders](#wave-sliders).
 Il s'agit de [mirrored sliders](#mirrored-sliders) horizontaux ou verticaux tels que le milieu des deux sliders se chevauche.
 
 Cette technique a été baptisée par [Krisom](https://osu.ppy.sh/users/99269).
@@ -167,7 +167,7 @@ Un cercle est alors placé à l'endroit où se trouvait la tête du slider préc
 
 Nominateur : [Rolled](https://osu.ppy.sh/users/5243)
 
-Un **Tick-Hitsounds** consiste en des slider ticks qui ont été remplacés par un son de hit standard (clap, whistle, finish - généralement superposé avec hit-normal/soft pour un son précis).
+Un **tick-hitsounds** consiste en des slider ticks qui ont été remplacés par un son de hit standard (clap, whistle, finish - généralement superposé avec hit-normal/soft pour un son précis).
 Ils sont généralement utilisés pour faire en sorte qu'un hitsound semble "constant", même pendant un slider.
 
 ### Tricky Triple Combo
