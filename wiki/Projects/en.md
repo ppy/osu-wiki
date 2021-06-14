@@ -134,9 +134,9 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   2. Hit Object to Storyboard—Allows you to copy hitsounds and paste them into the storyboard.
   3. Note Density calculator—Lists the distribution of keys in osu!mania maps.
   4. Hitsound Detective—Checks for unused hitsounds in other difficulties (based on the selected difficulty).
-    - [Github](https://github.com/dudehacker/Hitsound-Detective)
+     - [Github](https://github.com/dudehacker/Hitsound-Detective)
   5. Keysound Maker—Creates keysounds for osu!mania.
-    - [GitHub](https://github.com/dudehacker/Osu-Keysound-Maker)
+     - [GitHub](https://github.com/dudehacker/Osu-Keysound-Maker)
 - [o2jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149)—An o2jam to osu!mania converter.
 - [OMISM](https://osu.ppy.sh/community/forums/topics/664319)—An osu!mania to Stepmania beatmap converter (and an osu!mania keysound copier).
   - [GitHub](https://github.com/BilliumMoto/OMiSM)
