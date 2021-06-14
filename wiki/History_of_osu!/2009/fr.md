@@ -30,4 +30,4 @@ osu! passe sur iPhone grâce à un portage sur iPhone par nuudles. Le projet a e
 
 ![](img/2009-01_13.jpg "Écran de résultat")
 
-![](img/2009-01_14.jpg "Nouveau record!")
+![](img/2009-01_14.jpg "Nouveau record !")
