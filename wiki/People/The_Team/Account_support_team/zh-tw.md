@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 帳號支援團隊
 
 *關於管理論壇的團隊，請見：[支援團隊](/wiki/People/The_Team/Support_Team)*
