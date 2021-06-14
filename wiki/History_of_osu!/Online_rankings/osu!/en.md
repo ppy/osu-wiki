@@ -96,7 +96,7 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-01-11 | 2010-02-01 | [\[1\]](https://web.archive.org/web/20100207194753/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2010-02-01 | 2010-02-02 | [\[1\]](https://osu.ppy.sh/community/forums/topics/23715) |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-02-02 | 2010-03-17 | [\[1\]](https://web.archive.org/web/20100207194753/http://osu.ppy.sh/p/playerranking "Imgur") |
-| ![][flag_GB] [Doomsday (*Doomsday93*)](https://osu.ppy.sh/users/18983) | 2010-03-17 | 2009-03-18 | [\[1\]](https://osu.ppy.sh/community/forums/topics/26603) |
+| ![][flag_GB] [Doomsday (*Doomsday93*)](https://osu.ppy.sh/users/18983) | 2010-03-17 | 2010-03-18 | [\[1\]](https://osu.ppy.sh/community/forums/topics/26603) |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-03-18 | 2010-06-24 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2010-06-24 | 2010-06-26 | [\[1\]](https://osu.ppy.sh/community/forums/topics/30241?start=449266) |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-06-26 | 2010-07-10 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
