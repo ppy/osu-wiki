@@ -8,7 +8,7 @@
 
 ![](img/main-menu.jpg "Main Menu")
 
-The [osu!cookie](/wiki/Glossary#cookie) \[1\] pulses according to the [BPM](/wiki/Beatmapping/Beats_per_minute) of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
+The [osu!cookie](/wiki/Glossary/Cookie) \[1\] pulses according to the [BPM](/wiki/Beatmapping/Beats_per_minute) of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
 
 - \[2\] Click Play (`P`) or the logo to switch to the Solo mode song selection screen.
 - \[3\] Click Edit (`E`) to open the Editor mode song selection screen.
@@ -16,7 +16,7 @@ The [osu!cookie](/wiki/Glossary#cookie) \[1\] pulses according to the [BPM](/wik
 - \[5\] Click Exit (`Esc`) to exit osu!.
 - \[6\] A random useful tip is displayed below the menu.
 - \[7\] In the lower-left is a link to the osu! website, as well as copyright information.
-- \[8\] Connection result to [Bancho](/wiki/Glossary#bancho)! In this picture it is not shown, but the connection result looks like a chain link.
+- \[8\] Connection result to [Bancho](/wiki/Bancho_(server))! In this picture it is not shown, but the connection result looks like a chain link.
 - \[9\] In the bottom right are the chat controls for the extended [chat window](/wiki/Chat_Console) (called "Player List" here) and the regular chat window (`F9` & `F8`, respectively).
 - \[10\] In the upper right is the osu! jukebox which plays the songs in random order. The top shows the song currently playing. The buttons, from left to right, do as follows:
   - Previous Track
@@ -89,7 +89,7 @@ Before continuing on, this screen has too many elements to note with easily, not
 
 This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select `Prefer metadata in original language` in the [Options](/wiki/Options), it will show the Unicode title; this is shown in the upper picture. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
 
-- **Length**: The total length of the beatmap, from start to finish and including breaks. Not to be confused with [drain time](/wiki/Glossary#drain-time).
+- **Length**: The total length of the beatmap, from start to finish and including breaks. Not to be confused with [drain time](/wiki/Gameplay/Drain_time).
 - **BPM**: The BPM of the beatmap. If (like in the lower picture) there are two BPMS and one in parentheses, this means that the BPM changes throughout the song. It shows the slowest and fastest BPMs, and the value in parentheses is the BPM at the start of the beatmap.
 - **Objects**: The total amount of [hit objects](/wiki/Hit_Objects) in the beatmap.
 - **Circles**: The total amount of hit circles in the beatmap.
@@ -174,7 +174,7 @@ Supported comparisons:
 - `<=`: Less than or equal to
 - `>=`: Greater than or equal to
 
-You may also enter a beatmap or beatmapset ID in your search to get a single result.
+You may also enter a difficulty or beatmap ID number in your search to get a single result.
 
 ### Rankings
 
@@ -203,8 +203,8 @@ These are the view settings:
 
 Click the word bubble icon to call up the **Quick Web Access** screen for the selected beatmap:
 
-- Press `1` or click the `Beatmap Listing/Scores` button and your default internet browser will pull up the Beatmap Listing and score page of the beatmap set the selected beatmap belongs to.
-- Press `2` or click `Beatmap Modding` and your default internet browser will pull up the modding page of the beatmap set the selected beatmap belongs to.
+- Press `1` or click the `Beatmap Listing/Scores` button and your default internet browser will pull up the Beatmap Listing and score page of the beatmap the selected difficulty belongs to.
+- Press `2` or click `Beatmap Modding` and your default internet browser will pull up the modding page of the beatmap the selected difficulty belongs to.
 - Press `3` or `Esc` or click `Cancel` to return to the Song Selection Screen.
 
 While you are on the Quick Web Access Screen, you cannot access the Chat and Extended Chat Consoles.
@@ -216,9 +216,9 @@ While you are on the Quick Web Access Screen, you cannot access the Chat and Ext
 The song list displays all available beatmaps. Different beatmaps may have different coloured boxes:
 
 - **Pink**: This beatmap has not been played yet.
-- **Orange**: At least one beatmap from the beatmapset has been completed.
-- **Light Blue**: Other beatmaps in the same set, shown when a mapset is expanded.
-- **White**: Currently selected beatmap.
+- **Orange**: At least one difficulty from the beatmap has been completed.
+- **Light Blue**: Other difficulties in the same beatmap, shown when a beatmap is expanded.
+- **White**: Currently selected difficulty.
 
 You can navigate the beatmap list by using the mouse wheel, using the up and down arrow keys, dragging it while holding the left mouse button or clicking the right mouse button (previously known as Absolute Scrolling), which will move the scroll bar to your mouse's Y position. Click on a box to select that beatmap and display its information on the upper left, high scores (if any) on the left and, if you've cleared it, the letter grade of the highest score you've achieved. Click the box again, press `Enter` or click the osu!cookie at the lower right to begin playing the beatmap.
 
@@ -255,7 +255,7 @@ Click the `Random` button or press `F2` to have the game **randomly scroll throu
 Click the `Beatmap Options` button, press `F3` or right-click your mouse while hovering over the beatmap to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
 
 - Press `1` or click the `Manage Collections` button to bring up the Collections screen - here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
-- Press `2` or click `Delete...` to delete the \[1\] currently selected beatmapset, \[2\] delete the currently selected beatmap, or \[3\] delete **all VISIBLE beatmaps**.
+- Press `2` or click `Delete...` to delete the \[1\] currently selected difficulty, \[2\] delete the currently selected beatmap, or \[3\] delete **all VISIBLE beatmaps**.
   - Note that deleted beatmaps are moved to the Recycle Bin.
 - Press `3` or click `Remove from Unplayed` to mark an unplayed beatmap as played (that is, change its box colour from pink to orange).
 - Press `4` or click `Clear local scores` to delete all records of the scores you have achieved in this beatmap.
@@ -264,7 +264,7 @@ Click the `Beatmap Options` button, press `F3` or right-click your mouse while h
 
 Click on **your user panel** to access the **User Options Menu**.
 
-Click the **[osu!cookie](/wiki/Glossary#cookie)** to **start playing the selected beatmap**.
+Click the **[osu!cookie](/wiki/Glossary/Cookie)** to **start playing the selected beatmap**.
 
 ## Results screen
 

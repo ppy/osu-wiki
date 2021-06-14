@@ -25,7 +25,6 @@ tags:
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Администратор и лидер сообщества, менеджер по связям с Featured Artist |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Дизайн-директор, мастер Creative Cloud |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Советник по вопросам моддинга и маппинга |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Организатор и администратор международных турниров |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Советник по вопросам моддинга и маппинга |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Разработчик osu!web |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Советник по вопросам модерации, смотритель за порядком |
@@ -38,7 +37,6 @@ tags:
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Разработчик osu!, энтузиаст osu!mania, разрушитель багов |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Лидер Project Loved, советник по вопросам сообщества, менеджер по связям с Featured Artist |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Смотритель за порядком, турнирный помощник |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Смотритель за порядком, турнирный помощник, хранитель вики |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Вымирающий вид |
 
 Помимо всех этих людей, в osu! также есть [служба поддержки](Account_support_team). Она приходит на помощь в сложных ситуациях и решает вопросы, связанные с игровыми аккаунтами.
@@ -69,6 +67,7 @@ tags:
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Ведущий osu! Coffee Hour, стример международных турниров, организатор турниров |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Разработчик osu!, автор реализации osz2 и p2p-бэкенда osu! |
 | ![][flag_US] Jim | Дизайнер самой первой версии сайта, хостер osu! в ранние дни. Персональный проект: [Brave New Games](http://www.bravegamer.com/) |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Организатор и администратор международных турниров |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Организатор и администратор международных турниров, лидер QAT, менеджер сообщества |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Автор эпичных скинов, соавтор стандартного скина и иконок. [Профиль на DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Разработчик osu!, автор mm-слайдеров |
@@ -79,6 +78,7 @@ tags:
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Автор концепта pippi и дизайнер артворков. [Профиль на DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Менеджер и лидер коммьюнити в ранние годы, соавтор FAQ и регулярных встреч |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик osu! и системы pp |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Смотритель за порядком, oрганизатор и администратор международных турниров, хранитель вики |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Разработчик osu! и автор режима osu!mania |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Менеджер [osu!store](https://osu.ppy.sh/store/listing) |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Профессор [osu!academy](/wiki/osu!academy), дизайнер персонажей и различных медиа |

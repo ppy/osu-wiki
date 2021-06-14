@@ -22,12 +22,12 @@ Let's get started!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/yv45xL5HklA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@ One of my favorite things in overseeing Loved is finding popular new beatmaps I'
 
 ProfessionalBox has long been known as a high quality technical mapper, and kodama makes it very easy to see why. The beatmap features gorgeously aesthetic slider shapes combined with velocity changes that perfectly represent the song and feel effortless to play, as well as some tricky spaced streams that are sure to test your aim control. I'd be remiss not to mention the guest difficulties of the set which are all top notch as well, particularly [-kevincela-](https://osu.ppy.sh/users/266596)'s Extra which is also a great take on the song!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7Cb32DEse-A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -158,7 +158,7 @@ Stronghold is a gimmicky beatmap by the well-known Nofool, and is mapped as a tr
 
 Japanese mapper asuasu\_yura gifts us with yet another well-designed beatmap, Dreamin' attraction!!, a happy hardcore song that is really worth listening to! Streams, technique, stamina are the three words that define this beatmap, but to give it justice, there are no words in the English language properly conveying the feelings this beatmap gives. In the end, the song will not be the only happy thing!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kS8z5cdzTZY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -199,7 +199,7 @@ Apparition from Razor Sharp is definitely one hell of a map. This super strenuou
 
 A true classic seen in multiplayer lobbies the world over for years, \[224\]Reol's take on one of the emergent Shawn Wasabi's earliest tracks is a beatmap that has been overlooked for inclusion in the Loved category for far too long. With emphasis on  both quick, snapping patterns as well as more tempered, flowing slider-heavy sections, Pizza Rolls provides everything you could want from a beatmap in this category; challenge, intrigue, nostalgia, and most importantly of all, a huge dose of fun bopping along to this energetic 50-something song mashup.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/X9sRInqoCfU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

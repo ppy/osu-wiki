@@ -18,7 +18,6 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 - [Compactando Arquivos](Compressing_Files)
 - [Biblioteca de Hitsound Customizado](Custom_Hitsound_Library)
 - [Sobreposição de Amostra Customizado](Custom_Sample_Overrides)
-- [Pegando Músicas de Video Games](Getting_Songs_From_Video_Games)
 - [Como Fazer o Timing de Músicas](How_to_Time_Songs)
 - [Teoria Musical](Music_Theory)
 - [Guia de Mapping de osu!mania](osu!mania_Mapping_Guide)

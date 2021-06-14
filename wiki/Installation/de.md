@@ -25,9 +25,9 @@ Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum La
    - Wenn du einen Account hast, logge dich ein.
    - Ansonsten siehe [Registrierung](/wiki/Registration) und logge dich danach ein.
 
-## Beatmapsets hinzufügen
+## Beatmaps hinzufügen
 
-*Siehe auch: [Beatmaps](/wiki/Beatmap) und [Beatmapsets](/wiki/Glossary#beatmapset)*
+*Siehe auch: [Beatmaps](/wiki/Beatmap)*
 
 Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!direct (benötigt [osu!supporter](/wiki/osu!supporter)).
 
@@ -35,7 +35,7 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
 
 1. Begib dich zur [Beatmapauflistung](https://osu.ppy.sh/beatmapsets) und logge dich ein.
 2. Such' dir ein Lied aus, das du gerne spielen würdest.
-3. Klicke auf das "Herunterladen"-Icon, um das Beatmapset auf deinem Computer zu speichern.
+3. Klicke auf das "Herunterladen"-Icon, um das Beatmap auf deinem Computer zu speichern.
 4. Finde und öffne die Datei (die Dateiendung ist `.osz`).
    - Alternativ kannst du die Datei auch im `Songs`-Verzeichnis deiner osu!-Installation ablegen.
 5. Den Rest wird osu! automatisch für dich erledigen.
@@ -49,12 +49,12 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
 2. Such' dir ein Lied aus, das du gerne spielen würdest.
 3. Klicke zum Herunterladen doppelt auf das Lied in der Liste, oder klicke `Download` auf der rechten Seite.
    - Wenn du das Hintergrundvideo nicht herunterladen willst, klicke stattdessen auf `DL NoVideo`.
-4. Wenn osu! das Beatmapset heruntergeladen hat, wird es automatisch geladen, sobald du dich im Einzelspielermodus (in der Liedauswahl) befindest.
+4. Wenn osu! das Beatmap heruntergeladen hat, wird es automatisch geladen, sobald du dich im Einzelspielermodus (in der Liedauswahl) befindest.
    - Falls du die neue Beatmap aus irgendeinem Grund nicht sehen kannst, drücke `F5` im Einzelspielermodus, um alle Beatmaps erneut zu verarbeiten.
 
 ## Skins hinzufügen
 
-*Siehe auch: [Skins](/wiki/Glossary#skin) und [Skinning](/wiki/Skinning)*
+*Siehe auch: [Skins](/wiki/Skin) und [Skinning](/wiki/Skinning)*
 
 1. Begib dich in das [Skinning Subforum](https://osu.ppy.sh/community/forums/15) und such' dir einen schönen Skin aus.
 2. Wenn du einen Skin gefunden hast, lade ihn dir herunter.

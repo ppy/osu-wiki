@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 常见问题
 
 *主页面：[osu! wiki 贡献指南](/wiki/osu!_wiki_Contribution_Guide).*

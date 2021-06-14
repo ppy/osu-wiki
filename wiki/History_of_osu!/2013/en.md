@@ -30,7 +30,7 @@ Links:
 
 ## March
 
-osu! received a complete overhaul of the UI (User Interface)! osu!standard received a new leitmotif symbol (previously, it was a circle with "osu!", was now a circle with a "1"). Buttons on the editor has been updated. Special mode has been combined with Song Selection menu (named under "Mods"), allowing players to switch modes quicker and hassle-free. All [Game Modifiers](/wiki/Game_modifier) buttons received their respective image overhaul. The result screen now shows the beatmap's background image rather than user skin's result background.
+osu! received a complete overhaul of the UI (User Interface)! The osu! game mode received a new leitmotif symbol (previously, it was a circle with "osu!", was now a circle with a "1"). Buttons on the editor has been updated. Special mode has been combined with Song Selection menu (named under "Mods"), allowing players to switch modes quicker and hassle-free. All [Game Modifiers](/wiki/Game_modifier) buttons received their respective image overhaul. The result screen now shows the beatmap's background image rather than user skin's result background.
 
 Hit-Offset can now be known by hovering to the Accuracy from the result screen. Do note that it will disappear and can't be saved. Online Results was now hidden below the result screen rather than forcing you to see it. You can scroll down to see or you can just click the button and you will be directed to the Online Results screen.
 
@@ -126,7 +126,7 @@ Links:
 
 ![](img/2013-12_01.jpg "Guest appearance at Comic Fiesta 2013")
 
-[peppy was confirmed for Comic Fiesta 2013 in Malaysia at 21st and 22nd of December in Kuala Lumpur City Center](https://osu.ppy.sh/community/forums/topics/163121). For day 1 (2013-12-21), osu! was shown as a stage event, demonstrating the game in four different game modes (osu!standard, Taiko, Catch the Beat, and osu!mania). For day 2 (2013-12-22), peppy gives an insight of osu! along with his future update plans at the panel room and showcased osu!tablet for the public to try it out.
+[peppy was confirmed for Comic Fiesta 2013 in Malaysia at 21st and 22nd of December in Kuala Lumpur City Center](https://osu.ppy.sh/community/forums/topics/163121). For day 1 (2013-12-21), osu! was shown as a stage event, demonstrating the game in four different game modes (osu!, Taiko, Catch the Beat, and osu!mania). For day 2 (2013-12-22), peppy gives an insight of osu! along with his future update plans at the panel room and showcased osu!tablet for the public to try it out.
 
 One of the current hot-topic for debate right now was that peppy was making a new game mode and was testing it as a proof-in-concept (testing if it's playable, competitive or flexible enough). Some players speculate it was [Tohousu!](https://osu.ppy.sh/community/forums/topics/19307) (dodging the bullet-hell, that was, inverse of [Catch the Beat](/wiki/Game_mode/osu!catch)). By time of writing, not much information was discovered about the new game mode. [A video clip about the talk was in ppy's blog](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
 

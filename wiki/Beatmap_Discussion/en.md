@@ -35,21 +35,21 @@ It is important to keep a few things in mind to use beatmap discussion pages eff
 
 ## Mode selection
 
-![](img/mode-selection.jpg "Mode selection")
+![](img/mode-selection.png "Mode selection")
 
-Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This is only used with beatmaps that contain multiple game modes; otherwise, it will default to the mapped game mode.
+Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is only possible to select a game mode if the beatmap has a difficulty of that game mode. This is only used with beatmaps that contain multiple game modes; otherwise, it will default to the mapped game mode.
 
 ## Beatmap header
 
 *For information about setting metadata, see: [Song Setup § Song and Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
-![](img/beatmap-header.jpg "Beatmap header")
+![](img/beatmap-header.png "Beatmap header")
 
 The beatmap header displays the title and artist provided in the [beatmap editor](/wiki/Beatmap_Editor). Clicking the beatmap header will navigate back to the info page.
 
 ## Difficulty menu
 
-![](img/difficulty-menu.jpg "Difficulty menu")
+![](img/difficulty-menu.png "Difficulty menu")
 
 You can select different [difficulties](/wiki/Beatmap/Difficulty) through the dropdown menu. This will show all currently available difficulties, along with older, deleted ones that have had suggestions/problems. The number that appears besides a difficulty's name is the number of unresolved posts on that specific difficulty. It is important to double-check this menu before submitting any mods.
 
@@ -93,7 +93,7 @@ The nomination status bar tracks a beatmap's nominations. Once a beatmap has rec
 
 ### General info
 
-General info shows the creator of the beatmapset, the submission date and the date it was last updated. [Status changes](/wiki/Beatmap), such as a beatmap getting Ranked, Loved or Graveyarded, are also considered updates and will be displayed here.
+General info shows the creator of the beatmap, the submission date and the date it was last updated. [Status changes](/wiki/Beatmap), such as a beatmap getting Ranked, Loved or Graveyarded, are also considered updates and will be displayed here.
 
 ### Watch/Unwatch
 
@@ -109,7 +109,7 @@ The `Beatmap Page` button will navigate to a beatmap's info page. This can also 
 
 Modding happens through three tabs, which separate posts of different types and split them up into readable formats. Additionally, a fourth tab logs all changes. The number beside each tab describes the amount of posts in it.
 
-`General (All difficulties)` shows posts that apply to all difficulties. Common posts in this tab include metadata, notes and discussion on the beatmapset as a whole.
+`General (All difficulties)` shows posts that apply to all difficulties. Common posts in this tab include metadata, notes and discussion on the beatmap as a whole.
 
 `General (This difficulty)` shows posts that only apply to the currently selected difficulty. Common posts in this tab include beatmap settings, recurring issues and general discussion on the selected difficulty.
 
@@ -133,7 +133,7 @@ If you post in the `Timeline` tab, you must include a timestamp in your post. If
 
 Discussions are where posts from the [submission field](#submission-field) are placed once submitted. Users visiting a discussion page can see posts made by all other users, and will be able to participate in discussion on posts. This is done by clicking the `Respond` or `Reply` buttons below a post and writing a response. After finishing a reponse, pressing `Enter` or clicking `Reply` will submit it to the discussion.
 
-The creator of the beatmapset and writer of a modpost, have the ability to close issues with the `Mark as Resolved` button. This marks the issue has having been dealt with to other users and removes it from the `Pending` [sorting option](#sorting-options). Modposts can be reopened by any user by adding further replies to a post and clicking `Reply and Reopen`. This is used when modders stumble upon closed issues which have not been fixed fully, or a topic needs further discussion.
+The beatmap creator and authors of modposts have the ability to close issues with the `Mark as Resolved` button. This marks the issue has having been dealt with to other users and removes it from the `Pending` [sorting option](#sorting-options). Modposts can be reopened by any user by adding further replies to a post and clicking `Reply and Reopen`. This is used when modders stumble upon closed issues which have not been fixed fully, or a topic needs further discussion.
 
 ### Discussions sorting
 

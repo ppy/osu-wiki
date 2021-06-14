@@ -8,11 +8,11 @@
 
 ## Игровые режимы
 
-### ![](/wiki/shared/mode/osu.png) osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_standard.png "Формула расчёта точности для osu!standard")
+![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_osu.png "Формула расчёта точности для osu!")
 
-В osu!standard точность рассчитывается как сумма всех очков, полученных игроком за каждую ноту, разделённая на максимально возможное количество очков на карте. 
+В osu! точность рассчитывается как сумма всех очков, полученных игроком за каждую ноту, разделённая на максимально возможное количество очков на карте. 
 
 Пример с одной нотой:
 
@@ -41,11 +41,11 @@
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Формула расчёта точности для osu!mania")
 
-В osu!mania точность рассчитывается аналогично [osu!standard](#-osu!standard).
+В osu!mania точность рассчитывается аналогично [osu!](#-osu!).
 
 ## График производительности
 
-![Performance graph](img/performance_graph.jpg "График производительности")
+![Performance graph](img/performance_graph.png "График производительности")
 
 График производительности показывает полосу здоровья игрока в течение игры. Если навести на него курсор, будет показана дополнительная информация.
 
@@ -67,7 +67,7 @@
 
 ### Spin
 
-*Примечание: Spin отображается только для [osu!standard](/wiki/Game_mode/osu!).*
+*Примечание: Spin отображается только для [osu!](/wiki/Game_mode/osu!).*
 
 Вместе с информацией о точности можно посмотреть статистику по спиннерам.
 

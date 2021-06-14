@@ -49,16 +49,16 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, moderação |
+| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Avaliação |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, Chinês | Avaliação |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | Avaliação, estrutural, moderação, comunicação |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Avaliação |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Alemão | Avaliação |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Alemão | Avaliação |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estrutural, comunicação |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Avaliação, estrutural, comunicação |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estrutural |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Português | Avaliação, estrutural, comunicação |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Avaliação |
+| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polonês | Avaliação |
 
 ### osu!taiko
 
@@ -80,8 +80,8 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Alemão, Polonês | Avaliação |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Holandês | Avaliação, moderação |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, Francês | Avaliação |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Avaliação |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
@@ -93,6 +93,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suécia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tailândia"
 [flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

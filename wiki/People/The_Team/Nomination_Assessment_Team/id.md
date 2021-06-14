@@ -1,8 +1,6 @@
 ---
 tags:
   - NAT
-outdated: true
-outdated_since: a04ec9bd266f59392ab0bbc214f699995c4da97c
 ---
 
 # Nomination Assessment Team
@@ -13,9 +11,9 @@ Anggota NAT dibedakan berdasarkan gelar dan nama pengguna mereka yang berwarna m
 
 **Semua anggota Nomination Assessment Team bersumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Contributor_Code_of_Conduct) sebagai tambahan dari [Peraturan Komunitas](/wiki/Rules).**
 
-Jika kamu menemukan anggota Nomination Assessment Team yang bertindak tidak senonoh, harap segera hubungi [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan disertai informasi yang selengkap-lengkapnya. Untuk informasi lebih lanjut, lihat [Melaporkan Penyalahgunaan](/wiki/Reporting_Bad_Behaviour/Abuse).
-
 ## Tanggung Jawab
+
+***Catatan: Untuk melaporkan seorang NAT yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
 
 NAT bertanggung jawab atas berbagai tugas terkait mapping yang dapat dipisahkan menjadi empat subkategori:
 
@@ -40,25 +38,25 @@ NAT mengawasi kandidat NAT yang memiliki potensi dalam jangka waktu yang lama, d
 
 ## Anggota Tim
 
-Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
-
 *Catatan: Semua Nomination Assessment Team berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
+
+Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota NAT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 ### osu!
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluasi, moderasi |
+| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluasi |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Mandarin | Evaluasi |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengal, sedikit Arab | Evaluasi, struktural, moderasi, komunikasi |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluasi |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Jerman | Evaluasi |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Jerman | Evaluasi |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, komunikasi |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluasi, struktural, komunikasi |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Struktural |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portugis | Evaluasi, struktural, komunikasi |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Belanda | Evaluasi |
+| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polandia | Evaluasi |
 
 ### osu!taiko
 
@@ -80,8 +78,8 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Jerman, Polandia | Evaluasi |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Belanda | Evaluasi, moderasi |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arab, Prancis | Evaluasi |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluasi |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
@@ -93,6 +91,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
 [flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

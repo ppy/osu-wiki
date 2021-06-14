@@ -6,7 +6,7 @@ outdated_since: acf6219ad2a73826433837b35b0fe5335a22ae8a
 
 # Visuele instellingen
 
-![](img/visual-settings.jpg "Visueel Instellingsmenu")
+![](img/visual-settings-NL.jpg "Visueel Instellingsmenu")
 
 **Visuele instellingen** is een verborgen aanpassingsoverlay aan de onderkant van het speelveld. Je kan deze overlay gebruiken wanneer een beatmap aan het laden is of wanneer de gameplay gepauzeerd is. Als de visuele instellingen-overlay geopend is zal de beatmap niet starten totdat jouw cursor dit menu verlaat.
 

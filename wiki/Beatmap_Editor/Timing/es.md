@@ -14,7 +14,7 @@ El tempo consiste en la [compensación](/wiki/Beatmapping/Offset) de una canció
 
 ## Ventana de Tempo y de Punto de Control
 
-![Pantallazo de la ventana de Tempo y Puntos de Control](img/TimingSetup.jpg)
+![Pantallazo de la ventana de Tempo y Puntos de Control](img/TimingSetup.png)
 
 Los puntos de tiempo pueden ser añadidos desde la ventana de `Tiempos y Puntos de Control` en el editor (acceso directo por defecto `F6`). Los puntos de tiempo dividen la canción en secciones para reflejar cambios precisos en el tempo de una canción.
 
@@ -24,6 +24,6 @@ Un punto de tempo no heredado, desplegado como una línea roja, es la base para 
 
 ### Punto de tempo heredado
 
-Un punto de tempo heredado, desplegado como una línea verde, hereda la configuración del BPM, de la compensación y de la métrica de la previa línea roja. Las líneas verdes son usadas para ajustar configuración de la [velocidad del deslizador](/wiki/Hit_Objects/Slider_velocity) y de los [sonidos de golpe](/wiki/Beatmapping/Hitsound).
+Un punto de tempo heredado, desplegado como una línea verde, hereda la configuración del BPM, de la compensación y de la métrica de la previa línea roja. Las líneas verdes son usadas para ajustar configuración de la [velocidad del deslizador](/wiki/Hit_object/Slider_velocity) y de los [sonidos de golpe](/wiki/Beatmapping/Hitsound).
 
 Un punto de tempo heredado no puede ser posicionado antes de uno no heredado, porque no heredaría ninguna configuración.

@@ -74,7 +74,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `Shift` + `F2` | Volta ao beatmap préviamente escolhio aleatoriamente. |
 | `F3` | Abre as opções de beatmap. |
 | `F5` | Reprocessa os beatmaps (isso talvez te peça confirmação para continuar). |
-| `Shift` + `Delete` | Mostra o diálogo de deletar beatmaps. Isso irá te perguntar se você deseja deletar o beatmapset (todas as dificuldades), o beatmap (a dificuldade selecionada), ou todos os beatmaps visíveis. |
+| `Shift` + `Delete` | Mostra o diálogo de deletar beatmaps. Isso irá te perguntar se você deseja deletar o beatmap (todas as dificuldades), o beatmap (a dificuldade selecionada), ou todos os beatmaps visíveis. |
 | `Ctrl` + `1` | Muda o modo de jogo para o [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Muda o modo de jogo para o [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Muda o modo de jogo para o [osu!catch](/wiki/Game_mode/osu!catch). |
@@ -88,15 +88,15 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `Setas para Cima/Baixo` | Seleciona o beatmap para cima/baixo respectivamente. |
 | `Setas para Esquerda/Direita` | Seleciona o beatmap para cima/baixo respectivamente. |
 | `Page Up/Down` | Scrolla/Rola a página para cima/baixo respectivamente. |
-| `Enter` | Confirma a seleção atual (se selecionando um beatmapset ou grupo de coleção) ou estando jogando a dificuldade (se selecionando sobre um beatmap). |
+| `Enter` | Confirma a seleção atual (se selecionando um beatmap ou grupo de coleção) ou estando jogando a dificuldade (se selecionando sobre um beatmap). |
 | `Shift` + `Setas para Esquerda/Direita` | Entra no grupo próximo/anterior. |
 | `Shift` + `Enter` | Expande ou diminui o grupo selecionado. |
 
 ### Modificadores de jogo
 
-*Página principal: [Game modifiers](/wiki/Game_modifier)*  
-*Nota: Pressionar o atalho irá ativar ou desativar-los. Você precisa estar dentro do menu dos modificadores de jogo para utilizar esses atalhos.*  
-*Nota: Target practice (osu!standard), 1K e 2K (osu!mania), Co-op (osu!mania), e Mirror (osu!mania) não possuem atalhos.*
+*Página principal: [Game modifiers](/wiki/Game_modifier)*
+*Nota: Pressionar o atalho irá ativar ou desativar-los. Você precisa estar dentro do menu dos modificadores de jogo para utilizar esses atalhos.*
+*Nota: Target practice (osu!), 1K e 2K (osu!mania), Co-op (osu!mania), e Mirror (osu!mania) não possuem atalhos.*
 
 | Atalho | Mod |
 | :-- | :-- |
@@ -108,12 +108,12 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `S` duas vezes | Perfect |
 | `D` | Double Time |
 | `D` duas vezes | Nightcore |
-| `F` | Hidden (osu!standard, osu!taiko, and osu!catch) ou Fade In (osu!mania) |
+| `F` | Hidden (osu!, osu!taiko, and osu!catch) ou Fade In (osu!mania) |
 | `F` duas vezes | Hidden (osu!mania) |
 | `G` | Flashlight |
-| `Z` | Relax (osu!standard, osu!taiko, e osu!catch) ou troque entre os mods xK (osu!mania) |
-| `X` | Auto Pilot (osu!standard) or Random (osu!mania) |
-| `C` | Spun Out (osu!standard) |
+| `Z` | Relax (osu!, osu!taiko, e osu!catch) ou troque entre os mods xK (osu!mania) |
+| `X` | Auto Pilot (osu!) or Random (osu!mania) |
+| `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` duas vezes | Cinema |
 | `B` | Score V2 |
@@ -212,7 +212,7 @@ Esses atalhos funcionam em qualquer lugar do editor:
 | `Ctrl` + `V` | Colar. |
 | `Ctrl` + `D` | Clona a seleção. Isso irá colar a seleção 1 medida depois do último objeto selecionado. |
 | `Delete` | Deletar. |
-| `1`, `2`, `3`, or `4` | Troca entre os modos de colocar/selecionar: selecionar, circle, slider, e spinner respectivamente (osu!standard, osu!taiko, ou osu!catch). |
+| `1`, `2`, `3`, or `4` | Troca entre os modos de colocar/selecionar: selecionar, circle, slider, e spinner respectivamente (osu!, osu!taiko, ou osu!catch). |
 | `1`, `2`, ou `3` | Troca entre os modos de colocar/selecionar: selecionar, circle, e hold respectivamente (osu!mania). |
 | `Ctrl` + `Alt` + `Roda do mouse para Cima/Baixo` | Troca entre os modos de colocar/selecionar. |
 | `Ctrl` + `Shift` + `A` | Abre o [AiMod](/wiki/Beatmap_Editor/AiMod). |
@@ -246,7 +246,7 @@ Esses atalhos funcionam em qualquer lugar do editor:
 | `Ctrl` + `Shift` + `S` | Aumenta as notas selecionadas em um valor específico (abre um diálogo). |
 | `Ctrl` + `Shift` + `D` | Gera polígonos com um número específico de pontos (abre um diálogo). |
 | `Ctrl` + `Shift` + `F` | Converte um slider selecionado em uma stream de hit circles (abre um diálogo). |
-| `Ctrl` + `Setas para Esquerda/Direita/Cima/Baixo` | Move as notas selecionadas na direção pressionada. (osu!standard, osu!taiko, osu!catch) |
+| `Ctrl` + `Setas para Esquerda/Direita/Cima/Baixo` | Move as notas selecionadas na direção pressionada. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Setas para Esquerda/Direita` | Move as notas selecionadas de coluna para esquerda ou direita. (osu!mania) |
 | `Ctrl` + `Setas para Cima/Baixo` | Move as notas selecionadas de tick na timeline para cima ou para baixo. (osu!mania) |
 
@@ -281,7 +281,7 @@ Esses atalhos funcionam em qualquer lugar do editor:
 | `Ctrl` + `C` | Copia a sprite selecionada. |
 | `Ctrl` + `V` | Cola a sprite selecionada no tempo atual. *Nota: Sprites coladas não serão mostradas na lista de camadas até que o beatmap seja salvo e recarregado.* |
 | `Delete` | Remove a sprite selecionada da layer. |
-| `W`, `A`, `S`, `D` | Move a sprite selecionada para cima, esquerda, baixo ou direita respectivamente por um [osu!pixel](/wiki/Glossary#osupixel). |
+| `W`, `A`, `S`, `D` | Move a sprite selecionada para cima, esquerda, baixo ou direita respectivamente por um [osu!pixel](/wiki/osupixel). |
 
 ### Timing
 

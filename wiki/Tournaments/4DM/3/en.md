@@ -8,7 +8,7 @@ tags:
 
 ![4DM3 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 3** (***4DM3***) is a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), and ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263). This is the third installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 3** (***4DM3***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), and ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263). This was the third installment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -23,8 +23,8 @@ The **4 Digit osu!mania World Cup 3** (***4DM3***) is a worldwide country-based 
 | Round of 16 | 2021-02-06/2021-01-07 |
 | Quarterfinals | 2021-02-13/2021-02-14 |
 | Semifinals | 2021-02-20/2021-02-21 |
-| Finals week 1 | 2021-02-27/2021-02-28 |
-| Finals week 2 | 2021-03-06/2021-03-07 |
+| Finals | 2021-02-27/2021-02-28 |
+| Grand Finals | 2021-03-07 |
 
 ## Prizes
 
@@ -41,7 +41,7 @@ Generous donations from ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) 
 
 ## Organisation
 
-The 4 Digit osu!mania World Cup 3 is run by various community members.
+The 4 Digit osu!mania World Cup 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -50,7 +50,7 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 | Mappool tester | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_PH] [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633), ![][flag_FR] [Koiidex](https://osu.ppy.sh/users/5193488), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_GB] [TingTheFirst](https://osu.ppy.sh/users/12489832) |
 | Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_CN] [\[JbL\]Hx\_032](https://osu.ppy.sh/users/11603156), ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_AR] [Gonzalo](https://osu.ppy.sh/users/6719880), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_BE] [Mortelspawn\_](https://osu.ppy.sh/users/5331420), ![][flag_MY] [Onlinee](https://osu.ppy.sh/users/13630137), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293), ![][flag_CA] [XzVx](https://osu.ppy.sh/users/12286606), ![][flag_ID] [Dellia](https://osu.ppy.sh/users/12143152), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Streamer | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_JP] [kazuin](https://osu.ppy.sh/users/10739680), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_BE] [Mortelspawn\_](https://osu.ppy.sh/users/5331420), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_CL] [Touche](https://osu.ppy.sh/users/1603962), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293) |
-| Commentator | ![][flag_NZ] [- Abby -](https://osu.ppy.sh/users/7740118), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_BE] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_SG] [AdamAckerville](https://osu.ppy.sh/users/12297375), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_GB] [britishjude](https://osu.ppy.sh/users/15294505), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_JP] [kazuin](https://osu.ppy.sh/users/10739680), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [suckawa](https://osu.ppy.sh/users/15088273), ![][flag_US] [tgr](https://osu.ppy.sh/users/12728145), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) |
+| Commentator | ![][flag_NZ] [- Abby -](https://osu.ppy.sh/users/7740118), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_SG] [AdamAckerville](https://osu.ppy.sh/users/12297375), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_GB] [britishjude](https://osu.ppy.sh/users/15294505), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_JP] [kazuin](https://osu.ppy.sh/users/10739680), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [suckawa](https://osu.ppy.sh/users/15088273), ![][flag_US] [tgr](https://osu.ppy.sh/users/12728145), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) |
 | Designer | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_MX] [-Candy-](https://osu.ppy.sh/users/3964918), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722) |
 | Statistician | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
@@ -61,6 +61,7 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 - [4DM Discord server](https://discord.gg/NzYtsxV)
 - [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
 - [Livestream](https://twitch.tv/4digitmwc)
+- [Tournament bracket](https://braacket.com/tournament/4DMWC3)
 - [Pick'em predictions website](https://pickem.hwc.hr/tournaments/51) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - Spreadsheet
   - **[Master](https://docs.google.com/spreadsheets/d/11tS0vFpRvbPrSxpthDwGArknxhD4l5jnGEGPjgo_KOs)**
@@ -118,7 +119,101 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 | **G** | ![][flag_HK] Hong Kong | ![][flag_KR] South Korea | ![][flag_ES] Spain | ![][flag_RO] Romania |
 | **H** | ![][flag_FR] France | ![][flag_CN] China | ![][flag_IT] Italy | ![][flag_CA] Canada |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] **Philippines** (**[Arccat](https://osu.ppy.sh/users/4848294)**, [Eon Musk](https://osu.ppy.sh/users/12239110), [Gerwin13](https://osu.ppy.sh/users/15776185), [GTXCZE](https://osu.ppy.sh/users/9209185), [Lawrence Angelo](https://osu.ppy.sh/users/10373568), [Silicosis](https://osu.ppy.sh/users/15548876)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] **Malaysia** (**[\[-Leon-\]](https://osu.ppy.sh/users/13382147)**, [Expired112](https://osu.ppy.sh/users/8782656), [FastTapper](https://osu.ppy.sh/users/11787977), [Ju1nY11](https://osu.ppy.sh/users/14743871), [StyGix](https://osu.ppy.sh/users/7745408), [Unicow](https://osu.ppy.sh/users/9444174)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Yuragi](https://osu.ppy.sh/users/8501380)**, [Chiara](https://osu.ppy.sh/users/5642989), [Halo-](https://osu.ppy.sh/users/7572142), [Lenn](https://osu.ppy.sh/users/11236829), [Namirin-chan](https://osu.ppy.sh/users/6761832), [Soore](https://osu.ppy.sh/users/15753462)) |
+
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (149 MB)](https://www.dropbox.com/s/me29a4lxwd9wj6i/4DM3%20GF%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Pierce The Veil - Bulletproof Love (Shoegazer) \[Loveless\]](https://osu.ppy.sh/beatmapsets/559456#mania/1183195)
+  - [mocchie - Nyan Nyan Drive (Penguinosity) \[Penguinosity's Hard (210bpm)\]](https://osu.ppy.sh/beatmapsets/1388438#mania/2867474)
+  - [SHIKI - Angelic Layer (Mipha-) \[Paragon 1.1x (Edit)\]](https://osu.ppy.sh/beatmapsets/1332427#mania/2861121)
+  - [eye burn - SHI\*A\*WA\*SE (Elekton) \[Elekton's joy 1.15x (241bpm)\]](https://osu.ppy.sh/beatmapsets/1388441#mania/2867484)
+  - [Stellabee ft. THINK-chan - Because of you (-Lethal-) \[Cadmium x Lethal's Home 1.05x\]](https://osu.ppy.sh/beatmapsets/1388436#mania/2867472)
+  - [Xanopticon - Psicicite (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/659977#mania/2861212)
+  - [Silentroom - 9876734123 (DannyPX) \[DannyPX's Morse (138bpm)\]](https://osu.ppy.sh/beatmapsets/1388445#mania/2867494)
+  - [Camellia feat. Nanahira - finorza (Flappy\_BOX) \[Tr4g1c H3ro1n3\]](https://osu.ppy.sh/beatmapsets/1162945#mania/2425835)
+  - [PSYQUI feat. mikanzil - Bye or not (arpia97) \[good bye mata ne \[od 7.5\]\]](https://osu.ppy.sh/beatmapsets/1099878#mania/2725706)
+  - [Camellia - #1f1e33 (Eclipse-) \[Eclipse & Sitek's Sapphire Dusk\]](https://osu.ppy.sh/beatmapsets/1241616#mania/2581351)
+  - [Tia - Deal with the devil (Mipha-) \[Mipha-'s gamble (edit)\]](https://osu.ppy.sh/beatmapsets/1388447#mania/2867505)
+  - [PRout - Tasogare (MyZterioN-) \[yuugata 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/1108022#mania/2315738)
+  - [Giga ft. Kagamine Rin & Len - BRING IT ON (DannyPX) \[GIVE IT ALL\]](https://osu.ppy.sh/beatmapsets/1239671#mania/2577387)
+  - [LeaF - ATHAZA (BossMadWolf) \[ASVBZA\]](https://osu.ppy.sh/beatmapsets/1279294#mania/2867382)
+  - [Igorrr - Fryzura Konika (Noch Einen) \[Chronostatis \[Reversal Collabo\]\]](https://osu.ppy.sh/beatmapsets/1039012#mania/2203285)
+- Tiebreaker
+  - **[(Camellia) - M1LLI0N PP (DannyPX) \[12 MAN C011A8\]](https://osu.ppy.sh/beatmapsets/1388481#mania/2867552)**
+
+### Finals
+
+**[Download the mappack here! (137 MB)](https://www.dropbox.com/s/gobk6mwmk1lk7jf/4DM3%20F%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Betwixt & Between - 12 little fragments of silence (Shoegazer) \[absolution 1.05x (231bpm)\]](https://osu.ppy.sh/beatmapsets/905867#mania/2784535)
+  - [ANNERLEY GORDON - ON MY OWN  2006 (Sped Up Ver.) (Jole) \[0.95x\]](https://osu.ppy.sh/beatmapsets/844060#mania/1765782)
+  - [goreshit - loli fantasy (Wh1teh) \[Wh1teh's k 225BPM\]](https://osu.ppy.sh/beatmapsets/1381613#mania/2854703)
+  - [The Flashbulb - Passage D (Jinjin) \[Dire\]](https://osu.ppy.sh/beatmapsets/475785#mania/2839742)
+  - [Suimega - URA-2027 (Valedict) \[ASTRAL (Low LN)\]](https://osu.ppy.sh/beatmapsets/521033#mania/2844819)
+  - [sakuzyo - Lost Memory (Eclipse-) \[Eclipse-'s Amnesia \[1,3x Rate\] (edit)\]](https://osu.ppy.sh/beatmapsets/1381599#mania/2854683)
+  - [Mameyudoufu - Citadel (RuleBlazing) \[edit\]](https://osu.ppy.sh/beatmapsets/1331802#mania/2846656)
+  - [Zekk - SUMMER (MyZterioN-) \[Assuage (edit)\]](https://osu.ppy.sh/beatmapsets/1208783#mania/2853780)
+  - [sakuzyo - Imprinting (-\[DaNieL\_TH\]-) \[Fortissimo (192.5 BPM)\]](https://osu.ppy.sh/beatmapsets/1213018#mania/2524677)
+  - [Persian Groovies - Phoenix \[feat. Kobaryo\] (-MysticEyes) \[ResurrectioLN\]](https://osu.ppy.sh/beatmapsets/816319#mania/1711929)
+  - [Dr.Honda - Dances with Snow Fairies (\[Crz\]Crysarlene) \[Winter Resort\]](https://osu.ppy.sh/beatmapsets/1039275#mania/2172419)
+  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmapsets/615707#mania/1298710)
+  - [Cosmicosmo - Door Into Summer (Lusty Platypus) \[Stage 1: Wanderlust\]](https://osu.ppy.sh/beatmapsets/1075846#mania/2251081)
+- Tiebreaker
+  - **[Camellia Vs. Expander - AZISAI (Long ver.) (MyZterioN-) \[Shattered Rain\]](https://osu.ppy.sh/beatmapsets/1138055#mania/2427865)**
+
+### Semifinals
+
+**[Download the mappack here! (124 MB)](https://www.dropbox.com/s/tqg8d49cgfaasu7/4DM3%20SF%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Ata - Euphoria (Joueur 1) \[Endless Elation\]](https://osu.ppy.sh/beatmapsets/614494#mania/1296286)
+  - [Kommisar - Yamada Stream (DannyPX) \[edit 1.02x (260bpm)\]](https://osu.ppy.sh/beatmapsets/1167743#mania/2842358)
+  - [Renard - Hank Made Me Vomit (Good Riddance, Undying Shitlord) (Phil) \[Brain Stew\]](https://osu.ppy.sh/beatmapsets/1262164#mania/2623517)
+  - [The Flashbulb - Ripcord (ilikexd) \[Insane\]](https://osu.ppy.sh/beatmapsets/1282006#mania/2662762)
+  - [Pegboard Nerds - Swamp Thing (Shoegazer) \[Swampgator (149bpm)\]](https://osu.ppy.sh/beatmapsets/1227404#mania/2552373)
+  - [DJ TOTTO - Alice in Mystic Garden (Monheim) \[Hex\]](https://osu.ppy.sh/beatmapsets/1128872#mania/2358415)
+  - [Camellia - EMPIRE OF FLAME ("LabRys" Long ver.) (Shoegazer) \[GRAVITY (edit)\]](https://osu.ppy.sh/beatmapsets/772677#mania/2829795)
+  - [Haru Nemuri - narashite (Penguinosity) \[Whirl \[edit\]\]](https://osu.ppy.sh/beatmapsets/1254902#mania/2667720)
+  - [Exivious - One's Glow (Davvy) \[Essence\]](https://osu.ppy.sh/beatmapsets/1336470#mania/2768715)
+  - [EVERGLOW - Hush (LovelyN) \[Again For the Rest of Our Lives\]](https://osu.ppy.sh/beatmapsets/1257643#mania/2613273)
+  - [DJ Noriken - La'qryma of the Wasteland (Keiga) \[Future\]](https://osu.ppy.sh/beatmapsets/1202078#mania/2503541)
+  - [Akira Complex - rift.exe (BossMadWolf) \[Blackhole (SV)\]](https://osu.ppy.sh/beatmapsets/1061916#mania/2223691)
+  - [SlipGate - Chronon (\[Crz\]Crysarlene) \[Sleep\]](https://osu.ppy.sh/beatmapsets/988436#mania/2067666)
+- Tiebreaker
+  - **[Camellia - Arcology On Permafrost (Suu is my waifu) \[edit\]](https://osu.ppy.sh/beatmapsets/903287#mania/2840777)**
+
+### Quarterfinals
+
+**[Download the mappack here! (124 MB)](https://www.dropbox.com/s/21bfkbkpkwunxat/4DM3%20QF%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Feryquitous - Akzeriyyuth (Elekton) \[cruelty\]](https://osu.ppy.sh/beatmapsets/670112#mania/1417369)
+  - [DJ Banzai - Disconnected Trance (GammaBlaster) \[GammaBlaster's Hard 0.85x\]](https://osu.ppy.sh/beatmapsets/1368974#mania/2830734)
+  - [Bethas - Sunk (Cokiiplay) \[Cokiiplay's 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/1369527#mania/2831875)
+  - [Jan Amit - In Torture (feat. Eclise) (Elekton) \[Elekton's sinking (edit)\]](https://osu.ppy.sh/beatmapsets/1368981#mania/2830743)
+  - [Sewerslvt - Cyberia lyr3 (DannyPX) \[Scalpels \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1225254#mania/2675341)
+  - [Soko ni Naru - Tenohira de Odoru (Lacrima) \[Insane\]](https://osu.ppy.sh/beatmapsets/1015107#mania/2813702)
+  - [BilliumMoto - Rocky Buinne (DannyPX) \[Edit\]](https://osu.ppy.sh/beatmapsets/1216913#mania/2830226)
+  - [Nishino Kana - Go For It!! (Roasted Chicken) \[Darling!!\]](https://osu.ppy.sh/beatmapsets/1306792#mania/2709373)
+  - [Grand Thaw - Aventyr (cheewee10) \[edit\]](https://osu.ppy.sh/beatmapsets/1184590#mania/2830356)
+  - [JKuch & Adam Tell - Data Loss (Percyqaz) \[edit\]](https://osu.ppy.sh/beatmapsets/1088360#mania/2830406)
+  - [The Dillinger Escape Plan - When Acting As A Wave (Pope Gadget) \[Panasonic\]](https://osu.ppy.sh/beatmapsets/984989#mania/2060892)
+- Tiebreaker
+  - **[Camellia - Exit This Earth's Atomosphere (Camellia's 'PLANETARY//200STEP' Remix) (-MysticEyes) \[-Mystic vs. Leni's Thermosphere\]](https://osu.ppy.sh/beatmapsets/860846#mania/1801089)**
 
 ### Round of 16
 
@@ -168,6 +263,92 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
   - [IGLOOGHOST - Mei Mode (DannyPX) \[Stage 5: Incantation\]](https://osu.ppy.sh/beatmapsets/1349416#mania/2793969)
 
 ## Match results
+
+### Grand Finals
+
+Sunday, 7 March 2021
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **7** | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/77420246) |
+| Malaysia ![][flag_MY] | 3 | **7** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/77443488) |
+| **Philippines** ![][flag_PH] | **7** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/77447679) |
+
+### Finals
+
+Saturday, 27 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| France ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/76801159) |
+| **Netherlands** ![][flag_NL] | **6** | 3 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/76808650) |
+
+Sunday, 28 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **6** | 3 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/76888297) |
+| Brazil ![][flag_BR] | 5 | **6** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/76896814) |
+
+### Semifinals
+
+Saturday, 20 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/76223512) |
+| Taiwan ![][flag_TW] | 1 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/76236284) |
+| **United Kingdom** ![][flag_GB] | **6** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/76239399) |
+| **United States** ![][flag_US] | **6** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/76258359) |
+
+Sunday, 21 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 5 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/76300975) |
+| **Malaysia** ![][flag_MY] | **6** | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/76325345) |
+| United Kingdom ![][flag_GB] | 2 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/76325477) |
+| France ![][flag_FR] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/76339703) |
+
+### Quarterfinals
+
+Saturday, 13 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 0 | **5** | ![][flag_KR] **South Korea** | *win by default* |
+| **France** ![][flag_FR] | **5** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/75661695) |
+| Germany ![][flag_DE] | 2 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/75672635) |
+| United States ![][flag_US] | 4 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/75685830) |
+
+Sunday, 14 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ![][flag_PH] | 3 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/75737715) |
+| Sweden ![][flag_SE] | 1 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/75744729) |
+| Belgium ![][flag_BE] | 1 | **5** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/75744709) |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/75754293) |
+
+### Round of 16
+
+Saturday, 6 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/75099439) |
+| **Malaysia** ![][flag_MY] | **5** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/75102571) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/75110481) |
+
+Sunday, 7 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/75181213) |
+| **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/75181320) |
+| Poland ![][flag_PL] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/75184247) |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/75194738) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/75207220) |
 
 ### Group Stage
 
@@ -232,8 +413,8 @@ Sunday, 31 January 2021:
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNTyDH-my-sYwG4FLI6Oll8ApNkp6SrXcQusAUtqy9JxZ0Y8y22KKX_ApgdmEjf8TO6dB8zTTpF92k/pubhtml)
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
-- Only the top 32 team can proceed to the Group Stage
+- Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 32 team proceeded to the Group Stage
 
 | Seed | Team | Average rank |
 | --: | :-- | --: |
@@ -291,8 +472,8 @@ Sunday, 31 January 2021:
 
 #### Qualifiers
 
-1. After teams are selected, the first weekend of tournament play will be the Qualifier Stage in order to cut down to a pre-decided number of teams to advance into the following stage, as well as to determine teams’ seeding. There will be a total of four different qualifier maps, each meant to test a different skillset found in map pools throughout the tournament. Each of these maps will be made by the map selectors and not released until approximately one week before the Qualifier Stage takes place in order to provide no advantage through familiarity.
-2. For the Qualifier Stage, each team will play these four maps in a scheduled lobby. Teams will present 3 players to play each map (switching which 3 play between maps is allowed), and will play each of the four qualifier maps up to two times in the lobby. Whichever team score was the highest per stage will be recorded. (e.g. if a team scores 975000, 975000, 980000 on one go and then 980000, 985000, 970000 on the next go, the 2nd go will be the one recorded because the total team score was higher on the second go.)
+1. After teams are selected, the first weekend of tournament play will be the Qualifier Stage in order to cut down to a pre-decided number of teams to advance into the following stage, as well as to determine teams’ seeding. There will be a total of five different qualifier maps, each meant to test a different skillset found in map pools throughout the tournament. Each of these maps will be made by the map selectors and not released until approximately one week before the Qualifier Stage takes place in order to provide no advantage through familiarity.
+2. For the Qualifier Stage, each team will play these five maps in a scheduled lobby. Teams will present 3 players to play each map (switching which 3 play between maps is allowed), and will play each of the five qualifier maps up to two times in the lobby. Whichever team score was the highest per stage will be recorded. (e.g. if a team scores 975000, 975000, 980000 on one go and then 980000, 985000, 970000 on the next go, the 2nd go will be the one recorded because the total team score was higher on the second go.)
 3. Teams will be ranked on their qualifier performances based on their “score rating”, meaning essentially how well they rank on each qualifier stage compared to every other team. The amount of teams who will advance from qualifiers into the following stage is determined by this logic:
    - If 32 or a greater number of teams enter, the 32 best-performing teams will advance into a Group Stage consisting of 8 groups of 4 differently seeded players.
    - If between 24 and 31 teams enter, the 24 best-performing teams will advance into a Group Stage consisting of 8 groups of 3 differently seeded players.
@@ -340,8 +521,8 @@ Sunday, 31 January 2021:
 4. The number of points needed to win each match as well as the size of the map pool used for the match will vary depending on stage. Map pools will be released approximately one week prior to their respective stages.
    - Quarterfinals: Best-of-9, first to 5 points wins. Mappool containing 11 FreeMod maps and 1 tiebreaker map.
    - Semifinals: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
-   - Finals week 1: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
-   - Finals week 2: Best-of-13, first to 7 points wins. Mappool containing 15 FreeMod maps and 1 tiebreaker map.
+   - Finals: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
+   - Grand Finals: Best-of-13, first to 7 points wins. Mappool containing 15 FreeMod maps and 1 tiebreaker map.
 
 ### Match procedures
 
@@ -356,7 +537,7 @@ Sunday, 31 January 2021:
 9. Allowed mods in the FreeMod pool are Hidden, FadeIn, Flashlight, and Mirror. The tiebreaker map is also played under FreeMod conditions.
 10. If a player disconnects during a match, their score is counted as a failed score. However, if this disconnect happens before 30 seconds of the map is played, the referee can decide to let the teams rematch.
 11. If a team cannot gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the opposing team will be declared a win by default. If neither team can gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the team with the higher seed out of qualifiers will be declared a win by default.
-12. For any additional rules left out of this forum, please refer to the [official rules of the latest 4K osu!mania world cup](/wiki/Tournaments/MWC/2019_4K#ruleset), as these rules will be what 4DM2 will attempt to closely follow.
+12. For any additional rules left out of this forum, please refer to the [official rules of the latest 4K osu!mania world cup](/wiki/Tournaments/MWC/2019_4K#ruleset), as these rules will be what 4DM3 will attempt to closely follow.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

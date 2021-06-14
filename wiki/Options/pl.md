@@ -421,6 +421,6 @@ b{YYYY}{MM}{DD}.{korekta}{typ}
 ### Historia
 
 - Stara nakładka opcji była ekranem, który składał się z zakładek, przycisków i ciemnoniebieskiego tła.
-- Stara nakładka opcji zawierała również ekran wyboru skórek z podglądem powtórki idealnego przejścia beatmapy w trybie osu!standard.
+- Stara nakładka opcji zawierała również ekran wyboru skórek z podglądem powtórki idealnego przejścia beatmapy w trybie osu!.
   - Po przeniesieniu nakładki opcji do panelu bocznego ekran podglądu był nadal dostępny poprzez otworzenie pliku ze skórką.
   - Dostęp do tego ekranu został usunięty wraz z dodaniem podglądu skórek do panelu bocznego.

@@ -18,7 +18,6 @@ no_native_review: true
 - [ファイルを圧縮する](Compressing_Files)
 - [カスタムヒットサウンドライブラリ](Custom_Hitsound_Library)
 - [カスタムサンプルオーバーライド](Custom_Sample_Overrides)
-- [ビデオゲームから曲を取得する](Getting_Songs_From_Video_Games)
 - [曲の時間を計る方法](How_to_Time_Songs)
 - [ミュージックセオリー](Music_Theory)
 - [osu!mania マッピングガイド](osu!mania_Mapping_Guide)

@@ -18,11 +18,11 @@ tags:
 - Abbreviation: HT
 - Type: Difficulty Reduction
 - Score Multiplier: 
-  - ![][o!s] ![][o!t] ![][o!c]: 0.30x
-  - ![][o!m]: 0.50x
+  - ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.30x
+  - ![][osu!mania]: 0.50x
 - Default shortcut key: `E`
 - Caption: `Less zoom.`
-- Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Description
 
@@ -38,9 +38,7 @@ As a result, using the Half Time mod will lead to an increase in maximum possibl
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the BPM is lowered by the same factor as in other modes. Though it *also* decreases the player character's speed so normal fruits without any mods *may* turn into hyperdash fruits.
-
-In addition to this, the leniency for hyperdashes is increased, which makes it much more difficult to stop underneath the next fruit when performing a hyperdash.
+In [osu!catch](/wiki/Game_mode/osu!catch), the BPM and the speed of the catcher are lowered by the same factor as in other modes. All the [fruits](/wiki/Hit_object/Fruit), [drops](/wiki/Hit_object/Juice_stream#drop), [droplets](/wiki/Hit_object/Juice_stream#droplet) and [bananas](/wiki/Hit_object/Banana) stay untouched.
 
 ## Trivia
 
@@ -51,7 +49,7 @@ In addition to this, the leniency for hyperdashes is increased, which makes it m
 
 ![Changed values](img/GM_HT.jpg "Screenshot of beatmap values being changed by the Half Time mod")
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

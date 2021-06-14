@@ -1,13 +1,14 @@
 ---
 outdated: true
 ---
+
 # Conquistas
 
 **Conquistas** (achievements) são pequenos emblemas para perfil que indicam que o usuário conseguiu realizar certo objetivo. Atualmente, eles são divididos em 5 grupos.
 
 ## Beatmap Packs
 
-As conquistas de **Beatmap Packs** são obtidas por **jogar todos os beatmaps de um [Beatmap Pack Temático](https://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade)**, sendo que o modo de jogo deva ser [osu!Standard](/wiki/Game_mode/osu!).
+As conquistas de **Beatmap Packs** são obtidas por **jogar todos os beatmaps de um [Beatmap Pack Temático](https://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade)**, sendo que o modo de jogo deva ser [osu!](/wiki/Game_mode/osu!).
 
 Existem 16 conquistas neste grupo, as quais são divididos em 4 seções:
 
@@ -49,7 +50,7 @@ Cada uma dessas seções possuem 4 volumes.
 
 ## Combo
 
-As conquistas de **Combo** podem ser obtidas por conseguir um número específico de [Combo](/wiki/Glossary) no modo Standard **em qualquer música**. Conseguir o mesmo combo em Taiko ou Catch the Beat não resultarão na obtenção da conquista.
+As conquistas de **Combo** podem ser obtidas por conseguir um número específico de [Combo](/wiki/Beatmapping/Combo) no modo Standard **em qualquer música**. Conseguir o mesmo combo em Taiko ou Catch the Beat não resultarão na obtenção da conquista.
 
 Para a conquista de 1,000 e 2,000 combo, você deve procurar por beatmaps approved ao invés de ranked. Não procure por beatmaps não aprovados.
 

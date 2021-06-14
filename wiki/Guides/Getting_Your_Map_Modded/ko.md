@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Getting Your Map Modded
 
 당신의 비트맵이 [랭크가](/wiki/Beatmap/Category#ranked) 되기 위해 [모딩를](/wiki/Modding) 받을 필요가 있습니다. 아래는 Mod를 받을수 있는 몇가지 방법들 입니다.
@@ -6,7 +10,7 @@
 
 **\#modreqs (\#모드리퀘)** 는 osu!의 채팅시스템 중 하나로서, 플레이어들은 여기에서 [모딩의](/wiki/Modding) 리퀘스트가 이루어집니다.
 
-20개의 최신리퀘스트를 표시하는 것으로, 몇가지의 방법으로 [Bancho/반초](/wiki/Glossary) 의 표시가 가능합니다:
+20개의 최신리퀘스트를 표시하는 것으로, 몇가지의 방법으로 [Bancho/반초](/wiki/BanchoBot) 의 표시가 가능합니다:
 
 - `!request`커맨드를 채팅창에 입력하여, Bancho봇으로부터 PM에서 랜덤으로 비트맵의 링크를 받을 수 있습니다.
 - `!request list`커맨드를 채팅창에 입력하여, Bancho봇으로부터 PM에서 5개의 최신비트맵의 링크를 받을 수 있습니다.

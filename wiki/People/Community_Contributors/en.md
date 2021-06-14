@@ -172,6 +172,22 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Outstanding contribution to the Mappers' Guild and Beatmap Nominators |
 | ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | Outstanding contribution to osu! open source projects |
 
+## 2021
+
+### March
+
+*For the news post, see: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+
+| User | Contributions |
+| :-- | :-- |
+| ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) | Outstanding contribution to the community events and development |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Outstanding contribution to the World Cups and community events |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Outstanding contribution to the mapping and modding scene |
+| ![][flag_PL] [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Outstanding contribution to osu! development through many projects |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Outstanding contribution to the osu! skinning and moderation scene |
+| ![][flag_US] [I Must Decrease](https://osu.ppy.sh/users/2773526) | Outstanding contribution to scoring maintenance and development |
+| ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) | Outstanding contribution to the World Cups and community tournament scene |
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

@@ -47,16 +47,16 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
+| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, structural, moderation, communication |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluation |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German | Evaluation |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | German | Evaluation |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, structural, communication |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese | Evaluation, structural, communication |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
+| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polish | Evaluation |
 
 ### osu!taiko
 
@@ -78,8 +78,8 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | German, Polish | Evaluation |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation, moderation |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French | Evaluation |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
@@ -91,6 +91,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

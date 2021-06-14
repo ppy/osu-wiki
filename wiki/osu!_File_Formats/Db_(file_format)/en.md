@@ -84,8 +84,8 @@ Some data types specific to osu!.db are defined below.
 | Int | Total time, in milliseconds |
 | Int | Time when the audio preview when hovering over a beatmap in beatmap select starts, in milliseconds. |
 | Timing point+ | An Int indicating the number of following Timing points, then the aforementioned Timing points. |
+| Int | Difficulty ID |
 | Int | Beatmap ID |
-| Int | Beatmap set ID |
 | Int | Thread ID |
 | Byte | Grade achieved in osu! standard. |
 | Byte | Grade achieved in Taiko. |
@@ -93,7 +93,7 @@ Some data types specific to osu!.db are defined below.
 | Byte | Grade achieved in osu!mania. |
 | Short | Local beatmap offset |
 | Single | Stack leniency |
-| Byte | Osu gameplay mode. 0x00 = osu!Standard, 0x01 = Taiko, 0x02 = CTB, 0x03 = Mania |
+| Byte | osu! gameplay mode. 0x00 = osu!，0x01 = osu!taiko，0x02 = osu!catch，0x03 = osu!mania |
 | String | Song source |
 | String | Song tags |
 | Short | Online offset |
@@ -155,16 +155,16 @@ This database contains the scores achieved locally.
 
 | Data type | Description |
 | :-- | :-- |
-| Byte | osu! gameplay mode (0x00 = osu!Standard, 0x01 = Taiko, 0x02 = CTB, 0x03 = Mania) |
+| Byte | osu! gameplay mode (0x00 = osu!，0x01 = osu!taiko，0x02 = osu!catch，0x03 = osu!mania) |
 | Int | Version of this score/replay (e.g. 20150203) |
 | String | Beatmap MD5 hash |
 | String | Player name |
 | String | Replay MD5 hash |
 | Short | Number of 300's |
-| Short | Number of 100's in osu!Standard, 150's in Taiko, 100's in CTB, 100's in Mania |
-| Short | Number of 50's in osu!Standard, small fruit in CTB, 50's in Mania |
-| Short | Number of Gekis in osu!Standard, Max 300's in Mania |
-| Short | Number of Katus in osu!Standard, 200's in Mania |
+| Short | Number of 100's in osu!, 150's in osu!taiko, 100's in osu!catch, 100's in osu!mania |
+| Short | Number of 50's in osu!, small fruit in osu!catch, 50's in osu!mania |
+| Short | Number of Gekis in osu!, Max 300's in osu!mania |
+| Short | Number of Katus in osu!, 200's in osu!mania |
 | Short | Number of misses |
 | Int | Replay score |
 | Short | Max Combo |

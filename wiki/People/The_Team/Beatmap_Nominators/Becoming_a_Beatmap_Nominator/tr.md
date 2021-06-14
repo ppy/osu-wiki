@@ -9,7 +9,7 @@ Bir kullanıcının başvurmak için belirli bir modlama aktivite gereksinimini 
 Beatmap Aday Göstericilere başvurmayı hedefleyen modderlar aşağıdaki kriterleri sağlayabilmelidir:
 
 - Başvurudan önceki son 3 ay boyunca aktif olarak beatmap modluyor olmalılar.
-- Başvurdukları oyun moduna göre toplamda en az 150 veya 200 [kudosu](/wiki/Glossary#kudosu!) biriktirmiş olmalılar.
+- Başvurdukları oyun moduna göre toplamda en az 150 veya 200 [kudosu](/wiki/Modding/Kudosu) biriktirmiş olmalılar.
 - Beatmap Aday Göstericilerin bir parçası olmaya yeterli olduklarını gösteren modlarından 2 ila 4 tanesini göndermiş olmalılar.
 
 ### Neler mod gönderisi olarak tanımlanabilir

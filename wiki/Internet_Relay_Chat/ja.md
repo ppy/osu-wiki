@@ -1,81 +1,85 @@
----
-outdated: true
-no_native_review: true
----
-
 # Internet Relay Chat
 
-IRCとしても知られる[Internet Relay Chat](https://ja.wikipedia.org/wiki/Internet_Relay_Chat)は接続可能な多数のクライアントとチャットするための確立された標準プロトコルです。
+*詳細については、次を参照してください。[Internet Relay Chat（Wikipedia）](https://ja.wikipedia.org/wiki/Internet_Relay_Chat "Wikipedia")*
+
+**Internet Relay Chat**（**IRC**）は、多数のオンラインクライアントとのチャットに使用されるアプリケーション層のプロトコルです。
 
 ## osu!Bancho
 
-osu!BanchoはIRC（ゲーム内チャット）アクセス用のゲートウェイを提供します。ゲームクライアントを使用せずに、自分のクライアントに接続して他の人とチャットできます。このIRCプロトコルは変更されているため、クライアントの機能が正常に動作することを期待しないでください。
+*注意: このサーバーは、IRCプロトコルの部分的な実装を提供しています。IRCクライアントの基本的でない機能（例えば、[HexChat](https://hexchat.github.io/)など）は、適切に動作しなかったり、まったく動作しない場合があります。
 
-**注意: [HexChat](https://hexchat.github.io/)はosu!のIRCに問題があることが知られています** ([HexChatのGitHubのバグレポート](https://github.com/hexchat/hexchat/issues/818))、気になる場合は別のクライアントの使用を検討してみてください。
+*osu!Bancho*（単に*Bancho*と短縮されることもあります）は、IRC（ゲーム内チャット）にアクセスするためのゲートウェイを提供します。最新のIRCクライアントを使用して接続することができます。（人気のあるクライアントのリストは下にスクロールしてください）
 
-## 接続方法
+## 接続
 
-クライアントを手に入れたら、サーバー設定をセットアップする必要があります。
+IRCクライアントの設定を開き、値を入力してください。（最初にサーバーを追加する必要があるかもしれません）
 
-- **サーバー:** `irc.ppy.sh`
-- **ポート:** `6667` （デフォルト）
-- **ユーザー名:** osu!のユーザー名 （スペースをアンダースコアに置き換える）
-- **パスワード:** [IRC Authentication](https://osu.ppy.sh/p/irc)で入手してください。
+- サーバー: `irc.ppy.sh`
+- ポート: `6667`
+- ユーザー名: osu!のユーザ名。スペースをアンダースコアに置き換えてください（例: `beppy master 1000` は `beppy_master_1000` になります）
+- パスワード: [IRC Authentication](https://osu.ppy.sh/p/irc)ページのパスワード
 
-*IRCパスワードはアカウントのパスワードとは異なります。 **他人と共有しないで下さい**。*
+*Warning: IRCのパスワードはアカウントのパスワードとは異なります。**他の人と共有しないでください**.*。
 
-## 基本的なIRCコマンド
+## IRC基本コマンド
 
 | コマンド | 説明 |
 | :-- | :-- |
-| `/join <#channel>` | チャンネルに参加 |
-| `/part <#channel>` | チャンネルを離れる |
-| `/me <action>` | アクションメッセージを送信 |
-| `/ignore <username>` | ユーザーを無視（メッセージを非表示にします） |
+| `/join <#channel>` | チャンネルに参加する |
+| `/part <#channel>` | チャンネルを離脱する |
+| `/me <action>` | アクションメッセージを送信する |
+| `/ignore <username>` | ユーザーを無視する（メッセージを非表示にする） |
+| `/away <メッセージ>` | あなたに連絡しようとしているすべての人にメッセージを残します |
+| `/away` | 退席中のメッセージを消去する |
+| `/query <username>` | ユーザー名でチャットを開きます（スペースをアンダースコアに置き換えてください） |
 
-## 参加/離脱メッセージを無効にする
+## JOIN/PART/QUITメッセージを無効にする
 
-参加または参加しているプレイヤーを知ることは良いことですが、`#osu`のように非常に混雑していると、参加/離脱メッセージを常に受信し、会話を追えなくなります。したがって、通常、これらのメッセージは非表示にすることをお勧めします。
-
-```
-[17:46] * lauripihl (cho@ppy.sh) has left #lobby
-[17:46] * Kastun (cho@ppy.sh) has joined #lobby
-[17:46] * AuReL (cho@ppy.sh) has joined #lobby
-[17:46] * osukd (cho@ppy.sh) has joined #lobby
-[17:46] * BreadTooGood (cho@ppy.sh) has joined #lobby
-[17:46] * keanyew18 (cho@ppy.sh) has joined #lobby
-[17:46] * JaKox (cho@ppy.sh) has joined #lobby
-[17:46] * Kerantor (cho@ppy.sh) has joined #lobby
-```
-
-### 一般的なクライアントで参加/離脱メッセージを無効にする
+多くのIRCクライアントは、デフォルトでユーザーがチャンネルに参加したり退出したりすると通知します。osu!Banchoのように何千人ものユーザが頻繁に出入りするネットワークでは、このようなメッセージはスパムとなり、非表示にしたいと思うかもしれません。一般的なIRCクライアントのリストと、これらのメッセージを無効にする方法を以下で説明します。
 
 | IRCクライアント | 説明 |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/) | Settings - Preferences に移動し、Chatting - Generalで"Hide join and part messages"をオンにする |
-| [ircII](http://www.eterna.com.au/ircii/) | `/ignore * crap` を入力 |
-| [Irssi](https://irssi.org) | `/ignore -channels #somechannel * JOINS PARTS QUITS` を入力 |
-| [Weechat](https://weechat.org/) | `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` を入力。 **注意:** **ユーザー名** をあなたのosu!ユーザー名に置き換えてください！ |
-| [KVIrc](https://www.kvirc.net/) | 公式KVIrcフォーラムの[このスレッド](http://www.kvirc.ru/forum/?topic=609.0)にアクセスしてください。 |
-| [mIRC](https://www.mirc.com/) | mIRCオプション(Tools - Options / Alt + O)に移動し、IRCツリーで"Events..."ボタンをクリックして、JoinsとPartsを"Hide"に変更します。 |
-| [Quassel IRC](https://quassel-irc.org/) | チャットウィンドウを右クリックして、Hide Events » Join/Part/Quit を選択します。 |
-| [XChat](http://xchat.org/) | `/set irc_conf_mode 1`を入力 (または[2](http://xchat.org/faq/#q211)でチャンネル全体のメッセージを無効にします)。 |
+| [HexChat](https://hexchat.github.io/) | `Settings` -> `Preferences` -> `Chatting` -> `General` の"Hide join and part messages"をオンにする（Advanced pre-2.9.6） |
+| [ircII](http://www.eterna.com.au/ircii/) | `IGNORE * CRAP`を入力 |
+| [Irssi](https://irssi.org) | `/ignore * JOINS PARTS QUITS`を入力 |
+| [Weechat](https://weechat.org/) | `/filter add joinquit * irc_join,irc_part,irc_quit *`を入力 |
+| [KVIrc](https://www.kvirc.net/) | [KVIrc wikiページ](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub") を参照 |
+| [mIRC](https://www.mirc.com/) | mIRCオプション（`Tools` -> `Options`, or `Alt` + `O`）に移動し、`IRC`を選択し、`Events...` ボタンをクリックして、joinと partsに対して`Hide`を選択 |
+| [Quassel IRC](https://quassel-irc.org/) | チャットウィンドウを右クリックして、Hide Eventsメニュー内のJoin/Part/Quitを選択 |
+| [XChat](http://xchat.org/) | `/set irc_conf_mode 1`を入力 |
 
-クライアントがここにリストされていない場合、そのドキュメントを参照してください。ほとんどのクライアントにはこれを行う方法があります。
+## FAQ
 
-## よくある質問（FAQ）
+### ログインできません
 
-### "Bad Authentication Token"というエラーが表示されます
+osu!Banchoはプレーンテキスト認証を使用しています。IRCクライアントの設定で特別な認証モードが選択されていないことを確認してください。
 
-1. [IRC Authentication](https://osu.ppy.sh/p/irc)ページのパスワードを使用していることを確認します。
-2. ユーザー名にスペースが含まれている場合は、アンダースコアに置き換えます （例：**This Username** から **This_Username**）
+または、別のサーバアドレス`cho.ppy.sh`を使用してください。（この場合も osu!Bancho に接続します）
 
-### 別のユーザー名を使用できますか？
+### "Bad Authentication Token "というエラーが発生します。
 
-いいえ。osu!のユーザー名のみ使用できます。
+次のことを試してみてください:
 
-### voice statusはなんですか？または、それを持っている人がいます
+1. [IRC認証ページ](https://osu.ppy.sh/p/irc)から正しいパスワードを使用しているか確認してください。
+2. ユーザー名にスペースがある場合は、アンダースコアに置き換えてください。（例: `This Username`は`This_Username`になります）
 
-*voice status*を持つユーザーは*operator (+o)*ステータスのチャットモデレータを除いてIRCを使用して接続されます。
+### 別のユーザーネームを使うことはできますか？
 
-ステータスを持たないユーザーは、ゲームクライアントを使用して接続されます。
+できません。
+
+### 他の人のユーザー名を素早く入力するにはどうしたらいいですか？
+
+ユーザー名の最初の数文字を入力し、`Tab`キーを使ってオートコンプリートを使用してください。
+
+### なぜユーザー名の前に異なる記号が付くのですか？
+
+IRC標準では、チャンネルモードという概念があります。これは、すべてのユーザーが実行できるアクションのセットです。osu!Banchoでは、特別なグループのチャットユーザーには2つのモードが使われています。
+
+- `+`または「voice status」: ユーザーは外部のIRCクライアントで接続されています
+- `@`または「chat operator status」: ユーザーがチャットのモデレーター（[GMT](/wiki/People/The_Team/Global_Moderation_Team)または[NAT](/wiki/People/The_Team/Nomination_Assessment_Team)）
+
+osu!クライアントやウェブサイトで接続しているユーザーにプレフィックスはありません。
+
+### 誰かがメッセージを送信していますが、チャンネルユーザーのリストにはありません。
+
+[ウェブ版チャット](https://osu.ppy.sh/community/chat)を使っているか、[osu!lazer](https://github.com/ppy/osu "GitHub")で接続しています。

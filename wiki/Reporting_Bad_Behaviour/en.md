@@ -20,35 +20,45 @@ Usage: `!report username [reason]`
 
 Parameters in **[** and **]** are optional.
 
-If the user has a space in their username, it must be replaced with an underscore `_` because the osu! in-game chat is based on [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
+If the user has a space in their username, it must be replaced with an underscore `_` because the osu! in-game chat is based on [Internet Relay Chat](/wiki/Internet_Relay_Chat).
 
 `!report This User Name is spamming in #osu` turns to `!report This_User_Name is spamming in #osu`
 
 Reports are not case-sensitive so it is okay to use lowercase letters like `this_user_name`.
 
-![Example of using the !report command](img/Report-command.png "Example of using the !report command")
+![The chat box with a !report command](img/report-command.jpg "Example of using the !report command")
 
-### Using the report button in-game
+### Using the user report button in-game
 
 Reporting the user by this way only needs a type of reason and the custom text, unlike the `!report` command.
 
-![Click the report button](img/Report-user-1.png "Click the report button")
+![The list of available user options](img/report-user-1.png "Click the Report User button")
 
-![Remember to add a reason here!](img/Report-user-2.png "Remember to add a reason here!")
+![The user report overlay](img/report-user-2.png "Remember to add a reason here!")
 
-### Using the report button in the profile of a user
+### Using the report button on the website
 
-This also works the same as the report button in-game.
+This also works the same as the `Report User` button in-game.
 
 Remember to add details to your report at the comments.
 
-![This will open a dialog for reporting the user.](img/Report-user-profile.png "This will open a dialog for reporting the user.")
+![](img/report-user-profile.png "The report button on a user's profile page")
 
-### Using the report link at the record of a user at beatmap listing
+![](img/report-user-forum.png "The report button at a user's post on the forum")
+
+![](img/report-user-comment.png "The report button at a user's comment on the website")
+
+![](img/report-user-discussion.png "The report button at a user's post on the beatmap discussion page")
+
+![The user report overlay on the website](img/report-user-web.png "Remember to add a reason here!")
+
+### Using the Report Score button at the record of an user's score
 
 This should only be used when reporting cheating users.
 
-![Pressing this link will report that score.](img/Report-user-beatmap.png "Pressing this link will report that score.")
+![](img/report-score-user.png "The score report button at the top ranks on a user's profile page")
+
+![](img/report-score-beatmap.png "The score report button at the ranking on a beatmap information page")
 
 ## Examples what to report
 
@@ -68,7 +78,7 @@ Moderators immediately silence for this, removing the content without warning.
 
 Take note that spamming streaming links are applied to this rule.
 
-### Offensive behavior towards other players
+### Offensive behaviour towards other players
 
 Telling people to kill themselves is not a good thing to say.
 

@@ -26,7 +26,7 @@ A *difficulty* is a file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu
 
 *Main article: [Submission](/wiki/Submission)*
 
-Beatmap authors can [submit](/wiki/Glossary#bss) their creations to the public [beatmap listing](https://osu.ppy.sh/beatmapsets). While every beatmap is attributed to [a single person](/wiki/Beatmap/Beatmap_host), it is often a joint effort: some difficulties may be mapped by other people working [in collaboration](/wiki/Beatmap/Beatmap_collaborations) or [separately](/wiki/Beatmap/Guest_difficulty).
+Beatmap authors can [submit](/wiki/Submission) their creations to the public [beatmap listing](https://osu.ppy.sh/beatmapsets). While every beatmap is attributed to [a single person](/wiki/Beatmap/Beatmap_host), it is often a joint effort: some difficulties may be mapped by other people working [in collaboration](/wiki/Beatmap/Beatmap_collaborations) or [separately](/wiki/Beatmap/Guest_difficulty).
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
@@ -61,7 +61,7 @@ Beatmaps can be obtained through a few different ways:
 
 ### Beatmap listing
 
-Beatmaps from various categories are available from the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the website. They can be filtered according to certain conditions (e.g. beatmaps from [osu!taiko](/wiki/Game_mode/osu!) created by a certain mapper), and then downloaded one by one. [osu!supporters](/wiki/osu!supporter) have access to an extended set of filters, such as an ability to see beatmaps on which they achieved a certain rank.
+Beatmaps from various categories are available from the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the website. They can be filtered according to certain conditions (e.g. beatmaps from [osu!taiko](/wiki/Game_mode/osu!taiko) created by a certain mapper), and then downloaded one by one. [osu!supporters](/wiki/osu!supporter) have access to an extended set of filters, such as an ability to see beatmaps on which they achieved a certain rank.
 
 ### osu!direct
 

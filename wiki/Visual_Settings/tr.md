@@ -1,6 +1,6 @@
 # Görsel ayarlar
 
-![](img/visual-settings.jpg "Görsel Ayarlar Menüsü")
+![](img/visual-settings-TR.jpg "Görsel Ayarlar Menüsü")
 
 **Görsel Ayarlar** oyun alanının altında bulunan gizli bir kişiselleştirme panelidir. Beatmap yüklemedeyken veya oyun duraklatıldığında bu panele erişilebilir. Görsel ayarlar paneli ekranda gözüktüğünde, imleç görsel ayarlar panelinden dışarı çıkana kadar beatmapin akışı duraklatılır.
 
