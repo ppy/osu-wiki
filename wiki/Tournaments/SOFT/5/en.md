@@ -279,12 +279,12 @@ This competition has come to an end and resulted in the following podium:
 
 | Saturday, 2021-05-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **[GS]Myuka** ![][flag_CL] | **7** | 1 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/82877585) |
+| **\[GS\]Myuka** ![][flag_CL] | **7** | 1 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/82877585) |
 
 | Sunday, 2021-05-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| bojii ![][flag_PH] | 2 | **7** | ![][flag_CL] **[GS]Myuka** | [#1](https://osu.ppy.sh/community/matches/82933914) |
-| **[GS]Myuka** ![][flag_CL] | **7** | 2 | ![][flag_PH] bojii | [#1](https://osu.ppy.sh/community/matches/82938115) |
+| bojii ![][flag_PH] | 2 | **7** | ![][flag_CL] **\[GS\]Myuka** | [#1](https://osu.ppy.sh/community/matches/82933914) |
+| **\[GS\]Myuka** ![][flag_CL] | **7** | 2 | ![][flag_PH] bojii | [#1](https://osu.ppy.sh/community/matches/82938115) |
 
 ### Finals
 
