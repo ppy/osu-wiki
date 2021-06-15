@@ -15,7 +15,7 @@ Before looking for mods, you must first understand the different types of mod re
 Posting your beatmap in modding queues is the most effective and most widely used way of finding people to mod your beatmaps. Modding queues are threads posted in the [Modding Queues forum](https://osu.ppy.sh/community/forums/60) which allow the creator of the thread to find beatmaps to mod, and for others to easily find modders to mod their beatmaps. Using the forum to find mods is straightforward and effective—just follow the steps below to get started:
 
 1. Go to the [Modding Queues forum](https://osu.ppy.sh/community/forums/60).
-2. Browse through the list of queues, and find one that accepts beatmaps from the game mode which you have mapped for, and make sure it is marked as "open" in the title or opening post.
+2. Browse through the list of queues, and find one that accepts beatmaps from the game mode which you have mapped for. Make sure it is marked as "open" in the title or opening post.
 3. Read the queue's rules. If you or your beatmap does not meet the requirements listed there, then unfortunately you will have to find another queue to post in.
 4. Read the modder's preferences listed in the queue (if any), as it may save both you and the creator of the queue a lot of time.
 5. Click the `go to last post` button at the bottom of the screen. This is represented by a double right chevron icon.
@@ -24,7 +24,7 @@ Posting your beatmap in modding queues is the most effective and most widely use
 
 It is generally acceptable to post in a few modding queues at a time, so feel free to repeat this process if necessary, or if you want to boost your chances of receiving a mod. Keep in mind, however, that just because you have posted in a modding queue, it does not mean the modder is obligated to mod your beatmap; they will mod it if they want to.
 
-It is worth noting that you should avoid posting in Beatmap Nominators' queues until your mapping is at a near rankable level (unless they have specified that they are looking for novice mappers), as they will most likely ignore your requests otherwise. You are much better off finding normal modders to mod your beatmaps when you are still learning how to create beatmaps.
+It is worth noting that you should avoid posting in Beatmap Nominators' queues until your mapping is at a near-rankable level (unless they have specified that they are looking for novice mappers), as they will most likely ignore your requests otherwise. You are much better off finding normal modders to mod your beatmaps when you are still learning how to create beatmaps.
 
 ## #modreqs
 
@@ -32,7 +32,7 @@ It is worth noting that you should avoid posting in Beatmap Nominators' queues u
 
 `#modreqs` is a channel in the osu! chat where players can request mods for their beatmaps by linking them with the `/np` command, along with a mod request type. While it is not the most effective method of finding mods, modders and Beatmap Nominators are often on the lookout for good beatmaps being linked in this channel.
 
-`#modreqs` does not have the same functionality and userbase it had in the past, but it is still a useful method for obtaining mods, so it is worth a shot. While there are mostly normal mod requests these days, it is also commonly used for the other request types mentioned [above](/wiki/Guides/Getting_Your_Map_Modded#types_of_mods).
+`#modreqs` does not have the same functionality and userbase it had in the past, but it is still a useful method for obtaining mods, so it is worth a shot. While there are mostly normal mod requests these days, it is also commonly used for the other request types mentioned [above](#types-of-mods).
 
 ## Directly asking other users
 
