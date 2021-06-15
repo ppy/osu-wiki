@@ -6,25 +6,24 @@ tags:
 
 # Springtime Osu!mania Free-for-all Tournament 5
 
-![SOFT5 Logo](img/logo.png)
+![SOFT5 logo](img/logo.png)
 
-> SOFT 5 when?
+> SOFT 5 when?\
+> Now!
 
-Now!
+The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) was a 1v1 country-independent osu!mania 4-key tournament.
 
-The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) is a one-on-one, country-independent osu!mania 4-key tournament.
-
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2021-01-24/2021-02-14 (23:59 UTC) |
-| Qualifiers Showcase | 2021-02-20 (16:00 UTC) |
+| Registration phase | 2021-01-24/2021-02-14 (23:59 UTC) |
+| Qualifiers showcase | 2021-02-20 (16:00 UTC) |
 | Qualifiers | 2021-02-27/2021-02-28 |
-| Playoffs - Week 1 | 2021-03-06/2021-03-07 |
-| Playoffs - Week 2 | 2021-03-13/2021-03-14 |
-| Group Stage - Week 1 | 2021-03-20/2021-03-21 |
-| Group Stage - Week 2 | 2021-03-27/2021-03-28 |
+| Playoffs week 1 | 2021-03-06/2021-03-07 |
+| Playoffs week 2 | 2021-03-13/2021-03-14 |
+| Group Stage week 1 | 2021-03-20/2021-03-21 |
+| Group Stage week 2 | 2021-03-27/2021-03-28 |
 | Round of 32 | 2021-04-03/2021-04-04 |
 | Round of 16 | 2021-04-10/2021-04-11 |
 | Quarterfinals | 2021-04-17/2021-04-18 |
@@ -34,20 +33,22 @@ The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) is a one-o
 
 ## Prizes
 
-The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash prize pool!
+The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash prize pool!
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, profile badge (to be confirmed) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 34% of the prize pool, profile badge (to be confirmed) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 16% of the prize pool, profile badge (to be confirmed) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 34% of the prize pool, profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 16% of the prize pool, profile badge |
+
+![](img/badge.png "SOFT5 winner badge") ![](img/badge2.png "SOFT5 2nd place badge") ![](img/badge3.png "SOFT5 3rd place badge")
 
 ## Organisation
 
-| Position | Member(s) |
+| Position | Members |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Map Selector | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [lemonguy](https://osu.ppy.sh/users/4693052), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Mappool selector | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [lemonguy](https://osu.ppy.sh/users/4693052), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Streamer | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 | Commentator | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
@@ -57,15 +58,15 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1232110)
-- [Livestream](https://www.twitch.tv/osusoft)
-- [SOFT Discord server](https://discord.gg/qd575a3)
-- [Challonge](https://challonge.com/SOFT5)
+- [Livestream](https://www.twitch.tv/osusoft "Twitch")
+- [SOFT Discord server](https://discord.gg/qd575a3 "Discord")
+- [Challonge](https://challonge.com/SOFT5 "Challonge")
 
 ---
 
 ## Participants
 
-### Qualified Participants
+### Qualified participants
 
 | Seed | Users |
 | :-- | :-- |
@@ -97,7 +98,121 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 
 ---
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | User |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] [**\[GS\]Myuka**](https://osu.ppy.sh/users/10072733) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] [**SillyFangirl**](https://osu.ppy.sh/users/2288363) |
+
+---
+
 ## Mappools
+
+### Grand Finals
+
+- FreeMod
+  - [Kuribayashi Minami - ZERO!! (stupud man) \[Skwid's Challenge 1.1x\]](https://osu.ppy.sh/beatmapsets/1450344#mania/2981853)
+  - [DJ SHARPNEL - STRANGEPROGRAM (Shoegazer) \[Malfunction 1.3x (280bpm)\]](https://osu.ppy.sh/beatmapsets/1393835#mania/2888754)
+  - [Falcom Sound Team jdk - GENS D'ARMES (lemonguy) \[Gendarme\]](https://osu.ppy.sh/beatmapsets/1199166#mania/2497240)
+  - [BEMANI Sound Team "L.E.D. VS. L.E.D.-G" - KILL EACH OTHER (stupud man) \[SAVAGE COLOSSEUM\]](https://osu.ppy.sh/beatmapsets/1412098#mania/2910952)
+  - [Xanopticon - Psicicite (Shoegazer) \[Extra 1.2x (216bpm)\]](https://osu.ppy.sh/beatmapsets/659977#mania/2861210)
+  - [Outsider - Acquaintance (Guilhermeziat) \[Skwid's Challenge 1.15x\]](https://osu.ppy.sh/beatmapsets/1450363#mania/2981896)
+  - [YZYX - Dysnomia (Chrubble) \[Aphasia 1.15x\]](https://osu.ppy.sh/beatmapsets/867111#mania/2595609)
+  - [Aquellex - Tachyon Beam Cannon (lemonguy) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1450333#mania/2981831)
+  - [Nanahoshi Kangen Gakudan feat.Matsushita - Dansu Nanbaa wo Tomo ni (juankristal) \[T1M1N6 H311\]](https://osu.ppy.sh/beatmapsets/1252675#mania/2603455)
+  - [DJ Genki vs Gram - Einherjar Joker (MyZterioN-) \[Andhrimnir\]](https://osu.ppy.sh/beatmapsets/1210981#mania/2520929)
+  - [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (lemonguy) \[LN Master Cut x1.15\]](https://osu.ppy.sh/beatmapsets/1450330#mania/2981825)
+  - [LeaF - Kyouki Ranmai (\_underjoy) \[Schizoid\]](https://osu.ppy.sh/beatmapsets/864118#mania/1807364)
+  - [Camellia feat. Nanahira - finorza (Flappy_BOX) \[F1n4l Judg3m3nt\]](https://osu.ppy.sh/beatmapsets/1162945#mania/2425834)
+  - [Camellia - B L A C K - R A Y (Toaph Daddy) \[D A R K - M A G I C I A N x1.1\]](https://osu.ppy.sh/beatmapsets/1306124#mania/2707897)
+  - [Camellia - Xeroa (stupud man) \[Stage 0: Genesis\]](https://osu.ppy.sh/beatmapsets/1450345#mania/2981859)
+  - [Juggernaut - OLPHEUX (lemonguy) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1450331#mania/2981829)
+- Tiebreaker
+  - **[HertzDevil - Apocynthion Drive (lemonguy) \[Oblivion x1.1\]](https://osu.ppy.sh/beatmapsets/1270416#mania/2981834)**
+
+### Finals
+
+- FreeMod
+  - [HOWL BE QUIET - Wake We Up (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/1443429#mania/2969170)
+  - [DJ SHARPNEL - SHIND BAD (Shoegazer) \[Nagisa 1.35x (cut)\]](https://osu.ppy.sh/beatmapsets/1386270#mania/2865241)
+  - [DJ SHARPNEL - BURST LINKER (Fullerene-) \[INCARNATE 1.3x\]](https://osu.ppy.sh/beatmapsets/1404148#mania/2896051)
+  - [kors k - the shadow (stupud man) \[realm\]](https://osu.ppy.sh/beatmapsets/1403650#mania/2895138)
+  - [KASHIWA Daisuke - Aqua Regia (Shoegazer) \[Crystalline (edit)\]](https://osu.ppy.sh/beatmapsets/1389980#mania/2959965)
+  - [teranoid & mc natsack feat. good-cool - M.A.G.I.C speed ball (Guilhermeziat) \[nothing magical here\]](https://osu.ppy.sh/beatmapsets/1174964#mania/2450703)
+  - [Virtual Riot - Shindeiru (lemonguy) \[Edit x1.1\]](https://osu.ppy.sh/beatmapsets/866120#mania/2968847)
+  - [Fear and Loathing in Las Vegas - Virtue and Vice (lemonguy) \[Klaius and Skwid's Challenge 1.15x\]](https://osu.ppy.sh/beatmapsets/1443334#mania/2968869)
+  - [Cilvery - Kamisama Nejimaki (juankristal) \[TIMING HELL\]](https://osu.ppy.sh/beatmapsets/1050794#mania/2196171)
+  - [Penoreri - Lancelot \~Flame of the Rebellion\~ (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/1211967#mania/2522704)
+  - [Camellia - Break The Silence ([Crz]Crysarlene) \[Serenity (intro cut)\]](https://osu.ppy.sh/beatmapsets/1027910#mania/2898504)
+  - [Kommisar - Turkey Turkey (lemonguy) \[LN Master (cut) 1.05x\]](https://osu.ppy.sh/beatmapsets/852916#mania/2968864)
+  - [funauo - Mousou Seizou Sanka (-mint-) \[Another (NSV) 1.1x\]](https://osu.ppy.sh/beatmapsets/1047347#mania/2189520)
+  - [Final Sketch feat. rgLed - Violent Arcade (Toaph Daddy) \[Sudden Death x1.1\]](https://osu.ppy.sh/beatmapsets/1245864#mania/2592116)
+  - [BEMANI Sound Team "HuMer vs dj Hellix" - EMERALDAS (stupud man) \[CHAOS CONTROL 1.15x\]](https://osu.ppy.sh/beatmapsets/1416026#mania/2918198)
+  - [Camellia - Arcology On Permafrost (stupud man) \[-mint-'s Frozen World (cut) 1.1x\]](https://osu.ppy.sh/beatmapsets/1443349#mania/2968918)
+- Tiebreaker
+  - **[Camellia - Dans la mer de son (Toaph Daddy) \[Diabolos x1.05\]](https://osu.ppy.sh/beatmapsets/1443348#mania/2968915)**
+
+### Semifinals
+
+- FreeMod
+  - [amazarashi - Kisetsu wa Tsugitsugi Shindeiku (Valedict) \[Augenbinde\]](https://osu.ppy.sh/beatmapsets/433958#mania/935267)
+  - [Betwixt & Between - hydra (short edit) (Shoegazer) \[rebellion 1.35x (256bpm)\]](https://osu.ppy.sh/beatmapsets/1372891#mania/2840521)
+  - [Tech N9ne feat. Eminem & Krizz Kaliko - Speedom (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/1436332#mania/2955311)
+  - [Manabu Namiki - TENSHI (True Final Boss) (Mipha-) \[miphather 1.05x\]](https://osu.ppy.sh/beatmapsets/1187597#mania/2558167)
+  - [Terminal 11 - Staple On Smile (Guilhermeziat) \[hi19hi19's Extreme (OD8)\]](https://osu.ppy.sh/beatmapsets/1436328#mania/2955298)
+  - [Truongasm - Cutie Puffs (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/1436331#mania/2955306)
+  - [Venetian Snares - Frictional Nevada (Gekido-) \[Challenge x1.1\]](https://osu.ppy.sh/beatmapsets/1047387#mania/2503459)
+  - [MDK - Press Start (juankristal) \[1up\]](https://osu.ppy.sh/beatmapsets/850118#mania/1777456)
+  - [MAX MAXIMIZER VS DJ TOTTO - Rebellio (stupud man) \[BLOOD MEFIST\]](https://osu.ppy.sh/beatmapsets/1401067#mania/2890395)
+  - [Camellia - werewolf howls. (lemonguy) \[LNFINITE.\]](https://osu.ppy.sh/beatmapsets/1435835#mania/2954313)
+  - [Nekomata Master - Despair of ELFERIA (FelixSpade) \[LN Prodigy\]](https://osu.ppy.sh/beatmapsets/975960#mania/2063398)
+  - [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? (Suu is my waifu) \[\*Maximum...?\]](https://osu.ppy.sh/beatmapsets/1089836#mania/2278486)
+  - [Frums - Star of the COME ON!! (Toaph Daddy) \[Supernova\]](https://osu.ppy.sh/beatmapsets/1313199#mania/2721473)
+  - [Camellia - #1f1e33 (Eclipse-) \[Eclipse & Sitek's Sapphire Dusk\]](https://osu.ppy.sh/beatmapsets/1241616#mania/2581351)
+- Tiebreaker
+  - **[Camellia Vs. Expander - AZISAI (Long ver.) (MyZterioN-) \[Shattered Rain [1.05x Rate]\]](https://osu.ppy.sh/beatmapsets/1138055#mania/2427858)**
+
+### Quarterfinals
+
+- FreeMod
+  - [Tommy heavenly6 - PAPERMOON (lemonguy) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/1429569#mania/2942945)
+  - [Kotori - Nanamori (youth Remix) (Shoegazer) \[Escapade 1.15x (247bpm)\]](https://osu.ppy.sh/beatmapsets/1360301#mania/2815021)
+  - [DJ Sharpnel - BLUE NOAH 2006 (Wh1teh) \[1.2x\]](https://osu.ppy.sh/beatmapsets/1392117#mania/2874328)
+  - [Echo !mage - Skulk (Guilhermeziat) \[Hidden\]](https://osu.ppy.sh/beatmapsets/1429639#mania/2943073)
+  - [PUP - DVP (Chrubble) \[still fucked up over you\]](https://osu.ppy.sh/beatmapsets/645460#mania/1367763)
+  - [callasoiled - Recombination (Elekton) \[meiosis\]](https://osu.ppy.sh/beatmapsets/754364#mania/1588236)
+  - [Pegboard Nerds - Swamp Thing (Shoegazer) \[Swampgator (162bpm)\]](https://osu.ppy.sh/beatmapsets/1227404#mania/2553540)
+  - [Nekomata Master - Scars of FAUNA (Raveille) \[Orchid\]](https://osu.ppy.sh/beatmapsets/846374#mania/1770185)
+  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_edited\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2349916)
+  - [uno & D.watt (IOSYS TRAX) - #Endroll (ByeForNow) \[LN-VENLY\]](https://osu.ppy.sh/beatmapsets/759313#mania/2156119)
+  - [An - Catanoph (Toaph Daddy) \[Eternity (cut)\]](https://osu.ppy.sh/beatmapsets/696257#mania/2939618)
+  - [SLAM & NATO - PARADOXX (lemonguy) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1166344#mania/2432909)
+  - [lapix - Carry Me Away (arpia97) \[Daybreak\]](https://osu.ppy.sh/beatmapsets/858142#mania/1793444)
+  - [Marmalade butcher - Ushinaharerurunazuki (Suu is my waifu) \[Uteruchesis\]](https://osu.ppy.sh/beatmapsets/1023160#mania/2495433)
+- Tiebreaker
+  - **[Camellia - Arche (-mint-) \[Camellia\]](https://osu.ppy.sh/beatmapsets/1429563#mania/2942932)**
+
+### Round of 16
+
+- FreeMod
+  - [Phantasma - Illumination of the Sky (Guilhermeziat) \[It's dark tho\]](https://osu.ppy.sh/beatmapsets/1422636#mania/2929914)
+  - [The Quick Brown Fox - Serious Shit (Jole) \[ilikexd but the holds died\]](https://osu.ppy.sh/beatmapsets/842331#mania/2039249)
+  - [Betwixt & Between - 12 little fragments of silence (Shoegazer) \[absolution 1.05x (231bpm)\]](https://osu.ppy.sh/beatmapsets/905867#mania/2784535)
+  - [Zekk - Feelsleft0ut (Kamuy) \[chrubble's al0ne\]](https://osu.ppy.sh/beatmapsets/1145368#mania/2396091)
+  - [Her Bright Skies - The Glorious (Final Sketch Remix) (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmapsets/852660#mania/2698431)
+  - [AAAA + Umeboshi Chazuke - Sayonara Cosmonaut (Toaph Daddy) \[Farewell x1.05\]](https://osu.ppy.sh/beatmapsets/1033243#mania/2929710)
+  - [Fall Out Boy - Thnks Fr Th Mmrs (Razzy) \[Thnks Fr Th Ndls\]](https://osu.ppy.sh/beatmapsets/741278#mania/1563668)
+  - [SYUNN - Cosy Catastrophe (stupud man) \[Typhoon\]](https://osu.ppy.sh/beatmapsets/1393751#mania/2877105)
+  - [ETIA. - Daisycutter (lemonguy) \[Firestorm\]](https://osu.ppy.sh/beatmapsets/1307846#mania/2711344)
+  - [litmus* - B612 (Toaph Daddy) \[Voyage\]](https://osu.ppy.sh/beatmapsets/1209671#mania/2518537)
+  - [Tipper - Bubble Control (cut) (lenpai) \[soapy\]](https://osu.ppy.sh/beatmapsets/781115#mania/2417385)
+  - [Venetian Snares - Ketsarku Mozgalom (Halogen-) \[Despondence\]](https://osu.ppy.sh/beatmapsets/1387232#mania/2865294)
+- Tiebreaker
+  - **[Mameyudoufu - Citadel (RuleBlazing) \[The Last Frontier\]](https://osu.ppy.sh/beatmapsets/1331802#mania/2759223)**
 
 ### Round of 32
 
@@ -159,11 +274,146 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 
 ## Match Results
 
+### Grand Finals
+
+Saturday, 7 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **\[GS\]Myuka** ![][flag_CL] | **7** | 1 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/82877585) |
+
+Sunday, 8 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| bojii ![][flag_PH] | 2 | **7** | ![][flag_CL] **\[GS\]Myuka** | [#1](https://osu.ppy.sh/community/matches/82933914) |
+| **\[GS\]Myuka** ![][flag_CL] | **7** | 2 | ![][flag_PH] bojii | [#1](https://osu.ppy.sh/community/matches/82938115) |
+
+### Finals
+
+Saturday, 1 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| mashu ![][flag_US] | 0 | **7** | ![][flag_TH] **HowToPlayLN** | [#1](https://osu.ppy.sh/community/matches/82275323) |
+| **SillyFangirl** ![][flag_BR] | **7** | 2 | ![][flag_US] BaniiYanii | [#1](https://osu.ppy.sh/community/matches/82317902) |
+
+Sunday, 2 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[GS\]Myuka ![][flag_CL] | 0 | **7** | ![][flag_PH] **bojii** | *win by default* |
+| HowToPlayLN ![][flag_TH] | 3 | **7** | ![][flag_BR] **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/82362098) |
+
+### Semifinals
+
+Saturday, 24 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| XxNewson1234xX ![][flag_GB] | 4 | **6** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/81670257) |
+| **HowToPlayLN** ![][flag_TH] | **6** | 0 | ![][flag_GB] Zycrxd | [#1](https://osu.ppy.sh/community/matches/81674881) |
+| Pope Gadget ![][flag_GB] | 4 | **6** | ![][flag_GB] **xSnaggles** | [#1](https://osu.ppy.sh/community/matches/81681409) |
+| Halogen- ![][flag_US] | 2 | **6** | ![][flag_US] **BaniiYanii** | [#1](https://osu.ppy.sh/community/matches/81712907) |
+| **\[GS\]Myuka** ![][flag_CL] | **6** | 3 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/81719973) |
+
+Sunday, 25 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **bojii** ![][flag_PH] | **6** | 0 | ![][flag_US] mashu | [#1](https://osu.ppy.sh/community/matches/81731950) |
+| **HowToPlayLN** ![][flag_TH] | **6** | 5 | ![][flag_JP] AMDuskia1996 | [#1](https://osu.ppy.sh/community/matches/81761980) |
+| **BaniiYanii** ![][flag_US] | **6** | 1 | ![][flag_GB] xSnaggles | [#1](https://osu.ppy.sh/community/matches/81786358) |
+
+### Quarterfinals
+
+Saturday, 17 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **AMDuskia1996** ![][flag_JP] | **6** | 1 | ![][flag_US] ASharpp | [#1](https://osu.ppy.sh/community/matches/81057898) |
+| **bojii** ![][flag_PH] | **6** | 0 | ![][flag_GB] Pope Gadget | [#1](https://osu.ppy.sh/community/matches/81077756) |
+| Silhoueska Elze ![][flag_PH] | 1 | **6** | ![][flag_GB] **xSnaggles** | [#1](https://osu.ppy.sh/community/matches/81081936) |
+| **Auraah** ![][flag_FR] | **6** | 1 | ![][flag_SG] AdamAckerville | [#1](https://osu.ppy.sh/community/matches/81086548) |
+| **Zycrxd** ![][flag_GB] | **6** | 0 | ![][flag_FR] ZayyKen | *win by default* |
+| jkzu123 ![][flag_DE] | 2 | **6** | ![][flag_UY] **etterna in osu** | [#1](https://osu.ppy.sh/community/matches/81099567) |
+| **Yonk\_** ![][flag_GB] | **6** | 4 | ![][flag_BR] \[LS\]LeMarcinho | [#1](https://osu.ppy.sh/community/matches/81107215) |
+| **\[GS\]Myuka** ![][flag_CL] | **6** | 0 | ![][flag_GB] XxNewson1234xX | [#1](https://osu.ppy.sh/community/matches/81115990) |
+
+Sunday, 18 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **BossPlays** ![][flag_AR] | **6** | 4 | ![][flag_US] Alter- | [#1](https://osu.ppy.sh/community/matches/81139935) |
+| **BaniiYanii** ![][flag_US] | **6** | 3 | ![][flag_MY] \[-Leon-\] | [#1](https://osu.ppy.sh/community/matches/81156967) |
+| Auraah ![][flag_FR] | 3 | **6** | ![][flag_GB] **Zycrxd** | [#1](https://osu.ppy.sh/community/matches/81171987) |
+| **AMDuskia1996** ![][flag_JP] | **6** | 3 | ![][flag_UY] etterna in osu | [#1](https://osu.ppy.sh/community/matches/81176086) |
+| **SillyFangirl** ![][flag_BR] | **6** | 2 | ![][flag_TH] HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/81182150) |
+| **xSnaggles** ![][flag_GB] | **6** | 3 | ![][flag_GB] Yonk\_ | [#1](https://osu.ppy.sh/community/matches/81187946) |
+| BossPlays ![][flag_AR] | 2 | **6** | ![][flag_US] **BaniiYanii** | [#1](https://osu.ppy.sh/community/matches/81202385) |
+| Halogen- ![][flag_US] | 5 | **6** | ![][flag_US] **mashu** | [#1](https://osu.ppy.sh/community/matches/81209746) |
+
+### Round of 16
+
+Saturday, 10 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **bojii** ![][flag_PH] | **5** | 1 | ![][flag_DE] jkzu123 | [#1](https://osu.ppy.sh/community/matches/80470672) |
+| **HowToPlayLN** ![][flag_TH] | **5** | 2 | ![][flag_AR] BossPlays | [#1](https://osu.ppy.sh/community/matches/80475112) |
+| Stability ![][flag_CA] | 0 | **5** | ![][flag_MY] **\[-Leon-\]** | [#1](https://osu.ppy.sh/community/matches/80479329) |
+| **xSnaggles** ![][flag_GB] | **5** | 2 | ![][flag_PL] DaDarkDragon | [#1](https://osu.ppy.sh/community/matches/80484471) |
+| **[LS]LeMarcinho** ![][flag_BR] | **5** | 0 | ![][flag_NL] Bakuretsue | [#1](https://osu.ppy.sh/community/matches/80494608) |
+| **SillyFangirl** ![][flag_BR] | **5** | 0 | ![][flag_US] BaniiYanii | [#1](https://osu.ppy.sh/community/matches/80494724) |
+| Zoobin4 ![][flag_GB] | 4 | **5** | ![][flag_US] **Alter-** | [#1](https://osu.ppy.sh/community/matches/80509883) |
+| **AdamAckerville** ![][flag_SG] | **5** | 4 | ![][flag_US] WaterMelonTube | [#1](https://osu.ppy.sh/community/matches/80509919) |
+
+Sunday, 11 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ruka ![][flag_AU] | 2 | **5** | ![][flag_US] **ASharpp** | [#1](https://osu.ppy.sh/community/matches/80540602) |
+| Asrielly ![][flag_VN] | 0 | **5** | ![][flag_FR] **ZayyKen** | *win by default* |
+| **Pope Gadget** ![][flag_GB] | **5** | 3 | ![][flag_JP] AMDuskia1996 | [#1](https://osu.ppy.sh/community/matches/80563987) |
+| **XxNewson1234xX** ![][flag_GB] | **5** | 4 | ![][flag_PH] Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/80567711) |
+| Zycrxd ![][flag_GB] | 2 | **5** | ![][flag_US] **Halogen-** | [#1](https://osu.ppy.sh/community/matches/80575595) |
+| **etterna in osu** ![][flag_UY] | **5** | 2 | ![][flag_IT] Jeersy | [#1](https://osu.ppy.sh/community/matches/80580222) |
+| Auraah ![][flag_FR] | 2 | **5** | ![][flag_US] **mashu** | [#1](https://osu.ppy.sh/community/matches/80584963) |
+| **\[GS\]Myuka** ![][flag_CL] | **5** | 0 | ![][flag_GB] Yonk\_ | [#1](https://osu.ppy.sh/community/matches/80590069) |
+
+### Round of 32
+
+Saturday, 3 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **XxNewson1234xX** ![][flag_GB] | **5** | 0 | ![][flag_VN] Asrielly | *win by default* |
+| **bojii** ![][flag_PH] | **5** | 0 | ![][flag_GB] Zoobin4 | [#1](https://osu.ppy.sh/community/matches/79843858) |
+| **Silhoueska Elze** ![][flag_PH] | **5** | 0 | ![][flag_FR] ZayyKen | [#1](https://osu.ppy.sh/community/matches/79847698) |
+| Alter- ![][flag_US] | 3 | **5** | ![][flag_DE] **jkzu123** | [#1](https://osu.ppy.sh/community/matches/79847672) |
+| **Zycrxd** ![][flag_GB] | **5** | 3 | ![][flag_GB] xSnaggles | [#1](https://osu.ppy.sh/community/matches/79851780) |
+| **Pope Gadget** ![][flag_GB] | **5** | 0 | ![][flag_CA] Stability | [#1](https://osu.ppy.sh/community/matches/79866981) |
+| **mashu** ![][flag_US] | **5** | 0 | ![][flag_NL] Bakuretsue | [#1](https://osu.ppy.sh/community/matches/79872235) |
+
+Sunday, 4 April 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **BaniiYanii** ![][flag_US] | **5** | 3 | ![][flag_US] ASharpp | [#1](https://osu.ppy.sh/community/matches/79903645) |
+| **AMDuskia1996** ![][flag_JP] | **5** | 1 | ![][flag_MY] \[-Leon-\] | [#1](https://osu.ppy.sh/community/matches/79926507) |
+| **\[GS\]Myuka** ![][flag_CL] | **5** | 2 | ![][flag_SG] AdamAckerville | [#1](https://osu.ppy.sh/community/matches/79929883) |
+| **HowToPlayLN** ![][flag_TH] | **5** | 1 | ![][flag_UY] etterna in osu | [#1](https://osu.ppy.sh/community/matches/79934067) |
+| **SillyFangirl** ![][flag_BR] | **5** | 0 | ![][flag_AU] ruka | [#1](https://osu.ppy.sh/community/matches/79934369) |
+| **Halogen-** ![][flag_US] | **5** | 2 | ![][flag_PL] DaDarkDragon | [#1](https://osu.ppy.sh/community/matches/79942812) |
+| **Auraah** ![][flag_FR] | **5** | 4 | ![][flag_BR] \[LS\]LeMarcinho | [#1](https://osu.ppy.sh/community/matches/79946844) |
+| **BossPlays** ![][flag_AR] | **5** | 4 | ![][flag_IT] Jeersy | [#1](https://osu.ppy.sh/community/matches/79951781) |
+| **Yonk\_** ![][flag_GB] | **5** | 4 | ![][flag_US] WaterMelonTube | [#1](https://osu.ppy.sh/community/matches/79956707) |
+
 ### Group Stage
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQU1PuQPjiNLVfoHBxrXs_Cepm4EhWIC1gKW2rWHuPwd8ciG88Kg033pHOJ4BI6Ca7OfetjbihLzHI0/pubhtml).**
+Saturday, 20 March 2021:
 
-| Saturday, 2021-03-20 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **AMDuskia1996** ![][flag_JP] | **4** | 1 | ![][flag_VN] Asrielly | [#1](https://osu.ppy.sh/community/matches/78546358) |
 | **HowToPlayLN** ![][flag_TH] | **4** | 0 | ![][flag_TH] SHOKO - | *forfeited* |
@@ -186,7 +436,9 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **Yonk_** ![][flag_GB] | **4** | 1 | ![][flag_BR] Lenn | [#1](https://osu.ppy.sh/community/matches/78580255) |
 | **Halogen-** ![][flag_US] | **4** | 1 | ![][flag_US] -Lethal- | [#1](https://osu.ppy.sh/community/matches/78605757) |
 
-| Sunday, 2021-03-21 |  |  |  |  |
+Sunday, 21 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **AirSpan** ![][flag_GB] | **4** | 0 | ![][flag_PE] Kien io | [#1](https://osu.ppy.sh/community/matches/78611187) |
 | **mashu** ![][flag_US] | **4** | 0 | ![][flag_ID] nayuu | [#1](https://osu.ppy.sh/community/matches/78619841) |
@@ -216,7 +468,9 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **\[GS\]Myuka** ![][flag_CL] | **4** | 0 | ![][flag_PY] MomonSama | [#1](https://osu.ppy.sh/community/matches/78682547) |
 | **BaniiYanii** ![][flag_US] | **4** | 1 | ![][flag_NL] 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/78682994) |
 
-| Saturday, 2021-03-27 |  |  |  |  |
+Saturday, 27 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\[GS\]Antunder** ![][flag_US] | **4** | 0 | ![][flag_US] Unholy | *forfeited* |
 | **Silhoueska Elze** ![][flag_PH] | **4** | 0 | ![][flag_US] \[GS\]Antunder | [#1](https://osu.ppy.sh/community/matches/79181839) |
@@ -240,7 +494,9 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **\[GS\]Myuka** ![][flag_CL] | **4** | 0 | ![][flag_BR] \[LS\]LeMarcinho | [#1](https://osu.ppy.sh/community/matches/79250668) |
 | **BossPlays** ![][flag_AR] | **4** | 1 | ![][flag_US] oleka | [#1](https://osu.ppy.sh/community/matches/79257447) |
 
-| Sunday, 2021-03-28 |  |  |  |  |
+Sunday, 28 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **BossPlays** ![][flag_AR] | **4** | 2 | ![][flag_US] ASharpp | [#1](https://osu.ppy.sh/community/matches/79264924) |
 | **ASharpp** ![][flag_US] | **4** | 0 | ![][flag_US] oleka | *forfeited* |
@@ -273,9 +529,9 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 ### Playoffs
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRuNItsKFW5S7Q8Of7Og49DcQtcWP46eXSZ0CkSdH7JIq5uT9DFrVUbxbRZwowe8yPTB6zjxZISCmY2/pubhtml).**
+Saturday, 6 March 2021:
 
-| Saturday, 2021-03-06 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **wolfpup08** ![][flag_RU] | **4** | 1 | ![][flag_PH] DaMeMeThEiFxD | [#1](https://osu.ppy.sh/community/matches/77355263) |
 | **Kiraz** ![][flag_IT] | **4** | 3 | ![][flag_TH] basicmaime | [#1](https://osu.ppy.sh/community/matches/77355256) |
@@ -294,7 +550,9 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **Kien io** ![][flag_PE] | **4** | 0 | ![][flag_DE] medium kek | [#1](https://osu.ppy.sh/community/matches/77389025) |
 | RandomeLoL ![][flag_ES] | 3 | **4** | ![][flag_US] **dinga dog** | [#1](https://osu.ppy.sh/community/matches/77393637) |
 
-| Sunday, 2021-03-07 |  |  |  |  |
+Sunday, 7 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Lenn** ![][flag_BR] | **4** | 0 | ![][flag_US] Ery | [#1](https://osu.ppy.sh/community/matches/77413884) |
 | **HeZeuS** ![][flag_US] | **4** | 0 | ![][flag_US] thatcow | [#1](https://osu.ppy.sh/community/matches/77426356) |
@@ -312,15 +570,21 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | Tazin\_ ![][flag_US] | 1 | **4** | ![][flag_DE] **Niko\_Plays** | [#1](https://osu.ppy.sh/community/matches/77474340) |
 | \[LS\]Shuri ![][flag_MX] | 0 | **4** | ![][flag_NL] **NightNarumi** | [#1](https://osu.ppy.sh/community/matches/77477979) |
 
-| Wednesday, 2021-03-10 |  |  |  |  |
+Wednesday, 10 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **ERA Zenith** ![][flag_US] | **4** | 1 | ![][flag_US] dinga dog | [#1](https://osu.ppy.sh/community/matches/77728586) |
 
-| Friday, 2021-03-12 |  |  |  |  |
+Friday, 12 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\[Crz\]kOvID-** ![][flag_AR] | **4** | 1 | ![][flag_PL] \_underjoy | [#1](https://osu.ppy.sh/community/matches/77879438) |
 
-| Saturday, 2021-03-13 |  |  |  |  |
+Saturday, 13 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Gabi Kamui** ![][flag_BR] | **4** | 0 | ![][flag_ID] \[ReyZ\] | [#1](https://osu.ppy.sh/community/matches/77922577) |
 | **\[GS\]Antunder** ![][flag_US] | **4** | 3 | ![][flag_BE] Mortelspawn\_ | [#1](https://osu.ppy.sh/community/matches/77942197) |
@@ -338,7 +602,9 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **oleka** ![][flag_US] | **4** | 0 | ![][flag_CL] Xan- | [#1](https://osu.ppy.sh/community/matches/78000491) |
 | **AirSpan** ![][flag_GB] | **4** | 0 | ![][flag_US] \_Seth | [#1](https://osu.ppy.sh/community/matches/78008232) |
 
-| Sunday, 2021-03-14 |  |  |  |  |
+Sunday, 14 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Stability** ![][flag_CA] | **4** | 0 | ![][flag_BR] Zergh | [#1](https://osu.ppy.sh/community/matches/78010434) |
 | \_Yisus\_ ![][flag_VE] | 3 | **4** | ![][flag_PE] **Kien io** | [#1](https://osu.ppy.sh/community/matches/78011725) |
@@ -363,11 +629,11 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 
 ---
 
-## Rules
+## Ruleset
 
-### Tournament Organisation
+### Tournament organisation
 
-#### Round Overview
+#### Round overview
 
 - With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
   - **Qualification Stage:** 4 song mappool, no winning condition, no tiebreaker song
@@ -376,7 +642,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
   - **Quarterfinals and Semifinals:** 14 song mappool, best of 11 (first to 6), one tiebreaker song
   - **Finals and Grand Finals:** 16 song mappool, best of 13 (first to 7), one tiebreaker song
 
-#### Qualification Process
+#### Qualification process
 
 - All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 128**. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
   - If 32 players enter, all 32 players will qualify and no one gets eliminated.
@@ -393,7 +659,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed \#1, and the worst average score rating being seed n; n being the number of players in the qualification stage.
 - We will be using **Score V2** for all rounds of the tournament.
 
-#### Post-Qualification
+#### Post-qualification
 
 - The round after the qualification stage (also known as the play-offs stage) is a **single elimination** stage with specific rules.
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups. Each group will have a different set of protocol to follow.
@@ -422,7 +688,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
 - Players who are in the losers bracket at the start of the Quarterfinals stage or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
-### Tournament Play
+### Tournament play
 
 #### Protocol
 
@@ -446,7 +712,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
   - SOFT5 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
-#### Warm-up Songs
+#### Warm-up songs
 
 - Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players. All warm-up songs must be osu!mania 4K specific beatmaps.
 - The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match. Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
@@ -462,11 +728,11 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Players will be instructed to do a !roll command by the referee that is overseeing the match; the winning roll picks the first protected map, the losing roll picks the second protected map and the first ban, finally the winning roll picks the second ban and the first song of the match.
 - After the bans, protects and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
-    - The winning player moves onto the next match.
-    - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+     - The winning player moves onto the next match.
+     - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
   2. Both players are at match point at the same time.
-    - Both players will play the song designated as the tiebreaker.
-    - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
+     - Both players will play the song designated as the tiebreaker.
+     - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 - Players will have 2 minutes to pick a map and 2 minutes to get ready.
   - In case a player takes more than 2 minutes to pick a map, they will receive a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
   - Each player will receive a "tactical timeout" of **two minutes**, which can be used at any time during their own pick, **once per match**. *The tactical timeout is optional, and is not required to be used*.
