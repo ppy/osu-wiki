@@ -685,11 +685,11 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Players will be instructed to do a !roll command by the referee that is overseeing the match; the winning roll picks the first protected map, the losing roll picks the second protected map and the first ban, finally the winning roll picks the second ban and the first song of the match.
 - After the bans, protects and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
-    - The winning player moves onto the next match.
-    - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+  - The winning player moves onto the next match.
+  - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
   2. Both players are at match point at the same time.
-    - Both players will play the song designated as the tiebreaker.
-    - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
+  - Both players will play the song designated as the tiebreaker.
+  - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 - Players will have 2 minutes to pick a map and 2 minutes to get ready.
   - In case a player takes more than 2 minutes to pick a map, they will receive a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
   - Each player will receive a "tactical timeout" of **two minutes**, which can be used at any time during their own pick, **once per match**. *The tactical timeout is optional, and is not required to be used*.
