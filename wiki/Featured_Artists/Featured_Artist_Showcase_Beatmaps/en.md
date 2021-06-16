@@ -351,6 +351,12 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Sewerslvt](https://osu.ppy.sh/home/news/2021-05-29-new-featured-artist-sewerslvt)** (2021-05-29)
   - (![][osu!taiko]) [Sewerslvt - Newlove](https://osu.ppy.sh/beatmapsets/1442626) hosted by ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
 
+### June
+
+- **[La priere](https://osu.ppy.sh/home/news/2021-06-16-new-featured-artist-la-priere)** (2021-06-16)
+  - (![][osu!]) [La prière - Senjou no Utahime](https://osu.ppy.sh/beatmapsets/1398580) hosted by ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!]) [La prière - Kyouzou no Canon](https://osu.ppy.sh/beatmapsets/1475603) hosted by ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
+
 ## History
 
 Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
