@@ -1,12 +1,12 @@
 # Unlock requirements
 
-Index page for all medal unlock requirements.
+Index page for all articles regarding medal unlock requirements.
 
-- [Beatmap challenge packs](Beatmap_challenge_packs)
-- [Beatmap packs](Beatmap_packs)
-- [Beatmap spotlights](Beatmap_spotlights)
+- [Beatmap Challenge Packs](Beatmap_challenge_packs)
+- [Beatmap Packs](Beatmap_packs)
+- [Beatmap Spotlights](Beatmap_spotlights)
 - [Dedication](Dedication)
 - [Hush-Hush](Hush-Hush)
-- [Mod introduction](Mod_introduction)
-- [Seasonal spotlights](Seasonal_spotlights)
+- [Mod Introduction](Mod_introduction)
+- [Seasonal Spotlights](Seasonal_spotlights)
 - [Skill](Skill)
