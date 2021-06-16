@@ -1,4 +1,4 @@
-# Obtainable Hush-Hush medals
+# Unlock requirements for Hush-Hush medals
 
 | Medal name | Description/Flair text |
 | :-- | :-- |
