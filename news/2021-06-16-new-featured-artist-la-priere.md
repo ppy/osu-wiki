@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "New Featured Artist: La prière"
-date: 2021-06-16 09:00:00 +0000
+date: 2021-06-16 10:00:00 +0000
 ---
 
 **La prière** blends the vocal talents of *nayuta*, *Natsume Itsuki*, and [*Aitsuki Nakuru*](https://osu.ppy.sh/beatmaps/artists/127) as the latest addition to our Featured Artists!
 
-![](https://assets.ppy.sh/artists/174/header.jpg)
+![](https://assets.ppy.sh/artists/174/header.jpg?2021)
 
 Combining some of the highest caliber vocalists with composers and arrangers known throughout the rhythm game scene, **La prière** is the unbelievably talented group responsible for songs that tick every box in the "perfect osu! map" checklist. Since their first release in 2019, the three-vocalist unit has created two full albums and a collection of singles, all of which maintain top-tier production that you'd come to expect from a crowd as stacked as this.
 
@@ -25,7 +25,7 @@ Despite being comprised of some of the biggest names surrounding the rhythm game
 Check out [this beatmap](https://osu.ppy.sh/beatmapsets/1398580) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323) from the video above!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/174/Galaxy%20Triangle%2FLa%20priere%20-%20Senjou%20no%20Utahime.mp3" type="audio/mpeg">
 </audio>
 
 ### Kyouzou no Canon
@@ -33,19 +33,19 @@ Check out [this beatmap](https://osu.ppy.sh/beatmapsets/1398580) hosted by [Hins
 If you need something easier, [this beatmap](https://osu.ppy.sh/beatmapsets/1475603) hosted by [-Aqua](https://osu.ppy.sh/users/7150015) is a solid choice too!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/174/Gemini%20Syndrome%2FLa%20priere%20-%20Kyouzou%20no%20Canon.mp3" type="audio/mpeg">
 </audio>
 
 ### Galactic Love
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/174/Galaxy%20Triangle%2FLa%20priere%20-%20Galactic%20Love.mp3" type="audio/mpeg">
 </audio>
 
 ### Kimiyo
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/174/Gemini%20Syndrome%2FLa%20priere%20-%20Kimiyo.mp3" type="audio/mpeg">
 </audio>
 
 ---
