@@ -1,4 +1,4 @@
-# Techniques de mapping sur l'Unranked
+# Techniques de mapping inclassable
 
 **Dans des situations normales, l'utilisation de ces techniques rendra automatiquement votre map impossible à classer !**
 
@@ -6,7 +6,7 @@
 
 Nominateur : [machol30](https://osu.ppy.sh/users/5772)
 
-Un **Burai sliders** est un slider qui se chevauchent complètement sans laisser de place pour remarquer qu'ils se sont effectivement chevauchés, à l'exception de l'extrémité du slider.
+Un **Burai sliders** est un slider qui se chevauche complètement sans laisser de place pour remarquer qu'il s'est effectivement chevauché, à l'exception de l'extrémité du slider.
 
 Ce pattern n'est pas classable en raison de la confusion qu'il crée en termes de lisibilité globale.
 Au contraire, si vous faites un pattern similaire mais en laissant un léger angle, il est classable.
@@ -15,7 +15,7 @@ Cette technique a été nommée d'après l'ancien nom du créateur, buraimaster1
 
 ## Hold Sliders
 
-*À ne pas confondre avec les [sliders courts et répétitifs](/wiki/Mapping_Techniques/Sliders#sliders-courts-et-répétitifs).*
+*À ne pas confondre avec les [short repeating sliders](/wiki/Mapping_Techniques/Sliders#short-repeating-sliders).*
 
 Nominateur : [Shinxyn](https://osu.ppy.sh/users/13996)
 
@@ -29,7 +29,7 @@ Ces sliders correspondent généralement à la musique, plutôt que d'être plac
 
 ## Ninja Spinners
 
-*À ne pas confondre avec les [spinners courts](/wiki/Mapping_Techniques/Spinners#spinners-courts).*
+*À ne pas confondre avec les [short spinners](/wiki/Mapping_Techniques/Spinners#short-spinners).*
 
 Les **Ninja spinners** sont des spinners extrêmement courts qui sont généralement placés à des endroits où le joueur n'a pas le temps de s'y préparer.
 En plus de cela, la communauté a décidé de bannir ces spinners en raison de leurs abus.
