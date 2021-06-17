@@ -30,7 +30,7 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-10-06 | 2007-10-09 | [\[1\]](https://osu.ppy.sh/scores/osu/318) [\[2\]](https://web.archive.org/web/20071117154117/http://osu.ppy.sh/index.php?p=song&s=1 "Internet Archive — osu!") |
+| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-10-06 | 2007-10-09 | [\[1\]](https://osu.ppy.sh/scores/osu/237) [\[2\]](https://web.archive.org/web/20071117154117/http://osu.ppy.sh/index.php?p=song&s=1 "Internet Archive — osu!") |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-09 | 2007-10-15 | [\[1\]](https://web.archive.org/web/20071011215722/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-10-15 | 2007-10-24 | [\[1\]](https://osu.ppy.sh/community/forums/topics/342) |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-24 | 2007-11-06 | [\[1\]](https://web.archive.org/web/20071024063540/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
@@ -152,7 +152,7 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 | ![][flag_KR] [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | 2013-01-21 | 2013-10-04 | [\[1\]](https://web.archive.org/web/20130121185247/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 2013-10-04 | 2013-10-05 | [\[1\]](https://osu.ppy.sh/home/news/2013-10-04-important-pp-performance-point-changes) [\[2\]](https://osu.ppy.sh/community/forums/topics/158129) [\[3\]](https://web.archive.org/save/https://old.reddit.com/r/osugame/comments/1npkv3/so_thelewa_is_now_officially_the_1_osustandart/ "Internet Archive — Reddit") |
 | ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-10-05 | 2013-10-20 | [\[1\]](https://web.archive.org/web/20131005191933/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
-| ![][flag_KR] [Reimu-Desu (*- Hakurei Reimu-*)](https://osu.ppy.sh/users/948713) | 2013-10-20 | 2013-12-29 | [\[1\]](https://web.archive.org/web/20131020195724/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
+| ![][flag_KR] [Reimu-Desu (*- Hakurei Reimu-*)](https://osu.ppy.sh/users/948713) | 2013-10-20 | 2013-11-24 | [\[1\]](https://web.archive.org/web/20131020195724/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2013-11-24 | *2014-01-20* | [\[1\]](https://old.reddit.com/r/osugame/comments/1rctoz/wubwoofwolf_went_on_a_little_rampage/ "Reddit") |
 
 ## 2014
