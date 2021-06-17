@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 20e294a158d910bc93374879b5da9dc7822da8c1
 ---
 
 # L'histoire de Loved
@@ -10,7 +12,7 @@ La catégorie beatmap [Loved](/wiki/Beatmap/Category#loved) est actuellement gé
 
 Le 2015-02-02, la demande de fonctionnalité *[Nouvelle catégorie de beatmap pour les bons mapsets non classables](https://osu.ppy.sh/community/forums/topics/293841)* a été affiché. Il a détaillé une autre façon, en dehors du [processus de classement](/wiki/Submission/Beatmap_ranking_procedure) pour que les cartes aient des classements, et a rapidement gagné en popularité car les joueurs se sont montrés préoccupés par le fait que le processus de classement devienne trop strict et ne permette pas à certaines cartes d'accueillir la compétition.
 
-Une autre raison pour laquelle cette demande est devenue populaire est que des cartes très peu conventionnelles ou qui brisent le jeu n'auraient jamais pu correspondre à la [ranking criteria](/wiki/Ranking_Criteria). Les joueurs étaient intéressés par la compétition sur certaines de ces maps, comme celles avec les styles "2B",<!-- TODO : ce serait bien si je pouvais faire un lien vers quelque chose qui explique cela, comme un glossaire des styles de mapping ou quelque chose --> *[Aspire](/wiki/Contests/Aspire)*-comme le gameplay, ou les éléments [TAG co-op](/wiki/Beatmap/TAG).
+Une autre raison pour laquelle cette demande est devenue populaire est que des cartes très peu conventionnelles ou qui brisent le jeu n'auraient jamais pu correspondre à la [ranking criteria](/wiki/Ranking_Criteria). Les joueurs étaient intéressés par la compétition sur certaines de ces maps, comme celles avec les styles "2B", *[Aspire](/wiki/Contests/Aspire)*-comme le gameplay, ou les éléments [TAG co-op](/wiki/Beatmap/TAG).
 
 Fin 2016, cette demande de fonctionnalité détenait la deuxième plus grande étoile dans l'histoire du forum avec près de 13 000 priorités.
 
