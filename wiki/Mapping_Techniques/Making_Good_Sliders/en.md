@@ -7,8 +7,7 @@ From [Ephemeral](https://osu.ppy.sh/users/102335),
 
 > always align slider endpoints to the smallest possible value - that is, if you drag them any further backwards, the slider will shorten. the point will center itself in the slider end and will make attaining passable curves much easier to accomplish.
 
-Also, doing this makes reverse selection on sliders not fuck them up.
-Which is a good thing.
+Also, doing this makes reverse selection on sliders not fuck them up. Which is a good thing.
 
 ## Arcs
 
@@ -190,7 +189,7 @@ The things to remember when forming loops is that the points go up a lot further
 
 - The further each point is from the ends, the further away it needs to be from the slider.
 
-The biggest problem we can see with mapper loops are the holes.
+The biggest problem often seen in loops are the holes.
 You're looking for an open, rounded teardrop shape like the above slider.
 If the hole of the loop looks like any of these, your loop isn't as awesome as the above screenshot:
 

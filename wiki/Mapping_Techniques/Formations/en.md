@@ -10,7 +10,7 @@
 
 Nominator: [m980](https://osu.ppy.sh/users/3288)
 
-**Blanket combos** is made up of a slider or a hit circle (as the base) with a slider that surrounds that object.
+**Blanket combos** are made up of a slider or a hit circle (as the base) with a slider that surrounds that object.
 Spacing between these two objects are very important as they are not allowed to overlay each other!
 
 ### Divebomb Combos
@@ -42,7 +42,7 @@ However, the difference here is that this forces the player to go along the edge
 
 Nominator: [mm201](https://osu.ppy.sh/users/30655)
 
-**Honeycomb beats** is a stream of hit circles that are usually half beats apart.
+**Honeycomb beats** are streams of hit circles that are usually half beats apart.
 These are placed in a fashion that they all fit on a hexagonal grid.
 
 Using this technique will cause confusion as to what the order of hit circles are by looking at the circles alone.
@@ -75,7 +75,7 @@ This forces the player to pause in the middle of the stream to complete the kick
 
 Nominator: [Dragvon](https://osu.ppy.sh/users/126927)
 
-**Tornado formation** are sets of notes that forces the player to tap circles in a circular motion at a high rate.
+**Tornado formations** are sets of notes that forces the player to tap circles in a circular motion at a high rate.
 This is basically a combination of small jumps (distance-wise) and streams (reaction time-wise).
 
 This can also be a [square formation](#square-formation) and/or [diamond formation](#diamond-formation) repeated a few times, where one of the notes acts like a pivot point.
@@ -112,7 +112,7 @@ The **diamond formation** is just like the [square formation](#square-formation)
 
 Nominators: [-Xero-](https://osu.ppy.sh/users/179314) and [F1r3tar](https://osu.ppy.sh/users/5590317)
 
-**Double stacks** uses two notes (or one note and a slider end) that are stacked on top of each other.
+**Double stacks** use two notes (or one note and a slider end) that are stacked on top of each other.
 
 ### QQ Diamonds
 
@@ -135,7 +135,7 @@ This creates a quick jump for the player.
 
 Nominator: Beuchi-chan
 
-**Square formation** is 4 hit circles forming a square shape.
+**Square formations** consists of 4 hit circles forming a square shape.
 These usually have some space between each other.
 The square can be angled to form a diamond.
 The order of the combos forces the player to go along the square rather than through it.
