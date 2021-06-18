@@ -110,7 +110,7 @@ Se o jogador tem qualquer play através de todos os modos de jogo, uma [função
 
 **Sim, mas apenas em certas circunstâncias.**
 
-Nós apenas concedemos reversões para o antigo nome de usuário anterior ao atual de um jogador (o que é mostrado por último ao passar por cima de seu nome no perfil). Mudanças para quaisquer outros nomes prévios devem ser [comprados pela loja](https://osu.ppy.sh/store/products/32). Simplesmente entre em contato com accounts@ppy.sh e requira que a sua troca de nome seja revertida.
+Nós apenas concedemos reversões para o antigo nome de usuário anterior ao atual de um jogador (o que é mostrado por último ao passar por cima de seu nome no perfil). Mudanças para quaisquer outros nomes prévios devem ser [comprados pela loja](https://osu.ppy.sh/store/products/32). Simplesmente entre em contato com [accounts@ppy.sh](mailto:accounts@ppy.sh) e requira que a sua troca de nome seja revertida.
 
 Nós apenas concedemos isso uma vez por conta, então por favor considere com cuidado antes de requerer!
 
@@ -126,7 +126,7 @@ Se a mudança foi feita com a troca de graça que vem com uma supporter tag, nó
 
 **Apenas em certas circunstâncias.**
 
-Seu perfil irá mostrar todos os seus nomes de usuário previamente possuídos, mas nós apenas seletivamente removemos os que possam ser um problema para você. Se algum dos seus antigos nomes de usuário viola sua privacidade (por exemplo, se ele contém seu nome civil) ou que possa levar a sua privacidade a ser violada (via outros sites), contate accounts@ppy.sh para requerer que seja removido.
+Seu perfil irá mostrar todos os seus nomes de usuário previamente possuídos, mas nós apenas seletivamente removemos os que possam ser um problema para você. Se algum dos seus antigos nomes de usuário viola sua privacidade (por exemplo, se ele contém seu nome civil) ou que possa levar a sua privacidade a ser violada (via outros sites), contate [accounts@ppy.sh](mailto:accounts@ppy.sh) para requerer que seja removido.
 
 ### Outros problemas
 
@@ -603,7 +603,7 @@ Para ativar a entrada padrão, siga os seguinte passos:
 
 Na maior parte das mesas gráficas Wacom, isso é feito na aba de `Mapping` no aplicativo `Wacom Tablet Properties`.
 
-![Tela de Propriedades da Tablet Wacom mostrando as opções de Mapeamento](img/Tabarea.png "Interface para mudança de área ativa da tablet em dispositivos Wacom")
+![Tela de Propriedades da Tablet Wacom mostrando as opções de Mapeamento](Client/img/tablet-area.png "Interface para mudança de área ativa da tablet em dispositivos Wacom")
 
 Você poderá consultar com a fabricante de sua tablet para descobrir como definir sua área para seu periférico em específico.
 

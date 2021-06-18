@@ -41,7 +41,7 @@ The Taiko World Cup 2012 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_KR] [wmfchris](https://osu.ppy.sh/users/7401) |
+| Manager | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) |
 | Mappool selector | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
 | Referee | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733), ![][flag_TW] [Numbers 596108](https://osu.ppy.sh/users/194653), ![][flag_FR] [Odaril](https://osu.ppy.sh/users/113005) |
 | Scheduler | ![][flag_US] [anongos](https://osu.ppy.sh/users/7135) |

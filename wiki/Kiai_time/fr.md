@@ -1,25 +1,23 @@
 ---
-no_native_review: true
-outdated: true
+stub: true
+tags:
+  - timing section
+  - kiai mode
+  - section de timing
 ---
 
 # Kiai time
 
-![Des étoiles jaillissent de l'écran pour montrer que le Kiai Time a commencé.](img/Kiai_Time_test.jpg "Les étoiles illuminent l'écran indiquant que le Kiai time a commencé.")
+*Pour les règlements concernant le kiai time, voir : [Ranking Criteria](/wiki/Ranking_Criteria)*
 
-![Le Kiai Time est indiqué dans le coin supérieur gauche de l'éditeur de beatmap lorsqu'il est actif.](img/Kiai_Time_edit.jpg "Le Kiai Time est indiqué dans le coin supérieur gauche de l'éditeur de beatmap lorsqu'il est actif.")
+Le **Kiai Time** (ou *kiai*) est un terme utilisé pour désigner une section de timing "spéciale" permettant de mettre en valeur une partie d'une [beatmap](/wiki/Beatmap). Les joueurs peuvent savoir si une partie d'une beatmap comporte une section de timing kiai s'ils voient des effets visuels ajoutés en arrière-plan (par exemple, des beats clignotants, des étoiles volantes et des fontaines).
 
-Le **Kiai Time** est défini par le [mapper](/wiki/Beatmapping) sur une [beatmap](/wiki/Beatmap) entre deux [Timing Sections](/wiki/Beatmap_Editor/Timing). Vous pouvez reconnaître un Kiai time car l'écran clignote et vous verrez une fontaine d'étoiles, ensuite chaque [Hit Objects](/wiki/Hit_Objects) clignotera au rythme du [rythme principal](/wiki/Beatmap_Editor/Timing) et les étoiles vont exploser à partir du curseur quand un [Hit Circle](/wiki/Hit_Objects) est touché ou tombera du curseur lorsque vous suivez un [slider](/wiki/Hit_Objects) ou un [spinner](/wiki/Hit_Objects).
+Lorsque le kiai est actif, tous les [objets](/wiki/Hit_object) clignoteront au rythme du [rythme principal](/wiki/Beatmap_Editor/Timing) et des étoiles exploseront du curseur lorsqu'un [cercle](/wiki/Hit_object/Hit_circle) sera frappé. Sinon, elles tomberont du curseur lorsqu'un [slider](/wiki/Hit_object/Slider) ou [spinner](/wiki/Hit_object/Slider) sera suivi.
 
-## Le Kiai time en beatmapping
+## Beatmapping
 
-Le moment le plus courant pour le Kiai time dans l'[édition](/wiki/Beatmap_Editor) de beatmaps est la "partie la plus forte de la chanson" c'est normalement le refrain de la chanson, cependant certaines chansons n'ont pas de refrain, mais elles ont une partie forte pour vous qui est cool, donc vous pouvez insérer le Kiai Time dans cette section. Sachez cependant que le fait de spammer les sections de début de kiai provoquera un spam dans les fontaines de kiai. C'est injustifiable, et surtout détesté par les joueurs à cause des lags que cela peut provoquer.
+Le kiai time est le plus souvent utilisé pour la "partie la plus forte d'une chanson" qui est généralement le refrain. Comme les sections kiai sont la partie la plus forte d'une chanson, elles sont généralement un peu plus difficiles que le reste d'une [beatmap](/wiki/Beatmap) pour suivre la chanson.
 
-## Éléments à prendre en considération lors de l'utilisation du Kiai
+## osu!taiko
 
-1. Sur les maps **[osu!taiko](/wiki/Game_mode/osu!taiko)**, Les sections Kiai donnent 20% de [score](/wiki/Score) en plus, donc si vous mappez une [map](/wiki/Beatmap) osu!taiko, prennez en considération le fait que le Kiai affecte le gameplay.
-2. **Soyez cohérent** ; c'est ennuyeux quand vous avez 3 sections de Kiai à différents endroits sur la même [difficultée](/wiki/Beatmap/Difficulty) et qu'ils aient l'air tous différents. De plus, il est apprécié que toutes les difficultés d'un même [mapper](/wiki/Beatmapping) aient exactement les mêmes Kiai time.
-3. **Ne pas utiliser de blanc en tant que [couleur de combo](/wiki/Glossary/Combo_colour)** (255,255,255) ; cela rend le Kiai aveuglant et fait mal aux yeux.
-4. Il est normal qu'une section Kiai soit légèrement plus difficile que le reste du beatmapset, car le Kiai time est aussi la **partie la plus forte de la map**.
-5. **Les [Guest difficulties](/wiki/Beatmap/Guest_difficulty) peuvent avoir des kiai différents. Ceci est dû au fait que tout le monde ne pense pas au même endroit qui leur semble le "meilleur" pour le placer sur la map ; cependant, le Kiai doit toujours être cohérent.
-6. Un mélange de couleur pour faire Kiai avec un ensemble différent de [couleur de combos](/wiki/Glossary/Combo_colour) est une bonne idée.
+Sur les beatmaps du mode [osu!taiko](/wiki/Game_Modes/osu!taiko), les sections kiai donnent 20 % de [score](/wiki/Score) en plus.
