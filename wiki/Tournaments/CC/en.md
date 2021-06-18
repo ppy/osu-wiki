@@ -2,9 +2,9 @@
 
 Index page for all of the Corgi Cup series.
 
-- [Corgi Cup](1)
-- [Corgi Cup 2](2)
-- [Corgi Cup 3](3)
-- [Corgi Cup 4](4)
-- [Corgi Cup 5](5)
-- [Corgi Cup 6](6)
+- [Corgi Cup: June 2016](1)
+- [Corgi Cup: September 2016](2)
+- [Corgi Cup III: April 2017](3)
+- [Corgi Cup IV: September 2017](4)
+- [Corgi Cup V](5)
+- [Corgi Cup VI](6)
