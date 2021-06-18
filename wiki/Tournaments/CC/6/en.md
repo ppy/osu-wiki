@@ -10,15 +10,15 @@ tags:
 
 # Corgi Cup VI
 
-![CC6 Logo](img/logo.png)
+![CCVI logo](img/logo.png)
 
-**Corgi Cup VI** (***CCVI***) is a country-based double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It is the sixth installment of the Corgi Cup series.
+**Corgi Cup VI** (***CCVI***) was a country-based double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the sixth installment of the Corgi Cup.
 
-## Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-03-09/2019-03-31 |
+| Registration phase | 2019-03-09/2019-03-31 |
 | Qualifiers | 2019-04-13/2019-04-14 |
 | Round of 32 | 2019-04-20/2019-04-21 |
 | Round of 16 | 2019-04-27/2019-04-28 |
@@ -31,21 +31,21 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | £50, profile badge, Corgi Cup VI 1st place Discord role |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | £25, Corgi Cup VI 2nd place Discord role |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | £10, Corgi Cup VI 3rd place Discord role |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | £50, profile badge, Corgi Cup VI 1st place Discord role |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | £25, Corgi Cup VI 2nd place Discord role |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | £10, Corgi Cup VI 3rd place Discord role |
 | *4th place* | Corgi Cup VI 4th place Discord role |
 
-![Corgi Cup VI Winner Profile Badge](img/badge.png)
+![](img/badge.png "CCVI winner badge")
 
 ## Organisation
 
-Corgi Cup VI is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+Corgi Cup VI was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Hosts | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Map Selector | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203) |
+| Host | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Mappool selector | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203) |
 | Streamer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 | Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Insp1r3](https://osu.ppy.sh/users/7131254), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025), ![][flag_GB] [sut_son](https://osu.ppy.sh/users/9622163) |
 | Designer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
@@ -70,6 +70,8 @@ Corgi Cup VI is run by various community members by distributing the multitude o
 
 ## Podium
 
+This competition has come to an end and resulted in the following podium:
+
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262) |
@@ -92,7 +94,7 @@ Corgi Cup VI is run by various community members by distributing the multitude o
   - [HyuN - Infinity Heaven (BarkingMadDog) [Extreme]](https://osu.ppy.sh/beatmapsets/821998#osu/1752927)
   - [Rhapsody - Emerald Sword (Reikin) [Extreme]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)
 - HardRock
-  - [NU-KO - Pochiko no Shiawase na Nichijou (Long Version) (SnowNiNo_) [Pochiko]](https://osu.ppy.sh/beatmapsets/307034#osu/1154766)
+  - [NU-KO - Pochiko no Shiawase na Nichijou (Long Version) (SnowNiNo\_) [Pochiko]](https://osu.ppy.sh/beatmapsets/307034#osu/1154766)
   - [Sota Fujimori - VOLTEXES III (Nerova Riuz GX) [GRAVITY]](https://osu.ppy.sh/beatmapsets/409584#osu/889087)
   - [Disasterpeace - Jump Error (Bonsai) [Map Error]](https://osu.ppy.sh/beatmapsets/426652#osu/925613)
 - DoubleTime
@@ -117,7 +119,7 @@ Corgi Cup VI is run by various community members by distributing the multitude o
   - [Saint Snow - SELF CONTROL!! (ktgster) [Special]](https://osu.ppy.sh/beatmapsets/880205#osu/1840640)
 - Hidden
   - [MY FIRST STORY - Last Call (Feb) [FCL's Extra]](https://osu.ppy.sh/beatmapsets/698757#osu/1479842)
-  - [ChouchouP - Tsukimiyo Rabbit (Zero__wind) [Tsuki]](https://osu.ppy.sh/beatmapsets/122342#osu/312959)
+  - [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) [Tsuki]](https://osu.ppy.sh/beatmapsets/122342#osu/312959)
   - [Chata - len (Kalibe) [emptiness]](https://osu.ppy.sh/beatmapsets/918509#osu/1918025)
 - HardRock
   - [xi - ANiMA (sdafsf) [Soul]](https://osu.ppy.sh/beatmapsets/624995#osu/1317186)
@@ -255,7 +257,7 @@ Corgi Cup VI is run by various community members by distributing the multitude o
 
 #### Grand final
 
-Sunday, 26 May 2019
+Sunday, 26 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -263,7 +265,7 @@ Sunday, 26 May 2019
 
 #### Losers bracket final
 
-Saturday, 25 May 2019
+Saturday, 25 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -273,7 +275,7 @@ Saturday, 25 May 2019
 
 #### Winners bracket final
 
-Sunday, 19 May 2019
+Sunday, 19 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -281,13 +283,13 @@ Sunday, 19 May 2019
 
 #### Losers bracket
 
-Saturday, 18 May 2019
+Saturday, 18 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | jackylam5 ![][flag_NL] | 1 | **6** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/51903473) |
 
-Sunday, 19 May 2019
+Sunday, 19 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -298,7 +300,7 @@ Sunday, 19 May 2019
 
 #### Winners bracket
 
-Tuesday, 14 May 2019
+Tuesday, 14 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -307,38 +309,38 @@ Tuesday, 14 May 2019
 
 #### Losers bracket
 
-Friday, 10 May 2019
+Friday, 10 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Nitroz** ![][flag_SE] | **6** | 4 | ![][flag_US] Conyoh | [#1](https://osu.ppy.sh/community/matches/51677445) |
 | Kingling ![][flag_GB] | 4 | **6** | ![][flag_LV] **waywern2012** | [#1](https://osu.ppy.sh/community/matches/51679392) |
 
-Saturday, 11 May 2019
+Saturday, 11 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| -GN ![][flag_NO] | 0 | **1** | ![][flag_GB] **OskaRRRitoS** | Forfeit |
+| -GN ![][flag_NO] | 0 | **1** | ![][flag_GB] **OskaRRRitoS** | *forfeit* |
 | **Karthy** ![][flag_GB] | **6** | 1 | ![][flag_GB] TopSp1n | [#1](https://osu.ppy.sh/community/matches/51718152) |
 
-Sunday, 12 May 2019
+Sunday, 12 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **waywern2012** ![][flag_LV] | **6** | 3 | ![][flag_GB] OskaRRRitoS | [#1](https://osu.ppy.sh/community/matches/51746327) |
-| **Karthy** ![][flag_GB] | **1** | 0 | ![][flag_SE] Nitroz | Forfeit |
+| **Karthy** ![][flag_GB] | **1** | 0 | ![][flag_SE] Nitroz | *forfeit* |
 
 ### Quarterfinals
 
 #### Winners bracket
 
-Tuesday, 30 April 2019
+Tuesday, 30 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Roxas** ![][flag_GB] | **5** | 0 | ![][flag_GB] TopSp1n | [#1](https://osu.ppy.sh/community/matches/51419771) |
 
-Sunday, 5 May 2019
+Sunday, 5 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -348,27 +350,27 @@ Sunday, 5 May 2019
 
 #### Losers bracket
 
-Saturday, 4 May 2019
+Saturday, 4 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Doomsdaddy ![][flag_FI] | 0 | **5** | ![][flag_GB] **idealnettles** | [#1](https://osu.ppy.sh/community/matches/51518904) |
-| Summer Solstice ![][flag_GB] | 0 | **1** | ![][flag_FI] **Urnukka** | Forfeit |
+| Summer Solstice ![][flag_GB] | 0 | **1** | ![][flag_FI] **Urnukka** | *forfeit* |
 | **waywern2012** ![][flag_LV] | **5** | 2 | ![][flag_PT] KingLizardYT | [#1](https://osu.ppy.sh/community/matches/51526620) |
 | **Karthy** ![][flag_GB] | **5** | 0 | ![][flag_GB] Electovoid | [#1](https://osu.ppy.sh/community/matches/51530524) |
 | **zelda101** ![][flag_US] | **5** | 3 | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/51532650) |
 | -GN ![][flag_NO] | **5** | 0 | ![][flag_GB] mmi- | [#1](https://osu.ppy.sh/community/matches/51534937) |
 
-Sunday, 5 May 2019
+Sunday, 5 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | idealnettles ![][flag_GB] | 3 | **5** | ![][flag_LV] **waywern2012** | [#1](https://osu.ppy.sh/community/matches/51556340) |
-| **Nitroz** ![][flag_SE] | **1** | 0 | ![][flag_GB] Pelzio | Forfeit |
+| **Nitroz** ![][flag_SE] | **1** | 0 | ![][flag_GB] Pelzio | *forfeit* |
 | Malteser ![][flag_GB] | 0 | **5** | ![][flag_GB] **Domblade** | [#1](https://osu.ppy.sh/community/matches/51560250) |
 | **Nitroz** ![][flag_SE] | **5** | 2 | ![][flag_US] zelda101 | [#1](https://osu.ppy.sh/community/matches/51562097) |
 
-Monday, 6 May 2019
+Monday, 6 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -379,19 +381,19 @@ Monday, 6 May 2019
 
 #### Winners bracket
 
-Friday, 26 April 2019
+Friday, 26 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Conyoh** ![][flag_US] | **5** | 1 | ![][flag_NO] -GN | [#1](https://osu.ppy.sh/community/matches/51307895) |
 
-Saturday, 27 April 2019
+Saturday, 27 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **TopSp1n** ![][flag_GB] | **5** | 4 | ![][flag_LV] -waywern2012 | [#1](https://osu.ppy.sh/community/matches/51338567) |
 
-Sunday, 28 April 2019
+Sunday, 28 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -401,7 +403,7 @@ Sunday, 28 April 2019
 | **OskaRRRitoS** ![][flag_GB] | **5** | 1 | ![][flag_SE] Nitroz | [#1](https://osu.ppy.sh/community/matches/51371682) |
 | zelda101 ![][flag_US] | 3 | **5** | ![][flag_NL] **jackylam5** | [#1](https://osu.ppy.sh/community/matches/51374263) |
 
-Tuesday, 30 April 2019
+Tuesday, 30 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -409,13 +411,13 @@ Tuesday, 30 April 2019
 
 #### Losers bracket
 
-Friday, 26 April 2019
+Friday, 26 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Bae- ![][flag_GB] | 4 | **5** | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/51313423) |
 
-Saturday, 27 April 2019
+Saturday, 27 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -423,9 +425,9 @@ Saturday, 27 April 2019
 | Lefafel ![][flag_FI] | 3 | **5** | ![][flag_GB] **Pelzio** | [#1](https://osu.ppy.sh/community/matches/51332511) |
 | Anq ![][flag_FI] | 3 | **5** | ![][flag_GB] Electovoid | [#1](https://osu.ppy.sh/community/matches/51334051) |
 | Poofie ![][flag_FI] | 0 | **5** | ![][flag_GB] **idealnettles** | [#1](https://osu.ppy.sh/community/matches/51336041) |
-| Felicia ![][flag_GB] | 0 | **1** | ![][flag_FI] **Urnukka** | Forfeit |
+| Felicia ![][flag_GB] | 0 | **1** | ![][flag_FI] **Urnukka** | *forfeit* |
 
-Saturday, 27 April 2019
+Saturday, 27 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -434,13 +436,13 @@ Saturday, 27 April 2019
 
 ### Round of 32
 
-Friday, 19 April 2019
+Friday, 19 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **TopSp1n** ![][flag_GB] | **4** | 0 | ![][flag_FI] Lefafel | [#1](https://osu.ppy.sh/community/matches/51117617) |
 
-Saturday, 20 April 2019
+Saturday, 20 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -452,24 +454,24 @@ Saturday, 20 April 2019
 | **YokesPai** ![][flag_NO] | **4** | 2 | ![][flag_GB] Felicia | [#1](https://osu.ppy.sh/community/matches/51164718) |
 | Apo11o ![][flag_GB] | 3 | **4** | ![][flag_FI] **Doomsdaddy** | [#1](https://osu.ppy.sh/community/matches/51164380) |
 
-Sunday, 21 April 2019
+Sunday, 21 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kingling** ![][flag_GB] | **4** | 2 | ![][flag_GB] mmi- | [#1](https://osu.ppy.sh/community/matches/51183682) |
-| **majoreh** ![][flag_GB] | **1** | 0 | ![][flag_GB] Domblade | Forfeit |
+| **majoreh** ![][flag_GB] | **1** | 0 | ![][flag_GB] Domblade | *forfeit* |
 | **Karthy** ![][flag_GB] | **4** | 0 | ![][flag_GB] Kerantina | [#1](https://osu.ppy.sh/community/matches/51187985) |
 | **Conyoh** ![][flag_US] | **4** | 0 | ![][flag_FI] Anq | [#1](https://osu.ppy.sh/community/matches/51188053) |
 | **jackylam5** ![][flag_NL] | **4** | 1 | ![][flag_FI] Poofie | [#1](https://osu.ppy.sh/community/matches/51189656) |
 | **-Roxas** ![][flag_GB] | **4** | 1 | ![][flag_GB] Bae- | [#1](https://osu.ppy.sh/community/matches/51191306) |
 
-Monday, 22 April 2019
+Monday, 22 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Summer Solstice** ![][flag_GB] | **4** | 0 | ![][flag_GB] Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/51217994) |
 
-Wednesday, 24 April 2019
+Wednesday, 24 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
