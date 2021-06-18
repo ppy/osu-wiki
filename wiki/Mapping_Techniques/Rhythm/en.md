@@ -1,3 +1,5 @@
+<!-- TODO: need to be rewrite, the article being very old -->
+
 # Rhythm mapping techniques
 
 <!-- please place all mapping techniques in alphabetical order -->

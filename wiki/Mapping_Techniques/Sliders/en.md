@@ -1,3 +1,5 @@
+<!-- TODO: need to be rewrite, the article being very old -->
+
 # Slider mapping techniques
 
 *See also: [Making Good Sliders](/wiki/Mapping_Techniques/Making_Good_Sliders)*
