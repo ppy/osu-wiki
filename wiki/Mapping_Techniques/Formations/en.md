@@ -1,3 +1,5 @@
+<!-- TODO: need to be rewrite, the article being very old -->
+
 # Mapping formations
 
 <!-- please place all mapping techniques in alphabetical order -->
@@ -106,7 +108,7 @@ After the "circle" is completed, a few more hit circles are placed to go straigh
 
 Nominator: QiiXshinez
 
-The **diamond formation** is just like the [square formation](#square-formation) or [square formation v2](#square-formation-v2) but uses rhombi instead of squares.
+The **Diamond formation** is just like the [square formation](#square-formation) or [square formation v2](#square-formation-v2) but uses rhombi instead of squares.
 
 ### Double Stacks
 

@@ -7,7 +7,7 @@ Vous devrez déterminer ce qui sera le mieux pour le joueur, car suivre l'un ou 
 
 ## Symétrie
 
-On parle de symétrie lorsque la beatmap est symétrique par rapport à un axe.
+On parle de **symétrie** lorsque la beatmap est symétrique par rapport à un axe.
 Le type de symétrie le plus courant est la symétrie horizontale.
 Il existe cependant d'autres types de symétrie, comme la symétrie verticale, la symétrie diagonale et la symétrie par rapport à l'origine.
 Normalement, nous devrions dire : "Pensez à une fonction étrange", mais cela aliénerait probablement une grande partie de la base de joueurs."
@@ -34,7 +34,7 @@ Ce type de symétrie est agréable car il est plus subtil que la symétrie horiz
 
 ### Symétrie modifiée
 
-La symétrie modifiée consiste à prendre un motif symétrique et à le modifier de différentes manières.
+La **symétrie** modifiée consiste à prendre un motif symétrique et à le modifier de différentes manières.
 Parfois ça marche, parfois non.
 
 00:20:455 (1,2,3) est l'un des exemples les plus réussis de symétrie modifiée.
@@ -53,7 +53,7 @@ Toutefois, si vous voulez examiner d'autres maps, celles de Krisom sont considé
 
 ## Jumps
 
-Les jumps sont une technique de mapping avancée qui consiste à placer deux objets plus loin l'un de l'autre que ne le permet le multiplicateur de distance standard.
+Les **jumps** sont une technique de mapping avancée qui consiste à placer deux objets plus loin l'un de l'autre que ne le permet le multiplicateur de distance standard.
 Cela se fait généralement en modifiant temporairement le multiplicateur distance snap à distance ou en désactivant temporairement le distance snap à distance.
 
 Les jumps sont généralement utilisés pour représenter l'accentuation de la musique.
@@ -73,7 +73,7 @@ Pour votre première map, cependant, il est souvent préférable de rester simpl
 
 ## Streams
 
-Un stream est une succession d'objets (généralement des cercles) à un rythme rapide et régulier les uns des autres.
+Un **stream** est une succession d'objets (généralement des cercles) à un rythme rapide et régulier les uns des autres.
 Lorsque quelqu'un fait référence à un "stream", il fait généralement référence à un stream de cercles à un quart de temps les uns des autres.
 Si un joueur veut se référer à un stream d'objets à un demi battement d'intervalle, il l'appelle généralement un "1/2 stream".
 Les streams sont devenus populaires grâce à la musique de beatmania IIDX, à l'Eurobeat (ou à la musique à rythme rapide/BPM) et aux remixes qui contiennent des motifs de batterie denses, de sorte qu'un stream s'intègre bien à la musique.

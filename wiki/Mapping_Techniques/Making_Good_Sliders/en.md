@@ -1,3 +1,5 @@
+<!-- TODO: need to be rewrite, the article being very old -->
+
 # Making good sliders
 
 This article is a how-to on making good sliders.
