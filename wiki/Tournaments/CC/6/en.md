@@ -12,7 +12,7 @@ tags:
 
 ![CC6 Logo](img/logo.png)
 
-**Corgi Cup VI** (***CCVI***) is a country-based double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It is the sixth installment of the Corgi Cup.
+**Corgi Cup VI** (***CCVI***) is a country-based double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It is the sixth installment of the Corgi Cup series.
 
 ## Schedule
 
@@ -49,7 +49,7 @@ Corgi Cup VI is run by various community members by distributing the multitude o
 | Streamer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 | Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Insp1r3](https://osu.ppy.sh/users/7131254), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025), ![][flag_GB] [sut_son](https://osu.ppy.sh/users/9622163) |
 | Designer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
-| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_MA] [clorox_1g](https://osu.ppy.sh/users/9702728) |
+| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_MA] [clorox_1g](https://osu.ppy.sh/users/9702728), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
 | Statistician | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 
 ## Links
