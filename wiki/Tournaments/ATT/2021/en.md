@@ -204,6 +204,22 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 22 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | --: | :-: | :-: | :-- |
+| Jerry ![][flag_MY] | 3 | **7** | ![][flag_ID] **Volta** | [#1](https://osu.ppy.sh/community/matches/83925010) |
+| **Katdon\_donKat** ![][flag_ID] | **7** | 4 | ![][flag_ID] apaajaboleh10 | [#1](https://osu.ppy.sh/community/matches/83958413) |
+
+Sunday, 23 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | --: | :-: | :-: | :-- |
+| tzechi ![][flag_SG] | -1 | **0** | ![][flag_PH] **jmeh07** | *win by default* |
+| Volta ![][flag_ID] | 0 | **7** | ![][flag_PH] **jmeh07** | [#1](https://osu.ppy.sh/community/matches/84027894) |
+
 ### Semifinals
 
 Saturday, 15 May 2021:
