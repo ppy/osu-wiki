@@ -1,12 +1,10 @@
 # osu!mania skinning
 
-*See also: [Skinning osu!mania Tutorial](/wiki/Skinning_osu!mania_Tutorial)*
-
 Since v2.5+, skinners are now able to fully customize the osu!mania notes and stage using the [skin.ini](/wiki/Skinning/skin.ini) file. The following is what osu! will recognize if one chooses to not use the `skin.ini` for further customization.
 
 ## Hit Bursts
 
-*See also: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
+*See also: [Skinning/FAQ § Ranking screen hit score hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)*
 
 ---
 
@@ -117,7 +115,7 @@ Notes:
 Notes:
 
 - To have multiple combobursts, use: `comboburst-mania-{n}.png`.
-  - One of the images in the set will be appear when a combo milestone is met.
+  - One of the images in the set will appear when a combo milestone is met.
 - osu!mania-specific combobursts
 - This can be disabled in the [options](/wiki/Options).
 - Unlike osu! and osu!catch's combobursts, all edges of this imageset should not be clipped.
