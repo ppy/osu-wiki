@@ -75,6 +75,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | 德语，波兰语 | 评估 |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语，法语 | 评估 |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 评估 |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "比利时"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
