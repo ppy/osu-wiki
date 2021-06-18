@@ -85,6 +85,33 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (117 MB)](https://mega.nz/file/vzoE3R7Y#mp2bNhfEL8UFO9LRL1SUpFi7pMVfoxTW3aTh2fUBJvk)**
+
+- NoMod
+  - [Kobaryo - Transceiver FX (Hivie) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1328018#taiko/2751152)
+  - [Tanchiky - ENERGY SYNERGY MATRIX (Genjuro) \[E.S.M.\]](https://osu.ppy.sh/beatmapsets/1247020#taiko/2591999)
+  - [Camellia - Xeroa (\_DUSK\_) \[Genjuro's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1331332#taiko/2759921)
+  - [Camellia - Syzygia (Ulqui) \[Inner Oni (NSV)\]](https://osu.ppy.sh/beatmapsets/782362#taiko/1642869)
+  - [Melt-Banana - Lie Lied Lies (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1098194#taiko/2294546)
+- Hidden
+  - [Rerulili feat. Kagamine Ren - Seisou Bakuretsu Boy (7\_7 bootleg) (HEKUSODASU) \[7oni\]](https://osu.ppy.sh/beatmapsets/1196340#taiko/2494631)
+  - [8284 - Connaextion (Nwolf) \[-- --- .-. ... .\]](https://osu.ppy.sh/beatmapsets/660649#taiko/1398838)
+- HardRock
+  - [SEVENTH SISTERS - SEVENTH HAVEN (Mtell Remix) (Shallty) \[6th Sister 7\_7\]](https://osu.ppy.sh/beatmapsets/829545#taiko/1737951)
+  - [Ametsuchi Enikki - Reimei Sketchbook (Y O U T A) \[Sketch\]](https://osu.ppy.sh/beatmapsets/571204#taiko/1210546)
+- DoubleTime
+  - [PSYQUI - Multitalents (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1013224#taiko/2120823)
+  - [Nhato - Magic (nyanmi-1828) \[Glint\]](https://osu.ppy.sh/beatmapsets/571741#taiko/1211643)
+  - [Toby Fox (remixed by Camellia) - Spider Dance (Camellia Remix) (hikiko-) \[Oni\]](https://osu.ppy.sh/beatmapsets/565226#taiko/1512798)
+- FreeMod
+  - [Street - Sakura Fubuki (Ata Remix) (Zetera) \[Sakura Oni\]](https://osu.ppy.sh/beatmapsets/1443098#taiko/2968377)
+  - [Igorrr - Robert (DukeDukeDura) \[Essence\]](https://osu.ppy.sh/beatmapsets/777877#taiko/1633996)
+  - [PSYQUI feat. Such - Your voice so... (Capu) \[Cychlo's voice so...\]](https://osu.ppy.sh/beatmapsets/1163892#taiko/2439177)
+- Tiebreaker
+  - **[Mori Calliope - Excuse My Rudeness, But Could You Please RIP (ReeK's "Dude Whats A Genre" Remix) (Maimaing) \[Rest in Peace\]](https://osu.ppy.sh/beatmapsets/1395893#taiko/2883063)**
+
 ### Finals
 
 **[Download the mappack here! (68 MB)](https://mega.nz/file/O2BzBKiI#WoW-x4LM_mvIPmSsNTXy3DvF8arwJE2tUwcC2dIyiks)**
