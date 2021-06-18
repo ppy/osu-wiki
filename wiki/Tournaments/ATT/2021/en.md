@@ -73,6 +73,16 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 | **G** | ![][flag_ID] [misaki_tk](https://osu.ppy.sh/users/3866964) | ![][flag_SG] [Prehistoria](https://osu.ppy.sh/users/8364237) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) | ![][flag_NZ] [arley\_](https://osu.ppy.sh/users/9039824) | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) |
 | **H** | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | ![][flag_MY] [nikolpai\_15](https://osu.ppy.sh/users/11584592) | - |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
+
 ## Mappools
 
 ### Finals
