@@ -28,6 +28,8 @@ The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 o
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.jpg "ATT 2021 winner badge")
+
 ## Organisation
 
 The Ausu!Taiko Tournament 2021 was run by various community members.
