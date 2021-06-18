@@ -56,7 +56,6 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turco | Moderación del chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Español | Moderación del chat, moderación del foro, moderación de beatmaps |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Moderación del chat, soporte técnico |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español | Torneos |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Soporte técnico |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugués, japonés | Moderación del chat |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Soporte al jugador, administración de la wiki |
@@ -102,7 +101,6 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Español | Soporte técnico |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polaco | Moderación del chat |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | Polaco | Moderación del chat, moderación de beatmaps |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Español | Torneos, moderación del chat, administración de la wiki |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polaco | Moderación del chat |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Moderación del chat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turco, alemán | Moderación del chat, moderación de beatmaps |
@@ -137,7 +135,7 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
@@ -148,7 +146,6 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
 [flag_CH]: /wiki/shared/flag/CH.gif "Suiza"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
 [flag_ES]: /wiki/shared/flag/ES.gif "España"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
