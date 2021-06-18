@@ -1,4 +1,5 @@
 <!-- TODO: need to be rewrite, the article being very old -->
+
 # Jump mapping techniques
 
 *See [Mapping Techniques/Basics](/wiki/Mapping_Techniques/Basics#jumps) for a description on jumps.*
