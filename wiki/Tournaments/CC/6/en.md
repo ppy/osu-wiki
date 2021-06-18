@@ -481,15 +481,15 @@ Wednesday, 24 April 2019
 - In order to participate, you must have the "Subscriber" or the "Friend" role on Doomsday's Discord.
 - The Top 4 from last CorgiCup (![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581), ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262) and ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142)) all have automatic qualifications into the Round of 32 should they accept their invitation.
 - Should more than 28 people sign up for the tournament, qualifiers will take place.
-- The top 28 scores from the qualifiers will progress into the round of 32.
+- The top 28 scores from the qualifiers will progress into the Round of 32.
 - Referees will create the match and invite players 10 mins before the match is due to start.
   - If a player fails to turn up before or on the time their match is due to start, a 10 minute timer will be started. After 10 minutes, if the player has still not shown up, the other player wins.
   - If both players fail to show up, the match can be rescheduled during the times given.
   - If a player wants to reschedule their match with an opponent, they must talk to their opponent and provide proof before Friday, 23:59 UTC, before matches are due to start.
-- Warm-ups are allowed from RO32 onwards and are optional should a player request one. (Note: the warm up should not be from the mappool the players are due to play and must have a drain time of 5 mins or less.)
-- After warm-ups (should there be any), both players will !roll to decide who bans/picks first. Loser of the roll bans first and winner of the roll picks first.
-- From the Round of 32 - Quarter finals: each player is allowed one ban per match. From the Quarter finals onwards players are allowed two bans (Tiebreaker is not bannable).
-- In case of a tie point, no point is awarded to either player, and the map is considered used. If all maps are used, the mappool selection resets (excluding banned maps), and the match continues as normal.
+- Warm-ups are allowed from the Round of 32 onwards and are optional should a player request one. (Note: the warm up should not be from the mappool the players are due to play and must have a drain time of 5 mins or less.)
+- After warm-ups (should there be any), both players will `!roll` to decide who bans/picks first. Loser of the roll bans first and winner of the roll picks first.
+- From the Round of 32 - Quarterfinals: each player is allowed one ban per match. From the Semifinals onwards players are allowed two bans (Tiebreaker is not bannable).
+- In case of a tie, no point is awarded to either player, and the map is considered used. If all maps are used, the mappool selection resets (excluding banned maps), and the match continues as normal.
 - If a player disconnects during the match in which the outcome would have been different. A rematch can be offered under the Referee’s discretion.
 - For FreeMod picks, players must select a choice of HD, HR, EZ, FL or a combination of these mods.
 
