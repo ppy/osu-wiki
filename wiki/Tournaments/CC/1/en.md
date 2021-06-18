@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - CC
   - CC1
