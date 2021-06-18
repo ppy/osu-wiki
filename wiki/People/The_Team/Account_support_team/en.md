@@ -26,8 +26,8 @@ You should contact this team regarding account-related topics that are out of yo
   - beatmap removals;
   - forum post and comment removals.
 - Instances of misbehaviour that you [wish to admit](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
-- [Loss of access to the email](/wiki/Help_Centre#sign-in) tied to your osu! account, or when your account is stolen.
-- Username [reverts and minor spelling corrections](/wiki/Help_Centre#name-changes).
+- [Loss of access to the email](/wiki/Help_Centre/Installation_and_registration#sign-in) tied to your osu! account, or when your account is stolen.
+- Username [reverts and minor spelling corrections](/wiki/Help_Centre/Account#name-changes).
 - [Bot account registrations](/wiki/Bot_Account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
@@ -36,8 +36,8 @@ You should contact this team regarding account-related topics that are out of yo
 
 - Concerns about a moderator's misbehaviour.
 - Concerns about a moderator breaking [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct).
-- [Payment issues](/wiki/en/Help_Centre#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
-- Technical issues that couldn't or haven't been resolved in [the Help forum](https://osu.ppy.sh/community/forums/5), such as [connectivity issues](/wiki/Help_Centre#online-features).
+- [Payment issues](/wiki/Help_Centre/Account#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
+- Technical issues that couldn't or haven't been resolved in [the Help forum](https://osu.ppy.sh/community/forums/5), such as [connectivity issues](/wiki/Help_Centre/Client#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

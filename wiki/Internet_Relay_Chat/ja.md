@@ -76,7 +76,7 @@ osu!Banchoはプレーンテキスト認証を使用しています。IRCクラ�
 IRC標準では、チャンネルモードという概念があります。これは、すべてのユーザーが実行できるアクションのセットです。osu!Banchoでは、特別なグループのチャットユーザーには2つのモードが使われています。
 
 - `+`または「voice status」: ユーザーは外部のIRCクライアントで接続されています
-- `@`または「chat operator status」: ユーザーがチャットのモデレーター（[GMT](/wiki/GMT)または[NAT](/wiki/NAT)）
+- `@`または「chat operator status」: ユーザーがチャットのモデレーター（[GMT](/wiki/People/The_Team/Global_Moderation_Team)または[NAT](/wiki/People/The_Team/Nomination_Assessment_Team)）
 
 osu!クライアントやウェブサイトで接続しているユーザーにプレフィックスはありません。
 

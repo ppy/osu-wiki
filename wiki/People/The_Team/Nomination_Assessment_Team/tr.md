@@ -79,6 +79,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Almanca, Lehçe | Değerlendirme |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arapça, Fransızca | Değerlendirme |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Değerlendirme |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"

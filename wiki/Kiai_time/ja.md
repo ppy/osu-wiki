@@ -1,24 +1,24 @@
 ---
-outdated: true
+stub: true
+tags:
+  - タイミングセクション
+  - 気合いモード
 ---
 
-# Kiaiタイム
+# 気合いタイム
 
-![Stars shower the screen indicating Kiai Time has started.](img/Kiai_Time_test.jpg "Stars shower the screen indicating Kiai Time has started.")
+*気合いタイムの規定については、こちらをご覧ください。[ランキング基準](/wiki/Ranking_Criteria)*
 
-![Kiai Time shows in the upper-left of the screen when active during edit mode.](img/Kiai_Time_edit.jpg "Kiai Time shows in the upper-left of the screen when active during edit mode.")
+**気合いタイム**（または*気合い*）とは、[ビートマップ](/wiki/Beatmap)の一部を強調するための「特別な」タイミングセクションに与えられる用語です。プレイヤーは、ビートマップの一部に気合いタイミングセクションがあるかどうかを、背景に追加された視覚効果（例: 点滅するビート、空飛ぶ星、噴水）を見て知ることができます。
 
-**Kiai タイム**は[ビートマップ上の](/wiki/Beatmap)[Mapperによって作成される](/wiki/Beatmapping)2つの[タイミングセクションによって設定されます](/wiki/Beatmap_Editor/Timing)。画面が点滅し、星のエフェクトが出るのであなたはそれを認識することができます。付け加えれば全てのオブジェクトはメインビートに従って点滅し、星はヒットサークルを当てた時やスライダーやスピナーを打つとき、カーソルから噴出されます。
+気合いが有効な間は、すべての[ヒットオブジェクト](/wiki/Hit_object)が[メインビート](/wiki/Beatmap_Editor/Timing)のリズムで点滅し、[ヒットサークル](/wiki/Hit_object/Hit_circle)をヒットすると、カーソルから星が爆発します。それ以外の場合は、[スライダー](/wiki/Hit_object/Slider)または[スピナー](/wiki/Hit_object/Slider)が追従されたときに、カーソルから落下します。
 
-## ビートマップ作成でのKiaiタイム
+## ビートマッピング
 
-Kiai タイムは"曲の強いパート"がある時に用いられ、基本的にサビに用いられます。しかしサビがない曲はあるので、格好良いと感じた強いパートでKiaiを入れることができます。しかしKiaiのスタートを何度もすると、噴水のスパムとなりプレイの邪魔になります。それはUnrankableで、それが原因でラグが生じたりするのでプレイヤーは嫌っています。
+気合いの時間は、通常コーラスである「曲の最も強いセクション」によく使われます。気合いのセクションは曲の中で最も強いセクションであるため、一般的には曲についていくための[ビートマップ](/wiki/Beatmap)の他のセクションよりも若干難易度が高くなっています。
 
-## Kiaiを使用する際の注意事項
+## osu!taiko
 
-1. **[osu!taikoビートマップ](/wiki/Game_mode/osu!taiko)**ではKiai中のスコアが倍になるので、太鼓ビートマップを作る場合はゲームプレイに影響をしないように注意してください。
-2. **一貫性を持たせてください。**例えば同じ難易度で3つのKiaiがあるとして、それらが全て異なる音に従って使用されていた時、それは迷惑になります。ちなみに全ての難易度で同じタイミングでKiaiを使用することは良いことです。
-3. **[コンボカラー](/wiki/Glossary/Combo_colour)**が真っ白(255,255,255)なときにKiaiを使用しないでください。それはKiaiのエフェクトで隠れ、目を痛める原因となります。
-4. Kiaiをビートマップの終わりが難しい/派手な場合、**最も強いパート**として最後の部分だけに使用することができます。
-5. **[ゲスト難易度は異なる位置でKiaiを使うことができます](/wiki/Glossary/Combo_colour)。**これは誰もが同じ場所が"格好良い"とは思わない事実に基づいています。
-6. Kiaiの時他と差別化させるために、コンボカラーを異なるものにするのは良いことです。
+[osu!taiko](/wiki/Game_Modes/osu!taiko)のビートマップでは、気合いのセクションは20%以上の[スコア](/wiki/Score)を与えます。
+
+<!-- TODO: Add links -->

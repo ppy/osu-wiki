@@ -76,7 +76,7 @@ Type first few letters of the username, then use `Tab` to cycle through autocomp
 The IRC standard has a concept of channel modes, or sets of actions every user can perform. In osu!Bancho, two modes are used for special groups of chat users:
 
 - `+`, or "voice status": user is connected via external IRC client
-- `@`, or "chat operator status": user is a chat moderator ([GMT](/wiki/GMT) or [NAT](/wiki/NAT))
+- `@`, or "chat operator status": user is a chat moderator ([GMT](/wiki/People/The_Team/Global_Moderation_Team) or [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
 
 Users connected via osu! client or web site have no prefix.
 

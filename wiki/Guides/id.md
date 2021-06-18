@@ -14,7 +14,6 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Mengompresi File](Compressing_Files)
 - [Kustom Hitsound Library](Custom_Hitsound_Library)
 - [Kustom Sample Overrides](Custom_Sample_Overrides)
-- [Mengambil Lagu dari Video Games](Getting_Songs_From_Video_Games)
 - [Mengatur Timing Musik](How_to_Time_Songs)
 - [Teori Musik](Music_Theory)
 - [Panduan Mapping osu!mania](osu!mania_Mapping_Guide)

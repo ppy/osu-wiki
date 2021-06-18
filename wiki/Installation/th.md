@@ -2,7 +2,7 @@
 
 *ดูหน้านี้ด้วย: [การติดตั้งบน macOS](/wiki/Installation/macOS)*
 
-หน้านี้จะบอกถึงวิธีการติดตั้ง osu! ในระบบเครื่อง Windows ของคุณ ใน [osu!academy](/wiki/en/osu%21academy) มี[วิดีโอ](https://www.youtube.com/watch?v=0V5GwzmMhpU)ที่อธิบายวิธีการติดตั้ง osu! บน Windows
+หน้านี้จะบอกถึงวิธีการติดตั้ง osu! ในระบบเครื่อง Windows ของคุณ ใน [osu!academy](/wiki/osu%21academy) มี[วิดีโอ](https://www.youtube.com/watch?v=0V5GwzmMhpU)ที่อธิบายวิธีการติดตั้ง osu! บน Windows
 
 ## ความต้องการขั้นต่ำของระบบ
 

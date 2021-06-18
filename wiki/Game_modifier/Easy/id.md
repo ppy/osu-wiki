@@ -5,6 +5,8 @@ tags:
   - Easy
   - mod
   - game modifier
+outdated: true
+outdated_since: 6b8516026e4a60ca416f3f5569887e4d548cce5e
 ---
 
 # Easy (mod)
