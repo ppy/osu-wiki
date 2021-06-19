@@ -163,6 +163,33 @@ The Vaf's Autumn Fiesta is run by various community members.
   - [Teletexter - Super Sonic Raving (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1321693#taiko/2737702)
   - [Igorrr & Ruby My Dear - Figue Folle (-Kazu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/680739#taiko/1439297)
 
+### Swiss week 5
+
+**[Download the mappack here! (77 MB)](https://www.mediafire.com/file/zmt03xqpk33atfv/MAPPACK_SWISS_5.zip/file)**
+
+- NoMod
+  - [An - Cochma (Ulqui) \[Purity\]](https://osu.ppy.sh/beatmapsets/1381447#taiko/2854276)
+  - [BEMANI Sound Team "HuMeR" feat.Fernweh - sakazuki (Lze) \[MXM\]](https://osu.ppy.sh/beatmapsets/992779#taiko/2076138)
+  - [Memme - Acid Burst (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1048233#taiko/2191032)
+  - [Lite Show Magic - Stronghold (BabySnakes) \[oh no!\]](https://osu.ppy.sh/beatmapsets/1485671#taiko/3046461)
+  - [Nekrogoblikon - The Skin Thief (radar) \[Torture\]](https://osu.ppy.sh/beatmapsets/1129186#taiko/2359000)
+- Hidden
+  - [Miyashita Yuu - Endgame (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1402249#taiko/2892814)
+  - [BanYa - Blazing (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/1062630#taiko/2225245)
+  - [Airuei - Framework (Nwolf) \[Wired Oni\]](https://osu.ppy.sh/beatmapsets/1152903#taiko/2406326)
+- HardRock
+  - [kors k - Empire of Fury (femboy mapper) \[TERROR ONI\]](https://osu.ppy.sh/beatmapsets/1414668#taiko/2915829)
+  - [t+pazolite - Candy Crack Curtain Call (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/473507#taiko/1011768)
+  - [Katsuro Tajima - Puchipochi (Reficul) \[Tatsujin (Edit.)\]](https://osu.ppy.sh/beatmapsets/1133381#taiko/2963074)
+- DoubleTime
+  - [DragonForce - Strangers (Garpo) \[True Survivor\]](https://osu.ppy.sh/beatmapsets/1193191#taiko/2486211)
+  - [The Flashbulb - Six Acid Strings (Nardoxyribonucleic) \[Volta's Oni\]](https://osu.ppy.sh/beatmapsets/966451#taiko/2078180)
+  - [kors k - Monkey Business (lapix Remix) (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/721496#taiko/1523524)
+- FreeMod
+  - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1167065#taiko/2434428)
+  - [S3RL - Addict (DJKurara Remix) (yea) \[Relapse Oni\]](https://osu.ppy.sh/beatmapsets/938609#taiko/1960721)
+  - [Machine Girl - Bullet Hell (Nifty) \[touhou\]](https://osu.ppy.sh/beatmapsets/1061403#taiko/2222629)
+
 ### Swiss week 4
 
 **[Download the mappack here! (74 MB)](https://www.mediafire.com/file/hnxyyckq4znqd6m/MAPPACK_SWISS_4.zip/file)**
