@@ -192,7 +192,57 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Match results
 
+### Swiss week 4
+
+Saturday, 5 June 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Naverlyn ![][flag_ID] | 6 | 6 | ![][flag_US] Xok | [#1](https://osu.ppy.sh/community/matches/84958935) |
+| **nananass** ![][flag_JP] | **7** | 1 | ![][flag_TW] Yuemiao | [#1](https://osu.ppy.sh/community/matches/84964391) |
+| \[Zeth\] ![][flag_MY] | 1 | **7** | ![][flag_UA] **Don Omar** | [#1](https://osu.ppy.sh/community/matches/84970356) |
+| **Sparxe** ![][flag_NZ] | **7** | 0 | ![][flag_TH] Ponamis | [#1](https://osu.ppy.sh/community/matches/84972626) |
+| Saikoro ![][flag_JP] | 1 | **7** | ![][flag_GB] **mangomizer** | [#1](https://osu.ppy.sh/community/matches/84972754) |
+| CrowWhite ![][flag_RU] | 3 | **7** | ![][flag_GB] **Teezel** | [#1](https://osu.ppy.sh/community/matches/84975341) |
+| **Daniels** ![][flag_GB] | **7** | 0 | ![][flag_CH] MC2BP | [#1](https://osu.ppy.sh/community/matches/84978462) |
+| **yu-k1\_** ![][flag_JP] | **7** | 1 | ![][flag_BR] Ppus | [#1](https://osu.ppy.sh/community/matches/84978785) |
+| Ikkun ![][flag_IT] | 5 | **7** | ![][flag_HK] **J a c k y** | [#1](https://osu.ppy.sh/community/matches/84976918) |
+| **\_Doodle\_** ![][flag_AR] | **7** | 4 | ![][flag_ID] XK2238 | [#1](https://osu.ppy.sh/community/matches/84978808) |
+| Akonine ![][flag_RU] | 0 | **7** | ![][flag_KZ] **Lynerrr** | [#1](https://osu.ppy.sh/community/matches/84982297) |
+| **Jakads** ![][flag_KR] | **7** | 0 | ![][flag_GR] Genjuro | [#1](https://osu.ppy.sh/community/matches/84982041) |
+| **Minekuchi** ![][flag_DE] | **7** | 5 | ![][flag_TH] Raytoly | [#1](https://osu.ppy.sh/community/matches/84981992) |
+| **D3kuu** ![][flag_IT] | **7** | 1 | ![][flag_IT] LordEnder | [#1](https://osu.ppy.sh/community/matches/84985185) |
+| Cookie\_Tree ![][flag_NL] | 4 | **7** | ![][flag_BR] **FurryBoujee** | [#1](https://osu.ppy.sh/community/matches/84988551) |
+| Gustav0eiji ![][flag_BR] | 6 | 6 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/84989639) |
+| **AuroraPhasmata** ![][flag_US] | **7** | 3 | ![][flag_NO] petterde | [#1](https://osu.ppy.sh/community/matches/84992542) |
+| **A-40** ![][flag_IT] | **7** | 2 | ![][flag_CL] Vulkin | [#1](https://osu.ppy.sh/community/matches/84992553) |
+| BananaW ![][flag_FR] | 0 | **7** | ![][flag_MX] -Arato | *win by default* |
+| **Skull Kid** ![][flag_BR] | **7** | 2 | ![][flag_US] Etholux | [#1](https://osu.ppy.sh/community/matches/85008895) |
+| Konpaku Sariel ![][flag_KR] | 0 | **7** | ![][flag_KR] **5henry** | *win by default* |
+
+Sunday, 6 June 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| honkers ![][flag_CA] | 1 | **7** | ![][flag_AR] **gaston\_2199** | [#1](https://osu.ppy.sh/community/matches/85020582) |
+| shakegohan\_jar ![][flag_JP] | 0 | 0 | ![][flag_TW] \_Llama | *nullified* |
+| Garpo ![][flag_US] | 2 | **7** | ![][flag_US] **\_knots** | [#1](https://osu.ppy.sh/community/matches/85023304) |
+| GoZaRaNi ![][flag_KR] | 0 | **7** | ![][flag_US] **cheese salad** | [#1](https://osu.ppy.sh/community/matches/85031235) |
+| r1chyy ![][flag_AU] | 2 | **7** | ![][flag_KR] **phosphene47** | [#1](https://osu.ppy.sh/community/matches/85035404) |
+| Den4ik228 ![][flag_RU] | 0 | **7** | ![][flag_TW] **cat1346** | [#1](https://osu.ppy.sh/community/matches/85037166) |
+| Ku\_Ren ![][flag_JP] | 2 | **7** | ![][flag_KR] **oL0** | [#1](https://osu.ppy.sh/community/matches/85039244) |
+| uranosu1030 ![][flag_JP] | 0 | **7** | ![][flag_FI] **MEGAMELA** | *win by default* |
+| **janitore** ![][flag_CA] | **7** | 0 | ![][flag_IT] coed | [#1](https://osu.ppy.sh/community/matches/85055765) |
+| bernard351 ![][flag_PL] | 1 | **7** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/85063130) |
+| **Coryn** ![][flag_BR] | **7** | 5 | ![][flag_BE] XOlifreX | [#1](https://osu.ppy.sh/community/matches/85074860) |
+
 ### Swiss week 3
+
+Thursday, 27 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Ppus ![][flag_BR] | 1 | **7** | ![][flag_IT] **coed** | [#1](https://osu.ppy.sh/community/matches/84356479) |
 
 Saturday, 29 May 2021:
 
@@ -224,7 +274,7 @@ Sunday, 30 May 2021:
 | shakegohan\_jar ![][flag_JP] | 0 | **7** | ![][flag_KR] **GoZaRaNi** | *win by default* |
 | \_Llama ![][flag_TW] | 0 | **7** | ![][flag_ID] **Naverlyn** | [#1](https://osu.ppy.sh/community/matches/84543937) |
 | **AuroraPhasmata** ![][flag_US] | **7** | 4 | ![][flag_TW] cat1346 | [#1](https://osu.ppy.sh/community/matches/84547556) |
-| **Cookie\_tree** ![][flag_NL] | **7** | 3 | ![][flag_RU] CrowWhite | [#1](https://osu.ppy.sh/community/matches/84549682) |
+| **Cookie\_Tree** ![][flag_NL] | **7** | 3 | ![][flag_RU] CrowWhite | [#1](https://osu.ppy.sh/community/matches/84549682) |
 | **LordEnder** ![][flag_IT] | **7** | 5 | ![][flag_KR] phosphene47 | [#1](https://osu.ppy.sh/community/matches/84552288) |
 | BananaW ![][flag_FR] | 0 | **7** | ![][flag_CH] **MC2BP** | *win by default* |
 | **Raytoly** ![][flag_TH] | **7** | 0 | ![][flag_RU] Akonine | *win by default* |
@@ -248,7 +298,7 @@ Saturday, 22 May 2021:
 | MC2BP ![][flag_CH] | 0 | **7** | ![][flag_TH] **Ponamis** | [#1](https://osu.ppy.sh/community/matches/83943873) |
 | **Daniels** ![][flag_GB] | **7** | 0 | ![][flag_JP] shakegohan\_jar | *win by default* |
 | **mangomizer** ![][flag_GB] | **7** | 5 | ![][flag_KR] GoZaRaNi | [#1](https://osu.ppy.sh/community/matches/83947484) |
-| **Pochacco** ![][flag_PH] | **7** | 3 | ![][flag_NL] Cookie\_tree | [#1](https://osu.ppy.sh/community/matches/83950465) |
+| **Pochacco** ![][flag_PH] | **7** | 3 | ![][flag_NL] Cookie\_Tree | [#1](https://osu.ppy.sh/community/matches/83950465) |
 | **Konpaku Sariel** ![][flag_KR] | **7** | 5 | ![][flag_GR] Genjuro | [#1](https://osu.ppy.sh/community/matches/83950516) |
 | **yu-k1\_** ![][flag_JP] | **7** | 0 | ![][flag_CL] Vulkin | [#1](https://osu.ppy.sh/community/matches/83954420) |
 | Skull Kid ![][flag_BR] | 1 | **7** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/83954440) |
@@ -319,7 +369,7 @@ Sunday, 16 May 2021:
 | **Genjuro** ![][flag_GR] | **7** | 1 | ![][flag_TW] \_Llama | [#1](https://osu.ppy.sh/community/matches/83488630) |
 | **coed** ![][flag_IT] | **0** | -1 | ![][flag_FR] BananaW | *win by default* |
 | **cheese salad** ![][flag_US] | **7** | 0 | ![][flag_GB] Teezel | [#1](https://osu.ppy.sh/community/matches/83500633) |
-| **Vulkin** ![][flag_CL] | **7** | 3 | ![][flag_NL] Cookie\_tree | [#1](https://osu.ppy.sh/community/matches/83500624) |
+| **Vulkin** ![][flag_CL] | **7** | 3 | ![][flag_NL] Cookie\_Tree | [#1](https://osu.ppy.sh/community/matches/83500624) |
 | **gaston\_2199** ![][flag_AR] | **7** | 0 | ![][flag_FI] MEGAMELA | [#1](https://osu.ppy.sh/community/matches/83504892) |
 | **AuroraPhasmata** ![][flag_US] | **7** | 4 | ![][flag_US] Etholux | [#1](https://osu.ppy.sh/community/matches/83519527) |
 
