@@ -192,6 +192,50 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Match results
 
+### Swiss week 5
+
+Saturday, 12 June 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Naverlyn** ![][flag_ID] | **7** | 0 | ![][flag_RU] Akonine | *win by default* |
+| Ponamis ![][flag_TH] | 2 | **7** | ![][flag_KR] **phosphene47** | [#1](https://osu.ppy.sh/community/matches/85429009) |
+| **CrowWhite** ![][flag_RU] | **7** | 0 | ![][flag_JP] shakegohan\_jar | *win by default* |
+| r1chyy ![][flag_AU] | 4 | **7** | ![][flag_CH] **MC2BP** | [#1](https://osu.ppy.sh/community/matches/85432892) |
+| **Raytoly** ![][flag_TH] | **7** | 2 | ![][flag_UA] Don Omar | [#1](https://osu.ppy.sh/community/matches/85435869) |
+| oL0 ![][flag_KR] | 1 | **7** | ![][flag_JP] **yu-k1\_** | [#1](https://osu.ppy.sh/community/matches/85435788) |
+| petterde ![][flag_NO] | 3 | **7** | ![][flag_TW] **Yuemiao** | [#1](https://osu.ppy.sh/community/matches/85437072) |
+| Konpaku Sariel ![][flag_KR] | 0 | **7** | ![][flag_US] **\_knots** | *win by default* |
+| Cookie\_Tree ![][flag_NL] | 1 | **7** | ![][flag_PL] **bernard351** | [#1](https://osu.ppy.sh/community/matches/85440158) |
+| **XK2238** ![][flag_ID] | **7** | 4 | ![][flag_IT] D3kuu | [#1](https://osu.ppy.sh/community/matches/85439519) |
+| 5henry ![][flag_KR] | 5 | **7** | ![][flag_GB] **mangomizer** | [#1](https://osu.ppy.sh/community/matches/85448010) |
+| janitore ![][flag_CA] | 6 | 6 | ![][flag_DE] Minekuchi | [#1](https://osu.ppy.sh/community/matches/85452437) |
+| **Etholux** ![][flag_US] | **7** | 0 | ![][flag_GR] Genjuro | *win by default* |
+| Sparxe ![][flag_NZ] | 3 | **7** | ![][flag_BR] **Skull Kid** | [#1](https://osu.ppy.sh/community/matches/85456974) |
+| **Coryn** ![][flag_BR] | **7** | 0 | ![][flag_US] Xok | *win by default* |
+| Ppus ![][flag_BR] | 0 | **7** | ![][flag_AR] **gaston\_2199** | *win by default* |
+
+Sunday, 13 June 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **uranosu1030** ![][flag_JP] | **7** | 0 | ![][flag_FR] BananaW | *win by defaut* |
+| **-Arato** ![][flag_MX] | **7** | 5 | ![][flag_RU] Den4ik228 | [#1](https://osu.ppy.sh/community/matches/85480290) |
+| Saikoro ![][flag_JP] | 2 | **7** | ![][flag_US] **cheese salad** | [#1](https://osu.ppy.sh/community/matches/85485201) |
+| Garpo ![][flag_US] | 0 | **7** | ![][flag_CA] **honkers** | *win by default* |
+| Pochacco ![][flag_PH] | 0 | **7** | ![][flag_MY] **\[Zeth\]** | *win by default* |
+| \_Llama ![][flag_TW] | 0 | **7** | ![][flag_FI] **MEGAMELA** | *win by default* |
+| **nananass** ![][flag_JP] | **7** | 1 | ![][flag_KR] Jakads | [#1](https://osu.ppy.sh/community/matches/85500337) |
+| XOlifreX ![][flag_BE] | 1 | **7** | ![][flag_KR] **GoZaRaNi** | [#1](https://osu.ppy.sh/community/matches/85501842) |
+| **cat1346** ![][flag_TW] | **7** | 0 | ![][flag_GB] Daniels | *win by default* |
+| Vulkin ![][flag_CL] | 0 | **7** | ![][flag_BR] **FurryBoujee** | *win by default* |
+| \_Doodle\_ ![][flag_AR] | 3 | **7** | ![][flag_HK] **J a c k y** | [#1](https://osu.ppy.sh/community/matches/85503813) |
+| Ku\_Ren ![][flag_JP] | 2 | **7** | ![][flag_KZ] **Lynerrr** | [#1](https://osu.ppy.sh/community/matches/85507035) |
+| **A-40** ![][flag_IT] | **7** | 4 | ![][flag_IT] coed | [#1](https://osu.ppy.sh/community/matches/85507167) |
+| **Teezel** ![][flag_GB] | **7** | 0 | ![][flag_BR] Gustav0eiji | *win by default* |
+| **HiroK** ![][flag_BR] | **7** | 2 | ![][flag_IT] LordEnder | [#1](https://osu.ppy.sh/community/matches/85518719) |
+| **Ikkun** ![][flag_IT] | **7** | 1 | ![][flag_US] AuroraPhasmata | [#1](https://osu.ppy.sh/community/matches/85526250) |
+
 ### Swiss week 4
 
 Saturday, 5 June 2021:
