@@ -17,7 +17,7 @@ The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![
 | Screening | 2021-05-01/2021-05-10 |
 | Swiss week 1 | 2021-05-15/2021-05-16 |
 | Swiss week 2 | 2021-05-22/2021-05-23 |
-| Swiss week 3 | 2021-05-29/2021-05-30 |
+| Swiss week 3 | 2021-05-27/2021-05-30 |
 | Swiss week 4 | 2021-06-05/2021-06-06 |
 | Swiss week 5 | 2021-06-12/2021-06-13 |
 | Swiss week 6 | 2021-06-19/2021-06-20 |
@@ -162,6 +162,33 @@ The Vaf's Autumn Fiesta is run by various community members.
   - [II-L - VANGUARD-1 (Axer) \[Satellite\]](https://osu.ppy.sh/beatmapsets/1407228#taiko/2901604)
   - [Teletexter - Super Sonic Raving (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1321693#taiko/2737702)
   - [Igorrr & Ruby My Dear - Figue Folle (-Kazu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/680739#taiko/1439297)
+
+### Swiss week 3
+
+**[Download the mappack here! (88 MB)](https://www.mediafire.com/file/jz3c3oiuax5kpfo/MAPPACK+SWISS+3.zip/file)**
+
+- NoMod
+  - [Rohi - Kakuzetsu Thanatos (Idealism) \[Isolation\]](https://osu.ppy.sh/beatmapsets/1175412#taiko/2451623)
+  - [Ponchi feat. haxchi - Connect Colors (Jerry) \[YNZM's Rainbow\]](https://osu.ppy.sh/beatmapsets/1282848#taiko/2664333)
+  - [cybermiso - corps-sans-organes (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1141437#taiko/2384102)
+  - [Nitro Fun - Final Boss (Cut Ver) (Lno) \[Oni\]](https://osu.ppy.sh/beatmapsets/1402151#taiko/2892658)
+  - [UNDEAD CORPORATION - Embraced by the Flame (Nwolf) \[Deserted Oni\]](https://osu.ppy.sh/beatmapsets/436802#taiko/940785)
+- Hidden
+  - [Helblinde - Disconnected (Kannes) \[Virtual Reality\]](https://osu.ppy.sh/beatmapsets/1158176#taiko/2417023)
+  - [Aquestion - ENERGY INFLATION (A\_\_) \[KTYN's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1315661#taiko/2726428)
+  - [Sota Fujimori - ACCELERATE (HiroK) \[Max Speed!\]](https://osu.ppy.sh/beatmapsets/844461#taiko/1766496)
+- HardRock
+  - [ZUN remixed by LeaF - Resurrection Spell (sendol) \[Charlotte's Inner Oni\]](https://osu.ppy.sh/beatmapsets/798869#taiko/1954440)
+  - [Yousei Teikoku - Zetsubou plantation (Saten) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/86009#taiko/374422)
+  - [cosMo@bousouP - Oceanus (Faputa) \[Empyrean Flow\]](https://osu.ppy.sh/beatmapsets/1047505#taiko/2189542)
+- DoubleTime
+  - [THE KOXX - A Fool Moon Night (Skull Kid) \[Full Moon\]](https://osu.ppy.sh/beatmapsets/737288#taiko/1555918)
+  - [IOSYS - Poinsettia (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/799276#taiko/1678184)
+  - [SIHanatsuka - EMber (Nara\_NB) \[Inner Oni (SV nerf)\]](https://osu.ppy.sh/beatmapsets/967071#taiko/3025810)
+- FreeMod
+  - [Yu\_Asahina - Trickstarz (kitafuma) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1118075#taiko/2335498)
+  - [Nekomata Master+ - POINT ZERO (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/937099#taiko/1957601)
+  - [Cyte - Silver Winds (Cychloryn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1242018#taiko/2582138)
 
 ### Swiss week 2
 
