@@ -62,7 +62,7 @@ Quickly after the public release, the first play [mods](/wiki/Game_modifier), [E
 
 ## October
 
-October 1, 2007 was the day when online rankings were made publicly available. This also saw the launch of the `.osz` packaging method, and an online beatmap database with an early web-based submission system. Online rankings were added to the in-game interface and were also displayed on the website.
+October 6, 2007 was the day when online rankings were made publicly available. This also saw the launch of the `.osz` packaging method, and an online beatmap database with an early web-based submission system. Online rankings were added to the in-game interface and were also displayed on the website.
 
 ![](img/2007-10_01.jpg)
 
@@ -88,7 +88,7 @@ A new SS rank was added to the ranking system, replacing S rank in cases where p
 
 ![](img/2007-11_03.jpg "Testing IRC usage")
 
-The [Beatmap Submission System](/wiki/Glossary#bss) (BSS) was made public, allowing users to easily upload and share their creations. This introduced the status of [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending) and [Ranked](/wiki/Beatmap/Category#ranked) maps helped organise the rapidly growing collection of user-submitted beatmaps. In-game chat was added as an [IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat) client built from scratch and connected to a standard IRC server (with no [Bancho](/wiki/Bancho_(server)); extended chat was visible; avatars and basic stats were displayed in-game using an http-based communication; audio controls were also added to the main menu, which played a random song on startup; [replays](/wiki/Replay) could be watched for both local scores and online plays. Players could spectate other players (spectator data was sent raw over IRC).
+The [Beatmap Submission System](/wiki/Submission) (BSS) was made public, allowing users to easily upload and share their creations. This introduced the status of [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending) and [Ranked](/wiki/Beatmap/Category#ranked) maps helped organise the rapidly growing collection of user-submitted beatmaps. In-game chat was added as an [IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat) client built from scratch and connected to a standard IRC server (with no [Bancho](/wiki/Bancho_(server)); extended chat was visible; avatars and basic stats were displayed in-game using an http-based communication; audio controls were also added to the main menu, which played a random song on startup; [replays](/wiki/Replay) could be watched for both local scores and online plays. Players could spectate other players (spectator data was sent raw over IRC).
 
 ## December
 

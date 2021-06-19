@@ -23,12 +23,12 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Summer 
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-### <a name="osu" id="osu"></a>osu!
+### osu!
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/osu/kaoru.jpg)](https://osu.ppy.sh/beatmapsets/397764)
 
@@ -102,7 +102,7 @@ Dormin's "Une mage blanche" shows [Sulfur](https://osu.ppy.sh/users/5297447)'s e
 
 [Chaoslitz](https://osu.ppy.sh/users/3621552) and Moecho’s collab on colate and Nanahira’s "Good Night" is a great example of how collab difficulties are supposed to be mapped: the styles of both mappers blending with each other, resulting in a smooth playing experience without either of the mappers’ parts outshining the other. Coupled with the intuitive rhythm and patterns, the result is a very enjoyable map to play for players of all skillsets and levels.
 
-### <a name="taiko" id="taiko"></a>osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/taiko/passage.jpg)](https://osu.ppy.sh/beatmapsets/587426)
 
@@ -176,7 +176,7 @@ Kazu's often abstract mapping style really works for this kind of abrasive music
 
 Truly, we won't just be on the "Border of extacy", we'll be thoroughly engulfed in it while playing this map!
 
-### <a name="catch" id="catch"></a>osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/catch/misanthrope.jpg)](https://osu.ppy.sh/beatmapsets/797236)
 
@@ -210,7 +210,7 @@ The ultimate duo, consisting of [Ascendance](https://osu.ppy.sh/users/2931883) a
 
 Right before leaving for military service, [Spectator](https://osu.ppy.sh/users/702598) managed to give us another fantastic set, this time on a groovy song BUTAOTOME's "Gensou no Satellite". The highest difficulty manages to keep up fast and energetic patterns to keep up with the song. The rest of the set, including a [Xetopia](https://osu.ppy.sh/users/6689101) guest difficulty, doesn't disappoint in giving something to offer to players of all skill levels.
 
-### <a name="mania" id="mania"></a>osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2019-01-16-beatmap-spotlights-autumn-2018/mania/emotional.jpg)](https://osu.ppy.sh/beatmapsets/800663)
 

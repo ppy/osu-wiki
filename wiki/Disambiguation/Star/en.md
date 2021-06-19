@@ -19,4 +19,4 @@ stub: true
 3. Another term for "[Kudosu](/wiki/Modding/Kudosu)".
    - These are given to beatmap modders and can be used to raise a beatmap above others.
 4. Another term for "[Star Priority](/wiki/Modding/Star_priority)".
-   - These stars are given to [osu!supporters](/wiki/osu!support) and are used in [Feature Requests](https://osu.ppy.sh/community/forums/4).
+   - These stars are given to [osu!supporters](/wiki/osu!supporter) and are used in [Feature Requests](https://osu.ppy.sh/community/forums/4).

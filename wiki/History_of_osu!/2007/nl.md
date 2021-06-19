@@ -66,7 +66,7 @@ Een korte tijd na de publieke release werden de eerste mods, [Easy](/wiki/EZ) en
 
 ## Oktober
 
-2007-10-01 was de dag waarop de online ranglijsten openbaar werden gemaakt. Ook de lancering van de .osz-zipmethode en de online beatmap-database met een vroeg webgebaseerd inzendingssysteem werd op die dag uitgevoerd. Online rankings werden toegevoegd aan de in-game interface en werden ook getoond op de website.
+2007-10-06 was de dag waarop de online ranglijsten openbaar werden gemaakt. Ook de lancering van de .osz-zipmethode en de online beatmap-database met een vroeg webgebaseerd inzendingssysteem werd op die dag uitgevoerd. Online rankings werden toegevoegd aan de in-game interface en werden ook getoond op de website.
 
 ![](img/2007-10_01.jpg)
 

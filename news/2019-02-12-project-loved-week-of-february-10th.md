@@ -21,12 +21,12 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -97,7 +97,7 @@ If you're a big fan of spaced streams, you're going to love this one. ParkourWiz
 
 After clips from various players including [Umbre](https://osu.ppy.sh/users/2766034), [firebat92](https://osu.ppy.sh/users/1777162), and myself began surfacing, the map quickly gained traction and has garnered over 250 favorites now! Check out the map for yourself and vote for its spot in Project Loved.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -131,7 +131,7 @@ Congratulations to Skull Kid for #1 on Community Choice 2018! This time, I'd lik
 
 osu needs more lapix! This mapset by HEKUSODASU is often times recognized and loved by many people in the community, despite recent posts. I guess it is because how fascinating is this song's energetic feeling that really makes you want to dance to it. HEKUSODASU also did a good job at arranging the map really well, while perfectly representing the irregular rhythm of this song in a beautiful manner.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
 
@@ -151,7 +151,7 @@ This week we're bringing back one of \[224\]Reol's earlier maps, "Shuukan Shoune
 
 Oh boy, despite this map being one of the most popular ones released in 2018, it just wasn't quite able to get ranked. But here we go with the full version of COOLEST! There are many difficulties on this spread, so really, there is something for everyone to play. Also thanks to this big spread, you can apply mods like DoubleTime or HardRock to lower difficulties and make the map rather more spicy, if you are proficient enough at the game that is. All this leads to tons of replayability to be had. I won't delve into all difficulties and how they play individually, due to how many there are, so go check out what's in it for you, oh yeah!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [Shoegazer](https://osu.ppy.sh/users/2520707) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

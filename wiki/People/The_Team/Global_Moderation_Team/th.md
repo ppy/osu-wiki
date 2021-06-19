@@ -66,7 +66,6 @@ tags:
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | ตุรกี | ผู้ดูแลแชท |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | สเปน | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้ดูแลบีทแมพ |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | ผู้ดูแลแชท, ผู้สนับสนุนทางเทคนิค |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | สเปน | ทัวร์นาเมนต์ |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | ผู้สนับสนุนทางเทคนิค |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | โปรตุเกส, ญี่ปุ่น | ผู้ดูแลแชท |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | ผู้สนับสนุนผู้เล่น, ผู้ดูแลวิกิ |
@@ -112,7 +111,6 @@ tags:
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | สเปน | ผู้สนับสนุนทางเทคนิค |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | โปแลนด์ | ผู้ดูแลแชท |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | โปแลนด์ | ผู้ดูแลแชท, ผู้ดูแลบีทแมพ |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | สเปน | ทัวร์นาเมนต์, ผู้ดูแลแชท, ผู้ดูแลวิกิ |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | โปแลนด์ | ผู้ดูแลแชท |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | ผู้ดูแลแชท |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | ตุรกี, เยอรมัน | ผู้ดูแลแชท, ผู้ดูแลบีทแมพ |
@@ -147,7 +145,7 @@ tags:
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
@@ -158,7 +156,6 @@ tags:
 [flag_AU]: /wiki/shared/flag/AU.gif "ออสเตรเลีย"
 [flag_BR]: /wiki/shared/flag/BR.gif "บราซิล"
 [flag_CH]: /wiki/shared/flag/CH.gif "สวิตเซอร์แลนด์"
-[flag_CL]: /wiki/shared/flag/CL.gif "ชิลี"
 [flag_DE]: /wiki/shared/flag/DE.gif "เยอรมนี"
 [flag_ES]: /wiki/shared/flag/ES.gif "สเปน"
 [flag_FI]: /wiki/shared/flag/FI.gif "ฟินแลนด์"

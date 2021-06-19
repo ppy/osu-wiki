@@ -21,7 +21,7 @@ Expert mathematicians might notice that this whole schedule doesn't fit within a
 
 ## Beatmapping
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 We have two goals here at MBC headquarters: to create mapping contests every month and to ensure those contests aren't repetitive. It's a tough act to balance, which is why we have **limitations** — mapping restrictions that submissions need to follow, like "straight sliders only" or "circles cannot be used" or "you must map with your eyes closed". We unfortunately haven't tried that last one yet.
 
@@ -54,7 +54,7 @@ If you're brave enough to map anything other than a swing song with this limitat
 
 Entries must be 4K or 7K maps, meaning that 5K, 6K, 8K, 9K, and 10K entries are excluded from this edition. 
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each MBC provides beatmappers a choice between songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 

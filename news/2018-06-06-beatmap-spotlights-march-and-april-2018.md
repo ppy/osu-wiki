@@ -27,10 +27,10 @@ Thanks to everybody who followed along the project for the past few years, and w
 
 ### Navigation
 
-- [March Spotlighted Maps](#march)
-- [April Spotlighted Maps](#april)
+- [March Spotlighted Maps](#march-2018-spotlights)
+- [April Spotlighted Maps](#april-2018-spotlights)
 
-## <a name="march" id="march"></a>March 2018 Spotlights
+## March 2018 Spotlights
 
 ### osu!
 
@@ -105,7 +105,7 @@ After previously producing one of the most dramatic and exhilarating matches of 
 
 **The Spotlights team did not find any maps they felt were worthy of the Spotlights this month.**
 
-## <a name="april" id="april"></a>April 2018 Spotlights
+## April 2018 Spotlights
 
 ### osu!
 

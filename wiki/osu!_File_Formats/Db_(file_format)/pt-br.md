@@ -84,8 +84,8 @@ Alguns tipos de dados específicos do osu!.db estão definidos abaixo.
 | Int | Tempo total, em milissegundos |
 | Int | Tempo quando o audio preview quando selecionando um beatmap na seleção de beatmap começa, em milissegundos. |
 | Timing point+ | Um Int indicando o número do seguintes Timing points, e então os mencionados Timing points. |
+| Int | ID do dificuldade |
 | Int | ID do beatmap |
-| Int | ID do beatmap set |
 | Int | ID da thread |
 | Byte | Nota alcançada no osu! standard. |
 | Byte | Nota alcançada no Taiko. |

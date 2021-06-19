@@ -10,7 +10,7 @@ Ready for another round of [Project Loved](https://osu.ppy.sh/community/forums/1
 
 Welcome back to [Project Loved](https://osu.ppy.sh/community/forums/120)! Every two weeks, we pick out a few beatmaps from each game mode that will get their shot at making it into the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). From the maps we selected, you can now vote whether or not you want them to be Loved! Click on each map's header image in this post to be taken to its voting thread.
 
-Once again, we're seeing a change in the number of picks for certain modes this week! osu!taiko is bumping up its map count to **five**, one more than the four of previous rounds. In the opposite direction, osu!mania will actually be skipping out on picking maps this time due to community concerns—please see the note from the captains in the [osu!mania section](#osumania) of this post!
+Once again, we're seeing a change in the number of picks for certain modes this week! osu!taiko is bumping up its map count to **five**, one more than the four of previous rounds. In the opposite direction, osu!mania will actually be skipping out on picking maps this time due to community concerns—please see the note from the captains in the [osu!mania section](#osu!mania) of this post!
 
 Also, just to clarify something about the format of these posts: the writers of the beatmap descriptions are *not necessarily* the people that chose the map, though that's often the case. If you have concerns about a particular map being nominated, please contact the whole set of captains associated with the map's game mode, preferably through the `#osu-loved` channel in the [osu!dev Discord server](https://discord.gg/ppy).
 
@@ -18,12 +18,12 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207), [fartownik](https://osu.ppy.sh/users/56917), [SoraRoxas01](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -99,7 +99,7 @@ If you have ever played Sing's maps, you know them to be very slider heavy and t
 
 Another spicy Yusomi mapset has appeared for Loved voting! Yusomi has mapped this quite fitting to the remix of the song, where it is brutal, but fun to play. With very fast sliders throughout the song, large jumps, spaced streams and bursts, this map will definitely be hard to pass for most people. Even with the difficulty of the map being 7.2 stars, there are two different difficulties that cater to people that prefer to read either AR 9.5 or AR 10. Will your fingers be able to survive the whole six minutes of this map while enjoying this great song?
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [Backfire](https://osu.ppy.sh/users/263110), [iceOC](https://osu.ppy.sh/users/5482401) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -140,7 +140,7 @@ If I were given a choice to pick what map I found the most impressive, artistic 
 
 Pavor Nocturnus really has quite a background, as not only was it featured in TWC 2018 as one of the Finals No Mod picks, it also had a lot of competition (as you can see on its map description), where a lot of really good players tried their best to get nice scores in a map with a style really ahead of its time. With extremely hard-to-read patterns and the constant use of finishers that might catch you off-guard, Pavor Nocturnus really is one of the most satisfactory maps to get a good score in. Good luck!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Zak](https://osu.ppy.sh/users/1375955)! This week, all osu!catch beatmap descriptions were written by [Sartan](https://osu.ppy.sh/users/4100941).
 
@@ -162,7 +162,7 @@ The CWC created the "togtfo" meme, the OWC polished it, and this map will finish
 
 The catchy song will definitely help with replayability, as well as the fact that the map isn't too long. In my opinion, it is a lot of fun to play; I enjoyed playing this in CWC and did play it a few times after in solo and multiplayer as well. Go download this wonderful piece!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 There are no candidates for osu!mania this week. Here is a note from [stupud man](https://osu.ppy.sh/users/2141612), one of the osu!mania captains, about the situation:
 

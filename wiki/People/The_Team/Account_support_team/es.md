@@ -28,17 +28,17 @@ Debe contactar con este equipo para tratar temas relacionados con la cuenta que 
 
 - [Apelaciones de las restricciones colocadas en su cuenta](/wiki/Help_Centre/Account_Restrictions), incluyendo los silencios y las eliminaciones del contenido de su perfil.
 - Casos de mal comportamiento que [desea admitir](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-roken-the-rules?).
-- [Pérdida de acceso al correo electrónico](/wiki/Help_Centre#sign-in) ligado a tu cuenta de osu!, o cuando tu cuenta es robada.
-- Nombre de usuario [revierte y realiza pequeñas correcciones ortográficas](/wiki/Help_Centre#name-changes).
+- [Pérdida de acceso al correo electrónico](/wiki/Help_Centre/Installation_and_registration#sign-in) ligado a tu cuenta de osu!, o cuando tu cuenta es robada.
+- Nombre de usuario [revierte y realiza pequeñas correcciones ortográficas](/wiki/Help_Centre/Account#name-changes).
 - [Registros de cuenta bot](/wiki/Cuenta_bot).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-- [Cuestiones de pago](/wiki/es/Help_Centre#supporter) para los pedidos de [osu!store](https://osu.ppy.sh/store/listing).
-- Problemas técnicos que no pudieron o no han sido resueltos en [el foro de ayuda](https://osu.ppy.sh/community/forums/5), como [problemas de conectividad](/wiki/Help_Centre#online-fatures).
+- [Cuestiones de pago](/wiki/Help_Centre/Account#supporter) para los pedidos de [osu!store](https://osu.ppy.sh/store/listing).
+- Problemas técnicos que no pudieron o no han sido resueltos en [el foro de ayuda](https://osu.ppy.sh/community/forums/5), como [problemas de conectividad](/wiki/Help_Centre/Client#online-fatures).
 - Preocupaciones sobre el comportamiento de un moderador.
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Solicitudes de datos]( /wiki/Legal/Privacy#data-controller) y preocupaciones de privacidad.
+- [Solicitudes de datos](/wiki/Legal/Privacy#data-controller) y preocupaciones de privacidad.
 - **Permanente** [solicitudes de eliminación de cuentas](/wiki/Legal/Privacy#your-rights-and-control) para residentes de la UE ([GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation "Wikipedia") cobertura).

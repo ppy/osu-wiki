@@ -16,12 +16,12 @@ With that out of the way, let's move onto the maps!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207) and [waywern2012](https://osu.ppy.sh/users/5870453)! This round, all osu! beatmap descriptions were written by [Bubbleman](https://osu.ppy.sh/users/5182050).
 
@@ -118,7 +118,7 @@ You've seen high star rating jump maps, yes. You may also have seen high star ra
 
 All-in-all, it is a real fun time, so go give it a go and see if you can work your way up to the top!
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [KuroKuroKuro](https://osu.ppy.sh/users/11931563) and [POCARI SWEAT](https://osu.ppy.sh/users/5082685)!
 
@@ -169,7 +169,7 @@ the lower end might strike a challenge that demands a skill set not often encoun
 
 On the other side of things, yassu-'s diff *DJ MOKOJI* works as a heavy stamina speed map that could easily be a difficult challenge to most of the aliens in the osu!taiko community!
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Spectator](https://osu.ppy.sh/users/702598), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
 
@@ -221,7 +221,7 @@ Being nominated as a No Mod pick in osu!catch World Cup 2020 Round of 16, this m
 
 Jemzuu is well-known for his technical yet clean mapping style, and I'd say this one is more close to his 'classical' style, focusing more on good flow and playability. If you like his maps you shouldn't miss this one out!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Kawawa](https://osu.ppy.sh/users/4647754), [lenpai](https://osu.ppy.sh/users/5314573), [Penguinosity](https://osu.ppy.sh/users/10235296) and [Pope Gadget](https://osu.ppy.sh/users/2288341)!
 

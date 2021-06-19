@@ -14,7 +14,6 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 - [Compression de fichiers](Compressing_Files)
 - [Bibliothèque de hitsounds personnalisés](Custom_Hitsound_Library)
 - [Remplacement d'échantillons personnalisés](Custom_Sample_Overrides)
-- [Obtenir des chansons de jeux vidéo](Getting_Songs_From_Video_Games)
 - [Comment chronométrer les chansons](How_to_Time_Songs)
 - [Théorie de la musique](Music_Theory)
 - [Guide de mapping osu!mania](osu!mania_Mapping_Guide)

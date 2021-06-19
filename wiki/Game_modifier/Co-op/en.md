@@ -46,7 +46,7 @@ The following table only affects beatmaps converted from [osu!](/wiki/Game_mode/
 | 6K | 0.74x | 0.82x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.70x | 0.78x | 0.86x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
 
-*Note: The Co-op mod gives no penalty on osu!mania-specific beatmaps.**
+*Note: The Co-op mod gives no penalty on osu!mania-specific beatmaps.*
 
 A detailed explanation about the second playfield can be found in the [osu!mania page under "Co-op"](/wiki/Game_mode/osu!mania#co-op).
 

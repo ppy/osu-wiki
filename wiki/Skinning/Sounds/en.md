@@ -242,7 +242,7 @@ Notes:
 
 Notes:
 
-- Plays when switching into song selection, selecting a beatmap set, opening dropdown boxes, opening chat tabs.
+- Plays when switching into song selection, selecting a beatmap, opening dropdown boxes, opening chat tabs.
 
 ---
 
@@ -250,7 +250,7 @@ Notes:
 
 Notes:
 
-- Plays when selecting a difficulty of a beatmap set.
+- Plays when selecting a difficulty of a beatmap.
 
 ---
 

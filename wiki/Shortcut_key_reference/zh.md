@@ -283,7 +283,7 @@ tags:
 | `Ctrl` + `C` | 复制所选素材 |
 | `Ctrl` + `V` | 在当前位置粘贴所选素材 *小提示：除非保存并重新加载谱面，否则粘贴的素材不会显示在图层列表中。* |
 | `Delete` | 从图层中删除选定的素材 |
-| `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/Glossary#osupixel) 的标准微调所选素材 |
+| `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/osupixel) 的标准微调所选素材 |
 
 ### Timing
 

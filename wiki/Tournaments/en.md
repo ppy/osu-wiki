@@ -234,7 +234,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Non-Professional Cup 2](NPC/2) | 2020-05-30 | 2020-07-12  | WeHatePP | Alek & Friends | OSBT Sqaud |
+| [Non-Professional Cup 2](NPC/2) | 2020-05-30 | 2020-07-12 | WeHatePP | Alek & Friends | OSBT Sqaud |
 
 ### ![](/wiki/shared/mode/osu.png) Indonesian Draft Cup
 
@@ -328,7 +328,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Ausu!Taiko Tournament 2019](ATT/2019) | 2019-07-13 | 2019-08-11 | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
 | [Ausu!Taiko Tournament 2020](ATT/2020) | 2020-05-09 | 2020-06-07 | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| [Ausu!Taiko Tournament 2021](ATT/2021) | 2021-04-24 | 2021-05-23 | - | - | - |
+| [Ausu!Taiko Tournament 2021](ATT/2021) | 2021-04-24 | 2021-05-23 | ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
@@ -503,6 +503,27 @@ Unofficial tournaments/competitions hosted by the communities.
 | [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 | [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) (osu!), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) (osu!mania) | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_CA] [Dark lord bob](https://osu.ppy.sh/users/4588299) (osu!mania) |
 
+### ![](/wiki/shared/mode/osu.png) osu! UK Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [UK osu!standard tournament!](OUKT/1) | 2013-11-11 | 2014-1-11 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193) | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
+| [UK osu!standard tournament 2](OUKT/2) | 2014-03-15 | 2014-04-20 | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
+| [osu! UK Tournament 3](OUKT/3) | 2014-06-28 | 2014-08-10 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116) | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
+| [osu! UK Tournament 4](OUKT/4) | 2015-01-10 | 2015-08-21 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | N/A |
+| [osu! UK Tournament 5](OUKT/5) | 2015-09-12 | 2016-04-23 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [Kakiage](https://osu.ppy.sh/users/3104031) |
+
+### ![](/wiki/shared/mode/osu.png) Corgi Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Corgi Cup: June 2016](CC/1) | 2016-06-17 | 2016-06-19 | ![][flag_GB] [rafalbrew](https://osu.ppy.sh/users/3872602) | ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226) | ![][flag_US]  [zelda101](https://osu.ppy.sh/users/4502238) |
+| [Corgi Cup: September 2016](CC/2) | 2016-08-23 | 2016-09-11 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026) |
+| [Corgi Cup III: April 2017](CC/3) | 2017-03-03 | 2017-04-30 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
+| [Corgi Cup IV: September 2017](CC/4) | 2017-08-18 | 2017-10-29 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
+| [Corgi Cup V](CC/5) | 2018-03-05 | 2018-05-13 | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
+| [Corgi Cup VI](CC/6) | 2019-03-09 | 2019-05-26 | ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262) | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) |
+
 ## See also
 
 - [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
@@ -532,6 +553,7 @@ Unofficial tournaments/competitions hosted by the communities.
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"

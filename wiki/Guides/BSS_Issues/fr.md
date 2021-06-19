@@ -6,7 +6,7 @@ tags:
 
 # Problème avec le BSS
 
-Si le **[Système de Soumission de Beatmap](/wiki/Glossary#bss)** (***BSS***) ne vous laisse pas soumettre votre propre beatmap car il dit que ce n’est pas votre propre beatmap puis faites ce qui suit :
+Si le **[Système de Soumission de Beatmap](/wiki/Submission)** (***BSS***) ne vous laisse pas soumettre votre propre beatmap car il dit que ce n’est pas votre propre beatmap puis faites ce qui suit :
 
 1. Allez dans le dossier beatmap.
    - Vous pouvez y accéder facilement en allant dans `File` puis `Open Song Folder` dans l’[éditeur de beatmap](/wiki/Beatmap_Editor).

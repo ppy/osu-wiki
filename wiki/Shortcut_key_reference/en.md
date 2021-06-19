@@ -247,7 +247,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `Shift` + `F` | Convert the selected slider into a hit circle stream (opens a dialog). |
 | `Ctrl` + `Left/Right/Up/Down Arrow` | Nudge the selected notes in the pressed direction. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Left/Right Arrow` | Move selected objects left or right one column. (osu!mania) |
-| `Ctrl` + `Up/Down Arrow` | Move selected objects up or down one tick in time. (osu!mania) |
+| `Ctrl` + `Up/Down Arrow` | Move selected objects up or down 1 divisor. (osu!mania) |
 
 #### Hitsounding
 
@@ -280,7 +280,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `C` | Copy the selected sprite. |
 | `Ctrl` + `V` | Paste the sprite at the current time. *Note: Pasted sprites will not be shown on the layer list until the beatmap is saved and reloaded.* |
 | `Delete` | Remove the selected sprite from the layer. |
-| `W`, `A`, `S`, `D` | Nudge the selected sprite up, left, down, or right respectively one [osu!pixel](/wiki/Glossary#osupixel). |
+| `W`, `A`, `S`, `D` | Nudge the selected sprite up, left, down, or right respectively one [osu!pixel](/wiki/osupixel). |
 
 ### Timing
 

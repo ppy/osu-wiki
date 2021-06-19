@@ -21,7 +21,7 @@ That said, you'll see results for last month's overlap-themed contest near the e
 
 ## Beatmapping
 
-### <a id="limitation"></a>Limitation
+### Limitation
 
 Each MBC features a different mapping restriction to take mappers out of their comfort zone. The contest a couple months ago disallowed sliders, so this month we'll look at the other end of the spectrum.
 
@@ -29,7 +29,7 @@ This month's limitation: **circles cannot be used.**
 
 Anyone who's attempted slider-only mapping knows 1/4 rhythms can be difficult to express, so we chose some songs filled with 1/4 to make things extra fun. You're welcome.
 
-### <a id="songs"></a>Songs
+### Songs
 
 Each MBC provides beatmappers a choice between 5 songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 

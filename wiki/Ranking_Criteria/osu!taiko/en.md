@@ -102,7 +102,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **If a 1/3 pattern is used, the patterns must stay simplistic.** Finisher notes must not be used in patterns as such.
 - **Notes must be at least 1/3 of a beat apart.** Anything faster is too complex for beginner players.
 
-If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmapset, it must also abide by these rules:
+If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmap, it must also abide by these rules:
 
 - **Notes must be at least 1/2 of a beat apart.** Anything faster is too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
 
@@ -115,7 +115,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - **At least 1 rest moment that is 2/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Simple Slider velocity changes may be used.**
 
-If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
+If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmap, it should also follow these guidelines:
 
 - **1/2 patterns should not be longer than five notes.**
 - **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.

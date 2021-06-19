@@ -119,7 +119,7 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 | :-- | :-- | :-- | :-- |
 | `Resolution` | Set the game client resolution. The listed resolutions are limited to what your monitor/GPU supports. | Dropdown |  |
 | `Fullscreen mode` | Run the game client in fullscreen (usually decreases input latency). | Checkbox | `Enabled` |
-| `Render at native resolution' | Use the full native resolution but will display osu! in a smaller centered portion of the screen. | Checkbox | `Enabled` |
+| `Render at native resolution` | Use the full native resolution but will display osu! in a smaller centered portion of the screen. | Checkbox | `Enabled` |
 | `Horizontal position` | Adjust horizontal offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | Slider | `0%` |
 | `Vertical position` | Adjust vertical offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | Slider | `0%` |
 

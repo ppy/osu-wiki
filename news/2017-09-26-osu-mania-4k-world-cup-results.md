@@ -12,8 +12,8 @@ At long last, we've finally reached the end of the osu!mania 4K World Cup! Here'
 
 - [Results](#results)
 - [Recap](#recap)
-- [Mappool](#mappool)
-- [Tournament Matches](#matches)
+- [Mappool](#firstly,-a-word-from-our-mappool-selectors)
+- [Tournament Matches](#tournament-matches)
 
 ---
 
@@ -21,7 +21,7 @@ Over the course of osu!mania 4K World Cup history, never has there been a tourna
 
 Let's not wait any longer - it's time to announce the results of the osu!mania 4K World Cup!
 
-## <a name="results" id="results"></a>Results
+## Results
 
 ![](/wiki/shared/news/2017-09-26-osu-mania-4k-world-cup-results/podium.jpg)
 
@@ -45,17 +45,17 @@ Brazil was also a team that consisted of new and old blood, resulting in an over
 
 Brazil will receive $40 per team member, as well as exclusive osu! pins and merchandise, and a unique profile badge. Well done to them!
 
-## <a name="recap" id="recap"></a>Recap
+## Recap
 
 In celebration of the success of this tournament, let's briefly recount the events that transpired over the past 2 weeks.
 
-### <a name="mappool" id="mappool"></a>Firstly, a word from our Mappool Selectors
+### Firstly, a word from our Mappool Selectors
 
 *"With regards to the Finals Mappool, we really don't have an awful lot to say. It's great that what we aimed with the tiebreaker actually happened - we wanted the players to be **ULTRA** nervous on the break because they would be able to see the score difference between the teams. We are certainly happy that the tiebreaker was played despite the unfortunate internet incident.*
 
 *I guess the only thing that was a bit disconcerting was the slight lack of speed picks and the recurring bans on the same maps, but a tiebreaker match more than made up for that (considering it has never happened before!). Overall, it's been a pleasure to have taken part in the map selecting process."*
 
-### <a name="matches" id="matchesl"></a>Tournament Matches
+### Tournament Matches
 
 **Week 1**
 

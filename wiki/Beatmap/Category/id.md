@@ -9,27 +9,30 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 **Beatmap** merupakan istilah yang merujuk pada level-level permainan yang tersedia untuk dimainkan. Tiap-tiap berkas beatmap mengandung berbagai informasi yang terkait dengan aspek-aspek yang hadir di dalam permainan seperti [*hit object*](/wiki/Hit_Objects), [*timing*](/wiki/Beatmap_Editor/Timing), metadata, pengaturan tingkat kesulitan *(difficulty setting)*, efek-efek visual, dan lain sebagainya.
 
-Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](Beatmapsets)** utuh. Kamu dapat menjumpai beragam jenis beatmapset yang telah [diunggah ke situs osu!](/wiki/Glossary#bss) pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets), di mana pada masing-masing beatmapset tersebut kamu akan dihadapkan dengan satu atau lebih [tingkat kesulitan](/wiki/Beatmap/Difficulty) di dalamnya.
+Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](Beatmapsets)** utuh. Kamu dapat menjumpai beragam jenis beatmapset yang telah [diunggah ke situs osu!](/wiki/Submission) pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets), di mana pada masing-masing beatmapset tersebut kamu akan dihadapkan dengan satu atau lebih [tingkat kesulitan](/wiki/Beatmap/Difficulty) di dalamnya.
 
 ## Status beatmap
 
 Beatmap-beatmap yang telah diunggah ke situs osu! terbagi ke dalam beberapa kategori status berdasarkan tingkat aktivitas, status nominasi, dan popularitas dari beatmap-beatmap yang bersangkutan sebagai berikut:
 
-- [Graveyard](#graveyard)
-- [Work in Progress / Pending](#work-in-progress-dan-pending)
-- [Qualified](#qualified)
-- [Ranked](#ranked)
-- [Loved](#loved)
+- [Beatmap](#beatmap)
+  - [Status beatmap](#status-beatmap)
+    - [Graveyard](#graveyard)
+    - [Work in Progress dan Pending](#work-in-progress-dan-pending)
+    - [Qualified](#qualified)
+    - [Ranked](#ranked)
+    - [Approved](#approved)
+    - [Loved](#loved)
 
 ### Graveyard
 
 Graveyard merupakan status beatmap yang disematkan kepada beatmap-beatmap yang telah lama diabaikan oleh pembuatnya. Suatu beatmap yang berstatus [Work in Progress dan Pending](#work-in-progress-dan-pending) akan secara otomatis dipindahkan ke dalam Graveyard apabila beatmap yang bersangkutan tidak diperbaharui selama 4 minggu. Beatmap-beatmap yang berstatus Graveyard tidak dilengkapi dengan *leaderboard* dan tidak berpengaruh terhadap statistik permainan yang muncul di halaman profil pemain, namun tetap dapat diunduh dan dimainkan seperti biasa. Adapun beatmap-beatmap ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) yang dapat dilihat pada pojok kiri atas layar Song Selection.
 
-Suatu beatmap yang telah jatuh ke dalam Graveyard akan secara otomatis kembali ke status [Pending](#work-in-progress-dan-pending) apabila beatmap tersebut diperbaharui melalui [Beatmap Submission System](/wiki/Glossary#bss).
+Suatu beatmap yang telah jatuh ke dalam Graveyard akan secara otomatis kembali ke status [Pending](#work-in-progress-dan-pending) apabila beatmap tersebut diperbaharui melalui [Beatmap Submission System](/wiki/Submission).
 
 ### Work in Progress dan Pending
 
-Work in Progress (umumnya disingkat sebagai *WIP*) dan Pending merupakan status-status beatmap yang disematkan kepada beatmap-beatmap yang masih berada dalam tahap pengerjaan ataupun penyempurnaan. Beatmap-beatmap ini dapat berpindah ke dalam kategori [Qualified](#qualified) apabila beatmap-beatmap yang bersangkutan dinilai telah dinilai layak dari segi kualitas dan telah [dinominasikan](/wiki/Beatmap_ranking_procedure#nominations) oleh setidaknya dua orang anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). Sebelum mencapai status Qualified, suatu beatmap pada umumnya akan terlebih dahulu dikaji dan disempurnakan oleh para [*modder*](/wiki/Glossary#modder) melalui proses [*modding*](/wiki/Modding). Adapun beatmap-beatmap ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/pending.png)) yang dapat dilihat pada pojok kiri atas layar Song Selection.
+Work in Progress (umumnya disingkat sebagai *WIP*) dan Pending merupakan status-status beatmap yang disematkan kepada beatmap-beatmap yang masih berada dalam tahap pengerjaan ataupun penyempurnaan. Beatmap-beatmap ini dapat berpindah ke dalam kategori [Qualified](#qualified) apabila beatmap-beatmap yang bersangkutan dinilai telah dinilai layak dari segi kualitas dan telah [dinominasikan](/wiki/Beatmap_ranking_procedure#nominations) oleh setidaknya dua orang anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). Sebelum mencapai status Qualified, suatu beatmap pada umumnya akan terlebih dahulu dikaji dan disempurnakan oleh para [*modder*](/wiki/Modding/Modder) melalui proses [*modding*](/wiki/Modding). Adapun beatmap-beatmap ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/pending.png)) yang dapat dilihat pada pojok kiri atas layar Song Selection.
 
 Sebagaimana yang telah dijelaskan sebelumnya, suatu beatmap yang berstatus Work in Progress dan Pending akan secara otomatis dipindahkan ke dalam [Graveyard](#graveyard) apabila beatmap yang bersangkutan tidak diperbaharui selama 4 minggu.
 

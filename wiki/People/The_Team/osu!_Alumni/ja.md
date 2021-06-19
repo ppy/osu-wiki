@@ -1,12 +1,10 @@
----
-outdated: true
----
-
 # osu! Alumni
 
-**osu! Alumni** は彼らが貢献していたことを知らせるものです。 [Link](https://osu.ppy.sh/groups/16)
+**osu! Alumni**とは、その貢献が知られていても、今は亡き人たちのことです。財源があれば、町の広場にそれぞれのメンバーのための銅像を建てることができます。
 
-| Name | Epitaph |
+[osu! Alumniグループページ](https://osu.ppy.sh/groups/16)には、すべてのメンバーがリストアップされています。
+
+| 名前 | 過去の役職 |
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT、GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | チャットモデレーター |
@@ -221,6 +219,7 @@ outdated: true
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT、サポートチーム |
 | ![][flag_PH] [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | GMT、トーナメント運営 |
 | ![][flag_KR] [Where](https://osu.ppy.sh/users/549172) | GMT |
 | ![][flag_US] [whymeman](https://osu.ppy.sh/users/51994) | GMT |
 | ![][flag_ID] [Winshley](https://osu.ppy.sh/users/864895) | チャットモデレーター |
