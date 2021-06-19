@@ -328,7 +328,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Ausu!Taiko Tournament 2019](ATT/2019) | 2019-07-13 | 2019-08-11 | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
 | [Ausu!Taiko Tournament 2020](ATT/2020) | 2020-05-09 | 2020-06-07 | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| [Ausu!Taiko Tournament 2021](ATT/2021) | 2021-04-24 | 2021-05-23 | - | - | - |
+| [Ausu!Taiko Tournament 2021](ATT/2021) | 2021-04-24 | 2021-05-23 | ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
