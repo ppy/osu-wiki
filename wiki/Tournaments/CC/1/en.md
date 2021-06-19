@@ -42,7 +42,7 @@ Corgi Cup: June 2016 was run by various community members by distributing the mu
 | Mappool selector | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_PL] [Wilchq](https://osu.ppy.sh/users/2021758) |
 | Streamer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 | Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [- Isozaki -](https://osu.ppy.sh/users/3987676), ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378) |
-| Designer | ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
+| Designer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 | Referee | ![][flag_RS] [SirCircle](https://osu.ppy.sh/users/3794917), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710) |
 
 ## Links
