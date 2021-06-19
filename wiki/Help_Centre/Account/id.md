@@ -72,7 +72,7 @@ Berikut merupakan beberapa contoh informasi yang dapat membantu kami dalam memul
 
 Apabila kamu mampu, ikuti instruksi-instruksi yang tertera pada laman yang bersangkutan untuk dapat memulihkan akunmu sepenuhnya.
 
-Sebaliknya, apabila kamu tidak mampu, harap segera hubungi layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan menerakan informasi selengkap-lengkapnya seputar akun yang kamu miliki.
+Sebaliknya, apabila kamu tidak mampu, harap segera hubungi layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan mencantumkan informasi selengkap-lengkapnya seputar akun yang kamu miliki.
 
 Kami sangat menyarankan kamu untuk menghubungi kami melalui alamat email yang kamu pertama kali gunakan untuk mendaftarkan akunmu. Di samping itu, kami juga akan sangat terbantu apabila kamu dapat menyertakan informasi seputar hal-hal yang sekiranya hanya dapat diketahui olehmu dan tim kami.
 
