@@ -103,7 +103,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 | #181 | ![][flag_AU] [r1chyy](https://osu.ppy.sh/users/11499467) |
 | #198 | ![][flag_CH] [MC2BP](https://osu.ppy.sh/users/11296097) |
 | #200 | ![][flag_TW] [cat1346](https://osu.ppy.sh/users/10079336) |
-| #209 | ![][flag_US] [HoopWheat](https://osu.ppy.sh/users/12177903) |
+| #209 | ![][flag_US] [Xok](https://osu.ppy.sh/users/12177903) |
 | #210 | ![][flag_BR] [FurryBoujee](https://osu.ppy.sh/users/12630336) |
 | #211 | ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) |
 | #218 | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
@@ -192,6 +192,49 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Match results
 
+### Swiss week 3
+
+Saturday, 29 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Skull Kid** ![][flag_BR] | **7** | 2 | ![][flag_GB] Daniels | [#1](https://osu.ppy.sh/community/matches/84433215) |
+| uranosu1030 ![][flag_JP] | 0 | **7** | ![][flag_RU] **Den4ik228** | [#1](https://osu.ppy.sh/community/matches/84465490) |
+| oL0 ![][flag_KR] | 0 | **7** | ![][flag_IT] **Ikkun** | *win by default* |
+| MEGAMELA ![][flag_FI] | 2 | **7** | ![][flag_AU] **r1chyy** | [#1](https://osu.ppy.sh/community/matches/84478349) |
+| D3kuu ![][flag_IT] | 2 | **7** | ![][flag_HK] **J a c k y** | [#1](https://osu.ppy.sh/community/matches/84480902) |
+| Konpaku Sariel ![][flag_KR] | 1 | **7** | ![][flag_DE] **Minekuchi** | [#1](https://osu.ppy.sh/community/matches/84480812) |
+| bernard351 ![][flag_PL] | 0 | **7** | ![][flag_GR] **Genjuro** | *win by default* |
+| **Saikoro** ![][flag_JP] | **7** | 5 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/84480557) |
+| **Jakads** ![][flag_KR] | **7** | 0 | ![][flag_BR] FurryBoujee | [#1](https://osu.ppy.sh/community/matches/84490679) |
+| mangomizer ![][flag_GB] | 6 | 6 | ![][flag_KZ] Lynerrr | [#1](https://osu.ppy.sh/community/matches/84490085) |
+| **Sparxe** ![][flag_NZ] | **7** | 0 | ![][flag_US] Xok | [#1](https://osu.ppy.sh/community/matches/84502111) |
+| **XOlifreX** ![][flag_BE] | **7** | 4 | ![][flag_MX] -Arato | [#1](https://osu.ppy.sh/community/matches/84512784) |
+| **petterde** ![][flag_NO] | **7** | 4 | ![][flag_CA] honkers | [#1](https://osu.ppy.sh/community/matches/84510637) |
+| **Vulkin** ![][flag_CL] | **7** | 0 | ![][flag_BR] Gustav0eiji | *win by default* |
+| **5henry** ![][flag_KR] | **7** | 1 | ![][flag_US] Garpo | [#1](https://osu.ppy.sh/community/matches/84528261) |
+
+Sunday, 30 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| yu-k1\_ ![][flag_JP] | 3 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/84530548) |
+| gaston\_2199 ![][flag_AR] | 4 | **7** | ![][flag_TW] **Yuemiao** | [#1](https://osu.ppy.sh/community/matches/84530538) |
+| \_knots ![][flag_US] | 3 | **7** | ![][flag_TH] **Ponamis** | [#1](https://osu.ppy.sh/community/matches/84536450) |
+| shakegohan\_jar ![][flag_JP] | 0 | **7** | ![][flag_KR] **GoZaRaNi** | *win by default* |
+| \_Llama ![][flag_TW] | 0 | **7** | ![][flag_ID] **Naverlyn** | [#1](https://osu.ppy.sh/community/matches/84543937) |
+| **AuroraPhasmata** ![][flag_US] | **7** | 4 | ![][flag_TW] cat1346 | [#1](https://osu.ppy.sh/community/matches/84547556) |
+| **Cookie\_tree** ![][flag_NL] | **7** | 3 | ![][flag_RU] CrowWhite | [#1](https://osu.ppy.sh/community/matches/84549682) |
+| **LordEnder** ![][flag_IT] | **7** | 5 | ![][flag_KR] phosphene47 | [#1](https://osu.ppy.sh/community/matches/84552288) |
+| BananaW ![][flag_FR] | 0 | **7** | ![][flag_CH] **MC2BP** | *win by default* |
+| **Raytoly** ![][flag_TH] | **7** | 0 | ![][flag_RU] Akonine | *win by default* |
+| \[Zeth\] ![][flag_MY] | 1 | **7** | ![][flag_JP] **Ku\_Ren** | [#1](https://osu.ppy.sh/community/matches/84554169) |
+| nananass ![][flag_JP] | 4 | **7** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/84556889) |
+| Teezel ![][flag_GB] | 2 | **7** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/84562591) |
+| **\_Doodle\_** ![][flag_AR] | **7** | 2 | ![][flag_IT] A-40 | [#1](https://osu.ppy.sh/community/matches/84573527) |
+| cheese salad ![][flag_US] | 2 | **7** | ![][flag_US] **Etholux** | [#1](https://osu.ppy.sh/community/matches/84576391) |
+| **Don Omar** ![][flag_UA] | **7** | 4 | ![][flag_BR] Coryn | [#1](https://osu.ppy.sh/community/matches/84582425) |
+
 ### Swiss week 2
 
 Saturday, 22 May 2021:
@@ -213,7 +256,7 @@ Saturday, 22 May 2021:
 | HiroK ![][flag_BR] | 6 | 6 | ![][flag_UA] Don Omar | [#1](https://osu.ppy.sh/community/matches/83967184%3E) |
 | bernard351 ![][flag_PL] | 0 | **7** | ![][flag_DE] **Minekuchi** | [#1](https://osu.ppy.sh/community/matches/83972320) |
 | **Ppus** ![][flag_BR] | **7** | 4 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/83972157) |
-| **HoopWheat** ![][flag_US] | **7** | 1 | ![][flag_FI] MEGAMELA | [#1](https://osu.ppy.sh/community/matches/83976915) |
+| **Xok** ![][flag_US] | **7** | 1 | ![][flag_FI] MEGAMELA | [#1](https://osu.ppy.sh/community/matches/83976915) |
 | **petterde** ![][flag_NO] | **7** | 0 | ![][flag_MX] -Arato | *win by default* |
 | **D3kuu** ![][flag_IT] | **7** | 3 | ![][flag_AR] gaston\_2199 | [#1](https://osu.ppy.sh/community/matches/83981978) |
 
@@ -252,7 +295,7 @@ Saturday, 15 May 2021:
 | mangomizer ![][flag_GB] | 5 | **7** | ![][flag_NZ] **Sparxe** | [#1](https://osu.ppy.sh/community/matches/83405606) |
 | **yu-ki\_** ![][flag_JP] | **7** | 2 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/83405707) |
 | HiroK ![][flag_BR] | 2 | **7** | ![][flag_BR] **Gustav0eiji** | [#1](https://osu.ppy.sh/community/matches/83413631), [#2](https://osu.ppy.sh/community/matches/83416800) |
-| **D3kuu** ![][flag_IT] | **7** | 1 | ![][flag_MY] HoopWheat | [#1](https://osu.ppy.sh/community/matches/83417440) |
+| **D3kuu** ![][flag_IT] | **7** | 1 | ![][flag_MY] Xok | [#1](https://osu.ppy.sh/community/matches/83417440) |
 | **Skull Kid** ![][flag_BR] | **7** | 2 | ![][flag_CH] MC2BP | [#1](https://osu.ppy.sh/community/matches/83418728) |
 | **\_knots** ![][flag_US] | **7** | 4 | ![][flag_BE] XOlifreX | [#1](https://osu.ppy.sh/community/matches/83422824) |
 | **LordEnder** ![][flag_IT] | **7** | 2 | ![][flag_BR] FurryBoujee | [#1](https://osu.ppy.sh/community/matches/83424964) |
