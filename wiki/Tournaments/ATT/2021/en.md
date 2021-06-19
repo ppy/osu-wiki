@@ -250,7 +250,7 @@ Saturday, 29 May 2021:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :-: | :-- |
 | apaajaboleh10 ![][flag_ID] | 3 | **7** | ![][flag_PH] **jmeh07** | [#1](https://osu.ppy.sh/community/matches/84478134) |
-| **Katdon\_donKat** ![][flag_ID] | 7 | 1 | ![][flag_PH] jmeh07 | [#1](https://osu.ppy.sh/community/matches/84490291) |
+| **Katdon\_donKat** ![][flag_ID] | **7** | 1 | ![][flag_PH] jmeh07 | [#1](https://osu.ppy.sh/community/matches/84490291) |
 
 ### Finals
 
