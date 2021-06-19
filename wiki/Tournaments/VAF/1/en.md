@@ -163,6 +163,33 @@ The Vaf's Autumn Fiesta is run by various community members.
   - [Teletexter - Super Sonic Raving (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1321693#taiko/2737702)
   - [Igorrr & Ruby My Dear - Figue Folle (-Kazu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/680739#taiko/1439297)
 
+### Swiss week 4
+
+**[Download the mappack here! (74 MB)](https://www.mediafire.com/file/hnxyyckq4znqd6m/MAPPACK_SWISS_4.zip/file)**
+
+- NoMod
+  - [Rainbowdragoneyes - Gods Of War 2007 - 2010 (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/831241#taiko/1741497)
+  - [Kaneko Chiharu - iLLness LiLin (Chromoxx) \[KTYN's Inner Oni\]](https://osu.ppy.sh/beatmapsets/918254#taiko/2417637)
+  - [Machine Girl - Out By 16, Dead on the Scene (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1116495#taiko/2351939)
+  - [8284 - Connaextion (Maimaing) \[?\]](https://osu.ppy.sh/beatmapsets/1479044#taiko/3034256)
+  - [DragonForce - Fallen World (Nofool) \[S T R E A M W O R L D\]](https://osu.ppy.sh/beatmapsets/491289#taiko/1046955)
+- Hidden
+  - [GaMetal - Count Cannoli (Greenshell) \[Purple Wind\]](https://osu.ppy.sh/beatmapsets/793368#taiko/1666161)
+  - [technoplanet feat. Haruno & Daisuke Kurosawa - Far Away Light (Raiden) \[Glimmer\]](https://osu.ppy.sh/beatmapsets/1459468#taiko/2998970)
+  - [tarolabo - gynandromorph (D3kuu) \[X XYY\]](https://osu.ppy.sh/beatmapsets/1185599#taiko/2471262)
+- HardRock
+  - [Arcaea Sound Team against. ETIA. - Singularity VVVIP (Raytoly) \[If You CCCAN\]](https://osu.ppy.sh/beatmapsets/1139960#taiko/2381084)
+  - [Amebre Kizami - Yuzukosho No Kanata (hoku) \[Hurry up ^-^\]](https://osu.ppy.sh/beatmapsets/1334765#taiko/2765079)
+  - [Starkill - Until We Fall (Raiden) \[Legendary (1.5)\]](https://osu.ppy.sh/beatmapsets/1471235#taiko/3020436)
+- DoubleTime
+  - [sasakure.UK - Epitorica no Matsuri (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1167959#taiko/2436820)
+  - [Sasaki Sayaka - Marine Blue ni Sotte (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/630650#taiko/1331306)
+  - [E.G.G. - OK I'm blue rat (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1184988#taiko/2470101)
+- FreeMod
+  - [Morimori Atsushi - Funkotsu Saishin Casino (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1028937#taiko/2151497)
+  - [Venetian Snares - Die Winnipeg Die Die Die Fuckers Die (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1126295#taiko/2354953)
+  - [cybermiso - Surveiller et punir (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/921181#taiko/1923626)
+
 ### Swiss week 3
 
 **[Download the mappack here! (88 MB)](https://www.mediafire.com/file/jz3c3oiuax5kpfo/MAPPACK+SWISS+3.zip/file)**
