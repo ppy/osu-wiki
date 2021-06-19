@@ -47,7 +47,7 @@ Pastikan kamu melampirkan bukti-bukti pembayaran yang terkait (semisal ID transa
 
 Apabila kamu tidak yakin mengapa akunmu di-*restrict*, kamu dapat meminta penjelasan kepada tim layanan dukungan kami. 
 
-Kamu juga dapat mengajukan banding terhadap status *restricted* yang kamu miliki. Dalam situasi di mana kamu telah terbukti melanggar, kamu harus menunggu setidaknya tiga (3) bulan terhitung dari tanggal pelanggaran terakhir yang kamu buat sebelum banding yang kamu ajukan dapat kami kabulkan.
+Kamu juga dapat mengajukan banding terhadap status *restricted* yang kamu miliki. Dalam situasi di mana kamu telah terbukti melanggar, kamu harus menunggu setidaknya tiga (3) bulan terhitung dari tanggal pelanggaran terakhir yang kamu lakukan sebelum banding yang kamu ajukan dapat kami terima.
 
 Harap kunjungi laman *[Pembatasan Akun](/wiki/Help_Centre/Account_Restrictions)* untuk informasi lebih lanjut mengenai sistem pembatasan akun dan proses banding yang berlaku.
 
@@ -57,11 +57,11 @@ Harap kunjungi laman *[Pembatasan Akun](/wiki/Help_Centre/Account_Restrictions)*
 
 **Apabila kamu masih memiliki akses ke alamat email yang kamu gunakan untuk mendaftar, harap ikuti instruksi-instruksi yang tertera pada [laman pemulihan kata sandi berikut](https://osu.ppy.sh/home/password-reset) untuk dapat memulihkan akunmu.**
 
-Apabila kamu sudah tidak lagi dapat mengakses alamat email yang bersangkutan karena satu dan lain hal, harap kirimi [tim layanan dukungan kami](mailto:accounts@ppy.sh) email yang berisikan informasi selengkap-lengkapnya seputar akun yang kamu miliki.
+Apabila kamu sudah tidak dapat mengakses alamat email yang bersangkutan karena satu dan lain hal, harap [kirimkan email kepada tim layanan dukungan kami](mailto:accounts@ppy.sh) yang berisikan informasi selengkap-lengkapnya seputar akun yang kamu miliki.
 
 Berikut merupakan beberapa contoh informasi yang dapat membantu kami dalam memulihkan akunmu:
 
-- Alamat email yang kamu pertama kali gunakan untuk mendaftarkan akunmu (serta alamat-alamat email lainnya yang berhubungan)
+- Alamat email yang kamu gunakan pertama kali untuk mendaftarkan akunmu (serta alamat-alamat email lainnya yang berhubungan)
 - Bukti-bukti pembelian osu!supporter tag (atau barang-barang lainnya dari osu!store) yang kamu miliki
 - Tanggal terakhir kamu mengakses akunmu
 - Informasi-informasi lainnya yang kamu rasa dapat membantu (kecuali skor dan *replay*)
@@ -84,7 +84,7 @@ Harap untuk tidak menyertakan informasi seputar skor-skor dan *replay-replay* ya
 
 Terdapat beberapa hal yang dapat kamu coba untuk menyelesaikan masalah ini:
 
-#### Apakah kamu sudah mengetikkan kata sandi milikmu dengan benar?
+#### Apakah kamu sudah memasukkan kata sandi milikmu dengan benar?
 
 Apabila kamu melupakan kata sandimu, kamu dapat mengatur kata sandi baru pada [laman pemulihan kata sandi berikut](https://osu.ppy.sh/home/password-reset).
 
@@ -98,9 +98,9 @@ Sepengetahuan kami, terdapat beberapa penyedia jasa layanan *proxy server* dan j
 
 **Harap kirimi kami berkas `network.log` milikmu agar kami dapat membantumu lebih lanjut.**
 
-Untuk mengetahui cara memperoleh berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/id/Help_Centre#Berkas-berkas_log).
+Untuk mengetahui cara mendapatkan berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/id/Help_Centre#Berkas-berkas_log).
 
-Kamu juga dapat meminta bantuan kepada pihak penyedia layanan internet (ISP) yang kamu gunakan. Terkadang, beberapa ISP tidak dapat terhubung dengan osu! karena sistem pengantaran paket jaringan (*routing*) mereka yang sedang bermasalah.
+Kamu juga dapat meminta bantuan kepada pihak penyedia layanan internet (*Internet Service Provider*/ISP) yang kamu gunakan. Terkadang, beberapa ISP tidak dapat terhubung dengan osu! karena sistem pengantaran paket jaringan (*routing*) mereka yang sedang bermasalah.
 
 ### Saya mendapatkan pesan dari situs web osu! yang memperingatkan bahwa saya telah terlalu banyak melakukan percobaan *login* yang tidak valid!
 
@@ -108,7 +108,7 @@ Kamu juga dapat meminta bantuan kepada pihak penyedia layanan internet (ISP) yan
 
 Apabila kamu menemui pesan ini, harap bersabar sebelum kamu mencoba untuk *login* kembali.
 
-Pada umumnya, pesan ini akan hilang dengan sendirinya setelah beberapa menit. Apabila kamu masih ragu, kamu dapat menunggu hingga setidaknya satu atau dua jam untuk lebih yakinnya.
+Pada umumnya, pesan ini akan hilang dengan sendirinya setelah beberapa menit. Apabila kamu masih ragu, kamu dapat menunggu hingga setidaknya satu atau dua jam agar lebih yakin.
 
 ### Saya tidak menerima email apapun dari osu!/Saya tidak ingat alamat email saya!
 
