@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Pratanallis"
-date: 2021-06-19 08:00:00 +0000
+date: 2021-06-19 10:00:00 +0000
 ---
 
 **Pratanallis** slips into the lineup as the latest Featured Artist!
@@ -23,25 +23,25 @@ We managed to pick up **12** songs from their extraordinary catalogue, all of wh
 ### Errand of the Angels feat. Meramipop
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/175/Angels%20of%20Barcarole%2FPratanallis%20feat.%20Meramipop%20-%20Errand%20of%20the%20Angels.mp3" type="audio/mpeg">
 </audio>
 
 ### Marguerite feat. KOKOMI
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/175/Casa%20Blanca%2FPratanallis%20feat.%20KOKOMI%20-%20Marguerite.mp3" type="audio/mpeg">
 </audio>
 
 ### Renai Fantasy feat. Tsuyuri Karin
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/175/Renai%20Fantasy%2FPratanallis%20feat.%20Tsuyuri%20Karin%20-%20Renai%20Fantasy.mp3" type="audio/mpeg">
 </audio>
 
 ### Justynusty feat. Sakuya Kurosaki
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/175/Holy%20Fragments%2FPratanallis%20feat.%20Sakuya%20Kurosaki%20-%20Justynusty.mp3" type="audio/mpeg">
 </audio>
 
 ---
