@@ -174,7 +174,7 @@ Sunday, 19 June 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **rafalbrew** ![][flag_GB] | **4** | 1 | ![][flag_GB] Pelzio | [#1](https://osu.ppy.sh/mp/25744050) |
+| **rafalbrew** ![][flag_GB] | **4** | 1 | ![][flag_GB] Pelzio | [#1](https://osu.ppy.sh/community/matches/25744050) |
 
 #### Third place match
 
@@ -182,7 +182,7 @@ Sunday, 19 June 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **zelda101** ![][flag_US] | **4** | 0 | ![][flag_GB] dong | [#1](https://osu.ppy.sh/mp/25744734) |
+| **zelda101** ![][flag_US] | **4** | 0 | ![][flag_GB] dong | [#1](https://osu.ppy.sh/community/matches/25744734) |
 
 ### Semifinals
 
@@ -190,8 +190,8 @@ Sunday, 19 June 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| zelda101 ![][flag_US] | 2 | **4** | ![][flag_GB] **rafalbrew** | [#1](https://osu.ppy.sh/mp/25742222) |
-| **Pelzio** ![][flag_GB] | **4** | 3 | ![][flag_GB] dong | [#1](https://osu.ppy.sh/mp/25743314) |
+| zelda101 ![][flag_US] | 2 | **4** | ![][flag_GB] **rafalbrew** | [#1](https://osu.ppy.sh/community/matches/25742222) |
+| **Pelzio** ![][flag_GB] | **4** | 3 | ![][flag_GB] dong | [#1](https://osu.ppy.sh/community/matches/25743314) |
 
 ### Quarterfinals
 
@@ -199,10 +199,10 @@ Sunday, 19 June 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Seraxis ![][flag_GB] | 3 | **4** | ![][flag_US] **zelda101** | [#1](https://osu.ppy.sh/mp/25737972) |
-| **Pelzio** ![][flag_GB] | **4** | 1 | ![][flag_US] MicMck101 | [#1](https://osu.ppy.sh/mp/25739013) |
-| **dong** ![][flag_GB] | **4** | 3 | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/mp/25741329) |
-| Hydria ![][flag_GB] | 2 | **4** | ![][flag_GB] rafalbrew | [#1](https://osu.ppy.sh/mp/25740307) |
+| Seraxis ![][flag_GB] | 3 | **4** | ![][flag_US] **zelda101** | [#1](https://osu.ppy.sh/community/matches/25737972) |
+| **Pelzio** ![][flag_GB] | **4** | 1 | ![][flag_US] MicMck101 | [#1](https://osu.ppy.sh/community/matches/25739013) |
+| **dong** ![][flag_GB] | **4** | 3 | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/community/matches/25741329) |
+| Hydria ![][flag_GB] | 2 | **4** | ![][flag_GB] rafalbrew | [#1](https://osu.ppy.sh/community/matches/25740307) |
 
 ### Round of 16
 
@@ -210,14 +210,14 @@ Saturday, 18 June 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Atrocious ![][flag_SE] | 3 | **4** | ![][flag_GB] **dong** | [#1](https://osu.ppy.sh/mp/25710268) |
-| Sopison ![][flag_GB] | 0 | **4** | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/mp/25711194) |
-| **Pelzio** ![][flag_GB] | **4** | 1 | ![][flag_GB] MagicMantwon | [#1](https://osu.ppy.sh/mp/25711910) |
-| Lazulite ![][flag_US] | 3 | **4** | ![][flag_GB] **Hydria** | [#1](https://osu.ppy.sh/mp/25712820) |
-| **rafalbrew** ![][flag_GB] | **4** | 0 | ![][flag_GB] SteffoST | [#1](https://osu.ppy.sh/mp/25713279) |
-| **Seraxis** ![][flag_GB] | **4** | 0 | ![][flag_CZ] NyarkoO | [#1](https://osu.ppy.sh/mp/25715231) |
-| **zelda101** ![][flag_GB] | **4** | 1 | ![][flag_DE] Blegie | [#1](https://osu.ppy.sh/mp/25715822) |
-| YouKittenMe ![][flag_GB] | 2 | **4** | ![][flag_US] **MicMck101** | [#1](https://osu.ppy.sh/mp/25716816) |
+| Atrocious ![][flag_SE] | 3 | **4** | ![][flag_GB] **dong** | [#1](https://osu.ppy.sh/community/matches/25710268) |
+| Sopison ![][flag_GB] | 0 | **4** | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/community/matches/25711194) |
+| **Pelzio** ![][flag_GB] | **4** | 1 | ![][flag_GB] MagicMantwon | [#1](https://osu.ppy.sh/community/matches/25711910) |
+| Lazulite ![][flag_US] | 3 | **4** | ![][flag_GB] **Hydria** | [#1](https://osu.ppy.sh/community/matches/25712820) |
+| **rafalbrew** ![][flag_GB] | **4** | 0 | ![][flag_GB] SteffoST | [#1](https://osu.ppy.sh/community/matches/25713279) |
+| **Seraxis** ![][flag_GB] | **4** | 0 | ![][flag_CZ] NyarkoO | [#1](https://osu.ppy.sh/community/matches/25715231) |
+| **zelda101** ![][flag_GB] | **4** | 1 | ![][flag_DE] Blegie | [#1](https://osu.ppy.sh/community/matches/25715822) |
+| YouKittenMe ![][flag_GB] | 2 | **4** | ![][flag_US] **MicMck101** | [#1](https://osu.ppy.sh/community/matches/25716816) |
 
 ## Ruleset
 
