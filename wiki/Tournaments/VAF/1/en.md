@@ -136,6 +136,33 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Mappools
 
+### Swiss week 6
+
+**[Download the mappack here! (93 MB)](https://www.mediafire.com/file/9scny0ifon9dtss/mappack+week+6.zip/file)**
+
+- NoMod
+  - [Silentroom - Finixe (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1336266#taiko/2768306)
+  - [P\*Light - Pollinosis Panic (gaston\_2199) \[Oni\]](https://osu.ppy.sh/beatmapsets/981589#taiko/2054261)
+  - [RODEOGLO - AK-47 (Genjuro) \[$W4G\]](https://osu.ppy.sh/beatmapsets/1332834#taiko/2761668)
+  - [BUGCORE - NU SHLUMP//KEY SWAMP (Nifty) \[SHWUMPCORE\]](https://osu.ppy.sh/beatmapsets/1491649#taiko/3057539)
+  - [warinside - Esoteria (Felt7z) \[Heretic Oni\]](https://osu.ppy.sh/beatmapsets/655900#taiko/1389846)
+- Hidden
+  - [odaxelagnia - #sawg (Horiiizon) \[#inner\]](https://osu.ppy.sh/beatmapsets/1207490#taiko/2515572)
+  - [Zekk - Foresight (HiroK) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1440285#taiko/2963225)
+  - [Halogen - U Got That (agu) \[Oni\]](https://osu.ppy.sh/beatmapsets/962671#taiko/2015666)
+- HardRock
+  - [kamome sano - Prepared Improvisation (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/556358#taiko/1177487)
+  - [katagiri - AMEN KATAGIRI GENERATION (KitajimaYN) \[COLLABORATION\]](https://osu.ppy.sh/beatmapsets/1023593#taiko/2141230)
+  - [Getty vs. DJ DiA - Antifront Gears (Faputa) \[War Dance\]](https://osu.ppy.sh/beatmapsets/1043137#taiko/2180259)
+- DoubleTime
+  - [ETIA. - You Are Gone (iceOC) \[Oni\]](https://osu.ppy.sh/beatmapsets/607987#taiko/1284044)
+  - [BTS - FIRE (Skull Kid) \[BULTAOREUNE\]](https://osu.ppy.sh/beatmapsets/591037#taiko/1250871)
+  - [Neovaii - Silent (Mew) \[Tranquility\]](https://osu.ppy.sh/beatmapsets/1065551#taiko/2231274)
+- FreeMod
+  - [II-L - VANGUARD-1 (Axer) \[Satellite\]](https://osu.ppy.sh/beatmapsets/1407228#taiko/2901604)
+  - [Teletexter - Super Sonic Raving (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1321693#taiko/2737702)
+  - [Igorrr & Ruby My Dear - Figue Folle (-Kazu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/680739#taiko/1439297)
+
 ### Swiss week 2
 
 **[Download the mappack here! (94 MB)](https://www.mediafire.com/file/ivudcuyyvpky3eh/MAPPACK+SWISS+WEEK+2.zip/file)**
@@ -223,7 +250,7 @@ Sunday, 13 June 2021:
 | **-Arato** ![][flag_MX] | **7** | 5 | ![][flag_RU] Den4ik228 | [#1](https://osu.ppy.sh/community/matches/85480290) |
 | Saikoro ![][flag_JP] | 2 | **7** | ![][flag_US] **cheese salad** | [#1](https://osu.ppy.sh/community/matches/85485201) |
 | Garpo ![][flag_US] | 0 | **7** | ![][flag_CA] **honkers** | *win by default* |
-| Pochacco ![][flag_PH] | 0 | **7** | ![][flag_MY] **\[Zeth\]** | *win by default* |
+| **Pochacco** ![][flag_PH] | **7** | 0 | ![][flag_MY] \[Zeth\] | *win by default* |
 | \_Llama ![][flag_TW] | 0 | **7** | ![][flag_FI] **MEGAMELA** | *win by default* |
 | **nananass** ![][flag_JP] | **7** | 1 | ![][flag_KR] Jakads | [#1](https://osu.ppy.sh/community/matches/85500337) |
 | XOlifreX ![][flag_BE] | 1 | **7** | ![][flag_KR] **GoZaRaNi** | [#1](https://osu.ppy.sh/community/matches/85501842) |
