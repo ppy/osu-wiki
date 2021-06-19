@@ -7,7 +7,7 @@ tags:
 
 ![VAF logo](img/logo.jpg)
 
-The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament will run in a swiss style to determine the top players before going onto semifinals double elimination bracket. The tournament is also rank restricted to rank #50 or below. It is the first installment of the Vaf's Autumn Fiesta.
+The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament will be run in a swiss style to determine the top players before going onto a double-elimination bracket in the Semifinals phase. The tournament is also rank-restricted to rank #50 and below. It is the first installment of the Vaf's Autumn Fiesta.
 
 ## Tournament schedule
 
@@ -33,7 +33,7 @@ The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Physical trophy, 6 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Physical trophy, 6 months of osu!supporter tag |
 
-A prize pool of grand total 18 months of osu!supporter tag and physical trophies are made possible thanks to [LotusPro](http://www.lotuspro.io/).
+A prize pool of grand total 18 months of osu!supporter tag and physical trophies is made possible thanks to [LotusPro](http://www.lotuspro.io/).
 
 ## Organisation
 
@@ -58,7 +58,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 - Livestream
   - [Twitch](https://www.twitch.tv/vafautumnfiesta "Twitch")
   - [Trovo](https://trovo.live/VafAutumnFiesta "Trovo")
-    - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
+    - *Note: The second channel's purpose is to stream the other match if there are more than one matches happening at the same time.*
 - [VAF Discord server](https://discord.gg/h6AcC2XB3B "Discord")
 - [Challonge bracket](https://challonge.com/VAF "Challonge")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1A0MAwHb0xVQefsPAc1v1SMox9dTyWodRXyqyIWNaVjg/edit?usp=sharing "Google Docs")**
