@@ -513,6 +513,17 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! UK Tournament 4](OUKT/4) | 2015-01-10 | 2015-08-21 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | N/A |
 | [osu! UK Tournament 5](OUKT/5) | 2015-09-12 | 2016-04-23 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [Kakiage](https://osu.ppy.sh/users/3104031) |
 
+### ![](/wiki/shared/mode/osu.png) Corgi Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Corgi Cup: June 2016](CC/1) | 2016-06-17 | 2016-06-19 | ![][flag_GB] [rafalbrew](https://osu.ppy.sh/users/3872602) | ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226) | ![][flag_US]  [zelda101](https://osu.ppy.sh/users/4502238) |
+| [Corgi Cup: September 2016](CC/2) | 2016-08-23 | 2016-09-11 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026) |
+| [Corgi Cup III: April 2017](CC/3) | 2017-03-03 | 2017-04-30 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
+| [Corgi Cup IV: September 2017](CC/4) | 2017-08-18 | 2017-10-29 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
+| [Corgi Cup V](CC/5) | 2018-03-05 | 2018-05-13 | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
+| [Corgi Cup VI](CC/6) | 2019-03-09 | 2019-05-26 | ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262) | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) |
+
 ## See also
 
 - [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
@@ -542,6 +553,7 @@ Unofficial tournaments/competitions hosted by the communities.
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
