@@ -19,7 +19,7 @@ This month's issue of the Mappers' Report contains the following topics:
 
 ## Ranking Criteria Changes
 
-Unfortunately, we don't have any Ranking Criteria changes for you this month. But fear not, we have several proposals at hand waiting for further polishing. Be one of the first and check them out right away!
+Unfortunately, we don't have any Ranking Criteria changes for you this month. But fear not, because we have several proposals at hand waiting for further polishing. Be one of the first and check them out right away!
 
 ## Open Ranking Criteria Proposals 
 
