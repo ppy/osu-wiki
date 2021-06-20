@@ -93,7 +93,7 @@ Other than being a hard rock mapper himself, KuroRev has also been endeavouring 
 
 ## Mapping Contests
 
-Another month of community-hosted contests is upon us, this time with something sweet for all osu!taiko and osu!catch mappers with some really great prizes. Don't know how to map either mode? That doesn't matter — you should try your luck anyway! Who knows, you may discover some hidden master mapper talent hiding within you.
+Another month of community-hosted contests is upon us, this time with something sweet for all osu!taiko and osu!catch mappers with some really great prizes. Don't know how to map in either mode? That doesn't matter — you should try your luck anyway! Who knows, you may discover some hidden master mapper talent hiding within you.
 
 ### osu!flushed Taiko Mapping Contest
 
@@ -101,7 +101,7 @@ The [osu!flushed Taiko Mapping Contest](https://osu.ppy.sh/community/forums/topi
 
 As for the prizes, the winner gets 6 months of osu!supporter, while the runners-ups of 2nd and 3rd place receive 4 months of osu!supporter.
 
-Don't wait for the drums to roll - go ahead and sign yourself up via the thread above to show who places the blues and reds the best!
+Don't wait for the drums to roll — go ahead and sign yourself up via the thread above to show who places the blues and reds the best!
 
 ### osu!catch 2021 Summer Featured Artist Cup
 
@@ -109,7 +109,7 @@ As the summer cracks the door open, the fruits start ripening. To fill your cup 
 
 Featuring songs from our [Featured Artists](https://osu.ppy.sh/beatmaps/artists) who joined the lineup between March 20th - June 20th, this contest will test your mapping capabilities in two difficulties: one being Platter or lower, and the other being Rain or higher.
 
-But that's not all - this one has some hefty prizes too! 
+But that's not all — this one has some hefty prizes too! 
 
 The winner will be rewarded with 100 USD in cash, plus having their set modded by the host and the judges! Should you not make it to the top, the runners-up will still get 20 USD in cash in addition to 4 months of osu!supporter for 2nd place, and the 3rd place will enjoy 2 months of osu!supporter.
 
@@ -119,7 +119,7 @@ Have we got you interested in getting your hands dirty with the harvest? Then be
 
 Brought to you by the osu!catch mapping grand-master [Ascendance](https://osu.ppy.sh/users/2931883) for the third time, the [osu!catch Mapping World Cup 2021](https://osu.ppy.sh/community/forums/topics/1350409) will have the best mappers from all over the globe gather around and have an intense competition that will determine the next osu!catch Mapping Champions!
 
-Needless to say, such a contest is not going to be without prizes but all the details on that matter are currently work-in-progress. To keep track of the updates and learn more about the contest, we highly suggest you to check the [forum thread](https://osu.ppy.sh/community/forums/topics/1350409), and dive right into the [o!CMWC Discord server](https://discord.gg/eTUFAjf "Discord").
+Needless to say, such a contest is not going to be without prizes, but all the details on that matter are currently work-in-progress. To keep track of the updates and learn more about the contest, we highly suggest you to check the [forum thread](https://osu.ppy.sh/community/forums/topics/1350409), and dive right into the [o!CMWC Discord server](https://discord.gg/eTUFAjf "Discord").
 
 Alright, osu!catch folks! Hopefully, we've made your day with these two majestic contests, but make sure to compete responsibly, you wouldn't want to... *overdose* on fruit juice after all, would you?
 
@@ -133,7 +133,7 @@ Not so long ago, osu!mania got a new key-mode. After a long wait, 10K beatmaps c
 
 The 10K community representative [\[Sick\]Catcat](https://osu.ppy.sh/users/11544934) has posted their [10K osu!mania Mapping Guide](https://osu.ppy.sh/community/forums/topics/1336072) in the osu!mania subforum with everything you need to know to start mapping 10K osu!mania, covering anything from various pattern structures to useful tips and tricks in Easy to Hard difficulties.
 
-If this has piqued your interest, slap your favourite song into the editor and start mapping - everybody knows that 10K osu!mania is in urgent need of more ranked beatmaps, after all. And should you need more help, the [10K+ Rhythm Game Community](https://discord.gg/PwzcUzk) would be more than happy to assist.
+If this has piqued your interest, slap your favourite song into the editor and start mapping — everybody knows that 10K osu!mania is in urgent need of more ranked beatmaps, after all. And should you need more help, the [10K+ Rhythm Game Community](https://discord.gg/PwzcUzk) would be more than happy to assist.
 
 ### osu! Featured Artist Compilation Blind Beatmap Collab
 
