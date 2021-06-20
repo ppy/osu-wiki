@@ -1,4 +1,8 @@
-# Unlock requirements for Beatmap Spotlights medals
+# Beatmap Spotlights
+
+**Beatmap Spotlights medals** are medals awarded upon completion of certain beatmap packs released as part of the [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four gamemode packs* that are being contested on the corresponding Beatmap Spotlights ranking chart. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
+
+Although the Monthly Beatmap Spotlights have been discontinued as of April 2018 in favor of the [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), all of the medals pertinent to it are still able to be obtained to this day.
 
 | Medal name | Requirement |
 | :-- | :-- |

@@ -1,4 +1,6 @@
-# Unlock requirements for Dedication medals
+# Dedication
+
+**Dedication medals** are medals awarded upon reaching certain playcount milestones in a single game mode.
 
 | Medal name | Requirement |
 | :-- | :-- |
