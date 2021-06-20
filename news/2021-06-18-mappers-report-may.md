@@ -53,7 +53,7 @@ Leaving those who couldn't predict his presence with a wide-open mouth, [Unpredi
 ### BN Additions
 
 - **osu!:** [Logic Agent](https://osu.ppy.sh/users/6341262), [Yahuri](https://osu.ppy.sh/users/4682629), [tomatas95](https://osu.ppy.sh/users/11403815), [Iceluin](https://osu.ppy.sh/users/3558897), [Gabdu09](https://osu.ppy.sh/users/8852605), [Dada](https://osu.ppy.sh/users/9119507), [Akayume](https://osu.ppy.sh/users/10617530), [Aakki](https://osu.ppy.sh/users/11077540), [Nao Tomori](https://osu.ppy.sh/users/5364763), [Sajinn](https://osu.ppy.sh/users/13513687), [Aistre](https://osu.ppy.sh/users/4879380) & [Icekalt](https://osu.ppy.sh/users/5410645)
-- **osu!catch:** [Secre](https://osu.ppy.sh/users/2306637) & [Du5t](https://osu.ppy.sh/users/6053071)
+- **osu!catch:** [Secre](https://osu.ppy.sh/users/2306637), [Du5t](https://osu.ppy.sh/users/6053071) & [zerokt](https://osu.ppy.sh/users/13776127)
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. 
 
