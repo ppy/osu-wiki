@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: May"
-date: 2021-06-18 08:00:00 +0000
+date: 2021-06-20 08:00:00 +0000
 ---
 
 Take everything in with the May issue of the Mappers' Report and begin your summer up-to-date with the mapping and modding community!
@@ -28,10 +28,15 @@ Unfortunately, we don't have any Ranking Criteria changes for you this month. Bu
 - **[Amend official translated name allowance to allow for reversed name order](https://osu.ppy.sh/community/forums/topics/1317453)**
 - **[\[Proposal\] Allow uninherited timing points to differ between difficulties](https://osu.ppy.sh/community/forums/topics/1315020)**
 - **[\[Proposal\] Make gradient the length-spread requirements](https://osu.ppy.sh/community/forums/topics/1340883)**
+- **[\[Proposal\] Remove ‘doujin circle's name as artist' guideline in general RC](https://osu.ppy.sh/community/forums/topics/1342568)**
+- **[\[Proposal - Metadata\] Add (Game Ver.) markers to official cut versions of video game songs](https://osu.ppy.sh/community/forums/topics/1346169)**
+- **[\[Proposal - Metadata\] Standardisation about CV vs VO](https://osu.ppy.sh/community/forums/topics/1344928)**
+- **[\[Proposal - Metadata\] Remove the "Cut Ver." rule for repetitive songs.](https://osu.ppy.sh/community/forums/topics/1349681)**
 
 ### osu!taiko
 
 - **[\[Proposal - osu!taiko\] Make the Muzukashii break guideline more flexible](https://osu.ppy.sh/community/forums/topics/1325267)**
+- **[\[Proposal - taiko\] Move "Hell Oni" from default difficulty naming to "Widely accepted alternatives"](https://osu.ppy.sh/community/forums/topics/1348008)**
 
 ### osu!catch
 
@@ -47,8 +52,8 @@ Leaving those who couldn't predict his presence with a wide-open mouth, [Unpredi
 
 ### BN Additions
 
-- **osu!:** [Logic Agent](https://osu.ppy.sh/users/6341262), [Yahuri](https://osu.ppy.sh/users/4682629), [tomatas95](https://osu.ppy.sh/users/11403815), [Iceluin](https://osu.ppy.sh/users/3558897), [Gabdu09](https://osu.ppy.sh/users/8852605), [Dada](https://osu.ppy.sh/users/9119507), [Akayume](https://osu.ppy.sh/users/10617530), [Aakki](https://osu.ppy.sh/users/11077540), [Nao Tomori](https://osu.ppy.sh/users/5364763), [Sajinn](https://osu.ppy.sh/users/13513687), [Aistre](https://osu.ppy.sh/users/4879380), [Icekalt](https://osu.ppy.sh/users/5410645)
-- **osu!catch:** [Secre](https://osu.ppy.sh/users/2306637), [Du5t](https://osu.ppy.sh/users/6053071)
+- **osu!:** [Logic Agent](https://osu.ppy.sh/users/6341262), [Yahuri](https://osu.ppy.sh/users/4682629), [tomatas95](https://osu.ppy.sh/users/11403815), [Iceluin](https://osu.ppy.sh/users/3558897), [Gabdu09](https://osu.ppy.sh/users/8852605), [Dada](https://osu.ppy.sh/users/9119507), [Akayume](https://osu.ppy.sh/users/10617530), [Aakki](https://osu.ppy.sh/users/11077540), [Nao Tomori](https://osu.ppy.sh/users/5364763), [Sajinn](https://osu.ppy.sh/users/13513687), [Aistre](https://osu.ppy.sh/users/4879380) & [Icekalt](https://osu.ppy.sh/users/5410645)
+- **osu!catch:** [Secre](https://osu.ppy.sh/users/2306637) & [Du5t](https://osu.ppy.sh/users/6053071)
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. 
 
@@ -60,33 +65,33 @@ Our personal office cat [Mao](https://osu.ppy.sh/users/2204515) has decided to s
 
 ### BN Departures
 
-- **osu!:** [Eula-](https://osu.ppy.sh/users/5405836), [skylaa](https://osu.ppy.sh/users/9505704), [MaridiuS](https://osu.ppy.sh/users/4496961), [Astronic](https://osu.ppy.sh/users/9320502), [Butylcyclobutyn](https://osu.ppy.sh/users/10959501), [Teky](https://osu.ppy.sh/users/10520912), [Hobbes2](https://osu.ppy.sh/users/8157492), [Mordred](https://osu.ppy.sh/users/7265097) & [C00L](https://osu.ppy.sh/users/4930630)
-- **osu!taiko:** [-Aku](https://osu.ppy.sh/users/12315824) & [Jerry](https://osu.ppy.sh/users/605973)
+- **osu!:** [Eula-](https://osu.ppy.sh/users/5405836), [skylaa](https://osu.ppy.sh/users/9505704), [MaridiuS](https://osu.ppy.sh/users/4496961), [Astronic](https://osu.ppy.sh/users/9320502), [Een Persoon](https://osu.ppy.sh/users/10959501), [Teky](https://osu.ppy.sh/users/10520912), [Hobbes2](https://osu.ppy.sh/users/8157492), [Mordred](https://osu.ppy.sh/users/7265097) & [C00L](https://osu.ppy.sh/users/4930630)
+- **osu!taiko:** [overranked](https://osu.ppy.sh/users/12315824) & [Jerry](https://osu.ppy.sh/users/605973)
 - **osu!mania:** [Amiichii](https://osu.ppy.sh/users/9228569)
 
 ## Mappers' Showcase
 
-Into the next round of the Mappers’ Showcase we go! This time featuring two amazing hidden gems from the osu!catch game mode. A lot of thanks to this month's contributors [Jemzuu](https://osu.ppy.sh/users/7890134) and [alienfanboy](https://osu.ppy.sh/users/636114).
+Into the next round of the Mappers' Showcase we go! This time featuring two amazing hidden gems from the osu!catch game mode. A lot of thanks to this month's contributors [Jemzuu](https://osu.ppy.sh/users/7890134) and [autofanboy](https://osu.ppy.sh/users/636114).
 
 ### Verti
 
 [Verti](https://osu.ppy.sh/users/10674528) is an ambitious newcomer to the osu!catch mapping scene. His mapping prowess should not be underestimated as he managed to push three maps to the ranked section within three months, achieving the impossible as deemed by most novice mappers.
 
-His debut map is [nonoc – Memento (TV Size)](https://osu.ppy.sh/beatmapsets/1417543#fruits/2920895), a Cup to Rain spread mapped solely by himself, for which the ranking process only lasted a month. He has been gaining recognition from the osu!catch community with his 4-minute Platter to Overdose spread [Amatsuki – DORAEMON]( https://osu.ppy.sh/beatmapsets/1327531#fruits/2750179) starred in CWC2021 as a Finals DT pick.
+His debut map is [nonoc – Memento (TV Size)](https://osu.ppy.sh/beatmapsets/1417543), a Cup to Rain spread mapped solely by himself, for which the ranking process only lasted a month. He has been gaining recognition from the osu!catch community with his 4-minute Platter to Overdose spread [Amatsuki – DORAEMON]( https://osu.ppy.sh/beatmapsets/1327531) starred in CWC2021 as a Finals DT pick.
 
-He may be keen on producing maps for Japanese vocals, yet he is currently opening up new vista on trance and rhythm game music such as [xi – Ascension to Heaven]( https://osu.ppy.sh/beatmapsets/1482069#fruits/3060297), a collaboration project with his mapping mentor, as well as [Morimori Atsushi vs. uma – Noel (long ver.)]( https://osu.ppy.sh/beatmapsets/1483009#fruits/3041759), a clean Overdose marathon featuring intense streams, consistent patterns and on-point hitsounds. Verti has certainly set a prime example to fellow newcomers that self-motivation can bring you further than expected.
+He may be keen on producing maps for Japanese vocals, yet he is currently opening up new vista on trance and rhythm game music such as [xi – Ascension to Heaven]( https://osu.ppy.sh/beatmapsets/1482069), a collaboration project with his mapping mentor, as well as [Morimori Atsushi vs. uma – Noel (long ver.)]( https://osu.ppy.sh/beatmapsets/1483009), a clean Overdose marathon featuring intense streams, consistent patterns and on-point hitsounds. Verti has certainly set a prime example to fellow newcomers that self-motivation can bring you further than expected.
 
 ### KuroRev
 
-A veteran mapper who's been crafting maps for 5 years now, [KuroRev](https://osu.ppy.sh/users/6581584) is a virtuoso when it comes to intuitive flow, delivering natural gameplay and bestowing great satisfaction to players. Given his vast experience, it is no question that he certainly knows what he’s doing in the editor. 
+A veteran mapper who's been crafting maps for 5 years now, [KuroRev](https://osu.ppy.sh/users/6581584) is a virtuoso when it comes to intuitive flow, delivering natural gameplay and bestowing great satisfaction to players. Given his vast experience, it is no question that he certainly knows what he's doing in the editor. 
 
-Recently breaching through the ranked section, he finally propels ahead with his rendition of [Asriel - Kegare Naki Yume](https://osu.ppy.sh/beatmapsets/710899#fruits/1502772) which features a simple yet captivating style with its pleasing aesthetic and coherent representation of the music. In similar fashion, his take on [sokoninaru - Tenohira de odoru](https://osu.ppy.sh/beatmapsets/1200657#fruits/2500410) presents clean-looking streams and apt spacing usage to emphasize the music accordingly.
+Recently breaching through the ranked section, he finally propels ahead with his rendition of [Asriel - Kegare Naki Yume](https://osu.ppy.sh/beatmapsets/710899) which features a simple yet captivating style with its pleasing aesthetic and coherent representation of the music. In similar fashion, his take on [sokoninaru - Tenohira de odoru](https://osu.ppy.sh/beatmapsets/1200657) presents clean-looking streams and apt spacing usage to emphasize the music accordingly.
 
-Other than being a hard rock mapper himself, KuroRev has also been endeavouring to push his first full solo set with the lovely future bass song [YUC’e - Cinderella Syndrome](https://osu.ppy.sh/beatmapsets/1467712#fruits/3013948), showcasing his mastery on movement and immaculate pattern structure. If you do like his maps, consider clicking that bell on his profile to not miss out on his later bangers. We are eager to see his motivation grow further and hopefully see him create more interesting maps!
+Other than being a hard rock mapper himself, KuroRev has also been endeavouring to push his first full solo set with the lovely future bass song [YUC'e - Cinderella Syndrome](https://osu.ppy.sh/beatmapsets/1467712), showcasing his mastery on movement and immaculate pattern structure. If you do like his maps, consider clicking that bell on his profile to not miss out on his later bangers. We are eager to see his motivation grow further and hopefully see him create more interesting maps!
 
 ## Mapping Contests
 
-Another month of community-hosted contests is upon us, this time with something sweet for all taiko and catch mappers with some really great prizes. Don’t know how to map taiko or catch? That doesn’t matter — you should try your luck anyway! Who knows, maybe there’s some hidden master mapper within you.
+Another month of community-hosted contests is upon us, this time with something sweet for all taiko and catch mappers with some really great prizes. Don't know how to map taiko or catch? That doesn't matter — you should try your luck anyway! Who knows, maybe there's some hidden master mapper within you.
 
 ### osu!flushed Taiko Mapping Contest
 
@@ -94,7 +99,7 @@ The [osu!flushed Taiko Mapping Contest](https://osu.ppy.sh/community/forums/topi
 
 As for the prizes, the winner gets 6 months of osu!supporter, while the runners-ups of 2nd and 3rd place receive 4 months of osu!supporter.
 
-Don't wait for the drums to roll! Go ahead and sign yourself up via the thread above to show who places the blues and reds the best!
+Don't wait for the drums to roll. Go ahead and sign yourself up via the thread above to show who places the blues and reds the best!
 
 ### osu!catch 2021 Summer Featured Artist Cup
 
@@ -140,7 +145,7 @@ And of course, such a massive project wouldn't have been left without a showcase
 
 ---
 
-And that’s it for this month. Good we didn’t promise anything last time because we are once again late, but the IRL stress will finally be gone within the next weeks, which means the next issues should hopefully be on time!
+And that's it for this month. Good we didn't promise anything last time because we are once again late, but the IRL stress will finally be gone within the next weeks, which means the next issues should hopefully be on time!
 
 As always, should you know anything mapping or modding related, be it guides, podcasts or videos, let us know. We would love to touch upon them in the next issue of Mappers' Report!
 
@@ -148,4 +153,4 @@ You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or dr
 
 Hope to see you there soon. Thank you for reading, stay safe and healthy!
 
-—Feerum, Jemzuu, alienfanboy and Zeus-
+—Feerum, Jemzuu, autofanboy and Zeus-
