@@ -4,6 +4,6 @@ La **Delegation of the Beatmap Approval Deciding Authorities; Submission Squad (
 
 Cette initiative a été menée par [Ivalset](https://osu.ppy.sh/users/827), le [gestionnaire BAT](/wiki/Modding/BAT_Managers) à l'époque. Elle a duré neuf cycles, du 09/03/2009 au 14/10/2009.
 
-Lors de la sélection des nouveaux membres, un groupe de responsables choisissait les candidats et les autres BAT donnaient leur avis. Tout utilisateur ayant reçu l'approbation d'au moins 3 membres du BAT et du responsable des BAT, sans que personne ne le désapprouve, serait promu dans l'équipe.
+Lors de la sélection des nouveaux membres, un groupe de responsables choisissait les candidats et les autres BAT donnaient leur avis. Tout utilisateur ayant reçu l'approbation d'au moins 3 membres de la BAT et du responsable des BAT, sans que personne ne le désapprouve, serait promu dans l'équipe.
 
 Jusqu'à l'essai manuel du [modding v2](/wiki/Beatmap_Discussion) en 2014, toutes les méthodes de promotion des BAT utilisaient des idées similaires à la Délégation des BADASS.
