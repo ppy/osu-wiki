@@ -24,7 +24,7 @@ Voir l'[index des tournois osu! UCI](/wiki/Tournois/osu!_UCI) pour des articles 
 - [Chaîne Twitch](https://www.twitch.tv/osuuci)
 - [Twitter](https://twitter.com/osuUCI)
 
-## Officiers
+## Staff
 
 ### Actuel
 
