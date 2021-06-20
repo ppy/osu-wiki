@@ -48,20 +48,22 @@ Another round of additions and departures in both the Beatmap Nominators and the
 
 ### NAT Additions
 
-Leaving those who couldn't predict his presence with a wide-open mouth, [Unpredictable](https://osu.ppy.sh/users/7560872) has recently joined the osu!mania NAT! Having worn the purple uniform for roughly one and a half years, Unpredictable has rolled up his sleeves to partake in the evaluation of the fellow nominators. "Too soon!" you might think? Definitely not! He is all ready to assess the nominations alongside the osu!mania fellows. Nice to have you on board, Unpredictable!
+Leaving those who couldn't predict his presence with a wide-open mouth, [Unpredictable](https://osu.ppy.sh/users/7560872) has recently joined the osu!mania NAT!
+
+Having worn the purple uniform for roughly one and a half years, Unpredictable has rolled up his sleeves to partake in the evaluation of his fellow nominators. Too soon, you might think? Definitely not! He is more than ready and up to the task, and we're excited to finally have him on board.
 
 ### BN Additions
 
 - **osu!:** [Logic Agent](https://osu.ppy.sh/users/6341262), [Yahuri](https://osu.ppy.sh/users/4682629), [tomatas95](https://osu.ppy.sh/users/11403815), [Iceluin](https://osu.ppy.sh/users/3558897), [Gabdu09](https://osu.ppy.sh/users/8852605), [Dada](https://osu.ppy.sh/users/9119507), [Akayume](https://osu.ppy.sh/users/10617530), [Aakki](https://osu.ppy.sh/users/11077540), [Nao Tomori](https://osu.ppy.sh/users/5364763), [Sajinn](https://osu.ppy.sh/users/13513687), [Aistre](https://osu.ppy.sh/users/4879380) & [Icekalt](https://osu.ppy.sh/users/5410645)
 - **osu!catch:** [Secre](https://osu.ppy.sh/users/2306637), [Du5t](https://osu.ppy.sh/users/6053071) & [zerokt](https://osu.ppy.sh/users/13776127)
 
-Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. 
+Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator!
 
-Head over to the [Beatmap Nominator website](https://bn.mappersguild.com "Beatmap Nominators") and apply today!
+The applications are always open, so head on over to the [Beatmap Nominator website](https://bn.mappersguild.com "Beatmap Nominators") and apply today!
 
 ### NAT Resignations
 
-Our personal office cat [Mao](https://osu.ppy.sh/users/2204515) has decided to step down from the duties of the NAT after more than 5 years. We thank you a lot for all your contributions to the game and we wish you all the best for the future! 
+Our personal office cat [Mao](https://osu.ppy.sh/users/2204515) has decided to step down from the duties of the NAT after more than 5 years. We thank him a lot for all his contributions to the game and we wish him all the best for the future!
 
 ### BN Departures
 
@@ -71,7 +73,7 @@ Our personal office cat [Mao](https://osu.ppy.sh/users/2204515) has decided to s
 
 ## Mappers' Showcase
 
-Into the next round of the Mappers' Showcase we go! This time featuring two amazing hidden gems from the osu!catch game mode. A lot of thanks to this month's contributors [Jemzuu](https://osu.ppy.sh/users/7890134) and [autofanboy](https://osu.ppy.sh/users/636114).
+Into the next round of the Mappers' Showcase we go! This time, we're featuring two amazing hidden gems from the osu!catch game mode. Big thanks to this month's contributors [Jemzuu](https://osu.ppy.sh/users/7890134) and [autofanboy](https://osu.ppy.sh/users/636114).
 
 ### Verti
 
@@ -91,7 +93,7 @@ Other than being a hard rock mapper himself, KuroRev has also been endeavouring 
 
 ## Mapping Contests
 
-Another month of community-hosted contests is upon us, this time with something sweet for all taiko and catch mappers with some really great prizes. Don't know how to map taiko or catch? That doesn't matter — you should try your luck anyway! Who knows, maybe there's some hidden master mapper within you.
+Another month of community-hosted contests is upon us, this time with something sweet for all osu!taiko and osu!catch mappers with some really great prizes. Don't know how to map either mode? That doesn't matter — you should try your luck anyway! Who knows, you may discover some hidden master mapper talent hiding within you.
 
 ### osu!flushed Taiko Mapping Contest
 
@@ -99,29 +101,31 @@ The [osu!flushed Taiko Mapping Contest](https://osu.ppy.sh/community/forums/topi
 
 As for the prizes, the winner gets 6 months of osu!supporter, while the runners-ups of 2nd and 3rd place receive 4 months of osu!supporter.
 
-Don't wait for the drums to roll. Go ahead and sign yourself up via the thread above to show who places the blues and reds the best!
+Don't wait for the drums to roll - go ahead and sign yourself up via the thread above to show who places the blues and reds the best!
 
 ### osu!catch 2021 Summer Featured Artist Cup
 
-As the summer cracks the door open, the fruits start ripening. To fill your cup with the bestest of them, join the [osu!catch Featured Artist Cup](https://osu.ppy.sh/community/forums/topics/1327798) right away!
+As the summer cracks the door open, the fruits start ripening. To fill your cup with the cream of the crop, be sure to join the [osu!catch Featured Artist Cup](https://osu.ppy.sh/community/forums/topics/1327798) right away!
 
-Featuring songs from the [Featured Artists](https://osu.ppy.sh/beatmaps/artists) who joined the lineup between March 20th - June 20th, this contest will test your mapping capabilities in two difficulties: one being Platter or lower, and the other being Rain or higher.
+Featuring songs from our [Featured Artists](https://osu.ppy.sh/beatmaps/artists) who joined the lineup between March 20th - June 20th, this contest will test your mapping capabilities in two difficulties: one being Platter or lower, and the other being Rain or higher.
 
-But that's not all. This one has some prizes too! The winner will be rewarded with 100 USD in cash and having the set modded by the host and the judges! Should you not make it to the top, the runners-up will still get a reward. 20 USD in cash in addition to 4 months of osu!supporter will be granted to the 2nd place, and the 3rd place will enjoy 2 months of osu!supporter.
+But that's not all - this one has some hefty prizes too! 
 
-Well, how does it sound? Have we got you interested in getting your hands dirty with the fruit juice? Then be quick, the sign-ups are closing soon on **June 20th**!
+The winner will be rewarded with 100 USD in cash, plus having their set modded by the host and the judges! Should you not make it to the top, the runners-up will still get 20 USD in cash in addition to 4 months of osu!supporter for 2nd place, and the 3rd place will enjoy 2 months of osu!supporter.
+
+Have we got you interested in getting your hands dirty with the harvest? Then be quick - the sign-ups are closing soon on **June 20th**!
 
 ### osu!catch Mapping World Cup 2021
 
-Another contest that is going to fill your fruit bowl has been brought up to light, this time a country-based one! Brought to you by the osu!catch mapping grand-master [Ascendance](https://osu.ppy.sh/users/2931883) for the third time, the [osu!catch Mapping World Cup 2021](https://osu.ppy.sh/community/forums/topics/1350409) will have the best mappers from all over the globe gather around and have an intense competition that will determine the next osu!catch Mapping Champions!
+Brought to you by the osu!catch mapping grand-master [Ascendance](https://osu.ppy.sh/users/2931883) for the third time, the [osu!catch Mapping World Cup 2021](https://osu.ppy.sh/community/forums/topics/1350409) will have the best mappers from all over the globe gather around and have an intense competition that will determine the next osu!catch Mapping Champions!
 
-Needless to say, such a contest isn't going to be left without prizes, but all the details for that matter are currently work-in-progress. To keep track of the updates and learn more about the contest, we highly suggest you to check the [forum thread](https://osu.ppy.sh/community/forums/topics/1350409), and dive right into the [o!CMWC Discord server](https://discord.gg/eTUFAjf "Discord") prepared with love for this very contest!
+Needless to say, such a contest is not going to be without prizes but all the details on that matter are currently work-in-progress. To keep track of the updates and learn more about the contest, we highly suggest you to check the [forum thread](https://osu.ppy.sh/community/forums/topics/1350409), and dive right into the [o!CMWC Discord server](https://discord.gg/eTUFAjf "Discord").
 
-Alright catch folks! Hopefully, we've made your day with these two majestic contests, but be warned that they may over the dose of your daily fruit intake. Proceed with caution!
+Alright, osu!catch folks! Hopefully, we've made your day with these two majestic contests, but make sure to compete responsibly, you wouldn't want to... *overdose* on fruit juice after all, would you?
 
 ## Around the Community
 
-The community has worked hard this month to present you with a variety of activities that happened in the past month. Did that strike your fancy? Awesome! Then continue reading to find out more.
+Here's what's been going down in the community lately:
 
 ### Guide to making your first osu!mania 10K beatmap
 
@@ -129,11 +133,11 @@ Not so long ago, osu!mania got a new key-mode. After a long wait, 10K beatmaps c
 
 The 10K community representative [\[Sick\]Catcat](https://osu.ppy.sh/users/11544934) has posted their [10K osu!mania Mapping Guide](https://osu.ppy.sh/community/forums/topics/1336072) in the osu!mania subforum with everything you need to know to start mapping 10K osu!mania, covering anything from various pattern structures to useful tips and tricks in Easy to Hard difficulties.
 
-If it piqued your interest, that's great! Then get your favourite song and start mapping. 10K osu!mania is in urgent need of more ranked beatmaps. And should you need more help, the [10K+ Rhythm Game Community](https://discord.gg/PwzcUzk) would be more than happy to help you out further with your map!
+If this has piqued your interest, slap your favourite song into the editor and start mapping - everybody knows that 10K osu!mania is in urgent need of more ranked beatmaps, after all. And should you need more help, the [10K+ Rhythm Game Community](https://discord.gg/PwzcUzk) would be more than happy to assist.
 
 ### osu! Featured Artist Compilation Blind Beatmap Collab
 
-Now, let's take a moment for ourselves and admire the wonderful collaborative effort the community has put forward, because [**this is where we are, and what unites us**](https://osu.ppy.sh/beatmapsets/1483077#osu/3041896).
+Now, let's take a moment for ourselves and admire the wonderful (and aptly named) collaborative effort the community has put forward, because [**this is where we are, and what unites us**](https://osu.ppy.sh/beatmapsets/1483077#osu/3041896).
 
 Hosted by the talented mapper and modder [Nuvolina](https://osu.ppy.sh/users/10974170), the blind collab project features an hour-long medley composed of minute sections from various Featured Artist tracks delicately compiled by [ModlesS\_Flash](https://osu.ppy.sh/users/5113095).
 
@@ -145,12 +149,12 @@ And of course, such a massive project wouldn't have been left without a showcase
 
 ---
 
-And that's it for this month. Good we didn't promise anything last time because we are once again late, but the IRL stress will finally be gone within the next weeks, which means the next issues should hopefully be on time!
+And that's it for this month! Good thing we didn't promise anything last time because we are once again late, but we expect things to start winding down now throughout the rest of the year, so we should be back on track with more timely mapping morsels for you to gobble up in newspost form.
 
-As always, should you know anything mapping or modding related, be it guides, podcasts or videos, let us know. We would love to touch upon them in the next issue of Mappers' Report!
+As always, should you have any spicy details anything mapping or modding related, be it guides, podcasts or videos, please let us know! We would love to touch upon them in the next issue of Mappers' Report, and we can't do that if we don't know about them.
 
-You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H).
+You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H). Hope to see you there soon!
 
-Hope to see you there soon. Thank you for reading, stay safe and healthy!
+Thank you for reading, stay safe and healthy!
 
 —Feerum, Jemzuu, autofanboy and Zeus-
