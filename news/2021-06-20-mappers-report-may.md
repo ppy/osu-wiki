@@ -113,7 +113,7 @@ But that's not all — this one has some hefty prizes too!
 
 The winner will be rewarded with 100 USD in cash, plus having their set modded by the host and the judges! Should you not make it to the top, the runners-up will still get 20 USD in cash in addition to 4 months of osu!supporter for 2nd place, and the 3rd place will enjoy 2 months of osu!supporter.
 
-Have we got you interested in getting your hands dirty with the harvest? Then be quick - the sign-ups are closing soon on **June 20th**!
+Unfortunately, the sign-ups have just been closed. However, you may take a seat and watch along the fruit pickers duelling with the songs of our beloved Featured Artists.
 
 ### osu!catch Mapping World Cup 2021
 
@@ -121,7 +121,7 @@ Brought to you by the osu!catch mapping grand-master [Ascendance](https://osu.pp
 
 Needless to say, such a contest is not going to be without prizes, but all the details on that matter are currently work-in-progress. To keep track of the updates and learn more about the contest, we highly suggest you to check the [forum thread](https://osu.ppy.sh/community/forums/topics/1350409), and dive right into the [o!CMWC Discord server](https://discord.gg/eTUFAjf "Discord").
 
-Alright, osu!catch folks! Hopefully, we've made your day with these two majestic contests, but make sure to compete responsibly, you wouldn't want to... *overdose* on fruit juice after all, would you?
+Alright, osu!catch folks! Hopefully, we've made your day with these two majestic contests, but make sure to compete responsibly, since you wouldn't want to... *overdose* on fruit juice after all, would you?
 
 ## Around the Community
 
