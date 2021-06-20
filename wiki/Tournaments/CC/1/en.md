@@ -38,7 +38,7 @@ Corgi Cup: June 2016 was run by various community members by distributing the mu
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710) |
-| Co-Host | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| Co-host | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 | Mappool selector | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_PL] [Wilchq](https://osu.ppy.sh/users/2021758) |
 | Streamer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 | Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [- Isozaki -](https://osu.ppy.sh/users/3987676), ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378) |
@@ -116,14 +116,14 @@ This competition has come to an end and resulted in the following podium:
   - [Telekinesis - The Monk (FCL) [Technique of Shadow]](https://osu.ppy.sh/beatmapsets/381529#osu/834589)
   - [IRON ATTACK! - Future is Undefined (Kite) [Insane]](https://osu.ppy.sh/beatmapsets/32447#osu/106156)
 - Tiebreaker
-  - **[SawanoHiroyuki\[nZk\]:Gemie - x.U. (ETIA. Hardcore Bootleg Remix) (captin1) [Shinoa]](https://osu.ppy.sh/beatmapsets/331872#osu/735021)**  
+  - **[SawanoHiroyuki[nZk]:Gemie - x.U. (ETIA. Hardcore Bootleg Remix) (captin1) [Shinoa]](https://osu.ppy.sh/beatmapsets/331872#osu/735021)**  
 
 ### Quarterfinals
 
 - NoMod
   - [Nekomata Master - Far east nightbird (kors k Remix) (jonathanlfj) [RLC's Extra]](https://osu.ppy.sh/beatmapsets/144171#osu/358273)
   - [Traktion - Gid V (Irreversible) [galV's Insane]](https://osu.ppy.sh/beatmapsets/163689#osu/399252)
-  - [Dark PHOENiX - Stirring an Autumn Moon (_lolipop) [Crazy Moon]](https://osu.ppy.sh/beatmapsets/16650#osu/59693)
+  - [Dark PHOENiX - Stirring an Autumn Moon (\_lolipop) [Crazy Moon]](https://osu.ppy.sh/beatmapsets/16650#osu/59693)
   - [toby fox - Hopes and Dreams (pkk) [DREAMER]](https://osu.ppy.sh/beatmapsets/373373#osu/817987)
   - [PESS and t.A.T.u. - All The Things She Said (DnB Remix) (spboxer3) [Stressboxer]](https://osu.ppy.sh/beatmapsets/73185#osu/295985)
 - Hidden
@@ -202,7 +202,7 @@ Sunday, 19 June 2019:
 | Seraxis ![][flag_GB] | 3 | **4** | ![][flag_US] **zelda101** | [#1](https://osu.ppy.sh/community/matches/25737972) |
 | **Pelzio** ![][flag_GB] | **4** | 1 | ![][flag_US] MicMck101 | [#1](https://osu.ppy.sh/community/matches/25739013) |
 | **dong** ![][flag_GB] | **4** | 3 | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/community/matches/25741329) |
-| Hydria ![][flag_GB] | 2 | **4** | ![][flag_GB] rafalbrew | [#1](https://osu.ppy.sh/community/matches/25740307) |
+| Hydria ![][flag_GB] | 2 | **4** | ![][flag_GB] **rafalbrew** | [#1](https://osu.ppy.sh/community/matches/25740307) |
 
 ### Round of 16
 
@@ -211,7 +211,7 @@ Saturday, 18 June 2019:
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Atrocious ![][flag_SE] | 3 | **4** | ![][flag_GB] **dong** | [#1](https://osu.ppy.sh/community/matches/25710268) |
-| Sopison ![][flag_GB] | 0 | **4** | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/community/matches/25711194) |
+| Sopison ![][flag_GB] | 0 | **4** | ![][flag_GB] **djsettle** | [#1](https://osu.ppy.sh/community/matches/25711194) |
 | **Pelzio** ![][flag_GB] | **4** | 1 | ![][flag_GB] MagicMantwon | [#1](https://osu.ppy.sh/community/matches/25711910) |
 | Lazulite ![][flag_US] | 3 | **4** | ![][flag_GB] **Hydria** | [#1](https://osu.ppy.sh/community/matches/25712820) |
 | **rafalbrew** ![][flag_GB] | **4** | 0 | ![][flag_GB] SteffoST | [#1](https://osu.ppy.sh/community/matches/25713279) |
@@ -221,18 +221,18 @@ Saturday, 18 June 2019:
 
 ## Ruleset
 
-- This tournament is a 1v1, Head to head, Single Elimination tournament.
+- This is a 1v1, head-to-head, single-elimination tournament.
 - Each round will be BO7 (first to 4).
 - Referees create the match and will invite players 10 mins prior to match beginning.
 - If a player fails to turn up before or on the time their match is due to start, a 10 minute timer will be started. After 10 minutes, if the player has still not shown up, the other player wins.
 - If both players fail to show up, the match can be rescheduled during the times given.
 - Warm-ups are optional should a player request one. (Note: the warm up should not be from the mappool the players are due to play and must have a drain time of 4 mins or less.)
 - After warm ups (should there be any), both players will `!roll` to decide who bans/picks first. Loser of the roll bans first and winner of the roll picks first.
-- Each player is allowed one ban per match (Not Tiebreaker).
+- Each player is allowed one ban per match. The tiebreaker cannot be banned.
 - If a player disconnects during the match in which the outcome would have been different. A rematch can be offered under the Referee’s discretion.
-- Hard Rock and Double Time mappools can be played with Hidden should the player want to.
+- Hard Rock and Double Time mappools can be played with Hidden if the player wants to.
 - Score V2 will be used.
-- Free mod can be any mod the player decides (including EZ + FL).
+- Free Mod can be any mod the player decides (including EZ + FL).
 
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
