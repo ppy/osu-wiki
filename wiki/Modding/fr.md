@@ -39,4 +39,4 @@ De nombreux messages de mods traitent des erreurs dans une beatmap. Par exemple,
 
 Proposer des méthodes alternatives de beatmapping est un autre type de post de mod courant. Si une partie d'une beatmap peut être acceptable dans sa forme actuelle, un moddeur peut expliquer comment l'améliorer encore en le concevant différemment.
 
-Les beatmaps qui visent la catégorie classée doivent impérativement respecter les [critères de classement](/wiki/Ranking_Criteria). Un certain nombre de messages de mods traitent des problèmes cités directement dans ces critères.
+Les beatmaps visant la catégorie classée doivent impérativement respecter les [critères de classement](/wiki/Ranking_Criteria). Un certain nombre de messages de mods traitent des problèmes cités directement dans ces critères.
