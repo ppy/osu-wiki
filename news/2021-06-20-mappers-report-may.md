@@ -143,7 +143,7 @@ Hosted by the talented mapper and modder [Nuvolina](https://osu.ppy.sh/users/109
 
 And of course, such a massive project wouldn't have been left without a showcase stream! The VOD is available below for those who have missed it or wish to fall under its spell once again:
 
-<iframe src="https://player.twitch.tv/?video=1051031340&parent=osu.ppy.sh" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
+<iframe src="https://player.twitch.tv/?video=1051031340&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 <a id="conclusion"></a>
 
