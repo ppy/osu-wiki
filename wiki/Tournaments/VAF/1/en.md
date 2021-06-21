@@ -1,4 +1,4 @@
----
+**---
 tags:
   - VAF
 ---
@@ -299,6 +299,50 @@ The Vaf's Autumn Fiesta is run by various community members.
   - [Se-U-Ra - Hope 4 Hopeful (Hivie) \[Optimism\]](https://osu.ppy.sh/beatmapsets/1302274#taiko/2700888)
 
 ## Match results
+
+### Swiss week 6
+
+Saturday, 19 June 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MEGAMELA** ![][flag_FI] | **7** | 0 | ![][flag_RU] Akonine | *win by default* |
+| GoZaRaNi ![][flag_KR] | 0 | **7** | ![][flag_PH] **Pochacco** | *win by default* |
+| coed ![][flag_IT] | **7** | 0 | ![][flag_KR] phosphene47 | *win by default* |
+| **D3kuu** ![][flag_IT] | **7** | 0 | ![][flag_TW] Yuemiao | [#1](https://osu.ppy.sh/community/matches/85881455) |
+| Konpaku Sariel ![][flag_KR] | 0 | **7** | ![][flag_BE] XOlifreX | *win by default* |
+| **Coryn** ![][flag_BR] | **7** | 0 | ![][flag_MY] \[Zeth\] | *win by default* |
+| **J a c k y** ![][flag_HK] | **7** | 5 | ![][flag_CA] janitore | [#1](https://osu.ppy.sh/community/matches/85881014) |
+| **Vulkin** ![][flag_CL] | **7** | 1 | ![][flag_RU] CrowWhite | [#1](https://osu.ppy.sh/community/matches/85895644) |
+| Genjuro ![][flag_GR] | 0 | 0 | ![][flag_BR] Gustav0eiji | *nullified* |
+| oL0 ![][flag_KR] | 0 | **7** | ![][flag_US] **Etholux** | *win by default* |
+
+Sunday, 20 June 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ku\_Ren** ![][flag_JP] | **7** | 4 | ![][flag_MX] -Arato | [#1](https://osu.ppy.sh/community/matches/85918264) |
+| Daniels ![][flag_GB] | 0 | **7** | ![][flag_US] **Xok** | *win by default* |
+| bernard351 ![][flag_PL] | 0 | **7** | ![][flag_JP] **uranosu1030** | *win by default* |
+| **5henry** ![][flag_KR] | **7** | 1 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/85919643) |
+| Jakads ![][flag_KR] | 0 | **7** | ![][flag_US] **cheese salad** | *win by default* |
+| Ponamis ![][flag_TH] | 0 | **7** | ![][flag_AU] **r1chyy** | *win by default* |
+| **Teezel** ![][flag_GB] | **7** | 0 | ![][flag_ID] Naverlyn | *win by default* |
+| petterde ![][flag_NO] | **7** | 0 | ![][flag_NL] Cookie\_Tree | *win by default* |
+| nananass ![][flag_JP] | 4 | **7** | ![][flag_JP] **yu-k1\_** | [#1](https://osu.ppy.sh/community/matches/85938286) |
+| BananaW ![][flag_FR] | 0 | 0 | ![][flag_JP] shakegohan\_jar | *nullified* |
+| Sparxe ![][flag_NZ] | 5 | **7** | ![][flag_TW] **cat1346** | [#1](https://osu.ppy.sh/community/matches/85939789) |
+| LordEnder ![][flag_IT] | 6 | 6 | ![][flag_RU] Den4ik228 | [#1](https://osu.ppy.sh/community/matches/85941215) |
+| **Saikoro** ![][flag_JP] | **7** | 0 | ![][flag_TW] \_Llama | *win by default* |
+| honkers ![][flag_CA] | 0 | **7** | ![][flag_CH] **MC2BP** | *win by default* |
+| **XK2238** ![][flag_ID] | **7** | 5 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/85943637) |
+| **Minekuchi** ![][flag_DE] | **7** | 1 | ![][flag_AR] \_Doodle\_ | [#1](https://osu.ppy.sh/community/matches/85946197) |
+| Lynerrr ![][flag_KZ] | 3 | **7** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/85946292) |
+| Ppus ![][flag_BR] | 0 | **7** | ![][flag_US] **Garpo** | *win by default* |
+| **mangomizer** ![][flag_GB] | **7** | 5 | ![][flag_TH] Raytoly | [#1](https://osu.ppy.sh/community/matches/85947936) |
+| **Skull Kid** ![][flag_BR] | **7** | 1 | ![][flag_IT] A-40 | [#1](https://osu.ppy.sh/community/matches/85958743) |
+| **AuroraPhasmata** ![][flag_US] | **7** | 1 | ![][flag_AR] gaston\_2199 | [#1](https://osu.ppy.sh/community/matches/85961573) |
+| **FurryBoujee** ![][flag_BR] | **7** | 0 | ![][flag_UA] Don Omar | [#1](https://osu.ppy.sh/community/matches/85963413) |
 
 ### Swiss week 5
 
@@ -613,3 +657,4 @@ Sunday, 16 May 2021:
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
+**
