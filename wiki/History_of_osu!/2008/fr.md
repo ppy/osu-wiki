@@ -12,7 +12,7 @@ peppy est parti au Japon du 17 décembre 2007 au 20 janvier 2008. Il a réussi �
 
 ![](img/hard_rock.png "Hard Rock \(v1\)") ![](img/sudden_death.png "Sudden Death \(v1\)") ![](img/double_time.png "Double Time \(v1\)")
 
-Les joueurs ont eu de nouveaux défis sous la forme de [mods](/wiki/Game_modifier) ([Hard Rock](/wiki/Game_modifier/Hard_Rock), [Sudden Death](/wiki/Game_modifier/Sudden_Death), et [Double Time](/wiki/Game_modifier/Double_time)). L'expérience de jeu a été grandement améliorée avec l'ajout d'images et sons de compte à rebours, des nombres et couleurs de combo personnalisées, des rangs de section O/X (Passé/Raté), d'un compte à rebours d'intro, couleur d'arrière plan scriptable, de la gestion du volume par section de timing et (sûrement le plus important) l'introduction du support des [Storyboard programmables](/wiki/Storyboard_Scripting). Un essai a été réalisé pour déplacer osu! vers le framework XNAv2, mais peppy a décidé que la nouvelle version était inutile et réduisait les performances globales. XNA1.1 a été utilisé a partir de ce moment la, qui était adapté aux besoins d'osu! avec des milliers de lignes réécrites et des "hacks" pour faire d'osu! ce qu'il était. Un nouveau moteur de rendu pour le texte a également été implémenté, rendant possible l'utilisation de polices d'écritures plus nettes et de toutes tailles. Ce qui a rendu possible d'afficher plus d'information dans [l'éditeur de beatmaps](/wiki/Beatmap_Editor), et de rendre le jeu plus beau globalement.
+Les joueurs ont eu de nouveaux défis sous la forme de [mods](/wiki/Game_modifier) ([Hard Rock](/wiki/Game_modifier/Hard_Rock), [Sudden Death](/wiki/Game_modifier/Sudden_Death), et [Double Time](/wiki/Game_modifier/Double_time)). L'expérience de jeu a été grandement améliorée avec l'ajout d'images et sons de compte à rebours, des nombres et couleurs de combo personnalisés, des rangs de section O/X (Réussi/Échoué), d'un compte à rebours d'intro, couleur d'arrière plan scriptable, de la gestion du volume par section de timing et (sûrement le plus important) l'introduction du support des [Storyboards programmables](/wiki/Storyboard_Scripting). Un essai a été réalisé pour déplacer osu! vers le framework XNAv2, mais peppy a décidé que la nouvelle version était inutile et réduisait les performances globales. XNA1.1 a été utilisé à partir de ce moment-là, qui était adapté aux besoins d'osu! avec des milliers de lignes réécrites et des "hacks" pour faire d'osu! ce qu'il était. Un nouveau moteur de rendu pour le texte a également été implémenté, rendant possible l'utilisation de polices d'écritures plus nettes et de toutes tailles. Ce qui a rendu possible d'afficher plus d'information dans [l'éditeur de beatmaps](/wiki/Beatmap_Editor), et de rendre le jeu plus beau globalement.
 
 ## Mars
 
@@ -22,7 +22,7 @@ Pour contrebalancer les nouveaux mods de février, les mods [Relax](/wiki/Game_m
 
 ## Avril
 
-Sans blague, Bancho a été lancé en avril, et avec lui les panneaux d'utilisateurs du [Chat Étendu](/wiki/Chat_Console#extended-chat-console). Les utilisateurs pouvaient maintenant voir ce que les autres utilisateurs faisaient dans leurs panneaux d'utilisateur, et pouvaient également interagir avec eux en cliquant pour les observer. Le système de soumission d'erreurs automatique a été ajouté, la compatibilité xfire a été implémentée, et le menu principal et l'interface de l'éditeur ont reçu un relooking (avec les nouvelles icônes par [LuigiHann](https://osu.ppy.sh/users/1079)). L'interface de la console de chat a vu l'ajout du bouton "Afficher le chat", l'onglet "tab completion", et les alertes de mentions de pseudos. L'écran des scores montrait maintenant le nombre de points requis pour atteindre le prochain rang.
+Sans blague, Bancho a été lancé en avril, et avec lui les panneaux d'utilisateurs du [Chat Étendu](/wiki/Chat_Console#extended-chat-console). Les utilisateurs pouvaient maintenant voir ce que les autres utilisateurs faisaient dans leurs panneaux d'utilisateur, et pouvaient également interagir avec eux en cliquant pour les observer. Le système d'envoi de rapports d'erreurs automatique a été ajouté, la compatibilité xfire a été implémentée, et le menu principal et l'interface de l'éditeur ont reçu un relooking (avec les nouvelles icônes par [LuigiHann](https://osu.ppy.sh/users/1079)). L'interface de la console de chat a vu l'ajout du bouton "Afficher le chat", l'onglet "tab completion", et les alertes de mentions de pseudos. L'écran des scores montrait maintenant le nombre de points requis pour atteindre le prochain rang.
 
 ## Mai
 
@@ -32,11 +32,11 @@ Le mode [Taiko](/wiki/Game_mode/osu!taiko) a vu le jour ce mois-ci, avec un autr
 
 ## Juin
 
-Une étape importante de l'histoire d'osu! a été atteinte avec l'ajout du mode de jeu [Multi (multijoueur)](/wiki/Multi). Les possibilités de skinning ont été agrandies pour à la fois le coté graphique et sonore. Finalement, le chat multi-canal a été possible pour la première fois.
+Une étape importante de l'histoire d'osu! a été atteinte avec l'ajout du mode de jeu [Multi (multijoueur)](/wiki/Multi). Les possibilités de skinning ont été agrandies pour à la fois le coté graphique et sonore. Enfin, le chat multi-canal a été rendu possible pour la première fois.
 
 ## Juillet
 
-L'éditeur, le multijoueur, le storyboarding, les graphiques, et la console de chat ont tous reçu de nombreuses améliorations ce mois-là. L'écran d'options a maintenant un nouveau modèle, et la [configuration des touches](/wiki/Options/Keyboard_Bindings) a été introduite.
+L'éditeur, le multijoueur, le storyboarding, les graphismes, et la console de chat ont tous reçu de nombreuses améliorations ce mois-ci. L'écran d'options a maintenant un nouveau modèle, et la [configuration des touches](/wiki/Options/Keyboard_Bindings) a été introduite.
 
 ## Août
 
@@ -44,13 +44,13 @@ Continuant sur la tendance de juillet, un joueur aura du mal à trouver un aspec
 
 Les records personnels en ligne ont été ajoutés au menu de sélection de musiques, remplissant une demande de longue date, qui demandait une optimisation assez conséquente de la base de données. Des améliorations graphiques ont été ajoutées à l'écran de résultat, et des éléments variés du skin par défaut ont été réalisés dans le but de les rendre plus propres et nets qu'avant. L'affichage du score des sliders ticks (10/30) a été ajouté. Des améliorations ont été vues dans la préparation des matchs multijoueurs, rendant possible le transfert du contrôle de la salle. De nombreuses nouvelles [commandes de chat](/wiki/Chat_Console#commands-list) ont été ajoutées pour les utilisateurs.
 
-Un nouveau statut classé a été ajouté, "![](/img/fire.gif) [Approuvée](/wiki/Beatmap/Category#approuvée)" pour les maps de grande qualités, mais qui excédaient les critères de classement de longueur, difficulté, ou autres d'une manière ou d'une autre. Les maps dans ce statut ne comptent pas pour les scores du joueurs, mais possèdent des classements, et se comportent comme une map ![](img/heart.gif) [Classée](/wiki/Beatmap/Category#classée).
+Un nouveau statut classé a été ajouté, "![](/img/fire.gif) [Approuvée](/wiki/Beatmap/Category#approuvée)" pour les maps de grande qualités, mais qui excédaient les critères de classement de longueur, difficulté, ou autres d'une manière ou d'une autre. Les maps dans ce statut ne s'ajoutent pas aux scores du joueur, mais possèdent des classements, et se comportent comme une map ![](img/heart.gif) [Classée](/wiki/Beatmap/Category#classée).
 
 ## Septembre
 
 ![](img/flashlight.png "Flashlight \(v1\)") ![](img/spun_out.png "Spun Out \(v1\)") ![](img/auto.png "Auto \(v1\)")
 
-Une série de nouveau mods a été rendue publique ce mois-ci : [Flashlight](/wiki/Game_modifier/Flashlight), [Spun Out](/wiki/Game_modifier/Spun_Out) et [Auto](/wiki/Game_modifier/Auto). Auto émule un joueur artificiel qui peut compléter (presque) n'importe quelle beatmap avec une [précision](/wiki/Accuracy) parfaite, et est aussi accessible depuis le mode de test de l'éditeur. Les limites de la création des beatmaps ont été poussées plus loin avec l'ajout de plus d'éléments personnalisables (incluant les [images de comboburst](/wiki/Glossary/comboburst), le sample du son du clap, la possibilité d'assigner des sons a des points individuels de sliders et des sections de timing en découlant). Le menu de sélection des musiques a aussi reçu une refonte. 
+Une série de nouveau mods a été rendue publique ce mois-ci : [Flashlight](/wiki/Game_modifier/Flashlight), [Spun Out](/wiki/Game_modifier/Spun_Out) et [Auto](/wiki/Game_modifier/Auto). Auto émule un joueur artificiel qui peut compléter (presque) n'importe quelle beatmap avec une [précision](/wiki/Accuracy) parfaite, et est aussi accessible depuis le mode de test de l'éditeur. Les limites de la création des beatmaps ont été poussées plus loin avec l'ajout de plus d'éléments personnalisables (incluant les [images de comboburst](/wiki/Glossary/comboburst), l'échantillon sonore clap, la possibilité d'assigner des sons à des points individuels de sliders et des sections de timing en découlant). Le menu de sélection des musiques a aussi reçu une refonte. 
 
 ## Octobre
 
@@ -60,13 +60,13 @@ Des progrès ont été réalisés sur l'implémentation d'OpenGL et le nouveau m
 
 ![](img/fruit_ryuuta.png "L'attrapeur de Catch the Beat")
 
-Novembre a vu l'introduction d'un tout nouveau mode de jeu, Catch the Beat. Le support d'OpenGL a démarré, permettant donc a osu! de tourner sur la majorité des systèmes. D'autres nouvelles fonctionnalités incluent le support de la liste d'amis en jeu, de canaux de chat privés, un nouveau tutoriel pour l'[offset wizard](/wiki/Options/Offset_Wizard) et osu!direct (une plateforme en jeu pour télécharger des beatmaps).
+Novembre a vu l'introduction d'un tout nouveau mode de jeu, Catch the Beat. Le support d'OpenGL a démarré, permettant donc à osu! de tourner sur la majorité des systèmes. D'autres nouvelles fonctionnalités incluent le support de la liste d'amis en jeu, de canaux de chat privés, un nouveau tutoriel pour l'[offset wizard](/wiki/Options/Offset_Wizard) et osu!direct (une plateforme en jeu pour télécharger des beatmaps).
 
-Suite aux plaintes de personnes ayant un grand nombre de beatmaps sur le temps de chargement d'osu!, peppy a passé de nombreux jours à optimiser tout ce qui était possible, résultant en une amélioration presque immesurable. Les chargements de plus d'une minute ont été réduits à quelques millisecondes.
+Suite aux plaintes de personnes ayant un grand nombre de beatmaps sur le temps de chargement d'osu!, peppy a passé de nombreux jours à optimiser tout ce qui était possible, résultant en une amélioration presque impossible à mesurer sur une échelle (au moins supérieure à 9000). Les chargements de plus d'une minute ont été réduits à quelques millisecondes.
 
 ## Décembre
 
-Le dernier mois de 2008 a eu beaucoup en stock pour le développement d'osu!. Au deuxième noël d'osu!, la première version de l'éditeur de storyboards a été implémentée, rendant le storyboarding beaucoup plus accessible aux utilisateurs. Un deuxième mode de jeu multijoueur a été ajouté : "Tag Play". C'était une mode coopératif ou les joueurs jouaient chacun leur tour sur une beatmap. Un autre ajout au multijoueur était la "Victoire sur l'accuracy". MSN et Yahoo ont été intégrés, et les utilisateurs pouvaient entièrement personnaliser leurs touches de jeu et les mots à notifications.
+Le dernier mois de 2008 a eu beaucoup en stock pour le développement d'osu!. Au deuxième Noël d'osu!, la première version de l'éditeur de storyboards a été implémentée, rendant le storyboarding beaucoup plus accessible aux utilisateurs. Un deuxième mode de jeu multijoueur a été ajouté : "Tag Play". C'était un mode coopératif dans lequel les joueurs jouaient chacun leur tour sur une beatmap. Un autre ajout au multijoueur était la "Victoire sur accuracy". MSN et Yahoo ont été intégrés, et les utilisateurs pouvaient entièrement personnaliser leurs touches de jeu et les mots à notifications.
 
 Les miniatures et prévisualisations audios ont été ajoutées a la liste de beatmaps en ligne, rendant la recherche de maps que vous voudriez jouer plus simple.
 
