@@ -339,8 +339,8 @@ The following is a list of the total number of days that a player has held the r
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 44 |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 39 |
 | ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 37 |
-| ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
 | ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 35 |
+| ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 33 |
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 33 |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 27 |
