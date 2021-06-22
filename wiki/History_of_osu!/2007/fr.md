@@ -67,6 +67,7 @@ Le 6 octobre 2007 est le jour où les classements en ligne ont été implément�
 ![](img/2007-10_01.jpg)
 
 L'écran de sélection de musiques a vu des améliorations avec le groupement des difficultés et un mouvement de scroll plus intuitif. Le set d'échantillons soft, les raccourcis clavier, et la recherche en jeu ont tous été ajoutés ce mois-là. Les joueurs pouvaient créer des [skins](/wiki/Skinning) globaux, mais aussi par beatmap pour la première fois, et la prise en charge complète des Tablet-PC a été implémentée.
+
 ![](img/2007-10_02.jpg "Menu de sélection de musiques dans le mode solo")
 
 ![](img/2007-10_03.jpg "Message d'erreur")
