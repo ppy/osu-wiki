@@ -1,4 +1,4 @@
-**---
+---
 tags:
   - VAF
 ---
@@ -603,53 +603,55 @@ Sunday, 16 May 2021:
 
 ### General rules
 
-1. At the time of the match. Players will be invited by the referee.
-2. If a player has a **10 minute delay** they will have their `!roll` automaticaly lost.
-3. If a player has a **15 minute delay** they will have their match automatically lost.
-4. If both players end up noshowing it will be deemed as a tie.
-5. Each player can submit a warmup. However, it might not be more than **3 minutes** long.
-6. Highest `!roll` will be given four options and be asked to pick one. Those options are:
+1. A private lobby will be created 10 minutes before the scheduled match takes place by a referee. Both players will be invited into the room when it's match time.
+   - If any of the player is late by **10 minutes**, they will have their `!roll` results automatically lost.
+   - If any of the player is late by **15 minutes**, the other player will be declared as the winner by default.
+2. If both players fail to show up to their match, the match results will be deemed as a tie.
+3. Each player can submit a warmup. However, it might not be more than **3 minutes** long.
+4. Highest `!roll` will be given four options and be asked to pick one. Those options are:
    - Pick first
    - Pick second
    - Ban first
    - Ban second
-   - The loser will then choose the other option, for example; Winner picks ban order so loser chooses pick order.
-7. Referee will summarise then the pick/ban order selected by players.
-8. You can call for an abort or disconnection within the first **30 seconds** of the map having started in order to replay the map. Each player has a limit of **1 replay** per match.
-9. Players **are not allowed to ban the same mod bracket twice with the exception of nomod**.
-10. Players **have no restrictions regarding picks**. They can pick any map in any order.
-11. Players **do not have any FreeMod restrictions**, they can go with NoMod, Hidden, HardRock or Hidden+HardRock.
-12. It is the player's responsibility to be prepared for the match. If any technical difficulties appear related to the maps (for example, if a player has a slow connection and has problems downloading a map), the referee is allowed to give the point to the enemy player, assuming the problematic player is taking too long fixing their problem and not cooperating.
-13. There are no time restrictions, but players are expected to act using common sense. If a player is obviously stalling, then the referees is allowed to add an `!mp timer` of their choice (preferably 2 minutes).
-14. Disrespect of the assigned referee, and/or opponent, will not be tolerated. (Also applies for the Discord server and towards other staff members)
-15. If there are 2 ties, the pick will be nullified.
-16. Ban order is: Player 1 ban, Player 2 ban, Player 1 ban, Player 2 ban.
-17. The mappool size will follow the listed format:
+   - After that, The loser is forcedly choose the other option, for example; Winner picks ban order so loser chooses pick order.
+5. Referee then will summarise the pick/ban order selected by players.
+6. Ban order is: Player 1 ban, Player 2 ban, Player 1 ban, Player 2 ban.
+7. You can call for an abort or disconnection within the first **30 seconds** of the map having started in order to replay the map. Each player has a limit of **1 replay** per match.
+8. Players **are not allowed to ban the same mod bracket twice with the exception of nomod**.
+9. Players **have no restrictions regarding picks**. They can pick any map in any order from any bracket.
+10. During FreeMod bracket, players **do not have any FreeMod restrictions**, they can go with NoMod, Hidden, HardRock or Hidden+HardRock.
+11. It is the player's responsibility to be prepared for the match. If any technical difficulties appear related to the maps (for example, if a player has a slow connection and has problems downloading a map), the referee is allowed to give the point to the enemy player, assuming the problematic player is taking too long fixing their problem and not cooperating.
+12. There are no time restrictions, but players are expected to act using common sense. If a player is obviously stalling, then the referees is allowed to add an `!mp timer` of their choice (preferably 2 minutes).
+13. Disrespect of the assigned referee, and/or opponent, will not be tolerated. (Applies towards other staff members in the Discord server environment)
+14. If a pick has been tied for 2 times after replaying it, the pick will be nullified.
+15. The mappool size will follow the listed format:
     - Swiss bracket: 5 Nomod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, No Tiebreaker
     - Semifinals, Finals, and Grand Finals: 5 Nomod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, 1 Tiebreaker
+16. Any members of staff apart from **Organiser, Mappool selector, and Referee are allowed to play**.
+17. All match schedules will be written in UTC.
+18. Reschedules will always be taken as long as they are **24 hours before** the first schedule of the running stage.
+19. Mappools will be released by each week's Monday so every match can occur before that. This applies both for Swiss bracket and during the knockout stage.
+
+### Registration
+
+1. Everyone that meets the rank restricted requirements is able to sign up. Shen registration is coming to a close, players are allowed to bypass the rank restriction, but if the player isn't within the rank range by the time registration ends their registration will be removed.
+2. To register, each player must follow the format posting: Their osu! user ID followed by timezone (in UTC) in the `#registration` text-channel in the VAF Discord server, which will only be open for 2 weeks until the registrations end.
+3. Signing up does not guarantee participation in the tournament. Players will have to stay within the cutoff until the registrations close. The cutoff will be held at 64 players.
 
 ### Swiss style
 
-1. Swiss Style is a league style format which consists in playing against an x amount of oponents depending on the format and the rounds existing. This implies that each player will not play against everyone in the swiss. Each matchup will depend on the seeding and performance of every player in the swiss bracket. There is an exception where in case of a tie a player might rematch someone depending on their point difference (this depends on the Challonge bracket). More explanation on video format can be accessed through the [following video](https://youtu.be/WsvFrxJPBZA).
+1. Swiss style is a league style format which consists in playing against an x amount of oponents depending on the format and the rounds existing. This implies that each player will not play against everyone in the swiss. Each matchup will depend on the seeding and performance of every player in the swiss bracket. There is an exception where in case of a tie a player might rematch someone depending on their point difference (this depends on the Challonge bracket). More explanation on video format can be accessed through the [following video](https://youtu.be/WsvFrxJPBZA).
 2. Each player will play throughout 6 weeks, 6 matches/rounds of swiss style.
 3. Matchups will be paired between players who posses the same amount of W-L-D (for example someone that goes 3-0 will be prioritized against someone who also is 3-0). What is more, playing against the same player twice will be avoided unless it's completely necessary.
-4. Every match will use BO13 format, this means throughout the entire swiss bracket a player will need 7 points to win a match or 6 to guarantee a tie. Semifinals onwards will also use BO13 format. The difference will be, swiss bracket won't have a tiebreaker.
+4. Every match will use BO13 format, this means throughout the entire swiss bracket a player will need 7 points to win a match or 6 to guarantee a tie. Semifinals onwards will also use BO13 format. The main difference is swiss bracket doesn't have a tiebreaker.
 5. In case of a tie in W-L-D at the end of the 6 rounds/matches several tiebreaker methods will be used on different information:
    - Points
    - [Bucholz](https://en.wikipedia.org/wiki/Buchholz_system)
    - Points scored difference
-6. Everyone who meets the rank restricted requirements is able to sign up. Any members of staff apart from **Organiser, Mappool selector, and Referee are allowed to play**.
-7. The top 12 players from the swiss stage will move on to a **bracket reset** if the team from the loser's bracket wins the first match.
-8. Players who are not in the rank range are allowed to **register**. However, if they are not within the rank range by the time the registration ends, their registration will be removed. Nevertheless, when registration is coming to a close, players are allowed to bypass the rank restriction.
-9. Signing up does not guarantee your participation in the tournament. Players will have to stay within the cutoff until the registrations close. The cutoff will be held at 64 players.
-10. To register, each player must follow the format posting: Their osu! user ID followed by timezone (in UTC) in the `#registration` text-channel in the VAF Discord server, which will only be open for 2 weeks until the registrations end.
-11. After registration ends players are **allowed to leave the rank range to any extent**.
-12. Every player who enters will play 6 matches in total 6 throughout 6 weeks in the swiss bracket. Only the top 12 players will go through the double elimination bracket afterwards.
-13. Players will enter immediately into a Semifinals situation in bracket. top 4 players in the swiss bracket will be in the winners bracket while the top 5 - top 12 will start from the losers bracket.
-14. All match schedules will be written in UTC.
-15. Reschedules will always be taken as long as they are **24 hours before** the first schedule of the running stage.
-16. 1 match will be played per week to make it easy for the players. In total players will play 6 matches in total during swiss bracket.
-17. Mappools will be released by each week's Monday so every match can occur before that.
+6. Every player who enters will play 6 matches in total 6 throughout 6 weeks in the swiss bracket. Only the top 12 players will go through the double elimination bracket afterwards.
+7. Players will enter immediately into Semifinals knockout stage if they pass the swiss bracket. Top 4 players from the swiss bracket will be in the winners bracket while the top 5 - top 12 will start from the losers bracket.
+8. Players will only have 1 match per week to make the schedule easy. In total will play 6 matches during swiss bracket.
+9. The top 12 players from the swiss bracket will move on to a **bracket reset** if the team from the loser's bracket wins the first match.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
@@ -687,4 +689,3 @@ Sunday, 16 May 2021:
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
-**
