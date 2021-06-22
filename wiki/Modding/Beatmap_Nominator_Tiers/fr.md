@@ -2,7 +2,7 @@
 
 Les **Beatmap Nominator Tiers** étaient une manière de séparer les [Beatmaps Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) en niveaux supérieurs et inférieurs, imitant la [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) et la [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team). Le système a été utilisé entre avril 2017 et septembre 2017.
 
-Ce système a été mis en place en réponse au changement de fonction de la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), qui est passée de l'assurance de la qualité des beatmaps qualifiés à la gestion générale des BN. En donnant des autorisations de qualification aux seuls membres "les plus compétents" des BN, la QAT espérait que la qualité des beatmaps classées s'améliorerait.
+Ce système a été mis en place en réponse au changement de fonction de la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), qui est passée de l'assurance de la qualité des beatmaps qualifiées à la gestion générale des BN. En donnant des autorisations de qualification aux seuls membres "les plus compétents" des BN, la QAT espérait que la qualité des beatmaps classées s'améliorerait.
 
 ## Permissions
 
@@ -19,11 +19,11 @@ Alors qu'il était prévu de créer plusieurs tests pour distinguer les niveaux,
 
 ## Impact
 
-Bien qu'ils aient été de courte durée, les effets de ce test ont eu un impact notable sur la scène de mapping.
+Bien qu'ils aient été de courte durée, les effets de ce test ont eu un impact notable sur la scène du mapping.
 
 En réduisant les autorisations des nominateurs de niveau 1, de nombreux nominateurs ont perdu leur motivation à contribuer au jeu. Le nombre limité de nominateurs de niveau 2 a entraîné une diminution du nombre de maps qualifiées, et la plupart des maps qualifiées à un moment donné ont été promues par les utilisateurs les plus actifs.
 
-La communauté de mapping a considéré ce changement comme improductif et inutile, la plupart des plaintes portant sur la faible fréquence des maps classées par rapport à la situation avant l'établissement des niveaux.
+La communauté du mapping a considéré ce changement comme improductif et inutile, la plupart des plaintes portant sur la faible fréquence des maps classées par rapport à la situation avant l'établissement des niveaux.
 
 ![](img/commentary.png "Exemple de commentaire de la communauté sur les niveaux des BN")
 
