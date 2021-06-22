@@ -65,7 +65,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Participants
 
-*Note: Global ranks are recorded at the end of registration.*
+*Note: Global ranks were recorded at the end of registration.*
 
 | Global rank | Player |
 | --: | :-- |
@@ -338,9 +338,9 @@ Saturday, 19 June 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **MEGAMELA** ![][flag_FI] | **7** | 0 | ![][flag_RU] Akonine | *win by default* |
 | GoZaRaNi ![][flag_KR] | 0 | **7** | ![][flag_PH] **Pochacco** | *win by default* |
-| coed ![][flag_IT] | **7** | 0 | ![][flag_KR] phosphene47 | *win by default* |
+| **coed** ![][flag_IT] | **7** | 0 | ![][flag_KR] phosphene47 | *win by default* |
 | **D3kuu** ![][flag_IT] | **7** | 0 | ![][flag_TW] Yuemiao | [#1](https://osu.ppy.sh/community/matches/85881455) |
-| Konpaku Sariel ![][flag_KR] | 0 | **7** | ![][flag_BE] XOlifreX | *win by default* |
+| Konpaku Sariel ![][flag_KR] | 0 | **7** | ![][flag_BE] **XOlifreX** | *win by default* |
 | **Coryn** ![][flag_BR] | **7** | 0 | ![][flag_MY] \[Zeth\] | *win by default* |
 | **J a c k y** ![][flag_HK] | **7** | 5 | ![][flag_CA] janitore | [#1](https://osu.ppy.sh/community/matches/85881014) |
 | **Vulkin** ![][flag_CL] | **7** | 1 | ![][flag_RU] CrowWhite | [#1](https://osu.ppy.sh/community/matches/85895644) |
@@ -358,7 +358,7 @@ Sunday, 20 June 2021:
 | Jakads ![][flag_KR] | 0 | **7** | ![][flag_US] **cheese salad** | *win by default* |
 | Ponamis ![][flag_TH] | 0 | **7** | ![][flag_AU] **r1chyy** | *win by default* |
 | **Teezel** ![][flag_GB] | **7** | 0 | ![][flag_ID] Naverlyn | *win by default* |
-| petterde ![][flag_NO] | **7** | 0 | ![][flag_NL] Cookie\_Tree | *win by default* |
+| **petterde** ![][flag_NO] | **7** | 0 | ![][flag_NL] Cookie\_Tree | *win by default* |
 | nananass ![][flag_JP] | 4 | **7** | ![][flag_JP] **yu-k1\_** | [#1](https://osu.ppy.sh/community/matches/85938286) |
 | BananaW ![][flag_FR] | 0 | 0 | ![][flag_JP] shakegohan\_jar | *nullified* |
 | Sparxe ![][flag_NZ] | 5 | **7** | ![][flag_TW] **cat1346** | [#1](https://osu.ppy.sh/community/matches/85939789) |
@@ -442,7 +442,7 @@ Saturday, 5 June 2021:
 | Gustav0eiji ![][flag_BR] | 6 | 6 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/84989639) |
 | **AuroraPhasmata** ![][flag_US] | **7** | 3 | ![][flag_NO] petterde | [#1](https://osu.ppy.sh/community/matches/84992542) |
 | **A-40** ![][flag_IT] | **7** | 2 | ![][flag_CL] Vulkin | [#1](https://osu.ppy.sh/community/matches/84992553) |
-| BananaW ![][flag_FR] | 0 | **7** | ![][flag_MX] -Arato | *win by default* |
+| BananaW ![][flag_FR] | 0 | **7** | ![][flag_MX] **-Arato** | *win by default* |
 | **Skull Kid** ![][flag_BR] | **7** | 2 | ![][flag_US] Etholux | [#1](https://osu.ppy.sh/community/matches/85008895) |
 | Konpaku Sariel ![][flag_KR] | 0 | **7** | ![][flag_KR] **5henry** | *win by default* |
 
@@ -603,55 +603,50 @@ Sunday, 16 May 2021:
 
 ### General rules
 
-1. A private lobby will be created 10 minutes before the scheduled match takes place by a referee. Both players will be invited into the room when it's match time.
-   - If any of the player is late by **10 minutes**, they will have their `!roll` results automatically lost.
-   - If any of the player is late by **15 minutes**, the other player will be declared as the winner by default.
-2. If both players fail to show up to their match, the match results will be deemed as a tie.
-3. Each player can submit a warmup. However, it might not be more than **3 minutes** long.
-4. Highest `!roll` will be given four options and be asked to pick one. Those options are:
-   - Pick first
-   - Pick second
-   - Ban first
-   - Ban second
-   - After that, The loser is forcedly choose the other option, for example; Winner picks ban order so loser chooses pick order.
-5. Referee then will summarise the pick/ban order selected by players.
+1. A private lobby will be created by a referee 10 minutes before the scheduled match. Both players will be invited into the room when it's match time.
+   - If a player is late by **10 minutes**, they will automatically lose the `!roll`.
+   - If a player is late by **15 minutes**, the other player will be declared as the winner by default.
+2. If both players fail to show up to their match, the match will end up as a tie.
+3. Each player can submit a warmup, although it cannot be longer than **3 minutes** long.
+4. The player with the higher `!roll` will be asked to choose either the pick order or ban order. Then, the loser will be forced to choose the remaining option.
+5. Referee will then summarise the pick/ban order selected by the players.
 6. Ban order is: Player 1 ban, Player 2 ban, Player 1 ban, Player 2 ban.
-7. You can call for an abort or disconnection within the first **30 seconds** of the map having started in order to replay the map. Each player has a limit of **1 replay** per match.
-8. Players **are not allowed to ban the same mod bracket twice with the exception of nomod**.
+7. You can call for an abort within the first **30 seconds** of the map, in order to replay it. Each player has a limit of **1 replay** per match.
+8. Players **are not allowed** to ban the same mod bracket twice with the exception of NoMod.
 9. Players **have no restrictions regarding picks**. They can pick any map in any order from any bracket.
-10. During FreeMod bracket, players **do not have any FreeMod restrictions**, they can go with NoMod, Hidden, HardRock or Hidden+HardRock.
-11. It is the player's responsibility to be prepared for the match. If any technical difficulties appear related to the maps (for example, if a player has a slow connection and has problems downloading a map), the referee is allowed to give the point to the enemy player, assuming the problematic player is taking too long fixing their problem and not cooperating.
-12. There are no time restrictions, but players are expected to act using common sense. If a player is obviously stalling, then the referees is allowed to add an `!mp timer` of their choice (preferably 2 minutes).
+10. Players **do not have any restrictions** for FreeMod bracket maps. They can play without any mods, with Hidden, Hard Rock, or Hidden and Hard Rock.
+11. It is the player's responsibility to be prepared for the match. If any technical difficulties appear related to the picks (e.g. a player has slow connection and cannot download the picked map), the referee is allowed to give a point to the enemy player if the problematic player is taking too long to fix their problem.
+12. There are no time restrictions, but the players are expected to act using common sense. If a player is obviously stalling, then the referees are allowed to add an `!mp timer` of their choice (preferably 2 minutes).
 13. Disrespect of the assigned referee, and/or opponent, will not be tolerated. (Applies towards other staff members in the Discord server environment)
 14. If a pick has been tied for 2 times after replaying it, the pick will be nullified.
 15. The mappool size will follow the listed format:
-    - Swiss bracket: 5 Nomod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, No Tiebreaker
-    - Semifinals, Finals, and Grand Finals: 5 Nomod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, 1 Tiebreaker
-16. Any members of staff apart from **Organiser, Mappool selector, and Referee are allowed to play**.
+    - Swiss bracket: 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod
+    - Semifinals, Finals, and Grand Finals: 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, 1 Tiebreaker
+16. Any members of the staff apart from organisers, mappool selectors and referees **are allowed to play**.
 17. All match schedules will be written in UTC.
-18. Reschedules will always be taken as long as they are **24 hours before** the first schedule of the running stage.
-19. Mappools will be released by each week's Monday so every match can occur before that. This applies both for Swiss bracket and during the knockout stage.
+18. Reschedules will always be accepted as long as they are **24 hours before** the first schedule of the running stage.
+19. Mappools will be released by each week's Monday, so every match can occur before that. This applies for both the Swiss bracket and the knockout stage.
 
 ### Registration
 
-1. Everyone that meets the rank restricted requirements is able to sign up. Shen registration is coming to a close, players are allowed to bypass the rank restriction, but if the player isn't within the rank range by the time registration ends their registration will be removed.
-2. To register, each player must follow the format posting: Their osu! user ID followed by timezone (in UTC) in the `#registration` text-channel in the VAF Discord server, which will only be open for 2 weeks until the registrations end.
+1. Every player that meets the rank restricted requirements is able to sign up. When registration is coming to an end, players are allowed to bypass the rank restriction, but if the player isn't within the rank range by the time registration ends, their registration will be removed.
+2. To register, each player must follow the posting format: their osu! user ID followed by a timezone (in UTC) in the `#registration` text-channel in the VAF Discord server, which will only be open for 2 weeks until the registrations end.
 3. Signing up does not guarantee participation in the tournament. Players will have to stay within the cutoff until the registrations close. The cutoff will be held at 64 players.
 
 ### Swiss style
 
-1. Swiss style is a league style format which consists in playing against an x amount of oponents depending on the format and the rounds existing. This implies that each player will not play against everyone in the swiss. Each matchup will depend on the seeding and performance of every player in the swiss bracket. There is an exception where in case of a tie a player might rematch someone depending on their point difference (this depends on the Challonge bracket). More explanation on video format can be accessed through the [following video](https://youtu.be/WsvFrxJPBZA).
+1. Swiss style is a league style format which consists of playing against X opponents depending on the format and rounds existing. This implies that each player will not play against everyone in the swiss. Each matchup will depend on the seeding and performance of every player in the swiss bracket. There is an exception where in case of a tie a player might rematch someone depending on their point difference (this depends on the Challonge bracket). More information on this format can be accessed through the [following video](https://youtu.be/WsvFrxJPBZA "YouTube").
 2. Each player will play throughout 6 weeks, 6 matches/rounds of swiss style.
-3. Matchups will be paired between players who posses the same amount of W-L-D (for example someone that goes 3-0 will be prioritized against someone who also is 3-0). What is more, playing against the same player twice will be avoided unless it's completely necessary.
-4. Every match will use BO13 format, this means throughout the entire swiss bracket a player will need 7 points to win a match or 6 to guarantee a tie. Semifinals onwards will also use BO13 format. The main difference is swiss bracket doesn't have a tiebreaker.
-5. In case of a tie in W-L-D at the end of the 6 rounds/matches several tiebreaker methods will be used on different information:
+3. Matchups will be paired between players who possess the same amount of W-L-D (for example someone that goes 3-0 will be prioritized against someone who also is 3-0). Moreover, playing against the same player twice will be avoided unless it's completely necessary.
+4. Every match will use BO13 format, this means throughout the entire swiss bracket a player will need 7 points to win a match or 6 to guarantee a tie. Semifinals onwards will also use BO13 format. The main difference is that the swiss bracket doesn't have a tiebreaker.
+5. In case of a tie in W-L-D at the end of the 6 rounds/matches, several tiebreaker methods will be used depending on different information:
    - Points
-   - [Bucholz](https://en.wikipedia.org/wiki/Buchholz_system)
+   - [Bucholz](https://en.wikipedia.org/wiki/Buchholz_system "Wikipedia")
    - Points scored difference
 6. Every player who enters will play 6 matches in total 6 throughout 6 weeks in the swiss bracket. Only the top 12 players will go through the double elimination bracket afterwards.
-7. Players will enter immediately into Semifinals knockout stage if they pass the swiss bracket. Top 4 players from the swiss bracket will be in the winners bracket while the top 5 - top 12 will start from the losers bracket.
-8. Players will only have 1 match per week to make the schedule easy. In total will play 6 matches during swiss bracket.
-9. The top 12 players from the swiss bracket will move on to a **bracket reset** if the team from the loser's bracket wins the first match.
+7. Players will immediately enter the Semifinals knockout stage if they pass the swiss bracket. Top 4 players from the swiss bracket will be placed in the winners bracket while the rest will start from the losers bracket.
+8. Players will only play 1 match per each swiss week. In total, they will play 6 matches during the swiss bracket.
+9. The top 12 players from the swiss bracket will be moved on to a **bracket reset** if the team from the loser's bracket wins the first match.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
