@@ -136,6 +136,36 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (102 MB)](https://www.mediafire.com/file/wzxoqyuv7oqb3rx/MAPPACK_SEMIFINALS_VAF.zip/file)**
+
+- NoMod
+  - [hanacco - Tachibana Sylphynford (X a v y) \[TSF in Nippon!\]](https://osu.ppy.sh/beatmapsets/1312208#taiko/2719578)
+  - [Jeff Williams - I'm The One (feat. Casey Lee Williams) (HiroK) \[Crescent Rose\]](https://osu.ppy.sh/beatmapsets/840800#taiko/1759832)
+  - [Billain & Vegas - Shinde (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1362405#taiko/2818836)
+  - [Myntian - Dog's Revenge on Luna (Faputa) \[Faputaitatsujin\]](https://osu.ppy.sh/beatmapsets/1498342#taiko/3070867)
+  - [Rhapsody of Fire - Dawn of Victory (Raiden) \[Unending Wrath 234bpm\]](https://osu.ppy.sh/beatmapsets/1494483#taiko/3063140)
+  - [The Flashbulb - That Missing Week (Lazarento) \[Nostalgia\]](https://osu.ppy.sh/beatmapsets/1202138#taiko/2503642)
+- Hidden
+  - [katagiri - Sendan Life (katagiri Bootleg) (nyanmi-1828) \[ma\]](https://osu.ppy.sh/beatmapsets/1127090#taiko/2355331)
+  - [Frums - 24eeev0-$ (Gamelan4) \[Cychlo's eeev0lution-$\]](https://osu.ppy.sh/beatmapsets/1111340#taiko/2341735)
+  - [Kola Kid - good old times (Nwolf) \[slow oni\]](https://osu.ppy.sh/beatmapsets/1213598#taiko/2525737)
+- HardRock
+  - [The Flashbulb - Kirlian Choices (Gamelan4) \[Transparency\]](https://osu.ppy.sh/beatmapsets/1456241#taiko/2993125)
+  - [Camellia as "fluX Xroise" - Xronier (Felt7z) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/925700#taiko/1933563)
+  - [LeaF - Paraclete (Kroytz) \[Nwolf's Inner Oni\]](https://osu.ppy.sh/beatmapsets/455109#taiko/1023467)
+- DoubleTime
+  - [S3RL feat. Nikolett - Silicon XX (yea) \[Fantasy XX\]](https://osu.ppy.sh/beatmapsets/989809#taiko/2070533)
+  - [Helblinde - Grief & Malice (Rhytoly) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/782253#taiko/1642679)
+  - [M2U - Mare Maris (Quorum) \[Dusk's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1222016#taiko/2813658)
+- FreeMod
+  - [Nekomata Master vs. HuMeR - BUZRA (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1349645#taiko/2794392)
+  - [tarolabo - Miko (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1100379#taiko/2298926)
+  - [Iglooghost - Super Ink Burst (Ulqui) \[Entropy\]](https://osu.ppy.sh/beatmapsets/1182264#taiko/2464974)
+- Tiebreaker
+  - **[TryHardNinja - Revenge (feat. CaptainSparklez) (ReeK's "Dude, What's A Genre?" Remix) (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1398744#taiko/2886041)**
+
 ### Swiss week 6
 
 **[Download the mappack here! (93 MB)](https://www.mediafire.com/file/9scny0ifon9dtss/mappack+week+6.zip/file)**
