@@ -1,6 +1,4 @@
-# Skill 
-
-**Skill medals** are medals awarded upon rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/Beatmapping/Combo) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/Full_combo) on any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap within some certain [star rating](/wiki/Beatmap/Difficulty#star-rating) ranges.
+# Unlock requirements for Skill medals
 
 | Medal name | Requirement |
 | :-- | :-- |

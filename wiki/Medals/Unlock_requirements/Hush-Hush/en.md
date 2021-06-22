@@ -1,12 +1,4 @@
-# Hush-Hush
-
-**Hush-Hush medals** are "secret" medals awarded for pulling off very specific feats, which are not explicitly told to the player (hence the name). These feats can range anywhere from completing a beatmap under peculiar circumstances to setting a score with an unusual mod combination. Despite their secretive nature, there are hints laying around to help all the curious medal hunters in their sleuth as follows:
-
-- The names of the medals themselves,
-- The medals' brief descriptions, and
-- The *flair texts* <!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> of the medals (if any), viewable by hovering over their corresponding cards.
-
-As the Hush-Hush medals are meant to be secret achievements of some sort, the list below only note out the *descriptions and flair texts* of the medals instead of the exact method of getting them; however, players are [welcome to work together in order to figure out how to obtain all the Hush-Hush medals out there](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+# Unlock requirements for Hush-Hush medals
 
 | Medal name | Description/Flair text |
 | :-- | :-- |
