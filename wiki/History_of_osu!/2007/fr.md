@@ -1,12 +1,12 @@
-# L'histoire d'osu! (2007)
+# L'histoire d'osu! en 2007
 
-Ce qui suit contient certains des évènements majeurs de l'histoire d'osu!, et ce depuis le début. Un grand merci à [Sinistro](https://osu.ppy.sh/users/5530) pour avoir aidé a compiler le contenu de 2007 et 2008. 
+Ce qui suit contient certains des évènements majeurs de l'histoire d'osu! en 2007. Un grand merci à [Sinistro](https://osu.ppy.sh/users/5530) pour avoir aidé a compiler le contenu pour les années 2007 et 2008. 
 
 ![](img/2007.jpg)
 
 ## Juillet
 
-osu! a débuté en tant que preuve de concept nommée "ouentest". La première version a été publiée le 1er juillet 2007 à un petit groupe d'amis proches de [peppy](https://osu.ppy.sh/users/2) et contenait un [éditeur de beatmaps](/wiki/Beatmap_Editor) très basique ainsi qu'un mode de jeu. L'éditeur pouvait seulement permettre la création de [beatmaps](/wiki/Beatmap) *très* simplistes sans fonction de recherche ou de [snapping](/wiki/Beatmapping/Snapping) disponibles, et il n'y avait ni sliders, ni spinners, seulement des cercles et des compteurs basiques de score/combo. La première version a pris environ 16 heures de programmation, et a été réalisée en *une seule nuit blanche*. `pUpdater` a été introduit (connu peu après sous le nom d'`osume`) pour prendre en charge les mises à jour à la dernière version.
+osu! a débuté en tant que preuve de concept nommée "ouentest". La première version a été publiée le 1er juillet 2007 à un petit groupe d'amis proches de [peppy](https://osu.ppy.sh/users/2) et contenait un [éditeur de beatmaps](/wiki/Beatmap_Editor) très basique ainsi qu'un seul mode de jeu. L'éditeur pouvait seulement permettre la création de [beatmaps](/wiki/Beatmap) *très* simplistes sans fonction de recherche ou de [snapping](/wiki/Beatmapping/Snapping) disponibles, et il n'y avait ni sliders, ni spinners, seulement des cercles et des compteurs basiques de score/combo. La première version a pris environ 16 heures de programmation, et a été réalisée en *une seule nuit blanche*. `pUpdater` a été introduit (connu peu après sous le nom d'`osume`) pour prendre en charge les mises à jour à la dernière version.
 
 ![](img/2007-07_01.jpg "Sélection de musiques")
 
@@ -16,7 +16,7 @@ osu! a débuté en tant que preuve de concept nommée "ouentest". La première v
 
 ![](img/2007-07_04.jpg "Cercles")
 
-À la fin du mois de juillet, le système de menus a été changé pour ajouter un peu de style au jeu. Une première implémentation des sliders a été réalisée avec une balle orange non animée et quelques courbes. Le beat snapping a été ajouté à l'éditeur, ainsi qu'une timeline, et une interface d'édition plus robuste (similaire à celle visible dans l'onglet [Compose](/wiki/Beatmap_Editor/Compose) d'aujourd'hui). 
+À la fin du mois de juillet, le système de menus a été changé pour ajouter un peu de style au jeu. Une première implémentation des sliders a été réalisée avec une balle orange non animée et quelques courbes. Le beat snapping a été ajouté à l'éditeur, ainsi qu'une timeline, et une interface d'édition plus esthétique (similaire à celle visible dans l'onglet [Compose](/wiki/Beatmap_Editor/Compose) d'aujourd'hui). 
 
 ![](img/2007-07_05.jpg "L'éditeur")
 
@@ -56,7 +56,7 @@ Le 17 septembre 2007 marque la "naissance" d'osu! pour le grand public. Les foru
 
 ![](img/2007-09_05.jpg "Annonce sur un site de jeux-vidéo")
 
-Peu après la sortie publique, les premiers [mods](/wiki/Game_modifier), [Easy](/wiki/Game_modifier/Easy) (EZ) et [No Fail](/wiki/Game_modifier/No_Fail) (NF), ainsi que les pauses (qui jusque-là étaient ignorées et manquaient) ont été ajoutés. Un grand nombre de changements ont rapidement fait qu'osu! ressemblait de plus en plus à un jeu de rythme légitime.
+Peu après la sortie publique, les premiers [mods](/wiki/Game_modifier), [Easy](/wiki/Game_modifier/Easy) *(EZ)* et [No Fail](/wiki/Game_modifier/No_Fail) *(NF)*, ainsi que les pauses (qui jusque-là étaient ignorées et manquaient) ont été ajoutés. Un grand nombre de changements ont rapidement fait qu'osu! ressemblait de plus en plus à un jeu de rythme légitime.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -75,7 +75,7 @@ La version 2 de `pUpdater`(`osume`) a été publiée, prenant en charge des tél
 
 ## Novembre
 
-Un nouvelle note, le SS, a été ajoutée au système de ranking, remplaçant les S dans les cas où la perfection était atteinte. Les mods [No Video](/wiki/Game_modifier/No_Video) et [Hidden](/wiki/Game_modifier/Hidden) (HD) ont été introduits, les notes S argenté et SS argenté également. Pour la première fois, les joueurs pouvaient modifier et assigner les sets d'échantillons normal et soft suivant les sections. Les fichiers `.osz` pouvaient maintenant être chargés avec un double-clic, ou en les glissant sur l'icône d'osu!.
+Un nouvelle note, le *SS*, a été ajoutée au système de ranking, remplaçant les *S* dans les cas où la perfection était atteinte. Les mods [No Video](/wiki/Game_modifier/No_Video) et [Hidden](/wiki/Game_modifier/Hidden) *(HD)* ont été introduits, les notes *S* argenté et *SS* argenté également. Pour la première fois, les joueurs pouvaient modifier et assigner les sets d'échantillons normal et soft suivant les sections. Les fichiers `.osz` pouvaient maintenant être chargés avec un double-clic, ou en les glissant sur l'icône d'osu!.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
@@ -87,7 +87,7 @@ Un nouvelle note, le SS, a été ajoutée au système de ranking, remplaçant le
 
 ![](img/2007-11_03.jpg "Test de l'utilisation d'IRC")
 
-Le [système de publication de beatmaps](/wiki/Submission) (BSS) a été rendu public, autorisant les utilisateurs à facilement envoyer et partager leurs créations. Cela a introduit le statut des maps [En attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et [Classée](/wiki/Beatmap/Category#classée) pour aider à l'organisation de la collection grandissante des maps publiées. Le chat en jeu a été ajouté grâce a un client [IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat) réalisé a partir de rien, et connecté a un serveur IRC standard (sans [Bancho](/wiki/Bancho_(server))) ; le chat étendu était visible ; les avatars et statistiques simples étaient affichés en jeu en utilisant une communication `http` ; les contrôles audios ont aussi été ajoutés au menu principal, qui jouait une musique aléatoire au démarrage ; les [replays](/wiki/Replay) pouvaient être regardés pour les score locaux et en ligne. Les joueurs pouvaient regarder d'autres joueurs (les données spectateurs étaient envoyées en brut via IRC).
+Le [système de publication de beatmaps](/wiki/Submission) *(BSS)* a été rendu public, autorisant les utilisateurs à facilement envoyer et partager leurs créations. Cela a introduit le statut des maps [En attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et [Classée](/wiki/Beatmap/Category#classée) pour aider à l'organisation de la collection grandissante des maps publiées. Le chat en jeu a été ajouté grâce a un client [IRC](/wiki/Internet_Relay_Chat) *(Internet Relay Chat)* réalisé a partir de rien, et connecté a un serveur IRC standard (sans [Bancho](/wiki/Bancho_(server))) ; le chat étendu était visible ; les avatars et statistiques simples étaient affichés en jeu en utilisant une communication `http` ; les contrôles audios ont aussi été ajoutés au menu principal, qui jouait une musique aléatoire au démarrage ; les [replays](/wiki/Replay) pouvaient être regardés pour les score locaux et en ligne. Les joueurs pouvaient regarder d'autres joueurs (les données spectateurs étaient envoyées en brut via IRC).
 
 ## Décembre
 

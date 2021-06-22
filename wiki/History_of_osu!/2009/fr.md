@@ -1,4 +1,4 @@
-# Histoire d'osu! 2009
+# L'histoire d'osu! en 2009
 
 ## Janvier
 

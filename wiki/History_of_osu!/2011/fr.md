@@ -1,4 +1,4 @@
-# Histoire d'osu! 2011
+# L'histoire d'osu! en 2011
 
 ## Décembre
 
