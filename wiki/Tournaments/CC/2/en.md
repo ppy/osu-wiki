@@ -36,7 +36,7 @@ All prizes were provided by Qwazar.
 
 ## Organisation
 
-Corgi Cup: September 2016 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+Corgi Cup: September 2016 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -77,7 +77,7 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   - [Yunomi - Mentai Cosmic (alacat) [Extra]](https://osu.ppy.sh/beatmapsets/436773#osu/940706)
   - [Igorrr - Unpleasant Sonata (Sieg) [Insane]](https://osu.ppy.sh/beatmapsets/90385#osu/245284)
-  - [CENOB1TE - Onslaught (Irreversible) [apoplexy_]](https://osu.ppy.sh/beatmapsets/370340#osu/811675)
+  - [CENOB1TE - Onslaught (Irreversible) [apoplexy\_]](https://osu.ppy.sh/beatmapsets/370340#osu/811675)
   - [MY FIRST STORY - Itazura Fiction (Saut) [Extreme]](https://osu.ppy.sh/beatmapsets/477343#osu/1019570)
   - [D.J.Nero - Joker (09kami) [Extra]](https://osu.ppy.sh/beatmapsets/405524#osu/881417)
 - Hidden
