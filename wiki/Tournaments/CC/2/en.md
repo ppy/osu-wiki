@@ -224,7 +224,7 @@ Sunday, 11 September 2019:
 | --: | :-: | :-: | :-- | :-- |
 | dong ![][flag_GB] | 0 | **4** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/27698420) |
 | Kardet ![][flag_GB] | 3 | **4** | ![][flag_US] **zelda101** | [#1](https://osu.ppy.sh/community/matches/27699952) |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] Pelzio | <!-- Missing --> |
+| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] Pelzio | *N/A* |
 | Summer Solstice ![][flag_GB] | 0 | **1** | ![][flag_RO] **Rohulk** | *forfeit* |
 
 ### Round of 16
@@ -235,7 +235,7 @@ Saturday, 10 September 2019:
 | --: | :-: | :-: | :-- | :-- |
 | Rafalbrew ![][flag_GB] | 2 | **4** | ![][flag_GB] **Summer Solstice** | [#1](https://osu.ppy.sh/community/matches/27668852) |
 | **Pelzio** ![][flag_GB] | **4** | 2 | ![][flag_GB] Ephemeral Fetish | [#1](https://osu.ppy.sh/community/matches/27671072) |
-| **Kardet** ![][flag_GB] | *1* | 0 | ![][flag_GB] Sam | *forfeit* |
+| **Kardet** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sam | *forfeit* |
 | **Rohulk** ![][flag_RO] | **4** | 1 | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/community/matches/27673798) |
 | Doomsday is Bad ![][flag_GB] | 1 | **4** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/27675151) |
 | **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] Jerome | [#1](https://osu.ppy.sh/community/matches/27676468) |
@@ -266,7 +266,7 @@ Sunday, 4 September 2019:
 | **Rafalbrew** ![][flag_GB] | **4** | 0 | ![][flag_GB] Corey-Kun | [#1](https://osu.ppy.sh/community/matches/27550285) |
 | **Rohulk** ![][flag_RO] | **4** | 0 | ![][flag_GB] Alphabet | [#1](https://osu.ppy.sh/community/matches/27551534) |
 | Bahamete ![][flag_GB] | 0 | **4** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/27553560) |
-| **Doomsday is Bad** ![][flag_GB] | **4** | 0 | ![][flag_GB] mmi- | <!-- Missing --> |
+| **Doomsday is Bad** ![][flag_GB] | **4** | 0 | ![][flag_GB] mmi- | *N/A* |
 | **Karthy** ![][flag_GB] | **1** | 0 | ![][flag_SE] Lunacy | *forfeit* |
 
 Monday, 5 September 2019:
@@ -278,7 +278,7 @@ Monday, 5 September 2019:
 ## Ruleset
 
 - This is a 1v1, head-to-head, single-elimination tournament.
-- In order to participate, you must have the "Subscriber" or the "Friend" role on Doomsday's Discord. (Hosts and mappool selectors are ineligible to enter.)
+- In order to participate, you must have the "Subscriber" or "Friend" role on Doomsday's Discord (hosts and mappool selectors are ineligible to enter).
 - Each round will be BO7 (first to 4).
   - The Grand Final will be BO9 (first to 5).
 - If a player fails to turn up before or on the time their match is due to start, a 10 minute timer will be started. After 10 minutes, if the player has still not shown up, the other player wins.
@@ -288,7 +288,7 @@ Monday, 5 September 2019:
 - Each player is allowed one ban per match. The tiebreaker cannot be banned.
 - If a player disconnects during the match in which the outcome would have been different. A rematch can be offered under the Referee’s discretion.
 - Score V2 will be used.
-- Free Mod can only be played with the mod combinations: Nomod, HD, HR, or HDHR.
+- Free Mod can only be played with the mod combinations: NoMod, HD, HR, or HDHR.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
