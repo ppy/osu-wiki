@@ -27,7 +27,7 @@ Are you perchance one of the three people who still haven't heard **katagiri**? 
 Check out [this loved osu!taiko map](https://osu.ppy.sh/beatmapsets/1295972) by [Socus](https://osu.ppy.sh/users/10196449)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/176/Angel%27s%20Salad%2Fkatagiri%20-%20Angel%2527s%20Salad.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/176/Angel%27s%20Salad%2Fkatagiri%20-%20Angel%27s%20Salad.mp3" type="audio/mpeg">
 </audio>
 
 ### Urushi
