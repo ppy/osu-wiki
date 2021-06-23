@@ -12,7 +12,7 @@ tags:
 
 ![CCIII logo](img/logo.png)
 
-The **Corgi Cup III: April 2017** (***CCIII***) is a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983). It is the third installment of the Corgi Cup.
+The **Corgi Cup III: April 2017** (***CCIII***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983). It was the third installment of the Corgi Cup.
 
 ## Tournament schedule
 
