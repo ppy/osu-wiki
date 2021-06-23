@@ -27,7 +27,7 @@ Are you perchance one of the three people who still haven't heard **katagiri**? 
 Check out [this loved osu!taiko map](https://osu.ppy.sh/beatmapsets/1295972) by [Socus](https://osu.ppy.sh/users/10196449)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/176/Angel%27s%20Salad%2Fkatagiri%20-%20Angel%2527s%20Salad.mp3" type="audio/mpeg">
 </audio>
 
 ### Urushi
@@ -35,7 +35,7 @@ Check out [this loved osu!taiko map](https://osu.ppy.sh/beatmapsets/1295972) by 
 Try playing [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1061593) hosted by [WTHBRO](https://osu.ppy.sh/users/8957119) and [this osu!catch showcase map](https://osu.ppy.sh/beatmapsets/1482723) by [Jemzuu](https://osu.ppy.sh/users/7890134) of the Mappers' Guild. (These are in the video above too!)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/176/Urushi/katagiri%20-%20Urushi.mp3" type="audio/mpeg">
 </audio>
 
 ### Naopura2000 -Daybreak-
@@ -43,7 +43,7 @@ Try playing [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1061593) hosted 
 Or maybe challenge yourself with [this osu!taiko map](https://osu.ppy.sh/beatmapsets/969821) by [Nifty](https://osu.ppy.sh/users/4956097)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/176/Naopura2000%20-Daybreak-%2Fkatagiri%20-%20Naopura2000%20-Daybreak-.mp3" type="audio/mpeg">
 </audio>
 
 ### tokiwa - Kotodama Refrain (katagiri Bootleg)
@@ -55,7 +55,7 @@ Experience what a **katagiri** bootleg sounds like through any of these popular 
 - [osu!mania map](https://osu.ppy.sh/beatmapsets/952432) hosted by [NikoSek](https://osu.ppy.sh/users/4088977)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/176/Songs/tokiwa%20-%20Kotodama%20Refrain%20%28katagiri%20Bootleg%29.mp3" type="audio/mpeg">
 </audio>
 
 ---
