@@ -8,9 +8,9 @@ date: 2021-06-23 08:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/176/header.jpg)
 
-Renowned for an endless catalogue of hardcore bootleg remixes and breakcore originals, **katagiri** is a Japanese producer and authority in their own brand of unmatched diverse music.
+Renowned for an endless catalogue of hardcore bootleg remixes and breakcore originals, **katagiri** is a Japanese producer and authority in their own brand of unmatched and diverse music.
 
-Recently popularized by the multi-layered remix [*true DJ MAG top ranker's song Zenpen (katagiri Remix)*](https://osu.ppy.sh/beatmapsets/1357624) by [Nathan](https://osu.ppy.sh/users/4785223), **katagiri**'s name has been yelled throughout the osu! community throughout the last few months, and we're more than happy to finally provide them the well-deserved Featured Artist spotlight.
+Recently popularized by the multi-layered remix [*true DJ MAG top ranker's song Zenpen (katagiri Remix)*](https://osu.ppy.sh/beatmapsets/1357624) by [Nathan](https://osu.ppy.sh/users/4785223), **katagiri**'s name has been yelled throughout the osu! community throughout the last few months, and we're more than happy to finally provide them with the well-deserved Featured Artist spotlight.
 
 While most of their remixes and bootlegs are off limits for their library, we've snagged **10** tracks that boast the complex insanity that you know and love from **katagiri**. See [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/176) for the full list!
 
