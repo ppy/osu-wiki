@@ -40,7 +40,7 @@ Try playing [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1061593) hosted 
 
 ### Naopura2000 -Daybreak-
 
-Or maybe challenge yourself with [this osu!taiko map](https://osu.ppy.sh/beatmapsets/969821) by Nifty!
+Or maybe challenge yourself with [this osu!taiko map](https://osu.ppy.sh/beatmapsets/969821) by [Nifty](https://osu.ppy.sh/users/4956097)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
