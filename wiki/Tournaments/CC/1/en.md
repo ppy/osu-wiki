@@ -164,13 +164,19 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Demetori - Kuuchuu ni Shizumu Kishinjou \~ Counter-Clock World (jonathanlfj) [Lunatic Collab]](https://osu.ppy.sh/beatmapsets/347719#osu/818597)**  
 
+### Qualifiers
+
+- NoMod
+  - [ClariS - Luminous (CloudSplash16) [Insane]](https://osu.ppy.sh/beatmapsets/112408#osu/292006)
+  - [yuikonnu - Ai no Scenario (Guy) [Insane]](https://osu.ppy.sh/beatmapsets/282375#osu/648072)
+
 ## Match results
 
 ### Grand Finals
 
 #### Grand final
 
-Sunday, 19 June 2019:
+Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -178,7 +184,7 @@ Sunday, 19 June 2019:
 
 #### Third place match
 
-Sunday, 19 June 2019:
+Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -186,7 +192,7 @@ Sunday, 19 June 2019:
 
 ### Semifinals
 
-Sunday, 19 June 2019:
+Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -195,7 +201,7 @@ Sunday, 19 June 2019:
 
 ### Quarterfinals
 
-Sunday, 19 June 2019:
+Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -206,7 +212,7 @@ Sunday, 19 June 2019:
 
 ### Round of 16
 
-Saturday, 18 June 2019:
+Saturday, 18 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
