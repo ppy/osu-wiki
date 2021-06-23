@@ -12,7 +12,7 @@ tags:
 
 ![CCVI logo](img/logo.png)
 
-**Corgi Cup VI** (***CCVI***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the sixth installment of the Corgi Cup.
+The **Corgi Cup VI** (***CCVI***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the sixth installment of the Corgi Cup.
 
 ## Tournament schedule
 

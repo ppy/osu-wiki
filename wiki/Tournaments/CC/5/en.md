@@ -10,7 +10,7 @@ tags:
 
 # Corgi Cup V
 
-**Corgi Cup V** (***CCV***) is a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710). It is the fifth installment of the Corgi Cup.
+The **Corgi Cup V** (***CCV***) is a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710). It is the fifth installment of the Corgi Cup.
 
 ## Links
 
