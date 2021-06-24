@@ -29,3 +29,5 @@ It's usually the easiest to start from the [tournament template](TEMPLATE.md) if
    Double-check the grammar and wording around placeholders; the tournament may require some changes depending on how the title is written.
 
 4. Read through the files and replace any examples with writing specific to the tournament. There are some comments in the files to help; you can remove them after you've read them.
+
+5. Once your tournament is concluded, apply past tense to the sentences in the article, and add a new table in the Tournaments index page for your competition.
