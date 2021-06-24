@@ -245,7 +245,7 @@ Le score donné par chaque note et la fin d'un slider est calculé avec la formu
 | :-: | :-- |
 | **Valeur de la note** | Le jugement du cercle (50, 100 ou 300). |
 | **Multiplicateur de combo** | (Combo avant ce hit - 1) ou 0 ; le plus élevé des deux. |
-**Multiplicateur fixe** | Le multiplicateur qui fixe le score à 600.000 |.
+**Multiplicateur fixe** | Le multiplicateur qui fixe le score à 600.000 |
 
 En outre chaque début, fin and et tick d'un slider donne 30 points et chaque spin de spinner donne 100 points.
 Un bonus additionnel de 10 points est donné dépendamment de la vitesse du spinner après que le spinner soit entièrement complété.
