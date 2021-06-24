@@ -88,6 +88,14 @@ Unofficial tournaments/competitions hosted by the communities.
 | [112's Corona Tournament](112/Corona_2020) | 2020-03-31 | 2020-05-30 | ali vefa fanclub | NEŞESİNE YAŞAM | SARS-CoV-3 |
 | [112's Summer Tournament 2020](112/Summer_2020) | 2020-06-30 | 2020-09-27 | ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528) | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | ![][flag_TR] [Mikatsu](https://osu.ppy.sh/users/6612642) |
 
+#### 3 Digit World Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ![][flag_KR] South Korea | ![][flag_RU] Russian Federation | ![][flag_US] United States |
+| 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ![][flag_US] United States | ![][flag_BR] Brazil | ![][flag_TW] Taiwan |
+| [3 Digit World Cup 2021](3WC/2021) | 2020-03-16 | 2020-05-31 | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_US] United States |
+
 #### Aus/NZ osu!standard Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -99,6 +107,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Aus/NZ osu!standard Tournament 5 - Summer](ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 | [Aus/NZ osu!standard Tournament 5 - Winter](ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | [Aus/NZ osu!standard Tournament 6 - Summer](ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
+
+#### CES League osu! Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| CES League osu! Tournament | 2019-12-02 | 2020-01-19 | ;w; | kirundy | TeamNameIn1v1Xd |
+| [CES League osu! Tournament 2](CES/CES2) | 2020-05-01 | 2020-08-16 | Woopak | MissClick324 | Thymue |
 
 #### Coffee Hispanic
 
@@ -145,6 +160,15 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Indonesian Draft Cup 2020](IDC/2020) | 2020-08-29 | 2020-10-03 | Brazil | Pondokers | awan fanclub 2 |
 
+#### Mirai. Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Mirai. Summer Tournament 2017 | 2017-06-30 | 2018-09-07 | Decay II | AcC iS eVeRyThInG | Wygramy To Kappa |
+| Mirai. osu! Winter Festival 2017/2018 | 2017-10-05 | 2018-02-24 | :thonking: | Decay II | FX\_POWER |
+| Mirai. Idol Tournament 2019 | 2019-04-01 | 2019-05-21 | Drift% | MAC901 | Traitorpulse |
+| [Mirai. Tournament 2020](Mirai/2020) | 2020-04-06 | 2020-06-23 | Norank MaMa <3 U | Uprankers | Salted\_Fish |
+
 #### nik's Tournaments
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -171,6 +195,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | osu! European Tournament | 2018-04-07 | 2018-05-27 | a | Dumb and Dumber | MinolaureMVP |
 | [osu! European Tournament 2](o!ET/2) | 2019-02-10 | 2019-03-30 | Sruba (Top), Makeshift Winners (Mid), not even european (Low) | Almost Allies (Top), singletap is braindead (Mid), Yes (Yes) (Low) | nh9mju0 (Top), Phoenix Emperors (Mid), Polish Musketeers (Low) |
+
+#### osu! Indonesia Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 2020-02-03 | 2020-04-12 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
+|[osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ![][flag_ID] [rho](https://osu.ppy.sh/users/1629553) | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) |
 
 #### osu! Singapore-Indonesia-Malaysia Tournament
 
@@ -220,6 +251,18 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! UK Tournament 4](OUKT/4) | 2015-01-10 | 2015-08-21 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | N/A |
 | [osu! UK Tournament 5](OUKT/5) | 2015-09-12 | 2016-04-23 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [Kakiage](https://osu.ppy.sh/users/3104031) |
 
+#### osu! Z-Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Z-Tournament 2018](OZT/2018) | 2018-04-23 | 2018-07-15 | Floating Rubber | LatexIntolerance | goose is a furry |
+
+#### PERAK osu! Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [PERAK osu! Tournament](POT/1) | 2021-01-17 | 2021-04-04 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+
 #### Rapid Monthly osu! Tournament Invitationals
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -250,6 +293,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | SS Tournament Summer 2017 | 2017-07-23 | 2017-09-24 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
 | [SS Tournament 2018](SST/2018) | 2018-01-27 | 2018-03-18 | Content is Hot | Sleeping Accommodation | Floating up |
+
+#### TAG2 Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [TAG2 Tournament 2019](T2T/2019) | 2019-02-15 | 2019-05-19 | Thank You | osu! schmosu! | yoo whats goodie eh |
 
 #### Ulat Bulu Cup
 
@@ -355,6 +404,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Taiko Wars](TW/1) | 2018-10-29 | 2018-12-02 | Land of Foda-se 2: Electric Boogaloo | cu | Iceland |
 
+#### Vaf's Autumn Fiesta
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Vaf's Autumn Fiesta](VAF/1) | 2021-04-16 | 2021-07-11 | *undecided* | *undecided* | *undecided* |
+
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
 #### Catch French Beginner
@@ -388,6 +443,21 @@ Unofficial tournaments/competitions hosted by the communities.
 | Catch the Beat Indonesia Cup 2016 | 2016-07-15 | 2016-08-06 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Time-](https://osu.ppy.sh/users/2917987) |
 | Catch the Beat Indonesia Cup 2017 | 2017-08-07 | 2017-09-10 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) |
 | [Catch the Beat Indonesia Cup 2018](CIC/2018) | 2018-07-28 | 2018-09-10 | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) | ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) |
+| Catch the Beat Indonesia Cup 2019 | 2019-08-18 | 2019-10-13 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
+[Catch the Beat Indonesia Cup 2020](CIC/2020) | 2020-07-10 | 2020-09-06 | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) |
+[Catch the Beat Indonesia Cup 2021](CIC/2021) | 2021-06-01 | 2021-07-25 | *undecided* | *undecided* | *undecided* |
+
+#### Indonesia Convert Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Indonesia Convert Cup 2020](ICC/2020) | 2020-09-13 | 2020-11-08 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+
+#### osu! Cup Master
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Cup Master 3: osu!catch edition](OCM/3) | 2019-12-14 | 2020-03-15 | Acelga | idk lol | KRNS |
 
 #### osu!catch Convert Cup
 
@@ -412,6 +482,18 @@ Unofficial tournaments/competitions hosted by the communities.
 | :thonking: Mania Tournament | 2018-06-09 | 2018-07-15 | YaLTeR | narip | Keishii |
 | [2v2 :thonking: Mania Tournament](TMT/2TMT) | 2018-11-10 | 2018-12-23 | La pancit bois | 3 argentos y medio | PolytETral |
 
+#### :thonking: Newbie mania Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [:thonking: Newbie mania Tournament](TNMT/1) | 2019-07-13 | 2019-09-29 | ![][flag_US] [NestleiFan](https://osu.ppy.sh/users/6833341) | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | ![][flag_TH] [palmEuEi](https://osu.ppy.sh/users/13656264) |
+
+#### Cemara Mania Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Cemara Mania Cup \#1 (2020)](CMC/2020) | 2020-10-06 | 2020-12-20 | **Neppu-Neppu** (![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869)) | **Leviathan** (![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623))| **UwU Team** (![][flag_ID] [juww](https://osu.ppy.sh/users/11019862), ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808)) |
+
 #### CJB osu!mania 4K Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -423,6 +505,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Chinese osu!mania 4K Tournament 2017](CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ![][flag_TW] [- Choma -](https://osu.ppy.sh/users/4469570) | ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ![][flag_CN] [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
+| [Chinese osu!mania 4K Tournament 2018](CMT_4K/2018) | 2018-09-10 | 2018-11-25 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159) |
 
 #### Mania Beginner's Showdown
 
@@ -430,6 +513,20 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Mania Beginner's Showdown](MBS/1) | 2019-06-15 | 2019-08-04 | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413) (High division), ![][flag_TH] [osu\_player420](https://osu.ppy.sh/users/13018880) (Low division) | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) (High division), ![][flag_PH] [Wakeupat5](https://osu.ppy.sh/users/13311553) (Low division) | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) (High division), ![][flag_VE] [\_Vanslight\_](https://osu.ppy.sh/users/6031119) (Low division) |
 | [Mania Beginner's Showdown 2](MBS/2) | 2020-05-09 | 2020-06-05 | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) (High division), ![][flag_MY] [Anamneses](https://osu.ppy.sh/users/16299729) (Low division) | ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479) (High division), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) (Low division) | ![][flag_SG] [loli\_seale](https://osu.ppy.sh/users/5069913) (High division), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) (Low division) |
+
+#### Mengxin Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Novice Mania Cup 3rd](MXB/3) | 2019-04-05 | 2019-06-16 | ![][flag_CN] [A M D](https://osu.ppy.sh/users/5321112) | ![][flag_CN] [shizehao](https://osu.ppy.sh/users/4928674) | ![][flag_CN] [Yutto007](https://osu.ppy.sh/users/10269172) |
+
+#### Mistrzostwa Polski (Polish Championship)
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Mistrzostwa Polski w 4K 2019](MP/2019_4K) | 2019-05-13 | 2019-08-04 | ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) | ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/2235750) |
+| [Mistrzostwa Polski w 7K 2019](MP/2019_7K) | 2019-10-09 | 2019-12-22 | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537) | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) | ![][flag_PL] [-Karen-chan-](https://osu.ppy.sh/users/1333495) |
+| [Mistrzostwa Polski w 7K 2020](MP/2020_7K) | 2020-10-12 | 2020-12-20 | ![][flag_PL] [paprotkaaaaa](https://osu.ppy.sh/users/6034749) | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537) | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/2235750) |
 
 #### osu!mania 4K Chinese National Cup
 
@@ -448,6 +545,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania Flashlight 4K Tournament](FL4T/1) | 2021-02-06 | 2021-03-21 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) | ![][flag_PH] [- l e j -](https://osu.ppy.sh/users/6413944) |
+
+#### osu!mania Indonesia Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania 4K Indonesia Cup 2019](OMIC/2019_4K) | 2019-05-26 | 2019-08-25 | ![][flag_ID] [Kevin-sama](https://osu.ppy.sh/users/6991664) | ![][flag_ID] [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | ![][flag_ID] [ChocoCoki-](https://osu.ppy.sh/users/3565870) |
 
 #### osu!mania LN Tournament
 
@@ -488,6 +591,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [The Heptakey osu!mania Cup #1](THOM_CUP/1) | 2018-04-16 | 2018-07-15 | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852) | ![][flag_IT] [Yomiel](https://osu.ppy.sh/users/3461860) | ![][flag_CL] [Skalim](https://osu.ppy.sh/users/2225008) |
+
+#### Touhou Project Mania Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Touhou Project Mania Cup 1st](TMC/1st) | 2020-09-14 | 2020-12-06 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 
 ### Multimode
 
