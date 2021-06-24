@@ -1,86 +1,82 @@
 ---
 tags:
-- {ABBR}
+  - {SHORT_TITLE}
+  - {SERIES_SHORT_TITLE}
 ---
 
-***This template is currently outdated.*** <https://github.com/ppy/osu-wiki/issues/2621>
+# {TITLE}
 
-<!--
-Find and replace those tags listed below with proper information, then delete this comment.
-{TOURNAMENT_NAME} = tournament name
-{MODE} = game mode
-{ABBR} = abbreviation of the tournament name followed by its iteration/year occurence e.g. MWC 4K 2018
-{ORGANISER} = organiser of the tournament
-{NTH} = installment ordinal number
-{TOURNAMENT_SERIES} = tournament name without its iteration suffix e.g. osu!mania 4K World Cup
-{DRAW_TIME} = Live Drawings (Livestream) time for the tournament
-{TOPIC_NUM} = forum thread number
-{STATS_LINK} = link to overall statistics sheet (it should be a Google Drive link)
-You will still need to fill other items such as tables, etc.
-Use .png as a default format for images, since .jpg can't handle transparency.
-Alongside this comment, remember to delete all comments across the article after you finish.
--->
+![{SHORT_TITLE} logo/banner](img/logo.png) <!-- choose the option that suits the image better -->
 
-# {TOURNAMENT_NAME}
+The **{TITLE}** (***{SHORT_TITLE}***) is a <!-- enter applicable tournament traits, example: {N}v{N}, double-elimination, country-based --> {MODE} tournament hosted by the {ORGANISERS} <!-- list the organisers here with their flags -->. It is the {ITERATION_ORDINAL} installment of the {SERIES_TITLE}.
 
-![{ABBR} Logo](img/logo.png)
-
-The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament hosted by the {ORGANISER}. It is the {NTH} installment of the {TOURNAMENT_SERIES}.
-
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-01-01/2018-01-28 |
-| Live Drawings | 2018-01-29 {DRAW_TIME} |
-| Group Stage |  |
+| Registration phase | 2018-01-01/2018-01-28 |
+| Live drawings | 2018-01-29 ({DRAW_TIME}) |
+| Group stage |  |
 | Round of 16 |  |
 | Quarterfinals |  |
 | Semifinals |  |
-| Finals - Week 1 |  |
-| Finals - Week 2 |  |
+| Finals week 1 |  |
+| Finals week 2 |  |
 
-<!-- Use YYYY-MM-DD Format for dates e.g. 2018-01-01
-Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
+<!-- Use the YYYY-MM-DD format for dates e.g. 2018-01-01
+Use (HH:MM UTC+N) format for {DRAW_TIME} e.g. (12:00 UTC+07)
  -->
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for {TOURNAMENT_NAME} winners. It is possible that these items change with every installment of the {TOURNAMENT_SERIES}.
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") |  |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") |  |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |  |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") |  |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
+| *4th place* |  |
+
+![](img/badge.jpg "{SHORT_TITLE} winner badge") <!-- remove if not available -->
 
 ## Organisation
 
-The {TOURNAMENT_NAME} is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The {TITLE} is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Example; delete this line | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) |
 | Manager |  |
-| Map Selector |  |
+| Mappool selector |  |
 | Streamer |
 | Commentator |  |
 | Designer |
 | Referee |
 | Statistician |  |
+<!-- | Example | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) | -->
+
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/{TOPIC_NUM})
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet]({STATS_LINK})**
+- [Livestream](https://www.twitch.tv/AccountName "Twitch")
+- **[Statistics sheet](StatisticsLink "App Name")**
 
 ## Participants
+
+<!-- for team/country-based tournaments -->
 
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AU] | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
 |  |  |  |
+
+<!-- for 1v1 tournaments -->
+
+| Seed | Members |
+| :-- | :-- |
+| Top |  |
+| Middle |  |
+
+<!-- remove the following section if seeding was displayed above -->
 
 ## Groups
 
@@ -91,67 +87,56 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 | Country3 | Example | Example | Example |
 | Country4 | Example | Example | Example |
 
----
+![{SHORT_TITLE} podium](img/podium.png) <!-- remove if not available -->
 
-![{ABBR} Podium](img/podium.png)
+![{SHORT_TITLE} bracket](img/bracket.png) <!-- remove if not available -->
 
-![{ABBR} Bracket](img/bracket.png)
+<!-- if the podium image isn't available, add the following section
 
----
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") |  |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
+
+-->
 
 ## Mappools
 
-### Finals
+### Stage
 
 **[Download the mappack here! (SIZE)](LINK)**
 
 - ModType
-  - Beatmap
+  - [BeatmapArtist - BeatmapTitle (BeatmapCreator) [BeatmapDifficulty]](BeatmapLink)
 - Tiebreaker
   - **Beatmap**
 
-### Semifinals
-### Quarterfinals
-### Round of 16
-### Group Stage
-
-<!-- Tiebreaker beatmap must be bolded -->
-
----
+<!-- tiebreaker beatmaps must be bolded -->
 
 ## Match results
 
-### Finals
+### Stage
 
-<!-- If the tournament is double-elimination: -->
-#### Winners bracket
-
-Day, date:
+Day, date: <!-- e.g. Saturday, 17 June 2018: -->
 
 <!-- For solo tournaments, replace table header with: | Player 1 |  |  | Player 2 | Match link | -->
-| Blue team |  |  | Red team | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **WINNER** ![][flag] | **SCORE** | SCORE | ![][flag] LOSER | [#1](MATCH_LINK) |
+| **WINNER** ![][flag] | **SCORE** | SCORE | ![][flag] LOSER | [#1](MatchLink) |
 | LOSER ![][flag] | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ![][flag] **WINNER** | *win by default* |
 | TEAM_A ![][flag] | 0 | 0 | ![][flag] TEAM_B | *nullified* |
 
-### Semifinals
-### Quarterfinals
-### Round of 16
-### Group stage
-
----
-
 ## Ruleset
-<!-- For official tournaments it depends on game mode used -->
-### Tournament Rules
-### Tournament Registration
-### Stage Instructions
-### Match Instructions
-### Mappool Instructions
-### Scheduling Instructions
+
+<!-- organise the ruleset of your tournament here -->
 
 <!--
 Add flag references here.
 Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
  -->
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
