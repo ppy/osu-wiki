@@ -36,7 +36,7 @@ Sebelum melangkah lebih jauh, ada baiknya bagi kamu untuk terlebih dahulu mempel
 
 ### Pemilihan Lagu
 
-Untuk memilih mode permainan yang ada di osu!, tekan kombinasi tombol `Ctrl`+`1`.
+Untuk memilih mode permainan osu!, tekan kombinasi tombol `Ctrl`+`1`.
 
 Alternatifnya, kamu dapat menekan tombol `Mode` dan memilih `osu!`.
 
