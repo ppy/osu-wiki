@@ -17,38 +17,38 @@ tags:
 
 *Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
 
-This section is dedicated to issues with the Beatmap Editor and beatmapping in general.
+Laman ini akan membahas berbagai permasalahan yang umum dihadapi seputar proses pembuatan beatmap (*beatmapping*) dan Beatmap Editor yang ada secara garis besar beserta dengan solusinya.
 
-## How do I upload/update my map?
+## Bagaimana caranya agar saya dapat mengunggah/memperbarui beatmap milik saya?
 
-**You can do this through the in-game editor.**
+**Kamu dapat mengunggah/memperbarui beatmap milikmu melalui editor.**
 
-To upload your beatmap, go into the editor and hit `File` > `Upload Beatmap`.
+Untuk mengunggah suatu beatmap, buka beatmap yang hendak kamu unggah di editor dan klik `File` > `Upload Beatmap`.
 
-This will make your beatmap available for others to download on the website. Updating a map is the same process for a map that has already been uploaded.
+Apabila proses pengunggahan yang ada berlangsung tanpa masalah, kamu akan dapat melihat beatmap yang telah kamu unggah tersebut pada laman profilmu. Untuk memperbarui beatmap yang bersangkutan, lakukan proses yang sama..
 
-Each user has a limited number of maps they can simultaneously upload. Leaving a map inactive for a month (28 days), by not updating it, will send it to the [Beatmap Graveyard](/wiki/Graveyard). To revive a beatmap from the graveyard back into a Pending or WIP status, update it.
+Masing-masing pengguna hanya dapat memiliki beatmap yang berstatus Pending/WIP hingga jumlah tertentu dalam suatu waktunya. Suatu beatmap Pending/WIP yang telah terabaikan/tidak diperbarui selama satu bulan (28 hari) akan secara otomatis terkubur di dalam [Beatmap Graveyard](/wiki/Graveyard). Apabila kamu ingin mengembalikan beatmap yang bersangkutan ke Pending/WIP, perbarui beatmap tersebut melalui editor.
 
-## The editor is telling me "The beatmap you are trying to submit isn't yours!"
+## Saya mendapatkan pesan dari editor yang memperingatkan bahwa beatmap yang hendak saya unggah bukan milik saya ("*The beatmap you are trying to submit isn't yours!*")!
 
-**This can happen if the creator of the beatmap is not properly set within the beatmap files.**
+**Hal ini dapat terjadi apabila kolom nama pembuat beatmap tidak terisi dengan benar pada berkas beatmap yang bersangkutan.**
 
-In the editor, click `File` in the menu, then `Open .osu in Notepad`. Check the line `Creator:` under the `Metadata` section and make sure that it's set to your exact username, capitalisation included.
+Pada editor, klik `File` dan lalu klik `Open .osu in Notepad`. Apabila sudah, perhatikan apakah nama pembuat beatmap yang ada pada kolom `Creator:` di bagian `Metadata` telah terisi dengan nama penggunamu.
 
-If it isn't, manually change it for every difficulty in your beatmap, reload the beatmap, and you should be able to submit it.
+Apabila ternyata isi kolom tersebut tidak sesuai, tulis nama penggunamu di sana dan muat ulang beatmap yang bersangkutan setelahnya. Kamu seharusnya sekarang sudah dapat mengunggah beatmap milikmu tanpa masalah.
 
-If you are still having issues or want more information on this, have a read through the [BSS issues page](/wiki/Guides/BSS_Issues).
+Apabila langkah-langkah di atas tidak menyelesaikan masalahmu, harap baca [laman Panduan mengatasi masalah-masalah BSS berikut]((/wiki/Guides/BSS_Issues)) dengan seksama.
 
-## I am an osu!supporter, but I don't have 10 pending slots!
+## Saya memiliki osu!supporter yang aktif, namun saya tidak dapat mengunggah hingga 10 beatmap Pending/WIP sebagaimana yang dijanjikan!
 
-**The number of slots available depends on the number of ranked maps you have.**
+**Jumlah beatmap Pending/WIP yang dapat kamu miliki dalam satu waktu tergantung pada jumlah beatmap Ranked yang kamu miliki.**
 
-By default, every user has 4 pending slots. One slot is added for every ranked beatmap the user owns (up to 2). Being a supporter grants you a total of 8 pending slots. One slot is added for every ranked beatmap the user owns (up to 4).
+Secara *default*, kamu memiliki 4 slot beatmap Pending/WIP yang akan bertambah per beatmap Ranked yang kamu miliki (hingga maksimal 2 slot tambahan). Apabila kamu memiliki osu!supporter, kamu memiliki 8 slot beatmap Pending/WIP yang akan bertambah per beatmap Ranked yang kamu miliki (hingga maksimal 4 slot tambahan).
 
-## How can I delete my beatmap?
+## Apakah saya dapat menghapus beatmap milik saya?
 
-**The team does not take requests to manually delete uploaded beatmaps.**
+**Bisa, namun kamu harus ingat bahwa tim kami tidak menerima permintaan penghapusan beatmap secara manual.**
 
-You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month (28 days) without updates.
+Satu-satunya cara agar kamu dapat menghapus beatmap milikmu adalah dengan mengabaikan/tidak memperbarui beatmap yang bersangkutan selama satu bulan (28 hari) dan menunggu hingga beatmap tersebut telah terkubur di dalam Beatmap Graveyard.
 
-Once your beatmap is in the Graveyard, you can delete it yourself by going to the [Discussion page](/wiki/Beatmap_Discussion) of your beatmap and clicking the `Delete` button that appears on the right side of the screen after scrolling down.
+Setelah beatmap yang hendak kamu hapus terkubur di dalam Beatmap Graveyard, tuju [laman diskusi](/wiki/Beatmap_Discussion) milik beatmap yang bersangkutan dan klik tombol `Hapus` yang ada pada bagian kanan layar untuk menghapusnya.
