@@ -4,7 +4,7 @@ outdated: true
 
 # osu!supporter
 
-![Значок саппорта](img/store-product.jpg "Значок саппорта")
+![Значок саппорта](img/store-product.jpg?1 "Значок саппорта")
 
 ## Введение
 
