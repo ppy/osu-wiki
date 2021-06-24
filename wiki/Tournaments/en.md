@@ -201,7 +201,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 2020-02-03 | 2020-04-12 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
-|[osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ![][flag_ID] [rho](https://osu.ppy.sh/users/1629553) | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) |
+| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ![][flag_ID] [rho](https://osu.ppy.sh/users/1629553) | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) |
 
 #### osu! Singapore-Indonesia-Malaysia Tournament
 
@@ -444,8 +444,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | Catch the Beat Indonesia Cup 2017 | 2017-08-07 | 2017-09-10 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) |
 | [Catch the Beat Indonesia Cup 2018](CIC/2018) | 2018-07-28 | 2018-09-10 | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) | ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) |
 | Catch the Beat Indonesia Cup 2019 | 2019-08-18 | 2019-10-13 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
-[Catch the Beat Indonesia Cup 2020](CIC/2020) | 2020-07-10 | 2020-09-06 | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) |
-[Catch the Beat Indonesia Cup 2021](CIC/2021) | 2021-06-01 | 2021-07-25 | *undecided* | *undecided* | *undecided* |
+| [Catch the Beat Indonesia Cup 2020](CIC/2020) | 2020-07-10 | 2020-09-06 | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) |
+| [Catch the Beat Indonesia Cup 2021](CIC/2021) | 2021-06-01 | 2021-07-25 | *undecided* | *undecided* | *undecided* |
 
 #### Indonesia Convert Cup
 
@@ -492,7 +492,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Cemara Mania Cup \#1 (2020)](CMC/2020) | 2020-10-06 | 2020-12-20 | **Neppu-Neppu** (![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869)) | **Leviathan** (![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623))| **UwU Team** (![][flag_ID] [juww](https://osu.ppy.sh/users/11019862), ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808)) |
+| [Cemara Mania Cup \#1 (2020)](CMC/2020) | 2020-10-06 | 2020-12-20 | **Neppu-Neppu** (![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869)) | **Leviathan** (![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623)) | **UwU Team** (![][flag_ID] [juww](https://osu.ppy.sh/users/11019862), ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808)) |
 
 #### CJB osu!mania 4K Tournament
 
