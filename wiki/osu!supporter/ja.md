@@ -32,7 +32,7 @@ osu!サポーターを入手するには、ログイン(または[登録](/wiki/
 
 買い物が終わったら、`カートに入れる`をクリックしてosu!storeのカートに入れます。
 
-![osu!storeカート](img/shopping-cart.jp?1g "osu!storeのカートにosu!suppoter for flyteを追加しました。")
+![osu!storeカート](img/shopping-cart.jpg?1 "osu!storeのカートにosu!suppoter for flyteを追加しました。")
 
 ご購入の準備ができましたら、[カート](https://osu.ppy.sh/store/cart)に入り、`支払いをする`をクリックしてください。その後、画面の指示に従ってお支払いをお願いします。
 
