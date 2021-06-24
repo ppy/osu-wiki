@@ -49,6 +49,6 @@ Secara *default*, kamu memiliki 4 slot beatmap Pending/WIP yang akan bertambah p
 
 **Bisa, namun kamu harus ingat bahwa tim kami tidak menerima permintaan penghapusan beatmap secara manual.**
 
-Satu-satunya cara agar kamu dapat menghapus beatmap milikmu adalah dengan mengabaikan/tidak memperbarui beatmap yang bersangkutan selama satu bulan (28 hari) dan menunggu hingga beatmap tersebut telah terkubur di dalam Beatmap Graveyard.
+Satu-satunya cara agar kamu dapat menghapus beatmap milikmu adalah dengan mengabaikan/tidak memperbarui beatmap yang bersangkutan selama satu bulan (28 hari) dan menunggu hingga beatmap tersebut terkubur di dalam Beatmap Graveyard.
 
 Setelah beatmap yang hendak kamu hapus terkubur di dalam Beatmap Graveyard, tuju [laman diskusi](/wiki/Beatmap_Discussion) milik beatmap yang bersangkutan dan klik tombol `Hapus` yang ada pada bagian kanan layar untuk menghapusnya.
