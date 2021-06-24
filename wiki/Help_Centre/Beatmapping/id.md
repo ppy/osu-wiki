@@ -31,7 +31,7 @@ Masing-masing pengguna hanya dapat memiliki beatmap yang berstatus Pending/WIP h
 
 ## Saya mendapatkan pesan dari editor yang memperingatkan bahwa beatmap yang hendak saya unggah bukan milik saya ("*The beatmap you are trying to submit isn't yours!*")!
 
-**Hal ini dapat terjadi apabila kolom nama pembuat beatmap tidak terisi dengan benar pada berkas beatmap yang bersangkutan.**
+**Hal ini dapat terjadi apabila kolom nama pembuat beatmap pada berkas beatmap yang terkait tidak terisi dengan benar.**
 
 Pada editor, klik `File` dan lalu klik `Open .osu in Notepad`. Apabila sudah, perhatikan apakah nama pembuat beatmap yang ada pada kolom `Creator:` di bagian `Metadata` telah terisi dengan nama penggunamu.
 
