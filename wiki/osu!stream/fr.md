@@ -59,7 +59,7 @@ osu!stream ne prend pas en charge les beatmaps classiques d'osu!. Au lieu de cel
 - On ne peut pas changer de skins ni appliquer de mods (pour l'instant).
 - Des Easter Eggs peuvent être trouvés mais il n'y a pas de page de succès...
 
-### Nouveau système de gameplay...
+### Nouveau système de gameplay
 
 **Note:** Testez les nouveaux éléments de gameplay dans l'onglet "Tutoriel".
 
@@ -241,11 +241,11 @@ Le score donné par chaque note et la fin d'un slider est calculé avec la formu
 
 `Score = Hit Value + Hit Value * (Multiplicateur de combo * Multiplicateur fixe) / 25`
 
-| Term | Meaning |
+| Terme | Signification |
 | :-: | :-- |
 | **Valeur de la note** | Le jugement du cercle (50, 100 ou 300). |
 | **Multiplicateur de combo** | (Combo avant ce hit - 1) ou 0 ; le plus élevé des deux. |
-**Multiplicateur fixe** | Le multiplicateur qui fixe le score à 600.000 |
+| **Multiplicateur fixe** | Le multiplicateur qui fixe le score à 600.000 |
 
 En outre chaque début, fin and et tick d'un slider donne 30 points et chaque spin de spinner donne 100 points.
 Un bonus additionnel de 10 points est donné dépendamment de la vitesse du spinner après que le spinner soit entièrement complété.
