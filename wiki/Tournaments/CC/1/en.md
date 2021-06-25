@@ -21,7 +21,7 @@ The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tourna
 | Round of 16 | 2016-06-18 |
 | Quarterfinals | 2016-06-19 |
 | Semifinals | 2016-06-19 |
-| Grand Finals | 2016-06-19 |
+| Finals | 2016-06-19 |
 
 ## Prizes
 
@@ -72,7 +72,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Grand Finals
+### Finals
 
 - NoMod
   - [Reol - No Title (Pho) [Extra]](https://osu.ppy.sh/beatmapsets/343672#osu/759316)
@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Grand Finals
+### Finals
 
 #### Grand final
 

@@ -24,7 +24,7 @@ The **Corgi Cup III: April 2017** (***CCIII***) was a 1v1 single-elimination osu
 | Round of 16 | 2017-04-08/2017-04-09 |
 | Quarterfinals | 2017-04-15/2017-04-16 |
 | Semifinals | 2017-04-22 |
-| Grand Finals | 2017-04-29/2017-04-30 |
+| Finals | 2017-04-29/2017-04-30 |
 
 ## Prizes
 
@@ -76,7 +76,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Grand Finals
+### Finals
 
 - NoMod
   - [senya - Kimiiro Subliminal (AtHeoN) [Satellite]](https://osu.ppy.sh/beatmapsets/418398#osu/1031948)
@@ -205,7 +205,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Grand Finals
+### Finals
 
 #### Grand final
 

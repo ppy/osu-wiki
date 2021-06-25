@@ -22,7 +22,7 @@ The **Corgi Cup: September 2016** (***CC2***) was a 1v1 single-elimination osu! 
 | Round of 16 | 2016-09-10 |
 | Quarterfinals | 2016-09-11 |
 | Semifinals | 2016-09-11 |
-| Grand Finals | 2016-09-13 |
+| Finals | 2016-09-13 |
 
 ## Prizes
 
@@ -72,7 +72,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Grand Finals
+### Finals
 
 - NoMod
   - [Yunomi - Mentai Cosmic (alacat) [Extra]](https://osu.ppy.sh/beatmapsets/436773#osu/940706)
@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Grand Finals
+### Finals
 
 #### Grand final
 
