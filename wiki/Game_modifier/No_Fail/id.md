@@ -28,7 +28,7 @@ tags:
 
 Mod **No Fail** adalah sebuah [game modifier](/wiki/Game_modifier) yang mencegah pemain untuk gagal dalam suatu [beatmap](/wiki/Beatmap). Menggunakan mod No Fail akan menyebabkan pemain mustahil untuk gagal dalam sebuah [beatmap](/wiki/Beatmap), bahkan jika [life bar](/wiki/Glossary#life-bar) sudah kosong. Tetapi, jika pemain tidak mendapatkan skor apapun pada beatmap tersebut, play tersebut yang *akan* gagal, sebagai gantinya.
 
-Mod ini mempunyai fungsi yang sama untuk semua [mode-mode permainan](/wiki/Game_mode).
+Mod ini mempunyai fungsi yang sama untuk semua [mode permainan](/wiki/Game_mode).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
