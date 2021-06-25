@@ -6,8 +6,6 @@ tags:
   - mod
   - game modifier
   - modificateur de jeu
-outdated: true
-outdated_since: 6b8516026e4a60ca416f3f5569887e4d548cce5e
 ---
 
 # Le mod Easy
@@ -45,7 +43,7 @@ Dans le mode [osu!](wiki/Game_Modes/osu!), le mod Easy diminue le [circle size (
 
 ![Gameplay du mod Easy dans osu!](img/EZ-comparison-osu.jpg "Comparaison entre un jeu normal (gauche) et un jeu avec le mod Easy activé (droite) dans osu!")
 
-Cependant, il convient de mentionner que de nombreux joueurs ne trouvent pas l'utilisation du mod Easy utile pour diminuer la difficulté relative des beatmaps, en particulier celles de fortes intensités. L'argument avancé est que la diminution du taux d'approche crée une situation désordonnée, difficile à lire, où la vitesse réelle de la beatmap n'est pas très bien reflétée visuellement (voir ci-dessous).
+Cependant, il convient de mentionner que de nombreux joueurs ne trouvent pas l'utilisation du mod Easy utile pour diminuer la difficulté relative des beatmaps, en particulier celles de fortes intensités. L'argument avancé est que la diminution du taux d'approche crée une situation désordonnée, difficile à lire, où la vitesse réelle de la beatmap n'est pas très bien reflétée visuellement (voir ci-dessus).
 
 *Remarque : les points mentionnés ci-dessus sont développés dans la demande de fonctionnalité "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" pour améliorer le mod.*
 
