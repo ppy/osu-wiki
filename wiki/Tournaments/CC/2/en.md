@@ -22,7 +22,7 @@ The **Corgi Cup: September 2016** (***CC2***) was a 1v1 single-elimination osu! 
 | Round of 16 | 2016-09-10 |
 | Quarterfinals | 2016-09-11 |
 | Semifinals | 2016-09-11 |
-| Grand Finals | 2016-09-13 |
+| Finals | 2016-09-13 |
 
 ## Prizes
 
@@ -72,7 +72,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Grand Finals
+### Finals
 
 - NoMod
   - [Yunomi - Mentai Cosmic (alacat) [Extra]](https://osu.ppy.sh/beatmapsets/436773#osu/940706)
@@ -187,13 +187,20 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Nekomata Master+ - Kung-fu Empire (Damnae) [Backdrop]](https://osu.ppy.sh/beatmapsets/173288#osu/418725)**
 
+### Qualifiers
+
+- NoMod
+  - [Nhato - LIMBO (Reiji-RJ) [Collab]](https://osu.ppy.sh/beatmapsets/98020#osu/261697)
+  - [96Neko - Paintings? Oh, yeah. (Charles445) [Insane]](https://osu.ppy.sh/beatmapsets/57393#osu/173015)
+  - [Block B - HER (W h i t e) [Insane]](https://osu.ppy.sh/beatmapsets/280597#osu/634879)
+
 ## Match results
 
-### Grand Finals
+### Finals
 
 #### Grand final
 
-Tuesday, 13 September 2019:
+Tuesday, 13 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -201,7 +208,7 @@ Tuesday, 13 September 2019:
 
 #### Third place match
 
-Tuesday, 13 September 2019:
+Tuesday, 13 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -209,7 +216,7 @@ Tuesday, 13 September 2019:
 
 ### Semifinals
 
-Sunday, 11 September 2019:
+Sunday, 11 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -218,7 +225,7 @@ Sunday, 11 September 2019:
 
 ### Quarterfinals
 
-Sunday, 11 September 2019:
+Sunday, 11 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -229,7 +236,7 @@ Sunday, 11 September 2019:
 
 ### Round of 16
 
-Saturday, 10 September 2019:
+Saturday, 10 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -244,7 +251,7 @@ Saturday, 10 September 2019:
 
 ### Round of 32
 
-Saturday, 3 September 2019:
+Saturday, 3 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -256,7 +263,7 @@ Saturday, 3 September 2019:
 | **EphemeralFetish** ![][flag_GB] | **4** | 1 | ![][flag_AU] Subject000016 | [#1](https://osu.ppy.sh/community/matches/27527282) |
 | **Jerome** ![][flag_GB] | **4** | 0 | ![][flag_GB] Scootawoo | [#1](https://osu.ppy.sh/community/matches/27528429) |
 
-Sunday, 4 September 2019:
+Sunday, 4 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -269,7 +276,7 @@ Sunday, 4 September 2019:
 | **Doomsday is Bad** ![][flag_GB] | **4** | 0 | ![][flag_GB] mmi- | *N/A* |
 | **Karthy** ![][flag_GB] | **1** | 0 | ![][flag_SE] Lunacy | *forfeit* |
 
-Monday, 5 September 2019:
+Monday, 5 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
