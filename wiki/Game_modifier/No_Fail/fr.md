@@ -1,5 +1,6 @@
 ---
 stub: true
+outdated: true
 tags:
   - no fail
   - NF

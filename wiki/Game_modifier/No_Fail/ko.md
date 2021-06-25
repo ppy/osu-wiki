@@ -1,5 +1,6 @@
 ---
 stub: true
+outdated: true
 tags:
   - 노페일 모드
   - no fail
