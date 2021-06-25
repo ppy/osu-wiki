@@ -14,14 +14,14 @@ The **3 Digit World Cup 2021** (***3WC 2021***) was a country-based osu! tournam
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-02-24/2020-03-13 (18:00 UTC+0) |
-| Team submission | 2020-03-13/2020-03-28 (18:00 UTC+0) |
-| Qualifiers | 2020-04-02/2020-04-04 |
-| Round of 16 | 2020-04-09/2020-04-11 |
-| Quarterfinals | 2020-04-16/2020-04-18 |
-| Semifinals | 2020-04-23/2020-04-25 |
-| Finals | 2020-04-30/2020-05-02 |
-| Grand Finals | 2020-05-07/2020-05-09 |
+| Registration phase | 2021-02-24/2021-03-13 (18:00 UTC+0) |
+| Team submission | 2021-03-13/2021-03-28 (18:00 UTC+0) |
+| Qualifiers | 2021-04-02/2021-04-04 |
+| Round of 16 | 2021-04-09/2021-04-11 |
+| Quarterfinals | 2021-04-16/2021-04-18 |
+| Semifinals | 2021-04-23/2021-04-25 |
+| Finals | 2021-04-30/2021-05-02 |
+| Grand Finals | 2021-05-07/2021-05-09 |
 
 ## Prizes
 
