@@ -6,12 +6,9 @@ tags:
   - game modifier
 ---
 
-<!-- TODO:
-- [ ] add images -->
-
 # Mirror (mod)
 
-![Ikon mod MR](/wiki/shared/mods/MR.png "Ikon mod MR (MR)")
+![Ikon mod MR](/wiki/shared/mods/MR.png "Ikon mod Mirror (MR)")
 
 *Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*
 
