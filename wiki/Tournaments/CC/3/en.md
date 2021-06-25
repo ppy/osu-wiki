@@ -111,9 +111,9 @@ This competition has come to an end and resulted in the following podium:
   - [Primary - Awake ([ Joey ]) [Broccoly's Asleep]](https://osu.ppy.sh/beatmapsets/361428#osu/996708)
   - [Yooh - snow storm-euphoria- (ktgster) [EUPHORIC]](https://osu.ppy.sh/beatmapsets/158075#osu/386760)
   - [Yoko - EXEC_METEMPSYCHOSIS/ (GoldenWolf) [woof]](https://osu.ppy.sh/beatmapsets/144935#osu/359737)
-  - [Sakuzyo - Laplace (yf_bmp) [AR8]](https://osu.ppy.sh/beatmapsets/427582#osu/923912)
+  - [Sakuzyo - Laplace (yf\_bmp) [AR8]](https://osu.ppy.sh/beatmapsets/427582#osu/923912)
 - Hidden
-  - [DJ S3RL - T-T-Techno (feat Jesskah) (nold_1702) [Technonationalism]](https://osu.ppy.sh/beatmapsets/83560#osu/655794)
+  - [DJ S3RL - T-T-Techno (feat Jesskah) (nold\_1702) [Technonationalism]](https://osu.ppy.sh/beatmapsets/83560#osu/655794)
   - [Lovely Summer-chan - Bedroom no Yume (Yunomi Remix) (sukiNathan) [Lucid]](https://osu.ppy.sh/beatmapsets/453839#osu/973129)
 - HardRock
   - [BoA - Kiseki (Hinsvar) [Miracle]](https://osu.ppy.sh/beatmapsets/150145#osu/370612)
