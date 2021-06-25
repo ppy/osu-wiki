@@ -3,6 +3,7 @@ stub: true
 tags:
   - mod
   - MR
+  - game modifier
 ---
 
 <!-- TODO:
