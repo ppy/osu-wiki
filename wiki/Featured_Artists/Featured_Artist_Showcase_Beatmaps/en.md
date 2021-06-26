@@ -358,6 +358,8 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [La prière - Kyouzou no Canon](https://osu.ppy.sh/beatmapsets/1475603) hosted by ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
 - **[katagiri](https://osu.ppy.sh/home/news/2020-06-23-new-featured-artist-katagiri)** (2021-06-23)
   - (![][osu!catch]) [katagiri - Urushi](https://osu.ppy.sh/beatmapsets/1482723) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+- **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (2018-06-26)
+  - (![][osu!]) [Andromedik x Itro x Polygon - Fly](https://osu.ppy.sh/beatmapsets/1470255) hosted by ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
 
 ## History
 
