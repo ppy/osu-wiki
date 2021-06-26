@@ -8,11 +8,11 @@ Drum and Bass legend **Andromedik** steps on stage as our latest Featured Artist
 
 ![](https://assets.ppy.sh/artists/177/header.jpg)
 
-Anyone familiar with the Drum and Bass scene is aware of Belgian producer **Andromedik**. Continuously growing year after year, he's the creator behind countless energetic and mood-rich tracks that was recognized for his quick improvement through the *World's Best Newcomer* prize in 2019's Drum and Bass Arena Awards.
+Anyone familiar with the Drum and Bass scene is aware of Belgian producer **Andromedik**. Continuously growing year after year, he's the creator behind countless energetic and mood-rich tracks that got him recognized for his quick improvement through the *World's Best Newcomer* prize in 2019's Drum and Bass Arena Awards.
 
 **15** tracks are up for grabs from [**Andromedik**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/177), all sporting a classic 174BPM and the quintissential liquid Drum and Bass feel.
 
-Words can't describe music nor how well **Andromedik** fits osu! mapping, so take a look at [BOUYAAA](https://osu.ppy.sh/users/405449)'s fancy rendition of [*Andromedik  x Itro x Polygon - Fly*](https://osu.ppy.sh/beatmapsets/1470255) with even fancier approach circles in the video below!
+Words can't describe music nor how well **Andromedik** fits osu! mapping, so take a look at [BOUYAAA](https://osu.ppy.sh/users/405449)'s fancy rendition of [*Andromedik x Itro x Polygon - Fly*](https://osu.ppy.sh/beatmapsets/1470255) with even fancier approach circles in the video below!
 
 <div align="center">
     <video width="95%" controls>
@@ -20,7 +20,7 @@ Words can't describe music nor how well **Andromedik** fits osu! mapping, so tak
     </video>
 </div>
 
-### Andromedik  x Itro x Polygon - Fly
+### Andromedik x Itro x Polygon - Fly
 
 Check out this [new showcase map](https://osu.ppy.sh/beatmapsets/1470255) hosted by [BOUYAAA](https://osu.ppy.sh/users/405449)!
 
