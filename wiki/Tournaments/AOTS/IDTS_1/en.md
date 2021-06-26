@@ -1,22 +1,21 @@
 ---
 tags:
-- Indonesian Taiko Showdown
 - IDTS
 ---
 
 # Indonesian Taiko Showdown
 
-![IDTS Logo](img/logo.png)
+![IDTS logo](img/logo.png)
 
-The **Indonesian Taiko Showdown** (***IDTS***) was an Indonesian double elimination one-on-one osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). It was the 1st installment of the tournament.
+The **Indonesian Taiko Showdown** (***IDTS***) was a 1v1 Indonesian double elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). It was the first installment of the Asian-Oceanian Taiko Showdown.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2017-04-01/2017-04-30 |
-| Live Drawings | 2017-04-30 (20:00 UTC+7) |
-| Group Stage | 2017-05-06/2017-05-07 |
+| Registration phase | 2017-04-01/2017-04-30 |
+| Live drawings | 2017-04-30 (20:00 UTC+7) |
+| Group stage | 2017-05-06/2017-05-07 |
 | Round of 16 | 2017-05-13/2017-05-14 |
 | Quarterfinals | 2017-05-20/2017-05-21 |
 | Semifinals | 2017-05-27/2017-05-28 |
@@ -27,7 +26,7 @@ The **Indonesian Taiko Showdown** (***IDTS***) was an Indonesian double eliminat
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ## Organisation
 
@@ -36,22 +35,20 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206) |
-| Map Selector | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) |
+| Mappool selector | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) |
 | Streamer | ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Commentator | ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_ID] [ganjas62](https://osu.ppy.sh/users/934685), ![][flag_ID] [Kayano-](https://osu.ppy.sh/users/4999506), ![][flag_ID] [Wim Are](https://osu.ppy.sh/users/4505744) |
 | Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Referee | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [LittleBird-](https://osu.ppy.sh/users/6668671), ![][flag_ID] [MRaihanZ](https://osu.ppy.sh/users/6668671), ![][flag_ID] [Etherealize](https://osu.ppy.sh/users/7850608), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206) |
 | Statistician | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/576070)
-- [Livestream](https://www.twitch.tv/osutaikoshowdown)
-- [Indonesian Taiko Showdown skins](https://puu.sh/whPiI/0fd221d5fa.zip)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1MEkIzPxnb95kHoVRU6OWczhxPsl93RwSXsKSgdkopyE/pubhtml)**
-
----
+- [Livestream](https://www.twitch.tv/osutaikoshowdown "Twitch")
+- [Indonesian Taiko Showdown skins](https://puu.sh/whPiI/0fd221d5fa.zip "puush")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1MEkIzPxnb95kHoVRU6OWczhxPsl93RwSXsKSgdkopyE/pubhtml "Google Docs")**
 
 ## Participants
 
@@ -69,19 +66,15 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 | ![][flag_ID] [Wim Are](https://osu.ppy.sh/users/4505744) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Koucha-](https://osu.ppy.sh/users/2537412) | ![][flag_ID] [Plua-](https://osu.ppy.sh/users/974012) | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | ![][flag_ID] [\_Destroyer\_](https://osu.ppy.sh/users/3185598) | ![][flag_ID] [Kayano-](https://osu.ppy.sh/users/4999506) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) |
 | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) | ![][flag_ID] [Kzl](https://osu.ppy.sh/users/7058490) | ![][flag_ID] [pingping2011](https://osu.ppy.sh/users/1094255) | ![][flag_ID] [sweetbravery](https://osu.ppy.sh/users/6807808) | ![][flag_ID] Elisabeth- | ![][flag_ID] [Rendang](https://osu.ppy.sh/users/3866968) | ![][flag_ID] [\_CaKy\_](https://osu.ppy.sh/users/9828983) | ![][flag_ID] [Franklin\_DeJavu](https://osu.ppy.sh/users/5569341) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
 
 ## Mappools
 
@@ -195,7 +188,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Zedd - Clarity (feat. Foxes) (kamome sano remix) (Jaye, Niko-nyan) \[Ambivalence\]](https://osu.ppy.sh/beatmaps/1135706&m=1)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (118 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cEJubDVQeVJDY28/view?usp=sharing)**
 
@@ -222,25 +215,29 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[CHiCO with HoneyWorks - Sekai wa Koi ni Ochiteiru (newyams99) \[Oni\]](https://osu.ppy.sh/beatmaps/861612&m=1)**
 
----
-
-## Match Results
+## Match results
 
 ### Grand Finals
 
-| Sunday, 2017-06-10 |  |  |  |  |
+Sunday, 10 June 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | XK2238 ![][flag_ID] | 6 | **7** | ![][flag_ID] **pmriva** | [#1](https://osu.ppy.sh/community/matches/33778864) |
 | pmriva ![][flag_ID] | 5 | **7** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/33785221) |
 
 ### Finals
 
-| Saturday, 2017-06-03 |  |  |  |  |
+Saturday, 3 June 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Katdon\_donKat** ![][flag_ID] | **6** | 2 | ![][flag_ID] steven1 | [#1](https://osu.ppy.sh/community/matches/33568382) |
 | pmriva ![][flag_ID] | 3 | **6** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/33600406) |
 
-| Sunday, 2017-06-04 |  |  |  |  |
+Sunday, 4 June 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Nishizumi ![][flag_ID] | **6** | 0 | ![][flag_ID] Shirai- | [#1](https://osu.ppy.sh/community/matches/33619870) |
 | Katdon\_donKat ![][flag_ID] | 1 | **6** | ![][flag_ID] **Nishizumi** | [#1](https://osu.ppy.sh/community/matches/33621267) |
@@ -248,14 +245,18 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-| Saturday, 2017-05-27 |  |  |  |  |
+Saturday, 27 May 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Lightning Wyvern** ![][flag_ID] | **6** | 3 | ![][flag_ID] Plua- | [#1](https://osu.ppy.sh/community/matches/33439416) |
 | Katdon\_donKat ![][flag_ID] | 1 | **6** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/33440128) |
 | \_Destroyer\_ ![][flag_ID] | 4 | **6** | ![][flag_ID] **misaki\_tk** | [#1](https://osu.ppy.sh/community/matches/33440300) |
 | pmriva ![][flag_ID] | **6** | 5 | ![][flag_ID] Nishizumi | [#1](https://osu.ppy.sh/community/matches/33445446) |
 
-| Sunday, 2017-05-28 |  |  |  |  |
+Sunday, 28 May 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Shirai-** ![][flag_ID] | **6** | 3 | ![][flag_ID] Kayano- | [#1](https://osu.ppy.sh/community/matches/33414275) |
 | ayomikasa ![][flag_ID] | 1 | **6** | ![][flag_ID] **steven1** | [#1](https://osu.ppy.sh/community/matches/33464233) |
@@ -264,42 +265,53 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Saturday, 2017-05-20 |  |  |  |  |
+Saturday, 20 May 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Katdon\_donKat** ![][flag_ID] | **5** | 1 | ![][flag_ID] \_Destroyer\_ | [#1](https://osu.ppy.sh/community/matches/33286726) |
-| **steven1** ![][flag_ID] | **5** | 0 | ![][flag_ID] Buyut | -win by default- |
+| **steven1** ![][flag_ID] | **5** | 0 | ![][flag_ID] Buyut | *win by default* |
 | **Nishizumi** ![][flag_ID] | **5** | 0 | ![][flag_ID] Lightning Wyvern | [#1](https://osu.ppy.sh/community/matches/33289527) |
 
-| Sunday, 2017-05-21 |  |  |  |  |
+Sunday, 21 May 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Plua-** ![][flag_ID] | **5** | 3 | ![][flag_ID] Koucha- | [#1](https://osu.ppy.sh/community/matches/33315503) |
 | **XK2238** ![][flag_ID] | **5** | 1 | ![][flag_ID] Shirai- | [#1](https://osu.ppy.sh/community/matches/33316897) |
-| **misaki\_tk** ![][flag_ID] | **5** | 0 | ![][flag_ID] Volta | -win by default- |
+| **misaki\_tk** ![][flag_ID] | **5** | 0 | ![][flag_ID] Volta | *win by default* |
 | **pmriva** ![][flag_ID] | **5** | 1 | ![][flag_ID] ayomikasa | [#1](https://osu.ppy.sh/community/matches/33317007) |
 | Wim Are ![][flag_ID] | 3 | **5** | ![][flag_ID] **Kayano-** | [#1](https://osu.ppy.sh/community/matches/33318406) |
 
 ### Round of 16
 
-| Saturday, 2017-05-13 |  |  |  |  |
+
+Saturday, 13 May 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Shirai-** ![][flag_ID] | **5** | 0 | ![][flag_ID] Buyut | -win by default- |
+| **Shirai-** ![][flag_ID] | **5** | 0 | ![][flag_ID] Buyut | *win by default* |
 | **Katdon\_donKat** ![][flag_ID] | **5** | 2 | ![][flag_ID] Plua- | [#1](https://osu.ppy.sh/community/matches/33132821) |
 | **Nishizumi** ![][flag_ID] | **5** | 1 | ![][flag_ID] misaki\_tk | [#1](https://osu.ppy.sh/community/matches/33134539) |
 
-| Sunday, 2017-05-14 |  |  |  |  |
+Sunday, 14 May 2017:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\_Destroyer\_** ![][flag_ID] | **5** | 4 | ![][flag_ID] Koucha- | [#1](https://osu.ppy.sh/community/matches/33155803) |
 | **pmriva** ![][flag_ID] | **5** | 0 | ![][flag_ID] Wim Are | [#1](https://osu.ppy.sh/community/matches/33162779) |
-| **Lightning Wyvern** ![][flag_ID] | **5** | 0 | ![][flag_ID] Volta | -win by default- |
-| steven1 ![][flag_ID] | 0 | **5** | ![][flag_ID] **XK2238** | -win by default- |
-| **ayomikasa** ![][flag_ID] | **5** | 0 | ![][flag_ID] Kayano- | -win by default- |
+| **Lightning Wyvern** ![][flag_ID] | **5** | 0 | ![][flag_ID] Volta | *win by default* |
+| steven1 ![][flag_ID] | 0 | **5** | ![][flag_ID] **XK2238** | *win by default* |
+| **ayomikasa** ![][flag_ID] | **5** | 0 | ![][flag_ID] Kayano- | *win by default* |
 
 ### Group Stage
 
-| Group | Saturday, 2017-05-06 |  |  |  |  |
+Saturday, 6 May 2017:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| A | Surono ![][flag_ID] | 0 | **4** | ![][flag_ID] Wim Are | -win by default- |
-| D | **Lightning Wyvern** ![][flag_ID] | **4** | 0 | ![][flag_ID] sweetbravery | -win by default- |
+| A | Surono ![][flag_ID] | 0 | **4** | ![][flag_ID] Wim Are | *win by default* |
+| D | **Lightning Wyvern** ![][flag_ID] | **4** | 0 | ![][flag_ID] sweetbravery | *win by default* |
 | H | **pmriva** ![][flag_ID] | **4** | 1 | ![][flag_ID] Franklin\_DeJavu | [#1](https://osu.ppy.sh/community/matches/32971269) |
 | B | **XK2238** ![][flag_ID] | **4** | 2 | ![][flag_ID] Kzl | [#1](https://osu.ppy.sh/community/matches/32971201) |
 | F | **\_Destroyer\_** ![][flag_ID] | **4** | 0 | ![][flag_ID] Rendang | [#1](https://osu.ppy.sh/community/matches/32972109) |
@@ -311,33 +323,33 @@ This competition has come to an end and resulted in the following podium:
 | H | **Shirai-** ![][flag_ID] | **4** | 0 | ![][flag_ID] Franklin\_DeJavu | [#1](https://osu.ppy.sh/community/matches/32977134) |
 | G | **steven1** ![][flag_ID] | **4** | 2 | ![][flag_ID] Kayano- | [#1](https://osu.ppy.sh/community/matches/32977387) |
 
-| Group | Sunday, 2017-05-07 |  |  |  |  |
+Sunday, 7 May 2017:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | B | **ayomikasa** ![][flag_ID] | **4** | 0 | ![][flag_ID] Kzl | [#1](https://osu.ppy.sh/community/matches/32999232) |
-| E | **Katdon\_donKat** ![][flag_ID] | **4** | 0 | ![][flag_ID] Elisabeth- | -win by default- |
+| E | **Katdon\_donKat** ![][flag_ID] | **4** | 0 | ![][flag_ID] Elisabeth- | *win by default* |
 | G | **steven1** ![][flag_ID] | **4** | 0 | ![][flag_ID] \_CaKy\_ | [#1](https://osu.ppy.sh/community/matches/32999034) |
-| D | **Plua-** ![][flag_ID] | **4** | 0 | ![][flag_ID] sweetbravery | -win by default- |
-| C | **Nishizumi** ![][flag_ID] | **4** | 0 | ![][flag_ID] pingping2011 | -win by default- |
-| E | **Volta** ![][flag_ID] | **4** | 0 | ![][flag_ID] Elisabeth- | -win by default- |
-| H | pmriva ![][flag_ID] | 0 | **4** | ![][flag_ID] **Shirai-** | -win by default- |
-| A | Surono ![][flag_ID] | 0 | 0 | ![][flag_ID] Buyut | -nullified- |
-| C | **Koucha-** ![][flag_ID] | **4** | 0 | ![][flag_ID] pingping2011 | -win by default- |
+| D | **Plua-** ![][flag_ID] | **4** | 0 | ![][flag_ID] sweetbravery | *win by default* |
+| C | **Nishizumi** ![][flag_ID] | **4** | 0 | ![][flag_ID] pingping2011 | *win by default* |
+| E | **Volta** ![][flag_ID] | **4** | 0 | ![][flag_ID] Elisabeth- | *win by default* |
+| H | pmriva ![][flag_ID] | 0 | **4** | ![][flag_ID] **Shirai-** | *win by default* |
+| A | Surono ![][flag_ID] | 0 | 0 | ![][flag_ID] Buyut | *nullified* |
+| C | **Koucha-** ![][flag_ID] | **4** | 0 | ![][flag_ID] pingping2011 | *win by default* |
 | G | **Kayano-** ![][flag_ID] | **4** | 0 | ![][flag_ID] \_CaKy\_ | [#1](https://osu.ppy.sh/community/matches/33003700) |
 | A | **Wim Are** ![][flag_ID] | **4** | 0 | ![][flag_ID] Buyut | [#1](https://osu.ppy.sh/community/matches/33003681) |
 | C | **Nishizumi** ![][flag_ID] | **4** | 3 | ![][flag_ID] Koucha- | [#1](https://osu.ppy.sh/community/matches/33005364) |
 
----
-
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. Tournament was opened for all ranks as long as the participants have **Indonesian Flag** in their osu! profile.
 2. Tournament used double-elimination bracket.
 3. Tournament's spot was limited to first 24 participants to register.
 4. Any misbehaved behaviour towards other participants or tournament staff would get punished by eliminated from the tournament. (Rules also applied for tournament staff)
 
-### Match Instructions
+### Match instructions
 
 1. Indonesian Taiko Showdown was a one-on-one osu!taiko match.
 2. Participant with most score in a match, wins the round.
@@ -353,13 +365,13 @@ This competition has come to an end and resulted in the following podium:
 11. If both participants fail to finish a map, point will be given to the participant who had the higher score.
 12. If both participants had exact same score on a map, that map would be played again without any points given before.
 
-### Winning Conditions
+### Winning conditions
 
 1. In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
 2. In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
 3. In Semifinals and Finals, you need to win 6 beatmaps to win a match. (Best-of-11)
 4. In the Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
 
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
