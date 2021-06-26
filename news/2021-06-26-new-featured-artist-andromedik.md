@@ -25,7 +25,7 @@ Words can't describe music nor how well **Andromedik** fits osu! mapping, so tak
 Check out this [new showcase map](https://osu.ppy.sh/beatmapsets/1470255) hosted by [BOUYAAA](https://osu.ppy.sh/users/405449)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/177/Harmony/Andromedik%2C%20Polygon%2C%20Itro%20-%20Fly.mp3" type="audio/mpeg">
 </audio>
 
 ### Andromedik - Invasion
@@ -33,19 +33,19 @@ Check out this [new showcase map](https://osu.ppy.sh/beatmapsets/1470255) hosted
 Play [this nearly 2-million-play osu! map](https://osu.ppy.sh/beatmapsets/789544) hosted by [Mirash](https://osu.ppy.sh/users/2841009)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/177/High%20Tea%20Music%20Vol.%201/Andromedik%20-%20Invasion.mp3" type="audio/mpeg">
 </audio>
  
 ### Andromedik - Your Eyes
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/177/Your%20Eyes/Andromedik%20-%20Your%20Eyes.mp3" type="audio/mpeg">
 </audio>
 
 ### Feint x Andromedik - I'll Be There (feat. Cammie Robinson)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/177/I'll%20Be%20There/Feint%20x%20Andromedik%20-%20I%27ll%20Be%20There%20(feat.%20Cammie%20Robinson).mp3" type="audio/mpeg">
 </audio>
 
 ---
