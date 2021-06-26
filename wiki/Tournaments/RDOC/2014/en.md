@@ -34,7 +34,7 @@ The Royal Danish osu!Cup 2014 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273) |
-| Map selector | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Heibel](https://osu.ppy.sh/users/983000) |
+| Mappool selector | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Heibel](https://osu.ppy.sh/users/983000) |
 | Referee | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Heibel](https://osu.ppy.sh/users/983000) |
 | Other helpers | ![][flag_DK] [Vocalover](https://osu.ppy.sh/users/2281840), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025), ![][flag_DK] [PlasticSmoothie](https://osu.ppy.sh/users/296565) |
 | Designer | ![][flag_DK] [Nickyeh](https://osu.ppy.sh/users/2314944) |
@@ -43,7 +43,7 @@ The Royal Danish osu!Cup 2014 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/179395)
-- [Challonge brackets](https://challonge.com/OSUDK)
+- [Challonge brackets](https://challonge.com/OSUDK "Challonge")
 
 ## Participants
 
@@ -185,7 +185,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Sunday, 2014-02-23:
+Sunday, 23 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -194,7 +194,7 @@ Sunday, 2014-02-23:
 
 ### Finals
 
-Saturday, 2014-02-22:
+Saturday, 22 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -202,7 +202,7 @@ Saturday, 2014-02-22:
 | LB | **PlasticSmoothie** ![][flag_DK] | **4** | 3 | ![][flag_DK] Gupply |
 | UB | **Tropians** ![][flag_DK] | **4** | 1 | ![][flag_DK] Broniel |
 
-Sunday, 2014-02-23:
+Sunday, 23 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -210,7 +210,7 @@ Sunday, 2014-02-23:
 
 ### Semifinals
 
-Saturday, 2014-02-22:
+Saturday, 22 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -225,7 +225,7 @@ Saturday, 2014-02-22:
 
 ### Quarterfinals
 
-Friday, 2014-02-21:
+Friday, 21 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -248,7 +248,7 @@ Friday, 2014-02-21:
 
 ### Round of 16
 
-Friday, 2014-02-21:
+Friday, 21 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -270,7 +270,7 @@ Friday, 2014-02-21:
 
 ### Round of 32
 
-Friday, 2014-02-21:
+Friday, 21 February 2014:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -290,7 +290,7 @@ Friday, 2014-02-21:
 | UB | **Gupply** ![][flag_DK] | **3** | 0 | ![][flag_DK] Tenasow |
 | UB | Karrusel ![][flag_DK] | 1 | **3** | ![][flag_DK] **Kozhler** |
 
-Tonarionototoro received a bye into Round of 16 since winthermens couldnt play.
+Tonarionototoro received a bye into Round of 16, since winthermens couldn't play.
 
 ## Ruleset
 
