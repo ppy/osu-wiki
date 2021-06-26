@@ -4,7 +4,7 @@ outdated: true
 
 # osu!supporter
 
-![osu!supporter tag](img/store-product.jpg "osu!supporter tag")
+![osu!supporter tag](img/store-product.jpg?1 "osu!supporter tag")
 
 ## Introduzione
 
@@ -62,6 +62,6 @@ Dopo aver deciso la durata e gli account, clicca "Checkout". Qui avrai varie opz
 
 ### Durata
 
-![Differenza tra status attivo e inattivo dell'osu!supporter](img/status.jpg "Differenza tra status attivo e inattivo dell'osu!supporter")
+![Differenza tra status attivo e inattivo dell'osu!supporter](img/status.jpg?1 "Differenza tra status attivo e inattivo dell'osu!supporter")
 
 Dopo che il pagamento è stato completato, la sezione "Recent Activity" del tuo profilo dirà "{Il tuo username} has become an osu!supporter - thanks for your generosity!" (che si traduce in "{Il tuo username} è diventato un osu!supporter - grazie per la tua generosità!") se è la prima volta che diventi osu!supporter. Le altre volte riceverai sulla sezione "Recent Activity" il messaggio "{Il tuo username} has once again chosen to donate to the osu! cause - thanks for your generosity!" (che si traduce in "{Il tuo username} ha deciso un'altra volta di donare ad osu! - grazie per la tua generosità!"). Se ne hai comprato uno per te stesso, vedrai nel tuo profilo sotto il tuo nickname la targhetta dell'osu!supporter. Per sapere *quando* il tuo osu!supporter tag finirà, consulta [la stessa pagina dal quale lo hai comprato](https://osu.ppy.sh/home/support).
