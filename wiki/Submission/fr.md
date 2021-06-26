@@ -1,31 +1,27 @@
----
-no_native_review: true
----
+# Soumission
 
-# Publication
+Les [beatmaps](/wiki/Beatmap) peuvent être publiées sur le site web d'osu! via [l'éditeur du jeu](/wiki/Beatmap_Editor). Soumettre une beatmap lui permet de recevoir l'attention des autres utilisateurs et d'entrer potentiellement dans les catégories [Classée](/wiki/Beatmap/Category#ranked), ou [Loved](/wiki/Beatmap/Category#loved).
 
-Les [beatmaps](/wiki/Beatmap) peuvent être publiées sur le site depuis l'[éditeur de beatmap](/wiki/Beatmap_Editor). Publier une beatmap permet à celle-ci de recevoir une attention toute particulière d'autres joueurs, ce qui peut conduire a l'obtention du statut de [Ranked](/wiki/Beatmap/Category#classées) ou [Loved](/wiki/Beatmap/Category#aimées).
+![](img/bss_warning.png "Écran du Beatmap Submission System")
 
-![](img/bss_warning.png "Ecran de publication de beatmap")
+En sélectionnant `Upload Beatmap...` dans le menu déroulant `File` de l'éditeur (raccourci : `Ctrl` + `Shift` + `U`), vous ouvrirez la fenêtre du **Beatmap Submission System** (***BSS***). Il s'agit initialement d'une liste de ressources pour aider les utilisateurs à poser des questions sur le mapping, à trouver des commentaires sur leurs beatmaps et à s'assurer que leurs maps sont adaptées au classement. Si vous rencontrez des problèmes lors de l'utilisation du BSS, consultez le guide [BSS Issues](/wiki/Guides/BSS_Issues).
 
-Sélectionner `Publier la beatmap...` depuis l'onglet `File` dans l'éditeur (raccourci: `Ctrl` + `Shift` + `U`) ouvrira la fenêtre de publication de beatmap, plus connu sous le nom de **Beatmap Submission System** (***BSS***). Depuis cette fenêtre, vous pouvez trouver des liens qui vous redirigerons vers des forums d'aide, sur lesquels vous pouvez recevoir des retours sur votre beatmap, afin de s'assurer que celle-ci respecte bien les critères de ranking. Si vous rencontrez des problèmes avec le BSS, veuillez vous référer au guide "[Problèmes avec le BSS](/wiki/Guides/BSS_Issues)".
+Si la beatmap qu'un utilisateur télécharge n'est pas déjà sur le site d'osu!, la fenêtre BSS indique combien de nouveaux téléchargements un utilisateur peut publier. Si la beatmap est nominée, la fenêtre prévient que la nomination sera réinitialisée par la mise à jour de la beatmap. Si la beatmap est dans le cimetière, la fenêtre prévient que la beatmap sera élevée à la catégorie en attente.
 
-Si la beatmap que l'utilisateur souhaite publier n'est pas encore présente sur le site, la fenêtre du BSS vous indiquera combien de publications il vous reste. Si la beatmap est nominée, la fenêtre vous préviendra que la nomination peut être reinitialisée en publiant la beatmap. Si la beatmap est dans le cimetière, la fenêtre vous informera que celle-ci obtiendra le statut "En attente" après la publication.
+## Options de soumission
 
-## Options de publications
+![](img/bss_submitting.png "Écran de téléchargement du Beatmap Submission System")
 
-![](img/bss_submitting.png "Ecran de publication de beatmap")
+En cliquant sur le bouton `Télécharger une nouvelle beatmap` ou `Mettre à jour une beatmap`, l'utilisateur aura le choix de télécharger sa beatmap dans les catégories `Work in Progress/Help` ou `Pending Beatmaps`. Les beatmaps WIP ne peuvent pas être nominées pour le classement, alors que les beatmaps en attente le peuvent.
 
-Losque vous cliquez sur le bouton `Publier une nouvelle beatmap!` ou `Mettre à jour la beatmap!`, l'utilisateur pourra choisir de publier sa beatmap vers `Work in Progress/Help` (Travaux en cours) ou `Pending` (En attente). Les beatmaps avec le statut Work In Progress ne peuvent pas recevoir de nominations, tandis que les beatmaps avec le statut Pending le peuvent.
+La section `Mots du créateur` permet à l'utilisateur de saisir des données qui apparaissent à côté de la page d'inscription du site web de la beatmap. Elle supporte le formatage [BBCode](/wiki/BBCode).
 
-La section `Message du Créateur` permet au créateur de laisser une description qui sera visible depuis la page web de la beatmap. La description prend en compte le [BBCode](/wiki/BBCode).
+Deux cases à cocher apparaissent près du bas de la fenêtre. La première dit `Receive email notification on reply`, ce qui ajoute la beatmap à la [modding watchlist](https://osu.ppy.sh/beatmapsets/watches) de l'utilisateur . La seconde dit `Load in browser after submission`, ce qui chargera la page de listing de la beatmap dans votre navigateur par défaut.
 
-Deux cases à cochées sont visibles en bas de la fenêtre. La première où il y est écrit `Recevoir un email quand un message est posté` ajoute la beatmap à la [modding watchlist](https://osu.ppy.sh/beatmapsets/watches). La deuxième où il y est écrit `Ouvrir le navigateur après la publication` ouvrira la page web de votre beatmap dans votre navigateur par défaut après la publication.
+## Limites
 
-## Limitations
+Les beatmaps ne seront pas soumises si elles dépassent la taille du fichier en ligne ou la limite de difficulté. La taille limite des fichiers est de 5 Mo, plus 10 Mo supplémentaires pour chaque minute, et elle est plafonnée à 100 Mo. La limite de difficulté est actuellement de 128.
 
-La publication de beatmaps échouera si elle dépasse la limite de poids ou de difficulté. La limite de poids est de 5MB, avec 10MB en plus pour chaque minute de mappée jusqu'à un maximum de 100MB. La limite de difficulté est de 128.
+Les utilisateurs ont droit à un nombre limité de maps en attente. Cette limite varie en fonction du nombre de maps classées que possède l'utilisateur et du fait qu'il soit ou non un [osu!supporter](/wiki/osu!supporter). Les utilisateurs sans osu!supporter peuvent avoir 4 beatmaps en attente plus 1 par beatmap classé (jusqu'à 2). Avec osu!supporter, cela passe à 8 beatmaps en attente plus 1 par beatmap classé (jusqu'à 12) pour un total de 20.
 
-Les utilisateurs ont un nombre de beatmap en attente limite. La limite varie en fonction du nombre de beatmap Ranked qu'un utilisateur a. De plus, le nombre peut augmenter si l'utlisateur souscrit un abonnement [osu!supporter](/wiki/osu!supporter). Les utilisateurs sans osu!supporter peuvent avoir 4 beatmaps en attente ainsi qu'une de plus par beatmap classée (jusqu'à un maximum de 2), tandis qu'avec l'osu!supporter, ce chiffre augmente jusqu'à 8 plus 1 par beatmap ranked (jusqu'à un maximum de 12) pour un total de 20.
-
-La vitesse de publication varie en fonction des fichiers modifiés. Si un fichier `.osu` est changé, seulement ce fichier sera traité et mis à jour. Si d'autres fichiers sont changés, tout les fichiers de ce dossier seront traités et mis à jour.
+La vitesse de téléchargement varie en fonction des fichiers modifiés. Si seuls les fichiers `.osu` sont modifiés, ce sont les seuls fichiers du dossier de la beatmap qui seront traités et téléchargés. Si d'autres ressources sont modifiées, tous les fichiers du dossier de la beatmap seront traités et téléchargés.

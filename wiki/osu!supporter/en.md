@@ -16,13 +16,13 @@ In general, by buying osu!supporter tag, you will be directly supporting the gam
 
 ## Getting osu!supporter
 
-![osu!store product banner](img/store-product.jpg "osu!supporter product banner from the osu!store")
+![osu!store product banner](img/store-product.jpg?1 "osu!supporter product banner from the osu!store")
 
 To get osu!supporter, sign in (or [register](/wiki/sign_up)), then go to the [store page](https://osu.ppy.sh/store/products/supporter-tag). Use the slider or the month buttons (underneath the slider) to select the duration of the osu!supporter tag. A different duration will change the price you will pay. The currency used is in United States dollars (USD). If your country uses a different currency, please use a currency converter such as [OANDA](https://www.oanda.com/currency/converter/) or [Google](https://www.google.com/search?q=usd+exchange+rate) to check the price. The prices displayed on the osu!store page are by per individual account.
 
 ### Selecting the duration
 
-![Buying osu!supporter](img/selecting-duration.jpg "Selecting the user and duration for osu!supporter")
+![Buying osu!supporter](img/selecting-duration.jpg?1 "Selecting the user and duration for osu!supporter")
 
 The usercard displayed above the slider is the user you are buying osu!supporter for. By default, it should be your usercard. To gift to a friend, enter your friend's username (not user ID) into the grey box below the usercard. Once this is done, the usercard will change to match the username you had entered. From here, you can then select the duration of osu!supporter you want to gift, but keep in mind that there is no promotion for group gifting.
 
@@ -32,7 +32,7 @@ You can only buy or gift osu!supporter to one user at a time within this screen.
 
 Once you are done, click `Add to Cart` to put it into the osu!store shopping cart.
 
-![osu!store shopping cart](img/shopping-cart.jpg "osu!store shopping cart with osu!supporter for flyte")
+![osu!store shopping cart](img/shopping-cart.jpg?1 "osu!store shopping cart with osu!supporter for flyte")
 
 When you are ready to make the purchase, go to your [shopping cart](https://osu.ppy.sh/store/cart) and click `Checkout`. Then follow the prompts to make your payment.
 
@@ -45,16 +45,16 @@ After the transaction is completed, the Recent Activity section in your account 
 
 ### Userpage and usercard
 
-![Userpage with osu!supporter](img/userpage.jpg "Userpage with osu!supporter")
+![Userpage with osu!supporter](img/userpage.jpg?1 "Userpage with osu!supporter")
 
-![Usercard with osu!supporter](img/usercard.png "Usercard with osu!supporter")
+![Usercard with osu!supporter](img/usercard.png?1 "Usercard with osu!supporter")
 
 On the osu!web, the osu!supporter badge can be found next to the user avatar and in the usercard next to your country flag.
 The osu!supporter badge changes depending on how long you have supported the game for. If you support the game for less than 1 year, you have 1 heart; for 1-5 years, you have 2 hearts; and for more than 5 years, you have 3 hearts.
 
 ### Checking your support status
 
-![osu!supporter tag with three months remaining](img/status.jpg "Three months left of osu!supporter tag")
+![osu!supporter tag with three months remaining](img/status.jpg?1 "Three months left of osu!supporter tag")
 
 *Note: This section is only shown after you obtain osu!supporter.*
 
