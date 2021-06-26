@@ -4,7 +4,7 @@ outdated: true
 
 # osu!supporter
 
-![อยากได้ใช่มั้ยล่ะ เรารู้](img/store-product.jpg "อยากได้ใช่มั้ยล่ะ เรารู้")
+![อยากได้ใช่มั้ยล่ะ เรารู้](img/store-product.jpg?1 "อยากได้ใช่มั้ยล่ะ เรารู้")
 
 ## มันคืออะไร
 
@@ -34,7 +34,7 @@ outdated: true
 
 ### ราคา
 
-![ตัวอย่าง](img/selecting-duration.jpg "ตัวอย่าง")
+![ตัวอย่าง](img/selecting-duration.jpg?1 "ตัวอย่าง")
 
 | จำนวนเดือน | ราคา (ดอลลาร์สหรัฐ)(ในวงเล็บคือส่วนลด) |
 | :-: | :-- |
@@ -60,7 +60,7 @@ outdated: true
 
 ### ระยะเวลา
 
-![เปรียบเทียบระหว่างผู้เล่นที่เป็นและไม่เป็น osu!supporter.](img/status.jpg "เปรียบเทียบระหว่างผู้เล่นที่เป็นและไม่เป็น osu!supporter.")
+![เปรียบเทียบระหว่างผู้เล่นที่เป็นและไม่เป็น osu!supporter.](img/status.jpg?1 "เปรียบเทียบระหว่างผู้เล่นที่เป็นและไม่เป็น osu!supporter.")
 
 หลังจากจ่ายเงินเป็นที่เรียบร้อยแล้ว ที่หน้าโปรไฟล์ของคุณจะขึ้น (ถ้าคุณเป็นครั้งแรก) "{ชื่อบัญชีของคุณที่นี่} has become an osu! supporter - thanks for your generosity!" หรือ (เคยเป็นมาแล้วแต่เป็นอีก) "{ชื่อบัญชีของคุณที่นี่} has once again chosen to donate to the osu! cause - thanks for your generosity!" ถ้าคุณซื้อให้ตัวเอง คุณจะเห็นตรา osu!supporter ใต้รูปโปรไฟล์ของคุณ ถ้าจะเช็คว่าเมื่อไหร่ supporter tag จะหมดอายุ [ก็ให้กลับไปที่เดิมที่เคยเสียเงิน](https://osu.ppy.sh/home/support).
 
