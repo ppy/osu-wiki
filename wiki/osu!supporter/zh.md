@@ -4,7 +4,7 @@ outdated: true
 
 # osu!supporter
 
-![主页上的 osu!supporter 链接](img/store-product.jpg "主页上的 osu!supporter 链接")
+![主页上的 osu!supporter 链接](img/store-product.jpg?1 "主页上的 osu!supporter 链接")
 
 请参见：<https://osu.ppy.sh/home/support>
 
@@ -53,7 +53,7 @@ outdated: true
 
 默认情况下，将显示你的帐户。如果你不想要 osu!supporter，点击“赠与另一个玩家”并输入该玩家的账户名称。如果你想赠送给多个帐户，请点击“结帐”按钮旁边的“添加另一个标志”按钮。确认帐户后，拖动帐户下方的白色按钮，可以确定帐户需要多长时间，以及总共需要支付的费用。你可以为不同的账户支付不同的时间的 supporter 以及不同的费用的 supporter。
 
-![购买 osu!supporter 的例子](img/selecting-duration.jpg "购买 osu!supporter 的例子")
+![购买 osu!supporter 的例子](img/selecting-duration.jpg?1 "购买 osu!supporter 的例子")
 
 ### 付款
 
@@ -61,7 +61,7 @@ outdated: true
 
 ### 有效时间
 
-![supporter 用户与非 supporter 用户的对比](img/status.jpg "supporter 用户与非 supporter 用户的对比")
+![supporter 用户与非 supporter 用户的对比](img/status.jpg?1 "supporter 用户与非 supporter 用户的对比")
 
  交易完成后，你的个人资料的近期活动将会显示“{某玩家}已成为 osu!supporter - 感谢你的慷慨解囊！”（第一次成为 osu!supporter 时）或 “{某玩家} 再次选择捐赠 osu! - 感谢你的慷慨解囊！”（你以前曾是 osu!supporter 时）。如果你为自己购买了 osu!supporter，则可以在你的个人资料图片下方看到 osu!supporter 徽章。想知道 osu!supporter *何时*到期，请转到 [osu!supporter 页面](https://osu.ppy.sh/home/support)。
 
