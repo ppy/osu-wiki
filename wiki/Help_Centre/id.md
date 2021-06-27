@@ -50,7 +50,7 @@ Apabila anggota layanan dukungan kami memintamu untuk memberikan berkas-berkas l
 
 ### Event Viewer
 
-**Event Viewer merupakan program bawaan Windows yang merekam segala sesuatu yang terjadi ketika suatu program mengalami *crash*. Rekaman-rekaman ini tersimpan dalam berkas-berkas *crash log* yang dapat digunakan untuk mengidentifikasi masalah yang kamu hadapi.**
+**Event Viewer merupakan program bawaan Windows yang merekam segala sesuatu yang terjadi ketika suatu program mengalami *crash*. Rekaman-rekaman ini tersimpan dalam berkas-berkas *crash log* yang dapat kami gunakan untuk mengidentifikasi masalah yang kamu hadapi.**
 
 Apabila osu! mengalami *crash* secara tiba-tiba, seringkali osu! tidak memiliki cukup waktu untuk mencatat kronologi *crash* yang bersangkutan dalam berkas-berkas log yang dimilikinya. Dalam situasi demikian, berkas-berkas *crash log* yang dihasilkan oleh Event Viewer kerap menjadi satu-satunya harapan yang tersisa.
 
