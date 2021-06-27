@@ -8,19 +8,19 @@ tags:
 
 ![CIC 2021 banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament is open to all osu!catch players from Indonesia with over 3,000 osu!catch playcount regardless of rank. It is the ninth iteration of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament is open to all players from Indonesia with a playcount of 3,000 or above in the osu!catch game mode regardless of rank. It is the ninth iteration of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2021-06-01/2021-06-10 |
-| Screening phase | 2021-06-10/2021-06-20 |
-| Group stage | 2021-06-21/2021-06-27 |
-| Round of 16 | 2021-06-28/2021-07-04 |
-| Quarterfinals | 2021-07-05/2021-07-11 |
-| Semifinals | 2021-07-12/2021-07-18 |
-| Finals | 2021-07-19/2021-07-25 |
+| Screening phase | 2021-06-10/2021-06-27 |
+| Group stage | 2021-06-28/2021-07-04 |
+| Round of 16 | 2021-07-05/2021-07-11 |
+| Quarterfinals | 2021-07-12/2021-07-18 |
+| Semifinals | 2021-07-19/2021-07-25 |
+| Finals | 2021-07-26/2021-08-01 |
 
 ## Prizes
 
@@ -40,7 +40,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 | Mappool selector | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | Streamer | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) |
 | Commentator | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869),  ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) |
-| Referee | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Asqed](https://osu.ppy.sh/users/6525565), ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) |
+| Referee | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [Asqed](https://osu.ppy.sh/users/6525565), ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) |
 | Graphic designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
 | Spreadsheet manager | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -51,6 +51,45 @@ CIC 2021 is run by various Indonesian osu! community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1324864)
 - [Discord server](https://discord.gg/YwAYbPa "Discord")
 - [Livestream channel](https://www.twitch.tv/osuIndonesia/ "Twitch")
+
+## Participants
+
+Listed below are players who qualified into the Group Stage (along with their respective seeding and group placement) out of 35 registered players in total.
+
+| Group | Seed A | Seed B | Seed C | Seed D |
+| :-- | :-- | :-- | :-- | :-- |
+| A | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) |
+| B | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) |
+| C | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | ![][flag_ID] [Pyrozen](https://osu.ppy.sh/users/3031177) | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) |
+| D | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/9153772) |
+| E | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [Xtream1500](https://osu.ppy.sh/users/20740438) |
+| F | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) |
+| G | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) |
+| H | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) |
+
+### Group Stage
+
+**[Download the mappack here! (87 MB)](https://drive.google.com/file/d/1cwjsNciDalNJmdqz6t1FQLbDY2sM2-vo/view)**
+
+- NoMod
+  - [CHiCO with HoneyWorks - Pride Kakumei (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/1394916#fruits/2879325)
+  - [Kicco - Akari no Arika (-Joakh) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/1404258#fruits/2924231)
+  - [Ayaponzu\* - Catch You Catch Me (Yumeno Himiko) \[Magic\]](https://osu.ppy.sh/beatmapsets/1478834#fruits/3033888)
+  - [Camellia feat. Nanahira - POLKAMANIA (Mir) \[ANOTHER\]](https://osu.ppy.sh/beatmapsets/1409478#fruits/2906707)
+- Hidden
+  - [Yamazaki Moe - Kataomoi no Melody o short ver. (AJamez) \[Light Rain\]](https://osu.ppy.sh/beatmapsets/769584#fruits/1618186)
+  - [xi - Titania (Jemzuu) \[Rain\]](https://osu.ppy.sh/beatmapsets/1278046#fruits/2669851)
+  - [Junk - Yellow Smile(bms edit) (rui) \[wring's Another\]](https://osu.ppy.sh/beatmapsets/226133#fruits/554864)
+- HardRock
+  - [chelmico - Easy Breezy feat. Zenpaku \[ dj-Jo Trap Remix \] TV Size (Ascendance) \[Chatie's Salad\]](https://osu.ppy.sh/beatmapsets/1284565#fruits/2943796)
+  - [Nekomata Master - Scars of FAUNA (Madoka2574) \[Platter\]](https://osu.ppy.sh/beatmapsets/1302763#fruits/2701842)
+  - [Nakiri Ayame - Deep Indigo (Bokamin) \[Hard\]](https://osu.ppy.sh/beatmapsets/1189193#fruits/2522847)
+- DoubleTime
+  - [Duck Duck Pony - Shinsetsu (wonjae) \[wonJemZero's Salad\]](https://osu.ppy.sh/beatmapsets/951270#fruits/2009915)
+  - [Three Days Grace - Animal I Have Become (Secre) \[Platter\]](https://osu.ppy.sh/beatmapsets/1371694#fruits/2842835)
+  - [IOSYS - Miracle-Hinacle (vincerio) \[Miracle-Lolicle\]](https://osu.ppy.sh/beatmapsets/20210#fruits/71842)
+- Tiebreaker
+  - **[Official HIGE DANdism - Pretender (Crowley) \[My Final Farewell\]](https://osu.ppy.sh/beatmapsets/1272888#fruits/2645056)**
 
 ## Ruleset
 
@@ -85,7 +124,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 
 ### Group stage rules
 
-1. In the Group stage, all players will be divided into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
+1. In the Group stage, all qualified players will be situated into four different seeds (Seed A, Seed B, Seed C, and Seed D) based on their osu!catch pp. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnouts after each map:
    - 1st place: **+2 points**
    - 2nd place: **+1 point**
@@ -93,8 +132,8 @@ CIC 2021 is run by various Indonesian osu! community members.
    - 4th place: **0 point**
 3. If there is a tie at the end of the map, the points will instead be distributed as follows:
    - **+2/+2/+1/0** in the case where the 1st place and the 2nd place players are tied.
-   - **+2/+1/+1/+1** in the case where the 2st place and the 3nd place players are tied.
-   - **+2/+2/+2/0** in the case where the 1st place, the 2st place, and the 3nd place players are tied.
+   - **+2/+1/+1/+1** in the case where the 2nd place and the 3rd place players are tied.
+   - **+2/+2/+2/0** in the case where the 1st place, the 2nd place, and the 3rd place players are tied.
    - **+2/+2/+2/+2** in the case where all four players are tied.
 4. Players are **not allowed** to ban maps in the Group stage.
 5. There is no Lower Bracket in the Group stage.
