@@ -98,7 +98,7 @@ Sepengetahuan kami, terdapat beberapa penyedia jasa layanan *proxy server* dan j
 
 **Harap kirimi kami berkas `network.log` milikmu agar kami dapat membantumu lebih lanjut.**
 
-Untuk mengetahui cara mendapatkan berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/id/Help_Centre#Berkas-berkas_log).
+Untuk mengetahui cara mendapatkan berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/Help_Centre#Berkas-berkas_log).
 
 Kamu juga dapat meminta bantuan kepada pihak penyedia layanan internet (*Internet Service Provider*/ISP) yang kamu gunakan. Terkadang, beberapa ISP tidak dapat terhubung dengan osu! karena sistem pengantaran paket jaringan (*routing*) mereka yang sedang bermasalah.
 
@@ -140,7 +140,7 @@ Apabila setelahnya kamu ingin [kembali mengganti nama penggunamu](https://osu.pp
 
 Harap diingat bahwa nama pengguna yang hendak kamu pilih harus sesuai dengan [Peraturan Komunitas](/wiki/Rules) yang berlaku, di mana nama yang bersangkutan tidak boleh mengandung unsur-unsur yang ofensif, provokatif, ataupun menghina dari segi apapun. Di samping itu, kami juga tidak membenarkan penggunaan nama yang ditujukan untuk meniru tokoh-tokoh masyarakat (baik itu artis, politisi, ataupun yang lainnya); apabila kamu tidak patuh, kami berhak untuk mengembalikan nama penggunamu seperti sedia kala.
 
-Apabila kamu hanya ingin mengoreksi hal-hal seperti penggunaan huruf besar/kecil atau salah ketik (*typo*) yang ada, kamu dapat menghubungi kami melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh). Proses koreksi ini tidak dipungut biaya, namun kamu **HARUS** menghubungi kami melalui email. Seperti biasa, harap untuk tidak menggunakan layanan ini secara berlebihan!
+Apabila kamu hanya ingin mengoreksi hal-hal seperti penggunaan huruf besar/kecil atau salah ketik (*typo*) yang ada, kamu dapat menghubungi kami melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh). Proses koreksi ini tidak dipungut biaya, namun kamu **HARUS** menghubungi kami melalui email. Harap untuk tidak menggunakan layanan ini secara berlebihan!
 
 ### Apakah saya dapat mengambil nama pengguna yang sebelumnya telah dipakai oleh pengguna lain?
 
@@ -148,7 +148,7 @@ Apabila kamu hanya ingin mengoreksi hal-hal seperti penggunaan huruf besar/kecil
 
 Apabila pemilik dari nama pengguna yang hendak kamu ambil tidak tercatat memiliki riwayat permainan apapun dan tidak pernah melakukan *login* dalam kurun waktu setidaknya 6 bulan ke belakang, maka kamu dapat mengambil nama pengguna yang bersangkutan melalui [laman penggantian nama pengguna](https://osu.ppy.sh/store/products/32) seperti biasa.
 
-Apabila pemilik dari nama pengguna yang hendak kamu ambil **tercatat memiliki riwayat permainan**, maka nama pengguna yang bersangkutan baru akan dapat kamu ambil setelah 6 bulan + jangka waktu tambahan sebagaimana yang ditentukan oleh [formula berikut](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph"). Hal ini ditujukan untuk mencegah terambilnya nama pengguna milik pemain lain yang masih aktif atau baru saja pensiun.
+Apabila pemilik dari nama pengguna yang hendak kamu ambil **tercatat memiliki riwayat permainan**, maka nama pengguna yang bersangkutan baru akan dapat kamu ambil setelah 6 bulan + jangka waktu tambahan sebagaimana yang ditentukan oleh [formula berikut](https://www.desmos.com/calculator/b89siyv9j8 "Grafik Desmos"). Hal ini ditujukan untuk mencegah terambilnya nama pengguna milik pemain lain yang masih aktif atau baru saja pensiun.
 
 ### Apakah saya dapat mengambil kembali nama pengguna saya yang terdahulu?
 
@@ -208,15 +208,15 @@ Apabila kamu telah terlanjur memiliki lebih dari satu akun, harap hubungi kami m
 
 Kami tengah mempertimbangkan untuk membuka layanan pemutihan skor (*score reset*) melalui osu!store, namun untuk saat ini kami tidak dapat menghapus riwayat akunmu sepenuhnya.
 
-Hal ini bukan berarti kamu dibenarkan untuk membuat akun baru! Sebagaimana yang tertera pada laman [Peraturan](/wiki/id/Rules#Peraturan-komunitas), masing-masing pemain hanya diperkenankan untuk memiliki satu akun tanpa terkecuali.
+Hal ini bukan berarti kamu dibenarkan untuk membuat akun baru! Sebagaimana yang tertera pada laman [Peraturan](/wiki/Rules#peraturan-komunitas), masing-masing pemain hanya diperkenankan untuk memiliki satu akun tanpa terkecuali.
 
 ### Apakah saya dapat menghapus akun saya?
 
-*Untuk informasi lebih lanjut mengenai penghapusan akun, lihat: [Hak dan kendali Anda](https://osu.ppy.sh/legal/id/Privacy#hak-dan-kendali-anda).*
+*Untuk informasi lebih lanjut mengenai penghapusan akun, lihat: [Hak dan kendali Anda](https://osu.ppy.sh/legal/Privacy#hak-dan-kendali-anda).*
 
 *Perhatian: Akun yang sudah terhapus tidak dapat dikembalikan!*
 
-Ya, kamu dapat menghapus akunmu dengan menghubungi kami melalui alamat email [privacy@ppy.sh](mailto:privacy@ppy.sh). Harap diingat bahwa akun yang telah dihapus **tidak dapat dikembalikan dengan alasan apapun**. Di samping itu, setelah akunmu dihapus, kamu tidak dibenarkan untuk membuat akun baru karena masing-masing pemain hanya diperkenankan untuk memiliki satu akun tanpa terkecuali sesuai dengan [peraturan yang berlaku](/wiki/id/Rules#Peraturan-komunitas).
+Ya, kamu dapat menghapus akunmu dengan menghubungi kami melalui alamat email [privacy@ppy.sh](mailto:privacy@ppy.sh). Harap diingat bahwa akun yang telah dihapus **tidak dapat dikembalikan dengan alasan apapun**. Di samping itu, setelah akunmu dihapus, kamu tidak dibenarkan untuk membuat akun baru karena masing-masing pemain hanya diperkenankan untuk memiliki satu akun tanpa terkecuali sesuai dengan [peraturan yang berlaku](/wiki/Rules#peraturan-komunitas).
 
 ### Apakah saya dapat bermain osu! pada komputer yang sebelumnya pernah digunakan oleh pengguna lain?
 
@@ -224,7 +224,7 @@ Ya, kamu dapat menghapus akunmu dengan menghubungi kami melalui alamat email [pr
 
 **Selama kamu hanya menggunakan akun milikmu**, kamu bebas untuk bermain osu! di mana saja!
 
-Meskipun demikian, apabila kamu bermain osu! di fasilitas umum, kami sangat menyarankanmu untuk senantiasa berhati-hati akan ancaman dari pihak-pihak yang tidak bertanggung jawab.
+Meskipun demikian, apabila kamu bermain osu! di fasilitas umum, kami sangat menyarankanmu untuk senantiasa berhati-hati akan ancaman pencurian data dan lain sebagainya dari pihak-pihak yang tidak bertanggung jawab.
 
 ### Apakah saya dapat mengetahui beatmap-beatmap apa saja yang pernah saya unduh dan mainkan?
 
