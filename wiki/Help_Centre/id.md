@@ -42,15 +42,15 @@ Apabila anggota layanan dukungan kami memintamu untuk memberikan berkas-berkas l
 1. Buka osu!.
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `CTRL` + `O`.
 3. Ketik `release` pada kolom pencarian (*quick-search bar*) yang muncul. Kamu akan melihat versi osu! yang sedang kamu gunakan
-4. Pastikan kamu sedang menggunakan osu! versi `Cutting Edge (Experimental)`.
-5. Apabila pada langkah sebelumnya kamu mengganti versi osu! yang kamu gunakan, klik tombol *restart* yang muncul pada sisi bawah layar.
+4. Pastikan kamu sedang menggunakan osu! versi `Eksperimental (Cutting Edge)`.
+5. Apabila pada langkah sebelumnya kamu mengganti versi osu! yang kamu gunakan, *restart* osu! melalui tombol yang muncul pada sisi bawah layar.
 6. Klik menu `Options` dan pilih `Buka folder osu!`.
 7. Pada jendela yang terbuka, tuju direktori `Logs`.
 8. Cari berkas-berkas log yang diminta oleh anggota layanan dukungan kami dan lampirkan berkas-berkas tersebut pada tiket layanan dukungan (*support ticket*) atau utas forum yang terkait.
 
 ### Event Viewer
 
-**Event Viewer merupakan program bawaan Windows yang merekam segala sesuatu yang terjadi di kala suatu program mengalami *crash*. Rekaman-rekaman ini tersimpan dalam berkas-berkas *crash log* yang dapat digunakan untuk mengidentifikasi masalah yang kamu hadapi.**
+**Event Viewer merupakan program bawaan Windows yang merekam segala sesuatu yang terjadi ketika suatu program mengalami *crash*. Rekaman-rekaman ini tersimpan dalam berkas-berkas *crash log* yang dapat digunakan untuk mengidentifikasi masalah yang kamu hadapi.**
 
 Apabila osu! mengalami *crash* secara tiba-tiba, seringkali osu! tidak memiliki cukup waktu untuk mencatat kronologi *crash* yang bersangkutan dalam berkas-berkas log yang dimilikinya. Dalam situasi demikian, berkas-berkas *crash log* yang dihasilkan oleh Event Viewer kerap menjadi satu-satunya harapan yang tersisa.
 
