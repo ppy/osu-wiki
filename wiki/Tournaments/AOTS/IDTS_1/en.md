@@ -285,7 +285,6 @@ Sunday, 21 May 2017:
 
 ### Round of 16
 
-
 Saturday, 13 May 2017:
 
 | Player 1 |  |  | Player 2 | Match link |

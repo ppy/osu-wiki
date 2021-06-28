@@ -174,7 +174,6 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a 1v1 sing
 - Tiebreaker
   - **[Camellia - Quantum Entanglement (Sing) [Ensemble]](https://osu.ppy.sh/beatmaps/1238045)**
 
-
 ### Group stage week 4
 
 - NoMod

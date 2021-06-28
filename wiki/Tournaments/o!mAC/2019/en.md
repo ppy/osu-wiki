@@ -359,7 +359,6 @@ Sunday, 20 October 2019:
 | **\[ R o a d \]** ![][flag_KR] | **6** | 2 | ![][flag_VN] AHHHHHHHHHHHHHH |  |
 | YanYannn ![][flag_MY] | 0 | **6** | ![][flag_KR] **rlarkgus** |  |
 
-
 ### Round of 16
 
 Saturday, 12 October 2019:

@@ -196,7 +196,6 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a 1v1 doub
 - Tiebreaker
   - **[ginkiha - EOS (kamome sano rmx) (Monstrata) [Stardust]](https://osu.ppy.sh/beatmaps/876685)**
 
-
 ### Round of 64
 
 - NoMod
@@ -217,7 +216,6 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a 1v1 doub
   - [Kotoge Mai - Mangekyou (Oracle) [cRyo's Insane]](https://osu.ppy.sh/beatmaps/535334)
 - Tiebreaker
   - **[Nekomata Master feat. Misawa Aki - chrono diver -fragment- (Seikatu) [Marathon]](https://osu.ppy.sh/beatmapsets/349291)**
-
 
 ## Podium
 

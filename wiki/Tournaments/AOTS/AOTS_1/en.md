@@ -2,6 +2,7 @@
 tags:
 - AOTS
 ---
+
 # Asian-Oceanian Taiko Showdown
 
 ![AOTS logo](img/logo.png)

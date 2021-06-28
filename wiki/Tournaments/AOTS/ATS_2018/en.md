@@ -496,13 +496,13 @@ Friday, 1 June 2018:
 9. The Tiebreaker will be played under NoMod conditions.
    - In case of a tie, the Tiebreaker will be replayed again with FreeMod activated.
 10. The mappool consists of following format:
-   - 5 NoMod
-   - 2 Hidden
-   - 2 HardRock
-   - 2 DoubleTime
-   - 2 Special
-   - 2 FreeMod
-   - 1 Tiebreaker
+    - 5 NoMod
+    - 2 Hidden
+    - 2 HardRock
+    - 2 DoubleTime
+    - 2 Special
+    - 2 FreeMod
+    - 1 Tiebreaker
 
 ### Scheduling instructions
 

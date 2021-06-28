@@ -832,8 +832,8 @@ Sunday, 13 January 2019:
 
 #### Round of 32
 
-
 Saturday, 20 December 2018:
+
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **4** | 0 | ![][flag_BF] linkfire | [#1](https://osu.ppy.sh/community/matches/48227620) |

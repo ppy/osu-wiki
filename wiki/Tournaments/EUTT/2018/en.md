@@ -317,7 +317,6 @@ Sunday, 18 November 2018:
 | \_SC0RP10N ![][flag_PL] | 1 | **5** | ![][flag_DE] **Zetera** | [#1](https://osu.ppy.sh/community/matches/47519362) |
 | **Lno** ![][flag_GB] | **5** | 4 | ![][flag_DE] -Leafeon | [#1](https://osu.ppy.sh/community/matches/47520619) |
 
-
 ### Round of 16
 
 Saturday, 10 November 2018:

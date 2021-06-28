@@ -101,7 +101,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 argentos y medio |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | PolytETral |
 
-
 ## Mappools
 
 ### Grand Finals

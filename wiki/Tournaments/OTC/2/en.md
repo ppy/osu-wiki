@@ -27,7 +27,6 @@ The **osu! Technical Championship #2** (***OTC #2***) was a 3v3 double eliminati
 
 ## Prizes
 
-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag, unique profile badge |
@@ -107,7 +106,6 @@ The osu! Technical Championship #2 was run by various osu! community members.
 | **F** | Dumii has a small dick | BOOMING | El perro me vomito la cama | technical issues |
 | **G** | Zzz | We Have No Friends | small boob | Cauldron Bois |
 | **H** | Wisdom Chair | 727pp XddXDDDDD | Tak Halal Sial | e-girl respecters |
-
 
 ## Podium
 
