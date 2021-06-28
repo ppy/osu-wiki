@@ -1,13 +1,13 @@
 # Informasi umum untuk Beatmap Nominator
 
-Apakah kamu seorang [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) *(BN)*, atau tertarik menjadi salah satunya? jika ya, kamu datang ke tempat yang tepat! Artikel ini berisi semua informasi umum yang perlu kamu ketahui sebagai seorang Beatmap Nominator baru.
+Apakah kamu seorang [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) *(BN)*, atau tertarik menjadi salah satunya? Jika ya, kamu datang ke tempat yang tepat! Artikel ini berisi semua informasi umum yang perlu kamu ketahui sebagai seorang Beatmap Nominator baru.
 
 ## Tautan penting
 
-- [Peraturan Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Rules): Garis besar bagaimana cara melakukan berbagai tindakan, serta bagaimana cara untuk tidak melakukan sesuatu yang dapat melanggar ketentuan-ketentuan yang telah diberikan dalam situasi apa pun, jadi pastikan untuk membacanya dengan cermat! kamu selalu dapat bertanya kepada seorang anggota dari [Nomination Assessment Team](The_Team/Nomination_Assessment_Team) *(NAT)* jika kamu tidak yakin tentang sesuatu, dan mereka akan membantu kamu dengan senang hati.
-- [Kode Etik untuk Mapping dan Modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): Sebagai seorang BN, kamu diharapkan dapat menjadi sosok yang patut dicontoh di dalam komunitas, menjadi seorang yang orang lain kagumi dan hormati, jadi pelanggaran dapat membuat kamu ditegur atau bahkan dikeluarkan.
-- [Ranking Criteria](/wiki/Ranking_Criteria): Jika kamu sudah menjadi seorang BN, kamu harus terbiasa dengan ini. Pada dasarnya, ini berfungsi untuk menjelaskan aspek mapping yang diperbolehkan dan tidak diperbolehkan di bagian Ranked, serta beberapa pedoman umum yang harus diikuti dalam kebanyakan kasus.
-- [Informasi Beatmap Veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto): Untuk beatmap dengan masalah kualitas secara objektif yang sebetulnya tidak melanggar aturan dan pedoman dari Ranking Criteria, tetapi yang menurut kamu membuat beatmap tersebut tidak sesuai untuk bagian Ranked, beatmap veto memungkinkan kamu menahan beatmap dari Kualifikasi.
+- [Peraturan Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Rules): Garis besar cara untuk melakukan berbagai tindakan, serta bagaimana cara untuk tidak melakukan sesuatu yang dapat melanggar ketentuan-ketentuan yang telah diberikan dalam situasi apa pun, jadi pastikan untuk membacanya dengan cermat! Kamu selalu dapat bertanya kepada seorang anggota dari [Nomination Assessment Team](The_Team/Nomination_Assessment_Team) *(NAT)* jika kamu tidak yakin tentang sesuatu, dan mereka akan membantu kamu dengan senang hati.
+- [Kode Etik untuk Mapping dan Modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): Sebagai seorang BN, kamu diharapkan dapat menjadi sosok yang patut dicontoh di dalam komunitas, menjadi seorang yang orang lain kagumi dan hormati, jadi perbuatan yang melanggar pengaturan dapat membuat kamu ditegur atau bahkan dikeluarkan.
+- [Ranking Criteria](/wiki/Ranking_Criteria): Jika kamu sudah menjadi seorang BN, kamu seharusnya sudah terbiasa dengan ini. Pada dasarnya, hal ini berfungsi untuk menjelaskan aspek mapping yang diperbolehkan dan tidak diperbolehkan di bagian Ranked, serta beberapa pedoman umum yang harus diikuti dalam kebanyakan kasus.
+- [Informasi Beatmap Veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto): Untuk beatmap dengan masalah kualitas secara objektif yang sebetulnya tidak melanggar aturan dan pedoman dari Ranking Criteria, tetapi yang menurut kamu membuat beatmap tersebut tidak sesuai untuk bagian Ranked, beatmap veto memungkinkan kamu untuk menahan beatmap dari bagian Qualification.
 - [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895): Sebuah alat yang dibuat oleh anggota NAT yaitu [Naxess](https://osu.ppy.sh/users/8129817). Alat ini memeriksa berbagai masalah unrankable, serta memiliki fitur snapshot agar lebih mudah dalam membandingkan versi map yang dapat bermanfaat saat pengecekan ulang. **Alat ini tidak boleh menggantikan kamu dalam pemeriksaan beatmap**, tetapi dapat digunakan sebagai alat untuk membantu memeriksa ulang sehingga tidak ada yang terlewat.
 
 ## Kemampuan Beatmap Nominator
@@ -18,13 +18,13 @@ Nominasi dan mereset nominasi adalah bukti dari usaha seorang BN saat memeriksa 
 
 ![tombol nominasi](img/nominate_id.png)
 
-**Tombol ini memungkinkan kamu untuk menominasi beatmap.** Untuk menominasi sebuah sebuah beatmap, mapset harus memiliki setidaknya 5 Hype dan tidak ada tanda Masalah atau Saran yang saat ini belum terselesaikan. Sebelum memberikan nominasi, pastikan kamu puas dengan semua tingkat kesulitan, bahkan untuk mode permainan lainnya. Jika beatmap sebelumnya pernah diveto, kamu harus memastikan veto tersebut sudah diselesaikan sebelum meneruskan mapset. Ketika sebuah beatmap memiliki 2 nominasi, beatmap tersebut akan menuju ke bagian kualifikasi dan masuk ke antrian ranking.
+**Tombol ini memungkinkan kamu untuk menominasi beatmap.** Untuk menominasi sebuah beatmap, mapset harus memiliki setidaknya 5 Hype dan tidak ada tanda Masalah atau Saran yang saat ini belum terselesaikan. Sebelum memberikan nominasi, pastikan kamu puas dengan semua tingkat kesulitan, bahkan untuk mode permainan lainnya. Jika beatmap sebelumnya pernah diveto, kamu harus memastikan veto tersebut sudah diselesaikan sebelum meneruskan mapset tersebut. Ketika sebuah beatmap memiliki 2 nominasi, beatmap tersebut akan menuju ke bagian kualifikasi dan masuk ke antrian ranking.
 
 ### Diskualifikasi atau mereset nominasi
 
 ![tombol diskualifikasi dan tombol reset](img/reset_dq_id.png)
 
-**Ini memungkinkan kamu untuk mereset perkembangan dari sebuah beatmap dalam proses ranking.** Jika sebuah beatmap saat ini dinominasi atau dikualifikasi, kamu sebagai seorang nominator diberikan kemampuan untuk mereset nominasi pada beatmap dengan memposting sebuah isu menggunakan tanda Masalah. Jika sebuah beatmap dikualifikasi, itu hanya dapat didiskualifikasi oleh seorang full BN. Opsi ini biasanya digunakan ketika ada masalah besar atau masalah unrankable dalam beatmap yang harus ditangani sebelum mempertimbangkannya untuk ranking.
+**Ini memungkinkan kamu untuk mereset perkembangan dari sebuah beatmap dalam proses ranking.** Jika sebuah beatmap saat ini dinominasi atau dikualifikasi, kamu sebagai seorang nominator diberikan kemampuan untuk mereset nominasi pada beatmap dengan memposting sebuah isu menggunakan tanda Masalah. Jika sebuah beatmap dikualifikasi, beatmap itu hanya dapat didiskualifikasi oleh seorang full BN. Opsi ini biasanya digunakan ketika ada masalah besar atau masalah unrankable dalam beatmap yang harus ditangani sebelum mempertimbangkannya untuk masuk ke bagian ranking.
 
 Langkah-langkah untuk mendiskualifikasi beatmap:
 
@@ -33,7 +33,7 @@ Langkah-langkah untuk mendiskualifikasi beatmap:
 - Jika diskualifikasi ditautkan ke sebuah laporan, tautkan juga postingan diskusi beatmap terkait.
 - Tekan tombol **Diskualifikasi** di bawah kolom teks (salah satu yang menggantikan tombol "Masalah").
 
-Sebagai perpanjangan dari kemampuan ini, kamu juga bisa [memveto sebuah beatmap](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto), mencegah sebuah beatmap dinominasi kembali sampai kamu memberikan izin atau veto dicabut oleh mediasi veto. Namun, mengajukan veto juga mengharuskan kamu mendiskusikan masalah ini dengan mapper dengan benar dan mencoba mencapai mufakat. Membahas masalah dengan Nominator asli akan bermanfaat dan dapat memberi kamu perspektif baru tentang masalah tersebut, tetapi kamu tidak diwajibkan untuk melakukannya.
+Sebagai tambahan dari kemampuan ini, kamu juga bisa [memveto sebuah beatmap](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto), mencegah sebuah beatmap dinominasi kembali sampai kamu memberikan izin atau veto dicabut oleh mediasi veto. Namun, mengajukan veto juga mengharuskan kamu mendiskusikan masalah ini dengan mapper dengan benar dan mencoba mencapai mufakat. Membahas masalah dengan Nominator yang awal akan bermanfaat dan dapat memberi kamu perspektif baru tentang masalah tersebut, tetapi kamu tidak diwajibkan untuk melakukannya.
 
 ## Fungsi Beatmap Nominator tambahan
 
