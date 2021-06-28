@@ -12,8 +12,8 @@ The following content is separated into sections, indicated by section titles in
 | :-- | :-- | :-- |
 | `[General]` | General information about the beatmap | `key: value` pairs |
 | `[Editor]` | Saved settings for the beatmap editor | `key: value` pairs |
-| `[Metadata]` | Information used to identify the beatmap | `key:value` pairs |
-| `[Difficulty]` | Difficulty settings | `key:value` pairs |
+| `[Metadata]` | [Information](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata) used to identify the beatmap | `key:value` pairs |
+| `[Difficulty]` | [Difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) | `key:value` pairs |
 | `[Events]` | Beatmap and storyboard graphic events | Comma-separated lists |
 | `[TimingPoints]` | Timing and control points | Comma-separated lists |
 | `[Colours]` | Combo and skin colours | `key : value` pairs |
@@ -50,11 +50,11 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `Bookmarks` | Comma-separated list of integers | Time in milliseconds of bookmarks |
-| `DistanceSpacing` | Decimal | Distance snap multiplier |
-| `BeatDivisor` | Decimal | Beat snap divisor |
-| `GridSize` | Integer | Grid size |
-| `TimelineZoom` | Decimal | Scale factor for the object timeline |
+| `Bookmarks` | Comma-separated list of integers | Time in milliseconds of [bookmarks](/wiki/Beatmap_Editor/Compose#bottom-(song's-timeline)) |
+| `DistanceSpacing` | Decimal | [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) multiplier |
+| `BeatDivisor` | Decimal | [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) |
+| `GridSize` | Integer | [Grid size](/wiki/Grid_snapping) |
+| `TimelineZoom` | Decimal | Scale factor for the [object timeline](/wiki/Beatmap_Editor/Compose#top-left-(hit-objects-timeline)) |
 
 ## Metadata
 
