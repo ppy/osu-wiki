@@ -285,7 +285,7 @@ If the slider's `length` is longer than the defined curve, the slider will exten
 
 Apart from edge hitsounds, sliders also have an ongoing hitsound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active.
 
-This hitsound uses the hit object's `hitSound` and `hitSample` properties, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-hit<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
+This hitsound uses the hit object's `hitSound` and `hitSample` properties, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-slider<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
 
 ### Spinners
 
@@ -329,7 +329,7 @@ The third object is a slider:
 - At the position (100,100)
 - At 12.6 seconds
 - Starting a new combo
-- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), (300,150)
+- With a compound bézier curve slider body, where the curve's control points are (100,100), (200,200), (250,200), (250,200), and (300,150)
 - Repeating once
 - 310.123 osu! pixels long
 - With a whistle hitsound at the beginning, and a whistle hitsound playing with the soft set at the end
