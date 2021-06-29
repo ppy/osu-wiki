@@ -8,7 +8,7 @@ tags:
 
 ![T2T 2019 logo](img/logo.png)
 
-The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. tournament hosted by ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) and ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178). It was the 3rd installment of the TAG Tournament series. The tournament followed on from ![][flag_NL] [Tayo](https://osu.ppy.sh/users/8910355)'s two previous TAG Tournaments: [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
+The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. tournament hosted by ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) and ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178). It was the third installment of the TAG Tournament series. The tournament followed on from ![][flag_NL] [Tayo](https://osu.ppy.sh/users/8910355)'s two previous TAG Tournaments: [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
 
 ## Tournament schedule
 
@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (254 MB)](https://drive.google.com/open?id=1H-kqXt2rWPbv7js7jrUSI9riPS2pu7gy)**
+**[Download the mappack here! (254 MB)](https://drive.google.com/open?id=1H-kqXt2rWPbv7js7jrUSI9riPS2pu7gy "Google Drive")**
 
 - NoMod
   - [sana - Packet Hero (Fuccho) [Broccoly's Extra]](https://osu.ppy.sh/beatmapsets/404910#osu/944864)
@@ -149,7 +149,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (220 MB)](https://drive.google.com/file/d/1wIcJdNsReVUXxJ6LEJR5Co1A3k9CGg_o)**
+**[Download the mappack here! (220 MB)](https://drive.google.com/file/d/1wIcJdNsReVUXxJ6LEJR5Co1A3k9CGg_o "Google Drive")**
 
 - NoMod
   - [Carpenter Brut - Anarchy Road (Voyen) [2070]](https://osu.ppy.sh/beatmapsets/345086#osu/762207)
@@ -179,7 +179,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (135 MB)](https://drive.google.com/open?id=14d7uqSQRP5uBNV_LYp50hDk2tBaT2rUf)**
+**[Download the mappack here! (135 MB)](https://drive.google.com/open?id=14d7uqSQRP5uBNV_LYp50hDk2tBaT2rUf "Google Drive")**
 
 - NoMod
   - [Reol - Asymmetry (Gaia) [captin's Extra]](https://osu.ppy.sh/beatmapsets/292077#osu/679779)
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (118 MB)](https://drive.google.com/open?id=1VDfbJoi26YwyCe28gELupkxGkJnnhuIe)**
+**[Download the mappack here! (118 MB)](https://drive.google.com/open?id=1VDfbJoi26YwyCe28gELupkxGkJnnhuIe "Google Drive")**
 
 - NoMod
   - [DECO\*27 - First Storm -Japanese Version- (RepL4y) [Asami's Expert]](https://osu.ppy.sh/beatmapsets/808175#osu/1785865)
@@ -238,7 +238,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (134 MB)](https://drive.google.com/open?id=1UoUgV1rhczD19S14dRmlajWKXGo5AwX7)**
+**[Download the mappack here! (134 MB)](https://drive.google.com/open?id=1UoUgV1rhczD19S14dRmlajWKXGo5AwX7 "Google Drive")**
 
 - NoMod
   - [t+pazolite - cheatreal (caren_sk) [RLC's Extra]](https://osu.ppy.sh/beatmapsets/88180#osu/442170)
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (124 MB)](https://drive.google.com/open?id=1F4FqZEzF3J5-HDhl30rzlgXmxivMegAu)**
+**[Download the mappack here! (124 MB)](https://drive.google.com/open?id=1F4FqZEzF3J5-HDhl30rzlgXmxivMegAu "Google Drive")**
 
 - NoMod
   - [iojjj - Akui to Ai no Sukima no Puzzle (Okoratu) [Diplomatic Immunity]](https://osu.ppy.sh/beatmapsets/147430#osu/517595)
@@ -292,7 +292,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (33 MB)](https://puu.sh/D4s4A/a995511d8a.zip)**
+**[Download the mappack here! (33 MB)](https://puu.sh/D4s4A/a995511d8a.zip "puush")**
 
 - NoMod
   - [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry) [LowBot's Insane]](https://osu.ppy.sh/beatmapsets/694402#osu/1501410)

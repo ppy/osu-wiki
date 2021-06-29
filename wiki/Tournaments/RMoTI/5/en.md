@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 
 There was only one mappool for all matches, made of beatmaps from the last four RMoT mappools. There were six tiebreaker beatmaps, one for each stage. Every tiebreaker from the last four RMoTs and two new beatmaps were picked for tiebreaker.
 
-**[Download the mappack here! (182 MB)](http://www.mediafire.com/file/2telo31u7xasasn/RMoT%20Invitational%20%235%20-%20Mappool.zip)**
+**[Download the mappack here! (182 MB)](http://www.mediafire.com/file/2telo31u7xasasn/RMoT%20Invitational%20%235%20-%20Mappool.zip "MediaFire")**
 
 - NoMod
   - [BTS - FIRE (Nathan) [apple's Insane]](https://osu.ppy.sh/beatmaps/1068523)

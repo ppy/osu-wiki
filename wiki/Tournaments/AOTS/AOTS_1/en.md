@@ -92,7 +92,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the map pack here! (88 MB)](https://puu.sh/EfqvP/8474be105f.zip)**
+**[Download the map pack here! (88 MB)](https://puu.sh/EfqvP/8474be105f.zip "puush")**
 
 - NoMod
   - [Nekomata Master - Journey (BabySnakes) \[Inner Oni (Finished)\]](https://osu.ppy.sh/beatmapsets/961119#taiko/2012118)
@@ -121,7 +121,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the map pack here! (95 MB)](https://puu.sh/EcKsL/379042b001.zip)**
+**[Download the map pack here! (95 MB)](https://puu.sh/EcKsL/379042b001.zip "puush")**
 
 - NoMod
   - [mafumafu - Yuugure Semi Nikki (-\[ ix Ishida xi \]-) \[-\[ ix IshidaTaikonari xi \]-\]](https://osu.ppy.sh/beatmapsets/83519#taiko/230572)
@@ -150,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the map pack here! (60 MB)](https://puu.sh/E9FE1/a1f5e10fe0.zip)**
+**[Download the map pack here! (60 MB)](https://puu.sh/E9FE1/a1f5e10fe0.zip "puush")**
 
 - NoMod
   - [BlackY - Nobodyknows Eden (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/768440#taiko/1722532)
@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the map pack here! (60 MB)](https://puu.sh/E74ch/e222bc7d3f.zip)**
+**[Download the map pack here! (60 MB)](https://puu.sh/E74ch/e222bc7d3f.zip "puush")**
 
 - NoMod
   - [sasakure.UK - The UniversaL ElekiteL (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/567572#taiko/1202588)
@@ -202,7 +202,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the map pack here! (61 MB)](https://puu.sh/E4vgO/031e24289a.zip)**
+**[Download the map pack here! (61 MB)](https://puu.sh/E4vgO/031e24289a.zip "puush")**
 
 - NoMod
   - [Chroma - Lost Found Melody (zkane2) \[Found It\]](https://osu.ppy.sh/beatmapsets/832348#taiko/1743812)
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the map pack here! (46 MB)](https://puu.sh/E1b4I/abef3223c1.zip)**
+**[Download the map pack here! (46 MB)](https://puu.sh/E1b4I/abef3223c1.zip "puush")**
 
 - NoMod
   - [Kano - Houkago Stride (Short Ver.) (Lundlerol) \[Oni\]](https://osu.ppy.sh/beatmapsets/80983#taiko/225075)

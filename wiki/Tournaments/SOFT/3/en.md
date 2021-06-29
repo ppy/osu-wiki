@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (125 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAPAfhKpXBiJRWPIIXq1jPIa/Grandfinals.rar?dl=0)**
+**[Download the mappack here! (125 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAPAfhKpXBiJRWPIIXq1jPIa/Grandfinals.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [Nero's Day at Disneyland - Beautiful Beachfront Properties (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/beatmaps/1300054)
@@ -125,7 +125,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (84 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADyoM4bgPBL4bCe5uhs0ceya/Finals.rar?dl=0)**
+**[Download the mappack here! (84 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADyoM4bgPBL4bCe5uhs0ceya/Finals.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](https://osu.ppy.sh/beatmaps/1412004)
@@ -148,7 +148,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (75 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADa3loIKUhzbbVUaFB7f2lUa/Semifinals.rar?dl=0)**
+**[Download the mappack here! (75 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADa3loIKUhzbbVUaFB7f2lUa/Semifinals.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [Bibi - Cutie Panther (Momora EUROBEAT Remix) \[Challenge\]](https://osu.ppy.sh/beatmaps/1600467)
@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (82 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAATLn_JRzPt4WtY1AF4zaYMa/QuarterFinals.rar?dl=0)**
+**[Download the mappack here! (82 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAATLn_JRzPt4WtY1AF4zaYMa/QuarterFinals.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [Scatman John - Scatman (Gekido-) \[It's a Scooby Dooby Melody\]](https://osu.ppy.sh/beatmaps/1574468)
@@ -190,7 +190,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (61 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAOdenGUahjytRNtGp2a7A0a/Ro16.rar?dl=0)**
+**[Download the mappack here! (61 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAOdenGUahjytRNtGp2a7A0a/Ro16.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [fartwad - Stereo Sayan 3D (Valedict) \[hi19hi19's Hard\]](https://osu.ppy.sh/beatmaps/1584871)
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (55 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAC1qfzoU4i38kdf3ckn6YGpa/Ro32.rar?dl=0)**
+**[Download the mappack here! (55 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAC1qfzoU4i38kdf3ckn6YGpa/Ro32.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [Sir.Vixx - Whore (Xay) \[Insane\]](https://osu.ppy.sh/beatmaps/1240925)
@@ -228,7 +228,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (54 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AACbZdjtgK67-I3WSYP0O7F4a/Groups.rar?dl=0)**
+**[Download the mappack here! (54 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AACbZdjtgK67-I3WSYP0O7F4a/Groups.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [Kelly Bailey - Hazardous Environments (Mage) \[Hazard\]](https://osu.ppy.sh/beatmaps/1479480)
@@ -245,7 +245,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Playoffs
 
-**[Download the mappack here! (69 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAFLJyEKc4-51xPvPOMmovCa/Playoffs.rar?dl=0)**
+**[Download the mappack here! (69 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AAAFLJyEKc4-51xPvPOMmovCa/Playoffs.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [Team Salvato - Doki Doki Literature Club! (Main Theme) (arcwinolivirus) \[?Harem?\]](https://osu.ppy.sh/beatmaps/1443731)
@@ -262,7 +262,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (16 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADRF8c39E4U9536q0Xwuecia/Qualifiers.rar?dl=0)**
+**[Download the mappack here! (16 MB)](https://www.dropbox.com/sh/qyhufsknhb0q4l8/AADRF8c39E4U9536q0Xwuecia/Qualifiers.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [Eskmo - Cloudlight (cut) (Ciel) \[Stage 1: Control\]](https://osu.ppy.sh/beatmaps/1546415)
@@ -651,7 +651,7 @@ Sunday, 4 March 2018:
 
 The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTKMykaCgJRUGvMFaV4kdQJTtS4tGMvPun1fHzYbFgxCVD6XLP8ezvo-FNOCCCB_k08i5hzsBqfzWnB/pubhtml "Google Docs").
 
-## Rules
+## Ruleset
 
 ### Tournament organisation
 

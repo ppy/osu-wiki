@@ -10,12 +10,12 @@ tags:
 
 The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) was a 1v1 Indonesian osu!catch tournament hosted by ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). It was the sixth installment of the Catch the Beat Indonesia Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-07-28/2018-08-05 |
-| Group Stage | 2018-08-06/2018-08-16 |
+| Registration phase | 2018-07-28/2018-08-05 |
+| Group stage | 2018-08-06/2018-08-16 |
 | Round of 16 | 2018-08-17/2018-08-19 |
 | Quarterfinals | 2018-08-20/2018-08-26 |
 | Semifinals | 2018-08-27/2018-09-02 |
@@ -70,7 +70,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Finals
 
-**[Download the mappack here! (125 MB)](https://ritsu.s-ul.eu/ll4eK9XS)**
+**[Download the mappack here! (125 MB)](https://ritsu.s-ul.eu/ll4eK9XS "Ritsu")**
 
 - NoMod
   - [Studio EIM - Crescent Moon Island Boss Theme (Emiru) \[Keaghan\]](https://osu.ppy.sh/beatmapsets/817364#fruits/1714006)
@@ -99,7 +99,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Semifinals
 
-**[Download the mappack here! (110 MB)](https://ritsu.s-ul.eu/Si0ewAh0)**
+**[Download the mappack here! (110 MB)](https://ritsu.s-ul.eu/Si0ewAh0 "Ritsu")**
 
 - NoMod
   - [NeLiME - CODE NAME : GAMMA (Hareimu) \[Chaos\]](https://osu.ppy.sh/beatmapsets/815067#fruits/1709451)
@@ -127,7 +127,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Quarterfinals
 
-**[Download the mappack here! (88 MB)](https://ritsu.s-ul.eu/xdic7Hmq)**
+**[Download the mappack here! (88 MB)](https://ritsu.s-ul.eu/xdic7Hmq "Ritsu")**
 
 - NoMod
   - [OISHII - PIZZA PLAZA (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/767009#fruits/1612277)
@@ -151,7 +151,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Round of 16
 
-**[Download the mappack here! (64 MB)](http://ritsu.s-ul.eu/7tEXfmjV)**
+**[Download the mappack here! (64 MB)](http://ritsu.s-ul.eu/7tEXfmjV "Ritsu")**
 
 - NoMod
   - [40mP feat.yuikonnu - Ame to Asphalt (-wwwww) \[Downpour\]](https://osu.ppy.sh/beatmapsets/658705#fruits/1395111)
@@ -172,7 +172,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Group stage
 
-**[Download the mappack here! (79 MB)](http://ritsu.s-ul.eu/ZNs2PEAy)**
+**[Download the mappack here! (79 MB)](http://ritsu.s-ul.eu/ZNs2PEAy "Ritsu")**
 
 - NoMod
   - [SMiLE.dk - GOLDEN SKY (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/749378#fruits/1578433)
@@ -322,7 +322,7 @@ Wednesday, 22 August 2018:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | 0 | **3** | ![][flag_ID] **[Emilia-Satella](https://osu.ppy.sh/users/1096240)** | [#1](https://osu.ppy.sh/community/matches/45312155) |
 
-### Group Stage
+### Group stage
 
 Thursday, 9 August 2018:
 

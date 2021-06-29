@@ -95,7 +95,7 @@ The 2v2 :thonking: Mania Tournament was run by various osu! community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Team |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | La pancit bois |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 argentos y medio |
@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (94 MB)](http://www.mediafire.com/file/2adgf33nba2x39b/2TMT+GF.zip)**
+**[Download the mappack here! (94 MB)](http://www.mediafire.com/file/2adgf33nba2x39b/2TMT+GF.zip "MediaFire")**
 
 - FreeMod
   - [Omoi - Snow Drive (frolica) \[Felicity \[11\]\]](https://osu.ppy.sh/beatmapsets/480013#mania/1024856)
@@ -128,7 +128,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (131 MB)](https://www.mediafire.com/file/ol2o368x5dzz47t/2TMT+Finals.zip)**
+**[Download the mappack here! (131 MB)](https://www.mediafire.com/file/ol2o368x5dzz47t/2TMT+Finals.zip "MediaFire")**
 
 - FreeMod
   - [JINDOU. - Kaisei Joshou Hallelujah (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/710997#mania/1503114)
@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (79 MB)](http://www.mediafire.com/file/un3z1e1y8levdr1/2TMT+SF.zip)**
+**[Download the mappack here! (79 MB)](http://www.mediafire.com/file/un3z1e1y8levdr1/2TMT+SF.zip "MediaFire")**
 
 - FreeMod
   - [Remo Prototype\[CV: Hanamori Yumiri\] - Sendan Life (Hestiaaa) \[Hard-\[Short\]\]](https://osu.ppy.sh/beatmapsets/429911#mania/927549)
@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (58 MB)](https://www.mediafire.com/file/zw687w6ph5thdw2/2TMT+QF.zip)**
+**[Download the mappack here! (58 MB)](https://www.mediafire.com/file/zw687w6ph5thdw2/2TMT+QF.zip "MediaFire")**
 
 - FreeMod
   - [DJ YOSHITAKA - FLOWER (Raveille) \[Air Blossom\]](https://osu.ppy.sh/beatmapsets/869803#mania/1817772)
@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (84 MB)](http://www.mediafire.com/file/biq1sxy1oiu2cdx/2TMT+RO16.zip)**
+**[Download the mappack here! (84 MB)](http://www.mediafire.com/file/biq1sxy1oiu2cdx/2TMT+RO16.zip "MediaFire")**
 
 - FreeMod
   - [carryYellow Claw & Flux Pavilion - Catch Me (andreymc) \[Hard\]](https://osu.ppy.sh/beatmapsets/700716#mania/1483360)
@@ -210,7 +210,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (131 MB)](https://www.mediafire.com/file/ol2o368x5dzz47t/2TMT+Finals.zip)**
+**[Download the mappack here! (131 MB)](https://www.mediafire.com/file/ol2o368x5dzz47t/2TMT+Finals.zip "MediaFire")**
 
 - FreeMod
   - [senya - Koborezu no Negaigoto (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/713607#mania/1513326)
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (29 MB)](http://www.mediafire.com/file/2tqt35qnr3ouru6/2TMT+Qualifiers.zip)**
+**[Download the mappack here! (29 MB)](http://www.mediafire.com/file/2tqt35qnr3ouru6/2TMT+Qualifiers.zip "MediaFire")**
 
 - FreeMod
   - [Woodkid - Run Boy Run (RemFangirl) \[Stage 1 : Getaway\]](https://osu.ppy.sh/beatmapsets/873415#mania/1825724)

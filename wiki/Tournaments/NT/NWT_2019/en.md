@@ -1,6 +1,5 @@
 ---
 tags:
-- nik's Winter Tour 2019
 - NWT 2019
 - NWT2019
 ---
@@ -28,7 +27,7 @@ The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide 1v1 double-elimi
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months osu!supporter tag, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
@@ -58,8 +57,6 @@ The nik's Winter Tour 2019 was run by various community members.
 - [NWT 2019 Challonge brackets](https://challonge.com/NWT2019 "Challonge")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXkpCBB_gcPcEEOq93pmLHiOTUf_3n1LYju7NbGF61h5QK19CTuuP2BFBdaOPL-d2UWb06i6iD-wD/pubhtml "Google Docs")**
 
----
-
 ## Participants
 
 | Seed | Members |
@@ -68,8 +65,6 @@ The nik's Winter Tour 2019 was run by various community members.
 | High | ![][flag_IT] [Proioxis](https://osu.ppy.sh/users/9503564), ![][flag_UA] [Zertus](https://osu.ppy.sh/users/5875469), ![][flag_KR] [pseudophilia](https://osu.ppy.sh/users/6192650), ![][flag_KR] [woobin5004](https://osu.ppy.sh/users/1755215), ![][flag_US] [San Diego](https://osu.ppy.sh/users/3993153) ,![][flag_PL] [lokser](https://osu.ppy.sh/users/4675441), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405) |
 | Low | ![][flag_US] [F1shbowl](https://osu.ppy.sh/users/10129737), ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581), ![][flag_US] [lahwraN](https://osu.ppy.sh/users/6995880), ![][flag_CA] [Xeli](https://osu.ppy.sh/users/4947796), ![][flag_AT] [Snajper](https://osu.ppy.sh/users/4211027), ![][flag_US] [themaster156](https://osu.ppy.sh/users/3845254), ![][flag_PL] [bart6003](https://osu.ppy.sh/users/2100107), ![][flag_AU] [Pictures](https://osu.ppy.sh/users/4578623) |
 | Unseeded | ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_DE] [Kawaii Kaneki](https://osu.ppy.sh/users/3344333), ![][flag_CA] [deflateddolphin](https://osu.ppy.sh/users/10184558), ![][flag_NO] [Defectum](https://osu.ppy.sh/users/8631719), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_RU] [Nentse](https://osu.ppy.sh/users/8559485), ![][flag_FI] [Roba](https://osu.ppy.sh/users/5210561), ![][flag_VN] [Mayukaki](https://osu.ppy.sh/users/1487263) |
-
----
 
 ## Podium
 
@@ -81,13 +76,12 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
 
----
 
 ## Mappools
 
 ### Finals
 
-**[Download the map pack here! (123 MB)](https://www.mediafire.com/file/9835f3t5z8xa3a0/Grand+Finals+Pool.zip)**
+**[Download the map pack here! (123 MB)](https://www.mediafire.com/file/9835f3t5z8xa3a0/Grand+Finals+Pool.zip "MediaFire")**
 
 - NoMod
   - [yuikonnu - Kakushigoto (AtHeoN) \[Asaiga's Extra\]](https://osu.ppy.sh/beatmapsets/436177#osu/1698115)
@@ -116,7 +110,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the map pack here! (103 MB)](https://www.mediafire.com/file/b1jjruemesunoxe/Semi+Finals+Pool.zip)**
+**[Download the map pack here! (103 MB)](https://www.mediafire.com/file/b1jjruemesunoxe/Semi+Finals+Pool.zip "MediaFire")**
 
 - NoMod
   - [Feryquitous feat. Aitsuki Nakuru - Kairikou (Ryuusei Aika) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/740862#osu/1562893)
@@ -142,7 +136,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the map pack here! (115 MB)](https://www.mediafire.com/file/8jip2t4vltq7qht/QF+Pool.zip)**
+**[Download the map pack here! (115 MB)](https://www.mediafire.com/file/8jip2t4vltq7qht/QF+Pool.zip "MediaFire")**
 
 - NoMod
   - [Asakura Momo - Ashita wa Kimi to. (domSaur) \[Tomorrow.\]](https://osu.ppy.sh/beatmapsets/748013#osu/1575968)
@@ -168,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the map pack here! (119 MB)](https://www.mediafire.com/file/6par0x0hr7rerws/RO16+Pool.zip)**
+**[Download the map pack here! (119 MB)](https://www.mediafire.com/file/6par0x0hr7rerws/RO16+Pool.zip "MediaFire")**
 
 - NoMod
   - [Manami Numakura - Sakebe (Mishima Yurara) \[Mikii's Extra\]](https://osu.ppy.sh/beatmapsets/550344#osu/1451747)
@@ -194,7 +188,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the map pack here! (92 MB)](https://mega.nz/#!ejByjCBb!rIoNtWLzLrRlDoeBiBBV5xwqXq5PvnPiN1DbRAhj-bA)**
+**[Download the map pack here! (92 MB)](https://mega.nz/#!ejByjCBb!rIoNtWLzLrRlDoeBiBBV5xwqXq5PvnPiN1DbRAhj-bA "MEGA")**
 
 - NoMod
   - [The Winking Owl - Bloom (Shmiklak) \[Lokidoki's Another\]](https://osu.ppy.sh/beatmapsets/602408#osu/1321786)
@@ -217,8 +211,6 @@ This competition has come to an end and resulted in the following podium:
   - [Kurokotei - Valkyrie Attack (Shyotamaze) \[Insane\]](https://osu.ppy.sh/beatmapsets/643961#osu/1364957)
 - Tiebreaker
   - **[Dancing Dolls - monochrome(Asterisk Makina Remix) (monstrata) \[Scythe\]](https://osu.ppy.sh/beatmapsets/349445#osu/770576)**
-
----
 
 ## Match results
 

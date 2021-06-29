@@ -174,43 +174,41 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [Stereo](https://osu.ppy.sh/users/1499137) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [ededed028](https://osu.ppy.sh/users/3932796), [zonelouise](https://osu.ppy.sh/users/1492995) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [Stereo](https://osu.ppy.sh/users/1499137) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [ededed028](https://osu.ppy.sh/users/3932796), ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) |
 
 ### osu!taiko division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [Pochacco](https://osu.ppy.sh/users/2927742) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [Rimazii](https://osu.ppy.sh/users/3831514) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
 
 ### osu!catch division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [Crowley](https://osu.ppy.sh/users/6341006) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [- Kielzu -](https://osu.ppy.sh/users/6221114) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [Crowley](https://osu.ppy.sh/users/6341006) |
 
 ### osu!mania 4K division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [arge-](https://osu.ppy.sh/users/9919550) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [Baltz](https://osu.ppy.sh/users/6083463) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [Shiyui-](https://osu.ppy.sh/users/9374607) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [Baltz](https://osu.ppy.sh/users/6083463) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607) |
 
 ### osu!mania 7K division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [Nikana](https://osu.ppy.sh/users/4345491) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [fer789](https://osu.ppy.sh/users/8901267) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [Cielo Day](https://osu.ppy.sh/users/2722489) |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [Nikana](https://osu.ppy.sh/users/4345491) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [fer789](https://osu.ppy.sh/users/8901267) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [Cielo Day](https://osu.ppy.sh/users/2722489) |
 
 ## Mappools
 
@@ -218,7 +216,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (121 MB)](https://drive.google.com/open?id=1vI1HdWM6Gl7GNlhARbtC5ALaBHMD0Lu6)**
+**[Download the mappack here! (121 MB)](https://drive.google.com/open?id=1vI1HdWM6Gl7GNlhARbtC5ALaBHMD0Lu6 "Google Drive")**
 
 - NoMod
   - [MAZARE - Mazare Party (IntellectualBoy) \[Walao's Party\]](https://osu.ppy.sh/beatmapsets/667868)
@@ -245,7 +243,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (91 MB)](https://drive.google.com/open?id=1otv9whXNMNBbw5sCOT1zyom8etsp58Ox)**
+**[Download the mappack here! (91 MB)](https://drive.google.com/open?id=1otv9whXNMNBbw5sCOT1zyom8etsp58Ox "Google Drive")**
 
 - NoMod
   - [Shikata Akiko - EXEC\_PAJA/.\#Misya extracting. (Mir) \[Purification\]](https://osu.ppy.sh/beatmapsets/690321)
@@ -272,7 +270,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (97 MB)](https://drive.google.com/open?id=1bwlllSAmVHeW3ckTRnTaKn01d8kvTPrO)**
+**[Download the mappack here! (97 MB)](https://drive.google.com/open?id=1bwlllSAmVHeW3ckTRnTaKn01d8kvTPrO "Google Drive")**
 
 - NoMod
   - [CLIFF EDGE - The Distance feat. Nakamura Maiko (Rakuen) \[Insane Collab\]](https://osu.ppy.sh/beatmapsets/241589)
@@ -299,7 +297,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (131 MB)](https://drive.google.com/open?id=1V5_ajukhhvRANY1wQh7HdShJxYJnPbTb)**
+**[Download the mappack here! (131 MB)](https://drive.google.com/open?id=1V5_ajukhhvRANY1wQh7HdShJxYJnPbTb "Google Drive")**
 
 - NoMod
   - [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (Yohanes) \[Indo-Russia Bilateral\]](https://osu.ppy.sh/beatmapsets/849946)
@@ -326,7 +324,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the mappack here! (93 MB)](https://drive.google.com/open?id=1NM21bzcwRJkT1GYg7H9oHEDnwqxGpCSl)**
+**[Download the mappack here! (93 MB)](https://drive.google.com/open?id=1NM21bzcwRJkT1GYg7H9oHEDnwqxGpCSl "Google Drive")**
 
 - NoMod
   - [Function Phantom - Euclid (byfar) \[toybot's Insane\]](https://osu.ppy.sh/beatmapsets/419614)
@@ -353,7 +351,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (36 MB)](https://drive.google.com/open?id=1J318VAbDMZwGm_0GWy0Eygny1OMWvTH1)**
+**[Download the mappack here! (36 MB)](https://drive.google.com/open?id=1J318VAbDMZwGm_0GWy0Eygny1OMWvTH1 "Google Drive")**
 
 - NoMod
   - [Culprate & Skorpion - Jester (NeilPerry) \[LCFC's Insane\]](https://osu.ppy.sh/beatmapsets/848259)
@@ -369,7 +367,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 2
 
-**[Download the mappack here! (101 MB)](https://drive.google.com/open?id=1N2v4hJu8FWC2QYQiB6xn1rv_axhTAAvr)**
+**[Download the mappack here! (101 MB)](https://drive.google.com/open?id=1N2v4hJu8FWC2QYQiB6xn1rv_axhTAAvr "Google Drive")**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/100049)
@@ -396,7 +394,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 1
 
-**[Download the mappack here! (89 MB)](https://drive.google.com/open?id=1wguHouQylFoJeRuwnn7tJ9IecuheGK6z)**
+**[Download the mappack here! (89 MB)](https://drive.google.com/open?id=1wguHouQylFoJeRuwnn7tJ9IecuheGK6z "Google Drive")**
 
 - NoMod
   - [wowaka - World's End Dancehall (ROCKETMAN Remix) (Mira-san) \[Stefan's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/88911)
@@ -423,7 +421,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round 2
 
-**[Download the mappack here! (77 MB)](https://drive.google.com/open?id=130Wn7qKmlpPhVPbAcO0MQ76q5qPx1YYT)**
+**[Download the mappack here! (77 MB)](https://drive.google.com/open?id=130Wn7qKmlpPhVPbAcO0MQ76q5qPx1YYT "Google Drive")**
 
 - NoMod
   - [TAG underground - POSSESSION (Apricot) \[Taiko\]](https://osu.ppy.sh/beatmapsets/48675)
@@ -450,7 +448,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round 1
 
-**[Download the mappack here! (71 MB)](https://drive.google.com/open?id=1-fuc_xa9UchSMksyppyMGrv6SmaxBlxR)**
+**[Download the mappack here! (71 MB)](https://drive.google.com/open?id=1-fuc_xa9UchSMksyppyMGrv6SmaxBlxR "Google Drive")**
 
 - NoMod
   - [DJ YOSHITAKA - FLOWER (Lost The Lights) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/339001)
@@ -479,7 +477,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 2
 
-**[Download the mappack here! (122 MB)](https://drive.google.com/open?id=1S3oazDqe6yaoKzcHy4ALGl9s2spC5-mr)**
+**[Download the mappack here! (122 MB)](https://drive.google.com/open?id=1S3oazDqe6yaoKzcHy4ALGl9s2spC5-mr "Google Drive")**
 
 - NoMod
   - [BlackY vs. Yooh - HAVOX (Callionet) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/474649)
@@ -505,7 +503,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 1
 
-**[Download the mappack here! (76 MB)](https://drive.google.com/open?id=1NuGS3wATjWgxee1DzSYwLc4pqH_XwOfJ)**
+**[Download the mappack here! (76 MB)](https://drive.google.com/open?id=1NuGS3wATjWgxee1DzSYwLc4pqH_XwOfJ "Google Drive")**
 
 - NoMod
   - [Nekomata Master - far east nightbird (Razor Sharp) \[Far east overdose\]](https://osu.ppy.sh/beatmapsets/715026)
@@ -531,7 +529,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round 3
 
-**[Download the mappack here! (84 MB)](https://drive.google.com/open?id=1EZZPnPYI1F8I-vp_vYyGqsf9wu-m4c5K)**
+**[Download the mappack here! (84 MB)](https://drive.google.com/open?id=1EZZPnPYI1F8I-vp_vYyGqsf9wu-m4c5K "Google Drive")**
 
 - NoMod
   - [Hyadain - Hyadain no Joujou Yuujou (Deif) \[Overdose\]](https://osu.ppy.sh/beatmapsets/215902)
@@ -557,7 +555,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round 2
 
-**[Download the mappack here! (100 MB)](https://drive.google.com/open?id=1nfKYaCaCMDHOkcx45aD7Zbfq5Kuht0Y3)**
+**[Download the mappack here! (100 MB)](https://drive.google.com/open?id=1nfKYaCaCMDHOkcx45aD7Zbfq5Kuht0Y3 "Google Drive")**
 
 - NoMod
   - [\*namirin - closing eyes (pishifat) \[Expert\]](https://osu.ppy.sh/beatmapsets/669437)
@@ -583,7 +581,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round 1
 
-**[Download the mappack here! (71 MB)](https://drive.google.com/open?id=1cAF4v5ol0xxoRzEWMZPOi07HpBgGoreD)**
+**[Download the mappack here! (71 MB)](https://drive.google.com/open?id=1cAF4v5ol0xxoRzEWMZPOi07HpBgGoreD "Google Drive")**
 
 - NoMod
   - [ChouCho - Yasashisa no Riyuu (Celerih) \[Rain\]](https://osu.ppy.sh/beatmapsets/685391)
@@ -609,7 +607,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (23 MB)](https://drive.google.com/open?id=1baJYf1td7P7OInF8EXzl70yrAmDqOgTI)**
+**[Download the mappack here! (23 MB)](https://drive.google.com/open?id=1baJYf1td7P7OInF8EXzl70yrAmDqOgTI "Google Drive")**
 
 - NoMod
   - [Y&Co. - Sweet Rain feat. Karin (alienflybot) \[Craving\]](https://osu.ppy.sh/beatmapsets/602697)
@@ -625,7 +623,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 2
 
-**[Download the mappack here! (99 MB)](https://drive.google.com/open?id=1khq39Z_Nr9rmklsCJ4LY5CtUpqYmKiuL)**
+**[Download the mappack here! (99 MB)](https://drive.google.com/open?id=1khq39Z_Nr9rmklsCJ4LY5CtUpqYmKiuL "Google Drive")**
 
 - FreeMod
   - [DJ Sharpnel - Future Dominators (- Bad Apple -) \[Dead End\]](https://osu.ppy.sh/beatmapsets/629384)
@@ -648,7 +646,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 1
 
-**[Download the mappack here! (95 MB)](https://drive.google.com/open?id=1YlKCS62i527vhPOwZHsxrlaedm9AAJkC)**
+**[Download the mappack here! (95 MB)](https://drive.google.com/open?id=1YlKCS62i527vhPOwZHsxrlaedm9AAJkC "Google Drive")**
 
 - FreeMod
   - [Asaka - Eternal Star (Raveille) \[Yakusoku No Eien\]](https://osu.ppy.sh/beatmapsets/841478)
@@ -671,7 +669,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (85 MB)](https://drive.google.com/open?id=1wBTETYOJqH5Ptje_vL8QCfSoLfdvvk7_)**
+**[Download the mappack here! (85 MB)](https://drive.google.com/open?id=1wBTETYOJqH5Ptje_vL8QCfSoLfdvvk7_ "Google Drive")**
 
 - FreeMod
   - [M2U - Mare Maris (Raveille) \[For The Brave\]](https://osu.ppy.sh/beatmapsets/786297)
@@ -692,7 +690,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (73 MB)](https://drive.google.com/open?id=17EbLVZTSSltEb5YXfFjL40jWNOCBPn1l)**
+**[Download the mappack here! (73 MB)](https://drive.google.com/open?id=17EbLVZTSSltEb5YXfFjL40jWNOCBPn1l "Google Drive")**
 
 - FreeMod
   - [Kannamix - Pandora feat. NoneLikeJoshua + Roniit (Halogen-) \[Demise\]](https://osu.ppy.sh/beatmapsets/901155)
@@ -713,7 +711,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (57 MB)](https://drive.google.com/open?id=1VqjJbqUJmnq4eS7vlHVQ0y36kMC77v5v)**
+**[Download the mappack here! (57 MB)](https://drive.google.com/open?id=1VqjJbqUJmnq4eS7vlHVQ0y36kMC77v5v "Google Drive")**
 
 - FreeMod
   - [NISH - Space Time (\_underjoy) \[4K Hyper\]](https://osu.ppy.sh/beatmapsets/409326)
@@ -732,7 +730,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (13 MB)](https://drive.google.com/open?id=1nUiNLqxaw1CO8N_wKHdqGdn8ewzm9QKM)**
+**[Download the mappack here! (13 MB)](https://drive.google.com/open?id=1nUiNLqxaw1CO8N_wKHdqGdn8ewzm9QKM "Google Drive")**
 
 - FreeMod
   - [DKVPZ - Focus (Lenfried-) \[Blur\]](https://osu.ppy.sh/beatmapsets/869771)
@@ -744,7 +742,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 2
 
-**[Download the mappack here! (85 MB)](https://drive.google.com/open?id=1dTJq_cLFUFupR_PksJmOe8GO8rzKfID8)**
+**[Download the mappack here! (85 MB)](https://drive.google.com/open?id=1dTJq_cLFUFupR_PksJmOe8GO8rzKfID8 "Google Drive")**
 
 - FreeMod
   - [kors k - Ground Shake (Aqo) \[Aqother\]](https://osu.ppy.sh/beatmapsets/206614)
@@ -767,7 +765,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals week 1
 
-**[Download the mappack here! (115 MB)](https://drive.google.com/open?id=1kJJlPbRyuX8WnS6rhW224jopZAsXrBPy)**
+**[Download the mappack here! (115 MB)](https://drive.google.com/open?id=1kJJlPbRyuX8WnS6rhW224jopZAsXrBPy "Google Drive")**
 
 - FreeMod
   - [xi - Fiat Lux (Shinora-) \[Extra\]](https://osu.ppy.sh/beatmapsets/566955)
@@ -790,7 +788,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round 3
 
-**[Download the mappack here! (79 MB)](https://drive.google.com/open?id=1TEyK54w4J3PFOTixsE_L7cY-WXsQOeoC)**
+**[Download the mappack here! (79 MB)](https://drive.google.com/open?id=1TEyK54w4J3PFOTixsE_L7cY-WXsQOeoC "Google Drive")**
 
 - FreeMod
   - [aaaa - Machi (Kim\_GodSSI) \[Piano\]](https://osu.ppy.sh/beatmapsets/675949)
@@ -811,7 +809,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round 2
 
-**[Download the mappack here! (96 MB)](https://drive.google.com/open?id=1oVLOvLWxkuumoDepBimA1qR8afNyNSnE)**
+**[Download the mappack here! (96 MB)](https://drive.google.com/open?id=1oVLOvLWxkuumoDepBimA1qR8afNyNSnE "Google Drive")**
 
 - FreeMod
   - [Alan Walker - All Falls Down (feat. Noah Cyrus with Digital Farm Animals) (Nysrogh) \[7K Insane\]](https://osu.ppy.sh/beatmapsets/698707)
@@ -832,7 +830,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round 1
 
-**[Download the mappack here! (55 MB)](https://drive.google.com/open?id=1ssqlFGFTVeh3pZ3ww7_E4qM1EGMZwXyX)**
+**[Download the mappack here! (55 MB)](https://drive.google.com/open?id=1ssqlFGFTVeh3pZ3ww7_E4qM1EGMZwXyX "Google Drive")**
 
 - FreeMod
   - [cosMo@BousouP - For UltraPlayers (AncuL) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/733048)
@@ -851,7 +849,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (11 MB)](https://drive.google.com/open?id=1jDLmUEL5J1A7fdSAH3dxBE6Ob2su_oWW)**
+**[Download the mappack here! (11 MB)](https://drive.google.com/open?id=1jDLmUEL5J1A7fdSAH3dxBE6Ob2su_oWW "Google Drive")**
 
 - FreeMod
   - [Hyadain - Enemy Apperance! (MapleSyrup-) \[Anticipation!\]](https://osu.ppy.sh/beatmapsets/873376)

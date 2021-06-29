@@ -81,7 +81,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (104 MB)](https://mega.nz/#!TCZyASRJ!RS23vGR9T7imNyP8a6Sccu_mt5Ix6r7bxNkbxLVcFtM)**
+**[Download the mappack here! (104 MB)](https://mega.nz/#!TCZyASRJ!RS23vGR9T7imNyP8a6Sccu_mt5Ix6r7bxNkbxLVcFtM "MEGA")**
 
 - NoMod
   - [Sleeping With Sirens - If You Can't Hang (Nardoxyribonucleic) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/409025#taiko/888019)
@@ -111,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (92 MB)](https://mega.nz/#!neAjGKjR!7azaacZ6nG27A3E2jcPMV78JsJ2BSyQE_g1gCfFoNko)**
+**[Download the mappack here! (92 MB)](https://mega.nz/#!neAjGKjR!7azaacZ6nG27A3E2jcPMV78JsJ2BSyQE_g1gCfFoNko "MEGA")**
 
 - NoMod
   - [Yuyoyuppe - Reon (Makar) \[Makar's Muzukashii\]](https://osu.ppy.sh/beatmapsets/55980#taiko/244118)
@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (80 MB)](https://mega.nz/#!nOpwEQIL!mFSWpKyuJkYqyj63q4rmLyTE47cUZJnFPOt4U3gsTXs)**
+**[Download the mappack here! (80 MB)](https://mega.nz/#!nOpwEQIL!mFSWpKyuJkYqyj63q4rmLyTE47cUZJnFPOt4U3gsTXs "MEGA")**
 
 - NoMod
   - [MuryokuP - hypnoSpirA (Makar) \[Makar's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/57908#taiko/180664)
@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (66 MB)](https://mega.nz/#!yawFFQgY!4E8hqF2Jml4TeyxXIFUqGAM0cWK1aunVtjg8SjCBGtQ)**
+**[Download the mappack here! (66 MB)](https://mega.nz/#!yawFFQgY!4E8hqF2Jml4TeyxXIFUqGAM0cWK1aunVtjg8SjCBGtQ "MEGA")**
 
 - NoMod
   - [Neru - Lost One no Goukoku (taiko\_maniac1811) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/144356#taiko/358583)
@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (56 MB)](https://mega.nz/#!jWhXBKRB!sz4WbuH3dWTAHvnBTaEhuTRvgHqDdEvU1S8gcimu1I8)**
+**[Download the mappack here! (56 MB)](https://mega.nz/#!jWhXBKRB!sz4WbuH3dWTAHvnBTaEhuTRvgHqDdEvU1S8gcimu1I8 "MEGA")**
 
 - NoMod
   - [Camellia - Kono Hoshi de... (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/773105#taiko/1625127)
@@ -219,7 +219,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (56 MB)](https://mega.nz/#!jWhXBKRB!sz4WbuH3dWTAHvnBTaEhuTRvgHqDdEvU1S8gcimu1I8)**
+**[Download the mappack here! (56 MB)](https://mega.nz/#!jWhXBKRB!sz4WbuH3dWTAHvnBTaEhuTRvgHqDdEvU1S8gcimu1I8 "MEGA")**
 
 - NoMod
   - [Nakanojojo - Bittersweet (feat. Kuishinboakachan a.k.a Kiato) (Nardoxyribonucleic) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/847323#taiko/1772048)
@@ -241,9 +241,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Nightwish - She Is My Sin (Nardoxyribonucleic) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/529780#taiko/1125980)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
-**[Download the mappack here! (38 MB)](https://mega.nz/#!Ga5xES7C!cIYx4loj_absIdwI7f97bI8K39XytTbBXsu9CdJ08B8)**
+**[Download the mappack here! (38 MB)](https://mega.nz/#!Ga5xES7C!cIYx4loj_absIdwI7f97bI8K39XytTbBXsu9CdJ08B8 "MEGA")**
 
 - NoMod
   - [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Kantan\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506474)
@@ -255,7 +255,7 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [Sawamura Spencer Eriri (CV: Oonishi Saori) - Blooming Lily (Volta) \[Kantan\]](https://osu.ppy.sh/beatmapsets/718081#taiko/1532923)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 

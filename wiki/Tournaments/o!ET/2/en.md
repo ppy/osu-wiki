@@ -1,6 +1,5 @@
 ---
 tags:
-- osu! European Tournament 2
 - o!ET 2
 - o!ET2
 ---
@@ -172,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Top Bracket
 
-**[Download the mappack here! (133 MB)](https://mega.nz/#!yjpD0arI!8cNRhPQsSV6WBys21CwWkSnzik5NhzcOTc0zYJd3CA0)**
+**[Download the mappack here! (133 MB)](https://mega.nz/#!yjpD0arI!8cNRhPQsSV6WBys21CwWkSnzik5NhzcOTc0zYJd3CA0 "MEGA")**
 
 - NoMod
   - [Eve - Gekka*Midare Botan (Meg, Roll\_Pan) \[Meg&Roll\_Pan's E-Xtra\]](https://osu.ppy.sh/beatmapsets/530685#osu/1124857)
@@ -202,7 +201,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Middle Bracket
 
-**[Download the mappack here! (164 MB)](https://mega.nz/#!mq4DWIAA!B7vNyEt19iiZitzNCCBzRdEfM7CUnUR6FU_fcDJoqtI)**
+**[Download the mappack here! (164 MB)](https://mega.nz/#!mq4DWIAA!B7vNyEt19iiZitzNCCBzRdEfM7CUnUR6FU_fcDJoqtI "MEGA")**
 
 - NoMod
   - [Mimori Suzuko - Light for Knight (\_kotachi\_) \[Destiny\]](https://osu.ppy.sh/beatmapsets/801337#osu/1682101)
@@ -232,7 +231,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Low Bracket
 
-**[Download the mappack here! (160 MB)](https://mega.nz/#!jugHXA4I!u2nUNxbk268jkIRhnv0rjzORFn7oMlR1jx0Gq8O5WrQ)**
+**[Download the mappack here! (160 MB)](https://mega.nz/#!jugHXA4I!u2nUNxbk268jkIRhnv0rjzORFn7oMlR1jx0Gq8O5WrQ "MEGA")**
 
 - NoMod
   - [Dark PHOENiX - Plain Asia (Meftly) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/673625#osu/1425563)
@@ -264,7 +263,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Top Bracket
 
-**[Download the mappack here! (130 MB)](https://mega.nz/#!q2h0jYzB!Y19A5-fRezEaAxBvbsbjCRh5kQwCcSMtwBxQjbAmP88)**
+**[Download the mappack here! (130 MB)](https://mega.nz/#!q2h0jYzB!Y19A5-fRezEaAxBvbsbjCRh5kQwCcSMtwBxQjbAmP88 "MEGA")**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (caren\_sk) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
@@ -294,7 +293,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Middle Bracket
 
-**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I)**
+**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I "MEGA")**
 
 - NoMod
   - [Nakagawa Shouko - happily ever after (smallboat) \[Giga Drill Break\]](https://osu.ppy.sh/beatmapsets/253823#osu/582517)
@@ -324,7 +323,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Low Bracket
 
-**[Download the mappack here! (131 MB)](https://mega.nz/#!PmxigQrD!qhNUXASHuIRqODrDsuQ0IsFGrJ9Qbg4CzNBT6zRU29Q)**
+**[Download the mappack here! (131 MB)](https://mega.nz/#!PmxigQrD!qhNUXASHuIRqODrDsuQ0IsFGrJ9Qbg4CzNBT6zRU29Q "MEGA")**
 
 - NoMod
   - [yuikonnu - Ai no Scenario (Guy) \[Extra\]](https://osu.ppy.sh/beatmapsets/282375#osu/638551)
@@ -356,7 +355,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Top Bracket
 
-**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I)**
+**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I "MEGA")**
 
 - NoMod
   - [Manami Numakura - Climber's High! (Zero\_\_wind) \[Wind\]](https://osu.ppy.sh/beatmapsets/574214#osu/1216208)
@@ -386,7 +385,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Middle Bracket
 
-**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I)**
+**[Download the mappack here! (120 MB)](https://mega.nz/#!Xqw30SQS!dTaGiznOi1E3yNOqJfm448vCnd-zW_fRNGX1fOfxY8I "MEGA")**
 
 - NoMod
   - [Dreamcatcher - YOU AND I (Natsu) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/779107#osu/1657467)
@@ -416,7 +415,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Low Bracket
 
-**[Download the mappack here! (116 MB)](https://mega.nz/#!L3olVCLQ!6U8klI6xE-zOhYsWVNbi9aGyPhgVwfm61zEp8_1Zt4M)**
+**[Download the mappack here! (116 MB)](https://mega.nz/#!L3olVCLQ!6U8klI6xE-zOhYsWVNbi9aGyPhgVwfm61zEp8_1Zt4M "MEGA")**
 
 - NoMod
   - [nano feat. MY FIRST STORY - SAVIOR OF SONG (KantoKun) \[Insane\]](https://osu.ppy.sh/beatmapsets/150491#osu/371325)
@@ -448,7 +447,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Top Bracket
 
-**[Download the mappack here! (133 MB)](https://www.mediafire.com/file/w4dcko76mk4lqf6/Groups+Stage+%28TB%29.rar)**
+**[Download the mappack here! (133 MB)](https://www.mediafire.com/file/w4dcko76mk4lqf6/Groups+Stage+%28TB%29.rar "MediaFire")**
 
 - NoMod
   - [EGOIST - Fallen (jonathanlfj) \[Extra\]](https://osu.ppy.sh/beatmapsets/232052#osu/538930)
@@ -474,7 +473,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Middle Bracket
 
-**[Download the mappack here! (135 MB)](https://www.mediafire.com/file/5qlu718dlwl6t4n/Groups+Stage+%28MB%29.rar)**
+**[Download the mappack here! (135 MB)](https://www.mediafire.com/file/5qlu718dlwl6t4n/Groups+Stage+%28MB%29.rar "MediaFire")**
 
 - NoMod
   - [iojjj - Akui to Ai no Sukima no Puzzle (Okoratu) \[Diplomatic Immunity\]](https://osu.ppy.sh/beatmapsets/147430#osu/517595)
@@ -500,7 +499,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Low Bracket
 
-**[Download the mappack here! (141 MB)](https://www.mediafire.com/file/51j2truczan8qkz/Groups+Stage+%28LB%29.rar)**
+**[Download the mappack here! (141 MB)](https://www.mediafire.com/file/51j2truczan8qkz/Groups+Stage+%28LB%29.rar "MediaFire")**
 
 - NoMod
   - [Skrillex & Diplo - To U ft AlunaGeorge (Suzuki\_1112) \[1112's Insane\]](https://osu.ppy.sh/beatmapsets/723626#osu/1527725)
@@ -524,11 +523,11 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[petit milady - Himawari no Sakamichi (Gust) \[Sunflower\]](https://osu.ppy.sh/beatmapsets/744299#osu/1569368)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
 #### Top Bracket
 
-**[Download the mappack here! (29 MB)](https://puu.sh/CDLql/19949012e2.rar)**
+**[Download the mappack here! (29 MB)](https://puu.sh/CDLql/19949012e2.rar "puush")**
 
 - NoMod
   - [dark cat - BUBBLE TEA (feat. juu & cinders) (Hobbes2) \[Fluttering\]](https://osu.ppy.sh/beatmapsets/769917#osu/1618800)
@@ -542,7 +541,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Middle Bracket
 
-**[Download the mappack here! (36 MB)](https://puu.sh/CDLqv/eb30a66e55.rar)**
+**[Download the mappack here! (36 MB)](https://puu.sh/CDLqv/eb30a66e55.rar "puush")**
 
 - NoMod
   - [momori - Togameru Kage (Kalibe) \[Sorrow\]](https://osu.ppy.sh/beatmapsets/866301#osu/1811243)
@@ -556,7 +555,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Low Bracket
 
-**[Download the mappack here! (26 MB)](https://puu.sh/CDLqz/c13d869836.rar)**
+**[Download the mappack here! (26 MB)](https://puu.sh/CDLqz/c13d869836.rar "puush")**
 
 - NoMod
   - [Shiena Nishizawa - FUBUKI (eINess) \[eINess' Insane\]](https://osu.ppy.sh/beatmapsets/288950#osu/662093)
@@ -568,7 +567,7 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [zts - resurrectedreplayer (EvilElvis) \[Difficult\]](https://osu.ppy.sh/beatmapsets/304672#osu/696177)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 

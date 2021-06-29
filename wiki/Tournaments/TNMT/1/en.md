@@ -26,7 +26,7 @@ The **:thonking: Newbie mania Tournament** (***TNMT***) was a 1v1 osu!mania 4K t
 
 ## Prize
 
-All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6679329)**.
+All prizes were sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6679329)**.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -230,7 +230,7 @@ All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6
 | HD_AdreNaline | 1 | **5** | **palmEuEi** |
 | EDTA233 | 2 | **5** | **mewmew** |
 
-### Group Stage
+### Group stage
 
 | Group A | Score |  | Group B | Score |  | Group C | Score |  | Group D | Score |
 | --: | :-: | :-: | --: | :-: | :-: | --: | :-: | :-: | --: | :-: |

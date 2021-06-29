@@ -62,8 +62,6 @@ The nik's Spring/Summer Tour 2019 was run by various community members.
   - **[Tier 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vQPphrCZiOVJskzqs8611I5yqeeq_JN91UIcAeKJI5xjEihvEV9IJn8J1Kf9QBO1K1pyFvOkfYV3MQ2/pubhtml "Google Docs")**
   - **[Tier 2](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0rK_52GXfaYEiQs9DwR67l2PUV78x6MCyGkEQ4WxjFrMCe59Ox1jWDVxOE39Msl_YjMdQlOpqRfkC/pubhtml "Google Docs")**
 
----
-
 ## Participants
 
 ### Tier 1
@@ -112,8 +110,6 @@ The nik's Spring/Summer Tour 2019 was run by various community members.
 | **G** | ![][flag_PL] [bart6003](https://osu.ppy.sh/users/2100107) | ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284) | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) | ![][flag_GB] [4Circ](https://osu.ppy.sh/users/2161823) |
 | **H** | ![][flag_RU] [\_Suzuha](https://osu.ppy.sh/users/8445602) | ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166) | ![][flag_CA] [Saltystick](https://osu.ppy.sh/users/2165408) | ![][flag_RU] [Ontoryran](https://osu.ppy.sh/users/5182623) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -134,8 +130,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
 
----
-
 ## Mappools
 
 ### Finals
@@ -144,7 +138,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the map pack here! (139 MB)](https://www.mediafire.com/file/u5d66t534ws3zh0/Grand+Finals+Pool+Tier+1.zip)**
+**[Download the map pack here! (139 MB)](https://www.mediafire.com/file/u5d66t534ws3zh0/Grand+Finals+Pool+Tier+1.zip "MediaFire")**
 
 - NoMod
   - [Yousei Teikoku - Hades: The rise (Delis) \[Hardest\]](https://osu.ppy.sh/beatmapsets/662526#osu/1402392)
@@ -175,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the map pack here! (141 MB)](http://www.mediafire.com/file/k05rh4m5rx0reol/Grand+Finals+pool+Tier+2.zip)**
+**[Download the map pack here! (141 MB)](http://www.mediafire.com/file/k05rh4m5rx0reol/Grand+Finals+pool+Tier+2.zip "MediaFire")**
 
 - NoMod
   - [Feryquitous - Strahv (Rumia-) \[Kotori's Resolution\]](https://osu.ppy.sh/beatmapsets/634143#osu/1345663)
@@ -206,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-**[Download the map pack here! (97 MB)](https://www.mediafire.com/file/regog7hnrzrvhdg/Semi+Finals+Pool+Tier+1.zip)**
+**[Download the map pack here! (97 MB)](https://www.mediafire.com/file/regog7hnrzrvhdg/Semi+Finals+Pool+Tier+1.zip "MediaFire")**
 
 - NoMod
   - [ABSOLUTE CASTAWAY - Shinsou Shintouron (Lasse) \[Petal\]](https://osu.ppy.sh/beatmapsets/827743#osu/1734403)
@@ -232,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the map pack here! (99 MB)](https://www.mediafire.com/file/705ffj1dehcet3j/Semi+Finals+Pool+Tier+2.zip)**
+**[Download the map pack here! (99 MB)](https://www.mediafire.com/file/705ffj1dehcet3j/Semi+Finals+Pool+Tier+2.zip "MediaFire")**
 
 - NoMod
   - [\*namirin - Senaka Awase no Kuukyo (with Kakichoco) (jonathanlfj) \[Extra\]](https://osu.ppy.sh/beatmapsets/716249#osu/1513315)
@@ -260,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-**[Download the map pack here! (105 MB)](http://www.mediafire.com/file/asefqarbax0p4ti/Quarter+Finals+Pool+Tier+1.zip)**
+**[Download the map pack here! (105 MB)](http://www.mediafire.com/file/asefqarbax0p4ti/Quarter+Finals+Pool+Tier+1.zip "MediaFire")**
 
 - NoMod
   - [Hatsuki Yura - Shoujo to Ougonryuu no Monogatari (Garden) \[schoolboy's Extra\]](https://osu.ppy.sh/beatmapsets/719158#osu/1546635)
@@ -284,7 +278,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the map pack here! (78 MB)](http://www.mediafire.com/file/4k5aw7ydkdlh00l/Quarter+Finals+Pool+Tier+2.zip)**
+**[Download the map pack here! (78 MB)](http://www.mediafire.com/file/4k5aw7ydkdlh00l/Quarter+Finals+Pool+Tier+2.zip "MediaFire")**
 
 - NoMod
   - [Camellia feat. Nanahira - Tsukitourou (jonathanlfj) \[Nyquill's Extra\]](https://osu.ppy.sh/beatmapsets/383147#osu/1313971)
@@ -310,7 +304,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-**[Download the map pack here! (109 MB)](https://www.mediafire.com/file/15ckdbbj1enk0cc/RO16+Pool+For+Tier+1.zip)**
+**[Download the map pack here! (109 MB)](https://www.mediafire.com/file/15ckdbbj1enk0cc/RO16+Pool+For+Tier+1.zip "MediaFire")**
 
 - NoMod
   - [Kirisaki Chitoge (CV: Touyama Nao), Onodera Kosaki (CV: Hanazawa Kana) - Taisetsu no Tsukurikata (Asterisk Remix) (Gottagof4st) \[Heroine of Tomorrow\]](https://osu.ppy.sh/beatmapsets/915208#osu/1911436)
@@ -334,7 +328,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the map pack here! (77 MB)](https://www.mediafire.com/file/xzk941enbp8gu4f/RO16+Pool+For+Tier+2.zip)**
+**[Download the map pack here! (77 MB)](https://www.mediafire.com/file/xzk941enbp8gu4f/RO16+Pool+For+Tier+2.zip "MediaFire")**
 
 - NoMod
   - [Shiena Nishizawa - FUBUKI (Rizia) \[Blizzard\]](https://osu.ppy.sh/beatmapsets/288950#osu/651501)
@@ -356,11 +350,11 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Joe Ford - Villain (Yoges) \[Wicked\]](https://osu.ppy.sh/beatmapsets/399126#osu/867747)**
 
-### Group Stage
+### Group stage
 
 #### Tier 1
 
-**[Download the map pack here! (109 MB)](https://www.mediafire.com/file/ynblwf6a6o488at/Group+Stage+Pool+Tier+1.zip)**
+**[Download the map pack here! (109 MB)](https://www.mediafire.com/file/ynblwf6a6o488at/Group+Stage+Pool+Tier+1.zip "MediaFire")**
 
 - NoMod
   - [sweet ARMS - Trust in you (CXu) \[Asfand's Extra\]](https://osu.ppy.sh/beatmapsets/346218#osu/1476592)
@@ -384,7 +378,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the map pack here! (135 MB)](https://www.mediafire.com/file/jp39b28s66ty0by/Group+Stage+Pool+Tier+2.zip)**
+**[Download the map pack here! (135 MB)](https://www.mediafire.com/file/jp39b28s66ty0by/Group+Stage+Pool+Tier+2.zip "MediaFire")**
 
 - NoMod
   - [Reol - Asymmetry (Skystar) \[-Leadercela-'s Insane\]](https://osu.ppy.sh/beatmapsets/310499#osu/698254)
@@ -406,11 +400,11 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Shimotsuki Haruka - Gyaku Mawari no Inochi (Lasse) \[Petal\]](https://osu.ppy.sh/beatmapsets/939161#osu/1961714)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
 #### Tier 1
 
-**[Download the map pack here! (57 MB)](https://www.mediafire.com/file/24o36cagl7jhe39/Qualifiers+Pool+Tier+1.zip)**
+**[Download the map pack here! (57 MB)](https://www.mediafire.com/file/24o36cagl7jhe39/Qualifiers+Pool+Tier+1.zip "MediaFire")**
 
 - NoMod
   - [Naoki Miki (CV: Takahashi Rie) & Ebisuzawa Kurumi (CV: Ozawa Ari) - Unhappy End World (Yasaija 714) \[Extra\]](https://osu.ppy.sh/beatmapsets/823259#osu/1748071)
@@ -428,7 +422,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the map pack here! (61 MB)](https://www.mediafire.com/file/1chruurslhjsht5/Qualifiers+Pool+Tier+2.zip)**
+**[Download the map pack here! (61 MB)](https://www.mediafire.com/file/1chruurslhjsht5/Qualifiers+Pool+Tier+2.zip "MediaFire")**
 
 - NoMod
   - [nano - Bull's Eye (Asphyxia) \[moph's Insane\]](https://osu.ppy.sh/beatmapsets/393986#osu/925838)
@@ -444,9 +438,7 @@ This competition has come to an end and resulted in the following podium:
   - [cYsmix feat. Emmy - Tear Rain (Niva) \[Insane (2018)\]](https://osu.ppy.sh/beatmapsets/140735#osu/1649546)
   - [senya - Tokuiten no Kaibutsuteki Kanjou (Satellite) \[ShiraKai's Hard\]](https://osu.ppy.sh/beatmapsets/370545#osu/858200)
 
----
-
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -454,8 +446,8 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, 22 June 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| Player 1 |  |  | Player 2 |
+| --: | :-: | :-: | :-- |
 | **fieryrage** ![][flag_US] | **7** | 5 | ![][flag_US] im a fancy lad |
 
 Sunday, 23 June 2019:
@@ -864,8 +856,6 @@ Monday, 20 May 2019:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Civil oath** ![][flag_KR] | **4** | 1 | ![][flag_US] Yeong Yuseong | [#1](https://osu.ppy.sh/community/matches/51946612) |
-
----
 
 ## Ruleset
 

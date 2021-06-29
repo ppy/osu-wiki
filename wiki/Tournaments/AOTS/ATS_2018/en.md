@@ -10,7 +10,7 @@ tags:
 
 > Unite the Diversity between us!
 
-The **Asian Taiko Showdown 2018** (***ATS 2018***) was a 1v1 double-elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). Previously, ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). It is the second installment of the Asian-Oceanian Taiko Showdown, and an extension from the Indonesia region to Asia.
+The **Asian Taiko Showdown 2018** (***ATS 2018***) was a 1v1 double-elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). Previously, ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). It was the second installment of the Asian-Oceanian Taiko Showdown, and an extension from the Indonesia region to Asia.
 
 ## Tournament schedule
 
@@ -35,7 +35,7 @@ The **Asian Taiko Showdown 2018** (***ATS 2018***) was a 1v1 double-elimination 
 
 ## Organisation
 
-The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
+The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -54,8 +54,6 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 - [Livestream](https://www.twitch.tv/osutaikoshowdown "Twitch")
 - [Asian Taiko Showdown 2018 Discord](https://discord.gg/2xQDbkS "Discord")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0 "Google Docs")**
-
----
 
 ## Participants
 
@@ -91,7 +89,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ### Grand Finals
 
-**[Download the mappack here! (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing)**
+**[Download the mappack here! (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Colorful Sounds Port - ETERNAL DRAIN (Shirai-) \[MuzukATShii\]](https://osu.ppy.sh/beatmapsets/625899#taiko/1574085)
@@ -119,7 +117,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ### Finals
 
-**[Download the mappack here! (84MB)](https://drive.google.com/file/d/1y2tGdLhx3j8U7h7FZHDVjhvYxA7ouY-e/view?usp=sharing)**
+**[Download the mappack here! (84MB)](https://drive.google.com/file/d/1y2tGdLhx3j8U7h7FZHDVjhvYxA7ouY-e/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Innocent Key - Toho-Assisted-Speedrun!!! (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/796419#taiko/1672405)
@@ -147,7 +145,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ### Semifinals
 
-**[Download the mappack here! (81MB)](https://drive.google.com/file/d/17XmIGdwsdxLNYnkc7EoL0mLczF8VoUsw/view?usp=sharing)**
+**[Download the mappack here! (81MB)](https://drive.google.com/file/d/17XmIGdwsdxLNYnkc7EoL0mLczF8VoUsw/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Mitsuyoshi Takenobu no Ani - Amphisbaena (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/737973#taiko/1557391)
@@ -175,7 +173,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing)**
+**[Download the mappack here! (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Renard - The Club (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553809#taiko/1172641)
@@ -203,7 +201,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ### Round of 16
 
-**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing)**
+**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Kamui Gakupo, KAITO, Kagamine Len - Immoral Memory\~The Lost Memory\~ (7odoa) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44898#taiko/145660)
@@ -231,7 +229,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ### Group stage
 
-**[Download the mappack here! (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing)**
+**[Download the mappack here! (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Mapper 31) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/36248#taiko/148859)
@@ -259,7 +257,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ### Eliminations stage
 
-**[Download the mappack here! (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing)**
+**[Download the mappack here! (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [yanaginagi - Owari no Sekai kara (Lundlerol) \[Lundle's Taiko\]](https://osu.ppy.sh/beatmapsets/44854#taiko/156706)

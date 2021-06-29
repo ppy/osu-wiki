@@ -88,7 +88,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (90 MB)](https://mega.nz/#!UpFjmQ7R!Gb2BuiMchBz8svczdT3ThaUVAinJtvNKljvtjFOX5Es)**
+**[Download the mappack here! (90 MB)](https://mega.nz/#!UpFjmQ7R!Gb2BuiMchBz8svczdT3ThaUVAinJtvNKljvtjFOX5Es "MEGA")**
 
 - NoMod
   - [ribb0n - OLAY (RIBB0N ILLEGAL BOOTLEG) (vrnl) \[hey ben\]](https://osu.ppy.sh/beatmapsets/783226#taiko/1644603)
@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (96 MB)](https://mega.nz/#!E5NAjSgD!Oat2E6s8raTuQLNgcWZWZsATAakgYonwLfmQrxQuBs4)**
+**[Download the mappack here! (96 MB)](https://mega.nz/#!E5NAjSgD!Oat2E6s8raTuQLNgcWZWZsATAakgYonwLfmQrxQuBs4 "MEGA")**
 
 - NoMod
   - [Zekk - Hatsukoi Memories (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690025#taiko/1460477)
@@ -146,7 +146,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (108 MB)](https://mega.nz/#!F1NA1aIa!DK3IMj0sIBYxGcW9ctyaIX9S1CfZVqZdiw3N9Z5FC58)**
+**[Download the mappack here! (108 MB)](https://mega.nz/#!F1NA1aIa!DK3IMj0sIBYxGcW9ctyaIX9S1CfZVqZdiw3N9Z5FC58 "MEGA")**
 
 - NoMod
   - [Kobaryo feat. Nanahira - Cross The Finish Line (Backfire) \[Backfire's Oni\]](https://osu.ppy.sh/beatmapsets/410594#taiko/1013340)
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://mega.nz/#!oh8SVIQa!m4BPovpRvJBW_Crh_zrJ2D4TU8Xpgu7doyNxb0oidZE)**
+**[Download the mappack here! (83 MB)](https://mega.nz/#!oh8SVIQa!m4BPovpRvJBW_Crh_zrJ2D4TU8Xpgu7doyNxb0oidZE "MEGA")**
 
 - NoMod
   - [LiLA'c Records - Aimless Voyage (Nepuri) \[Lost\]](https://osu.ppy.sh/beatmapsets/679686#taiko/1437286)
@@ -204,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU)**
+**[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU "MEGA")**
 
 - NoMod
   - [Kana Nishino - Sweet Dreams (11t dnb mix) (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/684455#taiko/1448552)
@@ -233,7 +233,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU)**
+**[Download the mappack here! (81 MB)](https://mega.nz/#!1wFDTabT!_GecnvAIO96tA2e9FTKZWbA3doONQ5q5upvS_usUmkU "MEGA")**
 
 - NoMod
   - [Himeringo - Idola no Circus (hikikochan-) \[Dance\]](https://osu.ppy.sh/beatmapsets/728008#taiko/1537074)

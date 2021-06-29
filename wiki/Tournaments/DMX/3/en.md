@@ -93,7 +93,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (129 MB)](https://mega.nz/#!J11SWIRA!Gf_dA6CwFmOAF-QyeGe-a3DCB_WsE4RtAbL1Ufn_Dwk)**
+**[Download the mappack here! (129 MB)](https://mega.nz/#!J11SWIRA!Gf_dA6CwFmOAF-QyeGe-a3DCB_WsE4RtAbL1Ufn_Dwk "MEGA")**
 
 - FreeMod
   - [Camellia - epimerization (qqqant) \[doxorubicin\]](https://osu.ppy.sh/beatmapsets/803740#mania/1686934)
@@ -116,7 +116,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (57 MB)](https://puu.sh/CfI26/fdfcbe51c4.zip)**
+**[Download the mappack here! (57 MB)](https://puu.sh/CfI26/fdfcbe51c4.zip "puush")**
 
 - FreeMod
   - [II-L - SPUTNIK-3 (Vortex-) \[SV = true;\]](https://osu.ppy.sh/beatmapsets/849521#mania/1776410)
@@ -137,7 +137,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (47 MB)](https://puu.sh/Cbf2V/070a9d85b1.zip)**
+**[Download the mappack here! (47 MB)](https://puu.sh/Cbf2V/070a9d85b1.zip "puush")**
 
 - FreeMod
   - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night ( Assertive Hardcore Bootleg ) \[Long ver.\] (remixes00000) \[Let's Dance!!\]](https://osu.ppy.sh/beatmapsets/815105#mania/1709538)
@@ -156,7 +156,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (62 MB)](https://puu.sh/C7zHS/3724d5d2fd.zip)**
+**[Download the mappack here! (62 MB)](https://puu.sh/C7zHS/3724d5d2fd.zip "puush")**
 
 - FreeMod
   - [lapix - Monkey Business (lapix Remix) (ecafree2) \[test sv\]](https://osu.ppy.sh/beatmapsets/225106#mania/525460)
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (45 MB)](https://puu.sh/C0fSs/c473dc366f.rar)**
+**[Download the mappack here! (45 MB)](https://puu.sh/C0fSs/c473dc366f.rar "puush")**
 
 - FreeMod
   - [Zekk - Calling (Couil) \[MX\]](https://osu.ppy.sh/beatmapsets/855193#mania/1787006)

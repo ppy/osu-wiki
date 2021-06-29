@@ -82,7 +82,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 5
 
-**[Download the mappack here! (132 MB)](https://mega.nz/#!GnhFwIiJ!6TMyxm-mKf7Q_EEdYdA44s1VQ0Qs5kXdR1HLrzswnYs)**
+**[Download the mappack here! (132 MB)](https://mega.nz/#!GnhFwIiJ!6TMyxm-mKf7Q_EEdYdA44s1VQ0Qs5kXdR1HLrzswnYs "MEGA")**
 
 - NoMod
   - [Zekk - Sugary Daydream (TKS) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/578489#taiko/1224835)
@@ -113,7 +113,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 4
 
-**[Download the mappack here! (65 MB)](https://mega.nz/#!a2IHjQTJ!isJzTngQGr6mxJPGpctb3jQzLcGUrMadI_vvDHPtDnQ)**
+**[Download the mappack here! (65 MB)](https://mega.nz/#!a2IHjQTJ!isJzTngQGr6mxJPGpctb3jQzLcGUrMadI_vvDHPtDnQ "MEGA")**
 
 - NoMod
   - [Hino Isuka - Bloody Scarlet Nightmare (nananass) \[Blood\]](https://osu.ppy.sh/beatmapsets/691110#taiko/1462572)
@@ -139,7 +139,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 3
 
-**[Download the mappack here! (59 MB)](https://mega.nz/#!2vwGCSCY!v7DWcVkE0WERJfqmRwY5At_RctlZM9duhxA_4HyIFAM)**
+**[Download the mappack here! (59 MB)](https://mega.nz/#!2vwGCSCY!v7DWcVkE0WERJfqmRwY5At_RctlZM9duhxA_4HyIFAM "MEGA")**
 
 - NoMod
   - [Hiro - VERTeX (Nwolf) \[Apex\]](https://osu.ppy.sh/beatmapsets/856990#taiko/1790210)
@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 2
 
-**[Download the mappack here! (49 MB)](https://mega.nz/#!zyJVHICL!OoNBJWGGqW4I18SINy5RrqDkmhY6l6X4zahaBj7etuA)**
+**[Download the mappack here! (49 MB)](https://mega.nz/#!zyJVHICL!OoNBJWGGqW4I18SINy5RrqDkmhY6l6X4zahaBj7etuA "MEGA")**
 
 - NoMod
   - [DJ Mass MAD Izm - shakunetsu Beach Side Bunny (Kagami Yuki) \[Kagami's Taiko\]](https://osu.ppy.sh/beatmapsets/196311#taiko/465665)

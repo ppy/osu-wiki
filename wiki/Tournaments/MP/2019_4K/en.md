@@ -28,7 +28,7 @@ The **Mistrzostwa Polski w 4K 2019** (***MP4K 2019***, *4K Polish Championship 2
 
 ## Prizes
 
-The prize pool was crowdfunded through the [tipanddonation](https://tipanddonation.com/MP4K3) page with a minimum prize pool set at 200 PLN total with a 50%/30%/20% split for the top 3 players.
+The prize pool was crowdfunded through the [tipanddonation](https://tipanddonation.com/MP4K3 "tipanddonation") page with a minimum prize pool set at 200 PLN total with a 50%/30%/20% split for the top 3 players.
 
 | Placing | Prize(s) |
 | :-: | :-- |

@@ -102,7 +102,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 
 ### Grand Finals
 
-**[Download the mappack here! (126 MB)](http://www.mediafire.com/file/32fz26v5xxf7pu5/OTC+%233+GF+Mappool.zip)**
+**[Download the mappack here! (126 MB)](http://www.mediafire.com/file/32fz26v5xxf7pu5/OTC+%233+GF+Mappool.zip "MediaFire")**
 
 - NoMod
   - [Getty vs. DJ DiA - DropZ-Line- (NeilPerry, Regou) \[Neil x Regou's Extra\]](https://osu.ppy.sh/beatmapsets/727049#osu/1546209)
@@ -127,7 +127,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 
 ### Finals
 
-**[Download the mappack here! (130 MB)](http://www.mediafire.com/file/dkkspnkg80a8b4u/OTC+%233+Finals+Mappool.zip)**
+**[Download the mappack here! (130 MB)](http://www.mediafire.com/file/dkkspnkg80a8b4u/OTC+%233+Finals+Mappool.zip "MediaFire")**
 
 - NoMod
   - [Lite Show Magic - TRICKL4SH 220 (Regou) \[TERROR\]](https://osu.ppy.sh/beatmapsets/616696#osu/1300513)
@@ -152,7 +152,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 
 ### Semifinals
 
-**[Download the mappack here! (140 MB)](http://www.mediafire.com/file/u7cruip6preqah3/OTC+%233+Semifinals+Mappool.zip)**
+**[Download the mappack here! (140 MB)](http://www.mediafire.com/file/u7cruip6preqah3/OTC+%233+Semifinals+Mappool.zip "MediaFire")**
 
 - NoMod
   - [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/684060#osu/1447689)
@@ -177,7 +177,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (163 MB)](http://www.mediafire.com/file/6bnzwt6be53dt6q/OTC+%233+QF+Mappool.zip)**
+**[Download the mappack here! (163 MB)](http://www.mediafire.com/file/6bnzwt6be53dt6q/OTC+%233+QF+Mappool.zip "MediaFire")**
 
 - NoMod
   - [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (fanzhen0019) \[fanzhen's Hi-Speed Extra\]](https://osu.ppy.sh/beatmapsets/139525#osu/367763)
@@ -202,7 +202,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 
 ### Round of 32 / Round of 16
 
-**[Download the mappack here! (118 MB)](http://www.mediafire.com/file/p55yudv91xozlxs/OTC+%233+Ro3216+Mappool.zip)**
+**[Download the mappack here! (118 MB)](http://www.mediafire.com/file/p55yudv91xozlxs/OTC+%233+Ro3216+Mappool.zip "MediaFire")**
 
 - NoMod
   - [P\*Light - 2 MINUTES FIGHTERS (F D Flourite) \[Flourite's INFINITE\]](https://osu.ppy.sh/beatmapsets/542163#osu/1150555)
@@ -227,7 +227,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 
 ### Group stage
 
-**[Download the mappack here! (62 MB)](http://www.mediafire.com/file/2ia3e3y2ri3o42p/OTC+%233+Group+Stage+Mappool.zip)**
+**[Download the mappack here! (62 MB)](http://www.mediafire.com/file/2ia3e3y2ri3o42p/OTC+%233+Group+Stage+Mappool.zip "MediaFire")**
 
 - NoMod
   - [Getty vs. DJ DiA - Grayed Out -Antifront- (Linada) \[Linada's Expert\]](https://osu.ppy.sh/beatmapsets/578755#osu/1329304)

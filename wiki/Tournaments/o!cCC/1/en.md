@@ -82,7 +82,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was used in Finals and Grand Finals.**
 
-**[Download the mappack here! (116 MB)](https://mega.nz/#!FklExCpQ!eN4Avo5X-Keo5EggnA8O9Q63VpcC2DloSe0Akn9vw_8)**
+**[Download the mappack here! (116 MB)](https://mega.nz/#!FklExCpQ!eN4Avo5X-Keo5EggnA8O9Q63VpcC2DloSe0Akn9vw_8 "MEGA")**
 
 - NoMod
   - [The Wrecks - Favorite Liar (Kaifin) \[Valley\]](https://osu.ppy.sh/beatmapsets/520511#fruits/1105826)
@@ -111,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (122 MB)](https://mega.nz/#!U1VVHYyQ!nt-ahH43zuIPYBYceOywAoSxTgrCbOBLtltoXZqzl-8)**
+**[Download the mappack here! (122 MB)](https://mega.nz/#!U1VVHYyQ!nt-ahH43zuIPYBYceOywAoSxTgrCbOBLtltoXZqzl-8 "MEGA")**
 
 - NoMod
   - [Gesu no Kiwami Otome. - Digital Mogura (dsco) \[Idealist\]](https://osu.ppy.sh/beatmapsets/737340#fruits/1556011)
@@ -140,7 +140,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://mega.nz/#!s5FBHARZ!MICMIq3Lz-mvfxAeprvTX5P8J7EhcwcAKIVbriZqQMQ)**
+**[Download the mappack here! (83 MB)](https://mega.nz/#!s5FBHARZ!MICMIq3Lz-mvfxAeprvTX5P8J7EhcwcAKIVbriZqQMQ "MEGA")**
 
 - NoMod
   - [Yu Tokiwa - Shounen Ripples (Sotarks) \[Vibes\]](https://osu.ppy.sh/beatmapsets/763619#fruits/1605598)
@@ -164,7 +164,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (99 MB)](https://mega.nz/#!JxtTjYxJ!6OYoraq-m-hCj2Rew7Gn15J_pjp-BMTHN3qB-fYqQZg)**
+**[Download the mappack here! (99 MB)](https://mega.nz/#!JxtTjYxJ!6OYoraq-m-hCj2Rew7Gn15J_pjp-BMTHN3qB-fYqQZg "MEGA")**
 
 - NoMod
   - [Shiggy Jr. - oyasumi (Yuuki-chan) \[residentsleeper\]](https://osu.ppy.sh/beatmapsets/691674#fruits/1463662)
@@ -188,7 +188,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (83 MB)](https://mega.nz/#!8kVg3QrC!gtqqHtYkvbXksiAuhJJOv_8eKcSqc3tbApL-EzaqvVc)**
+**[Download the mappack here! (83 MB)](https://mega.nz/#!8kVg3QrC!gtqqHtYkvbXksiAuhJJOv_8eKcSqc3tbApL-EzaqvVc "MEGA")**
 
 - NoMod
   - [Unlucky Morpheus - Phantom Blood (IsomirDiAngelo) \[Atalanta's Extra\]](https://osu.ppy.sh/beatmapsets/885158#fruits/2153771)
@@ -212,7 +212,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (25 MB)](https://mega.nz/#!sodzSKQJ!1_UNqV2Em-bnD1yK6aQWFqnYryLGiNtXXFxiA9_DXTc)**
+**[Download the mappack here! (25 MB)](https://mega.nz/#!sodzSKQJ!1_UNqV2Em-bnD1yK6aQWFqnYryLGiNtXXFxiA9_DXTc "MEGA")**
 
 - NoMod
   - [Laura Bodewig (CV : Inoue Marina) - SUPER STREAM (Akitoshi) \[Next Future\]](https://osu.ppy.sh/beatmapsets/1039295#fruits/2172460)

@@ -82,7 +82,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was used during Finals and Grand Finals.**
 
-**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cFpJQUNvRzJKQlU/view?usp=sharing)**
+**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cFpJQUNvRzJKQlU/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Morimori Atsushi - Applique (TKS) \[test\]](https://osu.ppy.sh/beatmaps/616247&m=1)
@@ -109,7 +109,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (70 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3VXNEQTZvMHYxems/view?usp=sharing])**
+**[Download the mappack here! (70 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3VXNEQTZvMHYxems/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Memme - Avalanche (Love) \[Love\]](https://osu.ppy.sh/beatmaps/759835&m=1)
@@ -136,7 +136,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3SUkxUVNMYlhOWkk/view?usp=sharing)**
+**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3SUkxUVNMYlhOWkk/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [t+pazolite - Tomorrow Perfume (tpz Despair Remix) (Nardoxyribonucleic) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmaps/968416&m=1)
@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3UWZvMG9YeGtKbnc/view?usp=sharing)**
+**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3UWZvMG9YeGtKbnc/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Memme - Starving Days (Charless445) \[Oni445\]](https://osu.ppy.sh/beatmaps/385907&m=1)
@@ -190,7 +190,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (118 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cEJubDVQeVJDY28/view?usp=sharing)**
+**[Download the mappack here! (118 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cEJubDVQeVJDY28/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Camellia - Routing (MMzz) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/821900&m=1)
@@ -303,7 +303,7 @@ Sunday, 14 May 2017:
 | steven1 ![][flag_ID] | 0 | **5** | ![][flag_ID] **XK2238** | *win by default* |
 | **ayomikasa** ![][flag_ID] | **5** | 0 | ![][flag_ID] Kayano- | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 6 May 2017:
 

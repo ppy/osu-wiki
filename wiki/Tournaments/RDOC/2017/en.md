@@ -16,7 +16,7 @@ The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elim
 | --: | :-- |
 | Registration phase | 2017-02-03/2017-02-20 |
 | Live drawings | 2017-02-26 |
-| Group Stage | 2017-03-04/2017-03-12 |
+| Group stage | 2017-03-04/2017-03-12 |
 | Round of 16 | 2017-03-18/2017-03-19 |
 | Quarterfinals | 2017-03-25/2017-03-26 |
 | Semifinals | 2017-04-01/2017-04-02 |
@@ -77,7 +77,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 
 ## Podium
 
- This competition has come to an end and resulted in the following podium:
+This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
@@ -192,7 +192,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 - Tiebreaker
   - **[Sakaue Nachi - Crazy Hot \[Crazy Night\]](https://osu.ppy.sh/beatmapsets/175671#osu/703584)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [sta - Iris \[Insane\]](https://osu.ppy.sh/beatmapsets/94917#osu/255163)
@@ -330,7 +330,7 @@ Tuesday, 21 March 2017:
 | :-: | --: | :-: | :-: | :-- |
 | UB | **iamVill** ![][flag_DK] | **5** | 1 | ![][flag_DK] Asymmetry Echo |
 
-### Group Stage
+### Group stage
 
 Saturday, 4 March 2017:
 

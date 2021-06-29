@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (159 MB)](http://www.mediafire.com/file/8efiufeeekqvc92/OTC+%232+Finals+Mappool.zip)**
+**[Download the mappack here! (159 MB)](http://www.mediafire.com/file/8efiufeeekqvc92/OTC+%232+Finals+Mappool.zip "MediaFire")**
 
 - NoMod
   - [lapix - Labyrinth (Akali) \[Who's the fucking gangster?\]](https://osu.ppy.sh/beatmapsets/615878#osu/1299008)
@@ -149,7 +149,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (112 MB)](http://www.mediafire.com/file/wgait7rkr0fmg6o/OTC+%232+Semifinals+Mappool.zip)**
+**[Download the mappack here! (112 MB)](http://www.mediafire.com/file/wgait7rkr0fmg6o/OTC+%232+Semifinals+Mappool.zip "MediaFire")**
 
 - NoMod
   - [Hommarju - Rock It (toybot) \[Blast Off\]](https://osu.ppy.sh/beatmapsets/700421#osu/1484308)
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/kfj2yg3mek1og6e/OTC+%232+Quarterfinals+Mappool.zip)**
+**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/kfj2yg3mek1og6e/OTC+%232+Quarterfinals+Mappool.zip "MediaFire")**
 
 - NoMod
   - [succducc - me & u (Nathan) \[together\]](https://osu.ppy.sh/beatmapsets/699749#osu/1481624)
@@ -201,7 +201,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (117 MB)](http://www.mediafire.com/file/hffn6onh89b658x/OTC+%232+Ro16+Mappool.zip)**
+**[Download the mappack here! (117 MB)](http://www.mediafire.com/file/hffn6onh89b658x/OTC+%232+Ro16+Mappool.zip "MediaFire")**
 
 - NoMod
   - [Nekomata Master+ - Proof of the existence (Alheak) \[Expert\]](https://osu.ppy.sh/beatmapsets/427864#osu/923589)
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/7sesz4tdhk3e3jn/OTC+%232+Group+Stage+Mappool.zip)**
+**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/7sesz4tdhk3e3jn/OTC+%232+Group+Stage+Mappool.zip "MediaFire")**
 
 - NoMod
   - [Sota Fujimori - WOBBLE IMPACT \[Black Another\]](http://osu.uu.gl/s/166337)
@@ -343,7 +343,7 @@ Sunday, 22 April 2018:
 | **Latex Intolerance** | **5** | 0 | Fernet con coca | *win by default* |
 | Fully Unified Chistianized Kingdom | 4 | **5** | **Dumii has a small dick** | [#1](https://osu.ppy.sh/community/matches/41875764) |
 
-### Group Stage
+### Group stage
 
 Saturday, 14 April 2018:
 

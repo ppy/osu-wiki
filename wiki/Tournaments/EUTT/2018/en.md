@@ -79,7 +79,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (102 MB)](https://mega.nz/#!wkdSAQpZ!j7J6phL3sZnuhBOjhWeS9yoVMpfpCA8TiZSP11McLsg)**
+**[Download the mappack here! (102 MB)](https://mega.nz/#!wkdSAQpZ!j7J6phL3sZnuhBOjhWeS9yoVMpfpCA8TiZSP11McLsg "MEGA")**
 
 - NoMod
   - [Yuzuki Yukari MAYU - Hurting for a Very Hurtful Pain (cagalin, seiichiz) \[Collab pain\]](https://osu.ppy.sh/beatmapsets/308407#taiko/689693)
@@ -106,7 +106,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (67 MB)](https://mega.nz/#!dkEAHKIS!2CVFumwsaLgc9xcL6qCjFe2LC_zaTCUBbpnYTM9HHHI)**
+**[Download the mappack here! (67 MB)](https://mega.nz/#!dkEAHKIS!2CVFumwsaLgc9xcL6qCjFe2LC_zaTCUBbpnYTM9HHHI "MEGA")**
 
 - NoMod
   - [The Flashbulb - Lawn Wake IX (yassu-) \[Chaos Oni\]](https://osu.ppy.sh/beatmapsets/662638#taiko/1402653)
@@ -133,7 +133,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (57 MB)](https://mega.nz/#!E4NDUSjQ!LWW10DnDnIPKeADOaeiQpBs9cA32N8fEfrZgfHa2i_8)**
+**[Download the mappack here! (57 MB)](https://mega.nz/#!E4NDUSjQ!LWW10DnDnIPKeADOaeiQpBs9cA32N8fEfrZgfHa2i_8 "MEGA")**
 
 - NoMod
   - [Cardboard Box - ++ (Grimbow) \[Grim's N+\]](https://osu.ppy.sh/beatmapsets/572069#taiko/1213129)
@@ -160,7 +160,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (91 MB)](https://mega.nz/#!448hnILB!CBkDuC8rPC1ZMboTt0eydpzyPZ2R4i-0cEwGl6OhAjo)**
+**[Download the mappack here! (91 MB)](https://mega.nz/#!448hnILB!CBkDuC8rPC1ZMboTt0eydpzyPZ2R4i-0cEwGl6OhAjo "MEGA")**
 
 - NoMod
   - [The Black Dahlia Murder - What a Horrible Night to Have a Curse (xEchoAlertx) \[Simon's Quest\]](https://osu.ppy.sh/beatmapsets/637265#taiko/1352024)
@@ -187,7 +187,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (71 MB)](https://mega.nz/#!F90mjIgD!u2mYXJ5oyEWcwnzEYyXOHg0s5y7sfp69AKYYf_2_IOs)**
+**[Download the mappack here! (71 MB)](https://mega.nz/#!F90mjIgD!u2mYXJ5oyEWcwnzEYyXOHg0s5y7sfp69AKYYf_2_IOs "MEGA")**
 
 - NoMod
   - [ILA - Devil In Wonderland (ZethZ161) \[Adventure!\]](https://osu.ppy.sh/beatmapsets/691057#taiko/1462461)

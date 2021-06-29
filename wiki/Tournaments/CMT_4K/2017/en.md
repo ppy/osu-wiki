@@ -20,13 +20,13 @@ The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) was a 1v1 4K sp
 
 ## Prizes
 
-All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
+All prizes were sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard** |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -201,7 +201,7 @@ The Chinese osu!mania 4K Tournament 2017 was run by various community members.
 - Tiebreaker
   - **[Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) (Virtue-) \[Lunatic of Love\]](https://osu.ppy.sh/beatmapsets/564014#mania/1192531)**
 
-### Qualification Stage
+### Qualification stage
 
 - FreeMod
   - [Inspector K - Disconnected -Hyper- (XeoStyle) \[deep boop\]](https://osu.ppy.sh/beatmapsets/609453#mania/1287062)
@@ -489,10 +489,10 @@ Saturday, 2017-06-17:
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
-   | Quarter-finals | I, J, K, L & R, S, T, U |
-   | Semi-finals | M, N & V, W, X, Y, Z,AA |
-   | Finals - Week 1 | O & AB, AC, AD |
-   | Finals - Week 2 | P & AE |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z,AA |
+   | Finals week 1 | O & AB, AC, AD |
+   | Finals week 2 | P & AE |
 
 8. **Winning condition**:
    - In the Qualification stage, the **32** highest players will qualify next stage.

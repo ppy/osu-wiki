@@ -16,7 +16,7 @@ The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elim
 | --: | :-- |
 | Registration phase | 2018-08-13/2018-09-07 |
 | Live drawings | 2018-09-09 |
-| Group Stage | 2018-09-15/2018-09-23 |
+| Group stage | 2018-09-15/2018-09-23 |
 | Round of 16 | 2018-09-29/2018-09-30 |
 | Quarterfinals | 2018-10-06/2018-10-07 |
 | Semifinals | 2018-10-13/2018-10-14 |
@@ -225,7 +225,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[sasakure.UK - ChRoNiClESeVeN feat. Annabel \[Flora\]](https://osu.ppy.sh/beatmapsets/775590#osu/1629799)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Yonezawa Madoka - Responsibility Response \[Pathetique\]](https://osu.ppy.sh/beatmapsets/276997#osu/706817)
@@ -365,7 +365,7 @@ Sunday, 30 September 2018:
 | UB | **raser1234** ![][flag_DK] | **5** | 0 | ![][flag_DK] Tona |
 | UB | RipG ![][flag_DK] | 0 | **5** | ![][flag_DK] **Zakura** |
 
-### Group Stage
+### Group stage
 
 Saturday, 15 September 2018:
 

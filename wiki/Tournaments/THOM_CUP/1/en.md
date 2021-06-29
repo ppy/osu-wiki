@@ -9,7 +9,7 @@ tags:
 
 ![THOM CUP logo](img/logo.png)
 
-**The Heptakey osu!mania Cup #1** (***THOM CUP #1***) was a 1v1 Euro-American 7-key osu!mania tournament. It was the first installment of the The Heptakey osu!mania Cup.
+**The Heptakey osu!mania Cup #1** (***THOM CUP #1***) was a 1v1 Euro-American 7K osu!mania tournament. It was the first installment of the The Heptakey osu!mania Cup.
 
 ## Tournament schedule
 
@@ -48,7 +48,7 @@ tags:
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/731431)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/731431)
 - [Livestream](https://www.twitch.tv/thomcup "Twitch")
 - [Challonge](https://challonge.com/THOMCup "Challonge")
 
@@ -88,7 +88,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (97 MB)](https://www.dropbox.com/sh/dhys8odeifwlom8/AAAyH8eQmAoWvUFdwNJC91DRa?dl=0)**
+**[Download the mappack here! (97 MB)](https://www.dropbox.com/sh/dhys8odeifwlom8/AAAyH8eQmAoWvUFdwNJC91DRa?dl=0 "Dropbox")**
 
 - FreeMod
   - [penoreri - Sailing Force (AncuL) \[Weigh Anchor\]](https://osu.ppy.sh/beatmaps/1491970)
@@ -111,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (119 MB)](https://www.dropbox.com/sh/1sxx31pgh74q4ux/AADmecWg9k3UVpmjSAvVjbgfa?dl=0)**
+**[Download the mappack here! (119 MB)](https://www.dropbox.com/sh/1sxx31pgh74q4ux/AADmecWg9k3UVpmjSAvVjbgfa?dl=0 "Dropbox")**
 
 - FreeMod
   - [Kyary Pamyu Pamyu - Mottai Night Land (Cuppp) \[Insane\]](https://osu.ppy.sh/beatmaps/691829)
@@ -134,7 +134,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (86 MB)](https://www.dropbox.com/sh/izfeyh9fz9vr51y/AABX3bhBVxIHNDkTnE4F1vmTa?dl=0)**
+**[Download the mappack here! (86 MB)](https://www.dropbox.com/sh/izfeyh9fz9vr51y/AABX3bhBVxIHNDkTnE4F1vmTa?dl=0 "Dropbox")**
 
 - FreeMod
   - [xi - Grand Chariot (AncuL) \[Grand Chariot\]](https://osu.ppy.sh/beatmaps/1331176)
@@ -155,7 +155,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (74 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0)**
+**[Download the mappack here! (74 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0 "Dropbox")**
 
 - FreeMod
   - [Silent Siren - BANG!BANG!BANG! (PP_Aika) \[lvl.33\]](https://osu.ppy.sh/beatmaps/1578815)
@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (96 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0)**
+**[Download the mappack here! (96 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0 "Dropbox")**
 
 - FreeMod
   - [SHIKI - Xecus (hoo9030) \[Normal\]](https://osu.ppy.sh/beatmaps/1522885)
@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (95 MB)](https://www.dropbox.com/sh/c3rktbonawm67hk/AAAQv1tCrCV9BSvEbRm84Nxha?dl=0)**
+**[Download the mappack here! (95 MB)](https://www.dropbox.com/sh/c3rktbonawm67hk/AAAQv1tCrCV9BSvEbRm84Nxha?dl=0 "Dropbox")**
 
 - FreeMod
   - [USAO - Miracle 5ympho X (Mel) \[7K Another\]](https://osu.ppy.sh/beatmaps/413033)
@@ -214,7 +214,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Playoffs
 
-**[Download the mappack here! (87 MB)](https://www.dropbox.com/sh/qv69wikpc5zpsde/AAAWjIzktrRmVHQkqRBlPW4Ha?dl=0)**
+**[Download the mappack here! (87 MB)](https://www.dropbox.com/sh/qv69wikpc5zpsde/AAAWjIzktrRmVHQkqRBlPW4Ha?dl=0 "Dropbox")**
 
 - FreeMod
   - [fripSide - LEVEL5-judgelight- (TV size) (Niks) \[7K Hard\]](https://osu.ppy.sh/beatmaps/747358)
@@ -231,7 +231,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (27 MB)](https://www.dropbox.com/sh/p85shbdk8skxytr/AACrjd39x23Y5lmqwnFticVRa?dl=0)**
+**[Download the mappack here! (27 MB)](https://www.dropbox.com/sh/p85shbdk8skxytr/AACrjd39x23Y5lmqwnFticVRa?dl=0 "Dropbox")**
 
 - FreeMod
   - [FizzD - Oriental Insomniac (Ciel) \[Stage 1: Glitch\]](https://osu.ppy.sh/beatmaps/1640164)
@@ -464,7 +464,7 @@ Sunday, 3 June 2018:
 
 The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQAuLlxZfKLVnAw_n9a_lUSd1O65w_THZA4ea4ouSw7iDLEDngr1ssZc_R7Pzy0OtsMVFTVVnUin4Hg/pubhtml# "Google Docs").
 
-## Rules
+## Ruleset
 
 ### Tournament organisation
 

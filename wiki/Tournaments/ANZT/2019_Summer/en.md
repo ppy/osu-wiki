@@ -274,8 +274,6 @@ This competition has come to an end and resulted in the following podium:
 
 All individual match results can be found on the spreadsheet linked above.
 
----
-
 ## Ruleset
 
 ### General rules

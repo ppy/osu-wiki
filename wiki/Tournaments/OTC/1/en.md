@@ -54,8 +54,6 @@ The osu! Technical Championship was run by various osu! community members.
 - [Livestream](https://www.twitch.tv/osutechnicalchampionship "Twitch")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStmKfT5R9F8cFGqit3gyVwz8H7EN4Z4y7d3mbWD5Lz4emiVUiMziaYfSR1sxGmMMRgVohyqiHS7x19/pubhtml "Google Docs")**
 
----
-
 ## Participants
 
 | Seed | Members |
@@ -86,8 +84,6 @@ The osu! Technical Championship was run by various osu! community members.
 | **O** | ![][flag_AU] [MBmasher](https://osu.ppy.sh/users/4498616) | ![][flag_CA] [peng](https://osu.ppy.sh/users/6043452) | ![][flag_NZ] [Fasutorui](https://osu.ppy.sh/users/3755754) | ![][flag_FI] [Kappakeepo](https://osu.ppy.sh/users/3481070) |
 | **P** | ![][flag_US] [arth](https://osu.ppy.sh/users/3600549) | ![][flag_NZ] [fumes](https://osu.ppy.sh/users/7573380) | ![][flag_US] [- M o D e -](https://osu.ppy.sh/users/4580287) | ![][flag_GR] [Genjuro](https://osu.ppy.sh/users/3196091) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -98,15 +94,13 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [Play Offline](https://osu.ppy.sh/users/5791401) |
 
----
-
 ## Mappools
 
 ### Finals
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (190 MB)](http://www.mediafire.com/file/yhe8oh8mbays2a9/OTC+Finals+Pool.zip)**
+**[Download the mappack here! (190 MB)](http://www.mediafire.com/file/yhe8oh8mbays2a9/OTC+Finals+Pool.zip "MediaFire")**
 
 - NoMod
   - [Getty vs. DJ DiA - Fox4-Raize- (Kaifin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/482552#osu/1029677)
@@ -131,7 +125,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (125 MB)](http://www.mediafire.com/file/3qlq8unc1oc026b/OTC+Semifinals+Pool.zip)**
+**[Download the mappack here! (125 MB)](http://www.mediafire.com/file/3qlq8unc1oc026b/OTC+Semifinals+Pool.zip "MediaFire")**
 
 - NoMod
   - [Function Phantom - Euclid (byfar) \[Fifth Postulate\]](https://osu.ppy.sh/beatmapsets/419614#osu/908093)
@@ -156,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (126 MB)](http://www.mediafire.com/file/z9f0auhtlzo2nal/OTC+Quarter+Finals+Pool.zip)**
+**[Download the mappack here! (126 MB)](http://www.mediafire.com/file/z9f0auhtlzo2nal/OTC+Quarter+Finals+Pool.zip "MediaFire")**
 
 - NoMod
   - [Memme - Cherry Blossom (rrtyui) \[tyui's Extra\]](https://osu.ppy.sh/beatmapsets/442581#osu/984660)
@@ -181,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32 / Round of 16
 
-**[Download the mappack here! (172 MB)](http://www.mediafire.com/file/f9zmm3ju4zhe66d/OTC+RO32-16+Pool.zip)**
+**[Download the mappack here! (172 MB)](http://www.mediafire.com/file/f9zmm3ju4zhe66d/OTC+RO32-16+Pool.zip "MediaFire")**
 
 - NoMod
   - [Camellia - Towards The Horizon (sahuang) \[sahuang's Expert\]](https://osu.ppy.sh/beatmapsets/636393#osu/1478678)
@@ -206,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (145 MB)](http://www.mediafire.com/file/shu79fyhms1f7t1/OTC+Group+Stage+Mappool.zip;)**
+**[Download the mappack here! (145 MB)](http://www.mediafire.com/file/shu79fyhms1f7t1/OTC+Group+Stage+Mappool.zip "MediaFire")**
 
 - NoMod
   - [SWAN K feat. Asuka M - LOVE B.B.B (rs\_fadeaway) \[Extra\]](https://osu.ppy.sh/beatmapsets/143457#osu/758189)
@@ -228,8 +222,6 @@ This competition has come to an end and resulted in the following podium:
   - [cYsmix feat. Emmy - Tear Rain (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/140805#osu/351513)
 - Tiebreaker
   - **[KOAN Sound & Asa - Tetsuo's Redemption (Billain Remix) (Aiceo) \[Redemption\]](https://osu.ppy.sh/beatmapsets/354022#osu/779964)**
-
----
 
 ## Match results
 
@@ -524,8 +516,6 @@ Monday, 29 January 2018:
 | I3 | \[Nii-san\] ![][flag_PL] | 0 | **4** | ![][flag_CL] **Yumbtah** | *win by default* |
 | I2 | **TiltBoi** ![][flag_AT] | **4** | 0 | ![][flag_PL] \[Nii-san\] | *win by default* |
 | I4 | **Meow-Mix** ![][flag_CA] | **4** | 0 | ![][flag_PL] \[Nii-san\] | *win by default* |
-
----
 
 ## Ruleset
 

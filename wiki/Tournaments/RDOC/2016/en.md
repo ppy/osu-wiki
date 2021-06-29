@@ -15,7 +15,7 @@ The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elim
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2015-11-30/2015-12-25 |
-| Group Stage | 2016-01-09/2016-01-17 |
+| Group stage | 2016-01-09/2016-01-17 |
 | Round of 16 | 2016-01-23/2016-01-24 |
 | Quarterfinals | 2016-01-30/2016-01-31 |
 | Semifinals | 2016-02-06/2016-02-07 |
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[goreshit - o'er the flood \[The Flood Beneath\]](https://osu.ppy.sh/beatmapsets/51972#osu/181253)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Xelia - Illumiscape \[Another\]](https://osu.ppy.sh/beatmapsets/43960#osu/137840)
