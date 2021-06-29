@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2021 banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament is open to all players from Indonesia with a playcount of 3,000 or above in the osu!catch game mode regardless of rank. It is the ninth iteration of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament is open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It is the ninth iteration of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -54,7 +54,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 
 ## Participants
 
-Listed below are players who qualified into the Group Stage (along with their respective seeding and group placement) out of 35 registered players in total.
+Listed below are players who qualified into the Group stage (along with their respective seeding and group placement) out of 35 registered players in total.
 
 | Group | Seed A | Seed B | Seed C | Seed D |
 | :-- | :-- | :-- | :-- | :-- |
@@ -67,9 +67,9 @@ Listed below are players who qualified into the Group Stage (along with their re
 | G | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) |
 | H | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) |
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (87 MB)](https://drive.google.com/file/d/1cwjsNciDalNJmdqz6t1FQLbDY2sM2-vo/view)**
+**[Download the mappack here! (87 MB)](https://drive.google.com/file/d/1cwjsNciDalNJmdqz6t1FQLbDY2sM2-vo/view "Google Drive")**
 
 - NoMod
   - [CHiCO with HoneyWorks - Pride Kakumei (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/1394916#fruits/2879325)
