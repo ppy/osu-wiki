@@ -87,7 +87,7 @@ Oh, we've also officially added **Camellia**'s whole *Tera I/O* album (which was
 - [**Camellia - Flamewall**](https://osu.ppy.sh/beatmapsets/1270879) mapped by [riunosk](https://osu.ppy.sh/users/5594381)
 - **Camellia - BAD ACCESS (FROM A MOE MAID)**
 
-You surely already know what **Camellia** sounds like, but take a few previews m:
+You surely already know what **Camellia** sounds like, but take a few previews for good measure:
 
 ### Camellia - ΩΩPARTS
 
