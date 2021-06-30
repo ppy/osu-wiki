@@ -150,7 +150,7 @@ We grant free reverts for a user's direct previous username. Simply contact [acc
 
 Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32).
 
-We only grant this one time per account, so please consider carefully before requesting!
+Username reverts are limited to one per year, so please consider carefully before requesting!
 
 ### My username has been changed back/reverted!
 
