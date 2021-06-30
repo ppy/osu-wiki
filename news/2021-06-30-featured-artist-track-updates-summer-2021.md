@@ -16,7 +16,7 @@ New songs are also listed below along with any relevant ranked maps and an audio
 
 ---
 
-## [BilliumMoto / Dictate / Kurokotei](https://osu.ppy.sh/beatmaps/artists/45)
+## [BilliumMoto / Dictate / Kurokotei](https://osu.ppy.sh/beatmaps/artists/38)
 
 [![](https://assets.ppy.sh/artists/38/header.jpg)](https://osu.ppy.sh/beatmaps/artists/38)
 
@@ -267,7 +267,7 @@ One of our oldest artists **onumi** is back yet again with a couple more updates
 
 [![](https://assets.ppy.sh/artists/66/header.jpg)](https://osu.ppy.sh/beatmaps/artists/66)
 
-[*Station Earth - Cold Green Eyes feat. Roos Denayer](https://osu.ppy.sh/beatmapsets/371128) is an osu! classic at this point. The song's creator **Blue Marble** (previously known as **Station Earth**) re-designed the track in a whole new way, so we've added it to their Featured Artist listing!
+[*Station Earth - Cold Green Eyes feat. Roos Denayer*](https://osu.ppy.sh/beatmapsets/371128) is an osu! classic at this point. The song's creator **Blue Marble** (previously known as **Station Earth**) re-designed the track in a whole new way, so we've added it to their Featured Artist listing!
 
 ### Station Earth - Cold Green Eyes feat. Roos Denayer (Blue Marble VIP)
 
