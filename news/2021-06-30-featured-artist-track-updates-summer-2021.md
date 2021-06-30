@@ -60,7 +60,7 @@ This is the largest batch of them all — **24** tracks from osu!'s most idolize
   - [osu! beatmap](https://osu.ppy.sh/beatmapsets/366706) by [EphemeralFetish](https://osu.ppy.sh/users/4433793)
   - [osu! beatmap](https://osu.ppy.sh/beatmapsets/414543) by [Strategas](https://osu.ppy.sh/users/2971837)
   - [osu! beatmap](https://osu.ppy.sh/beatmapsets/882932) by [adioni](https://osu.ppy.sh/users/8894794)
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/524256) by [Curiossity](https://osu.ppy.sh/users/6490035). Yeah, there's four in the same mode. Variety is for chumps.
+  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/524256) by [Curiossity](https://osu.ppy.sh/users/6490035).
 - **Camellia feat. Nanahira - Petals**
   - [osu! beatmap](https://osu.ppy.sh/beatmapsets/564354) by [toybot](https://osu.ppy.sh/users/2848604)
   - [osu! beatmap](https://osu.ppy.sh/beatmapsets/592381) by [Kalibe](https://osu.ppy.sh/users/3376777)
