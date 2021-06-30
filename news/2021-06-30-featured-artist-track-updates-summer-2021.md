@@ -37,40 +37,40 @@ This is the largest batch of them all — **24** tracks from osu!'s most idolize
 - [**Camellia - ΩΩPARTS**](https://osu.ppy.sh/beatmapsets/1312143) mapped by [Realazy](https://osu.ppy.sh/users/918297)
 - [**Camellia - Another Xronixle**](https://osu.ppy.sh/beatmapsets/1178916) mapped by [rubies87](https://osu.ppy.sh/users/4949934)
 - **Camellia - flower of wilderness**
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/366928) by [ProfessionalBox](https://osu.ppy.sh/users/3250792)
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/399727) by [Alheak](https://osu.ppy.sh/users/3583061)
-    - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1131426) by [-mint-](https://osu.ppy.sh/users/8976576)
-    - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1154691) by [\[Zeth\]](https://osu.ppy.sh/users/9912966)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/366928) by [ProfessionalBox](https://osu.ppy.sh/users/3250792)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/399727) by [Alheak](https://osu.ppy.sh/users/3583061)
+  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1131426) by [-mint-](https://osu.ppy.sh/users/8976576)
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1154691) by [\[Zeth\]](https://osu.ppy.sh/users/9912966)
 - **Camellia - GHOST (2020 Halloween+++++++++ VIP)**
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1438177) by [h i f u](https://osu.ppy.sh/users/11843685)
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1279354) by [IOException](https://osu.ppy.sh/users/2688103)
-    - [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1301991) by [Spectator](https://osu.ppy.sh/users/702598)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1438177) by [h i f u](https://osu.ppy.sh/users/11843685)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1279354) by [IOException](https://osu.ppy.sh/users/2688103)
+  - [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1301991) by [Spectator](https://osu.ppy.sh/users/702598)
 - **Camellia - K.Y.A.F.A.**
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/414034) by [DeRandom Otaku](https://osu.ppy.sh/users/5156153)
-    - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/477233) by [Evening](https://osu.ppy.sh/users/2193881)
-    - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/460282) by [SKSalt](https://osu.ppy.sh/users/3280542)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/414034) by [DeRandom Otaku](https://osu.ppy.sh/users/5156153)
+  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/477233) by [Evening](https://osu.ppy.sh/users/2193881)
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/460282) by [SKSalt](https://osu.ppy.sh/users/3280542)
 - [**Camellia - Kamah (Scythe)**](https://osu.ppy.sh/beatmapsets/1314013) mapped by [Ticle](https://osu.ppy.sh/users/11602148)
 - [**Camellia - Looking for Edge of Ground**](https://osu.ppy.sh/beatmapsets/1175337) mapped by [Mir](https://osu.ppy.sh/users/8688812)
 - **Camellia - Newspapers for Magicians**
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/938426) by [Mir](https://osu.ppy.sh/users/8688812)
-    - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/929143) by [Leniane](https://osu.ppy.sh/users/7138602)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/938426) by [Mir](https://osu.ppy.sh/users/8688812)
+  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/929143) by [Leniane](https://osu.ppy.sh/users/7138602)
 - **Camellia - Qyoh (Nine Stars)**
 - **Camellia - WE ARE \*NOT\* CURZED**
 - **Camellia & DJ Genki - Feelin Sky**
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/366706) by [EphemeralFetish](https://osu.ppy.sh/users/4433793)
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/414543) by [Strategas](https://osu.ppy.sh/users/2971837)
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/882932) by [adioni](https://osu.ppy.sh/users/8894794)
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/524256) by [Curiossity](https://osu.ppy.sh/users/6490035). Yeah, there's four in the same mode. Variety is for chumps.
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/366706) by [EphemeralFetish](https://osu.ppy.sh/users/4433793)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/414543) by [Strategas](https://osu.ppy.sh/users/2971837)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/882932) by [adioni](https://osu.ppy.sh/users/8894794)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/524256) by [Curiossity](https://osu.ppy.sh/users/6490035). Yeah, there's four in the same mode. Variety is for chumps.
 - **Camellia feat. Nanahira - Petals**
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/564354) by [toybot](https://osu.ppy.sh/users/2848604)
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/592381) by [Kalibe](https://osu.ppy.sh/users/3376777)
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/707371) by [b00](https://osu.ppy.sh/users/3929650)
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1320797) by [AkameREK](https://osu.ppy.sh/users/11110052)
-    - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1415492) by [-Dusk](https://osu.ppy.sh/users/6092181)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/564354) by [toybot](https://osu.ppy.sh/users/2848604)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/592381) by [Kalibe](https://osu.ppy.sh/users/3376777)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/707371) by [b00](https://osu.ppy.sh/users/3929650)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1320797) by [AkameREK](https://osu.ppy.sh/users/11110052)
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1415492) by [-Dusk](https://osu.ppy.sh/users/6092181)
 - [**Camellia feat. Nanahira - Touryouka**](https://osu.ppy.sh/beatmapsets/1022167) by [jonathanlfj](https://osu.ppy.sh/users/270377)
 - **Camellia feat. Yukacco - Be Wild**
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/795610) by [Netrunner](https://osu.ppy.sh/users/4574165)
-    - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/890491) by [AHHHHHHHHHHHHHH](https://osu.ppy.sh/beatmapsets/890491)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/795610) by [Netrunner](https://osu.ppy.sh/users/4574165)
+  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/890491) by [AHHHHHHHHHHHHHH](https://osu.ppy.sh/beatmapsets/890491)
 
 Oh, we've also officially added **Camellia**'s whole *Tera I/O* album (which was designed specifically for rhythm game mapping!):
 
@@ -78,8 +78,8 @@ Oh, we've also officially added **Camellia**'s whole *Tera I/O* album (which was
 - [**Camellia - 1nput This 2 Y0ur Spine**](https://osu.ppy.sh/beatmapsets/1266639) mapped by [Mir](https://osu.ppy.sh/users/8688812)
 - **Camellia - Dance with Silence**
 - **Camellia - Compute It With Some Devilish Alcoholic Steampunk Engines**
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1268030) by [OneShotFox](https://osu.ppy.sh/users/8840398)
-    - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1280590) by [DeRandom Otaku](https://osu.ppy.sh/users/5156153)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1268030) by [OneShotFox](https://osu.ppy.sh/users/8840398)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1280590) by [DeRandom Otaku](https://osu.ppy.sh/users/5156153)
 - **Camellia - Fly Wit Me**
 - **Camellia - +ERABY+E CONNEC+10N**
 - **Camellia - Tera I/O**
