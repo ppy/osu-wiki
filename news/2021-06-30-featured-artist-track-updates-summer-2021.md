@@ -20,7 +20,7 @@ New songs are also listed below along with any relevant ranked maps and an audio
 
 [![](https://assets.ppy.sh/artists/38/header.jpg)](https://osu.ppy.sh/beatmaps/artists/38)
 
-Coming as a surprise to nobody, we've officially added [**TWC Sound Team "Zeroth Powers" - One One**](https://osu.ppy.sh/beatmapsets/1422682) from the TWC world cup grand finals to the Featured Artist listings for [BilliumMoto](https://osu.ppy.sh/users/3862471), [Dictate](https://osu.ppy.sh/beatmaps/artists/21), and [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58)! Maybe we'll have a listing for *Johnson Solid* one day too.
+Coming as a surprise to nobody, we've officially added [**TWC Sound Team "Zeroth Powers" - One One**](https://osu.ppy.sh/beatmapsets/1422682) from the [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021) Grand Finals to the Featured Artist listings for [BilliumMoto](https://osu.ppy.sh/users/3862471), [Dictate](https://osu.ppy.sh/beatmaps/artists/21), and [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58)! Maybe we'll have a listing for *Johnson Solid* one day too.
 
 ### TWC Sound Team "Zeroth Powers" - One One
 
@@ -105,7 +105,7 @@ You surely already know what **Camellia** sounds like, but take a few previews f
 
 [![](https://assets.ppy.sh/artists/68/header.jpg)](https://osu.ppy.sh/beatmaps/artists/68)
 
-And we can't forget the osu!catch world cup! [**Frums - of Ambrosia**](https://osu.ppy.sh/beatmapsets/1478486) was debuted as the tournament's grand finals tiebreaker. Like *Camellia - ΩΩPARTS* and *TWC Sound Team "Zeroth Powers" - One One*, this track was specifically created for the world cups — a trend you'll likely see going forward!
+And we can't forget the [osu!catch World Cup](/wiki/Tournaments/CWC/2021)! [**Frums - of Ambrosia**](https://osu.ppy.sh/beatmapsets/1478486) was debuted as the tournament's grand finals tiebreaker. Like *Camellia - ΩΩPARTS* and *TWC Sound Team "Zeroth Powers" - One One*, this track was specifically created for the world cups — a trend you'll likely see going forward!
 
 ### Frums - of Ambrosia
 
