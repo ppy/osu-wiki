@@ -61,7 +61,7 @@ Apabila anggota layanan dukungan kami memintamu untuk memberikan berkas-berkas *
 3. Pada Event Viewer, tuju sisi kiri layar dan klik `Windows Logs` dan lalu `Application`.
 4. Klik `Filter current log` yang ada pada sisi kanan layar.
 5. Pada jendela filter yang terbuka, pastikan pilihan `Error` telah tercentang dan klik `OK` setelahnya.
-6. Tekan `CTRL` + `F` dan ketik `osu!` pada kolom pencarian yang tertera. Event Viewer akan mulai mencari berkas-berkas *crash log* yang terkait dengan osu!.
+6. Tekan `Ctrl` + `F` dan ketik `osu!` pada kolom pencarian yang tertera. Event Viewer akan mulai mencari berkas-berkas *crash log* yang terkait dengan osu!.
 7. Tuju tab `Details` dan bentangkan `System` dan `Event Data` sebagaimana yang diminta oleh anggota layanan dukungan kami.
 8. Lampirkan data-data tersebut pada tiket layanan dukungan (*support ticket*) atau utas forum yang terkait.
 
