@@ -5,7 +5,7 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Willkommen zu der osu! wiki. Ein Projekt was eine große Reichweite an osu! basierten Informationen beinhaltet.
+Willkommen zum osu!-Wiki. Ein Projekt, das eine große Reichweite an osu!-basierten Informationen beinhaltet.
 </div>
 
 <div class="wiki-main-page__panels">
@@ -29,27 +29,27 @@ Willkommen zu der osu! wiki. Ein Projekt was eine große Reichweite an osu! basi
 
 # Spielverlauf
 
-[Spielmodis](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
+[Spielmodi](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
 [Beatmap](/wiki/Beatmap) • [Hit-Objekte](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Punktzahl](/wiki/Score) • [Wiederholung](/wiki/Replay) • [Multi](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# [Beatmap editor](/wiki/Beatmap_Editor)
+# [Beatmap-Editor](/wiki/Beatmap_Editor)
 
-Sections: [Zusammenstellung](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song-Einstellung](/wiki/Beatmap_Editor/Song_Setup)
+Abschnitte: [Zusammenstellung](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song-Einstellung](/wiki/Beatmap_Editor/Song_Setup)
 
-Komponenten: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Schlagschnellteiler](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Schlagschnellteiler](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB Ladung](/wiki/Beatmap_Editor/SB_Load) • [Zeitleisten](/wiki/Beatmap_Editor/Timelines)
+Komponenten: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Taktteiler](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menü](/wiki/Beatmap_Editor/Menu) • [SB-Belastung](/wiki/Beatmap_Editor/SB_Load) • [Zeitleisten](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Schwierigkeitsgrade](/wiki/Beatmap/Difficulty) • [Mapping Techniken](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+[Beatmapping](/wiki/Beatmapping) • [Schwierigkeitsgrade](/wiki/Beatmap/Difficulty) • [Mapping-Techniken](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Beatmap-Einreichung und Ranking
 
-[Einreichen](/wiki/Submission) • [Modding](/wiki/Modding) • [Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) • [Mappers' Gilde](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
+[Einreichen](/wiki/Submission) • [Modding](/wiki/Modding) • [Ranking-Verfahren](/wiki/Beatmap_ranking_procedure) • [Mapper-Gilde](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
 [Ranking-Kriterien](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -58,7 +58,7 @@ Komponenten: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Schlagschnellteiler](/wiki
 
 # Community
 
-[Turniere](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projekte](/wiki/Projects) • [Anleitungen](/wiki/Guides) • [osu!dev Discord server](/wiki/osu!dev_Discord_server) • [Wie Sie helfen können](/wiki/How_You_Can_Help!) • [Glossar](/wiki/Glossary)
+[Turniere](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projekte](/wiki/Projects) • [Anleitungen](/wiki/Guides) • [osu!dev-Discord-Server](/wiki/osu!dev_Discord_server) • [Wie Du helfen kannst](/wiki/How_You_Can_Help!) • [Glossar](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -69,19 +69,19 @@ Komponenten: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Schlagschnellteiler](/wiki
 
 Organisationen: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
-[Community Beiträger](/wiki/People/Community_Contributors) • [Benutzer mit besonderen Titeln](/wiki/People/Users_with_unique_titles)
+[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Benutzer mit besonderen Titeln](/wiki/People/Users_with_unique_titles)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Für Entwickler
 
-[API](/wiki/osu!api) • [Bot Account](/wiki/Bot_account) • [Richtlinien zur Markenidentität](/wiki/Brand_identity_guidelines)
+[API](/wiki/osu!api) • [Bot-Account](/wiki/Bot_account) • [Richtlinien zur Markenidentität](/wiki/Brand_identity_guidelines)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Über die Wiki
+# Über das Wiki
 
 [Inhaltsverzeichnis](/wiki/Sitemap) • [Anleitung zum Beitragen](/wiki/osu!_wiki_Contribution_Guide) • [Kriterien für die Artikelgestaltung](/wiki/Article_Styling_Criteria) • [Kriterien für die Gestaltung von Nachrichten](/wiki/News_Styling_Criteria)
 
