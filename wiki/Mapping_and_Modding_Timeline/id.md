@@ -88,6 +88,9 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 - **2010-10-03:** Anggota-anggota MAT diberikan kuasa untuk menyematkan ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) pada beatmap.
   - Perubahan ini utamanya dipicu oleh fakta di lapangan yang mengindikasikan bahwa sistem proto-bubble yang diberlakukan sebelumnya tidak dianggap penting oleh anggota-anggota BAT.
   - Secara tidak langsung, anggota-anggota MAT diberikan peran dan tanggung jawab yang lebih besar dalam hal moderasi beatmap. <!-- https://osu.ppy.sh/community/forums/topics/38403 -->
+- **2010-10-10:** Anggota-anggota MAT tidak lagi dapat secara langsung mencalonkan atau memberikan masukan seputar nama-nama yang diangkat sebagai MAT ke depannya.
+  - Peraturan ini diberlakukan untuk mencegah praktek kolusi internal yang dikhawatirkan dapat terjadi setelah MAT diberikan kuasa untuk menyematkan ikon bubble.
+  - Anggota-anggota BAT diberikan tanggung jawab penuh untuk menentukan siapa-siapa saja yang diangkat ke dalam dan diberhentikan dari MAT seiring waktu.<!-- https://osu.ppy.sh/community/forums/topics/38806 -->
 
 ### Desember
 
@@ -110,9 +113,6 @@ Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
 
 - **2011-10-08:** [Sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87) dibuka secara publik sebagai wadah bagi para anggota komunitas untuk dapat berdiskusi seputar hal-hal yang berhubungan dengan [Ranking Criteria](/wiki/Ranking_Criteria) secara luas.
   - Diskusi-diskusi yang menyangkut Ranking Criteria sebelumnya hanya dibatasi kepada anggota-anggota BAT pada sub-forum yang bersifat rahasia. <!-- date is not exact. the earliest thread in the subforum was posted on 2011-10-08 -->
-- **2011-10-10:** Anggota-anggota MAT tidak lagi dapat secara langsung mencalonkan atau memberikan masukan seputar nama-nama yang diangkat sebagai MAT ke depannya.
-  - Peraturan ini diberlakukan untuk mencegah praktek kolusi internal yang dikhawatirkan dapat terjadi setelah MAT diberikan kuasa untuk menyematkan ikon bubble.
-  - Anggota-anggota BAT diberikan tanggung jawab penuh untuk menentukan siapa-siapa saja yang diangkat ke dalam dan diberhentikan dari MAT seiring waktu.<!-- https://osu.ppy.sh/community/forums/topics/38806 -->
 
 Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011. Tahun ini merupakan tahun pertama dalam sejarah osu! di mana jumlah beatmap Ranked per tahunnya mengalami penurunan setelah pada 4 tahun sebelumnya angka ini selalu bertambah dari tahun ke tahun.
 

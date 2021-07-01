@@ -88,6 +88,9 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 - **03/10/2010 :** Les MAT ont été autorisés à proposer des beatmaps pour le classement avec des icônes "bubble" normales (![icône bubble](/wiki/shared/icon/bubble.gif)), par opposition aux proto-bulles.
   - Les proto-bulles étaient ignorées par la plupart des membres du BAT, et le MAT n'avait donc aucune utilité sans ce changement.
   - Cela a donné aux MAT beaucoup plus d'influence dans le processus de classement.
+- **10/10/2010 :** Les membres du MAT n'étaient plus autorisés à nommer ou à voter pour les nouveaux membres de leur équipe.
+  - Ayant obtenu des autorisations pour placer des bubbles, il a été supposé que le MAT voterait pour son propre intérêt, ce qui a été empêché avant que des dommages ne soient causés.
+  - Les BAT ont acquis l'entière responsabilité des ajouts des MAT.
 
 ### December
 
@@ -110,9 +113,6 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 - **08/10/2011 :** Le sous-forum [Ranking Criteria](https://osu.ppy.sh/community/forums/87) est ouvert à la discussion publique sur les propositions des [critères de classement](/wiki/Ranking_Criteria).
   - Ces discussions étaient auparavant tenues par les membres du BAT dans un sous-forum privé.
-- **10/10/2011 :** Les membres du MAT n'étaient plus autorisés à nommer ou à voter pour les nouveaux membres de leur équipe.
-  - Ayant obtenu des autorisations pour placer des bubbles, il a été supposé que le MAT voterait pour son propre intérêt, ce qui a été empêché avant que des dommages ne soient causés.
-  - Les BAT ont acquis l'entière responsabilité des ajouts des MAT.
 
 **1368 beatmaps** ont été classées en 2011. Il s'agit de la première baisse après 4 années de croissance consécutives.
 

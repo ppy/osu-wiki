@@ -88,6 +88,9 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2010-10-03:** MAT were granted permission to nominate beatmaps for ranking with normal `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icons, as opposed to proto-bubbles.
   - Proto-bubbles were ignored by most BAT members, so the MAT had no purpose without this change.
   - This gave MAT considerably more influence in the ranking process.<!-- https://osu.ppy.sh/community/forums/topics/38403 -->
+- **2010-10-10:** MAT members were no longer allowed to nominate or vote on new additions to their team.
+  - Having gained bubbling permissions, it was assumed that the MAT would vote for personal gain, so this was prevented before damage could be done.
+  - The BAT gained full responsibility for MAT additions.<!-- https://osu.ppy.sh/community/forums/topics/38806 -->
 
 ### December
 
@@ -110,9 +113,6 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2011-10-08:** [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) opened for public discussion on [Ranking Criteria](/wiki/Ranking_Criteria) proposals.
   - These discussions were previously held by BAT members in a private subforum. <!-- date is not exact. the earliest thread in the subforum was posted on 2011-10-08 -->
-- **2011-10-10:** MAT members were no longer allowed to nominate or vote on new additions to their team.
-  - Having gained bubbling permissions, it was assumed that the MAT would vote for personal gain, so this was prevented before damage could be done.
-  - The BAT gained full responsibility for MAT additions.<!-- https://osu.ppy.sh/community/forums/topics/38806 -->
 
 **1368 beatmaps** were ranked in 2011. This was the first decline after 4 years of consecutive growth.
 
