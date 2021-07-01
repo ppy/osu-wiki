@@ -21,6 +21,7 @@ The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 o
 | Quarterfinals | 2021-05-08/2021-05-09 |
 | Semifinals | 2021-05-15/2021-05-16 |
 | Finals | 2021-05-22/2021-05-23 |
+| Grand Finals | 2021-05-29 |
 
 ## Prizes
 
@@ -38,9 +39,10 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
 | :-- | :-- |
 | Organiser | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
 | Mappool selector | ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
-| Referee | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364) |
+| Referee | ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364), ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710) |
 | Streamer | ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442) |
 | Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
+| Statistician | ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
