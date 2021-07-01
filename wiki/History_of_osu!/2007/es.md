@@ -67,7 +67,7 @@ Rápidamente después del lanzamiento público, los primeros mods, [Easy](/wiki/
 
 ## Octubre
 
-2007-10-01 fue el día en que las clasificaciones en línea se pusieron a disposición públicamente. Esto también vio el lanzamiento del método de empaquetado `.osz`, y la base de datos de beatmaps en línea con un sistema de envío temprano basado en la web. Las clasificaciones en línea fueron añadidas a la interfaz dentro del juego y también mostradas en la página.
+2007-10-06 fue el día en que las clasificaciones en línea se pusieron a disposición públicamente. Esto también vio el lanzamiento del método de empaquetado `.osz`, y la base de datos de beatmaps en línea con un sistema de envío temprano basado en la web. Las clasificaciones en línea fueron añadidas a la interfaz dentro del juego y también mostradas en la página.
 
 ![](img/2007-10_01.jpg)
 
@@ -93,7 +93,7 @@ El rango SS fue agregado al sistema de calificaciones, reemplazando el resultado
 
 ![](img/2007-11_03.jpg "Testeando el uso de IRC")
 
-El [Sistema de envío de Beatmaps](/wiki/Glossary#bss) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo Las secciones de mapas pendientes y mapas rankeados lo que ayudó a organizar la creciente y rápida colección de beatmaps subidos por los usuarios. Chat dentro del juego fue introducido, con un cliente IRC construido desde cero y conectado a un servidor IRC estándar (Aún no existe Bancho) El chat ampliado era visible. Avatars y estadísticas básicas se mostraban en el juego (usando una comunicación basada en http). Los controles de audio también se agregaron al menú principal, el cual ahora también reproduce una canción aleatoria al inicio. Las repeticiones podian ser vistas, tanto para los records locales como para los records subidos. Los jugadores pueden espectar a otros (¡Y los datos del espectador eran enviadas en bruto via IRC!).
+El [Sistema de envío de Beatmaps](/wiki/Submission) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo Las secciones de mapas pendientes y mapas rankeados lo que ayudó a organizar la creciente y rápida colección de beatmaps subidos por los usuarios. Chat dentro del juego fue introducido, con un cliente IRC construido desde cero y conectado a un servidor IRC estándar (Aún no existe Bancho) El chat ampliado era visible. Avatars y estadísticas básicas se mostraban en el juego (usando una comunicación basada en http). Los controles de audio también se agregaron al menú principal, el cual ahora también reproduce una canción aleatoria al inicio. Las repeticiones podian ser vistas, tanto para los records locales como para los records subidos. Los jugadores pueden espectar a otros (¡Y los datos del espectador eran enviadas en bruto via IRC!).
 
 ## Diciembre
 

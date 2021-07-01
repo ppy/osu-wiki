@@ -32,7 +32,7 @@ The following outline just a few of the ways you can help out others:
   - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
-- Mark the forum as read using the link at the top right.
+- Mark the forum as read using the link at bottom.
 - Follow any new threads, reading each one and helping-out when you can; you can use the unread icons to make sure you keep up.
 - Read the [available guides](/wiki/Guides) to polish-up your osu! knowledge. If the guides in there don't satisfy you, then you can try contributing to them!
 

@@ -86,8 +86,8 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 - `Ctrl` + `Backspace`: Supprime le dernier mot(quand vous utilisez la fonction recherche)
 - `Up`: Bouge vers le haut le sélecteur d'une map
 - `Down`: Bouge vers le haut le sélecteur d'une map
-- `Left`: Change d'un beatmapset plus haut
-- `Right`: Change d'un beatmapset plus bas
+- `Left`: Change d'une beatmap plus haut
+- `Right`: Change d'une beatmap plus bas
 - `Page Up`: Défile vers le haut
 - `Page Down`: Défile vers le bas
 - `Enter`: Sélectionne une sélection ou joue une sélection
@@ -114,7 +114,7 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 - `S`, puis `S`: [Perfect](/wiki/Perfect)
 - `D`: [Double Time](/wiki/Double_Time)
 - `D`, puis `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, et osu!catch)
+- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, et osu!catch)
   - cela activera [Fade In](/wiki/Fade_In) pour osu!mania
 - `F`, puis `F`: [Hidden](/wiki/Hidden) (seulement pour osu!mania)
 - `G`: [Flashlight](/wiki/Flashlight)

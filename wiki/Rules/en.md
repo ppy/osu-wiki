@@ -38,7 +38,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 
 *Note: These rules apply to **all submitted maps**, not just Ranked ones. For more specific rules regarding Ranked beatmaps, see the [Ranking Criteria](/wiki/Ranking_Criteria).*
 
-These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Glossary#bss). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Beatmap_Editor).
+These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Submission). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Beatmap_Editor).
 
 1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hitsounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, check out our growing [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library for music 100% licensed for use in osu! and the [Content Usage Guidelines](Content_Usage_Guidelines) for more information.
 2. **Stay on topic in Beatmap discussions.** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.

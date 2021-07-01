@@ -1,10 +1,6 @@
----
-no_native_review: true
-outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
----
-
 # Modlama
+
+*Diğer kullanımlar için, bakınız: [Mod (anlam ayrımı)](/wiki/Disambiguation/Mod).*
 
 Bir başkasının [beatmapine](/wiki/Beatmap) geri bildirim sağlama eylemine **modlama** denir. Modlama işlemini yapan bir kullanıcı *modlayıcı*, ve onların beatmapin tartışma kısmındaki toplu gönderileri ise *mod* olarak adlandırılır.
 
@@ -33,7 +29,7 @@ Bir sorun ile karşı karşıya geldiğinizde, ilgili vuruş objelerini seçin, 
 
 Tüm mod gönderileri sorunun ne olduğunu, bunun neden bir sorun yarattığını, ve nasıl çözülmesi gerektiğini ele almalıdır. Mod gönderilerinin nasıl düzenlendiği hakkında daha fazla detay için [Modlama ve Mapleme Etik Çalışma Kurallarına](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) bakınız.
 
-Beatmapperlar yardımcı olduğunu düşündükleri mod gönderilerine *yukarı baş parmak* oy butonuna tıklayarak sık sık [kudosu](/wiki/Glossary#kudosu!) sağlarlar. Bu istatistik her bir bireyin profilinde tutulur ve [Beatmap Aday Göstericilere](/wiki/People/The_Team/Beatmap_Nominators) katılmak için başvururken referans alınır.
+Beatmapperlar yardımcı olduğunu düşündükleri mod gönderilerine *yukarı baş parmak* oy butonuna tıklayarak sık sık [kudosu](/wiki/Modding/Kudosu) sağlarlar. Bu istatistik her bir bireyin profilinde tutulur ve [Beatmap Aday Göstericilere](/wiki/People/The_Team/Beatmap_Nominators) katılmak için başvururken referans alınır.
 
 ## Mod gönderilerinin türleri
 

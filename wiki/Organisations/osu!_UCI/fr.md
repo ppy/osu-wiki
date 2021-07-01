@@ -1,21 +1,25 @@
 ---
-outdated: true
 tags:
-  - Californie
-  - Club
-  - Collège
+  - California
+  - club
+  - college
   - Irvine
-  - Université
+  - university
+  - Californie
+  - collège
+  - université
 ---
 
 # osu! UCI
 
-**osu! UCI** est un club osu! centré sur le jeu et la discussion à l’Université de Californie à Irvine (*UCI*). Ils organisent divers événements, notamment des tournois LAN saisonniers et des rencontres hebdomadaires.
+**osu! UCI** est un club osu! centré sur la pratique et la discussion du jeu à l'Université de Californie, Irvine (*UCI*). Ils organisent une variété d'événements, notamment des tournois LAN saisonniers et des rencontres hebdomadaires.
+
+Voir l'[index des tournois osu! UCI](/wiki/Tournois/osu!_UCI) pour des articles wiki sur certains des événements LAN.
 
 ## Liens
 
-- **[Site internet](http://www.osuuci.com)**
-- [Serveur Discord](https://discord.gg/qbZddFV)
+- **[Site web](http://www.osuuci.com)**
+- [Serveur discord](https://discord.gg/qbZddFV)
 - [Groupe Facebook](https://www.facebook.com/groups/osuuci/)
 - [Chaîne Twitch](https://www.twitch.tv/osuuci)
 - [Twitter](https://twitter.com/osuUCI)
@@ -24,13 +28,15 @@ tags:
 
 ### Actuel
 
-- ![][flag_US] Alex "[Riku](https://osu.ppy.sh/users/3071659)" Liu (*Président*)
+- ![][flag_US] Alex "[Riku on osu](https://osu.ppy.sh/users/3071659)" Liu (*Président*)
 - ![][flag_US] Adrien "[R34pling](https://osu.ppy.sh/users/7662172)" Huynh Huu
-- ![][flag_US] Jason "[jlin_02](https://osu.ppy.sh/users/13192092)" Lin
+- ![][flag_US] Jason "[[Blue]](https://osu.ppy.sh/users/13192092)" Lin
 - ![][flag_US] Jonathan "[ilalalayou](https://osu.ppy.sh/users/3144766)" Cheng
 - ![][flag_US] Julissa "[phamitsu](https://osu.ppy.sh/users/13045418)" Becerra
+- ![][flag_US] Khiem "[PingusKhan](https://osu.ppy.sh/users/9648050)" Dinh
+- ![][flag_US] Loc "[Sukida](https://osu.ppy.sh/users/4097867)" Trinh
 - ![][flag_US] Megan "[migin](https://osu.ppy.sh/users/11118735)" Ikemoto
-- ![][flag_US] Nicholas "[_Breeze](https://osu.ppy.sh/users/9726582)" Budding
+- ![][flag_US] Nicholas "[[Nick]](https://osu.ppy.sh/users/9726582)" Budding
 
 ### Alumni
 
@@ -49,5 +55,5 @@ tags:
 - ![][flag_US] Shannon "[iShipxx](https://osu.ppy.sh/users/7546335)" Chen
 - ![][flag_US] Victor "[lalipo](https://osu.ppy.sh/users/2584801)" Stolle
 
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

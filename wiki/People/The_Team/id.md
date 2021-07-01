@@ -21,7 +21,6 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!t
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Koordinator umum, pengelola Featured Artist Project dan proyek-proyek komunitas lainnya, penjangkau Featured Artist |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin tim desain, pemerhati Creative Cloud |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Penasihat bidang *mapping* dan *modding* |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Pengurus dan penyelenggara World Cup |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Penasihat bidang *mapping* dan *modding* |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Pengembang situs web osu! (osu!web) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Pengasuh umum, penasihat bidang moderasi komunitas |
@@ -34,7 +33,6 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!t
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, pecinta osu!mania, penumpas *bug* |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat bidang pengembangan komunitas, penjangkau Featured Artist |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, penyelenggara turnamen |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, penyelenggara turnamen, pemelihara osu!wiki |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
 Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_support_team) (*account support team*) yang bergerak secara terpisah untuk membantu menangani berbagai permasalahan yang bersifat pribadi.
@@ -65,6 +63,7 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggo
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Pembawa acara osu! Coffee Hour, penyiar World Cup, penyelenggara turnamen |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, perekayasa infrastruktur *backend* sistem osz2 dan p2p |
 | ![][flag_US] Jim | Perancang situs dan penyedia layanan *hosting* pada awal mula berdirinya osu!. [Brave New Games](http://www.bravegamer.com/) |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Pengurus dan penyelenggara World Cup |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Pengurus dan penyelenggara World Cup, pemimpin QAT, manajer komunitas |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Perancang skin ulung, kontributor utama skin *default* dan set ikon bawaan osu! pada masanya. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, perekayasa algoritma mm slider |
@@ -76,6 +75,7 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggo
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masanya, kontributor utama proyek *meeting minutes* dan artikel FAQ |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan sistem *performance point* (pp) |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Pengembang osu! dan mode osu!mania |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, pengurus dan penyelenggara World Cup, pemelihara osu!wiki |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Manajer [osu!store](https://osu.ppy.sh/store/listing) |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/osu!academy), pengendali media dan rupa karakter |
 

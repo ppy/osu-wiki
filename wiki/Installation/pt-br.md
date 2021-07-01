@@ -32,7 +32,7 @@ Se você está usando o Windows 7 64-bit, você pode ter dificuldades em instala
 - Tente reinstalar a última versão do .NET Framework. [Encontre-o aqui](https://dotnet.microsoft.com/download).
 - Limpe seu PC - Escaneie com anti-virus, limpe o registro. Um bom programa para limpeza geral é o CCleaner. Escaneie seus arquivos e seu registro. O instalador pode falhar se existe entradas no registro de uma cópia antiga do osu! no seu sistema.
 
-## Adicionando beatmapsets
+## Adicionando beatmaps
 
 *Veja também: [Beatmaps](/wiki/Beatmap)*
 
@@ -42,10 +42,10 @@ Existe duas formas de adicionar beatmaps, via website ou osu!direct (requer [osu
 
 1. Vá para [página de listagem de beatmaps](https://osu.ppy.sh/beatmapsets) e entre com sua conta.
 2. Encontre uma música que você gostaria de jogar.
-3. Clique no ícone de download para salvar o beatmapset em seu computador.
-4. Localize e abra o arquivo do beatmapset, ele tem a extensão `.osz`
-   - Alternativamente, você também pode colocar o arquivo do beatmapset na pasta `Songs` da instalação do osu!
-5. osu! vai cuidar do resto e carregar o beatmapset.
+3. Clique no ícone de download para salvar o beatmap em seu computador.
+4. Localize e abra o arquivo do beatmap, ele tem a extensão `.osz`
+   - Alternativamente, você também pode colocar o arquivo do beatmap na pasta `Songs` da instalação do osu!
+5. osu! vai cuidar do resto e carregar o beatmap.
    - Se, por algum motivo, você não o vê, pressione `F5` na [Seleção de música](/wiki/Interface#song-selection-screen) para reprocessar seus beatmaps.
 
 ### osu!direct
@@ -55,8 +55,8 @@ Existe duas formas de adicionar beatmaps, via website ou osu!direct (requer [osu
 1. Abra osu! e clique no botão osu!direct no lado direito da tela principal.
 2. Encontre uma música que você gostaria de jogar.
 3. Clique duas vezes na música na lista ou clique `Download` na direita para baixar.
-   - Se você não quer baixar o vídeo do beatmapset, então clique em `DL NoVideo`.
-4. Quando osu! baixar o beatmapset, ele carregará automaticamente.
+   - Se você não quer baixar o vídeo do beatmap, então clique em `DL NoVideo`.
+4. Quando osu! baixar o beatmap, ele carregará automaticamente.
    - Se, por algum motivo, você não o vê, pressione `F5` na [Seleção de música](/wiki/Interface#song-selection-screen) para reprocessar seus beatmaps.
 
 ## Adicionando skins

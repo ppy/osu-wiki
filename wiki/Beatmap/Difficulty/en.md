@@ -11,7 +11,7 @@ tags:
 
 *Not to be confused with [Beatmap](/wiki/Beatmap).*
 
-A beatmap's **difficulty** is a game level, which is stored as a text file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). It consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Glossary#timing-section) tailored to a specific song. Difficulties have different aspects, which directly affect user experience. The difficulty name and [star rating](/wiki/Beatmapping/Star_rating) usually give enough information to tell how challenging it is.
+A beatmap's **difficulty** is a game level, which is stored as a text file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). It consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Beatmapping/Timing_section) tailored to a specific song. Difficulties have different aspects, which directly affect user experience. The difficulty name and [star rating](/wiki/Beatmapping/Star_rating) usually give enough information to tell how challenging it is.
 
 The hit objects of a difficulty compose [patterns](/wiki/Beatmap/Pattern), which also vary per game mode and set the tone for overall look and feel of how a difficulty should be played. The gameplay of beatmap difficutlies can also be altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) set by the beatmap's author or toggled by [game modifiers](/wiki/Game_modifier).
 
@@ -32,12 +32,12 @@ These are the typical levels of difficulty that a beatmap can fall under. Specif
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Insane
-- ![](/wiki/shared/diff/expert-s.png) Expert
-- ![](/wiki/shared/diff/expertplus-s.png) Expert+
+- ![](/wiki/shared/diff/easy-o.png) Easy
+- ![](/wiki/shared/diff/normal-o.png) Normal
+- ![](/wiki/shared/diff/hard-o.png) Hard
+- ![](/wiki/shared/diff/insane-o.png) Insane
+- ![](/wiki/shared/diff/expert-o.png) Expert
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -72,11 +72,11 @@ These are the typical levels of difficulty that a beatmap can fall under. Specif
 
 On the website, beatmaps are automatically given a difficulty icon based on these star rating ranges:
 
-- ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
-- ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
-- ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
-- ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
-- ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ and above
+- ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-o.png) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-o.png) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ and above
 
 The intended difficulty levels of most beatmaps match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) define more precise rules for determining difficulty and evaluating beatmaps spreads.

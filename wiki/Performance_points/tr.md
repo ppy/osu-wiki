@@ -42,7 +42,7 @@ Ağırlık sistemi, bir oyundan elde edilen toplam performans puanının hesapla
 
 [Yaklaşma oranı](/wiki/Beatmapping/Approach_rate) gibi elemanlar ve birtakım [modlar](/wiki/Game_modifier) (özellikle [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) ve [Hard Rock](/wiki/Game_modifier/Hard_Rock)) imleci çabuk ve isabetli bir şekilde yönlendirmeyi büyük ölçüde zorlaştırır, dolayısıyla skorun verdiği pp miktarını etkiler. 
 
-[osu!standard](/wiki/Game_mode/osu!)'daki durumda, arası çok açık [jumpların](/wiki/Beatmap/Pattern/Jump) olduğu beatmapler "nokta atışı" beatmapleri olarak bilinir, ve çoğunlukla yüksek pp skorları verir. Aynı şekilde, [osu!catch](/wiki/Game_mode/osu!catch)'teki daha çok hyperdash bulunan beatmapler de benzer şekilde değerlendirilir. [osu!taiko](/wiki/Game_mode/osu!taiko) ve [osu!mania](/wiki/Game_mode/osu!mania) gibi oyun modlarında hedefleme mekaniği bulunmaz.
+[osu!](/wiki/Game_mode/osu!)'daki durumda, arası çok açık [jumpların](/wiki/Beatmap/Pattern/Jump) olduğu beatmapler "nokta atışı" beatmapleri olarak bilinir, ve çoğunlukla yüksek pp skorları verir. Aynı şekilde, [osu!catch](/wiki/Game_mode/osu!catch)'teki daha çok hyperdash bulunan beatmapler de benzer şekilde değerlendirilir. [osu!taiko](/wiki/Game_mode/osu!taiko) ve [osu!mania](/wiki/Game_mode/osu!mania) gibi oyun modlarında hedefleme mekaniği bulunmaz.
 
 ### Hız
 
@@ -58,7 +58,7 @@ Bunun sonucu olarak [Double Time](/wiki/Game_modifier/Double_Time) ve [Half Time
 
 *İsabetlilik*, oyuncunun [vuruş objelerini](/wiki/Hit_object) zamanında vurma becerisini ölçen bir yüzdelik değerdir, pp algoritmasına göre ise oyuncunun bir beatmapteki bireysel performansını ölçmek için kullanılan bir çekirdek değerdir.
 
-Yüksek isabet oranına sahip skorlar algoritma tarafından oldukça etkileyici olarak algılanır, ve bu yüzden epey yüksek skorlar kazandırır. %80 isabet oranına sahip bir [full combo](/wiki/Glossary#fc) skor kimi zaman %95 isabet oranına sahip bir skorun 2/3'üne denk olabiliyor. Algoritma isabetliliği büyük ölçüde esas aldığından, Hidden, Hard Rock ve Flashlight gibi modların yüksek isabet oranına sahip skorlardan kazanılan pp miktarını büyük ölçüde arttırdığı bilinir.
+Yüksek isabet oranına sahip skorlar algoritma tarafından oldukça etkileyici olarak algılanır, ve bu yüzden epey yüksek skorlar kazandırır. %80 isabet oranına sahip bir [full combo](/wiki/Full_combo) skor kimi zaman %95 isabet oranına sahip bir skorun 2/3'üne denk olabiliyor. Algoritma isabetliliği büyük ölçüde esas aldığından, Hidden, Hard Rock ve Flashlight gibi modların yüksek isabet oranına sahip skorlardan kazanılan pp miktarını büyük ölçüde arttırdığı bilinir.
 
 ### Zorlanma
 
@@ -85,7 +85,7 @@ Aşağıdaki ipuçlarını göz önünde bulundurun:
 - Verimli bir şekilde oynayın ve sizin için hangi oyun tarzının en uygun olduğunu bulun.
 - Yüzlerce ortalama skor "farmlamaya" değil birkaç tane benzersiz skor elde etmeye odaklanın.
 - İsabet oranınızı geliştirmeye odaklanın. %1 bile büyük bir farka yol açar.
-- Yüksek komboları hedefleyin. Full combo (FC) veya [SS](/wiki/Glossary#grade) aşırı yüksek skorlar verir.
+- Yüksek komboları hedefleyin. Full combo (FC) veya [SS](/wiki/Grade) aşırı yüksek skorlar verir.
 
 ### Neden oynadığım bir mapten alabileceğim pp'nin tamamını alamadım?
 

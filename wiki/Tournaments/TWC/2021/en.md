@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2021 logo](/wiki/shared/news/banners/TWC_2021.jpg)
 
-The **osu!taiko World Cup 2021** (***TWC 2021***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eleventh installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eleventh installment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -31,14 +31,16 @@ The **osu!taiko World Cup 2021** (***TWC 2021***) is a country-based osu!taiko t
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
+![](img/badge1.png "TWC 2021 winner badge") ![](img/badge2.png "TWC 2021 2nd place badge") ![](img/badge3.png "TWC 2021 3rd place badge")
+
 ## Organisation
 
-The osu!taiko World Cup 2021 is run by various community members.
+The osu!taiko World Cup 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Mappool selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107) |
+| Mappool selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107) |
 | Commentator | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
 | Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
@@ -88,32 +90,34 @@ The osu!taiko World Cup 2021 is run by various community members.
 | ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [cheese salad](https://osu.ppy.sh/users/6349821), [R J](https://osu.ppy.sh/users/6490509), [3san](https://osu.ppy.sh/users/8050850), [ChurroChef](https://osu.ppy.sh/users/9258564) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [-BunZ-](https://osu.ppy.sh/users/7556673), [SaraSoul](https://osu.ppy.sh/users/13493346) |
 
----
-
-## Match schedule: Finals
-
-### Saturday, 3 April 2021
-
-| Team A | Team B | Match time | Local time A | Local time B |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| South Korea ![][flag_KR] | ![][flag_SG] Singapore | **10:00 UTC** | 19:00 UTC+09 | 18:00 UTC+08 | ² |
-| Argentina ![][flag_AR] | ![][flag_CA] Canada | **19:00 UTC** | 16:00 UTC-03 | 14:00 UTC-05 | ² |
-
-### Sunday, 4 April 2021
-
-| Team A | Team B | Match time | Local time A | Local time B |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| Canada ![][flag_CA] | ![][flag_KR] South Korea | **02:00 UTC** | 21:00 (Sat.) UTC-05 | 11:00 UTC+09 | ³ |
-| Canada ![][flag_CA] | ![][flag_SG] Singapore | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 11:00 UTC+08 | ³ |
-| Argentina ![][flag_AR] | ![][flag_SG] Singapore | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
-| Argentina ![][flag_AR] | ![][flag_KR] South Korea | **16:00 UTC** | 13:00 UTC-03 | 01:00 (Mon.) UTC+09 | ³ |
-| Brazil ![][flag_BR] | ![][flag_JP] Japan | **17:30 UTC** | 14:30 UTC-03 | 02:30 (Mon.) UTC+09 | ¹ |
-
-¹ Winner bracket encounter\
-² Loser bracket encounter\
-³ Encounter dependent on results of ²Loser bracket encounter
+![TWC 2021 podium](img/podium.jpg)
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [Kobaryo - Rainbow Freeze (1RoHa\_) \[Nube Oni\]](https://osu.ppy.sh/beatmapsets/673392#taiko/1425158)
+  - [REDALiCE vs MASAKI - BUCHiGiRE Berserker (Long ver) (Firce777) \[Firce777's Taiko (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/1422679#taiko/2929979)
+  - [Kobaryo - Kumo No Kireme [feat. Kourin.] (Sayaka-) \[Infinite Apocalypse\]](https://osu.ppy.sh/beatmapsets/370678#taiko/906962)
+  - [Beneath The Massacre - Absurd Hero (Heaxys) \[TWC 2021 Grandfinals - NM4\]](https://osu.ppy.sh/beatmapsets/1422657#taiko/2929952)
+  - [Rahatt - Matusa Bomber (nananass) \[nas\]](https://osu.ppy.sh/beatmapsets/1336341#taiko/2928466)
+  - [Dz'Xa - Izumi 7983 (Ulqui) \[COLLAPSING MINDS\]](https://osu.ppy.sh/beatmapsets/1422684#taiko/2929985)
+- Hidden
+  - [Her Bright Skies - The Glorious (Final Sketch Remix) (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/750181#taiko/1579882)
+  - [Blotted Science - Cretaceous Chasm (Mew) \[Inevitable Extinction\]](https://osu.ppy.sh/beatmapsets/1422697#taiko/2930004)
+- HardRock
+  - [antiPLUR - Speed of Link (Skull Kid) \[Special\]](https://osu.ppy.sh/beatmapsets/477116#taiko/1019139)
+  - [Camellia - KillerBeast (Capu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1069639#taiko/2239078)
+- DoubleTime
+  - [Remo Prototype[CV: Hanamori Yumiri] - Sendan Life (Y O U T A) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/395660#taiko/861023)
+  - [Sota Fujimori - Transport -Extended Mix- (Raiden) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/742538#taiko/1566143)
+- FreeMod
+  - [Neko Kanimaru - Hidamari no Machi - A! (PING) \[AHA!\]](https://osu.ppy.sh/beatmapsets/600477#taiko/2929588)
+  - [II-L - VANGUARD-2 (Faputa) \[TRAILBLAZING\]](https://osu.ppy.sh/beatmapsets/1422686#taiko/2929992)
+  - [Camellia - Flamewall (Cut Ver.) (\_mtk) \[ETERNAL FLAME\]](https://osu.ppy.sh/beatmapsets/1422689#taiko/2929995)
+- Tiebreaker
+  - **[TWC Sound Team "Zeroth Powers" - One One (Firce777) \[BLOOD GOD FEAR\]](https://osu.ppy.sh/beatmapsets/1422682#taiko/2929983)**
 
 ### Finals
 
@@ -237,6 +241,31 @@ The osu!taiko World Cup 2021 is run by various community members.
   - **[NIWASHI - Playing with Ruby (goheegy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/835717#taiko/2865258)**
 
 ## Match results
+
+### Grand Finals
+
+Sunday, 11 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | 3 | **7** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/80529663) |
+| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/80546558) |
+
+### Finals
+
+Saturday, 3 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/79834055) |
+| Argentina ![][flag_AR] | 0 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/79871567) |
+
+Sunday, 4 April 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Canada ![][flag_CA] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/79899853) |
+| Brazil ![][flag_BR] | 1 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/79949196) |
 
 ### Semifinals
 

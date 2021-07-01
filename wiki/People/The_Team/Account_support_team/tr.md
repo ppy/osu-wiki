@@ -21,13 +21,13 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
 - [Hesabınıza uygulanan kısıtlamalara karşı itirazlar](/wiki/Help_Centre/Account_Restrictions). Bu kısıtlamalara aşağıdakiler de dahildir:
-    - susturmalar;
-    - profil içeriğinin kaldırılması;
-    - beatmapin kaldırılması;
-    - forum gönderisinin ve yorumun kaldırılması.
+  - susturmalar;
+  - profil içeriğinin kaldırılması;
+  - beatmapin kaldırılması;
+  - forum gönderisinin ve yorumun kaldırılması.
 - [İtiraf etmek istediğiniz](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?) olumsuz davranışlar.
-- osu! hesabınızla ilişkili [e-postanıza olan erişimi kaybetmeniz](/wiki/Help_Centre#sign-in), veya hesabınızın çalınması.
-- Kullanıcı adı [geri çevirme veya ufak yazım düzeltmeleri](/wiki/Help_Centre#name-changes).
+- osu! hesabınızla ilişkili [e-postanıza olan erişimi kaybetmeniz](/wiki/Help_Centre/Installation_and_registration#sign-in), veya hesabınızın çalınması.
+- Kullanıcı adı [geri çevirme veya ufak yazım düzeltmeleri](/wiki/Help_Centre/Account#name-changes).
 - [Bot hesabı başvuruları](/wiki/Bot_Account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
@@ -36,10 +36,10 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 
 - Bir moderatörün uygunsuz davranışları hakkındaki şikayetler.
 - [İştirakçi Etik Davranış Kurallarını](/wiki/Contributor_Code_of_Conduct) çiğneyen bir moderatör hakkındaki şikayetler.
-- [osu!store](https://osu.ppy.sh/store/listing) üzerinden yapılan siparişlerle ilgili [ödeme sorunları](/wiki/en/Help_Centre#supporter).
-- [Bağlantı sorunları](/wiki/Help_Centre#online-features) gibi, [Yardım forumunda](https://osu.ppy.sh/community/forums/5) düzeltilemeyen teknik sorunlar.
+- [osu!store](https://osu.ppy.sh/store/listing) üzerinden yapılan siparişlerle ilgili [ödeme sorunları](/wiki/Help_Centre/Account#supporter).
+- [Bağlantı sorunları](/wiki/Help_Centre/Client#online-features) gibi, [Yardım forumunda](https://osu.ppy.sh/community/forums/5) düzeltilemeyen teknik sorunlar.
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 - [Veri talepleri](/wiki/Legal/Privacy#data-controller) veya gizlilik endişeleri.
-- AB vatandaşları için ([GDPR](https://tr.wikipedia.org/wiki/Genel_Veri_Koruma_Y%C3%B6netmeli%C4%9Fi "Vikipedi") kapsamında) **kalıcı** [hesap kaldırma talepleri](/wiki/Legal/Privacy#your-rights-and-control).
+- **Kalıcı** [hesap kaldırma talepleri](/wiki/Legal/Privacy#your-rights-and-control).

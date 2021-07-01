@@ -21,7 +21,6 @@ The people listed below are the core of the **osu!team** and are chiefly respons
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Project and community maintainer, Featured Artist outreach |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Design lead, resident Creative Cloud watcher |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Modding and mapping scene advisor |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | World Cup organiser and administrator |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modding and mapping scene advisor |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeper, moderation advisor |
@@ -34,7 +33,6 @@ The people listed below are the core of the **osu!team** and are chiefly respons
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved manager, community advisor, Featured Artist outreach |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament assistant |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, tournament assistant, wiki maintainer |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
 In addition to the above, the [account support team](Account_support_team) is there to help with what is beyond the reach.
@@ -67,6 +65,7 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streamer, tournament organiser |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! developer, provider of osz2 and p2p backend |
 | ![][flag_US] Jim | Original site designer, hosting provider in the early days. [Brave New Games](http://www.bravegamer.com/) |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | World Cup organiser and administrator |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | World Cup organiser and administrator, QAT leader, community manager |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin designer, contributor to default skin and iconset. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu! developer, creator of mm sliders |
@@ -77,6 +76,7 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original pippi concept and artwork designer. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Early community manager and leader, meeting minutes and FAQ contributor |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | osu! and pp developer |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, World Cup organiser and administrator, wiki maintainer |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! developer, osu!mania mode developer |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) manager |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, media and character designer |

@@ -32,9 +32,9 @@ The Downloads folder holds the beatmaps being downloaded by osu!direct (requires
 
 The Exports folder appears if the player uses the [Skin Selector's "Export as .osk"](/wiki/Options) or [Beatmap Editor's "Export Package"](/wiki/Beatmap_Editor/Menu). It will hold the beatmaps and skins the player has exported from osu!.
 
-### Localisations
+### Localisation
 
-The Localizations folder appears when the player has switched their language in the options. It will hold the translated text files which can be used each to replace the English text based on the user's selected localisation. The translated text files are generated when you switch languages.
+The Localisation folder appears when the player has switched their language in the options. It will hold the translated text files which can be used each to replace the English text based on the user's selected localisation. The translated text files are generated when you switch languages.
 
 ### Replays
 
@@ -63,8 +63,6 @@ The Skins folder holds user-created skins, which can be used to customise the in
 *For further reference, see [Skinning](/wiki/Skinning)*
 
 ### Songs
-
-*Caution: Be careful with these files, you might break osu! if you are not careful.*
 
 The Songs folder holds the player's osu! beatmaps. Usually contains `.osu` (difficulties), `.mp3`/`.ogg` (music files), `.jpg`/`.png`/`.gif` (background images), `.osb` (storyboard files) and `.mp4`/`.flv` (video files). May also contain `.wav`/`.ogg` (hitsound files) and folders (storyboard spites and/or skin folders).
 

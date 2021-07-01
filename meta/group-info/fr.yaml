@@ -1,13 +1,64 @@
-outdated: true # missing entries
 separator: ", "
+alumni:
+  roles:
+    academy: fondateur de la osu!academy
+    admin: administration
+    chat: modérateur de tchat
+    dev: osu!dev
+    media: créateur de osu!media
+    support: équipe de soutien
+    tournaments: gestionnaire des tournois
 gmt:
+  all_mods: tous les modérateurs
   areas:
-    beatmap: modération du beatmaps
-    chat: modération du chat
-    forum: modération du forum
-    team: équipe officielle
-    dev: développement d'osu!
-    player: support du joueur
+    beatmap: modérateur des beatmaps
+    chat: modérateur du tchat
+    forum: modérateur du forum
+    team: équipe de présence officiel
+    dev: osu! development
+    player: support au joueur
     support: support technique
-    tournaments: organisation de tournois
+    tournaments: gestionnaire des tournois
     wiki: administration du wiki
+nat:
+  areas:
+    communication: communication
+    evaluation: évaluation
+    moderation: modération
+    structural: structurelle
+languages:
+  partial: une certaine <language>
+  ar: Arabe
+  bg: Bulgare
+  bn: Bengali
+  ca: Catalan
+  da: Danois
+  de: Allemand
+  el: Grec
+  es: Espagnol
+  et: Estonien
+  fi: Finlandais
+  fil: Philippin
+  fr: Français
+  hr: Croate
+  hu: Hongrois
+  id: Indonésien
+  it: Italien
+  ja: Japonais
+  ko: Coréen
+  ms: Malais
+  nl: Néerlandais
+  no: Norvégien
+  pl: Polonais
+  pt: Portugais
+  ro: Roumain
+  ru: Russe
+  sr: Serbe
+  sv: Suédois
+  te: Telugu
+  th: Thaïlandais
+  tr: Turc
+  ur: Urdu
+  vi: Vietnamien
+  yue: Cantonais
+  zh: Chinois

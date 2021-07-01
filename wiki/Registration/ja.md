@@ -17,6 +17,6 @@
 
 [ルール](/wiki/Rules)を注意深く読むことを忘れないでください！
 
-これが完了すると、リズムアドベンチャーを開始する準備が整いました！[ビートマップを追加](/wiki/Installation#adding-beatmapsets)して遊んだり、[スキンを作成](/wiki/Skinning)したり、[ビートマップを作成](/wiki/Beatmapping)したりできます。[Introductions サブフォーラム](https://osu.ppy.sh/community/forums/8)で「こんにちは」と挨拶することもできます。
+これが完了すると、リズムアドベンチャーを開始する準備が整いました！[ビートマップを追加](/wiki/Installation#adding-beatmaps)して遊んだり、[スキンを作成](/wiki/Skinning)したり、[ビートマップを作成](/wiki/Beatmapping)したりできます。[Introductions サブフォーラム](https://osu.ppy.sh/community/forums/8)で「こんにちは」と挨拶することもできます。
 
 ゲーム内でさらにヘルプが必要な場合は、チャットコンソールを開いて（ゲーム内で`F8`もしくは`F9`を押す）`/join help`と入力し[Internet Relay Chat](/wiki/Internet_Relay_Chat)（IRC）の#helpで質問することができます。[Help サブフォーラム](https://osu.ppy.sh/community/forums/5)に質問を投稿することもできます。

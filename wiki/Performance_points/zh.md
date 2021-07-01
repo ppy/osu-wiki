@@ -41,7 +41,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 类似于 [缩圈速度](/wiki/Beatmapping/Approach_rate) 和特定的 [Mods](/wiki/Game_modifier)（即[Flashlight](/wiki/Game_modifier/Flashlight)，[Hidden](/wiki/Game_modifier/Hidden)和[Hard Rock](/wiki/Game_modifier/Hard_Rock)）使快速准确地移动光标的难度显著地提升，因此影响了成绩得到pp的数量。
 
-在[osu!standard](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmap/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常得到的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
+在[osu!](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmap/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常得到的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
 
 ### 速度
 
@@ -57,7 +57,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 *准确率* 是一个权衡玩家准时击中[物件](/wiki/Hit_object)能力的百分值；它也是一项和pp算法相关的衡量玩家在谱面中某项表现的标准。
 
-准确率高的得分会得到很多的pp。一个取得 80% 准确率并[全连](/wiki/Glossary#fc) 的成绩有时相当于 95% 准确率的成绩。由于算法十分依赖于准确率，如Hidden，Hard Rock和Flashlight等Mod对高准确率的成绩得到的pp会增加很多。
+准确率高的得分会得到很多的pp。一个取得 80% 准确率并[全连](/wiki/Full_combo) 的成绩有时相当于 95% 准确率的成绩。由于算法十分依赖于准确率，如Hidden，Hard Rock和Flashlight等Mod对高准确率的成绩得到的pp会增加很多。
 
 ### 耐力
 
@@ -84,7 +84,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 - 高效地玩，找到最适合你的风格。
 - 专注于得到更多高分成绩，而不是去盲目刷很多“还行”的成绩。
 - 提高你的准确率。 即使是1%也能有很大差别。
-- 提高连击数量。 全连（FC）或[SS](/wiki/Glossary#grade) 会得到大量pp。
+- 提高连击数量。 全连（FC）或[SS](/wiki/Grade) 会得到大量pp。
 
 ### 为什么我没有得到游玩一个谱面的所有pp？
 

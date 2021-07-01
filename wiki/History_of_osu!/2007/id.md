@@ -66,7 +66,7 @@ Beberapa saat setelah rilis secara publik, mod bermain pertama, [Easy](/wiki/EZ)
 
 ## Oktober
 
-2007-10-01 adalah hari ketika peringkat online dibuat tersedia untuk publik. Selain peringkat online, peluncuran metode pengemasan `.osz` juga diluncurkan pada hari itu bersamaan dengan database beatmap online dengan sistem pengajuan berbasis web tahap awal. Peringkat online ditambahkan ke antarmuka dalam game dan juga ditampilkan di situs web.
+2007-10-06 adalah hari ketika peringkat online dibuat tersedia untuk publik. Selain peringkat online, peluncuran metode pengemasan `.osz` juga diluncurkan pada hari itu bersamaan dengan database beatmap online dengan sistem pengajuan berbasis web tahap awal. Peringkat online ditambahkan ke antarmuka dalam game dan juga ditampilkan di situs web.
 
 ![](img/2007-10_01.jpg)
 
@@ -92,7 +92,7 @@ Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S da
 
 ![](img/2007-11_03.jpg "Pengujian Penggunaan IRC")
 
-[Sistem Pengajuan Beatmap](/wiki/Glossary#bss) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi merka. Bersamaan dengan ini, map juga sekarang memiliki status pending dan ranked dan membantu mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien IRC yang dibangun dari nol dan terhubung ke server IRC standar (belum ada bancho). Obrolan yang diperluas terlihat. Avatar dan statistik dasar ditampilkan dalam game (menggunakan komunkasi berbasis http). Kontrol audio juga ditambahkan ke menu utama, yang juga sekarang memainkan lagu acak saat masuk game (startup). Tayangan ulang map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC!).
+[Sistem Pengajuan Beatmap](/wiki/Submission) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi merka. Bersamaan dengan ini, map juga sekarang memiliki status pending dan ranked dan membantu mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien IRC yang dibangun dari nol dan terhubung ke server IRC standar (belum ada bancho). Obrolan yang diperluas terlihat. Avatar dan statistik dasar ditampilkan dalam game (menggunakan komunkasi berbasis http). Kontrol audio juga ditambahkan ke menu utama, yang juga sekarang memainkan lagu acak saat masuk game (startup). Tayangan ulang map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC!).
 
 ## Desember
 

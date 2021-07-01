@@ -34,42 +34,42 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_US] **[pishifat](https://osu.ppy.sh/users/3178418)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
 - ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
-- ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572)
 - ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
 - ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
-- ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660)
+- ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332)
-- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
+- ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
+- ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### osu!taiko curators
 
 - ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
 - ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
+- ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
 - ![][flag_JP] [Charlotte](https://osu.ppy.sh/users/3686901)
-- ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851)
 - ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
-- ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817)
-- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
+- ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
 ### osu!catch curators
 
-- ![][flag_GB] **[JBHyperion](https://osu.ppy.sh/users/4879508)**
+- ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
-- ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243)
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### osu!mania curators
 
 - ![][flag_GB] **[Hydria](https://osu.ppy.sh/users/808176)**
+- ![][flag_CA] [BringoBrango](https://osu.ppy.sh/users/10274043)
 - ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
+- ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370)
 - ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
-- ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
 - ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
 ## Spotlights seasons
@@ -116,14 +116,14 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 
 | Badges | Bracket Tier | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/winter_2021/osu/ri_1.png) ![](img/badges/winter_2021/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
-| ![](img/badges/winter_2021/osu/diamond_1.png) ![](img/badges/winter_2021/osu/diamond_2.png) | Diamond | Top 3% |
-| ![](img/badges/winter_2021/osu/platinum_1.png) ![](img/badges/winter_2021/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/winter_2021/osu/gold_1.png) ![](img/badges/winter_2021/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/winter_2021/osu/silver_1.png) ![](img/badges/winter_2021/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/winter_2021/osu/bronze_1.png) ![](img/badges/winter_2021/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/winter_2021/osu/copper_1.png) ![](img/badges/winter_2021/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/winter_2021/osu/iron_1.png) ![](img/badges/winter_2021/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/spring_2021/osu/ri_1.png) ![](img/badges/spring_2021/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
+| ![](img/badges/spring_2021/osu/diamond_1.png) ![](img/badges/spring_2021/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/spring_2021/osu/platinum_1.png) ![](img/badges/spring_2021/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/spring_2021/osu/gold_1.png) ![](img/badges/spring_2021/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/spring_2021/osu/silver_1.png) ![](img/badges/spring_2021/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/spring_2021/osu/bronze_1.png) ![](img/badges/spring_2021/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/spring_2021/osu/copper_1.png) ![](img/badges/spring_2021/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/spring_2021/osu/iron_1.png) ![](img/badges/spring_2021/osu/iron_2.png) | Iron | 95% – 100% |
 
 The Rhythm Incarnate tier threshold is picked manually based on season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
 
@@ -134,7 +134,7 @@ This table only shows one of four badge versions. Each game mode has its own bad
 The curation system involves the process of curators selecting the beatmaps being put into the Beatmap Spotlights for each season.
 
 1. Beatmaps are selected by the curators of their respective game mode for the duration of one season.
-   - Curators need to agree on each individual beatmap difficulty in an open discussion.
+   - Curators need to agree on each individual difficulty in an open discussion.
    - Respective game mode leaders lock in decisions and solidify the selection after conclusive discussions.
    - The selection process itself varies between game modes and adjusts around the needs of the respective members.
 2. Beatmaps are selected based on their uniqueness and excellence. Each selected beatmap should be a leading example of content quality in gameplay, design and aesthetics.
@@ -146,9 +146,9 @@ The curation system involves the process of curators selecting the beatmaps bein
 5. For each season, 20 beatmaps must be selected at minimum.
    - All selected beatmaps must be Ranked.
    - When selecting more beatmaps, the distribution between difficulty tiers should be followed.
-   - Curators can select multiple beatmaps of the same beatmap set.
+   - Curators can select multiple difficulties of the same beatmap.
 6. Curated beatmaps should be a healthy mix of recent and established content.
-   - At least 25% of the curated beatmap difficulties must have been ranked within the last 3 months prior the season start.
+   - At least 25% of the curated difficulties must have been ranked within the last 3 months prior the season start.
 7. Individual curators must not recommend beatmaps they took part in creating.
    - At most 25% of the selected beatmaps can have such an involvement of curators themselves.
 8. Every curated beatmap must be selected before the season begins. Once a season has started, beatmaps can not be exchanged anymore.
@@ -174,12 +174,14 @@ Originally named "Ranking Charts" and initiated in November 2009 by ![][flag_US]
 
 The project underwent several changes and additions, such as [themed Ranking Charts](https://osu.ppy.sh/rankings/osu/charts?spotlight=26), [mod restricted Ranking Charts](https://osu.ppy.sh/rankings/osu/charts?spotlight=19) or [seasonal leaderboards](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart). Originally, the winners of the Ranking Charts were awarded with osu! Supporter Tags. Later, rewards for mappers or seasonal leaderboard winners have been added.
 
-The project lead has changed several times in its history. ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) took over the project lead in May 2012, followed up by ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) and ![][flag_US] [Makar](https://osu.ppy.sh/users/686389). ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) and ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) took over the project in December 2013. In March 2015 the project changed from its original design of nominate and vote into having renown [community members single-handedly select a roster of beatmap](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season) sets they recommend. In September 2016, the [selection system has been mostly reverted](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) and put the [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) in charge of selecting the most noteworthy beatmap sets.
+The project lead has changed several times in its history. ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) took over the project lead in May 2012, followed up by ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) and ![][flag_US] [Makar](https://osu.ppy.sh/users/686389). ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) and ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) took over the project in December 2013. In March 2015 the project changed from its original design of nominate and vote into having renown [community members single-handedly select a roster of beatmap](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season) sets they recommend. In September 2016, the [selection system has been mostly reverted](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) and put the [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) in charge of selecting the most noteworthy beatmaps.
 
 Renamed to [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) in March 2017, the system itself stayed mostly consistent while adding additional rewards like medals and enhancing the presentation of the Beatmap Spotlights furtherly. During an internal overhaul of the Quality Assurance Team, the responsibility for the project has been reassigned to ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) and re-implemented a community-based selection team. In November 2018, the frequency of the Spotlights have been changed to a [seasonal release cycle](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In March 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) rejoined the project lead together with Kurokami, both reworking it into a new shape and assembling a new team of osu! curators.
 
 In August 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) stepped down from leading the project. At the end of November 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) also resigned, and ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) took over the project along with ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
 
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
@@ -195,6 +197,8 @@ In August 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) stepped
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

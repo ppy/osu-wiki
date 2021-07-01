@@ -21,13 +21,13 @@ Mapset yang dinominasikan kemudian dikirimkan ke [forum Project Loved](https://o
 
 ### Kelayakan
 
-Ada beberapa kriteria yang sangat minimal yang harus dipenuhi untuk beatmap yang akan dinominasikan supaya bisa mendapat kategori Loved. Kapten menganggap beatmapset memenuhi syarat untuk kategori Loved jika:
+Ada beberapa kriteria yang sangat minimal yang harus dipenuhi untuk beatmap yang akan dinominasikan supaya bisa mendapat kategori Loved. Kapten menganggap beatmap memenuhi syarat untuk kategori Loved jika:
 
 - Tidak dalam kategori [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked) atau [Approved](/wiki/Beatmap/Category#approved)
 - Pembuat beatmap tidak menolak beatmap yang dinominasikan untuk diberi status Loved
 - Pembuat beatmap tidak dalam status *banned* atau sedang dibatasi
 - Setidaknya satu tingkat kesulitan bisa diselesaikan
-- Setidaknya memiliki 30 favorit (hanya berlaku untuk map osu!standard)
+- Setidaknya memiliki 30 favorit (hanya berlaku untuk map osu!)
 
 Namun, meskipun hampir semua map dalam status [Pending dan Work-in-progress](/wiki/Beatmap/Category#pending) memenuhi kriteria ini, hanya sedikit yang masuk ke dalam kategori Loved karena persyaratan nominasi dan pemilihan yang lebih selektif.
 

@@ -29,7 +29,7 @@ tags:
 - Type: Special
 - Score Multiplier: 0.66x–1.00x
 - Default shortcut key: `Z` (each click/key press goes from 4K to 9K, then back to 1K until 3K before being disabled)
-- Compatible game modes: ![][o!m]
+- Compatible game modes: ![][osu!mania]
 
 ## Description
 
@@ -46,4 +46,4 @@ The table below explains how the score multiplier will be applied across all xK 
 | 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

@@ -21,11 +21,7 @@ Explaining symmetry in text form (like we are now) isn't as effective without th
 
 ### Horizontal Symmetry
 
-
-
 ### Vertical Symmetry
-
-
 
 ### Symmetry With Respect to the Origin
 
@@ -95,8 +91,8 @@ You could map a stream to each one of those instances, making for a map with fre
 
 ### When not to Use
 
-In osu!standard, it's recommended to only put streams where it corresponds to instruments in the music.
-Doing otherwise is often called _[overmapping](/wiki/Glossary#overmapping)_.
+In osu!, it's recommended to only put streams where it corresponds to instruments in the music.
+Doing otherwise is often called *[overmapping](/wiki/Beatmapping/Overmapping)*.
 Now, one can most certainly put streams where it doesn't go to anything, but it's not recommended, especially when you're a new mapper.
 On the other hand, Taiko maps will creates a new pattern fitting the music (this is exceptional because the drums usually holds the beat).
 So generally more streams are found in Taiko maps.

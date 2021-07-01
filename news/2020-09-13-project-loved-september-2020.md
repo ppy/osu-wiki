@@ -12,12 +12,12 @@ In case you don't know how it works, Project Loved hosts monthly polls to decide
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [waywern2012](https://osu.ppy.sh/users/5870453) and [Bubbleman](https://osu.ppy.sh/users/5182050)!
 
@@ -88,7 +88,7 @@ It's uncommon for someone to have the dedication to finish a 6 minute map, it's 
 
 What happens when you mix a catchy Hatsune Miku song with exciting spaced streams? This high 7-star map answers just that question—it's a 180 BPM song that features fun streams throughout its entire 4-minute duration. This map has gained a lot of attention due to the nature of its style, so check it out and vote for its spot in the Loved category!
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [Remus](https://osu.ppy.sh/users/6850949), [nyanmi-1828](https://osu.ppy.sh/users/6866480), [POCARI SWEAT](https://osu.ppy.sh/users/5082685) and [Raphalge](https://osu.ppy.sh/users/3918650)!
 
@@ -140,7 +140,7 @@ Even with those tough pattern style variations, thanks to those brilliant mapper
 Do you dream of being a speed player? Walking down the street and hearing people whisper "Hey... Isn't that the guy who smacks his keyboard at over 300 beats per minute?" Well then it's time to prove your worth or have your dreams vandalized by the speed demon himself, applerss!\
 With his mapset of *katagiri - Dream Vandalism*, applerss offers a challenge to the best of the best with 2 difficulties crammed full of 340 BPM carnage. One at 8.23\* for the big boys who want some 1/6 spice as well as a 6.6\* difficulty for those with a slightly more "normal" palette.
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265), [Yumeno Himiko](https://osu.ppy.sh/users/1806962) and [Spectator](https://osu.ppy.sh/users/702598)!
 
@@ -191,7 +191,7 @@ f you like the style older maps have, there is a high chance you will enjoy this
 It has been a while, but here we have another map from our dear Japanese friends: noraRcat and Furely! Nice! The difficulty between the maps in this set does not really vary too much, despite there being three, but they are all fairly doable by players that are slightly more advanced in terms of skill level. Other than that it is the typical type of mapset you would expect from these guys: focus on the fun, not the formalities. Despite there being no absolutely ridiculous game-breaking patterns in this mapset, they still aren't designed with ranking criteria in mind, and are meant primarily for entertainment. You have some cool jumps, few streams, and it all fits the song quite well! Oh yeah, and about the song: it's an absolute (ok this is very much subjective, but I am gonna estimate most people agree with this statement) BANGER! But that tends to be fairly common with Walkure's music.\
 All in all, you hopefully catch my drift when I say that this makes for a very fun map! So walk your way towards your PC and check it out! (Gosh that is the 3rd bad artist pun I made up in a row, awesome!)
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976576), [Abraxos](https://osu.ppy.sh/users/5025064), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

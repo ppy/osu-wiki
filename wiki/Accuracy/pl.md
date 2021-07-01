@@ -8,11 +8,11 @@ Precyzja to wartość określająca umiejętności gracza w śledzeniu rytmu. Te
 
 ## Tryby gry
 
-### ![](/wiki/shared/mode/osu.png) osu!standard
+### ![](/wiki/shared/mode/osu.png) osu!
 
-![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 300 \* liczba 300) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 300)](img/accuracy_standard.png "Wzór na precyzję dla osu!standard")
+![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 300 \* liczba 300) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 300)](img/accuracy_osu.png "Wzór na precyzję dla osu!")
 
-W trybie osu!standard wartości dla jednego obiektu są następujące:
+W trybie osu! wartości dla jednego obiektu są następujące:
 
 ```
 300 -> 300 / 300 = 1   = 100.00%
@@ -47,11 +47,11 @@ W trybie osu!catch wszystkie obiekty mają taką samą wartość oprócz bananó
 
 ![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 200 \* liczba 200 + 300 \* liczba 300 + 300 \* liczba MAX) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 200 + liczba 300 + liczba MAX)](img/accuracy_mania.png "Wzór na precyzję dla osu!mania")
 
-Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!standard](#osu!standard).
+Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!](#-osu!).
 
 ## Wykres wyniku
 
-![Wykres wyniku](img/performance_graph.jpg "Wykres wyniku")
+![Wykres wyniku](img/performance_graph.png "Wykres wyniku")
 
 Wykres wyniku to wykres ukazujący zmianę wartości punktów życia gracza w trakcie gry. Dodatkowe informacje wyświetlą się po najechaniu kursorem.
 
@@ -61,11 +61,11 @@ Wykres wyniku to wykres ukazujący zmianę wartości punktów życia gracza w tr
 
 Po najechaniu na wykres wyniku, wyświetli się etykieta z *zakresem błędu* i *wskaźnikiem dokładności*.
 
-W przypadku użycia modyfikatora [DT](/wiki/DT) (Double Time) lub [HT](/wiki/HT) (Half Time), do wartości dla zakresu błędu i wskaźnika dokładności zostaną użyte te same wartości, jakie dany modyfikator stosuje do szybkości piosenki (mnożenie przez 1,5 dla DT oraz dzielenie przez 1,33 dla HT).
+W przypadku użycia modyfikatora [DT](/wiki/Game_modifier/Double_time) (Double Time) lub [HT](/wiki/Game_modifier/Half_time) (Half Time), do wartości dla zakresu błędu i wskaźnika dokładności zostaną użyte te same wartości, jakie dany modyfikator stosuje do szybkości piosenki (mnożenie przez 1,5 dla DT oraz dzielenie przez 1,33 dla HT).
 
 #### Zakres błędu
 
-Zakres błędu wyświetla dwie wartości ukazujące średni czas, w którym obiekty były naciskane za wcześnie i za późno. Im większa jest [ogólna trudność (OD)](/wiki/Overall_Difficulty) beatmapy, tym mniejsze będą musiały być te wartości, by uzyskać dobry wynik.
+Zakres błędu wyświetla dwie wartości ukazujące średni czas, w którym obiekty były naciskane za wcześnie i za późno. Im większa jest [ogólna trudność (OD)](/wiki/Beatmapping/Overall_Difficulty) beatmapy, tym mniejsze będą musiały być te wartości, by uzyskać dobry wynik.
 
 #### Wskaźnik dokładności
 
@@ -73,7 +73,7 @@ Wskaźnik dokładności określa powtarzalność gracza dla każdego trafienia, 
 
 ### Kręcenie spinnerami
 
-*Ważne: te wartości są dostępne tylko dla trybu [osu!standard](/wiki/Game_mode/osu!) i nie są zachowywane po wyjściu z gry.*
+*Ważne: te wartości są dostępne tylko dla trybu [osu!](/wiki/Game_mode/osu!) i nie są zachowywane po wyjściu z gry.*
 
 W etykiecie wykresu wyniku znajduje się kilka informacji odnośnie kręcenia spinnerami na danej beatmapie.
 

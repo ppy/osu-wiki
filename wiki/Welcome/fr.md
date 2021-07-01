@@ -1,6 +1,6 @@
 # Bienvenue
 
-Bienvenue sur osu!, un jeu de rythme free-to-play développé par peppy qui comporte quatre modes de jeu: osu!standard, un simulateur de clic sur des cibles en forme de cercles, osu!taiko, un émulateur du jeu de tambour au défilement horizontal, osu!catch, un attrapeur de fruit vertical; ainsi qu'osu!mania, un key smasher vertical. 
+Bienvenue sur osu!, un jeu de rythme free-to-play développé par peppy qui comporte quatre modes de jeu: osu!, un simulateur de clic sur des cibles en forme de cercles, osu!taiko, un émulateur du jeu de tambour au défilement horizontal, osu!catch, un attrapeur de fruit vertical; ainsi qu'osu!mania, un key smasher vertical. 
 
 ## Points d'intérêts communs
 
@@ -9,13 +9,13 @@ Bienvenue sur osu!, un jeu de rythme free-to-play développé par peppy qui comp
 - [Règles](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
 - [Modes de jeu](/wiki/Game_mode)
-  - ![icône osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![icône osu!](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
   - ![icône osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![icône osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![icône osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Multi](/wiki/Multi)
 - [Critères de ranking](/wiki/Ranking_Criteria)
-  - ![icône osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![icône osu!](/wiki/shared/mode/osu.png) [osu!](/wiki/Ranking_Criteria/osu!)
   - ![icône osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![icône osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![icône osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)

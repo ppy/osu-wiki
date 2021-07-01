@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Conquistas
 
 **Conquistas** (também chamadas de **Medalhas**) são pequenas insígnias no perfil de alguém que indicam que o jogador alcançou um objetivo excepcional. Atualmente, elas estão divididas em 5 grupos.
@@ -23,7 +24,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
 #### Requisitos
 
 - Concluir cada beatmap uma vez em qualquer dificuldade dentro de um [pacote de beatmap temático](https://osu.ppy.sh/p/packlist?t=t).
-- O modo deve ser [osu!Standard](/wiki/Game_mode/osu!).
+- O modo deve ser [osu!](/wiki/Game_mode/osu!).
 - Extraia o pacote temático, solte todos os beatmaps .zip na lista de músicas do osu!. Abra o osu! e começar a jogar. Só isso.
   - Caso o beatmap esteja em formato .zip, solte-o como .zip e não crie pastas para ele. Se você criar as pastas, você pode não obter a conquista e o estado de **CLEARED** na [listagem do pacote](https://osu.ppy.sh/p/packlist?t=t)
   - Alternativamente, você pode baixar as músicas manualmente uma por uma e ainda contaria.
@@ -41,13 +42,13 @@ Cada uma dessas seções atualmente tem 4 volumes.
 
 #### Curiosidades
 
-- [Pacotes de beatmaps clássicos (2009 — 2016) antes da atualização de Stefan.](Beatmap_Packs_0916)
+- [Pacotes de beatmaps clássicos (2009 — 2016) antes da atualização de Stefan.](Legacy_Beatmap_Packs)
 
 ## Skill
 
 As conquistas **Skill** atualmente estão divididos em três grupos: **Combo**, **High Ranker** e **Star-based**
 
-As conquistas **Combo** podem ser obtidas ao alcançar um [Combo](/wiki/Glossary) específico no osu! padrão e pode ser obtida com qualquer música.
+As conquistas **Combo** podem ser obtidas ao alcançar um [Combo](/wiki/Beatmapping/Combo) específico no osu! padrão e pode ser obtida com qualquer música.
 Conseguir o mesmo combo nos modos Taiko, Catch the Beat ou osu!mania **não** concederá a conquista.
 
 Para as conquistas de 1.000 e 2.000 combo, você deve encontrar beatmaps aprovados em vez de beatmaps ranqueados. Não procure por beatmaps não aprovados.

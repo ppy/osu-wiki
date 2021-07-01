@@ -20,12 +20,12 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207), [SoraRoxas01](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -105,7 +105,7 @@ This song gained massive popularity after being featured as the ending theme for
 
 As stupid as that may sound, it's true. During each kiai section, there exists one or more 2B sliders that spins around and around and around. At first it may seem like a small annoyance, but it's quick to become a huge challenge as they fill your screen and obstruct your vision. That alone makes for a interesting gimmick for a map but the reference to the anime only makes it better. With over 100 favorites, check out the map for yourself and vote for its home in Project Loved.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -141,7 +141,7 @@ My Angel Koishi(Sar7)が作るこの譜面は、日本のマッパーの中で�
 
 > This beatmap made by My Angel Koishi (also known as Sar7) establishes a strange mapping style among Japanese mappers and expresses the song as it is. Players will be sucked into song with this map's unique patterns that make it stand out. The difficulty isn't too high, so it's accessible to players of all ranks. It's definitely a weird one, but give it a try!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Zak](https://osu.ppy.sh/users/1375955)!
 
@@ -161,7 +161,7 @@ Red Sign is another one of ZHSteven's old classics, which was submitted way back
 
 ICDD Featured Artist when? No seriously, the artist has inspired so many great maps and this one is no exception. Hareimu's Yomi Yori is a fantastic stream map targeted at stamina- or consistency-oriented players. At 220 BPM, Hareimu, along with two names that should be fairly well known across osu!catch, managed to create an incredibly structured map that still boasts quite the challenge for even the top echelons of players.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

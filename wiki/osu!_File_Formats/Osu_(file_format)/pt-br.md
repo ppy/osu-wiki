@@ -67,8 +67,8 @@ Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wik
 | `Version` | String | Nome da dificuldade |
 | `Source` | String | Mídia original para a qual a música foi produzida |
 | `Tags` | Lista de strings separadas por espaços | Termos de pesquisa |
-| `BeatmapID` | Integer | ID do beatmap |
-| `BeatmapSetID` | Integer | ID do beatmapset |
+| `BeatmapID` | Integer | ID do dificuldade |
+| `BeatmapSetID` | Integer | ID do beatmap |
 
 ## Difficulty
 
@@ -78,7 +78,7 @@ Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wik
 | `CircleSize` | Decimal | Configuração do tamanho do círculo (0–10) |
 | `OverallDifficulty` | Decimal | Configuração da dificuldade geral (0–10) |
 | `ApproachRate` | Decimal | Configuração da taxa de aproximação (0–10) |
-| `SliderMultiplier` | Decimal | Velocidade base do slider em hecto-[osu! pixels](/wiki/Glossary#osupixel) por beat |
+| `SliderMultiplier` | Decimal | Velocidade base do slider em hecto-[osu! pixels](/wiki/osupixel) por beat |
 | `SliderTickRate` | Decimal | Quantidade de ticks por beat do slider |
 
 ## Events
@@ -94,7 +94,7 @@ Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wik
 *Sintaxe dos fundos:* `0,0,filename,xOffset,yOffset`
 
 - **`filename` (String):** Localização da imagem de fundo relativo ao diretório do beatmap. Aspas duplas geralmente são colocadas em volta do nome do arquivo, mas elas não são necessárias.
-- **`xOffset` (Inteiro)** e **`yOffset` (Inteiro):** Offset em [osu! pixels](/wiki/Glossary#osupixel) do centro da tela. Por exemplo, um offset de `50,100` teria o fundo mostrando 50 osu! pixels para a direita e 100 osu! pixels para baixo do centro da tela. Se o offset é `0,0`, escrever isso é opcional.
+- **`xOffset` (Inteiro)** e **`yOffset` (Inteiro):** Offset em [osu! pixels](/wiki/osupixel) do centro da tela. Por exemplo, um offset de `50,100` teria o fundo mostrando 50 osu! pixels para a direita e 100 osu! pixels para baixo do centro da tela. Se o offset é `0,0`, escrever isso é opcional.
 
 ### Videos
 
@@ -116,7 +116,7 @@ Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wik
 
 *Para informções sobre a sintaxe de storyboards, veja [Storyboard Scripting](/wiki/Storyboard_Scripting).*
 
-Os storyboards podem ser definidos em um arquivo de storyboard separado, com a extensão `.osb`. Storyboards externos são compartilhados com todos os beatmaps em um beatmapset.
+Os storyboards podem ser definidos em um arquivo de storyboard separado, com a extensão `.osb`. Storyboards externos são compartilhados com todos os dificuldades em um beatmap.
 
 Cada beatmap pode conter seu próprio storyboard de dificuldade, em conjunto com o storyboard externo ou sozinho.
 
@@ -178,7 +178,7 @@ Todas as opções nessa seção representam cores. Elas são trios de inteiros 0
 
 *Sintaxe dos hit objects:* `x,y,time,type,hitSound,objectParams,hitSample`
 
-- **`x` (Inteiro)** e **`y` (Inteiro):** Posição do objeto em [osu! pixels](/wiki/Glossary#osupixel).
+- **`x` (Inteiro)** e **`y` (Inteiro):** Posição do objeto em [osu! pixels](/wiki/osupixel).
 - **`time` (Inteiro):** Tempo de acerto de um objeto, em milissegundos a partir do começo do áudio do beatmap.
 - **`type` (Inteiro):** Bit flags indicando o tipo do objeto. Veja a [seção tipos](#tipos).
 - **`hitSound` (Inteiro):** Bit flags indicando o hitsound aplicado ao objeto. Veja a [seção hitsounds](#hitsounds).
@@ -258,7 +258,7 @@ Hit circles não têm `objectParams` adicional.
 - **`curveType` (Caractere):** Tipo da curva utilizada para construir esse slider (`B` = bézier, `C` = centripetal catmull-rom, `L` = linear, `P` = círculo perfeito)
 - **`curvePoints` (Lista de strings separadas por barras verticais):** Pontos utilizados para construir o slider. Cada ponto está no formato `x:y`.
 - **`slides` (Inteiro):** Quantidade de vezes o jogador deve seguir o slider indo e voltando antes do slider estar completo. Isso também pode ser interpretado como o número de repetições mais um.
-- **`length` (Decimal):** Tamanho visual do slider em [osu! pixels](/wiki/Glossary#osupixel).
+- **`length` (Decimal):** Tamanho visual do slider em [osu! pixels](/wiki/osupixel).
 - **`edgeSounds` (Lista de strings separadas por barras verticais):** Hitsounds que tocam quando o canto do slider é tocado. O primeiro som é o que toca no início do slider, e o último som é o que toca quando o fim do slider é acertado.
 - **`edgeSets` (Lista de strings separadas por barras verticais):** Sample sets utilizados para o `edgeSounds`. Cada set está no formato `normalSet:additionSet`, com o mesmo significado que na [seção de hitsounds](#hitsounds).
 

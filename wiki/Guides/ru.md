@@ -14,7 +14,6 @@
 - [Сжатие файлов](Compressing_files)
 - [Библиотека нестандартных хитсаундов](Custom_Hitsound_Library)
 - [Список нестандартных хитсаундов](Custom_Sample_Overrides)
-- [Извлечение песен из игр](Getting_Songs_From_Video_Games)
 - [Настройка тайминга](How_to_Time_Songs)
 - [Гайд по маппингу в osu!mania](osu!mania_Mapping_Guide)
 - [Настройка оффсета и BPM](Setting_the_Offset_on_the_Correct_Beat)

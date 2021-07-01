@@ -10,15 +10,15 @@ Spotlights rivals assemble! As many of you might've already known, the Autumn Se
 
 While we didn't change any essential things regarding league-aspect or general gameplay, we're working to ensure this season works a little more smoothly from our side of things, with a focus on communication foremost.
 
-We are also seeking new team members so make sure to check out the **[seeking new curators](#applications)** section if you'd be interested in helping out!
+We are also seeking new team members so make sure to check out the **[seeking new curators](#seeking-new-curators)** section if you'd be interested in helping out!
 
 If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies are now open for play on the osu!lazer client**. If you've got no idea how to get started with things, read on below!
 
-## <a id="how-to-participate"></a> How to participate in Beatmap Spotlights League?
+## How to participate in Beatmap Spotlights League?
 
 To participate in the Beatmap Spotlights League, you need to download the latest version of osu!lazer client from [GitHub releases page](https://github.com/ppy/osu/releases/latest). Once you're done installing and logging in to your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar.
 
-## <a id="applications"></a> Seeking new curators
+## Seeking new curators
 
 We are looking for members that are both willing and capable of making decent beatmap selections for upcoming Beatmap Spotlights seasons.
 

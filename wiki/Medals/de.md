@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Medaillen
 
 **Medaillen**, auch früher bekannt als **Achievements** (dt. Erfolge oder Errungenschaften), sind kleine Embleme auf der Profilseite, welche anzeigen, dass jemand eine triviale Herausforderung gemeistert hat. Zur Zeit sind sie in 5 Hauptgruppen unterteilt: **Beatmap Packs**, **Skill**, **Dedication**, **Hush-Hush** und **Mod Introduction**.
@@ -50,7 +51,7 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 
 ## Skill
 
-Es gibt derzeit 4 Komboerfolge, indem man eine bestimmte [Kombo](/wiki/Glossary) im osu! Standard Modus auf einer beliebigen Ranked/Approved Beatmap erreicht bzw. überschreitet. Das Erreichen der Kombo in anderen Spielmodi zählt nicht.
+Es gibt derzeit 4 Komboerfolge, indem man eine bestimmte [Kombo](/wiki/Beatmapping/Combo) im osu! Standard Modus auf einer beliebigen Ranked/Approved Beatmap erreicht bzw. überschreitet. Das Erreichen der Kombo in anderen Spielmodi zählt nicht.
 
 Neben den Komboerfolgen gibt es noch weitere 20 Erfolge für jeden Spielmodi (osu!, osu!taiko, osu!catch und osu!mania), die in 3 Gruppen aufgeteilt sind: **Rank**, **Pass** und **Perfect**.
 

@@ -11,7 +11,7 @@ Applicants are required to meet a modding activity requirement, submit at least 
 Modders aiming to apply to the Beatmap Nominators must fulfill the following criteria:
 
 - They have been modding beatmaps actively for at least 3 months prior to applying.
-- They have accumulated at least 150 or 200 [kudosu](/wiki/Glossary#kudosu!) in total, depending on the mode they will apply to.
+- They have accumulated at least 150 or 200 [kudosu](/wiki/Modding/Kudosu) in total, depending on the mode they will apply to.
 - They provide 2 to 4 of their mods which they think qualify them to be a part of the Beatmap Nominators.
 
 ### What qualifies as a mod post
@@ -65,7 +65,7 @@ Depending on your status, your cooldown and modscore requirement before you can 
 
 You have these requirements if you failed a Beatmap Nominator application and apply again.
 
-| **Type** | **Cooldown** | **Activity Requirements** |
+| Type | Cooldown | Activity Requirements |
 | :-- | :-- | :-- |
 | Standard | 90 days | `ModScore` greater than 0 over 90 days |
 | Reduced | 60 days | `ModScore` greater than 0 over 90 days |
@@ -77,7 +77,7 @@ Users who have recently left the Beatmap Nominators may have different requireme
 
 If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were a Beatmap Nominator.
 
-| **Type** | **Cooldown** | **Activity Requirements** |
+| Type | Cooldown | Activity Requirements |
 | :-- | :-- | :-- |
 | Standard | 60 days | `ModScore` greater than 0 over 60 days |
 | Activity | 30 days | `ModScore` irrelevant, but 8 mods in 60 days |

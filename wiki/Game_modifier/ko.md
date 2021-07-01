@@ -25,48 +25,48 @@ no_native_review: true
 
 *[요약 (게임 모드)](/wiki/Game_modifier/Summary)도 확인해 보세요.*
 
-아래에 나열된 각 모드는 이용할 수 있는 osu!의 게임 장르 아이콘(![][o!s] ![][o!t] ![][o!c] ![][o!m])이 옆에 있습니다.
+아래에 나열된 각 모드는 이용할 수 있는 osu!의 게임 장르 아이콘(![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania])이 옆에 있습니다.
 
 ### 난이도 감소 모드
 
-- [이지 (EZ)](/wiki/Game_modifier/Easy) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [노페일 (NF)](/wiki/Game_modifier/No_Fail) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [하프 타임 (HT)](/wiki/Game_modifier/Half_Time) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [이지 (EZ)](/wiki/Game_modifier/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [노페일 (NF)](/wiki/Game_modifier/No_Fail) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [하프 타임 (HT)](/wiki/Game_modifier/Half_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ### 난이도 증가 모드
 
-- [하드 (HR)](/wiki/Game_modifier/Hard_Rock) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [서든 데스 (SD)](/wiki/Game_modifier/Sudden_Death) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [퍼펙트 (PF)](/wiki/Game_modifier/Perfect) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [더블 타임 (DT)](/wiki/Game_modifier/Double_Time) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [나이트코어 (NC)](/wiki/Game_modifier/Nightcore) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [히든 (HD)](/wiki/Game_modifier/Hidden) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [페이드 인 (FI)](/wiki/Game_modifier/Fade_In) ![][o!m]
-- [플래시 (FL)](/wiki/Game_modifier/Flashlight) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [하드 (HR)](/wiki/Game_modifier/Hard_Rock) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [서든 데스 (SD)](/wiki/Game_modifier/Sudden_Death) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [퍼펙트 (PF)](/wiki/Game_modifier/Perfect) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [더블 타임 (DT)](/wiki/Game_modifier/Double_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [나이트코어 (NC)](/wiki/Game_modifier/Nightcore) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [히든 (HD)](/wiki/Game_modifier/Hidden) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [페이드 인 (FI)](/wiki/Game_modifier/Fade_In) ![][osu!mania]
+- [플래시 (FL)](/wiki/Game_modifier/Flashlight) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ### 특수 모드
 
-- [릴렉스 (RL)](/wiki/Game_modifier/Relax) ![][o!s] ![][o!t] ![][o!c]
-- [오토 파일럿 (AP)](/wiki/Game_modifier/Autopilot) ![][o!s]
-- [스펀 아웃 (SO)](/wiki/Game_modifier/Spun_Out) ![][o!s]
-- [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K (xK)](/wiki/Game_modifier/xK) ![][o!m]
-- [협동 (CP)](/wiki/Game_modifier/Co-op) ![][o!m]
-- [미러 (MR)](/wiki/Game_modifier/Mirror) ![][o!m]
-- [랜덤 (RD)](/wiki/Game_modifier/Random) ![][o!m]
-- [오토 (AT)](/wiki/Game_modifier/Auto) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [시네마 (CM)](/wiki/Game_modifier/Cinema) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [스코어 V2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [타겟팅 연습 (TP)](/wiki/Game_modifier/Target_Practice) ![][o!s] **Cutting Edge only**
+- [릴렉스 (RL)](/wiki/Game_modifier/Relax) ![][osu!] ![][osu!taiko] ![][osu!catch]
+- [오토 파일럿 (AP)](/wiki/Game_modifier/Autopilot) ![][osu!]
+- [스펀 아웃 (SO)](/wiki/Game_modifier/Spun_Out) ![][osu!]
+- [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K (xK)](/wiki/Game_modifier/xK) ![][osu!mania]
+- [협동 (CP)](/wiki/Game_modifier/Co-op) ![][osu!mania]
+- [미러 (MR)](/wiki/Game_modifier/Mirror) ![][osu!mania]
+- [랜덤 (RD)](/wiki/Game_modifier/Random) ![][osu!mania]
+- [오토 (AT)](/wiki/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [시네마 (CM)](/wiki/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [스코어 V2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [타겟팅 연습 (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Cutting Edge (Experimental) only**
 
 ### 그 외
 
 *중요: 이 모드들은 과거에 이용 가능한 모드였으나 지금은 이용이 불가능합니다.
 
-- [10K](/wiki/Game_modifier/10k) ![][o!m]
-- [페이드 아웃](/wiki/Game_modifier/Fade_Out) ![][o!m]
-- [노 비디오](/wiki/Game_modifier/No_Video) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [10K](/wiki/Game_modifier/10k) ![][osu!mania]
+- [페이드 아웃](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
+- [노 비디오](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
+[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
