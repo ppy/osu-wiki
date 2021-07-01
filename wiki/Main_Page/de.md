@@ -63,7 +63,7 @@ Komponenten: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Taktteiler](/wiki/Beatmap_
 
 # Personen
 
-[Das Team](/wiki/People/The_Team): [Entwickler](/wiki/People/The_Team/Developers) • [Globales Moderationsteam](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nominierungsbewertungsteam](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap-Nominatoren](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Projekt Loved Team](/wiki/People/The_Team/Project_Loved_Team)
+[Das Team](/wiki/People/The_Team): [Entwickler](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
 Organisationen: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
