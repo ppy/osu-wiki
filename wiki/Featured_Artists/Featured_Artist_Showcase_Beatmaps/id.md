@@ -350,7 +350,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!taiko]) [yukitani - Amusing Reflection Rag.](https://osu.ppy.sh/beatmapsets/1436446) diurus oleh ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011)
 - **[Sewerslvt](https://osu.ppy.sh/home/news/2021-05-29-new-featured-artist-sewerslvt)** (2021-05-29)
   - (![][osu!taiko]) [Sewerslvt - Newlove](https://osu.ppy.sh/beatmapsets/1442626) diurus oleh ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
-  
+
 ### Juni
 
 - **[La priere](https://osu.ppy.sh/home/news/2021-06-16-new-featured-artist-la-priere)** (2021-06-16)
