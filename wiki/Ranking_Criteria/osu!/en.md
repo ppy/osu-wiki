@@ -70,6 +70,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **[Time-distance equality](/wiki/Mapping_Techniques/Time-distance_equality) should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hit objects are more than 2 beats apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
 - **When [distance snap](/wiki/Beatmap_Editor/Distance_Snap) is used, try to keep it between 0.8x and 1.2x.** Values too much higher or lower may make the difference between [slider velocity](/wiki/Hit_object/Slider_velocity) and spacing counterintuitive. A higher distance snap can be used to avoid [overlapping](/wiki/Mapping_Techniques/Overlap), but the slider velocity should be increased if you find yourself doing this often.
+- **Avoid [slider velocity](/wiki/Hit_object/Slider_velocity) above 1.3.**
 - **Note density should consist of mostly 1/1, 2/1, or slower rhythms.**
 - **Avoid using sliders shorter than 1/2 of a beat.** These are too fast to be comprehended by new players.
 - **Avoid [overlapping](/wiki/Mapping_Techniques/Overlap) circles, slider heads, and slider tails.** These can be confusing for new players. 1/1 overlaps due to [distance snapping](/wiki/Beatmap_Editor/Distance_Snap) should be avoided with higher spacing or [slider velocity](/wiki/Hit_object/Slider_velocity).
@@ -122,7 +123,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of beatmaps with extremely long sliders, such as sliders longer than 2 measures.
 - **Avoid more than four consecutive 1/2 sliders.** This includes 1/2 reversing sliders.
 - **Objects making up actively clicked 1/2 rhythms should [overlap](/wiki/Mapping_Techniques/Overlap) each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such a sliderend followed by a circle, are acceptable.
-- **Avoid [slider velocity](/wiki/Hit_object/Slider_velocity) above 1.3x.**
+- **Avoid [slider velocity](/wiki/Hit_object/Slider_velocity) above 1.3.**
 
 #### Difficulty setting guidelines
 
