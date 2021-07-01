@@ -137,7 +137,7 @@ Cet espace peut afficher le tableau de classement ou différents messages :
 
 ### Grade screen
 
-This is the grade screen after you successfully passed the beatmap. You can access your Online results by scrolling down or pressing the obvious button.
+Il s'agit de l'écran de notation après avoir passé avec succès la beatmap. Vous pouvez accéder à vos résultats en ligne en faisant défiler vers le bas ou en appuyant sur le bouton évident.
 
 **Note:** The grade skin will vary by skin used.
 
