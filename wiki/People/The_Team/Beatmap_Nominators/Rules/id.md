@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: d2a93c7e0e135bbf0a1944230cab0a334b2ef58f
+---
+
 # Aturan bagi Beatmap Nominator
 
 Aturan yang tercantum di sini mempengaruhi apa yang [Beatmap Nominators](/wiki/People/Beatmap_Nominators) bisa dan tidak bisa lakukan saat menominasi beatmap, juga untuk mengatur pola perilaku umum yang diharapkan dari mereka. Aturan-aturan ini adalah hasil diskusi dari [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) dan telah memperhitungkan umpan balik dari Beatmap Nominator berdasarkan proposal mereka.
