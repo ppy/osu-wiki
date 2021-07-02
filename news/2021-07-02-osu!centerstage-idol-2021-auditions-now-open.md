@@ -5,7 +5,9 @@ date: 2021-07-02 12:00:00 +0000
 ---
 
 We are happy to announce the yearly idol contest is back and ready for action!
+
 ![](/wiki/shared/news/2021-07-02-osu!centerstage-idol-2021-auditions-now-open/centerstagebanner.jpg)
+
 A new chapter in the history of this competition, but the spirit is as strong as ever!
 
 ### **What is osu!CenterStage?**
