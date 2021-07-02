@@ -25,21 +25,21 @@
   - การลบเนื้อหาโปรไฟล์ออก
   - การลบบีทแมป
   - การลบโพสต์ฟอรัมและคอมเมนต์
-- การทำผิดกฎที่คุณ[ต้องการสารภาพ](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
+- การทำผิดกฎที่คุณ[ต้องการสารภาพ](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?)
 - [การสูญเสียในการเข้าถึงอีเมล](/wiki/Help_Centre/Installation_and_registration#sign-in)ที่ผูกกับบัญชีของคุณ หรือหากบัญชีของคุณถูกขโมย
-- [การย้อนกลับและการแก้ไขชื่อบัญชีเล็กน้อย](/wiki/Help_Centre/Account#name-changes).
-- [การลงทะเบียนบัญชีสำหรับ bot](/wiki/Bot_Account).
+- [การย้อนกลับและการแก้ไขชื่อบัญชีเล็กน้อย](/wiki/Help_Centre/Account#name-changes)
+- [การลงทะเบียนบัญชีสำหรับ bot](/wiki/Bot_Account)
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*หมายเหตุ: สำหรับการรายงานการผิดประพฤติอย่างร้ายแรง หรือการล่วงละเมิดทางเพศโดยผู้ใช้ใด ๆ ก็ตาม รวมถึงผู้ดูแล ดูที่[การรายงานการละเมิด](/wiki/Reporting_Bad_Behaviour/Abuse).*
+*หมายเหตุ: สำหรับการรายงานการผิดประพฤติอย่างร้ายแรง หรือการล่วงละเมิดทางเพศโดยผู้ใช้ใด ๆ ก็ตาม รวมถึงผู้ดูแล ดูที่[การรายงานการละเมิด](/wiki/Reporting_Bad_Behaviour/Abuse)*
 
 - ข้อกังวลเกี่ยวกับการผิดประพฤติโดยผู้ดูแล
-- ข้อกังวลเกี่ยวกับผู้ดูแลละเมิด[จรรยาบรรณของผู้มีส่วนร่วม](/wiki/Contributor_Code_of_Conduct).
-- [ปัญหาด้านการเงิน](/wiki/Help_Centre/Account#supporter) สำหรับคำสั่งซื้อจาก [osu!store](https://osu.ppy.sh/store/listing).
-- ปัญหาด้านเทคนิคที่ไม่สามารถหรือไม่ได้รับการแก้ไขใน[ฟอรัมช่วยเหลือ](https://osu.ppy.sh/community/forums/5) เช่น[ปัญหาด้านการเชื่อมต่อ](/wiki/Help_Centre/Client#online-features).
+- ข้อกังวลเกี่ยวกับผู้ดูแลละเมิด[จรรยาบรรณของผู้มีส่วนร่วม](/wiki/Contributor_Code_of_Conduct)
+- [ปัญหาด้านการเงิน](/wiki/Help_Centre/Account#supporter) สำหรับคำสั่งซื้อจาก [osu!store](https://osu.ppy.sh/store/listing)
+- ปัญหาด้านเทคนิคที่ไม่สามารถหรือไม่ได้รับการแก้ไขใน[ฟอรัมช่วยเหลือ](https://osu.ppy.sh/community/forums/5) เช่น[ปัญหาด้านการเชื่อมต่อ](/wiki/Help_Centre/Client#online-features)
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [คำร้องเกี่ยวกับข้อมูล](/wiki/Legal/Privacy#data-controller)และข้อกังวลด้านความส่วนตัว.
-- [คำขอให้ลบบัญชี**ถาวร**](/wiki/Legal/Privacy#your-rights-and-control).
+- [คำร้องเกี่ยวกับข้อมูล](/wiki/Legal/Privacy#data-controller)และข้อกังวลด้านความส่วนตัว
+- [คำขอให้ลบบัญชี**ถาวร**](/wiki/Legal/Privacy#your-rights-and-control)
