@@ -10,7 +10,8 @@ We are happy to announce the yearly idol contest is back and ready for action!
 
 A new chapter in the history of this competition, but the spirit is as strong as ever!
 
-### **What is osu!CenterStage?**
+## What is osu!CenterStage?
+
 A successor to the much beloved osu!idol competition which concluded in 2020. The format remains largely the same. Participants will sing through the various rounds set for them until a winner is decided. A panel of judges will guide the direction of this contest by evaluating and critiquing the participant's performances.
 
 ### **How does this work?**
