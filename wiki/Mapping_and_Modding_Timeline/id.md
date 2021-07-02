@@ -88,7 +88,7 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 - **2010-10-03:** Anggota-anggota MAT diberikan kuasa untuk menyematkan ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) pada beatmap.
   - Perubahan ini utamanya dipicu oleh fakta di lapangan yang mengindikasikan bahwa sistem proto-bubble yang diberlakukan sebelumnya tidak dianggap penting oleh anggota-anggota BAT.
   - Secara tidak langsung, anggota-anggota MAT diberikan peran dan tanggung jawab yang lebih besar dalam hal moderasi beatmap. <!-- https://osu.ppy.sh/community/forums/topics/38403 -->
-- **2011-10-10:** Anggota-anggota MAT tidak lagi dapat secara langsung mencalonkan atau memberikan masukan seputar nama-nama yang diangkat sebagai MAT ke depannya.
+- **2010-10-10:** Anggota-anggota MAT tidak lagi dapat secara langsung mencalonkan atau memberikan masukan seputar nama-nama yang diangkat sebagai MAT ke depannya.
   - Peraturan ini diberlakukan untuk mencegah praktek kolusi internal yang dikhawatirkan dapat terjadi setelah MAT diberikan kuasa untuk menyematkan ikon bubble.
   - Anggota-anggota BAT diberikan tanggung jawab penuh untuk menentukan siapa-siapa saja yang diangkat ke dalam dan diberhentikan dari MAT seiring waktu.<!-- https://osu.ppy.sh/community/forums/topics/38806 -->
 
@@ -146,7 +146,7 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 ### Mei
 
-- **2013-05-15:** Posisi [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) diperkenalkan kepada publik. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
+- **2013-05-15:** Posisi [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate) diperkenalkan kepada publik. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
   - Peran BAT manager yang sebelumnya hanya dijabat oleh satu orang kini dipangku oleh tiga orang secara paralel. Setiap anggota Triumvir Conglomerate merupakan perwakilan dari wilayah geografisnya masing-masing, di mana ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika Utara, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) mewakili Asia, dan ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa.
   - Perubahan ini diberlakukan agar aspirasi para mapper di seluruh dunia dapat lebih terdengar secara merata. Sebelumnya, suara mapper-mapper yang berasal dari Asia cenderung terisolir karena mapper-mapper Asia secara umum lebih banyak berkomunikasi antar satu sama lain melalui media-media sosial di luar osu!.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
   - Di kala ketiga anggota Triumvir Conglomerate tidak dapat mengambil keputusan yang mutlak atas suatu permasalahan yang ada, ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) dan para petinggi osu! lainnya berhak untuk mengambil tindakan atas nama Triumvir Conglomerate dan anggota-anggota BAT lainnya.
@@ -162,7 +162,7 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 - **2013-12-12:** Kategori [Qualified](/wiki/Beatmap/Category#qualified) diperkenalkan kepada publik. Beatmap yang telah memperoleh dua nominasi akan terlebih dahulu ditempatkan di kategori Qualified selama satu minggu sebelum dapat sepenuhnya berstatus Ranked.
   - Beatmap yang berada pada kategori Qualified dapat sewaktu-waktu didiskualifikasi apabila terdapat suatu masalah yang ditemukan pada beatmap yang bersangkutan. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
-- **2013-12-22:** Jabatan [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) dipindahtangankan ke tiga nama baru untuk memberikan angin segar bagi anggota-anggota BAT yang bertugas.
+- **2013-12-22:** Jabatan [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate) dipindahtangankan ke tiga nama baru untuk memberikan angin segar bagi anggota-anggota BAT yang bertugas.
   - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) ditunjuk sebagai perwakilan Amerika Utara, ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) ditunjuk sebagai perwakilan Asia, dan ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) ditunjuk sebagai perwakilan Eropa yang baru. <!-- https://osu.ppy.sh/community/forums/topics/172289 -->
 
 Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
@@ -243,7 +243,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 - **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_Criteria/Ranking_Criteria_Council) dibentuk untuk merombak ulang [Ranking Criteria](/wiki/Ranking_Criteria).
   - Anggota-anggota Ranking Criteria Council bertugas untuk menyusun ulang Ranking Criteria dari awal tanpa mempertimbangkan proposal-proposal yang sebelumnya telah dicetuskan pada sub-forum Ranking Criteria.
-  - Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terdahulu, anggota-anggota Ranking Criteria Council sengaja dipilih untuk dapat mewakili suara-suara yang ada dari berbagai belahan dunia secara merata. Masing-masing mode permainan memiliki 1 mapper dan 1 pemain yang berasal dari benua Amerika, Eropa, dan Asia serta 2 anggota QAT.
+  - Layaknya [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate) terdahulu, anggota-anggota Ranking Criteria Council sengaja dipilih untuk dapat mewakili suara-suara yang ada dari berbagai belahan dunia secara merata. Masing-masing mode permainan memiliki 1 mapper dan 1 pemain yang berasal dari benua Amerika, Eropa, dan Asia serta 2 anggota QAT.
   - Secara lebih spesifik, Ranking Criteria Council memiliki tugas untuk dapat membuat Ranking Criteria yang terpisah untuk masing-masing mode permainan yang ada (osu!, osu!taiko, osu!catch, dan osu!mania). Dalam kenyataannya, pada akhir masa bakti Ranking Criteria Council hanya mode osu!catch yang memiliki Ranking Criteria-nya tersendiri.
   - Di samping itu, Ranking Criteria Council juga ditugaskan untuk merapikan dokumen Ranking Criteria secara umum. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
 - **2016-02-24:** Ranking Criteria Council memberlakukan peraturan *mapset spread* baru yang membatasi jumlah tingkat kesulitan pada suatu beatmap.
@@ -275,7 +275,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 ### September
 
 - **2016-09-30:** Program [Community Mentorship](/wiki/Community_Mentorship_Program) diluncurkan ulang.
-  - Tidak seperti program Community Mentorship terdahulu, program Community Mentorship kali ini menggunakan [Discord](https://discord.com/new) sebagai sarana komunikasi utama antar para mentor dan *mentee*-nya masing-masing.
+  - Tidak seperti program Community Mentorship terdahulu, program Community Mentorship kali ini menggunakan [Discord](https://discord.com) sebagai sarana komunikasi utama antar para mentor dan *mentee*-nya masing-masing.
   - Program ini diketuai oleh ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923). <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
 ### Oktober

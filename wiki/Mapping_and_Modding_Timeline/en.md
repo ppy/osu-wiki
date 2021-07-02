@@ -88,7 +88,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2010-10-03:** MAT were granted permission to nominate beatmaps for ranking with normal `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icons, as opposed to proto-bubbles.
   - Proto-bubbles were ignored by most BAT members, so the MAT had no purpose without this change.
   - This gave MAT considerably more influence in the ranking process.<!-- https://osu.ppy.sh/community/forums/topics/38403 -->
-- **2011-10-10:** MAT members were no longer allowed to nominate or vote on new additions to their team.
+- **2010-10-10:** MAT members were no longer allowed to nominate or vote on new additions to their team.
   - Having gained bubbling permissions, it was assumed that the MAT would vote for personal gain, so this was prevented before damage could be done.
   - The BAT gained full responsibility for MAT additions.<!-- https://osu.ppy.sh/community/forums/topics/38806 -->
 
@@ -146,7 +146,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### May
 
-- **2013-05-15:** The [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) was formed. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
+- **2013-05-15:** The [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate) was formed. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
   - The role of BAT manager was split between 3 users from different regions in an attempt to promote equal input among mapping subgroups. ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) represented North America, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) represented Asia, and ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) represented Europe.
   - Prior to this, Asian subgroups were often neglected because they communicated mainly outside of osu!'s IRC/forums.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
   - When the 3 members did not agree on a decision, it needed to be decided by a higher-up (most often ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)).
@@ -162,7 +162,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2013-12-12:** Beatmaps with two nominations began being promoted to the [Qualified](/wiki/Beatmap/Category#qualified) category instead of Ranked.
   - Qualified beatmaps could be disqualified within 1 week, replacing the option of unranking a beatmap within 1 week. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
-- **2013-12-22:** The [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) cycled its regional leaders to avoid burnout.
+- **2013-12-22:** The [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate) cycled its regional leaders to avoid burnout.
   - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) represented North America, ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) represented Asia, and ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) represented Europe. <!-- https://osu.ppy.sh/community/forums/topics/172289 -->
 
 **1327 beatmaps** were ranked in 2013.
@@ -243,7 +243,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_Criteria/Ranking_Criteria_Council) was created to reform the [Ranking Criteria](/wiki/Ranking_Criteria).
   - Public proposals on the Ranking Criteria subforum were no longer considered.
-  - Taking a stance similar to the [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate), the Ranking Criteria Council involved members to represent major mapping subgroups by region. Each game mode had 1 mapper and 1 player from the Americas, Europe, and Asia, along with 2 members of the QAT.
+  - Taking a stance similar to the [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate), the Ranking Criteria Council involved members to represent major mapping subgroups by region. Each game mode had 1 mapper and 1 player from the Americas, Europe, and Asia, along with 2 members of the QAT.
   - Each game mode's goal was to create a general/difficulty-specific Ranking Criteria for their respective mode. osu!catch was the only game mode that achieved this goal under this system.
   - The collective goal of this group was to rewrite all sections of the general Ranking Criteria. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
 - **2016-02-24:** Mapset and spread restructure was introduced to limit the number of difficulties in each difficulty tier per beatmap.
@@ -275,7 +275,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### September
 
 - **2016-09-30:** The [Community Mentorship Program](/wiki/Community_Mentorship_Program) re-launched after a long hiatus.
-  - Its new structure was centered around [Discord](https://discord.com/new) communication and seasonal cycles.
+  - Its new structure was centered around [Discord](https://discord.com) communication and seasonal cycles.
   - The program was led by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
 ### October
