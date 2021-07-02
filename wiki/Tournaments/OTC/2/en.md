@@ -55,7 +55,7 @@ The osu! Technical Championship #2 was run by various osu! community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/716902)
 - [OTC Discord server](https://discord.gg/GGMmSu5 "Discord")
 - [Livestream](https://www.twitch.tv/osutechnicalchampionship "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -454,7 +454,7 @@ Monday, 16 April 2018:
    - Each team receives two bans each.
    - Teams are not required to ban two maps and may ban one or zero maps if they wish.
 6. The captain of the highest rolling team then choose the first map to be played. Use the `!mp map <Beatmap ID>` command to select the chosen map. Apply the appropriate mods and once both teams have readied up, start the map with the `!mp start 5` command.
-   - The beatmap ID for each map can be found under the appropriate mappool through the [statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml# "Google Docs").
+   - The beatmap ID for each map can be found under the appropriate mappool through the [statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml# "Google Sheets").
 7. Once the first map is complete, the lowest rolling team will then choose second map. Use the same procedure as the last step, then continue alternating between teams for picks until the match is finished.
    - If both teams reach match point (i.e. both teams are one point away from victory) the tiebreaker will be played to decide the winner of the match.
    - The tiebreaker is FreeMod. The allowed mods are EZ, HR, HD, and FL. Combining mods is allowed, as well as using nomod. All mods are optional.

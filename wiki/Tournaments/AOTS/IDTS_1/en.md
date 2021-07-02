@@ -48,7 +48,7 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/576070)
 - [Livestream](https://www.twitch.tv/osutaikoshowdown "Twitch")
 - [Indonesian Taiko Showdown skins](https://puu.sh/whPiI/0fd221d5fa.zip "puush")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1MEkIzPxnb95kHoVRU6OWczhxPsl93RwSXsKSgdkopyE/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1MEkIzPxnb95kHoVRU6OWczhxPsl93RwSXsKSgdkopyE/pubhtml "Google Sheets")**
 
 ## Participants
 

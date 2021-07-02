@@ -51,7 +51,7 @@ The 2v2 :thonking: Mania Tournament was run by various osu! community members.
 - [TMT Discord server](https://discord.gg/CPRBtBR "Discord")
 - [TMT Challonge brackets](https://challonge.com/2tmt "Challonge")
 - [Livestream](https://www.twitch.tv/thonkingtourney "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQ0UHEZ55LqAnlE6TEZJyYWzttoeh4hour4weugiQu6aO06kdk3N6rQMZi-ksvi7ZDOF4dEFypizp8/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQ0UHEZ55LqAnlE6TEZJyYWzttoeh4hour4weugiQu6aO06kdk3N6rQMZi-ksvi7ZDOF4dEFypizp8/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -375,7 +375,7 @@ Sunday, 18 November 2018:
 
 ### Qualifiers
 
-Detailed results for this round can be found via this [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQ0UHEZ55LqAnlE6TEZJyYWzttoeh4hour4weugiQu6aO06kdk3N6rQMZi-ksvi7ZDOF4dEFypizp8/pubhtml# "Google Docs").
+Detailed results for this round can be found via this [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQ0UHEZ55LqAnlE6TEZJyYWzttoeh4hour4weugiQu6aO06kdk3N6rQMZi-ksvi7ZDOF4dEFypizp8/pubhtml# "Google Sheets").
 
 ## Ruleset
 

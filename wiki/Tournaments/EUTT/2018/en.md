@@ -54,7 +54,7 @@ The European Taiko Tournament 2018 was run by various osu!taiko community member
 - [Livestream](https://www.twitch.tv/osutaikolive "Twitch")
 - [EUTT Discord server](https://discord.gg/5jb2eun "Discord")
 - [Challonge brackets](https://challonge.com/4lhs6ms "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ70QVoohFSUWL_InYhTzJ-I7kG56EnIcXRfgAGw9ciHVkQSp3JJfDcQHwi8xnbKWnKCWZlbuxsvzaW/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ70QVoohFSUWL_InYhTzJ-I7kG56EnIcXRfgAGw9ciHVkQSp3JJfDcQHwi8xnbKWnKCWZlbuxsvzaW/pubhtml "Google Sheets")**
 
 ## Participants
 

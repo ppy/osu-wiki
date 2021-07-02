@@ -52,7 +52,7 @@ The osu! Technical Championship was run by various osu! community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/684306)
 - [OTC Discord server](https://discord.gg/GGMmSu5 "Discord")
 - [Livestream](https://www.twitch.tv/osutechnicalchampionship "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStmKfT5R9F8cFGqit3gyVwz8H7EN4Z4y7d3mbWD5Lz4emiVUiMziaYfSR1sxGmMMRgVohyqiHS7x19/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStmKfT5R9F8cFGqit3gyVwz8H7EN4Z4y7d3mbWD5Lz4emiVUiMziaYfSR1sxGmMMRgVohyqiHS7x19/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -558,7 +558,7 @@ Monday, 29 January 2018:
 5. Players will take turns banning maps until both players have banned two maps each.
    - One player cannot ban two HR maps or two DT maps maps. (e.g.) both HR maps can be banned, just not by the same player. The same applies to DT as well.
 6. The highest rolling player will then choose the first map to be played. Use the `!mp map <Beatmap ID>` command to select the chosen map. Apply the applicable mods and once both players are ready, start the game with the `!mp start 5` command.
-   - The beatmap ID for each map can be found under the appropriate mappool through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStmKfT5R9F8cFGqit3gyVwz8H7EN4Z4y7d3mbWD5Lz4emiVUiMziaYfSR1sxGmMMRgVohyqiHS7x19/pubhtml "Google Docs").
+   - The beatmap ID for each map can be found under the appropriate mappool through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStmKfT5R9F8cFGqit3gyVwz8H7EN4Z4y7d3mbWD5Lz4emiVUiMziaYfSR1sxGmMMRgVohyqiHS7x19/pubhtml "Google Sheets").
 7. After the map is finished, the lowest rolling player will choose their first map. Use the same procedure as the last step. Continue alternating between players until the match is finished.
    - If both players reach match point, the tiebreaker will be played to decide the winner.
 8. Once the the match is finished, say your goodbyes and close the lobby by using the `!mp close` command.

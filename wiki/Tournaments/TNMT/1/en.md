@@ -50,8 +50,8 @@ All prizes were sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/933542)
-- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfq_yw61wfi9NyLxmTvBDw-rzwyqsYYHt_5udh5pMmX0iPQdA/viewform "Google Docs")
-- [Statistics sheet](https://docs.google.com/spreadsheets/d/10sproN_2SQWUi6BZ4Sv9wlx0I5-i0hEBq7wqqWrlJdQ "Google Docs")
+- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfq_yw61wfi9NyLxmTvBDw-rzwyqsYYHt_5udh5pMmX0iPQdA/viewform "Google Sheets")
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/10sproN_2SQWUi6BZ4Sv9wlx0I5-i0hEBq7wqqWrlJdQ "Google Sheets")
 - [Challonge brackets](https://challonge.com/TNMT "Challonge")
 - [Discord server](https://discord.gg/nxWEjpW "Discord")
 - [QQ group](https://jq.qq.com/?_wv=1027&k=5XdDR3K "QQ")

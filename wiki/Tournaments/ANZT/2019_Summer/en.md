@@ -39,7 +39,7 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a 1v1 sing
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/839284)
 - [Livestream](https://www.twitch.tv/osuanzt "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8 "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1gnV5_7e-57MXtpoY57lgyPKyF3_IvjDXsGoLVgrnqk8 "Google Sheets")**
 
 ## Mappools
 

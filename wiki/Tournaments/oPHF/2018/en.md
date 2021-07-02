@@ -54,7 +54,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-rest
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/801475)
 - [Livestream](https://www.twitch.tv/osuliveph "Twitch")
-- [YouTube Channel](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q "Youtube")
+- [YouTube Channel](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q "YouTube")
 - [osu!PH Facebook Group](https://web.facebook.com/groups/OSU.Philippines/ "Facebook")
 - Challonge
   - [osu!](https://challonge.com/oPHF2018_std "Challonge")
@@ -863,7 +863,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQk5tpFYFoxFamLzjIhVZ8gz7REE42YYDblA_UimpKMuxHTsPvJjf8WYXPjntaUjGuVU8BWNxsEq0sv/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQk5tpFYFoxFamLzjIhVZ8gz7REE42YYDblA_UimpKMuxHTsPvJjf8WYXPjntaUjGuVU8BWNxsEq0sv/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -871,7 +871,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Semifinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRz4KlpijwtlXCdCkqZQYMq6TEC_D5sw0TRbboLFjaJOkcYREp83HyG08LvBm_IthBZEXUlOtrRuX4a/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRz4KlpijwtlXCdCkqZQYMq6TEC_D5sw0TRbboLFjaJOkcYREp83HyG08LvBm_IthBZEXUlOtrRuX4a/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -880,7 +880,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Quarterfinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRpeRHl4cWvdAZukgiiKnzb83JxRWDpaaVREavvNAH7X5s9UoGRf-scs-5COoktEcrTLZmIoLPKXrb/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRpeRHl4cWvdAZukgiiKnzb83JxRWDpaaVREavvNAH7X5s9UoGRf-scs-5COoktEcrTLZmIoLPKXrb/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -891,7 +891,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round of 16
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQCPj4eVRM3TlrIhl0LA74n6ghTG8rnQuhRCPor9JQS_kKrcUv0kmYzcVIofjyN2m2iRpX-Q3N7nzAX/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQCPj4eVRM3TlrIhl0LA74n6ghTG8rnQuhRCPor9JQS_kKrcUv0kmYzcVIofjyN2m2iRpX-Q3N7nzAX/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -906,7 +906,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round of 32
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxQBHVfiVOXY9-vZgGyK0zEvtI20r0Ur1E_rPZBFvi9kcmiWG178l0-bosMDtxAZuusMBzfNgCYDUq/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxQBHVfiVOXY9-vZgGyK0zEvtI20r0Ur1E_rPZBFvi9kcmiWG178l0-bosMDtxAZuusMBzfNgCYDUq/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -929,13 +929,13 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1BzjHX5LnGZmYiwUdYCm21ifzKdaQrxqHkXTTHQUbWXo "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1BzjHX5LnGZmYiwUdYCm21ifzKdaQrxqHkXTTHQUbWXo "Google Sheets")
 
 ### osu!taiko
 
 #### Finals week 2
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSo8t3GYXw5MCg5nfDomp8A6lGO9HnStGYaYtCYYprDsrGeEwvMjVdUGNgH347sGTpG4OVg3vWp267r/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSo8t3GYXw5MCg5nfDomp8A6lGO9HnStGYaYtCYYprDsrGeEwvMjVdUGNgH347sGTpG4OVg3vWp267r/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -944,7 +944,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Finals week 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRX7gnA_Z8FOPcMt66Ryim5GCYAj4BM-UfCP3xXsHKD4RagE0h-IdbrCqjbQgE56ZDVVQ7PCEOLHVsI/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRX7gnA_Z8FOPcMt66Ryim5GCYAj4BM-UfCP3xXsHKD4RagE0h-IdbrCqjbQgE56ZDVVQ7PCEOLHVsI/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -953,7 +953,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round 2
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6uQvu-wIDerH4e3Dizyt3np1DGNWnvzzncnznqY5jl32DcoXO9pOCSK049i9neNjp_XDfA4EBw86S/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6uQvu-wIDerH4e3Dizyt3np1DGNWnvzzncnznqY5jl32DcoXO9pOCSK049i9neNjp_XDfA4EBw86S/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -964,7 +964,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6ne_1IxAq-Va7oDzjiheKRA4yR_VrqZwoELsxDwjfmX-rbWmicuQ5d4QbcEe815vfiiqLarUixW4y/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6ne_1IxAq-Va7oDzjiheKRA4yR_VrqZwoELsxDwjfmX-rbWmicuQ5d4QbcEe815vfiiqLarUixW4y/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -975,7 +975,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Finals week 2
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfnWy12VK1RBz5bwtfPOTMEFST_2ldF1sGfdVwcz5vMKHLDkUlR1t4Aey671J3yz7TWkNPpJ_4qwv1/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfnWy12VK1RBz5bwtfPOTMEFST_2ldF1sGfdVwcz5vMKHLDkUlR1t4Aey671J3yz7TWkNPpJ_4qwv1/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -985,7 +985,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Finals week 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSH8dVYca-voNGPONyEBXl3Kn3T162qWwQlTD2uzzicW5B5DjJfgplR9bpsoqZZE9fqpCWV5CXxFH7/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSH8dVYca-voNGPONyEBXl3Kn3T162qWwQlTD2uzzicW5B5DjJfgplR9bpsoqZZE9fqpCWV5CXxFH7/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
@@ -996,7 +996,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round 3
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTcVBW1bxisVPHulxDbBGFSJmOIjd_wN6NXyID7I_jtEK1bZ0kbWQpgNVkDFV9h0QtwbtKQBkQSJ2ri/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTcVBW1bxisVPHulxDbBGFSJmOIjd_wN6NXyID7I_jtEK1bZ0kbWQpgNVkDFV9h0QtwbtKQBkQSJ2ri/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1007,7 +1007,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round 2
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSl8Mup54g4h0tTJH-hfS-UOV0ctVr0rnOW7C5Gd-mBNRYL2Gi1OD2tomiUvTqn_d1n5Bi_v7sn3OJF/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSl8Mup54g4h0tTJH-hfS-UOV0ctVr0rnOW7C5Gd-mBNRYL2Gi1OD2tomiUvTqn_d1n5Bi_v7sn3OJF/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1022,7 +1022,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRz61aUu8gQI6SkbeygetWFWAkrSZABgbD70Da6tLPbW_Sx0rmBAOcNNt6afjyLEJ9QgCp0nfvVneu3/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRz61aUu8gQI6SkbeygetWFWAkrSZABgbD70Da6tLPbW_Sx0rmBAOcNNt6afjyLEJ9QgCp0nfvVneu3/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1033,13 +1033,13 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1h1V8x2U586Tm0WHoAgbVC5bPF1DJpmLBtA91agj9jHk "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1h1V8x2U586Tm0WHoAgbVC5bPF1DJpmLBtA91agj9jHk "Google Sheets")
 
 ### osu!mania 4K
 
 #### Finals week 2
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrQ_M5fyMamxXZZJMmhSaahdBhCrwOUR764futo2GM_Sj4q0kb0xRfwtSokr0-pJAqrqZaxETYXV0A/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrQ_M5fyMamxXZZJMmhSaahdBhCrwOUR764futo2GM_Sj4q0kb0xRfwtSokr0-pJAqrqZaxETYXV0A/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1049,7 +1049,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Finals week 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDXtOV-mc56JfL_iO7mmC9Q-fnLlmfugSQ14ITW_MNw17DWTKNKn9MDVpNKiE3S-Qx-dSnFH5zeh5x/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDXtOV-mc56JfL_iO7mmC9Q-fnLlmfugSQ14ITW_MNw17DWTKNKn9MDVpNKiE3S-Qx-dSnFH5zeh5x/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1060,7 +1060,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Semifinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrzTtkUyb4Ta5eC5MZSYgDWobizNJrQ_QXFQ5V6YYkaSPZ-tSOxowtwqx4TiJL5EtzBkMBTMBSTgjY/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrzTtkUyb4Ta5eC5MZSYgDWobizNJrQ_QXFQ5V6YYkaSPZ-tSOxowtwqx4TiJL5EtzBkMBTMBSTgjY/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1075,7 +1075,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Quarterfinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpGAVkE3_hxeX5WwCtK2VDLcL86A2WgchfiKzY5YYcJoyM53XLcOwNZKBxV8WjTY9ZFFFKDEWnGUqe/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpGAVkE3_hxeX5WwCtK2VDLcL86A2WgchfiKzY5YYcJoyM53XLcOwNZKBxV8WjTY9ZFFFKDEWnGUqe/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1090,7 +1090,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round of 16
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaId6g7d0Rr6UaAkteob2zggYO8tTgjuRJq0xHRCOPpQo_gOTTSs3m2YPscsbawlNhxv3fUVFQxomU/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaId6g7d0Rr6UaAkteob2zggYO8tTgjuRJq0xHRCOPpQo_gOTTSs3m2YPscsbawlNhxv3fUVFQxomU/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1105,13 +1105,13 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/12eTXD8Jm4kNTzzhJ0WFB8aNnDQc1ENvEAfsG5XiExYk "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/12eTXD8Jm4kNTzzhJ0WFB8aNnDQc1ENvEAfsG5XiExYk "Google Sheets")
 
 ### osu!mania 7K
 
 #### Finals week 2
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRU-FRNZQkxl8hAc_qSTV4Xer90XlzStTdJ51n3wldcw6ArtmMNXJX5O_jzfnqTYzFsCdSu8tNBYZL8/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRU-FRNZQkxl8hAc_qSTV4Xer90XlzStTdJ51n3wldcw6ArtmMNXJX5O_jzfnqTYzFsCdSu8tNBYZL8/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1120,7 +1120,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Finals week 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT_JfWTcj1zCEK5-i7wMXqHAAYVKOWd0l78S_x4I0TcsjyY54eZdMWMVOxNV22ZmRGWIABT11Qhb8Nc/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT_JfWTcj1zCEK5-i7wMXqHAAYVKOWd0l78S_x4I0TcsjyY54eZdMWMVOxNV22ZmRGWIABT11Qhb8Nc/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1131,7 +1131,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round 3
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRfjIu95cYDKCUjKebQMQkknWpXC4TOoGOhuwJUVqd1Jsi_PnPrNlxSQU4ZmlZg572FGBaYeDgbWJ0F/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRfjIu95cYDKCUjKebQMQkknWpXC4TOoGOhuwJUVqd1Jsi_PnPrNlxSQU4ZmlZg572FGBaYeDgbWJ0F/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1142,7 +1142,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round 2
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTBRTEeEZzthj89QUjFI4Qu_TgwZEkL83gk3cKLw11JQttR4v3jo0lWyI4kGMds1T3rXFYqgcTVsNIf/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTBRTEeEZzthj89QUjFI4Qu_TgwZEkL83gk3cKLw11JQttR4v3jo0lWyI4kGMds1T3rXFYqgcTVsNIf/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1155,7 +1155,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Round 1
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQkhVuw3v01xpEBje5ThPQ96jlvGU-1XY7eO2g57GRd9lr_LNwNsGahh6T46u4uvnD5Tm6WmUymKkzK/pubhtml "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQkhVuw3v01xpEBje5ThPQ96jlvGU-1XY7eO2g57GRd9lr_LNwNsGahh6T46u4uvnD5Tm6WmUymKkzK/pubhtml "Google Sheets")
 
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
@@ -1164,7 +1164,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1dxo-VvuNF7YIl759bPsT7ImwKDDSyot3w1-d_8JUNWw/edit?usp=sharing "Google Docs")
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1dxo-VvuNF7YIl759bPsT7ImwKDDSyot3w1-d_8JUNWw/edit?usp=sharing "Google Sheets")
 
 ## Ruleset
 
@@ -1257,7 +1257,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - All players that enter the tournament osu!mania 4K and 7K divisions are obliged to play in the qualification round in order to cut down to participants to sixteen (16) players, or as registration numbers may see fit. This round will also serve as the division's seeding phase.
 - Players are scheduled alongside each other to play a mini-pool of 4 notecharts twice in a multiplayer room. The notecharts are specially-made for the qualifying round of the tournament and are only uploaded minutes before the Qualifier pools are revealed. All players are obliged to play ALL of the notecharts during the qualifiers as **failed scores will still count**. In case a player appears late on his schedule, they will be allowed to catch up after the rest of the notecharts have been played, but if the second iteration has started, the player will not be allowed to join anymore and must arrange a reschedule before the set match deadline for the weekend.
 - The room name format is as follows: ``oPHF18: (<4K/7K> Group X)``. The rooms are made ten minutes prior to the schedule and the referees are obliged to invite you, the player, to the qualifier room at that time. There will be no warm-up phase during the qualifiers so it is asked of the player to prepare by themselves.
-- Players are to be ranked according to the weighted average of their [Score Rating](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217 "Google Docs") on each notechart. This is to take into consideration the variation created by the difficulty spread of the pools, and will pool players according to their overall performance. Top 16 players advance to the bracket stage, and the rest are eliminated.
+- Players are to be ranked according to the weighted average of their [Score Rating](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217 "Google Sheets") on each notechart. This is to take into consideration the variation created by the difficulty spread of the pools, and will pool players according to their overall performance. Top 16 players advance to the bracket stage, and the rest are eliminated.
 - Players are allowed to use only Hidden (HD), Fade In (FI), and Flashlight (FL) if they wish to use mods.
 - In the event that there are insufficient players to fill in the qualifying slots, the remaining slots will be given to players who were not able to play according to their ranks. Players who have played during the qualifiers will still keep their seeding priority.
 

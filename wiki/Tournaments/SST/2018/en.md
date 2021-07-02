@@ -45,7 +45,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/684960)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTuQuDZWKprRs_wKi235lawGj9SvdL4mvqjZJrPc9Mk0lDSbJypoDDJxg8tgPysaPyRowXcnol9A3HA/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTuQuDZWKprRs_wKi235lawGj9SvdL4mvqjZJrPc9Mk0lDSbJypoDDJxg8tgPysaPyRowXcnol9A3HA/pubhtml "Google Sheets")**
 
 ## Participants
 

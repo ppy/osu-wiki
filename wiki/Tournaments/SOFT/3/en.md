@@ -274,7 +274,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Detailed results of the Grand Finals stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7DzTCT5BW4kK6YYRSnIJ0XhOJm1zAbjBfzBtO5pt_yEDaAxAy2HdeXWRjfjgZFtMePueHU_m72O4f/pubhtml?gid=235298817# "Google Docs").
+Detailed results of the Grand Finals stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7DzTCT5BW4kK6YYRSnIJ0XhOJm1zAbjBfzBtO5pt_yEDaAxAy2HdeXWRjfjgZFtMePueHU_m72O4f/pubhtml?gid=235298817# "Google Sheets").
 
 Saturday, 28 April 2018:
 
@@ -291,7 +291,7 @@ Sunday, 29 April 2018:
 
 ### Finals
 
-Detailed results of the Finals stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTedveWks8e5Fu2DPg1WW8b0lw0dypFMyqHc-qopmOT2j_BpczZooVetHPSpgvhbFmtftkQj0ntLWPj/pubhtml?gid=1660954469# "Google Docs").
+Detailed results of the Finals stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTedveWks8e5Fu2DPg1WW8b0lw0dypFMyqHc-qopmOT2j_BpczZooVetHPSpgvhbFmtftkQj0ntLWPj/pubhtml?gid=1660954469# "Google Sheets").
 
 Saturday, 21 April 2018:
 
@@ -309,7 +309,7 @@ Sunday, 22 April 2018:
 
 ### Semifinals
 
-Detailed results of the Semifinals stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDuqVN5Tz5We9dG1uzUqB3sjAo92fQm1sjL6nnDE2QQn9gpLKS0u5C0Gv--4wbIDIZ-vn2a2zNCCVw/pubhtml?gid=1660954469 "Google Docs").
+Detailed results of the Semifinals stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDuqVN5Tz5We9dG1uzUqB3sjAo92fQm1sjL6nnDE2QQn9gpLKS0u5C0Gv--4wbIDIZ-vn2a2zNCCVw/pubhtml?gid=1660954469 "Google Sheets").
 
 Saturday, 14 April 2018:
 
@@ -331,7 +331,7 @@ Sunday, 15 April 2018:
 
 ### Quarterfinals
 
-Detailed results of the Quarterfinals stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vR2eNiyf7eZE78mKQUmxV7AWWgz3OPAa7ZOZ0lbwjdpnVr1Kh6YKpwE1Hovh0hufIgQwnJsR-iEmaNo/pubhtml?gid=1660954469 "Google Docs").
+Detailed results of the Quarterfinals stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vR2eNiyf7eZE78mKQUmxV7AWWgz3OPAa7ZOZ0lbwjdpnVr1Kh6YKpwE1Hovh0hufIgQwnJsR-iEmaNo/pubhtml?gid=1660954469 "Google Sheets").
 
 Friday, 6 April 2018:
 
@@ -366,7 +366,7 @@ Sunday, 8 April 2018:
 
 ### Round of 16
 
-Detailed results of the Round of 16 stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vShICSTCwRE2zmXG1Sm8sYnArHGpz2RjeEdZKpQVUq60PTnZwlJvwlWk1oQ-vaGbksFfUgCRcMMYY39/pubhtml?gid=1660954469 "Google Docs").
+Detailed results of the Round of 16 stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vShICSTCwRE2zmXG1Sm8sYnArHGpz2RjeEdZKpQVUq60PTnZwlJvwlWk1oQ-vaGbksFfUgCRcMMYY39/pubhtml?gid=1660954469 "Google Sheets").
 
 Saturday, 31 March 2018:
 
@@ -396,7 +396,7 @@ Sunday, 1 April 2018:
 
 ### Round of 32
 
-Detailed results of the Round of 32 stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxzq7NW7Embezbmjh68dyCTW5a_ztjvb_gcYpmz6vKQxVvTzislknHTzJZ5yt-Vgtn8pJsz-5dXPnu/pubhtml?gid=1660954469 "Google Docs").
+Detailed results of the Round of 32 stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxzq7NW7Embezbmjh68dyCTW5a_ztjvb_gcYpmz6vKQxVvTzislknHTzJZ5yt-Vgtn8pJsz-5dXPnu/pubhtml?gid=1660954469 "Google Sheets").
 
 Saturday, 24 March 2018:
 
@@ -426,7 +426,7 @@ Sunday, 25 March 2018:
 
 ### Group stage
 
-Detailed results of the Group stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSMT0EbsLRGfGh-Rf31jBOaOa5m70r8xoPtfhdO_o7UaqPSO8yw5Udvg0_jtsWMFjtNUDU4gjMRLwvP/pubhtml?gid=1660954469%5D "Google Docs").
+Detailed results of the Group stage can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSMT0EbsLRGfGh-Rf31jBOaOa5m70r8xoPtfhdO_o7UaqPSO8yw5Udvg0_jtsWMFjtNUDU4gjMRLwvP/pubhtml?gid=1660954469%5D "Google Sheets").
 
 Friday, 9 March 2018:
 
@@ -551,7 +551,7 @@ Sunday, 18 March 2018:
 
 ### Playoffs
 
-Detailed results of the Playoffs can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSGY2CSPJNul8OJL1rAGjdLTcgHqPiuZaJMTnLCzv2zGPwlK-zsz7z00zbt8sEHUwdJjwVXXYYptdZX/pubhtml?gid=1660954469 "Google Docs").
+Detailed results of the Playoffs can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSGY2CSPJNul8OJL1rAGjdLTcgHqPiuZaJMTnLCzv2zGPwlK-zsz7z00zbt8sEHUwdJjwVXXYYptdZX/pubhtml?gid=1660954469 "Google Sheets").
 
 Wednesday, 21 February 2018:
 
@@ -649,7 +649,7 @@ Sunday, 4 March 2018:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTKMykaCgJRUGvMFaV4kdQJTtS4tGMvPun1fHzYbFgxCVD6XLP8ezvo-FNOCCCB_k08i5hzsBqfzWnB/pubhtml "Google Docs").
+The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTKMykaCgJRUGvMFaV4kdQJTtS4tGMvPun1fHzYbFgxCVD6XLP8ezvo-FNOCCCB_k08i5hzsBqfzWnB/pubhtml "Google Sheets").
 
 ## Ruleset
 

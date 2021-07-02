@@ -420,7 +420,7 @@ Sunday, 30 June 2019:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhwQj6gqzWVjhmolPUlYOIkAjKZDEiqOqBGMl6M-a6duVOzzpWTqeiE0-bEolAnhZRSGQgKpyNJC_f/pubhtml "Google Docs").
+The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhwQj6gqzWVjhmolPUlYOIkAjKZDEiqOqBGMl6M-a6duVOzzpWTqeiE0-bEolAnhZRSGQgKpyNJC_f/pubhtml "Google Sheets").
 
 ## Ruleset
 

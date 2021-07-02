@@ -50,7 +50,7 @@ The Taiko Wars was run by various osu!taiko community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/813794)
 - [Livestream](https://www.twitch.tv/osutaikowars "Twitch")
 - [oTW Discord server](https://discord.gg/7bWjmq2 "Discord")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1OEnywzQlI4425prcLcfxFoWCaSDGnfDpOXJZ5jRq-CP6E3OTSz0m8SVW4cMKF2i6c_dyrh4yZF3O/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1OEnywzQlI4425prcLcfxFoWCaSDGnfDpOXJZ5jRq-CP6E3OTSz0m8SVW4cMKF2i6c_dyrh4yZF3O/pubhtml "Google Sheets")**
 
 ## Participants
 

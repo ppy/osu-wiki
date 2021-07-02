@@ -53,7 +53,7 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/726251)
 - [Livestream](https://www.twitch.tv/osutaikoshowdown "Twitch")
 - [Asian Taiko Showdown 2018 Discord](https://discord.gg/2xQDbkS "Discord")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0 "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0 "Google Sheets")**
 
 ## Participants
 

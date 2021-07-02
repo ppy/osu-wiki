@@ -57,8 +57,8 @@ The osu!mania Asian's Champions 2019 was run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/946117)
 - [Challonge](https://challonge.com/asianschampions2019 "Challonge")
 - [Livestream](https://www.twitch.tv/asianschampions "Twitch")
-- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1aGQHz8YRl-8a8mdp-7E5h_KQBk3rnwlvUzePaIrx6Zs "Google Docs")
-- [Schedule spreadsheet](https://docs.google.com/spreadsheets/d/1vbSfQXcCG-CMeBmwlCKN5WW1gaaY48yqGsjyFvcN0zU "Google Docs")
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1aGQHz8YRl-8a8mdp-7E5h_KQBk3rnwlvUzePaIrx6Zs "Google Sheets")
+- [Schedule spreadsheet](https://docs.google.com/spreadsheets/d/1vbSfQXcCG-CMeBmwlCKN5WW1gaaY48yqGsjyFvcN0zU "Google Sheets")
 
 ## Participants
 
@@ -413,7 +413,7 @@ Friday, 14 October 2019:
 
 ### Tournament registration
 
-- The flag on your profile must represent an Asian country. For a complete list of Asian countries, you can visit [worldometers](https://www.worldometers.info/geography/how-many-countries-in-asia/ "Worldometers").
+- The flag on your profile must represent an Asian country. For a complete list of Asian countries, you can visit [Worldometer](https://www.worldometers.info/geography/how-many-countries-in-asia/ "Worldometer").
 
 ### Match instructions
 

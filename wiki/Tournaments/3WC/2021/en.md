@@ -50,7 +50,7 @@ The 3 Digit World Cup was run by various community members.
 ## Links
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1256770)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Sheets")**
 - [Discord server](https://discord.gg/ZjPs7ya "Discord")
 - [Challonge brackets](https://challonge.com/3WC2021 "Challonge")
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/54 "Pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
@@ -255,7 +255,7 @@ The 3 Digit World Cup was run by various community members.
 
 ### Grand Finals
 
-The stats of the Grand Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=181538024 "Google Docs").
+The stats of the Grand Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=181538024 "Google Sheets").
 
 Saturday, 8 May 2021:
 
@@ -271,7 +271,7 @@ Sunday, 9 May 2021:
 
 ### Finals
 
-The stats of the Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1957562667 "Google Docs").
+The stats of the Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1957562667 "Google Sheets").
 
 Saturday, 1 May 2021:
 
@@ -289,7 +289,7 @@ Sunday, 2 May 2021:
 
 ### Semifinals
 
-The stats of the Semifinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=740688322 "Google Docs").
+The stats of the Semifinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=740688322 "Google Sheets").
 
 Saturday, 24 April 2021:
 
@@ -316,7 +316,7 @@ Monday, 26 April 2021:
 
 ### Quarterfinals
 
-The stats of the Quarterfinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1091288063 "Google Docs").
+The stats of the Quarterfinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1091288063 "Google Sheets").
 
 Saturday, 17 April 2021:
 
@@ -338,7 +338,7 @@ Sunday, 18 April 2021:
 
 ### Round of 16
 
-The stats of the Round of 16 can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit?rm=minimal#gid=676071053 "Google Docs").
+The stats of the Round of 16 can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit?rm=minimal#gid=676071053 "Google Sheets").
 
 Saturday, 10 April 2021:
 

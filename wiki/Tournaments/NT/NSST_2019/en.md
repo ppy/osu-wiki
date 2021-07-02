@@ -59,8 +59,8 @@ The nik's Spring/Summer Tour 2019 was run by various community members.
   - [Tier 1](https://challonge.com/NSST19T1 "Challonge")
   - [Tier 2](https://challonge.com/NSST19T2 "Challonge")
 - Statistics sheet
-  - **[Tier 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vQPphrCZiOVJskzqs8611I5yqeeq_JN91UIcAeKJI5xjEihvEV9IJn8J1Kf9QBO1K1pyFvOkfYV3MQ2/pubhtml "Google Docs")**
-  - **[Tier 2](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0rK_52GXfaYEiQs9DwR67l2PUV78x6MCyGkEQ4WxjFrMCe59Ox1jWDVxOE39Msl_YjMdQlOpqRfkC/pubhtml "Google Docs")**
+  - **[Tier 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vQPphrCZiOVJskzqs8611I5yqeeq_JN91UIcAeKJI5xjEihvEV9IJn8J1Kf9QBO1K1pyFvOkfYV3MQ2/pubhtml "Google Sheets")**
+  - **[Tier 2](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0rK_52GXfaYEiQs9DwR67l2PUV78x6MCyGkEQ4WxjFrMCe59Ox1jWDVxOE39Msl_YjMdQlOpqRfkC/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -863,7 +863,7 @@ Monday, 20 May 2019:
 
 1. nik's Spring/Summer Tour 2019 is a **one-on-one** tournament using **double-elimination bracket** and **Score V2** as its map scoring.
 2. Rank ranges are explained as follows:
-   - Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank. More information about BWS can be accessed via this [link](https://docs.google.com/spreadsheets/d/1Y0P32sy7OS90CvLTD3P5lg58CHDDWVVOa851HnMLKNg/edit?usp=sharing "Google Docs").
+   - Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank. More information about BWS can be accessed via this [link](https://docs.google.com/spreadsheets/d/1Y0P32sy7OS90CvLTD3P5lg58CHDDWVVOa851HnMLKNg/edit?usp=sharing "Google Sheets").
    - For Tier 1, we are expecting between **#1 - #4,999.**
    - For Tier 2, we are expecting between **#5,000 - #25,000.**
    - Top 64 seeds from qualifiers for each tier will be put in groups of 4 based on rank.

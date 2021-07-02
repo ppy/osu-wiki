@@ -109,7 +109,7 @@ The osu! Multi Mode French Fiesta was run by various community members.
   - [osu!taiko](https://o2mf.challonge.com/o2mf_taiko "Challonge")
   - [osu!catch](https://o2mf.challonge.com/o2mf_catch "Challonge")
   - [osu!mania](https://o2mf.challonge.com/o2mf_mania "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSE0LEyHOBW8P5F37719J2oZMhtba9b7Z-WaT5otksz7lSf4fvIq3giYXHNpT4xl1bOrIhJCPN6xlxO/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSE0LEyHOBW8P5F37719J2oZMhtba9b7Z-WaT5otksz7lSf4fvIq3giYXHNpT4xl1bOrIhJCPN6xlxO/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -1228,7 +1228,7 @@ Sunday, 20 January 2019:
 
 ### Eligibility and registration
 
-- Any player who has a flag of a country that is part of the [Francophonie](http://www.world-territories.com/ttfr/dossiers.php?dossier=francophonie "World Territories") or part of the [Overseas France](https://fr.wikipedia.org/wiki/France_d%27outre-mer "Wikipedia") is allowed to play in this tournament.
+- Any player who has a flag of a country that is part of the [Francophonie](http://www.world-territories.com/ttfr/dossiers.php?dossier=francophonie "Tous les territoires français") or part of the [Overseas France](https://fr.wikipedia.org/wiki/France_d%27outre-mer "Wikipedia") is allowed to play in this tournament.
 - Any staff member except **map selectors and referees** are allowed to play in this tournament.
 - 32 slots will be open for each division. In the case a division does not get 32 players, then only the top 16 of this division will be allowed to play in this tournament. If a division has less than 16 players, the tournament for it will be **cancelled**. More slots will not be open. Players can join **any** of the 4 tournaments.
 - This tournament's staff has any right to decline the registration of a player if osu! staff declines them.

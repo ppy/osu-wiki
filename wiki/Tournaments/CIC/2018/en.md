@@ -70,7 +70,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Finals
 
-**[Download the mappack here! (125 MB)](https://ritsu.s-ul.eu/ll4eK9XS "Ritsu")**
+**[Download the mappack here! (125 MB)](https://ritsu.s-ul.eu/ll4eK9XS "s-ul")**
 
 - NoMod
   - [Studio EIM - Crescent Moon Island Boss Theme (Emiru) \[Keaghan\]](https://osu.ppy.sh/beatmapsets/817364#fruits/1714006)
@@ -99,7 +99,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Semifinals
 
-**[Download the mappack here! (110 MB)](https://ritsu.s-ul.eu/Si0ewAh0 "Ritsu")**
+**[Download the mappack here! (110 MB)](https://ritsu.s-ul.eu/Si0ewAh0 "s-ul")**
 
 - NoMod
   - [NeLiME - CODE NAME : GAMMA (Hareimu) \[Chaos\]](https://osu.ppy.sh/beatmapsets/815067#fruits/1709451)
@@ -127,7 +127,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Quarterfinals
 
-**[Download the mappack here! (88 MB)](https://ritsu.s-ul.eu/xdic7Hmq "Ritsu")**
+**[Download the mappack here! (88 MB)](https://ritsu.s-ul.eu/xdic7Hmq "s-ul")**
 
 - NoMod
   - [OISHII - PIZZA PLAZA (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/767009#fruits/1612277)
@@ -151,7 +151,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Round of 16
 
-**[Download the mappack here! (64 MB)](http://ritsu.s-ul.eu/7tEXfmjV "Ritsu")**
+**[Download the mappack here! (64 MB)](http://ritsu.s-ul.eu/7tEXfmjV "s-ul")**
 
 - NoMod
   - [40mP feat.yuikonnu - Ame to Asphalt (-wwwww) \[Downpour\]](https://osu.ppy.sh/beatmapsets/658705#fruits/1395111)
@@ -172,7 +172,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Group stage
 
-**[Download the mappack here! (79 MB)](http://ritsu.s-ul.eu/ZNs2PEAy "Ritsu")**
+**[Download the mappack here! (79 MB)](http://ritsu.s-ul.eu/ZNs2PEAy "s-ul")**
 
 - NoMod
   - [SMiLE.dk - GOLDEN SKY (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/749378#fruits/1578433)

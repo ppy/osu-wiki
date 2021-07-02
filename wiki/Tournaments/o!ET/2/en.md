@@ -53,7 +53,7 @@ The osu! European Tournament 2 was run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/844161)
 - [o!ET Discord server](https://discord.gg/YenjhQw "Discord")
 - [Livestream](https://www.twitch.tv/osueuropeantournament "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUhf1LUEhexa1Uaria2AjiBnM2mzsgfIJYrfhZTLPrxEhqBDz-rDR2TbeDkce_tPDDLsT1M0_9rDWa/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUhf1LUEhexa1Uaria2AjiBnM2mzsgfIJYrfhZTLPrxEhqBDz-rDR2TbeDkce_tPDDLsT1M0_9rDWa/pubhtml "Google Sheets")**
 
 ## Participants
 

@@ -56,7 +56,7 @@ The Beginners' Taiko Tournament 4 was run by various osu!taiko community members
 - [BTT Discord server](https://discord.gg/4GXtC52 "Discord")
 - [Challonge brackets](https://challonge.com/BTTS4 "Challonge")
 - [Livestream](https://www.twitch.tv/beginnerstaikotourney "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe-EZbozFMJ5Bf75owX-fEaXjGSUS1Q5zX7d09p3npsyl1GUiTlkFcqNHKtTRiOM9Z4_nbkkHUZJ5H/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe-EZbozFMJ5Bf75owX-fEaXjGSUS1Q5zX7d09p3npsyl1GUiTlkFcqNHKtTRiOM9Z4_nbkkHUZJ5H/pubhtml "Google Sheets")**
 
 ## Participants
 

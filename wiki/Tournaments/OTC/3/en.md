@@ -56,7 +56,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 - [OTC Discord server](https://discord.gg/GGMmSu5 "Discord")
 - [OTC #3 Challonge brackets](https://challonge.com/7fdmwror "Challonge")
 - [Livestream](https://www.twitch.tv/osutechnicalchampionship "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-IjXdVEQfj6mGB9DNDXhzJiXGx0sJ5QgJUMF7kRIxU4DAV9kEer1YsVK4-RxgfOI0NHMczJZmpFUi/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-IjXdVEQfj6mGB9DNDXhzJiXGx0sJ5QgJUMF7kRIxU4DAV9kEer1YsVK4-RxgfOI0NHMczJZmpFUi/pubhtml "Google Sheets")**
 
 ## Participants
 

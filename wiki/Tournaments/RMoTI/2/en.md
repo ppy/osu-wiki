@@ -37,7 +37,7 @@ The prizes were handed out in the form of points. Every 36 points could be redee
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/589111)
 - [Challonge](https://challonge.com/rmotinvitational2 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1l2rR7m_h4suoXIwGPJzy78_0m8DbF0aO_W062f2U714 "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1l2rR7m_h4suoXIwGPJzy78_0m8DbF0aO_W062f2U714 "Google Sheets")**
 
 ### Predictions
 

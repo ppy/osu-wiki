@@ -42,7 +42,7 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a 1v1 doub
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/784018)
 - [Livestream](https://www.twitch.tv/osuanzt "Twitch")
 - [Challonge](https://anzttournaments.challonge.com/pl/anzt5w "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ylrPqTzCRTyQQG_RGBqZJZrUz_QFgSs_v26SFwhqLAs "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ylrPqTzCRTyQQG_RGBqZJZrUz_QFgSs_v26SFwhqLAs "Google Sheets")**
 
 ## Mappools
 

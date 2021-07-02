@@ -53,7 +53,7 @@ The DeltaMax's Mania Key Smasher was run by various community members.
 - [DMX Discord server](https://discord.gg/CzqMnN5 "Discord")
 - [Challonge brackets](https://dmx.challonge.com/DMXM "Challonge")
 - [Livestream](https://www.twitch.tv/deltamax_tournaments "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaYwnjoRil9gwnnlX8oPqoGNrFaiqjGe2IqgvKsDkCeTUYGOgGZIlyVH-GFRhZCkfIQ46hnGdDUy10/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaYwnjoRil9gwnnlX8oPqoGNrFaiqjGe2IqgvKsDkCeTUYGOgGZIlyVH-GFRhZCkfIQ46hnGdDUy10/pubhtml "Google Sheets")**
 
 ## Participants
 

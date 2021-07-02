@@ -61,7 +61,7 @@ The Vaf's Autumn Fiesta is run by various community members.
     - *Note: The second channel's purpose is to stream the other match if there are more than one matches happening at the same time.*
 - [VAF Discord server](https://discord.gg/h6AcC2XB3B "Discord")
 - [Challonge bracket](https://challonge.com/VAF "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1A0MAwHb0xVQefsPAc1v1SMox9dTyWodRXyqyIWNaVjg/edit?usp=sharing "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1A0MAwHb0xVQefsPAc1v1SMox9dTyWodRXyqyIWNaVjg/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 

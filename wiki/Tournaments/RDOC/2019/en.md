@@ -54,7 +54,7 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 - [RDOC Discord server](https://discord.gg/JhBkmzE "Discord")
 - [Livestream](https://www.twitch.tv/royaldanishosucup "Twitch")
 - [Challonge brackets](https://challonge.com/rdoc2019 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1BQdMhY_3cX1qQytr3X0yszqjFNwOQ_yd8CVnwQaArOk "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1BQdMhY_3cX1qQytr3X0yszqjFNwOQ_yd8CVnwQaArOk "Google Sheets")**
 
 ## Participants
 

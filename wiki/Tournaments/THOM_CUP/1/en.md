@@ -462,7 +462,7 @@ Sunday, 3 June 2018:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQAuLlxZfKLVnAw_n9a_lUSd1O65w_THZA4ea4ouSw7iDLEDngr1ssZc_R7Pzy0OtsMVFTVVnUin4Hg/pubhtml# "Google Docs").
+The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQAuLlxZfKLVnAw_n9a_lUSd1O65w_THZA4ea4ouSw7iDLEDngr1ssZc_R7Pzy0OtsMVFTVVnUin4Hg/pubhtml# "Google Sheets").
 
 ## Ruleset
 

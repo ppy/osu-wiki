@@ -50,7 +50,7 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 - [DMX Discord server](https://discord.gg/CzqMnN5 "Discord")
 - [Challonge brackets](https://challonge.com/DMXT "Challonge")
 - [Livestream](https://www.twitch.tv/deltamax_tournaments "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRePjloo5zcJNapJ0O98KSUSmj5QPb3mCBWv-8oniTLVuF3ydcmFf1gt9Fn7H1QrhgjS5TC_bf3uwY1/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRePjloo5zcJNapJ0O98KSUSmj5QPb3mCBWv-8oniTLVuF3ydcmFf1gt9Fn7H1QrhgjS5TC_bf3uwY1/pubhtml "Google Sheets")**
 
 ## Participants
 

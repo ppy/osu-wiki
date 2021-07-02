@@ -55,7 +55,7 @@ The nik's Winter Tour 2019 was run by various community members.
 - [NT Discord server](https://discord.gg/wrwZWRS "Discord")
 - [Livestream](https://www.twitch.tv/niks_tournaments "Twitch")
 - [NWT 2019 Challonge brackets](https://challonge.com/NWT2019 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXkpCBB_gcPcEEOq93pmLHiOTUf_3n1LYju7NbGF61h5QK19CTuuP2BFBdaOPL-d2UWb06i6iD-wD/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXkpCBB_gcPcEEOq93pmLHiOTUf_3n1LYju7NbGF61h5QK19CTuuP2BFBdaOPL-d2UWb06i6iD-wD/pubhtml "Google Sheets")**
 
 ## Participants
 

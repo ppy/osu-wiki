@@ -55,7 +55,7 @@ The Asian-Oceanian Taiko Showdown was run by various community members.
 - [AOTS Discord server](https://discord.gg/2xQDbkS "Discord")
 - [Livestream](https://www.twitch.tv/Beat43210 "Twitch")
 - [Challonge brackets](https://challonge.com/osuaots "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzUwghFR9NIKzw4t29pjTptyzjMkWro5ZAYPkYS7-XdYiUiVnyVQbhyO7BJuqT2quFs8Px9suFGdU8/pubhtml "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzUwghFR9NIKzw4t29pjTptyzjMkWro5ZAYPkYS7-XdYiUiVnyVQbhyO7BJuqT2quFs8Px9suFGdU8/pubhtml "Google Sheets")**
 
 ## Participants
 
