@@ -14,7 +14,8 @@ A new chapter in the history of this competition, but the spirit is as strong as
 
 A successor to the much beloved osu!idol competition which concluded in 2020. The format remains largely the same. Participants will sing through the various rounds set for them until a winner is decided. A panel of judges will guide the direction of this contest by evaluating and critiquing the participant's performances.
 
-### **How does this work?**
+## How does this work?
+
 For the auditions, record yourself performing a 30-60 second sample of any song (with no BGM) then submit in your entry. It's as simple as that! July 21st will be the deadline so make haste and submit in those wonderful entries!
 
 ### **Any Prizes?**
