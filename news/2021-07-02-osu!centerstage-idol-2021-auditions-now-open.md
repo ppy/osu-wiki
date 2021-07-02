@@ -18,7 +18,8 @@ A successor to the much beloved osu!idol competition which concluded in 2020. Th
 
 For the auditions, record yourself performing a 30-60 second sample of any song (with no BGM) then submit in your entry. It's as simple as that! July 21st will be the deadline so make haste and submit in those wonderful entries!
 
-### **Any Prizes?**
+## Any prizes?
+
 Why yes we do. We have some rewards in store for those who come out on top.
 
 - **Winner** - osu!supporter tag for 8 months
