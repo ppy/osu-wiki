@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!CenterStage - Idol 2021"
-date: 2021-07-02 12:00:00 +0000
+date: 2021-07-03 12:00:00 +0000
 ---
 
 We are happy to announce that the yearly idol contest is back and ready for action!
