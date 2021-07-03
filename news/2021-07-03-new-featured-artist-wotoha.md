@@ -23,25 +23,25 @@ If you're late to the party, you can catch up by listening to **wotoha**'s fresh
 ### Digital Life Hacker
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/178/jelly girl/wotoha%20-%20Digital%20Life%20Hacker.mp3" type="audio/mpeg">
 </audio>
 
 ### Lonerism
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/178/jelly girl/wotoha%20-%20Lonerism.mp3" type="audio/mpeg">
 </audio>
 
 ### Happy (fam) 2
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/178/jelly girl/wotoha%20-%20Happy%20%28fam%29%202.mp3" type="audio/mpeg">
 </audio>
 
 ### Psychologic (feat. nyankobrq)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/178/Geniearth/wotoha%20-%20Psychologic%20%28feat.%20nyankobrq%29.mp3" type="audio/mpeg">
 </audio>
 
 ---
