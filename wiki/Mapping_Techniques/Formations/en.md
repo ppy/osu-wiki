@@ -14,7 +14,7 @@ Also check if the article matches with ASC. See #5729 for more informations -->
 Nominator: [m980](https://osu.ppy.sh/users/3288)
 
 **Blanket combos** are made up of a slider or a hit circle (as the base) with a slider that surrounds that object.
-Spacing between these two objects are very important as they are not allowed to overlay each other!
+Spacing between these two objects is very important as they are not allowed to overlay each other!
 
 ### Divebomb Combos
 
@@ -138,7 +138,7 @@ This creates a quick jump for the player.
 
 Nominator: Beuchi-chan
 
-**Square formations** consists of 4 hit circles forming a square shape.
+**Square formations** consist of 4 hit circles forming a square shape.
 These usually have some space between each other.
 The square can be angled to form a diamond.
 The order of the combos forces the player to go along the square rather than through it.
@@ -147,7 +147,7 @@ The order of the combos forces the player to go along the square rather than thr
 
 Nominators: Beuchi-chan and [mm201](https://osu.ppy.sh/users/30655)
 
-**Square formation v2** are pretty much the same as [square formation](#square-formation), but the order of the circles forces you to go diagonally through the square.
+**Square formation v2** is pretty much the same as [square formation](#square-formation), but the order of the circles forces you to go diagonally through the square.
 
 ### Triangle Beats
 
