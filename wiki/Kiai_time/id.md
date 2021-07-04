@@ -1,21 +1,22 @@
+---
 stub: true
 tags:
-   - timing section
-   - kiai mode
-   - waktu
+  - timing section
+  - kiai mode
+  - waktu
 ---
 
 # Waktu Kiai
-*Untuk peraturan seputar waktu kiai, lihat: [Ranking Criteria](/wiki/Ranking_Criteria)*
+*Untuk peraturan seputar penggunaan waktu kiai, lihat: [Ranking Criteria](/wiki/Ranking_Criteria)*
 
-**Kiai Time** (atau *kiai*) adalah istilah yang diberikan untuk bagian waktu "khusus" untuk membantu menekankan bagian dari [beatmap](/wiki/Beatmap). Pemain dapat mengetahui apakah bagian dari beatmap memiliki bagian waktu kiai jika mereka melihat efek visual tambahan di latar belakang.
+**Kiai Time** (atau *kiai*) adalah istilah yang diberikan untuk bagian waktu "khusus" untuk membantu menekankan bagian tertentu dari [beatmap](/wiki/Beatmap). Pemain dapat mengetahui jika suatu bagian dari beatmap tersebut adalah bagian waktu kiai jika mereka melihat efek visual tambahan di latar belakang. (seperti, hit circle bercahaya, bintang beterbangan, dan bintang berterjunan).
 
-Saat kiai aktif, semua [objek](/wiki/Hit_object) yang dipukul akan berkedip mengikuti [irama ketukan utama](/wiki/Beatmap_Editor/Timing) dan bintang akan meledak dari kursor saat [hit circle](/wiki/Hit_object/Hit_circle) dipukul. Jika tidak, mereka akan jatuh dari kursor saat [slider](/wiki/Hit_object/Slider) atau [spinner](/Wiki/Hit_object/Spinner) diikuti.
+Saat kiai sedang aktif, semua [hit object](/wiki/Hit_object) yang dikenai akan berkedip mengikuti [main beat](/wiki/Beatmap_Editor/Timing) dan bintang akan meledak dari kursor saat [hit circle](/wiki/Hit_object/Hit_circle) dikenai. Jika tidak, mereka akan jatuh dari kursor saat kursor berada pada [slider](/wiki/Hit_object/Slider) atau [spinner](/Wiki/Hit_object/Spinner).
 
-Beatmapping
-Waktu kiai paling sering digunakan untuk "bagian terkuat dari sebuah lagu" yang biasanya adalah bagian chorus. Karena bagian kiai adalah bagian terkuat dari sebuah lagu, mereka biasanya sedikit lebih menantang daripada bagian [beatmap](/wiki/Beatmap) lainnya untuk mengikuti lagu tersebut.
+## Beatmapping
+Waktu kiai paling sering digunakan untuk "bagian terkuat dari sebuah lagu", yang mana biasanya adalah bagian-bagian dari chorus. Dikarenakan bagian kiai adalah bagian terkuat dari sebuah lagu, biasanya sedikit lebih menantang daripada bagian dari sisa-sisa [beatmap](/wiki/Beatmap) tanpa penggunaan waktu kiai.
 
-osu!taiko
-Pada map [osu!taiko](/wiki/Game_Modes/osu!taiko), bagian kiai memberikan [skor](/wiki/Score). 20% lebih banyak.
+## osu!taiko
+Pada beatmap [osu!taiko](/wiki/Game_Modes/osu!taiko), bagian kiai memberikan [skor](/wiki/Score) 20% lebih banyak.
 
 <!-- TODO: Add links -->
