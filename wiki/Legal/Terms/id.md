@@ -12,7 +12,7 @@ Dengan mengunjungi dan/atau menggunakan layanan yang ditawarkan oleh situs ini (
 
 Sebagai syarat dalam penggunaan situs web ini, Anda menjamin bahwa Anda tidak akan menggunakan situs web ini atau konten apa pun yang diperoleh dari situs web ini untuk tujuan apa pun yang melanggar hukum atau dilarang oleh persyaratan ini.
 
-Selain kebijakan ini, pastikan juga untuk mengunjungi dan memahami [Kebijakan Privasi](https://osu.ppy.sh/legal/privacy) kami.
+Selain kebijakan ini, pastikan juga untuk mengunjungi dan memahami [Kebijakan Privasi](/wiki/Legal/Privacy) kami.
 
 Jika Anda melanggar salah satu dari Ketentuan Penggunaan ini, izin Anda untuk menggunakan situs web secara otomatis akan berakhir.
 

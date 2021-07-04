@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "osu!CenterStage - Idol 2021"
-date: 2021-07-03 12:00:00 +0000
+date: 2021-07-05 12:00:00 +0000
 ---
 
 We are happy to announce that the yearly idol contest is back and ready for action!
 
-![](/wiki/shared/news/2021-07-02-osu!centerstage-idol-2021-auditions-now-open/centerstagebanner.jpg)
+![](/wiki/shared/news/2021-07-05-osu!centerstage-idol-2021-auditions-now-open/centerstagebanner.jpg)
 
 A new chapter in the history of this competition, but the spirit is as strong as ever!
 
@@ -26,6 +26,6 @@ Why yes we do. We have some rewards in store for those who come out on top.
 - **Runner-Up** - osu!supporter tag for 6 months
 - **Third Place** - osu!supporter tag for 4 months
 
-For all relevant information you will need to know before entering this year's competition, check out the [official thread](https://osu.ppy.sh/community/forums/topics/1359674). To get involved with the community and receive important updates regarding this contest, join the official [Discord server](https://discord.gg/eBaDTYrvby "Discord").
+For all relevant information you will need to know before entering this year's competition, check out the [official thread](https://osu.ppy.sh/community/forums/topics/1359674). To get involved with the community and receive important updates regarding this contest, join the official [Discord server](https://discord.gg/eBaDTYrvby "Discord"). Who knows? You could be the next idol.
 
 —MjIsMaster

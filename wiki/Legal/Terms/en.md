@@ -12,7 +12,7 @@ By visiting and/or using the services offered by this site ([https://osu.ppy.sh]
 
 As a condition of your use of this web site, you warrant that you will not use this web site, or any of the content obtained from this web site, for any purpose that is unlawful or prohibited by these terms.
 
-In addition to this policy, please also make sure to visit and understand our [Privacy Policy](https://osu.ppy.sh/legal/privacy).
+In addition to this policy, please also make sure to visit and understand our [Privacy Policy](/wiki/Legal/Privacy).
 
 If you violate any of these Terms of Use, your permission to use the web site automatically terminates.
 
