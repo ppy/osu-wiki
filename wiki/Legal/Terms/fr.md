@@ -12,7 +12,7 @@ En visitant et/ou en utilisant les services offerts par ce site ([https://osu.pp
 
 En tant que condition d'utilisation de ce site web, vous garantissez que vous n'utiliserez pas ce site web, ou tout contenu obtenu à partir de ce site web, à des fins illégales ou interdites par ces conditions.
 
-En plus de cette politique, veuillez également vous assurer de visiter et comprendre notre [Politique de confidentialité](https://osu.ppy.sh/legal/privacy).
+En plus de cette politique, veuillez également vous assurer de visiter et comprendre notre [Politique de confidentialité](/wiki/Legal/Privacy).
 
 Si vous violez l'une de ces conditions d'utilisation, votre autorisation d'utiliser le site web prend automatiquement fin.
 
