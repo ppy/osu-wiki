@@ -34,13 +34,13 @@
 
 2. 当你添加、修改了文件以后，会有提示告诉当前分支"behind"（落后）, "ahead"（超前）或者 "even"（同步）于 `ppy:master`。如果提示说 `This branch is {n} commits behind ppy:master`（当前分支落后于 ppy:master 分支 n 个提交），或者`This branch is {x} commits ahead, {y} commits behind ppy:master`意味着你的分支已经过时了。
 
-   ![](img/fork-even.jpg "OK \(no commits and not outdated\)")
+   ![](img/fork-even.jpg "OK \(没有提交且没有过时\)")
 
-   ![](img/fork-ahead.jpg "OK \(these are your commits\)")
+   ![](img/fork-ahead.jpg "OK \(这些是你的提交\)")
 
-   ![](img/fork-behind.jpg "Potentially bad \(your branch is outdated\)")
+   ![](img/fork-behind.jpg "可能不行 \(你的分支过时了\)")
 
-   ![](img/fork-ahead-behind.jpg "Potentially bad \(your branch is outdated with your commits\)")
+   ![](img/fork-ahead-behind.jpg "可能不行 \(你的分支有你的提交并且过时了\)")
 
 3. 这不是个大问题。只是你无法修改已经被修改的文件，这意味你的仓库落后于最新的提交。
 
@@ -93,7 +93,7 @@
 
 10. 完成后，点击 `Create pull request`。
 
-   ![](img/new-pull-request.jpg "Perfect")
+    ![](img/new-pull-request.png)
 
 11. 下一步： [审阅（reviews）](#审阅) 与 [合并（merging）](#合并) 。
 
