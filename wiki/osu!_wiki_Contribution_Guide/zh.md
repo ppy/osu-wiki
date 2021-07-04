@@ -16,7 +16,7 @@
 
 1. 进入 [`osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
 
-2. 点击 `Fork`.
+2. 点击 `Fork`。
 
    ![](img/fork.jpg)
 
@@ -26,7 +26,7 @@
 
    ![](img/forked.jpg)
 
-5. 下一步：[同步你的仓库](#同步你的仓库).
+5. 下一步：[同步你的仓库](#同步你的仓库)。
 
 ### 同步你的仓库
 
@@ -63,7 +63,7 @@
 
 ### 开一个 Pull Request
 
-1. 进入 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki).
+1. 进入 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
 
 2. 你可能会看到以下的黄色横幅（banner）。
 
@@ -83,7 +83,7 @@
 
    ![](img/compare-branch.jpg)
 
-7. 点击 `Create pull request`.
+7. 点击 `Create pull request`。
 
 8. 输入英文的标题。对你更改的内容进行非常简短的解释。
 
