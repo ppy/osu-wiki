@@ -12,7 +12,7 @@ Bu siteyi ([https://osu.ppy.sh](https://osu.ppy.sh/home)), osu! oyun istemcisini
 
 Bu web sitesini kullanmanızın bir şartı olarak, bu web sitesini veya bu web sitesinden elde edilen herhangi bir içeriği, yasadışı veya belirtilen hükümlerce yasaklanmış herhangi bir amaçla kullanmayacağınızı beyan ediyorsunuz.
 
-Bu politikaya ek olarak, lütfen [Gizlilik Politikamızı](https://osu.ppy.sh/legal/privacy) da ayrıca ziyaret edip anladığınızdan emin olun.
+Bu politikaya ek olarak, lütfen [Gizlilik Politikamızı](/wiki/Legal/Privacy) da ayrıca ziyaret edip anladığınızdan emin olun.
 
 Bu Kullanım Koşullarından herhangi birini çiğnemeniz durumunda web sitesini kullanma izniniz otomatik olarak sonlandırılır.
 

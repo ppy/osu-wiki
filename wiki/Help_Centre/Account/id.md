@@ -212,7 +212,7 @@ Hal ini bukan berarti kamu dibenarkan untuk membuat akun baru! Sebagaimana yang 
 
 ### Apakah saya dapat menghapus akun saya?
 
-*Untuk informasi lebih lanjut mengenai penghapusan akun, lihat: [Hak dan kendali Anda](https://osu.ppy.sh/legal/Privacy#hak-dan-kendali-anda).*
+*Untuk informasi lebih lanjut mengenai penghapusan akun, lihat: [Hak dan kendali Anda](/wiki/Legal/Privacy#hak-dan-kendali-anda).*
 
 *Perhatian: Akun yang sudah terhapus tidak dapat dikembalikan!*
 
