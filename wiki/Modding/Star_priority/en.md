@@ -16,4 +16,4 @@ Star priority has two meanings:
    - At least 12 star priority is needed for a beatmap to be bubbled or ranked.
 2. A method in determining whether a Feature Request is wanted by the community.
    - The higher the star priority, the faster it gets noticed.
-   - Users with active osu!supporter status active will increase the priority by two stars (![Star](img/star.png)) per vote, while regular users' votes will be worth a single star. Users may be able to shoot multiple stars depending on how many votes they have left.
+   - Users with active osu!supporter status can increase the priority by two stars (![Star](img/star.png)) per vote, while regular users' votes are worth a single star. Users may be able to shoot multiple stars depending on how many votes they have left.
