@@ -118,7 +118,7 @@ This competition has come to an end and resulted in the following podium:
   - [sakuzyo - Senkyou Ranbu (ktgster) [EX]](https://osu.ppy.sh/beatmapsets/460516#osu/986233)
   - [Tokyo Machine - OKAY (handsome) [Master]](https://osu.ppy.sh/beatmapsets/508998#osu/1082510)
 - Hidden
-  - [DECO*27 - Streaming Heart feat. Hatsune Miku (Tsumetaku) [0108's Extra]](https://osu.ppy.sh/beatmapsets/160126#osu/534946)
+  - [DECO\*27 - Streaming Heart feat. Hatsune Miku (Tsumetaku) [0108's Extra]](https://osu.ppy.sh/beatmapsets/160126#osu/534946)
   - [rerulili - Noushou Sakuretsu Girl (NatsumeRin) [Rin]](https://osu.ppy.sh/beatmapsets/63434#osu/187410)
   - [W.T. Orchestra - William Tell Overture (Louis Cyphre) [Champion]](https://osu.ppy.sh/beatmapsets/29107#osu/97397)
 - HardRock
@@ -205,7 +205,7 @@ This competition has come to an end and resulted in the following podium:
   - [Harry - Earth Day (Moway) [Earth Day]](https://osu.ppy.sh/beatmapsets/65228#osu/195502)
 - HardRock
   - [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) [Insane]](https://osu.ppy.sh/beatmapsets/30012#osu/99342)
-  - [Ryu* vs. kors k - Force of Wind (Jenny) [gAlv's Another]](https://osu.ppy.sh/beatmapsets/44519#osu/196499)
+  - [Ryu\* vs. kors k - Force of Wind (Jenny) [gAlv's Another]](https://osu.ppy.sh/beatmapsets/44519#osu/196499)
 - DoubleTime
   - [riya(eufonius) - Traveler's tale (Garden) [7ka's Insane]](https://osu.ppy.sh/beatmapsets/487968#osu/1056732)
   - [Hanatan - Yuragi (happy30) [Insane]](https://osu.ppy.sh/beatmapsets/45335#osu/141591)
