@@ -295,11 +295,14 @@ The SS Tournament 2018 had a prize pool of USD 200.
 1. The designated referee will have the lobby open using the format SST: (blue team) vs. (red team).
 2. The referee will message the team captains or anyone online from the team.
 3. Teams will join here. Once all 6 players are in the referee will ask for their warm ups. Order in which they are played is irrelevant. (this step is skipped for group stages).
-4. Both teams will '!roll', the higher number rolled will be the team who will ban first.
+4. Both teams will user `!roll`, the higher number rolled will be the team who will ban first.
 5. Both teams will alternate banning maps until both teams have banned out 2 maps.
 6. The team that lost the roll is the team that picks first and it it alternates from there.
    - Example: BLUE rolls 67 RED rolls 10 the order would be `Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …`
-7. Teams have 60 seconds to pick a map and 120 seconds to ready up refs will use '!mp timer' to keep time if a team doesn't pick in the first 60 seconds the opposing team will pick instead if the players are not ready after 120 seconds the ref will at their discretion start the match *Refs are in full control of any leniency here and may choose not to enforce this until semifinals at which point enforcement will be mandatory*.
+7. Teams have 60 seconds to pick a map and 120 seconds to ready up.
+8. Referees will use `!mp timer` to keep time.
+9. If a team doesn't pick in the first 60 seconds, the opposing team will pick instead.
+10. If the players are not ready after 120 seconds, the referee will at their discretion start the match. *Referees are in full control of any leniency here and may choose not to enforce this until Semifinals at which point enforcement will be mandatory*.
 8. Once a map has been picked and everyone is ready the map will start after 5 seconds using `!mp start 5`.
 9. If a player disconnects within the first 15 seconds of a map the referee will abort the match and the map will be restarted. Anyone found abusing this will be disqualified from the tournament. This may only happen once per team per match after the first dc the referee is not to abort.
 

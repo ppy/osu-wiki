@@ -6,7 +6,7 @@ tags:
 
 # Rapid Monthly osu! Tournament Invitational 2
 
-The **Rapid Monthly osu! Tournament Invitational #2** (***RMoTI 2***) was a 1v1 double-elimination osu! tournament organised and run by the Rapid Tournaments team. It was an exclusive tournament where only players who reached Semifinals in one of the last 4 RMoTs get invited.
+The **Rapid Monthly osu! Tournament Invitational #2** (***RMoTI 2***) was a 1v1 double-elimination osu! tournament organised and run by the Rapid Tournaments team. It was an exclusive tournament where only players who reached Semifinals in one of the last 4 RMoTs were invited.
 
 ## Tournament schedule
 

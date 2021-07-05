@@ -277,7 +277,7 @@ Timezone: Gmt+1
 
 Mod settings for the match:
 
-- Play mode: osu! standard
+- Play mode: osu!
 - Team Mode: Tag Team Vs
 - Win Condition: Score
 - 3 maps will be chosen to play out of the announced maps for that bracket, a team must win 2 of the 3 to advance.

@@ -312,7 +312,7 @@ This competition has come to an end and resulted in the following podium:
 - The win condition will be **Accuracy**.
 - There is no rank limit, but we recommend your team's average rank to be 20k at least.
 - This is an **International tournament**, meaning that anyone from any country can join.
-- Joining to the Discord is **REQUIRED**. Please use #verification to verify yourself.
+- Joining to the Discord is **REQUIRED**. Please use the `#verification` channel to verify yourself.
 - Everyone that signs up for the tournament will participate in the qualifier lobbies.
 - The top 32 teams in the qualifiers will proceed further in the tournament, seeded accordingly to qualifier placement.
 - Teams must be at least of **2 players** and a maximum of **3 players**.
@@ -322,7 +322,7 @@ This competition has come to an end and resulted in the following podium:
 - Referees will create the lobby and invite team captains (or another player) 10 minutes before the match is due to start. "T2T: (Team 1) vs (Team 2)".
 - Matches will be set to **Tag Vs** with **Accuracy** as the scoring system used.
 - Team 1 will be Team Blue (Slots 1 and 2) and Team 2 will be Team Red (Slots 3 and 4).
-- If a team fails to show up 15 minutes after the scheduled match time. The match win will be given to the other team.
+- If a team fails to show up 15 minutes after the scheduled match time, the match win will be given to the other team.
 - However, the grace period can be extended by **10 minutes** if both teams agree.
 - 1v1s and 1v2s are not permitted in any circumstances. Only 2v2s are allowed.
 - If your team is one player or more short, a default win will be given to the team with the most players available.
@@ -332,11 +332,11 @@ This competition has come to an end and resulted in the following podium:
 - The referee will have host for entire duration of the match, the only exception will be warmups.
 - Teams will roll **ONCE**. The winner of the roll will have the First warmup, Second ban and First pick.
 - Each team will have **2 minutes** to ban and pick maps. Failure to pick a map will result the pick going to the other team (This does not affect pick order).
-- Maps from the mappool may only be chosen once . Maps from the mappool cannot be chosen as a warmup.
+- Maps from the mappool may only be chosen once. Maps from the mappool cannot be chosen as a warmup.
 - In Freemod, each player may choose from the following mods: EZ, HR, HD, FL along with NoFail (which is required in all maps). NoFail does **NOT** count as a mod.
 - Once players are ready, the match will begin on a 15 second countdown.
 - If a player disconnects during match play, the referee will abort the match. Teams will then decide on whether the map is played again or the team without issues gets the point.
-- Tiebreakers are played with FreeMod. However they are not required for the Tiebreaker.
+- Tiebreakers are played with FreeMod, however, they are not required for the Tiebreaker.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
