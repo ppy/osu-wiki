@@ -136,6 +136,36 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (109 MB)](https://www.mediafire.com/file/b2xdkgyty6c5foq/Mappack+F.zip/file)**
+
+- NoMod
+  - [96-glass - TAROLIN MEGAMIX (2077 art mix) (applerss) \[2019 oni\]](https://osu.ppy.sh/beatmapsets/1066293#taiko/2234549)
+  - [Hatsune Miku - With a Dance Number (Dz'Xa's Amenpunk) (KTYN) \[False appearance\]](https://osu.ppy.sh/beatmapsets/1332703#taiko/2761943)
+  - [ginka\*EX - ASSASSIN (Axer) \[Daitatsujin\]](https://osu.ppy.sh/beatmapsets/980660#taiko/2052326)
+  - [Spastic Ink - Words For Nerds (cut ver.) (Mew104) \[Overflow\]](https://osu.ppy.sh/beatmapsets/970838#taiko/2032919)
+  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru (Heaxys) \[Compelling Retribution\]](https://osu.ppy.sh/beatmapsets/1070409#taiko/2572186)
+  - [Retractable - Teitai Kasoku Yomei Ikubaku (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/893799#taiko/1867862)
+- Hidden
+  - [Laur - KILL KILL KILL KILL KILL (maziari1105) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/477119#taiko/1045005)
+  - [Kobaryo - Theme for Psychopath Justice (eiri-) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1245034#taiko/2587936)
+  - [Within The Ruins - Enigma (Grimbow) \[Oni\]](https://osu.ppy.sh/beatmapsets/1243301#taiko/2584826)
+- HardRock
+  - [onoken - K8107 (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1201354#taiko/2502165)
+  - [sHimaU - nohmen break (Vaenus Remix) (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/670256#taiko/1417601)
+  - [Apollo"FIXEDSTAR"program feat. Ritsuka - SolarOrbit -Connected with the Espabrother- (Raiden) \[Interstellar (VAF ver.)\]](https://osu.ppy.sh/beatmapsets/1335757#taiko/3082573)
+- DoubleTime
+  - [Venetian Snares - Shaky Sometimes (Jaltzu) \[Unstable Oni\]](https://osu.ppy.sh/beatmapsets/1229307#taiko/2564821)
+  - [Kanzaki Eluza - Independence (hoku-4625) \[Sentiment\]](https://osu.ppy.sh/beatmapsets/809378#taiko/1698445)
+  - [Rick Astley - Never Gonna Give You Up - Akyra Eurobeat Extended Mix - (duski) \[Multi-Track Rick-Rolling\]](https://osu.ppy.sh/beatmapsets/1015518#taiko/2125411)
+- FreeMod
+  - [Aphex Twin - 4 acid organ[rough mix] (trollocat) \[alternative masterpiece\]](https://osu.ppy.sh/beatmapsets/1239661#taiko/2577376)
+  - [A? - Arrogation (Cut Ver.) (ZTH) \[Acquisition\]](https://osu.ppy.sh/beatmapsets/1291023#taiko/2679859)
+  - [KikuoHana - Ponkotsu Ningyou no Uta (Alchyr) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1155252#taiko/3012846)
+- Tiebreaker
+  - **[Team Grimoire - Vafpruonir (7\_7) \[Vaf\]](https://osu.ppy.sh/beatmapsets/1504837#taiko/3082615)**
+
 ### Semifinals
 
 **[Download the mappack here! (102 MB)](https://www.mediafire.com/file/wzxoqyuv7oqb3rx/MAPPACK_SEMIFINALS_VAF.zip/file)**
