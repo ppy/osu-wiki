@@ -330,6 +330,22 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 3 July 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Minekuchi** ![][flag_DE] | **7** | 2 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/86721018) |
+| Skull Kid ![][flag_BR] | 1 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/86742979) |
+
+Sunday, 4 July 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| J a c k y ![][flag_HK] | 3 | **7** | ![][flag_JP] **yu-k1\_** | [#1](https://osu.ppy.sh/community/matches/86769379) |
+| Minekuchi ![][flag_DE] | 0 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/86776535) |
+
 ### Semifinals
 
 Saturday, 26 June 2021:
