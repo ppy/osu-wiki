@@ -6,7 +6,7 @@ Section dedicated for contests held throughout the osu! community.
 
 ## Official Contests
 
-Official contests are contests that are being hosted (or otherwise recognized as official) by the [osu!team](https://osu.ppy.sh/wiki/en/People/The_Team). Most official contests have their own listing in the [contests page](https://osu.ppy.sh/community/contests) dedicated to them.
+Official contests are contests that are being hosted (or otherwise recognized as official) by the [osu!team](wiki/People/The_Team). Most official contests have their own listing in the [contests page](https://osu.ppy.sh/community/contests) dedicated to them.
 
 ### Official Beatmapping Contests
 
@@ -14,7 +14,7 @@ Official contests are contests that are being hosted (or otherwise recognized as
 
 *Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
-The Monthly Beatmaping Contest in its initial concept was a beatmapping contest where participating mappers were competing to create the most excellent mapset with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards of a given song (that had been cleared for use in osu! preemptively by the [osu!team](https://osu.ppy.sh/wiki/en/People/The_Team)) in a month's time. 
+The Monthly Beatmaping Contest in its initial concept was a beatmapping contest where participating mappers were competing to create the most excellent mapset with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards of a given song (that had been cleared for use in osu! preemptively by the [osu!team](wiki/People/The_Team)) in a month's time. 
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -232,8 +232,8 @@ osu! Beatmapping World Championship is a team-based beatmapping contest where pa
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
-| [#1 (2019)](/wiki/Contests/oBWC/1/) | ![][flag_FR] France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), and ![][flag_CH] [Xenok](https://osu.ppy.sh/users/3256600)) | ![][flag_SE] Sweden ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), and [Zer0-](https://osu.ppy.sh/users/4260033))| ![][flag_HK] Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), and [Starfy](https://osu.ppy.sh/users/2045914)) | [Results](https://www.youtube.com/watch?v=_booyIRa5v8) |
-| [#2 (2020)](/wiki/Contests/oBWC/2/) | ![][flag_GB] United Kingdom ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), and [Yusomi](https://osu.ppy.sh/users/4174940)) | ![][flag_AR] Argentina ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), and [Megafan](https://osu.ppy.sh/users/6632605))| ![][flag_BR] Brazil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), and [Trynna](https://osu.ppy.sh/users/2652951)) | [Results](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
+| [#1 (2019)](/wiki/Contests/oBWC/1) | ![][flag_FR] France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), and ![][flag_CH] [Xenok](https://osu.ppy.sh/users/3256600)) | ![][flag_SE] Sweden ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), and [Zer0-](https://osu.ppy.sh/users/4260033)) | ![][flag_HK] Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), and [Starfy](https://osu.ppy.sh/users/2045914)) | [Results](https://www.youtube.com/watch?v=_booyIRa5v8) |
+| [#2 (2020)](/wiki/Contests/oBWC/2) | ![][flag_GB] United Kingdom ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), and [Yusomi](https://osu.ppy.sh/users/4174940)) | ![][flag_AR] Argentina ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), and [Megafan](https://osu.ppy.sh/users/6632605)) | ![][flag_BR] Brazil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), and [Trynna](https://osu.ppy.sh/users/2652951)) | [Results](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
 
 ### Pending Cup
 
@@ -294,7 +294,7 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | kamome sano - archive::zip | ![osu!][osu!] | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/873961) | ![][flag_RU] [Senseabel](https://osu.ppy.sh/users/6184386) | ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511) | [Results](https://osu.ppy.sh/community/forums/topics/982516) |
 | EmoCo. - This Club is not 4 U | ![osu!][osu!] | ![][flag_CN] [Ellyu](https://osu.ppy.sh/users/4438154) | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | ![][flag_RS] [Seolv](https://osu.ppy.sh/users/8067876) | [Results](https://osu.ppy.sh/community/forums/topics/982516) |
-| BEMANI Sound Team "Nekomata Master" - The last of world music  | ![osu!][osu!] | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777) | ![][flag_CA] [J1\_](https://osu.ppy.sh/users/5918561) | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | [Results](https://osu.ppy.sh/community/forums/topics/982516) |
+| BEMANI Sound Team "Nekomata Master" - The last of world music | ![osu!][osu!] | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777) | ![][flag_CA] [J1\_](https://osu.ppy.sh/users/5918561) | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | [Results](https://osu.ppy.sh/community/forums/topics/982516) |
 
 #### [Pending Cup \#8 (2020)](https://osu.ppy.sh/community/forums/topics/1145075)
 
@@ -387,11 +387,9 @@ The Newspaper Cup is a beatmapping contest that is similar to Pending Cup in nat
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
