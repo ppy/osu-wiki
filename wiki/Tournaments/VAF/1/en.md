@@ -136,6 +136,36 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (90 MB)](https://www.mediafire.com/file/sz6al1q0nifisg9/MAPPACK_GF.zip/file)**
+
+- NoMod
+  - [Kyou1110 - Revavavavava Ideoloololololololo (applerss) \[Innererererer Oniinininininini\]](https://osu.ppy.sh/beatmapsets/669463#taiko/1416106)
+  - [Richard Jacques - Super Sonic Racing (Foxeru) \[HiroK's All-Stars\]](https://osu.ppy.sh/beatmapsets/1315188#taiko/2725557)
+  - [The Flashbulb - Lawn Wake IX (iceOC) \[EX\]](https://osu.ppy.sh/beatmapsets/966060#taiko/2022187)
+  - [Various Artists - all night (ISLTR remix) (\_Rise) \[insomnia\]](https://osu.ppy.sh/beatmapsets/1510651#taiko/3093479)
+  - [Ophidian I - Spiral to Oblivion (Raiden) \[Desolation\]](https://osu.ppy.sh/beatmapsets/1508738#taiko/3089782)
+  - [Kurokotei - Nonbinarity (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1414457#taiko/2915423)
+- Hidden
+  - [easyname - silly 300bpm thing (Kqrth) \[Oni\]](https://osu.ppy.sh/beatmapsets/725373#taiko/1531570)
+  - [BABii, Kai Whiston, Iglooghost - Lamb (Nifty) \[Midas\]](https://osu.ppy.sh/beatmapsets/1262367#taiko/2623873)
+  - [toby fox - Ruins (sasakure.UK Remix) (eae) \[Golden Flowers\]](https://osu.ppy.sh/beatmapsets/790685#taiko/1659016)
+- HardRock
+  - [Chroma - Field : Kaerezu no Chi (tasuke912) \[Farthest\]](https://osu.ppy.sh/beatmapsets/897127#taiko/1874251)
+  - [t+pazolite - Garakuta Doll Play (sasakure.UK clutter remix) (Love) \[Love+Kinobles Oni\]](https://osu.ppy.sh/beatmapsets/424222#taiko/922997)
+  - [Kabocha - EgO (ll-oscar) \[ll-taiko St.\]](https://osu.ppy.sh/beatmapsets/1070329#taiko/2240471)
+- DoubleTime
+  - [Furries in a Blender - Storm World (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/322150#taiko/716320)
+  - [ayaponzu\* - Yakubyougami (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/742938#taiko/1659898)
+  - [Boogie Belgique - Piccadilly (lazyboy007) \[West End\]](https://osu.ppy.sh/beatmapsets/717359#taiko/1515547)
+- FreeMod
+  - [Ruby My Dear - Croque Monsieur A Disneyland (Gamelan4) \[_m6's Oni\]](https://osu.ppy.sh/beatmapsets/1039985#taiko/2173759)
+  - [Doin - Pine nut (eae) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/974639#taiko/2040084)
+  - [Frums - My Capacitance (HiroK) \[Capacity\]](https://osu.ppy.sh/beatmapsets/1145495#taiko/2391607)
+- Tiebreaker
+  - **[Yuuyu - Iki o Koroshita Stokesia (D3kuu) \[T4tsujin\]](https://osu.ppy.sh/beatmapsets/1002607#taiko/2098589)**
+
 ### Finals
 
 **[Download the mappack here! (109 MB)](https://www.mediafire.com/file/b2xdkgyty6c5foq/Mappack+F.zip/file)**
