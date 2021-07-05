@@ -23,6 +23,7 @@ tags:
 | [作图与编辑器](/wiki/Help_Centre/Beatmapping) | 谱面维护，谱面所有权，谱面槽位 |
 | [客户端](/wiki/Help_Centre/Client) | 漏洞和崩溃，游玩问题，网络连接，性能问题 |
 | [安装与注册](/wiki/Help_Centre/Installation_and_registration) | 下载游戏，注册帐号 |
+| [商店](/wiki/Help_Centre/Store) | 周边产品如 osu!go, osu!keyboard, osu!tablet |
 | [网站](/wiki/Help_Centre/Website) | 屏蔽用户，获得支持，网站外观 |
 
 ## 让我们帮助你
@@ -70,4 +71,4 @@ tags:
 3. 触发或等待性能问题发生。
 4. 按下`Shift` + `F12`截图。这会将截图上传至osu!服务器并会在你的浏览器中打开截图链接。
 5. 复制链接并粘贴至你的支持请求或论坛帖子中。
-6. 像你打开时关闭帧时间视图，按下`Ctrl` + `F11`。
+6. 关闭帧时间视图，与打开一致，按下`Ctrl` + `F11`。
