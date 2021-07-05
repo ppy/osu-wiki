@@ -35,6 +35,8 @@ The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![
 
 A prize pool of grand total 18 months of osu!supporter tag and physical trophies is made possible thanks to [LotusPro](http://www.lotuspro.io/).
 
+![](img/badge.jpg "VAF winner badge")
+
 ## Organisation
 
 The Vaf's Autumn Fiesta is run by various community members.
@@ -135,6 +137,66 @@ The Vaf's Autumn Fiesta is run by various community members.
 | #430 | ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243) |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (90 MB)](https://www.mediafire.com/file/sz6al1q0nifisg9/MAPPACK_GF.zip/file)**
+
+- NoMod
+  - [Kyou1110 - Revavavavava Ideoloololololololo (applerss) \[Innererererer Oniinininininini\]](https://osu.ppy.sh/beatmapsets/669463#taiko/1416106)
+  - [Richard Jacques - Super Sonic Racing (Foxeru) \[HiroK's All-Stars\]](https://osu.ppy.sh/beatmapsets/1315188#taiko/2725557)
+  - [The Flashbulb - Lawn Wake IX (iceOC) \[EX\]](https://osu.ppy.sh/beatmapsets/966060#taiko/2022187)
+  - [Various Artists - all night (ISLTR remix) (\_Rise) \[insomnia\]](https://osu.ppy.sh/beatmapsets/1510651#taiko/3093479)
+  - [Ophidian I - Spiral to Oblivion (Raiden) \[Desolation\]](https://osu.ppy.sh/beatmapsets/1508738#taiko/3089782)
+  - [Kurokotei - Nonbinarity (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1414457#taiko/2915423)
+- Hidden
+  - [easyname - silly 300bpm thing (Kqrth) \[Oni\]](https://osu.ppy.sh/beatmapsets/725373#taiko/1531570)
+  - [BABii, Kai Whiston, Iglooghost - Lamb (Nifty) \[Midas\]](https://osu.ppy.sh/beatmapsets/1262367#taiko/2623873)
+  - [toby fox - Ruins (sasakure.UK Remix) (eae) \[Golden Flowers\]](https://osu.ppy.sh/beatmapsets/790685#taiko/1659016)
+- HardRock
+  - [Chroma - Field : Kaerezu no Chi (tasuke912) \[Farthest\]](https://osu.ppy.sh/beatmapsets/897127#taiko/1874251)
+  - [t+pazolite - Garakuta Doll Play (sasakure.UK clutter remix) (Love) \[Love+Kinobles Oni\]](https://osu.ppy.sh/beatmapsets/424222#taiko/922997)
+  - [Kabocha - EgO (ll-oscar) \[ll-taiko St.\]](https://osu.ppy.sh/beatmapsets/1070329#taiko/2240471)
+- DoubleTime
+  - [Furries in a Blender - Storm World (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/322150#taiko/716320)
+  - [ayaponzu\* - Yakubyougami (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/742938#taiko/1659898)
+  - [Boogie Belgique - Piccadilly (lazyboy007) \[West End\]](https://osu.ppy.sh/beatmapsets/717359#taiko/1515547)
+- FreeMod
+  - [Ruby My Dear - Croque Monsieur A Disneyland (Gamelan4) \[_m6's Oni\]](https://osu.ppy.sh/beatmapsets/1039985#taiko/2173759)
+  - [Doin - Pine nut (eae) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/974639#taiko/2040084)
+  - [Frums - My Capacitance (HiroK) \[Capacity\]](https://osu.ppy.sh/beatmapsets/1145495#taiko/2391607)
+- Tiebreaker
+  - **[Yuuyu - Iki o Koroshita Stokesia (D3kuu) \[T4tsujin\]](https://osu.ppy.sh/beatmapsets/1002607#taiko/2098589)**
+
+### Finals
+
+**[Download the mappack here! (109 MB)](https://www.mediafire.com/file/b2xdkgyty6c5foq/Mappack+F.zip/file)**
+
+- NoMod
+  - [96-glass - TAROLIN MEGAMIX (2077 art mix) (applerss) \[2019 oni\]](https://osu.ppy.sh/beatmapsets/1066293#taiko/2234549)
+  - [Hatsune Miku - With a Dance Number (Dz'Xa's Amenpunk) (KTYN) \[False appearance\]](https://osu.ppy.sh/beatmapsets/1332703#taiko/2761943)
+  - [ginka\*EX - ASSASSIN (Axer) \[Daitatsujin\]](https://osu.ppy.sh/beatmapsets/980660#taiko/2052326)
+  - [Spastic Ink - Words For Nerds (cut ver.) (Mew104) \[Overflow\]](https://osu.ppy.sh/beatmapsets/970838#taiko/2032919)
+  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru (Heaxys) \[Compelling Retribution\]](https://osu.ppy.sh/beatmapsets/1070409#taiko/2572186)
+  - [Retractable - Teitai Kasoku Yomei Ikubaku (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/893799#taiko/1867862)
+- Hidden
+  - [Laur - KILL KILL KILL KILL KILL (maziari1105) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/477119#taiko/1045005)
+  - [Kobaryo - Theme for Psychopath Justice (eiri-) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1245034#taiko/2587936)
+  - [Within The Ruins - Enigma (Grimbow) \[Oni\]](https://osu.ppy.sh/beatmapsets/1243301#taiko/2584826)
+- HardRock
+  - [onoken - K8107 (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1201354#taiko/2502165)
+  - [sHimaU - nohmen break (Vaenus Remix) (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/670256#taiko/1417601)
+  - [Apollo"FIXEDSTAR"program feat. Ritsuka - SolarOrbit -Connected with the Espabrother- (Raiden) \[Interstellar (VAF ver.)\]](https://osu.ppy.sh/beatmapsets/1335757#taiko/3082573)
+- DoubleTime
+  - [Venetian Snares - Shaky Sometimes (Jaltzu) \[Unstable Oni\]](https://osu.ppy.sh/beatmapsets/1229307#taiko/2564821)
+  - [Kanzaki Eluza - Independence (hoku-4625) \[Sentiment\]](https://osu.ppy.sh/beatmapsets/809378#taiko/1698445)
+  - [Rick Astley - Never Gonna Give You Up - Akyra Eurobeat Extended Mix - (duski) \[Multi-Track Rick-Rolling\]](https://osu.ppy.sh/beatmapsets/1015518#taiko/2125411)
+- FreeMod
+  - [Aphex Twin - 4 acid organ[rough mix] (trollocat) \[alternative masterpiece\]](https://osu.ppy.sh/beatmapsets/1239661#taiko/2577376)
+  - [A? - Arrogation (Cut Ver.) (ZTH) \[Acquisition\]](https://osu.ppy.sh/beatmapsets/1291023#taiko/2679859)
+  - [KikuoHana - Ponkotsu Ningyou no Uta (Alchyr) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1155252#taiko/3012846)
+- Tiebreaker
+  - **[Team Grimoire - Vafpruonir (7\_7) \[Vaf\]](https://osu.ppy.sh/beatmapsets/1504837#taiko/3082615)**
 
 ### Semifinals
 
@@ -329,6 +391,42 @@ The Vaf's Autumn Fiesta is run by various community members.
   - [Se-U-Ra - Hope 4 Hopeful (Hivie) \[Optimism\]](https://osu.ppy.sh/beatmapsets/1302274#taiko/2700888)
 
 ## Match results
+
+### Finals
+
+Saturday, 3 July 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Minekuchi** ![][flag_DE] | **7** | 2 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/86721018) |
+| Skull Kid ![][flag_BR] | 1 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/86742979) |
+
+Sunday, 4 July 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| J a c k y ![][flag_HK] | 3 | **7** | ![][flag_JP] **yu-k1\_** | [#1](https://osu.ppy.sh/community/matches/86769379) |
+| Minekuchi ![][flag_DE] | 0 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/86776535) |
+
+### Semifinals
+
+Saturday, 26 June 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **XK2238** ![][flag_ID] | **7** | 1 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/86290156) |
+| mangomizer ![][flag_GB] | 2 | **7** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/86305698) |
+| HiroK ![][flag_BR] | 1 | **7** | ![][flag_JP] **nananass** | [#1](https://osu.ppy.sh/community/matches/86308020) |
+
+Sunday, 27 June 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **janitore** ![][flag_CA] | **7** | 0 | ![][flag_KR] 5henry | [#1](https://osu.ppy.sh/community/matches/86342158) |
+| **J a c k y** ![][flag_HK] | **7** | 1 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/86344611) |
+| Minekuchi ![][flag_DE] | 2 | **7** | ![][flag_JP] **yu-k1\_** | [#1](https://osu.ppy.sh/community/matches/86364156) |
+| nananass ![][flag_JP] | 1 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/86368987) |
+| XK2238 ![][flag_ID] | 6 | **7** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/86417837) |
 
 ### Swiss week 6
 
