@@ -26,6 +26,6 @@ Why yes we do. We have some rewards in store for those who come out on top.
 - **Runner-Up** - osu!supporter tag for 6 months
 - **Third Place** - osu!supporter tag for 4 months
 
-For all relevant information you will need to know before entering this year's competition, check out the [official thread](https://osu.ppy.sh/community/forums/topics/1359674). To get involved with the community and receive important updates regarding this contest, join the official [Discord server](https://discord.gg/eBaDTYrvby "Discord").
+For all relevant information you will need to know before entering this year's competition, check out the [official thread](https://osu.ppy.sh/community/forums/topics/1359674). To get involved with the community and receive important updates regarding this contest, join the official [Discord server](https://discord.gg/eBaDTYrvby "Discord"). You never know. Perhaps you could become the next idol.
 
 -MjIsMaster
