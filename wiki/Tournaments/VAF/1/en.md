@@ -330,6 +330,26 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 26 June 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **XK2238** ![][flag_ID] | **7** | 1 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/86290156) |
+| mangomizer ![][flag_GB] | 2 | **7** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/86305698) |
+| HiroK ![][flag_BR] | 1 | **7** | ![][flag_JP] **nananass** | [#1](https://osu.ppy.sh/community/matches/86308020) |
+
+Sunday, 27 June 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **janitore** ![][flag_CA] | **7** | 0 | ![][flag_KR] 5henry | [#1](https://osu.ppy.sh/community/matches/86342158) |
+| **J a c k y** ![][flag_HK] | **7** | 1 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/86344611) |
+| Minekuchi ![][flag_DE] | 2 | **7** | ![][flag_JP] **yu-k1\_** | [#1](https://osu.ppy.sh/community/matches/86364156) |
+| nananass ![][flag_JP] | 1 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/86368987) |
+| XK2238 ![][flag_ID] | 6 | **7** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/86417837) |
+
 ### Swiss week 6
 
 Saturday, 19 June 2021:
