@@ -1,5 +1,7 @@
 ---
 stub: true
+outdated: true
+outdated_since: 78d85860fc09d0ab7b6210300259c8e488b540ea
 ---
 
 <!-- term definition is unused now that forum-based modding is gone -->
