@@ -59,13 +59,13 @@
 
 尽管该功能本身的功能有限，但该解决方案在大多数情况下都能正常工作。例如，它不允许你覆盖分支上的任何不需要的更改，因为它只合并上游 `master` 分支。
 
-如果你在使用 GitHub 工具时遇到任何问题，或者您想覆写你分支的内容，您可以使用 osu!wiki 共享人员编写的 Workflow。
+如果你在使用 GitHub 工具时遇到任何问题，或者您想覆写你分支的内容，您可以使用 osu!wiki 共享人员编写的工作流程。
 
 1. 打开**你的 fork 仓库** 然后前往 `Actions` 栏。
 2. 在 `Workflows` 中找到 `Sync from osu! upstream`。
 3. 点击 `Run workflow` 并填写选项:
 
-![GitHub Actions Workflow - Run Workflow](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
+![GitHub Actions 工作流程 - 运行工作流程](img/github-actions-workflow-dialog.png "GitHub Actions 工作流程 - 运行工作流程")
 
 - **Use workflow from**：你想要同步的分支，默认被设置为 `master` 。
 - **Overwrite any changes in the target repository**：
@@ -77,7 +77,7 @@
 
 4. 点击 `Run Workflow` 按钮并等待 workflow 完成。如果你想知道这个工具如何工作，你可以在 workflow task 中点击 `Sync from osu! upstream`。
 
-![GitHub Actions Workflow - Workflow Overview](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
+![GitHub Actions 工作流程 - 工作流程 总览](img/github-actions-workflow-overview.png "GitHub Actions 工作流程 - 工作流程 总览")
 
 ## 我的 Pull Request 有冲突！
 
