@@ -35,6 +35,8 @@ The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![
 
 A prize pool of grand total 18 months of osu!supporter tag and physical trophies is made possible thanks to [LotusPro](http://www.lotuspro.io/).
 
+![](img/badge.jpg "VAF winner badge")
+
 ## Organisation
 
 The Vaf's Autumn Fiesta is run by various community members.
