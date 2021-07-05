@@ -157,7 +157,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | 瑞典语 |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | 中文 |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | 韩语 |
-| ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | 韩语，日语 |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | 西班牙语，葡萄牙语，意大利语，日语 |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | 菲律宾语 |
@@ -169,7 +168,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | 印度尼西亚语 |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | 荷兰语 |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | 中文 |
-| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | 印度尼西亚语 |
+| ![][flag_ID] [Lita-](https://osu.ppy.sh/users/15205070) | 印度尼西亚语 |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | 韩语 |
 
 ### 见习成员
@@ -210,8 +209,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | 西班牙语，葡萄牙语，意大利语，日语 |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
