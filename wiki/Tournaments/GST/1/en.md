@@ -293,7 +293,7 @@ Sunday, 4 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Broken Family | 0 | **7** | **Tom and Jerry** | [#1](https://osu.ppy.sh/mp/53831236) |
+| Broken Family | 0 | **7** | **Tom and Jerry** | [#1](https://osu.ppy.sh/community/matches/53831236) |
 | **Tom and Jerry** | **0** | -1 | Broken Family | *win by default* |
 
 ### Finals

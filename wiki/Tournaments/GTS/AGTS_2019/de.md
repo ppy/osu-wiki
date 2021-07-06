@@ -343,45 +343,45 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 
 | Group | Samstag, 2019-08-17 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| C4 | Mexiko ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/mp/54132793) |
-| D6 | Vereinigte Staaten B ![][flag_US] | 1 | **5** | ![][flag_US] **Vereinigte Staaten A** | [#1](https://osu.ppy.sh/mp/54133753) |
-| A1 | **Russland B** ![][flag_RU] | **5** | 3 | ![][flag_PH] Philippinen | [#1](https://osu.ppy.sh/mp/54141466) |
-| F5 | **Indonesien B** ![][flag_ID] | **5** | 0 | ![][flag_GB] ![][flag_PT] Königreich Großbritannien/Portugal | [#1](https://osu.ppy.sh/mp/54142329) |
-| D1 | **Russland A** ![][flag_RU] | **5** | 2 | ![][flag_US] Vereinigte Staaten B | [#1](https://osu.ppy.sh/mp/54143643) |
-| A5 | Malaysia ![][flag_MY] | 3 | **5** | ![][flag_RU] **Russland B** | [#1](https://osu.ppy.sh/mp/54143711) |
-| C5 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FR] Frankreich | [#1](https://osu.ppy.sh/mp/54146452) |
-| A6 | Philippinen ![][flag_PH] | 1 | **5** | ![][flag_PL] **Polen** | [#1](https://osu.ppy.sh/mp/54146455) |
-| E6 | Scandinavia ![][flag_DK] ![][flag_NO] ![][flag_SE] | 0 | **5** | ![][flag_KR] Südkorea | [#1](https://osu.ppy.sh/mp/54147726) |
-| C1 | **Frankreich** ![][flag_FR] | **5** | 3 | ![][flag_MX] Mexiko | [#1](https://osu.ppy.sh/mp/54149300) |
-| C6 | Mexiko ![][flag_MX] | 1 | **5** | ![][flag_NL] **Niederlande** | [#1](https://osu.ppy.sh/mp/54151830) |
-| E1 | **Deutschland A** ![][flag_DE] | **5** | 1 | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | [#1](https://osu.ppy.sh/mp/54152083) |
-| B5 | Chile ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentinien** | [#1](https://osu.ppy.sh/mp/54153575) |
-| C3 | **Kanada** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] Königreich Großbritannien/Portugal | [#1](https://osu.ppy.sh/mp/54153517) |
+| C4 | Mexiko ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
+| D6 | Vereinigte Staaten B ![][flag_US] | 1 | **5** | ![][flag_US] **Vereinigte Staaten A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
+| A1 | **Russland B** ![][flag_RU] | **5** | 3 | ![][flag_PH] Philippinen | [#1](https://osu.ppy.sh/community/matches/54141466) |
+| F5 | **Indonesien B** ![][flag_ID] | **5** | 0 | ![][flag_GB] ![][flag_PT] Königreich Großbritannien/Portugal | [#1](https://osu.ppy.sh/community/matches/54142329) |
+| D1 | **Russland A** ![][flag_RU] | **5** | 2 | ![][flag_US] Vereinigte Staaten B | [#1](https://osu.ppy.sh/community/matches/54143643) |
+| A5 | Malaysia ![][flag_MY] | 3 | **5** | ![][flag_RU] **Russland B** | [#1](https://osu.ppy.sh/community/matches/54143711) |
+| C5 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FR] Frankreich | [#1](https://osu.ppy.sh/community/matches/54146452) |
+| A6 | Philippinen ![][flag_PH] | 1 | **5** | ![][flag_PL] **Polen** | [#1](https://osu.ppy.sh/community/matches/54146455) |
+| E6 | Scandinavia ![][flag_DK] ![][flag_NO] ![][flag_SE] | 0 | **5** | ![][flag_KR] Südkorea | [#1](https://osu.ppy.sh/community/matches/54147726) |
+| C1 | **Frankreich** ![][flag_FR] | **5** | 3 | ![][flag_MX] Mexiko | [#1](https://osu.ppy.sh/community/matches/54149300) |
+| C6 | Mexiko ![][flag_MX] | 1 | **5** | ![][flag_NL] **Niederlande** | [#1](https://osu.ppy.sh/community/matches/54151830) |
+| E1 | **Deutschland A** ![][flag_DE] | **5** | 1 | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | [#1](https://osu.ppy.sh/community/matches/54152083) |
+| B5 | Chile ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentinien** | [#1](https://osu.ppy.sh/community/matches/54153575) |
+| C3 | **Kanada** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] Königreich Großbritannien/Portugal | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
 | Group | Sonntag, 2019-08-18 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F6 | Indonesien A ![][flag_ID] | 3 | **5** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/mp/54159212) |
-| B2 | Chile ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/mp/54160233) |
-| B1 | **Argentinien** ![][flag_AR] | **5** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/mp/54160229) |
-| B3 | **Japan** ![][flag_JP] | **5** | 3 | ![][flag_AR] Argentinien | [#1](https://osu.ppy.sh/mp/54161382) |
-| B4 | Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/mp/54161391) |
+| F6 | Indonesien A ![][flag_ID] | 3 | **5** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54159212) |
+| B2 | Chile ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/54160233) |
+| B1 | **Argentinien** ![][flag_AR] | **5** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/54160229) |
+| B3 | **Japan** ![][flag_JP] | **5** | 3 | ![][flag_AR] Argentinien | [#1](https://osu.ppy.sh/community/matches/54161382) |
+| B4 | Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/54161391) |
 | F2 | Indonesien B ![][flag_ID] | 0 | **5** | ![][flag_CA] **Kanada** | -win by default- |
-| B6 | Hong Kong ![][flag_HK] | 1 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/mp/54165254) |
-| F4 | **Indonesien A** ![][flag_ID] | **5** | 0 | ![][flag_ID] Indonesien B | [#1](https://osu.ppy.sh/mp/54168881) |
-| A3 | **Polen** ![][flag_PL] | **5** | 1 | ![][flag_RU] Russland B | [#1](https://osu.ppy.sh/mp/54168865) |
-| D5 | Brasilien ![][flag_BR] | 2 | **5** | ![][flag_RU] **Russland A** | [#1](https://osu.ppy.sh/mp/54168668) |
-| A4 | **Philippinen** ![][flag_PH] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/mp/54170118) |
-| C2 | Taiwan ![][flag_TW] | 0 | **5** | ![][flag_NL] **Niederlande** | [#1](https://osu.ppy.sh/mp/54169919) |
+| B6 | Hong Kong ![][flag_HK] | 1 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/54165254) |
+| F4 | **Indonesien A** ![][flag_ID] | **5** | 0 | ![][flag_ID] Indonesien B | [#1](https://osu.ppy.sh/community/matches/54168881) |
+| A3 | **Polen** ![][flag_PL] | **5** | 1 | ![][flag_RU] Russland B | [#1](https://osu.ppy.sh/community/matches/54168865) |
+| D5 | Brasilien ![][flag_BR] | 2 | **5** | ![][flag_RU] **Russland A** | [#1](https://osu.ppy.sh/community/matches/54168668) |
+| A4 | **Philippinen** ![][flag_PH] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/54170118) |
+| C2 | Taiwan ![][flag_TW] | 0 | **5** | ![][flag_NL] **Niederlande** | [#1](https://osu.ppy.sh/community/matches/54169919) |
 | E2 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_KR] **Südkorea** | -win by default- |
-| E3 | **Südkorea** ![][flag_KR] | **5** | 2 | ![][flag_DE] Deutschland A | [#1](https://osu.ppy.sh/mp/54171395) |
-| F1 | Königreich Großbritannien/Portugal ![][flag_GB] ![][flag_PT] | 4 | **5** | ![][flag_ID] **Indonesien A** | [#1](https://osu.ppy.sh/mp/54171441) |
-| A2 | Malaysia ![][flag_MY] | 0 | **5** | ![][flag_PL] **Polen** | [#1](https://osu.ppy.sh/mp/54171560) |
-| D3 | Vereinigte Staaten A ![][flag_US] | 2 | **5** | ![][flag_RU] **Russland A** | [#1](https://osu.ppy.sh/mp/54171222) |
-| C3 | **Niederlande** ![][flag_NL] | **5** | 1 | ![][flag_FR] Frankreich | [#1](https://osu.ppy.sh/mp/54173902) |
-| D4 | Vereinigte Staaten B ![][flag_US] | 4 | **5** | ![][flag_BR] **Brasilien** | [#1](https://osu.ppy.sh/mp/54175298) |
+| E3 | **Südkorea** ![][flag_KR] | **5** | 2 | ![][flag_DE] Deutschland A | [#1](https://osu.ppy.sh/community/matches/54171395) |
+| F1 | Königreich Großbritannien/Portugal ![][flag_GB] ![][flag_PT] | 4 | **5** | ![][flag_ID] **Indonesien A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
+| A2 | Malaysia ![][flag_MY] | 0 | **5** | ![][flag_PL] **Polen** | [#1](https://osu.ppy.sh/community/matches/54171560) |
+| D3 | Vereinigte Staaten A ![][flag_US] | 2 | **5** | ![][flag_RU] **Russland A** | [#1](https://osu.ppy.sh/community/matches/54171222) |
+| C3 | **Niederlande** ![][flag_NL] | **5** | 1 | ![][flag_FR] Frankreich | [#1](https://osu.ppy.sh/community/matches/54173902) |
+| D4 | Vereinigte Staaten B ![][flag_US] | 4 | **5** | ![][flag_BR] **Brasilien** | [#1](https://osu.ppy.sh/community/matches/54175298) |
 | E4 | **Scandinavia** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] Venezuela | -win by default- |
 | E5 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_DE] **Deutschland A** | -win by default- |
-| D2 | **Brasilien** ![][flag_BR] | **5** | 3 | ![][flag_US] Vereinigte Staaten A | [#1](https://osu.ppy.sh/mp/54181034) |
+| D2 | **Brasilien** ![][flag_BR] | **5** | 3 | ![][flag_US] Vereinigte Staaten A | [#1](https://osu.ppy.sh/community/matches/54181034) |
 
 ---
 
