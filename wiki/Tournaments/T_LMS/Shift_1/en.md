@@ -516,7 +516,7 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018:
 2. Each team is allowed to select one warm-up map.
    - During Group Stage warm-ups must not exceed 4:00 minutes. In the following stages the warm-up can be up to 6 minutes long if both teams agree.
    - Offensive songs may be blocked by referees.
-3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in #multiplayer to determine which team selects and bans first. Roll winner may decide if they want to ban first and pick 2nd, or pick first and ban 2nd. Bans always happen before picks.
+3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in #multiplayer to determine which team selects and bans first. Roll winner may decide if they want to ban first and pick 2nd, or pick first and ban 2nd. Bans always happen before picks.
    - Each team is allowed to ban one map out of the entire map pool with the exception of the tiebreaker, which cannot be banned. Each team has to use their ban.
 4. In case when one player lasts in both teams with no Revives remaining, the tiebreaker map must be played.
 5. Results will be published via the Statistics site.

@@ -1247,7 +1247,7 @@ Sunday, 20 January 2019:
 
 #### Bans and picks
 
-- Following the warmup phase, players will have to use the !roll command in the multiplayer chat. The player with the lowest roll will have the first ban and second pick, whereas the player with the highest roll will have the first pick and second ban. There will be **two bans** per player for each round.
+- Following the warmup phase, players will have to use the `!roll` command in the multiplayer chat. The player with the lowest roll will have the first ban and second pick, whereas the player with the highest roll will have the first pick and second ban. There will be **two bans** per player for each round.
 
 #### Match format
 

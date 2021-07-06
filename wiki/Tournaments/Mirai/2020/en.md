@@ -510,7 +510,7 @@ The length for each stage is as follows, these include their respective Losers R
 
 1. The assigned referee will invite the team captain 10-15 minutes before the match starts
 2. The team captain will invite their teammates to the room.
-3. When the referee gives permission the team captains will !roll
+3. When the referee gives permission the team captains will `!roll`
 4. The team that rolls the highest gets to pick whether they want to ban first and pick first.
 5. Highest roller decides pick and ban order. They can choose if they want to pick and ban second if they want to.
 6. Players can choose to skip their warmup.

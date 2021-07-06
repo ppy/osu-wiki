@@ -492,7 +492,7 @@ All-star es un evento especial que se llevará a cabo en la semana de las Grande
 5. Una partida 4 vs 4 también se llevará a cabo con las siguientes reglas:
    - Paquete de mapas de 5 NM,HR,HD,DT,FM,EX y 1 TB (Las reglas de mods de las partidas normales aplican aquí también).
    - No bans. Los bans están prohibidos.
-   - Los mods serán escogidos aleatoriamente por un !roll (de acuerdo a una tabla) y luego el mapa será escogido gracias a una rueda.
+   - Los mods serán escogidos aleatoriamente por un `!roll` (de acuerdo a una tabla) y luego el mapa será escogido gracias a una rueda.
    - El cambio de jugadores está permitido sin limitaciones durante toda la partida.
    - Mismas reglas de desconexión que en las reglas normales aplican.
 

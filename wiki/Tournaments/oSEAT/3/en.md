@@ -825,7 +825,7 @@ Wednesday, 1 December 2019:
 1. The mappool is designed such that when both players reach match point, there will be 3 maps left.
 2. Both players have to *Private Message* (PM) the referee which map they would like to ban out of the 3 maps within 2 minutes. **`#multiplayer` chat is strongly discouraged during this time**.
    - If both players ban different maps, the 3rd map is played
-   - **If both players ban the same map, the referee does a !roll 2 to determine which map out of the remaining will be played. (1 corresponds to the map listed higher on the map pool)**.
+   - **If both players ban the same map, the referee does a `!roll` 2 to determine which map out of the remaining will be played. (1 corresponds to the map listed higher on the map pool)**.
    - If one player does not ban a map within the time limit or says anything in #multiplayer that can be deemed as an attempt to mindgame, the other player is free to choose his choice of maps within the 3 maps.
    - If neither player bans a map within the time limit, the choice of map is randomised.
 3. If the tiebreaker map ends in a draw, low roll gets to choose another tiebreaker within the remaining 2 maps.

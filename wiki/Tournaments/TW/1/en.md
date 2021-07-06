@@ -320,8 +320,8 @@ Sunday, 4 November 2018:
 5. Once all players are present, the defending team must state their choice between first warmup/ban/pick or second warmup/ban/pick. Teams may pick warmup maps with a length of 5:00 or less, in the decided order.
 6. Each team may ban **one map** from the mappool, in the decided order.
 7. Teams will continue to take turns picking maps, until one team wins.
-8. Every pick, the referee will start a !mp timer 240 command, by the end of which the currently picking team must have stated their map choice. If the picking team fails to pick a map at any time before the timer ends, one will be randomly selected for them using a `!roll` command.
-9. Teams will then ready up, after which the referee will enter !mp start 15 to begin the match.
+8. Every pick, the referee will start a `!mp timer 240` command, by the end of which the currently picking team must have stated their map choice. If the picking team fails to pick a map at any time before the timer ends, one will be randomly selected for them using a `!roll` command.
+9. Teams will then ready up, after which the referee will enter `!mp start 15` to begin the match.
 10. Failed scores are counted, the team with the highest score wins.
 11. The Matches will be BO5 and grow bigger as teams are eliminated.
 

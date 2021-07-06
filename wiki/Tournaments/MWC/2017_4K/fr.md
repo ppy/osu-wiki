@@ -403,9 +403,9 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 2. Les joueurs peuvent sélectionner jusqu'à deux beatmaps d'échauffement. Les beatmaps avec un contenu discutable sont interdites. Toutes les beatmaps doivent être des beatmaps osu!mania 4 touches.
 3. Chaque capitaine peut bannir **une beatmap** sélectionnable. Ces beatmaps ne pourront être choisies par aucune équipe pendant l'intégralité du match.
 4. La sélection des beatmaps sera alternée entre chaque capitaine, qui choisira alors une beatmap de la liste des maps disponibles.
-5. Chaque capitaine doit utiliser « !roll » une fois dans #multiplayer.
-   - Le gagnant du !roll commence par choisir la première beatmap du match.
-   - Le perdant du !roll banni une beatmap, suivi par le gagnant du !roll.
+5. Chaque capitaine doit utiliser « `!roll` » une fois dans #multiplayer.
+   - Le gagnant du `!roll` commence par choisir la première beatmap du match.
+   - Le perdant du `!roll` banni une beatmap, suivi par le gagnant du `!roll`.
 6. Les capitaines peuvent choisir librement les maps du tableau.
    - En cas d'égalité, la map de tiebreaker doit être jouée.
 7. Les résultats des phases de poules seront publiés via le feuille de calcul des statistiques.

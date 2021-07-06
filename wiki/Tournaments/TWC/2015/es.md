@@ -137,9 +137,9 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 3. Cada capitán podrá vetar 2 beatmaps para ser seleccionado del sorteo, esos beatmaps no serán elegibles para ningún otro equipo en ninguna partida.
    1. Ambos vetos podrán ser utilizados cuando se requiera.
 4. La selección de beatmaps se alternarará entre cada capitán seleccionado un beatmap fuera del sorteo de mapas.
-5. Cada capitan podrá usar el comando !roll en \#multiplayer.
-   1. El ganador del !roll podrá elegir primero el beatmap de la partida.
-   2. El perdedor del !roll empezará por vetar 1 o 2 beatmaps.
+5. Cada capitan podrá usar el comando `!roll` en \#multiplayer.
+   1. El ganador del `!roll` podrá elegir primero el beatmap de la partida.
+   2. El perdedor del `!roll` empezará por vetar 1 o 2 beatmaps.
 6. Los capitanes podrán elegir beatmaps de cualquier categoría
    1. En caso de un empate, deberán jugar el beatmap de desempate.
 7. Los resultados serán publicados en el sitio de Estadisticas.

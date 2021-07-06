@@ -610,7 +610,7 @@ Sunday, 25 February 2018:
      - 5 minutes late - first picks and bans go to team that is already present.
      - 7 minutes late - one point goes to the team which is present.
      - 10 minutes late - late team forfeits (subject to referee's leniency).
-4. At the start of the match, both captains will roll using the !roll command. The higher roll gets to both ban and pick first. Warmups can either be chosen by roll or another method decided in the lobby
+4. At the start of the match, both captains will roll using the `!roll` command. The higher roll gets to both ban and pick first. Warmups can either be chosen by roll or another method decided in the lobby
    - There will be no warmups in group stage. Warmups in later stages are strictly limited to 2 minutes maximum drain time.
 5. 1 ban per team up to RO16, 2 bans from Quarterfinals onwards.
 6. Teams may substitute players in and out of the lobby without limit.

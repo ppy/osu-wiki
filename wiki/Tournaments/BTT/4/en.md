@@ -428,7 +428,7 @@ Sunday, 10 March 2019:
 
 1. A private match will be created for your match, and both players will be invited into their match when it's their time. Make certain you're online at this time.
 2. Each player is allowed one warmup, but it must be below 3 minutes.
-3. Here is how bans and picks will happen. The first person to ban will be the loser of the !roll, then they will alternate bans. (Loser -> Winner -> Loser -> Winner) And the first person to pick will be the winner of the !roll, then they will alternate picks. (Winner -> Loser -> Winner -> Loser, etc...)
+3. Here is how bans and picks will happen. The first person to ban will be the loser of the `!roll`, then they will alternate bans. (Loser -> Winner -> Loser -> Winner) And the first person to pick will be the winner of the `!roll`, then they will alternate picks. (Winner -> Loser -> Winner -> Loser, etc...)
 4. In case of a tie, the tiebreaker will be played.
 5. Results will be displayed on Challonge, and announced by the referee.
 

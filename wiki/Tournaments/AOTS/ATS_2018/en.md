@@ -475,9 +475,9 @@ Friday, 1 June 2018:
 2. Each player is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
 3. Each player has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any player during the entire match.
 4. Beatmap selection will alternate between each player selecting a beatmap out of the mappool.
-5. Each player must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning.
+5. Each player must use `!roll` once in #multiplayer.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning.
 6. Players may pick freely from any bracket.
    - In case of a tie, the Tiebreaker map must be played.
 

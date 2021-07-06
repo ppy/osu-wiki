@@ -447,9 +447,9 @@ Monday, 16 April 2018:
    - Host must be returned to the referee before each map begins.
    - Warmup maps must not be longer than 5 minutes.
    - Warmups are not allowed in Group Stage.
-4. After warmups are finished, have both captains roll (!roll in chat). Team with highest `!roll` score will choose the first ban and pick.
+4. After warmups are finished, have both captains roll (`!roll` in chat). Team with highest `!roll` score will choose the first ban and pick.
    - Referees may choose to use a 90 second timer for bans and picks at their discretion. If it’s decided that a timer will be used, it must be used for the entirety of the match for both teams. It’s highly recommended that a timer be used if teams or referees have back-to-back matches.
-   - Referees can use the “!mp timer 90” command to begin a 90 second countdown. The “!mp aborttimer” command can be used to end the countdown.
+   - Referees can use the `!mp timer 90` command to begin a 90 second countdown. The `!mp aborttimer` command can be used to end the countdown.
 5. Captains will alternate banning maps for their team, with the highest rolling team banning first.
    - Each team receives two bans each.
    - Teams are not required to ban two maps and may ban one or zero maps if they wish.

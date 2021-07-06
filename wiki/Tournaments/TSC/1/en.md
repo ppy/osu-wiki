@@ -469,7 +469,7 @@ Sunday, 2 September 2018:
 - On FreeMod picks, at least two players from each team must use Hidden, HardRock, or both.
 - Hidden and HardRock are allowed, but not required, on Tiebreakers.
 - Only one of each seed is allowed to play in the lobby at any given time, so the team can only have 1 A seed, 1 B seed, and 1 C seed.
-- Once the map choice is locked in, players will have 3 minutes to ready up. The referee will start the match when all players are ready. If the 3 minute timer ends, the referee will force an !mp start 15 command, and the match will start with whoever is in the lobby.
+- Once the map choice is locked in, players will have 3 minutes to ready up. The referee will start the match when all players are ready. If the 3 minute timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
 - The winner of a map is determined by which team ends with a higher score.
 - In the case of a disconnection, a rematch will only be played if the disconnection occurred within the first 30 seconds of the map. This can be judged by the mp link. If a player disconnects after 30 seconds of the map have passed, their score will not be counted.
 

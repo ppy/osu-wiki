@@ -365,7 +365,7 @@ Sunday, 11 August 2020:
    - **+2 points** (1st place) / **+1 point** (2nd place) / **+1 point** (3rd place) / **0 points** (4th place) in groups with 4 players.
    - **+1 point** (1st place) / **+1 point** (2nd place) / **0 points** (3rd place) in groups with 3 players.
 3. There will be a total of 8 maps to be played in each group stage match, with each player picking out two maps from the pool.
-   - In groups with 3 players, the final two maps will be picked by the player with the highest !roll score and the player with the second highest !roll score respectively.
+   - In groups with 3 players, the final two maps will be picked by the player with the highest `!roll` score and the player with the second highest `!roll` score respectively.
 4. Participants are **not allowed** to ban maps in the Group Stage.
 5. There is no Lower Bracket in the Group Stage.
 6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:

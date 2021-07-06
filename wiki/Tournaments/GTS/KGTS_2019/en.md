@@ -252,7 +252,7 @@ Sunday, 6 October 2019:
 9. The player with the highest roll **bans second and picks first**. The playerwith the lowest roll **bans first and picks second**.
 10. Beatmap selection will then alternate between each player selecting a beatmap out of the map pool.
 11. Players may pick freely from any bracket.
-12. Players will have 2 minutes to ban and pick maps, and to get ready as well. If by the end of the timer no map is picked, the referee will !roll with the number of maps left in the pool, and the number he will fall on will be the pick.
+12. Players will have 2 minutes to ban and pick maps, and to get ready as well. If by the end of the timer no map is picked, the referee will `!roll` with the number of maps left in the pool, and the number he will fall on will be the pick.
 13. If a player disconnects between the beatmaps and he can not provide an exchange, the match can be delayed 10 minutes at maximum.
 14. If a player disconnects, they get treated as if they failed the map.
 15. Disconnects within 30 seconds after beatmap begin can be rematched. This is only allowed once per player/team.

@@ -493,13 +493,13 @@ Sunday, 7 June 2020:
    - From Quarterfinals onwards, the number of bans increases to two.
    - A mod pool can not be banned completely.
    - A team cannot ban two maps in the same mod pool except NoMod.
-4. Each captain must use "!roll" once in the multiplayer lobby.
+4. Each captain must use `!roll` once in the multiplayer lobby.
    - The team with the higher roll chooses to **ban first** or **pick first**.
    - The team that bans first will pick second, and vice versa.
 5. Beatmap selection will alternate between each team selecting a beatmap out of the mappool, they may pick freely from any mod pool.
 6. In the case of a tie, the tiebreaker beatmap will be played.
    - For the Grand Finals tiebreaker, there will be 3 tiebreaker beatmaps. The captain from each team will privately message the referee to ban one of those beatmaps.
-   - If both teams ban the same beatmap, the referee will use "!roll" to randomly select 1 of the remaining 2 tiebreaker beatmaps to be played.
+   - If both teams ban the same beatmap, the referee will use `!roll` to randomly select 1 of the remaining 2 tiebreaker beatmaps to be played.
    - If the teams ban different beatmaps, the remaining beatmap will be played.
 
 ### Mappool instructions

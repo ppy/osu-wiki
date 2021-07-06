@@ -452,7 +452,7 @@ Sunday, 14 February 2021:
 1. The match lobby will be created and invites sent to participants 5-10 minutes prior to the match start time.
 2. If a participant is more than 10 minutes late to the lobby, the participant inside the lobby will be declared the winner. If neither participant appears, the participant with the higher seed will be considered the winner.
 3. Each participant will be allowed to select 1 map as a warmup. Warmups must be uploaded to the osu! servers and **cannot exceed 4 minutes** in length.
-4. Participants can choose to ban 1 map from the mappool (excluding the tiebreaker). The pick/ban order is determined by the !roll command. The participant with the lower roll bans first and the other one with the higher roll picks first.
+4. Participants can choose to ban 1 map from the mappool (excluding the tiebreaker). The pick/ban order is determined by the `!roll` command. The participant with the lower roll bans first and the other one with the higher roll picks first.
 5. If both participants are tied on match point (e.g. 3-3 score in a Best-of-7), both participants will play the Tiebreaker bracket to determine the winner.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

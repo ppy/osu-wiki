@@ -463,7 +463,7 @@ Sunday, 10 November 2013:
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Referee will join the room externally. Referee will spectate the match via multi-spectator client.
 3. Players are free to select a warm-up map.
-4. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+4. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in \#multiplayer to determine which team selects first.
    - The captains may select maps out of the NoMod bracket freely.
    - Selection out of mod-specific brackets is limited. Each captain may only select one map from each mod-restricted bracket during the match.
      - In Knock-Out Stage, selecting out of FreeMod bracket is unlimited.

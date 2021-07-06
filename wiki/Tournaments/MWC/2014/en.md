@@ -550,7 +550,7 @@ This competition has come to an end and resulted in the following podium:
    - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 2014: TeamBlue vs TeamRed"
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps.
-3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in \#multiplayer to determine which team selects first.
    - The captains may select maps out of the FreeMod bracket freely.
    - In case of a tie, the tiebreaker map must be played.
 4. Results will be published on the wiki and via the Statistics website.

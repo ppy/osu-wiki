@@ -429,7 +429,7 @@ La competición ha concluido con el siguiente podio:
    2. La configuración de la sala será: Catch the Beat, Equipo-Vs., Win Condition: 'Score '. El nombre debe ser "CtB World Cup 2014: EquipoBlue vs EquipoRed"
    3. El primer equipo en el nombre de la sala será el azul, el otro equipo, el rojo.
 2. Los jugadores son libres de elegir los dos mapas de calentamiento.
-3. La elección de mapas se alternará entre cada capitán seleccionando un mapa del mappool. Cada capitán debe usar "!roll" en \#multiplayer para determinar que equipo elige primero.
+3. La elección de mapas se alternará entre cada capitán seleccionando un mapa del mappool. Cada capitán debe usar `!roll` en \#multiplayer para determinar que equipo elige primero.
    1. Los capitanes pueden elegir mapas NoMod y FreeMod libremente.
    2. La elección de mapas de mod específico es limitada. Cada capitán puede elegir solo un mapa de cada mod durante el partido.
       1. La elección de mapas FreeMod es ilimitada.

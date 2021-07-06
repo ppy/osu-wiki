@@ -491,7 +491,7 @@ Die All-Star-Matches sind ein Veranstaltung bei der der Spaß im Vorderfrund ste
 5. Außerdem wird auch noch ein 4 vs 4 mit folgenden Regeln gespielt:
    - Ein Mappool bestehend aus 5 NM,HR,HD,DT,FM,EX und 1 TB (es gelten die selben Regeln für HR,HD,DT,FM,TB wie bei den normalen Matches)
    - Es werden keine Maps gebannt.
-   - Zunächst wird mit Hilfe von "!roll" ein Mod bestimmt(unter Zuhilfenahme einer Tabelle) und dann mit Hilfe eines Zufallsrades die exakte Beatmap.
+   - Zunächst wird mit Hilfe von `!roll` ein Mod bestimmt(unter Zuhilfenahme einer Tabelle) und dann mit Hilfe eines Zufallsrades die exakte Beatmap.
    - Spieler dürfen frei ausgetauscht werden.
    - Sollte ein Spieler die Verbindung verlieren, gelten die selben Regeln wie in den normalen Matches.
 

@@ -249,7 +249,7 @@ All individual match results can be found on the Challonge page linked above.
 - Players have up to ten minutes after their designated start time to move into the lobby. Failure to show will result in a forfeit. If both players are absent, the match will either be rescheduled or end in double forfeit to the discretion of the administration.
 - If a player disconnects within the first 30 seconds of a map, it will be aborted and replayed. Any disconnects afterwards will be a forfeit of that map.
 - Disconnects may only occur once per match per player. It will count as a forfeit after the first time.
-- Highest !roll has first warmup, ban and pick.
+- Highest `!roll` has first warmup, ban and pick.
 - Each player is allowed one ban.
 - Each player is allowed one warmup. Warmups must not be longer than 5 minutes, must not be in any ANZT5W mappool and must be submitted.
 - One player may not pick from the same mod pool twice in a row (HD/HR/DT/FreeMod). This does not apply to NoMod.
