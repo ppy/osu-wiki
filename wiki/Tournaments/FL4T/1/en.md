@@ -53,7 +53,7 @@ The osu!mania Flashlight 4K Tournament was run by various community members.
 - [Livestream](https://www.twitch.tv/osu_FL4T "Twitch")
 - [Challonge bracket](https://challonge.com/osu_FL4T1 "Challonge")
 - [Livestream VOD archive](https://www.youtube.com/channel/UC-3KbBtjS9ymQ46ZW1lHxIQ "Youtube Channel")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing "Google Docs")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 

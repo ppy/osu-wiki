@@ -14,14 +14,14 @@ The **3 Digit World Cup 2021** (***3WC 2021***) was a country-based osu! tournam
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-02-24/2020-03-13 (18:00 UTC+0) |
-| Team submission | 2020-03-13/2020-03-28 (18:00 UTC+0) |
-| Qualifiers | 2020-04-02/2020-04-04 |
-| Round of 16 | 2020-04-09/2020-04-11 |
-| Quarterfinals | 2020-04-16/2020-04-18 |
-| Semifinals | 2020-04-23/2020-04-25 |
-| Finals | 2020-04-30/2020-05-02 |
-| Grand Finals | 2020-05-07/2020-05-09 |
+| Registration phase | 2021-02-24/2021-03-13 (18:00 UTC+0) |
+| Team submission | 2021-03-13/2021-03-28 (18:00 UTC+0) |
+| Qualifiers | 2021-04-02/2021-04-04 |
+| Round of 16 | 2021-04-09/2021-04-11 |
+| Quarterfinals | 2021-04-16/2021-04-18 |
+| Semifinals | 2021-04-23/2021-04-25 |
+| Finals | 2021-04-30/2021-05-02 |
+| Grand Finals | 2021-05-07/2021-05-09 |
 
 ## Prizes
 
@@ -50,7 +50,7 @@ The 3 Digit World Cup was run by various community members.
 ## Links
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1256770)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Spreadsheet")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Sheets")**
 - [Discord server](https://discord.gg/ZjPs7ya "Discord")
 - [Challonge brackets](https://challonge.com/3WC2021 "Challonge")
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/54 "Pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
@@ -85,7 +85,7 @@ The 3 Digit World Cup was run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Voss](https://osu.ppy.sh/users/7657761)**, [Rinnu](https://osu.ppy.sh/users/12179012), [majoreh](https://osu.ppy.sh/users/7959222), [Kingling](https://osu.ppy.sh/users/7010761), [Jemzsee](https://osu.ppy.sh/users/11553627), [Doomsday](https://osu.ppy.sh/users/18983) |
 | ![][flag_US] | **United States** | **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, [Exarch](https://osu.ppy.sh/users/5370153), [Apraxia](https://osu.ppy.sh/users/4194445), [Woey](https://osu.ppy.sh/users/3792472), [Flezlin](https://osu.ppy.sh/users/3696423), [Tekkito](https://osu.ppy.sh/users/7075211) |
 
-![3WC 2021 podium](img/podium.png)
+![](img/podium.png "3WC 2021 podium")
 
 ## Mappools
 
@@ -255,7 +255,7 @@ The 3 Digit World Cup was run by various community members.
 
 ### Grand Finals
 
-The stats of the Grand Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=181538024 "Google spreadsheet").
+The stats of the Grand Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=181538024 "Google Sheets").
 
 Saturday, 8 May 2021:
 
@@ -271,7 +271,7 @@ Sunday, 9 May 2021:
 
 ### Finals
 
-The stats of the Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1957562667 "Google spreadsheet").
+The stats of the Finals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1957562667 "Google Sheets").
 
 Saturday, 1 May 2021:
 
@@ -289,7 +289,7 @@ Sunday, 2 May 2021:
 
 ### Semifinals
 
-The stats of the Semifinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=740688322 "Google spreadsheet").
+The stats of the Semifinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=740688322 "Google Sheets").
 
 Saturday, 24 April 2021:
 
@@ -316,7 +316,7 @@ Monday, 26 April 2021:
 
 ### Quarterfinals
 
-The stats of the Quarterfinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1091288063 "Google spreadsheet").
+The stats of the Quarterfinals can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit#gid=1091288063 "Google Sheets").
 
 Saturday, 17 April 2021:
 
@@ -338,7 +338,7 @@ Sunday, 18 April 2021:
 
 ### Round of 16
 
-The stats of the Round of 16 can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit?rm=minimal#gid=676071053 "Google spreadsheet").
+The stats of the Round of 16 can be found on the [spreadsheet](https://docs.google.com/spreadsheets/d/146pzh4VK_PuUh2k-AT8T8IRpNWt_da6NmrdTiU0eZR4/edit?rm=minimal#gid=676071053 "Google Sheets").
 
 Saturday, 10 April 2021:
 
@@ -365,7 +365,7 @@ Sunday, 11 April 2021:
 1. The 3 Digit World cup is a world cup style tournament aimed for players in the 3 digit rank range (#100-#999) of osu! without the enforcement of a Badge Weighting System (BWS).
 2. Team size is 4-6 players, and matches are played in a 3v3 format.
 3. Beatmap scoring is based on ScoreV2.
-4. After signups close, players that did not get a minimum roster for their country will be able to form a "Countryless team", with a maximum of one player per country. 
+4. After signups close, players that did not get a minimum roster for their country will be able to form a "Countryless team", with a maximum of one player per country.
 5. Qualifiers will be used to seed the teams into a 16 team double elimination bracket.
    - The qualifiers mappool will be ten beatmaps (4NM/2HD/2HR/2DT) and will be played twice. The best combined team run will be used for seeding, and teams are allowed to skip beatmaps in the second run where they believe they already have a good run on.
 6. Grand Finals will have a bracket reset if the team coming from the losers bracket wins the first match.
@@ -375,7 +375,7 @@ Sunday, 11 April 2021:
 ### Tournament registrations
 
 1. Each player will sign up individually
-   - Players must be in the rank range (#100–#999) by the registrations closing. 
+   - Players must be in the rank range (#100–#999) by the registrations closing.
 2. A captain will be designated from the players that signed up and will be responsible for the well-being of the team.
    - The assigned captain may give their role to another player, and even exclude themselves from the team if they believe that is the right move.
    - If a country has more signups than the team size allows for, the captain will be tasked with forming the team.
@@ -389,8 +389,8 @@ Sunday, 11 April 2021:
 - Finals and Grand Finals
   - Best of 13, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 
-1. The referee will invite the captains of each team to the multiplayer lobby. Captains have ten minutes to get a minimum of a three-man roster in the lobby, otherwise the opposing team will be allowed to claim a win by default. 
-2. Both captains will `!roll`. The lowest roll will ban first, while the highest roll will ban second and pick first. 
+1. The referee will invite the captains of each team to the multiplayer lobby. Captains have ten minutes to get a minimum of a three-man roster in the lobby, otherwise the opposing team will be allowed to claim a win by default.
+2. Both captains will `!roll`. The lowest roll will ban first, while the highest roll will ban second and pick first.
    - Bans and picks will alternate between teams
 3. The referee may set an `!mp timer` in order to limit how long teams have to make a choice. Should a team take longer than the timer, they will be forced to forfeit their choice
    - If they run the timer on a ban, they will lose their opportunity to ban.

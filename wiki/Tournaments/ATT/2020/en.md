@@ -48,7 +48,7 @@ The Ausu!Taiko Tournament 2020 was run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1055313)
 - [Livestream](https://www.twitch.tv/DrumDecimator "Twitch")
 - [Challonge bracket](https://challonge.com/ausutaiko2020 "Challonge")
-- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1KgmKIGzTxIERNo9Dl6hL96A_wXRKYddfguvdx5P0ugI/edit?usp=sharing "Google Docs")
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1KgmKIGzTxIERNo9Dl6hL96A_wXRKYddfguvdx5P0ugI/edit?usp=sharing "Google Sheets")
 
 ## Participants
 
