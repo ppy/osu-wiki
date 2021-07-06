@@ -299,7 +299,7 @@ The osu! World Cup 2020 was run by the osu!team and various community members.
 
 ### Grand Finals
 
-The stats of the Grand Finals can be found [here](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal "Google spreadsheet").
+The stats of the Grand Finals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 5 December 2020:
 
@@ -315,7 +315,7 @@ Sunday, 6 December 2020:
 
 ### Finals
 
-The stats of the Finals can be found [here](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "Google spreadsheet").
+The stats of the Finals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 28 November 2020:
 
@@ -333,7 +333,7 @@ Sunday, 29 November 2020:
 
 ### Semifinals
 
-The stats of the Semifinals can be found [here](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "Google spreadsheet").
+The stats of the Semifinals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 21 November 2020:
 
@@ -355,7 +355,7 @@ Sunday, 22 November 2020:
 
 ### Quarterfinals
 
-The stats of the Quarterfinals can be found [here](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal "Google spreadsheet").
+The stats of the Quarterfinals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 14 November 2020:
 
@@ -385,7 +385,7 @@ Sunday, 15 November 2020:
 
 ### Round of 16
 
-The stats of the Round of 16 can be found [here](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "Google spreadsheet").
+The stats of the Round of 16 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 7 November 2020:
 
@@ -415,7 +415,7 @@ Sunday, 8 November 2020:
 
 ### Round of 32
 
-The stats of the Round of 32 can be found [here](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal "Google spreadsheet").
+The stats of the Round of 32 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 31 October 2020:
 
@@ -445,7 +445,7 @@ Sunday, 1 November 2020:
 
 ### Qualifiers
 
-The stats of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal "Google spreadsheet").
+The stats of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal "Google spreadsheet").
 
 ## Ruleset
 

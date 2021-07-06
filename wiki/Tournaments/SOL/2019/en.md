@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d16lPxdtUsuDTyArGgtW-nnnLMycFqN0j55O3TO2GpdBo/edit#gid=649487813)**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d16lPxdtUsuDTyArGgtW-nnnLMycFqN0j55O3TO2GpdBo/edit#gid=649487813)**
 
 ### Grand Finals
 

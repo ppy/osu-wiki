@@ -40,7 +40,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 | Mappool selector | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | Streamer | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) |
 | Commentator | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869),  ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) |
-| Referee | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [Asqed](https://osu.ppy.sh/users/6525565), ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) |
+| Referee | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [Asqed](https://osu.ppy.sh/users/6525565), ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) |
 | Graphic designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
 | Spreadsheet manager | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -67,6 +67,31 @@ Listed below are players who qualified into the Group stage (along with their re
 | G | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) |
 | H | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) |
 
+### Round of 16
+
+**[Download the mappack here! (108 MB)](https://drive.google.com/u/0/uc?id=1qdwIbMol5EjZc2f1c8eE-_3MPzkOjioz&export=download "Google Drive")**
+
+- NoMod
+  - [Chitose Sara - Merry Merry Go Round (SHOT MUSIC Asterisk Remix) (-Izayoi) \[Carousel\]](https://osu.ppy.sh/beatmapsets/975120#fruits/2041038)
+  - [Inugami Korone & Nekomata Okayu - Hyadain no Joujou Yuujou (Cut Ver.) (My Angel RangE) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1413067#fruits/2912709)
+  - [Tatsh - Xepher (Nazalion) \[Rain+\]](https://osu.ppy.sh/beatmapsets/134486#fruits/337282)
+  - [Kage - FIRST (happy30) \[hatteke30's Extra\]](https://osu.ppy.sh/beatmapsets/194107#fruits/461048)
+  - [Eagle - S!ck (fanzhen0019) \[123\]](https://osu.ppy.sh/beatmapsets/788035#fruits/1653964) 
+- Hidden
+  - [YOASOBI - Yasashii Suisei (Crowley) \[The Mutual Connection of Two Exceptional Falling Stars\]](https://osu.ppy.sh/beatmapsets/1411580#fruits/2910097)
+  - [Hyuji feat. LIQU@. - Mermaid girl (Tropical Remix) (Ascendance) \[Brunoob's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1244353#fruits/2586681)
+  - [Machita Chima - KING (Ayucchi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1306528#fruits/2708875)
+- HardRock
+  - [Pastel\*Palettes - Shuwarin\*Drea~min (AutoLs) \[Rain\]](https://osu.ppy.sh/beatmapsets/1255717#fruits/2611006)
+  - [Ayase Rie - Yuima-ru\*World (Bastian) \[Rain\]](https://osu.ppy.sh/beatmapsets/1400516#fruits/2889374)
+  - [Ricky Martin - Livin' La Vida Loca (Spanish Version) (Krisom) \[Alocado\]](https://osu.ppy.sh/beatmapsets/1337085#fruits/2769841)
+- DoubleTime
+  - [ShinRa-Bansho - Itazura Sensation (Spectator) \[Hex's Platter\]](https://osu.ppy.sh/beatmapsets/1324962#fruits/2786508)
+  - [m108 - \* Crow Solace \* (Rocma) \[\[III\]\]](https://osu.ppy.sh/beatmapsets/829329#fruits/1751539)
+  - [Kagamine Rin & Len - Jutenija (Arusha Shuna) \[Gale\]](https://osu.ppy.sh/beatmapsets/29557#fruits/97995)
+- Tiebreaker
+  - **[AKI AKANE - Hanabira (Irus Brutalcore Breaks Remix) (Deif) \[Flower Petals\]](https://osu.ppy.sh/beatmapsets/526175#fruits/1116562)**
+
 ### Group stage
 
 **[Download the mappack here! (87 MB)](https://drive.google.com/file/d/1cwjsNciDalNJmdqz6t1FQLbDY2sM2-vo/view "Google Drive")**
@@ -90,6 +115,42 @@ Listed below are players who qualified into the Group stage (along with their re
   - [IOSYS - Miracle-Hinacle (vincerio) \[Miracle-Lolicle\]](https://osu.ppy.sh/beatmapsets/20210#fruits/71842)
 - Tiebreaker
   - **[Official HIGE DANdism - Pretender (Crowley) \[My Final Farewell\]](https://osu.ppy.sh/beatmapsets/1272888#fruits/2645056)**
+
+## Match results
+
+### Group Stage
+
+Friday, 2 July 2021:
+
+| Group |  |  |  |  | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **A** | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877) (13 pts)** | ![][flag_ID] **[Latina-](https://osu.ppy.sh/users/15015592) (9 pts¹)** | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) (1 pt) | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) (9 pts²) | [#1](https://osu.ppy.sh/community/matches/86649900) |
+
+Saturday, 3 July 2021:
+
+| Group |  |  |  |  | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **C** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148) (10 pts)** | ![][flag_ID] **[Pyrozen](https://osu.ppy.sh/users/3031177) (14 pts)** | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) (8 pts) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86711638) |
+| **D** | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435) (9 pts)** | ![][flag_ID] **[Sololiquy](https://osu.ppy.sh/users/4350087) (14 pts)** | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) (6 pts) | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/86713789) (4 pts) | [#1](https://osu.ppy.sh/community/matches/86713789) |
+
+Sunday, 4 July 2021:
+
+| Group |  |  |  |  | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **E** | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) (9 pts) | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336) (12 pts)** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836) (11 pts)** | ![][flag_ID] [Xtream1500](https://osu.ppy.sh/users/20740438) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86716701) |
+| **F** | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) (8 pts) | ![][flag_ID] **[by-ad](https://osu.ppy.sh/users/7439939) (10 pts¹)** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (4 pts) | ![][flag_ID] **[Holicia](https://osu.ppy.sh/users/3212755) (10 pts²)** | [#1](https://osu.ppy.sh/community/matches/86766389) |
+| **G** | ![][flag_ID] **[Funtastic](https://osu.ppy.sh/users/3555626) (11 pts)** | ![][flag_ID] **[mina-](https://osu.ppy.sh/users/4670692) (13 pts)** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) (3 pts) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) (5 pts) | [#1](https://osu.ppy.sh/community/matches/86767997) |
+| **H** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613) (16 pts)** | ![][flag_ID] **[Dapuluous](https://osu.ppy.sh/users/8140944) (9 pts¹)** | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) (0 pts) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) (9 pts²) | [#1](https://osu.ppy.sh/community/matches/86770044) |
+
+Monday, 5 July 2021:
+
+| Group |  |  |  |  | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **B** | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) (10 pts²) | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638) (15 pts)** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580) (10 pts¹)** | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86758000) |
+
+¹ *Winner of the Tiebreaker map*
+
+² *Loser of the Tiebreaker map*
 
 ## Ruleset
 
