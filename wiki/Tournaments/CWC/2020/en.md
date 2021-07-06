@@ -48,9 +48,9 @@ The osu!catch World Cup 2020 was run by the [osu! team](/wiki/People/The_Team) a
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1046500)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Challonge bracket](https://challonge.com/osuCWC2020)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTbzcj8-X0SYDaJC8YLFYYYH7NSU2easZdKR4sZAkDTXn47rbCXJwnZhkmQ04Wa2bVLEYZShZ9EuuG/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Challonge bracket](https://challonge.com/osuCWC2020 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTbzcj8-X0SYDaJC8YLFYYYH7NSU2easZdKR4sZAkDTXn47rbCXJwnZhkmQ04Wa2bVLEYZShZ9EuuG/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -464,7 +464,7 @@ Sunday, 10 May 2020:
 
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 
-6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png "puush"), the stages are split up into the following:
 
    | Stage | Match ID |
    | --: | :-- |

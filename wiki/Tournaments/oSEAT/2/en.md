@@ -58,10 +58,10 @@ The osu! South East Asia Tournament 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/819383)
-- [oSEAT Discord server](https://discord.gg/UbwzpG6)
-- [Challonge brackets](https://challonge.com/oseat2)
-- [Livestream](https://www.twitch.tv/oseatournament)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT56JjZkAgaIYF5mOkCiFjzKLkW72bIlzFjX4H5J4GEuXCeebme7QQ3TKouOjTMSRiFTW3yr8nGmdeY/pubhtml)**
+- [oSEAT Discord server](https://discord.gg/UbwzpG6 "Discord")
+- [Challonge brackets](https://challonge.com/oseat2 "Challonge")
+- [Livestream](https://www.twitch.tv/oseatournament "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT56JjZkAgaIYF5mOkCiFjzKLkW72bIlzFjX4H5J4GEuXCeebme7QQ3TKouOjTMSRiFTW3yr8nGmdeY/pubhtml "Google Sheets")**
 
 ---
 
@@ -118,7 +118,7 @@ This competition has come to an end and resulted in the following podium:
 
  **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (138 MB)](https://mega.nz/#!KdwBXaQK!OtzMZCKFj9TEf8Cg0ax8OzeoZVrzsbuxPOxZhlHT_-Y)**
+**[Download the mappack here! (138 MB)](https://mega.nz/#!KdwBXaQK!OtzMZCKFj9TEf8Cg0ax8OzeoZVrzsbuxPOxZhlHT_-Y "MEGA")**
 
 - NoMod
   - [K A Z M A S A - Bon Appetit S \[Short Ver.\] (Oldskool HappyHardcore Remix) (BarkingMadDog) \[blend s 190 BPM\]](https://osu.ppy.sh/beatmapsets/859515#osu/1803734)
@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (193 MB)](https://mega.nz/#!2Zc21YIL!9gazAnUSoBdnjOnc9-lq-C2z2NaSCvTj7q-uyGk5Vjo)**
+**[Download the mappack here! (193 MB)](https://mega.nz/#!2Zc21YIL!9gazAnUSoBdnjOnc9-lq-C2z2NaSCvTj7q-uyGk5Vjo "MEGA")**
 
 - NoMod
   - [yanaginagi - can cry (captin1) \[lamentation\]](https://osu.ppy.sh/beatmapsets/889584#osu/1859321)
@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (157 MB)](https://mega.nz/#!CcMk2KgR!F-ENYulUnXAvLyICEhmEZyhG2QTZzDln6mVt0aOuXsM)**
+**[Download the mappack here! (157 MB)](https://mega.nz/#!CcMk2KgR!F-ENYulUnXAvLyICEhmEZyhG2QTZzDln6mVt0aOuXsM "MEGA")**
 
 - NoMod
   - [Caldeira feat. Teka Penteriche - Vem brincar (Saturnalize) \[Challenge\]](https://osu.ppy.sh/beatmapsets/884577#osu/1848913)
@@ -203,7 +203,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (130 MB)](https://mega.nz/#!ndFRkIyQ!tvky0Jhx0TH5cCbhoAR9KPIF66YTG9EQ2CNfRc4PIIM)**
+**[Download the mappack here! (130 MB)](https://mega.nz/#!ndFRkIyQ!tvky0Jhx0TH5cCbhoAR9KPIF66YTG9EQ2CNfRc4PIIM "MEGA")**
 
 - NoMod
   - [Shock One \[Ft. Reija\] - Polygon (byfar, aiceo) \[Potatogon\]](https://osu.ppy.sh/beatmapsets/335928#osu/743526)
@@ -230,7 +230,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1VVrnZDno9VWKp4Sa20fyl4K8D0U8e3gW/view?usp=sharing)**
+**[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1VVrnZDno9VWKp4Sa20fyl4K8D0U8e3gW/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Hatsuki Yura - Diabolikha (Aeril) \[Aeril's Insane\]](https://osu.ppy.sh/beatmapsets/731724#osu/1573533)
@@ -257,7 +257,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (73 MB)](https://puu.sh/CbFC6/f50b2f04c6.rar)**
+**[Download the mappack here! (73 MB)](https://puu.sh/CbFC6/f50b2f04c6.rar "puush")**
 
 - NoMod
   - [DJ YOSHITAKA - FLOWER (REDALiCE Remix) (Yauxo) \[Extra\]](https://osu.ppy.sh/beatmapsets/520036#osu/1733764)

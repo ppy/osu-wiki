@@ -55,10 +55,10 @@ Der Advanced Global Taiko Showdown 2019 war bzw. wurde mit der Hilfe von mehrere
 ## Links
 
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/931003)
-- [AGTS Discord server](https://discord.gg/zbHVzvF)
-- [Livestream](https://www.twitch.tv/gtsosu)
-- [Challonge klammern](https://challonge.com/AGTS2019)
-- **[Statistiksheet](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
+- [AGTS Discord server](https://discord.gg/zbHVzvF "Discord")
+- [Livestream](https://www.twitch.tv/gtsosu "Twitch")
+- [Challonge klammern](https://challonge.com/AGTS2019 "Challonge")
+- **[Statistiksheet](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing "Google Sheets")**
 
 ---
 
@@ -126,7 +126,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 
 ### Hauptfinale
 
-**[Lade den Mappool hier herunter! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
+**[Lade den Mappool hier herunter! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE "MEGA")**
 
 - NoMod
   - [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
@@ -155,7 +155,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 
 ### Finale
 
-**[Lade den Mappool hier herunter! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
+**[Lade den Mappool hier herunter! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ "MEGA")**
 
 - NoMod
   - [YUC'e - PUMP (KinomiCandy) \[Kinobles & Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/610546#taiko/1289147)
@@ -184,7 +184,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 
 ### Halbfinale
 
-**[Lade den Mappool hier herunter! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
+**[Lade den Mappool hier herunter! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs "MEGA")**
 
 - NoMod
   - [Murder King - Ben Her Gun Artik Sen (frukoyurdakul) \[Suistimal\]](https://osu.ppy.sh/beatmapsets/959186#taiko/2008180)
@@ -213,7 +213,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 
 ### Viertelfinale
 
-**[Lade den Mappool hier herunter! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
+**[Lade den Mappool hier herunter! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA "MEGA")**
 
 - NoMod
   - [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
@@ -241,7 +241,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 
 ### Gruppenphase
 
-**[Lade den Mappool hier herunter! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
+**[Lade den Mappool hier herunter! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE "MEGA")**
 
 - NoMod
   - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
@@ -273,7 +273,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 
 ### Qualifiers Stage
 
-**[Lade den Mappool hier herunter! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
+**[Lade den Mappool hier herunter! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q "MEGA")**
 
 - NoMod
   - [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)

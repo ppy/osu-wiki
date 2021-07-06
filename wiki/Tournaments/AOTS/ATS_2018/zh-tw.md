@@ -53,9 +53,9 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 ## 連結
 
 - [大賽討論頁面](https://osu.ppy.sh/community/forums/topics/726251)
-- [賽事直播連結](https://www.twitch.tv/osutaikoshowdown)
-- [比賽專用 Discord](https://discord.gg/2xQDbkS)
-- **[ATS 分析統計](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)**
+- [賽事直播連結](https://www.twitch.tv/osutaikoshowdown "Twitch")
+- [比賽專用 Discord](https://discord.gg/2xQDbkS "Discord")
+- **[ATS 分析統計](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0 "Google Sheets")**
 
 ---
 
@@ -99,7 +99,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 總決賽
 
-**[此處下載圖池 (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing)**
+**[此處下載圖池 (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Colorful Sounds Port - ETERNAL DRAIN (Shirai-) \[MuzukATShii\]](https://osu.ppy.sh/beatmapsets/625899#taiko/1574085)
@@ -127,7 +127,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 決賽
 
-**[此處下載圖池 (84MB)](https://drive.google.com/file/d/1y2tGdLhx3j8U7h7FZHDVjhvYxA7ouY-e/view?usp=sharing)**
+**[此處下載圖池 (84MB)](https://drive.google.com/file/d/1y2tGdLhx3j8U7h7FZHDVjhvYxA7ouY-e/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Innocent Key - Toho-Assisted-Speedrun!!! (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/796419#taiko/1672405)
@@ -155,7 +155,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 四強
 
-**[此處下載圖池 (81MB)](https://drive.google.com/file/d/17XmIGdwsdxLNYnkc7EoL0mLczF8VoUsw/view?usp=sharing)**
+**[此處下載圖池 (81MB)](https://drive.google.com/file/d/17XmIGdwsdxLNYnkc7EoL0mLczF8VoUsw/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Mitsuyoshi Takenobu no Ani - Amphisbaena (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/737973#taiko/1557391)
@@ -183,7 +183,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 八強
 
-**[此處下載圖池 (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing)**
+**[此處下載圖池 (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Renard - The Club (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553809#taiko/1172641)
@@ -211,7 +211,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 十六強
 
-**[此處下載圖池 (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing)**
+**[此處下載圖池 (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Kamui Gakupo, KAITO, Kagamine Len - Immoral Memory\~The Lost Memory\~ (7odoa) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44898#taiko/145660)
@@ -239,7 +239,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### 小組賽
 
-**[此處下載圖池 (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing)**
+**[此處下載圖池 (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Mapper 31) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/36248#taiko/148859)
@@ -267,7 +267,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 ### Eliminations Stage
 
-**[此處下載圖池 (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing)**
+**[此處下載圖池 (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [yanaginagi - Owari no Sekai kara (Lundlerol) \[Lundle's Taiko\]](https://osu.ppy.sh/beatmapsets/44854#taiko/156706)

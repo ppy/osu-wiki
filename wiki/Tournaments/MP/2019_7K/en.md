@@ -47,8 +47,8 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/970857)
-- [Livestream](https://www.twitch.tv/polishosumania)
-- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
+- [Livestream](https://www.twitch.tv/polishosumania "Twitch")
+- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv "Discord")
 
 ---
 
@@ -364,7 +364,7 @@ Sunday, 17 November 2019:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-4z3wcwDb6UEXY-s7Dl90IF6VL1XYJrlZtA8kFgCh3lexRIOGIRrvjVpSMFZViy7tC9EewNQSUD3-/pubhtml).
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-4z3wcwDb6UEXY-s7Dl90IF6VL1XYJrlZtA8kFgCh3lexRIOGIRrvjVpSMFZViy7tC9EewNQSUD3-/pubhtml "Google Sheets").
 
 ---
 

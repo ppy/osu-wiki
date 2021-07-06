@@ -79,12 +79,12 @@ The Mania Beginner's Showdown 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1046231)
-- [MBS Discord server](https://discord.gg/uNSqksR)
-- [Livestream](https://www.twitch.tv/osu_mbs)
+- [MBS Discord server](https://discord.gg/uNSqksR "Discord")
+- [Livestream](https://www.twitch.tv/osu_mbs "Twitch")
 - Challonge brackets
-  - [High division](https://challonge.com/mbs2_high)
-  - [Low division](https://challonge.com/mbs2_low)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRk7T_38QYlVO8mjybHHUm0r40qJol4AttYPn7ePQoiqcQ4PAUgTjMH4JulmjQM4y2-jNeD3bCbEMYN/pubhtml)**
+  - [High division](https://challonge.com/mbs2_high "Challonge")
+  - [Low division](https://challonge.com/mbs2_low "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRk7T_38QYlVO8mjybHHUm0r40qJol4AttYPn7ePQoiqcQ4PAUgTjMH4JulmjQM4y2-jNeD3bCbEMYN/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -201,7 +201,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (168 MB)](https://mega.nz/file/fHYkzCRT#Fk6MICeCfYo5Y-e8Qb4sO7cIehp1nByDd-2xHee21kM)**
+**[Download the mappack here! (168 MB)](https://mega.nz/file/fHYkzCRT#Fk6MICeCfYo5Y-e8Qb4sO7cIehp1nByDd-2xHee21kM "MEGA")**
 
 - FreeMod
   - [cubesato + sweez + hsgn - Le Petit Prince (RuleBlazing) \[Stage 1 : Snowvy Vlazing\]](https://osu.ppy.sh/beatmapsets/1106056#mania/2311662)
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (122 MB)](https://mega.nz/file/mSwGnSya#2Q6Orkr9dd2DsPVSYli9BbPdTBOghvUbsxAMniO__iw)**
+**[Download the mappack here! (122 MB)](https://mega.nz/file/mSwGnSya#2Q6Orkr9dd2DsPVSYli9BbPdTBOghvUbsxAMniO__iw "MEGA")**
 
 - FreeMod
   - [GTA feat. Sam Bruno - Red Lips (Mendus Remix) (Hydria) \[Hard (SV)\]](https://osu.ppy.sh/beatmapsets/728227#mania/1537498)
@@ -251,7 +251,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (88 MB)](https://mega.nz/file/mvJChARS#9550w7Z97pfmHqjcLkVXmfam7pHUUbJFwmzyvYmQJQk)**
+**[Download the mappack here! (88 MB)](https://mega.nz/file/mvJChARS#9550w7Z97pfmHqjcLkVXmfam7pHUUbJFwmzyvYmQJQk "MEGA")**
 
 - FreeMod
   - [THE SxPLAY & KIVA - Hyou Ryuu (zero2snow) \[Stage 1: Drifted\]](https://osu.ppy.sh/beatmapsets/980182#mania/2051288)
@@ -273,7 +273,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (134 MB)](https://mega.nz/file/yuJwWSRT#f2-ee1CnI-_iAGROK3p1AaHo7TowpRcCH5leNMmYkhg)**
+**[Download the mappack here! (134 MB)](https://mega.nz/file/yuJwWSRT#f2-ee1CnI-_iAGROK3p1AaHo7TowpRcCH5leNMmYkhg "MEGA")**
 
 - FreeMod
   - [Moe shop - Love Taste (w/ Jamie Paige & Shiki) (zero2snow) \[Sour (SV)\]](https://osu.ppy.sh/beatmapsets/1113833#mania/2326952)
@@ -295,7 +295,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the mappack here! (82 MB)](https://mega.nz/file/jqZAyKDR#PM5zLooumSi6SfzJ6NeBNkRw9_IJlIX2Lg6h-7jRpfs)**
+**[Download the mappack here! (82 MB)](https://mega.nz/file/jqZAyKDR#PM5zLooumSi6SfzJ6NeBNkRw9_IJlIX2Lg6h-7jRpfs "MEGA")**
 
 - FreeMod
   - [Various Artists - 4K SV Pack (Janko) \[Alexander Okunev - Death Mashina\]](https://osu.ppy.sh/beatmapsets/722368#mania/1581834)
@@ -314,7 +314,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Group Stage
 
-**[Download the mappack here! (66 MB)](https://mega.nz/file/lKBXUaTJ#PW4bOBbpzUDAo_aa4mIgHUlqaWblf6-MlrWOWiy8EuY)**
+**[Download the mappack here! (66 MB)](https://mega.nz/file/lKBXUaTJ#PW4bOBbpzUDAo_aa4mIgHUlqaWblf6-MlrWOWiy8EuY "MEGA")**
 
 - FreeMod
   - [League of Legends,The Glitch Mob & Mako - Rise (feat.The Word Alive) (Leniane) \[Challenger\]](https://osu.ppy.sh/beatmapsets/864573#mania/1808108)
@@ -333,7 +333,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (26 MB)](https://mega.nz/file/BW4AzCRR#dbuT9LJaiEvWkD9UBKN7ZpzsXSCih1UuhrShn50-lz8)**
+**[Download the mappack here! (26 MB)](https://mega.nz/file/BW4AzCRR#dbuT9LJaiEvWkD9UBKN7ZpzsXSCih1UuhrShn50-lz8 "MEGA")**
 
 - FreeMod
   - [Shoichiro Hirata - Beat of getting entangled (Raveille) \[Stage 1: Entwined\]](https://osu.ppy.sh/beatmapsets/1162315#mania/2424652)
@@ -370,7 +370,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (167 MB)](https://mega.nz/file/bDJGwazD#Nb90ELmJlcDjTH3m9Unl-Tn0NrG2vkZxL1N9C-cRiN0)**
+**[Download the mappack here! (167 MB)](https://mega.nz/file/bDJGwazD#Nb90ELmJlcDjTH3m9Unl-Tn0NrG2vkZxL1N9C-cRiN0 "MEGA")**
 
 - FreeMod
   - [Morimori Atsushi - MilK (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
@@ -396,7 +396,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (90 MB)](https://mega.nz/file/mXwRnILB#FaKD-E5N37YSBvaU_i4EEiLeLpdNJqCa794EtAxkxkQ)**
+**[Download the mappack here! (90 MB)](https://mega.nz/file/mXwRnILB#FaKD-E5N37YSBvaU_i4EEiLeLpdNJqCa794EtAxkxkQ "MEGA")**
 
 - FreeMod
   - [MYTK - fly (Tantei B) \[Stylish Veery\]](https://osu.ppy.sh/beatmapsets/1112778#mania/2324766)
@@ -420,7 +420,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (93 MB)](https://mega.nz/file/Lu5CACIS#MnoNjPVpMjwmB9jF3f6TuE38636e0UXIqLFHS1jDWmk)**
+**[Download the mappack here! (93 MB)](https://mega.nz/file/Lu5CACIS#MnoNjPVpMjwmB9jF3f6TuE38636e0UXIqLFHS1jDWmk "MEGA")**
 
 - FreeMod
   - [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
@@ -442,7 +442,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (104 MB)](https://mega.nz/file/jiJVxIJQ#GrloBpXRGFdepxbyFr4A1lU74EiN2xpX8lO4gbho93I)**
+**[Download the mappack here! (104 MB)](https://mega.nz/file/jiJVxIJQ#GrloBpXRGFdepxbyFr4A1lU74EiN2xpX8lO4gbho93I "MEGA")**
 
 - FreeMod
   - [Slappy - Hanami (RuleBlazing) \[Edit\]](https://osu.ppy.sh/beatmapsets/1101411#mania/2329945)
@@ -464,7 +464,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the mappack here! (76 MB)](https://mega.nz/file/3uZwnShJ#6Li9lnfQVHlmdDC7J52n5M4kQniA_lTsGaQ9t_fRyQ0)**
+**[Download the mappack here! (76 MB)](https://mega.nz/file/3uZwnShJ#6Li9lnfQVHlmdDC7J52n5M4kQniA_lTsGaQ9t_fRyQ0 "MEGA")**
 
 - FreeMod
   - [Zest - Karton (Adri) \[SFW\]](https://osu.ppy.sh/beatmapsets/1119118#mania/2337552)
@@ -483,7 +483,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Group Stage
 
-**[Download the mappack here! (60 MB)](https://mega.nz/file/ru5U3IqT#hztvj_5094USPpitDdW31ubW2tSHeGC-363sEl7jf_8)**
+**[Download the mappack here! (60 MB)](https://mega.nz/file/ru5U3IqT#hztvj_5094USPpitDdW31ubW2tSHeGC-363sEl7jf_8 "MEGA")**
 
 - FreeMod
   - [a l e x - Double Scoop (-mint-) \[Time Regression\]](https://osu.ppy.sh/beatmapsets/1009355#mania/2113076)
@@ -502,7 +502,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (25 MB)](https://mega.nz/file/WugBkJxS#QKC-szzGYd76GC2mfA_xhCfZr1vPFcfhJcS-1W2pv8U)**
+**[Download the mappack here! (25 MB)](https://mega.nz/file/WugBkJxS#QKC-szzGYd76GC2mfA_xhCfZr1vPFcfhJcS-1W2pv8U "MEGA")**
 
 - FreeMod
   - [SiLiS - dispersion (cut) (Raveille) \[Stage 1: Evaluate\]](https://osu.ppy.sh/beatmapsets/1162300#mania/2424626)

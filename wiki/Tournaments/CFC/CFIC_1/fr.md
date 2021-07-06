@@ -48,10 +48,10 @@ La Catch French Intermediate Cup était gérée par différents membres de la co
 ## Liens
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/858507)
-- [Discord du CFC](https://discord.gg/3DewaX8)
-- [Tableaux Challonge](https://osucfc.challonge.com/CFIC1)
-- [Livestream](https://www.twitch.tv/osufrlive)
-- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ926pSOvzcKK76hCmzBDuX6oOrbTycMpGJyMz-dPFThLay-JvaywfXPA2MzeeaL9TOvdey8YSHLWVX/pubhtml)**
+- [Discord du CFC](https://discord.gg/3DewaX8 "Discord")
+- [Tableaux Challonge](https://osucfc.challonge.com/CFIC1 "Challonge")
+- [Livestream](https://www.twitch.tv/osufrlive "Twitch")
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ926pSOvzcKK76hCmzBDuX6oOrbTycMpGJyMz-dPFThLay-JvaywfXPA2MzeeaL9TOvdey8YSHLWVX/pubhtml "Google Sheets")**
 
 ---
 
@@ -91,7 +91,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Grandes Finales
 
-**[Téléchargez le mappack ici! (98 MB)](https://mega.nz/#!E5tFXSxA!me4YoqzYh7NK7miT3czlTEuuMyYxQsMywTHl6toDBoM)**
+**[Téléchargez le mappack ici! (98 MB)](https://mega.nz/#!E5tFXSxA!me4YoqzYh7NK7miT3czlTEuuMyYxQsMywTHl6toDBoM "MEGA")**
 
 - NoMod
   - [a\_hisa - Alexithymia (Kyuare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/511849#fruits/1087972)
@@ -120,7 +120,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Finales
 
-**[Téléchargez le mappack ici! (116 MB)](https://mega.nz/#!MskCmKTa!AT6TPSydwttBgz5gQTNtOcIEQPkqruOela8eMrR1e2I)**
+**[Téléchargez le mappack ici! (116 MB)](https://mega.nz/#!MskCmKTa!AT6TPSydwttBgz5gQTNtOcIEQPkqruOela8eMrR1e2I "MEGA")**
 
 - NoMod
   - [Yooh - snow storm -euphoria- (CLSW) \[Crystal's EXHAUST\]](https://osu.ppy.sh/beatmapsets/467816#fruits/1003044)
@@ -149,7 +149,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Demi-finales
 
-**[Téléchargez le mappack ici! (115 MB)](https://mega.nz/#!508w2apZ!_nsvdd_wypq3OWF9CKsAvYlHRD7Vj7Gw-p6C4-x4aiE)**
+**[Téléchargez le mappack ici! (115 MB)](https://mega.nz/#!508w2apZ!_nsvdd_wypq3OWF9CKsAvYlHRD7Vj7Gw-p6C4-x4aiE "MEGA")**
 
 - NoMod
   - [Cha Ji Yeon, LDN Noise - My Show (Ollapeu) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/759402#fruits/1597102)
@@ -178,7 +178,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Quarts-de-finale
 
-**[Téléchargez le mappack ici! (144 MB)](https://mega.nz/#!1kln3QyI!_z5HDHGUYDjwttGmSbrANs8en6eXwhVM9eMSsv1Os2M)**
+**[Téléchargez le mappack ici! (144 MB)](https://mega.nz/#!1kln3QyI!_z5HDHGUYDjwttGmSbrANs8en6eXwhVM9eMSsv1Os2M "MEGA")**
 
 - NoMod
   - [kurokumo x konoco - Ifuudoudou (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/791133#fruits/1659829)
@@ -202,7 +202,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Phase de poules
 
-**[Téléchargez le mappack ici! (55 MB)](https://mega.nz/#!FotnlQzR!bTxeqfGRbm-sOboVhq-AP31WP4r2ExNaGYNwpFrCIdU)**
+**[Téléchargez le mappack ici! (55 MB)](https://mega.nz/#!FotnlQzR!bTxeqfGRbm-sOboVhq-AP31WP4r2ExNaGYNwpFrCIdU "MEGA")**
 
 - NoMod
   - [Kaneko Chiharu - iLLness LiLin (ZiRoX) \[ZiRoX's ADVANCED\]](https://osu.ppy.sh/beatmapsets/777109#fruits/1662268)

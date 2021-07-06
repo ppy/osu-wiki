@@ -49,9 +49,9 @@ The 112's Summer Tournament 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/917454)
-- [112's Tournaments Discord server](https://discord.gg/g3nqqeZ)
-- [Livestream](https://www.twitch.tv/osu_turkiye)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1d6JqZWqnZ32nFCgGMcXz3Pc4KyE1iLmU5KpTIg6TEhE/edit)**
+- [112's Tournaments Discord server](https://discord.gg/g3nqqeZ "Discord")
+- [Livestream](https://www.twitch.tv/osu_turkiye "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1d6JqZWqnZ32nFCgGMcXz3Pc4KyE1iLmU5KpTIg6TEhE/edit "Google Sheets")**
 
 ## Participants
 
@@ -133,7 +133,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ### Grand Finals
 
-**[Download the map pack here! (132 MB)](https://112.s-ul.eu/yUBjoWpe)**
+**[Download the map pack here! (132 MB)](https://112.s-ul.eu/yUBjoWpe "s-ul")**
 
 - NoMod
   - [XX:me - Escape (jonathanlfj) \[Freedom\]](https://osu.ppy.sh/beatmapsets/811119#osu/1701563)
@@ -162,7 +162,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ### Finals
 
-**[Download the map pack here! (91 MB)](https://112.s-ul.eu/MBhzkPlU)**
+**[Download the map pack here! (91 MB)](https://112.s-ul.eu/MBhzkPlU "s-ul")**
 
 - NoMod
   - [nano - Nevereverland (zhu) \[Starset’s Redemption\]](https://osu.ppy.sh/beatmapsets/621438#osu/1507079)
@@ -191,7 +191,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ### Semifinals
 
-**[Download the map pack here!(109 MB)](https://drive.google.com/file/d/1F_eyDQuN1zKThMuWwW6wxYP1wa7m_ciY/view)**
+**[Download the map pack here!(109 MB)](https://drive.google.com/file/d/1F_eyDQuN1zKThMuWwW6wxYP1wa7m_ciY/view "Google Drive")**
 
 - NoMod
   - [PSYQUI – Still in my heart feat. Punipuni Denki (Nanashima Asami) \[I’m gonna miss you\]](https://osu.ppy.sh/beatmapsets/964997#osu/2020137)
@@ -220,7 +220,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ### Quarterfinals
 
-**[Download the map pack here! (122 MB)](https://112.s-ul.eu/yIQMxrAl)**
+**[Download the map pack here! (122 MB)](https://112.s-ul.eu/yIQMxrAl "s-ul")**
 
 - NoMod
   - [Son Feci Bisiklet – Viva La Vadi (Pati) \[Green Valley\]](https://osu.ppy.sh/beatmapsets/460386#osu/986011)
@@ -251,7 +251,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 #### 1–15K
 
-**[Download the map pack here! (70 MB)](https://112.s-ul.eu/6D3w5waU)**
+**[Download the map pack here! (70 MB)](https://112.s-ul.eu/6D3w5waU "s-ul")**
 
 - NoMod
   - [Ayalis – Ai o Chikaishi Hime Kazari (handsome) \[Kyshiro’s Extra\]](https://osu.ppy.sh/beatmapsets/506155#osu/1086956)
@@ -275,7 +275,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 #### 15K+
 
-**[Download the map pack here! (88 MB)](https://112.s-ul.eu/aJfLLa0v)**
+**[Download the map pack here! (88 MB)](https://112.s-ul.eu/aJfLLa0v "s-ul")**
 
 - NoMod
   - [Porter Robinson – Flicker (Cyllinus) \[Alonevpk’s Insane\]](https://osu.ppy.sh/beatmapsets/284931#osu/712895)
@@ -301,7 +301,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 #### 1-15K
 
-**[Download the map pack here! (36 MB)](https://112.s-ul.eu/ytXqfkWL)**
+**[Download the map pack here! (36 MB)](https://112.s-ul.eu/ytXqfkWL "s-ul")**
 
 - NoMod
   - [Himeringo – Idola no Circus (Nevo) \[Salvation\]](https://osu.ppy.sh/beatmapsets/902250#osu/1883745)
@@ -311,11 +311,11 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - HardRock
   - [Imperial Circus Dead Decadence – Danzai No Honoo To Koibito-Tachi No Rondo (Gottagof4st) \[Piercing Pain\]](https://osu.ppy.sh/beatmapsets/961431#osu/2012740)
 - DoubleTime
-  - [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](https://zeu.s-ul.eu/XHGcqmAq.osz)
+  - [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](https://zeu.s-ul.eu/XHGcqmAq.osz "s-ul")
 
 #### 15K+
 
-**[Download the map pack here! (33 MB)](https://112.s-ul.eu/VMeQXi78)**
+**[Download the map pack here! (33 MB)](https://112.s-ul.eu/VMeQXi78 "s-ul")**
 
 - NoMod
   - [Memme – Geurida (NeilPerry) \[Mellifluous Miracle\]](https://osu.ppy.sh/beatmapsets/688183#osu/1456417)
@@ -323,7 +323,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - Hidden
   - [ak+q – Axium Crisis (MrSergio) \[Collapse\]](https://osu.ppy.sh/beatmapsets/812551#osu/1704329)
 - HardRock
-  - [Nekomata Master+ – encounter (Sing) \[Frey’s Expert\]](https://zeu.s-ul.eu/Lzk6C8ux.osz)
+  - [Nekomata Master+ – encounter (Sing) \[Frey’s Expert\]](https://zeu.s-ul.eu/Lzk6C8ux.osz "s-ul")
 - DoubleTime
   - [Hate vs Brilliance – Qubism (Regraz) \[Elexus’ HYPER\]](https://osu.ppy.sh/beatmapsets/524503#osu/1802266)
 
@@ -504,7 +504,7 @@ Monday, 22 July 2019:
 
 1. Every user interested in joining the tournament will sign up individually.
    - **Any form of registration, other than the registration form provided in related channels, will be disregarded.**
-2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
+2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ "Discord") for the duration of the tournament.
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
 4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](/wiki/osu!tourney/Prizes#tournament-screening) for more information about tournament screening.
 5. All players eligible to participate in the tournament will be published after the Registration period ends.

@@ -48,8 +48,8 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1160806)
-- [Livestream](https://www.twitch.tv/polishosumania)
-- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
+- [Livestream](https://www.twitch.tv/polishosumania "Twitch")
+- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv "Discord")
 
 ## Participants
 
@@ -78,7 +78,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 ## Match schedule: Round of 16
 
-Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml).
+Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml "Google Sheets").
 
 ## Mappools
 
@@ -162,7 +162,7 @@ Sunday, 15 November 2020:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml).
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml "Google Sheets").
 
 ## Ruleset
 

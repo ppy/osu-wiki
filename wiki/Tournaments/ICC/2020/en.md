@@ -49,10 +49,10 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ## Links
 
-- **[Main spreadsheet](http://docs.google.com/spreadsheets/d/e/2PACX-1vTjldrvfwKxuc3x8QyhVAcccvGm6z2FDR-BZuxyX68GkQkdXoWwkcUlD0gaNA__aKJRlX3WSMfW5Pkj/pubhtml#)**
+- **[Main spreadsheet](http://docs.google.com/spreadsheets/d/e/2PACX-1vTjldrvfwKxuc3x8QyhVAcccvGm6z2FDR-BZuxyX68GkQkdXoWwkcUlD0gaNA__aKJRlX3WSMfW5Pkj/pubhtml# "Google Sheets")**
 - [Discussion thread](http://osu.ppy.sh/community/forums/topics/1141903)
-- [Discord server](http://discord.gg/7g6TAj2)
-- [Livestream](https://www.twitch.tv/osuIndonesia)
+- [Discord server](http://discord.gg/7g6TAj2 "Discord")
+- [Livestream](https://www.twitch.tv/osuIndonesia "Twitch")
 
 ## Podium
 
@@ -75,7 +75,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Finals
 
-**[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1w426oYWbotWp80oQZriFgPsdUZ-DFwR4/view)**
+**[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1w426oYWbotWp80oQZriFgPsdUZ-DFwR4/view "Google Drive")**
 
 - NoMod
   - [Omoi - Snow Drive(01.23) (Kroytz) \[Arigatou\]](https://osu.ppy.sh/beatmapsets/478405#fruits/1083052)
@@ -103,7 +103,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Semifinals
 
-**[Download the mappack here! (125 MB)](https://drive.google.com/file/d/1wo0pn8_Bmv342QbOjDTopaPOIqxD7VNK/view)**
+**[Download the mappack here! (125 MB)](https://drive.google.com/file/d/1wo0pn8_Bmv342QbOjDTopaPOIqxD7VNK/view "Google Drive")**
 
 - NoMod
   - [Ayumi. - Hanagoyomi (Mimari) \[Spirit.\]](https://osu.ppy.sh/beatmapsets/1155366#fruits/2411125)  
@@ -131,7 +131,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Quarterfinals
 
-**[Download the mappack here! (136 MB)](https://drive.google.com/file/d/1Aj6QhmqhMUgBcrOcM90fztnf9BAibgVw/view)**
+**[Download the mappack here! (136 MB)](https://drive.google.com/file/d/1Aj6QhmqhMUgBcrOcM90fztnf9BAibgVw/view "Google Drive")**
 
 - NoMod
   - [CELLON. - Labyrinth of Darkness (Mir) \[Expert\]](https://osu.ppy.sh/beatmapsets/778383#fruits/1634887)  
@@ -155,7 +155,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Round of 16
 
-**[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1jrKZkbuDOEAkgkAZ8NpGCYRV3psqlb-W/view)**
+**[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1jrKZkbuDOEAkgkAZ8NpGCYRV3psqlb-W/view "Google Drive")**
 
 - NoMod
   - [Pendulum - Witchcraft (Zarerion) \[Jenny\]](https://osu.ppy.sh/beatmapsets/55982#fruits/169993)  
@@ -179,7 +179,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Group Stage
 
-**[Download the mappack here! (117 MB)](https://drive.google.com/file/d/1E8h7BBl3Bz-woN4Bw4rjUomWapceTeWU/view)**
+**[Download the mappack here! (117 MB)](https://drive.google.com/file/d/1E8h7BBl3Bz-woN4Bw4rjUomWapceTeWU/view "Google Drive")**
 
 - NoMod
   - [Ichinose Shiki (CV: Aihara Kotomi) - Himitsu no Toilette (domSaur) \[MASTER+\]](https://osu.ppy.sh/beatmapsets/734093#fruits/1549043)  

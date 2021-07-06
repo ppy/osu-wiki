@@ -50,8 +50,8 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/779486)
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4YC-Klj9KWK_TQD6UCT3rFE8UwbILbiTjf6yMP-zpzt6wbvyKajW8qG2x6wLLiquggUw4pp_-lVJA/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4YC-Klj9KWK_TQD6UCT3rFE8UwbILbiTjf6yMP-zpzt6wbvyKajW8qG2x6wLLiquggUw4pp_-lVJA/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -174,7 +174,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here!](https://www.dropbox.com/sh/s1taz1rtutblzbs/AACt_d06U54Qta4qKZC8zARca?dl=0)**
+**[Download the mappack here!](https://www.dropbox.com/sh/s1taz1rtutblzbs/AACt_d06U54Qta4qKZC8zARca?dl=0 "Dropbox")**
 
 - Freemod
   - [Glome - Cynthia (With Moonlight) (Elekton) \[hyper\]](https://osu.ppy.sh/beatmapsets/716826#mania/1514659)
@@ -195,7 +195,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here!](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0)**
+**[Download the mappack here!](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0 "Dropbox")**
 
 - Freemod
   - [Suzuki Konomi - THERE IS A REASON (Mat) \[Uc207Pr4f57t9\]](https://osu.ppy.sh/beatmapsets/778642#mania/1635364)

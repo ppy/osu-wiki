@@ -45,9 +45,9 @@ outdated: true
 
 ## 링크
 
-- [osu! Catch the Beat World Cup 2014 방송 (Twitch)](https://www.twitch.tv/osulive/)
-- **[조별 예선 결과](https://tournaments.hiroto.eu/results/view/1)**
-- [신청서](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
+- [osu! Catch the Beat World Cup 2014 방송 (Twitch)](https://www.twitch.tv/osulive "Twitch")
+- **[조별 예선 결과](https://tournaments.hiroto.eu/results/view/1 "Hiroto")**
+- [신청서](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI "Google Forms")
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/200185)
 
 ---
@@ -165,7 +165,7 @@ outdated: true
 
 타이브레이커
 
-[**여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!**](https://www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar)
+[**여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!**](https://www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar "MediaFire")
 
 - NoMod
   - [LeaF - MEPHISTO (Alumetorz) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/106212#fruits/298908)
@@ -199,7 +199,7 @@ outdated: true
 
 ### 16강
 
-타이브레이커[**여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!**](https://www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar)
+타이브레이커[**여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!**](https://www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar "MediaFire")
 
 - NoMod
   - [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](https://osu.ppy.sh/beatmapsets/82282#fruits/242575)
@@ -233,7 +233,7 @@ outdated: true
 
 ### 조별 예선
 
-타이브레이커**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
+타이브레이커**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [Rita - Princess Blood (Zweib) \[Insane\]](https://osu.ppy.sh/beatmapsets/94112#fruits/253528)
@@ -364,7 +364,7 @@ outdated: true
    1. 최대 인원은 6명입니다.
    2. 반드시 팀을 대표할 주장이 선발해야 합니다.
 2. 각 팀은 그 나라를 대표하게 됩니다. 모든 선수들이 같은 나라의 선수들인지 확인해 주십시오.
-3. 참가신청은 [구글폼](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)을 통해 제출한 다음, [Loctav](https://osu.ppy.sh/home/messages/users/71366)에게“CWC Registration”라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
+3. 참가신청은 [구글폼](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit "Google Forms")을 통해 제출한 다음, [Loctav](https://osu.ppy.sh/home/messages/users/71366)에게“CWC Registration”라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
    - 각 팀 주장은 선수 등록에 변동사항이 있을 경우 [운영위원](https://osu.ppy.sh/home/messages/users/71366)에게 알려주셔야 합니다.
 4. 모든 등록과 변경은 운영위원들의 확인을 거쳐 반영될 것입니다.
 5. 총 32팀의 신청을 받습니다. 선착순입니다.

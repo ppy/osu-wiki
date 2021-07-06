@@ -48,9 +48,9 @@ The osu!taiko World Cup 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1018778)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/26) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://bit.ly/2x46Mix)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/26 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSt4R-nLTdclTnxi9jnNr-gNvdWXH8XkIrNfzy6r0wGkgpVgIrcMoMU_6qEtutDHxOneF7RzVNcBkvQ/pubhtml "Google Sheets")**
 
 ## Participants
 

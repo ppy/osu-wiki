@@ -146,7 +146,7 @@ The osu! Technical Championship #3 was run by various osu! community members.
 - DoubleTime
   - [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](https://osu.ppy.sh/beatmapsets/602367#osu/1580728)
   - [rerulili - Noushou Sakuretsu Girl (dksslqj) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/63434#osu/208935)
-  - [Skrillex - Imma Try It Out (feat. Alvin Risk) (Foreverends) \[Endstep\]](https://bloodcat.com/osu/s/76662)
+  - [Skrillex - Imma Try It Out (feat. Alvin Risk) (Foreverends) \[Endstep\]](https://bloodcat.com/osu/s/76662 "Bloodcat")
 - Tiebreaker
   - **[Culprate & Au5 - Impulse (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/705788#osu/1492654)**
 

@@ -52,10 +52,10 @@ The Speed of Light Mania Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/973387)
-- [Livestream](https://www.twitch.tv/osuworldtournament)
-- [SOLMT Discord server](https://discord.gg/Zmha38K)
-- [Challonge brackets](https://challonge.com/solmt)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1IlUz5hDqyxMaQgpdhz70Y_EiTUJFKL7w_ehvmGgtY6k/edit#gid=152741005)**
+- [Livestream](https://www.twitch.tv/osuworldtournament "Twitch")
+- [SOLMT Discord server](https://discord.gg/Zmha38K "Discord")
+- [Challonge brackets](https://challonge.com/solmt "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1IlUz5hDqyxMaQgpdhz70Y_EiTUJFKL7w_ehvmGgtY6k/edit#gid=152741005 "Google Sheets")**
 
 ---
 
@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d16lPxdtUsuDTyArGgtW-nnnLMycFqN0j55O3TO2GpdBo/edit#gid=649487813)**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d16lPxdtUsuDTyArGgtW-nnnLMycFqN0j55O3TO2GpdBo/edit#gid=649487813 "Google Sheets")**
 
 ### Grand Finals
 

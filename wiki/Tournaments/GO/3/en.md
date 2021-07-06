@@ -58,15 +58,15 @@ The Game_Osu Tourney 3 was run by various community members by distributing the 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/869989)
-- [GO Discord server](https://discord.gg/trnFByC)
-- [GO Youtube channel](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA)
-- [GO Challonge brackets](https://challonge.com/gameosu)
-- [Website](https://www.gameosu.com/)
+- [GO Discord server](https://discord.gg/trnFByC "Discord")
+- [GO Youtube channel](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA "YouTube")
+- [GO Challonge brackets](https://challonge.com/gameosu "Challonge")
+- [Website](https://www.gameosu.com/ "GameOsu")
 - Livestream
-  - [Game\_Osu (EN)](https://www.twitch.tv/gameosu)
-  - [Sardoche's Twitch channel](https://www.twitch.tv/sardoche) (Finals and Grand Finals Livestream)
-  - [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQkxCyBeU6EG2qiHd8ZMrrHYiEm7wxjXCCl73eH8Ttoh7_n9Gz6XfDsm8_tg2Proo9hQR11PATPBGGn/pubhtml)**
+  - [Game\_Osu (EN)](https://www.twitch.tv/gameosu "Twitch")
+  - [Sardoche's Twitch channel](https://www.twitch.tv/sardoche "Twitch") (Finals and Grand Finals Livestream)
+  - [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQkxCyBeU6EG2qiHd8ZMrrHYiEm7wxjXCCl73eH8Ttoh7_n9Gz6XfDsm8_tg2Proo9hQR11PATPBGGn/pubhtml "Google Sheets")**
 
 ---
 
@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (191 MB)](https://drive.google.com/file/d/10-RHCidjwOPXXwzqTPL57-Rtu0f5v3oW/view)**
+**[Download the mappack here! (191 MB)](https://drive.google.com/file/d/10-RHCidjwOPXXwzqTPL57-Rtu0f5v3oW/view "Google Drive")**
 
 - NoMod
   - [BUTAOTOME - Mesen (BarkingMadDog) \[EXPERT\]](https://osu.ppy.sh/beatmapsets/865750#osu/1810154)
@@ -199,7 +199,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (134 MB)](https://drive.google.com/file/d/1DHQeb__mNIgMiWkpI92aUKsJ9eJrox_0/view)**
+**[Download the mappack here! (134 MB)](https://drive.google.com/file/d/1DHQeb__mNIgMiWkpI92aUKsJ9eJrox_0/view "Google Drive")**
 
 - NoMod
   - [DJ TOTTO - Crystalia (Xenok, \[Hysteria\]) \[Xenok Sakaki's Extreme\]](https://osu.ppy.sh/beatmapsets/691220#osu/1549739)
@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (163 MB)](https://drive.google.com/file/d/163fuC05dewoY5lRcmUi2zNQ66mRQCJ2C/view)**
+**[Download the mappack here! (163 MB)](https://drive.google.com/file/d/163fuC05dewoY5lRcmUi2zNQ66mRQCJ2C/view "Google Drive")**
 
 - NoMod
   - [Luschka - unravel (Mirash) \[NeilPerry's Extra\]](https://osu.ppy.sh/beatmapsets/731933#osu/1603296)
@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (135 MB)](https://www.mediafire.com/file/i5cxkm5kqb49x5x/RO16+Map-Pack.rar)**
+**[Download the mappack here! (135 MB)](https://www.mediafire.com/file/i5cxkm5kqb49x5x/RO16+Map-Pack.rar "MediaFire")**
 
 - NoMod
   - [sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui (Kalibe) \[Descent\]](https://osu.ppy.sh/beatmapsets/926846#osu/1935864)
@@ -289,7 +289,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (164 MB)](https://drive.google.com/file/d/1pptNQPOsK-1x-6eLEzs8dB3TAVeKXSbJ/view?usp=sharing)**
+**[Download the mappack here! (164 MB)](https://drive.google.com/file/d/1pptNQPOsK-1x-6eLEzs8dB3TAVeKXSbJ/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Shintani Ryoko - Wonderful World (HanzeR) \[Extra\]](https://osu.ppy.sh/beatmapsets/128604#osu/326423)
@@ -319,7 +319,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 64
 
-**[Download the mappack here! (91 MB)](https://www.dropbox.com/s/a1uqkn10euxsn75/Game_Osu%20RO64%20Mappack.zip?dl=0)**
+**[Download the mappack here! (91 MB)](https://www.dropbox.com/s/a1uqkn10euxsn75/Game_Osu%20RO64%20Mappack.zip?dl=0 "Dropbox")**
 
 - NoMod
   - [AKINO with bless4 - EXTRA MAGIC HOUR (koreapenguin) \[Extra\]](https://osu.ppy.sh/beatmapsets/224335#osu/523661)
@@ -343,7 +343,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers Stage
 
-**[Download the mappack here! (144 MB)](https://www.gameosu.com/Downloads/Qualifiers%20map-pack.rar)**
+**[Download the mappack here! (144 MB)](https://www.gameosu.com/Downloads/Qualifiers%20map-pack.rar "GameOsu")**
 
 - NoMod
   - [factal - Stars Tonight (Sharu) \[Sky\]](https://osu.ppy.sh/beatmapsets/807831#osu/1695344)
@@ -596,10 +596,10 @@ This competition has come to an end and resulted in the following podium:
 3. All subsequent rounds will be run in double-elimination.
 4. Every match will be played on **Score V2**. Reviving is allowed.
 5. The maximum number of registrants is **128 participants.**
-6. Only the **top 128 based on [BWS Rank](https://pastebin.com/3QSaGdkE)** at the end of the registering period will be allowed to participate.
+6. Only the **top 128 based on [BWS Rank](https://pastebin.com/3QSaGdkE "Pastebin")** at the end of the registering period will be allowed to participate.
 7. To apply for registration, you need to be at least **#10,000** worldwide.
-8. Participation in the tourney is **prohibited** for members of the [Game\_Osu staff](https://www.gameosu.com/staff) (*with the exception of casters*).
-9. Mappools will be revealed at the end of every week on Sundays on the [Game\_Osu Twitch channel](https://www.twitch.tv/gameosu). While using the Game\_Osu website, follow the "Planning" tab to learn more about the schedule and the "Mappool" tab to check them out after the stream.
+8. Participation in the tourney is **prohibited** for members of the [Game\_Osu staff](https://www.gameosu.com/staff "GameOsu") (*with the exception of casters*).
+9. Mappools will be revealed at the end of every week on Sundays on the [Game\_Osu Twitch channel](https://www.twitch.tv/gameosu "Twitch"). While using the Game\_Osu website, follow the "Planning" tab to learn more about the schedule and the "Mappool" tab to check them out after the stream.
 
 ### Match Organisation
 
@@ -639,14 +639,14 @@ This competition has come to an end and resulted in the following podium:
 4. Each player will `!roll`. The highest roll decides the pick and ban order (first to ban will be the last to pick).
 5. In case of a tie, the Tiebreaker will be played. Losers in the Winners bracket will go to the Losers bracket.
 6. If any participants experienced a disconnection in the middle of play from Bancho, a rematch of that same map may be played at the referee's discretion. The players are given 5 minutes after a disconnection to contact their referee via osu! or Discord before being counted a loss.
-7. Rescheduling is allowed, however we ask of you to contact your opponent by yourself and then send us a proof that both of you are having an aggrement to reschedule. You can do so by posting a message on the `#rescheduling` text-channel on [GO Discord server](https://discord.gg/trnFByC) with both you and your opponent acknowledging it. The deadline for rescheduling is on the Thursday 7PM (UTC) of the upcoming week of your match.
+7. Rescheduling is allowed, however we ask of you to contact your opponent by yourself and then send us a proof that both of you are having an aggrement to reschedule. You can do so by posting a message on the `#rescheduling` text-channel on [GO Discord server](https://discord.gg/trnFByC "Discord") with both you and your opponent acknowledging it. The deadline for rescheduling is on the Thursday 7PM (UTC) of the upcoming week of your match.
 
 ### Behaviour Rules
 
 1. All [osu! Rules](/wiki/Rules) apply.
 2. *Toxic* behaviour during matches will be highly reprimanded and may result in an **auto-loss, kick, or blacklist.**
 3. We will not tolerate any ounce of **cheating or attempts to gain an unfair advantage over the other players.**
-4. Please note that **only** the [Game\_Osu (EN)](https://www.twitch.tv/gameosu), [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr), and [Sardoche's](https://www.twitch.tv/sardoche) Twitch channels are allowed to stream the tournament. **We do not allow restreams** unless given permission and will ask for **takedowns** in case of **unauthorized uploads.** However, players are allowed to stream their matches.
+4. Please note that **only** the [Game\_Osu (EN)](https://www.twitch.tv/gameosu "Twitch"), [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr "Twitch"), and [Sardoche's](https://www.twitch.tv/sardoche "Twitch") Twitch channels are allowed to stream the tournament. **We do not allow restreams** unless given permission and will ask for **takedowns** in case of **unauthorized uploads.** However, players are allowed to stream their matches.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CA]: /wiki/shared/flag/CA.gif

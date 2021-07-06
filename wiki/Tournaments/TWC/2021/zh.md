@@ -53,10 +53,10 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 ## 相关链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1241159)
-- [Twitch 直播间](https://www.twitch.tv/osulive)
-- [Challonge 对阵表](https://challonge.com/TWC_2021)
-- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/53)
-- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vTImDZNlIdekerlWWr-TR82GKRflboYOcu3ZEqqeTuaSKQfOuY5WO2rS8p5lPjbvtZ5xZdY_iVGNcTI/pubhtml)**
+- [Twitch 直播间](https://www.twitch.tv/osulive "Twitch")
+- [Challonge 对阵表](https://challonge.com/TWC_2021 "Challonge")
+- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/53 "hwchr's pick'em")
+- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vTImDZNlIdekerlWWr-TR82GKRflboYOcu3ZEqqeTuaSKQfOuY5WO2rS8p5lPjbvtZ5xZdY_iVGNcTI/pubhtml "Google Sheets")**
 
 ## 参赛选手
 

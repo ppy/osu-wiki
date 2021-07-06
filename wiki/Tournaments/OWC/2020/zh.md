@@ -57,10 +57,10 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 ## 相关链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1150567)
-- [Challonge 对阵表](https://challonge.com/OWC_2020)
-- [Twitch 直播间](https://www.twitch.tv/osulive)
-- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/47)
-- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK1VndO4Dng6TJ2yM8dedF7Bkf0b-VvrK2T5US5Y-YkI-fpxZhNanWWJOdTB-2BrW9eu8o62sGm5_G/pubhtml)**
+- [Challonge 对阵表](https://challonge.com/OWC_2020 "Challonge")
+- [Twitch 直播间](https://www.twitch.tv/osulive "Twitch")
+- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/47 "hwchr's pick'em")
+- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK1VndO4Dng6TJ2yM8dedF7Bkf0b-VvrK2T5US5Y-YkI-fpxZhNanWWJOdTB-2BrW9eu8o62sGm5_G/pubhtml "Google Sheets")**
 
 ## 参赛选手
 

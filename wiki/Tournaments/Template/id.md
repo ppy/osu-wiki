@@ -70,7 +70,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 ## Tautan
 
 - [Topik diskusi](https://osu.ppy.sh/community/forums/topics/{TOPIC_NUM})
-- [Siaran langsung](https://www.twitch.tv/osulive)
+- [Siaran langsung](https://www.twitch.tv/osulive "Twitch")
 - **[Lembar statistik]({STATS_LINK})**
 
 ## Peserta

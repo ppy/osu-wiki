@@ -49,9 +49,9 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/997764)
-- [Livestream](https://www.twitch.tv/osucupmaster)
-- [Discord server](https://discord.gg/Y9MKD8m)
-- [Twitter](https://twitter.com/CupOsu)
+- [Livestream](https://www.twitch.tv/osucupmaster "Twitch")
+- [Discord server](https://discord.gg/Y9MKD8m "Discord")
+- [Twitter](https://twitter.com/CupOsu "Twitter")
 
 ## Participants
 
@@ -91,7 +91,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 
 ### Semifinals
 
-**[Download the mappack here! (106 MB)](https://mega.nz/#!rBgjCbTQ!w6slaPCtKT-LiGk7ggZwG11PFmVMAMCxl8o1Yi6Fc4w)**
+**[Download the mappack here! (106 MB)](https://mega.nz/#!rBgjCbTQ!w6slaPCtKT-LiGk7ggZwG11PFmVMAMCxl8o1Yi6Fc4w "MEGA")**
 
 - NoMod
   - [Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/720294#fruits/1520788)
@@ -120,7 +120,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 
 ### Quarterfinals
 
-**[Download the mappack here! (120 MB)](https://mega.nz/#!HNZVQIoZ!5iPK6FObu9KaM0XA_EUn-y_nKOz2WTITCk1h-olbvYg)**
+**[Download the mappack here! (120 MB)](https://mega.nz/#!HNZVQIoZ!5iPK6FObu9KaM0XA_EUn-y_nKOz2WTITCk1h-olbvYg "MEGA")**
 
 - NoMod
   - [P*light - Ninja (Kyubey) \[Elvis's Donatello\]](https://osu.ppy.sh/beatmapsets/195307#fruits/548376)
@@ -149,7 +149,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 
 ### Group Stage
 
-**[Download the mappack here! (136 MB)](https://mega.nz/#!bJADnIbL!QuXa-kSOKKIxCC8LcQNxOa5rEtGv4Fm8GvD1WqkISWo)**
+**[Download the mappack here! (136 MB)](https://mega.nz/#!bJADnIbL!QuXa-kSOKKIxCC8LcQNxOa5rEtGv4Fm8GvD1WqkISWo "MEGA")**
 
 - NoMod
   - [Scop - Keppekishou (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#fruits/201731)

@@ -38,8 +38,8 @@
 
 ## 比賽直播間
 
-Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（備用）。
-Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
+Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183 "Bilibili")（主直播），[Ookura Asahi](http://live.bilibili.com/272810 "Bilibili")（副直播），[Rasis](http://live.bilibili.com/5333 "Bilibili")（備用）。
+Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu "Twitch")。
 
 ---
 
@@ -51,7 +51,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ### 決賽、總決賽
 
-[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloUllsnHx59aQyaoa)
+[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloUllsnHx59aQyaoa "OneDrive")
 
 - [Various Artist - Jungdongjin's 5th LN Pack \[nanahira -Tsukitourou\]](https://osu.ppy.sh/beatmapsets/617068#mania/1301846)
 - [LeaF - Shitsubou Choco \[4K LN 'Imperial Chocolate\]](https://osu.ppy.sh/beatmapsets/602887#mania/1273424)
@@ -76,7 +76,7 @@ TB:
 
 ### 半決賽
 
-[**點此下載全部**](https://1drv.ms/users/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
+[**點此下載全部**](https://1drv.ms/users/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz "OneDrive")
 
 - [Mick Gordon - Cyberdemon \[Lazarus\]](https://osu.ppy.sh/beatmapsets/1231110)
 - [Hitori Tori - perthed again (yambabom remix) \[Difficulty 3\]](https://osu.ppy.sh/beatmapsets/569392#mania/1207006)
@@ -101,7 +101,7 @@ TB:
 
 ### 八強賽
 
-[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)
+[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx "OneDrive")
 
 - [DJ Genki feat. yukacco - Candy Star \[Noodle Star\]](https://osu.ppy.sh/beatmapsets/587375#mania/1243769)
 - [Nauts - Second Run (Core Mix)  \[4K LN\]](https://osu.ppy.sh/beatmapsets/594821#mania/1258021)
@@ -124,7 +124,7 @@ TB:
 
 ### 十六強賽
 
-[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloSM2ivgLojrSLnxT)
+[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloSM2ivgLojrSLnxT "OneDrive")
 
 - [senya - Shinrabansho ni furete \[Insane(LN)\]](https://osu.ppy.sh/beatmapsets/586947#mania/1242917)
 - [ETIA. - Firestorm \[LNAVITY\]](https://osu.ppy.sh/beatmapsets/359554#mania/790563)
@@ -147,7 +147,7 @@ TB:
 
 ### 小組賽
 
-[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloSC-zNJGthpjbLkb)
+[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloSC-zNJGthpjbLkb "OneDrive")
 
 - [Ryu\* Vs. L.E.D.-G - PARADISE LOST \[CS'Another\]](https://osu.ppy.sh/beatmapsets/553390#mania/1171750)
 - [Diceros Bicornis - Innocent Tempest \[Zan's EXHAUST\]](https://osu.ppy.sh/beatmapsets/367484#mania/818950)
@@ -175,7 +175,7 @@ TB:
 
 ### 測試賽
 
-[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)
+[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g "OneDrive")
 
 - [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/beatmapsets/263929#mania/601737)
 - [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/beatmapsets/557062#mania/1178870)

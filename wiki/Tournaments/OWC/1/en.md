@@ -33,7 +33,7 @@ The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based 
 
 ![](img/badge.jpg "OWC #1 winner badge")
 
-Aside from the main prizes listed above, the Tournament Management has also decided to separately award all members of the ![][flag_JP] Japanese team with 1 month of osu!supporter tag in the wake of the [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) incident.
+Aside from the main prizes listed above, the Tournament Management has also decided to separately award all members of the ![][flag_JP] Japanese team with 1 month of osu!supporter tag in the wake of the [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami "Wikipedia") incident.
 
 ## Organization
 
@@ -49,8 +49,8 @@ The osu! World Cup #1 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/45412)
-- [Livestream channel](https://livestream.com/osuworldcup)
-- [Finals recap](https://www.mediafire.com/file/ab6j6k4ihtp25o2) - provided by ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359)
+- [Livestream channel](https://livestream.com/osuworldcup "Livestream")
+- [Finals recap](https://www.mediafire.com/file/ab6j6k4ihtp25o2 "MediaFire") - provided by ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359)
 
 ## Podium
 
@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 - NoMod (*to be played in order*)
-  - [Minibosses - Castlevania (m980) \[owc Finals\]](https://www.mediafire.com/file/twuti02311dk6ip/Minibosses+-+Castlevania.osz/file)
+  - [Minibosses - Castlevania (m980) \[owc Finals\]](https://www.mediafire.com/file/twuti02311dk6ip/Minibosses+-+Castlevania.osz/file "MediaFire")
   - [Various Artists - osu! Stream Compilation (Natteke) \[EXE\]](https://osu.ppy.sh/beatmapsets/25403#osu/86044)
   - [Shiki mixed by Djsmalls - Air (MegaManEXE) \[Best map ever created\]](https://osu.ppy.sh/beatmapsets/13008#osu/48386)
   - [Nico Nico Douga - U.N. Owen Was Her? (Reikin) \[Ronald Mix\]](https://osu.ppy.sh/beatmapsets/1785#osu/21010)

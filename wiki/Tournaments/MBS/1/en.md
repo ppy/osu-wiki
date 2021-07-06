@@ -72,12 +72,12 @@ The Mania Beginner's Showdown was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/908109)
-- [MBS Discord server](https://discord.gg/uNSqksR)
-- [Livestream](https://www.twitch.tv/osu_mbs)
+- [MBS Discord server](https://discord.gg/uNSqksR "Discord")
+- [Livestream](https://www.twitch.tv/osu_mbs "Twitch")
 - Challonge brackets
-  - [High division](https://challonge.com/mbs_high)
-  - [Low division](https://challonge.com/mbs_low)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUMWu10NmD9K0V7XVqDW_4erJCQx3ptnfm8XFOXvXGr4TWDjH95ewgQq663Bj8J-5Wf7yHqN2Sbnl1/pubhtml)**
+  - [High division](https://challonge.com/mbs_high "Challonge")
+  - [Low division](https://challonge.com/mbs_low "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUMWu10NmD9K0V7XVqDW_4erJCQx3ptnfm8XFOXvXGr4TWDjH95ewgQq663Bj8J-5Wf7yHqN2Sbnl1/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -127,7 +127,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Finals
 
-**[Download the mappack here! (103 MB)](https://mega.nz/#!QT51gADB!zlzLPcKn9s0jeoxh4iG3gLvuvBzjmFb_Wx09BaokGk0)**
+**[Download the mappack here! (103 MB)](https://mega.nz/#!QT51gADB!zlzLPcKn9s0jeoxh4iG3gLvuvBzjmFb_Wx09BaokGk0 "MEGA")**
 
 - FreeMod
   - [sakuraburst - serotonin (Nick Wilde) \[C10H12N2O\]](https://osu.ppy.sh/beatmapsets/661082#mania/1399658)
@@ -152,7 +152,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (107 MB)](https://mega.nz/#!JCxQWISY!aaqIPQpJsw6rNRMOw3WUDdcRhAFEwqbSIBNvoSNFQQI)**
+**[Download the mappack here! (107 MB)](https://mega.nz/#!JCxQWISY!aaqIPQpJsw6rNRMOw3WUDdcRhAFEwqbSIBNvoSNFQQI "MEGA")**
 
 - FreeMod
   - [Soba - Hasu (Cut) (Tantei B) \[VlowerS\]](https://osu.ppy.sh/beatmapsets/770757#mania/1620423)
@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (107 MB)](https://mega.nz/#!cTQzkKIK!WqUPz4eusbvqCBDWT9sHbdjvae2PdAYyTlSeBDX_33I)**
+**[Download the mappack here! (107 MB)](https://mega.nz/#!cTQzkKIK!WqUPz4eusbvqCBDWT9sHbdjvae2PdAYyTlSeBDX_33I "MEGA")**
 
 - FreeMod
   - [Xander - Ginger (RuleBlazing) \[Another World Memory\]](https://osu.ppy.sh/beatmapsets/925756#mania/1933684)
@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (62 MB)](https://mega.nz/#!dSgmwKjZ!o5Aqpp7lvD1djJgu4qSiOWb0vFFycVocnfk19_ExJ5o)**
+**[Download the mappack here! (62 MB)](https://mega.nz/#!dSgmwKjZ!o5Aqpp7lvD1djJgu4qSiOWb0vFFycVocnfk19_ExJ5o "MEGA")**
 
 - FreeMod
   - [Cranky - Dino (Raveille) \[FRESH\]](https://osu.ppy.sh/beatmapsets/998754#mania/2088939)
@@ -221,7 +221,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (70 MB)](https://mega.nz/#!8HB3ySpJ!MVXK_ThhuvKnLYivqUYSI-34hy91vWpofhmt-hpjZBw)**
+**[Download the mappack here! (70 MB)](https://mega.nz/#!8HB3ySpJ!MVXK_ThhuvKnLYivqUYSI-34hy91vWpofhmt-hpjZBw "MEGA")**
 
 - FreeMod
   - [Vospi - roboposition!! (arviejhay) \[4K HD\]](https://osu.ppy.sh/beatmapsets/164310#mania/400180)
@@ -242,7 +242,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the mappack here! (64 MB)](https://mega.nz/#!QSwngQjT!tJ-3HD-CpFAalWIYc0K78E9kTX_nUdBkdsjSPhVPoAM)**
+**[Download the mappack here! (64 MB)](https://mega.nz/#!QSwngQjT!tJ-3HD-CpFAalWIYc0K78E9kTX_nUdBkdsjSPhVPoAM "MEGA")**
 
 - FreeMod
   - [monk. - in your arms (Nick Wilde) \[leaving\]](https://osu.ppy.sh/beatmapsets/764541#mania/1607640)
@@ -261,7 +261,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 64
 
-**[Download the mappack here! (53 MB)](https://mega.nz/#!MfAUGCSS!mZoBlp8LIdrJje-PetKP9VOXLhCFGNGt3q0XJMF-E-o)**
+**[Download the mappack here! (53 MB)](https://mega.nz/#!MfAUGCSS!mZoBlp8LIdrJje-PetKP9VOXLhCFGNGt3q0XJMF-E-o "MEGA")**
 
 - FreeMod
   - [Lily Allen - Fuck You (DJ THT Radio Edit) (XeoStyle) \[4k MX (Hard SV Edit.)\]](https://osu.ppy.sh/beatmapsets/314482#mania/701663)
@@ -280,7 +280,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (18 MB)](https://mega.nz/#!1Ko1FA7B!fiji7s8koWc_WagPaOInFRTciuRKRj2roqxIIT5wvtM)**
+**[Download the mappack here! (18 MB)](https://mega.nz/#!1Ko1FA7B!fiji7s8koWc_WagPaOInFRTciuRKRj2roqxIIT5wvtM "MEGA")**
 
 - FreeMod
   - [Getter - Rip N Dip (snexe) \[Hope\]](https://osu.ppy.sh/beatmapsets/726352#mania/1533530)
@@ -293,7 +293,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Finals
 
-**[Download the mappack here! (184 MB)](https://mega.nz/#!hSoHxawK!2rAf9fMEHhfx6iNkBCi5frf6Ru_4PmztczmOrMmJ16Q)**
+**[Download the mappack here! (184 MB)](https://mega.nz/#!hSoHxawK!2rAf9fMEHhfx6iNkBCi5frf6Ru_4PmztczmOrMmJ16Q "MEGA")**
 
 - FreeMod
   - [saradisk - 211 - Natsuiro Present (180bpmEDIT) (Hues) \[Present\]](https://osu.ppy.sh/beatmapsets/714090#mania/1509208)
@@ -318,7 +318,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (131 MB)](https://mega.nz/#!YPpA3QyI!SVi_ja2-ypgpbay-jw1jjpCdEdez1Vz3SFE2pFHnKlI)**
+**[Download the mappack here! (131 MB)](https://mega.nz/#!YPpA3QyI!SVi_ja2-ypgpbay-jw1jjpCdEdez1Vz3SFE2pFHnKlI "MEGA")**
 
 - FreeMod
   - [BanYa remixed by Synthwulf - Hypnosis (Synthwulf Mix) (Ryu Sei) \[EX-Hard\]](https://osu.ppy.sh/beatmapsets/479437#mania/1023778)
@@ -343,7 +343,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (118 MB)](https://mega.nz/#!dDRXXY7K!cGvt-a8TfEVIPj2Z5WTCa4MJ76dpKWp6uR9KeWkRLOs)**
+**[Download the mappack here! (118 MB)](https://mega.nz/#!dDRXXY7K!cGvt-a8TfEVIPj2Z5WTCa4MJ76dpKWp6uR9KeWkRLOs "MEGA")**
 
 - FreeMod
   - [Redemptive - Adrenaline (Nick Wilde) \[couil's hard\]](https://osu.ppy.sh/beatmapsets/837456#mania/1756379)
@@ -366,7 +366,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the mappack here! (88 MB)](https://mega.nz/#!sK5QlQ7R!HDlqhvcQLqO1SvGenKhLekURhQfnk3bJcDegomTyJLg)**
+**[Download the mappack here! (88 MB)](https://mega.nz/#!sK5QlQ7R!HDlqhvcQLqO1SvGenKhLekURhQfnk3bJcDegomTyJLg "MEGA")**
 
 - FreeMod
   - [cYsmix - Breeze (Tidek) \[Normal\]](https://osu.ppy.sh/beatmapsets/639924#mania/1357116)
@@ -387,7 +387,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the mappack here! (173 MB)](https://mega.nz/#!xLxHEKIa!MQr0_tLl_emwk3Vb98L0qCt0QJ5wNGkILrbpSm_2CA4)**
+**[Download the mappack here! (173 MB)](https://mega.nz/#!xLxHEKIa!MQr0_tLl_emwk3Vb98L0qCt0QJ5wNGkILrbpSm_2CA4 "MEGA")**
 
 - FreeMod
   - [Dirtyphonics & Sullivan King - Hammer (\_Y u r i\_) \[Normal\]](https://osu.ppy.sh/beatmapsets/965183#mania/2020476)
@@ -408,7 +408,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the mappack here! (94 MB)](https://mega.nz/#!QWpETa5S!058w3129ct4rvAkJI2-Jv59iU_qZbRM2zeW7jeeSzSE)**
+**[Download the mappack here! (94 MB)](https://mega.nz/#!QWpETa5S!058w3129ct4rvAkJI2-Jv59iU_qZbRM2zeW7jeeSzSE "MEGA")**
 
 - FreeMod
   - [Have Fun Teaching - Jumping Jacks (Tantei B) \[stage 1 : Rebound\]](https://osu.ppy.sh/beatmapsets/974445#mania/2039696)
@@ -427,7 +427,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (36 MB)](https://mega.nz/#!YPxhkIzJ!ftskkhd20WOuBYAQ37rRfvzu2__JZTLu_pSvaV3JveM)**
+**[Download the mappack here! (36 MB)](https://mega.nz/#!YPxhkIzJ!ftskkhd20WOuBYAQ37rRfvzu2__JZTLu_pSvaV3JveM "MEGA")**
 
 - FreeMod
   - [KinkyOats - UDKswing (Mastermile) \[Hard SV\]](https://osu.ppy.sh/beatmapsets/604634#mania/1277534)
@@ -744,7 +744,7 @@ Sunday, 23 June 2019:
 | #58 | ![][flag_DE] [NekoEko](https://osu.ppy.sh/users/7761776) | 57.2 |
 
 - Only the top 57 can proceed to the Knockout Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMZHU7RNnyblgrqNYq_mZISfVIDTRRTE4IGG435y5Kr0jXP9vm-gc2FtiM-DlabsSYslRbr0JHbxmp/pubhtml)
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMZHU7RNnyblgrqNYq_mZISfVIDTRRTE4IGG435y5Kr0jXP9vm-gc2FtiM-DlabsSYslRbr0JHbxmp/pubhtml "Google Sheets")
 - Average is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ### Low division
@@ -936,7 +936,7 @@ Sunday, 30 June 2019:
 | #30 | ![][flag_FR] [Musclor](https://osu.ppy.sh/users/9637676) | 30 |
 
 - Only the top 29 can proceed to the Knockout Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMZHU7RNnyblgrqNYq_mZISfVIDTRRTE4IGG435y5Kr0jXP9vm-gc2FtiM-DlabsSYslRbr0JHbxmp/pubhtml)
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMZHU7RNnyblgrqNYq_mZISfVIDTRRTE4IGG435y5Kr0jXP9vm-gc2FtiM-DlabsSYslRbr0JHbxmp/pubhtml "Google Sheets")
 - Average is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset

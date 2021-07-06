@@ -89,11 +89,11 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 
 ## Links
 
-- [osu!mania 2014 en Twitch](https://www.twitch.tv/osulive/)
-- [Forma de Registro](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
+- [osu!mania 2014 en Twitch](https://www.twitch.tv/osulive "Twitch")
+- [Forma de Registro](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY "Google Forms")
 - [Hilo de Discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/222100)
-- [Estadísticas: Grupo 4K](https://mwc.servegame.com/results/view/1)
-- [Estadísticas: Grupo 7K](https://mwc.servegame.com/results/view/2)
+- [Estadísticas: Grupo 4K](https://mwc.servegame.com/results/view/1 "Servegame")
+- [Estadísticas: Grupo 7K](https://mwc.servegame.com/results/view/2 "Servegame")
 
 ---
 

@@ -43,11 +43,11 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 
 ## Links
 
-- [osu! World Cup 2014 on Twitch](https://www.twitch.tv/osulive/)
-- [Registration Form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
+- [osu! World Cup 2014 on Twitch](https://www.twitch.tv/osulive "Twitch")
+- [Registration Form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms")
 - [Discussion Thread](https://osu.ppy.sh/community/forums/posts/3410198)
 - [Mappool Discussion](https://osu.ppy.sh/community/forums/topics/255369/)
-- **[Group Stage Statistics](https://owc.nicarim.pw/results/view/3)**
+- **[Group Stage Statistics](https://owc.nicarim.pw/results/view/3 "Nicarim")**
 
 ---
 
@@ -119,7 +119,7 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 
 ### Quartas de final
 
-**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
+**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar "MediaFire")**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
@@ -149,7 +149,7 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 
 ### Oitavas de final
 
-**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
+**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar "MediaFire")**
 
 - NoMod
   - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
@@ -179,7 +179,7 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 
 ### Fase de Grupos
 
-**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
+**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
@@ -285,7 +285,7 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
    1. O tamanho máximo de uma equipe é 8 jogadores.
    2. Você deverá especificar um capitão para representar a equipe.
 2. Cada equipe representa uma nação. Você deverá formar uma equipe com jogadores do mesmo país.
-3. Para inscrição de equipes,[preencha este formulário](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Então, verifique sua inscrição [enviando uma PM para o Loctav](https://osu.ppy.sh/home/messages/users/71366) entitulada “OWC Registration”
+3. Para inscrição de equipes,[preencha este formulário](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform "Google Forms"). Então, verifique sua inscrição [enviando uma PM para o Loctav](https://osu.ppy.sh/home/messages/users/71366) entitulada “OWC Registration”
    - Capitães podem mudar o esquema do time [avisando a Administração](https://osu.ppy.sh/home/messages/users/71366).
 4. Qualquer inscrição de mudança será checada pela Administração do Torneio antes de ser aceita e adicionada à lista de participantes.
 5. O número de equipes será de 32. Quem chegar primeiro, fica com a vaga.

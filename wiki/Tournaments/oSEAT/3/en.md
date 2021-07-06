@@ -57,10 +57,10 @@ The osu! South East Asia 3 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/978343)
-- [oSEAT Discord server](https://discord.gg/sVHndPU)
-- [Livestream](https://www.twitch.tv/oseatournament)
-- [Challonge brackets](https://challonge.com/SEAT3)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1waGkj7eW1oNKF4itjLrNbk0dCviPlXfjw70l0a1U_AA/edit?usp=sharing)**
+- [oSEAT Discord server](https://discord.gg/sVHndPU "Discord")
+- [Livestream](https://www.twitch.tv/oseatournament "Twitch")
+- [Challonge brackets](https://challonge.com/SEAT3 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1waGkj7eW1oNKF4itjLrNbk0dCviPlXfjw70l0a1U_AA/edit?usp=sharing "Google Sheets")**
 
 ---
 
@@ -116,7 +116,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (130 MB)](https://drive.google.com/file/d/1GS7xi9NJm6pZujzw-ylg0hyLEvlz2luy/view)**
+**[Download the mappack here! (130 MB)](https://drive.google.com/file/d/1GS7xi9NJm6pZujzw-ylg0hyLEvlz2luy/view "Google Drive")**
 
 - NoMod
   - [hitorie - Little Cry Baby (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1098258#osu/2294643)
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1UTTv0agwW-iwPNYtd4Orj3tOxNJqdVbn/view?usp=sharing)**
+**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1UTTv0agwW-iwPNYtd4Orj3tOxNJqdVbn/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Alfakyun. x Camellia - calling (ProfessionalBox) \[Prestissimo\]](https://osu.ppy.sh/beatmapsets/523558#osu/1111493)
@@ -174,7 +174,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (122 MB)](https://drive.google.com/file/d/1h9gbFO-ybLxrAPQ2Rvbp3ZaGp21OPTXv/view)**
+**[Download the mappack here! (122 MB)](https://drive.google.com/file/d/1h9gbFO-ybLxrAPQ2Rvbp3ZaGp21OPTXv/view "Google Drive")**
 
 - NoMod
   - [Powerless feat. Sennzai - Unrequited (VINXIS) \[Reunion\]](https://osu.ppy.sh/beatmapsets/543109#osu/1162811)
@@ -203,7 +203,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (92 MB)](https://drive.google.com/file/d/1eoNTJ_0CfUjgKT9fBxHme9ODxFly-Ksz/view)**
+**[Download the mappack here! (92 MB)](https://drive.google.com/file/d/1eoNTJ_0CfUjgKT9fBxHme9ODxFly-Ksz/view "Google Drive")**
 
 - NoMod
   - [Camellia - Fastest Crash (sukiNathan) \[RLC's Paroxysm\]](https://osu.ppy.sh/beatmapsets/331025#taiko/733432)
@@ -230,7 +230,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (109 MB)](https://drive.google.com/file/d/15aJLWylVJHKTOwkuC4IBZ4dkpJ4r5Odc/view?usp=sharing)**
+**[Download the mappack here! (109 MB)](https://drive.google.com/file/d/15aJLWylVJHKTOwkuC4IBZ4dkpJ4r5Odc/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Suzuki Konomi - Zenbu Kimi ga Ita kara Shittanda (Kalibe) \[Hope\]](https://osu.ppy.sh/beatmapsets/587616#osu/1725575)
@@ -257,7 +257,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (120 MB)](https://drive.google.com/file/d/16T_rAwgd8WlBd87Nt_q-dDtHRC0uweWx/view)**
+**[Download the mappack here! (120 MB)](https://drive.google.com/file/d/16T_rAwgd8WlBd87Nt_q-dDtHRC0uweWx/view "Google Drive")**
 
 - NoMod
   - [Suzuki Konomi - One day sky (Kyle73) \[Starry Sky\]](https://osu.ppy.sh/beatmapsets/843226#osu/1764267)
@@ -284,7 +284,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage - Week 2
 
-**[Download the mappack here! (70 MB)](https://drive.google.com/file/d/1kb4XoTLHUVLjTjHfVeSNlyfETownFZ4_/view)**
+**[Download the mappack here! (70 MB)](https://drive.google.com/file/d/1kb4XoTLHUVLjTjHfVeSNlyfETownFZ4_/view "Google Drive")**
 
 - NoMod
   - [Feint - We Won't Be Alone (feat. Laura Brehm) (Cheesecake) \[Hikaru's Rose Extra\]](https://osu.ppy.sh/beatmapsets/357539#osu/1231520)
@@ -307,7 +307,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage - Week 1
 
-**[Download the mappack here! (79 MB)](https://mega.nz/#F!KupS1SqA!lOH8xviyDRC84aHC96yvkA)**
+**[Download the mappack here! (79 MB)](https://mega.nz/#F!KupS1SqA!lOH8xviyDRC84aHC96yvkA "MEGA")**
 
 - NoMod
   - [Ayaka Ohashi - Wagamama MIRROR HEART (Rizia) \[Kisses' Extra\]](https://osu.ppy.sh/beatmapsets/554618#osu/1226282)
@@ -330,7 +330,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (76 MB)](https://mega.nz/#F!f3xXRQbC!Ce_NZgkWjR-jLdB4qae8TA)**
+**[Download the mappack here! (76 MB)](https://mega.nz/#F!f3xXRQbC!Ce_NZgkWjR-jLdB4qae8TA "MEGA")**
 
 - NoMod
   - [Demetori - Furuki Yuanxian \~ Death Echo (jonathanlfj) \[Extra Stage Collab\]](https://osu.ppy.sh/beatmapsets/291517#osu/656385)

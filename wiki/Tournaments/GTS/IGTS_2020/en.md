@@ -29,7 +29,7 @@ The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Interme
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$64 or 6 months of osu!supporter tag, first place team banner, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$64 or 6 months of osu!supporter tag, first place team banner, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/ "Foxbox") |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$48 or 6 months of osu!supporter tag, second place team banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$32 or 2 months of osu!supporter tag, third place team banner |
 
@@ -60,13 +60,13 @@ The Intermediate Global Taiko Showdown 2020 was run by various community members
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1062773)
-- [IGTS Discord server](https://discord.gg/a6PzzFz)
-- [GTS website](https://gtsosu.com/)
+- [IGTS Discord server](https://discord.gg/a6PzzFz "Discord")
+- [GTS website](https://gtsosu.com/ "GTS")
 - Livestream
-  - [GTSosu](https://www.twitch.tv/gtsosu)
-  - [GTSosu_b](https://www.twitch.tv/gtsosu_b)
-- [Challonge brackets](https://challonge.com/IGTS2020)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/34) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+  - [GTSosu](https://www.twitch.tv/gtsosu "Twitch")
+  - [GTSosu_b](https://www.twitch.tv/gtsosu_b "Twitch")
+- [Challonge brackets](https://challonge.com/IGTS2020 "Challonge")
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/34 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -154,7 +154,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### All Stars
 
-**[Download the map pack here! (101 MB)](https://mega.nz/file/fOQRXQJB#90Kjf6cGPI-boeKG_3jigMF6jlNXK7tT2yZQJuebOrY)**
+**[Download the map pack here! (101 MB)](https://mega.nz/file/fOQRXQJB#90Kjf6cGPI-boeKG_3jigMF6jlNXK7tT2yZQJuebOrY "MEGA")**
 
 - DoubleTime
   - [Reol - Drop Pop Candy (Rumovik) \[Rumovik's Oni\]](https://osu.ppy.sh/beatmapsets/417257#taiko/903582)
@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the map pack here! (85 MB)](https://mega.nz/file/LkVVVKaY#gyJlIZPmlWT5yZRCnWRg4pn688mel9Mz_KiSZ4Nvwx0)**
+**[Download the map pack here! (85 MB)](https://mega.nz/file/LkVVVKaY#gyJlIZPmlWT5yZRCnWRg4pn688mel9Mz_KiSZ4Nvwx0 "MEGA")**
 
 - NoMod
   - [PSYQUI feat. Such - Raise Your Hands (Yuemiao) \[D3kuu's Inner Oni\]](https://osu.ppy.sh/beatmapsets/897856#taiko/2454968)
@@ -211,7 +211,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the map pack here! (78 MB)](https://mega.nz/file/esV3TYgJ#nZSmk_k9Js0CSJHL24IFSY7JhknN2VnzH6xTEba_Sj8)**
+**[Download the map pack here! (78 MB)](https://mega.nz/file/esV3TYgJ#nZSmk_k9Js0CSJHL24IFSY7JhknN2VnzH6xTEba_Sj8 "MEGA")**
 
 - NoMod
   - [Floxytek vs Billx - 30's Swing Tek (DarkTigrus) \[\~Heuss'Taiko Swing\~\]](https://osu.ppy.sh/beatmapsets/45107#taiko/159871)
@@ -238,7 +238,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the map pack here! (81 MB)](https://mega.nz/file/upklnJhQ#-YfhkCE1xBeGXxZ4c2CyahuKkxN1l-QfRl1N_v_m2OU)**
+**[Download the map pack here! (81 MB)](https://mega.nz/file/upklnJhQ#-YfhkCE1xBeGXxZ4c2CyahuKkxN1l-QfRl1N_v_m2OU "MEGA")**
 
 - NoMod
   - [cosMo@bousouP - Nee, Kowareta Ningyou wa Doko e Suterareru no? (Rhytoly) \[Oni?\]](https://osu.ppy.sh/beatmapsets/854011#taiko/1785798)
@@ -265,7 +265,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the map pack here! (76 MB)](https://mega.nz/file/vokwSC5Y#H6k-EQHlw9xV-GRayCpPTrSDTe0lym5oggSAAxym9CM)**
+**[Download the map pack here! (76 MB)](https://mega.nz/file/vokwSC5Y#H6k-EQHlw9xV-GRayCpPTrSDTe0lym5oggSAAxym9CM "MEGA")**
 
 - NoMod
   - [sky\_delta - Grenade (Nerova Riuz GX) \[Oni\]](https://osu.ppy.sh/beatmapsets/920666#taiko/1937208)
@@ -291,7 +291,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the map pack here! (93 MB)](https://mega.nz/file/T1tVVbyZ#Cn-uhZgtCiCwQ67HMly9AA9pQQfFxXRiySnPqkr4ikc)**
+**[Download the map pack here! (93 MB)](https://mega.nz/file/T1tVVbyZ#Cn-uhZgtCiCwQ67HMly9AA9pQQfFxXRiySnPqkr4ikc "MEGA")**
 
 - NoMod
   - [chelmico - Easy Breezy feat. Zenpaku (dj-Jo Remix) (D3kuu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1122895#taiko/2346587)
@@ -317,7 +317,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the map pack here! (65 MB)](https://mega.nz/file/3wFnTazb#-ONnI0-BFICX7IHmNR-zHmpK4qhWyJw9-AgzjZSiqCE)**
+**[Download the map pack here! (65 MB)](https://mega.nz/file/3wFnTazb#-ONnI0-BFICX7IHmNR-zHmpK4qhWyJw9-AgzjZSiqCE "MEGA")**
 
 - NoMod
   - [ONE OK ROCK - Clock Strikes (Chromoxx) \[Oni\]](https://osu.ppy.sh/beatmapsets/602619#taiko/1272846)
@@ -342,7 +342,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the map pack here! (25 MB)](https://mega.nz/file/M0YR1SoR#6NXysw4sUBS0SP9gPbdeA4IHCortqTWJSjesueE75Fo)**
+**[Download the map pack here! (25 MB)](https://mega.nz/file/M0YR1SoR#6NXysw4sUBS0SP9gPbdeA4IHCortqTWJSjesueE75Fo "MEGA")**
 
 - NoMod
   - [8284 - Connaextion (Nwolf) \[--- -. ..\]](https://osu.ppy.sh/beatmapsets/660649#taiko/1956165)
@@ -559,7 +559,7 @@ Sunday, 14 June 2020:
 | #44 | ![][flag_TH] Thailand | 41.8 |
 
 - Only the top 32 team can proceed to the Group Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1VxF7lvt09sR7NrG2JOEQR1F8RQiymb3XMARC6OudF_E/edit?usp=sharing)
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1VxF7lvt09sR7NrG2JOEQR1F8RQiymb3XMARC6OudF_E/edit?usp=sharing "Google Sheets")
 - Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset

@@ -53,11 +53,11 @@ Esta competición ha terminado y el podio resultante es:
 
 ## Links
 
-- [osu! World Cup 2014 en Twitch](https://www.twitch.tv/osulive/)
-- [Forma de registro](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
+- [osu! World Cup 2014 en Twitch](https://www.twitch.tv/osulive "Twitch")
+- [Forma de registro](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms")
 - [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/posts/3410198)
 - [Discusión sobre los mapas](https://osu.ppy.sh/community/forums/topics/255369/)
-- **[Estadísticas de la fase de grupos](https://owc.nicarim.pw/results/view/3)**
+- **[Estadísticas de la fase de grupos](https://owc.nicarim.pw/results/view/3 "Nicarim")**
 
 ---
 
@@ -129,7 +129,7 @@ Esta competición ha terminado y el podio resultante es:
 
 ### Finales
 
-**[¡Descarga el pack de mapas aquí!](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
+**[¡Descarga el pack de mapas aquí!](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar "MediaFire")**
 
 - NoMod
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmapsets/59049#osu/214248)
@@ -159,7 +159,7 @@ Esta competición ha terminado y el podio resultante es:
 
 ### Semifinales
 
-**[¡Descarga el pack de mapas aquí!](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
+**[¡Descarga el pack de mapas aquí!](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar "MediaFire")**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
@@ -189,7 +189,7 @@ Esta competición ha terminado y el podio resultante es:
 
 ### Cuartos de final
 
-**[¡Descarga el pack de mapas aquí!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
+**[¡Descarga el pack de mapas aquí!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar "MediaFire")**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
@@ -219,7 +219,7 @@ Esta competición ha terminado y el podio resultante es:
 
 ### Octavos de final
 
-**[¡Descarga el pack de mapas aquí!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
+**[¡Descarga el pack de mapas aquí!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar "MediaFire")**
 
 - NoMod
   - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
@@ -249,7 +249,7 @@ Esta competición ha terminado y el podio resultante es:
 
 ### Fase de grupos
 
-**[¡Descarga el pack de mapas aquí!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
+**[¡Descarga el pack de mapas aquí!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)

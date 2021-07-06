@@ -58,9 +58,9 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/877866)
-- [Livestream](https://www.twitch.tv/osusoft)
-- [SOFT Discord server](https://discord.gg/qd575a3)
-- [Challonge](https://challonge.com/SOFT4)
+- [Livestream](https://www.twitch.tv/osusoft "Twitch")
+- [SOFT Discord server](https://discord.gg/qd575a3 "Discord")
+- [Challonge](https://challonge.com/SOFT4 "Challonge")
 
 ---
 
@@ -268,7 +268,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKWOA0TRgLfbILgmZrDX8Z-erdExLMUt1m7bubJeLdWdbfXDYFjyqYBPUbuHxsRF3NbfuD5oQc7tJ5/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKWOA0TRgLfbILgmZrDX8Z-erdExLMUt1m7bubJeLdWdbfXDYFjyqYBPUbuHxsRF3NbfuD5oQc7tJ5/pubhtml "Google Sheets").**
 
 | Sunday, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -277,7 +277,7 @@ More details can be found **in [this spreadsheet](https://docs.google.com/spread
 
 ### Finals
 
-More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSrdslXaBHbxEGRP6IfEbQPt4qvdeQcn0T0CZOHnEPhMcKkJWfCnt3-t_7T0vOe_Xeeo6q3T4nWIY0J/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSrdslXaBHbxEGRP6IfEbQPt4qvdeQcn0T0CZOHnEPhMcKkJWfCnt3-t_7T0vOe_Xeeo6q3T4nWIY0J/pubhtml "Google Sheets").**
 
 | Saturday, 2019-06-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -291,7 +291,7 @@ More details can be found **in [this spreadsheet](https://docs.google.com/spread
 
 ### Semifinals
 
-More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxVoJ1Q5Pjx3BjvXIXrdCdElJukRl8QrgU5FXmcYVfuQTEOcEKpTshd47bdfHDLhpTDN9YlvSKd6e4/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxVoJ1Q5Pjx3BjvXIXrdCdElJukRl8QrgU5FXmcYVfuQTEOcEKpTshd47bdfHDLhpTDN9YlvSKd6e4/pubhtml "Google Sheets").**
 
 | Saturday, 2019-06-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -309,7 +309,7 @@ More details can be found **in [this spreadsheet](https://docs.google.com/spread
 
 ### Quarterfinals
 
-More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWGQ694lt7C616ImxI28fZuepVS7i-CoTeZbaRpV6-FS-toNG_RtK5g7eZl-DN0K9TVBLogjz83Yzd/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWGQ694lt7C616ImxI28fZuepVS7i-CoTeZbaRpV6-FS-toNG_RtK5g7eZl-DN0K9TVBLogjz83Yzd/pubhtml "Google Sheets").**
 
 | Friday, 2019-05-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -338,7 +338,7 @@ More details can be found **in [this spreadsheet](https://docs.google.com/spread
 
 ### Round of 16
 
-More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe-QujFZ8gct5OxlE_o6F_rSAPai2KaLLbGgWwuq3WQtt3lsBKpjx2QxhlFRc7KiELXvFfkUS1y6ew/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe-QujFZ8gct5OxlE_o6F_rSAPai2KaLLbGgWwuq3WQtt3lsBKpjx2QxhlFRc7KiELXvFfkUS1y6ew/pubhtml "Google Sheets").**
 
 | Friday, 2019-05-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -366,7 +366,7 @@ More details can be found **in [this spreadsheet](https://docs.google.com/spread
 
 ### Round of 32
 
-More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS-WOnb24mNfezpIJ-IXKxljztynL9zSClacdeVrN1lyre89l4eTuQAd74_1NMy_RM3gkc7hpgEMGfr/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS-WOnb24mNfezpIJ-IXKxljztynL9zSClacdeVrN1lyre89l4eTuQAd74_1NMy_RM3gkc7hpgEMGfr/pubhtml "Google Sheets").**
 
 | Saturday, 2019-05-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -392,7 +392,7 @@ More details can be found **in [this spreadsheet](https://docs.google.com/spread
 
 ### Group Stage
 
-More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQwI-bvBozP7n9VcPpuKONiacrxTsojwYFykQTpo5Olmb1rJLf6GrXfSMCo-iqFK1MqOnEJ_h19OR/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQwI-bvBozP7n9VcPpuKONiacrxTsojwYFykQTpo5Olmb1rJLf6GrXfSMCo-iqFK1MqOnEJ_h19OR/pubhtml "Google Sheets").**
 
 | Saturday, 2019-04-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -603,7 +603,7 @@ More details can be found **in [this spreadsheet](https://docs.google.com/spread
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1MvooEv_AWLs9DaGujlO8Nj3jScPk_zbXprxEPKLv6dI/edit#gid=1475545356).
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1MvooEv_AWLs9DaGujlO8Nj3jScPk_zbXprxEPKLv6dI/edit#gid=1475545356 "Google Sheets").
 
 ## Rules
 

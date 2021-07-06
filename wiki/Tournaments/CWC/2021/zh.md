@@ -52,10 +52,10 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
 ## 相关链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1287741)
-- [Twitch 直播间](https://www.twitch.tv/osulive)
-- [Challonge 对阵表](https://challonge.com/CWC_2021)
-- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/58)
-- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEm0YFPgQl6kNW81aYoF00x3kdH_XFzbFnkZ2gtNUDMgHkWPhQ9VdOmzNGS5wji5uTdyNlDGsdq2JU/pubhtml)**
+- [Twitch 直播间](https://www.twitch.tv/osulive "Twitch")
+- [Challonge 对阵表](https://challonge.com/CWC_2021 "Challonge")
+- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/58 "hwchr's pick'em")
+- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEm0YFPgQl6kNW81aYoF00x3kdH_XFzbFnkZ2gtNUDMgHkWPhQ9VdOmzNGS5wji5uTdyNlDGsdq2JU/pubhtml "Google Sheets")**
 
 ## 参赛选手
 
@@ -338,7 +338,7 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
 4. 每个小组的前两名将进入淘汰赛阶段。
    - 这会根据实际参赛队伍的数量进行改变。
 5. 接下来的阶段是双败赛制。这意味着获胜者将进入胜者组，否则进入败者组。
-6. 基于[这个图片](https://puu.sh/bUq5V/f1066103b0.png)，比赛分为以下几个阶段：
+6. 基于[这个图片](https://puu.sh/bUq5V/f1066103b0.png "puush")，比赛分为以下几个阶段：
 
 | 阶段 | 比赛 ID |
 | --: | :-- |

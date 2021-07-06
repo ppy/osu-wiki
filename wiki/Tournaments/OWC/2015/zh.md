@@ -45,11 +45,11 @@ outdated: true
 
 ## 链接
 
-- [osu! World Cup 2015 在 Twitch 上的直播](https://www.twitch.tv/osulive/)
+- [osu! World Cup 2015 在 Twitch 上的直播](https://www.twitch.tv/osulive "Twitch")
 - [讨论页](https://osu.ppy.sh/community/forums/posts/4550383)
 - [报名页](https://osu.ppy.sh/tournaments/2)
-- [当前比赛的结果](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
-- **[小组赛结果 (temporary)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
+- [当前比赛的结果](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml "Google Sheets")
+- **[小组赛结果 (temporary)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml "Google Sheets")**
 
 ---
 
@@ -154,7 +154,7 @@ outdated: true
 
 **这个图池将会被用于决赛第一周和第二周。**
 
-**[在这里下载图包](https://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar)**
+**[在这里下载图包](https://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar "MediaFire")**
 
 - NoMod
   - [Reol - Asymmetry (Skystar) \[Asphewin's Expert\]](https://osu.ppy.sh/beatmapsets/310499#osu/698249)
@@ -184,7 +184,7 @@ outdated: true
 
 ### 半决赛
 
-**[在这里下载图包](https://www.mediafire.com/download/rm2w6we4i90dhc5/OWC_2015_Semifinals.rar)**
+**[在这里下载图包](https://www.mediafire.com/download/rm2w6we4i90dhc5/OWC_2015_Semifinals.rar "MediaFire")**
 
 - NoMod
   - [Reol - Streaming Heart (sukiNathan) \[Extra\]](https://osu.ppy.sh/beatmapsets/339335#osu/760466)
@@ -214,7 +214,7 @@ outdated: true
 
 ### 四分之一决赛
 
-**[在这里下载图包](https://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
+**[在这里下载图包](https://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar "MediaFire")**
 
 - NoMod
   - [ALiCE'S EMOTiON - Dark Flight Dreamer (Sakaue Nachi) \[Dreamer\]](https://osu.ppy.sh/beatmapsets/185250#osu/676172)
@@ -244,7 +244,7 @@ outdated: true
 
 ### 十六强
 
-**[在这里下载图包](https://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
+**[在这里下载图包](https://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar "MediaFire")**
 
 - NoMod
   - [Sharlo & yealina - Kakushigoto (Sharlo) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/208095#osu/495899)
@@ -274,7 +274,7 @@ outdated: true
 
 ### 小组赛
 
-**[在这里下载图包](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
+**[在这里下载图包](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [Duca - COLD BUTTERFLY (Zweib) \[Insane\]](https://osu.ppy.sh/beatmapsets/125380#osu/363063)
@@ -516,7 +516,7 @@ outdated: true
 
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 
-6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
+6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png "puush"), the stages are splitted up the following:
 
    | Stage | Match ID |
    | :-- | :-- |

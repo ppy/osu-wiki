@@ -44,10 +44,10 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/843645)
-- [Livestream](https://www.twitch.tv/osuriverside)
-- [osu!riverside Discord server](https://discord.gg/gsD9JUB)
-- [osu! Challonge bracket](https://challonge.com/bp0500aa)
-- [osu!mania Challonge bracket](https://challonge.com/qfawchnw)
+- [Livestream](https://www.twitch.tv/osuriverside "Twitch")
+- [osu!riverside Discord server](https://discord.gg/gsD9JUB "Discord")
+- [osu! Challonge bracket](https://challonge.com/bp0500aa "Challonge")
+- [osu!mania Challonge bracket](https://challonge.com/qfawchnw "Challonge")
 
 ## Participants
 
@@ -100,7 +100,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 ### osu!
 
-**[Download the mappack here! (276 MB)](https://drive.google.com/file/d/15o1v7cJgdQld6-IkePqntxk5qFo8hXNx/view)**
+**[Download the mappack here! (276 MB)](https://drive.google.com/file/d/15o1v7cJgdQld6-IkePqntxk5qFo8hXNx/view "Google Drive")**
 
 #### Grand Finals
 

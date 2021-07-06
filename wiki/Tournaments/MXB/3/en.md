@@ -46,12 +46,12 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ## Links
 
-- [Challonge brackets](https://challonge.com/zh_CN/MXB3rd)
+- [Challonge brackets](https://challonge.com/zh_CN/MXB3rd "Challonge")
 - Livestream
-  - [Flow Light](https://live.bilibili.com/73668)
-  - [IA daisuki](https://live.bilibili.com/4353181)
-  - [NimaPro](https://live.bilibili.com/12166146)
-  - [Rasis](https://live.bilibili.com/5333)
+  - [Flow Light](https://live.bilibili.com/73668 "Bilibili")
+  - [IA daisuki](https://live.bilibili.com/4353181 "Bilibili")
+  - [NimaPro](https://live.bilibili.com/12166146 "Bilibili")
+  - [Rasis](https://live.bilibili.com/5333 "Bilibili")
 
 | Placing | Player |
 | :-: | :-- |
@@ -84,7 +84,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Finals
 
-**Download the mappack here! (118 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1v2mmoQVy_bdNR5_0W5j06w) (code:`ploo`) - [Google Drive](https://drive.google.com/file/d/1zLUvsmKgd5ppPWZEvFxDA4WEAMgkzdRH)**
+**Download the mappack here! (118 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1v2mmoQVy_bdNR5_0W5j06w "Baidu Netdisk") (code:`ploo`) - [Google Drive](https://drive.google.com/file/d/1zLUvsmKgd5ppPWZEvFxDA4WEAMgkzdRH "Google Drive")**
 
 - FreeMod
   - [LeaF - I \[\_UJ's Another\]](https://osu.ppy.sh/beatmapsets/426638#mania/928341)
@@ -107,7 +107,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Semifinals
 
-**Download the mappack here! (77 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1WbMvDnuRXqWQlcjGvW6LiQ) (code: `tydk`) - [Google Drive](https://drive.google.com/file/d/1ovBrmPRGZzOxCOAGSBKpbEiljhyWEnsH)**
+**Download the mappack here! (77 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1WbMvDnuRXqWQlcjGvW6LiQ "Baidu Netdisk") (code: `tydk`) - [Google Drive](https://drive.google.com/file/d/1ovBrmPRGZzOxCOAGSBKpbEiljhyWEnsH "Google Drive")**
 
 - FreeMod
   - [IOSYS - Endless Tewi-ma Park \[Arcwin Tewicated\]](https://osu.ppy.sh/beatmapsets/392965#mania/855472)
@@ -127,7 +127,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Quarterfinals
 
-**Download the mappack here! (85 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1JH-52Xp4Ez2J4oCGo8jv7Q) (code: `wtvh`) - [Google Drive](https://drive.google.com/file/d/1ZVxWmXj5uEVS1MgjF9k_YR9gafInsLNy)**
+**Download the mappack here! (85 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1JH-52Xp4Ez2J4oCGo8jv7Q "Baidu Netdisk") (code: `wtvh`) - [Google Drive](https://drive.google.com/file/d/1ZVxWmXj5uEVS1MgjF9k_YR9gafInsLNy "Google Drive")**
 
 - FreeMod
   - [Xceon feat.Mayumi Morinaga - Sakurayozora (Extended Mix) \[Expert\]](https://osu.ppy.sh/beatmapsets/316411#mania/705048)
@@ -147,7 +147,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Group Stage
 
-**Download the mappack here! (73 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow) (code: `wbbx`) - [Google Drive](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
+**Download the mappack here! (73 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow "Baidu Netdisk") (code: `wbbx`) - [Google Drive](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn "Google Drive")**
 
 - FreeMod
   - [Junk - Qualia \[4K HD+\]](https://osu.ppy.sh/beatmapsets/177155#mania/426499)
@@ -165,7 +165,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Qualification Stage
 
-**Download the mappack here! (14 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA) - [Google Drive](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM-)**
+**Download the mappack here! (14 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM- "Google Drive")**
 
 - FreeMod
   - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \[Stage 1: Reborn\]](https://osu.ppy.sh/beatmapsets/961881#mania/2014099)
@@ -224,7 +224,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Qualification Stage
 
-Check **[statistics sheet](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s)** for more details.
+Check **[statistics sheet](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s "Tencent QQ")** for more details.
 
 ## Rules
 
@@ -268,7 +268,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 
 - The bracket stage is a double elimination stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. 
-- The MXB bracket can be found [here](https://challonge.com/zh_CN/MXB3rd).
+- The MXB bracket can be found [here](https://challonge.com/zh_CN/MXB3rd "Challonge").
 - In a winners bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
 - In a losers bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will be eliminated from the tournament.
 - Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.

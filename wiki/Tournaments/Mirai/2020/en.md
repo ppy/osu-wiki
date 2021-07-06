@@ -47,9 +47,9 @@ The Mirai. Tournament 2020 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1047235)
-- [Challonge brackets](https://challonge.com/Mirai2020)
-- [Mirai. Community Discord server](https://discord.gg/cSfhfm2)
-- [Livestream](https://www.twitch.tv/MiraiSubject)
+- [Challonge brackets](https://challonge.com/Mirai2020 "Challonge")
+- [Mirai. Community Discord server](https://discord.gg/cSfhfm2 "Discord")
+- [Livestream](https://www.twitch.tv/MiraiSubject "Twitch")
 
 ## Participants
 
@@ -98,7 +98,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Grand Finals
 
-**[Download the mappack here! (151 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-grand-finals-0E57AA07.zip)**
+**[Download the mappack here! (151 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-grand-finals-0E57AA07.zip "Mirai")**
 
 - NoMod
   - [AKINO from bless4 - MIIRO \[Miiro\]](https://osu.ppy.sh/beatmapsets/259127#osu/592367)
@@ -129,7 +129,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (124 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-finals-F16F65C5.zip)**
+**[Download the mappack here! (124 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-finals-F16F65C5.zip "Mirai")**
 
 - NoMod
   - [BABYMETAL - YAVA! \[Extra\]](https://osu.ppy.sh/beatmapsets/476612#osu/1069950)
@@ -160,7 +160,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (144 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-sf-E5CF9341.zip)**
+**[Download the mappack here! (144 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-sf-E5CF9341.zip "Mirai")**
 
 - NoMod
   - [Roselia - -HEROIC ADVENT- \[-SHIZUKU'S EXPERT-\]](https://osu.ppy.sh/beatmapsets/826596#osu/1759615)
@@ -191,7 +191,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (136 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-qf-1447801C.zip)**
+**[Download the mappack here! (136 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-qf-1447801C.zip "Mirai")**
 
 - NoMod
   - [Reol - Logic Agent \[Lost\]](https://osu.ppy.sh/beatmapsets/578814#osu/1283956)
@@ -222,7 +222,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (108 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt2020-ro16-3E923BFA.zip)**
+**[Download the mappack here! (108 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt2020-ro16-3E923BFA.zip "Mirai")**
 
 - NoMod
   - [Amaranthe - Hunger \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/1028446#osu/2206921)
@@ -248,7 +248,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Round of 32
 
-**[Download the mappack here! (101 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-ro32-C86401FF.zip)**
+**[Download the mappack here! (101 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-ro32-C86401FF.zip "Mirai")**
 
 - NoMod
   - [sakuzyo feat. Hatsune Miku - ChaiN De/structioN \[Loneliness\]](https://osu.ppy.sh/beatmapsets/49071#osu/154165)
@@ -490,7 +490,7 @@ The ruleset for this tournament is: Scorev2, Team VS in osu! standard.
 
 ### Tournament registration
 
-All the players are required to register on [mirai.gg](https://mirai.gg/). On the website, players login using their osu! account and connect it to their discord account. Once all the players of a team have joined the team captain can create the team on the website. The BWS rank verification of all the players takes place once the captain has finalized the team.
+All the players are required to register on [mirai.gg](https://mirai.gg/ "Mirai"). On the website, players login using their osu! account and connect it to their discord account. Once all the players of a team have joined the team captain can create the team on the website. The BWS rank verification of all the players takes place once the captain has finalized the team.
 
 Another BWS rank verification takes place on the day of the sign up deadline to ensure all the players are within rank range.
 

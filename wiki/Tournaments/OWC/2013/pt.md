@@ -110,7 +110,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 
 ### Final
 
-**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
+**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar "MediaFire")**
 
 - NoMod
   - [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
@@ -144,7 +144,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 
 ### Semi-final
 
-**[Clique aqui para baixar o pack!](https://www.mediafire.com/?pn3yxce7m6v4j13)**
+**[Clique aqui para baixar o pack!](https://www.mediafire.com/?pn3yxce7m6v4j13 "MediaFire")**
 
 - NoMod
   - [CON - Cruel Clocks (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76882#osu/216272)
@@ -178,7 +178,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 
 ### Quartas de final
 
-**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
+**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar "MediaFire")**
 
 - NoMod
   - [xi - Time files (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/49843#osu/153484)
@@ -212,7 +212,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 
 ### Oitavas de final
 
-**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
+**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar "MediaFire")**
 
 - NoMod
   - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/43248#osu/135804)
@@ -246,7 +246,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 
 ### Fase de Grupos
 
-**[Clique aqui para baixar o pack](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
+**[Clique aqui para baixar o pack](https://www.mediafire.com/?jn0c8p6wqfrtfhb "MediaFire")**
 
 - NoMod
   - [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w) \[YuruYuri\]](https://osu.ppy.sh/beatmapsets/45316#osu/153418)
@@ -316,7 +316,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
    1. O tamanho máximo de uma equipe é 8 jogadores.
    2. Você deverá especificar um capitão para representar a equipe.
 2. Cada equipe representa uma nação. Você deverá formar uma equipe com jogadores do mesmo país.
-3. Para inscrição de equipes,[preencha este formulário](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Então, verifique sua inscrição [enviando uma PM para o Loctav](https://osu.ppy.sh/home/messages/users/71366) entitulada “OWC Registration”
+3. Para inscrição de equipes,[preencha este formulário](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform "Google Forms"). Então, verifique sua inscrição [enviando uma PM para o Loctav](https://osu.ppy.sh/home/messages/users/71366) entitulada “OWC Registration”
    - Capitães podem mudar o esquema do time [avisando a Administração](https://osu.ppy.sh/home/messages/users/71366).
 4. Qualquer inscrição de mudança será checada pela Administração do Torneio antes de ser aceita e adicionada à lista de participantes.
 5. O número de equipes será de 32. Quem chegar primeiro, fica com a vaga.

@@ -35,7 +35,7 @@ The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) was an expert worldw
 
 ![](img/badge.jpg "EGTS 2020 winner badge")
 
-Cash prizes were all provided by [Giveaway Cuties](https://discord.gg/f44GmgB) group and GTS-themed mousepads were sponsored and produced by [Foxbox](https://foxbox.io/).
+Cash prizes were all provided by [Giveaway Cuties](https://discord.gg/f44GmgB "Discord") group and GTS-themed mousepads were sponsored and produced by [Foxbox](https://foxbox.io/ "Foxbox").
 
 ![](img/mousepad_first.jpg "EGTS 2020 1st place mousepad design")
 
@@ -62,12 +62,12 @@ The Expert Global Taiko Showdown 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1062772)
-- [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/)
+- [GTS Discord server](https://discord.gg/3mGC3HB "Discord")
+- [GTS website](https://gtsosu.com/ "GTS")
 - Livestream
-  - [GTSosu](https://www.twitch.tv/gtsosu)
-  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
-- [Challonge brackets](https://challonge.com/EGTS2020)
+  - [GTSosu](https://www.twitch.tv/gtsosu "Twitch")
+  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b "Twitch")
+- [Challonge brackets](https://challonge.com/EGTS2020 "Challonge")
 
 ## Participants
 
@@ -114,7 +114,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (104 MB)](https://mega.nz/file/aclVlQwS#fGyyyAO-YKyrfonIwF-UvjVxuynRf-yRrPcXlFw4AtY)**
+**[Download the mappack here! (104 MB)](https://mega.nz/file/aclVlQwS#fGyyyAO-YKyrfonIwF-UvjVxuynRf-yRrPcXlFw4AtY "MEGA")**
 
 - NoMod
   - [Kobaryo - Sugary Meteor (ikin5050) \[Candy Comet\]](https://osu.ppy.sh/beatmapsets/1164072#taiko/2428352)
@@ -144,7 +144,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (114 MB)](https://mega.nz/file/wMQgSAqR#wC-Vu9lT-2IBHaCbQARRNg6Ie8UqfWnMSE_QtBFkS98)**
+**[Download the mappack here! (114 MB)](https://mega.nz/file/wMQgSAqR#wC-Vu9lT-2IBHaCbQARRNg6Ie8UqfWnMSE_QtBFkS98 "MEGA")**
 
 - NoMod
   - [Disarmonia Mundi - Clay of Hate (Mew104) \[Defiance\]](https://osu.ppy.sh/beatmapsets/426802#taiko/921457)
@@ -174,7 +174,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (146 MB)](https://mega.nz/file/tkUHQAjR#2k1H5DMRaY4cwsSDrMX1zM3MjxV0ZU9m-_J2sf-6f-I)**
+**[Download the mappack here! (146 MB)](https://mega.nz/file/tkUHQAjR#2k1H5DMRaY4cwsSDrMX1zM3MjxV0ZU9m-_J2sf-6f-I "MEGA")**
 
 - NoMod
   - [KASAI HARCORES - CYCLE HIT (offbeat swap edit) (Midnaait) \[Streki\]](https://osu.ppy.sh/beatmapsets/996644#taiko/2084655)
@@ -204,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (75 MB)](https://mega.nz/file/slcQgCIT#0RqamEOOC5qARyfbVBgQJPkj_nhXBVIlQSGv2Xxcv9M)**
+**[Download the mappack here! (75 MB)](https://mega.nz/file/slcQgCIT#0RqamEOOC5qARyfbVBgQJPkj_nhXBVIlQSGv2Xxcv9M "MEGA")**
 
 - NoMod
   - [lapix - Carry Me Away (Extended Mix) (juanilp4evr) \[Oni\]](https://osu.ppy.sh/beatmapsets/835912#taiko/1750641)
@@ -230,7 +230,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (78 MB)](https://mega.nz/file/QxtHyCaS#rk1W0mK1WpvzHUnNUf3H_klW3NimfDtjCFKgjplds94)**
+**[Download the mappack here! (78 MB)](https://mega.nz/file/QxtHyCaS#rk1W0mK1WpvzHUnNUf3H_klW3NimfDtjCFKgjplds94 "MEGA")**
 
 - NoMod
   - [Camellia - Kono Hoshi de... (\_DUSK\_) \[Raph's Inner Oni\]](https://osu.ppy.sh/beatmapsets/773105#taiko/1625231)
@@ -255,7 +255,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (61 MB)](https://mega.nz/file/9ssTSZ6J#EcuBoSKqbP5jmmXzMIOaq8enDEHwKWJxszktBglurlA)**
+**[Download the mappack here! (61 MB)](https://mega.nz/file/9ssTSZ6J#EcuBoSKqbP5jmmXzMIOaq8enDEHwKWJxszktBglurlA "MEGA")**
 
 - NoMod
   - [Feryquitous - Lifill (SKSalt) \[Lifill Oni\]](https://osu.ppy.sh/beatmapsets/455031#taiko/975429)
@@ -280,7 +280,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (83 MB)](https://mega.nz/file/NhsX1DTK#ckqXprnucBJI39-xweZF8PkFKshLIQfSX7Rl2kGglNQ)**
+**[Download the mappack here! (83 MB)](https://mega.nz/file/NhsX1DTK#ckqXprnucBJI39-xweZF8PkFKshLIQfSX7Rl2kGglNQ "MEGA")**
 
 - NoMod
   - [Omoi - Teo (asuasu\_yura) \[Expert\]](https://osu.ppy.sh/beatmapsets/799079#taiko/1677846)
@@ -305,7 +305,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (20 MB)](https://mega.nz/file/Up932KQS#LK5botTXGb5SwHu-P0aI5xHegT8WmXbQpN1Dm5Fb_74)**
+**[Download the mappack here! (20 MB)](https://mega.nz/file/Up932KQS#LK5botTXGb5SwHu-P0aI5xHegT8WmXbQpN1Dm5Fb_74 "MEGA")**
 
 - NoMod
   - [BlackY - KITTY FOILED (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/903288#taiko/1885701)
@@ -656,7 +656,7 @@ Sunday, 7 June 2020:
 | #90 | ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120) | 89.6 |
 
 - Only the top 64 player could proceed to the Group Stage
-- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1YrRmgfxLQABYzPVxNZhw5n32R_UZEUwKIIbVh3PQctg/edit?usp=sharing)
+- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1YrRmgfxLQABYzPVxNZhw5n32R_UZEUwKIIbVh3PQctg/edit?usp=sharing "Google Sheets")
 - Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
@@ -668,7 +668,7 @@ Sunday, 7 June 2020:
 3. The scoring system that will be used is **ScoreV2**.
 4. Any members of staff apart from the **Organiser, Map Selector, and Referees** are allowed to play.
 5. Players and staff members must read this ruleset entirely beforehand.
-6. Players who are on the [GTS blacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ZTkA7f3Z_ApxUPtHKkdXncl_RVLA3pwFFsx-Me1RmJ4QpqsoUii-veVw00XJDYtV1XfJEgy7wfw0/pubhtml), specifically noted on the `Kasumii's Blacklist` sheet, **aren't permitted** entry in this tournament until the designated date on the spreadsheet.
+6. Players who are on the [GTS blacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ZTkA7f3Z_ApxUPtHKkdXncl_RVLA3pwFFsx-Me1RmJ4QpqsoUii-veVw00XJDYtV1XfJEgy7wfw0/pubhtml "Google Sheets"), specifically noted on the `Kasumii's Blacklist` sheet, **aren't permitted** entry in this tournament until the designated date on the spreadsheet.
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist within the tournament. This rule concerns all the staff as well.
 8. Any rule changes or unexpected occurrences will be announced in the discussion thread and in the GTS Discord server.
 

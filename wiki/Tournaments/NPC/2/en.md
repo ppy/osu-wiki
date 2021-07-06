@@ -52,10 +52,10 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1051009)
-- [NPC Discord server](https://discord.gg/Zjb3jR9)
-- [Livestream](https://www.twitch.tv/npc_tournaments)
-- [Challonge bracket](https://challonge.com/wne60mu5)
-- **[Statistic sheet](https://docs.google.com/spreadsheets/d/1j8fp6zK0Z9cQWv-xwqFfEmvsrHIzqRnru7kovr2P05o/edit?usp=sharing)**
+- [NPC Discord server](https://discord.gg/Zjb3jR9 "Discord")
+- [Livestream](https://www.twitch.tv/npc_tournaments "Twitch")
+- [Challonge bracket](https://challonge.com/wne60mu5 "Challonge")
+- **[Statistic sheet](https://docs.google.com/spreadsheets/d/1j8fp6zK0Z9cQWv-xwqFfEmvsrHIzqRnru7kovr2P05o/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 

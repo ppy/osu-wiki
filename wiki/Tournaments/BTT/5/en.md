@@ -56,10 +56,10 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/994702)
-- [BTT Discord server](https://discord.gg/EYAqSWH)
-- [Livestream](https://twitch.tv/beginnerstaikotournament)
-- [Challonge brackets](https://challonge.com/BTTS5)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6QPdOsvVXvpXcjTrqOvaQESu0LpH3HAd9QxsYMbDa7xAatXc8X3hnmmDZSxfTLtAZz-WArFbTbm8_/pubhtml)**
+- [BTT Discord server](https://discord.gg/EYAqSWH "Discord")
+- [Livestream](https://twitch.tv/beginnerstaikotournament "Twitch")
+- [Challonge brackets](https://challonge.com/BTTS5 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6QPdOsvVXvpXcjTrqOvaQESu0LpH3HAd9QxsYMbDa7xAatXc8X3hnmmDZSxfTLtAZz-WArFbTbm8_/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -99,7 +99,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Grand Finals
 
-**[Download the mappack here! (103 MB)](https://mega.nz/#!PmxFGZiT!OP-7oyHKNDx-JNDIcDOCrSa9hLmBxpxwPaWoj7XnYeQ)**
+**[Download the mappack here! (103 MB)](https://mega.nz/#!PmxFGZiT!OP-7oyHKNDx-JNDIcDOCrSa9hLmBxpxwPaWoj7XnYeQ "MEGA")**
 
 - NoMod
   - [Sasaki Sayaka - Marine Blue ni Sotte (El SolarBeam) \[Nardo's Oni\]](https://osu.ppy.sh/beatmapsets/182129#taiko/458209)
@@ -128,7 +128,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (89 MB)](https://mega.nz/#!GvpUASYZ!8RvQyFOehDfIPSqOCHMivyA6DF_A6IxjjBDU5Jrbe8Y)**
+**[Download the mappack here! (89 MB)](https://**
 
 - NoMod
   - [Camellia - Kono Hoshi de.... (Raytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/968455#taiko/2029214)
@@ -157,7 +157,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (80 MB)](https://mega.nz/#!L7QV2QpB!15F8SowJJiZlP1EC-mwXjWgYq2fruTV8mY7Uuy5RE94)**
+**[Download the mappack here! (80 MB)](https://mega.nz/#!L7QV2QpB!15F8SowJJiZlP1EC-mwXjWgYq2fruTV8mY7Uuy5RE94 "MEGA")**
 
 - NoMod
   - [sky\_delta - Grenade (Nerova Riuz GX) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/920666#taiko/1944057)
@@ -186,7 +186,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://mega.nz/#!H6ARHSib!axE0rqbekmpRNHrhjGBUSZ0A8Xv4yLa1QIJNCVnBBPk)**
+**[Download the mappack here! (83 MB)](https://mega.nz/#!H6ARHSib!axE0rqbekmpRNHrhjGBUSZ0A8Xv4yLa1QIJNCVnBBPk "MEGA")**
 
 - NoMod
   - [Krewella X DISKORD - Beggars (Consouls Remix) (Shadren) \[Remus' Muzukashii\]](https://osu.ppy.sh/beatmapsets/539203#taiko/1231261)
@@ -212,7 +212,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (72 MB)](https://mega.nz/#!D34yhKZD!TWF4xkDiIYn2R5O-d00O07jdr15JAbVQ0gYrSxzjy98)**
+**[Download the mappack here! (72 MB)](https://mega.nz/#!D34yhKZD!TWF4xkDiIYn2R5O-d00O07jdr15JAbVQ0gYrSxzjy98 "MEGA")**
 
 - NoMod
   - [Meramipop - Super nuko ni naritai (RRRRR) \[5R's Futsuu\]](https://osu.ppy.sh/beatmapsets/536000#taiko/1186360)
@@ -238,7 +238,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Round of 32
 
-**[Download the mappack here! (61 MB)](https://mega.nz/#!DiRkkAJT!NPi86PCiZjwK8VU9B_KUvAdPRPqBmR5d-KKofjHULhQ)**
+**[Download the mappack here! (61 MB)](https://mega.nz/#!DiRkkAJT!NPi86PCiZjwK8VU9B_KUvAdPRPqBmR5d-KKofjHULhQ "MEGA")**
 
 - NoMod
   - [MY FIRST STORY - Missing You (Chromoxx) \[Taikocracy's Futsuu\]](https://osu.ppy.sh/beatmapsets/580146#taiko/1522858)
@@ -262,7 +262,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here! (62 MB)](https://mega.nz/#!j2hQlACQ!ZZNo2R4nSJXr15I_qv18oB5JQdlswj2X7WgHZ7QO38w)**
+**[Download the mappack here! (62 MB)](https://mega.nz/#!j2hQlACQ!ZZNo2R4nSJXr15I_qv18oB5JQdlswj2X7WgHZ7QO38w "MEGA")**
 
 - NoMod
   - [Camellia feat. Nanahira - Kansoku Eisei (Nardoxyribonucleic) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/927544#taiko/1945196)
@@ -286,7 +286,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Qualifiers
 
-**[Download the mappack here! (22 MB)](https://mega.nz/#!CnhFiCha!wYPLpKlqlluFNO8gnTmqTSKW_qeU0J-I0bWJKsdLx_Y)**
+**[Download the mappack here! (22 MB)](https://mega.nz/#!CnhFiCha!wYPLpKlqlluFNO8gnTmqTSKW_qeU0J-I0bWJKsdLx_Y "MEGA")**
 
 - NoMod
   - [PSYQUI - Raise Your Hands feat. Such (SKSalt) \[JuDa's Futsuu\]](https://osu.ppy.sh/beatmapsets/910078#taiko/1920528)

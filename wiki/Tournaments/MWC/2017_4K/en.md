@@ -49,8 +49,8 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -112,7 +112,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (123MB)](http://www.mediafire.com/file/jho7mgavbd8ktlo/MWC4K_2017_Finals.rar)**
+**[Download the mappack here! (123MB)](http://www.mediafire.com/file/jho7mgavbd8ktlo/MWC4K_2017_Finals.rar "MediaFire")**
 
 - FreeMod
   - [Mick Gordon - The Mastermind (Pope Gadget) \[Brainstorm\]](https://osu.ppy.sh/beatmapsets/663258#mania/1403911)
@@ -135,7 +135,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (90MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar)**
+**[Download the mappack here! (90MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar "MediaFire")**
 
 - FreeMod
   - [9mm Parabellum Bullet - Punishment (Valedict) \[Retribution\]](https://osu.ppy.sh/beatmapsets/532682#mania/1128678)
@@ -157,7 +157,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (88MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar)**
+**[Download the mappack here! (88MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar "MediaFire")**
 
 - FreeMod
   - [BABYMETAL - Road of Resistance (hi19hi19) \[Uprising\]](https://osu.ppy.sh/beatmapsets/649356#mania/1375744)
@@ -178,7 +178,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar)**
+**[Download the mappack here! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar "MediaFire")**
 
 - FreeMod
   - [hyi - you can recover (Valedict) \[restoration\]](https://osu.ppy.sh/beatmapsets/566156#mania/1199287)
@@ -199,7 +199,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar)**
+**[Download the mappack here! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar "MediaFire")**
 
 - Freemod
   - [Lifetheory - Daisy (Tidek) \[Life (Insane)\]](https://osu.ppy.sh/beatmapsets/323163#mania/718401)

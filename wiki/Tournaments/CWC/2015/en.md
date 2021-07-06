@@ -48,9 +48,9 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/316279)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Team Captains showcase on YouTube](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp)
-- **[Statistics sheet](https://owc.nicarim.pw/results/view/5)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Team Captains showcase on YouTube](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp "YouTube")
+- **[Statistics sheet](https://owc.nicarim.pw/results/view/5 "Nicarim")**
 
 ## Participants
 
@@ -108,7 +108,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (157 MB)](https://www.mediafire.com/download/7ywwybasjwgav0d/CWC_2015_finals.rar)**
+**[Download the mappack here! (157 MB)](https://www.mediafire.com/download/7ywwybasjwgav0d/CWC_2015_finals.rar "MediaFire")**
 
 - NoMod
   - [Zips - Reiwai Terrorism (Broccoly) \[Distortion\]](https://osu.ppy.sh/beatmapsets/101953#fruits/269773)
@@ -137,7 +137,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (114 MB)](https://www.mediafire.com/download/a4dctyubgyoakic/CWC_2015_Semifinals.rar)**
+**[Download the mappack here! (114 MB)](https://www.mediafire.com/download/a4dctyubgyoakic/CWC_2015_Semifinals.rar "MediaFire")**
 
 - NoMod
   - [Fear, and Loathing in Las Vegas - Swing It](https://osu.ppy.sh/beatmapsets/204159#fruits/482147)
@@ -166,7 +166,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (185 MB)](https://www.mediafire.com/download/6vo4z84r9cn68kv/CWC+2015+QuarterFinals.rar)**
+**[Download the mappack here! (185 MB)](https://www.mediafire.com/download/6vo4z84r9cn68kv/CWC+2015+QuarterFinals.rar "MediaFire")**
 
 - NoMod
   - [Linked Horizon - Guren no Yumiya (TV Size) (eldnl) \[Overdose\]](https://osu.ppy.sh/beatmapsets/103150#fruits/326464)
@@ -195,7 +195,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (137 MB)](https://www.mediafire.com/download/sn1i72g5fq1fhnb/CWC_2015_Round_of_16.rar)**
+**[Download the mappack here! (137 MB)](https://www.mediafire.com/download/sn1i72g5fq1fhnb/CWC_2015_Round_of_16.rar "MediaFire")**
 
 - NoMod
   - [KAZAHA - Sajin no kanata he (Drafura) \[Rain\]](https://osu.ppy.sh/beatmapsets/158706#fruits/388088)
@@ -224,7 +224,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here! (168 MB)](https://www.mediafire.com/download/2vadd4tk50y1mz1/CWC_2015_Group_Stage.rar)**
+**[Download the mappack here! (168 MB)](https://www.mediafire.com/download/2vadd4tk50y1mz1/CWC_2015_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [sasakure.UK - Jack-the-Ripper (Sprosive) \[JackHasCome!\]](https://osu.ppy.sh/beatmapsets/23907#fruits/81560)

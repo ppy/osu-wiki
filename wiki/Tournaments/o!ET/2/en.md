@@ -377,7 +377,7 @@ This competition has come to an end and resulted in the following podium:
   - [Yousei Teikoku - Gekkakou (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/737644#osu/1569410)
   - [Girl's Day - I Miss You (Joey) \[Joey's Insane\]](https://osu.ppy.sh/beatmapsets/273477#osu/621281)
 - FreeMod
-  - [M2U - Nightmare (Lesjuh) \[Lesjuh's Insane\]](http://bloodcat.com/osu/s/5139)
+  - [M2U - Nightmare (Lesjuh) \[Lesjuh's Insane\]](http://bloodcat.com/osu/s/5139 "Bloodcat")
   - [Umeboshi Chazuke - Owari to Hajimari no Oto (Battquif) \[Batt's Extra\]](https://osu.ppy.sh/beatmapsets/739551#osu/1570760)
   - [Akiakane - FlashBack (Kiiwa) \[Insane\]](https://osu.ppy.sh/beatmapsets/54672#osu/166126)
 - Tiebreaker

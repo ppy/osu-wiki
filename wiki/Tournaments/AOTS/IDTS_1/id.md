@@ -49,9 +49,9 @@ Indonesian Taiko Showdown dapat berlangsung dikarenakan berbagai anggota komunit
 ## Tautan
 
 - [Topik diskusi](https://osu.ppy.sh/community/forums/topics/576070)
-- [Siaran langsung](https://www.twitch.tv/osutaikoshowdown)
-- [Skins Indonesian Taiko Showdown](https://puu.sh/whPiI/0fd221d5fa.zip)
-- **[Lembar statistik](https://docs.google.com/spreadsheets/d/1MEkIzPxnb95kHoVRU6OWczhxPsl93RwSXsKSgdkopyE/pubhtml)**
+- [Siaran langsung](https://www.twitch.tv/osutaikoshowdown "Twitch")
+- [Skins Indonesian Taiko Showdown](https://puu.sh/whPiI/0fd221d5fa.zip "puush")
+- **[Lembar statistik](https://docs.google.com/spreadsheets/d/1MEkIzPxnb95kHoVRU6OWczhxPsl93RwSXsKSgdkopyE/pubhtml "Google Sheets")**
 
 ---
 
@@ -91,7 +91,7 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 **Mappool ini digunakan saat Babak Final dan Grand Final.**
 
-**[Unduh mappack di sini! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cFpJQUNvRzJKQlU/view?usp=sharing)**
+**[Unduh mappack di sini! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cFpJQUNvRzJKQlU/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Morimori Atsushi - Applique (TKS) \[test\]](https://osu.ppy.sh/beatmaps/616247&m=1)
@@ -118,7 +118,7 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 ### Semifinal
 
-**[Unduh mappack di sini! (70 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3VXNEQTZvMHYxems/view?usp=sharing])**
+**[Unduh mappack di sini! (70 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3VXNEQTZvMHYxems/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Memme - Avalanche (Love) \[Love\]](https://osu.ppy.sh/beatmaps/759835&m=1)
@@ -145,7 +145,7 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 ### Perempat Final
 
-**[Unduh mappack di sini! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3SUkxUVNMYlhOWkk/view?usp=sharing)**
+**[Unduh mappack di sini! (83 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3SUkxUVNMYlhOWkk/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [t+pazolite - Tomorrow Perfume (tpz Despair Remix) (Nardoxyribonucleic) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmaps/968416&m=1)
@@ -172,7 +172,7 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 ### 16 Besar
 
-**[Unduh mappack di sini! (56 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3UWZvMG9YeGtKbnc/view?usp=sharing)**
+**[Unduh mappack di sini! (56 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3UWZvMG9YeGtKbnc/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Memme - Starving Days (Charless445) \[Oni445\]](https://osu.ppy.sh/beatmaps/385907&m=1)
@@ -199,7 +199,7 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 ### Babak Grup
 
-**[Unduh mappack di sini! (118 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cEJubDVQeVJDY28/view?usp=sharing)**
+**[Unduh mappack di sini! (118 MB)](https://drive.google.com/file/d/0BzeQ-0M9kba3cEJubDVQeVJDY28/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Camellia - Routing (MMzz) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/821900&m=1)

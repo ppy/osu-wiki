@@ -48,8 +48,8 @@ The osu!taiko World Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/881546)
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet](https://bit.ly/2Z92mAw)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbRHUw1tLZ0o4PpmjLh02Nea4L_uxdZMbBRqfoTAOPkx5O9xocPVCvoNyt_uYzcyXJtHKY47PrkZHX/pubhtml "Google Sheets")**
 
 ## Participants
 
