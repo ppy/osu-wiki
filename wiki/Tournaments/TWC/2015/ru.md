@@ -42,8 +42,6 @@ outdated: true
 | Комментаторы | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Статистик | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Участники
 
 **Due to the massive new registrations, the rosters will be redecided by many captains. Please wait until the 23rd February 2015 to check out the new finalized rosters!**
@@ -52,8 +50,6 @@ outdated: true
 
 - [Тема на форуме](https://osu.ppy.sh/community/forums/topics/279723)
 - [osu! Taiko World Cup 2015 на Twitch](https://www.twitch.tv/osulive "Twitch")
-
----
 
 ## Правила
 

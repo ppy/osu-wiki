@@ -62,8 +62,6 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 - [SOFT Discord server](https://discord.gg/qd575a3 "Discord")
 - [Challonge](https://challonge.com/SOFT5 "Challonge")
 
----
-
 ## Participants
 
 ### Qualified participants
@@ -96,8 +94,6 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 | **O** | ![][flag_BR] SillyFangirl | ![][flag_IT] Jeersy | ![][flag_GB] PikachuNick | ![][flag_FR] Ping36 |
 | **P** | ![][flag_FR] Auraah | ![][flag_US] TTenko | ![][flag_NL] Bakuretsue | ![][flag_TH] Freshky |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -107,8 +103,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] [**\[GS\]Myuka**](https://osu.ppy.sh/users/10072733) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] [**SillyFangirl**](https://osu.ppy.sh/users/2288363) |
-
----
 
 ## Mappools
 
@@ -626,8 +620,6 @@ Sunday, 14 March 2021:
 ### Qualifiers
 
 The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/110aVysi6hBh6BAXs1_UJUaA5od589SXUSLJzc4Xcamk/edit?usp=sharing "Google Sheets").
-
----
 
 ## Ruleset
 

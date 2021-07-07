@@ -58,8 +58,6 @@ The Catch French Cup 2018 was run by various community members.
 | **C** | ![][flag_FR] [Sounny](https://osu.ppy.sh/users/7326109) | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913) | ![][flag_FR] [I Sora I](https://osu.ppy.sh/users/4843750) |
 | **D** | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [RemSuckMyDuck](https://osu.ppy.sh/users/1698323) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -69,8 +67,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
-
----
 
 ## Mappools
 
@@ -227,8 +223,6 @@ This competition has come to an end and resulted in the following podium:
   - [DWB feat. Fade - One Reason (TV Size) (Sieg) \[Insane\]](https://osu.ppy.sh/beatmapsets/100892#fruits/323797)
 - Tiebreaker
   - **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Ascendance) \[Ascendance's Reunion\]](https://osu.ppy.sh/beatmapsets/544468#fruits/1161865)**
-
----
 
 ## Rules
 

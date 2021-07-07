@@ -50,8 +50,6 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 - [Livestream](https://www.twitch.tv/polishosumania "Twitch")
 - [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv "Discord")
 
----
-
 ## Participants
 
 ### Qualified participants
@@ -75,8 +73,6 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 | **G** | ![][flag_PL] - gero - | ![][flag_PL] PoweR\_LendzeR | ![][flag_PL] capsafangirl |
 | **H** | ![][flag_PL] Jakub Janda | ![][flag_PL] Justin14p | ![][flag_PL] Felix27 |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -86,8 +82,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [**- gero -**](https://osu.ppy.sh/users/5068537) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
-
----
 
 ## Mappools
 
@@ -206,8 +200,6 @@ This competition has come to an end and resulted in the following podium:
   - [tieff - Sunflower (SitekX) \[Stage 2: Pride\]](https://osu.ppy.sh/beatmapsets/1060147#mania/2219795)
   - [OtoChi2 - Big Fish (Benzopirene) \[Stage 3: Balance\]](https://osu.ppy.sh/beatmapsets/1060141#mania/2219785)
   - [Re:gats& - No Prayer (Benzopirene) \[Stage 4: Aptitude\]](https://osu.ppy.sh/beatmapsets/1060140#mania/2219784)
-
----
 
 ## Match results
 
@@ -365,8 +357,6 @@ Sunday, 17 November 2019:
 ### Qualifiers
 
 The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-4z3wcwDb6UEXY-s7Dl90IF6VL1XYJrlZtA8kFgCh3lexRIOGIRrvjVpSMFZViy7tC9EewNQSUD3-/pubhtml "Google Sheets").
-
----
 
 ## Ruleset
 

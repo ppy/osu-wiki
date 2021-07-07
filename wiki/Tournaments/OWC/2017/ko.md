@@ -47,8 +47,6 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 - [라이브 스트림](https://www.twitch.tv/osulive "Twitch")
 - [참가 신청](https://osu.ppy.sh/community/tournaments/12)
 
----
-
 ## 참가 국가
 
 ### 확정된 팀
@@ -94,8 +92,6 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 | ![][flag_FR] | **프랑스** | [Musty](https://osu.ppy.sh/users/251683) |
 | ![][flag_PH] | **필리핀** | [HaruTachi-](https://osu.ppy.sh/users/6244066) |
 | ![][flag_US] | **미국** | [Toy](https://osu.ppy.sh/users/2757689) |
-
----
 
 ## 규칙
 

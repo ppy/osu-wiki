@@ -57,8 +57,6 @@ The Speed of Light Mania Tournament was run by various community members.
 - [Challonge brackets](https://challonge.com/solmt "Challonge")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1IlUz5hDqyxMaQgpdhz70Y_EiTUJFKL7w_ehvmGgtY6k/edit#gid=152741005 "Google Sheets")**
 
----
-
 ## Participants
 
 ### Qualified participants
@@ -91,8 +89,6 @@ The Speed of Light Mania Tournament was run by various community members.
 | **O** | ![][flag_US] dhn | ![][flag_RU] N1ckn1ght | ![][flag_CO] Cansta | ![][flag_US] Lights |
 | **P** | ![][flag_PE] DaZeRoS | ![][flag_CA] loafusofbread | ![][flag_LV] CrayZigg | ![][flag_US] Dilly\_P |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -102,8 +98,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_BR] [**andreymc**](https://osu.ppy.sh/users/5691061) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] [**cheewee10**](https://osu.ppy.sh/users/4477497) |
-
----
 
 ## Mappools
 

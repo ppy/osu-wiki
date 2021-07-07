@@ -68,8 +68,6 @@ The Game_Osu Tourney 3 was run by various community members by distributing the 
   - [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr "Twitch")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQkxCyBeU6EG2qiHd8ZMrrHYiEm7wxjXCCl73eH8Ttoh7_n9Gz6XfDsm8_tg2Proo9hQR11PATPBGGn/pubhtml "Google Sheets")**
 
----
-
 ## Participants
 
 *Note: Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank. See the Game\_Osu website linked above for more details.*
@@ -141,8 +139,6 @@ The Game_Osu Tourney 3 was run by various community members by distributing the 
 | #766 | ![][flag_MX] [Andros](https://osu.ppy.sh/users/9072586) |
 | #972.71 | ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -154,8 +150,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
 | *4th place* | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | *5th place* | ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144) |
-
----
 
 ## Mappools
 
@@ -364,8 +358,6 @@ This competition has come to an end and resulted in the following podium:
   - [IOSYS - Danzai Yamaxanadu (Zekira) \[Eternal Damnation\]](https://osu.ppy.sh/beatmapsets/13654#osu/50354)
 - Tiebreaker
   - **[Mia REGINA - Choumusubi Amulet (nenpulse bootleg remix) (cococolaco) \[Dispel\]](https://osu.ppy.sh/beatmapsets/719896#osu/1520055)**
-
----
 
 ## Match Results
 
@@ -584,8 +576,6 @@ This competition has come to an end and resulted in the following podium:
 | **Flaven** ![][flag_FR] | **4** | 1 | ![][flag_IT] -Syncro | [#1](https://osu.ppy.sh/community/matches/50503904) |
 | Woey ![][flag_US] | 2 | **4** | ![][flag_PL] **Rafis** | [#1](https://osu.ppy.sh/community/matches/50511189) |
 | lain ![][flag_US] | 1 | **4** | ![][flag_CA] **trev rasher** | [#1](https://osu.ppy.sh/community/matches/50512611) |
-
----
 
 ## Ruleset
 

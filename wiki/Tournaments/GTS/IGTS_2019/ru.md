@@ -62,8 +62,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 - [Сайт Pick'ems](https://pickem.hwc.hr/tournaments/8 "hwchr's pick'em")
 - **[Таблица со статистикой](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing "Google Sheets")**
 
----
-
 ## Участники
 
 |  | Страна | Участники |
@@ -114,8 +112,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | **G** | ![][flag_BR] Бразилия | ![][flag_CL] Чили | ![][flag_ID] Индонезия B | ![][flag_PE] Перу |
 | **H** | ![][flag_HK] Гонконг | ![][flag_PL] Польша B | ![][flag_CO] Колумбия | ![][flag_IE] Ирландия |
 
----
-
 ## Подиум
 
 Данное соревнование подошло к концу, и подиум оказался таковым:
@@ -125,8 +121,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | ![Золотая корона](/wiki/shared/crown-gold.png "1-е место") | ![][flag_HK] Гонконг |
 | ![Cеребряная корона](/wiki/shared/crown-silver.png "2-е место") | ![][flag_US] Соединенные Штаты A |
 | ![Бронзовая корона](/wiki/shared/crown-bronze.png "3-е место") | ![][flag_CL] Чили |
-
----
 
 ## Пул карт
 
@@ -342,8 +336,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 - Tiebreaker
   - **[USAO - Chrono Diver -PENDULUMs- (USAO remix) (QEpicAce) \[-Jordan-'s Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980250#taiko/2051403)**
 
----
-
 ## Результаты матчей
 
 ### Гранд Финалы
@@ -474,8 +466,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | E2 | **Великобритания** ![][flag_GB] | **5** | 4 | ![][flag_US] Соединенные Штаты B | [#1](https://osu.ppy.sh/community/matches/52496157) |
 | F4 | Канада ![][flag_CA] | 4 | **5** | ![][flag_DK] **Дания** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | Великобритания ![][flag_GB] | 1 | **5** | ![][flag_MX] **Мексика** | [#1](https://osu.ppy.sh/community/matches/52489459) |
-
----
 
 ## Правила
 

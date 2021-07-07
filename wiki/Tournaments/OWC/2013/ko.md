@@ -46,16 +46,12 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 | 해설 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | 통계 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 링크
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 - [osu! World Cup Livestream](https://www.twitch.tv/osulive "Twitch")
 - [Statistics Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17 "Google Sheets")
 - [Match Schedule (Quarter-finals)](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdC1QM0hZWndxT05YX3dLdTJTSXg2WXc&usp=drive_web#gid=0 "Google Sheets")
-
----
 
 ## 참가자 명단
 
@@ -111,13 +107,9 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 | ![][flag_SG] Singapore | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
 | ![][flag_VE] Venezuela | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli |
 
----
-
 ## 대진표
 
 ![OWC 2013 brackets](img/bracket.jpg)
-
----
 
 ## 비트맵 풀
 
@@ -289,8 +281,6 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 - Tiebreaker
   - **[DJ Okawari - Luv Letter (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/40071#osu/127363)**
 
----
-
 ## 경기 결과
 
 ### 결승전
@@ -408,8 +398,6 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 | ![][flag_SE] Sweden | 2 - **4** | **Austria** ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/2661584) |
 | ![][flag_KR] **Korea** | **4** - 2 | Chile ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/2662493) |
 | ![][flag_AU] Australia | 1 - **4** | **Brazil** ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/2767400) |
-
----
 
 ## 전체 룰
 

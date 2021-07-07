@@ -52,8 +52,6 @@ The Catch French Intermediate Cup was run by various community members.
 - [Livestream](https://www.twitch.tv/osufrlive "Twitch")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ926pSOvzcKK76hCmzBDuX6oOrbTycMpGJyMz-dPFThLay-JvaywfXPA2MzeeaL9TOvdey8YSHLWVX/pubhtml "Google Sheets")**
 
----
-
 ## Participants
 
 | Seed | Members |
@@ -72,8 +70,6 @@ The Catch French Intermediate Cup was run by various community members.
 | **C** | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) | ![][flag_FR] [floflim](https://osu.ppy.sh/users/5954015) | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
 | **D** | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [Rizhen-](https://osu.ppy.sh/users/6802893) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -83,8 +79,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
-
----
 
 ## Mappools
 
@@ -220,8 +214,6 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Angus And Julia Stone - Big Jet Plane (Matt Neux Remix) (WildOne94, JBHyperion) \[Elevation\]](https://osu.ppy.sh/beatmapsets/344833#fruits/761644)**
 
----
-
 ## Match results
 
 ### Grand Finals
@@ -331,8 +323,6 @@ Monday, 4 March 2019:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | 4L-Chan 3 Porte ![][flag_FR] | 0 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/50018480) |
-
----
 
 ## Ruleset
 

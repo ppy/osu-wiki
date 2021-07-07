@@ -60,8 +60,6 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 - [Challonge brackets](https://challonge.com/AGTS2019 "Challonge")
 - **[Arkusz Statystyk](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing "Google Sheets")**
 
----
-
 ## Uczestnicy
 
 |  | Kraj | Członkowie |
@@ -108,8 +106,6 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 | **E** | ![][flag_KR] Korea Południowa | ![][flag_DE] Niemcy A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Wenezuela |
 | **F** | ![][flag_CA] Kanada | ![][flag_GB] ![][flag_PT] Wielka Brytania/Portugalia | ![][flag_ID] Indonezja A | ![][flag_ID] Indonezja B |
 
----
-
 ## Podium
 
 Turniej dobiegł końca i wynikiem jest następujące podium:
@@ -119,8 +115,6 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | ![Złota Korona](/wiki/shared/crown-gold.png "1 miejsce") | ![][flag_JP] Japonia |
 | ![Srebrna Korona](/wiki/shared/crown-silver.png "2 miejsce") | ![][flag_CA] Kanada |
 | ![Brązowa Korona](/wiki/shared/crown-bronze.png "3 miejsce") | ![][flag_RU] Rosja A |
-
----
 
 ## Mappoole
 
@@ -285,8 +279,6 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
----
-
 ## Wyniki Meczy
 
 ### Wielkie Finały
@@ -383,8 +375,6 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | E4 | **Scandinavia** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] Wenezuela | -win by default- |
 | E5 | Wenezuela ![][flag_VE] | 0 | **5** | ![][flag_DE] **Niemcy A** | -win by default- |
 | D2 | **Brazylia** ![][flag_BR] | **5** | 3 | ![][flag_US] Stany Zjednoczone A | [#1](https://osu.ppy.sh/community/matches/54181034) |
-
----
 
 ## Zasady
 

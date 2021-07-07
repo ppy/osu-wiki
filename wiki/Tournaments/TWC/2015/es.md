@@ -44,14 +44,10 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 | Comentaristas | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Estadistico | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
 - [Tema de Discusion (Solo en inglés)](https://osu.ppy.sh/community/forums/topics/279723)
 - [osu! Taiko World Cup 2015 en Twitch](https://www.twitch.tv/osulive "Twitch")
-
----
 
 ## Set de Reglas
 

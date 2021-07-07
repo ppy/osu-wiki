@@ -60,8 +60,6 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 - [Tableaux Challonge](https://challonge.com/AGTS2019 "Challonge")
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing "Google Sheets")**
 
----
-
 ## Participants
 
 |  | Pays | Membres |
@@ -108,8 +106,6 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 | **E** | ![][flag_KR] Corée du Sud | ![][flag_DE] Allemagne A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavie | ![][flag_VE] Venezuela |
 | **F** | ![][flag_CA] Canada | ![][flag_GB] ![][flag_PT] Royaume-Uni/Portugal | ![][flag_ID] Indonésie A | ![][flag_ID] Indonésie B |
 
----
-
 ## Podium
 
 Cette compétition est maintenant terminée, voici le classement final:
@@ -119,8 +115,6 @@ Cette compétition est maintenant terminée, voici le classement final:
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] Japon |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] Canada |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] Russie A |
-
----
 
 ## Liste des maps
 
@@ -285,8 +279,6 @@ Cette compétition est maintenant terminée, voici le classement final:
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
----
-
 ## Résultats des matchs
 
 ### Grande Finale
@@ -383,8 +375,6 @@ Cette compétition est maintenant terminée, voici le classement final:
 | E4 | **Scandinavie** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] Venezuela | -win by default- |
 | E5 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_DE] **Allemagne A** | -win by default- |
 | D2 | **Brésil** ![][flag_BR] | **5** | 3 | ![][flag_US] États-Unis A | [#1](https://osu.ppy.sh/community/matches/54181034) |
-
----
 
 ## Règles
 

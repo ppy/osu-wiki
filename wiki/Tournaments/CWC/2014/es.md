@@ -49,21 +49,15 @@ La competición ha concluido con el siguiente podio:
 | Comentaristas | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
 | Estadísticas | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
 - [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive "Twitch")
 - [Forma de registro](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI "Google Forms")
 - [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/200185)
 
----
-
 ## Cuadro
 
 ![CWC 2014 brackets](img/bracket.jpg)
-
----
 
 ## Participantes
 
@@ -122,8 +116,6 @@ La competición ha concluido con el siguiente podio:
 | ![][flag_CN] | China | **[Dusk](https://osu.ppy.sh/users/533210)**, [hy1hy1hy](https://osu.ppy.sh/users/243877), [MisakaMikoto](https://osu.ppy.sh/users/434917), [Ibuki Suika](https://osu.ppy.sh/users/290249) |
 | ![][flag_UY] | Uruguay | **[Themaster155](https://osu.ppy.sh/users/1850067)**, [quique95](https://osu.ppy.sh/users/472924), [Truxxxton](https://osu.ppy.sh/users/1379428), [S3B4](https://osu.ppy.sh/users/3437784) |
 | ![][flag_ID] | Indonesia | **[Shurelia](https://osu.ppy.sh/users/3807986)**, [Deceitful](https://osu.ppy.sh/users/1396447), [\_EliteYud\_](https://osu.ppy.sh/users/2365634), [Yoshida Haru-](https://osu.ppy.sh/users/3073351), [- Rii -](https://osu.ppy.sh/users/3734591) |
-
----
 
 ## Mappools
 
@@ -299,8 +291,6 @@ La competición ha concluido con el siguiente podio:
 - Tiebreaker
   - **[Boots Randolph - Yakety Sax (Mashley) \[Ridiculous\]](https://osu.ppy.sh/beatmapsets/17943#fruits/63804)**
 
----
-
 ## Resultados
 
 ### Fase de grupos
@@ -379,8 +369,6 @@ La competición ha concluido con el siguiente podio:
 | :-- | :-: | --: | :-- |
 | ![][flag_SE] **Suecia** | **6** - 5 | Japón ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/7314303) |
 | ![][flag_DE] Alemania | 3 - **6** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/7317343) |
-
----
 
 ## Reglamento
 

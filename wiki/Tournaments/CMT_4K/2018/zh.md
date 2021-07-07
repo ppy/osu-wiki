@@ -56,11 +56,7 @@ tags:
 - [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform "Google Forms")（需科学上网）
 - [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ")
 
----
-
 ![CMT4K2018 podium](img/podium.png)
-
----
 
 ## 图池
 

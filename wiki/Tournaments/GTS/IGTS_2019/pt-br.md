@@ -62,8 +62,6 @@ O Intermediate Global Taiko Showdown 2019 foi realizado por vários membros da c
 - [Suportes do Challonge](https://challonge.com/dqq46siu "Challonge")
 - **[Página de estatísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing "Google Sheets")**
 
----
-
 ## Participantes
 
 |  | País | Membros |
@@ -114,8 +112,6 @@ O Intermediate Global Taiko Showdown 2019 foi realizado por vários membros da c
 | **G** | ![][flag_BR] Brasil | ![][flag_CL] Chile | ![][flag_ID] Indonésia B | ![][flag_PE] Peru |
 | **H** | ![][flag_HK] Hong Kong | ![][flag_PL] Polônia B | ![][flag_CO] Colômbia | ![][flag_IE] Irlanda |
 
----
-
 ## Pódio
 
 Essa competição chegou ao fim e resultou no seguinte pódio:
@@ -125,8 +121,6 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] Hong Kong |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] Estados Unidos A |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] Chile |
-
----
 
 ## Mappools
 
@@ -342,8 +336,6 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 - Tiebreaker
   - **[USAO - Chrono Diver -PENDULUMs- (USAO remix) (QEpicAce) \[-Jordan-'s Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980250#taiko/2051403)**
 
----
-
 ## Resultados das partidas
 
 ### Grande Final
@@ -474,8 +466,6 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 | E2 | **Reino Unido** ![][flag_GB] | **5** | 4 | ![][flag_US] Estados Unidos B | [#1](https://osu.ppy.sh/community/matches/52496157) |
 | F4 | Canadá ![][flag_CA] | 4 | **5** | ![][flag_DK] **Dinamarca** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | Reino Unido ![][flag_GB] | 1 | **5** | ![][flag_MX] **México** | [#1](https://osu.ppy.sh/community/matches/52489459) |
-
----
 
 ## Regras
 

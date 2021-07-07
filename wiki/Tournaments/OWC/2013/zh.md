@@ -46,16 +46,12 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 | 解说 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | 统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 外部链接
 
 - [讨论帖（英文）](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 - [讨论帖（中文）](https://osu.ppy.sh/community/forums/topics/160371)
 - [osu! World Cup 直播录像](https://www.twitch.tv/osulive/profile/pastBroadcasts "Twitch")
 - [分组信息、统计](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web "Google Sheets")
-
----
 
 ## 参赛者
 
@@ -111,13 +107,9 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 | ![][flag_SG] Singapore | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
 | ![][flag_VE] Venezuela | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli |
 
----
-
 ## 淘汰赛对阵
 
 ![OWC 2013 brackets](img/bracket.jpg)
-
----
 
 ## 比赛图池
 
@@ -291,8 +283,6 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 - Tiebreaker
   - **[DJ Okawari - Luv Letter (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/40071#osu/127363)**
 
----
-
 ## 比赛结果
 
 ### 决赛
@@ -410,8 +400,6 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 | ![][flag_SE] Sweden | 2 - **4** | **Austria** ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/2661584) |
 | ![][flag_KR] **Korea** | **4** - 2 | Chile ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/2662493) |
 | ![][flag_AU] Australia | 1 - **4** | **Brazil** ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/2767400) |
-
----
 
 ## 规则部分
 

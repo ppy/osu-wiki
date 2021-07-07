@@ -39,15 +39,11 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 | Commentaires | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) // ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
 | Statistiques | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
 - [osu!mania 2014 sur Twitch](https://www.twitch.tv/osulive "Twitch")
 - [Formulaire d'inscription](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY "Google Forms")
 - [Topic de discussion](https://osu.ppy.sh/community/forums/topics/222100)
-
----
 
 ## Réglement
 

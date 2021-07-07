@@ -63,8 +63,6 @@ The osu! South East Asia Tournament 2 was run by various community members.
 - [Livestream](https://www.twitch.tv/oseatournament "Twitch")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT56JjZkAgaIYF5mOkCiFjzKLkW72bIlzFjX4H5J4GEuXCeebme7QQ3TKouOjTMSRiFTW3yr8nGmdeY/pubhtml "Google Sheets")**
 
----
-
 ## Participants
 
 | Seed | Members |
@@ -96,8 +94,6 @@ The osu! South East Asia Tournament 2 was run by various community members.
 | **O** | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427) | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | ![][flag_MY] [Zygody](https://osu.ppy.sh/users/3677251) | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) | ![][flag_SG] [CryingWaff](https://osu.ppy.sh/users/9768060) |
 | **P** | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | ![][flag_SG] [feces](https://osu.ppy.sh/users/9347706) | ![][flag_TH] [Dcyte](https://osu.ppy.sh/users/2659707) | ![][flag_MY] [alphaplay](https://osu.ppy.sh/users/9304966) | ![][flag_ID] [praguzz](https://osu.ppy.sh/users/5014039) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -109,8 +105,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
 | *4th place* | ![][flag_SG] [Raindrop](https://osu.ppy.sh/users/1155871) |
 | *5th place* | ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) |
-
----
 
 ## Mappools
 
@@ -277,8 +271,6 @@ This competition has come to an end and resulted in the following podium:
 - FreeMod
   - [Tanya Degurechaff (CV: Aoi Yuki) - Los! Los! Los! (Sotarks, Linada) \[Sotarks' Insane ft. Linada\]](https://osu.ppy.sh/beatmapsets/577598#osu/1256899)
   - [Morimori Atsushi - MilK (Xenon) \[Xenon's Insane\]](https://osu.ppy.sh/beatmapsets/848309#osu/1777490)
-
----
 
 ## Match results
 
@@ -738,8 +730,6 @@ Tuesday, 18 December 2018:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_SG] babypliggy | *win by default* |
-
----
 
 ## Ruleset
 

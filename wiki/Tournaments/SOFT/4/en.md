@@ -62,8 +62,6 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 - [SOFT Discord server](https://discord.gg/qd575a3 "Discord")
 - [Challonge](https://challonge.com/SOFT4 "Challonge")
 
----
-
 ## Participants
 
 ### Qualified Participants
@@ -96,8 +94,6 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 | **O** | ![][flag_ID] \[Crz\]Crysarlene | ![][flag_TH] HowToPlayLN | ![][flag_PH] windrush123 | ![][flag_CA] CommandoBlack |
 | **P** | ![][flag_PL] Tidek | ![][flag_FR] Cunu | ![][flag_JP] \[ misa \] | ![][flag_CA] AndyTechGuy |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -107,8 +103,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [**wonder5193**](https://osu.ppy.sh/users/8474029) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [**Toaph Daddy**](https://osu.ppy.sh/users/7616811) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_TH] [**MyZterioN-**](https://osu.ppy.sh/users/8521723) |
-
----
 
 ## Mappools
 

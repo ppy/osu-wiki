@@ -44,8 +44,6 @@ outdated: true
 
 **Комментаторы:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)
 
----
-
 ## Участники
 
 ### Top-seeded
@@ -105,8 +103,6 @@ outdated: true
 ## Полезные ссылки
 
 - [Тред для обсуждения турнира](https://osu.ppy.sh/community/forums/topics/160181/start=0)
-
----
 
 ## Список правил
 

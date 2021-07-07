@@ -88,11 +88,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | **shaky hand** | [Fallen\_HK](https://osu.ppy.sh/users/13981456), [Himman](https://osu.ppy.sh/users/12665894), [McFuddyDuddy](https://osu.ppy.sh/users/8825522), [Player01](https://osu.ppy.sh/users/10194478) |
 | **surprised\_pikachu** | [-Secured-](https://osu.ppy.sh/users/14648196), [Pokeinfernape](https://osu.ppy.sh/users/11412507), [7heGh0st](https://osu.ppy.sh/users/14256252), [Emfyr](https://osu.ppy.sh/users/13445383) |
 
----
-
 ![Mirai2020 bracket](img/bracket.png)
-
----
 
 ## Mappools
 
@@ -289,8 +285,6 @@ The Mirai. Tournament 2020 is run by various community members.
   - [senya - Terasareru kurai no Shiawase \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/747507#osu/1575098)
   - [Creo - Rivals \[deetz' Hard\]](https://osu.ppy.sh/beatmapsets/1012878#osu/2142929)
 
----
-
 ## Match results
 
 ### Grand Finals
@@ -471,8 +465,6 @@ The Mirai. Tournament 2020 is run by various community members.
 | 30 | Baeguette |
 | 31 | Team Sliderbreak |
 | 32 | im pepa gpig |
-
----
 
 ## Ruleset
 

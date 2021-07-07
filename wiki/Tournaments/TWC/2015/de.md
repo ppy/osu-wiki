@@ -42,14 +42,10 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 | Kommentatoren | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiker | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/279723)
 - [osu! Taiko World Cup 2015 auf Twitch](https://www.twitch.tv/osulive "Twitch")
-
----
 
 ## Regelsätze
 

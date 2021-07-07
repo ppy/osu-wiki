@@ -74,8 +74,6 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | **G** | ![][flag_PL] Yamakazi | ![][flag_PL] Modren | ![][flag_PL] LosDaniel |
 | **H** | ![][flag_PL] Selegiline | ![][flag_PL] Hentu | ![][flag_PL] capsafangirl |
 
----
-
 ## Match schedule: Round of 16
 
 Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml "Google Sheets").

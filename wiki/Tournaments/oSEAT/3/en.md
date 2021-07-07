@@ -62,8 +62,6 @@ The osu! South East Asia 3 was run by various community members.
 - [Challonge brackets](https://challonge.com/SEAT3 "Challonge")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1waGkj7eW1oNKF4itjLrNbk0dCviPlXfjw70l0a1U_AA/edit?usp=sharing "Google Sheets")**
 
----
-
 ## Participants
 
 | Seed | Members |
@@ -96,8 +94,6 @@ The osu! South East Asia 3 was run by various community members.
 | O | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206) | ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107) | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) | ![][flag_TH] [muramax](https://osu.ppy.sh/users/10552306) | ![][flag_ID] [D-Rain](https://osu.ppy.sh/users/9925149) |
 | P | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | ![][flag_MY] [blufir\_](https://osu.ppy.sh/users/11134301) | ![][flag_MY] [Tokama Club](https://osu.ppy.sh/users/7321060) | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | ![][flag_MY] [ManzMalaya](https://osu.ppy.sh/users/3999924) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -109,8 +105,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) |
 | *4th place* | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427) |
 | *5th place* | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) |
-
----
 
 ## Mappools
 
@@ -345,8 +339,6 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [Aimer - I beg you (xbopost) \[Lost Butterfly\]](https://osu.ppy.sh/beatmapsets/1029661#osu/2153072)
   - [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#osu/1624401)
-
----
 
 ## Match results
 
@@ -776,8 +768,6 @@ Wednesday, 1 December 2019:
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | M8 | **kezo** ![][flag_VN] | **0** | -1 | ![][flag_VN] Hifivem8 | *win by default* |
-
----
 
 ## Ruleset
 

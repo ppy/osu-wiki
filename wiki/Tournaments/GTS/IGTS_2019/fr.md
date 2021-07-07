@@ -62,8 +62,6 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 - [Site de Pick'em](https://pickem.hwc.hr/tournaments/8 "hwchr's pick'em")
 - **[Sheet de statistiques](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing "Google Sheets")**
 
----
-
 ## Participants
 
 |  | Pays | Membres |
@@ -114,8 +112,6 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 | **G** | ![][flag_BR] Brésil | ![][flag_CL] Chili | ![][flag_ID] Indonésie B | ![][flag_PE] Pérou |
 | **H** | ![][flag_HK] Hong Kong | ![][flag_PL] Pologne B | ![][flag_CO] Colombie | ![][flag_IE] Irlande |
 
----
-
 ## Podium
 
 Cette compétition s'est terminée et a donné le podium ci-dessous:
@@ -125,8 +121,6 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_HK] Hong Kong |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_US] États-Unis A |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_CL] Chili |
-
----
 
 ## Liste des maps
 
@@ -342,8 +336,6 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 - Tiebreaker
   - **[USAO - Chrono Diver -PENDULUMs- (USAO remix) (QEpicAce) \[-Jordan-'s Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980250#taiko/2051403)**
 
----
-
 ## Résultats des matches
 
 ### Grande finale
@@ -474,8 +466,6 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 | E2 | **Royaume-Uni** ![][flag_GB] | **5** | 4 | ![][flag_US] États Unis B | [#1](https://osu.ppy.sh/community/matches/52496157) |
 | F4 | Canada ![][flag_CA] | 4 | **5** | ![][flag_DK] **Danemark** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | Royaume-Uni ![][flag_GB] | 1 | **5** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52489459) |
-
----
 
 ## Règlement
 

@@ -57,8 +57,6 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 - [比賽專用 Discord](https://discord.gg/2xQDbkS "Discord")
 - **[ATS 分析統計](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0 "Google Sheets")**
 
----
-
 ## 參賽者
 
 | Seed | 成員 |
@@ -81,19 +79,13 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | **G** | ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
 | **H** | ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651) | ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981) | ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134) |
 
----
-
 ![ATS 2018 Podium](img/podium.jpg)
-
----
 
 ![ATS 2018 Upper Bracket](img/upper_bracket.jpg)
 
 ![ATS 2018 Lower Bracket](img/lower_bracket.jpg)
 
 ![ATS 2018 GS Participants](img/gs_participants.gif)
-
----
 
 ## 圖池
 
@@ -288,8 +280,6 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 - Tiebreaker
   - **[Demetori - Desire Drive ~ Desire Dream (OnosakiHito) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42234#taiko/135188)**
 
----
-
 ## 比賽結果
 
 ### 總決賽
@@ -424,8 +414,6 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 | EM | **Bedwyr Aorta** ![][flag_MY] | **3** | 0 | ![][flag_ID] Jin Kun | -win by default- |
 | EM | **Taiko\_VN12** ![][flag_VN] | **3** | 0 | ![][flag_PH] -Zephy- | -win by default- |
 | EM | \_CaKy\_ ![][flag_ID] | 0 | **3** | ![][flag_SG] **uchuuj1n** | [#1](https://osu.ppy.sh/community/matches/42923346) |
-
----
 
 ## 規則
 

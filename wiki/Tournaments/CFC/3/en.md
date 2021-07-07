@@ -57,8 +57,6 @@ The Catch French Cup 3 was run by various community members.
 - [Livestream](https://www.twitch.tv/osufrlive "Twitch")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrn8KpDeTO124_IgETpDPOBkI0WGVcvi0KEL0iyeJyxsXGE-3HaHRzIWHLk4llJ1_jEYcshD9ynRG-/pubhtml "Google Sheets")**
 
----
-
 ## Participants
 
 | Seed | Members |
@@ -81,8 +79,6 @@ The Catch French Cup 3 was run by various community members.
 | **G** | ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381) | ![][flag_FR] [GyraFanBoy](https://osu.ppy.sh/users/8417565) | ![][flag_MA] [l3ssili](https://osu.ppy.sh/users/12123746) | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) |
 | **H** | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Mnemosyne](https://osu.ppy.sh/users/9255433) | ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) | ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -92,8 +88,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
-
----
 
 ## Mappools
 
@@ -252,8 +246,6 @@ This competition has come to an end and resulted in the following podium:
   - [Memme - Force of Ra (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/573479#fruits/1214852)
 - Tiebreaker
   - **[CLIFF EDGE - Sayonara I Love You feat. jyA-Me (Minato Yukina) \[Farewell Words\]](https://osu.ppy.sh/beatmapsets/493754#fruits/1051483)**
-
----
 
 ## Match results
 
@@ -421,8 +413,6 @@ Sunday, 16 September 2018:
 | H | Mnemosyne ![][flag_FR] | 0 | **3** | ![][flag_FR] **Aequo3** | *win by default* |
 | H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Astreachan** | [#1](https://osu.ppy.sh/community/matches/46011327) |
 | H | Astreachan ![][flag_FR] | 2 | **3** | ![][flag_FR] **Mnemosyne** | [#1](https://osu.ppy.sh/community/matches/46012156) |
-
----
 
 ## Ruleset
 

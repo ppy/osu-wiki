@@ -36,13 +36,9 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 
 **Commentatori:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/Mr_Color), ![][flag_US] [dkun](https://osu.ppy.sh/users/dkun), ![][flag_US] [Agnes](https://osu.ppy.sh/users/Agnes)
 
----
-
 ## Links
 
 - [Discuti qui](https://osu.ppy.sh/community/forums/topics/160181/start=0)
-
----
 
 ## Regolamento
 

@@ -94,8 +94,6 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] Ecal |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] Ouchiee |
 
----
-
 ## Mappools
 
 ### osu!
@@ -246,8 +244,6 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Tiebreaker
   - **[Grand Thaw - Aventyr (Sephriggorshas) [Hard]](https://osu.ppy.sh/beatmapsets/131691#mania/331525)**
 
----
-
 ## Match Results
 
 ### osu!
@@ -328,8 +324,6 @@ The bracket was cut off early due to time concerns, so later matches switched to
 | **Ouchiee** ![][flag_US] | **3** | 0 | ![][flag_US] MintyYumi | <!-- match link lost --> |
 | **Zushen** ![][flag_US] | **3** | 0 | ![][flag_US] Giraffle | <!-- match link lost --> |
 | **Ecal** ![][flag_US] | **3** | 2 | ![][flag_US] Ouchiee | <!-- match link lost --> |
-
----
 
 ## Ruleset
 

@@ -43,15 +43,11 @@ outdated: true
 | Commentators | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
 | 统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 外部链接
 
 - [osu! Catch the Beat World Cup 2014 Twitch 直播室](https://www.twitch.tv/osulive "Twitch")
 - [注册表单](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI "Google Forms")
 - [讨论帖](https://osu.ppy.sh/community/forums/topics/200185)
-
----
 
 ## 淘汰赛对阵
 
@@ -67,8 +63,6 @@ outdated: true
 | 韩国 ![][flag_KR] | ![][flag_ID] 印度尼西亚/印尼 | **13.00 (1pm)** | 22.00 (10pm) UTC +9 | 20.00 (8pm) UTC +7 |
 | 瑞典 ![][flag_SE] | ![][flag_SG] 新加坡 | **14.00 (2pm)** | 16.00 (4pm) UTC +2 | 22.00 (10pm) UTC +8 |
 | 美国 ![][flag_US] | ![][flag_DE] 德国 | **15.00 (3pm)** | 11.00 (11am) UTC -4 | 17.00 (5pm) UTC +2 |
-
----
 
 ## 参赛者
 
@@ -127,8 +121,6 @@ outdated: true
 | ![][flag_CN] | 中国 | **[Dusk](https://osu.ppy.sh/users/533210)**, [hy1hy1hy](https://osu.ppy.sh/users/243877), [MisakaMikoto](https://osu.ppy.sh/users/434917), [Ibuki Suika](https://osu.ppy.sh/users/290249) |
 | ![][flag_UY] | 乌拉圭 | **[Themaster155](https://osu.ppy.sh/users/1850067)**, [quique95](https://osu.ppy.sh/users/472924), [Truxxxton](https://osu.ppy.sh/users/1379428), [S3B4](https://osu.ppy.sh/users/3437784) |
 | ![][flag_ID] | 印度尼西亚/印尼 | **[Shurelia](https://osu.ppy.sh/users/3807986)**, [Deceitful](https://osu.ppy.sh/users/1396447), [\_EliteYud\_](https://osu.ppy.sh/users/2365634), [Yoshida Haru-](https://osu.ppy.sh/users/3073351), [- Rii -](https://osu.ppy.sh/users/3734591) |
-
----
 
 ## 图池
 
@@ -231,8 +223,6 @@ outdated: true
   - [Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/19789#fruits/69405)
 - Tiebreaker
   - **[nano - Nevereverland (CLSW) \[Crystal\]](https://osu.ppy.sh/beatmapsets/149570#fruits/369563)**
-
----
 
 ## 规则
 

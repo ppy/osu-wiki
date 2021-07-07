@@ -98,8 +98,6 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 ![MWC 4K 2020 颁奖台](img/podium.jpg)
 
----
-
 ## 图池
 
 ### 决赛/总决赛

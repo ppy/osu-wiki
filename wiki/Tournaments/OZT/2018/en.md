@@ -65,8 +65,6 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu! tournament, hosted b
 
 **Team admission will be decided through their PP average**, which means that the teams with the highest PP average will take priority.
 
----
-
 Don't have a team? You're in the right place! Fill in the [**Free Agent Registration Form**](https://docs.google.com/forms/d/e/1FAIpQLSe_QRQlRucnud49Hev5ij18c1f_LM3MNMqOGPzqyWl-jnguew/viewform "Google Forms")! Here, other teams will be able to scout players out, with the possibly of being picked up.
 
 Be aware that becoming a free agent will **not guarantee a spot for playing in the tournament**.

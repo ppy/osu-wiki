@@ -51,8 +51,6 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 - [Challonge](https://challonge.com/oPHN4K19 "Challonge")
 - [osu! Philippines Tournament Discord server](https://discord.gg/9ZUMmwS "Discord")
 
----
-
 ## Participants
 
 | Seed | Players |
@@ -61,8 +59,6 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 | High (#5 - #8) | [Arccat](https://osu.ppy.sh/users/4848294), [Koibenii](https://osu.ppy.sh/users/2471512), [nathan on mania](https://osu.ppy.sh/users/6152404), [Nikana](https://osu.ppy.sh/users/4345491) |
 | Low (#9 - #24) | [Swarmsii](https://osu.ppy.sh/users/11716111), [GTXCZE](https://osu.ppy.sh/users/9209185), [notapplicable](https://osu.ppy.sh/users/7170536), [Captain Cusheen](https://osu.ppy.sh/users/9158337), [ChristsuGaming](https://osu.ppy.sh/users/12203613), [Lordie09](https://osu.ppy.sh/users/10010130), [Shiyui-](https://osu.ppy.sh/users/9374607), [bananacake304](https://osu.ppy.sh/users/3741704), [kraken\_33](https://osu.ppy.sh/users/11379988), [Andrei--](https://osu.ppy.sh/users/7222840), [MiekoYanagi](https://osu.ppy.sh/users/12296324), [wallwap](https://osu.ppy.sh/users/5532163), [PotatoPresser](https://osu.ppy.sh/users/6965801), [vincent4399](https://osu.ppy.sh/users/9764388), [Edison](https://osu.ppy.sh/users/1325159), [pumpiyumpiyummm](https://osu.ppy.sh/users/13928542) |
 | Bottom (#25 - #32) | [didgey](https://osu.ppy.sh/users/11568208), [Loli-Sensei69](https://osu.ppy.sh/users/10994606), [Neoskiie](https://osu.ppy.sh/users/12239110), [Chez](https://osu.ppy.sh/users/4866112), [Batujitsu](https://osu.ppy.sh/users/6402552), [Chiaki-chan](https://osu.ppy.sh/users/9378968), [Xidorn](https://osu.ppy.sh/users/7904667), [Hues](https://osu.ppy.sh/users/2367206) |
-
----
 
 ## Mappools
 
@@ -177,8 +173,6 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
   - [Sampling Masters MEGA - Kattobi KEIKYU Rider (Raveille) \[Airborne Array\]](https://osu.ppy.sh/beatmapsets/977507#mania/2045879)
   - [The Flashbulb - Passage D (SurfChu85) \[labyrinth\]](https://osu.ppy.sh/beatmapsets/977508#mania/2045880)
 
----
-
 ## Match Results
 
 ### Semifinals
@@ -281,8 +275,6 @@ Detailed results for this round are found via [this link](https://docs.google.co
 ### Qualifiers
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/15lbiVX9pzeWakCHoy7p_cYnjCnltKG7C1BXSazZA0xQ/edit?usp=sharing "Google Sheets")
-
----
 
 ## Ruleset
 

@@ -41,16 +41,12 @@ outdated: true
 | 해설 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
 | 통계 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 링크
 
 - [osu! Catch the Beat World Cup 2014 방송 (Twitch)](https://www.twitch.tv/osulive "Twitch")
 - **[조별 예선 결과](https://tournaments.hiroto.eu/results/view/1 "Hiroto")**
 - [신청서](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI "Google Forms")
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/200185)
-
----
 
 ## 대진표
 
@@ -64,8 +60,6 @@ outdated: true
 | :-- | :-- | :-- | :-- | :-- |
 | 독일 ![][flag_DE] | ![][flag_JP] 일본 | **8.00 (8am)** | 10.00 (10am) UTC +2 | 17.00 (5pm) UTC +9 |
 | 스웨덴 ![][flag_SE] | ![][flag_KR] 한국 | **9.00 (9am)** | 11.00 (11am) UTC +2 | 18.00 (6pm) UTC +9 |
-
----
 
 ## 참가자 명단
 
@@ -124,8 +118,6 @@ outdated: true
 | ![][flag_CN] | 중국 | **[Dusk](https://osu.ppy.sh/users/533210)**, [hy1hy1hy](https://osu.ppy.sh/users/243877), [MisakaMikoto](https://osu.ppy.sh/users/434917), [Ibuki Suika](https://osu.ppy.sh/users/290249) |
 | ![][flag_UY] | 우루과이 | **[Themaster155](https://osu.ppy.sh/users/1850067)**, [quique95](https://osu.ppy.sh/users/472924), [Truxxxton](https://osu.ppy.sh/users/1379428), [S3B4](https://osu.ppy.sh/users/3437784) |
 | ![][flag_ID] | 인도네시아 | **[Shurelia](https://osu.ppy.sh/users/3807986)**, [Deceitful](https://osu.ppy.sh/users/1396447), [\_EliteYud\_](https://osu.ppy.sh/users/2365634), [Yoshida Haru-](https://osu.ppy.sh/users/3073351), [- Rii -](https://osu.ppy.sh/users/3734591) |
-
----
 
 ## 비트맵 풀
 
@@ -265,8 +257,6 @@ outdated: true
 - Tiebreaker
   - **[Boots Randolph - Yakety Sax (Mashley) \[Ridiculous\]](https://osu.ppy.sh/beatmapsets/17943#fruits/63804)**
 
----
-
 ## 경기 결과
 
 ### 조별 예선
@@ -331,8 +321,6 @@ outdated: true
 | ![][flag_KR] **한국** | **5** - 2 | 인도네시아 ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6974337) |
 | ![][flag_SE] **스웨덴** | **5** - 4 | 싱가포르 ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6975640) |
 | ![][flag_US] 미국 | 1 - **5** | **독일** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6977532) |
-
----
 
 ## 전체 룰
 

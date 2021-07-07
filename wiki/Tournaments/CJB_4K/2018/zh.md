@@ -52,11 +52,7 @@ tags:
 - [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=5sTdKLp "Tencent QQ")
 - [Challonge](https://challonge.com/zh_CN/cjb4 "Challonge")
 
----
-
 ![CJB 4K 4th Podium](img/podium.jpg)
-
----
 
 ## 图池
 

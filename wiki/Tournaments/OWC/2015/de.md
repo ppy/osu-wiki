@@ -41,15 +41,11 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 | Kommentatoren | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiker | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
 - [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive "Twitch")
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/4550383)
 - [Registrierungsseite](https://osu.ppy.sh/tournaments/2)
-
----
 
 ## Participants
 
@@ -137,8 +133,6 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 | ![][flag_SE] | **Sweden** | **[Xytox](https://osu.ppy.sh/users/2229274 "Xytox")**, [Slizzer](https://osu.ppy.sh/users/809983 "Slizzer"), [SnickarN](https://osu.ppy.sh/users/3258429 "SnickarN"), [AntoN](https://osu.ppy.sh/users/2538562 "AntoN"), [Bubba](https://osu.ppy.sh/users/2330524 "Bubba"), [IVo one](https://osu.ppy.sh/users/3623465 "IVo one"), [Sebbe](https://osu.ppy.sh/users/3181965 "Sebbe"), [Xiniox](https://osu.ppy.sh/users/5233691 "Xiniox") |
 | ![][flag_AT] | **Austria** | **[Fedora Goose](https://osu.ppy.sh/users/2323131 "Fedora Goose")**, [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz"), [Alumetorz](https://osu.ppy.sh/users/1145984 "Alumetorz"), [BlueFlame](https://osu.ppy.sh/users/3506191 "BlueFlame"), [Shirone](https://osu.ppy.sh/users/1426098 "Shirone"), [Elscar](https://osu.ppy.sh/users/2253511 "Elscar"), [Hakkero](https://osu.ppy.sh/users/177913 "Hakkero"), [skritsch](https://osu.ppy.sh/users/3323141 "skritsch") |
 | ![][flag_TW] | **Taiwan** | **[Rucker](https://osu.ppy.sh/users/147515 "Rucker")**, [hvick225](https://osu.ppy.sh/users/50265 "hvick225"), [Small K](https://osu.ppy.sh/users/952751 "Small K"), [YuyuKo sama](https://osu.ppy.sh/users/234788 "YuyuKo sama"), [Uan](https://osu.ppy.sh/users/147623 "Uan"), [dabanlong](https://osu.ppy.sh/users/624254 "dabanlong"), [zxxzxxz](https://osu.ppy.sh/users/1646474 "zxxzxxz"), [RedLeaf](https://osu.ppy.sh/users/2703742 "RedLeaf") |
-
----
 
 ## Regelsätze
 

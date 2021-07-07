@@ -60,8 +60,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 - [Challonge 대진표](https://challonge.com/AGTS2019 "Challonge")
 - **[메인 스프레드시트](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing "Google Sheets")**
 
----
-
 ## 참가자
 
 |  | 국가 | 팀원 |
@@ -108,8 +106,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | **E** | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 A | ![][flag_DK] ![][flag_NO] ![][flag_SE] 스칸디나비아 | ![][flag_VE] 베네수엘라 |
 | **F** | ![][flag_CA] 캐나다 | ![][flag_GB] ![][flag_PT] 영국/포르투갈 | ![][flag_ID] 인도네시아 A | ![][flag_ID] 인도네시아 B |
 
----
-
 ## 순위권
 
 이 대회는 종료되었으며, 순위권에 든 팀은 다음과 같습니다.
@@ -119,8 +115,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | ![금메달](/wiki/shared/crown-gold.png "1등") | ![][flag_JP] 일본 |
 | ![은메달](/wiki/shared/crown-silver.png "2등") | ![][flag_CA] 캐나다 |
 | ![동메달](/wiki/shared/crown-bronze.png "3등") | ![][flag_RU] 러시아 A |
-
----
 
 ## 맵풀
 
@@ -285,8 +279,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
----
-
 ## 경기 결과
 
 ### 최종 결승
@@ -383,8 +375,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | E4 | **스칸디나비아** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] 베네수엘라 | -win by default- |
 | E5 | 베네수엘라 ![][flag_VE] | 0 | **5** | ![][flag_DE] **독일 A** | -win by default- |
 | D2 | **브라질** ![][flag_BR] | **5** | 3 | ![][flag_US] 미국 A | [#1](https://osu.ppy.sh/community/matches/54181034) |
-
----
 
 ## 규칙
 

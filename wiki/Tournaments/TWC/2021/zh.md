@@ -95,8 +95,6 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 | ![][flag_US] | **美国** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [cheese salad](https://osu.ppy.sh/users/6349821), [R J](https://osu.ppy.sh/users/6490509), [3san](https://osu.ppy.sh/users/8050850), [ChurroChef](https://osu.ppy.sh/users/9258564) |
 | ![][flag_VN] | **越南** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [-BunZ-](https://osu.ppy.sh/users/7556673), [SaraSoul](https://osu.ppy.sh/users/13493346) |
 
----
-
 ## 比赛排程：十六强赛
 
 *小提示：* **中国标准时间** *（又名* **北京时间** *）比协调世界时间快八小时（* **UTC+08** *）。*
@@ -229,8 +227,6 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 | **英国** ![][flag_GB] | **5** | 1 | ![][flag_CH] 瑞士 | [#1](https://osu.ppy.sh/community/matches/77455105) |
 | **俄罗斯** ![][flag_RU] | **5** | 0 | ![][flag_CR] 哥斯达黎加 | [#1](https://osu.ppy.sh/community/matches/77454888) |
 | **日本** ![][flag_JP] | **5** | 0 | ![][flag_CL] 智利 | [#1](https://osu.ppy.sh/community/matches/77458452) |
-
----
 
 ## 规则
 

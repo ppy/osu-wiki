@@ -74,8 +74,6 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 | ![](img/teams/obama.png) | Obama's Bizarre adventures | ![][flag_PL] [AmaZ](https://osu.ppy.sh/users/6097002), ![][flag_PL] [Jakkubon](https://osu.ppy.sh/users/3396013), ![][flag_TW] [Sanami](https://osu.ppy.sh/users/1629471), ![][flag_FI] [forgottentaco](https://osu.ppy.sh/users/6109660) |
 | ![](img/teams/retired.png) | Retired players comeback | ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_PL] [Kosmit](https://osu.ppy.sh/users/1749173), ![][flag_PL] [Krzysiek](https://osu.ppy.sh/users/294277), ![][flag_PL] [schizosvenia](https://osu.ppy.sh/users/4600126) |
 
----
-
 ## Groups
 
 | Group | Top Seed | High Seed | Low Seed | Unseeded |
@@ -84,8 +82,6 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 | **B** | wwwww | Araganes | Retired player's comeback | My blood trail soplica |
 | **C** | Acelga | Smukur es colombiano | Los Choripondios | IZAYOI XXX is the captain |
 | **D** | idk lol | KRNS | Bjirr Squad | 115 |
-
----
 
 ## Mappools
 
@@ -176,8 +172,6 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 - Tiebreaker
   - **[Underveil allstars - Underveil is real!!!.. and we are under.. (Chara) \[\*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
----
-
 ## Match results
 
 ### Quarterfinals
@@ -231,8 +225,6 @@ Sunday, 16 February 2020:
 | B | wwwww | 0 | **5** | **Araganes** | *win by default* |
 | D | **idk lol** | **5** | 1 | 115 | [#1](https://osu.ppy.sh/community/matches/58508633) |
 | C | **Acelga** | **5** | 0 | Los Choripondios | *win by default* |
-
----
 
 ## Ruleset
 

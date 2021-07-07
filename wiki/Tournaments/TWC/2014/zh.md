@@ -40,14 +40,10 @@ outdated: true
 | 比赛直播旁述 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) // ![][flag_US] ztrot // ![][flag_NO] Dolphin |
 | 赛果统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 相关鏈接
 
 - [讨论串](https://osu.ppy.sh/community/forums/topics/179127)
 - [直播 (Twitch)](https://www.twitch.tv/osulive "Twitch")
-
----
 
 ## 規則
 

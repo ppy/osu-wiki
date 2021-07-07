@@ -387,8 +387,6 @@ Sunday, 7 March 2021:
 | **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CR] Costa Rica | [#1](https://osu.ppy.sh/community/matches/77454888) |
 | **Japan** ![][flag_JP] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/77458452) |
 
----
-
 ## Ruleset
 
 ### Tournament rules
