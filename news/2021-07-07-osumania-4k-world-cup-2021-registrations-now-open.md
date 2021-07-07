@@ -48,4 +48,4 @@ Each World Cup comes with new and exciting things, and this time around will be 
 
 "The three of us are very excited for this opportunity. In recent years, most, if not all of our time on osu! has been dedicated towards developing and nurturing the tournament scene. The osu! World Cups will still continue as they have been, and we hope to take them in a forward direction through the coming years and continue to provide the consistently high quality and entertaining experience that has existed for so long under the direction of our predecessors."
 
-— ChillierPear, LeoFLT & Azer
+—ChillierPear, LeoFLT & Azer
