@@ -82,8 +82,8 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 18. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match or other deliberate inappropriate misbehavior are strictly prohibited.
 19. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
-21. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
-22. Penalties for violating the tournament rules can be:
+20. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
+21. Penalties for violating the tournament rules can be:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
     - Declaring the match as "Lost by Default".
@@ -144,7 +144,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 1. There will be 1 mappool for the Qualifiers Stage, 1 mappool for Round of 32, 1 mappool for Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
 2. Each mappool consists of a fixed amount of maps each stage (see below) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
-3. The Qualifiers and Round of 32 mappools will consist of 12 maps, Round of 16 and Quarterfinals will consist of 14 maps, Semifinals and Finals mappool will consist of 16 maps.
+3. The Round of 32 mappool will consist of 12 maps, Round of 16 and Quarterfinals will consist of 14 maps, Semifinals and Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
 5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
