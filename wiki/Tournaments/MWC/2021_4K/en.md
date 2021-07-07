@@ -48,9 +48,9 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Links
 
+- [Signup here](https://osu.ppy.sh/community/tournaments/29)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)
 - [Livestream](https://www.twitch.tv/osulive)
-
 
 ## Ruleset
 
