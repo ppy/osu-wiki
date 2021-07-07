@@ -1,7 +1,7 @@
 ---
 tags:
-- NWT 2019
-- NWT2019
+  - NWT 2019
+  - NWT2019
 ---
 
 # nik's Winter Tour 2019

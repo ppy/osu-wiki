@@ -1,7 +1,7 @@
 ---
 tags:
-- o!ET 2
-- o!ET2
+  - o!ET 2
+  - o!ET2
 ---
 
 # osu! European Tournament 2

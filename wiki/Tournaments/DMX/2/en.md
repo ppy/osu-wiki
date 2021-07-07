@@ -1,6 +1,6 @@
 ---
 tags:
-- DMX 2
+  - DMX 2
 ---
 
 # DeltaMax's Taiko Oni Overlord

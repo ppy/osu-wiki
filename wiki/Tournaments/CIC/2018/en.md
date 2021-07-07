@@ -1,7 +1,7 @@
 ---
 tags:
-- CIC 2018
-- CIC2018
+  - CIC 2018
+  - CIC2018
 ---
 
 # Catch the Beat Indonesia Cup 2018

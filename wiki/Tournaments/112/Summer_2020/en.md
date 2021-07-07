@@ -1,8 +1,8 @@
 ---
 tags:
-- 112servis
-- 112ST
-- 112ST2020
+  - 112servis
+  - 112ST
+  - 112ST2020
 ---
 
 # 112's Summer Tournament 2020

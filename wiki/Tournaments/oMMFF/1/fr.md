@@ -1,8 +1,8 @@
 ---
 tags:
-- osu! Multi Mode French Fiesta
-- oMMFF
-- MMFF
+  - osu! Multi Mode French Fiesta
+  - oMMFF
+  - MMFF
 ---
 
 # osu! Multi Mode French Fiesta

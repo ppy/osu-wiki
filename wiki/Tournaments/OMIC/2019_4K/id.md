@@ -1,7 +1,7 @@
 ---
 tags:
-- O!MIC 4K 2019
-- OMIC
+  - O!MIC 4K 2019
+  - OMIC
 ---
 
 # osu!mania 4K Indonesia Cup 2019

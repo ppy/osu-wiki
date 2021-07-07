@@ -1,7 +1,7 @@
 ---
 tags:
-- CIC
-- CIC2012
+  - CIC
+  - CIC2012
 ---
 
 # Catch the Beat Indonesia Cup 2012

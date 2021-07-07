@@ -1,12 +1,12 @@
 ---
 tags:
-- Fall
-- Highlander Con
-- LAN
-- osu! Riverside
-- Riverside
-- SWEAT
-- UCR
+  - Fall
+  - Highlander Con
+  - LAN
+  - osu! Riverside
+  - Riverside
+  - SWEAT
+  - UCR
 ---
 
 # Standard/Mania Weekend End of Autumn Tournament

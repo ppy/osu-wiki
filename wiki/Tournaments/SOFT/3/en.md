@@ -1,7 +1,7 @@
 ---
 tags:
-- SOFT3
-- SOFT 3
+  - SOFT3
+  - SOFT 3
 ---
 
 # Springtime Osu!mania Free-for-all Tournament 3

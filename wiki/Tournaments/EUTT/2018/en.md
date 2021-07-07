@@ -1,7 +1,7 @@
 ---
 tags:
-- EUTT 2018
-- EUTT2018
+  - EUTT 2018
+  - EUTT2018
 ---
 
 # European Taiko Tournament 2018

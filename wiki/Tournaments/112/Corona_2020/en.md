@@ -1,8 +1,8 @@
 ---
 tags:
-- 112servis
-- 112CT
-- 112 Corona
+  - 112servis
+  - 112CT
+  - 112 Corona
 ---
 
 # 112's Corona Tournament

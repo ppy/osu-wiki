@@ -1,8 +1,8 @@
 ---
 tags:
-- CJB
-- CJB 2018
-- CJB2018
+  - CJB
+  - CJB 2018
+  - CJB2018
 ---
 
 # The 4th CJB osu!mania 4K Tournament

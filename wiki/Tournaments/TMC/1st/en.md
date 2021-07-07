@@ -1,6 +1,6 @@
 ---
 tags:
-- TMC
+  - TMC
 ---
 
 # Touhou Project Mania Cup 1st

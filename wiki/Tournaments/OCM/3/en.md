@@ -1,7 +1,7 @@
 ---
 tags:
-- OCM 3
-- OCM3
+  - OCM 3
+  - OCM3
 ---
 
 # osu! Cup Master 3: osu!catch edition

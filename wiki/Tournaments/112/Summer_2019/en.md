@@ -1,8 +1,8 @@
 ---
 tags:
-- 112servis
-- 112ST
-- 112ST 2019
+  - 112servis
+  - 112ST
+  - 112ST 2019
 ---
 
 # 112's Summer Tournament 2019

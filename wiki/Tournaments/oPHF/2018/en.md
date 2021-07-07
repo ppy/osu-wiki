@@ -1,8 +1,8 @@
 ---
 tags:
-- oPHF 2018
-- oPHF2018
-- oPHF18
+  - oPHF 2018
+  - oPHF2018
+  - oPHF18
 ---
 
 # osu!Philippines Holiday Friendlies 2018

@@ -1,7 +1,7 @@
 ---
 tags:
-- CIC
-- CIC2014
+  - CIC
+  - CIC2014
 ---
 
 # Catch the Beat Indonesia Cup 2014

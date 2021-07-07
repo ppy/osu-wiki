@@ -1,6 +1,6 @@
 ---
 tags:
-- AOTS
+  - AOTS
 ---
 
 # Asian-Oceanian Taiko Showdown

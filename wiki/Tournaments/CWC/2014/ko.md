@@ -1,7 +1,7 @@
 ---
 tags:
-- CWC 2014
-- CWC2014
+  - CWC 2014
+  - CWC2014
 outdated: true
 ---
 

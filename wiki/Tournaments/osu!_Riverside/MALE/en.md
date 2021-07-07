@@ -1,10 +1,10 @@
 ---
 tags:
-- Highlander Con
-- LAN
-- MALE
-- Riverside
-- UCR
+  - Highlander Con
+  - LAN
+  - MALE
+  - Riverside
+  - UCR
 ---
 
 # Most Amazing LAN Ever

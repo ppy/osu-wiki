@@ -1,9 +1,9 @@
 ---
 tags:
-- OTC #2
-- OTC 2
-- OTC#2
-- OTC2
+  - OTC #2
+  - OTC 2
+  - OTC#2
+  - OTC2
 ---
 
 # osu! Technical Championship #2

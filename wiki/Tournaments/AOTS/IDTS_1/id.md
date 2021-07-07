@@ -1,7 +1,7 @@
 ---
 tags:
-- Indonesian Taiko Showdown
-- IDTS
+  - Indonesian Taiko Showdown
+  - IDTS
 ---
 
 # Indonesian Taiko Showdown

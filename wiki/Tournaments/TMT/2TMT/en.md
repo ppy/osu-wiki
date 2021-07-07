@@ -1,7 +1,7 @@
 ---
 tags:
-- 2v2 thonking Mania Tournament
-- 2TMT
+  - 2v2 thonking Mania Tournament
+  - 2TMT
 ---
 
 # 2v2 :thonking: Mania Tournament

@@ -1,7 +1,7 @@
 ---
 tags:
-- SOFT5
-- SOFT 5
+  - SOFT5
+  - SOFT 5
 ---
 
 # Springtime Osu!mania Free-for-all Tournament 5

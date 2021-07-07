@@ -1,7 +1,7 @@
 ---
 tags:
-- CMT 4K 2018
-- CMT4K 2018
+  - CMT 4K 2018
+  - CMT4K 2018
 ---
 
 # 2018年华人 osu!mania 4K 大赛

@@ -1,8 +1,8 @@
 ---
 tags:
-- CJB
-- CJB 2018
-- CJB2018
+  - CJB
+  - CJB 2018
+  - CJB2018
 ---
 
 # 第四届 osu!mania 4K 菜鸡杯

@@ -1,7 +1,7 @@
 ---
 tags:
-- o!AOT
-- AOT
+  - o!AOT
+  - AOT
 ---
 
 # osu! Asia Oceania Tournament

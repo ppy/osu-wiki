@@ -1,9 +1,9 @@
 ---
 tags:
-- OTC #3
-- OTC 3
-- OTC#3
-- OTC3
+  - OTC #3
+  - OTC 3
+  - OTC#3
+  - OTC3
 ---
 
 # osu! Technical Championship #3

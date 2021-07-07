@@ -1,7 +1,7 @@
 ---
 tags:
-- osu! Taiko Wars
-- TW
+  - osu! Taiko Wars
+  - TW
 ---
 
 # Taiko Wars
