@@ -54,7 +54,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korea |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Mandarin |
-| ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | Polandia |
 | ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |  |
 | ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | Spanyol |
 | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
@@ -76,7 +75,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Jerman |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Rusia |
-| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Jerman |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Denmark |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Rusia |
@@ -108,6 +106,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanyol, Prancis |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
 | ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | Prancis |
+| ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Mandarin, Jepang |
 | ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033) | Swedia |
 
@@ -116,9 +115,11 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, sedikit Arab |
+| ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Jerman |
 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Sedikit Jepang |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Mandarin, Kanton |
+| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnam |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanyol |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Tagalog |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Spanyol |
@@ -127,12 +128,10 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Belanda |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandia, Jepang |
-| ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Jepang, Kanton, Mandarin |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Mandarin, Kanton |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Mandarin |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
-| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Prancis |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Jerman, Serbia |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Jerman, sedikit Prancis |
 
@@ -144,11 +143,14 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Spanyol |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Norwegia |
 | ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136) | Jerman |
+| ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | Jerman |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Tagalog |
 | ![][flag_KR] [My Angel RangE](https://osu.ppy.sh/users/6336713) | Korea |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Rusia |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Yunani |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_CN] [Souvenir](https://osu.ppy.sh/users/14057792) | Mandarin |
+| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
 
@@ -160,9 +162,8 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Swedia |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Mandarin |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korea |
-| ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korea, Jepang |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Spanyol, Portugis, Italia, Jepang |
+| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Spanyol, Portugis, Galisia, Italia, Jepang |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Tagalog |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesia |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Indonesia |
@@ -182,39 +183,44 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | Finlandia |
+| ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_DK] [Akayume](https://osu.ppy.sh/users/10617530) | Denmark |
 | ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045) |  |
 | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) |  |
+| ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | German | 
 | ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
+| ![][flag_GB] [mrowswares](https://osu.ppy.sh/users/9558549) |  |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
+| ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | Prancis |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) |  |
-| ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 
 #### osu!taiko
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
-| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnam |
+| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Mandarin |
+| ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | Italia |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Spanyol |
+| ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Korea |
+| ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344) | Mandarin |
+| ![][flag_US] [yenmaster](https://osu.ppy.sh/users/12565402) |  |
 
 #### osu!catch
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
-| ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | Jerman |
-| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
+| ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | Belanda |
+| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Polandia |
+| ![][flag_BR] [zerokt](https://osu.ppy.sh/users/13776127) | Portugis |
 
 #### osu!mania
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Spanyol, Portugis, Italia, Jepang |
+| ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) | Indonesia |
 
 ## Sejarah
 
@@ -248,6 +254,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 [flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
 [flag_PR]: /wiki/shared/flag/PR.gif "Puerto Riko"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
