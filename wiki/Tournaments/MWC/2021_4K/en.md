@@ -103,13 +103,13 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains may choose, with the approval of the Tournament Management, to delegate their role to other prospective team members.
-2. To ensure valid and serious registrations, every registered user will be manually checked by the Tournament Management.
+3. To ensure valid and serious registrations, every registered user will be manually checked by the Tournament Management.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 and up on the global osu!mania 4K performance ranking, and have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-3. All successfully formed teams will be published after the Registration Phase.
+4. All successfully formed teams will be published after the Registration Phase.
    - A team should have at least 3 players registered to have the chance to play the Qualifier stage.
    - The top 32 seeded teams will qualify to the Round of 32.
-4. Organisers, mappool selectors and referees must not participate as a player in the tournament.
+5. Organisers, mappool selectors and referees must not participate as a player in the tournament.
 
 ### Qualifier instructions
 
