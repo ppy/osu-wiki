@@ -74,24 +74,24 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 10. Beatmaps must not be reused in the same match, with the exception of rematches.
 11. **The maximum size for a team is 6 players, and the minimum is 3.**
-   - This might change depending on the amount of registrations.
-13. If less than the minimum amount of required players are present at match time, it can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
-   - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
-14. Exchanging players during games is allowed without limitations.
-15. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalities being applied.
-16. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match). This timer is di
-17. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
-18. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited.
-19. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
-   - Breaking the chat rules results in a silence. Silenced players cannot participate at multiplayer matches and must be exchanged for the time being.
-20. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
-21. Penalties for violating the tournament rules include, but are not limited to:
-   - Exclusion of specific players for one beatmap.
-   - Exclusion of specific players for an entire match.
-   - Declaring the match as forfeited or won by default (wbd).
-   - Disqualification from the entire tournament.
-   - Disqualification from the current and future official tournaments, until appealed.
-22. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+    - This might change depending on the amount of registrations.
+12. If less than the minimum amount of required players are present at match time, it can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
+    - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
+13. Exchanging players during games is allowed without limitations.
+14. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalities being applied.
+15. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match). This timer is di
+16. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
+17. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited.
+18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
+    - Breaking the chat rules results in a silence. Silenced players cannot participate at multiplayer matches and must be exchanged for the time being.
+19. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
+20. Penalties for violating the tournament rules include, but are not limited to:
+    - Exclusion of specific players for one beatmap.
+    - Exclusion of specific players for an entire match.
+    - Declaring the match as forfeited or won by default (wbd).
+    - Disqualification from the entire tournament.
+    - Disqualification from the current and future official tournaments, until appealed.
+21. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
@@ -123,6 +123,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 8. The top 32 seeded teams will advance to the Round of 32.
 
 ### Stage instructions
+
 1. Following the Qualifier stage, a Double Elimination stage will be played. This means that the winner continues in the winners' bracket, and the losing team gets moved to the losers' bracket.
 2. Teams in the losers bracket must play 2 matches each weekend starting from the Quarterfinals.
 3. Teams that lose a match in the losers' bracket get eliminated from the tournament.
