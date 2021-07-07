@@ -31,7 +31,7 @@ The **Corgi Cup V** (***CCV***) was a 1v1 double-elimination osu! tournament hos
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | £50, profile badge, Corgi Cup V 1st place Discord role  |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | £50, profile badge, Corgi Cup V 1st place Discord role |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | £25, Corgi Cup V 2nd place Discord role |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | £10, Corgi Cup V 3rd place Discord role |
 
