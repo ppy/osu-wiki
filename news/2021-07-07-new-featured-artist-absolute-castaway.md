@@ -54,7 +54,7 @@ Check out [the map in the video above](https://osu.ppy.sh/beatmapsets/827743) by
 
 ---
 
-Every song above and shipment of 50+ more can be found from [**ABSOLUTE CASTAWAY** Featured Artist page](https://osu.ppy.sh/beatmaps/artists/179). Maybe check it out. Here's [another link to it](https://osu.ppy.sh/beatmaps/artists/179). Take [another](https://osu.ppy.sh/beatmaps/artists/179). If you're still haven't gone there, we're marking you as a lost cause.
+Every song above and a shipment of 50+ more can be found from [**ABSOLUTE CASTAWAY** Featured Artist page](https://osu.ppy.sh/beatmaps/artists/179). Maybe check it out? Here's [another link to it](https://osu.ppy.sh/beatmaps/artists/179). Take [another](https://osu.ppy.sh/beatmaps/artists/179), just in case. If you still haven't gone there, we're marking you as a lost cause.
 
 It's been a while since we've seen a release as chunky as this one, but that doesn't mean we've run out of music to toss at you! More super talented artists are on the way, all of which you'll find on the [@osugame Twitter](https://twitter.com/osugame/) once they're released.
 
