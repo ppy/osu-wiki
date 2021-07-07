@@ -60,7 +60,6 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
    - *Notice: While this competition has been planned as a 3 versus 3 setup, this might change depending on the amount of registrations.*
 2. Beatmap scoring will be based on Score V2.
 3. The beatmaps for each round will be announced by the Map Selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-   - The Group Stage mappool will be announced after the drawings.
    - One beatmap will be given as a tiebreaker beatmap. This beatmap will only be played in case of a tie.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
@@ -83,7 +82,6 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 18. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match or other deliberate inappropriate misbehavior are strictly prohibited.
 19. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
-20. In the Group stage, a 'Win by default' will be considered as a win by 5:0, +1.0 score difference ratio.
 21. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 22. Penalties for violating the tournament rules can be:
     - Exclusion of specific players for one beatmap.
@@ -144,8 +142,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 ### Mappool instructions
 
-1. There will be 1 mappool for the Qualifiers Stage, 1 mappool for Round of 32, 1 mappool for Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-   - The mappool for the Grand Finals will be the same one as the one used on the Finals.
+1. There will be 1 mappool for the Qualifiers Stage, 1 mappool for Round of 32, 1 mappool for Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
 2. Each mappool consists of a fixed amount of maps each stage (see below) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The Qualifiers and Round of 32 mappools will consist of 12 maps, Round of 16 and Quarterfinals will consist of 14 maps, Semifinals and Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
@@ -155,14 +152,13 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
-2. Matches in Group Stage may overlap.
-3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
-4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
+2. All matches will be held on either Saturday or Sunday, UTC+0.
+3. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
    - In the stages Quarterfinals and higher: Please inform the Tournament Management before Sunday, if you expect a specific time slot to be unavailable in the following week. The Tournament Management will try to accommodate all wishes, but makes no promises.
-5. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC of that particular week when your match takes place.**
-6. **Reschedules may only be requested by a team captain.**
+4. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday, 23:59 UTC of that particular week when your match takes place.**
+5. **Reschedules may only be requested by a team captain.**
    - **Do not ask for rescheduling unless it is absolutely needed. The Tournament Management reserves the right to decline any rescheduling requests.**
-7. Captains are responsible for their teams' availability. The current team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+6. Captains are responsible for their teams' availability. The current team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
