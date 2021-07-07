@@ -8,11 +8,11 @@ date: 2020-07-07 08:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/179/header.jpg)
 
-A staple to the doujin music scene, **ABSOLUTE CASTAWAY** is responsible for an ever-expanding library of rock and Japanese folk-stylized songs under the vision of accomplished vocalist and voice actor *Mitsuki Nakae*. Since its founding in 2007, the circle has produced 20 albums and continues to maintain its streak of back-to-back unbelievably high quality tracks.
+A massive player in the doujin music scene, **ABSOLUTE CASTAWAY** is responsible for an ever-expanding library of rock and Japanese folk-stylized songs under the vision of accomplished vocalist and voice actor *Mitsuki Nakae*. Since its founding in 2007, the circle has produced 20 albums and continues to maintain its streak of unbelievably high quality tracks.
 
 A hefty **59** tracks are up for the taking, including a bunch of new masterpieces and some oldies you might already know.
 
-The [**ABSOLUTE CASTAWAY** Featured Artist page](https://osu.ppy.sh/beatmaps/artists/179) has the full list of course, but you can take a dip into this catalogue with these previews and a quick video of [*ABSOLUTE CASTAWAY - Shinsou Shintouron*]!
+The [**ABSOLUTE CASTAWAY** Featured Artist page](https://osu.ppy.sh/beatmaps/artists/179) has the full song list of course, but you can take a dip into this catalogue with these previews and a quick mapping/gameplay video of [*ABSOLUTE CASTAWAY - Shinsou Shintouron*](https://osu.ppy.sh/beatmapsets/827743):
 
 <div align="center">
     <video width="95%" controls>
@@ -30,7 +30,7 @@ Try out [this osu! map](https://osu.ppy.sh/beatmapsets/984777) hosted by [Lasse]
 
 ### Ouka Enbu
 
-Play any difficulty of [this massive osu! mapset](https://osu.ppy.sh/beatmapsets/688552) also hosted by [Lasse](https://osu.ppy.sh/users/896613)!
+Play any difficulty of [this huge osu! mapset](https://osu.ppy.sh/beatmapsets/688552) also hosted by [Lasse](https://osu.ppy.sh/users/896613)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
@@ -56,7 +56,7 @@ Check out [the map in the video above](https://osu.ppy.sh/beatmapsets/827743) by
 
 Every song above and shipment of 50+ more can be found from [**ABSOLUTE CASTAWAY** Featured Artist page](https://osu.ppy.sh/beatmaps/artists/179). Maybe check it out. Here's [another link to it](https://osu.ppy.sh/beatmaps/artists/179). Take [another](https://osu.ppy.sh/beatmaps/artists/179). If you're still haven't gone there, we're marking you as a lost cause.
 
-It's been a while since we've seen a release as chunky as this one, but that doesn't mean we've burnt our load! More super talented artists are on the way, all of which you'll find on the [@osugame Twitter](https://twitter.com/osugame/) once they're released.
+It's been a while since we've seen a release as chunky as this one, but that doesn't mean we've run out of music to toss at you! More super talented artists are on the way, all of which you'll find on the [@osugame Twitter](https://twitter.com/osugame/) once they're released.
 
 See you on Saturday!
 
