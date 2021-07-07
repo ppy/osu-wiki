@@ -1,31 +1,23 @@
 ---
 tags:
-  - MWC 2021
   - MWC2021
+  - MWC 2021
   - MWC4K 2021
   - MWC 4K 2021
 ---
 
-<!--TODO:   - change variables listed below to their appropriate counterparts
-            -tournament signup system entry
-            - reformat markdown tables to their shortened version
-            - {{FORUM_POST}}
-            - {{PICKEMS}}
-            - {{CHALLONGE}}
-            - {{STATS_SHEET}}
--->
 # osu!mania 4K World Cup 2021
 
 ![](/wiki/shared/news/banners/mwc4k-2021.jpg)
 
-The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eight installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eighth installment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2021-07-07 to 2021-07-21 |
-| Qualifier showcase |  2021-07-25 (14:00 UTC) |
+| Qualifier showcase |  2021-07-24 (14:00 UTC) |
 | Qualifier Stage | 2021-07-31 & 2021-08-01 |
 | Round of 32 | 2021-08-07 & 2021-08-08 |
 | Round of 16 | 2021-08-14 & 2021-08-15 |
@@ -48,33 +40,17 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 | Position | Member(s) |
 | :-- | :-- |
-| General Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Game mode Manager | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) |
+| General Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Referee | ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Commentator | TBD |
-| Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Statistician | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
-- [Discussion thread]({{FORUM_POST}})
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Pick'ems page]({{PICKEMS}}) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Challonge bracket]({{CHALLONGE}})
-- **[Statistics sheet]({{STATS_SHEET}})**
 
-## Participants
-
-Pending
-
-## Mappools
-
-Pending
-
-
-## Match results
-
-Pending
 
 ## Ruleset
 
