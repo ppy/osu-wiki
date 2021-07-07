@@ -25,7 +25,7 @@ The [**ABSOLUTE CASTAWAY** Featured Artist page](https://osu.ppy.sh/beatmaps/art
 Try out [this osu! map](https://osu.ppy.sh/beatmapsets/984777) hosted by [Lasse](https://osu.ppy.sh/users/896613)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/179/16th%20Album%20%E3%80%8CASTRO%3DSIGN%E3%80%8D%2FABSOLUTE%20CASTAWAY%20-%20Sadachbia%20no%20Himitsu.mp3" type="audio/mpeg">
 </audio>
 
 ### Ouka Enbu
@@ -33,7 +33,7 @@ Try out [this osu! map](https://osu.ppy.sh/beatmapsets/984777) hosted by [Lasse]
 Play any difficulty of [this huge osu! mapset](https://osu.ppy.sh/beatmapsets/688552) also hosted by [Lasse](https://osu.ppy.sh/users/896613)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/179/13th%20Album%20%E3%80%8CToushin%20Gengi%20Oku%E3%80%8D%2FABSOLUTE%20CASTAWAY%20-%20Ouka%20Enbu.mp3" type="audio/mpeg">
 </audio>
 
 ### Halloween Night Parade
@@ -41,7 +41,7 @@ Play any difficulty of [this huge osu! mapset](https://osu.ppy.sh/beatmapsets/68
 Celebrate the holiday a few months early with [this marathon map](https://osu.ppy.sh/beatmapsets/1055224) by [Hey lululu](https://osu.ppy.sh/users/4086497)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/179/8th%20Single%20%E3%80%8CHalloween%20Night%20Parade%E3%80%8D%2FABSOLUTE%20CASTAWAY%20-%20Halloween%20Night%20Parade.mp3" type="audio/mpeg">
 </audio>
 
 ### Shinsou Shintouron
@@ -49,7 +49,7 @@ Celebrate the holiday a few months early with [this marathon map](https://osu.pp
 Check out [the map in the video above](https://osu.ppy.sh/beatmapsets/827743) by [Lasse](https://osu.ppy.sh/users/896613) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1286508) by [-Luminate](https://osu.ppy.sh/users/4778689)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/179/12th%20Album%20%E3%80%8CToushin%20Gengi%E3%80%8D%2FABSOLUTE%20CASTAWAY%20-%20Shinsou%20Shintouron.mp3" type="audio/mpeg">
 </audio>
 
 ---
