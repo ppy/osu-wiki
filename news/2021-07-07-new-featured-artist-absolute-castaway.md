@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: ABSOLUTE CASTAWAY"
-date: 2020-07-07 08:00:00 +0000
+date: 2021-07-07 08:00:00 +0000
 ---
 
 **ABSOLUTE CASTAWAY** takes center stage as the latest addition to the Featured Artist lineup!
