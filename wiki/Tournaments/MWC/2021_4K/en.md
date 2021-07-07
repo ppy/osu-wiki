@@ -112,7 +112,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 3. The Qualifier pool contains 10 maps. There will be 4 maps under the NoMod bracket and 2 maps for the other mod brackets.
 4. Teams will have to play the mappool twice at a designated time. Their best combined score will be used for seeding.
 5. The mappool will be played in the order listed above.
-6. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
+6. Each team must have 3 players for each map. They can be exchanged freely after a map is concluded.
 7. There will be a 5-minute break in between the first and second play-through of the mappool.
 8. All teams will play their qualifiers in separate rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
 9. The top 32 seeded teams will advance to the Round of 32.
