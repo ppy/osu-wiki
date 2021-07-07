@@ -1200,15 +1200,15 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 - Ceci est très simple. Les joueurs et le staff doivent tout d'abord, avoir lu ce règlement en entier. Toute personne participant dans ce tournoi est attendu d'être respectueux de chacun. Sous peine de ban et blacklist si cela n'est pas respecté. Ceci compte autant pour les joueurs que pour le staff.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BF]: /wiki/shared/flag/BF.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
+[flag_BF]: /wiki/shared/flag/BF.gif "Burkina Faso"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_IE]: /wiki/shared/flag/IE.gif "Irlande"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

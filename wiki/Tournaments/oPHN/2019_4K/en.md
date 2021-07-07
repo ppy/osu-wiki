@@ -395,7 +395,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

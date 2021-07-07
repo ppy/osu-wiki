@@ -892,17 +892,17 @@ Wednesday, 1 December 2019:
    - **Otherwise**: Rematch only at the discretion of both referee and opponent
    - If disconnecting player takes a prolonged time to reconnect to the match, penalties for disconnecting outside a map also apply.
 
-[flag_BN]: /wiki/shared/flag/BN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_KH]: /wiki/shared/flag/KH.gif
-[flag_LA]: /wiki/shared/flag/LA.gif
-[flag_MM]: /wiki/shared/flag/MM.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_KH]: /wiki/shared/flag/KH.gif "Cambodia"
+[flag_LA]: /wiki/shared/flag/LA.gif "Lao People's Democratic Republic"
+[flag_MM]: /wiki/shared/flag/MM.gif "Myanmar"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

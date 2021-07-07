@@ -307,9 +307,9 @@ Sunday, 31 March 2019:
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
 
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_RE]: /wiki/shared/flag/RE.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_RE]: /wiki/shared/flag/RE.gif "Reunion"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"

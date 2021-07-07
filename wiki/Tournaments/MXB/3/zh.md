@@ -313,5 +313,5 @@ tags:
 - 若超过重赛时间点后中途断开，在当前地图结束时，裁判将设置两分钟的计时器。当这个计时器归零时，协议中提到的宽限计时器将被（重新）激活。如果宽限期计时器达到 0。比赛将被取消，剩下的其他玩家将被宣布为获胜者。
   - 极端情况下，若双方选手均无法成功重连，拥有更高组别的选手将自动获胜。
 
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_US]: /wiki/shared/flag/US.gif "美国"

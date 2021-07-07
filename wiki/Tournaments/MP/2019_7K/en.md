@@ -474,5 +474,5 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"

@@ -902,18 +902,18 @@ Tuesday, 18 December 2018:
 2. **Otherwise**: rematch only at the discretion of both referee and opponent.
 3. If disconnecting player takes a prolonged time to reconnect to the match, penalties for disconnecting outside a map also apply.
 
-[flag_BN]: /wiki/shared/flag/BN.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_KH]: /wiki/shared/flag/KH.gif
-[flag_LA]: /wiki/shared/flag/LA.gif
-[flag_MM]: /wiki/shared/flag/MM.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_KH]: /wiki/shared/flag/KH.gif "Cambodia"
+[flag_LA]: /wiki/shared/flag/LA.gif "Lao People's Democratic Republic"
+[flag_MM]: /wiki/shared/flag/MM.gif "Myanmar"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

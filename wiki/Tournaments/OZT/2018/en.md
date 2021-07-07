@@ -87,16 +87,16 @@ Be aware that becoming a free agent will **not guarantee a spot for playing in t
 | Commentator | ![][flag_CA] [Legless](https://osu.ppy.sh/users/3224243), ![][flag_US] [mcdemors](https://osu.ppy.sh/users/5295701), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143), ![][flag_US] [Weed](https://osu.ppy.sh/users/2609349), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_US] [CornLord7117](https://osu.ppy.sh/users/6699829) |
 | Referee | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759), ![][flag_NZ] [Div](https://osu.ppy.sh/users/3751116), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143), ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![][flag_CA] [Sakaguchi](https://osu.ppy.sh/users/7057311), ![][flag_US] [Science](https://osu.ppy.sh/users/5535233), ![][flag_US] [motive](https://osu.ppy.sh/users/7376116), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_US] [divinereigns](https://osu.ppy.sh/users/9244014), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_LT] [Mancis](https://osu.ppy.sh/users/4839300), ![][flag_SE] [Nitroz](https://osu.ppy.sh/users/5256529), ![][flag_US] [BlackZero](https://osu.ppy.sh/users/5383496), ![][flag_DE] [Xenou](https://osu.ppy.sh/users/2539403), ![][flag_US] [gummimallow](https://osu.ppy.sh/users/6372755), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711) |
 
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PS]: /wiki/shared/flag/PS.gif
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PS]: /wiki/shared/flag/PS.gif "Palestinian Territory Occupied"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

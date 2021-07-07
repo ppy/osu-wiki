@@ -250,4 +250,4 @@ This competition has come to an end and resulted in the following podium:
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
 
-[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_FR]: /wiki/shared/flag/FR.gif "France"

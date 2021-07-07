@@ -168,10 +168,10 @@ outdated: true
 4. За составление расписания отвечают менеджеры турнира. Расписания будут публиковаться в последнее воскресенье перед текущим этапом и по возможности будут составлены с учётом часовых поясов участников.
 5. Капитаны ответственны за явку игроков. Если команда не сможет предоставить трёх игроков для участия в матче, ей будет засчитано техническое поражение.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
+[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
+[flag_ES]: /wiki/shared/flag/ES.gif "Испания"
+[flag_FR]: /wiki/shared/flag/FR.gif "Франция"
+[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
+[flag_PL]: /wiki/shared/flag/PL.gif "Польша"
+[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"

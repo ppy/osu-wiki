@@ -423,4 +423,4 @@ tags:
   - Pemain A mengalahkan pemain B. Pemain A akan lanjut ke babak berikutnya, dan juga pemain B. Tetapi pemain B akan masuk ke loser bracket (bracket khusus pemain yang sudah mendapatkan **kekalahan satu kali**).
   - Jika pemain B kalah kembali di loser bracket, maka pemain B akan **gugur dalam turnamen**.
 
-[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

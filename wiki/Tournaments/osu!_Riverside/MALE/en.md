@@ -353,5 +353,5 @@ The bracket was cut off early due to time concerns, so later matches switched to
 2. Both players will `!roll` when they join the lobby. The player with the lower result will ban first, and the other will pick first.
 3. Map selection alternates between players. If the scores are tied at match point, the tiebreaker will be played.
 
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
