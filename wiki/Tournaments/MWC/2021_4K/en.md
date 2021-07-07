@@ -83,14 +83,14 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 16. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
 17. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
-    - Breaking the chat rules results in a silence. Silenced players cannot participate at multiplayer matches and must be exchanged for the time being.
+   - Breaking the chat rules results in a silence. Silenced players cannot participate at multiplayer matches and must be exchanged for the time being.
 19. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 20. Penalties for violating the tournament rules include, but are not limited to:
-    - Exclusion of specific players for one beatmap.
-    - Exclusion of specific players for an entire match.
-    - Declaring the match as forfeited or won by default (wbd).
-    - Disqualification from the entire tournament.
-    - Disqualification from the current and future official tournaments, until appealed.
+   - Exclusion of specific players for one beatmap.
+   - Exclusion of specific players for an entire match.
+   - Declaring the match as forfeited or won by default (wbd).
+   - Disqualification from the entire tournament.
+   - Disqualification from the current and future official tournaments, until appealed.
 21. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
@@ -99,10 +99,10 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
    - Tournament Management will create a list of potential candidates for a country's team.
    - Tournament Management will declare one candidate captain of their country's team.
 2. The declared captain will then form their team from the candidate list of their country.
-    - Captains are expected to choose team members with honesty and good will, with the aim of fielding the strongest team possible.
-    - Captains are allowed to exclude themselves from the team list.
-    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
-    - Captains may choose, with the approval of the Tournament Management, to delegate their role to other prospective team members.
+   - Captains are expected to choose team members with honesty and good will, with the aim of fielding the strongest team possible.
+   - Captains are allowed to exclude themselves from the team list.
+   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
+   - Captains may choose, with the approval of the Tournament Management, to delegate their role to other prospective team members.
 2. To ensure valid and serious registrations, every registered user will be manually checked by the Tournament Management.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 and up on the global osu!mania 4K performance ranking, and have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
