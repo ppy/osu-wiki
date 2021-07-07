@@ -60,7 +60,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
    - *Notice: While this competition has been planned as a 3 versus 3 setup, this might change depending on the amount of registrations.*
 2. Beatmap scoring will be based on Score V2.
 3. The beatmaps for each round will be announced by the Mappool Selector Team on the Sunday before the actual matches take place.
-   - Each mappool, with the exception of the Qualifier stage, will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. 4-4 in a best of nine.
+   - Each mappool, with the exception of the Qualifier stage, will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. 4-4 in a best of 9.
 4. Match schedule will be handled by the Tournament Management.
 5. If no referees are available at match time, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -88,7 +88,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 20. Penalties for violating the tournament rules include, but are not limited to:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
-    - Declaring the match as forfeited or won by default (wbd).
+    - Declaring the match as forfeited, or as a win by default for the other team.
     - Disqualification from the entire tournament.
     - Disqualification from the current and future official tournaments, until appealed.
 21. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
@@ -109,7 +109,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 4. All successfully formed teams will be published after the Registration Phase.
    - A team should have at least 3 players registered to have the chance to play the Qualifier stage.
    - The top 32 seeded teams will qualify to the Round of 32.
-5. Organisers, mappool selectors and referees must not participate as a player in the tournament.
+5. Organisers, Mappool Selectors and referees must not participate as a player in the tournament.
 
 ### Qualifier instructions
 
