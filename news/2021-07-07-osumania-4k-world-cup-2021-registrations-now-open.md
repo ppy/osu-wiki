@@ -4,11 +4,11 @@ title: "osu!mania 4K World Cup 2021: Registrations now open!"
 date: 2021-07-07 10:00:00 +0000
 ---
 
-With the conclusion of the osu!catch World Cup, it is time for the yearly keyboard smashing competition - the osu!mania 4K World Cup is back in its eighth instalment — continue reading for more info!
+With the conclusion of the osu!catch World Cup, it is time for the yearly keyboard smashing competition — the osu!mania 4K World Cup is back in its eighth instalment — continue reading for more info!
 
 ![](/wiki/shared/news/banners/mwc4k-2021.jpg)
 
-For more details, refer to the **[osu!mania 4K World Cup 2021 wiki article](/wiki/Tournaments/MWC/2021_4K)**. You can discuss this event and follow the most important changes in the **[official discussion thread](/forums/topics/1366220)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord Server Invite")**.
+For more details, refer to the **[osu!mania 4K World Cup 2021 wiki article](/wiki/Tournaments/MWC/2021_4K)**. You can discuss this event and follow the most important changes in the **[official discussion thread](/forums/topics/1366220)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")**.
 
 ## Tournament schedule
 
@@ -44,8 +44,8 @@ If your registration passes our internal checks, you will be placed on the candi
 
 ## New leadership
 
-Each World Cup comes with new and exciting things, and this time around will be no exception. With our previous organisers juankristal and WalterToro stepping down it leaves some large shoes to fill. Starting from today, ChillierPear, LeoFLT, and Azer will be stepping up to meet the challenges and expectations as the new organisers of the osu! World Cups.
+Each World Cup comes with new and exciting things, and this time around will be no exception. With our previous organisers [juankristal](https://osu.ppy.sh/users/443656) and [WalterToro](https://osu.ppy.sh/users/5281416) stepping down, large shoes are to be filled. Starting from today, [ChillierPear](https://osu.ppy.sh/users/9501251), [LeoFLT](https://osu.ppy.sh/users/3668779), and [Azer](https://osu.ppy.sh/users/2155578) will be stepping up to meet the challenges and expectations as the new organisers of the osu! World Cups.
 
-"The three of us are very excited for this opportunity. In recent years, most, if not all of our time on osu! has been dedicated towards developing and nurturing the tournament scene. The osu! World Cups will still continue as they have been, and we hope to take them in a forward direction through the coming years and continue to provide the consistently high quality and entertaining experience that has existed for so long under the direction of our predecessors."
+> The three of us are very excited for this opportunity. In recent years, most, if not all of our time on osu! has been dedicated towards developing and nurturing the tournament scene. The osu! World Cups will still continue as they have been, and we hope to take them in a forward direction through the coming years and continue to provide the consistently high quality and entertaining experience that has existed for so long under the direction of our predecessors.
 
 —ChillierPear, LeoFLT & Azer

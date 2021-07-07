@@ -48,7 +48,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Links
 
-- [Signup here](https://osu.ppy.sh/community/tournaments/29)
+- [Sign up here](https://osu.ppy.sh/community/tournaments/29)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)
 - [Livestream](https://www.twitch.tv/osulive)
 
@@ -68,28 +68,28 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the beatmap.
-   - Disconnects within 30 seconds after beatmap begin can be rematched. This is up to the referee's discretion. To this end, the lobby is subject to the !mp abort command.
-   - If a rematch happens, the roster for each team during that particular beatmap must remain the same. If that is not possible, i.e., if the player who disconnected can not get back in time, *both* teams will be allowed to swap rosters.
+   - Disconnects within 30 seconds after starting can be rematched. This is up to the referee's discretion. To this end, the lobby is subject to the `!mp abort` command.
+   - If a rematch happens, the roster for each team during that particular beatmap must remain the same. If that is not possible, i.e. if the player who disconnected cannot get back in time, *both* teams will be allowed to swap rosters.
 10. Beatmaps cannot be reused in the same match unless the game has been nullified.
 11. **The maximum size for a team is 6 players, and the minimum is 3.**
     - This might change depending on the amount of registrations.
-12. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes. A 'Win by default' will be declared if there isn't enough players after this deadline.
+12. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes. A *win by default* will be declared if there aren't enough players after this deadline.
 13. Exchanging players during a match is allowed without limitations.
 14. Lag is not a valid reason to nullify a beatmap.
 15. All players will be expected to keep the match running fluently and without delays. Excessive match delays from the players' side can be issued with penalties.
-16. If a player disconnects between beatmaps, and the team can not provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
+16. If a player disconnects between beatmaps, and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
 17. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
-18. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match or other deliberate inappropriate misbehavior are strictly prohibited.
+18. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited.
 19. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
-    - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
+    - Breaking the chat rules results in a silence. Silenced players cannot participate at multiplayer matches and must be exchanged for the time being.
 20. Unexpected incidences will be handled by the Tournament Management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Penalties for violating the tournament rules can be:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
-    - Declaring the match as "Lost by Default".
+    - Declaring the match as lost by default.
     - Disqualification from the entire tournament.
     - Disqualification from the current and future official tournaments until appealed.
-    - Any modification of these rules will be announced.
+22. Any modification of these rules will be announced.
 
 ### Tournament registration
 
@@ -108,12 +108,12 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 ### Stage instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), and [DoubleTime](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
 3. The Qualifier pool contains 10 maps. There will be 4 maps under the NoMod bracket and 2 maps for the other mod brackets.
-4. Teams will have to play the map pool twice at a designated time. Their best combined score will be used for seeding.
+4. Teams will have to play the mappool twice at a designated time. Their best combined score will be used for seeding.
 5. The mappool will be played in the order listed above.
 6. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
-7. There will be a 5-minute break in between the first and second play-through of the map pool.
+7. There will be a 5-minute break in between the first and second play-through of the mappool.
 8. All teams will play their qualifiers in separate rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
 9. The top 32 seeded teams will advance to the Round of 32.
 10. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage, and the losing team gets moved to the losers bracket.
