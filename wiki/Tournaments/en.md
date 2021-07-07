@@ -53,6 +53,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!catch World Cup 2018](CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] China | ![][flag_US] United States | ![][flag_CL] Chile |
 | [osu!catch World Cup 2019](CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_CL] Chile |
 | [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_US] United States |
+| [osu!catch World Cup 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ![][flag_KR] South Korea | ![][flag_HK] Hong Kong | ![][flag_US] United States |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -70,6 +71,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 7K World Cup 2019](MWC/2019_7K) | 2019-02-09 | 2019-03-17 | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_CN] China |
 | [osu!mania 4K World Cup 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | ![][flag_BR] Brazil | ![][flag_JP] Japan | ![][flag_KR] South Korea |
+| [osu!mania 4K World Cup 2021](MWC/2021_4K) | 2021-07-31 | 2020-09-12 | TBD | TBD | TBD |
 
 ## Community
 
