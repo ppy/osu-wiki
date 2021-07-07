@@ -62,7 +62,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 3. The beatmaps for each round will be announced by the Mappool Selector Team on the Sunday before the actual matches take place.
    - Each mappool, with the exception of the Qualifier stage, will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. 4-4 in a best of nine.
 4. Match schedule will be handled by the Tournament Management.
-5. If referee is available at match time, the match will be postponed.
+5. If no referees are available at match time, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a beatmap is considered as passing it.
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
