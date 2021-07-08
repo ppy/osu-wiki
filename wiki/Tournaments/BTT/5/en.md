@@ -128,7 +128,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (89 MB)](https://**
+**[Download the mappack here! (89 MB)](https://mega.nz/#!GvpUASYZ!8RvQyFOehDfIPSqOCHMivyA6DF_A6IxjjBDU5Jrbe8Y "MEGA")**
 
 - NoMod
   - [Camellia - Kono Hoshi de.... (Raytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/968455#taiko/2029214)

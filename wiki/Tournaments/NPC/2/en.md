@@ -376,7 +376,7 @@ Sunday, 21 June 2020:
 | **Alek & Friends** | **0** | -1 | Tapa na Cara | *win by default* |
 | ora ora ora | -1 | **0** | **Bats from Wuhan** | *win by default* |
 | WeLoveKöfte | 3 | **6** | **Chuchichäschtli** | [#1](https://osu.ppy.sh/community/matches/63203837) |
-| **Young Builders** | **6** | 2 | G Nome | [#1](https://osu.ppy.sh/community/matches/63205675) | 
+| **Young Builders** | **6** | 2 | G Nome | [#1](https://osu.ppy.sh/community/matches/63205675) |
 | Peko Peko | 1 | **6** | **Stunter in the Toilet** | [#1](https://osu.ppy.sh/community/matches/63212139) |
 
 ### Round of 16

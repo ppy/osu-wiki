@@ -84,7 +84,6 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 - Tiebreaker
   - **[Camellia - Berserkerz' Warfare 345 [The Final Battle (379bpm)]](https://osu.ppy.sh/beatmapsets/873908#mania/1826647)**
 
-
 ### Semifinals
 
 **Download the mappack here! (104 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK "Google Drive")**
@@ -164,7 +163,6 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
   - [In Love With A Ghost - i'm too busy trying to fly away \[clutz\]](https://osu.ppy.sh/beatmapsets/858994#mania/1795100)
 - Tiebreaker
   - **[VILA - Another Halcyon \[Another Dream\]](https://osu.ppy.sh/beatmapsets/713501#mania/1508074)**
-
 
 ### Qualification Stage
 

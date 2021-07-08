@@ -76,7 +76,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
 
-
 ## Mappools
 
 ### Finals

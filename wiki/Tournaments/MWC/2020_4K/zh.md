@@ -33,7 +33,7 @@ tags:
 
 | 名次 | 奖品 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/crown-gold.png "冠军") | 每人 $150，个人资料徽章，为期一年的 “osu!mania Champion” 头衔  |
+| ![金冠](/wiki/shared/crown-gold.png "冠军") | 每人 $150，个人资料徽章，为期一年的 “osu!mania Champion” 头衔 |
 | ![银冠](/wiki/shared/crown-silver.png "亚军") | 每人 $80，个人资料徽章 |
 | ![铜冠](/wiki/shared/crown-bronze.png "季军") | 每人 $40，个人资料徽章 |
 

@@ -9,7 +9,7 @@ tags:
 ![MXB 3rd Logo](img/logo.jpg)
 
 第三届萌新杯（以下均简写为 MXB）是华人区个人比赛，是由 MXB 举行的第三届华人区 osu!mania 大赛。比赛所用谱面均为 osu!mania 专用谱。
-​​
+
 ## 比赛时间表
 
 | 阶段 | 时间 |
@@ -146,7 +146,6 @@ tags:
 - Tiebreaker
   - **[gmtn. (witch's slave) - furioso melodia \[4K furioso maratona\]](https://osu.ppy.sh/beatmapsets/307371#mania/725897)**
 
-
 ### 小组赛
 
 **下载完整图池包！（73 MB） - [百度云盘](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow "Baidu Netdisk")（提取码： `wbbx`） - [Google 云端硬盘](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn "Google Drive")**
@@ -235,6 +234,7 @@ tags:
 #### 各阶段获胜条件
 
 除资格赛阶段（没有获胜条件）外，每轮比赛都将有一个比赛图池、一首 Tiebreaker 和一个获胜条件。格式如下：
+
 - 资格赛阶段：4 张地图，无获胜条件，无 Tiebreaker。
 - 小组赛阶段：11 首歌组成的图池，采用 BO7 赛制（先得到 4 分获胜），一首 Tiebreaker。
 - 八强和半决赛：13 首歌组成的图池，采用 BO9 赛制（先得到 5 分获胜），一首 Tiebreaker。

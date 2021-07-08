@@ -9,7 +9,7 @@ tags:
 ![MXB 3rd Logo](img/logo.jpg)
 
 The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the MXB team. It is the third installment of the MXB osu!mania 4K Tournament.
-​​
+
 ## Tournament Schedule
 
 | Event | Timestamp |
@@ -103,7 +103,6 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [penoreri - Prayer \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/952639#mania/1989158)
 - Tiebreaker
   - **[Camellia & Nanahira - senpai, notice me! \[Senpai!!\]](https://osu.ppy.sh/beatmapsets/719648#mania/1683462)**
-
 
 ### Semifinals
 
@@ -233,6 +232,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s "Tencent 
 #### Round Overview
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
+
 - **Qualification Stage**: 4 song mappool, no winning condition, no tiebreaker song
 - **Group Stage**: 11 song mappool, best of 7 (first to 4), one tiebreaker song
 - **Quarterfinals and Semifinals**: 13 song mappool, best of 9 (first to 5), one tiebreaker song
@@ -295,7 +295,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 - **It is our right as the MXB staff to reprimand users for intolerable behavior.**
   - We will have sole discretion over decisions that affect your standing in the tournament; however, other members of tournament staff may forward any information to me that in any way represents uncalled for behavior towards other users or staff in my tournament. I will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful.
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
-  
+
 #### Warm-up Songs
 
 - Each player in the match will be allowed one warm-up song to be played, making for two warm-ups in total between both players.

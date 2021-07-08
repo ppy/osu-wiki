@@ -87,7 +87,7 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 After the conclusion of the Group Stage, players were then teamed up into pairs of two based on their Group Stage finishing position as follows:
 
-| Team Name | Player 1 | Player 2 | 
+| Team Name | Player 1 | Player 2 |
 | :-- | :-- | :-- |
 | **Anti LN Club** | ![][flag_ID] [Ainer](https://osu.ppy.sh/users/13371424) (*Group C / 3rd Place*) | ![][flag_ID] [Kurami\_San](https://osu.ppy.sh/users/8867495) (*Group A / 4th Place*) |
 | **Do'a Ibu** | ![][flag_ID] [Kougyokuu](https://osu.ppy.sh/users/14678051) (*Group D / 3rd Place*) | ![][flag_ID] [Xccelerator202](https://osu.ppy.sh/users/14855101) (*Group B / 4th Place*) |

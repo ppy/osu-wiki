@@ -273,7 +273,7 @@ Saturday, 18 August 2018:
 | **Catgirl** ![][flag_US] | **5** | 2 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/45197263) |
 | **yea** ![][flag_US] | **5** | 1 | ![][flag_US] Brames | [#1](https://osu.ppy.sh/community/matches/45201244) |
 | Shyguy ![][flag_US] | 3 | **5** | ![][flag_US] **closed** | [#1](https://osu.ppy.sh/community/matches/45202941) |
-| **Loopy542** ![][flag_US] | **5**  | 2 | ![][flag_US] jyake\_ou | [#1](https://osu.ppy.sh/community/matches/45203685) |
+| **Loopy542** ![][flag_US] | **5** | 2 | ![][flag_US] jyake\_ou | [#1](https://osu.ppy.sh/community/matches/45203685) |
 
 Sunday, 19 August 2018:
 

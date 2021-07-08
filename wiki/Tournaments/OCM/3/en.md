@@ -287,8 +287,7 @@ Sunday, 16 February 2020:
 
 ### Stage instructions
 
-1. The 4 teams with the best rank will be considered as Top Seed, the next 4 will be High Seed, then the next 4.
-will be Low Seed, to end the Unseed teams.
+1. The 4 teams with the best rank will be considered as Top Seed, the next 4 will be High Seed, then the next 4 will be Low Seed, to end the Unseed teams.
 2. The groups will be formed with one team of each seed.
 3. The top 2 teams of each group will qualify to the double elimination stages.
 4. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.

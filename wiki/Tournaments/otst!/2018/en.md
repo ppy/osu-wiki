@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 - HardRock
   - [Hatsuki Yura - Yuki no Hana (GoldenWolf -METAL MIX-) (Xenok) \[Snow\]](https://osu.ppy.sh/beatmapsets/720424#osu/1521024)
   - [MY FIRST STORY - Itazura Fiction (pishifat) \[pishi's Insane\]](https://osu.ppy.sh/beatmapsets/477343#osu/1025587)
-  - [Camellia - Chirality (Miura) \[Miura's Expert\]](https://osu.ppy.sh/beatmaps/1573039)
+  - Camellia - Chirality (Miura) \[Miura's Expert\]
 - DoubleTime
   - [FELT - Flower Flag (MZC Echoes the Spring Liquid Mix) (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/55945#osu/169450)
   - [cYsmix - Dovregubben's Hall (Spaghetti) \[Insane\]](https://osu.ppy.sh/beatmapsets/362451#osu/822869)
@@ -186,7 +186,7 @@ This competition has come to an end and resulted in the following podium:
   - [Getty vs. DJ DiA - Fox4-Raize- (Kaifin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/482552#osu/1029677)
 - Tiebreaker
   - **[NU-KO - Pochiko no Shiawase na Nichijou (Startrick) \[Startrick no Shiawase na Nichijou\]](https://osu.ppy.sh/beatmapsets/240733#osu/612871)**
-  - **[\[DJ Max\] - Here in the Moment (Deramok) \[otst! Finals Tiebreaker 2\]](https://osu.ppy.sh/beatmaps/1586725)**
+  - **\[DJ Max\] - Here in the Moment (Deramok) \[otst! Finals Tiebreaker 2\]**
   - **[Camellia - Towards The Horizon (Pho) \[White Extra\]](https://osu.ppy.sh/beatmapsets/636393#osu/1350353)**
 
 ### Semifinals

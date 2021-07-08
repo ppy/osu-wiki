@@ -147,7 +147,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
   - [Akiyama Uni - Kanpan Tasogare Shinbun (JBHyperion) \[Hyperion's Overdose\]](https://osu.ppy.sh/beatmapsets/633255#fruits/1486886)
   - [IOSYS - Okuu's Nuclear Fusion Dojo (Mafiamaster) \[v2b's Insane\]](https://osu.ppy.sh/beatmapsets/8442#fruits/37166)
 - Tiebreaker
-  - **[Yooh - salvation (alienflybot) \[AFB's crucifixion\]](https://osu.ppy.sh/beatmaps/1718267)**
+  - **Yooh - salvation (alienflybot) \[AFB's crucifixion\]**
 
 ### Round of 16
 

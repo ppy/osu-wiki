@@ -97,10 +97,10 @@ This competition has come to an end and resulted in the following podium:
   - [Miyu Tomita & Mariya Ise - Deep in Abyss (LostCool) \[Have you ever seen a dawn?\]](https://osu.ppy.sh/beatmapsets/661622#mania/1400630)
   - [Camellia - ANOMALY (qodtjr) \[The Last Madness\]](https://osu.ppy.sh/beatmapsets/608901#mania/1285947)
   - [movies - Realize Maze (Extended Mix) (moni) \[Circuitousness\]](https://osu.ppy.sh/beatmapsets/360188#mania/791775)
-  - [M2U remixed celas - Legend of Seeker (stupud man) \[INFERNO (shuffle)\]](https://osu.ppy.sh/beatmaps/1700663)
+  - M2U remixed celas - Legend of Seeker (stupud man) \[INFERNO (shuffle)\]
   - [1788-L - P U L S A R / B E A M (MapleSyrup-) \[W Boson\]](https://osu.ppy.sh/beatmapsets/794800#mania/1672321)
   - [YZYX - .\_Pulse (Kamikaze) \[Beyond\]](https://osu.ppy.sh/beatmapsets/809848#mania/1699295)
-  - [Hato - Alastor (stupud man) \[full density (rework)\]](https://osu.ppy.sh/beatmaps/1700659)
+  - Hato - Alastor (stupud man) \[full density (rework)\]
   - [sakuzyo - AngelFalse (aya) \[Darueru's blessing\]](https://osu.ppy.sh/beatmapsets/453976#mania/973436)
   - [bj.HaLo - Gekitsui -HELL AIR FORCE- (stupud man) \[Hartmann (rework)\]](https://osu.ppy.sh/beatmapsets/644532#mania/1700662)
   - [Swordy - I found this in my trash can. (LostCool) \[Please, don't delete\]](https://osu.ppy.sh/beatmapsets/697516#mania/1477471)
@@ -118,12 +118,12 @@ This competition has come to an end and resulted in the following podium:
   - [wa. - Black Lotus (Rain-) \[CuCu\]](https://osu.ppy.sh/beatmapsets/679321#mania/1436278)
   - [fripSide - infinite synthesis (\_underjoy) \[Benzopirene's LN MADNESS (cut)\]](https://osu.ppy.sh/beatmapsets/738325#mania/1693911)
   - [ginkiha - Anemoi (Ramuchi) \[Spring Wind\]](https://osu.ppy.sh/beatmapsets/695382#mania/1473413)
-  - [w_tre - FIONA (stupud man) \[Hi (rework)\]](https://osu.ppy.sh/beatmaps/1694310)
-  - [Round Wave Crusher - Slash Dot Slash (Slim boy fat) (Evening) \[destinia vs. estear\]](https://osu.ppy.sh/beatmaps/1677804)
+  - w_tre - FIONA (stupud man) \[Hi (rework)\]
+  - Round Wave Crusher - Slash Dot Slash (Slim boy fat) (Evening) \[destinia vs. estear\]
   - [PLight - TRIGGER\*HAPPY (Hommarju Remix) (\_underjoy) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/708773#mania/1498431)
   - [3L - Endless night (Fiea) \[deyum\]](https://osu.ppy.sh/beatmapsets/191164#mania/455082)
   - [Venetian Snares - Ketsarku Mozgalom (wizardoffail) \[only in comparison\]](https://osu.ppy.sh/beatmapsets/347300#mania/766440)
-  - [litmus\* - iterated (edit) (Kamikaze) \[7K INFINITE\]](https://osu.ppy.sh/beatmaps/960117)
+  - litmus\* - iterated (edit) (Kamikaze) \[7K INFINITE\]
   - [SHK - Death Moon (-Dhafin-) \[HX\]](https://osu.ppy.sh/beatmapsets/611652#mania/1647600)
   - [Umarutsufuri - KARURA -OriginalMix- (\_underjoy) \[Maboroshi Yuki\]](https://osu.ppy.sh/beatmapsets/756888#mania/1693865)
   - [p_d - Dandelion Sparkle!! (qodtjr) \[Sprint\]](https://osu.ppy.sh/beatmapsets/785754#mania/1649634)
@@ -138,20 +138,20 @@ This competition has come to an end and resulted in the following podium:
 
 - FreeMod
   - [xi - Grand Chariot (AncuL) \[Grand Chariot\]](https://osu.ppy.sh/beatmapsets/630588#mania/1331176)
-  - [Colorful Sounds Port - Colorful Sounds Cutter (stupud man) \[EX\]](https://osu.ppy.sh/beatmaps/1686250)
+  - Colorful Sounds Port - Colorful Sounds Cutter (stupud man) \[EX\]
   - [403 Forbiddena - Southern Cross (Gyukari) \[Holy Cross\]](https://osu.ppy.sh/beatmapsets/741024#mania/1563205)
-  - [Fripside - Eternal Reality (TV Size) (Lazarento) \[elahbms\]](https://osu.ppy.sh/beatmaps/1686202)
+  - Fripside - Eternal Reality (TV Size) (Lazarento) \[elahbms\]
   - [USAO - Boss Rush (Kim_GodSSI) \[BOSS\]](https://osu.ppy.sh/beatmapsets/656816#mania/1391441)
   - [Yooh - Ice Angel (Blocko) \[Celestia\]](https://osu.ppy.sh/beatmapsets/502932#mania/1070254)
   - [Renard - Can't Stop Lovin' You (Nivrad00) \[7k Challenge\]](https://osu.ppy.sh/beatmapsets/312234#mania/1625602)
   - [M2U & Nicode - Lune (Jinjin) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/574591#mania/1216907)
-  - [Colorful Sounds Port - ETERNAL DRAIN (stupud man) \[(ETERNAL DELAY\]](https://osu.ppy.sh/beatmaps/1686252)
+  - Colorful Sounds Port - ETERNAL DRAIN (stupud man) \[(ETERNAL DELAY\]
   - [Silent Siren - Routine (Kim_GodSSI) \[Hard\]](https://osu.ppy.sh/beatmapsets/433950#mania/992384)
   - [Doin - Pine Nut (Garalulu) \[7K Jat :V\]](https://osu.ppy.sh/beatmapsets/612106#mania/1292459)
   - [Gentle Stick x M2U - Ineffabilis (Wilben_Chan) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/770911#mania/1620760)
   - [The Algorithm - Isometry (\_underjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/523432#mania/1670208)
 - Tiebreaker
-  - **[lapix - Carry Me Away (Extended Mix) (Evening) \[Airbound (Evening's Flip)\]](https://osu.ppy.sh/beatmaps/1637822)**
+  - **lapix - Carry Me Away (Extended Mix) (Evening) \[Airbound (Evening's Flip)\]**
 
 ### Quarterfinals
 
@@ -163,13 +163,13 @@ This competition has come to an end and resulted in the following podium:
   - [Horie Yui - Asymmetry (Hanazawa Kana) \[Yoyu's Absolution\]](https://osu.ppy.sh/beatmapsets/410999#mania/926281)
   - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Blocko) \[underjoy's Another\]](https://osu.ppy.sh/beatmapsets/707421#mania/1532817)
   - [cYsmix - Manic (Kiviman) \[Extra\]](https://osu.ppy.sh/beatmapsets/364561#mania/800207)
-  - [Snails & Pegboard Nerds - Deep In The Night (Kamikaze) \[Deceptive\]](https://osu.ppy.sh/beatmaps/1679130)
+  - Snails & Pegboard Nerds - Deep In The Night (Kamikaze) \[Deceptive\]
   - [LIONE - Leave This Place (ARMNHMR Remix) (Evening) \[We VIP\]](https://osu.ppy.sh/beatmapsets/799170#mania/1677993)
-  - [455 - G e n g a o z o (stupud man) \[GOD (rework)\]](https://osu.ppy.sh/beatmaps/1678623)
-  - [ETIA. - Claiomh Solais (Arzenvald) \[LumiNous\]](https://osu.ppy.sh/beatmaps/689600)
+  - 455 - G e n g a o z o (stupud man) \[GOD (rework)\]
+  - ETIA. - Claiomh Solais (Arzenvald) \[LumiNous\]
   - [toby fox - MEGALOVANIA (Jinjin) \[sans\]](https://osu.ppy.sh/beatmapsets/574286#mania/1674242)
   - [Nanahoshi Kangengakudan - Meikaruza (sankansuki) \[ONE TON FUN\]](https://osu.ppy.sh/beatmapsets/427272#mania/922343)
-  - [EBICO - Persephone (Kamikaze) \[Maki'nother\]](https://osu.ppy.sh/beatmaps/1579893)
+  - EBICO - Persephone (Kamikaze) \[Maki'nother\]
   - [Camellia - Proluvies (Lenfried-) \[7K Insane\]](https://osu.ppy.sh/beatmapsets/727684#mania/1536296)
 - Tiebreaker
   - **[aaaa - Bokutachi no Tabi to Epilogue (ArcherLove) \[Caramel\]](https://osu.ppy.sh/beatmapsets/488559#mania/1041584)**
@@ -235,9 +235,9 @@ This competition has come to an end and resulted in the following podium:
 
 - FreeMod
   - [FizzD - Oriental Insomniac (Ciel) \[Stage 1: Glitch\]](https://osu.ppy.sh/beatmapsets/780852#mania/1640164)
-  - [Telekinesis - The Monk (Kamikaze) \[Stage 2: Shadow\]](https://osu.ppy.sh/beatmaps/1640173)
+  - Telekinesis - The Monk (Kamikaze) \[Stage 2: Shadow\]
   - [Valentin - A Little Story (Cryolien) \[Stage 3: Hold\]](https://osu.ppy.sh/beatmapsets/780862#mania/1640175)
-  - [Yuuna Sasara - Mononoke Butou (Kamikaze) \[Stage 4: Tribal\]](https://osu.ppy.sh/beatmaps/1640170)
+  - Yuuna Sasara - Mononoke Butou (Kamikaze) \[Stage 4: Tribal\]
 
 ## Match results
 
