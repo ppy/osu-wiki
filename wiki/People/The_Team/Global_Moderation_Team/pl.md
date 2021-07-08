@@ -64,34 +64,34 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugalski, japoński | Moderowanie czatu |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Zarządzanie społecznością, zarządzanie wiki osu! |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderowanie czatu |
-| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chiński | Moderacja tworzenia i modowania beatmap przez społeczność |
-| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderacja tworzenia i modowania beatmap przez społeczność |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderowanie czatu, moderacja tworzenia i modowania beatmap przez społeczność |
+| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chiński | Moderowanie społeczności twórców i moderów beatmap |
+| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderowanie społeczności twórców i moderów beatmap |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderowanie czatu, moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kantoński, chiński, japoński | Moderowanie czatu |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rosyjski | Moderowanie czatu |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japoński | Moderowanie czatu |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rosyjski | Moderowanie czatu |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Fiński | Moderowanie czatu |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Niemiecki | Moderacja tworzenia i modowania beatmap przez społeczność |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Niemiecki | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chiński | Moderowanie czatu |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Rozwój gry |
 | ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | Rosyjski | Moderowanie czatu |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holenderski | Moderowanie czatu, moderowanie forum |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński | Moderowanie czatu, moderowanie forum, pomoc techniczna |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francuski | Moderowanie czatu |
-| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderacja tworzenia i modowania beatmap przez społeczność |
+| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | Indonezyjski | Moderowanie czatu |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Francuski | Moderowanie czatu |
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portugalski, hiszpański | Moderowanie czatu |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Niemiecki | Moderacja tworzenia i modowania beatmap przez społeczność |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Niemiecki | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Oficjalny profil zespołu gry |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipiński | Moderowanie czatu |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Niemiecki | Organizowanie turniejów |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Francuski, hiszpański (częściowo) | Moderowanie czatu, moderowanie forum, moderacja tworzenia i modowania beatmap przez społeczność |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Francuski, hiszpański (częściowo) | Moderowanie czatu, moderowanie forum, moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugalski | Moderowanie czatu |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kantoński, chiński | Moderowanie czatu |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Koreański, japoński | Moderowanie czatu |
-| ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Moderacja tworzenia i modowania beatmap przez społeczność |
+| ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Hiszpański | Moderowanie czatu |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Niemiecki | Moderowanie forum |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Koreański | Moderowanie czatu |

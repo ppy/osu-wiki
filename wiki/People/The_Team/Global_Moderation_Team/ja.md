@@ -69,34 +69,34 @@ tags:
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | ポルトガル語、日本語 | チャットモデレーション |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | プレーヤーサポート、wiki管理者 |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | ポーランド語 | チャットモデレーション |
-| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | 中国語 | マッピング/モーディングのコミュニティー モデレーション |
-| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  | マッピング/モーディングのコミュニティー モデレーション |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | チャットモデレーション、マッピング/モーディングのコミュニティー モデレーション |
+| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | 中国語 | Mapping/modding コミュニティ モデレーション |
+| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding コミュニティ モデレーション |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | チャットモデレーション、mapping/modding コミュニティ モデレーション |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 広東語、中国語、日本語 | チャットモデレーション |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | ロシア語 | チャットモデレーション |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | 日本語 | チャットモデレーション |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | ロシア語 | チャットモデレーション |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | フィンランド語 | チャットモデレーション |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | ドイツ語 | マッピング/モーディングのコミュニティー モデレーション |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | ドイツ語 | Mapping/modding コミュニティ モデレーション |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | 中国語 | チャットモデレーション |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!開発者 |
 | ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | ロシア語 | チャットモデレーション |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | オランダ語 | チャットモデレーション、フォーラムモデレーション |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | フィリピン語 | チャットモデレーション、フォーラムモデレーション、テクニカルサポート |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | フランス語 | チャットモデレーション |
-| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | マッピング/モーディングのコミュニティー モデレーション |
+| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Mapping/modding コミュニティ モデレーション |
 | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | インドネシア語 | チャットモデレーション |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | フランス語 | チャットモデレーション |
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | ポルトガル語、スペイン語 | チャットモデレーション |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | ドイツ語 | マッピング/モーディングのコミュニティー モデレーション |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | ドイツ語 | Mapping/modding コミュニティ モデレーション |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | フィリピン語 | チャットモデレーション |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | ドイツ語 | トーナメント運営 |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | フランス語、部分的なスペイン語 | チャットモデレーション、フォーラムモデレーション、マッピング/モーディングのコミュニティー モデレーション |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | フランス語、部分的なスペイン語 | チャットモデレーション、フォーラムモデレーション、mapping/modding コミュニティ モデレーション |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | ポルトガル語 | チャットモデレーション |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 広東語、中国語 | チャットモデレーション |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | 韓国語、日本語 | チャットモデレーション |
-| ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | マッピング/モーディングのコミュニティー モデレーション |
+| ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Mapping/modding コミュニティ モデレーション |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | スペイン語 | チャットモデレーション |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | ドイツ語 | フォーラムモデレーション |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | 韓国語 | チャットモデレーション |
