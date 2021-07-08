@@ -8,7 +8,7 @@ Design two super short maps in this month's contrast-themed mapping contest!
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
-July's [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is for **osu!** only. View the contest listing [here](LINK) and stay tuned for other modes in the coming months!
+July's [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is for **osu!** only. View the contest listing [here](https://osu.ppy.sh/community/contests/132) and stay tuned for other modes in the coming months!
 
 ## Schedule
 
@@ -69,7 +69,7 @@ Song choices come from our [Featured Artists](https://osu.ppy.sh/beatmaps/artist
     <source src="https://assets.ppy.sh/artists/67/previews/1874.mp3">
 </audio>
 
-To make things easier, [**download this beatmap template including every song**](LINK)! You can map whichever two songs you choose, then export the `.osz` for submission on the [contest listing](LINK).
+To make things easier, [**download this beatmap template including every song**](https://assets.ppy.sh/contests/132/template.osz)! You can map whichever two songs you choose, then export the `.osz` for submission on the [contest listing](https://osu.ppy.sh/community/contests/132).
 
 ## Rules
 
@@ -83,9 +83,9 @@ Time for the nitty gritty. Submissions must...
 
 ## Submission
 
-You've got about **3 weeks** to stretch your mapping muscles then submit to the [contest listing](LINK).
+You've got about **3 weeks** to stretch your mapping muscles then submit to the [contest listing](https://osu.ppy.sh/community/contests/132).
 
-And in case you missed it, use the [beatmap template for every applicable song](LINK). It'll save you a lot of trouble since the contest listing only allows one file submission.
+And in case you missed it, use the [beatmap template for every applicable song](https://assets.ppy.sh/contests/132/template.osz). It'll save you a lot of trouble since the contest listing only allows one file submission.
 
 That's all for now! Good luck mapping and we'll see you with the results from last month's contest soon!
 
