@@ -15,14 +15,14 @@ For more details, refer to the **[osu!mania 4K World Cup 2021 wiki article](/wik
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | Jul 7 – Jul 21 |
-| Qualifier showcase | Jul 24 (14:00 UTC) |
-| Qualifier Stage | Jul 31 & Aug 1 |
-| Round of 32 | Aug 7 & Aug 8 |
-| Round of 16 | Aug 14 & Aug 15 |
-| Quarterfinals | Aug 21 & Aug 22 |
-| Semifinals | Aug 28 & Aug 29 |
-| Finals | Sep 4 & Sep 5 |
-| Grand Finals | Sep 11 & Sep 12 |
+| Qualifier showcase | Jul 31 (14:00 UTC) |
+| Qualifier Stage | Aug 7 & Aug 8 |
+| Round of 32 | Aug 14 & Aug 15 |
+| Round of 16 | Aug 21 & Aug 22 |
+| Quarterfinals | Aug 28 & Aug 29 |
+| Semifinals | Sep 4 & Sep 5 |
+| Finals | Sep 11 & Sep 12 |
+| Grand Finals | Sep 18 & Sep 19 |
 
 ## Prizes
 
