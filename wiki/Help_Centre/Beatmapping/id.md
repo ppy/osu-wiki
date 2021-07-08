@@ -38,7 +38,7 @@ Pada editor, klik `File` dan lalu klik `Open .osu in Notepad`. Apabila sudah, pe
 
 Apabila ternyata isi kolom tersebut tidak sesuai, tulis nama penggunamu di sana dan muat ulang beatmap yang bersangkutan setelahnya. Kamu seharusnya sekarang sudah dapat mengunggah beatmap milikmu tanpa masalah.
 
-Apabila langkah-langkah di atas tidak menyelesaikan masalahmu, harap baca [laman Panduan mengatasi masalah-masalah BSS berikut]((/wiki/Guides/BSS_Issues)) dengan seksama.
+Apabila langkah-langkah di atas tidak menyelesaikan masalahmu, harap baca [laman Panduan mengatasi masalah-masalah BSS berikut](/wiki/Guides/BSS_Issues) dengan seksama.
 
 ## Saya memiliki osu!supporter yang aktif, namun saya tidak dapat mengunggah hingga 10 beatmap Pending/WIP sebagaimana yang dijanjikan!
 
