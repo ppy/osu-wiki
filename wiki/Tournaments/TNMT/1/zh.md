@@ -45,7 +45,7 @@
 ## 链接
 
 - [论坛帖子](https://osu.ppy.sh/community/forums/topics/933636)
-- [报名注册](https://www.wjx.cn/jq/42658963.aspx "WJX")
+- [报名注册](https://www.wjx.cn/jq/42658963.aspx "问卷星")
 - [数据表](https://docs.google.com/spreadsheets/d/10sproN_2SQWUi6BZ4Sv9wlx0I5-i0hEBq7wqqWrlJdQ "Google Sheets")
 - [在 Challonge 上查看赛程](https://challonge.com/TNMT "Challonge")
 - [Discord](https://discord.gg/nxWEjpW "Discord")

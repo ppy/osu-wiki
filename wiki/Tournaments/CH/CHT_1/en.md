@@ -446,7 +446,7 @@ Monday, 27 January 2020:
 
 ### Scheduling instructions
 
-1. All schedules are going to be on UTC+0 due to the fact that many countries have different timezones and its easier this way. Timezone conversion can be done through this [website](https://www.timeanddate.com/worldclock/converter.html "Time and Date AS").
+1. All schedules are going to be on UTC+0 due to the fact that many countries have different timezones and its easier this way. Timezone conversion can be done through this [website](https://www.timeanddate.com/worldclock/converter.html "timeanddate.com").
 2. The Qualifiers mappool will be played twice. All players are allowed to play a rerun in their own lobby or in other lobby of their preference.
 3. All matches are going to be livestreamed.
 4. Pool Star Rating will differ in the 6 mappools of the tournament. There will be 1 overall pool for everyone in the Qualifiers Stage.

@@ -54,7 +54,7 @@ The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) was a worldwide
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$23.75, special plaque with player's username for each team member, custom made osu!taiko keypad for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$13.75, special plaque with player's username for each team member, custom made osu!taiko keypad for each team member |
 
-A prize pool of $1,000 with physical prizes are made possible thanks to [LotusPro](http://www.lotuspro.io/ "Lotuspro").
+A prize pool of $1,000 with physical prizes are made possible thanks to [Lotuspro](http://www.lotuspro.io/ "Lotuspro").
 
 ![](img/badge.jpg "CGTS 2021 winner badge")
 

@@ -446,7 +446,7 @@ Lunes, 27 Enero 2020:
 
 ### Instrucciones de horarios
 
-1. Todos los horarios van a estar en UTC+0 debido a que muchos países tienen diferentes zonas horarias y es más fácil de esta manera. La conversión de zonas horarias se puede hacer a través de este [sitio web](https://www.timeanddate.com/worldclock/converter.html "Time and Date AS").
+1. Todos los horarios van a estar en UTC+0 debido a que muchos países tienen diferentes zonas horarias y es más fácil de esta manera. La conversión de zonas horarias se puede hacer a través de este [sitio web](https://www.timeanddate.com/worldclock/converter.html "timeanddate.com").
 2. El mapa de los clasificatorios se jugará dos veces. Todos los jugadores pueden jugar una repetición en su propio vestíbulo o en otro vestíbulo de su preferencia.
 3. Todos los partidos serán transmitidos en vivo.
 4. La clasificación de estrellas del grupo será diferente en los 6 grupos de mapas del torneo. Habrá un grupo general para todos en la etapa de clasificación.
