@@ -30,10 +30,10 @@ Một thông điệp commit có ý nghĩa sẽ giúp bất cứ ai hiểu đư�
 16. Nhấn `Confirm squash and merge`.
 17. Đi tới [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki).
 18. Close your pull request that has the problematic branch.
-18. Đóng cái pull request chứa branch có vấn đề kia.
-19. Mở một pull request mới sử dụng branch mới tạo.
-20. Bạn có thể sao chép mô tả của cái pull request vừa đóng sang cái bạn mới mở. Sẽ rất hữu ích khi bạn đề cập đến cái pull request mới đóng.
-21. Nhấn `Create pull request`. Bạn đã xong việc sửa các commit. Nếu bạn đã xử lý xong các đánh giá từ pull request bị đóng và bạn chắc rằng pull request mới này sẵn sàng được merge, hãy nhờ ai đó merge hộ bạn.
+19. Đóng cái pull request chứa branch có vấn đề kia.
+20. Mở một pull request mới sử dụng branch mới tạo.
+21. Bạn có thể sao chép mô tả của cái pull request vừa đóng sang cái bạn mới mở. Sẽ rất hữu ích khi bạn đề cập đến cái pull request mới đóng.
+22. Nhấn `Create pull request`. Bạn đã xong việc sửa các commit. Nếu bạn đã xử lý xong các đánh giá từ pull request bị đóng và bạn chắc rằng pull request mới này sẵn sàng được merge, hãy nhờ ai đó merge hộ bạn.
 
 Về lý thuyết, đây là cách tốt nhất để squash commits từ một branch chỉ trong phạm vi sử dụng Giao diện Web Github. Việc squash commit trên GitHub Desktop là bất khả thi.
 

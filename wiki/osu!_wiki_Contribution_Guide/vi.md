@@ -42,7 +42,7 @@ Nếu bạn thắc mắc hay cần giúp đỡ ở bất cứ phần nào, hãy 
 
    ![](img/fork-ahead-behind.jpg "Có vẻ không ổn \(branch của bạn bị lỗi thời kèm theo các commit của bạn\)")
 
-3. Đây không phải vấn đề quá to tát, **_nếu_** bạn không sửa đổi các tệp đã bị sửa bời người khác.
+3. Đây không phải vấn đề quá to tát, ***nếu*** bạn không sửa đổi các tệp đã bị sửa bời người khác.
 
 4. Để xử lý vấn đề này, xem phần [Branch của tôi bị lỗi thời!](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#branch-của-tôi-đã-lỗi-thời!) trong trang Các vấn đề hay gặp.
 
