@@ -99,7 +99,7 @@ tags:
 
 **我们需要你提供一份`network.log`文件来弄清楚为什么上方的方案都不能解决你的问题。**
 
-对于获取network.log文件的说明，请参见[日志文件](/wiki/Help_Centre#log_files)。
+对于获取network.log文件的说明，请参见[日志文件](/wiki/Help_Centre#日志文件)。
 
 在极少数情况下，您可能需要联系您的 Internet 服务提供商 (ISP) 来询问这些问题。某些 ISP 过去曾在连接到 osu! 时遇到问题，通常是由于路由不佳。
 
@@ -213,11 +213,11 @@ tags:
 
 ### 我可以删除我的账号吗？
 
-*关于删除帐号的更多消息，参见： [您的权利和控制](https://osu.ppy.sh/legal/Privacy#your-rights-and-control).*
+*关于删除帐号的更多消息，参见： [您的权利和控制](/wiki/Legal/Privacy#your-rights-and-control).*
 
 *注意：帐户删除是永久性的，因此无法撤消！*
 
-是的，任何用户可以发邮件至 [privacy@ppy.sh](mailto:privacy@ppy.sh) 请求删除帐号。请记住，删除您的帐户是**永久操作**，这意味着它无法撤消或撤消。删除你的帐号不意味着你可以创建一个新账户，拥有多个帐号违反[规章制度](/wiki/Rules#community-rules)。这意味着你将无法再使用osu!的在线功能。
+是的，任何用户可以发邮件至 [privacy@ppy.sh](mailto:privacy@ppy.sh) 请求删除帐号。请记住，删除您的帐户是**永久操作**，这意味着它无法撤消或撤消。删除你的帐号不意味着你可以创建一个新账户，拥有多个帐号违反[规章制度](/wiki/Rules#社区规定)。这意味着你将无法再使用osu!的在线功能。
 
 ### 我可以在其他玩家登录过的电脑上玩osu!么？
 
