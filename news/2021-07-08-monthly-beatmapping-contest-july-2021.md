@@ -4,7 +4,7 @@ title: "Monthly Beatmapping Contest: July 2021"
 date: 2021-07-08 19:00:00 +0000
 ---
 
-Think you can create two masterpieces back to back? Map a couple super short songs in this month's contrast-themed mapping contest!
+Design two super short maps in this month's contrast-themed mapping contest!
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
@@ -21,28 +21,28 @@ July's [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)
 
 ### Theme
 
-Do you consider yourself a diverse mapper? I hope so, because this month's theme is all about **contrast**.
+Do you consider yourself a diverse mapper? I hope so, because this month's theme is all about contrast.
 
-*The MOST IMPORTANT RULE in this contest*: **you must map two (very short) songs.**
+*The MOST IMPORTANT RULE in this contest*: **you must map TWO (very short) songs.**
 
-Judges will evaluate each map separately aside from the "theme" category. This score will be assigned based on how well the maps show a difference in style between one another.
+Judges will evaluate each map separately aside from the "theme" category. This score will be assigned based on how well your two maps show a difference in style between one another.
 
-That said, your goal is to map each song with a distinctly different style!
+That said, your goal is to map each song in distinctly different ways (and ensure that both are solid maps, of course!).
 
 ### Songs
 
-Song choices come from our [Featured Artists](https://osu.ppy.sh/beatmaps/artists) as per usual. You can map **any two** of the songs below:
+Song choices come from our [Featured Artists](https://osu.ppy.sh/beatmaps/artists) as per usual. You must map **any two** of the songs below:
+
+#### Thaehan - Insert Coin (0:38 / 178 BPM)
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/7/previews/400.mp3">
+</audio>
 
 #### fiend - 2DF2 (0:46 / 155 BPM)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/156/FEVER%20DREAM/fiend%20-%202DF2%20(real).mp3">
-</audio>
-
-#### Thaehan - 12151109 (0:54 / 160 BPM)
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/7/previews/1271.mp3">
 </audio>
 
 #### Akira Complex - Infinity Stage Theme (1:00 / 130 BPM)
@@ -69,13 +69,13 @@ Song choices come from our [Featured Artists](https://osu.ppy.sh/beatmaps/artist
     <source src="https://assets.ppy.sh/artists/67/previews/1874.mp3">
 </audio>
 
-To make things easier, [download this beatmap template including every song](LINK)! You can map whichever two songs you choose, then export the `.osz` for submission on the [contest listing](LINK).
+To make things easier, [**download this beatmap template including every song**](LINK)! You can map whichever two songs you choose, then export the `.osz` for submission on the [contest listing](LINK).
 
 ## Rules
 
 Time for the nitty gritty. Submissions must...
 
-- **contain two maps using any of the month's [selected songs](#songs).** Please don't map more than two.
+- **contain TWO maps using any of the month's [selected songs](#songs).** Please don't map more than two songs.
 - **be in `.osz` format.** Including a background image and custom hitsounds is fine, but skin/storyboard/video content will not be considered.
 - **not be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** All contest submissions are anonymous during the screening/judging phases to avoid bias. **DO NOT SHARE YOUR ENTRY!**
 - **be solely created by you.** Collaborations are not allowed.
