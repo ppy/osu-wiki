@@ -85,7 +85,7 @@
 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | BAT, sohbet moderatörü, QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Turnuvalar |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Turnuva yönetimi |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | BAT, sohbet moderatörü |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
@@ -102,7 +102,7 @@
 | ![][flag_US] [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Turnuvalar |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Turnuva yönetimi |
 | ![][flag_MX] [Kai](https://osu.ppy.sh/users/4537) | BAT |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, osu!media yapımı |
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
@@ -115,7 +115,6 @@
 | ![][flag_FR] [Krah](https://osu.ppy.sh/users/1436748) | BAT, GMT, QAT |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | BAT |
 | ![][flag_KR] [KRZY](https://osu.ppy.sh/users/114017) | Sohbet moderatörü |
-| ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | BAT, GMT, QAT |
 | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) | QAT |
 | ![][flag_CL] [Kylecito](https://osu.ppy.sh/users/488) | BAT |
 | ![][flag_CA] [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
@@ -219,7 +218,7 @@
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, destek ekibi |
 | ![][flag_PH] [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, turnuvalar |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, turnuva yönetimi |
 | ![][flag_KR] [Where](https://osu.ppy.sh/users/549172) | GMT |
 | ![][flag_US] [whymeman](https://osu.ppy.sh/users/51994) | GMT |
 | ![][flag_ID] [Winshley](https://osu.ppy.sh/users/864895) | Sohbet moderatörü |

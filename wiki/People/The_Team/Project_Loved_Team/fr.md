@@ -23,9 +23,9 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 ### osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
+- ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
-- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
 - ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 
 ### osu!catch
@@ -48,14 +48,12 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 
 Les coordinateurs sont principalement chargés de veiller à ce que tous les capitaines travaillent ensemble pour assurer le bon déroulement du projet. Ils écrivent les nouvelles et les messages du forum, maintiennent les outils et aident à modérer les discussions sur la catégorie loved.
 
-- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
 
 ## Vérificateurs des métadonnées d'une beatmap
 
 Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise au vote, et travaillent avec les mappeurs pour corriger les éventuelles erreurs avant que les beatmaps ne soient potentiellement déplacées vers la catégorie loved.
 
-- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379)
@@ -64,6 +62,10 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise 
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 
 ## Alumni
+
+### Coordinateurs
+
+- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 
 ### Capitaines osu!
 
@@ -85,6 +87,7 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise 
 - ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
 - ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)
+- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
 - ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767)
 - ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
