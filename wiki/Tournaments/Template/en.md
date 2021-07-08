@@ -72,7 +72,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/{TOPIC_NUM})
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet]({STATS_LINK})**
 
 ## Participants
