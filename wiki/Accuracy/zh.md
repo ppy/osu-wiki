@@ -4,7 +4,7 @@
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
-准确度是对玩家及时击中[hit objects](/wiki/Hit_object)的能力的百分数评估。
+准确度是对玩家准时击中[hit objects](/wiki/Hit_object)的能力的百分数评估。
 玩家有三种准确度：
 节拍图的准确度，这取决于所得的命中分数；
 总准确度，它是为让更好的得分更加突出而权衡的；
@@ -14,7 +14,7 @@
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-![准确度 = (50 \* 50的数量 + 100 \* 100的数量 + 300 \* 300的数量) / 300( 0的数量 + 50的数量 + 100的数量 + 300的数量)](img/accuracy_osu.png "osu的准确度公式！")
+![准确度 = (50 \* 50的数量 + 100 \* 100的数量 + 300 \* 300的数量) / 300( 0的数量 + 50的数量 + 100的数量 + 300的数量)](img/accuracy_osu.png "osu!的准确度公式")
 
 在 osu! 中，准确度以每个被击中的物件所得判定按其价值加权计算，并除以可能的最大数额。
 
@@ -29,9 +29,11 @@
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![准确度 = 0.5(GOOD的数量 + GREAT的数量) / (number of BAD + number of GOOD + number of GREAT)](img/accuracy_taiko.png "Accuracy formula for osu!taiko")
+![准确度 = 0.5(GOOD的数量 + GREAT的数量) / (BAD的数量 + GOOD的数量 + GREAT的数量)](img/accuracy_taiko.png "osu!taiko的准确度公式")
 
-In osu!taiko, accuracy is calculated by taking the sum of the note accuracy (how close you were to hitting the note on time) divided by the number of total notes scored thus far. The note accuracies are labelled as a GREAT (良) (counts as 100%), GOOD (可) (counts as 50%) (half), and MISS/BAD (不可) (counts as 0%, which also breaks the combo). Drum rolls and spinners do not influence accuracy.
+在 osu!taiko 中，准确度以物件准确度（你多么接近准时击打物件）被此前得分中总物件数量除后，求和计算。
+物件准确度被归类为 GREAT (良) (记为100%)，GOOD (可) (记为50%，也就是一半)，
+以及 MISS/BAD (不可) (记为0%, 且会打断combo)。Drum rolls 和 spinners 不影响准确度。
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
