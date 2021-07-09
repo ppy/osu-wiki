@@ -116,6 +116,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
   - Mandarin metadata must be romanised using the Hanyu Pinyin system.
   - Cantonese metadata must be romanised by using the Jyutping system.
   - If the song falls into neither category, this choice is left up to the mapper's discretion and contacting a native speaker is recommended.
+- **Metadata in other languages not specifically covered in this section and lacking official romanisation from the artist must use a system common and recognisable for the language.** Contacting a native speaker is recommended to ensure accuracy in these cases.
 
 ### Guidelines
 
