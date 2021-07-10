@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "New Featured Artist: Fred V & Grafix"
-date: 2020-08-05 08:00:00 +0000
+date: 2021-07-10 08:00:00 +0000
 ---
 
-Sweeping the drum & bass scene, **Fred V & Grafix** arrives as our latest Featured Artist!
+We're proud to introduce our latest Featured Artist **Fred V & Grafix**!
 
 ![](https://assets.ppy.sh/artists/180/header.jpg)
 
-Innovators in their scene since their launch 10 years ago, **Fred V & Grafix** is a duo best known for their musical diversity within the bounds of drum & bass. Drawing influence from sources outside the scope of usual drum & bass like funk, soul, rock, and jazz, their music introduces new forms of instrumentation that you can't find from any other producers in the scene. So yeah, they're pretty cool.
+Drum & bass innovators **Fred V & Grafix** are a duo best known for diversity within their genre. Drawing influence from sources outside the scope of usual drum & bass like funk, soul, rock, and jazz, their music introduces and masters styles that few other producers in their scene have even attempted.
 
 We picked up **7** tracks from their catalogue featuring a wide selection of guest vocalists, all of which are up for grabs from [**Fred V & Grafix**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/180)!
 
-While the duo split in 2018 so each producer could pursue their own solo careers, the osu! community continues to carry the legacy of their collaborative works through awesome beatmaps. Check them out and maybe map some for yourself:
+While the ephemeral duo split in 2018 so each producer could pursue their own solo careers, the osu! community will continue to carry their legacy through a slew of awesome beatmaps. Check them out and maybe map some for yourself:
 
 ### Ignite (feat. Amy J Pryce)
 
@@ -44,8 +44,8 @@ Try out [another map](https://osu.ppy.sh/beatmapsets/1272355) hosted by [Dayno](
 
 ---
 
-Looking for more music to explore? [**Fred V & Grafix**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/180) is the place to go for the full track list, each song conveniently paired with a pre-timed beatmap template ready for you to start mapping *right now* (that's your cue, by the way).
+Wanna add more to your infinite stream of content to consume? Of course you do. [**Fred V & Grafix**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/180) is the place to go for the full track list, each song conveniently paired with a pre-timed beatmap template ready for you to start mapping *right now!* (That's your cue, by the way.)
 
-The week might be over and done, but we're still desperate to throw more artists in your face. Next week we'll bring in both familiar and new names to fawn over! Glue yourself to the [the @osugame Twitter](https://twitter.com/osugame) for all the details and we'll see you next Wednesday.
+The week might be over and done, but we're still desperate to aggressively throw more artists in your face. Next week we'll bring in both familiar and new talents to fawn over! Glue yourself to the [the @osugame Twitter](https://twitter.com/osugame) for all the details and we'll see you next Wednesday.
 
 —pishifat
