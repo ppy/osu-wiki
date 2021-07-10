@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Featured Artist: Fred V & Grafix"
-date: 2021-07-10 08:00:00 +0000
+date: 2021-07-10 09:00:00 +0000
 ---
 
-We're proud to introduce our latest Featured Artist **Fred V & Grafix**!
+We're proud to introduce our latest Featured Artists **Fred V & Grafix**!
 
 ![](https://assets.ppy.sh/artists/180/header.jpg)
 
