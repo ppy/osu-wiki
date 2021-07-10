@@ -49,11 +49,11 @@ In osu!catch, accuracy is calculated by taking the total number of non-spinner h
 
 In osu!mania, accuracy is calculated similarly to [osu!](#-osu!).
 
-## Performance graph
+## 表现图
 
-![Performance graph](img/performance_graph.png "Performance graph")
+![表现图](img/performance_graph.png "表现图")
 
-The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
+The performance graph is a 图表 that displays the player's performance (基于他们的生命栏) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
 
 *Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Interface#ranking-screen), this information will not be saved.*
 
