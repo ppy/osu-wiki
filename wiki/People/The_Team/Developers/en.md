@@ -26,7 +26,7 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
 
-### Website and server developers
+### Website developers
 
 - ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883)
 - ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102)
