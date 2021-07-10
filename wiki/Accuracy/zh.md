@@ -4,7 +4,7 @@
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
-准确度是对玩家准时击中[hit objects](/wiki/Hit_object)的能力的百分数评估。
+准确度是对玩家准时击中[物件](/wiki/Hit_object)的能力的百分数评估。
 玩家有三种准确度：
 节拍图的准确度，这取决于所得的命中分数；
 总准确度，它是为让更好的得分更加突出而权衡的；
