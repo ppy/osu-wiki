@@ -83,6 +83,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Francês | Moderação de chat |
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Português, Espanhol | Moderação de chat |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Alemão | Moderação da comunidade de mapping/modding |
+| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Alemão, Sérvio | Moderação da comunidade de mapping/modding |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Presença oficial da equipe |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Moderação de chat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Alemão | Torneios |

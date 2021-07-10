@@ -81,6 +81,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 | 聊天室管理员 |
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | 葡萄牙语，西班牙语 | 聊天室管理员 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | 谱面制作社群的管理工作 |
+| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | 德语，塞尔维亚语 | 谱面制作社群的管理工作 |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律宾语 | 聊天室管理员 |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德语 | 锦标赛管理员 |

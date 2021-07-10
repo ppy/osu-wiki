@@ -57,6 +57,7 @@ La [page du groupe de l'équipe de modération globale](https://osu.ppy.sh/group
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Français | Modérateur du tchat |
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portugais, Espagnol | Modérateur du tchat |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand | Modération de la communauté modding/mapping |
+| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, Serbe | Modération de la communauté modding/mapping |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Équipe de présence officiel |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modérateur du tchat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestionnaire des tournois |

@@ -200,7 +200,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Chinese |
+| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Chinese, Cantonese |
 | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | Italian |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Spanish |
 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Korean |

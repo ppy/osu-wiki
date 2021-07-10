@@ -200,7 +200,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Chinês |
+| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Chinês, Cantonês |
 | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | Italiano |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Espanhol |
 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Coreano |

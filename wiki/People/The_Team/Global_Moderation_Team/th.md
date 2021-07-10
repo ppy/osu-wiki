@@ -90,6 +90,7 @@ tags:
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | ฝรั่งเศส | ผู้ดูแลแชท |
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | โปรตุเกส, สเปน | ผู้ดูแลแชท |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | เยอรมัน | ผู้ดูแลชุมชนการแมป/การ mod |
+| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | เยอรมัน, เซอร์เบีย | ผู้ดูแลชุมชนการแมป/การ mod |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | ทีมอย่างเป็นทางการ |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | ฟิลิปปินส์ | ผู้ดูแลแชท |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | เยอรมัน | ทัวร์นาเมนต์ |

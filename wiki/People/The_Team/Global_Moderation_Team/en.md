@@ -90,6 +90,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | French | Chat moderation |
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portuguese, Spanish | Chat moderation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Mapping/modding community moderation |
+| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | German, Serbian | Mapping/modding community moderation |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Chat moderation |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Tournament management |

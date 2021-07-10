@@ -167,7 +167,6 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
 | ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Moderador del chat, equipo de soporte |
-| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Moderador del chat |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |

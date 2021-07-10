@@ -165,7 +165,6 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
 | ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Moderador de chat, equipe de suporte |
-| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Moderador de chat |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
