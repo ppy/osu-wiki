@@ -4,9 +4,9 @@
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
-准确度是对玩家准时击中[hit objects](/wiki/Hit_object)的能力的百分数评估。
+准确度是对玩家准时击中[物件](/wiki/Hit_object)的能力的百分数评估。
 玩家有三种准确度：
-节拍图的准确度，这取决于所得的命中分数；
+谱面的准确度，这取决于所得的命中分数；
 总准确度，它是为让更好的得分更加突出而权衡的；
 [Performance Points (pp)](/wiki/Performance_Points)准确度，它取决于提交的得分的准确度。
 
@@ -18,7 +18,7 @@
 
 在 osu! 中，准确度以每个被击中的物件所得判定按其价值加权计算，并除以可能的最大数额。
 
-对于单个hit circle的参考：
+对于单个圆圈的参考：
 
 ```
 300 -> 300 / 300 = 1   = 100.00%
@@ -31,52 +31,52 @@
 
 ![准确度 = 0.5(GOOD的数量 + GREAT的数量) / (BAD的数量 + GOOD的数量 + GREAT的数量)](img/accuracy_taiko.png "osu!taiko的准确度公式")
 
-在 osu!taiko 中，准确度以物件准确度（你多么接近准时击打物件）被此前得分中总物件数量除后，求和计算。
+在 osu!taiko 中，准确度以物件准确度（击打物件时的时间差）除以已计分的物件总量计算。
 物件准确度被归类为 GREAT (良) (记为100%)，GOOD (可) (记为50%，也就是一半)，
 以及 MISS/BAD (不可) (记为0%, 且会打断combo)。Drum rolls 和 spinners 不影响准确度。
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![Accuracy = (number of droplets + number of drops + number of fruits) / (number of missed droplets + number of missed drops + number of missed fruits + number of droplets + number of drops + number of fruits)](img/accuracy_catch.png "Accuracy formula for osu!catch")
+![准确度 = (droplets的数量 + drops的数量 + 水果的数量) / (错过的droplets的数量 + 错过的drops的数量 + 错过的水果的数量 + droplets的数量 + drops的数量 + 水果的数量)](img/accuracy_catch.png "osu!catch的准确度公式")
 
-In osu!catch, accuracy is calculated by taking the total number of non-spinner hit objects collected, divided by the total number of non-spinner objects. All hit objects have the same value; except for bananas, as they are part of the spinner objects.
+在 osu!catch 中，准确度以收集的非转盘物件数量总和除以非转盘物件数量总和计算。所有物件的价值相同，除了香蕉，因为它是转盘的一部分。
 
-*Note for API users: To calculate the accuracy in osu!catch, the number of droplets is under `count50` and the number of missed droplets is under `countkatu`.*
+*对 API 用户的提醒：若要自行计算osu!catch的准确度，注意droplets的数量记为 `count50` ，而错过的droplets数量记为 `countkatu` *
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
+![准确度 = (50 \* 50的数量 + 100 \* 100的数量 + 200 \* 200的数量 + 300 \* 300的数量 + 300 \* MAX的数量) / 300(0的数量 + 50的数量 + 100的数量 + 200的数量 + 300的数量 + MAX的数量)](img/accuracy_mania.png "Accuracy formula for osu!mania")
 
-In osu!mania, accuracy is calculated similarly to [osu!](#-osu!).
+在 osu!mania 中, 准确度计算方式类似 [osu!](#-osu!)。
 
 ## 表现图
 
 ![表现图](img/performance_graph.png "表现图")
 
-The performance graph is a 图表 that displays the player's performance (基于他们的生命栏) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
+表现图是显示玩家在游玩过程（时间）中的表现 (基于生命栏）的图表。在游戏中，光标悬停在它上方时会显示附加信息。
 
-*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Interface#ranking-screen), this information will not be saved.*
+*注意：附加信息仅可在游玩谱面或者观看回放后查看。退出 [结算界面](/wiki/Interface#ranking-screen) 后，这些信息不会被保存。*
 
-### Accuracy
+### 准确度
 
-When hovering over the performance graph, a tooltip is displayed with an `Error` and `Unstable Rate` rating.
+光标悬停在表现图上方时， 将显示一个包含 `Error` 和 `Unstable Rate` 评级的提示框
 
-Due to the way the [DT](/wiki/Game_modifier/Double_time) (Double Time) and [HT](/wiki/Game_modifier/Half_time) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing with the DT mod, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing with the HT mod.
+由于 [DT](/wiki/Game_modifier/Double_time) (Double Time) 和 [HT](/wiki/Game_modifier/Half_time) (Half Time) 的实现方法， Error 和 Unstable Rate 的值将会被乘以谱面的速度变化率。 当使用 DT 时， 要获得真正的 Unstable Rate，将结果除以 1.5 即可。 以此类推，当使用 HT mod 游玩时将结果乘以 1.33即可。
 
 #### Error
 
-`Error` will always display two values that represent how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) value of the beatmap is, the lower the error values will have to be to do well when playing the beatmap.
+`Error` 将永远显示两个值，代表提前击打和延迟击打时间的平均值。谱面的 [Overall Difficulty](/wiki/Beatmapping/Overall_Difficulty) 值越高，游玩谱面时得到好的分数所需要的 Error 值也越低。
 
 #### Unstable rate
 
-`Unstable Rate` represents the consistency of the timing of the hits, where lower numbers are better (top players often score below 100). Note that the value measures consistency, not accuracy, so consistently hitting 15ms early is the same as consistently hitting on time. The formula is essentially the standard deviation of the hit errors (in milliseconds), multiplied by 10. [Sample code](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) is available as a reference, showing how osu-stable calculates the unstable rate values.
+`Unstable Rate` 代表击打计时的连续性，越低的值越好 （顶尖玩家往往保持在100以下）。 注意该值衡量的是连续性，因此连续地提前15毫秒击打将和连续准时击打相同。 公式基本上是击打误差 （以毫秒为单位） 乘以10。 [示例代码](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) 可以作为参考，展示了 osu-stable 如何计算 Unstable Rate 值。
 
 ### Spin
 
-*Note: Spin is only used for the [osu! game mode](/wiki/Game_mode/osu!).*
+*注: Spin 仅被用在 [osu! 游戏模式](/wiki/Game_mode/osu!)中。*
 
-In addition to the accuracy, some information regarding spinners is also seen in the same tooltip. <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
+除准确度外，一些关于转盘的其它信息在该提示框内 <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
 
 #### Speed
 
-Speed represents the average RPM (revolutions per minute) on all the spinners in the beatmap. `Max` is the highest RPM the player achieved in any of the beatmap's spinners.
+速度代表谱面中转盘的平均转速（每分钟转数）。“Max” 是指玩家在谱面的转盘上达到的最高转速。
