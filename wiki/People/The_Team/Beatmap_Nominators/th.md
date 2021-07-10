@@ -200,7 +200,7 @@ tags:
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | จีน |
+| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | จีน, กวางตุ้ง |
 | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | อิตาลี |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | สเปน |
 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | เกาหลี |

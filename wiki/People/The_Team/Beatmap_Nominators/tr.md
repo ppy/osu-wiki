@@ -200,7 +200,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Çince |
+| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Çince, Kantonca |
 | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | İtalyanca |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | İspanyolca |
 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Korece |
