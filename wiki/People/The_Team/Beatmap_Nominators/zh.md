@@ -197,7 +197,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | 中文 |
+| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | 中文，粤语 |
 | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | 意大利语 |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | 西班牙语 |
 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | 韩语 |

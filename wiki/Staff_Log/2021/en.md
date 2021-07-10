@@ -304,6 +304,7 @@ Abbreviations for user groups are used throughout this log:
 - 2021-07-01: Added [Pope Gadget](https://osu.ppy.sh/users/2288341) to **GMT**
 - 2021-07-02: Added [Garden](https://osu.ppy.sh/users/2849992) to **GMT**
 - 2021-07-04: Moved [KSHR](https://osu.ppy.sh/users/409957) from **osu! Alumni** to **GMT**
+- 2021-07-09: Moved [OnosakiHito](https://osu.ppy.sh/users/290128) from **osu! Alumni** to **GMT**
 
 ### Beatmap Nominators
 
@@ -316,4 +317,4 @@ Abbreviations for user groups are used throughout this log:
 - 2021-07-06: Added [BlackBq](https://osu.ppy.sh/users/6291741) to **Probationary BN**
 - 2021-07-07: Added [mrowswares](https://osu.ppy.sh/users/9558549) to **Probationary BN**
 
-<!-- last update: 2021-07-08 01:00 UTC added mrowswares to probo bn -->
+<!-- last update: 2021-07-10 11:00 UTC added onosakihito to gmt -->

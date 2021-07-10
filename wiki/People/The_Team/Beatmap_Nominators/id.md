@@ -200,7 +200,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Mandarin |
+| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Mandarin, Kanton |
 | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | Italia |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Spanyol |
 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Korea |

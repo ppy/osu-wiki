@@ -200,7 +200,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Китайский |
+| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Китайский, кантонский диалект |
 | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | Итальянский |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Испанский |
 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Корейский |

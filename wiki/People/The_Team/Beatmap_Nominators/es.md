@@ -201,7 +201,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Chino |
+| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Chino, cantonés |
 | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | Italiano |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Español |
 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Coreano |
