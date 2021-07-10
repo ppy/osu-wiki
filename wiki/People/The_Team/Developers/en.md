@@ -23,10 +23,8 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
 - ![][flag_SK] [Domco](https://osu.ppy.sh/users/3562660)
-- ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
-- ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058)
 
 ### Website and server developers
 
@@ -39,7 +37,6 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 ### Designers
 
 - ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765)
-- ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202)
 
 ### Community managers
 
@@ -50,6 +47,17 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 ### Bot accounts
 
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
+
+## Retired contributors
+
+Below listed are users, who have left the ongoing development efforts, and moved on.
+
+| User | Role |
+| :-- | :-- |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Game client developer |
+| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Designer |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Game client developer |
+
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
