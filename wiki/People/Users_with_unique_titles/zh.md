@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
----
-
 # 拥有特殊头衔的玩家
 
 玩家的头衔通常与 [用户组](/wiki/People/The_Team#用户组) 相关联，但是出于其他原因，为以下列出的用户提供了特殊头衔。大多数头衔是对贡献或成就的奖励，其余则是有标志性或有趣的 osu! 历史的标志。
@@ -74,7 +69,7 @@ outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
 - ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)
 - ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023)
 - ![][flag_AU] [m980](https://osu.ppy.sh/users/3288)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)¹
 - ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993)
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
@@ -90,30 +85,37 @@ outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
+¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) 成功地通过两种不同的方式获得 **Elite Mapper** 头衔从而被授予 **Elite Mapper II** 头衔：在 [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) 大赛中获胜，以及在新的 [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) 系统中超越了6分的门槛。 
+
 ### 精英提名人
 
 自2020年以来，**Elite Nominator** 成为 [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (BN) 和 [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) 成员 在 Rank 系统中获得的奖励。该头衔是在每年年初根据上一年所做贡献而给出的，并且会在玩家离开团队后删除。
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
-- ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
-- ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
-- ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
-- ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)
-- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
+- ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
+- ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)¹
+- ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)¹
+- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)¹
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
+
+¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), 与 ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) 都因为连续两年被确定为精英提名人而被授予 **Elite Nominator II** 头衔。
 
 ### Aspire 作图大赛获奖者
 
 Aspire 作图大赛采用了 **Elite Mapper** 的特殊变体 **Elite Mapper: Aspirant** 来作为冠军头衔。
 
-- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
+- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)¹
+- ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
+- ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619)
 - ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792)
 - ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267)
-- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)²
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) 在拥有 **Elite Mapper** 头衔后获得了此头衔，因此它被“升级”为 **Elite Mapper II: Aspirant**。![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) 选择保留 **osu!catch Champion** 头衔。
+¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) 在 [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) 以及 [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) 中获胜，从而被授予 **Elite Mapper II : Aspirant** 头衔。
+
+² ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) 现在选择使用 **osu!catch Champion** 头衔.
 
 ### osu!remix 大赛获奖者
 
@@ -121,6 +123,8 @@ osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
+
+¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) 在 [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) 以及 [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) 中获胜，从而被授予 **osu!mixer II** 头衔
 
 ### 精选艺术家
 
@@ -144,6 +148,7 @@ osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ![][flag_MY] [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
+| ![][flag_JP] [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
 | ![][flag_PH] [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
@@ -159,8 +164,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) 设计了 **Mocha** 并帮助创作了许多其他 osu! 艺术作品。
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) 获得了 [Fan Art 6: osu!taiko 吉祥物](https://osu.ppy.sh/community/contests/2) 大赛冠军。
 - ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) 重新设计了 **Yuzu**。
-
-<!-- There should be xiemon's project of mascots Mani and Mari-->
+- ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) 设计了 **Mani and Mari**.
 
 ### 名人堂
 
@@ -222,7 +226,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 
 ## 按名字排序
 
-| User | Title |
+| 用户 | 头衔 |
 | :-- | :-- |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
