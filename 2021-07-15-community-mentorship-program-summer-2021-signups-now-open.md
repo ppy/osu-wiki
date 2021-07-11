@@ -18,9 +18,9 @@ If you're experienced in mapping and have a desire to take those who are new und
 
 For this following cycle, the timeline is as follows (all opening and closing dates start and end at midnight UTC+0):
 
-- Mentor signups will open on **July 11th** and close on **July 17th**.
-- Mentee signups will open on **August 1st** and close on **August 8th**.
-- The 2021 Summer cycle will run from **August 9th** to **November 8th**.
+- Mentor signups will open on **July 17th** and close on **July 24th**.
+- Mentee signups will open on **August 8th** and close on **August 14th**.
+- The 2021 Summer cycle will run from **August 15th** to **November 14th**.
 
 Throughout this active cycle time, the organization team will host various events on the Mentorship Discord server, engaging and offering events for mentees and mentors to participate in. These include feedback lobbies, mapping contests, and more! Some of our previous mapping puzzles can be found here in [this thread](https://osu.ppy.sh/community/forums/topics/565382), and previous discussions can be found [here](https://osu.ppy.sh/community/forums/topics/514122).
 
