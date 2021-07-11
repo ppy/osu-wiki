@@ -6,7 +6,7 @@ outdated: true
 
 Aimod 是一个内置于 beatmap editor 中的一个工具，你可以在 “File-->Open AiMod” 或者按下 “Ctrl+Shift+A” 打开它。当你做完一张 beatmap 正在找或者打算找 modder 来看你的 beatmap 的时候，你就可以打开这个工具来看看。AiMod 可以检测出一些新人比较容易出现的问题，也可以对较简单难度的图进行一个检测。不过 AiMod 始终都带有一个 Ai，就肯定有一些检测不出来的问题，所以，除了需要使用 AiMod 进行 beatmap 检测之外，还需要一些 modder 来检测你的 beatmap。
 
-![AiMod](AiMod.jpg "通常 AiMod 都是你的第一个 Modder")
+![AiMod](img/AiMod-ZH.png "通常 AiMod 都是你的第一个 Modder")
 
 ## 常见错误解释
 
@@ -58,6 +58,12 @@ Aimod 是一个内置于 beatmap editor 中的一个工具，你可以在 “Fil
 - Timing-->Move all notes in time，如果只改变了 offset（偏移量），可以修改这个
 - 自行在时间轴上拖放物件
 
+#### There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps.
+
+翻译：**这个难度/谱 没有在任何的note上添加hitsound。hitsound是ranked图的必要**
+
+解决: 随便在一个Note上添加whistles，claps或者finishes等击打音效
+
 ### Design（背景设计）
 
 这些问题一般都是一些界面的问题，比如背景、故事板等等
@@ -90,6 +96,14 @@ Design-->Background Image/Video-->选择你的图片
 
 ### Meta（元信息）
 
+#### Drain time should be over 30 seconds.
+
+翻译：**掉血时间应该超过30秒**
+
+级别：错误
+
+解决: **地图从头到尾的时间应该超过30秒**
+
 ### Mapset（难度设置）
 
 一般来说，一个**完整的** beatmap 并不会只有一个难度，而这些难度里面的内容，也要协调一下。
@@ -111,3 +125,10 @@ xxx confict...的xxx可能代表的信息：Source（来源）、Tags、Title（
 ..at least xxx diff(s)的xxx可能代表的信息：1 easy/normal（需要1个 easy 或者 normal 的难度）、2 standard（需要2个难度）
 
 级别：警告
+
+
+### 缺陷
+* **AiMod不能检测大量被[Ranked准则](https://osu.ppy.sh/wiki/zh/Ranking_Criteria)视为违反规则的问题**
+* **AiMod可能会警告您一些无视问题**
+* **如果启用了`Check distance snap`功能，AiMod无法检测到distance snap之间的combos**,甚至是Jump距离问题
+* **AiMod可能会出现无法检测错误已解决**，比如你刚刚在几个combos上添加了hitsound，但AiMod还是会提示**There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps.**
