@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: cc2b4d9b778210b6ca3c521f06d3cb36ca7b316e
 ---
 
 <div class="wiki-main-page__blurb">
@@ -12,7 +14,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 시작하기
 
-[환영합니다](/wiki/Welcome) • [설치하기](/wiki/Installation) • [회원가입](/wiki/Registration) • [고객 지원](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[설치하기](/wiki/Installation) • [회원가입](/wiki/Registration) • [고객 지원](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

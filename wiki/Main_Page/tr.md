@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: cc2b4d9b778210b6ca3c521f06d3cb36ca7b316e
 ---
 
 <div class="wiki-main-page__blurb">
@@ -12,7 +14,7 @@ osu! ile ilgili çok çeşitli bilgiler içeren bir proje olan osu! wiki'ye hoş
 
 # Başlarken
 
-[Hoş Geldiniz](/wiki/Welcome) • [Kurulum](/wiki/Installation) • [Kayıt](/wiki/Registration) • [Yardım Merkezi](/wiki/Help_Centre) • [SSS](/wiki/FAQ)
+[Kurulum](/wiki/Installation) • [Kayıt](/wiki/Registration) • [Yardım Merkezi](/wiki/Help_Centre) • [SSS](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: cc2b4d9b778210b6ca3c521f06d3cb36ca7b316e
 ---
 
 <div class="wiki-main-page__blurb">
@@ -12,7 +14,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 # Podstawy
 
-[Na początek](/wiki/Welcome) • [Instalacja](/wiki/Installation) • [Rejestracja](/wiki/Registration) • [Centrum pomocy](/wiki/Help_Centre) • [Najczęściej zadawane pytania](/wiki/FAQ)
+[Instalacja](/wiki/Installation) • [Rejestracja](/wiki/Registration) • [Centrum pomocy](/wiki/Help_Centre) • [Najczęściej zadawane pytania](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

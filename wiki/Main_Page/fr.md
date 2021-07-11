@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: cc2b4d9b778210b6ca3c521f06d3cb36ca7b316e
 ---
 
 <div class="wiki-main-page__blurb">
@@ -12,7 +14,7 @@ Bienvenue sur le wiki d'osu!, un projet contenant une large quantité d'informat
 
 # Pour débuter
 
-[Bienvenue](/wiki/Welcome) • [Installation](/wiki/Installation) • [Inscription](/wiki/Registration) • [Centre d'aide](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Installation](/wiki/Installation) • [Inscription](/wiki/Registration) • [Centre d'aide](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

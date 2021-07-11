@@ -16,7 +16,7 @@ Välkommen till osu! wikin, ett projekt som innehåller ett brett utbud av osu! 
 
 # Kom igång
 
-[Välkommen](/wiki/Welcome) • [Registrering](/wiki/Registration) • [Installation](/wiki/Installation) • [Spelgränssnitt](/wiki/Interface) • [Spelinställningar](/wiki/Options) • [Tangentbindningar](/wiki/Shortcut_Key_Reference) • [Översikt](/wiki/Sitemap) • [Guider](/wiki/Guides) • [Hjälpcenter](/wiki/Help_Centre)
+[Registrering](/wiki/Registration) • [Installation](/wiki/Installation) • [Spelgränssnitt](/wiki/Interface) • [Spelinställningar](/wiki/Options) • [Tangentbindningar](/wiki/Shortcut_Key_Reference) • [Översikt](/wiki/Sitemap) • [Guider](/wiki/Guides) • [Hjälpcenter](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">

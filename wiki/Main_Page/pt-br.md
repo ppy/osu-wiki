@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: cc2b4d9b778210b6ca3c521f06d3cb36ca7b316e
 ---
 
 <div class="wiki-main-page__blurb">
@@ -11,7 +13,7 @@ Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informaç�
 
 # Introdução
 
-[Bem-vindo](/wiki/Welcome) • [Instalação](/wiki/Installation) • [Registro](/wiki/Registration) • [Central de Ajuda](/wiki/Help_Centre) • [Perguntas Frequentes](/wiki/FAQ)
+[Instalação](/wiki/Installation) • [Registro](/wiki/Registration) • [Central de Ajuda](/wiki/Help_Centre) • [Perguntas Frequentes](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

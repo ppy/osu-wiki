@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: cc2b4d9b778210b6ca3c521f06d3cb36ca7b316e
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -13,7 +15,7 @@ layout: main_page
 
 # 入門
 
-[歡迎](/wiki/Welcome) • [安裝](/wiki/Installation) • [註冊](/wiki/Registration) • [幫助中心](/wiki/Help_Centre) • [問與答](/wiki/FAQ)
+[安裝](/wiki/Installation) • [註冊](/wiki/Registration) • [幫助中心](/wiki/Help_Centre) • [問與答](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

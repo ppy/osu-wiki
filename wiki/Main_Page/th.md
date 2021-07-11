@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: cc2b4d9b778210b6ca3c521f06d3cb36ca7b316e
 ---
 
 <div class="wiki-main-page__blurb">
@@ -11,7 +13,7 @@ layout: main_page
 
 # การเริ่มต้น
 
-[ยินดีต้อนรับ](/wiki/Welcome) • [การติดตั้ง](/wiki/Installation) • [การลงทะเบียน](/wiki/Registration) • [ศูนย์ช่วยเหลือ](/wiki/Help_Centre) • [คำถามที่พบบ่อย](/wiki/FAQ)
+[การติดตั้ง](/wiki/Installation) • [การลงทะเบียน](/wiki/Registration) • [ศูนย์ช่วยเหลือ](/wiki/Help_Centre) • [คำถามที่พบบ่อย](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
