@@ -170,8 +170,6 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 
 这三位玩家被授予 **osu! Hall of Famer** 头衔，作为高水平玩家在社区还未成熟时协助社区发展。
 
-<!-- TODO: reasons -->
-
 - ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589)
 - ![][flag_PH] [James](https://osu.ppy.sh/users/5728)
 - ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781)
@@ -201,8 +199,6 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 
 ### 贡献者
 
-<!-- TODO: reasons -->
-
 | 用户 | 头衔 |
 | :-- | :-- |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
@@ -219,8 +215,6 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 
 ### 其他
-
-<!-- TODO: reasons -->
 
 | 用户 | 头衔 |
 | :-- | :-- |
