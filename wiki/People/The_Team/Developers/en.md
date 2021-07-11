@@ -92,7 +92,6 @@ Below listed are users, who have left the ongoing development efforts, and moved
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Designer |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Game client developer |
 
-
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
