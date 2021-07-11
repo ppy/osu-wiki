@@ -14,8 +14,8 @@
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
 - ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
-- ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650)
 - ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603)
+- ![][flag_US] [Stevie Blunder](https://osu.ppy.sh/users/4908650)
 - ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
@@ -95,10 +95,9 @@
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)¹
 - ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)¹
-- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)¹
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
 
-¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), 与 ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) 都因为连续两年被确定为精英提名人而被授予 **Elite Nominator II** 头衔。
+¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), 与 ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) 都因为连续两年被确定为精英提名人而被授予 **Elite Nominator II** 头衔。
 
 ### Aspire 作图大赛获奖者
 
@@ -110,12 +109,10 @@ Aspire 作图大赛采用了 **Elite Mapper** 的特殊变体 **Elite Mapper: As
 - ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619)
 - ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792)
 - ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267)
-- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)²
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
 ¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) 在 [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) 以及 [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) 中获胜，从而被授予 **Elite Mapper II : Aspirant** 头衔。
-
-² ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) 现在选择使用 **osu!catch Champion** 头衔.
 
 ### osu!remix 大赛获奖者
 
@@ -134,6 +131,7 @@ osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 
 | 用户 | 艺术家 |
 | :-- | :-- |
+| ![][flag_JP] [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
 | ![][flag_US] [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
@@ -232,6 +230,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
 | ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366) | Elite Storyboarder |
 | ![][flag_US] [11t](https://osu.ppy.sh/users/2112092) | Elite Storyboarder |
+| ![][flag_JP] [A\_\_](https://osu.ppy.sh/users/12011880) | Featured Artist |
 | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | Elite Mapper |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) | Elite Nominator |
 | ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010) | osu! Champion |
@@ -270,7 +269,6 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387) | osu!mania Champion |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Elite Mapper |
-| ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) | osu! Champion |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
@@ -337,6 +335,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_LY] [Soul Evans](https://osu.ppy.sh/users/4490770) | Elite Mapper |
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | osu!catch Champion |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
+| ![][flag_US] [Stevie Blunder](https://osu.ppy.sh/users/4908650) | osu! Champion |
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
 | ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296) | osu! Champion |
 | ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) | osu!taiko Champion |
