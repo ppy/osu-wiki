@@ -332,7 +332,7 @@ Pemain-pemain berikut memperoleh gelarnya masing-masing atas keberhasilan mereka
 | ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267) | Elite Mapper: Aspirant |
 | ![][flag_ES] [sotuiofficial](https://osu.ppy.sh/users/14779258) | Featured Artist |
 | ![][flag_LY] [Soul Evans](https://osu.ppy.sh/users/4490770) | Elite Mapper |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | osu!catch Champion |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Elite Mapper: Aspirant |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 | ![][flag_US] [Stevie Blunder](https://osu.ppy.sh/users/4908650) | osu! Champion |
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
