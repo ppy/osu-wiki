@@ -60,9 +60,9 @@ Aimod 是一个内置于 beatmap editor 中的一个工具，你可以在 “Fil
 
 #### There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps.
 
-翻译：**这个难度/谱 没有在任何的note上添加hitsound。hitsound是ranked图的必要**
+翻译：**物件无击打音效，对于ranked图而言是必须有的**
 
-解决: 随便在一个Note上添加whistles，claps或者finishes等击打音效
+解决: 为谱面添加whistle、clap、finish等击打音效
 
 ### Design（背景设计）
 
@@ -128,7 +128,12 @@ xxx confict...的xxx可能代表的信息：Source（来源）、Tags、Title（
 
 
 ### 缺陷
-* **AiMod不能检测大量被[Ranked准则](https://osu.ppy.sh/wiki/zh/Ranking_Criteria)视为违反规则的问题**
-* **AiMod可能会警告您一些无视问题**
-* **如果启用了`Check distance snap`功能，AiMod无法检测到distance snap之间的combos**,甚至是Jump距离问题
+* **AiMod 无法检测许多在[Ranking Criteria](/wiki/Ranking_Criteria)中被视为违反规则的问题。** 例如未对齐节拍的物件、击打音效延迟、谱面背景图片大小超过2.5MB等。
+* **AiMod 可能会警告您一些不是问题的问题。** 例如[马拉松图](/wiki/Beatmap/Marathon)应当有两个难度，[Kiai](/wiki/Kiai_Time)时长少于 15 秒。
+* **如果启用了 `Check distance snap` 功能，AiMod 将不会检查 Combo 间的距离。**
 * **AiMod可能会出现无法检测错误已解决**，比如你刚刚在几个combos上添加了hitsound，但AiMod还是会提示**There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps.**
+* **如果beatmap文件夹里面有多个MP3文件，AiMod可能会警告您有多个歌曲文件**，但MP3文件也使用于音效(Hitsound),如掌声(clap)
+
+另外 建议使用其他程序，比如[][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) 的 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases)。除了AiMod，如果你想让你的beatmap 被[ranked](/wiki/Beatmap/Category#ranked)。其他程序可以比AiMod更了解最新的[Ranking criteria](/wiki/Ranking_Criteria)，并且能检测到的问题比AiMod多。但是，请不要完全忽略了AiMod，因为[Ranking criteria](/wiki/Ranking_Criteria)中的某些规则需要依赖于它(如 Drain time should be over 30 seconds)
+
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
