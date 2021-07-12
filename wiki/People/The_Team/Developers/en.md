@@ -56,8 +56,8 @@ Currently, the main osu! projects are hosted on GitHub and available for anyone 
 
 *For detailed insights on contributions to the osu! project, see: [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors "GitHub")*
 
-- ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163)
 - ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022)
+- ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163)
 - ![][flag_SA] [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732)
 - ![][flag_PL] [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
