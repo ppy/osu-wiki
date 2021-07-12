@@ -67,6 +67,33 @@ Listed below are players who qualified into the Group stage (along with their re
 | G | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) |
 | H | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) |
 
+## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (128 MB)](https://drive.google.com/u/0/uc?id=1vM4kzGpTcNzv3jB-Zbv3Qiv3Dkf47h9g&export=download "Google Drive")**
+
+- NoMod
+  - [Minase Inori - Crystallize (Yumeno Himiko) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1315359#fruits/2725824)
+  - [xi - Bad Elixir (Nelly) \[Alchemistry\]](https://osu.ppy.sh/beatmapsets/1297551#fruits/2691794)
+  - [nomico - Bad Apple!! (ZHSteven) \[fruit\]](https://osu.ppy.sh/beatmapsets/24829#fruits/84285)
+  - [hololive IDOL PROJECT - Shiny Smily Story (Hollow Wings) \[Swan Song\]](https://osu.ppy.sh/beatmapsets/1296110#fruits/2689177)
+  - [xi - Last Resort (Kroytz) \[Real's GRAVITY\]](https://osu.ppy.sh/beatmapsets/800102#fruits/1679794) 
+- Hidden
+  - [Yorushika - Amy (autofanboy) \[Overcast Skies\]](https://osu.ppy.sh/beatmapsets/1191707#fruits/2483298)
+  - [siqlo feat. Norico - Growth Call (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1276854#fruits/2652869)
+  - [Zektbach - The Sealer \~A Milia to Milia no Tami\~ (\[Keqing\]) \[Extra\]](https://osu.ppy.sh/beatmapsets/1414241#fruits/2915013)
+- HardRock
+  - [UNDEAD CORPORATION - Karakurenawi (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/584147#fruits/1288820)
+  - [M2U - H.O.W.Ling (autofanboy) \[P.R.E.Dation\]](https://osu.ppy.sh/beatmapsets/1135047#fruits/2370553)
+  - [Nekomata Master - Izanami's wail (Saturnalize) \[AncuL's Another\]](https://osu.ppy.sh/beatmapsets/959449#fruits/3051097)
+- DoubleTime
+  - [la la larks - loop (Spectator) \[rain\]](https://osu.ppy.sh/beatmapsets/1310870#fruits/2717254)
+  - [Kana Nishino - Darling (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/605215#fruits/1278689)
+  - [loos - Koi Yomi Zakura (Full size) (papapa213) \[koko's Insane\]](https://osu.ppy.sh/beatmapsets/602230#fruits/1428541)
+- Tiebreaker
+  - **[Horie Yui - The World's End (Bastian) \[Bastian & Greaper's Finale\]](https://osu.ppy.sh/beatmapsets/1134081#fruits/2368389)**
+
 ### Round of 16
 
 **[Download the mappack here! (108 MB)](https://drive.google.com/u/0/uc?id=1qdwIbMol5EjZc2f1c8eE-_3MPzkOjioz&export=download "Google Drive")**
