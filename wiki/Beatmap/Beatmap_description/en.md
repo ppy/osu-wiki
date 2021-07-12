@@ -14,7 +14,7 @@ Popular beatmap descriptions often include the following:
 
 ### Images
 
-Many beatmap descriptions contain at least one image (often an animated [GIF](https://en.wikipedia.org/wiki/GIF "Wikipedia") of some sort), that are used to express and illustrate either the creator, song, and/or beatmap in a flashly way. They can also take places of a title or header to add flair and quality. To learn how to add an image using BBCode, check out the [BBCode article's tutorial on images](/wiki/BBCode#image).
+Many beatmap descriptions contain at least one image (often an animated [GIF](https://en.wikipedia.org/wiki/GIF "Wikipedia") of some sort), that are used to express and illustrate either the creator, song, and/or beatmap in a flashy way. They can also take places of a title or header to add flair and quality. To learn how to add an image using BBCode, check out the [BBCode article's tutorial on images](/wiki/BBCode#image).
 
 ### Difficulty sections
 
