@@ -38,8 +38,7 @@
   - Fail (only displayed if the player is in the "Fail state", see Game State below)
   - Pass (only displayed if the player is in the "Pass state", see Game State below)
   - Foreground
-
-The "Fail" and "Pass" layers are never on-screen simultaneously, unlike in Design tab.
+- The "Fail" and "Pass" layers are never on-screen simultaneously, unlike in Design tab.
 - By default, the preview background (the background you see in Song Select) specified for the map is placed below all other layers. However, if you reference that same file as an object in your storyboard, it will disappear immediately after the map loads.
   - It is common to have your map's preview background to be the first object (time-wise and sprite-wise) specified, and use "fade out" (brighten) command to "introduce" your background to the audience.
 
