@@ -70,7 +70,7 @@ States during **break time** (between playtime segments)
 - Fail State otherwise (i.e., the "X" symbol appears).
   - In [Taiko](/wiki/Game_mode/osu!taiko), if it reaches certain quota at certain time. Refer to the two examples below,
     - Example A: Get an 96.5% accuracy while HP bar still 40%, gives Pass instead Fail.
-    - Example B: Get too much 100s in about 30 notes and gives you D while your HP bar still around 30%, gives Fail instead Pass (in this case, referred to [this map](https://osu.ppy.sh/beatmaps/69556&m=1)).
+    - Example B: Get too much 100s in about 30 notes and gives you D while your HP bar still around 30%, gives Fail instead Pass (in this case, referred to [this map](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)).
 
 States after last playtime, if the map had at least one break
 
