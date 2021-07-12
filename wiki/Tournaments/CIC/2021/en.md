@@ -50,6 +50,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDtfjCSGk1QtJRtCHHKaUD4uC3RwMC-aKJ8g3xDcQjomjmtKk_p8ARkd-TjJz5PXleqq8ukPHNPiYV/pubhtml "Google Sheets")**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1324864)
 - [Discord server](https://discord.gg/YwAYbPa "Discord")
+- [Challonge brackets](https://challonge.com/CIC2021 "Challonge")
 - [Livestream channel](https://www.twitch.tv/osuIndonesia/ "Twitch")
 
 ## Participants
@@ -66,6 +67,33 @@ Listed below are players who qualified into the Group stage (along with their re
 | F | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) |
 | G | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) |
 | H | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) |
+
+## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (128 MB)](https://drive.google.com/u/0/uc?id=1vM4kzGpTcNzv3jB-Zbv3Qiv3Dkf47h9g&export=download "Google Drive")**
+
+- NoMod
+  - [Minase Inori - Crystallize (Yumeno Himiko) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1315359#fruits/2725824)
+  - [xi - Bad Elixir (Nelly) \[Alchemistry\]](https://osu.ppy.sh/beatmapsets/1297551#fruits/2691794)
+  - [nomico - Bad Apple!! (ZHSteven) \[fruit\]](https://osu.ppy.sh/beatmapsets/24829#fruits/84285)
+  - [hololive IDOL PROJECT - Shiny Smily Story (Hollow Wings) \[Swan Song\]](https://osu.ppy.sh/beatmapsets/1296110#fruits/2689177)
+  - [xi - Last Resort (Kroytz) \[Real's GRAVITY\]](https://osu.ppy.sh/beatmapsets/800102#fruits/1679794) 
+- Hidden
+  - [Yorushika - Amy (autofanboy) \[Overcast Skies\]](https://osu.ppy.sh/beatmapsets/1191707#fruits/2483298)
+  - [siqlo feat. Norico - Growth Call (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1276854#fruits/2652869)
+  - [Zektbach - The Sealer \~A Milia to Milia no Tami\~ (\[Keqing\]) \[Extra\]](https://osu.ppy.sh/beatmapsets/1414241#fruits/2915013)
+- HardRock
+  - [UNDEAD CORPORATION - Karakurenawi (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/584147#fruits/1288820)
+  - [M2U - H.O.W.Ling (autofanboy) \[P.R.E.Dation\]](https://osu.ppy.sh/beatmapsets/1135047#fruits/2370553)
+  - [Nekomata Master - Izanami's wail (Saturnalize) \[AncuL's Another\]](https://osu.ppy.sh/beatmapsets/959449#fruits/3051097)
+- DoubleTime
+  - [la la larks - loop (Spectator) \[rain\]](https://osu.ppy.sh/beatmapsets/1310870#fruits/2717254)
+  - [Kana Nishino - Darling (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/605215#fruits/1278689)
+  - [loos - Koi Yomi Zakura (Full size) (papapa213) \[koko's Insane\]](https://osu.ppy.sh/beatmapsets/602230#fruits/1428541)
+- Tiebreaker
+  - **[Horie Yui - The World's End (Bastian) \[Bastian & Greaper's Finale\]](https://osu.ppy.sh/beatmapsets/1134081#fruits/2368389)**
 
 ### Round of 16
 
@@ -117,6 +145,35 @@ Listed below are players who qualified into the Group stage (along with their re
   - **[Official HIGE DANdism - Pretender (Crowley) \[My Final Farewell\]](https://osu.ppy.sh/beatmapsets/1272888#fruits/2645056)**
 
 ## Match results
+
+### Round of 16
+
+Friday, 9 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | [#1](https://osu.ppy.sh/community/matches/87058272) |
+| Upper | **[Galaxi](https://osu.ppy.sh/users/2552435)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/87055481) |
+| Upper | **[Pyrozen](https://osu.ppy.sh/users/3031177)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/87053060) |
+
+Saturday, 10 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | [#1](https://osu.ppy.sh/community/matches/87110808) |
+| Upper | **[Suikami](https://osu.ppy.sh/users/1929336)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | [#1](https://osu.ppy.sh/community/matches/87114367) |
+| Upper | **[by-ad](https://osu.ppy.sh/users/7439939)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/87116623) |
+| Upper | [mina-](https://osu.ppy.sh/users/4670692) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836)** | [#1](https://osu.ppy.sh/community/matches/87120194) |
+| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/87122424) |
+
+Sunday, 11 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | [#1](https://osu.ppy.sh/community/matches/87172954) |
+| Lower | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | [#1](https://osu.ppy.sh/community/matches/87177296) |
+| Lower | **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/87169209) |
+| Lower | **[Dapuluous](https://osu.ppy.sh/users/8140944)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/87174852) |
 
 ### Group Stage
 
