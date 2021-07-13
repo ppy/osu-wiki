@@ -82,8 +82,8 @@ Changes to the rules and guidelines in this document are proposed and discussed 
   - In cases where a [song compilation](/wiki/Beatmapping/Song_compilation)/remix/medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 - **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
-- **The term `featured artist` must be added to tags if the song mapped is a licensed one in the featured artist library.**
-- **If the song mapped is not in the featured artist library, `featured artist` must not be in tags.**
+- **The term `featured artist` must be added to tags if the song mapped is a licensed one in the [featured artist library](https://osu.ppy.sh/beatmaps/artists).**
+- **If the song mapped is not in the [featured artist library](https://osu.ppy.sh/beatmaps/artists), `featured artist` must not be in tags.**
 - **Tags must be related to the beatmap and not misleading for search results.** Tags describing the beatmap's style, song, storyboard, video, or background content are considered to be related to the beatmap.
 
 #### Standardisation
