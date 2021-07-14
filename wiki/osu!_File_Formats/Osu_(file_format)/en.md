@@ -12,8 +12,8 @@ The following content is separated into sections, indicated by section titles in
 | :-- | :-- | :-- |
 | `[General]` | General information about the beatmap | `key: value` pairs |
 | `[Editor]` | Saved settings for the beatmap editor | `key: value` pairs |
-| `[Metadata]` | Information used to identify the beatmap | `key:value` pairs |
-| `[Difficulty]` | Difficulty settings | `key:value` pairs |
+| `[Metadata]` | [Information](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata) used to identify the beatmap | `key:value` pairs |
+| `[Difficulty]` | [Difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) | `key:value` pairs |
 | `[Events]` | Beatmap and storyboard graphic events | Comma-separated lists |
 | `[TimingPoints]` | Timing and control points | Comma-separated lists |
 | `[Colours]` | Combo and skin colours | `key : value` pairs |
@@ -51,11 +51,11 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `Bookmarks` | Comma-separated list of integers | Time in milliseconds of bookmarks |
-| `DistanceSpacing` | Decimal | Distance snap multiplier |
-| `BeatDivisor` | Decimal | Beat snap divisor |
-| `GridSize` | Integer | Grid size |
-| `TimelineZoom` | Decimal | Scale factor for the object timeline |
+| `Bookmarks` | Comma-separated list of integers | Time in milliseconds of [bookmarks](/wiki/Beatmap_Editor/Compose#bottom-(song's-timeline)) |
+| `DistanceSpacing` | Decimal | [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) multiplier |
+| `BeatDivisor` | Decimal | [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) |
+| `GridSize` | Integer | [Grid size](/wiki/Grid_snapping) |
+| `TimelineZoom` | Decimal | Scale factor for the [object timeline](/wiki/Beatmap_Editor/Compose#top-left-(hit-objects-timeline)) |
 
 ## Metadata
 
@@ -258,7 +258,7 @@ Hit circles do not have additional `objectParams`.
 *Slider syntax:* `x,y,time,type,hitSound,curveType|curvePoints,slides,length,edgeSounds,edgeSets,hitSample`
 
 - **`curveType` (Character):** Type of curve used to construct this slider (`B` = bézier, `C` = centripetal catmull-rom, `L` = linear, `P` = perfect circle)
-- **`curvePoints` (Pipe-separated list of strings):** Points used to construct the slider. Each point is in the format `x:y`.
+- **`curvePoints` (Pipe-separated list of strings):** Anchor points used to construct the slider. Each point is in the format `x:y`.
 - **`slides` (Integer):** Amount of times the player has to follow the slider's curve back-and-forth before the slider is complete. It can also be interpreted as the repeat count plus one.
 - **`length` (Decimal):** Visual length in [osu! pixels](/wiki/osupixel) of the slider.
 - **`edgeSounds` (Pipe-separated list of integers):** Hitsounds that play when hitting edges of the slider's curve. The first sound is the one that plays when the slider is first clicked, and the last sound is the one that plays when the slider's end is hit.
@@ -286,7 +286,7 @@ If the slider's `length` is longer than the defined curve, the slider will exten
 
 Apart from edge hitsounds, sliders also have an ongoing hitsound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active.
 
-This hitsound uses the hit object's `hitSound` and `hitSample` properties, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-hit<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
+This hitsound uses the hit object's `hitSound` and `hitSample` properties, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-slider<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
 
 ### Spinners
 
@@ -330,7 +330,7 @@ The third object is a slider:
 - At the position (100,100)
 - At 12.6 seconds
 - Starting a new combo
-- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), (300,150)
+- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), and (300,150). The duplicated control points denote a [red anchor point](/wiki/Hit_object/Slider_anchor). 
 - Repeating once
 - 310.123 osu! pixels long
 - With a whistle hitsound at the beginning, and a whistle hitsound playing with the soft set at the end
