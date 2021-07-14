@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Rish"
-date: 2021-07-14 09:00:00 +0000
+date: 2021-07-14 13:00:00 +0000
 ---
 
 We're proud to welcome **Rish** aboard as our latest Featured Artist!
@@ -40,12 +40,12 @@ Or check out this [old school osu!mania beatmap](https://osu.ppy.sh/beatmapsets/
     <source src="https://assets.ppy.sh/artists/181/Colorful%20Wonderland/Rish%20feat.%20Hatsune%20Miku%20-%20Uni.mp3" type="audio/mpeg">
 </audio>
 
-### Rish feat. Choko - Punaipunai Sensou 
+### Rish feat. Choko - Punai Punai Sensou 
 
 Try playing [this other beatmap](https://osu.ppy.sh/beatmapsets/1328903) hosted by [Mixagji](https://osu.ppy.sh/users/767003)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/181/Punaipunai%20Sensou/Rish%20feat.%20Choko%20-%20Punaipunai%20Sensou.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/181/Punai%20Punai%20Sensou%2FRish%20feat.%20Choko%20-%20Punai%20Punai%20Sensou.mp3" type="audio/mpeg">
 </audio>
 
 ### Rish feat. Choko - Teruyama II 
