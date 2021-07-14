@@ -1,6 +1,4 @@
----
-outdated: false
----
+[comment]: <> (Killed outdate table)
 
 # วิธีการทำให้บีทแมพของคุณผ่านการวิจารณ์บีทแมพ
 
