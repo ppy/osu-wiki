@@ -1,36 +1,36 @@
 # .osu (文件格式)
 
-**`.osu`** 是一种可读且包含谱面信息的格式
+**`.osu`** 是一种人类可读的，包含谱面信息的文件格式。
 
 ## 结构
 
-文件的第一行指定了文件格式版本。 例如， `osu file format v14` 是最后一个版本。
+文件的第一行指定了文件格式版本，例如 `osu file format v14` 是（目前）最新的版本。
 
-以下内容分为几部分，每一部分的标题由方括号包裹。
+后续内容分为几小节，由方括号包裹的标题分割。
 
-| 项目 | 描述 | 内容类型 |
+| 小节 | 描述 | 内容类型 |
 | :-- | :-- | :-- |
-| `[General]` | 谱面的一般信息 | `key: value` 关键字与值成对 |
-| `[Editor]` | 谱面编辑器的设置 | `key: value` 关键字与值成对 |
-| `[Metadata]` | 谱面[自身信息](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)的描述 | `key:value` 关键字与值成对 |
-| `[Difficulty]` | [难度设定](/wiki/Beatmap_Editor/Song_Setup#difficulty) | `key:value` 关键字与值成对 |
-| `[Events]` | 专用于此谱面的故事板事件 | 用逗号分隔的值组成的列表 |
-| `[TimingPoints]` | 时间点和控制点 | 用逗号分隔的值组成的列表 |
-| `[Colours]` | 连击皮肤颜色 | `key : value` pairs |
-| `[HitObjects]` | 打击物件 | 关键字与值成对 |
+| `[General]` | 谱面的一般信息 | `key: value` 键值对 |
+| `[Editor]` | 谱面编辑器的设置 | `key: value` 键值对 |
+| `[Metadata]` | 谱面[自身信息](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)的描述 | `key:value` 键值对 |
+| `[Difficulty]` | [难度设定](/wiki/Beatmap_Editor/Song_Setup#difficulty) | `key:value` 键值对 |
+| `[Events]` | 专用于此谱面的故事板事件 | 逗号分隔值 |
+| `[TimingPoints]` | 时间点和控制点 | 逗号分隔值 |
+| `[Colours]` | 连击皮肤颜色 | `key : value` 键值对 |
+| `[HitObjects]` | 打击物件 | 逗号分隔值 |
 
 ## General （基本数据）
 
 <!-- TODO: 丢失了一些非常旧的文件格式遗留下来的功能选项 -->
 
-| 项目 | 值 | 描述 | 默认值 |
+| 项目 | 值类型 | 描述 | 默认值 |
 | :-- | :-- | :-- | :-- |
 | `AudioFilename` | 字符串 | 音频文件相对于当前文件夹的位置 |  |
-| `AudioLeadIn` | 整数 | 音频播放前静音的时间(以毫秒为单位) | 0 |
+| `AudioLeadIn` | 整数 | 音频播放前静音的时间（以毫秒为单位） | 0 |
 | `AudioHash` | 字符串 | *已弃用* |  |
-| `PreviewTime` | 整数 | 音频预览点开始的时间(以毫秒为单位) | -1 |
-| `Countdown` | 整数 | 第一个物体出现之前的倒数速度 (`0` = 无倒数， `1` = 正常, `2` = 速度减半, `3` = 两倍速度) | 1 |
-| `SampleSet` | 字符串 | 如果时间点没指定时使用的采样集 (`Normal`, `Soft`, `Drum`) | Normal |
+| `PreviewTime` | 整数 | 音频预览点开始的时间（以毫秒为单位） | -1 |
+| `Countdown` | 整数 | 第一个物件出现之前的倒数速度 (`0` = 无倒数， `1` = 正常, `2` = 速度减半, `3` = 两倍速度) | 1 |
+| `SampleSet` | 字符串 | 如果时间点未指定采样集时使用的默认值 (`Normal`, `Soft`, `Drum`) | Normal |
 | `StackLeniency` | 小数 | 堆叠重叠物件的时间阈值乘数 (0–1) | 0.7 |
 | `Mode` | 整数 | 游戏模式 (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
 | `LetterboxInBreaks` | 0或1 | 休息时间是否用黑色边框将背景图像围起来 | 0 |
@@ -57,7 +57,7 @@
 | `GridSize` | 整数 | [网格尺寸](/wiki/Grid_snapping) |
 | `TimelineZoom` | 小数 | [物件时间轴](/wiki/Beatmap_Editor/Compose#top-left-(hit-objects-timeline))的缩放 |
 
-## Metadata （歌曲元数据）
+## Metadata （谱面元数据）
 
 | 选项 | 值类型 | 描述 |
 | :-- | :-- | :-- |
