@@ -7,7 +7,7 @@ tags:
 
 ![VAF logo](img/logo.jpg)
 
-The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament will be run in a swiss style to determine the top players before going onto a double-elimination bracket in the Semifinals phase. The tournament is also rank-restricted to rank #50 and below. It is the first installment of the Vaf's Autumn Fiesta.
+The **Vaf's Autumn Fiesta** (**VAF**) was a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament was run in a swiss style to determine the top players before going onto a double-elimination bracket in the Semifinals phase. The tournament was also rank-restricted to rank #50 and below. It was the first installment of the Vaf's Autumn Fiesta.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ A prize pool of grand total 18 months of osu!supporter tag and physical trophies
 
 ## Organisation
 
-The Vaf's Autumn Fiesta is run by various community members.
+The Vaf's Autumn Fiesta was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -60,7 +60,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 - Livestream
   - [Twitch](https://www.twitch.tv/vafautumnfiesta "Twitch")
   - [Trovo](https://trovo.live/VafAutumnFiesta "Trovo")
-    - *Note: The second channel's purpose is to stream the other match if there are more than one matches happening at the same time.*
+    - *Note: The second channel's purpose was to stream the other match if there were more than one matches happening at the same time.*
 - [VAF Discord server](https://discord.gg/h6AcC2XB3B "Discord")
 - [Challonge bracket](https://challonge.com/VAF "Challonge")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1A0MAwHb0xVQefsPAc1v1SMox9dTyWodRXyqyIWNaVjg/edit?usp=sharing "Google Sheets")**
@@ -135,6 +135,16 @@ The Vaf's Autumn Fiesta is run by various community members.
 | #417 | ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) |
 | #425 | ![][flag_TW] [\_Llama](https://osu.ppy.sh/users/12798183) |
 | #430 | ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [yu-k1\_](https://osu.ppy.sh/users/16347853) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] [J a c k y](https://osu.ppy.sh/users/8011704) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
 
 ## Mappools
 
@@ -391,6 +401,20 @@ The Vaf's Autumn Fiesta is run by various community members.
   - [Se-U-Ra - Hope 4 Hopeful (Hivie) \[Optimism\]](https://osu.ppy.sh/beatmapsets/1302274#taiko/2700888)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 10 July 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| janitore ![][flag_CA] | 6 | **7** | ![][flag_HK] **J a c k y** | [#1](https://osu.ppy.sh/community/matches/87121539) |
+
+Sunday, 11 July 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **yu-k1\_** ![][flag_JP] | **7** | 3 | ![][flag_HK] J a c k y | [#1](https://osu.ppy.sh/community/matches/87175258) |
 
 ### Finals
 

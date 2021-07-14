@@ -410,7 +410,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Vaf's Autumn Fiesta](VAF/1) | 2021-04-16 | 2021-07-11 | *undecided* | *undecided* | *undecided* |
+| [Vaf's Autumn Fiesta](VAF/1) | 2021-05-15 | 2021-07-11 | ![][flag_JP] [yu-k1\_](https://osu.ppy.sh/users/16347853) | ![][flag_HK] [J a c k y](https://osu.ppy.sh/users/8011704) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
