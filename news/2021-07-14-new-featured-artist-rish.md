@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Rish"
-date: 2021-07-14 08:00:00 +0000
+date: 2021-07-14 09:00:00 +0000
 ---
 
 We're proud to welcome **Rish** aboard as our latest Featured Artist!
