@@ -23,6 +23,7 @@ For those who somehow still haven't heard **Rish**'s sound, that's about to chan
 ### Rish feat. Choko - Take
 
 Play any of these beatmaps covering (almost) all modes:
+
 - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1376486) hosted by [yf_bmp](https://osu.ppy.sh/users/1243669)
 - [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1295206) hosted by [\[\_-Kukkai-\_\]](https://osu.ppy.sh/users/7811952)
 - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1377628) hosted by [LNP-](https://osu.ppy.sh/users/4402842)
