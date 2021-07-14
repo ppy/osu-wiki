@@ -86,7 +86,7 @@ osu!의 대부분의 화면에서 `F9` 혹은 오른쪽 아래의 `Online Users`
 | `/unignore [유저]` | 특정 유저의 메세지를 무시하는 것을 중지합니다. | `/unignore Amigo` | You may now hear Amigo. (Amigo가 작성한 메세지를 다시 채팅 콘솔에서 볼 수 있습니다.) |
 | `/me [행동]` | 3인칭 행동을 합니다. | `/me is at home` | * John is at home |
 | `/msg [유저] [메시지]` | `[유저]`에게 비공개 메시지를 보냅니다. | `/msg Amigo I am sick at home.` | (Amigo와의 채팅) John: I am sick at home. |
-| `/np` | 현재 듣고있거나 플레이하는 노래를 출력합니다. | `/np` | (플레이중이라면) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
+| `/np` | 현재 듣고있거나 플레이하는 노래를 출력합니다. | `/np` | (플레이중이라면) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
 | `/reply` or `/r` | 마지막으로 받은 비공개 메시지에 회신합니다. | `/r Do you know any good doctor?` | (Amigo와의 채팅) \[이전 내용\] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
 | `/savelog` | 현재 채팅 탭을 텍스트 파일에 저장합니다. | `/savelog` | (osu! 폴더 내에 있는 "Chat" 폴더에 채팅 내역을 저장합니다. 이 이후의 채팅 내역도 이곳에 저장됩니다.) |
 | `/watch [유저]` | `[유저]`를 관전합니다. | `/watch Amigo` | * Started spectating Amigo. (Amigo가 당신이 가진 비트맵을 플레이 하면, 왼쪽에 자신의 이름과 함께 Amigo가 플레이하는 스크린을 볼 수 있습니다. |

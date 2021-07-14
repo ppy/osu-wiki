@@ -38,8 +38,7 @@
   - Fail (only displayed if the player is in the "Fail state", see Game State below)
   - Pass (only displayed if the player is in the "Pass state", see Game State below)
   - Foreground
-
-The "Fail" and "Pass" layers are never on-screen simultaneously, unlike in Design tab.
+- The "Fail" and "Pass" layers are never on-screen simultaneously, unlike in Design tab.
 - By default, the preview background (the background you see in Song Select) specified for the map is placed below all other layers. However, if you reference that same file as an object in your storyboard, it will disappear immediately after the map loads.
   - It is common to have your map's preview background to be the first object (time-wise and sprite-wise) specified, and use "fade out" (brighten) command to "introduce" your background to the audience.
 
@@ -70,7 +69,7 @@ States during **break time** (between playtime segments)
 - Fail State otherwise (i.e., the "X" symbol appears).
   - In [Taiko](/wiki/Game_mode/osu!taiko), if it reaches certain quota at certain time. Refer to the two examples below,
     - Example A: Get an 96.5% accuracy while HP bar still 40%, gives Pass instead Fail.
-    - Example B: Get too much 100s in about 30 notes and gives you D while your HP bar still around 30%, gives Fail instead Pass (in this case, referred to [this map](https://osu.ppy.sh/beatmaps/69556&m=1)).
+    - Example B: Get too much 100s in about 30 notes and gives you D while your HP bar still around 30%, gives Fail instead Pass (in this case, referred to [this map](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)).
 
 States after last playtime, if the map had at least one break
 

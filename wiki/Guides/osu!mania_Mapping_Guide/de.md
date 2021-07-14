@@ -312,17 +312,17 @@ Entweder wir folgen der **Melodie** oder wir folgen den **Instrumenten**.
 
 Man kann auch beides versuchen jedoch ist das grade für neue Osu!Mania Mapper sehr schwer. Je nach Musik müsst ihr euch oft für eines davon Entscheiden. Wenn ihr zum Beispiel ein Musikstück mit sehr vielen Instrumental Mappt fällt die Wahl natürlich schon mal einfach. Wir versuchen so gut wie möglich den Instrumenten zu folgen. Als Beispiel: Einfache Piano Noten können wir mit Single noten belegen. Drums dann immer mit einem 2er Chord um diese zu Betonen.
 
-Ein gutes Beispiel um das zu verdeutlichen wie man den **Instrumental** folgt, ist die [Jin ft. MARiA from GARNiDELiA - daze (short ver.)](https://osu.ppy.sh/beatmaps/477955). In der Shiki's SC sehen wir vor allem am Anfang sehr deutlich wie der Mapper dem Drums folgt. Dabei bleibt der Mapper strickt bei seinem Plan. Er mappt den Drum-Sound den er einmal mit einem 2er Chord gemappt hat Konstant die ganze Map lang mit einem 2er Chord, das gleiche gilt für den 3er Chord.
+Ein gutes Beispiel um das zu verdeutlichen wie man den **Instrumental** folgt, ist die [Jin ft. MARiA from GARNiDELiA - daze (short ver.)](https://osu.ppy.sh/beatmapsets/187538#mania/477955). In der Shiki's SC sehen wir vor allem am Anfang sehr deutlich wie der Mapper dem Drums folgt. Dabei bleibt der Mapper strickt bei seinem Plan. Er mappt den Drum-Sound den er einmal mit einem 2er Chord gemappt hat Konstant die ganze Map lang mit einem 2er Chord, das gleiche gilt für den 3er Chord.
 
-Eine gute Map die der **Melodie** folgt ist die [C-Show - Invitation from Mr.C](https://osu.ppy.sh/beatmaps/659683). Dies ist ein Song aus Sound Voltex. Hier hat man nur eingeschränkte Wahl den Instrumentals zu folgen da nicht viele bis auf Drums vorhanden sind. Also was Mappen wir? Ganz einfach! Wir gehen den einfachsten Weg. Wir folgen voll und ganz der Melodie! Hier könnten wir sogar ab und zu mal mit LN's den Vocals folgen (Übertreibt es aber nicht! Vocals Mappen sollte man unterlassen, dazu aber gleich mehr). Hier sieht man grade in der Zweiten Kiai sehr gut wie der Mapper der Melodie folgt.
+Eine gute Map die der **Melodie** folgt ist die [C-Show - Invitation from Mr.C](https://osu.ppy.sh/beatmapsets/187538#mania/477955). Dies ist ein Song aus Sound Voltex. Hier hat man nur eingeschränkte Wahl den Instrumentals zu folgen da nicht viele bis auf Drums vorhanden sind. Also was Mappen wir? Ganz einfach! Wir gehen den einfachsten Weg. Wir folgen voll und ganz der Melodie! Hier könnten wir sogar ab und zu mal mit LN's den Vocals folgen (Übertreibt es aber nicht! Vocals Mappen sollte man unterlassen, dazu aber gleich mehr). Hier sieht man grade in der Zweiten Kiai sehr gut wie der Mapper der Melodie folgt.
 
 Kommen wir mal zum **Vocal** Mapping. Bedeutet der Mapper folgt dem/der Sänger/in im Musikstück. In Mania sollte man oft vermeiden zu viele Vocals zu Mappen. Gern kann man ab und zu mal eine LN für ein Vocal einfügen, jedoch sollte man das dann auch Konstant und gut Spielbar durchführen.
 
-Eine gute map das zu zeigen ist die [Haruna Luna - Startear -TV size ver.-](https://osu.ppy.sh/beatmaps/577389). Grade am Anfang und vor der ersten Kiai sieht man sehr gut wie der Mapper hier mit LN's den Vocals folgt da er einfach kaum andere Wahl hat, da kaum Instrumente vorhanden sind. In diesem Fall ist es in Ordnung wenn wir den Vocals folgen.
+Eine gute map das zu zeigen ist die [Haruna Luna - Startear -TV size ver.-](https://osu.ppy.sh/beatmapsets/192569#mania/577389). Grade am Anfang und vor der ersten Kiai sieht man sehr gut wie der Mapper hier mit LN's den Vocals folgt da er einfach kaum andere Wahl hat, da kaum Instrumente vorhanden sind. In diesem Fall ist es in Ordnung wenn wir den Vocals folgen.
 
 Aber übertreibt es nicht! Ihr werdet schnell merken wie schlecht sich zu viele Vocals Mappen. Versucht immer in erster Linie Instrumenten zu folgen!
 
-Ein gutes Beispiel wie man es **NICHT** machen sollte sehen wir in einer meiner ersten Maps [hier](https://osu.ppy.sh/beatmaps/571190). Ich war damals nicht nicht wirklich erfahren und fand es recht lustig die Komplette Map fast nur den Vocals zu folgen. Jedoch spielt sich das einfach nur schlecht. Versucht einfach übermäßiges Vocal Mapping zu vermeiden ;)
+Ein gutes Beispiel wie man es **NICHT** machen sollte sehen wir in einer meiner ersten Maps [hier](https://osu.ppy.sh/beatmapsets/248304#mania/571190). Ich war damals nicht nicht wirklich erfahren und fand es recht lustig die Komplette Map fast nur den Vocals zu folgen. Jedoch spielt sich das einfach nur schlecht. Versucht einfach übermäßiges Vocal Mapping zu vermeiden ;)
 
 Soviel zum Thema Design! Wie ihr seht gibt es einige Methoden wie wir Mappen können. Sollte euch mal die Inspiration fehlen dann schaut euch andere Maps im Editor an und fragt euch selber "Wie hat der Mapper hier gemappt und warum". Vielleicht könnt ihr davon was in eure Map übernehmen. Dies ist auch die Perfekte Überleitung zu unserem nächsten Punkt:
 
@@ -356,7 +356,7 @@ Soviel zum Thema Modding! Wenn ihr eine Map ranken wollt kommt ihr nicht drum ru
 
 Ein sehr interessanter Punkt und einzigartig für den Mania Modus ist das "**Keysounden**"
 
-Das Keysounden ist eine besondere Art des Hitsounden. Wir können einzelne Noten mit Hitsounds oder anderem Sounds belegen ohne das wir sie in ein Sampleset einfügen müssen! Die wohl bekannteste Mania Keysound Map ist die [Yuuna Sasara feat. Tai no Kobone - Imperishable Night 2006](https://osu.ppy.sh/beatmaps/259067). Sie besteht zu 100% aus Keysounds. Heißt, der Mapper hat jede Note mit einem einzelnen und bestimmten Keysound belegt! Eine Full Keysound Map ist unheimlich viel Arbeit, denn jeder Ton muss richtig belegt sein, sonst klingt die Melodie falsch. Ich versuche mal zu beschreiben wie das ungefähr funktioniert:
+Das Keysounden ist eine besondere Art des Hitsounden. Wir können einzelne Noten mit Hitsounds oder anderem Sounds belegen ohne das wir sie in ein Sampleset einfügen müssen! Die wohl bekannteste Mania Keysound Map ist die [Yuuna Sasara feat. Tai no Kobone - Imperishable Night 2006](https://osu.ppy.sh/beatmapsets/92190#mania/259067). Sie besteht zu 100% aus Keysounds. Heißt, der Mapper hat jede Note mit einem einzelnen und bestimmten Keysound belegt! Eine Full Keysound Map ist unheimlich viel Arbeit, denn jeder Ton muss richtig belegt sein, sonst klingt die Melodie falsch. Ich versuche mal zu beschreiben wie das ungefähr funktioniert:
 
 #### Sample Menü
 
@@ -376,11 +376,11 @@ Natürlich kann man damit auch Hitsounds einfügen die man nicht in ein Sample S
 
 Auch andere gute Keysound Maps sind:
 
-[Junk - Yellow Smile(bms edit)](https://osu.ppy.sh/beatmaps/678460) by Starry-
+[Junk - Yellow Smile(bms edit)](https://osu.ppy.sh/beatmapsets/302726#mania/678460) by Starry-
 
-[monotone - Totsugeki! Glass no Kneesocks Hime!](https://osu.ppy.sh/beatmaps/369341) by - Loco
+[monotone - Totsugeki! Glass no Kneesocks Hime!](https://osu.ppy.sh/beatmapsets/148830#mania/369341) by - Loco
 
-[orangentle / Yu\_Asahina - HAELEQUIN](https://osu.ppy.sh/beatmaps/450104) by Chocoliti
+[orangentle / Yu\_Asahina - HAELEQUIN](https://osu.ppy.sh/beatmapsets/174550#mania/450104) by Chocoliti
 
 Sie sind nicht alle Full Keysounded aber sie besitzen welche!
 
@@ -408,7 +408,7 @@ Vergesst niemals SV Punkte einzusetzen sonst wird eure ganz plötzlich viel schn
 
 Ein weiteren Verwendungszweck für SV's sind wenn wir ganz kurze abschnitte schneller oder Langsamer haben möchten.
 
-Eine sehr gute Beispiel Map dafür ist die [Nizikawa - F.K.S](https://osu.ppy.sh/beatmaps/556755).
+Eine sehr gute Beispiel Map dafür ist die [Nizikawa - F.K.S](https://osu.ppy.sh/beatmapsets/235927#mania/556755).
 
 In der Gravity und der Infinite Diff sehen wir vereinzelnd stellen die "Ruckeln" diese werden mit den Inherited Points kontrolliert. Um solche Ruckler einzubauen müsst ihr erst einen etwas schnelleren SV Punkt Platzieren (In der Infinite 1.2 SV), kurz darauf, und das noch vor den nächsten Noten wieder die SV Normalisieren (1.0). Dann wieder 1.2 SV und wieder 1.0. Ich versuche es mal zu erklären:
 
