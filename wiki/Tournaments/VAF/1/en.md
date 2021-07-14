@@ -7,7 +7,7 @@ tags:
 
 ![VAF logo](img/logo.jpg)
 
-The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament will be run in a swiss style to determine the top players before going onto a double-elimination bracket in the Semifinals phase. The tournament is also rank-restricted to rank #50 and below. It is the first installment of the Vaf's Autumn Fiesta.
+The **Vaf's Autumn Fiesta** (**VAF**) was a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament was run in a swiss style to determine the top players before going onto a double-elimination bracket in the Semifinals phase. The tournament was also rank-restricted to rank #50 and below. It was the first installment of the Vaf's Autumn Fiesta.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ A prize pool of grand total 18 months of osu!supporter tag and physical trophies
 
 ## Organisation
 
-The Vaf's Autumn Fiesta is run by various community members.
+The Vaf's Autumn Fiesta was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -60,7 +60,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 - Livestream
   - [Twitch](https://www.twitch.tv/vafautumnfiesta "Twitch")
   - [Trovo](https://trovo.live/VafAutumnFiesta "Trovo")
-    - *Note: The second channel's purpose is to stream the other match if there are more than one matches happening at the same time.*
+    - *Note: The second channel's purpose was to stream the other match if there were more than one matches happening at the same time.*
 - [VAF Discord server](https://discord.gg/h6AcC2XB3B "Discord")
 - [Challonge bracket](https://challonge.com/VAF "Challonge")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1A0MAwHb0xVQefsPAc1v1SMox9dTyWodRXyqyIWNaVjg/edit?usp=sharing "Google Sheets")**
