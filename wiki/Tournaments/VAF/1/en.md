@@ -136,6 +136,16 @@ The Vaf's Autumn Fiesta was run by various community members.
 | #425 | ![][flag_TW] [\_Llama](https://osu.ppy.sh/users/12798183) |
 | #430 | ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [yu-k1\_](https://osu.ppy.sh/users/16347853) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] [J a c k y](https://osu.ppy.sh/users/8011704) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
+
 ## Mappools
 
 ### Grand Finals
