@@ -257,7 +257,7 @@ Hit circles do not have additional `objectParams`.
 *Slider syntax:* `x,y,time,type,hitSound,curveType|curvePoints,slides,length,edgeSounds,edgeSets,hitSample`
 
 - **`curveType` (Character):** Type of curve used to construct this slider (`B` = bézier, `C` = centripetal catmull-rom, `L` = linear, `P` = perfect circle)
-- **`curvePoints` (Pipe-separated list of strings):** Points used to construct the slider. Each point is in the format `x:y`.
+- **`curvePoints` (Pipe-separated list of strings):** Anchor points used to construct the slider. Each point is in the format `x:y`.
 - **`slides` (Integer):** Amount of times the player has to follow the slider's curve back-and-forth before the slider is complete. It can also be interpreted as the repeat count plus one.
 - **`length` (Decimal):** Visual length in [osu! pixels](/wiki/Glossary#osupixel) of the slider.
 - **`edgeSounds` (Pipe-separated list of integers):** Hitsounds that play when hitting edges of the slider's curve. The first sound is the one that plays when the slider is first clicked, and the last sound is the one that plays when the slider's end is hit.
@@ -329,7 +329,7 @@ The third object is a slider:
 - At the position (100,100)
 - At 12.6 seconds
 - Starting a new combo
-- With a compound bézier curve slider body, where the curve's control points are (100,100), (200,200), (250,200), (250,200), and (300,150)
+- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), (300,150). The duplicated anchor points denote a [red anchor point](/wiki/Hit_object/Slider_anchor). 
 - Repeating once
 - 310.123 osu! pixels long
 - With a whistle hitsound at the beginning, and a whistle hitsound playing with the soft set at the end
