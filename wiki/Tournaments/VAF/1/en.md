@@ -392,6 +392,20 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 10 July 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| janitore ![][flag_CA] | 6 | **7** | ![][flag_HK] **J a c k y** | [#1](https://osu.ppy.sh/community/matches/87121539) |
+
+Sunday, 11 July 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **yu-k1\_** ![][flag_JP] | **7** | 3 | ![][flag_HK] J a c k y | [#1](https://osu.ppy.sh/community/matches/87175258) |
+
 ### Finals
 
 Saturday, 3 July 2021:
