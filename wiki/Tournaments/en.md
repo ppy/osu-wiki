@@ -197,6 +197,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | osu! European Tournament | 2018-04-07 | 2018-05-27 | a | Dumb and Dumber | MinolaureMVP |
 | [osu! European Tournament 2](o!ET/2) | 2019-02-10 | 2019-03-30 | Sruba (Top), Makeshift Winners (Mid), not even european (Low) | Almost Allies (Top), singletap is braindead (Mid), Yes (Yes) (Low) | nh9mju0 (Top), Phoenix Emperors (Mid), Polish Musketeers (Low) |
+| osu! European Tournament 3 | 2019-02-08 | 2020-03-23 | Woopak :CRAB: | Fondermanp2p | Käptn Mein Käptn |
+| [osu! European Tournament 2021](o!ET/2021) | 2021-05-15 | 2021-07-11 | opa pizdec | The Cow Fields | Team Papayapa |
 
 #### osu! Indonesia Tournament
 
