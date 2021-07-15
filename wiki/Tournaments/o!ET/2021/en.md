@@ -49,14 +49,12 @@ The osu!European Tournament 2021 was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1299571)
-- Livestream
-  - [Twitch](https://www.twitch.tv/vafautumnfiesta "Twitch")
-  - [Trovo](https://trovo.live/VafAutumnFiesta "Trovo")
-    - *Note: The second channel's purpose was to stream the other match if there were more than one matches happening at the same time.*
-- [VAF Discord server](https://discord.gg/h6AcC2XB3B "Discord")
-- [Challonge bracket](https://challonge.com/VAF "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1A0MAwHb0xVQefsPAc1v1SMox9dTyWodRXyqyIWNaVjg/edit?usp=sharing "Google Sheets")**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1286344)
+- [VAF Discord server](https://discord.gg/3ujdPa2 "Discord")
+- [Livestream](https://www.twitch.tv/osu_europeantournament "Twitch")
+- [Challonge bracket](https://challonge.com/oet2021 "Challonge")
+- [BWS Calculator](https://docs.google.com/spreadsheets/d/1l1FemA9ZL4gbMcVMfu-sYe-VqSIlU1ebNkcneJlb7rI/edit#gid=1683977451 "Google Sheets")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1sdlFRnm2SKPPHn9gtqxObhxs5dxyDCqKXgoL23ThGdE/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
