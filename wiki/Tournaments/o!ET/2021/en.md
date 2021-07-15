@@ -35,19 +35,16 @@ The **osu!European Tournament 2021** (**o!ET 2021**) was a 4v4 osu! tournament h
 
 ## Organisation
 
-The Vaf's Autumn Fiesta was run by various community members.
+The osu!European Tournament 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
-| Administrator | ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_AR] [trollocat](https://osu.ppy.sh/users/9228032) |
-| Mappool selector | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011), ![][flag_AR] [trollocat](https://osu.ppy.sh/users/9228032) |
-| Mapper | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_JP] [7\_7](https://osu.ppy.sh/users/7491106), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) |
-| Referee | ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387), ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_DK] [Colibz](https://osu.ppy.sh/users/13647254), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_GB] [NightmareParty](https://osu.ppy.sh/users/15671175), ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_PL] [SebekPlayed](https://osu.ppy.sh/users/7871365), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_GB] [SSScotty](https://osu.ppy.sh/users/10319851), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) |
-| Streamer | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_CL] [Touche](https://osu.ppy.sh/users/1603962), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_US] [Wilfred Murr](https://osu.ppy.sh/users/2598555), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Commentator | ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_GB] [hammygames](https://osu.ppy.sh/users/12232503), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_US] [Wilfred Murr](https://osu.ppy.sh/users/2598555) |
-| Designer | ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| Statistician | ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Organiser | ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133) |
+| Mappool selector | ![][flag_GB] [Chugger](https://osu.ppy.sh/users/4491713), ![][flag_RU] [Grave-](https://osu.ppy.sh/users/2764492), ![][flag_DE] [mp4](https://osu.ppy.sh/users/8401905), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350) |
+| Referee | ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_RU] [Grave-](https://osu.ppy.sh/users/2764492), ![][flag_CA] [Jimarrah](https://osu.ppy.sh/users/11267857), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_DE] [mp4](https://osu.ppy.sh/users/8401905), ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135), ![][flag_DE] [Toffi](https://osu.ppy.sh/users/8438256), ![][flag_RU] [vitya490](https://osu.ppy.sh/users/8296795) |
+| Streamer | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_DE] [Toffi](https://osu.ppy.sh/users/8438256), ![][flag_NL] [wessel\_osu2](https://osu.ppy.sh/users/4382220) |
+| Commentator | ![][flag_DE] [Toffi](https://osu.ppy.sh/users/8438256), ![][flag_NL] [wessel\_osu2](https://osu.ppy.sh/users/4382220) |
+| Designer | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
