@@ -50,7 +50,7 @@ The osu!European Tournament 2021 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1286344)
-- [VAF Discord server](https://discord.gg/3ujdPa2 "Discord")
+- [o!ET Discord server](https://discord.gg/3ujdPa2 "Discord")
 - [Livestream](https://www.twitch.tv/osu_europeantournament "Twitch")
 - [Challonge bracket](https://challonge.com/oet2021 "Challonge")
 - [BWS Calculator](https://docs.google.com/spreadsheets/d/1l1FemA9ZL4gbMcVMfu-sYe-VqSIlU1ebNkcneJlb7rI/edit#gid=1683977451 "Google Sheets")
@@ -131,11 +131,11 @@ The osu!European Tournament 2021 was run by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Player |
+| Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [yu-k1\_](https://osu.ppy.sh/users/16347853) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] [J a c k y](https://osu.ppy.sh/users/8011704) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **opa pizdec** (![][flag_FR] **[Nos\_If](https://osu.ppy.sh/users/7365196)**, ![][flag_FR] [CharleLee](https://osu.ppy.sh/users/10434787), ![][flag_PL] [chikato](https://osu.ppy.sh/users/8828875), ![][flag_PL] [James Naismith](https://osu.ppy.sh/users/2629617), ![][flag_RU] [keksik](https://osu.ppy.sh/users/8664728), ![][flag_RU] [KobachiMaka](https://osu.ppy.sh/users/9053619), ![][flag_GB] [NeoPixel201](https://osu.ppy.sh/users/12139352), ![][flag_RU] [stqrter](https://osu.ppy.sh/users/11222462)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **The Cow Fields** (![][flag_DE] **[Resoa](https://osu.ppy.sh/users/6754508)**, ![][flag_SK] [-MiGo-](https://osu.ppy.sh/users/7754121), ![][flag_PL] [-yeXa-](https://osu.ppy.sh/users/10344658), ![][flag_FR] [Hyuras](https://osu.ppy.sh/users/13579528), ![][flag_DE] [KSN](https://osu.ppy.sh/users/5442251), ![][flag_RU] [Rasseru](https://osu.ppy.sh/users/11116438), ![][flag_IT] [Surpy](https://osu.ppy.sh/users/9961436), ![][flag_FI] [Xepei](https://osu.ppy.sh/users/11479551)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Team Papayapa** (![][flag_FR] **[Papayapa](https://osu.ppy.sh/users/11704595)**, ![][flag_GB] [GongoTheGecko](https://osu.ppy.sh/users/9227012), ![][flag_FR] [Jiuchu](https://osu.ppy.sh/users/2282145), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_FI] [Samoyed](https://osu.ppy.sh/users/6796557), ![][flag_DE] [Sasukeey](https://osu.ppy.sh/users/13569121), ![][flag_RU] [Sonmi](https://osu.ppy.sh/users/8404990), ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761)) |
 
 ## Mappools
 
@@ -592,6 +592,7 @@ More detailed qualifiers results can be accessed via these spreadsheets below:
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
