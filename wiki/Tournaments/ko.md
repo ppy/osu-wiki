@@ -329,7 +329,6 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 
 ## 같이보기
 
-- [토너먼트 기사 템플릿](/wiki/Tournaments/Template)
 - [osu! 공식 대회에 참가한 국가 목록](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (대회 스트리밍을 위한 클라이언트)
 
