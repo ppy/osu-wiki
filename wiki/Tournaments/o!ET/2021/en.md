@@ -119,7 +119,7 @@ This competition has come to an end and resulted in the following podium:
   - [m-flo loves CHEMISTRY - Astrosexy (mtmcl) \[Sexy\]](https://osu.ppy.sh/beatmapsets/13244#osu/49101)
   - [wa. vs celas vs 44teru-k - ray of thanatos (rrtyui) \[ruruchi\]](https://osu.ppy.sh/beatmapsets/147776#osu/365763)
   - [Lunatic Sounds - Drop down (Otosaka-Yu) \[Rein\]](https://osu.ppy.sh/beatmapsets/1260568#osu/2634236)
-- DoubleTime
+- DoubleTime+FreeMod
   - [Chata - Present (Lasse) \[Memories\]](https://osu.ppy.sh/beatmapsets/840161#osu/1758697)
   - [SUPER STAR -MITSURU- - NEW GENERATION (Natteke) \[Another\]](https://osu.ppy.sh/beatmapsets/25158#osu/85197)
   - [xi - Mirage Garden (P o M u T a) \[Hyper\]](https://osu.ppy.sh/beatmapsets/319940#osu/722587)
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
   - [Imy - Meteora (Icekalt) \[LMT's Expert\]](https://osu.ppy.sh/beatmapsets/1129440#osu/2404379)
   - [xi - FREEDOM DiVE (yf\_bmp) \[2014\]](https://osu.ppy.sh/beatmapsets/816686#osu/1712641)
   - [ericdoa - sheaskedwhatmylifeislike (Lokidoki) \[collabdeadoralive\]](https://osu.ppy.sh/beatmapsets/1458845#osu/2997928)
-- DoubleTime
+- DoubleTime+FreeMod
   - [Mami Kawada - FIXED STAR (-Laura-) \[Insane\]](https://osu.ppy.sh/beatmapsets/752526#osu/1601083)
   - [Memme - Extreme Fantasy (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/49459#osu/192181)
   - [Kishida Kyoudan & The Akeboshi Rockets - Rewriter (Suzully) \[Rewriter\]](https://osu.ppy.sh/beatmapsets/34376#osu/113587)
@@ -171,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
   - [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Ayaya's Expert\]](https://osu.ppy.sh/beatmapsets/513731#osu/1493332)
   - [ICE - Majestic Phoenix (Zetera) \[Down in Flames\]](https://osu.ppy.sh/beatmapsets/845094#osu/1767713)
   - [LeaF - Monkey Business -Satire mix- (waefwerf) \[Yokes' Extra\]](https://osu.ppy.sh/beatmapsets/1221791#osu/2561965)
-- DoubleTime
+- DoubleTime+FreeMod
   - [Ceui - Asphodelus (Giralda) \[Insane\]](https://osu.ppy.sh/beatmapsets/319976#osu/718642)
   - [Turbo & Keisari - Rockefeller Street / Eurobeat Remix (yaspo) \[Definitely Not Legal\]](https://osu.ppy.sh/beatmapsets/1257577#osu/2613169)
   - [PolyphonicBranch - Aru Shoujo no Senzai Ishiki (Some Hero) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1354017#osu/2907223)
@@ -193,7 +193,7 @@ This competition has come to an end and resulted in the following podium:
   - [Katakiri Rekka - Answer (ShirohaMyMommy) \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1062653#osu/2278618)
   - [onoken - Felys (Inferior) \[DJPop's Insane\]](https://osu.ppy.sh/beatmapsets/7013#osu/160795)
   - [Akiyama Uni - Yuuga ni Sakase, Sumizome no Sakura \~ Border of Life (Axarious) \[Normal\]](https://osu.ppy.sh/beatmapsets/525444#osu/1115112)
-- DoubleTime
+- DoubleTime+FreeMod
   - [FELT - Roll Ground (Natsu) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/327587#osu/726981)
   - [ak+q & Redeilia - Enigma Helix (Icekalt) \[Celeslashed's Hard\]](https://osu.ppy.sh/beatmapsets/867825#osu/1814067)
   - [Aphex Twin - Flim (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/998953#osu/2089279)
@@ -212,7 +212,7 @@ This competition has come to an end and resulted in the following podium:
   - [Memme - Xiao Long Bao (Gamu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1151330#osu/2403266)
   - [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) \[taka\]](https://osu.ppy.sh/beatmapsets/33323#osu/110628)
   - [Travis Scott & Quavo - Go (Sing) \[Master\]](https://osu.ppy.sh/beatmapsets/709474#osu/1499797)
-- DoubleTime
+- DoubleTime+FreeMod
   - [Shiomiya Shiori starring Hanazawa Kana - Kizuna no Yukue feat. Shiomiya Shiori (Bearizm) \[Megami\]](https://osu.ppy.sh/beatmapsets/347422#osu/766668)
   - [Wotamin - Cat Food (rEdo) \[Insane\]](https://osu.ppy.sh/beatmapsets/35258#osu/114379)
   - [zts - worldenddominator (deetz) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/897884#osu/1946272)
@@ -419,50 +419,73 @@ More detailed qualifiers results can be accessed via these spreadsheets below:
 
 ### General rules
 
-1. A private lobby will be created by a referee 10 minutes before the scheduled match. Both players will be invited into the room when it's match time.
-   - If a player is late by **10 minutes**, they will automatically lose the `!roll`.
-   - If a player is late by **15 minutes**, the other player will be declared as the winner by default.
-2. If both players fail to show up to their match, the match will end up as a tie.
-3. Each player can submit a warmup, although it cannot be longer than **3 minutes** long.
-4. The player with the higher `!roll` will be asked to choose either the pick order or ban order. Then, the loser will be forced to choose the remaining option.
-5. Referee will then summarise the pick/ban order selected by the players.
-6. Ban order is: Player 1 ban, Player 2 ban, Player 1 ban, Player 2 ban.
-7. You can call for an abort within the first **30 seconds** of the map, in order to replay it. Each player has a limit of **1 replay** per match.
-8. Players **are not allowed** to ban the same mod bracket twice with the exception of NoMod.
-9. Players **have no restrictions regarding picks**. They can pick any map in any order from any bracket.
-10. Players **do not have any restrictions** for FreeMod bracket maps. They can play without any mods, with Hidden, Hard Rock, or Hidden and Hard Rock.
-11. It is the player's responsibility to be prepared for the match. If any technical difficulties appear related to the picks (e.g. a player has slow connection and cannot download the picked map), the referee is allowed to give a point to the enemy player if the problematic player is taking too long to fix their problem.
-12. There are no time restrictions, but the players are expected to act using common sense. If a player is obviously stalling, then the referees are allowed to add an `!mp timer` of their choice (preferably 2 minutes).
-13. Disrespect of the assigned referee, and/or opponent, will not be tolerated. (Applies towards other staff members in the Discord server environment)
-14. If a pick has been tied for 2 times after replaying it, the pick will be nullified.
-15. The mappool size will follow the listed format:
-    - Swiss bracket: 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod
-    - Semifinals, Finals, and Grand Finals: 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, 1 Tiebreaker
-16. Any members of the staff apart from organisers, mappool selectors and referees **are allowed to play**.
-17. All match schedules will be written in UTC.
-18. Reschedules will always be accepted as long as they are **24 hours before** the first schedule of the running stage.
-19. Mappools will be released by each week's Monday, so every match can occur before that. This applies for both the Swiss bracket and the knockout stage.
+1. The tournament uses a 4v4 format, with drafted teams of 8. Each team will be composed of 2 players per tier.
+   - Each tier has its own rank range. They go as follows:
+     - Tier 1: #1 - #2,500
+     - Tier 2: #2,501 - #7,500
+     - Tier 3: #7,501 - #15,000
+     - Tier 4: #15,001 - #30,000
+     - There will not be a rank buffer for any of the ranges
+2. Only players from the Europe region may sign up to the tournament. Participants may find a list of European countries through [following link](https://en.wikipedia.org/wiki/List_of_European_countries_by_area). If they wish to enter the tournament while the flag of their profile page has isn't listed here, participants can contact the host through Discord DMs to discuss the matter.
+3. The matches will be played with the following win conditions: TeamVS, Score V2.
+4. The BWS (Badge Weighting System) is used for the registration part of the tournament, formula used is as follows: `rank ^ 0.99 ^ badges ^ 2`. However, the rank calculation will be slightly different, and each badge will not have the same weighting depending on participants' rank. More information regarding this can be found under the [BWS section below](#bws-format).
+5. Each mappool and schedule for a weekend will be released at the latest on the Monday prior to that weekend, exceptions being exceptional circumstances or all matches that concluded early.
+6. Once all teams are formed, a Challonge bracket will be made and shuffled.
+7. A referee will be assigned to every match/lobby. Invites can be sent up to **10 minutes** ahead of the scheduled match time.
+8. As this tournament might award a badge to the winning team, some members on the staff list **are not allowed** to participate. This rule affects **referees, mappool selectors, playtesters and organisers**.
+9. Anyone participating in this tournament (including staff) must have common decency, and not be overly toxic for no reason, otherwise a ban from the tournament will be enforced.
+10. Reschedules are to be done before each Friday of the running stage at 23:59 UTC.
 
-### Registration
+### BWS format
 
-1. Every player that meets the rank restricted requirements is able to sign up. When registration is coming to an end, players are allowed to bypass the rank restriction, but if the player isn't within the rank range by the time registration ends, their registration will be removed.
-2. To register, each player must follow the posting format: their osu! user ID followed by a timezone (in UTC) in the `#registration` text-channel in the VAF Discord server, which will only be open for 2 weeks until the registrations end.
-3. Signing up does not guarantee participation in the tournament. Players will have to stay within the cutoff until the registrations close. The cutoff will be held at 64 players.
+This tournament will introduce "progressive" Badge Weighting System (abbreviated to BWS), which is a format proposed by ![][flag_FR] [Sentenza](https://osu.ppy.sh/users/8129217) aiming at weighting each badge differently, according to whether or not they ranked up past a tournament’s rank range in which they won one or multiple badges. For instance, if a participant won a badge at rank #10,000 - #25,000 but ranked up beyond #10,000 (e.g. rank #7,000), their badge will weight less than a badge they'd have won in a #5,000 - #15,000 rank range tournament. Please check the following [sheet](https://docs.google.com/spreadsheets/d/1l1FemA9ZL4gbMcVMfu-sYe-VqSIlU1ebNkcneJlb7rI/edit?usp=sharing) out to see an example with the cases of ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143) and ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383). Defex ranked past the rank ranges of the two badged tournaments he won, so both his badges will weight less towards his BWS rank, but not by much since he’s still close to them. (see and compare the O!ET example (Defex) with Original BWS Calc (Defex) sheets). This doesn’t make much of a change, but for participants with a larger amount of badges, it can have a significant impact. YoshiLover456 is naturally being hit with harsher BWS because of his badges amount (4), and is still in range for 3 of them. However, because he ranked out of the range of one tournament, said badge will weight less, and will allow him to play in tier 3 instead of tier 2, which seems more fair.
+Further concerns and debate with Sentenza about the format, please contact Sentenza through Discord DMs `sentenza013#6435`.
 
-### Swiss style
+### Draft procedure
 
-1. Swiss style is a league style format which consists of playing against X opponents depending on the format and rounds existing. This implies that each player will not play against everyone in the swiss. Each matchup will depend on the seeding and performance of every player in the swiss bracket. There is an exception where in case of a tie a player might rematch someone depending on their point difference (this depends on the Challonge bracket). More information on this format can be accessed through the [following video](https://youtu.be/WsvFrxJPBZA "YouTube").
-2. Each player will play throughout 6 weeks, 6 matches/rounds of swiss style.
-3. Matchups will be paired between players who possess the same amount of W-L-D (for example someone that goes 3-0 will be prioritized against someone who also is 3-0). Moreover, playing against the same player twice will be avoided unless it's completely necessary.
-4. Every match will use BO13 format, this means throughout the entire swiss bracket a player will need 7 points to win a match or 6 to guarantee a tie. Semifinals onwards will also use BO13 format. The main difference is that the swiss bracket doesn't have a tiebreaker.
-5. In case of a tie in W-L-D at the end of the 6 rounds/matches, several tiebreaker methods will be used depending on different information:
-   - Points
-   - [Bucholz](https://en.wikipedia.org/wiki/Buchholz_system "Wikipedia")
-   - Points scored difference
-6. Every player who enters will play 6 matches in total 6 throughout 6 weeks in the swiss bracket. Only the top 12 players will go through the double elimination bracket afterwards.
-7. Players will immediately enter the Semifinals knockout stage if they pass the swiss bracket. Top 4 players from the swiss bracket will be placed in the winners bracket while the rest will start from the losers bracket.
-8. Players will only play 1 match per each swiss week. In total, they will play 6 matches during the swiss bracket.
-9. The top 12 players from the swiss bracket will be moved on to a **bracket reset** if the team from the loser's bracket wins the first match.
+1. Captains will be added to a special chat **10 minutes** before the draft, around the same time the EZ multiplier poll ends. The draft will be held in the dedicated text channel.
+2. A check-in will then be done, and once all captains checked-in, the draft order will be randomised by ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899)'s bot, shdewz-chan. The first player to come up on the randomised list will pick first, second will be second pick, and so on.
+3. If everything goes as planned, the entire draft will be held using the bot, and the following steps will apply. In the case the bot is not ready, everything will be done manually, but not much will change.
+4. The draft will begin with shdewz-chan mentioning the captain who is to pick. Captains have **2 minutes** to decide on which player to pick, using a command provided to them. Once a captain has picked, shdewz-chan will mention the next captain to pick. This will go on until there are no players left to pick.
+5. Captains may freely pick from any tier, as long as their team does not have more than 2 players from the same tier.
+6. Pick order will be 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16. Once the 16th captain on the list has been reached, pick order will reverse until we reach the first name on the original list again (16, 15, 14, and so on... in a snake order draft). 1st and 16th names will get to pick twice (this rule won't apply for the first round of picks for 1st name, and for the last round of picks for the 16th name (as there will only be one player left to pick anyway).
+
+### Match procedures & Mappols format
+
+#### Qualifiers
+
+1. Each rank range will play a qualifiers mappool to determine the seeding for each tier. Only the top 32 from each tier may proceed to the draft.
+2. Every tier will play their qualifiers on a different mappool. The pool size will be:
+   - 3 NoMod
+   - 2 Hidden
+   - 2 HardRock
+   - 2 DoubleTime
+   - This apply for all tiers
+3. There will be one playthrough of the pool for each player.
+4. The grace period to show up to their lobby is **5 minutes**. Players may reschedule to other lobbies, if they missed their original lobby or as long as they haven’t played one yet.
+5. The seeding will be done through the sum of each player’s placement on each map. In the event of a tie by points, total score will be the deciding factor to break the tie.
+
+#### Bracket stage
+
+1. Each team will be composed of 8 players, 2 players per tier.
+2. During a match, each team must have one player from each tier in the room (one tier 1, one tier 2, one tier 3, one tier 4). They may not substitute a player from a lower tier to play in place of a higher tiered one (e.g. tier 4 playing in place of their tier 3 or 2 player), and they may not substitute a player from a higher tier to play in place of a lower tiered one.
+3. If a team fails to show up or gather enough members to make a fully-working team (1 tier 1, 1 tier 2, 1 tier 3, 1 tier 4) to a match, the other team will be granted a win. If neither teams show up to a match, the match will be rescheduled to a later time. Teams have **5 minutes** grace period to show up.
+4. This tournament’s mappools will feature 4 modpools: Freemod, ForceMod, DoubleTime+FreeMod, Tiebreaker.
+   - During a FreeMod pick, players can, but are not obliged to, select mods to play the map.
+   - During a ForceMod pick, teams must select mods. The required amount of mods per team is 3, and must have 2 unique mod combinations on at least 2 players. Teams may select from the following mods: Hidden, HardRock, Easy, Flashlight. HDHR counts as 2 mods and a unique mod combination, and will be considered as HR only, which means that to fulfill the unique mods requirement, another player has to use HD only; Easy will not count towards the unique mods combination requirement, but will contribute to the 3 total mods requirement, and its multiplier is to be determined; the EZHD combination will count as 2 mods towards the 3 total mods requirement, but will not contribute to the unique mods requirement. Flashlight counts as one unique mod combination and a single mod out of the 3 required. For instance, HDHR/HD/EZ/NM, HR/HD/HD/HR, HDHR/HD/EZ/EZ, are mod combinations that work. However, HD/EZ/NM/NM will not work.
+   - During a DoubleTime+FreeMod pick, teams can, but are not obliged to, select mods to play the map.
+   - During a Tiebreaker pick, players can, but are not obliged to, select mods to play the map.
+   - In the case of a tie in score, the Tiebreaker will be played (e.g., in a best of 11 match and 5-5 scenario, the tiebreaker will be played).
+5. Team captains will roll to determine the pick and ban order. The team that rolls the highest will ban in second and pick first.
+6. Teams will be allowed to ban 1 map per match up to Quarterfinals and Loser's Round 1, and 2 maps from Semifinals and onward. Ban alternation will be allowed, if the pool supports 2 bans. However, they cannot ban two maps from the same mod pool, with the exception of Freemod.
+7. The winning condition, mappool format and bans amount for each stage are listed as follows:
+   - The Round of 16 and the Quarterfinals: Best-Of-9 (First to 5 points wins), 1 ban per team. Pool format: 5FM/3FO/3DT/3TB.
+   - The Semifinals: Best-Of-11 (First to 6 points wins), 2 bans per team. Pool format: 7FM/4FO/4DT/3TB.
+   - The Finals and the Grand Finals: Best-Of-13 (First to 7 points wins), 2 bans per team. Pool format: 8FM/5FO/5DT/3TB.
+8. Regarding disconnections/aborts: they can only be made up to 30 seconds after a map’s start. If the map is aborted/a disconnection happens:
+   - In the first 30 seconds: Map will be aborted, and the played map will be restarted.
+   - After the first 30 seconds: Map **will not** be aborted, and it is up to the team that wasn’t affected by the abort to decide whether they wish to replay the map or not.
+   - Each team can call for an abort one time per match.
 
 [flag_AL]: /wiki/shared/flag/AL.gif "Albania"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
