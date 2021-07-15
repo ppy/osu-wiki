@@ -56,15 +56,15 @@ The osu!mania South East Asia Champion 2020 was run by various community members
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1182599)
-- [SEAC Discord server](https://discord.gg/98XWScA)
+- [SEAC Discord server](https://discord.gg/98XWScA "Discord")
 - Livestream
-  - [Main](https://www.twitch.tv/seachampions_mania)
-  - [Alternate](https://www.twitch.tv/seachampions)
+  - [Main](https://www.twitch.tv/seachampions_mania "Twitch")
+  - [Alternate](https://www.twitch.tv/seachampions "Twitch")
     - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
-- [Challonge bracket](https://challonge.com/seac2020)
+- [Challonge bracket](https://challonge.com/seac2020 "Challonge")
 - Spreadsheet
-  - **[Main](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing)**
-  - [Statistics](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit?usp=drivesdk)
+  - **[Main](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing "Google Sheets")**
+  - [Statistics](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit?usp=drivesdk "Google Sheets")
 
 ## Participants
 
@@ -416,7 +416,7 @@ Monday, 11 January 2021:
 
 ### Qualifiers
 
-- More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit)
+- More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit "Google Sheets")
 - Average rank was determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - Here are the seeding criteria for Qualifiers:
   - Top 4 will be declared as Top seed and automatically advance to the Knockout Stage without needing to compete in the Post-Qualifiers
@@ -520,7 +520,7 @@ Monday, 11 January 2021:
 8. Lag isn't a reason to restart a match.
 9. Visual mods such as Hidden, Flashlight, Fade In, and Mirror **are allowed**.
 10. No Fail (NF) mod is also allowed.
-11. More information around Qualifiers and Post-Qualifier stage, refer to this [link](https://docs.google.com/spreadsheets/d/17aaYSiVb_BFEyb-fX8rvV8K7HBfnIwGhZquO2oUVf3I/edit?usp=drivesdk) for more information.
+11. More information around Qualifiers and Post-Qualifier stage, refer to this [link](https://docs.google.com/spreadsheets/d/17aaYSiVb_BFEyb-fX8rvV8K7HBfnIwGhZquO2oUVf3I/edit?usp=drivesdk "Google Sheets") for more information.
 12. Every referee and participant should be treated with respect following the osu! community rules.
 13. If a participant breaks any of the tournament rules, it will lead to disqualification of the participant.
 

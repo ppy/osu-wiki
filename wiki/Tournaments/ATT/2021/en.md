@@ -91,7 +91,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (117 MB)](https://mega.nz/file/vzoE3R7Y#mp2bNhfEL8UFO9LRL1SUpFi7pMVfoxTW3aTh2fUBJvk)**
+**[Download the mappack here! (117 MB)](https://mega.nz/file/vzoE3R7Y#mp2bNhfEL8UFO9LRL1SUpFi7pMVfoxTW3aTh2fUBJvk "MEGA")**
 
 - NoMod
   - [Kobaryo - Transceiver FX (Hivie) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1328018#taiko/2751152)
@@ -118,7 +118,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (68 MB)](https://mega.nz/file/O2BzBKiI#WoW-x4LM_mvIPmSsNTXy3DvF8arwJE2tUwcC2dIyiks)**
+**[Download the mappack here! (68 MB)](https://mega.nz/file/O2BzBKiI#WoW-x4LM_mvIPmSsNTXy3DvF8arwJE2tUwcC2dIyiks "MEGA")**
 
 - NoMod
   - [Kobaryo - HUG AND KILL (vzk) \[nerf\]](https://osu.ppy.sh/beatmapsets/773541#taiko/1626066)
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (98 MB)](https://mega.nz/file/njYSyTKS#ypEKEeqgJSDpnjgmLAiyivefJl1iY4otlZCW4sCF-VI)**
+**[Download the mappack here! (98 MB)](https://mega.nz/file/njYSyTKS#ypEKEeqgJSDpnjgmLAiyivefJl1iY4otlZCW4sCF-VI "MEGA")**
 
 - NoMod
   - [katagiri - #2wise4u (maguro869) \[#magur0\]](https://osu.ppy.sh/beatmapsets/995928#taiko/2083254)
@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (78 MB)](https://mega.nz/file/Dnxw0RTI#2UC44Xg1Nbfd0-IucNmAOKECAd3n9YyU33ohWdTWFLI)**
+**[Download the mappack here! (78 MB)](https://mega.nz/file/Dnxw0RTI#2UC44Xg1Nbfd0-IucNmAOKECAd3n9YyU33ohWdTWFLI "MEGA")**
 
 - NoMod
   - [sky\_delta Feat.Kanata.N - Crystal Clear and Nothing (yassu-) \[Inner Oni (long ver)\]](https://osu.ppy.sh/beatmapsets/858136#taiko/1800886)
@@ -197,7 +197,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/1DksCzwr0ei44qIIdS-l7-grU5liRRkxb/view?usp=sharing)**
+**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/1DksCzwr0ei44qIIdS-l7-grU5liRRkxb/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [sabi\_c - Class B (Maeda) \[Diff A\]](https://osu.ppy.sh/beatmapsets/1295205#taiko/2687456)
@@ -222,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (53 MB)](https://drive.google.com/file/d/1_9FfeVHDMf3fMae8ZxMMWkrEESVETm-r/view?usp=sharing)**
+**[Download the mappack here! (53 MB)](https://drive.google.com/file/d/1_9FfeVHDMf3fMae8ZxMMWkrEESVETm-r/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Rob Gasser - Taking Over (feat. Miyoki) (-OvO-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1118937#taiko/2339203)

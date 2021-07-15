@@ -301,7 +301,7 @@ Results of the main bracket can be found on the Challonge page linked above.
 
 - Referees will create the lobby and invite players 10 minutes before the designated match time.
 - Players have up to ten minutes after their designated start time to move into the lobby. Failure to show will result in a forfeit. If both players are absent, the match will either be rescheduled or end in double forfeit to the discretion of the administration.
-- Both players must !roll. **The highest roll gets first warmup, ban and pick**.
+- Both players must `!roll`. **The highest roll gets first warmup, ban and pick**.
 - Each player will be allowed one warmup map and one ban unless stated otherwise
 - Warmup maps may not be longer than 4 minutes 30 seconds.
 - If a player disconnects within the first 30 seconds of a map, it will be aborted and replayed. Any disconnects afterwards will be a forfeit of that map.

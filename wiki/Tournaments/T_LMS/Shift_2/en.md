@@ -50,10 +50,10 @@ The Taiko LMS: Shift Cup 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1043063)
-- [LMS Discord server](https://discord.gg/mJAF2Xa)
-- [Livestream](https://twitch.tv/osutaikolive)
-- [Challonge brackets](https://challonge.com/p86zgof5)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1oFiXMH2d69WB5yXEMc7X5IsS7EASo7o3CIBWgKOJEnw/edit?usp=sharing)**
+- [LMS Discord server](https://discord.gg/mJAF2Xa "Discord")
+- [Livestream](https://twitch.tv/osutaikolive "Twitch")
+- [Challonge brackets](https://challonge.com/p86zgof5 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1oFiXMH2d69WB5yXEMc7X5IsS7EASo7o3CIBWgKOJEnw/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -192,7 +192,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (94 MB)](https://www.mediafire.com/file/xbnjhpi0h70yilv/mappool_ro8.rar/file)**
+**[Download the mappack here! (94 MB)](https://www.mediafire.com/file/xbnjhpi0h70yilv/mappool_ro8.rar/file "MediaFire")**
 
 - NoMod
   - [Slax - Cutening (hoku-4625) \[7\_7 & hoku's YAHOO! ^-^\]](https://osu.ppy.sh/beatmapsets/817170#taiko/1713521)
@@ -223,7 +223,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (90 MB)](https://www.mediafire.com/file/o015yntwe0hm414/mappool.rar/file)**
+**[Download the mappack here! (90 MB)](https://www.mediafire.com/file/o015yntwe0hm414/mappool.rar/file "MediaFire")**
 
 - NoMod
   - [BUTAOTOME - In the Black (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1068835#taiko/2237598)
@@ -254,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (133 MB)](https://www.dropbox.com/s/tfuiej2yios9rfi/Shift%20Cup%20Group%20Stage%20Mappack.rar?dl=1)**
+**[Download the mappack here! (133 MB)](https://www.dropbox.com/s/tfuiej2yios9rfi/Shift%20Cup%20Group%20Stage%20Mappack.rar?dl=1 "Dropbox")**
 
 - NoMod
   - [Chroma - \[@\_\_@\] (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1048153#taiko/2190876)

@@ -52,9 +52,9 @@ The osu! World Cup #2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/65535)
-- [Livestream link (livestream.com)](https://livestream.com/osuworldcup)
-- [Livestream link (Own3d.tv)](https://www.own3d.tv/MetroAR)
-- [Pre-tournament interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
+- [Livestream link (livestream.com)](https://livestream.com/osuworldcup "Livestream")
+- [Livestream link (own3d.tv)](https://www.own3d.tv/MetroAR "OWN3D")
+- [Pre-tournament interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit "Google Docs")
 
 ## Podium
 
@@ -551,7 +551,7 @@ Time Zone: (...)
 ### Stage instructions
 
 1. In the Group Stage, the teams will be divided into 8 groups of 4 teams at random.
-   - To ensure fairness, the drawing process will be [publicly livestreamed](http://www.livestream.com/natteke).
+   - To ensure fairness, the drawing process will be [publicly livestreamed](http://www.livestream.com/natteke "Livestream").
 2. All the teams from each group will face each other over the course of three weeks.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.

@@ -1,12 +1,12 @@
 ---
 tags:
-- Fall
-- Highlander Con
-- LAN
-- osu! Riverside
-- Riverside
-- SWEAT
-- UCR
+  - Fall
+  - Highlander Con
+  - LAN
+  - osu! Riverside
+  - Riverside
+  - SWEAT
+  - UCR
 ---
 
 # Standard/Mania Weekend End of Autumn Tournament
@@ -21,7 +21,7 @@ The **Standard/Mania Weekend End of Autumn Tournament** (***SWEAT***) was an osu
 
 SWEAT was a LAN event, meaning it happened in-person. osu! Riverside had a room reserved for the duration of Highlander Con, and it was a friendly place for all rhythm gamers to hang out, in addition to hosting this tournament.
 
-Details about Highlander Con Fall 2019 were posted on its [Eventbrite page](https://www.eventbrite.com/e/highlander-con-fall-2019-tickets-74580744013):
+Details about Highlander Con Fall 2019 were posted on its [Eventbrite page](https://www.eventbrite.com/e/highlander-con-fall-2019-tickets-74580744013 "Eventbrite"):
 
 - Location: Highlander Union Building (HUB), 900 University Ave, Riverside, CA 92507
 - Time: Sunday, November 17, 2019 starting at 11:00AM
@@ -29,11 +29,11 @@ Details about Highlander Con Fall 2019 were posted on its [Eventbrite page](http
 ## Links
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/980643)
-- [Highlander Con Fall 2019 Eventbrite page](https://www.eventbrite.com/e/highlander-con-fall-2019-tickets-74580744013)
-- [Livestream](https://www.twitch.tv/osuriverside)
-- [osu! Riverside Discord server](https://discord.gg/SVztsp5)
-- [osu! Challonge bracket](https://challonge.com/SWEATSTD)
-- [osu!mania Challonge bracket](https://challonge.com/l4xtf5z5)
+- [Highlander Con Fall 2019 Eventbrite page](https://www.eventbrite.com/e/highlander-con-fall-2019-tickets-74580744013 "Eventbrite")
+- [Livestream](https://www.twitch.tv/osuriverside "Twitch")
+- [osu! Riverside Discord server](https://discord.gg/SVztsp5 "Discord")
+- [osu! Challonge bracket](https://challonge.com/SWEATSTD "Challonge")
+- [osu!mania Challonge bracket](https://challonge.com/l4xtf5z5 "Challonge")
 
 ## Prizes
 
@@ -496,5 +496,5 @@ This is a double-elimination tournament.
 - All charts will include FreeMod; no mods are required, but mods may be added if the player would like. Allowed mods are Hidden, FadeIn, Flashlight, and Mirror.
 - If all players agree, Grand Finals may use the same mappool as Finals. In that case, players will only have one ban.
 
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -52,10 +52,10 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1051009)
-- [NPC Discord server](https://discord.gg/Zjb3jR9)
-- [Livestream](https://www.twitch.tv/npc_tournaments)
-- [Challonge bracket](https://challonge.com/wne60mu5)
-- **[Statistic sheet](https://docs.google.com/spreadsheets/d/1j8fp6zK0Z9cQWv-xwqFfEmvsrHIzqRnru7kovr2P05o/edit?usp=sharing)**
+- [NPC Discord server](https://discord.gg/Zjb3jR9 "Discord")
+- [Livestream](https://www.twitch.tv/npc_tournaments "Twitch")
+- [Challonge bracket](https://challonge.com/wne60mu5 "Challonge")
+- **[Statistic sheet](https://docs.google.com/spreadsheets/d/1j8fp6zK0Z9cQWv-xwqFfEmvsrHIzqRnru7kovr2P05o/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -376,7 +376,7 @@ Sunday, 21 June 2020:
 | **Alek & Friends** | **0** | -1 | Tapa na Cara | *win by default* |
 | ora ora ora | -1 | **0** | **Bats from Wuhan** | *win by default* |
 | WeLoveKöfte | 3 | **6** | **Chuchichäschtli** | [#1](https://osu.ppy.sh/community/matches/63203837) |
-| **Young Builders** | **6** | 2 | G Nome | [#1](https://osu.ppy.sh/community/matches/63205675) | 
+| **Young Builders** | **6** | 2 | G Nome | [#1](https://osu.ppy.sh/community/matches/63205675) |
 | Peko Peko | 1 | **6** | **Stunter in the Toilet** | [#1](https://osu.ppy.sh/community/matches/63212139) |
 
 ### Round of 16
@@ -493,13 +493,13 @@ Sunday, 7 June 2020:
    - From Quarterfinals onwards, the number of bans increases to two.
    - A mod pool can not be banned completely.
    - A team cannot ban two maps in the same mod pool except NoMod.
-4. Each captain must use "!roll" once in the multiplayer lobby.
+4. Each captain must use `!roll` once in the multiplayer lobby.
    - The team with the higher roll chooses to **ban first** or **pick first**.
    - The team that bans first will pick second, and vice versa.
 5. Beatmap selection will alternate between each team selecting a beatmap out of the mappool, they may pick freely from any mod pool.
 6. In the case of a tie, the tiebreaker beatmap will be played.
    - For the Grand Finals tiebreaker, there will be 3 tiebreaker beatmaps. The captain from each team will privately message the referee to ban one of those beatmaps.
-   - If both teams ban the same beatmap, the referee will use "!roll" to randomly select 1 of the remaining 2 tiebreaker beatmaps to be played.
+   - If both teams ban the same beatmap, the referee will use `!roll` to randomly select 1 of the remaining 2 tiebreaker beatmaps to be played.
    - If the teams ban different beatmaps, the remaining beatmap will be played.
 
 ### Mappool instructions

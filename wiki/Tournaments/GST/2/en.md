@@ -55,10 +55,10 @@ The Great Singapore Tournament 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/983074)
-- [GST Discord server](https://discord.gg/kCfW4Jw)
-- [Livestream](https://twitch.tv/osusg)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/20) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1rPNEsq4I_vuVHSccLjgZ5HucIgnAWTuUfgiYFRAkBOI/edit?usp=sharing)**
+- [GST Discord server](https://discord.gg/kCfW4Jw "Discord")
+- [Livestream](https://twitch.tv/osusg "Twitch")
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/20 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1rPNEsq4I_vuVHSccLjgZ5HucIgnAWTuUfgiYFRAkBOI/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -132,7 +132,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (171 MB)](https://drive.google.com/file/d/1cWhWup0xeIXO9F3CzGPlfmMQUTLTeULH/view?usp=sharing)**
+**[Download the mappack here! (171 MB)](https://drive.google.com/file/d/1cWhWup0xeIXO9F3CzGPlfmMQUTLTeULH/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Roselia - FIRE BIRD (TV Size) (-Aqua) \[Shizuku's Special\]](https://osu.ppy.sh/beatmapsets/947848#osu/1986140)
@@ -162,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (181 MB)](https://drive.google.com/file/d/1VTZiWanObjVOhzy_Or6l-rhpIr1o1izh/view)**
+**[Download the mappack here! (181 MB)](https://drive.google.com/file/d/1VTZiWanObjVOhzy_Or6l-rhpIr1o1izh/view "Google Drive")**
 
 - NoMod
   - [Memme - Pandemonium (sdafsf) \[LCFC's Extra: #13\]](https://osu.ppy.sh/beatmapsets/734190#osu/1562547)
@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (177 MB)](https://drive.google.com/file/d/1MSpZ6ez2zD5lRhb61YEimhbj98yZRgrp/view?usp=sharing)**
+**[Download the mappack here! (177 MB)](https://drive.google.com/file/d/1MSpZ6ez2zD5lRhb61YEimhbj98yZRgrp/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Sota Fujimori - ACCELERATE (Chaoslitz) \[Extra (#1)\]](https://osu.ppy.sh/beatmapsets/852406#osu/1781731)
@@ -220,7 +220,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1MikHku9axi0H1Vt2S3Xs-_uKVWHfuxO9/view)**
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1MikHku9axi0H1Vt2S3Xs-_uKVWHfuxO9/view "Google Drive")**
 
 - NoMod
   - [ESTi - HELIX (Edit ver.) (Hollow Wings) \[yf's Extreme\]](https://osu.ppy.sh/beatmapsets/194910#osu/467726)
@@ -246,7 +246,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1Ao7hnixGi_k76kmymCFxKTgS6nHyWLFb/view)**
+**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1Ao7hnixGi_k76kmymCFxKTgS6nHyWLFb/view "Google Drive")**
 
 - NoMod
   - [Kamiyama Yoh - YELLOW (Peter) \[High\]](https://osu.ppy.sh/beatmapsets/1019836#osu/2133966)
@@ -272,7 +272,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1rxiuBmAscXlJ_DbItPqU_Al3_CO7UqHD/view)**
+**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1rxiuBmAscXlJ_DbItPqU_Al3_CO7UqHD/view "Google Drive")**
 
 - NoMod
   - [BTS - FIRE (sukiNathan) \[apple's Insane\]](https://osu.ppy.sh/beatmapsets/479385#osu/1068523)

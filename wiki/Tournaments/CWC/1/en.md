@@ -96,12 +96,12 @@ This competition has come to an end and resulted in the following podium:
 - NoMod (*to be played in order*)
   - [SUPER STAR -MITSURU- - THANK YOU FOR PLAYING (ZHSteven) \[CWC competition\]](https://osu.ppy.sh/beatmapsets/42694#fruits/275691)
   - [S.S.H. - Intersect Thunderbolt (Deif) \[Thunderbolt\]](https://osu.ppy.sh/beatmapsets/43027#fruits/135142)
-  - [PRASTIK DANCEFLOOR - Session 9 -Chronicles- (Kuzino) \[2Q\]](https://puu.sh/ccsl)
+  - [PRASTIK DANCEFLOOR - Session 9 -Chronicles- (Kuzino) \[2Q\]](https://puu.sh/ccsl "puush")
   - [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB pro competition\]](https://osu.ppy.sh/beatmapsets/31297#fruits/102923)
-  - [NicoNico Chorus - World's End Dancehall (CLSW) \[CLSPEC Adieu Special\]](https://puu.sh/eykZ)
-  - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](https://puu.sh/1g0e)
-  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Extra CtB Stage\]](https://puu.sh/HiC)
-  - [Yousei Teikoku - Kokou no Sousei (Verdisphaena) \[Verdi's TAG2\]](https://puu.sh/f6oX)
+  - [NicoNico Chorus - World's End Dancehall (CLSW) \[CLSPEC Adieu Special\]](https://puu.sh/eykZ "puush")
+  - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](https://puu.sh/1g0e "puush")
+  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Extra CtB Stage\]](https://puu.sh/HiC "puush")
+  - [Yousei Teikoku - Kokou no Sousei (Verdisphaena) \[Verdi's TAG2\]](https://puu.sh/f6oX "puush")
 - Tiebreaker  
   - **[Ryu\* - I'm so Happy (\[JPSNS\]Shana) \[Shana's Madness CTB\]](https://osu.ppy.sh/beatmapsets/30006#fruits/99319)**
 

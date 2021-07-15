@@ -1,7 +1,7 @@
 ---
 tags:
-- SOFT5
-- SOFT 5
+  - SOFT5
+  - SOFT 5
 ---
 
 # Springtime Osu!mania Free-for-all Tournament 5
@@ -62,8 +62,6 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 - [SOFT Discord server](https://discord.gg/qd575a3 "Discord")
 - [Challonge](https://challonge.com/SOFT5 "Challonge")
 
----
-
 ## Participants
 
 ### Qualified participants
@@ -96,8 +94,6 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 | **O** | ![][flag_BR] SillyFangirl | ![][flag_IT] Jeersy | ![][flag_GB] PikachuNick | ![][flag_FR] Ping36 |
 | **P** | ![][flag_FR] Auraah | ![][flag_US] TTenko | ![][flag_NL] Bakuretsue | ![][flag_TH] Freshky |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -107,8 +103,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] [**\[GS\]Myuka**](https://osu.ppy.sh/users/10072733) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] [**SillyFangirl**](https://osu.ppy.sh/users/2288363) |
-
----
 
 ## Mappools
 
@@ -625,9 +619,7 @@ Sunday, 14 March 2021:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/110aVysi6hBh6BAXs1_UJUaA5od589SXUSLJzc4Xcamk/edit?usp=sharing).
-
----
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/110aVysi6hBh6BAXs1_UJUaA5od589SXUSLJzc4Xcamk/edit?usp=sharing "Google Sheets").
 
 ## Ruleset
 
@@ -725,7 +717,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Mirror, Hidden, Fade In, Flashlight and NoFail can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
 - Players are to protect one (1) map from being banned within the map pool that they are playing for the given round.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match; the winning roll picks the first protected map, the losing roll picks the second protected map and the first ban, finally the winning roll picks the second ban and the first song of the match.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the winning roll picks the first protected map, the losing roll picks the second protected map and the first ban, finally the winning roll picks the second ban and the first song of the match.
 - After the bans, protects and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
      - The winning player moves onto the next match.
@@ -745,39 +737,39 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_IN]: /wiki/shared/flag/IN.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PY]: /wiki/shared/flag/PY.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_IN]: /wiki/shared/flag/IN.gif "India"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

@@ -9,7 +9,7 @@ tags:
 ![MXB 3rd Logo](img/logo.jpg)
 
 The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the MXB team. It is the third installment of the MXB osu!mania 4K Tournament.
-​​
+
 ## Tournament Schedule
 
 | Event | Timestamp |
@@ -46,12 +46,12 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ## Links
 
-- [Challonge brackets](https://challonge.com/zh_CN/MXB3rd)
+- [Challonge brackets](https://challonge.com/zh_CN/MXB3rd "Challonge")
 - Livestream
-  - [Flow Light](https://live.bilibili.com/73668)
-  - [IA daisuki](https://live.bilibili.com/4353181)
-  - [NimaPro](https://live.bilibili.com/12166146)
-  - [Rasis](https://live.bilibili.com/5333)
+  - [Flow Light](https://live.bilibili.com/73668 "Bilibili")
+  - [IA daisuki](https://live.bilibili.com/4353181 "Bilibili")
+  - [NimaPro](https://live.bilibili.com/12166146 "Bilibili")
+  - [Rasis](https://live.bilibili.com/5333 "Bilibili")
 
 | Placing | Player |
 | :-: | :-- |
@@ -84,7 +84,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Finals
 
-**Download the mappack here! (118 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1v2mmoQVy_bdNR5_0W5j06w) (code:`ploo`) - [Google Drive](https://drive.google.com/file/d/1zLUvsmKgd5ppPWZEvFxDA4WEAMgkzdRH)**
+**Download the mappack here! (118 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1v2mmoQVy_bdNR5_0W5j06w "Baidu Netdisk") (code:`ploo`) - [Google Drive](https://drive.google.com/file/d/1zLUvsmKgd5ppPWZEvFxDA4WEAMgkzdRH "Google Drive")**
 
 - FreeMod
   - [LeaF - I \[\_UJ's Another\]](https://osu.ppy.sh/beatmapsets/426638#mania/928341)
@@ -104,10 +104,9 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 - Tiebreaker
   - **[Camellia & Nanahira - senpai, notice me! \[Senpai!!\]](https://osu.ppy.sh/beatmapsets/719648#mania/1683462)**
 
-
 ### Semifinals
 
-**Download the mappack here! (77 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1WbMvDnuRXqWQlcjGvW6LiQ) (code: `tydk`) - [Google Drive](https://drive.google.com/file/d/1ovBrmPRGZzOxCOAGSBKpbEiljhyWEnsH)**
+**Download the mappack here! (77 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1WbMvDnuRXqWQlcjGvW6LiQ "Baidu Netdisk") (code: `tydk`) - [Google Drive](https://drive.google.com/file/d/1ovBrmPRGZzOxCOAGSBKpbEiljhyWEnsH "Google Drive")**
 
 - FreeMod
   - [IOSYS - Endless Tewi-ma Park \[Arcwin Tewicated\]](https://osu.ppy.sh/beatmapsets/392965#mania/855472)
@@ -127,7 +126,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Quarterfinals
 
-**Download the mappack here! (85 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1JH-52Xp4Ez2J4oCGo8jv7Q) (code: `wtvh`) - [Google Drive](https://drive.google.com/file/d/1ZVxWmXj5uEVS1MgjF9k_YR9gafInsLNy)**
+**Download the mappack here! (85 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1JH-52Xp4Ez2J4oCGo8jv7Q "Baidu Netdisk") (code: `wtvh`) - [Google Drive](https://drive.google.com/file/d/1ZVxWmXj5uEVS1MgjF9k_YR9gafInsLNy "Google Drive")**
 
 - FreeMod
   - [Xceon feat.Mayumi Morinaga - Sakurayozora (Extended Mix) \[Expert\]](https://osu.ppy.sh/beatmapsets/316411#mania/705048)
@@ -147,7 +146,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Group Stage
 
-**Download the mappack here! (73 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow) (code: `wbbx`) - [Google Drive](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
+**Download the mappack here! (73 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow "Baidu Netdisk") (code: `wbbx`) - [Google Drive](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn "Google Drive")**
 
 - FreeMod
   - [Junk - Qualia \[4K HD+\]](https://osu.ppy.sh/beatmapsets/177155#mania/426499)
@@ -165,7 +164,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Qualification Stage
 
-**Download the mappack here! (14 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA) - [Google Drive](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM-)**
+**Download the mappack here! (14 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM- "Google Drive")**
 
 - FreeMod
   - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \[Stage 1: Reborn\]](https://osu.ppy.sh/beatmapsets/961881#mania/2014099)
@@ -224,7 +223,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Qualification Stage
 
-Check **[statistics sheet](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s)** for more details.
+Check **[statistics sheet](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s "Tencent QQ")** for more details.
 
 ## Rules
 
@@ -233,6 +232,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s)** for mo
 #### Round Overview
 
 With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
+
 - **Qualification Stage**: 4 song mappool, no winning condition, no tiebreaker song
 - **Group Stage**: 11 song mappool, best of 7 (first to 4), one tiebreaker song
 - **Quarterfinals and Semifinals**: 13 song mappool, best of 9 (first to 5), one tiebreaker song
@@ -268,7 +268,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 
 - The bracket stage is a double elimination stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. 
-- The MXB bracket can be found [here](https://challonge.com/zh_CN/MXB3rd).
+- The MXB bracket can be found [here](https://challonge.com/zh_CN/MXB3rd "Challonge").
 - In a winners bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
 - In a losers bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will be eliminated from the tournament.
 - Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
@@ -295,7 +295,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 - **It is our right as the MXB staff to reprimand users for intolerable behavior.**
   - We will have sole discretion over decisions that affect your standing in the tournament; however, other members of tournament staff may forward any information to me that in any way represents uncalled for behavior towards other users or staff in my tournament. I will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful.
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
-  
+
 #### Warm-up Songs
 
 - Each player in the match will be allowed one warm-up song to be played, making for two warm-ups in total between both players.
@@ -308,7 +308,7 @@ Notice: Beatmap scoring is based on **Score V2**.
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one map within the map pool that they are playing for the given round.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
 - After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied: 
   - One player has achieved enough wins in such a way that the other player cannot successfully win the round.
   - Both players are at match point at the same time.
@@ -322,5 +322,5 @@ Notice: Beatmap scoring is based on **Score V2**.
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

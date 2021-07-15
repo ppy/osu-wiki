@@ -47,12 +47,10 @@ The Catch French Intermediate Cup was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/858507)
-- [CFC Discord server](https://discord.gg/3DewaX8)
-- [Challonge brackets](https://osucfc.challonge.com/CFIC1)
-- [Livestream](https://www.twitch.tv/osufrlive)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ926pSOvzcKK76hCmzBDuX6oOrbTycMpGJyMz-dPFThLay-JvaywfXPA2MzeeaL9TOvdey8YSHLWVX/pubhtml)**
-
----
+- [CFC Discord server](https://discord.gg/3DewaX8 "Discord")
+- [Challonge brackets](https://osucfc.challonge.com/CFIC1 "Challonge")
+- [Livestream](https://www.twitch.tv/osufrlive "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ926pSOvzcKK76hCmzBDuX6oOrbTycMpGJyMz-dPFThLay-JvaywfXPA2MzeeaL9TOvdey8YSHLWVX/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -72,8 +70,6 @@ The Catch French Intermediate Cup was run by various community members.
 | **C** | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) | ![][flag_FR] [floflim](https://osu.ppy.sh/users/5954015) | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
 | **D** | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [Rizhen-](https://osu.ppy.sh/users/6802893) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -84,13 +80,11 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
----
-
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (98 MB)](https://mega.nz/#!E5tFXSxA!me4YoqzYh7NK7miT3czlTEuuMyYxQsMywTHl6toDBoM)**
+**[Download the mappack here! (98 MB)](https://mega.nz/#!E5tFXSxA!me4YoqzYh7NK7miT3czlTEuuMyYxQsMywTHl6toDBoM "MEGA")**
 
 - NoMod
   - [a\_hisa - Alexithymia (Kyuare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/511849#fruits/1087972)
@@ -119,7 +113,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (116 MB)](https://mega.nz/#!MskCmKTa!AT6TPSydwttBgz5gQTNtOcIEQPkqruOela8eMrR1e2I)**
+**[Download the mappack here! (116 MB)](https://mega.nz/#!MskCmKTa!AT6TPSydwttBgz5gQTNtOcIEQPkqruOela8eMrR1e2I "MEGA")**
 
 - NoMod
   - [Yooh - snow storm -euphoria- (CLSW) \[Crystal's EXHAUST\]](https://osu.ppy.sh/beatmapsets/467816#fruits/1003044)
@@ -148,7 +142,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (115 MB)](https://mega.nz/#!508w2apZ!_nsvdd_wypq3OWF9CKsAvYlHRD7Vj7Gw-p6C4-x4aiE)**
+**[Download the mappack here! (115 MB)](https://mega.nz/#!508w2apZ!_nsvdd_wypq3OWF9CKsAvYlHRD7Vj7Gw-p6C4-x4aiE "MEGA")**
 
 - NoMod
   - [Cha Ji Yeon, LDN Noise - My Show (Ollapeu) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/759402#fruits/1597102)
@@ -177,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (144 MB)](https://mega.nz/#!1kln3QyI!_z5HDHGUYDjwttGmSbrANs8en6eXwhVM9eMSsv1Os2M)**
+**[Download the mappack here! (144 MB)](https://mega.nz/#!1kln3QyI!_z5HDHGUYDjwttGmSbrANs8en6eXwhVM9eMSsv1Os2M "MEGA")**
 
 - NoMod
   - [kurokumo x konoco - Ifuudoudou (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/791133#fruits/1659829)
@@ -201,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (55 MB)](https://mega.nz/#!FotnlQzR!bTxeqfGRbm-sOboVhq-AP31WP4r2ExNaGYNwpFrCIdU)**
+**[Download the mappack here! (55 MB)](https://mega.nz/#!FotnlQzR!bTxeqfGRbm-sOboVhq-AP31WP4r2ExNaGYNwpFrCIdU "MEGA")**
 
 - NoMod
   - [Kaneko Chiharu - iLLness LiLin (ZiRoX) \[ZiRoX's ADVANCED\]](https://osu.ppy.sh/beatmapsets/777109#fruits/1662268)
@@ -219,8 +213,6 @@ This competition has come to an end and resulted in the following podium:
   - [T-ara - Apple Is A (Mako Sakata) \[Apple\]](https://osu.ppy.sh/beatmapsets/312328#fruits/697225)
 - Tiebreaker
   - **[Angus And Julia Stone - Big Jet Plane (Matt Neux Remix) (WildOne94, JBHyperion) \[Elevation\]](https://osu.ppy.sh/beatmapsets/344833#fruits/761644)**
-
----
 
 ## Match results
 
@@ -332,8 +324,6 @@ Monday, 4 March 2019:
 | --: | :-: | :-: | :-- | :-- |
 | 4L-Chan 3 Porte ![][flag_FR] | 0 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/50018480) |
 
----
-
 ## Ruleset
 
 ### General rules
@@ -354,8 +344,8 @@ Monday, 4 March 2019:
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"

@@ -55,10 +55,10 @@ The osu!mania LN Tournament 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1068843)
-- [o!mLN Discord server](https://discord.gg/SPQtt3s)
-- [Livestream](https://www.twitch.tv/osumanialive)
-- [Challonge brackets](https://challonge.com/omln2)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Ot3wMRSmXcZYT6L6U6-W1gvDbAN5UtuZUQ7akuvFyXc/edit#gid=248131311)**
+- [o!mLN Discord server](https://discord.gg/SPQtt3s "Discord")
+- [Livestream](https://www.twitch.tv/osumanialive "Twitch")
+- [Challonge brackets](https://challonge.com/omln2 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Ot3wMRSmXcZYT6L6U6-W1gvDbAN5UtuZUQ7akuvFyXc/edit#gid=248131311 "Google Sheets")**
 
 ## Participants
 
@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (159 MB)](https://mega.nz/file/SYl3xSQA#qXm6cZmbjbJTADTRv_8FDSig6YXkqe-XBI4H1sAfQN8)**
+**[Download the mappack here! (159 MB)](https://mega.nz/file/SYl3xSQA#qXm6cZmbjbJTADTRv_8FDSig6YXkqe-XBI4H1sAfQN8 "MEGA")**
 
 - FreeMod
   - [OISHII - ONIGIRI FREEWAY (Mentholzzz) \[Unagi Onigiri "UHD"\]](https://osu.ppy.sh/beatmapsets/663098#mania/1505212)
@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (76 MB)](https://mega.nz/file/qygXgKRS#W9kxyHs8dlAL5J8VvxGeWDlfw8GS8EYcRguDvOQ2dCA)**
+**[Download the mappack here! (76 MB)](https://mega.nz/file/qygXgKRS#W9kxyHs8dlAL5J8VvxGeWDlfw8GS8EYcRguDvOQ2dCA "MEGA")**
 
 - FreeMod
   - [senya - Banbutsu no Ou (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
@@ -542,7 +542,7 @@ Sunday, 21 June 2020:
 | #80 | ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121) | 240 |
 
 - Only the top 64 player could proceed to the Knockout Stage
-- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1zY13dvZIPwpcgL1E9FAfBQy80Wq2QKTwI3kpUMeB0Cs/edit#gid=809028813)
+- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1zY13dvZIPwpcgL1E9FAfBQy80Wq2QKTwI3kpUMeB0Cs/edit#gid=809028813 "Google Sheets")
 - Sum was determined by `Σ position earned when playing the Qualifiers mappool`
 
 ## Ruleset
@@ -551,7 +551,7 @@ Sunday, 21 June 2020:
 2. The score system used in this tournament will be **ScoreV2**.
 3. There will be **no rank restrictions** to participate in the tournament.
 4. In order for your registration to count, please refer to the following criteria:
-   - Players have filled the [registration form](https://forms.gle/ektYSXGzZFXumVz59)
+   - Players have filled the [registration form](https://forms.gle/ektYSXGzZFXumVz59 "Google Forms")
    - Players have to join the [o!mLN Discord server](#links) at least until the time they get eliminated.
 5. All maps are played with FreeMod being ON. Mirror mod is **allowed** on all maps. Here is a list of mods players can also play with: Hidden, Fade-In, Flashlight, and any combination of those mods. Players are also allowed, but not forced, to play with NoFail.
 6. Players will be seeded according to their average rank of each map played in the Qualifiers.

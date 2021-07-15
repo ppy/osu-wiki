@@ -49,10 +49,10 @@ The osu!mania LN Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/867712)
-- [o!mLN Discord server](https://discord.gg/SPQtt3s)
-- [Challonge brackets](https://challonge.com/omLN)
-- [Livestream](https://www.twitch.tv/osumanialive)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRGMCJO4TQQmuvPKg_TItm0POP6C5H24IOaXqMP2ljPreJvCZI1MtRZSwSf8yKboVoHNxoxccZ_1_0I/pubhtml)**
+- [o!mLN Discord server](https://discord.gg/SPQtt3s "Discord")
+- [Challonge brackets](https://challonge.com/omLN "Challonge")
+- [Livestream](https://www.twitch.tv/osumanialive "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRGMCJO4TQQmuvPKg_TItm0POP6C5H24IOaXqMP2ljPreJvCZI1MtRZSwSf8yKboVoHNxoxccZ_1_0I/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -92,7 +92,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (232 MB)](https://mega.nz/#!rr4gjSYb!rO2596fUaxl0iWezIpR9ZhdXRQ5qWI16rb1G__BpauA)**
+**[Download the mappack here! (232 MB)](https://mega.nz/#!rr4gjSYb!rO2596fUaxl0iWezIpR9ZhdXRQ5qWI16rb1G__BpauA "MEGA")**
 
 - FreeMod
   - [Various Artist - Jungdongjin's 9th 4k LN Pack (Jungdongjin) \[TatshMusicCircle - -3rd Desire-\]](https://osu.ppy.sh/beatmapsets/631718#mania/1337703)
@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (163 MB)](https://mega.nz/#!6npVzSDI!HfsJwBHWnH_701dQofN328NEqmZWbaiLN2cP2mMT8I8)**
+**[Download the mappack here! (163 MB)](https://mega.nz/#!6npVzSDI!HfsJwBHWnH_701dQofN328NEqmZWbaiLN2cP2mMT8I8 "MEGA")**
 
 - FreeMod
   - [Sound Horizon - Raijin no Hidariude (-Kamikaze-, \_underjoy) \[Tempest w/ \_underjoy\]](https://osu.ppy.sh/beatmapsets/599091#mania/1266238)
@@ -140,7 +140,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (90 MB)](https://mega.nz/#!X25RBYQS!2AjCn4RAUnJ6EeERHjGx4r1gnwN6VQh7OoSJP6SN8qo)**
+**[Download the mappack here! (90 MB)](https://mega.nz/#!X25RBYQS!2AjCn4RAUnJ6EeERHjGx4r1gnwN6VQh7OoSJP6SN8qo "MEGA")**
 
 - FreeMod
   - [IU - Palette (Feat. G-DRAGON) x1.2 (moni) \[Twenty five\]](https://osu.ppy.sh/beatmapsets/790757#mania/1665865)
@@ -160,7 +160,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (62 MB)](https://mega.nz/#!1sESAQgT!jHMEypnbBzITgtDMnH5SvPB_U2qG6g7rl8qzzuOaEZY)**
+**[Download the mappack here! (62 MB)](https://mega.nz/#!1sESAQgT!jHMEypnbBzITgtDMnH5SvPB_U2qG6g7rl8qzzuOaEZY "MEGA")**
 
 - FreeMod
   - [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/885179#mania/1850115)
@@ -178,7 +178,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (77 MB)](https://mega.nz/#!stVjGQ7K!bOfAIerEz7ihTRPrYnUNyg28F87-9Z3dQnMyRnfkhq4)**
+**[Download the mappack here! (77 MB)](https://mega.nz/#!stVjGQ7K!bOfAIerEz7ihTRPrYnUNyg28F87-9Z3dQnMyRnfkhq4 "MEGA")**
 
 - FreeMod
   - [Couple N & Miraie - Endear (riunosk) \[Spirit\]](https://osu.ppy.sh/beatmapsets/876847#mania/1832479)
@@ -197,7 +197,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers Stage
 
-**[Download the mappack here! (14 MB)](https://mega.nz/#!5w1XUIQR!k9vkdaa63EMjAVwwh0eFRCx6w3M6C_6v9T1VT9wcfeI)**
+**[Download the mappack here! (14 MB)](https://mega.nz/#!5w1XUIQR!k9vkdaa63EMjAVwwh0eFRCx6w3M6C_6v9T1VT9wcfeI "MEGA")**
 
 - FreeMod
   - [Fall Out Boy - Thnks Fr Th Mmrs (Razzy) \[Thnks Fr Th Ndls\]](https://osu.ppy.sh/beatmapsets/741278#mania/1563668)

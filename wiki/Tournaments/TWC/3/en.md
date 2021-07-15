@@ -52,7 +52,7 @@ The Taiko World Cup #3 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/99029)
-- [Livestream](https://www.twitch.tv/taikoworldcup)
+- [Livestream](https://www.twitch.tv/taikoworldcup "Twitch")
 
 ## Participants
 
@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (106 MB)](http://www.mediafire.com/file/55u3kl139pr04i8/TWC+-+Final+Mappool+pack.zip)**
+**[Download the mappack here! (106 MB)](http://www.mediafire.com/file/55u3kl139pr04i8/TWC+-+Final+Mappool+pack.zip "MediaFire")**
 
 - NoMod
   - Cres - End Time (choco00) \[Nyan's Taiko (TWC Ver.)\]
@@ -192,11 +192,11 @@ This competition has come to an end and resulted in the following podium:
   - [IOSYS - Kanbu de Tomatte Sugu Tokeru \~ Kyouki no Udongein (ouranhshc) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/12292#taiko/61369)
   - [Xelia - Illumiscape (Kanna) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/43960#taiko/160239)
 - Hidden
-  - [IOSYS - Tapuu Tears You Base (danny19940914) \[danny's taiko\]](https://puu.sh/28gKz)
+  - [IOSYS - Tapuu Tears You Base (danny19940914) \[danny's taiko\]](https://puu.sh/28gKz "puush")
   - kors k as teranoid - Bad Maniacs (La Cataline) \[lepidon! - Taiko Oni\]
 - HardRock
   - [Croove & Paul Bazooka - Enemy Storm (Dark Jungle Mix) (Reiji-RJ) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30229#taiko/124413)
-  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (Mr Color) \[Taikolor\]](https://puu.sh/28h1RZ)
+  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (Mr Color) \[Taikolor\]](https://puu.sh/28h1RZ "puush")
 - DoubleTime
   - [Basic Element - Touch You Right Now (Kiiwa) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/32369#taiko/139607)
   - [ClariS - Neo Moon (goodbye) \[Alace's Taiko\]](https://osu.ppy.sh/beatmapsets/29693#taiko/100104)

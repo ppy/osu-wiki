@@ -52,12 +52,12 @@ Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977)**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977 "Google Sheets")**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1157755)
-- [Discord server](https://discord.gg/5a2dy53)
+- [Discord server](https://discord.gg/5a2dy53 "Discord")
 - [Livestream (Twitch)](https://www.twitch.tv/komplekkeluargacemara "Twitch")
 - [Livestream (YouTube)](http://www.youtube.com/channel/UCVKBLmflZE2QUHnmB8eaf0g "YouTube")
-- [Challonge bracket](https://challonge.com/CMC_1)
+- [Challonge bracket](https://challonge.com/CMC_1 "Challonge")
 
 ## Podium
 
@@ -87,7 +87,7 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 After the conclusion of the Group Stage, players were then teamed up into pairs of two based on their Group Stage finishing position as follows:
 
-| Team Name | Player 1 | Player 2 | 
+| Team Name | Player 1 | Player 2 |
 | :-- | :-- | :-- |
 | **Anti LN Club** | ![][flag_ID] [Ainer](https://osu.ppy.sh/users/13371424) (*Group C / 3rd Place*) | ![][flag_ID] [Kurami\_San](https://osu.ppy.sh/users/8867495) (*Group A / 4th Place*) |
 | **Do'a Ibu** | ![][flag_ID] [Kougyokuu](https://osu.ppy.sh/users/14678051) (*Group D / 3rd Place*) | ![][flag_ID] [Xccelerator202](https://osu.ppy.sh/users/14855101) (*Group B / 4th Place*) |
@@ -110,7 +110,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ### Finals week 2
 
-**[Download the mappack here! (145 MB)](https://mega.nz/file/jBZVDKTK#R_SaMh108Uh8HTLVqd_LRzAx2cMU33NEBUdAIv0uVnI)**
+**[Download the mappack here! (145 MB)](https://mega.nz/file/jBZVDKTK#R_SaMh108Uh8HTLVqd_LRzAx2cMU33NEBUdAIv0uVnI "MEGA")**
 
 - FreeMod
   - [sakuzyo - Hodie (Tidek) \[Vivace\]](https://osu.ppy.sh/beatmapsets/924601#mania/1931227)
@@ -134,7 +134,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ### Finals week 1
 
-**[Download the mappack here! (152 MB)](https://mega.nz/file/eJ4gyLDB#KmS0gCt2ESk1wgQ3xppwrD8MBjTlk2u66H01TY7sWdg)**
+**[Download the mappack here! (152 MB)](https://mega.nz/file/eJ4gyLDB#KmS0gCt2ESk1wgQ3xppwrD8MBjTlk2u66H01TY7sWdg "MEGA")**
 
 - FreeMod
   - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmapsets/973377#mania/2037752)
@@ -158,7 +158,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ### Semifinals
 
-**[Download the mappack here! (115 MB)](https://mega.nz/file/SYh2WRJT#VLADStY3zDWzzc34s2P00-9SJLRaAWeWhOH_bNxF5Rs)**
+**[Download the mappack here! (115 MB)](https://mega.nz/file/SYh2WRJT#VLADStY3zDWzzc34s2P00-9SJLRaAWeWhOH_bNxF5Rs "MEGA")**
 
 - FreeMod
   - [Spektrem - Mountkid - Dino \[NCS Release\] (NO 1 Jinramyeon) \[SV\]](https://osu.ppy.sh/beatmapsets/968290#mania/2026157)
@@ -180,7 +180,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ### Quarterfinals
 
-**[Download the mappack here! (90 MB)](https://mega.nz/file/LZg0gaqR#uNT_PFapDqmxh9E1kyCYx0zUSqz4pMIfyPo2HbPPan4)**
+**[Download the mappack here! (90 MB)](https://mega.nz/file/LZg0gaqR#uNT_PFapDqmxh9E1kyCYx0zUSqz4pMIfyPo2HbPPan4 "MEGA")**
 
 - FreeMod
   - [The Tech Thieves - Fake (Erkfir) \[Faked It (Edit)\]](https://osu.ppy.sh/beatmapsets/1048516#mania/2259015)
@@ -200,10 +200,10 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ### Group Stage
 
-**[Download the mappack here! (29 MB)](https://mega.nz/file/WJYlVAyB#VaveHrRewqSkukDhdYajrhvWeS7CY-iZ38j4Pc7s0ok)**
+**[Download the mappack here! (29 MB)](https://mega.nz/file/WJYlVAyB#VaveHrRewqSkukDhdYajrhvWeS7CY-iZ38j4Pc7s0ok "MEGA")**
 
 - FreeMod
-  - [Getter Jaani - Rockefeller Street (\[GS\]Logan) \[ProSVperity\]](https://mega.nz/file/jdAwXRIB#tFUChm5qXEYcnhds5ShZu_y4qd06aYjjbn7MOHOuJDM)
+  - [Getter Jaani - Rockefeller Street (\[GS\]Logan) \[ProSVperity\]](https://mega.nz/file/jdAwXRIB#tFUChm5qXEYcnhds5ShZu_y4qd06aYjjbn7MOHOuJDM "MEGA")
   - [An - Saigo (juankristal) \[Inspiration\]](https://osu.ppy.sh/beatmapsets/609463#mania/1287086)
   - [Jakub Zytecki - Letters (Cokiiplay) \[Voyage\]](https://osu.ppy.sh/beatmapsets/1282382#mania/2663564)
   - [LV.4 - Angel dust (Fontes) \[4k leqek's Hard\]](https://osu.ppy.sh/beatmapsets/970810#mania/2039046)
@@ -212,7 +212,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ### Qualifiers
 
-**[Download the mappack here! (22 MB)](https://mega.nz/file/3ZJBzQ6Y#_zFdkYDEkMnSckC9bx_Sl_0358CHZU_ZWOEPtfz2yvI)**
+**[Download the mappack here! (22 MB)](https://mega.nz/file/3ZJBzQ6Y#_zFdkYDEkMnSckC9bx_Sl_0358CHZU_ZWOEPtfz2yvI "MEGA")**
 
 - FreeMod
   - [Shawn Wasabi + YDG - Burnt Rice (HowToPlayLN) \[Overcooked\]](https://osu.ppy.sh/beatmapsets/995871#mania/2083163)
@@ -336,7 +336,7 @@ Sunday, 29 November 2020:
 ### Qualifier rules
 
 1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
-2. In the lobby, all players will have to consecutively play all of the five Qualifier maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
+2. In the lobby, all players will have to consecutively play all of the five Qualifier maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977 "Google Sheets").
    - All maps are due to be played twice in each lobby; on each map, only the best score from the two attempts that will be taken into consideration.
 3. Players **are not allowed** to ban any maps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
@@ -352,8 +352,8 @@ Sunday, 29 November 2020:
 
 1. In the Group Stage, the 32 previously qualified players will be randomly spread out into eight groups consisting of four different players each based on their seed.
 2. All the players from each group will face each other in a single multiplayer lobby under the "Battle Royale" matchup format as follows:
-   - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
-   - After the conclusion of each map, the two players who finish 2nd and 3rd will receive +2 points and the other two players who finish 1st and 4th will receive +1 point following the "[middle winner](http://imgur.com/a/GydWooA)" scoring system.
+   - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977 "Google Sheets").
+   - After the conclusion of each map, the two players who finish 2nd and 3rd will receive +2 points and the other two players who finish 1st and 4th will receive +1 point following the "[middle winner](http://imgur.com/a/GydWooA "Imgur")" scoring system.
 3. Players **are not allowed** to ban any maps in the Group Stage.
 4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room. 
    - In case of a points tie, all affected players will be ordered by their Group Stage seed.

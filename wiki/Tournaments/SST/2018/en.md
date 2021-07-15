@@ -303,8 +303,8 @@ The SS Tournament 2018 had a prize pool of USD 200.
 8. Referees will use `!mp timer` to keep time.
 9. If a team doesn't pick in the first 60 seconds, the opposing team will pick instead.
 10. If the players are not ready after 120 seconds, the referee will at their discretion start the match. *Referees are in full control of any leniency here and may choose not to enforce this until Semifinals at which point enforcement will be mandatory*.
-8. Once a map has been picked and everyone is ready the map will start after 5 seconds using `!mp start 5`.
-9. If a player disconnects within the first 15 seconds of a map the referee will abort the match and the map will be restarted. Anyone found abusing this will be disqualified from the tournament. This may only happen once per team per match after the first dc the referee is not to abort.
+11. Once a map has been picked and everyone is ready the map will start after 5 seconds using `!mp start 5`.
+12. If a player disconnects within the first 15 seconds of a map the referee will abort the match and the map will be restarted. Anyone found abusing this will be disqualified from the tournament. This may only happen once per team per match after the first dc the referee is not to abort.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

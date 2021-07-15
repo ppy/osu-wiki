@@ -56,13 +56,11 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 ## 링크
 
 - [메인 스레드](https://osu.ppy.sh/community/forums/topics/906298)
-- [IGTS 디스코드 서버](https://discord.gg/a6PzzFz)
-- [라이브 방송](https://www.twitch.tv/igtsosu)
-- [Challonge 대진표](https://challonge.com/dqq46siu)
-- [Pick'em 사이트](https://pickem.hwc.hr/tournaments/8)
-- **[메인 스프레드시트](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
-
----
+- [IGTS 디스코드 서버](https://discord.gg/a6PzzFz "Discord")
+- [라이브 방송](https://www.twitch.tv/igtsosu "Twitch")
+- [Challonge 대진표](https://challonge.com/dqq46siu "Challonge")
+- [Pick'em 사이트](https://pickem.hwc.hr/tournaments/8 "hwchr's pick'em")
+- **[메인 스프레드시트](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing "Google Sheets")**
 
 ## 참가자
 
@@ -114,8 +112,6 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 | **G** | ![][flag_BR] 브라질 | ![][flag_CL] 칠레 | ![][flag_ID] 인도네시아 공화국 B | ![][flag_PE] 페루 |
 | **H** | ![][flag_HK] 홍콩 | ![][flag_PL] 폴란드 B | ![][flag_CO] 콜롬비아 | ![][flag_IE] 아일랜드 |
 
----
-
 ## 순위권
 
 이 대회는 종료되었으며, 순위권에 든 팀은 다음과 같습니다
@@ -126,13 +122,11 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 | ![은관](/wiki/shared/crown-silver.png "2등") | ![][flag_US] 미국 A |
 | ![동관](/wiki/shared/crown-bronze.png "3등") | ![][flag_CL] 칠레 |
 
----
-
 ## 맵풀
 
 ### All-Stars Battle Royale
 
-**[여기를 눌러 맵팩을 다운로드하세요. (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
+**[여기를 눌러 맵팩을 다운로드하세요. (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg "MEGA")**
 
 - NoMod
   - [Silent Siren - Merry-Go-Round (hoku-4625) \[Shallty-Go-Round\]](https://osu.ppy.sh/beatmapsets/751585#taiko/1612301)
@@ -155,7 +149,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ### 올스타전
 
-**[여기를 눌러 맵팩을 다운로드하세요. (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
+**[여기를 눌러 맵팩을 다운로드하세요. (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo "MEGA")**
 
 - NoMod
   - [Yuyoyuppe - AiAe (asuasu\_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/447734#taiko/961162)
@@ -186,7 +180,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ### 최종 결승
 
-**[여기를 눌러 맵팩을 다운로드하세요. (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
+**[여기를 눌러 맵팩을 다운로드하세요. (72 MB)](https://puu.sh/DPMoR/9704e02686.rar "puush")**
 
 - NoMod
   - [xi - Blue Zenith (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035965)
@@ -213,7 +207,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ### 결승
 
-**[여기를 눌러 맵팩을 다운로드하세요. (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
+**[여기를 눌러 맵팩을 다운로드하세요. (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar "puush")**
 
 - NoMod
   - [Reol - Gigantic O.T.N (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/434182#taiko/937232)
@@ -240,7 +234,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ### 4강
 
-**[여기를 눌러 맵팩을 다운로드하세요. (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E)**
+**[여기를 눌러 맵팩을 다운로드하세요. (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E "MEGA")**
 
 - NoMod
   - [Buta-Otome - Towa no Maigo (404 AccNotFound) \[Oni\]](https://osu.ppy.sh/beatmapsets/622175#taiko/1317865)
@@ -267,7 +261,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ### 8강
 
-**[여기를 눌러 맵팩을 다운로드하세요. (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
+**[여기를 눌러 맵팩을 다운로드하세요. (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw "MEGA")**
 
 - NoMod
   - [Dreamcatcher - Chase Me (-omicron) \[Jaye's Lite Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987174#taiko/2065074)
@@ -293,7 +287,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ### 16강
 
-**[여기를 눌러 맵팩을 다운로드하세요. (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY)**
+**[여기를 눌러 맵팩을 다운로드하세요. (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY "MEGA")**
 
 - NoMod
   - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/596741)
@@ -319,7 +313,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ### 조별 예선
 
-**[여기를 눌러 맵팩을 다운로드하세요. (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
+**[여기를 눌러 맵팩을 다운로드하세요. (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I "MEGA")**
 
 - NoMod
   - [An - TearVid (Kokatsu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/79647#taiko/222678)
@@ -341,8 +335,6 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
   - [lapix - Future Raver feat. Numb'n'dub (Arrival) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/963997#taiko/2024239)
 - Tiebreaker
   - **[USAO - Chrono Diver -PENDULUMs- (USAO remix) (QEpicAce) \[-Jordan-'s Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980250#taiko/2051403)**
-
----
 
 ## 경기 결과
 
@@ -405,7 +397,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 | 멕시코 ![][flag_MX] | 1 | **6** | ![][flag_SG] **싱가포르** | [#1](https://osu.ppy.sh/community/matches/52641017) |
 | 아르헨티나 ![][flag_AR] | 3 | **6** | ![][flag_FR] **프랑스 A** | [#1](https://osu.ppy.sh/community/matches/52644303) |
 | 폴란드 A ![][flag_PL] | 0 | **6** | ![][flag_CL] **칠레** | [#1](https://osu.ppy.sh/community/matches/52647239) |
-| **미국 A** ![][flag_US] | **6** | 0 | ![][flag_EC] 에콰도르 | [#1](https://www.twitch.tv/videos/439630298) |
+| **미국 A** ![][flag_US] | **6** | 0 | ![][flag_EC] 에콰도르 | [#1](https://www.twitch.tv/videos/439630298 "Twitch") |
 
 | 일요일, 2019-06-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -474,8 +466,6 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 | E2 | **영국** ![][flag_GB] | **5** | 4 | ![][flag_US] 미국 B | [#1](https://osu.ppy.sh/community/matches/52496157) |
 | F4 | 캐나다 ![][flag_CA] | 4 | **5** | ![][flag_DK] **덴마크** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | 영국 ![][flag_GB] | 1 | **5** | ![][flag_MX] **멕시코** | [#1](https://osu.ppy.sh/community/matches/52489459) |
-
----
 
 ## 규칙
 

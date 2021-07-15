@@ -56,13 +56,11 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 ## Ссылки
 
 - [Тема для обсуждения](https://osu.ppy.sh/community/forums/topics/906298)
-- [IGTS Дискорд сервер](https://discord.gg/a6PzzFz)
-- [Стрим](https://www.twitch.tv/igtsosu)
-- [Сетка Challonge](https://challonge.com/dqq46siu)
-- [Сайт Pick'ems](https://pickem.hwc.hr/tournaments/8)
-- **[Таблица со статистикой](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
-
----
+- [IGTS Дискорд сервер](https://discord.gg/a6PzzFz "Discord")
+- [Стрим](https://www.twitch.tv/igtsosu "Twitch")
+- [Сетка Challonge](https://challonge.com/dqq46siu "Challonge")
+- [Сайт Pick'ems](https://pickem.hwc.hr/tournaments/8 "hwchr's pick'em")
+- **[Таблица со статистикой](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing "Google Sheets")**
 
 ## Участники
 
@@ -114,8 +112,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | **G** | ![][flag_BR] Бразилия | ![][flag_CL] Чили | ![][flag_ID] Индонезия B | ![][flag_PE] Перу |
 | **H** | ![][flag_HK] Гонконг | ![][flag_PL] Польша B | ![][flag_CO] Колумбия | ![][flag_IE] Ирландия |
 
----
-
 ## Подиум
 
 Данное соревнование подошло к концу, и подиум оказался таковым:
@@ -126,13 +122,11 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | ![Cеребряная корона](/wiki/shared/crown-silver.png "2-е место") | ![][flag_US] Соединенные Штаты A |
 | ![Бронзовая корона](/wiki/shared/crown-bronze.png "3-е место") | ![][flag_CL] Чили |
 
----
-
 ## Пул карт
 
 ### All-Stars Battle Royale
 
-**[Скачайте сборку карт здесь! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
+**[Скачайте сборку карт здесь! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg "MEGA")**
 
 - NoMod
   - [Silent Siren - Merry-Go-Round (hoku-4625) \[Shallty-Go-Round\]](https://osu.ppy.sh/beatmapsets/751585#taiko/1612301)
@@ -155,7 +149,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### All-Stars
 
-**[Скачайте сборку карт здесь! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
+**[Скачайте сборку карт здесь! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo "MEGA")**
 
 - NoMod
   - [Yuyoyuppe - AiAe (asuasu\_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/447734#taiko/961162)
@@ -186,7 +180,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### Гранд Финалы
 
-**[Скачайте сборку карт здесь! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
+**[Скачайте сборку карт здесь! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar "puush")**
 
 - NoMod
   - [xi - Blue Zenith (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035965)
@@ -213,7 +207,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### Финал
 
-**[Скачайте сборку карт здесь! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
+**[Скачайте сборку карт здесь! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar "puush")**
 
 - NoMod
   - [Reol - Gigantic O.T.N (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/434182#taiko/937232)
@@ -240,7 +234,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### Полуфинал
 
-**[Скачайте сборку карт здесь! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E)**
+**[Скачайте сборку карт здесь! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E "MEGA")**
 
 - NoMod
   - [Buta-Otome - Towa no Maigo (404 AccNotFound) \[Oni\]](https://osu.ppy.sh/beatmapsets/622175#taiko/1317865)
@@ -267,7 +261,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### Четвертьфинал
 
-**[Скачайте сборку карт здесь! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
+**[Скачайте сборку карт здесь! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw "MEGA")**
 
 - NoMod
   - [Dreamcatcher - Chase Me (-omicron) \[Jaye's Lite Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987174#taiko/2065074)
@@ -293,7 +287,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### 1/8 финала
 
-**[Скачайте сборку карт здесь! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY)**
+**[Скачайте сборку карт здесь! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY "MEGA")**
 
 - NoMod
   - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/596741)
@@ -319,7 +313,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### Групповая стади
 
-**[Скачайте сборку карт здесь! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
+**[Скачайте сборку карт здесь! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I "MEGA")**
 
 - NoMod
   - [An - TearVid (Kokatsu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/79647#taiko/222678)
@@ -341,8 +335,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
   - [lapix - Future Raver feat. Numb'n'dub (Arrival) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/963997#taiko/2024239)
 - Tiebreaker
   - **[USAO - Chrono Diver -PENDULUMs- (USAO remix) (QEpicAce) \[-Jordan-'s Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980250#taiko/2051403)**
-
----
 
 ## Результаты матчей
 
@@ -405,7 +397,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | Мексика ![][flag_MX] | 1 | **6** | ![][flag_SG] **Сингапур** | [#1](https://osu.ppy.sh/community/matches/52641017) |
 | Аргентина ![][flag_AR] | 3 | **6** | ![][flag_FR] **Франция A** | [#1](https://osu.ppy.sh/community/matches/52644303) |
 | Польша A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Чили** | [#1](https://osu.ppy.sh/community/matches/52647239) |
-| **Соединенные Штаты A** ![][flag_US] | **6** | 0 | ![][flag_EC] Эквадор | [#1](https://www.twitch.tv/videos/439630298) |
+| **Соединенные Штаты A** ![][flag_US] | **6** | 0 | ![][flag_EC] Эквадор | [#1](https://www.twitch.tv/videos/439630298 "Twitch") |
 
 | Воскресенье, 2019-06-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -474,8 +466,6 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | E2 | **Великобритания** ![][flag_GB] | **5** | 4 | ![][flag_US] Соединенные Штаты B | [#1](https://osu.ppy.sh/community/matches/52496157) |
 | F4 | Канада ![][flag_CA] | 4 | **5** | ![][flag_DK] **Дания** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | Великобритания ![][flag_GB] | 1 | **5** | ![][flag_MX] **Мексика** | [#1](https://osu.ppy.sh/community/matches/52489459) |
-
----
 
 ## Правила
 
@@ -584,37 +574,37 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 5. Затем будет матч 4 на 4 со следующими правилами:
    - маппул из 5 NM,HR,HD,DT,FM,EX и 1 TB (правила для модов как в обычных матчах)
    - без банов
-   - мод будет выбираться случайно с помощью !roll (соответствуя таблице) и затем карта из мода выбирается случайно
+   - мод будет выбираться случайно с помощью `!roll` (соответствуя таблице) и затем карта из мода выбирается случайно
    - обмен игроков во время матчей разрешён без ограничений
    - правила для потерей соединения как в обычном матче
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Аргентина"
+[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
+[flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
+[flag_CA]: /wiki/shared/flag/CA.gif "Канада"
+[flag_CH]: /wiki/shared/flag/CH.gif "Швейцария"
+[flag_CL]: /wiki/shared/flag/CL.gif "Чили"
+[flag_CN]: /wiki/shared/flag/CN.gif "Китай"
+[flag_CO]: /wiki/shared/flag/CO.gif "Колумбия"
+[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
+[flag_DK]: /wiki/shared/flag/DK.gif "Дания"
+[flag_EC]: /wiki/shared/flag/EC.gif "Эквадор"
+[flag_FI]: /wiki/shared/flag/FI.gif "Финляндия"
+[flag_FR]: /wiki/shared/flag/FR.gif "Франция"
+[flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
+[flag_GR]: /wiki/shared/flag/GR.gif "Греция"
+[flag_HK]: /wiki/shared/flag/HK.gif "Гонконг"
+[flag_ID]: /wiki/shared/flag/ID.gif "Индонезия"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ирландия"
+[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
+[flag_KR]: /wiki/shared/flag/KR.gif "Республика Корея"
+[flag_MX]: /wiki/shared/flag/MX.gif "Мексика"
+[flag_MY]: /wiki/shared/flag/MY.gif "Малайзия"
+[flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
+[flag_PE]: /wiki/shared/flag/PE.gif "Перу"
+[flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
+[flag_PL]: /wiki/shared/flag/PL.gif "Польша"
+[flag_RU]: /wiki/shared/flag/RU.gif "Российская Федерация"
+[flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
+[flag_TW]: /wiki/shared/flag/TW.gif "Тайвань"
+[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"

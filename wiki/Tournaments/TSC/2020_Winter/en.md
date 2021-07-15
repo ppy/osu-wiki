@@ -52,10 +52,10 @@ The Taiko Suiji Cup Winter 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1168559)
-- [TSC Discord server](https://discord.gg/yV3bDTC)
-- [Livestream](https://twitch.tv/osutaikolive)
-- [Challonge bracket](https://challonge.com/TSCW2020)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1C22WC447FxO4FPeb2GnP934m_89EzNjLLKfsMPnuobE/edit?usp=sharing)**
+- [TSC Discord server](https://discord.gg/yV3bDTC "Discord")
+- [Livestream](https://twitch.tv/osutaikolive "Twitch")
+- [Challonge bracket](https://challonge.com/TSCW2020 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1C22WC447FxO4FPeb2GnP934m_89EzNjLLKfsMPnuobE/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -92,7 +92,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (81 MB)](https://mega.nz/file/Zo9AlCpB#cRZ1JO_bPddG-leYYZxRUT8Nef7GBGT5jZCBtPwfSWE)**
+**[Download the mappack here! (81 MB)](https://mega.nz/file/Zo9AlCpB#cRZ1JO_bPddG-leYYZxRUT8Nef7GBGT5jZCBtPwfSWE "MEGA")**
 
 #### Mappool A
 
@@ -127,7 +127,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (102 MB)](https://mega.nz/file/l0EQGDbJ#7yxz-H7Hw_hU_Vk-bXLillPOQEpz7FkYeViBvElVhPA)**
+**[Download the mappack here! (102 MB)](https://mega.nz/file/l0EQGDbJ#7yxz-H7Hw_hU_Vk-bXLillPOQEpz7FkYeViBvElVhPA "MEGA")**
 
 #### Mappool A
 
@@ -162,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (83 MB)](https://mega.nz/file/k591xCbT#GihHcb-Pch7E81-kEz-6HKEziqfYdjYAnRwsOsIlLKc)**
+**[Download the mappack here! (83 MB)](https://mega.nz/file/k591xCbT#GihHcb-Pch7E81-kEz-6HKEziqfYdjYAnRwsOsIlLKc "MEGA")**
 
 #### Mappool A
 
@@ -197,7 +197,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (98 MB)](https://mega.nz/file/sh1TEIKD#-AE21iSd8oalHUD3o6OvnqGM60aAEhmBO-Frkw32gjY)**
+**[Download the mappack here! (98 MB)](https://mega.nz/file/sh1TEIKD#-AE21iSd8oalHUD3o6OvnqGM60aAEhmBO-Frkw32gjY "MEGA")**
 
 #### Mappool A
 
@@ -232,7 +232,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (75 MB)](https://mega.nz/file/h5dkiJLB#AjFUWhCBejETwpf7qZqCXMwA9TycAm1syVvtXX60TZQ)**
+**[Download the mappack here! (75 MB)](https://mega.nz/file/h5dkiJLB#AjFUWhCBejETwpf7qZqCXMwA9TycAm1syVvtXX60TZQ "MEGA")**
 
 #### Mappool A
 
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (26 MB)](https://mega.nz/file/c4VmyT7S#nLxmxtZlEwbxRoeHIjnfQql3n_tW-Zi3l7ECp0_A9vo)**
+**[Download the mappack here! (26 MB)](https://mega.nz/file/c4VmyT7S#nLxmxtZlEwbxRoeHIjnfQql3n_tW-Zi3l7ECp0_A9vo "MEGA")**
 
 - NoMod
   - [Hommarju - Beat Juggling Mix (Ney) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/987578#taiko/2065896)
@@ -368,7 +368,7 @@ Sunday, 29 November 2020:
 
 ### Qualifiers
 
-More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1OBetaYbVy9Friok9AaDxBW5IZgDd9pZny3D2r_OKvlM/edit#gid=2038944874)
+More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1OBetaYbVy9Friok9AaDxBW5IZgDd9pZny3D2r_OKvlM/edit#gid=2038944874 "Google Sheets")
 
 | Seed | Team | Average |
 | --: | :-- | --: |

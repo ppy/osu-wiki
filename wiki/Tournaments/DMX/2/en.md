@@ -1,6 +1,6 @@
 ---
 tags:
-- DMX 2
+  - DMX 2
 ---
 
 # DeltaMax's Taiko Oni Overlord
@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
   - [cosMo VS dj TAKA - kyouken (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/680794#taiko/1439407)
   - [star anis - Adult Mode \[YUC'e Remix\] (hoku-4625) \[hoku's twinkle night ^z^\]](https://osu.ppy.sh/beatmapsets/804530#taiko/1688880)
 - DoubleTime
-  - [Cororo - ancient garden (Hayate1129) \[Inner Oni\]](https://htfarmingiscool.s-ul.eu/7FGlbMQg)
+  - [Cororo - ancient garden (Hayate1129) \[Inner Oni\]](https://htfarmingiscool.s-ul.eu/7FGlbMQg "s-ul")
   - [SHK - Follow Me (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/802367#taiko/1683996)
   - [Omoi - Nee William (sobatsuyu) \[Oni\]](https://osu.ppy.sh/beatmapsets/333503#taiko/776180)
 - FreeMod

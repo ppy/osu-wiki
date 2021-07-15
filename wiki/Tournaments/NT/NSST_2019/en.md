@@ -1,7 +1,7 @@
 ---
 tags:
-- NSST 2019
-- NSST2019
+  - NSST 2019
+  - NSST2019
 ---
 
 # nik's Spring/Summer Tour 2019

@@ -1,8 +1,8 @@
 ---
 tags:
-- 112servis
-- 112ST
-- 112ST2020
+  - 112servis
+  - 112ST
+  - 112ST2020
 ---
 
 # 112's Summer Tournament 2020
@@ -53,10 +53,10 @@ The 112's Summer Tournament 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1097571)
-- [Challonge brackets](https://challonge.com/112yaz2020)
-- [112's Tournaments Discord server](https://discord.gg/g3nqqeZ)
-- [Livestream](https://www.twitch.tv/osu_turkiye)
-- [Official website](https://112ninturnuvalari.xyz/kurallar)
+- [Challonge brackets](https://challonge.com/112yaz2020 "Challonge")
+- [112's Tournaments Discord server](https://discord.gg/g3nqqeZ "Discord")
+- [Livestream](https://www.twitch.tv/osu_turkiye "Twitch")
+- [Official website](https://112ninturnuvalari.xyz/kurallar "112 Tournaments")
 
 ## Participants
 
@@ -475,7 +475,7 @@ Tuesday, 25 August 2020
 
 1. Every user interested in joining the tournament will sign up individually.
    - **Any form of registration, other than the registration form provided in related channels, will be disregarded.**
-2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
+2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ "Discord") for the duration of the tournament.
    - In order to join the tournament, users should type `?register` in any channel in the server, then click the link provided by the bot in PMs. 
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
 4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](/wiki/osu!tourney/Prizes#tournament-screening) for more information about tournament screening.
@@ -511,7 +511,7 @@ Tuesday, 25 August 2020
 5. Beatmap selection will alternate between each player selecting a beatmap out of the mappool.
 6. Players map pick freely from any mod pool.
    - In the case of a tie, the tiebreaker beatmap will be played.
-7. Match results will be published on the [tournament website](https://112ninturnuvalari.xyz/maclar).
+7. Match results will be published on the [tournament website](https://112ninturnuvalari.xyz/maclar "112 Tournaments").
 
 ### Mappool instructions
 

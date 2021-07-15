@@ -1,7 +1,7 @@
 ---
 tags:
-- NWT 2019
-- NWT2019
+  - NWT 2019
+  - NWT2019
 ---
 
 # nik's Winter Tour 2019
@@ -75,7 +75,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Fish-](https://osu.ppy.sh/users/3318654) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
-
 
 ## Mappools
 

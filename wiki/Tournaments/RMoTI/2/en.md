@@ -82,31 +82,31 @@ The filler players are chosen according to a few criteria in the following prior
 ## Mappool
 
 - NoMod
-  - [DECO\*27 feat. Hatsune Miku - Streaming Heart (Tsumetaku) [Tt's Insane]](https://osu.ppy.sh/beatmaps/401894)
-  - [EastNewSound - Eisou Youga \~Meikyou Shisui\~ (Forseen) [Lunatic]](https://osu.ppy.sh/beatmaps/229699)
-  - [GRANRODEO - Punky Funky Love (Feb) [Insane]](https://osu.ppy.sh/beatmaps/816125)
-  - [Hatsune Miku - Rubik's Cube (rui) [7x7x7]](https://osu.ppy.sh/beatmaps/114635)
-  - [ONE OK ROCK - Liar (Snepif) [Insanity]](https://osu.ppy.sh/beatmaps/556320)
-  - [Streetlight Manifesto - Ungrateful (pishifat) [Insane]](https://osu.ppy.sh/beatmaps/946016)
+  - [DECO\*27 feat. Hatsune Miku - Streaming Heart (Tsumetaku) [Tt's Insane]](https://osu.ppy.sh/beatmapsets/160126#osu/401894)
+  - [EastNewSound - Eisou Youga \~Meikyou Shisui\~ (Forseen) [Lunatic]](https://osu.ppy.sh/beatmapsets/83130#osu/229699)
+  - [GRANRODEO - Punky Funky Love (Feb) [Insane]](https://osu.ppy.sh/beatmapsets/372625#osu/816125)
+  - [Hatsune Miku - Rubik's Cube (rui) [7x7x7]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)
+  - [ONE OK ROCK - Liar (Snepif) [Insanity]](https://osu.ppy.sh/beatmapsets/240761#osu/556320)
+  - [Streetlight Manifesto - Ungrateful (pishifat) [Insane]](https://osu.ppy.sh/beatmapsets/436968#osu/946016)
 - Hidden
-  - [Razihel & Virtual Riot - One For All, All For One (Fort) [Chaoz's Insane]](https://osu.ppy.sh/beatmaps/671745)
-  - [SOUTAISEIRIRON - Shikaku Kakumei (EvilElvisV2) [Insane]](https://osu.ppy.sh/beatmaps/338533)
+  - [Razihel & Virtual Riot - One For All, All For One (Fort) [Chaoz's Insane]](https://osu.ppy.sh/beatmapsets/275655#osu/671745)
+  - [SOUTAISEIRIRON - Shikaku Kakumei (EvilElvisV2) [Insane]](https://osu.ppy.sh/beatmapsets/135092#osu/338533)
 - HardRock
-  - [CHiCO with HoneyWorks - color (monstrata) [K i A i's Insane]](https://osu.ppy.sh/beatmaps/821339)
-  - [sky\_delta vs Street - Load of the Ciel (Nerova Riuz GX) [apple's Insane]](https://osu.ppy.sh/beatmaps/808343)
+  - [CHiCO with HoneyWorks - color (monstrata) [K i A i's Insane]](https://osu.ppy.sh/beatmapsets/373114#osu/821339)
+  - [sky\_delta vs Street - Load of the Ciel (Nerova Riuz GX) [apple's Insane]](https://osu.ppy.sh/beatmapsets/365591#osu/808343)
 - DoubleTime
-  - [sana - Kotonoha Clinic (Kite) [Hard]](https://osu.ppy.sh/beatmaps/918202)
-  - [Zektbach - L'avide (Mao) [Hyper]](https://osu.ppy.sh/beatmaps/339360)
+  - [sana - Kotonoha Clinic (Kite) [Hard]](https://osu.ppy.sh/beatmapsets/419189#osu/918202)
+  - [Zektbach - L'avide (Mao) [Hyper]](https://osu.ppy.sh/beatmapsets/123359#osu/339360)
 - FreeMod
-  - [Fall Out Boy - Alone Together (Krewella Remix) (Aia) [Kyshiro's Light Insane]](https://osu.ppy.sh/beatmaps/711305)
-  - [ONE OK ROCK - Rock, Scissors, Paper (Haya) [Insane]](https://osu.ppy.sh/beatmaps/229493)
+  - [Fall Out Boy - Alone Together (Krewella Remix) (Aia) [Kyshiro's Light Insane]](https://osu.ppy.sh/beatmapsets/290995#osu/711305)
+  - [ONE OK ROCK - Rock, Scissors, Paper (Haya) [Insane]](https://osu.ppy.sh/beatmapsets/82282#osu/229493)
 - Tiebreaker
-  - **[supercell - Kimi no Shiranai Monogatari (monstrata) [Celestial]](https://osu.ppy.sh/beatmaps/651744)**
-  - **[Camellia - Racemization (Smoothie World) [Fizz's Another]](https://osu.ppy.sh/beatmaps/791625)**
-  - **[Porter Robinson - Divinity (feat. Amy Millan) (VINXIS) [We Will Wait]](https://osu.ppy.sh/beatmaps/634479)**
-  - **[nano - Hysteria (theramdans) [Collab]](https://osu.ppy.sh/beatmaps/412306)**
-  - **[Halozy - Masshiro na Yuki (MrSergio) [Everlasting Snow]](https://osu.ppy.sh/beatmaps/848143)**
-  - **[DJ Noriken - Elecktrick U-Phoria (Extended Mix) (sionKotori) [Illuminate]](https://osu.ppy.sh/beatmaps/854972)**
+  - **[supercell - Kimi no Shiranai Monogatari (monstrata) [Celestial]](https://osu.ppy.sh/beatmapsets/289074#osu/651744)**
+  - **[Camellia - Racemization (Smoothie World) [Fizz's Another]](https://osu.ppy.sh/beatmapsets/347765#osu/791625)**
+  - **[Porter Robinson - Divinity (feat. Amy Millan) (VINXIS) [We Will Wait]](https://osu.ppy.sh/beatmapsets/204453#osu/634479)**
+  - **[nano - Hysteria (theramdans) [Collab]](https://osu.ppy.sh/beatmapsets/168662#osu/412306)**
+  - **[Halozy - Masshiro na Yuki (MrSergio) [Everlasting Snow]](https://osu.ppy.sh/beatmapsets/388887#osu/848143)**
+  - **[DJ Noriken - Elecktrick U-Phoria (Extended Mix) (sionKotori) [Illuminate]](https://osu.ppy.sh/beatmapsets/392682#osu/854972)**
 
 ## Podium
 

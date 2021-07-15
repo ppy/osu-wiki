@@ -48,8 +48,8 @@ The osu!taiko World Cup 2016 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/418784)
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1gVHBZZpCMq2Ktvsr7KDeb_DBpN048TDjfZJW4c5JKzQ/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1gVHBZZpCMq2Ktvsr7KDeb_DBpN048TDjfZJW4c5JKzQ/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -98,7 +98,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 
 **This mappool was played in Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (122 MB)](https://www.mediafire.com/download/4px14n1o2cpqc8e/TWC_2016_Finals_Mappack.rar)**
+**[Download the mappack here! (122 MB)](https://www.mediafire.com/download/4px14n1o2cpqc8e/TWC_2016_Finals_Mappack.rar "MediaFire")**
 
 - NoMod
   - [Caladborg - invoker (-Anhedonia-) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/351126#taiko773846)
@@ -128,7 +128,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (93 MB)](https://www.mediafire.com/download/kmqmdnde5tmdxz8/TWC_2016_Semifinals.rar)**
+**[Download the mappack here! (93 MB)](https://www.mediafire.com/download/kmqmdnde5tmdxz8/TWC_2016_Semifinals.rar "MediaFire")**
 
 - NoMod
   - [BlackY vs. Yooh - XROSS INFECTION (-\[ Dumpling \]-) \[Kano's Inner Oni\]](https://osu.ppy.sh/beatmapsets/322480#taiko/716970)
@@ -158,7 +158,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (121 MB)](https://www.mediafire.com/download/xaag5o0tyacpcm4/TWC_2016_Quarterfinals.rar)**
+**[Download the mappack here! (121 MB)](https://www.mediafire.com/download/xaag5o0tyacpcm4/TWC_2016_Quarterfinals.rar "MediaFire")**
 
 - NoMod
   - [xi - Wish Upon Twin Stars (Ascendance) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/353259#taiko/805878)
@@ -188,7 +188,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (113 MB)](https://www.mediafire.com/download/c35kxmdomnpp1sy/TWC_2016_Round_of_16.rar)**
+**[Download the mappack here! (113 MB)](https://www.mediafire.com/download/c35kxmdomnpp1sy/TWC_2016_Round_of_16.rar "MediaFire")**
 
 - NoMod
   - [Ryu\* - We're so Happy (Spy) \[m1ng's Inner Oni\]](https://osu.ppy.sh/beatmapsets/120838#taiko/314179)
@@ -218,7 +218,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappool here! (130 MB)](https://www.mediafire.com/download/eu9o60zwublo4fq/TWC_2016_Group_Stage.rar)**
+**[Download the mappool here! (130 MB)](https://www.mediafire.com/download/eu9o60zwublo4fq/TWC_2016_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [YZYX - I nyaned for hours ( ' w')!! feat. Hatsune Miku (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/282181#taiko/638203)

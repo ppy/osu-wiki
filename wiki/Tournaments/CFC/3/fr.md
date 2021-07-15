@@ -52,12 +52,10 @@ La Catch French Cup 3 était gérée par différents membres de la communauté.
 ## Liens
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/790099)
-- [Discord du CFC](https://discord.gg/3DewaX8)
-- [Tableaux Challonge](https://osucfc.challonge.com/CFC3)
-- [Livestream](https://www.twitch.tv/osufrlive)
-- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrn8KpDeTO124_IgETpDPOBkI0WGVcvi0KEL0iyeJyxsXGE-3HaHRzIWHLk4llJ1_jEYcshD9ynRG-/pubhtml)**
-
----
+- [Discord du CFC](https://discord.gg/3DewaX8 "Discord")
+- [Tableaux Challonge](https://osucfc.challonge.com/CFC3 "Challonge")
+- [Livestream](https://www.twitch.tv/osufrlive "Twitch")
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrn8KpDeTO124_IgETpDPOBkI0WGVcvi0KEL0iyeJyxsXGE-3HaHRzIWHLk4llJ1_jEYcshD9ynRG-/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -81,8 +79,6 @@ La Catch French Cup 3 était gérée par différents membres de la communauté.
 | **G** | ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381) | ![][flag_FR] [GyraFanBoy](https://osu.ppy.sh/users/8417565) | ![][flag_MA] [l3ssili](https://osu.ppy.sh/users/12123746) | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) |
 | **H** | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Mnemosyne](https://osu.ppy.sh/users/9255433) | ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) | ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898) |
 
----
-
 ## Podium
 
 La compétition est arrivée à une fin et à donné le podium ci-dessous:
@@ -93,13 +89,11 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
 
----
-
 ## Liste des maps
 
 ### Grandes Finales
 
-**[Téléchargez le mappack ici! (208 MB)](https://mega.nz/#!F0VnDI4Y!713WV_v7hXdZ5DrxvrBcaLDotXDE8b4MfyZwfr_5FVk)**
+**[Téléchargez le mappack ici! (208 MB)](https://mega.nz/#!F0VnDI4Y!713WV_v7hXdZ5DrxvrBcaLDotXDE8b4MfyZwfr_5FVk "MEGA")**
 
 - NoMod
   - [Various Artists - Dan \~ CTB \~ SpeedMap Pack (Minato Yukina) \[MG277 \~ Ghimel \~ (Marathon) \]](https://osu.ppy.sh/beatmapsets/696969#fruits/1476212)
@@ -128,7 +122,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Finales
 
-**Téléchargez le mappack ici! (109 MB) - [MEGA](https://mega.nz/#!A4NAjaAB!ahgmIcnS80ez54YV8Dwj-17mdr0wVAcpHxDKQ-41uL0) - [Lien Direct](https://htfarmingiscool.s-ul.eu/4EIzRPpJ)**
+**Téléchargez le mappack ici! (109 MB) - [MEGA](https://mega.nz/#!A4NAjaAB!ahgmIcnS80ez54YV8Dwj-17mdr0wVAcpHxDKQ-41uL0 "MEGA") - [Lien Direct](https://htfarmingiscool.s-ul.eu/4EIzRPpJ "s-ul")**
 
 - NoMod
   - [Memme - Barrier (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/768255#fruits/1615696)
@@ -157,7 +151,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Demi-finales
 
-**Téléchargez le mappack ici! (132 MB) - [MEGA](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0) - [Lien Direct](https://htfarmingiscool.s-ul.eu/mPP3dZxS)**
+**Téléchargez le mappack ici! (132 MB) - [MEGA](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0 "MEGA") - [Lien Direct](https://htfarmingiscool.s-ul.eu/mPP3dZxS "s-ul")**
 
 - NoMod
   - [Camellia - Routing (Kyuare) \[Transcend\]](https://osu.ppy.sh/beatmapsets/553117#fruits/1171237)
@@ -186,7 +180,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Quarts-de-finale
 
-**Téléchargez le mappack ici! (77 MB) - [MEGA](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0) - [Lien Direct](https://htfarmingiscool.s-ul.eu/moaRrjjg)**
+**Téléchargez le mappack ici! (77 MB) - [MEGA](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0 "MEGA") - [Lien Direct](https://htfarmingiscool.s-ul.eu/moaRrjjg "s-ul")**
 
 - NoMod
   - [Ocelot - KAEDE (Minato Yukina) \[Transcendence\]](https://osu.ppy.sh/beatmapsets/820738#fruits/1720378)
@@ -210,7 +204,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### 16èmes de finale
 
-**Téléchargez le mappack ici! (79 MB) - [MEGA](https://mega.nz/#!J5lhQSDZ!f2fjBiEA29o9g_Jo45lJYTStLFVXN7hNHf87_78B648) - [Lien Direct](https://htfarmingiscool.s-ul.eu/XrUnjAK5.)**
+**Téléchargez le mappack ici! (79 MB) - [MEGA](https://mega.nz/#!J5lhQSDZ!f2fjBiEA29o9g_Jo45lJYTStLFVXN7hNHf87_78B648 "MEGA") - [Lien Direct](https://htfarmingiscool.s-ul.eu/XrUnjAK5. "s-ul")**
 
 - NoMod
   - [Qrispy Joybox - licca (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/307837#fruits/688568)
@@ -234,7 +228,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Phase de poules
 
-**[Téléchargez le mappack ici! (61 MB)](https://mega.nz/#!wpkQTI5S!Vv6YZ2uUaoQ_hcJ1Rc9is6J3xUqF-7zBfIF-Rbh-E1M)**
+**[Téléchargez le mappack ici! (61 MB)](https://mega.nz/#!wpkQTI5S!Vv6YZ2uUaoQ_hcJ1Rc9is6J3xUqF-7zBfIF-Rbh-E1M "MEGA")**
 
 - NoMod
   - [Mili - world.execute(me); (Spectator) \[love\]](https://osu.ppy.sh/beatmapsets/683528#fruits/1445720)
@@ -252,8 +246,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   - [Memme - Force of Ra (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/573479#fruits/1214852)
 - Tiebreaker
   - **[CLIFF EDGE - Sayonara I Love You feat. jyA-Me (Minato Yukina) \[Farewell Words\]](https://osu.ppy.sh/beatmapsets/493754#fruits/1051483)**
-
----
 
 ## Résultats des matches
 
@@ -422,8 +414,6 @@ Dimanche, 16 Septembre 2018:
 | H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Astreachan** | [#1](https://osu.ppy.sh/community/matches/46011327) |
 | H | Astreachan ![][flag_FR] | 2 | **3** | ![][flag_FR] **Mnemosyne** | [#1](https://osu.ppy.sh/community/matches/46012156) |
 
----
-
 ## Règlement
 
 ### Règles générales
@@ -444,10 +434,10 @@ Dimanche, 16 Septembre 2018:
    - Le Tiebreaker n'est pas en "forcemod", mais vous pouvez choisir un mod.
    - Les mods éligibles pour le FreeMod et le Tiebreaker sont Easy, Flashlight, HardRock et Hidden.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_MA]: /wiki/shared/flag/MA.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_MA]: /wiki/shared/flag/MA.gif "Maroc"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"

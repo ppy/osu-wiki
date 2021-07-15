@@ -84,7 +84,7 @@ The OUKT4 was run by various community members
 
 ### Finals
 
-**[Download the mappack here! (125 MB)](https://drive.google.com/open?id=1rZ91grLCKN4Mjg1tpvgMeOl4579A_LpN)**
+**[Download the mappack here! (125 MB)](https://drive.google.com/open?id=1rZ91grLCKN4Mjg1tpvgMeOl4579A_LpN "Google Drive")**
 
 - Nomod
   - [DragonForce - Heroes of Our Time (Jenny) \[Legend\]](https://osu.ppy.sh/beatmapsets/90716#osu/245960)
@@ -114,7 +114,7 @@ The OUKT4 was run by various community members
 
 ### Semifinals
 
-**[Download the mappack here! (143 MB)](https://drive.google.com/open?id=1kgXkT3KZi-2pcxhF4VS9zvtWV-yl-2k2)**
+**[Download the mappack here! (143 MB)](https://drive.google.com/open?id=1kgXkT3KZi-2pcxhF4VS9zvtWV-yl-2k2 "Google Drive")**
 
 - Nomod
   - [paraoka - boot (rickyboi) \[Shoe\]](https://osu.ppy.sh/beatmapsets/50131#osu/154226)
@@ -143,7 +143,7 @@ The OUKT4 was run by various community members
 
 ### Quaterfinals
 
-**[Download the mappack here! (134 MB)](https://drive.google.com/open?id=1AcS2Xbrhae4BGLKcrjr9ABLZ30MHdfOR)**
+**[Download the mappack here! (134 MB)](https://drive.google.com/open?id=1AcS2Xbrhae4BGLKcrjr9ABLZ30MHdfOR "Google Drive")**
 
 - Nomod
   - [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
@@ -170,7 +170,7 @@ The OUKT4 was run by various community members
 
 ### Round of 16
 
-**[Download the mappack here! (151 MB)](https://drive.google.com/open?id=1DoiiznIlVjM0Q1nMuMRWCkJRtsneINv9)**
+**[Download the mappack here! (151 MB)](https://drive.google.com/open?id=1DoiiznIlVjM0Q1nMuMRWCkJRtsneINv9 "Google Drive")**
 
 - Nomod
   - [Caravan Palace - Dragons (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/46733#osu/145361)
@@ -197,7 +197,7 @@ The OUKT4 was run by various community members
 
 ### Round of 32
 
-**[Download the mappack here! (105 MB)](https://drive.google.com/open?id=1IBUXjqV_K0xEnaZTtQfCf5U_PIs9VFti)**
+**[Download the mappack here! (105 MB)](https://drive.google.com/open?id=1IBUXjqV_K0xEnaZTtQfCf5U_PIs9VFti "Google Drive")**
 
 - Nomod
   - [SHIKI - BABYLON (miccoliasms) \[Another\]](https://osu.ppy.sh/beatmapsets/31373#osu/103132)
@@ -224,7 +224,7 @@ The OUKT4 was run by various community members
 
 ### Round of 64
 
-**[Download the mappack here! (87 MB)](https://drive.google.com/open?id=1N6U2TkNlSnOvb7IFHRsyPEpNF8CYXob5)**
+**[Download the mappack here! (87 MB)](https://drive.google.com/open?id=1N6U2TkNlSnOvb7IFHRsyPEpNF8CYXob5 "Google Drive")**
 
 - Nomod
   - [Horie Yui - True Truly Love (Thite) \[Insane\]](https://osu.ppy.sh/beatmapsets/28459#osu/95495)
@@ -249,7 +249,7 @@ The OUKT4 was run by various community members
 
 ### Round of 128
 
-**[Download the mappack here! (104 MB)](https://drive.google.com/open?id=1oq6sDapu3uvTE9ml7N7Nf8gTY5Qh4q1N)**
+**[Download the mappack here! (104 MB)](https://drive.google.com/open?id=1oq6sDapu3uvTE9ml7N7Nf8gTY5Qh4q1N "Google Drive")**
 
 - Nomod
   - [Nekomata Master - Far east nightbird (kors k Remix) (jonathanlfj) \[Another\]](https://osu.ppy.sh/beatmapsets/144171#osu/358272)

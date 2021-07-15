@@ -56,13 +56,11 @@ Intermediate Global Taiko Showdown 2019 fue realizado por varios miembros de la 
 ## Enlaces
 
 - [Foro de discusión](https://osu.ppy.sh/community/forums/topics/906298)
-- [IGTS Servidor de Discord](https://discord.gg/a6PzzFz)
-- [Livestream](https://www.twitch.tv/igtsosu)
-- [Challonge brackets](https://challonge.com/dqq46siu)
-- [Página de Pick'em](https://pickem.hwc.hr/tournaments/8)
-- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
-
----
+- [IGTS Servidor de Discord](https://discord.gg/a6PzzFz "Discord")
+- [Livestream](https://www.twitch.tv/igtsosu "Twitch")
+- [Challonge brackets](https://challonge.com/dqq46siu "Challonge")
+- [Página de Pick'em](https://pickem.hwc.hr/tournaments/8 "hwchr's pick'em")
+- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing "Google Sheets")**
 
 ## Participantes
 
@@ -114,8 +112,6 @@ Intermediate Global Taiko Showdown 2019 fue realizado por varios miembros de la 
 | **G** | ![][flag_BR] Brasil | ![][flag_CL] Chile | ![][flag_ID] Indonesia B | ![][flag_PE] Perú |
 | **H** | ![][flag_HK] Hong Kong | ![][flag_PL] Polonia B | ![][flag_CO] Colombia | ![][flag_IE] Irlanda |
 
----
-
 ## Podium
 
 Este competencia ha llegado a su fin y los resultados se demuestran en ese podio:
@@ -126,13 +122,11 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 | ![Corona de Plata](/wiki/shared/crown-silver.png "2do lugar") | ![][flag_US] Estados Unidos A |
 | ![Corona de Bronce](/wiki/shared/crown-bronze.png "3er lugar") | ![][flag_CL] Chile |
 
----
-
 ## Mappools
 
 ### All-Stars Battle Royale
 
-**[Descarga el paquete de mapas aquí! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
+**[Descarga el paquete de mapas aquí! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg "MEGA")**
 
 - NoMod
   - [Silent Siren - Merry-Go-Round (hoku-4625) \[Shallty-Go-Round\]](https://osu.ppy.sh/beatmapsets/751585#taiko/1612301)
@@ -155,7 +149,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### All-Stars
 
-**[Descarga el paquete de mapas aquí! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
+**[Descarga el paquete de mapas aquí! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo "MEGA")**
 
 - NoMod
   - [Yuyoyuppe - AiAe (asuasu\_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/447734#taiko/961162)
@@ -186,7 +180,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Gran Finales
 
-**[Descarga el paquete de mapas aquí! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
+**[Descarga el paquete de mapas aquí! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar "puush")**
 
 - NoMod
   - [xi - Blue Zenith (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035965)
@@ -213,7 +207,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Finales
 
-**[Descarga el paquete de mapas aquí! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
+**[Descarga el paquete de mapas aquí! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar "puush")**
 
 - NoMod
   - [Reol - Gigantic O.T.N (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/434182#taiko/937232)
@@ -240,7 +234,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Semifinales
 
-**[Descarga el paquete de mapas aquí! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E)**
+**[Descarga el paquete de mapas aquí! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E "MEGA")**
 
 - NoMod
   - [Buta-Otome - Towa no Maigo (404 AccNotFound) \[Oni\]](https://osu.ppy.sh/beatmapsets/622175#taiko/1317865)
@@ -267,7 +261,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Cuartos de Final
 
-**[Descarga el paquete de mapas aquí! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
+**[Descarga el paquete de mapas aquí! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw "MEGA")**
 
 - NoMod
   - [Dreamcatcher - Chase Me (-omicron) \[Jaye's Lite Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987174#taiko/2065074)
@@ -293,7 +287,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Octavos de Final
 
-**[Descarga el paquete de mapas aquí! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY)**
+**[Descarga el paquete de mapas aquí! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY "MEGA")**
 
 - NoMod
   - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/596741)
@@ -319,7 +313,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Fase de Grupos
 
-**[Descarga el paquete de mapas aquí! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
+**[Descarga el paquete de mapas aquí! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I "MEGA")**
 
 - NoMod
   - [An - TearVid (Kokatsu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/79647#taiko/222678)
@@ -341,8 +335,6 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
   - [lapix - Future Raver feat. Numb'n'dub (Arrival) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/963997#taiko/2024239)
 - Tiebreaker
   - **[USAO - Chrono Diver -PENDULUMs- (USAO remix) (QEpicAce) \[-Jordan-'s Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980250#taiko/2051403)**
-
----
 
 ## Resultado de las partidas
 
@@ -405,7 +397,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 | México ![][flag_MX] | 1 | **6** | ![][flag_SG] **Singapur** | [#1](https://osu.ppy.sh/community/matches/52641017) |
 | Argentina ![][flag_AR] | 3 | **6** | ![][flag_FR] **Francia A** | [#1](https://osu.ppy.sh/community/matches/52644303) |
 | Polonia A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/52647239) |
-| **Estados Unidos A** ![][flag_US] | **6** | 0 | ![][flag_EC] Ecuador | [#1](https://www.twitch.tv/videos/439630298) |
+| **Estados Unidos A** ![][flag_US] | **6** | 0 | ![][flag_EC] Ecuador | [#1](https://www.twitch.tv/videos/439630298 "Twitch") |
 
 | Domingo, 2019-06-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -474,8 +466,6 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 | E2 | **Reino Unido** ![][flag_GB] | **5** | 4 | ![][flag_US] Estados Unidos B | [#1](https://osu.ppy.sh/community/matches/52496157) |
 | F4 | Canadá ![][flag_CA] | 4 | **5** | ![][flag_DK] **Dinamarca** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | Reino Unido ![][flag_GB] | 1 | **5** | ![][flag_MX] **México** | [#1](https://osu.ppy.sh/community/matches/52489459) |
-
----
 
 ## Reglas
 
@@ -583,37 +573,37 @@ All-star es un evento especial que se llevará a cabo en la semana de las Grande
 5. Una partida 4 vs 4 también se llevará a cabo con las siguientes reglas:
    - Paquete de mapas de 5 NM,HR,HD,DT,FM,EX y 1 TB (Las reglas de mods de las partidas normales aplican aquí también).
    - Los bans están prohibidos.
-   - Los mods serán escogidos aleatoriamente por un !roll (de acuerdo a una tabla) y luego el mapa será escogido gracias a una rueda.
+   - Los mods serán escogidos aleatoriamente por un `!roll` (de acuerdo a una tabla) y luego el mapa será escogido gracias a una rueda.
    - El cambio de jugadores está permitido sin limitaciones durante toda la partida.
    - Mismas reglas de desconexión que en las reglas normales aplican.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suiza"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
+[flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
+[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
+[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
+[flag_GR]: /wiki/shared/flag/GR.gif "Grecia"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IE]: /wiki/shared/flag/IE.gif "Irlanda"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japón"
+[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
+[flag_MX]: /wiki/shared/flag/MX.gif "México"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malasia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
+[flag_PE]: /wiki/shared/flag/PE.gif "Perú"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Federación Rusa"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwán"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

@@ -56,10 +56,10 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーに
 ## リンク
 
 - [ディスカッションスレッド](https://osu.ppy.sh/community/forums/topics/931003)
-- [GTS Discordサーバー](https://discord.gg/zbHVzvF)
-- [ライブストリーム](https://www.twitch.tv/gtsosu)
-- [Challonge順位表](https://challonge.com/AGTS2019)
-- **[統計シート](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
+- [GTS Discordサーバー](https://discord.gg/zbHVzvF "Discord")
+- [ライブストリーム](https://www.twitch.tv/gtsosu "Twitch")
+- [Challonge順位表](https://challonge.com/AGTS2019 "Challonge")
+- **[統計シート](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing "Google Sheets")**
 
 ## 参加者
 
@@ -121,7 +121,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーに
 
 ### グランドファイナル
 
-**[こちらからマップパックをダウンロードできます！ (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
+**[こちらからマップパックをダウンロードできます！ (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE "MEGA")**
 
 - NoMod
   - [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
@@ -150,7 +150,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーに
 
 ### 決勝
 
-**[こちらからマップパックをダウンロードできます！ (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
+**[こちらからマップパックをダウンロードできます！ (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ "MEGA")**
 
 - NoMod
   - [YUC'e - PUMP (KinomiCandy) \[Kinobles & Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/610546#taiko/1289147)
@@ -179,7 +179,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーに
 
 ### 準決勝
 
-**[こちらからマップパックをダウンロードできます！ (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
+**[こちらからマップパックをダウンロードできます！ (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs "MEGA")**
 
 - NoMod
   - [Murder King - Ben Her Gun Artik Sen (frukoyurdakul) \[Suistimal\]](https://osu.ppy.sh/beatmapsets/959186#taiko/2008180)
@@ -208,7 +208,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーに
 
 ### 準々決勝
 
-**[こちらからマップパックをダウンロードできます！ (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
+**[こちらからマップパックをダウンロードできます！ (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA "MEGA")**
 
 - NoMod
   - [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
@@ -236,7 +236,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーに
 
 ### グループステージ
 
-**[こちらからマップパックをダウンロードできます！ (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
+**[こちらからマップパックをダウンロードできます！ (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE "MEGA")**
 
 - NoMod
   - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
@@ -268,7 +268,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーに
 
 ### 予選
 
-**[こちらからマップパックをダウンロードできます！ (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
+**[こちらからマップパックをダウンロードできます！ (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q "MEGA")**
 
 - NoMod
   - [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)
@@ -483,7 +483,7 @@ All-starは最終決戦と同じ週末に行われるエキシビションイベ
 5. 以下のルールを使った4 vs 4 の試合も行われます：
    - マッププールは 5 NM,HR,HD,DT,FM,EXと1 TB。(Modのルールは通常の試合と同じです)
    - ビートマップBANはなし。
-   - Modは!rollでテーブルに合わせて選ばれ、ビートマップはランダムで選ばれます。
+   - Modは`!roll`でテーブルに合わせて選ばれ、ビートマップはランダムで選ばれます。
    - 選手の入れ替わりは制限なしです。
    - 回線の切断については通常の試合と同じルールです。
 

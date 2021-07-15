@@ -48,7 +48,7 @@ The osu! Taiko World Cup 2015 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
-- [Livestream](https://www.twitch.tv/osulive)
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
 
 ## Participants
 
@@ -108,7 +108,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was used on Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (103 MB)](https://www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar)**
+**[Download the mappack here! (103 MB)](https://www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar "MediaFire")**
 
 - NoMod
   - [MuryokuP - Frozen World (c36098651) \[Firce777's North Pole\]](https://osu.ppy.sh/beatmapsets/194955#taiko/465192)
@@ -138,7 +138,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (160 MB)](https://www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar)**
+**[Download the mappack here! (160 MB)](https://www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar "MediaFire")**
 
 - NoMod
   - [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218)
@@ -168,7 +168,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (113 MB)](https://www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar)**
+**[Download the mappack here! (113 MB)](https://www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar "MediaFire")**
 
 - NoMod
   - [44teru-k - F.I (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25828#taiko/125530)
@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (152 MB)](https://www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar)**
+**[Download the mappack here! (152 MB)](https://www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar "MediaFire")**
 
 - NoMod
   - [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/140418#taiko/350721)
@@ -228,7 +228,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (75 MB)](https://www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar)**
+**[Download the mappack here! (75 MB)](https://www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [Hige Driver join. SELEN - Dadadadadadadadadada (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/237306#taiko/549277)
@@ -497,8 +497,8 @@ Sunday, 8 March 2015:
    - Both vetos must always be used.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use `!roll` once in `#multiplayer`.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning two beatmaps.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning two beatmaps.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results will be published via Statistics site.

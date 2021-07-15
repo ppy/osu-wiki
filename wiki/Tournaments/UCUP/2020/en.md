@@ -47,9 +47,9 @@ The Ulat Bulu Cup 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1065413)
-- [UCUP Discord server](https://discord.gg/mBgs4bz)
-- [Livestream](https://www.twitch.tv/ulatcup)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1aZ2jN6BKxRbrOiyMOia9Uu4V3mWO-Ax7ns0BCH9vzTk/edit?usp=sharing)**
+- [UCUP Discord server](https://discord.gg/mBgs4bz "Discord")
+- [Livestream](https://www.twitch.tv/ulatcup "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1aZ2jN6BKxRbrOiyMOia9Uu4V3mWO-Ax7ns0BCH9vzTk/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -99,7 +99,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (138 MB)](https://drive.google.com/file/d/1qaDnq14jxa9DRYFmlmhluLLSuM296DI8/view?usp=sharing)**
+**[Download the mappack here! (138 MB)](https://drive.google.com/file/d/1qaDnq14jxa9DRYFmlmhluLLSuM296DI8/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Kurosaki Maon - Gravitation (Yudragen) \[Opposing Fates\]](https://osu.ppy.sh/beatmapsets/996445#osu/2084319)
@@ -133,7 +133,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (155 MB)](https://drive.google.com/file/d/1NtjzZWlGN7tHZBYbqBtaR9aI84S7HEHp/view?usp=sharing)**
+**[Download the mappack here! (155 MB)](https://drive.google.com/file/d/1NtjzZWlGN7tHZBYbqBtaR9aI84S7HEHp/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Eve - Gekka\*Midare Botan (Meg) \[Meg&Roll\_Pan's E-Xtra\]](https://osu.ppy.sh/beatmapsets/530685#osu/1124857)
@@ -167,7 +167,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1zUjGZ202wRVbnsi5JEO0AnJUlTf_H_ma/view?usp=sharing)**
+**[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1zUjGZ202wRVbnsi5JEO0AnJUlTf_H_ma/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Twin-Tails - Twintail Dreamer! (Minorsonek) \[diuS' Expert\]](https://osu.ppy.sh/beatmapsets/773026#osu/1680262)
@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (146 MB)](https://drive.google.com/file/d/1R6UF98BuQjTBjh0PFoI8BA9WPVtS-P7g/view?usp=sharing)**
+**[Download the mappack here! (146 MB)](https://drive.google.com/file/d/1R6UF98BuQjTBjh0PFoI8BA9WPVtS-P7g/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Akitsuki Fuuka CV:Lynn - Fair wind (Zero\_\_wind) \[cRyo&xsrs's Extreme\]](https://osu.ppy.sh/beatmapsets/587541#osu/1414172)
@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (150 MB)](https://drive.google.com/file/d/1oNZG_B8ZAy4iipibdcZtZUsnURpaqSTw/view?usp=sharing)**
+**[Download the mappack here! (150 MB)](https://drive.google.com/file/d/1oNZG_B8ZAy4iipibdcZtZUsnURpaqSTw/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [AliA - utopia (Akitoshi) \[Dubturt's Extra\]](https://osu.ppy.sh/beatmapsets/1117851#osu/2382179)

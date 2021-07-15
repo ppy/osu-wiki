@@ -47,11 +47,9 @@ The Catch French Cup 4 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/872556)
-- [CFC Discord server](https://discord.gg/3DewaX8)
-- [Livestream](https://www.twitch.tv/osufrlive)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_rPsiR-FPlxuLHxWNLjXrZnBOm4BIQV4a7IMIpDTp6TkH_Zyye1zuJRXmgCIDjxop9iUzz68-Wtbw/pubhtml)**
-
----
+- [CFC Discord server](https://discord.gg/3DewaX8 "Discord")
+- [Livestream](https://www.twitch.tv/osufrlive "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_rPsiR-FPlxuLHxWNLjXrZnBOm4BIQV4a7IMIpDTp6TkH_Zyye1zuJRXmgCIDjxop9iUzz68-Wtbw/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -71,8 +69,6 @@ The Catch French Cup 4 was run by various community members.
 | **C** | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 | **D** | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -83,13 +79,11 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
----
-
 ## Mappools
 
 ### Finals
 
-**[Download the mappack here! (150 MB)](https://mega.nz/#!d5FymIpS!gt2O_LS7Gn_BCx3BHoPyLImDiYCLvnrTka9mnhvhCKA)**
+**[Download the mappack here! (150 MB)](https://mega.nz/#!d5FymIpS!gt2O_LS7Gn_BCx3BHoPyLImDiYCLvnrTka9mnhvhCKA "MEGA")**
 
 - NoMod
   - [PinocchioP - Weekly Shonen BYE-BYE (\[224\]Reol) \[224STEP\]](https://osu.ppy.sh/beatmapsets/279313#fruits/632533)
@@ -118,7 +112,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (132 MB)](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0)**
+**[Download the mappack here! (132 MB)](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0 "MEGA")**
 
 - NoMod
   - [Various Artists - Dan \~ CTB \~ TechMap Pack (CLSW) \[Opium and Purple \~ 9th \~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/693829#fruits/1468087)
@@ -147,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (77 MB)](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0)**
+**[Download the mappack here! (77 MB)](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0 "MEGA")**
 
 - NoMod
   - [Ocelot - KAEDE (Minato Yukina) \[Transcendence\]](https://osu.ppy.sh/beatmapsets/820738#fruits/1720378)
@@ -171,7 +165,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (50 MB)](https://mega.nz/#!g01kAAyR!iTvPwH4g9dC9kajKPJw8o0v6Ck6hOMQ_UFp7Rg77IHc)**
+**[Download the mappack here! (50 MB)](https://mega.nz/#!g01kAAyR!iTvPwH4g9dC9kajKPJw8o0v6Ck6hOMQ_UFp7Rg77IHc "MEGA")**
 
 - NoMod
   - [MitiS feat. Crywolf - Oasis (vocal Mix) (Benny-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/306442#fruits/861238)
@@ -189,8 +183,6 @@ This competition has come to an end and resulted in the following podium:
   - [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#fruits/96523)
 - Tiebreaker
   - **[ginkiha - EOS (kamome sano rmx) (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/404360#fruits/893683)**
-
----
 
 ## Match results
 
@@ -285,8 +277,6 @@ Sunday, 31 March 2019:
 | Tantei B ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50668487) |
 | **Julo** ![][flag_FR] | **3** | 0 | ![][flag_FR] Sageru | *win by default* |
 
----
-
 ## Ruleset
 
 ### General rules
@@ -307,9 +297,9 @@ Sunday, 31 March 2019:
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
 
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_RE]: /wiki/shared/flag/RE.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_RE]: /wiki/shared/flag/RE.gif "Reunion"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"

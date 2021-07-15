@@ -1,7 +1,7 @@
 ---
 tags:
-- o!cCC
-- ocCC
+  - o!cCC
+  - ocCC
 ---
 
 # osu!catch Convert Cup

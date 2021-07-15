@@ -1,8 +1,8 @@
 ---
 tags:
-- 112servis
-- 112CT
-- 112 Corona
+  - 112servis
+  - 112CT
+  - 112 Corona
 ---
 
 # 112's Corona Tournament
@@ -46,44 +46,44 @@ The 112's Corona Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1044086)
-- [112's Tournaments Discord server](https://discord.gg/g3nqqeZ)
-- [Livestream](https://www.twitch.tv/osu_turkiye)
-- [Challonge bracket](https://challonge.com/112korona2020)
+- [112's Tournaments Discord server](https://discord.gg/g3nqqeZ "Discord")
+- [Livestream](https://www.twitch.tv/osu_turkiye "Twitch")
+- [Challonge bracket](https://challonge.com/112korona2020 "Challonge")
 
 ## Participants
 
 | Team | Members |
 | :-- | :-- |
-| .\`\*\*HIDDEN\*\*\`.  | ![][flag_TR] [Kizu](https://osu.ppy.sh/users/12940938), ![][flag_TR] [Shinkir0](https://osu.ppy.sh/users/6093148) |
-| ( ͡° ͜ʖ ͡°) | ![][flag_TR] [robertvarne](https://osu.ppy.sh/users/11913835), ![][flag_BE] [iblue](https://osu.ppy.sh/users/9184180) | 
-| 1.yiz kasmayın | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [NamDeer](https://osu.ppy.sh/users/10389841) | 
-| 1deag | ![][flag_TR] [edizberkserbest](https://osu.ppy.sh/users/9256771), ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514) | 
-| ali vefa fanclub | ![][flag_TR] [Mr\_Ege](https://osu.ppy.sh/users/9542170), ![][flag_TR] [-Kemsyt](https://osu.ppy.sh/users/3170401) | 
-| ataturj | ![][flag_TR] [Rexin](https://osu.ppy.sh/users/7953720), ![][flag_TR] [He is Batuhan](https://osu.ppy.sh/users/4939723) | 
-| Bakamitai | ![][flag_TR] [JustBurak](https://osu.ppy.sh/users/4939723), ![][flag_LT] [mamakatas](https://osu.ppy.sh/users/7011187) | 
+| .\`\*\*HIDDEN\*\*\`. | ![][flag_TR] [Kizu](https://osu.ppy.sh/users/12940938), ![][flag_TR] [Shinkir0](https://osu.ppy.sh/users/6093148) |
+| ( ͡° ͜ʖ ͡°) | ![][flag_TR] [robertvarne](https://osu.ppy.sh/users/11913835), ![][flag_BE] [iblue](https://osu.ppy.sh/users/9184180) |
+| 1.yiz kasmayın | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [NamDeer](https://osu.ppy.sh/users/10389841) |
+| 1deag | ![][flag_TR] [edizberkserbest](https://osu.ppy.sh/users/9256771), ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514) |
+| ali vefa fanclub | ![][flag_TR] [Mr\_Ege](https://osu.ppy.sh/users/9542170), ![][flag_TR] [-Kemsyt](https://osu.ppy.sh/users/3170401) |
+| ataturj | ![][flag_TR] [Rexin](https://osu.ppy.sh/users/7953720), ![][flag_TR] [He is Batuhan](https://osu.ppy.sh/users/4939723) |
+| Bakamitai | ![][flag_TR] [JustBurak](https://osu.ppy.sh/users/4939723), ![][flag_LT] [mamakatas](https://osu.ppy.sh/users/7011187) |
 | bucocukamerikalı | ![][flag_TR] [Cynesta](https://osu.ppy.sh/users/8674027), ![][flag_TR] [huckmen444](https://osu.ppy.sh/users/5019334) |
 | busu | ![][flag_TR] [MFaik](https://osu.ppy.sh/users/11199222), ![][flag_TR] [Berkk](https://osu.ppy.sh/users/16298931) |
-| deneme | ![][flag_TR] [nitromehmet](https://osu.ppy.sh/users/9909537), ![][flag_TR] [haygiya](https://osu.ppy.sh/users/11604012) | 
+| deneme | ![][flag_TR] [nitromehmet](https://osu.ppy.sh/users/9909537), ![][flag_TR] [haygiya](https://osu.ppy.sh/users/11604012) |
 | Easy Bots | ![][flag_TR] [MouseControlV2](https://osu.ppy.sh/users/10307622), ![][flag_TR] [kanna\_kamuisan](https://osu.ppy.sh/users/14728608) |
-| EkmekKırıntısı | ![][flag_TR] [velihan33](https://osu.ppy.sh/users/14181899), ![][flag_US] [Avora](https://osu.ppy.sh/users/8986927) | 
-| Gaz Treni | ![][flag_TR] [Lxran](https://osu.ppy.sh/users/3651081), ![][flag_TR] [SnowLyRain](https://osu.ppy.sh/users/12489717) | 
-| harumachi clover | ![][flag_TR] [dragonsaga](https://osu.ppy.sh/users/4982690), ![][flag_TR] [empirasu](https://osu.ppy.sh/users/12500084) | 
+| EkmekKırıntısı | ![][flag_TR] [velihan33](https://osu.ppy.sh/users/14181899), ![][flag_US] [Avora](https://osu.ppy.sh/users/8986927) |
+| Gaz Treni | ![][flag_TR] [Lxran](https://osu.ppy.sh/users/3651081), ![][flag_TR] [SnowLyRain](https://osu.ppy.sh/users/12489717) |
+| harumachi clover | ![][flag_TR] [dragonsaga](https://osu.ppy.sh/users/4982690), ![][flag_TR] [empirasu](https://osu.ppy.sh/users/12500084) |
 | i may be stupid | ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528), ![][flag_TR] [Tsuda-](https://osu.ppy.sh/users/6713666) |
-| isim bulamadık | ![][flag_TR] [\[-Shadowa-\]](https://osu.ppy.sh/users/1313327), ![][flag_TR] [sentez](https://osu.ppy.sh/users/8816305) | 
-| K G O O | ![][flag_TR] [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545), ![][flag_TR] [roseacti](https://osu.ppy.sh/users/10518505) | 
+| isim bulamadık | ![][flag_TR] [\[-Shadowa-\]](https://osu.ppy.sh/users/1313327), ![][flag_TR] [sentez](https://osu.ppy.sh/users/8816305) |
+| K G O O | ![][flag_TR] [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545), ![][flag_TR] [roseacti](https://osu.ppy.sh/users/10518505) |
 | kartal.network | ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107), ![][flag_TR] [Cyberia950](https://osu.ppy.sh/users/9143539) |
-| kms | ![][flag_TR] [Yoani](https://osu.ppy.sh/users/10660282), ![][flag_TR] [mirayno](https://osu.ppy.sh/users/11593174) | 
+| kms | ![][flag_TR] [Yoani](https://osu.ppy.sh/users/10660282), ![][flag_TR] [mirayno](https://osu.ppy.sh/users/11593174) |
 | Mağdurlar | ![][flag_TR] [star1322](https://osu.ppy.sh/users/8128670), ![][flag_TR] [We0l](https://osu.ppy.sh/users/13196066) |
 | nE | ![][flag_TR] [Nymphe](https://osu.ppy.sh/users/10507407), ![][flag_TR] [emptypudding](https://osu.ppy.sh/users/11003085) |
 | NEŞESİNE YAŞAM | ![][flag_TR] [egemenbsrms](https://osu.ppy.sh/users/4520477), ![][flag_TR] [aimlessplayr](https://osu.ppy.sh/users/4903088) |
 | NM | ![][flag_TR] [Koqla](https://osu.ppy.sh/users/12817802), ![][flag_DE] [Skellexon](https://osu.ppy.sh/users/11268328) |
 | Plz Enjoy Chiaki | ![][flag_TR] [Plz Enjoy RSI](https://osu.ppy.sh/users/8365050), ![][flag_TR] [Chiaki Nanami-](https://osu.ppy.sh/users/8588336) |
-| SARS-CoV-3 | ![][flag_TR] [Chickes](https://osu.ppy.sh/users/5341891), ![][flag_TR] [AuroraSolaris](https://osu.ppy.sh/users/9319605) | 
-| Team Big Chungus  | ![][flag_TR] [pyth0nix](https://osu.ppy.sh/users/10922849), ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026) | 
-| Traps Not Gay V2 | ![][flag_TR] [CutieDemon](https://osu.ppy.sh/users/6440158), ![][flag_TR] [HakoFixed](https://osu.ppy.sh/users/7188447) | 
-| uwu | ![][flag_TR] [-Miia-](https://osu.ppy.sh/users/8543307), ![][flag_TR] [-Satella-](https://osu.ppy.sh/users/4890227) | 
-| Zurna | ![][flag_TR] [Mikatsu](https://osu.ppy.sh/users/6612642), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333) | 
-| ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽ | ![][flag_TR] [Ekin](https://osu.ppy.sh/users/2947405), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453) | 
+| SARS-CoV-3 | ![][flag_TR] [Chickes](https://osu.ppy.sh/users/5341891), ![][flag_TR] [AuroraSolaris](https://osu.ppy.sh/users/9319605) |
+| Team Big Chungus  | ![][flag_TR] [pyth0nix](https://osu.ppy.sh/users/10922849), ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026) |
+| Traps Not Gay V2 | ![][flag_TR] [CutieDemon](https://osu.ppy.sh/users/6440158), ![][flag_TR] [HakoFixed](https://osu.ppy.sh/users/7188447) |
+| uwu | ![][flag_TR] [-Miia-](https://osu.ppy.sh/users/8543307), ![][flag_TR] [-Satella-](https://osu.ppy.sh/users/4890227) |
+| Zurna | ![][flag_TR] [Mikatsu](https://osu.ppy.sh/users/6612642), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333) |
+| ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽ | ![][flag_TR] [Ekin](https://osu.ppy.sh/users/2947405), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453) |
 
 ## Podium
 
@@ -93,7 +93,7 @@ The 112's Corona Tournament was run by various community members.
 
 ### Finals & Grand Finals
 
-**[Download the map pack here! (143 MB)](https://drive.google.com/uc?id=1sVaWgNQRU6nLrtt4tytYhd7xDZQJToxy&export=download)**
+**[Download the map pack here! (143 MB)](https://drive.google.com/uc?id=1sVaWgNQRU6nLrtt4tytYhd7xDZQJToxy&export=download "Google Drive")**
 
 - NoMod
   - [Suzuki Konomi - Blow out (Kalibe) \[Spell\]](https://osu.ppy.sh/beatmapsets/617203#osu/1629264)
@@ -122,7 +122,7 @@ The 112's Corona Tournament was run by various community members.
 
 ### Semifinals
 
-**[Download the map pack here! (134 MB)](https://drive.google.com/uc?id=1nga7eNy-P94EzdRrw0c7Twi8mdthJTh_&export=download)**
+**[Download the map pack here! (134 MB)](https://drive.google.com/uc?id=1nga7eNy-P94EzdRrw0c7Twi8mdthJTh_&export=download "Google Drive")**
 
 - NoMod
   - [KISIDA KYODAN & THE AKEBOSI ROCKETS – Fall of Fall (Shirahane Suou) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1084063#osu/2267125)
@@ -151,7 +151,7 @@ The 112's Corona Tournament was run by various community members.
 
 ### Quarterfinals
 
-**[Download the map pack here! (117 MB)](https://drive.google.com/file/d/16YRfUGd2yHpeTLEwrryNIlftPaSCfxcg/view?usp=sharing)**
+**[Download the map pack here! (117 MB)](https://drive.google.com/file/d/16YRfUGd2yHpeTLEwrryNIlftPaSCfxcg/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [yanaginagi – over and over (Hanazawa Kana) \[Kibb's Extra\]](https://osu.ppy.sh/beatmapsets/735969#osu/1656228)
@@ -180,7 +180,7 @@ The 112's Corona Tournament was run by various community members.
 
 ### Round of 16
 
-**[Download the map pack here! (80 MB)](https://mega.nz/file/DRJ21Y7C#4Zfg5UZbhCNBo3e6ahidKMOsb7FqPHodBH7_2nyK3M8)**
+**[Download the map pack here! (80 MB)](https://mega.nz/file/DRJ21Y7C#4Zfg5UZbhCNBo3e6ahidKMOsb7FqPHodBH7_2nyK3M8 "MEGA")**
 
 - NoMod
   - [yuikonnu & ayaponzu\* – Shinde Shimau towa Nasakenai! (Frey) \[Continue? < Yes / No >\]](https://osu.ppy.sh/beatmapsets/710207#osu/1501342)
@@ -205,7 +205,7 @@ The 112's Corona Tournament was run by various community members.
 
 ### Qualifiers
 
-**[Download the map pack here! (45 MB)](https://drive.google.com/uc?id=1ty3WFqIiY2OQ-bN9phbrivIOA1jry-WK&export=download)**
+**[Download the map pack here! (45 MB)](https://drive.google.com/uc?id=1ty3WFqIiY2OQ-bN9phbrivIOA1jry-WK&export=download "Google Drive")**
 
 - NoMod
   - [Camellia feat. Nanahira – Tsukitourou (jonathanlfj) \[Nyquill's Extra\]](https://osu.ppy.sh/beatmapsets/383147#osu/1313971)
@@ -355,7 +355,7 @@ Monday, 27 April 2020:
 2. The tournament uses a qualifier into a double elimination bracket.
 3. The format of the tournament is planned as **2-player team versus** setup.
 4. Beatmap scoring is based on Score V2.
-5. Total weighted pp amount of each player should be 13200 to register the tournament. Refer [here](https://www.desmos.com/calculator/idwmeev5ns) for how it is calculated.
+5. Total weighted pp amount of each player should be 13200 to register the tournament. Refer [here](https://www.desmos.com/calculator/idwmeev5ns "Desmos") for how it is calculated.
 6. The beatmaps for each round will be announced by the map selectors in advance at least a week before the actual matches take place. Only these beatmaps will be used during the respective matches.
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 7. Match schedule will be decided by tournament staff.
@@ -375,7 +375,7 @@ Monday, 27 April 2020:
 
 1. Every user interested in joining the tournament will sign up individually.
    - **Any form of registration, other than using the method provided in related channels, will be disregarded.**
-2. Registrations will be handled in the [Discord server](https://discord.gg/g3nqqeZ) via a special tournament bot. Instructions are provided in related channels. Participants **must not** leave the server for the duration of the tournament.
+2. Registrations will be handled in the [Discord server](https://discord.gg/g3nqqeZ "Discord") via a special tournament bot. Instructions are provided in related channels. Participants **must not** leave the server for the duration of the tournament.
 3. As no badge will be awarded, tournament staff can participate in the tournament. Screening procedure will also not be applied for this tournament.
 4. Participants will be published after the Registration period ends.
 

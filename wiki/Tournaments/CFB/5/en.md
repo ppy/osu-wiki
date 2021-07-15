@@ -53,10 +53,10 @@ The Catch French Beginner 5 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1210572)
-- [CFB Discord server](https://discord.gg/dqAsqE3)
-- [Livestream](https://www.twitch.tv/catchfrenchbeginner)
-- [Challonge bracket](https://challonge.com/CFB5)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)**
+- [CFB Discord server](https://discord.gg/dqAsqE3 "Discord")
+- [Livestream](https://www.twitch.tv/catchfrenchbeginner "Twitch")
+- [Challonge bracket](https://challonge.com/CFB5 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -84,7 +84,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (100 MB)](https://mega.nz/file/60sgQJKD#U73uj7qnNAFxy-oGt5eoywfZ2HoQGvYydqp66IsAIas)**
+**[Download the mappack here! (100 MB)](https://mega.nz/file/60sgQJKD#U73uj7qnNAFxy-oGt5eoywfZ2HoQGvYydqp66IsAIas "MEGA")**
 
 - NoMod
   - [nanobii - HYPERDRIVE (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/639991#fruits/1357223)
@@ -113,7 +113,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (153 MB)](https://mega.nz/file/fht1VK4Z#V62hoGTeXt_xwx3l2lyr5-y__HPjXP8zqemT-cU1Vro)**
+**[Download the mappack here! (153 MB)](https://mega.nz/file/fht1VK4Z#V62hoGTeXt_xwx3l2lyr5-y__HPjXP8zqemT-cU1Vro "MEGA")**
 
 - NoMod
   - [Nitro Fun & Hyper Potions - Checkpoint (WildOne94) \[Rain Collab\]](https://osu.ppy.sh/beatmapsets/474216#fruits/1036560)
@@ -142,7 +142,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (71 MB)](https://mega.nz/file/fskHzYTC#MqwwN8JguUas6Psr-hHH8bZvylv5sNGz4gHS3jfgBYg)**
+**[Download the mappack here! (71 MB)](https://mega.nz/file/fskHzYTC#MqwwN8JguUas6Psr-hHH8bZvylv5sNGz4gHS3jfgBYg "MEGA")**
 
 - NoMod
   - [F-777 - Airborne Robots (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/419373#fruits/939929)
@@ -167,7 +167,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (112 MB)](https://mega.nz/file/Y09RTSIR#i3lacHMiY4TkHGG3kUlph73dvWd2Ilkz5xJWGpKnli8)**
+**[Download the mappack here! (112 MB)](https://mega.nz/file/Y09RTSIR#i3lacHMiY4TkHGG3kUlph73dvWd2Ilkz5xJWGpKnli8 "MEGA")**
 
 - NoMod
   - [Alfakyun. x Camellia - calling (alienflybot) \[Platter\]](https://osu.ppy.sh/beatmapsets/649285#fruits/1679478)
@@ -192,7 +192,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (80 MB)](https://mega.nz/file/xpkkFQIL#r7YabtaKEqGcJSRZfhhD-lsvPengCiaNI88th-WfglU)**
+**[Download the mappack here! (80 MB)](https://mega.nz/file/xpkkFQIL#r7YabtaKEqGcJSRZfhhD-lsvPengCiaNI88th-WfglU "MEGA")**
 
 - NoMod
   - [senya - Zetsubou no Fuchi (Ascendance) \[IDu5t's Platter\]](https://osu.ppy.sh/beatmapsets/762829#fruits/1871747)
@@ -318,7 +318,7 @@ Sunday, 24 January 2021:
 
 ### Qualifiers
 
-- More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)
+- More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing "Google Sheets")
 - Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 - Only the first 3 was categorised as top seed, since one of the participant was disqualified due to not met the screening phase criteria from osu! officials
 

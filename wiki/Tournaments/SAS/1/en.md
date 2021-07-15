@@ -45,10 +45,10 @@ The Score Attack Showdown was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1151413)
-- [SAS Discord server](https://discord.gg/DJ239vF)
-- [Livestream](https://www.twitch.tv/itsmestro)
-- [Score submission form](https://forms.gle/B5Rcy618hi5pwamq6)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0)**
+- [SAS Discord server](https://discord.gg/DJ239vF "Discord")
+- [Livestream](https://www.twitch.tv/itsmestro "Twitch")
+- [Score submission form](https://forms.gle/B5Rcy618hi5pwamq6 "Google Forms")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0 "Google Sheets")**
 
 ## Participants
 
@@ -204,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 5
 
-**[Download the mappack here! (35 MB)](https://cdn.discordapp.com/attachments/711778005399109687/780169704618721300/SAS_Round_5.zip)**
+**[Download the mappack here! (35 MB)](https://cdn.discordapp.com/attachments/711778005399109687/780169704618721300/SAS_Round_5.zip "Discord")**
 
 - Hybrid: [Camellia - B L A C K - R A Y (Toaph Daddy) \[D A R K - M A G I C I A N x1.05\]](https://osu.ppy.sh/beatmapsets/1306124#mania/2707896)
 - Tech: [Frums - Quantum Distress Signal (Valedict) \[Hysteria\]](https://osu.ppy.sh/beatmapsets/1233691#mania/2564612)
@@ -213,7 +213,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 4
 
-**[Download the mappack here! (30 MB)](https://cdn.discordapp.com/attachments/711778005399109687/777633478010339358/SAS_Round_4.zip)**
+**[Download the mappack here! (30 MB)](https://cdn.discordapp.com/attachments/711778005399109687/777633478010339358/SAS_Round_4.zip "Discord")**
 
 - Hybrid: [TRAELMYX - Late For Class! (HowToPlayLN) \[RuleNote don't want to make SV on this difficulty\]](https://osu.ppy.sh/beatmapsets/1279459#mania/2657939)
 - Tech: [3l3d3p - Ibitbt (Monheim) \[F4w4rD\]](https://osu.ppy.sh/beatmapsets/1287682#mania/2673545)
@@ -222,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 3
 
-**[Download the mappack here! (24 MB)](https://cdn.discordapp.com/attachments/711778005399109687/775098856210694233/SAS_Round_3.zip)**
+**[Download the mappack here! (24 MB)](https://cdn.discordapp.com/attachments/711778005399109687/775098856210694233/SAS_Round_3.zip "Discord")**
 
 - Hybrid: [s-don vs. Hino Isuka - Trrricksters!! (zero2snow) \[Nooonsense!!\]](https://osu.ppy.sh/beatmapsets/1294819#mania/2686701)
 - Tech: [Frums - Flashbacklog (Kamuy) \[\< flashback database to username sysdate - Dragolord;\>\]](https://osu.ppy.sh/beatmapsets/1294546#mania/2686268)
@@ -231,7 +231,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 2
 
-**[Download the mappack here! (27 MB)](https://cdn.discordapp.com/attachments/711778005399109687/772567150929641502/SAS_Round_2.zip)**
+**[Download the mappack here! (27 MB)](https://cdn.discordapp.com/attachments/711778005399109687/772567150929641502/SAS_Round_2.zip "Discord")**
 
 - Hybrid: [plusol - Angel Temple (BringoBrango) \[Ascension (SAS edit)\]](https://osu.ppy.sh/beatmapsets/1286284#mania/2670767)
 - Tech: [Kola Kid - spaceman (cut) (Vortex-) \[I always wanted you to go, into space man (1.1x)\]](https://osu.ppy.sh/beatmapsets/1290983#mania/2679801)
@@ -240,7 +240,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 1
 
-**[Download the mappack here! (20 MB)](https://cdn.discordapp.com/attachments/711916285746872412/770020679361232896/SAS_Round_1.zip)**
+**[Download the mappack here! (20 MB)](https://cdn.discordapp.com/attachments/711916285746872412/770020679361232896/SAS_Round_1.zip "Discord")**
 
 - Hybrid: [WEDNESDAY CAMPANELLA - Shakushain (Penguinosity) \[Shakushaku\]](https://osu.ppy.sh/beatmapsets/1282584#mania/2663884)
 - Tech: [Ben Briggs - Fearless Living (RuleBlazing) \[Coward\]](https://osu.ppy.sh/beatmapsets/1283930#mania/2666220)
@@ -249,7 +249,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-*Note: All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0).*
+*Note: All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0 "Google Sheets").*
 
 ### Round 5
 

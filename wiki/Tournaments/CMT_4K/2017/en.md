@@ -45,7 +45,7 @@ The Chinese osu!mania 4K Tournament 2017 was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/576970)
 - Livestream
-  - bilibili: [aiyulu](http://live.bilibili.com/10183 "bilibili") (primary), [Ookura Asahi](http://live.bilibili.com/272810 "bilibili") (secondary), [Rasis](http://live.bilibili.com/5333 "bilibili") (backup)
+  - bilibili: [aiyulu](http://live.bilibili.com/10183 "Bilibili") (primary), [Ookura Asahi](http://live.bilibili.com/272810 "Bilibili") (secondary), [Rasis](http://live.bilibili.com/5333 "Bilibili") (backup)
   - Twitch: [aiyulu](https://www.twitch.tv/aiyulu "Twitch")
 
 ## Participants

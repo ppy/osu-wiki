@@ -53,10 +53,10 @@ The Indonesian Draft Cup 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1106483)
-- [IDC Discord server](https://discord.gg/bby6fb4)
-- [Livestream](https://www.twitch.tv/indonesiandraftcup)
-- [Challonge brackets](https://challonge.com/IDC2020)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1J4oyeduWhhzlY3EWCFFgCJcn2YX31Olx9nIv1EH6fVY/edit#gid=1979938068)**
+- [IDC Discord server](https://discord.gg/bby6fb4 "Discord")
+- [Livestream](https://www.twitch.tv/indonesiandraftcup "Twitch")
+- [Challonge brackets](https://challonge.com/IDC2020 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1J4oyeduWhhzlY3EWCFFgCJcn2YX31Olx9nIv1EH6fVY/edit#gid=1979938068 "Google Sheets")**
 
 ## Participants
 
@@ -92,7 +92,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (167 MB)](https://drive.google.com/file/d/12fpUUOBnXRrnIpp8f6Lv07Z-3LHJ9Nlt/view?usp=sharing)**
+**[Download the mappack here! (167 MB)](https://drive.google.com/file/d/12fpUUOBnXRrnIpp8f6Lv07Z-3LHJ9Nlt/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [AliA - joker (Nelliel) \[extreme\]](https://osu.ppy.sh/beatmapsets/1121435#osu/2417473)
@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1Sb50vvbOkCIrukO1we8bn--uyTIXA3HP/view?usp=sharing)**
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1Sb50vvbOkCIrukO1we8bn--uyTIXA3HP/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [TUYU - Namikare (jonathanlfj) \[Superior\]](https://osu.ppy.sh/beatmapsets/1174754#osu/2450295)
@@ -154,7 +154,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (162 MB)](https://zaslvaski.s-ul.eu/aAYcIBlG)**
+**[Download the mappack here! (162 MB)](https://zaslvaski.s-ul.eu/aAYcIBlG "s-ul")**
 
 - NoMod
   - [Wake up, May'n! - One In A Billion (Rizia) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/647652#osu/1372222)
@@ -185,7 +185,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1kUorQCDu5amiHHbSauLpgm1EQf0CR8oZ/view?usp=sharing)**
+**[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1kUorQCDu5amiHHbSauLpgm1EQf0CR8oZ/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [BUTA-OTOME - Blue Fireworks (BarkingMadDog) \[Reminiscence\]](https://osu.ppy.sh/beatmapsets/716455#osu/1513645)
@@ -216,7 +216,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (119 MB)](https://drive.google.com/file/d/1GG2fBrRe2W51J2Jp4uIp0WXWE0O2ZV8R/view?usp=sharing)**
+**[Download the mappack here! (119 MB)](https://drive.google.com/file/d/1GG2fBrRe2W51J2Jp4uIp0WXWE0O2ZV8R/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Hazuki - Uso to Shinjitsu (Akitoshi) \[Hallucination\]](https://osu.ppy.sh/beatmapsets/1079281#osu/2258127)

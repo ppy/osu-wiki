@@ -52,12 +52,10 @@ The Catch French Cup 3 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/790099)
-- [CFC Discord server](https://discord.gg/3DewaX8)
-- [Challonge brackets](https://osucfc.challonge.com/CFC3)
-- [Livestream](https://www.twitch.tv/osufrlive)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrn8KpDeTO124_IgETpDPOBkI0WGVcvi0KEL0iyeJyxsXGE-3HaHRzIWHLk4llJ1_jEYcshD9ynRG-/pubhtml)**
-
----
+- [CFC Discord server](https://discord.gg/3DewaX8 "Discord")
+- [Challonge brackets](https://osucfc.challonge.com/CFC3 "Challonge")
+- [Livestream](https://www.twitch.tv/osufrlive "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrn8KpDeTO124_IgETpDPOBkI0WGVcvi0KEL0iyeJyxsXGE-3HaHRzIWHLk4llJ1_jEYcshD9ynRG-/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -81,8 +79,6 @@ The Catch French Cup 3 was run by various community members.
 | **G** | ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381) | ![][flag_FR] [GyraFanBoy](https://osu.ppy.sh/users/8417565) | ![][flag_MA] [l3ssili](https://osu.ppy.sh/users/12123746) | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) |
 | **H** | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Mnemosyne](https://osu.ppy.sh/users/9255433) | ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) | ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -93,13 +89,11 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
 
----
-
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (208 MB)](https://mega.nz/#!F0VnDI4Y!713WV_v7hXdZ5DrxvrBcaLDotXDE8b4MfyZwfr_5FVk)**
+**[Download the mappack here! (208 MB)](https://mega.nz/#!F0VnDI4Y!713WV_v7hXdZ5DrxvrBcaLDotXDE8b4MfyZwfr_5FVk "MEGA")**
 
 - NoMod
   - [Various Artists - Dan \~ CTB \~ SpeedMap Pack (Minato Yukina) \[MG277 \~ Ghimel \~ (Marathon) \]](https://osu.ppy.sh/beatmapsets/696969#fruits/1476212)
@@ -128,7 +122,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**Download the mappack here! (109 MB) - [MEGA](https://mega.nz/#!A4NAjaAB!ahgmIcnS80ez54YV8Dwj-17mdr0wVAcpHxDKQ-41uL0) - [Direct Link](https://htfarmingiscool.s-ul.eu/4EIzRPpJ)**
+**Download the mappack here! (109 MB) - [MEGA](https://mega.nz/#!A4NAjaAB!ahgmIcnS80ez54YV8Dwj-17mdr0wVAcpHxDKQ-41uL0 "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/4EIzRPpJ "s-ul")**
 
 - NoMod
   - [Memme - Barrier (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/768255#fruits/1615696)
@@ -157,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**Download the mappack here! (132 MB) - [MEGA](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0) - [Direct Link](https://htfarmingiscool.s-ul.eu/mPP3dZxS)**
+**Download the mappack here! (132 MB) - [MEGA](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0 "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/mPP3dZxS "s-ul")**
 
 - NoMod
   - [Camellia - Routing (Kyuare) \[Transcend\]](https://osu.ppy.sh/beatmapsets/553117#fruits/1171237)
@@ -186,7 +180,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**Download the mappack here! (77 MB) - [MEGA](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0) - [Direct Link](https://htfarmingiscool.s-ul.eu/moaRrjjg)**
+**Download the mappack here! (77 MB) - [MEGA](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0 "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/moaRrjjg "s-ul")**
 
 - NoMod
   - [Ocelot - KAEDE (Minato Yukina) \[Transcendence\]](https://osu.ppy.sh/beatmapsets/820738#fruits/1720378)
@@ -210,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**Download the mappack here! (79 MB) - [MEGA](https://mega.nz/#!J5lhQSDZ!f2fjBiEA29o9g_Jo45lJYTStLFVXN7hNHf87_78B648) - [Direct Link](https://htfarmingiscool.s-ul.eu/XrUnjAK5.)**
+**Download the mappack here! (79 MB) - [MEGA](https://mega.nz/#!J5lhQSDZ!f2fjBiEA29o9g_Jo45lJYTStLFVXN7hNHf87_78B648 "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/XrUnjAK5. "s-ul")**
 
 - NoMod
   - [Qrispy Joybox - licca (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/307837#fruits/688568)
@@ -234,7 +228,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (61 MB)](https://mega.nz/#!wpkQTI5S!Vv6YZ2uUaoQ_hcJ1Rc9is6J3xUqF-7zBfIF-Rbh-E1M)**
+**[Download the mappack here! (61 MB)](https://mega.nz/#!wpkQTI5S!Vv6YZ2uUaoQ_hcJ1Rc9is6J3xUqF-7zBfIF-Rbh-E1M "MEGA")**
 
 - NoMod
   - [Mili - world.execute(me); (Spectator) \[love\]](https://osu.ppy.sh/beatmapsets/683528#fruits/1445720)
@@ -252,8 +246,6 @@ This competition has come to an end and resulted in the following podium:
   - [Memme - Force of Ra (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/573479#fruits/1214852)
 - Tiebreaker
   - **[CLIFF EDGE - Sayonara I Love You feat. jyA-Me (Minato Yukina) \[Farewell Words\]](https://osu.ppy.sh/beatmapsets/493754#fruits/1051483)**
-
----
 
 ## Match results
 
@@ -422,8 +414,6 @@ Sunday, 16 September 2018:
 | H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Astreachan** | [#1](https://osu.ppy.sh/community/matches/46011327) |
 | H | Astreachan ![][flag_FR] | 2 | **3** | ![][flag_FR] **Mnemosyne** | [#1](https://osu.ppy.sh/community/matches/46012156) |
 
----
-
 ## Ruleset
 
 ### General rules
@@ -444,10 +434,10 @@ Sunday, 16 September 2018:
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_MA]: /wiki/shared/flag/MA.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"

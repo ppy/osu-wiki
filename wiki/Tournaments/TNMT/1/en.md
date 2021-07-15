@@ -50,16 +50,16 @@ All prizes were sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/933542)
-- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfq_yw61wfi9NyLxmTvBDw-rzwyqsYYHt_5udh5pMmX0iPQdA/viewform "Google Sheets")
+- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfq_yw61wfi9NyLxmTvBDw-rzwyqsYYHt_5udh5pMmX0iPQdA/viewform "Google Forms")
 - [Statistics sheet](https://docs.google.com/spreadsheets/d/10sproN_2SQWUi6BZ4Sv9wlx0I5-i0hEBq7wqqWrlJdQ "Google Sheets")
 - [Challonge brackets](https://challonge.com/TNMT "Challonge")
 - [Discord server](https://discord.gg/nxWEjpW "Discord")
 - [QQ group](https://jq.qq.com/?_wv=1027&k=5XdDR3K "QQ")
 - Livestream
   - [Official Twitch](https://www.twitch.tv/thonkingtourney "Twitch")
-  - [IA daisuki](https://live.bilibili.com/4353181 "bilibili")
-  - [kj415j45](https://okinawa.loli.land/live "bilibili")
-  - [Rasis](https://live.bilibili.com/5333 "bilibili")
+  - [IA daisuki](https://live.bilibili.com/4353181 "Bilibili")
+  - [kj415j45](https://okinawa.loli.land/live "Bilibili")
+  - [Rasis](https://live.bilibili.com/5333 "Bilibili")
   - [Sinaeb](https://www.twitch.tv/sinbae_ "Twitch")
   - [Logan636](https://www.twitch.tv/logan_636 "Twitch")
 

@@ -58,14 +58,14 @@ The 4 Digit osu!mania World Cup 3 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1200374)
-- [4DM Discord server](https://discord.gg/NzYtsxV)
-- [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
-- [Livestream](https://twitch.tv/4digitmwc)
-- [Tournament bracket](https://braacket.com/tournament/4DMWC3)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/51) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [4DM Discord server](https://discord.gg/NzYtsxV "Discord")
+- [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg "YouTube")
+- [Livestream](https://twitch.tv/4digitmwc "Twitch")
+- [Tournament bracket](https://braacket.com/tournament/4DMWC3 "Braacket")
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/51 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - Spreadsheet
-  - **[Master](https://docs.google.com/spreadsheets/d/11tS0vFpRvbPrSxpthDwGArknxhD4l5jnGEGPjgo_KOs)**
-  - [Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNTyDH-my-sYwG4FLI6Oll8ApNkp6SrXcQusAUtqy9JxZ0Y8y22KKX_ApgdmEjf8TO6dB8zTTpF92k/pubhtml)
+  - **[Master](https://docs.google.com/spreadsheets/d/11tS0vFpRvbPrSxpthDwGArknxhD4l5jnGEGPjgo_KOs "Google Sheets")**
+  - [Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNTyDH-my-sYwG4FLI6Oll8ApNkp6SrXcQusAUtqy9JxZ0Y8y22KKX_ApgdmEjf8TO6dB8zTTpF92k/pubhtml "Google Sheets")
 
 ## Participants
 
@@ -133,7 +133,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (149 MB)](https://www.dropbox.com/s/me29a4lxwd9wj6i/4DM3%20GF%20Map%20Pack.zip?dl=1)**
+**[Download the mappack here! (149 MB)](https://www.dropbox.com/s/me29a4lxwd9wj6i/4DM3%20GF%20Map%20Pack.zip?dl=1 "Dropbox")**
 
 - FreeMod
   - [Pierce The Veil - Bulletproof Love (Shoegazer) \[Loveless\]](https://osu.ppy.sh/beatmapsets/559456#mania/1183195)
@@ -156,7 +156,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (137 MB)](https://www.dropbox.com/s/gobk6mwmk1lk7jf/4DM3%20F%20Map%20Pack.zip?dl=1)**
+**[Download the mappack here! (137 MB)](https://www.dropbox.com/s/gobk6mwmk1lk7jf/4DM3%20F%20Map%20Pack.zip?dl=1 "Dropbox")**
 
 - FreeMod
   - [Betwixt & Between - 12 little fragments of silence (Shoegazer) \[absolution 1.05x (231bpm)\]](https://osu.ppy.sh/beatmapsets/905867#mania/2784535)
@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (124 MB)](https://www.dropbox.com/s/tqg8d49cgfaasu7/4DM3%20SF%20Map%20Pack.zip?dl=1)**
+**[Download the mappack here! (124 MB)](https://www.dropbox.com/s/tqg8d49cgfaasu7/4DM3%20SF%20Map%20Pack.zip?dl=1 "Dropbox")**
 
 - FreeMod
   - [Ata - Euphoria (Joueur 1) \[Endless Elation\]](https://osu.ppy.sh/beatmapsets/614494#mania/1296286)
@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (124 MB)](https://www.dropbox.com/s/21bfkbkpkwunxat/4DM3%20QF%20Map%20Pack.zip?dl=1)**
+**[Download the mappack here! (124 MB)](https://www.dropbox.com/s/21bfkbkpkwunxat/4DM3%20QF%20Map%20Pack.zip?dl=1 "Dropbox")**
 
 - FreeMod
   - [Feryquitous - Akzeriyyuth (Elekton) \[cruelty\]](https://osu.ppy.sh/beatmapsets/670112#mania/1417369)
@@ -217,7 +217,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (103 MB)](https://www.dropbox.com/s/ugcyazfd26zh670/4DM3%20RO16%20Map%20Pack.zip?dl=1)**
+**[Download the mappack here! (103 MB)](https://www.dropbox.com/s/ugcyazfd26zh670/4DM3%20RO16%20Map%20Pack.zip?dl=1 "Dropbox")**
 
 - FreeMod
   - [Blitz Lunar - Electra Vulva (riktoi) \[edit\]](https://osu.ppy.sh/beatmapsets/842914#mania/2796156)
@@ -236,7 +236,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (50 MB)](https://cdn.discordapp.com/attachments/796521304357470268/803376289625014333/4DM3_GS_Map_Pack.zip)**
+**[Download the mappack here! (50 MB)](https://cdn.discordapp.com/attachments/796521304357470268/803376289625014333/4DM3_GS_Map_Pack.zip "Discord")**
 
 - FreeMod
   - [Draw the Emotional & Foreground Eclipse - Stay by my side (Herkkupala) \[Hard\]](https://osu.ppy.sh/beatmapsets/447784#mania/961240)
@@ -253,7 +253,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (25 MB)](https://cdn.discordapp.com/attachments/796521304357470268/799964988508733500/4DM3_Q_Map_Pack.rar)**
+**[Download the mappack here! (25 MB)](https://cdn.discordapp.com/attachments/796521304357470268/799964988508733500/4DM3_Q_Map_Pack.rar "Discord")**
 
 - FreeMod
   - [Sound Souler - Blackorient (DannyPX) \[Stage 1: Black Rose\]](https://osu.ppy.sh/beatmapsets/1349422#mania/2793977)
@@ -412,7 +412,7 @@ Sunday, 31 January 2021:
 
 ### Qualifiers
 
-- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNTyDH-my-sYwG4FLI6Oll8ApNkp6SrXcQusAUtqy9JxZ0Y8y22KKX_ApgdmEjf8TO6dB8zTTpF92k/pubhtml)
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNTyDH-my-sYwG4FLI6Oll8ApNkp6SrXcQusAUtqy9JxZ0Y8y22KKX_ApgdmEjf8TO6dB8zTTpF92k/pubhtml "Google Sheets")
 - Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 - Only the top 32 team proceeded to the Group Stage
 

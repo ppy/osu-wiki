@@ -49,9 +49,9 @@ The North American Taiko Tournament 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/769107)
-- [Livestream](https://www.twitch.tv/osutaikolive)
-- [Challonge bracket](https://challonge.com/NATT2018)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSY7o2krAotf6bOo8pImth_2NBNtjjsKxuKFeW6HxTyyBsk87BEz0V8VZ6O9_bQxh8MnaPTdOrP8T5w/pubhtml)**
+- [Livestream](https://www.twitch.tv/osutaikolive "Twitch")
+- [Challonge bracket](https://challonge.com/NATT2018 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSY7o2krAotf6bOo8pImth_2NBNtjjsKxuKFeW6HxTyyBsk87BEz0V8VZ6O9_bQxh8MnaPTdOrP8T5w/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -89,13 +89,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (71 MB)](https://www.dropbox.com/s/lqgbst12fv5y2u7/NATT%202018%20GF.rar)**
+**[Download the mappack here! (71 MB)](https://www.dropbox.com/s/lqgbst12fv5y2u7/NATT%202018%20GF.rar "Dropbox")**
 
 - NoMod
   - [The Flashbulb - Chik Habit (incandescence) \[Raidcore\]](https://osu.ppy.sh/beatmapsets/827049#taiko/1733135)
   - [TangJuan Vs Black Box - Xetta (Nishizumi) \[Oni\]](https://osu.ppy.sh/beatmapsets/811482/%23taiko/1702251)
   - [Igorrr - Cheval (yopohapan) \[Gallop\]](https://osu.ppy.sh/beatmapsets/656130#taiko/1390258)
-  - [Xenon - ?63HiiraossHuikgoeH53? (-Kazu-) \[?InnerrOnI? (NATT Ver.)\]](https://puu.sh/BkVVT/1c1a03a78c.osz)
+  - [Xenon - ?63HiiraossHuikgoeH53? (-Kazu-) \[?InnerrOnI? (NATT Ver.)\]](https://puu.sh/BkVVT/1c1a03a78c.osz "puush")
   - [3034 - NS18 (Inner Stamina+) \[\_Rise\]](https://osu.ppy.sh/beatmapsets/508943#taiko/1082389)
 - Hidden
   - [PHQUASE - Plain Asia -PHQ remix- (TKS) \[Lunatic Asia\]](https://osu.ppy.sh/beatmapsets/737935#taiko/1557323)
@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   - [An - artcore JINJA (SKSalt) \[Wrath Oni\]](https://osu.ppy.sh/beatmapsets/198600#taiko/471176)
-  - [katagiri - Katagiri Catch Ball (rezi888) \[TAIKO.WAV \[NATT Ver.\]\]](https://drive.google.com/uc?id=1p1PbqEYVHw_KgCP3fqpLAPQv3TbrRLZB)
+  - [katagiri - Katagiri Catch Ball (rezi888) \[TAIKO.WAV \[NATT Ver.\]\]](https://drive.google.com/uc?id=1p1PbqEYVHw_KgCP3fqpLAPQv3TbrRLZB "Google Drive")
   - [Risuko, Mona from STAR\*ANIS - Otona Mode [YUC'e Remix] (hoku) \[twinkle night ^z^\]](https://osu.ppy.sh/beatmapsets/804530#taiko/1688880)
   - [Melt-Banana - The Hive (Zetera) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/694436#taiko/2346971)
   - [REOL - DetaramE KiddinG (tkdLolly) \[TaikO\]](https://osu.ppy.sh/beatmapsets/790656#taiko/1658966)
@@ -163,16 +163,16 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (80 MB)](https://drive.google.com/uc?id=19lLzrZ95rAxyhtS6t44Bd9YVS0ozC_f_)**
+**[Download the mappack here! (80 MB)](https://drive.google.com/uc?id=19lLzrZ95rAxyhtS6t44Bd9YVS0ozC_f_ "Google Drive")**
 
 - NoMod
   - [LeaF - Chronostasis (DakeDekaane) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/193469#taiko/566347)
   - [Tatsh - THE SUN (Osamix) \[yzrin's SURVIVAL\]](https://osu.ppy.sh/beatmapsets/499614#taiko/1066202)
   - [cosMo@Bousou-P - The Real Disappearance of Hatsune Miku (thika1432) \[Yuni's Hell Oni\]](https://osu.ppy.sh/beatmapsets/489791#taiko/1043960)
   - [Sara - Natu iro Present Wo BPM180 Ni Shitemita (asuasu_yura) \[Special\]](https://osu.ppy.sh/beatmapsets/506844#taiko/1078077)
-  - [Toromaru - Shounen wa Sora wo Tadoru Prog Piano Remix (-\[ ix Ishida xi \]-) \[-\[ ix Taiko xi \]- (NATT Ver.)\]](http://puu.sh/B9lWf/2b353d1cb1.osz)
+  - [Toromaru - Shounen wa Sora wo Tadoru Prog Piano Remix (-\[ ix Ishida xi \]-) \[-\[ ix Taiko xi \]- (NATT Ver.)\]](http://puu.sh/B9lWf/2b353d1cb1.osz "puush")
 - Hidden
-  - [Boogie Belgique - Piccadilly (lazyboy007) \[West End (NATT Ver.)\]](https://puu.sh/B7MKd/578642611a.osz)
+  - [Boogie Belgique - Piccadilly (lazyboy007) \[West End (NATT Ver.)\]](https://puu.sh/B7MKd/578642611a.osz "puush")
   - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (xfraczynho) \[Final Oni\]](https://osu.ppy.sh/beatmapsets/682914#taiko/1444126)
 - HardRock
   - [Paramore - Anklebiters (Priti) \[Expert Collab\]](https://osu.ppy.sh/beatmapsets/227990#taiko/545965)
@@ -189,7 +189,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (102 MB)](https://www.dropbox.com/s/jxwcyc6razyjpor/ro16%20mappack.zip)**
+**[Download the mappack here! (102 MB)](https://www.dropbox.com/s/jxwcyc6razyjpor/ro16%20mappack.zip "Dropbox")**
 
 - NoMod
   - [Furby@NineMusez - Mousou Express (JUDYDANNY) \[Kano's Inner Oni\]](https://osu.ppy.sh/beatmapsets/329416#taiko/730412)
@@ -201,8 +201,8 @@ This competition has come to an end and resulted in the following podium:
   - [Aire - Peperoncino (S o h) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/639361#taiko/1356039)
   - [USAO - Extra Mode (DJ Myosuke Remix) (jyake) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/692594#taiko/1465550)
 - HardRock
-  - [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Taiko (NATT ver.)\]](https://puu.sh/ASKdc/e14372a56e.osz)
-  - [Getty - Pump It (yea) \[Lunatic Oni (NATT Edition)\]](https://puu.sh/B5pI6/a243544b90.osz)
+  - [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Taiko (NATT ver.)\]](https://puu.sh/ASKdc/e14372a56e.osz "puush")
+  - [Getty - Pump It (yea) \[Lunatic Oni (NATT Edition)\]](https://puu.sh/B5pI6/a243544b90.osz "puush")
 - DoubleTime
   - [Cranky - X-Y-Z (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/493654#taiko/1052245)
   - [FELT - Day after (Senritsu) \[Oni\]](https://osu.ppy.sh/beatmapsets/323180#taiko/718430)
@@ -273,7 +273,7 @@ Saturday, 18 August 2018:
 | **Catgirl** ![][flag_US] | **5** | 2 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/45197263) |
 | **yea** ![][flag_US] | **5** | 1 | ![][flag_US] Brames | [#1](https://osu.ppy.sh/community/matches/45201244) |
 | Shyguy ![][flag_US] | 3 | **5** | ![][flag_US] **closed** | [#1](https://osu.ppy.sh/community/matches/45202941) |
-| **Loopy542** ![][flag_US] | **5**  | 2 | ![][flag_US] jyake\_ou | [#1](https://osu.ppy.sh/community/matches/45203685) |
+| **Loopy542** ![][flag_US] | **5** | 2 | ![][flag_US] jyake\_ou | [#1](https://osu.ppy.sh/community/matches/45203685) |
 
 Sunday, 19 August 2018:
 
@@ -326,7 +326,7 @@ Sunday, 5 August 2018:
 
 ### Group Stage
 
-Complete Group Stage match results can be accessed through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSY7o2krAotf6bOo8pImth_2NBNtjjsKxuKFeW6HxTyyBsk87BEz0V8VZ6O9_bQxh8MnaPTdOrP8T5w/pubhtml)
+Complete Group Stage match results can be accessed through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSY7o2krAotf6bOo8pImth_2NBNtjjsKxuKFeW6HxTyyBsk87BEz0V8VZ6O9_bQxh8MnaPTdOrP8T5w/pubhtml "Google Sheets")
 
 ## Ruleset
 

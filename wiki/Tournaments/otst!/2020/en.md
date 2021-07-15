@@ -51,10 +51,10 @@ The osu! TV Size Tournament 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1019183)
-- [otst! Discord server](https://discord.gg/5URXJxU)
-- [Livestream](https://twitch.tv/osu_otst)
-- [Challonge brackets](https://challonge.com/otst2020)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit?usp=sharing)**
+- [otst! Discord server](https://discord.gg/5URXJxU "Discord")
+- [Livestream](https://twitch.tv/osu_otst "Twitch")
+- [Challonge brackets](https://challonge.com/otst2020 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -120,7 +120,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1FRGj76LSac4v5hgAS6mW7cTpNTLJR0BH/view)**
+**[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1FRGj76LSac4v5hgAS6mW7cTpNTLJR0BH/view "Google Drive")**
 
 - NoMod
   - [DJ TOTTO - Shoujo alice to hakoniwa gensou concerto (lahphnya) \[Ar9.5\]](https://osu.ppy.sh/beatmapsets/568321#osu/1204535)
@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (86 MB)](https://drive.google.com/file/d/1gWsKDGdbG8oW7cusmnvdngBiLa4pgkSh/view)**
+**[Download the mappack here! (86 MB)](https://drive.google.com/file/d/1gWsKDGdbG8oW7cusmnvdngBiLa4pgkSh/view "Google Drive")**
 
 - NoMod
   - [toby fox - Spider Dance (Fatfan Kolek) \[Kyshiro's Genocide\]](https://osu.ppy.sh/beatmapsets/750458#osu/1587275)
@@ -181,7 +181,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bxHpQLc6RKX1TP7XAgW9J08LDBzjAg1g/view)**
+**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bxHpQLc6RKX1TP7XAgW9J08LDBzjAg1g/view "Google Drive")**
 
 - NoMod
   - [Shiggy Jr. - oyasumi (Jval93700) \[-Hwangbo's Kimochi\]](https://osu.ppy.sh/beatmapsets/832247#osu/1761351)
@@ -211,7 +211,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/13ZPRDcUtZX-ePwOIFQ8aqB9G2nxK_Usw/view)**
+**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/13ZPRDcUtZX-ePwOIFQ8aqB9G2nxK_Usw/view "Google Drive")**
 
 - NoMod
   - [BUTA-OTOME - Heisei Kaisei Dottenshan (BarkingMadDog) \[SHOOTING STAR\]](https://osu.ppy.sh/beatmapsets/724942#osu/1530772)
@@ -241,7 +241,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (96 MB)](https://drive.google.com/file/d/16zDfpKcdpQYaBQonxeQOpfWB_Ih3ck1d/view)**
+**[Download the mappack here! (96 MB)](https://drive.google.com/file/d/16zDfpKcdpQYaBQonxeQOpfWB_Ih3ck1d/view "Google Drive")**
 
 - NoMod
   - [BUTAOTOME - Gensou no Satellite (Ascendance) \[Extra\]](https://osu.ppy.sh/beatmapsets/982405#osu/2056031)
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (62 MB)](https://drive.google.com/file/d/1Qkccr-FZRjsEdh8S_4-0-TODlbtjWZrW/view)**
+**[Download the mappack here! (62 MB)](https://drive.google.com/file/d/1Qkccr-FZRjsEdh8S_4-0-TODlbtjWZrW/view "Google Drive")**
 
 - NoMod
   - [Coda - Fighting Gold (TV Size) (hypercyte) \[Gold Experience\]](https://osu.ppy.sh/beatmapsets/862547#osu/1804239)
@@ -293,7 +293,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (36 MB)](https://drive.google.com/file/d/1YdFY-9jP9Iqntoim1sMKSr9j-ejpmFIb/view)**
+**[Download the mappack here! (36 MB)](https://drive.google.com/file/d/1YdFY-9jP9Iqntoim1sMKSr9j-ejpmFIb/view "Google Drive")**
 
 - NoMod
   - [Sound Souler - Aqua Stars (Azzedd) \[Extra\]](https://osu.ppy.sh/beatmapsets/942425#osu/1967947)
@@ -495,7 +495,7 @@ Sunday, 8 March 2020:
 | #44 | Wuhan | 20.76% |
 | #45 | Kirby's | 15.99% |
 
-- More detailed qualifiers results can be accessed via the [statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit#gid=1899100973)
+- More detailed qualifiers results can be accessed via the [statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit#gid=1899100973 "Google Sheets")
 - Rate is determined by `1 - (max avg. score - team avg. score) / (99.5th percentile of all scores) ^ 1.3`
 - Only the top 32 teams can proceed to the knockout stage
 

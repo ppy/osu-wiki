@@ -45,7 +45,7 @@ The Taiko World Cup 2011 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/47356)
-- **[Statistics sheet](https://spreadsheets.google.com/ccc?key=0Aozv0NW718V1dGpOTlAxbnZndXh2QkM2MFdUUUJ5cVE&hl=en&authkey=CNv6phk)**
+- **[Statistics sheet](https://spreadsheets.google.com/ccc?key=0Aozv0NW718V1dGpOTlAxbnZndXh2QkM2MFdUUUJ5cVE&hl=en&authkey=CNv6phk "Google Sheets")**
 
 ## Participants
 

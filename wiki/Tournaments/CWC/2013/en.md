@@ -47,8 +47,8 @@ The osu! Catch the Beat World Cup 2013 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/106684)
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet](https://owc.nicarim.pw/results/view/5)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Statistics sheet](https://owc.nicarim.pw/results/view/5 "Nicarim")**
 
 ## Participants
 
@@ -132,7 +132,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (134 MB)](http://www.mediafire.com/?7fc0ub0yj6yfsc9)**
+**[Download the mappack here! (134 MB)](http://www.mediafire.com/?7fc0ub0yj6yfsc9 "MediaFire")**
 
 - NoMod
   - [44teru-k remixed wa. - Higanbana Daini -Shuusei no Lycoris- (soulfear) \[Fear\]](https://osu.ppy.sh/beatmapsets/38966#fruits/124512)
@@ -156,7 +156,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (111 MB)](http://www.mediafire.com/?y5jfe4fn5zc0xnl)**
+**[Download the mappack here! (111 MB)](http://www.mediafire.com/?y5jfe4fn5zc0xnl "MediaFire")**
 
 - NoMod
   - [Glutamine - Babylon (CSY the corrupt) \[Corruption\]](https://osu.ppy.sh/beatmapsets/35992#fruits/145118)
@@ -221,7 +221,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 2
 
-**[Download the mappack here! (88 MB)](http://www.mediafire.com/?o5szwa4mxt4juh1)**
+**[Download the mappack here! (88 MB)](http://www.mediafire.com/?o5szwa4mxt4juh1 "MediaFire")**
 
 - NoMod
   - [IA - Six Trillion Years and Overnight Story (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/51245#fruits/158662)
@@ -244,7 +244,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 1
 
-**[Download the mappack here!](http://dkun.us/cwcpool1.zip)**
+**[Download the mappack here!](http://dkun.us/cwcpool1.zip "dkun")**
 
 - NoMod
   - [Chata - Koisuru Otome (hoLysoup) \[Insane\]](https://osu.ppy.sh/beatmapsets/36274#fruits/117236)

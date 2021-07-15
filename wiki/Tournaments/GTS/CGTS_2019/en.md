@@ -76,17 +76,17 @@ The Continental Global Taiko Showdown 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/960704)
-- [GTS Discord server](https://discord.gg/3mGC3HBH)
-- [GTS website](https://gtsosu.com/)
-- [Livestream](https://www.twitch.tv/gtsosu)
+- [GTS Discord server](https://discord.gg/3mGC3HBH "Discord")
+- [GTS website](https://gtsosu.com/ "GTS")
+- [Livestream](https://www.twitch.tv/gtsosu "Twitch")
 - Challonge brackets
-  - [Global phase](https://challonge.com/CGTS4v4)
-  - [Asia](https://challonge.com/CGTSAsia)
-  - [Europe](https://challonge.com/CGTSEurope)
-  - [North America](https://challonge.com/CGTSNA)
-  - [Oceania/South East Asia](https://challonge.com/CGTSOSEA)
-  - [South America](https://challonge.com/CGTSSA)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1TI489-a5T_H8gpOjoryV4jYFa4awsKFAreUav3vYXKE/edit)**
+  - [Global phase](https://challonge.com/CGTS4v4 "Challonge")
+  - [Asia](https://challonge.com/CGTSAsia "Challonge")
+  - [Europe](https://challonge.com/CGTSEurope "Challonge")
+  - [North America](https://challonge.com/CGTSNA "Challonge")
+  - [Oceania/South East Asia](https://challonge.com/CGTSOSEA "Challonge")
+  - [South America](https://challonge.com/CGTSSA "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1TI489-a5T_H8gpOjoryV4jYFa4awsKFAreUav3vYXKE/edit "Google Sheets")**
 
 ## Participants
 
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Finals
 
-**[Download the map pack here! (109 MB)](https://mega.nz/#!F99XEayZ!-Y71JZglSVBQelrznYK1g60Y6GGVZgXM-8ScxeKz5ks)**
+**[Download the map pack here! (109 MB)](https://mega.nz/#!F99XEayZ!-Y71JZglSVBQelrznYK1g60Y6GGVZgXM-8ScxeKz5ks "MEGA")**
 
 - NoMod
   - [xi - Blue Zenith (Faputa) \[Amplitude\]](https://osu.ppy.sh/beatmapsets/1008969#taiko/2112246)
@@ -237,7 +237,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the map pack here! (92 MB)](https://mega.nz/#!whkTGa7Q!mOZr5Z28hWzcYlnTSggeKgqYgsu9pikerZlTE_a8cGk)**
+**[Download the map pack here! (92 MB)](https://mega.nz/#!whkTGa7Q!mOZr5Z28hWzcYlnTSggeKgqYgsu9pikerZlTE_a8cGk "MEGA")**
 
 - NoMod
   - [Kobaryo - The Lightning Sword (DarkVortex) \[Relentless Oni\]](https://osu.ppy.sh/beatmapsets/986741#taiko/2064205)
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the map pack here! (100 MB)](https://mega.nz/#!NxUgTCyB!dta67Igzg7Vo1zlrSzUzIHtjEx3rBt7symJwOLHv50E)**
+**[Download the map pack here! (100 MB)](https://mega.nz/#!NxUgTCyB!dta67Igzg7Vo1zlrSzUzIHtjEx3rBt7symJwOLHv50E "MEGA")**
 
 - NoMod
   - [tobato - Digital(ooooooop) Tattoo (7\_7) \[Taiko(oooooooo)\]](https://osu.ppy.sh/beatmapsets/921770#taiko/1924891)
@@ -297,7 +297,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the map pack here! (25 MB)](https://puu.sh/EWRv2/b01edb66ab.zip)**
+**[Download the map pack here! (25 MB)](https://puu.sh/EWRv2/b01edb66ab.zip "puush")**
 
 - NoMod
   - [t+pazolite - Muzik Overload (incandescence) \[Overamplification\]](https://osu.ppy.sh/beatmapsets/752325#taiko/1583809)
@@ -313,7 +313,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Finals
 
-**[Download the map pack here! (113 MB)](https://mega.nz/#!V8l13Y4a!I8eoZ7pIZ__B7C_lFTFlWeDU5rnwWtBvyLPPZT1hsJc)**
+**[Download the map pack here! (113 MB)](https://mega.nz/#!V8l13Y4a!I8eoZ7pIZ__B7C_lFTFlWeDU5rnwWtBvyLPPZT1hsJc "MEGA")**
 
 - NoMod
   - [katagiri - L4.8TS (KitajimaYN) \[Never Forgot\]](https://osu.ppy.sh/beatmapsets/729494#taiko/1539826)
@@ -343,7 +343,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the map pack here! (90 MB)](https://mega.nz/#!UVB3TIaA!A7ylCTqbpd7OIPvYdVjVDIf6bxUEZgYwCObp15TKA44)**
+**[Download the map pack here! (90 MB)](https://mega.nz/#!UVB3TIaA!A7ylCTqbpd7OIPvYdVjVDIf6bxUEZgYwCObp15TKA44 "MEGA")**
 
 - NoMod
   - [Lite Show Magic - TRICKL4SH 220 (22,000 Power Extended) (incandescence) \[Electrification\]](https://osu.ppy.sh/beatmapsets/896623#taiko/1873220)
@@ -373,7 +373,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the map pack here! (85 MB)](https://mega.nz/#!o8UwAYYJ!fecsmMy2X7cTBfF73mcBImhc_vzAp_z1GuZndPEO6Z4)**
+**[Download the map pack here! (85 MB)](https://mega.nz/#!o8UwAYYJ!fecsmMy2X7cTBfF73mcBImhc_vzAp_z1GuZndPEO6Z4 "MEGA")**
 
 - NoMod
   - [goreshit - beautiful loli thing (Raphalge) \[Beautiful Taiko Thing\]](https://osu.ppy.sh/beatmapsets/582863#taiko/1233483)
@@ -403,7 +403,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Quarterfinals
 
-**[Download the map pack here! (85 MB)](https://mega.nz/#!Zk8gkCjS!zFDS83Mn2LMsm7ZGu0XlMYjFxULRvFI5R5in7Wacn7E)**
+**[Download the map pack here! (85 MB)](https://mega.nz/#!Zk8gkCjS!zFDS83Mn2LMsm7ZGu0XlMYjFxULRvFI5R5in7Wacn7E "MEGA")**
 
 - NoMod
   - [Rainbowdragoneyes - Creatures ov Deception (Mew104) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/413267#taiko/896221)
@@ -429,7 +429,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 16
 
-**[Download the map pack here! (71 MB)](https://mega.nz/#!A9USyabK!GjPXrZSeYBfzooOF1y6gHqjlTCY6pJKLXbJrbM4CtNU)**
+**[Download the map pack here! (71 MB)](https://mega.nz/#!A9USyabK!GjPXrZSeYBfzooOF1y6gHqjlTCY6pJKLXbJrbM4CtNU "MEGA")**
 
 - NoMod
   - [OISHII - ONIGIRI FREEWAY (Zedther) \[Inner Onigiri\]](https://osu.ppy.sh/beatmapsets/898219#taiko/1876371)
@@ -454,7 +454,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Round of 32
 
-**[Download the map pack here! (55 MB)](https://mega.nz/#!QkMnVCxB!AMGK2j-ujVR9YdSh8dS82DEfmIl5L19Hhfi85qjLg8k)**
+**[Download the map pack here! (55 MB)](https://mega.nz/#!QkMnVCxB!AMGK2j-ujVR9YdSh8dS82DEfmIl5L19Hhfi85qjLg8k "MEGA")**
 
 - NoMod
   - [mafumafu - Hello Dystopia (vzk) \[Oni\]](https://osu.ppy.sh/beatmapsets/962883#taiko/2016074)
@@ -479,7 +479,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the map pack here! (27 MB)](https://mega.nz/#!BxNWRYhL!a1-niu4m38qjKN4Zyj-lvUwGX2wJHSMC5V6UD-En2rw)**
+**[Download the map pack here! (27 MB)](https://mega.nz/#!BxNWRYhL!a1-niu4m38qjKN4Zyj-lvUwGX2wJHSMC5V6UD-En2rw "MEGA")**
 
 - NoMod
   - [Vickeblanka - Black Rover(Cover Raon Lee) (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/834196#taiko/1747535)

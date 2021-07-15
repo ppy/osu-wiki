@@ -18,16 +18,16 @@ In addition to the osu! tournament documented here, the SoCal Fall Festival will
 
 ## Links
 
-- **[Discord server](https://discord.gg/au7qpnk)**
+- **[Discord server](https://discord.gg/au7qpnk "Discord")**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1168265)
-- [Rules](https://docs.google.com/document/d/1HX3zr4dU8NlimMubDSiRFn8vP3DusvgVgG1WYiKGqmQ/edit?usp=sharing "Google document")
+- [Rules](https://docs.google.com/document/d/1HX3zr4dU8NlimMubDSiRFn8vP3DusvgVgG1WYiKGqmQ/edit?usp=sharing "Google Docs")
 
 ### Related Discord servers
 
-- [BruinGG](https://discord.gg/bkxNBay)
-- [Gaucho Gaming](https://discord.gg/GauchoGaming)
-- [osu! UCI](https://discord.gg/qbZddFV)
-- [TAG at UCI](https://discord.gg/qKqCZXQ)
+- [BruinGG](https://discord.gg/bkxNBay "Discord")
+- [Gaucho Gaming](https://discord.gg/GauchoGaming "Discord")
+- [osu! UCI](https://discord.gg/qbZddFV "Discord")
+- [TAG at UCI](https://discord.gg/qKqCZXQ "Discord")
 
 ## Tournament schedule
 

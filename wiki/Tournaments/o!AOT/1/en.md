@@ -1,7 +1,7 @@
 ---
 tags:
-- o!AOT
-- AOT
+  - o!AOT
+  - AOT
 ---
 
 # osu! Asia Oceania Tournament
@@ -51,9 +51,9 @@ The osu! Asia Oceania Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/919600)
-- [o!AOT Discord server](https://discord.gg/mZtHc5M)
-- [Livestream](https://www.twitch.tv/osuaot)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1mN_7WMteQKfBQi4vLbHFMI_g97oYjOnAsrz_TOT3E3w/edit)**
+- [o!AOT Discord server](https://discord.gg/mZtHc5M "Discord")
+- [Livestream](https://www.twitch.tv/osuaot "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1mN_7WMteQKfBQi4vLbHFMI_g97oYjOnAsrz_TOT3E3w/edit "Google Sheets")**
 
 ## Participants
 
@@ -119,14 +119,14 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (163 MB)](https://fuma.s-ul.eu/pDlyqhaj)**
+**[Download the mappack here! (163 MB)](https://fuma.s-ul.eu/pDlyqhaj "s-ul")**
 
 - NoMod
   - [xi - Last Resort (Kroytz) \[Real's GRAVITY\]](https://osu.ppy.sh/beatmapsets/800102#osu/1679794)
   - [xi - over the top (Reillia) \[Heaven\]](https://osu.ppy.sh/beatmapsets/851156#osu/1779343)
   - [YURRY CANON - Nadeshiko color Heart (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/682996#osu/1451733)
   - [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry) \[Neil x Sharu, Syzygy\]](https://osu.ppy.sh/beatmapsets/694402#osu/1469136)
-  - [ZAQ - Last Proof (Anmiy) \[Don't Give Up \[snap edit\]\]](http://puu.sh/EixH8/14cbdb0d70.osz)
+  - [ZAQ - Last Proof (Anmiy) \[Don't Give Up \[snap edit\]\]](http://puu.sh/EixH8/14cbdb0d70.osz "puush")
 - Hidden
   - [xi - Caramel Custard (nya10) \[Creme [edit ver.]\]](https://osu.ppy.sh/beatmapsets/1038181#osu/2170298)
   - [Meramipop - Secret Desire - Dyes Remix - (Skystar) \[Irregular\]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)
@@ -148,7 +148,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (102 MB)](https://fuma.s-ul.eu/uzzzkVHO)**
+**[Download the mappack here! (102 MB)](https://fuma.s-ul.eu/uzzzkVHO "s-ul")**
 
 - NoMod
   - [Hatsuki Yura - Kaguyahime (KwAIMSuckASFuk) \[Parade\]](https://osu.ppy.sh/beatmapsets/1014375#osu/2125073)
@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (111 MB)](https://fuma.s-ul.eu/H8unXHqn)**
+**[Download the mappack here! (111 MB)](https://fuma.s-ul.eu/H8unXHqn "s-ul")**
 
 - NoMod
   - [Kaneko Chiharu - WHITEOUT (Flask) \[HEAVENLY\]](https://osu.ppy.sh/beatmapsets/734944#osu/1551576)
@@ -206,10 +206,10 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1x-AD_XWpQQs6z5xVUwWal6iwbbsFPe0A/view?usp=sharing)**
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1x-AD_XWpQQs6z5xVUwWal6iwbbsFPe0A/view?usp=sharing "Google Drive")**
 
 - NoMod
-  - [LiSA - ADAMAS (xChippy) \[Reality\]](http://puu.sh/E8W86/6de3f3cbbd.osz)
+  - [LiSA - ADAMAS (xChippy) \[Reality\]](http://puu.sh/E8W86/6de3f3cbbd.osz "puush")
   - [UNDEAD CORPORATION - Seven Colors (Realazy) \[Concerto\]](https://osu.ppy.sh/beatmapsets/537952#osu/1139787)
   - [Rain Man Ft. Sirah - Visionary (Consouls DnB Edit) (JrSzZ) \[Na na na na...\]](https://osu.ppy.sh/beatmapsets/863113#osu/1805438)
   - [D-Cee - CITRUS MONSTER (Hakurei Yoru) \[1112's Master\]](https://osu.ppy.sh/beatmapsets/537860#osu/1865292)
@@ -235,7 +235,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (121 MB)](https://drive.google.com/file/d/1BKoSNRuz5TnHcwTn35KjAW12fX4ZNCbG/view?usp=sharing)**
+**[Download the mappack here! (121 MB)](https://drive.google.com/file/d/1BKoSNRuz5TnHcwTn35KjAW12fX4ZNCbG/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [a\_hisa - Pastel Subliminal (My Angel Rize) \[Nanaka's Extra\]](https://osu.ppy.sh/beatmapsets/587286#osu/1251051)
@@ -256,7 +256,7 @@ This competition has come to an end and resulted in the following podium:
   - [omniboi - BonBon (Kyshiro) \[Ryo's Insane\]](https://osu.ppy.sh/beatmapsets/505729#osu/1092923)
   - [Kuraki Mai - Your Best Friend (Xinely) \[Together\]](https://osu.ppy.sh/beatmapsets/210114#osu/494368)
 - FreeMod
-  - [Black Hole - Pluto (Snow Note) \[Expert\]](https://bloodcat.com/osu/s/45074)
+  - [Black Hole - Pluto (Snow Note) \[Expert\]](https://bloodcat.com/osu/s/45074 "Bloodcat")
   - [LeaF - Calamity Fortune (Flower) \[Extra\]](https://osu.ppy.sh/beatmapsets/96103#osu/257793)
   - [Tonon - Shirayuki \~sirayuki\~ (yf\_bmp) \[Expert\]](https://osu.ppy.sh/beatmapsets/429316#osu/926381)
 - Tiebreaker
@@ -264,7 +264,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (102 MB)](https://fuma.s-ul.eu/HlCziwOy)**
+**[Download the mappack here! (102 MB)](https://fuma.s-ul.eu/HlCziwOy "s-ul")**
 
 - NoMod
   - [LiSA - Mitsu (Dailycare) \[schoolboy's Extra\]](https://osu.ppy.sh/beatmapsets/841534#osu/1761079)
@@ -288,7 +288,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (67 MB)](https://fuma.s-ul.eu/LejNA6fu)**
+**[Download the mappack here! (67 MB)](https://fuma.s-ul.eu/LejNA6fu "s-ul")**
 
 - NoMod
   - [A Skylit Drive - Pendulum (Fanteer) \[test\]](https://osu.ppy.sh/beatmapsets/680670#osu/1439169)
@@ -496,7 +496,7 @@ Sunday, 11 August 2019:
 
 ### Qualifier information
 
-1. Scoring will be done by using the following [formula](http://bit.ly/2HNYw7M).
+1. Scoring will be done by using the following [formula](https://docs.google.com/spreadsheets/d/1MvooEv_AWLs9DaGujlO8Nj3jScPk_zbXprxEPKLv6dI/edit#gid=1475545356 "Google Sheets").
 2. Every map in the qualifier mappool will have to be played once.
 3. Notify `@host` to reschedule your lobby in `#reschedule` that can be found in o!AOT's Discord server using the given format.
 4. Team placement in the qualifiers will determine seedings in group stage as follows:

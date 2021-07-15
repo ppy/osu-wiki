@@ -1,10 +1,10 @@
 ---
 tags:
-- Highlander Con
-- LAN
-- MALE
-- Riverside
-- UCR
+  - Highlander Con
+  - LAN
+  - MALE
+  - Riverside
+  - UCR
 ---
 
 # Most Amazing LAN Ever
@@ -44,10 +44,10 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/843645)
-- [Livestream](https://www.twitch.tv/osuriverside)
-- [osu!riverside Discord server](https://discord.gg/gsD9JUB)
-- [osu! Challonge bracket](https://challonge.com/bp0500aa)
-- [osu!mania Challonge bracket](https://challonge.com/qfawchnw)
+- [Livestream](https://www.twitch.tv/osuriverside "Twitch")
+- [osu!riverside Discord server](https://discord.gg/gsD9JUB "Discord")
+- [osu! Challonge bracket](https://challonge.com/bp0500aa "Challonge")
+- [osu!mania Challonge bracket](https://challonge.com/qfawchnw "Challonge")
 
 ## Participants
 
@@ -94,13 +94,11 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] Ecal |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] Ouchiee |
 
----
-
 ## Mappools
 
 ### osu!
 
-**[Download the mappack here! (276 MB)](https://drive.google.com/file/d/15o1v7cJgdQld6-IkePqntxk5qFo8hXNx/view)**
+**[Download the mappack here! (276 MB)](https://drive.google.com/file/d/15o1v7cJgdQld6-IkePqntxk5qFo8hXNx/view "Google Drive")**
 
 #### Grand Finals
 
@@ -246,8 +244,6 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Tiebreaker
   - **[Grand Thaw - Aventyr (Sephriggorshas) [Hard]](https://osu.ppy.sh/beatmapsets/131691#mania/331525)**
 
----
-
 ## Match Results
 
 ### osu!
@@ -329,8 +325,6 @@ The bracket was cut off early due to time concerns, so later matches switched to
 | **Zushen** ![][flag_US] | **3** | 0 | ![][flag_US] Giraffle | <!-- match link lost --> |
 | **Ecal** ![][flag_US] | **3** | 2 | ![][flag_US] Ouchiee | <!-- match link lost --> |
 
----
-
 ## Ruleset
 
 ### Tournament Rules
@@ -350,8 +344,8 @@ The bracket was cut off early due to time concerns, so later matches switched to
 ### Match Instructions
 
 1. Warm-up picks will likely not be allowed due to time concerns.
-2. Both players will !roll when they join the lobby. The player with the lower result will ban first, and the other will pick first.
+2. Both players will `!roll` when they join the lobby. The player with the lower result will ban first, and the other will pick first.
 3. Map selection alternates between players. If the scores are tied at match point, the tiebreaker will be played.
 
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -53,10 +53,10 @@ tags:
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1158000)
-- [SOL Discord server](https://discord.gg/xWet4ug)
-- [Livestream](https://www.twitch.tv/zeroram0)
-- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1J0ciAoWtGNPzzIegAMYdDoR579vjEajjgwvm5PyZUFnqZZWS1GoYaJZvIWuYh-JzqZwT0VKLvQXm/pubhtml)
-- **[Master sheet](https://docs.google.com/spreadsheets/d/16cbh7tHxKbyGuRC7-jGY6wounw2Lp9hgG-YdpfsqYPY/edit?usp=sharing)**
+- [SOL Discord server](https://discord.gg/xWet4ug "Discord")
+- [Livestream](https://www.twitch.tv/zeroram0 "Twitch")
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1J0ciAoWtGNPzzIegAMYdDoR579vjEajjgwvm5PyZUFnqZZWS1GoYaJZvIWuYh-JzqZwT0VKLvQXm/pubhtml "Google Sheets")
+- **[Master sheet](https://docs.google.com/spreadsheets/d/16cbh7tHxKbyGuRC7-jGY6wounw2Lp9hgG-YdpfsqYPY/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -129,7 +129,7 @@ tags:
 | 63 | **Lettuce** | ![][flag_US] [\[LS\]Skye](https://osu.ppy.sh/users/14714088), ![][flag_US] [Retina](https://osu.ppy.sh/users/11392859) |
 | 64 | **Late Night Gamers** | ![][flag_PL] [Hlimak](https://osu.ppy.sh/users/1340272), ![][flag_NL] [Freek](https://osu.ppy.sh/users/9630674) |
 
-More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1J0ciAoWtGNPzzIegAMYdDoR579vjEajjgwvm5PyZUFnqZZWS1GoYaJZvIWuYh-JzqZwT0VKLvQXm/pubhtml#)
+More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1J0ciAoWtGNPzzIegAMYdDoR579vjEajjgwvm5PyZUFnqZZWS1GoYaJZvIWuYh-JzqZwT0VKLvQXm/pubhtml# "Google Sheets")
 
 ### Groups
 

@@ -30,7 +30,7 @@ The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced wo
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year and 4 months of osu!supporter tag, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year and 4 months of osu!supporter tag, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/ "Foxbox") |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 year of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!supporter tag |
 
@@ -59,13 +59,13 @@ The Advanced Global Taiko Showdown 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1126016)
-- [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/)
+- [GTS Discord server](https://discord.gg/3mGC3HB "Discord")
+- [GTS website](https://gtsosu.com/ "GTS")
 - Livestream
-  - [GTSosu](https://www.twitch.tv/gtsosu)
-  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
-- [Challonge bracket](https://challonge.com/AGTS2020)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/46/) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+  - [GTSosu](https://www.twitch.tv/gtsosu "Twitch")
+  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b "Twitch")
+- [Challonge bracket](https://challonge.com/AGTS2020 "Challonge")
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/46 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -148,7 +148,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### All Stars
 
-**[Download the mappack here! (87 MB)](https://mega.nz/file/twdgEb7I#sMnl6kDvgbez2TKSi5oCz8MZLqwclC5-ieB0v_A_nyI)**
+**[Download the mappack here! (87 MB)](https://mega.nz/file/twdgEb7I#sMnl6kDvgbez2TKSi5oCz8MZLqwclC5-ieB0v_A_nyI "MEGA")**
 
 - NoMod
   - [BilliumMoto - four veiled stars (Nifty) \[Bitter Winter\]](https://osu.ppy.sh/beatmapsets/972301#taiko/2037584)
@@ -180,7 +180,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (105 MB)](https://mega.nz/file/YoUViAhR#c4M9f6Urrbhj8lpQ5RiRTNEMR7eOUxHc6CVZ7K9b8Gc)**
+**[Download the mappack here! (105 MB)](https://mega.nz/file/YoUViAhR#c4M9f6Urrbhj8lpQ5RiRTNEMR7eOUxHc6CVZ7K9b8Gc "MEGA")**
 
 - NoMod
   - [EPICA - Victims of Contingency (Garpo) \[Bizarre Oni\]](https://osu.ppy.sh/beatmapsets/1001239#taiko/2117645)
@@ -210,7 +210,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (93 MB)](https://mega.nz/file/Q1k2yZwI#SZptQ-CpBWXQJcak7GVpy3ft-ibjmkTbLa-MaCtPqNg)**
+**[Download the mappack here! (93 MB)](https://mega.nz/file/Q1k2yZwI#SZptQ-CpBWXQJcak7GVpy3ft-ibjmkTbLa-MaCtPqNg "MEGA")**
 
 - NoMod
   - [t+pazolite (ft. Kabocha) - Elder Dragon Legend (Axer) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1071293#taiko/2242387)
@@ -240,7 +240,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (93 MB)](https://mega.nz/file/A10UXIaI#lVkQ7KXKCxUIQ4yktXIzvHlllIS-CmUmdIBYULb8KFs)**
+**[Download the mappack here! (93 MB)](https://mega.nz/file/A10UXIaI#lVkQ7KXKCxUIQ4yktXIzvHlllIS-CmUmdIBYULb8KFs "MEGA")**
 
 - NoMod
   - [Mrs.GREEN APPLE - Samama Festival! (katagiri bootleg) (Shamirin\_mzk) \[solo FESTIVAL\]](https://osu.ppy.sh/beatmapsets/1220283#taiko/2538521)
@@ -270,7 +270,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (80 MB)](https://mega.nz/file/ptdX1AhT#2dcpnxlaCp-ZgdMtzVMdJuBIip4tVIlniZyFfaMPYfM)**
+**[Download the mappack here! (80 MB)](https://mega.nz/file/ptdX1AhT#2dcpnxlaCp-ZgdMtzVMdJuBIip4tVIlniZyFfaMPYfM "MEGA")**
 
 - NoMod
   - [Sophie Twilight , Akari Amano, Hinata Natsuki, Erie - +Kyuutie Ladies+ (DJ Mii-ko Remix) (KitajimaYN) \[maguro&KTYN's Vampire\* (GTS Edit)\]](https://osu.ppy.sh/beatmapsets/1088330#taiko/2632886)
@@ -296,7 +296,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (66 MB)](https://mega.nz/file/9hMQVAII#oh5Ze7QddtO34OnDavSKeV3KsjEaPWAGPhqy7S2gO4Q)**
+**[Download the mappack here! (66 MB)](https://mega.nz/file/9hMQVAII#oh5Ze7QddtO34OnDavSKeV3KsjEaPWAGPhqy7S2gO4Q "MEGA")**
 
 - NoMod
   - [Rohi - Kanata ni Mau wa Sakura no Senritsu (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1176079#taiko/2452988)
@@ -322,7 +322,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (70 MB)](https://mega.nz/file/ElMylCjS#RkGwhO9M9em9RpMmiQNwsIihasufvIGZDJgRYlgum7I)**
+**[Download the mappack here! (70 MB)](https://mega.nz/file/ElMylCjS#RkGwhO9M9em9RpMmiQNwsIihasufvIGZDJgRYlgum7I "MEGA")**
 
 - NoMod
   - [DECO\*27 - HIBANA feat. Hatsune Miku (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/875020#taiko/2350370)
@@ -347,7 +347,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (29 MB)](https://mega.nz/file/RglB1K5J#-RHNorLK-4j4_94GRXbyrwGpLYlD7SHRrCy2I74m8x4)**
+**[Download the mappack here! (29 MB)](https://mega.nz/file/RglB1K5J#-RHNorLK-4j4_94GRXbyrwGpLYlD7SHRrCy2I74m8x4 "MEGA")**
 
 - NoMod
   - [TOMOSUKE x Jazzin'park - LANA - Kiroku no Kakera (sasakure.UK Framework Remix) (Y O U T A) \[Kakera\]](https://osu.ppy.sh/beatmapsets/672895#taiko/1422360)
@@ -566,7 +566,7 @@ Sunday, 20 September 2020:
 | #38 | ![][flag_JP] Japan B | 36 |
 
 - Only the top 32 teams proceed to the Group Stage
-- More detailed qualifiers result can be accessed via following [spreadsheet](https://docs.google.com/spreadsheets/d/1f9IQYAo3mo0CsDVHmLJx1vjtfquxxYfWC4d67NzyTcY/edit?usp=sharing)
+- More detailed qualifiers result can be accessed via following [spreadsheet](https://docs.google.com/spreadsheets/d/1f9IQYAo3mo0CsDVHmLJx1vjtfquxxYfWC4d67NzyTcY/edit?usp=sharing "Google Sheets")
 - Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
