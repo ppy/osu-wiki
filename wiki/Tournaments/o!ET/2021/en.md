@@ -6,7 +6,7 @@ tags:
 
 # osu!European Tournament 2021
 
-![VAF logo](img/logo.jpg)
+![o!ET 2021 logo](img/logo.jpg)
 
 The **osu!European Tournament 2021** (**o!ET 2021**) was a 4v4 osu! tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133). The tournament was run in tiered-draft format, a team was formed post qualifiers consist of 8 players with 4 tiers and 2 players filled each tiers. The tournament was also rank-restricted to rank between #1 and #30,000. It was the fourth installment of the osu!European Tournament.
 
@@ -20,10 +20,10 @@ The **osu!European Tournament 2021** (**o!ET 2021**) was a 4v4 osu! tournament h
 | Captains reveeal | 2021-05-24 |
 | Teams drafting | 2021-05-29/2021-05-30 |
 | Round of 16 | 2021-06-05/2021-06-06 |
-| Quarterfinals | 2021-06-12/2021-06-13 |
-| Semiinals | 2021-06-19/2021-06-26 |
+| Quarterfinals | 2021-06-12/2021-06-18 |
+| Semiinals | 2021-06-20/2021-07-02 |
 | Finals | 2021-07-03/2021-07-04 |
-| Grand Finals | 2021-07-10/2021-07-11 |
+| Grand Finals | 2021-07-09/2021-07-11 |
 
 ## Prizes
 
@@ -395,322 +395,123 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
+Friday, 9 July 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Team Papayapa | 0 | **7** | **opa pizdec** | [#1](https://osu.ppy.sh/community/matches/87069968) |
+
 Saturday, 10 July 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| janitore ![][flag_CA] | 6 | **7** | ![][flag_HK] **J a c k y** | [#1](https://osu.ppy.sh/community/matches/87121539) |
+| The Cow Fields | 3 | **7** | **opa pizdec** | [#1](https://osu.ppy.sh/community/matches/87116401) |
 
 Sunday, 11 July 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **yu-k1\_** ![][flag_JP] | **7** | 3 | ![][flag_HK] J a c k y | [#1](https://osu.ppy.sh/community/matches/87175258) |
+| **opa pizdec** | **7** | 6 | The Cow Fields | [#1](https://osu.ppy.sh/community/matches/87235998) |
 
 ### Finals
 
 Saturday, 3 July 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Minekuchi** ![][flag_DE] | **7** | 2 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/86721018) |
-| Skull Kid ![][flag_BR] | 1 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/86742979) |
+| Team Wilchq | 4 | **7** | **opa pizdec** | [#1](https://osu.ppy.sh/community/matches/86720568) |
+| **hidden coalas** | **7** | 1 | bless sotarks | [#1](https://osu.ppy.sh/community/matches/86728697) |
 
 Sunday, 4 July 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| J a c k y ![][flag_HK] | 3 | **7** | ![][flag_JP] **yu-k1\_** | [#1](https://osu.ppy.sh/community/matches/86769379) |
-| Minekuchi ![][flag_DE] | 0 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/86776535) |
+| Team Papayapa | 5 | **7** | **The Cow Fields** | [#1](https://osu.ppy.sh/community/matches/86778059) |
+| hidden coalas | 1 | **7** | **opa pizdec** | [#1](https://osu.ppy.sh/community/matches/86780462) |
 
 ### Semifinals
 
-Saturday, 26 June 2021:
+Sunday, 20 June 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **XK2238** ![][flag_ID] | **7** | 1 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/86290156) |
-| mangomizer ![][flag_GB] | 2 | **7** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/86305698) |
-| HiroK ![][flag_BR] | 1 | **7** | ![][flag_JP] **nananass** | [#1](https://osu.ppy.sh/community/matches/86308020) |
+| **bless sotarks** | **6** | 4 | hidden enjoyers | [#1](https://osu.ppy.sh/community/matches/85941158) |
+| **opa pizdec** | **6** | 1 | Drużyna Nietrzeźwienia | [#1](https://osu.ppy.sh/community/matches/85941138) |
+| hidden coalas | 3 | **6** | **Team Papayapa** | [#1](https://osu.ppy.sh/community/matches/85949074) |
+| Team Damarsh | 4 | **6** | **Шлёпа** | [#1](https://osu.ppy.sh/community/matches/85952270) |
+| **Team Resoa** | **6** | 5 | Team Wilchq | [#1](https://osu.ppy.sh/community/matches/85952271) |
+
+Thursday, 24 June 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Alibaba toothbrush eyes** | **6** | 2 | Team Okupsa | [#1](https://osu.ppy.sh/community/matches/86191781) |
 
 Sunday, 27 June 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **janitore** ![][flag_CA] | **7** | 0 | ![][flag_KR] 5henry | [#1](https://osu.ppy.sh/community/matches/86342158) |
-| **J a c k y** ![][flag_HK] | **7** | 1 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/86344611) |
-| Minekuchi ![][flag_DE] | 2 | **7** | ![][flag_JP] **yu-k1\_** | [#1](https://osu.ppy.sh/community/matches/86364156) |
-| nananass ![][flag_JP] | 1 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/86368987) |
-| XK2238 ![][flag_ID] | 6 | **7** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/86417837) |
+| Alibaba toothbrush eyes | 0 | **6** | **opa pizdec** | [#1](https://osu.ppy.sh/community/matches/86376848) |
 
-### Swiss week 6
+Friday, 2 July 2021:
 
-Saturday, 19 June 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **MEGAMELA** ![][flag_FI] | **7** | 0 | ![][flag_RU] Akonine | *win by default* |
-| GoZaRaNi ![][flag_KR] | 0 | **7** | ![][flag_PH] **Pochacco** | *win by default* |
-| **coed** ![][flag_IT] | **7** | 0 | ![][flag_KR] phosphene47 | *win by default* |
-| **D3kuu** ![][flag_IT] | **7** | 0 | ![][flag_TW] Yuemiao | [#1](https://osu.ppy.sh/community/matches/85881455) |
-| Konpaku Sariel ![][flag_KR] | 0 | **7** | ![][flag_BE] **XOlifreX** | *win by default* |
-| **Coryn** ![][flag_BR] | **7** | 0 | ![][flag_MY] \[Zeth\] | *win by default* |
-| **J a c k y** ![][flag_HK] | **7** | 5 | ![][flag_CA] janitore | [#1](https://osu.ppy.sh/community/matches/85881014) |
-| **Vulkin** ![][flag_CL] | **7** | 1 | ![][flag_RU] CrowWhite | [#1](https://osu.ppy.sh/community/matches/85895644) |
-| Genjuro ![][flag_GR] | 0 | 0 | ![][flag_BR] Gustav0eiji | *nullified* |
-| oL0 ![][flag_KR] | 0 | **7** | ![][flag_US] **Etholux** | *win by default* |
+| **bless sotarks** | **6** | 1 | Шлёпа | [#1](https://osu.ppy.sh/community/matches/86667610) |
 
-Sunday, 20 June 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Ku\_Ren** ![][flag_JP] | **7** | 4 | ![][flag_MX] -Arato | [#1](https://osu.ppy.sh/community/matches/85918264) |
-| Daniels ![][flag_GB] | 0 | **7** | ![][flag_US] **Xok** | *win by default* |
-| bernard351 ![][flag_PL] | 0 | **7** | ![][flag_JP] **uranosu1030** | *win by default* |
-| **5henry** ![][flag_KR] | **7** | 1 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/85919643) |
-| Jakads ![][flag_KR] | 0 | **7** | ![][flag_US] **cheese salad** | *win by default* |
-| Ponamis ![][flag_TH] | 0 | **7** | ![][flag_AU] **r1chyy** | *win by default* |
-| **Teezel** ![][flag_GB] | **7** | 0 | ![][flag_ID] Naverlyn | *win by default* |
-| **petterde** ![][flag_NO] | **7** | 0 | ![][flag_NL] Cookie\_Tree | *win by default* |
-| nananass ![][flag_JP] | 4 | **7** | ![][flag_JP] **yu-k1\_** | [#1](https://osu.ppy.sh/community/matches/85938286) |
-| BananaW ![][flag_FR] | 0 | 0 | ![][flag_JP] shakegohan\_jar | *nullified* |
-| Sparxe ![][flag_NZ] | 5 | **7** | ![][flag_TW] **cat1346** | [#1](https://osu.ppy.sh/community/matches/85939789) |
-| LordEnder ![][flag_IT] | 6 | 6 | ![][flag_RU] Den4ik228 | [#1](https://osu.ppy.sh/community/matches/85941215) |
-| **Saikoro** ![][flag_JP] | **7** | 0 | ![][flag_TW] \_Llama | *win by default* |
-| honkers ![][flag_CA] | 0 | **7** | ![][flag_CH] **MC2BP** | *win by default* |
-| **XK2238** ![][flag_ID] | **7** | 5 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/85943637) |
-| **Minekuchi** ![][flag_DE] | **7** | 1 | ![][flag_AR] \_Doodle\_ | [#1](https://osu.ppy.sh/community/matches/85946197) |
-| Lynerrr ![][flag_KZ] | 3 | **7** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/85946292) |
-| Ppus ![][flag_BR] | 0 | **7** | ![][flag_US] **Garpo** | *win by default* |
-| **mangomizer** ![][flag_GB] | **7** | 5 | ![][flag_TH] Raytoly | [#1](https://osu.ppy.sh/community/matches/85947936) |
-| **Skull Kid** ![][flag_BR] | **7** | 1 | ![][flag_IT] A-40 | [#1](https://osu.ppy.sh/community/matches/85958743) |
-| **AuroraPhasmata** ![][flag_US] | **7** | 1 | ![][flag_AR] gaston\_2199 | [#1](https://osu.ppy.sh/community/matches/85961573) |
-| **FurryBoujee** ![][flag_BR] | **7** | 0 | ![][flag_UA] Don Omar | [#1](https://osu.ppy.sh/community/matches/85963413) |
-
-### Swiss week 5
+### Quarterfinals
 
 Saturday, 12 June 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Naverlyn** ![][flag_ID] | **7** | 0 | ![][flag_RU] Akonine | *win by default* |
-| Ponamis ![][flag_TH] | 2 | **7** | ![][flag_KR] **phosphene47** | [#1](https://osu.ppy.sh/community/matches/85429009) |
-| **CrowWhite** ![][flag_RU] | **7** | 0 | ![][flag_JP] shakegohan\_jar | *win by default* |
-| r1chyy ![][flag_AU] | 4 | **7** | ![][flag_CH] **MC2BP** | [#1](https://osu.ppy.sh/community/matches/85432892) |
-| **Raytoly** ![][flag_TH] | **7** | 2 | ![][flag_UA] Don Omar | [#1](https://osu.ppy.sh/community/matches/85435869) |
-| oL0 ![][flag_KR] | 1 | **7** | ![][flag_JP] **yu-k1\_** | [#1](https://osu.ppy.sh/community/matches/85435788) |
-| petterde ![][flag_NO] | 3 | **7** | ![][flag_TW] **Yuemiao** | [#1](https://osu.ppy.sh/community/matches/85437072) |
-| Konpaku Sariel ![][flag_KR] | 0 | **7** | ![][flag_US] **\_knots** | *win by default* |
-| Cookie\_Tree ![][flag_NL] | 1 | **7** | ![][flag_PL] **bernard351** | [#1](https://osu.ppy.sh/community/matches/85440158) |
-| **XK2238** ![][flag_ID] | **7** | 4 | ![][flag_IT] D3kuu | [#1](https://osu.ppy.sh/community/matches/85439519) |
-| 5henry ![][flag_KR] | 5 | **7** | ![][flag_GB] **mangomizer** | [#1](https://osu.ppy.sh/community/matches/85448010) |
-| janitore ![][flag_CA] | 6 | 6 | ![][flag_DE] Minekuchi | [#1](https://osu.ppy.sh/community/matches/85452437) |
-| **Etholux** ![][flag_US] | **7** | 0 | ![][flag_GR] Genjuro | *win by default* |
-| Sparxe ![][flag_NZ] | 3 | **7** | ![][flag_BR] **Skull Kid** | [#1](https://osu.ppy.sh/community/matches/85456974) |
-| **Coryn** ![][flag_BR] | **7** | 0 | ![][flag_US] Xok | *win by default* |
-| Ppus ![][flag_BR] | 0 | **7** | ![][flag_AR] **gaston\_2199** | *win by default* |
+| Swampy North | 1 | **5** | **Drużyna Nietrzeźwienia** | [#1](https://osu.ppy.sh/community/matches/85443480) |
+| **Шлёпа** | **5** | 1 | scheduling heaven | [#1](https://osu.ppy.sh/community/matches/85449831) |
 
 Sunday, 13 June 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **uranosu1030** ![][flag_JP] | **7** | 0 | ![][flag_FR] BananaW | *win by defaut* |
-| **-Arato** ![][flag_MX] | **7** | 5 | ![][flag_RU] Den4ik228 | [#1](https://osu.ppy.sh/community/matches/85480290) |
-| Saikoro ![][flag_JP] | 2 | **7** | ![][flag_US] **cheese salad** | [#1](https://osu.ppy.sh/community/matches/85485201) |
-| Garpo ![][flag_US] | 0 | **7** | ![][flag_CA] **honkers** | *win by default* |
-| **Pochacco** ![][flag_PH] | **7** | 0 | ![][flag_MY] \[Zeth\] | *win by default* |
-| \_Llama ![][flag_TW] | 0 | **7** | ![][flag_FI] **MEGAMELA** | *win by default* |
-| **nananass** ![][flag_JP] | **7** | 1 | ![][flag_KR] Jakads | [#1](https://osu.ppy.sh/community/matches/85500337) |
-| XOlifreX ![][flag_BE] | 1 | **7** | ![][flag_KR] **GoZaRaNi** | [#1](https://osu.ppy.sh/community/matches/85501842) |
-| **cat1346** ![][flag_TW] | **7** | 0 | ![][flag_GB] Daniels | *win by default* |
-| Vulkin ![][flag_CL] | 0 | **7** | ![][flag_BR] **FurryBoujee** | *win by default* |
-| \_Doodle\_ ![][flag_AR] | 3 | **7** | ![][flag_HK] **J a c k y** | [#1](https://osu.ppy.sh/community/matches/85503813) |
-| Ku\_Ren ![][flag_JP] | 2 | **7** | ![][flag_KZ] **Lynerrr** | [#1](https://osu.ppy.sh/community/matches/85507035) |
-| **A-40** ![][flag_IT] | **7** | 4 | ![][flag_IT] coed | [#1](https://osu.ppy.sh/community/matches/85507167) |
-| **Teezel** ![][flag_GB] | **7** | 0 | ![][flag_BR] Gustav0eiji | *win by default* |
-| **HiroK** ![][flag_BR] | **7** | 2 | ![][flag_IT] LordEnder | [#1](https://osu.ppy.sh/community/matches/85518719) |
-| **Ikkun** ![][flag_IT] | **7** | 1 | ![][flag_US] AuroraPhasmata | [#1](https://osu.ppy.sh/community/matches/85526250) |
+| Team HENKSELI | 3 | **5** | **hidden enjoyers** | [#1](https://osu.ppy.sh/community/matches/85505189) |
+| Floppa Skill | 3 | **5** | **Team Okupsa** | [#1](https://osu.ppy.sh/community/matches/85506928) |
+| opa pizdec | 3 | **5** | **hidden coalas** | [#1](https://osu.ppy.sh/community/matches/85506929) |
+| **Team Resoa** | **5** | 3 | Team Damarsh | [#1](https://osu.ppy.sh/community/matches/85513035) |
+| bless sotarks | 3 | **5** | **Team Wilchq** | [#1](https://osu.ppy.sh/community/matches/85516054) |
 
-### Swiss week 4
+Friday, 18 June 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Alibaba toothbrush eyes | 3 | **5** | **Team Papayapa** | [#1](https://osu.ppy.sh/community/matches/85826357) |
+
+### Round of 16
 
 Saturday, 5 June 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Naverlyn ![][flag_ID] | 6 | 6 | ![][flag_US] Xok | [#1](https://osu.ppy.sh/community/matches/84958935) |
-| **nananass** ![][flag_JP] | **7** | 1 | ![][flag_TW] Yuemiao | [#1](https://osu.ppy.sh/community/matches/84964391) |
-| \[Zeth\] ![][flag_MY] | 1 | **7** | ![][flag_UA] **Don Omar** | [#1](https://osu.ppy.sh/community/matches/84970356) |
-| **Sparxe** ![][flag_NZ] | **7** | 0 | ![][flag_TH] Ponamis | [#1](https://osu.ppy.sh/community/matches/84972626) |
-| Saikoro ![][flag_JP] | 1 | **7** | ![][flag_GB] **mangomizer** | [#1](https://osu.ppy.sh/community/matches/84972754) |
-| CrowWhite ![][flag_RU] | 3 | **7** | ![][flag_GB] **Teezel** | [#1](https://osu.ppy.sh/community/matches/84975341) |
-| **Daniels** ![][flag_GB] | **7** | 0 | ![][flag_CH] MC2BP | [#1](https://osu.ppy.sh/community/matches/84978462) |
-| **yu-k1\_** ![][flag_JP] | **7** | 1 | ![][flag_BR] Ppus | [#1](https://osu.ppy.sh/community/matches/84978785) |
-| Ikkun ![][flag_IT] | 5 | **7** | ![][flag_HK] **J a c k y** | [#1](https://osu.ppy.sh/community/matches/84976918) |
-| **\_Doodle\_** ![][flag_AR] | **7** | 4 | ![][flag_ID] XK2238 | [#1](https://osu.ppy.sh/community/matches/84978808) |
-| Akonine ![][flag_RU] | 0 | **7** | ![][flag_KZ] **Lynerrr** | [#1](https://osu.ppy.sh/community/matches/84982297) |
-| **Jakads** ![][flag_KR] | **7** | 0 | ![][flag_GR] Genjuro | [#1](https://osu.ppy.sh/community/matches/84982041) |
-| **Minekuchi** ![][flag_DE] | **7** | 5 | ![][flag_TH] Raytoly | [#1](https://osu.ppy.sh/community/matches/84981992) |
-| **D3kuu** ![][flag_IT] | **7** | 1 | ![][flag_IT] LordEnder | [#1](https://osu.ppy.sh/community/matches/84985185) |
-| Cookie\_Tree ![][flag_NL] | 4 | **7** | ![][flag_BR] **FurryBoujee** | [#1](https://osu.ppy.sh/community/matches/84988551) |
-| Gustav0eiji ![][flag_BR] | 6 | 6 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/84989639) |
-| **AuroraPhasmata** ![][flag_US] | **7** | 3 | ![][flag_NO] petterde | [#1](https://osu.ppy.sh/community/matches/84992542) |
-| **A-40** ![][flag_IT] | **7** | 2 | ![][flag_CL] Vulkin | [#1](https://osu.ppy.sh/community/matches/84992553) |
-| BananaW ![][flag_FR] | 0 | **7** | ![][flag_MX] **-Arato** | *win by default* |
-| **Skull Kid** ![][flag_BR] | **7** | 2 | ![][flag_US] Etholux | [#1](https://osu.ppy.sh/community/matches/85008895) |
-| Konpaku Sariel ![][flag_KR] | 0 | **7** | ![][flag_KR] **5henry** | *win by default* |
+| **Team Resoa** | **5** | 2 | Floppa Skill | [#1](https://osu.ppy.sh/community/matches/84982450) |
+| **Team Wilchq** | **5** | 3 | Drużyna Nietrzeźwienia | [#1](https://osu.ppy.sh/community/matches/84985839) |
+| **bless sotarks** | **5** | 2 | Swampy North | [#1](https://osu.ppy.sh/community/matches/84988628) |
 
 Sunday, 6 June 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| honkers ![][flag_CA] | 1 | **7** | ![][flag_AR] **gaston\_2199** | [#1](https://osu.ppy.sh/community/matches/85020582) |
-| shakegohan\_jar ![][flag_JP] | 0 | 0 | ![][flag_TW] \_Llama | *nullified* |
-| Garpo ![][flag_US] | 2 | **7** | ![][flag_US] **\_knots** | [#1](https://osu.ppy.sh/community/matches/85023304) |
-| GoZaRaNi ![][flag_KR] | 0 | **7** | ![][flag_US] **cheese salad** | [#1](https://osu.ppy.sh/community/matches/85031235) |
-| r1chyy ![][flag_AU] | 2 | **7** | ![][flag_KR] **phosphene47** | [#1](https://osu.ppy.sh/community/matches/85035404) |
-| Den4ik228 ![][flag_RU] | 0 | **7** | ![][flag_TW] **cat1346** | [#1](https://osu.ppy.sh/community/matches/85037166) |
-| Ku\_Ren ![][flag_JP] | 2 | **7** | ![][flag_KR] **oL0** | [#1](https://osu.ppy.sh/community/matches/85039244) |
-| uranosu1030 ![][flag_JP] | 0 | **7** | ![][flag_FI] **MEGAMELA** | *win by default* |
-| **janitore** ![][flag_CA] | **7** | 0 | ![][flag_IT] coed | [#1](https://osu.ppy.sh/community/matches/85055765) |
-| bernard351 ![][flag_PL] | 1 | **7** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/85063130) |
-| **Coryn** ![][flag_BR] | **7** | 5 | ![][flag_BE] XOlifreX | [#1](https://osu.ppy.sh/community/matches/85074860) |
+| **opa pizdec** | **5** | 0 | Team HENKSELI | [#1](https://osu.ppy.sh/community/matches/85045965) |
+| Team Okupsa | 4 | **5** | **Team Damarsh** | [#1](https://osu.ppy.sh/community/matches/85044472) |
+| **Alibaba toothbrush eyes** | **5** | 2 | Шлёпа | [#1](https://osu.ppy.sh/community/matches/85052167) |
+| hidden enjoyers | 0 | **5** | **hidden coalas** | [#1](https://osu.ppy.sh/community/matches/85064945) |
+| scheduling heaven | 2 | **5** | **Team Papayapa** | [#1](https://osu.ppy.sh/community/matches/85382383) |
 
-### Swiss week 3
+### Qualifiers
 
-Thursday, 27 May 2021:
+More detailed qualifiers results can be accessed via these spreadsheets below:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Ppus ![][flag_BR] | 1 | **7** | ![][flag_IT] **coed** | [#1](https://osu.ppy.sh/community/matches/84356479) |
-
-Saturday, 29 May 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Skull Kid** ![][flag_BR] | **7** | 2 | ![][flag_GB] Daniels | [#1](https://osu.ppy.sh/community/matches/84433215) |
-| uranosu1030 ![][flag_JP] | 0 | **7** | ![][flag_RU] **Den4ik228** | [#1](https://osu.ppy.sh/community/matches/84465490) |
-| oL0 ![][flag_KR] | 0 | **7** | ![][flag_IT] **Ikkun** | *win by default* |
-| MEGAMELA ![][flag_FI] | 2 | **7** | ![][flag_AU] **r1chyy** | [#1](https://osu.ppy.sh/community/matches/84478349) |
-| D3kuu ![][flag_IT] | 2 | **7** | ![][flag_HK] **J a c k y** | [#1](https://osu.ppy.sh/community/matches/84480902) |
-| Konpaku Sariel ![][flag_KR] | 1 | **7** | ![][flag_DE] **Minekuchi** | [#1](https://osu.ppy.sh/community/matches/84480812) |
-| bernard351 ![][flag_PL] | 0 | **7** | ![][flag_GR] **Genjuro** | *win by default* |
-| **Saikoro** ![][flag_JP] | **7** | 5 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/84480557) |
-| **Jakads** ![][flag_KR] | **7** | 0 | ![][flag_BR] FurryBoujee | [#1](https://osu.ppy.sh/community/matches/84490679) |
-| mangomizer ![][flag_GB] | 6 | 6 | ![][flag_KZ] Lynerrr | [#1](https://osu.ppy.sh/community/matches/84490085) |
-| **Sparxe** ![][flag_NZ] | **7** | 0 | ![][flag_US] Xok | [#1](https://osu.ppy.sh/community/matches/84502111) |
-| **XOlifreX** ![][flag_BE] | **7** | 4 | ![][flag_MX] -Arato | [#1](https://osu.ppy.sh/community/matches/84512784) |
-| **petterde** ![][flag_NO] | **7** | 4 | ![][flag_CA] honkers | [#1](https://osu.ppy.sh/community/matches/84510637) |
-| **Vulkin** ![][flag_CL] | **7** | 0 | ![][flag_BR] Gustav0eiji | *win by default* |
-| **5henry** ![][flag_KR] | **7** | 1 | ![][flag_US] Garpo | [#1](https://osu.ppy.sh/community/matches/84528261) |
-
-Sunday, 30 May 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| yu-k1\_ ![][flag_JP] | 3 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/84530548) |
-| gaston\_2199 ![][flag_AR] | 4 | **7** | ![][flag_TW] **Yuemiao** | [#1](https://osu.ppy.sh/community/matches/84530538) |
-| \_knots ![][flag_US] | 3 | **7** | ![][flag_TH] **Ponamis** | [#1](https://osu.ppy.sh/community/matches/84536450) |
-| shakegohan\_jar ![][flag_JP] | 0 | **7** | ![][flag_KR] **GoZaRaNi** | *win by default* |
-| \_Llama ![][flag_TW] | 0 | **7** | ![][flag_ID] **Naverlyn** | [#1](https://osu.ppy.sh/community/matches/84543937) |
-| **AuroraPhasmata** ![][flag_US] | **7** | 4 | ![][flag_TW] cat1346 | [#1](https://osu.ppy.sh/community/matches/84547556) |
-| **Cookie\_Tree** ![][flag_NL] | **7** | 3 | ![][flag_RU] CrowWhite | [#1](https://osu.ppy.sh/community/matches/84549682) |
-| **LordEnder** ![][flag_IT] | **7** | 5 | ![][flag_KR] phosphene47 | [#1](https://osu.ppy.sh/community/matches/84552288) |
-| BananaW ![][flag_FR] | 0 | **7** | ![][flag_CH] **MC2BP** | *win by default* |
-| **Raytoly** ![][flag_TH] | **7** | 0 | ![][flag_RU] Akonine | *win by default* |
-| \[Zeth\] ![][flag_MY] | 1 | **7** | ![][flag_JP] **Ku\_Ren** | [#1](https://osu.ppy.sh/community/matches/84554169) |
-| nananass ![][flag_JP] | 4 | **7** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/84556889) |
-| Teezel ![][flag_GB] | 2 | **7** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/84562591) |
-| **\_Doodle\_** ![][flag_AR] | **7** | 2 | ![][flag_IT] A-40 | [#1](https://osu.ppy.sh/community/matches/84573527) |
-| cheese salad ![][flag_US] | 2 | **7** | ![][flag_US] **Etholux** | [#1](https://osu.ppy.sh/community/matches/84576391) |
-| **Don Omar** ![][flag_UA] | **7** | 4 | ![][flag_BR] Coryn | [#1](https://osu.ppy.sh/community/matches/84582425) |
-
-### Swiss week 2
-
-Saturday, 22 May 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **J a c k y** ![][flag_HK] | **7** | 3 | ![][flag_BR] Gustav0eiji | [#1](https://osu.ppy.sh/community/matches/83920835) |
-| **Yuemiao** ![][flag_TW] | **7** | 3 | ![][flag_TW] \_Llama | [#1](https://osu.ppy.sh/community/matches/83935764) |
-| **phosphene47** ![][flag_KR] | **7** | 5 | ![][flag_RU] Den4ik228 | [#1](https://osu.ppy.sh/community/matches/83938392) |
-| **cat1346** ![][flag_TW] | **7** | 1 | ![][flag_ID] Naverlyn | [#1](https://osu.ppy.sh/community/matches/83940411) |
-| MC2BP ![][flag_CH] | 0 | **7** | ![][flag_TH] **Ponamis** | [#1](https://osu.ppy.sh/community/matches/83943873) |
-| **Daniels** ![][flag_GB] | **7** | 0 | ![][flag_JP] shakegohan\_jar | *win by default* |
-| **mangomizer** ![][flag_GB] | **7** | 5 | ![][flag_KR] GoZaRaNi | [#1](https://osu.ppy.sh/community/matches/83947484) |
-| **Pochacco** ![][flag_PH] | **7** | 3 | ![][flag_NL] Cookie\_Tree | [#1](https://osu.ppy.sh/community/matches/83950465) |
-| **Konpaku Sariel** ![][flag_KR] | **7** | 5 | ![][flag_GR] Genjuro | [#1](https://osu.ppy.sh/community/matches/83950516) |
-| **yu-k1\_** ![][flag_JP] | **7** | 0 | ![][flag_CL] Vulkin | [#1](https://osu.ppy.sh/community/matches/83954420) |
-| Skull Kid ![][flag_BR] | 1 | **7** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/83954440) |
-| **A-40** ![][flag_IT] | **7** | 3 | ![][flag_NZ] Sparxe | [#1](https://osu.ppy.sh/community/matches/83954419) |
-| HiroK ![][flag_BR] | 6 | 6 | ![][flag_UA] Don Omar | [#1](https://osu.ppy.sh/community/matches/83967184%3E) |
-| bernard351 ![][flag_PL] | 0 | **7** | ![][flag_DE] **Minekuchi** | [#1](https://osu.ppy.sh/community/matches/83972320) |
-| **Ppus** ![][flag_BR] | **7** | 4 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/83972157) |
-| **Xok** ![][flag_US] | **7** | 1 | ![][flag_FI] MEGAMELA | [#1](https://osu.ppy.sh/community/matches/83976915) |
-| **petterde** ![][flag_NO] | **7** | 0 | ![][flag_MX] -Arato | *win by default* |
-| **D3kuu** ![][flag_IT] | **7** | 3 | ![][flag_AR] gaston\_2199 | [#1](https://osu.ppy.sh/community/matches/83981978) |
-
-Sunday, 23 May 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **janitore** ![][flag_CA] | **7** | 3 | ![][flag_KR] Jakads | [#1](https://osu.ppy.sh/community/matches/84005608) |
-| **nananass** ![][flag_JP] | **7** | 0 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/84007230) |
-| r1chyy ![][flag_AU] | 0 | **7** | ![][flag_CA] **honkers** | *win by default* |
-| **Garpo** ![][flag_US] | **7** | 1 | ![][flag_JP] uranosu1030 | [#1](https://osu.ppy.sh/community/matches/84007217) |
-| **oL0** ![][flag_KR] | **7** | 1 | ![][flag_AU] AuroraPhasmata | [#1](https://osu.ppy.sh/community/matches/84010967%3E) |
-| Raytoly ![][flag_TH] | 6 | 6 | ![][flag_JP] Ku\_Ren | [#1](https://osu.ppy.sh/community/matches/84018989) |
-| **Ikkun** ![][flag_IT] | **7** | 0 | ![][flag_JP] Saikoro | [#1](https://osu.ppy.sh/community/matches/84025131) |
-| \[Zeth\] ![][flag_MY] | 6 | 6 | ![][flag_RU] Akonine | [#1](https://osu.ppy.sh/community/matches/84027400) |
-| **\_Doodle\_** ![][flag_AR] | **7** | 3 | ![][flag_KR] 5henry | [#1](https://osu.ppy.sh/community/matches/84034817) |
-| LordEnder ![][flag_IT] | 4 | **7** | ![][flag_IT] **coed** | [#1](https://osu.ppy.sh/community/matches/84039519) |
-| **Lynerrr** ![][flag_KZ] | **7** | 2 | ![][flag_BE] XOlifreX | [#1](https://osu.ppy.sh/community/matches/84047741) |
-| **FurryBoujee** ![][flag_BR] | **7** | 0 | ![][flag_FR] BananaW | *win by default* |
-| CrowWhite ![][flag_RU] | 1 | **7** | ![][flag_US] **Etholux** | [#1](https://osu.ppy.sh/community/matches/84051674) |
-| Coryn ![][flag_BR] | 6 | 6 | ![][flag_GB] Teezel | [#1](https://osu.ppy.sh/community/matches/84064545) |
-
-### Swiss week 1
-
-Saturday, 15 May 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **nananass** ![][flag_JP] | **7** | 1 | ![][flag_KZ] Lynerrr | [#1](https://osu.ppy.sh/community/matches/83385729) |
-| **Konpaku Sariel** ![][flag_KR] | **7** | 3 | ![][flag_TW] Yuemiao | [#1](https://osu.ppy.sh/community/matches/83390574) |
-| **A-40** ![][flag_IT] | **7** | 1 | ![][flag_KR] GoZaRaNi | [#1](https://osu.ppy.sh/community/matches/83397922) |
-| **\_Doodle\_** ![][flag_AR] | **7** | 1 | ![][flag_TW] cat1346 | [#1](https://osu.ppy.sh/community/matches/83397925) |
-| **J a c k y** ![][flag_HK] | **7** | 0 | ![][flag_UA] Don Omar | [#1](https://osu.ppy.sh/community/matches/83401924) |
-| **Raytoly** ![][flag_TH] | **7** | 0 | ![][flag_CA] honkers | [#1](https://osu.ppy.sh/community/matches/83405119) |
-| **bernard351** ![][flag_PL] | **7** | 3 | ![][flag_GB] Daniels | [#1](https://osu.ppy.sh/community/matches/83405083) |
-| mangomizer ![][flag_GB] | 5 | **7** | ![][flag_NZ] **Sparxe** | [#1](https://osu.ppy.sh/community/matches/83405606) |
-| **yu-ki\_** ![][flag_JP] | **7** | 2 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/83405707) |
-| HiroK ![][flag_BR] | 2 | **7** | ![][flag_BR] **Gustav0eiji** | [#1](https://osu.ppy.sh/community/matches/83413631), [#2](https://osu.ppy.sh/community/matches/83416800) |
-| **D3kuu** ![][flag_IT] | **7** | 1 | ![][flag_MY] Xok | [#1](https://osu.ppy.sh/community/matches/83417440) |
-| **Skull Kid** ![][flag_BR] | **7** | 2 | ![][flag_CH] MC2BP | [#1](https://osu.ppy.sh/community/matches/83418728) |
-| **\_knots** ![][flag_US] | **7** | 4 | ![][flag_BE] XOlifreX | [#1](https://osu.ppy.sh/community/matches/83422824) |
-| **LordEnder** ![][flag_IT] | **7** | 2 | ![][flag_BR] FurryBoujee | [#1](https://osu.ppy.sh/community/matches/83424964) |
-
-Sunday, 16 May 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Ppus** ![][flag_BR] | **7** | 2 | ![][flag_BR] Coryn | [#1](https://osu.ppy.sh/community/matches/83446275) |
-| **janitore** ![][flag_CA] | **7** | 0 | ![][flag_MX] -Arato | [#1](https://osu.ppy.sh/community/matches/83452492) |
-| **\[Zeth\]** ![][flag_MY] | **7** | 3 | ![][flag_US] Garpo | [#1](https://osu.ppy.sh/community/matches/83458473) |
-| r1chyy ![][flag_AU] | 3 | **7** | ![][flag_JP] **Ku\_Ren** | [#1](https://osu.ppy.sh/community/matches/83464262) |
-| phosphene47 ![][flag_KR] | 4 | **7** | ![][flag_JP] **Saikoro** | [#1](https://osu.ppy.sh/community/matches/83468725) |
-| **XK2238** ![][flag_JP] | **7** | 1 | ![][flag_TH] Ponamis | [#1](https://osu.ppy.sh/community/matches/83473055) |
-| **Minekuchi** ![][flag_DE] | **7** | 3 | ![][flag_JP] shakegohan\_jar | [#1](https://osu.ppy.sh/community/matches/83473056) |
-| **oL0** ![][flag_KR] | **7** | 0 | ![][flag_RU] CrowWhite | [#1](https://osu.ppy.sh/community/matches/83475194) |
-| **Akonine** ![][flag_RU] | **7** | 2 | ![][flag_JP] uranosu1030 | [#1](https://osu.ppy.sh/community/matches/83477641) |
-| **Ikkun** ![][flag_IT] | **7** | 0 | ![][flag_RU] Den4ik228 | [#1](https://osu.ppy.sh/community/matches/83477972) |
-| **5henry** ![][flag_KR] | **7** | 1 | ![][flag_ID] Naverlyn | [#1](https://osu.ppy.sh/community/matches/83479482) |
-| petterde ![][flag_NO] | 4 | **7** | ![][flag_KR] **Jakads** | [#1](https://osu.ppy.sh/community/matches/83484317) |
-| **Genjuro** ![][flag_GR] | **7** | 1 | ![][flag_TW] \_Llama | [#1](https://osu.ppy.sh/community/matches/83488630) |
-| **coed** ![][flag_IT] | **0** | -1 | ![][flag_FR] BananaW | *win by default* |
-| **cheese salad** ![][flag_US] | **7** | 0 | ![][flag_GB] Teezel | [#1](https://osu.ppy.sh/community/matches/83500633) |
-| **Vulkin** ![][flag_CL] | **7** | 3 | ![][flag_NL] Cookie\_Tree | [#1](https://osu.ppy.sh/community/matches/83500624) |
-| **gaston\_2199** ![][flag_AR] | **7** | 0 | ![][flag_FI] MEGAMELA | [#1](https://osu.ppy.sh/community/matches/83504892) |
-| **AuroraPhasmata** ![][flag_US] | **7** | 4 | ![][flag_US] Etholux | [#1](https://osu.ppy.sh/community/matches/83519527) |
+- [Tier 1](https://docs.google.com/spreadsheets/d/1zpqzC3bDP8Z0PDAMl9yw_JwQZJZ5VYQ3QWizhK4nJLU/edit?usp=sharing "Google Sheets")
+- [Tier 2](https://docs.google.com/spreadsheets/d/1WP8hDHK8ouFXIJmmzR7eM0CLbNjmrIYmHsUxLkBWbSc/edit?usp=sharing "Google Sheets")
+- [Tier 3](https://docs.google.com/spreadsheets/d/1QhoFfQkejvdqKJA-Dtv1BSdNJinrYcMEC3W19SdxmeU/edit?usp=sharing "Google Sheets")
+- [Tier 4](https://docs.google.com/spreadsheets/d/1i9G5uJ0Gk1h_yecxnWCebJm1tI5ZAKKfhIOctwixFLU/edit?usp=sharing "Google Sheets")
 
 ## Ruleset
 
