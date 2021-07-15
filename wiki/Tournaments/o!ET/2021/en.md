@@ -16,7 +16,7 @@ The **osu! European Tournament 2021** (**o!ET 2021**) was a 4v4 osu! tournament 
 | --: | :-- |
 | Registration phase | 2021-04-04/2021-04-25 |
 | Screening | 2021-04-26/2021-05-09 |
-| Qualifiers| 2021-05-15/2021-05-23 |
+| Qualifiers | 2021-05-15/2021-05-23 |
 | Captains reveeal | 2021-05-24 |
 | Teams drafting | 2021-05-29/2021-05-30 |
 | Round of 16 | 2021-06-05/2021-06-06 |
@@ -504,7 +504,6 @@ Further concerns and debate with Sentenza about the format, please contact Sente
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
