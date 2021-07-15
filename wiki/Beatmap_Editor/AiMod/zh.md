@@ -6,7 +6,7 @@ outdated: true
 
 Aimod 是一个内置于 beatmap editor 中的一个工具，你可以在 “File-->Open AiMod” 或者按下 “Ctrl+Shift+A” 打开它。当你做完一张 beatmap 正在找或者打算找 modder 来看你的 beatmap 的时候，你就可以打开这个工具来看看。AiMod 可以检测出一些新人比较容易出现的问题，也可以对较简单难度的图进行一个检测。不过 AiMod 始终都带有一个 Ai，就肯定有一些检测不出来的问题，所以，除了需要使用 AiMod 进行 beatmap 检测之外，还需要一些 modder 来检测你的 beatmap。
 
-![AiMod](AiMod.jpg "通常 AiMod 都是你的第一个 Modder")
+![AiMod](img/AiMod-ZH.png "通常 AiMod 都是你的第一个 Modder")
 
 ## 常见错误解释
 
@@ -58,6 +58,12 @@ Aimod 是一个内置于 beatmap editor 中的一个工具，你可以在 “Fil
 - Timing-->Move all notes in time，如果只改变了 offset（偏移量），可以修改这个
 - 自行在时间轴上拖放物件
 
+#### There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps.
+
+翻译：**物件无击打音效，对于ranked图而言是必须有的**
+
+解决: 为谱面添加whistle、clap、finish等击打音效
+
 ### Design（背景设计）
 
 这些问题一般都是一些界面的问题，比如背景、故事板等等
@@ -90,6 +96,14 @@ Design-->Background Image/Video-->选择你的图片
 
 ### Meta（元信息）
 
+#### Drain time should be over 30 seconds.
+
+翻译：**掉血时间应该超过30秒**
+
+级别：错误
+
+解决: **地图从头到尾的时间应该超过30秒**
+
 ### Mapset（难度设置）
 
 一般来说，一个**完整的** beatmap 并不会只有一个难度，而这些难度里面的内容，也要协调一下。
@@ -111,3 +125,15 @@ xxx confict...的xxx可能代表的信息：Source（来源）、Tags、Title（
 ..at least xxx diff(s)的xxx可能代表的信息：1 easy/normal（需要1个 easy 或者 normal 的难度）、2 standard（需要2个难度）
 
 级别：警告
+
+
+### 缺陷
+* **AiMod 无法检测许多在[Ranking Criteria](/wiki/Ranking_Criteria)中被视为违反规则的问题。** 例如未对齐节拍的物件、击打音效延迟、谱面背景图片大小超过2.5MB等。
+* **AiMod 可能会警告您一些不是问题的问题。** 例如[马拉松图](/wiki/Beatmap/Marathon)应当有两个难度，[Kiai](/wiki/Kiai_Time)时长少于 15 秒。
+* **如果启用了 `Check distance snap` 功能，AiMod 将不会检查 Combo 间的距离。**
+* **AiMod可能会出现无法检测错误已解决**，比如你刚刚在几个combos上添加了hitsound，但AiMod还是会提示**There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps.**
+* **如果beatmap文件夹里面有多个MP3文件，AiMod可能会警告您有多个歌曲文件**，但MP3文件也使用于音效(Hitsound),如掌声(clap)
+
+另外 建议使用其他程序，比如[][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) 的 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases)。除了AiMod，如果你想让你的beatmap 被[ranked](/wiki/Beatmap/Category#ranked)。其他程序可以比AiMod更了解最新的[Ranking criteria](/wiki/Ranking_Criteria)，并且能检测到的问题比AiMod多。但是，请不要完全忽略了AiMod，因为[Ranking criteria](/wiki/Ranking_Criteria)中的某些规则需要依赖于它(如 Drain time should be over 30 seconds)
+
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
