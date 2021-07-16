@@ -8,7 +8,7 @@ tags:
 
 ![o!ET 2021 logo](img/logo.jpg)
 
-The **osu! European Tournament 2021** (**o!ET 2021**) was a 4v4 osu! tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133). The tournament was run in tiered-draft format, a team was formed post qualifiers consist of 8 players with 4 tiers and 2 players filled each tiers. The tournament was also rank-restricted to rank between #1 and #30,000. It was the fourth installment of the osu! European Tournament.
+The **osu! European Tournament 2021** (**o!ET 2021**) was a 4v4 osu! tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133). The tournament was run in tiered-draft format, a team of 8 players was formed post qualifiers with 4 tiers and 2 players filled each tier. The tournament was also rank-restricted to rank between #1 and #30,000. It was the fourth installment of the osu! European Tournament.
 
 ## Tournament schedule
 
@@ -17,11 +17,11 @@ The **osu! European Tournament 2021** (**o!ET 2021**) was a 4v4 osu! tournament 
 | Registration phase | 2021-04-04/2021-04-25 |
 | Screening | 2021-04-26/2021-05-09 |
 | Qualifiers | 2021-05-15/2021-05-23 |
-| Captains reveeal | 2021-05-24 |
-| Teams drafting | 2021-05-29/2021-05-30 |
+| Captains reveal | 2021-05-24 |
+| Team drafting | 2021-05-29/2021-05-30 |
 | Round of 16 | 2021-06-05/2021-06-06 |
 | Quarterfinals | 2021-06-12/2021-06-18 |
-| Semiinals | 2021-06-20/2021-07-02 |
+| Semifinals | 2021-06-20/2021-07-02 |
 | Finals | 2021-07-03/2021-07-04 |
 | Grand Finals | 2021-07-09/2021-07-11 |
 
@@ -58,7 +58,7 @@ The osu! European Tournament 2021 was run by various community members.
 
 ## Participants
 
-*Note: Tiers were recorded at the end of qualifiers, remaining that didn't qualify is won't be listed.*
+*Note: Tiers were recorded at the end of qualifiers. Remaining players who didn't qualify aren't listed.*
 
 | Tier | Player |
 | --: | :-- |
@@ -156,7 +156,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (102 MB)](https://mega.nz/file/HiQWEbBR#3QOcW-wqew-cxv74mIpw01mKgZg0JeCx4gS0-ZYddxs)**
+**[Download the mappack here! (102 MB)](https://mega.nz/file/HiQWEbBR#3QOcW-wqew-cxv74mIpw01mKgZg0JeCx4gS0-ZYddxs "MEGA")**
 
 - FreeMod
   - [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2689519)
@@ -408,7 +408,7 @@ Sunday, 6 June 2021:
 
 ### Qualifiers
 
-More detailed qualifiers results can be accessed via these spreadsheets below:
+More detailed qualifier results can be accessed via these spreadsheets below:
 
 - [Tier 1](https://docs.google.com/spreadsheets/d/1zpqzC3bDP8Z0PDAMl9yw_JwQZJZ5VYQ3QWizhK4nJLU/edit?usp=sharing "Google Sheets")
 - [Tier 2](https://docs.google.com/spreadsheets/d/1WP8hDHK8ouFXIJmmzR7eM0CLbNjmrIYmHsUxLkBWbSc/edit?usp=sharing "Google Sheets")
@@ -426,9 +426,9 @@ More detailed qualifiers results can be accessed via these spreadsheets below:
      - Tier 3: #7,501 - #15,000
      - Tier 4: #15,001 - #30,000
      - There will not be a rank buffer for any of the ranges
-2. Only players from the Europe region may sign up to the tournament. Participants may find a list of European countries through [following link](https://en.wikipedia.org/wiki/List_of_European_countries_by_area). If they wish to enter the tournament while the flag of their profile page has isn't listed here, participants can contact the host through Discord DMs to discuss the matter.
+2. Only players from the Europe region may sign up to the tournament. Participants may find a list of European countries [here](https://en.wikipedia.org/wiki/List_of_European_countries_by_area "Wikipedia"). If they wish to enter the tournament even though the flag of their profile page isn't listed there, participants can contact the host through Discord DMs to discuss the matter.
 3. The matches will be played with the following win conditions: TeamVS, Score V2.
-4. The BWS (Badge Weighting System) is used for the registration part of the tournament, formula used is as follows: `rank ^ 0.99 ^ badges ^ 2`. However, the rank calculation will be slightly different, and each badge will not have the same weighting depending on participants' rank. More information regarding this can be found under the [BWS section below](#bws-format).
+4. The Badge Weighting System (BWS) is used for the registration part of the tournament, where the formula used is as follows: `rank ^ 0.99 ^ badges ^ 2`. However, the rank calculation will be slightly different, and each badge will not have the same weighting depending on participants' rank. More information regarding this can be found under the [BWS section below](#bws-format).
 5. Each mappool and schedule for a weekend will be released at the latest on the Monday prior to that weekend, exceptions being exceptional circumstances or all matches that concluded early.
 6. Once all teams are formed, a Challonge bracket will be made and shuffled.
 7. A referee will be assigned to every match/lobby. Invites can be sent up to **10 minutes** ahead of the scheduled match time.
@@ -438,19 +438,21 @@ More detailed qualifiers results can be accessed via these spreadsheets below:
 
 ### BWS format
 
-This tournament will introduce "progressive" Badge Weighting System (abbreviated to BWS), which is a format proposed by ![][flag_FR] [Sentenza](https://osu.ppy.sh/users/8129217) aiming at weighting each badge differently, according to whether or not they ranked up past a tournament’s rank range in which they won one or multiple badges. For instance, if a participant won a badge at rank #10,000 - #25,000 but ranked up beyond #10,000 (e.g. rank #7,000), their badge will weight less than a badge they'd have won in a #5,000 - #15,000 rank range tournament. Please check the following [sheet](https://docs.google.com/spreadsheets/d/1l1FemA9ZL4gbMcVMfu-sYe-VqSIlU1ebNkcneJlb7rI/edit?usp=sharing) out to see an example with the cases of ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143) and ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383). Defex ranked past the rank ranges of the two badged tournaments he won, so both his badges will weight less towards his BWS rank, but not by much since he’s still close to them. (see and compare the O!ET example (Defex) with Original BWS Calc (Defex) sheets). This doesn’t make much of a change, but for participants with a larger amount of badges, it can have a significant impact. YoshiLover456 is naturally being hit with harsher BWS because of his badges amount (4), and is still in range for 3 of them. However, because he ranked out of the range of one tournament, said badge will weight less, and will allow him to play in tier 3 instead of tier 2, which seems more fair.
-Further concerns and debate with Sentenza about the format, please contact Sentenza through Discord DMs `sentenza013#6435`.
+This tournament will introduce "progressive" Badge Weighting System (BWS), a format proposed by ![][flag_FR] [Sentenza](https://osu.ppy.sh/users/8129217) aiming at weighing each badge differently, according to whether or not they ranked up past a tournament’s rank range in which they won one or multiple badges. For instance, if a participant won a badge at rank #10,000 - #25,000 but ranked up beyond #10,000 (e.g. rank #7,000), their badge will weigh less than a badge they'd have won in a #5,000 - #15,000 rank range tournament.
+
+Please check the following [spreadsheet](https://docs.google.com/spreadsheets/d/1l1FemA9ZL4gbMcVMfu-sYe-VqSIlU1ebNkcneJlb7rI/edit?usp=sharing "Google Sheets") out to see an example with the cases of ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143) and ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383). Defex ranked past the rank ranges of the two badged tournaments he won, so both his badges will weigh less towards his BWS rank, but not by much since he’s still close to them (see and compare the O!ET example (Defex) with Original BWS Calc (Defex) sheets). This doesn’t make much of a change, but for participants with a larger amounts of badges, it can have a significant impact. YoshiLover456 is naturally being hit with harsher BWS because of his badge amount (4), and still being in range for 3 of them. However, because he ranked out of the range of one tournament, said badge will weigh less, and will allow him to play in tier 3 instead of tier 2, which seems more fair.
+For further concerns or debate with Sentenza about the format, please contact them by Discord DM at `sentenza013#6435`.
 
 ### Draft procedure
 
 1. Captains will be added to a special chat **10 minutes** before the draft, around the same time the EZ multiplier poll ends. The draft will be held in the dedicated text channel.
-2. A check-in will then be done, and once all captains checked-in, the draft order will be randomised by ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899)'s bot, shdewz-chan. The first player to come up on the randomised list will pick first, second will be second pick, and so on.
+2. A check-in will then be done, and once all captains have checked-in, the draft order will be randomised by ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899)'s bot, shdewz-chan. The first player to come up on the randomised list will pick first, second will be second pick, and so on.
 3. If everything goes as planned, the entire draft will be held using the bot, and the following steps will apply. In the case the bot is not ready, everything will be done manually, but not much will change.
 4. The draft will begin with shdewz-chan mentioning the captain who is to pick. Captains have **2 minutes** to decide on which player to pick, using a command provided to them. Once a captain has picked, shdewz-chan will mention the next captain to pick. This will go on until there are no players left to pick.
 5. Captains may freely pick from any tier, as long as their team does not have more than 2 players from the same tier.
-6. Pick order will be 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16. Once the 16th captain on the list has been reached, pick order will reverse until we reach the first name on the original list again (16, 15, 14, and so on... in a snake order draft). 1st and 16th names will get to pick twice (this rule won't apply for the first round of picks for 1st name, and for the last round of picks for the 16th name (as there will only be one player left to pick anyway).
+6. Picks will be done in order from 1 to 16. Once the 16th captain on the list has been reached, pick order will reverse until the first name on the original list is reached again (16, 15, 14, and so on... in a snake order draft). As such, the captains at 1st and 16th place get to pick twice, except for the first and last picks.
 
-### Match procedures & Mappols format
+### Match procedures & Mappools format
 
 #### Qualifiers
 
@@ -460,32 +462,32 @@ Further concerns and debate with Sentenza about the format, please contact Sente
    - 2 Hidden
    - 2 HardRock
    - 2 DoubleTime
-   - This apply for all tiers
+   - This applies for all tiers
 3. There will be one playthrough of the pool for each player.
-4. The grace period to show up to their lobby is **5 minutes**. Players may reschedule to other lobbies, if they missed their original lobby or as long as they haven’t played one yet.
+4. The grace period for participants to show up to their lobby is **5 minutes**. Players may reschedule to other lobbies if they missed their original lobby or as long as they haven’t played one yet.
 5. The seeding will be done through the sum of each player’s placement on each map. In the event of a tie by points, total score will be the deciding factor to break the tie.
 
 #### Bracket stage
 
 1. Each team will be composed of 8 players, 2 players per tier.
-2. During a match, each team must have one player from each tier in the room (one tier 1, one tier 2, one tier 3, one tier 4). They may not substitute a player from a lower tier to play in place of a higher tiered one (e.g. tier 4 playing in place of their tier 3 or 2 player), and they may not substitute a player from a higher tier to play in place of a lower tiered one.
-3. If a team fails to show up or gather enough members to make a fully-working team (1 tier 1, 1 tier 2, 1 tier 3, 1 tier 4) to a match, the other team will be granted a win. If neither teams show up to a match, the match will be rescheduled to a later time. Teams have **5 minutes** grace period to show up.
+2. During a match, each team must have one player from each tier in the room. They may not substitute a player from a lower tier to play in place of a higher tiered one (e.g. tier 4 playing in place of their tier 3 or 2 player), or vice versa.
+3. If a team fails to show up or gather enough members to make a fully-working team (as described above) to a match, the other team will be granted a win. If neither teams show up to a match, the match will be rescheduled to a later time. Teams have **5 minutes** of grace period to show up.
 4. This tournament’s mappools will feature 4 modpools: Freemod, ForceMod, DoubleTime+FreeMod, Tiebreaker.
-   - During a FreeMod pick, players can, but are not obliged to, select mods to play the map.
-   - During a ForceMod pick, teams must select mods. The required amount of mods per team is 3, and must have 2 unique mod combinations on at least 2 players. Teams may select from the following mods: Hidden, HardRock, Easy, Flashlight. HDHR counts as 2 mods and a unique mod combination, and will be considered as HR only, which means that to fulfill the unique mods requirement, another player has to use HD only; Easy will not count towards the unique mods combination requirement, but will contribute to the 3 total mods requirement, and its multiplier is to be determined; the EZHD combination will count as 2 mods towards the 3 total mods requirement, but will not contribute to the unique mods requirement. Flashlight counts as one unique mod combination and a single mod out of the 3 required. For instance, HDHR/HD/EZ/NM, HR/HD/HD/HR, HDHR/HD/EZ/EZ, are mod combinations that work. However, HD/EZ/NM/NM will not work.
-   - During a DoubleTime+FreeMod pick, teams can, but are not obliged to, select mods to play the map.
-   - During a Tiebreaker pick, players can, but are not obliged to, select mods to play the map.
-   - In the case of a tie in score, the Tiebreaker will be played (e.g., in a best of 11 match and 5-5 scenario, the tiebreaker will be played).
+   - During a FreeMod, DoubleTime+FreeMod, or Tiebreaker pick, players can, but are not obliged to, select mods to play the map.
+   - During a ForceMod pick, teams must select mods. Each team must choose a total of 3 mods, and must have 2 unique mod combinations on at least 2 players. Teams may select from Hidden, HardRock, Easy, and Flashlight. The following caveats apply:
+     - HDHR counts as 2 mods and a unique mod combination, and is be considered as HR only. This means that to fulfil the unique mods requirement, another player has to use HD only.
+     - Easy does not count towards the unique mods combination requirement, but contributes to the 3 total mods requirement, and its multiplier is to be determined.
+     - The EZHD combination counts as 2 mods towards the 3 total mods requirement, but does not contribute to the unique mods requirement.
+     - Flashlight counts as one unique mod combination and a single mod out of the 3 required.
+     - For instance, HDHR/HD/EZ/NM, HR/HD/HD/HR, and HDHR/HD/EZ/EZ are mod combinations that work. However, HD/EZ/NM/NM does not work.
+   - In the case of a tie in score, the Tiebreaker will be played (e.g. in a best of 11 match and 5-5 scenario, the tiebreaker will be played).
 5. Team captains will roll to determine the pick and ban order. The team that rolls the highest will ban in second and pick first.
-6. Teams will be allowed to ban 1 map per match up to Quarterfinals and Loser's Round 1, and 2 maps from Semifinals and onward. Ban alternation will be allowed, if the pool supports 2 bans. However, they cannot ban two maps from the same mod pool, with the exception of Freemod.
-7. The winning condition, mappool format and bans amount for each stage are listed as follows:
-   - The Round of 16 and the Quarterfinals: Best-Of-9 (First to 5 points wins), 1 ban per team. Pool format: 5FM/3FO/3DT/3TB.
-   - The Semifinals: Best-Of-11 (First to 6 points wins), 2 bans per team. Pool format: 7FM/4FO/4DT/3TB.
-   - The Finals and the Grand Finals: Best-Of-13 (First to 7 points wins), 2 bans per team. Pool format: 8FM/5FO/5DT/3TB.
-8. Regarding disconnections/aborts: they can only be made up to 30 seconds after a map’s start. If the map is aborted/a disconnection happens:
-   - In the first 30 seconds: Map will be aborted, and the played map will be restarted.
-   - After the first 30 seconds: Map **will not** be aborted, and it is up to the team that wasn’t affected by the abort to decide whether they wish to replay the map or not.
-   - Each team can call for an abort one time per match.
+6. Teams will be allowed to ban 1 map per match up to Quarterfinals and Loser's Round 1, and 2 maps from Semifinals and onward. Ban alternation will be allowed if the pool supports 2 bans. However, they cannot ban 2 maps from the same mod pool, with the exception of Freemod.
+7. The winning condition, mappool format, and ban amount for each stage are listed as follows:
+   - The Round of 16 and the Quarterfinals: Best of 9 (first to 5 points wins), 1 ban per team. Pool format: 5FM/3FO/3DT/3TB.
+   - The Semifinals: Best of 11 (first to 6 points wins), 2 bans per team. Pool format: 7FM/4FO/4DT/3TB.
+   - The Finals and the Grand Finals: Best of 13 (first to 7 points wins), 2 bans per team. Pool format: 8FM/5FO/5DT/3TB.
+8. Disconnections and aborts can only be made up to 30 seconds after a map’s start for a replay of that map. After 30 seconds, the map **will not** be aborted, and the team that wasn’t affected by the abort decides whether they wish to replay the map or not. Each team can call for an abort one time per match.
 
 [flag_AL]: /wiki/shared/flag/AL.gif "Albania"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
