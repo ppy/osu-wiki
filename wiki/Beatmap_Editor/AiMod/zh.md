@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # AiMod
 
 Aimod 是一个内置于 beatmap editor 中的一个工具，你可以在 “File-->Open AiMod” 或者按下 “Ctrl+Shift+A” 打开它。当你做完一张 beatmap 正在找或者打算找 modder 来看你的 beatmap 的时候，你就可以打开这个工具来看看。AiMod 可以检测出一些新人比较容易出现的问题，也可以对较简单难度的图进行一个检测。不过 AiMod 始终都带有一个 Ai，就肯定有一些检测不出来的问题，所以，除了需要使用 AiMod 进行 beatmap 检测之外，还需要一些 modder 来检测你的 beatmap。
@@ -133,6 +129,7 @@ xxx confict...的xxx可能代表的信息：Source（来源）、Tags、Title（
 * **如果启用了 `Check distance snap` 功能，AiMod 将不会检查 Combo 间的距离。**
 * **AiMod可能会出现无法检测错误已解决**，比如你刚刚在几个combos上添加了hitsound，但AiMod还是会提示**There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps.**
 * **如果beatmap文件夹里面有多个MP3文件，AiMod可能会警告您有多个歌曲文件**，但MP3文件也使用于音效(Hitsound),如掌声(clap)
+* * **不要在选中物件的时候打开AiMod，特别是Spinner**，因为AiMod认为您已经放置了一个不该放置的时间轴/错误的地方
 
 另外 建议使用其他程序，比如[][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) 的 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases)。除了AiMod，如果你想让你的beatmap 被[ranked](/wiki/Beatmap/Category#ranked)。其他程序可以比AiMod更了解最新的[Ranking criteria](/wiki/Ranking_Criteria)，并且能检测到的问题比AiMod多。但是，请不要完全忽略了AiMod，因为[Ranking criteria](/wiki/Ranking_Criteria)中的某些规则需要依赖于它(如 Drain time should be over 30 seconds)
 
