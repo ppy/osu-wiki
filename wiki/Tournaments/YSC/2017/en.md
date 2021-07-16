@@ -75,7 +75,7 @@ Yaz's Summer Cup 2017 was run by various community members by distributing the m
 | Group M | ![][flag_LV] **[Emula](https://osu.ppy.sh/users/2891792)**, ![][flag_GR] **[xDarxen](https://osu.ppy.sh/users/4625954)**, ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238), ![][flag_SG] [Emilia](https://osu.ppy.sh/users/2003326) |
 | Group N | ![][flag_DE] **[Firstus](https://osu.ppy.sh/users/1856829)**, ![][flag_AU] **[Lunirs](https://osu.ppy.sh/users/2118945)**, ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086) |
 | Group O | ![][flag_US] **[Monko2k](https://osu.ppy.sh/users/4852013)**, ![][flag_US] **[Smoothie World](https://osu.ppy.sh/users/1855540)**, ![][flag_NL] [Timpai](https://osu.ppy.sh/users/5054798), ![][flag_RU] [ncuh](https://osu.ppy.sh/users/2891734) |
-| Group P | ![][flag_ES] **[Betwin](https://osu.ppy.sh/users/1968481)**, ![][flag_NL] **[Mr HeliX](https://osu.ppy.sh/users/2330619)**, ![][flag_GB] [TopSp1n](https://osu.ppy.sh/users/7657761), ![][flag_EG] [KupcaH](https://osu.ppy.sh/users/7844575) |
+| Group P | ![][flag_ES] **[Betwin](https://osu.ppy.sh/users/1968481)**, ![][flag_GB] **[Helix](https://osu.ppy.sh/users/3322597)**, ![][flag_GB] [TopSp1n](https://osu.ppy.sh/users/7657761), ![][flag_EG] [KupcaH](https://osu.ppy.sh/users/7844575) |
 
 See the [Participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw/pubhtml?gridlines=false "Google Sheets") for the list of 128 initial participants.
 
@@ -325,140 +325,245 @@ See the [Participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Vaxei** ![][flag_US] | **7** | 1 | ![][flag_US] Toy |  |
 
 ### Finals
 
 #### Winners Finals
 
+Sunday, 10 September 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Vaxei** ![][flag_US] | **6** | 0 | ![][flag_US] Toy |  |
 
 #### Losers Bracket Round 6
 
+Friday, 8 September 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Cookiezi** ![][flag_KR] | **6** | 5 | ![][flag_US] he rack |  |
+| **Azer** ![][flag_CA] | **6** | 1 | ![][flag_RO] Rohulk |  |
 
 #### Losers Semifinals
 
+Saturday, 9 September 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Cookiezi** ![][flag_KR] | **6** | 1 | ![][flag_CA] Azer |  |
 
 #### Losers Finals
 
+Saturday, 16 September 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| Cookiezi ![][flag_KR] | 5 | **6** | ![][flag_US] **Toy** |  |
 
 ### Semifinals
 
 #### Winners Semifinals
 
+Saturday, 2 September 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| Rohulk ![][flag_RO] | 4 | **6** | ![][flag_US] **Vaxei** |  |
+
+Sunday, 3 September 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Toy** ![][flag_US] | **6** | 2 | ![][flag_US] he rack |  |
 
 #### Losers Bracker Round 4
 
+Saturday, 2 September 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Cookiezi** ![][flag_KR] | **6** | 1 | ![][flag_PL] MrBooM |  |
+
+Sunday, 3 September 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| Firstus ![][flag_DE] | 2 | **6** | ![][flag_US] **Monko2k** |  |
+| **Azer** ![][flag_CA] | **6** | 4 | ![][flag_US] fieryrage |  |
+
+Monday, 4 September 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| Rucker ![][flag_TW] | 2 | **6** | ![][flag_GB] **Bubbleman** |  |
 
 #### Losers Bracker Round 5
 
+Sunday, 3 September 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Azer** ![][flag_CA] | **6** | 0 | ![][flag_US] Monko2k |  |
+
+Tuesday, 5 September 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Cookiezi** ![][flag_KR] | **6** | 5 | ![][flag_GB] Bubbleman |  |
 
 ### Quarterfinals
 
 #### Quarterfinals
 
+Saturday, 26 August 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| Cookiezi ![][flag_KR] | 3 | **5** | ![][flag_RO] **Rohulk** |  |
+| Rucker ![][flag_TW] | 0 | **5** | ![][flag_US] **Vaxei** |  |
+
+Sunday, 27 August 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Toy** ![][flag_US] | **5** | 1 | ![][flag_CA] Azer |  |
+
+Monday, 28 August 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **he rack** ![][flag_US] | **5** | 3 | ![][flag_US] Monko2k |  |
 
 #### Losers Bracker Round 2
 
+Saturday, 26 August 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| Lunirs ![][flag_AU] | 2 | **5** | ![][flag_PL] **My Angel MrBooM** |  |
+| **MrBooM** ![][flag_PL] | **5** | 1 | ![][flag_GB] Doomsday |  |
+| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_ES] Rekens |  |
+| DigitalHypno ![][flag_US] | 3 | **5** | ![][flag_DE] **Firstus** |  |
+| imagaK ![][flag_DE] | 2 | **5** | ![][flag_US] **Apraxia** |  |
+| **fieryrage** ![][flag_US] | **5** | 3 | ![][flag_NL] Ahmnesia |  |
+
+Tuesday, 29 August 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Emula** ![][flag_LV] | **5** | 0 | ![][flag_DE] [ Nano ] |  |
+| Helix ![][flag_GB] | 0 | **1** | ![][flag_FR] **ThePooN** | *forfeit* |
 
 #### Losers Bracker Round 3
 
+Sunday, 27 August 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| My Angel MrBooM ![][flag_PL] | 4 | **5** | ![][flag_DE] **Firstus** |  |
+| Apraxia ![][flag_US] | 3 | **5** | ![][flag_PL] **MrBooM** |  |
+
+Tuesday, 29 August 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_LV] Emula |  |
+| **fieryrage** ![][flag_US] | **5** | 3 | ![][flag_FR] ThePooN |  |
 
 ### Round of 16
 
 #### Round of 16
 
+Saturday, 19 August 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| Helix ![][flag_GB] | 0 | **5** | ![][flag_KR] **Cookiezi** |  |
+| DigitalHypno ![][flag_US] | 1 | **5** | ![][flag_TW] **Rucker** |  |
+| **Toy** ![][flag_US] | **5** | 0 | ![][flag_PL] MrBooM |  |
+| **Rohulk** ![][flag_RO] | **5** | 4 | ![][flag_US] fieryrage |  |
+| **Monko2k** ![][flag_US] | **5** | 1 | ![][flag_GB] Bubbleman |  |
+
+Sunday, 20 August 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| Lunirs ![][flag_AU] | 0 | **5** | ![][flag_US] **Vaxei** |  |
+
+Monday, 21 August 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| Emula ![][flag_LV] | 3 | **5** | ![][flag_US] **he rack** |  |
+
+Tuesday, 22 August 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Azer** ![][flag_CA] | **5** | 2 | ![][flag_DE] imagaK |  |
 
 #### Losers Bracker Round 1
 
+Saturday, 19 August 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Apraxia** ![][flag_US] | **5** | 0 | ![][flag_NO] gilmat |  |
+
+Sunday, 20 August 2017:
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Rekens** ![][flag_ES] | **5** | 4 | ![][flag_GR] xDarxen |  |
+| Shirasaka Koume ![][flag_JP] | 0 | **5** | ![][flag_PL] **My Angel MrBooM** |  |
+| **Firstus** ![][flag_DE] | **5** | 2 | ![][flag_ES] Betwin |  |
+| Syph  ![][flag_NL] | 2 | **5** | ![][flag_NL] **Ahmnesia** |  |
+| Num ![][flag_US] | 2 | **5** | ![][flag_FR] **ThePooN** |  |
+| **Doomsday** ![][flag_GB] | **1** | 0 | ![][flag_US] Smoothie World | *forfeit* |
 
 ### Round of 32
 
+Thursday, 10 August 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Monko2k** ![][flag_US] | **4** | 1 | ![][flag_US] Num |  |
+
+Saturday, 12 August 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Cookiezi** ![][flag_KR] | **4** | 1 | ![][flag_GR] xDarxen |  |
+| gilmat ![][flag_NO] | 1 | **4** | ![][flag_TW] **Rucker** |  |
+| Firstus  ![][flag_DE] | 2 | **4** | ![][flag_CA] **Azer** |  |
+| **he rack**  ![][flag_US] | **4** | 2 | ![][flag_NL] Ahmnesia |  |
+| Doomsday ![][flag_GB] | 3 | **4** | ![][flag_AU] **Lunirs** |  |
+
+Sunday, 13 August 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Toy** ![][flag_US] | **4** | 2 | ![][flag_JP] Shirasaka Koume |  |
+| Rekens ![][flag_ES] | 3 | **4** | ![][flag_GB] **helix** |  |
+| **Emula**  ![][flag_LV] | **4** | 1 | ![][flag_NL] Syph |  |
+| Betwin ![][flag_ES] | 0 | **4** | ![][flag_DE] **imagaK** |  |
+| My Angel MrBooM ![][flag_PL] | 1 | **4** | ![][flag_PL] **MrBooM** |  |
+| **Rohulk** ![][flag_RO] | **4** | 1 | ![][flag_DE] [ Nano ] |  |
+| Apraxia ![][flag_US] | 2 | **4** | ![][flag_US] **DigitalHypno** |  |
+| **fieryrage** ![][flag_US] | **1** | 0 | ![][flag_ES] kazamabc | *forfeit* |
+
+Monday, 14 August 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| ThePooN ![][flag_FR] | 2 | **4** | ![][flag_GB] **Bubbleman** |  |
+
+Tuesday, 15 August 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Vaxei** ![][flag_US] | **4** | 1 | ![][flag_US] Smoothie World |  |
 
 ### Group stage
 
@@ -466,234 +571,271 @@ See the [Participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Cookiezi** ![][flag_KR] | **4** | 3 | ![][flag_NL] Ahmnesia |  |
+| respektive ![][flag_DE] | 3 | **4** | ![][flag_LT] **Painsinger** |  |
+| **Cookiezi** ![][flag_KR] | **4** | 0 | ![][flag_LT] Painsinger |  |
+| **Ahmnesia** ![][flag_NL] | **4** | 0 | ![][flag_DE] respektive |  |
+| PainSinger ![][flag_LT] | 1 | **4** | ![][flag_NL] **Ahmnesia** |  |
 
 #### Group B
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Rohulk** ![][flag_RO] | **4** | 1 | ![][flag_JP] _YuriNee |  |
+| **imagaK** ![][flag_DE] | **4** | 2 | ![][flag_PL] Qbadoo |  |
+| **Rohulk** ![][flag_RO] | **4** | 1 | ![][flag_DE] imagaK |  |
+| **_YuriNee** ![][flag_JP] | **4** | 2 | ![][flag_PL] Qbadoo |  |
+| **imagaK** ![][flag_DE] | **4** | 1 | ![][flag_JP] _YuriNee |  |
 
 #### Group C
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Vaxei** ![][flag_US] | **4** | 1 | ![][flag_US] Exarch |  |
+| **MrBooM** ![][flag_PL] | **4** | 0 | ![][flag_SE] Ketchup |  |
+| **Vaxei** ![][flag_US] | **4** | 2 | ![][flag_PL] MrBooM |  |
+| **Exarch** ![][flag_US] | **4** | 2 | ![][flag_SE] Ketchup |  |
+| **MrBooM** ![][flag_PL] | **4** | 1 | ![][flag_US] Exarch |  |
 
 #### Group D
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| idke ![][flag_US] | 0 | **1** | ![][flag_NO] **gilmat** | *forfeit* |
+| Syph ![][flag_NL] | 1 | **4** | ![][flag_PL] **Malolat** |  |
+| **gilmat** ![][flag_NO] | **4** | 3 | ![][flag_PL] Malolat |  |
+| idke ![][flag_US] | 0 | **1** | ![][flag_NL] **Syph** | *forfeit* |
+| Malolat ![][flag_PL] | 3 | **4** | ![][flag_NL] **Syph** |  |
 
 #### Group E
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Azer** ![][flag_CA] | **4** | 0 | ![][flag_SK] Hranolka |  |
+| GSBlank ![][flag_SG] | 2 | **4** | ![][flag_ES] **Rekens** |  |
+| Azer ![][flag_CA] | 0 | **1** | ![][flag_ES] **Rekens** | *forfeit* |
+| **Hranolka** ![][flag_SK] | **1** | 0 | ![][flag_SG] GSBlank | *forfeit* |
+| **Azer** ![][flag_CA] | **4** | 1 | ![][flag_SK] Hranolka |  |
 
 #### Group F
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Bubbleman** ![][flag_GB] | **4** | 1 | ![][flag_US] Jensen |  |
+| **Doomsday** ![][flag_GB] | **1** | 0 | ![][flag_HU] emu1337 | *forfeit* |
+| Bubbleman ![][flag_GB] | 2 | **4** | ![][flag_GB] **Doomsday** |  |
+| **Jensen** ![][flag_US] | **4** | 2 | ![][flag_HU] emu1337 |  |
+| **Bubbleman** ![][flag_GB] | **4** | 1 | ![][flag_US] Jensen |  |
 
 #### Group G
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **fieryrage** ![][flag_US] | **4** | 3 | ![][flag_CA] Kaifin |  |
+| Spellstorm ![][flag_US] | 0 | **4** | ![][flag_JP] **Shirasaka Koume** |  |
+| **fieryrage** ![][flag_US] | **4** | 0 | ![][flag_JP] Shirasaka Koume |  |
+| Kaifin ![][flag_CA] | 0 | **1** | ![][flag_US] **Spellstorm** | *forfeit* |
+| **Shirasaka Koume** ![][flag_JP] | **4** | 2 | ![][flag_US] Spellstorm |  |
 
 #### Group H
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| -Akuro ![][flag_AT] | 1 | **4** | ![][flag_US] **Num** |  |
+| **Apraxia** ![][flag_US] | **1** | 0 | ![][flag_US] Wombraider__9 | *forfeit* |
+| Num ![][flag_US] | 0 | **4** | ![][flag_US] **Apraxia** |  |
+| -Akuro ![][flag_AT] | 2 | **4** | ![][flag_US] **Wombraider__9** |  |
+| **Num** ![][flag_US] | **4** | 3 | ![][flag_US] Wombraider__9 |  |
 
 #### Group I
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **ThePooN** ![][flag_FR] | **4** | 0 | ![][flag_SG] _Xancos_ |  |
+| - Phantasma - ![][flag_TH] | 2 | **4** | ![][flag_US] **DigitalHypno** |  |
+| **ThePooN** ![][flag_FR] | **4** | 2 | ![][flag_US] DigitalHypno |  |
+| **_Xancos_** ![][flag_SG] | **1** | 0 | ![][flag_TH] - Phantasma- | *forfeit* |
+| **DigitalHypno** ![][flag_US] | **4** | 1 | ![][flag_SG] _Xancos_ |  |
 
 #### Group J
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **My Angel MrBooM** ![][flag_PL] | **4** | 2 | ![][flag_DE] [ Nano ] |  |
+| **waywern2012** ![][flag_LV] | **4** | 0 | ![][flag_PL] Klocuch12 |  |
+| **My Angel MrBooM** ![][flag_PL] | **4** | 1 | ![][flag_LV] waywern2012 |  |
+| **[ Nano ]** ![][flag_DE] | **4** | 1 | ![][flag_PL] Klocuch12 |  |
+| waywern2012 ![][flag_LV] | 0 | **4** | ![][flag_DE] **[ Nano ]** |  |
 
 #### Group K
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Toy** ![][flag_US] | **4** | 1 | ![][flag_ES] kazamabc |  |
+| **Epiphany**  ![][flag_DE] | **4** | 1 | ![][flag_UA] Cloz1k |  |
+| **Toy** ![][flag_US] | **4** | 0 | ![][flag_DE] Epiphany  |  |
+| **kazamabc** ![][flag_ES] | **4** | 2 | ![][flag_UA] Cloz1k |  |
+| Epiphany  ![][flag_DE] | 0 | **1** | ![][flag_ES] **kazamabc** | *forfeit* |
 
 #### Group L
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Rucker** ![][flag_TW] | **1** | 0 | ![][flag_DE] Knalli | *forfeit* |
+| **he rack** ![][flag_US] | **4** | 0 | ![][flag_JP] katatakatata |  |
+| Rucker  ![][flag_TW] | 0 | **4** | ![][flag_US] **he rack** |  |
+| Knalli ![][flag_DE] | 0 | **1** | ![][flag_JP] **katatakatata** | *forfeit* |
+| **Rucker**  ![][flag_TW] | **1** | 0 | ![][flag_JP] Katatakatata | *forfeit* |
 
 #### Group M
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| Emilia ![][flag_SG] | 0 | **1** | ![][flag_GR] **xDarxen** | *forfeit* |
+| **Emula** ![][flag_LV] | **4** | 1 | ![][flag_US] zelda101 |  |
+| xDarxen ![][flag_GR] | 1 | **4** | ![][flag_LV] **Emula** |  |
+| Emilia ![][flag_SG] | 0 | **1** | ![][flag_US] **zelda101** | *forfeit* |
+| **xDarxen** ![][flag_GR] | **4** | 3 | ![][flag_US] zelda101 |  |
 
 #### Group N
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Karthy** ![][flag_GB] | **1** | 0 | ![][flag_AU] Monk Gyatso | *forfeit* |
+| **Firstus** ![][flag_DE] | **4** | 1 | ![][flag_AU] Lunirs |  |
+| **Firstus** ![][flag_DE] | **4** | 2 | ![][flag_GB] Karthy |  |
+| **Lunirs** ![][flag_AU] | **1** | 0 | ![][flag_AU] Monk Gyatso | *forfeit* |
+| Karthy ![][flag_GB] | 3 | **4** | ![][flag_AU] **Lunirs** |  |
 
 #### Group O
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Monko2k** ![][flag_US] | **4** | 0 | ![][flag_NL] Timpai |  |
+| **Smoothie World** ![][flag_US] | **1** | 0 | ![][flag_RU] ncuh | *forfeit* |
+| **Monko2k** ![][flag_US] | **4** | 1 | ![][flag_US] Smoothie World |  |
+| **Timpai** ![][flag_NL] | **4** | 1 | ![][flag_RU] nuch |  |
+| **Smoothie World** ![][flag_US] | **4** | 0 | ![][flag_NL] Timpai |  |
 
 #### Group P
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| KupcaH ![][flag_EG] | 0 | **4** | ![][flag_GB] **helix** |  |
+| TopSp1n ![][flag_GB] | 0 | **4** | ![][flag_ES] **Betwin** |  |
+| helix ![][flag_GB] | 3 | **4** | ![][flag_ES] **Betwin** |  |
+| KupcaH ![][flag_EG] | 1 | **4** | ![][flag_GB] **TopSp1n** |  |
+| **helix** ![][flag_GB] | **4** | 2 | ![][flag_GB] TopSp1n |  |
 
 ### Round of 128
 
+Friday, 21 July 2017:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
-| user ![][flag_] | score | score | ![][flag_] user |  |
+| **Num** ![][flag_US] | **3** | 1 | ![][flag_AU] Noobsicle |  |
+| **Jensen** ![][flag_US] | **3** | 0 | ![][flag_DE] Hieu Bot |  |
+
+Saturday, 22 July 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Exarch** ![][flag_US] | **3** | 0 | ![][flag_CN] VRainbow |  |
+| **Emilia** ![][flag_SG] | **3** | 0 | ![][flag_US] Freg |  |
+| **_YuriNee** ![][flag_JP] | **1** | 0 | ![][flag_AU] GranDSenpai | *forfeit* |
+| **Rucker** ![][flag_TW] | **3** | 1 | ![][flag_SG] moosepi |  |
+| **Ahmnesia** ![][flag_NL] | **1** | 0 | ![][flag_NZ] -Lolicon Lover- | *forfeit* |
+| Daren ![][flag_IT] | 0 | **1** | ![][flag_AU] **Monk Gyatso** | *forfeit* |
+| **ncuh** ![][flag_RU] | **1** | 0 | ![][flag_SG] Elegant Loli | *forfeit* |
+| **- Phantasma -** ![][flag_TH] | **3** | 2 | ![][flag_MY] Ex6TenZ |  |
+| **Cookiezi** ![][flag_KR] | **3** | 0 | ![][flag_GB] Solstick |  |
+| **waywern2012** ![][flag_LV] | **3** | 0 | ![][flag_SE] - carl - |  |
+| **GSBlank** ![][flag_SG] | **3** | 0 | ![][flag_UY] Daanit |  |
+| NerO ![][flag_FR] | 2 | **3** | ![][flag_EG] **KupcaH** |  |
+| fartownik ![][flag_PL] | 0 | **1** | ![][flag_GB] **TopSp1n** | *forfeit* |
+| **Rohulk** ![][flag_RO] | **1** | 0 | ![][flag_GB] meltz | *forfeit* |
+| **Bubbleman** ![][flag_GB] | **3** | 0 | ![][flag_SE] Sleepstick |  |
+| **Syph** ![][flag_NL] | **1** | 0 | ![][flag_US] c-atsuit | *forfeit* |
+| **xDarxen** ![][flag_GR] | **1** | 0 | ![][flag_ES] yotampoco | *forfeit* |
+| KHRiku ![][flag_ES] | 0 | **1** | ![][flag_PL] **QbaDoo** | *forfeit* |
+| **ThePooN** ![][flag_FR] | **3** | 0 | ![][flag_BR] Lucas Zubs |  |
+| **Firstus** ![][flag_DE] | **3** | 0 | ![][flag_CH] Im so mad bro |  |
+| **MrBooM** ![][flag_PL] | **1** | 0 | ![][flag_PL] -Nanami | *forfeit* |
+| pyccknn ![][flag_BR] | 0 | **1** | ![][flag_GB] **helix** | *forfeit* |
+| **Apraxia** ![][flag_US] | **1** | 0 | ![][flag_BR] Tell | *forfeit* |
+| Miko ![][flag_US] | 0 | **1** | ![][flag_LT] **PainSinger** | *forfeit* |
+| My Angel Yaz ![][flag_GB] | 2 | **3** | ![][flag_US] **DigitalHypno** |  |
+| **Toy** ![][flag_US] | **3** | 0 | ![][flag_US] Cappyrappy |  |
+| **kazamabc** ![][flag_ES] | **1** | 0 | ![][flag_GB] Proteus | *forfeit* |
+| **Kaifin** ![][flag_CA] | **1** | 0 | ![][flag_FI] Muuki | *forfeit* |
+| **Doomsday** ![][flag_GB] | **1** | 0 | <!-- missing --> [Hope] | *forfeit* |
+| **Vaxei** ![][flag_US] | **3** | 2 | ![][flag_CA] peng |  |
+| **Epiphany** ![][flag_DE] | **1** | 0 | ![][flag_CA] uzzi | *forfeit* |
+| Topoi ![][flag_US] | 1 | **3** | ![][flag_US] **zelda101** |  |
+| **Azer** ![][flag_CA] | **3** | 0 | ![][flag_CL] Fenan |  |
+| Fangzy ![][flag_US] | 2 | **3** | ![][flag_US] **SpellStorm** |  |
+
+Sunday, 23 July 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Emula** ![][flag_LV] | **3** | 0 | ![][flag_GB] Flare |  |
+| **Shirasaka Koume** ![][flag_JP] | **3** | 0 | ![][flag_AU] CeilingWaffle |  |
+| Yaong ![][flag_KR] | 0 | **1** | ![][flag_AT] **-Akuro** | *forfeit* |
+| pray ![][flag_KR] | 0 | **3** | ![][flag_DE] **respektive** |  |
+| LanJay ![][flag_SG] | 1 | **3** | ![][flag_SE] **Ketchup** |  |
+| **Lunirs** ![][flag_AU] | **3** | 0 | ![][flag_SE] --w-- |  |
+| Megure ![][flag_DE] | 0 | **1** | ![][flag_SG] **_Xancos_** | *forfeit* |
+| c00kiezecky ![][flag_PL] | 0 | **3** | ![][flag_JP] **katatakatata** |  |
+| Woey ![][flag_US] | 1 | **3** | ![][flag_DE] **[ Nano ]** |  |
+| -PloX ![][flag_UY] | 1 | **3** | ![][flag_HU] **emu1337** |  |
+| Woffel ![][flag_GB] | 0 | **1** | ![][flag_ES] **Betwin** | *forfeit* |
+| **imagaK** ![][flag_DE] | **3** | 1 | ![][flag_CA] Swiftah |  |
+| kiiro127 ![][flag_DE] | 1 | **3** | ![][flag_DE] **Knalli** |  |
+| **karthy** ![][flag_GB] | **3** | 1 | ![][flag_DE] [ Radon ] |  |
+| **MyAngelFllareA** ![][flag_UA] | **1** | 0 | ![][flag_US] Ritsumi | *forfeit* |
+| **he rack** ![][flag_US] | **3** | 0 | ![][flag_PL] BartekBBBBB |  |
+| crisco13 ![][flag_CO] | 0 | **1** | ![][flag_ES] **Rekens** | *forfeit* |
+| **gilmat** ![][flag_NO] | **3** | 0 | ![][flag_CA] nick1324 |  |
+
+Monday, 24 July 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **My Angel MrBooM** ![][flag_PL] | **3** | 0 | ![][flag_SG] phox |  |
+| Jace ![][flag_US] | 1 | **3** | ![][flag_NL] **Timpai** |  |
+| **Malolat** ![][flag_PL] | **3** | 2 | ![][flag_US] -Lolisim- |  |
+| **Klocuch12** ![][flag_PL] | **3** | 1 | ![][flag_SE] Kungen |  |
+
+Tuesday, 25 July 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **fieryrage** ![][flag_US] | **3** | 0 | ![][flag_GB] Bae- |  |
+
+Wednesday, 26 July 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Electovoid** ![][flag_GB] | **3** | 0 | ![][flag_SI] Hranolka |  |
+| **Monko2k** ![][flag_US] | **3** | 0 | ![][flag_GB] SteffoST |  |
+
+Thursday, 27 July 2017:
+
+| Player 1 | | | Player 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **Smoothie World** ![][flag_US] | **3** | 2 | ![][flag_LT] Damach |  |
+| **Wombraider___9** ![][flag_US] | **1** | 0 | ![][flag_GB] Nega | *forfeit* |
+| **idke** ![][flag_US] | **1** | 0 | ![][flag_NO] YokesPai | <!-- TODO check with yaz if she remember about this match --> |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EG]: /wiki/shared/flag/EG.gif "Egypt"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
@@ -703,12 +845,15 @@ See the [Participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 [flag_GR]: /wiki/shared/flag/GR.gif "Greece"
 [flag_HR]: /wiki/shared/flag/HR.gif "Croatia"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PS]: /wiki/shared/flag/PS.gif "Palestinian Territory Occupied"
@@ -716,9 +861,11 @@ See the [Participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_SI]: /wiki/shared/flag/SI.gif "Slovenia"
 [flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
