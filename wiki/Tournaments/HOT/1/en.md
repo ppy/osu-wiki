@@ -49,10 +49,10 @@ The Hidden Only Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1051108)
-- [HOT Discord server](https://discord.gg/7dP7NAe)
-- [Livestream](https://www.twitch.tv/hot_osu)
-- [Challonge brackets](https://challonge.com/hotosu)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Z4_mJPc4byyXqKdWQ69HC4AO48mwSOydOjksfLJdcYc/edit?usp=sharing)**
+- [HOT Discord server](https://discord.gg/7dP7NAe "Discord")
+- [Livestream](https://www.twitch.tv/hot_osu "Twitch")
+- [Challonge brackets](https://challonge.com/hotosu "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Z4_mJPc4byyXqKdWQ69HC4AO48mwSOydOjksfLJdcYc/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -109,7 +109,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing?usp=sharing)**
+**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing "Google Drive")**
 
 - Hidden
   - [nano - Nevereverland (jas) \[Relentless\]](https://osu.ppy.sh/beatmapsets/1023428#osu/2140939)
@@ -136,7 +136,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (178 MB)](https://drive.google.com/file/d/11urnyvwRjKDDcRevC2a-cWEQS0b4vjHi/view?usp=sharing)**
+**[Download the mappack here! (178 MB)](https://drive.google.com/file/d/11urnyvwRjKDDcRevC2a-cWEQS0b4vjHi/view?usp=sharing "Google Drive")**
 
 - Hidden
   - [Roselia - R (Doormat) \[Rosenlied\]](https://osu.ppy.sh/beatmapsets/820180#osu/1719416)
@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1zzOjFflNIk-4qL7nAmg_DWqdc5Xnl4mh/view?usp=sharing)**
+**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1zzOjFflNIk-4qL7nAmg_DWqdc5Xnl4mh/view?usp=sharing "Google Drive")**
 
 - Hidden
   - [Suzuki Konomi - Zenbu Kimi ga Ita kara Shittanda (Kalibe) \[Hope\]](https://osu.ppy.sh/beatmapsets/587616#osu/1725575)
@@ -187,7 +187,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1RR67F86CGZIz1Hn-cDVyR3pvOBuoGlL8/view?usp=sharing)**
+**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1RR67F86CGZIz1Hn-cDVyR3pvOBuoGlL8/view?usp=sharing "Google Drive")**
 
 - Hidden
   - [Suzuki Konomi - Blow out (Kalibe) \[Meg's Another\]](https://osu.ppy.sh/beatmapsets/617203#osu/1303641)
@@ -211,7 +211,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing)**
+**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing "Google Drive")**
 
 - Hidden
   - [Mitani Nana - Chikyuu Saigo no Kokuhaku o (Star Stream) \[Collab\]](https://osu.ppy.sh/beatmapsets/65491#osu/191805)
@@ -233,7 +233,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (97 MB)](https://drive.google.com/file/d/1Cn9Xj-FTvEkVQfDhHmS_bOw8XQNWlP6k/view?usp=sharing)**
+**[Download the mappack here! (97 MB)](https://drive.google.com/file/d/1Cn9Xj-FTvEkVQfDhHmS_bOw8XQNWlP6k/view?usp=sharing "Google Drive")**
 
 - Hidden
   - [MYTH & ROID - Paradisus-Paradoxum (Cellina) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/510183#osu/1104323)
@@ -255,7 +255,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (46 MB)](https://drive.google.com/file/d/1TdJGhATTck9yDcXTsx3xYNaxUZ9CKi2j/view?usp=sharing)**
+**[Download the mappack here! (46 MB)](https://drive.google.com/file/d/1TdJGhATTck9yDcXTsx3xYNaxUZ9CKi2j/view?usp=sharing "Google Drive")**
 
 - Hidden
   - [Marie - Unbreakable (Lasse) \[Resolve\]](https://osu.ppy.sh/beatmapsets/808148#osu/1700344)

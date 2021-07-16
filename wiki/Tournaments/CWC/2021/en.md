@@ -48,10 +48,10 @@ The osu!catch World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) a
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1287741)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Challonge bracket](https://challonge.com/CWC_2021)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/58) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEm0YFPgQl6kNW81aYoF00x3kdH_XFzbFnkZ2gtNUDMgHkWPhQ9VdOmzNGS5wji5uTdyNlDGsdq2JU/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Challonge bracket](https://challonge.com/CWC_2021 "Challonge")
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/58 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEm0YFPgQl6kNW81aYoF00x3kdH_XFzbFnkZ2gtNUDMgHkWPhQ9VdOmzNGS5wji5uTdyNlDGsdq2JU/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -448,7 +448,7 @@ Sunday, 2 May 2021:
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
 5. The following stages are Double Elimination stages. This means that the winner moves to the next stage and the losing team gets moved to the Losers bracket.
-6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png "puush"), the stages are split up into the following:
 
 | Stage | Match ID |
 | --: | :-- |
@@ -471,9 +471,9 @@ Sunday, 2 May 2021:
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-4. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+4. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 5. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 6. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.

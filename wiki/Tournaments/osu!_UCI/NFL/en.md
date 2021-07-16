@@ -41,17 +41,17 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 | Streamer | ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
 | Commentator | ![][flag___] Matthew<!-- TODO what is his osu profile -->, ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [ruruchewy](https://osu.ppy.sh/users/7112839), ![][flag_US] [Sukida](https://osu.ppy.sh/users/4097867), ![][flag_US] [Yattaze](https://osu.ppy.sh/users/13870255) |
 | Referee | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [PingusKhan](https://osu.ppy.sh/users/9648050), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
-| Designer | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag___] Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
+| Designer | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag___] Skydendrin ([Carrd profile](https://skydendrin.carrd.co "Carrd")) |
 
 ## Links
 
-- **[Website](http://www.osuuci.com/tournaments/NFL/)**
-- [Challonge bracket (osu!)](https://challonge.com/NFL_STD)
-- [Challonge bracket (osu!mania)](https://challonge.com/rgg8emqj)
+- **[Website](http://www.osuuci.com/tournaments/NFL/ "osu! UCI")**
+- [Challonge bracket (osu!)](https://challonge.com/NFL_STD "Challonge")
+- [Challonge bracket (osu!mania)](https://challonge.com/rgg8emqj "Challonge")
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1000378)
-- [Livestream](https://www.twitch.tv/osuuci)
-- [osu! UCI Discord server](https://discord.gg/qbZddFV)
-- [Photos from the event](https://imgur.com/a/IhQCgTw)
+- [Livestream](https://www.twitch.tv/osuuci "Twitch")
+- [osu! UCI Discord server](https://discord.gg/qbZddFV "Discord")
+- [Photos from the event](https://imgur.com/a/IhQCgTw "Imgur")
 
 ## Participants
 
@@ -109,7 +109,7 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 ### osu!
 
-**[Download the mappack here! (646 MB)](https://drive.google.com/file/d/1YKIYf1XWgSieLAzQba9OmE_TFyOCkcZu/view)**
+**[Download the mappack here! (646 MB)](https://drive.google.com/file/d/1YKIYf1XWgSieLAzQba9OmE_TFyOCkcZu/view "Google Drive")**
 
 #### Grand Finals
 
@@ -233,7 +233,7 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 ### osu!mania
 
-**[Download the mappack here! (263 MB)](https://drive.google.com/file/d/1CpuO4EPhLPK9AEiu-eg7E6qQY71_mjyH/view)**
+**[Download the mappack here! (263 MB)](https://drive.google.com/file/d/1CpuO4EPhLPK9AEiu-eg7E6qQY71_mjyH/view "Google Drive")**
 
 #### Finals
 
@@ -508,6 +508,6 @@ Both tournaments will use a standard double-elimination format for playoffs.
 3. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
 4. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
 
-[flag___]: /wiki/shared/flag/__.gif
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag___]: /wiki/shared/flag/__.gif

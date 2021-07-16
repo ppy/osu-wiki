@@ -48,9 +48,9 @@ The osu!catch World Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/913952)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/9) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRt5kVxQM14v5e4fhQ9CL7N5qXrFzO8XXsKnaO6bBqMy4WZ1rhTa_1xkr-nntRxS_AQ2WqEjks_4ssm/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/9 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRt5kVxQM14v5e4fhQ9CL7N5qXrFzO8XXsKnaO6bBqMy4WZ1rhTa_1xkr-nntRxS_AQ2WqEjks_4ssm/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -95,7 +95,7 @@ The osu!catch World Cup 2019 was run by various community members.
 
 ### Finals week 2
 
-**[Download the mappack here!](https://www.dropbox.com/s/w76kar8lt11u7kv/CWC%20GF%20Mappool.zip?dl=0&file_subpath=%2FCWC+GF+Mappool)**
+**[Download the mappack here!](https://www.dropbox.com/s/w76kar8lt11u7kv/CWC%20GF%20Mappool.zip?dl=0&file_subpath=%2FCWC+GF+Mappool "Dropbox")**
 
 - NoMod
   - [Masayoshi Iimori - BREAK OVER (- G i G a s -) \[SUPER MENTAL IS BREAK???\]](https://osu.ppy.sh/beatmapsets/743698#fruits/1568290)
@@ -124,7 +124,7 @@ The osu!catch World Cup 2019 was run by various community members.
 
 ### Finals week 1
 
-**[Download the mappack here!](https://www.dropbox.com/s/b9fcomih3576nxz/CWC%20Finals%20Mappool.zip?dl=0)**
+**[Download the mappack here!](https://www.dropbox.com/s/b9fcomih3576nxz/CWC%20Finals%20Mappool.zip?dl=0 "Dropbox")**
 
 - NoMod
   - [Zekk - Feelsleft0ut (AJamez) \[:)\]](https://osu.ppy.sh/beatmapsets/856040#fruits/1788564)
@@ -153,7 +153,7 @@ The osu!catch World Cup 2019 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here!](https://www.dropbox.com/s/gvrrfhmooy15pbl/CWC%20Semifinals%20Mappool.zip?dl=0)**
+**[Download the mappack here!](https://www.dropbox.com/s/gvrrfhmooy15pbl/CWC%20Semifinals%20Mappool.zip?dl=0 "Dropbox")**
 
 - NoMod
   - [M2U - Marionette (Absolute Zero) \[MBomb's Overdose\]](https://osu.ppy.sh/beatmapsets/797395#fruits/1895451)
@@ -182,7 +182,7 @@ The osu!catch World Cup 2019 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here!](https://www.dropbox.com/s/xc7mkw9nkijacs5/CWC%20QF%20Mappool.zip?dl=0&file_subpath=%2FCWC+QF+Mappool)**
+**[Download the mappack here!](https://www.dropbox.com/s/xc7mkw9nkijacs5/CWC%20QF%20Mappool.zip?dl=0&file_subpath=%2FCWC+QF+Mappool "Dropbox")**
 
 - NoMod
   - [Helblinde - Unconquered (IDu5t) \[Indestructible\]](https://osu.ppy.sh/beatmapsets/975136#fruits/2041090)
@@ -208,7 +208,7 @@ The osu!catch World Cup 2019 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here!](https://www.dropbox.com/sh/4q19wyd0z6q4akw/AAD6Cc014HXigZvHPWSpNmbSa?dl=0)**
+**[Download the mappack here!](https://www.dropbox.com/sh/4q19wyd0z6q4akw/AAD6Cc014HXigZvHPWSpNmbSa?dl=0 "Dropbox")**
 
 - NoMod
   - [a\_hisa - Tokei no Heya to Seishin Sekai (Spectator) \[Kyuare Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/639409#fruits/1356120)
@@ -234,7 +234,7 @@ The osu!catch World Cup 2019 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here!](https://www.dropbox.com/sh/e3jgd039od90c85/AADfBfWbrPI5NHwpKWiv3fCCa?dl=0)**
+**[Download the mappack here!](https://www.dropbox.com/sh/e3jgd039od90c85/AADfBfWbrPI5NHwpKWiv3fCCa?dl=0 "Dropbox")**
 
 - NoMod
   - [Roselia - Neo-Aspect (Underdogs) \[AJamez's Rain\]](https://osu.ppy.sh/beatmapsets/776620#fruits/1892842)
@@ -480,7 +480,7 @@ Sunday, 30 June 2019:
 
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 
-6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png "puush"), the stages are split up into the following:
 
    | Stage | Match ID |
    | --: | :-- |
@@ -504,8 +504,8 @@ Sunday, 30 June 2019:
 3. Each captain can ban one beatmap to be selected from the pool **at the start of the match**. These beatmaps are not allowed to be picked by any team in the entire match.
 4. **After a team reaches 3 points the opposition can ban another map as a comeback mechanic.**. This means that both teams can potentially ban up to **two maps** during the entirety of the match.
 5. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-6. Each captain must use "!roll" once in #multiplayer.
-   - **The winner of the !roll decides if they want to pick and ban first, or pick and ban second.**
+6. Each captain must use `!roll` once in `#multiplayer`.
+   - **The winner of the `!roll` decides if they want to pick and ban first, or pick and ban second.**
 7. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 8. Results of the Group Stage will be published via a Statistics sheet.

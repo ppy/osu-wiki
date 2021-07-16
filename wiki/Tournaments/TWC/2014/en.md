@@ -48,7 +48,7 @@ The Taiko World Cup 2014 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/179127)
-- [Livestream](https://www.twitch.tv/osulive/)
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
 
 ## Participants
 
@@ -103,7 +103,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (168 MB)](https://www.mediafire.com/download/5s7me0e532r591m/TWC_Finals.rar)**
+**[Download the mappack here! (168 MB)](https://www.mediafire.com/download/5s7me0e532r591m/TWC_Finals.rar "MediaFire")**
 
 - NoMod
   - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Loctav's Oni\]](https://osu.ppy.sh/beatmapsets/111825#taiko/297950)
@@ -137,7 +137,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (153 MB)](https://www.mediafire.com/download/743weel8bsn9b20/TWC_Semi-finals.rar)**
+**[Download the mappack here! (153 MB)](https://www.mediafire.com/download/743weel8bsn9b20/TWC_Semi-finals.rar "MediaFire")**
 
 - NoMod
   - [Sota Fujimori - WOBBLE IMPACT (Loctav) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/152368#taiko/375040)
@@ -171,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (146 MB)](https://www.mediafire.com/download/vyekjgtc1wj2xlk/TWC_Quarter_finals.rar)**
+**[Download the mappack here! (146 MB)](https://www.mediafire.com/download/vyekjgtc1wj2xlk/TWC_Quarter_finals.rar "MediaFire")**
 
 - NoMod
   - [Lite Show Magic - Crack traxxxx (KinomiCandy) \[Oni\]](https://osu.ppy.sh/beatmapsets/134900#taiko/338140)
@@ -205,7 +205,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (169 MB)](https://www.mediafire.com/download/2stinw27hm7h4kv/TWC+Round+of+16.rar)**
+**[Download the mappack here! (169 MB)](https://www.mediafire.com/download/2stinw27hm7h4kv/TWC+Round+of+16.rar "MediaFire")**
 
 - NoMod
   - [celas - Azul (Remix) (AngelHoney) \[KUMA's Taiko\]](https://osu.ppy.sh/beatmapsets/40273#taiko/128937)
@@ -239,7 +239,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (211 MB)](https://www.mediafire.com/download/8kv1e4zne081tvp/TWC+Group+Stage.rar)**
+**[Download the mappack here! (211 MB)](https://www.mediafire.com/download/8kv1e4zne081tvp/TWC+Group+Stage.rar "MediaFire")**
 
 - NoMod
   - [Loos - Koi Yomi Zakura (NatsumeRin) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/33976#taiko/111835)
@@ -300,7 +300,7 @@ This competition has come to an end and resulted in the following podium:
    - The maximum team size is 6.
    - You must specify a captain who will represent the team.
 2. Each team represents a nation. You must form a team with players from the same country.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “TWC Registration”
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform "Google Forms"). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “TWC Registration”
    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.

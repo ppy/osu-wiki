@@ -50,10 +50,10 @@ OSIM was run by various osu! community members predominantly hailing from Singap
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958)**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958 "Google Sheets")**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1022888)
-- [Discord server](https://discord.gg/kFs2Kbp)
-- [Livestream channel](https://www.twitch.tv/oseatournament/)
+- [Discord server](https://discord.gg/kFs2Kbp "Discord")
+- [Livestream channel](https://www.twitch.tv/oseatournament "Twitch")
 
 ## Podium
 
@@ -94,7 +94,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals week 2
 
-**[Download the mappack here! (193 MB)](https://drive.google.com/file/d/1aoZ8Nzl-GhFzPnOnMIAsdoMVbEt9BFej/view)**
+**[Download the mappack here! (193 MB)](https://drive.google.com/file/d/1aoZ8Nzl-GhFzPnOnMIAsdoMVbEt9BFej/view "Google Drive")**
 
 - NoMod
   - [ELFENSJoN - Shiroki Yume wa Madara ni (Nao Tomori) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1083468#osu/2266069)
@@ -127,7 +127,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals week 1
 
-**[Download the mappack here! (225 MB)](https://drive.google.com/file/d/1xUCTYbV3cSmAlKmkH-Lc9BRNVhNaIlmE/view)**
+**[Download the mappack here! (225 MB)](https://drive.google.com/file/d/1xUCTYbV3cSmAlKmkH-Lc9BRNVhNaIlmE/view "Google Drive")**
 
 - NoMod
   - [AliA - joker (Nelliel) \[extreme\]](https://osu.ppy.sh/beatmapsets/1121435#osu/2417473)
@@ -160,7 +160,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (159 MB)](https://drive.google.com/file/d/13Xppia1yVoqlAGvofXWWUrzHZ5jYIKVa/view)**
+**[Download the mappack here! (159 MB)](https://drive.google.com/file/d/13Xppia1yVoqlAGvofXWWUrzHZ5jYIKVa/view "Google Drive")**
 
 - NoMod
   - [BAND-MAID - DICE (Meg) \[X\]](https://osu.ppy.sh/beatmapsets/1092940#osu/2284524)
@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (125 MB)](https://drive.google.com/file/d/1vXCH2VLIkluoO5iUQaE_92tR2lnOp0Ph/view)**
+**[Download the mappack here! (125 MB)](https://drive.google.com/file/d/1vXCH2VLIkluoO5iUQaE_92tR2lnOp0Ph/view "Google Drive")**
 
 - NoMod
   - [UNDEAD CORPORATION - Sad Dream (Hinsvar) \[Expert\]](https://osu.ppy.sh/beatmapsets/1019827#osu/2133935)
@@ -222,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (213 MB)](https://drive.google.com/file/d/1BOY3OpBsPNETwYZVUTM7OgB0wF2TkEzM/view)**
+**[Download the mappack here! (213 MB)](https://drive.google.com/file/d/1BOY3OpBsPNETwYZVUTM7OgB0wF2TkEzM/view "Google Drive")**
 
 - NoMod
   - [OSTER project - Labradorite feat. Yu Tokiwa (thzz) \[Brilliance\]](https://osu.ppy.sh/beatmapsets/408776#osu/887556)
@@ -249,7 +249,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (66 MB)](https://mega.nz/file/chh30AbT#6CM48SlQz6G--ilvXdgXZpW20Ayga-IcQbMeOZNJHXk)**
+**[Download the mappack here! (66 MB)](https://mega.nz/file/chh30AbT#6CM48SlQz6G--ilvXdgXZpW20Ayga-IcQbMeOZNJHXk "MEGA")**
 
 - NoMod
   - [Silent Siren - Hachigatsu no Yoru (Meg) \[August\]](https://osu.ppy.sh/beatmapsets/391703#osu/853167)
@@ -573,7 +573,7 @@ Sunday, 19 April 2020:
 
 ### Match regulations
 
-1. A representative from each team must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. A representative from each team must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which team bans first.
    - The loser of the `!roll` gets to decide which team picks first.
    - This rule does not apply in the Qualifier lobbies.
@@ -585,7 +585,7 @@ Sunday, 19 April 2020:
 4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
    - Playing a FreeMod pick without any mods applied is not allowed.
    - Players in the same team may not put out the same mod combination with each other in a FreeMod pick.
-   - Players who opt to play with EZ in a FreeMod pick will have their scores multiplied by an amount ranging from `x1.5` to `x3` based off certain weighting values that have been predetermined by the mappool selectors for each map. For more details on how much each map is valued, please refer to the [main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958).
+   - Players who opt to play with EZ in a FreeMod pick will have their scores multiplied by an amount ranging from `x1.5` to `x3` based off certain weighting values that have been predetermined by the mappool selectors for each map. For more details on how much each map is valued, please refer to the [main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958 "Google Sheets").
 5. In case of a tiebreaker, each captain will ban 1 of the 3 available tiebreakers. This is done by sending an in-game PM with your ban to the match referee. The remaining map will be played.
    - If both captains ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining tiebreakers will be played.
 6. The Seed C player from each team **has to play at least one map** in every match. If a match reaches a match point and either team's Seed C player has yet to play a map, the referee will not start the next map until the Seed C player from the said team participates.

@@ -1,6 +1,6 @@
 ---
 tags:
-- TMC
+  - TMC
 ---
 
 # Touhou Project Mania Cup 1st
@@ -46,15 +46,15 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1143215)
-- [Registration form](https://forms.gle/3K7oxBXehL6W9Zy76)
-- [Discord server](https://discord.gg/NQkEKqj)
-- [Challonge](https://challonge.com/zh_CN/TMC1st)
-- [Mappool recommendation](https://forms.gle/vD28kudECmMqppyw9)
+- [Registration form](https://forms.gle/3K7oxBXehL6W9Zy76 "Google Forms")
+- [Discord server](https://discord.gg/NQkEKqj "Discord")
+- [Challonge](https://challonge.com/zh_CN/TMC1st "Challonge")
+- [Mappool recommendation](https://forms.gle/vD28kudECmMqppyw9 "Google Forms")
 - Livestream
-  - [Tamaki Iroha](https://live.bilibili.com/4353181)
-  - [kj415j45](https://okinawa.loli.land/live)
-  - [aiyulu](https://live.bilibili.com/10183)
-  - [Tigerest](https://live.bilibili.com/869246)
+  - [Tamaki Iroha](https://live.bilibili.com/4353181 "Bilibili")
+  - [kj415j45](https://okinawa.loli.land/live "Bilibili")
+  - [aiyulu](https://live.bilibili.com/10183 "Bilibili")
+  - [Tigerest](https://live.bilibili.com/869246 "Bilibili")
 - **Statistics sheet (*to be added*)**
 
 ## Ruleset
@@ -67,7 +67,7 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 3. In order for your registration to count, please refer to the following criteria:
    - Players must be within the osu!mania 4K rank of #2,000 - #20,000 during registrations.
      - Note that any player get into **rank #1,700** during tournament will be eliminated immediately.
-   - Players have filled the [registration form](https://forms.gle/3K7oxBXehL6W9Zy76)
+   - Players have filled the [registration form](https://forms.gle/3K7oxBXehL6W9Zy76 "Google Forms")
    - Players have no restriction record in the last 12 months.
 4. All maps are played with **FreeMod enabled**.
 5. This tournament will adopt double-elimination bracket, as such the team coming from the loser's bracket will have to win 2 matches in order to win the tournament.

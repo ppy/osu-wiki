@@ -1,8 +1,8 @@
 ---
 tags:
-- CJB
-- CJB 2018
-- CJB2018
+  - CJB
+  - CJB 2018
+  - CJB2018
 ---
 
 # The 4th CJB osu!mania 4K Tournament
@@ -46,23 +46,19 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 ## Links
 
-- [Livestream (Rasis)](https://live.bilibili.com/5333)
-- [Livestream (Flow Light)](https://live.bilibili.com/73668)
-- [Livestream (aiyulu)](https://live.bilibili.com/10183)
-- [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
-- [Challonge](https://challonge.com/zh_CN/cjb4)
-
----
+- [Livestream (Rasis)](https://live.bilibili.com/5333 "Bilibili")
+- [Livestream (Flow Light)](https://live.bilibili.com/73668 "Bilibili")
+- [Livestream (aiyulu)](https://live.bilibili.com/10183 "Bilibili")
+- [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp "Tencent QQ")
+- [Challonge](https://challonge.com/zh_CN/cjb4 "Challonge")
 
 ![CJB 4K 4th Podium](img/podium.jpg)
-
----
 
 ## Mappools
 
 ### Finals - Week 2
 
-**Download the mappack here! (97.9M) - [Baidu Netdisk](https://pan.baidu.com/s/1-gKsm-Mcnt-ayLZDKvVYyw) - [Google Drive](https://drive.google.com/file/d/1vwasJMXpsCr4ibxvncxIOU29r7SehV2Q)**
+**Download the mappack here! (97.9M) - [Baidu Netdisk](https://pan.baidu.com/s/1-gKsm-Mcnt-ayLZDKvVYyw "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1vwasJMXpsCr4ibxvncxIOU29r7SehV2Q "Google Drive")**
 
 - FreeMod
   - [Memme - Acid Burst \[Chaos\]](https://osu.ppy.sh/beatmapsets/724670#mania/1530202)
@@ -84,7 +80,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 ### Finals - Week 1
 
-**Download the mappack here! (148M) - [Baidu Netdisk](https://pan.baidu.com/s/1cQEbBQhW57IaS4Gba5uETw) - [Google Drive](https://drive.google.com/file/d/1WcvhPLepOb8Zaw5RFIXh1jgvHHTOloy6)**
+**Download the mappack here! (148M) - [Baidu Netdisk](https://pan.baidu.com/s/1cQEbBQhW57IaS4Gba5uETw "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1WcvhPLepOb8Zaw5RFIXh1jgvHHTOloy6 "Google Drive")**
 
 - FreeMod
   - [Hitori Tori - perthed again (yambabom remix) \[Insane\]](https://osu.ppy.sh/beatmapsets/569392#mania/1277797)
@@ -106,7 +102,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 ### Semifinals
 
-**Download the mappack here! (90.2M) - [Baidu Netdisk](https://pan.baidu.com/s/1cXXo6INlZDboM7Bgq3bJQQ) - [Google Drive](https://drive.google.com/file/d/1km4zpC_oEOCU5WBejfsQD5X4WaPjNwIi)**
+**Download the mappack here! (90.2M) - [Baidu Netdisk](https://pan.baidu.com/s/1cXXo6INlZDboM7Bgq3bJQQ "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1km4zpC_oEOCU5WBejfsQD5X4WaPjNwIi "Google Drive")**
 
 - FreeMod
   - [X&G - Whiplash ft. josh pan (sakuraburst Remix) \[break out\]](https://osu.ppy.sh/beatmapsets/723633#mania/1527737)
@@ -128,7 +124,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 ### Quarterfinals
 
-**Download the mappack here! (64.1M) - [Baidu Netdisk](https://pan.baidu.com/s/12PJbnBexbpXRb1puGiv2dw) - [Google Drive](https://drive.google.com/open?id=1gnaRjpbQFQ081cpWS4ATQwNLfPEElyFP)**
+**Download the mappack here! (64.1M) - [Baidu Netdisk](https://pan.baidu.com/s/12PJbnBexbpXRb1puGiv2dw "Baidu Netdisk") - [Google Drive](https://drive.google.com/open?id=1gnaRjpbQFQ081cpWS4ATQwNLfPEElyFP "Google Drive")**
 
 - FreeMod
   - [So Sus + Konka - Acorn \[Hard\]](https://osu.ppy.sh/beatmapsets/639057#mania/1540124)
@@ -148,7 +144,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 ### Round of 16
 
-**Download the mappack here! (77.5 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1eSHYDVS7u53S3gzmFK71oA) - [Google Drive](https://drive.google.com/file/d/1ZNekV5Lh6pw3qgl9BuWEs6CN6dSpOl8N)**
+**Download the mappack here! (77.5 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1eSHYDVS7u53S3gzmFK71oA "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1ZNekV5Lh6pw3qgl9BuWEs6CN6dSpOl8N "Google Drive")**
 
 - FreeMod
   - [Loos - Koi Yumi Zakura \[Stage 4: Story\]](https://osu.ppy.sh/beatmapsets/791641#mania/1660726)
@@ -280,7 +276,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 ### Registration Rules
 
-1. Anyone who is interested in this tournament should join the [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp) and read the announcement in the group to register.
+1. Anyone who is interested in this tournament should join the [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp "Tencent QQ") and read the announcement in the group to register.
 2. In order for your registration to count, you must meet the following conditions:
    - Participant's flag on their profile must be a country from **Asia**.
    - Participant uses Chinese as the primary language.
@@ -312,5 +308,5 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 5. Players pick maps by turns:
    - In case of a tie, the Tiebreaker map must be played.
 
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"

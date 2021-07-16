@@ -52,10 +52,10 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
 ## 相关链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1287741)
-- [Twitch 直播间](https://www.twitch.tv/osulive)
-- [Challonge 对阵表](https://challonge.com/CWC_2021)
-- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/58)
-- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEm0YFPgQl6kNW81aYoF00x3kdH_XFzbFnkZ2gtNUDMgHkWPhQ9VdOmzNGS5wji5uTdyNlDGsdq2JU/pubhtml)**
+- [Twitch 直播间](https://www.twitch.tv/osulive "Twitch")
+- [Challonge 对阵表](https://challonge.com/CWC_2021 "Challonge")
+- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/58 "hwchr's pick'em")
+- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEm0YFPgQl6kNW81aYoF00x3kdH_XFzbFnkZ2gtNUDMgHkWPhQ9VdOmzNGS5wji5uTdyNlDGsdq2JU/pubhtml "Google Sheets")**
 
 ## 参赛选手
 
@@ -338,7 +338,7 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
 4. 每个小组的前两名将进入淘汰赛阶段。
    - 这会根据实际参赛队伍的数量进行改变。
 5. 接下来的阶段是双败赛制。这意味着获胜者将进入胜者组，否则进入败者组。
-6. 基于[这个图片](https://puu.sh/bUq5V/f1066103b0.png)，比赛分为以下几个阶段：
+6. 基于[这个图片](https://puu.sh/bUq5V/f1066103b0.png "puush")，比赛分为以下几个阶段：
 
 | 阶段 | 比赛 ID |
 | --: | :-- |
@@ -361,9 +361,9 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
    - 房间名称中提到的第一个队伍必须是红队，第二个队伍必须是蓝队。
 2. 每队队长可以选择禁用 **一张谱面**，本场比赛中无法选择被禁用的谱面。
 3. 谱面选择权将在两位队长之间交替。
-4. 两位队长必须在 #multiplayer 中使用 “!roll”。
-   - !roll 胜的队伍先选择谱面。
-   - !roll 输的队伍先禁用谱面。
+4. 两位队长必须在 `#multiplayer` 中使用 `!roll`。
+   - `!roll` 胜的队伍先选择谱面。
+   - `!roll` 输的队伍先禁用谱面。
 5. 接下来队长可以随意从图池中挑选谱面
    - 决胜局只能选择 Tiebreaker。
 6. 队伍将有 2 分钟的时间选择谱面，以及 2 分钟的准备时间。

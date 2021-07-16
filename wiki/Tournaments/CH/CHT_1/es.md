@@ -50,10 +50,10 @@ Coffee Hispanic Tournament fue realizado por varios miembros de la comunidad.
 ## Links
 
 - [Foro de discusión](https://osu.ppy.sh/community/forums/topics/1000567)
-- [CHT servidor de Discord](https://discord.gg/AFFXMu)
-- [Livestream](https://twitch.tv/ivaf)
-- [Challonge brackets](https://challonge.com/es/2n84slw8)
-- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)**
+- [CHT servidor de Discord](https://discord.gg/AFFXMu "Discord")
+- [Livestream](https://twitch.tv/ivaf "Twitch")
+- [Challonge brackets](https://challonge.com/es/2n84slw8 "Challonge")
+- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682 "Google Sheets")**
 
 ## Participantes
 
@@ -90,7 +90,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Finales
 
-**[Descarga el paquete de mapas aquí! (128 MB)](https://www.mediafire.com/file/npyk3ttzwzx5fzh/finals_mappack.rar/file)**
+**[Descarga el paquete de mapas aquí! (128 MB)](https://www.mediafire.com/file/npyk3ttzwzx5fzh/finals_mappack.rar/file "MediaFire")**
 
 - NoMod
   - [Naoki Miki (CV: Takahashi Rie) & Ebisuzawa Kurumi (CV: Ozawa Ari) - Unhappy End World (Yasaija 714) \[kotachi's Happiness\]](https://osu.ppy.sh/beatmapsets/823259#osu/1725346)
@@ -102,7 +102,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 - Hidden
   - [Yuyoyuppe - Emerald Galaxy (pishifat) \[Expert\]](https://osu.ppy.sh/beatmapsets/682286#osu/1442757)
   - [M2U - Velocity (Karen) \[Expert\]](https://osu.ppy.sh/beatmapsets/593985#osu/1256483)
-  - [kors kfeat. Rie - Rising in the Sun (original mix) (soulfear) \[Another\]](https://bloodcat.com/osu/s/26742)
+  - [kors k feat. Rie - Rising in the Sun (original mix) (soulfear) \[Another\]](https://bloodcat.com/osu/s/26742 "Bloodcat")
 - HardRock
   - [Kairiki bear - Manemane Psychotropic (scanter) \[Psycho\]](https://osu.ppy.sh/beatmapsets/113398#osu/541797)
   - [OISHII - ONIGIRI FREEWAY (Niva) \[Extra\]](https://osu.ppy.sh/beatmapsets/873667#osu/1826135)
@@ -121,7 +121,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Semifinales
 
-**[Descarga el paquete de mapas aquí! (104 MB)](https://www.mediafire.com/file/yjzttfvins5eaph/SF_Mappool.rar/file)**
+**[Descarga el paquete de mapas aquí! (104 MB)](https://www.mediafire.com/file/yjzttfvins5eaph/SF_Mappool.rar/file "MediaFire")**
 
 - NoMod
   - [Nanahira - Shinchoku Doudesuka? (Misure) \[Shinchoku\]](https://osu.ppy.sh/beatmapsets/342263#osu/1110623)
@@ -150,7 +150,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Cuartos de Final
 
-**[Descarga el paquete de mapas aquí! (96 MB)](https://www.mediafire.com/file/u4ca2pur4p2kkqa/QF_Mappool.rar/file)**
+**[Descarga el paquete de mapas aquí! (96 MB)](https://www.mediafire.com/file/u4ca2pur4p2kkqa/QF_Mappool.rar/file "MediaFire")**
 
 - NoMod
   - [Guilty Kiss - Strawberry Trapper (Asaiga) \[Collab in Dice\]](https://osu.ppy.sh/beatmapsets/496107#osu/1057469)
@@ -177,7 +177,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Octavos de Final
 
-**[Descarga el paquete de mapas aquí! (83 MB)](https://www.mediafire.com/file/s2shtc345su8t5z/CHT_R016_Mappool.rar/file)**
+**[Descarga el paquete de mapas aquí! (83 MB)](https://www.mediafire.com/file/s2shtc345su8t5z/CHT_R016_Mappool.rar/file "MediaFire")**
 
 - NoMod
   - [Jin ft. LiSA - Headphone Actor (captin1) \[Survival\]](https://osu.ppy.sh/beatmapsets/217105#osu/509346)
@@ -202,7 +202,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Eliminatorias
 
-**[Descarga el paquete de mapas aquí! (66 MB)](https://www.mediafire.com/file/wn4sqp2gdkdfpw7/CHT_Mappool.rar/file)**
+**[Descarga el paquete de mapas aquí! (66 MB)](https://www.mediafire.com/file/wn4sqp2gdkdfpw7/CHT_Mappool.rar/file "MediaFire")**
 
 - NoMod
   - [Yonezawa Madoka - Responsibility Response (ShiraKai) \[Phantom\]](https://osu.ppy.sh/beatmapsets/276997#osu/627765)
@@ -395,7 +395,7 @@ Lunes, 27 Enero 2020:
 | #23 | ![][flag_PE] [Waynedude](https://osu.ppy.sh/users/9138491) | 211 |
 
 - Solo los mejores 8 de cada tier pueden pasan para asi formar un equipo de 2 y avanzar a la ronda de eliminatorias
-- Los resultados mas detallados de las qualifiers se pueden acceder en la [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
+- Los resultados mas detallados de las qualifiers se pueden acceder en la [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682 "Google Sheets")
 - El total de puntos se determina por `la posición Σ ganada al jugar el mappool de clasificaciones (en cada tier)`, cuanto más baja sea la puntuación mejor
 
 ## Reglas
@@ -404,7 +404,7 @@ Lunes, 27 Enero 2020:
 
 1. El Coffee Hispanic Tournament es un torneo de **2 contra 2 osu!** y usará el **Score V2** como sistema de puntuación.
 2. El torneo usará el sistema de bracket de **eliminación simple**, lo que significa que si pierdes, serás eliminado del torneo.
-3. Este es un torneo donde solamente players de países **[Hispanohablantes](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions)** podrán ingresar.En caso de tener bandera de otro país pero ser hispanohablante, deberás justificar conmigo o Neuu tu nacionalidad.
+3. Este es un torneo donde solamente players de países **[Hispanohablantes](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions "Wikipedia")** podrán ingresar.En caso de tener bandera de otro país pero ser hispanohablante, deberás justificar conmigo o Neuu tu nacionalidad.
 4. Hay 4 tiers divididos por rangos de osu!, más detalles a continuación:
    - Tier 1: Rango #1 - #1,100
    - Tier 2: Rango #1,101 - #4,000
@@ -419,7 +419,7 @@ Lunes, 27 Enero 2020:
      - El 3er lugar en el tier 3 será emparejado con el 6to lugar en el tier 2.
      - El 4to lugar en el tier 4 será emparejado con el 5º lugar en el tier 1.
 6. Se permite a los jugadores estar por debajo de #25.000 en el rango cuando la fase de registro aún está abierta, pero cuando se cierran los jugadores deben estar dentro del rango de rango.
-7. Se puede acceder al registro a través del [formulario de Google](https://forms.gle/18TgJQ5hMgfnsAnS7) y al unirse al servidor de Discord. En caso de no hacer ambas cosas, su registro no será tenido en cuenta.
+7. Se puede acceder al registro a través del [formulario de Google](https://forms.gle/18TgJQ5hMgfnsAnS7 "Google Forms") y al unirse al servidor de Discord. En caso de no hacer ambas cosas, su registro no será tenido en cuenta.
 8. Una vez que entren en el servidor de Discord, necesitan cambiar su nombre de usuario de Discord por su nombre de usuario de osu!
 9. Todos los miembros de la organización no podían participar en el torneo, con la excepción del selector de mapas, el diseñador y el comentarista.
 10. En caso de cualquier registro sospechoso, el gerente tiene todos los derechos para rechazar la solicitud.
@@ -446,7 +446,7 @@ Lunes, 27 Enero 2020:
 
 ### Instrucciones de horarios
 
-1. Todos los horarios van a estar en UTC+0 debido a que muchos países tienen diferentes zonas horarias y es más fácil de esta manera. La conversión de zonas horarias se puede hacer a través de este [sitio web](https://www.timeanddate.com/worldclock/converter.html).
+1. Todos los horarios van a estar en UTC+0 debido a que muchos países tienen diferentes zonas horarias y es más fácil de esta manera. La conversión de zonas horarias se puede hacer a través de este [sitio web](https://www.timeanddate.com/worldclock/converter.html "timeanddate.com").
 2. El mapa de los clasificatorios se jugará dos veces. Todos los jugadores pueden jugar una repetición en su propio vestíbulo o en otro vestíbulo de su preferencia.
 3. Todos los partidos serán transmitidos en vivo.
 4. La clasificación de estrellas del grupo será diferente en los 6 grupos de mapas del torneo. Habrá un grupo general para todos en la etapa de clasificación.

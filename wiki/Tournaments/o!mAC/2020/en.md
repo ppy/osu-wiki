@@ -50,11 +50,11 @@ The osu!mania Asian's Champions 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1155270)
-- [Livestream](https://www.twitch.tv/asianschampions)
-- [Discord server](https://discord.gg/HhgdbCK)
-- [Mappools](https://docs.google.com/spreadsheets/d/1JC6uyToKPOvAWHDenWN87gWb9QSBPKGLU9XRlZhaGPk)
-- [Challonge](https://challonge.com/zh_CN/asianschampions20)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4)**
+- [Livestream](https://www.twitch.tv/asianschampions "Twitch")
+- [Discord server](https://discord.gg/HhgdbCK "Discord")
+- [Mappools](https://docs.google.com/spreadsheets/d/1JC6uyToKPOvAWHDenWN87gWb9QSBPKGLU9XRlZhaGPk "Google Sheets")
+- [Challonge](https://challonge.com/zh_CN/asianschampions20 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4 "Google Sheets")**
 
 ## Podium
 
@@ -210,7 +210,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers & Post-Qualifiers
 
-Check the results in this [statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4).
+Check the results in this [statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4 "Google Sheets").
 
 ## Ruleset
 
@@ -232,7 +232,7 @@ Check the results in this [statistics sheet](https://docs.google.com/spreadsheet
 
 ### Tournament registration
 
-- The flag on your profile must represent an Asian country. For a complete list of Asian countries, you can visit [worldometers](https://www.worldometers.info/geography/how-many-countries-in-asia/).
+- The flag on your profile must represent an Asian country. For a complete list of Asian countries, you can visit [worldometers](https://www.worldometers.info/geography/how-many-countries-in-asia/ "Worldometer").
 - No rank restriction.
 
 ### Match instructions

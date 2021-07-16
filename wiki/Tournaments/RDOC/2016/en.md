@@ -47,7 +47,7 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/390757)
-- [Challonge brackets](https://challonge.com/rdoc2016 "Challenge")
+- [Challonge brackets](https://challonge.com/rdoc2016 "Challonge")
 
 ## Participants
 

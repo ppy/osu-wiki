@@ -1,7 +1,7 @@
 ---
 tags:
-- OCM 3
-- OCM3
+  - OCM 3
+  - OCM3
 ---
 
 # osu! Cup Master 3: osu!catch edition
@@ -49,9 +49,9 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/997764)
-- [Livestream](https://www.twitch.tv/osucupmaster)
-- [Discord server](https://discord.gg/Y9MKD8m)
-- [Twitter](https://twitter.com/CupOsu)
+- [Livestream](https://www.twitch.tv/osucupmaster "Twitch")
+- [Discord server](https://discord.gg/Y9MKD8m "Discord")
+- [Twitter](https://twitter.com/CupOsu "Twitter")
 
 ## Participants
 
@@ -74,8 +74,6 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 | ![](img/teams/obama.png) | Obama's Bizarre adventures | ![][flag_PL] [AmaZ](https://osu.ppy.sh/users/6097002), ![][flag_PL] [Jakkubon](https://osu.ppy.sh/users/3396013), ![][flag_TW] [Sanami](https://osu.ppy.sh/users/1629471), ![][flag_FI] [forgottentaco](https://osu.ppy.sh/users/6109660) |
 | ![](img/teams/retired.png) | Retired players comeback | ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_PL] [Kosmit](https://osu.ppy.sh/users/1749173), ![][flag_PL] [Krzysiek](https://osu.ppy.sh/users/294277), ![][flag_PL] [schizosvenia](https://osu.ppy.sh/users/4600126) |
 
----
-
 ## Groups
 
 | Group | Top Seed | High Seed | Low Seed | Unseeded |
@@ -85,13 +83,11 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 | **C** | Acelga | Smukur es colombiano | Los Choripondios | IZAYOI XXX is the captain |
 | **D** | idk lol | KRNS | Bjirr Squad | 115 |
 
----
-
 ## Mappools
 
 ### Semifinals
 
-**[Download the mappack here! (106 MB)](https://mega.nz/#!rBgjCbTQ!w6slaPCtKT-LiGk7ggZwG11PFmVMAMCxl8o1Yi6Fc4w)**
+**[Download the mappack here! (106 MB)](https://mega.nz/#!rBgjCbTQ!w6slaPCtKT-LiGk7ggZwG11PFmVMAMCxl8o1Yi6Fc4w "MEGA")**
 
 - NoMod
   - [Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/720294#fruits/1520788)
@@ -120,7 +116,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 
 ### Quarterfinals
 
-**[Download the mappack here! (120 MB)](https://mega.nz/#!HNZVQIoZ!5iPK6FObu9KaM0XA_EUn-y_nKOz2WTITCk1h-olbvYg)**
+**[Download the mappack here! (120 MB)](https://mega.nz/#!HNZVQIoZ!5iPK6FObu9KaM0XA_EUn-y_nKOz2WTITCk1h-olbvYg "MEGA")**
 
 - NoMod
   - [P*light - Ninja (Kyubey) \[Elvis's Donatello\]](https://osu.ppy.sh/beatmapsets/195307#fruits/548376)
@@ -149,7 +145,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 
 ### Group Stage
 
-**[Download the mappack here! (136 MB)](https://mega.nz/#!bJADnIbL!QuXa-kSOKKIxCC8LcQNxOa5rEtGv4Fm8GvD1WqkISWo)**
+**[Download the mappack here! (136 MB)](https://mega.nz/#!bJADnIbL!QuXa-kSOKKIxCC8LcQNxOa5rEtGv4Fm8GvD1WqkISWo "MEGA")**
 
 - NoMod
   - [Scop - Keppekishou (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#fruits/201731)
@@ -175,8 +171,6 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
   - [ETIA. - Knock it Off (Maddy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/89582#fruits/247033)
 - Tiebreaker
   - **[Underveil allstars - Underveil is real!!!.. and we are under.. (Chara) \[\*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
-
----
 
 ## Match results
 
@@ -231,8 +225,6 @@ Sunday, 16 February 2020:
 | B | wwwww | 0 | **5** | **Araganes** | *win by default* |
 | D | **idk lol** | **5** | 1 | 115 | [#1](https://osu.ppy.sh/community/matches/58508633) |
 | C | **Acelga** | **5** | 0 | Los Choripondios | *win by default* |
-
----
 
 ## Ruleset
 
@@ -295,8 +287,7 @@ Sunday, 16 February 2020:
 
 ### Stage instructions
 
-1. The 4 teams with the best rank will be considered as Top Seed, the next 4 will be High Seed, then the next 4.
-will be Low Seed, to end the Unseed teams.
+1. The 4 teams with the best rank will be considered as Top Seed, the next 4 will be High Seed, then the next 4 will be Low Seed, to end the Unseed teams.
 2. The groups will be formed with one team of each seed.
 3. The top 2 teams of each group will qualify to the double elimination stages.
 4. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.

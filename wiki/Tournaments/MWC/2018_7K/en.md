@@ -50,8 +50,8 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/687190)
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSzdrbcYPggEJ2gRz_2nct0KfPa6ZJmD3T-mRT6XD7Ci4MhvzYyjguqQ--uYVkYZR5Sdf-pr3oEEOx9/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSzdrbcYPggEJ2gRz_2nct0KfPa6ZJmD3T-mRT6XD7Ci4MhvzYyjguqQ--uYVkYZR5Sdf-pr3oEEOx9/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -105,7 +105,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (105 MB)](https://mega.nz/#!QvghCDCQ!mDHFhurA3mzdqxD-2bfULBNG0cBtXzmG35T-hw6fa3o)**
+**[Download the mappack here! (105 MB)](https://mega.nz/#!QvghCDCQ!mDHFhurA3mzdqxD-2bfULBNG0cBtXzmG35T-hw6fa3o "MEGA")**
 
 - FreeMod
   - [Chroma - tiny tales continue (qodtjr) [Recollections]](https://osu.ppy.sh/beatmapsets/672336#mania/1421269)
@@ -128,7 +128,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (66 MB)](http://www.mediafire.com/file/qz2w37i72joijx7/SF+Mappool.zip)**
+**[Download the mappack here! (66 MB)](http://www.mediafire.com/file/qz2w37i72joijx7/SF+Mappool.zip "MediaFire")**
 
 - FreeMod
   - [FELT - Flower Flag (17VA) [Lunatic]](https://osu.ppy.sh/beatmapsets/539088#mania/1142360)
@@ -149,7 +149,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (65 MB)](http://www.mediafire.com/file/6tkb99xgg481wzy/Quarterfinals%20Mappool.zip)**
+**[Download the mappack here! (65 MB)](http://www.mediafire.com/file/6tkb99xgg481wzy/Quarterfinals%20Mappool.zip "MediaFire")**
 
 - FreeMod
   - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (jakads) [Betsaljoy Lv.32 [Jacky Express]]](https://osu.ppy.sh/beatmapsets/708064#mania/1497082)
@@ -168,7 +168,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (64 MB)](http://www.mediafire.com/file/7jqki3895iiehp5/ro16%20mappool.zip)**
+**[Download the mappack here! (64 MB)](http://www.mediafire.com/file/7jqki3895iiehp5/ro16%20mappool.zip "MediaFire")**
 
 - FreeMod
   - [xi - Aragami (Blocko) [7K Insane]](https://osu.ppy.sh/beatmapsets/344198#mania/760452)
@@ -187,7 +187,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here! (79 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip)**
+**[Download the mappack here! (79 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip "MediaFire")**
 
 - FreeMod
   - [yozuca\* - LOVING TRIP (shionelove) [Another]](https://osu.ppy.sh/beatmapsets/449243#mania/964012)
@@ -416,9 +416,9 @@ Sunday, 11 February 2018:
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 7K specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 6. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool instructions

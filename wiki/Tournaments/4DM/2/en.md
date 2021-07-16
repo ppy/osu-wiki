@@ -56,10 +56,10 @@ The 4 Digit osu!mania World Cup 2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1004847)
-- [4DM Discord server](https://discord.gg/NzYtsxV)
-- [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
-- [Livestream](https://twitch.tv/4digitmwc)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)**
+- [4DM Discord server](https://discord.gg/NzYtsxV "Discord")
+- [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg "YouTube")
+- [Livestream](https://twitch.tv/4digitmwc "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -119,7 +119,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals Week 2
 
-**[Download the map pack here! (101 MB)](https://www.dropbox.com/s/w8i2vgeunb4iure/Grand%20Finals%20%284DM2%20IS%20GONE%29.zip?dl=0)**
+**[Download the map pack here! (101 MB)](https://www.dropbox.com/s/w8i2vgeunb4iure/Grand%20Finals%20%284DM2%20IS%20GONE%29.zip?dl=0 "Dropbox")**
 
 - FreeMod
   - [Treyarch Sound - Archangel (Civilization) \[Detain\]](https://osu.ppy.sh/beatmapsets/828771#mania/1736352)
@@ -142,7 +142,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals Week 1
 
-**[Download the map pack here! (116 MB)](https://www.dropbox.com/s/qngtsvfx96rpv4q/Finals%20Week%201.zip?dl=0)**
+**[Download the map pack here! (116 MB)](https://www.dropbox.com/s/qngtsvfx96rpv4q/Finals%20Week%201.zip?dl=0 "Dropbox")**
 
 - FreeMod
   - [Le Dos-on - A (Elekton) \[ex\]](https://osu.ppy.sh/beatmapsets/585451#mania/1240177)
@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the map pack here! (79 MB)](https://www.dropbox.com/s/bxytgvryoqsuud6/SF.zip?dl=0)**
+**[Download the map pack here! (79 MB)](https://www.dropbox.com/s/bxytgvryoqsuud6/SF.zip?dl=0 "Dropbox")**
 
 - NoMod
   - [goreshit - looming shadow of a tree long gone (-Rem-) \[blight\]](https://osu.ppy.sh/beatmapsets/1100396#mania/2298957)
@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the map pack here! (88 MB)](https://puu.sh/FfWVG/063f62c285.zip)**
+**[Download the map pack here! (88 MB)](https://puu.sh/FfWVG/063f62c285.zip "puush")**
 
 - FreeMod
   - [AAAA - Hoshizora no Kanransha (Len) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/beatmapsets/877047#mania/1837281)
@@ -203,7 +203,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the map pack here! (83 MB)](https://puu.sh/Fdtx1/bd12368c8b.zip)**
+**[Download the map pack here! (83 MB)](https://puu.sh/Fdtx1/bd12368c8b.zip "puush")**
 
 - FreeMod
   - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/860089#mania/2007200)
@@ -383,7 +383,7 @@ Tuesday, 25 February 2020:
 
 ### Qualifiers
 
-- More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)
+- More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing "Google Sheets")
 - Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 - Only the top 24 team can proceed to the Group Stage
 - ![][flag_PE] Peru didn't show up during their Qualifiers

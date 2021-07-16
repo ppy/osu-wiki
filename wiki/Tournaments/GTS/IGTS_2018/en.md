@@ -50,10 +50,10 @@ The Intermediate Global Taiko Showdown 2018 was run by various osu!taiko communi
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/767841)
-- [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com)
-- [Livestream](https://www.twitch.tv/igtsosu)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4vir4NFHj_ddiWiO14Tywkd8ZJNF5Zo_CmUb1vKcSOi5ReVFz23InJNg4rEfCtXYmKUq4Byf29SQd/pubhtml)**
+- [GTS Discord server](https://discord.gg/3mGC3HB "Discord")
+- [GTS website](https://gtsosu.com "GTS")
+- [Livestream](https://www.twitch.tv/igtsosu "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4vir4NFHj_ddiWiO14Tywkd8ZJNF5Zo_CmUb1vKcSOi5ReVFz23InJNg4rEfCtXYmKUq4Byf29SQd/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -103,7 +103,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (107 MB)](https://mega.nz/#!Y8M2la6K!CHWMUKhMNOD4Cr3OKioBD6n1MiGRJIORYhqRJg9Hu-o)**
+**[Download the mappack here! (107 MB)](https://mega.nz/#!Y8M2la6K!CHWMUKhMNOD4Cr3OKioBD6n1MiGRJIORYhqRJg9Hu-o "MEGA")**
 
 - NoMod
   - [LOLI RIPE - All I wanna do is touch your power points (BabySnakes) \[PoisOni\]](https://osu.ppy.sh/beatmapsets/846727#taiko/1770837)
@@ -132,7 +132,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (70 MB)](https://mega.nz/#!94dm3IIB!kdoUv1uMV09D0Jv15QiKsK4PSwbuaWCp09T2hLi6Mkg)**
+**[Download the mappack here! (70 MB)](https://mega.nz/#!94dm3IIB!kdoUv1uMV09D0Jv15QiKsK4PSwbuaWCp09T2hLi6Mkg "MEGA")**
 
 - NoMod
   - [Tomatsu Haruka, Hikasa Yoko, Amamiya Sora - Eyecatch! Too Much! (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/554873#taiko/1187765)
@@ -158,7 +158,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (63 MB)](https://mega.nz/#!xt0gHSrT!Ea2AYNt6Zg6DNoYyiNSNmrCkALw34AZIcS2v_ol02Is)**
+**[Download the mappack here! (63 MB)](https://mega.nz/#!xt0gHSrT!Ea2AYNt6Zg6DNoYyiNSNmrCkALw34AZIcS2v_ol02Is "MEGA")**
 
 - NoMod
   - [Culprate - Yellow (A Second Glimpse) (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/589814#taiko/1500895)
@@ -182,7 +182,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (71 MB)](https://mega.nz/#!ktMHUaaK!2maoXyV1gqC6CyIABct9dwU-RFQk6N5Aa-TdPk0LCaQ)**
+**[Download the mappack here! (71 MB)](https://mega.nz/#!ktMHUaaK!2maoXyV1gqC6CyIABct9dwU-RFQk6N5Aa-TdPk0LCaQ "MEGA")**
 
 - NoMod
   - [Cranky - Into the Unknown (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/738600#taiko/1558765)
@@ -206,7 +206,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 1 (Lower Bracket)
 
-**[Download the mappack here! (56 MB)](https://mega.nz/#!CvhRhKZL!k3My3SDxVJiAmD8xZs27_nwmVsisrMY4O5NaqA1dW6w)**
+**[Download the mappack here! (56 MB)](https://mega.nz/#!CvhRhKZL!k3My3SDxVJiAmD8xZs27_nwmVsisrMY4O5NaqA1dW6w "MEGA")**
 
 - NoMod
   - [Nekomata Master - Silence (Tasha) \[Oni\]](https://osu.ppy.sh/beatmapsets/127126#taiko/342676)
@@ -230,7 +230,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (67 MB)](https://mega.nz/#!mzgBHYxJ!C7T6SS-wWBI85Ez0-iKGB62466pcE8iV_yJHKDAB8qQ)**
+**[Download the mappack here! (67 MB)](https://mega.nz/#!mzgBHYxJ!C7T6SS-wWBI85Ez0-iKGB62466pcE8iV_yJHKDAB8qQ "MEGA")**
 
 - NoMod
   - [Fire EX. - Shattered Dreams (Nardoxyribonucleic) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/287251#taiko/660343)

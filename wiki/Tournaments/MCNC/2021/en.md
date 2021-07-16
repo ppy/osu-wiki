@@ -52,15 +52,15 @@ The osu!mania 4K Chinese National Cup 2021 is run by various community members.
 
 - [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/1260186)
 - [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1260175)
-- [Livestream](https://live.bilibili.com/2996250)
-- [Discord Server](https://discord.gg/uBHK5vq)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1xgxKNKoJNEQz_zlPUf-4fyxeBDpuhfkgqxXyOxaIkpU)**
+- [Livestream](https://live.bilibili.com/2996250 "Bilibili")
+- [Discord Server](https://discord.gg/uBHK5vq "Discord")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1xgxKNKoJNEQz_zlPUf-4fyxeBDpuhfkgqxXyOxaIkpU "Google Sheets")**
 
 ## Mappools
 
 ### Qualifiers
 
-**[Download the mappack here! (18 MB)](https://drive.google.com/file/d/1KYzdeiVoa11U0FYwjzqu-EKnDiA8DFr4/view?usp=sharing)**
+**[Download the mappack here! (18 MB)](https://drive.google.com/file/d/1KYzdeiVoa11U0FYwjzqu-EKnDiA8DFr4/view?usp=sharing "Google Drive")**
 
 - FreeMod
   - [Petit Rabbit's - Tenkuu Cafeteria (TV Size) (Hidden is fun) \[BLOOM! (No LN)\]](https://osu.ppy.sh/beatmapsets/1418929#mania/2923231)

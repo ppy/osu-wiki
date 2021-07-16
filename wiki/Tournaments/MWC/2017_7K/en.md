@@ -48,8 +48,8 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/10Q8GPV9ngZJS2mGghiJUPrnZewLW9uVrs0kSvRUBN_A/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/10Q8GPV9ngZJS2mGghiJUPrnZewLW9uVrs0kSvRUBN_A/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -91,7 +91,7 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (124 MB)](http://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar)**
+**[Download the mappack here! (124 MB)](http://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar "MediaFire")**
 
 - FreeMod
   - [Alon Mor - Demons (-Kamikaze-) \[Evening's ritual (preview)\]](https://osu.ppy.sh/beatmapsets/562279#mania/1188811)
@@ -114,7 +114,7 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/ko6380yoov9455x/MWC7K_2017_Semifinals.rar)**
+**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/ko6380yoov9455x/MWC7K_2017_Semifinals.rar "MediaFire")**
 
 - FreeMod
   - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) (Evening) \[Expert\]](https://osu.ppy.sh/beatmapsets/799677#mania/1042544)
@@ -136,7 +136,7 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (61 MB)](http://www.mediafire.com/file/19768v0uxatm433/MWC_7K_2017_Quarterfinals.rar)**
+**[Download the mappack here! (61 MB)](http://www.mediafire.com/file/19768v0uxatm433/MWC_7K_2017_Quarterfinals.rar "MediaFire")**
 
 - FreeMod
   - [Rob Zombie - What Lurks on Channel X? (Pope Gadget) \[VII\]](https://osu.ppy.sh/beatmapsets/542627#mania/1150224)
@@ -157,7 +157,7 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here! (88 MB)](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar)**
+**[Download the mappack here! (88 MB)](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar "MediaFire")**
 
 - FreeMod
   - [WALKUERE - Ikenai Borderline (SanadaYukimura) \[Emiria's 7K G\]](https://osu.ppy.sh/beatmapsets/478451#mania/1030861)
@@ -355,9 +355,9 @@ Sunday, 15 January 2017:
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 4-key specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a map as well.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a map as well.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results of the Group Stage will be published via a Statistics sheet.

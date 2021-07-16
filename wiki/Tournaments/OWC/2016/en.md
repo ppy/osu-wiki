@@ -47,9 +47,9 @@ The osu! World Cup 2016 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/507270)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Stage recaps](https://www.youtube.com/playlist?list=PLqJuZKl72XH_El27Es8RsxW5NXDUVeRRl) (by Feurigel)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/users/1/d/1rvVSjmdHIb-h8pekmVfIIPDPivrD5fACjNRYGo1U9to/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Stage recaps](https://www.youtube.com/playlist?list=PLqJuZKl72XH_El27Es8RsxW5NXDUVeRRl "YouTube") (by Feurigel)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/users/1/d/1rvVSjmdHIb-h8pekmVfIIPDPivrD5fACjNRYGo1U9to/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -111,7 +111,7 @@ The osu! World Cup 2016 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-[Download the mappack here! (148 MB)](https://www.mediafire.com/file/1rf6jgjsgfilhkx/OWC_2016_Finals.rar)
+[Download the mappack here! (148 MB)](https://www.mediafire.com/file/1rf6jgjsgfilhkx/OWC_2016_Finals.rar "MediaFire")
 
 - NoMod
   - [U1 overground - Dopamine (fanzhen0019) \[C6H3(OH)2-CH2-CH2-NH2\]](https://osu.ppy.sh/beatmapsets/210316#osu/494818)
@@ -138,7 +138,7 @@ The osu! World Cup 2016 was run by various community members.
 
 ### Semifinals
 
-[Download the mappack here! (131 MB)](https://www.mediafire.com/file/byy9j4jan4uhk57/OWC_2016_Semifinals.rar)
+[Download the mappack here! (131 MB)](https://www.mediafire.com/file/byy9j4jan4uhk57/OWC_2016_Semifinals.rar "MediaFire")
 
 - NoMod
   - [ZUN remixed by LeaF - Resurrection Spell (Muya) \[VOLCANO\]](https://osu.ppy.sh/beatmapsets/292644#osu/658561)
@@ -165,7 +165,7 @@ The osu! World Cup 2016 was run by various community members.
 
 ### Quarterfinals
 
-[Download the mappack here! (125 MB)](https://www.mediafire.com/file/7gmr44m72v58p8w/OWC_2016_Quarterfinals.rar)
+[Download the mappack here! (125 MB)](https://www.mediafire.com/file/7gmr44m72v58p8w/OWC_2016_Quarterfinals.rar "MediaFire")
 
 - NoMod
   - [Memme - Chinese Restaurant (M o k o r i) \[Spicy\]](https://osu.ppy.sh/beatmapsets/256467#osu/587547)
@@ -192,7 +192,7 @@ The osu! World Cup 2016 was run by various community members.
 
 ### Round of 16
 
-[Download the mappack here! (171 MB)](https://www.mediafire.com/file/1qbqnc5hxa10xk9/OWC_2016_Round_of_16.rar)
+[Download the mappack here! (171 MB)](https://www.mediafire.com/file/1qbqnc5hxa10xk9/OWC_2016_Round_of_16.rar "MediaFire")
 
 - NoMod
   - [Cilvery - Kamisama Nejimaki (sukiNathan) \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/374900#osu/821238)
@@ -219,7 +219,7 @@ The osu! World Cup 2016 was run by various community members.
 
 ### Group Stage
 
-[Download the mappack here! (153 MB)](https://www.mediafire.com/file/13glkdv1zbyxfpp/OWC_2016_Group_Stage.rar)
+[Download the mappack here! (153 MB)](https://www.mediafire.com/file/13glkdv1zbyxfpp/OWC_2016_Group_Stage.rar "MediaFire")
 
 - NoMod
   - [sakuzyo - Altale (toybot) \[Bonzi's Extra\]](https://osu.ppy.sh/beatmapsets/228815#osu/1012279)
@@ -479,9 +479,9 @@ Sunday, 13 November 2016:
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable or inappropriate content is prohibited.
 3. Each captain must ban one beatmap to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results of all stages will be published via a Statistics sheet.

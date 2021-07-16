@@ -7,7 +7,7 @@ tags:
 
 ![VAF logo](img/logo.jpg)
 
-The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament will be run in a swiss style to determine the top players before going onto a double-elimination bracket in the Semifinals phase. The tournament is also rank-restricted to rank #50 and below. It is the first installment of the Vaf's Autumn Fiesta.
+The **Vaf's Autumn Fiesta** (**VAF**) was a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament was run in a swiss style to determine the top players before going onto a double-elimination bracket in the Semifinals phase. The tournament was also rank-restricted to rank #50 and below. It was the first installment of the Vaf's Autumn Fiesta.
 
 ## Tournament schedule
 
@@ -33,13 +33,13 @@ The **Vaf's Autumn Fiesta** (**VAF**) is a 1v1 osu!taiko tournament hosted by ![
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Physical trophy, 6 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Physical trophy, 6 months of osu!supporter tag |
 
-A prize pool of grand total 18 months of osu!supporter tag and physical trophies is made possible thanks to [LotusPro](http://www.lotuspro.io/).
+A prize pool of grand total 18 months of osu!supporter tag and physical trophies is made possible thanks to [Lotuspro](http://www.lotuspro.io/ "Lotuspro").
 
 ![](img/badge.jpg "VAF winner badge")
 
 ## Organisation
 
-The Vaf's Autumn Fiesta is run by various community members.
+The Vaf's Autumn Fiesta was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -60,7 +60,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 - Livestream
   - [Twitch](https://www.twitch.tv/vafautumnfiesta "Twitch")
   - [Trovo](https://trovo.live/VafAutumnFiesta "Trovo")
-    - *Note: The second channel's purpose is to stream the other match if there are more than one matches happening at the same time.*
+    - *Note: The second channel's purpose was to stream the other match if there were more than one matches happening at the same time.*
 - [VAF Discord server](https://discord.gg/h6AcC2XB3B "Discord")
 - [Challonge bracket](https://challonge.com/VAF "Challonge")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1A0MAwHb0xVQefsPAc1v1SMox9dTyWodRXyqyIWNaVjg/edit?usp=sharing "Google Sheets")**
@@ -136,11 +136,21 @@ The Vaf's Autumn Fiesta is run by various community members.
 | #425 | ![][flag_TW] [\_Llama](https://osu.ppy.sh/users/12798183) |
 | #430 | ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [yu-k1\_](https://osu.ppy.sh/users/16347853) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] [J a c k y](https://osu.ppy.sh/users/8011704) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
+
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (90 MB)](https://www.mediafire.com/file/sz6al1q0nifisg9/MAPPACK_GF.zip/file)**
+**[Download the mappack here! (90 MB)](https://www.mediafire.com/file/sz6al1q0nifisg9/MAPPACK_GF.zip/file "MediaFire")**
 
 - NoMod
   - [Kyou1110 - Revavavavava Ideoloololololololo (applerss) \[Innererererer Oniinininininini\]](https://osu.ppy.sh/beatmapsets/669463#taiko/1416106)
@@ -170,7 +180,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (109 MB)](https://www.mediafire.com/file/b2xdkgyty6c5foq/Mappack+F.zip/file)**
+**[Download the mappack here! (109 MB)](https://www.mediafire.com/file/b2xdkgyty6c5foq/Mappack+F.zip/file "MediaFire")**
 
 - NoMod
   - [96-glass - TAROLIN MEGAMIX (2077 art mix) (applerss) \[2019 oni\]](https://osu.ppy.sh/beatmapsets/1066293#taiko/2234549)
@@ -200,7 +210,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (102 MB)](https://www.mediafire.com/file/wzxoqyuv7oqb3rx/MAPPACK_SEMIFINALS_VAF.zip/file)**
+**[Download the mappack here! (102 MB)](https://www.mediafire.com/file/wzxoqyuv7oqb3rx/MAPPACK_SEMIFINALS_VAF.zip/file "MediaFire")**
 
 - NoMod
   - [hanacco - Tachibana Sylphynford (X a v y) \[TSF in Nippon!\]](https://osu.ppy.sh/beatmapsets/1312208#taiko/2719578)
@@ -230,7 +240,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ### Swiss week 6
 
-**[Download the mappack here! (93 MB)](https://www.mediafire.com/file/9scny0ifon9dtss/mappack+week+6.zip/file)**
+**[Download the mappack here! (93 MB)](https://www.mediafire.com/file/9scny0ifon9dtss/mappack+week+6.zip/file "MediaFire")**
 
 - NoMod
   - [Silentroom - Finixe (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1336266#taiko/2768306)
@@ -257,7 +267,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ### Swiss week 5
 
-**[Download the mappack here! (77 MB)](https://www.mediafire.com/file/zmt03xqpk33atfv/MAPPACK_SWISS_5.zip/file)**
+**[Download the mappack here! (77 MB)](https://www.mediafire.com/file/zmt03xqpk33atfv/MAPPACK_SWISS_5.zip/file "MediaFire")**
 
 - NoMod
   - [An - Cochma (Ulqui) \[Purity\]](https://osu.ppy.sh/beatmapsets/1381447#taiko/2854276)
@@ -284,7 +294,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ### Swiss week 4
 
-**[Download the mappack here! (74 MB)](https://www.mediafire.com/file/hnxyyckq4znqd6m/MAPPACK_SWISS_4.zip/file)**
+**[Download the mappack here! (74 MB)](https://www.mediafire.com/file/hnxyyckq4znqd6m/MAPPACK_SWISS_4.zip/file "MediaFire")**
 
 - NoMod
   - [Rainbowdragoneyes - Gods Of War 2007 - 2010 (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/831241#taiko/1741497)
@@ -311,7 +321,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ### Swiss week 3
 
-**[Download the mappack here! (88 MB)](https://www.mediafire.com/file/jz3c3oiuax5kpfo/MAPPACK+SWISS+3.zip/file)**
+**[Download the mappack here! (88 MB)](https://www.mediafire.com/file/jz3c3oiuax5kpfo/MAPPACK+SWISS+3.zip/file "MediaFire")**
 
 - NoMod
   - [Rohi - Kakuzetsu Thanatos (Idealism) \[Isolation\]](https://osu.ppy.sh/beatmapsets/1175412#taiko/2451623)
@@ -338,7 +348,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ### Swiss week 2
 
-**[Download the mappack here! (94 MB)](https://www.mediafire.com/file/ivudcuyyvpky3eh/MAPPACK+SWISS+WEEK+2.zip/file)**
+**[Download the mappack here! (94 MB)](https://www.mediafire.com/file/ivudcuyyvpky3eh/MAPPACK+SWISS+WEEK+2.zip/file "MediaFire")**
 
 - NoMod
   - [mafumafu - Kakushigoto (kanpakyin) \[Inner Oni (Tourney Ver.)\]](https://osu.ppy.sh/beatmapsets/1320126#taiko/3006514)
@@ -365,7 +375,7 @@ The Vaf's Autumn Fiesta is run by various community members.
 
 ### Swiss week 1
 
-**[Download the mappack here! (113 MB)](https://www.mediafire.com/file/cc6lfomy344chll/SWISS1_MAPPACK.zip/file)**
+**[Download the mappack here! (113 MB)](https://www.mediafire.com/file/cc6lfomy344chll/SWISS1_MAPPACK.zip/file "MediaFire")**
 
 - NoMod
   - [Orangestar - Asu no Yozora Shoukaihan (Raphalge) \[Vocaloid Hater\]](https://osu.ppy.sh/beatmapsets/704125#taiko/1489560)
@@ -391,6 +401,20 @@ The Vaf's Autumn Fiesta is run by various community members.
   - [Se-U-Ra - Hope 4 Hopeful (Hivie) \[Optimism\]](https://osu.ppy.sh/beatmapsets/1302274#taiko/2700888)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 10 July 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| janitore ![][flag_CA] | 6 | **7** | ![][flag_HK] **J a c k y** | [#1](https://osu.ppy.sh/community/matches/87121539) |
+
+Sunday, 11 July 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **yu-k1\_** ![][flag_JP] | **7** | 3 | ![][flag_HK] J a c k y | [#1](https://osu.ppy.sh/community/matches/87175258) |
 
 ### Finals
 

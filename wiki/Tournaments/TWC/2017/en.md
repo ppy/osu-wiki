@@ -47,8 +47,8 @@ The osu!taiko World Cup 2017 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/555072)
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Yyj_Idbs685dvR0KoFmMF-JRtH7Qd30k62aIPHOmtG8/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Yyj_Idbs685dvR0KoFmMF-JRtH7Qd30k62aIPHOmtG8/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -89,7 +89,7 @@ The osu!taiko World Cup 2017 was run by various community members.
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (84 MB)](https://www.mediafire.com/file/7e6788k1q63asfe/TWC_2017_Finals.rar)**
+**[Download the mappack here! (84 MB)](https://www.mediafire.com/file/7e6788k1q63asfe/TWC_2017_Finals.rar "MediaFire")**
 
 - NoMod
   - [tarolabo - eth ken (\_yu68) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/530937#taiko/1125322)
@@ -116,7 +116,7 @@ The osu!taiko World Cup 2017 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (83 MB)](https://www.mediafire.com/file/7ejgylr5e39zdrk/TWC_2017_Semifinals.rar)**
+**[Download the mappack here! (83 MB)](https://www.mediafire.com/file/7ejgylr5e39zdrk/TWC_2017_Semifinals.rar "MediaFire")**
 
 - NoMod
   - [MDK - Press Start (uone) \[START\]](https://osu.ppy.sh/beatmapsets/552867#taiko/1170749)
@@ -142,7 +142,7 @@ The osu!taiko World Cup 2017 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (84 MB)](https://www.mediafire.com/file/889n738d432n228/TWC_2017_Quarterfinals.rar)**
+**[Download the mappack here! (84 MB)](https://www.mediafire.com/file/889n738d432n228/TWC_2017_Quarterfinals.rar "MediaFire")**
 
 - NoMod
   - [Kobaryo - Pumpin' Junkies (Kobaryo's FTN-Remix) (MMzz) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/296900#taiko/666515)
@@ -169,7 +169,7 @@ The osu!taiko World Cup 2017 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (86 MB)](https://www.mediafire.com/file/rnzlqkyv9x8ez2v/TWC_2017_Round_of_16.rar)**
+**[Download the mappack here! (86 MB)](https://www.mediafire.com/file/rnzlqkyv9x8ez2v/TWC_2017_Round_of_16.rar "MediaFire")**
 
 - NoMod
   - [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Nishizumi) \[Kraken\]](https://osu.ppy.sh/beatmapsets/542058#taiko/1149263)
@@ -196,7 +196,7 @@ The osu!taiko World Cup 2017 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here! (81 MB)](https://www.mediafire.com/file/vvi1c5w7px99mf9/TWC_2017_Group_Stage.rar)**
+**[Download the mappack here! (81 MB)](https://www.mediafire.com/file/vvi1c5w7px99mf9/TWC_2017_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [ENNNN - Nightfall (Ryui) \[Collab\]](https://osu.ppy.sh/beatmapsets/313849#taiko/700552)
@@ -435,9 +435,9 @@ Sunday, 12 March 2017:
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results of the Group Stage will be published via a Statistics sheet.

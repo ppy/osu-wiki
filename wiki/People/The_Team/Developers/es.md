@@ -6,6 +6,8 @@ tags:
   - osu! dev
   - osu! devs
 no_native_review: true
+outdated: true
+outdated_since: b5ffad1bde58fd33ff05bc06bb2843bc8707275e
 ---
 
 # Desarrolladores

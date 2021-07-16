@@ -1,7 +1,7 @@
 ---
 tags:
-- oMMFF
-- MMFF
+  - oMMFF
+  - MMFF
 ---
 
 # osu! Multi Mode French Fiesta
@@ -493,13 +493,13 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   - [LeaF - Calamity Fortune (Rhytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/739859#taiko/1561014)
   - [toby fox - Spear of Justice (Surono) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/550611#taiko/1166592)
-  - [WeAreCastor - Eskimo (Savant Remix) (Nofool) \[Oni\]](https://puu.sh/CqiXA/9c9426478f.osz)
-  - [uma - masaka IN Nightmare! (Osamix, Nofool edit) \[Muzukashii\]](https://puu.sh/CqiXA/9c9426478f.osz)
+  - [WeAreCastor - Eskimo (Savant Remix) (Nofool) \[Oni\]](https://puu.sh/CqiXA/9c9426478f.osz "puush")
+  - [uma - masaka IN Nightmare! (Osamix, Nofool edit) \[Muzukashii\]](https://puu.sh/CqiXA/9c9426478f.osz "puush")
 - Hidden
   - [Project B- - Sarutobi Champion is Sessha (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/821700#taiko/1723174)
-  - [jioyi - Platinum (salchow, Nofool edit) \[Muzukashii (MMFF edit)\]](https://puu.sh/CqiXA/9c9426478f.osz)
+  - [jioyi - Platinum (salchow, Nofool edit) \[Muzukashii (MMFF edit)\]](https://puu.sh/CqiXA/9c9426478f.osz "puush")
 - HardRock
-  - [Cyte - Upside Done (7\_7, Nofool edit) \[Muzukashii (MMFF edit)\]](https://puu.sh/CqiXA/9c9426478f.osz)
+  - [Cyte - Upside Done (7\_7, Nofool edit) \[Muzukashii (MMFF edit)\]](https://puu.sh/CqiXA/9c9426478f.osz "puush")
   - [NOMA - Brain Power (S a n d) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/403076#taiko/878077)
 - DoubleTime
   - [Gojou Mayumi - DANZEN! Futari wa Pretty Cure (Mrriichi) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/394634#taiko/858834)
@@ -687,7 +687,7 @@ This competition has come to an end and resulted in the following podium:
   - [a\_hisa - Cheshire's dance (TheToaphster) \[LN Dancing\]](https://osu.ppy.sh/beatmapsets/555278#mania/1175264)
   - [DJ Noriken - #MAGiCVLGiRL\_TRVP\_B3VTZ (Zyph) \[GVIL'Z\_LNZ\]](https://osu.ppy.sh/beatmapsets/742179#mania/1565515)
   - [Her Bright Skies - The Glorious (Final Sketch Remix) (Shoegazer) \[Coronation\]](https://osu.ppy.sh/beatmapsets/852660#mania/1782169)
-  - [Sex Whales & Fraxo - Dead To Me (feat. Lox Chatterbox) (Whagwha Victus) \[VICTUS\]](https://www.dropbox.com/s/mf764dcbcypj2f1/Sex%20Whales%20%26%20Fraxo%20-%20Dead%20To%20Me%20%28feat.%20Lox%20Chatterbox%29.osz?dl=0)
+  - [Sex Whales & Fraxo - Dead To Me (feat. Lox Chatterbox) (Whagwha Victus) \[VICTUS\]](https://www.dropbox.com/s/mf764dcbcypj2f1/Sex%20Whales%20%26%20Fraxo%20-%20Dead%20To%20Me%20%28feat.%20Lox%20Chatterbox%29.osz?dl=0 "Dropbox")
   - [Lolipusher - why as soon as we became so close, we have to say goodbye? (Civilization) \[december\]](https://osu.ppy.sh/beatmapsets/839786#mania/1757909)
   - [Kola Kid - Sniffing Stardust On The Dancefloor (Remilly) \[Cosmic Horror\]](https://osu.ppy.sh/beatmapsets/473480#mania/1011729)
   - [(Various Artists) - Dumpstream of Memes 1A (Leo137) \[Back! to the Future - Denpagumi.inc - Leo137's Easy 1\]](https://osu.ppy.sh/beatmapsets/653875#mania/1386023)
@@ -713,7 +713,7 @@ This competition has come to an end and resulted in the following podium:
   - [sasakure.UK - Bokura no 16bit Wars (Sonny737) \[Challenge\]](https://osu.ppy.sh/beatmapsets/702378#mania/1486229)
   - [stereoberry - ametsuchi (Civilization) \[petrichor\]](https://osu.ppy.sh/beatmapsets/671311#mania/1419426)
 - Tiebreaker
-  - **[Laur - Sound Chimera (\_Streamy\_) \[O!MFF (Restep)\]](https://www.dropbox.com/s/5uyw2410c8n5izj/Laur%20-%20Sound%20Chimera.osz?dl=0)**
+  - **[Laur - Sound Chimera (\_Streamy\_) \[O!MFF (Restep)\]](https://www.dropbox.com/s/5uyw2410c8n5izj/Laur%20-%20Sound%20Chimera.osz?dl=0 "Dropbox")**
 
 #### Round of 24
 
@@ -1247,7 +1247,7 @@ Sunday, 20 January 2019:
 
 #### Bans and picks
 
-- Following the warmup phase, players will have to use the !roll command in the multiplayer chat. The player with the lowest roll will have the first ban and second pick, whereas the player with the highest roll will have the first pick and second ban. There will be **two bans** per player for each round.
+- Following the warmup phase, players will have to use the `!roll` command in the multiplayer chat. The player with the lowest roll will have the first ban and second pick, whereas the player with the highest roll will have the first pick and second ban. There will be **two bans** per player for each round.
 
 #### Match format
 

@@ -33,7 +33,7 @@ tags:
 
 | 名次 | 奖品 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/crown-gold.png "冠军") | 每人 $150，个人资料徽章，为期一年的 “osu!mania Champion” 头衔  |
+| ![金冠](/wiki/shared/crown-gold.png "冠军") | 每人 $150，个人资料徽章，为期一年的 “osu!mania Champion” 头衔 |
 | ![银冠](/wiki/shared/crown-silver.png "亚军") | 每人 $80，个人资料徽章 |
 | ![铜冠](/wiki/shared/crown-bronze.png "季军") | 每人 $40，个人资料徽章 |
 
@@ -54,10 +54,10 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 ## 相关链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1106843)
-- [Twitch 直播间](https://www.twitch.tv/osulive)
-- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 发起的 [竞猜](https://pickem.hwc.hr/tournaments/41)
-- [Challonge](https://challonge.com/MWC4K2020) 赛程表
-- Google Sheets **[统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEX_lsC7Kre0jDtZgHzTvTbmCztws2lm0egFDe4oPNt4LeaJwWCLfdwAgkKpWORp4UplgtPwxxBIS/pubhtml)**
+- [Twitch 直播间](https://www.twitch.tv/osulive "Twitch")
+- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 发起的 [竞猜](https://pickem.hwc.hr/tournaments/41 "hwchr's pick'em")
+- [Challonge](https://challonge.com/MWC4K2020 "Challonge") 赛程表
+- Google Sheets **[统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEX_lsC7Kre0jDtZgHzTvTbmCztws2lm0egFDe4oPNt4LeaJwWCLfdwAgkKpWORp4UplgtPwxxBIS/pubhtml "Google Sheets")**
 
 ## 参赛选手
 
@@ -97,8 +97,6 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 | ![][flag_VN] | **越南** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [TriDoanGaming](https://osu.ppy.sh/users/14009758), [Lottery61](https://osu.ppy.sh/users/13821222), [-Frostleaf-](https://osu.ppy.sh/users/11863174), [\[pom\]](https://osu.ppy.sh/users/11789635), [TvS SorAKuN](https://osu.ppy.sh/users/11115041) |
 
 ![MWC 4K 2020 颁奖台](img/podium.jpg)
-
----
 
 ## 图池
 
@@ -454,9 +452,9 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 2. 每个队伍可以在热身期间选择一张谱面。禁止选择带有可疑内容的谱面。所有铺面必须是 osu!mania 4K 模式谱面。
 3. 每队队长可以选择 Ban **一张图**。
 4. 谱面选择权将在两位队长之间交替。
-5. 两位队长必须在 #multiplayer 中使用 “!roll”。
-   - !roll 胜的队伍先 Pick。
-   - !roll 输的队伍先 Ban。
+5. 两位队长必须在 `#multiplayer` 中使用 `!roll`。
+   - `!roll` 胜的队伍先 Pick。
+   - `!roll` 输的队伍先 Ban。
 6. 队伍将有 2 分钟的时间选择谱面，以及 2 分钟的准备时间。
    - 如果队伍花费超过 2 分钟的时间来选择谱面，他们将收到裁判的警告，随后，裁判将使用 `!roll X` 从图池中随机选择一张谱面，其中 X 是被随机的可选谱面数量。
    - 每支队伍在**每次比赛**时将有一次**两分钟的**“战术暂停”可以在选图时使用。*战术暂停是可选的，不强迫使用*。

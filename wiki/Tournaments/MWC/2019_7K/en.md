@@ -50,8 +50,8 @@ The osu!mania 7K World Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/851928)
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHx-0kmYIB3ZrSpz5ZOS7hYV-SsLsVbIVQ15y7PvdMelCSUAr2ipyHRZzsSxXnUEhCaed6PNO5ecb2/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHx-0kmYIB3ZrSpz5ZOS7hYV-SsLsVbIVQ15y7PvdMelCSUAr2ipyHRZzsSxXnUEhCaed6PNO5ecb2/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -418,9 +418,9 @@ Sunday, 10 February 2019:
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 7K specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 6. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool instructions

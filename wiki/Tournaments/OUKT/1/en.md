@@ -69,7 +69,7 @@ The OUKT1 was run by various community members
 
 ### Finals
 
-**[Download the mappack here! (98 MB)](https://drive.google.com/open?id=11lIJSeyRMWucvYUK_RGKCC8aX8De62gf)**
+**[Download the mappack here! (98 MB)](https://drive.google.com/open?id=11lIJSeyRMWucvYUK_RGKCC8aX8De62gf "Google Drive")**
 
 - Nomod
   - [Yousei Teikoku - Wahrheit (Saten) \[Saten\]](https://osu.ppy.sh/beatmapsets/53923#osu/164183)
@@ -94,7 +94,7 @@ The OUKT1 was run by various community members
 
 ### Semifinals
 
-**[Download the mappack here! (149 MB)](https://drive.google.com/open?id=1jqVKiYmtOHIwlLJE1JMdWX9kcvnA4oeY)**
+**[Download the mappack here! (149 MB)](https://drive.google.com/open?id=1jqVKiYmtOHIwlLJE1JMdWX9kcvnA4oeY "Google Drive")**
 
 - Nomod
   - [Celldweller - So Long Sentiment (Metal Remix) (Kei) \[Snep&Kei's Sentiment\]](https://osu.ppy.sh/beatmapsets/43415#osu/139240)
@@ -118,7 +118,7 @@ The OUKT1 was run by various community members
 
 ### Quarterfinals
 
-**[Download the mappack here! (86 MB)](https://drive.google.com/open?id=1rulzK-5qWuuDHvVBPXcaFOPtUrF4sC6q)**
+**[Download the mappack here! (86 MB)](https://drive.google.com/open?id=1rulzK-5qWuuDHvVBPXcaFOPtUrF4sC6q "Google Drive")**
 
 - Nomod
   - [Saiya - Remote Control (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/53857#osu/164020)
@@ -142,7 +142,7 @@ The OUKT1 was run by various community members
 
 ### Round of 16
 
-**[Download the mappack here! (114 MB)](https://drive.google.com/open?id=14X9ntsTRQMbxl7zeUPlCQc2UVYQn9PpG)**
+**[Download the mappack here! (114 MB)](https://drive.google.com/open?id=14X9ntsTRQMbxl7zeUPlCQc2UVYQn9PpG "Google Drive")**
 
 - Nomod
   - [LeaF - Calamity Fortune (Flower) \[SCV's Lunatic\]](https://osu.ppy.sh/beatmapsets/96103#osu/261725)
