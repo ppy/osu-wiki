@@ -181,7 +181,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (93 MB)](https://mega.nz/file/OqpgQI6K#wpWgXB5OE2K6lFMuVu7WB8H62JVTfht_uwOPIE6keuQ)**
+**[Download the mappack here! (93 MB)](https://mega.nz/file/OqpgQI6K#wpWgXB5OE2K6lFMuVu7WB8H62JVTfht_uwOPIE6keuQ "MEGA")**
 
 - FreeMod
   - [Usada Pekora - PEKORANDOMBRAIN! (Yuuma) \[Welcome to Pekoland!\]](https://osu.ppy.sh/beatmapsets/1346547#osu/2788624)
@@ -223,7 +223,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-**[Download the mappack here! (63 MB)](https://mega.nz/file/e7wjwKYQ#49EOxFUHr0v_4QOW427rk-2TlJMx8ykWzok3KFGg6CQ)**
+**[Download the mappack here! (63 MB)](https://mega.nz/file/e7wjwKYQ#49EOxFUHr0v_4QOW427rk-2TlJMx8ykWzok3KFGg6CQ "MEGA")**
 
 - NoMod
   - [LiSA - Tsumibito (Onlybiscuit) \[Spiral of Emotions\]](https://osu.ppy.sh/beatmapsets/1180614#osu/2461785)
@@ -241,7 +241,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the mappack here! (60 MB)](https://mega.nz/file/ejxTCYxC#0Qv8tWUERg72uwtjxaErlP4yXQh7TC-_BqnN76JnKpU)**
+**[Download the mappack here! (60 MB)](https://mega.nz/file/ejxTCYxC#0Qv8tWUERg72uwtjxaErlP4yXQh7TC-_BqnN76JnKpU "MEGA")**
 
 - NoMod
   - [Study - Take a Break (dkblaze) \[Youth\]](https://osu.ppy.sh/beatmapsets/1128948#osu/2358526)
@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 3
 
-**[Download the mappack here! (54 MB)](https://mega.nz/file/rjQCCDhR#7dJJj6u5WSqNbdUbGJ1pMeU7KBxVyfDjSGhqdajO2bo)**
+**[Download the mappack here! (54 MB)](https://mega.nz/file/rjQCCDhR#7dJJj6u5WSqNbdUbGJ1pMeU7KBxVyfDjSGhqdajO2bo "MEGA")**
 
 - NoMod
   - [Hello Happy World! - Nico x Nico = Hyper Smile Power (GNF5) \[Are you smiling?\]](https://osu.ppy.sh/beatmapsets/1192534#osu/2485001)
@@ -277,7 +277,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 4
 
-**[Download the mappack here! (51 MB)](https://mega.nz/file/X3ZEURYB#zl_kgiJKG2O7ce4cU1OcglCHezri7n6c-DtWv7dSeo0)**
+**[Download the mappack here! (51 MB)](https://mega.nz/file/X3ZEURYB#zl_kgiJKG2O7ce4cU1OcglCHezri7n6c-DtWv7dSeo0 "MEGA")**
 
 - NoMod
   - [RAISE A SUILEN - Beautiful Birthday (Noctiam) \[Incandescent\]](https://osu.ppy.sh/beatmapsets/1241593#osu/2581272)
@@ -438,9 +438,9 @@ More detailed qualifier results can be accessed via these spreadsheets below:
 
 ### BWS format
 
-This tournament will introduce "progressive" Badge Weighting System (BWS), a format proposed by ![][flag_FR] [Sentenza](https://osu.ppy.sh/users/8129217) aiming at weighing each badge differently, according to whether or not they ranked up past a tournament’s rank range in which they won one or multiple badges. For instance, if a participant won a badge at rank #10,000 - #25,000 but ranked up beyond #10,000 (e.g. rank #7,000), their badge will weigh less than a badge they'd have won in a #5,000 - #15,000 rank range tournament.
+This tournament will introduce "progressive" Badge Weighting System (BWS), a format proposed by ![][flag_FR] [Sentenza](https://osu.ppy.sh/users/8129217) aiming at weighing each badge differently, according to whether or not they ranked up past a tournament's rank range in which they won one or multiple badges. For instance, if a participant won a badge at rank #10,000 - #25,000 but ranked up beyond #10,000 (e.g. rank #7,000), their badge will weigh less than a badge they'd have won in a #5,000 - #15,000 rank range tournament.
 
-Please check the following [spreadsheet](https://docs.google.com/spreadsheets/d/1l1FemA9ZL4gbMcVMfu-sYe-VqSIlU1ebNkcneJlb7rI/edit?usp=sharing "Google Sheets") out to see an example with the cases of ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143) and ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383). Defex ranked past the rank ranges of the two badged tournaments he won, so both his badges will weigh less towards his BWS rank, but not by much since he’s still close to them (see and compare the O!ET example (Defex) with Original BWS Calc (Defex) sheets). This doesn’t make much of a change, but for participants with a larger amounts of badges, it can have a significant impact. YoshiLover456 is naturally being hit with harsher BWS because of his badge amount (4), and still being in range for 3 of them. However, because he ranked out of the range of one tournament, said badge will weigh less, and will allow him to play in tier 3 instead of tier 2, which seems more fair.
+Please check the following [spreadsheet](https://docs.google.com/spreadsheets/d/1l1FemA9ZL4gbMcVMfu-sYe-VqSIlU1ebNkcneJlb7rI/edit?usp=sharing "Google Sheets") out to see an example with the cases of ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143) and ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383). Defex ranked past the rank ranges of the two badged tournaments he won, so both his badges will weigh less towards his BWS rank, but not by much since he's still close to them (see and compare the O!ET example (Defex) with Original BWS Calc (Defex) sheets). This doesn't make much of a change, but for participants with a larger amounts of badges, it can have a significant impact. YoshiLover456 is naturally being hit with harsher BWS because of his badge amount (4), and still being in range for 3 of them. However, because he ranked out of the range of one tournament, said badge will weigh less, and will allow him to play in tier 3 instead of tier 2, which seems more fair.
 For further concerns or debate with Sentenza about the format, please contact them by Discord DM at `sentenza013#6435`.
 
 ### Draft procedure
@@ -464,15 +464,15 @@ For further concerns or debate with Sentenza about the format, please contact th
    - 2 DoubleTime
    - This applies for all tiers
 3. There will be one playthrough of the pool for each player.
-4. The grace period for participants to show up to their lobby is **5 minutes**. Players may reschedule to other lobbies if they missed their original lobby or as long as they haven’t played one yet.
-5. The seeding will be done through the sum of each player’s placement on each map. In the event of a tie by points, total score will be the deciding factor to break the tie.
+4. The grace period for participants to show up to their lobby is **5 minutes**. Players may reschedule to other lobbies if they missed their original lobby or as long as they haven't played one yet.
+5. The seeding will be done through the sum of each player's placement on each map. In the event of a tie by points, total score will be the deciding factor to break the tie.
 
 #### Bracket stage
 
 1. Each team will be composed of 8 players, 2 players per tier.
 2. During a match, each team must have one player from each tier in the room. They may not substitute a player from a lower tier to play in place of a higher tiered one (e.g. tier 4 playing in place of their tier 3 or 2 player), or vice versa.
 3. If a team fails to show up or gather enough members to make a fully-working team (as described above) to a match, the other team will be granted a win. If neither teams show up to a match, the match will be rescheduled to a later time. Teams have **5 minutes** of grace period to show up.
-4. This tournament’s mappools will feature 4 modpools: Freemod, ForceMod, DoubleTime+FreeMod, Tiebreaker.
+4. This tournament's mappools will feature 4 modpools: Freemod, ForceMod, DoubleTime+FreeMod, Tiebreaker.
    - During a FreeMod, DoubleTime+FreeMod, or Tiebreaker pick, players can, but are not obliged to, select mods to play the map.
    - During a ForceMod pick, teams must select mods. Each team must choose a total of 3 mods, and must have 2 unique mod combinations on at least 2 players. Teams may select from Hidden, HardRock, Easy, and Flashlight. The following caveats apply:
      - HDHR counts as 2 mods and a unique mod combination, and is be considered as HR only. This means that to fulfil the unique mods requirement, another player has to use HD only.
@@ -487,7 +487,7 @@ For further concerns or debate with Sentenza about the format, please contact th
    - The Round of 16 and the Quarterfinals: Best of 9 (first to 5 points wins), 1 ban per team. Pool format: 5FM/3FO/3DT/3TB.
    - The Semifinals: Best of 11 (first to 6 points wins), 2 bans per team. Pool format: 7FM/4FO/4DT/3TB.
    - The Finals and the Grand Finals: Best of 13 (first to 7 points wins), 2 bans per team. Pool format: 8FM/5FO/5DT/3TB.
-8. Disconnections and aborts can only be made up to 30 seconds after a map’s start for a replay of that map. After 30 seconds, the map **will not** be aborted, and the team that wasn’t affected by the abort decides whether they wish to replay the map or not. Each team can call for an abort one time per match.
+8. Disconnections and aborts can only be made up to 30 seconds after a map's start for a replay of that map. After 30 seconds, the map **will not** be aborted, and the team that wasn't affected by the abort decides whether they wish to replay the map or not. Each team can call for an abort one time per match.
 
 [flag_AL]: /wiki/shared/flag/AL.gif "Albania"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
