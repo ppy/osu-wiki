@@ -586,7 +586,8 @@ Sunday, 08 December 2019:
 - Players are free to select one beatmap per player for warmup. Beatmaps with questionable or explicit content is prohibited. All the beatmaps must be osu! beatmaps specifically, and must be submitted so each player can download it.
 - Each player can ban a beatmap from being selected in the match. These beatmaps won’t be selected by any player throughout the match.
 - Beatmap selection will alternate between each player selecting a beatmap from the mappool.
-- Each player must use `!roll` once in `#multiplayer`. -The loser will choose the first ban of the match. The winner will choose the second ban and the first pick of the match.
+- Each player must use `!roll` once in `#multiplayer`.
+- The loser will choose the first ban of the match. The winner will choose the second ban and the first pick of the match.
 - The results of each stage will be posted in a spreadsheet after the given stage.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
