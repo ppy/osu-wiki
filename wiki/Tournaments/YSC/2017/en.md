@@ -828,6 +828,57 @@ Thursday, 27 July 2017:
 | **Wombraider___9** ![][flag_US] | **1** | 0 | ![][flag_GB] Nega | *forfeit* |
 | **idke** ![][flag_US] | **1** | 0 | ![][flag_NO] YokesPai | <!-- TODO check with yaz if she remember about this match --> |
 
+## Ruleset
+
+- This tournament is a osu!, 1v1, international tournament.
+- This tournament will consist of 128 players.
+- Matches will be head to head, with score v2 as the scoring system used.
+- There will be no rank limit on signups, however if we reach 128 signups we will take the top 128 players in terms of rank.
+- Ranks will be taken and locked when registrations have concluded
+- Anyone who does sign up must be able to play maps with a difficulty of at least 4.7*.
+- Starting from groups, the tournament will be double elimination. Qualifications will be the only thing that is single elimination.
+- All staff members are allowed to sign up for the tournament. The only exception are the host, co-hosts, and mappool selectors/testers.
+- All players must treat staff and other participants with a high level of respect, any kind of mistreatment in a match or on the discord (this includes extreme toxicity, racism, homophobia) will result in ban and will be blacklisted from participating in future installments of this tournament.
+- Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.
+- Each stage will be held on a friday/saturday/sunday. Schedules and mappools will be released on the monday/tuesday before that stage is due to happen, to allow for reschedules.
+- reschedules will be allowed if both players agree on a time and provide proof of the agreed reschedule to hosts/co-hosts/scheduling team.
+- Please be aware that reschedules must happen at least 24 hours before the match is due to happen. Any time after this will not be considered.
+- In order for your registration to count, you must fill out the form provided, join the discord and change your username on discord to your osu! Username.
+
+### General Rules
+
+- Referees will create the lobby and invite players 10 minutes before the match is due to start.
+- If a player fails to show up after their match is due to start, a 10 minute timer will be started.
+- Any player that fails to show up after the 10 minute timer will forfeit the match and a default win will be awarded to the other player.
+- Failure to attend a match without a valid reason may result in being blacklisted from participating in future tournaments.
+- The referee will have host at all times during the match. Players are expected to have a warmup and link the beatmap before the match starts.
+- Players will have 90 seconds to ban a map. Failure to ban a map after this time will result in a loss of a ban.
+- Players will have 90 seconds to pick a map. Failure to pick a map after this time will result in the pick being passed to their opponent.
+- Disconnects during the first 30 seconds of the map will result in the map being replayed. Any disconnections after this will result in a forfeit of that map.
+- Players are only allowed to disconnect once per match. Anything after this will result in the match being forfeited to the other player.
+- Any attempts to stall the match, show toxicity or spam during the match will result in a warning. Failure to comply with this rule again will result in a point being awarded to another player.
+- In a FreeMod pick, both players must choose a mod (HD/HR/EZ) or a combination of these mods.
+- The score of a player who failed during a map but managed to revive before the end will be counted as if it were a pass.
+- The score of a player who is in failed state when the map has finished will be counted as 0.
+- If both players fail, the highest failed score will win the map.
+- If there is a tie, the tiebreaker will be played to determine the winner of that match (mods are available during the tiebreaker).
+- At the end of the match, you are free to leave the lobby.
+
+### Qualifiers and Group Stage
+
+- There will be no warmups and one ban per player.
+- Players will roll once. The winner of that roll will ban and pick first.
+- In groups, there will be one top, one high, one mid and one low seeded player per group, this will be drawn randomly.
+- During these stages, players are not allowed to choose from the same mod bracket (HD/HR/DT/FreeMod) twice in a row. This excludes the NoMod bracket pool.
+The top 2 players from each group will make it through to the knockout stage.
+
+### Knockout Stages
+
+- Seeding for knockouts will be as follows: Group A #1 vs Group B #2 etc.
+- In this stage, there will be warmups and 2 bans per player.
+- Players will roll once. The winner will have the first warmup, first ban and first pick.
+- In these stages, players are free to pick from any mod bracket.
+
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
