@@ -52,9 +52,9 @@ The osu!mania World Cup 2014 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/222100)
-- [Livestream](https://www.twitch.tv/osulive/)
-- **[Statistics sheet: 4K bracket](https://mwc.servegame.com/results/view/1)**
-- **[Statistics sheet: 7K bracket](https://mwc.servegame.com/results/view/2)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Statistics sheet: 4K bracket](https://mwc.servegame.com/results/view/1 "Servegame")**
+- **[Statistics sheet: 7K bracket](https://mwc.servegame.com/results/view/2 "Servegame")**
 
 ## Participants
 
@@ -516,7 +516,7 @@ This competition has come to an end and resulted in the following podium:
      - When signing up for both brackets, both rosters do not need to be identical.
      - If your country signs up for the 4K Bracket, it does not need to form a 7K bracket and vica versa.
 2. Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “MWC Registration”
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY "Google Forms"). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “MWC Registration”
    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
@@ -550,7 +550,7 @@ This competition has come to an end and resulted in the following podium:
    - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 2014: TeamBlue vs TeamRed"
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps.
-3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
    - The captains may select maps out of the FreeMod bracket freely.
    - In case of a tie, the tiebreaker map must be played.
 4. Results will be published on the wiki and via the Statistics website.

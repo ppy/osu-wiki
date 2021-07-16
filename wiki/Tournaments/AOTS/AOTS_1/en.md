@@ -1,6 +1,6 @@
 ---
 tags:
-- AOTS
+  - AOTS
 ---
 
 # Asian-Oceanian Taiko Showdown
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   - [Chroma - Lost Found Melody (zkane2) \[Found It\]](https://osu.ppy.sh/beatmapsets/832348#taiko/1743812)
   - [Ryu - Sakura Mirage (\[I\]MMoRTal\[S\]) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/239807#taiko/554407)
-  - [Coda - BLOODY STREAM (BabySnakes) \[Venom\]](https://drive.google.com/file/d/1sCahc8bjBj0tAEeBWJvC7vWpL4e2xc6Y/view)
+  - [Coda - BLOODY STREAM (BabySnakes) \[Venom\]](https://drive.google.com/file/d/1sCahc8bjBj0tAEeBWJvC7vWpL4e2xc6Y/view "Google Drive")
   - [DJ Genki - Toymatic Parade!! (HEKUSODASU) \[23-'s Oni\]](https://osu.ppy.sh/beatmapsets/828912#taiko/1747311)
 - Hidden
   - [Sirio & D-Tox - Loudness War (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/349861#taiko/771449)

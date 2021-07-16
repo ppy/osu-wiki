@@ -1,6 +1,6 @@
 ---
 tags:
-- oTTMT
+  - oTTMT
 ---
 
 # osu! Tag Team Multiplayer Tournament

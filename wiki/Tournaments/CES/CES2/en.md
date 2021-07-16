@@ -51,10 +51,10 @@ The CES League osu! Tournament 2 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1061610)
-- [CES League Discord server](https://discordapp.com/invite/n3mZgWk)
-- [Livestream](https://www.twitch.tv/leagueces)
-- [Challonge brackets](https://challonge.com/CESosu2)
-- **[Main sheet](https://docs.google.com/spreadsheets/d/1uvOJfVDslXhtFhr5AYGN5UGrMXEToI35IaIbYFjWKiw)**
+- [CES League Discord server](https://discordapp.com/invite/n3mZgWk "Discord")
+- [Livestream](https://www.twitch.tv/leagueces "Twitch")
+- [Challonge brackets](https://challonge.com/CESosu2 "Challonge")
+- **[Main sheet](https://docs.google.com/spreadsheets/d/1uvOJfVDslXhtFhr5AYGN5UGrMXEToI35IaIbYFjWKiw "Google Sheets")**
 
 ## Ruleset
 

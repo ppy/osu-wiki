@@ -12,7 +12,7 @@ tags:
 
 ![iDOL@NSTER Logo](img/logo.png)
 
-**The iDOL@NSTER: Irvine Spring Stage** was an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI/). It took place during *Zotcade 2019*, a gaming festival held at the University of California, Irvine (*UCI*). This was osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
+**The iDOL@NSTER: Irvine Spring Stage** was an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI "Facebook"). It took place during *Zotcade 2019*, a gaming festival held at the University of California, Irvine (*UCI*). This was osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
 
 ## Event Details
 
@@ -20,7 +20,7 @@ tags:
 
 The tournament took place on Sunday, May 19, 2019 from roughly 12 to 10 p.m. It was located in the UCI Student Center (full address: 311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB.
 
-The osu! Loser's Finals and Grand Finals matches were livestreamed to the [front page of Twitch](https://www.twitch.tv), and at one point over 11,000 people were watching, making this one of osu! UCI's most popular events so far.
+The osu! Loser's Finals and Grand Finals matches were livestreamed to the [front page of Twitch](https://www.twitch.tv "Twitch"), and at one point over 11,000 people were watching, making this one of osu! UCI's most popular events so far.
 
 ## Prizes
 
@@ -53,17 +53,17 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 | Map Selector | ![][flag_IE] [[KoKo]](https://osu.ppy.sh/users/5322953), ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 | Streamer | ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
 | Commentator | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
-| Designer | ![][flag___] Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
+| Designer | ![][flag___] Skydendrin ([Carrd profile](https://skydendrin.carrd.co "Carrd")) |
 | Referee | ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 
 ## Links
 
-- [Challonge bracket (osu!)](https://challonge.com/ilanstandard)
-- [Challonge bracket (osu!mania)](https://challonge.com/ilanmania)
+- [Challonge bracket (osu!)](https://challonge.com/ilanstandard "Challonge")
+- [Challonge bracket (osu!mania)](https://challonge.com/ilanmania "Challonge")
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/902500)
-- [Livestream](https://www.twitch.tv/osuuci)
-- [osu! UCI Discord server](https://discord.gg/qbZddFV)
-- [Website](http://www.osuuci.com/tournaments/idol@nster/)
+- [Livestream](https://www.twitch.tv/osuuci "Twitch")
+- [osu! UCI Discord server](https://discord.gg/qbZddFV "Discord")
+- [Website](http://www.osuuci.com/tournaments/idol@nster/ "osu! UCI")
 
 ## Participants
 
@@ -117,7 +117,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 ### osu!
 
-**[Download the mappack here! (485 MB)](https://drive.google.com/file/d/1_MF_DIrINdFq4z4gf4RuGImxG4VTEBkO/view?usp=sharing)**
+**[Download the mappack here! (485 MB)](https://drive.google.com/file/d/1_MF_DIrINdFq4z4gf4RuGImxG4VTEBkO/view?usp=sharing "Google Drive")**
 
 #### Grand Finals
 
@@ -241,7 +241,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 ### osu!mania
 
-**[Download the mappack here! (396 MB)](https://drive.google.com/file/d/1v1avJjX88ls3CZvZwW2Hs-WdOL6galwu/view?usp=sharing)**
+**[Download the mappack here! (396 MB)](https://drive.google.com/file/d/1v1avJjX88ls3CZvZwW2Hs-WdOL6galwu/view?usp=sharing "Google Drive")**
 
 #### Finals
 
@@ -502,6 +502,6 @@ Both tournaments will use a standard double-elimination format for playoffs.
 3. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
 4. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
 
-[flag___]: /wiki/shared/flag/__.gif
 [flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag___]: /wiki/shared/flag/__.gif

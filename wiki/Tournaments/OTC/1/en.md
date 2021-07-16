@@ -1,6 +1,6 @@
 ---
 tags:
-- OTC
+  - OTC
 ---
 
 # osu! Technical Championship

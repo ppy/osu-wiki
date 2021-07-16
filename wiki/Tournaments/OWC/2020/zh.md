@@ -57,10 +57,10 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 ## 相关链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1150567)
-- [Challonge 对阵表](https://challonge.com/OWC_2020)
-- [Twitch 直播间](https://www.twitch.tv/osulive)
-- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/47)
-- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK1VndO4Dng6TJ2yM8dedF7Bkf0b-VvrK2T5US5Y-YkI-fpxZhNanWWJOdTB-2BrW9eu8o62sGm5_G/pubhtml)**
+- [Challonge 对阵表](https://challonge.com/OWC_2020 "Challonge")
+- [Twitch 直播间](https://www.twitch.tv/osulive "Twitch")
+- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/47 "hwchr's pick'em")
+- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK1VndO4Dng6TJ2yM8dedF7Bkf0b-VvrK2T5US5Y-YkI-fpxZhNanWWJOdTB-2BrW9eu8o62sGm5_G/pubhtml "Google Sheets")**
 
 ## 参赛选手
 
@@ -531,9 +531,9 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 2. 在三十二强赛和十六强赛中，每队队长可以选择 Ban **一张图**。
    - **从四分之一决赛开始，Ban 图数量为两张。但是每组 Mod 只能选择 Ban 一张（NoMod 除外）。**
 3. 谱面选择权将在两位队长之间交替。
-4. 两位队长必须在 #multiplayer 中使用 “!roll”。
-   - !roll 胜的队伍先 **Pick**。
-   - !roll 输的队伍先 **Ban**。
+4. 两位队长必须在 `#multiplayer` 中使用 `!roll`。
+   - `!roll` 胜的队伍先 **Pick**。
+   - `!roll` 输的队伍先 **Ban**。
    - **从四分之一决赛开始，先 Ban 的队伍先选择一张，随后另一只队伍选择两张，最后先 Ban 的队伍选择最后一张。**
 5. 队伍将有 2 分钟的时间选择谱面，以及 2 分钟的准备时间。
    - 如果队伍花费超过 2 分钟的时间来选择谱面，他们将收到裁判的警告，随后，裁判将使用 `!roll X` 从图池中随机选择一张谱面，其中 X 是被随机的可选谱面数量。

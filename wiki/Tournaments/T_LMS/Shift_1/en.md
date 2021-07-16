@@ -50,10 +50,10 @@ The Taiko LMS: Shift Cup was run by various osu!taiko community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/744163)
-- [LMS Discord server](https://discord.gg/wEkYka)
-- [Livestream](https://www.twitch.tv/osutaikolive)
-- [Challonge brackets and predictions](https://challonge.com/96vafjot)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhsgMXM2PvwMJbvPsY5jPPWVcIUg7birLFYMvvM2wAWkC_LSTh2QnhHs9Z4nnxR7BtzX5itW0RzjXS/pubhtml#)**
+- [LMS Discord server](https://discord.gg/wEkYka "Discord")
+- [Livestream](https://www.twitch.tv/osutaikolive "Twitch")
+- [Challonge brackets and predictions](https://challonge.com/96vafjot "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhsgMXM2PvwMJbvPsY5jPPWVcIUg7birLFYMvvM2wAWkC_LSTh2QnhHs9Z4nnxR7BtzX5itW0RzjXS/pubhtml# "Google Sheets")**
 
 ## Participants
 
@@ -114,7 +114,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (96 MB)](https://www.dropbox.com/s/1isvlrdonrvciwz/LMSS%20-%20Grand%20Finals.rar?dl=1)**
+**[Download the mappack here! (96 MB)](https://www.dropbox.com/s/1isvlrdonrvciwz/LMSS%20-%20Grand%20Finals.rar?dl=1 "Dropbox")**
 
 - NoMod
   - [PHQUASE - Plain Asia -PHQ remix- (TKS) \[Lunatic Asia\]](https://osu.ppy.sh/beatmapsets/737935#taiko/1557323)
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (119 MB)](https://www.dropbox.com/s/ixo2vqm023hn48d/LMSS%20-%20Finals.rar?dl=1)**
+**[Download the mappack here! (119 MB)](https://www.dropbox.com/s/ixo2vqm023hn48d/LMSS%20-%20Finals.rar?dl=1 "Dropbox")**
 
 - NoMod
   - [Shiron - Deadly Dolly Dance (Kqrth) \[Doll Play\]](https://osu.ppy.sh/beatmapsets/741753#taiko/1564797)
@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (78 MB)](https://www.dropbox.com/s/q0whrqgt0wz5p9g/LMSS%20-%20SF.rar?dl=1)**
+**[Download the mappack here! (78 MB)](https://www.dropbox.com/s/q0whrqgt0wz5p9g/LMSS%20-%20SF.rar?dl=1 "Dropbox")**
 
 - NoMod
   - [C-Show - U.N. Owen was her? (TO-HOLIC Mix) (climbb65588, Backfire) \[Climbb & Backfire's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/803406#taiko/1686221)
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/s81h5x5xm2gag6p/LMSS%20-%20QF.rar?dl=1)**
+**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/s81h5x5xm2gag6p/LMSS%20-%20QF.rar?dl=1 "Dropbox")**
 
 - NoMod
   - [BABYMETAL - Distortion (IceOC) \[Destruction\]](https://osu.ppy.sh/beatmapsets/779002#taiko/1636023)
@@ -238,7 +238,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (91 MB)](https://www.dropbox.com/s/82xuf7gzs4pobtt/LMSS%20-%20R16.rar?dl=1)**
+**[Download the mappack here! (91 MB)](https://www.dropbox.com/s/82xuf7gzs4pobtt/LMSS%20-%20R16.rar?dl=1 "Dropbox")**
 
 - NoMod
   - [TAROLIN - world.[NOT].excuse(nxc); (applerss) \[world.runExecution();\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528896)
@@ -269,7 +269,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (95 MB)](https://www.dropbox.com/s/ud8ofjzlqrjazax/LMSS%20-%20Group%20Stage.rar?dl=1)**
+**[Download the mappack here! (95 MB)](https://www.dropbox.com/s/ud8ofjzlqrjazax/LMSS%20-%20Group%20Stage.rar?dl=1 "Dropbox")**
 
 - NoMod
   - [kors k - Echo Of Forever (Starger) \[Oni\]](https://osu.ppy.sh/beatmapsets/754193#taiko/1587862)
@@ -516,7 +516,7 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018:
 2. Each team is allowed to select one warm-up map.
    - During Group Stage warm-ups must not exceed 4:00 minutes. In the following stages the warm-up can be up to 6 minutes long if both teams agree.
    - Offensive songs may be blocked by referees.
-3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in #multiplayer to determine which team selects and bans first. Roll winner may decide if they want to ban first and pick 2nd, or pick first and ban 2nd. Bans always happen before picks.
+3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects and bans first. Roll winner may decide if they want to ban first and pick 2nd, or pick first and ban 2nd. Bans always happen before picks.
    - Each team is allowed to ban one map out of the entire map pool with the exception of the tiebreaker, which cannot be banned. Each team has to use their ban.
 4. In case when one player lasts in both teams with no Revives remaining, the tiebreaker map must be played.
 5. Results will be published via the Statistics site.

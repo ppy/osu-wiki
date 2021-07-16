@@ -50,10 +50,10 @@ The Coffee Hispanic Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1000567)
-- [CHT Discord server](https://discord.gg/AFFXMu)
-- [Livestream](https://twitch.tv/ivaf)
-- [Challonge brackets](https://challonge.com/es/2n84slw8)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)**
+- [CHT Discord server](https://discord.gg/AFFXMu "Discord")
+- [Livestream](https://twitch.tv/ivaf "Twitch")
+- [Challonge brackets](https://challonge.com/es/2n84slw8 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682 "Google Sheets")**
 
 ## Participants
 
@@ -90,7 +90,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (128 MB)](https://www.mediafire.com/file/npyk3ttzwzx5fzh/finals_mappack.rar/file)**
+**[Download the mappack here! (128 MB)](https://www.mediafire.com/file/npyk3ttzwzx5fzh/finals_mappack.rar/file "MediaFire")**
 
 - NoMod
   - [Naoki Miki (CV: Takahashi Rie) & Ebisuzawa Kurumi (CV: Ozawa Ari) - Unhappy End World (Yasaija 714) \[kotachi's Happiness\]](https://osu.ppy.sh/beatmapsets/823259#osu/1725346)
@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   - [Yuyoyuppe - Emerald Galaxy (pishifat) \[Expert\]](https://osu.ppy.sh/beatmapsets/682286#osu/1442757)
   - [M2U - Velocity (Karen) \[Expert\]](https://osu.ppy.sh/beatmapsets/593985#osu/1256483)
-  - [kors kfeat. Rie - Rising in the Sun (original mix) (soulfear) \[Another\]](https://bloodcat.com/osu/s/26742)
+  - [kors k feat. Rie - Rising in the Sun (original mix) (soulfear) \[Another\]](https://bloodcat.com/osu/s/26742 "Bloodcat")
 - HardRock
   - [Kairiki bear - Manemane Psychotropic (scanter) \[Psycho\]](https://osu.ppy.sh/beatmapsets/113398#osu/541797)
   - [OISHII - ONIGIRI FREEWAY (Niva) \[Extra\]](https://osu.ppy.sh/beatmapsets/873667#osu/1826135)
@@ -121,7 +121,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (104 MB)](https://www.mediafire.com/file/yjzttfvins5eaph/SF_Mappool.rar/file)**
+**[Download the mappack here! (104 MB)](https://www.mediafire.com/file/yjzttfvins5eaph/SF_Mappool.rar/file "MediaFire")**
 
 - NoMod
   - [Nanahira - Shinchoku Doudesuka? (Misure) \[Shinchoku\]](https://osu.ppy.sh/beatmapsets/342263#osu/1110623)
@@ -150,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (96 MB)](https://www.mediafire.com/file/u4ca2pur4p2kkqa/QF_Mappool.rar/file)**
+**[Download the mappack here! (96 MB)](https://www.mediafire.com/file/u4ca2pur4p2kkqa/QF_Mappool.rar/file "MediaFire")**
 
 - NoMod
   - [Guilty Kiss - Strawberry Trapper (Asaiga) \[Collab in Dice\]](https://osu.ppy.sh/beatmapsets/496107#osu/1057469)
@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (83 MB)](https://www.mediafire.com/file/s2shtc345su8t5z/CHT_R016_Mappool.rar/file)**
+**[Download the mappack here! (83 MB)](https://www.mediafire.com/file/s2shtc345su8t5z/CHT_R016_Mappool.rar/file "MediaFire")**
 
 - NoMod
   - [Jin ft. LiSA - Headphone Actor (captin1) \[Survival\]](https://osu.ppy.sh/beatmapsets/217105#osu/509346)
@@ -202,7 +202,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (66 MB)](https://www.mediafire.com/file/wn4sqp2gdkdfpw7/CHT_Mappool.rar/file)**
+**[Download the mappack here! (66 MB)](https://www.mediafire.com/file/wn4sqp2gdkdfpw7/CHT_Mappool.rar/file "MediaFire")**
 
 - NoMod
   - [Yonezawa Madoka - Responsibility Response (ShiraKai) \[Phantom\]](https://osu.ppy.sh/beatmapsets/276997#osu/627765)
@@ -395,7 +395,7 @@ Monday, 27 January 2020:
 | #23 | ![][flag_PE] [Waynedude](https://osu.ppy.sh/users/9138491) | 211 |
 
 - Only the top 8 from each tiers could proceed to form a team of 2 and move on to knockout stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682 "Google Sheets")
 - Average was determined by `Σ position earned when playing the qualifiers mappool (in each tiers)`, the lower the score the better
 
 ## Ruleset
@@ -404,7 +404,7 @@ Monday, 27 January 2020:
 
 1. Coffee Hispanic Tournament is a **2 versus 2 osu!** tournament and will use **Score V2** as the scoring system.
 2. The tournament will use **single-elimination** bracket system, meanings single lose and you will be eliminated from the tournament.
-3. This is a tournament where only players from [Hispanic countries](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions) can enter. In case of having a non-hispanic flag but being Hispanic, players should justify with the manager regarding their nationality.
+3. This is a tournament where only players from [Hispanic countries](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions "Wikipedia") can enter. In case of having a non-hispanic flag but being Hispanic, players should justify with the manager regarding their nationality.
 4. There are 4 tiers splitted by osu! ranks, more details below:
    - Tier 1: Rank #1 - #1,100
    - Tier 2: Rank #1,101 - #4,000
@@ -419,7 +419,7 @@ Monday, 27 January 2020:
      - 3rd place in tier 3 will be paired with 6th place in tier 2
      - 4th place in tier 4 will be paired with 5th place in tier 1
 6. Players are allowed to be below #25,000 in rank when the registration phase are still open but when they close players must be within the rank range.
-7. Registration can be accessed through the [Google form](https://forms.gle/18TgJQ5hMgfnsAnS7) and by joining the Discord server. In case of not doing both, their registration won't be taken into account.
+7. Registration can be accessed through the [Google form](https://forms.gle/18TgJQ5hMgfnsAnS7 "Google Forms") and by joining the Discord server. In case of not doing both, their registration won't be taken into account.
 8. Once they get into the Discord server, they need to change their Discord nickname to their osu! username.
 9. All members within the organisation couldn't participate in the tournament, with the exceptions of mappool selector, designer, and commentator.
 10. In case of any suspicious registrations, manager has all the rights to reject the application.
@@ -446,7 +446,7 @@ Monday, 27 January 2020:
 
 ### Scheduling instructions
 
-1. All schedules are going to be on UTC+0 due to the fact that many countries have different timezones and its easier this way. Timezone conversion can be done through this [website](https://www.timeanddate.com/worldclock/converter.html).
+1. All schedules are going to be on UTC+0 due to the fact that many countries have different timezones and its easier this way. Timezone conversion can be done through this [website](https://www.timeanddate.com/worldclock/converter.html "timeanddate.com").
 2. The Qualifiers mappool will be played twice. All players are allowed to play a rerun in their own lobby or in other lobby of their preference.
 3. All matches are going to be livestreamed.
 4. Pool Star Rating will differ in the 6 mappools of the tournament. There will be 1 overall pool for everyone in the Qualifiers Stage.
