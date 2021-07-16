@@ -493,7 +493,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    1. Beide Vetos müssen benutzt werden.
    2. Beide Kapitäne müssen `!roll` benutzen, um zu ermitteln, wer mit dem Verbannen der beiden Beatmaps beginnen soll. Der andere Kapitän darf nicht dieselben Beatmaps verbannen und muss daher andere Beatmaps auswählen, um Überlappungen zu vermeiden.
-4. Die Beatmaps werden abwechselnd von den beiden Kapitänen ausgewählt. Zuvor muss jedoch wieder mit `!roll` im \#multiplayer ermittelt werden, welches Team zuerst anfängt.
+4. Die Beatmaps werden abwechselnd von den beiden Kapitänen ausgewählt. Zuvor muss jedoch wieder mit `!roll` im `#multiplayer` ermittelt werden, welches Team zuerst anfängt.
    1. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
    2. Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
 5. Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.

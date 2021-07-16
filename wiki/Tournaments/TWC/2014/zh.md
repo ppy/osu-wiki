@@ -113,7 +113,7 @@ outdated: true
    2. Room settings are osu!, Team-Vs., Win Condition: 'Score'. Room name must be "Taiko World Cup 2014: TeamBlue vs TeamRed"
    3. The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps.
-3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in \#multiplayer to determine which team selects first.
+3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
    1. The captains may select maps out of the NoMod and FreeMod bracket freely.
    2. Selection out of mod-specific brackets is limited. Each captain may only select one map from each mod-restricted bracket during the match.
       1. Selection out of FreeMod bracket is unlimited.

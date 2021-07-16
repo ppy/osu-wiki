@@ -504,7 +504,7 @@ Sunday, 30 June 2019:
 3. Each captain can ban one beatmap to be selected from the pool **at the start of the match**. These beatmaps are not allowed to be picked by any team in the entire match.
 4. **After a team reaches 3 points the opposition can ban another map as a comeback mechanic.**. This means that both teams can potentially ban up to **two maps** during the entirety of the match.
 5. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-6. Each captain must use `!roll` once in #multiplayer.
+6. Each captain must use `!roll` once in `#multiplayer`.
    - **The winner of the `!roll` decides if they want to pick and ban first, or pick and ban second.**
 7. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.

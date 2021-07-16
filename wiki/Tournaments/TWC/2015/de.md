@@ -124,7 +124,7 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    1. Beide Vetos müssen benutzt werden.
 4. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
-5. Beide Kapitäne müssen einmal `!roll` ins \#multiplayer-Channel eingeben.
+5. Beide Kapitäne müssen einmal `!roll` ins `#multiplayer`-Channel eingeben.
    1. Der Gewinner beim `!roll` wählt die zuerst spielende Map der Partie aus.
    2. Der Verlierer beim `!roll` beginnt mit dem Bannen von 2 Beatmaps.
 6. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.

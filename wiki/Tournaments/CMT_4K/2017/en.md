@@ -521,7 +521,7 @@ Saturday, 2017-06-17:
    - Room settings are osu!mania, Head To Head, Win Condition: 'Score v2'. Room name must be "CMT4K2017: (playerBlue) vs (playerRed)".
    - PlayerBlue and playerRed must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
-3. Each player must use `!roll` once in \#multiplayer:
+3. Each player must use `!roll` once in `#multiplayer`:
    - The losing roll picks the first banned map.
    - The winning roll picks the first map of the match.
    - Repeat `!roll` if two rolls are equal.

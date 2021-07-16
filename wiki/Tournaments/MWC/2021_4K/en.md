@@ -142,7 +142,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps can not be picked by any team in the entire match.
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-4. Each captain must use "!roll" once in #multiplayer.
+4. Each captain must use "!roll" once in `#multiplayer`.
    - The winner of the !roll starts picking the first beatmap of the match.
    - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
 5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.

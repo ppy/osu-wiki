@@ -226,7 +226,7 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    1. Beide Vetos müssen benutzt werden.
 4. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
-5. Beide Kapitäne müssen `!roll` einmal im \#multiplayer benutzen.
+5. Beide Kapitäne müssen `!roll` einmal im `#multiplayer` benutzen.
    1. Der Gewinner beim `!roll` wählt die zuerst spielende Map der Partie aus.
    2. Der Verlierer beim `!roll` beginnt mit dem Bannen von 2 Beatmaps.
 6. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.

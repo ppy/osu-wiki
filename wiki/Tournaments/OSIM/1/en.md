@@ -573,7 +573,7 @@ Sunday, 19 April 2020:
 
 ### Match regulations
 
-1. A representative from each team must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. A representative from each team must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which team bans first.
    - The loser of the `!roll` gets to decide which team picks first.
    - This rule does not apply in the Qualifier lobbies.

@@ -343,7 +343,7 @@ Saturday, 27 February 2011:
 2. Map banning **does not apply** in the entirety of the tournament.
 3. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use the `!roll` command once in #multiplayer.
+5. Each captain must use the `!roll` command once in `#multiplayer`.
    - The captain with the higher roll decides which team **picks** first.
 6. The results of eatch match will be posted on the discussion thread after the match has been concluded by the responsible referees.
 

@@ -484,7 +484,7 @@ Monday, 9 March 2020:
 
 ### Match regulations
 
-1. Each player must use `!roll` once in #multiplayer in order to determine the banning and picking order.
+1. Each player must use `!roll` once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide the second and third ban as well as the first pick of the match.
    - The loser of the `!roll` gets to decide the first and fourth pick of the match.
    - This rule does not apply in the Qualifier lobbies.

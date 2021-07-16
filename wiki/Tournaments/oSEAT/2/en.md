@@ -780,10 +780,10 @@ Tuesday, 18 December 2018:
 ### Tiebreaking
 
 1. The mappool is designed such that when both players reach match point (4-4 for a best of 9, 5-5 for a best of 11, ...), there will be 3 maps left.
-2. Both players have to *Private Message (PM)* the referee which map they would like to pick out of the 3 maps within 2 minutes. **#multiplayer chat is strongly discouraged during this time**.
+2. Both players have to *Private Message (PM)* the referee which map they would like to pick out of the 3 maps within 2 minutes. **`#multiplayer` chat is strongly discouraged during this time**.
    - If both players pick the same map, that map is played.
    - If both players pick different maps, the 3rd map is played.
-   - If one player does not pick a map within the time limit or says anything in #multiplayer that can be deemed as an attempt to mindgame, the other player is free to choose his choice of maps within the 3 maps.
+   - If one player does not pick a map within the time limit or says anything in `#multiplayer` that can be deemed as an attempt to mindgame, the other player is free to choose his choice of maps within the 3 maps.
    - If neither player picks a map within the time limit, the choice of map is randomised.
 3. If the Tiebreaker map ends in a draw, high roll gets to choose another Tiebreaker within the remaining 2 maps.
 

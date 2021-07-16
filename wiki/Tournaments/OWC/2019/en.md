@@ -501,7 +501,7 @@ Sunday, 17 November 2019:
 3. Each captain can ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16. These beatmaps are not allowed to be picked by any team in the entire match.
    - **From Quarterfinals onwards, the number of bans increases to two. However, each team may not ban more than one map of any mod bracket (excluding NoMod).**
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use `!roll` once in #multiplayer.
+5. Each captain must use `!roll` once in `#multiplayer`.
    - The captain with the higher roll decides which team **picks** first.
    - The captain with the lower roll decides which team **bans** first.
    - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**

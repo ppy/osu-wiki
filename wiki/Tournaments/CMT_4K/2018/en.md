@@ -332,7 +332,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent 
    - PlayerBlue and playerRed must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
 3. Each player choose one map from the pool as the *Banned Map*. These maps can not be played during this match.
-4. Each player must use `!roll` once in \#multiplayer:
+4. Each player must use `!roll` once in `#multiplayer`:
    - The losing roll picks the first banned map.
    - The winning roll picks the first map of the match.
    - Repeat `!roll` if two rolls are equal.

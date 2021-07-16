@@ -488,7 +488,7 @@ Sunday, 9 November 2014:
 6. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 7. Both vetos must always be used.
 8. Both captains must use `!roll` to determine, who starts banning two beatmaps. The other captain can not ban the same beatmaps and must pick another beatmap in case of an overlap.
-9. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool. Each captain must use `!roll` once in \#multiplayer to determine which team selects first.
+9. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
 10. Captains can pick freely from any bracket.
 11. In case of a tie, the tiebreaker map must be played.
 12. Results will be published on the wiki and via the Statistics website.

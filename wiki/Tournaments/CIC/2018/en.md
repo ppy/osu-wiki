@@ -421,7 +421,7 @@ Wednesday, 15 August 2018:
 
 ### Match regulations
 
-1. Each player must use `!roll` once in #multiplayer.
+1. Each player must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` starts picking the first beatmap of the match.
    - The loser of the `!roll` starts banning.
 2. Each player has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any player during the entire match.
