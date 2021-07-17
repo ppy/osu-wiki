@@ -50,7 +50,7 @@ All prizes were awarded to osu! and osu!mania winners separately.
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
 -->
 
-![SWEAT osu! profile badge](img/badge-osu.png) ![SWEAT osu!mania profile badge](img/badge-mania.png)
+![](img/badge-osu.png "SWEAT osu! winner badge") ![](img/badge-mania.png "SWEAT osu!mania winner badge")
 
 ## Organisation
 

@@ -32,7 +32,7 @@ The **Catch the Beat Indonesia Cup 2020** (***CIC 2020***) was a double-eliminat
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | IDR 400.000,- + 20% of the raised prize pool, 1 month of osu!supporter tag |
 | 4th place | 1 month of osu!supporter tag |
 
-![Profile badge](img/badge.png)
+![](img/badge.png "CIC 2020 winner badge")
 
 ## Organization
 
@@ -59,7 +59,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 ## Podium
 
-![Champion: Netamaru, 2nd place: dika312, 3rd place: Galaxi](img/podium.jpg)
+![](img/podium.jpg "CIC 2020 podium")
 
 ## Participants
 

@@ -27,7 +27,7 @@ The **Catch French Intermediate Cup** (***CFIC***) was an intermediate one-on-on
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
-![CFIC winner badge](img/badge.png)
+![](img/badge.png "CFIC winner badge")
 
 ## Organisation
 

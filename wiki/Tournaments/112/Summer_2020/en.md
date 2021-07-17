@@ -7,7 +7,7 @@ tags:
 
 # 112's Summer Tournament 2020
 
-![112ST2020 banner](img/banner.png "112's Summer Tournament 2020")
+![112ST2020 banner](img/banner.png)
 
 The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. It was the sixth installment of 112's Tournaments series.
 
@@ -32,7 +32,7 @@ The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-![112ST2020 winner badge](img/badge.png "112's Summer Tournament 2020 winner badge")
+![](img/badge.png "112ST2020 winner badge")
 
 ## Organisation
 
@@ -93,7 +93,7 @@ The 112's Summer Tournament 2020 was run by various community members.
 
 ## Podium
 
-![112ST2020 podium](img/podium.png "112's Summer Tournament podium")
+![](img/podium.png "112ST2020 podium")
 
 ## Mappools
 

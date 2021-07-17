@@ -6,7 +6,7 @@ tags:
 
 # Springtime Osu!mania Free-for-all Tournament 4
 
-![SOFT4 Logo](img/logo.png)
+![SOFT4 logo](img/logo.png)
 
 > SOFT 4 when?
 
@@ -40,7 +40,7 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 30 USD |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 20 USD |
 
-![SOFT4 Badge](img/badge.png "SOFT4 Winner Badge")
+![](img/badge.png "SOFT4 winner badge")
 
 ## Organisation
 

@@ -102,9 +102,9 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 | **G** | ![][flag_JP] Japan | ![][flag_CA] Canada | ![][flag_CH] Switzerland | ![][flag_NL] Netherlands |
 | **H** | ![][flag_CL] Chile | ![][flag_TH] Thailand | ![][flag_SG] Singapore | ![][flag_BE] Belgium |
 
-![MWC 4K 2017 podium](img/podium.jpg)
+![](img/podium.jpg "MWC 4K 2017 podium")
 
-![MWC 4K 2017 bracket](img/bracket.jpg)
+![](img/bracket.jpg "MWC 4K 2017 bracket")
 
 ## Mappools
 

@@ -79,7 +79,7 @@ The Taiko World Cup 2011 was run by various community members.
 | ![][flag_MY] Malaysia | ![][flag_GB] United Kingdom | ![][flag_US] United States | ![][flag_KR] South Korea B |
 | ![][flag_PH] Philippines |  |  |  |
 
-![TWC 2011 podium](img/podium.png)
+![](img/podium.png "TWC 2011 podium")
 
 ## Mappools
 

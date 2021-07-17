@@ -29,7 +29,7 @@ All prizes were awarded to osu! and osu!mania winners.
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge |
 
-![NFL profile badge](img/badge.jpg)
+![](img/badge.jpg "NFL winner badge")
 
 ## Organisation
 

@@ -37,7 +37,7 @@ Cash prizes were provided by ![][flag_US] [Cor](https://osu.ppy.sh/users/9745242
 
 ![](img/badge.jpg "IGTS 2020 winner badge")
 
-![](img/mousepad.jpg "IGTS 2020 mousepad design")
+![](img/mousepad.jpg "IGTS 2020 winner mousepad design")
 
 ## Organisation
 

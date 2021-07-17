@@ -37,7 +37,7 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian 
 
 *Note: 5th place was determined by a playoff.*
 
-![oSEAT3 winner badge](img/badge.png)
+![](img/badge.png "oSEAT3 winner badge")
 
 ## Organisation
 
@@ -843,8 +843,8 @@ Wednesday, 1 December 2019:
 3. All group stage matches will be best of 9 (first to 5 wins)
 4. Each group stage pool contains 5 NM, 2 HD, 2 HR, 2 DT, and 2 FM maps.
 5. **Each group will be run as a small bracket stage.**
-   - Below is how a 4 man group will be run. ![4 Man Group Stage Bracket](img/group-stage-4man-bracket.png)
-   - Below is how a 6 man group will be run. ![6 Man Group Stage Bracket](img/group-stage-6man-bracket.png)
+   - Below is how a 4 man group will be run. ![](img/group-stage-4man-bracket.png "4 man Group stage bracket")
+   - Below is how a 6 man group will be run. ![](img/group-stage-6man-bracket.png "6 man Group stage bracket")
 6. The top 2 players will qualify to the RO32 winner’s bracket. The 3rd place player (and for 6 man groups, 4th place player) will qualify to the RO32 loser’s bracket. All other players will be eliminated.
 
 #### Round of 32/Round of 16/Quarterfinals

@@ -87,7 +87,7 @@ The 112's Corona Tournament was run by various community members.
 
 ## Podium
 
-![112CT podium](img/podium.png)
+![](img/podium.png "112CT podium")
 
 ## Mappools
 

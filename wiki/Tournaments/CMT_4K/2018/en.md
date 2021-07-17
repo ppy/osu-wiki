@@ -6,7 +6,7 @@ tags:
 
 # Chinese osu!mania 4K Tournament 2018
 
-![CMT 4K 2018 Logo](img/logo.jpg)
+![CMT 4K 2018 logo](img/logo.jpg)
 
 The **Chinese osu!mania 4K Tournament 2018** (***CMT 4K 2018***) is the third one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
 
@@ -58,7 +58,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform "Google Forms")
 - **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ")**
 
-![CMT4K2018 podium](img/podium.png)
+![](img/podium.png "CMT4K2018 podium")
 
 ## Mappools
 

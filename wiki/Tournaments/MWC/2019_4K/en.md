@@ -104,7 +104,7 @@ The osu!mania 4K World Cup 2019 was run by various community members.
 | **G** | ![][flag_AU] Australia | ![][flag_JP] Japan | ![][flag_RU] Russian Federation | ![][flag_VE] Venezuela |
 | **H** | ![][flag_FR] France | ![][flag_SG] Singapore | ![][flag_MX] Mexico | ![][flag_NO] Norway |
 
-![MWC 4K 2019 podium](img/podium.jpg)
+![](img/podium.jpg "MWC 4K 2019 podium")
 
 ## Mappools
 

@@ -32,7 +32,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter tag |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
 
-![](img/badge.png "Pending profile badge")
+![](img/badge.png "NPC2 winner badge")
 
 Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610) helped to fund all the prizes.
 

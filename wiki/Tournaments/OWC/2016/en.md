@@ -101,9 +101,9 @@ The osu! World Cup 2016 was run by various community members.
 | **G** | ![][flag_KR] South Korea | ![][flag_RU] Russian Federation | ![][flag_NL] Netherlands | ![][flag_ID] Indonesia |
 | **H** | ![][flag_GB] United Kingdom | ![][flag_BR] Brazil | ![][flag_HK] Hong Kong | ![][flag_SE] Sweden |
 
-![OWC 2016 podium](img/podium.jpg)
+![](img/podium.jpg "OWC 2016 podium")
 
-![OWC 2016 bracket](img/bracket.jpg)
+![](img/bracket.jpg "OWC 2016 bracket")
 
 ## Mappools
 

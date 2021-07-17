@@ -10,7 +10,7 @@ tags:
 
 # The iDOL@NSTER: Irvine Spring Stage
 
-![iDOL@NSTER Logo](img/logo.png)
+![iDOL@NSTER logo](img/logo.png)
 
 **The iDOL@NSTER: Irvine Spring Stage** was an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI "Facebook"). It took place during *Zotcade 2019*, a gaming festival held at the University of California, Irvine (*UCI*). This was osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
 
@@ -24,7 +24,7 @@ The osu! Loser's Finals and Grand Finals matches were livestreamed to the [front
 
 ## Prizes
 
-![iDOL@NSTER Profile Badge](img/badge.png)
+![](img/badge.png "iDOL@NSTER winner badge")
 
 ### osu!
 

@@ -29,7 +29,7 @@ The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
-![otst! 2019 winner badge](img/badge.png)
+![](img/badge.png "otst! 2019 winner badge")
 
 ## Organisation
 

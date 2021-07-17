@@ -103,9 +103,9 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 | **G** | ![][flag_BR] Brazil | ![][flag_SG] Singapore | ![][flag_RU] Russian Federation | ![][flag_HK] Hong Kong |
 | **H** | ![][flag_CA] Canada | ![][flag_FR] France | ![][flag_ES] Spain | ![][flag_MO] Macau |
 
-![MWC 4K 2018 podium](img/podium.jpg)
+![](img/podium.jpg "MWC 4K 2018 podium")
 
-![MWC 4K 2018 bracket](img/bracket.jpg)
+![](img/bracket.jpg "MWC 4K 2018 bracket")
 
 ## Mappools
 

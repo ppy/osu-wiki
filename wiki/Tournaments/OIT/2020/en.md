@@ -32,7 +32,7 @@ The **osu! Indonesia Tournament #10 (2020)** (***OIT 2020***) was an Indonesian 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 4 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 2 months of osu!supporter |
 
-![Profile badge](img/badge.jpg)
+![](img/badge.jpg "OIT 2020 winner badge")
 
 ## Organization
 
@@ -60,7 +60,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ## Podium
 
-![Champion: Skydiver, 2nd place: Fuma, 3rd place: Rexeez](img/podium.jpg)
+![](img/podium.jpg "OIT 2020 podium")
 
 ## Mappools
 

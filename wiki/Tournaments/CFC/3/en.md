@@ -32,7 +32,7 @@ The **Catch French Cup 3** (***CFC 3***) was a one-on-one French osu!catch tourn
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
 | *4th place* | 2 months of osu!supporter tag |
 
-![CFC 3 winner badge](img/badge.jpg)
+![](img/badge.jpg "CFC 3 winner badge")
 
 ## Organisation
 

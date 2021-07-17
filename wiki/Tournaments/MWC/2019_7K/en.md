@@ -95,9 +95,9 @@ The osu!mania 7K World Cup 2019 was run by various community members.
 | **G** | ![][flag_CN] China | ![][flag_CL] Chile | ![][flag_DK] Denmark |
 | **H** | ![][flag_PL] Poland | ![][flag_SG] Singapore | ![][flag_IL] Israel |
 
-![MWC 7K 2019 podium](img/podium.jpg)
+![](img/podium.jpg "MWC 7K 2019 podium")
 
-![MWC 7K 2019 bracket](img/bracket.jpg)
+![](img/bracket.jpg "MWC 7K 2019 bracket")
 
 ## Mappools
 

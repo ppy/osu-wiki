@@ -88,7 +88,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | **shaky hand** | [Fallen\_HK](https://osu.ppy.sh/users/13981456), [Himman](https://osu.ppy.sh/users/12665894), [McFuddyDuddy](https://osu.ppy.sh/users/8825522), [Player01](https://osu.ppy.sh/users/10194478) |
 | **surprised\_pikachu** | [-Secured-](https://osu.ppy.sh/users/14648196), [Pokeinfernape](https://osu.ppy.sh/users/11412507), [7heGh0st](https://osu.ppy.sh/users/14256252), [Emfyr](https://osu.ppy.sh/users/13445383) |
 
-![Mirai2020 bracket](img/bracket.png)
+![](img/bracket.png "Mirai2020 bracket")
 
 ## Mappools
 

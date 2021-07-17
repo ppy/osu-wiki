@@ -30,7 +30,7 @@ The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | IDR 600.000, ~30% of the raised prize pool |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | IDR 450.000, ~20% of the raised prize pool |
 
-![ICC 2020 winner badge](img/badge.png)
+![](img/badge.png "ICC 2020 winner badge")
 
 ## Organization
 
@@ -56,7 +56,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ## Podium
 
-![Champion: dika312, 2nd place: Galaxi, 3rd place: Shurelia](img/podium.jpg)
+![](img/podium.jpg "ICC 2020 podium")
 
 ## Participants
 

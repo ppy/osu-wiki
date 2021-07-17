@@ -106,7 +106,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] **Germany** (**[DeathXHunter](https://osu.ppy.sh/users/405326)**, [NoteKuroi](https://osu.ppy.sh/users/186642), [Nyan-Zapo](https://osu.ppy.sh/users/480676)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SE] **Sweden** (**[Yukiteru Amano](https://osu.ppy.sh/users/1894511)**, [-Airi-](https://osu.ppy.sh/users/2546340), [Negri\_sk](https://osu.ppy.sh/users/2231396), [Suzuki](https://osu.ppy.sh/users/2960209), [Walterx8](https://osu.ppy.sh/users/1993041)) |
 
-![CWC 2014 bracket](img/bracket.jpg)
+![](img/bracket.jpg "CWC 2014 bracket")
 
 ## Mappools
 

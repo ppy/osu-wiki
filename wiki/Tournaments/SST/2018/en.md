@@ -110,7 +110,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 
 ![](img/Medals.jpg "SST 2018 podium")
 
-![](img/Brackets.jpg "SST 2018 brackets")
+![](img/Brackets.jpg "SST 2018 bracket")
 
 ## Mappools
 

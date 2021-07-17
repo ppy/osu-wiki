@@ -27,7 +27,7 @@ The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tourn
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
-![CFC 4 winner badge](img/badge.png)
+![](img/badge.png "CFC 4 winner badge")
 
 ## Organisation
 

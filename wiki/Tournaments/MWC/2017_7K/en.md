@@ -81,9 +81,9 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 | **C** | ![][flag_CN] China | ![][flag_ID] Indonesia | ![][flag_PL] Poland | ![][flag_AR] Argentina |
 | **D** | ![][flag_KR] South Korea | ![][flag_SG] Singapore | ![][flag_PH] Philippines | ![][flag_GB] United Kingdom |
 
-![MWC 7K 2017 podium](img/podium.jpg)
+![](img/podium.jpg "MWC 7K 2017 podium")
 
-![MWC 7K 2017 bracket](img/bracket.jpg)
+![](img/bracket.jpg "MWC 7K 2017 bracket")
 
 ## Mappools
 

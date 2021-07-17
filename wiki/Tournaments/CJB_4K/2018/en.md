@@ -7,7 +7,7 @@ tags:
 
 # The 4th CJB osu!mania 4K Tournament
 
-![CJB 4K 4th](img/banner.png)
+![CJB 4K 4th banner](img/banner.png)
 
 **The 4th CJB osu!mania 4K Tournament** (***CJB 4K 4th***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the CJB team. It is the 4th installment of the CJB osu!mania 4K Tournament.
 
@@ -52,7 +52,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 - [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp "Tencent QQ")
 - [Challonge](https://challonge.com/zh_CN/cjb4 "Challonge")
 
-![CJB 4K 4th Podium](img/podium.jpg)
+![](img/podium.jpg "CJB 4K 4th podium")
 
 ## Mappools
 

@@ -31,7 +31,7 @@ The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
 
-![otst! 2018 winner badge](img/badge.png)
+![](img/badge.png "otst! 2018 winner badge")
 
 ## Organisation
 

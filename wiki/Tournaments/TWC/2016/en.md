@@ -88,9 +88,9 @@ The osu!taiko World Cup 2016 was run by various community members.
 | ![][flag_GB] United Kingdom | ![][flag_AR] Argentina | ![][flag_CL] Chile | ![][flag_ID] Indonesia | ![][flag_PH] Philippines | ![][flag_ES] Spain | ![][flag_FR] France | ![][flag_PL] Poland |
 | ![][flag_TW] Taiwan | ![][flag_HK] Hong Kong | ![][flag_US] United States | ![][flag_DE] Germany | ![][flag_KR] South Korea | ![][flag_JP] Japan | ![][flag_CN] China | ![][flag_CA] Canada |
 
-![TWC 2016 podium](img/podium.jpg)
+![](img/podium.jpg "TWC 2016 podium")
 
-![TWC 2016 bracket](img/bracket.jpg)
+![](img/bracket.jpg "TWC 2016 bracket")
 
 ## Mappools
 

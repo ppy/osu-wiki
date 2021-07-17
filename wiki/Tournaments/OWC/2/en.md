@@ -70,7 +70,7 @@ This competition has come to an end and resulted in the following podium:
 
 ² *Denotes players that were being brought in as a substitute player prior to the beginning of the knock-out stages.*
 
-![OWC #2 bracket](img/bracket.jpg)
+![](img/bracket.jpg "OWC #2 bracket")
 
 ## Participants
 

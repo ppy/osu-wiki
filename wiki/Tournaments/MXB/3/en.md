@@ -6,7 +6,7 @@ tags:
 
 # Novice Mania Cup 3rd
 
-![MXB 3rd Logo](img/logo.jpg)
+![MXB 3rd logo](img/logo.jpg)
 
 The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the MXB team. It is the third installment of the MXB osu!mania 4K Tournament.
 

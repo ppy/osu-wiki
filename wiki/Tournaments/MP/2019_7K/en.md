@@ -7,7 +7,7 @@ tags:
 
 # Mistrzostwa Polski w 7K 2019
 
-![MP7K 2019 Logo](img/logo.png)
+![MP7K 2019 logo](img/logo.png)
 
 The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2019*) was a one-on-one, osu!mania 7-key tournament made for osu! players based in Poland or of Polish Heritage. It is the first installment of the tournament.
 

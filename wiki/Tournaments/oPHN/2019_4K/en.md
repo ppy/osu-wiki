@@ -6,7 +6,7 @@ tags:
 
 # osu! Philippines Nationals 2019 (osu!mania 4K)
 
-![PHN4K2019 Logo](img/logo.png)
+![PHN4K2019 logo](img/logo.png)
 
 > Be the **MAJESTIC** Maestro.
 

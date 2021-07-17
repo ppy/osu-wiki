@@ -112,9 +112,9 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [Kakuko](https://osu.ppy.sh/users/10413362) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
 
-![MCNC 2020 podium](img/podium.png)
+![](img/podium.png "MCNC 2020 podium")
 
-![MCNC 2020 bracket](img/bracket.png)
+![](img/bracket.png "MCNC 2020 bracket")
 
 ## Mappools
 

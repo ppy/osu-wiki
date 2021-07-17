@@ -32,7 +32,7 @@ The **osu! Indonesia Tournament #11 (2021)** (***OIT 2021***) was an Indonesian 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 4 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 2 months of osu!supporter |
 
-![Profile badge](img/badge.jpg)
+![](img/badge.jpg "OIT 2021 winner badge")
 
 ## Organization
 
@@ -101,7 +101,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ## Podium
 
-![Champion: rho, 2nd place: Skydiver, 3rd place: Crezz](img/podium.jpg)
+![](img/podium.jpg "OIT 2021 podium")
 
 ## Mappools
 

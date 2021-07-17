@@ -8,7 +8,7 @@ tags:
 
 # UK osu!standard tournament!
 
-![OUKT 1 Banner](img/logo.png)
+![OUKT 1 banner](img/logo.png)
 
 ## Introduction
 
