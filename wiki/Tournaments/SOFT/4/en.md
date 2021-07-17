@@ -36,9 +36,9 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50 USD, profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 30 USD |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 20 USD |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50 USD, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30 USD |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20 USD |
 
 ![](img/badge.png "SOFT4 winner badge")
 
@@ -100,9 +100,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [**wonder5193**](https://osu.ppy.sh/users/8474029) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [**Toaph Daddy**](https://osu.ppy.sh/users/7616811) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_TH] [**MyZterioN-**](https://osu.ppy.sh/users/8521723) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [**wonder5193**](https://osu.ppy.sh/users/8474029) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [**Toaph Daddy**](https://osu.ppy.sh/users/7616811) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_TH] [**MyZterioN-**](https://osu.ppy.sh/users/8521723) |
 
 ## Mappools
 

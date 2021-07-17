@@ -29,9 +29,9 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 150 PLN |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 90 PLN |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 60 PLN |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 150 PLN |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 90 PLN |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 60 PLN |
 
 ## Organisation
 
@@ -79,9 +79,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [**- gero -**](https://osu.ppy.sh/users/5068537) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [**- gero -**](https://osu.ppy.sh/users/5068537) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
 
 ## Mappools
 

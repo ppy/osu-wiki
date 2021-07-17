@@ -27,7 +27,7 @@ The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 month of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 month of osu!supporter |
 
 ![](img/badge.png "112ST2019 winner badge")
 

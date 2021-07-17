@@ -51,9 +51,9 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu! tournament, hosted b
 
 | Place | Prize |
 | --: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile Badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | TBD |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | TBD |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile Badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | TBD |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | TBD |
 
 ## Brackets
 
