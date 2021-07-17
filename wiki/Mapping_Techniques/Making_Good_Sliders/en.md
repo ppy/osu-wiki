@@ -10,8 +10,8 @@ From [Ephemeral](https://osu.ppy.sh/users/102335),
 
 > always align slider endpoints to the smallest possible value - that is, if you drag them any further backwards, the slider will shorten. the point will center itself in the slider end and will make attaining passable curves much easier to accomplish.
 
- Also, doing this makes reverse selection on sliders not fuck them up. 
- Which is a good thing.
+  Also, doing this makes reverse selection on sliders not fuck them up. 
+  Which is a good thing.
 
 ## Arcs
 
