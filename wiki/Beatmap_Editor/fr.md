@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 993a853c26c65bbe4117e35e8afbfb066132ebdf
----
-
 # Éditeur de Beatmap
 
 <!-- TODO: needs to be revisited when the articles under Beatmap editor no longer match what's written here -->
