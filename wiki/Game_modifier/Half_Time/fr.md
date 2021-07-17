@@ -41,7 +41,7 @@ Par conséquent, l'utilisation du mod Half Time entraînera une augmentation du 
 
 ### osu!catch
 
-Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), le BPM est abaissé du même facteur que dans les autres modes. Cependant, la vitesse de l'attrapeur est également réduite. Tous les [fruits](/wiki/Hit_object/Fruit), [drop](/wiki/Hit_object/Juice_stream#drop), [droplets](/wiki/Hit_object/Juice_stream#droplet) et [bananes](/wiki/Hit_object/Banana) restent intacts.
+Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), le BPM est réduite du même facteur que dans les autres modes. Cependant, la vitesse de l'attrapeur est également réduite. Tous les [fruits](/wiki/Hit_object/Fruit), [drop](/wiki/Hit_object/Juice_stream#drop), [droplets](/wiki/Hit_object/Juice_stream#droplet) et [bananes](/wiki/Hit_object/Banana) restent intacts.
 
 ## Le saviez-vous ?
 
