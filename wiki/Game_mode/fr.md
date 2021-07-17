@@ -4,7 +4,7 @@ osu! possède quatre **modes de jeu** : [osu!](#-osu!), [osu!taiko](#-osu!taiko)
 
 Chaque mode de jeu a sa propre icône/symbole : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] (osu!, osu!taiko, osu!catch, et osu!mania respectivement).
 
-Le mode de jeu par défaut est osu!. Cependant, au démarrage, osu! s'ouvrira avec le mode de jeu qui a été sélectionné en dernier. Pour passer d'un mode de jeu à l'autre, le joueur peut soit cliquer sur le bouton `Mode` en bas de l'écran de sélection des chansons, soit appuyer sur les touches `Ctrl`+`1`, `Ctrl`+`2`, `Ctrl`+`3`, ou `Ctrl`+`4` pour passer respectivement de osu! à osu!taiko, osu!catch, et osu!mania.
+Le mode de jeu par défaut est osu!. Cependant, au démarrage, osu! s'ouvrira avec le mode de jeu qui a été sélectionné en dernier. Pour passer d'un mode de jeu à l'autre, le joueur peut soit cliquer sur le bouton `Mode` en bas de l'écran de sélection des chansons, soit appuyer sur les touches `Ctrl` + `1`, `Ctrl` + `2`, `Ctrl` + `3`, ou `Ctrl` + `4` pour passer respectivement de osu! à osu!taiko, osu!catch, et osu!mania.
 
 ![Interface de sélection du mode](/wiki/shared/Interface_mode.png "Interface de sélection du mode")
 
