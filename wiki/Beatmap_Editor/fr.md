@@ -1,11 +1,4 @@
----
-outdated: true
-outdated_since: 993a853c26c65bbe4117e35e8afbfb066132ebdf
----
-
 # Éditeur de Beatmap
-
-<!-- TODO: needs to be revisited when the articles under Beatmap editor no longer match what's written here -->
 
 ![Une capture d'écran de l'onglet composition montrant la beatmap Donor Song de pishifat](img/compose.jpg)
 
@@ -15,12 +8,10 @@ L'**éditeur de beatmap** est l'interface graphique intégrée au client et est 
 
 L'éditeur de beatmap est séparé en 4 sections qui peuvent être vues dans le coin supérieur gauche de l'éditeur :
 
-- [Éditeur de Beatmap](#éditeur-de-beatmap)
-  - [Compose](#compose)
-  - [Design](#design)
-  - [Timing](#timing)
-  - [Song setup](#song-setup)
-  - [Autres](#autres)
+- [Compose](#compose)
+- [Design](#design)
+- [Timing](#timing)
+- [Song setup](#song-setup)
 
 ## Compose
 
@@ -36,7 +27,7 @@ L'onglet [Timing](/wiki/Beatmap_Editor/Timing) gère le timing des sections de l
 
 ## Song setup
 
-L'onglet [Song setup](/wiki/Beatmap_Editor/Song_Setup) permet de renseigner les [métadonnées](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata) et d'autres choses universelles d'une [beatmapset](/wiki/Beatmap/Beatmapsets). Cela inclus le titre de la musique, l'artiste, le nom de la difficulté, la couleur des combos, etc...
+L'onglet [Song setup](/wiki/Beatmap_Editor/Song_Setup) permet de renseigner les [métadonnées](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata) et d'autres choses universelles d'une [beatmap](/wiki/Beatmap). Cela inclus le titre de la musique, l'artiste, le nom de la difficulté, la couleur des combos, etc...
 
 ## Autres
 
