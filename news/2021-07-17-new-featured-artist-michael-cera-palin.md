@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Michael Cera Palin"
-date: 2021-07-17 08:00:00 +0000
+date: 2021-07-17 10:00:00 +0000
 ---
 
 Welcome **Michael Cera Palin** to the ever-growing Featured Artist lineup!
@@ -25,25 +25,25 @@ Beatmapper [Hobbes2](https://osu.ppy.sh/users/8157492) introduced **Michael Cera
 Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1275141) hosted by [Hobbes2](https://osu.ppy.sh/users/8157492)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/182/I%20Don%27t%20Know%20How%20To%20Explain%20It%2FMichael%20Cera%20Palin%20-%20Portrait%20of%20a%20Woman%20on%20a%20Couch%20with%20Cats.mp3" type="audio/mpeg">
 </audio>
 
 ### Laughing Makes It Worse
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/182/Growing Pains/Michael%20Cera%20Palin%20-%20Laughing%20Makes%20It%20Worse.mp3" type="audio/mpeg">
 </audio>
 
 ### Go Home. Play Music. Feel Better.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/182/I%20Don%27t%20Know%20How%20To%20Explain%20It%2FMichael%20Cera%20Palin%20-%20Go%20Home.%20Play%20Music.%20Feel%20Better..mp3" type="audio/mpeg">
 </audio>
 
 ### Bono!! Bono!!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/182/Bono%21%21%20Bono%21%21%2FMichael%20Cera%20Palin%20-%20Bono%21%21%20Bono%21%21.mp3" type="audio/mpeg">
 </audio>
 
 ---
