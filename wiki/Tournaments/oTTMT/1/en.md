@@ -17,7 +17,7 @@ The **osu! Tag Team Multiplayer Tournament** (***oTTMT***) was a 2v2 tag team ba
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, profile badge |
 
 ![](img/badge.png "oTTMT winner badge")
 

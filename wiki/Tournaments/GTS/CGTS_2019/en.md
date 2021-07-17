@@ -42,9 +42,9 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) was a worldwide
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge for each team member, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$12 or 4 months of osu!supporter tag for each player, exclusive team banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$8 or 2 months of osu!supporter tag for each player, exclusive team banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge for each team member, US$32 or 1 year and 2 months of osu!supporter for each player, exclusive team banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$12 or 4 months of osu!supporter for each player, exclusive team banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$8 or 2 months of osu!supporter for each player, exclusive team banner |
 
 ![](img/badge.png "CGTS 2019 winner badge")
 
@@ -52,9 +52,9 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) was a worldwide
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | US$16 or 6 months of osu!supporter, exclusive 1st place banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$12 or 4 months of osu!supporter, exclusive 2nd place banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$8 or 2 months of osu!supporter, exclusive 3rd place banner |
 
 ## Organisation
 

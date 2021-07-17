@@ -27,7 +27,7 @@ The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! 
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter |
 
 ## Organisation
 

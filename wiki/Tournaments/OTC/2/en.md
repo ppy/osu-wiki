@@ -29,7 +29,7 @@ The **osu! Technical Championship #2** (***OTC #2***) was a 3v3 double eliminati
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter, unique profile badge |
 
 ![](img/badge.png "OTC #2 winner badge")
 

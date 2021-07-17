@@ -25,7 +25,7 @@ The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch
 
 | Place | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 8 months of osu!supporter tag, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 8 months of osu!supporter, unique profile badge |
 
 ![](img/badge.png "CFC 2018 winner badge")
 

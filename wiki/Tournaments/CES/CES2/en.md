@@ -28,9 +28,9 @@ The **CES League osu! Tournament 2** (***CES2***) is an international 1v1 double
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (pending), profile banner, $130.00 (or 5 years of osu!supporter tag) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile banner, $60.00 (or 2 years of osu!supporter tag) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile Banner, $30.00 (or 1 year of osu!supporter tag) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (pending), profile banner, $130.00 (or 5 years of osu!supporter) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile banner, $60.00 (or 2 years of osu!supporter) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile Banner, $30.00 (or 1 year of osu!supporter) |
 
 ![](img/badge.png "CES2 winner badge")
 

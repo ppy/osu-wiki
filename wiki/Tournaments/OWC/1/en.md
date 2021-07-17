@@ -27,13 +27,13 @@ The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag for each team member, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter for each team member, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 
 ![](img/badge.jpg "OWC #1 winner badge")
 
-Aside from the main prizes listed above, the Tournament Management has also decided to separately award all members of the ![][flag_JP] Japanese team with 1 month of osu!supporter tag in the wake of the [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami "Wikipedia") incident.
+Aside from the main prizes listed above, the Tournament Management has also decided to separately award all members of the ![][flag_JP] Japanese team with 1 month of osu!supporter in the wake of the [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami "Wikipedia") incident.
 
 ## Organization
 

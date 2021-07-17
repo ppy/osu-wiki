@@ -27,8 +27,8 @@ The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminina
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag per team member, unique profile badge (pending) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag per team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter per team member, unique profile badge (pending) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter per team member |
 
 ## Organisation
 

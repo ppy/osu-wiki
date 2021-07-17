@@ -27,9 +27,9 @@ The **osu!mania 4K Chinese National Cup 2019** (***MCNC 2019***) was a country-b
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,000, Niz 104 Keyboard, profile badge, invite to the \[Crz\]Team, Rhythm-gaming professional Keycaps (x4), 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 600, Niz 87 Keyboard, Rhythm-gaming professional Keycaps (x4), 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, EnjoyPBT Keycaps, Rhythm-gaming professional Keycaps (x4), 1 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,000, Niz 104 Keyboard, profile badge, invite to the \[Crz\]Team, Rhythm-gaming professional Keycaps (x4), 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 600, Niz 87 Keyboard, Rhythm-gaming professional Keycaps (x4), 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, EnjoyPBT Keycaps, Rhythm-gaming professional Keycaps (x4), 1 months of osu!supporter |
 
 ## Organisation
 

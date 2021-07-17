@@ -30,8 +30,8 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-rest
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 2 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 2 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
 ![](img/badge_standard.png "oPHF2018 winner badge (osu!)") ![](img/badge_taiko.png "oPHF2018 winner badge (osu!taiko)") ![](img/badge_catch.png "oPHF2018 winner badge (osu!catch)") ![](img/badge_4K.png "oPHF2018 winner badge (osu!mania 4K)") ![](img/badge_7K.png "oPHF2018 winner badge (osu!mania 7K)")
 

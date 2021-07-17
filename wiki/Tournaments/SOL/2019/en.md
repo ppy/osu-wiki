@@ -29,9 +29,9 @@ The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head, one-on
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Razer Huntsman Elite, unique profile badge, 3 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Corsair K70 RapidFire MK.2, 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Razer Huntsman Tournament Edition (TKL), 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Razer Huntsman Elite, unique profile badge, 3 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Corsair K70 RapidFire MK.2, 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Razer Huntsman Tournament Edition (TKL), 1 month of osu!supporter |
 
  ![](img/badge.png "SOLMT winner badge")
 

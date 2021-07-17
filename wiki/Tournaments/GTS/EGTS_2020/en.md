@@ -29,9 +29,9 @@ The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) was an expert worldw
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$66 or 1 year of osu!supporter tag, GTS-themed mousepad |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 or 6 months of osu!supporter tag, GTS-themed mousepad |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$28 or 2 months of osu!supporter tag, GTS-themed mousepad |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$66 or 1 year of osu!supporter, GTS-themed mousepad |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 or 6 months of osu!supporter, GTS-themed mousepad |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$28 or 2 months of osu!supporter, GTS-themed mousepad |
 
 ![](img/badge.jpg "EGTS 2020 winner badge")
 

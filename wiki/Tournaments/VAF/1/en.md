@@ -29,11 +29,11 @@ The **Vaf's Autumn Fiesta** (**VAF**) was a 1v1 osu!taiko tournament hosted by !
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, physical trophy, 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Physical trophy, 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Physical trophy, 6 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, physical trophy, 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Physical trophy, 6 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Physical trophy, 6 months of osu!supporter |
 
-A prize pool of grand total 18 months of osu!supporter tag and physical trophies is made possible thanks to [Lotuspro](http://www.lotuspro.io/ "Lotuspro").
+A prize pool of grand total 18 months of osu!supporter and physical trophies is made possible thanks to [Lotuspro](http://www.lotuspro.io/ "Lotuspro").
 
 ![](img/badge.jpg "VAF winner badge")
 

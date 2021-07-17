@@ -28,9 +28,9 @@ The **Great Singapore Tournament 2** (***GST2***) was a Singaporean double-elimi
 | Placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, Acrylic trophy, 1st place physical medal, custom mousepad/tablet cover |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2nd place physical medal, 6 months of osu!supporter tag/cash equivalent |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3rd place physical medal, 2 months of osu!supporter tag/cash equivalent |
-| *Pick'em winner* | 4 months of osu!supporter tag/cash equivalent, unique role on hwchr's Pick'em website |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2nd place physical medal, 6 months of osu!supporter/cash equivalent |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3rd place physical medal, 2 months of osu!supporter/cash equivalent |
+| *Pick'em winner* | 4 months of osu!supporter/cash equivalent, unique role on hwchr's Pick'em website |
 
 ![](img/badge.png "GST2 winner badge")
 

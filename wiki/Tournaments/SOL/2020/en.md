@@ -32,7 +32,7 @@ tags:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, $125 for each team member |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $50 for each team member |
-| *4th place* | 6 months of osu!supporter tag for each team member |
+| *4th place* | 6 months of osu!supporter for each team member |
 
 ![](img/badge.jpg "SOL2 winner badge")
 

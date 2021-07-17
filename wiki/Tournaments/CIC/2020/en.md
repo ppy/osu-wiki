@@ -27,10 +27,10 @@ The **Catch the Beat Indonesia Cup 2020** (***CIC 2020***) was a double-eliminat
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | IDR 1.000.000,- + 50% of the raised prize pool, 3 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | IDR 600.000,- + 30% of the raised prize pool, 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | IDR 400.000,- + 20% of the raised prize pool, 1 month of osu!supporter tag |
-| 4th place | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | IDR 1.000.000,- + 50% of the raised prize pool, 3 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | IDR 600.000,- + 30% of the raised prize pool, 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | IDR 400.000,- + 20% of the raised prize pool, 1 month of osu!supporter |
+| 4th place | 1 month of osu!supporter |
 
 ![](img/badge.png "CIC 2020 winner badge")
 

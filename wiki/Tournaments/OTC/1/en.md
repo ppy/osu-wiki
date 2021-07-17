@@ -27,11 +27,11 @@ The **osu! Technical Championship** (***OTC***) was a 1v1 double elimination osu
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
-*Extra 1 month of osu!supporter tag was given to Grand Finals tiebreaker winner.*
+*Extra 1 month of osu!supporter was given to Grand Finals tiebreaker winner.*
 
 ## Organisation
 

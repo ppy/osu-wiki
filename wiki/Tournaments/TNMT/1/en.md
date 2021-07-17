@@ -30,9 +30,9 @@ All prizes were sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![](/wiki/shared/crown-gold.png) | 3 months of osu!supporter tag, unique profile badge |
-| ![](/wiki/shared/crown-silver.png) | 2 months of osu!supporter tag |
-| ![](/wiki/shared/crown-bronze.png) | 1 month of osu!supporter tag |
+| ![](/wiki/shared/crown-gold.png) | 3 months of osu!supporter, unique profile badge |
+| ![](/wiki/shared/crown-silver.png) | 2 months of osu!supporter |
+| ![](/wiki/shared/crown-bronze.png) | 1 month of osu!supporter |
 
 ## Organisation
 

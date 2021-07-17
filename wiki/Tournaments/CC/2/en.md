@@ -28,9 +28,9 @@ The **Corgi Cup: September 2016** (***CC2***) was a 1v1 single-elimination osu! 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Qwazar Red Shift (Cherry MX Red) Keyboard, 1 year of osu!supporter tag or a money equivalent, £20 Steam Gift Card, unique title on Doomsday’s Discord |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag or a money equivalent, £10 Steam Gift Card |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3 months of osu!supporter tag or a money equivalent, £5 Steam Gift Card |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Qwazar Red Shift (Cherry MX Red) Keyboard, 1 year of osu!supporter or a money equivalent, £20 Steam Gift Card, unique title on Doomsday’s Discord |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter or a money equivalent, £10 Steam Gift Card |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3 months of osu!supporter or a money equivalent, £5 Steam Gift Card |
 
 All prizes were provided by Qwazar.
 

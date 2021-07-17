@@ -29,7 +29,7 @@ The **Asian Taiko Showdown 2018** (***ATS 2018***) was a 1v1 double-elimination 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag, userpage banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter, userpage banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Userpage banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Userpage banner |
 

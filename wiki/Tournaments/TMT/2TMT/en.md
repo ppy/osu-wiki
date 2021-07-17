@@ -28,7 +28,7 @@ The **2v2 :thonking: Mania Tournament** (***2TMT***) was a 2v2 team-based osu!ma
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter |
 
 ## Organisation
 
