@@ -222,7 +222,7 @@ The Skinning Contest is a skinning contest open to skin creators from all across
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](wiki/Contests/Skinning_Contest/) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) by ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) by ![][flag_EE] [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) by ![][flag_RU] [NikStrim](https://osu.ppy.sh/users/10577559) | [Results](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
 
-## Community Contests
+## Unofficial/Community-Run Contests
 
 Unofficial contests are contests that are being hosted by members of the community. Contest organizers who are looking to add their contest to the list below are welcome to do so by opening a GitHub pull request in the [osu-wiki repository](https://github.com/ppy/osu-wiki) following the [osu! wiki contribution guide](/wiki/osu!_wiki_Contribution_Guide).
 
