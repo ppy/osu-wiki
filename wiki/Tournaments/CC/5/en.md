@@ -39,7 +39,7 @@ The **Corgi Cup V** (***CCV***) was a 1v1 double-elimination osu! tournament hos
 
 ## Organisation
 
-Corgi Cup V was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+Corgi Cup V was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |

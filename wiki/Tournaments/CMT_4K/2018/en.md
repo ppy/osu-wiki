@@ -36,7 +36,7 @@ All prizes are sponsored by **[Arkaaalin](https://osu.ppy.sh/users/7477382)**.
 
 ## Organisation
 
-The Chinese osu!mania 4K Tournament 2018 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 
 | Team | Member(s) |
 | --: | :-- |

@@ -33,7 +33,7 @@ The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tourna
 
 ## Organisation
 
-Corgi Cup: June 2016 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+Corgi Cup: June 2016 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |

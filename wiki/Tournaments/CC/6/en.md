@@ -40,7 +40,7 @@ The **Corgi Cup VI** (***CCVI***) was a 1v1 double-elimination osu! tournament h
 
 ## Organisation
 
-Corgi Cup VI was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+Corgi Cup VI was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |

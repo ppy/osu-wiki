@@ -38,7 +38,7 @@ The **Game_Osu Tourney 3** (***GO 3***) was a [Logitech](https://www.logitech.co
 
 ## Organisation
 
-The Game_Osu Tourney 3 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Game_Osu Tourney 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
