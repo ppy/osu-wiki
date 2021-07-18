@@ -113,9 +113,9 @@ This competition has ended and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | WeHatePP |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Alek & Friends |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | OSBT Squad |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | WeHatePP (![][flag_US] **[\[Dom\]](https://osu.ppy.sh/users/13287997)**, ![][flag_BR] [kvictor](https://osu.ppy.sh/users/15922752), ![][flag_US] [monopl1](https://osu.ppy.sh/users/15262671), ![][flag_US] [ssbmPepperJack](https://osu.ppy.sh/users/11475881)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Alek & Friends (![][flag_RS] **[AlekTheGinger](https://osu.ppy.sh/users/12480438)**, ![][flag_US] [SierraAlexis](https://osu.ppy.sh/users/3947242), ![][flag_TH] [TheBlackcatT](https://osu.ppy.sh/users/11103827)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | OSBT Squad (![][flag_FR] **[Numero\_Zer0e](https://osu.ppy.sh/users/13352562)**, ![][flag_FR] [Podsel](https://osu.ppy.sh/users/15312729), ![][flag_BE] [N1C3TR0](https://osu.ppy.sh/users/14489553), ![][flag_FR] [vegajuice](https://osu.ppy.sh/users/8027232)) |
 
 ## Mappools
 

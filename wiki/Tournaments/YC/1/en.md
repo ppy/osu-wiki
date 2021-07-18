@@ -112,9 +112,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Corim's Bad Dream |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | a la verga |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Rtzero x Rtzer0 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Corim's Bad Dream (![][flag_NO] **[YokesPai](https://osu.ppy.sh/users/6399568)**, ![][flag_RU] [KomachiBaka](https://osu.ppy.sh/users/6155320), ![][flag_IT] [Carretto](https://osu.ppy.sh/users/3801459), ![][flag_US] [M I L E S](https://osu.ppy.sh/users/6036351), ![][flag_BE] [5joshi](https://osu.ppy.sh/users/4279650), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088), ![][flag_US] [Vertarix](https://osu.ppy.sh/users/7315668)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | a la verga (![][flag_UY] **[daanit](https://osu.ppy.sh/users/6159669)**, ![][flag_FR] [VROUM CV VITE](https://osu.ppy.sh/users/7630971), ![][flag_NL] [taku](https://osu.ppy.sh/users/684433), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_BR] [Despairy](https://osu.ppy.sh/users/7339984), ![][flag_US] [conradmittn](https://osu.ppy.sh/users/8208289), ![][flag_US] [Zanik](https://osu.ppy.sh/users/5052673)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Rtzero x Rtzer0 (![][flag_SG] **[Rtzer0](https://osu.ppy.sh/users/5407620)**, ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_SG] [Raindrop](https://osu.ppy.sh/users/1155871), ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132), ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462), ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938)) |
 
 ## Mappools
 

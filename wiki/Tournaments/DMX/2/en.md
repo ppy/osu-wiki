@@ -78,7 +78,7 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |

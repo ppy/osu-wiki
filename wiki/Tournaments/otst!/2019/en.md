@@ -109,9 +109,9 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Floating up |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Rubber Conquest |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | #arsecrackers |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Floating up (![][flag_KR] **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_TW] [Rizer](https://osu.ppy.sh/users/5155973), ![][flag_IT] [Koba](https://osu.ppy.sh/users/4448118), ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078), ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890), ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Rubber Conquest (![][flag_US] **[Apraxia](https://osu.ppy.sh/users/4194445)**, ![][flag_KR] [nathan on osu](https://osu.ppy.sh/users/124493), ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_KR] [Neta](https://osu.ppy.sh/users/832084), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_CA] [RyuK](https://osu.ppy.sh/users/6304246), ![][flag_KR] [Aristia](https://osu.ppy.sh/users/3478883), ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | #arsecrackers (![][flag_AU] **[GranDSenpai](https://osu.ppy.sh/users/3997580)**, ![][flag_US] [he rack](https://osu.ppy.sh/users/2644828), ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683), ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552), ![][flag_JP] [Shirasaka Koume](https://osu.ppy.sh/users/3062998), ![][flag_DE] [Dustice](https://osu.ppy.sh/users/754565), ![][flag_JP] [----](https://osu.ppy.sh/users/4304495), ![][flag_JP] [Varvalian](https://osu.ppy.sh/users/3345902)) |
 
 ## Mappools
 

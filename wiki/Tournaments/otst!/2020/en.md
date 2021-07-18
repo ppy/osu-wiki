@@ -112,9 +112,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | seusbruk |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest (![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up (![][flag_KR] **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078), ![][flag_KR] [Aristia](https://osu.ppy.sh/users/3478883), ![][flag_KR] [Mya2](https://osu.ppy.sh/users/7302146), ![][flag_IT] [Koba](https://osu.ppy.sh/users/4448118), ![][flag_KR] [Karuna](https://osu.ppy.sh/users/8775024), ![][flag_KR] [Zeisen-](https://osu.ppy.sh/users/7892320), ![][flag_KR] [Ponytail](https://osu.ppy.sh/users/1516650)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | seusbruk (![][flag_US] **[Conyoh](https://osu.ppy.sh/users/4844496)**, ![][flag_SE] [\[ Blue \]](https://osu.ppy.sh/users/4859699), ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950), ![][flag_US] [Exarch](https://osu.ppy.sh/users/5370153), ![][flag_US] [thaibuy](https://osu.ppy.sh/users/4250296), ![][flag_BR] [Mistya](https://osu.ppy.sh/users/5403374), ![][flag_BR] [Mystia](https://osu.ppy.sh/users/4277702), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178)) |
 
 ## Mappools
 

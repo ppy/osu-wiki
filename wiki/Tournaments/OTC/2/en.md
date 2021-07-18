@@ -111,11 +111,11 @@ The osu! Technical Championship #2 was run by various osu! community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Latex Intolerance |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest (![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_KR] [Cookiezi](https://osu.ppy.sh/users/124493), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up (![][flag_KR] **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763), ![][flag_TW] [\_Shield](https://osu.ppy.sh/users/1860489), ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397), ![][flag_KR] [Pring](https://osu.ppy.sh/users/3478883), ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Latex Intolerance (![][flag_CA] **[peng](https://osu.ppy.sh/users/6043452)**, ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Donkey Kong](https://osu.ppy.sh/users/4787150), ![][flag_US] [Woey](https://osu.ppy.sh/users/3792472), ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581), ![][flag_GB] [Jameslike](https://osu.ppy.sh/users/2415743)) |
 
 ## Mappools
 

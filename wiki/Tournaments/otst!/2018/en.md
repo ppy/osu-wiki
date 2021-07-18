@@ -151,9 +151,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | black dogleg |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest (![][flag_US] **[Apraxia](https://osu.ppy.sh/users/4194445)**, ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_KR] [Cookiezi](https://osu.ppy.sh/users/124493), ![][flag_BR] [MouseEasy](https://osu.ppy.sh/users/124493), ![][flag_CA] [\_RyuK](https://osu.ppy.sh/users/6304246)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up (![][flag_KR] **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_KR] [Pring](https://osu.ppy.sh/users/3478883), ![][flag_KR] [Pray](https://osu.ppy.sh/users/2190336), ![][flag_KR] [Neta](https://osu.ppy.sh/users/832084), ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865), ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397), ![][flag_CN] [EmertxE](https://osu.ppy.sh/users/954557), ![][flag_TW] [Shiina Noriko](https://osu.ppy.sh/users/1285637)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | black dogleg (![][flag_US] **[fruit punch](https://osu.ppy.sh/users/6303313)**, ![][flag_US] [Ritzeh](https://osu.ppy.sh/users/1028387), ![][flag_US] [Aknama](https://osu.ppy.sh/users/4322869), ![][flag_US] [Tem](https://osu.ppy.sh/users/5393042), ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373), ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150), ![][flag_US][Wombraider](https://osu.ppy.sh/users/7342622), ![][flag_US] [Ceptin](https://osu.ppy.sh/users/3221564)) |
 
 ## Mappools
 

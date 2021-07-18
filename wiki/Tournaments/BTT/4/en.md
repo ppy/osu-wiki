@@ -71,7 +71,7 @@ The Beginners' Taiko Tournament 4 was run by various osu!taiko community members
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |

@@ -74,9 +74,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Land of Foda-se 2: Electric Boogaloo |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | cu |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Iceland |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Land of Foda-se 2: Electric Boogaloo (![][flag_BR] **[HiroK](https://osu.ppy.sh/users/4050738)**, ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070) |
+| **Laundry Ca𝔹oclo Warriors** | ![][flag_BR] **[Brasil](https://osu.ppy.sh/users/3949268)**, ![][flag_BR] [Berg](https://osu.ppy.sh/users/8097465), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | cu (![][flag_CL] **[Ulqui](https://osu.ppy.sh/users/1263669)**, ![][flag_CL] [-F1-](https://osu.ppy.sh/users/5810867), ![][flag_BR] [Kbludoh](https://osu.ppy.sh/users/2543764)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Iceland (![][flag_CA] **[janitoreihil](https://osu.ppy.sh/users/3307897)**, ![][flag_BR] [Kqrth](https://osu.ppy.sh/users/4115718), ![][flag_US] [closed](https://osu.ppy.sh/users/5116922)) |
 
 ## Mappools
 

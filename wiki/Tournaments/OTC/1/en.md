@@ -88,7 +88,7 @@ The osu! Technical Championship was run by various osu! community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) |

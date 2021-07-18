@@ -119,9 +119,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Tom and Jerry |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Broken Family |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Ranked Score |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Tom and Jerry (![][flag_SG] **[Demonical](https://osu.ppy.sh/users/5447609)**, ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Broken Family (![][flag_SG] **[Soba Noodles](https://osu.ppy.sh/users/3010281)**, ![][flag_SG] [Raindrop](https://osu.ppy.sh/users/1155871)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Ranked Score (![][flag_SG] **[moosepi](https://osu.ppy.sh/users/1868745)**, ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106)) |
 
 ## Mappools
 

@@ -70,7 +70,7 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |
