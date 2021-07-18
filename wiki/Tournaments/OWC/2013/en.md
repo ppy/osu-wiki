@@ -47,8 +47,8 @@ The osu! World Cup 2013 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181)
-- [Livestream](https://www.twitch.tv/osulive/profile/pastBroadcasts)
-- **[Statistics sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)**
+- [Livestream](https://www.twitch.tv/osulive/profile/pastBroadcasts "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17 "Google Sheets")**
 
 ## Participants
 
@@ -116,7 +116,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (194 MB)](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
+**[Download the mappack here! (194 MB)](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar "MediaFire")**
 
 - NoMod
   - [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
@@ -150,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (209 MB)](https://www.mediafire.com/?pn3yxce7m6v4j13)**
+**[Download the mappack here! (209 MB)](https://www.mediafire.com/?pn3yxce7m6v4j13 "MediaFire")**
 
 - NoMod
   - [CON - Cruel Clocks (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76882#osu/216272)
@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (184 MB)](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
+**[Download the mappack here! (184 MB)](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar "MediaFire")**
 
 - NoMod
   - [xi - Time files (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/49843#osu/153484)
@@ -218,7 +218,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (143 MB)](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
+**[Download the mappack here! (143 MB)](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar "MediaFire")**
 
 - NoMod
   - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/43248#osu/135804)
@@ -252,7 +252,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (215 MB)](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
+**[Download the mappack here! (215 MB)](https://www.mediafire.com/?jn0c8p6wqfrtfhb "MediaFire")**
 
 - NoMod
   - [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w) \[YuruYuri\]](https://osu.ppy.sh/beatmapsets/45316#osu/153418)
@@ -432,7 +432,7 @@ Sunday, 10 November 2013:
    - The maximum team size is 8.
    - You must specify a captain who will represent the team.
 2. Each team represents a nation. You must form a team with players from the same country.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform "Google Forms"). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
 4. Any registration and change will be checked by the Tournament Management before being accepted and added to the list of participants.
 5. The total amount of teams is 32. First come, first serve.
@@ -463,7 +463,7 @@ Sunday, 10 November 2013:
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Referee will join the room externally. Referee will spectate the match via multi-spectator client.
 3. Players are free to select a warm-up map.
-4. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+4. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
    - The captains may select maps out of the NoMod bracket freely.
    - Selection out of mod-specific brackets is limited. Each captain may only select one map from each mod-restricted bracket during the match.
      - In Knock-Out Stage, selecting out of FreeMod bracket is unlimited.

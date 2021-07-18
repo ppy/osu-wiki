@@ -1,7 +1,7 @@
 ---
 tags:
-- oPHST 2018
-- oPHST2018
+  - oPHST 2018
+  - oPHST2018
 ---
 
 # osu!Philippines Summer Tournament 2018
@@ -1146,7 +1146,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Bans and picks
 
-- After the warm-up phase, the players will proceed to use the !roll command on the multiplayer chat. The player with the lower !roll score will ban a notechart from the pool first, and the player with the higher !roll score will place his own ban next, and immediately, his/her first pick. This means that there will be only **one (1) ban from each player**.
+- After the warm-up phase, the players will proceed to use the `!roll` command on the multiplayer chat. The player with the lower `!roll` score will ban a notechart from the pool first, and the player with the higher `!roll` score will place his own ban next, and immediately, his/her first pick. This means that there will be only **one (1) ban from each player**.
 
 #### Match format
 

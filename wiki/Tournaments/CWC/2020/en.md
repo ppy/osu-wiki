@@ -48,9 +48,9 @@ The osu!catch World Cup 2020 was run by the [osu! team](/wiki/People/The_Team) a
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1046500)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Challonge bracket](https://challonge.com/osuCWC2020)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTbzcj8-X0SYDaJC8YLFYYYH7NSU2easZdKR4sZAkDTXn47rbCXJwnZhkmQ04Wa2bVLEYZShZ9EuuG/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Challonge bracket](https://challonge.com/osuCWC2020 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTbzcj8-X0SYDaJC8YLFYYYH7NSU2easZdKR4sZAkDTXn47rbCXJwnZhkmQ04Wa2bVLEYZShZ9EuuG/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -464,7 +464,7 @@ Sunday, 10 May 2020:
 
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 
-6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
+6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png "puush"), the stages are split up into the following:
 
    | Stage | Match ID |
    | --: | :-- |
@@ -488,9 +488,9 @@ Sunday, 10 May 2020:
 2. Each team is free to select up to one warm-up map. Using beatmaps with questionable content is prohibited. All maps must be osu!catch specific maps.
 3. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.

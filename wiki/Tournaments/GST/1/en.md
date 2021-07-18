@@ -49,11 +49,11 @@ The Great Singapore Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/915163)
-- [GST Discord server](https://discord.gg/kCfW4Jw)
-- [Livestream](https://twitch.tv/osusg)
+- [GST Discord server](https://discord.gg/kCfW4Jw "Discord")
+- [Livestream](https://twitch.tv/osusg "Twitch")
 - Statistics sheet
-  - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1nlp7NOyQWiI8FKTuRfLTQ6oIo1ah0CZvQyPY5bAzgTs/edit?usp=sharing)**
-  - [Mappools spreadsheet](https://docs.google.com/spreadsheets/d/1kCsL4FusayuQMfW80UE3Jubh6VJ5cukdAUuATh6jWK0/edit?usp=sharing)
+  - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1nlp7NOyQWiI8FKTuRfLTQ6oIo1ah0CZvQyPY5bAzgTs/edit?usp=sharing "Google Sheets")**
+  - [Mappools spreadsheet](https://docs.google.com/spreadsheets/d/1kCsL4FusayuQMfW80UE3Jubh6VJ5cukdAUuATh6jWK0/edit?usp=sharing "Google Sheets")
 
 ## Participants
 
@@ -127,7 +127,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (171 MB)](https://drive.google.com/file/d/1jVTXwdYrluQAeFP_H5D_tXWbnpL5KIxV/view)**
+**[Download the mappack here! (171 MB)](https://drive.google.com/file/d/1jVTXwdYrluQAeFP_H5D_tXWbnpL5KIxV/view "Google Drive")**
 
 - NoMod
   - [May'n - Belief (Depths) \[Kibblemat's Extreme\]](https://osu.ppy.sh/beatmapsets/501286#osu/1240583)
@@ -293,7 +293,7 @@ Sunday, 4 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Broken Family | 0 | **7** | **Tom and Jerry** | [#1](https://osu.ppy.sh/mp/53831236) |
+| Broken Family | 0 | **7** | **Tom and Jerry** | [#1](https://osu.ppy.sh/community/matches/53831236) |
 | **Tom and Jerry** | **0** | -1 | Broken Family | *win by default* |
 
 ### Finals

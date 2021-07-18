@@ -279,7 +279,7 @@ Monday, 5 July 2021:
 
 ### Match regulations
 
-1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group stage lobbies.
 2. Each player may ban up to two beatmaps from the mappool following a modified "comeback mechanic" system that is adapted from the [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019). The system works as follows:

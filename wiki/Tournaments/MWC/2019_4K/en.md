@@ -50,9 +50,9 @@ The osu!mania 4K World Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/950440)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Challonge bracket](https://challonge.com/MWC4K2019)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLJYJ_IZMmXieVdGEdqBciVEwx8kqOeu6pzuTgtiMrNrwUmoZVQP1OKQf3BchgQyS0dh9i90TgbtRz/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Challonge bracket](https://challonge.com/MWC4K2019 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLJYJ_IZMmXieVdGEdqBciVEwx8kqOeu6pzuTgtiMrNrwUmoZVQP1OKQf3BchgQyS0dh9i90TgbtRz/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -470,8 +470,8 @@ Sunday, 22 September 2019:
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 4K specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - **The winner of the !roll decides if they want to pick first and ban second, or pick second and ban first.**
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - **The winner of the `!roll` decides if they want to pick first and ban second, or pick second and ban first.**
 6. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool instructions

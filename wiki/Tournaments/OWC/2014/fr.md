@@ -50,7 +50,7 @@ Pour chaque participant :
 
 ## Retransmission des matchs
 
-La plupart des matchs sont diffusés et disponibles pour une lecture différée sur Twitch [à cette adresse](https://www.twitch.tv/osulive/).
+La plupart des matchs sont diffusés et disponibles pour une lecture différée sur Twitch [à cette adresse](https://www.twitch.tv/osulive "Twitch").
 
 ## Équipes
 
@@ -118,7 +118,7 @@ Le graphique suivant met en évidence les équipes qui se sont qualifiées pour 
 
 ![OWC 2014 brackets](img/bracket.jpg)
 
-Pour un aperçu des résultats des matchs des poules, consultez [ce site](https://owc.nicarim.pw/results/view/3).
+Pour un aperçu des résultats des matchs des poules, consultez [ce site](https://owc.nicarim.pw/results/view/3 "Nicarim").
 
 ### Poules
 
@@ -257,7 +257,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Poules
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
@@ -287,7 +287,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Huitièmes de finale
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar "MediaFire")**
 
 - NoMod
   - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
@@ -317,7 +317,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Quarts de finale
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar "MediaFire")**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
@@ -347,7 +347,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Demi-finales
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar "MediaFire")**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
@@ -377,7 +377,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Finales
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar "MediaFire")**
 
 - NoMod
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmapsets/59049#osu/214248)
@@ -443,7 +443,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
    2. Le responsable d'une équipe, le *capitaine*, doit être spécifié.
       - Il n'existe aucune distinction joueurs « permanents » / joueurs « remplaçants ».
 2. Chaque équipe doit représenter un pays. Tous les joueurs constituant l'équipe doivent provenir de ce pays, comme doivent l'attester leurs drapeaux dans leur pages de profil.
-3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
+3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms"). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
    - Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/home/messages/users/71366).
    - Les capitaines recevront un message de confirmation si leur inscription a bien été reçue. Les équipes sont alors placées dans une liste d'attente.
 4. Pour assurer la présence d'équipes sérieuses au sein de la compétition, tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés. Ainsi, la direction se réserve le droit de refuser des inscriptions si :
@@ -473,7 +473,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 1. Les phases organisées après les poules sont à double élimination. À la fin de chaque phase, les vainqueurs poursuivent le tournoi principal ; les perdants rejoignent le tournoi secondaire et s'affrontent pour rester dans la course, une deuxième défaite étant synonyme d'élimination définitive.
 
-2. Les matchs sont répartis selon [ce graphique](https://puu.sh/bUq5V/f1066103b0.png) et sont identifiés selon la nomenclature suivante :
+2. Les matchs sont répartis selon [ce graphique](https://puu.sh/bUq5V/f1066103b0.png "puush") et sont identifiés selon la nomenclature suivante :
 
    | Phase | ID du match |
    | :-- | :-- |
@@ -496,8 +496,8 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 2. Les joueurs ont la possibilité de s'échauffer sur un maximum de 2 beatmaps de leur choix avant le début de la partie. Les beatmaps à contenu douteux sont strictement interdites.
 3. Les capitaines disposent chacun de deux droits de veto à utiliser sur les beatmaps de leur choix de la phase en cours. Ces beatmaps ne peuvent ainsi être choisies par les deux équipes au cours du match.
    1. Les droits de veto doivent être tous utilisés.
-   2. Les capitaines exécuteront la commande « !roll » dans le chat pour déterminer qui des deux utilisera ses droits de veto en premier. L'autre capitaine ne peut bannir une beatmap déjà bannie et devra choisir parmi les beatmaps restantes.
-4. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande « !roll » dans le chat ; le plus grand nombre l'emporte.
+   2. Les capitaines exécuteront la commande `!roll` dans le chat pour déterminer qui des deux utilisera ses droits de veto en premier. L'autre capitaine ne peut bannir une beatmap déjà bannie et devra choisir parmi les beatmaps restantes.
+4. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande `!roll` dans le chat ; le plus grand nombre l'emporte.
    1. Les capitaines peuvent choisir autant de beatmaps de toutes les catégories qu'ils le souhaitent.
    2. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker devra être joué.
 5. Les résultats seront publiés sur le wiki et sur le site officiel Statistics (cf. rubrique « Liens importants »).
@@ -526,36 +526,36 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 - [Liste des pays ayant participé à des compétitions de osu!](Countries_that_participated_in_osu!_tournaments)
 - [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/247090)
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
+[flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
+[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lituanie"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

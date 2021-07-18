@@ -48,9 +48,9 @@ The osu!taiko World Cup 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1018778)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/26) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://bit.ly/2x46Mix)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/26 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSt4R-nLTdclTnxi9jnNr-gNvdWXH8XkIrNfzy6r0wGkgpVgIrcMoMU_6qEtutDHxOneF7RzVNcBkvQ/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -489,9 +489,9 @@ Sunday, 8 March 2020:
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
 3. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.

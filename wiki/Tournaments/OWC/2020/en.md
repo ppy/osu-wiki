@@ -52,10 +52,10 @@ The osu! World Cup 2020 was run by the osu!team and various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Challonge bracket](https://challonge.com/OWC_2020)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/47) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK1VndO4Dng6TJ2yM8dedF7Bkf0b-VvrK2T5US5Y-YkI-fpxZhNanWWJOdTB-2BrW9eu8o62sGm5_G/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Challonge bracket](https://challonge.com/OWC_2020 "Challonge")
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/47 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK1VndO4Dng6TJ2yM8dedF7Bkf0b-VvrK2T5US5Y-YkI-fpxZhNanWWJOdTB-2BrW9eu8o62sGm5_G/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -526,7 +526,7 @@ The stats of the Qualifiers can be found in [this spreadsheet](https://docs.goog
 2. Each captain can ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16. These beatmaps are not allowed to be picked by any team in the entire match.
    - **From Quarterfinals onwards, the number of bans increases to two. However, each team may not ban more than one map of any mod bracket (excluding NoMod).**
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-4. Each captain must use "!roll" once in #multiplayer.
+4. Each captain must use `!roll` once in `#multiplayer`.
    - The captain with the higher roll decides which team **picks** first.
    - The captain with the lower roll decides which team **bans** first.
    - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**

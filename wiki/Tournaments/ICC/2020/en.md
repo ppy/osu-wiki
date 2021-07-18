@@ -49,10 +49,10 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ## Links
 
-- **[Main spreadsheet](http://docs.google.com/spreadsheets/d/e/2PACX-1vTjldrvfwKxuc3x8QyhVAcccvGm6z2FDR-BZuxyX68GkQkdXoWwkcUlD0gaNA__aKJRlX3WSMfW5Pkj/pubhtml#)**
+- **[Main spreadsheet](http://docs.google.com/spreadsheets/d/e/2PACX-1vTjldrvfwKxuc3x8QyhVAcccvGm6z2FDR-BZuxyX68GkQkdXoWwkcUlD0gaNA__aKJRlX3WSMfW5Pkj/pubhtml# "Google Sheets")**
 - [Discussion thread](http://osu.ppy.sh/community/forums/topics/1141903)
-- [Discord server](http://discord.gg/7g6TAj2)
-- [Livestream](https://www.twitch.tv/osuIndonesia)
+- [Discord server](http://discord.gg/7g6TAj2 "Discord")
+- [Livestream](https://www.twitch.tv/osuIndonesia "Twitch")
 
 ## Podium
 
@@ -75,7 +75,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Finals
 
-**[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1w426oYWbotWp80oQZriFgPsdUZ-DFwR4/view)**
+**[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1w426oYWbotWp80oQZriFgPsdUZ-DFwR4/view "Google Drive")**
 
 - NoMod
   - [Omoi - Snow Drive(01.23) (Kroytz) \[Arigatou\]](https://osu.ppy.sh/beatmapsets/478405#fruits/1083052)
@@ -103,7 +103,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Semifinals
 
-**[Download the mappack here! (125 MB)](https://drive.google.com/file/d/1wo0pn8_Bmv342QbOjDTopaPOIqxD7VNK/view)**
+**[Download the mappack here! (125 MB)](https://drive.google.com/file/d/1wo0pn8_Bmv342QbOjDTopaPOIqxD7VNK/view "Google Drive")**
 
 - NoMod
   - [Ayumi. - Hanagoyomi (Mimari) \[Spirit.\]](https://osu.ppy.sh/beatmapsets/1155366#fruits/2411125)  
@@ -131,7 +131,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Quarterfinals
 
-**[Download the mappack here! (136 MB)](https://drive.google.com/file/d/1Aj6QhmqhMUgBcrOcM90fztnf9BAibgVw/view)**
+**[Download the mappack here! (136 MB)](https://drive.google.com/file/d/1Aj6QhmqhMUgBcrOcM90fztnf9BAibgVw/view "Google Drive")**
 
 - NoMod
   - [CELLON. - Labyrinth of Darkness (Mir) \[Expert\]](https://osu.ppy.sh/beatmapsets/778383#fruits/1634887)  
@@ -155,7 +155,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Round of 16
 
-**[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1jrKZkbuDOEAkgkAZ8NpGCYRV3psqlb-W/view)**
+**[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1jrKZkbuDOEAkgkAZ8NpGCYRV3psqlb-W/view "Google Drive")**
 
 - NoMod
   - [Pendulum - Witchcraft (Zarerion) \[Jenny\]](https://osu.ppy.sh/beatmapsets/55982#fruits/169993)  
@@ -179,7 +179,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Group Stage
 
-**[Download the mappack here! (117 MB)](https://drive.google.com/file/d/1E8h7BBl3Bz-woN4Bw4rjUomWapceTeWU/view)**
+**[Download the mappack here! (117 MB)](https://drive.google.com/file/d/1E8h7BBl3Bz-woN4Bw4rjUomWapceTeWU/view "Google Drive")**
 
 - NoMod
   - [Ichinose Shiki (CV: Aihara Kotomi) - Himitsu no Toilette (domSaur) \[MASTER+\]](https://osu.ppy.sh/beatmapsets/734093#fruits/1549043)  
@@ -365,7 +365,7 @@ Sunday, 11 August 2020:
    - **+2 points** (1st place) / **+1 point** (2nd place) / **+1 point** (3rd place) / **0 points** (4th place) in groups with 4 players.
    - **+1 point** (1st place) / **+1 point** (2nd place) / **0 points** (3rd place) in groups with 3 players.
 3. There will be a total of 8 maps to be played in each group stage match, with each player picking out two maps from the pool.
-   - In groups with 3 players, the final two maps will be picked by the player with the highest !roll score and the player with the second highest !roll score respectively.
+   - In groups with 3 players, the final two maps will be picked by the player with the highest `!roll` score and the player with the second highest `!roll` score respectively.
 4. Participants are **not allowed** to ban maps in the Group Stage.
 5. There is no Lower Bracket in the Group Stage.
 6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
@@ -393,7 +393,7 @@ Sunday, 11 August 2020:
 
 ### Match regulations
 
-1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group Stage lobbies.
 2. Each player has to ban **one beatmap** (in the Round of 16 and the Quarterfinals) or **two maps** (in the Semifinals, Finals, and the Grand Finals) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.

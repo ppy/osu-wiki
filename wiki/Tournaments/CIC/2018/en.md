@@ -1,7 +1,7 @@
 ---
 tags:
-- CIC 2018
-- CIC2018
+  - CIC 2018
+  - CIC2018
 ---
 
 # Catch the Beat Indonesia Cup 2018
@@ -147,7 +147,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
   - [Akiyama Uni - Kanpan Tasogare Shinbun (JBHyperion) \[Hyperion's Overdose\]](https://osu.ppy.sh/beatmapsets/633255#fruits/1486886)
   - [IOSYS - Okuu's Nuclear Fusion Dojo (Mafiamaster) \[v2b's Insane\]](https://osu.ppy.sh/beatmapsets/8442#fruits/37166)
 - Tiebreaker
-  - **[Yooh - salvation (alienflybot) \[AFB's crucifixion\]](https://osu.ppy.sh/beatmaps/1718267)**
+  - **Yooh - salvation (alienflybot) \[AFB's crucifixion\]**
 
 ### Round of 16
 
@@ -421,7 +421,7 @@ Wednesday, 15 August 2018:
 
 ### Match regulations
 
-1. Each player must use `!roll` once in #multiplayer.
+1. Each player must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` starts picking the first beatmap of the match.
    - The loser of the `!roll` starts banning.
 2. Each player has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any player during the entire match.

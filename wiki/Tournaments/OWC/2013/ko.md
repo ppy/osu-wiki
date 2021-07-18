@@ -46,16 +46,12 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 | 해설 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | 통계 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## 링크
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
-- [osu! World Cup Livestream](https://www.twitch.tv/osulive)
-- [Statistics Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)
-- [Match Schedule (Quarter-finals)](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdC1QM0hZWndxT05YX3dLdTJTSXg2WXc&usp=drive_web#gid=0)
-
----
+- [osu! World Cup Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Statistics Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17 "Google Sheets")
+- [Match Schedule (Quarter-finals)](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdC1QM0hZWndxT05YX3dLdTJTSXg2WXc&usp=drive_web#gid=0 "Google Sheets")
 
 ## 참가자 명단
 
@@ -111,13 +107,9 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 | ![][flag_SG] Singapore | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
 | ![][flag_VE] Venezuela | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli |
 
----
-
 ## 대진표
 
 ![OWC 2013 brackets](img/bracket.jpg)
-
----
 
 ## 비트맵 풀
 
@@ -155,7 +147,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 ### 준결승전
 
-**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](https://www.mediafire.com/?pn3yxce7m6v4j13)**
+**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](https://www.mediafire.com/?pn3yxce7m6v4j13 "MediaFire")**
 
 - NoMod
   - [CON - Cruel Clocks (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76882#osu/216272)
@@ -189,7 +181,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 ### 8강전
 
-**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
+**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar "MediaFire")**
 
 - NoMod
   - [xi - Time files (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/49843#osu/153484)
@@ -223,7 +215,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 ### 16강전
 
-**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
+**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar "MediaFire")**
 
 - NoMod
   - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/43248#osu/135804)
@@ -257,7 +249,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 ### 조별 예선
 
-**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
+**[여기서 전체 맵풀을 한꺼번에 받으실 수 있습니다!](https://www.mediafire.com/?jn0c8p6wqfrtfhb "MediaFire")**
 
 - NoMod
   - [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w) \[YuruYuri\]](https://osu.ppy.sh/beatmapsets/45316#osu/153418)
@@ -288,8 +280,6 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
   - [Beridzebeth - Seijin no Tou (Strawberry) \[Another\]](https://osu.ppy.sh/beatmapsets/66968#osu/194953)
 - Tiebreaker
   - **[DJ Okawari - Luv Letter (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/40071#osu/127363)**
-
----
 
 ## 경기 결과
 
@@ -325,7 +315,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 | ![][flag_JP] Japan | 2 - **5** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/2962477) |
 | ![][flag_KR] **Korea** | **5** - 2 | Austria ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/2964278) |
 | ![][flag_CN] China | 4 - **5** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/2966197) |
-| ![][flag_GB] **United Kingdom** | **5** - 3 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/2969031) [#A](https://puu.sh/5rT5F/9b2a7bfa74.jpg) |
+| ![][flag_GB] **United Kingdom** | **5** - 3 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/2969031) [#A](https://puu.sh/5rT5F/9b2a7bfa74.jpg "puush") |
 
 ### 16강전
 
@@ -377,7 +367,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 | ![][flag_NO] **Norway** | **4** - 1 | Chile ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/2612443) |
 | ![][flag_AR] **Argentina** | **4** - 0 | Singapore ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/2614072) |
 | ![][flag_AT] **Austria** | **4** - 0 | Philippines ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/2614095) |
-| ![][flag_TH] **Thailand** | **4** - 1 | Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/2618739) [#A](https://puu.sh/5dh2n/b90be32a79.jpg) |
+| ![][flag_TH] **Thailand** | **4** - 1 | Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/2618739) [#A](https://puu.sh/5dh2n/b90be32a79.jpg "puush") |
 | ![][flag_HK] **Hong Kong** | **4** - 0 | Venezuela ![][flag_VE] | *Win by default* |
 | ![][flag_RU] **Russian Federation** | **4** - 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/2617238) |
 | ![][flag_US] **United States** | **4** - 1 | Latvia ![][flag_LV] | [#1](https://osu.ppy.sh/community/matches/2621519) |
@@ -409,8 +399,6 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 | ![][flag_KR] **Korea** | **4** - 2 | Chile ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/2662493) |
 | ![][flag_AU] Australia | 1 - **4** | **Brazil** ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/2767400) |
 
----
-
 ## 전체 룰
 
 ### 토너먼트 관련
@@ -441,7 +429,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
    1. 최대 인원은 8명입니다.
    2. 팀을 대표할 주장이 반드시 선발해야 합니다.
 2. 각 팀은 그 나라를 대표하게 됩니다. 모든 선수들이 같은 나라의 선수들인지 확인해 주십시오.
-3. 참가신청은 [**구글폼**](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform) 을 통해 제출한 다음, [Loctav](https://osu.ppy.sh/home/messages/users/71366) 에게 “OWC Registration” 라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
+3. 참가신청은 [**구글폼**](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform "Google Forms") 을 통해 제출한 다음, [Loctav](https://osu.ppy.sh/home/messages/users/71366) 에게 “OWC Registration” 라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
    - 각 팀 주장은 선수 등록에 변동사항이 있을 경우 [운영위원](https://osu.ppy.sh/home/messages/users/71366)에게 알려주셔야 합니다.
 4. 모든 등록과 변경은 운영위원들의 확인을 거쳐 반영될 것입니다.
 5. 총 32팀의 신청을 받습니다. 선착순입니다.
@@ -471,7 +459,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
    3. 먼저 언급된 팀이 블루팀이며, 그 다음 언급되는 팀이 레드팀입니다.
 2. 심판은 방을 만들고 즉각 퇴장하며, 이후 멀티 관전용 계정으로 경기를 관전합니다.
 3. 선수들은 자유롭게 연습용 맵을 고를 수 있습니다.
-4. 맵은 번갈아가면서 선곡하되, 각 주장은 방에서 적어도 한번은 "!roll" 을 사용하여 어느 팀이 먼저 선곡할지 정해야 합니다.
+4. 맵은 번갈아가면서 선곡하되, 각 주장은 방에서 적어도 한번은 `!roll` 을 사용하여 어느 팀이 먼저 선곡할지 정해야 합니다.
    1. 논모드용 맵은 자유롭게 고를 수 있습니다.
    2. 모드맵 선곡에는 제한이 있습니다. 각 팀의 주장은 한 모드당 한 맵만을 선곡할 수 있습니다.
    3. 동점의 경우에는 타이브레이커 맵을 플레이 해야 합니다.

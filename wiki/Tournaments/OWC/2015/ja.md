@@ -46,8 +46,8 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 ## リンク
 
 - [ディスカッションスレッド](https://osu.ppy.sh/community/forums/posts/4550383)
-- [ライブストリーム](https://www.twitch.tv/osulive/)
-- **[グループステージ統計概要](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
+- [ライブストリーム](https://www.twitch.tv/osulive "Twitch")
+- **[グループステージ統計概要](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml "Google Sheets")**
 
 ## 参加者
 
@@ -109,7 +109,7 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 
 **このマッププールは、決勝 week 1と決勝 week 2でプレイされました。**
 
-**[こちらからマップパックをダウンロードできます！ (206 MB)](https://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar)**
+**[こちらからマップパックをダウンロードできます！ (206 MB)](https://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar "MediaFire")**
 
 - NoMod
   - [Reol - Asymmetry (Skystar) \[Asphewin's Expert\]](https://osu.ppy.sh/beatmapsets/310499#osu/698249)
@@ -139,7 +139,7 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 
 ### 準決勝
 
-**[こちらからマップパックをダウンロードできます！ (183 MB)](https://www.mediafire.com/download/rm2w6we4i90dhc5/OWC_2015_Semifinals.rar)**
+**[こちらからマップパックをダウンロードできます！ (183 MB)](https://www.mediafire.com/download/rm2w6we4i90dhc5/OWC_2015_Semifinals.rar "MediaFire")**
 
 - NoMod
   - [Reol - Streaming Heart (sukiNathan) \[Extra\]](https://osu.ppy.sh/beatmapsets/339335#osu/760466)
@@ -169,7 +169,7 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 
 ### 準々決勝
 
-**[こちらからマップパックをダウンロードできます！ (160 MB)](https://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
+**[こちらからマップパックをダウンロードできます！ (160 MB)](https://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar "MediaFire")**
 
 - NoMod
   - [ALiCE'S EMOTiON - Dark Flight Dreamer (Sakaue Nachi) \[Dreamer\]](https://osu.ppy.sh/beatmapsets/185250#osu/676172)
@@ -199,7 +199,7 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 
 ### ベスト16
 
-**[こちらからマップパックをダウンロードできます！ (187 MB)](https://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
+**[こちらからマップパックをダウンロードできます！ (187 MB)](https://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar "MediaFire")**
 
 - NoMod
   - [Sharlo & yealina - Kakushigoto (Sharlo) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/208095#osu/495899)
@@ -229,7 +229,7 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 
 ### グループステージ
 
-**[こちらからマップパックをダウンロードできます！ (155 MB)](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
+**[こちらからマップパックをダウンロードできます！ (155 MB)](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [Duca - COLD BUTTERFLY (Zweib) \[Insane\]](https://osu.ppy.sh/beatmapsets/125380#osu/363063)
@@ -349,7 +349,7 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 3. それぞれのキャプテンはビートマップ群から2つビートマップを使用禁止にすることができます。ここで選ばれたビートマップは試合を通してどちらのチームも使用してはいけません。
    1. このビートマップ拒否権は必ずどちらも使用してください。
 4. ビートマップの選択は、各チームキャプテンが交互に行います。
-5. それぞれのキャプテンは\#multiplayerで"!roll"を使ってください。
+5. それぞれのキャプテンは`#multiplayer`で`!roll`を使ってください。
    1. 勝者は、試合で使うビートマップを先に選択してください。
    2. 敗者は、使用不可にしたいビートマップを先に2つ選択してください。
 6. キャプテンはどのカテゴリからでも自由にビートマップを選んで構いません。

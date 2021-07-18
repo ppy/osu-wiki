@@ -36,13 +36,9 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 
 **Commentatori:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/Mr_Color), ![][flag_US] [dkun](https://osu.ppy.sh/users/dkun), ![][flag_US] [Agnes](https://osu.ppy.sh/users/Agnes)
 
----
-
 ## Links
 
 - [Discuti qui](https://osu.ppy.sh/community/forums/topics/160181/start=0)
-
----
 
 ## Regolamento
 
@@ -74,7 +70,7 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
    1. The maximum team size is 8.
    2. You must specify a captain who will represent the team.
 2. Each team represents a nation. You must form a team with players from the same country.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform "Google Forms"). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
    1. Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
 4. Any registration and change will be checked by the Tournament Management before being accepted and added to the list of participants.
 5. The total amount of teams is 32. First come, first serve.
@@ -105,7 +101,7 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
    3. The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Referee will join the room externally. Referee will spectate the match via multi-spectator client.
 3. Players are free to select a warm-up map.
-4. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+4. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
    1. The captains may select maps out of the NoMod bracket freely.
    2. Selection out of mod-specific brackets is limited. Each captain may only select one map from each mod-restricted bracket during the match.
    3. In case of a tie, the tiebreaker map must be played.

@@ -51,12 +51,12 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/12dU5oFb_vdfn5YHXMC6cvQZr7VeQV4hPU_WWzxYZiWg/edit#gid=1811776910)**
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/12dU5oFb_vdfn5YHXMC6cvQZr7VeQV4hPU_WWzxYZiWg/edit#gid=1811776910 "Google Sheets")**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1003216)
-- [Discord server](https://discordapp.com/invite/CHRFffH)
-- [Primary livestream channel](https://www.twitch.tv/osuindonesia)
-- [Secondary livestream channel](https://www.twitch.tv/osuindonesiab)
-- [Challonge brackets](https://challonge.com/OIT2020)
+- [Discord server](https://discordapp.com/invite/CHRFffH "Discord")
+- [Primary livestream channel](https://www.twitch.tv/osuindonesia "Twitch")
+- [Secondary livestream channel](https://www.twitch.tv/osuindonesiab "Twitch")
+- [Challonge brackets](https://challonge.com/OIT2020 "Challonge")
 
 ## Podium
 
@@ -66,7 +66,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Finals week 2
 
-**[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1ooSskA_Q2pbYDkrXmRW2GKamWRWdv1Ky/view)**
+**[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1ooSskA_Q2pbYDkrXmRW2GKamWRWdv1Ky/view "Google Drive")**
 
 - NoMod
   - [ELFENSJoN - Hyousou wa Hakuen o Matoite (Xayah) \[White Flame\]](https://osu.ppy.sh/beatmapsets/1019071#osu/2132486)
@@ -97,7 +97,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Finals week 1
 
-**[Download the mappack here! (145 MB)](https://drive.google.com/file/d/1DrYx1aVN9ht6rqi_EnCeZoEdDEB23rw1/view)**
+**[Download the mappack here! (145 MB)](https://drive.google.com/file/d/1DrYx1aVN9ht6rqi_EnCeZoEdDEB23rw1/view "Google Drive")**
 
 - NoMod
   - [Yorushika - Deep Indigo (Sing) \[That's Why I Give Up on Mapping\]](https://osu.ppy.sh/beatmapsets/949288#osu/1982289)
@@ -128,7 +128,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Semifinals
 
-**[Download the mappack here! (141 MB)](https://drive.google.com/file/d/1HOwmJjSsaIGkSjN33qha7dAB2qFT8TKy/view)**
+**[Download the mappack here! (141 MB)](https://drive.google.com/file/d/1HOwmJjSsaIGkSjN33qha7dAB2qFT8TKy/view "Google Drive")**
 
 - NoMod
   - [Kitamura Eri - STARLET SEEKER (CoLouRed GlaZeE) \[Delis' Extreme\]](https://osu.ppy.sh/beatmapsets/1085124#osu/2269187)
@@ -159,7 +159,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (133 MB)](https://drive.google.com/file/d/1VkXbE4Qj3qeO7OelXbttdl6JidiKdR31/view)**
+**[Download the mappack here! (133 MB)](https://drive.google.com/file/d/1VkXbE4Qj3qeO7OelXbttdl6JidiKdR31/view "Google Drive")**
 
 - NoMod
   - [THE ORAL CIGARETTES - ONE'S AGAIN (Meg) \[ya\]](https://osu.ppy.sh/beatmapsets/607344#osu/1282817)
@@ -190,7 +190,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Round of 16
 
-**[Download the mappack here! (94 MB)](https://drive.google.com/file/d/1VNYUAv86YHFZmDrylvGCsKDL5nBK3DIY/view)**
+**[Download the mappack here! (94 MB)](https://drive.google.com/file/d/1VNYUAv86YHFZmDrylvGCsKDL5nBK3DIY/view "Google Drive")**
 
 - NoMod
   - [Mami Kawada - Going Back To Square One (Depths) \[Forever\]](https://osu.ppy.sh/beatmapsets/425236#osu/918428)
@@ -216,12 +216,12 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Round of 32
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1H7h9eLHXqy2or2LixjcmZ_P5pwlUiOYo/view)**
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1H7h9eLHXqy2or2LixjcmZ_P5pwlUiOYo/view "Google Drive")**
 
 - NoMod
   - [AKINO with bless4 - EXTRA MAGIC HOUR (koreapenguin) \[Extra\]](https://osu.ppy.sh/beatmapsets/224335#osu/523661)
   - [ZUN remixed by LeaF - Resurrection Spell (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/292644#osu/662064)
-  - [DJ TOTTO - Shoujo Alice to Hakoniwa Gensou Concerto (J1_) \[#1 (Winner!) -- OIT 2020 Version\]](https://drive.google.com/file/d/1ODp9O82egL5uXWzPG65znTg3lVjJUDI6/view)
+  - [DJ TOTTO - Shoujo Alice to Hakoniwa Gensou Concerto (J1_) \[#1 (Winner!) -- OIT 2020 Version\]](https://drive.google.com/file/d/1ODp9O82egL5uXWzPG65znTg3lVjJUDI6/view "Google Drive")
   - [Feryquitous - Ordirehv (JeZag) \[Asami's Another\]](https://osu.ppy.sh/beatmapsets/935602#osu/2154177)
   - [Akiakane - FlashBack (Kiiwa) \[Insane\]](https://osu.ppy.sh/beatmapsets/54672#osu/166126)
 - Hidden
@@ -242,7 +242,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Qualifiers
 
-**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/1RbTVj8veT9vl4k_aQvD1PNiIO5VHgi57/view)**
+**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/1RbTVj8veT9vl4k_aQvD1PNiIO5VHgi57/view "Google Drive")**
 
 - NoMod
   - [Yuna (CV: Kanada Sayaka) - Break Beat Bark! (SkyFlame) \[Ohwow's Extra\]](https://osu.ppy.sh/beatmapsets/924734#osu/1943282)
@@ -484,7 +484,7 @@ Monday, 9 March 2020:
 
 ### Match regulations
 
-1. Each player must use `!roll` once in #multiplayer in order to determine the banning and picking order.
+1. Each player must use `!roll` once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide the second and third ban as well as the first pick of the match.
    - The loser of the `!roll` gets to decide the first and fourth pick of the match.
    - This rule does not apply in the Qualifier lobbies.

@@ -1,7 +1,7 @@
 ---
 tags:
-- PHN4K2019
-- PHN4K 2019
+  - PHN4K2019
+  - PHN4K 2019
 ---
 
 # osu! Philippines Nationals 2019 (osu!mania 4K)
@@ -46,12 +46,10 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/902235)
-- [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live)
-- [Twitch](https://www.twitch.tv/osuliveph)
-- [Challonge](https://challonge.com/oPHN4K19)
-- [osu! Philippines Tournament Discord server](https://discord.gg/9ZUMmwS)
-
----
+- [YouTube](https://www.youtube.com/channel/UCkV4V1OVO6gOGxtH51glH0Q/live "YouTube")
+- [Twitch](https://www.twitch.tv/osuliveph "Twitch")
+- [Challonge](https://challonge.com/oPHN4K19 "Challonge")
+- [osu! Philippines Tournament Discord server](https://discord.gg/9ZUMmwS "Discord")
 
 ## Participants
 
@@ -62,78 +60,76 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 | Low (#9 - #24) | [Swarmsii](https://osu.ppy.sh/users/11716111), [GTXCZE](https://osu.ppy.sh/users/9209185), [notapplicable](https://osu.ppy.sh/users/7170536), [Captain Cusheen](https://osu.ppy.sh/users/9158337), [ChristsuGaming](https://osu.ppy.sh/users/12203613), [Lordie09](https://osu.ppy.sh/users/10010130), [Shiyui-](https://osu.ppy.sh/users/9374607), [bananacake304](https://osu.ppy.sh/users/3741704), [kraken\_33](https://osu.ppy.sh/users/11379988), [Andrei--](https://osu.ppy.sh/users/7222840), [MiekoYanagi](https://osu.ppy.sh/users/12296324), [wallwap](https://osu.ppy.sh/users/5532163), [PotatoPresser](https://osu.ppy.sh/users/6965801), [vincent4399](https://osu.ppy.sh/users/9764388), [Edison](https://osu.ppy.sh/users/1325159), [pumpiyumpiyummm](https://osu.ppy.sh/users/13928542) |
 | Bottom (#25 - #32) | [didgey](https://osu.ppy.sh/users/11568208), [Loli-Sensei69](https://osu.ppy.sh/users/10994606), [Neoskiie](https://osu.ppy.sh/users/12239110), [Chez](https://osu.ppy.sh/users/4866112), [Batujitsu](https://osu.ppy.sh/users/6402552), [Chiaki-chan](https://osu.ppy.sh/users/9378968), [Xidorn](https://osu.ppy.sh/users/7904667), [Hues](https://osu.ppy.sh/users/2367206) |
 
----
-
 ## Mappools
 
 ### Finals Week 1
 
-**[Download the mappack here! (84.9 MB)](https://drive.google.com/file/d/1FGo-7Xy2ZhTaM_pJtdmzVOltKLF2KmlK/view?usp=sharing)**
+**[Download the mappack here! (84.9 MB)](https://drive.google.com/file/d/1FGo-7Xy2ZhTaM_pJtdmzVOltKLF2KmlK/view?usp=sharing "Google Drive")**
 
 - FreeMod
-  - [Terminal11 - Odd22 (Lenfried-) \[Choof's Masochist (LN Fix)\]](https://osu.ppy.sh/beatmaps/2083112)
-  - [SHIKI - Angelic layer (Vortex-) \[Distortion\]](https://osu.ppy.sh/beatmaps/1551698)
-  - [Yuyoyuppe - Palette GAMMA (Toaph Daddy) \[Colors\]](https://osu.ppy.sh/beatmaps/1978712)
-  - [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmaps/1850115)
-  - [Camellia feat. Nanahira - Ningen vs Kyuunage Robot Tama-chan no Catchball Taiketsu (Polytetral) \[Beginner\]](https://osu.ppy.sh/beatmaps/2083171)
-  - [Two Steps From Hell - Star Sky (Evening) \[Ethereal\]](https://osu.ppy.sh/beatmaps/1699702)
-  - [YMCK - Curry Da Yo! (qqqant) \[Ricetune\]](https://osu.ppy.sh/beatmaps/2058130)
-  - [Casey Edwards feat. Ali Edwards - Devil Trigger (Valedict) \[Rebellion\]](https://osu.ppy.sh/beatmaps/1859068)
-  - [bj.HaLo - Gekitsui -HELL AIR FORCE- (stupud man) \[Inundation\]](https://osu.ppy.sh/beatmaps/1365985)
-  - [Tia - Deal with the devil (-Rem-) \[gamble\]](https://osu.ppy.sh/beatmaps/2082239)
-  - [Nekobolo - My Last (KatayokuNoTori) \[Final (o2 Style)\]](https://osu.ppy.sh/beatmaps/1313335)
-  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tails' vs Kami's Lunatic\]](https://osu.ppy.sh/beatmaps/2022076)
-  - [sakuzyo - Black Lair (RemFangirl) \[Depths\]](https://osu.ppy.sh/beatmaps/1866053)
-  - [ONE - Future (arcwinolivirus) \[4K SV Innovation\]](https://osu.ppy.sh/beatmaps/1498464)
-  - [saradisk - 168 - 401 (Kamikaze) \[Subnautical Activities\]](https://osu.ppy.sh/beatmaps/1992444)
+  - Terminal11 - Odd22 (Lenfried-) \[Choof's Masochist (LN Fix)\]
+  - [SHIKI - Angelic layer (Vortex-) \[Distortion\]](https://osu.ppy.sh/beatmapsets/735008#mania/1551698)
+  - [Yuyoyuppe - Palette GAMMA (Toaph Daddy) \[Colors\]](https://osu.ppy.sh/beatmapsets/947386#mania/1978712)
+  - [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/885179#mania/1850115)
+  - [Camellia feat. Nanahira - Ningen vs Kyuunage Robot Tama-chan no Catchball Taiketsu (Polytetral) \[Beginner\]](https://osu.ppy.sh/beatmapsets/995878#mania/2083171)
+  - Two Steps From Hell - Star Sky (Evening) \[Ethereal\]
+  - [YMCK - Curry Da Yo! (qqqant) \[Ricetune\]](https://osu.ppy.sh/beatmapsets/983584#mania/2058130)
+  - [Casey Edwards feat. Ali Edwards - Devil Trigger (Valedict) \[Rebellion\]](https://osu.ppy.sh/beatmapsets/889477#mania/1859068)
+  - [bj.HaLo - Gekitsui -HELL AIR FORCE- (stupud man) \[Inundation\]](https://osu.ppy.sh/beatmapsets/644532#mania/1365985)
+  - [Tia - Deal with the devil (-Rem-) \[gamble\]](https://osu.ppy.sh/beatmapsets/995384#mania/2082239)
+  - [Nekobolo - My Last (KatayokuNoTori) \[Final (o2 Style)\]](https://osu.ppy.sh/beatmapsets/622875#mania/1313335)
+  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tails' vs Kami's Lunatic\]](https://osu.ppy.sh/beatmapsets/925063#mania/2022076)
+  - sakuzyo - Black Lair (RemFangirl) \[Depths\]
+  - [ONE - Future (arcwinolivirus) \[4K SV Innovation\]](https://osu.ppy.sh/beatmapsets/708785#mania/1498464)
+  - saradisk - 168 - 401 (Kamikaze) \[Subnautical Activities\]
 - Tiebreaker
-  - **[t+pazolite - do i smile? (\_underjoy) \[guess\]](https://osu.ppy.sh/beatmaps/1242347)**
+  - **[t+pazolite - do i smile? (\_underjoy) \[guess\]](https://osu.ppy.sh/beatmapsets/586663#mania/1242347)**
 
 ### Semifinals
 
-**[Download the mappack here! (87.8 MB)](https://drive.google.com/file/d/1fJ0kgr4ksQRWspKQFGTAVp0OO2vmDqVJ/view?usp=sharing)**
+**[Download the mappack here! (87.8 MB)](https://drive.google.com/file/d/1fJ0kgr4ksQRWspKQFGTAVp0OO2vmDqVJ/view?usp=sharing "Google Drive")**
 
 - FreeMod
-  - [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Melancholia\]](https://osu.ppy.sh/beatmaps/1751934)
-  - [Bal-Sagoth - The Obsidian Crown Unbound (Episode: IX) (Xonica) \[Bloodshed\]](https://osu.ppy.sh/beatmaps/1697322)
-  - [Sta - 99 Glooms (Ticle) \[X\]](https://osu.ppy.sh/beatmaps/2013908)
-  - [T-ara - Roly-Poly (Jirit) \[I keep looking at you\]](https://osu.ppy.sh/beatmaps/1790119)
-  - [Memme - Uranium (tailsdk) \[Radioactive Noodles\]](https://osu.ppy.sh/beatmaps/1824765)
-  - [Moe Shop - The New Moe Groove (MapleSyrup-) \[Hummingbird x1.2\]](https://osu.ppy.sh/beatmaps/1735528)
-  - [Noisestorm - Crab Rave (qqqant) \[GOOD MAPPOOL IS GONE\]](https://osu.ppy.sh/beatmaps/2017618)
-  - [Se-U-Ra - LOSHAXI (Elekton) \[alonewithi\]](https://osu.ppy.sh/beatmaps/1658712)
-  - [3L - Endless Night (Gekido-) \[Eternal\]](https://osu.ppy.sh/beatmaps/2001931)
-  - [penoreri - Sailing Force (Chrubble) \[Voyage\]](https://osu.ppy.sh/beatmaps/1979200)
-  - [BlackYooh vs siromaru - BLACK or WHITE? (Lite show Magic Remix) (Jungdongjin) \[Another Mind\]](https://osu.ppy.sh/beatmaps/1484691)
-  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmaps/1298710)
-  - [umecha - Tricolor Diary (MapleSyrup-) \[4k owo)!!!\]](https://osu.ppy.sh/beatmaps/2074774)
+  - [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Melancholia\]](https://osu.ppy.sh/beatmapsets/836634#mania/1751934)
+  - [Bal-Sagoth - The Obsidian Crown Unbound (Episode: IX) (Xonica) \[Bloodshed\]](https://osu.ppy.sh/beatmapsets/808848#mania/1697322)
+  - [Sta - 99 Glooms (Ticle) \[X\]](https://osu.ppy.sh/beatmapsets/961775#mania/2013908)
+  - [T-ara - Roly-Poly (Jirit) \[I keep looking at you\]](https://osu.ppy.sh/beatmapsets/856938#mania/1790119)
+  - [Memme - Uranium (tailsdk) \[Radioactive Noodles\]](https://osu.ppy.sh/beatmapsets/872940#mania/1824765)
+  - [Moe Shop - The New Moe Groove (MapleSyrup-) \[Hummingbird x1.2\]](https://osu.ppy.sh/beatmapsets/738804#mania/1735528)
+  - [Noisestorm - Crab Rave (qqqant) \[GOOD MAPPOOL IS GONE\]](https://osu.ppy.sh/beatmapsets/963683#mania/2017618)
+  - [Se-U-Ra - LOSHAXI (Elekton) \[alonewithi\]](https://osu.ppy.sh/beatmapsets/790524#mania/1658712)
+  - [3L - Endless Night (Gekido-) \[Eternal\]](https://osu.ppy.sh/beatmapsets/956232#mania/2001931)
+  - [penoreri - Sailing Force (Chrubble) \[Voyage\]](https://osu.ppy.sh/beatmapsets/947636#mania/1979200)
+  - [BlackYooh vs siromaru - BLACK or WHITE? (Lite show Magic Remix) (Jungdongjin) \[Another Mind\]](https://osu.ppy.sh/beatmapsets/701502#mania/1484691)
+  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmapsets/615707#mania/1298710)
+  - [umecha - Tricolor Diary (MapleSyrup-) \[4k owo)!!!\]](https://osu.ppy.sh/beatmapsets/872808#mania/2074774)
 - Tiebreaker
-  - **[PSYQUI - Hype feat. Such (lapix Remix) (Chrubble) \[Skybound\]](https://osu.ppy.sh/beatmaps/1951599)**
+  - **[PSYQUI - Hype feat. Such (lapix Remix) (Chrubble) \[Skybound\]](https://osu.ppy.sh/beatmapsets/934819#mania/1951599)**
 
 ### Quarterfinals
 
-**[Download the mappack here! (78.7 MB)](https://drive.google.com/file/d/1SMpxVMp6QIgC8C9iDDVKwMmaVOV8Xbso/view?usp=sharing)**
+**[Download the mappack here! (78.7 MB)](https://drive.google.com/file/d/1SMpxVMp6QIgC8C9iDDVKwMmaVOV8Xbso/view?usp=sharing "Google Drive")**
 
 - FreeMod
-  - [Night Tempo - Nemure (Valedict) \[Rest\]](https://osu.ppy.sh/beatmaps/1190462)
-  - [BlackY vs. Yooh - XROSS INFECTION (Allezard) \[NM \[Full LN\]\]](https://osu.ppy.sh/beatmaps/802114)
-  - [fripSide - sister's noise (TV Size) (juankristal) \[Electromaster\]](https://osu.ppy.sh/beatmaps/2038639)
-  - [antiPLUR - Runengon (Raveille) \[Lenfried's Insane\]](https://osu.ppy.sh/beatmaps/2039384)
-  - [colate - pyonpyon dream (LeiN-) \[Daydream\]](https://osu.ppy.sh/beatmaps/1994717)
-  - [ETIA. vs. DJ DALER MEHNDI - TUNAK TUNAKSTORM (qqqant) \[DA DA DA\]](https://osu.ppy.sh/beatmaps/1678448)
-  - [ITSUHA. - Klouz of Reveria (Elekton) \[cascade\]](https://osu.ppy.sh/beatmaps/1514656)
-  - [Venetian Snares - Ketsarku Mozgalom (-Rem-) \[grievance\]](https://osu.ppy.sh/beatmaps/2019849)
-  - [Hello, Happy World! - Romeo (Razzy) \[Parade\]](https://osu.ppy.sh/beatmaps/1801301)
-  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1971029)
-  - [Helblinde - Above The Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmaps/1870722)
-  - [saradisk - 211 - Natsuiro Present (180bpmEDIT) (Hues) \[Present\]](https://osu.ppy.sh/beatmaps/1509208)
-  - [Eskmo - Cloudlight (cut) (Ciel) \[Stage 1: Control\]](https://osu.ppy.sh/beatmaps/1546415)
+  - [Night Tempo - Nemure (Valedict) \[Rest\]](https://osu.ppy.sh/beatmapsets/562937#mania/1190462)
+  - [BlackY vs. Yooh - XROSS INFECTION (Allezard) \[NM \[Full LN\]\]](https://osu.ppy.sh/beatmapsets/365456#mania/802114)
+  - [fripSide - sister's noise (TV Size) (juankristal) \[Electromaster\]](https://osu.ppy.sh/beatmapsets/973859#mania/2038639)
+  - [antiPLUR - Runengon (Raveille) \[Lenfried's Insane\]](https://osu.ppy.sh/beatmapsets/971561#mania/2039384)
+  - [colate - pyonpyon dream (LeiN-) \[Daydream\]](https://osu.ppy.sh/beatmapsets/955162#mania/1994717)
+  - ETIA. vs. DJ DALER MEHNDI - TUNAK TUNAKSTORM (qqqant) \[DA DA DA\]
+  - [ITSUHA. - Klouz of Reveria (Elekton) \[cascade\]](https://osu.ppy.sh/beatmapsets/716823#mania/1514656)
+  - Venetian Snares - Ketsarku Mozgalom (-Rem-) \[grievance\]
+  - [Hello, Happy World! - Romeo (Razzy) \[Parade\]](https://osu.ppy.sh/beatmapsets/860962#mania/1801301)
+  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/943788#mania/1971029)
+  - [Helblinde - Above The Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmapsets/895291#mania/1870722)
+  - [saradisk - 211 - Natsuiro Present (180bpmEDIT) (Hues) \[Present\]](https://osu.ppy.sh/beatmapsets/714090#mania/1509208)
+  - [Eskmo - Cloudlight (cut) (Ciel) \[Stage 1: Control\]](https://osu.ppy.sh/beatmapsets/732986#mania/1546415)
 - Tiebreaker
-  - **[Laur - Sound Chimera (\_Streamy\_) \[Celestial Iris\]](https://osu.ppy.sh/beatmaps/1779774)**
+  - **[Laur - Sound Chimera (\_Streamy\_) \[Celestial Iris\]](https://osu.ppy.sh/beatmapsets/844432#mania/1779774)**
 
 ### Group Stage
 
-**[Download the mappack here! (55.5 MB)](https://drive.google.com/open?id=1tlpvcpfwlgApNVwTJIGWJhe14gpwZ3ox)**
+**[Download the mappack here! (55.5 MB)](https://drive.google.com/open?id=1tlpvcpfwlgApNVwTJIGWJhe14gpwZ3ox "Google Drive")**
 
 - FreeMod
   - [Lime - Stargazer (Kamikaze) \[Astral\]](https://osu.ppy.sh/beatmapsets/946116#mania/1975568)
@@ -152,7 +148,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ### Play-offs
 
-**[Download the mappack here! (59.5 MB)](https://drive.google.com/open?id=1Uc0IFaJgOpycbwdJqW_SxbOcsJ02PfqT)**
+**[Download the mappack here! (59.5 MB)](https://drive.google.com/open?id=1Uc0IFaJgOpycbwdJqW_SxbOcsJ02PfqT "Google Drive")**
 
 - FreeMod
   - [yuikonnu - Shinkai Shoujo (juankristal) \[Shoujo\]](https://osu.ppy.sh/beatmapsets/493322#mania/1050663)
@@ -169,7 +165,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ### Qualifiers
 
-**[Download the mappack here! (13.9 MB)](https://drive.google.com/open?id=1gHJYaBUaqzX-ZOlOLZSv3sHAKzSoMnf3)**
+**[Download the mappack here! (13.9 MB)](https://drive.google.com/open?id=1gHJYaBUaqzX-ZOlOLZSv3sHAKzSoMnf3 "Google Drive")**
 
 - FreeMod
   - [hirota - idea (Lenfried-) \[Afterthought\]](https://osu.ppy.sh/beatmapsets/977516#mania/2045910)
@@ -177,13 +173,11 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
   - [Sampling Masters MEGA - Kattobi KEIKYU Rider (Raveille) \[Airborne Array\]](https://osu.ppy.sh/beatmapsets/977507#mania/2045879)
   - [The Flashbulb - Passage D (SurfChu85) \[labyrinth\]](https://osu.ppy.sh/beatmapsets/977508#mania/2045880)
 
----
-
 ## Match Results
 
 ### Semifinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjtQACfYU88yQ746ZJ-UY-kbdn_3_gtF6ewz6xtp6OoeB1Jh1zZ8DIMgxM3kvyfB6o-leJjjOqm08I/pubhtml)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjtQACfYU88yQ746ZJ-UY-kbdn_3_gtF6ewz6xtp6OoeB1Jh1zZ8DIMgxM3kvyfB6o-leJjjOqm08I/pubhtml "Google Sheets")
 
 | Saturday, 2019-06-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -197,7 +191,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Quarterfinals
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPGzvuwEUIjD0cORSXGf_jnYMOy6AZB-a8LrUUVGjur5XcPPoAeTt3mulsYl6GZU0u7Ndftu922CTB/pubhtml)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPGzvuwEUIjD0cORSXGf_jnYMOy6AZB-a8LrUUVGjur5XcPPoAeTt3mulsYl6GZU0u7Ndftu922CTB/pubhtml "Google Sheets")
 
 | Saturday, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -211,7 +205,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Group Stage
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdgCT4CH9eo8qFgAWTBj5AafXFJXyaL9FLxxQvuC-TSDaOXy5n4_sSc4jDyNtGI3KoZSZPk4w4Dmzx/pubhtml)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdgCT4CH9eo8qFgAWTBj5AafXFJXyaL9FLxxQvuC-TSDaOXy5n4_sSc4jDyNtGI3KoZSZPk4w4Dmzx/pubhtml "Google Sheets")
 
 | Thursday, 2019-06-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -251,7 +245,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Play-offs
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvo5Nn4awVWc7jCwnLXH1cMMUGAYwghXnlxIUFq5iA32yLKQOS5nKyVgh16Zv3G8ZyUgl-G1TTOj9b/pubhtml)
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvo5Nn4awVWc7jCwnLXH1cMMUGAYwghXnlxIUFq5iA32yLKQOS5nKyVgh16Zv3G8ZyUgl-G1TTOj9b/pubhtml "Google Sheets")
 
 | Friday, 2019-06-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -280,9 +274,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Qualifiers
 
-Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/15lbiVX9pzeWakCHoy7p_cYnjCnltKG7C1BXSazZA0xQ/edit?usp=sharing)
-
----
+Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/15lbiVX9pzeWakCHoy7p_cYnjCnltKG7C1BXSazZA0xQ/edit?usp=sharing "Google Sheets")
 
 ## Ruleset
 
@@ -377,14 +369,14 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing (lower) roll picks the first ban, while the winning (higher) roll picks the first song of the match. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the losing (lower) roll picks the first ban, while the winning (higher) roll picks the first song of the match. In the event that both players get the same roll, they will have to continue doing the `!roll` command until the tie is broken.
 - After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
-    - The winning player moves onto the next match.
-    - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+     - The winning player moves onto the next match.
+     - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
   2. Both players are at match point at the same time.
-    - Both players will play the song designated as the tiebreaker.
-    - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
+     - Both players will play the song designated as the tiebreaker.
+     - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 - If the beatmap ends in a draw, the game will be nullified and the beatmap will be replayed.
 
 #### Disconnections
@@ -394,8 +386,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

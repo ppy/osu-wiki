@@ -1,7 +1,7 @@
 ---
 tags:
-- DMX 3
-- DMX3
+  - DMX 3
+  - DMX3
 ---
 
 # DeltaMax's Mania Key Smasher

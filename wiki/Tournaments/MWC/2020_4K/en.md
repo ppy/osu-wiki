@@ -50,10 +50,10 @@ The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/The_Team
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1106843)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/41) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Challonge bracket](https://challonge.com/MWC4K2020)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEX_lsC7Kre0jDtZgHzTvTbmCztws2lm0egFDe4oPNt4LeaJwWCLfdwAgkKpWORp4UplgtPwxxBIS/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/41 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Challonge bracket](https://challonge.com/MWC4K2020 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEX_lsC7Kre0jDtZgHzTvTbmCztws2lm0egFDe4oPNt4LeaJwWCLfdwAgkKpWORp4UplgtPwxxBIS/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -453,9 +453,9 @@ Sunday, 16 August 2020:
 2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 4K specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 6. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
    - In case a team takes more than 2 minutes to pick a map, they will recieve a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
    - Each team will receive a "tactical timeout" of **two minutes**, which can be used at any time during their team's pick, **once per match**. *The tactical timeout is optional, and is not required to be used*.
