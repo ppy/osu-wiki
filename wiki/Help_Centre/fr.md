@@ -39,9 +39,9 @@ Si un membre de l'équipe d'assistance vous a demandé ces logs, voici comment l
 
 1. Ouvrez osu!
 2. Cliquez sur le bouton `Options` du menu principal, ou appuyez sur `Ctrl` + `O`.
-3. Tapez `release` dans la barre de recherche rapide. Vous accéderez ainsi à la version que votre client utilise.
+3. Tapez `release` dans la barre de recherche rapide. Vous accéderez ainsi au canal de mises à jour que votre client utilise.
 4. Assurez-vous qu'il est réglé sur `Expérimental`.
-5. Cliquez sur le bouton de redémarrage qui apparaît en bas de l'écran si vous avez apporté des modifications à la version du jeu pour les appliquer.
+5. Cliquez sur le bouton de redémarrage qui apparaît en bas de l'écran si vous avez apporté des modifications au canal de mises à jour pour les appliquer.
 6. Allez dans le menu `Options` à nouveau et cliquez sur `Ouvrir le dossier d'osu!`.
 7. Trouvez le répertoire `Logs` dans la fenêtre qui s'ouvre.
 8. Sélectionnez le fichier log requis (le représentant du service d'assistance vous indiquera lequel) et joignez-le à votre ticket d'assistance ou à votre message de forum.
