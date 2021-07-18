@@ -252,7 +252,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] Kenny | Forfeit (left early) |
+| **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] Kenny | *forfeit (left early)* |
 | **Mathyu** ![][flag_US] | **7** | 1 | ![][flag_US] Darin on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49192152) |
 
 #### Finals
@@ -271,8 +271,8 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 | J_8579 ![][flag_US] | 0 | **4** | ![][flag_US] **GiraffeMidget** | [Multiplayer match](https://osu.ppy.sh/community/matches/49190507) |
 | **Riku on osu** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | [Multiplayer match](https://osu.ppy.sh/community/matches/49190193) |
 | **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] Ikeda Chizuru | [Multiplayer match](https://osu.ppy.sh/community/matches/49190471) |
-| **death grips** ![][flag_US] | **1** | 0 | ![][flag_US] DetectiveBleh | Forfeit (no-show) |
-| GiraffeMidget ![][flag_US] | 0 | **1** | ![][flag_US] **Riku on osu** | Forfeit (left early) |
+| **death grips** ![][flag_US] | **1** | 0 | ![][flag_US] DetectiveBleh | *forfeit (no-show)* |
+| GiraffeMidget ![][flag_US] | 0 | **1** | ![][flag_US] **Riku on osu** | *forfeit (left early)* |
 | **clayton** ![][flag_US] | **5** | 3 | ![][flag_US] death grips | <!-- match link lost --> |
 | **Mathyu** ![][flag_US] | **5** | 2 | ![][flag_US] R Y A N | <!-- match link lost --> |
 | **Darin on osu** ![][flag_US] | **5** | 3 | ![][flag_US] Kenny | <!-- match link lost --> |
@@ -312,9 +312,9 @@ The bracket was cut off early due to time concerns, so later matches switched to
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Riku on osu | Forfeit |
+| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Riku on osu | *forfeit* |
 | **Giraffle** ![][flag_US] | **3** | 2 | ![][flag_US] MintyYumi | <!-- match link lost --> |
-| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Giraffle | Forfeit |
+| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Giraffle | *forfeit* |
 
 #### Round of 6
 

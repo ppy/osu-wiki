@@ -399,7 +399,7 @@ Saturday, 15 September 2018:
 | F | **dracoV** ![][flag_FR] | **3** | 1 | ![][flag_FR] Iyorin | [#1](https://osu.ppy.sh/community/matches/45974609) |
 | F | **Iyorin** ![][flag_FR] | **3** | 0 | ![][flag_FR] tutiflo | *win by default* |
 | A | Chernobog ![][flag_FR] | 1 | **3** | ![][flag_FR] **SkaylleexSamaFR** | [#1](https://osu.ppy.sh/community/matches/45977124) |
-| G | GyraFanBoy ![][flag_FR] | 0 | 0 | ![][flag_MA] l3ssili | -nullified- |
+| G | GyraFanBoy ![][flag_FR] | 0 | 0 | ![][flag_MA] l3ssili | *nullified* |
 | G | -\[Smoked\]- ![][flag_FR] | 0 | **3** | ![][flag_FR] **Libegon** | [#1](https://osu.ppy.sh/community/matches/45978410) |
 | G | **Libegon** ![][flag_FR] | **3** | 0 | ![][flag_FR] GyraFanBoy | *win by default* |
 | G | l3ssili ![][flag_MA] | 0 | **3** | ![][flag_FR] -\[Smoked\]- | *win by default* |

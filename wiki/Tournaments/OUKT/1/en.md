@@ -211,7 +211,7 @@ Saturday, 4 January 2014
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] Deathosaurus | |
-| ILikeMudkipz ![][flag_GB] | 0 | **1** | ![][flag_GB] **R a h a r u** | Forfeit |
+| ILikeMudkipz ![][flag_GB] | 0 | **1** | ![][flag_GB] **R a h a r u** | *forfeit* |
 
 ### Quaterfinals
 
@@ -220,7 +220,7 @@ Saturday, 21 December 2013
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **4** | 2 | ![][flag_GB] vidya | |
-| **Deathosaurus** ![][flag_GB] | **3** | 1 | ![][flag_GB] Starry- | Forfeit (physical problems) |
+| **Deathosaurus** ![][flag_GB] | **3** | 1 | ![][flag_GB] Starry- | *forfeit (physical problems)* |
 | **ILikeMudkipz** ![][flag_GB] | **4** | 2 | ![][flag_GB] Viremon | |
 | **R a h a r u** ![][flag_GB] | **4** | 2 | ![][flag_GB] PortalLife | |
 
@@ -232,11 +232,11 @@ Saturday, 14 December 2013
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Raiku | |
 | destructor966 ![][flag_GB] | 0 | **3** | ![][flag_GB] **vidya** | |
-| jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Deathosaurus** | Forfeit |
+| jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Deathosaurus** | *forfeit* |
 | **Starry-** ![][flag_GB] | **3** | 1 | ![][flag_GB] \[Transcendence\] | |
-| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] Slvin | Forfeit |
+| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] Slvin | *forfeit* |
 | Cozzzy ![][flag_GB] | 2 | **3** | ![][flag_GB] **Viremon** | |
-| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] Nyaristoru | Forfeit |
+| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] Nyaristoru | *forfeit* |
 | Navi ![][flag_GB] | 2 | **3** | ![][flag_GB] **PortalLife** | |
 
 ### Round of 32
@@ -247,16 +247,16 @@ Saturday, 7 December 2013
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Zarfots | |
 | **Raiku** ![][flag_GB] | **3** | 1 | ![][flag_GB] Mahiro Yasaka | |
-| Charleyzard ![][flag_GB] | 0 | **1** | ![][flag_GB] **destructor966** | Forfeit |
+| Charleyzard ![][flag_GB] | 0 | **1** | ![][flag_GB] **destructor966** | *forfeit* |
 | **vidya** ![][flag_GB] | **3** | 0 | ![][flag_GB] Just miku | |
 | **jesus1412** ![][flag_GB] | **3** | 0 | ![][flag_GB] EzLyn | |
 | **Deathosaurus** ![][flag_GB] | **3** | 0 | ![][flag_GB] Aaruen | |
-| **Starry-** ![][flag_GB] | **1** | 0 | ![][flag_GB] 3lliot | Forfeit |
+| **Starry-** ![][flag_GB] | **1** | 0 | ![][flag_GB] 3lliot | *forfeit* |
 | **\[Transcendence\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] scouttt | |
-| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] ItzDom | Forfeit |
+| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] ItzDom | *forfeit* |
 | **Slvin** ![][flag_GB] | **3** | 2 | ![][flag_GB] Snookie | |
 | **Cozzzy** ![][flag_GB] | **3** | 0 | ![][flag_GB] Yoishi | |
-| bubby963 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Viremon** | Forfeit |
+| bubby963 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Viremon** | *forfeit* |
 | **R a h a r u** ![][flag_GB] | **3** | 0 | ![][flag_GB] Tekklorn | |
 | Kardet ![][flag_GB] | 2 | **3** | ![][flag_GB] **Nyaristoru** | |
 | **Navi** ![][flag_GB] | **3** | 0 | ![][flag_GB] Riari | |

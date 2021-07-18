@@ -383,7 +383,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Monday, 2019-05-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| WubWoofWolf ![][flag_PL] | 0 | **7** | ![][flag_HK] **DenierNezzar** | -win by default- |
+| WubWoofWolf ![][flag_PL] | 0 | **7** | ![][flag_HK] **DenierNezzar** | *win by default* |
 
 ### Semifinals
 
@@ -400,7 +400,7 @@ This competition has come to an end and resulted in the following podium:
 | --: | :-: | :-: | :-- | :-- |
 | DigitalHypno ![][flag_US] | 0 | **6** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51170756) |
 | **idke** ![][flag_US] | **6** | 1 | ![][flag_HK] DenierNezzar | [#1](https://osu.ppy.sh/community/matches/51172579) |
-| WalkingTuna ![][flag_KR] | 0 | **6** | ![][flag_FR] **Musty** | -win by default- |
+| WalkingTuna ![][flag_KR] | 0 | **6** | ![][flag_FR] **Musty** | *win by default* |
 | Apraxia ![][flag_US] | 2 | **6** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51193033) |
 
 | Wednesday, 2019-04-24 |  |  |  |  |
@@ -416,18 +416,18 @@ This competition has come to an end and resulted in the following podium:
 | Saturday, 2019-04-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Apraxia** ![][flag_US] | **6** | 3 | ![][flag_RO] Chamosiala | [#1](https://osu.ppy.sh/community/matches/50972880) |
-| trev rasher ![][flag_CA] | 0 | **6** | ![][flag_PL] **Mastasz** | -win by default- |
-| **Doomsday** ![][flag_GB] | **6** | 0 | ![][flag_RU] Aden | -win by default- |
+| trev rasher ![][flag_CA] | 0 | **6** | ![][flag_PL] **Mastasz** | *win by default* |
+| **Doomsday** ![][flag_GB] | **6** | 0 | ![][flag_RU] Aden | *win by default* |
 | **Vaxei** ![][flag_US] | **6** | 4 | ![][flag_DE] Dustice | [#1](https://osu.ppy.sh/community/matches/50976614) |
 | **-Roxas** ![][flag_GB] | **6** | 4 | ![][flag_IL] Xilver15 | [#1](https://osu.ppy.sh/community/matches/50978684) |
-| **MrBooM** ![][flag_PL] | **6** | 0 | ![][flag_FR] ThePooN | -win by default- |
-| **RyuK** ![][flag_CA] | **6** | 0 | ![][flag_SG] Demonical | -win by default- |
+| **MrBooM** ![][flag_PL] | **6** | 0 | ![][flag_FR] ThePooN | *win by default* |
+| **RyuK** ![][flag_CA] | **6** | 0 | ![][flag_SG] Demonical | *win by default* |
 
 | Sunday, 2019-04-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | DigitalHypno ![][flag_US] | 2 | **6** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50997691) |
 | -raizen- ![][flag_FR] | 1 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50999328) |
-| RyuK ![][flag_CA] | 0 | **6** | ![][flag_PL] **MrBooM** | -win by default- |
+| RyuK ![][flag_CA] | 0 | **6** | ![][flag_PL] **MrBooM** | *win by default* |
 | **Vaxei** ![][flag_US] | **6** | 0 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/community/matches/51004005) |
 | Musty ![][flag_FR] | 0 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/51005874) |
 | **idke** ![][flag_US] | **6** | 0 | ![][flag_IT] Koba | [#1](https://osu.ppy.sh/community/matches/51007580) |
@@ -477,7 +477,7 @@ This competition has come to an end and resulted in the following podium:
 | **Dustice** ![][flag_DE] | **5** | 3 | ![][flag_JP] Varvalian | [#1](https://osu.ppy.sh/community/matches/50832025) |
 | -Syncro ![][flag_IT] | 1 | **5** | ![][flag_IL] **Xilver15** | [#1](https://osu.ppy.sh/community/matches/50835257) |
 | Rafis ![][flag_PL] | 2 | **5** | ![][flag_RU] **Aden** | [#1](https://osu.ppy.sh/community/matches/50835231) |
-| he rack ![][flag_US] | 0 | **5** | ![][flag_FR] **NerO** | -win by default- |
+| he rack ![][flag_US] | 0 | **5** | ![][flag_FR] **NerO** | *win by default* |
 | **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_CA] trev rasher | [#1](https://osu.ppy.sh/community/matches/50838578) |
 | Viveliam ![][flag_NL] | 4 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50838354) |
 | **idke** ![][flag_US] | **5** | 0 | ![][flag_FR] -raizen- | [#1](https://osu.ppy.sh/community/matches/50839786) |
@@ -501,14 +501,14 @@ This competition has come to an end and resulted in the following podium:
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_SG] Demonical | [#1](https://osu.ppy.sh/community/matches/50636598) |
 | **FlyingTuna** ![][flag_KR] | **5** | 1 | ![][flag_US] fieryrage | [#1](https://osu.ppy.sh/community/matches/50638810) |
-| **Riven** ![][flag_GR] | **5** | 0 | ![][flag_GB] TopSp1n | -win by default- |
+| **Riven** ![][flag_GR] | **5** | 0 | ![][flag_GB] TopSp1n | *win by default* |
 | Dumii ![][flag_AU] | 1 | **5** | ![][flag_PL] **MrBooM** | [#1](https://osu.ppy.sh/community/matches/50638368) |
-| Tj7223 ![][flag_US] | 0 | **5** | ![][flag_ID] **Skydiver** | -win by default- |
+| Tj7223 ![][flag_US] | 0 | **5** | ![][flag_ID] **Skydiver** | *win by default* |
 | **DigitalHypno** ![][flag_US] | **5** | 3 | ![][flag_RO] Chamosiala | [#1](https://osu.ppy.sh/community/matches/50641877) |
 | waywern2012 ![][flag_LV] | 1 | **5** | ![][flag_NL] **Viveliam** | [#1](https://osu.ppy.sh/community/matches/50641450) |
 | Dustice ![][flag_DE] | 1 | **5** | ![][flag_GB] **-Roxas** | [#1](https://osu.ppy.sh/community/matches/50643326) |
 | **AstroFP** ![][flag_PL] | **5** | 2 | ![][flag_US] Fangzy | [#1](https://osu.ppy.sh/community/matches/50645122) |
-| **BeasttrollMC** ![][flag_US] | **5** | 0 | ![][flag_PL] Piggey | -win by default- |
+| **BeasttrollMC** ![][flag_US] | **5** | 0 | ![][flag_PL] Piggey | *win by default* |
 | **RyuK** ![][flag_CA] | **5** | 2 | ![][flag_PL] Mastasz | [#1](https://osu.ppy.sh/community/matches/50648948) |
 | **Doomsday** ![][flag_GB] | **5** | 1 | ![][flag_US] he rack | [#1](https://osu.ppy.sh/community/matches/50649378) |
 
@@ -520,14 +520,14 @@ This competition has come to an end and resulted in the following podium:
 | **Rampax** ![][flag_MY] | **5** | 3 | ![][flag_US] Woey | [#1](https://osu.ppy.sh/community/matches/50657765) |
 | ThePooN ![][flag_FR] | 3 | **5** | ![][flag_FR] **Musty** | [#1](https://osu.ppy.sh/community/matches/50664847) |
 | **Wakson** ![][flag_PL] | **5** | 3 | ![][flag_PL] Wilchq | [#1](https://osu.ppy.sh/community/matches/50666355) |
-| Aden ![][flag_RU] | 0 | **5** | ![][flag_FR] **-raizen-** | -win by default- |
+| Aden ![][flag_RU] | 0 | **5** | ![][flag_FR] **-raizen-** | *win by default* |
 | **Vaxei** ![][flag_US] | **5** | 2 | ![][flag_IT] -Syncro | [#1](https://osu.ppy.sh/community/matches/50669935) |
 | GranDSenpai ![][flag_AU] | 3 | **5** | ![][flag_PR] **Unexpected** | [#1](https://osu.ppy.sh/community/matches/50672427) |
 | Andros ![][flag_MX] | 0 | **5** | ![][flag_NL] **GladiOol** | [#1](https://osu.ppy.sh/community/matches/50672903) |
 | **Reedkatt** ![][flag_SE] | **5** | 1 | ![][flag_US] Cappy | [#1](https://osu.ppy.sh/community/matches/50673816) |
 | **idke** ![][flag_US] | **5** | 3 | ![][flag_PL] Rafis | [#1](https://osu.ppy.sh/community/matches/50675420) |
 | **\_demo** ![][flag_PL] | **5** | 2 | ![][flag_DE] imagaK | [#1](https://osu.ppy.sh/community/matches/50673947) |
-| **Lilily** ![][flag_NL] | **5** | 0 | ![][flag_US] Im a fancy lad | -win by default- |
+| **Lilily** ![][flag_NL] | **5** | 0 | ![][flag_US] Im a fancy lad | *win by default* |
 | **lain** ![][flag_US] | **5** | 2 | ![][flag_US] kablaze | [#1](https://osu.ppy.sh/community/matches/50678470) |
 
 | Monday, 2019-04-01 |  |  |  |  |
@@ -553,11 +553,11 @@ This competition has come to an end and resulted in the following podium:
 | **WalkingTuna** ![][flag_KR] | **4** | 1 | ![][flag_MX] Andros | [#1](https://osu.ppy.sh/community/matches/50468498) |
 | **idke** ![][flag_US] | **4** | 1 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/community/matches/50468362) |
 | **Varvalian** ![][flag_JP] | **4** | 2 | ![][flag_PL] AstroFP | [#1](https://osu.ppy.sh/community/matches/50470038) |
-| kablaze ![][flag_US] | 0 | 4 | ![][flag_KR] **Ansol** | -win by default- |
+| kablaze ![][flag_US] | 0 | 4 | ![][flag_KR] **Ansol** | *win by default* |
 | NerO ![][flag_FR] | 3 | **4** | ![][flag_PL] **Mastasz** | [#1](https://osu.ppy.sh/community/matches/50473464) |
 | **-Roxas** ![][flag_GB] | 4 | 0 | ![][flag_DE] imagaK | [#1](https://osu.ppy.sh/community/matches/50473547) |
 | **Chamosiala** ![][flag_RO] | **4** | 3 | ![][flag_ID] Skydiver | [#1](https://osu.ppy.sh/community/matches/50474450) |
-| Mathyu ![][flag_US] | 0 | **4** | ![][flag_SG] **Demonical** | -win by default- |
+| Mathyu ![][flag_US] | 0 | **4** | ![][flag_SG] **Demonical** | *win by default* |
 | Wilchq ![][flag_PL] | 1 | **4** | ![][flag_US] **he rack** | [#1](https://osu.ppy.sh/community/matches/50476036) |
 | BeasttrollMC ![][flag_US] | 1 | **4** | ![][flag_RU] **Aden** | [#1](https://osu.ppy.sh/community/matches/50476954) |
 | **MrBooM** ![][flag_PL] | **4** | 2 | ![][flag_US] Im a fancy lad | [#1](https://osu.ppy.sh/community/matches/50477325) |

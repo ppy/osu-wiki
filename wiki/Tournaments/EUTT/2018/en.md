@@ -299,7 +299,7 @@ Saturday, 17 November 2018:
 | Horiiizon ![][flag_GB] | 1 | **5** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/47489874) |
 | **lukili846** ![][flag_DE] | **5** | 0 | ![][flag_AT] animexamera | [#1](https://osu.ppy.sh/community/matches/47496896) |
 | **Acrith** ![][flag_PL] | **5** | 4 | ![][flag_RU] Naninub | [#1](https://osu.ppy.sh/community/matches/47492274) |
-| Oui ![][flag_CH] | 0 | 0 | ![][flag_GB] Teezel | -nullified- |
+| Oui ![][flag_CH] | 0 | 0 | ![][flag_GB] Teezel | *nullified* |
 | **DayzeekFeed** ![][flag_RU] | **5** | 0 | ![][flag_FR] Chernobog | [#1](https://osu.ppy.sh/community/matches/47497153) |
 | Don Omar ![][flag_UA] | 0 | **5** | ![][flag_PL] **\_SC0RP10N** | *win by default* |
 | **Lno** ![][flag_GB] | **5** | 1 | ![][flag_GB] Grimbow | [#1](https://osu.ppy.sh/community/matches/47493556) |

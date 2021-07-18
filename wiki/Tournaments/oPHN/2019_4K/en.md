@@ -238,10 +238,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | **Koibenii** | **5** | 0 | bananacake304 | [#1](https://osu.ppy.sh/community/matches/52661333) |
 | **GTXCZE** | **5** | 0 | bananacake304 | [#1](https://osu.ppy.sh/community/matches/52661967) |
 | Silhoueska Elze | 2 | **5** | **Koibenii** | [#1](https://osu.ppy.sh/community/matches/52662954) |
-| **- Kura -** | **5** | 0 | Swarmsii | -win by default- |
+| **- Kura -** | **5** | 0 | Swarmsii | *win by default* |
 | **Koibenii** | **5** | 4 | GTXCZE | [#1](https://osu.ppy.sh/community/matches/52664687) |
-| **nathan on mania** | **5** | 0 | Chez | -win by default- |
-| **nathan on mania** | **5** | 0 | Lordie09 | -win by default- |
+| **nathan on mania** | **5** | 0 | Chez | *win by default* |
+| **nathan on mania** | **5** | 0 | Lordie09 | *win by default* |
 
 ### Play-offs
 
@@ -249,7 +249,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Friday, 2019-06-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| notapplicable | 0 | **4** | **vincent4399** | -win by default- |
+| notapplicable | 0 | **4** | **vincent4399** | *win by default* |
 | **Lordie09** | **4** | 2 | MiekoYanagi | [#1](https://osu.ppy.sh/community/matches/52429092) |
 
 | Saturday, 2019-06-08 |  |  |  |  |
@@ -265,9 +265,9 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Sunday, 2019-06-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Captain Cusheen | 0 | **4** | **PotatoPresser** | -win by default- |
+| Captain Cusheen | 0 | **4** | **PotatoPresser** | *win by default* |
 | **Arccat** | **4** | 0 | Hues | [#1](https://osu.ppy.sh/community/matches/52479270) |
-| Nikana | 0 | **4** | **Chez** | -win by default- |
+| Nikana | 0 | **4** | **Chez** | *win by default* |
 | **Swarmsii** | **4** | 0 | pumpiyumpiyummm | [#1](https://osu.ppy.sh/community/matches/52482377) |
 | **nathan on mania** | **4** | 0 | Chiaki-chan | [#1](https://osu.ppy.sh/community/matches/52483191) |
 | **bananacake304** | **4** | 2 | kraken_33 | [#1](https://osu.ppy.sh/community/matches/52484174) |

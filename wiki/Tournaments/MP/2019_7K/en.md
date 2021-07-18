@@ -231,7 +231,7 @@ Saturday, 14 December 2019:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | capsafangirl ![][flag_PL] | 1 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56964079) |
-| **- gero -** ![][flag_PL] | **6** | 0 | ![][flag_PL] Kamikaze | *-win by default-* |
+| **- gero -** ![][flag_PL] | **6** | 0 | ![][flag_PL] Kamikaze | *win by default* |
 
 ### Semifinals
 
@@ -329,14 +329,14 @@ Saturday, 16 November 2019:
 | **PanzerRaymanPL** ![][flag_PL] | **4** | 2 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56298736) |
 | **Brunwald_1410** ![][flag_PL] | **4** | 2 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56301272) |
 | **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] jasionnn | [#1](https://osu.ppy.sh/community/matches/56304660) |
-| **Kamikaze** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *-win by default-* |
+| **Kamikaze** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *win by default* |
 | **Lorwick** ![][flag_PL] | **4** | 2 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56307590) |
 | Lorwick ![][flag_PL] | 2 | **4** | ![][flag_PL] **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56308924) |
 | **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] PoweR_LendzeR | [#1](https://osu.ppy.sh/community/matches/56310378) |
 | **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56311969) |
-| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *-win by default-* |
+| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *win by default* |
 | **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56314551) |
-| **Justin14p** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *-win by default-* |
+| **Justin14p** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *win by default* |
 
 Sunday, 17 November 2019:
 
@@ -344,15 +344,15 @@ Sunday, 17 November 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **PanzerRaymanPL** ![][flag_PL] | **4** | 1 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56329960) |
 | **Alicejoy** ![][flag_PL] | **4** | 3 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56330729) |
-| Brunwald_1410 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Miq** | *-win by default-* |
+| Brunwald_1410 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Miq** | *win by default* |
 | Miq ![][flag_PL] | 3 | **4** | ![][flag_PL] **Yamakazi** | [#1](https://osu.ppy.sh/community/matches/56332431) |
 | **-Maus-** ![][flag_PL] | **4** | 1 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56339116) |
 | **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56339376) |
 | jasionnn ![][flag_PL] | 2 | **4** | ![][flag_PL] **AgregaTxD** | [#1](https://osu.ppy.sh/community/matches/56337840) |
 | **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56335633) |
 | **Kamikaze** ![][flag_PL] | **4** | 1 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56333440) |
-| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *-win by default-* |
-| PoweR_LendzeR ![][flag_PL] | 0 | **4** | ![][flag_PL] **capsafangirl** | *-win by default-* |
+| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *win by default* |
+| PoweR_LendzeR ![][flag_PL] | 0 | **4** | ![][flag_PL] **capsafangirl** | *win by default* |
 
 ### Qualifiers
 

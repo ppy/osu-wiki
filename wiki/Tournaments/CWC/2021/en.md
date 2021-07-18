@@ -358,7 +358,7 @@ Sunday, 2 May 2021:
 | **Australia** ![][flag_AU] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/82320856) |
 | **Chile** ![][flag_CL] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/82321603) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/82324577) |
-| **China** ![][flag_CN] | **5** | 0 | ![][flag_PE] Peru | -win by default- |
+| **China** ![][flag_CN] | **5** | 0 | ![][flag_PE] Peru | *win by default* |
 | **Philippines** ![][flag_PH] | **5** | 3 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/82347121) |
 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/82348927) |
 | **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/82351036) |

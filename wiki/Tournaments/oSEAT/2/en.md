@@ -605,7 +605,7 @@ Sunday, 9 December 2018:
 | Demonical ![][flag_ID] | 3 | **5** | ![][flag_SG] **Rtzero** | [#1](https://osu.ppy.sh/community/matches/47989974) |
 | **Applause** ![][flag_TH] | **5** | 0 | ![][flag_ID] ELNabhan | *win by default* |
 | **- Phantasma -** ![][flag_TH] | **5** | 3 | ![][flag_PH] fixedbyglue | [#1](https://osu.ppy.sh/community/matches/47990017) |
-| **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_ID] Evanescent- | -win bydefault- |
+| **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_ID] Evanescent- | *win by default* |
 | **dika312** ![][flag_ID] | **5** | 0 | ![][flag_MY] squidstain | [#1](https://osu.ppy.sh/community/matches/47991316) |
 | tjangjoet ![][flag_ID] | 0 | **5** | ![][flag_SG] **Loslite** | *win by default* |
 | **GSBlank** ![][flag_SG] | **5** | 1 | ![][flag_VN] Portador0409 | [#1](https://osu.ppy.sh/community/matches/47991196) |

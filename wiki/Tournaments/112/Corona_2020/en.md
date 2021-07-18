@@ -269,7 +269,7 @@ Sunday, 3 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Team Big Chungus | 0 | **1** | **SARS-CoV-3** | *-win by default-* |
+| Team Big Chungus | 0 | **1** | **SARS-CoV-3** | *win by default* |
 | **ali vefa fanclub** | **6** | 3 | isim bulamadık | [#1](https://osu.ppy.sh/community/matches/61222339) |
 | **NEŞESİNE YAŞAM** | **6** | 1 | 1.yiz kasmayın | [#1](https://osu.ppy.sh/community/matches/61218558) |
 
@@ -292,7 +292,7 @@ Sunday, 26 April 2020:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SARS-CoV-3** | **5** | 3 | i may be stupid | [#1](https://osu.ppy.sh/community/matches/60915278) |
-| yoo biz 1.yiz | 0 | **1** | **kms** | *-win by default-* |
+| yoo biz 1.yiz | 0 | **1** | **kms** | *win by default* |
 | **ali vefa fanclub** | **5** | 2 | 1.yiz kasmayın | [#1](https://osu.ppy.sh/community/matches/60921181) |
 
 Saturday, 2 May 2020:

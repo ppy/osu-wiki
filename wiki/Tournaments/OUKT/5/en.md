@@ -328,7 +328,7 @@ Saturday, 31 October 2015 & Sunday, 1 November 2015
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
 | WBF | kakiage ![][flag_GB] | 2 | **6** | ![][flag_GB] **bahamete** | |
-| LR4 | **Cozzzy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Jameslike | Forfeit |
+| LR4 | **Cozzzy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Jameslike | *forfeit* |
 | LR4 | **Doomsday** ![][flag_GB] | **5** | 1 | ![][flag_GB] Bubbleman | |
 
 ### Semifinals & Losers Bracket 3
@@ -355,7 +355,7 @@ Saturday, 17 October 2015 & Sunday, 18 October 2015
 | LR2 | Castiel ![][flag_GB] | 3 | **5** | ![][flag_GB] **Jameslike** | |
 | LR2 | ariflare ![][flag_GB] | 2 | **5** | ![][flag_GB] Kardet | |
 | LR2 | Run-Cat ![][flag_GB] | 2 | **5** | ![][flag_GB] **Bubbleman** | |
-| LR2 | Volcanism ![][flag_GB] | 0 | **1** | ![][flag_GB] **Helix** | Forfeit |
+| LR2 | Volcanism ![][flag_GB] | 0 | **1** | ![][flag_GB] **Helix** | *forfeit* |
 
 ### Round of 16 & Losers Round 1
 
@@ -364,17 +364,17 @@ Saturday, 10 October 2015 & Sunday, 11 October 2015
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
 | RO16 | **Volcanism** ![][flag_GB] | **4** | 2 | ![][flag_GB] DivineAscension | |
-| RO16 | Jameslike ![][flag_GB] | 0 | **1** | ![][flag_GB] **Cozzzy** | Forfeit |
+| RO16 | Jameslike ![][flag_GB] | 0 | **1** | ![][flag_GB] **Cozzzy** | *forfeit* |
 | RO16 | Kardet ![][flag_GB] | 2 | **4** | ![][flag_GB] **Run-Cat** | |
-| RO16 | **Kakiage** ![][flag_GB] | **1** | 0 | ![][flag_GB] L britt | Forfeit |
+| RO16 | **Kakiage** ![][flag_GB] | **1** | 0 | ![][flag_GB] L britt | *forfeit* |
 | RO16 | **bahamete** ![][flag_GB] | **4** | 3 | ![][flag_GB] Bubbleman | |
-| RO16 | Sway ![][flag_GB] | 0 | **1** | ![][flag_GB] **ariflare** | Forfeit |
+| RO16 | Sway ![][flag_GB] | 0 | **1** | ![][flag_GB] **ariflare** | *forfeit* |
 | RO16 | **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] Helix | |
-| RO16 | Sniperhappy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Castiel** | Forfeit |
+| RO16 | Sniperhappy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Castiel** | *forfeit* |
 | LR1 | DivineAscension ![][flag_GB] | 0 | **4** | ![][flag_GB] Jameslike | |
-| LR1 | **Kardet** ![][flag_GB] | **1** | 0 | ![][flag_GB] L britt | Forfeit |
-| LR1 | **Bubbleman** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sway | Forfeit |
-| LR1 | **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sniperhappy | Forfeit |
+| LR1 | **Kardet** ![][flag_GB] | **1** | 0 | ![][flag_GB] L britt | *forfeit* |
+| LR1 | **Bubbleman** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sway | *forfeit* |
+| LR1 | **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sniperhappy | *forfeit* |
 
 ### Round of 32 (Group Stage)
 
@@ -414,7 +414,7 @@ Saturday, 26 September 2015 & Sunday, 27 September 2015
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| SF1 | Jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Kakiage** | Forfeit |
+| SF1 | Jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Kakiage** | *forfeit* |
 | SF2 | MrSisterFister ![][flag_GB] | 2 | **3** | ![][flag_GB] **Helix** | |
 | WBF | **Kakiage** ![][flag_GB] | **3** | 2 | ![][flag_GB] Helix | |
 | LR1 | **Jesus1412** ![][flag_GB] | **3** | 1 | ![][flag_GB] MrSisterFister | |
@@ -424,11 +424,11 @@ Saturday, 26 September 2015 & Sunday, 27 September 2015
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| SF1 | \[AOTN\] ![][flag_GB] | 0 | **1** | ![][flag_GB] **Sniperhappy** | Forfeit |
-| SF2 | Bradley ![][flag_GB] | 0 | **1** | ![][flag_GB] **L britt** | Forfeit |
+| SF1 | \[AOTN\] ![][flag_GB] | 0 | **1** | ![][flag_GB] **Sniperhappy** | *forfeit* |
+| SF2 | Bradley ![][flag_GB] | 0 | **1** | ![][flag_GB] **L britt** | *forfeit* |
 | WBF | **Sniperhappy** ![][flag_GB] | **3** | 1 | ![][flag_GB] L britt | |
-| LR1 | \[AOTN\] ![][flag_GB] | 0 | 0 | ![][flag_GB] Bradley | Both Forfeit |
-| LR2 | **L britt** ![][flag_GB] | **1** | 0 | ![][flag_GB] Bradley | Forfeit |
+| LR1 | \[AOTN\] ![][flag_GB] | 0 | 0 | ![][flag_GB] Bradley | *both forfeit* |
+| LR2 | **L britt** ![][flag_GB] | **1** | 0 | ![][flag_GB] Bradley | *forfeit* |
 
 #### Group F
 
@@ -447,17 +447,17 @@ Saturday, 26 September 2015 & Sunday, 27 September 2015
 | SF1 | Rotom ![][flag_GB] | 1 | **3** | ![][flag_GB] **Volcanism** | |
 | SF2 | Moose ![][flag_GB] | 0 | **3** | ![][flag_GB] **DivineAscension** | |
 | WBF | **Volcanism** ![][flag_GB] | **3** | 1 | ![][flag_GB] DivineAscension | |
-| LR1 | Rotom ![][flag_GB] | 0 | **1** | ![][flag_GB] **Moose** | Forfeit |
+| LR1 | Rotom ![][flag_GB] | 0 | **1** | ![][flag_GB] **Moose** | *forfeit* |
 | LR2 | **DivineAscension** ![][flag_GB] | **3** | 1 | ![][flag_GB] Moose | |
 
 #### Group H
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| SF1 | **Castiel** ![][flag_GB] | **1** | 0 | ![][flag_GB] Edd | Forfeit |
+| SF1 | **Castiel** ![][flag_GB] | **1** | 0 | ![][flag_GB] Edd | *forfeit* |
 | SF2 | **Kardet** ![][flag_GB] | **3** | 1 | ![][flag_GB] Ecliptus | |
 | WBF | Castiel ![][flag_GB] | 2 | **3** | ![][flag_GB] **Kardet** | |
-| LR1 | Edd ![][flag_GB] | 0 | **1** | ![][flag_GB] **Ecliptus** | Forfeit |
+| LR1 | Edd ![][flag_GB] | 0 | **1** | ![][flag_GB] **Ecliptus** | *forfeit* |
 | LR2 | **Castiel** ![][flag_GB] | **3** | 0 | ![][flag_GB] Ecliptus | |
 
 ### Round of 64
@@ -468,13 +468,13 @@ Saturday, 19 September 2015 & Sunday, 20 September 2015
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **3** | 2 | ![][flag_GB] Jimbot | |
 | shivo ![][flag_GB] | 0 | **3** | ![][flag_GB] **Kakiage** | |
-| Jimzzyyy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Sniperhappy** | Forfeit |
+| Jimzzyyy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Sniperhappy** | *forfeit* |
 | 001thefish ![][flag_GB] | 0 | **3** | ![][flag_GB] **Sam** | |
 | **Bradley** ![][flag_GB] | **3** | 2 | ![][flag_GB] ShadowBea5t | |
 | Suzumiya-H ![][flag_GB] | 1 | **3** | ![][flag_GB] **Volcanism** | |
 | **Ecliptus** ![][flag_GB] | **3** | 0 | ![][flag_GB] \[ Emperor \] | |
 | **ariflare** ![][flag_GB] | **3** | 0 | ![][flag_GB] orbin nyanpasu | |
-| **\[AOTN\]** ![][flag_GB] | **1** | 0 | ![][flag_GB] Zafkiel | Forfeit |
+| **\[AOTN\]** ![][flag_GB] | **1** | 0 | ![][flag_GB] Zafkiel | *forfeit* |
 | **L britt** ![][flag_GB] | **3** | 2 | ![][flag_GB] Jerome | |
 | Misti ![][flag_GB] | 2 | **3** | ![][flag_GB] **Cozzzy** | |
 | **\[CloudSerpent\]** ![][flag_GB] | **3** | 1 | ![][flag_GB] -MoeYandere- | |
@@ -484,14 +484,14 @@ Saturday, 19 September 2015 & Sunday, 20 September 2015
 | **Rotom** ![][flag_GB] | **3** | 2 | ![][flag_GB] lovu | |
 | **Jameslike** ![][flag_GB] | **3** | 0 | ![][flag_GB] The Fetish | |
 | **Snookie** ![][flag_GB] | **3** | 1 | ![][flag_GB] Xim | |
-| **Mahiro Yasaka** ![][flag_GB] | **1** | 0 | ![][flag_GB] Wookiezi | Forfeit |
-| **Blind** ![][flag_GB] | **1** | 0 | ![][flag_GB] Could This Be | Forfeit |
+| **Mahiro Yasaka** ![][flag_GB] | **1** | 0 | ![][flag_GB] Wookiezi | *forfeit* |
+| **Blind** ![][flag_GB] | **1** | 0 | ![][flag_GB] Could This Be | *forfeit* |
 | **MrSisterFister** ![][flag_GB] | **3** | 0 | ![][flag_GB] adam2keva9 | |
 | **Edd** ![][flag_GB] | **3** | 1 | ![][flag_GB] Boisty | |
 | **Helix** ![][flag_GB] | **3** | 1 | ![][flag_GB] Laplace | |
-| Dream. ![][flag_GB] | 0 | **1** | ![][flag_GB] **Jesus1412** | Forfeit |
+| Dream. ![][flag_GB] | 0 | **1** | ![][flag_GB] **Jesus1412** | *forfeit* |
 | **Castiel** ![][flag_GB] | **3** | 2 | ![][flag_GB] Scootawoo | |
-| YunoWhoItIs ![][flag_GB] | 0 | **1** | ![][flag_GB] Rime | Forfeit |
+| YunoWhoItIs ![][flag_GB] | 0 | **1** | ![][flag_GB] Rime | *forfeit* |
 | **Bubbleman** ![][flag_GB] | **3** | 2 | ![][flag_GB] Double Time | |
 | IEatCookies ![][flag_GB] | 2 | **3** | ![][flag_GB] **Kardet** | |
 | **R a h a r u** ![][flag_GB] | **3** | 1 | ![][flag_GB] Jeanzy | |
@@ -510,19 +510,19 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 | **shivo** ![][flag_GB] | **3** | 0 | ![][flag_GB] Hydria | |
 | casmith789 ![][flag_GB] | 2 | **3** | ![][flag_GB] **Kakiage** | |
 | **Jimzzyyy** ![][flag_GB] | **3** | 1 | ![][flag_GB] yamikarasu | |
-| **Sniperhappy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Tune | Forfeit |
+| **Sniperhappy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Tune | *forfeit* |
 | -Panda- ![][flag_GB] | 0 | **3** | ![][flag_GB] **001thefish** | |
 | ItsTrydamere ![][flag_GB] | 1 | **3** | ![][flag_GB] **Sam** | |
-| **Bradley** ![][flag_GB] | **1** | 0 | ![][flag_GB] Rubix | Forfeit |
+| **Bradley** ![][flag_GB] | **1** | 0 | ![][flag_GB] Rubix | *forfeit* |
 | **ShadowBea5t** ![][flag_GB] | **3** | 0 | ![][flag_GB] koiishi | |
 | Cheesecake ![][flag_GB] | 1 | **3** | ![][flag_GB] **Suzumiya-H** | |
-| DeviousPanda ![][flag_GB] | 0 | **1** | ![][flag_GB] **Volcanism** | Forfeit |
-| **Ecliptus** ![][flag_GB] | **1** | 0 | ![][flag_GB] Cornfield | Forfeit |
-| Shunix ![][flag_GB] | 0 | **1** | ![][flag_GB] **\[ Emperor \]** | Forfeit |
+| DeviousPanda ![][flag_GB] | 0 | **1** | ![][flag_GB] **Volcanism** | *forfeit* |
+| **Ecliptus** ![][flag_GB] | **1** | 0 | ![][flag_GB] Cornfield | *forfeit* |
+| Shunix ![][flag_GB] | 0 | **1** | ![][flag_GB] **\[ Emperor \]** | *forfeit* |
 | **ariflare** ![][flag_GB] | **3** | 1 | ![][flag_GB] Syrus | |
-| **orbin nyanpasu** ![][flag_GB] | **1** | 0 | ![][flag_GB] Im not Green | Forfeit |
+| **orbin nyanpasu** ![][flag_GB] | **1** | 0 | ![][flag_GB] Im not Green | *forfeit* |
 | **\[AOTN\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] Corey-Kun | |
-| dagothur13 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Zafkiel** | Forfeit |
+| dagothur13 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Zafkiel** | *forfeit* |
 | **L britt** ![][flag_GB] | **3** | 0 | ![][flag_GB] Vapor | |
 | Rolf Harris ![][flag_GB] | 1 | **3** | ![][flag_GB] **Jerome** | |
 | **Misti** ![][flag_GB] | **3** | 1 | ![][flag_GB] samlu1999 | |
@@ -531,7 +531,7 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 | -Day ![][flag_GB] | 1 | **3** | ![][flag_GB] **-MoeYandere-** | |
 | **Moose** ![][flag_GB] | **3** | 0 | ![][flag_GB] Epicbearddarf | |
 | Zweihander- ![][flag_GB] | 1 | **3** | ![][flag_GB] **Hype** | |
-| **Velocimactor** ![][flag_GB] | **1** | 0 | ![][flag_GB] Adie | Forfeit |
+| **Velocimactor** ![][flag_GB] | **1** | 0 | ![][flag_GB] Adie | *forfeit* |
 | Netherax ![][flag_GB] | 1 | **3** | ![][flag_GB] **Ascension** | |
 | **Run-Cat** ![][flag_GB] | **3** | 0 | ![][flag_GB] Yusomi | |
 | Subsonix ![][flag_GB] | 1 | **3** | ![][flag_GB] **bandofponies** | |
@@ -542,32 +542,32 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 | djsettle ![][flag_GB] | 2 | **3** | ![][flag_GB] **Snookie** | |
 | - Triangle - ![][flag_GB] | 1 | **3** | ![][flag_GB] **Xim** | |
 | vidya ![][flag_GB] | 1 | **3** | ![][flag_GB] **Mahiro Yasaka** | |
-| KawaiiKupcake ![][flag_GB] | 0 | **1** | ![][flag_GB] **Wookiezi** | Forfeit |
+| KawaiiKupcake ![][flag_GB] | 0 | **1** | ![][flag_GB] **Wookiezi** | *forfeit* |
 | zero12555 ![][flag_GB] | 2 | **3** | ![][flag_GB] **Blind** | |
 | Taiitoo ![][flag_GB] | 1 | **3** | ![][flag_GB] **Could This Be** | |
 | **MrSisterFister** ![][flag_GB] | **3** | 1 | ![][flag_GB] Soap755 | |
 | **adam2keva9** ![][flag_GB] | **3** | 0 | ![][flag_GB] ChinesePerson | |
 | **Edd** ![][flag_GB] | **3** | 1 | ![][flag_GB] Mat | |
-| **Boisty** ![][flag_GB] | **1** | 0 | ![][flag_GB] Woffel | Forfeit |
-| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Dminic | Forfeit |
+| **Boisty** ![][flag_GB] | **1** | 0 | ![][flag_GB] Woffel | *forfeit* |
+| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Dminic | *forfeit* |
 | xendran ![][flag_GB] | 1 | **3** | ![][flag_GB] **Laplace** | |
-| ILykPurple ![][flag_GB] | 0 | **1** | ![][flag_GB] **Dream.** | Forfeit |
+| ILykPurple ![][flag_GB] | 0 | **1** | ![][flag_GB] **Dream.** | *forfeit* |
 | Zardocbeats ![][flag_GB] | 0 | **3** | ![][flag_GB] **Jesus1412** | |
 | **Castiel** ![][flag_GB] | **3** | 2 | ![][flag_GB] Hokchris | |
-| **Scootawoo** ![][flag_GB] | **1** | 0 | ![][flag_GB] Doggywoof | Forfeit |
+| **Scootawoo** ![][flag_GB] | **1** | 0 | ![][flag_GB] Doggywoof | *forfeit* |
 | **YunoWhoItIs** ![][flag_GB] | **3** | 1 | ![][flag_GB] Yordaan | |
 | PoisonPanda ![][flag_GB] | 0 | **3** | ![][flag_GB] **Rime** | |
 | **Bubbleman** ![][flag_GB] | **3** | 1 | ![][flag_GB] will1b | |
 | Vaidas ![][flag_GB] | 1 | **3** | ![][flag_GB] **Double Time** | |
 | Churcheell ![][flag_GB] | 2 | **3** | ![][flag_GB] **IEatCookies** | |
 | Luna-Bear ![][flag_GB] | 0 | **3** | ![][flag_GB] **Kardet** | |
-| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] regafu | Forfeit |
+| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] regafu | *forfeit* |
 | Lord Benpai ![][flag_GB] | 0 | **3** | ![][flag_GB] **Jeanzy** | |
-| ifailedatlife ![][flag_GB] | 0 | **1** | ![][flag_GB] **Earya** | Forfeit |
+| ifailedatlife ![][flag_GB] | 0 | **1** | ![][flag_GB] **Earya** | *forfeit* |
 | **DivineAscension** ![][flag_GB] | **3** | 1 | ![][flag_GB] Freezing | |
 | **Sway** ![][flag_GB] | **3** | 0 | ![][flag_GB] litejason | |
 | Kyou ![][flag_GB] | 0 | **3** | ![][flag_GB] **-Mo-** | |
-| Pidgy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Justify** | Forfeit |
+| Pidgy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Justify** | *forfeit* |
 | Profound Leader ![][flag_GB] | 0 | **3** | ![][flag_GB] **bahamete** | |
 
 ## Tournament Structure

@@ -269,7 +269,7 @@ Saturday, 12 July 2014 & Sunday, 13 July 2014
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_GB] Neroh | |
-| **bahamete** ![][flag_GB] | **1** | 0 | ![][flag_GB] spaminabox | Forfeit |
+| **bahamete** ![][flag_GB] | **1** | 0 | ![][flag_GB] spaminabox | *forfeit* |
 | Desired ![][flag_GB] | 3 | **4** | ![][flag_GB] **Cozzzy** | |
 | **Jeromelol** ![][flag_GB] | **4** | 1 | ![][flag_GB] Kry | |
 | **R a h a r u** ![][flag_GB] | **4** | 2 | ![][flag_GB] Vidya | |
@@ -290,13 +290,13 @@ Saturday, 5 July 2014 & Sunday, 6 July 2014
 | lovu ![][flag_GB] | 2 | **3** | ![][flag_GB] **Desired** | |
 | Viremon ![][flag_GB] | 2 | **3** | ![][flag_GB] **Cozzzy** | |
 | **Jeromelol** ![][flag_GB] | **3** | 0 | ![][flag_GB] 3lliot | |
-| **Kry** ![][flag_GB] | **1** | 0 | ![][flag_GB] Raiku | Forfeit |
+| **Kry** ![][flag_GB] | **1** | 0 | ![][flag_GB] Raiku | *forfeit* |
 | **R a h a r u** ![][flag_GB] | **3** | 2 | ![][flag_GB] EzLyn | |
 | Kakiage ![][flag_GB] | 0 | **3** | ![][flag_GB] **Vidya** | |
-| **Jameslike** ![][flag_GB] | **1** | 0 | ![][flag_GB] Just Miku | Forfeit |
+| **Jameslike** ![][flag_GB] | **1** | 0 | ![][flag_GB] Just Miku | *forfeit* |
 | YunoWhoItIs ![][flag_GB] | 2 | **3** | ![][flag_GB] **jesus1412** | |
 | **Kardet** ![][flag_GB] | **3** | 0 | ![][flag_GB] gadrin | |
-| **DatPenguinTho** ![][flag_GB] | **1** | 0 | ![][flag_GB] EatYourMattress | Forfeit |
+| **DatPenguinTho** ![][flag_GB] | **1** | 0 | ![][flag_GB] EatYourMattress | *forfeit* |
 | **Limit\_Break** ![][flag_GB] | **3** | 1 | ![][flag_GB] kyou | |
 | ChicagoTed7172 ![][flag_GB] | 1 | **3** | ![][flag_GB] **iLikeMudkipz** | |
 
@@ -311,7 +311,7 @@ Saturday, 28 June 2014 & Sunday, 29 July 2014
 | **SgtSitdown** ![][flag_GB] | **3** | 0 | ![][flag_GB] Udon | |
 | **Neroh** ![][flag_GB] | **3** | 2 | ![][flag_GB] PortalLife | |
 | **bahamete** ![][flag_GB] | **3** | 0 | ![][flag_GB] Justify | |
-| **Snookie** ![][flag_GB] | **1** | 0 | ![][flag_GB] Rime | Forfeit |
+| **Snookie** ![][flag_GB] | **1** | 0 | ![][flag_GB] Rime | *forfeit* |
 | vaidax5 ![][flag_LT] | 2 | **3** | ![][flag_GB] **kenlei2009** | |
 | **spaminabox** ![][flag_GB] | **3** | 1 | ![][flag_GB] Could This Be | |
 | **lovu** ![][flag_GB] | **3** | 1 | ![][flag_GB] Misti | |
@@ -329,10 +329,10 @@ Saturday, 28 June 2014 & Sunday, 29 July 2014
 | **Jameslike** ![][flag_GB] | **3** | 2 | ![][flag_GB] [AOTN] | |
 | **Just Miku** ![][flag_GB] | **3** | 1 | ![][flag_GB] Ommetaphobia | |
 | **YunoWhoItIs** ![][flag_GB] | **3** | 0 | ![][flag_GB] Run-Cat | |
-| Slvin ![][flag_GB] | 0 | **1** | ![][flag_GB] **jesus1412** | Forfeit |
+| Slvin ![][flag_GB] | 0 | **1** | ![][flag_GB] **jesus1412** | *forfeit* |
 | **Kardet** ![][flag_GB] | **3** | 1 | ![][flag_GB] Awesomefacerox | |
 | **Gadrin** ![][flag_GB] | **3** | 1 | ![][flag_GB] -MoeYandere- | |
-| Chungygiri ![][flag_GB] | 0 | **1** | ![][flag_GB] **DatPenguinTho** | Forfeit |
+| Chungygiri ![][flag_GB] | 0 | **1** | ![][flag_GB] **DatPenguinTho** | *forfeit* |
 | **EatYourMattress** ![][flag_GB] | **3** | 1 | ![][flag_GB] Crai | |
 | kozuka ![][flag_GB] | 1 | **3** | ![][flag_GB] **Limit_Break** | |
 | **kyou** ![][flag_GB] | **3** | 0 | ![][flag_GB] dreeeaam | |

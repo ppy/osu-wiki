@@ -374,7 +374,7 @@ Saturday, 2 June 2018:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C | **nyanmi-1828** ![][flag_JP] | **4** | 1 | ![][flag_KR] L y s | [#1](https://osu.ppy.sh/community/matches/42979943) |
 | D | **qoot8123** ![][flag_TW] | **4** | 0 | ![][flag_PH] Micka | [#1](https://osu.ppy.sh/community/matches/42979761) |
-| B | Smallwu ![][flag_TW] | 0 | 0 | ![][flag_JP] yyyyyyyyyyypetu | -nullified- |
+| B | Smallwu ![][flag_TW] | 0 | 0 | ![][flag_JP] yyyyyyyyyyypetu | *nullified* |
 | G | **ayomikasa** ![][flag_ID] | **4** | 0 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/42980581) |
 | F | **butter0414** ![][flag_JP] | **4** | 1 | ![][flag_ID] Niko-nyan | [#1](https://osu.ppy.sh/community/matches/42981652) |
 | H | **Jmeh07** ![][flag_PH] | **4** | 3 | ![][flag_JP] GlinT fraulein | [#1](https://osu.ppy.sh/community/matches/42981801) |
@@ -385,7 +385,7 @@ Saturday, 2 June 2018:
 | F | **Niko-nyan** ![][flag_ID] | **4** | 1 | ![][flag_AU] SpiritsUnite | [#1](https://osu.ppy.sh/community/matches/42983966) |
 | D | **qoot8123** ![][flag_TW] | **4** | 2 | ![][flag_MY] ZethZ161 | [#1](https://osu.ppy.sh/community/matches/42984090) |
 | A | **Jerry** ![][flag_MY] | **4** | 0 | ![][flag_KR] 404 AccNotFound | *win by default* |
-| D | CrabCow ![][flag_MY] | 0 | 0 | ![][flag_PH] Micka | -nullified- |
+| D | CrabCow ![][flag_MY] | 0 | 0 | ![][flag_PH] Micka | *nullified* |
 | E | toorun12 ![][flag_JP] | 1 | **4** | ![][flag_JP] **Sanawieck** | [#1](https://osu.ppy.sh/community/matches/42985601) |
 | F | **butter0414** ![][flag_JP] | **4** | 0 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/42985633) |
 | B | **Smallwu** ![][flag_TW] | **4** | 0 | ![][flag_MY] Dakry | [#1](https://osu.ppy.sh/community/matches/42987313) |

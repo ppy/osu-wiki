@@ -288,8 +288,8 @@ Saturday, 7 March 2015
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **1** | 0 | ![][flag_GB] vidya | Forfeit |
-| **bahamete** ![][flag_GB] | **1** | 0 | ![][flag_GB] Raiku | Forfeit |
+| **Doomsday** ![][flag_GB] | **1** | 0 | ![][flag_GB] vidya | *forfeit* |
+| **bahamete** ![][flag_GB] | **1** | 0 | ![][flag_GB] Raiku | *forfeit* |
 
 ### Quaterfinal
 
@@ -298,7 +298,7 @@ Saturday, 21 Febuary 2015
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **5** | 0 | ![][flag_GB] R a h a r u | |
-| Could This Be ![][flag_GB] | 0 | **1** | ![][flag_GB] **vidya** | Forfeit |
+| Could This Be ![][flag_GB] | 0 | **1** | ![][flag_GB] **vidya** | *forfeit* |
 | **bahamete** ![][flag_GB] | **5** | 1 | ![][flag_GB] Helix | |
 | jesus1412 ![][flag_GB] | 4 | **5** | ![][flag_GB] **Raiku** | |
 
@@ -312,8 +312,8 @@ Saturday, 7 Febuary 2015
 | **R a h a r u** ![][flag_GB] | **4** | 1 | ![][flag_GB] Ommetaphobia | |
 | **Could This Be** ![][flag_GB] | **4** | 3 | ![][flag_GB] SamC | |
 | RndGuy ![][flag_GB] | 3 | **4** | ![][flag_GB] **vidya** | |
-| **bahamete** ![][flag_GB] | **1** | 0 | ![][flag_GB] Navi | Forfeit |
-| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] LusoryLoL | Forfeit |
+| **bahamete** ![][flag_GB] | **1** | 0 | ![][flag_GB] Navi | *forfeit* |
+| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] LusoryLoL | *forfeit* |
 | **jesus1412** ![][flag_GB] | **4** | 3 | ![][flag_GB] SoraRoxas | |
 | **Raiku** ![][flag_GB] | **4** | 0 | ![][flag_GB] \[AOTN\] | |
 
@@ -326,7 +326,7 @@ Saturday, 31 January 2015
 | **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_GB] Swaayy | |
 | sullyjhf ![][flag_GB] | 1 | **4** | ![][flag_GB] Slvin | |
 | **R a h a r u** ![][flag_GB] | **4** | 2 | ![][flag_GB] LordVenomania | |
-| Kratoslol ![][flag_GB] | 0 | **1** | ![][flag_GB] **Ommetaphobia** | Forfeit |
+| Kratoslol ![][flag_GB] | 0 | **1** | ![][flag_GB] **Ommetaphobia** | *forfeit* |
 | **Could This Be** ![][flag_GB] | **4** | 0 | ![][flag_GB] WeirdF | |
 | **SamC** ![][flag_GB] | **4** | 2 | ![][flag_GB] Starry- | |
 | xendran ![][flag_GB] | 1 | **4** | ![][flag_GB] **RndGuy** | |
@@ -334,7 +334,7 @@ Saturday, 31 January 2015
 | **bahamete** ![][flag_GB] | **4** | 0 | ![][flag_GB] Ximphia | |
 | **Navi** ![][flag_GB] | **4** | 1 | ![][flag_GB] Run-Cat | |
 | Guy- ![][flag_GB] | 0 | **4** | ![][flag_GB] **Helix** | |
-| Gadrin ![][flag_GB] | 0 | **1** | ![][flag_GB] **LusoryLoL** | Forfeit |
+| Gadrin ![][flag_GB] | 0 | **1** | ![][flag_GB] **LusoryLoL** | *forfeit* |
 | **jesus1412** ![][flag_GB] | **4** | 1 | ![][flag_GB] Ascension | |
 | 19120113121308 ![][flag_GB] | 1 | **4** | ![][flag_GB] **SoraRoxas** | |
 | **Raiku** ![][flag_GB] | **4** | 2 | ![][flag_GB] Jeromelol | |
@@ -347,18 +347,18 @@ Saturday, 24 January 2015
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] dagothur13 | |
-| **Slvin** ![][flag_GB] | **1** | 0 | ![][flag_GB] xati | Forfeit |
+| **Slvin** ![][flag_GB] | **1** | 0 | ![][flag_GB] xati | *forfeit* |
 | **R a h a r u** ![][flag_GB] | **3** | 2 | ![][flag_GB] Snookie | |
 | JonnyTomo ![][flag_GB] | 1 | **3** | ![][flag_GB] **LordVenomania** | |
-| **Kratoslol** ![][flag_GB] | **1** | 0 | ![][flag_GB] Ike | Forfeit |
+| **Kratoslol** ![][flag_GB] | **1** | 0 | ![][flag_GB] Ike | *forfeit* |
 | **Ommetaphobia** ![][flag_GB] | **3** | 0 | ![][flag_GB] OPJames | |
 | **Could This Be** ![][flag_GB] | **3** | 0 | ![][flag_GB] ChicagoTed7172 | |
 | Rime ![][flag_GB] | 0 | **3** | ![][flag_GB] **WeirdF** | |
 | **SamC** ![][flag_GB] | **3** | 0 | ![][flag_GB] litejason | |
 | **Starry-** ![][flag_GB] | **3** | 0 | ![][flag_GB] Awesomefacerox | |
-| camas ![][flag_GB] | 0 | **1** | ![][flag_GB] xendran | Forfeit |
+| camas ![][flag_GB] | 0 | **1** | ![][flag_GB] xendran | *forfeit* |
 | Edd ![][flag_GB] | 2 | **3** | ![][flag_GB] **RndGuy** | |
-| **vidya** ![][flag_GB] | **1** | 0 | ![][flag_GB] K E I | Forfeit |
+| **vidya** ![][flag_GB] | **1** | 0 | ![][flag_GB] K E I | *forfeit* |
 | **sullyjhf** ![][flag_GB] | **3** | 2 | ![][flag_GB] NatashaGG | |
 | **bahamete** ![][flag_GB] | **3** | 1 | ![][flag_GB] N1nYo | |
 | DatPenguinTho ![][flag_GB] | 1 | **3** | ![][flag_GB] **Ximphia** | |
@@ -370,18 +370,18 @@ Saturday, 24 January 2015
 | **19120113121308** ![][flag_GB] | **3** | 1 | ![][flag_GB] Vapor | |
 | **Raiku** ![][flag_GB] | **3** | 0 | ![][flag_GB] kenlei2009 | |
 | **Jeromelol** ![][flag_GB] | **3** | 0 | ![][flag_GB] Pazo | |
-| **PortalLife** ![][flag_GB] | **1** | 0 | ![][flag_GB] FHZR | Forfeit |
+| **PortalLife** ![][flag_GB] | **1** | 0 | ![][flag_GB] FHZR | *forfeit* |
 | **\[AOTN\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] chineseperson | |
 
 Sunday, 25 January 2015
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Swaayy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Cozzzy | Forfeit |
+| **Swaayy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Cozzzy | *forfeit* |
 | Neroh ![][flag_GB] | 0 | **3** | ![][flag_GB] **Vortecs** | |
 | **Run-Cat** ![][flag_GB] | **3** | 0 | ![][flag_GB] HabileLawk | |
-| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] YunoWhoItIs | Forfeit |
-| **LusoryLoL** ![][flag_GB] | **1** | 0 | ![][flag_GB] Kakiage | Forfeit |
+| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] YunoWhoItIs | *forfeit* |
+| **LusoryLoL** ![][flag_GB] | **1** | 0 | ![][flag_GB] Kakiage | *forfeit* |
 | **SoraRoxas** ![][flag_GB] | **3** | 0 | ![][flag_GB] Elephant_king | |
 
 ### Round of 128
@@ -394,18 +394,18 @@ Saturday, 10 January 2015:
 | BandOfPonies ![][flag_GB] | 0 | **3** | ![][flag_GB] **NatashaGG** | |
 | **Slvin** ![][flag_GB] | **3** | 0 | ![][flag_GB] Vibroxide | |
 | **R a h a r u** ![][flag_GB] | **3** | 0 | ![][flag_GB] Louis13 | |
-| Misti ![][flag_GB] | 0 | **1** | ![][flag_GB] **JonnyTomo** | Forfeit |
+| Misti ![][flag_GB] | 0 | **1** | ![][flag_GB] **JonnyTomo** | *forfeit* |
 | **LordVenomania** ![][flag_GB] | **3** | 0 | ![][flag_GB] Scootawoo | |
-| **Kratoslol** ![][flag_GB] | **1** | 0 | ![][flag_GB] slowlymore2 | Forfeit |
-| kyou ![][flag_GB] | 0 | **1** | ![][flag_GB] **Ike** | Forfeit |
+| **Kratoslol** ![][flag_GB] | **1** | 0 | ![][flag_GB] slowlymore2 | *forfeit* |
+| kyou ![][flag_GB] | 0 | **1** | ![][flag_GB] **Ike** | *forfeit* |
 | **Ommetaphobia** ![][flag_GB] | **3** | 0 | ![][flag_GB] x Hanako | |
 | SgtSitdown ![][flag_GB] | 2 | **3** | ![][flag_GB] **OPJames** | |
 | **ChicagoTed7172** ![][flag_GB] | **3** | 1 | ![][flag_GB] Rolf Harris | |
-| **Rime** ![][flag_GB] | **1** | 0 | ![][flag_GB] EdTheSheep | Forfeit |
+| **Rime** ![][flag_GB] | **1** | 0 | ![][flag_GB] EdTheSheep | *forfeit* |
 | **WeirdF** ![][flag_GB] | **3** | 0 | ![][flag_GB] cawsrun | |
 | **SamC** ![][flag_GB] | **3** | 1 | ![][flag_GB] Evrae X | |
-| **Starry-** ![][flag_GB] | **1** | 0 | ![][flag_GB] \[Joel\] | Forfeit |
-| Saferon ![][flag_GB] | 0 | **1** | ![][flag_GB] **camas** | Forfeit |
+| **Starry-** ![][flag_GB] | **1** | 0 | ![][flag_GB] \[Joel\] | *forfeit* |
+| Saferon ![][flag_GB] | 0 | **1** | ![][flag_GB] **camas** | *forfeit* |
 | **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] EricT45 | |
 | djsettle ![][flag_GB] | 2 | **3** | ![][flag_GB] **xendran** | |
 
@@ -417,31 +417,31 @@ Sunday, 11 January 2015:
 | **vidya** ![][flag_GB] | **3** | 0 | ![][flag_GB] Justify | |
 | **K E I** ![][flag_GB] | **3** | 2 | ![][flag_GB] Xswordy | |
 | **Neroh** ![][flag_GB] | **3** | 1 | ![][flag_GB] KingNick | |
-| **Vortecs** ![][flag_GB] | **1** | 0 | ![][flag_GB] Datso | Forfeit |
+| **Vortecs** ![][flag_GB] | **1** | 0 | ![][flag_GB] Datso | *forfeit* |
 | **bahamete** ![][flag_GB] | **3** | 0 | ![][flag_GB] Hydria | |
 | -Panda- ![][flag_GB] | 2 | **3** | ![][flag_GB] **N1nYo** | |
 | **DatPenguinTho** ![][flag_GB] | **3** | 1 | ![][flag_GB] Churcheell | |
 | **Ximphia** ![][flag_GB] | **3** | 2 | ![][flag_GB] RedKing | |
-| **Navi** ![][flag_GB] | **1** | 0 | ![][flag_GB] Tsunami Rin | Forfeit |
-| \[ YTY \] ![][flag_GB] | 0 | **1** | ![][flag_GB] Dminic | Forfeit |
+| **Navi** ![][flag_GB] | **1** | 0 | ![][flag_GB] Tsunami Rin | *forfeit* |
+| \[ YTY \] ![][flag_GB] | 0 | **1** | ![][flag_GB] Dminic | *forfeit* |
 | **Run-Cat** ![][flag_GB] | **3** | 0 | ![][flag_GB] DanZqa | |
 | Mahiro Yasaka ![][flag_GB] | 2 | **3** | ![][flag_GB] HabileLawk | |
-| Kardet ![][flag_GB] | 0 | **1** | ![][flag_GB] **VirtualMuffin** | Forfeit |
-| **Guy-** ![][flag_GB] | **1** | 0 | ![][flag_GB] Beeboy | Forfeit |
-| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Minfrij | Forfeit |
+| Kardet ![][flag_GB] | 0 | **1** | ![][flag_GB] **VirtualMuffin** | *forfeit* |
+| **Guy-** ![][flag_GB] | **1** | 0 | ![][flag_GB] Beeboy | *forfeit* |
+| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Minfrij | *forfeit* |
 | **LusoryLoL** ![][flag_GB] | **3** | 0 | ![][flag_GB] Rixta | |
 | **Gadrin** ![][flag_GB] | **3** | 2 | ![][flag_GB] S h o e | |
 | **Doggywoof** ![][flag_GB] | **3** | 1 | ![][flag_GB] simtom | |
 | **\[AOTN\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] HypernovaKilla | |
 | **Kakiage** ![][flag_GB] | **3** | 1 | ![][flag_GB] FlipTheFish | |
 | **jesus1412** ![][flag_GB] | **3** | 2 | ![][flag_GB] PoisonPanda | |
-| **spirit flare** ![][flag_GB] | **1** | 0 | ![][flag_GB] Kry | Forfeit |
+| **spirit flare** ![][flag_GB] | **1** | 0 | ![][flag_GB] Kry | *forfeit* |
 
 Wednesday, 14 January 2015:
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| Alanca ![][flag_GB] | 0 | **1** | ![][flag_GB] **Elephant_king** | Forfeit |
+| Alanca ![][flag_GB] | 0 | **1** | ![][flag_GB] **Elephant_king** | *forfeit* |
 | **sullyjhf** ![][flag_GB] | **3** | 1 | ![][flag_GB] Decelvice | |
 
 Thursday, 15 January 2015:
@@ -454,22 +454,22 @@ Friday, 16 January 2015:
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Cozzzy** ![][flag_GB] | **1** | 0 | ![][flag_GB] georgewday | Forfeit |
-| **RndGuy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Dell | Forfeit |
+| **Cozzzy** ![][flag_GB] | **1** | 0 | ![][flag_GB] georgewday | *forfeit* |
+| **RndGuy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Dell | *forfeit* |
 
 Saturday, 17 January 2015:
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Im not green** ![][flag_GB] | **1** | 0 | ![][flag_GB] Taiitoo | Forfeit |
-| **Ascension** ![][flag_GB] | **1** | 0 | ![][flag_GB] I_am_AM | Forfeit |
+| **Im not green** ![][flag_GB] | **1** | 0 | ![][flag_GB] Taiitoo | *forfeit* |
+| **Ascension** ![][flag_GB] | **1** | 0 | ![][flag_GB] I_am_AM | *forfeit* |
 | **19120113121308** ![][flag_GB] | **3** | 0 | ![][flag_GB] Kappy | |
-| **Vapor** ![][flag_GB] | **1** | 0 | ![][flag_GB] Woffel | Forfeit |
+| **Vapor** ![][flag_GB] | **1** | 0 | ![][flag_GB] Woffel | *forfeit* |
 | **Raiku** ![][flag_GB] | **3** | 0 | ![][flag_GB] Rstrs2402 | |
 | **Jeromelol** ![][flag_GB] | **3** | 0 | ![][flag_GB] Profound Leader | |
 | **Pazo** ![][flag_GB] | **3** | 1 | ![][flag_GB] legoboomette | |
 | **PortalLife** ![][flag_GB] | **3** | 1 | ![][flag_GB] sargeant_pig | |
-| megalonyx ![][flag_GB] | 0 | **1** | ![][flag_GB] **chineseperson** | Forfeit |
+| megalonyx ![][flag_GB] | 0 | **1** | ![][flag_GB] **chineseperson** | *forfeit* |
 | **FHZR** ![][flag_GB] | **3** | 0 | ![][flag_GB] \[ Darkdog \] | |
 
 Sunday, 18 January 2015:
@@ -477,13 +477,13 @@ Sunday, 18 January 2015:
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **SoraRoxas** ![][flag_GB] | **3** | 0 | ![][flag_GB] Ecliptus | |
-| **Swaayy** ![][flag_GB] | **1** | 0 | ![][flag_GB] C a l l u m | Forfeit |
-| **xati** ![][flag_GB] | **1** | 0 | ![][flag_GB] \[Adie\] | Forfeit |
+| **Swaayy** ![][flag_GB] | **1** | 0 | ![][flag_GB] C a l l u m | *forfeit* |
+| **xati** ![][flag_GB] | **1** | 0 | ![][flag_GB] \[Adie\] | *forfeit* |
 | **Could This Be** ![][flag_GB] | **3** | 0 | ![][flag_GB] Zeffeng | |
-| **litejason** ![][flag_GB] | **1** | 0 | ![][flag_GB] Jimbot | Forfeit |
-| Retart ![][flag_GB] | 0 | **1** | ![][flag_GB] **Awesomefacerox** | Forfeit |
-| **YunoWhoItIs** ![][flag_GB] | **1** | 0 | ![][flag_GB] destructor966 | Forfeit |
-| **kenlei2009** ![][flag_GB] | **1** | 0 | ![][flag_GB] Wookiezi | Forfeit |
+| **litejason** ![][flag_GB] | **1** | 0 | ![][flag_GB] Jimbot | *forfeit* |
+| Retart ![][flag_GB] | 0 | **1** | ![][flag_GB] **Awesomefacerox** | *forfeit* |
+| **YunoWhoItIs** ![][flag_GB] | **1** | 0 | ![][flag_GB] destructor966 | *forfeit* |
+| **kenlei2009** ![][flag_GB] | **1** | 0 | ![][flag_GB] Wookiezi | *forfeit* |
 
 ## Ruleset
 

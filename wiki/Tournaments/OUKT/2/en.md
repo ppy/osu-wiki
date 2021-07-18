@@ -269,7 +269,7 @@ Saturday, 5 April 2014
 | **SoraRoxas** ![][flag_GB] | **5** | 1 | ![][flag_GB] PortalLife | |
 | **iLikeMudkipz** ![][flag_GB] | **5** | 2 | ![][flag_GB] Navi | |
 | **Doomsday** ![][flag_GB] | **5** | 1 | ![][flag_GB] Cozzy | |
-| Could This Be ![][flag_GB] | 0 | **1** | ![][flag_GB] **jesus1412** | Forfeit |
+| Could This Be ![][flag_GB] | 0 | **1** | ![][flag_GB] **jesus1412** | *forfeit* |
 
 ### Round of 16
 
@@ -277,10 +277,10 @@ Saturday, 29 March 2014
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| Behaviour ![][flag_GB] | 0 | **1** | ![][flag_GB] **SoraRoxas** | Forfeit |
+| Behaviour ![][flag_GB] | 0 | **1** | ![][flag_GB] **SoraRoxas** | *forfeit* |
 | Neroh ![][flag_GB] | 0 | **4** | ![][flag_GB] **PortalLife** | |
 | sullyjhf ![][flag_GB] | 0 | **4** | ![][flag_GB] **iLikeMudkipz** | |
-| **Navi** ![][flag_GB] | **3** | 0 | ![][flag_GB] Snookie | Forfeit (During match) |
+| **Navi** ![][flag_GB] | **3** | 0 | ![][flag_GB] Snookie | *forfeit (during match)* |
 | Viremon ![][flag_GB] | 0 | **4** | ![][flag_GB] **Doomsday** | |
 | Just Miku ![][flag_GB] | 2 | **4** | ![][flag_GB] **Cozzzy** | |
 | Kardet ![][flag_GB] | 1 | **4** | ![][flag_GB] **Could This Be** | |
@@ -292,16 +292,16 @@ Saturday, 22 March 2014
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Behaviour** ![][flag_GB] | **1** | 0 | ![][flag_GB] \[ Thanatos \] | Forfeit |
+| **Behaviour** ![][flag_GB] | **1** | 0 | ![][flag_GB] \[ Thanatos \] | *forfeit* |
 | **SoraRoxas** ![][flag_GB] | **3** | 0 | ![][flag_GB] Kozuka | |
 | **Neroh** ![][flag_GB] | **3** | 2 | ![][flag_GB] Syrus | |
 | **PortalLife** ![][flag_GB] | **3** | 0 | ![][flag_GB] Charleyzard | |
 | **sullyjhf** ![][flag_GB] | **3** | 2 | ![][flag_GB] Uphox | |
 | **iLikeMudkipz** ![][flag_GB] | **3** | 0 | ![][flag_GB] Blaziken | |
-| **Navi** ![][flag_GB] | **1** | 0 | ![][flag_GB] spaminabox | Forfeit |
+| **Navi** ![][flag_GB] | **1** | 0 | ![][flag_GB] spaminabox | *forfeit* |
 | **Snookie** ![][flag_GB] | **3** | 1 | ![][flag_GB] K E I | |
 | **Viremon** ![][flag_GB] | **3** | 1 | ![][flag_GB] Udon | |
-| Crai ![][flag_GB] | 0 | **1** | ![][flag_GB] **Doomsday** | Forfeit |
+| Crai ![][flag_GB] | 0 | **1** | ![][flag_GB] **Doomsday** | *forfeit* |
 | **Just Miku** ![][flag_GB] | **3** | 0 | ![][flag_GB] Fluttershy03 | |
 | Grimdeath ![][flag_GB] | 0 | **3** | ![][flag_GB] **Cozzzy** | |
 | **Kardet** ![][flag_GB] | **3** | 2 | ![][flag_GB] the holy beans | |
@@ -316,20 +316,20 @@ Saturday, 22 March 2014
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | regafu ![][flag_GB] | 0 | **3** | ![][flag_GB] **Behaviour** | |
-| **\[ Thanatos \]** ![][flag_GB] | **1** | 0 | ![][flag_GB] EatYourMattress | Forfeit |
+| **\[ Thanatos \]** ![][flag_GB] | **1** | 0 | ![][flag_GB] EatYourMattress | *forfeit* |
 | **SoraRoxas** ![][flag_GB] | **3** | 0 | ![][flag_GB] Juiceb0x | |
 | YunoWhoItIs ![][flag_GB] | 0 | **3** | ![][flag_GB] **Kozuka** | |
 | Riari ![][flag_GB] | 0 | **3** | ![][flag_GB] **Neroh** | |
 | SirCadams ![][flag_GB] | 1 | **3** | ![][flag_GB] **Syrus** | |
 | Swaayy ![][flag_GB] | 1 | **3** | ![][flag_GB] **PortalLife** | |
-| C3Swamp ![][flag_GB] | 0 | **1** | ![][flag_GB] **Charleyzard** | Forfeit |
+| C3Swamp ![][flag_GB] | 0 | **1** | ![][flag_GB] **Charleyzard** | *forfeit* |
 | **sullyjhf** ![][flag_GB] | **3** | 0 | ![][flag_GB] samc | |
 | **Uphox** ![][flag_GB] | **3** | 0 | ![][flag_GB] -kyou- | |
 | OmegaSin ![][flag_GB] | 0 | **3** | ![][flag_GB] **iLikeMudkipz** | |
-| **Blaziken** ![][flag_GB] | **1** | 0 | ![][flag_GB] Raiku | Forfeit |
+| **Blaziken** ![][flag_GB] | **1** | 0 | ![][flag_GB] Raiku | *forfeit* |
 | dreeeaam ![][flag_GB] | 0 | **3** | ![][flag_GB] **Navi** | |
 | **spaminabox** ![][flag_GB] | **3** | 1 | ![][flag_GB] Albert Donger | |
-| **Snookie** ![][flag_GB] | **1** | 0 | ![][flag_GB] Chunelle | Forfeit |
+| **Snookie** ![][flag_GB] | **1** | 0 | ![][flag_GB] Chunelle | *forfeit* |
 | **K E I** ![][flag_GB] | **3** | 1 | ![][flag_GB] -MoeYandere- | |
 | **Viremon** ![][flag_GB] | **3** | 1 | ![][flag_GB] Jeromelol | |
 | Kry ![][flag_GB] | 0 | **3** | ![][flag_GB] **Udon** | |
@@ -345,7 +345,7 @@ Saturday, 22 March 2014
 | Gaadrin ![][flag_GB] | 0 | **3** | ![][flag_GB] **Could This Be** | |
 | casmith789 ![][flag_GB] | 0 | **3** | ![][flag_GB] **litejason** | |
 | **vidya** ![][flag_GB] | **3** | 1 | ![][flag_GB] bahamete | |
-| EzLyn ![][flag_GB] | 0 | **1** | ![][flag_GB] **AshleyCarnine** | Forfeit |
+| EzLyn ![][flag_GB] | 0 | **1** | ![][flag_GB] **AshleyCarnine** | *forfeit* |
 | **jesus1412** ![][flag_GB] | **3** | 0 | ![][flag_GB] ChicagoTed7172 | |
 
 ## Ruleset
