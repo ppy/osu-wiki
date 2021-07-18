@@ -109,9 +109,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Thank You (![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | osu! schmosu! (![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | yooo whats goodie eh (![][flag_CA] [Vespirit](https://osu.ppy.sh/users/5425046), ![][flag_CA] [neuro](https://osu.ppy.sh/users/3737401)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Thank You** (![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **osu! schmosu!** (![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **yooo whats goodie eh** (![][flag_CA] [Vespirit](https://osu.ppy.sh/users/5425046), ![][flag_CA] [neuro](https://osu.ppy.sh/users/3737401)) |
 
 ## Mappools
 

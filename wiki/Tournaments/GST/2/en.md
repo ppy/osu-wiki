@@ -124,9 +124,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | tamade (![][flag_SG] **[GSBlank](https://osu.ppy.sh/users/2312106)**, ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Mahathir bin Moh (![][flag_SG] **[Loslite](https://osu.ppy.sh/users/6398160)**, ![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Tom and Jerry (![][flag_SG] **[JianHao Tan](https://osu.ppy.sh/users/5447609)**, ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **tamade** (![][flag_SG] **[GSBlank](https://osu.ppy.sh/users/2312106)**, ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Mahathir bin Moh** (![][flag_SG] **[Loslite](https://osu.ppy.sh/users/6398160)**, ![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Tom and Jerry** (![][flag_SG] **[JianHao Tan](https://osu.ppy.sh/users/5447609)**, ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620)) |
 
 ## Mappools
 

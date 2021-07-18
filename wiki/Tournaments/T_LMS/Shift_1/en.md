@@ -106,9 +106,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | V E R Y S T R O N G T E A M (![][flag_MY] **[Jerry](https://osu.ppy.sh/users/605973)**, ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364), ![][flag_AU] [rango](https://osu.ppy.sh/users/7728466), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | あ (![][flag_JP] **[ma\_r1n](https://osu.ppy.sh/users/9950613)**, ![][flag_JP] [Hori\_159](https://osu.ppy.sh/users/3023007), ![][flag_JP] [vzk](https://osu.ppy.sh/users/8264451), ![][flag_JP] [miki308](https://osu.ppy.sh/users/7632508)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く (![][flag_BR] **[Skull Kid](https://osu.ppy.sh/users/3044264)**, ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669), ![][flag_BR] [Brasil](https://osu.ppy.sh/users/3949268), ![][flag_BR] [Marm](https://osu.ppy.sh/users/5143353)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **V E R Y S T R O N G T E A M** (![][flag_MY] **[Jerry](https://osu.ppy.sh/users/605973)**, ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364), ![][flag_AU] [rango](https://osu.ppy.sh/users/7728466), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **あ** (![][flag_JP] **[ma\_r1n](https://osu.ppy.sh/users/9950613)**, ![][flag_JP] [Hori\_159](https://osu.ppy.sh/users/3023007), ![][flag_JP] [vzk](https://osu.ppy.sh/users/8264451), ![][flag_JP] [miki308](https://osu.ppy.sh/users/7632508)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く** (![][flag_BR] **[Skull Kid](https://osu.ppy.sh/users/3044264)**, ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669), ![][flag_BR] [Brasil](https://osu.ppy.sh/users/3949268), ![][flag_BR] [Marm](https://osu.ppy.sh/users/5143353)) |
 
 ## Mappools
 

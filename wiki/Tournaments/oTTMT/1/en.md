@@ -71,9 +71,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Animalz D: (![][flag_PL] **[niedz](https://osu.ppy.sh/users/9610)**, ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Lubimy Ponczgi! (![][flag_PL] **[Ryohan](https://osu.ppy.sh/users/16963)**, ![][flag_PL] [Lef](https://osu.ppy.sh/users/44826)) |
-| ![Crown crown](/wiki/shared/crown-bronze.png "3rd place") | MINMIrox (![][flag_US] **[DeathxShinigami](https://osu.ppy.sh/users/49516)**, ![][flag_US] [Zatoichi](https://osu.ppy.sh/users/35199)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Animalz D:** (![][flag_PL] **[niedz](https://osu.ppy.sh/users/9610)**, ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Lubimy Ponczgi!** (![][flag_PL] **[Ryohan](https://osu.ppy.sh/users/16963)**, ![][flag_PL] [Lef](https://osu.ppy.sh/users/44826)) |
+| ![Crown crown](/wiki/shared/crown-bronze.png "3rd place") | **MINMIrox** (![][flag_US] **[DeathxShinigami](https://osu.ppy.sh/users/49516)**, ![][flag_US] [Zatoichi](https://osu.ppy.sh/users/35199)) |
 
 ## Mappools
 
