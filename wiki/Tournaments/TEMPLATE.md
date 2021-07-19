@@ -8,7 +8,7 @@ tags:
 
 ![{SHORT_TITLE} logo/banner](img/logo.png) <!-- choose the option that suits the image better -->
 
-The **{TITLE}** (***{SHORT_TITLE}***) is a <!-- enter applicable tournament traits, example: {N}v{N}, double-elimination, country-based --> {MODE} tournament hosted by the {ORGANISERS} <!-- list the organisers here with their flags -->. It is the {ITERATION_ORDINAL} installment of the {SERIES_TITLE}.
+The **{TITLE}** (***{SHORT_TITLE}***) is a <!-- enter applicable tournament traits, example: {N}v{N}, double-elimination, country-based --> {MODE} tournament hosted by {ORGANISERS} <!-- list the organisers here with their flags -->. It is the {ITERATION_ORDINAL} instalment of the {SERIES_TITLE}.
 
 ## Tournament schedule
 
