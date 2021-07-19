@@ -839,7 +839,7 @@ Thursday, 27 July 2017:
 - Ranks will be taken and locked when registrations have concluded
 - Anyone who does sign up must be able to play maps with a difficulty of at least 4.7*.
 - Starting from groups, the tournament will be double elimination. Qualifications will be the only thing that is single elimination.
-- All staff members are allowed to sign up for the tournament. The only exception are the host, co-hosts, and mappool selectors/testers.
+- All staff members are allowed to sign up for the tournament. The only exceptions are the host, co-hosts, and mappool selectors/testers.
 - All players must treat staff and other participants with a high level of respect, any kind of mistreatment in a match or on the discord (this includes extreme toxicity, racism, homophobia) will result in a ban and will be blacklisted from participating in future installments of this tournament.
 - Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.
 - Each stage will be held on a Friday/Saturday/Sunday. Schedules and mappools will be released on the Monday/Tuesday before that stage is due to happen, to allow for reschedules.
