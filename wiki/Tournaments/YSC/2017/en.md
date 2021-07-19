@@ -379,7 +379,7 @@ Sunday, 3 September 2017:
 | --: | :-: | :-: | :-- | :-- |
 | **Toy** ![][flag_US] | **6** | 2 | ![][flag_US] he rack |  |
 
-#### Losers Bracker Round 4
+#### Losers Bracket Round 4
 
 Saturday, 2 September 2017:
 
@@ -400,7 +400,7 @@ Monday, 4 September 2017:
 | --: | :-: | :-: | :-- | :-- |
 | Rucker ![][flag_TW] | 2 | **6** | ![][flag_GB] **Bubbleman** |  |
 
-#### Losers Bracker Round 5
+#### Losers Bracket Round 5
 
 Sunday, 3 September 2017:
 
@@ -437,7 +437,7 @@ Monday, 28 August 2017:
 | --: | :-: | :-: | :-- | :-- |
 | **he rack** ![][flag_US] | **5** | 3 | ![][flag_US] Monko2k |  |
 
-#### Losers Bracker Round 2
+#### Losers Bracket Round 2
 
 Saturday, 26 August 2017:
 
@@ -457,7 +457,7 @@ Tuesday, 29 August 2017:
 | **Emula** ![][flag_LV] | **5** | 0 | ![][flag_DE] [ Nano ] |  |
 | Helix ![][flag_GB] | 0 | **1** | ![][flag_FR] **ThePooN** | *forfeit* |
 
-#### Losers Bracker Round 3
+#### Losers Bracket Round 3
 
 Sunday, 27 August 2017:
 
@@ -505,7 +505,7 @@ Tuesday, 22 August 2017:
 | --: | :-: | :-: | :-- | :-- |
 | **Azer** ![][flag_CA] | **5** | 2 | ![][flag_DE] imagaK |  |
 
-#### Losers Bracker Round 1
+#### Losers Bracket Round 1
 
 Saturday, 19 August 2017:
 
