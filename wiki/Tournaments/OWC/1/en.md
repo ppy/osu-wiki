@@ -52,18 +52,6 @@ The osu! World Cup #1 was run by various community members.
 - [Livestream channel](https://livestream.com/osuworldcup "Livestream")
 - [Finals recap](https://www.mediafire.com/file/ab6j6k4ihtp25o2 "MediaFire") - provided by ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359)
 
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TW] **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [0222101916](https://osu.ppy.sh/users/122650), [FuNnY--](https://osu.ppy.sh/users/398097), [NanaDesu](https://osu.ppy.sh/users/163474), [Rucker](https://osu.ppy.sh/users/147515), [Tomoka Rin](https://osu.ppy.sh/users/125308)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NL] **Netherlands** (**[GladiOol](https://osu.ppy.sh/users/23326)**, [Awoken](https://osu.ppy.sh/users/256802), [eddieee](https://osu.ppy.sh/users/260284), [happy30](https://osu.ppy.sh/users/27767), [Henkie](https://osu.ppy.sh/users/16944), [Lesjuh](https://osu.ppy.sh/users/44308)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [Binjip](https://osu.ppy.sh/users/261694), [Cookiezi](https://osu.ppy.sh/users/124493), [ehRh](https://osu.ppy.sh/users/272117), [M A I D](https://osu.ppy.sh/users/216472), [Reisen Udongein](https://osu.ppy.sh/users/232942)) |
-
-![](img/bracket.jpg "OWC #1 bracket")
-
 ## Participants
 
 |  | Country | Members |
@@ -96,6 +84,18 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_UA] | **Ukraine** | **[Gorlum](https://osu.ppy.sh/users/347635)**, [gef](https://osu.ppy.sh/users/226175), [Mosya](https://osu.ppy.sh/users/77835), [RainForce](https://osu.ppy.sh/users/192251), [rockleejkooo](https://osu.ppy.sh/users/384003) |
 | ![][flag_GB] | **United Kingdom** | **[Doomsday](https://osu.ppy.sh/users/18983)**, [aevv](https://osu.ppy.sh/users/390955), [DiamondCrash](https://osu.ppy.sh/users/123790), [jericho2442](https://osu.ppy.sh/users/88904), [Natteke](https://osu.ppy.sh/users/157177) |
 | ![][flag_US] | **United States** | **[Lybydose](https://osu.ppy.sh/users/64501)**, [Cyclone](https://osu.ppy.sh/users/18589), [ebacho](https://osu.ppy.sh/users/129932), [Mafiamaster](https://osu.ppy.sh/users/17695), [naptime](https://osu.ppy.sh/users/277682) |
+
+![](img/bracket.jpg "OWC #1 bracket")
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TW] **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [0222101916](https://osu.ppy.sh/users/122650), [FuNnY--](https://osu.ppy.sh/users/398097), [NanaDesu](https://osu.ppy.sh/users/163474), [Rucker](https://osu.ppy.sh/users/147515), [Tomoka Rin](https://osu.ppy.sh/users/125308)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NL] **Netherlands** (**[GladiOol](https://osu.ppy.sh/users/23326)**, [Awoken](https://osu.ppy.sh/users/256802), [eddieee](https://osu.ppy.sh/users/260284), [happy30](https://osu.ppy.sh/users/27767), [Henkie](https://osu.ppy.sh/users/16944), [Lesjuh](https://osu.ppy.sh/users/44308)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [Binjip](https://osu.ppy.sh/users/261694), [Cookiezi](https://osu.ppy.sh/users/124493), [ehRh](https://osu.ppy.sh/users/272117), [M A I D](https://osu.ppy.sh/users/216472), [Reisen Udongein](https://osu.ppy.sh/users/232942)) |
 
 ## Mappools
 

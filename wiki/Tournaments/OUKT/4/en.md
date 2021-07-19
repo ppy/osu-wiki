@@ -10,8 +10,6 @@ tags:
 
 ![OUKT 4 banner](img/banner.jpg)
 
-## Introduction
-
 The **osu! UK tournament 4** (***OUKT4***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) and Co-Hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 4th iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament Schedule
@@ -50,15 +48,13 @@ The OUKT4 was run by various community members
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/261809)
 - [Challonge page](https://challonge.com/OUKT4 "Challonge")
 - [Livestream](https://www.twitch.tv/oukt3 "Twitch")
-
-### Spreadsheets
-
-- [Semifinals](https://docs.google.com/spreadsheets/d/1tTWeV56h2qsAgFj49NSfj6qpZCJYASM9_KiYOKBNrac/edit?usp=sharing "Google Sheets")
-- [Quaterfinals](https://docs.google.com/spreadsheets/d/1RAuHAGsA2RNeNB7UzjDOFPyqslzwzcuObZn-IP-0l8U/edit?usp=sharing "Google Sheets")
-- [Round of 16](https://docs.google.com/spreadsheets/d/1-TCmxVC2lU6GLu7WzbRUkyEbccQBFKdXRbSerrPuZq4/edit?usp=sharing "Google Sheets")
-- [Round of 32](https://docs.google.com/spreadsheets/d/11KVtlKGDI3B4SwqmJcGgJxjTVPL2oA3l2scR-z0z86Q/edit?usp=sharing "Google Sheets")
-- [Round of 64](https://docs.google.com/spreadsheets/d/1IeG2a07E3Jia4iZVMQlcYTR63JLQD5yHvT12VSoU7QE/edit?usp=sharing "Google Sheets")
-- [Round of 128](https://docs.google.com/spreadsheets/d/1qZiUjFPov6mVWrjV1YcQ5uu05bM4zaye47aNn6GaB84/edit?usp=sharing "Google Sheets")
+- Spreadsheets
+  - [Semifinals](https://docs.google.com/spreadsheets/d/1tTWeV56h2qsAgFj49NSfj6qpZCJYASM9_KiYOKBNrac/edit?usp=sharing "Google Sheets")
+  - [Quaterfinals](https://docs.google.com/spreadsheets/d/1RAuHAGsA2RNeNB7UzjDOFPyqslzwzcuObZn-IP-0l8U/edit?usp=sharing "Google Sheets")
+  - [Round of 16](https://docs.google.com/spreadsheets/d/1-TCmxVC2lU6GLu7WzbRUkyEbccQBFKdXRbSerrPuZq4/edit?usp=sharing "Google Sheets")
+  - [Round of 32](https://docs.google.com/spreadsheets/d/11KVtlKGDI3B4SwqmJcGgJxjTVPL2oA3l2scR-z0z86Q/edit?usp=sharing "Google Sheets")
+  - [Round of 64](https://docs.google.com/spreadsheets/d/1IeG2a07E3Jia4iZVMQlcYTR63JLQD5yHvT12VSoU7QE/edit?usp=sharing "Google Sheets")
+  - [Round of 128](https://docs.google.com/spreadsheets/d/1qZiUjFPov6mVWrjV1YcQ5uu05bM4zaye47aNn6GaB84/edit?usp=sharing "Google Sheets")
 
 ## Participants
 

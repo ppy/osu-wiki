@@ -85,6 +85,8 @@ The Chinese osu!mania 4K Tournament 2017 was run by various community members.
 - ![][flag_CN] [wjh123](https://osu.ppy.sh/users/1147820)
 - ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516)
 
+## Podium
+
 ![](img/podium.png "CMT 4K 2017 podium")
 
 ## Mappools

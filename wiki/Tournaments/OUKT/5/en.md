@@ -8,8 +8,6 @@ tags:
 
 # osu! UK Tournament 5
 
-## Introduction
-
 The **osu! UK tournament 5** (***OUKT5***) was a ![][flag_GB] United Kingdom mixed elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 5th and final iteration of the **osu! UK Tournament** (***OUKT***) series, it was succeeded by the UK Community Cup (UKCC).
 
 ## Tournament Schedule
@@ -570,40 +568,6 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 | Pidgy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Justify** | *forfeit* |
 | Profound Leader ![][flag_GB] | 0 | **3** | ![][flag_GB] **bahamete** | |
 
-## Tournament Structure
-
-### Round of 128 & 64
-
-The tournament will have 128 players with matches consisting of Single Elimination, 1v1, Best of 5 matches. Seeding will be completed by the Draw Master, Mollerz using the following process:
-
-Seeding for this tournament will be as follows. This is a tournament of 128 players, 16 of which will be seeded. The draw is then completed as follows:
-
-1. The 1st seed will be placed at the top of the top half of the draw.
-2. The 2nd seed will be placed at the bottom of the bottom half of the draw.
-3. The 3rd and 4th seeds will be drawn to either the bottom of the top half  or the top of the bottom half.
-4. The 5th-8th seeds will be drawn in remaining gaps so they do not run into another seed in the first 3 rounds.
-5. The 9th-16th seeds will be drawn in remaining gaps so they do not run into another seed in the first 2 rounds.
-6. The remaining 128 competitors will be randomly assigned to the remaining gaps in the draw.
-
-This system will allow the top 16 seeds to not face another seed in the first two rounds, not necessarily giving them the easiest possible path, but means these competitors should supposedly reach the 3rd Round (RO16). It also adds a bit of randomisation to the first few rounds, so some less skilled players may be matched up against players of equal skill, giving them a chance to progress a round or two. Not only this but it gives the chance for some upsets, for example; the 15th seed may be drawn against the 17th seed in the first round, leading to a potential upset. This system gives the 16 seeds the potential to make the 3rd Round, but also leads to some interesting early round matches so it's not all boring!
-
-Draws like this are used in many sports, and I have been a competitor in and organised draws such as this one shown. It works very well and varies the draws so they do not end up the same or extremely similar every single tournament.
-
-### Round of 32
-
-The RO32 will be a Group Stage which is also seeded. This shall work as follows:
-
-1. The 4 players of each group are split into two pairs and play each other.
-2. The winners of these matches will then face each other in the Winner’s match.
-3. The victor places first in the group and advances to the Round of 16.
-4. The losers of the initial matches face each other in the Loser’s match.
-5. The loser of the Winner’s match and the winner of the Loser’s match will face each other in a fifth match.
-6. The winner gets second place in the group and advances to the Round of 16.
-
-### Round of 16 and above
-
-The RO16 onwards will be a standard Double Elimination bracket, seeded by performances in the group stage.
-
 ## Ruleset
 
 ### Tournament Rules
@@ -631,6 +595,40 @@ The RO16 onwards will be a standard Double Elimination bracket, seeded by perfor
 - The tournament will aim to be on the weekends, as the majority of players will be available. However, matches can be scheduled on any day dependent on availability of staff/players.
 - If you cannot play at the time posted for you, contact the organizer for a rearrangement.
 - Not showing is subject to the rules outlined in Tournament Rules.
+
+### Tournament Structure
+
+#### Round of 128 & 64
+
+The tournament will have 128 players with matches consisting of Single Elimination, 1v1, Best of 5 matches. Seeding will be completed by the Draw Master, Mollerz using the following process:
+
+Seeding for this tournament will be as follows. This is a tournament of 128 players, 16 of which will be seeded. The draw is then completed as follows:
+
+1. The 1st seed will be placed at the top of the top half of the draw.
+2. The 2nd seed will be placed at the bottom of the bottom half of the draw.
+3. The 3rd and 4th seeds will be drawn to either the bottom of the top half  or the top of the bottom half.
+4. The 5th-8th seeds will be drawn in remaining gaps so they do not run into another seed in the first 3 rounds.
+5. The 9th-16th seeds will be drawn in remaining gaps so they do not run into another seed in the first 2 rounds.
+6. The remaining 128 competitors will be randomly assigned to the remaining gaps in the draw.
+
+This system will allow the top 16 seeds to not face another seed in the first two rounds, not necessarily giving them the easiest possible path, but means these competitors should supposedly reach the 3rd Round (RO16). It also adds a bit of randomisation to the first few rounds, so some less skilled players may be matched up against players of equal skill, giving them a chance to progress a round or two. Not only this but it gives the chance for some upsets, for example; the 15th seed may be drawn against the 17th seed in the first round, leading to a potential upset. This system gives the 16 seeds the potential to make the 3rd Round, but also leads to some interesting early round matches so it's not all boring!
+
+Draws like this are used in many sports, and I have been a competitor in and organised draws such as this one shown. It works very well and varies the draws so they do not end up the same or extremely similar every single tournament.
+
+#### Round of 32
+
+The RO32 will be a Group Stage which is also seeded. This shall work as follows:
+
+1. The 4 players of each group are split into two pairs and play each other.
+2. The winners of these matches will then face each other in the Winner’s match.
+3. The victor places first in the group and advances to the Round of 16.
+4. The losers of the initial matches face each other in the Loser’s match.
+5. The loser of the Winner’s match and the winner of the Loser’s match will face each other in a fifth match.
+6. The winner gets second place in the group and advances to the Round of 16.
+
+#### Round of 16 and above
+
+The RO16 onwards will be a standard Double Elimination bracket, seeded by performances in the group stage.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"

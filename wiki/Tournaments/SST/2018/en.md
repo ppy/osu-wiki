@@ -108,9 +108,11 @@ The SS Tournament 2018 had a prize pool of USD 200.
 | Childhood Issues | ![][flag_DE] [-Hwangbo](https://osu.ppy.sh/users/7467183), ![][flag_DE] [Anroyz](https://osu.ppy.sh/users/1818573), ![][flag_DE] [Shiku](https://osu.ppy.sh/users/3970174), ![][flag_DE] [Shiguri](https://osu.ppy.sh/users/2665207) |
 | Sas(so) | ![][flag_IT] [SIMONETRAPANI](https://osu.ppy.sh/users/7329177), ![][flag_ES] [-Hideki-](https://osu.ppy.sh/users/8688804), ![][flag_IT] [_Akio](https://osu.ppy.sh/users/8676866), ![][flag_IT] [-Katsuo-](https://osu.ppy.sh/users/3460798) |
 
-![](img/Medals.jpg "SST 2018 podium")
-
 ![](img/Brackets.jpg "SST 2018 bracket")
+
+## Podium
+
+![](img/Medals.jpg "SST 2018 podium")
 
 ## Mappools
 

@@ -101,7 +101,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_RU] [Essi](https://osu.ppy.sh//users/8660244) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403) |
 
-## Mappools
+## Mappool
 
 There was only one mappool for all matches, made of beatmaps from the last four RMoT mappools. There were six tiebreaker beatmaps, one for each stage. Every tiebreaker from the last four RMoTs and two new beatmaps were picked for tiebreaker.
 

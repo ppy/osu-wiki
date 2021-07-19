@@ -52,16 +52,6 @@ The PERAK osu! Tournament was run by various Indonesian osu! community members.
 - [Livestream channel](https://www.twitch.tv/perakgamesleague "Twitch")
 - [Challonge brackets](https://challonge.com/jon1xcd6 "Challonge")
 
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] **[ReeyaDono](https://osu.ppy.sh/users/10969698)** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] **[Lindaine](https://osu.ppy.sh/users/4572717)** |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** |
-
 ## Participants
 
 Listed below are players who qualified into the Round of 12 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 19 registered players in total.
@@ -80,6 +70,16 @@ Listed below are players who qualified into the Round of 12 (along with their re
 | 10 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 9.1 |
 | 11 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | 10.2 |
 | 12 | ![][flag_ID] [ana\_kunn](https://osu.ppy.sh/users/2868409) | 10.3 |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] **[ReeyaDono](https://osu.ppy.sh/users/10969698)** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] **[Lindaine](https://osu.ppy.sh/users/4572717)** |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** |
 
 ## Mappools
 

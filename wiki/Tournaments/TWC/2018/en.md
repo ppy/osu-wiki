@@ -80,9 +80,11 @@ The osu!taiko World Cup 2018 was run by various community members.
 | ![][flag_US] | **United States** | **[n1doking](https://osu.ppy.sh/users/5991961)**, [Dargin](https://osu.ppy.sh/users/7086439), [JDrago14](https://osu.ppy.sh/users/7690078), [Loopy542](https://osu.ppy.sh/users/5468461), [Tem](https://osu.ppy.sh/users/5393042) |
 | ![][flag_VE] | **Venezuela** | **[[\_Chichinya\_]](https://osu.ppy.sh/users/2140739)**, [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [Colorojo12](https://osu.ppy.sh/users/5136821) |
 
-![](img/podium.png "TWC 2018 podium")
-
 ![](img/bracket.png "TWC 2018 bracket")
+
+## Podium
+
+![](img/podium.png "TWC 2018 podium")
 
 ## Mappools
 

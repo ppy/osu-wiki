@@ -95,9 +95,11 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 | **G** | ![][flag_CN] China | ![][flag_CH] Switzerland | ![][flag_AR] Argentina |
 | **H** | ![][flag_CL] Chile | ![][flag_AU] Australia | ![][flag_SE] Sweden |
 
-![](img/podium.jpg "MWC 7K 2018 podium")
-
 ![](img/bracket.jpg "MWC 7K 2018 bracket")
+
+## Podium
+
+![](img/podium.jpg "MWC 7K 2018 podium")
 
 ## Mappools
 

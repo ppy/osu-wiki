@@ -79,9 +79,11 @@ The osu!taiko World Cup 2017 was run by various community members.
 | ![][flag_US] | **United States** | **[Michiyo](https://osu.ppy.sh/users/5991961)**, [Catgirl](https://osu.ppy.sh/users/2771995), [Das](https://osu.ppy.sh/users/3165416), [JDrago14](https://osu.ppy.sh/users/7690078), [Protonori](https://osu.ppy.sh/users/6049990), [Shyguy](https://osu.ppy.sh/users/178038) |
 | ![][flag_VE] | **Venezuela** | **[JessiChan](https://osu.ppy.sh/users/1368025)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [Satoruu](https://osu.ppy.sh/users/2243452), [Seok Hyejin](https://osu.ppy.sh/users/2114483), [Thousand](https://osu.ppy.sh/users/2852968) |
 
-![](img/podium.jpg "TWC 2017 podium")
-
 ![](img/bracket.jpg "TWC 2017 bracket")
+
+## Podium
+
+![](img/podium.jpg "TWC 2017 podium")
 
 ## Mappool
 

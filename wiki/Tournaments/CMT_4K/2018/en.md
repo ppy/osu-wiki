@@ -58,6 +58,8 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 - [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform "Google Forms")
 - **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ")**
 
+## Podium
+
 ![](img/podium.png "CMT4K2018 podium")
 
 ## Mappools

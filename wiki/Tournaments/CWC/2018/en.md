@@ -88,9 +88,11 @@ The osu!catch World Cup 2018 was run by various community members.
 | ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [chickenbible](https://osu.ppy.sh/users/2306637), [Dahcreeper](https://osu.ppy.sh/users/6926006), [-Electro-](https://osu.ppy.sh/users/3251373), [Guillotine](https://osu.ppy.sh/users/4365562), [Playboy](https://osu.ppy.sh/users/2165558) |
 | ![][flag_VN] | **Vietnam** | **[Regu-](https://osu.ppy.sh/users/4948274)**, [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [Hana Yukiko](https://osu.ppy.sh/users/4964095), [Kouseki](https://osu.ppy.sh/users/4744615), [motherofsuper](https://osu.ppy.sh/users/6403418), [YamiSora](https://osu.ppy.sh/users/8042500) |
 
-![](img/podium.png "CWC 2018 podium")
-
 ![](img/bracket.jpg "CWC 2018 bracket")
+
+## Podium
+
+![](img/podium.png "CWC 2018 podium")
 
 ## Mappools
 

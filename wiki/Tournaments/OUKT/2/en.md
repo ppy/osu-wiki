@@ -8,8 +8,6 @@ tags:
 
 # UK osu!standard tournament 2
 
-## Introduction
-
 The **UK osu!standard tournament 2** (***OUKT2***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 2nd iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament Schedule

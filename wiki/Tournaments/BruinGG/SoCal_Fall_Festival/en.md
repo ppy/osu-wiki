@@ -16,19 +16,6 @@ The **SoCal Fall Festival** is an upcoming 1v1 [osu!](/wiki/Game_mode/osu!) tour
 
 In addition to the osu! tournament documented here, the SoCal Fall Festival will host casual games, competitive tournaments, panels, and an artists alley.
 
-## Links
-
-- **[Discord server](https://discord.gg/au7qpnk "Discord")**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1168265)
-- [Rules](https://docs.google.com/document/d/1HX3zr4dU8NlimMubDSiRFn8vP3DusvgVgG1WYiKGqmQ/edit?usp=sharing "Google Docs")
-
-### Related Discord servers
-
-- [BruinGG](https://discord.gg/bkxNBay "Discord")
-- [Gaucho Gaming](https://discord.gg/GauchoGaming "Discord")
-- [osu! UCI](https://discord.gg/qbZddFV "Discord")
-- [TAG at UCI](https://discord.gg/qKqCZXQ "Discord")
-
 ## Tournament schedule
 
 | Event | Timestamp (UTC-08) |
@@ -55,6 +42,19 @@ There are five organisers for the osu! section of the SoCal Fall Festival:
 - ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901) (LLEENN#0001)
 - ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) (naranjasagged#8308)
 - ![][flag_US] [Scientia Fe](https://osu.ppy.sh/users/7872968) (Scientia#3691)
+
+## Links
+
+- **[Discord server](https://discord.gg/au7qpnk "Discord")**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1168265)
+- [Rules](https://docs.google.com/document/d/1HX3zr4dU8NlimMubDSiRFn8vP3DusvgVgG1WYiKGqmQ/edit?usp=sharing "Google Docs")
+
+### Related Discord servers
+
+- [BruinGG](https://discord.gg/bkxNBay "Discord")
+- [Gaucho Gaming](https://discord.gg/GauchoGaming "Discord")
+- [osu! UCI](https://discord.gg/qbZddFV "Discord")
+- [TAG at UCI](https://discord.gg/qKqCZXQ "Discord")
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

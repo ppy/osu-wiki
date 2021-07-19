@@ -89,9 +89,11 @@ The osu! World Cup 2018 was run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)**, [Doomsday](https://osu.ppy.sh/users/18983), [Jameslike](https://osu.ppy.sh/users/2415743), [Karthy](https://osu.ppy.sh/users/4196808), [MoeYandere](https://osu.ppy.sh/users/2565902), [OPJames](https://osu.ppy.sh/users/4117142), [SoraRoxas01](https://osu.ppy.sh/users/1986262), [Spare](https://osu.ppy.sh/users/2204373) |
 | ![][flag_US] | **United States** | **[Apraxia](https://osu.ppy.sh/users/4194445)**, [DigitalHypno](https://osu.ppy.sh/users/4384207), [fieryrage](https://osu.ppy.sh/users/3533958), [he rack](https://osu.ppy.sh/users/2644828), [idke](https://osu.ppy.sh/users/4650315), [Monko2k](https://osu.ppy.sh/users/4852013), [Toy](https://osu.ppy.sh/users/2757689), [Vaxei](https://osu.ppy.sh/users/4787150) |
 
-![](img/podium.jpg "OWC 2018 podium")
-
 ![](img/bracket.jpg "OWC 2018 bracket")
+
+## Podium
+
+![](img/podium.jpg "OWC 2018 podium")
 
 ## Mappools
 

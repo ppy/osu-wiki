@@ -102,9 +102,11 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 | **G** | ![][flag_GB] United Kingdom | ![][flag_FR] France | ![][flag_FI] Finland | ![][flag_IL] Israel |
 | **H** | ![][flag_US] United States | ![][flag_TW] Taiwan | ![][flag_CL] Chile | ![][flag_VN] Vietnam |
 
-![](img/podium.jpg "MWC 4K 2015 podium")
-
 ![](img/brackets.jpg "MWC 4K 2015 bracket")
+
+## Podium
+
+![](img/podium.jpg "MWC 4K 2015 podium")
 
 ## Mappools
 

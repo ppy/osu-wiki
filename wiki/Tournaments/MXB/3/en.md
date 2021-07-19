@@ -53,12 +53,6 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
   - [NimaPro](https://live.bilibili.com/12166146 "Bilibili")
   - [Rasis](https://live.bilibili.com/5333 "Bilibili")
 
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [A M D](https://osu.ppy.sh/users/5321112) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [shizehao](https://osu.ppy.sh/users/4928674) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [Yutto007](https://osu.ppy.sh/users/10269172) |
-
 ## Participants
 
 |  |  |  |  |
@@ -79,6 +73,16 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | B | Anonie | magical Sao | HerrySun | shizehao |
 | C | bouquetww | a794151336 | s\_w\_w | Yutto007 |
 | D | \[xiao ba\] | Star0v0 | RW233 | A M D |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [A M D](https://osu.ppy.sh/users/5321112) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [Yutto007](https://osu.ppy.sh/users/10269172) |
 
 ## Mappools
 

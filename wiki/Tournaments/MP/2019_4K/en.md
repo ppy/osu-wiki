@@ -80,6 +80,8 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 | **G** | ![][flag_PL] Tidek | ![][flag_PL] Hvb3rt | ![][flag_PL] Shadow Cultist | ![][flag_PL] FD5GD |
 | **H** | ![][flag_PL] \_underjoy | ![][flag_PL] Justin14p | ![][flag_PL] m666 | ![][flag_PL] MrBooM |
 
+## Podium
+
 ![](img/podium.png "MP4K 2019 podium")
 
 ## Mappools

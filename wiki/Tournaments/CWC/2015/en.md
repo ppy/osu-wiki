@@ -98,9 +98,11 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 | ![][flag_PH] Philippines | ![][flag_AR] Argentina | ![][flag_NL] Netherlands | ![][flag_SG] Singapore | ![][flag_MX] Mexico | ![][flag_HK] Hong Kong | ![][flag_JP] Japan | ![][flag_TH] Thailand |
 | ![][flag_FR] France | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_PL] Poland | ![][flag_CN] China | Indonesia ![][flag_ID] | ![][flag_DE] Germany | ![][flag_IT] Italy |
 
-![](img/podium.jpg "CWC 2015 podium")
-
 ![](img/bracket.jpg "CWC 2015 bracket")
+
+## Podium
+
+![](img/podium.jpg "CWC 2015 podium")
 
 ## Mappools
 

@@ -56,22 +56,6 @@ The osu! World Cup #2 was run by various community members.
 - [Livestream link (own3d.tv)](https://www.own3d.tv/MetroAR "OWN3D")
 - [Pre-tournament interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit "Google Docs")
 
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [CheEZ](https://osu.ppy.sh/users/272117), [K i R i K a R u](https://osu.ppy.sh/users/139670), [moneto](https://osu.ppy.sh/users/242788), [Reisen Udongein](https://osu.ppy.sh/users/232942), [Remilia-Scarlet](https://osu.ppy.sh/users/602783)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [Sinch](https://osu.ppy.sh/users/360552), [tobaku2784](https://osu.ppy.sh/users/113855), *[val0108](https://osu.ppy.sh/users/243917)¹*) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *[gabaeba](https://osu.ppy.sh/users/867902)²*) |
-
-¹ *Denotes players that were being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
-
-² *Denotes players that were being brought in as a substitute player prior to the beginning of the knock-out stages.*
-
-![](img/bracket.jpg "OWC #2 bracket")
-
 ## Participants
 
 |  | Country | Members |
@@ -123,6 +107,22 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_DK] Denmark | ![][flag_NL] Netherlands | ![][flag_NO] Norway | ![][flag_HK] Hong Kong | ![][flag_FR] France | ![][flag_MY] Malaysia | ![][flag_BG] Bulgaria | ![][flag_AT] Austria |
 | ![][flag_DE] Germany | ![][flag_NZ] New Zealand | ![][flag_PL] Poland | ![][flag_KR] South Korea | ![][flag_LV] Latvia | ![][flag_RU] Russian Federation | ![][flag_SE] Sweden | ![][flag_TH] Thailand |
 | ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_UA] Ukraine | ![][flag_VN] Vietnam | ![][flag_PT] Portugal | ![][flag_UY] Uruguay | ![][flag_TW] Taiwan | ![][flag_US] United States |
+
+![](img/bracket.jpg "OWC #2 bracket")
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [CheEZ](https://osu.ppy.sh/users/272117), [K i R i K a R u](https://osu.ppy.sh/users/139670), [moneto](https://osu.ppy.sh/users/242788), [Reisen Udongein](https://osu.ppy.sh/users/232942), [Remilia-Scarlet](https://osu.ppy.sh/users/602783)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [Sinch](https://osu.ppy.sh/users/360552), [tobaku2784](https://osu.ppy.sh/users/113855), *[val0108](https://osu.ppy.sh/users/243917)¹*) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *[gabaeba](https://osu.ppy.sh/users/867902)²*) |
+
+¹ *Denotes players that were being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
+
+² *Denotes players that were being brought in as a substitute player prior to the beginning of the knock-out stages.*
 
 ## Mappools
 

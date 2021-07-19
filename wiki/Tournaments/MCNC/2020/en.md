@@ -102,19 +102,11 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 | CherryG | Rbpencil | gzdongsheng | Edward\_Tsui | yuwenhao1 | \[Illustrious\] | spensll | \[Crz\]I-Night |
 | \[ Emiya \] | Timewasdeapsea | - xiaoluoli - | Cloud18 | Hidden is fun | GODV14138 | 3032656057 | Kagaku |
 
-### Podium and bracket
+![](img/bracket.png "MCNC 2020 bracket")
 
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [Kakuko](https://osu.ppy.sh/users/10413362) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
+## Podium
 
 ![](img/podium.png "MCNC 2020 podium")
-
-![](img/bracket.png "MCNC 2020 bracket")
 
 ## Mappools
 

@@ -130,6 +130,10 @@ The osu!mania World Cup 2014 was run by various community members.
 | ![][flag_DE] Germany | ![][flag_RU] Russian Federation | ![][flag_JP] Japan | ![][flag_GB] United Kingdom |
 | ![][flag_US] United States | ![][flag_CN] China | ![][flag_FR] France | ![][flag_NL] Netherlands |
 
+![](img/brackets-4K.jpg "MWC 2014 4K bracket")
+
+![](img/brackets-7K.jpg "MWC 2014 7K bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -139,10 +143,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[ideu-](https://osu.ppy.sh/users/137227)**, [Abcdullah](https://osu.ppy.sh/users/4140104), [FaL3C\_ChoBo](https://osu.ppy.sh/users/1218632), [jhlee0133](https://osu.ppy.sh/users/140148)) | ![][flag_KR] **South Korea** (**[ideu-](https://osu.ppy.sh/users/137227)**, [Abcdullah](https://osu.ppy.sh/users/4140104), [jhlee0133](https://osu.ppy.sh/users/140148), [WindyS](https://osu.ppy.sh/users/1190879)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] **Philippines** (**[Tokiiwa](https://osu.ppy.sh/users/4029511)**, [Ainyan](https://osu.ppy.sh/users/3770641), [arcwinolivirus](https://osu.ppy.sh/users/2039089)) | ![][flag_TH] **Thailand** (**[lostcool](https://osu.ppy.sh/users/766374)**, [Mystical Faith](https://osu.ppy.sh/users/4280188), [Popo\[Mikoto\]](https://osu.ppy.sh/users/445236)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] **Malaysia** (**[Gon](https://osu.ppy.sh/users/583765)**, [\_Sylveon\_](https://osu.ppy.sh/users/3936677), [LongGone](https://osu.ppy.sh/users/35882), [ZYuan](https://osu.ppy.sh/users/3337688)) | ![][flag_MY] **Malaysia** (**[Gon](https://osu.ppy.sh/users/583765)**, [\_Sylveon\_](https://osu.ppy.sh/users/3936677), [LongGone](https://osu.ppy.sh/users/35882)) |
-
-![](img/brackets-4K.jpg "MWC 2014 4K bracket")
-
-![](img/brackets-7K.jpg "MWC 2014 7K bracket")
 
 ## Mappools
 

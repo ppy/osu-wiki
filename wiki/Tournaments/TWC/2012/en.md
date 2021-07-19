@@ -93,9 +93,11 @@ The Taiko World Cup 2012 was run by various community members.
 | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan B | ![][flag_PH] Philippines | ![][flag_KR] Korea A | ![][flag_JP] Japan A | ![][flag_KR] Korea B |
 | ![][flag_PL] Poland | ![][flag_TW] Taiwan A | ![][flag_US] United States B | ![][flag_ES] Spain | ![][flag_TW] Taiwan B | ![][flag_US] United States A |
 
-![](img/podium.png "TWC 2012 podium")
-
 ![](img/bracket.jpg "TWC 2012 bracket")
+
+## Podium
+
+![](img/podium.png "TWC 2012 podium")
 
 ## Mappools
 

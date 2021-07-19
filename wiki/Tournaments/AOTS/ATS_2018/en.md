@@ -77,14 +77,15 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 | **G** | ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
 | **H** | ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651) | ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981) | ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134) |
 
-![](img/podium.jpg "ATS 2018 podium")
-
 ![](img/upper_bracket.jpg "ATS 2018 Upper Bracket")
 
 ![](img/lower_bracket.jpg "ATS 2018 Lower Bracket")
 
 ![](img/gs_participants.gif "ATS 2018 GS participants")
 
+## Podium
+
+![](img/podium.jpg "ATS 2018 podium")
 ## Mappools
 
 ### Grand Finals

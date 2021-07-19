@@ -90,6 +90,8 @@ The osu! Taiko World Cup 2015 was run by various community members.
 | ![][flag_KR] South Korea | ![][flag_DE] Germany | ![][flag_FR] France | ![][flag_HK] Hong Kong |
 | ![][flag_TW] Taiwan | ![][flag_CN] China | ![][flag_JP] Japan | ![][flag_US] United States |
 
+![](img/bracket.jpg "TWC 2015 bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -99,8 +101,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] **Japan** (**[sobatsuyu100](https://osu.ppy.sh/users/2076374)**, [1RoHa\_](https://osu.ppy.sh/users/4632503), [cagalin](https://osu.ppy.sh/users/2586173), [coDMo2ooo](https://osu.ppy.sh/users/3644233), [Rydan72261](https://osu.ppy.sh/users/5309575), [tasuke912](https://osu.ppy.sh/users/2774767)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taiwan** (**[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)**, [howar5041](https://osu.ppy.sh/users/584411), [jordan\_sur](https://osu.ppy.sh/users/2960947), [mliencheng](https://osu.ppy.sh/users/586659), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] **France** (**[Nashmun](https://osu.ppy.sh/users/49031)**, [\_Gezo\_](https://osu.ppy.sh/users/481582), [Fraolinch](https://osu.ppy.sh/users/205257), [Jinyan](https://osu.ppy.sh/users/669531), [omegaflo](https://osu.ppy.sh/users/83291), [TimmyAkmed](https://osu.ppy.sh/users/1799973)) |
-
-![](img/bracket.jpg "TWC 2015 bracket")
 
 ## Mappools
 

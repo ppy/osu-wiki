@@ -88,9 +88,11 @@ The osu!taiko World Cup 2019 was run by various community members.
 | ![][flag_US] | **United States** | **[Ney](https://osu.ppy.sh/users/5991961)**, [\_cc](https://osu.ppy.sh/users/1656336), [cheese salad](https://osu.ppy.sh/users/6349821), [Loopy542](https://osu.ppy.sh/users/5468461), [yea](https://osu.ppy.sh/users/6874332) |
 | ![][flag_VE] | **Venezuela** | **[Te amo Kazu](https://osu.ppy.sh/users/1368025)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [My Angel Kazu](https://osu.ppy.sh/users/5136821), [Nutellitah](https://osu.ppy.sh/users/10613075) |
 
-![](img/podium.jpg "TWC 2019 podium")
-
 ![](img/bracket.jpg "TWC 2019 bracket")
+
+## Podium
+
+![](img/podium.jpg "TWC 2019 podium")
 
 ## Mappools
 

@@ -59,17 +59,6 @@ Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members
 - [Livestream (YouTube)](http://www.youtube.com/channel/UCVKBLmflZE2QUHnmB8eaf0g "YouTube")
 - [Challonge bracket](https://challonge.com/CMC_1 "Challonge")
 
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Neppu-Neppu** (![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Leviathan** (![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **UwU Team** (![][flag_ID] [juww](https://osu.ppy.sh/users/11019862), ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808)) |
-| *4th place* | **Team 11** (![][flag_ID] [N i k o L](https://osu.ppy.sh/users/12971540), ![][flag_ID] [ladycello](https://osu.ppy.sh/users/15412010)) |
-
 ## Participants
 
 Listed below are players who qualified into the Group Stage (along with their respective seeding and group placement) out of 53 registered players in total.
@@ -105,6 +94,17 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 | **Team 16** | ![][flag_ID] [aghil jayadi](https://osu.ppy.sh/users/8405046) (*Group H / 3rd Place*) | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) (*Group F / 4th Place*) |
 | **Team 3** | ![][flag_ID] [\[ID\]Rachel-](https://osu.ppy.sh/users/13848924) (*Group B / 1st Place*) | ![][flag_ID] [SanjayaIH](https://osu.ppy.sh/users/12202728) (*Group D / 2nd Place*) |
 | **UwU Team** | ![][flag_ID] [juww](https://osu.ppy.sh/users/11019862) (*Group E / 1st Place*) | ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808) (*Group G / 2nd Place*) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Neppu-Neppu** (![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Leviathan** (![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **UwU Team** (![][flag_ID] [juww](https://osu.ppy.sh/users/11019862), ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808)) |
+| *4th place* | **Team 11** (![][flag_ID] [N i k o L](https://osu.ppy.sh/users/12971540), ![][flag_ID] [ladycello](https://osu.ppy.sh/users/15412010)) |
 
 ## Mappools
 

@@ -64,6 +64,8 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 | **G** | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) |
 | **H** | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) |
 
+## Podium
+
 ![](img/podium.jpg "CIC 2018 podium")
 
 ## Mappools

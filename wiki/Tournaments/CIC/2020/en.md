@@ -57,10 +57,6 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 - [Challonge brackets](https://challonge.com/CIC2020 "Challonge")
 - [Livestream](https://www.twitch.tv/osuIndonesia "Twitch")
 
-## Podium
-
-![](img/podium.jpg "CIC 2020 podium")
-
 ## Participants
 
 | Group |  |  |  |  |
@@ -73,6 +69,10 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 | **F** | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [\[ Ari Knight \]](https://osu.ppy.sh/users/8126277) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) |
 | **G** | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) |
 | **H** | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Momochuuan21](https://osu.ppy.sh/users/8794848) | ![][flag_ID] [Azwa\_Kurendra](https://osu.ppy.sh/users/14799356) |
+
+## Podium
+
+![](img/podium.jpg "CIC 2020 podium")
 
 ## Mappools
 

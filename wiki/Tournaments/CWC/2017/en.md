@@ -87,9 +87,11 @@ The osu!catch World Cup 2017 was run by various community members.
 | ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [chickenbible](https://osu.ppy.sh/users/2306637), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Del](https://osu.ppy.sh/users/2996241), [qebrus](https://osu.ppy.sh/users/3438241), [Sponge](https://osu.ppy.sh/users/4365562) |
 | ![][flag_VE] | **Venezuela** | **[AizW](https://osu.ppy.sh/users/6672736)**, [\_Tsugumi](https://osu.ppy.sh/users/8746368), [F4spross](https://osu.ppy.sh/users/6485050), [Hisashi Shimoro](https://osu.ppy.sh/users/6736420), [Yudara](https://osu.ppy.sh/users/3564018) |
 
-![](img/podium.jpg "CWC 2017 podium")
-
 ![](img/bracket.jpg "CWC 2017 bracket")
+
+## Podium
+
+![](img/podium.jpg "CWC 2017 podium")
 
 ## Mappools
 

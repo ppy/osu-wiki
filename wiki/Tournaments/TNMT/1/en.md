@@ -24,7 +24,7 @@ The **:thonking: Newbie mania Tournament** (***TNMT***) was a 1v1 osu!mania 4K t
 | Finals week 1 | 2019-09-21/2019-09-22 |
 | Finals week 2 | 2019-09-28/2019-09-29 |
 
-## Prize
+## Prizes
 
 All prizes were sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6679329)**.
 

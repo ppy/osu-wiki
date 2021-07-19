@@ -55,16 +55,6 @@ OSIM was run by various osu! community members predominantly hailing from Singap
 - [Discord server](https://discord.gg/kFs2Kbp "Discord")
 - [Livestream channel](https://www.twitch.tv/oseatournament "Twitch")
 
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **somaymalaycapcay** (![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559), ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **adventure timers** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188), ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **we will 操你妈** (![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281), ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292), ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650)) |
-
 ## Participants
 
 | Team name | Seed A player (captain) | Seed B player | Seed C player |
@@ -89,6 +79,16 @@ This competition has come to an end and resulted in the following podium:
 | **tasty watermelon** | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336)** | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_MY] [AGhostyTSQ](https://osu.ppy.sh/users/13047324) |
 | **we will 操你妈** | ![][flag_SG] **[Soba Noodles](https://osu.ppy.sh/users/3010281)** | ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292) | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) |
 | **Where Love Lies** | ![][flag_SG] **[Fuma](https://osu.ppy.sh/users/1501956)** | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **somaymalaycapcay** (![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559), ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **adventure timers** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188), ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **we will 操你妈** (![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281), ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292), ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650)) |
 
 ## Mappools
 

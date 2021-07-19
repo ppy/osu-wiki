@@ -44,6 +44,18 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a 1v1 doub
 - [Challonge](https://anzttournaments.challonge.com/pl/anzt5w "Challonge")
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ylrPqTzCRTyQQG_RGBqZJZrUz_QFgSs_v26SFwhqLAs "Google Sheets")**
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
+
+All individual match results can be found on the Challonge page linked above.
+
 ## Mappools
 
 ### Finals week 2
@@ -216,18 +228,6 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a 1v1 doub
   - [Kotoge Mai - Mangekyou (Oracle) [cRyo's Insane]](https://osu.ppy.sh/beatmapsets/230094#osu/535334)
 - Tiebreaker
   - **[Nekomata Master feat. Misawa Aki - chrono diver -fragment- (Seikatu) [Marathon]](https://osu.ppy.sh/beatmapsets/349291#osu/808448)**
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
-
-All individual match results can be found on the Challonge page linked above.
 
 ## Ruleset
 

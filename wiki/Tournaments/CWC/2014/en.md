@@ -96,6 +96,8 @@ The osu! Catch the Beat World Cup 2014 was run by various community members.
 | ![][flag_TH] Thailand | ![][flag_CL] Chile | ![][flag_SG] Singapore | ![][flag_MY] Malaysia | ![][flag_NZ] New Zealand | ![][flag_FI] Finland | ![][flag_CA] Canada | ![][flag_UY] Uruguay |
 | ![][flag_US] United States | ![][flag_EE] Estonia | ![][flag_NO] Norway | ![][flag_JP] Japan | ![][flag_SE] Sweden | ![][flag_HR] Croatia | ![][flag_BO] Bolivia | ![][flag_ID] Indonesia |
 
+![](img/bracket.jpg "CWC 2014 bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -105,8 +107,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[Spectator](https://osu.ppy.sh/users/702598)**, [dae6254](https://osu.ppy.sh/users/563262), [Frobe](https://osu.ppy.sh/users/670365), [Kuzino](https://osu.ppy.sh/users/158552), [Last Bubble](https://osu.ppy.sh/users/1302259)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] **Germany** (**[DeathXHunter](https://osu.ppy.sh/users/405326)**, [NoteKuroi](https://osu.ppy.sh/users/186642), [Nyan-Zapo](https://osu.ppy.sh/users/480676)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SE] **Sweden** (**[Yukiteru Amano](https://osu.ppy.sh/users/1894511)**, [-Airi-](https://osu.ppy.sh/users/2546340), [Negri\_sk](https://osu.ppy.sh/users/2231396), [Suzuki](https://osu.ppy.sh/users/2960209), [Walterx8](https://osu.ppy.sh/users/1993041)) |
-
-![](img/bracket.jpg "CWC 2014 bracket")
 
 ## Mappools
 

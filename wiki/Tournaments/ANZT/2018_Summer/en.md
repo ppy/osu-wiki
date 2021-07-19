@@ -44,6 +44,16 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 doub
 - [Livestream](https://www.twitch.tv/osuanzt "Twitch")
 - [Challonge page](https://anzttournaments.challonge.com/o1fs6s1q "Challonge")
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
+
 ## Mappools
 
 ### Finals week 2
@@ -241,16 +251,6 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 doub
   - [Gentle Stick X M2U - Ineffabilis (buhei) \[-kevincela-'s Insane\]](https://osu.ppy.sh/beatmapsets/340903)
 - DoubleTime
   - [ClariS - CLICK (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmapsets/145550)
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 
 ## Match results
 

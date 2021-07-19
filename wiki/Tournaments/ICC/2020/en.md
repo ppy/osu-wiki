@@ -54,10 +54,6 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - [Discord server](http://discord.gg/7g6TAj2 "Discord")
 - [Livestream](https://www.twitch.tv/osuIndonesia "Twitch")
 
-## Podium
-
-![](img/podium.jpg "ICC 2020 podium")
-
 ## Participants
 
 | Group |  |  |  |  |
@@ -70,6 +66,10 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 | **F** | ![][flag_ID] [Reen](https://osu.ppy.sh/users/3285139) | ![][flag_ID] [Yui\_](https://osu.ppy.sh/users/8264181) | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | *N/A* |
 | **G** | ![][flag_ID] [Valskiel](https://osu.ppy.sh/users/1254639) | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039) | *N/A* |
 | **H** | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422) | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) | *N/A* |
+
+## Podium
+
+![](img/podium.jpg "ICC 2020 podium")
 
 ## Mappools
 

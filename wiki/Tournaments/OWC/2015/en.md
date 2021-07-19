@@ -101,9 +101,11 @@ The osu! World Cup 2015 was run by various community members.
 | **G** | ![][flag_DE] Germany | ![][flag_NL] Netherlands | ![][flag_TH] Thailand | ![][flag_SG] Singapore |
 | **H** | ![][flag_TW] Taiwan | ![][flag_AT] Austria | ![][flag_SE] Sweden | ![][flag_PT] Portugal |
 
-![](img/podium.jpg "OWC 2015 podium")
-
 ![](img/bracket.jpg "OWC 2015 bracket")
+
+## Podium
+
+![](img/podium.jpg "OWC 2015 podium")
 
 ## Mappools
 

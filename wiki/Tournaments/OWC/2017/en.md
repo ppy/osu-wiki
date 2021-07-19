@@ -86,9 +86,11 @@ The osu! World Cup 2017 was run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)**, [bahamete](https://osu.ppy.sh/users/960620), [Castiel](https://osu.ppy.sh/users/1986262), [Doomsday](https://osu.ppy.sh/users/18983), [Jameslike](https://osu.ppy.sh/users/2415743), [Karthy](https://osu.ppy.sh/users/4196808), [OPJames](https://osu.ppy.sh/users/4117142), [Spare](https://osu.ppy.sh/users/2204373) |
 | ![][flag_US] | **United States** | **[Apraxia](https://osu.ppy.sh/users/4194445)**, [Axarious](https://osu.ppy.sh/users/2614511), [DigitalHypno](https://osu.ppy.sh/users/4384207), [fieryrage](https://osu.ppy.sh/users/3533958), [HappyStick](https://osu.ppy.sh/users/256802), [idke](https://osu.ppy.sh/users/4650315), [Monko2k](https://osu.ppy.sh/users/4852013), [Toy](https://osu.ppy.sh/users/2757689) |
 
-![](img/podium.jpg "OWC 2017 podium")
-
 ![](img/bracket.jpg "OWC 2017 bracket")
+
+## Podium
+
+![](img/podium.jpg "OWC 2017 podium")
 
 ## Mappools
 

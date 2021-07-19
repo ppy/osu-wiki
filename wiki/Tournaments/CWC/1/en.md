@@ -45,16 +45,6 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/63296)
 - [Livestream link](https://de.justin.tv/inoodle "Justin.tv")
 
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **China** (![][flag_CN] **[hy1hy1hy](https://osu.ppy.sh/users/243877)**, ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210), ![][flag_HK] [HineX](https://osu.ppy.sh/users/13854), ![][flag_CN] [joynama](https://osu.ppy.sh/users/169128)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **half manual player team** (![][flag_TW] **[madaoB](https://osu.ppy.sh/users/8174275)**, ![][flag_TW] [allen22604358](https://osu.ppy.sh/users/84921), ![][flag_TW] [Flanet](https://osu.ppy.sh/users/891388), ![][flag_TW] [H i M e J i](https://osu.ppy.sh/users/732285)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Chile** (![][flag_CL] **[eldnl](https://osu.ppy.sh/users/285756)**, ![][flag_CL] [Dark\_Diego](https://osu.ppy.sh/users/723787), ![][flag_ES] [Daxmaster](https://osu.ppy.sh/users/264914), ![][flag_CL] [MoodyRPG](https://osu.ppy.sh/users/464889)) |
-
 ## Participants
 
 | Team name | Region | Members |
@@ -88,6 +78,16 @@ This competition has come to an end and resulted in the following podium:
 | B | State(s) of the Art | CFC | Hungary CTB | #filipino | Old School |
 | C | Team Nub | half manual player team | Red Fury | German Hentai's | Indonesia II |
 | D | Chile | China | French fruit overdose club | CatchTheHungarians | Korea |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **China** (![][flag_CN] **[hy1hy1hy](https://osu.ppy.sh/users/243877)**, ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210), ![][flag_HK] [HineX](https://osu.ppy.sh/users/13854), ![][flag_CN] [joynama](https://osu.ppy.sh/users/169128)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **half manual player team** (![][flag_TW] **[madaoB](https://osu.ppy.sh/users/8174275)**, ![][flag_TW] [allen22604358](https://osu.ppy.sh/users/84921), ![][flag_TW] [Flanet](https://osu.ppy.sh/users/891388), ![][flag_TW] [H i M e J i](https://osu.ppy.sh/users/732285)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Chile** (![][flag_CL] **[eldnl](https://osu.ppy.sh/users/285756)**, ![][flag_CL] [Dark\_Diego](https://osu.ppy.sh/users/723787), ![][flag_ES] [Daxmaster](https://osu.ppy.sh/users/264914), ![][flag_CL] [MoodyRPG](https://osu.ppy.sh/users/464889)) |
 
 ## Mappools
 

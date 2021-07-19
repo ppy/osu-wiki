@@ -96,9 +96,11 @@ The osu!catch World Cup 2016 was run by various community members.
 | ![][flag_ID] Indonesia | ![][flag_MX] Mexico | ![][flag_HK] Hong Kong | ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_SE] Sweden |
 | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_CL] Chile | ![][flag_FR] France | ![][flag_DE] Germany | ![][flag_AR] Argentina | ![][flag_CN] China |
 
-![](img/podium.jpg "CWC 2016 podium")
-
 ![](img/bracket.jpg "CWC 2016 bracket")
+
+## Podium
+
+![](img/podium.jpg "CWC 2016 podium")
 
 ## Mappools
 

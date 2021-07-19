@@ -100,6 +100,8 @@ The osu! World Cup 2013 was run by various community members.
 | ![][flag_TH] Thailand | ![][flag_SE] Sweden | ![][flag_IT] Italy | ![][flag_SG] Singapore |
 | ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_NL] Netherlands | ![][flag_VE] Venezuela |
 
+![](img/bracket.jpg "OWC 2013 bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -109,8 +111,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[Dungeon](https://osu.ppy.sh/users/461720)**, [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [CheEZ](https://osu.ppy.sh/users/272117), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [K i R i K a R u](https://osu.ppy.sh/users/139670), [Shizuru-](https://osu.ppy.sh/users/1341421), [Tengu](https://osu.ppy.sh/users/380836)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [dabanlong](https://osu.ppy.sh/users/624254), [I will be back](https://osu.ppy.sh/users/477704), [onlyforyou](https://osu.ppy.sh/users/597858), [Rucker](https://osu.ppy.sh/users/147515), [Small K](https://osu.ppy.sh/users/952751), [SnowWhite](https://osu.ppy.sh/users/50265), [YuyuKo sama](https://osu.ppy.sh/users/234788)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **Poland** (**[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [Beniek](https://osu.ppy.sh/users/1649633), [Niko](https://osu.ppy.sh/users/175141), [Piotrekol](https://osu.ppy.sh/users/304520), [rEdo](https://osu.ppy.sh/users/49329), [worst fl player](http://osu.ppy.sh/users/613592), [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
-
-![](img/bracket.jpg "OWC 2013 bracket")
 
 ## Mappools
 

@@ -85,6 +85,8 @@ The Taiko World Cup 2014 was run by various community members.
 | ![][flag_DE] Germany | ![][flag_SG] Singapore | ![][flag_CA] Canada | ![][flag_PL] Poland |
 | ![][flag_SE] Sweden | ![][flag_GB] United Kingdom | ![][flag_RU] Russian Federation | ![][flag_HK] Hong Kong |
 
+![](img/bracket.jpg "TWC 2014 bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -94,8 +96,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] **Japan** (**[TKSalt](https://osu.ppy.sh/users/940878)**, [azger](https://osu.ppy.sh/users/2335982), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [Orukaa](https://osu.ppy.sh/users/987895), [pagr42](https://osu.ppy.sh/users/1500725), [sobatsuyu100](https://osu.ppy.sh/users/2076374)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] **Hong Kong** (**[thomas1195](https://osu.ppy.sh/users/1691488)**, [\[yuyuko\_Saigyouj\]](https://osu.ppy.sh/users/1378994), [aabc271](https://osu.ppy.sh/users/155707), [Andrew Chow](https://osu.ppy.sh/users/3043041), [ice man007](https://osu.ppy.sh/users/1926937), [Jikson\[m9\]](https://osu.ppy.sh/users/1485257)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] **France** (**[\_Gezo\_](https://osu.ppy.sh/users/481582)**, [Fraolinch](https://osu.ppy.sh/users/205257), [Jinyan](https://osu.ppy.sh/users/669531), [Nashmun](https://osu.ppy.sh/users/49031), [omegaflo](https://osu.ppy.sh/users/83291), [TimmyAkmed](https://osu.ppy.sh/users/1799973)) |
-
-![](img/bracket.jpg "TWC 2014 bracket")
 
 ## Mappools
 

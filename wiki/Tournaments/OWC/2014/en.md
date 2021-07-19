@@ -97,6 +97,8 @@ The osu! World Cup 2014 was run by various community members.
 | ![][flag_PT] Portugal | ![][flag_NZ] New Zealand | ![][flag_FR] France | ![][flag_MX] Mexico | ![][flag_SE] Sweden | ![][flag_NL] Netherlands | ![][flag_GB] United Kingdom | ![][flag_MY] Malaysia |
 | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_ID] Indonesia | ![][flag_UA] Ukraine | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_RU] Russian Federation |
 
+![](img/bracket.jpg "OWC 2014 bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -106,8 +108,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] **Japan** (**[Mercurius](https://osu.ppy.sh/users/589550)**, [Guy](https://osu.ppy.sh/users/91738), [Poruteri](https://osu.ppy.sh/users/1379576), [Potofu](https://osu.ppy.sh/users/657404), [rrtyui](https://osu.ppy.sh/users/352328), [serea](https://osu.ppy.sh/users/371961), [Sinch](https://osu.ppy.sh/users/360552)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] **Poland** (**[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [listless](https://osu.ppy.sh/users/1106527), [r0ck](https://osu.ppy.sh/users/1549620), [SteRRuM](https://osu.ppy.sh/users/42585), [Wilchq](https://osu.ppy.sh/users/2021758), [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] **Germany** (**[cptnXn](https://osu.ppy.sh/users/495272)**, [BDDav](https://osu.ppy.sh/users/1164526), [CookEasy](https://osu.ppy.sh/users/453226), [Dustice](https://osu.ppy.sh/users/754565), [shunsuke](https://osu.ppy.sh/users/2028641), [Splinter572](https://osu.ppy.sh/users/846038), [Tom94](https://osu.ppy.sh/users/1857058)) |
-
-![](img/bracket.jpg "OWC 2014 bracket")
 
 ## Mappools
 
