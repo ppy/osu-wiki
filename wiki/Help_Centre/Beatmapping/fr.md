@@ -16,7 +16,7 @@ tags:
 
 # Beatmapping et Éditeur
 
-*Page principale : [Help centre](/wiki/Help_Centre)*
+*Page principale : [Centre d'aide](/wiki/Help_Centre)*
 
 Cette section est consacrée aux problèmes liés à l'éditeur de beatmaps et au beatmapping en général.
 
