@@ -175,6 +175,33 @@ Listed below are players who qualified into the Group stage (along with their re
 
 ## Match results
 
+### Quarterfinals
+
+Friday, 16 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Suikami](https://osu.ppy.sh/users/1929336)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939) | [#1](https://osu.ppy.sh/community/matches/87490047) |
+| Upper | **[Pyrozen](https://osu.ppy.sh/users/3031177)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | [#1](https://osu.ppy.sh/community/matches/87483233) |
+| Upper | [BitDust](https://osu.ppy.sh/users/9573836) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/87492466) |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | [#1](https://osu.ppy.sh/community/matches/87485885) |
+
+Saturday, 17 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [BitDust](https://osu.ppy.sh/users/9573836) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/87546745) |
+| Lower | [Galaxi](https://osu.ppy.sh/users/2552435) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148)** | [#1](https://osu.ppy.sh/community/matches/87548787) |
+| Lower | [by-ad](https://osu.ppy.sh/users/7439939) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877)** | [#1](https://osu.ppy.sh/community/matches/87550793) |
+| Lower | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | [#1](https://osu.ppy.sh/community/matches/87553091) |
+
+Sunday, 18 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/87612630) |
+| Lower | [Sololiquy](https://osu.ppy.sh/users/4350087) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148)** | [#1](https://osu.ppy.sh/community/matches/87615032) |
+
 ### Round of 16
 
 Friday, 9 July 2021:
