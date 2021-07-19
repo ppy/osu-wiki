@@ -76,7 +76,7 @@ Yaz's Summer Cup 2017 was run by various community members by distributing the m
 | Group O | ![][flag_US] **[Monko2k](https://osu.ppy.sh/users/4852013)**, ![][flag_US] **[Smoothie World](https://osu.ppy.sh/users/1855540)**, ![][flag_NL] [Timpai](https://osu.ppy.sh/users/5054798), ![][flag_RU] [ncuh](https://osu.ppy.sh/users/2891734) |
 | Group P | ![][flag_ES] **[Betwin](https://osu.ppy.sh/users/1968481)**, ![][flag_GB] **[Helix](https://osu.ppy.sh/users/3322597)**, ![][flag_GB] [TopSp1n](https://osu.ppy.sh/users/7657761), ![][flag_EG] [KupcaH](https://osu.ppy.sh/users/7844575) |
 
-See the [Participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw/pubhtml?gridlines=false "Google Sheets") for the list of 128 initial participants.
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw/pubhtml?gridlines=false "Google Sheets") for a list of all 128 initial participants.
 
 ## Mappools
 
@@ -832,7 +832,7 @@ Thursday, 27 July 2017:
 
 ## Ruleset
 
-- This tournament is a osu!, 1v1, international tournament.
+- This tournament is a 1v1 international osu! tournament.
 - This tournament will consist of 128 players.
 - Matches will be head to head, with score v2 as the scoring system used.
 - There will be no rank limit on signups, however if we reach 128 signups we will take the top 128 players in terms of rank.
@@ -840,18 +840,17 @@ Thursday, 27 July 2017:
 - Anyone who does sign up must be able to play maps with a difficulty of at least 4.7*.
 - Starting from groups, the tournament will be double elimination. Qualifications will be the only thing that is single elimination.
 - All staff members are allowed to sign up for the tournament. The only exception are the host, co-hosts, and mappool selectors/testers.
-- All players must treat staff and other participants with a high level of respect, any kind of mistreatment in a match or on the discord (this includes extreme toxicity, racism, homophobia) will result in ban and will be blacklisted from participating in future installments of this tournament.
+- All players must treat staff and other participants with a high level of respect, any kind of mistreatment in a match or on the discord (this includes extreme toxicity, racism, homophobia) will result in a ban and will be blacklisted from participating in future installments of this tournament.
 - Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.
-- Each stage will be held on a friday/saturday/sunday. Schedules and mappools will be released on the monday/tuesday before that stage is due to happen, to allow for reschedules.
-- reschedules will be allowed if both players agree on a time and provide proof of the agreed reschedule to hosts/co-hosts/scheduling team.
+- Each stage will be held on a Friday/Saturday/Sunday. Schedules and mappools will be released on the Monday/Tuesday before that stage is due to happen, to allow for reschedules.
+- Reschedules will be allowed if both players agree on a time and provide proof of the agreed reschedule to hosts/co-hosts/scheduling team.
 - Please be aware that reschedules must happen at least 24 hours before the match is due to happen. Any time after this will not be considered.
-- In order for your registration to count, you must fill out the form provided, join the discord and change your username on discord to your osu! Username.
+- In order for your registration to count, you must fill out the form provided, join the Discord server and change your Discord username to your osu! username.
 
 ### General Rules
 
 - Referees will create the lobby and invite players 10 minutes before the match is due to start.
-- If a player fails to show up after their match is due to start, a 10 minute timer will be started.
-- Any player that fails to show up after the 10 minute timer will forfeit the match and a default win will be awarded to the other player.
+- Any player that fails to show up 10 minutes after a match is due to start will forfeit the match and a win by default will be awarded to the other player.
 - Failure to attend a match without a valid reason may result in being blacklisted from participating in future tournaments.
 - The referee will have host at all times during the match. Players are expected to have a warmup and link the beatmap before the match starts.
 - Players will have 90 seconds to ban a map. Failure to ban a map after this time will result in a loss of a ban.
@@ -870,7 +869,7 @@ Thursday, 27 July 2017:
 
 - There will be no warmups and one ban per player.
 - Players will roll once. The winner of that roll will ban and pick first.
-- In groups, there will be one top, one high, one mid and one low seeded player per group, this will be drawn randomly.
+- In groups, there will be one top, one high, one mid and one low seeded player per group, which will be drawn randomly.
 - During these stages, players are not allowed to choose from the same mod bracket (HD/HR/DT/FreeMod) twice in a row. This excludes the NoMod bracket pool.
 - The top 2 players from each group will make it through to the knockout stage.
 
