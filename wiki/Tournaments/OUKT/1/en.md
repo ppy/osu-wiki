@@ -163,8 +163,6 @@ The OUKT1 was run by various community members
 
 ### Round of 32
 
-**[Download the mappack here! (132 MB)](link)**
-
 - Nomod
   - [ONE OK ROCK - Answer is Near (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/63112#osu/186721)
   - [NicoNicoDouga - Courage to tell a lie (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/46574#osu/144935)

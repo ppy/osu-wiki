@@ -85,7 +85,7 @@ The OUKT3 was run by various osu! community members
   - [BiBi - Love Novels (happy623) \[Insane\]](https://osu.ppy.sh/beatmapsets/111150#osu/289275)
 - FreeMod
   - [Meiko Nakamura - Dispel (terametis) \[Insane\]](https://osu.ppy.sh/beatmapsets/39640#osu/126229)
-  - [Levaslater - NNRT (Reisen Udongein) \[Extra\]](lihttps://osu.ppy.sh/beatmapsets/47330#osu/146985nk)
+  - [Levaslater - NNRT (Reisen Udongein) \[Extra\]](https://osu.ppy.sh/beatmapsets/47330#osu/146985nk)
 - Tiebreaker
   - **[Halozy - Sentimental Skyscraper (Hollow Wings) \[Myouren Hijiri\]](https://osu.ppy.sh/beatmapsets/100348#osu/412288)**
 

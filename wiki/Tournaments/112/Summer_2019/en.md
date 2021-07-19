@@ -233,7 +233,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
   - [Starlight Kukugumi – You are a ghost, I am a ghost \~Gekijou no Ghost\~ (Gaia) \[Kalibe’s Extra\]](https://osu.ppy.sh/beatmapsets/941509#osu/1971493)
   - [HyuN – Infinity Heaven (Niva) \[Ad Infinitum\]](https://osu.ppy.sh/beatmapsets/891345#osu/1863246)
 - HardRock
-  - [Fujiwara Chika (CV: Kohara Konomi) – Chikatto Chika Chika (Andrea) \[Sekai’s IQ <3\]]( https://osu.ppy.sh/beatmapsets/962521#osu/2015394)
+  - [Fujiwara Chika (CV: Kohara Konomi) – Chikatto Chika Chika (Andrea) \[Sekai’s IQ <3\]](https://osu.ppy.sh/beatmapsets/962521#osu/2015394)
   - [YURiKA – Kyoumen no Nami (Vell) \[Expert\]](https://osu.ppy.sh/beatmapsets/731108#osu/1542973)
   - [sakuzyo - Altale (toybot) \[Bonzi’s Extra\]](https://osu.ppy.sh/beatmapsets/228815#osu/1012279)
 - DoubleTime
@@ -512,7 +512,7 @@ Monday, 22 July 2019:
 ### Stage instructions
 
 1. In the Qualifier stage, each seed will have a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](wiki/Game_Modifiers), [HardRock](wiki/Game_Modifiers), [DoubleTime](wiki/Game_Modifiers). There will not be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers). There will not be a tiebreaker for this stage.
 3. Each of the Qualifier pools contain 5 maps. There will be 2 maps under the NoMod bracket and 1 map for the other mod brackets.
 4. No warm-ups will be entertained during this stage.
 5. Players will have to play the map pool **twice** at a designated time. Placement results will be calculated according to their best combined scores.
@@ -551,7 +551,7 @@ Monday, 22 July 2019:
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](wiki/Game_Modifiers), [HardRock](wiki/Game_Modifiers), [DoubleTime](wiki/Game_Modifiers) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - The Group stage mappools will have 4 NoMod maps, 2 maps for each of the remaining mod brackets.
    - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
