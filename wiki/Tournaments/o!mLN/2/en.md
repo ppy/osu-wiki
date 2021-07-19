@@ -9,7 +9,7 @@ tags:
 
 ![o!mLN2 logo](img/logo.jpg)
 
-The **osu!mania LN Tournament 2** (***o!mLN2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. This was the second installment of the osu!mania LN Tournament.
+The **osu!mania LN Tournament 2** (***o!mLN2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. This was the second instalment of the osu!mania LN Tournament.
 
 ## Tournament schedule
 

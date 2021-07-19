@@ -11,7 +11,7 @@ tags:
 
 > It's now time for some Holiday cheer!
 
-The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-restricted, semi-open tournament series for the osu!, osu!taiko, osu!catch, and the osu!mania game modes hosted by the osu!PH community. This tournament aimed to provide up and coming players a competitive environment where they had a chance to glory themselves. It was the second installment of the osu!Philippines Holiday Friendlies.
+The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-restricted, semi-open tournament series for the osu!, osu!taiko, osu!catch, and the osu!mania game modes hosted by the osu!PH community. This tournament aimed to provide up and coming players a competitive environment where they had a chance to glory themselves. It was the second instalment of the osu!Philippines Holiday Friendlies.
 
 ## Tournament schedule
 

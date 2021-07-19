@@ -8,7 +8,7 @@ tags:
 
 ![EUTT 2018 logo](img/logo.png)
 
-The **European Taiko Tournament 2018** (***EUTT 2018***) was a 1v1 European double elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It was the first installment of the European Taiko Tournament.
+The **European Taiko Tournament 2018** (***EUTT 2018***) was a 1v1 European double elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It was the first instalment of the European Taiko Tournament.
 
 ## Tournament schedule
 

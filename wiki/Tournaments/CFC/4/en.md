@@ -8,7 +8,7 @@ tags:
 
 ![CFC 4 logo](img/logo.png)
 
-The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tournament hosted by ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth installment of the Catch French Cup.
+The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tournament hosted by ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth instalment of the Catch French Cup.
 
 ## Tournament schedule
 

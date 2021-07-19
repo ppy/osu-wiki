@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2017 logo](img/logo.jpg)
 
-The **osu!catch World Cup 2017** (***CWC 2017***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth installment of the osu!catch World Cup.
+The **osu!catch World Cup 2017** (***CWC 2017***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 

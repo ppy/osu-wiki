@@ -9,7 +9,7 @@ tags:
 
 ![112ST2019 logo](img/logo.png)
 
-The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 osu! tournament started with 1v1 qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fourth installment of 112's Tournaments series.
+The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 osu! tournament started with 1v1 qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fourth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 

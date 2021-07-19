@@ -8,7 +8,7 @@ tags:
 
 ![SOL2 logo](img/logo.jpg)
 
-**Speed of Light 2: Lucha Libre Edition** (***SOL2***) was a double-elimination 1v1 osu!mania 4-key tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). It was the second installment of the Speed of Light.
+**Speed of Light 2: Lucha Libre Edition** (***SOL2***) was a double-elimination 1v1 osu!mania 4-key tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). It was the second instalment of the Speed of Light.
 
 ## Tournament schedule
 

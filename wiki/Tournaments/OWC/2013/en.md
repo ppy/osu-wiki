@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2013 logo](img/logo.jpg)
 
-The **osu! World Cup 2013** (***OWC 2013***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth installment of the osu! World Cup.
+The **osu! World Cup 2013** (***OWC 2013***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth instalment of the osu! World Cup.
 
 ## Tournament schedule
 

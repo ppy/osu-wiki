@@ -9,7 +9,7 @@ tags:
 
 ![TLMS:SC2 logo](img/logo.jpg)
 
-The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) was a worldwide 4v4 double-elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) and ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787). Teams would gather a team of 4 (with the option of 2 back-ups) in a 4-on-4 knock-out style match. This was the second installment of the Taiko Shift Cup and part of the Taiko LMS tournaments.
+The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) was a worldwide 4v4 double-elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) and ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787). Teams would gather a team of 4 (with the option of 2 back-ups) in a 4-on-4 knock-out style match. This was the second instalment of the Taiko Shift Cup and part of the Taiko LMS tournaments.
 
 ## Tournament schedule
 

@@ -8,7 +8,7 @@ tags:
 
 ![4DM3 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 3** (***4DM3***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), and ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263). This was the third installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 3** (***4DM3***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), and ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263). This was the third instalment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 

@@ -9,7 +9,7 @@ tags:
 
 ![GO 3 logo](img/logo.png)
 
-The **Game_Osu Tourney 3** (***GO 3***) was a [Logitech](https://www.logitech.com/ "Logitech website")-sponsored worldwide one-on-one osu! tournament hosted by ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) and ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), and supported by ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702). It was the third installment of the Game_Osu Tourney.
+The **Game_Osu Tourney 3** (***GO 3***) was a [Logitech](https://www.logitech.com/ "Logitech website")-sponsored worldwide one-on-one osu! tournament hosted by ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) and ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), and supported by ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702). It was the third instalment of the Game_Osu Tourney.
 
 ## Tournament schedule
 

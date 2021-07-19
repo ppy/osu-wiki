@@ -12,7 +12,7 @@ tags:
 
 ![MWC 2014 logo](img/logo.jpg)
 
-The **osu!mania World Cup 2014** (***MWC 2014***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was separated in a 4-keys and 7-keys bracket and was the first installment of the osu!mania 4K World Cup and the osu!mania 7K World Cup.
+The **osu!mania World Cup 2014** (***MWC 2014***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was separated in a 4-keys and 7-keys bracket and was the first instalment of the osu!mania 4K World Cup and the osu!mania 7K World Cup.
 
 ## Tournament schedule
 

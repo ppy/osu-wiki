@@ -10,7 +10,7 @@ tags:
 
 ![MP4K 2019 logo](img/logo.png)
 
-The **Mistrzostwa Polski w 4K 2019** (***MP4K 2019***, *4K Polish Championship 2019*) was a 1v1 4-key osu!mania tournament made for osu! players based in Poland or of Polish heritage. It was the third installment of the Mistrzostwa Polski w 4K.
+The **Mistrzostwa Polski w 4K 2019** (***MP4K 2019***, *4K Polish Championship 2019*) was a 1v1 4-key osu!mania tournament made for osu! players based in Poland or of Polish heritage. It was the third instalment of the Mistrzostwa Polski w 4K.
 
 ## Tournament schedule
 

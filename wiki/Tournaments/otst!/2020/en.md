@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2020 logo](img/logo.jpg)
 
-The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international four-on-four double-elimination osu! tournament hosted by ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. This was the fourth installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international four-on-four double-elimination osu! tournament hosted by ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. This was the fourth instalment of the osu! TV Size Tournament.
 
 ## Tournament schedule
 

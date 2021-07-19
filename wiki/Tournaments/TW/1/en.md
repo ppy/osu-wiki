@@ -8,7 +8,7 @@ tags:
 
 ![TW logo](img/logo.png)
 
-The **Taiko Wars** (***TW***) was a 2v2 interactive strategy double-elimination osu!taiko tournament hosted by ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). It was the first installment of the Taiko Wars.
+The **Taiko Wars** (***TW***) was a 2v2 interactive strategy double-elimination osu!taiko tournament hosted by ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). It was the first instalment of the Taiko Wars.
 
 ## Tournament schedule
 

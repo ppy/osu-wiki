@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2018 logo](img/logo.jpg)
 
-The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth installment of the osu! World Cup.
+The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth instalment of the osu! World Cup.
 
 ## Tournament schedule
 

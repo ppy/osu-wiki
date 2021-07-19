@@ -8,7 +8,7 @@ tags:
 
 ![MCNC 2021 logo](img/logo.jpg)
 
-The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-based osu!mania tournament hosted by the \[Crz\]Team. It is the third installment of the osu!mania 4K Chinese National Cup.
+The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-based osu!mania tournament hosted by the \[Crz\]Team. It is the third instalment of the osu!mania 4K Chinese National Cup.
 
 ## Tournament schedule
 

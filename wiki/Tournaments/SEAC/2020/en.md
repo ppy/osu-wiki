@@ -8,7 +8,7 @@ tags:
 
 ![SEAC logo](img/logo.gif)
 
-The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament was restricted to South East Asian countries only. It was the third installment of the osu!mania South East Asia Champion.
+The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament was restricted to South East Asian countries only. It was the third instalment of the osu!mania South East Asia Champion.
 
 ## Tournament schedule
 

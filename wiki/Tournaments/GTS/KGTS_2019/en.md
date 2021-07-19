@@ -9,7 +9,7 @@ tags:
 
 ![KGTS 2019 logo](img/logo.jpg)
 
-The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes only **[katacheh maps](https://osu.ppy.sh/beatmapsets?m=1&s=any&q=katacheh)**. It was the first installment of the Katacheh Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes only **[katacheh maps](https://osu.ppy.sh/beatmapsets?m=1&s=any&q=katacheh)**. It was the first instalment of the Katacheh Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 

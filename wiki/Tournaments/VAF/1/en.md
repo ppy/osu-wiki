@@ -7,7 +7,7 @@ tags:
 
 ![VAF logo](img/logo.jpg)
 
-The **Vaf's Autumn Fiesta** (**VAF**) was a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament was run in a swiss style to determine the top players before going onto a double-elimination bracket in the Semifinals phase. The tournament was also rank-restricted to rank #50 and below. It was the first installment of the Vaf's Autumn Fiesta.
+The **Vaf's Autumn Fiesta** (**VAF**) was a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament was run in a swiss style to determine the top players before going onto a double-elimination bracket in the Semifinals phase. The tournament was also rank-restricted to rank #50 and below. It was the first instalment of the Vaf's Autumn Fiesta.
 
 ## Tournament schedule
 

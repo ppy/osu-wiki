@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2020 logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2020** (***RDOC 2020***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It was the sixth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2020** (***RDOC 2020***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It was the sixth instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 

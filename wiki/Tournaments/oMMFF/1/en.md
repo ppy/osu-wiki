@@ -8,7 +8,7 @@ tags:
 
 ![oMMFF logo](img/logo.png)
 
-The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elimination tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It was the first installment of the osu! Multi Mode French Fiesta.
+The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elimination tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It was the first instalment of the osu! Multi Mode French Fiesta.
 
 ## Tournament schedule
 

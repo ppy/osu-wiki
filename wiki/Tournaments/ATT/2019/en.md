@@ -8,7 +8,7 @@ tags:
 
 ![ATT 2019 logo](img/logo.jpg)
 
-The **Ausu!Taiko Tournament 2019** (**ATT 2019**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352). The tournament was restricted to players within the Southeast Asian countries only. It was the fifth installment of the Ausu!Taiko Tournament.
+The **Ausu!Taiko Tournament 2019** (**ATT 2019**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352). The tournament was restricted to players within the Southeast Asian countries only. It was the fifth instalment of the Ausu!Taiko Tournament.
 
 ## Tournament schedule
 

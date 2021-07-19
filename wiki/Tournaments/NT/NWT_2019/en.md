@@ -8,7 +8,7 @@ tags:
 
 ![NWT 2019 logo](img/logo.jpg)
 
-The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide 1v1 double-elimination osu! tournament hosted by ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264). It was the first installment of the nik's Tournaments series.
+The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide 1v1 double-elimination osu! tournament hosted by ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264). It was the first instalment of the nik's Tournaments series.
 
 ## Tournament schedule
 

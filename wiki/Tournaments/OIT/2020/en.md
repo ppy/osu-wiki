@@ -453,9 +453,9 @@ Monday, 9 March 2020:
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the OIT staff and may be blacklisted in the future installments of OIT.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of OIT.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of OIT for both participant and the helper.
+    - If participants try to provoke other participants, participants who start the provocation will be reported to the OIT staff and may be blacklisted in the future instalments of OIT.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment of OIT.
+    - If there is anyone try to play as the participants, their account will be blacklisted in the next instalment of OIT for both participant and the helper.
 
 ### Qualifier rules
 

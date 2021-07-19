@@ -8,7 +8,7 @@ tags:
 
 ![CFB4 logo](img/logo.png)
 
-The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077). This was the fourth installment of the Catch French Beginner.
+The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077). This was the fourth instalment of the Catch French Beginner.
 
 ## Tournament schedule
 

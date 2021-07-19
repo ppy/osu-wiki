@@ -8,7 +8,7 @@ tags:
 
 ![GST2 logo](img/logo.jpg)
 
-The **Great Singapore Tournament 2** (***GST2***) was a Singaporean double-elimination 2v2 osu! tournament hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133). This was the second installment of the Great Singapore Tournament.
+The **Great Singapore Tournament 2** (***GST2***) was a Singaporean double-elimination 2v2 osu! tournament hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133). This was the second instalment of the Great Singapore Tournament.
 
 ## Tournament schedule
 

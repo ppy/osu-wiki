@@ -8,7 +8,7 @@ tags:
 
 ![NSST 2019 logo](img/logo.jpg)
 
-The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a 1v1 worldwide double-elimination osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264). It was the second installment of the nik's Tournaments series.
+The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a 1v1 worldwide double-elimination osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264). It was the second instalment of the nik's Tournaments series.
 
 ## Tournament schedule
 

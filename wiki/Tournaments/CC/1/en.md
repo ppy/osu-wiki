@@ -10,7 +10,7 @@ tags:
 
 ![CC logo](img/logo.png)
 
-The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the first installment of the Corgi Cup.
+The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the first instalment of the Corgi Cup.
 
 ## Tournament schedule
 

@@ -8,7 +8,7 @@ tags:
 
 ![OCM3 logo](img/logo.png)
 
-The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) and ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156). It is the 3rd installment of the osu! Cup Master.
+The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) and ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156). It is the 3rd instalment of the osu! Cup Master.
 
 ## Tournament schedule
 

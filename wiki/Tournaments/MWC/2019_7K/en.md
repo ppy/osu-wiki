@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2019 logo](img/logo.jpg)
 
-The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth installment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 

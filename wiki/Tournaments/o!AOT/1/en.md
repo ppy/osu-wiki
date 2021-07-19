@@ -8,7 +8,7 @@ tags:
 
 ![o!AOT logo](img/logo.jpg)
 
-The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). It was the first installment of the osu! Asia Oceania Tournament.
+The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). It was the first instalment of the osu! Asia Oceania Tournament.
 
 ## Tournament schedule
 

@@ -7,7 +7,7 @@ tags:
 
 ![OTC logo](img/logo.png)
 
-The **osu! Technical Championship** (***OTC***) was a 1v1 double elimination osu! tournament hosted by ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the first installment of the osu! Technical Championship.
+The **osu! Technical Championship** (***OTC***) was a 1v1 double elimination osu! tournament hosted by ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the first instalment of the osu! Technical Championship.
 
 ## Tournament schedule
 

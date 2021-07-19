@@ -9,7 +9,7 @@ tags:
 
 ![IGTS 2019 logo](img/logo.jpg)
 
-The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second installment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 

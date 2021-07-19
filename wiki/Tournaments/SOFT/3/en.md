@@ -10,7 +10,7 @@ tags:
 
 > Third time's the charm!
 
-The **Springtime Osu!mania Free-for-all Tournament 3** (***SOFT 3***) was a 1v1 country-independent 4-key osu!mania tournament. It was the third installment of the Springtime Osu!mania Free-for-all Tournament.
+The **Springtime Osu!mania Free-for-all Tournament 3** (***SOFT 3***) was a 1v1 country-independent 4-key osu!mania tournament. It was the third instalment of the Springtime Osu!mania Free-for-all Tournament.
 
 ## Tournament schedule
 

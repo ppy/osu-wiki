@@ -8,7 +8,7 @@ tags:
 
 ![TSCW 2020 logo](img/logo.jpg)
 
-The **Taiko Suiji Cup Winter 2020** (***TSCW 2020***) was an international four-on-four double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant registered individually and was assigned to a random team. This was the third installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup Winter 2020** (***TSCW 2020***) was an international four-on-four double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant registered individually and was assigned to a random team. This was the third instalment of the Taiko Suiji Cup.
 
 ## Tournament schedule
 

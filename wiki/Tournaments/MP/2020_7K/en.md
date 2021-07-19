@@ -10,7 +10,7 @@ tags:
 
 ![MP7K 2020 logo](img/logo.png)
 
-The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2020*) is a 1v1 osu!mania 7-key tournament made for osu! players living in Poland or of Polish heritage. It is the second installment of the Mistrzostwa Polski w 7K.
+The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2020*) is a 1v1 osu!mania 7-key tournament made for osu! players living in Poland or of Polish heritage. It is the second instalment of the Mistrzostwa Polski w 7K.
 
 ## Tournament schedule
 

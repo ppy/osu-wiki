@@ -7,7 +7,7 @@ tags:
 
 ![RPT logo](img/logo.jpg)
 
-The **ROI PRO Tournament** (***RPT***) was an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839). The tournament was restricted to Bahasa Indonesia-speaking players only. This was the first installment of the ROI PRO Tournament.
+The **ROI PRO Tournament** (***RPT***) was an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839). The tournament was restricted to Bahasa Indonesia-speaking players only. This was the first instalment of the ROI PRO Tournament.
 
 ## Tournament schedule
 

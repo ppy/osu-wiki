@@ -6,7 +6,7 @@ tags:
 
 # Catch the Beat Indonesia Cup 2012
 
-The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1 osu!catch tournament hosted by ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508). It was the first installment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1 osu!catch tournament hosted by ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508). It was the first instalment of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 

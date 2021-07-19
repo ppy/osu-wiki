@@ -6,7 +6,7 @@ tags:
 
 # Rapid Monthly osu! Tournament Invitational 5
 
-The **Rapid Monthly osu! Tournament Invitational 5** (***RMoTI 5***) was an exclusive osu! tournament hosted by the Rapid Tournaments team. It was the fifth installment of the Rapid Monthly osu! Tournament Invitational.
+The **Rapid Monthly osu! Tournament Invitational 5** (***RMoTI 5***) was an exclusive osu! tournament hosted by the Rapid Tournaments team. It was the fifth instalment of the Rapid Monthly osu! Tournament Invitational.
 
 ## Tournament schedule
 

@@ -2,7 +2,7 @@
 
 ![CMT 4K 2017 logo](img/pic.png)
 
-The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) was a 1v1 4K specified Chinese regional osu!mania tournament hosted by the CMT team. It was the second installment of the Chinese osu!mania 4K Tournament.
+The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) was a 1v1 4K specified Chinese regional osu!mania tournament hosted by the CMT team. It was the second instalment of the Chinese osu!mania 4K Tournament.
 
 ## Tournament schedule
 

@@ -9,7 +9,7 @@ tags:
 
 ![CJB 4K 4th banner](img/banner.png)
 
-**The 4th CJB osu!mania 4K Tournament** (***CJB 4K 4th***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the CJB team. It is the 4th installment of the CJB osu!mania 4K Tournament.
+**The 4th CJB osu!mania 4K Tournament** (***CJB 4K 4th***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the CJB team. It is the 4th instalment of the CJB osu!mania 4K Tournament.
 
 ## Tournament schedule
 

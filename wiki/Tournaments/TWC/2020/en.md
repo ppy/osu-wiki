@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2020 logo](/wiki/shared/news/banners/TWC2020.jpg)
 
-The **osu!taiko World Cup 2020** (***TWC 2020***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the tenth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2020** (***TWC 2020***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the tenth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 

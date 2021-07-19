@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2019 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2019** (***RDOC 2019***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It was the fifth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2019** (***RDOC 2019***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It was the fifth instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 

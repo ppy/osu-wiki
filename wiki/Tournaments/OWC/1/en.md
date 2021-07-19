@@ -10,7 +10,7 @@ tags:
 
 ![OWC #1 logo](img/logo.png)
 
-The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based osu! tournament run by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the first installment of the osu! World Cup.
+The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based osu! tournament run by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the first instalment of the osu! World Cup.
 
 ## Tournament schedule
 

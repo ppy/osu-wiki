@@ -6,7 +6,7 @@ tags:
 
 # Catch the Beat Indonesia Cup 2013
 
-The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) was an Indonesian 4-players osu!catch tournament hosted by ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422). It was the second installment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) was an Indonesian 4-players osu!catch tournament hosted by ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422). It was the second instalment of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -288,8 +288,8 @@ In order to prevent multi accounting, this tournament have specific entry regula
 5. Staff decision is final.
 6. Rules may change without any further notice. However, staffs will make sure to notice the participants beforehand.
 7. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-   - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current installment of CIC.
-   - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
+   - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current instalment of CIC.
+   - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment of CIC.
    - Participants who use multi account will be blacklisted for 3 years.
 
 ### Match rules

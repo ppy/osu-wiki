@@ -10,7 +10,7 @@ tags:
 
 ![](/wiki/shared/news/banners/mwc4k-2021.jpg)
 
-The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eighth installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eighth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 

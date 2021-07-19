@@ -8,7 +8,7 @@ tags:
 
 ![CHS logo](img/logo.jpg)
 
-The **Coffee Hispanic Showdown** (***CHS***) was a double-elimination 2v2 osu! tournament hosted by ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351) and ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament was restricted to Spanish-speaking countries only. This was the first installment of the Coffee Hispanic Showdown and part of the Coffee Hispanic series.
+The **Coffee Hispanic Showdown** (***CHS***) was a double-elimination 2v2 osu! tournament hosted by ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351) and ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament was restricted to Spanish-speaking countries only. This was the first instalment of the Coffee Hispanic Showdown and part of the Coffee Hispanic series.
 
 ## Tournament schedule
 

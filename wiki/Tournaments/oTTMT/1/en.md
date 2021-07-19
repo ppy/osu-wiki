@@ -7,7 +7,7 @@ tags:
 
 ![oTTMT logo](img/logo.png)
 
-The **osu! Tag Team Multiplayer Tournament** (***oTTMT***) was a 2v2 tag team based osu! tournament hosted by ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057). It was the first installment of the osu! Tag Team Multiplayer Tournament.
+The **osu! Tag Team Multiplayer Tournament** (***oTTMT***) was a 2v2 tag team based osu! tournament hosted by ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057). It was the first instalment of the osu! Tag Team Multiplayer Tournament.
 
 ## Tournament schedule
 

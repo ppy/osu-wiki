@@ -9,7 +9,7 @@ tags:
 
 ![112CT logo](img/banner.png)
 
-The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! tournament started with qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fifth installment of 112's Tournaments series.
+The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! tournament started with qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fifth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 

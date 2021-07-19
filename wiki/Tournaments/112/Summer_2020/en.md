@@ -9,7 +9,7 @@ tags:
 
 ![112ST2020 banner](img/banner.png)
 
-The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. It was the sixth installment of 112's Tournaments series.
+The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. It was the sixth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 

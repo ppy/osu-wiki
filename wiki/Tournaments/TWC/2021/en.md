@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2021 logo](/wiki/shared/news/banners/TWC_2021.jpg)
 
-The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eleventh installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eleventh instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 

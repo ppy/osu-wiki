@@ -8,7 +8,7 @@ tags:
 
 ![o!ET 2 logo](img/logo.png)
 
-The **osu! European Tournament 2** (***o!ET 2***) was a 2v2 European double-elimination osu! tournament hosted by ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Planatek](https://osu.ppy.sh/users/4869601), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second installment of the osu! European Tournament.
+The **osu! European Tournament 2** (***o!ET 2***) was a 2v2 European double-elimination osu! tournament hosted by ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Planatek](https://osu.ppy.sh/users/4869601), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second instalment of the osu! European Tournament.
 
 ## Tournament schedule
 

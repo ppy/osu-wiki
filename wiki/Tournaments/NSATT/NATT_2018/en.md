@@ -8,7 +8,7 @@ tags:
 
 ![NATT 2018 logo](img/logo.jpg)
 
-The **North American Taiko Tournament 2018** (***NATT 2018***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North American countries only. It was the third installment of the North & South American Taiko Tournament.
+The **North American Taiko Tournament 2018** (***NATT 2018***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North American countries only. It was the third instalment of the North & South American Taiko Tournament.
 
 ## Tournament schedule
 

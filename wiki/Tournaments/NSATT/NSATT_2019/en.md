@@ -8,7 +8,7 @@ tags:
 
 ![NSATT 2019 logo](img/logo.jpg)
 
-The **North & South American Taiko Tournament 2019** (***NSATT 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North and South American countries only. It was the fourth installment of the North & South American Taiko Tournament.
+The **North & South American Taiko Tournament 2019** (***NSATT 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North and South American countries only. It was the fourth instalment of the North & South American Taiko Tournament.
 
 ## Tournament schedule
 

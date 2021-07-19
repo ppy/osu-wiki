@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2018 logo](img/logo.png)
 
-The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It was the second installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It was the second instalment of the osu! TV Size Tournament.
 
 ## Tournament schedule
 

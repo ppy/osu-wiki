@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2019 logo](img/logo.png)
 
-The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. It was the third installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. It was the third instalment of the osu! TV Size Tournament.
 
 ## Tournament schedule
 

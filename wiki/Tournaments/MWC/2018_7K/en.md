@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2018 logo](img/logo.png)
 
-The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth installment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 

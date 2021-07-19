@@ -7,7 +7,7 @@ tags:
 
 ![o!mLN logo](img/logo.png)
 
-The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. It was the first installment of the osu!mania LN Tournaments.
+The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. It was the first instalment of the osu!mania LN Tournaments.
 
 ## Tournament schedule
 

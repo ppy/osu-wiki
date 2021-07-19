@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2015 logo](img/logo.png)
 
-The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth installment of the osu!catch World Cup.
+The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 

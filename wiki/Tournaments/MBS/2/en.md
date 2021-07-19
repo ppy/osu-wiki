@@ -9,7 +9,7 @@ tags:
 
 ![MBS2 logo](img/logo.jpg)
 
-The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#40,000, and the low division consisted of players ranked #40,001–#100,000. This was the second installment of the Mania Beginner's Showdown.
+The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#40,000, and the low division consisted of players ranked #40,001–#100,000. This was the second instalment of the Mania Beginner's Showdown.
 
 ## Tournament schedule
 

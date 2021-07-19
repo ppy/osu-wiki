@@ -10,7 +10,7 @@ tags:
 
 ![o!mAC2020 logo](img/logo.jpg)
 
-The **osu!mania Asian's Champions 2020** (***o!mAC2020***) was an individual 1v1 osu!mania 4-key tournament for players from Asia. It was the second installment of the osu!mania Asian's Champions.
+The **osu!mania Asian's Champions 2020** (***o!mAC2020***) was an individual 1v1 osu!mania 4-key tournament for players from Asia. It was the second instalment of the osu!mania Asian's Champions.
 
 ## Tournament schedule
 

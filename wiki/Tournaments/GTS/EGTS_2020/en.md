@@ -9,7 +9,7 @@ tags:
 
 ![EGTS 2020 logo](img/logo.jpg)
 
-The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) was an expert worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the first installment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) was an expert worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the first instalment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 

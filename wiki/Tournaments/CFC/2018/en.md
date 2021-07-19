@@ -8,7 +8,7 @@ tags:
 
 ![CFC 2018 logo](img/logo.png)
 
-The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second installment of the Catch French Cup.
+The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the Catch French Cup.
 
 ## Tournament schedule
 

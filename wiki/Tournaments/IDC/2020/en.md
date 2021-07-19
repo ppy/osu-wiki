@@ -8,7 +8,7 @@ tags:
 
 ![IDC 2020 logo](img/logo.jpg)
 
-The **Indonesian Draft Cup 2020** (***IDC 2020***) was an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490) and ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206). The tournament was restricted to Indonesian-speaking players only. This was the first installment of the Indonesian Draft Cup.
+The **Indonesian Draft Cup 2020** (***IDC 2020***) was an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490) and ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206). The tournament was restricted to Indonesian-speaking players only. This was the first instalment of the Indonesian Draft Cup.
 
 ## Tournament schedule
 

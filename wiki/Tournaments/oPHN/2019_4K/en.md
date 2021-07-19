@@ -10,7 +10,7 @@ tags:
 
 > Be the **MAJESTIC** Maestro.
 
-The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a one-on-one, osu!mania 4-key tournament made for osu! players based in the Philippines or of Filipino Heritage. It is the first installment of the osu! Philippines Nationals.
+The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a one-on-one, osu!mania 4-key tournament made for osu! players based in the Philippines or of Filipino Heritage. It is the first instalment of the osu! Philippines Nationals.
 
 ## Tournament schedule
 

@@ -7,7 +7,7 @@ tags:
 
 ![YC logo](img/logo.jpg)
 
-The **Yuri Cup** (***YC***) was an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team of 8 players battled against other teams from around the globe. This was the first installment of the Yuri Cup.
+The **Yuri Cup** (***YC***) was an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team of 8 players battled against other teams from around the globe. This was the first instalment of the Yuri Cup.
 
 ## Tournament schedule
 

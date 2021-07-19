@@ -9,7 +9,7 @@ tags:
 
 ![THOM CUP logo](img/logo.png)
 
-**The Heptakey osu!mania Cup #1** (***THOM CUP #1***) was a 1v1 Euro-American 7K osu!mania tournament. It was the first installment of the The Heptakey osu!mania Cup.
+**The Heptakey osu!mania Cup #1** (***THOM CUP #1***) was a 1v1 Euro-American 7K osu!mania tournament. It was the first instalment of the The Heptakey osu!mania Cup.
 
 ## Tournament schedule
 

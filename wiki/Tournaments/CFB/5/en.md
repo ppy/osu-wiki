@@ -8,7 +8,7 @@ tags:
 
 ![CFB5 logo](img/logo.jpg)
 
-The **Catch French Beginner 5** (***CFB5***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Only players ranked between #2,500 and below can participate. This was the fifth installment of the Catch French Beginner.
+The **Catch French Beginner 5** (***CFB5***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Only players ranked between #2,500 and below can participate. This was the fifth instalment of the Catch French Beginner.
 
 ## Tournament schedule
 

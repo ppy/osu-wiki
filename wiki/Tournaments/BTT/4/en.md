@@ -9,7 +9,7 @@ tags:
 
 ![BTT 4 logo](img/logo.gif)
 
-The **Beginners' Taiko Tournament 4** (***BTT 4***) was a 1v1 double elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth installment of the Beginners' Taiko Tournament.
+The **Beginners' Taiko Tournament 4** (***BTT 4***) was a 1v1 double elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth instalment of the Beginners' Taiko Tournament.
 
 ## Tournament schedule
 

@@ -7,7 +7,7 @@ tags:
 
 ![DMX 2 logo](img/logo.png)
 
-The **DeltaMax's Taiko Oni Overlord** (***DMX 2***) was a 1v1 double elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second installment of the DeltaMax's Tournaments.
+The **DeltaMax's Taiko Oni Overlord** (***DMX 2***) was a 1v1 double elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the DeltaMax's Tournaments.
 
 ## Tournament schedule
 

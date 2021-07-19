@@ -8,7 +8,7 @@ tags:
 
 ![o!cCC logo](img/logo.jpg)
 
-The **osu!catch Convert Cup** (***o!cCC***) was a 1v1 osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament included **osu! maps** only. It was the first installment of the osu!catch Convert Cup.
+The **osu!catch Convert Cup** (***o!cCC***) was a 1v1 osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament included **osu! maps** only. It was the first instalment of the osu!catch Convert Cup.
 
 ## Tournament schedule
 

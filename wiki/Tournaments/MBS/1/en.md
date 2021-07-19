@@ -9,7 +9,7 @@ tags:
 
 ![MBS logo](img/logo.png)
 
-The **Mania Beginner's Showdown** (***MBS***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#50,000, and the low division consisted of players ranked #50,001–#100,000. This was the first installment of the Mania Beginner's Showdown.
+The **Mania Beginner's Showdown** (***MBS***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#50,000, and the low division consisted of players ranked #50,001–#100,000. This was the first instalment of the Mania Beginner's Showdown.
 
 ## Tournament schedule
 

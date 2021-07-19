@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2017 logo](img/logo.jpg)
 
-The **osu!mania 7K World Cup 2017** (***MWC 7K 2017***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third installment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2017** (***MWC 7K 2017***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 

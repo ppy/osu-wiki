@@ -8,7 +8,7 @@ tags:
 
 ![ICC 2020 logo](img/logo.jpg)
 
-The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in which all beatmaps played in the tournament were converted osu! beatmaps. The tournament was open to all osu!catch players from Indonesia with over 5,000 osu!catch playcount regardless of rank. It was the first installment of the Indonesia Convert Cup.
+The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in which all beatmaps played in the tournament were converted osu! beatmaps. The tournament was open to all osu!catch players from Indonesia with over 5,000 osu!catch playcount regardless of rank. It was the first instalment of the Indonesia Convert Cup.
 
 ## Tournament schedule
 
@@ -344,9 +344,9 @@ Sunday, 11 August 2020:
 9. Lag is not a valid reason to nullify a map.
 10. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 11. It is expected to be polite and respectful to each other. Penalties will be given if participants violate.
-    - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future installment(s) of ICC.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment(s) of ICC.
-    - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next installment(s) of ICC.
+    - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future instalment(s) of ICC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment(s) of ICC.
+    - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next instalment(s) of ICC.
 
 ### Tournament registration
 

@@ -7,7 +7,7 @@ tags:
 
 ![CFIC logo](img/logo.png)
 
-The **Catch French Intermediate Cup** (***CFIC***) was an intermediate one-on-one French osu!catch tournament hosted by ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263). It was the first installment and a new branch of the Catch French Cup.
+The **Catch French Intermediate Cup** (***CFIC***) was an intermediate one-on-one French osu!catch tournament hosted by ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263). It was the first instalment and a new branch of the Catch French Cup.
 
 ## Tournament schedule
 

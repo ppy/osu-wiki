@@ -8,7 +8,7 @@ tags:
 
 ![CMC 2020 logo](img/logo.jpg)
 
-The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4,000 or lower. It was the 1st installment of the Cemara Mania Cup.
+The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4,000 or lower. It was the 1st instalment of the Cemara Mania Cup.
 
 ## Tournament schedule
 
@@ -321,9 +321,9 @@ Sunday, 29 November 2020:
 9. Lag is not a valid reason to nullify a map.
 10. If there are any unforseen problems during a match occurence, the Tournament Management will make a decision based on the referee's report.
 11. It is expected that all players be polite and respectful to each other at all times. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, said player responsible for the provocation may be either disqualified right away from CMC \#1 (2020) and/or blacklisted from the future installment(s) of CMC.
+    - If a player is found to be engaging in an act of offensive provocation, said player responsible for the provocation may be either disqualified right away from CMC \#1 (2020) and/or blacklisted from the future instalment(s) of CMC.
     - Usage of any illegal programs is strictly prohibited and will be immediately reported to the osu!staff at will.
-    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of CMC regardless of their role in the smurfing incident.
+    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next instalment(s) of CMC regardless of their role in the smurfing incident.
 
 ### Tournament registration
 

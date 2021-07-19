@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2020 logo](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
-The **osu! World Cup 2020** (***OWC 2020***) was a country-based osu! tournament hosted by the [osu!team](/wiki/People/The_Team). It was the 11th installment of the osu! World Cup.
+The **osu! World Cup 2020** (***OWC 2020***) was a country-based osu! tournament hosted by the [osu!team](/wiki/People/The_Team). It was the 11th instalment of the osu! World Cup.
 
 ## Tournament schedule
 

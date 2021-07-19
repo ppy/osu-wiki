@@ -8,7 +8,7 @@ tags:
 
 ![4DM2 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 2** (***4DM2***) was a worldwide country-based double-elimination 3v3 osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This was the second installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 2** (***4DM2***) was a worldwide country-based double-elimination 3v3 osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This was the second instalment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 

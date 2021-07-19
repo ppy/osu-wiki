@@ -8,7 +8,7 @@ tags:
 
 ![MCNC 2020 logo](img/logo.jpg)
 
-The **osu!mania 4K Chinese National Cup 2020** (***MCNC 2020***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the second installment of the osu!mania 4K Chinese National Cup.
+The **osu!mania 4K Chinese National Cup 2020** (***MCNC 2020***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the second instalment of the osu!mania 4K Chinese National Cup.
 
 ## Tournament schedule
 
