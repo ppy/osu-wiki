@@ -2,7 +2,7 @@
 
 ![YSC 2017 logo](img/logo.png)
 
-The **Yaz's Summer Cup 2017** (***YSC 2017***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) and sponsored by [Ferocity Esports](https://twitter.com/FerocityNation "Twitter"). It was the 1st installment of Yaz's Summer Cup.
+The **Yaz's Summer Cup 2017** (***YSC 2017***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) and sponsored by Ferocity Esports. It was the 1st installment of Yaz's Summer Cup.
 
 ## Tournament schedule
 
@@ -523,6 +523,7 @@ Sunday, 20 August 2017:
 | Syph  ![][flag_NL] | 2 | **5** | ![][flag_NL] **Ahmnesia** |  |
 | Num ![][flag_US] | 2 | **5** | ![][flag_FR] **ThePooN** |  |
 | **Doomsday** ![][flag_GB] | **1** | 0 | ![][flag_US] Smoothie World | *forfeit* |
+| **[ Nano ]** ![][flag_DE] | **1** | 0 | ![][flag_ES] kazamabc | *forfeit* |
 
 ### Round of 32
 
@@ -828,7 +829,7 @@ Thursday, 27 July 2017:
 | --: | :-: | :-: | :-- | :-- |
 | **Smoothie World** ![][flag_US] | **3** | 2 | ![][flag_LT] Damach |  |
 | **Wombraider___9** ![][flag_US] | **1** | 0 | ![][flag_GB] Nega | *forfeit* |
-| **idke** ![][flag_US] | **1** | 0 | ![][flag_NO] YokesPai | <!-- TODO check with yaz what she remember about this match --> |
+| **idke** ![][flag_US] | **1** | 0 | ![][flag_NO] YokesPai | *forfeit* |
 
 ## Ruleset
 
