@@ -415,7 +415,7 @@ Vous pouvez également essayer de retirer certains des périphériques connecté
 
 Si rien de tout cela ne vous aide, veuillez envoyer un ticket d'assistance à [accounts@ppy.sh](mailto:accounts@ppy.sh) avec plus d'informations sur le problème - y compris les spécifications techniques de votre ordinateur, le modèle (le cas échéant), et toute autre information qui, selon vous, pourrait nous aider à discerner la cause de votre problème.
 
-### Je ne peux pas tenir plus de quelques touches à la fois en jouant à osu!mania.
+### Je ne peux pas tenir plus de quelques touches à la fois en jouant à osu!mania
 
 **Ceci est dû à un problème matériel commun à la plupart des claviers appelé *ghosting*.**
 
