@@ -26,9 +26,9 @@ The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-eliminati
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, 3 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, 3 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 1 month of osu!supporter |
 
 ## Organization
 
@@ -231,7 +231,7 @@ Sunday, 11 July 2021:
 | Lower | **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/87169209) |
 | Lower | **[Dapuluous](https://osu.ppy.sh/users/8140944)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/87174852) |
 
-### Group Stage
+### Group stage
 
 Friday, 2 July 2021:
 
