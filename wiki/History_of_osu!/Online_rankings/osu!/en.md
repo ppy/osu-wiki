@@ -84,7 +84,7 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-10-30 | 2009-11-07 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2009-11-07 | 2009-12-07 | [\[1\]](https://imgur.com/Ozzl6En "Imgur") |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-12-07 | 2009-12-25 | [\[1\]](https://imgur.com/7B9nt8e "Imgur") |
-| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2009-12-25 | 2009-12-29 | [\[1\]](https://imgur.com/7B9nt8e "Imgur") |
+| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2009-12-25 | 2009-12-29 | [\[1\]](https://osu.ppy.sh/community/forums/topics/21622?start=276369) |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-12-29 | *2010-01-05* | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 
 ## 2010
