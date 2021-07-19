@@ -2,7 +2,7 @@
 
 ![YSC 2017 logo](img/logo.png)
 
-The **Yaz's Summer Cup 2017** (***YSC 2017***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) and sponsored by Ferocity Esports. It was the 1st installment of Yaz's Summer Cup.
+The **Yaz's Summer Cup 2017** (***YSC 2017***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) and sponsored by Ferocity Esports. It was the first instalment of Yaz's Summer Cup.
 
 ## Tournament schedule
 
@@ -23,16 +23,16 @@ The **Yaz's Summer Cup 2017** (***YSC 2017***) was a 1v1 double-elimination osu!
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $60, profile badge, 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $35, 4 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $20, 2 months of osu!supporter tag |
-| *4th place* | $10, 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $60, profile badge, 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $35, 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $20, 2 months of osu!supporter |
+| *4th place* | $10, 1 month of osu!supporter |
 
 ![](img/badge.png "YSC 2017 winner badge")
 
 ## Organisation
 
-Yaz's Summer Cup 2017 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+Yaz's Summer Cup 2017 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -82,7 +82,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 
 ### Grand Finals
 
-- Nomod
+- NoMod
   - [Powerless - Unrequited (VINXIS) [Reunion]](https://osu.ppy.sh/beatmapsets/543109#osu/1162811)
   - [Powerless - Frey's Philosophy (My Angel Azusa) [MASTER]](https://osu.ppy.sh/beatmapsets/550588#osu/1166435)
   - [jioyi - Cyanine (xChorse) [exclamation mark]](https://osu.ppy.sh/beatmapsets/652833#osu/1535936)
@@ -114,7 +114,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 
 ### Finals
 
-- Nomod
+- NoMod
   - [Omoi - Teo (Neefus) [Extreme]](https://osu.ppy.sh/beatmapsets/646146#osu/1369124)
   - [Camellia - Ultimate Ascension (Aeril) [HEAVEN]](https://osu.ppy.sh/beatmapsets/597899#osu/1263893)
   - [FujuniseikouyuuP - Make a Loser (val0108) [0108 style]](https://osu.ppy.sh/beatmapsets/287694#osu/649034)
@@ -146,7 +146,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 
 ### Semifinals
 
-- Nomod
+- NoMod
   - [MY FIRST STORY - Itazura Fiction (Saut) [Extreme]](https://osu.ppy.sh/beatmapsets/477343#osu/1019570)
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) [CRN's Extra]](https://osu.ppy.sh/beatmapsets/58951#osu/178645)
   - [charon - Seventeen RPG (Zero\__wind) [pishi's Extra]](https://osu.ppy.sh/beatmapsets/304888#osu/882929)
@@ -178,7 +178,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 
 ### Quarterfinals
 
-- Nomod
+- NoMod
   - [ONE OK ROCK - Clock Strikes (Saut) [Moway's Extra]](https://osu.ppy.sh/beatmapsets/249624#osu/633375)
   - [Awake - Supernova (DoKoLP) [DoKo]](https://osu.ppy.sh/beatmapsets/42909#osu/138008)
   - [- KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX- (Gamu) [GRAVITY]](https://osu.ppy.sh/beatmapsets/296505#osu/665721)
@@ -210,7 +210,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 
 ### Round of 16
 
-- Nomod
+- NoMod
   - [Nekomata Master feat. Misawa Aki - chrono diver -fragment- (moph) [Extra]](https://osu.ppy.sh/beatmapsets/372200#osu/815219)
   - [Days N' Daze - Misanthropic Drunken Loner (pishifat) [Extreme]](https://osu.ppy.sh/beatmapsets/442587#osu/951778)
   - [Suzumu - Kakumeisei ousama densenbyou (tutuhaha) [AngelHoney's Extra]](https://osu.ppy.sh/beatmapsets/307686#osu/701528)
@@ -242,7 +242,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 
 ### Round of 32
 
-- Nomod
+- NoMod
   - [Nanaki feat.GUMI - Mousou Kajitsu (Natsu) [CRN's Extra]](https://osu.ppy.sh/beatmapsets/524966#osu/1160967)
   - [Rameses B - Transcend (Milan-) [Chillout]](https://osu.ppy.sh/beatmapsets/339708#osu/817155)
   - [LiSA - Rally Go Round (FrostxE) [Extra]](https://osu.ppy.sh/beatmapsets/317275#osu/740692)
@@ -266,9 +266,9 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 - Tiebreaker
   - **[Dark PHOENiX - Green-Eyed Jealousy (sjoy) [Envy]](https://osu.ppy.sh/beatmapsets/170913#osu/413597)**
 
-### Group Stage
+### Group stage
 
-- Nomod
+- NoMod
   - [Rin - Prism Magical (DJ SHARPNEL hardrave remix) (regenz) [Extra Magical]](https://osu.ppy.sh/beatmapsets/39032#osu/204536)
   - [Nekomata Master - Following Flow (Beomsan) [Special]](https://osu.ppy.sh/beatmapsets/511699#osu/1087690)
   - [senya - Hitomi ni Kakusareta Omoi (Satellite) [Lunatic]](https://osu.ppy.sh/beatmapsets/398921#osu/867391)
@@ -294,7 +294,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 
 ### Qualifiers / Round of 128
 
-- Nomod
+- NoMod
   - [LiSA - traumerei (Knotts) [Insane]](https://osu.ppy.sh/beatmapsets/204925#osu/483880)
   - [Pendulum - Crush (Radio Edit) (JauiPlaY) [Insane]](https://osu.ppy.sh/beatmapsets/58329#osu/175397)
   - [LeaF - Calamity Fortune (Flower) [SCV's Lunatic]](https://osu.ppy.sh/beatmapsets/96103#osu/261725)
@@ -318,7 +318,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 - Tiebreaker
   - **[Dancing Dolls - monochrome(Asterisk Makina Remix) (monstrata) [Scythe]](https://osu.ppy.sh/beatmapsets/349445#osu/770576)**
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -848,7 +848,7 @@ Thursday, 27 July 2017:
 - Please be aware that reschedules must happen at least 24 hours before the match is due to happen. Any time after this will not be considered.
 - In order for your registration to count, you must fill out the form provided, join the Discord server and change your Discord username to your osu! username.
 
-### General Rules
+### General rules
 
 - Referees will create the lobby and invite players 10 minutes before the match is due to start.
 - Any player that fails to show up 10 minutes after a match is due to start will forfeit the match and a win by default will be awarded to the other player.
@@ -866,7 +866,7 @@ Thursday, 27 July 2017:
 - If there is a tie, the tiebreaker will be played to determine the winner of that match (mods are available during the tiebreaker).
 - At the end of the match, you are free to leave the lobby.
 
-### Qualifiers and Group Stage
+### Qualifiers and Group stage
 
 - There will be no warmups and one ban per player.
 - Players will roll once. The winner of that roll will ban and pick first.
@@ -874,7 +874,7 @@ Thursday, 27 July 2017:
 - During these stages, players are not allowed to choose from the same mod bracket (HD/HR/DT/FreeMod) twice in a row. This excludes the NoMod bracket pool.
 - The top 2 players from each group will make it through to the knockout stage.
 
-### Knockout Stages
+### Knockout stages
 
 - Seeding for knockouts will be as follows: Group A #1 vs Group B #2 etc.
 - In this stage, there will be warmups and 2 bans per player.
