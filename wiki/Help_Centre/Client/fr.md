@@ -26,7 +26,7 @@ tags:
 
 # Client
 
-*Page principale : [Help centre](/wiki/Help_Centre)*
+*Page principale : [Centre d'aide](/wiki/Help_Centre)*
 
 Vous avez des problèmes avec le client de jeu ? Découvrez si votre problème figure parmi les problèmes les plus courants rencontrés par nos utilisateurs.
 
