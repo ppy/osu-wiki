@@ -34,7 +34,7 @@ The **osu! Indonesia Tournament #11 (2021)** (***OIT 2021***) was an Indonesian 
 
 ![](img/badge.jpg "OIT 2021 winner badge")
 
-## Organization
+## Organisation
 
 OIT 2021 was run by various osu! community members predominantly hailing from Indonesia.
 

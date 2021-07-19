@@ -145,7 +145,7 @@ The Taiko World Cup 2011 was run by various community members.
 - Tiebreaker
   - **[Frederic Chopin - Etude Op. 10-4 (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/22374#taiko/77232)**
 
-### Group Stage week 3
+### Group stage week 3
 
 - FreeMod
   - [\_yoc feat. Sara Matsumoto - Moonlight Windia (ouranhshc) \[Roko-Don's Taiko\]](https://osu.ppy.sh/beatmapsets/20266#taiko/73769)
@@ -170,7 +170,7 @@ The Taiko World Cup 2011 was run by various community members.
   - **[Ai Otsuka - Sakuranbo (S i R i R u) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/16928#taiko/60790)**
   - **[yak\_won - lucid (soulfear) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/15898#taiko/58041)**
 
-### Group Stage week 2
+### Group stage week 2
 
 - FreeMod
   - [Beniiro Litmus - Rin to Shite Saku Hana no Gotoku (Chacha17) \[lepidon's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/13451#taiko/49881)
@@ -195,7 +195,7 @@ The Taiko World Cup 2011 was run by various community members.
   - **[9mm Parabellum Bullet - Punishment (lepidopodus) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/16715#taiko/59792)**
   - **[Anamanaguchi - Rock Club (Sushi) \[Taiko\]](https://osu.ppy.sh/beatmapsets/20801#taiko/73057)**
 
-### Group Stage week 1
+### Group stage week 1
 
 - FreeMod
   - [3oh!3 - Chokechain (Gens) \[Hard\]](https://osu.ppy.sh/beatmapsets/10863#taiko/41909)
@@ -260,7 +260,7 @@ Sunday, 8 May 2011:
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ![][flag_HK] | 3 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/677605) |
 
-### Group Stage week 3
+### Group stage week 3
 
 Friday, 29 April 2011:
 
@@ -288,7 +288,7 @@ Sunday, 1 May 2011:
 | China ![][flag_CN] | 2 | **3** | ![][flag_DE] **Germany A** | [#1](https://osu.ppy.sh/community/matches/633234) |
 | **Japan** ![][flag_JP] | **3** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/633728) |
 
-### Group Stage week 2
+### Group stage week 2
 
 Friday, 22 April 2011:
 
@@ -317,7 +317,7 @@ Tuesday, 26 April 2011:
 | Germany A ![][flag_DE] | 1 | **3** | ![][flag_IT] ![][flag_NL] **Italy-Netherlands** | [#1](https://osu.ppy.sh/community/matches/602804) |
 | Brazil-Chile ![][flag_BR] ![][flag_CL] | 0 | **3** | ![][flag_PL] **Poland** | *win by default* |
 
-### Group Stage week 1
+### Group stage week 1
 
 Friday, 15 April 2011:
 

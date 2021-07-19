@@ -38,7 +38,7 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) was a double-eliminatio
 
 ![](img/badge.png "oSEAT4 winner badge")
 
-## Organization
+## Organisation
 
 oSEAT4 was run by various osu! community members predominantly hailing from South East Asian countries.
 
@@ -271,7 +271,7 @@ This competition has come to an end and resulted in the following podium:
   - [PUP - Anaphylaxis (Hobbes2) \[Extra\]](https://osu.ppy.sh/beatmapsets/1169856#osu/2464094)
   - [Denkishiki Karen Ongaku Shuudan - Never Forget (LMT) \[Loss of a Loved One\]](https://osu.ppy.sh/beatmapsets/1187196#osu/2474203)  
 
-### Group Stage week 2
+### Group stage week 2
 
 **[Download the mappack here! (112 MB)](https://drive.google.com/uc?export=download&id=14PCz90yD5v4mtKWSiCmzgQpfiMJVIA_c "Google Drive")**
 
@@ -294,7 +294,7 @@ This competition has come to an end and resulted in the following podium:
   - [M2U - A Bella! (feat. Lucy) (Okoratu) \[Battle's Extra\]](https://osu.ppy.sh/beatmapsets/1158767#osu/2418106)
   - [M2U - Memory of Beach (milr\_) \[Mx\]](https://osu.ppy.sh/beatmapsets/1120861#osu/2342057)
 
-### Group Stage week 1
+### Group stage week 1
 
 **[Download the mappack here! (136 MB)](https://drive.google.com/uc?export=download&id=1AgtwrukjKoTm4uyX8Exxv7xJ4YTluhB0 "Google Drive")**
 
@@ -544,7 +544,7 @@ Wednesday, 30 December 2020:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | [Demonical](https://osu.ppy.sh/users/5447609) ![][flag_SG] | 0 | **6** | ![][flag_PH] **[Milkteaism](https://osu.ppy.sh/users/9642774)** | *win by default* |
 
-### Group Stage week 2
+### Group stage week 2
 
 Friday, 18 December 2020:
 
@@ -641,7 +641,7 @@ Sunday, 20 December 2020:
 | J | **[xidorn](https://osu.ppy.sh/users/7904667)** ![][flag_PH] | **5** | 0 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | *win by default* |
 | G | [Heya](https://osu.ppy.sh/users/11379332) ![][flag_MY] | 0 | **5** | ![][flag_VN] **[Hoaq](https://osu.ppy.sh/users/7696512)** | *win by default* |
 
-### Group Stage week 1
+### Group stage week 1
 
 Friday, 11 December 2020:
 
@@ -769,7 +769,7 @@ Sunday, 13 December 2020:
    - Players who ranked #97 or lower based on their accumulated Qualifier Points will be knocked out from the tournament.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
-### Group Stage rules
+### Group stage rules
 
 1. In the Group Stage, the 96 previously qualified players will be divided into 16 groups consisting of 6 different players each based on their seed.
 2. All the players from each group will face each other over the period of two weeks based on the following bracket scheme:

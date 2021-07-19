@@ -60,8 +60,6 @@ tags:
 
 ## Participants
 
-### Qualified participants
-
 | Seed | Team | Members |
 | :-: | :-- | :-- |
 | 1 | **regular team** | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) |
@@ -131,7 +129,7 @@ tags:
 
 More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1J0ciAoWtGNPzzIegAMYdDoR579vjEajjgwvm5PyZUFnqZZWS1GoYaJZvIWuYh-JzqZwT0VKLvQXm/pubhtml# "Google Sheets")
 
-### Groups
+## Groups
 
 | Group | Top | High | Low | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
@@ -279,7 +277,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[lapix - Voice of Galaxy (\_Asha) \[Overlap Hertz\]](https://osu.ppy.sh/beatmapsets/905398#mania/1889765)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [2814 - Huifu (Recovery) (Shoegazer) \[Metropolis\]](https://osu.ppy.sh/beatmapsets/1194892#mania/2489294)
@@ -444,7 +442,7 @@ Sunday, 6 December 2020:
 | **Xx\_OWO\_xX** | **5** | 2 | Winning Team | [#1](https://osu.ppy.sh/community/matches/71100862) |
 | No acc | 0 | **5** | **COME TO BRAZIL** | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 21 November 2020:
 
@@ -616,7 +614,7 @@ Sunday, 29 November 2020:
    - If 127 teams enter, the 63 worst-performing teams get eliminated and the top 64 will advance to the next round.
    - If 128 teams enter, all 128 teams will qualify and no one gets eliminated.
 
-#### Group Stage
+#### Group stage
 
 1. After the qualifiers stage, the remaining teams will be divided into 4 different groups based on their seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly drawing one team from each seed group.
 2. Each team in these groups will face each other once in a Best-of-7 match (first to 4 points wins) on a mappool containing 9 freemod maps and 1 tiebreaker map.. In total, every team in the Group Stage will participate in three matches. The two best-performing teams in each group will advance to the bracket stage and the two worst-performing teams of each group will be eliminated from the tournament.

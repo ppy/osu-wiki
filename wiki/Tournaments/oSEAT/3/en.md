@@ -276,7 +276,7 @@ This competition has come to an end and resulted in the following podium:
   - [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Paprika\]](https://osu.ppy.sh/beatmapsets/770240#osu/1619425)
   - [Hanataba - Night of Knights (v2b) \[DJPop's Extra Stage\]](https://osu.ppy.sh/beatmapsets/5445#osu/26726)
 
-### Group Stage - Week 2
+### Group stage week 2
 
 **[Download the mappack here! (70 MB)](https://drive.google.com/file/d/1kb4XoTLHUVLjTjHfVeSNlyfETownFZ4_/view "Google Drive")**
 
@@ -299,7 +299,7 @@ This competition has come to an end and resulted in the following podium:
   - [Suzuki Konomi - Blow out (Kalibe) \[Linadeft's Extra\]](https://osu.ppy.sh/beatmapsets/617203#osu/1324163)
   - [Kawano Marina - Sekai no Hate (Nao Tomori) \[Lasse's Insane\]](https://osu.ppy.sh/beatmapsets/892145#osu/1865143)
 
-### Group Stage - Week 1
+### Group stage week 1
 
 **[Download the mappack here! (79 MB)](https://mega.nz/#F!KupS1SqA!lOH8xviyDRC84aHC96yvkA "MEGA")**
 
@@ -552,7 +552,7 @@ Sunday, 5 January 2020:
 | MilkyCoffee- ![][flag_MY] | -1 | **0** | ![][flag_PH] **fixedbyglue** | *win by default* |
 | **blufir\_** ![][flag_MY] | **6** | 1 | ![][flag_ID] thefarrel007 | [#1](https://osu.ppy.sh/community/matches/57516363) |
 
-### Group Stage
+### Group stage
 
 Tuesday, 17 December 2019:
 
@@ -835,7 +835,7 @@ Wednesday, 1 December 2019:
    - If no difference is found in this manner, the tie will be resolved randomly.
 7. For administrative purposes, if a player submits a score on at least 1 map and does not submit a score on at least 1 map, they will have a score of 0 for maps they did not submit a score on. If a player does not submit a score for any map, they will be disqualified.
 
-#### Group Stage
+#### Group stage
 
 1. Each group will have 4 or 6 players (depending on whether the number of qualifiers is a power of 2 or a multiple of 6). Each group will have 1 player of each seed.
    - The top 8 qualifiers will be allocated a group based on hypothetical bracket seeding. All other qualifiers will be assigned groups randomly.

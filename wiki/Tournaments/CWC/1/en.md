@@ -30,7 +30,7 @@ The **Catch the Beat World Cup** (***CWC***) was a single elimination team-based
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 
-## Organization
+## Organisation
 
 The Catch the Beat World Cup was run by various osu!catch community members.
 
@@ -127,7 +127,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker  
   - **[Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlock) \[Northrend\]](https://osu.ppy.sh/beatmapsets/12030#fruits/45433)**
 
-### Group Stage week 5
+### Group stage week 5
 
 - NoMod
   - [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/22773#fruits/78913)
@@ -142,7 +142,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin) \[Uran's CTB\]](https://osu.ppy.sh/beatmapsets/13676#fruits/51945)**
 
-### Group Stage week 4
+### Group stage week 4
 
 - NoMod
   - [sasakure.UK - Jack-the-Ripper (rustbell) \[JackHasCome!\]](https://osu.ppy.sh/beatmapsets/23907#fruits/81560)
@@ -157,7 +157,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[07th Expansion - Final Answer (Shiirn) \[Question\]](https://osu.ppy.sh/beatmapsets/36272#fruits/117232)**
 
-### Group Stage week 3
+### Group stage week 3
 
 - NoMod
   - [IOSYS - Taihen na Mono no Shoushitsu (DJPop) \[Kana's CTB\]](https://osu.ppy.sh/beatmapsets/17819#fruits/67504)
@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Eoin O' Broin - Deep Space (galvenize) \[Another\]](https://osu.ppy.sh/beatmapsets/25098#fruits/85550)**
 
-### Group Stage week 2
+### Group stage week 2
 
 - NoMod
   - [Sakakibara Yui - Koi no Honoo (quintitem) \[ignore's Slider Madness\]](https://osu.ppy.sh/beatmapsets/8511#fruits/35010)
@@ -187,7 +187,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/28984#fruits/96358)**
 
-### Group Stage week 1
+### Group stage week 1
 
 - NoMod
   - [DJ YOSHITAKA - FLOWER (TKiller) \[Intense\]](https://osu.ppy.sh/beatmapsets/29996#fruits/104635)
@@ -202,7 +202,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[chum - Genesis of Aquarion (Lena) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/16782#fruits/60858)**
 
-## Match Results
+## Match results
 
 ## Finals
 
@@ -243,7 +243,7 @@ Sunday, 8 January 2012:
 | CFC | 1 | **3** | **China** | [#1](https://osu.ppy.sh/community/matches/2354049) |
 | **Chile** | **3** | 0 | State(s) of the Art | *win by default* |
 
-### Group Stage week 5
+### Group stage week 5
 
 Saturday, 3 December 2011:
 
@@ -272,7 +272,7 @@ Monday, 5 December 2011:
 
 ¹ *As per the Tournament Management's decision ([\[1\]](https://osu.ppy.sh/community/forums/posts/1184327) [\[2\]](https://osu.ppy.sh/community/forums/posts/1206142) [\[3\]](https://osu.ppy.sh/community/forums/posts/1187916)), the Chile vs. China match was not played.*
 
-### Group Stage week 4
+### Group stage week 4
 
 Saturday, 26 November 2011:
 
@@ -296,7 +296,7 @@ Monday, 28 November 2011:
 | --: | --: | :-: | :-: | :-- | :-- |
 | D | **Chile** | **2** | 0 | French fruit overdose club | [#1](https://osu.ppy.sh/community/matches/2078343) |
 
-### Group Stage week 3
+### Group stage week 3
 
 Saturday, 19 November 2011:
 
@@ -322,7 +322,7 @@ Monday, 21 November 2011:
 | C | **Team Nub** | **2** | 0 | German Hentai's | [#1](https://osu.ppy.sh/community/matches/2034819) |
 | A | **Indonesia** | **2** | 0 | Lone wolfs | *win by default* |
 
-### Group Stage week 2
+### Group stage week 2
 
 Saturday, 12 November 2011:
 
@@ -346,7 +346,7 @@ Monday, 14 November 2011:
 | --: | --: | :-: | :-: | :-- | :-- |
 | B | **State(s) of the Art** | **2** | 0 | Old School | [#1](https://osu.ppy.sh/community/matches/1990265) |
 
-### Group Stage week 1
+### Group stage week 1
 
 Saturday, 5 November 2011:
 

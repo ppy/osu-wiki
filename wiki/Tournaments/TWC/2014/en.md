@@ -237,7 +237,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[DystopiaGround - AugoEidEs (jonathanlfj) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136969#taiko/383455)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (211 MB)](https://www.mediafire.com/download/8kv1e4zne081tvp/TWC+Group+Stage.rar "MediaFire")**
 

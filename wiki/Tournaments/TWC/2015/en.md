@@ -226,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Resonecia - Legende (lolcubes) \[Legendary Oni\]](https://osu.ppy.sh/beatmapsets/155063#taiko/380524)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (75 MB)](https://www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar "MediaFire")**
 
@@ -343,7 +343,7 @@ Sunday, 15 March 2015:
 | ![][flag_US] **United States** | **5** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/14732731) |
 | Indonesia ![][flag_ID] | 2 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/14733838) |
 
-### Group Stage
+### Group stage
 
 Saturday, 7 March 2015:
 

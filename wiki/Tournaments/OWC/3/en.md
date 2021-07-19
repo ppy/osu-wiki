@@ -223,7 +223,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Shintani Ryoko - Wonderful World (Laurier) \[Insane\]](https://osu.ppy.sh/beatmapsets/45306#osu/141525)**
 
-### Group Stage week 3
+### Group stage week 3
 
 - FreeMod
   - [Itou Kanako - fake me (Science Adventure Dance Remix) (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/50322#osu/154727)
@@ -244,7 +244,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[paraoka - Manima ni (Apricot) \[Insane\]](https://osu.ppy.sh/beatmapsets/41603#osu/131354)**
 
-### Group Stage week 2
+### Group stage week 2
 
 **[Download the mappack here! (103 MB)](https://puu.sh/1ukRK "puush")**
 
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/22276#osu/86324)**
 
-### Group Stage week 1
+### Group stage week 1
 
 **[Download the mappack here! (66 MB)](https://puu.sh/1qFb1 "puush")**
 

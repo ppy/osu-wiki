@@ -219,7 +219,7 @@ The osu! World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[Camellia - d:for the DELTA (ProfessionalBox) \[Delirium\]](https://osu.ppy.sh/beatmapsets/396370#osu/862338)**
 
-### Group Stage
+### Group stage
 
 [Download the mappack here! (153 MB)](https://www.mediafire.com/file/13glkdv1zbyxfpp/OWC_2016_Group_Stage.rar "MediaFire")
 
@@ -324,7 +324,7 @@ Saturday, 19 November 2016:
 | Canada ![][flag_CA] | 1 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29105450) |
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/29106903) |
 
-### Group Stage
+### Group stage
 
 Saturday, 12 November 2016:
 

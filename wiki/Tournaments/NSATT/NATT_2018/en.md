@@ -213,7 +213,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Anomaly (Ulqui) \[Overlapse Oni\]](https://osu.ppy.sh/beatmapsets/557263#taiko/1179183)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [DJ TECHNORCH - Digital Kecak No_5 (Remo-Con Remix Radio Edit) (Pettsu) \[Yuni's uchuujin\]](https://osu.ppy.sh/beatmapsets/599672#taiko/1313638)
@@ -324,7 +324,7 @@ Sunday, 5 August 2018:
 | **yea** ![][flag_US] | **0** | -1 | ![][flag_US] Alchyr | *win by default* |
 | **vladyushko** ![][flag_CA] | **4** | 0 | ![][flag_US] closed | [#1](https://osu.ppy.sh/community/matches/44840845) |
 
-### Group Stage
+### Group stage
 
 Complete Group Stage match results can be accessed through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSY7o2krAotf6bOo8pImth_2NBNtjjsKxuKFeW6HxTyyBsk87BEz0V8VZ6O9_bQxh8MnaPTdOrP8T5w/pubhtml "Google Sheets")
 

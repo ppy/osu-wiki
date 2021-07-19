@@ -36,7 +36,7 @@ The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cu
 
 ![](img/badge.jpg "OWC #2 winner badge")
 
-## Organization
+## Organisation
 
 The osu! World Cup #2 was run by various community members.
 
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)**
 
-### Group Stage week 3
+### Group stage week 3
 
 - NoMod
   - [Ruru Ichinose - Hinarin's Relation of Misfortune (Mafiamaster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12344#osu/46486)
@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342)**
 
-### Group Stage week 2
+### Group stage week 2
 
 - NoMod
   - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#osu/82734)
@@ -249,7 +249,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
-### Group Stage week 1
+### Group stage week 1
 
 - NoMod
   - [Hatsune Miku - BadBye (goodbye) \[GoodBye\]](https://osu.ppy.sh/beatmapsets/30939#osu/101916)
@@ -269,7 +269,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021)**
 
-## Match Results
+## Match results
 
 ### Finals
 
@@ -345,7 +345,7 @@ Friday, 13 January 2012:
 | --: | :-: | :-: | :-- | :-- |
 | ![][flag_BR] **Brazil** | **3** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/2385313) |
 
-### Group Stage (Week 3)
+### Group stage week 3
 
 Saturday, 10 December 2011:
 
@@ -383,7 +383,7 @@ Sunday, 18 December 2011:
 | H | ![][flag_AR] **Argentina** | **3** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/2206788) |
 | G | ![][flag_BR] **Brazil** | **3** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/2243425) |
 
-### Group Stage (Week 2)
+### Group stage week 2
 
 Saturday, 3 December 2011:
 
@@ -426,7 +426,7 @@ Saturday, 10 December 2011:
 | D | ![][flag_CA] **Canada** | **3** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/2159276) |
 | H | ![][flag_AT] Austria | 1 | **3** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/2161204) |
 
-### Group Stage (Week 1)
+### Group stage week 1
 
 Saturday, 19 November 2011:
 

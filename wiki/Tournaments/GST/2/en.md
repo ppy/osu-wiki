@@ -270,7 +270,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Chitose Haru (CV: Numakura Manami) - Lucy (Kalibe) \[Arrival\]](https://osu.ppy.sh/beatmapsets/723219#osu/1526606)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1rxiuBmAscXlJ_DbItPqU_Al3_CO7UqHD/view "Google Drive")**
 
@@ -437,7 +437,7 @@ Monday, 23 December 2019:
 | a)ii)no scenario | 2 | **5** | **Tom and Jerry** | [#1](https://osu.ppy.sh/community/matches/57185231) |
 | salakau | 3 | **5** | **We can't read EZ** | [#1](https://osu.ppy.sh/community/matches/57187967) |
 
-### Group Stage
+### Group stage
 
 Friday, 29 November 2019:
 

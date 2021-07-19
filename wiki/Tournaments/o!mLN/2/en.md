@@ -82,7 +82,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Finals - Week 2
+### Finals week 2
 
 - FreeMod
   - [Various Artists - ELPIS LN I (ELPIS) \[YELL!\]](https://osu.ppy.sh/beatmapsets/758327#mania/1595151)
@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Frums - Nisemono (\[Crz\]Crysarlene) \[Fleece\]](https://osu.ppy.sh/beatmapsets/1222375#mania/2542527)**
 
-### Finals - Week 1
+### Finals week 1
 
 - FreeMod
   - [Various Artists - ELPIS LN I (ELPIS) \[YELL!\]](https://osu.ppy.sh/beatmapsets/758327#mania/1595151)
@@ -234,7 +234,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Finals - Week 2
+### Finals week 2
 
 Saturday, 1 August 2020:
 
@@ -248,7 +248,7 @@ Sunday, 2 August 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_TH] MyZterion- | [#1](https://osu.ppy.sh/community/matches/64880360) |
 
-### Finals - Week 1
+### Finals week 1
 
 Saturday, 25 July 2020:
 

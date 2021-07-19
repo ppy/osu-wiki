@@ -240,7 +240,7 @@ The osu! World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[Dark PHOENiX - Ryokugan no Jealousy \(EvilElvis\) \[Monster with Green Eyes\]](https://osu.ppy.sh/beatmapsets/382455#osu/836339)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (91 MB)](https://mega.nz/#!qLphFAoZ!eXLEe01i9mnPHqi5ebqGcSVQkK6nCqha8krm3MdhlXA "MEGA")**
 
@@ -357,7 +357,7 @@ Sunday, 18 November 2018:
 | **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/47518299) |
 | Russian Federation ![][flag_RU] | 3 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/47521221) |
 
-### Group Stage
+### Group stage
 
 Saturday, 10 November 2018:
 

@@ -254,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[PSYQUI - Hysteric Night Girl feat. Such (android52 Edit) (Evening) \[whiskey\]](https://osu.ppy.sh/beatmapsets/1086072#mania/2476309)**
 
-### Post-Qualifiers
+### Post-qualifiers
 
 - FreeMod
   - [BlueWind - OVER THE SKYLiNE (MyZterioN-) \[Horizon [edit]\]](https://osu.ppy.sh/beatmapsets/1131572#mania/2363659)
@@ -376,7 +376,7 @@ Sunday, 17 January 2021:
 | Polytetral ![][flag_SG] | 2 | **5** | ![][flag_VN] CPT\_Sivelia | [#1](https://osu.ppy.sh/community/matches/73606440) |
 | TriDoanGaming ![][flag_VN] | **5** | 1 | ![][flag_TH] HowToBeIntel | [#1](https://osu.ppy.sh/community/matches/73607754) |
 
-### Post-Qualifiers
+### Post-qualifiers
 
 Friday, 8 January 2021:
 

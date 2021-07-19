@@ -320,7 +320,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Laur - Sound Chimera (KTYN) \[Mind Chimera (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1060819#taiko/2623138)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (70 MB)](https://mega.nz/file/ElMylCjS#RkGwhO9M9em9RpMmiQNwsIihasufvIGZDJgRYlgum7I "MEGA")**
 
@@ -462,7 +462,7 @@ Sunday, 27 September 2020:
 | Hispanic Alliance A ![][flag_EC] ![][flag_CO] | 1 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/67573438) |
 | **Canada** ![][flag_CA] | **6** | 4 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/67578054) |
 
-### Group Stage
+### Group stage
 
 Saturday, 19 September 2020:
 

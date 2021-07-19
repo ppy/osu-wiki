@@ -199,7 +199,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 - Tiebreaker
   - **[BABYMETAL - Tales of The Destinies (Couil) \[Endless Journey\]](https://osu.ppy.sh/beatmapsets/611340#mania/1290602)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar "MediaFire")**
 
@@ -301,7 +301,7 @@ Sunday, 20 August 2017:
 | Poland ![][flag_PL] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/35429710) |
 | Sweden ![][flag_SE] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/35431890) |
 
-### Group Stage
+### Group stage
 
 Saturday, 12 August 2017:
 

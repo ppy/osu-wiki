@@ -234,7 +234,7 @@ The osu!catch World Cup 2019 was run by various community members.
 - Tiebreaker
   - **[Eisyo-kobu - Oriental Blossom -Eika Shuuei- (Yumeno Himiko) \[Sakura\]](https://osu.ppy.sh/beatmapsets/910194#fruits/1899381)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here!](https://www.dropbox.com/sh/e3jgd039od90c85/AADfBfWbrPI5NHwpKWiv3fCCa?dl=0 "Dropbox")**
 
@@ -348,7 +348,7 @@ Sunday, 7 July 2019:
 | **Taiwan** ![][flag_TW] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/53170971) |
 | Mexico ![][flag_MX] | 4 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/53178682) |
 
-### Group Stage
+### Group stage
 
 Saturday, 29 June 2019:
 

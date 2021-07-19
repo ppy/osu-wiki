@@ -220,7 +220,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Quaoar (Nepuri) \[Transneptunian\]](https://osu.ppy.sh/beatmapsets/931741#taiko/1945451)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (53 MB)](https://drive.google.com/file/d/1_9FfeVHDMf3fMae8ZxMMWkrEESVETm-r/view?usp=sharing "Google Drive")**
 
@@ -330,7 +330,7 @@ Sunday, 2 May 2021:
 | **tzechi** ![][flag_SG] | **5** | 3 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/82351619) |
 | **apaajaboleh10** ![][flag_ID] | **5** | 1 | ![][flag_SG] Prehistoria | [#1](https://osu.ppy.sh/community/matches/82353782) |
 
-### Group Stage
+### Group stage
 
 Saturday, 24 April 2021:
 

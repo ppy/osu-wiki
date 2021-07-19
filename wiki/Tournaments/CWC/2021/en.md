@@ -214,7 +214,7 @@ The osu!catch World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) a
 - Tiebreaker
   - **[you vs. ETIA. - Shang A Lang (kamome sano Remix) (Benita) \[meowning\]](https://osu.ppy.sh/beatmapsets/1450408#fruits/2981985)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [AAAA vs. Morimori Atsushi - Xrocus (Souvenir) \[Rain\]](https://osu.ppy.sh/beatmapsets/1419078#fruits/2923590)
@@ -323,7 +323,7 @@ Sunday, 9 May 2021:
 | Germany ![][flag_DE] | 2 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/82950460) |
 | **United States** ![][flag_US] | **6** | 3 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/82957747) |
 
-### Group Stage
+### Group stage
 
 Saturday, 1 May 2021:
 

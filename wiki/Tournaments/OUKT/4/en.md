@@ -12,7 +12,7 @@ tags:
 
 The **osu! UK tournament 4** (***OUKT4***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) and Co-Hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 4th iteration of the **osu! UK Tournament** (***OUKT***) series.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -483,7 +483,7 @@ Sunday, 18 January 2015:
 
 ## Ruleset
 
-### General Tournament Rules
+### General tournament rules
 
 - This tournament is for players ranked #50,000 to #1 only (We can be a little lenient if needed)
 - UK staff are allowed to play.
@@ -498,7 +498,7 @@ Sunday, 18 January 2015:
 - RO128/RO64 will be best of 5. RO32/RO16 will be best of 7. Quarterfinals/Semifinals will be best of 9. Finals/3rd Place will be best of 11.
 - Any unexpected happenings or events not covered by the rules shall be handled by the organizer at their discretion.
 
-### Match Rules
+### Match rules
 
 - The referee shall make the game and give it a appropriate title. First pick shall be decided by `!roll`, the highest roll wins. The pick order then will alternate back and forth between both players until one player wins.
 - The game mode will be set to Team Vs.
@@ -509,7 +509,7 @@ Sunday, 18 January 2015:
 - Matches will be locked and invite only.
 - If you fail the map, it is considered as a loss.
 
-### Scheduling Rules/Info
+### Scheduling rules/info
 
 - Matches will be played on the Weekends, Monday, Tuesday or Wednesday (I work so issues could arise)
 - If you cannot play at the time posted for you, contact the organizer for a rearrangement.

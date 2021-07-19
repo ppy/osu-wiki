@@ -257,7 +257,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Inori Minase - Yume no Tsubomi (hvick225) \[NathanZhanKamal225's Blossom\]](https://osu.ppy.sh/beatmapsets/601883#osu/1271372)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Igorrr - Houmous (Hobbes2) \[Collab Hyper\]](https://osu.ppy.sh/beatmapsets/703568#osu/1744049)
@@ -433,7 +433,7 @@ Monday, 8 July 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **Tom and Jerry** | **5** | 1 | Tryhards | [#1](https://osu.ppy.sh/community/matches/53192429) |
 
-### Group Stage
+### Group stage
 
 Tuesday, 18 June 2019:
 

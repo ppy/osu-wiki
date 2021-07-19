@@ -222,7 +222,7 @@ The osu!catch World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[Halozy - Paranoid Lost (Kyuare) \[Lost Grapes\]](https://osu.ppy.sh/beatmapsets/307818#fruits/688531)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (140 MB)](https://www.mediafire.com/download/zj5ayqd22x9cq30/CWC_2106_Group_Stage.rar "MediaFire")**
 
@@ -329,7 +329,7 @@ Saturday, 28 May 2016:
 | Mexico ![][flag_MX] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/25200513) |
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/25202284) |
 
-### Group Stage
+### Group stage
 
 Saturday, 21 May 2016:
 

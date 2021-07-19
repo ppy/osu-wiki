@@ -53,15 +53,13 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 ## Participants
 
-### Qualified participants
-
 | Seed | Users |
 | :-- | :-- |
 | High (#1 - #8) | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_PL] [Selegiline](https://osu.ppy.sh/users/1333495), ![][flag_PL] [Brunwald\_1410](https://osu.ppy.sh/users/1639587), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691), ![][flag_PL] [jasionnn](https://osu.ppy.sh/users/6886081), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260) |
 | Mid (#9 - #16) | ![][flag_PL] [paprotkaaaaa](https://osu.ppy.sh/users/6034749), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Shadow Cultist](https://osu.ppy.sh/users/3827078), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [M1si3k](https://osu.ppy.sh/users/7447943), ![][flag_PL] [Hentu](https://osu.ppy.sh/users/7706642), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Modren](https://osu.ppy.sh/users/1828621) |
 | Low (#17 - #24) | ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [Bersis](https://osu.ppy.sh/users/3557582), ![][flag_PL] [Matie](https://osu.ppy.sh/users/10144756), ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [Ilikecook](https://osu.ppy.sh/users/11389137), ![][flag_PL] [vipera767](https://osu.ppy.sh/users/4258883), ![][flag_PL] [Bobini-](https://osu.ppy.sh/users/7352299), ![][flag_PL] [LosDaniel](https://osu.ppy.sh/users/6105427) |
 
-### Groups
+## Groups
 
 | Group | High | Mid | Low |
 | :-: | :-- | :-- | :-- |
@@ -97,7 +95,7 @@ Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/
 - Tiebreaker
   - **[mafumafu - I wanna be a girl (Kawawa) \[Cinderella\]](https://osu.ppy.sh/beatmapsets/1111963#mania/2323202)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [u's - Bokura wa Ima no Naka de(TV Size) (arcwinolivirus) \[Normal\]](https://osu.ppy.sh/beatmapsets/569665#mania/1207647)
@@ -122,7 +120,7 @@ Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/
 
 ## Match results
 
-### Group Stage
+### Group stage
 
 Saturday, 14 November 2020:
 

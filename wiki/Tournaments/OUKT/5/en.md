@@ -10,7 +10,7 @@ tags:
 
 The **osu! UK tournament 5** (***OUKT5***) was a ![][flag_GB] United Kingdom mixed elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 5th and final iteration of the **osu! UK Tournament** (***OUKT***) series, it was succeeded by the UK Community Cup (UKCC).
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -299,7 +299,7 @@ OUKT5 was run by various community members
 - Tiebreaker
   - **[Traktion - The Near Distant Future (RLC) \[Lapse\]](https://osu.ppy.sh/beatmapsets/97433#osu/260489)**
 
-## Match Results
+## Match results
 
 ### Grand Final
 
@@ -374,7 +374,7 @@ Saturday, 10 October 2015 & Sunday, 11 October 2015
 | LR1 | **Bubbleman** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sway | *forfeit* |
 | LR1 | **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sniperhappy | *forfeit* |
 
-### Round of 32 (Group Stage)
+### Round of 32 (Group stage)
 
 Saturday, 26 September 2015 & Sunday, 27 September 2015
 
@@ -570,7 +570,7 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 - Your rank must be lower than #30000 to play. Signups under this rank will not be considered. You must also have a UK flag to be eligible, or be able to prove your nationality is UK. Ireland flag players are permitted to signup.
 - UK staff are allowed to play.
@@ -580,7 +580,7 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 - If a player experiences software or hardware issues or network issues and fails a map, rematches will be offered. They may decline this at their wish.
 - Any unexpected happenings or events not covered by the rules shall be handled by the organizer at their discretion.
 
-### Match Rules
+### Match rules
 
 - Before the start of the match, both players are given a single ban on a map from the mappool. Maps banned cannot be picked. For mod parts of the pool, both mod picks cannot be banned. (You can only ban 1 HD, 1 HR, etc.)
 - Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - this can be any submitted map, as long as it's playable (no centipede-tier maps). This does not count towards match score.
@@ -590,13 +590,13 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 - Matches will be locked and invite only.
 - If you fail the map, it is considered as a loss.
 
-### Scheduling Rules
+### Scheduling rules
 
 - The tournament will aim to be on the weekends, as the majority of players will be available. However, matches can be scheduled on any day dependent on availability of staff/players.
 - If you cannot play at the time posted for you, contact the organizer for a rearrangement.
 - Not showing is subject to the rules outlined in Tournament Rules.
 
-### Tournament Structure
+### Tournament structure
 
 #### Round of 128 & 64
 

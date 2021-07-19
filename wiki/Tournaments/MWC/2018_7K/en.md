@@ -187,7 +187,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[kamome sano - eclair au chocolat (extended bittersweet mix) (Lenfried-) [Gourmet Chocolate]](https://osu.ppy.sh/beatmapsets/505048#mania/1074472)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (79 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip "MediaFire")**
 
@@ -281,7 +281,7 @@ Sunday, 18 February 2018:
 | France ![][flag_FR] | 0 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/40184493) |
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/40186843) |
 
-### Group Stage
+### Group stage
 
 Saturday, 10 February 2018:
 

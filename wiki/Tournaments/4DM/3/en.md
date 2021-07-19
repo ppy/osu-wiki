@@ -106,7 +106,7 @@ The 4 Digit osu!mania World Cup 3 was run by various community members.
 | ![][flag_US] | **United States** | **[KamaTheCrimson](https://osu.ppy.sh/users/6362259)**, [\[GS\]Rose](https://osu.ppy.sh/users/9481266), [doctor big](https://osu.ppy.sh/users/7958845), [Feylos](https://osu.ppy.sh/users/4565040), [Retina](https://osu.ppy.sh/users/11392859), [Scep](https://osu.ppy.sh/users/11196445) |
 | ![][flag_VN] | **Vietnam** | **[Fenestrox](https://osu.ppy.sh/users/14714826)**, [Blulletgun](https://osu.ppy.sh/users/13122043), [DoraSPS](https://osu.ppy.sh/users/16005504), [Elzitallzila](https://osu.ppy.sh/users/14193228), [eufugu](https://osu.ppy.sh/users/13398090), [Thien-boiiii](https://osu.ppy.sh/users/16629204) |
 
-### Groups
+## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
@@ -234,7 +234,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Mameyudoufu - Quality Control (DannyPX) \[Distance\]](https://osu.ppy.sh/beatmapsets/1336570#mania/2768929)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (50 MB)](https://cdn.discordapp.com/attachments/796521304357470268/803376289625014333/4DM3_GS_Map_Pack.zip "Discord")**
 
@@ -350,7 +350,7 @@ Sunday, 7 February 2021:
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/75194738) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/75207220) |
 
-### Group Stage
+### Group stage
 
 Saturday, 30 January 2021:
 
@@ -481,7 +481,7 @@ Sunday, 31 January 2021:
    - If fewer than 20 teams enter, the number of teams that will advance is the highest power of 2 that is fewer than the number of entering teams (For example, if 19 teams enter, then 16 teams will advance. If 15 teams enter, then 8 teams will advance.) In this case, Group Stage will not occur and players will advance directly into the bracket stages.
 4. The results of the Qualifier Stage will also be used to determine the “seed” of each team. However, this concept will be explained in the Group Stage category below, as seeding is very pertinent in how the Group Stage works.
 
-#### Group Stage
+#### Group stage
 
 1. Based on the results of the Qualifier Stage, teams will be given a qualifier rank based off of their “score rating”, essentially meaning how well each team ranks on each qualifier stage compared to every other team. Teams, based off of this aforementioned rank, will be given a “seed”, meaning be classified into a certain ranking range with other teams around their qualifier rank in an attempt to generalize each teams’ overall comparative skill level with their “seed”. As the exact number of entering teams cannot be known yet, there are several possibilities for the ranking ranges used in determining each seed, so all possibilities will be listed below.
 2. If 32 teams remain after qualifiers, there will be 4 different seeds, and seeding will be decided as such:

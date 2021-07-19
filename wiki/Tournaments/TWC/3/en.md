@@ -226,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Ayane - Endless Tears...(lkp) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/24960#taiko/101301)**
 
-### Group Stage week 3
+### Group stage week 3
 
 - NoMod
   - [Saiya - Remote Control (Garven) \[inaba's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/53857#taiko/173361)
@@ -249,7 +249,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[toku feat. Pagoda - Boku no Sainou -dub mix- (Garven) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/33914#taiko/115063)**
 
-### Group Stage week 2
+### Group stage week 2
 
 - NoMod
   - [Silver Forest - Prayer (Elly-chan) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/32214#taiko/188456)
@@ -272,7 +272,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[DystopiaGround - AugoEidEs (happy30) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/24611#taiko/97949)**
 
-### Group Stage week 1
+### Group stage week 1
 
 - NoMod
   - [Comp - Kyoai (karenying) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/28609#taiko/114207)

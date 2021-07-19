@@ -195,7 +195,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[goreshit - fleshbound (Couil) \[trapped\]](https://osu.ppy.sh/beatmapsets/992271#mania/2075130)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here!](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0 "Dropbox")**
 
@@ -301,7 +301,7 @@ Sunday, 9 September 2018:
 | Australia ![][flag_AU] | 1 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/45829590) |
 | **Indonesia** ![][flag_ID] | **6** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/45831584) |
 
-### Group Stage
+### Group stage
 
 Saturday, 1 September 2018:
 

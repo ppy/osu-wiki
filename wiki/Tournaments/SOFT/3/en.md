@@ -39,7 +39,7 @@ The **Springtime Osu!mania Free-for-all Tournament 3** (***SOFT 3***) was a 1v1 
 
 ![](img/badge.png "SOFT3 winner badge")
 
-## Organization
+## Organisation
 
 | Position | Member |
 | :-- | :-- |

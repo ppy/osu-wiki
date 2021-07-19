@@ -278,7 +278,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Unlucky Morpheus - FAITH / Konoha Tengu (Vulkin) \[Etherial Reward\]](https://osu.ppy.sh/beatmapsets/1024314#taiko/2142598)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (83 MB)](https://mega.nz/file/NhsX1DTK#ckqXprnucBJI39-xweZF8PkFKshLIQfSX7Rl2kGglNQ "MEGA")**
 
@@ -454,7 +454,7 @@ Sunday, 14 June 2020:
 | **D3kuu** ![][flag_IT] | **5** | 3 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/62922827) |
 | bernard351 ![][flag_PL] | 1 | **5** | ![][flag_CA] **Vysha** | [#1](https://osu.ppy.sh/community/matches/62926745) |
 
-### Group Stage
+### Group stage
 
 Saturday, 6 June 2020:
 

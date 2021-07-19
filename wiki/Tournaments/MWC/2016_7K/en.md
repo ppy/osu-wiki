@@ -193,7 +193,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[takamatt feat. GUMI - TOKIO FUNKA (-Kamikaze-) \[Mid-Summer Marathon\]](https://osu.ppy.sh/beatmapsets/539611#mania/1144249)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here!](https://www.mediafire.com/download/841w26d8ik487uc/MWC_7K_2016_Group_Stage.rar "MediaFire")**
 
@@ -291,7 +291,7 @@ Saturday, 16 January 2016:
 | United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/21853348) |
 | Brazil ![][flag_BR] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/21865722) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 January 2016:
 

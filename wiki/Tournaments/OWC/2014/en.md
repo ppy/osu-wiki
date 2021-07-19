@@ -233,7 +233,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (206 MB)](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar "MediaFire")**
 
@@ -340,7 +340,7 @@ Sunday, 16 November 2014:
 | United Kingdom ![][flag_GB] | 2 | **5** | ![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10520060) |
 | Argentina ![][flag_AR] | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/10521646) |
 
-### Group Stage
+### Group stage
 
 Saturday, 8 November 2014:
 

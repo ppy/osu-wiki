@@ -218,7 +218,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[DragonForce - Defenders (Raiden) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/375447#taiko/835691)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappool here! (130 MB)](https://www.mediafire.com/download/eu9o60zwublo4fq/TWC_2016_Group_Stage.rar "MediaFire")**
 
@@ -248,7 +248,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[kamome sano - plasma (2015 rework) (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/348371#taiko/768536)**
 
-## Match Results
+## Match results
 
 ### Finals week 2
 
@@ -325,7 +325,7 @@ Sunday, 27 March 2016:
 | United Kingdom ![][flag_GB] | 1 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/23726773) |
 | Russian Federation ![][flag_RU] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/23727923) |
 
-### Group Stage
+### Group stage
 
 Sunday, 20 March 2016:
 

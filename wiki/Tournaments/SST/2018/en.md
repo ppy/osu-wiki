@@ -200,7 +200,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 - Tiebreaker
   - **[LiSA - Rising Hope (LU-I Remix) (Ohwow) [Irregularity]](https://osu.ppy.sh/beatmapsets/561679#osu/1420353)**
 
-### Round Of 16
+### Round of 16
 
  - NoMod
    - [Eiko Shimamiya - Higurashi no Naku Koro ni (Okorin) [Extra]](https://osu.ppy.sh/beatmapsets/333543#osu/738088)

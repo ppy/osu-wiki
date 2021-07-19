@@ -33,7 +33,7 @@ The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-e
 
 ![](img/badge.png "OSIM winner badge")
 
-## Organization
+## Organisation
 
 OSIM was run by various osu! community members predominantly hailing from Singapore, Indonesia, and Malaysia.
 

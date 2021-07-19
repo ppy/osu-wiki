@@ -34,7 +34,7 @@ The **osu! Indonesia Tournament #10 (2020)** (***OIT 2020***) was an Indonesian 
 
 ![](img/badge.jpg "OIT 2020 winner badge")
 
-## Organization
+## Organisation
 
 The OIT 2020 was run by various Indonesian osu! community members.
 

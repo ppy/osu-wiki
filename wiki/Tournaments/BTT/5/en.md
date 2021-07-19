@@ -260,7 +260,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 - Tiebreaker
   - [Camellia - Racemization (SKSalt) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/389310#taiko/999911)
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (62 MB)](https://mega.nz/#!j2hQlACQ!ZZNo2R4nSJXr15I_qv18oB5JQdlswj2X7WgHZ7QO38w "MEGA")**
 
@@ -442,7 +442,7 @@ Sunday, 9 February 2020:
 | -Storm7- ![][flag_HK] | 3 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58325726) |
 | **BadAimBoi** ![][flag_PL] | **4** | 1 | ![][flag_US] Yeong Yuseong | [#1](https://osu.ppy.sh/community/matches/58328827) |
 
-### Group Stage
+### Group stage
 
 Friday, 31 January 2020:
 

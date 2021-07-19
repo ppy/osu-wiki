@@ -183,7 +183,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[FELT - Lies in Reality (Surono) \[Dissembler\]](https://osu.ppy.sh/beatmapsets/665069#taiko/1407618)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [sakuzyo feat. Hatsune Miku - ChaiN De/structioN (Shiirn) \[Climbb & Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/49071#taiko/154164)
@@ -295,7 +295,7 @@ Sunday, 17 May 2020:
 | uchuuj1n ![][flag_SG] | 1 | **6** | ![][flag_SG] **Bobfree** | [#1](https://osu.ppy.sh/community/matches/61768193) |
 | FiNNb ![][flag_PH] | 4 | **6** | ![][flag_PH] **Aiery** | [#1](https://osu.ppy.sh/community/matches/61770234) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 May 2020:
 

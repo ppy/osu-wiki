@@ -10,7 +10,7 @@ tags:
 
 The **Chinese osu!mania 4K Tournament 2018** (***CMT 4K 2018***) is the third one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -148,7 +148,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 - Tiebreaker
   - **[Dschinghis Khan - Moskau(Camellia's Handzup Bootleg)\[apparently this is a song about moscow\]](https://osu.ppy.sh/beatmapsets/747926#mania/1575832)**
 
-### Group Stage
+### Group stage
 
 **Download the mappack here! (55 MB) - [Baidu Netdisk](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS "Google Drive")**
 
@@ -166,23 +166,23 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 - Tiebreaker
   - **[VILA - Another Halcyon \[Another Dream\]](https://osu.ppy.sh/beatmapsets/713501#mania/1508074)**
 
-### Qualification Stage
+### Qualification stage
 
 - [Jake Chudnow - Moon Men (Instrumental) \[Stage 1: Apollo\]](https://osu.ppy.sh/beatmapsets/856468#mania/1789290)
 - [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527#mania/1789415)
 - [Aimer - Through My Blood \<AM\> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473#mania/1789302)
 - [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524#mania/1789410)
 
-## Match Results
+## Match results
 
-### Finals - Week 2
+### Finals week 2
 
 | PlayerBlue |  |  | PlayerRed |
 | --: | :-: | :-: | :-- |
 | ByeForNow | 4 | 7 | \[Crz\]Murasame |
 | \[Crz\]Murasame | 0 | 7 | cheewee10 |
 
-### Finals - Week 1
+### Finals week 1
 
 | PlayerBlue |  |  | PlayerRed |
 | --: | :-: | :-: | :-- |
@@ -229,7 +229,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 | C Eru | 0 | **5** | **704661982** |
 | **\[Crz\]Murasame** | **5** | 0 | Orangejuice |
 
-### Group Stage
+### Group stage
 
 | Group | Players |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
@@ -250,13 +250,13 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 | H | **ByeForNow** | **AradORiOn\_MMM** | PiaoD | idqoos123 |
 |  | **12** | **4** | -4 | -12 |
 
-### Qualification Stage
+### Qualification stage
 
 Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ")** for more details.
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The **Chinese osu!mania 4K Tournament 2018** (***CMT 4K 2018***) is a one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
 2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
@@ -282,7 +282,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent 
 15. Any modification of these rules will be announced.
 16. The CMT team reserves the right to use Chinese preferentially.
 
-### Registration Rules
+### Registration rules
 
 1. Every user interested in joining the tournament signs up individually (Registration link will be released after the registration phrase begins).
 2. Only these players are eligible to sign up:
@@ -293,7 +293,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent 
 3. Successfully registered player will receive a confirm email and will be posted on the player list. See [here](https://osu.ppy.sh/community/forums/topics/800125).
 4. Map selectors and tournament managers are not allowed to register.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the Qualification stage, all players will be divided into groups of 8. The mappool for qualification round has **4** maps and all players will have two chances at each qualifier where the highest of the two runs will be cumulated for players' final score. The highest **32** (may vary with the number of registered players) players will qualify next stage.
 2. In the Group stage, qualified players will be divided into groups of 4.
@@ -313,7 +313,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent 
    - In Semi-finals and Finals: Week 1, you need to win **6** maps to win a match. (Best-of-11).
    - In Finals: Week 2, you need to win **7** maps to win the match. (Best-of-13).
 
-## Match Instructions
+## Match instructions
 
 ### Qualification stage
 
@@ -341,7 +341,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent 
 5. Players pick maps by turns:
    - In case of a tie, the tiebreaker map must be played.
 
-## Mappool Instructions
+## Mappool instructions
 
 1. There will be **1** mappool for the Qualification Stage, **1** mappool for the Group Stage, **1** mappool for Round of 16, **1** mappool for the Quarterfinals, **1** mappool for the Semifinals and **1** mappool for the Finals.
 2. Mappool size varies depending on the stage:
@@ -353,7 +353,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent 
 4. All maps, including the tiebreaker, will be played on Free-Mod condition:
    - Every individual player can pick Hidden, Flashlight or Fade-In freely.
 
-## Scheduling Instructions
+## Scheduling instructions
 
 1. In principle, each stage will be held on a single weekend.
 2. All matches will be held on Saturday or Sunday, UTC+8.

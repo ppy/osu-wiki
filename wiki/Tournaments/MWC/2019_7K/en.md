@@ -179,7 +179,7 @@ The osu!mania 7K World Cup 2019 was run by various community members.
 - Tiebreaker
   - **[Sword of Justice - Valestein Castle (pporse) \[Rock\]](https://osu.ppy.sh/beatmapsets/290360#mania/654164)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Kurenainagi Tabibito - Otenba Koimusume (MeowPaz) \[paperlens' 7K Hard\]](https://osu.ppy.sh/beatmapsets/363320#mania/797821)
@@ -282,7 +282,7 @@ Sunday, 17 February 2019:
 | Japan ![][flag_JP] | 3 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49657037) |
 | Sweden ![][flag_SE] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49660865) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 February 2019:
 

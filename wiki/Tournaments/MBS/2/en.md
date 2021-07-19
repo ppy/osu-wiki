@@ -312,7 +312,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - chrono diver -fragment- (Camellia's "crossroads of chrono" remix) (Raveille) \[TIME//CROSS\]](https://osu.ppy.sh/beatmapsets/1175949#mania/2452723)**
 
-#### Group Stage
+#### Group stage
 
 **[Download the mappack here! (66 MB)](https://mega.nz/file/lKBXUaTJ#PW4bOBbpzUDAo_aa4mIgHUlqaWblf6-MlrWOWiy8EuY "MEGA")**
 
@@ -481,7 +481,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Team Grimoire - RougokuSTRIP (Grimoire crossbreed rmx) (\[Shana Lesus\]) \[Magic exists \[HD\]\]](https://osu.ppy.sh/beatmapsets/490717#mania/1086583)**
 
-#### Group Stage
+#### Group stage
 
 **[Download the mappack here! (60 MB)](https://mega.nz/file/ru5U3IqT#hztvj_5094USPpitDdW31ubW2tSHeGC-363sEl7jf_8 "MEGA")**
 
@@ -654,7 +654,7 @@ Sunday, 31 May 2020:
 | woahsia ![][flag_SG] | 1 | **4** | ![][flag_FR] **xelied** | [#1](https://osu.ppy.sh/community/matches/62341651) |
 | Haadez ![][flag_FI] | 0 | **4** | ![][flag_DE] **cakeboss05** | [#1](https://osu.ppy.sh/community/matches/62343538) |
 
-#### Group Stage
+#### Group stage
 
 Friday, 15 May 2020:
 
@@ -1021,7 +1021,7 @@ Sunday, 31 May 2020:
 | **BubbleTeaBunny** ![][flag_SG] | **4** | 2 | ![][flag_PL] \_demo | [#1](https://osu.ppy.sh/community/matches/62337787) |
 | SergoM4444 ![][flag_RU] | 0 | **4** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/62341834) |
 
-#### Group Stage
+#### Group stage
 
 Saturday, 16 May 2020:
 

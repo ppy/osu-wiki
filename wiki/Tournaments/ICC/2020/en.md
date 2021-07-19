@@ -32,7 +32,7 @@ The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1
 
 ![](img/badge.png "ICC 2020 winner badge")
 
-## Organization
+## Organisation
 
 ICC 2020 was run by various osu! community members predominantly hailing from Indonesia.
 
@@ -177,7 +177,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - Tiebreaker
   - **[Nhato - Delay Order (Shizuku-) \[Time Manipulation\]](https://osu.ppy.sh/beatmapsets/580214#fruits/1228509)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (117 MB)](https://drive.google.com/file/d/1E8h7BBl3Bz-woN4Bw4rjUomWapceTeWU/view "Google Drive")**
 
@@ -302,7 +302,7 @@ Sunday, 18 October 2020:
 | Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) | [#1](https://osu.ppy.sh/community/matches/68445354) |
 | Lower | **[Koimeji](https://osu.ppy.sh/users/4137039)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | *win by default* |
 
-### Group Stage
+### Group stage
 
 Friday, 9 October 2020:
 
@@ -358,7 +358,7 @@ Sunday, 11 August 2020:
    - In the case where the number of concerned registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp under their account to participate as players in the tournament.
 5. Referees and map selectors may not participate as players in this tournament.
 
-### Group Stage rules
+### Group stage rules
 
 1. In the Group Stage, all participants will be divided into 8 different groups.
 2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out maps from the mappool to be played with the following turnouts after each map:
@@ -375,7 +375,7 @@ Sunday, 11 August 2020:
    - Whether there are player(s) who got disqualified during the match.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
-### Knockout Stage rules 
+### Knockout stage rules 
 
 1. The 16 players who managed to get through from the Group Stage will be matched to each other based on a randomized result.
 2. Players will compete against each other using the Double Elimination system.

@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[paraoka feat. haru\*nya - Manimani (Yales) \[Yamazakura\]](https://osu.ppy.sh/beatmapsets/714808#osu/1510461)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (150 MB)](https://drive.google.com/file/d/1oNZG_B8ZAy4iipibdcZtZUsnURpaqSTw/view?usp=sharing "Google Drive")**
 
@@ -348,7 +348,7 @@ Monday, 22 June 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **WHOMEGALUL** | **7** | 1 | Eleftharia | [#1](https://osu.ppy.sh/community/matches/63238230) |
 
-### Group Stage
+### Group stage
 
 Tuesday, 2 June 2020:
 
@@ -472,14 +472,14 @@ Sunday, 14 June 2020:
 4. Teams are not allowed to pick map within the same bracket back-to-back (e.g. picking Hidden bracket twice).
 5. FreeMod will be a bracket with intention players can select between Hidden or HardRock or both, it's mandatory that each team member use different mod during the match (e.g. Player 1 is playing with Hidden, Player 2 is playing with HardRock).
 
-### Group Stage details
+### Group stage details
 
 1. Group Stage will be held with the target of 20 teams make it through the cutoff, and will be splitted into 4 groups of 5.
 2. Group Stage will have a Best-of-11 winning condition.
 3. The top 2 teams from each group will advance to the knockout stage on the winner's bracket and the next 2 teams will advance to the knockout stage on the loser's bracket.
 4. Banning system is the same referring to the one in the [stage regulations section](#stage-regulations).
 
-### Knockout Stage details
+### Knockout stage details
 
 1. Knockout stage will be held after the results from Group Stage have been determined.
 2. Knockout stage will adopt the double-elimination bracket. This means teams have two chance of losses before getting eliminated.

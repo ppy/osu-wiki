@@ -196,7 +196,7 @@ The osu!mania 4K World Cup 2019 was run by various community members.
 - Tiebreaker
   - **[dj TAKA - Colors -sasakure.UK Futurelogic Remix- (Dergo) \[blue\]](https://osu.ppy.sh/beatmapsets/1033943#mania/2161813)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Mr.T - electro peaceful (-mint-) \[voltaic relaxation\]](https://osu.ppy.sh/beatmapsets/1031030#mania/2164238)
@@ -312,7 +312,7 @@ Sunday, 29 September 2019:
 | Chile ![][flag_CL] | 0 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/55201602) |
 | China ![][flag_CN] | 1 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/55201667) |
 
-### Group Stage
+### Group stage
 
 Saturday, 21 September 2019:
 

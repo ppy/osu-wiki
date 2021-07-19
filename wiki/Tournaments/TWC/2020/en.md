@@ -218,7 +218,7 @@ The osu!taiko World Cup 2020 was run by various community members.
 - Tiebreaker
   - **[Dyglone - The SakuraCore (The SakuraCore) (SKSalt) \[Sakura Burst\]](https://osu.ppy.sh/beatmapsets/942722#taiko/1968641)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Tyrfing - Verflucht (MMzz) \[Leggendaria\]](https://osu.ppy.sh/beatmapsets/934209#taiko/1950426)
@@ -333,7 +333,7 @@ Sunday, 15 March 2020:
 | **Japan** ![][flag_JP] | **6** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/59219774) |
 | Russian Federation ![][flag_RU] | 0 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/59221423) |
 
-### Group Stage
+### Group stage
 
 Saturday, 7 March 2020:
 

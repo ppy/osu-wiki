@@ -312,7 +312,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[RIOT - Overkill (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/984743#taiko/2060444)**
 
-### Group Stage
+### Group stage
 
 **[Download the map pack here! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I "MEGA")**
 
@@ -432,7 +432,7 @@ Saturday, 22 June 2019:
 | **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Poland B | [#1](https://osu.ppy.sh/community/matches/52815977) |
 | **Japan** ![][flag_JP] | **6** | 0 | ![][flag_PL] Poland B | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 8 June 2019:
 

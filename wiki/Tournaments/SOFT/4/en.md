@@ -14,7 +14,7 @@ Now!
 
 The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-on-one, country-independent osu!mania 4-key tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -64,8 +64,6 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 
 ## Participants
 
-### Qualified Participants
-
 | Seed | Users |
 | :-- | :-- |
 | Top (#1 - #16) | ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [-Electro-](https://osu.ppy.sh/users/3251373), ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_TH] [MyZterioN-](https://osu.ppy.sh/users/8521723), ![][flag_TH] [Nyarlahothep](https://osu.ppy.sh/users/2281110), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_SG] [Tamaneko](https://osu.ppy.sh/users/876528), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256), ![][flag_US] [HeZeuS](https://osu.ppy.sh/users/7387788), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097) |
@@ -73,7 +71,7 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 | Low (#33 - #96) | ![][flag_GB] [SoFast](https://osu.ppy.sh/users/6504254), ![][flag_FR] [Elementaires](https://osu.ppy.sh/users/2284328), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430), ![][flag_AU] [Rek](https://osu.ppy.sh/users/4018184), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_US] [EtienneXC](https://osu.ppy.sh/users/5610085), ![][flag_JP] [\[ misa \]](https://osu.ppy.sh/users/10011429), ![][flag_AU] [Spartan-](https://osu.ppy.sh/users/2145124), ![][flag_FI] [Daughter-](https://osu.ppy.sh/users/8370443), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_GB] [Xonica](https://osu.ppy.sh/users/3586776), ![][flag_BE] [yetii](https://osu.ppy.sh/users/6914714), ![][flag_US] [RemiFlan](https://osu.ppy.sh/users/3061151), ![][flag_PH] [windrush123](https://osu.ppy.sh/users/9087181), ![][flag_IT] [\[Crz\]Cribob](https://osu.ppy.sh/users/8485394), ![][flag_NO] [MartZ0Z](https://osu.ppy.sh/users/9219513), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_RU] [YaLTeR](https://osu.ppy.sh/users/3910006), ![][flag_US] [dhn](https://osu.ppy.sh/users/8987388), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_RU] [Mage](https://osu.ppy.sh/users/5527957), ![][flag_CA] [AndyTechGuy](https://osu.ppy.sh/users/10946180), ![][flag_CA] [CommandoBlack](https://osu.ppy.sh/users/7025841), ![][flag_NL] [Obligerator](https://osu.ppy.sh/users/7452877), ![][flag_NZ] [Spicy Meme](https://osu.ppy.sh/users/6571078), ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471), ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_SG] [Cute Doggo](https://osu.ppy.sh/users/7288030), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_VN] [Weabonie](https://osu.ppy.sh/users/8151986), ![][flag_UA] [Not Who You Are](https://osu.ppy.sh/users/7762366), ![][flag_CA] [Genuine](https://osu.ppy.sh/users/5235597), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [DarthSkrill](https://osu.ppy.sh/users/8051422), ![][flag_PL] [Triksu](https://osu.ppy.sh/users/7233032), ![][flag_CA] [loafusofbread](https://osu.ppy.sh/users/9278959), ![][flag_US] [TrapsAreNotGay](https://osu.ppy.sh/users/6911271), ![][flag_UY] [AnMaO](https://osu.ppy.sh/users/5243536), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][flag_BR] [Zergh](https://osu.ppy.sh/users/3181281), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_RU] [X\_Devil](https://osu.ppy.sh/users/6694908), ![][flag_DK] [Jole](https://osu.ppy.sh/users/2883132), ![][flag_US] [Eryyy](https://osu.ppy.sh/users/9872668), ![][flag_GB] [Zoobin4](https://osu.ppy.sh/users/10055204), ![][flag_AR] [Spktr](https://osu.ppy.sh/users/9856089), ![][flag_NL] [2fast4you98](https://osu.ppy.sh/users/5183940), ![][flag_FR] [AntoAa](https://osu.ppy.sh/users/3897919), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [WMountain](https://osu.ppy.sh/users/11149878), ![][flag_DE] [IceDynamix](https://osu.ppy.sh/users/8599070), ![][flag_PH] [Cohue](https://osu.ppy.sh/users/12538598), ![][flag_SE] [Craty](https://osu.ppy.sh/users/3918056), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_AR] [aluuu](https://osu.ppy.sh/users/4585260), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_CA] [ToaphFanGirl](https://osu.ppy.sh/users/8160564) |
 | Bottom (#97 - #128) | ![][flag_US] [Psychodic](https://osu.ppy.sh/users/4380139), ![][flag_US] [---Rose---](https://osu.ppy.sh/users/9481266), ![][flag_FI] [-Oreo-](https://osu.ppy.sh/users/5099222), ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108), ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_NL] [Bakuretsue](https://osu.ppy.sh/users/10960533), ![][flag_US] [afrono](https://osu.ppy.sh/users/1320102), ![][flag_NL] [samuelhklumpers](https://osu.ppy.sh/users/10945523), ![][flag_FR] [DragonSonic](https://osu.ppy.sh/users/7294830), ![][flag_US] [Azurles](https://osu.ppy.sh/users/11480864), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607), ![][flag_US] [ThePerge](https://osu.ppy.sh/users/7536259), ![][flag_US] [Fizzy](https://osu.ppy.sh/users/6805802), ![][flag_FR] [CharlisMadCut](https://osu.ppy.sh/users/2863607), ![][flag_FR] [Vulcairn](https://osu.ppy.sh/users/6598356), ![][flag_AR] [jLuyalb](https://osu.ppy.sh/users/7093698), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_TH] [FreddyKung](https://osu.ppy.sh/users/6938875), ![][flag_PL] [EWGF](https://osu.ppy.sh/users/8422748), ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_BR] [HaloSSB](https://osu.ppy.sh/users/7572142), ![][flag_FR] [Ping36](https://osu.ppy.sh/users/9388217), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [FD5GD](https://osu.ppy.sh/users/9477978), ![][flag_GB] [BlankPxl](https://osu.ppy.sh/users/5248545), ![][flag_PH] [OWWSU](https://osu.ppy.sh/users/9786578), ![][flag_FI] [princesswell](https://osu.ppy.sh/users/4789005), ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_GB] [loopyloo](https://osu.ppy.sh/users/6562873), ![][flag_US] [emiIio](https://osu.ppy.sh/users/6704297), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 
-### Groups
+## Groups
 
 | Group | Top | High | Mid | Low |
 | :-: | :-- | :-- | :-- | :-- |
@@ -220,7 +218,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Feryquitous - Central Nucleus (tailsdk) \[Pivot Of All Is In The Mind (Edit)\]](https://osu.ppy.sh/beatmapsets/814614#mania/2016711)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [O2i3 - Ooi [Game Edit] (qqqant) \[Party hard\]](https://osu.ppy.sh/beatmapsets/932214#mania/1946380)
@@ -258,7 +256,7 @@ This competition has come to an end and resulted in the following podium:
   - [cYsmix - Abandoned Shrine Party (juankristal) \[Stage 3: Outliers\]](https://osu.ppy.sh/beatmapsets/948789#mania/1981397)
   - [FOLiACETATE - Heterochromia Iridis (Gekido-) \[Stage 4: Mutation\]](https://osu.ppy.sh/beatmapsets/948787#mania/1981395)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -384,7 +382,7 @@ More details can be found **in [this spreadsheet](https://docs.google.com/spread
 | _underjoy ![][flag_PL] | 1 | **5** | ![][flag_SG] **Tamaneko** | [#1](https://osu.ppy.sh/community/matches/51737558) |
 | NKEYBOARD ![][flag_KR] | 4 | **5** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/51739046) |
 
-### Group Stage
+### Group stage
 
 More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQwI-bvBozP7n9VcPpuKONiacrxTsojwYFykQTpo5Olmb1rJLf6GrXfSMCo-iqFK1MqOnEJ_h19OR/pubhtml "Google Sheets").**
 
@@ -601,9 +599,9 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 
 ## Rules
 
-### Tournament Organisation
+### Tournament organisation
 
-#### Round Overview
+#### Round overview
 
 - With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
   - **Qualification Stage:** 4 song mappool, no winning condition, no tiebreaker song
@@ -612,7 +610,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
   - **Quarterfinals and Semifinals:** 14 song mappool, best of 11 (first to 6), one tiebreaker song
   - **Finals and Grand Finals:** 16 song mappool, best of 13 (first to 7), one tiebreaker song
 
-#### Qualification Process
+#### Qualification process
 
 - All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. **The maximum number of players who can advance to the subsequent round is 128**. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
   - If 32 players enter, all 32 players will qualify and no one gets eliminated.
@@ -628,7 +626,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best verage score rating being seed \#1, and the worst verage score rating being seed n; n being the number of players in the qualification stage.
 - We will be using **Score V2** for all rounds of the tournament.
 
-#### Post-Qualification
+#### Post-qualification
 
 - The round after the qualification stage (also known as the play-offs stage) is a **single elimination** stage with specific rules.
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups. Each group will have a different set of protocol to follow.
@@ -637,7 +635,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
   - **33rd-96th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in the 33rd to 96th seed group. In particular, their opponent's seed will be `(129 - player's seed)`. Players who win their match in this stage will advance to the Group Stage.
   - **97th-128th seeds**: Players within this group will participate in **two matches** in the Play-Offs stage. Their first opponent will be a player in the 97th to 128th seed group. In particular, their opponent's seed will be `(225 - player's seed)`. If the player wins their first match, their second opponent will be a player in the 17th to 32nd seed group. Players who win both of their matches in this stage will advance to the Group Stage.
 
-#### Group Stage
+#### Group stage
 
 - After the Play-Offs stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
 - Each player in these groups will face each other once. In total, every player in the Group Stage will participate in **three matches**. The two best-performing players in each group will advance to the bracket stage.
@@ -648,7 +646,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
   - Higher qualification seed.
 - The two worst-performing players of each group will be eliminated from the tournament.
 
-#### Bracket Stage
+#### Bracket stage
 
 - The bracket stage is a **double elimination** stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(33 - player's GS seed)`.
@@ -657,7 +655,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
 - Players who are in the losers bracket at the start of the Quarterfinals stage or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
-### Tournament Play
+### Tournament play
 
 #### Protocol
 
@@ -680,7 +678,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
   - SOFT4 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
-#### Warm-up Songs
+#### Warm-up songs
 
 - Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players. All warm-up songs must be osu!mania 4K specific beatmaps.
 - The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match. Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
@@ -688,7 +686,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
-#### Bans, Rolls and Song Selection
+#### Bans, rolls and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.

@@ -167,7 +167,7 @@ Notes:
 - Tiebreaker
   - **[V.K. - Darkness (Niva) \[OverdoZe\]](https://osu.ppy.sh/beatmapsets/79838#fruits/222591)** (B)
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Ceui - Seisen Spectale (Arusha Shuna) \[Collab\]](https://osu.ppy.sh/beatmapsets/19343#fruits/68083)
@@ -243,7 +243,7 @@ Sunday, 5 May 2013:
 | A | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (6) | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165) (1) | ![][flag_ID] **Sena Aizawa (13)** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (12)** |
 | B | ![][flag_ID] [Takamaru\_17](https://osu.ppy.sh/users/1762922) (4) | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (14)** | ![][flag_ID] **[lody tomiya](https://osu.ppy.sh/users/1808039) (14)** | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) (0) |
 
-### Group Stage
+### Group stage
 
 Friday, 26 April 2013:
 

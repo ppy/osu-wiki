@@ -247,7 +247,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - Tiebreaker
   - **[Falcom Sound Team jdk feat. Suehiro Yuri – Nageki no Refrain (AIR) \[OriginatorZero\]](https://osu.ppy.sh/beatmapsets/907848#osu/1894536)**
 
-### Group Stage
+### Group stage
 
 #### 1–15K
 
@@ -297,7 +297,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - Tiebreaker
   - **[Halozy – Paranoid Lost (Hakurei Yoru) \[Soda’s Lunatic\]](https://osu.ppy.sh/beatmapsets/440925#osu/964622)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
 #### 1-15K
 
@@ -407,7 +407,7 @@ Sunday, 4 August 2019:
 | --: | :-: | :-: | :-- | :-- |
 | İsim bulamadık pingleme artık | 3 | **5** | **KFC Managers** | [#1](https://osu.ppy.sh/community/matches/53835518) |
 
-### Group Matches
+### Group matches
 
 Saturday, 20 July 2019:
 

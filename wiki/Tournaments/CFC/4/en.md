@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[DJ Noriken - \#The_Relentless\_(Modified) (CLSW) \[EX\]](https://osu.ppy.sh/beatmapsets/603421#fruits/1274502)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (50 MB)](https://mega.nz/#!g01kAAyR!iTvPwH4g9dC9kajKPJw8o0v6Ck6hOMQ_UFp7Rg77IHc "MEGA")**
 
@@ -241,7 +241,7 @@ Sunday, 7 April 2019:
 | Sounny ![][flag_RE] | 0 | **5** | ![][flag_FR] **Alostis** | *win by default* |
 | **Sounny** ![][flag_RE] | **5** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 30 March 2019:
 

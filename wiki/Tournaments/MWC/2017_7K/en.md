@@ -12,7 +12,7 @@ tags:
 
 The **osu!mania 7K World Cup 2017** (***MWC 7K 2017***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third installment of the osu!mania 7K World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -157,7 +157,7 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 - Tiebreaker
   - **[niki feat. Reol - WAVE (KafuuChino) \[WAVE\]](https://osu.ppy.sh/beatmapsets/476563#mania/1017922)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (88 MB)](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar "MediaFire")**
 
@@ -227,7 +227,7 @@ Saturday, 21 January 2017:
 | Chile ![][flag_CL] | 2 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/30510203) |
 | United States ![][flag_US] | 2 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/30510203) |
 
-### Group Stage
+### Group stage
 
 Saturday, 14 January 2017:
 

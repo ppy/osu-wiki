@@ -81,7 +81,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 | #23 | ![][flag_CN] [Ecivon](https://osu.ppy.sh/users/9430102) |
 | #24 | ![][flag_CN] [Stink God](https://osu.ppy.sh/users/7381269) |
 
-### Groups
+## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[goreshit - fleshbound (\[Crz\]NucleoAP) \[Couil's trapped\]](https://osu.ppy.sh/beatmapsets/992271#mania/2075130)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (84.3MB)](https://www.dropbox.com/s/ywwvekemymwzrjh/MCNC19%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
 

@@ -268,7 +268,7 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 - Tiebreaker
   - **[hololive IDOL PROJECT - Shiny Smily Story (taiko\_ryuki) \[Ron's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1050045#taiko/2322393)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (52 MB)](https://mega.nz/file/B0UCVZAC#YE-4sS94GSC6kwigXFxLtlsCkqM_VZF4zj14eRbvhS4 "MEGA")**
 
@@ -464,7 +464,7 @@ Sunday, 28 February 2021:
 | Mashyuf ![][flag_TW] | 1 | **4** | ![][flag_US] **-Schwarts** | [#1](https://osu.ppy.sh/community/matches/76915367) |
 | dhuragin ![][flag_US] | 1 | **4** | ![][flag_SE] **Logg45vs** | [#1](https://osu.ppy.sh/community/matches/76915252) |
 
-### Group Stage
+### Group stage
 
 Friday, 12 February 2021:
 

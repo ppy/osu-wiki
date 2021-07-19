@@ -214,7 +214,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Meramipop - Eiya \[Imperishable Challengers\] (-Tochi) \[Eternal Night\]](https://osu.ppy.sh/beatmapsets/289225#osu/652034)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (119 MB)](https://drive.google.com/file/d/1GG2fBrRe2W51J2Jp4uIp0WXWE0O2ZV8R/view?usp=sharing "Google Drive")**
 
@@ -314,7 +314,7 @@ Sunday, 13 September 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **Pondokers** | **6** | 1 | Bolu Bude MOMO | [#1](https://osu.ppy.sh/community/matches/66896004) |
 
-### Group Stage
+### Group stage
 
 Friday, 28 August 2020:
 

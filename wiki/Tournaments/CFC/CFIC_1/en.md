@@ -9,7 +9,7 @@ tags:
 
 The **Catch French Intermediate Cup** (***CFIC***) was an intermediate one-on-one French osu!catch tournament hosted by ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263). It was the first installment and a new branch of the Catch French Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -193,7 +193,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Halozy - Aqua Trytone / Kanshou no Matenrou (celerih) \[Rain\]](https://osu.ppy.sh/beatmapsets/777789#fruits/1633813)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (55 MB)](https://mega.nz/#!FotnlQzR!bTxeqfGRbm-sOboVhq-AP31WP4r2ExNaGYNwpFrCIdU "MEGA")**
 
@@ -278,7 +278,7 @@ Sunday, 10 March 2019:
 | Aequo3 ![][flag_FR] | 0 | **5** | ![][flag_FR] **Zard** | *win by default* |
 | pierreCHT ![][flag_FR] | 1 | **5** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50174435) |
 
-### Group Stage
+### Group stage
 
 Friday, 1 March 2019:
 

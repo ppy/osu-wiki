@@ -93,7 +93,7 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 | #31 | ![][flag_CN] [GanYou](https://osu.ppy.sh/users/10358203) |
 | #32 | ![][flag_CN] [spensll](https://osu.ppy.sh/users/4547744) |
 
-### Groups
+## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -198,7 +198,7 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 - Tiebreaker
   - **[Nizikawa ft. Nayuta - Babel (\_VianK\_) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/1048148#mania/2190865)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (121 MB)](https://www.dropbox.com/s/lqde07vuqftq579/MCNC20%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
 

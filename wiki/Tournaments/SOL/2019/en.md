@@ -59,8 +59,6 @@ The Speed of Light Mania Tournament was run by various community members.
 
 ## Participants
 
-### Qualified participants
-
 | Seed | Users |
 | :-- | :-- |
 | Top (#1 - #16) | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PE] [DaZeRoS](https://osu.ppy.sh/users/6114633), ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363), ![][flag_PH] [Swarmsii](https://osu.ppy.sh/users/11716111), ![][flag_US] [-Electro-](https://osu.ppy.sh/users/3251373), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_US] [HeZeuS](https://osu.ppy.sh/users/7387788), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_TH] [\[-DaNieL\_TH-\]](https://osu.ppy.sh/users/6456531), ![][flag_US] [dhn](https://osu.ppy.sh/users/8987388f), ![][flag_PH] [realqarp](https://osu.ppy.sh/users/10374991), ![][flag_AU] [[Crz]Lochie](https://osu.ppy.sh/users/9527845), ![][flag_VN] [MashedPotato](https://osu.ppy.sh/users/10494860) |
@@ -68,7 +66,7 @@ The Speed of Light Mania Tournament was run by various community members.
 | Mid (#33 - #48) | ![][flag_RU] [FoXCHANNEL](https://osu.ppy.sh/users/8454236), ![][flag_BR] [Gabi Kamui](https://osu.ppy.sh/users/10658391), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607),![][flag_FR] [Ping36](https://osu.ppy.sh/users/9388217), ![][flag_FR] [DragonSonic](https://osu.ppy.sh/users/7294830), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_EC] [Reo09](https://osu.ppy.sh/users/10211528), ![][flag_AR] [jLuyalb](https://osu.ppy.sh/users/7093698), ![][flag_VN] [baoketban123](https://osu.ppy.sh/users/11863174), ![][flag_US] [Jellyblob](https://osu.ppy.sh/users/8319503), ![][flag_US] [yahweh](https://osu.ppy.sh/users/10465260), ![][flag_AR][Mateocristaldo](https://osu.ppy.sh/users/6384643), ![][flag_LV] [CrayZigg](https://osu.ppy.sh/users/11942663), ![][flag_CO] [Cansta](https://osu.ppy.sh/users/9303412), ![][flag_MX] [HéctorAF01](https://osu.ppy.sh/users/12815564), ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) |
 | Low (#49 - #64) | ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_RU] [TruthIsNear](https://osu.ppy.sh/users/11191093), ![][flag_MX] [YukariYakumo](https://osu.ppy.sh/users/10595982), ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465), ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236), ![][flag_RU] [AsyaKys](https://osu.ppy.sh/users/12096335), ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431), ![][flag_MX] [Kenrit-San](https://osu.ppy.sh/users/13054150), ![][flag_GB] [zHotRoD](https://osu.ppy.sh/users/10441414), ![][flag_AU] [Crumpetfiddler](https://osu.ppy.sh/users/3518705), ![][flag_RU] [artslay](https://osu.ppy.sh/users/7758301), ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184), ![][flag_TH] [monkerzaza](https://osu.ppy.sh/users/11025701), ![][flag_ID] [\[ Albedo \]](https://osu.ppy.sh/users/14584195), ![][flag_US] [Lights](https://osu.ppy.sh/users/9380939) |
 
-### Groups
+## Groups
 
 | Group | Top | High | Mid | Low |
 | :-: | :-- | :-- | :-- | :-- |

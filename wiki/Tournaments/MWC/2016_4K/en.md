@@ -206,7 +206,7 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (Daikyi) \[Final Voyage\]](https://osu.ppy.sh/beatmapsets/381334#mania/834266)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here!](https://www.mediafire.com/download/p39r1ckct4kjg91/MWC_4K_2016_Group_Stage.rar "MediaFire")**
 
@@ -306,7 +306,7 @@ Saturday, 13 August 2016:
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/27017355) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/27018723) |
 
-### Group Stage
+### Group stage
 
 Saturday, 6 August 2016:
 

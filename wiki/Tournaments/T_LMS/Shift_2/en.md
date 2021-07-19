@@ -252,7 +252,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Dustvoxx - Disconnect Me (from saturator) (pavlukivan) \[Oni (from remus)\]](https://osu.ppy.sh/beatmapsets/1118559#taiko/2381796)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (133 MB)](https://www.dropbox.com/s/tfuiej2yios9rfi/Shift%20Cup%20Group%20Stage%20Mappack.rar?dl=1 "Dropbox")**
 
@@ -375,7 +375,7 @@ Sunday, 3 May 2020:
 | Windjammers | 2 | **5** | **Dancing Pallbearers** | [#1](https://osu.ppy.sh/community/matches/61208921) |
 | RJ is a Furry | 0 | **5** | **ヴぇ** | [#1](https://osu.ppy.sh/community/matches/61211480) |
 
-### Group Stage
+### Group stage
 
 Saturday, 25 April 2020:
 

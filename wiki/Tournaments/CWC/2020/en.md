@@ -215,7 +215,7 @@ The osu!catch World Cup 2020 was run by the [osu! team](/wiki/People/The_Team) a
 - Tiebreaker
   - **[kors k feat.RIRE - Nirvana(Camellia's "BinaryHeaven" Remix) (Spectator) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/694025#fruits/1468430)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [REDALiCE vs. MASAKI - BUCHiGiRE Berserker (Bunnrei) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1074448#fruits/2249908)
@@ -332,7 +332,7 @@ Sunday, 17 May 2020:
 | **United States** ![][flag_US] | **6** | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/61776851) |
 | Russian Federation ![][flag_RU] | 3 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/61784119) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 May 2020:
 

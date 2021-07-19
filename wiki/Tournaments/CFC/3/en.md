@@ -226,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Our Stolen Theory - United (L.A.O.S Remix) (Minato Yukina) \[Vanquisher\]](https://osu.ppy.sh/beatmapsets/527777#fruits/1119645)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (61 MB)](https://mega.nz/#!wpkQTI5S!Vv6YZ2uUaoQ_hcJ1Rc9is6J3xUqF-7zBfIF-Rbh-E1M "MEGA")**
 
@@ -334,7 +334,7 @@ Tuesday, 25 September 2018:
 | --: | :-: | :-: | :-- | :-- |
 | **dracoV** ![][flag_FR] | **4** | 0 | ![][flag_FR] Libegon | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 8 September 2018:
 

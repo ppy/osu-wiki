@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Primitive Pump (frz) \[Inner PUMP\]](https://osu.ppy.sh/beatmapsets/712424#taiko/1505977)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (57 MB)](https://www.dropbox.com/s/ywc3w1vai12cvv9/NSATT%202019%20-%20Group%20Stage%20Map%20Pack.rar "Dropbox")**
 
@@ -312,7 +312,7 @@ Sunday, 30 June 2019:
 | **BossPlays** ![][flag_AR] | **5** | 4 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/53017178) |
 | **TrolloCat** ![][flag_US] | **5** | 2 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/53022697) |
 
-### Group Stage
+### Group stage
 
 Complete Group Stage match results can be accessed through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPxwqEqzN-miTVZ9fM20aMelIYCwnm1FFJV3M0yn7w8YoBB60lS-hIzpV4l9JOqQ3v9iyTBXHhoOAk/pubhtml "Google Sheets")
 

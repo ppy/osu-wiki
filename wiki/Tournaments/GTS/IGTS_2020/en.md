@@ -315,7 +315,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Tia - Love Me Gimme (toara\_fict) \[Oni\]](https://osu.ppy.sh/beatmapsets/472373#taiko/1009422)**
 
-### Group Stage
+### Group stage
 
 **[Download the map pack here! (65 MB)](https://mega.nz/file/3wFnTazb#-ONnI0-BFICX7IHmNR-zHmpK4qhWyJw9-AgzjZSiqCE "MEGA")**
 
@@ -449,7 +449,7 @@ Sunday, 21 June 2020:
 | **Netherlands** ![][flag_NL] | **6** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/63206000) |
 | **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/63208390) |
 
-### Group Stage
+### Group stage
 
 Saturday, 13 June 2020:
 

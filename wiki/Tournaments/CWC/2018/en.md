@@ -200,7 +200,7 @@ The osu!catch World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[Rita - Bookmark Memories \(F D Flourite\) \[Love\]](https://osu.ppy.sh/beatmapsets/783602#fruits/1645428)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (77 MB)](https://mega.nz/#!09kkXCAR!J4oF2QmrLA1RoLgErpqUHBaCul5SFNXAJKnIoo812jc "MEGA")**
 
@@ -314,7 +314,7 @@ Sunday, 17 June 2018:
 | **Germany** ![][flag_DE] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/43429726) |
 | Sweden ![][flag_SE] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/43431438) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 June 2018:
 

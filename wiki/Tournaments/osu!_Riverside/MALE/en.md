@@ -13,7 +13,7 @@ tags:
 
 The **Most Amazing LAN Ever** (***MALE***) was an osu! and osu!mania BYOC LAN tournament hosted by ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923) and ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614). It took place during *Highlander Con 2019*, a competitive gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
 
-## Event Details
+## Event details
 
 The Most Amazing LAN Ever was run over the duration of Highlander Con, from 9:00 a.m. to 10:00 p.m. PST on Sunday, January 27th, 2019. osu! and osu!mania tournaments started around 3:00 p.m. and 11:00 a.m., respectively.
 
@@ -181,7 +181,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Tiebreaker
   - **[Rain - 7's color umbrella (Meg) [Megumi Collab]](https://osu.ppy.sh/beatmapsets/625874#osu/1319316)**
 
-#### Group Stage
+#### Group stage
 
 - NoMod
   - [Sakurakou K-ON Bu - Cagayake!GIRLS[5nin Ver.] (TV size Ver.) (Pata-Mon) [Yui]](https://osu.ppy.sh/beatmapsets/666366#osu/1427838)
@@ -214,7 +214,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Tiebreaker
   - **[DJ Sharpnel - WE LUV LAMA (^) [14]](https://osu.ppy.sh/beatmapsets/353146#mania/778075)**
 
-#### Second Stage
+#### Second stage
 
 - FreeMod
   - [Cuvelia - Tenkuu no Yoake (Ibrahim) [CS' Extra]](https://osu.ppy.sh/beatmapsets/509270#mania/1083920)
@@ -229,7 +229,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Tiebreaker
   - **[goreshit - the nature of dying (Wonki) [oblivion]](https://osu.ppy.sh/beatmapsets/453378#mania/1019378)**
 
-#### First Stage
+#### First stage
 
 - FreeMod
   - [Blend A - Bon Appetit S (TV Size) (Amiichii) [Sadistic]](https://osu.ppy.sh/beatmapsets/690240#mania/1460895)
@@ -244,7 +244,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 - Tiebreaker
   - **[Grand Thaw - Aventyr (Sephriggorshas) [Hard]](https://osu.ppy.sh/beatmapsets/131691#mania/331525)**
 
-## Match Results
+## Match results
 
 ### osu!
 
@@ -327,7 +327,7 @@ The bracket was cut off early due to time concerns, so later matches switched to
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The Most Amazing LAN Ever is a one-on-one osu! and osu!mania tournament.
 2. Players must play all of their matches at Highlander Con 2019.
@@ -341,7 +341,7 @@ The bracket was cut off early due to time concerns, so later matches switched to
 1. In osu! Group Stage, every player plays every map. The total scores of each player will determine the seeding for further stages of the tournament.
 2. All other stages are in the double-elimination format.
 
-### Match Instructions
+### Match instructions
 
 1. Warm-up picks will likely not be allowed due to time concerns.
 2. Both players will `!roll` when they join the lobby. The player with the lower result will ban first, and the other will pick first.

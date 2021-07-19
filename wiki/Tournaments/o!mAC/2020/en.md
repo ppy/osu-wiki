@@ -146,7 +146,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Exit This Earth's Atomosphere (Camellia's 'PLANETARY//200STEP' Remix) [-Mystic vs. Leni's Thermosphere]](https://osu.ppy.sh/beatmapsets/860846#mania/1801089)**
 
-### Post-Qualifiers
+### Post-qualifiers
 
 - FreeMod
   - [Mori Calliope feat. kokorobeats - Excuse My Rudeness, But Could You Please RIP? [DEADBEATS]](https://osu.ppy.sh/beatmapsets/1256680#mania/2611413)
@@ -208,7 +208,7 @@ This competition has come to an end and resulted in the following podium:
 | **TriDoanGaming** | **0** | -1 | Sakaki | *forfeit* |
 | **Bojii** | **0** | -1 | Situroen | *forfeit* |
 
-### Qualifiers & Post-Qualifiers
+### Qualifiers & Post-qualifiers
 
 Check the results in this [statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4 "Google Sheets").
 

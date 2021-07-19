@@ -35,7 +35,7 @@ The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based 
 
 Aside from the main prizes listed above, the Tournament Management has also decided to separately award all members of the ![][flag_JP] Japanese team with 1 month of osu!supporter in the wake of the [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami "Wikipedia") incident.
 
-## Organization
+## Organisation
 
 The osu! World Cup #1 was run by various community members.
 

@@ -180,7 +180,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Eisyo-kobu - Oriental Blossom -Eika Shuuei- (Jaye) \[Eternal Ataraxy\]](https://osu.ppy.sh/beatmapsets/1003081#taiko/2099378)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [IOSYS - Poinsettia (eiri-) \[Nepu's Oni\]](https://osu.ppy.sh/beatmapsets/799276#taiko/1678185)
@@ -286,7 +286,7 @@ Sunday, 21 July 2019:
 | **Tsubasa2** ![][flag_AU] | **0** | -1 | ![][flag_SG] Bobfree | *win by default* |
 | **steven1** ![][flag_ID] | **0** | -1 | ![][flag_NZ] Bwhaa | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 13 July 2019:
 

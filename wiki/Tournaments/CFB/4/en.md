@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Kaori Miyazono (CV. Risa Taneda) - My Truth~Rondo capriccioso (Linada) \[Ascendance & Spec's Duet\]](https://osu.ppy.sh/beatmapsets/717528#fruits/1549787)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (61 MB)](https://wetransfer.com/downloads/acc2947bf3e906e2d4ebf4b97cdbe30420200426171428/49d7d2 "WeTransfer")**
 
@@ -292,7 +292,7 @@ Sunday, 10 May 2020:
 | **AttilaPhoenix** ![][flag_FR] | **5** | 2 | ![][flag_FR] -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61491060) |
 | **Trifano** ![][flag_FR] | **0** | -1 | ![][flag_FR] Riki no Kage | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 2 May 2020:
 

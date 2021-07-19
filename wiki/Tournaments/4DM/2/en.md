@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Finals Week 2
+### Finals week 2
 
 **[Download the map pack here! (101 MB)](https://www.dropbox.com/s/w8i2vgeunb4iure/Grand%20Finals%20%284DM2%20IS%20GONE%29.zip?dl=0 "Dropbox")**
 
@@ -140,7 +140,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - overcomplexification ("Quaternion" Long ver.) (HowToPlayLN) \[RuleNote x Sere2snow Labyrinthine\]](https://osu.ppy.sh/beatmapsets/1130230#mania/2360991)**
 
-### Finals Week 1
+### Finals week 1
 
 **[Download the map pack here! (116 MB)](https://www.dropbox.com/s/qngtsvfx96rpv4q/Finals%20Week%201.zip?dl=0 "Dropbox")**
 
@@ -220,7 +220,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Heart of Android : Even If It's Only By Mechanism (Antalf) \[Cipher\]](https://osu.ppy.sh/beatmapsets/1042122#mania/2325913)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Hyper Potions - Ski (\[GS\]Logan) \[HowToPlayLN's Lubricity (edit)\]](https://osu.ppy.sh/beatmapsets/1110745#mania/2320858)
@@ -335,7 +335,7 @@ Sunday, 1 March 2020:
 | **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/58851567) |
 | **France** ![][flag_FR] | **5** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/58853975) |
 
-### Group Stage
+### Group stage
 
 Saturday, 22 February 2020:
 
@@ -444,7 +444,7 @@ Tuesday, 25 February 2020:
    - If fewer than 20 teams enter, the number of teams that will advance is the highest power of 2 that is fewer than the number of entering teams (For example, if 19 teams enter, then 16 teams will advance. If 15 teams enter, then 8 teams will advance.) In this case, Group Stage will not occur and players will advance directly into the bracket stages.
 4. The results of the Qualifier Stage will also be used to determine the “seed” of each team. However, this concept will be explained in the Group Stage category below, as seeding is very pertinent in how the Group Stage works.
 
-#### Group Stage
+#### Group stage
 
 1. Based on the results of the Qualifier Stage, teams will be given a qualifier rank based off of their “score rating”, essentially meaning how well each team ranks on each qualifier stage compared to every other team. Teams, based off of this aforementioned rank, will be given a “seed”, meaning be classified into a certain ranking range with other teams around their qualifier rank in an attempt to generalize each teams’ overall comparative skill level with their “seed”. As the exact number of entering teams cannot be known yet, there are several possibilities for the ranking ranges used in determining each seed, so all possibilities will be listed below.
 2. If 32 teams remain after qualifiers, there will be 4 different seeds, and seeding will be decided as such:

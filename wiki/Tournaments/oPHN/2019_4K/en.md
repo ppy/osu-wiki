@@ -12,7 +12,7 @@ tags:
 
 The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a one-on-one, osu!mania 4-key tournament made for osu! players based in the Philippines or of Filipino Heritage. It is the first installment of the osu! Philippines Nationals.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -62,7 +62,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 ## Mappools
 
-### Finals Week 1
+### Finals week 1
 
 **[Download the mappack here! (84.9 MB)](https://drive.google.com/file/d/1FGo-7Xy2ZhTaM_pJtdmzVOltKLF2KmlK/view?usp=sharing "Google Drive")**
 
@@ -127,7 +127,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 - Tiebreaker
   - **[Laur - Sound Chimera (\_Streamy\_) \[Celestial Iris\]](https://osu.ppy.sh/beatmapsets/844432#mania/1779774)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (55.5 MB)](https://drive.google.com/open?id=1tlpvcpfwlgApNVwTJIGWJhe14gpwZ3ox "Google Drive")**
 
@@ -173,7 +173,7 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
   - [Sampling Masters MEGA - Kattobi KEIKYU Rider (Raveille) \[Airborne Array\]](https://osu.ppy.sh/beatmapsets/977507#mania/2045879)
   - [The Flashbulb - Passage D (SurfChu85) \[labyrinth\]](https://osu.ppy.sh/beatmapsets/977508#mania/2045880)
 
-## Match Results
+## Match results
 
 ### Semifinals
 
@@ -203,7 +203,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | nathan on mania | 4 | **6** | **Swarmsii** | [#1](https://osu.ppy.sh/community/matches/52844221) |
 | windrush123 | 2 | **6** | **Silhoueska Elze** | [#1](https://osu.ppy.sh/community/matches/52846932) |
 
-### Group Stage
+### Group stage
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdgCT4CH9eo8qFgAWTBj5AafXFJXyaL9FLxxQvuC-TSDaOXy5n4_sSc4jDyNtGI3KoZSZPk4w4Dmzx/pubhtml "Google Sheets")
 
@@ -278,14 +278,14 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ## Ruleset
 
-### Tournament Organisation
+### Tournament organisation
 
-#### General Eligibility
+#### General eligibility
 
 - Players who currently have (or had at some point since Account Creation) the Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but can present a proof of their Philippine Citizenship to the staff are the only ones allowed to join the tournament.
 - Staff Members who are not part of the Mappool Selectors and Referees are permitted to join the tournament.
 
-#### Round Overview
+#### Round overview
 
 - With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
   - **Qualification Stage**: 4 song mappool, no winning condition, no tiebreaker song
@@ -296,7 +296,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - All matches held are using a 1 player versus 1 player rule.
 - All rounds are to use the **restrictive FreeMod** rules (only NoMod, Flashlight, FadeIn, or Hidden are permitted to be used while playing), in addition, **Score v2** is implemented.
 
-#### Qualification Process
+#### Qualification process
 
 - All players that enter the tournament will be eligible to play in the qualification round. However, the number of participants who will advance to the next round will be cut down to the nearest power of 2. The maximum number of players who can advance to the subsequent round is 32. The criterion used to determine whether a player will progress to the next round is their performance in the qualification stage.
 - The qualification round will have a 4 song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament.
@@ -305,7 +305,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match. The purpose of putting you in groups of 8 is to give everyone streaming time, for qualifiers will be streamed as well!
 - Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed #1, and the worst average score rating being seed n; n being the number of players in the qualification stage.
 
-#### Post-Qualification
+#### Post-qualification
 
 - The round after the qualification stage (also known as the play-offs stage) is a single elimination stage with specific rules.
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups. Each group will have a different set of protocols to follow.
@@ -314,7 +314,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
   - **9th-24th seeds**: Players within this group will participate in one match in the Play-Offs stage. Their opponent will be a player in this group. In particular, their opponent's seed will be `(33 - player's seed)`. Players who win their match in this stage will advance to the Group Stage.
   - **25th-32nd seeds**: Players within this group will participate in two matches in the Play-Offs stage. Their first opponent will be a player in this seed group. In particular, their opponent's seed will be `(57 - player's seed)`. If the player wins their first match, their second opponent will be a player in the 5th to 8th seed group. Players who win both of their matches in this stage will advance to the Group Stage.
 
-#### Group Stage
+#### Group stage
 
 - After the Play-Offs stage, the remaining players will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
 - Each player in these groups will face each other once. In total, every player in the Group Stage will participate in **three matches**. The two best-performing players in each group will advance to the bracket stage.
@@ -325,7 +325,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
   - Higher qualification seed.
 - The two worst-performing players of each group will be eliminated from the tournament.
 
-#### Bracket Stage
+#### Bracket stage
 
 - The bracket stage is a **double elimination** stage. This means that a player who is participating in this stage must lose two matches in this stage to be eliminated from the tournament.
 - After the Group Stage, the remaining players will be seeded based on their performance in the Group Stage. We use the same metric as the one that we used to determine the two best-performing players in a group, minus the "number of losses by default" metric. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `(17 - player's GS seed)`.
@@ -334,7 +334,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Players who are in the winner's bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where the player is required to play in up to two matches if the player were to lose his first match in the Grand Finals stage.
 - Players who are in the loser's bracket at the start of Finals Week 1 or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will no longer need to play in any further matches in the tournament, for they are eliminated from the tournament.
 
-### Tournament Play
+### Tournament play
 
 #### Protocol
 
@@ -356,7 +356,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
   - PHN4K19 staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
 
-#### Warm-up Songs
+#### Warm-up songs
 
 - Each player in the match will be allowed one (1) warm-up song to be played, making for two (2) warm-ups in total between both players. All warm-up songs must be osu!mania 4K specific beatmaps.
 - The warm-up must be uploaded to the osu! website and accessible by everyone prior to the tournament match. Bloodcat links are **not allowed**, and neither are personal links featuring the beatmap that you want downloaded.
@@ -365,7 +365,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
-#### Bans, Rolls and Song Selection
+#### Bans, rolls and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.

@@ -233,7 +233,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
   - **[Tatsh - Cruel Moon (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13584#osu/50148)**
   - **[t+pazolite - Electric "Sister" Bitch (Nerova Riuz GX) \[N/A's INFINITE\]](https://osu.ppy.sh/beatmapsets/441459#osu/976187)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (110 MB)](http://www.mediafire.com/file/zg731xlt633u44n/otst%21+Group+Stage.zip "MediaFire")**
 
@@ -356,7 +356,7 @@ Sunday, 17 March 2019:
 | derust | 4 | **5** | **la profanacion** | [#1](https://osu.ppy.sh/community/matches/50346076) |
 | **Hotel for Lolis** | **5** | 1 | Raise My PeePee | [#1](https://osu.ppy.sh/community/matches/50347544) |
 
-### Group Stage
+### Group stage
 
 Saturday, 2 March 2019:
 

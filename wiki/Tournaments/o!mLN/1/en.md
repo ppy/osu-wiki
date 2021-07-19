@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Kanako Itou - Uncontrollable (Raveille) \[Tarachodis Lv.18\]](https://osu.ppy.sh/beatmapsets/690587#mania/1461522)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (77 MB)](https://mega.nz/#!stVjGQ7K!bOfAIerEz7ihTRPrYnUNyg28F87-9Z3dQnMyRnfkhq4 "MEGA")**
 
@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Nhato - Ophelia (Umo-) \[Drowning\]](https://osu.ppy.sh/beatmapsets/789359#mania/1656583)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
 **[Download the mappack here! (14 MB)](https://mega.nz/#!5w1XUIQR!k9vkdaa63EMjAVwwh0eFRCx6w3M6C_6v9T1VT9wcfeI "MEGA")**
 
@@ -301,7 +301,7 @@ Sunday, 7 April 2019:
 | YaLTeR ![][flag_RU] | 0 | **4** | ![][flag_FR] **AuraahDono** | [#1](https://osu.ppy.sh/community/matches/50827652) |
 | MillaMaxwelle ![][flag_FR] | -1 | **0** | ![][flag_BR] **andreymc** | *win by default* |
 
-### Group Stage
+### Group stage
 
 Friday, 22 March 2019:
 

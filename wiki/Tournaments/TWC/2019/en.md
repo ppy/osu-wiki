@@ -219,7 +219,7 @@ The osu!taiko World Cup 2019 was run by various community members.
 - Tiebreaker
   - **[xi - Double Helix (Loopy542) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/763343#taiko/1605065)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Venetian Snares - Szamar Madar (Xay) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/685785#taiko/1451660)
@@ -329,7 +329,7 @@ Sunday, 28 April 2019:
 | Singapore ![][flag_SG] | 1 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51361043) |
 | **Japan** ![][flag_JP] | **6** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/51363192) |
 
-### Group Stage
+### Group stage
 
 Saturday, 20 April 2019:
 

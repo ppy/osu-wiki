@@ -10,7 +10,7 @@ tags:
 
 The **osu! South East Asia Tournament 2** (***oSEAT2***) was a South East Asian players' double-elimination one-on-one osu! tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), and ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013). It was the second installment of the osu! South East Asia Tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -249,7 +249,7 @@ This competition has come to an end and resulted in the following podium:
   - [Camellia - K.Y.A.F.A. (SnowNiNo\_) \[NiNo's Insane\]](https://osu.ppy.sh/beatmapsets/414034#osu/1171254)
   - [IOSYS - Midnight Lightning Bolt (pieguy1372) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16371#osu/58701)
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (73 MB)](https://puu.sh/CbFC6/f50b2f04c6.rar "puush")**
 
@@ -515,7 +515,7 @@ Wednesday, 26 December 2018:
 | Xidorn ![][flag_PH] | 2 | **6** | ![][flag_ID] **Kurosaki** | [#1](https://osu.ppy.sh/community/matches/48376875) |
 | - Phantasma - ![][flag_TH] | 0 | **6** | ![][flag_ID] **Rexeez** | *win by default* |
 
-### Group Stage
+### Group stage
 
 Friday, 7 December 2018:
 
@@ -763,7 +763,7 @@ Tuesday, 18 December 2018:
 4. if your opponent does not respond to your reschedule request within 48 hours, notify a scheduler. You will be allowed to choose a new timing of your choice for the match.
    - You will have to attempt to make contact via both Discord and Forum PM
 
-### Match Proceedings
+### Match proceedings
 
 1. Before each match (except in group stages), both players are allowed to choose and play an osu! standard warmup with song length (not drain time) shorter than 5 minutes.
 2. After warmups, both players will `!roll`. Low roll bans maps first, high roll picks maps first.
@@ -819,7 +819,7 @@ Tuesday, 18 December 2018:
    - If a priority player would place outside the top 40 qualifiers, they will instead be removed from the rankings and be promoted to top 40 instead.
    - If the process of removing a priority player from rankings would knock another priority player out of top 40, that priority player is also removed. Rankings will be continuously recalculated until no new priority players are knocked out of top 40.
 
-### Round Specific Rules
+### Round specific rules
 
 *Note: These rounds are assumed to be for at least 80 players. They will be scaled down if we get less players.*
 
@@ -833,7 +833,7 @@ Tuesday, 18 December 2018:
 6. Top 72 points earners (including ties) qualify for Group Stage.
 7. For administrative purposes, if a player submits a score on at least 1 map and does not submit a score on at least 1 map, they will have a score of 0 for maps they did not submit a score on. If a player does not submit a score for any map, they will be disqualified.
 
-#### Group Stage
+#### Group stage
 
 1. Each group will consist of 1 top seed (top 8 priority players + top 8 qualifiers), 1 high seed (qualifiers 9-24), 1 mid seed (qualifiers 25-40), 1 low seed (qualifiers 41-56) and at least 1 bottom seed (all remaining qualifiers). Groups will be drawn randomly after all qualifiers are done.
    - If there is a tie that would determine which seed grouping the respective tied players are in, the tie will be broken randomly.
@@ -869,7 +869,7 @@ Tuesday, 18 December 2018:
 5. Players will have 1 round of bans before the 1st round of picks. The winner’s bracket will also get another ban before the 3rd round of picks (losers bracket player does not get this ban).
 6. If the match is tied at 7-7, winners bracket player gets to choose out of the remaining 2 maps.
 
-### Late Penalties
+### Late penalties
 
 1. **Less than 5 minutes**: no penalty.
 2. **5-10 minutes**: If 1st match in group stages: slot is opened up for reserve players to substitute in.

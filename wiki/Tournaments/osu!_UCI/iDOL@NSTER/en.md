@@ -14,7 +14,7 @@ tags:
 
 **The iDOL@NSTER: Irvine Spring Stage** was an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI "Facebook"). It took place during *Zotcade 2019*, a gaming festival held at the University of California, Irvine (*UCI*). This was osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
 
-## Event Details
+## Event details
 
 ![Map of the Student Center showing Moss Cove](/wiki/shared/UCI-Moss-Cove-map.png "Moss Cove in the Student Center")
 
@@ -306,7 +306,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 - Tiebreaker
   - **[MC Mental - MC MENTAL @ HIS BEST (hi19hi19) [Hard]](https://osu.ppy.sh/beatmapsets/503710#mania/1071695)**
 
-## Match Results
+## Match results
 
 ### osu!
 
@@ -473,7 +473,7 @@ Both tournaments will use a standard double-elimination format for playoffs.
 | Best of 9 | Finals | Semifinals |
 | Best of 11 | Grand finals | Finals |
 
-### Lobby and Matches
+### Lobby and matches
 
 1. Missing your match counts as a loss; no rematches will be made.
 2. Score V2 will be used as the win condition.
@@ -489,13 +489,13 @@ Both tournaments will use a standard double-elimination format for playoffs.
 1. On first disconnect, the opponent decides whether to rematch or not.
 2. Second and further disconnects are counted as losses.
 
-### Match Reporting
+### Match reporting
 
 1. Both players will have to report their scores together to the main desk.
 2. Both players must unanimously agree on the winner of the match.
 3. In the case of disagreement, a referee will check the match history link provided and make a judgement call.
 
-### Misconduct and Cheating
+### Misconduct and cheating
 
 1. Unsportsmanlike behavior and harassment will not be tolerated and can factor into your removal from the event.
 2. Any sort of verbal harassment towards another in the tournament will not be tolerated. This includes referees, bystanders and any other attendees of the event.

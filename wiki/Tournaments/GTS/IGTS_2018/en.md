@@ -80,7 +80,7 @@ The Intermediate Global Taiko Showdown 2018 was run by various osu!taiko communi
 | ![][flag_US] | **United States** | **[Swovine](https://osu.ppy.sh/users/6666316)**, [Rukairi](https://osu.ppy.sh/users/6642597), [Trilt](https://osu.ppy.sh/users/9292128), [CaptainEChan](https://osu.ppy.sh/users/9536977), [rg\_seo](https://osu.ppy.sh/users/8150728) |
 | ![][flag_VE] | **Venezuela** | **[Acetylcholine](https://osu.ppy.sh/users/4159873)**, [Syber\_Fox](https://osu.ppy.sh/users/6028905) |
 
-### Groups
+## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -228,7 +228,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Lovelicot - Indoa\*Ranburu (Kqrth) \[Rumble\]](https://osu.ppy.sh/beatmapsets/627513#taiko/1322323)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (67 MB)](https://mega.nz/#!mzgBHYxJ!C7T6SS-wWBI85Ez0-iKGB62466pcE8iV_yJHKDAB8qQ "MEGA")**
 
@@ -332,7 +332,7 @@ Saturday, 18 August 2018:
 | **Canada** ![][flag_CA] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/45173889) |
 | Chile ![][flag_CL] | 0 | **5** | ![][flag_PT] **Portugal** | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 4 August 2018:
 

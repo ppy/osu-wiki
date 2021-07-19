@@ -88,7 +88,7 @@ The Taiko LMS: Shift Cup was run by various osu!taiko community members.
 | **あ** | ![][flag_JP] **[ma\_r1n](https://osu.ppy.sh/users/9950613)**, ![][flag_JP] [Hori\_159](https://osu.ppy.sh/users/3023007), ![][flag_JP] [vzk](https://osu.ppy.sh/users/8264451), ![][flag_JP] [miki308](https://osu.ppy.sh/users/7632508) |
 | **迫真osu!taiko部** | ![][flag_JP] **[nekomusya1234](https://osu.ppy.sh/users/1382717)**, ![][flag_JP] [kazu0611](https://osu.ppy.sh/users/3784062), ![][flag_JP] [ton\_411](https://osu.ppy.sh/users/11981877) |
 
-### Groups
+## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Rhapsody - Epicus Furor / Emerald Sword (Midnaait) \[Eternal Journey\]](https://osu.ppy.sh/beatmapsets/780381#taiko/1639326)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (95 MB)](https://www.dropbox.com/s/ud8ofjzlqrjazax/LMSS%20-%20Group%20Stage.rar?dl=1 "Dropbox")**
 
@@ -390,7 +390,7 @@ Sunday, 17 June 2018:
 | B1-G2 | Noko Pan Pan | 2 | **5** | **FLip-FLop** | [#1](https://osu.ppy.sh/community/matches/43418934) |
 | G1-B2 | **Pyon Pyon Usagi** | **5** | 0 | :b:erkele | [#1](https://osu.ppy.sh/community/matches/43420521) |
 
-### Group Stage
+### Group stage
 
 Saturday, 8 June 2018 and Sunday, 9 June 2018:
 

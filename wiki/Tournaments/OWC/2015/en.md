@@ -231,7 +231,7 @@ The osu! World Cup 2015 was run by various community members.
 - Tiebreaker
   - **[Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Meg) \[We cry "OPEN"\]](https://osu.ppy.sh/beatmapsets/331499#osu/734339)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (155 MB)](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar "MediaFire")**
 
@@ -344,7 +344,7 @@ Sunday, 15 November 2015:
 | Norway ![][flag_NO] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20285332) |
 | Canada ![][flag_CA] | 1 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/20287601) |
 
-### Group Stage
+### Group stage
 
 Saturday, 7 November 2015:
 

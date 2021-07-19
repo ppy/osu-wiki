@@ -32,7 +32,7 @@ The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 | *4th place* | Steam Wallet voucher worth approx. IDR 45,000.- for each team member |
 
-## Organization
+## Organisation
 
 Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members.
 
@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Magnetude - Broken (SaltyMermaid) \[Shattered\]](https://osu.ppy.sh/beatmapsets/842099#mania/1762138)** 
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (29 MB)](https://mega.nz/file/WJYlVAyB#VaveHrRewqSkukDhdYajrhvWeS7CY-iZ38j4Pc7s0ok "MEGA")**
 
@@ -348,7 +348,7 @@ Sunday, 29 November 2020:
    - Players who ranked #33 or lower based on their accumulated Qualifier score will be knocked out from the tournament.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
-### Group Stage rules
+### Group stage rules
 
 1. In the Group Stage, the 32 previously qualified players will be randomly spread out into eight groups consisting of four different players each based on their seed.
 2. All the players from each group will face each other in a single multiplayer lobby under the "Battle Royale" matchup format as follows:

@@ -220,7 +220,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Various Artists - J-Core Mix (arcwinolivirus) \[Marathon\]](https://osu.ppy.sh/beatmapsets/164429#mania/400353)**
 
-#### Group Stage
+#### Group stage
 
 - FreeMod
   - [kors k - Insane Techniques (LeiN-) \[4K Another\]](https://osu.ppy.sh/beatmapsets/138188#mania/345760)
@@ -309,7 +309,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[ensou - COMA (Paulmrm) \[Insane\]](https://osu.ppy.sh/beatmapsets/193344#mania/459425)**
 
-#### Group Stage
+#### Group stage
 
 - FreeMod
   - [MiddleIsland - Piano Concerto No.1 "Scream" (Lieselotte) \[LV.23\]](https://osu.ppy.sh/beatmapsets/90270#mania/245873)
@@ -364,7 +364,7 @@ This competition has come to an end and resulted in the following podium:
 | Germany ![][flag_DE] | 1 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/8751265) |
 | **France** ![][flag_FR] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/8752601) |
 
-#### Group Stage
+#### Group stage
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -447,7 +447,7 @@ This competition has come to an end and resulted in the following podium:
 | **Chile** ![][flag_CL] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/8777543) |
 | **United States** ![][flag_US] | **5** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/8778916) |
 
-#### Group Stage
+#### Group stage
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |

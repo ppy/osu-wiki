@@ -368,7 +368,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[PSYQUI feat. Such - Your voice so... (Capu) \[Muzukashii...\]](https://osu.ppy.sh/beatmapsets/1163892#taiko/2436260)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (71 MB)](https://mega.nz/file/8wlxUKSY#Uh6XZdznW68cGIHS03sA5GYDIDbmRdShY27zVg52RfU "MEGA")**
 
@@ -552,7 +552,7 @@ Sunday, 20 December 2020:
 | Portugal ![][flag_PT] | -1 | **0** | ![][flag_BR] **Brazil** | *win by default* |
 | **Ukraine** ![][flag_UA] | **6** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/71929621) |
 
-### Group Stage
+### Group stage
 
 Thursday, 10 December 2020:
 

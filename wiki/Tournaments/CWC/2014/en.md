@@ -248,7 +248,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/31119#fruits/105143)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (186 MB)](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar "MediaFire")**
 
@@ -328,7 +328,7 @@ Saturday, 24 May 2014:
 | **Japan** ![][flag_JP] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/6840792) |
 | **United States** ![][flag_US] | **5** | 4 | ![][flag_UY] Uruguay | [#1](https://osu.ppy.sh/community/matches/6842138) |
 
-### Group Stage
+### Group stage
 
 Saturday, 17 May 2014:
 

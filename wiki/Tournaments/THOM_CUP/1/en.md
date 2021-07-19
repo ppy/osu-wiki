@@ -34,7 +34,7 @@ tags:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30 USD |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20 USD |
 
-## Organization
+## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -193,7 +193,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Ruby My Dear - 7C0 (Pope Gadget) \[R26\]](https://osu.ppy.sh/beatmapsets/352201#mania/844672)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (95 MB)](https://www.dropbox.com/sh/c3rktbonawm67hk/AAAQv1tCrCV9BSvEbRm84Nxha?dl=0 "Dropbox")**
 

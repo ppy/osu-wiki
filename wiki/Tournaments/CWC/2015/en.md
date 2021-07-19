@@ -224,7 +224,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 - Tiebreaker
   - **[Saiya - Remote Control (CLSW) \[Crystal Spec\]](https://osu.ppy.sh/beatmapsets/175623#fruits/423373)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (168 MB)](https://www.mediafire.com/download/2vadd4tk50y1mz1/CWC_2015_Group_Stage.rar "MediaFire")**
 
@@ -335,7 +335,7 @@ Saturday, 16 May 2015:
 | **Germany** ![][flag_DE] | **5** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/16164371) |
 | Argentina ![][flag_AR] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/16166132) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 May 2015:
 

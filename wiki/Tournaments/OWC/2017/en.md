@@ -202,7 +202,7 @@ The osu! World Cup 2017 was run by various community members.
 - Tiebreaker
   - **[Nana Mizuki - VIRGIN CODE (ShiraKai) \[GENESIS\]](https://osu.ppy.sh/beatmapsets/494430#osu/1052795)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (103 MB)](http://www.mediafire.com/file/8fpkzvgbz3hpoap/OWC_2017_Group_Stage.rar "MediaFire")**
 
@@ -315,7 +315,7 @@ Sunday, 26 November 2017:
 | Canada ![][flag_CA] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/37842093) |
 | Norway ![][flag_NO] | 2 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/37844547) |
 
-### Group Stage
+### Group stage
 
 Saturday, 18 November 2017:
 

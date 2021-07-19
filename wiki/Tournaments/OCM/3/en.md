@@ -143,7 +143,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 - Tiebreaker
   - **[Nekomata Gekidan - Envidia (-Ken) \[Envy\]](https://osu.ppy.sh/beatmapsets/883114#fruits/1846202)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (136 MB)](https://mega.nz/#!bJADnIbL!QuXa-kSOKKIxCC8LcQNxOa5rEtGv4Fm8GvD1WqkISWo "MEGA")**
 
@@ -190,7 +190,7 @@ Sunday, 23 February 2020:
 | Winner | \[B1\] Retired Players comeback | 5 | **6** | **Smukur es colombiano \[C2\]** | [#1](https://osu.ppy.sh/community/matches/58675218) |
 | Winner | **\[D1\] idk lol** | **6** | 2 | QT DOKU \[A2\] | [#1](https://osu.ppy.sh/community/matches/58673121) |
 
-### Group Stage
+### Group stage
 
 Saturday, 22 February 2020:
 

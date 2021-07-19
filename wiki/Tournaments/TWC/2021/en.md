@@ -219,7 +219,7 @@ The osu!taiko World Cup 2021 was run by various community members.
 - Tiebreaker
   - **[ulko - REGGAETON BUT IT HAS AMEN BREAKS (D3kuu) \[TATSUJIN\]](https://osu.ppy.sh/beatmapsets/1013247#taiko/2120869)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Noisia - Anomaly (maziari1105) \[Insane\]](https://osu.ppy.sh/beatmapsets/1222464#taiko/2542673)
@@ -329,7 +329,7 @@ Sunday, 14 March 2021:
 | Portugal ![][flag_PT] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/78051556) |
 | **Italy** ![][flag_IT] | **6** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/78059865) |
 
-### Group Stage
+### Group stage
 
 Saturday, 6 March 2021:
 

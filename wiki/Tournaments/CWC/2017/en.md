@@ -201,7 +201,7 @@ The osu!catch World Cup 2017 was run by various community members.
 - Tiebreaker
   - **[Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Tenshichan) \[Stellar\]](https://osu.ppy.sh/beatmapsets/485733#fruits/1035785)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (120 MB)](https://www.mediafire.com/file/4vdwqn61cwk1vb1/CWC_2017_Group_Stage.rar "MediaFire")**
 
@@ -304,7 +304,7 @@ Sunday, 11 June 2017:
 | **Sweden** ![][flag_SE] | **5** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/33790093) |
 | Germany ![][flag_DE] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/33791464) |
 
-### Group Stage
+### Group stage
 
 Saturday, 3 June 2017:
 

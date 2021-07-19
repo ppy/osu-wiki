@@ -11,7 +11,7 @@ tags:
 
 **The 4th CJB osu!mania 4K Tournament** (***CJB 4K 4th***) is a one-on-one osu!mania 4K specified Chinese regional tournament hosted by the CJB team. It is the 4th installment of the CJB osu!mania 4K Tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -58,7 +58,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 ## Mappools
 
-### Finals - Week 2
+### Finals week 2
 
 **Download the mappack here! (97.9M) - [Baidu Netdisk](https://pan.baidu.com/s/1-gKsm-Mcnt-ayLZDKvVYyw "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1vwasJMXpsCr4ibxvncxIOU29r7SehV2Q "Google Drive")**
 
@@ -80,7 +80,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 - Tiebreaker
   - **[Camellia feat. Nanahira - Bassdrop Freaks \[TofuStar's Bassdrop Maniac\]](https://osu.ppy.sh/beatmapsets/635897#mania/1349433)**
 
-### Finals - Week 1
+### Finals week 1
 
 **Download the mappack here! (148M) - [Baidu Netdisk](https://pan.baidu.com/s/1cQEbBQhW57IaS4Gba5uETw "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1WcvhPLepOb8Zaw5RFIXh1jgvHHTOloy6 "Google Drive")**
 
@@ -164,9 +164,9 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 - Tiebreaker
   - **[Tanya Degurechaff - Los! Los! Los! \[Insane\]](https://osu.ppy.sh/beatmapsets/584316#mania/1236183)**
 
-## Match Results
+## Match results
 
-### Finals - Week 2
+### Finals week 2
 
 | No. | Monday, 2018-08-13 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -177,7 +177,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 | 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** |  |
 | 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** |  |
 
-### Finals - Week 1
+### Finals week 1
 
 | No. | Saturday, 2018-08-11 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -251,7 +251,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
    - If player is in any other time zone, please notify the Management in advance.
    - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management.
 
-### Tournament Rules
+### Tournament rules
 
 1. This tournament is a one-on-one osu!mania 4K specified tournament.
 2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
@@ -276,7 +276,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 14. Any modification of these rules will be announced.
 15. The CJB team reserves the right to use Chinese preferentially.
 
-### Registration Rules
+### Registration rules
 
 1. Anyone who is interested in this tournament should join the [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp "Tencent QQ") and read the announcement in the group to register.
 2. In order for your registration to count, you must meet the following conditions:
@@ -288,7 +288,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 3. Successfully registered players will receive a confirmation email and will be posted on the players list.
 4. Map Selectors and Managers are not allowed to register.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. Each stage has **1** pool:
    - Pool of the Round of 16 and the Quarterfinals has **13** maps.
@@ -296,7 +296,7 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 2. Each mappool has one Tiebreaker.
 3. All of the maps will be played under *FreeMod* conditions.
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
    - Room settings are osu!mania, Team VS, Win Condition: 'Score v2'. Room name is "CJB4K: (Player 1) vs (Player 2)".

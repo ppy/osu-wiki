@@ -52,15 +52,13 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 ## Participants
 
-### Qualified participants
-
 | Seed | Users |
 | :-- | :-- |
 | Top (#1 - #8) | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [-Karen-chan-](https://osu.ppy.sh/users/1333495), ![][flag_PL] [EWGF](https://osu.ppy.sh/users/8422748), ![][flag_PL] [Brunwald\_1410](https://osu.ppy.sh/users/1639587), ![][flag_PL] [PanzerRaymanPL](https://osu.ppy.sh/users/8352830), ![][flag_PL] [Jakub Janda](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Lorwick](https://osu.ppy.sh/users/5481019) |
 | High (#9 - #16) | ![][flag_PL] [-Maus-](https://osu.ppy.sh/users/3109917), ![][flag_PL] [Alicejoy](https://osu.ppy.sh/users/10678683), ![][flag_PL] [jasionnn](https://osu.ppy.sh/users/6886081), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654) |
 | Low (#17 - #24) | ![][flag_PL] [Doktorek626](https://osu.ppy.sh/users/2122669), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [AgregaTxD](https://osu.ppy.sh/users/5115492), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Bobini-](https://osu.ppy.sh/users/7352299), ![][flag_PL] [xROCKETx](https://osu.ppy.sh/users/7442009), ![][flag_PL] [Felix27](https://osu.ppy.sh/users/7447943) |
 
-### Groups
+## Groups
 
 | Group | Top | High | Low |
 | :-: | :-- | :-- | :-- |

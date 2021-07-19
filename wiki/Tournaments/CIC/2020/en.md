@@ -34,7 +34,7 @@ The **Catch the Beat Indonesia Cup 2020** (***CIC 2020***) was a double-eliminat
 
 ![](img/badge.png "CIC 2020 winner badge")
 
-## Organization
+## Organisation
 
 CIC 2020 was run by various osu! community members predominantly hailing from Indonesia.
 
@@ -186,7 +186,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 - Tiebreaker
   - **[Sawai Miku - Colorful. (Asterisk DnB Remix) (Ascendance) \[Vibrant\]](https://osu.ppy.sh/beatmapsets/473255#fruits/1011229)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (111 MB)](https://drive.google.com/file/d/184os6Qkk7YKnSUVB_DP59PJ7mELzZo4N/view?usp=sharing "Google Drive")**
 
@@ -323,7 +323,7 @@ Sunday, 9 August 2020:
 | Lower | [Shurelia](https://osu.ppy.sh/users/3807986) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[Keiji Subarashi](https://osu.ppy.sh/users/3856673)** | [#1](https://osu.ppy.sh/community/matches/65196590) |
 | Lower | **[Toka](https://osu.ppy.sh/users/1595221)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Nakasu](https://osu.ppy.sh/users/7752479) | *win by default* |
 
-### Group Stage
+### Group stage
 
 Friday, 31 July 2020:
 
@@ -384,7 +384,7 @@ Monday, 3 August 2020:
    - In the case where the number of concerned registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp under their account to participate as players in the tournament.
 5. Referees and map selectors may not participate as players in this tournament.
 
-### Group Stage Rules
+### Group stage rules
 
 1. In the Group Stage, all participants will be divided into 8 different groups.
 2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out two maps from the mappool to be played with the following turnout after each map:
@@ -406,7 +406,7 @@ Monday, 3 August 2020:
    - Whether there are player(s) who got disqualified during the match.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
-### Knock-Out Stage Rules 
+### Knockout stage rules 
 
 1. The 16 players who managed to get through from the Group Stage will be matched to each other based on a randomized result.
 2. Players will compete against each other using the Double Elimination system.
@@ -421,7 +421,7 @@ Monday, 3 August 2020:
    - Player(s) who Win By Default.
    - Whether there are player(s) who got disqualified during the match.
 
-### Match Regulations
+### Match regulations
 
 1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.

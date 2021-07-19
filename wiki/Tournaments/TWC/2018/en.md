@@ -192,7 +192,7 @@ The osu!taiko World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[BlackYooh vs. siromaru - BLACK or WHITE? (Arrival) \[White\]](https://osu.ppy.sh/beatmapsets/606833#taiko/1281858)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (61 MB)](http://www.mediafire.com/file/q87i9p51i3627bu/TWC%202018%20-%20GROUP%20STAGE%20MAPPOOL.rar "MediaFire")**
 
@@ -300,7 +300,7 @@ Sunday, 15 April 2018:
 | **Chile** ![][flag_CL] | **5** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/41687469) |
 | United Kingdom ![][flag_GB] | 1 | **5** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/41689289) |
 
-### Group Stage
+### Group stage
 
 Saturday, 7 April 2018:
 

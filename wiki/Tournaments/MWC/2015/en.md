@@ -206,7 +206,7 @@ The osu!mania 4K World Cup 2015 was run by various community members.
 - Tiebreaker
   - **[Halozy - Kanshou no Matenrou (Feerum) \[World's End\]](https://osu.ppy.sh/beatmapsets/251365#mania/577429)**
 
-### Group Stage
+### Group stage
 
 **[Download the map pack here!](https://www.mediafire.com/download/ea93b8bb99w1vt5/MWC_4K_2015_Group_Stage.rar "MediaFire")**
 
@@ -308,7 +308,7 @@ Sunday, 30 August 2015:
 | Poland ![][flag_PL] | 1 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/18614619) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/18616004) |
 
-### Group Stage
+### Group stage
 
 Saturday, 22 August 2015:
 

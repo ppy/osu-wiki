@@ -250,7 +250,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Infected Mushroom - The Pretender (RLC) \[Pretender\]](https://osu.ppy.sh/beatmapsets/79498#osu/221777)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (215 MB)](https://www.mediafire.com/?jn0c8p6wqfrtfhb "MediaFire")**
 
@@ -340,7 +340,7 @@ Sunday, 17 November 2013:
 | France ![][flag_FR] | 4 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/2817324) |
 | **Austria** ![][flag_AT] | **5** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/2820030) |
 
-### Group Stage
+### Group stage
 
 Friday, 8 November 2013:
 

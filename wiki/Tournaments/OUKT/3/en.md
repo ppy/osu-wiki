@@ -10,7 +10,7 @@ tags:
 
 The **osu! UK tournament 3** (***OUKT3***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 3rd iteration of the **osu! UK Tournament** (***OUKT***) series.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -339,7 +339,7 @@ Saturday, 28 June 2014 & Sunday, 29 July 2014
 
 ## Ruleset
 
-### General Tournament Rules
+### General tournament rules
 
 - Players that are under rank #50,000 are not allowed to sign up.
 - UK staff are allowed to play.
@@ -354,7 +354,7 @@ Saturday, 28 June 2014 & Sunday, 29 July 2014
 - RO64/RO32 will be best of 5. RO16 will be best of 7. Quarterfinals/Semifinals will be best of 9. Finals/3rd Place will be best of 11.
 - Any unexpected happenings or events not covered by the rules shall be handled by the organizer at their discretion.
 
-### Seeding Rules
+### Seeding rules
 
 Seeding for this tournament will be as follows. This is a tournament of 64 players, 16 of which will be seeded. The draw is then completed as follows:
 
@@ -365,7 +365,7 @@ Seeding for this tournament will be as follows. This is a tournament of 64 playe
 5. The 9th-16th seeds will be drawn in remaining gaps so they do not run into another seed in the first 2 rounds.
 6. The remaining 48 competitors will be randomly assigned to the remaining gaps in the draw.
 
-### Match Rules
+### Match rules
 
 - The referee shall make the game and give it a appropriate title. First pick shall be decided by `!roll`, the highest roll wins. The pick order then will alternate back and forth between both players until one player wins.
 - The game mode will be set to Team Vs.
@@ -375,7 +375,7 @@ Seeding for this tournament will be as follows. This is a tournament of 64 playe
 - Matches will be locked and invite only.
 - If you fail the map, it is considered as a loss.
 
-### Scheduling Rules/Info
+### Scheduling rules/info
 
 - Matches will be played on the weekend.
 - If you cannot play at the time posted for you, contact the organizer for a rearrangement.

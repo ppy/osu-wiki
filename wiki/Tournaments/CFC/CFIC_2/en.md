@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Triad Primus - Trancing Pulse (Spectator) \[Rain\]](https://osu.ppy.sh/beatmapsets/380135#fruits/831859)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (57 MB)](https://mega.nz/#!48V30CiY!3XUk847uzPDk0l1JRpojn9251o3SpFeE87b6x9l44PI "MEGA")**
 
@@ -289,7 +289,7 @@ Sunday, 1 March 2020:
 | Pizu ![][flag_FR] | 3 | **5** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58849487) |
 | NinjaCoktail ![][flag_FR] | 1 | **5** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/58851059) |
 
-### Group Stage
+### Group stage
 
 Saturday, 22 February 2020:
 

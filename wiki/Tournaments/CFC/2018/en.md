@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (-Plus-) \[\*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (81 MB)](https://mega.nz/#!k00gQAQA!AN6ivOW-s0QZZIqVwmj1VMZ1lw-Th3V9W0hlhDrX_vM "MEGA")**
 

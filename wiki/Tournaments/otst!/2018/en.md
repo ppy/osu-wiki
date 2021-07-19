@@ -293,7 +293,7 @@ This competition has come to an end and resulted in the following podium:
   - **[beatMARIO(COOL&CREATE) - Aki nation (Crimmi) \[NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/476535#osu/1051179)**
   - **[Expander - aura (Midge) \[Beyond Extreme\]](https://osu.ppy.sh/beatmapsets/281721#osu/637391)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Qrispy Joybox - licca (Frey) \[Special\]](https://osu.ppy.sh/beatmapsets/242877#osu/560453)
@@ -450,7 +450,7 @@ Sunday, 4 March 2018:
 | **Sayuri best girl** | **5** | 2 | Tilted Venrue | [#1](https://osu.ppy.sh/community/matches/40575783) |
 | **Azer** | **5** | 0 | Potato farmers | [#1](https://osu.ppy.sh/community/matches/40575774) |
 
-### Group Stage
+### Group stage
 
 Saturday, 17 February 2018:
 

@@ -12,7 +12,7 @@ tags:
 
 The **UK osu!standard tournament!** (***OUKT1***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 1st iteration of the **osu! UK Tournament** (***OUKT***) series.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -262,7 +262,7 @@ Saturday, 7 December 2013
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 - This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined by seeding via [osu!TP](https://web.archive.org/web/20131113173042/http://osutp.net/info "Internet Archive - osu!tp"). (There is one exception here, as someone took the place of a higher seed player.)
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round until the Finals. (no more matches)
@@ -274,7 +274,7 @@ Saturday, 7 December 2013
 - RO32/RO16 will be best of 5. Quarterfinals, Semifinals will be best of 7. Finals will be best of 9.
 - Any unexpected happenings or events not covered by the rules shall be handled by the organizer at their discretion.
 
-### Match Rules
+### Match rules
 
 - The referee shall make the game and give it a appropriate title. First pick shall be decided by `!roll`, the highest roll wins. The pick order then will alternate back and forth between both players until a winner is declared.
 - The game mode shall be set to Team Vs.
@@ -283,7 +283,7 @@ Saturday, 7 December 2013
 - After the end of the match, the referee will post the title of the match and a link to the MP history of that lobby and the final match score.
 - Matches will be locked and invite only.
 
-### Scheduling Info
+### Scheduling info
 
 - Matches will be played on the weekend.
 - If you cannot play at the time posted for you, contact the organizer for a rearrangement.

@@ -11,7 +11,7 @@ tags:
 
 The **Game_Osu Tourney 3** (***GO 3***) was a [Logitech](https://www.logitech.com/ "Logitech website")-sponsored worldwide one-on-one osu! tournament hosted by ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) and ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), and supported by ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702). It was the third installment of the Game_Osu Tourney.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -335,7 +335,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[AVTechNO!xTreow - DYE/Re:flection+ (dsco) \[RGB\]](https://osu.ppy.sh/beatmapsets/530818#osu/1125109)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
 **[Download the mappack here! (144 MB)](https://www.gameosu.com/Downloads/Qualifiers%20map-pack.rar "GameOsu")**
 
@@ -359,7 +359,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Mia REGINA - Choumusubi Amulet (nenpulse bootleg remix) (cococolaco) \[Dispel\]](https://osu.ppy.sh/beatmapsets/719896#osu/1520055)**
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -579,7 +579,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. The Game\_Osu is a one-on-one osu! tournament supported by Logitech.
 2. The Qualifiers will be in single-elimination.
@@ -591,7 +591,7 @@ This competition has come to an end and resulted in the following podium:
 8. Participation in the tourney is **prohibited** for members of the [Game\_Osu staff](https://www.gameosu.com/staff "GameOsu") (*with the exception of casters*).
 9. Mappools will be revealed at the end of every week on Sundays on the [Game\_Osu Twitch channel](https://www.twitch.tv/gameosu "Twitch"). While using the Game\_Osu website, follow the "Planning" tab to learn more about the schedule and the "Mappool" tab to check them out after the stream.
 
-### Match Organisation
+### Match organisation
 
 1. In Round of 64, you need to win 4 beatmaps to win a match. (Best-of-7)
 2. In the Round of 32 and the Round of 16, you need to win 5 beatmaps to win a match. (Best-of-9)
@@ -602,7 +602,7 @@ This competition has come to an end and resulted in the following podium:
 6. The referees host multiple lobbies and tournaments at the same time and will not always know every map or their details. Please use the map's full name or terms such as `[mod][map number]` (using the `mappool` on the website tab as reference) to reduce possible confusion. Asking the referee to select maps that as examples; describe its background or reference will reduce your chances of getting the map you wish for.
    - For FreeMod picks, each player needs to pick at least one mod from: Hidden/HardRock/Easy/Flashlight. Multiple mods are allowed. These same mods are allowed to be used on the Tiebreaker.
 
-### Stage Instructions
+### Stage instructions
 
 #### Qualifiers
 
@@ -631,7 +631,7 @@ This competition has come to an end and resulted in the following podium:
 6. If any participants experienced a disconnection in the middle of play from Bancho, a rematch of that same map may be played at the referee's discretion. The players are given 5 minutes after a disconnection to contact their referee via osu! or Discord before being counted a loss.
 7. Rescheduling is allowed, however we ask of you to contact your opponent by yourself and then send us a proof that both of you are having an aggrement to reschedule. You can do so by posting a message on the `#rescheduling` text-channel on [GO Discord server](https://discord.gg/trnFByC "Discord") with both you and your opponent acknowledging it. The deadline for rescheduling is on the Thursday 7PM (UTC) of the upcoming week of your match.
 
-### Behaviour Rules
+### Behaviour rules
 
 1. All [osu! Rules](/wiki/Rules) apply.
 2. *Toxic* behaviour during matches will be highly reprimanded and may result in an **auto-loss, kick, or blacklist.**

@@ -262,7 +262,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[BABYMETAL - KARATE (Hysteria) \[Kyacchi Ni-Ju Ni\]](https://osu.ppy.sh/beatmapsets/505685#osu/1090998)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (102 MB)](https://fuma.s-ul.eu/HlCziwOy "s-ul")**
 
@@ -305,7 +305,7 @@ This competition has come to an end and resulted in the following podium:
   - [Ito Kanako - Skyclad no Kansokusha (Linada) \[-Tochi's Insane\]](https://osu.ppy.sh/beatmapsets/416129#osu/972844)
   - [Kuba Oms - All In All (Venix) \[Insane\]](https://osu.ppy.sh/beatmapsets/961320#osu/2012527)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -412,7 +412,7 @@ Sunday, 18 August 2019:
 | No Tryhard | 1 | **6** | **panda is not justice** | [#1](https://osu.ppy.sh/community/matches/54168789) |
 | **reyuza ganteng** | **6** | 3 | FYP 228922 | [#1](https://osu.ppy.sh/community/matches/54168996) |
 
-### Group Stage
+### Group stage
 
 Friday, 2 August 2019:
 

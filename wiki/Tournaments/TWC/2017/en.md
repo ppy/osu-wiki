@@ -85,7 +85,7 @@ The osu!taiko World Cup 2017 was run by various community members.
 
 ![](img/podium.jpg "TWC 2017 podium")
 
-## Mappool
+## Mappools
 
 ### Finals
 
@@ -196,7 +196,7 @@ The osu!taiko World Cup 2017 was run by various community members.
 - Tiebreaker
   - **[goreshit - looming shadow of a tree long gone (grumd) \[Loctav's Oni\] (Any)](https://osu.ppy.sh/beatmapsets/90803#taiko/344834)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (81 MB)](https://www.mediafire.com/file/vvi1c5w7px99mf9/TWC_2017_Group_Stage.rar "MediaFire")**
 
@@ -305,7 +305,7 @@ Sunday, 19 March 2017:
 | **United States** ![][flag_US] | **5** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/31889735) |
 | Chile ![][flag_CL] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/31891726) |
 
-### Group Stage
+### Group stage
 
 Saturday, 11 March 2017:
 

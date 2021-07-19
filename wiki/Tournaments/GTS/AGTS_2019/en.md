@@ -232,7 +232,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Various Artists - International OTOMAD's 6 (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/424276#taiko/916603)**
 
-### Group Stage
+### Group stage
 
 **[Download the map pack here! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE "MEGA")**
 
@@ -278,7 +278,7 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -345,7 +345,7 @@ Sunday, 25 August 2019:
 | **Netherlands** ![][flag_NL] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/54349753) |
 | Poland ![][flag_PL] | 0 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/54360101) |
 
-### Group Stage
+### Group stage
 
 Saturday, 17 August 2019:
 

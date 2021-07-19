@@ -184,7 +184,7 @@ The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/The_Team
 - Tiebreaker
   - **[Camellia - farewell to today (-mint-) \[adieu\]](https://osu.ppy.sh/beatmapsets/1114788#mania/2328702)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Cardboard Box - Nest (Guilhermeziat) \[Yolk 1.1\]](https://osu.ppy.sh/beatmapsets/576883#mania/2433644)
@@ -295,7 +295,7 @@ Sunday, 23 August 2020:
 | Thailand ![][flag_TH] | 2 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/65839201) |
 | **Malaysia** ![][flag_MY] | **6** | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/65841864) |
 
-### Group Stage
+### Group stage
 
 Saturday, 15 August 2020:
 
