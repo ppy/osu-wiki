@@ -17,7 +17,7 @@ The **Yaz's Summer Cup 2017** (***YSC 2017***) was a 1v1 double-elimination osu!
 | Quarterfinals | 2017-08-25/2017-08-27 |
 | Semifinals | 2017-09-01/2017-09-03 |
 | Finals | 2017-09-09/2017-09-10 |
-| Grand Finals | 2017-09-16 |
+| Grand Finals | 2017-09-30 |
 
 ## Prizes
 
@@ -321,6 +321,8 @@ See the [Participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 ## Match Results
 
 ### Grand Finals
+
+Saturday, 30 September 2017:
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
