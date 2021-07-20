@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "Project Loved: July 2021"
-date: 2021-07-20 13:30:00 +0000
+date: 2021-07-20 14:30:00 +0000
 ---
 
 Project Loved is here to cool you off from the summer heat with the freshest picks you've seen yet.
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-For those unfamiliar, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). These maps are all chosen by the Loved Captains of their respective gamemodes. You can click on each of the map's banners in this post to go to its poll on the forums, or to view them on the forum [here](https://osu.ppy.sh/community/forums/120). The voting process only lasts for 10 days, so make sure that you go vote! More info about this project is available on the [wiki page](/wiki/Project_Loved)! 
+For those unfamiliar, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). These maps are all chosen by the Loved Captains of their respective gamemodes. You can click on each map's banner in this post to go to its poll on the forums, or to view them all on the forum [here](https://osu.ppy.sh/community/forums/120). The voting process only lasts for 10 days, so make sure that you go vote! More info about this project is available on the [wiki page](/wiki/Project_Loved)! 
 
 This month, Project Loved will be getting 2 new Captains!
 
-Coming from the osu!taiko Nomination Team, we'd like to welcome [Horiiizon](https://osu.ppy.sh/users/8071438) to Project Loved! With their experience both in modding maps and as a player, we trust they're going to continue to bring quality maps to the Loved section! Our second captain this month, is actually returning after their break from the team. This captain is [_underjoy](https://osu.ppy.sh/users/2235750), who will be rejoining the osu!mania captain roster!
+Coming from the osu!taiko Nomination Team, we'd like to welcome [Horiiizon](https://osu.ppy.sh/users/8071438) to Project Loved! With their experience both in modding maps and as a player, we trust they're going to continue to bring quality maps to the Loved section! Our second captain this month is actually returning after their break from the team. This captain is [_underjoy](https://osu.ppy.sh/users/2235750), who will be rejoining the osu!mania captain roster!
 
 That's all for the big changes this month, so let's get into the picks for July.
 
@@ -45,7 +45,7 @@ This mapset has been on the Ranked category's doorstep in the past, but with the
 
 A new face to the Loved category, yet no stranger to the game, FlyingTuna has shown yet another skill — creating enjoyable maps.
 
-*Shinsekai Yori* is a high 7\*, 230 BPM stream and aim map, with some alternating patterns scattered throughout. Despite the star rating and description, the map is high octane, regardless of what the upbeat rock music may lead you to believe. This map paired with a very enjoyable song suit each other perfectly with no parts leaving you disappointed, only a smile on your face.
+*Shinsekai Yori* is a high 7\*, 230 BPM stream and aim map, with some alternating patterns scattered throughout. Despite the star rating and description, the map is high octane, regardless of what the upbeat rock music may lead you to believe. This map and the very enjoyable song it's paired with suit each other perfectly with no parts leaving you disappointed — only a smile on your face.
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/1320994.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -103,7 +103,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 300 BPM, 3:13 | 8.33★\
 *description written by [KuroKuroKuro](https://osu.ppy.sh/users/11931563)*
 
-*Delta* is popular and played a lot by osu!taiko players, with a BPM of 300, it features 1/4, 1/6 and 1/8 doubles that will come at you relentlessly. In addition, the bar line gimmicks and placement match the song very well, making it a very enjoyable map. If you're an advanced player, or even if you're not confident in your skills, why not play for a pass?
+*Delta* is popular and played a lot by osu!taiko players. With a BPM of 300, it features 1/4, 1/6 and 1/8 doubles that will come at you relentlessly. In addition, the bar line gimmicks and placement match the song very well, making it a very enjoyable map. If you're an advanced player, or even if you're not confident in your skills, why not play for a pass?
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/858606.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -111,7 +111,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 225.6 BPM, 1:38 | 5.74★, 6.07★, 6.13★, 7.38★\
 *description written by [X a v y](https://osu.ppy.sh/users/3738344)*
 
-*Maid-chan Yori.* is a popular map that has been circulating since 2018. The song features a sped-up version of a very catchy fast jingle, which features 4 difficulties from prominent mappers at the time of its release. Even though the map stays simple with straightforward usage of scroll speeds, the difficulties use very intuitive patterns and fit the song really well, making the map enjoyable for advanced players.
+*Maid-chan Yori.* is a popular map that has been circulating since 2018. The song features a sped-up version of a very catchy fast jingle, which features 4 difficulties from prominent mappers at the time of its release. Even though the map stays simple with straightforward usage of scroll speeds, the difficulties use very intuitive patterns that fit the song really well, making the map enjoyable for advanced players.
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/971578.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -142,9 +142,9 @@ AutoLs is well-known for their crazy playing skill, but people often overlook th
 236 BPM, 4:08 | 4.28★, 5.21★\
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-This month we have *Kurikaeshi Hitosubu* going for Loved, made by Magiyu. A mapper you might not know as they are a fairly old mapper (and player!)
+This month going for Loved we have *Kurikaeshi Hitosubu* made by Magiyu, a mapper you might not know as they are a fairly old mapper (and player!)
 
-The map has two difficulties, both of them shouldn't be *too* hard for most players as they are of a fairly low star rating. Both of the difficulties focus mostly on stair-like patterns which might give you some issues playing through, however are very rewarding to play. Give the map a spin and see what you can achieve!
+The map has two difficulties, both of which shouldn't be *too* hard for most players as they are of a fairly low star rating. Both difficulties focus mostly on stair-like patterns which might give you some issues playing through, but are nonetheless very rewarding to play. Give the map a spin and see what you can achieve!
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/20296.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -166,9 +166,9 @@ For real, try some of these diffs, it is definitely worth the time, this is an o
 
 Ding dong, it's that time of month again! Another first timer for Project Loved! This time around we have Shurelia, with their mapset on *Hades:The end*! Shurelia is much more known for their many maps on the regular osu! game mode and their activities as a Global Moderator, but that doesn't mean they should be written off as a mediocre osu!catch mapper (goodness, what a multitalent).
 
-This mapset contains two difficulties - one of them being made by Razor Sharp (which was also featured in 2017's osu!catch World Cup) - which are fairly similar in terms of difficulty. It is the type of map you'd expect from a Yousei Teikoku song, with many triplets which accentuate the drums, a handful of streams, and a couple of jumps. It being around 6.2+ stars, it is not the easiest of maps, but still definitely well-playable by a good chunk of the playerbase. I personally also believe that this song is/will be *Loved* by many. Yousei Teikoku rocks, eh?
+This mapset contains two difficulties - one of them being made by Razor Sharp (which was also featured in 2017's osu!catch World Cup) - that are fairly similar in terms of difficulty. It is the type of map you'd expect from a Yousei Teikoku song, with many triplets accentuating the drums, a handful of streams and a couple of jumps. Being around 6.2+ stars, it is not the easiest of maps, but still definitely well-playable by a good chunk of the playerbase. I personally also believe that this song is/will be *Loved* by many. Yousei Teikoku rocks, eh?
 
-So yeah, check it out, and perhaps vote for this to be :oved, just in case you'd meet Hades in the underworld...
+So yeah, check it out, and perhaps vote for this to be Loved, just in case you'd meet Hades in the underworld...
 
 ## osu!mania
 
@@ -182,13 +182,13 @@ osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/users/
 147 BPM, 4:07 | 3.30★\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
-*Lagtrain* has finally made its way to the Loved section! Player0 created an immediate hit with this cleverly made storyboard map, a map which soon after being uploaded soared all the way to being the #1 most favorited osu!mania chart in the Graveyard section. It's easy to see why this happened, and Player0 really deserves a lot of credit for the coherency they established between this map's storyboard, and the original music video for the song. It's because of this coherency, that the mania loved captains \*implore\* you all who play this map, to make sure that you follow the instructions at the top of the maps description, and download this map WITH the video and to also use the blank skin provided within the maps folder. This is how you would get the full experience, but with that out of the way let's talk about what Player0's done with the storyboard and the patterns.
+*Lagtrain* has finally made its way to the Loved section! Player0 created an immediate hit with this cleverly made storyboard map, a map which soon after being uploaded soared all the way to being the #1 most favorited osu!mania chart in the Graveyard section. It's easy to see why this happened, and Player0 really deserves a lot of credit for the coherency they established between this map's storyboard, and the original music video for the song. It's because of this coherency, that the mania loved captains \*implore\* you all who play this map, to make sure that you follow the instructions at the top of the map's description, and download this map WITH the video and to also use the blank skin provided within the maps folder. This is how you would get the full experience, but with that out of the way let's talk about what Player0 has done with the storyboard and the patterns.
 
-The first thing you'll notice is the monochromatic style of the skin which matches the video's aesthetics. Once the chorus hits though, the playfield will teleport about the screen, matching up with the movements of the character. Another thing to mention are the small "X's" strung through all of the main choruses. Hitting these will cause a reticle to appear, which is essentially telling you "Hey... I see you mashing there. Don't do that".
+The first thing you'll notice is the monochromatic style of the skin matching the video's aesthetics. Once the chorus hits though, the playfield will teleport about the screen, matching up with the movements of the character. Another thing to mention are the small "X's" strung through all of the main choruses. Hitting these will cause a reticle to appear, which is essentially telling you "Hey... I see you mashing there. Don't do that".
 
-I'll try to keep the rest of this overview brief since it's already getting long, and just list off a number of the other gimmicks to be found with the storyboard. The playfield multiplying, the playfield completely disappearing, changes in scroll direction, increased and decreased size in the playfield, and some small alterations to the noteskins visuals.
+I'll try to keep the rest of this overview brief since it's already getting long, and just list off a number of the other gimmicks to be found with the storyboard: The playfield multiplying, the playfield completely disappearing, changes in scroll direction, increased and decreased size in the playfield, and some small alterations to the noteskin visuals.
 
-The actual note patterns themselves are kept pretty simple, which they really should be because even with how simplistic they are you'll find all of the difficulty you need just through the map's visuals alone. Let's all thank Player0 for their constant creativity and contributions to this community by showing them just how much we love this map.
+The actual note patterns themselves are kept pretty simple, as they really should be, because even with how simplistic they are you'll find all of the difficulty you need just through the map's visuals alone. Let's all thank Player0 for their constant creativity and contributions to this community by showing them just how much we love this map.
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/881711.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -208,13 +208,13 @@ Its high difficulty has garnered this chart a large following among high level l
 160 BPM, 5:17 | 1.90★, 2.67★, 3.49★, 4.63★, 4.98★\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
-Rolling out with another very popular map for this wave, we're bringing you \_Y u r i_'s five-diff set of Camellia's *We Could Get More Machinegun Psystyle!* Uploaded in March of last year, this set hit it off pretty quickly and gained a heavy amount of traction from osu!mania's playerbase. The reasons for this are easy to see, as the whole trifecta is here. Song choice, approachable patterning, and difficulty spread all play strong factors to bringing sets such as this one into demand.
+Rolling out with another very popular map for this wave, we're bringing you \_Y u r i_'s five-diff set of *We Could Get More Machinegun Psystyle!* by Camellia. Uploaded in March of last year, this set hit it off pretty quickly and gained a heavy amount of traction from osu!mania's playerbase. The reasons for this are easy to see, as the whole trifecta is here. Song choice, approachable patterning, and difficulty spread all play strong factors to bringing sets such as this one into demand.
 
 Talking a bit about Yuri themself though, they've really found a tendency to create some \*very\* popular sets, as they have a healthy habit of including numerous difficulties with everything they make.
 
 Onto this set specifically, the 5 diffs that are here all hold appeal for different kinds of mania players. The "Easy" to "Hard" diffs are providing some slightly altered stages of layering, that are either giving some good introductory levels for newcomers, or some good accuracy fodder to the more accuracy driven crowd. Then with the "Insane" and "Machinegun Psystyle!" diffs, you will see very similar layering and transitions between the two, but with a good number of alterations on the ladder to make it more difficult in comparison. The highest difficulty takes what the Insane does, and ramps up the amount of jacks, hands, and one-handed pattern usage. Another small thing to note is that the from the Hard diff and up, a little SV is added around a quarter way through to add some flair to the break section.
 
-That about wraps this one up, the Loved team just wants to thank Yuri for their hard work in this community, and all of you for voting!
+That about wraps this one up. The Loved team just wants to thank Yuri for their hard work in this community, and all of you for voting!
 
 [![](/wiki/shared/news/2021-07-20-project-loved-july-2021/1282006.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -222,7 +222,7 @@ That about wraps this one up, the Loved team just wants to thank Yuri for their 
 179 BPM, 2:34 | 4.58★\
 *description written by [-mint-](https://osu.ppy.sh/users/8976576)*
 
-Despite already being a familiar name to many in the osu!mania community, and as a staple name in other VSRG communities, ilikexd has only started to upload onto osu! within the last year. With their resurfacing popularity among osu!mania players and mappers alike, garnering a handful of high quality Ranked maps in a short timeframe, it only feels fitting that ilikexd earns a spot in Loved voting; and what better map to debut with than *Ripcord*, an instant hit amongst a sizeable portion of the community.
+Despite already being a familiar name to many in the osu!mania community, and as a staple name in other VSRG communities, ilikexd has only started to upload onto osu! within the last year. With their resurfacing popularity among osu!mania players and mappers alike, as well as garnering a handful of high quality Ranked maps in a short timeframe, it only feels fitting that ilikexd earns a spot in Loved voting — and what better map to debut with than *Ripcord*, an instant hit amongst a sizeable portion of the community.
 
 A feels-good technical and accuracy-focused chart, *Ripcord* stands out with its refreshing-to-play bursts and jacks that make the player feel like they're in on the ride with the fast and jittery breakbeats.
 
@@ -236,7 +236,7 @@ With a straightforward high-quality map such as this, it's no surprise that it h
 
 *Bullet Waiting for Me* arrives with a clean keycount spread from 4Key to 7Key! Residing from the incredibly popular Cytus II, I think there should be many rhythm game players who are familiar with this banger of a song, and we can safely say that ATing has done it justice here. All four of the diffs are arranged to give a clean, comfortable, and similar feel to unify them together and make what's here feel like a proper, cohesive set. It's because of this that despite the varying keycounts, I feel fine speaking about this set and its patterning as a whole rather than singling out each difficulty out on its own.
 
-Overall, I will say that this set leans towards long note-biased individuals, as all of the diffs here make some use of hybrid patterning up until the main chorus, where then all of the diffs implement full LN usage. As I said before about the uniqueness of this set though, all of the diffs provide some kind of alterations in the patterning to not make everything feel samey, and it's definitely worth commending ATing for.
+Overall, I will say that this set leans towards individuals who fancy more long notes, as all of the diffs here make some use of hybrid patterning up until the main chorus, where then all of the diffs implement full LN usage. As I said before about the uniqueness of this set though, all of the diffs provide some kind of alterations in the patterning to not make everything feel samey, and it's definitely worth commending ATing for.
 
 It's not very often that you see keyspreads done in a way that makes all of the diffs feel unified and it's because of this that the Loved team really feels that this deserves a spot. Let ATing know how good of a job they've done by voting for this set!
 
@@ -256,9 +256,9 @@ It's not very often that you see keyspreads done in a way that makes all of the 
 
 Destiny19 makes their first appearance to the Loved votes with their imaginative long note map, *Goldrop*. Destiny is someone that many 7K players are aware of, as they've been putting out some quality maps for about 4 years at this point. It was a tough decision picking what chart from them we would like to see go up first, but after the deliberation we ended on *Goldrop*. This beautiful song found its way into the Loved section some years ago under Skochan's [4K map](https://osu.ppy.sh/beatmapsets/587117), however the experience that Destiny provides is very different.
 
-Starting off pretty slow, players will feel at ease with the slow and comfortable hybrid-esque patterning, but at the 40 second mark Destiny hits you with an unapologetic full inverse stair wall to let you know what's to come. Once the chorus begins, so too do the relentless release-focused LN patterns which also work in some stairs, brackets, and even reverse shields all culminating in a very difficult, but strangely comfortable experience. Rinse and repeat what I've said before until around the 3:30 second mark, where Destiny decides you're getting too comfortable, and slaps you with a full inverse bracket wall that even works in 16th snapped bursts. Although this spike only lasts about 10 seconds, it's one hell of a punch and it's definitely something that players need to watch out for when playing this.
+Starting off pretty slow, players will feel at ease with the slow and comfortable hybrid-esque patterning, but at the 40-second-mark Destiny hits you with an unapologetic full inverse stair wall to let you know what's to come. Once the chorus begins, so too do the relentless release-focused LN patterns which also work in some stairs, brackets, and even reverse shields all culminating in a very difficult, but strangely comfortable experience. Rinse and repeat what I've said before until around 3:30, where Destiny decides you're getting too comfortable, and slaps you with a full inverse bracket wall that even works in 16th snapped bursts. Although this spike only lasts about 10 seconds, it's one hell of a punch and it's definitely something that players need to watch out for when playing this.
 
-That about does it for all of what I have to say about the chart, it's just a very well-constructed and enjoyable experience, and anybody who enjoys it should definitely go and check out the other maps that Destiny has made if you haven't already. Cast your vote now!
+That about does it for all of what I have to say about the chart — it's just a very well-constructed and enjoyable experience, and anybody who enjoys it should definitely go and check out the other maps that Destiny has made if you haven't already. Cast your vote now!
 
 ---
 
