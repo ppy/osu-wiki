@@ -141,7 +141,7 @@ To safely force your beatmap database to be recreated, try the following steps:
 7. Rename it as you wish. It doesn't matter, as long as it is not called "osu!". Then press `Enter`.
 8. Relaunch osu!.
 
-*Note: since version [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19, this problem seems to become less frequent.*
+*Note: a fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please let us know at https://github.com/ppy/osu-stable-issues/issues.*
 
 ### My song list keeps scrolling!
 
