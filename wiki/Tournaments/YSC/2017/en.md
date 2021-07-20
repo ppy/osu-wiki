@@ -120,7 +120,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
   - [FujuniseikouyuuP - Make a Loser (val0108) [0108 style]](https://osu.ppy.sh/beatmapsets/287694#osu/649034)
   - [Camellia - kodama (ProfessionalBox) [Yamabiko]](https://osu.ppy.sh/beatmapsets/488016#osu/1040424)
   - [ReX - Heart of Witch (avenue) [Maleficium]](https://osu.ppy.sh/beatmapsets/389540#osu/849314)
-  - [Gem - Umiyuri Kaiteitan (Loreley) [Extreme]](https://osu.ppy.sh/beatmapsets/647452#osu/1373593)<!--TODO Missing check with doomsday-->
+  - [Gem - Umiyuri Kaiteitan (Loreley) [Extreme]](https://osu.ppy.sh/beatmapsets/647452#osu/1373593)
 - Hidden
   - [sasakure.UK - Good Bye, Mr. Jack (Xilver15) [ReMix]](https://osu.ppy.sh/beatmapsets/586425#osu/1241924)
   - [Nekomata Master - Byakuya Gentou (ignorethis) [EX]](https://osu.ppy.sh/beatmapsets/36849#osu/119375)
