@@ -115,7 +115,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 
 ### Finals
 
-- Freemod
+- FreeMod
   - [Yuuna Kamishiro - Shrill False (Hydria) \[Lunatic - 0.95x\]](https://osu.ppy.sh/beatmapsets/471708#mania/1778859)
   - [Kommisar - Turkey Turkey (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/852916#mania/1782630)
   - [LeaF - I (Tidek) \[Ego\]](https://osu.ppy.sh/beatmapsets/853523#mania/1783820)
@@ -136,7 +136,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 
 ### Semifinals
 
-- Freemod
+- FreeMod
   - [Yuuyu - endleSSStation (Frums Shuden Bootleg) (Elekton) \[last train\]](https://osu.ppy.sh/beatmapsets/653227#mania/1384837)
   - [SOUND HOLIC feat. Nana Takahashi - Wakusei\*Lollipop (Unknown\_player) \[qqq's LNoli Pop\]](https://osu.ppy.sh/beatmapsets/816149#mania/1723938)
   - [Camellia - Chirality (Abraxos) \[Kheiral point\]](https://osu.ppy.sh/beatmapsets/681311#mania/1440557)
@@ -157,7 +157,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 
 ### Quarterfinals
 
-- Freemod
+- FreeMod
   - [ANNERLEY GORDON - ON MY OWN  2006 (Sped Up Ver.) (Jole) \[0.95x\]](https://osu.ppy.sh/beatmapsets/844060#mania/1765782)
   - [Hommarju - Rock It (Mage) \[aLNother\]](https://osu.ppy.sh/beatmapsets/725793#mania/1532410)
   - [sakuraburst - dragonlands (TheToaphster) \[myth\]](https://osu.ppy.sh/beatmapsets/808881#mania/1697375)
@@ -178,7 +178,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 
 **[Download the mappack here!](https://www.dropbox.com/sh/s1taz1rtutblzbs/AACt_d06U54Qta4qKZC8zARca?dl=0 "Dropbox")**
 
-- Freemod
+- FreeMod
   - [Glome - Cynthia (With Moonlight) (Elekton) \[hyper\]](https://osu.ppy.sh/beatmapsets/716826#mania/1514659)
   - [Y..J - Ten Thousand Tons of Anonymous Letters (zero2snow) \[A message\]](https://osu.ppy.sh/beatmapsets/768928#mania/1616973)
   - [The Black Dahlia Murder - Deathmask Divine (Valedict) \[Necromance\]](https://osu.ppy.sh/beatmapsets/563020#mania/1190604)
@@ -199,7 +199,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 
 **[Download the mappack here!](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0 "Dropbox")**
 
-- Freemod
+- FreeMod
   - [Suzuki Konomi - THERE IS A REASON (Mat) \[Uc207Pr4f57t9\]](https://osu.ppy.sh/beatmapsets/778642#mania/1635364)
   - [toby fox - ASGORE (Wh1teh) \[Edit\]](https://osu.ppy.sh/beatmapsets/824051#mania/1726743)
   - [Mike Forst - I Do, What I Want (XeoStyle) \[SV\]](https://osu.ppy.sh/beatmapsets/498779#mania/1061726)

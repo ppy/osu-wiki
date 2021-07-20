@@ -203,7 +203,7 @@ The osu!mania 4K World Cup 2017 was run by various community members.
 
 **[Download the mappack here! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar "MediaFire")**
 
-- Freemod
+- FreeMod
   - [Lifetheory - Daisy (Tidek) \[Life (Insane)\]](https://osu.ppy.sh/beatmapsets/323163#mania/718401)
   - [Shawn Wasabi - Burnt Rice (855wa) \[Hard\]](https://osu.ppy.sh/beatmapsets/493347#mania/1063205)
   - [YK. - Egg Of Life (Mwila Remix) (Paradoxq13) \[MX\]](https://osu.ppy.sh/beatmapsets/330513#mania/741552)

@@ -69,7 +69,7 @@ The OUKT1 was run by various community members
 
 **[Download the mappack here! (98 MB)](https://drive.google.com/open?id=11lIJSeyRMWucvYUK_RGKCC8aX8De62gf "Google Drive")**
 
-- Nomod
+- NoMod
   - [Yousei Teikoku - Wahrheit (Saten) \[Saten\]](https://osu.ppy.sh/beatmapsets/53923#osu/164183)
   - [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/42909#osu/138008)
   - [Ryu\* - Mind Mapping (kors k mix) (wring) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/47199#osu/146583)
@@ -94,7 +94,7 @@ The OUKT1 was run by various community members
 
 **[Download the mappack here! (149 MB)](https://drive.google.com/open?id=1jqVKiYmtOHIwlLJE1JMdWX9kcvnA4oeY "Google Drive")**
 
-- Nomod
+- NoMod
   - [Celldweller - So Long Sentiment (Metal Remix) (Kei) \[Snep&Kei's Sentiment\]](https://osu.ppy.sh/beatmapsets/43415#osu/139240)
   - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (Aleks719) \[Insane\]](https://osu.ppy.sh/beatmapsets/65853#osu/192508)
   - [AU - Infinite of Nuclear Fusion (OnosakiHito) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/35211#osu/291284)
@@ -118,7 +118,7 @@ The OUKT1 was run by various community members
 
 **[Download the mappack here! (86 MB)](https://drive.google.com/open?id=1rulzK-5qWuuDHvVBPXcaFOPtUrF4sC6q "Google Drive")**
 
-- Nomod
+- NoMod
   - [Saiya - Remote Control (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/53857#osu/164020)
   - [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18009#osu/68431)
   - [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/29727#osu/98496)
@@ -142,7 +142,7 @@ The OUKT1 was run by various community members
 
 **[Download the mappack here! (114 MB)](https://drive.google.com/open?id=14X9ntsTRQMbxl7zeUPlCQc2UVYQn9PpG "Google Drive")**
 
-- Nomod
+- NoMod
   - [LeaF - Calamity Fortune (Flower) \[SCV's Lunatic\]](https://osu.ppy.sh/beatmapsets/96103#osu/261725)
   - [Jesus-P - Death Should Not Have Taken Thee! (cheesiest) \[Insane\]](https://osu.ppy.sh/beatmapsets/87119#osu/238128)
   - [guna with team kyukkyu - subconsciousness (Charles445) \[Another\]](https://osu.ppy.sh/beatmapsets/45205#osu/150892)
@@ -163,7 +163,7 @@ The OUKT1 was run by various community members
 
 ### Round of 32
 
-- Nomod
+- NoMod
   - [ONE OK ROCK - Answer is Near (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/63112#osu/186721)
   - [NicoNicoDouga - Courage to tell a lie (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/46574#osu/144935)
   - [Meiko - Leave The Lights On (KROT Remix) (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/56633#osu/171126)

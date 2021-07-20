@@ -161,7 +161,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
   - [maras k - Play Time!! (Reol) [Let's Play]](https://osu.ppy.sh/beatmapsets/345325#osu/762631)
   - [USAO - Dynamite (W h i t e) [Ultimate]](https://osu.ppy.sh/beatmapsets/621565#osu/1310581)
   - [SHO - Plain Asia \~ Guardian of the Village (Kite) [Insane]](https://osu.ppy.sh/beatmapsets/26071#osu/88176)
-- Hardrock
+- HardRock
   - [Primary - Awake (xChippy) [Goodbye]](https://osu.ppy.sh/beatmapsets/308179#osu/689290)
   - [Streetlight Manifesto - Everything Went Numb (pishifat) [Extra]](https://osu.ppy.sh/beatmapsets/414289#osu/899552)
   - [Kucchi vs Akki - Yakumo >>JOINT STRUGGLE (Muya) [Another]](https://osu.ppy.sh/beatmapsets/688877#osu/1463054)

@@ -82,7 +82,7 @@ The OUKT4 was run by various community members
 
 **[Download the mappack here! (125 MB)](https://drive.google.com/open?id=1rZ91grLCKN4Mjg1tpvgMeOl4579A_LpN "Google Drive")**
 
-- Nomod
+- NoMod
   - [DragonForce - Heroes of Our Time (Jenny) \[Legend\]](https://osu.ppy.sh/beatmapsets/90716#osu/245960)
   - [Ryu\* - Sakura Mirage (Priti) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/205022#osu/484036)
   - [DM Ashura - Classical Insanity (Louis Cyphre) \[Vivacissimo\]](https://osu.ppy.sh/beatmapsets/79149#osu/229695)
@@ -105,14 +105,14 @@ The OUKT4 was run by various community members
 - FreeMod
   - [Fear, and Loathing in Las Vegas - Rave-up Tonight (lightr) \[Extra\]](https://osu.ppy.sh/beatmapsets/176832#osu/425761)
   - [Xelia - Illumiscape (Kanna) \[Extra\]](https://osu.ppy.sh/beatmapsets/43960#osu/152127)
-- TieBreaker
+- Tiebreaker
   - **[gmtn. (witch's slave) - furioso melodia (Alumetorz) \[Wrath\]](https://osu.ppy.sh/beatmapsets/280107#osu/633993)**
 
 ### Semifinals
 
 **[Download the mappack here! (143 MB)](https://drive.google.com/open?id=1kgXkT3KZi-2pcxhF4VS9zvtWV-yl-2k2 "Google Drive")**
 
-- Nomod
+- NoMod
   - [paraoka - boot (rickyboi) \[Shoe\]](https://osu.ppy.sh/beatmapsets/50131#osu/154226)
   - [Maffalda - pensamento tipico de esquerda caviar (Blue Dragon) \[Gangsta\]](https://osu.ppy.sh/beatmapsets/175036#osu/422328)
   - [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/42909#osu/138008)
@@ -141,7 +141,7 @@ The OUKT4 was run by various community members
 
 **[Download the mappack here! (134 MB)](https://drive.google.com/open?id=1AcS2Xbrhae4BGLKcrjr9ABLZ30MHdfOR "Google Drive")**
 
-- Nomod
+- NoMod
   - [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
   - [M2U feat. Guriri - Magnolia (-kevincela-) \[AngelHoney's ExtrA\]](https://osu.ppy.sh/beatmapsets/128645#osu/367175)
   - [Fear, and Loathing in Las Vegas - Scream Hard as You Can (Guy) \[Insane\]](https://osu.ppy.sh/beatmapsets/89979#osu/255260)
@@ -168,7 +168,7 @@ The OUKT4 was run by various community members
 
 **[Download the mappack here! (151 MB)](https://drive.google.com/open?id=1DoiiznIlVjM0Q1nMuMRWCkJRtsneINv9 "Google Drive")**
 
-- Nomod
+- NoMod
   - [Caravan Palace - Dragons (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/46733#osu/145361)
   - [Meg & Dia - Monster (DotEXE Remix) (nold\_1702) \[Xtra\]](https://osu.ppy.sh/beatmapsets/157896#osu/436825)
   - [An - Xhroria (Cherry Blossom) \[Another\]](https://osu.ppy.sh/beatmapsets/82258#osu/227772)
@@ -195,7 +195,7 @@ The OUKT4 was run by various community members
 
 **[Download the mappack here! (105 MB)](https://drive.google.com/open?id=1IBUXjqV_K0xEnaZTtQfCf5U_PIs9VFti "Google Drive")**
 
-- Nomod
+- NoMod
   - [SHIKI - BABYLON (miccoliasms) \[Another\]](https://osu.ppy.sh/beatmapsets/31373#osu/103132)
   - [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/73267#osu/208776)
   - [DJ YOSHITAKA feat.A/I - CaptivAte\~Sabaki\~ (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/38074#osu/122042)
@@ -222,7 +222,7 @@ The OUKT4 was run by various community members
 
 **[Download the mappack here! (87 MB)](https://drive.google.com/open?id=1N6U2TkNlSnOvb7IFHRsyPEpNF8CYXob5 "Google Drive")**
 
-- Nomod
+- NoMod
   - [Horie Yui - True Truly Love (Thite) \[Insane\]](https://osu.ppy.sh/beatmapsets/28459#osu/95495)
   - [Lon - Yuru Fuwa Jukai Girl (phonic) \[Insane\]](https://osu.ppy.sh/beatmapsets/50462#osu/155064)
   - [IRON ATTACK! - Future is Undefined (Kite) \[Insane\]](https://osu.ppy.sh/beatmapsets/32447#osu/106156)
@@ -247,7 +247,7 @@ The OUKT4 was run by various community members
 
 **[Download the mappack here! (104 MB)](https://drive.google.com/open?id=1oq6sDapu3uvTE9ml7N7Nf8gTY5Qh4q1N "Google Drive")**
 
-- Nomod
+- NoMod
   - [Nekomata Master - Far east nightbird (kors k Remix) (jonathanlfj) \[Another\]](https://osu.ppy.sh/beatmapsets/144171#osu/358272)
   - [Chata - Harukaze Dance (maaagic) \[Insane\]](https://osu.ppy.sh/beatmapsets/94993#osu/255342)
   - [Knife Party - Fire Hive (TrigonometrY) \[Wob-Wob-Wob-Wob-WHEEEEE\]](https://osu.ppy.sh/beatmapsets/102597#osu/270980)

@@ -63,7 +63,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (264 MB)](https://drive.google.com/open?id=1Y5J4MJS7ikxjUVOfNgsOx10Qe-d8pIJY "Google Drive")**
 
-- Nomod
+- NoMod
   - [kemu - Kamisama Nejimaki (Regou) \[Mahua\]](https://osu.ppy.sh/beatmapsets/104506#osu/282470)
   - [goreshit - burn this moment into the retina of my eye (grumd) \[extra\]](https://osu.ppy.sh/beatmapsets/359890#osu/791274)
   - [Demetori - Faith is for the Transient People \~ Jehovah's YaHVeH (GoldenWolf) \[woof\]](https://osu.ppy.sh/beatmapsets/127935#osu/324249)
@@ -105,7 +105,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (183 MB)](https://drive.google.com/open?id=1dGJw6KCUIKHsRGLxLLnXuTlpz03m6dvx "Google Drive")**
 
-- Nomod
+- NoMod
   - [USAO - Miracle 5ympho X (Extended Mix) (RLC) \[5ympho XtrA\]](https://osu.ppy.sh/beatmapsets/230739#osu/536476)
   - [ESTi - HELIX (Edit ver.) (Hollow Wings) \[fanzhen's EX\]](https://osu.ppy.sh/beatmapsets/194910#osu/467821)
   - [ZUN remixed by LeaF - Resurrection Spell (Muya) \[VOLCANO\]](https://osu.ppy.sh/beatmapsets/292644#osu/658561)
@@ -137,7 +137,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (121 MB)](https://drive.google.com/open?id=1AzYSM_YSDP_RGwZUHEGIU2IMJM9mhSK9 "Google Drive")**
 
-- Nomod
+- NoMod
   - [Renard - Smoke Tower (Priti) \[Trauma\]](https://osu.ppy.sh/beatmapsets/135596#osu/339640)
   - [Kano - Six trillion years and overnight story (StarforYou) \[OverNight\]](https://osu.ppy.sh/beatmapsets/240926#osu/556638)
   - [Camellia - Kono Hoshi de.... (Snow Note) \[Another\]](https://osu.ppy.sh/beatmapsets/106693#osu/280034)
@@ -167,7 +167,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (146 MB)](https://drive.google.com/open?id=1eWmXHTWNKhI1hpiqlXV5TluK1DQOUX_o "Google Drive")**
 
-- Nomod
+- NoMod
   - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)
   - [Hiroyuki Sawano feat. Mika Kobayashi - Bios (goodbye) \[LKs' Another\]](https://osu.ppy.sh/beatmapsets/43674#osu/137766)
   - [M2U - Placebo Dying (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmapsets/60081#osu/179758)
@@ -197,7 +197,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (161 MB)](https://drive.google.com/open?id=1OahazD7ZUUlTKW1W64DXRU2Hc1dm0Zcq "Google Drive")**
 
-- Nomod
+- NoMod
   - [dj TAKA - Hollywood Galaxy (Megurine Luka) \[Extreme\]](https://osu.ppy.sh/beatmapsets/48196#osu/150116)
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (7odoa) \[Insane\]](https://osu.ppy.sh/beatmapsets/30485#osu/100627)
   - [Function Phantom - Neuronecia (Amamiya Yuko) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/186911#osu/541990)
@@ -225,7 +225,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (126 MB)](https://drive.google.com/open?id=1g6bm1niVitDXfT77lFxEfk3xJLg9bO8B "Google Drive")**
 
-- Nomod
+- NoMod
   - [Lapfox Trax feat. guilhox - Lapfoxed Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/59521#osu/178353)
   - [M2U - Nightmare (Kloyd) \[MX\]](https://osu.ppy.sh/beatmapsets/88616#osu/241431)
   - [Nanahira - Monosugoi Ikioide Keine ga Monosugoi Uta (kamisamaa) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/130092#osu/333074)
@@ -251,7 +251,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (97 MB)](https://drive.google.com/open?id=1gFGhx8ssb_HDJFLbrtnXtHyvik6smSOy "Google Drive")**
 
-- Nomod
+- NoMod
   - [Last Note. - Caramel Heaven (Snepif) \[Heaven\]](https://osu.ppy.sh/beatmapsets/90095#osu/244691)
   - [Eagle - S!ck (tsuka) \[Extra\]](https://osu.ppy.sh/beatmapsets/84014#osu/341285)
   - [DM Ashura - Classical Insanity (Louis Cyphre) \[Presto\]](https://osu.ppy.sh/beatmapsets/79149#osu/221677)
@@ -277,7 +277,7 @@ OUKT5 was run by various community members
 
 **[Download the mappack here! (98 MB)](https://drive.google.com/open?id=1XnorV8A2Osi9gc6QQbuM38rHYYPDhAUk "Google Drive")**
 
-- Nomod
+- NoMod
   - [wa. remixed celas - Crystal World \~Fracture\~ (Mr Color) \[Extra\]](https://osu.ppy.sh/beatmapsets/62962#osu/186407)
   - [BiBi - Cutie Panther (happy623) \[Insane\]](https://osu.ppy.sh/beatmapsets/152112#osu/374574)
   - [Pierce The Veil - King For A Day (feat Kellin Quinn) (Pishifat) \[Insane\]](https://osu.ppy.sh/beatmapsets/297909#osu/669570)

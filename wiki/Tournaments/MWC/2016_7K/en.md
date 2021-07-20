@@ -153,7 +153,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 
 **[Download the mappack here!](https://www.mediafire.com/download/kn50d6pa5akm9xs/MWC_7K_2016_Quarterfinals.rar "MediaFire")**
 
-- Freemod
+- FreeMod
   - [xi - Valhalla (Remillion Cross) \[Usagi's White Another\]](https://osu.ppy.sh/beatmapsets/257079#mania/593403)
   - [yuikonnu - Souzou Forest (17VA) \[Lv.34\]](https://osu.ppy.sh/beatmapsets/165716#mania/403124)
   - [SHK - Halloween Party (DarkSider2442) \[Extra\]](https://osu.ppy.sh/beatmapsets/242159#mania/572480)
@@ -175,7 +175,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 
 **[Download the mappack here!](https://www.mediafire.com/download/042busdr49rxz51/MWC_7K_2016_Round_of_16.rar "MediaFire")**
 
-- Freemod
+- FreeMod
   - [M2U - Quo Vadis (JamesHappy15) \[lZenxl's 7K SHD\]](https://osu.ppy.sh/beatmapsets/227037#mania/908806)
   - [C-SHOW - Workaholic (Agka) \[Extra\]](https://osu.ppy.sh/beatmapsets/77441#mania/217377)
   - [MiddleIsland - Achromat (iJinjin) \[Blocko's 7K Insane\]](https://osu.ppy.sh/beatmapsets/195940#mania/534336)

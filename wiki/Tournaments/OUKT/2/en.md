@@ -75,7 +75,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (133 MB)](https://drive.google.com/open?id=1cl4gKpyoCieYGamW0-EkRBsl7nH1qGr5 "Google Drive")**
 
-- Nomod
+- NoMod
   - [FOLiACETATE - Heterochromia Iridis (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/106443#osu/279607)
   - [M2U - Placebo Dying (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/60081#osu/179758)
   - [Igorrr - Unpleasant Sonata (Sieg) \[Insane\]](https://osu.ppy.sh/beatmapsets/90385#osu/245284)
@@ -103,7 +103,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (169 MB)](https://drive.google.com/open?id=11GveI2eZEhggGcm-LEh3OCbEIImz3fRE "Google Drive")**
 
-- Nomod
+- NoMod
   - [naotyu- - Her Majesty (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmapsets/52360#osu/160104)
   - [TJ.Hangneil - Kamui (7odoa) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/39017#osu/140167)
   - [Leaf - I (Maddy) \[Another\]](https://osu.ppy.sh/beatmapsets/99244#osu/264261)
@@ -131,7 +131,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (137 MB)](https://drive.google.com/open?id=12x_VzeQJqgpPiaKoL3AsMpdxhzd6sKPj "Google Drive")**
 
-- Nomod
+- NoMod
   - [IOSYS - RE:Usatei (OzzyOzrock) \[Extra\]](https://osu.ppy.sh/beatmapsets/31343#osu/103051)
   - [yukionnu - Kakushigoto (johnathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
   - [Eagle - S!ck (tsuka) \[Extra\]](https://osu.ppy.sh/beatmapsets/84014#osu/341285)
@@ -159,7 +159,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (123 MB)](https://drive.google.com/open?id=1dSi1kXLKyL31_0k9RkUSfE16IPPq9GQ1 "Google Drive")**
 
-- Nomod
+- NoMod
   - [M2U - Nightmare (Kloyd) \[MX\]](https://osu.ppy.sh/beatmapsets/88616#osu/241431)
   - [Dark PHOENiX - Last Remote - Type gamma (sjoy) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/123871#osu/320098)
   - [Jeff Williams - This Will Be the Day (feat. Casey Lee Williams) (ampzz) \[Insane\]](https://osu.ppy.sh/beatmapsets/117269#osu/302238)
@@ -185,7 +185,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (167 MB)](https://drive.google.com/open?id=1oM-xSvenWv_yxa2OdUVV4alZn9KeWskh "Google Drive")**
 
-- Nomod
+- NoMod
   - [L.E.D Vs. Yuuhei Satellite - Torikago no Houou (10nya) \[Another\]](https://osu.ppy.sh/beatmapsets/121989#osu/312282)
   - [ETIA. - Enkan No Kotowari (Rein0527) \[Another\]](https://osu.ppy.sh/beatmapsets/39889#osu/126859)
   - [Memme - NEW Astronomas (Charles445) \[Extra\]](https://osu.ppy.sh/beatmapsets/87188#osu/238265)
@@ -210,7 +210,7 @@ The OUKT2 was run by various community members
 
 **[Download the mappack here! (124 MB)](https://drive.google.com/open?id=1IYeNRVsVFiPxat4aGrHIS9-JAxt-EJTT "Google Drive")**
 
-- Nomod
+- NoMod
   - [sakuzyo - Neurotoxin (Maddy) \[Another\]](https://osu.ppy.sh/beatmapsets/41842#osu/131966)
   - [Umetora - Ifuudoudou (Nymph) \[Insane\]](https://osu.ppy.sh/beatmapsets/84023#osu/231825)
   - [Tamura Yukari feat. motsu from m.o.v.e - You & Me (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/67093#osu/210078)

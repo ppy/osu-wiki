@@ -63,7 +63,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (133 MB)](https://drive.google.com/open?id=18quJ0hTEQZClsEBU7aOvtECm9ZcquQ3l "Google Drive")**
 
-- Nomod
+- NoMod
   - [An - artcore JINJA (Flower) \[Skystar\]](https://osu.ppy.sh/beatmapsets/114987#osu/297668)
   - [daisan - -+ (RikiH\_) \[Extra\]](https://osu.ppy.sh/beatmapsets/135094#osu/338544)
   - [AU - Infinite of Nuclear Fusion (OnosakiHito) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/35211#osu/291285)
@@ -93,7 +93,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (147 MB)](https://drive.google.com/open?id=1BcbYc1EYsKpKmo0ujrS0p8-iGEu7F1R5 "Google Drive")**
 
-- Nomod
+- NoMod
   - [MYTK - Yggdrasil (P o M u T a) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/137973#osu/344715)
   - [IOSYS - Usatei 2011 (Saten) \[Ozzy's Extra\]](https://osu.ppy.sh/beatmapsets/37563#osu/130500)
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[Skystar's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/392220)
@@ -121,7 +121,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (118 MB)](https://drive.google.com/open?id=16UaYNUD2ey4059MPRd-69mdNPQbsOn18 "Google Drive")**
 
-- Nomod
+- NoMod
   - [Foreground Eclipse - I Bet You'll Forget That Even If You Noticed That (rEdo) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/146805#osu/363662)
   - [Tristam - Till it's Over (Luanny) \[Ultra Hard\]](https://osu.ppy.sh/beatmapsets/139415#osu/368933)
   - [Hatsune Miku - Marionette no Kairaku (rui) \[Uncontrollable\]](https://osu.ppy.sh/beatmapsets/43801#osu/139652)
@@ -149,7 +149,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (164 MB)](https://drive.google.com/open?id=1jwPhO7Lq586Uftj1mQnaqFJ8-H2WmnZk "Google Drive")**
 
-- Nomod
+- NoMod
   - [ginkiha - Oriens (Deif) \[Extra\]](https://osu.ppy.sh/beatmapsets/65855#osu/192515)
   - [Lon - Nijigen Dream Fever (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmapsets/94744#osu/254814)
   - [goreshit - o'er the flood (grumd) \[The Flood Beneath\]](https://osu.ppy.sh/beatmapsets/51972#osu/181253)
@@ -176,7 +176,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (92 MB)](https://drive.google.com/open?id=1jSfe4_NkuFJ_aYy9mTCrPNDG9hjbPWlv "Google Drive")**
 
-- Nomod
+- NoMod
   - [The Qemists - Dem Na Like Me (feat. Wiley) (Natteke) \[Insane Collab\]](https://osu.ppy.sh/beatmapsets/47923#osu/150898)
   - [kors k - Insane Techniques (captin1) \[Azer's Extra\]](https://osu.ppy.sh/beatmapsets/155288#osu/396761)
   - [Yuuki Aoi - Platinum (Mythol) \[Collab\]](https://osu.ppy.sh/beatmapsets/83118#osu/229676)
@@ -201,7 +201,7 @@ The OUKT3 was run by various osu! community members
 
 **[Download the mappack here! (84 MB)](https://drive.google.com/open?id=1VMBQu-MryLpUz_-dIDnzs8wEDsXIXN1Q "Google Drive")**
 
-- Nomod
+- NoMod
   - [Toyosaki Aki - Diamond (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/111760#osu/290581)
   - [Savant - Bad Baws (TicClick) \[Insane\]](https://osu.ppy.sh/beatmapsets/146512#osu/363061)
   - [3L, mariapolo - WARNING! (LunarSakuya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/92435#osu/249904)
