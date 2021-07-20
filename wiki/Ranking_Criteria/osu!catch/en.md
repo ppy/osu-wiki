@@ -113,7 +113,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Dashes that are higher-snapped must always be followed by a walk.**
 - **Edge dashes must not be used.** They require extremely precise timing which cannot be expected of less-experienced players.
 - **At least 250 ms must be left between circles/sliders and the start and end of spinners.** This is to ensure readability.
-- **Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).**
 
 #### Guidelines
 

@@ -18,7 +18,7 @@ Numerous players have held rank #1 in each game mode under different ranking sys
 
 *Main page: [osu!](osu!)*
 
-As of June 3, 2021, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ![][flag_AU] [rushia1](https://osu.ppy.sh/users/7562902/osu).
+As of July 19, 2021, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 

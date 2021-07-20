@@ -84,7 +84,7 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-10-30 | 2009-11-07 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2009-11-07 | 2009-12-07 | [\[1\]](https://imgur.com/Ozzl6En "Imgur") |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-12-07 | 2009-12-25 | [\[1\]](https://imgur.com/7B9nt8e "Imgur") |
-| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2009-12-25 | 2009-12-29 | [\[1\]](https://imgur.com/7B9nt8e "Imgur") |
+| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2009-12-25 | 2009-12-29 | [\[1\]](https://osu.ppy.sh/community/forums/topics/21622?start=276369) |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-12-29 | *2010-01-05* | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 
 ## 2010
@@ -266,7 +266,7 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | 2021-04-08 | [\[1\]](https://web.archive.org/web/20191006200709/https://osu.ppy.sh/rankings/osu/performance "Internet Archive — osu!") [\[2\]](https://ameobea.me/osutrack/user/whitecat/ "osu!track") [\[3\]](https://web.archive.org/web/20210119102542/https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/ "Internet Archive — Reddit") [\[4\]](https://web.archive.org/web/20210203170702if_/https://www.youtube.com/watch?v=Bx4R7lovF-0 "Internet Archive — YouTube") |
-| ![][flag_AU] [rushia1 (*mrekk*)](https://osu.ppy.sh/users/7562902) | 2021-04-08 | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/ "osu!track") [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/ "Reddit") [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/ "Reddit") [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE "YouTube") |
+| ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/ "osu!track") [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/ "Reddit") [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/ "Reddit") [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE "YouTube") |
 
 ## Number of reigns
 
@@ -301,10 +301,10 @@ The following is a list of the total number of times a player has reached the ra
 | ![][flag_TW] [f0012979](https://osu.ppy.sh/users/12143) | 1 |
 | ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 1 |
 | ![][flag_KR] [La Valse](https://osu.ppy.sh/users/70863) | 1 |
+| ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | 1 |
 | ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 1 |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 1 |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 1 |
-| ![][flag_AU] [rushia1](https://osu.ppy.sh/users/7562902) | 1 |
 | ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 1 |
 | ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730) | 1 |
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 1 |
