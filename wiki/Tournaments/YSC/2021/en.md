@@ -1,3 +1,9 @@
+---
+tags:
+  - YSC
+  - YSC2021
+---
+
 # Yaz's Summer Cup 2021
 
 The **Yaz's Summer Cup 2021** (***YSC 2021***) is a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It is the fourth instalment of Yaz's Summer Cup.

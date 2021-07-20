@@ -1,3 +1,9 @@
+---
+tags:
+  - YSC
+  - YSC2017
+---
+
 # Yaz's Summer Cup 2017
 
 ![YSC 2017 logo](img/logo.png)

@@ -1,3 +1,9 @@
+---
+tags:
+  - YSC
+  - YSC2019
+---
+
 # Yaz's Summer Cup 2019
 
 The **Yaz's Summer Cup 2019** (***YSC 2019***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the third instalment of Yaz's Summer Cup.
