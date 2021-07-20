@@ -17,7 +17,7 @@ The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian dou
 | Registration phase | 2019-06-10/2019-07-07 |
 | Live drawings | 2019-07-20 (19:00 UTC+7) |
 | Qualifiers | 2019-07-26/2019-07-28 |
-| Group Stage | 2019-08-02/2019-08-11 |
+| Group stage | 2019-08-02/2019-08-11 |
 | Round of 16 | 2019-08-17/2019-08-18 |
 | Quarterfinals | 2019-08-24/2019-08-25 |
 | Semifinals | 2019-08-30/2019-09-01 |

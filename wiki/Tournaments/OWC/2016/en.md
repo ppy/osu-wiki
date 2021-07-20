@@ -16,7 +16,7 @@ The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2016-10-02/2016-10-16 |
 | Live drawings | 2016-11-04 (12:00 UTC) |
-| Group Stage | 2016-11-12/2016-11-13 |
+| Group stage | 2016-11-12/2016-11-13 |
 | Round of 16 | 2016-11-19 |
 | Quarterfinals | 2016-11-26 |
 | Semifinals | 2016-12-03/2016-12-04 |
@@ -463,8 +463,8 @@ Sunday, 13 November 2016:
    | Round of 16 | A, B, C, D, E, F, G, H |
    | Quarterfinals | I, J, K, L & R, S, T, U |
    | Semifinals | M, N & V, W, X, Y, Z, AA |
-   | Finals - Week 1 | O & AB, AC, AD, AE |
-   | Finals - Week 2 | P, Q |
+   | Finals week 1 | O & AB, AC, AD, AE |
+   | Finals week 2 | P, Q |
 
 #### Winning conditions
 

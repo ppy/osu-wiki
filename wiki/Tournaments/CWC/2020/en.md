@@ -16,7 +16,7 @@ The **osu!catch World Cup 2020** (***CWC 2020***) is a country-based osu!catch t
 | --: | :-- |
 | Registration phase | 2020-04-07/2020-04-21 |
 | Live drawings | 2020-05-02 (14:00 UTC) |
-| Group Stage | 2020-05-09/2020-05-10 |
+| Group stage | 2020-05-09/2020-05-10 |
 | Round of 16 | 2020-05-16/2020-05-17 |
 | Quarterfinals | 2020-05-23/2020-05-24 |
 | Semifinals | 2020-05-30/2020-05-31 |

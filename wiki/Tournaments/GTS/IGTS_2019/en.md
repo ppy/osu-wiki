@@ -17,7 +17,7 @@ The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) was a worldwid
 | --: | :-- |
 | Registration phase | 2019-05-11/2019-05-25 |
 | Live drawings | 2019-06-02 (14:00 UTC) |
-| Group Stage | 2019-06-08/2019-06-09 |
+| Group stage | 2019-06-08/2019-06-09 |
 | Round of 16 | 2019-06-15/2019-06-22 |
 | Quarterfinals | 2019-06-22/2019-06-23 |
 | Semifinals | 2019-06-29/2019-06-30 |

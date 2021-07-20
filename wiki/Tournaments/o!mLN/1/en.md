@@ -16,7 +16,7 @@ The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination 1v1 osu!m
 | Registration phase | 2019-02-10/2019-03-03 |
 | Live drawings | 2019-03-12 (19:00 UTC) |
 | Qualifiers | 2019-03-16/2019-03-17 |
-| Group Stage | 2019-03-23/2019-03-31 |
+| Group stage | 2019-03-23/2019-03-31 |
 | Round of 16 | 2019-04-05/2019-04-07 |
 | Quarterfinals | 2019-04-13/2019-04-14 |
 | Semifinals | 2019-04-19/2019-04-21 |

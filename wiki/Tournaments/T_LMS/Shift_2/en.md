@@ -17,7 +17,7 @@ The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) was a worldwide 4v4 double-elimi
 | --: | :-- |
 | Registration phase | 2020-03-28/2020-04-18 |
 | Live drawings | 2020-04-19 (23:00 UTC) |
-| Group Stage | 2020-04-25/2020-04-26 |
+| Group stage | 2020-04-25/2020-04-26 |
 | Round of 16 | 2020-05-02/2020-05-03 |
 | Quarterfinals | 2020-05-09/2020-05-10 |
 | Semifinals | 2020-05-16/2020-05-17 |

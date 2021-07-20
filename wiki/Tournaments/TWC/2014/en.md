@@ -16,7 +16,7 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 | --: | :-- |
 | Registration phase | 2014-01-16/2014-01-26 |
 | Live drawings | 2014-02-01 (13:00 UTC) |
-| Group Stage | 2014-02-07/2014-02-09 |
+| Group stage | 2014-02-07/2014-02-09 |
 | Round of 16 | 2014-02-15/2014-02-16 |
 | Quarterfinals | 2014-02-22/2014-02-23 |
 | Semifinals | 2014-03-01/2014-03-02 |

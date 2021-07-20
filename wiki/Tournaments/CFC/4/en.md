@@ -16,7 +16,7 @@ The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tourn
 | --: | :-- |
 | Registration phase | 2019-02-24/2019-03-17 |
 | Live drawings | 2019-03-24 (20:00 UTC+1) |
-| Group Stage | 2019-03-30/2019-03-31 |
+| Group stage | 2019-03-30/2019-03-31 |
 | Quarterfinals | 2019-04-06/2019-04-07 |
 | Semifinals | 2019-04-20/2019-04-23 |
 | Finals | 2019-04-27/2019-04-28 |

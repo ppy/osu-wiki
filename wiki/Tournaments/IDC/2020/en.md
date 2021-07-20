@@ -16,7 +16,7 @@ The **Indonesian Draft Cup 2020** (***IDC 2020***) was an Indonesian double-elim
 | --: | :-- |
 | Registration phase | 2020-07-20/2020-08-10 |
 | Drafting | 2020-08-22 |
-| Group Stage | 2020-08-29/2020-09-06 |
+| Group stage | 2020-08-29/2020-09-06 |
 | Quarterfinals | 2020-09-12/2020-09-13 |
 | Semifinals | 2020-09-18/2020-09-20 |
 | Finals | 2020-09-26/2020-09-28 |

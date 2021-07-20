@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2015-07-13/2015-08-02 |
 | Live drawings | 2015-08-16 (14:00 UTC) |
-| Group Stage | 2015-08-22/2015-08-23 |
+| Group stage | 2015-08-22/2015-08-23 |
 | Round of 16 | 2015-08-30 |
 | Quarterfinals | 2015-09-05/2015-09-06 |
 | Semifinals | 2015-09-12/2015-09-13 |

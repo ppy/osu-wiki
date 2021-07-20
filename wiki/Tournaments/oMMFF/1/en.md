@@ -33,7 +33,7 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elim
 | Registration phase | 2018-11-10/2018-12-09 |
 | Live drawings | 2018-12-09 (17:00 UTC) |
 | Qualifiers | 2019-01-05/2019-01-06 |
-| Group Stage | 2019-01-12/2019-01-13 |
+| Group stage | 2019-01-12/2019-01-13 |
 | Round of 12 | 2019-01-19/2019-01-20 |
 | Semifinals | 2019-01-26/2019-01-27 |
 | Finals | 2019-02-02/2019-02-03 |

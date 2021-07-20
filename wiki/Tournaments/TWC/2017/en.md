@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2017-02-07/2017-02-19 |
 | Live drawings | 2017-03-05 (14:00 UTC) |
-| Group Stage | 2017-03-11/2017-03-12 |
+| Group stage | 2017-03-11/2017-03-12 |
 | Round of 16 | 2017-03/19 |
 | Quarterfinals | 2017-03-25/2017-03-26 |
 | Semifinals | 2017-04-01/2017-04-02 |
@@ -418,10 +418,10 @@ Sunday, 12 March 2017:
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
-   | Quarter-finals | I, J, K, L & R, S, T, U |
-   | Semi-finals | M, N & V, W, X, Y, Z, AA |
-   | Finals - Week 1 | O & AB, AC, AD, AE |
-   | Finals - Week 2 | P, Q |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z, AA |
+   | Finals week 1 | O & AB, AC, AD, AE |
+   | Finals week 2 | P, Q |
 
 7. **Winning conditions:**
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)

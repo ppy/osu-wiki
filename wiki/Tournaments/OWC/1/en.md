@@ -16,7 +16,7 @@ The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2011-01-31/2011-02-21 |
+| Registration phase | 2011-01-31/2011-02-21 |
 | Round of 32 | 2011-02-22/2011-02-28 |
 | Round of 16 | 2011-03-01/2011-03-07 |
 | Quarterfinals | 2011-03-08/2011-03-22 |

@@ -18,7 +18,7 @@ The **osu!mania 7K World Cup 2017** (***MWC 7K 2017***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2016-12-12/2016-12-25 |
 | Live drawings | 2017-01-08 (14:00 UTC) |
-| Group Stage | 2017-01-14/2017-01-15 |
+| Group stage | 2017-01-14/2017-01-15 |
 | Quarterfinals | 2017-01-21 |
 | Semifinals | 2017-01-29 |
 | Finals week 1 | 2017-02-04/2017-02-05 |

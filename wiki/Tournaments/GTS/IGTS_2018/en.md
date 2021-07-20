@@ -17,7 +17,7 @@ The **Intermediate Global Taiko Showdown 2018** (***IGTS 2018***) was a country-
 | --: | :-- |
 | Registration phase | 2018-06-30/2018-07-29 |
 | Live drawings | 2018-07-29 (13:00 UTC) |
-| Group Stage | 2018-08-04/2018-08-12 |
+| Group stage | 2018-08-04/2018-08-12 |
 | Round 1 (Lower Bracket) | 2018-08-18/2018-08-19 |
 | Quarterfinals | 2018-08-25/2018-08-26 |
 | Semifinals | 2018-09-01/2018-09-02 |

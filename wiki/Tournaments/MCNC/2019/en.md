@@ -16,12 +16,12 @@ The **osu!mania 4K Chinese National Cup 2019** (***MCNC 2019***) was a country-b
 | --: | :-- |
 | Registration phase | 2019-05-16/2019-06-01 |
 | Live drawings | 2019-06-16 20:00:00 UTC+8 |
-| Group Stage | 2019-06-19/2019-06-23 |
+| Group stage | 2019-06-19/2019-06-23 |
 | Round of 16 | 2019-06-24/2019-06-30 |
 | Quarterfinals | 2019-07-01/2019-07-07 |
 | Semifinals | 2019-07-08/2019-07-22 |
-| Finals - Week 1 | 2019-07-23/2019-07-28 |
-| Finals - Week 2 | 2019-08-04/2019-08-12 |
+| Finals week 1 | 2019-07-23/2019-07-28 |
+| Finals week 2 | 2019-08-04/2019-08-12 |
 
 ## Prizes
 

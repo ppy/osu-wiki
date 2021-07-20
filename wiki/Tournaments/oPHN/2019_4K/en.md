@@ -16,15 +16,15 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-05-04/2019-05-18 |
-| Qualifiers Showcase | 2019-05-26 (19:00 UTC+8) |
+| Registration phase | 2019-05-04/2019-05-18 |
+| Qualifiers showcase | 2019-05-26 (19:00 UTC+8) |
 | Qualifiers | 2019-06-01/2019-06-02 |
 | Playoffs | 2019-06-08/2019-06-09 |
-| Group Stage | 2019-06-15/2019-06-16 |
+| Group stage | 2019-06-15/2019-06-16 |
 | Quarterfinals | 2019-06-22/2019-06-23 |
 | Semifinals | 2019-06-29/2019-06-30 |
-| Finals Week 1 | 2019-07-06/2019-07-07 |
-| Finals Week 2 | 2019-07-13/2019-07-14 |
+| Finals week 1 | 2019-07-06/2019-07-07 |
+| Finals week 2 | 2019-07-13/2019-07-14 |
 
 ## Prizes
 

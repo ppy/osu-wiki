@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2021-02-04/2021-02-18 |
 | Live drawings | 2021-02-27 (14:00 UTC) |
-| Group Stage | 2021-03-06/2021-03-07 |
+| Group stage | 2021-03-06/2021-03-07 |
 | Round of 16 | 2021-03-13/2021-03-14 |
 | Quarterfinals | 2021-03-20/2021-03-21 |
 | Semifinals | 2021-03-27/2021-03-28 |

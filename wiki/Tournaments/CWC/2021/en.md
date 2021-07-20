@@ -16,7 +16,7 @@ The **osu!catch World Cup 2021** (***CWC 2021***) was a country-based osu!catch 
 | --: | :-- |
 | Registration phase | 2021-04-02/2021-04-15 |
 | Live drawings | 2021-04-24 (14:00 UTC) |
-| Group Stage | 2021-05-01/2021-05-02 |
+| Group stage | 2021-05-01/2021-05-02 |
 | Round of 16 | 2021-05-08/2021-05-09 |
 | Quarterfinals | 2021-05-15/2021-05-16 |
 | Semifinals | 2021-05-22/2021-05-23 |

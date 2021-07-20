@@ -17,7 +17,7 @@ The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v
 | Registration phase | 2020-10-06/2020-11-01 |
 | Screening phase | 2020-11-02/2020-11-08 |
 | Qualifiers | 2020-11-09/2020-11-15 |
-| Group Stage | 2020-11-16/2020-11-22 |
+| Group stage | 2020-11-16/2020-11-22 |
 | Quarterfinals | 2020-11-23/2020-11-29 |
 | Semifinals | 2020-11-30/2020-12-06 |
 | Finals week 1 | 2020-12-07/2020-12-13 |

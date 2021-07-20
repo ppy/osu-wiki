@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2020-07-16/2020-07-30 |
 | Live drawings | 2020-08-08 (14:00 UTC) |
-| Group Stage | 2020-08-15/2020-08-16 |
+| Group stage | 2020-08-15/2020-08-16 |
 | Round of 16 | 2020-08-22/2020-08-23 |
 | Quarterfinals | 2020-08-29/2020-08-30 |
 | Semifinals | 2020-09-05/2020-09-06 |

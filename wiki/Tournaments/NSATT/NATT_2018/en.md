@@ -15,7 +15,7 @@ The **North American Taiko Tournament 2018** (***NATT 2018***) was a double-elim
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2018-07-02/2018-07-21 |
-| Group Stage | 2018-07-28/2018-07-29 |
+| Group stage | 2018-07-28/2018-07-29 |
 | Round of 16 | 2018-08-04/2018-08-05 |
 | Quarterfinals | 2018-08-11/2018-08-12 |
 | Semifinals | 2018-08-18/2018-08-19 |

@@ -18,7 +18,7 @@ The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Interme
 | Registration phase | 2020-05-03/2020-05-24 |
 | Screening and team creations | 2020-05-24/2020-05-31 |
 | Qualifiers | 2020-06-06/2020-06-07 |
-| Group Stage | 2020-06-13/2020-06-14 |
+| Group stage | 2020-06-13/2020-06-14 |
 | Round of 16 | 2020-06-20/2020-06-21 |
 | Quarterfinals | 2020-06-27/2020-06-28 |
 | Semifinals | 2020-07-04/2020-07-05 |

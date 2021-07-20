@@ -15,9 +15,9 @@ The **Taiko World Cup 2011** (***TWC 2011***) was a country-based osu!taiko tour
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2011-03-12/2011-04-09 |
-| Group Stage week 1 | 2011-04-15/2011-04-17 |
-| Group Stage week 2 | 2011-04-22/2011-04-26 |
-| Group Stage week 3 | 2011-04-29/2011-05-01 |
+| Group stage week 1 | 2011-04-15/2011-04-17 |
+| Group stage week 2 | 2011-04-22/2011-04-26 |
+| Group stage week 3 | 2011-04-29/2011-05-01 |
 | Quarterfinals | 2011-05-07/2011-05-08 |
 | Semifinals | 2011-05-14 |
 | Finals | 2011-05-22/2011-05-29 |

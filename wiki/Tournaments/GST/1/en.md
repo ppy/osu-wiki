@@ -15,7 +15,7 @@ The **Great Singapore Tournament** (***GST***) was a Singaporean double-eliminat
 | --: | :-- |
 | Registration phase | 2019-06-01/2019-06-15 |
 | Live drawings | 2019-06-16 (01:00 UTC+8) |
-| Group Stage | 2019-06-18/2019-06-30 |
+| Group stage | 2019-06-18/2019-06-30 |
 | Round of 16 | 2019-07-05/2019-07-08 |
 | Quarterfinals | 2019-07-10/2019-07-15 |
 | Semifinals | 2019-07-16/2019-07-23 |

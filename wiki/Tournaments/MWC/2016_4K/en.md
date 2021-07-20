@@ -17,8 +17,8 @@ The **osu!mania 4K World Cup 2016** (***MWC 4K 2016***) was a country-based osu!
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2016-06-28/2016-07-17 |
-| Live Drawings | 2016-07-31 (14:00 UTC) |
-| Group Stage | 2016-08-06/2016-08-07 |
+| Live drawings | 2016-07-31 (14:00 UTC) |
+| Group stage | 2016-08-06/2016-08-07 |
 | Round of 16 | 2016-08-13 |
 | Quarterfinals | 2016-08-21 |
 | Semifinals | 2016-08-27/2016-08-28 |

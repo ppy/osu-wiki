@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2017-07-10/2017-07-23 |
 | Live drawings | 2017-08-07 (14:00 UTC) |
-| Group Stage | 2017-08-12/2017-08-13 |
+| Group stage | 2017-08-12/2017-08-13 |
 | Round of 16 | 2017-08-20 |
 | Quarterfinals | 2017-08-26/2017-08-27 |
 | Semifinals | 2017-09-02/2017-09-03 |

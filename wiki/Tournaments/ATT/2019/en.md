@@ -16,7 +16,7 @@ The **Ausu!Taiko Tournament 2019** (**ATT 2019**) was a double-elimination 1v1 o
 | --: | :-- |
 | Registration phase | 2019-06-11/2019-07-05 |
 | Reveal of seedings and groups | 2019-07-07 |
-| Group Stage | 2019-07-13/2019-07-15 |
+| Group stage | 2019-07-13/2019-07-15 |
 | Round of 16 | 2019-07-19/2019-07-21 |
 | Quarterfinals | 2019-07-27/2019-07-28 |
 | Semifinals | 2019-08-03/2019-08-04 |

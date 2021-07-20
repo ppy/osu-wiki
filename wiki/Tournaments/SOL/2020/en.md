@@ -16,8 +16,8 @@ tags:
 | --: | :-- |
 | Registration phase | 2020-10-07/2020-10-28 |
 | Qualifiers | 2020-11-14/2020-11-15 |
-| Group Stage week 1 | 2020-11-21/2020-11-22 |
-| Group Stage week 2 | 2020-11-28/2020-11-29 |
+| Group stage week 1 | 2020-11-21/2020-11-22 |
+| Group stage week 2 | 2020-11-28/2020-11-29 |
 | Round of 32 | 2020-12-04/2020-12-06 |
 | Round of 16 | 2020-12-12/2020-12-13 |
 | Quarterfinals | 2020-12-19/2020-12-20 |

@@ -16,7 +16,7 @@ The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based 
 | --: | :-- |
 | Registration phase | 2015-04-02/2015-04-19 |
 | Live drawings | 2015-05-02 (14:00 UTC) |
-| Group Stage | 2015-05-09/2015-05-10 |
+| Group stage | 2015-05-09/2015-05-10 |
 | Round of 16 | 2015-05-16 |
 | Quarterfinals | 2015-05-23/2015-05-24 |
 | Semifinals | 2015-05-30/2015-05-31 |

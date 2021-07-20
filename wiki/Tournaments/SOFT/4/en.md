@@ -18,13 +18,13 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-03-06/2019-03-22 |
+| Registration phase | 2019-03-06/2019-03-22 |
 | Qualifiers Showcase | 2019-03-31 (16:00 UTC) |
 | Qualifiers | 2019-04-06/2019-04-07 |
-| Playoffs - Week 1 | 2019-04-13/2019-04-14 |
-| Playoffs - Week 2 | 2019-04-20/2019-04-21 |
-| Group Stage - Week 1 | 2019-04-27/2019-04-28 |
-| Group Stage - Week 2 | 2019-05-04/2019-05-06 |
+| Playoffs week 1 | 2019-04-13/2019-04-14 |
+| Playoffs week 2 | 2019-04-20/2019-04-21 |
+| Group stage week 1 | 2019-04-27/2019-04-28 |
+| Group stage week 2 | 2019-05-04/2019-05-06 |
 | Round of 32 | 2019-05-11/2019-05-12 |
 | Round of 16 | 2019-05-17/2019-05-19 |
 | Quarterfinals | 2019-05-24/2019-05-26 |

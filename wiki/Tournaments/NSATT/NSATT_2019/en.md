@@ -15,7 +15,7 @@ The **North & South American Taiko Tournament 2019** (***NSATT 2019***) was a do
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2019-06-01/2019-06-25 |
-| Group Stage | 2019-06-22/2019-06-23 |
+| Group stage | 2019-06-22/2019-06-23 |
 | Round of 16 | 2019-06-29/2019-06-30 |
 | Quarterfinals | 2019-07-06/2019-07-07 |
 | Semifinals | 2019-07-13/2019-07-14 |

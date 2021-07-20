@@ -20,8 +20,8 @@ The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminina
 | Round of 16/Losers Round 1 & 2 | 2020-05-16 |
 | Quarterfinals/Losers Round 2 & 3 | 2020-05-22 |
 | Semifinals | 2020-05-30 |
-| Finals - Week 1 | 2020-06-06 |
-| Finals - Week 2 | 2020-06-23 |
+| Finals week 1 | 2020-06-06 |
+| Finals week 2 | 2020-06-23 |
 
 ## Prizes
 

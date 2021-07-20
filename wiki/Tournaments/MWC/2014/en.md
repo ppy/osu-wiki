@@ -20,8 +20,8 @@ The **osu!mania World Cup 2014** (***MWC 2014***) was a country-based osu!mania 
 | --: | :-- |
 | Registration phase | 2014-07-01/2014-07-20 |
 | Live drawings | 2014-08-02 |
-| Group Stage (4K) | 2014-08-09/2014-08-10 |
-| Group Stage (7K) | 2014-08-16/2014-08-17 |
+| Group stage (4K) | 2014-08-09/2014-08-10 |
+| Group stage (7K) | 2014-08-16/2014-08-17 |
 | Round of 16 | 2014-08-23/2014-08-24 |
 | Quarterfinals | 2014-08-31 |
 | Semifinals | 2014-09-07 |

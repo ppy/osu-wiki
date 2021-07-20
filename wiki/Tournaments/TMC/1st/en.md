@@ -16,12 +16,12 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 | Registration phase | 2020-09-14/2020-10-04 |
 | Qualifier | 2020-10-13/2020-10-18 |
 | Live drawings | 2020-10-18 (12:00 UTC) |
-| Group Stage | 2020-10-20/2020-11-01 |
+| Group stage | 2020-10-20/2020-11-01 |
 | Round of 16 | 2020-11-07/2020-11-08 |
 | Quarterfinals | 2020-11-14/2020-11-15 |
 | Semifinals | 2020-11-21/2020-11-22 |
-| Finals - Week 1 | 2020-11-28/2020-11-29 |
-| Finals - Week 2 | 2020-12-05/2020-12-06 |
+| Finals week 1 | 2020-11-28/2020-11-29 |
+| Finals week 2 | 2020-12-05/2020-12-06 |
 
 ## Prizes
 

@@ -18,7 +18,7 @@ The **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) was an advanced wo
 | Registration phase | 2019-07-07/2019-07-21 |
 | Live drawings | 2019-08-04 (15:00 UTC) |
 | Qualifiers | 2019-08-10/2019-08-11 |
-| Group Stage | 2019-08-17/2019-08-18 |
+| Group stage | 2019-08-17/2019-08-18 |
 | Quarterfinals | 2019-08-24/2019-08-25 |
 | Semifinals | 2019-08-31/2019-09-01 |
 | Finals | 2019-09-07/2019-09-08 |

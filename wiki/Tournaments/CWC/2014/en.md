@@ -16,7 +16,7 @@ The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) was a country-based 
 | --: | :-- |
 | Registration phase | 2014-04-11/2014-04-20 |
 | Live drawings | 2014-05-03 (14:00 UTC) |
-| Group Stage | 2014-05-17 |
+| Group stage | 2014-05-17 |
 | Round of 16 | 2014-05-24 |
 | Quarterfinals | 2014-06-01 |
 | Semifinals | 2014-06-08 |

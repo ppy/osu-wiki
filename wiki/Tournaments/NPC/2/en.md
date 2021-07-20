@@ -18,7 +18,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 | Player registration | 2020-04-25/2020-05-14 |
 | Screening phase | 2020-05-17/2020-05-29 |
 | Qualifiers | 2020-05-30/2020-05-31 |
-| Group Stage | 2020-06-05/2020-06-07 |
+| Group stage | 2020-06-05/2020-06-07 |
 | Round of 16 | 2020-06-12/2020-06-14 |
 | Quarterfinals | 2020-06-19/2020-06-21 |
 | Semifinals | 2020-06-26/2020-06-28 |

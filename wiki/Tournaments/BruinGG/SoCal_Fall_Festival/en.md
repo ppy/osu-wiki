@@ -20,7 +20,7 @@ In addition to the osu! tournament documented here, the SoCal Fall Festival will
 
 | Event | Timestamp (UTC-08) |
 | --: | :-- |
-| Registration | 2020-10-24 / 2020-11-07 (16:00) |
+| Registration | 2020-10-24/2020-11-07 (16:00) |
 | Swiss stage | 2020-11-07 (16:00) |
 | Round of 16 | 2020-11-07 (after swiss stage) or 2020-11-08 (16:00) |
 | Quarterfinals–Finals | 2020-11-08 (16:00) or 2020-11-08 (after Round of 16) |

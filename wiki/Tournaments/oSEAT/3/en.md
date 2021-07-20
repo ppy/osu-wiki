@@ -17,7 +17,7 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian 
 | Registration phase | 2019-10-27/2020-12-01 |
 | Live drawings | 2019-12-01 (21:00 UTC+8) |
 | Qualifiers | 2019-12-14/2019-12-15 |
-| Group Stage | 2019-12-17/2020-01-01 |
+| Group stage | 2019-12-17/2020-01-01 |
 | Round of 32 | 2020-01-02/2020-01-05 |
 | Round of 16 | 2020-01-11/2020-01-12 |
 | Quarterfinals | 2020-01-15/2020-01-20 |

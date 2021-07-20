@@ -18,7 +18,7 @@ The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2019-01-07/2019-01-19 |
 | Live drawings | 2019-02-02 14:00:00 UTC |
-| Group Stage | 2019-02-09/2019-02-10 |
+| Group stage | 2019-02-09/2019-02-10 |
 | Round of 16 | 2019-02-16/2019-02-17 |
 | Quarterfinals | 2019-02-23/2019-02-24 |
 | Semifinals | 2019-03-02/2019-03-03 |

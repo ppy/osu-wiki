@@ -17,7 +17,7 @@ The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimin
 | Registration phase | 2020-03-26/2020-04-18 |
 | Live drawings | 2020-04-18 (21:00 UTC+2) |
 | Qualifiers | 2020-04-25/2020-04-26 |
-| Group Stage | 2020-05-02/2020-05-03 |
+| Group stage | 2020-05-02/2020-05-03 |
 | Quarterfinals | 2020-05-09/2020-05-10 |
 | Semifinals | 2020-05-16/2020-05-17 |
 | Finals | 2020-05-23/2020-05-24 |

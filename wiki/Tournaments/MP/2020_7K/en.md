@@ -19,7 +19,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Registration phase | 2020-10-12/2020-10-25 |
 | Qualifiers showcase | 2020-11-01 |
 | Qualifiers | 2020-11-06/2020-11-08 |
-| Group Stage | 2020-11-14/2020-11-15 |
+| Group stage | 2020-11-14/2020-11-15 |
 | Round of 16 | 2020-11-21/2020-11-22 |
 | Quarterfinals | 2020-11-28/2020-11-29 |
 | Semifinals | 2020-12-05/2020-12-06 |

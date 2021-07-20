@@ -16,7 +16,7 @@ The **osu!catch World Cup 2018** (***CWC 2018***) was a country-based osu!catch 
 | --: | :-- |
 | Registration phase | 2018-05-02/2018-05-16 |
 | Live drawings | 2018-06-02 (14:00 UTC) |
-| Group Stage | 2018-06-09/2018-06-10 |
+| Group stage | 2018-06-09/2018-06-10 |
 | Round of 16 | 2018-06-17 |
 | Quarterfinals | 2018-06-23/2018-06-24 |
 | Semifinals | 2018-06-30/2018-07-01 |

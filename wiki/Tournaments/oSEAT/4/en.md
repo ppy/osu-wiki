@@ -17,8 +17,8 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) was a double-eliminatio
 | Registration phase | 2020-11-07/2020-11-22 |
 | Screening phase | 2020-11-23/2020-11-29 |
 | Qualifiers | 2020-11-30/2020-12-06 |
-| Group Stage week 1 | 2020-12-07/2020-12-13 |
-| Group Stage week 2 | 2020-12-14/2020-12-20 |
+| Group stage week 1 | 2020-12-07/2020-12-13 |
+| Group stage week 2 | 2020-12-14/2020-12-20 |
 | Round of 32 | 2020-12-21/2020-12-27 |
 | Round of 16 | 2020-12-28/2021-01-03 |
 | Quarterfinals | 2021-01-04/2021-01-10 |

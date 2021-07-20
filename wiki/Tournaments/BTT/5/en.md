@@ -17,7 +17,7 @@ The **Beginner's Taiko Tournament 5** (***BTT5***) was a worldwide double-elimin
 | Registration phase | 2019-12-07/2020-01-05 |
 | Live drawings | 2020-01-19 |
 | Qualifiers | 2020-01-25/2020-01-27 |
-| Group Stage | 2020-01-31/2020-02-02 |
+| Group stage | 2020-01-31/2020-02-02 |
 | Round of 32 | 2020-02-07/2020-02-09 |
 | Round of 16 | 2020-02-14/2020-02-16 |
 | Quarterfinals | 2020-02-21/2020-02-23 |

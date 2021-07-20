@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2020** (***TWC 2020***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2020-02-06/2020-02-20 |
 | Live drawings | 2020-02-29 (14:00 UTC) |
-| Group Stage | 2020-03-07/2020-03-08 |
+| Group stage | 2020-03-07/2020-03-08 |
 | Round of 16 | 2020-03-14/2020-03-15 |
 | Quarterfinals | 2020-03-21/2020-03-22 |
 | Semifinals | 2020-03-28/2020-03-29 |

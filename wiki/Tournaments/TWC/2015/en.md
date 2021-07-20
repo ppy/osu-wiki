@@ -16,7 +16,7 @@ The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based osu!taiko
 | --: | :-- |
 | Registration phase | 2015-01-12/2015-02-22 |
 | Live drawings | 2015-02-28 (14:00 UTC) |
-| Group Stage | 2015-03-07/2015-03-08 |
+| Group stage | 2015-03-07/2015-03-08 |
 | Round of 16 | 2015-03-14/2015-03-15 |
 | Quarterfinals | 2015-03-21/2015-03-22 |
 | Semifinals | 2015-03-28/2015-03-29 |

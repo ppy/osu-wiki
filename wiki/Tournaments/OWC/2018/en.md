@@ -16,7 +16,7 @@ The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2018-10-13/2018-10-26 |
 | Live drawings | 2018-11-04 (14:00 UTC) |
-| Group Stage | 2018-11-10/2018-11-11 |
+| Group stage | 2018-11-10/2018-11-11 |
 | Round of 16 | 2018-11-17/2018-11-18 |
 | Quarterfinals | 2018-11-24/2018-11-25 |
 | Semifinals | 2018-12-01/2018-12-02 |

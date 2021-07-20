@@ -17,7 +17,7 @@ The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 
 | --: | :-- |
 | Registration phase | 2019-06-05/2019-06-30 |
 | Qualifiers | 2019-07-13/2019-07-14 |
-| Group Stage | 2019-07-20/2019-07-21 |
+| Group stage | 2019-07-20/2019-07-21 |
 | Quarterfinals | 2019-07-27/2019-07-28 |
 | Semifinals | 2019-08-03/2019-08-04 |
 | Finals | 2019-08-11/2019-08-16 |

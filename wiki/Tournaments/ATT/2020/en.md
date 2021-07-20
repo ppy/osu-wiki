@@ -16,7 +16,7 @@ The **Ausu!Taiko Tournament 2020** (**ATT 2020**) was a double-elimination 1v1 o
 | --: | :-- |
 | Registration phase | 2020-04-20/2020-05-02 |
 | Reveal of seedings and groups | 2020-05-03 |
-| Group Stage | 2020-05-09/2020-05-11 |
+| Group stage | 2020-05-09/2020-05-11 |
 | Round of 16 | 2020-05-16/2020-05-17 |
 | Quarterfinals | 2020-05-23/2020-05-24 |
 | Semifinals | 2020-05-30/2020-06-01 |

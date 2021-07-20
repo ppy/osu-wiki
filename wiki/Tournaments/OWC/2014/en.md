@@ -16,7 +16,7 @@ The **osu! World Cup 2014** (***OWC 2014***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2014-10-02/2014-10-26 |
 | Live drawings | 2014-11-01 (14:00 UTC) |
-| Group Stage | 2014-11-08/2014-11-09 |
+| Group stage | 2014-11-08/2014-11-09 |
 | Round of 16 | 2014-11-16 |
 | Quarterfinals | 2014-11-22/2014-11-23 |
 | Semifinals | 2014-11-29/2014-11-30 |
@@ -468,10 +468,10 @@ Sunday, 9 November 2014:
     | Stage | Match ID |
     | :-- | :-- |
     | Round of 16 | A, B, C, D, E, F, G, H |
-    | Quarter-finals | I, J, K, L & R, S, T, U |
-    | Semi-finals | M, N & V, W, X, Y, Z, AA |
-    | Finals - Week 1 | O & AB, AC, AD, AE |
-    | Finals - Week 2 | P, Q |
+    | Quarterfinals | I, J, K, L & R, S, T, U |
+    | Semifinals | M, N & V, W, X, Y, Z, AA |
+    | Finals week 1 | O & AB, AC, AD, AE |
+    | Finals week 2 | P, Q |
 
 12. **Winning conditions:**
     - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)

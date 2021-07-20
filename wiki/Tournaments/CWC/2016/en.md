@@ -16,7 +16,7 @@ The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch 
 | --: | :-- |
 | Registration phase | 2016-04-12/2016-04-30 |
 | Live drawings | 2016-05-15 (14:00 UTC) |
-| Group Stage | 2016-05-21/2016-05-22 |
+| Group stage | 2016-05-21/2016-05-22 |
 | Round of 16 | 2016-05-28 |
 | Quarterfinals | 2016-06-05 |
 | Semifinals | 2016-06-11/2016-06-12 |
@@ -465,8 +465,8 @@ Sunday, 22 May 2016:
    | Stage | Match ID |
    | :-- | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
-   | Quarter-finals | I, J, K, L & R, S, T, U |
-   | Semi-finals | M, N & V, W, X, Y, Z,AA |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z,AA |
    | Finals | O & AB, AC, AD, AE |
    | Grand Finals | P, Q |
 

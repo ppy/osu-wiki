@@ -17,12 +17,12 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) was a worldwide country-based
 | Registration phase | 2020-01-01/2020-01-25 |
 | Live drawings | 2020-02-08 (01:00 UTC) |
 | Qualifiers | 2020-02-15/2020-02-16 |
-| Group Stage | 2020-02-22/2020-02-25 |
+| Group stage | 2020-02-22/2020-02-25 |
 | Round of 16 | 2020-02-29/2020-03-01 |
 | Quarterfinals | 2020-03-07/2020-03-08 |
 | Semifinals | 2020-03-14/2020-03-15 |
-| Finals Week 1 | 2020-03-20/2020-03-22 |
-| Finals Week 2 | 2020-03-28 |
+| Finals week 1 | 2020-03-20/2020-03-22 |
+| Finals week 2 | 2020-03-28 |
 
 ## Prizes
 

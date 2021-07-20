@@ -13,7 +13,7 @@ The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) was an Indonesian 4-p
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2013-03-15/2013-03-31 |
-| Group Stage | 2013-04-26/2013-04-28 |
+| Group stage | 2013-04-26/2013-04-28 |
 | Quarterfinals | 2013-05-03/2013-05-05 |
 | Semifinals | 2013-05-10/2013-05-12 |
 | Finals | 2013-05-18/2013-05-18 |

@@ -15,9 +15,9 @@ The **Game_Osu Tourney 3** (***GO 3***) was a [Logitech](https://www.logitech.co
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-02-16/2019-03-04 |
-| Live Drawings | 2019-03-04 (20:00 UTC) |
-| Qualifiers Stage | 2019-03-16/2019-03-17 |
+| Registration phase | 2019-02-16/2019-03-04 |
+| Live drawings | 2019-03-04 (20:00 UTC) |
+| Qualifiers stage | 2019-03-16/2019-03-17 |
 | Round of 64 | 2019-03-22/2019-03-24 |
 | Round of 32 | 2019-03-27/2019-04-01 |
 | Round of 16 | 2019-04-04/2019-04-08 |

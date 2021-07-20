@@ -16,7 +16,7 @@ The **Taiko LMS: Shift Cup** (***TLMS:SC***) was a 3-on-3, 1v1 knock-out style o
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2018-04-11/2018-06-02 (09:00 UTC) |
-| Group Stage | 2018-06-09/2018-06-10 |
+| Group stage | 2018-06-09/2018-06-10 |
 | Round of 16 | 2018-06-16/2018-06-17 |
 | Quarterfinals | 2018-06-23/2018-06-24 |
 | Semifinals | 2018-06-30/2018-07-01 |

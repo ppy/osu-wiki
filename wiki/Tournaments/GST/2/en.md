@@ -16,7 +16,7 @@ The **Great Singapore Tournament 2** (***GST2***) was a Singaporean double-elimi
 | --: | :-- |
 | Registration phase | 2019-11-09/2019-11-24 |
 | Live drawings | 2019-11-24 (23:00 UTC+8) |
-| Group Stage | 2019-11-29/2019-12-15 |
+| Group stage | 2019-11-29/2019-12-15 |
 | Round of 16 | 2019-12-18/2019-12-23 |
 | Quarterfinals | 2019-12-27/2019-12-31 |
 | Semifinals | 2020-01-04/2020-01-05 |

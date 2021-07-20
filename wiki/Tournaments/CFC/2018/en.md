@@ -15,7 +15,7 @@ The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2018-03-11/2018-04-01 |
-| Group Stage | 2018-04-07/2018-04-09 |
+| Group stage | 2018-04-07/2018-04-09 |
 | Quarterfinals | 2018-04-14/2018-04-15 |
 | Semifinals | 2018-04-21/2018-04-22 |
 | Finals | 2018-04-28/2018-04-29 |

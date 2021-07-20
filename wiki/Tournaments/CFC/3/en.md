@@ -16,7 +16,7 @@ The **Catch French Cup 3** (***CFC 3***) was a one-on-one French osu!catch tourn
 | --: | :-- |
 | Registration phase | 2018-08-15/2018-09-02 |
 | Live drawings | 2018-09-01 (19:00 UTC) |
-| Group Stage | 2018-09-08/2018-09-16 |
+| Group stage | 2018-09-08/2018-09-16 |
 | Round of 16 | 2018-09-22/2018-09-25 |
 | Quarterfinals | 2018-09-29/2018-09-30 |
 | Semifinals | 2018-10-06/2018-10-07 |

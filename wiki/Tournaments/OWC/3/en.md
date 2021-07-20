@@ -17,7 +17,7 @@ The **osu! World Cup #3** (***OWC #3***) was a country-based osu! tournament hos
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2012-10-25/2012-11-15 |
-| Group Stage | 2012-11-23/2012-12-09 |
+| Group stage | 2012-11-23/2012-12-09 |
 | Round of 16 | 2012-12-14/2012-12-16 |
 | Quarterfinals | 2013-01-04/2013-01-06 |
 | Semifinals | 2013-01-11/2013-01-13 |

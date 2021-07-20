@@ -15,7 +15,7 @@ The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-eliminatio
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-05-11/2020-05-24 |
-| Group Stage | 2020-06-02/2020-06-14 |
+| Group stage | 2020-06-02/2020-06-14 |
 | Quarterfinals | 2020-06-19/2020-06-22 |
 | Semifinals | 2020-06-26/2020-06-29 |
 | Finals | 2020-07-03/2020-07-05 |

@@ -16,7 +16,7 @@ The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination
 | --: | :-- |
 | Registration phase | 2018-01-12/2018-02-09 |
 | Live drawings | 2018-02-10 (14:00 UTC) |
-| Group Stage | 2018-02-17/2018-02-25 |
+| Group stage | 2018-02-17/2018-02-25 |
 | Round of 32 | 2018-03-03/2018-03-04 |
 | Round of 16 | 2018-03-10/2018-03-11 |
 | Quarterfinals | 2018-03-17/2018-03-18 |

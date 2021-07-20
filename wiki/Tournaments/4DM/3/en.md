@@ -19,7 +19,7 @@ The **4 Digit osu!mania World Cup 3** (***4DM3***) was a worldwide country-based
 | Team captain announcement | 2021-01-10 |
 | Participating team announcement | 2021-01-16 |
 | Qualifiers | 2021-01-23/2021-01-24 |
-| Group Stage | 2021-01-30/2021-01-31 |
+| Group stage | 2021-01-30/2021-01-31 |
 | Round of 16 | 2021-02-06/2021-01-07 |
 | Quarterfinals | 2021-02-13/2021-02-14 |
 | Semifinals | 2021-02-20/2021-02-21 |

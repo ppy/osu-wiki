@@ -18,7 +18,7 @@ The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced wo
 | Registration phase | 2020-08-16/2020-08-30 |
 | Screening and team creations | 2020-08-30/2020-09-06 |
 | Qualifiers | 2020-09-12/2020-09-13 |
-| Group Stage | 2020-09-19/2020-09-20 |
+| Group stage | 2020-09-19/2020-09-20 |
 | Round of 16 | 2020-09-26/2020-09-27 |
 | Quarterfinals | 2020-10-03/2020-10-04 |
 | Semifinals | 2020-10-10/2020-10-11 |

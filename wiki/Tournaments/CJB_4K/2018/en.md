@@ -16,12 +16,12 @@ tags:
 | Event | Timestamp |
 | --: | :-- |
 | Registration | 2018-07-02/2018-07-013 |
-| Live Drawings | 2018-07-14 (20:30 UTC+08) |
+| Live drawings | 2018-07-14 (20:30 UTC+08) |
 | Round of 16 | 2018-07-21/2018-07-22 |
 | Quarterfinals | 2018-07-28/2018-07-29 |
 | Semifinals | 2018-08-04/2018-8-05 |
-| Finals - Week 1 | 2018-08-11 |
-| Finals - Week 2 | 2018-08-13/2018-08-14 |
+| Finals week 1 | 2018-08-11 |
+| Finals week 2 | 2018-08-13/2018-08-14 |
 
 ## Prizes
 

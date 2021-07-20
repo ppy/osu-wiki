@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2019-03-15/2019-03-29 |
 | Live drawings | 2019-04-13 (14:00 UTC) |
-| Group Stage | 2019-04-20/2019-04-21 |
+| Group stage | 2019-04-20/2019-04-21 |
 | Round of 16 | 2019-04-27/2019-04-28 |
 | Quarterfinals | 2019-05-04/2019-05-05 |
 | Semifinals | 2019-05-11/2019-05-12 |

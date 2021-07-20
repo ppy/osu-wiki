@@ -23,8 +23,8 @@ The **osu!mania LN Tournament 2** (***o!mLN2***) was a worldwide double-eliminat
 | Round of 16 | 2020-07-03/2020-07-05 |
 | Quarterfinals | 2020-07-10/2020-07-12 |
 | Semifinals | 2020-07-18/2020-07-19 |
-| Finals - Week 1 | 2020-07-25/2020-07-26 |
-| Finals - Week 2 | 2020-08-01/2020-08-02 |
+| Finals week 1 | 2020-07-25/2020-07-26 |
+| Finals week 2 | 2020-08-01/2020-08-02 |
 
 ## Prizes
 

@@ -15,10 +15,10 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-10-09/2019-11-01 |
+| Registration phase | 2019-10-09/2019-11-01 |
 | Qualifiers Showcase | 2019-11-02 |
 | Qualifiers | 2019-11-09/2019-11-10 |
-| Group Stage | 2019-11-16/2019-11-17 |
+| Group stage | 2019-11-16/2019-11-17 |
 | Round of 16 | 2019-11-23/2019-11-24 |
 | Quarterfinals | 2019-11-30/2019-12-01 |
 | Semifinals | 2019-12-07/2019-12-08 |

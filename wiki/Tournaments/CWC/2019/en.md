@@ -16,7 +16,7 @@ The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch 
 | --: | :-- |
 | Registration phase | 2019-05-29/2019-06-11 |
 | Live drawings | 2019-06-22 (16:00 UTC) |
-| Group Stage | 2019-06-29/2019-06-30 |
+| Group stage | 2019-06-29/2019-06-30 |
 | Round of 16 | 2019-07-06/2019-07-07 |
 | Quarterfinals | 2019-07-13/2019-07-14 |
 | Semifinals | 2019-07-20/2019-07-21 |

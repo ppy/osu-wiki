@@ -17,14 +17,14 @@ The **osu!mania 4K Chinese National Cup 2020** (***MCNC 2020***) was a country-b
 | Registration phase | 2020-03-23/2020-04-12 |
 | Qualifying Contest | 2020-04-27/2020-04-30 |
 | Live drawings | 2020-05-01 (20:00 UTC+8) |
-| Group Stage - Week 1 | 2020-05-02/2020-05-10 |
-| Group Stage - Week 2 | 2020-05-11/2020-05-17 |
+| Group stage week 1 | 2020-05-02/2020-05-10 |
+| Group stage week 2 | 2020-05-11/2020-05-17 |
 | Round of 16 | 2020-05-18/2020-05-24 |
 | Quarterfinals | 2020-05-25/2020-05-31 |
-| Semifinals - Week 1 | 2020-06-01/2020-06-07 |
-| Semifinals - Week 2 | 2020-06-08/2020-06-14 |
-| Finals - Week 1 | 2020-06-15/2020-06-21 |
-| Finals - Week 2 | 2020-06-22/2020-06-28 |
+| Semifinals week 1 | 2020-06-01/2020-06-07 |
+| Semifinals week 2 | 2020-06-08/2020-06-14 |
+| Finals week 1 | 2020-06-15/2020-06-21 |
+| Finals week 2 | 2020-06-22/2020-06-28 |
 
 ## Prizes
 

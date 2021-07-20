@@ -18,7 +18,7 @@ The **Taiko World Cup #3** (***TWC #3***) was a country-based osu!taiko tourname
 | --: | :-- |
 | Registration phase | 2012-09-22/2013-01-01 |
 | Live drawings | 2013-01-20 |
-| Group Stage | 2013-02-02/2013-02-17 |
+| Group stage | 2013-02-02/2013-02-17 |
 | Qualifiers | 2013-02-23/2013-02-24 |
 | Round of 16 | 2013-03-02/2013-03-03 |
 | Quarterfinals | 2013-03-09/2013-03-10 |

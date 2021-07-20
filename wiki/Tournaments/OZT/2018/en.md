@@ -12,17 +12,17 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu! tournament, hosted b
 
 ## Tournament schedule
 
-| Event | Timestamp (YYYY-MM-DD) |
+| Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-04-23 / 2018-05-25 |
-| Group Drawings | 2018-05-27 |
-| Qualifiers | 2018-06-02 / 2018-06-03 |
-| Round of 32 | 2018-06-09 / 2018-06-10 |
-| Round of 16 | 2018-06-16 / 2018-06-17 |
-| Quarter-Finals | 2018-06-23 / 2018-06-24 |
-| Semi-Finals | 2018-06-30 / 2018-07-01 |
-| Finals | 2018-07-07 / 2018-07-08 |
-| Grand Finals | 2018-07-14 / 2018-07-15 |
+| Registration phase | 2018-04-23/2018-05-25 |
+| Group drawings | 2018-05-27 |
+| Qualifiers | 2018-06-02/2018-06-03 |
+| Round of 32 | 2018-06-09/2018-06-10 |
+| Round of 16 | 2018-06-16/2018-06-17 |
+| Quarterfinals | 2018-06-23/2018-06-24 |
+| Semifinals | 2018-06-30/2018-07-01 |
+| Finals | 2018-07-07/2018-07-08 |
+| Grand Finals | 2018-07-14/2018-07-15 |
 
 ## Prizes
 

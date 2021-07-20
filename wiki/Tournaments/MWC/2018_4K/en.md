@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2018** (***MWC 4K 2018***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2018-07-25/2018-08-08 |
 | Live drawings | 2018-08-25 (14:00 UTC) |
-| Group Stage | 2018-09-01/2018-09-02 |
+| Group stage | 2018-09-01/2018-09-02 |
 | Round of 16 | 2018-09-08/2018-09-09 |
 | Quarterfinals | 2018-09-15/2018-09-16 |
 | Semifinals | 2018-09-22/2018-09-23 |

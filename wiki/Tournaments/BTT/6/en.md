@@ -19,7 +19,7 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double
 | Qualifiers mappool showcase | 2021-01-31 (15:00 UTC) |
 | Qualifiers | 2021-02-06/2021-02-07 |
 | Live drawings | 2021-02-08 (18:00 UTC) |
-| Group Stage | 2021-02-12/2021-02-21 |
+| Group stage | 2021-02-12/2021-02-21 |
 | Round of 32 | 2021-02-23/2021-02-28 |
 | Round of 16 | 2021-03-06/2021-03-07 |
 | Quarterfinals | 2021-03-13/2021-03-14 |

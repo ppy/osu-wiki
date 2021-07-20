@@ -16,7 +16,7 @@ The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 o
 | --: | :-- |
 | Registration phase | 2021-03-29/2021-04-05 |
 | Reveal of seedings and groups | 2021-04-18 |
-| Group Stage | 2021-04-24/2021-04-25 |
+| Group stage | 2021-04-24/2021-04-25 |
 | Round of 16 | 2021-05-01/2021-05-02 |
 | Quarterfinals | 2021-05-08/2021-05-09 |
 | Semifinals | 2021-05-15/2021-05-16 |

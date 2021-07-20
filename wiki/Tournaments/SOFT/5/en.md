@@ -22,8 +22,8 @@ The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) was a 1v1 
 | Qualifiers | 2021-02-27/2021-02-28 |
 | Playoffs week 1 | 2021-03-06/2021-03-07 |
 | Playoffs week 2 | 2021-03-13/2021-03-14 |
-| Group Stage week 1 | 2021-03-20/2021-03-21 |
-| Group Stage week 2 | 2021-03-27/2021-03-28 |
+| Group stage week 1 | 2021-03-20/2021-03-21 |
+| Group stage week 2 | 2021-03-27/2021-03-28 |
 | Round of 32 | 2021-04-03/2021-04-04 |
 | Round of 16 | 2021-04-10/2021-04-11 |
 | Quarterfinals | 2021-04-17/2021-04-18 |

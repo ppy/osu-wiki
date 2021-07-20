@@ -17,8 +17,8 @@ The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-ba
 | Registration phase | 2021-03-01/2021-03-31 |
 | Qualifiers | 2021-04-05/2021-04-11 |
 | Live drawings | 2021-04-11 (20:00 UTC+8) |
-| Group Stage week 1 | 2021-04-12/2021-04-18 |
-| Group Stage week 2 | 2021-04-19/2021-04-25 |
+| Group stage week 1 | 2021-04-12/2021-04-18 |
+| Group stage week 2 | 2021-04-19/2021-04-25 |
 | Round of 16 | 2021-04-26/2021-05-02 |
 | Quarterfinals | 2021-05-03/2021-05-09 |
 | Semifinals week 1 | 2021-05-10/2021-05-16 |

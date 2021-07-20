@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2019** (***MWC 4K 2019***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2019-08-20/2019-09-03 |
 | Live drawings | 2019-09-14 (14:00 UTC) |
-| Group Stage | 2019-09-21/2019-09-22 |
+| Group stage | 2019-09-21/2019-09-22 |
 | Round of 16 | 2019-09-28/2019-09-29 |
 | Quarterfinals | 2019-10-05/2019-10-06 |
 | Semifinals | 2019-10-11/2019-10-13 |

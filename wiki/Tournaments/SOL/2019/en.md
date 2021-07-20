@@ -16,8 +16,8 @@ The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head, one-on
 | --: | :-- |
 | Registration phase | 2019-10-14/2019-11-06 |
 | Qualifiers | 2019-11-23/2019-11-24 |
-| Group Stage (First Week) | 2019-11-30/2019-12-01 |
-| Group Stage (Second Week) | 2019-12-07/2019-12-08 |
+| Group stage week 1 | 2019-11-30/2019-12-01 |
+| Group stage week 2 | 2019-12-07/2019-12-08 |
 | Round of 32 | 2019-12-14/2019-12-15 |
 | Round of 16 | 2019-12-21/2019-12-22 |
 | Quarterfinals | 2020-01-04/2020-01-05 |

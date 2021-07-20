@@ -16,7 +16,7 @@ The **osu! World Cup 2013** (***OWC 2013***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2013-10-15/2013-10-28 |
 | Live drawings | 2013-10-31 (16:00 UTC) |
-| Group Stage | 2013-11-08/2013-11-10 |
+| Group stage | 2013-11-08/2013-11-10 |
 | Round of 16 | 2013-11-16/2013-11-17 |
 | Quarterfinals | 2013-11-24 |
 | Semifinals | 2013-11-30 |

@@ -17,12 +17,12 @@ The **Chinese osu!mania 4K Tournament 2018** (***CMT 4K 2018***) is the third on
 | Registration | 2018-09-10/2018-09-29 |
 | Qualification Stage | 2018-10-06/2018-10-07 |
 | Drawings | 2018-10-07 (20:00 UTC+08) |
-| Group Stage | 2018-10-13/2018-10-14 |
+| Group stage | 2018-10-13/2018-10-14 |
 | Round of 16 | 2018-10-20/2018-10-21 |
 | Quarterfinals | 2018-10-27/2018-10-28 |
 | Semifinals | 2018-11-03/2018-11-04 |
-| Finals - Week 1 | 2018-11-10 |
-| Finals - Week 2 | 2018-11-18/2018-11-25 |
+| Finals week 1 | 2018-11-10 |
+| Finals week 2 | 2018-11-18/2018-11-25 |
 
 ## Prizes
 

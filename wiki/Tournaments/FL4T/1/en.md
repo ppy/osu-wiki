@@ -16,7 +16,7 @@ The **osu!mania Flashlight 4K Tournament** (***FL4T***) was a 1v1 osu!mania 4-ke
 | Registration phase | 2021-01-02/2021-01-15 |
 | Live drawings | 2021-01-31 (12:00 UTC) |
 | Qualifiers | 2021-02-06/2021-02-07 |
-| Group Stage | 2021-02-13/2021-02-14 |
+| Group stage | 2021-02-13/2021-02-14 |
 | Round of 16 | 2021-02-20/2021-02-21 |
 | Quarterfinals | 2021-02-23/2021-02-28 |
 | Semifinals | 2021-03-03/2021-03-07 |

@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2016-02-09/2016-02-28 |
 | Live drawings | 2016-03-11 (14:00 UTC) |
-| Group Stage | 2016-03-20 |
+| Group stage | 2016-03-20 |
 | Round of 16 | 2016-03-27 |
 | Quarterfinals | 2016-04-02 |
 | Semifinals | 2016-04-09/2016-04-10 |

@@ -14,14 +14,14 @@ The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specif
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-04-05/2019-04-17 |
+| Registration phase | 2019-04-05/2019-04-17 |
 | Qualification Stage | 2019-05-04/2019-05-05 |
-| Live Drawings | 2019-05-05 19:00 (UTC+8) |
-| Group Stage | 2019-05-11/2019-05-12 |
+| Live drawings | 2019-05-05 19:00 (UTC+8) |
+| Group stage | 2019-05-11/2019-05-12 |
 | Quarterfinals | 2019-05-18/2019-05-19 |
 | Semifinals | 2019-05-25/2019-05-26 |
-| Finals - Week 1 | 2019-06-01/2019-06-02 |
-| Finals - Week 2 | 2019-06-15/2019-06-16 |
+| Finals week 1 | 2019-06-01/2019-06-02 |
+| Finals week 2 | 2019-06-15/2019-06-16 |
 
 ## Prizes
 

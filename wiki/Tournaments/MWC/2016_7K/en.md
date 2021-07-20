@@ -18,7 +18,7 @@ The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2015-12-01/2015-12-20 |
 | Live drawings | 2016-01-03 (14:00 UTC) |
-| Group Stage | 2016-01-09/2016-01-10 |
+| Group stage | 2016-01-09/2016-01-10 |
 | Round of 16 | 2016-01-16 |
 | Quarterfinals | 2016-01-23 |
 | Semifinals | 2016-01-30/2016-01-31 |

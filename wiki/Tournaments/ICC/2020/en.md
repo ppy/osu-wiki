@@ -16,7 +16,7 @@ The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1
 | --: | :-- |
 | Registration phase | 2020-09-13/2020-09-23 |
 | Screening phase | 2020-09-24/2020-09-30 |
-| Group Stage | 2020-10-05/2020-10-11 |
+| Group stage | 2020-10-05/2020-10-11 |
 | Round of 16 | 2020-10-12/2020-10-18 |
 | Quarterfinals | 2020-10-19/2020-10-25 |
 | Semifinals | 2020-10-26/2020-11-01 |
