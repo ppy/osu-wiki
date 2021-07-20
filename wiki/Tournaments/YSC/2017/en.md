@@ -330,9 +330,9 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0
 
 Saturday, 30 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Vaxei** ![][flag_US] | **7** | 1 | ![][flag_US] Toy |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Vaxei** ![][flag_US] | **7** | 1 | ![][flag_US] Toy |
 
 ### Finals
 
@@ -340,34 +340,34 @@ Saturday, 30 September 2017:
 
 Sunday, 10 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Vaxei** ![][flag_US] | **6** | 0 | ![][flag_US] Toy |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Vaxei** ![][flag_US] | **6** | 0 | ![][flag_US] Toy |
 
 #### Losers Bracket Round 6
 
 Friday, 8 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Cookiezi** ![][flag_KR] | **6** | 5 | ![][flag_US] he rack |  |
-| **Azer** ![][flag_CA] | **6** | 1 | ![][flag_RO] Rohulk |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Cookiezi** ![][flag_KR] | **6** | 5 | ![][flag_US] he rack |
+| **Azer** ![][flag_CA] | **6** | 1 | ![][flag_RO] Rohulk |
 
 #### Losers Semifinals
 
 Saturday, 9 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Cookiezi** ![][flag_KR] | **6** | 1 | ![][flag_CA] Azer |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Cookiezi** ![][flag_KR] | **6** | 1 | ![][flag_CA] Azer |
 
 #### Losers Finals
 
 Saturday, 16 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Cookiezi ![][flag_KR] | 5 | **6** | ![][flag_US] **Toy** |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| Cookiezi ![][flag_KR] | 5 | **6** | ![][flag_US] **Toy** |
 
 ### Semifinals
 
@@ -375,50 +375,50 @@ Saturday, 16 September 2017:
 
 Saturday, 2 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Rohulk ![][flag_RO] | 4 | **6** | ![][flag_US] **Vaxei** |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| Rohulk ![][flag_RO] | 4 | **6** | ![][flag_US] **Vaxei** |
 
 Sunday, 3 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Toy** ![][flag_US] | **6** | 2 | ![][flag_US] he rack |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Toy** ![][flag_US] | **6** | 2 | ![][flag_US] he rack |
 
 #### Losers Bracket Round 4
 
 Saturday, 2 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Cookiezi** ![][flag_KR] | **6** | 1 | ![][flag_PL] MrBooM |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Cookiezi** ![][flag_KR] | **6** | 1 | ![][flag_PL] MrBooM |
 
 Sunday, 3 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Firstus ![][flag_DE] | 2 | **6** | ![][flag_US] **Monko2k** |  |
-| **Azer** ![][flag_CA] | **6** | 4 | ![][flag_US] fieryrage |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| Firstus ![][flag_DE] | 2 | **6** | ![][flag_US] **Monko2k** |
+| **Azer** ![][flag_CA] | **6** | 4 | ![][flag_US] fieryrage |
 
 Monday, 4 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Rucker ![][flag_TW] | 2 | **6** | ![][flag_GB] **Bubbleman** |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| Rucker ![][flag_TW] | 2 | **6** | ![][flag_GB] **Bubbleman** |
 
 #### Losers Bracket Round 5
 
 Sunday, 3 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Azer** ![][flag_CA] | **6** | 0 | ![][flag_US] Monko2k |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Azer** ![][flag_CA] | **6** | 0 | ![][flag_US] Monko2k |
 
 Tuesday, 5 September 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Cookiezi** ![][flag_KR] | **6** | 5 | ![][flag_GB] Bubbleman |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Cookiezi** ![][flag_KR] | **6** | 5 | ![][flag_GB] Bubbleman |
 
 ### Quarterfinals
 
@@ -426,35 +426,35 @@ Tuesday, 5 September 2017:
 
 Saturday, 26 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Cookiezi ![][flag_KR] | 3 | **5** | ![][flag_RO] **Rohulk** |  |
-| Rucker ![][flag_TW] | 0 | **5** | ![][flag_US] **Vaxei** |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| Cookiezi ![][flag_KR] | 3 | **5** | ![][flag_RO] **Rohulk** |
+| Rucker ![][flag_TW] | 0 | **5** | ![][flag_US] **Vaxei** |
 
 Sunday, 27 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Toy** ![][flag_US] | **5** | 1 | ![][flag_CA] Azer |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Toy** ![][flag_US] | **5** | 1 | ![][flag_CA] Azer |
 
 Monday, 28 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **he rack** ![][flag_US] | **5** | 3 | ![][flag_US] Monko2k |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **he rack** ![][flag_US] | **5** | 3 | ![][flag_US] Monko2k |
 
 #### Losers Bracket Round 2
 
 Saturday, 26 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Lunirs ![][flag_AU] | 2 | **5** | ![][flag_PL] **My Angel MrBooM** |  |
-| **MrBooM** ![][flag_PL] | **5** | 1 | ![][flag_GB] Doomsday |  |
-| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_ES] Rekens |  |
-| DigitalHypno ![][flag_US] | 3 | **5** | ![][flag_DE] **Firstus** |  |
-| imagaK ![][flag_DE] | 2 | **5** | ![][flag_US] **Apraxia** |  |
-| **fieryrage** ![][flag_US] | **5** | 3 | ![][flag_NL] Ahmnesia |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| Lunirs ![][flag_AU] | 2 | **5** | ![][flag_PL] **My Angel MrBooM** |
+| **MrBooM** ![][flag_PL] | **5** | 1 | ![][flag_GB] Doomsday |
+| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_ES] Rekens |
+| DigitalHypno ![][flag_US] | 3 | **5** | ![][flag_DE] **Firstus** |
+| imagaK ![][flag_DE] | 2 | **5** | ![][flag_US] **Apraxia** |
+| **fieryrage** ![][flag_US] | **5** | 3 | ![][flag_NL] Ahmnesia |
 
 Tuesday, 29 August 2017:
 
@@ -467,17 +467,17 @@ Tuesday, 29 August 2017:
 
 Sunday, 27 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| My Angel MrBooM ![][flag_PL] | 4 | **5** | ![][flag_DE] **Firstus** |  |
-| Apraxia ![][flag_US] | 3 | **5** | ![][flag_PL] **MrBooM** |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| My Angel MrBooM ![][flag_PL] | 4 | **5** | ![][flag_DE] **Firstus** |
+| Apraxia ![][flag_US] | 3 | **5** | ![][flag_PL] **MrBooM** |
 
 Tuesday, 29 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_LV] Emula |  |
-| **fieryrage** ![][flag_US] | **5** | 3 | ![][flag_FR] ThePooN |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_LV] Emula |
+| **fieryrage** ![][flag_US] | **5** | 3 | ![][flag_FR] ThePooN |
 
 ### Round of 16
 
@@ -485,39 +485,39 @@ Tuesday, 29 August 2017:
 
 Saturday, 19 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Helix ![][flag_GB] | 0 | **5** | ![][flag_KR] **Cookiezi** |  |
-| DigitalHypno ![][flag_US] | 1 | **5** | ![][flag_TW] **Rucker** |  |
-| **Toy** ![][flag_US] | **5** | 0 | ![][flag_PL] MrBooM |  |
-| **Rohulk** ![][flag_RO] | **5** | 4 | ![][flag_US] fieryrage |  |
-| **Monko2k** ![][flag_US] | **5** | 1 | ![][flag_GB] Bubbleman |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| Helix ![][flag_GB] | 0 | **5** | ![][flag_KR] **Cookiezi** |
+| DigitalHypno ![][flag_US] | 1 | **5** | ![][flag_TW] **Rucker** |
+| **Toy** ![][flag_US] | **5** | 0 | ![][flag_PL] MrBooM |
+| **Rohulk** ![][flag_RO] | **5** | 4 | ![][flag_US] fieryrage |
+| **Monko2k** ![][flag_US] | **5** | 1 | ![][flag_GB] Bubbleman |
 
 Sunday, 20 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Lunirs ![][flag_AU] | 0 | **5** | ![][flag_US] **Vaxei** |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| Lunirs ![][flag_AU] | 0 | **5** | ![][flag_US] **Vaxei** |
 
 Monday, 21 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Emula ![][flag_LV] | 3 | **5** | ![][flag_US] **he rack** |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| Emula ![][flag_LV] | 3 | **5** | ![][flag_US] **he rack** |
 
 Tuesday, 22 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Azer** ![][flag_CA] | **5** | 2 | ![][flag_DE] imagaK |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Azer** ![][flag_CA] | **5** | 2 | ![][flag_DE] imagaK |
 
 #### Losers Bracket Round 1
 
 Saturday, 19 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Apraxia** ![][flag_US] | **5** | 0 | ![][flag_NO] gilmat |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Apraxia** ![][flag_US] | **5** | 0 | ![][flag_NO] gilmat |
 
 Sunday, 20 August 2017:
 
@@ -535,19 +535,19 @@ Sunday, 20 August 2017:
 
 Thursday, 10 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Monko2k** ![][flag_US] | **4** | 1 | ![][flag_US] Num |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Monko2k** ![][flag_US] | **4** | 1 | ![][flag_US] Num |
 
 Saturday, 12 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Cookiezi** ![][flag_KR] | **4** | 1 | ![][flag_GR] xDarxen |  |
-| gilmat ![][flag_NO] | 1 | **4** | ![][flag_TW] **Rucker** |  |
-| Firstus  ![][flag_DE] | 2 | **4** | ![][flag_CA] **Azer** |  |
-| **he rack**  ![][flag_US] | **4** | 2 | ![][flag_NL] Ahmnesia |  |
-| Doomsday ![][flag_GB] | 3 | **4** | ![][flag_AU] **Lunirs** |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Cookiezi** ![][flag_KR] | **4** | 1 | ![][flag_GR] xDarxen |
+| gilmat ![][flag_NO] | 1 | **4** | ![][flag_TW] **Rucker** |
+| Firstus  ![][flag_DE] | 2 | **4** | ![][flag_CA] **Azer** |
+| **he rack**  ![][flag_US] | **4** | 2 | ![][flag_NL] Ahmnesia |
+| Doomsday ![][flag_GB] | 3 | **4** | ![][flag_AU] **Lunirs** |
 
 Sunday, 13 August 2017:
 
@@ -564,47 +564,47 @@ Sunday, 13 August 2017:
 
 Monday, 14 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| ThePooN ![][flag_FR] | 2 | **4** | ![][flag_GB] **Bubbleman** |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| ThePooN ![][flag_FR] | 2 | **4** | ![][flag_GB] **Bubbleman** |
 
 Tuesday, 15 August 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Vaxei** ![][flag_US] | **4** | 1 | ![][flag_US] Smoothie World |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Vaxei** ![][flag_US] | **4** | 1 | ![][flag_US] Smoothie World |
 
 ### Group stage
 
 #### Group A
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Cookiezi** ![][flag_KR] | **4** | 3 | ![][flag_NL] Ahmnesia |  |
-| respektive ![][flag_DE] | 3 | **4** | ![][flag_LT] **Painsinger** |  |
-| **Cookiezi** ![][flag_KR] | **4** | 0 | ![][flag_LT] Painsinger |  |
-| **Ahmnesia** ![][flag_NL] | **4** | 0 | ![][flag_DE] respektive |  |
-| PainSinger ![][flag_LT] | 1 | **4** | ![][flag_NL] **Ahmnesia** |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Cookiezi** ![][flag_KR] | **4** | 3 | ![][flag_NL] Ahmnesia |
+| respektive ![][flag_DE] | 3 | **4** | ![][flag_LT] **Painsinger** |
+| **Cookiezi** ![][flag_KR] | **4** | 0 | ![][flag_LT] Painsinger |
+| **Ahmnesia** ![][flag_NL] | **4** | 0 | ![][flag_DE] respektive |
+| PainSinger ![][flag_LT] | 1 | **4** | ![][flag_NL] **Ahmnesia** |
 
 #### Group B
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Rohulk** ![][flag_RO] | **4** | 1 | ![][flag_JP] _YuriNee |  |
-| **imagaK** ![][flag_DE] | **4** | 2 | ![][flag_PL] Qbadoo |  |
-| **Rohulk** ![][flag_RO] | **4** | 1 | ![][flag_DE] imagaK |  |
-| **_YuriNee** ![][flag_JP] | **4** | 2 | ![][flag_PL] Qbadoo |  |
-| **imagaK** ![][flag_DE] | **4** | 1 | ![][flag_JP] _YuriNee |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Rohulk** ![][flag_RO] | **4** | 1 | ![][flag_JP] _YuriNee |
+| **imagaK** ![][flag_DE] | **4** | 2 | ![][flag_PL] Qbadoo |
+| **Rohulk** ![][flag_RO] | **4** | 1 | ![][flag_DE] imagaK |
+| **_YuriNee** ![][flag_JP] | **4** | 2 | ![][flag_PL] Qbadoo |
+| **imagaK** ![][flag_DE] | **4** | 1 | ![][flag_JP] _YuriNee |
 
 #### Group C
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Vaxei** ![][flag_US] | **4** | 1 | ![][flag_US] Exarch |  |
-| **MrBooM** ![][flag_PL] | **4** | 0 | ![][flag_SE] Ketchup |  |
-| **Vaxei** ![][flag_US] | **4** | 2 | ![][flag_PL] MrBooM |  |
-| **Exarch** ![][flag_US] | **4** | 2 | ![][flag_SE] Ketchup |  |
-| **MrBooM** ![][flag_PL] | **4** | 1 | ![][flag_US] Exarch |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Vaxei** ![][flag_US] | **4** | 1 | ![][flag_US] Exarch |
+| **MrBooM** ![][flag_PL] | **4** | 0 | ![][flag_SE] Ketchup |
+| **Vaxei** ![][flag_US] | **4** | 2 | ![][flag_PL] MrBooM |
+| **Exarch** ![][flag_US] | **4** | 2 | ![][flag_SE] Ketchup |
+| **MrBooM** ![][flag_PL] | **4** | 1 | ![][flag_US] Exarch |
 
 #### Group D
 
@@ -668,13 +668,13 @@ Tuesday, 15 August 2017:
 
 #### Group J
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **My Angel MrBooM** ![][flag_PL] | **4** | 2 | ![][flag_DE] [ Nano ] |  |
-| **waywern2012** ![][flag_LV] | **4** | 0 | ![][flag_PL] Klocuch12 |  |
-| **My Angel MrBooM** ![][flag_PL] | **4** | 1 | ![][flag_LV] waywern2012 |  |
-| **[ Nano ]** ![][flag_DE] | **4** | 1 | ![][flag_PL] Klocuch12 |  |
-| waywern2012 ![][flag_LV] | 0 | **4** | ![][flag_DE] **[ Nano ]** |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **My Angel MrBooM** ![][flag_PL] | **4** | 2 | ![][flag_DE] [ Nano ] |
+| **waywern2012** ![][flag_LV] | **4** | 0 | ![][flag_PL] Klocuch12 |
+| **My Angel MrBooM** ![][flag_PL] | **4** | 1 | ![][flag_LV] waywern2012 |
+| **[ Nano ]** ![][flag_DE] | **4** | 1 | ![][flag_PL] Klocuch12 |
+| waywern2012 ![][flag_LV] | 0 | **4** | ![][flag_DE] **[ Nano ]** |
 
 #### Group K
 
@@ -728,22 +728,22 @@ Tuesday, 15 August 2017:
 
 #### Group P
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| KupcaH ![][flag_EG] | 0 | **4** | ![][flag_GB] **helix** |  |
-| TopSp1n ![][flag_GB] | 0 | **4** | ![][flag_ES] **Betwin** |  |
-| helix ![][flag_GB] | 3 | **4** | ![][flag_ES] **Betwin** |  |
-| KupcaH ![][flag_EG] | 1 | **4** | ![][flag_GB] **TopSp1n** |  |
-| **helix** ![][flag_GB] | **4** | 2 | ![][flag_GB] TopSp1n |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| KupcaH ![][flag_EG] | 0 | **4** | ![][flag_GB] **helix** |
+| TopSp1n ![][flag_GB] | 0 | **4** | ![][flag_ES] **Betwin** |
+| helix ![][flag_GB] | 3 | **4** | ![][flag_ES] **Betwin** |
+| KupcaH ![][flag_EG] | 1 | **4** | ![][flag_GB] **TopSp1n** |
+| **helix** ![][flag_GB] | **4** | 2 | ![][flag_GB] TopSp1n |
 
 ### Round of 128
 
 Friday, 21 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Num** ![][flag_US] | **3** | 1 | ![][flag_AU] Noobsicle |  |
-| **Jensen** ![][flag_US] | **3** | 0 | ![][flag_DE] Hieu Bot |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Num** ![][flag_US] | **3** | 1 | ![][flag_AU] Noobsicle |
+| **Jensen** ![][flag_US] | **3** | 0 | ![][flag_DE] Hieu Bot |
 
 Saturday, 22 July 2017:
 
@@ -809,25 +809,25 @@ Sunday, 23 July 2017:
 
 Monday, 24 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **My Angel MrBooM** ![][flag_PL] | **3** | 0 | ![][flag_SG] phox |  |
-| Jace ![][flag_US] | 1 | **3** | ![][flag_NL] **Timpai** |  |
-| **Malolat** ![][flag_PL] | **3** | 2 | ![][flag_US] -Lolisim- |  |
-| **Klocuch12** ![][flag_PL] | **3** | 1 | ![][flag_SE] Kungen |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **My Angel MrBooM** ![][flag_PL] | **3** | 0 | ![][flag_SG] phox |
+| Jace ![][flag_US] | 1 | **3** | ![][flag_NL] **Timpai** |
+| **Malolat** ![][flag_PL] | **3** | 2 | ![][flag_US] -Lolisim- |
+| **Klocuch12** ![][flag_PL] | **3** | 1 | ![][flag_SE] Kungen |
 
 Tuesday, 25 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **fieryrage** ![][flag_US] | **3** | 0 | ![][flag_GB] Bae- |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **fieryrage** ![][flag_US] | **3** | 0 | ![][flag_GB] Bae- |
 
 Wednesday, 26 July 2017:
 
-| Player 1 | | | Player 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **Electovoid** ![][flag_GB] | **3** | 0 | ![][flag_SI] Hranolka |  |
-| **Monko2k** ![][flag_US] | **3** | 0 | ![][flag_GB] SteffoST |  |
+| Player 1 | | | Player 2 |
+| --: | :-: | :-: | :-- |
+| **Electovoid** ![][flag_GB] | **3** | 0 | ![][flag_SI] Hranolka |
+| **Monko2k** ![][flag_US] | **3** | 0 | ![][flag_GB] SteffoST |
 
 Thursday, 27 July 2017:
 
