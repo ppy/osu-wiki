@@ -37,10 +37,10 @@ The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-e
 
 OSIM was run by various osu! community members predominantly hailing from Singapore, Indonesia, and Malaysia.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
-| Map selector | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) |
+| Mappool selector | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) |
 | Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | Commentator | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | Referee | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |

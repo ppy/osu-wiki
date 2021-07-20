@@ -35,7 +35,7 @@ The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. 
 
 The TAG2 Tournament 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | --: | :-- |
 | Host | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178) |
 | Co-host | ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |

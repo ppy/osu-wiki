@@ -38,7 +38,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Map selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
+| Mappool selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
 | Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_MA] [clorox\_1g](https://osu.ppy.sh/users/9702728) |
 | Commentator | ![][flag_US] [Badge When](https://osu.ppy.sh/users/9378089), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_DE] [-Haruki](https://osu.ppy.sh/users/3673149), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
 | Statistician | ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |

@@ -37,7 +37,7 @@ The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch 
 
 The osu!catch World Cup 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |

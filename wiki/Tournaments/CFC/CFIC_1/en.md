@@ -36,7 +36,7 @@ The Catch French Intermediate Cup was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263) |
-| Map selector | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Mappool selector | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
 | Referee | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734) |
 | Streamer | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Commentator | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |

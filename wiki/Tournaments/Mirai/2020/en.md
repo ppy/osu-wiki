@@ -37,7 +37,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344) |
-| Map selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_GB] [NoSpace](https://osu.ppy.sh/users/10585285), ![][flag_GB] [SacretSword](https://osu.ppy.sh/users/9821402), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592), ![][flag_SG] [Zephyrlox](https://osu.ppy.sh/users/6436945) |
+| Mappool selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_GB] [NoSpace](https://osu.ppy.sh/users/10585285), ![][flag_GB] [SacretSword](https://osu.ppy.sh/users/9821402), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592), ![][flag_SG] [Zephyrlox](https://osu.ppy.sh/users/6436945) |
 | Streamer | ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) |
 | Commentator | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592) |
 | Designer | ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) |

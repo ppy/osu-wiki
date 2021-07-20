@@ -40,7 +40,7 @@ The Taiko LMS: Shift Cup was run by various osu!taiko community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
-| Map selector | ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
+| Mappool selector | ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Referee | ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_SE] [Eiuh](https://osu.ppy.sh/users/4653213), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008) |
 | Streamer | ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120) |
 | Commentator | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |

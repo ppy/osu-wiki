@@ -36,7 +36,7 @@ The **osu! World Cup 2017** (***OWC 2017***) was a country-based osu! tournament
 
 The osu! World Cup 2017 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |

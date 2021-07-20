@@ -43,8 +43,8 @@ The osu!mania LN Tournament 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map selector | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
-| Map tester | ![][flag_CL] [1110113x](https://osu.ppy.sh/users/10072733), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
+| Mappool selector | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
+| Mappool tester | ![][flag_CL] [1110113x](https://osu.ppy.sh/users/10072733), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
 | Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_TH] [CrownBlazing](https://osu.ppy.sh/users/7808720), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Streamer | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
 | Commentator | ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_TH] [CrownBlazing](https://osu.ppy.sh/users/7808720), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118) |

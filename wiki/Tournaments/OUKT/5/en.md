@@ -33,12 +33,12 @@ OUKT5 was run by various community members
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Draw Master | ![][flag_GB] [Mollerz](https://osu.ppy.sh/users/1820042) |
-| Referees | ![][flag_BE] [Ascension](https://osu.ppy.sh/users/9511483), ![][flag_GB] [Lemonosity](https://osu.ppy.sh/users/5668221), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_SG] [Histoire](https://osu.ppy.sh/users/3801463), ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [yamikarasu](https://osu.ppy.sh/users/4422446), ![][flag_DE] [Cray](https://osu.ppy.sh/users/1350338), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
+| Draw master | ![][flag_GB] [Mollerz](https://osu.ppy.sh/users/1820042) |
+| Referee | ![][flag_BE] [Ascension](https://osu.ppy.sh/users/9511483), ![][flag_GB] [Lemonosity](https://osu.ppy.sh/users/5668221), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_SG] [Histoire](https://osu.ppy.sh/users/3801463), ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [yamikarasu](https://osu.ppy.sh/users/4422446), ![][flag_DE] [Cray](https://osu.ppy.sh/users/1350338), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
 | Streamer | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Helix](https://osu.ppy.sh/users/3322597) |
-| Map Selectors | ![][flag_AT] [Alumetorz](https://osu.ppy.sh/users/1145984), ![][flag_DE] [Jenny](https://osu.ppy.sh/users/579428) |
+| Mappool selector | ![][flag_AT] [Alumetorz](https://osu.ppy.sh/users/1145984), ![][flag_DE] [Jenny](https://osu.ppy.sh/users/579428) |
 | Commentators | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Soap755](https://osu.ppy.sh/users/4867721), ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115) |
-| Backup Help | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) |
+| Backup help | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) |
 
 ## Links
 

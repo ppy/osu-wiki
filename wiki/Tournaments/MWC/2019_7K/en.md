@@ -39,7 +39,7 @@ The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!
 
 The osu!mania 7K World Cup 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |

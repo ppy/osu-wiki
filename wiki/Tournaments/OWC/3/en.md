@@ -37,7 +37,7 @@ The **osu! World Cup #3** (***OWC #3***) was a country-based osu! tournament hos
 
 The osu! World Cup #3 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
 | Mappool selector | ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401), ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477) |

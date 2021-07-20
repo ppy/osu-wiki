@@ -37,7 +37,7 @@ The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko 
 
 The osu!taiko World Cup 2018 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |

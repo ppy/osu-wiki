@@ -37,7 +37,7 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Position | Member(s) |
 | :-- | :-- |
-| Map selector | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [slushy](https://osu.ppy.sh/users/3692940), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
+| Mappool selector | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [slushy](https://osu.ppy.sh/users/3692940), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 | Streamer | ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
 | Commentator | ![][flag___] Matthew<!-- TODO what is his osu profile -->, ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [ruruchewy](https://osu.ppy.sh/users/7112839), ![][flag_US] [Sukida](https://osu.ppy.sh/users/4097867), ![][flag_US] [Yattaze](https://osu.ppy.sh/users/13870255) |
 | Referee | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [PingusKhan](https://osu.ppy.sh/users/9648050), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |

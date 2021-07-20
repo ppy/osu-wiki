@@ -41,7 +41,7 @@ There was a $1,900 cash prize pool with extra money being added by buying suppor
 
 The osu!mania 4K World Cup 2016 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |

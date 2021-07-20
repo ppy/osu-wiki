@@ -32,10 +32,10 @@ The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1
 
 The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Staff | ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508), ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [awell](https://osu.ppy.sh/users/341298), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925), ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) |
-| Map selector | ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925) |
+| Mappool selector | ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925) |
 | Sponsor | ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925), ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508) |
 
 ## Links

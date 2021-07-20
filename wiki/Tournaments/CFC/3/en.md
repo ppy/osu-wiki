@@ -41,7 +41,7 @@ The Catch French Cup 3 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map selector | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
+| Mappool selector | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
 | Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734) |
 | Streamer | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Commentator | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/138728) |

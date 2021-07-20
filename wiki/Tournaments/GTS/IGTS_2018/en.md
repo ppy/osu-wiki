@@ -36,10 +36,10 @@ The **Intermediate Global Taiko Showdown 2018** (***IGTS 2018***) was a country-
 
 The Intermediate Global Taiko Showdown 2018 was run by various osu!taiko community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map selector | ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_ID] [Poii](https://osu.ppy.sh/users/7924938) |
+| Mappool selector | ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_ID] [Poii](https://osu.ppy.sh/users/7924938) |
 | Referee | ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_RU] [-\_-Nico-\_-](https://osu.ppy.sh/users/9689534), ![][flag_JP] [Noko_BSF](https://osu.ppy.sh/users/3811831), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) |
 | Commentator | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_AR] [BossPlays\_02](https://osu.ppy.sh/users/7341471), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120) |

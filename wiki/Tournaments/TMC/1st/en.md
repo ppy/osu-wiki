@@ -37,7 +37,7 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 | :-- | :-- |
 | Host | ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501) |
 | Co-host | ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_GB] [Zestiri9](https://osu.ppy.sh/users/13338645) |
-| Map selector | ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501), ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_GB] [Zestiri9](https://osu.ppy.sh/users/13338645), ![][flag_CN] [YuEast 2018](https://osu.ppy.sh/users/13953619) |
+| Mappool selector | ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501), ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_GB] [Zestiri9](https://osu.ppy.sh/users/13338645), ![][flag_CN] [YuEast 2018](https://osu.ppy.sh/users/13953619) |
 | Streamer & Referee | ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741), ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501), ![][flag_CN] [Tigerest](https://osu.ppy.sh/users/10896564) |
 | Commentator | ![][flag_GB] [Zestiri9](https://osu.ppy.sh/users/13338645), ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_CN] [ImmortalphoeniX](https://osu.ppy.sh/users/7080633), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_CN] [Tigerest](https://osu.ppy.sh/users/10896564) |
 | Designer | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) |

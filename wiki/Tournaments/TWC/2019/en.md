@@ -37,7 +37,7 @@ The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko 
 
 The osu!taiko World Cup 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |

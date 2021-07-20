@@ -37,7 +37,7 @@ The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament
 
 The osu! World Cup 2018 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943) |

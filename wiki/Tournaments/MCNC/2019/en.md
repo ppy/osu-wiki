@@ -35,10 +35,10 @@ The **osu!mania 4K Chinese National Cup 2019** (***MCNC 2019***) was a country-b
 
 The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083) |
-| Map selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_BR] [Sillyfangirl](https://osu.ppy.sh/users/2288363), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) |
+| Mappool selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_BR] [Sillyfangirl](https://osu.ppy.sh/users/2288363), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) |
 | Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951), ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156) |
 | Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951) |
 | Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681), ![][flag_CN] [fazioli txt](https://osu.ppy.sh/users/9598315), ![][flag_CN] [-Se Tsu Nya-](https://osu.ppy.sh/users/6073139) |

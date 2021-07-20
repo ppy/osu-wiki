@@ -38,9 +38,9 @@ The OUKT2 was run by various community members
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Map Selectors | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599), ![][flag_PL] [AmaiHachimitsu](https://osu.ppy.sh/users/844815) |
-| Referees | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
-| Streamers | ![][flag_GB] [Deathosaurus](https://osu.ppy.sh/users/1825822) |
+| Mappool selector | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599), ![][flag_PL] [AmaiHachimitsu](https://osu.ppy.sh/users/844815) |
+| Referee | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
+| Streamer | ![][flag_GB] [Deathosaurus](https://osu.ppy.sh/users/1825822) |
 
 ## Links
 

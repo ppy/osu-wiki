@@ -38,7 +38,7 @@ The Catch French Intermediate Cup 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map selector | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Mappool selector | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
 | Referee | ![][flag_FR] [Apsuko](https://osu.ppy.sh/users/9313135), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Streamer | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
 | Commentator | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |

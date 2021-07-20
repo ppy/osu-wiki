@@ -39,7 +39,7 @@ The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!
 
 The osu!mania 7K World Cup 2018 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |

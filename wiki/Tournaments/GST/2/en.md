@@ -42,8 +42,8 @@ The Great Singapore Tournament 2 was run by various community members.
 | :-- | :-- |
 | Organiser | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Administrator | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
-| Map selector | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
-| Map tester | ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211) |
+| Mappool selector | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
+| Mappool tester | ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211) |
 | Referee | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_TW] [Saisu Riku](https://osu.ppy.sh/users/9834516), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_KR] [Nopekjk](https://osu.ppy.sh/users/4585186), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_PL] [zibi](https://osu.ppy.sh/users/11301620) |
 | Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Commentator | ![][flag_MY] [FaithInOsu](https://osu.ppy.sh/users/10178187), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320), ![][flag_SG] [Wolpis](https://osu.ppy.sh/users/8497340), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |

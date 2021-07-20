@@ -40,7 +40,7 @@ The osu! World Cup 2020 offered a $5,000 cash prize pool and limited edition mer
 
 The osu! World Cup 2020 was run by the osu!team and various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) |

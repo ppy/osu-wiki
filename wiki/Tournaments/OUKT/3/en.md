@@ -30,11 +30,11 @@ The OUKT3 was run by various osu! community members
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Mappool selectors | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883), ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) |
+| Mappool selector | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883), ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) |
 | Referee | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Udon](https://osu.ppy.sh/users/2232928) |
 | Streamer | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) |
-| Graphic Designer | ![][flag_GB] [Toonzz](https://osu.ppy.sh/users/2295917) |
-| The Draw Master | ![][flag_GB] [Mollerz](https://osu.ppy.sh/users/1820042) |
+| Graphic designer | ![][flag_GB] [Toonzz](https://osu.ppy.sh/users/2295917) |
+| The draw master | ![][flag_GB] [Mollerz](https://osu.ppy.sh/users/1820042) |
 
 ## Links
 

@@ -50,7 +50,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Map Selector | ![][flag_IE] [[KoKo]](https://osu.ppy.sh/users/5322953), ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
+| Mappool selector | ![][flag_IE] [[KoKo]](https://osu.ppy.sh/users/5322953), ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 | Streamer | ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
 | Commentator | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 | Designer | ![][flag___] Skydendrin ([Carrd profile](https://skydendrin.carrd.co "Carrd")) |

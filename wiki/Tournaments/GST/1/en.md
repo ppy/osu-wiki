@@ -38,7 +38,7 @@ The Great Singapore Tournament was run by various community members.
 | :-- | :-- |
 | Organiser | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Administrator | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
-| Map selector | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
+| Mappool selector | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Referee | ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_KR] [Nopekjk](https://osu.ppy.sh/users/4585186), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_DK] [Plaiceholder](https://osu.ppy.sh/users/11910867), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553), ![][flag_US] [spaghetti cat](https://osu.ppy.sh/users/8457202), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Commentator | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |

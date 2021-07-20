@@ -33,15 +33,15 @@ The OUKT4 was run by various community members
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137) |
-| Co-Host | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Map Selectors | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_US] [Meltdown](https://osu.ppy.sh/users/3442100), ![][flag_NZ] [Kuki](https://osu.ppy.sh/users/3518735), ![][flag_DE] [cptnXn](https://osu.ppy.sh/users/495272) |
-| Referees | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Pazo](https://osu.ppy.sh/users/2232928) |
-| Streamers | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [SgtSitdown](https://osu.ppy.sh/users/3611886) |
-| Commentators | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Kardet](https://osu.ppy.sh/users/1438509), ![][flag_GB] [vidya](https://osu.ppy.sh/users/413305), ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Statistics | ![][flag_GB] [Chassit](https://osu.ppy.sh/users/3799313) |
-| Graphics Designer | ![][flag_FI] [Static Noise Bird](https://osu.ppy.sh/users/826132) |
-| Video Editor | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137) |
-| Backup Help | ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), LordVenomania <!-- missing --> |
+| Co-host | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
+| Mappool selector | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_US] [Meltdown](https://osu.ppy.sh/users/3442100), ![][flag_NZ] [Kuki](https://osu.ppy.sh/users/3518735), ![][flag_DE] [cptnXn](https://osu.ppy.sh/users/495272) |
+| Referee | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Pazo](https://osu.ppy.sh/users/2232928) |
+| Streamer | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [SgtSitdown](https://osu.ppy.sh/users/3611886) |
+| Commentator | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Kardet](https://osu.ppy.sh/users/1438509), ![][flag_GB] [vidya](https://osu.ppy.sh/users/413305), ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
+| Statistician | ![][flag_GB] [Chassit](https://osu.ppy.sh/users/3799313) |
+| Graphics designer | ![][flag_FI] [Static Noise Bird](https://osu.ppy.sh/users/826132) |
+| Video editor | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137) |
+| Backup help | ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), LordVenomania <!-- missing --> |
 
 ## Links
 

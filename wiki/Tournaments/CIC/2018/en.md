@@ -34,7 +34,7 @@ The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) was a 1v1 Indonesian 
 
 The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
 | Mappool selector | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |

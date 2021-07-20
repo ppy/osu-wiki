@@ -36,7 +36,7 @@ The **osu! Catch the Beat World Cup 2013** (***CWC 2013***) was a country-based 
 
 The osu! Catch the Beat World Cup 2013 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676), ![][flag_PH] [Seph](https://osu.ppy.sh/users/1591614), ![][flag_CA] [Weez](https://osu.ppy.sh/users/67211) |
 | Mappool selector | ![][flag_DE] [DeathXHunter](http://osu.ppy.sh/users/405326), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_CA] [Weez](https://osu.ppy.sh/users/67211) |

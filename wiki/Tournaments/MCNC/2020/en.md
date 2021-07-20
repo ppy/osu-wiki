@@ -38,10 +38,10 @@ The **osu!mania 4K Chinese National Cup 2020** (***MCNC 2020***) was a country-b
 
 The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083) |
-| Map selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [Sillyp](https://osu.ppy.sh/users/4556538), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_MX] [Plutes](https://osu.ppy.sh/users/11188249), ![][flag_MX] [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070) |
+| Mappool selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [Sillyp](https://osu.ppy.sh/users/4556538), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_MX] [Plutes](https://osu.ppy.sh/users/11188249), ![][flag_MX] [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070) |
 | Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156) |
 | Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501), ![][flag_CN] [\[Crz\]HDRoop_7](https://osu.ppy.sh/users/6336721), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208) |
 | Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |

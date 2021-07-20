@@ -39,7 +39,7 @@ The **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) was a country-based osu!
 
 The osu!mania 4K World Cup 2017 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |

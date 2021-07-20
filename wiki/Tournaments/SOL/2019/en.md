@@ -42,7 +42,7 @@ The Speed of Light Mania Tournament was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099) |
-| Map selector | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) |
+| Mappool selector | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) |
 | Streamer | ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732) |
 | Commentator | ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [CarterTheQ](https://osu.ppy.sh/users/5331023), ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822) |
 | Designer/Drawings | ![][flag_MX][Candy](https://osu.ppy.sh/users/3964918) |

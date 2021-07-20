@@ -40,7 +40,7 @@ The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cu
 
 The osu! World Cup #2 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |

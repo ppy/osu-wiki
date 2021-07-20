@@ -45,7 +45,7 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 
 ## Organisation
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [lemonguy](https://osu.ppy.sh/users/4693052), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
