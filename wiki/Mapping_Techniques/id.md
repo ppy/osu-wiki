@@ -3,15 +3,15 @@
 Teknik-teknik mapping merupakan metode peletakan atau pembentukan pola hit object yang biasa digunakan oleh para mapper pada map-map mereka.
 
 Halaman-halaman ini merupakan panduan bagi para pemula yang membantu menjelaskan bagaimana cara melakukan suatu teknik tertentu sampai kamu dapat mengembangkan gaya mapping kamu sendiri.
-Sebagai awalan, kamu disarankan untuk mengamati dan menyalin teknik-teknik mapping ini dari para mapper yang berpengalaman sambil membangun kreativitas kamu sedikit demi sedikit dengan bebas.
-Banyak mapper-mapper hebat yang mempertajam keahliannya dengan cara meniru mapper lain yang mereka kagumi, jadi tidak perlu malu untuk melakukan hal seperti itu.
+Sebagai awalan, kamu disarankan untuk mengamati dan menyalin teknik-teknik mapping dari para mapper yang berpengalaman sambil membangun kreativitas kamu sedikit demi sedikit dengan bebas.
+Banyak mapper-mapper hebat yang mempertajam keahliannya dengan cara meniru teknik-teknik mapper lain yang mereka kagumi, jadi tidak perlu malu untuk melakukan hal seperti itu.
 
-Dibawah ini merupakan tautan-tautan menuju beberapa teknik mapping yang biasa digunakan oleh para mapper.
-Jika ingin, kamu juga bisa mendapatkan sekumpulan teknik-teknik mapping di artikel [Dasar teknik-teknik mapping](Basics).
+Berikut beberapa tautan yang menuju ke teknik-teknik mapping yang biasa digunakan oleh para mapper.
+Jika ingin, kamu juga bisa mendapatkan sekumpulan teknik mapping di artikel [Dasar teknik-teknik mapping](Basics).
 
-Jika kamu ingin mengetahui cara membuat slider yang bagus, kamu dapat melihtanya di artikel [Membuat Slider yang Bagus](Making_Good_Sliders).
+Jika kamu ingin mengetahui cara membuat slider yang bagus, kunjungi artikel [Membuat Slider yang Bagus](Making_Good_Sliders).
 
-## Daftar Teknik-Teknik Mapping
+## Daftar Teknik Mapping
 
 ### Formasi
 
