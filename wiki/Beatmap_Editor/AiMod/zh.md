@@ -128,9 +128,9 @@ xxx confict...的xxx可能代表的信息：Source（来源）、Tags、Title（
 * **AiMod 可能会警告您一些不是问题的问题。** 例如[马拉松图](/wiki/Beatmap/Marathon)应当有两个难度，[Kiai](/wiki/Kiai_Time)时长少于 15 秒。
 * **如果启用了 `Check distance snap` 功能，AiMod 将不会检查 Combo 间的距离。**
 * **AiMod可能会出现无法检测错误已解决**，比如你刚刚在几个combos上添加了hitsound，但AiMod还是会提示**There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps.**
-* **如果beatmap文件夹里面有多个MP3文件，AiMod可能会警告您有多个歌曲文件**，但MP3文件也使用于音效(Hitsound),如掌声(clap)
-* * **不要在选中物件的时候打开AiMod，特别是Spinner**，因为AiMod认为您已经放置了一个不该放置的时间轴/错误的地方
+* **如果beatmap文件夹里面有多个MP3文件，AiMod可能会警告您您有多个歌曲文件**，虽然这些mp3可能会用作在Hitsound 比如"掌声" <!-- 这句话的后面不太好理解 -->
+* **选择物件时不要打开AiMod,尤其是Spinner**
 
-另外 建议使用其他程序，比如[][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) 的 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases)。除了AiMod，如果你想让你的beatmap 被[ranked](/wiki/Beatmap/Category#ranked)。其他程序可以比AiMod更了解最新的[Ranking criteria](/wiki/Ranking_Criteria)，并且能检测到的问题比AiMod多。但是，请不要完全忽略了AiMod，因为[Ranking criteria](/wiki/Ranking_Criteria)中的某些规则需要依赖于它(如 Drain time should be over 30 seconds)
+另外 建议使用其他程序，比如 ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) 的 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases)。除了AiMod，如果你想让你的beatmap 被[ranked](/wiki/Beatmap/Category#ranked)。其他程序可以比AiMod更了解最新的[Ranking criteria](/wiki/Ranking_Criteria)，并且能检测到的问题比AiMod多。但是，请不要完全忽略了AiMod，因为[Ranking criteria](/wiki/Ranking_Criteria)中的某些规则需要依赖于它(如 Drain time should be over 30 seconds)
 
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
