@@ -130,7 +130,7 @@ xxx confict...的xxx可能代表的信息：Source（来源）、Tags、Title（
 - **AiMod 可能会警告您一些不是问题的问题。** 例如[马拉松图](/wiki/Beatmap/Marathon)应当有两个难度，[Kiai](/wiki/Kiai_Time)时长少于 15 秒。
 - **如果启用了 `Check distance snap` 功能，AiMod 将不会检查 Combo 间的距离。**
 - **如果beatmap文件夹里面有多个MP3文件，AiMod可能会警告您您有多个歌曲文件**，虽然这些mp3可能会用作在Hitsound 比如"掌声" <!-- 这句话的后面不太好理解 -->
-- **选择物件时不要打开AiMod,尤其是Spinner** <!-- 此处证据可以自己在Edit模式下选择Spinner的时候打开AiMod -->
+- **放置物件时不要打开AiMod,尤其是Spinner** <!-- 此处证据可以自己在Edit模式下选择Spinner的时候打开AiMod -->
 
 另外 建议使用其他程序，比如 ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) 的 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases)。除了AiMod，如果你想让你的beatmap 被[ranked](/wiki/Beatmap/Category#ranked)。其他程序可以比AiMod更了解最新的[Ranking criteria](/wiki/Ranking_Criteria)，并且能检测到的问题比AiMod多。但是，请不要完全忽略了AiMod，因为[Ranking criteria](/wiki/Ranking_Criteria)中的某些规则需要依赖于它(如 Drain time should be over 30 seconds)
 
