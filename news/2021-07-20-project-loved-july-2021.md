@@ -152,7 +152,7 @@ The map has two difficulties, both of which shouldn't be *too* hard for most pla
 240 – 300 BPM, 2:56 | 3.63★, 3.64★, 5.40★, 5.45★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-Here we have *Taihen na Mono no Shoushitsu*, which is a mapset hosted by ZHSteven, who, albeit not being active anymore, has contributed a lot to osu!catch mapping back in the day. And oh boy, if you thought some of the maps that have been Loved before were old, then this one is ancient. This map was created and last updated in September 2010 (!). However, that does not mean that the difficulties are inherently bad.
+Here we have *Taihen na Mono no Shoushitsu*, which is a mapset hosted by ZHSteven, a long-inactive creator that contributed a lot to osu!catch mapping back in the day. And oh boy, if you thought some of the maps that have been Loved before were old, then this one is ancient. This map was created and last updated in September 2010 (!). However, that does not mean that the difficulties are inherently bad.
 
 For old standards this was pretty good quality compared to most of the other things from around that time. While this mapping style obviously didn't age very well, it is still really fun to play these maps nowadays, as they are challenging in their own way. "catch the yoki" and "Steven's Jumping" are not that easy to play and should be tricky for most players that are not used to these types of styles. "pieguy's CTB" and "Crow'z Lost" on the other hand, are rather easy to play and a good entry point for people who are not that familiar with old mapping.
 
@@ -234,7 +234,7 @@ With a straightforward high-quality map such as this, it's no surprise that it h
 214 BPM, 2:24 | 3.66★, 3.86★, 4.17★, 4.64★\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
-*Bullet Waiting for Me* arrives with a clean keycount spread from 4Key to 7Key! Residing from the incredibly popular Cytus II, I think there should be many rhythm game players who are familiar with this banger of a song, and we can safely say that ATing has done it justice here. All four of the diffs are arranged to give a clean, comfortable, and similar feel to unify them together and make what's here feel like a proper, cohesive set. It's because of this that despite the varying keycounts, I feel fine speaking about this set and its patterning as a whole rather than singling out each difficulty out on its own.
+*Bullet Waiting for Me* arrives with a clean keycount spread from 4Key to 7Key! Showcased in the incredibly popular Cytus II, I think there should be many rhythm game players who are familiar with this banger of a song, and we can safely say that ATing has done it justice here. All four of the diffs are arranged to give a clean, comfortable, and similar feel to unify them together and make what's here feel like a proper, cohesive set. It's because of this that despite the varying keycounts, I feel fine speaking about this set and its patterning as a whole rather than singling out each difficulty out on its own.
 
 Overall, I will say that this set leans towards individuals who fancy more long notes, as all of the diffs here make some use of hybrid patterning up until the main chorus, where then all of the diffs implement full LN usage. As I said before about the uniqueness of this set though, all of the diffs provide some kind of alterations in the patterning to not make everything feel samey, and it's definitely worth commending ATing for.
 
