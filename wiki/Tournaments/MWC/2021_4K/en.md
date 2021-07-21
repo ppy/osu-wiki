@@ -43,12 +43,11 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | General Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Referee | ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Commentator | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_US] [Halogen](https://osu.ppy.sh/users/9467840), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Commentator | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
 | Statistician | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
-- [Sign up here](https://osu.ppy.sh/community/tournaments/29)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)
 - [Livestream](https://www.twitch.tv/osulive)
 
