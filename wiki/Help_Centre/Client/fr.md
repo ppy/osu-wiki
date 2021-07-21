@@ -147,7 +147,7 @@ Pour forcer la recréation de votre base de données des beatmaps en toute sécu
 7. Renommez le comme bon vous semble. Ce n'est pas important, tant que ce dernier ne s'appelle pas "osu!". Puis appuyez sur `Entrer`.
 8. Relancez osu!
 
-*Note : depuis la version [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) en date du 19 mai 2021, le problème semble devenir plus rare*
+*Remarque : un correctif pour ce problème a été ajouté dans la version [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) datée du 2021-05-19. Si vous rencontrez toujours ce problème, veuillez nous le faire savoir [ici](https://github.com/ppy/osu-stable-issues/issues).*
 
 ### Ma liste de beatmaps continue de défiler !
 
