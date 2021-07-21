@@ -8,7 +8,7 @@ We're proud to welcome **Aoi** aboard as our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/183/header.jpg)
 
-Presenting a storm of rhythm-game-y beeps and boops, **Aoi** is Japanese producer whose works can be found in all corners of the music game world like *SOUND VOLTEX*, jubeat*, *maiamai*, *Arcaea*, and *MUSYNX* — just to name a few. Inspired to compose music by rhythm game legend DJ YOSHITAKA, **Aoi**'s tightly packed songs provide a canvas for timeless maps.
+Presenting a storm of rhythm-game-y beeps and boops, **Aoi** is a Japanese producer whose works can be found in all corners of the music game world like *SOUND VOLTEX*, *jubeat*, *maiamai*, *Arcaea*, and *MUSYNX* — just to name a few. Inspired to compose music by rhythm game legend DJ YOSHITAKA, **Aoi**'s tightly packed songs provide a canvas for timeless maps.
 
 **14** tracks are sitting at your doorstep and ready to be loaded into the editor. Your doorstep, of course, is [**Aoi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/183).
 
