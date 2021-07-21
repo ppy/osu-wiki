@@ -51,6 +51,50 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)
 - [Livestream](https://www.twitch.tv/osulive)
 
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_AR] | **Argentina** | **[jLuyalb](https://osu.ppy.sh/users/7093698)** |
+| ![][flag_AU] | **Australia** | **[ruka](https://osu.ppy.sh/users/6117525)** |
+| ![][flag_BE] | **Belgium** | **[Mortelspawn\_](https://osu.ppy.sh/users/5331420)** |
+| ![][flag_BR] | **Brazil** | **[andreymc](https://osu.ppy.sh/users/5691061)** |
+| ![][flag_CA] | **Canada** | **[Piggy](https://osu.ppy.sh/users/5390121)** |
+| ![][flag_CL] | **Chile** | **[Urusai](https://osu.ppy.sh/users/469808)** |
+| ![][flag_CN] | **China** | **[\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832)** |
+| ![][flag_CO] | **Colombia** | **[AlexxiTo](https://osu.ppy.sh/users/16711124)** , [D3fusion](https://osu.ppy.sh/users/12829021), [Naruzae](https://osu.ppy.sh/users/12287005), [ag0](https://osu.ppy.sh/users/17989209), [Nihil-](https://osu.ppy.sh/users/6406254) |
+| ![][flag_FI] | **Finland** | **[LovelyN](https://osu.ppy.sh/users/8370443)** , [Strachy](https://osu.ppy.sh/users/9663200), [Camopoltergeist](https://osu.ppy.sh/users/8132964), [Fireable](https://osu.ppy.sh/users/12624280), [Saunaklonkku](https://osu.ppy.sh/users/3386886), [Fisu](https://osu.ppy.sh/users/12545346) |
+| ![][flag_FR] | **France** | **[Azubeur](https://osu.ppy.sh/users/1594604)** |
+| ![][flag_DE] | **Germany** | **[Niko\_Plays](https://osu.ppy.sh/users/9409456)** |
+| ![][flag_GT] | **Guatemala** | **[\[LS\]Hanabi](https://osu.ppy.sh/users/12344416)** , [Hoto Cocoa](https://osu.ppy.sh/users/6974536), [CesarGS](https://osu.ppy.sh/users/17433785), [MR acefrio](https://osu.ppy.sh/users/17834713), [JZOEN](https://osu.ppy.sh/users/11584472) |
+| ![][flag_HK] | **Hong Kong** | **[\[Crz\]Murasame](https://osu.ppy.sh/users/11563203)** |
+| ![][flag_ID] | **Indonesia** | **[reyss](https://osu.ppy.sh/users/4557440)** |
+| ![][flag_IL] | **Israel** | **[adamyes](https://osu.ppy.sh/users/11554822)** , [\[LS\]Cr1tikal](https://osu.ppy.sh/users/14090643), [Banjopolo](https://osu.ppy.sh/users/10080725), [ophir\_mania](https://osu.ppy.sh/users/18782031) |
+| ![][flag_IT] | **Italy** | **[Kiraz](https://osu.ppy.sh/users/3807675)** |
+| ![][flag_JP] | **Japan** | **[inteliser](https://osu.ppy.sh/users/1824775)** |
+| ![][flag_LV] | **Latvia** | **[CrayZigg](https://osu.ppy.sh/users/11942663)** , [Mantinsh](https://osu.ppy.sh/users/10186414), [arcis666](https://osu.ppy.sh/users/5936601), [Rolled5L](https://osu.ppy.sh/users/19615156) |
+| ![][flag_MY] | **Malaysia** | **[cheewee10](https://osu.ppy.sh/users/4477497)** |
+| ![][flag_NL] | **Netherlands** | **[2fast4you98](https://osu.ppy.sh/users/5183940)** , [Bakuretsue](https://osu.ppy.sh/users/10960533), [Tyronix](https://osu.ppy.sh/users/11290311), [Shoira](https://osu.ppy.sh/users/13377652), [Toxic Scent](https://osu.ppy.sh/users/12599154), [NightNarumi](https://osu.ppy.sh/users/4381142) |
+| ![][flag_NO] | **Norway** | **[\[RS\] F4st](https://osu.ppy.sh/users/7676585)** |
+| ![][flag_PE] | **Peru** | **[\[GS\]DaZeRo5](https://osu.ppy.sh/users/6114633)** , [\[Crz\]Kasumi](https://osu.ppy.sh/users/11930795), [bxd\_juice](https://osu.ppy.sh/users/17152485), [Kamikho](https://osu.ppy.sh/users/12664851) |
+| ![][flag_PH] | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)** |
+| ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)** |
+| ![][flag_PT] | **Portugal** | **[Rodrig0v](https://osu.ppy.sh/users/138866)** , [\_Creamy](https://osu.ppy.sh/users/9354008), [JAHDONG](https://osu.ppy.sh/users/11445021), [Jiminho](https://osu.ppy.sh/users/16229396) |
+| ![][flag_RU] | **Russian Federation** | **[X\_Devil](https://osu.ppy.sh/users/6694908)** |
+| ![][flag_SG] | **Singapore** | **[Xvenn](https://osu.ppy.sh/users/13390529)** |
+| ![][flag_KR] | **South Korea** | **[Transcendence](https://osu.ppy.sh/users/903155)** |
+| ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)** , [Komirin](https://osu.ppy.sh/users/4725379), [Guldakh](https://osu.ppy.sh/users/8553078), [Anas-](https://osu.ppy.sh/users/8608903), [CrewK fanboy](https://osu.ppy.sh/users/7860283) |
+| ![][flag_SE] | **Sweden** | **[\[LS\]Trymatic](https://osu.ppy.sh/users/14762260)** , [diamondBIaze](https://osu.ppy.sh/users/10553827), [SebbeBest](https://osu.ppy.sh/users/18272334), [Lemmie](https://osu.ppy.sh/users/11700865), [NeonDrakon](https://osu.ppy.sh/users/6315000), [Emik](https://osu.ppy.sh/users/3350987) |
+| ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)** , [Adyrem](https://osu.ppy.sh/users/8642966), [Tupidix](https://osu.ppy.sh/users/8655604), [Haprapra](https://osu.ppy.sh/users/3974114), [CrashSmash](https://osu.ppy.sh/users/13942150), [zipp](https://osu.ppy.sh/users/6839722) |
+| ![][flag_TW] | **Taiwan** | **[\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458)** |
+| ![][flag_TH] | **Thailand** | **[HowToPlayLN](https://osu.ppy.sh/users/10879600)** |
+| ![][flag_TR] | **Turkey** | **[hsod](https://osu.ppy.sh/users/15391485)** , [BlueHydra11](https://osu.ppy.sh/users/13360698), [bys4133](https://osu.ppy.sh/users/14832700), [Ayhan2005](https://osu.ppy.sh/users/6419257) |
+| ![][flag_UA] | **Ukraine** | **[Shailexi](https://osu.ppy.sh/users/11375371)** , [LonBertZend](https://osu.ppy.sh/users/10484445), [Arstz](https://osu.ppy.sh/users/10844754), [kaivoo](https://osu.ppy.sh/users/5257734), [ADshush](https://osu.ppy.sh/users/15231447) |
+| ![][flag_GB] | **United Kingdom** | **[Pope Gadget](https://osu.ppy.sh/users/2288341)**  |
+| ![][flag_US] | **United States** | **[\[Crz\]sel](https://osu.ppy.sh/users/9452257)**  |
+| ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)** , [Neko-Pan](https://osu.ppy.sh/users/8676532), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [Edvo](https://osu.ppy.sh/users/8301758), [Doryoku](https://osu.ppy.sh/users/5639725), [Cerelac](https://osu.ppy.sh/users/8065567) |
+| ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)** |
+
 ## Ruleset
 
 ### Tournament rules
@@ -175,15 +219,41 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
+[flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IN]: /wiki/shared/flag/IN.gif "India"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
