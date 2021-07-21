@@ -1,137 +1,184 @@
 # AiMod
 
-Aimod 是一个内置于 beatmap editor 中的一个工具，你可以在 “File-->Open AiMod” 或者按下 “Ctrl+Shift+A” 打开它。当你做完一张 beatmap 正在找或者打算找 modder 来看你的 beatmap 的时候，你就可以打开这个工具来看看。AiMod 可以检测出一些新人比较容易出现的问题，也可以对较简单难度的图进行一个检测。不过 AiMod 始终都带有一个 Ai，就肯定有一些检测不出来的问题，所以，除了需要使用 AiMod 进行 beatmap 检测之外，还需要一些 modder 来检测你的 beatmap。
+![](img/AiMod-ZH.png "通常 AiMod 都是你的第一个 Modder")
 
-![AiMod](img/AiMod-ZH.png "通常 AiMod 都是你的第一个 Modder")
+**AiMod** 是一种内置在 [beatmap editor](/wiki/Beatmap_Editor) 的一个工具 用于检测[beatmap](/wiki/Beatmap)中的问题. 可以通过菜单选项打开AiMod `File` > `Open AiMod` 或者是 [快捷键](/wiki/Shortcut_key_reference) `Ctrl` + `Shift` + `A`.
 
-## 常见错误解释
+虽然AiMod可用于查找谱子中的问题，但是它不能完全替代真人完成Modding. AiMod 不能评估地图质量或查找复杂的问题 比如 [技术类](/wiki/Beatmap/Pattern) or [timing](/wiki/Guides/How_to_Time_Songs). 在[创建地图](/wiki/Beatmapping)的时候, 建议先解决AiMod的警告和错误，然后再去寻求其他[modders'](/wiki/Modding/Modder)的帮助
 
-在 Aimod 检测完你的 beatmap 之后，会显示结果给你。如果显示 “No problems were found in this map!” 的话，那恭喜你，你的 beatmap 已经通过了 AiMod 的检测，不过在这个时候，你依然需要找 modder 来检测你的 beatmap，他们能够发现很多 AiMod 检测不出来的问题。
 
-### Conpose（Beatmap 制作）
 
-这些问题一般都是物件放置的问题。
+## 标签
 
-#### This object is too far/close from the previous one
+- **All:** 显示全部问题
+- **Compose:** 只显示关于Compose的问题.这些问题一般都是物件放置的问题，可能需要选中`Check distance snap` 选项框查看物件距离问题（因为检查物件距离可能会导致一些延迟，取决于Beatmap的长度/大小）
+- **Design:** 只显示关于Compose的问题.这些问题大部分是关于背景、Storyboards等
+- **Timing:** 只显示关于Timing的问题.当出现这些问题时，请检查时间线，可能是放置错误.
+- **Meta:** 只显示关于Meta的问题.当出现这些问题时请检查Song sretup
+- **Mapset:** 只显示关于Mapset的问题.这些问题会影响到整个谱
 
-翻译：**这个物件距离上一个物件太远/太近**
+## Message （消息）
 
-级别：警告
+*注: 花括号内的数字  (比如 `{0}`) 是数字或者单词的占位符*
 
-原因：相邻的物件的间距跟其他物件的间距差异比较大
 
-解决：如果是 Easy/Normal 难度的话，可以参考其他物件来进行调整，或者使用“Distance Snap”来锁定间距作图
 
-#### Spinners must have new combo
+### 信息性
 
-翻译：**spinner 必须是 new combo**
+#### 全部
 
-级别：警告
+| 问题名称                         | 解释                            | 解决                                                         |
+| :------------------------------- | :------------------------------ | :----------------------------------------------------------- |
+| 恭喜！在这张图里面没有发现问题！ | AiMod没有在此地图找到任何的问题 | 您可以使用 BSS 上传您的Beatmap，以便 osu! modders 发现您的Beatmap的其他错误和问题。 |
 
-原因：一般 spinner 都会自动设置 new combo 的，除非将将 new combo 取消掉了
+#### Meta (元信息)
 
-解决：补上 new combo 即可。
+| 问题名称                                    | 解释              | 解决                                                     |
+| :------------------------------------------ | :---------------- | :------------------------------------------------------- |
+| 建议Easy/Normal难度的HP （HP掉落）至少为4。 | 仅 osu!mania 模式 | 转到Song setup将HP rate设置大于或等于4                   |
+| 建议Hard以上难度的HP （HP掉落）至少为7。    | 仅 osu!mania 模式 | 转到Song setup将HP rate设置大于或等于7                   |
+| 建议滑条较少的图OD（总体难度）至少为7。     | 仅 osu!mania 模式 | 转到Song setup将OD rate设置大于或等于7                   |
+| 滑条速度应该是1.40或1.60。                  | 仅 osu!taiko模式  | 转到 Timing 选项并将 Slider Velocity 更改为 1.40 或 1.60 |
 
-#### These two objects are less than 10ms apart
+### 错误
 
-翻译：**这两个物件出现的时间间隔小于10毫秒**
+#### Compose（Beatmap 制作）
 
-级别：错误
+| 问题名称                                                     | 解释                                                         | 解决                                                    |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------ |
+| 两个物件时间相距低于10ms！                                   | 两个物件的时间距离非常接近，这意味玩家要以非人类的速度点击   | 找到那两个物件所在的时间线上，删除一个或者移动          |
+| 两个物件出现在同一时间！                                     | 两个物件都出现在同一个时间                                   | 找到那两个物件所在的时间线上，删除一个或者移动          |
+| There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps. | -                                                            | 在Beatmap上添加whistles, claps 和 finishes这些hitsound. |
+| 这个转盘和后面的物件重叠了。                                 | 物件在转盘处于活动状态的时候出现。可能是由于AR低/物件离转盘很近（时间上）造成的 | 改变转盘的长度或者移动/删除物件                         |
+| This hold note is less than 10ms long!                       | 仅osu!mania 模式。这会要求玩家要在极短的时间按下/放开。会造成无法获得SS评价 | 改变hold物件或者删除                                    |
+| 和另一个物件有重叠。                                         | 仅osu!mania 模式                                             | 删除/移动其中一个物件                                   |
+| 这个物件叠在另一个物件上。                                   | 仅osu!mania 模式 指定的key/hold物件重叠。这会造成无法获得SS评价 | 找到问题出现在的时间点并且删除或移动物件                |
+| 禁止同时存在超过6个物件。                                    | 仅osu!mania 模式 一些键盘因为键位冲突大多数仅允许按下6个键   | 检查您的beatmap有没有出现7键多按的情况                  |
 
-原因：一般是物件在时间轴上有重叠
+#### Design  (背景设计)
 
-解决：检查时间轴，分离时间轴上重叠的物件
+| 问题名称               | 解释                                                         | 解决                                                  |
+| :--------------------- | :----------------------------------------------------------- | :---------------------------------------------------- |
+| 你的谱面没有背景图片。 | 当前难度没有背景图像. 请注意:视频不能直接代替图片作为背景图像 | 找到个合适的图片将其作为背景图像                      |
+| 缺少文件:{0}           | 您的beatmap缺少了文件                                        | 常识恢复丢失的文件或者确保beatmap没有使用不存在的文件 |
 
-#### Object/Object's end isn't snapped
+#### Timing（时间校对）
 
-翻译：**物件/物件的末端没有对齐时间轴**
+| 问题名称                       | 解释 | 解决                                           |
+| :----------------------------- | :--- | :--------------------------------------------- |
+| 所有Timing区间的音量都低于5%。 | -    | 至少将一个计时部分上的hitsound音量调整到5%以上 |
 
-原因：一般是修改了歌曲的 timing 才会出现，修改了之后就不会对齐了
+#### Meta（元信息）
 
-解决：
+| 问题名称                              | 解释                     | 解决                                                         |
+| :------------------------------------ | :----------------------- | :----------------------------------------------------------- |
+| Drain time should be over 30 seconds. | 图从头到尾的时间不到30秒 | 建议使用转盘来结束图，要是音频时间不够30s 请扩展你的音频文件至30s |
 
-- Timing-->Resnap All Notes，可以重新对齐大部分物件
-- Timing-->Move all notes in time，如果只改变了 offset（偏移量），可以修改这个
-- 自行在时间轴上拖放物件
+### 警告
 
-#### There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps
+#### Compose（Beatmap 制作）
 
-翻译：**物件无击打音效，对于ranked图而言是必须有的**
+| 问题名称                                              | 解释                                                         | 解决                                           |
+| :---------------------------------------------------- | :----------------------------------------------------------- | :--------------------------------------------- |
+| <!-- 我不知道这该如何测试 -->这个滑条的路径不太正常。 | -                                                            | -                                              |
+| Slider 的点数多得离谱！                               | -                                                            | 删除一些点数                                   |
+| Combo很长，可以考虑断开。                             | 更多的连打长度可能会影响图的难度                             | 擅长使用New Combo并决定从哪里开始使用New Combo |
+| 物件尾部超出屏幕了！                                  | 在4:3比例下运行osu!clients是不可能看到屏幕外的物件           | 移动或删除物件尾部                             |
+| 物件超出屏幕了！                                      | 载4:3比例下运行osu!clients是不可能看到屏幕外的物件           | 移动或删除物件                                 |
+| 物件离前一个物件的距离太近。                          | 选中"Check distance snap"的时候                              | 调整物件位置                                   |
+| 物件离前一个物件的距离太远。                          | 选中"Check distance snap"的时候                              | 调整物件位置                                   |
+| 这个转盘太短了。必须让auto君能转出1000分以上的加分。  | 转盘时间太短，在477转速的情况下是无法做到Clear，甚至会影响获得SS评价 | 将问题转盘时间调长                             |
+| 转盘必须设置新combo。                                 | -                                                            | -                                              |
+| 物件没有对齐时间轴！                                  | 物件没有对齐时间轴                                           | 请检查timing设置，可能是timing设置错误的原因   |
+| 物件结尾没有对齐时间轴！                              | 物件结尾没有对齐时间轴                                       | 请检查timing设置，可能是timing设置错误的原因   |
 
-级别：错误
+#### Design  (背景设计)
 
-解决：为谱面添加whistle、clap、finish等击打音效
+| 问题名称                                                     | 解释                               | 解决                                                         |
+| :----------------------------------------------------------- | :--------------------------------- | :----------------------------------------------------------- |
+| <!-- 什么鬼 我居然没在语言文件上找到这个翻译 -->Background image is larger than 2560x1440. | -                                  | 换个小的图片                                                 |
+| 包含快速闪烁的storyboard，可能需要设置闪光警告（epilepsy warning） | 检测到storyboard含有快速闪烁的画面 | 在 [song setup](/wiki/Beatmap_Editor/Song_Setup)上启用启用 `Display epilepsy warning (storyboard has quick strobing)` . |
+| <!-- Not sure how to test this one -->{0}的尺寸必须是{1}×{1}。 | -                                  | -                                                            |
+| 4:3比例的视频尺寸不能超过1024×768。                          | -                                  | 改视频的大小或者换另一个视频                                 |
+| 16:9比例的视频尺寸不能超过1280×720。                         | -                                  | 改视频的大小或者换另一个视频                                 |
 
-### Design（背景设计）
+#### Timing（时间校对）
 
-这些问题一般都是一些界面的问题，比如背景、故事板等等
+| 问题名称                                                     | 解释             | 解决                                                         |
+| :----------------------------------------------------------- | :--------------- | :----------------------------------------------------------- |
+| 谱面超过6分钟。如果不打算做马拉松（Marathon）图，可以缩短一点。 | -                | -                                                            |
+| 谱面短于45秒。考虑做长一点。                                 | -                | -                                                            |
+| <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file (大意:AiMod不行)-->MP3的码率高于192kbps。考虑重新编码成CBR 192kbps或者VBR 1.0左右。 | -                | -                                                            |
+| <!-- Same as above -->MP3的码率低于128kbps。考虑换个音质更好的。 | -                | -                                                            |
+| Kiai时间短于15秒。                                           | -                | Kiai的持续时间延长到15秒以上（甚至Kiai结束到下一个Kiai的间隔） |
+| 音频文件比谱面长很多。可以切掉没有做图的部分来减小文件大小。 | -                | 裁剪音频                                                     |
+| Kiai时间需要有一个结束点。                                   | -                | 创建个Timing区间然后禁用Kiai效果                             |
+| 没有设置音频预览时间。可以在功能表的Timing选单里面设置。     | -                | -                                                            |
+| 同一时间有两个Timing点（红线）！                             | -                | -                                                            |
+| {1}个计时段中有{0}个的音量低于5%。                           | -                | -                                                            |
+| 这个图超过1/3的时间是Kiai时间。可以缩短一些。                | -                | -                                                            |
+| 这个TV Size的图超过1/2的时间是Kiai时间。可以缩短一些。       | -                | -                                                            |
+| Kiai开始时间没有对齐时间轴！                                 | -                | -                                                            |
+| Kiai结束时间没有对齐时间轴！                                 | -                | -                                                            |
+| osu!mania图中不建议设置休息时间。                            | 仅osu!mania 模式 | 在休息时间插入notes                                          |
+| <!-- Can't confirm -->Easy/Normal难度中变速太多              | 仅osu!mania 模式 | -                                                            |
+| <!-- Can't confirm -->Kiai时间的开关次数太多了！             | 仅osu!Taiko 模式 | -                                                            |
 
-#### Your beatmap has no background image
+#### Meta（元信息）
 
-翻译：**你的 beatmap 没有背景图片**
+| 问题名称                                                     | 解释                    | 解决                                                         |
+| :----------------------------------------------------------- | :---------------------- | :----------------------------------------------------------- |
+| 堆叠判定值（stack leniency）高于0.9或低于0.3。               | 将堆叠判定值设置为2或10 | 建议设置为3和9之间                                           |
+| <!-- editor removes any unicode automatically, but this warning probably still exists -->作者名（罗马拼音）包含非ASCII字符。 | -                       | -                                                            |
+| <!-- editor removes any unicode automatically, but this warning probably still exists -->标题名（罗马拼音）包含非ASCII字符。 | -                       | -                                                            |
+| osu!mania模式不允许使用倒计时（countdown）。                 | 仅osu!mania 模式        | 取消勾选"Song setup"里的"Design" 栏里`Enable countdown`      |
+| osu!mania模式不允许使用黑边（letterbox）。                   | 仅osu!mania 模式        | 取消勾选"Song setup"里的"Design" 栏里`Letterbox during breaks` |
+| 建议OD（总体）至少为5。                                      | 仅osu!mania 模式        | 在Song setup中"Difficulty"选项卡里的`Overall Difficulty`设置为5或更高 |
+| 建议滑条较少的图OD（总体难度）至少为7。                      | 仅osu!mania 模式        | -                                                            |
+| <!-- Both seem to occur, not sure what changes the value -->建议滑条极少的图OD（总体难度）至少为8。 | 仅osu!mania 模式        | -                                                            |
+| <!-- potential removal? tried using countdown on taiko maps, and aimod does not complain -->太鼓模式不允许使用倒计时（countdown）。 | 仅osu!taiko模式         | -                                                            |
+| <!-- same as above -->太鼓模式不允许使用闪光警告（epilepsy warning）。 | 仅osu!taiko模式         | 取消勾选"Song setup"里的"Design" 栏里`Display epilepsy warning (storyboard has quick strobing)` |
+| 太鼓模式不允许使用黑边（letterbox）。                        | 仅osu!taiko模式         | 取消勾选"Song setup"里的"Design" 栏里`Letterbox during breaks` |
 
-级别：错误
+#### Mapset（地图集）
 
-解决：找一张背景图片放进去然后调用就是了。
-
-Design-->Background Image/Video-->选择你的图片
-
-### Timing（时间校对）
-
-这些问题，出现的话，需要看一下时间轴，有没有什么不正确的地方。
-
-#### This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map
-
-翻译：**这个 beatmap 的时间长度超过了6分钟。除非你在制作游戏时间较长的 beatmap，请尝试缩短游戏时间**
-
-级别：警告
-
-#### Kiai time is toggled on less than 15 second
-
-翻译：**kiai（一般是歌曲的高潮）的切换时间少于15秒**
-
-级别：警告
-
-### Meta（元信息）
-
-#### Drain time should be over 30 seconds.
-
-翻译：**掉血时间应该超过30秒**
-
-级别：错误
-
-解决: **地图从头到尾的时间应该超过30秒**
-
-### Mapset（难度设置）
-
-一般来说，一个**完整的** beatmap 并不会只有一个难度，而这些难度里面的内容，也要协调一下。
-
-#### xxx conflict with xxx diff
-
-翻译：**来源/继承时间轴（所谓的绿线）/等等跟xxx难度不一致**
-
-xxx confict...的xxx可能代表的信息：Source（来源）、Tags、Title（标题）、Romanised Artist（拉丁字母拼写的艺术家，比如汉语拼音、日语罗马音）、等等
-
-级别：警告
-
-解决：仔细检查每个难度的 metadata，确保其一致。
-
-#### This mapset needs at least xxx diff(s)
-
-翻译：**这张 beatmap 需要有至少xxx难度**
-
-..at least xxx diff(s)的xxx可能代表的信息：1 easy/normal（需要1个 easy 或者 normal 的难度）、2 standard（需要2个难度）
-
-级别：警告
-
+| 问题名称                                                    | 解释                       | 解决                                                        |
+| :---------------------------------------------------------- | :------------------------- | :---------------------------------------------------------- |
+| 英文（Romanzied）的艺术家名与{0}难度不同。                  | -                          | -                                                           |
+| 音频文件与{0}难度不同。                                     | -                          | -                                                           |
+| 倒计时设置与{0}难度不同。                                   | -                          | -                                                           |
+| 前奏长度与{0}难度不同。                                     | -                          | -                                                           |
+| 暂停时间的黑边（letterbox）设置与{0}难度不同。              | -                          | -                                                           |
+| 音频预览时间与{0}难度不同。                                 | -                          | -                                                           |
+| 来源（Source）名与{0}难度不同。                             | -                          | -                                                           |
+| 标签（Tag）与{0}难度不同。                                  | -                          | -                                                           |
+| 英文（Romanzied）的标题名与{0}难度不同。                    | -                          | -                                                           |
+| 艺术家（Unicode artist）名与{0}难度不同。                   | -                          | -                                                           |
+| 标题(Unicode title)名与{0}难度不同。                        | -                          | -                                                           |
+| This mapset cannot have an Insane diff without a Hard diff. | *不工作*                   | -                                                           |
+| Beatmap exceeds allowed upload size ({0}kb allowed)         | 难度文件 `.osz` 过大       | 这可能是因为地图没有做到5%导致的。或者真的就是beatmap太大了 |
+| This mapset needs an easier difficulty                      | -                          | 新建个新难度 并确保新难度等级不能超过Hard                   |
+| This mapset is missing diff: {0}                            |                            | -                                                           |
+| This mapset needs at least 2 osu!catch diffs.               | 仅 osu!catch 模式          | 新建个新难度                                                |
+| 图集中需要包含Easy或Normal难度。                            |                            | 新建个新难度 并确保新难度等级不能超过Hard                   |
+| 图集中至少需要两个osu!mania模式的难度。                     | 仅osu!mania 模式           | 新建个新难度                                                |
+| This mapset needs at least 2 standard diffs.                | 仅osu!模式                 | 新建个新难度                                                |
+| 图集中至少需要两个太鼓模式的难度。                          | 仅osu!taiko 模式maps only! | 新建个新难度                                                |
+| Uninherited timing points conflict with {0} diff.           |                            | -                                                           |
 
 ## 缺陷
-- **AiMod 无法检测许多在[Ranking Criteria](/wiki/Ranking_Criteria)中被视为违反规则的问题。** 例如未对齐节拍的物件、击打音效延迟、谱面背景图片大小超过2.5MB等。
-- **AiMod 可能会警告您一些不是问题的问题。** 例如[马拉松图](/wiki/Beatmap/Marathon)应当有两个难度，[Kiai](/wiki/Kiai_Time)时长少于 15 秒。
-- **如果启用了 `Check distance snap` 功能，AiMod 将不会检查 Combo 间的距离。**
-- **如果beatmap文件夹里面有多个MP3文件，AiMod可能会警告您您有多个歌曲文件**，虽然这些mp3可能会用作在Hitsound 比如"掌声"。 **请注意：过短或过小的mp3文件不会被视作“歌曲文件”，如果确实超出了这个限制，请考虑是否进行文件压缩/裁剪等。** <!-- 此处意思未知 -->
-- **放置物件时不要打开AiMod,尤其是Spinner** <!-- 此处证据可以自己在Edit模式下选择Spinner的时候打开AiMod -->
+
+<!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
+
+<!-- 原文 lol -->
+
+- **AiMod 无法检测被 [ranking criteria](/wiki/Ranking_Criteria)视为不可ranking的问题**, 比如未对齐节拍的物件, 击打音效延迟, 面背景图片大小超过2.5MB等。
+- **AiMod may warn you of non-issues**, such as the mapset needing two standard difficulties on a [marathon](/wiki/Beatmap/Marathon) map and [kiai time](/wiki/Beatmap_Editor/Kiai_Time) being toggled on for less than 15 seconds.
+- **如果启用了 `Check distance snap` 功能, AiMod 将不会检查 Combo 间的距离**
+- **如果beatmap文件夹里面有多个MP3文件，AiMod可能会警告您您有多个歌曲文件**, 但是 MP3 文件也可以用于hitsound，例如掌声。
 
 另外 建议使用其他程序，比如 ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) 的 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases)。除了AiMod，如果你想让你的beatmap 被[ranked](/wiki/Beatmap/Category#ranked)。其他程序可以比AiMod更了解最新的[Ranking criteria](/wiki/Ranking_Criteria)，并且能检测到的问题比AiMod多。但是，请不要完全忽略了AiMod，因为[Ranking criteria](/wiki/Ranking_Criteria)中的某些规则需要依赖于它(如 Drain time should be over 30 seconds)
+
+
 
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
