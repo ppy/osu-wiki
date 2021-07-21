@@ -1,6 +1,6 @@
 # Medali
 
-**Medali**, sebelumnya dikenal sebagai *achievement*/pencapaian, adalah lencana-lencana pada profil user yang mengindikasikan target tertentu telah dicapai oleh user. Saat ini, ada **247** medali yang dapat dibuka dalam delapan kategori secara keseluruhan yaitu: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), dan [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medali**, sebelumnya dikenal sebagai *achievement*/pencapaian, adalah lencana-lencana yang diletakkan pada profil pengguna untuk mengindikasikan target tertentu yang telah dicapai oleh pengguna. Saat ini, ada **247** medali yang dapat dibuka dalam delapan kategori yang berbeda secara keseluruhan, yaitu: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), dan [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -12,7 +12,7 @@ Namun perlu diperhatikan bahwa konten-konten dari seluruh Video Game Packs, Anim
 
 ## Skill
 
-**Medali Skill** adalah medali yang diberikan ketika pemain meraih pencapain berbasis kemampuan, baik dengan meraih jumlah [kombo](/wiki/Beatmapping/Combo) tertentu, atau meraih peringkat tertentu pada [peringkat poin performa global](https://osu.ppy.sh/rankings/osu/performance), atau dengan mencapai penyelesaian atau [full combo](/wiki/Full_combo) pada beatmap dengan status [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Approved](/wiki/Beatmap/Category#approved) pada rentang [star rating](/wiki/Beatmap/Difficulty#star-rating) tertentu.
+**Medali Skill** adalah medali yang diberikan ketika pemain meraih pencapaian berbasis kemampuan, baik dengan meraih jumlah [kombo](/wiki/Beatmapping/Combo) tertentu, atau meraih peringkat tertentu pada [peringkat poin performa global](https://osu.ppy.sh/rankings/osu/performance), atau dengan mencapai penyelesaian atau [full combo](/wiki/Full_combo) pada beatmap dengan status [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Approved](/wiki/Beatmap/Category#approved) pada rentang [star rating](/wiki/Beatmap/Difficulty#star-rating) tertentu.
 
 ## Dedication
 
@@ -44,7 +44,7 @@ Meskipun Monthly Beatmap Spotlights telah dihentikan sejak April 2018 untuk diga
 
 ## Seasonal Spotlights
 
-**Medali Seasonal Spotlights** adalah medali yang diberikan ketika pemain menyelesaikan beatmap pack yang dirilis sebagai bagian dari [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Agar medali dalam kategori ini dapat terbuka, pemain perlu bermain seluruh beatmap *pada pack mode game apapun* yang dipertandingkan dalam Seasonal Spotlight ranking chart. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#difficulty-reduction) atau [mod peningkat kesulitan](/wiki/Game_modifier#difficulty-increase) diperbolehkan
+**Medali Seasonal Spotlights** adalah medali yang diberikan ketika pemain menyelesaikan beatmap pack yang dirilis sebagai bagian dari [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Agar medali dalam kategori ini dapat terbuka, pemain perlu bermain seluruh beatmap *pada pack mode game apapun* yang dipertandingkan dalam Seasonal Spotlight ranking chart. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#difficulty-reduction) atau [mod peningkat kesulitan](/wiki/Game_modifier#difficulty-increase) diperbolehkan.
 
 Meskipun Seasonal Spotlights telah dihentikan sejak awal tahun 2020 untuk digantikan oleh [sistem Beatmap Spotlights saat ini](wiki/Beatmap_Spotlights), seluruh medali yang bersangkutan masih dapat diperoleh hingga saat ini.
 
