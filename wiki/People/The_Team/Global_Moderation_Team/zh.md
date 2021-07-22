@@ -51,7 +51,9 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | 德语 | 聊天室管理员 |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄语 | 聊天室管理员 |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | 论坛管理员 |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | 锦标赛管理员 |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | 聊天室管理员 |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |  | 锦标赛管理员 |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | 韩语，日语 | 聊天室管理员 |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | 德语 | 聊天室管理员 |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | 土耳其语 | 聊天室管理员 |
@@ -69,6 +71,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | 日语 | 聊天室管理员 |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 俄语 | 聊天室管理员 |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | 芬兰语 | 聊天室管理员 |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | 葡萄牙语 | 锦标赛管理员 |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 德语 | 谱面制作社群的管理工作 |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | 中文 | 聊天室管理员 |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! 开发 |
@@ -152,6 +155,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
+[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
 [flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"

@@ -27,7 +27,9 @@ La [page du groupe de l'équipe de modération globale](https://osu.ppy.sh/group
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Allemand | Modérateur du tchat |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russe | Modérateur du tchat |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Modérateur du forum |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | Gestionnaire des tournois |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Modérateur du tchat |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |  | Gestionnaire des tournois |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Coréen, Japonais | Modérateur du tchat |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Allemand | Modérateur du tchat |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turc | Modérateur du tchat |
@@ -45,6 +47,7 @@ La [page du groupe de l'équipe de modération globale](https://osu.ppy.sh/group
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japonais | Modérateur du tchat |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russe | Modérateur du tchat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandais | Modérateur du tchat |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugais | Gestionnaire des tournois |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Allemand | Modération de la communauté modding/mapping |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chinois | Modérateur du tchat |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! development |
@@ -128,6 +131,7 @@ La [page du groupe de l'équipe de modération globale](https://osu.ppy.sh/group
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
