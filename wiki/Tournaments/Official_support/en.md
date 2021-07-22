@@ -20,7 +20,7 @@ Community-run tournaments that are receiving this support are expected to abide 
 - Preserve competitive integrity
 - Encourage good sportsmanship
 
-In addition, all promotional material or any services associated with a tournament receiving official support should adhere to the [osu! Community Rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
+In addition, all promotional material or any services associated with a tournament receiving official support should adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
 
 ## Tournament screening
 
@@ -67,7 +67,7 @@ In rare circumstances, some long-running community tournaments may qualify for i
 
 - The banner image MUST be a PNG.
 - The banner image MUST be **1500x256**px in dimension.
-  - All banner images will be treated as ``2x``, meaning that they will be exported at 50% scale by us in a ``1x`` image.
+  - All banner images will be treated as `2x`, meaning that they will be exported at 50% scale by us in a `1x` image.
   - Design your images appropriately to ensure things are legible at half size.
 - The banner MUST clearly display the logo, motif AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - The banner MUST be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
@@ -88,7 +88,7 @@ Please read the criteria laid out below, then send an email to [tournaments@ppy.
 - A brief description of your tournament, including its scoring type and any other appropriate features
 - Any applicable dates for your tournament
 - Any links to public off-site chatrooms or servers used for the event (Discord, etc.)
-- A link to the forum thread located under the [Tournaments subforum](https://osu.ppy.sh/community/forums/55) that announces/details your tournament
+- A link to the forum thread located under the [Tournaments forum](https://osu.ppy.sh/community/forums/55) that announces/details your tournament
 - Any links to previous iterations of the same tournament (only where applicable)
 - A list of the players involved in running the tournament
 - A list of players who have registered for the tournament
@@ -111,7 +111,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - This includes preventing users who are perceived to be "sandbagging" from play.
     - Should an organizer have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the link listed below.
 - The forum thread for the tournament must contain clearly visible link in normal-sized font to [this reporting form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
-  - ```https://pif.ephemeral.ink/tournament-reports```
+  - `https://pif.ephemeral.ink/tournament-reports`
 
 **¹**: "Experienced" team members are loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team. This may vary at the discretion of the account support team.
 
@@ -179,7 +179,7 @@ Yes, you can. It's at the osu!team's discretion to decide if your tournament can
 
 The minimum requirements to request in-game advertising are as follows:
 
-- Your tournament meets the [Criteria for Applicable Tournaments](#criteria) that can be found at the top of this article
+- Your tournament meets the [criteria for applicable tournaments](#criteria) that can be found at the top of this article
 - You have successfully run *at least* two tournaments in the past
 - The live streams of your current tournament average over 100 concurrent viewers
 - You are able to provide the schedule of the matches and live streams ahead of time
