@@ -87,9 +87,9 @@ The {TITLE} is run by various community members.
 | Country3 | Example | Example | Example |
 | Country4 | Example | Example | Example |
 
-![{SHORT_TITLE} podium](img/podium.png) <!-- remove if not available -->
+![](img/podium.png "{SHORT_TITLE} podium") <!-- remove if not available -->
 
-![{SHORT_TITLE} bracket](img/bracket.png) <!-- remove if not available -->
+![](img/bracket.png "{SHORT_TITLE} bracket") <!-- remove if not available -->
 
 <!-- if the podium image isn't available, add the following section
 
