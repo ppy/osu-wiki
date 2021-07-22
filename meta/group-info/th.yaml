@@ -8,7 +8,7 @@ alumni:
     dev: ผู้พัฒนา osu!
     media: ผู้สร้างสื่อ osu!
     support: ทีมช่วยเหลือ
-    tournaments: ทัวร์นาเมนต์
+    tournaments: ผู้บริหารทัวร์นาเมนต์
 gmt:
   all_mods: ผู้ดูแลทั้งหมด
   areas:
@@ -19,7 +19,7 @@ gmt:
     dev: ผู้พัฒนา osu!
     player: ผู้สนับสนุนผู้เล่น
     support: ผู้สนับสนุนทางเทคนิค
-    tournaments: ทัวร์นาเมนต์
+    tournaments: ผู้บริหารทัวร์นาเมนต์
     wiki: ผู้ดูแลวิกิ
     mapping: ผู้ดูแลชุมชนการแมป/การ mod
 nat:
