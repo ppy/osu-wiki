@@ -24,11 +24,11 @@ Cette section est consacrée aux problèmes liés à l'éditeur de beatmaps et a
 
 **Vous pouvez le faire via l'éditeur du jeu.**
 
-Pour télécharger votre beatmap, allez dans l'éditeur et aller dans `Fichier` > `Publier la beatmap...`.
+Pour télécharger votre beatmap, allez dans l'éditeur et allez dans `Fichier` > `Publier la beatmap...`.
 
-Votre beatmap pourra ainsi être téléchargé sur le site web. La mise à jour d'une map est le même processus que pour une map déjà téléchargée.
+Votre beatmap pourra ainsi être téléchargée sur le site web. La mise à jour d'une map est le même processus que pour une map déjà téléchargée.
 
-Chaque utilisateur a un nombre limité de map qu'il peut télécharger simultanément. Si vous laissez une map inactive pendant un mois (28 jours), sans la mettre à jour, elle sera envoyée au [Cimetière](/wiki/Graveyard) des beatmaps. Pour faire revivre une beatmap du cimetière dans un statut En attente ou Work In Progress, mettez-la à jour.
+Chaque utilisateur a un nombre limité de maps qu'il peut télécharger simultanément. Si vous laissez une map inactive pendant un mois (28 jours), sans la mettre à jour, elle sera envoyée au [Cimetière](/wiki/Graveyard) des beatmaps. Pour faire revivre une beatmap du cimetière dans un statut En attente ou Work In Progress, mettez-la à jour.
 
 ## L'éditeur me dit : "La beatmap que vous essayez de soumettre n'est pas la vôtre !"
 
@@ -36,9 +36,9 @@ Chaque utilisateur a un nombre limité de map qu'il peut télécharger simultan�
 
 Dans l'éditeur, cliquez sur `Fichier` dans le menu, puis sur `Ouvrir le fichier .osu dans le bloc-notes`. Vérifiez la ligne `Creator:` dans la section `Metadata` et assurez-vous qu'il s'agit de votre nom d'utilisateur exact, y compris les majuscules.
 
-Si ce n'est pas le cas, changez-le manuellement pour chaque difficulté de votre beatmap, rechargez la beatmap, et vous devriez pouvoir la soumettre.
+Si ce n'est pas le cas, changez-le manuellement pour chaque difficulté de votre beatmap, rechargez la beatmap, et vous devriez pouvoir la publier.
 
-Si vous rencontrez toujours des problèmes ou si vous souhaitez plus d'informations à ce sujet, consultez la page [BSS issues](/wiki/Guides/BSS_Issues).
+Si vous rencontrez toujours des problèmes ou si vous souhaitez plus d'informations à ce sujet, consultez la page [Problèmes avec le BSS](/wiki/Guides/BSS_Issues).
 
 ## Je suis un osu!supporter mais je n'ai pas 10 emplacements en attente !
 
@@ -48,8 +48,8 @@ Par défaut, chaque utilisateur dispose de 4 emplacements en attente. Un emplace
 
 ## Comment puis-je supprimer ma beatmap ?
 
-**L'équipe ne prend pas en compte les demandes de suppression manuelle des beatmaps téléchargés.**
+**L'équipe ne prend pas en compte les demandes de suppression manuelle des beatmaps publiées.**
 
-Vous pouvez supprimer vous-même votre beatmap en attendant qu'il se désintègre dans le cimetière des beatmap, ce qu'il fera après un mois (28 jours) sans mise à jour.
+Vous pouvez supprimer vous-même votre beatmap lorsqu'elle tombe dans le cimetière des beatmaps, ce qui se passera après un mois (28 jours) sans mise à jour.
 
-Une fois que votre beatmap se trouve au cimetière, vous pouvez le supprimer vous-même en vous rendant sur la [page de discussion](/wiki/Beatmap_Discussion) de votre beatmap et en cliquant sur le bouton `Supprimer` qui apparaît sur le côté droit de l'écran après avoir fait défiler la page.
+Une fois que votre beatmap se trouve au cimetière, vous pouvez la supprimer vous-même en vous rendant sur la [page de discussion](/wiki/Beatmap_Discussion) de votre beatmap et en cliquant sur le bouton `Supprimer` qui apparaît sur le côté droit de l'écran après avoir fait défiler la page.
