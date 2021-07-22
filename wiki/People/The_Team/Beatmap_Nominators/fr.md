@@ -49,6 +49,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | :-- | :-- |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonésien |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Russe |
+| ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  |
 | ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japonais |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Italien |
@@ -78,6 +79,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Russe |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Danois |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
+| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russe |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinois |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
@@ -85,13 +87,13 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Français |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italien |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand |
-| ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chinois, Cantonais |
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portugais |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Français |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Français |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Coréen |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
+| ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | Français |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Russe |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russe |
@@ -140,6 +142,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
+| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thaïlandais |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chinois, Cantonais |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Espagnol |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Norvégien |
@@ -184,7 +187,6 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | Nom | Langues supplémentaires |
 | :-- | :-- |
 | ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | Finlandais |
-| ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_DK] [Akayume](https://osu.ppy.sh/users/10617530) | Danois |
 | ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045) |  |
 | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) |  |
@@ -193,8 +195,6 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
 | ![][flag_GB] [mrowswares](https://osu.ppy.sh/users/9558549) |  |
-| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | Français |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) |  |
 
 #### osu!taiko
@@ -212,7 +212,6 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
-| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thaïlandais |
 | ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | Néerlandais |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Polonais |
 | ![][flag_BR] [zerokt](https://osu.ppy.sh/users/13776127) | Portugais |
