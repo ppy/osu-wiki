@@ -305,6 +305,9 @@ Abbreviations for user groups are used throughout this log:
 - 2021-07-02: Added [Garden](https://osu.ppy.sh/users/2849992) to **GMT**
 - 2021-07-04: Moved [KSHR](https://osu.ppy.sh/users/409957) from **osu! Alumni** to **GMT**
 - 2021-07-09: Moved [OnosakiHito](https://osu.ppy.sh/users/290128) from **osu! Alumni** to **GMT**
+- 2017-07-21: Added [LeoFLT](https://osu.ppy.sh/users/3668779) to **GMT**
+- 2017-07-21: Added [ChillierPear](https://osu.ppy.sh/users/9501251) to **GMT**
+- 2017-07-21: Added [Azer](https://osu.ppy.sh/users/2155578) to **GMT**
 
 ### Beatmap Nominators
 
@@ -317,4 +320,15 @@ Abbreviations for user groups are used throughout this log:
 - 2021-07-06: Added [BlackBq](https://osu.ppy.sh/users/6291741) to **Probationary BN**
 - 2021-07-07: Added [mrowswares](https://osu.ppy.sh/users/9558549) to **Probationary BN**
 
-<!-- last update: 2021-07-10 11:00 UTC added onosakihito to gmt -->
+#### Moves
+
+- 2021-07-13: Moved [Nao Tomori](https://osu.ppy.sh/users/5364763) from **Probationary BN** to **BN**
+- 2021-07-13: Moved [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN** to **BN**
+- 2021-07-20: Moved [Sajinn](https://osu.ppy.sh/users/13513687) from **Probationary BN** to **BN**
+- 2021-07-20: Moved [Aistre](https://osu.ppy.sh/users/4879380) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2021-07-20: Removed [Pentori](https://osu.ppy.sh/users/7452237) from **BN**
+
+<!-- last update: 2021-07-22 07:00 UTC added leoflt, chillierpear, azer to gmt -->

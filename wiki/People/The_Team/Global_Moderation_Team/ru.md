@@ -64,7 +64,9 @@ tags:
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Немецкий | Модерация чата |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Русский | Модерация чата |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Модерация форума |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | Турниры |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Модерация чата |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |  | Турниры |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Корейский, японский | Модерация чата |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Немецкий | Модерация чата |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Турецкий | Модерация чата |
@@ -82,6 +84,7 @@ tags:
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Японский | Модерация чата |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Русский | Модерация чата |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Финский | Модерация чата |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Португальский | Турниры |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Немецкий | Модерация маппинг-сообщества |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Китайский | Модерация чата |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Разработка osu! |
@@ -165,6 +168,7 @@ tags:
 [flag_AT]: /wiki/shared/flag/AT.gif "Австрия"
 [flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
 [flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
+[flag_CA]: /wiki/shared/flag/CA.gif "Канада"
 [flag_CH]: /wiki/shared/flag/CH.gif "Швейцария"
 [flag_CN]: /wiki/shared/flag/CN.gif "Китай"
 [flag_DE]: /wiki/shared/flag/DE.gif "Германия"

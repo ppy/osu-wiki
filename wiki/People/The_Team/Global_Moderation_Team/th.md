@@ -60,7 +60,9 @@ tags:
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | เยอรมัน | ผู้ดูแลแชท |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | รัสเซีย | ผู้ดูแลแชท |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | ผู้ดูแลฟอรั่ม |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | ผู้บริหารทัวร์นาเมนต์ |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | ผู้ดูแลแชท |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |  | ผู้บริหารทัวร์นาเมนต์ |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | เยอรมัน | ผู้ดูแลแชท |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | ตุรกี | ผู้ดูแลแชท |
@@ -78,6 +80,7 @@ tags:
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | ญี่ปุ่น | ผู้ดูแลแชท |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | รัสเซีย | ผู้ดูแลแชท |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | ฟินแลนด์ | ผู้ดูแลแชท |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | โปรตุเกส | ผู้บริหารทัวร์นาเมนต์ |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | เยอรมัน | ผู้ดูแลชุมชนการแมป/การ mod |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | จีน | ผู้ดูแลแชท |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | ผู้พัฒนา osu! |
@@ -93,7 +96,7 @@ tags:
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | เยอรมัน, เซอร์เบีย | ผู้ดูแลชุมชนการแมป/การ mod |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | ทีมอย่างเป็นทางการ |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | ฟิลิปปินส์ | ผู้ดูแลแชท |
-| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | เยอรมัน | ทัวร์นาเมนต์ |
+| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | เยอรมัน | ผู้บริหารทัวร์นาเมนต์ |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | ฝรั่งเศส, สเปน บ้าง | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้ดูแลชุมชนการแมป/การ mod |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | โปรตุเกส | ผู้ดูแลแชท |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | กวางตุ้ง, จีน | ผู้ดูแลแชท |
@@ -161,6 +164,7 @@ tags:
 [flag_AT]: /wiki/shared/flag/AT.gif "ออสเตรีย"
 [flag_AU]: /wiki/shared/flag/AU.gif "ออสเตรเลีย"
 [flag_BR]: /wiki/shared/flag/BR.gif "บราซิล"
+[flag_CA]: /wiki/shared/flag/CA.gif "แคนาดา"
 [flag_CH]: /wiki/shared/flag/CH.gif "สวิตเซอร์แลนด์"
 [flag_CN]: /wiki/shared/flag/CN.gif "จีน"
 [flag_DE]: /wiki/shared/flag/DE.gif "เยอรมนี"

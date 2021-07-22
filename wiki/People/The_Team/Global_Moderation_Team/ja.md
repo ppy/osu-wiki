@@ -59,7 +59,9 @@ tags:
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | ドイツ語 | チャットモデレーション |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | ロシア語 | チャットモデレーション |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | フォーラムモデレーション |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | トーナメント運営 |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | チャットモデレーション |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |  | トーナメント運営 |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | 韓国語、日本語 | チャットモデレーション |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | ドイツ語 | チャットモデレーション |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | トルコ語 | チャットモデレーション |
@@ -77,6 +79,7 @@ tags:
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | 日本語 | チャットモデレーション |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | ロシア語 | チャットモデレーション |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | フィンランド語 | チャットモデレーション |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | ポルトガル語 | トーナメント運営 |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | ドイツ語 | Mapping/modding コミュニティ モデレーション |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | 中国語 | チャットモデレーション |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!開発者 |
@@ -160,6 +163,7 @@ tags:
 [flag_AT]: /wiki/shared/flag/AT.gif "オーストリア"
 [flag_AU]: /wiki/shared/flag/AU.gif "オーストラリア"
 [flag_BR]: /wiki/shared/flag/BR.gif "ブラジル"
+[flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
 [flag_CH]: /wiki/shared/flag/CH.gif "スイス"
 [flag_CN]: /wiki/shared/flag/CN.gif "中華人民共和国"
 [flag_DE]: /wiki/shared/flag/DE.gif "ドイツ"

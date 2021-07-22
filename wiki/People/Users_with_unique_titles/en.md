@@ -27,14 +27,14 @@ Winners of [TWC 2021](/wiki/Tournaments/TWC/2021) with the **osu!taiko Champion*
 - ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
-Winners of [CWC 2020](/wiki/Tournaments/CWC/2020) with the **osu!catch Champion** user title:
+Winners of [CWC 2021](/wiki/Tournaments/CWC/2021) with the **osu!catch Champion** user title:
 
-- ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626)
+- ![][flag_KR] [\[224\]Hyperw7](https://osu.ppy.sh/users/4158549)
+- ![][flag_KR] [Abstract-](https://osu.ppy.sh/users/3097304)
+- ![][flag_KR] [Berea](https://osu.ppy.sh/users/3657951)
+- ![][flag_KR] [DreStar](https://osu.ppy.sh/users/1808057)
 - ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506)
-- ![][flag_KR] [R-18](https://osu.ppy.sh/users/4637369)
-- ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276)
-- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
-- ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520)
+- ![][flag_KR] [Rells](https://osu.ppy.sh/users/7937519)
 
 Winners of [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) with the **osu!mania Champion** user title:
 
@@ -203,10 +203,13 @@ These players earned their titles through either a crazy gameplay achievement or
 
 | User | Title |
 | :-- | :-- |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | World Cup Organizer |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter <!-- achievements and some other graphics --> |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organizer |
 | ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter <!-- maria and yuzu and a bunch of artwork for old site --> |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organizer |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
@@ -245,6 +248,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Elite Mapper |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | World Cup Organizer |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
@@ -253,6 +257,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer II |
 | ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | osu! Champion |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant / osu! Paragon |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organizer |
 | ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | Featured Artist |
 | ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) | osu!artist |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | osu! Hall of Famer |
@@ -290,6 +295,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
 | ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824) | osu!mania Champion |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Nominator II |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organizer |
 | ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
 | ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
 | ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | Elite Mapper |
