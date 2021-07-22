@@ -16,9 +16,9 @@ The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) is a country-based osu!m
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2021-07-07 to 2021-07-21 |
+| Registration phase | 2021-07-07 to 2021-07-21 |
 | Qualifier showcase |  2021-07-31 (14:00 UTC) |
-| Qualifier Stage | 2021-08-07 & 2021-08-08 |
+| Qualifier stage | 2021-08-07 & 2021-08-08 |
 | Round of 32 | 2021-08-14 & 2021-08-15 |
 | Round of 16 | 2021-08-21 & 2021-08-22 |
 | Quarterfinals | 2021-08-28 & 2021-08-29 |
@@ -40,7 +40,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 | Position | Member(s) |
 | :-- | :-- |
-| General Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
+| General manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Referee | ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Commentator | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
@@ -49,7 +49,51 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)
-- [Livestream](https://www.twitch.tv/osulive)
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_AR] | **Argentina** | **[jLuyalb](https://osu.ppy.sh/users/7093698)** |
+| ![][flag_AU] | **Australia** | **[ruka](https://osu.ppy.sh/users/6117525)** |
+| ![][flag_BE] | **Belgium** | **[Mortelspawn\_](https://osu.ppy.sh/users/5331420)** |
+| ![][flag_BR] | **Brazil** | **[andreymc](https://osu.ppy.sh/users/5691061)** |
+| ![][flag_CA] | **Canada** | **[Piggy](https://osu.ppy.sh/users/5390121)** |
+| ![][flag_CL] | **Chile** | **[Urusai](https://osu.ppy.sh/users/469808)** |
+| ![][flag_CN] | **China** | **[\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832)** |
+| ![][flag_CO] | **Colombia** | **[AlexxiTo](https://osu.ppy.sh/users/16711124)** |
+| ![][flag_FI] | **Finland** | **[LovelyN](https://osu.ppy.sh/users/8370443)** |
+| ![][flag_FR] | **France** | **[Azubeur](https://osu.ppy.sh/users/1594604)** |
+| ![][flag_DE] | **Germany** | **[Niko\_Plays](https://osu.ppy.sh/users/9409456)** |
+| ![][flag_GT] | **Guatemala** | **[\[LS\]Hanabi](https://osu.ppy.sh/users/12344416)**, [Hoto Cocoa](https://osu.ppy.sh/users/6974536), [CesarGS](https://osu.ppy.sh/users/17433785), [MR acefrio](https://osu.ppy.sh/users/17834713), [JZOEN](https://osu.ppy.sh/users/11584472) |
+| ![][flag_HK] | **Hong Kong** | **[\[Crz\]Murasame](https://osu.ppy.sh/users/11563203)** |
+| ![][flag_ID] | **Indonesia** | **[reyss](https://osu.ppy.sh/users/4557440)** |
+| ![][flag_IL] | **Israel** | **[adamyes](https://osu.ppy.sh/users/11554822)** |
+| ![][flag_IT] | **Italy** | **[Kiraz](https://osu.ppy.sh/users/3807675)** |
+| ![][flag_JP] | **Japan** | **[inteliser](https://osu.ppy.sh/users/1824775)** |
+| ![][flag_LV] | **Latvia** | **[CrayZigg](https://osu.ppy.sh/users/11942663)** |
+| ![][flag_MY] | **Malaysia** | **[cheewee10](https://osu.ppy.sh/users/4477497)** |
+| ![][flag_NL] | **Netherlands** | **[2fast4you98](https://osu.ppy.sh/users/5183940)**, [Bakuretsue](https://osu.ppy.sh/users/10960533), [Tyronix](https://osu.ppy.sh/users/11290311), [Shoira](https://osu.ppy.sh/users/13377652), [Toxic Scent](https://osu.ppy.sh/users/12599154), [NightNarumi](https://osu.ppy.sh/users/4381142) |
+| ![][flag_NO] | **Norway** | **[\[RS\] F4st](https://osu.ppy.sh/users/7676585)** |
+| ![][flag_PE] | **Peru** | **[\[GS\]DaZeRo5](https://osu.ppy.sh/users/6114633)** |
+| ![][flag_PH] | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)** |
+| ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)** |
+| ![][flag_PT] | **Portugal** | **[Rodrig0v](https://osu.ppy.sh/users/138866)** |
+| ![][flag_RU] | **Russian Federation** | **[X\_Devil](https://osu.ppy.sh/users/6694908)** |
+| ![][flag_SG] | **Singapore** | **[Xvenn](https://osu.ppy.sh/users/13390529)** |
+| ![][flag_KR] | **South Korea** | **[Transcendence](https://osu.ppy.sh/users/903155)** |
+| ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [Komirin](https://osu.ppy.sh/users/4725379), [Guldakh](https://osu.ppy.sh/users/8553078), [Anas-](https://osu.ppy.sh/users/8608903), [CrewK fanboy](https://osu.ppy.sh/users/7860283) |
+| ![][flag_SE] | **Sweden** | **[\[LS\]Trymatic](https://osu.ppy.sh/users/14762260)** |
+| ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)** |
+| ![][flag_TW] | **Taiwan** | **[\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458)** |
+| ![][flag_TH] | **Thailand** | **[HowToPlayLN](https://osu.ppy.sh/users/10879600)** |
+| ![][flag_TR] | **Turkey** | **[hsod](https://osu.ppy.sh/users/15391485)** |
+| ![][flag_UA] | **Ukraine** | **[Shailexi](https://osu.ppy.sh/users/11375371)** |
+| ![][flag_GB] | **United Kingdom** | **[Pope Gadget](https://osu.ppy.sh/users/2288341)** |
+| ![][flag_US] | **United States** | **[Toaph Daddy](https://osu.ppy.sh/users/7616811)** |
+| ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)** |
+| ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [Lottery61](https://osu.ppy.sh/users/13821222), [Asrielly](https://osu.ppy.sh/users/2656302), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [LovelyL](https://osu.ppy.sh/users/14821320) |
 
 ## Ruleset
 
@@ -175,15 +219,41 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
+[flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IN]: /wiki/shared/flag/IN.gif "India"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
