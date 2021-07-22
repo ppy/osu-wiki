@@ -74,7 +74,7 @@
 
 ## Difficulty （难度设置）
 
-| Option | Value type | Description |
+| 选项 | 值类型 | 描述 |
 | :-- | :-- | :-- |
 | `HPDrainRate` | 小数 | HP 设置 (0–10) |
 | `CircleSize` | 小数 | CS 设置 (0–10) |
@@ -170,7 +170,7 @@
 
 本节中的所有选项均代表颜色。它们是逗号分隔的三元组，整数为0-255，代表红色，绿色和蓝色的百分比占量（RGB）。
 
-| Option | Description |
+| 选项 | 描述 |
 | :-- | :-- |
 | `Combo#`，`#` 为整数 | 附加的连击颜色 |
 | `SliderTrackOverride` | 附加的滑条轨道颜色 |
@@ -257,7 +257,7 @@
 
 *滑条语法：* `x,y,time,type,hitSound,curveType|curvePoints,slides,length,edgeSounds,edgeSets,hitSample`
 
-- **`curveType` （字母）：**此滑块的曲线类型 (`B` = 贝兹曲线, `C` = centripetal catmull-rom, `L` = 线性, `P` = 完美圆弧)
+- **`curveType` （字母）：**此滑块的曲线类型 (`B` = 贝兹曲线, `C` = 向心 Catmull-Rom 曲线, `L` = 线性, `P` = 完美圆弧)
 - **`curvePoints` （用`|`分隔的字符串列表）：** 用于构造滑条的锚点。每个点的格式为 `x:y`.
 - **`slides` （整数）：** 玩家必须在滑条完成之前来回跟随滑条曲线的次数。也可以将其解释为往返计数加1。
 - **`length` （小数）：** 滑条的可见长度（单位为[osu! pixels](/wiki/Glossary#osupixel)）
@@ -271,13 +271,13 @@
 osu!有四种滑条曲线类型:
 
 - **贝兹曲线 （B）：** 可以任意使用[贝兹曲线](https://baike.baidu.com/item/%E8%B4%9D%E5%A1%9E%E5%B0%94%E6%9B%B2%E7%BA%BF) 。通过重叠它们的交点，可以将多个贝塞尔曲线合并到单个滑块中。
-- **Centripetal catmull-rom （C）：** [Catmull 曲线](https://en.wikipedia.org/wiki/Centripetal_Catmull–Rom_spline) 是贝塞尔曲线的插值替代方法。由于缺乏视觉吸引力，它们现在很少被使用。
+- **向心 Catmull-Rom 曲线 （C）：** [向心 Catmull-Rom 曲线（英文维基页面）](https://en.wikipedia.org/wiki/Centripetal_Catmull–Rom_spline) 是贝塞尔曲线的插值替代方法。由于缺乏视觉吸引力，它们现在很少被使用。
 - **线性（L）：** 这些曲线在所有点之间形成一条直线路径。
 - **完美圆形 (P):** 完美圆形仅用三个点（包括打击物件的位置）来限定圆形的形状。使用三个以上的点会将滑条曲线类型切换为贝兹曲线。
 
 如果滑条的长度（`Length`）长于定义曲线类型的长度，滑条会继续延伸直到到达目标长度：
 
-- 对于贝兹，catmull，和线性曲线，会在曲线的末尾以直线形式延伸。
+- 对于贝兹、Catmull-Rom、线性曲线，会在曲线的末尾以直线形式延伸。
 - 对于完美圆形曲线，会以圆弧方式延伸。
 
 *注意：滑块的长度（`Length`）可用于确定完成滑块所需的时间。 `length / (SliderMultiplier*100)*beatLength` 告诉我们完成滑条需要多少毫秒 （假设 `beatLength` 已根据继承时间点进行调整）。*
