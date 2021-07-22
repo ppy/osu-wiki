@@ -147,7 +147,7 @@ For all of these reasons (and more), we ask that profile badge prizes are only a
 
 We consider referees, mappool selectors, judges, team organizers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
 
-Commentators are not considered by us as staff, and may play or interact in tournaments freely so long as they are not directly involved in any managerial aspect of running the tournament or violate anything mentioned above.
+Commentators and streamers are not considered by us as staff, and may play or interact in tournaments freely so long as they are not directly involved in any managerial aspect of running the tournament or violate anything mentioned above.
 
 We have historically had issues where unscrupulous organizers have geared tournaments specifically (ie: picked maps they're familiar with, adjusted seeds/brackets, etc.) to farm profile badges for themselves and their friends. While we understand that most groups will not do this, we must enforce this restriction to keep things fair for everyone.
 
