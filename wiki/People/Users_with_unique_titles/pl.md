@@ -32,14 +32,14 @@ Zwycięzcy [TWC 2021](/wiki/Tournaments/TWC/2021) otrzymali tytuł **osu!taiko C
 - ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
-Zwycięzcy [CWC 2020](/wiki/Tournaments/CWC/2020) otrzymali tytuł **osu!catch Champion**:
+Zwycięzcy [CWC 2021](/wiki/Tournaments/CWC/2021) otrzymali tytuł **osu!catch Champion**:
 
-- ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626)
+- ![][flag_KR] [\[224\]Hyperw7](https://osu.ppy.sh/users/4158549)
+- ![][flag_KR] [Abstract-](https://osu.ppy.sh/users/3097304)
+- ![][flag_KR] [Berea](https://osu.ppy.sh/users/3657951)
+- ![][flag_KR] [DreStar](https://osu.ppy.sh/users/1808057)
 - ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506)
-- ![][flag_KR] [R-18](https://osu.ppy.sh/users/4637369)
-- ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276)
-- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
-- ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520)
+- ![][flag_KR] [Rells](https://osu.ppy.sh/users/7937519)
 
 Zwycięzcy [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) otrzymali tytuł **osu!mania Champion**:
 
