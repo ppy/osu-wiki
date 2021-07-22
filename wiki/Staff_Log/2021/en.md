@@ -321,12 +321,14 @@ Abbreviations for user groups are used throughout this log:
 - 2021-07-07: Added [mrowswares](https://osu.ppy.sh/users/9558549) to **Probationary BN**
 
 #### Moves
+
 - 2021-07-13: Moved [Nao Tomori](https://osu.ppy.sh/users/5364763) from **Probationary BN** to **BN**
 - 2021-07-13: Moved [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN** to **BN**
 - 2021-07-20: Moved [Sajinn](https://osu.ppy.sh/users/13513687) from **Probationary BN** to **BN**
 - 2021-07-20: Moved [Aistre](https://osu.ppy.sh/users/4879380) from **Probationary BN** to **BN**
 
 #### Removals
+
 - 2021-07-20: Removed [Pentori](https://osu.ppy.sh/users/7452237) from **BN**
 
 <!-- last update: 2021-07-22 07:00 UTC added leoflt, chillierpear, azer to gmt -->

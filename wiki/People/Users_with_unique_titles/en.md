@@ -219,7 +219,6 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 
-
 ### Other
 
 <!-- TODO: reasons -->
