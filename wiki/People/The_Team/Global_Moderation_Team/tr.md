@@ -60,7 +60,9 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | Sohbet moderasyonu |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusça | Sohbet moderasyonu |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderasyonu |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | Turnuva yönetimi |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Sohbet moderasyonu |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |  | Turnuva yönetimi |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Korece, Japonca | Sohbet moderasyonu |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Almanca | Sohbet moderasyonu |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Türkçe | Sohbet moderasyonu |
@@ -78,6 +80,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japonca | Sohbet moderasyonu |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusça | Sohbet moderasyonu |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Fince | Sohbet moderasyonu |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portekizce | Turnuva yönetimi |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Almanca | Mapping/modding topluluk moderasyonu |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Çince | Sohbet moderasyonu |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! geliştirme |
@@ -161,6 +164,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 [flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"
 [flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CH]: /wiki/shared/flag/CH.gif "İsviçre"
 [flag_CN]: /wiki/shared/flag/CN.gif "Çin"
 [flag_DE]: /wiki/shared/flag/DE.gif "Almanya"

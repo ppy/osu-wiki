@@ -50,7 +50,9 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Alemán | Moderación del chat |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Ruso | Moderación del chat |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Moderación del foro |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | Torneos |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderación del chat |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |  | Torneos |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Coreano, japonés | Moderación del chat |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Alemán | Moderación del chat |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turco | Moderación del chat |
@@ -68,6 +70,7 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japonés | Moderación del chat |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Ruso | Moderación del chat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandés | Moderación del chat |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugués | Torneos |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Alemán | Moderación de la comunidad de mapping/modding |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chino | Moderación del chat |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Desarrollador de osu! |
@@ -151,6 +154,7 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
 [flag_CH]: /wiki/shared/flag/CH.gif "Suiza"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
