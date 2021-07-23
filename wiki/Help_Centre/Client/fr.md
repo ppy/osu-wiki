@@ -38,12 +38,12 @@ Vous avez des problèmes avec le client de jeu ? Découvrez si votre problème f
 
 Suivez ces étapes pour restaurer les paramètres par défaut d'osu! :
 
-1. Lancez osu! en maintenant enfoncée la touche `Shift` de votre clavier.
-2. Maintenez la touche `Shift` jusqu'à ce que vous voyiez l'invite de la boîte de dialogue de récupération d'osu!
+1. Lancez osu! tout en maintenant enfoncée la touche `Shift` de votre clavier.
+2. Maintenez la touche `Shift` jusqu'à ce que vous voyiez la fenêtre de récupération d'osu!
 3. Lorsque la boîte de dialogue `osu! configuration` s'ouvre, cliquez sur le bouton `reset settings`.
-4. Si vous n'avez toujours pas de chance, ouvrez à nouveau la boîte de dialogue et cliquez sur `repair osu!`.
+4. Si cela ne fonctionne pas, ouvrez à nouveau la boîte de dialogue et cliquez sur `repair osu!`.
 
-### osu! se fige lorsque je clique sur un lien ou une carte multijoueur !
+### osu! se fige lorsque je clique sur un lien ou sur une beatmap en multijoueur !
 
 **Assurez-vous que vous n'exécutez pas osu! en mode de compatibilité Windows et que vous avez également défini un navigateur web par défaut dans les paramètres de votre système.**
 
@@ -64,7 +64,7 @@ Pour vérifier ou modifier si votre jeu fonctionne en mode de compatibilité sou
 
 **Dans la grande majorité des cas, un navigateur web par défaut est défini pour la plupart des installations Windows.**
 
-Pour vérifier, essayez les étapes suivantes (sous Windows 8 et plus) :
+Pour le vérifier, essayez les étapes suivantes (sous Windows 8 et plus) :
 
 1. Ouvrez le menu Démarrer.
 2. Tapez `applications par défaut` dans la barre de recherche du menu Démarrer, et cliquez sur le paramètre qui apparaît.
@@ -134,7 +134,7 @@ Pour vérifier ou modifier les beatmaps affichés dans le menu de sélection des
 
 ![](img/difficulty-display-FR.png "Valeurs correctes du paramètre "menu de sélection des beatmaps"")
 
-Si aucune de ces méthodes ne fonctionne, vous pouvez, en dernier recours, essayer de forcer la recréation de votre base de données beatmap. **Notez que cette opération marquera toutes vos maps comme "non jouées", de sorte que la recherche et le regroupement des maps par des champs qui dépendent de la date de lecture ne fonctionneront plus**.
+Si aucune de ces méthodes ne fonctionne, vous pouvez, en dernier recours, essayer de forcer la recréation de votre base de données beatmap. **Notez que cette opération marquera toutes vos maps comme "non jouées", de sorte que la recherche et le regroupement de maps par des champs qui dépendent de la date à laquelle vous les avez jouées ne fonctionneront plus**.
 
 Pour forcer la recréation de votre base de données des beatmaps en toute sécurité, procédez comme suit :
 
@@ -144,12 +144,12 @@ Pour forcer la recréation de votre base de données des beatmaps en toute sécu
 4. Fermez osu!.
 5. Trouvez le fichier `osu!.db` situé dans le dossier que vous venez d'ouvrir.
 6. Faites un clic droit dessus, puis cliquez sur `Renommer`.
-7. Renommez le comme bon vous semble. Ce n'est pas important, tant que ce dernier ne s'appelle pas "osu!". Puis appuyez sur `Entrer`.
+7. Renommez-le comme bon vous semble. Ce n'est pas important, tant que vous le ne renommez pas "osu!". Puis appuyez sur `Entrer`.
 8. Relancez osu!
 
 *Remarque : un correctif pour ce problème a été ajouté dans la version [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) datée du 2021-05-19. Si vous rencontrez toujours ce problème, veuillez nous le faire savoir [ici](https://github.com/ppy/osu-stable-issues/issues).*
 
-### Ma liste de beatmaps continue de défiler !
+### Ma liste de beatmaps défile toute seule !
 
 **Cela est généralement dû à un périphérique d'entrée défectueux connecté à votre ordinateur. Essayez de débrancher les manettes ou les joysticks.**
 
@@ -159,11 +159,11 @@ Cela peut également se produire en raison de problèmes avec les touches du pav
 
 Vous pouvez également vérifier si les boutons de vos périphériques sont bloqués ou endommagés.
 
-### J'ai téléchargé un pack de beatmaps, mais osu! essaie toujours de "réparer" le fichier !
+### J'ai téléchargé un beatmap pack, mais osu! essaie toujours de "réparer" le fichier !
 
 **Vous devrez extraire le pack dans votre répertoire Songs.**
 
-La plupart des packs de beatmap sont fournis au format de fichier `.rar`, ce qui signifie qu'il s'agit d'une archive compressée de fichiers de beatmaps. Vous devrez les extraire en utilisant l'utilitaire de votre choix (nous recommandons [7-Zip](https://7-zip.org "7zip")) dans votre répertoire "Songs".
+La plupart des beatmap packs sont fournis au format de fichier `.rar`, ce qui signifie qu'il s'agit d'une archive compressée de fichiers de beatmaps. Vous devrez les extraire en utilisant l'utilitaire de votre choix (nous recommandons [7-Zip](https://7-zip.org "7zip")) dans votre répertoire "Songs".
 
 Une fois que tous les fichiers `.osz` de l'archive sont dans le répertoire `Songs`, appuyez sur `F5` dans le menu de sélection des chansons pour rafraîchir le cache des beatmaps du jeu et charger vos nouvelles chansons dans le jeu.
 
@@ -171,9 +171,9 @@ Une fois que tous les fichiers `.osz` de l'archive sont dans le répertoire `Son
 
 ### Mon compteur de combo, l'affichage du score ou l'affichage de la précision ont disparu !
 
-**En appuyant sur les touches `Shift` + `Tab` pendant le jeu, vous pourrez basculer le HUD du jeu et voir à nouveau ces éléments.**
+**En appuyant sur les touches `Shift` + `Tab` pendant une partie, vous pourrez faire apparaître le HUD du jeu et voir à nouveau ces éléments.**
 
-Si vous avez changé la combinaison de touches qui permet de faire basculer le tableau d'affichage, cela ne fonctionnera pas. Vous pouvez vérifier quelle combinaison est définie dans `Options` -> `Configurer les touches` -> `In-Game` -> `Toggle Scoreboard`. Ensuite, vous pouvez substituer la touche à la place de `Tab` (par exemple, pour faire `Shift` + `V`).
+Si vous avez changé la combinaison de touches qui permet de faire apparaître ou disparaître le classement pendant une beatmap, cela ne fonctionnera pas. Vous pouvez vérifier quelle combinaison est définie dans `Options` -> `Configurer les touches` -> `In-Game` -> `Toggle Scoreboard`. Ensuite, vous pouvez substituer la touche à la place de `Tab` (par exemple, pour faire `Shift` + `V`).
 
 ### Mes scores locaux ont disparu !
 
@@ -185,7 +185,7 @@ Il y a plusieurs raisons pour lesquelles cela peut se produire. Lisez ce qui sui
 
 Ils ont malheureusement disparu.
 
-Les scores que vous avez soumis en ligne sont toujours là, cependant - il suffit de retélécharger n'importe quelle chanson que vous avez jouée auparavant, et votre score réapparaîtra.
+Les scores que vous avez envoyés sur le classement général en ligne sont toujours là, cependant - il suffit de retélécharger n'importe quelle beatmap que vous avez jouée auparavant, et votre score réapparaîtra.
 
 Astuce : si vous êtes un osu!supporter, vous pouvez utiliser le filtre `Classée (Jouée)` dans le panneau osu!direct dans le jeu ou via [la page de liste des beatmap](https://osu.ppy.sh/beatmapsets?played=played&s=ranked) pour trouver toutes les maps sur lesquelles vous avez établi des scores dans le passé.
 
@@ -195,7 +195,7 @@ Astuce : si vous êtes un osu!supporter, vous pouvez utiliser le filtre `Classé
 
 Une cause fréquente de ce problème est le fait de jouer des maps d'un autre mode de jeu, qui règle alors automatiquement la sélection des beatmaps pour utiliser les scores de ce mode jusqu'à ce que le mode soit remis en place.
 
-Vous pouvez changer le mode de jeu en cliquant sur le bouton `Mode` en bas à gauche de l'écran dans la sélection des beatmaps, puis en choisissant le mode approprié dans lequel vous recherchez vos scores.
+Vous pouvez changer le mode de jeu en cliquant sur le bouton `Mode` en bas à gauche de l'écran dans la sélection des beatmaps, puis en choisissant le mode dans lequel vous recherchez vos scores.
 
 #### Avez-vous récemment téléchargé un grand nombre de maps ? (par exemple, un pack ou un ensemble de beatmaps)
 
@@ -207,11 +207,11 @@ Jouer au jeu ou faire autre chose permettra au client de rattraper son retard en
 
 **Il s'agit d'une fonction spéciale appelée *smoke* qui peut être utilisée pour griffonner sur votre terrain de jeu pour le plaisir. Toute personne qui vous observe peut également voir ce que vous dessinez.**
 
-Le raccourci clavier par défaut pour cette fonction est `C`, et il fonctionnera aussi longtemps que vous maintenez le bouton enfoncé. Vous pouvez le relier à tout moment dans la section `osu!` de la boîte de dialogue des options `Configurer les touches`.
+Le raccourci clavier par défaut pour cette fonction est `C`, et il fonctionnera aussi longtemps que vous maintenez le bouton enfoncé. Vous pouvez le modifier à tout moment dans la section `osu!` de la boîte de dialogue des options `Configurer les touches`.
 
-### Comment sauvegarder mon propre replay d'un score que je viens de faire ?
+### Comment sauvegarder le replay d'un score que je viens de faire ?
 
-**Entrez dans l'écran des résultats d'après-match en cliquant sur le score dans votre tableau d'affichage local, et appuyez sur le bouton `F2`.**
+**Entrez dans l'écran des résultats en cliquant sur le score dans votre classement local, et appuyez sur le bouton `F2`.**
 
 Ceci sauvegardera votre nouveau score sous forme de fichier `.osr` dans le dossier /Replays/ du répertoire d'installation par défaut d'osu!
 
@@ -221,25 +221,25 @@ Veuillez noter que si aucun replay n'a été sauvegardé pour ce score, vous ne 
 
 ### osu! me dit que mon client est trop vieux !
 
-**Il est temps de faire une mise à jour ! Les très anciennes versions du jeu ne sont pas autorisées à soumettre de nouveaux scores, vous devrez donc forcer une mise à jour en allant dans `Options` -> `Général` -> `Lancer le logiciel de mise à jour`.**
+**Il est temps de faire une mise à jour ! Les très anciennes versions du jeu ne peuvent plus envoyer de nouveaux scores, vous devrez donc forcer une mise à jour en allant dans `Options` -> `Général` -> `Lancer le logiciel de mise à jour`.**
 
 Si cela ne fonctionne pas, vous pouvez fermer osu! et redémarrer osu!.exe en maintenant la touche `Shift` enfoncée. Cela vous fournira quelques options de mise à jour et de réparation, dont l'une consiste à mettre à jour votre jeu à la dernière version.
 
-### Mes scores ne sont pas soumis !
+### Mes scores ne s'envoient pas !
 
 Oups ! Il y a plusieurs raisons pour lesquelles cela peut arriver. Passons-les en revue :
 
 #### Étiez-vous connecté à internet pendant que vous jouiez ?
 
-**Si vous n'avez pas pu accéder à internet lorsque vous avez terminé votre note, il se peut qu'elle ne soit pas soumise.**
+**Si vous n'avez pas pu accéder à internet lorsque vous avez terminé votre partie, il se peut que le score ne soit pas envoyé.**
 
-Cela peut être frustrant si vous jouez sur une connexion instable, mais le jeu fera de son mieux pour soumettre à nouveau votre score tant que vous laisserez le client ouvert.
+Cela peut être frustrant si vous jouez sur une connexion instable, mais osu! fera de son mieux pour envoyer votre score tant que vous laisserez le client ouvert.
 
-#### Est-ce que osu! est autorisé par votre pare-feu local ou votre anti-virus ?
+#### Est-ce que votre pare-feu local ou votre anti-virus autorise osu! à accéder à internet ?
 
 **Certains pare-feu ou anti-virus peuvent empêcher osu! d'accéder à internet, ce qui l'empêchera d'envoyer des scores.**
 
-Vérifiez le logiciel de votre choix pour vous assurer que `osu!.exe` dans le répertoire où vous avez installé le jeu est autorisé à accéder à l'internet.
+Vérifiez dans le logiciel de votre choix que le fichier `osu!.exe` se trouvant dans le répertoire où vous avez installé le jeu est autorisé à accéder à internet.
 
 #### Faites-vous tourner beaucoup de programmes en arrière-plan ?
 
@@ -249,40 +249,40 @@ Essayez de fermer tout programme supplémentaire avant de jouer à osu! si vous 
 
 #### Les statuts de vos beatmaps sont-ils corrects ?
 
-**Parfois, les statuts de vos beatmaps peuvent être perturbés, ce qui signifie que les scores que vous avez définis ne peuvent pas être soumis.**
+**Parfois, les statuts de vos beatmaps peuvent ne pas être les bons, ce qui signifie que les scores que vous avez réalisés ne peuvent pas être soumis.**
 
-Dans le menu de sélection des beatmaps, vérifiez la présence de petites icônes en haut à gauche de l'écran (par exemple, un beatmap classé devrait afficher une icône en forme de flèche bleue en haut à gauche). Si vos beatmaps n'affichent aucune icône, ou affichent une icône incorrecte, vos scores ne peuvent pas être soumis. 
+Dans le menu de sélection des beatmaps, vérifiez la présence de petites icônes en haut à gauche de l'écran (par exemple, une beatmap classée devrait afficher une icône en forme de flèche bleue en haut à gauche). Si vos beatmaps n'affichent aucune icône, ou affichent une icône incorrecte, vos scores ne peuvent pas être soumis. 
 
-![](img/correct-map-status-FR.png "Voici à quoi il devrait ressembler")
+![](img/correct-map-status-FR.png "Voici à quoi cela devrait ressembler")
 
-Jouer avec le `Classement général` sélectionné, plutôt qu'avec le classeur local, peut aider à prévenir cela sur une base map par map. Si un grand nombre de vos map, ou toutes vos map, sont manquantes ou ont des statuts incorrects, essayez de forcer la recréation de votre fichier de base de données de maps. Vous pouvez découvrir comment le faire en toute sécurité dans la section "[Certaines de mes beatmaps ont disparu !](#certaines-de-mes-beatmaps-ont-disparu)". Après avoir effectué cette opération, il se peut que cela prenne un certain temps pour que toutes vos maps retrouvent leur statut correct.
+Jouer avec le `Classement général` sélectionné, plutôt qu'avec le classement local, peut aider à empêcher cela. Si un grand nombre de vos maps, ou toutes vos maps, n'ont pas de statut ou ont des statuts incorrects, essayez de forcer la recréation de votre fichier de base de données de maps. Vous pouvez découvrir comment le faire en toute sécurité dans la section "[Certaines de mes beatmaps ont disparu !](#certaines-de-mes-beatmaps-ont-disparu)". Après avoir effectué cette opération, il se peut que cela prenne un certain temps pour que toutes vos maps retrouvent leur statut correct.
 
 #### Les serveurs de soumission des scores sont-ils opérationnels ?
 
-**La réponse est presque toujours oui, mais vérifiez le [osu! server status](https://status.ppy.sh) ou le [Twitter @osustatus](https://twitter.com/osustatus) pour vous assurer que tout fonctionne bien de notre côté.**
+**La réponse est presque toujours oui, mais vous pouvez vérifier sur le site [osu! server status](https://status.ppy.sh) ou sur le [Twitter @osustatus](https://twitter.com/osustatus) si tout fonctionne bien de notre côté.**
 
 Si les serveurs sont hors ligne, ne fermez pas osu! jusqu'à ce que nous ayons résolu les problèmes et que les serveurs se remettent en marche. Le jeu essaiera de soumettre à nouveau votre score pendant une heure avant d'abandonner.
 
 ### Pouvez-vous télécharger un score que j'ai réalisé pour moi ?
 
-**Malheureusement, nous ne pouvons pas télécharger les scores sur demande.**
+**Malheureusement, nous ne pouvons pas publier vos scores sur demande.**
 
-Si un score vous a été refusé pour des raisons techniques ou autres, le mieux que vous puissiez espérer est de répéter votre démonstration de compétence et de l'obtenir à nouveau. Désolé !
+Si un score n'a pas été envoyé pour des raisons techniques ou autres, le mieux que vous puissiez espérer est de répéter votre performance et de l'obtenir à nouveau. Désolé !
 
 ### Les notes semblent désynchronisées ou décalées par rapport à la musique !
 
 **Cela peut être dû à un logiciel de traitement du son exécuté sur votre machine, tel que *Razer Surround Audio*. Cela peut aussi être dû à un mauvais réglage de votre `Universal Offset`.**
 
-Essayez de fermer tous les programmes supplémentaires qui modifient ou influencent le son sortant de votre ordinateur. Si cela n'aide pas, vous pouvez essayer d'ajuster votre `Universal Offset`.
+Essayez de fermer tous les programmes qui modifient ou influencent le son sortant de votre ordinateur. Si cela n'aide pas, vous pouvez essayer d'ajuster votre `Universal Offset`.
 
 Chaque configuration matérielle individuelle a un `Universal Offset` particulier qui détermine si vous entendez l'audio du jeu un peu plus tard ou plus tôt.
 
-La valeur par défaut convient à la plupart des gens, mais si vous trouvez qu'elle ne vous convient pas, vous pouvez la modifier en suivant les étapes suivantes :
+La valeur par défaut convient à la plupart des joueurs, mais si vous trouvez qu'elle ne vous convient pas, vous pouvez la modifier en suivant les étapes suivantes :
 
 1. Ouvrez osu!
 2. Cliquez sur le bouton `Options` du menu principal, ou appuyez sur `Ctrl` + `O`.
-3. Tapez `décalage audio` dans la barre de recherche rapide. Vous obtiendrez ainsi le universal offset actuel utilisé par votre client.
-4. Utilisez le curseur pour ajuster votre décalage universel. Vous pouvez également utiliser le [offset wizard](/wiki/Options/Offset_Wizard) pour vous aider dans ce processus.
+3. Tapez `décalage audio` dans la barre de recherche rapide. Vous obtiendrez ainsi le décalage global actuel utilisé par votre client.
+4. Utilisez le curseur pour ajuster votre décalage universel. Vous pouvez également utiliser l'[assistant de décalage](/wiki/Options/Offset_Wizard) pour vous aider dans ce processus.
 
 Si cela ne suffit toujours pas, vous pouvez essayer de mettre à jour les pilotes audio de votre carte son ou de votre carte mère.
 
@@ -290,17 +290,17 @@ Si cela ne suffit toujours pas, vous pouvez essayer de mettre à jour les pilote
 
 **Ceci est dû à un effet appelé [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing "Wikipédia (en anglais)") et peut être corrigé en réglant l'option du jeu `Images par seconde` sur `VSync`.**
 
-Il s'agit d'un effet totalement inoffensif (bien que laid !) qui se produit parce que le taux de rafraîchissement du jeu n'est pas synchronisé avec celui de votre moniteur.
+Il s'agit d'un effet totalement inoffensif (bien que laid !) qui se produit parce que le taux de rafraîchissement du jeu n'est pas synchronisé avec celui de votre écran.
 
 Vous pouvez également essayer de jouer en mode fenêtré ou sans bordure, ce qui vous permettra d'utiliser le mode VSync natif de votre système d'exploitation.
 
-Activer VSync ou jouer en mode fenêtré ou sans bordure introduira malheureusement un *léger* décalage d'entrée. Pour la plupart des gens, cela ne posera pas de problèmes significatifs.
+Activer VSync ou jouer en mode fenêtré ou sans bordure créera malheureusement un *léger* décalage d'entrée. Pour la plupart des joueurs, cela ne posera pas de gros problèmes.
 
 Les cartes graphiques NVIDIA plus récentes ont une option globale dans le panneau de configuration NVIDIA pour régler le taux de rafraîchissement global sur un paramètre appelé 'Rapide', qui résoudra également ce problème.
 
 ## Fonctions en ligne
 
-### Je ne peux pas me connecter ou me connecter au jeu du tout !
+### Je ne peux pas me connecter à mon compte ou au jeu !
 
 **Assurez-vous qu'osu! peut accéder correctement à internet par le biais de tout pare-feu ou de tout anti-virus que vous avez installé sur votre ordinateur.**
 
@@ -310,7 +310,7 @@ Voici quelques moyens de permettre aux applications d'avoir accès à Internet �
 
 **Sur la plupart des installations Windows, le Pare-feu Windows est le logiciel pare-feu par défaut.**
 
-Pour s'assurer qu'osu! peut accéder à internet, nous devrons l'autoriser à communiquer par le biais du Pare-feu Windows. Voici comment vérifier et ajouter osu! à la liste du programme :
+Pour s'assurer qu'osu! puisse accéder à internet, nous devrons l'autoriser à communiquer par le biais du Pare-feu Windows. Voici comment ajouter osu! à la liste des programmes autorisés :
 
 1. Ouvrez le menu Démarrer.
 2. Tapez `Autoriser une application` dans la barre de recherche du menu Démarrer.
@@ -338,7 +338,7 @@ Veuillez consulter [l'entrée officielle de la base de connaissances sur le suje
 
 Si vous rencontrez toujours des problèmes de connexion à nos serveurs de jeu, veuillez soumettre un ticket d'assistance en envoyant un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh). Les informations suivantes nous aideront à résoudre votre problème rapidement :
 
-- Un journal de sortie de la commande `tracert` pour les serveurs `cho.ppy.sh`, `osu.ppy.sh` et `m1.ppy.sh` (voir plus bas pour les instructions).
+- Un log de sortie de la commande `tracert` pour les serveurs `cho.ppy.sh`, `osu.ppy.sh` et `m1.ppy.sh` (voir plus bas pour les instructions).
 - Le fichier `network.log` du dossier `Logs` de votre répertoire d'installation d'osu!
 
 #### Exécution d'une trace route pour résoudre les problèmes de connexion
@@ -365,7 +365,7 @@ Consultez la page [osu! server status](https://status.ppy.sh/ "status.ppy.sh") p
 
 Essayez d'utiliser un autre proxy ou un autre fournisseur de VPN. Si tout cela échoue, envoyez un ticket d'assistance par e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-Si vous n'utilisez aucune des options ci-dessus, vous devrez envoyer un ticket d'assistance, car votre connexion a probablement été mise sur liste noire par erreur.
+S'il ne s'agit d'aucune des options ci-dessus, vous devrez envoyer un ticket d'assistance, car votre connexion a probablement été mise sur liste noire par erreur.
 
 Tor ou les réseaux associés au relais Tor ne se connecteront pas aux serveurs de jeu pour la plupart. Bien que nous ne condamnions ni n'approuvions l'utilisation de Tor, nous appliquons cette politique pour éviter que d'éventuels mauvais acteurs utilisent Tor.
 
@@ -373,7 +373,7 @@ Tor ou les réseaux associés au relais Tor ne se connecteront pas aux serveurs 
 
 **Vous apparaitrez toujours blanc pour vous-même sur le client du jeu. Mais les autres utilisateurs verront votre éclatante couleur jaune !**
 
-Cela permet d'identifier vos propres messages de ceux des autres. Il n'est pas possible de le désactiver pour l'instant.
+Cela permet de différencier vos propres messages de ceux des autres. Il n'est pas possible de le désactiver pour l'instant.
 
 ## Performance
 
@@ -387,9 +387,9 @@ Pour vérifier le réglage des images par seconde, procédez comme suit :
 2. Cliquez sur le bouton `Options` du menu principal, ou appuyez sur `Ctrl` + `O`.
 3. Tapez `images par seconde` dans la recherche rapide pour faire apparaître les options des images par seconde.
 
-Si vos images par seconde est réglé sur `Illimité (en jeu)`, vous pouvez constater une amélioration significative en le changeant pour l'une des trois autres options.
+Si vos images par seconde sont réglées sur `Illimité (en jeu)`, vous pourrez constater une amélioration importante en utilisant une des trois autres options.
 
-`VSync` fera tourner le jeu à un taux de rafraîchissement égal à celui de votre moniteur principal, tandis que `Power Saving` et `Optimal` feront tourner le jeu à deux et huit fois le taux de rafraîchissement de votre moniteur, jusqu'à 960Hz.
+`VSync` fera tourner le jeu à un taux de rafraîchissement égal à celui de votre écran principal, tandis que `Power Saving` et `Optimal` feront tourner le jeu à deux et huit fois le taux de rafraîchissement de votre écran, jusqu'à 960Hz.
 
 Nous recommandons d'utiliser `VSync` dans les situations où la surchauffe est un problème.
 
@@ -435,7 +435,7 @@ La seule véritable solution est d'acheter un clavier capable de supporter un pl
 
 Les mouvements saccadés et erratiques en sont un excellent exemple, surtout si vous utilisez une tablette.
 
-Le réglage de la sensibilité du jeu à 1,0x (valeur par défaut) résout le problème dans la plupart des cas, mais peut rendre votre curseur lent. Nous vous suggérons d'activer la fonction `rraw input` dans les options du jeu et d'utiliser les pilotes du périphérique de votre choix pour modifier la sensibilité.
+Le réglage de la sensibilité du jeu à 1,0x (valeur par défaut) résout le problème dans la plupart des cas, mais peut rendre votre curseur lent. Nous vous suggérons d'activer la fonction `raw input` dans les options du jeu et d'utiliser les pilotes du périphérique de votre choix pour modifier la sensibilité.
 
 Vous pouvez également ajuster le paramètre *DPI* de votre souris, si vous en utilisez une. Des paramètres DPI plus élevés fournissent un positionnement plus précis au client du jeu et peuvent atténuer les tremblements.
 
@@ -443,7 +443,7 @@ Nous vous suggérons également de vous assurer que vos périphériques sont pro
 
 #### Activation du raw input
 
-**Le rax input oblige le jeu à utiliser un moyen plus propre et plus direct pour accéder aux informations de vos périphériques. Cela augmente généralement la précision de la sortie du périphérique.**
+**Le raw input oblige le jeu à utiliser un moyen plus propre et plus direct pour accéder aux informations de vos périphériques. Cela augmente généralement la précision de la sortie du périphérique.**
 
 Pour activer le raw input, suivez ces étapes :
 
@@ -464,15 +464,15 @@ Vous devrez consulter le fabricant de votre tablette pour savoir comment régler
 
 Toutes les tablettes de la marque osu! prennent en charge le raw input par défaut, et leur sensibilité peut être facilement ajustée à la volée en utilisant l'option de raw input dans le jeu et en utilisant le curseur de sensibilité de la souris.
 
-### Je ressens des pics de lag ou des bégaiements pendant le jeu !
+### Je ressens des pics de lag ou du stuttering pendant le jeu !
 
-**Il y a de nombreuses raisons pour lesquelles le jeu peut fonctionner de manière incohérente, qu'il s'agisse de programmes sur votre ordinateur, de pilotes obsolètes ou simplement de paramètres trop élevés.**
+**Il y a de nombreuses raisons pour lesquelles le jeu peut fonctionner de manière instable, qu'il s'agisse de programmes sur votre ordinateur, de pilotes obsolètes ou simplement de paramètres trop élevés.**
 
 #### Avez-vous beaucoup de programmes ouverts en même temps lorsque vous jouez à osu! ?
 
 **Certains processus d'arrière-plan peuvent se battre avec osu! pour les ressources et rendre le jeu très désagréable.**
 
-Essayez de fermer certains programmes dont vous n'avez pas besoin pendant le jeu et/ou tous les programmes.
+Essayez de fermer certains ou tous programmes dont vous n'avez pas besoin pendant que vous jouez.
 
 #### Votre ordinateur est-il sécurisé ?
 
@@ -490,7 +490,7 @@ Le seul moyen de faire face à cette situation est de mettre à niveau votre ord
 
 **Les anciens pilotes peuvent causer de graves problèmes de performances. Dans la mesure du possible, veillez à ce que tous vos pilotes soient à jour.**
 
-Les pilotes de cartes graphiques sont particulièrement importants pour osu!, ainsi que les pilotes de cartes son.
+Les pilotes de cartes graphiques sont particulièrement importants pour osu!, de même que les pilotes de cartes son.
 
 #### Utilisez-vous un hub USB pour connecter de nombreux périphériques USB à votre ordinateur via un seul câble USB ?
 
@@ -500,7 +500,7 @@ Une solution simple consiste à débrancher brièvement votre hub USB. Si votre 
 
 #### Est-ce que vous exécutez osu! en mode fenêtré ou sans bordure ?
 
-**Les modes fenêtré et sans bordure introduisent tous deux un délai d'entrée *considérable*. Le mode plein écran est optimal pour une expérience de jeu plus fluide.**
+**Les modes fenêtré et sans bordure créent tous deux un délai d'entrée *considérable*. Le mode plein écran est optimal pour une expérience de jeu plus fluide.**
 
 #### Votre jeu se fige-t-il pendant un instant ou deux ?
 
@@ -512,7 +512,7 @@ Ce problème se résout généralement après avoir fermé tout ce qui n'est pas
 
 **Parfois, après une mise à jour du jeu, le client peut avoir des difficultés sans raison apparente.**
 
-Si vous avez beaucoup de beatmaps, attendez au moins 10 à 15 minutes avant d'attribuer le décalage à la mise à jour. Le client osu! peut être en train de retraiter vos maps pour calculer leur difficulté.
+Si vous avez beaucoup de beatmaps, attendez au moins 10 à 15 minutes avant de donner la responsabilité du lag à la mise à jour. Le client osu! peut être en train de retraiter vos maps pour calculer leur difficulté.
 
 Si le problème ne se résout pas, un redémarrage peut parfois aider.
 
