@@ -7,7 +7,6 @@ tags:
   - skor
 ---
 
-
 # Pengali Skor
 
 *Kunjungi juga: [Game modifier](/wiki/Game_modifier)*
