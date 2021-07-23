@@ -12,7 +12,6 @@ tags:
 
 *Kunjungi juga: [Game modifier](/wiki/Game_modifier)*
 
-
 ## Deskripsi
 
 **Pengali Skor** adalah sebuah nilai yang digunakan untuk mementukan seberapa banyak osu! sebaiknya mengalikan [skor](/wiki/Score) yang diterima dari setiap [hit object](/wiki/Hit_object) sepanjang beatmap itu. Secara default, Pengali Skor adalah 1.00x, tetapi nilai ini bisa diubah menggunakan [game modifier](/wiki/Game_modifier).
