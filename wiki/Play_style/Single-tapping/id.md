@@ -19,4 +19,4 @@ Meski namanya *single-tapping*, sebagian besar pemain *single-tap* tidak selalu 
 
 Argumen yang mendukung *single-tapping* biasanya berpendapat bahwa lebih mudah konsisten karena—untuk semua tujuan dan maksud—hanya satu jari saja yang bermain. Dan biasanya inilah alasannya (sadar atau tidak) banyak pemain baru menggunakan metode ini.
 
-Dengan cara yang sama, banyak pemain beranggapan bahwa *single-tapping* lebih lambat karena ada penundaan yang diperlukan sebelum kamu dapat menekan jari yang sama, sementara yang lain beranggapan dengan hanya menggunakan satu jari dapat menyebabkan pengguna kelelahan dalam waktu yang cukup cepat.
+Dengan cara yang sama, banyak pemain beranggapan bahwa *single-tapping* lebih lambat karena ada penundaan yang diperlukan sebelum kamu dapat menekan jari yang sama. Sementara itu, pemain lain beranggapan bahwa hanya dengan menggunakan satu jari dapat menyebabkan pengguna kelelahan dalam waktu yang cukup cepat.
