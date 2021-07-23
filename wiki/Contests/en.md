@@ -6,7 +6,7 @@ Section dedicated for contests held throughout the osu! community.
 
 ## Official Contests
 
-Official contests are contests that are being hosted (or otherwise recognized as official) by the [osu!team](wiki/People/The_Team). Most official contests have their own listing in the [contests page](https://osu.ppy.sh/community/contests) dedicated to them.
+Official contests are contests that are hosted (or otherwise recognised as official) by the [osu! team](wiki/People/The_Team). Most official contests have their own listing in the [contests page](https://osu.ppy.sh/community/contests) dedicated to them.
 
 ### Official Beatmapping Contests
 
