@@ -74,9 +74,9 @@ Ici, vous pouvez modifier la réaffectation des touches du clavier avec les acti
 
 **Notes :**
 
-- Explication de `Boss Key` : [Boss key](https://fr.wikipedia.org/wiki/Boss_key "Wikipédia")
-  - Lorsqu'il est utilisé, osu! se met en sourdine et cache la fenêtre de la barre d'outils.
-  - Pour désactiver le boss key, cliquez sur l'icône osu! dans la barre des tâches et le client s'ouvrira.  
+- Explication de la `Boss Key` : [Boss key](https://fr.wikipedia.org/wiki/Boss_key "Wikipédia")
+  - Lorsqu'elle est utilisée, osu! se met en sourdine et cache la fenêtre de la barre d'outils.
+  - Pour désactiver la boss key, cliquez sur l'icône osu! dans la barre des tâches et le client s'ouvrira.  
 
 ## Editor
 
@@ -130,7 +130,7 @@ Ici, vous pouvez modifier la réaffectation des touches du clavier avec les acti
 
 ## Réinitialiser toutes les touches
 
-**Attention :** ce bouton ne **vous confirme pas** si vous aviez vraiment voulu le faire !
+**Attention :** ce bouton ne **vous demande pas** si vous aviez vraiment voulu le faire !
 
 Ce bouton réinitialisera toutes les touches à leurs valeurs par défaut énumérées ci-dessus.
 
