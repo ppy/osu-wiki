@@ -14,7 +14,7 @@ Official contests are contests that are hosted (or otherwise recognised as offic
 
 *Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
-The *Monthly Beatmapping Contest* in its initial concept was a beatmapping contest where participating beatmappers competed to create the most outstanding beatmapset with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards of a given song in a month's time.
+The *Monthly Beatmapping Contest* in its initial concept was a beatmapping contest where participating mappers competed to create the most outstanding beatmapset with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards of a given song in a month's time.
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -62,7 +62,7 @@ After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 202
 
 #### Aspire
 
-*Aspire* is a one-of-a-kind beatmapping contest where participating beatmappers are challenged to create the most innovative beatmap imaginable without any restrictions towards the rules of the [Ranking Criteria](/wiki/Ranking_Criteria). The contest encourages beatmappers to explore the the technical possibilities of the game as far as possible.
+*Aspire* is a one-of-a-kind beatmapping contest where participating mappers are challenged to create the most innovative beatmap imaginable without any restrictions towards the rules of the [Ranking Criteria](/wiki/Ranking_Criteria). The contest encourages mappers to explore the the technical possibilities of the game as far as possible.
 
 | Contest No. | Song | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -76,7 +76,7 @@ After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 202
 
 *Main page: [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
 
-The *osu! Mapping Olympiad* is a beatmapping contest that is held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating beatmappers are tasked to create either a full beatmapset (with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) or a certain number of difficulties for any of the given songs in each corresponding iteration.
+The *osu! Mapping Olympiad* is a beatmapping contest that is held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating mappers are tasked to create either a full beatmapset (with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) or a certain number of difficulties for any of the given songs in each corresponding iteration.
 
 | Contest No. | Song(s) | Mode | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -90,7 +90,7 @@ The *osu! Mapping Olympiad* is a beatmapping contest that is held as a spiritual
 
 #### Community Mapping Contest
 
-he *Community Mapping Contest* is a beatmapping contest where participating beatmappers are free to submit their entry for any difficulty in any game mode they desire, after which all winning entries across all difficulties and game modes will then be merged together into a single beatmap.
+he *Community Mapping Contest* is a beatmapping contest where participating mappers are free to submit their entry for any difficulty in any game mode they desire, after which all winning entries across all difficulties and game modes will then be merged together into a single beatmap.
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] (Easy) | ![Gold Crown][GCrown] (Normal) | ![Gold Crown][GCrown] (Hard) | ![Gold Crown][GCrown] (Insane) | ![Gold Crown][GCrown] (Extra) | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -102,7 +102,7 @@ he *Community Mapping Contest* is a beatmapping contest where participating beat
 
 #### Mapping With Rewards
 
-*Mapping With Rewards* is a beatmapping contest where participating beatmappers compete to create the best beatmap (with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) for any of the given songs in each corresponding iteration without strict deadlines.
+*Mapping With Rewards* is a beatmapping contest where participating mappers compete to create the best beatmap (with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) for any of the given songs in each corresponding iteration without strict deadlines.
 
 | Contest No. | Song | Mode | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -226,7 +226,7 @@ The Skinning Contest is a skinning contest open to skin creators from all across
 
 ### osu! Beatmapping World Championship <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
-*osu! Beatmapping World Championship* is a team-based beatmapping contest where participating teams consisting of beatmappers from the same country, region, or even continent (to some extent) battle their beatmapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](wiki/Featured_Artists) library during its runs.
+*osu! Beatmapping World Championship* is a team-based beatmapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) battle their beatmapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](wiki/Featured_Artists) library during its runs.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
@@ -235,9 +235,9 @@ The Skinning Contest is a skinning contest open to skin creators from all across
 
 ### Pending Cup
 
-The *Pending Cup* is a beatmapping contest that is held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs and/or categories that beatmappers from all across the community are free to compete and submit their entries in.
+The *Pending Cup* is a beatmapping contest that is held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs and/or categories that mappers from all across the community are free to compete and submit their entries in.
 
-Although the Pending Cup was initially intended mainly for the Chinese-speaking members of the community, the contest has since been expanded to incorporate entries from other beatmappers from around the world as well.
+Although the Pending Cup was initially intended mainly for the Chinese-speaking members of the community, the contest has since been expanded to incorporate entries from other mappers from around the world as well.
 
 #### [Pending Cup \#1 (2013)](https://osu.ppy.sh/community/forums/topics/135492)
 
@@ -310,7 +310,7 @@ Although the Pending Cup was initially intended mainly for the Chinese-speaking 
 
 ### Newspaper Cup
 
-The *Newspaper Cup* is a beatmapping contest that is similar to the Pending Cup in nature but with a much greater emphasis on novice beatmappers. As with Pending Cup, the contest is also being held yearly by prominent members of the Chinese mapping community and has since been developed from a contest that was particularly intended for the Chinese-speaking members of the community to a global-scale contest.
+The *Newspaper Cup* is a beatmapping contest that is similar to the Pending Cup in nature but with a much greater emphasis on novice mappers. As with Pending Cup, the contest is also being held yearly by prominent members of the Chinese mapping community and has since been developed from a contest that was particularly intended for the Chinese-speaking members of the community to a global-scale contest.
 
 #### [Newspaper Cup \#1 (2015)](https://osu.ppy.sh/community/forums/topics/272739)
 
