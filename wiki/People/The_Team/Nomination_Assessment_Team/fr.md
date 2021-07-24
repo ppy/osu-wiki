@@ -72,7 +72,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espagnol, Allemand | Évaluation, modération |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Néerlandais | Évaluation, structurelle |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coréen | Évaluation |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coréen | Évaluation, communication |
 
 ### osu!mania
 
