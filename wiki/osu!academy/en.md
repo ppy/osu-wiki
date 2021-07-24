@@ -6,7 +6,7 @@ outdated: true
 
 # osu!academy
 
-![osu!academy's logo](img/osu!academy-logo.jpg "osu!academy logo")
+![osu!academy's logo](img/osu!academy-newlogo.png "osu!academy logo")
 
 **osu!academy** aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in-between.
 
@@ -15,7 +15,7 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 
 [Now with a trailer](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).
 
-## Episodes
+## Core Episodes
 
 | Episode Thumbnail | Link | Description |
 | :-- | :-- | :-- |
@@ -56,6 +56,19 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 | ![](img/Academy_32.png) | [Episode 32](https://www.youtube.com/watch?v=wa_hNegtBw0 "Episode 32") | In this episode, we will go over the new ranking system! |
 | ![](img/Academy_33.png) | [Episode 33](https://www.youtube.com/watch?v=_-Xke2bqzok "Episode 33") | In this episode, we will cover more advanced editor tips! |
 
+## Academy Bytes - Mapping Techniques
+
+[**Academy Bytes**](https://www.youtube.com/playlist?list=PLmWVQsxi34bMq9xkL8affDZpUzSTXa5_r) are short videos made by [ztrot](https://osu.ppy.sh/users/6347) explaining the arrangement and usage of useful and commonly used mapping techniques. 
+
+| Episode Thumbnail | Link | Description |
+| :-- | :-- | :-- |
+| ![](img/Bytes_1.png) | [Episode 1](https://www.youtube.com/watch?v=Ra_hrzkyIRs&list=PLmWVQsxi34bMq9xkL8affDZpUzSTXa5_r&index=1 "Episode 1") | In this episode, we will cover the placement and timing of Back and Forth Patterns! |
+| ![](img/Bytes_2.png) | [Episode 2](https://www.youtube.com/watch?v=ocvaH50lNks&list=PLmWVQsxi34bMq9xkL8affDZpUzSTXa5_r&index=2 "Episode 2") | In this episode, we will be going over the arrangement and usage of the Mirrored Sliders! |
+| ![](img/Bytes_3.png) | [Episode 3](https://www.youtube.com/watch?v=_hla2JtEPkU&list=PLmWVQsxi34bMq9xkL8affDZpUzSTXa5_r&index=3 "Episode 3") | In this episode, we will be covering the positioning and use of Honeycomb patterns! |
+| ![](img/Bytes_4.png) | [Episode 4](https://www.youtube.com/watch?v=LHch8V-v7i4&list=PLmWVQsxi34bMq9xkL8affDZpUzSTXa5_r&index=4 "Episode 4") | In this episode, we will go over creating star patters and all the shortcuts associated with them! |
+| ![](img/Bytes_5.png) | [Episode 5](https://www.youtube.com/watch?v=2XtP58p9DtY&list=PLmWVQsxi34bMq9xkL8affDZpUzSTXa5_r&index=5 "Episode 5") | In this episode of bytes, we go over compressed streams and ways to use distance spacing and snaps to create them! |
+| ![](img/Bytes_6.png) | [Episode 6](https://www.youtube.com/watch?v=tPRFa2sRXSs&list=PLmWVQsxi34bMq9xkL8affDZpUzSTXa5_r&index=6 "Episode 6") |In this episode, we briefly go over slider stream jumps one of the newer patterns in mapping! |
+| ![](img/Bytes_7.png) | [Episode 7](https://www.youtube.com/watch?v=oaIWbuEihZk&list=PLmWVQsxi34bMq9xkL8affDZpUzSTXa5_r&index=7 "Episode 7") | In this episode, we are going to take a look into variable streams and where to use them! |
 ## External Links
 
 - [Source](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
