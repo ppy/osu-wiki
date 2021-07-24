@@ -25,25 +25,25 @@ For those who missed **Redside**'s showcase in A Labour of Love's results live s
 Play through [A Labour of Love's highest voted entry](https://osu.ppy.sh/beatmapsets/1388993) as seen above!
 
 <audio controls>
-    <source src="Link" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/184/Songs/Kuba%20Oms%20-%20My%20Love%20%28Redside%20Remix%29%20%28feat.%20Hatsune%20Miku%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Redside - Air
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/184/Songs/Redside%20-%20Air.mp3" type="audio/mpeg">
 </audio>
 
 ### Redside - Aspiration
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/184/Songs/Redside%20-%20Aspiration.mp3" type="audio/mpeg">
 </audio>
 
 ### Redside - Reverie
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/184/Songs/Redside%20-%20Reverie.mp3" type="audio/mpeg">
 </audio>
 
 ---
