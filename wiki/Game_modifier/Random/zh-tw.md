@@ -4,6 +4,7 @@ tags:
   - random
   - RD
   - 遊戲 Mod
+no_native_review: true
 ---
 
 # Random (mod)
