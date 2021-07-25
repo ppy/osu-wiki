@@ -71,6 +71,22 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 | ![](img/bytes-6.png) | [Episode 6](https://www.youtube.com/watch?v=tPRFa2sRXSs "YouTube") | In this episode, we briefly go over slider stream jumps one of the newer patterns in mapping! |
 | ![](img/bytes-7.png) | [Episode 7](https://www.youtube.com/watch?v=oaIWbuEihZk "YouTube") | In this episode, we are going to take a look into variable streams and where to use them! |
 
+## Time Lapse Mapping
+
+**[Time Lapse Mapping](https://www.youtube.com/playlist?list=PLmWVQsxi34bO7PAmjWZjVDi16pAy-GRBP "YouTube")** is a collection of videos made by [ztrot](https://osu.ppy.sh/users/6347) and a few other mappers from different game modes where they timelapse their long mapping sessions into shorter ones for us to see and enjoy!
+
+| Episode Thumbnail | Link | Description |
+| :-- | :-- | :-- |
+| ![](img/lapse-1.png) | [Episode 1](https://youtu.be/nP3jepiQslg "YouTube") | In this episode, we go over the  time lapse mapping of the Insane difficulty of [Miqz - Sound of my Dream!](https://osu.ppy.sh/beatmapsets/245877#osu/566538)|
+| ![](img/lapse-2.png) | [Episode 2](https://youtu.be/ECBMHNVGucM "YouTube") | In this episode, we look at the  time lapse mapping of the Hard difficulty of [Miqz - Sound of my Dream!](https://osu.ppy.sh/beatmapsets/245877#osu/603075)|
+| ![](img/lapse-3.png) | [Episode 3](https://youtu.be/3OM8AgzIFAY "YouTube") | In this episode, we go over the  time lapse mapping of the Normal difficulty of [Miqz - Sound of my Dream!](https://osu.ppy.sh/beatmapsets/245877#osu/632389)|
+| ![](img/lapse-4.png) | [Episode 4](https://youtu.be/NZ4oE_Xe51Q "YouTube") |In this episode, we visit the  time lapse mapping of the Easy difficulty of [Miqz - Sound of my Dream!](https://osu.ppy.sh/beatmapsets/245877#osu/643621)|
+| ![](img/lapse-5.png) | [Episode 5](https://youtu.be/phFJRXp0O5o "YouTube") | In this episode, [Chromoxx](https://osu.ppy.sh/users/1881639) takes us on a journey of time lapse mapping the Oni difficulty of Circles! |
+| ![](img/lapse-6.png) | [Episode 6](https://youtu.be/6LC7Bez0uCg "YouTube") | In this episode, [Chromoxx](https://osu.ppy.sh/users/1881639) goes over the time lapse mapping of the Muzukashii difficulty of Circles in the taiko gamemode! |
+| ![](img/lapse-7.png) | [Episode 7](https://youtu.be/A5x5QiFExFo "YouTube") |  In this episode, [Chromoxx](https://osu.ppy.sh/users/1881639) goes over the time lapse mapping of the Futsuu difficulty of Circles in the taiko gamemode! |
+| ![](img/lapse-8.png) | [Episode 8](https://youtu.be/UfWlpD3pocs "YouTube") |In this episode, [Chromoxx](https://osu.ppy.sh/users/1881639) goes over the time lapse mapping of the Kantan difficulty of Circles in the taiko gamemode! |
+| ![](img/lapse-9.png) | [Episode 9](https://youtu.be/REpmCJEB9jY "YouTube") |In this episode, [Evening](https://osu.ppy.sh/users/2193881) covers the time lapse mapping of the 4K Insane difficulty of LANGUAGE (KAYZO AND GAMMER REMIX) in the mania gamemode! |
+
 ## External Links
 
 - [Source](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
