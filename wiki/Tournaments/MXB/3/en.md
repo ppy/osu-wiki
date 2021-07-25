@@ -15,7 +15,7 @@ The **Novice Mania Cup 3rd** (***MXB 3rd***) is a one-on-one osu!mania 4K specif
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2019-04-05/2019-04-17 |
-| Qualification Stage | 2019-05-04/2019-05-05 |
+| Qualification stage | 2019-05-04/2019-05-05 |
 | Live drawings | 2019-05-05 19:00 (UTC+8) |
 | Group stage | 2019-05-11/2019-05-12 |
 | Quarterfinals | 2019-05-18/2019-05-19 |

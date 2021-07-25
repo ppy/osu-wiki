@@ -385,7 +385,7 @@ Wednesday, 15 August 2018:
 12. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
     - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and blacklisted in the next instalment of CIC.
     - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment of CIC.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next instalment of CIC for both participant and the helper.
+    - If there is anyone trying to play in place of any of the participants, their account will be blacklisted in the next instalment of CIC for both participant and the helper.
 
 ### Group stage rules
 

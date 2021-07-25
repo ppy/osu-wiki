@@ -8,7 +8,7 @@ tags:
 
 # osu! UK Tournament 3 (OUKT3)
 
-The **osu! UK tournament 3** (***OUKT3***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 3rd iteration of the **osu! UK Tournament** (***OUKT***) series.
+The **osu! UK tournament 3** (***OUKT3***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the third iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament schedule
 
