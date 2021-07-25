@@ -280,7 +280,7 @@ osu!有四种滑条曲线类型:
 - 对于贝兹、Catmull-Rom、线性曲线，会在曲线的末尾以直线形式延伸。
 - 对于完美圆形曲线，会以圆弧方式延伸。
 
-*注意：滑块的长度（`Length`）可用于确定完成滑块所需的时间。 `length / (SliderMultiplier*100)*beatLength` 告诉我们完成滑条需要多少毫秒 （假设 `beatLength` 已根据继承时间点进行调整）。*
+*注意：滑条的长度（`Length`）可用于确定完成滑条所需的时间。 `length / (SliderMultiplier*100)*beatLength` 告诉我们完成滑条需要多少毫秒 （假设 `beatLength` 已根据继承时间点进行调整）。*
 
 #### Slider hitsounds（滑条音效）
 
