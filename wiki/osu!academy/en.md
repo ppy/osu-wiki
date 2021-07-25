@@ -84,7 +84,7 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 | ![](img/lapse-5.png) | [Episode 5](https://youtu.be/phFJRXp0O5o "YouTube") | In this episode, [Chromoxx](https://osu.ppy.sh/users/1881639) takes us on a journey of time lapse mapping the Oni difficulty of Circles! |
 | ![](img/lapse-6.png) | [Episode 6](https://youtu.be/6LC7Bez0uCg "YouTube") | In this episode, [Chromoxx](https://osu.ppy.sh/users/1881639) goes over the time lapse mapping of the Muzukashii difficulty of Circles in the taiko gamemode! |
 | ![](img/lapse-7.png) | [Episode 7](https://youtu.be/A5x5QiFExFo "YouTube") |  In this episode, [Chromoxx](https://osu.ppy.sh/users/1881639) goes over the time lapse mapping of the Futsuu difficulty of Circles in the taiko gamemode! |
-| ![](img/lapse-8.png) | [Episode 8](https://youtu.be/UfWlpD3pocs "YouTube") |In this episode, [Chromoxx](https://osu.ppy.sh/users/1881639) goes over the time lapse mapping of the Kantan difficulty of Circles in the taiko gamemode! |
+| ![](img/lapse-8.png) | [Episode 8](https://youtu.be/UfWlpD3pocs "YouTube") | In this episode, [Chromoxx](https://osu.ppy.sh/users/1881639) goes over the time lapse mapping of the Kantan difficulty of Circles in the taiko gamemode! |
 | ![](img/lapse-9.png) | [Episode 9](https://youtu.be/REpmCJEB9jY "YouTube") | In this episode, [Evening](https://osu.ppy.sh/users/2193881) covers the time lapse mapping of the 4K Insane difficulty of LANGUAGE (KAYZO AND GAMMER REMIX) in the mania gamemode! |
 
 ## External Links
