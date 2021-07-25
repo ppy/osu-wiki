@@ -25,23 +25,23 @@ tags:
 
 ## Deskripsi
 
-Mod **Perfect** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujuan untuk membantu pemain yang mengejar skor SS dengan secara otomatis menggagalkan dan mengulangi [beatmap](/wiki/Beatmap) ketika pemain meleset mengenai sebuah note atau mendapatkan skor di [hit object](/wiki/Hit_object) yang bukan 300.
+Mod **Perfect** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujuan untuk membantu pemain yang mengejar skor SS dengan secara otomatis menggagalkan dan mengulangi [beatmap](/wiki/Beatmap) ketika pemain meleset mengenai sebuah not atau mendapatkan skor yang bukan 300 di [hit object](/wiki/Hit_object).
 
-Hal-hal tersebut akan **menyebabkan** mod Perfect untuk mengulangi betamap tersebut:
+Hal-hal berikut akan **menyebabkan** mod Perfect untuk mengulangi betamap:
 
 - Meleset dalam mengenai sebuah note
 - Mendapatkan sebuah `100` atau `50`
 - Gagal menyelesaikan sebuah spinner sepenuhnya
 - *Sliderbreaking* 
 
-Hal-hal tersebut **tidak akan** menyebabkan mod Perfect untuk mengulangi beatmap tersebut:
+Hal-hal berikut **tidak akan** menyebabkan mod Perfect untuk mengulangi beatmap:
 
 - Mendapatkan sebuah `300`
 - Menyelesaikan sebuah spinner
 - Mendapatkan skor Rainbow 300/MAX ([osu!mania](/wiki/Game_mode/osu!mania))
 - Mendapatkan sebuah nilai skor 300 (osu!mania)
 
-Mod ini mempunyai fungsi yang sama untuk semua [mode-mode permainan](/wiki/Game_mode)
+Mod ini mempunyai fungsi yang sama untuk semua [mode permainan](/wiki/Game_mode)
 
 ## Trivia
 
