@@ -5,6 +5,7 @@ tags:
   - beatmapping
   - mapping
   - 製譜
+no_native_review: true
 ---
 
 # 測試模式
