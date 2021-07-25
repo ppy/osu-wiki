@@ -73,7 +73,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanhol, Alemão | Avaliação, moderação |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Avaliação, estrutural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Avaliação |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Avaliação, comunicação |
 
 ### osu!mania
 

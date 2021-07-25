@@ -74,7 +74,7 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluación, moderación |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandés | Evaluación, estructural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Evaluación |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Evaluación, comunicación |
 
 ### osu!mania
 
