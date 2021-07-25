@@ -71,7 +71,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Değerlendirme, moderasyon |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Flemenkçe | Değerlendirme, yapısal |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korece | Değerlendirme |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korece | Değerlendirme, haberleşme |
 
 ### osu!mania
 
