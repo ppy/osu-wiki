@@ -2,6 +2,7 @@
 needs_cleanup: true
 outdated: true
 ---
+
 <!-- TODO: new videos and branding -->
 
 # osu!academy
@@ -69,6 +70,7 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 | ![](img/bytes-5.png) | [Episode 5](https://www.youtube.com/watch?v=2XtP58p9DtY "YouTube") | In this episode of bytes, we go over compressed streams and ways to use distance spacing and snaps to create them! |
 | ![](img/bytes-6.png) | [Episode 6](https://www.youtube.com/watch?v=tPRFa2sRXSs "YouTube") | In this episode, we briefly go over slider stream jumps one of the newer patterns in mapping! |
 | ![](img/bytes-7.png) | [Episode 7](https://www.youtube.com/watch?v=oaIWbuEihZk "YouTube") | In this episode, we are going to take a look into variable streams and where to use them! |
+
 ## External Links
 
 - [Source](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
