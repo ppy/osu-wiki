@@ -7,6 +7,7 @@ tags:
   - mod
   - game modifier
   - 遊戲 Mod
+no_native_review: true
 ---
 
 # Fade Out (Mod)
