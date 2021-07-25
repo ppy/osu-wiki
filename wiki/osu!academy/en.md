@@ -78,7 +78,7 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 | Episode Thumbnail | Link | Description |
 | :-- | :-- | :-- |
 | ![](img/lapse-1.png) | [Episode 1](https://youtu.be/nP3jepiQslg "YouTube") | In this episode, we go over the  time lapse mapping of the Insane difficulty of [Miqz - Sound of my Dream!](https://osu.ppy.sh/beatmapsets/245877#osu/566538) |
-| ![](img/lapse-2.png) | [Episode 2](https://youtu.be/ECBMHNVGucM "YouTube") | In this episode, we look at the  time lapse mapping of the Hard difficulty of [Miqz - Sound of my Dream!](https://osu.ppy.sh/beatmapsets/245877#osu/603075)|
+| ![](img/lapse-2.png) | [Episode 2](https://youtu.be/ECBMHNVGucM "YouTube") | In this episode, we look at the  time lapse mapping of the Hard difficulty of [Miqz - Sound of my Dream!](https://osu.ppy.sh/beatmapsets/245877#osu/603075) |
 | ![](img/lapse-3.png) | [Episode 3](https://youtu.be/3OM8AgzIFAY "YouTube") | In this episode, we go over the  time lapse mapping of the Normal difficulty of [Miqz - Sound of my Dream!](https://osu.ppy.sh/beatmapsets/245877#osu/632389) |
 | ![](img/lapse-4.png) | [Episode 4](https://youtu.be/NZ4oE_Xe51Q "YouTube") | In this episode, we visit the  time lapse mapping of the Easy difficulty of [Miqz - Sound of my Dream!](https://osu.ppy.sh/beatmapsets/245877#osu/643621) |
 | ![](img/lapse-5.png) | [Episode 5](https://youtu.be/phFJRXp0O5o "YouTube") | In this episode, [Chromoxx](https://osu.ppy.sh/users/1881639) takes us on a journey of time lapse mapping the Oni difficulty of Circles! |
