@@ -29,7 +29,7 @@ Mod **Perfect** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujua
 
 Hal-hal berikut akan **menyebabkan** mod Perfect untuk mengulangi betamap:
 
-- Meleset dalam mengenai sebuah note
+- Meleset dalam mengenai sebuah not
 - Mendapatkan sebuah `100` atau `50`
 - Gagal menyelesaikan sebuah spinner sepenuhnya
 - *Sliderbreaking* 
