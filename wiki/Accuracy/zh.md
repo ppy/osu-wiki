@@ -1,14 +1,7 @@
-<!-- TODO: needs to be combined with /wiki/Gameplay/Accuracy in some way -->
 
 # 准确度
 
-<!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
-
-准确度是对玩家准时击中[物件](/wiki/Hit_object)的能力的百分数评估。
-玩家有三种准确度：
-谱面的准确度，这取决于所得的命中分数；
-总准确度，它是为让更好的得分更加突出而权衡的；
-[Performance Points (pp)](/wiki/Performance_Points)准确度，它取决于提交的得分的准确度。
+准确度是对玩家准时击中[物件](/wiki/Hit_object)的能力的百分数评估。玩家有三种准确度：谱面的准确度，这取决于所得的命中分数；总准确度，它是为让更好的得分更加突出而权衡的；[Performance Points (pp)](/wiki/Performance_Points)准确度，它取决于提交的得分的准确度。
 
 ## 游戏模式
 
@@ -31,9 +24,7 @@
 
 ![准确度 = 0.5(GOOD的数量 + GREAT的数量) / (BAD的数量 + GOOD的数量 + GREAT的数量)](img/accuracy_taiko.png "osu!taiko的准确度公式")
 
-在 osu!taiko 中，准确度以物件准确度（击打物件时的时间差）除以已计分的物件总量计算。
-物件准确度被归类为 GREAT (良) (记为100%)，GOOD (可) (记为50%，也就是一半)，
-以及 MISS/BAD (不可) (记为0%, 且会打断combo)。Drum rolls 和 spinners 不影响准确度。
+在 osu!taiko 中，准确度以物件准确度（击打物件时的时间差）除以已计分的物件总量计算。物件准确度被归类为 GREAT (良) (记为100%)，GOOD (可) (记为50%，也就是一半)，以及 MISS/BAD (不可) (记为0%, 且会打断combo)。Drum rolls 和 spinners 不影响准确度。
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -45,7 +36,7 @@
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-![准确度 = (50 \* 50的数量 + 100 \* 100的数量 + 200 \* 200的数量 + 300 \* 300的数量 + 300 \* MAX的数量) / 300(0的数量 + 50的数量 + 100的数量 + 200的数量 + 300的数量 + MAX的数量)](img/accuracy_mania.png "Accuracy formula for osu!mania")
+![准确度 = (50 \* 50的数量 + 100 \* 100的数量 + 200 \* 200的数量 + 300 \* 300的数量 + 300 \* MAX的数量) / 300(0的数量 + 50的数量 + 100的数量 + 200的数量 + 300的数量 + MAX的数量)](img/accuracy_mania.png "osu!mania的准确度公式")
 
 在 osu!mania 中, 准确度计算方式类似 [osu!](#-osu!)。
 
@@ -75,7 +66,7 @@
 
 *注: Spin 仅被用在 [osu! 游戏模式](/wiki/Game_mode/osu!)中。*
 
-除准确度外，一些关于转盘的其它信息在该提示框内 <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
+除准确度外，一些关于转盘的其它信息在该提示框内
 
 #### Speed
 
