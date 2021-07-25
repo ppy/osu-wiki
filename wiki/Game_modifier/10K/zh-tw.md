@@ -5,6 +5,7 @@ tags:
   - mod
   - game modifier
   - 遊戲 Mod
+no_native_review: true
 ---
 
 # 10K (Mod)
