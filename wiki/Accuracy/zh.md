@@ -63,7 +63,7 @@
 
 ### Spin
 
-*注: Spin 仅被用在 [osu! 游戏模式](/wiki/Game_mode/osu!)中。*
+*注: Spin 仅用于 [osu! 游戏模式](/wiki/Game_mode/osu!)。*
 
 除准确度外，一些关于转盘的其它信息在该提示框内
 
