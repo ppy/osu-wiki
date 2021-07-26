@@ -211,7 +211,7 @@ Friday, 23 July 2021:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | [Pyrozen](https://osu.ppy.sh/users/3031177) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | *win by default* |
-| Upper | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638)**  | [#1](https://osu.ppy.sh/community/matches/87920148) |
+| Upper | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/87920148) |
 
 Saturday, 24 July 2021:
 
