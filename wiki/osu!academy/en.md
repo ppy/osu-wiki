@@ -73,7 +73,7 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 
 ## Time Lapse Mapping
 
-**[Time Lapse Mapping](https://www.youtube.com/playlist?list=PLmWVQsxi34bO7PAmjWZjVDi16pAy-GRBP "YouTube")** is a collection of videos made by [ztrot](https://osu.ppy.sh/users/6347) and a few other mappers from different game modes where they timelapse their long mapping sessions into shorter ones for us to see and enjoy!
+**[Time Lapse Mapping](https://www.youtube.com/playlist?list=PLmWVQsxi34bO7PAmjWZjVDi16pAy-GRBP "YouTube")** is a series of videos hosted by [ztrot](https://osu.ppy.sh/users/6347) and several mappers from different game modes, where they explain the process of creating beatmaps with a sped-up mapping session in the background.
 
 | Episode Thumbnail | Link | Description |
 | :-- | :-- | :-- |
