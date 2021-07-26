@@ -5,11 +5,11 @@ tags:
   - skins
 ---
 
-# Skinning Contest
+# Skinning Contest #1
 
-![Skinning Contest Banner](img/banner.jpg)
+![Skinning Contest #1 Banner](img/banner.jpg)
 
-The **Skinning Contest** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz/ "skinship"), one of the largest skinning communities on osu!. This is the first official osu! skinning contest, and the initial iteration of Skinning Contests hosted by skinship.
+The **Skinning Contest #1** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz/ "skinship"), one of the largest skinning communities on osu!. This is the first official osu! skinning contest, and the initial iteration of Skinning Contests hosted by skinship.
 
 ## Contest schedule
 
@@ -25,8 +25,8 @@ The **Skinning Contest** is a free-for-all osu! skinning contest hosted by [skin
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu! supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu! supporter, unique profile badge |
 
 ## Organisation
 
@@ -47,6 +47,7 @@ The Skinning Contest is run by various community members.
 - [**Contest page**](https://osu.ppy.sh/community/contests/126)
 - [Announcement newspost](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement)
 - [Voting Open newspost](https://osu.ppy.sh/home/news/2021-04-29-skinning-contest-voting-open)
+- [Results Out newspost](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1266342)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1266324)
 - [Discord server](https://discord.skinship.xyz/)
@@ -87,6 +88,12 @@ The Skinning Contest is run by various community members.
 | ![][flag_MX] [xet](https://osu.ppy.sh/users/16274977) | [Who Tao](https://osu.ppy.sh/community/forums/topics/1281532) |
 | ![][flag_PH] [Xyber Voltage](https://osu.ppy.sh/users/10443089) | [FreeMod is EZ](https://osu.ppy.sh/community/forums/topics/1269099) |
 | ![][flag_MX] [ZixkyST](https://osu.ppy.sh/users/11844975) | [ZixStar](https://osu.ppy.sh/community/forums/topics/1278132) |
+
+## Podium
+
+*For full results, see the [contest page](https://osu.ppy.sh/community/contests/126).*
+
+![Skinning Contest #1 Podium](img/podium.png)
 
 ## Rules
 
