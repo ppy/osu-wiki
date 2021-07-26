@@ -77,9 +77,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] **[ReeyaDono](https://osu.ppy.sh/users/10969698)** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] **[Lindaine](https://osu.ppy.sh/users/4572717)** |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
 
 ## Mappools
 

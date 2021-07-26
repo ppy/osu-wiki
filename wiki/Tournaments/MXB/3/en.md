@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [A M D](https://osu.ppy.sh/users/5321112) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [shizehao](https://osu.ppy.sh/users/4928674) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [Yutto007](https://osu.ppy.sh/users/10269172) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] [A M D](https://osu.ppy.sh/users/5321112) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [Yutto007](https://osu.ppy.sh/users/10269172) |
 
 ## Mappools
 

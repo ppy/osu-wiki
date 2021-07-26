@@ -82,17 +82,17 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] Mathyu |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] Darin on osu |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] Kenny |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) |
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] Zushen |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] Ecal |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] Ouchiee |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
 
 ## Mappools
 
