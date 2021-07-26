@@ -204,6 +204,28 @@ Listed below are players who qualified into the Group stage (along with their re
 
 ## Match results
 
+### Semifinals
+
+Friday, 23 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Pyrozen](https://osu.ppy.sh/users/3031177) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | *win by default* |
+| Upper | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638)**  | [#1](https://osu.ppy.sh/community/matches/87920148) |
+
+Saturday, 24 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Pyrozen](https://osu.ppy.sh/users/3031177) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148)** | *win by default* |
+| Lower | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 2 | **6** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/87979007) |
+
+Sunday, 25 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/88031955) |
+
 ### Quarterfinals
 
 Friday, 16 July 2021:
