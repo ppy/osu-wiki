@@ -38,7 +38,7 @@ En général, ces problèmes se résolvent d'eux-mêmes en quelques heures, et n
 
 Si cela fait plus de 24 heures et que vous n'avez toujours pas votre tag de supporter, veuillez envoyer un courriel à [support@ppy.sh](mailto:support@ppy.sh) et nous faire part de votre problème.
 
-Veillez à inclure tous les reçus que vous avez reçus au cours du processus (identifiants de transaction PayPal, reçus Xsolla, etc.) - ils nous aident beaucoup à retrouver ce qui est arrivé à votre paiement !
+Veillez à inclure tous les reçus que vous avez pu avoir au cours du processus (identifiants de transaction PayPal, reçus Xsolla, etc.) - ils nous aident beaucoup à retrouver ce qui est arrivé à votre paiement !
 
 ## Restriction
 
@@ -50,7 +50,7 @@ Si votre compte a été restreint, vous saurez probablement pourquoi après une 
 
 Dans les situations où nous sommes absolument sûrs qu'un acte répréhensible a eu lieu, nous vous demanderons d'attendre une période de **trois mois** à partir de la date de votre dernière infraction avant de considérer un appel de votre part pour vous laisser revenir sur le jeu.
 
-Consultez *[Restrictions du compte](/wiki/Help_Centre/Account_Restrictions)* pour plus d'informations sur les restrictions de compte et la procédure d'appel.
+Consultez *[Restrictions du compte](/wiki/Help_Centre/Account_Restrictions)* pour plus d'informations sur les restrictions de comptes et la procédure d'appel.
 
 ## Connexion
 
@@ -155,7 +155,7 @@ Si ce joueur a joué au moins une partie parmi tous les modes de jeu, une [fonct
 
 **Oui, mais seulement dans certaines circonstances.**
 
-Nous accordons aux utilisateurs de retourner gratuitement à leur précédent nom d'utilisateur. Il suffit de nous contacter à l'addresse [accounts@ppy.sh](mailto:accounts@ppy.sh) et de demander l'annulation de votre dernier changement de nom.
+Nous accordons aux utilisateurs de retourner gratuitement à leur précédent nom d'utilisateur. Il suffit de nous contacter à l'adresse [accounts@ppy.sh](mailto:accounts@ppy.sh) et de demander l'annulation de votre dernier changement de nom.
 
 Le retour à tout autre nom d'utilisateur antérieur doit être [acheté via le magasin](https://osu.ppy.sh/store/products/32).
 
@@ -231,6 +231,6 @@ Si vous jouez depuis un lieu public, veillez à surveiller de près la sécurit�
 
 **Vous pouvez voir toutes les beatmaps que vous avez jouées sur le site web.**
 
-**Si vous avez un tag de supporter actif**, vous pouvez voir toutes les maps sur lesquelles vous avez envoyé un score en allant sur la page [liste des beatmaps](https://osu.ppy.sh/beatmapsets), en cliquant sur `Plus de critères de recherche`, puis en sélectionnant le filtre `Jouée`. Vous pouvez également utiliser [ce lien](https://osu.ppy.sh/beatmapsets?played=played) pour accéder directement à la page filtrée.
+**Si vous avez un tag de supporter actif**, vous pouvez voir toutes les maps sur lesquelles vous avez un score en allant sur la page [liste des beatmaps](https://osu.ppy.sh/beatmapsets), en cliquant sur `Plus de critères de recherche`, puis en sélectionnant le filtre `Jouée`. Vous pouvez également utiliser [ce lien](https://osu.ppy.sh/beatmapsets?played=played) pour accéder directement à la page filtrée.
 
-Malheureusement, nous ne gardons pas de traces de toutes les maps qu'un utilisateur a téléchargées, il est donc impossible d'en obtenir une liste. Le plus proche que vous puissiez faire serait d'utiliser le filtre susmentionné pour récupérer au moins les maps que vous avez déjà joué.
+Malheureusement, nous ne gardons pas de traces de toutes les maps qu'un utilisateur a téléchargées, il est donc impossible d'en obtenir une liste. Le mieux que vous puissiez faire serait d'utiliser le filtre susmentionné pour récupérer au moins les maps que vous avez déjà joué.

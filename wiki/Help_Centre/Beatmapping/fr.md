@@ -28,7 +28,7 @@ Pour télécharger votre beatmap, allez dans l'éditeur et allez dans `Fichier` 
 
 Votre beatmap pourra ainsi être téléchargée sur le site web. La mise à jour d'une map est le même processus que pour une map déjà téléchargée.
 
-Chaque utilisateur a un nombre limité de maps qu'il peut télécharger simultanément. Si vous laissez une map inactive pendant un mois (28 jours), sans la mettre à jour, elle sera envoyée au [Cimetière](/wiki/Graveyard) des beatmaps. Pour faire revivre une beatmap du cimetière dans un statut En attente ou Work In Progress, mettez-la à jour.
+Chaque utilisateur a un nombre limité de maps qu'il peut publier simultanément. Si vous laissez une map inactive pendant un mois (28 jours), sans la mettre à jour, elle sera envoyée au [Cimetière](/wiki/Graveyard) des beatmaps. Pour faire revivre une beatmap du cimetière dans un statut En attente ou Work In Progress, mettez-la à jour.
 
 ## L'éditeur me dit : "Vous n'êtes pas le propriétaire de la beatmap que vous essayez de publier !"
 
