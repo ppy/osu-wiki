@@ -1,5 +1,6 @@
 ---
 stub: true
+no_native_review: true
 ---
 
 # 位元率
