@@ -64,9 +64,9 @@
 
 #### Timing（时间校对）
 
-| 提供信息                       | 说明 | 解决方案                                       |
-| :----------------------------- | :--- | :--------------------------------------------- |
-| 所有Timing区间的音量都低于5%。 | -    | 至少将一个计时部分上的hitsound音量调整到5%以上 |
+| 提供信息                       | 说明             | 解决方案                                       |
+| :----------------------------- | :--------------- | :--------------------------------------------- |
+| 所有Timing区间的音量都低于5%。 | *如提供信息所示* | 至少将一个计时部分上的hitsound音量调整到5%以上 |
 
 #### Meta（元信息）
 
@@ -80,15 +80,15 @@
 
 | 提供信息                                              | 说明                                                         | 解决方案                                       |
 | :---------------------------------------------------- | :----------------------------------------------------------- | :--------------------------------------------- |
-| <!-- 我不知道这该如何测试 -->这个滑条的路径不太正常。 | -                                                            | -                                              |
-| Slider 的点数多得离谱！                               | -                                                            | 删除一些点数                                   |
+| <!-- 我不知道这该如何测试 -->这个滑条的路径不太正常。 |                                                              |                                                |
+| Slider 的点数多得离谱！                               | *如提供信息所示*                                             | 删除一些点数                                   |
 | Combo很长，可以考虑断开。                             | 更多的连打长度可能会影响图的难度                             | 擅长使用New Combo并决定从哪里开始使用New Combo |
 | 物件尾部超出屏幕了！                                  | 在4:3比例下运行osu!clients是不可能看到屏幕外的物件           | 移动或删除物件尾部                             |
 | 物件超出屏幕了！                                      | 载4:3比例下运行osu!clients是不可能看到屏幕外的物件           | 移动或删除物件                                 |
 | 物件离前一个物件的距离太近。                          | 选中"Check distance snap"的时候                              | 调整物件位置                                   |
 | 物件离前一个物件的距离太远。                          | 选中"Check distance snap"的时候                              | 调整物件位置                                   |
 | 这个转盘太短了。必须让auto君能转出1000分以上的加分。  | 转盘时间太短，在477转速的情况下是无法做到Clear，甚至会影响获得SS评价 | 将问题转盘时间调长                             |
-| 转盘必须设置新combo。                                 | -                                                            | -                                              |
+| 转盘必须设置新combo。                                 |                                                              |                                                |
 | 物件没有对齐时间轴！                                  | 物件没有对齐时间轴                                           | 请检查timing设置，可能是timing设置错误的原因   |
 | 物件结尾没有对齐时间轴！                              | 物件结尾没有对齐时间轴                                       | 请检查timing设置，可能是timing设置错误的原因   |
 
@@ -96,47 +96,47 @@
 
 | 提供信息                                                     | 说明                               | 解决方案                                                     |
 | :----------------------------------------------------------- | :--------------------------------- | :----------------------------------------------------------- |
-| <!-- 什么鬼 我居然没在语言文件上找到这个翻译 -->Background image is larger than 2560x1440. | -                                  | 换个小的图片                                                 |
+| <!-- 什么鬼 我居然没在语言文件上找到这个翻译 -->Background image is larger than 2560x1440. | *如提供信息所示*                   | 换个小的图片                                                 |
 | 包含快速闪烁的storyboard，可能需要设置闪光警告（epilepsy warning） | 检测到storyboard含有快速闪烁的画面 | 在 [song setup](/wiki/Beatmap_Editor/Song_Setup)上启用启用 `Display epilepsy warning (storyboard has quick strobing)` . |
-| <!-- Not sure how to test this one -->{0}的尺寸必须是{1}×{1}。 | -                                  | -                                                            |
-| 4:3比例的视频尺寸不能超过1024×768。                          | -                                  | 改视频的大小或者换另一个视频                                 |
-| 16:9比例的视频尺寸不能超过1280×720。                         | -                                  | 改视频的大小或者换另一个视频                                 |
+| <!-- Not sure how to test this one -->{0}的尺寸必须是{1}×{1}。 |                                    |                                                              |
+| 4:3比例的视频尺寸不能超过1024×768。                          | *如提供信息所示*                   | 改视频的大小或者换另一个视频                                 |
+| 16:9比例的视频尺寸不能超过1280×720。                         | *如提供信息所示*                   | 改视频的大小或者换另一个视频                                 |
 
 #### Timing（时间校对）
 
 | 提供信息                                                     | 说明             | 解决方案                                                     |
 | :----------------------------------------------------------- | :--------------- | :----------------------------------------------------------- |
-| 谱面超过6分钟。如果不打算做马拉松（Marathon）图，可以缩短一点。 | -                | -                                                            |
-| 谱面短于45秒。考虑做长一点。                                 | -                | -                                                            |
-| <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file (大意:AiMod不行)-->MP3的码率高于192kbps。考虑重新编码成CBR 192kbps或者VBR 1.0左右。 | -                | -                                                            |
-| <!-- Same as above -->MP3的码率低于128kbps。考虑换个音质更好的。 | -                | -                                                            |
-| Kiai时间短于15秒。                                           | -                | Kiai的持续时间延长到15秒以上（甚至Kiai结束到下一个Kiai的间隔） |
-| 音频文件比谱面长很多。可以切掉没有做图的部分来减小文件大小。 | -                | 裁剪音频                                                     |
-| Kiai时间需要有一个结束点。                                   | -                | 创建个Timing区间然后禁用Kiai效果                             |
-| 没有设置音频预览时间。可以在功能表的Timing选单里面设置。     | -                | -                                                            |
-| 同一时间有两个Timing点（红线）！                             | -                | -                                                            |
-| {1}个计时段中有{0}个的音量低于5%。                           | -                | -                                                            |
-| 这个图超过1/3的时间是Kiai时间。可以缩短一些。                | -                | -                                                            |
-| 这个TV Size的图超过1/2的时间是Kiai时间。可以缩短一些。       | -                | -                                                            |
-| Kiai开始时间没有对齐时间轴！                                 | -                | -                                                            |
-| Kiai结束时间没有对齐时间轴！                                 | -                | -                                                            |
+| 谱面超过6分钟。如果不打算做马拉松（Marathon）图，可以缩短一点。 |                  |                                                              |
+| 谱面短于45秒。考虑做长一点。                                 |                  |                                                              |
+| MP3的码率高于192kbps。考虑重新编码成CBR 192kbps或者VBR 1.0左右。 |                  |                                                              |
+| <!-- Same as above -->MP3的码率低于128kbps。考虑换个音质更好的。 |                  |                                                              |
+| Kiai时间短于15秒。                                           | *如提供信息所示* | Kiai的持续时间延长到15秒以上（甚至Kiai结束到下一个Kiai的间隔） |
+| 音频文件比谱面长很多。可以切掉没有做图的部分来减小文件大小。 | *如提供信息所示* | 裁剪音频                                                     |
+| Kiai时间需要有一个结束点。                                   |                  | 创建个Timing区间然后禁用Kiai效果                             |
+| 没有设置音频预览时间。可以在功能表的Timing选单里面设置。     |                  |                                                              |
+| 同一时间有两个Timing点（红线）！                             |                  |                                                              |
+| {1}个计时段中有{0}个的音量低于5%。                           |                  |                                                              |
+| 这个图超过1/3的时间是Kiai时间。可以缩短一些。                |                  |                                                              |
+| 这个TV Size的图超过1/2的时间是Kiai时间。可以缩短一些。       |                  |                                                              |
+| Kiai开始时间没有对齐时间轴！                                 |                  |                                                              |
+| Kiai结束时间没有对齐时间轴！                                 |                  |                                                              |
 | osu!mania图中不建议设置休息时间。                            | 仅osu!mania 模式 | 在休息时间插入notes                                          |
-| <!-- Can't confirm -->Easy/Normal难度中变速太多              | 仅osu!mania 模式 | -                                                            |
-| <!-- Can't confirm -->Kiai时间的开关次数太多了！             | 仅osu!Taiko 模式 | -                                                            |
+| <!-- Can't confirm -->Easy/Normal难度中变速太多              | 仅osu!mania 模式 |                                                              |
+| <!-- Can't confirm -->Kiai时间的开关次数太多了！             | 仅osu!Taiko 模式 |                                                              |
 
 #### Meta（元信息）
 
 | 提供信息                                                     | 说明                    | 解决方案                                                     |
 | :----------------------------------------------------------- | :---------------------- | :----------------------------------------------------------- |
 | 堆叠判定值（stack leniency）高于0.9或低于0.3。               | 将堆叠判定值设置为2或10 | 建议设置为3和9之间                                           |
-| <!-- editor removes any unicode automatically, but this warning probably still exists -->作者名（罗马拼音）包含非ASCII字符。 | -                       | -                                                            |
-| <!-- editor removes any unicode automatically, but this warning probably still exists -->标题名（罗马拼音）包含非ASCII字符。 | -                       | -                                                            |
+| <!-- editor removes any unicode automatically, but this warning probably still exists -->作者名（罗马拼音）包含非ASCII字符。 |                         |                                                              |
+| <!-- editor removes any unicode automatically, but this warning probably still exists -->标题名（罗马拼音）包含非ASCII字符。 |                         |                                                              |
 | osu!mania模式不允许使用倒计时（countdown）。                 | 仅osu!mania 模式        | 取消勾选"Song setup"里的"Design" 栏里`Enable countdown`      |
 | osu!mania模式不允许使用黑边（letterbox）。                   | 仅osu!mania 模式        | 取消勾选"Song setup"里的"Design" 栏里`Letterbox during breaks` |
 | 建议OD（总体）至少为5。                                      | 仅osu!mania 模式        | 在Song setup中"Difficulty"选项卡里的`Overall Difficulty`设置为5或更高 |
-| 建议滑条较少的图OD（总体难度）至少为7。                      | 仅osu!mania 模式        | -                                                            |
-| <!-- Both seem to occur, not sure what changes the value -->建议滑条极少的图OD（总体难度）至少为8。 | 仅osu!mania 模式        | -                                                            |
-| <!-- potential removal? tried using countdown on taiko maps, and aimod does not complain -->太鼓模式不允许使用倒计时（countdown）。 | 仅osu!taiko模式         | -                                                            |
+| 建议滑条较少的图OD（总体难度）至少为7。                      | 仅osu!mania 模式        |                                                              |
+| <!-- Both seem to occur, not sure what changes the value -->建议滑条极少的图OD（总体难度）至少为8。 | 仅osu!mania 模式        |                                                              |
+| <!-- potential removal? tried using countdown on taiko maps, and aimod does not complain -->太鼓模式不允许使用倒计时（countdown）。 | 仅osu!taiko模式         |                                                              |
 | <!-- same as above -->太鼓模式不允许使用闪光警告（epilepsy warning）。 | 仅osu!taiko模式         | 取消勾选"Song setup"里的"Design" 栏里`Display epilepsy warning (storyboard has quick strobing)` |
 | 太鼓模式不允许使用黑边（letterbox）。                        | 仅osu!taiko模式         | 取消勾选"Song setup"里的"Design" 栏里`Letterbox during breaks` |
 
@@ -144,21 +144,21 @@
 
 | 提供信息                                                    | 说明                       | 解决方案                                                    |
 | :---------------------------------------------------------- | :------------------------- | :---------------------------------------------------------- |
-| 英文（Romanzied）的艺术家名与{0}难度不同。                  | -                          | -                                                           |
-| 音频文件与{0}难度不同。                                     | -                          | -                                                           |
-| 倒计时设置与{0}难度不同。                                   | -                          | -                                                           |
-| 前奏长度与{0}难度不同。                                     | -                          | -                                                           |
-| 暂停时间的黑边（letterbox）设置与{0}难度不同。              | -                          | -                                                           |
-| 音频预览时间与{0}难度不同。                                 | -                          | -                                                           |
-| 来源（Source）名与{0}难度不同。                             | -                          | -                                                           |
-| 标签（Tag）与{0}难度不同。                                  | -                          | -                                                           |
-| 英文（Romanzied）的标题名与{0}难度不同。                    | -                          | -                                                           |
-| 艺术家（Unicode artist）名与{0}难度不同。                   | -                          | -                                                           |
-| 标题(Unicode title)名与{0}难度不同。                        | -                          | -                                                           |
-| This mapset cannot have an Insane diff without a Hard diff. | -                          | -                                                           |
+| 英文（Romanzied）的艺术家名与{0}难度不同。                  |                            |                                                             |
+| 音频文件与{0}难度不同。                                     |                            |                                                             |
+| 倒计时设置与{0}难度不同。                                   |                            |                                                             |
+| 前奏长度与{0}难度不同。                                     |                            |                                                             |
+| 暂停时间的黑边（letterbox）设置与{0}难度不同。              |                            |                                                             |
+| 音频预览时间与{0}难度不同。                                 |                            |                                                             |
+| 来源（Source）名与{0}难度不同。                             |                            |                                                             |
+| 标签（Tag）与{0}难度不同。                                  |                            |                                                             |
+| 英文（Romanzied）的标题名与{0}难度不同。                    |                            |                                                             |
+| 艺术家（Unicode artist）名与{0}难度不同。                   |                            |                                                             |
+| 标题(Unicode title)名与{0}难度不同。                        |                            |                                                             |
+| This mapset cannot have an Insane diff without a Hard diff. |                            |                                                             |
 | Beatmap exceeds allowed upload size ({0}kb allowed)         | 难度文件 `.osz` 过大       | 这可能是因为地图没有做到5%导致的。或者真的就是beatmap太大了 |
-| This mapset needs an easier difficulty                      | -                          | 新建个新难度 并确保新难度等级不能超过Hard                   |
-| This mapset is missing diff: {0}                            |                            | -                                                           |
+| This mapset needs an easier difficulty                      |                            | 新建个新难度 并确保新难度等级不能超过Hard                   |
+| This mapset is missing diff: {0}                            |                            |                                                             |
 | This mapset needs at least 2 osu!catch diffs.               | 仅 osu!catch 模式          | 新建个新难度                                                |
 | 图集中需要包含Easy或Normal难度。                            |                            | 新建个新难度 并确保新难度等级不能超过Hard                   |
 | 图集中至少需要两个osu!mania模式的难度。                     | 仅osu!mania 模式           | 新建个新难度                                                |
