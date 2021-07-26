@@ -2,6 +2,7 @@
 stub: true
 tags:
   - history
+no_native_review: true
 ---
 
 # 更新日誌
