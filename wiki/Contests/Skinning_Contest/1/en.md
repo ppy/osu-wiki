@@ -7,9 +7,9 @@ tags:
 
 # Skinning Contest #1
 
-![Skinning Contest #1 Banner](img/banner.jpg)
+![Skinning Contest #1 banner](img/banner.jpg)
 
-The **Skinning Contest #1** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz/ "skinship"), one of the largest skinning communities on osu!. This is the first official osu! skinning contest, and the initial iteration of Skinning Contests hosted by skinship.
+The **Skinning Contest #1** was a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz "skinship"), one of the largest skinning communities on osu!. It was the first official osu! skinning contest, and the initial iteration of Skinning Contests hosted by skinship.
 
 ## Contest schedule
 
@@ -30,28 +30,28 @@ The **Skinning Contest #1** is a free-for-all osu! skinning contest hosted by [s
 
 ## Organisation
 
-The Skinning Contest is run by various community members.
+The Skinning Contest #1 was run by various community members.
 
-| Member | Responsibility |
+| User | Responsibility |
 | :-- | :-- |
 | ![][flag_DE] [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning |
 | ![][flag_RO] [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning, graphic design |
 | ![][flag_NL] [Roan](https://osu.ppy.sh/users/8214639) | Contest planning |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening, showcase preparations |
 | ![][flag_GB] [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning, showcase preparations |
-| ![][flag_PL] [watterino](https://osu.ppy.sh/users/3512261) | Video editor, showcase preparations |
 | ![][flag_NL] [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
+| ![][flag_PL] [watterino](https://osu.ppy.sh/users/3512261) | Video editor, showcase preparations |
 
 ## Links
 
-- [**Contest page**](https://osu.ppy.sh/community/contests/126)
+- **[Contest page](https://osu.ppy.sh/community/contests/126)**
 - [Announcement newspost](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement)
 - [Voting Open newspost](https://osu.ppy.sh/home/news/2021-04-29-skinning-contest-voting-open)
 - [Results Out newspost](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1266342)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1266324)
-- [Discord server](https://discord.skinship.xyz/)
-- [Official website](https://skinship.xyz/)
+- [Discord server](https://discord.gg/q8Z5JXM "Discord")
+- [Official website](https://skinship.xyz "skinship")
 
 ## Participants
 
@@ -93,9 +93,9 @@ The Skinning Contest is run by various community members.
 
 *For full results, see the [contest page](https://osu.ppy.sh/community/contests/126).*
 
-![Skinning Contest #1 Podium](img/podium.png)
+![](img/podium.png "Skinning Contest #1 podium")
 
-## Rules
+## Ruleset
 
 - Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/Rules).
 - All assets need to be created by yourself, or used with permission and proper credit to the authors. This includes, but is not limited to:
