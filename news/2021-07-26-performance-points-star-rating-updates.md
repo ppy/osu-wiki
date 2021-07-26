@@ -93,10 +93,10 @@ Additionally, these changes slightly reduce aim skill rewards in the case of wid
 
 A few notes as to how to interpret the plot:
 
-* The angular axis represents the angle between two consecutive movements performed by a player who is jumping between three hitcircles.
-* The radial axis represents the normalised distance between the hitcircles.
+- The angular axis represents the angle between two consecutive movements performed by a player who is jumping between three hitcircles.
+- The radial axis represents the normalised distance between the hitcircles.
   For simplicity the graph assumes that the two movements are of the same length (but the real implementation also factors in differing distances).
-* The bonus also has a timing-based component not shown above. On the plot above it is assumed that the timing factor is minimal (and so the angle bonus is the biggest it can be)
+- The bonus also has a timing-based component not shown above. On the plot above it is assumed that the timing factor is minimal (and so the angle bonus is the biggest it can be)
 
 ---
 
@@ -104,9 +104,7 @@ The changes listed above will all go into effect **immediately**. This is import
 
 If you're just after the juicy details on what affects you today, you can safely skip the rest of this article. If you're interested in some formative groundwork for the future and have the skills to implement and fiddle with them in code, read on.
 
-Note: the following changes only affect osu!lazer for now.
-
-## Star rating
+Note: the following changes only affect osu!lazer and **star rating** for now.
 
 ### osu!mania: Improved accuracy of lazer difficulty calculation
 
@@ -122,9 +120,9 @@ As community members explore new ideas in the domain of difficulty and performan
 
 Long-term contributor [**Syrin**](https://osu.ppy.sh/users/5701575) has made great strides in revamping this process for the benefit of anyone interested in creating their own rulesets in the changes listed below:
 
-* [Skills now receive a list of active mods](https://github.com/ppy/osu/pull/11687), which will allow their creators to very easily create mod-specific adjustments in the future. Notably, this new capability has already been utilized to [clean up existing osu!catch star rating calculations](https://github.com/ppy/osu/pull/11857).
-* Skills were previously hard limited in how many objects they could operate on. [A new change](https://github.com/ppy/osu/pull/11688) allows rules to now manually specify directly how many objects they can act on in relation to any one object, allowing for much more robust algorithms to be developed.
-* Previous skills implementations were intrinsically coupled to the concept of strain. [Two](https://github.com/ppy/osu/pull/11689) [changes](https://github.com/ppy/osu/pull/11690) have removed this limitation entirely, meaning that ruleset developers can more readily explore skill concepts that may have absolutely no concept of strain whatsoever. This has been a long-running issue in the osu-performance scene, with changes like [the most recent taiko star rating adjustments](https://osu.ppy.sh/home/news/2020-09-15-changes-to-osutaiko-star-rating) needing to work around this issue in the past.
+- [Skills now receive a list of active mods](https://github.com/ppy/osu/pull/11687), which will allow their creators to very easily create mod-specific adjustments in the future. Notably, this new capability has already been utilized to [clean up existing osu!catch star rating calculations](https://github.com/ppy/osu/pull/11857).
+- Skills were previously hard limited in how many objects they could operate on. [A new change](https://github.com/ppy/osu/pull/11688) allows rules to now manually specify directly how many objects they can act on in relation to any one object, allowing for much more robust algorithms to be developed.
+- Previous skills implementations were intrinsically coupled to the concept of strain. [Two](https://github.com/ppy/osu/pull/11689) [changes](https://github.com/ppy/osu/pull/11690) have removed this limitation entirely, meaning that ruleset developers can more readily explore skill concepts that may have absolutely no concept of strain whatsoever. This has been a long-running issue in the osu-performance scene, with changes like [the most recent taiko star rating adjustments](https://osu.ppy.sh/home/news/2020-09-15-changes-to-osutaiko-star-rating) needing to work around this issue in the past.
 
 In summary, ruleset creators now have considerably more fine-grained control over their scoring than they did in the past, and this can only be good for the game in the long run.
 
