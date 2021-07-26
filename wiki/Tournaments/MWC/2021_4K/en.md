@@ -50,6 +50,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)
 - [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [pick'ems page](https://pickem.hwc.hr/tournaments/67) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
