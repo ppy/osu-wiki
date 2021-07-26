@@ -9,7 +9,7 @@ tags:
 
 ![Skinning Contest #1 banner](img/banner.jpg)
 
-The **Skinning Contest #1** was a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz "skinship"), one of the largest skinning communities on osu!. It was the first official osu! skinning contest, and the initial iteration of Skinning Contests hosted by skinship.
+The **Skinning Contest #1** was a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz "skinship"), one of the largest skinning communities on osu!. It was the first official osu! skinning contest, and the first iteration of Skinning Contests hosted by skinship.
 
 ## Contest schedule
 
@@ -28,7 +28,7 @@ The **Skinning Contest #1** was a free-for-all osu! skinning contest hosted by [
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu! supporter, unique profile badge |
 
-![Winner profile badge](img/badge-winner.png "Skinning Contest #1 Winner") ![2nd place profile badge](img/badge-2nd.png "Skinning Contest #1 2nd place") ![3rd place profile badge](img/badge-3rd.png "Skinning Contest #1 3rd place")
+![](img/badge-winner.png "Skinning Contest #1 winner badge") ![](img/badge-2nd.png "Skinning Contest #1 2nd place badge") ![](img/badge-3rd.png "Skinning Contest #1 3rd place badge")
 
 ## Organisation
 
@@ -52,7 +52,7 @@ The Skinning Contest #1 was run by various community members.
 - [Results Out newspost](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1266342)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1266324)
-- [Discord server](https://discord.gg/q8Z5JXM "Discord")
+- [Discord server](https://discord.skinship.xyz "skinship")
 - [Official website](https://skinship.xyz "skinship")
 
 ## Participants
