@@ -26,7 +26,7 @@ The **Skinning Contest #1** was a free-for-all osu! skinning contest hosted by [
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, unique profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu! supporter, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, unique profile badge |
 
 ![](img/badge-winner.png "Skinning Contest #1 winner badge") ![](img/badge-2nd.png "Skinning Contest #1 2nd place badge") ![](img/badge-3rd.png "Skinning Contest #1 3rd place badge")
 
