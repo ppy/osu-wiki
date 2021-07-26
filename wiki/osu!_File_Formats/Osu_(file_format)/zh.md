@@ -80,7 +80,7 @@
 | `CircleSize` | 小数 | CS 设置 (0–10) |
 | `OverallDifficulty` | 小数 | OD 设置 (0–10) |
 | `ApproachRate` | 小数 | AR 设置 (0–10) |
-| `SliderMultiplier` | 小数 | 以100[osu! pixels](/wiki/Glossary#osupixel)为单位的每拍基础滑条速率（若设置为1则一拍滑条为100osu! pixels长） <!-- TODO: this prefix sounds awful ಠ_ಠ --> |
+| `SliderMultiplier` | 小数 | 以100[osu! 像素](/wiki/Glossary#osupixel)为单位的每拍基础滑条速率（若设置为1则一拍滑条为 100 osu! 像素长） <!-- TODO: this prefix sounds awful ಠ_ಠ --> |
 | `SliderTickRate` | 小数 | 每拍中滑条点的数量 |
 
 ## Events （事件）
@@ -96,7 +96,7 @@
 *背景语法：* `0,0,filename,xOffset,yOffset`
 
 - **`filename` （字符串）:** 相对于谱面文件夹的背景图片位置。 文件名周围通常包含双引号，但它们不是必需的。
-- **`xOffset` （整数）** 和 **`yOffset` （整数）:** 从屏幕中间以[osu! pixels](/wiki/Glossary#osupixel) 为单位的偏移。 例如，`50,100` 意味着背景图从屏幕中间向右移动50 osu! pixels，向下移动50 osu! pixels，如果偏移为`0,0`，那么填写是可选的。
+- **`xOffset` （整数）** 和 **`yOffset` （整数）:** 从屏幕中间以[osu! 像素](/wiki/Glossary#osupixel) 为单位的偏移。 例如，`50,100` 意味着背景图从屏幕中间向右移动 50 osu! 像素，向下移动 50 osu! 像素，如果偏移为`0,0`，那么填写是可选的。
 
 ### Videos（视频）
 
@@ -180,7 +180,7 @@
 
 *物件语法:* `x,y,time,type,hitSound,objectParams,hitSample`
 
-- **`x` （整数）** 和 **`y` （整数）：** 以[osu! pixels](/wiki/Glossary#osupixel)为单位的物件位置。
+- **`x` （整数）** 和 **`y` （整数）：** 以 [osu! 像素](/wiki/Glossary#osupixel)为单位的物件位置。
 - **`time` （整数）：** 物件应该被击中的时间，从谱面音频开始以毫秒为单位的时间。
 - **`type` （整数）：** 用位符表示的物件类型。 参见 [物件类型小节](#Type（物件类型）).
 - **`hitSound` （整数）：** 用位符表示物件所应用的打击音效，参见 [打击音效小节](#Hitsounds（打击音效）).
@@ -260,7 +260,7 @@
 - **`curveType` （字母）：**此滑块的曲线类型 (`B` = 贝兹曲线, `C` = 向心 Catmull-Rom 曲线, `L` = 线性, `P` = 完美圆弧)
 - **`curvePoints` （用`|`分隔的字符串列表）：** 用于构造滑条的锚点。每个点的格式为 `x:y`.
 - **`slides` （整数）：** 玩家必须在滑条完成之前来回跟随滑条曲线的次数。也可以将其解释为往返计数加1。
-- **`length` （小数）：** 滑条的可见长度（单位为[osu! pixels](/wiki/Glossary#osupixel)）
+- **`length` （小数）：** 滑条的可见长度（单位为[osu! 像素](/wiki/Glossary#osupixel)）
 - **`edgeSounds` （用`|`分隔的整数列表）：**敲击滑条边时发出的音效。第一个声音是第一次单击滑块时播放的声音，最后一个声音是到达滑块末端播放的声音。
 - **`edgeSets` （用`|`分隔的字符串列表）：** 用于`edgeSounds`的采样集。每个采样集的格式为`normalSet:additionSet`，与 [打击音效部分](#Hitsounds（打击音效）)是一个意思.
 
@@ -332,7 +332,7 @@ osu!有四种滑条曲线类型:
 - 开始新连击
 - 带有贝兹曲线的滑条体，第一个滑条控制点为 (100,100)，(200,200) 和 (250,200)，第二个滑条控制点为 (250,200)，和(300,150)。重叠的锚点表示一个[红色锚点](/wiki/Hit_object/Slider_anchor)。
 - 来回一次
-- 长310.123 osu! pixels
+- 长310.123 osu! 像素
 - 在开头带有一个whistle音效，并在滑条结尾播放soft集的whistle音效
 
 <!-- TODO: specific details about all of the other game modes (this article should provide everything necessary to parse a .osu file)
