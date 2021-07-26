@@ -56,12 +56,12 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[jLuyalb](https://osu.ppy.sh/users/7093698)** |
-| ![][flag_AU] | **Australia** | **[ruka](https://osu.ppy.sh/users/6117525)** |
+| ![][flag_AU] | **Australia** | **[ruka](https://osu.ppy.sh/users/6117525)**, [a1ternation](https://osu.ppy.sh/users/9828306), [Vegemite](https://osu.ppy.sh/users/13111686), [Bounter](https://osu.ppy.sh/users/11149878), [HD\_AdreNaline](https://osu.ppy.sh/users/10540368), [Nerd Guy](https://osu.ppy.sh/users/11247298) |
 | ![][flag_BE] | **Belgium** | **[Mortelspawn\_](https://osu.ppy.sh/users/5331420)** |
-| ![][flag_BR] | **Brazil** | **[andreymc](https://osu.ppy.sh/users/5691061)** |
+| ![][flag_BR] | **Brazil** | **[Amerom](https://osu.ppy.sh/users/5691061)**, [SillyFangirl](https://osu.ppy.sh/users/2288363), [Lothus](https://osu.ppy.sh/users/9530019), [Liight00](https://osu.ppy.sh/users/13601876), [\[LS\]LeMarcinho](https://osu.ppy.sh/users/13347579), [Lenn](https://osu.ppy.sh/users/11236829) |
 | ![][flag_CA] | **Canada** | **[Piggy](https://osu.ppy.sh/users/5390121)** |
-| ![][flag_CL] | **Chile** | **[Urusai](https://osu.ppy.sh/users/469808)** |
-| ![][flag_CN] | **China** | **[\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832)** |
+| ![][flag_CL] | **Chile** | **[kanocchi 3](https://osu.ppy.sh/users/10072733)**, [Urusai](https://osu.ppy.sh/users/469808), [Stupud\_cL](https://osu.ppy.sh/users/10659178), [Rhyzt\_cL](https://osu.ppy.sh/users/10235085), [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), [faz\_cL](https://osu.ppy.sh/users/7853143) |
+| ![][flag_CN] | **China** | **[\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832)**, [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739), [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235), [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250), [\[Crz\]Lucifer](https://osu.ppy.sh/users/5270332) |
 | ![][flag_CO] | **Colombia** | **[AlexxiTo](https://osu.ppy.sh/users/16711124)** |
 | ![][flag_FI] | **Finland** | **[LovelyN](https://osu.ppy.sh/users/8370443)** |
 | ![][flag_FR] | **France** | **[Azubeur](https://osu.ppy.sh/users/1594604)** |
@@ -70,8 +70,8 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_HK] | **Hong Kong** | **[\[Crz\]Murasame](https://osu.ppy.sh/users/11563203)** |
 | ![][flag_ID] | **Indonesia** | **[reyss](https://osu.ppy.sh/users/4557440)** |
 | ![][flag_IL] | **Israel** | **[adamyes](https://osu.ppy.sh/users/11554822)** |
-| ![][flag_IT] | **Italy** | **[Kiraz](https://osu.ppy.sh/users/3807675)** |
-| ![][flag_JP] | **Japan** | **[inteliser](https://osu.ppy.sh/users/1824775)** |
+| ![][flag_IT] | **Italy** | **[Kiraz](https://osu.ppy.sh/users/3807675)**, [Veryi](https://osu.ppy.sh/users/13878539), [\[Crz\]Cribob](https://osu.ppy.sh/users/8485394), [Jeersy](https://osu.ppy.sh/users/11636434), [CarrelloMine](https://osu.ppy.sh/users/9900466), [Relae](https://osu.ppy.sh/users/14455536) |
+| ![][flag_JP] | **Japan** | **[AMDuskia1996](https://osu.ppy.sh/users/10242062)**, [CrewK](https://osu.ppy.sh/users/11488604), [\[Fairy\]Phy](https://osu.ppy.sh/users/4777360), [jhleetgirl](https://osu.ppy.sh/users/10745260), [MM\_Yuu](https://osu.ppy.sh/users/10649883), [nakikaze](https://osu.ppy.sh/users/9009336) |
 | ![][flag_LV] | **Latvia** | **[CrayZigg](https://osu.ppy.sh/users/11942663)** |
 | ![][flag_MY] | **Malaysia** | **[cheewee10](https://osu.ppy.sh/users/4477497)** |
 | ![][flag_NL] | **Netherlands** | **[2fast4you98](https://osu.ppy.sh/users/5183940)**, [Bakuretsue](https://osu.ppy.sh/users/10960533), [Tyronix](https://osu.ppy.sh/users/11290311), [Shoira](https://osu.ppy.sh/users/13377652), [Toxic Scent](https://osu.ppy.sh/users/12599154), [NightNarumi](https://osu.ppy.sh/users/4381142) |
@@ -80,18 +80,19 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_PH] | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)** |
 | ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)** |
 | ![][flag_PT] | **Portugal** | **[Rodrig0v](https://osu.ppy.sh/users/138866)** |
-| ![][flag_RU] | **Russian Federation** | **[X\_Devil](https://osu.ppy.sh/users/6694908)** |
-| ![][flag_SG] | **Singapore** | **[Xvenn](https://osu.ppy.sh/users/13390529)** |
+| ![][flag_RU] | **Russian Federation** | **[Lerck](https://osu.ppy.sh/users/10450696)**, [\_lyko](https://osu.ppy.sh/users/8435430), [wolfpup08](https://osu.ppy.sh/users/11939641), [\[Crz\]Arachnon](https://osu.ppy.sh/users/9074986), [X\_Devil](https://osu.ppy.sh/users/6694908), [fegasaren0133](https://osu.ppy.sh/users/8035172) |
+| ![][flag_SG] | **Singapore** | **[Xvenn](https://osu.ppy.sh/users/13390529)**, [MrExpandion](https://osu.ppy.sh/users/12459700), [IJosephI\[GS\]](https://osu.ppy.sh/users/13353749), [dabreadosan](https://osu.ppy.sh/users/16870002), [Japeynius](https://osu.ppy.sh/users/13993659), [riunosk](https://osu.ppy.sh/users/5594381) |
 | ![][flag_KR] | **South Korea** | **[Transcendence](https://osu.ppy.sh/users/903155)** |
 | ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [Komirin](https://osu.ppy.sh/users/4725379), [Guldakh](https://osu.ppy.sh/users/8553078), [Anas-](https://osu.ppy.sh/users/8608903), [CrewK fanboy](https://osu.ppy.sh/users/7860283) |
 | ![][flag_SE] | **Sweden** | **[\[LS\]Trymatic](https://osu.ppy.sh/users/14762260)** |
-| ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)** |
+| ![][flag_CH] | **Switzerland** | **[Tupidix](https://osu.ppy.sh/users/8655604)**, [Adyrem](https://osu.ppy.sh/users/8642966), [Gamer97](https://osu.ppy.sh/users/4952941), [Haprapra](https://osu.ppy.sh/users/3974114), [CrashSmash](https://osu.ppy.sh/users/13942150), [zipp](https://osu.ppy.sh/users/6839722) |
 | ![][flag_TW] | **Taiwan** | **[\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458)** |
-| ![][flag_TH] | **Thailand** | **[HowToPlayLN](https://osu.ppy.sh/users/10879600)** |
+| ![][flag_TH] | **Thailand** | **[HowToPlayLN](https://osu.ppy.sh/users/10879600)**, [jimmyreturnz](https://osu.ppy.sh/users/11306153), [MIkuaimbot](https://osu.ppy.sh/users/17699745), [ReZero Jung](https://osu.ppy.sh/users/13349388), [IjustLuvBanana](https://osu.ppy.sh/users/16011592), [shokoha](https://osu.ppy.sh/users/14134289) |
 | ![][flag_TR] | **Turkey** | **[hsod](https://osu.ppy.sh/users/15391485)** |
-| ![][flag_UA] | **Ukraine** | **[Shailexi](https://osu.ppy.sh/users/11375371)** |
+| ![][flag_UA] | **Ukraine** | **[Shailexi](https://osu.ppy.sh/users/11375371)**, [LonBertZend](https://osu.ppy.sh/users/10484445), [Arstz](https://osu.ppy.sh/users/10844754), [kaivoo](https://osu.ppy.sh/users/5257734), [ADshush](https://osu.ppy.sh/users/15231447) |
 | ![][flag_GB] | **United Kingdom** | **[Pope Gadget](https://osu.ppy.sh/users/2288341)** |
 | ![][flag_US] | **United States** | **[Toaph Daddy](https://osu.ppy.sh/users/7616811)** |
+| ![][flag_UY] | **Uruguay** | **[etterna in osu](https://osu.ppy.sh/users/5243536)**, [HopelessPlayer](https://osu.ppy.sh/users/12528267), [El Milanga](https://osu.ppy.sh/users/12264918), [cuchu93](https://osu.ppy.sh/users/1311627) |
 | ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)** |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [Lottery61](https://osu.ppy.sh/users/13821222), [Asrielly](https://osu.ppy.sh/users/2656302), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [LovelyL](https://osu.ppy.sh/users/14821320) |
 
@@ -255,5 +256,6 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
 [flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
