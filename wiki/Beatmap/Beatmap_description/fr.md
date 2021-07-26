@@ -10,7 +10,7 @@ Les descriptions de beatmaps comprennent souvent les éléments suivants :
 
 - Une liste de toutes les guest difficulties et leurs créateurs
 - Des informations qui aideront le joueur à décider s'il veut télécharger la beatmap ou non.
-- Une liste des modifications ou un journal des modifications (aussi appelée "changelog")
+- Une liste des modifications ou un journal des modifications (aussi appelé "changelog")
 
 ### Images
 

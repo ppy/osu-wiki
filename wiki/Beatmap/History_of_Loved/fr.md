@@ -8,7 +8,7 @@ Le 02/02/2015, la demande de fonctionnalité *[New beatmap category for good unr
 
 Une autre raison pour laquelle cette demande est devenue populaire est que des maps très peu conventionnelles ou révolutionnaires n'auraient jamais pu correspondre aux [critères de classement](/wiki/Ranking_Criteria). Les joueurs étaient intéressés par la compétition sur certaines de ces maps, comme celles présentant un style "2B", un gameplay de type *[Aspire](/wiki/Contests/Aspire)* ou des éléments de [TAG co-op](/wiki/Beatmap/TAG).
 
-Fin 2016, cette demande de fonctionnalité détenait le deuxième plus grand nombre d'étoiles dans l'histoire du forum, avec près de 13 000 priorités.
+Fin 2016, cette demande de fonctionnalité détenait le deuxième plus grand nombre d'étoiles dans l'histoire du forum, avec près de 13 000 de priorité.
 
 ## Vote communautaire (Octobre 2016 - Janvier 2017)
 
@@ -34,7 +34,7 @@ Le [deuxième épisode du talk-show *Coffee Hour* d'osu!](https://www.youtube.co
 
 Fin septembre, ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a collaboré avec Ephemeral pour créer une nouvelle version du vote communautaire appelée [Loved Captain's Pick](https://osu.ppy.sh/home/news/2017-09-25-introducing-the-loved-captains-pick). Au début, il était presque identique à l'ancien système de vote, à l'exception du fait que les maps des sondages étaient choisies par les "capitaines", des membres de confiance de la communauté qui avaient une bonne idée de ce que le reste de la communauté voulait voir.
 
-Avant le deuxième tour du "Captain's Pick", Toy [a annoncé sur les forums](https://osu.ppy.sh/community/forums/topics/662761) que les maps choisies pour le vote proviendraient des soumissions de la communauté sur un [formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform) et une [feuille](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit) Google. Toy espérait que cela "fonctionnerait mieux à long terme que les précédentes mises en œuvre de Loved" en donnant aux participants de Loved plus de poids dans le vote.
+Avant le deuxième tour du "Captain's Pick", Toy [a annoncé sur les forums](https://osu.ppy.sh/community/forums/topics/662761) que les maps choisies pour le vote proviendraient des soumissions de la communauté sur un [formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform) et une [feuille](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit) Google. Toy espérait que cela "fonctionnerait mieux à long terme que les précédentes mises en œuvre de Loved" en donnant aux participants du Project Loved plus de poids dans le vote.
 
 Après quelques tours du style de sondage originel, Toy a décidé d'utiliser un format de vote légèrement différent où les maps ne seraient plus en compétition les unes avec les autres. À partir de ce moment, chaque map a eu son propre sondage, demandant à la communauté si elle voulait ou non que cette map spécifique soit ajoutée à la catégorie Loved. Si un pourcentage minimum de votants répondait "oui", la map passait le cap du vote. En raison du nombre élevé de sondages sur le forum, un [nouveau forum](https://osu.ppy.sh/community/forums/120) a été créé spécifiquement pour le vote des potentielles maps Loved, et c'est à partir de ce moment que le projet a été officiellement appelé "Project Loved".
 
