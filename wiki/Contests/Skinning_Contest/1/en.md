@@ -18,7 +18,7 @@ The **Skinning Contest #1** was a free-for-all osu! skinning contest hosted by [
 | Announcement | 2021-03-08 |
 | Submission phase | 2021-03-08/2021-04-08 |
 | Voting phase | 2021-04-29/2021-05-13 |
-| Results | 2021-05-20 |
+| Results | 2021-05-27 |
 
 ## Prizes
 
@@ -27,6 +27,8 @@ The **Skinning Contest #1** was a free-for-all osu! skinning contest hosted by [
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu! supporter, unique profile badge |
+
+![Winner profile badge](img/badge-winner.png "Skinning Contest #1 Winner") ![2nd place profile badge](img/badge-2nd.png "Skinning Contest #1 2nd place") ![3rd place profile badge](img/badge-3rd.png "Skinning Contest #1 3rd place")
 
 ## Organisation
 
