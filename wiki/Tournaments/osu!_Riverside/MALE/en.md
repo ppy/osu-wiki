@@ -253,24 +253,24 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] Kenny | *forfeit (left early)* |
-| **Mathyu** ![][flag_US] | **7** | 1 | ![][flag_US] Darin on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49192152) |
+| **Mathyu** ![][flag_US] | **7** | 1 | ![][flag_US] Darin on osu | [#1](https://osu.ppy.sh/community/matches/49192152) |
 
 #### Finals
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **R Y A N** ![][flag_US] | **6** | 1 | ![][flag_US] Riku on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49191321) |
-| **Kenny** ![][flag_US] | **6** | 4 | ![][flag_US] clayton | [Multiplayer match](https://osu.ppy.sh/community/matches/49191330) |
-| R Y A N ![][flag_US] | 5 | **7** | ![][flag_US] **Kenny** | [Multiplayer match](https://osu.ppy.sh/community/matches/49191755) |
-| **Mathyu** ![][flag_US] | **6** | 4 | ![][flag_US] Darin on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49191316) |
+| **R Y A N** ![][flag_US] | **6** | 1 | ![][flag_US] Riku on osu | [#1](https://osu.ppy.sh/community/matches/49191321) |
+| **Kenny** ![][flag_US] | **6** | 4 | ![][flag_US] clayton | [#1](https://osu.ppy.sh/community/matches/49191330) |
+| R Y A N ![][flag_US] | 5 | **7** | ![][flag_US] **Kenny** | [#1](https://osu.ppy.sh/community/matches/49191755) |
+| **Mathyu** ![][flag_US] | **6** | 4 | ![][flag_US] Darin on osu | [#1](https://osu.ppy.sh/community/matches/49191316) |
 
 #### Semifinals
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| J_8579 ![][flag_US] | 0 | **4** | ![][flag_US] **GiraffeMidget** | [Multiplayer match](https://osu.ppy.sh/community/matches/49190507) |
-| **Riku on osu** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | [Multiplayer match](https://osu.ppy.sh/community/matches/49190193) |
-| **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] Ikeda Chizuru | [Multiplayer match](https://osu.ppy.sh/community/matches/49190471) |
+| J_8579 ![][flag_US] | 0 | **4** | ![][flag_US] **GiraffeMidget** | [#1](https://osu.ppy.sh/community/matches/49190507) |
+| **Riku on osu** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | [#1](https://osu.ppy.sh/community/matches/49190193) |
+| **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] Ikeda Chizuru | [#1](https://osu.ppy.sh/community/matches/49190471) |
 | **death grips** ![][flag_US] | **1** | 0 | ![][flag_US] DetectiveBleh | *forfeit (no-show)* |
 | GiraffeMidget ![][flag_US] | 0 | **1** | ![][flag_US] **Riku on osu** | *forfeit (left early)* |
 | **clayton** ![][flag_US] | **5** | 3 | ![][flag_US] death grips | <!-- match link lost --> |
@@ -281,12 +281,12 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **andrew22r** ![][flag_US] | **3** | 0 | ![][flag_US] MyAngelNeptune | [Multiplayer match](https://osu.ppy.sh/community/matches/49189563) |
+| **andrew22r** ![][flag_US] | **3** | 0 | ![][flag_US] MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/49189563) |
 | MaidenofSorrow ![][flag_US] | 0 | **4** | ![][flag_US] **Ikeda Chizuru** | <!-- match link lost --> |
-| **Mathyu** ![][flag_US] | **4** | 1 | ![][flag_US] death grips | [Multiplayer match](https://osu.ppy.sh/community/matches/49190579) |
-| **R Y A N** ![][flag_US] | **4** | 3 | ![][flag_US] clayton | [Multiplayer match](https://osu.ppy.sh/community/matches/49190109) |
-| **Darin on osu** ![][flag_US] | **4** | 1 | ![][flag_US] Riku on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49189660) |
-| **Kenny** ![][flag_US] | **4** | 0 | ![][flag_US] J_8579 | [Multiplayer match](https://osu.ppy.sh/community/matches/49190146) |
+| **Mathyu** ![][flag_US] | **4** | 1 | ![][flag_US] death grips | [#1](https://osu.ppy.sh/community/matches/49190579) |
+| **R Y A N** ![][flag_US] | **4** | 3 | ![][flag_US] clayton | [#1](https://osu.ppy.sh/community/matches/49190109) |
+| **Darin on osu** ![][flag_US] | **4** | 1 | ![][flag_US] Riku on osu | [#1](https://osu.ppy.sh/community/matches/49189660) |
+| **Kenny** ![][flag_US] | **4** | 0 | ![][flag_US] J_8579 | [#1](https://osu.ppy.sh/community/matches/49190146) |
 
 #### Round of 16
 
@@ -294,8 +294,8 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 | --: | :-: | :-: | :-- | :-- |
 | GiraffeMidget ![][flag_US] | 0 | **4** | ![][flag_US] **death grips** | <!-- match link lost --> |
 | **R Y A N** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | <!-- match link lost --> |
-| **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] MyAngelNeptune | [Multiplayer match](https://osu.ppy.sh/community/matches/49189127) |
-| **Darin on osu** ![][flag_US] | **4** | 0 | ![][flag_US] MaidenofSorrow | [Multiplayer match](https://osu.ppy.sh/community/matches/49189132) |
+| **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/49189127) |
+| **Darin on osu** ![][flag_US] | **4** | 0 | ![][flag_US] MaidenofSorrow | [#1](https://osu.ppy.sh/community/matches/49189132) |
 | **Riku on osu** ![][flag_US] | **4** | 2 | ![][flag_US] Ikeda Chizuru | <!-- match link lost --> |
 
 ### osu!mania

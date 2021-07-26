@@ -404,7 +404,7 @@ Friday, 6 March 2020:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Alan-](https://osu.ppy.sh/users/8937198)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/58961660) |
-| Upper | **[Fuma](https://osu.ppy.sh/community/matches/58963886)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/58963886) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/58963886) |
 
 Saturday, 7 March 2020:
 
