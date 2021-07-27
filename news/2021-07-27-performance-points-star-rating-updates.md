@@ -118,7 +118,7 @@ Consult the graphs below to see how this adjustment works in closer detail.
 
 ### osu!: Approach rate and Flashlight bonuses are now mutually exclusive
 
-As mentioned previously, approach rate values between 8 and 10.33 are known to give a bonus to a given play. When playing with the Flashlight mod enabled, another bonus was also applied.
+As mentioned previously, approach rate values lower than 8 and and greater than 10.33 are known to give a bonus to a given play. When playing with the Flashlight mod enabled, another bonus was also applied.
 
 Previously, these values stacked together in the end result, which makes very little sense given that approach circles become increasingly less visible when Flashlight ramps up at higher combos.
 
