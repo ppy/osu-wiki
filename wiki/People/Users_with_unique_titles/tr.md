@@ -112,7 +112,7 @@ Aspire mapping yarışmalarının kazananları Elite Mapper ünvanının özel b
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) bu ünvanı zaten Elite Mapper ünvanına sahipken kazandı, dolayısıyla **Elite Mapper II: Aspirant** ünvanına "terfi etti". ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) ise bunun yerine şu anda **osu!catch Champion** ünvanını kullanmakta.
+![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) bu ünvanı zaten Elite Mapper ünvanına sahipken kazandı, dolayısıyla **Elite Mapper II: Aspirant** ünvanına "terfi etti".
 
 ### osu!remix yarışması kazananları
 
