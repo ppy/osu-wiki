@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Diretrizes de uso de conteúdo
 
 Como um mapeador, você deve ter permissão dos detentores de direitos autorais relevantes para recursos de áudio/visual/gameplay incluídos em seus envios de beatmap. Sem permissão, seus beatmaps correm o risco de serem removidos e você de ter o acesso negado ao sistema de envio, de acordo com a [política de direitos autorais de osu!](/wiki/Legal/Copyright).

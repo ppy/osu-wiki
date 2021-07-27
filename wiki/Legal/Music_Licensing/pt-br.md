@@ -1,5 +1,6 @@
 ---
 legal: true
+no_native_review: true
 ---
 
 # Licenciamento musical em osu!

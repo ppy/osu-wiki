@@ -5,6 +5,7 @@ tags:
   - guest beatmap
   - guest difficulties
   - guest map
+no_native_review: true
 ---
 
 # Dificuldade de convidado
