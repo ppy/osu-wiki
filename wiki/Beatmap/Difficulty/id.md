@@ -5,6 +5,8 @@ tags:
   - SR
   - star rating
   - stars
+outdated:
+  - true
 ---
 
 # Tingkat kesulitan
