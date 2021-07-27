@@ -70,6 +70,35 @@ Listed below are players who qualified into the Group stage (along with their re
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (135 MB)](https://drive.google.com/u/0/uc?id=16uQMj49gMRftiXzoxrakDNTioWg65UPB&export=download "Google Drive")**
+
+- NoMod
+  - [UNDEAD CORPORATION - Blow (Imai Lisa) \[Team Russian Federation's Overdose\]](https://osu.ppy.sh/beatmapsets/1265145#fruits/2629347)
+  - [DJ TOTTO - Crystalia (Secre) \[Perfect Freeze\]](https://osu.ppy.sh/beatmapsets/1434231#fruits/2951547)
+  - [Toby Fox - Spider Dance (Camellia Remix) (Jemzuu) \[Venom\]](https://osu.ppy.sh/beatmapsets/1530857#fruits/3131176)
+  - [THE ORAL CIGARETTES - Mou Ii Kai? (autofanboy) \[Let's Go!\]](https://osu.ppy.sh/beatmapsets/1530840#fruits/3131141)
+  - [Kotone - Konkai no Soudo ni Tsukimashite. (captin1) \[halfslashed vtuber\]](https://osu.ppy.sh/beatmapsets/1492398#fruits/3059194) 
+  - [Masqed Pierrot - THE FAUST (fanzhen0019) \[dounts\]](https://osu.ppy.sh/beatmapsets/1418075#fruits/2921737) 
+- Hidden
+  - [Pizuya's Cell - Inchlings of the Shining Needle \~ Little Princess (Yumeno Himiko) \[Rain\]](https://osu.ppy.sh/beatmapsets/1530944#fruits/3131336)
+  - [KOTOKO - agony (Madoka Ayukawa) \[Fleeting Promise\]](https://osu.ppy.sh/beatmapsets/1530841#fruits/3131142)
+  - [memme - Dajiahao (Erhu ver.) (SkyFlame) \[Kawa's Expert\]](https://osu.ppy.sh/beatmapsets/1362864#fruits/2922978)
+  - [Aqours - Jingle Bells ga Tomaranai (Cris-) \[Yeah! Dancin' Christmas!!\]](https://osu.ppy.sh/beatmapsets/1313213#fruits/2740342)
+- HardRock
+  - [Unlucky Morpheus - Phantom Blood (Noctalium) \[Warth\]](https://osu.ppy.sh/beatmapsets/1412284#fruits/2911298)
+  - [P\*Light - SAY BAY (-MomoX) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1368925#fruits/2830659)
+  - [EPICA - Victims of Contingency (DakiniBrave) \[Remorse\]](https://osu.ppy.sh/beatmapsets/540457#fruits/1377957)
+  - [sakuzyo - AXION (Star\* Remix 2016 Update) (Ryuusei Aika) \[Another\]](https://osu.ppy.sh/beatmapsets/957007#fruits/2003510)
+- DoubleTime
+  - [Chata - Engage (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1530874#fruits/3131205)
+  - [zts - liberatedliberator (Deif) \[Requiem\]](https://osu.ppy.sh/beatmapsets/1530937#fruits/3131328)
+  - [Kawada Mami - Serment (Reiji Maigo) \[Extra\]](https://osu.ppy.sh/beatmapsets/1179009#fruits/2458659)
+  - [Kalafina - Lacrimosa (Kalibe) \[Regret\]](https://osu.ppy.sh/beatmapsets/840559#fruits/1759418)
+- Tiebreaker
+  - **[LeaF - Kyouki Ranbu (extended ver.) (Secre) \[Terminus\]](https://osu.ppy.sh/beatmapsets/1410668#fruits/2908348)**
+
 ### Semifinals
 
 **[Download the mappack here! (123 MB)](https://drive.google.com/u/0/uc?id=1XOFWCZD_W6oKZHU3WgVfrcrOm8EMwv6V&export=download "Google Drive")**
@@ -174,6 +203,28 @@ Listed below are players who qualified into the Group stage (along with their re
   - **[Official HIGE DANdism - Pretender (Crowley) \[My Final Farewell\]](https://osu.ppy.sh/beatmapsets/1272888#fruits/2645056)**
 
 ## Match results
+
+### Semifinals
+
+Friday, 23 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Pyrozen](https://osu.ppy.sh/users/3031177) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | *win by default* |
+| Upper | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/87920148) |
+
+Saturday, 24 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Pyrozen](https://osu.ppy.sh/users/3031177) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148)** | *win by default* |
+| Lower | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 2 | **6** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/87979007) |
+
+Sunday, 25 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/88031955) |
 
 ### Quarterfinals
 

@@ -2,6 +2,7 @@
 
 Page d'index pour tous les articles concernant les termes spécifiques à osu!
 
+- [Objet actif](Active_object)
 - [Changelog](Changelog)
 - [Choke](Choke)
 - [Combo (multiplicateur de score)](Combo_(score_multiplier))
@@ -12,12 +13,18 @@ Page d'index pour tous les articles concernant les termes spécifiques à osu!
 - [Combobreak](Combobreak)
 - [Comboburst](Comboburst)
 - [Cookie](Cookie)
+- [Dash](Dash)
+- [Edge dash](Edge_dash)
 - [Barre de vie](Health_bar)
+- [Hyperdash](Hyperdash)
 - [Liste des ignorés](Ignore_list)
 - [Lead-in](Lead-in)
 - [Local song offset](Local_song_offset)
 - [Loved](Loved)
+- [Snapping](Snapping)
 - [Touhosu!](Touhosu!)
+- [Trigger distance](Trigger_distance)
+- [Walk](Walk)
 
 ## Le saviez-vous ?
 
