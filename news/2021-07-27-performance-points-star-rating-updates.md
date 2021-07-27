@@ -25,7 +25,7 @@ As a brief reminder/summary, the following values are a core part of the perform
 
 ## Release Schedule
 
-Deployment of these changes will as usual, take some time to propagate out. As this batch of changes affects all game modes, it is likely to take longer than usual. If you are interested in following the progress we recommend you bookmark this page and check back on this section, as it will be updated as forward progress is made.
+Deployment of these changes will as usual, take some time to fully complete. As this batch of changes affects all game modes, it will likely take longer than normal. If you are interested in following the progress we recommend you bookmark this page and check back on this section, as it will be updated as forward progress is made.
 
 ### 🏃 Star rating updates \[2021-07-28\]
 
@@ -37,10 +37,12 @@ Estimated to take less than one day.
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
-During this period, rank history graphs will be frozen. If a user plays, their **total pp** value will immediately be updated using the correct values for all past scores, but this won't match past scores' display under "Best Performance". As a result, it may seem as if you temporarily gain, lose or fluctuate in rank relative to others.
+During this period, rank history graphs will be frozen. If a user plays, their **total pp** value will immediately be updated using the correct values for all past scores, but this won't match past scores' display under "Best Performance". **As a result, it may seem as if you temporarily gain, lose or fluctuate in rank relative to others.**
 
-- As part of this maintenance, we will delist any inactive users (anyone that has not played the game in 3 months).
-- Scores in "best performance" may look to be out of order or not visible at this point.
+During this maintenance, the following will also occur:
+
+- Inactive users (anyone that has not played the game in 3 months) will be delisted.
+- Scores in the "best performance" profile section may look to be out of order, or not visible at all during this phase. This will resolve completely during the reindexing phase listed below.
 
 Estimated to take 2 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
 
@@ -56,7 +58,7 @@ Estimated to take 2-4 days.
 
 ### 🛑 Background user score recalculations \[TBD\]
 
-While the above "user total" step is aimed to cover the majority of visible scores in profile "Best Performance" section, this is a second pass operation which aims to address all remaining scores that may have not been updated yet.
+While the aforementioned "user total" step is aimed to cover the majority of visible scores in the "Best Performance" profile section, this is a second pass operation which aims to address all remaining scores that may have not been updated yet.
 
 This will run over weeks or months in the background as required.
 
