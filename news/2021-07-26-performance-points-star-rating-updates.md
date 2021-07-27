@@ -12,7 +12,7 @@ Thanks to the efforts of some very bright minds, a new batch of changes are live
 
 Please note: the current batch of changes contain things that will take effect immediately, as well as ones which will have no visible change for the moment but will lay out the groundwork for improvements in the future.
 
-Additionally, the changes below are split into "star rating" and "performance points" sections, but do note that anything that affects star rating will also impact performance points, as both are based off an algorithmic *skill* value which is dynamically generated from the beatmap being played.
+Additionally, the changes below are split into "star rating" and "performance points" sections, but do note that anything that affects star rating will also impact performance points, as both are based off algorithmic *skill* values which are dynamically generated from the beatmap being played.
 
 You may also wish to consult the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmapping/Star_rating) articles to broaden your understanding of these surprisingly complicated topics.
 
@@ -37,7 +37,7 @@ Estimated to take less than one day.
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
-During this period, rank history graphs will be frozen. If a user plays, their **total PP** value will immediately be updated using the correct values for all past scores, but this won't match past scores' display under "Best Performance". As a result, it may seem as if you temporarily gain, lose or fluctuate in rank relative to others.
+During this period, rank history graphs will be frozen. If a user plays, their **total pp** value will immediately be updated using the correct values for all past scores, but this won't match past scores' display under "Best Performance". As a result, it may seem as if you temporarily gain, lose or fluctuate in rank relative to others.
 
 - As part of this maintenance, we will delist any inactive users (anyone that has not played the game in 3 months).
 - Scores in "best performance" may look to be out of order or not visible at this point.
