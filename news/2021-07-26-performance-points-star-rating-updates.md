@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Performance Points & Star Rating Updates"
-date: 2021-07-26 10:00:00 +0000
+date: 2021-07-27 10:00:00 +0000
 ---
 
 A brand new set of changes to the performance points and star rating algorithms have just gone live - read on to discover what's new, and where things are headed in the future!
@@ -24,6 +24,41 @@ As a brief reminder/summary, the following values are a core part of the perform
 - **Strain**, which considers how often and how long a player has to endure intense or technically demanding patterns during play (affected by things like streams, fast jumps and more)
 
 ## Release Schedule
+
+Deployment of these changes will as usual, take some time to propagate out. As this batch of changes affects all game modes, it is likely to take longer than usual. If you are interested in following the progress we recommend you bookmark this page and check back on this section, as it will be updated as forward progress is made.
+
+### 🏃 Star rating updates \[2021-07-28\]
+
+An initial pass over all beatmaps to update their star ratings. This will take immediate effect for all newly submitted scores.
+
+Estimated to take less than one day.
+
+### 🛑 Background user total recalculations \[2021-07-29\]
+
+Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
+
+During this period, rank history graphs will be frozen. If a user plays, their **total PP** value will immediately be updated using the correct values for all past scores, but this won't match past scores' display under "Best Performance". As a result, it may seem as if you temporarily gain, lose or fluctuate in rank relative to others.
+
+- As part of this maintenance, we will delist any inactive users (anyone that has not played the game in 3 months).
+- Scores in "best performance" may look to be out of order or not visible at this point.
+
+Estimated to take 2 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
+
+### 🛑 Re-enabling of global rank history updates \[TBD\]
+
+Rank history graphs updates will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
+
+### 🛑 Reindexing \[TBD\]
+
+This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
+
+Estimated to take 2-4 days.
+
+### 🛑 Background user score recalculations \[TBD\]
+
+While the above "user total" step is aimed to cover the majority of visible scores in profile "Best Performance" section, this is a second pass operation which aims to address all remaining scores that may have not been updated yet.
+
+This will run over weeks or months in the background as required.
 
 ## Star Rating
 
