@@ -139,15 +139,15 @@ The changes listed above will all go into effect **immediately**. This is import
 
 If you're just after the juicy details on what affects you today, you can safely skip the rest of this article. If you're interested in some formative groundwork for the future and have the skills to implement and fiddle with them in code, read on.
 
-Note: the following changes only affect osu!lazer and **star rating** for now.
+Note: the following changes only affect osu!(lazer) and **star rating** for now.
 
-### osu!mania: Improved accuracy of lazer difficulty calculation
+### osu!mania: Improved accuracy of osu!(lazer) difficulty calculation
 
 osu!team's very own [**smoogipoo**](https://osu.ppy.sh/users/1040328) has [successfully managed](https://github.com/ppy/osu/pull/10453) to port the mania difficulty calculation algorithm from stable.
 
-While not 100% perfect, it is essentially as close as it can get, resulting in differences below 0.01 stars for the vast majority of all cases. Only one mania-specific map and seven converts with leaderboards have any changes in star rating above 0.2 stars, and most are due to rounding shenanigans and unintended behaviour in stable (commonly referred to as gimmicks) which are fixed in lazer.
+While not 100% perfect, it is essentially as close as it can get, resulting in differences below 0.01 stars for the vast majority of all cases. Only one mania-specific map and seven converts with leaderboards have any changes in star rating above 0.2 stars, and most are due to rounding shenanigans and unintended behaviour in stable (commonly referred to as gimmicks) which are fixed in osu!(lazer).
 
-Though solely in the domain of osu!lazer, it may eventually resolve a [fair](https://github.com/ppy/osu-web/issues/7846) [few](https://github.com/ppy/osu-web/issues/6075) [issues](https://github.com/ppy/osu-web/issues/5442) with displaying mania map difficulties on the website, by reusing lazer difficulty calculation components in other areas of osu! infrastructure.
+Though solely in the domain of osu!(lazer), it may eventually resolve a [fair](https://github.com/ppy/osu-web/issues/7846) [few](https://github.com/ppy/osu-web/issues/6075) [issues](https://github.com/ppy/osu-web/issues/5442) with displaying mania map difficulties on the website, by reusing osu!(lazer) difficulty calculation components in other areas of osu! infrastructure.
 
 ### All rulesets: More flexibility in the structure of skills
 
