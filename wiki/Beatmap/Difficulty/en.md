@@ -68,7 +68,7 @@ These are the typical levels of difficulty that a beatmap can fall under. Specif
 
 ## Difficulty and star rating
 
-As per 27 July 2021, the osu! website automatically assigns a beatmap's difficulty rating colour based on their star rating according to the following spectrum range:
+As per 27 July 2021, the osu! website automatically assigns a beatmap's difficulty rating colour based on their star rating according to the following spectrum:
 
 ![osu! difficulty rating colour spectrum](img/osu-difficulty-spectrum.png)
 
