@@ -1,9 +1,3 @@
----
-needs_cleanup: true
----
-
-<!-- TODO: new videos and branding -->
-
 # osu!academy
 
 ![osu!academy's logo](img/osu!academy-logo.png "osu!academy logo")
