@@ -6,7 +6,7 @@
 
 **Medali Beatmap Pack** adalah medali yang diberikan ketika pemain menyelesaikan [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) atau [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist). Medali-medali ini bisa diperoleh dengan menyelesaikan seluruh beatmap sekurang-kurangnya sekali pada tingkat kesulitan manapun di dalam beatmap pack.
 
-Seluruh beatmap perlu diraih dengan mode permainan [osu!](/wiki/Game_mode/osu!) untuk mendapatkan lencana kecuali beatmap pack tersebut menspesifikasikan mode permainan tertentu. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#difficulty-reduction) atau [mod peningkat kesulitan](/wiki/Game_modifier#difficulty-increase) diperbolehkan.
+Seluruh beatmap perlu diraih dengan mode permainan [osu!](/wiki/Game_mode/osu!) untuk mendapatkan lencana kecuali beatmap pack tersebut menspesifikasikan mode permainan tertentu. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#pengurang-kesulitan) atau [mod peningkat kesulitan](/wiki/Game_modifier#peningkat-kesulitan) diperbolehkan.
 
 Namun perlu diperhatikan bahwa konten-konten dari seluruh Video Game Packs, Anime Packs, Internet! Packs, dan Rhythm Game Packs telah berubah drastis sejak [pengenalan pack-pack tersebut pada 2008](https://osu.ppy.sh/community/forums/topics/1853). Untuk daftar beatmap-beatmap packs ini pada kondisi aslinya, lihat [Legacy Beatmap Packs](/wiki/Medals/Legacy_Beatmap_Packs).
 
@@ -38,19 +38,19 @@ Karena medali Hush-Hush adalah semacam pencapaian rahasia, persyaratan pembuka m
 
 ## Beatmap Spotlights
 
-**Medali Beatmap Spotlights** adalah medali yang diberikan ketika pemain menyelesaikan beatmap pack yang dirilis sebagai bagian dari [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Agar medali dalam kategori ini dapat terbuka, pemain perlu bermain seluruh beatmap *pada pack mode game apapun* yang dipertandingkan dalam Beatmap Spotlight ranking chart. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#difficulty-reduction) atau [mod peningkat kesulitan](/wiki/Game_modifier#difficulty-increase) diperbolehkan.
+**Medali Beatmap Spotlights** adalah medali yang diberikan ketika pemain menyelesaikan beatmap pack yang dirilis sebagai bagian dari [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Agar medali dalam kategori ini dapat terbuka, pemain perlu bermain seluruh beatmap *pada pack mode game apapun* yang dipertandingkan dalam Beatmap Spotlight ranking chart. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#pengurang-kesulitan) atau [mod peningkat kesulitan](/wiki/Game_modifier#peningkat-kesulitan) diperbolehkan.
 
 Meskipun Monthly Beatmap Spotlights telah dihentikan sejak April 2018 untuk digantikan oleh [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), seluruh medali yang bersangkutan masih dapat diperoleh hingga saat ini.
 
 ## Seasonal Spotlights
 
-**Medali Seasonal Spotlights** adalah medali yang diberikan ketika pemain menyelesaikan beatmap pack yang dirilis sebagai bagian dari [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Agar medali dalam kategori ini dapat terbuka, pemain perlu bermain seluruh beatmap *pada pack mode game apapun* yang dipertandingkan dalam Seasonal Spotlight ranking chart. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#difficulty-reduction) atau [mod peningkat kesulitan](/wiki/Game_modifier#difficulty-increase) diperbolehkan.
+**Medali Seasonal Spotlights** adalah medali yang diberikan ketika pemain menyelesaikan beatmap pack yang dirilis sebagai bagian dari [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Agar medali dalam kategori ini dapat terbuka, pemain perlu bermain seluruh beatmap *pada pack mode game apapun* yang dipertandingkan dalam Seasonal Spotlight ranking chart. Penggunaan [mod pengurang kesulitan](/wiki/Game_modifier#pengurang-kesulitan) atau [mod peningkat kesulitan](/wiki/Game_modifier#peningkat-kesulitan) diperbolehkan.
 
 Meskipun Seasonal Spotlights telah dihentikan sejak awal tahun 2020 untuk digantikan oleh [sistem Beatmap Spotlights saat ini](wiki/Beatmap_Spotlights), seluruh medali yang bersangkutan masih dapat diperoleh hingga saat ini.
 
 ## Beatmap Challenge Packs
 
-**Medali Beatmap Challenge Packs**, atau dapat juga disebut [*Medali Skill Packs*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), adalah medali yang diberikan ketika pemain menyelesaikan tingkat kesulitan yang tersulit pada seluruh beatmap yang tersedia pada [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) atau [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *tanpa menggunakan [mod pengurang kesulitan](/wiki/Game_modifier#difficulty-reduction)*. Beatmap packs tersebut dibuat secara khusus untuk mengetes pemahaman pemain dalam berbagai aspek gameplay dalam level skill tertentu, contohnya [star rating](/wiki/Beatmap/Difficulty#star-rating) atau batas tingkat kesulitan tertentu.
+**Medali Beatmap Challenge Packs**, atau dapat juga disebut [*Medali Skill Packs*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), adalah medali yang diberikan ketika pemain menyelesaikan tingkat kesulitan yang tersulit pada seluruh beatmap yang tersedia pada [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) atau [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *tanpa menggunakan [mod pengurang kesulitan](/wiki/Game_modifier#pengurang-kesulitan)*. Beatmap packs tersebut dibuat secara khusus untuk mengetes pemahaman pemain dalam berbagai aspek gameplay dalam level skill tertentu, contohnya [star rating](/wiki/Beatmap/Difficulty#star-rating) atau batas tingkat kesulitan tertentu.
 
 Seluruh beatmap dalam pack harus diselesaikan dengan mode permainan [osu!](/wiki/Game_mode/osu!) untuk mendapatkan badge kecuali pack tersebut memiliki spesifikasi tertentu.
 
