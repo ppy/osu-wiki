@@ -9,8 +9,7 @@ tags:
   - nom de la difficulté
   - classement en étoiles
   - étoiles
-outdated:
-  - true
+outdated: true
 ---
 
 # Difficulté
