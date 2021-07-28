@@ -1,6 +1,5 @@
 ---
 needs_cleanup: true
-outdated: false
 ---
 
 <!-- TODO: new videos and branding -->
