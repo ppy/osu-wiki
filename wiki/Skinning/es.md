@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Skinning
 
 El skinning es una de las funciones clave de osu!. Le permite a los jugadores derivar de los elementos de skin originales y crear los suyos! Los skins pueden variar desde tematica, PRO, ser casi imposibles de usar, o simplemente por diversion.
