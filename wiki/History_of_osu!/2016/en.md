@@ -12,7 +12,7 @@
 
 **On 13 February 2016, a new rule change that attempted to change the then current beatmap difficulty spread criteria in ranked beatmaps sparked massive backlash from the beatmapping community** [[3]][r].
 
-While much of the response from the community regarded their disapproval for the new rule change (which attempted to limit the amount of difficulties allowed in a single ranked beatmap), a much larger discussion was started that centred around many users' discontent towards the osu! staff due to what they felt was a lack of transparency and player representation regarding then recent changes in the BAT (Beatmap Appreciation Team) as well as the creation of the RCC (Ranking Criteria Council) [[3]][r].
+While much of the response from the community was in disapproval of the new rule change (which attempted to limit the amount of difficulties allowed in a single ranked beatmap), a much larger discussion was started that centred around many users' discontent towards the osu! staff due to what they felt was a lack of transparency and player representation regarding then recent changes in the BAT (Beatmap Appreciation Team) as well as the creation of the RCC (Ranking Criteria Council) [[3]][r].
 
 A few days after the incident (17 February), [Ephemeral](https://osu.ppy.sh/users/102335) made a post on [peppy's blog](https://blog.ppy.sh "ppy blog") attempting to clarify the matter with a timeline of events leading up to the situation and what the osu! team intended to do to resolve it. With this, it was revealed that many changes were being made with regards to the structure of the BAT, beatmapping in general, and ranking processes with little-to-no prior discussion or explicit approval from the BAT or QAT [[4,5]][r].
 
