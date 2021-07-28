@@ -8,7 +8,7 @@ date: 2021-07-28 08:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/185/header.jpg)
 
-A familiar name to those who witnessed [*MONONOKE*](https://osu.ppy.sh/beatmapsets/1280194) in [OWC 2020](/wiki/Tournaments/OWC/2020), **seatrus** is a Tokyo-based producer with a knack for rhythm game-inspired songs designed specifically for rhythm game communities. From *SOUND VOLTEX* to *Lanota* to *Dynamix* and many many more, **seatrus**'s self-described "otaku music" has connected with countless gaming niches (osu! officially being one of them as of today!).
+A familiar name to those who witnessed [*MONONOKE*](https://osu.ppy.sh/beatmapsets/1280194) in [OWC 2020](/wiki/Tournaments/OWC/2020), **seatrus** is a Tokyo-based producer with a knack for rhythm game-inspired songs designed specifically for rhythm game communities. From *SOUND VOLTEX* to *Lanota* to *Dynamix* and many many more, **seatrus**'s self-described "otaku music" has connected with countless gaming niches, with osu! officially being one of them as of today!
 
 **21** awesome tracks across the spectrum of hardcore electronic genres are now available for mapping from [**seatrus**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/185)!
 
@@ -25,7 +25,7 @@ For those who haven't heard of **seatrus** yet, we've organized a few [showcase 
 Enjoy [the OWC 2020 masterpiece](https://osu.ppy.sh/beatmapsets/1280194) hosted by [Realazy](https://osu.ppy.sh/users/918297) of the Mappers' Guild!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/MONONOKE/seatrus%20-%20MONONOKE.mp3" type="audio/mpeg">
 </audio>
 
 ### %UnDeciphered-CryptoGraph in the Edifice%
@@ -33,7 +33,7 @@ Enjoy [the OWC 2020 masterpiece](https://osu.ppy.sh/beatmapsets/1280194) hosted 
 Play through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1203238) hosted by [WTHBRO](https://osu.ppy.sh/users/8957119)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/Songs/seatrus%20-%20%25UnDeciphered-CryptoGraph%20in%20the%20Edifice%25.mp3" type="audio/mpeg">
 </audio>
 
 ### efchi
@@ -41,7 +41,7 @@ Play through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1203238) hosted
 Or try [this other osu!taiko map](https://osu.ppy.sh/beatmapsets/1461343) hosted by [ikin5050](https://osu.ppy.sh/users/4007649) of the Mappers' Guild!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/efchi/seatrus%20-%20efchi.mp3" type="audio/mpeg">
 </audio>
 
 ### TH3 5UMMONERS
@@ -49,7 +49,7 @@ Or try [this other osu!taiko map](https://osu.ppy.sh/beatmapsets/1461343) hosted
 If you somehow missed it, try [this mapset](https://osu.ppy.sh/beatmapsets/1497954) by [Fisky](https://osu.ppy.sh/users/8352623) and [DTM9 Nowa](https://osu.ppy.sh/users/5428909) of the Mappers' Guild!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/185/Songs/seatrus%20-%20TH3%205UMMONERS.mp3" type="audio/mpeg">
 </audio>
 
 ---
