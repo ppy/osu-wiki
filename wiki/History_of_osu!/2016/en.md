@@ -44,7 +44,7 @@ Additionally, in response to the backlash from the community, Ephemeral promised
 
 ![](img/maria.jpg "Official artwork of Maria in her announcement newspost [[13]][r]")
 
-**The QAT (Quality Assurance Team) and their involvement in the beatmapping and modding process was significantly changed on 25 April 2016.** The changes made were described by [Loctav](https://osu.ppy.sh/users/71366) in a forum post at the time:
+**The QAT (Quality Assurance Team) and their involvement in the beatmapping and modding processes were significantly changed on 25 April 2016.** The changes made were described by [Loctav](https://osu.ppy.sh/users/71366) in a forum post at the time:
 
 > Going forward, the QAT will no longer be obligated to check every qualified beatmap for quality checks. Instead, they will be reactive in nature, responding to and addressing reports made by members of the community about a map’s quality.
 >
