@@ -92,7 +92,7 @@ A couple of examples of difficulties that will be impacted by this change more t
 
 As it turns out, strain skills had a problem where the presence of rate-changing mods (such as Double Time or Half Time) was causing strain values to decay incorrectly, using the base duration of the song instead of the new rate-changed result.
 
-This was most obvious when a map was manually stretched or squished in the editor to play as if either mod was not active. In practice, this error meant that maps with Half Time active had deflated star rating values while maps with Double Time had inflated values.
+This was most obvious when a map was manually stretched or squished in the editor to play as if either mod was not active. In practice, this error meant that maps with Half Time active had inflated star rating values while maps with Double Time had deflated values.
 
 [**Syrin**](https://osu.ppy.sh/users/5701575) [hunted down](https://github.com/ppy/osu/pull/11849) this particular problem some time ago during a previous restructuring and fixed it for good.
 
@@ -118,7 +118,7 @@ Consult the graphs below to see how this adjustment works in closer detail.
 
 ### osu!: Approach rate and Flashlight bonuses are now mutually exclusive
 
-As mentioned previously, approach rate values between 8 and 10.33 are known to give a bonus to a given play. When playing with the Flashlight mod enabled, another bonus was also applied.
+As mentioned previously, approach rate values lower than 8 and and greater than 10.33 are known to give a bonus to a given play. When playing with the Flashlight mod enabled, another bonus was also applied.
 
 Previously, these values stacked together in the end result, which makes very little sense given that approach circles become increasingly less visible when Flashlight ramps up at higher combos.
 
