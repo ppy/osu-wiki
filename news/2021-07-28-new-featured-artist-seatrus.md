@@ -8,7 +8,7 @@ date: 2021-07-28 08:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/185/header.jpg)
 
-A familiar name to those who witnessed [*MONONOKE*](https://osu.ppy.sh/beatmapsets/1280194) in [OWC 2020](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2020), **seatrus** is a Tokyo-based producer with a knack for rhythm game-inspired songs designed specifically for rhythm game communities. From *SOUND VOLTEX* to *Lanota* to *Dynamix* and many many more, **seatrus**'s self-described "otaku music" has connected with countless gaming niches (osu! officially being one of them as of today!).
+A familiar name to those who witnessed [*MONONOKE*](https://osu.ppy.sh/beatmapsets/1280194) in [OWC 2020](/wiki/Tournaments/OWC/2020), **seatrus** is a Tokyo-based producer with a knack for rhythm game-inspired songs designed specifically for rhythm game communities. From *SOUND VOLTEX* to *Lanota* to *Dynamix* and many many more, **seatrus**'s self-described "otaku music" has connected with countless gaming niches (osu! officially being one of them as of today!).
 
 **21** awesome tracks across the spectrum of hardcore electronic genres are now available for mapping from [**seatrus**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/185)!
 
