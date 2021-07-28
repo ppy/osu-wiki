@@ -243,8 +243,7 @@ These words must be spelt as follows (spacing must match):
 
 Some words have variants. Their preferred spelling must be used and is as follows:
 
-- `beatmap` instead of `map`.
-- `creator` instead of `beatmapper` or `mapper`.
+- `creator` or `mapper` instead of `beatmapper`.
 - `mapped` instead of `beatmapped`.
 - `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*.
 - `sign in` instead of `log in`, unless the name of a button or link says otherwise.
