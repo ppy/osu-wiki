@@ -56,7 +56,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **[jLuyalb](https://osu.ppy.sh/users/7093698)**, [prodilex](https://osu.ppy.sh/users/9472628), [NEDEAAAHHHH](https://osu.ppy.sh/users/65724), [\[Crz\]kOvID-](https://osu.ppy.sh/users/13858488), [LeongKat](https://osu.ppy.sh/users/11429144), [ottenst](https://osu.ppy.sh/users/13488325) |
+| ![][flag_AR] | **Argentina** | **[BossPlays](https://osu.ppy.sh/users/7341471)**, [prodilex](https://osu.ppy.sh/users/9472628), [NEDEAAAHHHH](https://osu.ppy.sh/users/65724), [\[Crz\]kOvID-](https://osu.ppy.sh/users/13858488), [LeongKat](https://osu.ppy.sh/users/11429144), [ottenst](https://osu.ppy.sh/users/13488325) |
 | ![][flag_AU] | **Australia** | **[ruka](https://osu.ppy.sh/users/6117525)**, [a1ternation](https://osu.ppy.sh/users/9828306), [Vegemite](https://osu.ppy.sh/users/13111686), [Bounter](https://osu.ppy.sh/users/11149878), [HD\_AdreNaline](https://osu.ppy.sh/users/10540368), [Nerd Guy](https://osu.ppy.sh/users/11247298) |
 | ![][flag_BE] | **Belgium** | **[Mortelspawn\_](https://osu.ppy.sh/users/5331420)**, [yetii](https://osu.ppy.sh/users/6914714), [spamblock](https://osu.ppy.sh/users/11968058), [Akeyro](https://osu.ppy.sh/users/1933624), [shaafs](https://osu.ppy.sh/users/8811695), [Joppe27](https://osu.ppy.sh/users/11753018) |
 | ![][flag_BR] | **Brazil** | **[Amerom](https://osu.ppy.sh/users/5691061)**, [SillyFangirl](https://osu.ppy.sh/users/2288363), [Lothus](https://osu.ppy.sh/users/9530019), [Liight00](https://osu.ppy.sh/users/13601876), [\[LS\]LeMarcinho](https://osu.ppy.sh/users/13347579), [Lenn](https://osu.ppy.sh/users/11236829) |
