@@ -27,13 +27,15 @@ As a brief reminder/summary, the following values are a core part of the perform
 
 Deployment of these changes will as usual, take some time to fully complete. As this batch of changes affects all game modes, it will likely take longer than normal. If you are interested in following the progress we recommend you bookmark this page and check back on this section, as it will be updated as forward progress is made.
 
-### 🏃 Star rating updates \[2021-07-28\]
+### 🏃 Star rating updates \[2021-07-28 - 2021-08-01\]
 
 An initial pass over all beatmaps to update their star ratings. This will take immediate effect for all newly submitted scores.
 
-Estimated to take less than one day.
+Estimated to take 3-4 days. 
 
-### 🛑 Background user total recalculations \[2021-07-29\]
+UPDATE: As of 2021-07-29 16:00 UTC, osu! star ratings have been updated. osu!taiko, osu!catch and osu!mania are 25% completed and still running (and taking longer due to the number of mods and conversion options).
+
+### 🛑 Background user total recalculations \[2021-08-02\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
