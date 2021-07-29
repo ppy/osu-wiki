@@ -1,4 +1,4 @@
-# Conditions de déverrouillage des médailles Beatmap Spotlights
+# Conditions de déverrouillage des médailles : Beatmap Spotlights
 
 | Nom de la médaille | Condition |
 | :-- | :-- |

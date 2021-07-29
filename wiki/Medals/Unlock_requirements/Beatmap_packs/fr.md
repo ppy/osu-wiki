@@ -1,4 +1,4 @@
-# Conditions de déverrouillage des médailles Beatmap Packs
+# Conditions de déverrouillage des médailles : Beatmap Packs
 
 | Nom de la médaille | Condition |
 | :-- | :-- |

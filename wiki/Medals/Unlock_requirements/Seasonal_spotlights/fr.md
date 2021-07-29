@@ -1,4 +1,4 @@
-# Conditions de déverrouillage des médailles Seasonal Spotlights
+# Conditions de déverrouillage des médailles : Seasonal Spotlights
 
 | Nom de la médaille | Condition |
 | :-- | :-- |

@@ -1,4 +1,4 @@
-# Conditions de déverrouillage des médailles Mod Introduction
+# Conditions de déverrouillage des médailles : Mod Introduction
 
 | Nom de la médaille | Condition |
 | :-- | :-- |

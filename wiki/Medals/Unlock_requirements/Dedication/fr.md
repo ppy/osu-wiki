@@ -1,4 +1,4 @@
-# Conditions de déverrouillage des médailles Dedication
+# Conditions de déverrouillage des médailles : Dedication
 
 | Nom de la médaille | Condition |
 | :-- | :-- |
