@@ -7,8 +7,6 @@
 We hope that new players will find these videos informative, and help ease the arguably steep learning curve associated with the game.
 If you have any questions or comments, please forward them to [ztrot](https://osu.ppy.sh/users/6347); he is the primary and almost sole owner of the osu! academy and its channel.
 
-[Now with a trailer](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg "YouTube").
-
 ## Core Episodes
 
 | Episode Thumbnail | Link | Description |
@@ -80,8 +78,9 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 | ![](img/lapse-8.png) | [Episode 8](https://www.youtube.com/watch?v=UfWlpD3pocs "YouTube") | In this episode, [Chromoxx](https://osu.ppy.sh/users/1881639) goes over the time lapse mapping of the Kantan difficulty of Circles in the taiko gamemode! |
 | ![](img/lapse-9.png) | [Episode 9](https://www.youtube.com/watch?v=REpmCJEB9jY "YouTube") | In this episode, [Evening](https://osu.ppy.sh/users/2193881) covers the time lapse mapping of the 4K Insane difficulty of LANGUAGE (KAYZO AND GAMMER REMIX) in the mania gamemode! |
 
-## External Links
+## Related links
 
-- [Source](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
-- [Official YouTube channel](https://www.youtube.com/user/osuacademy/videos "YouTube")
+- [Official YouTube channel](https://www.youtube.com/user/osuacademy "YouTube")
 - [Official thread](https://osu.ppy.sh/community/forums/topics/169707)
+- [Series announcement](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
+- [Series trailer](https://www.youtube.com/watch?v=z5gy34k3RI0 "YouTube")
