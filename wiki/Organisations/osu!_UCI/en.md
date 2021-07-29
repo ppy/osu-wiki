@@ -38,7 +38,6 @@ See the [osu! UCI tournament index](/wiki/Tournaments/osu!_UCI) for wiki article
 - ![][flag_US] Alex "[Giraffle](https://osu.ppy.sh/users/5344769)" Luu
 - ![][flag_US] Alex "[Riku on osu](https://osu.ppy.sh/users/3071659)" Liu
 - ![][flag_US] Benia "[DicingDice](https://osu.ppy.sh/users/9646200)" Ean
-- ![][flag_US] Bradley "[mauler68](https://osu.ppy.sh/users/4387850)" Shood
 - ![][flag_US] Jimmy "[Jim](https://osu.ppy.sh/users/2893182)" Zhang
 - ![][flag_JP] Jiufu "[Jiufu](https://osu.ppy.sh/users/6342891)" Cai
 - ![][flag_US] Jonathan "[ilalalayou](https://osu.ppy.sh/users/3144766)" Cheng
