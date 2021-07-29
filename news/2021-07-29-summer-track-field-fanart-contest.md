@@ -29,13 +29,13 @@ Any mischief is fair game as long as it relates to track and field events someho
 
 You've got **14 days** from the date of this post to bring your imagination to life, **but only after you've read all the rules below**.
 
-A top selection of the highest voted entries will make it to the main menu of the osu! game client (both stable and osu!lazer's preview builds) as our Summer 2021 Seasonal backgrounds, and nab their authors a fat lump (3 months) of osu! supporter. The top 3 entries will also receive a fancy profile badge of their own entry, too!
+A top selection of the highest voted entries will make it to the main menu of the osu! game client (both in osu!(stable) and osu!(lazer) preview builds) as our Summer 2021 Seasonal backgrounds, and nab their authors a fat lump (3 months) of osu! supporter. The top 3 entries will also receive a fancy profile badge of their own entry, too!
 
 Time for the rules:
 
 ## Rules
 
-- **By submitting your artwork to this contest, you grant us permission to use your artwork in the main menu of both clients (osu!stable and osu!lazer) should it win, and to use it in promotional material for both the game (osu!) and the contest (Summer 2021 Track and Field Fanart Contest).** You retain all rights to your creation and you can sell it and distribute it however you like — it is your work, after all. We're just saying here that if you submit your piece to this contest, you should be okay with us using it. If you aren't, please don't submit your entry!
+- **By submitting your artwork to this contest, you grant us permission to use your artwork in the main menu of both clients (osu!(stable) and osu!(lazer)) should it win, and to use it in promotional material for both the game (osu!) and the contest (Summer 2021 Track and Field Fanart Contest).** You retain all rights to your creation and you can sell it and distribute it however you like — it is your work, after all. We're just saying here that if you submit your piece to this contest, you should be okay with us using it. If you aren't, please don't submit your entry!
 - **All entries MUST be themed around any of the osu! (or community) mascots engaged in track and field events or related shenanigans.** Check the list above for what constitutes 'track and field' events, but if you've ever been to a school's athletics carnival, it's basically anything that happens there.
 - **All entries MUST be suitable for all-ages viewing.** Yes, athletics wear can sometimes hug one's contours. Whatever you draw our mascots wearing (or doing), please ensure that it is reasonable for an all-ages audience.
 - **Please do not include any logos or obvious references to the logos or branding of any global sporting events.** One such event happening in Tokyo right now tends to be very aggressive about where its logo gets used, so please keep things as generic as possible in this regard.
