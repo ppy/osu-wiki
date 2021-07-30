@@ -15,7 +15,7 @@ tags:
 
 Les personnes énumérées ci-dessous constituent le noyau de l'**équipe d'osu!** et sont principalement chargées d'aider à rendre le jeu génial pour tout le monde.
 
-| Nom | Rôle 
+| Nom | Rôle |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Chef de projet** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Conseiller sur le modding et le mapping |
