@@ -44,7 +44,7 @@ Judges weren't the only ones impressed though — **10** of the 11 screeners put
 
 ### Runner-up
 
-[ScubDomino](https://osu.ppy.sh/users/8972308) put full investment into this contest's theme with their entry of [*Tanchiky vs. Hagane - Legacy 8086](https://osu.ppy.sh/beatmapsets/1531148). Sporting patterns so square-centric that it's hard to even define them as rankable, this entry is a treat for anyone looking for something out of the box.
+[ScubDomino](https://osu.ppy.sh/users/8972308) put full investment into this contest's theme with their entry of [*Tanchiky vs. Hagane - Legacy 8086*](https://osu.ppy.sh/beatmapsets/1531148). Sporting patterns so square-centric that it's hard to even define them as rankable, this entry is a treat for anyone looking for something out of the box.
 
 ---
 
