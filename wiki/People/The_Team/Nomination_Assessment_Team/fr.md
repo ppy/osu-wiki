@@ -20,7 +20,7 @@ Les NAT sont responsables d'une variété de tâches liées au mapping qui peuve
 - **Évaluation :** Évaluer les compétences et l'activité des candidats et des Beatmap Nominator actuels. La plupart des membres du NAT sont responsables de la contribution à cette sous-catégorie.
 - **Structurel :** Documenter les sujets relatifs au processus de classement, modifier les règles et les directives relatives aux [critères de classement](/wiki/Ranking_Criteria), développer et maintenir les outils et les sites web associés.
 - **Modération :** Traiter les rapports des utilisateurs et évaluer le comportement inapproprié des Beatmap Nominators. Cette sous-catégorie est un effort conjoint entre le NAT et le GMT.
-- **Modération :** Promouvoir la transparence entre la NAT et la communauté de mapping/modding, notamment en créant et en organisant des réunions.
+- **Communication :** Promouvoir la transparence entre la NAT et la communauté de mapping/modding, notamment en créant et en organisant des réunions.
 
 Un membre de la NAT peut s'engager dans n'importe quelle tâche de la sous-catégorie de son choix, malgré la liste de ses responsabilités principales. Par exemple, si un membre du NAT donne la priorité à la sous-catégorie `Structurel`, il n'est pas responsable de toutes les tâches de cette sous-catégorie et il peut toujours aider aux tâches de toute autre sous-catégorie.
 
