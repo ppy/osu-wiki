@@ -351,6 +351,8 @@ Saturday, 4 August 2018:
 
 #### Losers Semifinals
 
+Sunday, 5 August 2018:
+
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **6** | 4 | ![][flag_US] Apraxia | [#1](https://osu.ppy.sh/community/matches/44803063) |
