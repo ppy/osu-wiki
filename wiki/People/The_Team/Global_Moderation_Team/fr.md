@@ -40,7 +40,7 @@ Les facteurs les plus importants à prendre en compte sont le comportement, l'ac
 
 1. Faites preuve d'un bon comportement en étant poli et en traitant les autres utilisateurs avec respect. Il est essentiel que votre compte soit exempt de silences ou de problèmes graves.
 2. Faire preuve d'activité dans le jeu en participant au chat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Reporting_Bad_Behaviour) et tout problème via le système de rapport. Répondre aux questions et aider les autres à résoudre leurs problèmes.
-3. Avoir une bonne compréhension des [règles] (/wiki/Rules) et de leur application. Il est important de savoir ce qui est acceptable au sein d'osu! et ce qui ne l'est pas.
+3. Avoir une bonne compréhension des [règles](/wiki/Rules) et de leur application. Il est important de savoir ce qui est acceptable au sein d'osu! et ce qui ne l'est pas.
 4. Soyez patient. Le GMT n'ajoute pas spontanément des membres qui aident depuis quelques jours seulement. Il faut du temps au GMT pour évaluer une personne - sa personnalité, ce qu'elle peut faire, son activité, etc.
 
 En général, l'équipe observe les personnes pendant plusieurs semaines ou mois pour s'assurer qu'elles constituent un ajout valable à l'équipe. Veuillez être patient et ne pas en faire trop. N'hésitez pas à demander à n'importe qui de l'équipe de GMT pour toute question concernant les règles, le signalement des utilisateurs, et tout autre problème.
