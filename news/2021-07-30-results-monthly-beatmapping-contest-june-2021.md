@@ -28,7 +28,7 @@ So how are the winners selected? [Screening](/wiki/Contests/Monthly_Beatmapping_
 | Rank | Beatmap | Judging | Musical representation (80) | Creativity (80) | Gameplay (80) | Theme (80) | Total (raw/standardized) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | \#1 | [TITLE](LINK) by [kuyusu](https://osu.ppy.sh/users/11758667) | [see details](https://mappersguild.com/contestresults?submission=60e21c241f02780e58fa28e2) | 63 | 66 | 54 | 65 | **248** (**7.33**) |
-| \#2 | [*Legacy 8086*](https://osu.ppy.sh/beatmapsets/1531148) by [ScubDomino](https://osu.ppy.sh/users/8972308) | [see details](https://mappersguild.com/contestresults?submission=60e21c231f02780e58fa28bc) | 57 | 57 | 52 | 65 |**231** (**5.09**) | 
+| \#2 | [*Legacy 8086*](https://osu.ppy.sh/beatmapsets/1531148) by [ScubDomino](https://osu.ppy.sh/users/8972308) | [see details](https://mappersguild.com/contestresults?submission=60e21c231f02780e58fa28bc) | 57 | 57 | 52 | 65 |**231** (**5.09**) |
 | \#3 | [*Legacy 8086*](https://osu.ppy.sh/beatmapsets/1531569) by [William K](https://osu.ppy.sh/users/2261651) | [see details](https://mappersguild.com/contestresults?submission=60e21c241f02780e58fa28de) | 49 | 49 | 45 | 55 | **198** (**-1.04**) |
 | \#4 | [*Voice*](https://osu.ppy.sh/beatmapsets/1532435) by [Kyrian](https://osu.ppy.sh/users/13653298) | [see details](https://mappersguild.com/contestresults?submission=60e21c231f02780e58fa28ba) | 61 | 35 | 62 | 46 | **204** (**-1.72**) |
 | \#5 | [*REDOUT feat. Torika*](https://osu.ppy.sh/beatmapsets/1531162) by [fowwo](https://osu.ppy.sh/users/4547551) | [see details](https://mappersguild.com/contestresults?submission=60e21c231f02780e58fa28cb) | 45 | 42 | 39 | 46 | **172** (**-4.68**) |
