@@ -40,7 +40,7 @@ Le NAT suit les candidats potentiels à la NAT sur de longues périodes, et se r
 
 *Remarque : Tous les membres de la NAT parlent l'anglais en plus de la ou des langues énumérées ci-dessous, sauf indication contraire.*
 
-La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la Nomination Assessment Team prennent part à [l'examen du contenu audio et visuel inclus dans les beatmaps] (/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la Nomination Assessment Team prennent part à [l'examen du contenu audio et visuel inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 ### osu!
 
