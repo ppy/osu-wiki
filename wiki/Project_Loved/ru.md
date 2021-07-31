@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
+---
+
 # Project Loved
 
 **Project Loved** (*проект «Любимые карты»*, также *«Лавд»*) — это платформа для голосования, через которую карты попадают в категорию [Loved](/wiki/Beatmap/Category#loved). Проектом управляет [одноимённая команда](/wiki/People/The_Team/Project_Loved_Team).

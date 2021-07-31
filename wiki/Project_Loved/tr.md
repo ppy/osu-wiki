@@ -28,7 +28,7 @@ Beatmaplerin Sevilen kategorisine aday gösterilebilmesi için karşılaması ge
 - Yaratıcısı banlı ya da kısıtlı olmamalı.
 - En az bir zorluğun geçilebilir olmalı.
 - En az 30 favoriye sahip olmalı (sadece osu! mapleri için geçerlidir)
-- Her zorluk en az 30 saniyelik [akış süresine](/wiki/Gameplay/Drain_time) sahip olmalı.
+- Aday gösterilen her zorluk en az 30 saniyelik [akış süresine](/wiki/Gameplay/Drain_time) sahip olmalı.
 
 Ancak, neredeyse tüm [Beklemede ve Yapım aşamasındaki](/wiki/Beatmap/Category#work-in-progress-and-pending) maplerin bu kriterlere uymasına rağmen, nispeten daha seçici aday gösterme ve oylama gereksinimlerinden dolayı yalnızca birkaçı Sevilen kategorisine eklenmesi için oylanır.
 
