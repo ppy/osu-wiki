@@ -53,7 +53,7 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Gère les Beatmap Nominators |
 | [osu! Alumni](osu!_Alumni) | Ceux qui sont connus pour leur contribution et qui sont partis depuis lors |
 | [Project Loved Team](Project_Loved_Team) | Reconnaître les beatmaps les plus appréciés par la communauté |
-| [Support Team](Support_Team) | Aide/Assistance aux demandes de fonctionnalités |
+| [Équipe du support](Support_Team) | Aide/Assistance aux demandes de fonctionnalités |
 
 ## Membres inactifs de l'équipe centrale
 
