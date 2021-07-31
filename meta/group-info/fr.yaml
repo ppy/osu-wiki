@@ -9,7 +9,7 @@ alumni:
     support: Support Team
     tournaments: Gestion des tournois
 gmt:
-  all_mods: Tout les modérateurs
+  all_mods: Tous les modérateurs
   areas:
     beatmap: Modération des beatmaps
     chat: Modération du tchat
@@ -28,7 +28,7 @@ nat:
     moderation: Modération
     structural: Structurel
 languages:
-  partial: un peut de <language>
+  partial: un peu de <language>
   ar: Arabe
   bg: Bulgare
   bn: Bengali
