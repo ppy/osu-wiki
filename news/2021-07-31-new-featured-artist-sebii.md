@@ -29,7 +29,7 @@ Play through any of these awesome maps from (almost) any mode:
 - [osu!catch map](https://osu.ppy.sh/beatmapsets/1512572) hosted by [Nelly](https://osu.ppy.sh/users/4741164) (made specifically for this artist announcement!)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/186/Songs/SEBii%20-%20Play%20Poker%20Remix%20%28wMaple%29%20%28Cut%20Ver.%29.mp3" type="audio/mpeg">
 </audio>
 
 ### BONErr
@@ -37,13 +37,13 @@ Play through any of these awesome maps from (almost) any mode:
 Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1393604) hosted by [Mokobe](https://osu.ppy.sh/users/10374819)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/186/Songs/SEBii%20-%20BONErr.mp3" type="audio/mpeg">
 </audio>
 
 ### do u care, if i stare?
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/186/Songs/SEBii%20-%20do%20u%20care%2C%20if%20i%20stare.mp3" type="audio/mpeg">
 </audio>
 
 ---
