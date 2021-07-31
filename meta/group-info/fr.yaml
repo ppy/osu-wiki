@@ -6,7 +6,7 @@ alumni:
     chat: Modérateur de tchat
     dev: osu!dev
     media: Créateur de osu!media
-    support: Support Team
+    support: Équipe du support
     tournaments: Gestion des tournois
 gmt:
   all_mods: Tous les modérateurs
@@ -26,7 +26,7 @@ nat:
     communication: Communication
     evaluation: Évaluation
     moderation: Modération
-    structural: Structurel
+    structural: Structure
 languages:
   partial: un peu de <language>
   ar: Arabe
