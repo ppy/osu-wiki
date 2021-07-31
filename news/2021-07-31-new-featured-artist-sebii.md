@@ -15,7 +15,7 @@ We've pulled **6** tracks from **SEBii**'s insanely impressive catalogue, all of
 Looking for a sample of **SEBii**'s music? "Yes" is the correct answer. Check out [the map that brought **SEBii** to osu!](https://osu.ppy.sh/beatmapsets/1391589) through the somehow lyrically relevant feet-gameplay video below, then explore the rest of the previews:
 
 <div align="center">
-    <video width="95%" controls>
+    <video width="70%" controls>
         <source src="https://assets.ppy.sh/artists/186/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
