@@ -75,6 +75,8 @@ Metaveri denetçileri oylamaya sunulacak her bir mapi kontrol eder, ve mapperlar
 
 ## Emekli üyeler
 
+Aşağıda listelenen kullanıcılar bir zamanlar Project Loved Takımının bir parçasıydı.
+
 ### Koordinatörler
 
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
