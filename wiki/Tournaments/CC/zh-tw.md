@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Corgi Cup
 
 所有 Corgi Cup 系列賽的索引頁。

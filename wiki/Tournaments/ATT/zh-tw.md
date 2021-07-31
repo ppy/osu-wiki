@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Ausu!Taiko Tournament
 
 所有 Ausu!Taiko 系列錦標賽的索引頁。

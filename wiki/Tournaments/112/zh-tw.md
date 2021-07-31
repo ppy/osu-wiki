@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 112's Tournaments
 
 所有 112's 系列錦標賽的索引頁。

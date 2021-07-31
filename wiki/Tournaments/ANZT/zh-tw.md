@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Aus/NZ osu!standard Tournament
 
 所有 Aus/NZ osu!standard 系列錦標賽的索引頁。

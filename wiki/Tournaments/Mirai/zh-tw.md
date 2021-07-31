@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Mirai. Tournament
 
 所有 Mirai. Tournament 系列錦標賽的索引頁。

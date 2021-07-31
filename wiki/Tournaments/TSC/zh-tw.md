@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Taiko Suiji Cup
 
 所有 Taiko Suiji Cup 系列賽的索引頁。

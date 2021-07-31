@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!taiko 世界盃
 
 所有 osu!taiko 世界盃系列賽的索引頁。
