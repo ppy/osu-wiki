@@ -38,6 +38,8 @@ Sevilen kategorisine giren beatmapler birtakım ek kuralları takip etmek zorund
 - [Şarkı İçeriği Kuralları](/wiki/Rules/Song_Content_Rules)
 - [Görsel İçerik Hususları](/wiki/Rules/Visual_Content_Considerations)
 
+Ek olarak, şarkının ses kalitesini kabul edilebilir bir seviyede tutmak adına, beatmapin ses dosyaları 192kbps bit oranından yüksek olmaksızın mümkün olan en kaliteli kaynaktan edinilmelidir.
+
 Bu kurallarla ilgili oluşan sorunlar genellikle map oylamaya açıkken çözüme kavuşturulur.
 
 ### Aday gösterme önceliği

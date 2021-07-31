@@ -38,6 +38,8 @@ Beatmaps entering the Loved category are required to follow some additional rule
 - [Song Content Rules](/wiki/Rules/Song_Content_Rules)
 - [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations)
 
+Additionally, in order to keep the audio quality of the song at a reasonable level, beatmap's audio files should be from the highest quality source available while having an average bit rate no greater than 192kbps.
+
 Any problems with these rules are usually sorted out while the map is up for voting.
 
 ### Nomination priority
