@@ -18,11 +18,11 @@ Les membres de la NAT se distinguent par leur nom d'utilisateur rouge et leur ti
 Les NAT sont responsables d'une variété de tâches liées au mapping qui peuvent être séparées en quatre sous-catégories :
 
 - **Évaluation :** Évaluer les compétences et l'activité des candidats et des Beatmap Nominator actuels. La plupart des membres du NAT sont responsables de la contribution à cette sous-catégorie.
-- **Structurel :** Documenter les sujets relatifs au processus de classement, modifier les règles et les directives relatives aux [critères de classement](/wiki/Ranking_Criteria), développer et maintenir les outils et les sites web associés.
+- **Structure :** Documenter les sujets relatifs au processus de classement, modifier les règles et les directives relatives aux [critères de classement](/wiki/Ranking_Criteria), développer et maintenir les outils et les sites web associés.
 - **Modération :** Traiter les rapports des utilisateurs et évaluer le comportement inapproprié des Beatmap Nominators. Cette sous-catégorie est un effort conjoint entre le NAT et le GMT.
 - **Communication :** Promouvoir la transparence entre la NAT et la communauté de mapping/modding, notamment en créant et en organisant des réunions.
 
-Un membre de la NAT peut s'engager dans n'importe quelle tâche de la sous-catégorie de son choix, malgré la liste de ses responsabilités principales. Par exemple, si un membre du NAT donne la priorité à la sous-catégorie `Structurel`, il n'est pas responsable de toutes les tâches de cette sous-catégorie et il peut toujours aider aux tâches de toute autre sous-catégorie.
+Un membre de la NAT peut s'engager dans n'importe quelle tâche de la sous-catégorie de son choix, malgré la liste de ses responsabilités principales. Par exemple, si un membre du NAT donne la priorité à la sous-catégorie `Structure`, il n'est pas responsable de toutes les tâches de cette sous-catégorie et il peut toujours aider aux tâches de toute autre sous-catégorie.
 
 En plus des capacités de modération, les NAT possèdent également la capacité de [nominer](/wiki/Beatmap_ranking_procedure#nominations), [qualifier](/wiki/Beatmap_ranking_procedure#qualification), et [réinitialiser les nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) sur les beatmaps. Dans ce domaine, ils sont considérés comme des [BN complets](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators), et toutes les règles et attentes des BN, à part l'activité, s'appliquent aux membres des NAT. Les membres de la NAT ne sont pas censés nommer des beatmaps régulièrement comme le font les BN en raison de leurs responsabilités supplémentaires dans la communauté de modding et de mapping d'osu!
 
@@ -49,12 +49,12 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Évaluation, Modération |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Évaluation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, Chinois | Évaluation |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, un peu d'Arabe | Évaluation, Structurel, Modération, Modération |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, un peu d'Arabe | Évaluation, Structure, Modération, Modération |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Évaluation |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Structurel, Modération |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Évaluation, Structurel, Modération |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structurel |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portugais | Évaluation, Structurel, Modération |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Structure, Modération |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Évaluation, Structure, Modération |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structure |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portugais | Évaluation, Structure, Modération |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Néerlandais | Évaluation |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polonais | Évaluation |
 
@@ -70,7 +70,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | Nom | Langues supplémentaires | Principales responsabilités |
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espagnol, Allemand | Évaluation, modération |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Néerlandais | Évaluation, Structurel |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Néerlandais | Évaluation, Structure |
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coréen | Évaluation, Modération |
 
 ### osu!mania
