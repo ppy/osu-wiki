@@ -19,26 +19,26 @@ Jika kamu ingin mengetahui cara membuat slider yang bagus, kunjungi artikel [Mem
 
 #### Kreatif
 
-- [Blanket Combos](Formations/#blanket-combos)
-- [Divebomb Combos](Formations/#divebomb-combos)
-- [Flower Combos](Formations/#flower-combos)
-- [Honeycomb Beats](Formations/#honeycomb-beats)
-- [Star Formations](Formations/#star-formations)
-- [The Kickstream](Formations/#the-kickstream)
-- [Tornado Combos](Formations/#tornado-combos)
-- [ztrot Spacing](Formations/#ztrot-spacing)
+- [Blanket Combos](Formations#blanket-combos)
+- [Divebomb Combos](Formations#divebomb-combos)
+- [Flower Combos](Formations#flower-combos)
+- [Honeycomb Beats](Formations#honeycomb-beats)
+- [Star Formations](Formations#star-formations)
+- [The Kickstream](Formations#the-kickstream)
+- [Tornado Combos](Formations#tornado-combos)
+- [ztrot Spacing](Formations#ztrot-spacing)
 
 #### Bentuk Simetris
 
-- [Circle Formation](Formations/#circle-formation)
-- [Diamond Formation](Formations/#diamond-formation)
-- [Double Stacks](Formations/#double-stacks)
-- [QQ Diamonds](Formations/#qq-diamonds)
-- [Reversed Zig-zag Sliders](Formations/#reversed-zig-zag-sliders)
-- [Square Formation](Formations/#square-formation)
-- [Square Formation v2](Formations/#square-formation-v2)
-- [Triangle Beats](Formations/#triangle-beats)
-- [Zig-Zag Sliders](Formations/#zig-zag-sliders)
+- [Circle Formation](Formations#circle-formation)
+- [Diamond Formation](Formations#diamond-formation)
+- [Double Stacks](Formations#double-stacks)
+- [QQ Diamonds](Formations#qq-diamonds)
+- [Reversed Zig-zag Sliders](Formations#reversed-zig-zag-sliders)
+- [Square Formation](Formations#square-formation)
+- [Square Formation v2](Formations#square-formation-v2)
+- [Triangle Beats](Formations#triangle-beats)
+- [Zig-Zag Sliders](Formations#zig-zag-sliders)
 
 ### Jump
 
@@ -46,17 +46,17 @@ Jika kamu ingin mengetahui cara membuat slider yang bagus, kunjungi artikel [Mem
 
 #### Hit Circle
 
-- [Anti-Jumps](Jumps/#anti-jumps)
-- [Anti-SeibeiStyle-Jumps](Jumps/#anti-seibeistyle-jumps)
-- [Center Anti-Jumps](Jumps/#center-anti-jumps)
-- [Large Jumps](Jumps/#large-jumps)
-- [Oibon Jumps](Jumps/#oibon-jumps)
+- [Anti-Jumps](Jumps#anti-jumps)
+- [Anti-SeibeiStyle-Jumps](Jumps#anti-seibeistyle-jumps)
+- [Center Anti-Jumps](Jumps#center-anti-jumps)
+- [Large Jumps](Jumps#large-jumps)
+- [Oibon Jumps](Jumps#oibon-jumps)
 
 #### Slider
 
-- [B&F Sliderbased Jumps](Jumps/#b-f-sliderbased-jumps)
-- [Endpoint Slider Jumps](Jumps/#endpoint-slider-jumps)
-- [Orbital Sliders](Jumps/#orbital-sliders)
+- [B&F Sliderbased Jumps](Jumps#b-f-sliderbased-jumps)
+- [Endpoint Slider Jumps](Jumps#endpoint-slider-jumps)
+- [Orbital Sliders](Jumps#orbital-sliders)
 
 ### Rhythm
 
@@ -64,30 +64,30 @@ Jika kamu ingin mengetahui cara membuat slider yang bagus, kunjungi artikel [Mem
 
 #### Spacing
 
-- [15 Degree Patterns](Rhythm/#15-degree-patterns)
-- [Accelerated Spacing](Rhythm/#accelerated-spacing)
-- [Back and Forth Beats](Rhythm/#back-and-forth-beats)
-- [Differential Stacks](Rhythm/#differential-stacks)
-- [Drain Sections](Rhythm/#drain-sections)
-- [Half-Backing](Rhythm/#half-backing)
-- [Hub and Spoke](Rhythm/#hub-and-spoke)
-- [Linear Back and Forth](Rhythm/#linear-back-and-forth)
-- [Spacing Out](Rhythm/#spacing-out)
-- [Step-Too-Fars](Rhythm/#step-too-fars)
+- [15 Degree Patterns](Rhythm#15-degree-patterns)
+- [Accelerated Spacing](Rhythm#accelerated-spacing)
+- [Back and Forth Beats](Rhythm#back-and-forth-beats)
+- [Differential Stacks](Rhythm#differential-stacks)
+- [Drain Sections](Rhythm#drain-sections)
+- [Half-Backing](Rhythm#half-backing)
+- [Hub and Spoke](Rhythm#hub-and-spoke)
+- [Linear Back and Forth](Rhythm#linear-back-and-forth)
+- [Spacing Out](Rhythm#spacing-out)
+- [Step-Too-Fars](Rhythm#step-too-fars)
 
 #### Speed
 
-- [Slider Slowdowns](Rhythm/#slider-slowdowns)
+- [Slider Slowdowns](Rhythm#slider-slowdowns)
 
 #### Stream
 
-- [Compressed Streams](Rhythm/#compressed-streams)
-- [Discontinuous Streams](Rhythm/#discontinuous-streams)
-- [Deathstreams](Rhythm/#deathstreams)
-- [Slider Stream Jumps](Rhythm/#slider-stream-jumps)
-- [Triplet Streams](Rhythm/#triplet-streams)
-- [Variable Spaced Streams](Rhythm/#variable-spaced-streams)
-- [Zig-Zag Streams](Rhythm/#zig-zag-streams)
+- [Compressed Streams](Rhythm#compressed-streams)
+- [Discontinuous Streams](Rhythm#discontinuous-streams)
+- [Deathstreams](Rhythm#deathstreams)
+- [Slider Stream Jumps](Rhythm#slider-stream-jumps)
+- [Triplet Streams](Rhythm#triplet-streams)
+- [Variable Spaced Streams](Rhythm#variable-spaced-streams)
+- [Zig-Zag Streams](Rhythm#zig-zag-streams)
 
 ### Spinner
 
@@ -110,39 +110,39 @@ Jika kamu ingin mengetahui cara membuat slider yang bagus, kunjungi artikel [Mem
 
 #### Pola
 
-- [Etna Sliders](Sliders/#etna-sliders)
-- [Introverted Flow](Sliders/#introverted-flow)
-- [Mirrored Sliders](Sliders/#mirrored-sliders)
-- [Parallel Sliders](Sliders/#parallel-sliders)
-- [Segment Sliders](Sliders/#segment-sliders)
-- [Short Repeating Sliders](Sliders/#short-repeating-sliders)
-- [Slider Trains](Sliders/#slider-trains)
-- [Zig-Zagging Sliders](Sliders/#zig-zagging-sliders)
+- [Etna Sliders](Sliders#etna-sliders)
+- [Introverted Flow](Sliders#introverted-flow)
+- [Mirrored Sliders](Sliders#mirrored-sliders)
+- [Parallel Sliders](Sliders#parallel-sliders)
+- [Segment Sliders](Sliders#segment-sliders)
+- [Short Repeating Sliders](Sliders#short-repeating-sliders)
+- [Slider Trains](Sliders#slider-trains)
+- [Zig-Zagging Sliders](Sliders#zig-zagging-sliders)
 
 #### Stylish
 
-- [Cutting Sliders](Sliders/#cutting-sliders)
-- [Crumpled Sliders](Sliders/#crumpled-sliders)
-- [End-Cutter Sliders](Sliders/#end-cutter-sliders)
-- [Krisom-Krosses](Sliders/#krisom-krosses)
-- [Rainbow Sliders](Sliders/#rainbow-sliders)
-- [Slider Art](Sliders/#slider-art)
-- [Spider Sliders](Sliders/#spider-sliders)
-- [Spiral Slider](Sliders/#spiral-slider)
-- [Wave Sliders](Sliders/#wave-sliders)
-- [Windmill Sliders](Sliders/#windmill-sliders)
+- [Cutting Sliders](Sliders#cutting-sliders)
+- [Crumpled Sliders](Sliders#crumpled-sliders)
+- [End-Cutter Sliders](Sliders#end-cutter-sliders)
+- [Krisom-Krosses](Sliders#krisom-krosses)
+- [Rainbow Sliders](Sliders#rainbow-sliders)
+- [Slider Art](Sliders#slider-art)
+- [Spider Sliders](Sliders#spider-sliders)
+- [Spiral Slider](Sliders#spiral-slider)
+- [Wave Sliders](Sliders#wave-sliders)
+- [Windmill Sliders](Sliders#windmill-sliders)
 
 #### Lain-lain
 
-- [Switch-Back Sliders](Sliders/#switch-back-sliders)
-- [Tick-Hitsounds](Sliders/#tick-hitsounds)
-- [Tricky Triple Combo](Sliders/#tricky-triple-combo)
+- [Switch-Back Sliders](Sliders#switch-back-sliders)
+- [Tick-Hitsounds](Sliders#tick-hitsounds)
+- [Tricky Triple Combo](Sliders#tricky-triple-combo)
 
 ### Unrankable
 
 *Halaman utama: [Unrankable](Unrankable)*
 
-- [Burai Sliders](Unrankable/#burai-sliders)
-- [Hold Sliders](Unrankable/#hold-sliders)
-- [Ninja Spinners](Unrankable/#ninja-spinners)
-- [Stack Zero](Unrankable/#stack-zero)
+- [Burai Sliders](Unrankable#burai-sliders)
+- [Hold Sliders](Unrankable#hold-sliders)
+- [Ninja Spinners](Unrankable#ninja-spinners)
+- [Stack Zero](Unrankable#stack-zero)
