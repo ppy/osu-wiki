@@ -1,15 +1,14 @@
 # osu!academy
 
-![osu!academy's logo](img/logo.png "osu!academy logo")
+![](img/logo.png "osu!academy logo")
 
-**osu!academy** aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in-between.
+The **osu!academy** is a video series hosted by the [osu! team](/wiki/People/The_Team) that aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in-between.
 
-We hope that new players will find these videos informative, and help ease the arguably steep learning curve associated with the game.
-If you have any questions or comments, please forward them to [ztrot](https://osu.ppy.sh/users/6347); he is the primary and almost sole owner of the osu! academy and its channel.
+Throughout the years, osu!academy has been hosted by multiple members of the community, with the most prominent one being [ztrot](https://osu.ppy.sh/users/6347), who has maintained the series for many years, and is the face of the project.
 
 ## Main series
 
-The main series of osu!academy serves as a general introduction to the broad world of osu!. It aims to familiarise users with all major features of osu! and its services, which might confuse newcomers due to an overload of information in-game.
+The main series of osu!academy serves as a general introduction to the broad world of osu!. It aims to familiarise users with all major features of osu! and its services, which might confuse newcomers due to a steep learning curve associated with the game.
 
 *Note: Episodes 1-6 have been rerecorded, as they presented obsolete information, and thus were deemed as unhelpful.*
 
