@@ -34,6 +34,6 @@ La [page de groupe de la Support Team](https://osu.ppy.sh/groups/22) énumère t
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippine"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
