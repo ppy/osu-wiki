@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu!academy
 
 ![Icône d'osu!academy](img/logo.png "Logo d'osu!academy")
