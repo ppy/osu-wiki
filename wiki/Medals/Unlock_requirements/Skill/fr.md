@@ -2,10 +2,10 @@
 
 | Nom de la médaille | Condition |
 | :-- | :-- |
-| 500 Combo | Atteindre 500 de combo sur une beatmap de n'importe quel mode de jeu. |
-| 750 Combo | Atteindre 750 de combo sur une beatmap de n'importe quel mode de jeu. |
-| 1000 Combo | Atteindre 1000 de combo sur une beatmap de n'importe quel mode de jeu. |
-| 2000 Combo | Atteindre 2000 de combo sur une beatmap de n'importe quel mode de jeu. |
+| 500 Combo | Atteindre un combo de 500 sur une beatmap de n'importe quel mode de jeu. |
+| 750 Combo | Atteindre un combo de 750 sur une beatmap de n'importe quel mode de jeu. |
+| 1000 Combo | Atteindre un combo de 1000 sur une beatmap de n'importe quel mode de jeu. |
+| 2000 Combo | Atteindre un combo 2000 sur une beatmap de n'importe quel mode de jeu. |
 | I can see the top | Atteindre la 50000ème place dans le classement général de n'importe quel mode de jeu. |
 | The gradual rise | Atteindre la 10000ème place dans le classement général de n'importe quel mode de jeu. |
 | Scaling up | Atteindre la 5000ème place dans le classement général de n'importe quel mode de jeu. |

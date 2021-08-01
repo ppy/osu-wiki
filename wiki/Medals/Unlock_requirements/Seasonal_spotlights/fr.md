@@ -2,7 +2,7 @@
 
 | Nom de la médaille | Condition |
 | :-- | :-- |
-| Summer 2018 Beatmap Spotlights | Terminez toutes les beatmaps regroupées dans l'un des beatmap packs Beatmap Spotlights: Summer 2018 ([osu!](https://osu.ppy.sh/beatmaps/packs/1508)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1509)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1510)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1511)). |
+| Summer 2018 Beatmap Spotlights | Terminez toutes les beatmaps regroupées dans l'un des beatmap packs Seasonal Spotlights: Summer 2018 ([osu!](https://osu.ppy.sh/beatmaps/packs/1508)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1509)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1510)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1511)). |
 | Fall 2018 Beatmap Spotlights | Terminez toutes les beatmaps regroupées dans l'un des beatmap packs Seasonal Spotlights: Fall 2018 ([osu!](https://osu.ppy.sh/beatmaps/packs/1548)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1549)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1550)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1551)). |
 | Winter 2019 Beatmap Spotlights | Terminez toutes les beatmaps regroupées dans l'un des beatmap packs Seasonal Spotlights: Winter 2019 ([osu!](https://osu.ppy.sh/beatmaps/packs/1623)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1624)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1625)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1626)). |
 | Spring 2019 Beatmap Spotlights | Terminez toutes les beatmaps regroupées dans l'un des beatmap packs Seasonal Spotlights: Spring 2019 ([osu!](https://osu.ppy.sh/beatmaps/packs/1670)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1671)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1672)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1673)). |
