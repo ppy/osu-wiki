@@ -90,7 +90,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | développement d'osu! |
 | ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | Russe | Modération du tchat |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Néerlandais | Modération du tchat, Modération du forum |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippine | Modération du tchat, Modération du forum, Support technique |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippin | Modération du tchat, Modération du forum, Support technique |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Français | Modération du tchat |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Modération de la communauté mapping/modding |
 | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | Indonésien | Modération du tchat |
@@ -99,7 +99,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand | Modération de la communauté mapping/modding |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, Serbe | Modération de la communauté mapping/modding |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
-| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippine | Modération du tchat |
+| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestion des tournois |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français, un peu d'espagnol | Modération du tchat, Modération du forum, Modération de la communauté mapping/modding |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugais | Modération du tchat |
@@ -118,8 +118,8 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinois | Modération du tchat |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Allemand, Serbe | Modération du tchat, Modération du forum |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Russe | Modération du tchat, Administration du wiki |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Coréen, Japonais, Philippine | Modération du tchat |
-| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Philippine | Modération du tchat |
+| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Coréen, Japonais, Philippin | Modération du tchat |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Philippin | Modération du tchat |
 | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) | Thaïlandais | Modération du tchat |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Espagnol | Support technique |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polonais | Modération du tchat |
@@ -186,7 +186,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippine"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
