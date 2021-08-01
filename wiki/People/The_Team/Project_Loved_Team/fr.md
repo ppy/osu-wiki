@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
 tags:
   - captain
   - captains
@@ -10,7 +8,9 @@ tags:
 
 # Project Loved Team
 
-La **Project Loved Team** est composée de membres de la communauté d'osu! qui gèrent le [Project Loved](/wiki/Project_Loved), la plateforme de vote qui promeut les [beatmaps](/wiki/Beatmap) dans la catégorie [loved](/wiki/Beatmap/Category#loved).
+La **Project Loved Team** est composée de membres de la communauté d'osu! qui gèrent le [Project Loved](/wiki/Project_Loved), la plateforme de vote qui promeut les [beatmaps](/wiki/Beatmap) dans la catégorie [loved](/wiki/Beatmap/Category#loved). Ils se distinguent par le badge de leur groupe d'utilisateurs qui indique `LVD` et la couleur de leur nom d'utilisateur qui est rose bonbon sur les forums.
+
+La [page de groupe Project Loved](https://osu.ppy.sh/groups/31) énumère tous les membres de l'équipe.
 
 ## Capitaines
 
@@ -39,8 +39,8 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 
 ### osu!mania
 
+- ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
-- ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
 - ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
@@ -51,6 +51,7 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 Les coordinateurs sont principalement chargés de veiller à ce que tous les capitaines travaillent ensemble pour assurer le bon déroulement du projet. Ils écrivent les nouvelles et les messages du forum, maintiennent les outils et aident à modérer les discussions sur la catégorie loved.
 
 - ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
+- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
 
 ## Vérificateurs des métadonnées d'une beatmap
 
@@ -62,8 +63,19 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise 
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
+- ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
-## Alumni
+## Modération du contenu des beatmaps
+
+Les modérateurs de contenu sont des membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) et de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) qui participent à l'évaluation du contenu visuel et sonore des beatmaps qui seront soumis au vote.
+
+- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
+- ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437)
+
+## Membres retraités
+
+Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Project Loved Team.
 
 ### Coordinateurs
 
@@ -105,7 +117,7 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise 
 
 ### Capitaines osu!mania
 
-- ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
+- ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852)
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992)
 - ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783)
@@ -122,7 +134,7 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise 
 ## Le saviez-vous ?
 
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a créé l'équipe originelle de capitaines en septembre 2017 ainsi que le système [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017---present)) qui a ensuite été renommé Project Loved. Jusqu'à fin 2019, il a supervisé et géré l'ensemble du projet.
-- Il y a un groupe d'utilisateurs Project Loved sur le site web avec l'ID de groupe 31, mais la liste n'est pas publique. Il est utilisé pour leur donner l'autorisation de modérer le [forum Project Loved](https://osu.ppy.sh/community/forums/120) et de promouvoir les beatmaps dans la catégorie Loved.
+- Avant le 28 avril 2021, la [page de groupe Project Loved](https://osu.ppy.sh/groups/31) n'était pas publique et n'était utilisée qu'à des fins administratives. À partir de maintenant, elle est accessible au public.
   - Jusqu'au 16 avril 2021, les seules personnes qui faisaient partie du groupe étaient ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), et ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689). Maintenant, tous les utilisateurs faisant partie de la Project Loved Team appartiennent au groupe.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
@@ -144,5 +156,6 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise 
 [flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turquie"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
