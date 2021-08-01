@@ -35,7 +35,7 @@ Estimated to take 3-4 days.
 
 UPDATE: As of 2021-07-30 09:00 UTC, all ranked beatmaps have been recalculated across all game modes. Non-ranked beatmaps have also been fully recalculated for osu! mode (with other modes running in the background over the coming days - these do not affect scores and as such this task is considered completed).
 
-### 🏃 Background user total recalculations \[2021-07-30\]
+### 🏃 Background user total recalculations \[2021-07-30 ~\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
@@ -46,7 +46,9 @@ During this maintenance, the following will also occur:
 - Inactive users (anyone that has not played the game in 3 months) will be delisted.
 - Scores in the "best performance" profile section may look to be out of order, or not visible at all during this phase. This will resolve completely during the reindexing phase listed below.
 
-Estimated to take 2 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
+Estimated to take 4 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
+
+UPDATE: As of 2021-08-01 17:30 UTC, all users up to rank 420,000 (osu! mode) have been processed.
 
 ### 🛑 Re-enabling of global rank history updates \[TBD\]
 
