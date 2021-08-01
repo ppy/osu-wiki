@@ -1,6 +1,6 @@
 # osu!academy
 
-![Icône d'osu!academy](img/osu!academy-logo.png "Logo d'osu!academy")
+![Icône d'osu!academy](img/logo.png "Logo d'osu!academy")
 
 **osu! academy** a pour objectif de donner un aperçu complet de tous les aspects d'osu!, du jeu à la cartographie, en passant par la cartographie.
 

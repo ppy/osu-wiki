@@ -4,7 +4,7 @@ no_native_review: true
 
 # osu!academy
 
-![Logo osu!academy](img/osu!academy-logo.png "Logo osu!academy")
+![Logo osu!academy](img/logo.png "Logo osu!academy")
 
 **osu!academy** memiliki tujuan untuk memberikan pandangan lengkap terhadap semua aspek osu!, mulai dari cara bermain hingga mapping dan segala sesuatu yang ada di dalamnya.
 
