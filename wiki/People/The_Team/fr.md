@@ -100,5 +100,5 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippine"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"

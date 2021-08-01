@@ -267,7 +267,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
 [flag_PE]: /wiki/shared/flag/PE.gif "Pérou"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippine"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
