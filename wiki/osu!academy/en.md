@@ -9,6 +9,10 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 
 ## Main series
 
+The main series of osu!academy serves as a general introduction to the broad world of osu!. It aims to familiarise users with all major features of osu! and its services, which might confuse newcomers due to an overload of information in-game.
+
+*Note: Episodes 1-6 have been rerecorded, as they presented obsolete information, and thus were deemed as unhelpful.*
+
 | No. | Title | Description |
 | :-: | :-- | :-- |
 | 0 | [Lazer installer setup guide](https://www.youtube.com/watch?v=kO5ISAzRbPE "YouTube") | [ztrot](https://osu.ppy.sh/users/6347) covers the process of installing the osu!lazer client. |
