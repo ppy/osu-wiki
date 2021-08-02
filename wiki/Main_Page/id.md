@@ -27,9 +27,9 @@ Selamat datang di osu! wiki, sebuah proyek yang bertujuan untuk mendokumentasika
 
 # Gameplay
 
-[Jenis permainan](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
+[Mode permainan](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Objek ketukan (Hit object)](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Skor](/wiki/Score) • [Tayangan ulang (Replay)](/wiki/Replay) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Objek ketukan (Hit object)](/wiki/Hit_object) • [Mod](/wiki/Game_modifier) • [Skor](/wiki/Score) • [Tayangan ulang (Replay)](/wiki/Replay) • [Multi](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -49,25 +49,25 @@ Komponen Pendukung: [AIMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](
 
 [Pengunggahan beatmap](/wiki/Submission) • [Modding](/wiki/Modding) • [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
-[Kriteria ranking](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Ranking criteria](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Komunitas
 
-[Turnamen](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projek](/wiki/Projects) • [Panduan](/wiki/Guides) • [Server Discord osu!dev](/wiki/osu!dev_Discord_server) • [Bagaimana kamu dapat membantu](/wiki/How_You_Can_Help!) • [Glosarium](/wiki/Glossary)
+[Turnamen](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proyek](/wiki/Projects) • [Panduan](/wiki/Guides) • [Server Discord osu!dev](/wiki/osu!dev_Discord_server) • [Bagaimana kamu dapat membantu](/wiki/How_You_Can_Help!) • [Glosarium](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Orang-orang
 
-[Tim inti](/wiki/People/The_Team): [Pengembang](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Tim Project Loved](/wiki/People/The_Team/Project_Loved_Team)
+[Tim Inti](/wiki/People/The_Team): [Developer](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
 Organisasi: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
-[Kontributor Komuinitas](/wiki/People/Community_Contributors) • [Pengguna dengan gelar unik](/wiki/People/Users_with_unique_titles)
+[Kontributor Komunitas](/wiki/People/Community_Contributors) • [Pengguna dengan gelar unik](/wiki/People/Users_with_unique_titles)
 
 </div>
 <div class="wiki-main-page-panel">
