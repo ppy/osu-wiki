@@ -1,8 +1,7 @@
 ---
 layout: main_page
+no_native_review: true
 ---
-
-<!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
 Vítejte na osu! wiki, projekt obsahující širokou škálu osu! související informací.
