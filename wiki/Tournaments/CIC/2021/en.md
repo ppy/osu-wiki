@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2021 banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament was open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It was the ninth iteration of the Catch the Beat Indonesia Cup.
+The **Catch the Beat  Indonesia Cup 2021** (***CIC 2021***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament was open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It was the ninth iteration of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
