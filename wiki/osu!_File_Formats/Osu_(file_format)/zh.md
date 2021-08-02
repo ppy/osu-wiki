@@ -21,8 +21,6 @@
 
 ## General （基本数据）
 
-<!-- TODO: 丢失了一些非常旧的文件格式遗留下来的功能选项 -->
-
 | 项目 | 值类型 | 描述 | 默认值 |
 | :-- | :-- | :-- | :-- |
 | `AudioFilename` | 字符串 | 音频文件相对于当前文件夹的位置 |  |
@@ -80,7 +78,7 @@
 | `CircleSize` | 小数 | CS 设置 (0–10) |
 | `OverallDifficulty` | 小数 | OD 设置 (0–10) |
 | `ApproachRate` | 小数 | AR 设置 (0–10) |
-| `SliderMultiplier` | 小数 | 以100[osu! 像素](/wiki/osupixel)为单位的每拍基础滑条速率（若设置为1则一拍滑条为 100 osu! 像素长） <!-- TODO: this prefix sounds awful ಠ_ಠ --> |
+| `SliderMultiplier` | 小数 | 以100[osu! 像素](/wiki/osupixel)为单位的每拍基础滑条速率（若设置为1则一拍滑条为 100 osu! 像素长） |
 | `SliderTickRate` | 小数 | 每拍中滑条点的数量 |
 
 ## Events （事件）
@@ -335,10 +333,6 @@ osu!有四种滑条曲线类型:
 - 长310.123 osu! 像素
 - 在开头带有一个whistle音效，并在滑条结尾播放soft集的whistle音效
 
-<!-- TODO: specific details about all of the other game modes (this article should provide everything necessary to parse a .osu file)
-
-also there is no info about how they convert to other game modes from an osu! beatmap -->
-
 ### osu!taiko
 
 osu!taiko的打击物件仅使用`time`来决定他们怎样被设置在游戏区域，所以`x`和`y`会被忽略。同样的，滑条曲线的重要部分是 `length` ；`curveType` 和 `curvePoints` 仅在使用编辑器打开时使用。连击颜色和新连击选项会被忽略，并且会应用模式特定打击音效。
@@ -354,8 +348,6 @@ osu!catch的游戏区域仅使用x坐标，所以不使用`y`。滑条曲线在�
 - 打击圈将变为水果。
 - 滑条变为果汁流，在每一边带有一水果。
 - 转盘将变为香蕉雨。
-
-<!-- TODO: 没玩过原版游戏所以可能描述不够到位 -->
 
 ### osu!mania
 
