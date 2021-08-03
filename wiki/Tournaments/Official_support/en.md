@@ -13,6 +13,8 @@ Officially supported tournaments have access to:
 
 ## Expectations
 
+### Tournaments
+
 Community-run tournaments that are receiving this support are expected to abide by the following general ideals:
 
 - Should remain free and fair
@@ -21,6 +23,14 @@ Community-run tournaments that are receiving this support are expected to abide 
 - Encourage good sportsmanship
 
 In addition, all promotional material or any services associated with a tournament receiving official support should adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
+
+### Players
+
+Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishment or other achievements.
+
+Tournament players are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions.
+
+Organizers who find the behaviour of any player enrolled in an officially supported tournament questionable or disruptive may report such things to the osu! support team for prompt review. At the osu!team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behavior. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
 
 ## Tournament screening
 
