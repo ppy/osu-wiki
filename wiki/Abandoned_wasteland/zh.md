@@ -1,12 +1,12 @@
 ---
 stub: true
 tags:
-  - forum
-  - wastelanded
+  - 论坛
+  - 废弃的荒地
 ---
 
-# 废弃的荒地
+# Abandoned wasteland
 
-被遗**弃的荒地**是一个私人的[子论坛](https://osu.ppy.sh/community/forums)，用于从公众视野中隐藏论坛和论坛主题｡ 此子论坛只有可以修改论坛的版主才能访问｡ 关于它的版主的说明是："把我们并不真正需要的东西放在这里｡"
+**Abandoned wasteland** (中文: 废弃的荒地) 是一个私密的[子论坛](https://osu.ppy.sh/community/forums)，用于从公众视野中隐藏论坛和论坛主题｡ 此子论坛只有可以修改论坛的版主才能访问｡ 版主给它的说明是`把我们并不真正需要的东西放在这里`｡
 
-论坛和主题被认为是"荒地"，当他们搬到这个论坛｡
+当论坛或主题被移动到废弃的荒地时，它们被称为“wastelanded”。
