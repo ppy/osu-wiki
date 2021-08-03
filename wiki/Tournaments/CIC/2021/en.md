@@ -55,10 +55,6 @@ CIC 2021 was run by various Indonesian osu! community members.
 - [Challonge brackets](https://challonge.com/CIC2021 "Challonge")
 - [Livestream channel](https://www.twitch.tv/osuIndonesia/ "Twitch")
 
-## Podium
-
-![](img/podium.png "CIC 2021 podium")
-
 ## Participants
 
 Listed below are players who qualified into the Group stage (along with their respective seeding and group placement) out of 35 registered players in total.
@@ -73,6 +69,10 @@ Listed below are players who qualified into the Group stage (along with their re
 | F | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) |
 | G | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) |
 | H | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) |
+
+## Podium
+
+![](img/podium.png "CIC 2021 podium")
 
 ## Mappools
 
