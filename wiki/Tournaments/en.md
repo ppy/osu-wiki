@@ -317,7 +317,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Yaz's Summer Cup 2017](YSC/2017) | 2017-07-21 | 2017-09-30 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | ![][flag_KR] [Cookiezi](https://osu.ppy.sh/users/124493) |
-| [Yaz's Summer Cup 2018](YSC/2018) | 2018-05-13 | 2018-08-12 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| [Yaz's Summer Cup 2018](YSC/2018) | 2018-06-16 | 2018-08-12 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 | [Yaz's Summer Cup 2019](YSC/2019) | 2019-05-26 | 2019-08-25 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_US] [thaibuy](https://osu.ppy.sh/users/4250296) | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) |
 | [Yaz's Summer Cup 2021](YSC/2021) | 2021-05-28 | 2021-08-15 | TBA | TBA | TBA |
 

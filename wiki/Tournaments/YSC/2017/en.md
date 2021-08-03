@@ -84,6 +84,17 @@ Yaz's Summer Cup 2017 was run by various community members.
 
 See the [participants sheet](https://docs.google.com/spreadsheets/d/1cO_DR2ffyp0HuGtlHUHEV0MqQR-I0l7AgkQdygjjNmw/pubhtml?gridlines=false "Google Sheets") for a list of all 128 initial participants.
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [Cookiezi](https://osu.ppy.sh/users/124493) |
+| *4th place* | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |
+
 ## Mappools
 
 ### Grand Finals
