@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Vítejte
 
 Výtej v osu!, free-to-win rhythm hře vyvinutá peppym se čtyřmi herními módy: osu! mode, simulátor klikání na kolečka; osu!taiko, emulátor bubnování; osu!catch, chytač ovocného salátu; a osu!mania, syntetizátor rozbíjení kláves.
