@@ -86,6 +86,7 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 ## Podium
 
 ![](img/podium.jpg "ATS 2018 podium")
+
 ## Mappools
 
 ### Grand Finals
