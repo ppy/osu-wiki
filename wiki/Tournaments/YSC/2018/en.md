@@ -64,16 +64,16 @@ Yaz's Summer Cup 2018 was run by various community members.
 
 | Group | Members |
 | :-: | :-- |
-| Group A | ![][flag_GB] **[sut_son]([link](https://osu.ppy.sh/users/9622163))**, ![][flag_PL] **[Malolat](https://osu.ppy.sh/users/4317480)**, ![][flag_CA] [principe](https://osu.ppy.sh/users/2796962), ![][flag_JP] [Natori Sana](https://osu.ppy.sh/users/3540294) |
+| Group A | ![][flag_GB] **[sut\_son]([link](https://osu.ppy.sh/users/9622163))**, ![][flag_PL] **[Malolat](https://osu.ppy.sh/users/4317480)**, ![][flag_CA] [principe](https://osu.ppy.sh/users/2796962), ![][flag_JP] [Natori Sana](https://osu.ppy.sh/users/3540294) |
 | Group B | ![][flag_AT] **[Teppi](https://osu.ppy.sh/users/1371974)**, ![][flag_PL] **[Piggey](https://osu.ppy.sh/users/4163860)**, ![][flag_GB] [Topsp1n](https://osu.ppy.sh/users/7657761), ![][flag_PL] [Kurogami](https://osu.ppy.sh/users/4435332) |
 | Group C | ![][flag_US] **[Woey](https://osu.ppy.sh/users/3792472)**, ![][flag_KR] **[Yaong](https://osu.ppy.sh/users/1883865)**, ![][flag_US] [Jensen](https://osu.ppy.sh/users/4719055), ![][flag_GB] [Wario](https://osu.ppy.sh/users/4361729) |
-| Group D | ![][flag_US] **[BeasttrollMC](https://osu.ppy.sh/users/3171691)**, ![][flag_US] **[conradmittn](https://osu.ppy.sh/users/8208289)**, ![][flag_RU] [_Kyori](https://osu.ppy.sh/users/6660546), ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580) |
+| Group D | ![][flag_US] **[BeasttrollMC](https://osu.ppy.sh/users/3171691)**, ![][flag_US] **[conradmittn](https://osu.ppy.sh/users/8208289)**, ![][flag_RU] [\_Kyori](https://osu.ppy.sh/users/6660546), ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580) |
 | Group E | ![][flag_US] **[My Love Saoie](https://osu.ppy.sh/users/4681410)**, ![][flag_DE] **[likejaxirl](https://osu.ppy.sh/users/7093373)**, ![][flag_PL] [Moreon](https://osu.ppy.sh/users/5286078), ![][flag_US] [Donkey Kong](https://osu.ppy.sh/users/4787150) |
 | Group F | ![][flag_GB] **[Bloo](https://osu.ppy.sh/users/6778877)**, ![][flag_US] **[Exarch](https://osu.ppy.sh/users/5370153)**, ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238) |
 | Group G | ![][flag_IL] **[Xilver](https://osu.ppy.sh/users/3099689)**, ![][flag_DE] **[Shiny Chariot](https://osu.ppy.sh/users/3115283)**, ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142), ![][flag_CN] [MyAngelMiku](https://osu.ppy.sh/users/7025429) |
 | Group H | ![][flag_GB] **[Bubbleman](https://osu.ppy.sh/users/5182050)**, ![][flag_US] **[Num5119](https://osu.ppy.sh/users/5198060)**, ![][flag_HU] [Lexion](https://osu.ppy.sh/users/5271371), ![][flag_CA] [alkalde](https://osu.ppy.sh/users/7314046) |
 | Group I | ![][flag_FR] **[Flaven](https://osu.ppy.sh/users/3213239)**, ![][flag_AU] **[CeilingWaffle](https://osu.ppy.sh/users/3336090)**, ![][flag_US] [he rack](https://osu.ppy.sh/users/2644828), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027) |
-| Group J | ![][flag_PL] **[Alien](https://osu.ppy.sh/users/4743869)**, ![][flag_PL] **[-NeBu-](https://osu.ppy.sh/users/4099626)**, ![][flag_JP] [_YuriNee](https://osu.ppy.sh/users/1794082), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263) |
+| Group J | ![][flag_PL] **[Alien](https://osu.ppy.sh/users/4743869)**, ![][flag_PL] **[-NeBu-](https://osu.ppy.sh/users/4099626)**, ![][flag_JP] [\_YuriNee](https://osu.ppy.sh/users/1794082), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263) |
 | Group K | ![][flag_GB] **[Doomsday](https://osu.ppy.sh/users/18983)**, ![][flag_PL] **[MrBooM](https://osu.ppy.sh/users/1837989)**, ![][flag_AU] [Eta Carinae](https://osu.ppy.sh/users/5841333), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086) |
 | Group L | ![][flag_JP] **[Angel Arrow](https://osu.ppy.sh/users/1970239)**, ![][flag_PL] **[QbaDoo](https://osu.ppy.sh/users/2395405)**, ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MA] [FGSky](https://osu.ppy.sh/users/2094566) |
 | Group M | ![][flag_US] **[Apraxia](https://osu.ppy.sh/users/4194445)**, ![][flag_AU] **[Jordan The Bear](https://osu.ppy.sh/users/7477458)**, ![][flag_RU] [z0mbir](https://osu.ppy.sh/users/4939107), ![][flag_EE] [Tiger Claw](https://osu.ppy.sh/users/2064445) |
@@ -219,7 +219,7 @@ This competition has come to an end and resulted in the following podium:
   - [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) [Entsetzen]](https://osu.ppy.sh/beatmapsets/581787#osu/1543159)
 - Hidden
   - [Sasaki Sayaka - Kiss no Hitotsu de (Left) [Serenade]](https://osu.ppy.sh/beatmapsets/613158#osu/1293772)
-  - [P*Light - TRIGGER\*HAPPY (MineC24) [EXHAUST]](https://osu.ppy.sh/beatmapsets/74671#osu/211903)
+  - [P\*Light - TRIGGER\*HAPPY (MineC24) [EXHAUST]](https://osu.ppy.sh/beatmapsets/74671#osu/211903)
   - [LIQU@. - Yotogibanashi no Kamikakushi (Kyubey) [oko's Extra]](https://osu.ppy.sh/beatmapsets/236396#osu/717133)
 - HardRock
   - [Shiena Nishizawa - Brand-new World (AtHeoN) [NiNo's Expert]](https://osu.ppy.sh/beatmapsets/375910#osu/943977)
@@ -317,7 +317,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 12 August 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Bubbleman ![][flag_GB] | 4 | **7** | ![][flag_KR] **Yaong** | [#1](https://osu.ppy.sh/community/matches/45007374) |
 | Yaong ![][flag_KR] | 6 | **7** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/45007374) |
@@ -326,9 +326,9 @@ Sunday, 12 August 2018:
 
 Saturday, 11 August 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Yaong ![][flag_KR] | 7 | 3 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/community/matches/44972754) |
+| **Yaong** ![][flag_KR] | **7** | 3 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/community/matches/44972754) |
 
 ### Finals
 
@@ -336,7 +336,7 @@ Saturday, 11 August 2018:
 
 Saturday, 4 August 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Yaong ![][flag_KR] | 4 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/44767394) |
 
@@ -344,7 +344,7 @@ Saturday, 4 August 2018:
 
 Saturday, 4 August 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **6** | 3 | ![][flag_AT] Teppi | [#1](https://osu.ppy.sh/community/matches/44774853) |
 | **Apraxia** ![][flag_US] | **6** | 4 | ![][flag_US] fieryrage | [#1](https://osu.ppy.sh/community/matches/44779693) |
@@ -353,7 +353,7 @@ Saturday, 4 August 2018:
 
 Sunday, 5 August 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **6** | 4 | ![][flag_US] Apraxia | [#1](https://osu.ppy.sh/community/matches/44803063) |
 
@@ -363,13 +363,13 @@ Sunday, 5 August 2018:
 
 Saturday, 28 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Yaong** ![][flag_KR] | **6** | 4 | ![][flag_US] Apraxia | [#1](https://osu.ppy.sh/community/matches/44556798) |
 
 Thursday, 2 August 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Doomsday ![][flag_GB] | 5 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/44718051) |
 
@@ -377,7 +377,7 @@ Thursday, 2 August 2018:
 
 Saturday, 28 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Angel Arrow ![][flag_JP] | 3 | **6** | ![][flag_US] **DigitalHypno** | [#1](https://osu.ppy.sh/community/matches/44565172) |
 | BeasttrollMC ![][flag_US] | 3 | **6** | ![][flag_US] **fieryrage** | [#1](https://osu.ppy.sh/community/matches/44569498) |
@@ -385,7 +385,7 @@ Saturday, 28 July 2018:
 
 Sunday, 29 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | My Love Saoie ![][flag_US] | 5 | **6** | ![][flag_IL] **Xilver** | [#1](https://osu.ppy.sh/community/matches/44581965) |
 
@@ -393,7 +393,7 @@ Sunday, 29 July 2018:
 
 Sunday, 29 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Xilver ![][flag_IL] | 4 | **6** | ![][flag_AT] **Teppi** | [#1](https://osu.ppy.sh/community/matches/44598726) |
 | DigitalHypno ![][flag_US] | 2 | **6** | ![][flag_US] **fieryrage** | [#1](https://osu.ppy.sh/community/matches/44604998) |
@@ -404,7 +404,7 @@ Sunday, 29 July 2018:
 
 Sunday, 22 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Yaong** ![][flag_KR] | **5** | 0 | ![][flag_DE] Shiny Chariot | [#1](https://osu.ppy.sh/community/matches/44391041) |
 | Angel Arrow ![][flag_JP] | 3 | **5** | ![][flag_GB] **Doomsday** | [#1](https://osu.ppy.sh/community/matches/44392392) |
@@ -415,29 +415,29 @@ Sunday, 22 July 2018:
 
 Thursday, 19 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **QbaDoo** ![][flag_PL] | **1** | 0 | ![][flag_PL] Malolat | [#1](https://osu.ppy.sh/community/matches/44309727) |
 
 Friday, 20 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Woey ![][flag_US] | 2 | **5** | ![][flag_US] **DigitalHypno** | [#1](https://osu.ppy.sh/community/matches/44340930) |
 
 Saturday, 21 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Xilver** ![][flag_IL] | **5** | 1 | ![][flag_AU] Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/44360498) |
 | **Chamosiala** ![][flag_RO] | **5** | 4 | ![][flag_PL] -NeBu- | [#1](https://osu.ppy.sh/community/matches/44369340) |
 | **fieryrage** ![][flag_US] | **5** | 2 | ![][flag_CA] Azer | [#1](https://osu.ppy.sh/community/matches/44370723) |
-| **Karthy** ![][flag_GB] | **5** | 0 | ![][flag_GB] sut_son | [#1](https://osu.ppy.sh/community/matches/44372363) |
+| **Karthy** ![][flag_GB] | **5** | 0 | ![][flag_GB] sut\_son | [#1](https://osu.ppy.sh/community/matches/44372363) |
 | **Teppi** ![][flag_AT] | **5** | 2 | ![][flag_CN] davidqu2 | [#1](https://osu.ppy.sh/community/matches/44375306) |
 
 Sunday, 22 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bloo** ![][flag_GB] | **5** | 3 | ![][flag_PL] Piggey | [#1](https://osu.ppy.sh/community/matches/44395350) |
 
@@ -445,7 +445,7 @@ Sunday, 22 July 2018:
 
 Sunday, 22 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Chamosiala ![][flag_RO] | 0 | **5** | ![][flag_AT] **Teppi** | [#1](https://osu.ppy.sh/community/matches/44390175) |
 | **DigitalHypno** ![][flag_US] | **5** | 2 | ![][flag_PL] QbaDoo | [#1](https://osu.ppy.sh/community/matches/44399757) |
@@ -458,7 +458,7 @@ Sunday, 22 July 2018:
 
 Saturday, 14 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Shiny Chariot** ![][flag_DE] | **1** | 0 | ![][flag_GB] Bloo | *forfeit* |
 | **BeasttrollMC** ![][flag_US] | **5** | 3 | ![][flag_RO] Chamosiala | [#1](https://osu.ppy.sh/community/matches/44167284) |
@@ -466,7 +466,7 @@ Saturday, 14 July 2018:
 
 Sunday, 15 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Apraxia** ![][flag_US] | **5** | 1 | ![][flag_US] Woey | [#1](https://osu.ppy.sh/community/matches/44177939) |
 | fieryrage ![][flag_US] | 1 | **5** | ![][flag_KR] **Yaong** | [#1](https://osu.ppy.sh/community/matches/44179955) |
@@ -478,7 +478,7 @@ Sunday, 15 July 2018:
 
 Saturday, 14 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **davidqu2** ![][flag_CN] | **1** | 0 | ![][flag_US] Num5119 | *forfeit* |
 | CeilingWaffle ![][flag_AU] | 1 | **5** | ![][flag_PL] **Malolat** | [#1](https://osu.ppy.sh/community/matches/44158226) |
@@ -486,16 +486,16 @@ Saturday, 14 July 2018:
 
 Sunday, 15 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Flaven ![][flag_FR] | 4 | **5** | ![][flag_PL] **-NeBu-** | [#1](https://osu.ppy.sh/community/matches/44195264) |
 | likejaxirl ![][flag_DE] | 4 | **5** | ![][flag_PL] **Piggey** | [#1](https://osu.ppy.sh/community/matches/44198253) |
-| conradmittn ![][flag_US] | 0 | **1** | ![][flag_GB] **sut_son** | *forfeit* |
+| conradmittn ![][flag_US] | 0 | **1** | ![][flag_GB] **sut\_son** | *forfeit* |
 | **DigitalHypno** ![][flag_US] | **5** | 2 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/44201449) |
 
 Monday, 16 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Alien ![][flag_PL] | 4 | **5** | ![][flag_AU] **Jordan The Bear** | [#1](https://osu.ppy.sh/community/matches/44232830) |
 
@@ -503,7 +503,7 @@ Monday, 16 July 2018:
 
 Saturday, 7 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Piggey ![][flag_PL] | 2 | **5** | ![][flag_JP] **Angel Arrow** | [#1](https://osu.ppy.sh/community/matches/43968152) |
 | **Chamosiala** ![][flag_RO] | **5** | 2 | ![][flag_PL] Malolat | [#1](https://osu.ppy.sh/community/matches/43969974) |
@@ -514,10 +514,10 @@ Saturday, 7 July 2018:
 
 Sunday, 8 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **BeasttrollMC** ![][flag_US] | **5** | 1 | ![][flag_AU] CeilingWaffle | [#1](https://osu.ppy.sh/community/matches/43982352) |
-| sut_son ![][flag_GB] | 1 | **5** | ![][flag_KR] **Yaong** | [#1](https://osu.ppy.sh/community/matches/43993301) |
+| sut\_son ![][flag_GB] | 1 | **5** | ![][flag_KR] **Yaong** | [#1](https://osu.ppy.sh/community/matches/43993301) |
 | **Apraxia** ![][flag_US] | **5** | 3 | ![][flag_CN] davidqu2 | [#1](https://osu.ppy.sh/community/matches/43995895) |
 | Flaven ![][flag_FR] | 3 | **5** | ![][flag_PL] **QbaDoo** | [#1](https://osu.ppy.sh/community/matches/43999158) |
 | Alien ![][flag_PL] | 3 | **5** | ![][flag_DE] **Shiny Chariot** | [#1](https://osu.ppy.sh/community/matches/44001578) |
@@ -528,7 +528,7 @@ Sunday, 8 July 2018:
 
 Monday, 9 July 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **fieryrage** ![][flag_US] | **5** | 1 | ![][flag_US] conradmittn | [#1](https://osu.ppy.sh/community/matches/44009636) |
 
@@ -536,18 +536,18 @@ Monday, 9 July 2018:
 
 #### Group A
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **sut_son** ![][flag_GB] | **1** | 0 | ![][flag_PL] Malolat | *forfeit* |
-| sut_son ![][flag_GB] | 0 | **4** | ![][flag_JP] **Natori Sana** | [#1](https://osu.ppy.sh/community/matches/43616456) |
-| **sut_son** ![][flag_GB] | **4** | 2 | ![][flag_CA] Principe | [#1](https://osu.ppy.sh/community/matches/43628590) |
+| **sut\_son** ![][flag_GB] | **1** | 0 | ![][flag_PL] Malolat | *forfeit* |
+| sut\_son ![][flag_GB] | 0 | **4** | ![][flag_JP] **Natori Sana** | [#1](https://osu.ppy.sh/community/matches/43616456) |
+| **sut\_son** ![][flag_GB] | **4** | 2 | ![][flag_CA] Principe | [#1](https://osu.ppy.sh/community/matches/43628590) |
 | **Malolat** ![][flag_PL] | **4** | 3 | ![][flag_JP] Natori Sana | [#1](https://osu.ppy.sh/community/matches/43615523) |
 | **Malolat** ![][flag_PL] | **4** | 1 | ![][flag_CA] Principe | [#1](https://osu.ppy.sh/community/matches/43685335) |
 | Natori Sana ![][flag_JP] | 0 | **1** | ![][flag_CA] **Principe** | *forfeit* |
 
 #### Group B
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Piggey7** ![][flag_PL] | **1** | 0 | ![][flag_PL] Kurogami | *forfeit* |
 | Piggey ![][flag_PL] | 2 | **4** | ![][flag_AT] **Teppi** | [#1](https://osu.ppy.sh/community/matches/43812903) |
@@ -558,7 +558,7 @@ Monday, 9 July 2018:
 
 #### Group C
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Yaong** ![][flag_KR] | **4** | 0 | ![][flag_GB] Wario | [#1](https://osu.ppy.sh/community/matches/43615331) |
 | Yaong ![][flag_KR] | 2 | **4** | ![][flag_US] **Woey** | [#1](https://osu.ppy.sh/community/matches/43597987) |
@@ -569,18 +569,18 @@ Monday, 9 July 2018:
 
 #### Group D
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **BeasttrollMC** ![][flag_US] | **4** | 2 | ![][flag_US] conradmittn | [#1](https://osu.ppy.sh/community/matches/43634699) |
 | **BeasttrollMC** ![][flag_US] | **4** | 2 | ![][flag_AU] GranDSenpai | [#1](https://osu.ppy.sh/community/matches/43660867) |
-| **BeasttrollMC** ![][flag_US] | **4** | 2 | ![][flag_RU] _kyori | [#1](https://osu.ppy.sh/community/matches/43651139) |
+| **BeasttrollMC** ![][flag_US] | **4** | 2 | ![][flag_RU] \_Kyori | [#1](https://osu.ppy.sh/community/matches/43651139) |
 | **conradmittn** ![][flag_US] | **4** | 2 | ![][flag_AU] GranDSenpai | [#1](https://osu.ppy.sh/community/matches/43610386) |
-| **conradmittn** ![][flag_US] | **4** | 2 | ![][flag_RU] _kyori | [#1](https://osu.ppy.sh/community/matches/43656052) |
-| GranDSenpai ![][flag_AU] | 2 | **4** | ![][flag_RU] **_kyori** | [#1](https://osu.ppy.sh/community/matches/43771710) *Mid-match forfeit* |
+| **conradmittn** ![][flag_US] | **4** | 2 | ![][flag_RU] \_Kyori | [#1](https://osu.ppy.sh/community/matches/43656052) |
+| GranDSenpai ![][flag_AU] | 2 | **4** | ![][flag_RU] **\_Kyori** | [#1](https://osu.ppy.sh/community/matches/43771710) *mid-match forfeit* |
 
 #### Group E
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Donkey Kong ![][flag_US] | 0 | **1** | ![][flag_PL] **Moreon** | *forfeit* |
 | Donkey Kong ![][flag_US] | 0 | **1** | ![][flag_US] **My Love Saoie** | *forfeit* |
@@ -591,7 +591,7 @@ Monday, 9 July 2018:
 
 #### Group F
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Karthy ![][flag_GB] | 3 | **4** | ![][flag_GB] **Bloo** | [#1](https://osu.ppy.sh/community/matches/43620814) |
 | Karthy ![][flag_GB] | 1 | **4** | ![][flag_US] **Exarch** | [#1](https://osu.ppy.sh/community/matches/43625408) |
@@ -602,7 +602,7 @@ Monday, 9 July 2018:
 
 #### Group G
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Xilver** ![][flag_IL] | **4** | 1 | ![][flag_GB] OPJames | [#1](https://osu.ppy.sh/community/matches/43589342) |
 | **Xilver** ![][flag_IL] | **4** | 2 | ![][flag_DE] Shiny Chariot | [#1](https://osu.ppy.sh/community/matches/43596351) |
@@ -613,7 +613,7 @@ Monday, 9 July 2018:
 
 #### Group H
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ![][flag_GB] | **4** | 1 | ![][flag_US] Num5119 | [#1](https://osu.ppy.sh/community/matches/43620966) |
 | **Bubbleman** ![][flag_GB] | **1** | 0 | ![][flag_HU] Lexion | *forfeit* |
@@ -624,7 +624,7 @@ Monday, 9 July 2018:
 
 #### Group I
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Flaven** ![][flag_FR] | **4** | 3 | ![][flag_US] he rack | [#1](https://osu.ppy.sh/community/matches/43811462) |
 | **Flaven** ![][flag_FR] | **4** | 2 | ![][flag_AU] CeilingWaffle | [#1](https://osu.ppy.sh/community/matches/43803783) |
@@ -635,18 +635,18 @@ Monday, 9 July 2018:
 
 #### Group J
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Alien** ![][flag_PL] | **1** | 0 | ![][flag_PL] -NeBu- | *forfeit* |
-| **Alien** ![][flag_PL] | **4** | 2 | ![][flag_JP] _YuriNee | [#1](https://osu.ppy.sh/community/matches/43615550) |
+| **Alien** ![][flag_PL] | **4** | 2 | ![][flag_JP] \_YuriNee | [#1](https://osu.ppy.sh/community/matches/43615550) |
 | **Alien** ![][flag_PL] | **4** | 1 | ![][flag_GB] Electovoid | [#1](https://osu.ppy.sh/community/matches/43594558) |
-| **-NeBu-** ![][flag_PL] | **4** | 3 | ![][flag_JP] _YuriNee | [#1](https://osu.ppy.sh/community/matches/43585954) |
+| **-NeBu-** ![][flag_PL] | **4** | 3 | ![][flag_JP] \_YuriNee | [#1](https://osu.ppy.sh/community/matches/43585954) |
 | **-NeBu-** ![][flag_PL] | **1** | 0 | ![][flag_GB] Electovoid | *forfeit* |
-| **_YuriNee** ![][flag_JP] | **4** | 3 | ![][flag_GB] Electovoid | [#1](https://osu.ppy.sh/community/matches/43587497) |
+| **\_YuriNee** ![][flag_JP] | **4** | 3 | ![][flag_GB] Electovoid | [#1](https://osu.ppy.sh/community/matches/43587497) |
 
 #### Group K
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | MrBooM ![][flag_PL] | 1 | **4** | ![][flag_GB] **Doomsday** | [#1](https://osu.ppy.sh/community/matches/43782604) |
 | **MrBooM** ![][flag_PL] | **1** | 0 | ![][flag_AU] Monk Gyatso | *forfeit* |
@@ -657,7 +657,7 @@ Monday, 9 July 2018:
 
 #### Group L
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Skydiver** ![][flag_ID] | **4** | 2 | ![][flag_MA] FGSky | [#1](https://osu.ppy.sh/community/matches/43807583) |
 | Skydiver ![][flag_ID] | 2 | **4** | ![][flag_JP] **Angel Arrow** | [#1](https://osu.ppy.sh/community/matches/43800534) |
@@ -668,7 +668,7 @@ Monday, 9 July 2018:
 
 #### Group M
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Apraxia** ![][flag_US] | **4** | 1 | ![][flag_Au] Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/43636376) |
 | **Apraxia** ![][flag_US] | **4** | 0 | ![][flag_EE] Tiger Claw | [#1](https://osu.ppy.sh/community/matches/43699039) |
@@ -679,7 +679,7 @@ Monday, 9 July 2018:
 
 #### Group N
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Azer** ![][flag_CA] | **4** | 2 | ![][flag_GB] Woffel | [#1](https://osu.ppy.sh/community/matches/43788585) |
 | **Azer** ![][flag_CA] | **4** | 2 | ![][flag_ES] Betwin | [#1](https://osu.ppy.sh/community/matches/43783748) |
@@ -690,7 +690,7 @@ Monday, 9 July 2018:
 
 #### Group O
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **fieryrage** ![][flag_US] | 4 | 1 | ![][flag_SG] GSBlank | [#1](https://osu.ppy.sh/community/matches/43578750) |
 | **fieryrage** ![][flag_US] | 4 | 0 | ![][flag_US] DigitalHypno | [#1](https://osu.ppy.sh/community/matches/43633000) |
@@ -701,7 +701,7 @@ Monday, 9 July 2018:
 
 #### Group P
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | zonelouise ![][flag_PH] | 0 | **4** | ![][flag_RO] **Chamosiala** | [#1](https://osu.ppy.sh/community/matches/43801894) |
 | zonelouise ![][flag_PH] | 0 | **4** | ![][flag_US] **Cappy** | [#1](https://osu.ppy.sh/community/matches/43809562) |
@@ -714,17 +714,17 @@ Monday, 9 July 2018:
 
 Saturday, 16 June 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **CeilingWaffle** ![][flag_AU] | **4** | 3 | ![][flag_UY] Daanit | [#1](https://osu.ppy.sh/community/matches/43379079) |
 | **Yaong** ![][flag_KR] | **4** | 0 | ![][flag_AU] FknRhythmGames | [#1](https://osu.ppy.sh/community/matches/43383810) |
 | **Jordan The Bear** ![][flag_AU] | **4** | 1 | ![][flag_NZ] Mousiini | [#1](https://osu.ppy.sh/community/matches/43383821) |
 | **Monk Gyatso** ![][flag_AU] | **4** | 1 | ![][flag_SG] [Jet] | [#1](https://osu.ppy.sh/community/matches/43384300) |
 | **Alien** ![][flag_PL] | **4** | 0 | ![][flag_NZ] Morrowind | [#1](https://osu.ppy.sh/community/matches/43385216) |
-| Big Z ![][flag_NZ] | 1 | **4** | ![][flag_RU] **_kyori** | [#1](https://osu.ppy.sh/community/matches/43386238) |
+| Big Z ![][flag_NZ] | 1 | **4** | ![][flag_RU] **\_Kyori** | [#1](https://osu.ppy.sh/community/matches/43386238) |
 | **GSBlank** ![][flag_SG] | **1** | 0 | ![][flag_DE] Lucker96 | *forfeit* |
 | **-NeBu-** ![][flag_PL] | **4** | 1 | ![][flag_MN] M-Osu | [#1](https://osu.ppy.sh/community/matches/43388656) |
-| Rimuru ![][flag_KW] | 3 | **4** | ![][flag_JP] **_YuriNee** | [#1](https://osu.ppy.sh/community/matches/43388611) |
+| Rimuru ![][flag_KW] | 3 | **4** | ![][flag_JP] **\_YuriNee** | [#1](https://osu.ppy.sh/community/matches/43388611) |
 | yeilowy246 ![][flag_NZ] | 0 | **4** | ![][flag_DE] **likejaxirl** | [#1](https://osu.ppy.sh/community/matches/43388451) |
 | POO ON MY SHOE ![][flag_AU] | 2 | **4** | ![][flag_GB] **Electovoid** | [#1](https://osu.ppy.sh/community/matches/43388605) |
 | **Chamosiala** ![][flag_RO] | **4** | 0 | ![][flag_AU] fuji | [#1](https://osu.ppy.sh/community/matches/43389913) |
@@ -732,7 +732,7 @@ Saturday, 16 June 2018:
 | **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_NL] GladiOol | [#1](https://osu.ppy.sh/community/matches/43391447) |
 | **respektive** ![][flag_DE] | **4** | 3 | ![][flag_GB] xFluffyo | [#1](https://osu.ppy.sh/community/matches/43393180) |
 | **Piggey** ![][flag_PL] | **4** | 0 | ![][flag_SE] Denk | [#1](https://osu.ppy.sh/community/matches/43395072) |
-| Arnold24x24 ![][flag_PE] | 0 | **1** | ![][flag_GB] **sut_son** | *forfeit* |
+| Arnold24x24 ![][flag_PE] | 0 | **1** | ![][flag_GB] **sut\_son** | *forfeit* |
 | **Apraxia** ![][flag_US] | **4** | 1 | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/community/matches/43397574) |
 | Eddie- ![][flag_CA] | 3 | **4** | ![][flag_ES] **Betwin** | [#1](https://osu.ppy.sh/community/matches/43396546) |
 | **Qbadoo** ![][flag_PL] | **4** | 1 | ![][flag_BR] Akane Hime | [#1](https://osu.ppy.sh/community/matches/43396849) |
@@ -747,10 +747,10 @@ Saturday, 16 June 2018:
 
 Sunday, 17 June 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Angel Arrow** ![][flag_JP] | **4** | 3 | ![][flag_US] M I L E S | [#1](https://osu.ppy.sh/community/matches/43411964) |
-| Freddie Benson ![][flag_US] | 3 | **4** | ![][flag_PH] **zonelouise** | [#1](https://osu.ppy.sh/community/matches/43412393) *Mid-match forfeit* |
+| Freddie Benson ![][flag_US] | 3 | **4** | ![][flag_PH] **zonelouise** | [#1](https://osu.ppy.sh/community/matches/43412393) *mid-match forfeit* |
 | **GranDSenpai** ![][flag_AU] | **1** | 0 | ![][flag_HK] Coni | *forfeit* |
 | **principe** ![][flag_CA] | **1** | 0 | ![][flag_BY] Blazink | *forfeit* |
 | **Shiny Chariot** ![][flag_DE] | **4** | 0 | ![][flag_AU] - Heatwave - | [#1](https://osu.ppy.sh/community/matches/43416621) |
@@ -771,7 +771,7 @@ Sunday, 17 June 2018:
 | **Exarch** ![][flag_US] | **1** | 0 | ![][flag_US] Irishy | *forfeit* |
 | **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_UY] moondust | [#1](https://osu.ppy.sh/community/matches/43428245) |
 | **alkalde** ![][flag_CA] | **4** | 1 | ![][flag_GB] helix | [#1](https://osu.ppy.sh/community/matches/43428262) |
-| **Eta Carinae** ![][flag_AT] | **4** | 0 | ![][flag_US] Leebs | [#1](https://osu.ppy.sh/community/matches/43428084) *Mid-match forfeit* |
+| **Eta Carinae** ![][flag_AT] | **4** | 0 | ![][flag_US] Leebs | [#1](https://osu.ppy.sh/community/matches/43428084) *mid-match forfeit* |
 | **Wario** ![][flag_GB] | **4** | 1 | ![][flag_US] BobbyZlich | [#1](https://osu.ppy.sh/community/matches/43429868) |
 | **Saika-** ![][flag_SE] | **1** | 0 | ![][flag_US] Erick | *forfeit* |
 | **Woey** ![][flag_US] | **4** | 0 | ![][flag_US] Yamato Hotel | [#1](https://osu.ppy.sh/community/matches/43409662) |
@@ -783,19 +783,19 @@ Sunday, 17 June 2018:
 
 Monday, 18 June 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **fieryrage** ![][flag_US] | **4** | 0 | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/43452418) |
 
 Tuesday, 19 June 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **FGSky** ![][flag_MA] | **4** | 1 | ![][flag_NL] PwnagePotato | [#1](https://osu.ppy.sh/community/matches/43486194) |
 
 Thursday, 21 June 2018:
 
-| Player 1 | | | Player 2 | Match info |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **TopSp1n** ![][flag_GB] | **4** | 3 | ![][flag_DE] Shiratu | [#1](https://osu.ppy.sh/community/matches/43529417) |
 
