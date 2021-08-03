@@ -74,7 +74,7 @@ Yaz's Summer Cup 2018 was run by various community members.
 | Group H | ![][flag_GB] **[Bubbleman](https://osu.ppy.sh/users/5182050)**, ![][flag_US] **[Num5119](https://osu.ppy.sh/users/5198060)**, ![][flag_HU] [Lexion](https://osu.ppy.sh/users/5271371), ![][flag_CA] [alkalde](https://osu.ppy.sh/users/7314046) |
 | Group I | ![][flag_FR] **[Flaven](https://osu.ppy.sh/users/3213239)**, ![][flag_AU] **[CeilingWaffle](https://osu.ppy.sh/users/3336090)**, ![][flag_US] [he rack](https://osu.ppy.sh/users/2644828), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027) |
 | Group J | ![][flag_PL] **[Alien](https://osu.ppy.sh/users/4743869)**, ![][flag_PL] **[-NeBu-](https://osu.ppy.sh/users/4099626)**, ![][flag_JP] [\_YuriNee](https://osu.ppy.sh/users/1794082), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263) |
-| Group K | ![][flag_GB] **[Doomsday](https://osu.ppy.sh/users/18983)**, ![][flag_PL] **[MrBooM](https://osu.ppy.sh/users/1837989)**, ![][flag_AU] [Eta Carinae](https://osu.ppy.sh/users/5841333), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086) |
+| Group K | ![][flag_GB] **[Doomsday](https://osu.ppy.sh/users/18983)**, ![][flag_PL] **[MrBooM](https://osu.ppy.sh/users/1837989)**, ![][flag_AT] [Eta Carinae](https://osu.ppy.sh/users/5841333), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086) |
 | Group L | ![][flag_JP] **[Angel Arrow](https://osu.ppy.sh/users/1970239)**, ![][flag_PL] **[QbaDoo](https://osu.ppy.sh/users/2395405)**, ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MA] [FGSky](https://osu.ppy.sh/users/2094566) |
 | Group M | ![][flag_US] **[Apraxia](https://osu.ppy.sh/users/4194445)**, ![][flag_AU] **[Jordan The Bear](https://osu.ppy.sh/users/7477458)**, ![][flag_RU] [z0mbir](https://osu.ppy.sh/users/4939107), ![][flag_EE] [Tiger Claw](https://osu.ppy.sh/users/2064445) |
 | Group N | ![][flag_CA] **[Azer](https://osu.ppy.sh/users/2155578)**, ![][flag_GB] **[Woffel](https://osu.ppy.sh/users/3915122)**, ![][flag_SE] [Saika-](https://osu.ppy.sh/users/4316633), ![][flag_ES] [Betwin](https://osu.ppy.sh/users/1968481) |
@@ -650,10 +650,10 @@ Monday, 9 July 2018:
 | --: | :-: | :-: | :-- | :-- |
 | MrBooM ![][flag_PL] | 1 | **4** | ![][flag_GB] **Doomsday** | [#1](https://osu.ppy.sh/community/matches/43782604) |
 | **MrBooM** ![][flag_PL] | **1** | 0 | ![][flag_AU] Monk Gyatso | *forfeit* |
-| **MrBooM** ![][flag_PL] | **4** | 0 | ![][flag_AU] Eta Carinae | [#1](https://osu.ppy.sh/community/matches/43808957) |
+| **MrBooM** ![][flag_PL] | **4** | 0 | ![][flag_AT] Eta Carinae | [#1](https://osu.ppy.sh/community/matches/43808957) |
 | **Doomsday** ![][flag_GB] | **1** | 0 | ![][flag_AU] Monk Gyatso | *forfeit* |
-| **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_AU] Eta Carinae | [#1](https://osu.ppy.sh/community/matches/43785512) |
-| Monk Gyatso ![][flag_AU] | 0 | **1** | ![][flag_AU] **Eta Carinae** | *forfeit* |
+| **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_AT] Eta Carinae | [#1](https://osu.ppy.sh/community/matches/43785512) |
+| Monk Gyatso ![][flag_AU] | 0 | **1** | ![][flag_AT] **Eta Carinae** | *forfeit* |
 
 #### Group L
 
