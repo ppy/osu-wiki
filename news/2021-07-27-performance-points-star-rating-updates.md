@@ -35,7 +35,7 @@ Estimated to take 3-4 days.
 
 UPDATE: As of 2021-07-30 09:00 UTC, all ranked beatmaps have been recalculated across all game modes. Non-ranked beatmaps have also been fully recalculated for osu! mode (with other modes running in the background over the coming days - these do not affect scores and as such this task is considered completed).
 
-### 🏃 Background user total recalculations \[2021-07-30 ~\]
+### 🟢 Background user total recalculations \[2021-07-30 - 2021-08-03\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
@@ -48,17 +48,21 @@ During this maintenance, the following will also occur:
 
 Estimated to take 4 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
 
-UPDATE: As of 2021-08-01 17:30 UTC, all users up to rank 420,000 (osu! mode) have been processed.
+UPDATE: As of 2021-08-03 04:00 UTC, all total pp values have been updated. Individual scores in the "best ranks" section should also be correct for all but osu!mania (which will be corrected over the coming days). Note that the order of "best ranks" may still be wrong until the indexing step below completes.
 
-### 🛑 Re-enabling of global rank history updates \[TBD\]
+### 🟢 Re-enabling of global rank history updates \[2021-08-03\]
 
 Rank history graphs updates will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
-### 🛑 Reindexing \[TBD\]
+UPDATE: Updates have been re-enabled and will continue as per normal.
+
+### 🏃 Reindexing \[2021-08-03 ~\]
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
 
 Estimated to take 2-4 days.
+
+UPDATE: Reindexing has started for osu! mode. Results will not be visible until it completely finishes.
 
 ### 🛑 Background user score recalculations \[TBD\]
 
