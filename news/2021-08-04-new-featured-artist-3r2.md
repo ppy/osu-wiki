@@ -8,7 +8,7 @@ date: 2021-08-04 10:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/187/header.jpg)
 
-A long-time contributor to all corners of the gaming sphere, **3R2** (a.k.a. **DJ Mashiro**) is a Taiwan-based composer, arranger, and DJ. Anyone in the rhythm game world likely needs no introduction to this creator given he's worked for some of the scene's biggest titles like *Cytus*, *Deemo*, *CHUNITHM*, *Arcaea*, and *Muse Dash*. On the non-rhythm side of gaming, he also produced the soundtracks for *Little With Nobeta* and *Rabi-Ribi*!
+A long-time contributor to all corners of the gaming sphere, **3R2** (a.k.a. **DJ Mashiro**) is a Taiwan-based composer, arranger, and DJ. Anyone in the rhythm game world likely needs no introduction to this creator given that he's worked for some of the scene's biggest titles like *Cytus*, *Deemo*, *CHUNITHM*, *Arcaea*, and *Muse Dash*. On the non-rhythm side of gaming, he also produced the soundtracks for *Little Witch Nobeta* and *Rabi-Ribi*!
 
 **10** tracks are available from **3R2**'s catalogue, ranging from some of the older **DJ Mashiro** classics to his more modern works — all available from [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/187)!
 
