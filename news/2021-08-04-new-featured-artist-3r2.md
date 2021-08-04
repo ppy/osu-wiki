@@ -23,6 +23,7 @@ Need a taste of **3R2**'s talent? Take a lick of [*DJ Mashiro - Prismatic Lollip
 ### DJ Mashiro - Prismatic Lollipops
 
 Check out any of these awesome maps:
+
 - [osu! map](https://osu.ppy.sh/beatmapsets/179288) hosted by [ZLOdeuka-](https://osu.ppy.sh/users/120823) from the video above
 - [osu!taiko map](https://osu.ppy.sh/beatmapsets/69308) hosted by [kanpakyin](https://osu.ppy.sh/users/394326)
 - [osu!mania map](https://osu.ppy.sh/beatmapsets/317255) hosted by [Shinzo-](https://osu.ppy.sh/beatmapsets/317255)
