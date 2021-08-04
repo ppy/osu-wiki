@@ -30,25 +30,25 @@ Check out any of these awesome maps:
 - [osu!taiko AND osu!mania hybrid map](https://osu.ppy.sh/beatmapsets/120289) hosted by [\[Emiria\]](https://osu.ppy.sh/users/2046044) (previously known as victoria_db)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/187/DJ%20Mashiro%20archive/DJ%20Mashiro%20-%20Prismatic%20Lollipops.mp3" type="audio/mpeg">
 </audio>
 
 ### 3R2 - Winter
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/187/flowing/3R2%20-%20Winter.mp3" type="audio/mpeg">
 </audio>
 
 ### 3R2 - Pancake is Love
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/187/Pancake%20is%20Love/3R2%20-%20Pancake%20is%20Love.mp3" type="audio/mpeg">
 </audio>
 
 ### 3R2 - Synthetic Life
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/187/Synthetic%20Life/3R2%20-%20Synthetic%20Life.mp3" type="audio/mpeg">
 </audio>
 
 ---
