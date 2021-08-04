@@ -15,9 +15,9 @@ Officially supported tournaments have access to:
 
 ### Tournaments
 
-Community-run tournaments that are receiving this support are expected to abide by the following general ideals:
+Community-run tournaments receiving this support are expected to abide by the following general ideals:
 
-- Should remain free and fair
+- Remain free and fair
 - Be as transparent as possible
 - Preserve competitive integrity
 - Encourage good sportsmanship
@@ -26,17 +26,17 @@ In addition, all promotional material or any services associated with a tourname
 
 ### Players
 
-Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishment or other achievements.
+Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements.
 
 Tournament players are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions.
 
-Organizers who find the behaviour of any player enrolled in an officially supported tournament questionable or disruptive may report such things to the osu! support team for prompt review. At the osu!team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behavior. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
+Organisers who find the behaviour of any player enrolled in an officially supported tournament questionable or disruptive may report such things to the osu! support team for prompt review. At the osu!team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
 
 ## Tournament screening
 
 A major part of being an officially supported tournament is access to the screening process. Similar to the "security checks" undertaken by all World Cup players, screening helps prevent people with recent serious infringements or tournament bans from disrupting play.
 
-Tournament organizers will be expected to provide the following:
+Tournament organisers will be expected to provide the following:
 
 - A comma-separated list (or spreadsheet) including player usernames and user IDs
 - If the tournament is team-based, this list must reflect the grouping of players in their teams of play, complete with any team name or other identifying marker
@@ -49,7 +49,7 @@ Player2, 1234567
 Player3, 1234567
 ```
 
-Once screening commences, the osu! Support Team will provide a list of any players from your tournament that failed screening and are not considered eligible for tournament play. No individual reasons will be given for why a player does not pass screening.
+Once screening concludes, the osu! Support Team will provide a list of any players from your tournament that failed screening and are not considered eligible for tournament play. No individual reasons will be given for why a player does not pass screening.
 
 Individual players who are unhappy with their screening outcome should be told to consult [accounts@ppy.sh](mailto:accounts@ppy.sh) via email.
 
@@ -61,7 +61,7 @@ Profile badge images must adhere to the following standards:
 
 - The badge image file MUST be a PNG.
 - The badge image MUST be **172x80**px in dimension.
-- The badge MUST clearly display the logo, motif or name of your tournament.
+- The badge MUST clearly display the logo, motif, or name of your tournament.
 - The badge MUST be cleanly designed and of reasonable visual quality.
 
 Please consult the following examples of approved badges:
@@ -71,9 +71,9 @@ Please consult the following examples of approved badges:
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly rare, but should be accounted for.
 
-## Designing your main menu banner
+## Designing your main-menu banner
 
-In rare circumstances, some long-running community tournaments may qualify for ingame main-menu banner support. Such images must adhere to the following standards:
+In rare circumstances, some long-running community tournaments may qualify for in-game main-menu banner support. Such images must adhere to the following standards:
 
 - The banner image MUST be a PNG.
 - The banner image MUST be **1500x256**px in dimension.
@@ -82,7 +82,7 @@ In rare circumstances, some long-running community tournaments may qualify for i
 - The banner MUST clearly display the logo, motif AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - The banner MUST be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 
-Please do not submit a main menu banner with your original request - you will be asked and pointed to this section if you are authorized to make use of one.
+Please do not submit a main menu banner with your original request—you will be asked and pointed to this section if you are authorized to make use of one.
 
 ## Requesting support
 
@@ -109,9 +109,9 @@ Please allow **at least a week** for a response. We will try our best to handle 
 
 Community-run tournaments which abide by the following hard criteria are eligible for support:
 
-- The tournament must have at least 64 players or 16 teams minimum into the qualifier rounds, **OR** operate on a Round of 16 double elimination at a minimum. Larger scales and formats are permitted.
-- The tournament is organized and run by an *experienced team of accomplished and reputable volunteers***¹** , **OR**, the tournament *has been run at least once before without receiving rewards*.
-- Any of the staff members involved in the managing or organization of the tournament must not be participating in the tournament themselves at any point.
+- The tournament must have at least 64 players or 16 teams minimum into the qualifier rounds, **OR** operate on a Round of 16 double-elimination format at a minimum. Larger scales and formats are permitted.
+- The tournament is organised and run by an *experienced team of accomplished and reputable volunteers***¹** , **OR**, the tournament *has been run at least once before without receiving rewards*.
+- Any of the staff members involved in the managing or organisation of the tournament must not be participating in the tournament themselves at any point.
   - To clarify further, if you play in a given tournament at all, you are unable to later assist as a referee, mappool selector or anything similar until that instance of the tournament concludes. You either play or help run, not both.
 - The tournament must be run only four or fewer times per year.
 - The tournament must have all players screened by the [account support team](/wiki/People/The_Team/Account_support_team) **before play commences**.
@@ -120,27 +120,27 @@ Community-run tournaments which abide by the following hard criteria are eligibl
   - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
   - This includes preventing users who are perceived to be "sandbagging" from play.
     - Should an organizer have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the link listed below.
-- The forum thread for the tournament must contain clearly visible link in normal-sized font to [this reporting form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
+- The forum thread for the tournament must contain a clearly visible link in a normal-sized font to [this reporting form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
 
-**¹**: "Experienced" team members are loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team. This may vary at the discretion of the account support team.
+**¹**: An "experienced" team member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team. This may vary at the discretion of the account support team.
 
 ### During the tournament
 
 If a tournament satisfies the criteria outlined above, it must also abide by the following practices during play:
 
-- Tournament organizers will be expected to monitor the matches of their tournament for toxic behavior or anything that goes against the expectations laid out above, and report it to the account support team.
-- Tournament organizers who spot potentially suspicious play during their tournament are **single-handedly responsible for reporting such incidents to the account support team** via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Tournament organisers will be expected to monitor the matches of their tournament for toxic behaviour or anything that goes against the expectations laid out above, and report it to the account support team.
+- Tournament organisers who spot potentially suspicious play during their tournament are **single-handedly responsible for reporting such incidents to the account support team** via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 - All multiplayer games relevant to the tournament must be created with the `!mp make` command, so that they do not expire.
-- All matches undertaken for the tournament must be recorded and their history made publicly available on the original forum post for the tournament in a clearly marked link in normal size font or larger.
+- All matches undertaken for the tournament must be recorded and their history made publicly available on the original forum post for the tournament as a clearly marked link in a normal-sized font or larger.
 - In the event that a player becomes restricted during the course of the tournament, you may need to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament.
-  - Organizers should contact the account support team to receive information and guidance on these (hopefully rare) cases.
+  - Organisers should contact the account support team to receive information and guidance on these (hopefully rare) cases.
 
 ### After the tournament
 
-Once the tournament has concluded, the organizers will need to submit the following to the account support team:
+Once the tournament has concluded, the organisers will need to submit the following to the account support team:
 
-- A list of applicable badge recipients (aka: the winners of your tournament)
+- A list of applicable badge recipients (a.k.a. the winners of your tournament)
 - A link to the publicly viewable catalogue of your tournament's match history
 
 LAN tournaments are also required to add links to VODs and a copy of the bracket of the entire tournament in order to be considered for a badge prize.
@@ -149,29 +149,29 @@ LAN tournaments are also required to add links to VODs and a copy of the bracket
 
 ### Why does a tournament have to run at least twice or more in order to qualify for profile badges without experienced staff present?
 
-The second iteration of a tournament is often free of a lot of the organizational issues of the first tournament, and has established a solid workflow and staff involved in its production. They are far less likely to peter out or be subject to questionable choices. The tournament is also far more identifiable if it runs more than just once.
+The second iteration of a tournament is often free of a lot of the organisational issues of the first tournament, and has established a solid workflow and staff involved in its production. They are far less likely to peter out or be subject to questionable choices. The tournament is also far more identifiable if it runs more than just once.
 
-For all of these reasons (and more), we ask that profile badge prizes are only awarded to tournaments that have successfully run at least once before, unless a sizable majority of the team is experienced and accomplished at running tournaments in the past.
+For all of these reasons (and more), we ask that profile badge prizes are only awarded to tournaments that have successfully run at least once before, unless a sizeable majority of the team is experienced and accomplished at running tournaments in the past.
 
 ### What is considered "staff" as far as tournament management goes?
 
-We consider referees, mappool selectors, judges, team organizers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
+We consider referees, mappool selectors, judges, team organisers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
 
 Commentators and streamers are not considered by us as staff, and may play or interact in tournaments freely so long as they are not directly involved in any managerial aspect of running the tournament or violate anything mentioned above.
 
-We have historically had issues where unscrupulous organizers have geared tournaments specifically (ie: picked maps they're familiar with, adjusted seeds/brackets, etc.) to farm profile badges for themselves and their friends. While we understand that most groups will not do this, we must enforce this restriction to keep things fair for everyone.
+We have historically had issues where unscrupulous organisers have geared tournaments specifically (i.e. picked maps they're familiar with, adjusted seeds/brackets, etc.) to farm profile badges for themselves and their friends. While we understand that most groups will not do this, we must enforce this restriction to keep things fair for everyone.
 
 ### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems?
 
 Generally no, unless the role they are assuming is not one that could conceivably alter the outcome of the tournament.
 
-One main exception is for playtesters collaborating with mappoolers for feedback and replays - this is tentatively allowed, but must be undertaken with care to ensure that it does not skew the tournament's outcome in any unfair or unusual way. We permit this on an expectation of trust and hope that any misuse of this exception would be reported to the tournament committee for prompt review.
+One main exception is for playtesters collaborating with mappoolers for feedback and replays—this is tentatively allowed, but must be undertaken with care to ensure that it does not skew the tournament's outcome in any unfair or unusual way. We permit this on an expectation of trust and hope that any misuse of this exception would be reported to the tournament committee for prompt review.
 
-A player may conclude play in your tournament and join as a commentator, for example, but not as a referee, organizer, or anything further.
+A player may conclude play in your tournament and join as a commentator, for example, but not as a referee, organiser, or anything further.
 
 ### Why can't badges be awarded to recurring monthly (or weekly) tournaments?
 
-Flooding the game with profile badges dilutes the prestige of the prize for everybody else. We do not want profile badges to be something that people 'farm' for from a few sets of regular, recurring tournaments.
+Flooding the game with profile badges dilutes the prestige of the prize for everybody else. We do not want profile badges to be something that people 'farm' from a few sets of regular, recurring tournaments.
 
 ### Can I request a badge for a beatmap contest or other type of competition?
 
