@@ -87,11 +87,9 @@ The {TITLE} is run by various community members.
 | Country3 | Example | Example | Example |
 | Country4 | Example | Example | Example |
 
-![](img/podium.png "{SHORT_TITLE} podium") <!-- remove if not available -->
-
 ![](img/bracket.png "{SHORT_TITLE} bracket") <!-- remove if not available -->
 
-<!-- if the podium image isn't available, add the following section
+<!-- add the following section, once your tournament is concluded
 
 ## Podium
 
@@ -102,6 +100,14 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") |  |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
+
+-->
+
+<!-- if the podium is an image, use the following version:
+
+## Podium
+
+![](img/podium.png "{SHORT_TITLE} podium")
 
 -->
 
