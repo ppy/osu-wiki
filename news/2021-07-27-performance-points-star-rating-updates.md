@@ -62,7 +62,7 @@ This will fix scores being out of order on profiles, and in some rare cases not 
 
 Estimated to take 2-4 days.
 
-UPDATE: Reindexing has started for osu! mode. Results will not be visible until it completely finishes.
+UPDATE: As of 2021-08-04 04:00 UTC, reindexing is completed for osu! mode. Other modes are currently running.
 
 ### 🛑 Background user score recalculations \[TBD\]
 
