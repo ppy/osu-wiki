@@ -7,4 +7,4 @@
   - ![](/wiki/shared/diff/normal-m.png) osu!maniaでのNM
   - ![](/wiki/shared/diff/normal-o.png) osu!でのNormal
   - ![](/wiki/shared/diff/normal-t.png) osu!taikoでのMuzukashii
-  - ![](/wiki/shared/diff/normal-c.png) osu!catchでのPlatter
+  - ![](/wiki/shared/diff/normal-c.png) osu!catchでのSalad

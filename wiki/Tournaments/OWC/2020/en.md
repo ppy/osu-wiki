@@ -52,10 +52,10 @@ The osu! World Cup 2020 was run by the osu!team and various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)
-- [Livestream](https://www.twitch.tv/osulive)
-- [Challonge bracket](https://challonge.com/OWC_2020)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/47) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK1VndO4Dng6TJ2yM8dedF7Bkf0b-VvrK2T5US5Y-YkI-fpxZhNanWWJOdTB-2BrW9eu8o62sGm5_G/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- [Challonge bracket](https://challonge.com/OWC_2020 "Challonge")
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/47 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK1VndO4Dng6TJ2yM8dedF7Bkf0b-VvrK2T5US5Y-YkI-fpxZhNanWWJOdTB-2BrW9eu8o62sGm5_G/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -299,7 +299,7 @@ The osu! World Cup 2020 was run by the osu!team and various community members.
 
 ### Grand Finals
 
-The stats of the Grand Finals can be found [here](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal "Google spreadsheet").
+The stats of the Grand Finals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 5 December 2020:
 
@@ -315,7 +315,7 @@ Sunday, 6 December 2020:
 
 ### Finals
 
-The stats of the Finals can be found [here](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "Google spreadsheet").
+The stats of the Finals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 28 November 2020:
 
@@ -333,7 +333,7 @@ Sunday, 29 November 2020:
 
 ### Semifinals
 
-The stats of the Semifinals can be found [here](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "Google spreadsheet").
+The stats of the Semifinals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 21 November 2020:
 
@@ -355,7 +355,7 @@ Sunday, 22 November 2020:
 
 ### Quarterfinals
 
-The stats of the Quarterfinals can be found [here](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal "Google spreadsheet").
+The stats of the Quarterfinals can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 14 November 2020:
 
@@ -385,7 +385,7 @@ Sunday, 15 November 2020:
 
 ### Round of 16
 
-The stats of the Round of 16 can be found [here](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "Google spreadsheet").
+The stats of the Round of 16 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 7 November 2020:
 
@@ -415,7 +415,7 @@ Sunday, 8 November 2020:
 
 ### Round of 32
 
-The stats of the Round of 32 can be found [here](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal "Google spreadsheet").
+The stats of the Round of 32 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 31 October 2020:
 
@@ -445,7 +445,7 @@ Sunday, 1 November 2020:
 
 ### Qualifiers
 
-The stats of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal "Google spreadsheet").
+The stats of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal "Google spreadsheet").
 
 ## Ruleset
 
@@ -526,7 +526,7 @@ The stats of the Qualifiers can be found [here](https://docs.google.com/spreadsh
 2. Each captain can ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16. These beatmaps are not allowed to be picked by any team in the entire match.
    - **From Quarterfinals onwards, the number of bans increases to two. However, each team may not ban more than one map of any mod bracket (excluding NoMod).**
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-4. Each captain must use "!roll" once in #multiplayer.
+4. Each captain must use `!roll` once in `#multiplayer`.
    - The captain with the higher roll decides which team **picks** first.
    - The captain with the lower roll decides which team **bans** first.
    - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**

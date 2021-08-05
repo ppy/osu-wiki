@@ -20,12 +20,12 @@ Let's jump into the maps!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [Toy](https://osu.ppy.sh/users/2757689) and [DigitalHypno](https://osu.ppy.sh/users/4384207)!
 
@@ -66,7 +66,7 @@ It's come to the point that lahphnya (now known as elchxyrlia) might be the most
 
 You may know this mapset possibly only because of that crazy clip of [firebat92](https://osu.ppy.sh/users/1777162) FCing the shorter difficulty (check it out [here](https://clips.twitch.tv/ChillyDaintyIguanaEleGiggle) if you haven't seen it)—since then, the map has collected over 350 favorites and is now a staple for people wanting to train their 8\* jump patterns, as this map features a couple long 300x 8\* jump sections at 252 BPM. Good luck in overcoming your own monsters here!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [Backfire](https://osu.ppy.sh/users/263110), [Gezoda](https://osu.ppy.sh/users/481582), [iceOC](https://osu.ppy.sh/users/5482401) and [-Kazu-](https://osu.ppy.sh/users/920861)! This week, all osu!taiko beatmap descriptions were written by [Backfire](https://osu.ppy.sh/users/263110).
 
@@ -104,7 +104,7 @@ A returning choice from Round 3 of Project Loved, this map was featured in the o
 
 > Featured in osu!taiko World Cup 2017 as a FreeMod pick, a lot of pros are probably familiar with this map, and also, no doubt have a love-hate relationship with its blistering difficulty. The 1/6 is intense but also fitting, as NaCL's veteran use of these kinds of patterns no doubt flourish in this song.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Zak](https://osu.ppy.sh/users/1375955), [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941) and [Ascendance](https://osu.ppy.sh/users/2931883)! This week, all osu!catch beatmap descriptions were written by [Sartan](https://osu.ppy.sh/users/4100941).
 
@@ -122,7 +122,7 @@ This week, we have Kyptoric making his way into the Project Loved vote with his 
 
 It has been a while since the osu!catch Loved vote has seen some metal, but today ursa will be providing us with four difficulties of metal on Abecky's Vampire Edge. What can be considered as a relatively long song for a spread, it being 4:30, Vampire Edge provides some nice material to people of any skill level, with a Salad, Platter, Rain and Overdose included. Although Vampire Edge is not the greatest challenge of a map for good players, it still provides plenty of replayability when attempted with a variety of mods across its spread. You can make it a little spicier yourself by trying the Rain with DoubleTime, for example. So get your horns out, headbang some to this map, and vote!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Kamikaze](https://osu.ppy.sh/users/2124783), [Pope Gadget](https://osu.ppy.sh/users/2288341), [aitor98](https://osu.ppy.sh/users/3154852), [TheToaphster](https://osu.ppy.sh/users/7616811) and [\_underjoy](https://osu.ppy.sh/users/2235750)!
 

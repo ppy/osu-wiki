@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
+---
+
 # Project Loved
 
 **Project Loved** (*проект «Улюблені Мапи»*, також *«Лавед»*) — це платформа для голосування, через яку мапи потрапляють у категорію [Loved](/wiki/Beatmap/Category#loved). Проектом управляє [одноименна команда](/wiki/People/The_Team/Project_Loved_Team).
@@ -25,7 +30,7 @@
 
 - Вона не знаходится у категоріях [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked) або [Approved](/wiki/Beatmap/Category#approved).
 - Творець мапи згоден з тим, щоб його мапа потрапила у категорію Loved.
-- Творець мапи не заблокований або не має ніяких [обмежень облікового запису](/wiki/uk/Help_Centre#restriction).
+- Творець мапи не заблокований або не має ніяких [обмежень облікового запису](/wiki/Help_Centre/Account#restriction).
 - Як мінімум одна складність може бути пройдена.
 - Мапу повинні додати у обране не менш ніж 30 людей (відноситься тільки до osu!).
 - Кожна важкість має мати, хоча б 30 секунд [геймплейного часу карти](/wiki/Gameplay/Drain_time).

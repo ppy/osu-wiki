@@ -17,7 +17,7 @@ La **Coffee Hispanic Showdown** (***CHS***) fue un torneo de osu! de doble-elimi
 | Fase de registro | 2020-07-05/2020-07-26 |
 | Eliminatorias | 2020-08-06/2020-08-09 |
 | Octavos de Final | 2020-08-15/2020-08-17 |
-| Cuartos de Final  | 2020-08-22/2020-08-26 |
+| Cuartos de Final | 2020-08-22/2020-08-26 |
 | Semifinales | 2020-08-29/2020-08-31 |
 | Finales | 2020-09-04/2020-09-06 |
 | Grandes Finales | 2020-09-12/2020-09-13 |
@@ -26,7 +26,7 @@ La **Coffee Hispanic Showdown** (***CHS***) fue un torneo de osu! de doble-elimi
 
 | Puestos | Premios |
 | :-: | :-- |
-| ![Corona de Oro](/wiki/shared/crown-gold.png "1er lugar") | Medalla única de perfil, banner de equipo exclusivo, banner de jugador exclusivo, un 50% de descuento en covers de tablet/mousepads para los 4 players en [Foxbox](https://foxbox.io/) |
+| ![Corona de Oro](/wiki/shared/crown-gold.png "1er lugar") | Medalla única de perfil, banner de equipo exclusivo, banner de jugador exclusivo, un 50% de descuento en covers de tablet/mousepads para los 4 players en [Foxbox](https://foxbox.io/ "Foxbox") |
 | ![Corona de Plata](/wiki/shared/crown-silver.png "2ndo lugar") | Banner de equipo exclusivo |
 | ![Corona de Bronce](/wiki/shared/crown-bronze.png "3er lugar") | Banner de equipo exclusivo |
 
@@ -52,11 +52,11 @@ Coffee Hispanic Tournament fue realizado por varios miembros de la comunidad.
 ## Enlaces
 
 - [Foro de discusión](https://osu.ppy.sh/community/forums/topics/1100670)
-- [CHS servidor de Discord](https://discord.gg/baVKCzU)
-- [Livestream](https://www.twitch.tv/coffeehispanic)
-- [Challonge brackets](https://challonge.com/es/CoffeeHispanicShowdown)
-- [Sitio web de predicciones Pick'em](https://pickem.hwc.hr/tournaments/39)
-- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1wEr5HhIWiaftd3-9GHJnzFN-0JESClEVPMWl3GQWEUw/edit?usp=sharing)**
+- [CHS servidor de Discord](https://discord.gg/baVKCzU "Discord")
+- [Livestream](https://www.twitch.tv/coffeehispanic "Twitch")
+- [Challonge brackets](https://challonge.com/es/CoffeeHispanicShowdown "Challonge")
+- [Sitio web de predicciones Pick'em](https://pickem.hwc.hr/tournaments/39 "hwchr's pick'em")
+- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1wEr5HhIWiaftd3-9GHJnzFN-0JESClEVPMWl3GQWEUw/edit?usp=sharing "Google Sheets")**
 
 ## Participantes
 
@@ -93,7 +93,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Grandes Finales
 
-**[Descarga el paquete de mapas aquí! (177 MB)](https://drive.google.com/file/d/1wcqGYC0uPnrlvoh2Xd2ax0BmZzxT2k4R/view)**
+**[Descarga el paquete de mapas aquí! (177 MB)](https://drive.google.com/file/d/1wcqGYC0uPnrlvoh2Xd2ax0BmZzxT2k4R/view "Google Drive")**
 
 - NoMod
   - [PassCode - Ray (SkyFlame) \[Resonance\]](https://osu.ppy.sh/beatmapsets/1180927#osu/2462350)
@@ -126,7 +126,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Finales
 
-**[Descarga el paquete de mapas aquí! (156 MB)](https://drive.google.com/file/d/1g847SBMY7dh1rO1PD4cGzIWu_8ymbunN/view)**
+**[Descarga el paquete de mapas aquí! (156 MB)](https://drive.google.com/file/d/1g847SBMY7dh1rO1PD4cGzIWu_8ymbunN/view "Google Drive")**
 
 - NoMod
   - [Twin-Tails - Twintail Dreamer! (Minorsonek) \[diuS' Expert\]](https://osu.ppy.sh/beatmapsets/773026#osu/1680262)
@@ -219,7 +219,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Octavos de Final
 
-**[Descarga el paquete de mapas aquí! (107 MB)](https://www.mediafire.com/file/ylbcsstmlh8uemm/RO16.rar/file)**
+**[Descarga el paquete de mapas aquí! (107 MB)](https://www.mediafire.com/file/ylbcsstmlh8uemm/RO16.rar/file "MediaFire")**
 
 - NoMod
   - [LiSA - Jet Rocket (Wen) \[Rocketing Love\]](https://osu.ppy.sh/beatmapsets/1189927#osu/2479386)
@@ -247,7 +247,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Eliminatorias
 
-**[Descarga el paquete de mapas aquí! (71 MB)](http://www.mediafire.com/file/ymmc53rkwsjz65t/Eliminatorias_Pool.rar/file)**
+**[Descarga el paquete de mapas aquí! (71 MB)](http://www.mediafire.com/file/ymmc53rkwsjz65t/Eliminatorias_Pool.rar/file "MediaFire")**
 
 - NoMod
   - [nano - DREAMCATCHER (Depths) \[Destiny\]](https://osu.ppy.sh/beatmapsets/802148#osu/1683581)
@@ -385,7 +385,7 @@ Lunes, 17 Agosto 2020:
 | #1 | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490) | 23 |
 | #2 | ![][flag_US] [AbrahamR](https://osu.ppy.sh/users/4797389), ![][flag_CO] [GaaL](https://osu.ppy.sh/users/2374950) | 83 |
 | #3 | ![][flag_CL] [Deruz](https://osu.ppy.sh/users/5386106), ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398) | 98 |
-| #4 | ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398), ![][flag_UY] [Madozito](https://osu.ppy.sh/users/4054429) | 106 |
+| #4 | ![][flag_UY] [Madozito](https://osu.ppy.sh/users/4054429), ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | 106 |
 | #5 | ![][flag_ES] [In Sane](https://osu.ppy.sh/users/5114537), ![][flag_ES] [Rekens](https://osu.ppy.sh/users/1073575) | 109 |
 | #6 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481), ![][flag_RO] [Lisko](https://osu.ppy.sh/users/11948017) | 111 |
 | #7 | ![][flag_AR] [Emiru Ikuno 2](https://osu.ppy.sh/users/9393446), ![][flag_AR] [SlowBurn](https://osu.ppy.sh/users/3608846) | 117 |
@@ -462,7 +462,7 @@ Lunes, 17 Agosto 2020:
 
 - Sólo los 16 primeros de cada tier pueden formar un equipo de 4 y pasar a la fase eliminatoria
   - El equipo que se forme será escogido por el [seleccionador del equipo](#organización)
-- Los resultados mas detallados de las qualifiers se pueden acceder en la [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
+- Los resultados mas detallados de las qualifiers se pueden acceder en la [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682 "Google Sheets")
 - El total de puntos se determina por `la posición Σ ganada al jugar el mappool de clasificaciones (en cada tier)`, cuanto más baja sea la puntuación mejor
 - Nota: La seed #6 del tier 1 fue descalificada, así que la seed #17 irá y formará el equipo en su lugar.
 
@@ -470,7 +470,7 @@ Lunes, 17 Agosto 2020:
 
 1. Coffee Hispanic Showdown es un **torneo de 2v2 osu!** y usará **Score V2** como sistema de puntuación.
 2. El torneo usará el sistema de soporte de **doble-eliminación**, lo que significa que tienes 2 posibilidades de perder antes de ser eliminado del torneo.
-3. Este es un torneo donde solamente players de países **[Hispanohablantes](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions)** podrán ingresar.En caso de tener bandera de otro país pero ser hispanohablante, deberás justificar conmigo o Neuu tu nacionalidad.
+3. Este es un torneo donde solamente players de países **[Hispanohablantes](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions "Wikipedia")** podrán ingresar.En caso de tener bandera de otro país pero ser hispanohablante, deberás justificar conmigo o Neuu tu nacionalidad.
 4. Hay dos tier divididos por los rangos de osu!, más detalles a continuación:
    - Tier 1: BWS Rango #1 - #2,500
    - Tier 2: BWS Rango #2,501 - #15,000

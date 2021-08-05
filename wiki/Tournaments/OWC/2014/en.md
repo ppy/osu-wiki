@@ -48,8 +48,8 @@ The osu! World Cup 2014 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/posts/3410198)
-- [Livestream](https://www.twitch.tv/osulive/)
-- **[Statistics sheet](https://owc.nicarim.pw/results/view/3)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Statistics sheet](https://owc.nicarim.pw/results/view/3 "Nicarim")**
 
 ## Participants
 
@@ -115,7 +115,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (130 MB)](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
+**[Download the mappack here! (130 MB)](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar "MediaFire")**
 
 - NoMod
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmapsets/59049#osu/214248)
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (187 MB)](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
+**[Download the mappack here! (187 MB)](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar "MediaFire")**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (164 MB)](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
+**[Download the mappack here! (164 MB)](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar "MediaFire")**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
@@ -205,7 +205,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (144 MB)](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
+**[Download the mappack here! (144 MB)](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar "MediaFire")**
 
 - NoMod
   - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
@@ -235,7 +235,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (206 MB)](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
+**[Download the mappack here! (206 MB)](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
@@ -430,7 +430,7 @@ Sunday, 9 November 2014:
 3. You must specify a captain who will represent the team.
 4. We do not differ between core players and back-up players
 5. Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
-6. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
+6. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms"). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 7. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
@@ -487,8 +487,8 @@ Sunday, 9 November 2014:
 5. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited.
 6. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 7. Both vetos must always be used.
-8. Both captains must use "!roll" to determine, who starts banning two beatmaps. The other captain can not ban the same beatmaps and must pick another beatmap in case of an overlap.
-9. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
+8. Both captains must use `!roll` to determine, who starts banning two beatmaps. The other captain can not ban the same beatmaps and must pick another beatmap in case of an overlap.
+9. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
 10. Captains can pick freely from any bracket.
 11. In case of a tie, the tiebreaker map must be played.
 12. Results will be published on the wiki and via the Statistics website.

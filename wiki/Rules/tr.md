@@ -37,7 +37,7 @@ Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalmas
 
 *Not: Bu kurallar yalnızca Dereceli olanlar için değil, **gönderilen bütün mapler** için geçerlidir. Dereceli beatmapler için geçerli olan daha spesifik kurallar için, [Derecelendirme Kriterlerine](/wiki/Ranking_Criteria) bakınız.*
 
-Yalnızca oyun içerisinde bulunan [Beatmap Gönderme Sistemi](/wiki/Glossary#bss) üzerinden gönderilen beatmapler bu kurala tabiidir. Bu konu başlıkları/tartışmalar [düzenleyici](/wiki/Beatmap_Editor) üzerinden gönderildiğinde osu! istemcisi tarafından oluşturulur.
+Yalnızca oyun içerisinde bulunan [Beatmap Gönderme Sistemi](/wiki/Submission) üzerinden gönderilen beatmapler bu kurala tabiidir. Bu konu başlıkları/tartışmalar [düzenleyici](/wiki/Beatmap_Editor) üzerinden gönderildiğinde osu! istemcisi tarafından oluşturulur.
 
 1. **Beatmapinizde bulunan her türlü içeriği kullanmak için izniniz olduğuna emin olun.** Bu, müzik, video, vuruş sesleri, grafikler ve sizin yaratmadığınız her türlü içeriği de kapsar. Eğer kullanımı serbest bir içeriği nereden bulacağınızdan emin değilseniz, %100 osu!'da kullanım için lisanslı olan müzikler için gittikçe büyüyen [Featured Artist](https://osu.ppy.sh/beatmaps/artists) kütüphanemize ve daha fazla bilgi için [İçerik Kullanım Yönergelerine](Content_Usage_Guidelines) göz atabilirsiniz.
 2. **Beatmap tartışmalarında konu dışına çıkmayın.** Bu konu başlıklarının ilgili beatmap haricinde herhangi bir konuyla ilişiği yoktur. Eğer ilgili beatmap ile doğrudan bir probleminiz yoksa, uygun bir forumda bunu paylaşarak sorununuzu dile getirin.

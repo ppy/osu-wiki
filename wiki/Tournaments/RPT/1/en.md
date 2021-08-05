@@ -53,10 +53,10 @@ The ROI PRO Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1035782)
-- [RPT Discord server](https://discord.gg/xjtz5t6)
-- [Livestream](https://www.twitch.tv/roiprotournament)
-- [Challonge brackets](https://challonge.com/roiprotournament)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1YRVgU95F8lBCP-sJqsexdtChzyF_iZJv_wNGd_QSIao/edit?usp=sharing)**
+- [RPT Discord server](https://discord.gg/xjtz5t6 "Discord")
+- [Livestream](https://www.twitch.tv/roiprotournament "Twitch")
+- [Challonge brackets](https://challonge.com/roiprotournament "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1YRVgU95F8lBCP-sJqsexdtChzyF_iZJv_wNGd_QSIao/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -87,7 +87,7 @@ The ROI PRO Tournament was run by various community members.
 
 ### Grand Finals
 
-**[Download the mappack here! (158 MB)](https://drive.google.com/file/d/1AXqUsNa5GOSpUVKZzIQbDHb8lTi42f-M/view?usp=sharing)**
+**[Download the mappack here! (158 MB)](https://drive.google.com/file/d/1AXqUsNa5GOSpUVKZzIQbDHb8lTi42f-M/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [THE ORAL CIGARETTES - Flower (fritz\_divine) \[Vagueness\]](https://osu.ppy.sh/beatmapsets/878327#osu/2259898)
@@ -118,7 +118,7 @@ The ROI PRO Tournament was run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (133 MB)](https://drive.google.com/file/d/1RpD-WewkrwR80aiX5yOPrd0VbXOKqgbM/view?usp=sharing)**
+**[Download the mappack here! (133 MB)](https://drive.google.com/file/d/1RpD-WewkrwR80aiX5yOPrd0VbXOKqgbM/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [mafumafu - Rinne Tensei (AirinCat) \[Reincarnation\]](https://osu.ppy.sh/beatmapsets/1083811#osu/2266659)
@@ -149,7 +149,7 @@ The ROI PRO Tournament was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1p6VVfux4_yrmB9Rlqxjp8cVo_Y7DRu1i/view?usp=sharing)**
+**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1p6VVfux4_yrmB9Rlqxjp8cVo_Y7DRu1i/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Harada Hitomi - Kyoumei no True Force (Kibbleru) \[Ex\]](https://osu.ppy.sh/beatmapsets/454893#osu/975153)
@@ -180,7 +180,7 @@ The ROI PRO Tournament was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (127 MB)](https://drive.google.com/file/d/1dxd5XH2EuBaWhCIMyoyvg2e9pmy1gQ05/view?usp=sharing)**
+**[Download the mappack here! (127 MB)](https://drive.google.com/file/d/1dxd5XH2EuBaWhCIMyoyvg2e9pmy1gQ05/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Itou Kanako - Fatima (10nya) \[1.064750%\]](https://osu.ppy.sh/beatmapsets/787938#osu/1653723)
@@ -211,7 +211,7 @@ The ROI PRO Tournament was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (90 MB)](https://drive.google.com/file/d/141ky8BlEB5IkFjF7xSPxDp_KGwXkllCB/view?usp=sharing)**
+**[Download the mappack here! (90 MB)](https://drive.google.com/file/d/141ky8BlEB5IkFjF7xSPxDp_KGwXkllCB/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Minato Aqua - Dadadada Tenshi (Amateurre) \[Tenshi\]](https://osu.ppy.sh/beatmapsets/1079554#osu/2267030)
@@ -237,7 +237,7 @@ The ROI PRO Tournament was run by various community members.
 
 ### Qualifiers
 
-**[Download the mappack here! (71 MB)](https://drive.google.com/file/d/1XDHJ7cQPC2KXVrAkZolGY8iuQd_XVr7T/view?usp=sharing)**
+**[Download the mappack here! (71 MB)](https://drive.google.com/file/d/1XDHJ7cQPC2KXVrAkZolGY8iuQd_XVr7T/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Hanazono Tae (CV: Otsuka Sae) - Hanazono Denki Guitar!!! (Akitoshi) \[Expert\]](https://osu.ppy.sh/beatmapsets/943947#osu/1971326)

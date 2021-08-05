@@ -6,7 +6,9 @@ tags:
 
 # Project Loved Team
 
-The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Project_Loved), the voting platform that promotes [beatmaps](/wiki/Beatmap) to the [Loved](/wiki/Beatmap/Category#loved) category.
+The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Project_Loved), the voting platform that promotes [beatmaps](/wiki/Beatmap) to the [Loved](/wiki/Beatmap/Category#loved) category. They are distinguished by their usergroup badge that reads `LVD` and the username colour that is candy pink on the forums.
+
+The [Project Loved group page](https://osu.ppy.sh/groups/31) lists all of the team members.
 
 ## Captains
 
@@ -21,9 +23,9 @@ The Project Loved Team mostly consists of *captains* for each [game mode](/wiki/
 ### osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
+- ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
-- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
 - ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 
 ### osu!catch
@@ -35,8 +37,8 @@ The Project Loved Team mostly consists of *captains* for each [game mode](/wiki/
 
 ### osu!mania
 
+- ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
-- ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
 - ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
@@ -46,22 +48,36 @@ The Project Loved Team mostly consists of *captains* for each [game mode](/wiki/
 
 Coordinators are mainly responsible for making sure all the captains work together to run Project Loved smoothly. They write news and forum posts, maintain tools, and help moderate discussions about Loved.
 
-- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
+- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
 
 ## Beatmap metadata reviewers
 
 Metadata reviewers check through every beatmap that will be put up for voting, and work with mappers to fix any mistakes before the maps are potentially moved to Loved.
 
-- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
+- ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
-## Alumni
+## Beatmap content moderators
+
+Content moderators consist of dedicated [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members that take part in the assessment of the visual and aural content included in the beatmaps that will be put up for voting.
+
+- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
+- ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437)
+
+## Retired members
+
+Below listed are the users, who once were a part of the Project Loved Team.
+
+### Coordinators
+
+- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 
 ### osu! captains
 
@@ -83,6 +99,7 @@ Metadata reviewers check through every beatmap that will be put up for voting, a
 - ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
 - ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)
+- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
 - ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767)
 - ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
@@ -98,7 +115,7 @@ Metadata reviewers check through every beatmap that will be put up for voting, a
 
 ### osu!mania captains
 
-- ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
+- ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852)
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992)
 - ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783)
@@ -115,7 +132,7 @@ Metadata reviewers check through every beatmap that will be put up for voting, a
 ## Trivia
 
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) created the original team of captains in September 2017 along with the [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) system that was later renamed to Project Loved. Until late 2019, he oversaw and managed the whole project.
-- There is a Project Loved user group on the website with group ID 31, but the listing is not public. It is used for permissions to moderate the [Project Loved forum](https://osu.ppy.sh/community/forums/120) and promote beatmaps to the Loved category.
+- Prior to the 28th of April, 2021, the [Project Loved group page](https://osu.ppy.sh/groups/31) was not public and used only for administrational purposes. As of now, it is publicly available.
   - Until the 16th of April, 2021, the only people that had been in the group were ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), and ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689). Now, all of the Project Loved Team belongs to the group.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
@@ -137,5 +154,6 @@ Metadata reviewers check through every beatmap that will be put up for voting, a
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

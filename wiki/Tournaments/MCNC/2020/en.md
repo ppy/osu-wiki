@@ -52,9 +52,9 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
 - [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/1039317)
 - [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1039326)
-- [Livestream](https://live.bilibili.com/2996250)
-- [Challonge bracket](https://challonge.com/zh_CN/MCNC2020)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/18a6ZwQ5Q_EWvncpfzP3KIYFB6IeOIWiC_AbqYpuORBE)**
+- [Livestream](https://live.bilibili.com/2996250 "Bilibili")
+- [Challonge bracket](https://challonge.com/zh_CN/MCNC2020 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/18a6ZwQ5Q_EWvncpfzP3KIYFB6IeOIWiC_AbqYpuORBE "Google Sheets")**
 
 ## Participants
 
@@ -120,16 +120,16 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (201 MB)](https://www.dropbox.com/s/p4daduyfm4us6m4/MCNC20%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (201 MB)](https://www.dropbox.com/s/p4daduyfm4us6m4/MCNC20%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
 
 - FreeMod
-  - [Aquellex - Tachyon Beam Cannon (Plutes) Gekido-'s \[Destruction 1.1x\]](https://osu.ppy.sh/beatmaps/2476292)
+  - Aquellex - Tachyon Beam Cannon (Plutes) Gekido-'s \[Destruction 1.1x\]
   - [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome…? (Sillyp) \[NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/1191781#mania/2483411)
   - [Camellia - INSANE INFLAME (Evening) \[FINAL IGNITION \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1188925#mania/2477432)
   - [Camellia - SECRET BOSS (Kamuy) \[CATASTROPHE\]](https://osu.ppy.sh/beatmapsets/1102116#mania/2302409)
   - [DJ SHARPNEL - Shihen (\[Crz\]MemoryI) \[Challenge x1.25\]](https://osu.ppy.sh/beatmapsets/1188298#mania/2476268)
-  - [Frums - Pictured as Perfect and Plus (\[Crz\]Noire) \[mint's Daze // 4K 1.1x\]](https://osu.ppy.sh/beatmaps/2476294)
-  - [Hige Driver - Ukigumo (\[Crz\]xz1z1z) \[DDMythical's Challenge\]](https://osu.ppy.sh/beatmaps/2476290)
+  - Frums - Pictured as Perfect and Plus (\[Crz\]Noire) \[mint's Daze // 4K 1.1x\]
+  - Hige Driver - Ukigumo (\[Crz\]xz1z1z) \[DDMythical's Challenge\]
   - [Hino Isuka - Dreamin' attraction!!(Extended) (Daikyi) \[Fanatical Allure!!\]](https://osu.ppy.sh/beatmapsets/456887#mania/978989)
   - [Imperial Circus Dead Decadence - Gekiai no Yobigoe ga Dekiai no Kyougoe wo Kurau (MintApril) \[RE=SINSE-\[..\]/-c\]](https://osu.ppy.sh/beatmapsets/722071#mania/1525505)
   - [Ke-ji feat. Nanahira - Ange du Blanc Pur (eZmmR) \[Je prie au nom de " Nanahira ".\]](https://osu.ppy.sh/beatmapsets/1038916#mania/2171704)
@@ -143,7 +143,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (189 MB)](https://www.dropbox.com/s/joxo6t1cxgqakrl/MCNC20%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (189 MB)](https://www.dropbox.com/s/joxo6t1cxgqakrl/MCNC20%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [CALL - Du Bist (Sillyp) \[EXEXEX\]](https://osu.ppy.sh/beatmapsets/1179739#mania/2460233)
@@ -166,7 +166,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (156 MB)](https://www.dropbox.com/s/09beh96ojmjnkzb/MCNC20%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (156 MB)](https://www.dropbox.com/s/09beh96ojmjnkzb/MCNC20%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [Dyako/UsadaPekora - usadapekora (\[Crz\]xz1z1z) \[pekopekopeko\]](https://osu.ppy.sh/beatmapsets/1168838#mania/2438605)
@@ -180,14 +180,14 @@ This competition has come to an end and resulted in the following podium:
   - [Street - Sakura Fubuki (Ata Remix) (Todestrieb) \[Bloom\]](https://osu.ppy.sh/beatmapsets/608292#mania/1284684)
   - [Team Grimoire - Caliburne \~Story of the Legendary sword\~ (\[Crz\]Satori) \[LN\]](https://osu.ppy.sh/beatmapsets/1130685#mania/2361834)
   - [The Flashbulb - Stinger (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/970202#mania/2030336)
-  - [The H.K.Mushrooms - Qianwan (\[Crz\]xz1z1z) \[Charoi's Beginner\]](https://osu.ppy.sh/beatmaps/2448996)
+  - The H.K.Mushrooms - Qianwan (\[Crz\]xz1z1z) \[Charoi's Beginner\]
   - [Various Artist - Jungdongjin's 7th 4k LN Pack (Jungdongjin) \[FELT - Pulse\]](https://osu.ppy.sh/beatmapsets/625374#mania/1319488)
 - Tiebreaker
   - **[Gram - Sigmund (tpz Overheat Remix) / Ending (Wadu) \[Wrath of Ragnarok\]](https://osu.ppy.sh/beatmapsets/784443#mania/1646980)**
 
 ### Round of 16
 
-**[Download the mappack here! (113 MB)](https://www.dropbox.com/s/ie7xz0i9zw0d485/MCNC20%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (113 MB)](https://www.dropbox.com/s/ie7xz0i9zw0d485/MCNC20%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [(G)I-DLE - WHAT'S YOUR NAME (Skochan) \[My name\]](https://osu.ppy.sh/beatmapsets/932956#mania/1947823)
@@ -208,7 +208,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (121 MB)](https://www.dropbox.com/s/lqde07vuqftq579/MCNC20%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (121 MB)](https://www.dropbox.com/s/lqde07vuqftq579/MCNC20%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
 
 - FreeMod
   - [Bring Me The Horizon - ouch (Sillyp) \[Tears\]](https://osu.ppy.sh/beatmapsets/1156490#mania/2413394)
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (14 MB)](https://www.dropbox.com/s/xwvugt6bvhy6d20/MCNC20%20%E8%B5%84%E6%A0%BC%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (14 MB)](https://www.dropbox.com/s/xwvugt6bvhy6d20/MCNC20%20%E8%B5%84%E6%A0%BC%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
 
 - NoMod
   - [DASU - 8 6 (\[Crz\]xz1z1z) \[SV\]](https://osu.ppy.sh/beatmapsets/1093579#mania/2285630)

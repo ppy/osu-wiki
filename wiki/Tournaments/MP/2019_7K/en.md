@@ -47,10 +47,8 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/970857)
-- [Livestream](https://www.twitch.tv/polishosumania)
-- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
-
----
+- [Livestream](https://www.twitch.tv/polishosumania "Twitch")
+- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv "Discord")
 
 ## Participants
 
@@ -75,8 +73,6 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 | **G** | ![][flag_PL] - gero - | ![][flag_PL] PoweR\_LendzeR | ![][flag_PL] capsafangirl |
 | **H** | ![][flag_PL] Jakub Janda | ![][flag_PL] Justin14p | ![][flag_PL] Felix27 |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -86,8 +82,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [**- gero -**](https://osu.ppy.sh/users/5068537) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
-
----
 
 ## Mappools
 
@@ -206,8 +200,6 @@ This competition has come to an end and resulted in the following podium:
   - [tieff - Sunflower (SitekX) \[Stage 2: Pride\]](https://osu.ppy.sh/beatmapsets/1060147#mania/2219795)
   - [OtoChi2 - Big Fish (Benzopirene) \[Stage 3: Balance\]](https://osu.ppy.sh/beatmapsets/1060141#mania/2219785)
   - [Re:gats& - No Prayer (Benzopirene) \[Stage 4: Aptitude\]](https://osu.ppy.sh/beatmapsets/1060140#mania/2219784)
-
----
 
 ## Match results
 
@@ -364,9 +356,7 @@ Sunday, 17 November 2019:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-4z3wcwDb6UEXY-s7Dl90IF6VL1XYJrlZtA8kFgCh3lexRIOGIRrvjVpSMFZViy7tC9EewNQSUD3-/pubhtml).
-
----
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-4z3wcwDb6UEXY-s7Dl90IF6VL1XYJrlZtA8kFgCh3lexRIOGIRrvjVpSMFZViy7tC9EewNQSUD3-/pubhtml "Google Sheets").
 
 ## Ruleset
 
@@ -457,7 +447,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Players are to choose one (1) protected map within the map pool which they want to keep not bannable (from their opponent). They must inform the match referee in a private message of which map they choose to protect. If the player does not inform the match referee of their desired map choice in 60 seconds, the player will lose an opportunity to choose a protected map.
 - Players are to ban one (1) map within the map pool which they are playing for the given round. They must inform the match referee in a private message of which map they choose to ban. If the player does not inform the match referee of their desired ban choice in about 60 seconds, the player will lose an opportunity to choose a ban.
 - It is mandatory for the match referee to inform players in the lobby which maps are protected and banned.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match. The winner of the !roll decides if they want to pick first or second. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match. The winner of the `!roll` decides if they want to pick first or second. In the event that both players get the same roll, they will have to continue doing the `!roll` command until the tie is broken.
 - After the protected maps, bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
      - The winning player moves onto the next match.
@@ -474,5 +464,5 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"

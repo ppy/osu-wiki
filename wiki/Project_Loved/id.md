@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
+---
+
 # Project Loved
 
 **Project Loved** adalah platform/wadah pemungutan suara yang mempromosikan beatmap ke kategori [Loved](/wiki/Beatmap/Category#loved). Program ini dijalankan oleh [Project Loved Team](/wiki/People/Project_Loved_Team).
@@ -21,7 +26,7 @@ Mapset yang dinominasikan kemudian dikirimkan ke [forum Project Loved](https://o
 
 ### Kelayakan
 
-Ada beberapa kriteria yang sangat minimal yang harus dipenuhi untuk beatmap yang akan dinominasikan supaya bisa mendapat kategori Loved. Kapten menganggap beatmapset memenuhi syarat untuk kategori Loved jika:
+Ada beberapa kriteria yang sangat minimal yang harus dipenuhi untuk beatmap yang akan dinominasikan supaya bisa mendapat kategori Loved. Kapten menganggap beatmap memenuhi syarat untuk kategori Loved jika:
 
 - Tidak dalam kategori [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked) atau [Approved](/wiki/Beatmap/Category#approved)
 - Pembuat beatmap tidak menolak beatmap yang dinominasikan untuk diberi status Loved

@@ -41,7 +41,7 @@ Deze regels zijn de basis waarmee we ervoor zorgen dat de osu! community een leu
 
 *Opmerking: Deze regels zijn van toepassing op **alle ingezonden maps**, niet alleen ranked maps. Voor meer gedetailleerde regels bij het maken van een beatmap, bekijk de [Rang Criteria](/wiki/Ranking_Criteria).*
 
-Deze regels zijn strikt van toepassing op beatmaps ingezonden via het in-game [Beatmap Inzend Systeem](/wiki/Glossary#bss). Deze threads/discussies worden gemaakt via het osu! programma wanneer een beatmap wordt ingezonden via de [editor](/wiki/Beatmap_Editor).
+Deze regels zijn strikt van toepassing op beatmaps ingezonden via het in-game [Beatmap Inzend Systeem](/wiki/Submission). Deze threads/discussies worden gemaakt via het osu! programma wanneer een beatmap wordt ingezonden via de [editor](/wiki/Beatmap_Editor).
 
 1. **Zorg ervoor dat je toestemming hebt om alle inhoud betrokken bij je beatmap te gebruiken.** Dit is inclusief liedjes, video's, geluiden, beelden, en alle andere inhoud dat je niet zelf hebt gemaakt. Als je niet zeker weet waar je inhoud kan vinden dat gratis te gebruiken is: we hebben een groeiende bibliotheek met liedjes beschikbaar op de [Uitgelichte Artiesten](https://osu.ppy.sh/beatmaps/artists/) lijst, allemaal met 100% licenties voor gebruik in osu!.
 2. **Blijf bij het onderwerp in beatmap discussies.** Deze threads/discussies gaan over de beatmap in kwestie, en niets anders. Als je een probleem hebt met iets dat niet direct te maken heeft met de beatmap, zet het in het geschikte forum.

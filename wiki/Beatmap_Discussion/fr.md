@@ -1,228 +1,165 @@
 ---
-no_native_review: true
-outdated: true
-outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
+tags:
+  - beatmap discussions
+  - modding V2
+  - MV2
+  - discussion de la beatmap
 ---
 
-# Beatmap Discussion
+<!-- TODO: the interface has changed quite a bit. this whole article should be rechecked to make sure it all makes sense still -->
 
-Beatmap Discussion (introduit comme *Modding v2*) est maintenant en ligne !
+# Discussion de la beatmap
 
-## Soumission d'une beatmap pour Beatmap Discussion
+La **discussion de la beatmap** (aussi connu sous le nom de *Modding v2*) est un système pour gérer et simplifier le processus de [modding](/wiki/Modding). Il vise à fournir une interface claire et compréhensible, où l'amélioration d'une beatmap est au centre des préoccupations. Lorsqu'une beatmap est [soumise](/wiki/Submission), une page de discussion est automatiquement créée à côté de la page d'information de la beatmap. Lorsque la beatmap est mis à jour, la page de discussion est également mise à jour. La page de discussion peut être atteinte en cliquant sur le bouton `Discussion` de la page d'information. La page de discussion de la beatmap se compose de quelques éléments (de haut en bas) :
 
-### Nouvelles beatmaps
+- La sélection du mode
+- L'en-tête de la beatmap
+- Le menu de difficulté
+- Les options de tri
+- La visualisation de la timeline
+- Le statut de la beatmap
+- les onglets de modding
+- Le champ de soumission
+- Les discussions
 
-Les nouveaux beatmaps soumis via le Beatmap Submission System utiliseront Beatmap Discussion.
+Vous pouvez suivre nos images à partir de [cette beatmap](https://osu.ppy.sh/beatmapsets/924551/discussion) pour vous familiariser avec la discussion de la beatmap ou essayer d'ouvrir une page de discussion vous-même !
 
-### Anciennes beatmaps
+## Démarrage rapide
 
-Un membre du personnel doit déplacer la beatmap manuellement pour utiliser la Beatmap Discussion. [Ephemeral](https://osu.ppy.sh/users/102335) est actuellement en charge du transfert des beatmapsets. Tous les beatmaps existants dans le WIP et les statuts en attente qui n'ont pas de messages de mod dans le forum ont été convertis pour utiliser Beatmap Discussion.
+Il est important de garder quelques éléments à l'esprit pour utiliser efficacement les pages de discussions des beatmaps :
 
-### Retour à l'ancien système de modding
+- Choisissez le mode et la difficulté que vous souhaitez modérer.
+- Sélectionnez la section appropriée à laquelle vous soumettez votre mod.
+- **Ne postez qu'un seul problème à la fois.** Ne soumettez pas plusieurs problèmes dans un seul message.
+- Vérifiez si le problème a déjà été traité lorsque l'avertissement de message similaire s'affiche.
+- Si vous aimez la beatmap, pensez à le mettre en avant pour le rapprocher de la nomination.
 
-Il n'est plus possible de revenir à l'ancien système de modding. Les seuls beatmaps qui peuvent utiliser l'ancien système sont ceux avec des messages de mod. Si les beatmaps utilisent déjà le Beatmap Discussion, le fil de discussion du forum n'aura pas de bouton de réponse, à la place, il sera remplacé par un bouton qui redirige vers le panneau Beatmap Discussion.
+## Sélection du mode
 
-## Accès à la page Beatmap Discussion
+![](img/mode-selection-FR.png "Sélection du mode")
 
-### Grâce à new.ppy.sh
+La sélection du mode change le [mode de jeu](/wiki/Game_mode) que vous modifiez. Il n'est possible de sélectionner un mode de jeu que si la beatmap possède une difficulté de ce mode. Cette option n'est utilisée qu'avec les beatmap contenant plusieurs modes de jeu ; sinon, le mode sélectionné par défaut sera utilisé.
 
-Cliquez sur le bouton `Discussion` dans la page d'information du beatmap.
+## En-tête de la beatmap
 
-![](img/info.jpg "Page d'information Beatmap")
+*Pour plus d'informations sur le paramétrage des métadonnées, voir : [Song Setup § Song and Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
-### Grâce à osu.ppy.sh
+![](img/beatmap-header.png "En-tête de la beatmap")
 
-Cliquer sur `Modding/Discussion` sur la page de la beatmap vous amènera à la page, si elle est actuellement dans le système de discussion du Beatmap.
+L'en-tête de la beatmap affiche le titre et l'artiste fournis dans l'[éditeur du beatmap](/wiki/Beatmap_Editor). En cliquant sur l'en-tête de la beatmap, vous retournerez à la page d'information.
 
-## page Beatmap Discussion
+## Menu de difficulté
 
-![](img/beatmap-discussion.jpg "La partie supérieure de la page Beatmap Discussion")
+![](img/difficulty-menu.png "Le menu de difficulté")
 
-### Sélection du mode
+Vous pouvez sélectionner différentes [difficultés](/wiki/Beatmap/Difficulty) via le menu déroulant. Cela affichera toutes les difficultés actuellement disponibles, ainsi que les difficultés plus anciennes, supprimées, qui ont fait l'objet de suggestions/problèmes. Le nombre qui apparaît à côté du nom d'une difficulté est le nombre de messages non résolus sur cette difficulté spécifique. Il est important de vérifier ce menu avant de soumettre des mods.
 
-![](img/modes.jpg "Sélection du mode")
+## Options de tri
 
-Change le mode de jeu entre osu!, osu!taiko, osu!catch et osu!mania. Vous ne pouvez sélectionner chaque mode de jeu que si le beatmapset a une difficulté avec ledit mode de jeu.
+![](img/sorting-options-FR.png "Pour vos besoins de tri")
 
-## Page Beatmap / Sélection de la difficulté
+Les options de tri modifient la façon dont les discussions sont affichées. Lorsqu'une option est choisie, elle modifie à la fois la timeline de mod et la section de mod pour n'inclure que le type de message sélectionné. Ceci est particulièrement utile pour voir les messages en attente sur une page de discussion. Les différentes options sont les suivantes :
 
-![](img/difficulty-menu.jpg "Menu Difficulté")
+- `Moi` montre vos propres messages
+- `Notes` montre toutes les notes prises par le mappeur ou des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)
+- `Résolu` montre les postes résolus
+- `En Attente` montre les messages en attente
+- `Hommages` montre des messages d'hommages et de hype
+- `Tout` montre tous les messages
 
-En cliquant sur l'artiste/titre de la beatmap, vous retournerez à la page d'information de la beatmap. Vous pouvez sélectionner une difficulté à moduler en utilisant le menu déroulant. Le nombre qui apparaît à côté du nom de la difficulté est le nombre de discussions en attente qui doivent être résolues. **Assurez-vous que vous êtes sur la bonne difficulté avant de soumettre des mods à la Beatmap !**
+## Visualisation de la timeline
 
-### Statut de modification
+![](img/visual-timeline.jpg "Posts de modding répartis sur la timeline")
 
-![](img/modding-status.jpg "Pour vos besoins de tri")
+La visualisation de la timeline affiche tous les mods réalisés pour une difficulté qui utilisent un horodatage. En cliquant sur l'une d'entre elles, vous ferez défiler la liste jusqu'au mod posté à cette date. Notez que toutes les options de filtrage modifieront ce qui est affiché ici. La visualisation de la timeline est un outil utile pour voir d'un coup d'œil à quel point une beatmap a été modifiée. Une timeline serrée signifie qu'une beatmap a déjà reçu beaucoup d'attention. Les paramètres de la difficulté sélectionnée sont également affichés en haut à droite de la visualisation de la timeline. De gauche à droite, ils décrivent la `Longueur`, le `BPM`, le `Circle Count` et le `Slider Count` d'une difficulté.
 
-Tous les mods ci-dessous sont pour la difficulté choisie. En cliquant sur l'un d'entre eux, vous pourrez voir les mods spécifiques dans la timeline et dans la section Discussion.
+## Statut de la beatmap
 
-- Le mien : Les mods que vous avez contribué.
-- Résolu : Mods auxquels le créateur a répondu et marqués comme résolus.
-- En attente : Mods qui n'ont pas reçu de réponse ou qui ont été marqués comme résolus.
-- Félicitations : Mods qui ont été soumis en tant qu'éloge
-- Tous : Toutes les suggestions, problèmes et éloges postés sur la difficulté du beatmap et la section générale du beatmapset.
+![](img/beatmap-status-FR.png "Contient des informations importantes !")
 
-### Modding timeline
+Le statut de la beatmap indique tout ce qui concerne la place d'un beatmap dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure). Cela inclut :
 
-![](img/timeline.jpg "Messages de mod, horodatés")
+- Le train de la hype
+- Les informations générale
+- Les boutons `Suivre` et `Ne plus suivre`
+- Le bouton `Page de la beatmap`
 
-Ceci affiche tous les mods faits pour cette difficulté qui a un timestamp. En cliquant sur ces derniers, vous pouvez faire défiler les mods publiés à cette date.
+### Train de la hype
 
-## Statut de Beatmap
+Le train de la hype permet de savoir combien de [hypes](/wiki/Beatmap/Hype) un mapset a reçu. Une fois que 5 hypes ont été atteints, la beatmap peut être nommé par les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Les hypes ne peuvent être données qu'en allant dans l'onglet `Général (Toutes les difficultés)`, car cela ne fonctionnera pas à travers les onglets `Général` ou `Chronologie`. En cliquant sur le bouton "Hype", vous serez automatiquement dirigé vers le bon onglet.
 
-![](img/beatmap-status.jpg "Contient des informations importantes !")
+### Statut de la nomination
 
-### Créateur de Beatmap
+Le statut de la nomination permet de suivre les nominations d'une beatmap. Lorsqu'une beatmap a reçu deux nominations, elle est qualifié.
 
-Ceci contient le créateur qui a soumis le beatmapset, montre la date de soumission, et la date de la dernière mise à jour du beatmap.
+### Informations générales
 
-### Montrer/Démontrer
+Les informations générales indiquent le créateur de la beatmap, la date de soumission et la date de la dernière mise à jour. Les [changements de statut](/wiki/Beatmap), tels que le classement, l'appréciation ou le classement au cimetière d'une beatmap, sont également considérés comme des mises à jour et seront affichés ici.
 
-Cela remplace l'abonnement à beatmap. Vous pouvez suivre l'état des beatmaps et les numéros en cours. Cette page est accessible via la page d'accueil du site Web en cliquant sur [`modding watchlist` link](https://osu.ppy.sh/beatmapsets/watches) situé en haut de la page.
+### Suivre/Ne plus suivre
 
-### Hype Train
+Les boutons `Suivre` et `Ne plus suivre` permettent de suivre/ne plus suivre les développements d'une beatmap. Si une beatmap est suivi, les nouveaux messages et les réponses sur la page de discussion de cette beatmap créeront des notifications sur osu!web. Les abonnements peuvent être gérés par le biais de la [liste de suivi](https://osu.ppy.sh/beatmapsets/watches), qui se trouve dans le menu de la page d'accueil.
 
-*Note : Vous devez maintenant cliquer sur `Hype` pour ajouter du hype ; donner des éloges n'ajoutera plus de hype automatiquement.*
+### Page de la beatmap
 
-Le train Hype est similaire au précédent système de priorité des étoiles.
+Le bouton `Page de la beatmap` permet de naviguer vers la page d'information d'une beatmap. Cela peut également être fait en cliquant sur l'[en-tête de la beatmap](#en-tête-de-la-beatmap).
 
-> L'ajout de louanges augmentera le battage de cette carte, la rendant plus visible pour la nomination et le classement !
+## Onglets de modding
 
-<!-- *Note : Les joueurs doivent jouer à travers une difficulté dans le beatmapset afin d'ajouter Hype à un beatmap.* -->
+![](img/modding-tabs-FR.png "Onglets de modding")
 
-Il faut faire l'éloge dans la section générale `(Toutes les difficultés)` pour ajouter Hype. Cela ne fonctionnera pas dans les onglets `Général` ou `Ligne de temps`.
+Le mod se fait par le biais de trois onglets, qui séparent les messages de différents types et les divisent en formats lisibles. En outre, un quatrième onglet enregistre toutes les modifications. Le nombre à côté de chaque onglet décrit le nombre de messages qu'il contient.
 
-### Nomination
+`Général (toutes les difficultés)` affiche les messages qui s'appliquent à toutes les difficultés. Les messages courants de cet onglet comprennent les métadonnées, les notes et les discussions sur l'ensemble de la beatmap.
 
-Une fois qu'un battage s'accumule au rythme de 5 battages, le battage est admissible à la nomination. Cela fonctionne comme avec le système de modding précédent. Le beatmap doit avoir 2 nominations par le [Beatmap Nominators](/wiki/Beatmap_Nominators) pour s'installer dans le status [qualifiée](/wiki/qualified).
+`Général (Cette difficulté)` affiche les messages qui ne s'appliquent qu'à la difficulté actuellement sélectionnée. Les messages les plus courants de cet onglet concernent les paramètres de la beatmap, les problèmes récurrents et les discussions générales sur la difficulté sélectionnée.
 
-## Champ de soumission des modifications
+`Chronologie` affiche les messages à des moments précis d'une difficulté en fonction du premier horodatage placé. Chaque message de cet onglet doit comporter un horodatage pour être affiché. Tout horodatage ultérieur n'aura aucune influence sur l'ordre des messages.
 
-![](img/mod-submission-field.jpg "L'endroit où la magie de la modification se produit.")
+`Historique` enregistre toutes les modifications apportées à une page de discussion dans l'ordre chronologique. Les changements sont codés par couleur : le vert correspond aux messages résolus et aux changements d'état, le rouge aux nouveaux problèmes après nomination, et le bleu à tout le reste. En cliquant sur un numéro de référence, vous accéderez au message en question. Cet onglet n'est pas utilisé pour le mod, mais il est utile pour les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) et les autres membres du staff pour vérifier les problèmes.
 
-### Soumission de la section Mod
+## Champ de soumission
 
-C'est à cette section de la beatmap que vous soumettrez vos préoccupations.
+![](img/submission-field-FR.png "Où les mods sont écrits.")
 
-- `Général (toutes les difficultés)` : Problèmes généraux avec la beatmap tels que les métadonnées et la discussion générale sur la beatmap dans son ensemble. Vous pouvez aussi ajouter du Hype à un beatmap ici en postant un commentaire avec Louange.
-- `Général` : Problèmes généraux avec la difficulté tels que les réglages de la beatmap et discussion générale sur la difficulté spécifique.
-- `Timeline` : Problèmes à certains points de la beatmap. Doit contenir un timestamp. La majorité des mods se retrouveront dans cette section.
-- `Historique` : Indique quand les problèmes ont été marqués comme résolus. Vous pouvez cliquer sur n'importe quel problème pour accéder au message.
+Le champ de soumission est l'endroit où les [mods](/wiki/Modding) sont écrits. Une fois écrit, le mod doit être soumis à la page de discussion. Cela peut être fait en appuyant sur l'un des trois boutons de type ; `Compliments`, `Suggestion` ou `Problème`.
 
-![](img/history.jpg)
+`Compliments` est utilisé pour les éloges et les encouragements. `Suggestion` est utilisé pour les messages qui ne sont pas directement en conflit avec les règles. `Problème` est utilisé pour les messages qui sont en conflit direct avec les [critères de classement](/wiki/Ranking_Criteria), ou qui sont considérés comme mauvais. Une fois le bouton pressé, le mod sera soumis à la page de discussion.
 
-### Champ de modification
+Si vous postez dans l'onglet `Chronologie`, vous devez inclure un horodatage dans votre message. Si votre horodatage est proche de celui d'un autre mod, **vous devrez confirmer qu'il ne concerne pas le problème que vous soumettez actuellement.** Il peut être utile d'épingler le champ de modding pendant que vous vérifiez d'autres problèmes. L'activation de l'épingle permettra au champ de soumission de défiler avec vous.
 
-![](img/modding-field.jpg "Où la magie du modding se produit")
+## Discussions
 
-C'est ici que vous tapez votre mod. Si vous utilisez la section Timeline, vous devez inclure un timestamp dans le message. Le premier timestamp placé sera celui qui est affiché dans la section Discussion. Les sections Générales ne nécessitent pas d'horodatage, mais peuvent en inclure.
+![](img/discussions-FR.png "Là où la discussion a lieu !")
 
-### Avertissement de poste similaire
+Les discussions sont l'endroit où les messages du [champ de soumission](#champ-de-soumission) sont placés une fois soumis. Les utilisateurs qui visitent une page de discussion peuvent voir les messages rédigés par tous les autres utilisateurs, et pourront participer à la discussion sur les messages. Pour ce faire, il suffit de cliquer sur les boutons "Répondre" ou "Répliquer" sous un message et d'écrire une réponse. Après avoir terminé une réponse, appuyez sur la touche "Entrée" ou cliquez sur "Répondre" pour la soumettre à la discussion.
 
-![](img/similar-post-warning.jpg)
+Le créateur de la beatmap et l'auteur d'un modpost, ont la possibilité de fermer les problèmes avec le bouton `Marquer comme résolu`. Cela indique aux autres utilisateurs que le problème a été traité et le supprime de la liste des questions dans [l'option de tri](#options-de-tri) `En Attente`. Les modposts peuvent être réouverts par n'importe quel utilisateur en ajoutant des réponses supplémentaires à un post et en cliquant sur `Répondre et réouvrir`. Ceci est utilisé lorsque les moddeurs tombent sur des problèmes fermés qui n'ont pas été entièrement résolus, ou lorsqu'un sujet nécessite une discussion plus approfondie.
 
-Si votre horodatage soumis dans la section Timeline est proche d'un autre mod déjà publié, vous devrez confirmer que le mod ne traite pas le problème que vous soumettez actuellement. **Veuillez vérifier le champ de discussion avant de cocher la case !**
+### Tri des discussions
 
-### Type de mod
+Les discussions peuvent être triées à l'aide des boutons situés sous le titre `Discussions`. Initialement, les messages de l'onglet `Chronologie` seront triés chronologiquement sur la base du premier horodatage fourni. Les messages de l'onglet `Général (Toutes les difficultés)` et `Général (Cette difficulté)` seront triés selon la dernière mise à jour. Notez que toutes les [options de tri](#options-de-tri) sélectionnées modifieront également ce qui est affiché ici. Les autres boutons en haut du champ de discussion changent la façon dont les discussions sont affichées, incluant `Tout réduire` et `Tout développer` qui afficheront/masqueront les messages respectivement.
 
-![](img/mod-type.jpg)
+### Vote positifs/négatifs
 
-C'est ici que vous soumettez votre mod. Vous pouvez choisir entre `Louange`, `Suggestion`, ou `Problème`. Chacun d'eux est assez explicite. **En cliquant sur ce lien, vous soumettez votre mod. Si vous avez fait une erreur ou si vous avez besoin de modifier votre mod, vous trouverez le message dans la section Discussion.** Vous pouvez ajouter du Hype au beatmap en soumettant des éloges dans la section `General (All Difficulties)`.
+Si un modpost a été utile, des [Kudosu!](/wiki/Modding/Kudosu) peuvent être donnés. Cela peut être fait par n'importe qui, à l'exception du créateur du message, en lui donnant un pouce en l'air. Cette fonction est utile pour les moddeurs car les Kudosu! sont nécessaire pour entrer chez les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Si cette fonction est utilisée de manière abusive, les [BN](/wiki/People/The_Team/Beatmap_Nominators), [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) et [GMT](/wiki/People/The_Team/Global_Moderation_Team) peuvent donner un avis négatif pour refuser tout Kudosu! donné. Si l'abus est fait de manière malveillante, une pénalité peut également être donnée aux abuseurs.
 
-### Épingle
+### Chronologie des discussions
 
-L'activation de la broche permettra au [champ de modification](#modding-field) pour défiler avec vous, une fois que vous avez dépassé le champ de modification.
+La timeline à gauche d'une discussion montre l'horodatage du message. Ceci est seulement disponible dans la section `Chronologie`. Sinon, la timeline de la discussion sera laissée vide.
 
-## Mod Champ de discussion
+### Tags
 
-![](img/discussions.jpg)
+Les tags affichent les [rôles importants](/wiki/People/The_Team) sous le nom de l'utilisateur. Seuls les rôles pertinents pour la discussion sur la beatmap sont affichés. Cela inclut les membres `MAPPER`, `BN`, `NAT`, `GMT`, et `DEV` qui ont plus d'options qu'un utilisateur normal regardant une page de discussion.
 
-### Fonctions
+### Outils de mise en forme
 
-- `Trier par` : Trier les messages par `timeline` (par défaut ; ordonnée sur le timestamp donné par le message du mod) ou `last updated` (ordonnée sur la date de publication du message)
-- `Tout effacer` et `Tout développer` et la flèche vers le haut : Celles-ci afficheront/masqueront les messages.
-- Thumbs Up/Down : J'aime/je n'aime pas le mod.
-  - Tout le monde, sauf le modiste, peut lever son pouce.
-  - **Le fait de donner son accord va maintenant donner au mod submitter [Kudosu!](/wiki/Kudosu!) sur des suggestions ou des problèmes.**
-  - Seulement les [BN](/wiki/BN), [NAT](/wiki/People/Nomination_Assessment_Team), et [GMT](/wiki/GMT) peuvent donner un coup de pouce (pour nier tout Kudosu !).
-- Chronologie : Affiche l'horodatage des adresses de l'émission. Disponible uniquement dans la section Timeline.
-- Icône CREATOR : Affiche les réponses/soumissions de l'utilisateur qui a créé le beatmapset.
-- permalien, éditer, supprimer : Le permalien saisit un lien direct vers le message. Edit permet à l'auteur d'éditer sa soumission. Delete permet à l'auteur de supprimer sa soumission.
-- `Répondez`/`Répondez` : Répondre à la soumission. En appuyant sur `Enter` ou en cliquant ensuite sur `Reply`, vous soumettrez votre réponse.
-  - Jusqu'à ce que vous leviez le pouce, la réponse sera `Réponse`. Après avoir levé le pouce, vous verrez `Répondre`.
-- `Marquer comme résolu` : Le créateur ou le poster du mod peut sélectionner cette option lorsque le problème a été résolu et qu'il a été accepté ou refusé.
-- `Rouvrir une discussion` : Si la soumission a besoin d'une discussion plus approfondie, le créateur ou le posteur du mod peut rouvrir la soumission en répondant et en décochant Resolved.
+Les propriétaires d'un message sur une page de discussion peuvent utiliser des outils de mise en forme pour rendre l'utilisation plus facile. Cela inclut les permalinks, les modifications et les suppressions.
 
-## Hype, Nomination, et Kudosu !
+`Permalink` saisit un lien direct vers un message. Il s'agit d'un numéro de référence (par exemple, `#1234567`) pour les autres utilisateurs, qui peut être cliqué pour accéder rapidement au message référencé. C'est particulièrement utile pour référencer les problèmes entre les modposts.
 
-### Hype
+`Éditer` permet à un utilisateur de modifier sa soumission en cas d'erreur. Cette fonction n'est pas destinée à être utilisée pour répondre à des messages. Créez plutôt une nouvelle réponse.
 
-Le battage médiatique est utilisé pour faire avancer les cartes à suivre jusqu'à la nomination, tout comme la priorité aux étoiles était utilisée auparavant. Une fois qu'un beatmapset reçoit 5 Hype, il devient éligible pour la nomination. Veuillez noter ce qui suit :
+`Supprimer` permet à l'auteur de supprimer son message en cas d'erreur grave. Cette fonction est désactivée pour les messages qui font l'objet d'une discussion afin d'éviter les suppressions causées par des discussions animées.
 
-- Chaque utilisateur a une réserve limitée de hype (5 par semaine pour commencer).
-  - Vous retrouverez un hype 7 jours après son utilisation.
-
-<!-- - Hype ne peut être utilisé qu'après avoir joué une difficulté à partir d'un beatmapset. -->
-
-### Nomination
-
-La nomination est similaire au système de modding précédent. Un beatmap doit recevoir 2 nominations de deux [Beatmap Nominators](/wiki/Beatmap_Nominators) avant d'être automatiquement déplacé vers la phase de qualification. Les Beatmaps doivent avoir résolu toutes les suggestions et problèmes avant de pouvoir être classés. BN/NAT peut réinitialiser les nominations en affichant un problème dans le champ de discussion.
-
-### Kudosu!
-
-![](img/thumbs.jpg "Bravo pour Kudosu !")
-
-Donner un coup de pouce à une suggestion ou un problème dans le champ de discussion donnera au modérateur Kudosu ! La quantité de pouces reçus détermine la valeur de Kudosu ! que le moddeur reçoit. N'importe quel utilisateur en dehors du posteur peut donner son accord pour n'importe quel message.
-
-*Note : Les utilisateurs normaux sont limités à 60 votes par heure, alors que les membres de BN et de NAT n'ont pas cette limite.*
-
-Actuellement, ce sont les seuils pour gagner un certain montant de Kudosu !
-
-- 1 pouce levé = 1 Kudosu !
-- 2 pouces levés = 2 Kudosu !
-- 5 pouces levés = 3 Kudosu !
-
-Les membres de BN, NAT et GMT peuvent refuser Kudosu ! en donnant un pouce en bas.
-
-## Rappels
-
-- Choisissez le bon mode et la bonne difficulté que vous souhaitez moduler !
-- Sélectionnez la section appropriée dans laquelle vous soumettez votre mod.
-- **Ne postez qu'un seul problème à la fois**, ne soumettez pas plusieurs problèmes en un seul message !
-- La section Timeline requiert au moins un horodatage avant de pouvoir soumettre votre message.
-- Vérifiez que le problème n'a pas déjà été résolu lorsque l'avertissement du message similaire apparaît.
-- Aimez-vous la carte des temps ? Donnez votre avis pour aider la carte du rythme à se rapprocher de la nomination !
-- Assurez-vous de voter sur les suggestions et/ou problèmes, car ils récompensent maintenant les moddeurs avec Kudosu !
-
-## Conseils
-
-- Vous pouvez filtrer les mods en utilisant les boutons sur l'état des mods de Beatmap Information. Vous pouvez par exemple, ne regarder que les messages en attente.
-- Vous pouvez éditer ou supprimer vos messages si vous avez soumis un message et trouvé une erreur.
-- En tant que créateur, vous pouvez rouvrir tout problème précédemment résolu en répondant au message et en décochant Resolved.
-- Vous pouvez modifier la description de votre Beatmap en utilisant la page du beatmapset. Cliquez sur l'icône d'édition en haut à droite du champ de description.
-
-## Guide étape par étape pour poster un mod
-
-1. Sélectionnez le mode de jeu approprié en haut de la page de la carte des temps que vous souhaitez modifier (osu!, osu!taiko, osu!catch, osu!mania)
-2. Sélectionnez la difficulté que vous souhaitez modifier dans le menu déroulant. (Facile, Normal, Difficile, Insane, etc.)
-3. Sélectionnez la section dans laquelle vous souhaitez poster votre mod (`General (all difficulties)`, `General`, ou `Timeline`))
-4. Tapez votre mod dans le champ de discussion. Utilisez un horodatage si vous utilisez la section Timeline. **Un problème par message !**
-5. Sélectionnez le type de mod que vous faites (`Praise`, `Suggestion`, ou `Problem`))
-
-Votre message sera soumis ! Vous pouvez recommencer à l'étape 3 si vous souhaitez continuer à modifier la même difficulté. N'oubliez pas de faire du Hype sur le beatmap si vous voulez aider à le faire avancer pour la nomination.
-
-## FAQ
-
-### Est-ce que je pourrai moduler avec l'ancien système après la sortie de Beatmap Discussion ?
-
-Vous devriez moduler avec le système que le créateur a choisi. S'ils se concentrent sur la Beatmap Discussion, mod avec Beatmap Discussion. Sinon, vos mods risquent de passer inaperçus.
-
-### Je n'aime pas les discussions Beatmap ! Comment puis-je revenir à l'ancien système ?
-
-Beatmap Discussion est maintenant en ligne. Il n'y a pas moyen de revenir à l'ancien système ; cependant, les beatmaps de Discussion pré-Beatmap avec les mods peuvent toujours utiliser l'ancien système de modding.
-
-## Voir aussi
-
-- Fil de discussion original du forum : [Modding Discussion Guide (MV2)](https://osu.ppy.sh/community/forums/topics/650961) par [Lanturn](https://osu.ppy.sh/users/1446665)
-- vidéo de [pishifat](https://osu.ppy.sh/users/3178418) sur la discussion Beatmap : [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
-- peppy's Beatmap Fil de discussion du forum (pour les commentaires) : [Beatmap Discussions (Modding v2) General Help](https://osu.ppy.sh/community/forums/topics/662559)
+<!--TODO: insert lots of links-->

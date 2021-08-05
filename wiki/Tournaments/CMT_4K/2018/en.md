@@ -1,7 +1,7 @@
 ---
 tags:
-- CMT 4K 2018
-- CMT4K 2018
+  - CMT 4K 2018
+  - CMT4K 2018
 ---
 
 # Chinese osu!mania 4K Tournament 2018
@@ -50,25 +50,21 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/800125)
-- [QQ group](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
-- [Challonge](https://challonge.com/CMT2018)
+- [QQ group](https://jq.qq.com/?_wv=1027&k=5IH0Tkr "Tencent QQ")
+- [Challonge](https://challonge.com/CMT2018 "Challonge")
 - Livestream
-  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [kj415j45](https://live.bilibili.com/237250) (Backup).   
-  - Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
-- [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
-- **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
-
----
+  - bilibili: [aiyulu](https://live.bilibili.com/10183 "Bilibili") (Primary), [Flow Light](https://live.bilibili.com/73668 "Bilibili") (Secondary), [kj415j45](https://live.bilibili.com/237250 "Bilibili") (Backup).   
+  - Twitch: [aiyulu](https://www.twitch.tv/aiyulu "Twitch").
+- [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform "Google Forms")
+- **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ")**
 
 ![CMT4K2018 podium](img/podium.png)
-
----
 
 ## Mappools
 
 ### Finals
 
-**Download the mappack here! (105 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw) - [Google Drive](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi)**
+**Download the mappack here! (105 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi "Google Drive")**
 
 - FreeMod
   - [Sota Fujimori - Move That Body -Extended Mix- \[Dance\]](https://osu.ppy.sh/beatmapsets/765772#mania/1609983)
@@ -88,10 +84,9 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 - Tiebreaker
   - **[Camellia - Berserkerz' Warfare 345 [The Final Battle (379bpm)]](https://osu.ppy.sh/beatmapsets/873908#mania/1826647)**
 
-
 ### Semifinals
 
-**Download the mappack here! (104 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w) - [Google Drive](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK)**
+**Download the mappack here! (104 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK "Google Drive")**
 
 - FreeMod
   - [PROTODOME - Greatest Hat \[chalLeNge\]](https://osu.ppy.sh/beatmapsets/840500#mania/1759313)
@@ -113,7 +108,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 ### Quarterfinals
 
-**Download the mappack here! (72 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Ddy1Is0VhxJx3FCCfG--3Q) - [Google Drive](https://drive.google.com/file/d/1cq1ytwNhXtA6nhbX7-9E_30iS88pVwPO)**
+**Download the mappack here! (72 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Ddy1Is0VhxJx3FCCfG--3Q "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1cq1ytwNhXtA6nhbX7-9E_30iS88pVwPO "Google Drive")**
 
 - FreeMod
   - [M2U - Mare Maris \[For The Brave\]](https://osu.ppy.sh/beatmapsets/786297#mania/1650609)
@@ -133,7 +128,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 ### Round of 16
 
-**Download the mappack here! (81 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1trdHtV6nNIuifTwVPCQYgg) - [Google Drive](https://drive.google.com/file/d/1wJEAdCAwj72W7_fuKiAD3qxwpbsly_WI)**
+**Download the mappack here! (81 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1trdHtV6nNIuifTwVPCQYgg "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1wJEAdCAwj72W7_fuKiAD3qxwpbsly_WI "Google Drive")**
 
 - FreeMod
   - [Swimy - Acchi Muite \[This Way! NSV\]](https://osu.ppy.sh/beatmapsets/744373#mania/1687703)
@@ -153,7 +148,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 ### Group Stage
 
-**Download the mappack here! (55 MB) - [Baidu Netdisk](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google Drive](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
+**Download the mappack here! (55 MB) - [Baidu Netdisk](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS "Google Drive")**
 
 - FreeMod
   - [Between August and December - Sayonara Cruel World (Reworked) \[LN\]](https://osu.ppy.sh/beatmapsets/747111#mania/1574382)
@@ -168,7 +163,6 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
   - [In Love With A Ghost - i'm too busy trying to fly away \[clutz\]](https://osu.ppy.sh/beatmapsets/858994#mania/1795100)
 - Tiebreaker
   - **[VILA - Another Halcyon \[Another Dream\]](https://osu.ppy.sh/beatmapsets/713501#mania/1508074)**
-
 
 ### Qualification Stage
 
@@ -256,7 +250,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 ### Qualification Stage
 
-Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for more details.
+Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ")** for more details.
 
 ## Ruleset
 
@@ -338,7 +332,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
    - PlayerBlue and playerRed must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
 3. Each player choose one map from the pool as the *Banned Map*. These maps can not be played during this match.
-4. Each player must use `!roll` once in \#multiplayer:
+4. Each player must use `!roll` once in `#multiplayer`:
    - The losing roll picks the first banned map.
    - The winning roll picks the first map of the match.
    - Repeat `!roll` if two rolls are equal.

@@ -72,7 +72,7 @@ Les chansons qui utilisent uniquement des sliders de temps forts sont vouées à
 
 ## Partie 3: Overmapping
 
-Pour moi, l'[overmapping](/wiki/Glossary) est le fait de placer une note ou la fin d'un slider où une note n'existe pas dans le fond. Il y a plusieurs raisons d'overmapper :
+Pour moi, l'[overmapping](/wiki/Beatmapping/Overmapping) est le fait de placer une note ou la fin d'un slider où une note n'existe pas dans le fond. Il y a plusieurs raisons d'overmapper :
 
 - Le rythme est trop difficile à jouer normalement/être fun.
   - Cela arrive souvent avec des chansons qui utilisent des triolets dans une partie en 1/6, et le mappeur le simplifie en 1/4.

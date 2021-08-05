@@ -29,7 +29,7 @@ A list of contests that are not mentioned on the [Community Contests page](https
 Notes:
 
 - Winners of the MBC #1 to #13 received the *Elite Mapper* forum title.
-- Winning beatmapsets from MBC #1 to #12 (excluding MBC #6) were bundled with the [osu!installer](https://osu.ppy.sh/home/download). They have since been replaced by other beatmapsets.
+- Winning beatmaps from MBC #1 to #12 (excluding MBC #6) were bundled with the [osu!installer](https://osu.ppy.sh/home/download). They have since been replaced by other beatmaps.
 - Monthly Beatmapping Contests after #13 have a different premise and reward scheme from the previous contests detailed in the [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest) article.
 
 ## Aspire
@@ -135,7 +135,7 @@ Community Choice is the successor to the "Best of" contests.
 
 ## Community Mapping Contest
 
-The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4K and 7K entries). Through the [Community Contests listing](https://osu.ppy.sh/community/contests), users voted for their favorite entries. The winners were compiled into a [beatmapset](https://osu.ppy.sh/beatmapsets/587388).
+The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4K and 7K entries). Through the [Community Contests listing](https://osu.ppy.sh/community/contests), users voted for their favorite entries. The winning difficulties were compiled into a [beatmap](https://osu.ppy.sh/beatmapsets/587388).
 
 ## osu!idol
 

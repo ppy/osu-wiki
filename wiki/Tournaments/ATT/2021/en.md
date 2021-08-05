@@ -8,7 +8,7 @@ tags:
 
 ![ATT 2021 logo](img/logo.jpg)
 
-The **Ausu!Taiko Tournament 2021** (**ATT 2021**) is a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235). The tournament is restricted to players within the Southeast Asian countries only. It is the seventh installment of the Ausu!Taiko Tournament.
+The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235). The tournament was restricted to players within the Southeast Asian countries only. It was the seventh installment of the Ausu!Taiko Tournament.
 
 ## Tournament schedule
 
@@ -21,6 +21,7 @@ The **Ausu!Taiko Tournament 2021** (**ATT 2021**) is a double-elimination 1v1 os
 | Quarterfinals | 2021-05-08/2021-05-09 |
 | Semifinals | 2021-05-15/2021-05-16 |
 | Finals | 2021-05-22/2021-05-23 |
+| Grand Finals | 2021-05-29 |
 
 ## Prizes
 
@@ -28,17 +29,20 @@ The **Ausu!Taiko Tournament 2021** (**ATT 2021**) is a double-elimination 1v1 os
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.jpg "ATT 2021 winner badge")
+
 ## Organisation
 
-The Ausu!Taiko Tournament 2021 is run by various community members.
+The Ausu!Taiko Tournament 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
 | Mappool selector | ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
-| Referee | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364) |
+| Referee | ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364), ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710) |
 | Streamer | ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442) |
 | Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
+| Statistician | ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
@@ -47,8 +51,8 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 - [Livestream](https://www.twitch.tv/sparxenic "Twitch")
 - [Challonge bracket](https://challonge.com/ausutaiko2021 "Challonge")
 - Spreadsheet
-  - [Schedule](https://docs.google.com/spreadsheets/d/18xadwgbLM3mc5nPs316bF0OSwcyyGSgibFEv_hNkgeU/edit?usp=sharing "Google Docs")
-  - [Mappool](https://docs.google.com/spreadsheets/d/1dUo00W0UH3pgq1wPru-U9EGf35qAisRyM2C6OWBn2Ns/edit?usp=sharing "Google Docs")
+  - [Schedule](https://docs.google.com/spreadsheets/d/18xadwgbLM3mc5nPs316bF0OSwcyyGSgibFEv_hNkgeU/edit?usp=sharing "Google Sheets")
+  - [Mappool](https://docs.google.com/spreadsheets/d/1dUo00W0UH3pgq1wPru-U9EGf35qAisRyM2C6OWBn2Ns/edit?usp=sharing "Google Sheets")
 
 ## Participants
 
@@ -73,11 +77,48 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 | **G** | ![][flag_ID] [misaki_tk](https://osu.ppy.sh/users/3866964) | ![][flag_SG] [Prehistoria](https://osu.ppy.sh/users/8364237) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) | ![][flag_NZ] [arley\_](https://osu.ppy.sh/users/9039824) | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) |
 | **H** | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | ![][flag_MY] [nikolpai\_15](https://osu.ppy.sh/users/11584592) | - |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
+
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (117 MB)](https://mega.nz/file/vzoE3R7Y#mp2bNhfEL8UFO9LRL1SUpFi7pMVfoxTW3aTh2fUBJvk "MEGA")**
+
+- NoMod
+  - [Kobaryo - Transceiver FX (Hivie) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1328018#taiko/2751152)
+  - [Tanchiky - ENERGY SYNERGY MATRIX (Genjuro) \[E.S.M.\]](https://osu.ppy.sh/beatmapsets/1247020#taiko/2591999)
+  - [Camellia - Xeroa (\_DUSK\_) \[Genjuro's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1331332#taiko/2759921)
+  - [Camellia - Syzygia (Ulqui) \[Inner Oni (NSV)\]](https://osu.ppy.sh/beatmapsets/782362#taiko/1642869)
+  - [Melt-Banana - Lie Lied Lies (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1098194#taiko/2294546)
+- Hidden
+  - [Rerulili feat. Kagamine Ren - Seisou Bakuretsu Boy (7\_7 bootleg) (HEKUSODASU) \[7oni\]](https://osu.ppy.sh/beatmapsets/1196340#taiko/2494631)
+  - [8284 - Connaextion (Nwolf) \[-- --- .-. ... .\]](https://osu.ppy.sh/beatmapsets/660649#taiko/1398838)
+- HardRock
+  - [SEVENTH SISTERS - SEVENTH HAVEN (Mtell Remix) (Shallty) \[6th Sister 7\_7\]](https://osu.ppy.sh/beatmapsets/829545#taiko/1737951)
+  - [Ametsuchi Enikki - Reimei Sketchbook (Y O U T A) \[Sketch\]](https://osu.ppy.sh/beatmapsets/571204#taiko/1210546)
+- DoubleTime
+  - [PSYQUI - Multitalents (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1013224#taiko/2120823)
+  - [Nhato - Magic (nyanmi-1828) \[Glint\]](https://osu.ppy.sh/beatmapsets/571741#taiko/1211643)
+  - [Toby Fox (remixed by Camellia) - Spider Dance (Camellia Remix) (hikiko-) \[Oni\]](https://osu.ppy.sh/beatmapsets/565226#taiko/1512798)
+- FreeMod
+  - [Street - Sakura Fubuki (Ata Remix) (Zetera) \[Sakura Oni\]](https://osu.ppy.sh/beatmapsets/1443098#taiko/2968377)
+  - [Igorrr - Robert (DukeDukeDura) \[Essence\]](https://osu.ppy.sh/beatmapsets/777877#taiko/1633996)
+  - [PSYQUI feat. Such - Your voice so... (Capu) \[Cychlo's voice so...\]](https://osu.ppy.sh/beatmapsets/1163892#taiko/2439177)
+- Tiebreaker
+  - **[Mori Calliope - Excuse My Rudeness, But Could You Please RIP (ReeK's "Dude Whats A Genre" Remix) (Maimaing) \[Rest in Peace\]](https://osu.ppy.sh/beatmapsets/1395893#taiko/2883063)**
 
 ### Finals
 
-**[Download the mappack here! (68 MB)](https://mega.nz/file/O2BzBKiI#WoW-x4LM_mvIPmSsNTXy3DvF8arwJE2tUwcC2dIyiks)**
+**[Download the mappack here! (68 MB)](https://mega.nz/file/O2BzBKiI#WoW-x4LM_mvIPmSsNTXy3DvF8arwJE2tUwcC2dIyiks "MEGA")**
 
 - NoMod
   - [Kobaryo - HUG AND KILL (vzk) \[nerf\]](https://osu.ppy.sh/beatmapsets/773541#taiko/1626066)
@@ -104,7 +145,7 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (98 MB)](https://mega.nz/file/njYSyTKS#ypEKEeqgJSDpnjgmLAiyivefJl1iY4otlZCW4sCF-VI)**
+**[Download the mappack here! (98 MB)](https://mega.nz/file/njYSyTKS#ypEKEeqgJSDpnjgmLAiyivefJl1iY4otlZCW4sCF-VI "MEGA")**
 
 - NoMod
   - [katagiri - #2wise4u (maguro869) \[#magur0\]](https://osu.ppy.sh/beatmapsets/995928#taiko/2083254)
@@ -131,7 +172,7 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (78 MB)](https://mega.nz/file/Dnxw0RTI#2UC44Xg1Nbfd0-IucNmAOKECAd3n9YyU33ohWdTWFLI)**
+**[Download the mappack here! (78 MB)](https://mega.nz/file/Dnxw0RTI#2UC44Xg1Nbfd0-IucNmAOKECAd3n9YyU33ohWdTWFLI "MEGA")**
 
 - NoMod
   - [sky\_delta Feat.Kanata.N - Crystal Clear and Nothing (yassu-) \[Inner Oni (long ver)\]](https://osu.ppy.sh/beatmapsets/858136#taiko/1800886)
@@ -156,7 +197,7 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/1DksCzwr0ei44qIIdS-l7-grU5liRRkxb/view?usp=sharing)**
+**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/1DksCzwr0ei44qIIdS-l7-grU5liRRkxb/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [sabi\_c - Class B (Maeda) \[Diff A\]](https://osu.ppy.sh/beatmapsets/1295205#taiko/2687456)
@@ -181,7 +222,7 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here! (53 MB)](https://drive.google.com/file/d/1_9FfeVHDMf3fMae8ZxMMWkrEESVETm-r/view?usp=sharing)**
+**[Download the mappack here! (53 MB)](https://drive.google.com/file/d/1_9FfeVHDMf3fMae8ZxMMWkrEESVETm-r/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Rob Gasser - Taking Over (feat. Miyoki) (-OvO-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1118937#taiko/2339203)
@@ -203,6 +244,31 @@ The Ausu!Taiko Tournament 2021 is run by various community members.
   - **[Venetian Snares - Epidermis (Horiiizon) \[HiroK's Oni\]](https://osu.ppy.sh/beatmapsets/1262133#taiko/2663673)**
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 29 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | --: | :-: | :-: | :-- |
+| apaajaboleh10 ![][flag_ID] | 3 | **7** | ![][flag_PH] **jmeh07** | [#1](https://osu.ppy.sh/community/matches/84478134) |
+| **Katdon\_donKat** ![][flag_ID] | **7** | 1 | ![][flag_PH] jmeh07 | [#1](https://osu.ppy.sh/community/matches/84490291) |
+
+### Finals
+
+Saturday, 22 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | --: | :-: | :-: | :-- |
+| Jerry ![][flag_MY] | 3 | **7** | ![][flag_ID] **Volta** | [#1](https://osu.ppy.sh/community/matches/83925010) |
+| **Katdon\_donKat** ![][flag_ID] | **7** | 4 | ![][flag_ID] apaajaboleh10 | [#1](https://osu.ppy.sh/community/matches/83958413) |
+
+Sunday, 23 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | --: | :-: | :-: | :-- |
+| tzechi ![][flag_SG] | -1 | **0** | ![][flag_PH] **jmeh07** | *win by default* |
+| Volta ![][flag_ID] | 0 | **7** | ![][flag_PH] **jmeh07** | [#1](https://osu.ppy.sh/community/matches/84027894) |
 
 ### Semifinals
 
@@ -384,3 +450,4 @@ Sunday, 25 April 2021:
 [flag_PH]: /wiki/shared/flag/PH.gif "Philipipnes"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

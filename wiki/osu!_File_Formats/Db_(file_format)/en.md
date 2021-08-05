@@ -36,7 +36,7 @@ Some data types specific to osu!.db are defined below.
 | Name | Number of bytes | Description |
 | :-- | :-- | :-- |
 | Int-Double pair | 14 | The first byte is 0x08, followed by an Int, then 0x0d, followed by a Double. These extraneous bytes are presumably flags to signify different data types in these slots, though in practice no other such flags have been seen. Currently the purpose of this data type is unknown. |
-| Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [Osu (file format)](/wiki/osu!_File_Formats/Osu_(file_format)) for more information regarding timing points. |
+| Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [.osu (file format)](/wiki/osu!_File_Formats/Osu_(file_format)) for more information regarding timing points. |
 | DateTime | 8 | A 64-bit number of ticks representing a date and time. Ticks are the amount of 100-nanosecond intervals since midnight, January 1, 0001 UTC. See [.NET framework documentation on ticks](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.ticks?view=netframework-4.7.2) for more information. |
 
 ### osu!.db format
@@ -84,8 +84,8 @@ Some data types specific to osu!.db are defined below.
 | Int | Total time, in milliseconds |
 | Int | Time when the audio preview when hovering over a beatmap in beatmap select starts, in milliseconds. |
 | Timing point+ | An Int indicating the number of following Timing points, then the aforementioned Timing points. |
+| Int | Difficulty ID |
 | Int | Beatmap ID |
-| Int | Beatmap set ID |
 | Int | Thread ID |
 | Byte | Grade achieved in osu! standard. |
 | Byte | Grade achieved in Taiko. |

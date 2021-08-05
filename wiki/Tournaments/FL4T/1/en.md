@@ -52,8 +52,8 @@ The osu!mania Flashlight 4K Tournament was run by various community members.
 - [FL4T Discord server](https://discord.gg/3py8gHy "Discord")
 - [Livestream](https://www.twitch.tv/osu_FL4T "Twitch")
 - [Challonge bracket](https://challonge.com/osu_FL4T1 "Challonge")
-- [Livestream VOD archive](https://www.youtube.com/channel/UC-3KbBtjS9ymQ46ZW1lHxIQ "Youtube Channel")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing "Google Docs")**
+- [Livestream VOD archive](https://www.youtube.com/channel/UC-3KbBtjS9ymQ46ZW1lHxIQ "YouTube")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -382,7 +382,7 @@ Sunday, 14 February 2021:
 
 ### Qualifiers
 
-- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing)
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing "Google Sheets")
 - Average rank was determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - All players passed the qualifiers and entered the Group Stage with following seedings:
   - Seed #1 - Seed #8 will be named as Top seed
@@ -452,7 +452,7 @@ Sunday, 14 February 2021:
 1. The match lobby will be created and invites sent to participants 5-10 minutes prior to the match start time.
 2. If a participant is more than 10 minutes late to the lobby, the participant inside the lobby will be declared the winner. If neither participant appears, the participant with the higher seed will be considered the winner.
 3. Each participant will be allowed to select 1 map as a warmup. Warmups must be uploaded to the osu! servers and **cannot exceed 4 minutes** in length.
-4. Participants can choose to ban 1 map from the mappool (excluding the tiebreaker). The pick/ban order is determined by the !roll command. The participant with the lower roll bans first and the other one with the higher roll picks first.
+4. Participants can choose to ban 1 map from the mappool (excluding the tiebreaker). The pick/ban order is determined by the `!roll` command. The participant with the lower roll bans first and the other one with the higher roll picks first.
 5. If both participants are tied on match point (e.g. 3-3 score in a Best-of-7), both participants will play the Tiebreaker bracket to determine the winner.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

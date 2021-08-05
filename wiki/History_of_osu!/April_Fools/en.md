@@ -159,7 +159,7 @@ On 1 April 2016 many osu! players were surprised to discover that they had sudde
 
 ### Spinning osu! cookie on website
 
-As part of the handful of April Fools' day jokes for 2016, the [osu! cookie](/wiki/Glossary/Cookie) on the osu! website would occasionally spin 180 degrees clockwise and then quickly spin back upright 180 degrees in the same direction [[58,59,60,61]][r].
+As part of the handful of April Fools' day jokes for 2016, the [osu! cookie](/wiki/Brand_identity_guidelines) on the osu! website would occasionally spin 180 degrees clockwise and then quickly spin back upright 180 degrees in the same direction [[58,59,60,61]][r].
 
 ---
 
@@ -173,7 +173,7 @@ As announced in a [tweet by peppy](https://twitter.com/ppy/status/84802152566384
 
 ### Rotating osu! cookie
 
-On 1 April 2018 the [osu! cookie](/wiki/Glossary/Cookie) on the main menu screen would slowly rotate clockwise as time passed, and the cookie in the song selection screen would slowly rotate anticlockwise. Hovering over these cookies would enlarge them just as usual, but would also cause them to rotate faster [[62,63,64,65,66,67]][r].
+On 1 April 2018 the [osu! cookie](/wiki/Brand_identity_guidelines) on the main menu screen would slowly rotate clockwise as time passed, and the cookie in the song selection screen would slowly rotate anticlockwise. Hovering over these cookies would enlarge them just as usual, but would also cause them to rotate faster [[62,63,64,65,66,67]][r].
 
 ---
 

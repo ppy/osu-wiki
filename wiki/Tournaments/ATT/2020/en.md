@@ -48,7 +48,7 @@ The Ausu!Taiko Tournament 2020 was run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1055313)
 - [Livestream](https://www.twitch.tv/DrumDecimator "Twitch")
 - [Challonge bracket](https://challonge.com/ausutaiko2020 "Challonge")
-- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1KgmKIGzTxIERNo9Dl6hL96A_wXRKYddfguvdx5P0ugI/edit?usp=sharing "Google Docs")
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1KgmKIGzTxIERNo9Dl6hL96A_wXRKYddfguvdx5P0ugI/edit?usp=sharing "Google Sheets")
 
 ## Participants
 
@@ -85,7 +85,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (85 MB)](https://www.mediafire.com/file/6mhp70fuknuavi1/A%21TT_Finals.rar/file)**
+**[Download the mappack here! (85 MB)](https://www.mediafire.com/file/6mhp70fuknuavi1/A%21TT_Finals.rar/file "MediaFire")**
 
 - NoMod
   - [lapix - Foolish Hero (FutureCore Mix) (HEKUSODASU) \[KUSO vs. Shallty HerOni\]](https://osu.ppy.sh/beatmapsets/858866#taiko/1794875)
@@ -112,7 +112,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (79 MB)](https://www.mediafire.com/file/x9zc6hf731hj4q4/A%21TT_Semis.rar/file)**
+**[Download the mappack here! (79 MB)](https://www.mediafire.com/file/x9zc6hf731hj4q4/A%21TT_Semis.rar/file "MediaFire")**
 
 - NoMod
   - [Feryquitous feat. Sennzai - Koe (Skull Kid) \[HiroK's Ura Oni\]](https://osu.ppy.sh/beatmapsets/958909#taiko/2061960)

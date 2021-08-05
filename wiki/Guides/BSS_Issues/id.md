@@ -7,9 +7,9 @@ tags:
 
 # Bagaimana mengatasi masalah pada BSS
 
-Jika **[Sistem Submisi Beatmap](/wiki/Glossary#bss)** (***BSS***) tidak mengizinkan Anda mengunggah beatmap milik sendiri karena dikatakan bahwa map bukan milik Anda, maka lakukan hal berikut ini:
+Jika **[Sistem Submisi Beatmap](/wiki/Submission)** (***BSS***) tidak mengizinkan Anda mengunggah beatmap milik sendiri karena dikatakan bahwa map bukan milik Anda, maka lakukan hal berikut ini:
 
-1. Pergi ke folder beatmapset.
+1. Pergi ke folder beatmap.
    - Secara singkat dapat melalui [beatmap editor](/wiki/Beatmap_Editor) pada menu `File` lalu pilih opsi `Open Song Folder`.
 2. Keluar dari osu! (Ini untuk memastikan bahwa perubahan diterapkan dengan benar.)
 3. Buka berkas tingkat kesulitan `.osu` menggunakan editor plain text apapun (Misalnya. Notepad).
@@ -25,9 +25,9 @@ Jika Anda masih mengalami masalah, ikuti langkah-langkah berikut ini:
 
 1. Ekspor beatmap menggunakan editor beatmap.
    - `File` lalu tekan `Export Package`.
-2. Keluar dari beatmap editor lalu hapus beatmapset di dalam osu!.
+2. Keluar dari beatmap editor lalu hapus beatmap di dalam osu!.
 3. keluar dari osu!
-4. Pergi ke folder ekspor beatmapset dan ganti ekstensi dari `.osz` menjadi `.zip` (Berkas ekstensi perlu diperlihatkan dari opsi folder windows untuk melakukan ini).
+4. Pergi ke folder ekspor beatmap dan ganti ekstensi dari `.osz` menjadi `.zip` (Berkas ekstensi perlu diperlihatkan dari opsi folder windows untuk melakukan ini).
 5. Ekstrak berkasi `.zip` tadi.
 6. Buka berkas tingkat kesulitan `.osu` menggunakan editor plain text apapun (Misalnya. Notepad).
 7. Masukkan nama pengguna ke kotak `Creator`, tapi jangan gunakan nama pengguna milik Anda.

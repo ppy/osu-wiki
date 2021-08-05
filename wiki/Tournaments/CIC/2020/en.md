@@ -51,11 +51,11 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 ## Links
 
-- **[Main spreadsheet](http://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vRWcBzTJy5RnGqGIzRDc_Zv28lRo9Z3yz9yUVqF4eqoVi-cebrHDDEWk186ODj71mLf2x9mPARwaVlB/pubhtml?gid=2045538686&single=true)**
+- **[Main spreadsheet](http://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vRWcBzTJy5RnGqGIzRDc_Zv28lRo9Z3yz9yUVqF4eqoVi-cebrHDDEWk186ODj71mLf2x9mPARwaVlB/pubhtml?gid=2045538686&single=true "Google Sheets")**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1096883)
-- [Discord server](https://discord.gg/YwAYbPa)
-- [Challonge brackets](https://challonge.com/CIC2020)
-- [Livestream](https://www.twitch.tv/osuIndonesia/)
+- [Discord server](https://discord.gg/YwAYbPa "Discord")
+- [Challonge brackets](https://challonge.com/CIC2020 "Challonge")
+- [Livestream](https://www.twitch.tv/osuIndonesia "Twitch")
 
 ## Podium
 
@@ -78,7 +78,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Finals
 
-**[Download the mappack here! (180 MB)](https://drive.google.com/file/d/1mEUgYsLfoGQgrWgC32-f9JeRRZYhclwx/view?usp=sharing)**
+**[Download the mappack here! (180 MB)](https://drive.google.com/file/d/1mEUgYsLfoGQgrWgC32-f9JeRRZYhclwx/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Negentropy (a.k.a. Team Grimoire) - ouroVoros (autofanboy) \[neVermore\]](https://osu.ppy.sh/beatmapsets/1087679#fruits/2427950)
@@ -107,7 +107,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Semifinals
 
-**[Download the mappack here! (195 MB)](https://drive.google.com/file/d/1AYXaifWvEWfC4G5mZJ1kNK-V90ATvY-I/view?usp=sharing)**
+**[Download the mappack here! (195 MB)](https://drive.google.com/file/d/1AYXaifWvEWfC4G5mZJ1kNK-V90ATvY-I/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [a\_hisa - Dysthymia (Kyuare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/616346#fruits/1299872)
@@ -136,7 +136,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Quarterfinals
 
-**[Download the mappack here! (140 MB)](https://drive.google.com/file/d/1F8KQhR3aCEcMuMOyq6AKX3E-95Bul51F/view?usp=sharing)**
+**[Download the mappack here! (140 MB)](https://drive.google.com/file/d/1F8KQhR3aCEcMuMOyq6AKX3E-95Bul51F/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [yuikonnu & ayaponzu\* - Kunoichi demo Koi ga Shitai (CLSW) \[Affectionate\]](https://osu.ppy.sh/beatmapsets/612511#fruits/1292565)
@@ -162,7 +162,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Round of 16
 
-**[Download the mappack here! (101 MB)](https://drive.google.com/file/d/1HPmKsNoh-UmweijjUyrqD_5UBV5OQY64/view?usp=sharing)**
+**[Download the mappack here! (101 MB)](https://drive.google.com/file/d/1HPmKsNoh-UmweijjUyrqD_5UBV5OQY64/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Hanatan - Shiwa (Benita) \[Smile\]](https://osu.ppy.sh/beatmapsets/794362#fruits/1669776)
@@ -188,7 +188,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Group Stage
 
-**[Download the mappack here! (111 MB)](https://drive.google.com/file/d/184os6Qkk7YKnSUVB_DP59PJ7mELzZo4N/view?usp=sharing)**
+**[Download the mappack here! (111 MB)](https://drive.google.com/file/d/184os6Qkk7YKnSUVB_DP59PJ7mELzZo4N/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Ryu\* - Sakura Mirage (Lacrima) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/1051862#fruits/2201873)
@@ -423,7 +423,7 @@ Monday, 3 August 2020:
 
 ### Match Regulations
 
-1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group Stage lobbies.
 2. Each player has to ban **one beatmap** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.

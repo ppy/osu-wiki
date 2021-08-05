@@ -1,7 +1,7 @@
 ---
 tags:
-- CIC
-- CIC2014
+  - CIC
+  - CIC2014
 ---
 
 # Catch the Beat Indonesia Cup 2014
@@ -74,7 +74,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (182 MB)](https://www.mediafire.com/?7erc0625k2sd5o9)**
+**[Download the mappack here! (182 MB)](https://www.mediafire.com/?7erc0625k2sd5o9 "MediaFire")**
 
 - NoMod
   - [a\_hisa - Fairy Dance (Priti) \[ursa's Rain\]](https://osu.ppy.sh/beatmapsets/151219#fruits/377293)
@@ -108,7 +108,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (148 MB)](http://www.mediafire.com/download/8kxo28ermnjfx83/CIC+2014+Round+III.rar)** (This map pack does not include *Ice - L2 - Ascension : Act 2 (Liberation)*)
+**[Download the mappack here! (148 MB)](http://www.mediafire.com/download/8kxo28ermnjfx83/CIC+2014+Round+III.rar "MediaFire")** (This map pack does not include *Ice - L2 - Ascension : Act 2 (Liberation)*)
 
 - NoMod
   - [sakuzyo - Laplace (Shiirn) \[Deif's CTB\]](https://osu.ppy.sh/beatmapsets/45671#fruits/148029)
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (168 MB)](http://www.mediafire.com/download/ckcpz379385sran/CIC+2014+Round+II.rar)**
+**[Download the mappack here! (168 MB)](http://www.mediafire.com/download/ckcpz379385sran/CIC+2014+Round+II.rar "MediaFire")**
 
 - NoMod
   - [Fear, and Loathing in Las Vegas - Jump Around (iyasine) \[Insane\]](https://osu.ppy.sh/beatmapsets/86861#fruits/237576)
@@ -179,7 +179,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Knockout stage
 
-**[Download the mappack here! (186 MB)](http://www.mediafire.com/?of337ki3iybw2ac)**
+**[Download the mappack here! (186 MB)](http://www.mediafire.com/?of337ki3iybw2ac "MediaFire")**
 
 - NoMod
   - [Dark PHOENiX - Stirring an Autumn Moon (\_lolipop) \[Crazy Moon\]](https://osu.ppy.sh/beatmapsets/16650#fruits/59693)

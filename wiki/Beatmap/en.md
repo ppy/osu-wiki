@@ -26,7 +26,7 @@ A *difficulty* is a file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu
 
 *Main article: [Submission](/wiki/Submission)*
 
-Beatmap authors can [submit](/wiki/Glossary#bss) their creations to the public [beatmap listing](https://osu.ppy.sh/beatmapsets). While every beatmap is attributed to [a single person](/wiki/Beatmap/Beatmap_host), it is often a joint effort: some difficulties may be mapped by other people working [in collaboration](/wiki/Beatmap/Beatmap_collaborations) or [separately](/wiki/Beatmap/Guest_difficulty).
+Beatmap authors can [submit](/wiki/Submission) their creations to the public [beatmap listing](https://osu.ppy.sh/beatmapsets). While every beatmap is attributed to [a single person](/wiki/Beatmap/Beatmap_host), it is often a joint effort: some difficulties may be mapped by other people working [in collaboration](/wiki/Beatmap/Beatmap_collaborations) or [separately](/wiki/Beatmap/Guest_difficulty).
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 

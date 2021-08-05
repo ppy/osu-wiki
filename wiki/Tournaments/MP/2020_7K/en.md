@@ -48,8 +48,8 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1160806)
-- [Livestream](https://www.twitch.tv/polishosumania)
-- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
+- [Livestream](https://www.twitch.tv/polishosumania "Twitch")
+- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv "Discord")
 
 ## Participants
 
@@ -74,11 +74,9 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | **G** | ![][flag_PL] Yamakazi | ![][flag_PL] Modren | ![][flag_PL] LosDaniel |
 | **H** | ![][flag_PL] Selegiline | ![][flag_PL] Hentu | ![][flag_PL] capsafangirl |
 
----
-
 ## Match schedule: Round of 16
 
-Round of 16 schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml).
+Round of 16 schedule can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml "Google Sheets").
 
 ## Mappools
 
@@ -162,7 +160,7 @@ Sunday, 15 November 2020:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml).
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml "Google Sheets").
 
 ## Ruleset
 
@@ -253,7 +251,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - Players are to choose one (1) protected map within the map pool which they want to keep not bannable (from their opponent). They must inform the match referee in a private message of which map they choose to protect. If the player does not inform the match referee of their desired map choice in 60 seconds, the player will lose an opportunity to choose a protected map.
 - Players are to ban one (1) map within the map pool which they are playing for the given round. They must inform the match referee in a private message of which map they choose to ban. If the player does not inform the match referee of their desired ban choice in about 60 seconds, the player will lose an opportunity to choose a ban.
 - It is mandatory for the match referee to inform players in the lobby which maps are protected and banned.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match. The winner of the !roll decides if they want to pick first or second. In the event that both players get the same roll, they will have to continue doing the !roll command until the tie is broken.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match. The winner of the `!roll` decides if they want to pick first or second. In the event that both players get the same roll, they will have to continue doing the `!roll` command until the tie is broken.
 - After the protected maps, bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
      - The winning player moves onto the next match.

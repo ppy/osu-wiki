@@ -26,7 +26,7 @@ The **Coffee Hispanic Showdown** (***CHS***) was a double-elimination 2v2 osu! t
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner, exclusive player banner, 50% discount on tablet/mousepad covers for team members at [Foxbox](https://foxbox.io/) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner, exclusive player banner, 50% discount on tablet/mousepad covers for team members at [Foxbox](https://foxbox.io/ "Foxbox") |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner |
 
@@ -52,11 +52,11 @@ The Coffee Hispanic Showdown was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1100670)
-- [CHS Discord server](https://discord.gg/baVKCzU)
-- [Livestream](https://www.twitch.tv/coffeehispanic)
-- [Challonge brackets](https://challonge.com/es/CoffeeHispanicShowdown)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/39)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wEr5HhIWiaftd3-9GHJnzFN-0JESClEVPMWl3GQWEUw/edit?usp=sharing)**
+- [CHS Discord server](https://discord.gg/baVKCzU "Discord")
+- [Livestream](https://www.twitch.tv/coffeehispanic "Twitch")
+- [Challonge brackets](https://challonge.com/es/CoffeeHispanicShowdown "Challonge")
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/39 "hwchr's pick'em")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wEr5HhIWiaftd3-9GHJnzFN-0JESClEVPMWl3GQWEUw/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -93,7 +93,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (177 MB)](https://drive.google.com/file/d/1wcqGYC0uPnrlvoh2Xd2ax0BmZzxT2k4R/view)**
+**[Download the mappack here! (177 MB)](https://drive.google.com/file/d/1wcqGYC0uPnrlvoh2Xd2ax0BmZzxT2k4R/view "Google Drive")**
 
 - NoMod
   - [PassCode - Ray (SkyFlame) \[Resonance\]](https://osu.ppy.sh/beatmapsets/1180927#osu/2462350)
@@ -126,7 +126,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (156 MB)](https://drive.google.com/file/d/1g847SBMY7dh1rO1PD4cGzIWu_8ymbunN/view)**
+**[Download the mappack here! (156 MB)](https://drive.google.com/file/d/1g847SBMY7dh1rO1PD4cGzIWu_8ymbunN/view "Google Drive")**
 
 - NoMod
   - [Twin-Tails - Twintail Dreamer! (Minorsonek) \[diuS' Expert\]](https://osu.ppy.sh/beatmapsets/773026#osu/1680262)
@@ -219,7 +219,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (107 MB)](https://www.mediafire.com/file/ylbcsstmlh8uemm/RO16.rar/file)**
+**[Download the mappack here! (107 MB)](https://www.mediafire.com/file/ylbcsstmlh8uemm/RO16.rar/file "MediaFire")**
 
 - NoMod
   - [LiSA - Jet Rocket (Wen) \[Rocketing Love\]](https://osu.ppy.sh/beatmapsets/1189927#osu/2479386)
@@ -247,7 +247,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (71 MB)](http://www.mediafire.com/file/ymmc53rkwsjz65t/Qualifiers_Pool.rar/file)**
+**[Download the mappack here! (71 MB)](http://www.mediafire.com/file/ymmc53rkwsjz65t/Qualifiers_Pool.rar/file "MediaFire")**
 
 - NoMod
   - [nano - DREAMCATCHER (Depths) \[Destiny\]](https://osu.ppy.sh/beatmapsets/802148#osu/1683581)
@@ -385,7 +385,7 @@ Monday, 17 August 2020:
 | #1 | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490) | 23 |
 | #2 | ![][flag_US] [AbrahamR](https://osu.ppy.sh/users/4797389), ![][flag_CO] [GaaL](https://osu.ppy.sh/users/2374950) | 83 |
 | #3 | ![][flag_CL] [Deruz](https://osu.ppy.sh/users/5386106), ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398) | 98 |
-| #4 | ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398), ![][flag_UY] [Madozito](https://osu.ppy.sh/users/4054429) | 106 |
+| #4 | ![][flag_UY] [Madozito](https://osu.ppy.sh/users/4054429), ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | 106 |
 | #5 | ![][flag_ES] [In Sane](https://osu.ppy.sh/users/5114537), ![][flag_ES] [Rekens](https://osu.ppy.sh/users/1073575) | 109 |
 | #6 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481), ![][flag_RO] [Lisko](https://osu.ppy.sh/users/11948017) | 111 |
 | #7 | ![][flag_AR] [Emiru Ikuno 2](https://osu.ppy.sh/users/9393446), ![][flag_AR] [SlowBurn](https://osu.ppy.sh/users/3608846) | 117 |
@@ -462,7 +462,7 @@ Monday, 17 August 2020:
 
 - Only the top 16 from each tiers could proceed to form a team of 4 and move on to Knockout Stage
   - The team forming would get picked by the [team picker](#organisation)
-- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
+- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682 "Google Sheets")
 - Total points was determined by `Σ position earned when playing the qualifiers mappool (in each tiers)`, the lower the score the better
 - Note: Seed #6 on the Tier 1 was disqualified, so the seed #17 would go and form the team instead
 
@@ -470,7 +470,7 @@ Monday, 17 August 2020:
 
 1. Coffee Hispanic Showdown is a **2v2 osu! tournament** and will use **Score V2** as the scoring system.
 2. The tournament will use **double-elimination** bracket system, meanings you have 2 chance of losing before getting eliminated from the tournament.
-3. This is a tournament where only players from [Hispanic countries](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions) can enter. In case of having a non-hispanic flag but being Hispanic, players should justify with the organiser regarding their nationality.
+3. This is a tournament where only players from [Hispanic countries](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions "Wikipedia") can enter. In case of having a non-hispanic flag but being Hispanic, players should justify with the organiser regarding their nationality.
 4. There are 2 tiers splitted by osu! ranks, more details below:
    - Tier 1: BWS Rank #1 - #2,500
    - Tier 2: BWS Rank #2,501 - #15,000

@@ -48,8 +48,8 @@ The osu!catch World Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/739799)
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5x7_6IHe-c0J8ktzA7fW3MKh8iZFuZhwYmiYPlvmkjOivZK20SpxGUeVwNgXDdI_Udhc3v9hpl4jG/pubhtml)**
+- [Livestream](https://www.twitch.tv/osulive "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5x7_6IHe-c0J8ktzA7fW3MKh8iZFuZhwYmiYPlvmkjOivZK20SpxGUeVwNgXDdI_Udhc3v9hpl4jG/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -122,7 +122,7 @@ The osu!catch World Cup 2018 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (92 MB)](https://zirox.s-ul.eu/1AdCcIdv)**
+**[Download the mappack here! (92 MB)](https://zirox.s-ul.eu/1AdCcIdv "s-ul")**
 
 - NoMod
   - [+a / Alfakyun. x Camellia - calling \(alienflybot\) \[Sync\]](https://osu.ppy.sh/beatmapsets/649285#fruits/1556545)
@@ -148,7 +148,7 @@ The osu!catch World Cup 2018 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (102 MB)](http://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip)**
+**[Download the mappack here! (102 MB)](http://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip "MediaFire")**
 
 - NoMod
   - [Function Phantom - Euclid \(Ascendance\) \[Axiom\]](https://osu.ppy.sh/beatmapsets/729321#fruits/1539487)
@@ -174,7 +174,7 @@ The osu!catch World Cup 2018 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/8adzvcvqjxydxw9/CWC2018%20-%20RO16%20Mappack.zip)**
+**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/8adzvcvqjxydxw9/CWC2018%20-%20RO16%20Mappack.zip "MediaFire")**
 
 - NoMod
   - [Hiroyuki Sawano feat. Mika Kobayashi - Bios \(wairo\) \[Furely's Overdose\]](https://osu.ppy.sh/beatmapsets/728912#fruits/1599347)
@@ -200,7 +200,7 @@ The osu!catch World Cup 2018 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here! (77 MB)](https://mega.nz/#!09kkXCAR!J4oF2QmrLA1RoLgErpqUHBaCul5SFNXAJKnIoo812jc)**
+**[Download the mappack here! (77 MB)](https://mega.nz/#!09kkXCAR!J4oF2QmrLA1RoLgErpqUHBaCul5SFNXAJKnIoo812jc "MEGA")**
 
 - NoMod
   - [Black Hole - Pluto \(Ascendance\) \[Reimu's Another\]](https://osu.ppy.sh/beatmapsets/680437#fruits/1439325)
@@ -470,9 +470,9 @@ Sunday, 10 June 2018:
 2. Each team is free to select up to one warm-up map. Using beatmaps with questionable content is prohibited. All maps must be osu!catch specific maps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The loser of the !roll starts banning.
-   - The winner of the !roll starts picking the first beatmap of the match.
+5. Each captain must use `!roll` once in `#multiplayer`.
+   - The loser of the `!roll` starts banning.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Results of the Group Stage will be published via a Statistics sheet.

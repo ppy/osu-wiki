@@ -1,41 +1,38 @@
 ---
-no_native_review: true
 tags:
   - CS
   - key count
 ---
 
-# Taille des cercles
+# Circle size
 
-*Pour les règlementations concernant la taille des cercles, voir : [Critères de classement](/wiki/Ranking_Criteria)*
+*Pour les règlements concernant le circle size, voir : [Ranking criteria](/wiki/Ranking_Criteria)*
 
-La **Taille des Cercles** (**Circle Size** ou ***CS***) est un paramètre de difficulté des [beatmaps](/wiki/Beatmap) qui affecte la taille des [hit object](/wiki/Hit_Objects). La valeur du CS varie entre 0 et 10, mais seules les valeurs de 2 à 7 peuvent être choisies dans [l'éditeur de beatmaps](/wiki/Beatmap_Editor). Les autres valeurs peuvent être utilisées via modification directe du [fichier `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) de la map.
+Le **circle size** (***CS***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui affecte la taille des [objets](/wiki/Hit_Objects). Les valeurs du circle size vont de 0 à 10, mais seules les valeurs de 2 à 7 peuvent être choisies dans l'[éditeur de beatmaps](/wiki/Beatmap_Editor). D'autres valeurs peuvent être utilisées en modifiant manuellement le fichier [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) d'une map.
 
 ## osu!
 
-Dans osu!, le CS change la taille des cercles et sliders, les objets étant plus petits si la valeur augmente. Les spinners ne sont pas affectés par le CS. La taille des cercles est déterminée par la formule suivante :
+Dans le mode osu!, le circle size modifie la taille des cercles et des sliders, les valeurs les plus élevées créant des objets plus petits. Les spinners ne sont pas affectés par ce paramètre. Le circle size est calculé à l'aide de la formule suivante :
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
-où `r` est le rayon mesuré en osu!pixels, et `CS` est la valeur du paramètre associé.
+Où `r` est le rayon mesuré en osu!pixels, et `CS` est la valeur du circle size.
 
 ## osu!taiko
 
-Dans osu!taiko, le CS n'affecte pas le gameplay.
+Dans le mode osu!taiko, le circle size n'affecte pas le gameplay.
 
 ## osu!catch
 
-Dans osu!catch, le CS détermine la taille du plateau et des fruits.
+Dans le mode osu!catch, le circle size détermine la taille de l'attrapeur et du fruit.
 
 ## osu!mania
 
-Dans osu!mania, le CS indique le nombre de touches.
+Dans le mode osu!mania, le circle size fait référence au nombre de touches.
 
-## Mod effects
+## Effets des mods
 
-Il existe deux mods qui altèrent le CS lorsqu'ils sont activés :
+Il existe deux mods qui modifient le circle size lorsqu'ils sont activés :
 
-- [Easy](/wiki/Game_modifier/Easy) : Diminue le CS de moitié.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock) : Multiplie la valeur du CS par 1.3, ne peut dépasser 10.
-
-<!--TODO: Insert links -->
+- [Easy](/wiki/Game_modifier/Easy): Réduit de moitié la valeur du CS.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplie la valeur du CS par 1,3, avec un maximum de 10.

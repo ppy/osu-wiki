@@ -52,14 +52,14 @@ The 3 Digit Taiko World Cup was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1195686)
-- [3TWC Discord server](https://discord.gg/hNBktvr)
-- [Challonge brackets](https://challonge.com/4jh7t3v2)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/49) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [3TWC Discord server](https://discord.gg/hNBktvr "Discord")
+- [Challonge brackets](https://challonge.com/4jh7t3v2 "Challonge")
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/49 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - Livestream
-  - [Main channel](https://www.twitch.tv/3twc)
-  - [Secondary channel](https://www.twitch.tv/3twc_b)
+  - [Main channel](https://www.twitch.tv/3twc "Twitch")
+  - [Secondary channel](https://www.twitch.tv/3twc_b "Twitch")
     - *Note: The second channel's purpose was to stream the other match if there were more than one matches happening at the same time.*
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1FQfngmNWcFON5zjODE6b5NfbS3fWKCl4GwKYX4u8rCQ/edit?usp=sharing)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1FQfngmNWcFON5zjODE6b5NfbS3fWKCl4GwKYX4u8rCQ/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -108,7 +108,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (128 MB)](http://www.mediafire.com/file/megczynxqptfm2b/MAPPACK+GRAND+FINALS.rar)**
+**[Download the mappack here! (128 MB)](http://www.mediafire.com/file/megczynxqptfm2b/MAPPACK+GRAND+FINALS.rar "MediaFire")**
 
 - NoMod
   - [Rings of Saturn - Eviscerate (Xay) \[Oniscerate\]](https://osu.ppy.sh/beatmapsets/477477#taiko/1621260)
@@ -138,7 +138,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (104 MB)](https://www.mediafire.com/file/ezdhvao573vjtcp/MAPPACK_FINALSS.rar)**
+**[Download the mappack here! (104 MB)](https://www.mediafire.com/file/ezdhvao573vjtcp/MAPPACK_FINALSS.rar "MediaFire")**
 
 - NoMod
   - [Gram VS Kobaryo - Dies irae (nananass) \[Normal\]](https://osu.ppy.sh/beatmapsets/1098348#taiko/2294786)
@@ -168,7 +168,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (108 MB)](https://www.mediafire.com/file/cm7hsprd0ckbgny/MAPPACK+SF.rar)**
+**[Download the mappack here! (108 MB)](https://www.mediafire.com/file/cm7hsprd0ckbgny/MAPPACK+SF.rar "MediaFire")**
 
 - NoMod
   - [Camellia - KillerBeast (7\_7) \[Evil\]](https://osu.ppy.sh/beatmapsets/1130295#taiko/2361130)
@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (91 MB)](https://www.mediafire.com/file/t378e35u3mdzeij/MAPPACK+QF.rar)**
+**[Download the mappack here! (91 MB)](https://www.mediafire.com/file/t378e35u3mdzeij/MAPPACK+QF.rar "MediaFire")**
 
 - NoMod
   - [cosMo@BousouP - Bamboo Sword Girl (Extend version) (Eyenine) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1246773#taiko/2591444)
@@ -224,7 +224,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (78 MB)](https://www.mediafire.com/file/qk9mv675307n99x/MAPPACK_RO16.rar)**
+**[Download the mappack here! (78 MB)](https://www.mediafire.com/file/qk9mv675307n99x/MAPPACK_RO16.rar "MediaFire")**
 
 - NoMod
   - [Sleeping Pola - C-E-D-A-R (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1031258#taiko/2156505)
@@ -250,7 +250,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 24
 
-**[Download the mappack here! (70 MB)](https://www.mediafire.com/file/b3v39zw4nld93z6/MAPPACK+RO24.rar)**
+**[Download the mappack here! (70 MB)](https://www.mediafire.com/file/b3v39zw4nld93z6/MAPPACK+RO24.rar "MediaFire")**
 
 - NoMod
   - [Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (KTYN) \[Passing love\]](https://osu.ppy.sh/beatmapsets/1334132#taiko/2763983)
@@ -276,7 +276,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (22 MB)](https://www.mediafire.com/file/52hqp949k60l2x9/MAPPACK_Q.rar)**
+**[Download the mappack here! (22 MB)](https://www.mediafire.com/file/52hqp949k60l2x9/MAPPACK_Q.rar "MediaFire")**
 
 - NoMod
   - [DECO\*27 - Ghost Rule (Skull Kid) \[Mayday\]](https://osu.ppy.sh/beatmapsets/624218#taiko/1315674)
@@ -418,7 +418,7 @@ Sunday, 17 January 2021:
 
 ### Qualifiers
 
-- More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1ojk6pEL60VbUZ7o9_eDPY27kOtBWRmGwD0LyWByB9vk/edit?usp=sharing)
+- More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1ojk6pEL60VbUZ7o9_eDPY27kOtBWRmGwD0LyWByB9vk/edit?usp=sharing "Google Sheets")
 - Top 4 of the qualifiers proceeded to the Round of 16 automatically
 - Top 5 and below started from Round of 24
 - Total points were determined by summing up the position earned when playing all Qualifiers mappool

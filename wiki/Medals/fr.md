@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Medals
 
 Les médailles, auparavant appelées *succès*, sont des badges sur le profil d'un utilisateur qui indiquent que celui-ci a atteint un objectif spécifique. Actuellement, ils sont divisés en 7 groupes: [Packs de beatmaps](#beatmap-packs), [Talent](#skill), [Dévouement](#dedication), [Introduction des mods](#mod-introduction), [Hush-Hush](#hush-hush), Beatmap Spotlights, et Seasonal Spotlights.

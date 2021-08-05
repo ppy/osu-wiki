@@ -50,7 +50,7 @@ Cada uma dessas seções possuem 4 volumes.
 
 ## Combo
 
-As conquistas de **Combo** podem ser obtidas por conseguir um número específico de [Combo](/wiki/Glossary) no modo Standard **em qualquer música**. Conseguir o mesmo combo em Taiko ou Catch the Beat não resultarão na obtenção da conquista.
+As conquistas de **Combo** podem ser obtidas por conseguir um número específico de [Combo](/wiki/Beatmapping/Combo) no modo Standard **em qualquer música**. Conseguir o mesmo combo em Taiko ou Catch the Beat não resultarão na obtenção da conquista.
 
 Para a conquista de 1,000 e 2,000 combo, você deve procurar por beatmaps approved ao invés de ranked. Não procure por beatmaps não aprovados.
 

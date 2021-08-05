@@ -1,4 +1,3 @@
-# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
@@ -8,7 +7,7 @@ alumni:
     dev: ผู้พัฒนา osu!
     media: ผู้สร้างสื่อ osu!
     support: ทีมช่วยเหลือ
-    tournaments: ทัวร์นาเมนต์
+    tournaments: ผู้บริหารทัวร์นาเมนต์
 gmt:
   all_mods: ผู้ดูแลทั้งหมด
   areas:
@@ -19,8 +18,9 @@ gmt:
     dev: ผู้พัฒนา osu!
     player: ผู้สนับสนุนผู้เล่น
     support: ผู้สนับสนุนทางเทคนิค
-    tournaments: ทัวร์นาเมนต์
+    tournaments: ผู้บริหารทัวร์นาเมนต์
     wiki: ผู้ดูแลวิกิ
+    mapping: ผู้ดูแลชุมชนการแมป/การ mod
 nat:
   areas:
     communication: การสื่อสาร
@@ -41,6 +41,7 @@ languages:
   fi: ฟินแลนด์
   fil: ฟิลิปปินส์
   fr: ฝรั่งเศส
+  gl: กาลิเซีย
   hr: โครเอเชีย
   hu: ฮังการี
   id: อินโดนีเซีย
@@ -49,7 +50,7 @@ languages:
   ko: เกาหลี
   ms: มาเลย์
   nl: ดัตช์
-  no: ภาษานอร์เว
+  no: นอร์เวย์
   pl: โปแลนด์
   pt: โปรตุเกส
   ro: โรมาเนีย

@@ -9,7 +9,7 @@ outdated_since: 2a53f4edb06a6521b8f6db07dc442660fa9861d3
 
 ![AiMod](img/AiMod.jpg "AiMod ist normalerweise der erste Modder einer Beatmap")
 
-AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Probleme erkennt. Komplizierteres, wie das Überprüfen der Timing/BPM oder das Design der Beatmap, muss von einem [Modder](/wiki/Glossary) überprüft werden. Fehler, Probleme und Warnungen werden in Tabs kategorisiert.
+AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Probleme erkennt. Komplizierteres, wie das Überprüfen der Timing/BPM oder das Design der Beatmap, muss von einem [Modder](/wiki/Modding/Modder) überprüft werden. Fehler, Probleme und Warnungen werden in Tabs kategorisiert.
 
 ## Tabs
 

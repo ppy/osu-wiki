@@ -1,30 +1,30 @@
 # Aus/NZ osu!standard Tournament 5 - Summer
 
-![ANZT 5S Logo](img/logo.jpg)
+![ANZT 5S logo](img/logo.jpg)
 
-The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double elimination one-on-one osu! tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083) and ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154). It was the 5th installment of Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 double elimination osu! tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083) and ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154). It was the fifth installment of the Aus/NZ tourneys.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2017-12-22/2018-01-21 |
+| Registration phase | 2017-12-22/2018-01-21 |
 | Qualifiers | 2018-01-26/2018-01-28 |
 | Round of 64 | 2018-02-02/2018-02-04 |
-| Round of 32 & Losers Bracket Rounds 1 & 2 | 2018-02-09/2018-02-11 |
-| Round of 16 & Losers Bracket Rounds 3 & 4 | 2018-02-16/2018-02-18 |
-| Quarterfinals & Losers Bracket Rounds 5 & 6 | 2018-02-23/2018-02-25 |
-| Semifinals & Losers Bracket Rounds 7 & 8 | 2018-03-02/2018-03-04 |
-| Finals - Week 1 | 2018-03-09/2018-03-11 |
-| Finals - Week 2 | 2018-03-17 |
+| Round of 32, Losers Bracket Rounds 1 & 2 | 2018-02-09/2018-02-11 |
+| Round of 16, Losers Bracket Rounds 3 & 4 | 2018-02-16/2018-02-18 |
+| Quarterfinals, Losers Bracket Rounds 5 & 6 | 2018-02-23/2018-02-25 |
+| Semifinals, Losers Bracket Rounds 7 & 8 | 2018-03-02/2018-03-04 |
+| Finals week 1 | 2018-03-09/2018-03-11 |
+| Finals week 2 | 2018-03-17 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -35,22 +35,20 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 | Commentator | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_AU] [Noobsicle](https://osu.ppy.sh/users/3432672), ![][flag_NZ] [shortpotato](https://osu.ppy.sh/users/1266102), ![][flag_AU] [Rairiku](https://osu.ppy.sh/users/4945688), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | Streamer | ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_US] [CornLord7117](https://osu.ppy.sh/users/6699829), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | Referee | ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [RoseAntebellum](https://osu.ppy.sh/users/3944288), ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_AU] [Vex](https://osu.ppy.sh/users/1151852), ![][flag_AU] [Poi Yasu](https://osu.ppy.sh/users/6733334), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_NZ] [-Akito](https://osu.ppy.sh/users/5716327), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_US] [trey-](https://osu.ppy.sh/users/8784747) |
-| Map Selector | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154) |
+| Mappool selector | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154) |
 | Designer | ![][flag_NZ] [-Akito](https://osu.ppy.sh/users/5716327) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/679243)
-- [Livestream](https://www.twitch.tv/osuanzt)
-- [Challonge page](https://anzttournaments.challonge.com/o1fs6s1q)
-
----
+- [Livestream](https://www.twitch.tv/osuanzt "Twitch")
+- [Challonge page](https://anzttournaments.challonge.com/o1fs6s1q "Challonge")
 
 ## Mappools
 
-### Finals - Week 2
+### Finals week 2
 
-**[Download the map pack here! (129 MB)](http://www.mediafire.com/file/3whiaig0dvuxzhr/ANZT5S+Grand+Finals+Mappack+.zip)**
+**[Download the map pack here! (129 MB)](http://www.mediafire.com/file/3whiaig0dvuxzhr/ANZT5S+Grand+Finals+Mappack+.zip "MediaFire")**
 
 - NoMod
   - [mafumafu - Revenge Syndrome (Rizia) \[Reunion\]](https://osu.ppy.sh/beatmapsets/543109)
@@ -75,9 +73,9 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 - Tiebreaker
   - **[Halozy - Kanshou no Matenrou (Lasse) \[Shadow Dance\]](https://osu.ppy.sh/beatmapsets/690105)**
 
-### Finals - Week 1
+### Finals week 1
 
-**[Download the map pack here! (121 MB)](http://www.mediafire.com/file/sm4embsj8le04bq/ANZT5S%20Finals%20Week%201%20Mappack.zip)**
+**[Download the map pack here! (121 MB)](http://www.mediafire.com/file/sm4embsj8le04bq/ANZT5S%20Finals%20Week%201%20Mappack.zip "MediaFire")**
 
 - NoMod
   - [nmk - sola (Morinaga) \[Last Word\]](https://osu.ppy.sh/beatmapsets/723024)
@@ -104,7 +102,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Semifinals & Losers Bracket Rounds 7 & 8
 
-**[Download the map pack here! (117 MB)](http://www.mediafire.com/file/7x9o4gaga0zpfkj/ANZT5S%20SF%20Mappool.zip)**
+**[Download the map pack here! (117 MB)](http://www.mediafire.com/file/7x9o4gaga0zpfkj/ANZT5S%20SF%20Mappool.zip "MediaFire")**
 
 - NoMod
   - [Mitani Nana - Inochi Mijikashi Koiseyo Otome (Amamiya Yuko) \[Insane\]](https://osu.ppy.sh/beatmapsets/125511)
@@ -131,7 +129,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Quarterfinals & Losers Bracket Rounds 5 & 6
 
-**[Download the map pack here! (106 MB)](http://www.mediafire.com/file/0i0b10n63061b35/ANZT5S%20QF%20Mappool.zip)**
+**[Download the map pack here! (106 MB)](http://www.mediafire.com/file/0i0b10n63061b35/ANZT5S%20QF%20Mappool.zip "MediaFire")**
 
 - NoMod
   - [mafumafu - Revenge Syndrome (Rizia) \[Extra\]](https://osu.ppy.sh/beatmapsets/200308)
@@ -158,7 +156,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Round of 16 & Losers Bracket Rounds 3 & 4
 
-**[Download the map pack here! (111 MB)](http://www.mediafire.com/file/wx3e2bidn691d0z/ANZT5S_RO16_Stage_Mappack.zip)**
+**[Download the map pack here! (111 MB)](http://www.mediafire.com/file/wx3e2bidn691d0z/ANZT5S_RO16_Stage_Mappack.zip "MediaFire")**
 
 - NoMod
   - [FujuniseikouyuuP - Make a Loser (val0108) \[0108 Style\]](https://osu.ppy.sh/beatmapsets/287694)
@@ -183,7 +181,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Round of 32 & Losers Bracket Rounds 1 & 2
 
-**[Download the map pack here! (106 MB)](http://www.mediafire.com/file/5d8y4dpvfg29ov5/ANZT5S%20RO32%20Stage%20Mappack.zip)**
+**[Download the map pack here! (106 MB)](http://www.mediafire.com/file/5d8y4dpvfg29ov5/ANZT5S%20RO32%20Stage%20Mappack.zip "MediaFire")**
 
 - NoMod
   - [ZUN - Shoutoku Legend ~ True Administrator (chenwu) \[Over Drive\]](https://osu.ppy.sh/beatmapsets/103226)
@@ -208,7 +206,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Round of 64
 
-**[Download the map pack here! (99 MB)](http://www.mediafire.com/file/p8b5xddkpp2ihx3/ANZT5S+RO64+Stage+Mappack.zip)**
+**[Download the map pack here! (99 MB)](http://www.mediafire.com/file/p8b5xddkpp2ihx3/ANZT5S+RO64+Stage+Mappack.zip "MediaFire")**
 
 - NoMod
   - [sakuzyo - Neurotoxin (kiddly) \[Another\]](https://osu.ppy.sh/beatmapsets/192995)
@@ -233,7 +231,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ### Qualifiers
 
-**[Download the map pack here! (19 MB)](http://www.mediafire.com/file/edkxcwm8vymjcct/ANZT5S+Qualifiers+Mappack.zip)**
+**[Download the map pack here! (19 MB)](http://www.mediafire.com/file/edkxcwm8vymjcct/ANZT5S+Qualifiers+Mappack.zip "MediaFire")**
 
 - NoMod
   - [DJ YOSHITAKA - MANA (EvilElvis) \[Kiiwa's Another\]](https://osu.ppy.sh/beatmapsets/136144)
@@ -244,19 +242,19 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 - DoubleTime
   - [ClariS - CLICK (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmapsets/145550)
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 
-### Main Bracket
+## Match results
+
+### Main bracket
 
 Results of the main bracket can be found on the Challonge page linked above.
 
@@ -284,11 +282,9 @@ Results of the main bracket can be found on the Challonge page linked above.
 | ![][flag_AU] Peekamoo | 2,621,808 |  | ![][flag_AU] turretxbuddy | 2,038,525 |  | ![][flag_AU] Beat43210 | 237,618 |
 | ![][flag_NZ] Morrowind | 2,616,206 |  | ![][flag_AU] kuur0 | 2,010,812 |  | ![][flag_NZ] Particlex | 0 |
 
----
-
 ## Ruleset
 
-### General Rules
+### General rules
 
 - This is an 1v1 double elimination osu! tourney for Australian/New Zealand players only.
 - Participants must have an Australian or New Zealand flag on their osu profile.
@@ -301,11 +297,11 @@ Results of the main bracket can be found on the Challonge page linked above.
 - **Reschedules must be agreed on by both players and proof must be provided**.
 - All matches will be scheduled for Fridays, Saturdays & Sundays.
 
-### Match Rules
+### Match rules
 
 - Referees will create the lobby and invite players 10 minutes before the designated match time.
 - Players have up to ten minutes after their designated start time to move into the lobby. Failure to show will result in a forfeit. If both players are absent, the match will either be rescheduled or end in double forfeit to the discretion of the administration.
-- Both players must !roll. **The highest roll gets first warmup, ban and pick**.
+- Both players must `!roll`. **The highest roll gets first warmup, ban and pick**.
 - Each player will be allowed one warmup map and one ban unless stated otherwise
 - Warmup maps may not be longer than 4 minutes 30 seconds.
 - If a player disconnects within the first 30 seconds of a map, it will be aborted and replayed. Any disconnects afterwards will be a forfeit of that map.
@@ -315,18 +311,18 @@ Results of the main bracket can be found on the Challonge page linked above.
 - Failed scores will only count if the player revives before the end. If a player fails and their opponent doesn’t, the point goes to the latter. If both players fail, the point goes to the higher failed score.
 - If there is a tie, players will play the tiebreaker. Mods can be played (HD/HR/HDHR).
 
-### Qualifier Rules
+### Qualifier rules
 
 - Players will be assigned lobbies and play through four maps once. Each will be played with their respective mod (NoMod/HD/HR/DT).
 - There are **no warmups** for this stage.
 - Scores will be scaled accordingly. **Failed scores will not count**.
 - The top 64 players will move on to round of 64.
 
-### Round of 64 Rules
+### Round of 64 rules
 
 - **There will be no warmups and one ban per player**.
 
-### Winning Conditions
+### Winning conditions
 
 | Rounds | Condition |
 | :-- | :-- |
@@ -334,7 +330,7 @@ Results of the main bracket can be found on the Challonge page linked above.
 | Round of 16 & Losers Bracket Rounds 3 & 4, Quarterfinals & Losers Bracket Rounds 5 & 6 | Win five maps (Best-of-9) |
 | Semi-finals & Losers Bracket Rounds 7 & 8 | Win six maps (Best-of-11) |
 | Finals - Week 1 & 2 | Win seven maps (Best-of-13) |
-  
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_US]: /wiki/shared/flag/US.gif
+
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

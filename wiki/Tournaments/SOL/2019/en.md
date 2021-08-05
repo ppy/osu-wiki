@@ -52,12 +52,10 @@ The Speed of Light Mania Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/973387)
-- [Livestream](https://www.twitch.tv/osuworldtournament)
-- [SOLMT Discord server](https://discord.gg/Zmha38K)
-- [Challonge brackets](https://challonge.com/solmt)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1IlUz5hDqyxMaQgpdhz70Y_EiTUJFKL7w_ehvmGgtY6k/edit#gid=152741005)**
-
----
+- [Livestream](https://www.twitch.tv/osuworldtournament "Twitch")
+- [SOLMT Discord server](https://discord.gg/Zmha38K "Discord")
+- [Challonge brackets](https://challonge.com/solmt "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1IlUz5hDqyxMaQgpdhz70Y_EiTUJFKL7w_ehvmGgtY6k/edit#gid=152741005 "Google Sheets")**
 
 ## Participants
 
@@ -91,8 +89,6 @@ The Speed of Light Mania Tournament was run by various community members.
 | **O** | ![][flag_US] dhn | ![][flag_RU] N1ckn1ght | ![][flag_CO] Cansta | ![][flag_US] Lights |
 | **P** | ![][flag_PE] DaZeRoS | ![][flag_CA] loafusofbread | ![][flag_LV] CrayZigg | ![][flag_US] Dilly\_P |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -102,8 +98,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_BR] [**andreymc**](https://osu.ppy.sh/users/5691061) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] [**cheewee10**](https://osu.ppy.sh/users/4477497) |
-
----
 
 ## Mappools
 
@@ -259,7 +253,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d16lPxdtUsuDTyArGgtW-nnnLMycFqN0j55O3TO2GpdBo/edit#gid=649487813)**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d16lPxdtUsuDTyArGgtW-nnnLMycFqN0j55O3TO2GpdBo/edit#gid=649487813 "Google Sheets")**
 
 ### Grand Finals
 
@@ -592,7 +586,8 @@ Sunday, 08 December 2019:
 - Players are free to select one beatmap per player for warmup. Beatmaps with questionable or explicit content is prohibited. All the beatmaps must be osu! beatmaps specifically, and must be submitted so each player can download it.
 - Each player can ban a beatmap from being selected in the match. These beatmaps won’t be selected by any player throughout the match.
 - Beatmap selection will alternate between each player selecting a beatmap from the mappool.
-- Each player must use "!roll" once in #multiplayer. -The loser will choose the first ban of the match. The winner will choose the second ban and the first pick of the match.
+- Each player must use `!roll` once in `#multiplayer`.
+- The loser will choose the first ban of the match. The winner will choose the second ban and the first pick of the match.
 - The results of each stage will be posted in a spreadsheet after the given stage.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"

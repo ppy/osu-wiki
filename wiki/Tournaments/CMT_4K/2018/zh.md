@@ -1,7 +1,7 @@
 ---
 tags:
-- CMT 4K 2018
-- CMT4K 2018
+  - CMT 4K 2018
+  - CMT4K 2018
 ---
 
 # 2018年华人 osu!mania 4K 大赛
@@ -48,25 +48,21 @@ tags:
 ## 链接
 
 - [论坛帖子](https://osu.ppy.sh/community/forums/topics/800125)
-- [QQ群](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
-- [Challonge](https://challonge.com/zh_CN/CMT2018)
+- [QQ群](https://jq.qq.com/?_wv=1027&k=5IH0Tkr "Tencent QQ")
+- [Challonge](https://challonge.com/zh_CN/CMT2018 "Challonge")
 - 直播间
-  - 哔哩哔哩：[aiyulu](https://live.bilibili.com/10183)（主直播）、[Flow Light](https://live.bilibili.com/73668)（副直播）、[kj415j45](https://live.bilibili.com/237250)（备用）
-  - Twitch：[aiyulu](https://www.twitch.tv/aiyulu)
-- [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)（需科学上网）
-- [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)
-
----
+  - 哔哩哔哩：[aiyulu](https://live.bilibili.com/10183 "Bilibili")（主直播）、[Flow Light](https://live.bilibili.com/73668 "Bilibili")（副直播）、[kj415j45](https://live.bilibili.com/237250 "Bilibili")（备用）
+  - Twitch：[aiyulu](https://www.twitch.tv/aiyulu "Twitch")
+- [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform "Google Forms")（需科学上网）
+- [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ")
 
 ![CMT4K2018 podium](img/podium.png)
-
----
 
 ## 图池
 
 ### 决赛
 
-**下载完整图池包！（105 MB） - [百度云盘](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw) - [Google 云端硬盘](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi)**
+**下载完整图池包！（105 MB） - [百度云盘](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi "Google Drive")**
 
 - FreeMod
   - [Sota Fujimori - Move That Body -Extended Mix- \[Dance\]](https://osu.ppy.sh/beatmapsets/765772#mania/1609983)
@@ -88,7 +84,7 @@ tags:
 
 ### 半决赛
 
-**下载完整图池包！（104 MB） - [百度云盘](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w) - [Google 云端硬盘](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK)**
+**下载完整图池包！（104 MB） - [百度云盘](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK "Google Drive")**
 
 - FreeMod
   - [PROTODOME - Greatest Hat \[chalLeNge\]](https://osu.ppy.sh/beatmapsets/840500#mania/1759313)
@@ -110,7 +106,7 @@ tags:
 
 ### 八强赛
 
-**下载完整图池包！（72 MB） - [百度云盘](https://pan.baidu.com/s/1Ddy1Is0VhxJx3FCCfG--3Q) - [Google 云端硬盘](https://drive.google.com/file/d/1cq1ytwNhXtA6nhbX7-9E_30iS88pVwPO)**
+**下载完整图池包！（72 MB） - [百度云盘](https://pan.baidu.com/s/1Ddy1Is0VhxJx3FCCfG--3Q "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1cq1ytwNhXtA6nhbX7-9E_30iS88pVwPO "Google Drive")**
 
 - FreeMod
   - [M2U - Mare Maris \[For The Brave\]](https://osu.ppy.sh/beatmapsets/786297#mania/1650609)
@@ -130,7 +126,7 @@ tags:
 
 ### 十六强赛
 
-**下载完整图池包！（81 MB） - [百度云盘](https://pan.baidu.com/s/1trdHtV6nNIuifTwVPCQYgg) - [Google 云端硬盘](https://drive.google.com/file/d/1wJEAdCAwj72W7_fuKiAD3qxwpbsly_WI)**
+**下载完整图池包！（81 MB） - [百度云盘](https://pan.baidu.com/s/1trdHtV6nNIuifTwVPCQYgg "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1wJEAdCAwj72W7_fuKiAD3qxwpbsly_WI "Google Drive")**
 
 - FreeMod
   - [Swimy - Acchi Muite \[This Way! NSV\]](https://osu.ppy.sh/beatmapsets/744373#mania/1687703)
@@ -150,7 +146,7 @@ tags:
 
 ### 小组赛
 
-**下载完整图池包！（55 MB） - [百度云盘](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google 云端硬盘](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
+**下载完整图池包！（55 MB） - [百度云盘](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS "Google Drive")**
 
 - FreeMod
   - [Between August and December - Sayonara Cruel World (Reworked) \[LN\]](https://osu.ppy.sh/beatmapsets/747111#mania/1574382)
@@ -252,7 +248,7 @@ tags:
 
 ### 资格赛
 
-请查看 [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj) 以了解详细得分情况。
+请查看 [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ") 以了解详细得分情况。
 
 ## 规则
 
@@ -336,7 +332,7 @@ tags:
    - 小组赛期间如果出现记录员不足，组委会可能会改变该场比赛方式。
 2. 两位选手各自选择一张热身图，但有异议的图不可使用。所有地图必须是 4K 专用地图。
 3. 每位选手从图池中选择**1**个禁手图（Banned Map），这些禁手图将在这场比赛中不能被任何选手选用。
-4. 比赛开始后，两位玩家必须在 \#multiplayer 频道使用一次`!roll`指令：
+4. 比赛开始后，两位玩家必须在 `#multiplayer` 频道使用一次`!roll`指令：
    - 点数较低者先开始选择禁手图，然后是另一位选手。
    - 点数较高者开始选择比赛图，然后交替选图。
    - 点数相等时，重新开始`!roll`。
@@ -359,11 +355,11 @@ tags:
 
 1. 原则上每个比赛阶段占用一个周末。
 2. 所有的比赛均在**UTC +8 时区**的周末进行。
-4. 小组赛可能同时进行多场。
-5. 日程安排由比赛组委会负责安排与发布，日程将在比赛开始前一周发布。若有选手特殊声明部分时间无法参加比赛，组委会会尽量根据参赛选手提供的可行时间对比赛时间进行协调，但不能保证可完全协调：
+3. 小组赛可能同时进行多场。
+4. 日程安排由比赛组委会负责安排与发布，日程将在比赛开始前一周发布。若有选手特殊声明部分时间无法参加比赛，组委会会尽量根据参赛选手提供的可行时间对比赛时间进行协调，但不能保证可完全协调：
    - 若选手使用特殊的时区，请提前告知组委会。
    - 除时区问题以外，选手未能按时参赛的，不论提前声明与否，仍然依照缺席处理。
-6. 选手弃权的比赛不予重赛。
+5. 选手弃权的比赛不予重赛。
 
 [CN]: /wiki/shared/flag/CN.gif "中国"
 [US]: /wiki/shared/flag/US.gif "美国"

@@ -17,11 +17,13 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!t
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Pemimpin proyek** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Penasihat bidang *mapping* dan *modding* |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | Pengurus dan penyelenggara World Cup |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Penasihat bidang pengembangan dan moderasi komunitas |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Pengurus dan penyelenggara World Cup |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Koordinator umum, pengelola Featured Artist Project dan proyek-proyek komunitas lainnya, penjangkau Featured Artist |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin tim desain, pemerhati Creative Cloud |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Penasihat bidang *mapping* dan *modding* |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Penasihat bidang *mapping* dan *modding* |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Pengurus dan penyelenggara World Cup |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Pengembang situs web osu! (osu!web) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Pengasuh umum, penasihat bidang moderasi komunitas |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Pengembang situs web osu! (osu!web), [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
@@ -33,7 +35,6 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!t
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, pecinta osu!mania, penumpas *bug* |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat bidang pengembangan komunitas, penjangkau Featured Artist |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, penyelenggara turnamen |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, pengurus dan penyelenggara World Cup, pemelihara osu!wiki |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
 Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_support_team) (*account support team*) yang bergerak secara terpisah untuk membantu menangani berbagai permasalahan yang bersifat pribadi.
@@ -67,6 +68,7 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggo
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Pengurus dan penyelenggara World Cup |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Pengurus dan penyelenggara World Cup, pemimpin QAT, manajer komunitas |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Perancang skin ulung, kontributor utama skin *default* dan set ikon bawaan osu! pada masanya. [DeviantArt](https://luigihann.deviantart.com/) |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Penasihat bidang *mapping* dan *modding* |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, perekayasa algoritma mm slider |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Pengembang osu! iPhone |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, pengelola Mappers' Guild |
@@ -76,11 +78,13 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggo
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masanya, kontributor utama proyek *meeting minutes* dan artikel FAQ |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan sistem *performance point* (pp) |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Pengembang osu! dan mode osu!mania |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, pengurus dan penyelenggara World Cup, pemelihara osu!wiki |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Manajer [osu!store](https://osu.ppy.sh/store/listing) |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/osu!academy), pengendali media dan rupa karakter |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Cili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"

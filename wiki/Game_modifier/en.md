@@ -57,7 +57,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [Auto (AT)](/wiki/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
   - [Cinema (CM)](/wiki/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [ScoreV2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Cutting Edge only**
+- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Cutting Edge (Experimental) only**
 
 ### Other
 

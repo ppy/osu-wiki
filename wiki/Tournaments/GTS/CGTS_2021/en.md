@@ -54,7 +54,7 @@ The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) was a worldwide
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$23.75, special plaque with player's username for each team member, custom made osu!taiko keypad for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$13.75, special plaque with player's username for each team member, custom made osu!taiko keypad for each team member |
 
-A prize pool of $1,000 with physical prizes are made possible thanks to [LotusPro](http://www.lotuspro.io/).
+A prize pool of $1,000 with physical prizes are made possible thanks to [Lotuspro](http://www.lotuspro.io/ "Lotuspro").
 
 ![](img/badge.jpg "CGTS 2021 winner badge")
 
@@ -84,7 +84,7 @@ The Continental Global Taiko Showdown 2021 was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1221339)
 - [GTS Discord server](https://discord.gg/3mGC3HB "Discord")
-- [GTS website](https://gtsosu.com)
+- [GTS website](https://gtsosu.com "GTS")
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu "Twitch")
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b "Twitch")
@@ -96,7 +96,7 @@ The Continental Global Taiko Showdown 2021 was run by various community members.
   - [North America](https://challonge.com/CGTS2021_NA "Challonge")
   - [Oceania/SEA](https://challonge.com/CGTS2021_OSEA "Challonge")
   - [South America](https://challonge.com/CGTS2021_SA "Challonge")
-- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStfVzMzkNbi4gs_cfuXTuFVHLdY20VChL61mPRFzooxJ6BAmkliT5u0OG0hyYJv1ZEXcwy25otJA6n/pubhtml "Google Docs") provided by ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710)
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vStfVzMzkNbi4gs_cfuXTuFVHLdY20VChL61mPRFzooxJ6BAmkliT5u0OG0hyYJv1ZEXcwy25otJA6n/pubhtml "Google Sheets") provided by ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710)
 
 ## Participants
 
@@ -290,7 +290,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Finals
 
-**[Download the mappack here! (102 MB)](https://mega.nz/file/V51V3KTY#teh9XpIBJPsp5Km5lsEJVwMsd4CBKwHN_y2p25ZTHDk)**
+**[Download the mappack here! (102 MB)](https://mega.nz/file/V51V3KTY#teh9XpIBJPsp5Km5lsEJVwMsd4CBKwHN_y2p25ZTHDk "MEGA")**
 
 - NoMod
   - [ReeK - Possesed By The Blood Moon (KTYN) \[Sacrifice\]](https://osu.ppy.sh/beatmapsets/1211308#taiko/2521563)
@@ -320,7 +320,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Finals
 
-**[Download the mappack here! (101 MB)](https://mega.nz/file/g9UzxQ4T#sTOYr1vJaw21SU5hR5uGnqFohRcLTEaDc8XOWFxisP4)**
+**[Download the mappack here! (101 MB)](https://mega.nz/file/g9UzxQ4T#sTOYr1vJaw21SU5hR5uGnqFohRcLTEaDc8XOWFxisP4 "MEGA")**
 
 - NoMod
   - [Camellia - WE ARE \*NOT\* CURZED (rubies87) \[CURZED ONI\]](https://osu.ppy.sh/beatmapsets/1070730#taiko/2241295)
@@ -350,7 +350,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Semifinals
 
-**[Download the mappack here! (101 MB)](https://mega.nz/file/FstG0KgC#mbLOeDgpT_q_dX6MbF1KgsqL2GnXR2UFHPu1ZVBRkTA)**
+**[Download the mappack here! (101 MB)](https://mega.nz/file/FstG0KgC#mbLOeDgpT_q_dX6MbF1KgsqL2GnXR2UFHPu1ZVBRkTA "MEGA")**
 
 - NoMod
   - [t+pazolite feat. Nanahira - Niesonae (katacheh) \[Taiko H.S.\]](https://osu.ppy.sh/beatmapsets/974667#taiko/2040122)
@@ -380,7 +380,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Qualifiers
 
-**[Download the mappack here! (25 MB)](https://mega.nz/file/4wkiyTIK#drJTNT5_R6mydt4F5Zn548pyZisa5xUGm_fvzIIdovQ)**
+**[Download the mappack here! (25 MB)](https://mega.nz/file/4wkiyTIK#drJTNT5_R6mydt4F5Zn548pyZisa5xUGm_fvzIIdovQ "MEGA")**
 
 - NoMod
   - [Sven Noon - Difficult Mutations (Alchyr) \[Refi's Inner Oni\]](https://osu.ppy.sh/beatmapsets/935842#taiko/2521801)
@@ -398,7 +398,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Grand Finals
 
-**[Download the mappack here! (160 MB)](https://mega.nz/file/dstUHApS#Up_QlNpojYN3fOG5fhHpyDcpWrZfOaRy5p3RhWlv4rk)**
+**[Download the mappack here! (160 MB)](https://mega.nz/file/dstUHApS#Up_QlNpojYN3fOG5fhHpyDcpWrZfOaRy5p3RhWlv4rk "MEGA")**
 
 - NoMod
   - [Aquellex - Tachyon Beam Cannon (3san) \[Lazer Beam Highway\]](https://osu.ppy.sh/beatmapsets/1028718#taiko/2151032)
@@ -428,7 +428,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Finals
 
-**[Download the mappack here! (123 MB)](https://mega.nz/file/swMTmQTb#gQQkpfi1b62AYcst1OjIsia-ogPIcnrpF4Yji98Me9U)**
+**[Download the mappack here! (123 MB)](https://mega.nz/file/swMTmQTb#gQQkpfi1b62AYcst1OjIsia-ogPIcnrpF4Yji98Me9U "MEGA")**
 
 - NoMod
   - [7\_7 - Ochame Kinou (7\_7 Remix) (X a v y) \[Xavy's >V<\]](https://osu.ppy.sh/beatmapsets/1209126#taiko/2517460)
@@ -458,7 +458,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Semifinals
 
-**[Download the mappack here! (111 MB)](https://mega.nz/file/ZgViwLxY#tIkAZB3sxaXR5b-xEahFWOd-AXoqHGgFIACV7CP30aw)**
+**[Download the mappack here! (111 MB)](https://mega.nz/file/ZgViwLxY#tIkAZB3sxaXR5b-xEahFWOd-AXoqHGgFIACV7CP30aw "MEGA")**
 
 - NoMod
   - [katagiri - L4.8TS (KTYN) \[Never Forgot\]](https://osu.ppy.sh/beatmapsets/729494#taiko/1539826)
@@ -488,7 +488,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Quarterfinals
 
-**[Download the mappack here! (75 MB)](https://mega.nz/file/OvYzEAxA#ckhHIMu9GeLxbL4EL7y-_YToC73HHgZgRlohJ_6GN7s)**
+**[Download the mappack here! (75 MB)](https://mega.nz/file/OvYzEAxA#ckhHIMu9GeLxbL4EL7y-_YToC73HHgZgRlohJ_6GN7s "MEGA")**
 
 - NoMod
   - [BABYMETAL - Sis. Anger (Love) \[Hate\]](https://osu.ppy.sh/beatmapsets/437458#taiko/941918)
@@ -514,7 +514,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Qualifiers
 
-**[Download the mappack here! (25 MB)](https://mega.nz/file/p41yyI5S#5CdpGwChpYJVv1bdB6Znj-BZTJSVo5o-HfhkMsXhR5w)**
+**[Download the mappack here! (25 MB)](https://mega.nz/file/p41yyI5S#5CdpGwChpYJVv1bdB6Znj-BZTJSVo5o-HfhkMsXhR5w "MEGA")**
 
 - NoMod
   - [BLUE ENCOUNT - HOPE (1RoHa\_) \[Nube Oni\]](https://osu.ppy.sh/beatmapsets/741825#taiko/1564916)
@@ -530,7 +530,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Grand Finals
 
-**[Download the mappack here! (86 MB)](https://mega.nz/file/NpF3VAyR#Gpr4Pw45a-Sf47JBS8Bt2ypHBoVui-OJZP2nc9gyZG0)**
+**[Download the mappack here! (86 MB)](https://mega.nz/file/NpF3VAyR#Gpr4Pw45a-Sf47JBS8Bt2ypHBoVui-OJZP2nc9gyZG0 "MEGA")**
 
 - NoMod
   - [hanacco - My Friend (konohahakase) \[Konoha & Xavy's Friendship\]](https://osu.ppy.sh/beatmapsets/1237324#taiko/2571792)
@@ -560,7 +560,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Finals
 
-**[Download the mappack here! (101 MB)](https://mega.nz/file/x8clzYgA#_LtnhGev55Tx8y_W--JJguxvAvbu36WgXBaDoOpv2y8)**
+**[Download the mappack here! (101 MB)](https://mega.nz/file/x8clzYgA#_LtnhGev55Tx8y_W--JJguxvAvbu36WgXBaDoOpv2y8 "MEGA")**
 
 - NoMod
   - [Bentham - TONIGHT (Raphalge) \[Inner Oni \[1,15x Rate\]\]](https://osu.ppy.sh/beatmapsets/833323#taiko/1745559)
@@ -590,7 +590,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Semifinals
 
-**[Download the mappack here! (98 MB)](https://mega.nz/file/99VCUBoK#eBReTmdB_WGFl0gefvQqAn7aHR2YXLcZLaNIdpI6Fd4)**
+**[Download the mappack here! (98 MB)](https://mega.nz/file/99VCUBoK#eBReTmdB_WGFl0gefvQqAn7aHR2YXLcZLaNIdpI6Fd4 "MEGA")**
 
 - NoMod
   - [Feryquitous (Vo.Sennzai) - Koe (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/933777#taiko/1949377)
@@ -620,7 +620,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Quarterfinals
 
-**[Download the mappack here! (100 MB)](https://mega.nz/file/6ig01J6Y#dvvGKeehUpiDK-RcIn16rZAff9_-w_mgnh4Gelc_5vQ)**
+**[Download the mappack here! (100 MB)](https://mega.nz/file/6ig01J6Y#dvvGKeehUpiDK-RcIn16rZAff9_-w_mgnh4Gelc_5vQ "MEGA")**
 
 - NoMod
   - [3R2 - Blow my mind (tpz Overheat Remix) (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1321475#taiko/2737347)
@@ -646,7 +646,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Round of 16
 
-**[Download the mappack here! (71 MB)](https://mega.nz/file/94VVTKga#xfGA696KRdQJAyRFZnmbKllRQWeZqdqnLIIwavfIldA)**
+**[Download the mappack here! (71 MB)](https://mega.nz/file/94VVTKga#xfGA696KRdQJAyRFZnmbKllRQWeZqdqnLIIwavfIldA "MEGA")**
 
 - NoMod
   - [sasakure.UK - Puppet Theater of Twee-Box feat. Hatsune Miku (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/639825#taiko/1422355)
@@ -672,7 +672,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Round of 32
 
-**[Download the mappack here! (69 MB)](https://mega.nz/file/gsMWTRST#KznZTiye2q33m-6TRM3kC6YpjTAI_Vkk8yy5GT9PMwk)**
+**[Download the mappack here! (69 MB)](https://mega.nz/file/gsMWTRST#KznZTiye2q33m-6TRM3kC6YpjTAI_Vkk8yy5GT9PMwk "MEGA")**
 
 - NoMod
   - [ARForest - Art for Rest (Eyenine) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1177033#taiko/2454812)
@@ -697,7 +697,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Qualifiers
 
-**[Download the mappack here! (23 MB)](https://mega.nz/file/hgsGXCjZ#iIexzhVjKWXprGuS4EKMeu1bVN5NPHlLXyuivxX6DsQ)**
+**[Download the mappack here! (23 MB)](https://mega.nz/file/hgsGXCjZ#iIexzhVjKWXprGuS4EKMeu1bVN5NPHlLXyuivxX6DsQ "MEGA")**
 
 - NoMod
   - [Hino Isuka - ULTRA MEGA HAPPY PARTY!!! (7\_7) \[ONI\]](https://osu.ppy.sh/beatmapsets/803307#taiko/1686050)
@@ -713,7 +713,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Grand Finals
 
-**[Download the mappack here! (127 MB)](https://mega.nz/file/lgs0hQKA#QrB8MUOZKR-B0kYX-HGR73VUz1CRQRGk7VzWMR1Udek)**
+**[Download the mappack here! (127 MB)](https://mega.nz/file/lgs0hQKA#QrB8MUOZKR-B0kYX-HGR73VUz1CRQRGk7VzWMR1Udek "MEGA")**
 
 - NoMod
   - [Katagiri - Kedamono friends (Extended ver.) (rezi888) \[Crazy!\]](https://osu.ppy.sh/beatmapsets/920744#taiko/1922785)
@@ -743,7 +743,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Finals
 
-**[Download the mappack here! (111 MB)](https://mega.nz/file/gkUVGKjR#msQuGfyDKw-9_jNAqloRRO8s5k7PYCWMKmKQm5nErhw)**
+**[Download the mappack here! (111 MB)](https://mega.nz/file/gkUVGKjR#msQuGfyDKw-9_jNAqloRRO8s5k7PYCWMKmKQm5nErhw "MEGA")**
 
 - NoMod
   - [uma vs. Morimori Atsushi - Re:End of a Dream(long ver.) (\[\_Chichinya\_\]) \[Fapu's Inner Oni\]](https://osu.ppy.sh/beatmapsets/694828#taiko/1923925)
@@ -773,7 +773,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Semifinals
 
-**[Download the mappack here! (103 MB)](https://mega.nz/file/p8EWFbSI#H4-fUNwhk4hrTPAzyM1RbShjMQIr27RkhT8mjCFAufg)**
+**[Download the mappack here! (103 MB)](https://mega.nz/file/p8EWFbSI#H4-fUNwhk4hrTPAzyM1RbShjMQIr27RkhT8mjCFAufg "MEGA")**
 
 - NoMod
   - [Remo Prototype[CV: Hanamori Yumiri] - Sendan Life (Y O U T A) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/395660#taiko/861023)
@@ -802,7 +802,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Quarterfinals
 
-**[Download the mappack here! (77 MB)](https://mega.nz/file/i6QjiCab#6NAN_TiQoo75QWeMoi-IyKP0UIH8OYcfaVL8JaZQYV8)**
+**[Download the mappack here! (77 MB)](https://mega.nz/file/i6QjiCab#6NAN_TiQoo75QWeMoi-IyKP0UIH8OYcfaVL8JaZQYV8 "MEGA")**
 
 - NoMod
   - [goreshit - glad you're back. (SKSalt) \[inner oni.\]](https://osu.ppy.sh/beatmapsets/920906#taiko/1923153)
@@ -828,7 +828,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Round of 16
 
-**[Download the mappack here! (95 MB)](https://mega.nz/file/w4NDWC6S#uXd32Qj6iplORw3cNqp3PeKCW31RhhfmcX5n7hm3DDE)**
+**[Download the mappack here! (95 MB)](https://mega.nz/file/w4NDWC6S#uXd32Qj6iplORw3cNqp3PeKCW31RhhfmcX5n7hm3DDE "MEGA")**
 
 - NoMod
   - [Negaren - Ha neul's Ambition (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/802117#taiko/1683534)
@@ -854,7 +854,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Qualifiers
 
-**[Download the mappack here! (50 MB)](https://mega.nz/file/lwtgyKaB#thigRVuzQnC5efq8aAw6pEoerus6MdfHbt0GtVxLsbE)**
+**[Download the mappack here! (50 MB)](https://mega.nz/file/lwtgyKaB#thigRVuzQnC5efq8aAw6pEoerus6MdfHbt0GtVxLsbE "MEGA")**
 
 - NoMod
   - [Thaehan - Doki-Doki (Taikocracy) \[Ayyri's Outer Oni\]](https://osu.ppy.sh/beatmapsets/626006#taiko/1319597)
@@ -870,7 +870,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Grand Finals
 
-**[Download the mappack here! (176 MB)](https://mega.nz/file/Vt9GBIjB#lgYcDNqpihe0SiMsGs-Tjo4SnKRCcqFtaCCaJWLm4DM)**
+**[Download the mappack here! (176 MB)](https://mega.nz/file/Vt9GBIjB#lgYcDNqpihe0SiMsGs-Tjo4SnKRCcqFtaCCaJWLm4DM "MEGA")**
 
 - NoMod
   - [Katagiri feat. Hanacco - Kahen reishiki zettai kyomei hakai kosen (HiroK) \[Resonance\]](https://osu.ppy.sh/beatmapsets/957806#taiko/2005234)
@@ -900,7 +900,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Finals
 
-**[Download the mappack here! (99 MB)](https://mega.nz/file/d9cBmahY#XtDfRB1SAVN6qlPlLkOQrarakDYxAg5T85V8j6XOewg)**
+**[Download the mappack here! (99 MB)](https://mega.nz/file/d9cBmahY#XtDfRB1SAVN6qlPlLkOQrarakDYxAg5T85V8j6XOewg "MEGA")**
 
 - NoMod
   - [Bring Me The Horizon - Anthem (ikin5050) \[The End of Everything\]](https://osu.ppy.sh/beatmapsets/297390#taiko/667585)
@@ -930,7 +930,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Semifinals
 
-**[Download the mappack here! (103 MB)](https://mega.nz/file/hsNmjTCb#PQu0oDjxsErz4q_U3qR_15kxZH9GLQSrkFIWpOtA1b4)**
+**[Download the mappack here! (103 MB)](https://mega.nz/file/hsNmjTCb#PQu0oDjxsErz4q_U3qR_15kxZH9GLQSrkFIWpOtA1b4 "MEGA")**
 
 - NoMod
   - [goreshit - wasting my time (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/494063#taiko/1052058)
@@ -960,7 +960,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Quarterfinals
 
-**[Download the mappack here! (59 MB)](https://mega.nz/file/Pv4yFRAC#KnnPBn9ToLkele008KRnBCc93yf7nSbBBxv4eKus0RU)**
+**[Download the mappack here! (59 MB)](https://mega.nz/file/Pv4yFRAC#KnnPBn9ToLkele008KRnBCc93yf7nSbBBxv4eKus0RU "MEGA")**
 
 - NoMod
   - [ayaponzu\* - Yakubyougami (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/742938#taiko/1659898)
@@ -986,7 +986,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Round of 16
 
-**[Download the mappack here! (77 MB)](https://mega.nz/file/04FjEaZT#nxfJUsRV5qwqJBz9UUFjXb44DD1Tk-LzRq1en_e5eQU)**
+**[Download the mappack here! (77 MB)](https://mega.nz/file/04FjEaZT#nxfJUsRV5qwqJBz9UUFjXb44DD1Tk-LzRq1en_e5eQU "MEGA")**
 
 - NoMod
   - [DIVELA feat. Hatsune Miku - DITHER TUNE (uone) \[uone&Shallty's Inner Oni\]](https://osu.ppy.sh/beatmapsets/844655#taiko/1766838)
@@ -1012,7 +1012,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Qualifiers
 
-**[Download the mappack here! (18 MB)](https://mega.nz/file/0k80EYQD#oOh2IMDOBHl4IEchtjdIA0742ZonQpKjnOP6L6N9anM)**
+**[Download the mappack here! (18 MB)](https://mega.nz/file/0k80EYQD#oOh2IMDOBHl4IEchtjdIA0742ZonQpKjnOP6L6N9anM "MEGA")**
 
 - NoMod
   - [Tyrfing - Verflucht (MMzz) \[Leggendaria\]](https://osu.ppy.sh/beatmapsets/934209#taiko/1950426)
@@ -1028,7 +1028,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Grand Finals
 
-**[Download the mappack here! (107 MB)](https://mega.nz/file/88801QxI#YG4ZN9AblZ9ftro1wwyc2s5ub30CxcuSW0i6LDTN0bg)**
+**[Download the mappack here! (107 MB)](https://mega.nz/file/88801QxI#YG4ZN9AblZ9ftro1wwyc2s5ub30CxcuSW0i6LDTN0bg "MEGA")**
 
 - NoMod
   - [U-F SEQUENCER - TEMPEST ZONE -code BLOOD- (Nyan) \[Taiko Inner Oni (OD7)\]](https://osu.ppy.sh/beatmapsets/653906#taiko/1433533)
@@ -1058,7 +1058,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Finals
 
-**[Download the mappack here! (107 MB)](https://mega.nz/file/UkElWa6b#D_Ej2KTy_rPDxnA4MPXXIJWEUJQWpIznui34za_qZgU)**
+**[Download the mappack here! (107 MB)](https://mega.nz/file/UkElWa6b#D_Ej2KTy_rPDxnA4MPXXIJWEUJQWpIznui34za_qZgU "MEGA")**
 
 - NoMod
   - [Salvatore Ganacci&Megatone - Cake (4th Chiademan Edit) (hoku) \[GO CRAZY ^-^\]](https://osu.ppy.sh/beatmapsets/1236676#taiko/2570552)
@@ -1088,7 +1088,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Semifinals
 
-**[Download the mappack here! (121 MB)](https://mega.nz/file/1wMgUB4R#Xq2RbGXyGrPNvU-cREQoJKaPWbcrXuk2kx6vQ15KQ_o)**
+**[Download the mappack here! (121 MB)](https://mega.nz/file/1wMgUB4R#Xq2RbGXyGrPNvU-cREQoJKaPWbcrXuk2kx6vQ15KQ_o "MEGA")**
 
 - NoMod
   - [Pascal Michael Stiefel - Collapsing Rift (Cookie\_Tree) \[Hurry Up!\]](https://osu.ppy.sh/beatmapsets/1086749#taiko/2499632)
@@ -1118,7 +1118,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Quarterfinals
 
-**[Download the mappack here! (101 MB)](https://mega.nz/file/buomRL7J#MqvyHuR1SnvcVrxJ_DtmISTgWNh_TgULxjHBVazkFFA)**
+**[Download the mappack here! (101 MB)](https://mega.nz/file/buomRL7J#MqvyHuR1SnvcVrxJ_DtmISTgWNh_TgULxjHBVazkFFA "MEGA")**
 
 - NoMod
   - [Helblinde - A Reyvateil's Curse (Rhytoly) \[Malediction\]](https://osu.ppy.sh/beatmapsets/862857#taiko/1804873)
@@ -1144,7 +1144,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Round of 16
 
-**[Download the mappack here! (102 MB)](https://mega.nz/file/98Fn1Q7a#vFYYEzA6GvNMqo2AqVy_9uHRmxlB4e6l2Ifyj-jrpYg)**
+**[Download the mappack here! (102 MB)](https://mega.nz/file/98Fn1Q7a#vFYYEzA6GvNMqo2AqVy_9uHRmxlB4e6l2Ifyj-jrpYg "MEGA")**
 
 - NoMod
   - [Demetori - Old Yuanxian (Love) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/182662#taiko/437920)
@@ -1170,7 +1170,7 @@ This competition has come to an end and resulted in the following podium:
 
 ##### Qualifiers
 
-**[Download the mappack here! (45 MB)](https://mega.nz/file/N18mFY7B#egab6F4-l8ypbjbODY9CuhO4qrCKrWDJ-s3-l88ID-4)**
+**[Download the mappack here! (45 MB)](https://mega.nz/file/N18mFY7B#egab6F4-l8ypbjbODY9CuhO4qrCKrWDJ-s3-l88ID-4 "MEGA")**
 
 - NoMod
   - [Kano - Houkago Stride (Pho) \[Ozzy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/289985#taiko/704083)
@@ -1230,7 +1230,7 @@ Sunday, 4 April 2021:
 
 #### Qualifiers
 
-- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1NprVvbs-70iTEpia-IS8JQwdg5qTyK_TJaU72ui8wfs/edit)
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1NprVvbs-70iTEpia-IS8JQwdg5qTyK_TJaU72ui8wfs/edit "Google Sheets")
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 
 | Seed | Team | Average rank |
@@ -1303,7 +1303,7 @@ Sunday, 28 February 2021:
 
 ##### Qualifiers
 
-- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1cb_iD-tCl84eBxXituwcQ3dOD-oNvsWqGwaw5VS8eIM/edit)
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1cb_iD-tCl84eBxXituwcQ3dOD-oNvsWqGwaw5VS8eIM/edit "Google Sheets")
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - Only the top 8 players can proceed to the Knockout Stage
 
@@ -1444,7 +1444,7 @@ Sunday, 14 February 2021:
 
 ##### Qualifiers
 
-- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1T6SBlSxIUKp5gKO97oMLFcVSJYYrrZSPrU3wbW79Sro/edit)
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1T6SBlSxIUKp5gKO97oMLFcVSJYYrrZSPrU3wbW79Sro/edit "Google Sheets")
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - All 27 players participated in the Knockout Stage
 
@@ -1567,7 +1567,7 @@ Sunday, 21 February 2021:
 
 ##### Qualifiers
 
-- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1WO4rxmOvKv4Nc7dLSTbb4XiDp8haU42oSR-H2dEkHSU/edit)
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1WO4rxmOvKv4Nc7dLSTbb4XiDp8haU42oSR-H2dEkHSU/edit "Google Sheets")
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - Only the top 16 players participated in the Knockout Stage
 
@@ -1690,7 +1690,7 @@ Sunday, 21 February 2021:
 
 ##### Qualifiers
 
-- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1Nblq6uZqjShlUUAJWi0VSxS7vCubwu9c8u1YiR00JXg/edit)
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1Nblq6uZqjShlUUAJWi0VSxS7vCubwu9c8u1YiR00JXg/edit "Google Sheets")
 - Average rank was determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - Only the top 16 players participated in the Knockout Stage
 
@@ -1806,7 +1806,7 @@ Sunday, 21 February 2021:
 
 ##### Qualifiers
 
-- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/13m-Y8oSviIBZ6r8-ChwORrKLxuu0c9k0G-89lH96FHk/edit)
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/13m-Y8oSviIBZ6r8-ChwORrKLxuu0c9k0G-89lH96FHk/edit "Google Sheets")
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - All 14 players participated in the Knockout Stage
 

@@ -21,6 +21,7 @@ gmt:
     support: pomoc techniczna
     tournaments: organizowanie turniejów
     wiki: zarządzanie wiki osu!
+    mapping: moderowanie społeczności twórców i moderów beatmap
 nat:
   areas:
     communication: komunikacja
@@ -41,6 +42,7 @@ languages:
   fi: fiński
   fil: filipiński
   fr: francuski
+  gl: galicyjski
   hr: chorwacki
   hu: węgierski
   id: indonezyjski

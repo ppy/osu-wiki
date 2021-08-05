@@ -21,11 +21,13 @@ tags:
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Лидер** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Советник по вопросам моддинга и маппинга |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | Организатор и администратор международных турниров |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Советник по вопросам модерации и сообщества |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Организатор и администратор международных турниров |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Администратор и лидер сообщества, менеджер по связям с Featured Artist |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Дизайн-директор, мастер Creative Cloud |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Советник по вопросам моддинга и маппинга |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Советник по вопросам моддинга и маппинга |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Организатор и администратор международных турниров |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Разработчик osu!web |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Советник по вопросам модерации, смотритель за порядком |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Разработчик osu!web, [официальный Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
@@ -37,7 +39,6 @@ tags:
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Разработчик osu!, энтузиаст osu!mania, разрушитель багов |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Лидер Project Loved, советник по вопросам сообщества, менеджер по связям с Featured Artist |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Смотритель за порядком, турнирный помощник |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Смотритель за порядком, oрганизатор и администратор международных турниров, хранитель вики |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Вымирающий вид |
 
 Помимо всех этих людей, в osu! также есть [служба поддержки](Account_support_team). Она приходит на помощь в сложных ситуациях и решает вопросы, связанные с игровыми аккаунтами.
@@ -71,6 +72,7 @@ tags:
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Организатор и администратор международных турниров |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Организатор и администратор международных турниров, лидер QAT, менеджер сообщества |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Автор эпичных скинов, соавтор стандартного скина и иконок. [Профиль на DeviantArt](https://luigihann.deviantart.com/) |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Советник по вопросам моддинга и маппинга |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Разработчик osu!, автор mm-слайдеров |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Разработчик osu! под iPhone |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Разработчик osu!, организатор гильдии мапперов |
@@ -79,12 +81,14 @@ tags:
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Автор концепта pippi и дизайнер артворков. [Профиль на DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Менеджер и лидер коммьюнити в ранние годы, соавтор FAQ и регулярных встреч |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик osu! и системы pp |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Смотритель за порядком, oрганизатор и администратор международных турниров, хранитель вики |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Разработчик osu! и автор режима osu!mania |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Менеджер [osu!store](https://osu.ppy.sh/store/listing) |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Профессор [osu!academy](/wiki/osu!academy), дизайнер персонажей и различных медиа |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Аргентина"
 [flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
+[flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
 [flag_CA]: /wiki/shared/flag/CA.gif "Канада"
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"
 [flag_CN]: /wiki/shared/flag/CN.gif "Китай"

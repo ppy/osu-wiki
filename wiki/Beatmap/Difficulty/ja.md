@@ -5,13 +5,14 @@ tags:
   - 星
   - 星評価
   - SR
+outdated: true
 ---
 
 # 難易度
 
 *[ビートマップ](/wiki/Beatmap)と混同しないでください。*
 
-ビートマップの**難易度**とは、ゲームレベルのことで[拡張子`.osu`](/wiki/osu!_File_Formats/Osu_(file_format))にテキストファイルとして保存されます。これは特定の[ゲームモード](/wiki/Game_mode)の[ヒットオブジェクト](/wiki/Hit_object)で構成されており、特定の曲の[タイミング](/wiki/Glossary#timing-section)に合わせて設定されています。難易度には様々な側面があり、ユーザーの体験に直接影響します。難易度の名前と[星評価](/wiki/Beatmapping/Star_rating)を見れば、どの程度の難易度であるかが把握できるようになっています。
+ビートマップの**難易度**とは、ゲームレベルのことで[拡張子`.osu`](/wiki/osu!_File_Formats/Osu_(file_format))にテキストファイルとして保存されます。これは特定の[ゲームモード](/wiki/Game_mode)の[ヒットオブジェクト](/wiki/Hit_object)で構成されており、特定の曲の[タイミング](/wiki/Beatmapping/Timing_section)に合わせて設定されています。難易度には様々な側面があり、ユーザーの体験に直接影響します。難易度の名前と[星評価](/wiki/Beatmapping/Star_rating)を見れば、どの程度の難易度であるかが把握できるようになっています。
 
 難易度のヒットオブジェクトは[パターン](/wiki/Beatmap/Pattern)を構成しますが、ゲームモードごとに異なり、難易度をプレイする際の全体的なルックアンドフィールのトーンを設定します。ビートマップのゲーム性は、ビートマップの作者が設定する様々な[難易度設定](/wiki/Beatmap_Editor/Song_Setup#difficulty)や、[ゲームモディファイア](/wiki/Game_modifier)によって変更されます。
 

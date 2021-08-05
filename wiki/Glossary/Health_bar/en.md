@@ -11,7 +11,7 @@ tags:
 
 *For health as a mechanic, see: [Health](/wiki/Beatmapping/Health)*
 
-The **health bar** (also known as the *HP bar*) is a bar which displays a player's remaining [health](/wiki/Beatmapping/Health). In all [game modes](/wiki/Game_mode) expect [osu!mania](/wiki/Game_mode/osu!mania), there is an indicator moving along the health bar that shows a player's current health.
+The **health bar** (also known as the *HP bar*) is a bar which displays a player's remaining [health](/wiki/Beatmapping/Health). In all [game modes](/wiki/Game_mode) except [osu!mania](/wiki/Game_mode/osu!mania), there is an indicator moving along the health bar that shows a player's current health.
 
 In [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch), if the health bar drains completely, the player will fail the current [beatmap](/wiki/Beatmap) (assuming no special game modifiers are enabled).
 

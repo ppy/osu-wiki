@@ -16,7 +16,7 @@ The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elim
 | --: | :-- |
 | Registration phase | 2018-08-13/2018-09-07 |
 | Live drawings | 2018-09-09 |
-| Group Stage | 2018-09-15/2018-09-23 |
+| Group stage | 2018-09-15/2018-09-23 |
 | Round of 16 | 2018-09-29/2018-09-30 |
 | Quarterfinals | 2018-10-06/2018-10-07 |
 | Semifinals | 2018-10-13/2018-10-14 |
@@ -31,7 +31,7 @@ The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elim
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-![RDOC 2018 winner badge](img/badge.png)
+![](img/badge.png "RDOC 2018 winner badge")
 
 ## Organisation
 
@@ -40,7 +40,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
-| Map selector | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_IL] [Xilver](https://osu.ppy.sh/users/3099689) |
+| Mappool selector | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_IL] [Xilver](https://osu.ppy.sh/users/3099689) |
 | Referee | ![][flag_DK] [Anderzs](https://osu.ppy.sh/users/10796791), ![][flag_DK] [ArgetShurtugal](https://osu.ppy.sh/users/4401687), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_DK] [Micropose](https://osu.ppy.sh/users/11140740), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529), ![][flag_RU] [Ultraanus](https://osu.ppy.sh/users/5371851) |
 | Streamer | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
 | Commentator | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [ravioli boi2004](https://osu.ppy.sh/users/9450032), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [Tona](https://osu.ppy.sh/users/2678812), ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
@@ -51,10 +51,10 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/788769)
-- [RDOC Discord server](https://discord.gg/JhBkmzE)
-- [Livestream](https://www.twitch.tv/royaldanishosucup)
-- [Challonge brackets](https://challonge.com/rdoc2018)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19z2AC5TN80G0eaQGs_6yVsTgfu5d9Huy5Q7EiibZnuQ/edit?usp=sharing)**
+- [RDOC Discord server](https://discord.gg/JhBkmzE "Discord")
+- [Livestream](https://www.twitch.tv/royaldanishosucup "Twitch")
+- [Challonge brackets](https://challonge.com/rdoc2018 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19z2AC5TN80G0eaQGs_6yVsTgfu5d9Huy5Q7EiibZnuQ "Google Sheets")**
 
 ## Participants
 
@@ -225,7 +225,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[sasakure.UK - ChRoNiClESeVeN feat. Annabel \[Flora\]](https://osu.ppy.sh/beatmapsets/775590#osu/1629799)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Yonezawa Madoka - Responsibility Response \[Pathetique\]](https://osu.ppy.sh/beatmapsets/276997#osu/706817)
@@ -256,13 +256,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Saturday, 2018-10-27:
+Saturday, 27 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Spork Lover** ![][flag_DK] | **7** | 4 | ![][flag_DK] raser1234 |
 
-Sunday, 2018-10-28:
+Sunday, 28 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -271,14 +271,14 @@ Sunday, 2018-10-28:
 
 ### Finals
 
-Saturday, 2018-10-20:
+Saturday, 20 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Spork Lover** ![][flag_DK] | **6** | 3 | ![][flag_DK] Vandabe |
 | LB | Space Potato ![][flag_DK] | 0 | **6** | ![][flag_DK] **Telomere** |
 
-Sunday, 2018-10-21:
+Sunday, 21 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -287,25 +287,25 @@ Sunday, 2018-10-21:
 
 ### Semifinals
 
-Wednesday, 2018-10-10:
+Wednesday, 10 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Telomere** ![][flag_DK] | **6** | 0 | ![][flag_DK] Katachi |
 
-Thursday, 2018-10-11:
+Thursday, 11 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **My Aim Zogs** ![][flag_DK] | **6** | 1 | ![][flag_DK] eLLezH |
 
-Friday, 2018-10-12:
+Friday, 12 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | Space Potato ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
 
-Saturday, 2018-10-13:
+Saturday, 13 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -313,7 +313,7 @@ Saturday, 2018-10-13:
 | LB | **Vandabe** ![][flag_DK] | **6** | 0 | ![][flag_DK] Pallerik |
 | LB | Zakura ![][flag_DK] | 0 | **6** | ![][flag_DK] **waefwerf** |
 
-Sunday, 2018-10-14:
+Sunday, 14 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -322,13 +322,13 @@ Sunday, 2018-10-14:
 
 ### Quarterfinals
 
-Thursday, 2018-10-04:
+Thursday, 4 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **waefwerf** ![][flag_DK] | **6** | 0 | ![][flag_DK] Contaminate |
 
-Saturday, 2018-10-06:
+Saturday, 6 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -336,7 +336,7 @@ Saturday, 2018-10-06:
 | UB | Vandabe ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
 | UB | Zakura ![][flag_DK] | 0 | **6** | ![][flag_DK] **Spork Lover** |
 
-Sunday, 2018-10-07:
+Sunday, 7 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -347,7 +347,7 @@ Sunday, 2018-10-07:
 
 ### Round of 16
 
-Saturday, 2018-09-29:
+Saturday, 29 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -356,7 +356,7 @@ Saturday, 2018-09-29:
 | UB | **Vandabe** ![][flag_DK] | **5** | 1 | ![][flag_DK] Katachi |
 | UB | Pallerik ![][flag_DK] | 0 | **5** | ![][flag_DK] **Cerkie** |
 
-Sunday, 2018-09-30:
+Sunday, 30 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -365,9 +365,9 @@ Sunday, 2018-09-30:
 | UB | **raser1234** ![][flag_DK] | **5** | 0 | ![][flag_DK] Tona |
 | UB | RipG ![][flag_DK] | 0 | **5** | ![][flag_DK] **Zakura** |
 
-### Group Stage
+### Group stage
 
-Saturday, 2018-09-15:
+Saturday, 15 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -386,7 +386,7 @@ Saturday, 2018-09-15:
 | F | **Katachi** ![][flag_DK] | **4** | 0 | ![][flag_DK] Waven7 |
 | F | **Spork Lover** ![][flag_DK] | **4** | 0 | ![][flag_DK] \[THEDUCK\] |
 
-Sunday, 2018-09-16:
+Sunday, 16 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -406,7 +406,7 @@ Sunday, 2018-09-16:
 | B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] Syncopate |
 | B | waefwerf ![][flag_DK] | 3 | **4** | ![][flag_DK] **Telomere** |
 
-Saturday, 2018-09-22:
+Saturday, 22 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -418,7 +418,7 @@ Saturday, 2018-09-22:
 | E | Kinety ![][flag_DK] | 2 | **4** | ![][flag_DK] **eLLezH** |
 | D | FeelDaTonneh ![][flag_DK] | 1 | **4** | ![][flag_DK] **Contaminate** |
 
-Sunday, 2018-09-23:
+Sunday, 23 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |

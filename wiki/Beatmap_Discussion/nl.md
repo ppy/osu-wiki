@@ -34,21 +34,21 @@ Het is belangrijk om een paar dingen te onthouden zodat je de beatmapdiscussiepa
 
 ## Modusselectie
 
-![](img/mode-selection.jpg "Modusselectie")
+![](img/mode-selection.png "Modusselectie")
 
-Modusselectie verandert de [spelmodus](/wiki/Game_mode) waarvoor je modt. Het is enkel mogelijk om een bepaalde spelmodus te selecteren als de beatmapset een moeilijkheidsgraad heeft van die spelmodus. Dit wordt enkel gebruikt voor beatmaps die meerdere spelmodi bevatten; anders zal gewoon de spelmodus waarvoor gemapt werd gebruikt worden.
+Modusselectie verandert de [spelmodus](/wiki/Game_mode) waarvoor je modt. Het is enkel mogelijk om een bepaalde spelmodus te selecteren als de beatmap een moeilijkheidsgraad heeft van die spelmodus. Dit wordt enkel gebruikt voor beatmaps die meerdere spelmodi bevatten; anders zal gewoon de spelmodus waarvoor gemapt werd gebruikt worden.
 
 ## Beatmaphoofding
 
 *Voor meer info over het instellen van metadata, zie: [Song Setup § Muziek en Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
-![](img/beatmap-header.jpg "Beatmaphoofding")
+![](img/beatmap-header.png "Beatmaphoofding")
 
 De beatmaphoofding geeft de titel en artiest die in de [beatmap editor](/wiki/Beatmap_Editor). Als je op de beatmaphoofding klikt zal je terug naar de informatiepagina navigeren.
 
 ## Moeilijkheidsgraadmenu
 
-![](img/difficulty-menu.jpg "Moeilijkheidsgraadmenu")
+![](img/difficulty-menu.png "Moeilijkheidsgraadmenu")
 
 Je kan de verschillende [moeilijkheidsgraden](/wiki/Beatmap/Difficulty) selecteren via het uitklapmenu. Dit zal alle beschikbare moeilijkheidsgraden tonen, ook oudere, verwijderde moeilijkheidsgraden die suggesties/problemen hadden. Het cijfer dat verschijnt naast de naam van een moeilijkheidsgraad staat voor de hoeveelheid posts die niet opgelost werden voor die specifieke moeilijkheidsgraad. Het is belangrijk om dit menu grondig te controleren vooraleer je mods inzendt.
 
@@ -84,7 +84,7 @@ De beatmapstatusbalk toont alle relevante info over de plek van een beatmap in d
 
 ### Hype train
 
-De hype trein volgt hoeveel [hypes](/wiki/Beatmap/Hype) een beatmapset ontvangen heeft. Zodra 5 hypes bereikt zijn kan de beatmap genomineerd worden door de [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Hypes kunnen enkel gegeven worden door naar het `Algemeen (Alle Moeilijkheidgraden)`-tabblad te gaan, je kan dit niet doen via de `Algemeen`- of de `Tijdlijn`-tabbladen. Als je op de `Hype`-knop klikt zal je automatisch naar het juiste tabblad gaan.
+De hype trein volgt hoeveel [hypes](/wiki/Beatmap/Hype) een beatmap ontvangen heeft. Zodra 5 hypes bereikt zijn kan de beatmap genomineerd worden door de [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Hypes kunnen enkel gegeven worden door naar het `Algemeen (Alle Moeilijkheidgraden)`-tabblad te gaan, je kan dit niet doen via de `Algemeen`- of de `Tijdlijn`-tabbladen. Als je op de `Hype`-knop klikt zal je automatisch naar het juiste tabblad gaan.
 
 ### Nominatiestatus
 
@@ -92,7 +92,7 @@ De nominatiestatusbalk volgt het aantal nominaties van een beatmap. Wanneer een 
 
 ### Algemene info
 
-Algemene info toont de maker van een beatmapset, de datum waarop ze werd ingezonden en de datum waarop ze voor het laatst werd geüpdatet.  [Statusveranderingen](/wiki/Beatmap), zoals een beatmap die Ranked, Loved of op de begraafplaats geraakt, worden ook beschouwd als updates en zal hier ook weergegeven worden.
+Algemene info toont de maker van een beatmap, de datum waarop ze werd ingezonden en de datum waarop ze voor het laatst werd geüpdatet.  [Statusveranderingen](/wiki/Beatmap), zoals een beatmap die Ranked, Loved of op de begraafplaats geraakt, worden ook beschouwd als updates en zal hier ook weergegeven worden.
 
 ### Volg/Ontvolg
 
@@ -108,7 +108,7 @@ De `Beatmappagina`-knop brengt je naar de infopagina van een beatmap. Je kan ook
 
 Modden gebeurt via drie tabbladen, die de verschillende types van posts opsplitst in overzichtelijke indelingen. Een vierde tabblad houdt bovendien alle veranderingen bij. Het cijfer naast elk tabblad staat voor het aantal posts hierin.
 
-`Algemeen (Alle moeilijkheidsgraden)` toont posts die van toepassing zijn op alle moeilijkheidsgraden. Veel voorkomende posts in dit tabblad zijn metadata, notities en discussie over de beatmapset in het geheel.
+`Algemeen (Alle moeilijkheidsgraden)` toont posts die van toepassing zijn op alle moeilijkheidsgraden. Veel voorkomende posts in dit tabblad zijn metadata, notities en discussie over de beatmap in het geheel.
 
 `Algemeen (Deze moeilijkheigraad)` toont posts die enkel van toepassing zijn op de moeilijkheidsgraad die op dat moment is geselecteerd. Veel voorkomende posts in dit tabblad zijn onder andere de beatmapinstellingen, terugkerende problemen en algemene discussie over de geselecteerde moeilijkheidsgraad.
 
@@ -132,7 +132,7 @@ Als je post in het `Tijdlijn`-tabblad, moet je een tijdsmarkering opnemen in jou
 
 Discussies is waar posts uit het [inzendingsveld](#submission-field) geplaatst worden wanneer ze eenmaal zijn ingezonden. Gebruikers die een discussiepagina bezoeken kunnen alle posts zijn die door andere gebruikers werden gemaakt, en kunnen deelnemen aan de discussie. Dit kan door op de `Reageer`- of `Antwoord`-knoppen onder een post te klikken en een antwoord te schrijven.
 
-De maker van de beatmapset en de auteur van een modpost hebben de mogelijkheid om problemen te sluiten met de `Markeer als Opgelost`-knop. Dit markeert voor andere gebruikers dat het probleem behandeld werd en verwijdert het ook uit de  `Afwachtend` [sorteeroptie](#sorting-options). Modposts kunnen heropend worden door eenderwelke gebruiker door opnieuw te reageren op een post en op de `Antwoord en Heropen`-knop te klikken. Dit wordt gebruikt wanneer modders gesloten problemen ontdekken die eigenlijk niet volledig opgelost werden, of wanneer een onderwerp verdere discussie vereist.
+De maker van de beatmap en de auteur van een modpost hebben de mogelijkheid om problemen te sluiten met de `Markeer als Opgelost`-knop. Dit markeert voor andere gebruikers dat het probleem behandeld werd en verwijdert het ook uit de  `Afwachtend` [sorteeroptie](#sorting-options). Modposts kunnen heropend worden door eenderwelke gebruiker door opnieuw te reageren op een post en op de `Antwoord en Heropen`-knop te klikken. Dit wordt gebruikt wanneer modders gesloten problemen ontdekken die eigenlijk niet volledig opgelost werden, of wanneer een onderwerp verdere discussie vereist.
 
 ### Discussies sorteren
 

@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # 常见问题
 
 *主页面：[osu! wiki 贡献指南](/wiki/osu!_wiki_Contribution_Guide).*
@@ -10,15 +6,15 @@ outdated: true
 
 这个问题也被表述为：“我的所有提交都是 `Update en.md` ”，或者相似的内容。
 
-如果有人告诉你要使用有意义的提交信息，或者你的所有提交信息都是一样的，这意味着你当你在网页上移动，编辑或者删除文件时，没有使用有意义的提交信息。
+如果有人告诉你要使用有意义的提交信息，或者你的所有提交信息都是一样的，这意味着你当你在 Github 网页上移动，编辑或者删除文件时，没有使用有意义的提交信息。
 
 一个有意义的提交信息可以使别人直观地理解你的所有修改，而不需要看 GitHub diff。提交信息有 72 个字符的限制，所以你需要尽量简洁的描述。如果你在精简信息时需要困难，你需要分割所修改的内容，进行多次提交。**请记住，`Update en.md` 或者相似的句子没有实际价值，因为别人不知道你具体做出了哪些修改，或者修改了哪篇文章。**
 
 ---
 
-为了解决这个问题（同时适用于桌面客户端和网页）:
+为了解决这个问题（同时适用于桌面客户端和 Github 网页）:
 
-1. 打开你的 osu-wiki 仓库主页。
+1. 打开你的 `osu-wiki` 仓库主页。
 2. 创建一个新的分支并为它命名。
 3. 开一个 Pull Request。
 4. 如果 `base fork` 和 `head fork` 下拉菜单没有出现，点击 `compare across forks` 链接。
@@ -44,26 +40,44 @@ outdated: true
 
 ## 我的分支过期了！
 
+*注意： `master` 是你fork仓库的主分支。它应该是一份纯粹的 `osu-wiki` 仓库中 `master` 分支的复刻，不包含其他任何编辑内容*
+
 你从 `osu-wiki` 仓库创建你自己的仓库，相当于保存了一份那个时刻的快照。问题在于，你的仓库不会自动与原始的仓库同步，GitHub 上也没有为你做这件事的银弹。（注：“银弹”指的是任何情况下都管用的方法，相当于中文常说的“万能药”，这句话的原文意思是：没有一个完美的方法可以让两个仓库时刻保持同步。）
+
+1. 前往你 fork 的 `osu-wiki` 仓库。
+2. 从分支管理的下拉列表中选择要更新的分支。
+
+![](img/select-branch.png "在 fork 仓库中选择过时分支")
+
+3. 点击 `Fetch upstream`，然后点击 `Fetch and merge`。
+
+![](img/update-branch.png "更新过时分支")
+
+现在你的 master 分支已经与 `ppy:master` 分支同步！
 
 ---
 
-为了解决这个问题，可以使用一个叫做 [Upriver](https://upriver.github.io/) 的网站。正如网站介绍上所言，它可以“只使用 GitHub API，轻松地使你的 GitHub 仓库与上游仓库同步”。
+尽管该功能本身的功能有限，但该解决方案在大多数情况下都能正常工作。例如，它不允许你覆盖分支上的任何不需要的更改，因为它只合并上游 `master` 分支。
 
-1. 进入 [Upriver](https://upriver.github.io/)。
-2. 点击 `Sign in with GitHub`，如果已经登录就跳过这一步。
-3. 点击 `Authorize upriver`，如果已经授权就跳过这一步。
-4. 像下面这样选择：
-   - into: *选择你自己的 `osu-wiki` 仓库*
-   - branch: `master`
-   - from: `ppy/osu-wiki`
-   - branch: `master`
-   - force?: 勾选
-5. 点击 `Pull`。
-6. 点击 `Close`。
-7. （现在你可以关闭 Upriver）。
+如果你在使用 GitHub 工具时遇到任何问题，或者您想覆写你分支的内容，您可以使用 osu!wiki 共享人员编写的工作流程。
 
-如果没有错误发生，你的 master 分支已经与 `ppy:master` 分支同步，你现在可以从你的仓库的 master 分支创建新的分支，而不会有冲突问题。
+1. 打开**你的 fork 仓库** 然后前往 `Actions` 栏。
+2. 在 `Workflows` 中找到 `Sync from osu! upstream`。
+3. 点击 `Run workflow` 并填写选项:
+
+![GitHub Actions 工作流程 - 运行工作流程](img/github-actions-workflow-dialog.png "GitHub Actions 工作流程 - 运行工作流程")
+
+- **Use workflow from**：你想要同步的分支，默认被设置为 `master` 。
+- **Overwrite any changes in the target repository**：
+  - `true`：将覆盖你分支所有的更改并替换为 `ppy/osu-wiki` 的 `master` 分支内容。
+  - `false`（默认）：将你的更改与 `ppy/osu-wiki` 合并。
+- **Create a backup of your target branch**：
+  - `true`：创建一个名为 `backup-{你的分支名}` 的分支并在这个分支对你的分支进行备份
+  - `false`（默认）：不创建备份。
+
+4. 点击 `Run Workflow` 按钮并等待 workflow 完成。如果你想知道这个工具如何工作，你可以在 workflow task 中点击 `Sync from osu! upstream`。
+
+![GitHub Actions 工作流程 - 工作流程 总览](img/github-actions-workflow-overview.png "GitHub Actions 工作流程 - 工作流程 总览")
 
 ## 我的 Pull Request 有冲突！
 

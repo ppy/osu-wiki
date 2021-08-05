@@ -31,7 +31,7 @@ The **Royal Danish osu!Cup 2019** (***RDOC 2019***) was a Danish 1v1 double-elim
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-![RDOC 2019 winner badge](img/badge.png)
+![](img/badge.png "RDOC 2019 winner badge")
 
 ## Organisation
 
@@ -40,7 +40,7 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
-| Map selector | ![][flag_ES] [CapoeiraDoMorte](https://osu.ppy.sh/users/6141330), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
+| Mappool selector | ![][flag_ES] [CapoeiraDoMorte](https://osu.ppy.sh/users/6141330), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
 | Referee | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [I eat ass 47](https://osu.ppy.sh/users/5323224), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
 | Streamer | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) |
 | Commentator | ![][flag_DK] [ADanishWaffle](https://osu.ppy.sh/users/8117977), ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Chrv123](https://osu.ppy.sh/users/9125328), ![][flag_IE] [ez sucks](https://osu.ppy.sh/users/13681283), ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020), ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_DK] [Vitalia](https://osu.ppy.sh/users/9450032), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) |
@@ -51,10 +51,10 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1008659)
-- [RDOC Discord server](https://discord.gg/JhBkmzE)
-- [Livestream](https://www.twitch.tv/royaldanishosucup)
-- [Challonge brackets](https://challonge.com/rdoc2019)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1BQdMhY_3cX1qQytr3X0yszqjFNwOQ_yd8CVnwQaArOk/edit?usp=sharing)**
+- [RDOC Discord server](https://discord.gg/JhBkmzE "Discord")
+- [Livestream](https://www.twitch.tv/royaldanishosucup "Twitch")
+- [Challonge brackets](https://challonge.com/rdoc2019 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1BQdMhY_3cX1qQytr3X0yszqjFNwOQ_yd8CVnwQaArOk "Google Sheets")**
 
 ## Participants
 
@@ -109,7 +109,7 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 - NoMod
-  - [Eve - Gekka*Midare Botan [Meg&Roll_Pan's E-Xtra]](https://osu.ppy.sh/beatmapsets/530685#osu/1124857)
+  - [Eve - Gekka\*Midare Botan [Meg&Roll\_Pan's E-Xtra]](https://osu.ppy.sh/beatmapsets/530685#osu/1124857)
   - [cosMo@BousouP - Oceanus [Blessing of Seas]](https://osu.ppy.sh/beatmapsets/898401#osu/1876720)
   - [YUC'e - Future Cider [Future Sliders]](https://osu.ppy.sh/beatmapsets/720558#osu/1521299)
   - [HyuN - Grin [Extreme]](https://osu.ppy.sh/beatmapsets/947770#osu/1979462)
@@ -121,7 +121,7 @@ This competition has come to an end and resulted in the following podium:
 - Hardrock
   - [Kaneko Chiharu - - FALLEN - [DeviousPanda's INFINITE]](https://osu.ppy.sh/beatmapsets/740990#osu/1925633)
   - [USAO - Night sky [5ymphonia]](https://osu.ppy.sh/beatmapsets/376397#osu/824085)
-  - [-45 - dogura * magura [AKUMA]](https://osu.ppy.sh/beatmapsets/43856#osu/137572)
+  - [-45 - dogura \* magura [AKUMA]](https://osu.ppy.sh/beatmapsets/43856#osu/137572)
 - DoubleTime
   - [T.M.Revolution x Mizuki Nana - Preserved Roses [Collab Insane]](https://osu.ppy.sh/beatmapsets/223530#osu/528310)
   - [zts - miragecoordinator [Collab Expert]](https://osu.ppy.sh/beatmapsets/1085924#osu/2270798)
@@ -190,7 +190,7 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 - NoMod
-  - [fhana - Watashi no Tame no Monogatari ~My Uncompleted Story~ [Story]](https://osu.ppy.sh/beatmapsets/901484#osu/1906993)
+  - [fhana - Watashi no Tame no Monogatari \~My Uncompleted Story\~ [Story]](https://osu.ppy.sh/beatmapsets/901484#osu/1906993)
   - [wa. - Black Lotus [sdafsf's Extra]](https://osu.ppy.sh/beatmapsets/679918#osu/1538383)
   - [Reol - Gokusaishiki [Myriad of Colors]](https://osu.ppy.sh/beatmapsets/422369#osu/916972)
   - [kamome sano - sparkle (2015 rework) [Extra]](https://osu.ppy.sh/beatmapsets/332622#osu/736394)
@@ -228,11 +228,11 @@ This competition has come to an end and resulted in the following podium:
   - [sana - Kokuhaku Rival Sengen [First Love]](https://osu.ppy.sh/beatmapsets/301561#osu/676193)
   - [Fractal Dreamers - Gardens Under A Spring Sky [AF's Another]](https://osu.ppy.sh/beatmapsets/962862#osu/2023743)
 - DoubleTime
-  - [ODDEEO + Karma Wears White Ties - Chinatown Blues [feat. Megpoid Gumi] [>the_past_of_the_future]](https://osu.ppy.sh/beatmapsets/883669#osu/1847192)
+  - [ODDEEO + Karma Wears White Ties - Chinatown Blues [feat. Megpoid Gumi] [>the\_past\_of\_the\_future]](https://osu.ppy.sh/beatmapsets/883669#osu/1847192)
   - [AKINO with bless4 - cross the line [Doormat's Hard]](https://osu.ppy.sh/beatmapsets/513457#osu/1099395)
 - Freemod
   - [The Chainsmokers & Coldplay - Something Just Like This [Regou's Insane]](https://osu.ppy.sh/beatmapsets/611301#osu/1312787)
-  - [Zektbach - Turii ~Panta rhei~ [Insane]](https://osu.ppy.sh/beatmapsets/800638#osu/1680864)
+  - [Zektbach - Turii \~Panta rhei\~ [Insane]](https://osu.ppy.sh/beatmapsets/800638#osu/1680864)
 - Tiebreaker
   - **[LU-I - wistaria [Salvation]](https://osu.ppy.sh/beatmapsets/391617#osu/852986)**
 
@@ -279,13 +279,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Saturday, 2020-04-04:
+Saturday, 4 April 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Vandabe** ![][flag_DK] | **7** | *forfeit* | ![][flag_DK] Tikzyy |
 
-Sunday, 2020-04-05:
+Sunday, 5 April 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -293,14 +293,14 @@ Sunday, 2020-04-05:
 
 ### Finals
 
-Saturday, 2020-03-28:
+Saturday, 28 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Spork Lover** ![][flag_DK] | **7** | 1 | ![][flag_DK] Vandabe |
 | LB | Pablohh ![][flag_DK] | *forfeit* | **7** | ![][flag_DK] **Lothjon** |
 
-Sunday, 2020-03-29:
+Sunday, 29 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -309,7 +309,7 @@ Sunday, 2020-03-29:
 
 ### Semifinals
 
-Saturday, 2020-03-21:
+Saturday, 21 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -318,7 +318,7 @@ Saturday, 2020-03-21:
 | LB | OwOMarco ![][flag_DK] | 2 | **6** | ![][flag_DK] **Zakura** |
 | UB | **Spork Lover** ![][flag_DK] | **6** | *forfeit* | ![][flag_DK] Pablohh |
 
-Sunday, 2020-03-22:
+Sunday, 22 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -329,7 +329,7 @@ Sunday, 2020-03-22:
 
 ### Quarterfinals
 
-Saturday, 2020-03-14:
+Saturday, 14 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -341,7 +341,7 @@ Saturday, 2020-03-14:
 | UB | **Pablohh** ![][flag_DK] | **5** | 2 | ![][flag_DK] Tenaxzity |
 | LB | **teamplayer51** ![][flag_DK] | **5** | 3 | ![][flag_DK] Arild |
 
-Sunday, 2020-03-15:
+Sunday, 15 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -357,7 +357,7 @@ Sunday, 2020-03-15:
 
 ### Round of 16
 
-Saturday, 2020-03-07:
+Saturday, 7 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -368,7 +368,7 @@ Saturday, 2020-03-07:
 | LB | NoSync ![][flag_DK] | 0 | **5** | ![][flag_DK] **Sagon** |
 | LB | Cittasnaf ![][flag_DK] | 4 | **5** | ![][flag_DK] **kim1998** |
 
-Sunday, 2020-03-08:
+Sunday, 8 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -384,14 +384,14 @@ Sunday, 2020-03-08:
 
 ### Round of 32
 
-Friday, 2020-02-28:
+Friday, 28 February 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Malach** ![][flag_DK] | **4** | 1 | ![][flag_DK] Sagon |
 | UB | Zakura ![][flag_DK] | 3 | **4** | ![][flag_DK] **Haikuna** |
 
-Saturday, 2020-02-29:
+Saturday, 29 February 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
@@ -402,7 +402,7 @@ Saturday, 2020-02-29:
 | UB | **Drayko** ![][flag_DK] | **4** | 2 | ![][flag_DK] Micropose |
 | UB | **Tikzyy** ![][flag_DK] | **4** | 0 | ![][flag_DK] LiquidMinds |
 
-Sunday, 2020-03-01:
+Sunday, 1 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |

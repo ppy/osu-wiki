@@ -1,6 +1,6 @@
-# NC
+# NC (disambiguasi)
 
-**NC** mempunyai beberapa arti:
+**NC** dapat mempunyai beberapa arti:
 
-- [Mod Nightcore](/wiki/Game_modifier/Nightcore).
-- [Kombo baru](/wiki/Beatmapping/New_combo).
+- [Mod Nightcore](/wiki/Game_modifier/Nightcore)
+- [Kombo baru](/wiki/Beatmapping/New_combo)

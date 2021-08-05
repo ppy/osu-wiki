@@ -107,7 +107,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Finals week 2
 
-**[Download the mappack here! (164 MB)](https://drive.google.com/file/d/1skji2yO502KAPe9VHM2EqwbRlmmHq-Oh/view)**
+**[Download the mappack here! (164 MB)](https://drive.google.com/file/d/1skji2yO502KAPe9VHM2EqwbRlmmHq-Oh/view "Google Drive")**
 
 - NoMod
   - [nao - Toaru Shoukoku no Ohime-sama ga (Lyruke) \[Ratifa\]](https://osu.ppy.sh/beatmapsets/1389145#osu/2868816)
@@ -139,7 +139,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Finals week 1
 
-**[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1ijv8NwJ1p-DUCBDoF76ZkTLuwhhPzd0A/view)**
+**[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1ijv8NwJ1p-DUCBDoF76ZkTLuwhhPzd0A/view "Google Drive")**
 
 - NoMod
   - [ABSOLUTE CASTAWAY - SPiNEL (Celine) \[Feline Collab #OITEdit\]](https://osu.ppy.sh/beatmapsets/1401813#osu/2891998)
@@ -171,7 +171,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Semifinals
 
-**[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1cLvH3PG2cnhJSfCTBY9Wqbs3Mbf2w4Ej/view)**
+**[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1cLvH3PG2cnhJSfCTBY9Wqbs3Mbf2w4Ej/view "Google Drive")**
 
 - NoMod
   - [ReoNa - ANIMA (SkyFlame) \[EVERLASTING\]](https://osu.ppy.sh/beatmapsets/1219288#osu/2536719)
@@ -203,7 +203,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Quarterfinals
 
-**[Download the mappack here! (163 MB)](https://drive.google.com/file/d/1cWKli8nWJv5Biw6XMEU_hml1PjsYgHBN/view)**
+**[Download the mappack here! (163 MB)](https://drive.google.com/file/d/1cWKli8nWJv5Biw6XMEU_hml1PjsYgHBN/view "Google Drive")**
 
 - NoMod
   - [Kurosaki Maon - Setsuna no Kajitsu (jonathanlfj) \[captin lfj's Paradise\]](https://osu.ppy.sh/beatmapsets/332112#osu/1900365)
@@ -235,7 +235,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Round of 16
 
-**[Download the mappack here! (100 MB)](https://drive.google.com/file/d/1jB5uAgWW7uv8f7BG0Y8KllXfR6CPUxG1/view)**
+**[Download the mappack here! (100 MB)](https://drive.google.com/file/d/1jB5uAgWW7uv8f7BG0Y8KllXfR6CPUxG1/view "Google Drive")**
 
 - NoMod
   - [Denkishiki Karen Ongaku Shuudan - gemini (Star Stream) \[Extra\]](https://osu.ppy.sh/beatmapsets/182815#osu/438187)
@@ -263,7 +263,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Round of 32
 
-**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bpPhDewj_pXvKkB45Iwzu8JXvcqCJKpT/view)**
+**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bpPhDewj_pXvKkB45Iwzu8JXvcqCJKpT/view "Google Drive")**
 
 - NoMod
   - [Natsume Itsuki - Beginning (Garden) \[Prologue\]](https://osu.ppy.sh/beatmapsets/1173059#osu/2446555)
@@ -291,7 +291,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Qualifiers
 
-**[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1V68Jl6ddSMMXsWiBhA0ZWXoS4aWeLRaA/view)**
+**[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1V68Jl6ddSMMXsWiBhA0ZWXoS4aWeLRaA/view "Google Drive")**
 
 - NoMod
   - [Mary - Vivid (BarkingMadDog) \[Henceforth\]](https://osu.ppy.sh/beatmapsets/1230253#osu/2557665)
@@ -513,7 +513,7 @@ Wednesday, 24 February 2021:
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
     - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from OIT 2021 and/or blacklisted from the future installment(s) of OIT.
-    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/en/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu!team at will.
+    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu!team at will.
     - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of OIT regardless of their role in the smurfing accident.
 
 ### Qualifier rules

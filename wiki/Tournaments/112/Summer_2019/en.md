@@ -1,8 +1,8 @@
 ---
 tags:
-- 112servis
-- 112ST
-- 112ST 2019
+  - 112servis
+  - 112ST
+  - 112ST 2019
 ---
 
 # 112's Summer Tournament 2019
@@ -49,9 +49,9 @@ The 112's Summer Tournament 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/917454)
-- [112's Tournaments Discord server](https://discord.gg/g3nqqeZ)
-- [Livestream](https://www.twitch.tv/osu_turkiye)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1d6JqZWqnZ32nFCgGMcXz3Pc4KyE1iLmU5KpTIg6TEhE/edit)**
+- [112's Tournaments Discord server](https://discord.gg/g3nqqeZ "Discord")
+- [Livestream](https://www.twitch.tv/osu_turkiye "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1d6JqZWqnZ32nFCgGMcXz3Pc4KyE1iLmU5KpTIg6TEhE/edit "Google Sheets")**
 
 ## Participants
 
@@ -96,7 +96,7 @@ The 112's Summer Tournament 2019 was run by various community members.
 | #7 | ![][flag_TR] [withmystyle](https://osu.ppy.sh/users/7953720) | 8.2 |
 | #8 | ![][flag_TR] [empirasu](https://osu.ppy.sh/users/12500084) | 9 |
 | #9 | ![][flag_TR] [emptypudding](https://osu.ppy.sh/users/11003085) | 9.4 |
-| #10 | ![][flag_TR] [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545) | 10.8 | 
+| #10 | ![][flag_TR] [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545) | 10.8 |
 | #11 | ![][flag_TR] [sezaiemre](https://osu.ppy.sh/users/10807430) | 11.4 |
 | #12 | ![][flag_TR] [aimlessplayr](https://osu.ppy.sh/users/4903088) | 11.4 |
 | #13 | ![][flag_TR] [HayunGuys](https://osu.ppy.sh/users/9693852) | 13.4 |
@@ -115,10 +115,10 @@ Only first 16 players from each seed are qualified, the rest is eliminated.
 After Group matches, those who get through to Quarterfinals are obliged to form a team with a player from the other seed.
 
 | Team | 1 - 15K seed | 15K+ seed |
-| :-: | :-- | :-- | 
+| :-: | :-- | :-- |
 | KaFein | ![][flag_DE] [-Kanzaki](https://osu.ppy.sh/users/1652478) | ![][flag_TR] [Fequin](https://osu.ppy.sh/users/11665593) |
 | bum patladın | ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528) | ![][flag_TR] [Tsuda-](https://osu.ppy.sh/users/6713666) |
-| Kwk Yelleri | ![][flag_TR] [KaraElmas](https://osu.ppy.sh/users/9300293) | ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859) | 
+| Kwk Yelleri | ![][flag_TR] [KaraElmas](https://osu.ppy.sh/users/9300293) | ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859) |
 | KFC Managers | ![][flag_TR] [dragonsaga](https://osu.ppy.sh/users/4982690) | ![][flag_TR] [pyth0nix](https://osu.ppy.sh/users/10922849) |
 | eTi dasmjasdk | ![][flag_TR] [edizberkserbest](https://osu.ppy.sh/users/9256771) | ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514) |
 | egemen ve aimless | ![][flag_TR] [egemenbsrms](https://osu.ppy.sh/users/4520477) | ![][flag_TR] [aimlessplayr](https://osu.ppy.sh/users/4903088) |
@@ -133,7 +133,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ### Grand Finals
 
-**[Download the map pack here! (132 MB)](https://112.s-ul.eu/yUBjoWpe)**
+**[Download the map pack here! (132 MB)](https://112.s-ul.eu/yUBjoWpe "s-ul")**
 
 - NoMod
   - [XX:me - Escape (jonathanlfj) \[Freedom\]](https://osu.ppy.sh/beatmapsets/811119#osu/1701563)
@@ -162,7 +162,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ### Finals
 
-**[Download the map pack here! (91 MB)](https://112.s-ul.eu/MBhzkPlU)**
+**[Download the map pack here! (91 MB)](https://112.s-ul.eu/MBhzkPlU "s-ul")**
 
 - NoMod
   - [nano - Nevereverland (zhu) \[Starset’s Redemption\]](https://osu.ppy.sh/beatmapsets/621438#osu/1507079)
@@ -191,7 +191,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ### Semifinals
 
-**[Download the map pack here!(109 MB)](https://drive.google.com/file/d/1F_eyDQuN1zKThMuWwW6wxYP1wa7m_ciY/view)**
+**[Download the map pack here!(109 MB)](https://drive.google.com/file/d/1F_eyDQuN1zKThMuWwW6wxYP1wa7m_ciY/view "Google Drive")**
 
 - NoMod
   - [PSYQUI – Still in my heart feat. Punipuni Denki (Nanashima Asami) \[I’m gonna miss you\]](https://osu.ppy.sh/beatmapsets/964997#osu/2020137)
@@ -220,7 +220,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ### Quarterfinals
 
-**[Download the map pack here! (122 MB)](https://112.s-ul.eu/yIQMxrAl)**
+**[Download the map pack here! (122 MB)](https://112.s-ul.eu/yIQMxrAl "s-ul")**
 
 - NoMod
   - [Son Feci Bisiklet – Viva La Vadi (Pati) \[Green Valley\]](https://osu.ppy.sh/beatmapsets/460386#osu/986011)
@@ -251,7 +251,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 #### 1–15K
 
-**[Download the map pack here! (70 MB)](https://112.s-ul.eu/6D3w5waU)**
+**[Download the map pack here! (70 MB)](https://112.s-ul.eu/6D3w5waU "s-ul")**
 
 - NoMod
   - [Ayalis – Ai o Chikaishi Hime Kazari (handsome) \[Kyshiro’s Extra\]](https://osu.ppy.sh/beatmapsets/506155#osu/1086956)
@@ -275,7 +275,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 #### 15K+
 
-**[Download the map pack here! (88 MB)](https://112.s-ul.eu/aJfLLa0v)**
+**[Download the map pack here! (88 MB)](https://112.s-ul.eu/aJfLLa0v "s-ul")**
 
 - NoMod
   - [Porter Robinson – Flicker (Cyllinus) \[Alonevpk’s Insane\]](https://osu.ppy.sh/beatmapsets/284931#osu/712895)
@@ -301,7 +301,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 #### 1-15K
 
-**[Download the map pack here! (36 MB)](https://112.s-ul.eu/ytXqfkWL)**
+**[Download the map pack here! (36 MB)](https://112.s-ul.eu/ytXqfkWL "s-ul")**
 
 - NoMod
   - [Himeringo – Idola no Circus (Nevo) \[Salvation\]](https://osu.ppy.sh/beatmapsets/902250#osu/1883745)
@@ -311,11 +311,11 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - HardRock
   - [Imperial Circus Dead Decadence – Danzai No Honoo To Koibito-Tachi No Rondo (Gottagof4st) \[Piercing Pain\]](https://osu.ppy.sh/beatmapsets/961431#osu/2012740)
 - DoubleTime
-  - [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](https://zeu.s-ul.eu/XHGcqmAq.osz)
+  - [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](https://zeu.s-ul.eu/XHGcqmAq.osz "s-ul")
 
 #### 15K+
 
-**[Download the map pack here! (33 MB)](https://112.s-ul.eu/VMeQXi78)**
+**[Download the map pack here! (33 MB)](https://112.s-ul.eu/VMeQXi78 "s-ul")**
 
 - NoMod
   - [Memme – Geurida (NeilPerry) \[Mellifluous Miracle\]](https://osu.ppy.sh/beatmapsets/688183#osu/1456417)
@@ -323,7 +323,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - Hidden
   - [ak+q – Axium Crisis (MrSergio) \[Collapse\]](https://osu.ppy.sh/beatmapsets/812551#osu/1704329)
 - HardRock
-  - [Nekomata Master+ – encounter (Sing) \[Frey’s Expert\]](https://zeu.s-ul.eu/Lzk6C8ux.osz)
+  - [Nekomata Master+ – encounter (Sing) \[Frey’s Expert\]](https://zeu.s-ul.eu/Lzk6C8ux.osz "s-ul")
 - DoubleTime
   - [Hate vs Brilliance – Qubism (Regraz) \[Elexus’ HYPER\]](https://osu.ppy.sh/beatmapsets/524503#osu/1802266)
 
@@ -341,13 +341,13 @@ Monday, 19 August 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| KaFein | 5 | **7** | **egemen ve aimless** | [#1]( https://osu.ppy.sh/community/matches/54199892) |
+| KaFein | 5 | **7** | **egemen ve aimless** | [#1](https://osu.ppy.sh/community/matches/54199892) |
 
 Thursday, 22 August 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| KaFein | 6 | **7** | **egemen ve aimless** | [#1]( https://osu.ppy.sh/community/matches/54269710) |
+| KaFein | 6 | **7** | **egemen ve aimless** | [#1](https://osu.ppy.sh/community/matches/54269710) |
 
 ### Finals
 
@@ -355,13 +355,13 @@ Thursday, 15 August 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| bum patladın | 3 | **6** | **egemen ve aimless** | [#1]( https://osu.ppy.sh/community/matches/54101219) |
+| bum patladın | 3 | **6** | **egemen ve aimless** | [#1](https://osu.ppy.sh/community/matches/54101219) |
 
 Friday, 16 August 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **KaFein** | **6** | 2 | Kwk Yelleri | [#1]( https://osu.ppy.sh/community/matches/54123533) |
+| **KaFein** | **6** | 2 | Kwk Yelleri | [#1](https://osu.ppy.sh/community/matches/54123533) |
 
 ### Semifinals
 
@@ -369,20 +369,20 @@ Sunday, 4 August 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **KaFein** | **5** | 4 | egemen ve aimless | [#1]( https://osu.ppy.sh/community/matches/53834185) |
-| bum patladın | 3 | **5** | **Kwk Yelleri** | [#1]( https://osu.ppy.sh/community/matches/53836911) |
+| **KaFein** | **5** | 4 | egemen ve aimless | [#1](https://osu.ppy.sh/community/matches/53834185) |
+| bum patladın | 3 | **5** | **Kwk Yelleri** | [#1](https://osu.ppy.sh/community/matches/53836911) |
 
 Sunday, 11 August 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **bum patladın** | **6** | 3 | KFC Managers | [#1]( https://osu.ppy.sh/community/matches/54005552) |
+| **bum patladın** | **6** | 3 | KFC Managers | [#1](https://osu.ppy.sh/community/matches/54005552) |
 
 Tuesday, 13 August 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **egemen ve aimless** | **6** | 1 | Yürü Baba Fingo | [#1]( https://osu.ppy.sh/community/matches/54055221) |
+| **egemen ve aimless** | **6** | 1 | Yürü Baba Fingo | [#1](https://osu.ppy.sh/community/matches/54055221) |
 
 ### Quarterfinals
 
@@ -390,7 +390,7 @@ Saturday, 27 July 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **KaFein** | **5** | 1 | İsim bulamadık pingleme artık | [#1]( https://osu.ppy.sh/community/matches/53645819) |
+| **KaFein** | **5** | 1 | İsim bulamadık pingleme artık | [#1](https://osu.ppy.sh/community/matches/53645819) |
 
 Sunday, 28 July 2019:
 
@@ -398,14 +398,14 @@ Sunday, 28 July 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **bum patladın** | **1** | 0 | eTi dasmjasdk | *forfeit* |
 | eTi dasmjasdk | 0 | **1** | **Yürü Baba Fingo** | *forfeit* |
-| KFC Managers | 3 | **5** | **egemen ve aimless** | [#1]( https://osu.ppy.sh/community/matches/53666015) |
-| **Kwk Yelleri** | **5** | 2 | Yürü Baba Fingo | [#1]( https://osu.ppy.sh/community/matches/53668619) |
+| KFC Managers | 3 | **5** | **egemen ve aimless** | [#1](https://osu.ppy.sh/community/matches/53666015) |
+| **Kwk Yelleri** | **5** | 2 | Yürü Baba Fingo | [#1](https://osu.ppy.sh/community/matches/53668619) |
 
 Sunday, 4 August 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| İsim bulamadık pingleme artık | 3 | **5** | **KFC Managers** | [#1]( https://osu.ppy.sh/community/matches/53835518) |
+| İsim bulamadık pingleme artık | 3 | **5** | **KFC Managers** | [#1](https://osu.ppy.sh/community/matches/53835518) |
 
 ### Group Matches
 
@@ -413,65 +413,65 @@ Saturday, 20 July 2019:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| A | Iron Man | *forfeit* | *forfeit* | Ekin | 
-| A | **AkashiDagara** | **4** | 0 | huckmen444 | 
-| A | **AkashiDagara** | **4** | 1 | Iron Man | 
-| A | **AkashiDagara** | **4** | 1 | Ekin | 
-| B | **edizberkserbest** | **4** | 2 | Cynesta | 
-| B | **-Kanzaki** | **4** | 0 | edizberkserbest | 
-| B | **-Kanzaki** | **4** | *forfeit* | Ruushin | 
-| B | **edizberkserbest** | **4** | 3 | Ruushin | 
-| B | Ruushin | *forfeit* | **4** | **Cynesta** | 
-| C | **KaraElmas** | **4** | 0 | exporage | 
-| D | star1322 | *forfeit* | **4** | **dragonsaga** | 
-| D | **egemenbsrms** | **4** | 0 | dragonsaga | 
-| D | **egemenbsrms** | **4** | *forfeit* | star1322 | 
-| E | **Tsuda-** | **4** | 2 | Purple\_Glasses | 
-| E | Purple\_Glasses | 0 | **4** | **emptypudding** | 
-| E | Tsuda- | 3 | **4** | **emptypudding** | 
-| F | **tingirmin** | **4** | 0 | sezaiemre | 
-| F | Fequin | 0 | **4** | **tingirmin** | 
-| F | **Fequin** | **4** | 0 | sezaiemre | 
-| G | **mezelyus** | **4** | 1 | empirasu | 
-| G | **empirasu** | **4** | 0 | Ekrem Imamoglu | 
-| G | **mezelyus** | **4** | 0 | Ekrem Imamoglu | 
-| H | **pyth0nix** | **4** | 0 | aimlessplayr | 
-| H | **pyth0nix** | **4** | 0 | withmystyle | 
-| H | withmystyle | 0 | **4** | **aimlessplayr** | 
+| A | Iron Man | *forfeit* | *forfeit* | Ekin |
+| A | **AkashiDagara** | **4** | 0 | huckmen444 |
+| A | **AkashiDagara** | **4** | 1 | Iron Man |
+| A | **AkashiDagara** | **4** | 1 | Ekin |
+| B | **edizberkserbest** | **4** | 2 | Cynesta |
+| B | **-Kanzaki** | **4** | 0 | edizberkserbest |
+| B | **-Kanzaki** | **4** | *forfeit* | Ruushin |
+| B | **edizberkserbest** | **4** | 3 | Ruushin |
+| B | Ruushin | *forfeit* | **4** | **Cynesta** |
+| C | **KaraElmas** | **4** | 0 | exporage |
+| D | star1322 | *forfeit* | **4** | **dragonsaga** |
+| D | **egemenbsrms** | **4** | 0 | dragonsaga |
+| D | **egemenbsrms** | **4** | *forfeit* | star1322 |
+| E | **Tsuda-** | **4** | 2 | Purple\_Glasses |
+| E | Purple\_Glasses | 0 | **4** | **emptypudding** |
+| E | Tsuda- | 3 | **4** | **emptypudding** |
+| F | **tingirmin** | **4** | 0 | sezaiemre |
+| F | Fequin | 0 | **4** | **tingirmin** |
+| F | **Fequin** | **4** | 0 | sezaiemre |
+| G | **mezelyus** | **4** | 1 | empirasu |
+| G | **empirasu** | **4** | 0 | Ekrem Imamoglu |
+| G | **mezelyus** | **4** | 0 | Ekrem Imamoglu |
+| H | **pyth0nix** | **4** | 0 | aimlessplayr |
+| H | **pyth0nix** | **4** | 0 | withmystyle |
+| H | withmystyle | 0 | **4** | **aimlessplayr** |
 
 Sunday, 21 July 2019:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| A | **Iron Man** | **4** | 0 | huckmen444 | 
+| A | **Iron Man** | **4** | 0 | huckmen444 |
 | A | **huckmen444** | **4** | *forfeit* | Ekin |
 | B | Ruushin | *forfeit* | **4** | **Cynesta** |
-| C | **Raikouhou** | **4** | 0 | KaraElmas | 
-| C | **Raikouhou** | **4** | 2 | exporage | 
-| C | **KaraElmas** | **4** | 3 | Mr\_Ege | 
-| C | **Raikouhou** | **4** | 0 | Mr\_Ege | 
-| D | **dragonsaga** | **4** | 1 | Valiente | 
+| C | **Raikouhou** | **4** | 0 | KaraElmas |
+| C | **Raikouhou** | **4** | 2 | exporage |
+| C | **KaraElmas** | **4** | 3 | Mr\_Ege |
+| C | **Raikouhou** | **4** | 0 | Mr\_Ege |
+| D | **dragonsaga** | **4** | 1 | Valiente |
 | D | star1322 | *forfeit* | **4** | **Valiente** |
-| D | **egemenbsrms** | **4** | 1 | Valiente | 
-| E | **Tsuda-** | **4** | *forfeit* | karyuunatsu | 
+| D | **egemenbsrms** | **4** | 1 | Valiente |
+| E | **Tsuda-** | **4** | *forfeit* | karyuunatsu |
 | E | **Purple\_Glasses** | **4** | *forfeit* | karyuunatsu |
 | E | **emptypudding** | **4** | *forfeit* | karyuunatsu |
-| F | **Fequin** | **4** | 0 | amdinstartor | 
-| F | **sezaiemre** | **4** | 3 | amdinstartor | 
-| F | **tingirmin** | **4** | 0 | amdinstartor | 
-| G | **mezelyus** | **4** | 0 | HayunGuys | 
-| G | Ekrem Imamoglu | 0 | **4** | **empirasu** | 
-| H | withmystyle | 0 | **4** | **Horoz** | 
-| H | **pyth0nix** | **4** | 0 | Horoz | 
-| H | **aimlessplayr** | **4** | 0 | Horoz | 
+| F | **Fequin** | **4** | 0 | amdinstartor |
+| F | **sezaiemre** | **4** | 3 | amdinstartor |
+| F | **tingirmin** | **4** | 0 | amdinstartor |
+| G | **mezelyus** | **4** | 0 | HayunGuys |
+| G | Ekrem Imamoglu | 0 | **4** | **empirasu** |
+| H | withmystyle | 0 | **4** | **Horoz** |
+| H | **pyth0nix** | **4** | 0 | Horoz |
+| H | **aimlessplayr** | **4** | 0 | Horoz |
 
 Monday, 22 July 2019:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| B | **-Kanzaki** | **4** | *forfeit* | Cynesta | 
-| C | **Mr\_Ege** | **4** | 0 | exporage | 
-| G | **empirasu** | **4** | 0 | HayunGuys | 
+| B | **-Kanzaki** | **4** | *forfeit* | Cynesta |
+| C | **Mr\_Ege** | **4** | 0 | exporage |
+| G | **empirasu** | **4** | 0 | HayunGuys |
 
 ## Ruleset
 
@@ -482,17 +482,17 @@ Monday, 22 July 2019:
 3. Qualifiers and Group stage matches are in **single-player** format, the Elimination stage is planned as a **2-player team versus** setup.
 4. Beatmap scoring is based on Score V2.
 5. The following seeding method will be used for the tournament:
-   - Top seed will consist of players between **#1 - #15,000.**        
+   - Top seed will consist of players between **#1 - #15,000.**
    - Low seed will consist of players **over #15,000.**
 6. The beatmaps for each round will be announced by the map selectors in advance at least a week before the actual matches take place. Only these beatmaps will be used during the respective matches.
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 7. Match schedule will be decided by tournament staff in accordance with weekly schedule-planning forms.
 8. In the event of a player disconnecting during the match due to connectivity or hardware difficulties;
-   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.        
+   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.
    - The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
 9. Beatmaps cannot be reused in the same match.
 10. All players are supposed to be ready on time for the match. For the players/teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**
-    - During the Group stages, if both players are unable to attend, no points will be awarded.        
+    - During the Group stages, if both players are unable to attend, no points will be awarded.
     - During the Elimination stage, if both teams are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted player(s) will be eliminated if the same situation occurs twice.**
 11. During the Elimination phase, if one of the players of a team is unable to attend the match, on condition of the agreement of both teams, the match can be played in 1v2 format, yet 1v1 is unacceptable. If one of the teams does not agree, the match will be declared as Lose by Default for the team missing a player.
 12. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
@@ -504,7 +504,7 @@ Monday, 22 July 2019:
 
 1. Every user interested in joining the tournament will sign up individually.
    - **Any form of registration, other than the registration form provided in related channels, will be disregarded.**
-2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
+2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ "Discord") for the duration of the tournament.
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
 4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](/wiki/osu!tourney/Prizes#tournament-screening) for more information about tournament screening.
 5. All players eligible to participate in the tournament will be published after the Registration period ends.
@@ -526,9 +526,9 @@ Monday, 22 July 2019:
 13. Players will commence the Double Elimination stages as teams made up of players from each seed. During these stages, the winner moves to the next stage and the losing team gets moved to the Losers bracket.
 14. The mappool for Double Elimination stages contain 17 maps: 5 maps under the NoMod bracket, 3 maps each for the other mod brackets and 1 will be played as Tiebreaker.
 15. **Winning conditions:**
-    - The Group stages will be best of 7 (first team to 4 wins).        
-    - The Quarterfinals and Semifinals will be best of 9 (first team to 5 wins).        
-    - The Finals will be best of 11 (first team to 6 wins).        
+    - The Group stages will be best of 7 (first team to 4 wins).
+    - The Quarterfinals and Semifinals will be best of 9 (first team to 5 wins).
+    - The Finals will be best of 11 (first team to 6 wins).
     - The Grand Finals will be best of 13 (first team to 7 wins).
 
 ### Match instructions
@@ -537,9 +537,9 @@ Monday, 22 July 2019:
    - Room settings are osu!, Head to Head (Group stages) / Team-Vs. (Double Elimination stages), Win Condition: ‘ScoreV2’.
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. After the warm-ups, players will be asked a simple question. Players are given 30 seconds to answer the question, with only 1 chance to answer.
-   - The player/team with correct answer **picks** first.        
-   - The player/team with incorrect answer **bans** first.        
-   - If both players/teams answer correctly, the winner is decided upon the first to answer according to the referee’s screen.        
+   - The player/team with correct answer **picks** first.
+   - The player/team with incorrect answer **bans** first.
+   - If both players/teams answer correctly, the winner is decided upon the first to answer according to the referee’s screen.
    - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
 4. During Group stages, each player can only ban 1 beatmap.
    - **From Quarterfinals onwards, the number of bans increases to 2. However, each player/team may not ban more than one map of any mod bracket (excluding NoMod).**
@@ -553,7 +553,7 @@ Monday, 22 July 2019:
 1. There will be a new mappool for every stage.
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](wiki/Game_Modifiers), [HardRock](wiki/Game_Modifiers), [DoubleTime](wiki/Game_Modifiers) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
-   - The Group stage mappools will have 4 NoMod maps, 2 maps for each of the remaining mod brackets.        
+   - The Group stage mappools will have 4 NoMod maps, 2 maps for each of the remaining mod brackets.
    - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
 4. Each mappool has one tiebreaker.
 5. The NoFail mod may be selected on any map.
@@ -571,7 +571,7 @@ Monday, 22 July 2019:
 3. Players may ask for a reschedule upon agreement with the opponent(s) if the current schedule does not work for them.
 4. Reschedules will only be considered if both players/teams agree to a time at least 24 hours before the first match in that particular stage.
    - If players wish to change the scheduled time within 24 hours until the match, they have to seek for an available referee for the rescheduled time. **Participants cannot use this opportunity more than once.**
-5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.  
+5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"

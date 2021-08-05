@@ -15,7 +15,7 @@ Akun bot hanya dapat dibuat melalui [proses pengajuan](#mendaftarkan-akun-bot). 
 
 ## Keuntungan akun bot
 
-Perbedaan utama antara akun pribadi dan akun bot terdapat pada batas pengiriman pesan dalam [obrolan](/wiki/Chat_Console). Akun bot memiliki batas pengiriman pesan yang lebih tinggi supaya layanan mereka dapat berinteraksi dengan lebih banyak pengguna tanpa risiko membuat akun tersebut [di-silence](/wiki/Glossary#silence):
+Perbedaan utama antara akun pribadi dan akun bot terdapat pada batas pengiriman pesan dalam [obrolan](/wiki/Chat_Console). Akun bot memiliki batas pengiriman pesan yang lebih tinggi supaya layanan mereka dapat berinteraksi dengan lebih banyak pengguna tanpa risiko membuat akun tersebut [di-silence](/wiki/Silence):
 
 - Akun pribadi dalam mengirim 10 pesan per 5 detik
 - Akun bot dapat mengirim 300 pesan per 60 detik

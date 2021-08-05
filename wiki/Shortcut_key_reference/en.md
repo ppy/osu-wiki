@@ -71,7 +71,7 @@ These shortcuts work anywhere:
 | `Shift` + `F2` | Go back to the previously random-selected beatmap. |
 | `F3` | Open the beatmap options. |
 | `F5` | Reprocess beatmaps (this may prompt you to continue). |
-| `Shift` + `Delete` | Prompt the delete beatmap dialog. This will ask you if you want to delete the beatmapset (all difficulties), the beatmap (the selected difficulty), or all visible beatmaps. |
+| `Shift` + `Delete` | Prompt the delete beatmap dialog. This will ask you if you want to delete the beatmap (all difficulties), a single difficulty, or all visible beatmaps. |
 | `Ctrl` + `1` | Switch the game mode to [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/Game_mode/osu!catch). |
@@ -82,10 +82,10 @@ These shortcuts work anywhere:
 | `Ctrl` + `F3` or `Ctrl` + `+` | Increase the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Decrease the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `Backspace` | Delete the last word in the search bar. |
-| `Up/Down Arrow` | Select the next beatmap up/down respectively. |
-| `Left/Right Arrow` | Select the next beatmapset up/down respectively. |
+| `Up/Down Arrow` | Select the next difficulty up/down respectively. |
+| `Left/Right Arrow` | Select the next beatmap up/down respectively. |
 | `Page Up/Down` | Scroll the page up/down respectively. |
-| `Enter` | Enter the current selection (if selecting over a beatmapset or collection group) or being playing a difficulty (if selecting over a beatmap). |
+| `Enter` | Enter the current selection (if selecting over a beatmap or collection group) or being playing a difficulty (if selecting over a beatmap). |
 | `Shift` + `Left/Right Arrow` | Enter the next/previous group. |
 | `Shift` + `Enter` | Expand or collapse the selected group. |
 
@@ -247,7 +247,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `Shift` + `F` | Convert the selected slider into a hit circle stream (opens a dialog). |
 | `Ctrl` + `Left/Right/Up/Down Arrow` | Nudge the selected notes in the pressed direction. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Left/Right Arrow` | Move selected objects left or right one column. (osu!mania) |
-| `Ctrl` + `Up/Down Arrow` | Move selected objects up or down one tick in time. (osu!mania) |
+| `Ctrl` + `Up/Down Arrow` | Move selected objects up or down 1 divisor. (osu!mania) |
 
 #### Hitsounding
 
@@ -280,7 +280,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `C` | Copy the selected sprite. |
 | `Ctrl` + `V` | Paste the sprite at the current time. *Note: Pasted sprites will not be shown on the layer list until the beatmap is saved and reloaded.* |
 | `Delete` | Remove the selected sprite from the layer. |
-| `W`, `A`, `S`, `D` | Nudge the selected sprite up, left, down, or right respectively one [osu!pixel](/wiki/Glossary#osupixel). |
+| `W`, `A`, `S`, `D` | Nudge the selected sprite up, left, down, or right respectively one [osu!pixel](/wiki/osupixel). |
 
 ### Timing
 

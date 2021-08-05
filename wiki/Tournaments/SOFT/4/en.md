@@ -1,7 +1,7 @@
 ---
 tags:
-- SOFT4
-- SOFT 4
+  - SOFT4
+  - SOFT 4
 ---
 
 # Springtime Osu!mania Free-for-all Tournament 4
@@ -58,11 +58,9 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/877866)
-- [Livestream](https://www.twitch.tv/osusoft)
-- [SOFT Discord server](https://discord.gg/qd575a3)
-- [Challonge](https://challonge.com/SOFT4)
-
----
+- [Livestream](https://www.twitch.tv/osusoft "Twitch")
+- [SOFT Discord server](https://discord.gg/qd575a3 "Discord")
+- [Challonge](https://challonge.com/SOFT4 "Challonge")
 
 ## Participants
 
@@ -96,8 +94,6 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 | **O** | ![][flag_ID] \[Crz\]Crysarlene | ![][flag_TH] HowToPlayLN | ![][flag_PH] windrush123 | ![][flag_CA] CommandoBlack |
 | **P** | ![][flag_PL] Tidek | ![][flag_FR] Cunu | ![][flag_JP] \[ misa \] | ![][flag_CA] AndyTechGuy |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -107,8 +103,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [**wonder5193**](https://osu.ppy.sh/users/8474029) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [**Toaph Daddy**](https://osu.ppy.sh/users/7616811) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_TH] [**MyZterioN-**](https://osu.ppy.sh/users/8521723) |
-
----
 
 ## Mappools
 
@@ -268,7 +262,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKWOA0TRgLfbILgmZrDX8Z-erdExLMUt1m7bubJeLdWdbfXDYFjyqYBPUbuHxsRF3NbfuD5oQc7tJ5/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKWOA0TRgLfbILgmZrDX8Z-erdExLMUt1m7bubJeLdWdbfXDYFjyqYBPUbuHxsRF3NbfuD5oQc7tJ5/pubhtml "Google Sheets").**
 
 | Sunday, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -277,7 +271,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 ### Finals
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSrdslXaBHbxEGRP6IfEbQPt4qvdeQcn0T0CZOHnEPhMcKkJWfCnt3-t_7T0vOe_Xeeo6q3T4nWIY0J/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSrdslXaBHbxEGRP6IfEbQPt4qvdeQcn0T0CZOHnEPhMcKkJWfCnt3-t_7T0vOe_Xeeo6q3T4nWIY0J/pubhtml "Google Sheets").**
 
 | Saturday, 2019-06-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -291,7 +285,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 ### Semifinals
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxVoJ1Q5Pjx3BjvXIXrdCdElJukRl8QrgU5FXmcYVfuQTEOcEKpTshd47bdfHDLhpTDN9YlvSKd6e4/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxVoJ1Q5Pjx3BjvXIXrdCdElJukRl8QrgU5FXmcYVfuQTEOcEKpTshd47bdfHDLhpTDN9YlvSKd6e4/pubhtml "Google Sheets").**
 
 | Saturday, 2019-06-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -309,7 +303,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 ### Quarterfinals
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWGQ694lt7C616ImxI28fZuepVS7i-CoTeZbaRpV6-FS-toNG_RtK5g7eZl-DN0K9TVBLogjz83Yzd/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWGQ694lt7C616ImxI28fZuepVS7i-CoTeZbaRpV6-FS-toNG_RtK5g7eZl-DN0K9TVBLogjz83Yzd/pubhtml "Google Sheets").**
 
 | Friday, 2019-05-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -338,7 +332,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 ### Round of 16
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe-QujFZ8gct5OxlE_o6F_rSAPai2KaLLbGgWwuq3WQtt3lsBKpjx2QxhlFRc7KiELXvFfkUS1y6ew/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe-QujFZ8gct5OxlE_o6F_rSAPai2KaLLbGgWwuq3WQtt3lsBKpjx2QxhlFRc7KiELXvFfkUS1y6ew/pubhtml "Google Sheets").**
 
 | Friday, 2019-05-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -366,7 +360,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 ### Round of 32
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vS-WOnb24mNfezpIJ-IXKxljztynL9zSClacdeVrN1lyre89l4eTuQAd74_1NMy_RM3gkc7hpgEMGfr/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS-WOnb24mNfezpIJ-IXKxljztynL9zSClacdeVrN1lyre89l4eTuQAd74_1NMy_RM3gkc7hpgEMGfr/pubhtml "Google Sheets").**
 
 | Saturday, 2019-05-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -392,7 +386,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 ### Group Stage
 
-More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQwI-bvBozP7n9VcPpuKONiacrxTsojwYFykQTpo5Olmb1rJLf6GrXfSMCo-iqFK1MqOnEJ_h19OR/pubhtml).**
+More details can be found **in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQwI-bvBozP7n9VcPpuKONiacrxTsojwYFykQTpo5Olmb1rJLf6GrXfSMCo-iqFK1MqOnEJ_h19OR/pubhtml "Google Sheets").**
 
 | Saturday, 2019-04-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -603,7 +597,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/1MvooEv_AWLs9DaGujlO8Nj3jScPk_zbXprxEPKLv6dI/edit#gid=1475545356).
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1MvooEv_AWLs9DaGujlO8Nj3jScPk_zbXprxEPKLv6dI/edit#gid=1475545356 "Google Sheets").
 
 ## Rules
 
@@ -698,14 +692,14 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
-- Players will be instructed to do a !roll command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
+- Players will be instructed to do a `!roll` command by the referee that is overseeing the match; the losing roll picks the first ban, while the winning roll picks the first song of the match.
 - After the bans and rolls have concluded, the player with the winning roll instructs the referee of their song selection, and the referee will switch to that song. After that song concludes, the other player will pick a song, and this process will continue until one of the two conditions is satisfied:
   1. One player has achieved enough wins in such a way that the other player cannot successfully win the round.
-    - The winning player moves onto the next match.
-    - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
+     - The winning player moves onto the next match.
+     - The losing player falls to the losers bracket. If a player loses in the loser’s bracket, they are eliminated from the tournament.
   2. Both players are at match point at the same time.
-    - Both players will play the song designated as the tiebreaker.
-    - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
+     - Both players will play the song designated as the tiebreaker.
+     - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 - If the beatmap ends in a draw, the game will be nullified and the beatmap will be replayed.
 
 #### Disconnections
@@ -715,34 +709,34 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_DO]: /wiki/shared/flag/DO.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

@@ -10,6 +10,6 @@ stub: true
 
 ## Creating a storyboard
 
-The [Storyboard Editor](/wiki/Beatmap_Editor/Design) (SBE) is located in the Design Tab (keyboard shortcut F2) in the Beatmap Editor. Fundamentally, the SBE offers users an easy way to control the movement of sprites, but is often regarded as clunky and unusable for anything beyond the basics of storyboarding. If you wish to create a widescreen storyboard, you can do so by going to the song setup dialog and checking the Widescreen Support box in the Design tab.
+The [Storyboard Editor](/wiki/Beatmap_Editor/Design) is located in the Design Tab (keyboard shortcut `F2`) of the Beatmap Editor. To create a widescreen storyboard, go to the song setup dialog and check the `Widescreen Support` box in the `Design` tab.
 
-Users skilled in storyboard creation often use the backend code created by the SBE, entitled [Storyboard Scripting](/wiki/Storyboard_Scripting) (SBS) instead, as it offers them more control. See that article for details.
+While the built-in editor offers an easy way to control the movement of sprites, it is often regarded as too hard for anything beyond the basics of storyboarding. As a result, storyboard creators, or [storyboarders](/wiki/Storyboarding/Storyboarder), often use [scripts and third-party programs](/wiki/Storyboard_Scripting) that generate code for osu! storyboards and provide high-level abstractions, such as particle systems.

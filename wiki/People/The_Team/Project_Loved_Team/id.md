@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
 tags:
   - captain
   - captains
@@ -23,9 +25,9 @@ Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpil
 ### osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
+- ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
-- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
 - ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 
 ### osu!catch
@@ -48,14 +50,12 @@ Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpil
 
 Koordinator secara garis besar bertanggung jawab untuk memastikan semua kapten saling bekerja sama antar satu sama lain demi kelancaran Project Loved. Mereka bertugas untuk menulis berita, membuat topik forum, memelihara sumber daya yang ada, serta mengawal opini publik seputar kategori Loved.
 
-- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
 
 ## Peninjau metadata beatmap
 
 Peninjau metadata bertugas untuk memeriksa kesiapan setiap beatmap yang hendak dibawa ke tahapan pemungutan suara. Mereka bekerja sama dengan para pembuat beatmap untuk memperbaiki setiap kesalahan metadata yang ada sebelum beatmap-beatmap yang bersangkutan dipromosikan ke dalam kategori Loved.
 
-- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379)
@@ -64,6 +64,10 @@ Peninjau metadata bertugas untuk memeriksa kesiapan setiap beatmap yang hendak d
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 
 ## Alumni
+
+### Koordinator
+
+- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 
 ### Kapten-kapten osu!
 
@@ -85,6 +89,7 @@ Peninjau metadata bertugas untuk memeriksa kesiapan setiap beatmap yang hendak d
 - ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
 - ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)
+- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
 - ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767)
 - ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)

@@ -47,11 +47,11 @@ The Katacheh Global Taiko Showdown 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/953470)
-- [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/)
-- [Livestream](https://www.twitch.tv/gtsosu)
-- [Challonge brackets](https://challonge.com/KGTS2019)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1RVS_bKkwI1WN-DYg3vm28nP4HhdMmFRFfEz-v0jOvNs/edit?usp=sharing)**
+- [GTS Discord server](https://discord.gg/3mGC3HB "Discord")
+- [GTS website](https://gtsosu.com/ "GTS")
+- [Livestream](https://www.twitch.tv/gtsosu "Twitch")
+- [Challonge brackets](https://challonge.com/KGTS2019 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1RVS_bKkwI1WN-DYg3vm28nP4HhdMmFRFfEz-v0jOvNs/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -76,7 +76,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Week 2
 
-**[Download the map pack here! (257 MB)](https://mega.nz/#!ksd22AJI!tkIx7KJuhgHlRjBI8NNaUrsJS6QMo960MVon7OsqzTs)**
+**[Download the map pack here! (257 MB)](https://mega.nz/#!ksd22AJI!tkIx7KJuhgHlRjBI8NNaUrsJS6QMo960MVon7OsqzTs "MEGA")**
 
 - NoMod
   - [Omoi feat. Hatsune Miku - Chiisana Koi no Uta (Synth Rock Cover) (seanhappy8520) \[kata's Taiko\]](https://osu.ppy.sh/beatmapsets/619757#taiko/2125364)
@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Week 1
 
-**[Download the map pack here! (61 MB)](https://mega.nz/#!B50RkarY!iGux2mHdNWUx1Yiel9fc0XF7tWNrcxKKODTQEaw6OrU)**
+**[Download the map pack here! (61 MB)](https://mega.nz/#!B50RkarY!iGux2mHdNWUx1Yiel9fc0XF7tWNrcxKKODTQEaw6OrU "MEGA")**
 
 - NoMod
   - [LeaF - Aleph-0 (katacheh) \[Level Aleph\]](https://osu.ppy.sh/beatmapsets/587295#taiko/1243626)
@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the map pack here! (20 MB)](https://mega.nz/#!99cylKYb!ccf43d3e7MlEQwRM8C0DBwxoe1_ZlagETHCFOviObDg)**
+**[Download the map pack here! (20 MB)](https://mega.nz/#!99cylKYb!ccf43d3e7MlEQwRM8C0DBwxoe1_ZlagETHCFOviObDg "MEGA")**
 
 - NoMod
   - [IOSYS - The dive in cucumber bar (katacheh) \[kata's-M cUcUmbAr\]](https://osu.ppy.sh/beatmapsets/423020#taiko/914272)
@@ -252,7 +252,7 @@ Sunday, 6 October 2019:
 9. The player with the highest roll **bans second and picks first**. The playerwith the lowest roll **bans first and picks second**.
 10. Beatmap selection will then alternate between each player selecting a beatmap out of the map pool.
 11. Players may pick freely from any bracket.
-12. Players will have 2 minutes to ban and pick maps, and to get ready as well. If by the end of the timer no map is picked, the referee will !roll with the number of maps left in the pool, and the number he will fall on will be the pick.
+12. Players will have 2 minutes to ban and pick maps, and to get ready as well. If by the end of the timer no map is picked, the referee will `!roll` with the number of maps left in the pool, and the number he will fall on will be the pick.
 13. If a player disconnects between the beatmaps and he can not provide an exchange, the match can be delayed 10 minutes at maximum.
 14. If a player disconnects, they get treated as if they failed the map.
 15. Disconnects within 30 seconds after beatmap begin can be rematched. This is only allowed once per player/team.

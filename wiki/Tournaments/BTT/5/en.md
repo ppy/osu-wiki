@@ -56,10 +56,10 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/994702)
-- [BTT Discord server](https://discord.gg/EYAqSWH)
-- [Livestream](https://twitch.tv/beginnerstaikotournament)
-- [Challonge brackets](https://challonge.com/BTTS5)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6QPdOsvVXvpXcjTrqOvaQESu0LpH3HAd9QxsYMbDa7xAatXc8X3hnmmDZSxfTLtAZz-WArFbTbm8_/pubhtml)**
+- [BTT Discord server](https://discord.gg/EYAqSWH "Discord")
+- [Livestream](https://twitch.tv/beginnerstaikotournament "Twitch")
+- [Challonge brackets](https://challonge.com/BTTS5 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6QPdOsvVXvpXcjTrqOvaQESu0LpH3HAd9QxsYMbDa7xAatXc8X3hnmmDZSxfTLtAZz-WArFbTbm8_/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -99,7 +99,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Grand Finals
 
-**[Download the mappack here! (103 MB)](https://mega.nz/#!PmxFGZiT!OP-7oyHKNDx-JNDIcDOCrSa9hLmBxpxwPaWoj7XnYeQ)**
+**[Download the mappack here! (103 MB)](https://mega.nz/#!PmxFGZiT!OP-7oyHKNDx-JNDIcDOCrSa9hLmBxpxwPaWoj7XnYeQ "MEGA")**
 
 - NoMod
   - [Sasaki Sayaka - Marine Blue ni Sotte (El SolarBeam) \[Nardo's Oni\]](https://osu.ppy.sh/beatmapsets/182129#taiko/458209)
@@ -128,7 +128,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (89 MB)](https://mega.nz/#!GvpUASYZ!8RvQyFOehDfIPSqOCHMivyA6DF_A6IxjjBDU5Jrbe8Y)**
+**[Download the mappack here! (89 MB)](https://mega.nz/#!GvpUASYZ!8RvQyFOehDfIPSqOCHMivyA6DF_A6IxjjBDU5Jrbe8Y "MEGA")**
 
 - NoMod
   - [Camellia - Kono Hoshi de.... (Raytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/968455#taiko/2029214)
@@ -157,7 +157,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (80 MB)](https://mega.nz/#!L7QV2QpB!15F8SowJJiZlP1EC-mwXjWgYq2fruTV8mY7Uuy5RE94)**
+**[Download the mappack here! (80 MB)](https://mega.nz/#!L7QV2QpB!15F8SowJJiZlP1EC-mwXjWgYq2fruTV8mY7Uuy5RE94 "MEGA")**
 
 - NoMod
   - [sky\_delta - Grenade (Nerova Riuz GX) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/920666#taiko/1944057)
@@ -186,7 +186,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (83 MB)](https://mega.nz/#!H6ARHSib!axE0rqbekmpRNHrhjGBUSZ0A8Xv4yLa1QIJNCVnBBPk)**
+**[Download the mappack here! (83 MB)](https://mega.nz/#!H6ARHSib!axE0rqbekmpRNHrhjGBUSZ0A8Xv4yLa1QIJNCVnBBPk "MEGA")**
 
 - NoMod
   - [Krewella X DISKORD - Beggars (Consouls Remix) (Shadren) \[Remus' Muzukashii\]](https://osu.ppy.sh/beatmapsets/539203#taiko/1231261)
@@ -212,7 +212,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (72 MB)](https://mega.nz/#!D34yhKZD!TWF4xkDiIYn2R5O-d00O07jdr15JAbVQ0gYrSxzjy98)**
+**[Download the mappack here! (72 MB)](https://mega.nz/#!D34yhKZD!TWF4xkDiIYn2R5O-d00O07jdr15JAbVQ0gYrSxzjy98 "MEGA")**
 
 - NoMod
   - [Meramipop - Super nuko ni naritai (RRRRR) \[5R's Futsuu\]](https://osu.ppy.sh/beatmapsets/536000#taiko/1186360)
@@ -238,7 +238,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Round of 32
 
-**[Download the mappack here! (61 MB)](https://mega.nz/#!DiRkkAJT!NPi86PCiZjwK8VU9B_KUvAdPRPqBmR5d-KKofjHULhQ)**
+**[Download the mappack here! (61 MB)](https://mega.nz/#!DiRkkAJT!NPi86PCiZjwK8VU9B_KUvAdPRPqBmR5d-KKofjHULhQ "MEGA")**
 
 - NoMod
   - [MY FIRST STORY - Missing You (Chromoxx) \[Taikocracy's Futsuu\]](https://osu.ppy.sh/beatmapsets/580146#taiko/1522858)
@@ -262,7 +262,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here! (62 MB)](https://mega.nz/#!j2hQlACQ!ZZNo2R4nSJXr15I_qv18oB5JQdlswj2X7WgHZ7QO38w)**
+**[Download the mappack here! (62 MB)](https://mega.nz/#!j2hQlACQ!ZZNo2R4nSJXr15I_qv18oB5JQdlswj2X7WgHZ7QO38w "MEGA")**
 
 - NoMod
   - [Camellia feat. Nanahira - Kansoku Eisei (Nardoxyribonucleic) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/927544#taiko/1945196)
@@ -286,7 +286,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ### Qualifiers
 
-**[Download the mappack here! (22 MB)](https://mega.nz/#!CnhFiCha!wYPLpKlqlluFNO8gnTmqTSKW_qeU0J-I0bWJKsdLx_Y)**
+**[Download the mappack here! (22 MB)](https://mega.nz/#!CnhFiCha!wYPLpKlqlluFNO8gnTmqTSKW_qeU0J-I0bWJKsdLx_Y "MEGA")**
 
 - NoMod
   - [PSYQUI - Raise Your Hands feat. Such (SKSalt) \[JuDa's Futsuu\]](https://osu.ppy.sh/beatmapsets/910078#taiko/1920528)
@@ -372,10 +372,10 @@ Sunday, 23 February 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **Vaf** ![][flag_AR] | **5** | 1 | ![][flag_SG] helios44 | [#1](https://osu.ppy.sh/community/matches/58657219) |
 | **Blujae** ![][flag_NZ] | **5** | 1 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/community/matches/58666520) |
-| Dartandr ![][flag_RU] | 0 | **5** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/mp/58667706) |
+| Dartandr ![][flag_RU] | 0 | **5** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58667706) |
 | Loliezi1337 ![][flag_US] | -1 | **0** | ![][flag_DE] Kirross | *win by default* |
 | Kozzo ![][flag_IT] | 2 | **5** | ![][flag_DE] **Kirross** | [#1](https://osu.ppy.sh/community/matches/58674792) |
-| **Olii** ![][flag_GB] | **5** | 1 | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/mp/58678216) |
+| **Olii** ![][flag_GB] | **5** | 1 | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58678216) |
 
 ### Round of 16
 
@@ -383,7 +383,7 @@ Friday, 14 February 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Arbusion ![][flag_AU] | 0 | **5** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/mp/58433048) |
+| Arbusion ![][flag_AU] | 0 | **5** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/community/matches/58433048) |
 | Malox ![][flag_DE] | 2 | **5** | ![][flag_DE] **Maou** | [#1](https://osu.ppy.sh/community/matches/58440442) |
 
 Saturday, 15 February 2020:
@@ -392,7 +392,7 @@ Saturday, 15 February 2020:
 | --: | :-: | :-: | :-- | :-- |
 | zd101nb ![][flag_CN] | -1 | **0** | ![][flag_DE] **Kirross** | *win by default* |
 | **helios44** ![][flag_SG] | **5** | 2 | ![][flag_DE] Enohx | [#1](https://osu.ppy.sh/community/matches/58461271) |
-| **awdse22** ![][flag_SG] | **5** | 1 | ![][flag_RU] Dartandr | [#1](https://osu.ppy.sh/mp/58464162) |
+| **awdse22** ![][flag_SG] | **5** | 1 | ![][flag_RU] Dartandr | [#1](https://osu.ppy.sh/community/matches/58464162) |
 | Samoyed ![][flag_FI] | 2 | **5** | ![][flag_RU] **Vasyadogs** | [#1](https://osu.ppy.sh/community/matches/58464156) |
 | Santeri ![][flag_FI] | 0 | **5** | ![][flag_IT] **Kozzo** | [#1](https://osu.ppy.sh/community/matches/58465670) |
 | ByTiger ![][flag_DE] | 2 | **5** | ![][flag_MY] **squidstain** | [#1](https://osu.ppy.sh/community/matches/58465676) |

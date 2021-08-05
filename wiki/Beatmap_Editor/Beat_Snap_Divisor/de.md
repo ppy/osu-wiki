@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beat Snap Divisor
 
 ## osu!, osu!taiko und osu!catch

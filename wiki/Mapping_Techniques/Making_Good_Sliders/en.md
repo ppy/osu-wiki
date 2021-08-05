@@ -1,11 +1,16 @@
+<!-- TODO: Needs to be rewritten, the article does not match with other articles (writing style, formatting).
+Also check if the article matches with ASC. See #5729 for more informations -->
+
 # Making good sliders
 
 This article is a how-to on making good sliders.
 In the most basic form, all you need is a [bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
 
 From [Ephemeral](https://osu.ppy.sh/users/102335),
+
 > always align slider endpoints to the smallest possible value - that is, if you drag them any further backwards, the slider will shorten. the point will center itself in the slider end and will make attaining passable curves much easier to accomplish.
-  Also, doing this makes reverse selection on sliders not fuck them up.
+
+  Also, doing this makes reverse selection on sliders not fuck them up. 
   Which is a good thing.
 
 ## Arcs
@@ -43,7 +48,7 @@ Disable grid snap and move them both in by a tiny bit at a time until the slider
 
 ## Beat Blankets
 
-*Main page: [Blanket Combos](/wiki/Mapping_Techniques/Formations/#blanket-combos)*
+*Main page: [Blanket Combos](/wiki/Mapping_Techniques/Formations#blanket-combos)*
 
 ![Image example of beat blankets (with hit circle)](img/MGS_blankets.png)
 
@@ -56,6 +61,7 @@ Keep in mind that if you want a slider to blanket **and** be perfectly symmetric
 ---
 
 From [Gonzvlo](https://osu.ppy.sh/users/237733),
+
 > as a variation of beat blankets, sometimes I use a spinner to make nice circles.
 
 ![Image example of beat blankets (with spinner)](img/MGS_blankets2.png)
@@ -161,7 +167,7 @@ Start and end pointing different ways.
 
 ![Image example of wiggles (type 2)](img/MGS_wiggles2.png)
 
-Similarly to [type 1](#type-1), each arc is made up of four points, but in my experience it helps if they're kinda twisted round, like in the image above.
+Similarly to [type 1](#type-1), each arc is made up of four points, but according to experienced mappers, it helps if they're kinda twisted round, like in the image above.
 These are rotationally symmetrical, like waves, so use `Ctrl` + `H` + `J` to check points.
 
 ### Type 3
@@ -184,9 +190,10 @@ An easier said than done kind of slider.
 ![Image example of loops](img/MGS_loops.png)
 
 The things to remember when forming loops is that the points go up a lot further than the loop does:
+
 - The further each point is from the ends, the further away it needs to be from the slider.
 
-The biggest issue I see with people's loops are the hole.
+The biggest problem often seen in loops are the holes.
 You're looking for an open, rounded teardrop shape like the above slider.
 If the hole of the loop looks like any of these, your loop isn't as awesome as the above screenshot:
 
