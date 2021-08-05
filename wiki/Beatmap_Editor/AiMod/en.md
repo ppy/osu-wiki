@@ -119,8 +119,8 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Kiai isn't snapped! |  |  |
 | Kiai's end isn't snapped! |  |  |
 | Breaktime is not suggested for mania maps. | osu!mania maps only! | Insert notes where the break time occurs. |
-| <!-- Can't confirm -->Easy/Normal diff contains too many speed changes. |  |  |
-| <!-- Can't confirm -->Kiai is toggled very frequently! |  |  |
+| <!-- Can't confirm -->Easy/Normal diff contains too many speed changes. | osu!mania maps only! |  |
+| <!-- Can't confirm -->Kiai is toggled very frequently! | osu!taiko maps only! |  |
 
 #### Meta
 
