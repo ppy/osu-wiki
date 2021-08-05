@@ -6,7 +6,7 @@ This section is dedicated for contests held throughout the osu! community.
 
 ## Official contests
 
-Official contests are hosted (or otherwise recognised as official) by the [osu! team](wiki/People/The_Team). Most official contests have their own pages on the [contests listing](https://osu.ppy.sh/community/contests).
+Official contests are hosted (or otherwise recognised as official) by the [osu! team](/wiki/People/The_Team). Most official contests have their own pages on the [contests listing](https://osu.ppy.sh/community/contests).
 
 ### Official beatmapping contests
 
@@ -76,7 +76,7 @@ After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 202
 
 *Main page: [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
 
-The **osu! Mapping Olympiad** is a mapping contest that is held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating mappers are tasked to create either a beatmap with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards or a certain number of difficulties for any of the given songs in each corresponding iteration.
+The **osu! Mapping Olympiad** is a mapping contest that is held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating mappers are tasked to create either a beatmap with a proper [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards or a certain number of difficulties for any of the given songs in each corresponding iteration.
 
 | Contest No. | Song(s) | Mode | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -102,7 +102,7 @@ The **Community Mapping Contest** is a mapping contest where participating mappe
 
 #### Mapping With Rewards
 
-**Mapping With Rewards** is a mapping contest where participating mappers compete to create the best beatmap (with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) for any of the given songs in each corresponding iteration without strict deadlines.
+**Mapping With Rewards** is a mapping contest where participating mappers compete to create the best beatmap (with a proper [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) for any of the given songs in each corresponding iteration without strict deadlines.
 
 | Contest No. | Song | Mode | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -152,7 +152,7 @@ At its launch, the contest was named "Best of", as the initial premise and expec
 
 #### Fan Art Contest
 
-The **Fan Art Contest** is a drawing contest where participating artists from the community are challenged to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) across various themes and art concepts.
+The **Fan Art Contest** is a drawing contest where participating artists from the community are challenged to create the best fan art for osu! involving [osu!'s mascots](/wiki/Mascots) across various themes and art concepts.
 
 | Contest No. | Theme | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -226,7 +226,7 @@ The **Skinning Contest** is a skinning contest where artistic creators from all 
 
 ### osu! Beatmapping World Championship <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
-**osu! Beatmapping World Championship** is a team-based mapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) battle their mapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](wiki/Featured_Artists) library during its runs.
+**osu! Beatmapping World Championship** is a team-based mapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) battle their mapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](/wiki/Featured_Artists) library during its runs.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
