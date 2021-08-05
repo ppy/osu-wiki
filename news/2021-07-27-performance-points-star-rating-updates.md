@@ -56,19 +56,21 @@ Rank history graphs updates will be enabled and updated again. At this point, al
 
 UPDATE: Updates have been re-enabled and will continue as per normal.
 
-### 🏃 Reindexing \[2021-08-03 ~\]
+### 🟢 Reindexing \[2021-08-03 - 2021-08-05\]
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
 
 Estimated to take 2-4 days.
 
-UPDATE: As of 2021-08-04 04:00 UTC, reindexing is completed for osu! mode. Other modes are currently running.
+UPDATE: As of 2021-08-04 20:00 UTC, reindexing is completed!
 
-### 🛑 Background user score recalculations \[TBD\]
+### 🏃 Background user score recalculations \[2021-08-05 ~\]
 
 While the aforementioned "user total" step is aimed to cover the majority of visible scores in the "Best Performance" profile section, this is a second pass operation which aims to address all remaining scores that may have not been updated yet.
 
 This will run over weeks or months in the background as required.
+
+UPDATE: This has been started and will continue to run in the background. This will be the last update to the schedule. If you are noticing any issues with scores in a bad state, please contact support ([osu@ppy.sh](mailto:osu@ppy.sh) or [@osusupport](https://twitter.com/osusupport)).
 
 ## Star Rating
 
