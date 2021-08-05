@@ -252,7 +252,7 @@ Although the Pending Cup was initially intended mainly for the Chinese-speaking 
 | Song | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Sharlo & Sabbo - Sakura no Hana ga Maiochiru Toki | ![osu!][osu!] | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | ![][flag_CN] [eveless](https://osu.ppy.sh/users/102976) | [#1](https://osu.ppy.sh/community/forums/topics/243930) |
-| A.SAKA - Nanatsu Issenzakura | ![osu!][osu!] | ![][flag_CN] [RL_Tibbar](https://osu.ppy.sh/users/847182) | ![][flag_CN] [bo0O0od](https://osu.ppy.sh/users/530547) | ![][flag_HK] [Rizia](https://osu.ppy.sh/users/1367570) | [#1](https://osu.ppy.sh/community/forums/topics/243930) |
+| A.SAKA - Nanatsu Issenzakura | ![osu!][osu!] | ![][flag_CN] [RL\_Tibbar](https://osu.ppy.sh/users/847182) | ![][flag_CN] [bo0O0od](https://osu.ppy.sh/users/530547) | ![][flag_HK] [Rizia](https://osu.ppy.sh/users/1367570) | [#1](https://osu.ppy.sh/community/forums/topics/243930) |
 
 #### [Pending Cup \#3 (2015)](https://osu.ppy.sh/community/forums/topics/345263)
 
@@ -330,7 +330,7 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 
 | Song | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Eisyo-kobu - Oriental Blossom | ![osu!][osu!] | ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669) and ![][flag_CN] [EmingK](https://osu.ppy.sh/users/2021118) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) and ![][flag_US] [Doj](https://osu.ppy.sh/users/4121612) | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) and ![][flag_CN] [Kashima](https://osu.ppy.sh/users/4370368) | [#1](https://osu.ppy.sh/community/forums/topics/570350) |
+| Eisyo-kobu - Oriental Blossom | ![osu!][osu!] | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) and ![][flag_CN] [EmingK](https://osu.ppy.sh/users/2021118) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) and ![][flag_US] [Doj](https://osu.ppy.sh/users/4121612) | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) and ![][flag_CN] [Kashima](https://osu.ppy.sh/users/4370368) | [#1](https://osu.ppy.sh/community/forums/topics/570350) |
 | ESQUARIA - Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) and ![][flag_TW] [fish39](https://osu.ppy.sh/users/3522390) | ![][flag_US] [Bluekrait](https://osu.ppy.sh/users/4205741) and ![][flag_KR] [Rose Pacifica](https://osu.ppy.sh/users/1393255) | *N/A* | [#1](https://osu.ppy.sh/community/forums/topics/570350) |
 
 #### [Newspaper Cup \#4 (2018)](https://osu.ppy.sh/community/forums/topics/690824)
