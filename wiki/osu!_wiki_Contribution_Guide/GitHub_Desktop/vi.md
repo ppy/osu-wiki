@@ -52,7 +52,7 @@ Tuy việc phân nhánh không bắt buộc, nhưng nó [được khuyến ngh�
 ### Di chuyển các tệp có sẵn
 
 1. Sử dụng Windows Explorer dể di chuyển các tệp.
-2. Đi tới [Committing and pushing](#committing-and-pushing).
+2. Đi tới [Committing and pushing](#committing-và-pushing).
 
 ### Tạo tệp mới
 
