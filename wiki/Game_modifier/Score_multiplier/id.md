@@ -1,5 +1,5 @@
 ---
-outdated: true
+stub: true
 tags:
   - score multiplier
   - score
