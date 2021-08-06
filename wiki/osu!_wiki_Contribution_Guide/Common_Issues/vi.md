@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Các vấn đề hay gặp của người đóng góp wiki
 
 ## Ai đó bảo tôi hãy viết thông điệp commit có ý nghĩa!

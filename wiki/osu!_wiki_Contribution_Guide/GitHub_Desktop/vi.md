@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # GitHub Desktop
 
 *Bài viết này tiếp tục từ [trang chính](/wiki/osu!_wiki_Contribution_Guide)* và coi rằng bạn sẽ sử dụng [GitHub Desktop](https://desktop.github.com). **Bạn có thể sử dụng Git client khác theo ý thích của mình.** Kể cả khi bạn làm việc cục bộ, bạn vẫn cần truy cập GitHub để tạo pull request để làm cho các thay đổi của bạn có thể được thực hiện.

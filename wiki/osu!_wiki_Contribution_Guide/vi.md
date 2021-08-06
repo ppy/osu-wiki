@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Hướng dẫn đóng góp cho osu! wiki
 
 Cảm ơn bạn đã quan tâm đến việc làm cho osu! wiki tốt hơn! Hướng dẫn nhanh này  dành cho những ai chưa từng làm việc với GitHub, hay với luồng quy trình đóng góp osu! wiki trước đây. Nếu bạn đã có kinh nghiệm sử dụng GitHub, bạn có thể bỏ qua hướng dẫn này và làm theo luồng "feature-branch" thông dụng để cập nhật các nội dung trong repository.

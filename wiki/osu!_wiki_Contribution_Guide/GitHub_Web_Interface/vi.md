@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Giao diện web GitHub
 
 *Bài viết này tiếp tục từ [trang chính](/wiki/osu!_wiki_Contribution_Guide).* Nếu bạn định sửa đổi nhiều bài viết (bao gồm đăng tải, xoá, và/hoặc di chuyển các ảnh, các tệp), vui lòng xem hướng dẫn [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop).
