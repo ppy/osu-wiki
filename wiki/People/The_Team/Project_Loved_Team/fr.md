@@ -67,7 +67,7 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise 
 
 ## Modération du contenu des beatmaps
 
-Les modérateurs de contenu sont des membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) et de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) qui participent à l'évaluation du contenu visuel et sonore des beatmaps qui seront soumis au vote.
+Les modérateurs de contenu sont des membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) et de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) qui participent à l'évaluation du contenu visuel et sonore des beatmaps qui seront soumises au vote.
 
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
@@ -134,7 +134,7 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 ## Le saviez-vous ?
 
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a créé l'équipe originelle de capitaines en septembre 2017 ainsi que le système [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017---present)) qui a ensuite été renommé Project Loved. Jusqu'à fin 2019, il a supervisé et géré l'ensemble du projet.
-- Avant le 28 avril 2021, la [page de groupe Project Loved](https://osu.ppy.sh/groups/31) n'était pas publique et n'était utilisée qu'à des fins administratives. À partir de maintenant, elle est accessible au public.
+- Avant le 28 avril 2021, la [page du groupe Project Loved](https://osu.ppy.sh/groups/31) n'était pas publique et n'était utilisée qu'à des fins administratives. À partir de maintenant, elle est accessible au public.
   - Jusqu'au 16 avril 2021, les seules personnes qui faisaient partie du groupe étaient ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), et ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689). Maintenant, tous les utilisateurs faisant partie de la Project Loved Team appartiennent au groupe.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
