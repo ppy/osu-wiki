@@ -1,12 +1,12 @@
 # Skinning du mode osu!mania
 
-*Voir aussi: [Tutoriel du skinning pour le mode osu!mania](/wiki/Skinning_osu!mania_Tutorial)*
+*Voir également : [Tutoriel de skinning pour le mode osu!mania](/wiki/Skinning_osu!mania_Tutorial)*
 
-Depuis la version 2.5+, les skinners peuvent personnaliser entièrement les notes et la scène du mode osu!mania en utilisant le fichier [skin.ini](/wiki/Skinning/skin.ini). Voici ce que osu! reconnaîtra si l'on choisit de ne pas utiliser le fichier `skin.ini` pour plus de personnalisation.
+Depuis la version 2.5+, les skinners peuvent personnaliser entièrement les notes et la scène du mode osu!mania en utilisant le fichier [skin.ini](/wiki/Skinning/skin.ini). Voici ce qu'osu! reconnaîtra si l'on choisit de ne pas utiliser le fichier `skin.ini` pour plus de personnalisation.
 
 ## Hit Bursts
 
-*Voir aussi: [Skinning/FAQ § Hiérarchie de l'écran de classement](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
+*Voir également : [Skinning/FAQ § Hiérarchie de l'écran de classement](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
 
 ---
 
@@ -18,9 +18,9 @@ Depuis la version 2.5+, les skinners peuvent personnaliser entièrement les note
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Oui][true] | Normal | Centre | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-hit0-{n}.png`.
+- Nom de l'animation : `mania-hit0-{n}.png`.
 - Cet élément joue une animation en boucle fixée à 60 FPS.
 - Si un chemin personnalisé est utilisé, l'écran de classement utilisera le fichier dans le dossier racine à la place de l'élément désiré.
 
@@ -34,9 +34,9 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Oui][true] | Normal | Centre | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-hit50-{n}.png`.
+- Nom de l'animation : `mania-hit50-{n}.png`.
 - Cet élément joue une animation en boucle fixée à 60 FPS.
 - Si un chemin personnalisé est utilisé, l'écran de classement utilisera le fichier dans le dossier racine à la place de l'élément désiré.
 
@@ -50,9 +50,9 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Oui][true] | Normal | Centre | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-hit100-{n}.png`.
+- Nom de l'animation : `mania-hit100-{n}.png`.
 - Cet élément joue une animation en boucle fixée à 60 FPS.
 - Si un chemin personnalisé est utilisé, l'écran de classement utilisera le fichier dans le dossier racine à la place de l'élément désiré.
 
@@ -66,9 +66,9 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Oui][true] | Normal | Centre | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-hit200-{n}.png`.
+- Nom de l'animation : `mania-hit200-{n}.png`.
 - Cet élément joue une animation en boucle fixée à 60 FPS.
 - Si un chemin personnalisé est utilisé, l'écran de classement utilisera le fichier dans le dossier racine à la place de l'élément désiré.
 
@@ -82,9 +82,9 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Oui][true] | Normal | Centre | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-hit300-{n}.png`.
+- Nom de l'animation : `mania-hit300-{n}.png`.
 - Cet élément joue une animation en boucle fixée à 60 FPS.
 - Si un chemin personnalisé est utilisé, l'écran de classement utilisera le fichier dans le dossier racine à la place de l'élément désiré.
 
@@ -98,9 +98,9 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Oui][true] | Normal | Centre | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-hit300g-{n}.png`.
+- Nom de l'animation : `mania-hit300g-{n}.png`.
 - Cet élément joue une animation en boucle fixée à 60 FPS.
 - Si un chemin personnalisé est utilisé, l'écran de classement utilisera le fichier dans le dossier racine à la place de l'élément désiré.
 
@@ -112,11 +112,11 @@ Notes:
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Toutes | ![Non][false] (voir les notes) | ![Oui][true] | Normal | Bas gauche | Hauteur max: 768px |
+| Toutes | ![Non][false] (voir les notes) | ![Oui][true] | Normal | Bas gauche | Hauteur max : 768px |
 
-Notes:
+Notes :
 
-- Pour avoir plusieurs combobursts, utilisez: `comboburst-mania-{n}.png`.
+- Pour avoir plusieurs combobursts, utilisez : `comboburst-mania-{n}.png`.
   - Une des images du set apparaîtra lorsqu'une étape de combo sera atteinte.
 - Ces combobursts sont spécifiques au mode osu!mania
 - Ils peuvent être désactivés dans les [options](/wiki/Options).
@@ -132,7 +132,7 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Non][false] | ![Non][false] | Normal | Bas | 50x107 |
 
-Notes:
+Notes :
 
 - Ceci est l'état inactif.
 - Cet élément sera étiré ou compressé pour être adapté à la largeur de la colonne.
@@ -147,7 +147,7 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Non][false] | ![Non][false] | Normal | Bas | 50x107 |
 
-Notes:
+Notes :
 
 - Ceci est l'état actif.
 - Cet élément sera étiré ou compressé pour être adapté à la largeur de la colonne.
@@ -162,7 +162,7 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Non][false] | ![Non][false] | Normal | Bas | 50x107 |
 
-Notes:
+Notes :
 
 - Ceci est l'état inactif.
 - Cet élément sera étiré ou compressé pour être adapté à la largeur de la colonne.
@@ -177,7 +177,7 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Non][false] | ![Non][false] | Normal | Bas | 50x107 |
 
-Notes:
+Notes :
 
 - Ceci est l'état actif.
 - Cet élément sera étiré ou compressé pour être adapté à la largeur de la colonne.
@@ -192,7 +192,7 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Non][false] | ![Non][false] | Normal | Bas | 50x107 |
 
-Notes:
+Notes :
 
 - Ceci est l'état inactif.
 - Cet élément sera étiré ou compressé pour être adapté à la largeur de la colonne.
@@ -207,7 +207,7 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Non][false] | ![Non][false] | Normal | Bas | 50x107 |
 
-Notes:
+Notes :
 
 - Ceci est l'état actif.
 - Cet élément sera étiré ou compressé pour être adapté à la largeur de la colonne.
@@ -222,11 +222,11 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-note1-{n}.png`.
+- Nom de l'animation : `mania-note1-{n}.png`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
-  - Si la largeur des colonnes diffèrent: la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
+  - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
 - Les notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
 
 ---
@@ -239,11 +239,11 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-note2-{n}.png`.
+- Nom de l'animation : `mania-note2-{n}.png`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
-  - Si la largeur des colonnes diffèrent: la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
+  - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
 - Les notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
 
 ---
@@ -256,14 +256,14 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-noteS-{n}.png`.
+- Nom de l'animation : `mania-noteS-{n}.png`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
-  - Si la largeur des colonnes diffèrent: la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
+  - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
 - Les notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
 
-### hold notes
+### Hold notes
 
 #### Head
 
@@ -275,14 +275,14 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-note1H-{n}.png`.
-- Par défaut, ceci est aussi le bout de la note.
-  - Quand il est utilisé comme bout de note, cet élément est retourné par défaut en version 2.5+.
+- Nom de l'animation : `mania-note1H-{n}.png`.
+- Par défaut, ceci est aussi la fin de la note.
+  - Quand il est utilisé comme fin de note, cet élément est retourné par défaut en version 2.5+.
     - Ce comportement peut être désactivé en inscrivant `0` en face de la commande `NoteFlipWhenUpsideDownT`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
-  - Si la largeur des colonnes diffèrent: la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
+  - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
 - Les hold notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
 
 ---
@@ -295,14 +295,14 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-note2H-{n}.png`.
-- Par défaut, ceci est aussi le bout de la note.
-  - Quand il est utilisé comme bout de note, cet élément est retourné par défaut en version 2.5+.
+- Nom de l'animation : `mania-note2H-{n}.png`.
+- Par défaut, ceci est aussi la fin de la note.
+  - Quand il est utilisé comme fin de note, cet élément est retourné par défaut en version 2.5+.
     - Ce comportement peut être désactivé en inscrivant `0` en face de la commande `NoteFlipWhenUpsideDownT`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
-  - Si la largeur des colonnes diffèrent: la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
+  - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
 - Les hold notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
 
 ---
@@ -315,17 +315,17 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-noteSH-{n}.png`.
-- Par défaut, ceci est aussi le bout de la note.
-  - Quand il est utilisé comme bout de note, cet élément est retourné par défaut en version 2.5+.
+- Nom de l'animation : `mania-noteSH-{n}.png`.
+- Par défaut, ceci est aussi la fin de la note.
+  - Quand il est utilisé comme fin de note, cet élément est retourné par défaut en version 2.5+.
     - Ce comportement peut être désactivé en inscrivant `0` en face de la commande `NoteFlipWhenUpsideDownT`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
-  - Si la largeur des colonnes diffèrent: la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
+  - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
 - Les hold notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
 
-#### Body
+#### Corps
 
 `mania-note1L.png`
 
@@ -335,9 +335,9 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] (voir les notes) | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-note1L-{n}.png`.
+- Nom de l'animation : `mania-note1L-{n}.png`.
 - L'animation commence à se jouer lorsque la hold note est pressée et s'arrête lorsqu'elle est relâchée.
 - Le `NoteBodyStyle` change le comportement de ces éléments.
 - Les notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
@@ -352,9 +352,9 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] (voir les notes) | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-note2L-{n}.png`.
+- Nom de l'animation : `mania-note2L-{n}.png`.
 - L'animation commence à se jouer lorsque la hold note est pressée et s'arrête lorsqu'elle est relâchée.
 - Le `NoteBodyStyle` change le comportement de ces éléments.
 - Les notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
@@ -369,9 +369,9 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] (voir les notes) | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-noteSL-{n}.png`.
+- Nom de l'animation : `mania-noteSL-{n}.png`.
 - L'animation commence à se jouer lorsque la hold note est pressée et s'arrête lorsqu'elle est relâchée.
 - Le `NoteBodyStyle` change le comportement de ces éléments.
 - Les notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
@@ -384,15 +384,15 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-note1T-{n}.png`.
+- Nom de l'animation : `mania-note1T-{n}.png`.
 - Ces éléments font partie de la fin de la hold note.
 - Par défaut, les head notes sont utilisées à la place.
 - Par défaut, ces éléments sont retournés en version de skin `2.5` et plus.
   - Ce comportement peut être désactivé en inscrivant `0` en face de la commande `NoteFlipWhenUpsideDownT`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
-  - Si la largeur des colonnes diffèrent: la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
+  - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
 - Les notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
 
 ---
@@ -403,15 +403,15 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-note2T-{n}.png`.
+- Nom de l'animation : `mania-note2T-{n}.png`.
 - Ces éléments font partie de la fin de la hold note.
 - Par défaut, les head notes sont utilisées à la place.
 - Par défaut, ces éléments sont retournés en version de skin `2.5` et plus.
   - Ce comportement peut être désactivé en inscrivant `0` en face de la commande `NoteFlipWhenUpsideDownT`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
-  - Si la largeur des colonnes diffèrent: la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
+  - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
 - Les notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
 
 ---
@@ -422,15 +422,15 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-noteST-{n}.png`.
+- Nom de l'animation : `mania-noteST-{n}.png`.
 - Ces éléments font partie de la fin de la hold note.
 - Par défaut, les head notes sont utilisées à la place.
 - Par défaut, ces éléments sont retournés en version de skin `2.5` et plus.
   - Ce comportement peut être désactivé en inscrivant `0` en face de la commande `NoteFlipWhenUpsideDownT`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
-  - Si la largeur des colonnes diffèrent: la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
+  - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
 - Les notes peuvent être manuellement étirées via la commande `WidthForNoteHeightScale` dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
 
 ## Stage
@@ -441,9 +441,9 @@ Notes:
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Toutes | ![Non][false] | ![Non][false] | Normal | Bas droite | Hauteur max: 768px |
+| Toutes | ![Non][false] | ![Non][false] | Normal | Bas droite | Hauteur max : 768px |
 
-Notes:
+Notes :
 
 - Cet élément est situé sur le côté gauche du/des stage(s).
 - Cet élément est étiré pour correspondre à la hauteur du stage (Il est possible d'utiliser des images plus courtes).
@@ -456,9 +456,9 @@ Notes:
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Toutes | ![Non][false] | ![Non][false] | Normal | Bas droite | Hauteur max: 768px |
+| Toutes | ![Non][false] | ![Non][false] | Normal | Bas droite | Hauteur max : 768px |
 
-Notes:
+Notes :
 
 - Cet élément est situé sur le côté droit du/des stage(s).
 - Cet élément est étiré pour correspondre à la hauteur du stage (Il est possible d'utiliser des images plus courtes).
@@ -471,11 +471,11 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Bas | - |
 
-Notes:
+Notes :
 
 - Cet élément est 0.625x plus petit que la largeur du stage.
-- Nom de l'animation: `mania-stage-bottom-{n}.png`.
-- Situé en bas (Ou en haut, si le stage est inversé) du/des stage(s).
+- Nom de l'animation : `mania-stage-bottom-{n}.png`.
+- Situé en bas (ou en haut, si le stage est inversé) du/des stage(s).
 - Cet élément ne sera pas étiré pour correspondre à la largeur du stage !
 - Cet élément doit être conçu pour une hauteur de zone de jeu de 480px.
 - Cet élément se superpose par dessus tout le stage, même par dessus les notes.
@@ -488,11 +488,11 @@ Notes:
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Toutes | ![Oui][true] | ![Non][false] | Multiplicatif | Bas | Hauteur max: 768px |
+| Toutes | ![Oui][true] | ![Non][false] | Multiplicatif | Bas | Hauteur max : 768px |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `mania-stage-light-{n}.png`.
+- Nom de l'animation : `mania-stage-light-{n}.png`.
 - Cet élément est l'éclairage des colonnes quand la touche est appuyée.
 - Cet élément est placé sous les notes.
 - Par défaut, il est de couleur blanche.
@@ -510,12 +510,13 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Centre | - |
 
-Notes:
+Notes :
 
-- Cet élément est la représentation graphique de la ligne de jugement.
-  - La ligne de jugement est tracée au centre de l'image.
-- Cet élément est déssiné sur toute la largeur du stage, et non pas pour des colonnes individuelles.
-- Cet élément est étiré pour correspondre à la largeur du stage(Il est possible d'utiliser des images moins large).
+- Cet élément est la représentation graphique de la judgement line.
+  - La judgement line est tracée au centre de l'image.
+- Cet élément est dessiné sur toute la largeur du stage, et non pas pour des colonnes individuelles.
+- Cet élément est étiré pour correspondre à la largeur du stage. (il est possible d'utiliser des images moins large)
+
 ---
 
 `mania-warningarrow.png`
@@ -524,7 +525,7 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | - |
 
-Notes:
+Notes :
 
 - Cet élément doit pointer vers le bas.
   - Cette image est automatiquement inversé horizontalement si le stage est inversé.
@@ -540,12 +541,12 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Additif | Centre | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `lightingL-{n}.png`.
+- Nom de l'animation : `lightingL-{n}.png`.
 - Cet élément est l'éclairage pour les hold notes.
 - Cette image est inversée horizontalement si le stage est inversé de haut en bas.
-- Cet élément est positionné là où le centre de la ligne de jugement croise le centre d'une colonne.This element is positioned where the centre of the judgement line crosses the centre of a lane.
+- Cet élément est positionné là où le centre de la judgement line croise le centre d'une colonne.
 
 ---
 
@@ -557,12 +558,12 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Non][false] | Additif | Centre | - |
 
-Notes:
+Notes :
 
-- Nom de l'animation: `lightingN-{n}.png`.
+- Nom de l'animation : `lightingN-{n}.png`.
 - Cet élément est l'éclairage pour les single notes (et les tail notes).
 - Cette image est inversée horizontalement si le stage est inversé de haut en bas.
-- Cet élément est positionné là où le centre de la ligne de jugement croise le centre d'une colonne.
+- Cet élément est positionné là où le centre de la judgement line croise le centre d'une colonne.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
