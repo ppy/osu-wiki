@@ -155,13 +155,13 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Unicode title conflicts with {0} diff. |  |  |
 | This mapset cannot have an Insane diff without a Hard diff. |  |  |
 | Beatmap exceeds allowed upload size ({0}kb allowed) | The zipped `.osz` file is too large |  |
-| This mapset needs an easier difficulty |  |  |
+| This mapset needs an easier difficulty |  | Create a new difficulty and make sure that the new difficulty level cannot exceed the hard |
 | This mapset is missing diff: {0} |  |  |
-| This mapset needs at least 2 osu!catch diffs. | osu!catch maps only! |  |
-| This mapset needs at least 1 Easy/Normal diff. |  |  |
-| This mapset needs at least 2 osu!mania diffs. | osu!mania maps only! |  |
-| This mapset needs at least 2 standard diffs. | Standard maps only! |  |
-| This mapset needs at least 2 osu!taiko diffs. | osu!taiko maps only! |  |
+| This mapset needs at least 2 osu!catch diffs. | osu!catch maps only! | Create a new difficulty |
+| This mapset needs at least 1 Easy/Normal diff. |  | Create a new difficulty and make sure that the new difficulty level cannot exceed the hard |
+| This mapset needs at least 2 osu!mania diffs. | osu!mania maps only! | Create a new difficulty |
+| This mapset needs at least 2 standard diffs. | Standard maps only! | Create a new difficulty |
+| This mapset needs at least 2 osu!taiko diffs. | osu!taiko maps only! | Create a new difficulty |
 | Uninherited timing points conflict with {0} diff. |  |  |
 
 ## Flaws
