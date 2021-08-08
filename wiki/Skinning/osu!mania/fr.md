@@ -495,8 +495,8 @@ Notes :
 - Cet élément est placé sous les notes.
 - Par défaut, il est de couleur blanche.
   - Utilisez la commande `ColourLight` pour le modifier.
-- La position est définie par le [skin.ini](/wiki/Skinning/skin.ini)
-  - Utilisez la commande `LightPosition`.
+- La position est définie par le fichier [skin.ini](/wiki/Skinning/skin.ini)
+  - Utilisez la commande `LightPosition` pour la modifier.
 
 ---
 
