@@ -1,8 +1,7 @@
 # Skinning du mode osu!mania
 
-*Voir également : [Tutoriel de skinning pour le mode osu!mania](/wiki/Skinning_osu!mania_Tutorial)*
 
-Depuis la version 2.5+, les skinners peuvent personnaliser entièrement les notes et la scène du mode osu!mania en utilisant le fichier [skin.ini](/wiki/Skinning/skin.ini). Voici ce qu'osu! reconnaîtra si l'on choisit de ne pas utiliser le fichier `skin.ini` pour plus de personnalisation.
+Depuis la version 2.5, les skinners peuvent personnaliser entièrement les notes et la scène du mode osu!mania en utilisant le fichier [skin.ini](/wiki/Skinning/skin.ini). Voici ce qu'osu! reconnaîtra si l'on choisit de ne pas utiliser le fichier `skin.ini` pour plus de personnalisation.
 
 ## Hit Bursts
 
@@ -279,7 +278,7 @@ Notes :
 
 - Nom de l'animation : `mania-note1H-{n}.png`.
 - Par défaut, ceci est aussi la fin de la note.
-  - Quand il est utilisé comme fin de note, cet élément est retourné par défaut en version 2.5+.
+  - Quand il est utilisé comme fin de note, cet élément est retourné par défaut en version 2.5.
     - Ce comportement peut être désactivé en inscrivant `0` en face de la commande `NoteFlipWhenUpsideDownT`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
   - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
@@ -299,7 +298,7 @@ Notes :
 
 - Nom de l'animation : `mania-note2H-{n}.png`.
 - Par défaut, ceci est aussi la fin de la note.
-  - Quand il est utilisé comme fin de note, cet élément est retourné par défaut en version 2.5+.
+  - Quand il est utilisé comme fin de note, cet élément est retourné par défaut en version 2.5.
     - Ce comportement peut être désactivé en inscrivant `0` en face de la commande `NoteFlipWhenUpsideDownT`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
   - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
@@ -319,7 +318,7 @@ Notes :
 
 - Nom de l'animation : `mania-noteSH-{n}.png`.
 - Par défaut, ceci est aussi la fin de la note.
-  - Quand il est utilisé comme fin de note, cet élément est retourné par défaut en version 2.5+.
+  - Quand il est utilisé comme fin de note, cet élément est retourné par défaut en version 2.5.
     - Ce comportement peut être désactivé en inscrivant `0` en face de la commande `NoteFlipWhenUpsideDownT`.
 - Ces éléments sont mis à l'échelle pour s'adapter aux différentes colonnes.
   - Si la largeur des colonnes diffèrent : la plus petite est correctement mise à l'échelle et les autres sont compressées pour correspondre à sa hauteur.
