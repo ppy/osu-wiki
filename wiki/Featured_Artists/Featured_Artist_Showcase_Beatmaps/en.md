@@ -361,6 +361,27 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (2018-06-26)
   - (![][osu!]) [Andromedik x Itro x Polygon - Fly](https://osu.ppy.sh/beatmapsets/1470255) hosted by ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
 
+### July
+
+- **[Fred V & Grafix](https://osu.ppy.sh/home/news/2021-07-10-new-featured-artist-fred-v-grafix)** (2021-07-10)
+  - (![][osu!]) [Fred V & Grafix - Ignite (feat. Amy J Pryce)](https://osu.ppy.sh/beatmapsets/1443360) hosted by ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)
+- **[Aoi](https://osu.ppy.sh/home/news/2021-07-21-new-featured-artist-aoi)** (2021-07-21)
+  - (![][osu!]) [Aoi a.k.a. ALFOU](https://osu.ppy.sh/beatmapsets/1248102) hosted by ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
+  - (![][osu!taiko]) [Aoi vs. siqlo - Hacktivism](https://osu.ppy.sh/beatmapsets/1488148) hosted by ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][osu!taiko]) [Aoi - c.s.q.n.](https://osu.ppy.sh/beatmapsets/1492454) hosted by ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253)
+- **[seatrus](https://osu.ppy.sh/home/news/2021-07-28-new-featured-artist-seatrus)** (2021-07-28)
+  - (![][osu!]) [seatrus - TH3 5UMMONERS](https://osu.ppy.sh/beatmapsets/1497954) hosted by ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623)
+  - (![][osu!taiko]) [seatrus - efchi](https://osu.ppy.sh/beatmapsets/1461343) hosted by ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649)
+- **[SEBii](https://osu.ppy.sh/home/news/2021-07-31-new-featured-artist-sebii)** (2021-07-31)
+  - (![][osu!catch]) [SEBii - Play Poker Remix (w/ Maple)](https://osu.ppy.sh/beatmapsets/1512572) hosted by ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164)
+
+### August
+
+- **[T & Sugah](https://osu.ppy.sh/home/news/2021-08-07-new-featured-artist-t-and-sugah)** (2021-08-07)
+  - (![][osu!]) [T & Sugah - Days Away (feat. Voicians)](https://osu.ppy.sh/beatmapsets/1519300) hosted by ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033)
+  - (![][osu!]) [T & Sugah x Zazu - Lost On My Own](https://osu.ppy.sh/beatmapsets/1511518) hosted by ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+  - (![][osu!]) [T & Sugah - Wicked Days](https://osu.ppy.sh/beatmapsets/1496811) hosted by ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+
 ## History
 
 Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
@@ -392,6 +413,7 @@ Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/n
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"

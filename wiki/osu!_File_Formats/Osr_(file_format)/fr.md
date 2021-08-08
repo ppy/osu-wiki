@@ -88,3 +88,5 @@ Comme décrit dans l'[API osu!](https://github.com/peppy/osu-api/wiki#mods)
 | Key1 | 67108864 (26) |  |
 | Key3 | 134217728 (27) |  |
 | Key2 | 268435456 (28) |  |
+| ScoreV2 | 536870912 (29) |  |
+| Mirror | 1073741824 (30) |  |
