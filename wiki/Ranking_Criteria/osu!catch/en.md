@@ -94,7 +94,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **[Dashes](/wiki/Glossary/Dash) that are [higher-snapped](/wiki/Glossary/Snapping#higher-snapped) must always be followed by a [walk](/wiki/Glossary/Walk).**
 - **[Edge dashes](/wiki/Glossary/Edge_dash) must not be used.** They require extremely precise timing which cannot be expected of less-experienced players.
 - **At least 250 ms must be left between circles/sliders and the start and end of [spinners](/wiki/Hit_object/Spinner).** This is to ensure readability.
-- **Individual 1/3 and/or 1/4 patterns must not persist for more than one bar (4 and 5 objects respectively).**
 
 #### Guidelines
 
