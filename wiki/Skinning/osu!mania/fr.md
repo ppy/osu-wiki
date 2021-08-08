@@ -1,6 +1,5 @@
 # Skinning du mode osu!mania
 
-
 Depuis la version 2.5, les skinners peuvent personnaliser entièrement les notes et la scène du mode osu!mania en utilisant le fichier [skin.ini](/wiki/Skinning/skin.ini). Voici ce qu'osu! reconnaîtra si l'on choisit de ne pas utiliser le fichier `skin.ini` pour plus de personnalisation.
 
 ## Hit Bursts
