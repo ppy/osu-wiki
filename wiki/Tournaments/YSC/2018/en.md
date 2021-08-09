@@ -64,7 +64,7 @@ Yaz's Summer Cup 2018 was run by various community members.
 
 | Group | Members |
 | :-: | :-- |
-| Group A | ![][flag_GB] **[sut\_son]([link](https://osu.ppy.sh/users/9622163))**, ![][flag_PL] **[Malolat](https://osu.ppy.sh/users/4317480)**, ![][flag_CA] [principe](https://osu.ppy.sh/users/2796962), ![][flag_JP] [Natori Sana](https://osu.ppy.sh/users/3540294) |
+| Group A | ![][flag_GB] **[sut\_son](https://osu.ppy.sh/users/9622163)**, ![][flag_PL] **[Malolat](https://osu.ppy.sh/users/4317480)**, ![][flag_CA] [principe](https://osu.ppy.sh/users/2796962), ![][flag_JP] [Natori Sana](https://osu.ppy.sh/users/3540294) |
 | Group B | ![][flag_AT] **[Teppi](https://osu.ppy.sh/users/1371974)**, ![][flag_PL] **[Piggey](https://osu.ppy.sh/users/4163860)**, ![][flag_GB] [Topsp1n](https://osu.ppy.sh/users/7657761), ![][flag_PL] [Kurogami](https://osu.ppy.sh/users/4435332) |
 | Group C | ![][flag_US] **[Woey](https://osu.ppy.sh/users/3792472)**, ![][flag_KR] **[Yaong](https://osu.ppy.sh/users/1883865)**, ![][flag_US] [Jensen](https://osu.ppy.sh/users/4719055), ![][flag_GB] [Wario](https://osu.ppy.sh/users/4361729) |
 | Group D | ![][flag_US] **[BeasttrollMC](https://osu.ppy.sh/users/3171691)**, ![][flag_US] **[conradmittn](https://osu.ppy.sh/users/8208289)**, ![][flag_RU] [\_Kyori](https://osu.ppy.sh/users/6660546), ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580) |
