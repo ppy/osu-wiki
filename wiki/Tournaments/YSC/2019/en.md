@@ -92,7 +92,7 @@ This competition has come to an end and resulted in the following podium:
   - [lapix - SYNERGY (Akali) [REEEEEEEEEEEEEEEEEEEEEE]](https://osu.ppy.sh/beatmapsets/637233#osu/1351972)
   - [xi - Ascension to Heaven (Night Mare) [Forecoming End]](https://osu.ppy.sh/beatmapsets/962661#osu/2015643)
   - [YURRY CANON - Nadeshiko color Heart (kwk) [Sakase]](https://osu.ppy.sh/beatmapsets/682996#osu/1451733)
-  - [Pastel*Palettes - Happy Synthesizer (ktgster) [Special]](https://osu.ppy.sh/beatmapsets/932654#osu/1947213)
+  - [Pastel\*Palettes - Happy Synthesizer (ktgster) [Special]](https://osu.ppy.sh/beatmapsets/932654#osu/1947213)
   - [Neuromonakh Feofan - Remeslo (Ksardas) [Rampage]](https://osu.ppy.sh/beatmapsets/905674#osu/1890216)
 - Hidden
   - [kano - Houkago Stride (Clementine) [RLC]](https://osu.ppy.sh/beatmapsets/79878#osu/228679)
@@ -127,11 +127,11 @@ This competition has come to an end and resulted in the following podium:
   - [S-C-U feat. Qrispy Joybox - anemone (Irreversible) [Spring]](https://osu.ppy.sh/beatmapsets/295753#osu/664328)
 - Hidden
   - [Yooh - Seraphim (Long Ver.) (Realazy) [ANGELIC]](https://osu.ppy.sh/beatmapsets/660269#osu/1398123)
-  - [Nanamori-chu * Goraku-bu - Happy Time wa Owaranai (deadcode) [Extra]](https://osu.ppy.sh/beatmapsets/935707#osu/1967350)
+  - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) [Extra]](https://osu.ppy.sh/beatmapsets/935707#osu/1967350)
   - [LeaF - Monkey Business -Satire mix- (-PC) [Krazy]](https://osu.ppy.sh/beatmapsets/999031#osu/2089429)
 - HardRock
   - [Memme - Platina (Gamu) [Extra]](https://osu.ppy.sh/beatmapsets/1060173#osu/2219835)
-  - [Ryu* - Sakura Mirage (STARLiGHT Mix) (Jean-Michel Jr) [Illusion]](https://osu.ppy.sh/beatmapsets/765795#osu/1918015)
+  - [Ryu\* - Sakura Mirage (STARLiGHT Mix) (Jean-Michel Jr) [Illusion]](https://osu.ppy.sh/beatmapsets/765795#osu/1918015)
   - [Brandy - Cross Time !! (Leader) [captin's Extra]](https://osu.ppy.sh/beatmapsets/973162#osu/2067296)
 - DoubleTime
   - [Chata - Reviver (DakeDekaane) [Insane]](https://osu.ppy.sh/beatmapsets/177490#osu/427241)
@@ -170,8 +170,8 @@ This competition has come to an end and resulted in the following podium:
   - [yurika - THE EVENING STAR (y u z u k i) [Lunatic]](https://osu.ppy.sh/beatmapsets/27706#osu/92762)
   - [Ceui - Shinai Naru Sekai e (Shad0w1and) [To My Beloved World]](https://osu.ppy.sh/beatmapsets/408441#osu/899410)
 - FreeMod
-  - [P4koo - Crystal Illusion (Beomsan) [milr_'s Expert]](https://osu.ppy.sh/beatmapsets/797393#osu/1676675)
-  - [Mutsuhiko Izumi - Red Goose (nold_1702) [Superable]](https://osu.ppy.sh/beatmapsets/46239#osu/144029)
+  - [P4koo - Crystal Illusion (Beomsan) [milr\_'s Expert]](https://osu.ppy.sh/beatmapsets/797393#osu/1676675)
+  - [Mutsuhiko Izumi - Red Goose (nold\_1702) [Superable]](https://osu.ppy.sh/beatmapsets/46239#osu/144029)
   - [Camellia - Diastrophism (Regou) [Real's Extreme]](https://osu.ppy.sh/beatmapsets/923095#osu/1938201)
 - Tiebreaker
   - **[Minami - Hollowness (Sparhten) [Liar's Ideal]](https://osu.ppy.sh/beatmapsets/914461#osu/1909993)**
@@ -199,11 +199,11 @@ This competition has come to an end and resulted in the following podium:
   - [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) [felys' White Hard]](https://osu.ppy.sh/beatmapsets/879051#osu/1855074)
   - [Duca - Dreamer (timemon) [Insane]](https://osu.ppy.sh/beatmapsets/730660#osu/1542024)
   - [Ax feat.Natsukawa Yoko - Sakimori Renka (Long Version) (Seikatu) [Insane]](https://osu.ppy.sh/beatmapsets/477999#osu/1021024)
-  - [a_hisa - Tokei no Heya to Seishin Sekai (Asahina Momoko) [wring's Hyper]](https://osu.ppy.sh/beatmapsets/508947#osu/1207717)
+  - [a\_hisa - Tokei no Heya to Seishin Sekai (Asahina Momoko) [wring's Hyper]](https://osu.ppy.sh/beatmapsets/508947#osu/1207717)
 - FreeMod
   - [Chata - Wan (Kalibe) [Sorrow]](https://osu.ppy.sh/beatmapsets/922995#osu/1927444)
   - [Igorrr - Unpleasant Sonata (Sieg) [Insane]](https://osu.ppy.sh/beatmapsets/90385#osu/245284)
-  - [Ryu* vs. kors k - Force of Wind (Jenny) [Extra]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
+  - [Ryu\* vs. kors k - Force of Wind (Jenny) [Extra]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
 - Tiebreaker
   - **[Ito Kanako - Sky of Twilight (Natsu) [Stairway To Heaven]](https://osu.ppy.sh/beatmapsets/677104#osu/1432041)**
 
@@ -212,8 +212,8 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (165.8 MB)](https://mega.nz/#!v15QmIaa!wCMR-il_t9Zmsob7-zsYHvrEvRGpPi5ROMSfly7rH-I "MEGA")**
 
 - NoMod
-  - [Mimori Suzuko - Light for Knight (_kotachi_) [Destiny]](https://osu.ppy.sh/beatmapsets/801337#osu/1682101)
-  - PSYQUI - Still in my heart feat. Punipuni Denki (Nanashima Asami) [I'm gonna miss you]
+  - [Mimori Suzuko - Light for Knight (\_kotachi\_) [Destiny]](https://osu.ppy.sh/beatmapsets/801337#osu/1682101)
+  - PSYQUI - Still in my heart feat. Punipuni Denki (Nanashima Asami) \[I'm gonna miss you]\
   - [LeaF - Wizdomiot (Asahina Momoko) [Lunatic]](https://osu.ppy.sh/beatmapsets/336099#osu/743896)
   - [MiddleIsland - Aquaphobia EP (Cassu2) [1]](https://osu.ppy.sh/beatmapsets/622998#osu/1313190)
   - [Primary - in the Garden (Kyuukai) [Endless Sky]](https://osu.ppy.sh/beatmapsets/629217#osu/1328177)
@@ -221,7 +221,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   - [Thaehan - Help (Smug Nanachi) [xChorse x SmugNa x LMT's Extra]](https://osu.ppy.sh/beatmapsets/874269#osu/1836081)
   - [Mutsuhiko Izumi - Green Green Dance (Long Version) (spboxer3) [Collab]](https://osu.ppy.sh/beatmapsets/34896#osu/122566)
-  - [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely~Radio (CSY the corrupt) [Extreme]](https://osu.ppy.sh/beatmapsets/76709#osu/215888)
+  - [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely\~Radio (CSY the corrupt) [Extreme]](https://osu.ppy.sh/beatmapsets/76709#osu/215888)
 - HardRock
   - [lasah - GHOST OF LORELEY (moph) [Expert]](https://osu.ppy.sh/beatmapsets/486177#osu/1036735)
   - [Yuuyu - Scrap Syndrome (deetz) [Extra]](https://osu.ppy.sh/beatmapsets/973996#osu/2044722)
