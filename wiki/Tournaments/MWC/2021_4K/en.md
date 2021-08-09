@@ -51,6 +51,8 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)
 - [Livestream](https://www.twitch.tv/osulive "Twitch")
 - [pick'ems page](https://pickem.hwc.hr/tournaments/67 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Challonge bracket](https://challonge.com/MWC4K2021 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAcQbWgmUTB8pR17UlLc2GC9i49-GzrJyKed6rj-8nM21cjIajvdTGqU0-Jdp2SM75Kq-x8ExyJEqI/pubhtml "Google Drive")**
 
 ## Participants
 
@@ -96,7 +98,56 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)**, [Neko-Pan](https://osu.ppy.sh/users/8676532), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [Edvo](https://osu.ppy.sh/users/8301758), [Doryoku](https://osu.ppy.sh/users/5639725), [Cerelac](https://osu.ppy.sh/users/8065567) |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [Lottery61](https://osu.ppy.sh/users/13821222), [Asrielly](https://osu.ppy.sh/users/2656302), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [LovelyL](https://osu.ppy.sh/users/14821320) |
 
+## Match schedule: Round of 32
+
+### Saturday, August 14, 2021
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Philippines | ![][flag_PH] | ![][flag_TW] | Taiwan | Aug 14 (Sat.) 09:00 UTC | Aug 14 (Sat.) 17:00 UTC+8 | Aug 14 (Sat.) 17:00 UTC+8 |
+| Japan | ![][flag_JP] | ![][flag_ES] | Spain | Aug 14 (Sat.) 10:00 UTC | Aug 14 (Sat.) 19:00 UTC+9 | Aug 14 (Sat.) 12:00 UTC+2 |
+| Vietnam | ![][flag_VN] | ![][flag_FI] | Finland | Aug 14 (Sat.) 11:00 UTC | Aug 14 (Sat.) 18:00 UTC+7 | Aug 14 (Sat.) 14:00 UTC+3 |
+| Thailand | ![][flag_TH] | ![][flag_IT] | Italy | Aug 14 (Sat.) 14:00 UTC | Aug 14 (Sat.) 21:00 UTC+7 | Aug 14 (Sat.) 16:00 UTC+2 |
+| Malaysia | ![][flag_MY] | ![][flag_CH] | Switzerland | Aug 14 (Sat.) 15:00 UTC | Aug 14 (Sat.) 23:00 UTC+8 | Aug 14 (Sat.) 17:00 UTC+2 |
+| Indonesia | ![][flag_ID] | ![][flag_AR] | Argentina | Aug 14 (Sat.) 16:00 UTC | Aug 14 (Sat.) 23:00 UTC+7 | Aug 14 (Sat.) 13:00 UTC-3 |
+| France | ![][flag_FR] | ![][flag_PE] | Peru | Aug 14 (Sat.) 17:00 UTC | Aug 14 (Sat.) 19:00 UTC+2 | Aug 14 (Sat.) 12:00 UTC-5 |
+| United States | ![][flag_US] | ![][flag_BE] | Belgium | Aug 14 (Sat.) 18:00 UTC | Aug 14 (Sat.) 13:00 UTC-5 | Aug 14 (Sat.) 20:00 UTC+2 |
+
+### Sunday, August 15, 2021
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_AU] | Australia | Aug 15 (Sun.) 02:00 UTC | Aug 14 (Sat.) 22:00 UTC-4 | Aug 15 (Sun.) 12:00 UTC+10 |
+| Hong Kong | ![][flag_HK] | ![][flag_RU] | Russian Federation | Aug 15 (Sun.) 09:00 UTC | Aug 15 (Sun.) 17:00 UTC+8 | Aug 15 (Sun.) 12:00 UTC+3 |
+| Singapore | ![][flag_SG] | ![][flag_PL] | Poland | Aug 15 (Sun.) 10:00 UTC | Aug 15 (Sun.) 18:00 UTC+8 | Aug 15 (Sun.) 12:00 UTC+2 |
+| South Korea | ![][flag_KR] | ![][flag_SE] | Sweden | Aug 15 (Sun.) 11:00 UTC | Aug 15 (Sun.) 20:00 UTC+9 | Aug 15 (Sun.) 13:00 UTC+2 |
+| China | ![][flag_CN] | ![][flag_VE] | Venezuela | Aug 15 (Sun.) 14:00 UTC | Aug 15 (Sun.) 22:00 UTC+8 | Aug 15 (Sun.) 10:00 UTC-4 |
+| Brazil | ![][flag_BR] | ![][flag_DE] | Germany | Aug 15 (Sun.) 15:00 UTC | Aug 15 (Sun.) 12:00 UTC-3 | Aug 15 (Sun.) 17:00 UTC+2 |
+| Chile | ![][flag_CL] | ![][flag_NL] | Netherlands | Aug 15 (Sun.) 17:00 UTC | Aug 15 (Sun.) 13:00 UTC-4 | Aug 15 (Sun.) 19:00 UTC+2 |
+| United Kingdom | ![][flag_GB] | ![][flag_CO] | Colombia | Aug 15 (Sun.) 18:00 UTC | Aug 15 (Sun.) 19:00 UTC+1 | Aug 15 (Sun.) 13:00 UTC-5 |
+
 ## Mappools
+
+### Round of 32
+
+- Rice
+  - [Mage - The Words I Never Said In D&B (Jole) \[drum & stream 1.05x (181bpm)\]](https://osu.ppy.sh/beatmapsets/1459360#mania/2999031)
+  - [litmus* - iterated (Paturages) \[Elekton's versatile (edit)\]](https://osu.ppy.sh/beatmapsets/1543102#mania/3154191)
+  - [Pendulum - Axle Grinder (Shoegazer) \[Accelerator 1.1x (190bpm)\]](https://osu.ppy.sh/beatmapsets/1485332#mania/3045851)
+  - [Blitz Lunar - Diamante Spectrasplosion (ilikexd) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1541950#mania/3151919)
+  - [Maurice Ravel - Gaspard de la Nuit: Ondine (-mint-) \[Xay's Solo (cut)\]](https://osu.ppy.sh/beatmapsets/1543132#mania/3154234)
+- Hybrid
+  - [Kshiraki - Seven (Paturages) \[Heptaplex\]](https://osu.ppy.sh/beatmapsets/1435937#mania/2954580)
+  - [sakuzyo - PANDORA PARADOXXX (-mint-) \[Elekton's vanity (edit)\]](https://osu.ppy.sh/beatmapsets/1543130#mania/3154232)
+  - [Chroma - Destroy, Destroy, Destroy The Happy End (-mint-) \[Termination (cut)\]](https://osu.ppy.sh/beatmapsets/1443682#mania/2969580)
+- LN
+  - [Rche - Todestrieb (stupud man) \[Rapture\]](https://osu.ppy.sh/beatmapsets/1367593#mania/2828317)
+  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (Mipha-) \[Carefree\]](https://osu.ppy.sh/beatmapsets/1440719#mania/2972364)
+- SV
+  - [sasakure.UK - Ruins (Neomorph remix) (Paturages) \[Shambles (edit)\]](https://osu.ppy.sh/beatmapsets/1367133#mania/3154187)
+  - [Inspector K - Disconnected -Hyper- (XeoStyle) \[beep boop\]](https://osu.ppy.sh/beatmapsets/609453#mania/1287062)
+- Tiebreaker:
+  - **[Camellia - Proluvies ("abyssum oblivionis" Long ver.) (-mint-) \[chasm (NSV)\]](https://osu.ppy.sh/beatmapsets/1543068#mania/3154095)**
 
 ### Qualifiers
 
@@ -108,6 +159,12 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 - [BilliumMoto - life flashes before weeb eyes (lemonguy) \[Stage 6: Remembrance\]](https://osu.ppy.sh/beatmapsets/1535624#mania/3140051)
 - [Cardboard Box feat. Koji Kondo - Mario-chi Survivor (Mipha-) \[Stage 7: Perseverance\]](https://osu.ppy.sh/beatmapsets/1535627#mania/3140055)
 - [deathcount - A Beautiful Degeneracy (Remix by Stazma The Junglechrist) (Shoegazer) \[Stage 8: Desperado\]](https://osu.ppy.sh/beatmapsets/1535626#mania/3140053)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CqMoaA8sCvnzKIdacPuXiqlVan4b1-1O4HCfLSvOaV0/edit?rm=minimal "Google Sheets"). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdqhTkuMWNIS__5kIRsSijfBz_tpADXACO-9VtOxRXK5zIIqmFKlaEx7Hm_-MpjE4K5-8PDmExG7hJ/pubhtml "Google Drive").
 
 ## Ruleset
 
