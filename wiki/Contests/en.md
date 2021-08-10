@@ -1,3 +1,5 @@
+<!-- Please check redirects after adding new sections with year numbers. -->
+
 # Contests
 
 This section is dedicated for contests held throughout the osu! community.
@@ -13,8 +15,6 @@ Official contests are hosted (or otherwise recognised as official) by the [osu! 
 *Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
 The **Monthly Beatmapping Contest**, in its initial concept, was a mapping contest where participating mappers competed to create the most outstanding beatmap of a given song with a proper [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards in a month.
-
-<!-- Please check redirects after adding new sections with year numbers. -->
 
 | Contest No. | Song | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -224,7 +224,9 @@ The **Skinning Contest** is a skinning contest where artistic creators from all 
 
 *Unofficial contests* are contests that are hosted by the members of the community.
 
-### osu! Beatmapping World Championship <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
+### osu! Beatmapping World Championship
+
+<!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
 **osu! Beatmapping World Championship** is a team-based mapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) battle their mapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](/wiki/Featured_Artists) library during its runs.
 
