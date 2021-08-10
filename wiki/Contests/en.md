@@ -1,5 +1,3 @@
-<!-- Please check redirects after adding new sections with year numbers. -->
-
 # Contests
 
 This section is dedicated for contests held throughout the osu! community.
@@ -15,6 +13,8 @@ Official contests are hosted (or otherwise recognised as official) by the [osu! 
 *Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
 The **Monthly Beatmapping Contest**, in its initial concept, was a mapping contest where participating mappers competed to create the most outstanding beatmap of a given song with a proper [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards in a month.
+
+<!-- Please check redirects after adding new sections with year numbers. -->
 
 | Contest No. | Song | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
