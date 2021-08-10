@@ -624,7 +624,7 @@ Sunday, 21 July 2019:
 | Envy_ss ![][flag_RU] | 0 | **1** | ![][flag_AU] **nickerdead3** | *forfeit* |
 | esemoka57 ![][flag_PL] | 0 | **5** | ![][flag_SK] **Tikef** | [#1](https://osu.ppy.sh/community/matches/53502715) |
 | Woffel ![][flag_GB] | 1 | **5** | ![][flag_PL] **twoj stary** | [#1](https://osu.ppy.sh/community/matches/53503371) |
-| Arnold24x24 ![][flag_AT] | 0 | **1** | ![][flag_GB] **SteffoST** | *forfeit* |
+| Arnold24x24 ![][flag_PE] | 0 | **1** | ![][flag_GB] **SteffoST** | *forfeit* |
 | Vaxei ![][flag_US] | 0 | **1** | ![][flag_US] **BeasttrollMC** | *forfeit* |
 | **Tekkito** ![][flag_US] | **5** | 2 | ![][flag_US] spaghetti cat | [#1](https://osu.ppy.sh/community/matches/53509780) |
 
@@ -658,7 +658,7 @@ Sunday, 14 July 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **DigitalHypno** ![][flag_US] | **5** | 2 | ![][flag_AT] Arnold24x24 | [#1](https://osu.ppy.sh/community/matches/53324830) |
+| **DigitalHypno** ![][flag_US] | **5** | 2 | ![][flag_PE] Arnold24x24 | [#1](https://osu.ppy.sh/community/matches/53324830) |
 | **Yaong** ![][flag_KR] | **5** | 1 | ![][flag_US] explosionboom | [#1](https://osu.ppy.sh/community/matches/53325618) |
 | Lunirs ![][flag_AU] | 4 | **5** | ![][flag_HK] **IllyaLover** | [#1](https://osu.ppy.sh/community/matches/53329860) |
 | **Varvalian** ![][flag_JP] | **5** | 0 | ![][flag_AU] Ezipie | [#1](https://osu.ppy.sh/community/matches/53331842) |
