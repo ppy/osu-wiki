@@ -213,7 +213,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   - [Mimori Suzuko - Light for Knight (\_kotachi\_) [Destiny]](https://osu.ppy.sh/beatmapsets/801337#osu/1682101)
-  - PSYQUI - Still in my heart feat. Punipuni Denki (Nanashima Asami) \[I'm gonna miss you]\
+  - PSYQUI - Still in my heart feat. Punipuni Denki (Nanashima Asami) \[I'm gonna miss you\]
   - [LeaF - Wizdomiot (Asahina Momoko) [Lunatic]](https://osu.ppy.sh/beatmapsets/336099#osu/743896)
   - [MiddleIsland - Aquaphobia EP (Cassu2) [1]](https://osu.ppy.sh/beatmapsets/622998#osu/1313190)
   - [Primary - in the Garden (Kyuukai) [Endless Sky]](https://osu.ppy.sh/beatmapsets/629217#osu/1328177)
@@ -420,7 +420,7 @@ Friday, 9 August 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Dada ![][flag_BR] | 1 | 6 | ![][flag_JP] Varvalian | [#1](https://osu.ppy.sh/community/matches/53946617) |
+| Dada ![][flag_BR] | 1 | **6** | ![][flag_JP] **Varvalian** | [#1](https://osu.ppy.sh/community/matches/53946617) |
 
 Saturday, 10 August 2019:
 
@@ -431,7 +431,7 @@ Saturday, 10 August 2019:
 | TopSp1n ![][flag_GB] | 0 | **1** | ![][flag_CN] **Start** | *forfeit* |
 | **Nega** ![][flag_GB] | **6** | 2 | ![][flag_CN] Woey | [#1](https://osu.ppy.sh/community/matches/53979256) |
 | lain ![][flag_US] | 2 | **6** | ![][flag_IL] **Xilver15** | [#1](https://osu.ppy.sh/community/matches/53980620) |
-| Dustice ![][flag_DE] | 0 | 1 | ![][flag_PL] GunOfGaming | *forfeit* |
+| Dustice ![][flag_DE] | 0 | **1** | ![][flag_PL] **GunOfGaming** | *forfeit* |
 
 Sunday, 11 August 2019:
 
@@ -556,7 +556,7 @@ Saturday, 3 August 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Varvalian ![][flag_JP] | 1 | 0 | ![][flag_DE] hallowatcher | *forfeit* |
+| **Varvalian** ![][flag_JP] | **1** | 0 | ![][flag_DE] hallowatcher | *forfeit* |
 
 Friday, 9 August 2019:
 
@@ -690,7 +690,7 @@ Tuesday, 16 July 2019:
 
 ### Qualifiers
 
-See the [Qualifier Results sheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit#gid=27448477 "Google Sheets") for a list of all qualification results.
+See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit#gid=27448477 "Google Sheets") for a list of all qualification results.
 
 ## Ruleset
 
