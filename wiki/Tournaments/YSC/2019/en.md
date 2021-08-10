@@ -37,7 +37,7 @@ The **Yaz's Summer Cup 2019** (***YSC 2019***) was a 1v1 double-elimination osu!
 
 ## Organisation
 
-Yaz's Summer Cup 2018 was run by various community members.
+Yaz's Summer Cup 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
