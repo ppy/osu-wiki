@@ -109,7 +109,7 @@ This competition has come to an end and resulted in the following podium:
   - [Tanchiky - Sanshi Suimei (nika mika) [Miyabi]](https://osu.ppy.sh/beatmapsets/811685#osu/1702581)
 - Tiebreaker
   - **[Camellia - GHOST (2020 Halloween+++++++++ VIP) (h i f u) [Extra+++++++++]](https://osu.ppy.sh/beatmapsets/1438177#osu/2958956)**
-  
+
 ### Finals
 
 **[Download the mappack here! (146 MB)](https://drive.google.com/file/d/1y_rLtnc3TOfFtt5NVZBlE-yhQ23I0e2L/view?usp=sharing "Google Drive")**
@@ -139,7 +139,7 @@ This competition has come to an end and resulted in the following podium:
   - [Lil Jon & The East Side Boyz - Get Low (feat. Ying Yang Twins) (smozit) [THREE SIX NINE]](https://osu.ppy.sh/beatmapsets/1193555#osu/2486826)
 - Tiebreaker
   - **[Vektor - Recharging the Void (Mazzerin) [Cygnus Terminal]](https://osu.ppy.sh/beatmapsets/489236#osu/1042794)**
-  
+
 ### Semifinals
 
 - NoMod
@@ -166,7 +166,7 @@ This competition has come to an end and resulted in the following podium:
   - [Agent Fresco - Dark Water (Godot) [Destrier]](https://osu.ppy.sh/beatmapsets/761140#osu/1618950)
 - Tiebreaker
   - **[Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix) (ProfessionalBox) [Primordial Nucleosynthesis]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848)**
-  
+
 ### Quarterfinals
 
 **[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1fnkDSXNKZR6dwZ8kbaXskqc0i9hXeMAl/view?usp=sharing "Google Drive")**
@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
   - [Kendrick Lamar - Swimming Pools (Drank) (Myahkey) [Pool full of liquor, I'ma dive in it]](https://osu.ppy.sh/beatmapsets/1328213#osu/2751465)
 - Tiebreaker
   - **[Ata - Euphoria (bbu) [Delusion]](https://osu.ppy.sh/beatmapsets/813328#osu/1705819)**
-  
+
 ### Round of 16
 
 **[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1xRN7xsz4SgXg_5Il6-SDDYJ2okCfzgCC/view?usp=sharing "Google Drive")**
@@ -224,7 +224,7 @@ This competition has come to an end and resulted in the following podium:
   - [Celldweller - The Best It's Gonna Get (Mirash) [Insane]](https://osu.ppy.sh/beatmapsets/1079727#osu/2258972)
 - Tiebreaker
   - **[Camellia feat. Kagekiha Gakusei - Lowermost revolt ("Jeremiad" Long ver.) (h i f u) [Insubordination]](https://osu.ppy.sh/beatmapsets/1407641#osu/2907457)**
-  
+
 ### Round of 32
 
 **[Download the mappack here! (101 MB)](https://drive.google.com/file/d/1tkiSuUoZpbVq5ZsCGOO1cqDofcyOvQCi/view?usp=sharing "Google Drive")**
@@ -250,7 +250,7 @@ This competition has come to an end and resulted in the following podium:
   - [Loki - With Fire and Sword (2013) (Daycore) [Insane]](https://osu.ppy.sh/beatmapsets/963872#osu/2025832)
 - Tiebreaker
   - **[Ito Kanako - Sky of Twilight (Natsu) [Stairway To Heaven]](https://osu.ppy.sh/beatmapsets/677104#osu/1432041)**
-  
+
 ### Round of 64
 
 **[Download the mappack here! (112 MB)](https://drive.google.com/file/d/13gy2vUQbhedD0Sh-1jnA9gzZjC3kuU86/view?usp=sharing "Google Drive")**
@@ -276,7 +276,7 @@ This competition has come to an end and resulted in the following podium:
   - [Smooth McGroove - Spark Mandrill Acapella (Dj CUTMAN Remix) (ReFaller) [Insane]](https://osu.ppy.sh/beatmapsets/399912#osu/870353)
 - Tiebreaker
   - **[Laur - Sound Chimera (Nattu) [Typhon]](https://osu.ppy.sh/beatmapsets/813569#osu/1805910)**
-  
+
 ### Qualifiers
 
 **[Download the mappack here! (65 MB)](https://drive.google.com/file/d/1QZh0Ge9NS9uBu3kHvwLQlWf00dznMeZP/view?usp=sharing "Google Drive")**
