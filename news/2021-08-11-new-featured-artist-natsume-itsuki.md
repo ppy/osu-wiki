@@ -16,7 +16,7 @@ We've snagged just about **every song** (19 in total) from her four-album-discog
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/189/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/189/release_showcase.mp4?2021" type="video/mp4" preload="none">
     </video>
 </div>
 
