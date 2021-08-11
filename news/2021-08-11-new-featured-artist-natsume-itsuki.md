@@ -54,7 +54,7 @@ And if you're looking for something accessible to all types of players, [this ma
 
 ---
 
-Dive into the rest of **Nastume Itsuki**'s catalogue through [her Featured Artist page](https://osu.ppy.sh/beatmaps/artists/189) chock-full of pre-timed beatmaps for songs that are soon to be among your favourites. That's assuming they aren't already your favourites, of course.
+Dive into the rest of **Natsume Itsuki**'s catalogue through [her Featured Artist page](https://osu.ppy.sh/beatmaps/artists/189) chock-full of pre-timed beatmaps for songs that are soon to be among your favourites. That's assuming they aren't already your favourites, of course.
 
 Is it even possible for us to slam more extraordinary music down your earholes? You can be the judge of that this Saturday when we announce yet another cool Featured Artist. Stay tuned into the [@osugame Twitter](https://twitter.com/osugame) for details on that and we'll see you again soon!
 
