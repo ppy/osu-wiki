@@ -28,7 +28,7 @@ Play through [this mapset](https://osu.ppy.sh/beatmapsets/1506697) by [SMOKELIND
     <source src="LINK" type="audio/mpeg">
 </audio>
 
-### Ai to CodeQ no Hate
+### AI to CodeQ no Hate
 
 Or play through [this multi-difficulty marathon mapset](https://osu.ppy.sh/beatmapsets/1515036) designed by [Hinsvar](https://osu.ppy.sh/users/1249323) of the Mappers' Guild (and featured in the video above)!
 
