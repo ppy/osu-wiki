@@ -185,11 +185,9 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | Fince |
 | ![][flag_DK] [Akayume](https://osu.ppy.sh/users/10617530) | Danca |
 | ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045) |  |
 | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) |  |
-| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) |  |
 | ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | Almanca |
 | ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
