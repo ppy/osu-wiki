@@ -6,7 +6,7 @@ tags:
 
 # Registre de personnel
 
-Les promotions et les retraites du personnel public ont enregistrés pour les rendre plus facile à retrouver pour la communauté.
+Les promotions et les retraites du personnel public sont enregistrés pour les rendre plus facile à retrouver pour la communauté.
 
 - [2007](2007)
 - [2008](2008)
