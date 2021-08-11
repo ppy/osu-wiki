@@ -381,6 +381,10 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [T & Sugah - Days Away (feat. Voicians)](https://osu.ppy.sh/beatmapsets/1519300) hosted by ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033)
   - (![][osu!]) [T & Sugah x Zazu - Lost On My Own](https://osu.ppy.sh/beatmapsets/1511518) hosted by ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
   - (![][osu!]) [T & Sugah - Wicked Days](https://osu.ppy.sh/beatmapsets/1496811) hosted by ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+- **[Natsume Itsuki](https://osu.ppy.sh/home/news/2021-08-11-new-featured-artist-natsume-itsuki)** (2021-08-11)
+  - (![][osu!]) [Natsume Itsuki - Mayday](https://osu.ppy.sh/beatmapsets/1506697) hosted by ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!]) [Natsume Itsuki - Ai to CodeQ no Hate](https://osu.ppy.sh/beatmapsets/1515036) hosted by ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!]) [Natsume Itsuki - Miniascape](https://osu.ppy.sh/beatmapsets/1509856) hosted by ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
 
 ## History
 
