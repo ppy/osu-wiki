@@ -10,7 +10,7 @@ Highly expressive singer and voice actor **Natsume Itsuki** joins the Featured A
 
 Known for handling essentially all types of vocal atmospheres and moods, **Natsume Itsuki** is the Tokyo-based talent responsible for 1/3 of vocal trio [La prière](https://osu.ppy.sh/beatmaps/artists/174) and her own self-released music that intersects outstanding vocals and a variety of rhythm game styles.
 
-We've snagged just about **every song** (19 in total) from her 4 album discography, so check it all out from [her Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/189)!
+We've snagged just about **every song** (19 in total) from her four-album-discography, so check it all out from [her Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/189)!
 
 **Natsume Itsuki** is a new name to the osu! scene despite creating music that perfectly checks all the boxes for music loved by osu! players. To see what we mean, check out a quick double-mouse-only sample of her music below, as well as some awesome [showcase maps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) created by members of the Mappers' Guild:
 
