@@ -176,19 +176,14 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
-| ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  |
-| ![][flag_US] [Battle](https://osu.ppy.sh/users/4037545) |  |
-| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | 중국어 |
-| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 한국어 |
-| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | 독일어 |
-| ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 러시아어 |
-| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | 프랑스어 |
-| ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
-| ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
-| ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | 한국어 |
-| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | 약간의 영어 |
-| ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | 프랑스어 |
-| ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | 중국어, 일본어 |
+| ![][flag_DK] [Akayume](https://osu.ppy.sh/users/10617530) | 덴마크어 |
+| ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045) |  |
+| ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) |  |
+| ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | 독일어 |
+| ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
+| ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
+| ![][flag_GB] [mrowswares](https://osu.ppy.sh/users/9558549) |  |
+| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) |  |
 
 #### osu!taiko
 
