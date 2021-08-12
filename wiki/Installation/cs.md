@@ -6,7 +6,7 @@ Tato stránka vám řekne, jak zajistit, aby hra fungovala na vašem zařízení
 
 ## Minimální systémové požadavky
 
-- .NET framework 4+ (instalační program by vás měl vyzvat ke stažení, v opačném případě jej najdete [zde](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+- .NET framework 4+ (instalační program by vás měl vyzvat ke stažení, v opačném případě jej najdete [zde](https://www.microsoft.com/cs-CZ/download/details.aspx?id=48130))
 - Slušná grafická karta.
 
 ## Instalace osu!
@@ -19,8 +19,7 @@ Tato stránka vám řekne, jak zajistit, aby hra fungovala na vašem zařízení
 4. Když je instalační program dokončen, osu! se zapne. osu! direct bude použit ke stažení některých startovacích beatmap pro vás.
 5. osu! vás vyzve k přihlášení nebo registraci.
    - Pokud již účet máte, přihlaste se.
-   - Pokud se potřebujete zaregistrovat, podívejte se na [Registrace](/wiki/Registrace).
- 
+   - Pokud se potřebujete zaregistrovat, podívejte se na [Registrace](/wiki/Registration).
 ## Odstraňování problémů
 
 Pokud používáte 64bitový Windows 7, můžete mít potíže s instalací osu!. Zkuste nainstalovat 64bitovou verzi .NET Framework, pro případ, že by nebyla dodána s instalačním programem osu!. [Stáhněte si jej zde](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
@@ -36,7 +35,7 @@ Pokud používáte 64bitový Windows 7, můžete mít potíže s instalací osu!
 
 *Viz také: [Beatmapy](/wiki/Beatmap)*
 
-Existují dva způsoby, jak přidat beatmapy, přes webovou stránku nebo přes osu! Direct (vyžaduje [osu! Supporter](/wiki/osu!Supporter)).
+Existují dva způsoby, jak přidat beatmapy, přes webovou stránku nebo přes osu! Direct (vyžaduje [osu! Supporter](/wiki/osu!supporter)).
 
 ### Webová stránka
 
