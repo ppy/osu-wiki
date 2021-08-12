@@ -20,10 +20,10 @@ La **Global Moderation Team** (anciennement appelée Global Mod Team, Administra
 
 ## Rôles et responsabilités
 
-***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
+***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
 *Voir aussi : [Signaler un mauvais comportement](/wiki/Reporting_Bad_Behaviour)*
 
-La Global Moderation Team est responsable du bien-être du tchat et du forum, et s'occupe des interactions au sein de la communauté. Vous pouvez vous adresser à elle pour toute question relative à la modération du jeu, ce qui inclut (mais ne se limite pas à) :
+La Global Moderation Team est responsable du bien-être du tchat et du forum, et s'occupe des interactions au sein de la communauté. Vous pouvez la solliciter pour toute question relative à la modération du jeu, ce qui inclut (mais ne se limite pas à) :
 
 - un problème avec le tchat (par exemple, spam ou harcèlement)
 - un mauvais comportement sur le forum (par exemple, des messages inappropriés).
@@ -41,14 +41,14 @@ Les facteurs les plus importants à prendre en compte sont le comportement, l'ac
 1. Faites preuve d'un bon comportement en étant poli et en traitant les autres utilisateurs avec respect. Il est essentiel que votre compte soit exempt de silences ou de problèmes graves.
 2. Faire preuve d'activité dans le jeu en participant au chat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Reporting_Bad_Behaviour) et tout problème via le système de rapport. Répondre aux questions et aider les autres à résoudre leurs problèmes.
 3. Avoir une bonne compréhension des [règles](/wiki/Rules) et de leur application. Il est important de savoir ce qui est acceptable au sein d'osu! et ce qui ne l'est pas.
-4. Soyez patient. Le GMT n'ajoute pas spontanément des membres qui aident depuis quelques jours seulement. Il faut du temps au GMT pour évaluer une personne - sa personnalité, ce qu'elle peut faire, son activité, etc.
+4. Soyez patient. La GMT n'ajoute pas spontanément des membres qui aident depuis quelques jours seulement. Il est nécessaire de donner du temps à la GMT afin d'évaluer une personne - sa personnalité, ce qu'elle peut faire, son activité, etc.
 
-En général, l'équipe observe les personnes pendant plusieurs semaines ou mois pour s'assurer qu'elles constituent un ajout valable à l'équipe. Veuillez être patient et ne pas en faire trop. N'hésitez pas à demander à n'importe qui de l'équipe de GMT pour toute question concernant les règles, le signalement des utilisateurs, et tout autre problème.
+En général, l'équipe observe les utilisateurs pendant plusieurs semaines ou mois pour s'assurer que ceux-ci soient de bons candidats. Veuillez être patient et ne pas en faire trop. N'hésitez pas à demander à n'importe qui de l'équipe de GMT pour toute question concernant les règles, le signalement des utilisateurs, et tout autre problème.
 
 ### Certaines choses à ne pas faire
 
-1. Ne demandez pas continuellement au GMT si vous êtes un candidat potentiel. Le GMT ne cherche pas à ajouter quelqu'un qui contribue comme un moyen d'arriver à ses fins. Un état d'esprit altruiste est essentiel.
-2. Ne signalez pas tout ce qui se passe dans le tchat. Il est important de savoir ce qui mérite d'être signalé et ce qui ne l'est pas.
+1. Ne demandez pas continuellement aux GMT si vous êtes un candidat potentiel. Les GMT ne cherchent pas à ajouter quelqu'un qui contribue comme un moyen d'arriver à ses fins. Un état d'esprit altruiste est essentiel.
+2. Ne signalez pas tout ce qui se passe dans le tchat. Il est important de savoir ce qui mérite d'être signalé et ce qui ne le mérite pas.
 3. Ne répondez pas aux questions des autres sans savoir si la réponse est correcte ou non, en particulier sur les forums. Les suggestions sont les bienvenues, mais le fait de mal informer les gens n'aide personne. Si vous ne connaissez pas la solution à un problème, laissez quelqu'un d'autre répondre et apprenez de lui.
 4. N'en faites pas trop. L'équipe recherche une contribution constante, et non une surcharge de travail. Cela est connu pour épuiser les gens et leur faire perdre patience et engagement. Allez-y doucement !
 
