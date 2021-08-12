@@ -164,11 +164,11 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
-| ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Modérateur de tchat, Équipe d'assistance |
+| ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Modérateur de tchat, Équipe du support |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Modérateur de tchat |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, Équipe d'assistance |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, Équipe du support |
 | ![][flag_NL] [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ![][flag_HK] [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) | BAT |
@@ -215,7 +215,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Modérateur de tchat |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, Équipe d'assistance |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, Équipe du support |
 | ![][flag_PH] [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, Gestion des tournois |
 | ![][flag_KR] [Where](https://osu.ppy.sh/users/549172) | GMT |
@@ -224,7 +224,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) | BAT |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | BAT |
 | ![][flag_CN] [xierbaliti](https://osu.ppy.sh/users/34044) | BAT |
-| ![][flag_FR] [XPJ38](https://osu.ppy.sh/users/273531) | Équipe d'assistance |
+| ![][flag_FR] [XPJ38](https://osu.ppy.sh/users/273531) | Équipe du support |
 | ![][flag_SE] [Xytox](https://osu.ppy.sh/users/2229274) | GMT |
 | ![][flag_FR] [yaya](https://osu.ppy.sh/users/50163) | BAT |
 | ![][flag_US] [yeahyeahyeahhh](https://osu.ppy.sh/users/58042) | MAT |

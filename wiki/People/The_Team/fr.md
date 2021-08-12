@@ -37,9 +37,9 @@ Les personnes énumérées ci-dessous constituent le noyau de l'**équipe d'osu!
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | développeur d'osu!, amateur d'osu!mania, chasseur de bugs |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Responsable du Project Loved, conseiller communautaire, Sensibilisation des Featured Artist |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Gouvernant général, assistant de tournoi |
-| ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Espèces menacées d'extinction |
+| ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Espèce en voie de disparition |
 
-En plus de ce qui précède, l'[équipe de soutien du compte](Account_support_team) est là pour aider à résoudre les problèmes hors de portée.
+En plus de ce qui précède, l'[équipe de support aux comptes](Account_support_team) est là pour aider à résoudre les problèmes hors de portée.
 
 ## Groupes d'utilisateurs
 
