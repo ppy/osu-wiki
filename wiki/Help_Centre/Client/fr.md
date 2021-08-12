@@ -472,7 +472,7 @@ Toutes les tablettes de la marque osu! prennent en charge le raw input par défa
 
 **Certains processus d'arrière-plan peuvent se battre avec osu! pour les ressources et rendre le jeu très désagréable.**
 
-Essayez de fermer certains ou tous programmes dont vous n'avez pas besoin pendant que vous jouez.
+Essayez de fermer certains ou tous les programmes dont vous n'avez pas besoin pendant que vous jouez.
 
 #### Votre ordinateur est-il sécurisé ?
 
@@ -516,4 +516,4 @@ Si vous avez beaucoup de beatmaps, attendez au moins 10 à 15 minutes avant de d
 
 Si le problème ne se résout pas, un redémarrage peut parfois aider.
 
-**Si vous rencontrez toujours des pics de lag ou des bégaiements pendant le jeu, consultez le [guide de dépannage des performances](/wiki/Performance_Troubleshooting) pour d'autres problèmes connexes et leurs solutions.**
+**Si vous rencontrez toujours des pics de lag ou du stuttering pendant la partie, consultez le [guide de dépannage des performances](/wiki/Performance_Troubleshooting) pour d'autres problèmes connexes et leurs solutions.**
