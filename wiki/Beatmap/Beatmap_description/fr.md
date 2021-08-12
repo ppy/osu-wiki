@@ -1,10 +1,10 @@
-# Descriptions des beatmaps
+# Descriptions de beatmaps
 
-Les **descriptions des beatmaps** sont de petites zones sous la page d'une [beatmap](/wiki/Beatmap) qui donnent aux joueurs des informations sur ladite beatmap en utilisant le [BBCode](/wiki/BBCode). La plupart des beatmaps [classées](/wiki/Beatmap/Category#classée) utilisent au moins une image, un nombre (dépendant du nombre de beatmaps crées par le mappeur) et une section de difficulté.
+Les **descriptions de beatmaps** sont de petites zones sous la page d'une [beatmap](/wiki/Beatmap) qui donnent aux joueurs des informations sur ladite beatmap en utilisant le [BBCode](/wiki/BBCode). La plupart des beatmaps [classées](/wiki/Beatmap/Category#classée) utilisent au moins une image, un nombre (dépendant du nombre de beatmaps créées par le mappeur) et une section de difficulté.
 
 ## Utilisations et informations
 
-*Attention : Pour qu'une beatmap soit classée, il est recommandé aux créateurs d'avoir une bonne description de la beatmap, mais ce n'est pas obligatoire*.
+*Attention : Pour qu'une beatmap soit classée, il est recommandé aux créateurs d'avoir une bonne description de beatmap, mais ce n'est pas obligatoire*.
 
 Les descriptions de beatmaps comprennent souvent les éléments suivants :
 
