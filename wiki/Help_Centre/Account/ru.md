@@ -1,5 +1,5 @@
 ---
-теги:
+tags:
   - profile
   - issue
   - supporter
