@@ -66,7 +66,7 @@ This competition has come to an end and resulted in the following podium:
   - [Hatsune Miku - Hatsune Miku no Shoushitsu (DJPop) [Uninstall]](https://osu.ppy.sh/beatmapsets/8284#osu/34211)
   - [Hyadain - Chocobo (mtmcl) [Gold]](https://osu.ppy.sh/beatmapsets/4392#osu/24023)
   - [IOSYS - Border of Extacy (Shinxyn) [Doomsday]](https://osu.ppy.sh/beatmapsets/7932#osu/33415)
-  - [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein (DJPop) [Hard]](https://osu.ppy.sh/beatmapsets/1391#osu/16266)
+  - [IOSYS - Kanbu de Todomatte Sugu Tokeru \~ Kyouki no Udongein (DJPop) [Hard]](https://osu.ppy.sh/beatmapsets/1391#osu/16266)
   - [REDALiCE - taboo tears you up (DJPop) [Insane]](https://osu.ppy.sh/beatmapsets/7224#osu/31334)
 - FreeMod
   - [NicoNicoDouga - Night Of Commands feat. YuGiOh (vytalibus) [Start!!!!]](https://osu.ppy.sh/beatmapsets/4823#osu/26397)
@@ -79,7 +79,7 @@ This competition has come to an end and resulted in the following podium:
 ### Semifinals
 
 - NoMod
-  - [3L - Extend Ash ~ Hourai Victim (Dangaard) [Extra Stage]](https://osu.ppy.sh/beatmapsets/8593#osu/36223)
+  - [3L - Extend Ash \~ Hourai Victim (Dangaard) [Extra Stage]](https://osu.ppy.sh/beatmapsets/8593#osu/36223)
   - [Haru - Reach For The Moon, Immortal Smoke (Doomsday93) [Lunatic]](https://osu.ppy.sh/beatmapsets/7238#osu/31390)
   - [IOSYS - Marisa wa Taihen na Mono wo Nusunde Ikimashita (DJPop) [Hard]](https://osu.ppy.sh/beatmapsets/243#osu/1147)
   - [REDALiCE - Porky of Porky of Porky of Porky (K-S-O) [Ultimate Chimera]](https://osu.ppy.sh/beatmapsets/1428#osu/18577)
@@ -87,7 +87,7 @@ This competition has come to an end and resulted in the following podium:
 - FreeMod
   - [beatMARIO - Night of Knights (DJPop) [SOLO]](https://osu.ppy.sh/beatmapsets/15920#osu/58063)
   - [IOSYS - Cirno Chirumiru (Mafiamaster) [Insane]](https://osu.ppy.sh/beatmapsets/5708#osu/27415)
-  - [IOSYS - Utage wa Eien ni ~SHD~ (DJPop) [SOLO]](https://osu.ppy.sh/beatmapsets/7385#osu/31819)
+  - [IOSYS - Utage wa Eien ni \~SHD\~ (DJPop) [SOLO]](https://osu.ppy.sh/beatmapsets/7385#osu/31819)
   - [POLYSICS - Rocket (Moyashimon ED) (flakmonkey) [Insane]](https://osu.ppy.sh/beatmapsets/152#osu/341)
 - TieBreaker
   - **[Demetori - Jehovah's YaHVeH (happy30) [Lunatic]](https://osu.ppy.sh/beatmapsets/9641#osu/38294)**
@@ -114,7 +114,7 @@ This competition has come to an end and resulted in the following podium:
   - [Hatsune Miku - Triple Baka (Mafiamaster) [SiN-Sane]](https://osu.ppy.sh/beatmapsets/4674#osu/27053)
   - [kors k - smooooch (Takuma) [Hyper]](https://osu.ppy.sh/beatmapsets/10675#osu/41348)
   - [Mindless Self Indulgence - Tom Sawyer (LuigiHann) [Insane]](https://osu.ppy.sh/beatmapsets/5433#osu/26707)
-  - [_yoc - Crescendo (lesjuh) [Happy30]](https://osu.ppy.sh/beatmapsets/10033#osu/39421)
+  - [\_yoc - Crescendo (lesjuh) [Happy30]](https://osu.ppy.sh/beatmapsets/10033#osu/39421)
   - [Yousei Teikoku - Kikai Gensou Syoujo (SOGASOGAMO) [Ice]](https://osu.ppy.sh/beatmapsets/11393#osu/43582)
 - FreeMod
   - [CARTOONS - WITCH DOCTOR (Kidwii) [Insane]](https://osu.ppy.sh/beatmapsets/1897#osu/17390)
@@ -280,7 +280,7 @@ Tuesday, 13 September 2016:
 | **MicMck101** ![][flag_US] | **1** | 0 | ![][flag_DE] xXMalvinXx | *forfeit* |
 | -Lolisim- ![][flag_US] | 0 | **3** | ![][flag_GB] **WufWuf** |  |
 | **jamimc2** ![][flag_AU] | **1** | 0 | ![][flag_HU] scuoa  | *forfeit* |
-| **Sam** ![][flag_GB] | **3** | 0 | ![][flag_CL] [Burno-] |  |
+| **Sam** ![][flag_GB] | **3** | 0 | ![][flag_CL] \[Burno-\] |  |
 | Zetopweaboo ![][flag_AU] | 0 | **3** | ![][flag_GB] **Jerome** |  |
 | Sexual Tentacle ![][flag_CA] | 0 | **3** | ![][flag_GB] **SEXaris** |  |
 | RealXantoo ![][flag_AT] | 0 | **3** | ![][flag_FI] **Kissatyty** |  |
@@ -301,7 +301,7 @@ Tuesday, 13 September 2016:
 | **Pelzio** ![][flag_GB] | **3** | 0 | ![][flag_AU] TheJimnebob |  |
 | **- Auto -** ![][flag_CA] | **3** | 0 | ![][flag_GB] Khunee |  |
 | **Babo-ya** ![][flag_FI] | **3** | 0 | ![][flag_ES] TriFerlol |  |
-| **Halfslashed** ![][flag_US] | **3** | 0 | ![][flag_PL] [-KuleK-] |  |
+| **Halfslashed** ![][flag_US] | **3** | 0 | ![][flag_PL] \[-KuleK-\] |  |
 | **dong** ![][flag_GB] | **3** | 1 | ![][flag_US] YouKittenMe |  |
 
 ## Ruleset
