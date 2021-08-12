@@ -7,7 +7,7 @@ tags:
   - editor
   - status
   - warning
-  - télécharger
+  - publier
   - supprimer
   - place
   - éditeur
@@ -20,11 +20,11 @@ tags:
 
 Cette section est consacrée aux problèmes liés à l'éditeur de beatmaps et au beatmapping en général.
 
-## Comment télécharger/mettre à jour ma map ?
+## Comment publier/mettre à jour ma map ?
 
 **Vous pouvez le faire via l'éditeur du jeu.**
 
-Pour télécharger votre beatmap, allez dans l'éditeur et allez dans `Fichier` > `Publier la beatmap...`.
+Pour publier votre beatmap, allez dans l'éditeur et allez dans `Fichier` > `Publier la beatmap...`.
 
 Votre beatmap pourra ainsi être téléchargée sur le site web. La mise à jour d'une map est le même processus que pour une map déjà téléchargée.
 
