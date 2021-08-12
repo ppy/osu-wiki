@@ -61,7 +61,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_AR] | **Argentina** | **[BossPlays](https://osu.ppy.sh/users/7341471)**, [prodilex](https://osu.ppy.sh/users/9472628), [NEDEAAAHHHH](https://osu.ppy.sh/users/65724), [\[Crz\]kOvID-](https://osu.ppy.sh/users/13858488), [LeongKat](https://osu.ppy.sh/users/11429144), [ottenst](https://osu.ppy.sh/users/13488325) |
 | ![][flag_AU] | **Australia** | **[ruka](https://osu.ppy.sh/users/6117525)**, [a1ternation](https://osu.ppy.sh/users/9828306), [Vegemite](https://osu.ppy.sh/users/13111686), [Bounter](https://osu.ppy.sh/users/11149878), [HD\_AdreNaline](https://osu.ppy.sh/users/10540368), [Nerd Guy](https://osu.ppy.sh/users/11247298) |
 | ![][flag_BE] | **Belgium** | **[Mortelspawn\_](https://osu.ppy.sh/users/5331420)**, [yetii](https://osu.ppy.sh/users/6914714), [spamblock](https://osu.ppy.sh/users/11968058), [Akeyro](https://osu.ppy.sh/users/1933624), [shaafs](https://osu.ppy.sh/users/8811695), [Joppe27](https://osu.ppy.sh/users/11753018) |
-| ![][flag_BR] | **Brazil** | **[Amerom](https://osu.ppy.sh/users/5691061)**, [SillyFangirl](https://osu.ppy.sh/users/2288363), [Lothus](https://osu.ppy.sh/users/9530019), [Liight00](https://osu.ppy.sh/users/13601876), [\[LS\]LeMarcinho](https://osu.ppy.sh/users/13347579), [Lenn](https://osu.ppy.sh/users/11236829) |
+| ![][flag_BR] | **Brazil** | **[Amerom](https://osu.ppy.sh/users/5691061)**, [SillyFangirl](https://osu.ppy.sh/users/2288363), [Lothus](https://osu.ppy.sh/users/9530019), [Liight00](https://osu.ppy.sh/users/13601876), [LeMarcinho](https://osu.ppy.sh/users/13347579), [Lenn](https://osu.ppy.sh/users/11236829) |
 | ![][flag_CA] | **Canada** | **[Piggy](https://osu.ppy.sh/users/5390121)**, [NunotabaShinobu](https://osu.ppy.sh/users/10809497), [Dale940](https://osu.ppy.sh/users/13847951), [Stability](https://osu.ppy.sh/users/6701738), [loafusofbread](https://osu.ppy.sh/users/9278959), [GDMem](https://osu.ppy.sh/users/10804091) |
 | ![][flag_CL] | **Chile** | **[kanocchi 3](https://osu.ppy.sh/users/10072733)**, [Urusai](https://osu.ppy.sh/users/469808), [Stupud\_cL](https://osu.ppy.sh/users/10659178), [Rhyzt\_cL](https://osu.ppy.sh/users/10235085), [Jeanne Da Rin](https://osu.ppy.sh/users/5214842), [faz\_cL](https://osu.ppy.sh/users/7853143) |
 | ![][flag_CN] | **China** | **[\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832)**, [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739), [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235), [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250), [\[Crz\]Lucifer](https://osu.ppy.sh/users/5270332) |
@@ -93,7 +93,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_TR] | **Turkey** | **[hsod](https://osu.ppy.sh/users/15391485)**, [BlueHydra11](https://osu.ppy.sh/users/13360698), [bys4133](https://osu.ppy.sh/users/14832700), [Ayhan2005](https://osu.ppy.sh/users/6419257) |
 | ![][flag_UA] | **Ukraine** | **[Shailexi](https://osu.ppy.sh/users/11375371)**, [LonBertZend](https://osu.ppy.sh/users/10484445), [Arstz](https://osu.ppy.sh/users/10844754), [kaivoo](https://osu.ppy.sh/users/5257734), [ADshush](https://osu.ppy.sh/users/15231447) |
 | ![][flag_GB] | **United Kingdom** | **[Pope Gadget](https://osu.ppy.sh/users/2288341)**, [Eliminate294](https://osu.ppy.sh/users/9169747), [TingMomentum](https://osu.ppy.sh/users/12489832), [XxNewson1234xX](https://osu.ppy.sh/users/9895650), [Yonk\_](https://osu.ppy.sh/users/5156656), [Zoobin4](https://osu.ppy.sh/users/10055204) |
-| ![][flag_US] | **United States** | **[Iylwrychi](https://osu.ppy.sh/users/7794488)**, [Toaph Daddy](https://osu.ppy.sh/users/7616811), [neptunefun](https://osu.ppy.sh/users/11734610), [BaniiYanii](https://osu.ppy.sh/users/11888159), [stupud man](https://osu.ppy.sh/users/2141612), [mashu](https://osu.ppy.sh/users/12028216) |
+| ![][flag_US] | **United States** | **[Iylwrychi](https://osu.ppy.sh/users/7794488)**, [Toaph Daddy](https://osu.ppy.sh/users/7616811), [GripWarrior](https://osu.ppy.sh/users/11734610), [BaniiYanii](https://osu.ppy.sh/users/11888159), [stupud man](https://osu.ppy.sh/users/2141612), [mashu](https://osu.ppy.sh/users/12028216) |
 | ![][flag_UY] | **Uruguay** | **[etterna in osu](https://osu.ppy.sh/users/5243536)**, [HopelessPlayer](https://osu.ppy.sh/users/12528267), [El Milanga](https://osu.ppy.sh/users/12264918), [cuchu93](https://osu.ppy.sh/users/1311627) |
 | ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)**, [Neko-Pan](https://osu.ppy.sh/users/8676532), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [Edvo](https://osu.ppy.sh/users/8301758), [Doryoku](https://osu.ppy.sh/users/5639725), [Cerelac](https://osu.ppy.sh/users/8065567) |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [Lottery61](https://osu.ppy.sh/users/13821222), [Asrielly](https://osu.ppy.sh/users/2656302), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [LovelyL](https://osu.ppy.sh/users/14821320) |
@@ -104,27 +104,27 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Philippines | ![][flag_PH] | ![][flag_TW] | Taiwan | Aug 14 (Sat.) 09:00 UTC | Aug 14 (Sat.) 17:00 UTC+8 | Aug 14 (Sat.) 17:00 UTC+8 |
-| Japan | ![][flag_JP] | ![][flag_ES] | Spain | Aug 14 (Sat.) 10:00 UTC | Aug 14 (Sat.) 19:00 UTC+9 | Aug 14 (Sat.) 12:00 UTC+2 |
-| Vietnam | ![][flag_VN] | ![][flag_FI] | Finland | Aug 14 (Sat.) 11:00 UTC | Aug 14 (Sat.) 18:00 UTC+7 | Aug 14 (Sat.) 14:00 UTC+3 |
+| Philippines | ![][flag_PH] | ![][flag_TW] | Taiwan | Aug 14 (Sat.) 10:00 UTC | Aug 14 (Sat.) 18:00 UTC+8 | Aug 14 (Sat.) 18:00 UTC+8 |
+| Japan | ![][flag_JP] | ![][flag_ES] | Spain | Aug 14 (Sat.) 11:00 UTC | Aug 14 (Sat.) 20:00 UTC+9 | Aug 14 (Sat.) 13:00 UTC+2 |
+| South Korea | ![][flag_KR] | ![][flag_SE] | Sweden | Aug 14 (Sat.) 12:00 UTC | Aug 14 (Sat.) 21:00 UTC+9 | Aug 14 (Sat.) 14:00 UTC+2 |
+| Singapore | ![][flag_SG] | ![][flag_PL] | Poland | Aug 14 (Sat.) 13:00 UTC | Aug 14 (Sat.) 21:00 UTC+8 | Aug 14 (Sat.) 15:00 UTC+2 |
+| Indonesia | ![][flag_ID] | ![][flag_AR] | Argentina | Aug 14 (Sat.) 13:00 UTC | Aug 14 (Sat.) 20:00 UTC+7 | Aug 14 (Sat.) 10:00 UTC-3 |
+| Hong Kong | ![][flag_HK] | ![][flag_RU] | Russian Federation | Aug 14 (Sat.) 14:00 UTC | Aug 14 (Sat.) 22:00 UTC+8 | Aug 14 (Sat.) 17:00 UTC+3 |
 | Thailand | ![][flag_TH] | ![][flag_IT] | Italy | Aug 14 (Sat.) 14:00 UTC | Aug 14 (Sat.) 21:00 UTC+7 | Aug 14 (Sat.) 16:00 UTC+2 |
 | Malaysia | ![][flag_MY] | ![][flag_CH] | Switzerland | Aug 14 (Sat.) 15:00 UTC | Aug 14 (Sat.) 23:00 UTC+8 | Aug 14 (Sat.) 17:00 UTC+2 |
-| Indonesia | ![][flag_ID] | ![][flag_AR] | Argentina | Aug 14 (Sat.) 16:00 UTC | Aug 14 (Sat.) 23:00 UTC+7 | Aug 14 (Sat.) 13:00 UTC-3 |
-| France | ![][flag_FR] | ![][flag_PE] | Peru | Aug 14 (Sat.) 17:00 UTC | Aug 14 (Sat.) 19:00 UTC+2 | Aug 14 (Sat.) 12:00 UTC-5 |
-| United States | ![][flag_US] | ![][flag_BE] | Belgium | Aug 14 (Sat.) 18:00 UTC | Aug 14 (Sat.) 13:00 UTC-5 | Aug 14 (Sat.) 20:00 UTC+2 |
 
 ### Sunday, August 15, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Canada | ![][flag_CA] | ![][flag_AU] | Australia | Aug 15 (Sun.) 02:00 UTC | Aug 14 (Sat.) 22:00 UTC-4 | Aug 15 (Sun.) 12:00 UTC+10 |
-| Hong Kong | ![][flag_HK] | ![][flag_RU] | Russian Federation | Aug 15 (Sun.) 09:00 UTC | Aug 15 (Sun.) 17:00 UTC+8 | Aug 15 (Sun.) 12:00 UTC+3 |
-| Singapore | ![][flag_SG] | ![][flag_PL] | Poland | Aug 15 (Sun.) 10:00 UTC | Aug 15 (Sun.) 18:00 UTC+8 | Aug 15 (Sun.) 12:00 UTC+2 |
-| South Korea | ![][flag_KR] | ![][flag_SE] | Sweden | Aug 15 (Sun.) 11:00 UTC | Aug 15 (Sun.) 20:00 UTC+9 | Aug 15 (Sun.) 13:00 UTC+2 |
+| Vietnam | ![][flag_VN] | ![][flag_FI] | Finland | Aug 15 (Sun.) 10:00 UTC | Aug 15 (Sun.) 17:00 UTC+7 | Aug 15 (Sun.) 13:00 UTC+3 |
 | China | ![][flag_CN] | ![][flag_VE] | Venezuela | Aug 15 (Sun.) 14:00 UTC | Aug 15 (Sun.) 22:00 UTC+8 | Aug 15 (Sun.) 10:00 UTC-4 |
-| Brazil | ![][flag_BR] | ![][flag_DE] | Germany | Aug 15 (Sun.) 15:00 UTC | Aug 15 (Sun.) 12:00 UTC-3 | Aug 15 (Sun.) 17:00 UTC+2 |
-| Chile | ![][flag_CL] | ![][flag_NL] | Netherlands | Aug 15 (Sun.) 17:00 UTC | Aug 15 (Sun.) 13:00 UTC-4 | Aug 15 (Sun.) 19:00 UTC+2 |
+| France | ![][flag_FR] | ![][flag_PE] | Peru | Aug 15 (Sun.) 17:00 UTC | Aug 15 (Sun.) 19:00 UTC+2 | Aug 15 (Sun.) 12:00 UTC-5 |
 | United Kingdom | ![][flag_GB] | ![][flag_CO] | Colombia | Aug 15 (Sun.) 18:00 UTC | Aug 15 (Sun.) 19:00 UTC+1 | Aug 15 (Sun.) 13:00 UTC-5 |
+| United States | ![][flag_US] | ![][flag_BE] | Belgium | Aug 15 (Sun.) 19:00 UTC | Aug 15 (Sun.) 14:00 UTC-5 | Aug 15 (Sun.) 21:00 UTC+2 |
+| Brazil | ![][flag_BR] | ![][flag_DE] | Germany | Aug 15 (Sun.) 19:00 UTC | Aug 15 (Sun.) 16:00 UTC-3 | Aug 15 (Sun.) 21:00 UTC+2 |
+| Chile | ![][flag_CL] | ![][flag_NL] | Netherlands | Aug 15 (Sun.) 19:00 UTC | Aug 15 (Sun.) 15:00 UTC-4 | Aug 15 (Sun.) 21:00 UTC+2 |
 
 ## Mappools
 
