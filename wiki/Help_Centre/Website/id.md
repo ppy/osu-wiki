@@ -47,7 +47,7 @@ Apabila kamu merasa tersinggung atau terlecehkan dengan pesan-pesan yang dikirim
 
 1. Klik tombol `Options` pada yang ada pada layar menu utama, atau tekan `CTRL` + `O`.
 2. Ketik `ignore` atau `pengabaian` pada kolom pencarian (quick-search bar) yang muncul, lalu tuju pilihan `Daftar pengabaian`.
-4. Tambahkan nama-nama pengguna yang ingin kamu blokir ke dalam daftar tersebut. Apabila nama pengguna yang ingin kamu blokir memiliki spasi, ganti semua spasi yang ada dengan garis bawah (sebagai contoh, untuk dapat memblokir *The Gatekeeper* kamu harus mengetikkan *The\_Gatekeeper*).
+3. Tambahkan nama-nama pengguna yang ingin kamu blokir ke dalam daftar tersebut. Apabila nama pengguna yang ingin kamu blokir memiliki spasi, ganti semua spasi yang ada dengan garis bawah (sebagai contoh, untuk dapat memblokir *The Gatekeeper* kamu harus mengetikkan *The\_Gatekeeper*).
 
 Ke depannya, kamu tidak akan lagi melihat pesan-pesan dari para pengguna tersebut baik yang dikirim pada kanal-kanal obrolan publik ataupun pada pesan pribadi (*private message*).
 
@@ -101,7 +101,7 @@ Apabila kamu sebelumnya pernah membuat kolom “saya!” pada laman profil osu! 
 
 Apabila kamu berkeberatan dengan hal ini, kamu dapat membuka tiket layanan dukungan (*support ticket*) baru dengan mengirimkan email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-Apabila kamu tidak yakin apakah konten yang kamu miliki (atau yang hendak kamu letakkan) pada kolom “saya!” milikmu melanggar peraturan atau tidak, harap hubungi anggota-anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) untuk mendapatkan arahan dan konfirmasi lebih lanjut.
+Apabila kamu tidak yakin apakah konten yang kamu miliki (atau yang hendak kamu letakkan) pada kolom “saya!” milikmu melanggar peraturan atau tidak, harap hubungi anggota-anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) untuk mendapatkan arahan dan konfirmasi lebih lanjut.
 
 ### Apakah saya harus memiliki alamat email yang terdaftar untuk dapat membuat akun osu!?
 
