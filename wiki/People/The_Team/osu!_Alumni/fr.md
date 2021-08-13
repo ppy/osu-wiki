@@ -1,6 +1,6 @@
 # osu! Alumni
 
-Les **osu! Alumni** sont ceux qui sont connus pour leurs contributions et qui sont partis depuis. Si les ressources étaient disponibles, nous érigerions une statue pour chaque membre sur la place de la ville.
+Les **osu! Alumni** sont les utilisateurs qui sont connus pour leurs contributions et qui sont partis depuis. Si nous avions de quoi le faire, nous érigerions une statue pour chaque membre sur la place de la ville.
 
 La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de tous les membres.
 
@@ -69,7 +69,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | QAT |
 | ![][flag_AR] [Extor](https://osu.ppy.sh/users/555) | BAT |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | BAT |
-| ![][flag_DE] [Ezoda](https://osu.ppy.sh/users/1231180) | Équipe d'assistance |
+| ![][flag_DE] [Ezoda](https://osu.ppy.sh/users/1231180) | Équipe du support |
 | ![][flag_SG] [Faust](https://osu.ppy.sh/users/65152) | BAT |
 | ![][flag_US] [foulcoon](https://osu.ppy.sh/users/19883) | BAT |
 | ![][flag_FI] [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
