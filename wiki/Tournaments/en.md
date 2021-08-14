@@ -260,7 +260,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Vintage Map Tourney!](OVMT/1) | 2016-09-01 | 2016-10-03 | ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226) | ![][flag_US] [Catgirl](https://osu.ppy.sh/users/2771995) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| [osu! Vintage Map Tourney 2! Electric Boogaloo!](OVMT/2) | 2017-06-21 | 2017-08-01 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | ![][flag_TW] [Rucker](https://osu.ppy.sh/users/147515) | ![][flag_SI] [krom1](https://osu.ppy.sh/users/4643145) |
+| [osu! Vintage Map Tourney 2! Electric Boogaloo!](OVMT/2) | 2017-06-21 | 2017-09-01 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | ![][flag_TW] [Rucker](https://osu.ppy.sh/users/147515) | ![][flag_SI] [krom1](https://osu.ppy.sh/users/4643145) |
 
 #### osu! Z-Tournament
 
