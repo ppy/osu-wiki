@@ -361,7 +361,6 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 - **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (2018-06-26)
   - (![][osu!]) [Andromedik x Itro x Polygon - Fly](https://osu.ppy.sh/beatmapsets/1470255) diurus oleh ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
 
-
 ### Juli
 
 - **[Fred V & Grafix](https://osu.ppy.sh/home/news/2021-07-10-new-featured-artist-fred-v-grafix)** (2021-07-10)
