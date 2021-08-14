@@ -25,19 +25,19 @@ We've pulled **7** songs from their archives, all of which are freely available 
 ### rN - opia
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/190/Songs/rN%20-%20opia.mp3" type="audio/mpeg">
 </audio>
 
 ### rN - fragments.arc
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/190/Songs/rN%20-%20fragments.arc.mp3" type="audio/mpeg">
 </audio>
 
 ### rN\[DysphoriΛ\] - Message From the Dystøpia: Dear UtøpiA
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/190/Songs/rN%5BDysphoriA%5D%20-%20Message%20From%20the%20Dystopia%20Dear%20UtopiA.mp3" type="audio/mpeg">
 </audio>
 
 ### rN - My Dearest Nightmare
@@ -45,7 +45,7 @@ We've pulled **7** songs from their archives, all of which are freely available 
 And in case you missed it, play through [this osu! spread](https://osu.ppy.sh/beatmapsets/1542543) hosted by [Mirash](https://osu.ppy.sh/users/2841009)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/190/Crescent%20Moon%20under%20the%20Raining%20Sky/rN%20-%20My%20Dearest%20Nightmare.mp3" type="audio/mpeg">
 </audio>
 
 ---
