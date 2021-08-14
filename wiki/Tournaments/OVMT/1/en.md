@@ -48,6 +48,10 @@ osu! Vintage Map Tourney! was run by various community members.
 - [Livestream](https://www.twitch.tv/mmi_ "Twitch")
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1AJjmh_BxCJBihbFnbWvFRbmpq1nLTjXVU0DvF8O0Ltg/edit#gid=1977560641 "Google Sheets")
 
+## Participants
+
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1AJjmh_BxCJBihbFnbWvFRbmpq1nLTjXVU0DvF8O0Ltg/edit#gid=1312201255 "Google Sheets") for a list of all initial participants.
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
