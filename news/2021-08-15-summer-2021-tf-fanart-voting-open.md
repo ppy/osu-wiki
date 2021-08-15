@@ -4,7 +4,7 @@ title: "Summer 2021 Track and Field Fanart Contest Voting Open!"
 date: 2021-08-15 12:00:00 +0000
 ---
 
-**80** artistic contenders are at the starting line and ready to race, now all we need are your votes!
+**80** artistic contenders are at the starting line and ready to race — now all we need are your votes!
 
 ![](https://assets.ppy.sh/contests/133/header.jpg)
 
@@ -22,7 +22,7 @@ As is tradition, we've assembled a brief slideshow of all qualifying entries set
 
 The voting will remain open for **7 days**, so you better get in quick before the race is over.
 
-A choice selection of the top voted entries (usually the top 10 or 15, but it could be more or less) will be this year's Summer seasonal backgrounds and also nab their artists some neat prizes, too.
+A selection of the top voted entries (usually the top 10 or 15, but it could be more or less) will be this year's Summer seasonal backgrounds and also nab their artists some neat prizes, too.
 
 Best of luck to everyone involved!
 
