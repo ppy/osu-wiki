@@ -98,56 +98,79 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)**, [Neko-Pan](https://osu.ppy.sh/users/8676532), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [Edvo](https://osu.ppy.sh/users/8301758), [Doryoku](https://osu.ppy.sh/users/5639725), [Cerelac](https://osu.ppy.sh/users/8065567) |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [Lottery61](https://osu.ppy.sh/users/13821222), [Asrielly](https://osu.ppy.sh/users/2656302), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [LovelyL](https://osu.ppy.sh/users/14821320) |
 
-## Match schedule: Round of 32
+## Match schedule: Round of 16
 
-### Saturday, August 14, 2021
-
-| Team A | | | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Philippines | ![][flag_PH] | ![][flag_TW] | Taiwan | Aug 14 (Sat.) 10:00 UTC | Aug 14 (Sat.) 18:00 UTC+8 | Aug 14 (Sat.) 18:00 UTC+8 |
-| Japan | ![][flag_JP] | ![][flag_ES] | Spain | Aug 14 (Sat.) 11:00 UTC | Aug 14 (Sat.) 20:00 UTC+9 | Aug 14 (Sat.) 13:00 UTC+2 |
-| South Korea | ![][flag_KR] | ![][flag_SE] | Sweden | Aug 14 (Sat.) 12:00 UTC | Aug 14 (Sat.) 21:00 UTC+9 | Aug 14 (Sat.) 14:00 UTC+2 |
-| Singapore | ![][flag_SG] | ![][flag_PL] | Poland | Aug 14 (Sat.) 13:00 UTC | Aug 14 (Sat.) 21:00 UTC+8 | Aug 14 (Sat.) 15:00 UTC+2 |
-| Indonesia | ![][flag_ID] | ![][flag_AR] | Argentina | Aug 14 (Sat.) 13:00 UTC | Aug 14 (Sat.) 20:00 UTC+7 | Aug 14 (Sat.) 10:00 UTC-3 |
-| Hong Kong | ![][flag_HK] | ![][flag_RU] | Russian Federation | Aug 14 (Sat.) 14:00 UTC | Aug 14 (Sat.) 22:00 UTC+8 | Aug 14 (Sat.) 17:00 UTC+3 |
-| Thailand | ![][flag_TH] | ![][flag_IT] | Italy | Aug 14 (Sat.) 14:00 UTC | Aug 14 (Sat.) 21:00 UTC+7 | Aug 14 (Sat.) 16:00 UTC+2 |
-| Malaysia | ![][flag_MY] | ![][flag_CH] | Switzerland | Aug 14 (Sat.) 15:00 UTC | Aug 14 (Sat.) 23:00 UTC+8 | Aug 14 (Sat.) 17:00 UTC+2 |
-
-### Sunday, August 15, 2021
+### Saturday, August 21, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_AU] | Australia | Aug 15 (Sun.) 02:00 UTC | Aug 14 (Sat.) 22:00 UTC-4 | Aug 15 (Sun.) 12:00 UTC+10 |
-| Vietnam | ![][flag_VN] | ![][flag_FI] | Finland | Aug 15 (Sun.) 10:00 UTC | Aug 15 (Sun.) 17:00 UTC+7 | Aug 15 (Sun.) 13:00 UTC+3 |
-| China | ![][flag_CN] | ![][flag_VE] | Venezuela | Aug 15 (Sun.) 14:00 UTC | Aug 15 (Sun.) 22:00 UTC+8 | Aug 15 (Sun.) 10:00 UTC-4 |
-| France | ![][flag_FR] | ![][flag_PE] | Peru | Aug 15 (Sun.) 17:00 UTC | Aug 15 (Sun.) 19:00 UTC+2 | Aug 15 (Sun.) 12:00 UTC-5 |
-| United Kingdom | ![][flag_GB] | ![][flag_CO] | Colombia | Aug 15 (Sun.) 18:00 UTC | Aug 15 (Sun.) 19:00 UTC+1 | Aug 15 (Sun.) 13:00 UTC-5 |
-| United States | ![][flag_US] | ![][flag_BE] | Belgium | Aug 15 (Sun.) 19:00 UTC | Aug 15 (Sun.) 14:00 UTC-5 | Aug 15 (Sun.) 21:00 UTC+2 |
-| Brazil | ![][flag_BR] | ![][flag_DE] | Germany | Aug 15 (Sun.) 19:00 UTC | Aug 15 (Sun.) 16:00 UTC-3 | Aug 15 (Sun.) 21:00 UTC+2 |
-| Chile | ![][flag_CL] | ![][flag_NL] | Netherlands | Aug 15 (Sun.) 19:00 UTC | Aug 15 (Sun.) 15:00 UTC-4 | Aug 15 (Sun.) 21:00 UTC+2 |
+| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Aug 21 (Sat.) 10:00 UTC | Aug 21 (Sat.) 18:00 UTC+8 | Aug 21 (Sat.) 19:00 UTC+9 |
+| Vietnam | ![][flag_VN] | ![][flag_HK] | Hong Kong | Aug 21 (Sat.) 11:00 UTC | Aug 21 (Sat.) 18:00 UTC+7 | Aug 21 (Sat.) 19:00 UTC+8 |
+| South Korea | ![][flag_KR] | ![][flag_SG] | Singapore | Aug 21 (Sat.) 12:00 UTC | Aug 21 (Sat.) 21:00 UTC+9 | Aug 21 (Sat.) 20:00 UTC+8 |
+| United Kingdom | ![][flag_GB] | ![][flag_TH] | Thailand | Aug 21 (Sat.) 13:00 UTC | Aug 21 (Sat.) 14:00 UTC+1 | Aug 21 (Sat.) 20:00 UTC+7 |
+| Philippines | ![][flag_PH] | ![][flag_CA] | Canada | Aug 21 (Sat.) 14:00 UTC | Aug 21 (Sat.) 22:00 UTC+8 | Aug 21 (Sat.) 10:00 UTC-4 |
+| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | Aug 21 (Sat.) 15:00 UTC | Aug 21 (Sat.) 12:00 UTC-3 | Aug 21 (Sat.) 22:00 UTC+7 |
+| United States | ![][flag_US] | ![][flag_FR] | France | Aug 21 (Sat.) 16:00 UTC | Aug 21 (Sat.) 11:00 UTC-5 | Aug 21 (Sat.) 18:00 UTC+2 |
+
+### Sunday, August 22, 2021
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| China | ![][flag_CN] | ![][flag_CL] | Chile | Aug 22 (Sun.) 02:00 UTC | Aug 22 (Sun.) 10:00 UTC+8 | Aug 21 (Sat.) 22:00 UTC-4 |
+| Taiwan | ![][flag_TW] | ![][flag_AU] | Australia | Aug 22 (Sun.) 10:00 UTC | Aug 22 (Sun.) 18:00 UTC+8 | Aug 22 (Sun.) 20:00 UTC+10 |
+| Finland | ![][flag_FI] | ![][flag_RU] | Russian Federation | Aug 22 (Sun.) 11:00 UTC | Aug 22 (Sun.) 14:00 UTC+3 | Aug 22 (Sun.) 14:00 UTC+3 |
+| Switzerland | ![][flag_CH] | ![][flag_ES] | Spain | Aug 22 (Sun.) 12:00 UTC | Aug 22 (Sun.) 14:00 UTC+2 | Aug 22 (Sun.) 14:00 UTC+2 |
+| Sweden | ![][flag_SE] | ![][flag_PL] | Poland | Aug 22 (Sun.) 13:00 UTC | Aug 22 (Sun.) 15:00 UTC+2 | Aug 22 (Sun.) 15:00 UTC+2 |
+| Germany | ![][flag_DE] | ![][flag_AR] | Argentina | Aug 22 (Sun.) 14:00 UTC | Aug 22 (Sun.) 16:00 UTC+2 | Aug 22 (Sun.) 11:00 UTC-3 |
+| Venezuela | ![][flag_VE] | ![][flag_NL] | Netherlands | Aug 22 (Sun.) 15:00 UTC | Aug 22 (Sun.) 11:00 UTC-4 | Aug 22 (Sun.) 17:00 UTC+2 |
+| Colombia | ![][flag_CO] | ![][flag_IT] | Italy | Aug 22 (Sun.) 16:00 UTC | Aug 22 (Sun.) 11:00 UTC-5 | Aug 22 (Sun.) 18:00 UTC+2 |
+| Belgium | ![][flag_BE] | ![][flag_PE] | Peru | Aug 22 (Sun.) 17:00 UTC | Aug 22 (Sun.) 19:00 UTC+2 | Aug 22 (Sun.) 12:00 UTC-5 |
 
 ## Mappools
+
+### Round of 16
+
+- Rice
+  1. [DJ Encore feat. Engelina - Open Your Eyes (Jole) \[3y3s lol 1.1x (154bpm)\]](https://osu.ppy.sh/beatmapsets/1450567#mania/2982256)
+  2. [Venetian Snares - Die Winnipeg Die Die Die F---ers Die (Paturages) \[AlexDest's Challenge (OD8.5)\]](https://osu.ppy.sh/beatmapsets/1550006#mania/3167452)
+  3. [Yunomi feat. nicamoq - Robotic Girl (Srav3R Remix) (LeiN-) \[Unscathed Heart 1.25x (213bpm)\]](https://osu.ppy.sh/beatmapsets/1462769#mania/3005162)
+  4. [Static-X - Brainfog (Shoegazer) \[Delirium 1.2x (181bpm)\]](https://osu.ppy.sh/beatmapsets/1438983#mania/3028404)
+  5. [The Flashbulb - Lawn Wake IX (ilikexd) \[Insane 1.2x (223bpm)\]](https://osu.ppy.sh/beatmapsets/1543788#mania/3157423)
+  6. [Frums - one of none (aeoliancarp) \[observer 1.05x (126bpm)\]](https://osu.ppy.sh/beatmapsets/1533448#mania/3135904)
+- Hybrid
+  1. [MIDInco - Etude (Tidek) \[Interlude\]](https://osu.ppy.sh/beatmapsets/1162486#mania/2424948)
+  2. [Wednesday Campanella - Shakushain (Penguinosity) \[Shakushaku 1.2x\]](https://osu.ppy.sh/beatmapsets/1503374#mania/3079993)
+  3. [penoreri vs. BEMANI Sound Team "HuMeR" - Discordia (lemonguy) \[Valhalla\]](https://osu.ppy.sh/beatmapsets/1517670#mania/3106858)
+- LN
+  1. [Ryu\* - Sakura Mirage (-mint-) \[penguin x mint's EXHAUST Lv. 15\]](https://osu.ppy.sh/beatmapsets/1545098#mania/3158212)
+  2. [96Neko - Paintings? Oh, yeah. (juankristal) \[PaiLNful \[OD 7 Edit\]](https://osu.ppy.sh/beatmapsets/516224#mania/1103346)
+  3. [Feryquitous - Qavsell (Davvy) \[Heritage (cut edit)\]](https://osu.ppy.sh/beatmapsets/1187793#mania/2971627)
+- SV
+  1. [C-show - GIMME DA BLOOD (H1Pur) \[GIMME DA SV\]](https://osu.ppy.sh/beatmapsets/1428709#mania/2941393)
+  2. [THE SxPLAY & KIVA - Hyou Ryuu (zero2snow) \[Stage 1: Drifted\]](https://osu.ppy.sh/beatmapsets/980182#mania/2051288)
+- Tiebreaker
+  1. **[Laur - Sound Chimera (Toaph Daddy) \[Polymerization\]](https://osu.ppy.sh/beatmapsets/1415755#mania/2917733)**
 
 ### Round of 32
 
 - Rice
-  - [Mage - The Words I Never Said In D&B (Jole) \[drum & stream 1.05x (181bpm)\]](https://osu.ppy.sh/beatmapsets/1459360#mania/2999031)
-  - [litmus* - iterated (Paturages) \[Elekton's versatile (edit)\]](https://osu.ppy.sh/beatmapsets/1543102#mania/3154191)
-  - [Pendulum - Axle Grinder (Shoegazer) \[Accelerator 1.1x (190bpm)\]](https://osu.ppy.sh/beatmapsets/1485332#mania/3045851)
-  - [Blitz Lunar - Diamante Spectrasplosion (ilikexd) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1541950#mania/3151919)
-  - [Maurice Ravel - Gaspard de la Nuit: Ondine (-mint-) \[Xay's Solo (cut)\]](https://osu.ppy.sh/beatmapsets/1543132#mania/3154234)
+  1. [Mage - The Words I Never Said In D&B (Jole) \[drum & stream 1.05x (181bpm)\]](https://osu.ppy.sh/beatmapsets/1459360#mania/2999031)
+  2. [litmus* - iterated (Paturages) \[Elekton's versatile (edit)\]](https://osu.ppy.sh/beatmapsets/1543102#mania/3154191)
+  3. [Pendulum - Axle Grinder (Shoegazer) \[Accelerator 1.1x (190bpm)\]](https://osu.ppy.sh/beatmapsets/1485332#mania/3045851)
+  4. [Blitz Lunar - Diamante Spectrasplosion (ilikexd) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1541950#mania/3151919)
+  5. [Maurice Ravel - Gaspard de la Nuit: Ondine (-mint-) \[Xay's Solo (cut)\]](https://osu.ppy.sh/beatmapsets/1543132#mania/3154234)
 - Hybrid
-  - [Kshiraki - Seven (Paturages) \[Heptaplex\]](https://osu.ppy.sh/beatmapsets/1435937#mania/2954580)
-  - [sakuzyo - PANDORA PARADOXXX (-mint-) \[Elekton's vanity (edit)\]](https://osu.ppy.sh/beatmapsets/1543130#mania/3154232)
-  - [Chroma - Destroy, Destroy, Destroy The Happy End (-mint-) \[Termination (cut)\]](https://osu.ppy.sh/beatmapsets/1443682#mania/2969580)
+  1. [Kshiraki - Seven (Paturages) \[Heptaplex\]](https://osu.ppy.sh/beatmapsets/1435937#mania/2954580)
+  2. [sakuzyo - PANDORA PARADOXXX (-mint-) \[Elekton's vanity (edit)\]](https://osu.ppy.sh/beatmapsets/1543130#mania/3154232)
+  3. [Chroma - Destroy, Destroy, Destroy The Happy End (-mint-) \[Termination (cut)\]](https://osu.ppy.sh/beatmapsets/1443682#mania/2969580)
 - LN
-  - [Rche - Todestrieb (stupud man) \[Rapture\]](https://osu.ppy.sh/beatmapsets/1367593#mania/2828317)
-  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (Mipha-) \[Carefree\]](https://osu.ppy.sh/beatmapsets/1440719#mania/2972364)
+  1. [Rche - Todestrieb (stupud man) \[Rapture\]](https://osu.ppy.sh/beatmapsets/1367593#mania/2828317)
+  2. [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (Mipha-) \[Carefree\]](https://osu.ppy.sh/beatmapsets/1440719#mania/2972364)
 - SV
-  - [sasakure.UK - Ruins (Neomorph remix) (Paturages) \[Shambles (edit)\]](https://osu.ppy.sh/beatmapsets/1367133#mania/3154187)
-  - [Inspector K - Disconnected -Hyper- (XeoStyle) \[beep boop\]](https://osu.ppy.sh/beatmapsets/609453#mania/1287062)
+  1. [sasakure.UK - Ruins (Neomorph remix) (Paturages) \[Shambles (edit)\]](https://osu.ppy.sh/beatmapsets/1367133#mania/3154187)
+  2. [Inspector K - Disconnected -Hyper- (XeoStyle) \[beep boop\]](https://osu.ppy.sh/beatmapsets/609453#mania/1287062)
 - Tiebreaker:
-  - **[Camellia - Proluvies ("abyssum oblivionis" Long ver.) (-mint-) \[chasm (NSV)\]](https://osu.ppy.sh/beatmapsets/1543068#mania/3154095)**
+  1. **[Camellia - Proluvies ("abyssum oblivionis" Long ver.) (-mint-) \[chasm (NSV)\]](https://osu.ppy.sh/beatmapsets/1543068#mania/3154095)**
 
 ### Qualifiers
 
@@ -161,6 +184,34 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 - [deathcount - A Beautiful Degeneracy (Remix by Stazma The Junglechrist) (Shoegazer) \[Stage 8: Desperado\]](https://osu.ppy.sh/beatmapsets/1535626#mania/3140053)
 
 ## Match results
+
+### Round of 32
+
+Saturday, August 14, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **5** | 4 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/89220359) |
+| **Japan** ![][flag_JP] | **5** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/89222109) |
+| **South Korea** ![][flag_KR] | **5** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/89223919) |
+| **Singapore** ![][flag_SG] | **5** | 3 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/89225722) |
+| **Indonesia** ![][flag_ID] | **5** | 3 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/89225757) |
+| **Hong Kong** ![][flag_HK] | **5** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/89228167) |
+| **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/89228185) |
+| **Malaysia** ![][flag_MY] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/89231018) |
+
+Sunday, August 15, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/89260825) |
+| **Vietnam** ![][flag_VN] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/89276185) |
+| **China** ![][flag_CN] | **5** | 0 | ![][flag_VE] Venezuela | [#1](https://osu.ppy.sh/community/matches/89283786) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/89290879) |
+| **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/89293500) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/89296497) |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/89296205) |
+| **Chile** ![][flag_CL] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/89296340) |
 
 ### Qualifiers
 
