@@ -28,7 +28,7 @@ La Global Moderation Team est responsable du bien-être du tchat et du forum, et
 - un problème avec le tchat (par exemple, spam ou harcèlement)
 - un mauvais comportement sur le forum (par exemple, des messages inappropriés).
 - les discussions et la section des commentaires d'une beatmap
-- la modération du profil des utilisateurs (contenu NSFW ou autrement offensant dans les avatars, les couvertures ou les détails du profil, ...)
+- la modération du profil des utilisateurs (contenu NSFW ou autrement offensant dans les avatars, les couvertures ou les détails du profil...)
 
 ## Devenir modérateur
 
@@ -39,11 +39,11 @@ Devenir membre de la Global Moderation Team exige une contribution importante. L
 Les facteurs les plus importants à prendre en compte sont le comportement, l'activité, la compréhension des [règles](/wiki/Rules) et la patience :
 
 1. Faites preuve d'un bon comportement en étant poli et en traitant les autres utilisateurs avec respect. Il est essentiel que votre compte soit exempt de silences ou de problèmes graves.
-2. Faire preuve d'activité dans le jeu en participant au chat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Reporting_Bad_Behaviour) et tout problème via le système de rapport. Répondre aux questions et aider les autres à résoudre leurs problèmes.
+2. Faire preuve d'activité dans le jeu en participant au chat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Reporting_Bad_Behaviour) et tout problème via le système de signalement. Répondre aux questions et aider les autres à résoudre leurs problèmes.
 3. Avoir une bonne compréhension des [règles](/wiki/Rules) et de leur application. Il est important de savoir ce qui est acceptable au sein d'osu! et ce qui ne l'est pas.
 4. Soyez patient. La GMT n'ajoute pas spontanément des membres qui aident depuis quelques jours seulement. Il est nécessaire de donner du temps à la GMT afin d'évaluer une personne - sa personnalité, ce qu'elle peut faire, son activité, etc.
 
-En général, l'équipe observe les utilisateurs pendant plusieurs semaines ou mois pour s'assurer que ceux-ci soient de bons candidats. Veuillez être patient et ne pas en faire trop. N'hésitez pas à demander à n'importe qui de l'équipe de GMT pour toute question concernant les règles, le signalement des utilisateurs, et tout autre problème.
+En général, l'équipe observe les utilisateurs pendant plusieurs semaines ou mois pour s'assurer que ceux-ci soient de bons candidats. Veuillez être patient et ne pas en faire trop. N'hésitez pas à demander à n'importe quel membre de la GMT pour toute question concernant les règles, le signalement des utilisateurs, et tout autre problème.
 
 ### Certaines choses à ne pas faire
 
@@ -54,7 +54,7 @@ En général, l'équipe observe les utilisateurs pendant plusieurs semaines ou m
 
 ## Membres de l'équipe
 
-*Note : Tous les membres du GMT parlent l'anglais en plus des langues énumérées ci-dessous, sauf indication contraire.*
+*Note : Tous les membres de la GMT parlent l'anglais en plus des langues énumérées ci-dessous, sauf indication contraire.*
 
 La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la GMT participent à [l'examen du contenu visuel et sonore inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
@@ -186,7 +186,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippine"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
