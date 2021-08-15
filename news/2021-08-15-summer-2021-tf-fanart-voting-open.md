@@ -4,7 +4,7 @@ title: "Summer 2021 Track and Field Fanart Contest Voting Open!"
 date: 2021-08-15 12:00:00 +0000
 ---
 
-**80** artistic contenders are at the starting line and ready to race, now all we need are your votes!
+**80** artistic contenders are at the starting line and ready to race — now all we need are your votes!
 
 ![](https://assets.ppy.sh/contests/133/header.jpg)
 
