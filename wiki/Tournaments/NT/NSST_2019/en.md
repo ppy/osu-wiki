@@ -8,7 +8,7 @@ tags:
 
 ![NSST 2019 logo](img/logo.jpg)
 
-The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a 1v1 worldwide double-elimination osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264). It was the second installment of the nik's Tournaments series.
+The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a 1v1 worldwide double-elimination osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264). It was the second instalment of the nik's Tournaments series.
 
 ## Tournament schedule
 
@@ -29,8 +29,8 @@ The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a 1v1 worldwide doub
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge-1.png "NSST 2019 Tier 1 winner badge") ![](img/badge-2.png "NSST 2019 Tier 2 winner badge")
 

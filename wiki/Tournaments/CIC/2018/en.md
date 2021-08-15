@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2018 logo](img/logo.jpg)
 
-The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) was a 1v1 Indonesian osu!catch tournament hosted by ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). It was the sixth installment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) was a 1v1 Indonesian osu!catch tournament hosted by ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). It was the sixth instalment of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) was a 1v1 Indonesian 
 
 The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
 | Mappool selector | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
@@ -63,6 +63,8 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 | **F** | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | ![][flag_ID] [HerpKiller](https://osu.ppy.sh/users/8784992) | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) |
 | **G** | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) |
 | **H** | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) |
+
+## Podium
 
 ![](img/podium.jpg "CIC 2018 podium")
 
@@ -381,9 +383,9 @@ Wednesday, 15 August 2018:
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and blacklisted in the next installment of CIC.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of CIC for both participant and the helper.
+    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and blacklisted in the next instalment of CIC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment of CIC.
+    - If there is anyone trying to play in place of any of the participants, their account will be blacklisted in the next instalment of CIC for both participant and the helper.
 
 ### Group stage rules
 

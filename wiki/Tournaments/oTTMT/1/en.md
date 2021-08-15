@@ -7,7 +7,7 @@ tags:
 
 ![oTTMT logo](img/logo.png)
 
-The **osu! Tag Team Multiplayer Tournament** (***oTTMT***) was a 2v2 tag team based osu! tournament hosted by ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057). It was the first installment of the osu! Tag Team Multiplayer Tournament.
+The **osu! Tag Team Multiplayer Tournament** (***oTTMT***) was a 2v2 tag team based osu! tournament hosted by ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057). It was the first instalment of the osu! Tag Team Multiplayer Tournament.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **osu! Tag Team Multiplayer Tournament** (***oTTMT***) was a 2v2 tag team ba
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, profile badge |
 
 ![](img/badge.png "oTTMT winner badge")
 
@@ -69,11 +69,11 @@ The osu! Tag Team Multiplayer Tournament was run by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Animalz D: |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Lubimy Ponczgi! |
-| ![Crown crown](/wiki/shared/crown-bronze.png "3rd place") | MINMIrox |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Animalz D:** (![][flag_PL] **[niedz](https://osu.ppy.sh/users/9610)**, ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Lubimy Ponczgi!** (![][flag_PL] **[Ryohan](https://osu.ppy.sh/users/16963)**, ![][flag_PL] [Lef](https://osu.ppy.sh/users/44826)) |
+| ![Crown crown](/wiki/shared/crown-bronze.png "3rd place") | **MINMIrox** (![][flag_US] **[DeathxShinigami](https://osu.ppy.sh/users/49516)**, ![][flag_US] [Zatoichi](https://osu.ppy.sh/users/35199)) |
 
 ## Mappools
 

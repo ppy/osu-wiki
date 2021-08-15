@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2017 logo](img/logo.png)
 
-The **osu! World Cup 2017** (***OWC 2017***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth installment of the osu! World Cup.
+The **osu! World Cup 2017** (***OWC 2017***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! World Cup 2017** (***OWC 2017***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2017-10-13/2017-10-29 |
 | Live drawings | 2017-11-12 (14:00 UTC) |
-| Group Stage | 2017-11-18/2017-11-19 |
+| Group stage | 2017-11-18/2017-11-19 |
 | Round of 16 | 2017-11-25/2017-11-26 |
 | Quarterfinals | 2017-12-02/2017-12-03 |
 | Semifinals | 2017-12-09/2017-12-10 |
@@ -36,7 +36,7 @@ The **osu! World Cup 2017** (***OWC 2017***) was a country-based osu! tournament
 
 The osu! World Cup 2017 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -86,9 +86,11 @@ The osu! World Cup 2017 was run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)**, [bahamete](https://osu.ppy.sh/users/960620), [Castiel](https://osu.ppy.sh/users/1986262), [Doomsday](https://osu.ppy.sh/users/18983), [Jameslike](https://osu.ppy.sh/users/2415743), [Karthy](https://osu.ppy.sh/users/4196808), [OPJames](https://osu.ppy.sh/users/4117142), [Spare](https://osu.ppy.sh/users/2204373) |
 | ![][flag_US] | **United States** | **[Apraxia](https://osu.ppy.sh/users/4194445)**, [Axarious](https://osu.ppy.sh/users/2614511), [DigitalHypno](https://osu.ppy.sh/users/4384207), [fieryrage](https://osu.ppy.sh/users/3533958), [HappyStick](https://osu.ppy.sh/users/256802), [idke](https://osu.ppy.sh/users/4650315), [Monko2k](https://osu.ppy.sh/users/4852013), [Toy](https://osu.ppy.sh/users/2757689) |
 
-![OWC 2017 podium](img/podium.jpg)
+![](img/bracket.jpg "OWC 2017 bracket")
 
-![OWC 2017 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "OWC 2017 podium")
 
 ## Mappools
 
@@ -200,7 +202,7 @@ The osu! World Cup 2017 was run by various community members.
 - Tiebreaker
   - **[Nana Mizuki - VIRGIN CODE (ShiraKai) \[GENESIS\]](https://osu.ppy.sh/beatmapsets/494430#osu/1052795)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (103 MB)](http://www.mediafire.com/file/8fpkzvgbz3hpoap/OWC_2017_Group_Stage.rar "MediaFire")**
 
@@ -313,7 +315,7 @@ Sunday, 26 November 2017:
 | Canada ![][flag_CA] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/37842093) |
 | Norway ![][flag_NO] | 2 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/37844547) |
 
-### Group Stage
+### Group stage
 
 Saturday, 18 November 2017:
 

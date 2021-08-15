@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2016 logo](img/logo.jpg)
 
-The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2016-02-09/2016-02-28 |
 | Live drawings | 2016-03-11 (14:00 UTC) |
-| Group Stage | 2016-03-20 |
+| Group stage | 2016-03-20 |
 | Round of 16 | 2016-03-27 |
 | Quarterfinals | 2016-04-02 |
 | Semifinals | 2016-04-09/2016-04-10 |
@@ -88,9 +88,11 @@ The osu!taiko World Cup 2016 was run by various community members.
 | ![][flag_GB] United Kingdom | ![][flag_AR] Argentina | ![][flag_CL] Chile | ![][flag_ID] Indonesia | ![][flag_PH] Philippines | ![][flag_ES] Spain | ![][flag_FR] France | ![][flag_PL] Poland |
 | ![][flag_TW] Taiwan | ![][flag_HK] Hong Kong | ![][flag_US] United States | ![][flag_DE] Germany | ![][flag_KR] South Korea | ![][flag_JP] Japan | ![][flag_CN] China | ![][flag_CA] Canada |
 
-![TWC 2016 podium](img/podium.jpg)
+![](img/bracket.jpg "TWC 2016 bracket")
 
-![TWC 2016 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "TWC 2016 podium")
 
 ## Mappools
 
@@ -216,7 +218,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[DragonForce - Defenders (Raiden) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/375447#taiko/835691)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappool here! (130 MB)](https://www.mediafire.com/download/eu9o60zwublo4fq/TWC_2016_Group_Stage.rar "MediaFire")**
 
@@ -246,7 +248,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[kamome sano - plasma (2015 rework) (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/348371#taiko/768536)**
 
-## Match Results
+## Match results
 
 ### Finals week 2
 
@@ -323,7 +325,7 @@ Sunday, 27 March 2016:
 | United Kingdom ![][flag_GB] | 1 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/23726773) |
 | Russian Federation ![][flag_RU] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/23727923) |
 
-### Group Stage
+### Group stage
 
 Sunday, 20 March 2016:
 

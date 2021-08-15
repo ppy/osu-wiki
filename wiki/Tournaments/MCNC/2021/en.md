@@ -8,7 +8,7 @@ tags:
 
 ![MCNC 2021 logo](img/logo.jpg)
 
-The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-based osu!mania tournament hosted by the \[Crz\]Team. It is the third installment of the osu!mania 4K Chinese National Cup.
+The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-based osu!mania tournament hosted by the \[Crz\]Team. It is the third instalment of the osu!mania 4K Chinese National Cup.
 
 ## Tournament schedule
 
@@ -17,8 +17,8 @@ The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-ba
 | Registration phase | 2021-03-01/2021-03-31 |
 | Qualifiers | 2021-04-05/2021-04-11 |
 | Live drawings | 2021-04-11 (20:00 UTC+8) |
-| Group Stage week 1 | 2021-04-12/2021-04-18 |
-| Group Stage week 2 | 2021-04-19/2021-04-25 |
+| Group stage week 1 | 2021-04-12/2021-04-18 |
+| Group stage week 2 | 2021-04-19/2021-04-25 |
 | Round of 16 | 2021-04-26/2021-05-02 |
 | Quarterfinals | 2021-05-03/2021-05-09 |
 | Semifinals week 1 | 2021-05-10/2021-05-16 |
@@ -30,9 +30,9 @@ The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) is a country-ba
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 2,500, unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 1,500, 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 800, 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 2,500, unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 1,500, 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 800, 1 month of osu!supporter |
 
 ## Organisation
 

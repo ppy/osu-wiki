@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2015 logo](img/logo.jpg)
 
-The **osu! World Cup 2015** (***OWC 2015***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth installment of the osu! World Cup.
+The **osu! World Cup 2015** (***OWC 2015***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! World Cup 2015** (***OWC 2015***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2015-10-01/2015-10-18 |
 | Live drawings | 2015-11-01 (14:00 UTC) |
-| Group Stage | 2015-11-07/2015-11-08 |
+| Group stage | 2015-11-07/2015-11-08 |
 | Round of 16 | 2015-11-15 |
 | Quarterfinals | 2015-11-21/2015-11-22 |
 | Semifinals | 2015-11-28/2015-11-29 |
@@ -101,9 +101,11 @@ The osu! World Cup 2015 was run by various community members.
 | **G** | ![][flag_DE] Germany | ![][flag_NL] Netherlands | ![][flag_TH] Thailand | ![][flag_SG] Singapore |
 | **H** | ![][flag_TW] Taiwan | ![][flag_AT] Austria | ![][flag_SE] Sweden | ![][flag_PT] Portugal |
 
-![OWC 2015 podium](img/podium.jpg)
+![](img/bracket.jpg "OWC 2015 bracket")
 
-![OWC 2015 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "OWC 2015 podium")
 
 ## Mappools
 
@@ -229,7 +231,7 @@ The osu! World Cup 2015 was run by various community members.
 - Tiebreaker
   - **[Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Meg) \[We cry "OPEN"\]](https://osu.ppy.sh/beatmapsets/331499#osu/734339)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (155 MB)](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar "MediaFire")**
 
@@ -342,7 +344,7 @@ Sunday, 15 November 2015:
 | Norway ![][flag_NO] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20285332) |
 | Canada ![][flag_CA] | 1 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/20287601) |
 
-### Group Stage
+### Group stage
 
 Saturday, 7 November 2015:
 
@@ -476,8 +478,8 @@ Sunday, 8 November 2015:
    | Round of 16 | A, B, C, D, E, F, G, H |
    | Quarterfinals | I, J, K, L & R, S, T, U |
    | Semifinals | M, N & V, W, X, Y, Z,AA |
-   | Finals - Week 1 | O & AB, AC, AD, AE |
-   | Finals - Week 2 | P, Q |
+   | Finals week 1 | O & AB, AC, AD, AE |
+   | Finals week 2 | P, Q |
 
 7. **Winning Conditions:**
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)

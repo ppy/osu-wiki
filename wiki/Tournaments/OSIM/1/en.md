@@ -27,20 +27,20 @@ The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-e
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter tag for each team member, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter for each team member, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 
-![Profile badge](img/badge.png)
+![](img/badge.png "OSIM winner badge")
 
-## Organization
+## Organisation
 
 OSIM was run by various osu! community members predominantly hailing from Singapore, Indonesia, and Malaysia.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
-| Map selector | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) |
+| Mappool selector | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) |
 | Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | Commentator | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | Referee | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |
@@ -54,16 +54,6 @@ OSIM was run by various osu! community members predominantly hailing from Singap
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1022888)
 - [Discord server](https://discord.gg/kFs2Kbp "Discord")
 - [Livestream channel](https://www.twitch.tv/oseatournament "Twitch")
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **somaymalaycapcay** (![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559), ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **adventure timers** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188), ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **we will 操你妈** (![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281), ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292), ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650)) |
 
 ## Participants
 
@@ -89,6 +79,16 @@ This competition has come to an end and resulted in the following podium:
 | **tasty watermelon** | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336)** | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_MY] [AGhostyTSQ](https://osu.ppy.sh/users/13047324) |
 | **we will 操你妈** | ![][flag_SG] **[Soba Noodles](https://osu.ppy.sh/users/3010281)** | ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292) | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) |
 | **Where Love Lies** | ![][flag_SG] **[Fuma](https://osu.ppy.sh/users/1501956)** | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **somaymalaycapcay** (![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559), ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **adventure timers** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188), ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **we will 操你妈** (![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281), ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292), ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650)) |
 
 ## Mappools
 
@@ -516,9 +516,9 @@ Sunday, 19 April 2020:
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected to be polite and respectful to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the OSIM staff and may be blacklisted in the future installments of OSIM.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of OSIM.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of OSIM for both participant and the helper.
+    - If participants try to provoke other participants, participants who start the provocation will be reported to the OSIM staff and may be blacklisted in the future instalments of OSIM.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment of OSIM.
+    - If there is anyone try to play as the participants, their account will be blacklisted in the next instalment of OSIM for both participant and the helper.
 
 ### Tournament registration
 

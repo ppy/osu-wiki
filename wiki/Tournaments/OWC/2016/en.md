@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2016 logo](img/logo.jpg)
 
-The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh installment of the osu! World Cup.
+The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2016-10-02/2016-10-16 |
 | Live drawings | 2016-11-04 (12:00 UTC) |
-| Group Stage | 2016-11-12/2016-11-13 |
+| Group stage | 2016-11-12/2016-11-13 |
 | Round of 16 | 2016-11-19 |
 | Quarterfinals | 2016-11-26 |
 | Semifinals | 2016-12-03/2016-12-04 |
@@ -37,7 +37,7 @@ The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament
 
 The osu! World Cup 2016 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- |:-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) |
@@ -101,9 +101,11 @@ The osu! World Cup 2016 was run by various community members.
 | **G** | ![][flag_KR] South Korea | ![][flag_RU] Russian Federation | ![][flag_NL] Netherlands | ![][flag_ID] Indonesia |
 | **H** | ![][flag_GB] United Kingdom | ![][flag_BR] Brazil | ![][flag_HK] Hong Kong | ![][flag_SE] Sweden |
 
-![OWC 2016 podium](img/podium.jpg)
+![](img/bracket.jpg "OWC 2016 bracket")
 
-![OWC 2016 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "OWC 2016 podium")
 
 ## Mappools
 
@@ -217,7 +219,7 @@ The osu! World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[Camellia - d:for the DELTA (ProfessionalBox) \[Delirium\]](https://osu.ppy.sh/beatmapsets/396370#osu/862338)**
 
-### Group Stage
+### Group stage
 
 [Download the mappack here! (153 MB)](https://www.mediafire.com/file/13glkdv1zbyxfpp/OWC_2016_Group_Stage.rar "MediaFire")
 
@@ -322,7 +324,7 @@ Saturday, 19 November 2016:
 | Canada ![][flag_CA] | 1 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29105450) |
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/29106903) |
 
-### Group Stage
+### Group stage
 
 Saturday, 12 November 2016:
 
@@ -461,8 +463,8 @@ Sunday, 13 November 2016:
    | Round of 16 | A, B, C, D, E, F, G, H |
    | Quarterfinals | I, J, K, L & R, S, T, U |
    | Semifinals | M, N & V, W, X, Y, Z, AA |
-   | Finals - Week 1 | O & AB, AC, AD, AE |
-   | Finals - Week 2 | P, Q |
+   | Finals week 1 | O & AB, AC, AD, AE |
+   | Finals week 2 | P, Q |
 
 #### Winning conditions
 

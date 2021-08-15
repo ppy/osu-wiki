@@ -9,7 +9,7 @@ tags:
 
 ![MBS logo](img/logo.png)
 
-The **Mania Beginner's Showdown** (***MBS***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#50,000, and the low division consisted of players ranked #50,001–#100,000. This was the first installment of the Mania Beginner's Showdown.
+The **Mania Beginner's Showdown** (***MBS***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#50,000, and the low division consisted of players ranked #50,001–#100,000. This was the first instalment of the Mania Beginner's Showdown.
 
 ## Tournament schedule
 
@@ -46,9 +46,9 @@ The **Mania Beginner's Showdown** (***MBS***) was a worldwide double-elimination
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge_high.png "MBS high division winner badge") ![](img/badge_low.png "MBS low division winner badge")
 
@@ -61,7 +61,7 @@ The Mania Beginner's Showdown was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Map selector | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Neyra](https://osu.ppy.sh/users/8563504), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
+| Mappool selector | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Neyra](https://osu.ppy.sh/users/8563504), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
 | Referee | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_DE] [Flygone](https://osu.ppy.sh/users/9287979), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_AU] [Tacxam](https://osu.ppy.sh/users/9847895), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350) |
 | Streamer | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_US] [Rianolinon](https://osu.ppy.sh/users/9739455) |
 | Commentator | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413), ![][flag_BR] [HaloSSB](https://osu.ppy.sh/users/7572142), ![][flag_ID] [Horou](https://osu.ppy.sh/users/10807310), ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
