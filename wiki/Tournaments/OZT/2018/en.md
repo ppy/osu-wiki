@@ -162,17 +162,17 @@ The osu! Z-Tournament 2018 was run by various community members.
 
 ### Free agency
 
--  Free agency is way for players to join the tournament if they do not have a team. It is also a good way to build new friendships.
--  To sign up as a free agent, go to the Free Agency area of the forum post, and the there should be a link that should say Sign Up for Free Agency. Click the link and you will be redirected to a signup form.
--  Signing up as a Free Agent is not a guaranteed way to join the tournament, however will increase chances to join the tournament if there are any teams interested.
--  The sheet with the signed up free agents will be in the official Z-Tournament 2018 Spreadsheet, under the tab Free Agents.
--  Once a Free Agent is claimed they shall be removed from the sheet of Free Agents on the spreadsheet.
--  If there is any information that needs to be changed on the sheet such as TimeZone, Player Name, Paired Partner, etc. Please do not hesitate to message BearZyo or Div, the change shall happen within a 24 hour period upon request.
--  If a Free Agent wishes to be removed from the list please PM BearZyo or Div, and they shall be removed within 24 hours upon request.
--  Any false information or players, will result in a removal from the sheet.
--  Once Free Agents are signed up, they should receive a confirmation message the through osu! Forum PMs, please check inboxes often, a message should be sent within 24 hours.
--  If you do not see your name in the sheet, please inform BearZyo or Div, there may have been a problem.
--  Any problems or questions, please ask BearZyo or Div.
+- Free agency is way for players to join the tournament if they do not have a team. It is also a good way to build new friendships.
+- To sign up as a free agent, go to the Free Agency area of the forum post, and the there should be a link that should say Sign Up for Free Agency. Click the link and you will be redirected to a signup form.
+- Signing up as a Free Agent is not a guaranteed way to join the tournament, however will increase chances to join the tournament if there are any teams interested.
+- The sheet with the signed up free agents will be in the official Z-Tournament 2018 Spreadsheet, under the tab Free Agents.
+- Once a Free Agent is claimed they shall be removed from the sheet of Free Agents on the spreadsheet.
+- If there is any information that needs to be changed on the sheet such as TimeZone, Player Name, Paired Partner, etc. Please do not hesitate to message BearZyo or Div, the change shall happen within a 24 hour period upon request.
+- If a Free Agent wishes to be removed from the list please PM BearZyo or Div, and they shall be removed within 24 hours upon request.
+- Any false information or players, will result in a removal from the sheet.
+- Once Free Agents are signed up, they should receive a confirmation message the through osu! Forum PMs, please check inboxes often, a message should be sent within 24 hours.
+- If you do not see your name in the sheet, please inform BearZyo or Div, there may have been a problem.
+- Any problems or questions, please ask BearZyo or Div.
 
 ### Misconduct and consequences
 
