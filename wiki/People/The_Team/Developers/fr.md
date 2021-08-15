@@ -86,7 +86,7 @@ Actuellement, les principaux projets d'osu! sont hébergés sur GitHub et tout l
 
 Vous trouverez ci-dessous la liste des utilisateurs qui ont abandonné les efforts de développement en cours et sont passés à autre chose.
 
-| User | Role |
+| Nom | Rôle |
 | :-- | :-- |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Développeur du client |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Designer |
