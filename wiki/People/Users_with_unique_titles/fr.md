@@ -1,6 +1,6 @@
 # Utilisateurs avec des titres uniques
 
-Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#user-groups), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!
+Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#user-groups), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
 
 ## Par catégorie, avec motifs
 
@@ -89,7 +89,7 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 
 ### Elite Nominators
 
-Depuis 2020, l'activité des membres de la [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) et de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) en faveur du système de classement est récompensée par le titre de **Elite Nominator**. Ce titre est attribué au début de chaque année pour les contributions apportées au cours de la précédente, et est retiré lorsque l'utilisateur quitte l'équipe.
+Depuis 2020, l'activité des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) et des membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) en faveur du système de classement est récompensée par le titre de **Elite Nominator**. Ce titre est attribué au début de chaque année pour les contributions apportées au cours de la précédente, et est retiré lorsque l'utilisateur quitte l'équipe.
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
@@ -101,7 +101,7 @@ Depuis 2020, l'activité des membres de la [Beatmap Nominators](/wiki/People/The
 
 ### Les gagnants du concours de mapping Aspire
 
-Les gagnants du concours de mapping Aspire proposent une variante spéciale du titre Elite Mapper appelée **Elite Mapper : Aspire** comme prix.
+Les gagnants du concours de mapping Aspire proposent une variante spéciale du titre Elite Mapper appelée **Elite Mapper : Aspirant** comme prix.
 
 - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)¹
 - ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
@@ -116,7 +116,7 @@ Les gagnants du concours de mapping Aspire proposent une variante spéciale du t
 
 ### Gagnants du concours osu!remix
 
-Les concours osu!remix attribuent le titre de **osu!mixer** comme prix de première place.
+Les concours osu!remix attribuent le titre de **osu!mixer** comme premier prix.
 
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
@@ -189,31 +189,31 @@ Ces joueurs ont obtenu leur titre soit en réalisant un exploit de jeu fou, soit
 
 | Utilisateur | Titre | Réalisation |
 | :-- | :-- | :-- |
-| ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | A marqué le premier FC NoMod sur [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
-| ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | FC marqués sur toutes les cartes classées osu!taiko à partir du 3 novembre 2019. |
+| ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | A réalisé le premier FC NoMod sur [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | A réalisé un FC sur toutes les beatmaps classées du mode osu!taiko le 3 novembre 2019. |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Non documenté* |
-| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Joué à toutes les cartes Classée d'osu! en date du 27 avril 2019. |
-| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Gagne [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | A réalisé un score sur toutes les beatmaps classés du mode osu! le 27 avril 2019. |
+| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | A gagné [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ### Contributeurs
 
 | Utilisateur | Titre |
 | :-- | :-- |
-| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | Organisateur du World Cup |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | World Cup Organizer |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
-| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Organisateur du World Cup |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organizer |
 | ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
-| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Organisateur du World Cup |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organizer |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Testeur pro |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | osu! Paragon |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
-| ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Testeur pro |
+| ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 
 ### Autres
 
