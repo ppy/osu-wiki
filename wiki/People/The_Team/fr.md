@@ -65,13 +65,13 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Gouvernant général, Responsable de la communauté |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Développeur d'osu!, fournisseur de l'intégration IRC pour le chat en jeu, mainteneur du site. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Hôte de osu! Coffee Hour, Streamer de la World Cup, Organisateur de tournoi |
-| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | développeur d'osu!, fournisseur d'osz2 et de backend p2p |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Développeur d'osu!, fournisseur d'osz2 et de backend p2p |
 | ![][flag_US] Jim | Concepteur original du site, fournisseur d'hébergement à ses débuts. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Organisateur et administrateur de la World Cup |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organisateur et administrateur de la World Cup, Leader de la QAT, responsable de la communauté |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Concepteur de skin épique, contributeur au skin par défaut et au jeu d'icônes. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Conseiller sur le modding et le mapping |
-| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | développeur d'osu!, créateur des mm sliders |
+| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Développeur d'osu!, créateur des mm sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Développeur d'osu! iPhone |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Développeur d'osu!, Organisateur de la Mappers' Guild |
 | ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Concepteur du forum |
@@ -80,7 +80,7 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Gérant et leader de communauté initial, compte-rendu de réunion et contributeur de la FAQ |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | osu! et développeur pp |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Gouvernant général, Organisateur et administrateur de la World Cup, responsable du wiki |
-| ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | développeur d'osu!, développeur du mode osu!mania |
+| ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Développeur d'osu!, développeur du mode osu!mania |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gérant du [osu!store](https://osu.ppy.sh/store/listing) |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professeur de la [osu!academy](/wiki/osu!academy), concepteur de médias et de personnages |
 
