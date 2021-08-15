@@ -141,7 +141,7 @@ To safely force your beatmap database to be recreated, try the following steps:
 7. Rename it as you wish. It doesn't matter, as long as it is not called "osu!". Then press `Enter`.
 8. Relaunch osu!.
 
-*Note: a fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please let us know [here](https://github.com/ppy/osu-stable-issues/issues).*
+*Note: a fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues).*
 
 ### My song list keeps scrolling!
 
@@ -316,7 +316,7 @@ To make sure osu! can access the internet, we will need to allow it to communica
 
 #### Allowing a program through AVG Firewall
 
-Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/search?l=en&retUrl=SupportArticleView&searchText=Allow+application+in+AVG+Firewall&supportType=home) for detailed instructions on how to do this.
+Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home) for detailed instructions on how to do this.
 
 #### Allowing a program through Kaspersky Internet Security
 
@@ -341,7 +341,7 @@ If you are still having issues connecting to our game servers, please submit a s
 
 You can perform a trace route by opening Command Prompt and running the command `tracert`.
 
-To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. [For more information, see this Windows knowledgebase article.](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
+To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. For more information, see the [Windows knowledgebase article](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
 
 You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
 
@@ -353,7 +353,7 @@ To copy the results of the command, simply click and drag from the bottom of the
 
 **The servers could be having issues.**
 
-Check the [osu! server status page](https://status.ppy.sh/ "status.ppy.sh") to see if there are any ongoing issues with the servers.
+Check the [osu! server status page](https://status.ppy.sh/ "osu! server status") to see if there are any ongoing issues with the servers.
 
 **This can also happen if you are using a shared internet connection, a proxy, or VPN.**
 

@@ -147,7 +147,7 @@ Pour forcer la recréation de votre base de données des beatmaps en toute sécu
 7. Renommez-le comme bon vous semble. Ce n'est pas important, tant que vous le ne renommez pas "osu!". Puis appuyez sur `Entrer`.
 8. Relancez osu!
 
-*Remarque : un correctif pour ce problème a été ajouté dans la version [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) datée du 2021-05-19. Si vous rencontrez toujours ce problème, veuillez nous le faire savoir [ici](https://github.com/ppy/osu-stable-issues/issues).*
+*Remarque : un correctif pour ce problème a été ajouté dans la version [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) datée du 2021-05-19. Si vous rencontrez toujours ce problème, veuillez [nous le faire savoir ici](https://github.com/ppy/osu-stable-issues/issues).*
 
 ### Ma liste de beatmaps défile toute seule !
 
@@ -322,7 +322,7 @@ Pour s'assurer qu'osu! puisse accéder à internet, nous devrons l'autoriser à 
 
 #### Autoriser un programme à travers le Pare-feu AVG
 
-Veuillez consulter l'entrée de la [base de connaissances officielle d'AVG sur le sujet](https://support.avg.com/search?l=fr&retUrl=SupportArticleView&searchText=Allow+application+in+AVG+Firewall&supportType=home) pour obtenir des instructions détaillées sur la manière de procéder.
+Veuillez consulter l'entrée de la [base de connaissances officielle d'AVG sur le sujet](https://support.avg.com/SupportArticleView?l=fr&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home) pour obtenir des instructions détaillées sur la manière de procéder.
 
 #### Autoriser un programme à travers Kaspersky Internet Security
 
@@ -347,7 +347,7 @@ Si vous rencontrez toujours des problèmes de connexion à nos serveurs de jeu, 
 
 Vous pouvez effectuer une trace route en ouvrant l'invite de commande et en exécutant la commande `tracert`.
 
-Pour ouvrir l'Invite de commande, maintenez la touche `Windows` enfoncée et appuyez sur `R`, puis tapez `cmd` et cliquez sur `OK`. [Pour plus d'informations, consultez cet article de la base de connaissances Windows](https://support.microsoft.com/fr-fr/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
+Pour ouvrir l'Invite de commande, maintenez la touche `Windows` enfoncée et appuyez sur `R`, puis tapez `cmd` et cliquez sur `OK`. Pour plus d'informations, consultez cet [article de la base de connaissances Windows](https://support.microsoft.com/fr-fr/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
 
 Vous pouvez ensuite taper la commande trace route dans la console. Par exemple, la commande `tracert cho.ppy.sh` suivra la façon dont votre ordinateur se connecte au serveur de jeu sur Internet. Le trace route prend un peu de temps, parfois plus d'une minute ou plus selon votre connexion.
 
@@ -359,7 +359,7 @@ Pour copier les résultats de la commande, il suffit de cliquer et de faire glis
 
 **Les serveurs peuvent avoir des problèmes.**
 
-Consultez la page [osu! server status](https://status.ppy.sh/ "status.ppy.sh") pour voir s'il y a des problèmes avec les serveurs.
+Consultez la page [osu! server status](https://status.ppy.sh/ "osu! server status") pour voir s'il y a des problèmes avec les serveurs.
 
 **Cela peut également se produire si vous utilisez une connexion Internet partagée, un proxy ou un VPN.**
 
