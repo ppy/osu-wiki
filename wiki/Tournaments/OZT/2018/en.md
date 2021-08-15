@@ -58,6 +58,7 @@ The osu! Z-Tournament 2018 was run by various community members.
 - [Mappools](https://docs.google.com/spreadsheets/d/1enUr9idRE7cAlAIEXoWVaIhBedvGOu3vKEGzLNLcUDU/edit?usp=sharing "Google Sheets")
 
 ## Participants
+
 | Team | Members |
 | :-- | :-- |
 | **Donkey Kong Krew** | **![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313)**, ![][flag_US] [Ritzeh](https://osu.ppy.sh/users/1028387), ![][flag_JP] [Donkey Kong](https://osu.ppy.sh/users/14335873), ![][flag_NL] [Diddy\_Kong](https://osu.ppy.sh/users/13190494), ![][flag_CA] [\_RyuK](https://osu.ppy.sh/users/6304246), ![][flag_US] [Tem](https://osu.ppy.sh/users/5393042), ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622), ![][flag_US] [Skill](https://osu.ppy.sh/users/7802027) |
@@ -125,7 +126,7 @@ The osu! Z-Tournament 2018 was run by various community members.
 - When registering, be aware that there must be at least 6 players, with 8 players at maximum.
 - Joining the Discord is mandatory, and could result in a team’s disqualification if all players are not found, and do not mute the server since this is where the announcements occur. Free agents must join as well.
 - This is an environment where both the staff, and players will enjoy themselves, please respect each other.
-- When entering the Discord server, each player must private message the bot, “!verify [Player name]” names are case sensitive.
+- When entering the Discord server, each player must private message the bot, `!verify [Player name]` names are case sensitive.
 - Please make sure all of the team information is finalized. After registrations end, team modifications will not be allowed (players, team name, etc.).
 - Scheduling must be done 24 hours prior to the match, there must be mutual agreement between the teams, teams will be informed when reschedules will not be accepted.
 - If the captain is missing, or cannot be contacted, the rights of captain will be handed down to the co-captain, however if the co-captain can also not be found, that will be handed down to the 3rd member, and so on.
@@ -138,7 +139,7 @@ The osu! Z-Tournament 2018 was run by various community members.
 
 ### Match procedures
 
-- Referees will create the room with the credentials “OZT: (Team Blue) vs. (Team Red)”.
+- Referees will create the room with the credentials `OZT: (Team Blue) vs. (Team Red)`.
 - Score system: ScoreV2, Team VS.
 - After creating the room, referees will invite the captains on each team (or any online players of the team, if the captain is not online) usually 10 minutes before the official match time. If the referee fails to invite the captains or show up to the match, please inform a higher authority.
 - Once invited, players will be put in each of the slots. Team 1 is Blue (first 4 slots), while Team 2 is Red (next 4 slots).
@@ -156,7 +157,7 @@ The osu! Z-Tournament 2018 was run by various community members.
 - If both teams reach to an equal score before the end of a match, this results in a tiebreaker.
 - Player disconnections will be treated as a fail regardless of reason, refs of the room or the host has all the say on the matches (exceptions only include: Bancho is not in a suitable condition, and the disconnect is within the first 30 seconds).
 - No rules have exceptions unless stated otherwise, during a match the staff will have the final say.
-- If a player were to DC in the first 30 seconds of the map, please use the command “!mp abort”, however if the player DCs after that mark, the map can not be replayed.
+- If a player were to DC in the first 30 seconds of the map, please use the command `!mp abort`, however if the player DCs after that mark, the map can not be replayed.
 - 3v3s and 2v2s are prohibited, please schedule a time where a 4v4 is possible. If you are unable to reach a compromise please alert an organizer.
 - Any questions please feel free to mention the hosts in the public Discord.
 
@@ -165,7 +166,7 @@ The osu! Z-Tournament 2018 was run by various community members.
 - Free agency is way for players to join the tournament if they do not have a team. It is also a good way to build new friendships.
 - To sign up as a free agent, go to the Free Agency area of the forum post, and the there should be a link that should say Sign Up for Free Agency. Click the link and you will be redirected to a signup form.
 - Signing up as a Free Agent is not a guaranteed way to join the tournament, however will increase chances to join the tournament if there are any teams interested.
-- The sheet with the signed up free agents will be in the official Z-Tournament 2018 Spreadsheet, under the tab Free Agents.
+- The sheet with the signed up free agents will be in the official Z-Tournament 2018 spreadsheet, under the tab Free Agents.
 - Once a Free Agent is claimed they shall be removed from the sheet of Free Agents on the spreadsheet.
 - If there is any information that needs to be changed on the sheet such as TimeZone, Player Name, Paired Partner, etc. Please do not hesitate to message BearZyo or Div, the change shall happen within a 24 hour period upon request.
 - If a Free Agent wishes to be removed from the list please PM BearZyo or Div, and they shall be removed within 24 hours upon request.
