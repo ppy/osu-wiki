@@ -19,7 +19,7 @@ This section is dedicated to issues with installing osu! and creating your own a
 
 ### How do I download osu!?
 
-**Simply click `Download` found at the center of the [official osu! website homepage](https://osu.ppy.sh/home). You may also find the link through the `home` dropdown section found at the navigation bar on any page.**
+**Simply click `Download now` found at the center of the [official osu! website homepage](https://osu.ppy.sh/home). You may also find the link through the `home` dropdown section found at the navigation bar on any page.**
 
 Alternatively, [click here](https://osu.ppy.sh/home/download) for a direct link to the download page.
 
