@@ -22,7 +22,7 @@ As is tradition, we've assembled a brief slideshow of all qualifying entries set
 
 The voting will remain open for **7 days**, so you better get in quick before the race is over.
 
-A selection of the top voted entries (usually the top 10 or 15, but it could be more or less) will be this year's Summer seasonal backgrounds and also nab their artists some neat prizes, too.
+A choice selection of the top voted entries (usually the top 10 or 15, but it could be more or less) will be this year's Summer seasonal backgrounds and also nab their artists some neat prizes, too.
 
 Best of luck to everyone involved!
 
