@@ -378,7 +378,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 ### Agustus
 
 - **[T & Sugah](https://osu.ppy.sh/home/news/2021-08-07-new-featured-artist-t-and-sugah)** (2021-08-07)
-  - (![][osu!]) [T & Sugah - Days Away (feat. Voicians)](https://osu.ppy.sh/beatmapsets/1519300) hdiurus oleh ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033)
+  - (![][osu!]) [T & Sugah - Days Away (feat. Voicians)](https://osu.ppy.sh/beatmapsets/1519300) diurus oleh ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033)
   - (![][osu!]) [T & Sugah x Zazu - Lost On My Own](https://osu.ppy.sh/beatmapsets/1511518) diurus oleh ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
   - (![][osu!]) [T & Sugah - Wicked Days](https://osu.ppy.sh/beatmapsets/1496811) diurus oleh ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
 - **[Natsume Itsuki](https://osu.ppy.sh/home/news/2021-08-11-new-featured-artist-natsume-itsuki)** (2021-08-11)
