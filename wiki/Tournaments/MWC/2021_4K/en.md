@@ -51,8 +51,8 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)
 - [Livestream](https://www.twitch.tv/osulive "Twitch")
 - [pick'ems page](https://pickem.hwc.hr/tournaments/67 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Challonge bracket](https://challonge.com/MWC4K2021 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAcQbWgmUTB8pR17UlLc2GC9i49-GzrJyKed6rj-8nM21cjIajvdTGqU0-Jdp2SM75Kq-x8ExyJEqI/pubhtml "Google Drive")**
+- [Challonge bracket](https://challonge.com/MWC4K_2021 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAcQbWgmUTB8pR17UlLc2GC9i49-GzrJyKed6rj-8nM21cjIajvdTGqU0-Jdp2SM75Kq-x8ExyJEqI/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -187,6 +187,8 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 ### Round of 32
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRCqILWcxsJv9hmIGjtGhV6Q7C3-ZxUPusNIYyV4lED1CNzn1vsH_lUPlnz6Mu1f_ODHZZJvmh4uPfv/pubhtml "Google Sheets").
+
 Saturday, August 14, 2021
 
 | Team A | | | Team B | Match link |
@@ -215,7 +217,7 @@ Sunday, August 15, 2021
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CqMoaA8sCvnzKIdacPuXiqlVan4b1-1O4HCfLSvOaV0/edit?rm=minimal "Google Sheets"). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdqhTkuMWNIS__5kIRsSijfBz_tpADXACO-9VtOxRXK5zIIqmFKlaEx7Hm_-MpjE4K5-8PDmExG7hJ/pubhtml "Google Drive").
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CqMoaA8sCvnzKIdacPuXiqlVan4b1-1O4HCfLSvOaV0/edit?rm=minimal "Google Sheets"). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdqhTkuMWNIS__5kIRsSijfBz_tpADXACO-9VtOxRXK5zIIqmFKlaEx7Hm_-MpjE4K5-8PDmExG7hJ/pubhtml "Google Sheets").
 
 ## Ruleset
 
