@@ -536,7 +536,7 @@ Tuesday, 27 June 2017:
 
 - This tournament is a 1v1 single-elimination international osu! tournament.
 - This tournament will consist of 128 players.
-- Your rank must be lower than #50,000 to play. Signups under this rank will be considered on a per player basis.
+- Your rank must be better than #50,000 to play. Sign-ups worse this rank will be considered on a per-player basis.
 - Every map is from 2009 or 2010.
 - With the exception of 6 maps, every map is AR8 or lower.
 - ScoreV1 will be used.

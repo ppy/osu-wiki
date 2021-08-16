@@ -312,7 +312,7 @@ Tuesday, 13 September 2016:
 
 - This tournament is a 1v1 single-elimination international osu! tournament.
 - This tournament will consist of 64 players.
-- Your rank must be lower than #100,000 to play. Signups under this rank will not be considered.
+- Your rank must be better than #100,000 to play. Sign-ups worse this rank will not be considered.
 - With the exception of 3 maps, every map is 2009 or older.
 - With the exception of 2 maps, every map is AR8 or lower.
 - ScoreV1 will be used.
