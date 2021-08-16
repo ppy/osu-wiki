@@ -555,7 +555,7 @@ Tuesday, 27 June 2017:
   - The TieBreaker map follows FreeMod rules.
 - The Round of 32 is Best of 5, every round afterwards is Best of 7, the Grand Final is Best of 9.
 - Both players will be contacted by the match referee before the match starts in bancho chat. Players have until 15 minutes after the scheduled start time of the match to show up, or they automatically forfeit.
-- Players are able to play a warm up map if they so choose. Warmup maps should be under 4 minutes 30 seconds long and they must be submitted to osu.ppy.sh.
+- Players are able to play a warm-up map if they so choose. Warm-up maps should be under 4 minutes 30 seconds long and they must be submitted to osu.ppy.sh.
 - To decide who bans first, both players will `!roll`. Whoever gets the higher roll bans first, the lower roll gets to decide what the first map to play is.
 - Each player can ban two maps per match.
 
