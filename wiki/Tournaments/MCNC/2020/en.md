@@ -2,6 +2,7 @@
 tags:
   - MCNC
   - MCNC2020
+  - MCNC 2020
 ---
 
 # osu!mania 4K Chinese National Cup 2020
@@ -33,6 +34,8 @@ The **osu!mania 4K Chinese National Cup 2020** (***MCNC 2020***) was a country-b
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,200, 15% off coupon for the New Crazyboard, unique profile badge, 4 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 800, 10% off coupon for the New Crazyboard, 2 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, 5% off coupon for the New Crazyboard, 1 months of osu!supporter |
+
+![](img/172-80.png "MCNC 2020 badge")
 
 ## Organisation
 
