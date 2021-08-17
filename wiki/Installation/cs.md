@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Instalace
 
 *Viz také: [Instalace v systému macOS](/wiki/Installation/macOS)*
