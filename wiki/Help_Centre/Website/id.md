@@ -63,18 +63,6 @@ Apabila kamu tidak lagi ingin menerima pesan pribadi (*private message*) dari pe
 
 Ke depannya, kamu tidak akan lagi mendapatkan pesan *in-game chat* dari pengguna-pengguna yang tidak kamu tambahkan sebagai teman.
 
-<!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one
-
-#### Blocking public forum posts from a user
-
-**To naturally hide most public forum posts of a particular user, add them to your Foes list via the UCP.**
-
-1. Head over to the [foes list setting in the UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes) and simply add their username to the list as pictured.
-2. Click submit.
-3. You are done! Most forum posts from that user will no longer be visible to you - it will be as if they are never there. Do note that other users quoting their posts will still be visible.
-
--->
-
 #### Memblokir pesan-pesan pribadi (*private message*) dari pengguna-pengguna yang tidak ditambahkan sebagai teman pada forum osu!
 
 Tuju laman [pengaturan akun](https://osu.ppy.sh/home/account/edit) dan aktifkan opsi `Blokir pesan pribadi dari orang yang tidak ada dalam daftar teman Anda` yang ada pada kolom Kebijakan Privasi. Ke depannya, kamu tidak akan lagi mendapatkan pesan forum yang berasal dari pengguna-pengguna yang tidak kamu tambahkan sebagai teman.
