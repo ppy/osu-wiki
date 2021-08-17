@@ -9,7 +9,7 @@ tags:
 
 ![MCNC 2021 logo](img/logo.jpg)
 
-The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the third installment of the osu!mania 4K Chinese National Cup.
+The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the third instalment of the osu!mania 4K Chinese National Cup.
 
 ## Tournament schedule
 
@@ -18,8 +18,8 @@ The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) was a country-b
 | Registration phase | 2021-03-01/2021-03-31 |
 | Qualifiers | 2021-04-05/2021-04-11 |
 | Live drawings | 2021-04-11 (20:00 UTC+8) |
-| Group Stage week 1 | 2021-04-12/2021-04-18 |
-| Group Stage week 2 | 2021-04-19/2021-04-25 |
+| Group stage week 1 | 2021-04-12/2021-04-18 |
+| Group stage week 2 | 2021-04-19/2021-04-25 |
 | Round of 16 | 2021-04-26/2021-05-02 |
 | Quarterfinals | 2021-05-03/2021-05-09 |
 | Semifinals week 1 | 2021-05-10/2021-05-16 |
@@ -31,11 +31,11 @@ The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) was a country-b
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 2,500, unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 1,500, 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 800, 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 2,500, unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 1,500, 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 800, 1 month of osu!supporter |
 
-![MCNC 2021 winner badge](img/172-80.png)
+![MCNC 2021 winner badge](img/badge.png)
 
 ## Organisation
 
@@ -55,10 +55,10 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 - [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/1260186)
 - [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1260175)
-- [Livestream](https://live.bilibili.com/2996250)
-- [Discord Server](https://discord.gg/uBHK5vq)
-- [Challonge bracket](https://challonge.com/zh_CN/MCNC2021)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1xgxKNKoJNEQz_zlPUf-4fyxeBDpuhfkgqxXyOxaIkpU)**
+- [Livestream](https://live.bilibili.com/2996250 "Bilibili")
+- [Discord Server](https://discord.gg/uBHK5vq "Discord")
+- [Challonge bracket](https://challonge.com/zh_CN/MCNC2021 "Challonge")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1xgxKNKoJNEQz_zlPUf-4fyxeBDpuhfkgqxXyOxaIkpU "Google Sheets")**
 
 ## Participants
 
@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (255 MB)](https://drive.google.com/file/d/1Fb0s3GTJzZ0v2LgCJLhtjphwpXXPYpkl/view?usp=sharing)**
+**[Download the mappack here! (255 MB)](https://drive.google.com/file/d/1Fb0s3GTJzZ0v2LgCJLhtjphwpXXPYpkl/view?usp=sharing "Google Drive")**
 
 - FreeMod
   - [Camellia - Racemization (Ayase Eli) \[ELPIS' Racemization 1.15x\]](https://osu.ppy.sh/beatmapsets/1484517#mania/3044452)
@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1tj0Q6dEO1YGqvsXZQ5huJkZAckPSh4fS/view?usp=sharing)**
+**[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1tj0Q6dEO1YGqvsXZQ5huJkZAckPSh4fS/view?usp=sharing "Google Drive")**
 
 - FreeMod
   - [Oohashi Ayaka - NOISY LOVE POWER (\[Crz\]Serika) \[Fight for Love!! \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1046203#mania/2187192)
@@ -171,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/12P98_uqoBN5qaqL6-4DSFtxyFwcrjtVo/view?usp=sharing)**
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/12P98_uqoBN5qaqL6-4DSFtxyFwcrjtVo/view?usp=sharing "Google Drive")**
 
 - FreeMod
   - [Dimrain47 – Infernoplex (\[Crz\]xz1z1z) \[Mat's Insane 1.35x\]](https://osu.ppy.sh/beatmapsets/https://osu.ppy.sh/beatmapsets/1454397#mania/2989914)
@@ -193,7 +193,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (123 MB)](https://drive.google.com/file/d/1VDpFnjGwhyzIp0SvqUu6XEizSJ9FfGiD/view?usp=sharing)**
+**[Download the mappack here! (123 MB)](https://drive.google.com/file/d/1VDpFnjGwhyzIp0SvqUu6XEizSJ9FfGiD/view?usp=sharing "Google Drive")**
 
 - FreeMod
   - [TUYU - Doro no Bunzai de Watashidake no Taisetsu o Ubaouda Nante (flashnias) \[11Bit's Fallen Angel\]](https://osu.ppy.sh/beatmapsets/1248382#mania/2597083)
@@ -215,7 +215,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/13I8C26KAv3xVXBov1fRHuWR80Hskzi6T/view?usp=sharing)**
+**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/13I8C26KAv3xVXBov1fRHuWR80Hskzi6T/view?usp=sharing "Google Drive")**
 
 - FreeMod
   - [LeaF - Paraclete (Wonki) \[Another\]](https://osu.ppy.sh/beatmapsets/515734#mania/1095177)
@@ -235,7 +235,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (18 MB)](https://drive.google.com/file/d/1KYzdeiVoa11U0FYwjzqu-EKnDiA8DFr4/view?usp=sharing)**
+**[Download the mappack here! (18 MB)](https://drive.google.com/file/d/1KYzdeiVoa11U0FYwjzqu-EKnDiA8DFr4/view?usp=sharing "Google Drive")**
 
 - FreeMod
   - [Petit Rabbit's - Tenkuu Cafeteria (TV Size) (Hidden is fun) \[BLOOM! (No LN)\]](https://osu.ppy.sh/beatmapsets/1418929#mania/2923231)
@@ -398,8 +398,8 @@ This competition has come to an end and resulted in the following podium:
 11. The referees may nullify rules at their discretion if necessary, and have the final say in what occurs during the match.
 
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_MO]: /wiki/shared/flag/MO.gif "Macau"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
