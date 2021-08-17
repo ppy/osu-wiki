@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Performance Points & Star Rating Survey"
-date: 2021-08-13 10:00:00 +0000
+date: 2021-08-17 10:00:00 +0000
 ---
 
 We want your feedback on the way performance points and star rating development should proceed in the future, so read on and get involved!
@@ -10,9 +10,7 @@ We want your feedback on the way performance points and star rating development 
 
 In case you're not clued in, development of osu!'s scoring systems happens mostly on the [osu!dev Discord](https://discord.gg/ppy), with discussions taking place both on Github and in the #difficulty channels for a given game mode.
 
-In recent times, there have been conflicting opinions about what the path forward should look like. To help resolve the issue, we're putting out a short survey to better discover the expectations that all of you have for how things should be.
-
-There will be two forms of this survey - one sent out to everyone (as listed below), and a second private survey sent out to a limited top player audience to ensure that all parts of the community are covered.
+In recent times, there have been conflicting opinions about what the path forward should look like. To help clear the air, we're putting out a short survey to better discover the expectations that all of you have for how things should be.
 
 [**If you want to get involved, please click this link to get started!**](https://forms.gle/hvRaY3B19wCjD9tDA)
 
