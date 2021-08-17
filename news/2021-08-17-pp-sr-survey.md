@@ -16,7 +16,7 @@ Please also note that this survey mainly involves the **osu!** game mode for now
 
 We will also be issuing a private version of this survey to a smaller audience of higher skilled players to give insight into the opinions of both top-end players and also the wider "casual" community. Please complete this survey anyway if you are a top-end player, it certainly will not hurt!
 
-[**If you want to get involved, please click this link to get started!**](https://forms.gle/hvRaY3B19wCjD9tDA)
+[**If you want to get involved, please click this link to get started!**](https://forms.gle/AchMN5Q3AyLHFAKc8)
 
 This should take no more than 5 minutes to complete, so make sure to pass the news along to any of your friends that might be interested!
 
