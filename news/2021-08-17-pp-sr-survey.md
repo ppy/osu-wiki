@@ -8,7 +8,7 @@ We want your feedback on the way performance points and star rating development 
 
 ![](/wiki/shared/news/2021-07-27-performance-points-star-rating-updates/star-rating.jpg)
 
-In case you're not clued in, development of osu!'s scoring systems happens mostly on the [osu!dev Discord](https://discord.gg/ppy), with discussions taking place both on Github and in the #difficulty channels for a given game mode.
+In case you're not clued in, development of osu!'s scoring systems happens mostly on the [osu!dev Discord](https://discord.gg/ppy), with discussions taking place both on [GitHub](https://github.com/ppy/osu-performance) and in the `#difficulty` channels for a given game mode.
 
 In recent times, there have been conflicting opinions about what the path forward should look like. To help clear the air, we're putting out a short survey to better discover the expectations that all of you have for how things should be.
 
