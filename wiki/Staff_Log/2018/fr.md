@@ -1,25 +1,25 @@
-# Registre de personnel 2018
+# Registre du personnel 2018
 
 ## Janvier
 
-- Transféré [Feerum](https://osu.ppy.sh/users/4815717) de Quality Assurance Team à osu! Alumni (2018-01-02)
-- Ajouté [Tommay](https://osu.ppy.sh/users/3132818) à Global Moderation Team (2018-01-05)
-- Ajouté [stymlice](https://osu.ppy.sh/users/5122436) à Global Moderation Team (2018-01-05)
-- Transféré [Tasha](https://osu.ppy.sh/users/1031958) de Global Moderation Team à osu! Alumni (2018-01-08)
-- Transféré [spboxer3](https://osu.ppy.sh/users/197974) de osu! Alumni à Global Moderation Team (2018-01-09)
-- Transféré [Atrue](https://osu.ppy.sh/users/1758523) de Global Moderation Team à osu! Alumni (2018-01-18)
-- Transféré [Pittigbaasje](https://osu.ppy.sh/users/2167433) de Global Moderation Team à osu! Alumni (2018-01-27)
-- Transféré [Elfin](https://osu.ppy.sh/users/1399551) de Global Moderation Team à osu! Alumni (2018-01-28)
-- Transféré [Fycho](https://osu.ppy.sh/users/1876867) de osu! Alumni à Quality Assurance Team (2018-01-29)
-- Transféré [Myxo](https://osu.ppy.sh/users/2202645) de osu! Alumni à Quality Assurance Team (2018-01-29)
+- Transfert de [Feerum](https://osu.ppy.sh/users/4815717) : Quality Assurance Team > osu! Alumni (02/01/2018)
+- Ajout de [Tommay](https://osu.ppy.sh/users/3132818) : Global Moderation Team (05/01/2018)
+- Ajout de [stymlice](https://osu.ppy.sh/users/5122436) : Global Moderation Team (05/01/2018)
+- Transfert de [Tasha](https://osu.ppy.sh/users/1031958) : Global Moderation Team > osu! Alumni (08/01/2018)
+- Transfert de [spboxer3](https://osu.ppy.sh/users/197974) : osu! Alumni > Global Moderation Team (09/01/2018)
+- Transfert de [Atrue](https://osu.ppy.sh/users/1758523) : Global Moderation Team > osu! Alumni (18/01/2018)
+- Transfert de [Pittigbaasje](https://osu.ppy.sh/users/2167433) : Global Moderation Team > osu! Alumni (27/01/2018)
+- Transfert de [Elfin](https://osu.ppy.sh/users/1399551) : Global Moderation Team > osu! Alumni (28/01/2018)
+- Transfert de [Fycho](https://osu.ppy.sh/users/1876867) : osu! Alumni > Quality Assurance Team (29/01/2018)
+- Transfert de [Myxo](https://osu.ppy.sh/users/2202645) : osu! Alumni > Quality Assurance Team (29/01/2018)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [sheela](https://osu.ppy.sh/users/1138027) - démission (2018-01-13)
+- [sheela](https://osu.ppy.sh/users/1138027) - démission (13/01/2018)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2018-01-29.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 29/01/2018 :
 
 - [UndeadCapulet](https://osu.ppy.sh/users/2523533)
 - [Noffy](https://osu.ppy.sh/users/1541323)
@@ -44,45 +44,45 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2018-01-29.
 
 ## Février
 
-- Transféré [Blocko](https://osu.ppy.sh/users/4075092) de Quality Assurance Team à osu! Alumni (2018-02-04)
-- Ajouté [Asherz007](https://osu.ppy.sh/users/9014047) à Quality Assurance Team (2018-02-04)
-- Transféré [Darksonic](https://osu.ppy.sh/users/570042) de osu! Alumni à Global Moderation Team (2018-02-13)
-- Transféré [Uni](https://osu.ppy.sh/users/617106) de Global Moderation Team à osu! Alumni (2018-02-20)
-- Transféré [[ Another ]](https://osu.ppy.sh/users/3416573) de Global Moderation Team à osu! Alumni (2018-02-20)
-- Retiré [Irreversible](https://osu.ppy.sh/users/1287964) de Quality Assurance Team (2018-02-27)
+- Transfert de [Blocko](https://osu.ppy.sh/users/4075092) : Quality Assurance Team > osu! Alumni (04/02/2018)
+- Ajout de [Asherz007](https://osu.ppy.sh/users/9014047) : Quality Assurance Team (04/02/2018)
+- Transfert de [Darksonic](https://osu.ppy.sh/users/570042) : osu! Alumni > Global Moderation Team (13/02/2018)
+- Transfert de [Uni](https://osu.ppy.sh/users/617106) : Global Moderation Team > osu! Alumni (20/02/2018)
+- Transfert de [[ Another ]](https://osu.ppy.sh/users/3416573) : Global Moderation Team > osu! Alumni (20/02/2018)
+- Retrait de [Irreversible](https://osu.ppy.sh/users/1287964) : Quality Assurance Team (27/02/2018)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [Litharrale](https://osu.ppy.sh/users/3189995) - démission (2018-02-02)
-- [ailv](https://osu.ppy.sh/users/6933054) - nomination irresponsable (2018-02-19)
-- [Halfsmashed](https://osu.ppy.sh/users/4847256) - démission (2018-02-21)
-- [Wafu](https://osu.ppy.sh/users/888955) - démission (2018-02-25)
-- [Voli](https://osu.ppy.sh/users/2522275) - démission (2018-02-28)
+- [Litharrale](https://osu.ppy.sh/users/3189995) - démission (02/02/2018)
+- [ailv](https://osu.ppy.sh/users/6933054) - nomination irresponsable (19/02/2018)
+- [Halfsmashed](https://osu.ppy.sh/users/4847256) - démission (21/02/2018)
+- [Wafu](https://osu.ppy.sh/users/888955) - démission (25/02/2018)
+- [Voli](https://osu.ppy.sh/users/2522275) - démission (28/02/2018)
 
 ### Nouveaux Beatmap Nominators
 
-- [Kuron-Kun](https://osu.ppy.sh/users/2697284) (2018-02-06)
-- [ailv](https://osu.ppy.sh/users/6933054) (2018-02-26)
+- [Kuron-Kun](https://osu.ppy.sh/users/2697284) (06/02/2018)
+- [ailv](https://osu.ppy.sh/users/6933054) (26/02/2018)
 
 ## Mars
 
-- Ajouté [Lasse](https://osu.ppy.sh/users/896613) à Quality Assurance Team (2018-03-01)
-- Transféré [Stefan](https://osu.ppy.sh/users/626907) de osu! Alumni à Global Moderation Team (2018-03-11)
-- Transféré [Okoratu](https://osu.ppy.sh/users/1623405) de Quality Assurance Team à osu! Alumni et Beatmap Nominators (2018-03-17)
-- Transféré [shARPII](https://osu.ppy.sh/users/776257) de Global Moderation Team à osu! Alumni (2018-03-17)
-- Ajouté [-Mo-](https://osu.ppy.sh/users/2202163) à Quality Assurance Team (2018-03-22)
-- Transféré [Gabe](https://osu.ppy.sh/users/654108) de Beatmap Nominators à Quality Assurance Team (2018-03-22)
-- Ajouté [Lanturn](https://osu.ppy.sh/users/1446665) à Quality Assurance Team (2018-03-22)
-- Ajouté [Mir](https://osu.ppy.sh/users/8688812) à Quality Assurance Team (2018-03-22)
+- Ajout de [Lasse](https://osu.ppy.sh/users/896613) : Quality Assurance Team (01/03/2018)
+- Transfert de [Stefan](https://osu.ppy.sh/users/626907) : osu! Alumni > Global Moderation Team (11/03/2018)
+- Transfert de [Okoratu](https://osu.ppy.sh/users/1623405) : Quality Assurance Team > osu! Alumni et Beatmap Nominators (17/03/2018)
+- Transfert de [shARPII](https://osu.ppy.sh/users/776257) : Global Moderation Team > osu! Alumni (17/03/2018)
+- Ajout de [-Mo-](https://osu.ppy.sh/users/2202163) : Quality Assurance Team (22/03/2018)
+- Transfert de [Gabe](https://osu.ppy.sh/users/654108) : Beatmap Nominators > Quality Assurance Team (22/03/2018)
+- Ajout de [Lanturn](https://osu.ppy.sh/users/1446665) : Quality Assurance Team (22/03/2018)
+- Ajout de [Mir](https://osu.ppy.sh/users/8688812) : Quality Assurance Team (22/03/2018)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [Naotoshi](https://osu.ppy.sh/users/5364763) - démission (2018-03-11)
-- [xfraczynho](https://osu.ppy.sh/users/2192669) - démission (2018-03-19)
+- [Naotoshi](https://osu.ppy.sh/users/5364763) - démission (11/03/2018)
+- [xfraczynho](https://osu.ppy.sh/users/2192669) - démission (19/03/2018)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2018-03-12.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 12/03/2018 :
 
 - [Nepuri](https://osu.ppy.sh/users/6637817)
 - [-Kazu-](https://osu.ppy.sh/users/920861)
@@ -95,27 +95,27 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2018-03-12.
 
 ---
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2018-03-19.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 19/03/2018 :
 
 - [AJamez](https://osu.ppy.sh/users/7890134)
 - [error\_exe777](https://osu.ppy.sh/users/7975796)
 
 ## Avril
 
-- Transféré [Zetera](https://osu.ppy.sh/users/587737) de Global Moderation Team à osu! Alumni (2018-04-06)
-- Ajouté [Aloda](https://osu.ppy.sh/users/1190127) à Quality Assurance Team (2018-04-16)
+- Transfert de [Zetera](https://osu.ppy.sh/users/587737) : Global Moderation Team > osu! Alumni (06/04/2018)
+- Ajout de [Aloda](https://osu.ppy.sh/users/1190127) : Quality Assurance Team (16/04/2018)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [Sanyi](https://osu.ppy.sh/users/7496029) - démission (2018-04-17)
-- [ezek](https://osu.ppy.sh/users/7496029) - démission (2018-04-17)
-- Kisses - restriction du compte (2018-04-22)
-- [Hareimu](https://osu.ppy.sh/users/4138746) - démission (2018-04-24)
-- Sotarks - restriction du compte (2018-04-30)
+- [Sanyi](https://osu.ppy.sh/users/7496029) - démission (17/04/2018)
+- [ezek](https://osu.ppy.sh/users/7496029) - démission (17/04/2018)
+- Kisses - restriction du compte (22/04/2018)
+- [Hareimu](https://osu.ppy.sh/users/4138746) - démission (24/04/2018)
+- Sotarks - restriction du compte (30/04/2018)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2018-04-23.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 23/04/2018 :
 
 - [Mirash](https://osu.ppy.sh/users/2841009)
 - [Kyuukai](https://osu.ppy.sh/users/5337374)
@@ -139,46 +139,46 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2018-04-23.
 
 ## Mai
 
-- Ajouté [Chaoslitz](https://osu.ppy.sh/users/3621552) à Quality Assurance Team (2018-05-09)
-- Transféré [Myxo](https://osu.ppy.sh/users/2202645) de Quality Assurance Team à osu! Alumni (2018-05-09)
+- Ajout de [Chaoslitz](https://osu.ppy.sh/users/3621552) : Quality Assurance Team (09/05/2018)
+- Transfert de [Myxo](https://osu.ppy.sh/users/2202645) : Quality Assurance Team > osu! Alumni (09/05/2018)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [Chromoxx](https://osu.ppy.sh/users/1881639) - démission (2018-05-01)
-- [Chewin](https://osu.ppy.sh/users/617323) - manque d'activité (2018-05-14)
-- [MBomb](https://osu.ppy.sh/users/3071175) - démission (2018-05-20)
-- [SnowNiNo_](https://osu.ppy.sh/users/2506267) - défaut de la probation (2018-05-24)
-- [Smokeman](https://osu.ppy.sh/users/2140676) - défaut de la probation (2018-05-24)
-- [Kyuukai](https://osu.ppy.sh/users/5337374) - défaut de la probation (2018-05-24)
-- [juankristal](https://osu.ppy.sh/users/443656) - manque d'activité (2018-05-30)
-- [Nwolf](https://osu.ppy.sh/users/1910766) - manque d'activité (2018-05-30)
-- [Arrival](https://osu.ppy.sh/users/1694000) - manque d'activité (2018-05-30)
-- [Julie](https://osu.ppy.sh/users/2420987) - manque d'activité (2018-05-30)
-- [Weber](https://osu.ppy.sh/users/6410432) - manque d'activité (2018-05-30)
+- [Chromoxx](https://osu.ppy.sh/users/1881639) - démission (01/05/2018)
+- [Chewin](https://osu.ppy.sh/users/617323) - manque d'activité (14/05/2018)
+- [MBomb](https://osu.ppy.sh/users/3071175) - démission (20/05/2018)
+- [SnowNiNo_](https://osu.ppy.sh/users/2506267) - manque d'approbation (24/05/2018)
+- [Smokeman](https://osu.ppy.sh/users/2140676) - manque d'approbation (24/05/2018)
+- [Kyuukai](https://osu.ppy.sh/users/5337374) - manque d'approbation (24/05/2018)
+- [juankristal](https://osu.ppy.sh/users/443656) - manque d'activité (30/05/2018)
+- [Nwolf](https://osu.ppy.sh/users/1910766) - manque d'activité (30/05/2018)
+- [Arrival](https://osu.ppy.sh/users/1694000) - manque d'activité (30/05/2018)
+- [Julie](https://osu.ppy.sh/users/2420987) - manque d'activité (30/05/2018)
+- [Weber](https://osu.ppy.sh/users/6410432) - manque d'activité (30/05/2018)
 
 ## Juin
 
-- Transféré [Zetera](https://osu.ppy.sh/users/587737) de osu! Alumni à Global Moderation Team (2018-06-04)
-- Ajouté [Okoratu](https://osu.ppy.sh/users/1623405) à Global Moderation Team (2018-06-17)
-- Transféré [Kurai](https://osu.ppy.sh/users/77089) de Quality Assurance Team à Global Moderation Team (2018-06-18)
-- Transféré [Doyak](https://osu.ppy.sh/users/2046893) de Quality Assurance Team à Global Moderation Team (2018-06-18)
-- Transféré [Kurokami](https://osu.ppy.sh/users/260933) de Quality Assurance Team à osu! Alumni (2018-06-18)
-- Transféré [Asherz007](https://osu.ppy.sh/users/9014047) de Quality Assurance Team à Beatmap Nominators (2018-06-18)
-- Ajouté [Maxus](https://osu.ppy.sh/users/4335785) à Quality Assurance Team (2018-06-25)
+- Transfert de [Zetera](https://osu.ppy.sh/users/587737) : osu! Alumni > Global Moderation Team (04/06/2018)
+- Ajout de [Okoratu](https://osu.ppy.sh/users/1623405) : Global Moderation Team (17/06/2018)
+- Transfert de [Kurai](https://osu.ppy.sh/users/77089) : Quality Assurance Team > Global Moderation Team (18/06/2018)
+- Transfert de [Doyak](https://osu.ppy.sh/users/2046893) : Quality Assurance Team > Global Moderation Team (18/06/2018)
+- Transfert de [Kurokami](https://osu.ppy.sh/users/260933) : Quality Assurance Team > osu! Alumni (18/06/2018)
+- Transfert de [Asherz007](https://osu.ppy.sh/users/9014047) : Quality Assurance Team > Beatmap Nominators (18/06/2018)
+- Ajout de [Maxus](https://osu.ppy.sh/users/4335785) : Quality Assurance Team (25/06/2018)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [dsco](https://osu.ppy.sh/users/4330511) - démission (2018-06-07)
-- [frukoyurdakul](https://osu.ppy.sh/users/7612550) - démission (2018-06-11)
-- [kwk](https://osu.ppy.sh/users/365586) - défaut de la probation (2018-06-23)
-- [Deramok](https://osu.ppy.sh/users/1428455) - défaut de la probation (2018-06-23)
-- [hypercyte](https://osu.ppy.sh/users/9155377) - défaut de la probation (2018-06-23)
-- [celerih](https://osu.ppy.sh/users/4696296) - démission (2018-06-24)
-- [AyanokoRin](https://osu.ppy.sh/users/5376866) - démission (2018-06-25)
+- [dsco](https://osu.ppy.sh/users/4330511) - démission (07/06/2018)
+- [frukoyurdakul](https://osu.ppy.sh/users/7612550) - démission (11/06/2018)
+- [kwk](https://osu.ppy.sh/users/365586) - manque d'approbation (23/06/2018)
+- [Deramok](https://osu.ppy.sh/users/1428455) - manque d'approbation (23/06/2018)
+- [hypercyte](https://osu.ppy.sh/users/9155377) - manque d'approbation (23/06/2018)
+- [celerih](https://osu.ppy.sh/users/4696296) - démission (24/06/2018)
+- [AyanokoRin](https://osu.ppy.sh/users/5376866) - démission (25/06/2018)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2018-06-12.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 12/06/2018 :
 
 - [Nifty](https://osu.ppy.sh/users/4956097)
 - [qoot8123](https://osu.ppy.sh/users/766371)
@@ -192,35 +192,35 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2018-06-12.
 
 ## Juillet
 
-- Ajouté [Hobbes2](https://osu.ppy.sh/users/8157492) à Quality Assurance Team (2018-07-03)
-- Transféré [Seijiro](https://osu.ppy.sh/users/2581696) de osu! Alumni à Global Moderation Team (2018-07-18)
-- **Établie Project Loved Team** (2018-07-27)
-- Ajouté [Backfire](https://osu.ppy.sh/users/263110) à Project Loved Team (2018-07-27)
-- Ajouté [Toy](https://osu.ppy.sh/users/2757689) à Project Loved Team (2018-07-27)
+- Ajout de [Hobbes2](https://osu.ppy.sh/users/8157492) : Quality Assurance Team (03/07/2018)
+- Transfert de [Seijiro](https://osu.ppy.sh/users/2581696) : osu! Alumni > Global Moderation Team (18/07/2018)
+- **Création : Project Loved Team** (27/07/2018)
+- Ajout de [Backfire](https://osu.ppy.sh/users/263110) : Project Loved Team (27/07/2018)
+- Ajout de [Toy](https://osu.ppy.sh/users/2757689) : Project Loved Team (27/07/2018)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [Sorcerer](https://osu.ppy.sh/users/1913190) - démission (2018-07-01)
-- [Arzenvald](https://osu.ppy.sh/users/3027421) - démission (2018-07-05)
-- [Kagetsu](https://osu.ppy.sh/users/6203841) - démission (2018-07-11)
-- [Hailie](https://osu.ppy.sh/users/5226970) - démission (2018-07-14)
-- [Bubblun](https://osu.ppy.sh/users/6191653) - manque de compétence (2018-07-21)
-- [Battle](https://osu.ppy.sh/users/4037545) - manque d'activité (2018-07-21)
-- [Halfslashed](https://osu.ppy.sh/users/4598899) - manque de compétence (2018-07-21)
-- [mancuso_JM_](https://osu.ppy.sh/users/521568) - manque d'activité (2018-07-21)
-- [pinataman](https://osu.ppy.sh/users/1235485) - manque d'activité (2018-07-21)
-- [squirrelpascals](https://osu.ppy.sh/users/6151332) - manque de compétence (2018-07-21)
-- [AJamez](https://osu.ppy.sh/users/7890134) - manque de compétence (2018-07-21)
-- [Fresh Chicken](https://osu.ppy.sh/users/3984370) - manque d'activité (2018-07-21)
-- [Kamikaze](https://osu.ppy.sh/users/2124783) - comportement inapproprié (2018-07-21)
-- [JUDYDANNY](https://osu.ppy.sh/users/1165475) - manque d'activité (2018-07-21)
-- [Skylish](https://osu.ppy.sh/users/2845958) - manque d'activité (2018-07-21)
-- [incandescence](https://osu.ppy.sh/users/6256027) - démission (2018-07-27)
-- [Delis](https://osu.ppy.sh/users/1603923) - démission (2018-07-28)
+- [Sorcerer](https://osu.ppy.sh/users/1913190) - démission (01/07/2018)
+- [Arzenvald](https://osu.ppy.sh/users/3027421) - démission (05/07/2018)
+- [Kagetsu](https://osu.ppy.sh/users/6203841) - démission (11/07/2018)
+- [Hailie](https://osu.ppy.sh/users/5226970) - démission (14/07/2018)
+- [Bubblun](https://osu.ppy.sh/users/6191653) - manque de compétence (21/07/2018)
+- [Battle](https://osu.ppy.sh/users/4037545) - manque d'activité (21/07/2018)
+- [Halfslashed](https://osu.ppy.sh/users/4598899) - manque de compétence (21/07/2018)
+- [mancuso_JM_](https://osu.ppy.sh/users/521568) - manque d'activité (21/07/2018)
+- [pinataman](https://osu.ppy.sh/users/1235485) - manque d'activité (21/07/2018)
+- [squirrelpascals](https://osu.ppy.sh/users/6151332) - manque de compétence (21/07/2018)
+- [AJamez](https://osu.ppy.sh/users/7890134) - manque de compétence (21/07/2018)
+- [Fresh Chicken](https://osu.ppy.sh/users/3984370) - manque d'activité (21/07/2018)
+- [Kamikaze](https://osu.ppy.sh/users/2124783) - comportement inapproprié (21/07/2018)
+- [JUDYDANNY](https://osu.ppy.sh/users/1165475) - manque d'activité (21/07/2018)
+- [Skylish](https://osu.ppy.sh/users/2845958) - manque d'activité (21/07/2018)
+- [incandescence](https://osu.ppy.sh/users/6256027) - démission (27/07/2018)
+- [Delis](https://osu.ppy.sh/users/1603923) - démission (28/07/2018)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2018-07-27.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 27/07/2018 :
 
 - [UndeadCapulet](https://osu.ppy.sh/users/2523533)
 - [Seijiro](https://osu.ppy.sh/users/2581696)
@@ -238,109 +238,110 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2018-07-27.
 
 ## Août
 
-- Ajouté [ZiRoX](https://osu.ppy.sh/users/200768) à Quality Assurance Team (2018-08-19)
+- Ajout de [ZiRoX](https://osu.ppy.sh/users/200768) : Quality Assurance Team (19/08/2018)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [error_exe777](https://osu.ppy.sh/users/7975796) - défaut de la probation (2018-08-17)
-- [Cerulean Veyron](https://osu.ppy.sh/users/1886524) - démission (2018-08-20)
-- [F D Flourite](https://osu.ppy.sh/users/2459589) - défaut de la probation (2018-08-22)
-- [Ryuusei Aika](https://osu.ppy.sh/users/7777875) - défaut de la probation (2018-08-22)
-- [sahuang](https://osu.ppy.sh/users/5318910) - défaut de la probation (2018-08-22)
-- [Strategas](https://osu.ppy.sh/users/2971837) - défaut de la probation (2018-08-22)
-- [DE-CADE](https://osu.ppy.sh/users/3734394) - défaut de la probation (2018-08-22)
-- [Lenfried-](https://osu.ppy.sh/users/5314573) - défaut de la probation (2018-08-22)
-- [Unpredictable](https://osu.ppy.sh/users/7560872) - défaut de la probation (2018-08-22)
-- [Garalulu](https://osu.ppy.sh/users/757783) - démission (2018-08-25)
-- [Sieg](https://osu.ppy.sh/users/1404615) - démission (2018-08-28)
+- [error_exe777](https://osu.ppy.sh/users/7975796) - manque d'approbation (17/08/2018)
+- [Cerulean Veyron](https://osu.ppy.sh/users/1886524) - démission (20/08/2018)
+- [F D Flourite](https://osu.ppy.sh/users/2459589) - manque d'approbation (22/08/2018)
+- [Ryuusei Aika](https://osu.ppy.sh/users/7777875) - manque d'approbation (22/08/2018)
+- [sahuang](https://osu.ppy.sh/users/5318910) - manque d'approbation (22/08/2018)
+- [Strategas](https://osu.ppy.sh/users/2971837) - manque d'approbation (22/08/2018)
+- [DE-CADE](https://osu.ppy.sh/users/3734394) - manque d'approbation (22/08/2018)
+- [Lenfried-](https://osu.ppy.sh/users/5314573) - manque d'approbation (22/08/2018)
+- [Unpredictable](https://osu.ppy.sh/users/7560872) - manque d'approbation (22/08/2018)
+- [Garalulu](https://osu.ppy.sh/users/757783) - démission (25/08/2018)
+- [Sieg](https://osu.ppy.sh/users/1404615) - démission (28/08/2018)
 
 ## Septembre
 
-- Transféré [deadbeat](https://osu.ppy.sh/users/128370) de Global Moderation Team à osu! Alumni (2018-09-04)
-- Transféré [Doyak](https://osu.ppy.sh/users/2046893) de Global Moderation Team à osu! Alumni (2018-09-09)
-- Transféré [Mir](https://osu.ppy.sh/users/8688812) de Quality Assurance Team à osu! Alumni (2018-09-19)
-- Transféré [Hobbes2](https://osu.ppy.sh/users/8157492) de Quality Assurance Team à Beatmap Nominators (2018-09-19)
-- Ajouté [Kibbleru](https://osu.ppy.sh/users/3193504) à Quality Assurance Team (2018-09-21)
-- Transféré [Elfin](https://osu.ppy.sh/users/1399551) de osu! Alumni à Global Moderation Team (2018-09-26)
+- Transfert de [deadbeat](https://osu.ppy.sh/users/128370) : Global Moderation Team > osu! Alumni (04/09/2018)
+- Transfert de [Doyak](https://osu.ppy.sh/users/2046893) : Global Moderation Team > osu! Alumni (09/09/2018)
+- Transfert de [Mir](https://osu.ppy.sh/users/8688812) : Quality Assurance Team > osu! Alumni (19/09/2018)
+- Transfert de [Hobbes2](https://osu.ppy.sh/users/8157492) : Quality Assurance Team > Beatmap Nominators (19/09/2018)
+- Ajout de [Kibbleru](https://osu.ppy.sh/users/3193504) : Quality Assurance Team (21/09/2018)
+- Transfert de [Elfin](https://osu.ppy.sh/users/1399551) : osu! Alumni > Global Moderation Team (26/09/2018)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [Seijiro](https://osu.ppy.sh/users/2581696) - défaut de la probation (2018-09-02)
-- [Cris-](https://osu.ppy.sh/users/6175280) - défaut de la probation (2018-09-02)
-- [Yugu](https://osu.ppy.sh/users/3161834) - défaut de la probation (2018-09-02)
-- [frogyfro](https://osu.ppy.sh/users/7010859) - défaut de la probation (2018-09-02)
-- [Fii](https://osu.ppy.sh/users/3922569) - démission (2018-09-02)
-- [Karen](https://osu.ppy.sh/users/3143784) - manque d'activité (2018-09-08)
-- [riffy](https://osu.ppy.sh/users/597957) - démission (2018-09-09)
-- [Ascendance](https://osu.ppy.sh/users/2931883) - démission (2018-09-15)
+- [Seijiro](https://osu.ppy.sh/users/2581696) - manque d'approbation (02/09/2018)
+- [Cris-](https://osu.ppy.sh/users/6175280) - manque d'approbation (02/09/2018)
+- [Yugu](https://osu.ppy.sh/users/3161834) - manque d'approbation (02/09/2018)
+- [frogyfro](https://osu.ppy.sh/users/7010859) - manque d'approbation (02/09/2018)
+- [Fii](https://osu.ppy.sh/users/3922569) - démission (02/09/2018)
+- [Karen](https://osu.ppy.sh/users/3143784) - manque d'activité (08/09/2018)
+- [riffy](https://osu.ppy.sh/users/597957) - démission (09/09/2018)
+- [Ascendance](https://osu.ppy.sh/users/2931883) - démission (15/09/2018)
 
 ## Octobre
 
-- Ajouté [topecnz](https://osu.ppy.sh/users/2103927) à Global Moderation Team (2018-10-01)
-- Ajouté [-Kazu-](https://osu.ppy.sh/users/920861) à Quality Assurance Team (2018-10-04)
-- Transféré [VeilStar](https://osu.ppy.sh/users/4255720) de Support Team et Global Moderation Team à osu! Alumni (2018-10-05)
-- Ajouté [TicClick](https://osu.ppy.sh/users/672931) à Global Moderation Team (2018-10-23)
+- Ajout de [topecnz](https://osu.ppy.sh/users/2103927) : Global Moderation Team (01/10/2018)
+- Ajout de [-Kazu-](https://osu.ppy.sh/users/920861) : Quality Assurance Team (04/10/2018)
+- Transfert de [VeilStar](https://osu.ppy.sh/users/4255720) : Support Team et Global Moderation Team > osu! Alumni (05/10/2018)
+- Ajout de [TicClick](https://osu.ppy.sh/users/672931) : Global Moderation Team (23/10/2018)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [Plaudible](https://osu.ppy.sh/users/7149815) - démission (2018-10-07)
-- [BOUYAAA](https://osu.ppy.sh/users/405449) - défaut de la probation (2018-10-12)
-- [Jonawaga](https://osu.ppy.sh/users/3653035) - démission (2018-10-14)
-- [Nifty](https://osu.ppy.sh/users/4956097) - défaut de la probation (2018-10-15)
-- [Kin](https://osu.ppy.sh/users/480689) - manque d'activité (2018-10-17)
+- [Plaudible](https://osu.ppy.sh/users/7149815) - démission (07/10/2018)
+- [BOUYAAA](https://osu.ppy.sh/users/405449) - manque d'approbation (12/10/2018)
+- [Jonawaga](https://osu.ppy.sh/users/3653035) - démission (14/10/2018)
+- [Nifty](https://osu.ppy.sh/users/4956097) - manque d'approbation (15/10/2018)
+- [Kin](https://osu.ppy.sh/users/480689) - manque d'activité (17/10/2018)
 
 ### Nouveaux Beatmap Nominators
 
-- [Sotarks](https://osu.ppy.sh/users/4452992) (2018-10-22)
-- [Hailie](https://osu.ppy.sh/users/5226970) (2018-10-22)
-- [LMT](https://osu.ppy.sh/users/7262798) (2018-10-22)
-- [Beomsan](https://osu.ppy.sh/users/3626063) (2018-10-22)
-- [Smokeman](https://osu.ppy.sh/users/2140676) (2018-10-22)
-- [Myxo](https://osu.ppy.sh/users/2202645) (2018-10-22)
-- [Kaitjuh](https://osu.ppy.sh/users/2225327) (2018-10-22)
-- [Ryuusei Aika](https://osu.ppy.sh/users/7777875) (2018-10-22)
-- [NeilPerry](https://osu.ppy.sh/users/841391) (2018-10-22)
-- [fieryrage](https://osu.ppy.sh/users/3533958) (2018-10-22)
-- [hypercyte](https://osu.ppy.sh/users/9155377) (2018-10-22)
-- [Uta](https://osu.ppy.sh/users/9439796) (2018-10-22)
-- [Yahuri](https://osu.ppy.sh/users/4682629) (2018-10-22)
-- [squirrelpascals](https://osu.ppy.sh/users/6151332) (2018-10-22)
-- [yaspo](https://osu.ppy.sh/users/4945926) (2018-10-22)
-- [DTM9 Nowa](https://osu.ppy.sh/users/5428909) (2018-10-22)
-- [Yales](https://osu.ppy.sh/users/2377881) (2018-10-22)
-- [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781) (2018-10-22)
-- [Ascendance](https://osu.ppy.sh/users/2931883) (2018-10-22)
-- [-Luminate](https://osu.ppy.sh/users/4778689) (2018-10-22)
-- [AJamez](https://osu.ppy.sh/users/7890134) (2018-10-22)
-- [wonjae](https://osu.ppy.sh/users/5032045) (2018-10-22)
-- [Dellvangel](https://osu.ppy.sh/users/5186244) (2018-10-22)
-- [-MysticEyes](https://osu.ppy.sh/users/6253266) (2018-10-22)
-- [MEGAtive](https://osu.ppy.sh/users/3094101) (2018-10-22)
-- [Arzenvald](https://osu.ppy.sh/users/3027421) (2018-10-22)
-- [Yuii-](https://osu.ppy.sh/users/2935923) (2018-10-23)
-- [Yukiyo](https://osu.ppy.sh/users/4541873) (2018-10-28)
+- [Sotarks](https://osu.ppy.sh/users/4452992) (22/10/2018)
+- [Hailie](https://osu.ppy.sh/users/5226970) (22/10/2018)
+- [LMT](https://osu.ppy.sh/users/7262798) (22/10/2018)
+- [Beomsan](https://osu.ppy.sh/users/3626063) (22/10/2018)
+- [Smokeman](https://osu.ppy.sh/users/2140676) (22/10/2018)
+- [Myxo](https://osu.ppy.sh/users/2202645) (22/10/2018)
+- [Kaitjuh](https://osu.ppy.sh/users/2225327) (22/10/2018)
+- [Ryuusei Aika](https://osu.ppy.sh/users/7777875) (22/10/2018)
+- [NeilPerry](https://osu.ppy.sh/users/841391) (22/10/2018)
+- [fieryrage](https://osu.ppy.sh/users/3533958) (22/10/2018)
+- [hypercyte](https://osu.ppy.sh/users/9155377) (22/10/2018)
+- [Uta](https://osu.ppy.sh/users/9439796) (22/10/2018)
+- [Yahuri](https://osu.ppy.sh/users/4682629) (22/10/2018)
+- [squirrelpascals](https://osu.ppy.sh/users/6151332) (22/10/2018)
+- [yaspo](https://osu.ppy.sh/users/4945926) (22/10/2018)
+- [DTM9 Nowa](https://osu.ppy.sh/users/5428909) (22/10/2018)
+- [Yales](https://osu.ppy.sh/users/2377881) (22/10/2018)
+- [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781) (22/10/2018)
+- [Ascendance](https://osu.ppy.sh/users/2931883) (22/10/2018)
+- [-Luminate](https://osu.ppy.sh/users/4778689) (22/10/2018)
+- [AJamez](https://osu.ppy.sh/users/7890134) (22/10/2018)
+- [wonjae](https://osu.ppy.sh/users/5032045) (22/10/2018)
+- [Dellvangel](https://osu.ppy.sh/users/5186244) (22/10/2018)
+- [-MysticEyes](https://osu.ppy.sh/users/6253266) (22/10/2018)
+- [MEGAtive](https://osu.ppy.sh/users/3094101) (22/10/2018)
+- [Arzenvald](https://osu.ppy.sh/users/3027421) (22/10/2018)
+- [Yuii-](https://osu.ppy.sh/users/2935923) (23/10/2018)
+- [Yukiyo](https://osu.ppy.sh/users/4541873) (28/10/2018)
 
 ## Novembre
 
-- Transféré [Aloda](https://osu.ppy.sh/users/1190127) de Quality Assurance Team à osu! Alumni (2018-11-07)
-- Transféré [Pereira006](https://osu.ppy.sh/users/537344) de osu! Alumni à Global Moderation Team (2018-11-09)
-- Ajouté [Gottagof4st](https://osu.ppy.sh/users/6122935) à Quality Assurance Team (2018-11-10)
-- Ajouté [Kuron-kun](https://osu.ppy.sh/users/2697284) à Quality Assurance Team (2018-11-10)
-- Ajouté [Noffy](https://osu.ppy.sh/users/1541323) à Quality Assurance Team (2018-11-10)
-- Ajouté [Yuii-](https://osu.ppy.sh/users/2935923) à Quality Assurance Team (2018-11-10)
-- Ajouté [Regraz](https://osu.ppy.sh/users/3076909) à Quality Assurance Team (2018-11-11)
-- Transféré [-kevincela-](https://osu.ppy.sh/users/266596) de Global Moderation Team à osu! Alumni (2018-11-17)
+- Transfert de [Aloda](https://osu.ppy.sh/users/1190127) : Quality Assurance Team > osu! Alumni (07/11/2018)
+- Transfert de [Pereira006](https://osu.ppy.sh/users/537344) : osu! Alumni > Global Moderation Team (09/11/2018)
+- Ajout de [Gottagof4st](https://osu.ppy.sh/users/6122935) : Quality Assurance Team (10/11/2018)
+- Ajout de [Kuron-kun](https://osu.ppy.sh/users/2697284) : Quality Assurance Team (10/11/2018)
+- Ajout de [Noffy](https://osu.ppy.sh/users/1541323) : Quality Assurance Team (10/11/2018)
+- Ajout de [Yuii-](https://osu.ppy.sh/users/2935923) : Quality Assurance Team (10/11/2018)
+- Ajout de [Regraz](https://osu.ppy.sh/users/3076909) : Quality Assurance Team (11/11/2018)
+- Transfert de [-kevincela-](https://osu.ppy.sh/users/266596) : Global Moderation Team > osu! Alumni (17/11/2018)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [hikiko-](https://osu.ppy.sh/users/6512678) - démission (2018-11-03)
-- [Yauxo](https://osu.ppy.sh/users/898306) - démission (2018-11-21)
-- [Smokeman](https://osu.ppy.sh/users/2140676) - défaut de la probation (2018-11-22)
-- [Wishkey](https://osu.ppy.sh/users/1101704) - démission (2018-11-30)
+- [hikiko-](https://osu.ppy.sh/users/6512678) - démission (17/11/2018)
+- [Yauxo](https://osu.ppy.sh/users/898306) - démission (21/11/2018)
+- [Smokeman](https://osu.ppy.sh/users/2140676) - manque d'approbation (22/11/2018)
+- [Wishkey](https://osu.ppy.sh/users/1101704) - démission (30/11/2018)
 
 ## Décembre
 
-- Transféré [Hobbes2](https://osu.ppy.sh/users/8157492) de Beatmap Nominators à Quality Assurance Team (2018-12-01)
-- Ajouté [Hinsvar](https://osu.ppy.sh/users/1249323) à Global Moderation Team (2018-12-05)
-- Transféré [Elfin](https://osu.ppy.sh/users/1399551) de Global Moderation Team à osu! Alumni (2018-12-14)
-- Retiré [Backfire](https://osu.ppy.sh/users/263110) de Project Loved Team (2018-12-31)
+- Transfert de [Hobbes2](https://osu.ppy.sh/users/8157492) : Beatmap Nominators > Quality Assurance Team (01/12/2018)
+- Ajout de [Hinsvar](https://osu.ppy.sh/users/1249323) : Global Moderation Team (05/12/2018)
+- Transfert de [Elfin](https://osu.ppy.sh/users/1399551) : Global Moderation Team > osu! Alumni (05/12/2018)
+- Retrait de [Backfire](https://osu.ppy.sh/users/263110) : Project Loved Team (31/12/2018)
+

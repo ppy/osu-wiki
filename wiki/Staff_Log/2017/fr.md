@@ -1,16 +1,16 @@
-# Registre de personnel 2017
+# Registre du personnel : 2017
 
 ## Janvier
 
-- Transféré [ToGlette](https://osu.ppy.sh/users/1076236) de osu! Alumni à Global Moderation Team (2017-01-22)
-- Transféré [Atrue](https://osu.ppy.sh/users/1758523) de osu! Alumni à Global Moderation Team (2017-01-22)
-- Ajouté [n0ah](https://osu.ppy.sh/users/3086393) à Global Moderation Team (2017-01-26)
-- Ajouté [heyronii](https://osu.ppy.sh/users/5642779) à Global Moderation Team (2017-01-28)
-- Ajouté [ruexia](https://osu.ppy.sh/users/385069) à Global Moderation Team (2017-01-29)
+- Transfert de [ToGlette](https://osu.ppy.sh/users/1076236) : osu! Alumni > Global Moderation Team (22/01/2017)
+- Transfert de [Atrue](https://osu.ppy.sh/users/1758523) : osu! Alumni > Global Moderation Team (22/01/2017)
+- Ajout de [n0ah](https://osu.ppy.sh/users/3086393) : Global Moderation Team (26/01/2017)
+- Ajout de [heyronii](https://osu.ppy.sh/users/5642779) : Global Moderation Team (28/01/2017)
+- Ajout de [ruexia](https://osu.ppy.sh/users/385069) : Global Moderation Team (29/01/2017)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-01-20.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 20/01/2017 :
 
 - [riffy](https://osu.ppy.sh/users/597957)
 - [Battle](https://osu.ppy.sh/users/4037545)
@@ -21,24 +21,24 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-01-20.
 
 ## Février
 
-- Ajouté [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) à Quality Assurance Team (2017-02-20)
+- Ajout de [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) : Quality Assurance Team (20/02/2017)
 
 ## Mars
 
-- Ajouté [S o h](https://osu.ppy.sh/users/2234772) à Global Moderation Team (2017-03-29)
-- Transféré [QHideaki13](https://osu.ppy.sh/users/733998) de Global Moderation Team à osu! Alumni (2017-03-29)
+- Ajout de [S o h](https://osu.ppy.sh/users/2234772) : Global Moderation Team (29/03/2017)
+- Transfert de [QHideaki13](https://osu.ppy.sh/users/733998) : Global Moderation Team > osu! Alumni (29/03/2017)
 
 ## Avril
 
-- Transféré [Uni](https://osu.ppy.sh/users/617106) de osu! Alumni à Global Moderation Team (2017-04-03)
-- Transféré [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) de Global Moderation Team à osu! Alumni (2017-04-03)
-- Transféré [DakeDekaane](https://osu.ppy.sh/users/1425253) de Quality Assurance Team à osu! Alumni (2017-04-27)
-- Transféré [Myxo](https://osu.ppy.sh/users/2202645) de Quality Assurance Team à osu! Alumni (2017-04-27)
-- Transféré [Fycho](https://osu.ppy.sh/users/1876867) de Global Moderation Team et Quality Assurance Team à osu! Alumni (2017-04-27)
+- Transfert de [Uni](https://osu.ppy.sh/users/617106) : osu! Alumni > Global Moderation Team (03/04/2017)
+- Transfert de [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) : Global Moderation Team > osu! Alumni (03/04/2017)
+- Transfert de [DakeDekaane](https://osu.ppy.sh/users/1425253) : Quality Assurance Team > osu! Alumni (27/04/2017)
+- Transfert de [Myxo](https://osu.ppy.sh/users/2202645) : Quality Assurance Team > osu! Alumni (27/04/2017)
+- Transfert de [Fycho](https://osu.ppy.sh/users/1876867) : Global Moderation Team et Quality Assurance Team > osu! Alumni (27/04/2017)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-04-25.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 25/04/2017 :
 
 - [Arrival](https://osu.ppy.sh/users/1694000)
 - [Benny-](https://osu.ppy.sh/users/4023183)
@@ -52,15 +52,15 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-04-25.
 
 ## Mai
 
-- Ajouté [Cryptic](https://osu.ppy.sh/users/3728904) à Quality Assurance Team (2017-05-02)
-- Transféré [Doyak](https://osu.ppy.sh/users/2046893) de Beatmap Nominators à Quality Assurance Team (2017-05-03)
-- Ajouté [WalterToro](https://osu.ppy.sh/users/5281416) à Global Moderation Team (2017-05-22)
+- Ajout de [Cryptic](https://osu.ppy.sh/users/3728904) : Quality Assurance Team (02/05/2017)
+- Transfert de [Doyak](https://osu.ppy.sh/users/2046893) : Beatmap Nominators > Quality Assurance Team (03/05/2017)
+- Ajout de [WalterToro](https://osu.ppy.sh/users/5281416) : Global Moderation Team (03/05/2017)
 
 ## Juin
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-06-30.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 30/06/2017 :
 
 - [-Mo-](https://osu.ppy.sh/users/2202163)
 - [Delis](https://osu.ppy.sh/users/1603923)
@@ -74,17 +74,17 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-06-30.
 
 ## Août
 
-- Transféré [alacat](https://osu.ppy.sh/users/869782) de Quality Assurance Team à osu! Alumni (2017-08-20)
+- Transfert de [alacat](https://osu.ppy.sh/users/869782) : Quality Assurance Team > osu! Alumni (20/08/2017)
 
 ## Septembre
 
-- Ajouté [Lassikko](https://osu.ppy.sh/users/7253731) à Global Moderation Team (2017-09-11)
-- Transféré [Pereira006](https://osu.ppy.sh/users/537344) de Global Moderation Team à osu! Alumni (2017-09-21)
-- Transféré [Shockwave](https://osu.ppy.sh/users/251631) de Global Moderation Team à osu! Alumni (2017-09-21)
+- Ajout de [Lassikko](https://osu.ppy.sh/users/7253731) : Global Moderation Team (11/09/2017)
+- Transfert de [Pereira006](https://osu.ppy.sh/users/537344) : Global Moderation Team > osu! Alumni (21/09/2017)
+- Transfert de [Shockwave](https://osu.ppy.sh/users/251631) : Global Moderation Team > osu! Alumni (21/09/2017)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-09-10.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 21/09/2017 :
 
 - [Asherz007](https://osu.ppy.sh/users/9014047)
 - [Gabe](https://osu.ppy.sh/users/654108)
@@ -100,19 +100,19 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-09-10.
 
 ## Octobre
 
-- Transféré [mancuso_JM_](https://osu.ppy.sh/users/521568) de osu! Alumni à Global Moderation Team (2017-10-03)
-- Retiré [Cryptic](https://osu.ppy.sh/users/3728904) de Quality Assurance Team (2017-10-03)
-- Ajouté [Naxess](https://osu.ppy.sh/users/8129817) à Quality Assurance Team (2017-10-05)
-- Ajouté [Raiden](https://osu.ppy.sh/users/2239480) à Quality Assurance Team (2017-10-05)
-- Retiré [IamKwaN](https://osu.ppy.sh/users/1856463) de Global Moderation Team (2017-10-12)
-- Transféré [n0ah](https://osu.ppy.sh/users/3086393) de Global Moderation Team à osu! Alumni (2017-10-12)
-- Transféré [Stefan](https://osu.ppy.sh/users/626907) de Global Moderation Team à osu! Alumni (2017-10-12)
-- Transféré [IamKwaN](https://osu.ppy.sh/users/1856463) de Quality Assurance Team à osu! Alumni (2017-10-14)
-- Ajouté [Death](https://osu.ppy.sh/users/3242450) à Global Moderation Team et Support Team (2017-10-20)
+- Transfert de [mancuso_JM_](https://osu.ppy.sh/users/521568) : osu! Alumni > Global Moderation Team (21/09/2017)
+- Retrait de [Cryptic](https://osu.ppy.sh/users/3728904) : Quality Assurance Team (21/09/2017)
+- Ajout de [Naxess](https://osu.ppy.sh/users/8129817) : Quality Assurance Team (05/10/2017)
+- Ajout de [Raiden](https://osu.ppy.sh/users/2239480) : Quality Assurance Team (05/10/2017)
+- Retrait de [IamKwaN](https://osu.ppy.sh/users/1856463) : Global Moderation Team (12/10/2017)
+- Transfert de [n0ah](https://osu.ppy.sh/users/3086393) : Global Moderation Team > osu! Alumni (12/10/2017)
+- Transfert de [Stefan](https://osu.ppy.sh/users/626907) : Global Moderation Team > osu! Alumni (12/10/2017)
+- Transfert de [IamKwaN](https://osu.ppy.sh/users/1856463) : Quality Assurance Team > osu! Alumni (14/10/2017)
+- Ajout de [Death](https://osu.ppy.sh/users/3242450) : Global Moderation Team et Support Team (20/10/2017)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-10-24.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 24/10/2017 :
 
 - [celerih](https://osu.ppy.sh/users/4696296)
 - [Cerulean Veyron](https://osu.ppy.sh/users/1886524)
@@ -125,18 +125,18 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-10-24.
 
 ## Décembre
 
-- Ajouté [Protastic101](https://osu.ppy.sh/users/6712747) à Quality Assurance Team (2017-12-11)
-- Transféré [OnosakiHito](https://osu.ppy.sh/users/290128) de Quality Assurance Team à osu! Alumni (2017-12-11)
-- Transféré [Seijiro](https://osu.ppy.sh/users/2581696) de Global Moderation Team à osu! Alumni (2017-12-17)
-- Transféré [Loctav](https://osu.ppy.sh/users/71366) à osu! Alumni (2017-12-17)
-- Transféré [n0ah](https://osu.ppy.sh/users/3086393) de osu! Alumni à Global Moderation Team (2017-12-26)
-- Ajouté [Edu](https://osu.ppy.sh/users/5618109) à Global Moderation Team (2017-12-29)
-- Ajouté [Clobohne](https://osu.ppy.sh/users/499343) à Global Moderation Team (2017-12-29)
-- Transféré [Kurai](https://osu.ppy.sh/users/77089) de Beatmap Nominators à Quality Assurance Team (2017-12-31)
+- Ajout de [Protastic101](https://osu.ppy.sh/users/6712747) : Quality Assurance Team (11/12/2017)
+- Transfert de [OnosakiHito](https://osu.ppy.sh/users/290128) : Quality Assurance Team > osu! Alumni (11/12/2017)
+- Transfert de [Seijiro](https://osu.ppy.sh/users/2581696) : Global Moderation Team > osu! Alumni (17/12/2017)
+- Transfert de [Loctav](https://osu.ppy.sh/users/71366) : osu! Alumni (17/12/2017)
+- Transfert de [n0ah](https://osu.ppy.sh/users/3086393) : osu! Alumni > Global Moderation Team (26/12/2017)
+- Ajout de [Edu](https://osu.ppy.sh/users/5618109) : Global Moderation Team (29/12/2017)
+- Ajout de [Clobohne](https://osu.ppy.sh/users/499343) : Global Moderation Team (29/12/2017)
+- Transfert de [Kurai](https://osu.ppy.sh/users/77089) : Beatmap Nominators > Quality Assurance Team (31/12/2017)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-12-11.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 11/12/2017 :
 
 - [Aloda](https://osu.ppy.sh/users/1190127)
 - [Garalulu](https://osu.ppy.sh/users/757783)
@@ -146,6 +146,7 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2017-12-11.
 - [Sorcerer](https://osu.ppy.sh/users/1913190)
 - [Tofu1222](https://osu.ppy.sh/users/6089608)
 
-### Renvoi de Beatmap Nominators
+### Retrait : Beatmap Nominators
 
-- [Monstrata](https://osu.ppy.sh/users/2706438) - la conduite moins que bonne pendant les périodes étendues (2017-12-19)
+- [Monstrata](https://osu.ppy.sh/users/2706438) - un comportement peu glorieux sur de longues périodes de temps (19/12/2017)
+

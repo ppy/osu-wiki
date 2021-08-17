@@ -1,36 +1,36 @@
-# Registre de personnel 2016
+# Registre du personnel : 2016
 
 ## Janvier
 
-- Ajouté [Nishiji](https://osu.ppy.sh/users/167629) à Global Moderation Team (2016-01-03)
-- Transféré [Nyquill](https://osu.ppy.sh/users/682935) de osu! Alumni à Global Moderation Team (2016-01-03)
-- Transféré [Irreversible](https://osu.ppy.sh/users/1287964) de Quality Assurance Team à osu! Alumni (2016-01-25)
-- Transféré [alacat](https://osu.ppy.sh/users/869782) de Quality Assurance Team à osu! Alumni (2016-01-29)
+- Ajout de [Nishiji](https://osu.ppy.sh/users/167629) : Global Moderation Team (03/01/2016)
+- Transfert de [Nyquill](https://osu.ppy.sh/users/682935) : osu! Alumni > Global Moderation Team (03/01/2016)
+- Transfert de [Irreversible](https://osu.ppy.sh/users/1287964) : Quality Assurance Team > osu! Alumni (25/01/2016)
+- Transfert de [alacat](https://osu.ppy.sh/users/869782) : Quality Assurance Team > osu! Alumni (29/01/2016)
 
 ### Nouveaux Beatmap Nominators
 
-- [Sey](https://osu.ppy.sh/users/553656) (2016-01-20)
-- [- Magic Bomb -](https://osu.ppy.sh/users/3071175) (2016-01-20)
-- [koliron](https://osu.ppy.sh/users/4632730) (2016-01-20)
-- [-Kamikaze-](https://osu.ppy.sh/users/2124783) (2016-01-21)
-- [Feerum](https://osu.ppy.sh/users/4815717) (2016-01-21)
-- [newyams99](https://osu.ppy.sh/users/3701008) (2016-01-23)
+- [Sey](https://osu.ppy.sh/users/553656) (20/01/2016)
+- [- Magic Bomb -](https://osu.ppy.sh/users/3071175) (20/01/2016)
+- [koliron](https://osu.ppy.sh/users/4632730) (20/01/2016)
+- [-Kamikaze-](https://osu.ppy.sh/users/2124783) (21/01/2016)
+- [Feerum](https://osu.ppy.sh/users/4815717) (21/01/2016)
+- [newyams99](https://osu.ppy.sh/users/3701008) (23/01/2016)
 
 ## Février
 
-- Transféré [Irreversible](https://osu.ppy.sh/users/1287964) de osu! Alumni à Quality Assurance Team (2016-02-20)
-- Transféré [Galkan](https://osu.ppy.sh/users/169570) de osu! Alumni à Global Moderation Team (2016-02-20)
-- Transféré [Guy](https://osu.ppy.sh/users/91738) de Quality Assurance Team à osu! Alumni (2016-02-25)
+- Transfert de [Irreversible](https://osu.ppy.sh/users/1287964) : osu! Alumni > Quality Assurance Team (20/02/2016)
+- Transfert de [Galkan](https://osu.ppy.sh/users/169570) : osu! Alumni > Global Moderation Team (20/02/2016)
+- Transfert de [Guy](https://osu.ppy.sh/users/91738) : Quality Assurance Team > osu! Alumni (25/02/2016)
 
 ## Mars
 
-- Transféré [Gamu](https://osu.ppy.sh/users/611174) de Quality Assurance Team à osu! Alumni (2016-03-03)
-- Transféré [Zero__wind](https://osu.ppy.sh/users/1822830) de osu! Alumni à Global Moderation Team (2016-03-17)
-- Ajouté [Seijiro](https://osu.ppy.sh/users/2581696) à Global Moderation Team (2016-03-17)
+- Transfert de [Gamu](https://osu.ppy.sh/users/611174) : Quality Assurance Team > osu! Alumni (03/03/2016)
+- Transfert de [Zero__wind](https://osu.ppy.sh/users/1822830) : osu! Alumni > Global Moderation Team (17/03/2016)
+- Ajout de [Seijiro](https://osu.ppy.sh/users/2581696) : Global Moderation Team (17/03/2016)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2016-03-07.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 07/03/2016 :
 
 - [Nozhomi](https://osu.ppy.sh/users/2716981)
 - [Sonnyc](https://osu.ppy.sh/users/11771)
@@ -42,29 +42,29 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2016-03-07.
 
 ## Mai
 
-- Ajouté [Pittigbaasje](https://osu.ppy.sh/users/2167433) à Global Moderation Team (2016-05-04)
-- Transféré [Atrue](https://osu.ppy.sh/users/1758523) de Global Moderation Team à osu! Alumni (2016-05-31)
-- Transféré [Blazevoir](https://osu.ppy.sh/users/120265) à osu! Alumni (2016-05-31)
-- Transféré [Charles445](https://osu.ppy.sh/users/85000) de Quality Assurance Team à osu! Alumni (2016-05-31)
-- Transféré [Krah](https://osu.ppy.sh/users/1436748) de Global Moderation Team à osu! Alumni (2016-05-31)
-- Transféré [Spectator](https://osu.ppy.sh/users/702598) de Global Moderation Team à osu! Alumni (2016-05-31)
-- Retiré [Zak](https://osu.ppy.sh/users/1375955) de Global Moderation Team (2016-05-31)
-- Transféré [OnosakiHito](https://osu.ppy.sh/users/290128) de osu! Alumni à Global Moderation Team (2016-05-31)
-- Transféré [Starry-](https://osu.ppy.sh/users/2166199) de Quality Assurance Team à osu! Alumni (2016-05-31)
+- Ajout de [Pittigbaasje](https://osu.ppy.sh/users/2167433) : Global Moderation Team (04/05/2016)
+- Transfert de [Atrue](https://osu.ppy.sh/users/1758523) : Global Moderation Team > osu! Alumni (31/05/2016)
+- Transfert de [Blazevoir](https://osu.ppy.sh/users/120265) : osu! Alumni (31/05/2016)
+- Transfert de [Charles445](https://osu.ppy.sh/users/85000) : Quality Assurance Team > osu! Alumni (31/05/2016)
+- Transfert de [Krah](https://osu.ppy.sh/users/1436748) : Global Moderation Team > osu! Alumni (31/05/2016)
+- Transfert de [Spectator](https://osu.ppy.sh/users/702598) : Global Moderation Team > osu! Alumni (31/05/2016)
+- Retrait de [Zak](https://osu.ppy.sh/users/1375955) : Global Moderation Team (31/05/2016)
+- Transfert de [OnosakiHito](https://osu.ppy.sh/users/290128) : osu! Alumni > Global Moderation Team (31/05/2016)
+- Transfert de [Starry-](https://osu.ppy.sh/users/2166199) : Quality Assurance Team > osu! Alumni (31/05/2016)
 
 ## Juin
 
-- Ajouté [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) à Support Team (2016-06-04)
-- Ajouté [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) à Global Moderation Team (2016-06-07)
-- Ajouté [Elfin](https://osu.ppy.sh/users/1399551) à Global Moderation Team (2016-06-08)
-- Ajouté [Shurelia](https://osu.ppy.sh/users/3807986) à Global Moderation Team (2016-06-09)
-- Ajouté [Okorin](https://osu.ppy.sh/users/1623405) à Quality Assurance Team (2016-06-24)
-- Transféré [alacat](https://osu.ppy.sh/users/869782) de osu! Alumni à Quality Assurance Team (2016-06-24)
-- Ajouté [JBHyperion](https://osu.ppy.sh/users/4879508) à Quality Assurance Team (2016-06-24)
+- Ajout de [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) : Support Team (04/06/2016)
+- Ajout de [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) : Global Moderation Team (07/06/2016)
+- Ajout de [Elfin](https://osu.ppy.sh/users/1399551) : Global Moderation Team (08/06/2016)
+- Ajout de [Shurelia](https://osu.ppy.sh/users/3807986) : Global Moderation Team (09/06/2016)
+- Ajout de [Okorin](https://osu.ppy.sh/users/1623405) : Quality Assurance Team (24/06/2016)
+- Transfert de [alacat](https://osu.ppy.sh/users/869782) : osu! Alumni > Quality Assurance Team (24/06/2016)
+- Ajout de [JBHyperion](https://osu.ppy.sh/users/4879508) : Quality Assurance Team (24/06/2016)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2016-06-01.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 01/06/2016 :
 
 - [Doyak](https://osu.ppy.sh/users/2046893)
 - [Volta](https://osu.ppy.sh/users/4154071)
@@ -78,17 +78,17 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2016-06-01.
 
 ## Juillet
 
-- Transféré [riffy](https://osu.ppy.sh/users/597957) de Quality Assurance Team à Global Moderation Team (2016-07-02)
-- Transféré [Feerum](https://osu.ppy.sh/users/4815717) de Beatmap Nominators à Quality Assurance Team (2016-07-26)
-- Retiré [XavierJones](https://osu.ppy.sh/users/495733) de Global Moderation Team (2016-07-27)
+- Transfert de [riffy](https://osu.ppy.sh/users/597957) : Quality Assurance Team > Global Moderation Team (02/07/2016)
+- Transfert de [Feerum](https://osu.ppy.sh/users/4815717) : Beatmap Nominators > Quality Assurance Team (26/07/2016)
+- Retrait de [XavierJones](https://osu.ppy.sh/users/495733) : Global Moderation Team (27/07/2016)
 
 ## Août
 
-- Transféré [OnosakiHito](https://osu.ppy.sh/users/290128) de Global Moderation Team à Quality Assurance Team (2016-08-04)
+- Transfert de [OnosakiHito](https://osu.ppy.sh/users/290128) : Global Moderation Team > Quality Assurance Team (04/08/2016)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2016-08-22.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 22/08/2016 :
 
 - [Lasse](https://osu.ppy.sh/users/896613)
 - [Spaghetti](https://osu.ppy.sh/users/4761930)
@@ -111,27 +111,27 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2016-08-22.
 
 ## Octobre
 
-- Transféré [MMzz](https://osu.ppy.sh/users/128993) de Quality Assurance Team à osu! Alumni (2016-10-08)
-- Transféré [pishifat](https://osu.ppy.sh/users/3178418) de Beatmap Nominators à Quality Assurance Team (2016-10-18)
-- Transféré [KSHR](https://osu.ppy.sh/users/409957) de Global Moderation Team à osu! Alumni (2016-10-27)
-- Transféré [ToGlette](https://osu.ppy.sh/users/1076236) de Global Moderation Team à osu! Alumni (2016-10-27)
-- Transféré [Uni](https://osu.ppy.sh/users/617106) de Global Moderation Team à osu! Alumni (2016-10-27)
-- Ajouté [Chaos](https://osu.ppy.sh/users/2628870) à Global Moderation Team (2016-10-27)
-- Ajouté [Kyubey](https://osu.ppy.sh/users/2195646) à Global Moderation Team (2016-10-27)
-- Ajouté [Spkz](https://osu.ppy.sh/users/2964029) à Global Moderation Team (2016-10-27)
-- Ajouté [Pawsu](https://osu.ppy.sh/users/2371454) à Support Team (2016-10-27)
-- Ajouté [Zetera](https://osu.ppy.sh/users/587737) à Global Moderation Team (2016-10-28)
+- Transfert de [MMzz](https://osu.ppy.sh/users/128993) : Quality Assurance Team > osu! Alumni (08/10/2016)
+- Transfert de [pishifat](https://osu.ppy.sh/users/3178418) : Beatmap Nominators > Quality Assurance Team (18/10/2016)
+- Transfert de [KSHR](https://osu.ppy.sh/users/409957) : Global Moderation Team > osu! Alumni (27/10/2016)
+- Transfert de [ToGlette](https://osu.ppy.sh/users/1076236) : Global Moderation Team > osu! Alumni (27/10/2016)
+- Transfert de [Uni](https://osu.ppy.sh/users/617106) : Global Moderation Team > osu! Alumni (27/10/2016)
+- Ajout de [Chaos](https://osu.ppy.sh/users/2628870) : Global Moderation Team (27/10/2016)
+- Ajout de [Kyubey](https://osu.ppy.sh/users/2195646) : Global Moderation Team (27/10/2016)
+- Ajout de [Spkz](https://osu.ppy.sh/users/2964029) : Global Moderation Team (27/10/2016)
+- Ajout de [Pawsu](https://osu.ppy.sh/users/2371454) : Support Team (27/10/2016)
+- Ajout de [Zetera](https://osu.ppy.sh/users/587737) : Global Moderation Team (28/10/2016)
 
 ## Novembre
 
-- Transféré [riffy](https://osu.ppy.sh/users/597957) de Global Moderation Team à osu! Alumni (2016-11-15)
-- Transféré [Nishiji](https://osu.ppy.sh/users/167629) de Global Moderation Team à osu! Alumni (2016-11-15)
-- Transféré [-kevincela-](https://osu.ppy.sh/users/266596) de osu! Alumni à Global Moderation Team (2016-11-15)
-- Transféré [Gabe](https://osu.ppy.sh/users/654108) de osu! Alumni à Global Moderation Team (2016-11-15)
+- Transfert de [riffy](https://osu.ppy.sh/users/597957) : Global Moderation Team > osu! Alumni (15/11/2016)
+- Transfert de [Nishiji](https://osu.ppy.sh/users/167629) : Global Moderation Team > osu! Alumni (15/11/2016)
+- Transfert de [-kevincela-](https://osu.ppy.sh/users/266596) : osu! Alumni > Global Moderation Team (15/11/2016)
+- Transfert de [Gabe](https://osu.ppy.sh/users/654108) : osu! Alumni > Global Moderation Team (15/11/2016)
 
 ### Nouveaux Beatmap Nominators
 
-Tous les utilisateurs au-dessous d'ici sont ajoutés le 2016-11-04.
+Tous les utilisateurs listés ci-dessous ont été ajoutés le 04/11/2016 :
 
 - [Absolute Zero](https://osu.ppy.sh/users/4847256)
 - [-Sh1n1-](https://osu.ppy.sh/users/1957638)
@@ -144,3 +144,4 @@ Tous les utilisateurs au-dessous d'ici sont ajoutés le 2016-11-04.
 - [Critical\_Star](https://osu.ppy.sh/users/3793196)
 - [Chromoxx](https://osu.ppy.sh/users/1881639)
 - [snowball112](https://osu.ppy.sh/users/2350722)
+
