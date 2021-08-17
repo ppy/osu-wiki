@@ -60,7 +60,7 @@ Existují dva způsoby, jak přidat beatmapy, přes webovou stránku nebo přes 
 
 ## Přidávání skinů
 
-*viz také: [Skinning](/wiki/Skinning)*
+*Viz také: [Skinning](/wiki/Skinning)*
 
 1. Přejděte na [skinning forum](https://osu.ppy.sh/community/forums/15) a najděte skin, který se vám líbí.
 2. Jakmile najdete skin, stáhněte si ho.
