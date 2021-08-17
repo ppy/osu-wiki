@@ -12,9 +12,11 @@ In case you're not clued in, development of osu!'s scoring systems happens mostl
 
 In recent times, there have been conflicting opinions about what the path forward should look like. To help clear the air, we're putting out a short survey to better discover the expectations that all of you have for how things should be.
 
+Please also note that this survey mainly involves the **osu!** game mode for now. We will also be issuing a private version of this survey to a smaller audience of higher skilled players to ensure that we're covering the entire community.
+
 [**If you want to get involved, please click this link to get started!**](https://forms.gle/hvRaY3B19wCjD9tDA)
 
-This survey should take no more than 5 minutes to complete, so make sure to pass the news along to any of your friends that might be interested!
+This should take no more than 5 minutes to complete, so make sure to pass the news along to any of your friends that might be interested!
 
 We'll be making the results of this poll visible in **2 weeks time** so that everybody can get a feel for the kind of direction that your fellow circle-clickers seek.
 
