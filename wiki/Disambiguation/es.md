@@ -8,7 +8,7 @@ Articulos de **Desambiguación** en la [wiki de osu!](/wiki/Main_Page) remarca t
 
 Un articulo regular, si tiene un titulo similar, tiene que usar la [nota "Para otros usos"](/wiki/Article_styling_criteria/Formatting#for-other-uses) con un link a la pagina de desambiguación.
 
-## (Lista de articulos de desambiguación)
+## Lista de articulos de desambiguación
 
 - [Bancho](Bancho)
 - [Combo](Combo)
