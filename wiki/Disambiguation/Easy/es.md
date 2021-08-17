@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Easy (desambiguación)
 
 **Easy** puede tener diferentes significados:

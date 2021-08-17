@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Desambiguación
 
 Articulos de **Desambiguación** en la [wiki de osu!](/wiki/Main_Page) remarca terminos ambiguos y explica sus posibles significados.

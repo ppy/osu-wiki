@@ -2,6 +2,7 @@
 stub: true
 tags:
   - Osu! Tatake! Ouendan
+no_native_review: true
 ---
 
 # Ouendan (desambiguación)

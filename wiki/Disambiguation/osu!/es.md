@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu! (desambiguación)
 
 **osu!** puede tener diferentes significados:

@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # NM (desambiguación)
 
 **NM** puede tener diferentes significados:

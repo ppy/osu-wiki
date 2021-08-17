@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # NC (desambiguación)
 
 **NC** puede tener diferentes resultados:
