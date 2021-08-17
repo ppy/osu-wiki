@@ -13,5 +13,3 @@ no_native_review: true
 - Una serie de juegos japoneses para DS en los que osu! esta basado.
   - Este termino a veces es utilizado para referirse al primero de estos juegos.
 - Un termino colectivo para los personajes jugables en los juegos anteriormente mencionados, por ejemplo "Los Ouendan".
-
-<!-- TODO: Add links -->
