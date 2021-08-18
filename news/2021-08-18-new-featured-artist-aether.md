@@ -8,7 +8,7 @@ date: 2021-08-18 08:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/191/header.jpg)
 
-Setting sails in 2013 under the alias **Aether**, Jason Taylor is a Canadian musicain who's known for a mix of relaxing classical sounds and modern electronic concepts, all packed with a stylistic leaning towards games.
+Setting sails in 2013 under the alias **Aether**, Jason Taylor is a Canadian musician who's known for a mix of relaxing classical sounds and modern electronic concepts, all packed with a stylistic leaning towards games.
 
 **Aether** is known for composing scores for games like *Kingdoms & Castles* and *Röki* as well as releases involving collaboration between talented musicians worldwide. Oh, and now he's also known for being one of osu!'s Featured Artists!
 
