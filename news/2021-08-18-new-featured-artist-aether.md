@@ -14,7 +14,7 @@ Setting sails in 2013 under the alias **Aether**, Jason Taylor is a Canadian mus
 
 We've snagged **14** tracks for [**Aether**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/191), ranging from piano pieces to electronic hits to chill beats featuring talented vocalist *Veela*.
 
-Curious how osu! and **Aether** came to meet? Take a peek at [Asphyxia](https://osu.ppy.sh/users/1715720)'s pattern-centric mapping through this video of [*Aether & Sizzlebird - Raccoon City (feat. Veela)](https://osu.ppy.sh/beatmapsets/725387), then listen to the rest of the previews below once you're hooked.
+Curious how osu! and **Aether** came to meet? Take a peek at [Asphyxia](https://osu.ppy.sh/users/1715720)'s pattern-centric mapping through this video of [Aether & Sizzlebird - Raccoon City (feat. Veela)](https://osu.ppy.sh/beatmapsets/725387), then listen to the rest of the previews below once you're hooked.
 
 <div align="center">
     <video width="95%" controls>
