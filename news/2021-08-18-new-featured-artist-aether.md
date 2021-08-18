@@ -25,19 +25,19 @@ Curious how osu! and **Aether** came to meet? Take a peek at [Asphyxia](https://
 ### Aether, Tutara Peak, Zes, Lilia, Grand Pavilion - Daydream
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/191/Daydream/Aether%2C%20Tutara%20Peak%2C%20Zes%2C%20Lilia%2C%20Grand%20Pavilion%20-%20Daydream.mp3" type="audio/mpeg">
 </audio>
 
 ### Aether & Veela - Save Me From You
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/191/Passage/Aether%20%26%20Veela%20-%20Save%20Me%20From%20You.mp3" type="audio/mpeg">
 </audio>
 
 ### Aether - Catharsis
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/191/Viraha/Aether%20-%20Catharsis.mp3" type="audio/mpeg">
 </audio>
 
 ### Aether & Sizzlebird  - Raccoon City (feat. Veela)
@@ -45,7 +45,7 @@ Curious how osu! and **Aether** came to meet? Take a peek at [Asphyxia](https://
 Check out [this osu! beatmap](https://osu.ppy.sh/beatmapsets/725387) hosted by [Asphyxia](https://osu.ppy.sh/users/1715720) (as seen in the video above!)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/191/Raccoon%20City/Aether%20%26%20Sizzlebird%20-%20Raccoon%20City%20%28feat.%20Veela%29.mp3" type="audio/mpeg">
 </audio>
 
 ---
