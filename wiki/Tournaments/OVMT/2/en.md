@@ -6,7 +6,7 @@ tags:
 
 # osu! Vintage Map Tourney 2! Electric Boogaloo!
 
-The **osu! Vintage Map Tourney 2! Electric Boogaloo!** (***OVMT2***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914). It was the second instalment of osu! Vintage Map Tourney!.
+The **osu! Vintage Map Tourney 2! Electric Boogaloo!** (***OVMT2***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914). It was the second instalment of the osu! Vintage Map Tourney!.
 
 ## Tournament schedule
 
@@ -40,7 +40,7 @@ osu! Vintage Map Tourney! was run by various community members.
 | Host | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
 | Mappool selector | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
 | Streamer | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850) |
-| Commentators | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850), ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) |
+| Commentator | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850), ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) |
 | Designer | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
 | Referee | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850), ![][flag_FR] [Alheak](https://osu.ppy.sh/users/3583061), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [djsettle](https://osu.ppy.sh/users/4010354), ![][flag_GB] [minorman4](https://osu.ppy.sh/users/4837257) |
 
@@ -90,7 +90,7 @@ This competition has come to an end and resulted in the following podium:
   - [Dragonforce - Fury Of The Storm (lesjuh) [Kingcobra's Expert]](https://osu.ppy.sh/beatmapsets/10460#osu/41646)
   - [Amuro vs Killer - Mei (v2b) [Another]](https://osu.ppy.sh/beatmapsets/8965#osu/36290)
   - [nam5 - Heavenly Shake (Kite) [Extra Stage]](https://osu.ppy.sh/beatmapsets/20892#osu/72783)
-- TieBreaker
+- Tiebreaker
   - **[DragonForce - Revolution Deathsquad (Lesjuh) [Legend]](https://osu.ppy.sh/beatmapsets/18860#osu/66609)**
 
 ### Semifinals
@@ -112,7 +112,7 @@ This competition has come to an end and resulted in the following podium:
 - ForceMod
   - [COOL&CREATE - Saishoukichiku Imouto Flandre S (dksslqj) [Lunatic]](https://osu.ppy.sh/beatmapsets/14853#osu/54145)
   - [SUPER STAR -MITSURU- - She is my wife (yeahyeahyeahhh) [Another]](https://osu.ppy.sh/beatmapsets/22331#osu/77110)
-- TieBreaker
+- Tiebreaker
   - **[Liverne - Necrofantasia (lesjuh) [Lesjuh]](https://osu.ppy.sh/beatmapsets/7158#osu/36077)**
 
 ### Quarterfinals
@@ -134,7 +134,7 @@ This competition has come to an end and resulted in the following podium:
 - ForceMod
   - [IOSYS - Poinsettia (Aakiha) [Lunatic]](https://osu.ppy.sh/beatmapsets/18382#osu/65233)
   - [Cascada - What Hurts The Most (Nightcore Remix) (Lunah) [jericho2442's Pain!]](https://osu.ppy.sh/beatmapsets/20239#osu/73561)
-- TieBreaker
+- Tiebreaker
   - **[Demetori - Emotional Skyscraper \~ World's End (happy30) [Extra Stage]](https://osu.ppy.sh/beatmapsets/13223#osu/53554)**
 
 ### Round of 16
@@ -154,7 +154,7 @@ This competition has come to an end and resulted in the following podium:
 - ForceMod
   - [COOL&CREATE - Rapid Ensemble (Doomsday93) [Lunatic]](https://osu.ppy.sh/beatmapsets/13235#osu/49067)
   - [Saitama Saisyu Heiki - Thunder Light (-\_Kite\_-) [Insane]](https://osu.ppy.sh/beatmapsets/13103#osu/55059)
-- TieBreaker
+- Tiebreaker
   - **[Mitsuki - The Final Tone of Rubble (soulfear) [Shisu]](https://osu.ppy.sh/beatmapsets/16440#osu/58915)**
 
 ### Round of 32
@@ -174,7 +174,7 @@ This competition has come to an end and resulted in the following podium:
 - ForceMod
   - [ClariS - Irony (TV Size) (osuplayer111) [Insane]](https://osu.ppy.sh/beatmapsets/22121#osu/76445)
   - [Nightcore - Pinball (jericho2442) [Madness O\_O]](https://osu.ppy.sh/beatmapsets/7930#osu/37433)
-- TieBreaker
+- Tiebreaker
   - **[S.S.H. - Touhou Judgment in the Sixtieth Year \~ Fate of Sixty Years (Dangaard) [Judgment]](https://osu.ppy.sh/beatmapsets/20008#osu/70052)**
 
 ### Round of 64
@@ -194,7 +194,7 @@ This competition has come to an end and resulted in the following podium:
 - ForceMod
   - [Fantasy Project - Crazy Baby (Nightcore Mix) (Louis Cyphre) [pieguy's Hard]](https://osu.ppy.sh/beatmapsets/23415#osu/80199)
   - [Basshunter - Ievan Polkka Trance Remix (Teara) [ShiNexy]](https://osu.ppy.sh/beatmapsets/10406#osu/40563)
-- TieBreaker
+- Tiebreaker
   - **[Nico Nico Douga - Ryuusei Musume (ignorethis) [HappyMiX]](https://osu.ppy.sh/beatmapsets/8390#osu/36523)**
 
 ### Round of 128
@@ -214,7 +214,7 @@ This competition has come to an end and resulted in the following podium:
 - ForceMod
   - [Scognito - Spelunker (Kurai\_) [Fight69's Hard]](https://osu.ppy.sh/beatmapsets/16382#osu/60234)
   - [HTT - NO, Thank You! (TV Size) (Dangaard) [S i R i R u's Hard]](https://osu.ppy.sh/beatmapsets/18156#osu/64555)
-- TieBreaker
+- Tiebreaker
   - **[Liverne - Beloved Tomboyish Girl (ignorethis) [Marathon]](https://osu.ppy.sh/beatmapsets/7683#osu/32600)**
 
 ## Match results

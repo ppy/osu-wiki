@@ -6,7 +6,7 @@ tags:
 
 # osu! Vintage Map Tourney!
 
-The **osu! Vintage Map Tourney!** (***OVMT***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914). It was the first instalment of osu! Vintage Map Tourney!.
+The **osu! Vintage Map Tourney!** (***OVMT***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914). It was the first instalment of the osu! Vintage Map Tourney!.
 
 ## Tournament schedule
 
@@ -36,7 +36,7 @@ The osu! Vintage Map Tourney! was run by various community members.
 | Host | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
 | Mappool selector | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
 | Streamer | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
-| Commentators | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_GB] [Postman Tap](https://osu.ppy.sh/users/5668221), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FR] [Alheak](https://osu.ppy.sh/users/3583061), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850) |
+| Commentator | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_GB] [Postman Tap](https://osu.ppy.sh/users/5668221), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FR] [Alheak](https://osu.ppy.sh/users/3583061), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850) |
 | Designer | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
 | Referee | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_GB] [Postman Tap](https://osu.ppy.sh/users/5668221), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FR] [Alheak](https://osu.ppy.sh/users/3583061), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850) |
 
@@ -77,7 +77,7 @@ This competition has come to an end and resulted in the following podium:
   - [Niko - Made of Fire (lesjuh) [Oni]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
   - [Savage Garden - I Want You (mtmcl) [Ridiculous]](https://osu.ppy.sh/beatmapsets/4548#osu/24428)
   - [Silver Forest - Tsurupettan (Hitoshirenu Shourai) [Hitos Insane]](https://osu.ppy.sh/beatmapsets/2626#osu/19990)
-- TieBreaker
+- Tiebreaker
   - **[m-flo loves CHEMISTRY - Astrosexy (mtmcl) [Sexy]](https://osu.ppy.sh/beatmapsets/13244#osu/49101)**
 
 ### Semifinals
@@ -93,7 +93,7 @@ This competition has come to an end and resulted in the following podium:
   - [IOSYS - Cirno Chirumiru (Mafiamaster) [Insane]](https://osu.ppy.sh/beatmapsets/5708#osu/27415)
   - [IOSYS - Utage wa Eien ni \~SHD\~ (DJPop) [SOLO]](https://osu.ppy.sh/beatmapsets/7385#osu/31819)
   - [POLYSICS - Rocket (Moyashimon ED) (flakmonkey) [Insane]](https://osu.ppy.sh/beatmapsets/152#osu/341)
-- TieBreaker
+- Tiebreaker
   - **[Demetori - Jehovah's YaHVeH (happy30) [Lunatic]](https://osu.ppy.sh/beatmapsets/9641#osu/38294)**
 
 ### Quarterfinals
@@ -109,7 +109,7 @@ This competition has come to an end and resulted in the following podium:
   - [Fatboy Slim - Weapon of Choice (Doomsday93) [Insane]](https://osu.ppy.sh/beatmapsets/8118#osu/33736)
   - [Silver Forest - Tsurupettan (Nharox) [Insane]](https://osu.ppy.sh/beatmapsets/1559#osu/19969)
   - [Bowling for Soup - 1985 (Rolled) [Hito's Insane]](https://osu.ppy.sh/beatmapsets/2140#osu/19467)
-- TieBreaker
+- Tiebreaker
   - **[Demetori - Ghostly Eyes (happy30) [Hard]](https://osu.ppy.sh/beatmapsets/7940#osu/33280)**
 
 ### Round of 16
@@ -125,7 +125,7 @@ This competition has come to an end and resulted in the following podium:
   - [Capcom - Air Man's Stage (kingcobra52) [Insane]](https://osu.ppy.sh/beatmapsets/4116#osu/23399)
   - [Lazy Town - You Are A Pirate (Agent Spin Here) [Hard]](https://osu.ppy.sh/beatmapsets/6626#osu/30844)
   - [Weird Al Yankovic - Hardware Store (kingcobra52) [Impossible]](https://osu.ppy.sh/beatmapsets/2042#osu/18682)
-- TieBreaker
+- Tiebreaker
   - **[Rin Kagamine - Meltdown (xxheroxx) [Hard]](https://osu.ppy.sh/beatmapsets/9070#osu/36636)**
 
 ### Round of 32
@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
   - [Hisaka Yoko - Sweet Bitter Beauty Song (DJPop) [Hard]](https://osu.ppy.sh/beatmapsets/6706#osu/30009)
   - [NicoNicoDouga - Nice Boat. (neo@lex) [JAMES DIFFICULTY!!]](https://osu.ppy.sh/beatmapsets/1839#osu/19402)
   - [Tenacious D - Tribute (awp) [ROCK]](https://osu.ppy.sh/beatmapsets/3678#osu/22515)
-- TieBreaker
+- Tiebreaker
   - **[Blind Stare - Shotgun Symphony (awp) [Insane]](https://osu.ppy.sh/beatmapsets/343#osu/3290)**
 
 ### Round of 64
@@ -157,7 +157,7 @@ This competition has come to an end and resulted in the following podium:
   - [Foo Fighters - The Pretender (Doomsday93) [Hard]](https://osu.ppy.sh/beatmapsets/5648#osu/27339)
   - [Kenji Ninuma - DISCO PRINCE (peppy) [Normal]](https://osu.ppy.sh/beatmapsets/1#osu/75)
   - [Scatman John - Scatman (Extor) [Insane]](https://osu.ppy.sh/beatmapsets/18#osu/80)
-- TieBreaker
+- Tiebreaker
   - **[Chemistry meets m-flo - Now Or Never (Behonkiss) [Insane]](https://osu.ppy.sh/beatmapsets/952#osu/10880)**
 
 ## Match results
