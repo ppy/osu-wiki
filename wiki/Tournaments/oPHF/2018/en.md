@@ -11,7 +11,7 @@ tags:
 
 > It's now time for some Holiday cheer!
 
-The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-restricted, semi-open tournament series for the osu!, osu!taiko, osu!catch, and the osu!mania game modes hosted by the osu!PH community. This tournament aimed to provide up and coming players a competitive environment where they had a chance to glory themselves. It was the second installment of the osu!Philippines Holiday Friendlies.
+The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-restricted, semi-open tournament series for the osu!, osu!taiko, osu!catch, and the osu!mania game modes hosted by the osu!PH community. This tournament aimed to provide up and coming players a competitive environment where they had a chance to glory themselves. It was the second instalment of the osu!Philippines Holiday Friendlies.
 
 ## Tournament schedule
 
@@ -30,8 +30,8 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-rest
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 2 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 2 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
 ![](img/badge_standard.png "oPHF2018 winner badge (osu!)") ![](img/badge_taiko.png "oPHF2018 winner badge (osu!taiko)") ![](img/badge_catch.png "oPHF2018 winner badge (osu!catch)") ![](img/badge_4K.png "oPHF2018 winner badge (osu!mania 4K)") ![](img/badge_7K.png "oPHF2018 winner badge (osu!mania 7K)")
 

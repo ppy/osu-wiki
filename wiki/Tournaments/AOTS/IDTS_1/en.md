@@ -7,7 +7,7 @@ tags:
 
 ![IDTS logo](img/logo.png)
 
-The **Indonesian Taiko Showdown** (***IDTS***) was a 1v1 Indonesian double elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). It was the first installment of the Asian-Oceanian Taiko Showdown.
+The **Indonesian Taiko Showdown** (***IDTS***) was a 1v1 Indonesian double elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). It was the first instalment of the Asian-Oceanian Taiko Showdown.
 
 ## Tournament schedule
 
@@ -70,7 +70,7 @@ The Indonesian Taiko Showdown was run by various Indonesian osu!taiko community 
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |

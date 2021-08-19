@@ -8,14 +8,14 @@ tags:
 
 ![NATT 2018 logo](img/logo.jpg)
 
-The **North American Taiko Tournament 2018** (***NATT 2018***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North American countries only. It was the third installment of the North & South American Taiko Tournament.
+The **North American Taiko Tournament 2018** (***NATT 2018***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North American countries only. It was the third instalment of the North & South American Taiko Tournament.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2018-07-02/2018-07-21 |
-| Group Stage | 2018-07-28/2018-07-29 |
+| Group stage | 2018-07-28/2018-07-29 |
 | Round of 16 | 2018-08-04/2018-08-05 |
 | Quarterfinals | 2018-08-11/2018-08-12 |
 | Semifinals | 2018-08-18/2018-08-19 |
@@ -27,8 +27,8 @@ The **North American Taiko Tournament 2018** (***NATT 2018***) was a double-elim
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag (or US$12) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag (or US$5) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter (or US$12) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter (or US$5) |
 
 ![](img/badge.jpg "NATT 2018 winner badge")
 
@@ -213,7 +213,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Anomaly (Ulqui) \[Overlapse Oni\]](https://osu.ppy.sh/beatmapsets/557263#taiko/1179183)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [DJ TECHNORCH - Digital Kecak No_5 (Remo-Con Remix Radio Edit) (Pettsu) \[Yuni's uchuujin\]](https://osu.ppy.sh/beatmapsets/599672#taiko/1313638)
@@ -324,7 +324,7 @@ Sunday, 5 August 2018:
 | **yea** ![][flag_US] | **0** | -1 | ![][flag_US] Alchyr | *win by default* |
 | **vladyushko** ![][flag_CA] | **4** | 0 | ![][flag_US] closed | [#1](https://osu.ppy.sh/community/matches/44840845) |
 
-### Group Stage
+### Group stage
 
 Complete Group Stage match results can be accessed through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSY7o2krAotf6bOo8pImth_2NBNtjjsKxuKFeW6HxTyyBsk87BEz0V8VZ6O9_bQxh8MnaPTdOrP8T5w/pubhtml "Google Sheets")
 

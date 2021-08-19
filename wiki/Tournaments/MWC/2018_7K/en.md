@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2018 logo](img/logo.png)
 
-The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth installment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2018-01-10/2018-01-24 |
 | Live drawings | 2018-02-03 (14:00 UTC) |
-| Group Stage | 2018-02-10/2018-02-11 |
+| Group stage | 2018-02-10/2018-02-11 |
 | Round of 16 | 2018-02-18 |
 | Quarterfinals | 2018-02-24/2018-02-25 |
 | Semifinals | 2018-03-03/2018-03-04 |
@@ -39,7 +39,7 @@ The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!
 
 The osu!mania 7K World Cup 2018 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
@@ -95,9 +95,11 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 | **G** | ![][flag_CN] China | ![][flag_CH] Switzerland | ![][flag_AR] Argentina |
 | **H** | ![][flag_CL] Chile | ![][flag_AU] Australia | ![][flag_SE] Sweden |
 
-![MWC 7K 2018 podium](img/podium.jpg)
+![](img/bracket.jpg "MWC 7K 2018 bracket")
 
-![MWC 7K 2018 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 7K 2018 podium")
 
 ## Mappools
 
@@ -185,7 +187,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[kamome sano - eclair au chocolat (extended bittersweet mix) (Lenfried-) [Gourmet Chocolate]](https://osu.ppy.sh/beatmapsets/505048#mania/1074472)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (79 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip "MediaFire")**
 
@@ -279,7 +281,7 @@ Sunday, 18 February 2018:
 | France ![][flag_FR] | 0 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/40184493) |
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/40186843) |
 
-### Group Stage
+### Group stage
 
 Saturday, 10 February 2018:
 

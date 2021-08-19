@@ -8,7 +8,7 @@ tags:
 
 ![CFB4 logo](img/logo.png)
 
-The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077). This was the fourth installment of the Catch French Beginner.
+The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077). This was the fourth instalment of the Catch French Beginner.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimin
 | Registration phase | 2020-03-26/2020-04-18 |
 | Live drawings | 2020-04-18 (21:00 UTC+2) |
 | Qualifiers | 2020-04-25/2020-04-26 |
-| Group Stage | 2020-05-02/2020-05-03 |
+| Group stage | 2020-05-02/2020-05-03 |
 | Quarterfinals | 2020-05-09/2020-05-10 |
 | Semifinals | 2020-05-16/2020-05-17 |
 | Finals | 2020-05-23/2020-05-24 |
@@ -27,9 +27,9 @@ The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimin
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "CFB4 winner badge")
 
@@ -42,8 +42,8 @@ The Catch French Beginner 4 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Co-Organiser | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Map selector | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Co-organiser | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Mappool selector | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
 | Referee | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
 | Commentator | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Kaori Miyazono (CV. Risa Taneda) - My Truth~Rondo capriccioso (Linada) \[Ascendance & Spec's Duet\]](https://osu.ppy.sh/beatmapsets/717528#fruits/1549787)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (61 MB)](https://wetransfer.com/downloads/acc2947bf3e906e2d4ebf4b97cdbe30420200426171428/49d7d2 "WeTransfer")**
 
@@ -292,7 +292,7 @@ Sunday, 10 May 2020:
 | **AttilaPhoenix** ![][flag_FR] | **5** | 2 | ![][flag_FR] -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61491060) |
 | **Trifano** ![][flag_FR] | **0** | -1 | ![][flag_FR] Riki no Kage | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 2 May 2020:
 

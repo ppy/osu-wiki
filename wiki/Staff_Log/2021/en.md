@@ -305,9 +305,9 @@ Abbreviations for user groups are used throughout this log:
 - 2021-07-02: Added [Garden](https://osu.ppy.sh/users/2849992) to **GMT**
 - 2021-07-04: Moved [KSHR](https://osu.ppy.sh/users/409957) from **osu! Alumni** to **GMT**
 - 2021-07-09: Moved [OnosakiHito](https://osu.ppy.sh/users/290128) from **osu! Alumni** to **GMT**
-- 2017-07-21: Added [LeoFLT](https://osu.ppy.sh/users/3668779) to **GMT**
-- 2017-07-21: Added [ChillierPear](https://osu.ppy.sh/users/9501251) to **GMT**
-- 2017-07-21: Added [Azer](https://osu.ppy.sh/users/2155578) to **GMT**
+- 2021-07-21: Added [LeoFLT](https://osu.ppy.sh/users/3668779) to **GMT**
+- 2021-07-21: Added [ChillierPear](https://osu.ppy.sh/users/9501251) to **GMT**
+- 2021-07-21: Added [Azer](https://osu.ppy.sh/users/2155578) to **GMT**
 
 ### Beatmap Nominators
 

@@ -32,7 +32,7 @@ The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) was a double-eliminat
 
 ![](img/badge.png "CIC 2021 winner badge")
 
-## Organization
+## Organisation
 
 CIC 2021 was run by various Indonesian osu! community members.
 

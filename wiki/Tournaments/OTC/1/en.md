@@ -7,7 +7,7 @@ tags:
 
 ![OTC logo](img/logo.png)
 
-The **osu! Technical Championship** (***OTC***) was a 1v1 double elimination osu! tournament hosted by ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the first installment of the osu! Technical Championship.
+The **osu! Technical Championship** (***OTC***) was a 1v1 double elimination osu! tournament hosted by ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669). osu! Technical Championship featured complex rhythms and sliders, unorthodox patterns, and a wide variety of technical mapping in its mappools. It was the first instalment of the osu! Technical Championship.
 
 ## Tournament schedule
 
@@ -27,11 +27,11 @@ The **osu! Technical Championship** (***OTC***) was a 1v1 double elimination osu
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
-*Extra 1 month of osu!supporter tag was given to Grand Finals tiebreaker winner.*
+*Extra 1 month of osu!supporter was given to Grand Finals tiebreaker winner.*
 
 ## Organisation
 
@@ -88,7 +88,7 @@ The osu! Technical Championship was run by various osu! community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) |

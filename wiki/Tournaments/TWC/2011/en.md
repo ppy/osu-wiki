@@ -8,16 +8,16 @@ tags:
 
 ![TWC 2011 logo](img/logo.png)
 
-The **Taiko World Cup 2011** (***TWC 2011***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the first installment of the osu!taiko World Cup.
+The **Taiko World Cup 2011** (***TWC 2011***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the first instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2011-03-12/2011-04-09 |
-| Group Stage week 1 | 2011-04-15/2011-04-17 |
-| Group Stage week 2 | 2011-04-22/2011-04-26 |
-| Group Stage week 3 | 2011-04-29/2011-05-01 |
+| Group stage week 1 | 2011-04-15/2011-04-17 |
+| Group stage week 2 | 2011-04-22/2011-04-26 |
+| Group stage week 3 | 2011-04-29/2011-05-01 |
 | Quarterfinals | 2011-05-07/2011-05-08 |
 | Semifinals | 2011-05-14 |
 | Finals | 2011-05-22/2011-05-29 |
@@ -26,10 +26,10 @@ The **Taiko World Cup 2011** (***TWC 2011***) was a country-based osu!taiko tour
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
-| *Special* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
+| *Special* | 1 month of osu!supporter |
 
 ![](img/badge.jpg "TWC 2011 winner badge")
 
@@ -37,7 +37,7 @@ The **Taiko World Cup 2011** (***TWC 2011***) was a country-based osu!taiko tour
 
 The Taiko World Cup 2011 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_KR] [arien666](https://osu.ppy.sh/users/113646), ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_IL] [Noobita](https://osu.ppy.sh/users/119188), ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_HK] [matthewhln](https://osu.ppy.sh/users/291487) |
@@ -79,7 +79,9 @@ The Taiko World Cup 2011 was run by various community members.
 | ![][flag_MY] Malaysia | ![][flag_GB] United Kingdom | ![][flag_US] United States | ![][flag_KR] South Korea B |
 | ![][flag_PH] Philippines |  |  |  |
 
-![TWC 2011 podium](img/podium.png)
+## Podium
+
+![](img/podium.png "TWC 2011 podium")
 
 ## Mappools
 
@@ -143,7 +145,7 @@ The Taiko World Cup 2011 was run by various community members.
 - Tiebreaker
   - **[Frederic Chopin - Etude Op. 10-4 (lepidopodus) \[Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/22374#taiko/77232)**
 
-### Group Stage week 3
+### Group stage week 3
 
 - FreeMod
   - [\_yoc feat. Sara Matsumoto - Moonlight Windia (ouranhshc) \[Roko-Don's Taiko\]](https://osu.ppy.sh/beatmapsets/20266#taiko/73769)
@@ -168,7 +170,7 @@ The Taiko World Cup 2011 was run by various community members.
   - **[Ai Otsuka - Sakuranbo (S i R i R u) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/16928#taiko/60790)**
   - **[yak\_won - lucid (soulfear) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/15898#taiko/58041)**
 
-### Group Stage week 2
+### Group stage week 2
 
 - FreeMod
   - [Beniiro Litmus - Rin to Shite Saku Hana no Gotoku (Chacha17) \[lepidon's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/13451#taiko/49881)
@@ -193,7 +195,7 @@ The Taiko World Cup 2011 was run by various community members.
   - **[9mm Parabellum Bullet - Punishment (lepidopodus) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/16715#taiko/59792)**
   - **[Anamanaguchi - Rock Club (Sushi) \[Taiko\]](https://osu.ppy.sh/beatmapsets/20801#taiko/73057)**
 
-### Group Stage week 1
+### Group stage week 1
 
 - FreeMod
   - [3oh!3 - Chokechain (Gens) \[Hard\]](https://osu.ppy.sh/beatmapsets/10863#taiko/41909)
@@ -258,7 +260,7 @@ Sunday, 8 May 2011:
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ![][flag_HK] | 3 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/677605) |
 
-### Group Stage week 3
+### Group stage week 3
 
 Friday, 29 April 2011:
 
@@ -286,7 +288,7 @@ Sunday, 1 May 2011:
 | China ![][flag_CN] | 2 | **3** | ![][flag_DE] **Germany A** | [#1](https://osu.ppy.sh/community/matches/633234) |
 | **Japan** ![][flag_JP] | **3** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/633728) |
 
-### Group Stage week 2
+### Group stage week 2
 
 Friday, 22 April 2011:
 
@@ -315,7 +317,7 @@ Tuesday, 26 April 2011:
 | Germany A ![][flag_DE] | 1 | **3** | ![][flag_IT] ![][flag_NL] **Italy-Netherlands** | [#1](https://osu.ppy.sh/community/matches/602804) |
 | Brazil-Chile ![][flag_BR] ![][flag_CL] | 0 | **3** | ![][flag_PL] **Poland** | *win by default* |
 
-### Group Stage week 1
+### Group stage week 1
 
 Friday, 15 April 2011:
 

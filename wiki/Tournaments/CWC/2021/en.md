@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2021 logo](/wiki/shared/news/banners/CWC2021.jpg)
 
-The **osu!catch World Cup 2021** (***CWC 2021***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the tenth installment of the osu!catch World Cup.
+The **osu!catch World Cup 2021** (***CWC 2021***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the tenth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!catch World Cup 2021** (***CWC 2021***) was a country-based osu!catch 
 | --: | :-- |
 | Registration phase | 2021-04-02/2021-04-15 |
 | Live drawings | 2021-04-24 (14:00 UTC) |
-| Group Stage | 2021-05-01/2021-05-02 |
+| Group stage | 2021-05-01/2021-05-02 |
 | Round of 16 | 2021-05-08/2021-05-09 |
 | Quarterfinals | 2021-05-15/2021-05-16 |
 | Semifinals | 2021-05-22/2021-05-23 |
@@ -90,7 +90,9 @@ The osu!catch World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) a
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Zak](https://osu.ppy.sh/users/1375955), [Kisetsunotori](https://osu.ppy.sh/users/3692648), [Colin](https://osu.ppy.sh/users/5502521), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Lexii](https://osu.ppy.sh/users/7226149) |
 | ![][flag_VN] | **Vietnam** | **[Cac](https://osu.ppy.sh/users/4744615)**, [Hana Yukiko](https://osu.ppy.sh/users/4964095), [mothernature](https://osu.ppy.sh/users/6403418), [Stardust Prism](https://osu.ppy.sh/users/8525921), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [Huytimeclock](https://osu.ppy.sh/users/10920086) |
 
-![CWC 2021 podium](img/podium.jpg)
+## Podium
+
+![](img/podium.jpg "CWC 2021 podium")
 
 ## Mappools
 
@@ -212,7 +214,7 @@ The osu!catch World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) a
 - Tiebreaker
   - **[you vs. ETIA. - Shang A Lang (kamome sano Remix) (Benita) \[meowning\]](https://osu.ppy.sh/beatmapsets/1450408#fruits/2981985)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [AAAA vs. Morimori Atsushi - Xrocus (Souvenir) \[Rain\]](https://osu.ppy.sh/beatmapsets/1419078#fruits/2923590)
@@ -321,7 +323,7 @@ Sunday, 9 May 2021:
 | Germany ![][flag_DE] | 2 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/82950460) |
 | **United States** ![][flag_US] | **6** | 3 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/82957747) |
 
-### Group Stage
+### Group stage
 
 Saturday, 1 May 2021:
 
@@ -358,7 +360,7 @@ Sunday, 2 May 2021:
 | **Australia** ![][flag_AU] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/82320856) |
 | **Chile** ![][flag_CL] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/82321603) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/82324577) |
-| **China** ![][flag_CN] | **5** | 0 | ![][flag_PE] Peru | -win by default- |
+| **China** ![][flag_CN] | **5** | 0 | ![][flag_PE] Peru | *win by default* |
 | **Philippines** ![][flag_PH] | **5** | 3 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/82347121) |
 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/82348927) |
 | **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/82351036) |

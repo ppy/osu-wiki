@@ -8,7 +8,7 @@ tags:
 
 ![2TMT logo](img/logo.png)
 
-The **2v2 :thonking: Mania Tournament** (***2TMT***) was a 2v2 team-based osu!mania tournament hosted by ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574). It was the second installment of the :thonking: Mania Tournament.
+The **2v2 :thonking: Mania Tournament** (***2TMT***) was a 2v2 team-based osu!mania tournament hosted by ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574). It was the second instalment of the :thonking: Mania Tournament.
 
 ## Tournament schedule
 
@@ -28,7 +28,7 @@ The **2v2 :thonking: Mania Tournament** (***2TMT***) was a 2v2 team-based osu!ma
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -97,9 +97,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | La pancit bois |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 argentos y medio |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | PolytETral |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **La pancit bois** (![][flag_SG] **[Polytetral](https://osu.ppy.sh/users/8612061)**, ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_SG] [Cute Doggo](https://osu.ppy.sh/users/7288030)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **3 argentos y medio** (![][flag_AR] **[juankristal](https://osu.ppy.sh/users/443656)**, ![][flag_AR] [bubshish](https://osu.ppy.sh/users/7110363), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_AR] [jLuyalb](https://osu.ppy.sh/users/7093698)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **PolytETral** (![][flag_CA] **[Sinaeb](https://osu.ppy.sh/users/1576095)**, ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_DK] [tailsdk](https://osu.ppy.sh/users/6751666), ![][flag_RU] [YaLTeR](https://osu.ppy.sh/users/3910006)) |
 
 ## Mappools
 

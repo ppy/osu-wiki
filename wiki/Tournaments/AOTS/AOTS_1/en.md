@@ -9,7 +9,7 @@ tags:
 
 > Uniting the mass diversity, NOW EXPANDED!
 
-The **Asian-Oceanian Taiko Showdown** (***AOTS***) was a 1v1 Asian and Oceanian double-elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third installment of the Asian-Oceanian Taiko Showdown, and an extension from the Asia region to Asia and Oceania.
+The **Asian-Oceanian Taiko Showdown** (***AOTS***) was a 1v1 Asian and Oceanian double-elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third instalment of the Asian-Oceanian Taiko Showdown, and an extension from the Asia region to Asia and Oceania.
 
 ## Tournament schedule
 
