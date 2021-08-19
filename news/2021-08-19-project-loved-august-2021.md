@@ -8,7 +8,7 @@ Project Loved is here to cap off the summer with some of the hottest maps from t
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-For those unfamiliar, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective gamemodes. Each banner will redirect you to the respective beatmap's poll, or you can immediately view them all on the forum [here](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to cast your votes! More info about this project is available on the [wiki page](https://osu.ppy.sh/wiki/en/Project_Loved)!
+For those unfamiliar, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective gamemodes. Each banner will redirect you to the respective beatmap's poll, or you can immediately view them all on the forum [here](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to cast your votes! More info about this project is available on the [wiki page](/wiki/Project_Loved)!
 
 Before moving on to the August picks, we would like to thank you for your immense voting participation during the July round of Project Loved! We hope you are enjoying the newest additions to the Loved category. If you would like to view the results from the previous round, you may do so by clicking the following links:
 - [Results for osu!](https://osu.ppy.sh/community/forums/posts/8220415)
@@ -18,7 +18,7 @@ Before moving on to the August picks, we would like to thank you for your immens
 
 This month we have a plethora of news to share with everyone! The [Project Loved website](https://loved.sh), maintained by [clayton](https://osu.ppy.sh/users/3666350), is slowly beginning to take shape as the [submissions](https://loved.sh/submissions/osu), [submission system](https://loved.sh/submit) and [mapper consents](https://loved.sh/mappers) pages have gone live! Starting now, you may view and submit beatmaps for Loved through the official Project Loved website! There's still much to be done, but contributions are always welcome! If you wish to help us out with the ongoing development efforts, the open-source code for the website is available in the [GitHub repository](https://github.com/cl8n/project-loved-web).
 
-On top of that, the [Project Loved Team](/wiki/en/People/The_Team/Project_Loved_Team) has seen many departures and new faces show up recently. Coming in from the Global Moderation Team to assist with reviewing beatmap content and Project Loved's day-to-day tasks comes [Pachiru](https://osu.ppy.sh/users/2850983), who is joining Project Loved as a coordinator! Alongside them comes [UberFazz](https://osu.ppy.sh/users/8646059), someone you might have already seen active during July's round! Hailing from the prestigious Beatmap Nominators group, they are here to assist with ensuring that all beatmap metadata going into Loved is as accurate and correct as it can be!
+On top of that, the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) has seen many departures and new faces show up recently. Coming in from the Global Moderation Team to assist with reviewing beatmap content and Project Loved's day-to-day tasks comes [Pachiru](https://osu.ppy.sh/users/2850983), who is joining Project Loved as a coordinator! Alongside them comes [UberFazz](https://osu.ppy.sh/users/8646059), someone you might have already seen active during July's round! Hailing from the prestigious Beatmap Nominators group, they are here to assist with ensuring that all beatmap metadata going into Loved is as accurate and correct as it can be!
 
 However, one of our osu!mania captains is sadly retiring from their duties, as [Pope Gadget](https://osu.ppy.sh/users/2288341) bids Project Loved farewell. Being one of the pioneer captains for osu!mania — we thank them for their contributions to the Loved category and wish them the best of luck in their future endeavours!
 
@@ -277,6 +277,6 @@ This map takes the player up for a steep yet rewarding journey through the depth
 
 ---
 
-From everyone on the [Project Loved Team](https://osu.ppy.sh/wiki/en/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](https://osu.ppy.sh/wiki/en/Project_Loved). See you next month!
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved). See you next month!
 
 —huu
