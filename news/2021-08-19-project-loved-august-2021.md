@@ -11,6 +11,7 @@ Project Loved is here to cap off the summer with some of the hottest maps from t
 For those unfamiliar, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective gamemodes. Each banner will redirect you to the respective beatmap's poll, or you can immediately view them all on the forum [here](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to cast your votes! More info about this project is available on the [wiki page](/wiki/Project_Loved)!
 
 Before moving on to the August picks, we would like to thank you for your immense voting participation during the July round of Project Loved! We hope you are enjoying the newest additions to the Loved category. If you would like to view the results from the previous round, you may do so by clicking the following links:
+
 - [Results for osu!](https://osu.ppy.sh/community/forums/posts/8220415)
 - [Results for osu!taiko](https://osu.ppy.sh/community/forums/posts/8220414)
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/posts/8220413)
@@ -231,7 +232,7 @@ Give MyZterioN- your support by casting your vote!
 
 [Various Artists - 6K Endurance Patterns Practice Vol.1](https://osu.ppy.sh/beatmapsets/1085851#mania) by [Imperial Wolf](https://osu.ppy.sh/users/9080296), [\_IceRain](https://osu.ppy.sh/users/7859973), [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739), [Alipay](https://osu.ppy.sh/users/9339256), [Anson_98](https://osu.ppy.sh/users/6198587), [Arkman](https://osu.ppy.sh/users/8814590) and [tyrcs](https://osu.ppy.sh/users/13026904)\
 172 BPM, 5:48 | 5.18★ – 6.44★\
-The \[(marathon)[DELETE UPON DOWNLOAD!\]] difficulty is *not* being nominated for Loved.\
+The \[(marathon)\[DELETE UPON DOWNLOAD!\]\] difficulty is *not* being nominated for Loved.\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
 Imperial Wolf's collaborative 6K endurance pack is here! This pack contains beatmaps from \_IceRain, Aliplay, Arkman, \[Crz\]sunnyxxy, tyrcs, Anson_98, and of course, Imperial Wolf.
@@ -242,11 +243,11 @@ The people who provided beatmaps to this set are well-known within the 6K/mappin
 
 [![](/wiki/shared/news/2021-08-19-project-loved-august-2021/655302.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
-[YUC'e - Future Cider](https://osu.ppy.sh/beatmapsets/655302#mania) by [bsc](https://osu.ppy.sh/users/6928171), [Arzenvald](https://osu.ppy.sh/users/3027421), [Bpple](https://osu.ppy.sh/users/4294000001) and [Jakads](https://osu.ppy.sh/users/259972)\
+[YUC'e - Future Cider](https://osu.ppy.sh/beatmapsets/655302#mania) by [bsc](https://osu.ppy.sh/users/6928171), [Arzenvald](https://osu.ppy.sh/users/3027421), [Bpple](https://osu.ppy.sh/users/8210168) and [Jakads](https://osu.ppy.sh/users/259972)\
 180 BPM, 3:59 | 1.06★ – 7.37★\
 *description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-*Future Cider* is a mapset that has been there for quite a long time, and it has been even showcased in Finals Mappool of the [osu!mania 7K World Cup 2018](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2018_7K). Since then it has certainly become a crowd favourite, gaining significant traction.
+*Future Cider* is a mapset that has been there for quite a long time, and it has been even showcased in Finals Mappool of the [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K). Since then it has certainly become a crowd favourite, gaining significant traction.
 
 A very accessible mapset with a multitude of difficulties, the main selling point of *Future Cider* is its energetic nature expressed in a clean and fun manner. Lower difficulties are a great introduction to light chordstreaming with additional bursts and some simple long notes. As the difficulty progresses, more and more complex patterns appear, accompanied with streamy LNs with increasing density. The top 3 difficulties, including jakads' and Bpple's collab Blue Another and two iterations of Future Candy feature a whole new level of challenge with stutter and bump SVs that are present during virtually the whole chart. Futuristic Candy is the top difficulty, and it builds on Future Candy with LN choruses being even more difficult. Even though the harder charts deliver lots of diverse patterns to process, they aren't overdone and greatly emphasize the song.
 
