@@ -16,6 +16,6 @@ Many beatmap descriptions contain at least one image (often an animated [GIF](ht
 
 ### Difficulty sections
 
-A _difficulty section_ is a list of all guest difficulties (often alongside with the respective icons) and their creators located in a beatmap description. It is mostly used to credit the guest mappers.
+A *difficulty section* is a list of all guest difficulties (often alongside with the respective icons) and their creators located in a beatmap description. It is mostly used to credit the guest mappers.
 
 The difficulty icons can be found in the [Difficulty](/wiki/Beatmap/Difficulty) article.
