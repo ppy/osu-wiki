@@ -212,7 +212,8 @@
 "game_modifier/9k":            "Game_modifier/xk"
 "xk":                          "Game_modifier/xk"
 
-"acc":                         "Accuracy"
+"acc":                         "Gameplay/Accuracy"
+"accuracy":                    "Gameplay/Accuracy"
 "approach_circle":             "Hit_object/Approach_circle"
 "aspire":                      "Contests/Aspire"
 "authentic":                   "Beatmap/Authentic"
