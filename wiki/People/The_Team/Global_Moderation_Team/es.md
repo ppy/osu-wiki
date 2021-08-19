@@ -57,15 +57,18 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Alemán | Moderación del chat |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turco | Moderación del chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Español | Moderación del chat, moderación del foro |
+| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Sueco | Moderación de la comunidad de mapping/modding |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Moderación del foro, soporte técnico |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Soporte técnico |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugués, japonés | Moderación del chat |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Soporte al jugador, administración de la wiki |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chino | Moderación de la comunidad de mapping/modding |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polaco | Moderación del chat |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chino | Moderación de la comunidad de mapping/modding |
 | ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderación de la comunidad de mapping/modding |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderación del chat, moderación de la comunidad de mapping/modding |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonés, chino, japonés | Moderación del chat |
+| ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Alemán | Moderación de la comunidad de mapping/modding |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Ruso | Moderación del chat |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japonés | Moderación del chat |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Ruso | Moderación del chat |
@@ -73,6 +76,8 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugués | Torneos |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Alemán | Moderación de la comunidad de mapping/modding |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chino | Moderación del chat |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonés, chino | Torneos |
+| ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portugués | Moderación de la comunidad de mapping/modding |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Desarrollador de osu! |
 | ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | Ruso | Moderación del chat |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holandés | Moderación del chat, moderación del foro |
@@ -99,6 +104,7 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Sueco, español | Moderación del chat |
 | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | Italiano, rumano | Moderación del chat |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Francés, español | Moderación del chat |
+| ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | Portugués | Moderación de la comunidad de mapping/modding |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesio | Moderación del chat |
 | ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) | Indonesio | Moderación del chat |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chino | Moderación del chat |
@@ -177,6 +183,7 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Federación Rusa"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suecia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tailandia"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turquía"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwán"

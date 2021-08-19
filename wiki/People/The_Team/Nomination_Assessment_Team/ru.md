@@ -79,14 +79,12 @@ NAT самостоятельно отслеживает появление но�
 
 | Имя | Языки | Сферы деятельности |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Немецкий, польский | Аттестация номинаторов |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Арабский, французский | Аттестация номинаторов |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Аттестация номинаторов |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Бельгия"
 [flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
 [flag_CA]: /wiki/shared/flag/CA.gif "Канада"
-[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Алжир"
 [flag_ES]: /wiki/shared/flag/ES.gif "Испания"
 [flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"

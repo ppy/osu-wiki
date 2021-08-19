@@ -67,15 +67,18 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Almanca | Sohbet moderasyonu |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Türkçe | Sohbet moderasyonu |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | İspanyolca | Sohbet moderasyonu, forum moderasyonu |
+| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | İsveççe | Mapping/modding topluluk moderasyonu |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Forum moderasyonu, teknik destek |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Teknik destek |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portekizce, Japonca | Sohbet moderasyonu |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Oyuncu desteği, wiki yönetimi |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Çince | Mapping/modding topluluk moderasyonu |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Lehçe | Sohbet moderasyonu |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Çince | Mapping/modding topluluk moderasyonu |
 | ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding topluluk moderasyonu |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kantonca, Çince, Japonca | Sohbet moderasyonu |
+| ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Almanca | Mapping/modding topluluk moderasyonu |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusça | Sohbet moderasyonu |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japonca | Sohbet moderasyonu |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusça | Sohbet moderasyonu |
@@ -83,6 +86,8 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portekizce | Turnuva yönetimi |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Almanca | Mapping/modding topluluk moderasyonu |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Çince | Sohbet moderasyonu |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonca, Çince | Turnuva yönetimi |
+| ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portekizce | Mapping/modding topluluk moderasyonu |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! geliştirme |
 | ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | Rusça | Sohbet moderasyonu |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Flemenkçe | Sohbet moderasyonu, forum moderasyonu |
@@ -109,6 +114,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | İsveççe, İspanyolca | Sohbet moderasyonu |
 | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | İtalyanca, Romence | Sohbet moderasyonu |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Fransızca, İspanyolca | Sohbet moderasyonu |
+| ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | Portekizce | Mapping/modding topluluk moderasyonu |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Endonezce | Sohbet moderasyonu |
 | ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) | Endonezce | Sohbet moderasyonu |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Çince | Sohbet moderasyonu |
@@ -187,6 +193,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 [flag_PT]: /wiki/shared/flag/PT.gif "Portekiz"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusya Federasyonu"
 [flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tayland"
 [flag_TR]: /wiki/shared/flag/TR.gif "Türkiye"
 [flag_TW]: /wiki/shared/flag/TW.gif "Tayvan"
