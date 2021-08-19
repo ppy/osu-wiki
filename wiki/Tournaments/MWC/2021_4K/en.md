@@ -89,7 +89,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_SE] | **Sweden** | **[\[LS\]Trymatic](https://osu.ppy.sh/users/14762260)**, [diamondBIaze](https://osu.ppy.sh/users/10553827), [SebbeBest](https://osu.ppy.sh/users/18272334), [Lemmie](https://osu.ppy.sh/users/11700865), [NeonDrakon](https://osu.ppy.sh/users/6315000), [Emik](https://osu.ppy.sh/users/3350987) |
 | ![][flag_CH] | **Switzerland** | **[Tupidix](https://osu.ppy.sh/users/8655604)**, [Adyrem](https://osu.ppy.sh/users/8642966), [Gamer97](https://osu.ppy.sh/users/4952941), [Haprapra](https://osu.ppy.sh/users/3974114), [CrashSmash](https://osu.ppy.sh/users/13942150), [zipp](https://osu.ppy.sh/users/6839722) |
 | ![][flag_TW] | **Taiwan** | **[\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458)**, [\[Rweiru\]](https://osu.ppy.sh/users/11234907), [murorachi](https://osu.ppy.sh/users/8682905), [Changpanda7045](https://osu.ppy.sh/users/10493479), [signupredir111](https://osu.ppy.sh/users/11859958), [Joylintp](https://osu.ppy.sh/users/13579078) |
-| ![][flag_TH] | **Thailand** | **[HowToPlayLN](https://osu.ppy.sh/users/10879600)**, [jimmyreturnz](https://osu.ppy.sh/users/11306153), [MIkuaimbot](https://osu.ppy.sh/users/17699745), [ReZero Jung](https://osu.ppy.sh/users/13349388), [IjustLuvBanana](https://osu.ppy.sh/users/16011592), [shokoha](https://osu.ppy.sh/users/14134289) |
+| ![][flag_TH] | **Thailand** | **[HowToPlayLN](https://osu.ppy.sh/users/10879600)**, [jimmyreturnz](https://osu.ppy.sh/users/11306153), [MIkuaimbot](https://osu.ppy.sh/users/17699745), [Achino](https://osu.ppy.sh/users/13349388), [IjustLuvBanana](https://osu.ppy.sh/users/16011592), [shokoha](https://osu.ppy.sh/users/14134289) |
 | ![][flag_TR] | **Turkey** | **[hsod](https://osu.ppy.sh/users/15391485)**, [BlueHydra11](https://osu.ppy.sh/users/13360698), [bys4133](https://osu.ppy.sh/users/14832700), [Ayhan2005](https://osu.ppy.sh/users/6419257) |
 | ![][flag_UA] | **Ukraine** | **[Shailexi](https://osu.ppy.sh/users/11375371)**, [LonBertZend](https://osu.ppy.sh/users/10484445), [Arstz](https://osu.ppy.sh/users/10844754), [kaivoo](https://osu.ppy.sh/users/5257734), [ADshush](https://osu.ppy.sh/users/15231447) |
 | ![][flag_GB] | **United Kingdom** | **[Pope Gadget](https://osu.ppy.sh/users/2288341)**, [Eliminate294](https://osu.ppy.sh/users/9169747), [TingMomentum](https://osu.ppy.sh/users/12489832), [XxNewson1234xX](https://osu.ppy.sh/users/9895650), [Yonk\_](https://osu.ppy.sh/users/5156656), [Zoobin4](https://osu.ppy.sh/users/10055204) |
@@ -104,27 +104,27 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Aug 21 (Sat.) 10:00 UTC | Aug 21 (Sat.) 18:00 UTC+8 | Aug 21 (Sat.) 19:00 UTC+9 |
-| Vietnam | ![][flag_VN] | ![][flag_HK] | Hong Kong | Aug 21 (Sat.) 11:00 UTC | Aug 21 (Sat.) 18:00 UTC+7 | Aug 21 (Sat.) 19:00 UTC+8 |
 | South Korea | ![][flag_KR] | ![][flag_SG] | Singapore | Aug 21 (Sat.) 12:00 UTC | Aug 21 (Sat.) 21:00 UTC+9 | Aug 21 (Sat.) 20:00 UTC+8 |
-| United Kingdom | ![][flag_GB] | ![][flag_TH] | Thailand | Aug 21 (Sat.) 13:00 UTC | Aug 21 (Sat.) 14:00 UTC+1 | Aug 21 (Sat.) 20:00 UTC+7 |
-| Philippines | ![][flag_PH] | ![][flag_CA] | Canada | Aug 21 (Sat.) 14:00 UTC | Aug 21 (Sat.) 22:00 UTC+8 | Aug 21 (Sat.) 10:00 UTC-4 |
-| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | Aug 21 (Sat.) 15:00 UTC | Aug 21 (Sat.) 12:00 UTC-3 | Aug 21 (Sat.) 22:00 UTC+7 |
-| United States | ![][flag_US] | ![][flag_FR] | France | Aug 21 (Sat.) 16:00 UTC | Aug 21 (Sat.) 11:00 UTC-5 | Aug 21 (Sat.) 18:00 UTC+2 |
+| Finland | ![][flag_FI] | ![][flag_RU] | Russian Federation | Aug 21 (Sat.) 14:00 UTC | Aug 21 (Sat.) 17:00 UTC+3 | Aug 21 (Sat.) 17:00 UTC+3 |
+| Colombia | ![][flag_CO] | ![][flag_IT] | Italy | Aug 21 (Sat.) 16:00 UTC | Aug 21 (Sat.) 11:00 UTC-5 | Aug 21 (Sat.) 18:00 UTC+2 |
 
 ### Sunday, August 22, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Philippines | ![][flag_PH] | ![][flag_CA] | Canada | Aug 22 (Sun.) 01:00 UTC | Aug 22 (Sun.) 09:00 UTC+8 | Aug 21 (Sat.) 21:00 UTC-4 |
 | China | ![][flag_CN] | ![][flag_CL] | Chile | Aug 22 (Sun.) 02:00 UTC | Aug 22 (Sun.) 10:00 UTC+8 | Aug 21 (Sat.) 22:00 UTC-4 |
+| Vietnam | ![][flag_VN] | ![][flag_HK] | Hong Kong | Aug 22 (Sun.) 08:00 UTC | Aug 22 (Sun.) 15:00 UTC+7 | Aug 22 (Sun.) 16:00 UTC+8 |
+| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Aug 22 (Sun.) 09:00 UTC | Aug 22 (Sun.) 17:00 UTC+8 | Aug 22 (Sun.) 18:00 UTC+9 |
 | Taiwan | ![][flag_TW] | ![][flag_AU] | Australia | Aug 22 (Sun.) 10:00 UTC | Aug 22 (Sun.) 18:00 UTC+8 | Aug 22 (Sun.) 20:00 UTC+10 |
-| Finland | ![][flag_FI] | ![][flag_RU] | Russian Federation | Aug 22 (Sun.) 11:00 UTC | Aug 22 (Sun.) 14:00 UTC+3 | Aug 22 (Sun.) 14:00 UTC+3 |
-| Switzerland | ![][flag_CH] | ![][flag_ES] | Spain | Aug 22 (Sun.) 12:00 UTC | Aug 22 (Sun.) 14:00 UTC+2 | Aug 22 (Sun.) 14:00 UTC+2 |
 | Sweden | ![][flag_SE] | ![][flag_PL] | Poland | Aug 22 (Sun.) 13:00 UTC | Aug 22 (Sun.) 15:00 UTC+2 | Aug 22 (Sun.) 15:00 UTC+2 |
-| Germany | ![][flag_DE] | ![][flag_AR] | Argentina | Aug 22 (Sun.) 14:00 UTC | Aug 22 (Sun.) 16:00 UTC+2 | Aug 22 (Sun.) 11:00 UTC-3 |
+| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | Aug 22 (Sun.) 13:00 UTC | Aug 22 (Sun.) 10:00 UTC-3 | Aug 22 (Sun.) 20:00 UTC+7 |
+| United Kingdom | ![][flag_GB] | ![][flag_TH] | Thailand | Aug 22 (Sun.) 14:00 UTC | Aug 22 (Sun.) 15:00 UTC+1 | Aug 22 (Sun.) 21:00 UTC+7 |
 | Venezuela | ![][flag_VE] | ![][flag_NL] | Netherlands | Aug 22 (Sun.) 15:00 UTC | Aug 22 (Sun.) 11:00 UTC-4 | Aug 22 (Sun.) 17:00 UTC+2 |
-| Colombia | ![][flag_CO] | ![][flag_IT] | Italy | Aug 22 (Sun.) 16:00 UTC | Aug 22 (Sun.) 11:00 UTC-5 | Aug 22 (Sun.) 18:00 UTC+2 |
 | Belgium | ![][flag_BE] | ![][flag_PE] | Peru | Aug 22 (Sun.) 17:00 UTC | Aug 22 (Sun.) 19:00 UTC+2 | Aug 22 (Sun.) 12:00 UTC-5 |
+| United States | ![][flag_US] | ![][flag_FR] | France | Aug 22 (Sun.) 17:00 UTC | Aug 22 (Sun.) 12:00 UTC-5 | Aug 22 (Sun.) 19:00 UTC+2 |
+| Switzerland | ![][flag_CH] | ![][flag_ES] | Spain | Aug 22 (Sun.) 18:00 UTC | Aug 22 (Sun.) 20:00 UTC+2 | Aug 22 (Sun.) 20:00 UTC+2 |
+| Germany | ![][flag_DE] | ![][flag_AR] | Argentina | Aug 22 (Sun.) 18:00 UTC | Aug 22 (Sun.) 20:00 UTC+2 | Aug 22 (Sun.) 15:00 UTC-3 |
 
 ## Mappools
 
