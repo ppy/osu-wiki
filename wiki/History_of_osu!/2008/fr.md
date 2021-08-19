@@ -50,7 +50,7 @@ Un nouveau statut classé a été ajouté, "![](/img/fire.gif) [Approuvée](/wik
 
 ![](img/flashlight.png "Flashlight \(v1\)") ![](img/spun_out.png "Spun Out \(v1\)") ![](img/auto.png "Auto \(v1\)")
 
-Une série de nouveau mods a été rendue publique ce mois-ci : [Flashlight](/wiki/Game_modifier/Flashlight) *(FL)*, [Spun Out](/wiki/Game_modifier/Spun_Out) *(SO)* et [Auto](/wiki/Game_modifier/Auto) *(AT)*. Auto émule un joueur artificiel qui peut compléter (presque) n'importe quelle beatmap avec une [précision](/wiki/Accuracy) parfaite, et est aussi accessible depuis le mode de test de l'éditeur. Les limites de la création des beatmaps ont été poussées plus loin avec l'ajout de plus d'éléments personnalisables (incluant les [comboburst](/wiki/Glossary/comboburst), l'échantillon sonore clap, la possibilité d'assigner des sons à des points individuels de sliders et des sections de timing en découlant). Le menu de sélection des musiques a aussi reçu une refonte. 
+Une série de nouveau mods a été rendue publique ce mois-ci : [Flashlight](/wiki/Game_modifier/Flashlight) *(FL)*, [Spun Out](/wiki/Game_modifier/Spun_Out) *(SO)* et [Auto](/wiki/Game_modifier/Auto) *(AT)*. Auto émule un joueur artificiel qui peut compléter (presque) n'importe quelle beatmap avec une [précision](/wiki/Gameplay/Accuracy) parfaite, et est aussi accessible depuis le mode de test de l'éditeur. Les limites de la création des beatmaps ont été poussées plus loin avec l'ajout de plus d'éléments personnalisables (incluant les [comboburst](/wiki/Glossary/comboburst), l'échantillon sonore clap, la possibilité d'assigner des sons à des points individuels de sliders et des sections de timing en découlant). Le menu de sélection des musiques a aussi reçu une refonte. 
 
 ## Octobre
 

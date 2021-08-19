@@ -54,7 +54,7 @@ Bunun sonucu olarak [Double Time](/wiki/Game_modifier/Double_Time) ve [Half Time
 
 ### İsabetlilik
 
-*Ayrıca bakınız: [İsabet oranı](/wiki/Accuracy)*
+*Ayrıca bakınız: [İsabet oranı](/wiki/Gameplay/Accuracy)*
 
 *İsabetlilik*, oyuncunun [vuruş objelerini](/wiki/Hit_object) zamanında vurma becerisini ölçen bir yüzdelik değerdir, pp algoritmasına göre ise oyuncunun bir beatmapteki bireysel performansını ölçmek için kullanılan bir çekirdek değerdir.
 

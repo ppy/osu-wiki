@@ -24,7 +24,7 @@ On January 16, 2021, changes were made to the ppv2 system that aimed to more acc
 - Introduce a scaling factor to the pp loss affected by the [No Fail](/wiki/Game_modifier/No_Fail) mod based on the number of misses in a play
 - Introduce a scaling factor to the pp loss affected by the [Spun Out](/wiki/Game_modifier/Spun_Out) mod based on the number of spinners in a beatmap
 - Adjust the rate of pp loss from misses to be more forgiving on longer maps with higher combo
-- Punish lower [accuracy](/wiki/Accuracy) plays with less pp gain
+- Punish lower [accuracy](/wiki/Gameplay/Accuracy) plays with less pp gain
 
 ppv2 is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
@@ -64,7 +64,7 @@ As a result of this, mods like [Double Time](/wiki/Game_modifier/Double_Time) an
 
 ### Accuracy
 
-*See also: [Accuracy](/wiki/Accuracy)*
+*See also: [Accuracy](/wiki/Gameplay/Accuracy)*
 
 *Accuracy* is a percent measure of a player's ability to hit [hit objects](/wiki/Hit_object) on-time; in regards to the pp algorithm, it is also a core value that is used to evaluate a player's individual performance on a beatmap.
 

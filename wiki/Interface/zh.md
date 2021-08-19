@@ -285,20 +285,20 @@
 
 这是你的在线排行榜。你可以通过下滑或者点击底部的按钮来查看你的在线结果。你的本地分数榜通常将会显示你的名字和你的分数。
 
-1. 你的玩家信息榜。这里会显示你的[PP](/wiki/Performance_Points)，全球排名，总分数，总体[准确度](/wiki/Accuracy)，和经验条。
+1. 你的玩家信息榜。这里会显示你的[PP](/wiki/Performance_Points)，全球排名，总分数，总体[准确度](/wiki/Gameplay/Accuracy)，和经验条。
 2. `存储回放到回放文件夹`：你可以稍后观看回放或者在本地排名中打开，或者在`Replays`文件夹中双击打开。
 3. `设置为线上最爱`：添加谱面到线上收藏，它位于你osu!个人资料界面的谱面下。
 4. 本地排行榜：你所有的分数都会保存在你的电脑上。要查看他们，转到[选歌界面](#song-selection-screen)，然后在左侧下拉栏点击`本地排行`。
 5. `Beatmap Ranking`部分。仅当谱面拥有在线排行榜([qualified](/wiki/Beatmap/Category#qualified)，[ranked](/wiki/Beatmap/Category#ranked)，或者[loved](/wiki/Beatmap/Category#loved))时可用。
    1. `整体`：你在这个谱面排行榜的位置，你可以与使用了[mods](/wiki/Game_modifier)的人竞争尽管你没有使用[mods](/wiki/Game_modifier)。
-   2. `准确度`：你这次游玩的[精确度](/wiki/Accuracy#accuracy)，只有新分数超过旧分数时才会计算。
+   2. `准确度`：你这次游玩的[精确度](/wiki/Gameplay/Accuracy#accuracy)，只有新分数超过旧分数时才会计算。
    3. `Max Combo`：你这次游玩时达到的最高Combo。
    4. `Ranked图分数`：你在这张谱面的[最好成绩](/wiki/Score#ranked-score)。
    5. `总分数`：不考虑，因为它不会影响你的在线排名。
    6. `Performance`：你在这次游玩获得的[未权重计算过的pp](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played)。
 6. `Overall Ranking`部分。也仅当谱面拥有在线排行榜时可用。
    1. `整体`：你的世界排名。
-   2. `准确度`：你所有游玩过的图的[平均精确度](/wiki/Accuracy#accuracy)。
+   2. `准确度`：你所有游玩过的图的[平均精确度](/wiki/Gameplay/Accuracy#accuracy)。
    3. `Max Combo`：你所有谱子中获得的最长的Combo。
    4. [`Ranked分数`](/wiki/Score#ranked-score)：你在每张Ranked图中最高分数的总和。
    5. [`总分数`](/wiki/Score#total-score)：与Ranked分数相同，但是它计算所有上传到osu!网站(除了未上传或未更新至最新版的谱面)谱面的每一次游玩分数，包括未游玩完整或失败的成绩。
