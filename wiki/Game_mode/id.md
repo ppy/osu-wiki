@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 92d9c98fac5191ce3931d830ca40dbaa3e3a0094
+---
+
 # Mode permainan
 
 osu! memiliki empat **mode permainan** yang dapat kamu mainkan: [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch), dan [osu!mania](#-osu!mania). Keempat mode permainan tersebut memiliki mekanisme permainannya masing-masing yang terinspirasi dari berbagai permainan ritme lainnya yang ada di luar sana.
