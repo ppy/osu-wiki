@@ -8,7 +8,7 @@
 
 Graveyard is a place for beatmaps abandoned by their [hosts](/wiki/Beatmap/Beatmap_host). Such beatmaps do not have leaderboards, but they can still be downloaded and played, and [contribute to play statistics](#unranked-beatmaps-statistics). They use the question mark icon (![](/wiki/shared/status/graveyard.png)) in the [song selection screen](/wiki/Interface#song-selection-screen).
 
-A beatmap is moved to the Graveyard category from [Work in Progress and Pending](#work-in-progress-and-pending) automatically once it hasn't been updated for 4 weeks. The author can revive the beatmap (i.e. bring back to [Pending](#work-in-progress-and-pending)) by updating it via the [beatmap submission system](/wiki/Submission). While a beatmap is in the graveyard, it doesn't count towards a mapper's total upload limit; reviving it requires a free pending slot.
+A beatmap is moved to the Graveyard category from [Work in Progress and Pending](#work-in-progress-and-pending) automatically once it hasn't been updated for 4 weeks. The author can revive the beatmap (i.e. bring back to [Pending](#work-in-progress-and-pending)) by updating it via the [beatmap submission system](/wiki/Submission). While a beatmap is in the graveyard, it doesn't count towards a mapper's [total upload limit](/wiki/Help_Centre/Beatmapping#i-am-an-osu!supporter,-but-i-don't-have-10-pending-slots!); reviving it requires a free pending slot.
 
 ### Work in Progress and Pending
 
