@@ -42,7 +42,6 @@ The Project Loved Team mostly consists of *captains* for each [game mode](/wiki/
 - ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
 - ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
-- ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 
 ## Coordinators
 
@@ -120,6 +119,7 @@ Below listed are the users, who once were a part of the Project Loved Team.
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992)
 - ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
+- ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 - ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707)
 - ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612)
 - ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811)

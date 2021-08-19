@@ -62,12 +62,14 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | 中文 |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | 中文 |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | 印度尼西亚语 |
+| ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | 德语 |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | 中文，部分法语 |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | 中文 |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | 西班牙语 |
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | 法语，德语 |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | 德语 |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | 中文 |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
@@ -84,7 +86,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | 意大利语 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 中文，粤语 |
-| ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | 葡萄牙语 |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | 法语 |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | 法语 |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | 韩语 |
@@ -133,6 +134,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语，塞尔维亚语 |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，部分法语 |
+| ![][flag_US] [yenmaster](https://osu.ppy.sh/users/12565402) |  |
 
 #### osu!catch
 
@@ -142,15 +144,17 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | 中文，粤语 |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | 西班牙语 |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | 挪威语 |
+| ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | 荷兰语 |
 | ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136) | 德语 |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | 德语 |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | 菲律宾语 |
-| ![][flag_KR] [My Angel RangE](https://osu.ppy.sh/users/6336713) | 韩语 |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | 俄语 |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | 希腊语 |
+| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | 波兰语 |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_CN] [Souvenir](https://osu.ppy.sh/users/14057792) | 中文 |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
+| ![][flag_BR] [zerokt](https://osu.ppy.sh/users/13776127) | 葡萄牙语 |
 
 #### osu!mania
 
@@ -165,9 +169,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | 西班牙语，葡萄牙语，加利西亚语，意大利语，日语 |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | 菲律宾语 |
-| ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | 印度尼西亚语 |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | 印度尼西亚语 |
-| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
 | ![][flag_KR] [Paran](https://osu.ppy.sh/users/13340203) | 韩语 |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | 中文，粤语 |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | 印度尼西亚语 |
@@ -182,41 +184,41 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | 芬兰语 |
 | ![][flag_DK] [Akayume](https://osu.ppy.sh/users/10617530) | 丹麥语 |
-| ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045) |  |
 | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) |  |
-| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) |  |
-| ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | 德语 |
+| ![][flag_DE] [FuJu](https://osu.ppy.sh/users/10773882) | 德语 |
 | ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
-| ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
+| ![][flag_HK] [Kyle Y](https://osu.ppy.sh/users/3565813) | 中文，粤语 |
+| ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ![][flag_GB] [mrowswares](https://osu.ppy.sh/users/9558549) |  |
+| ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | 葡萄牙语 |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) |  |
 
 #### osu!taiko
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | 中文，粤语 |
-| ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | 意大利语 |
-| ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | 西班牙语 |
 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | 韩语 |
+| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | 中文，粤语 |
+| ![][flag_BR] [Idealism](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
 | ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344) | 中文 |
-| ![][flag_US] [yenmaster](https://osu.ppy.sh/users/12565402) |  |
 
 #### osu!catch
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | 荷兰语 |
-| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | 波兰语 |
-| ![][flag_BR] [zerokt](https://osu.ppy.sh/users/13776127) | 葡萄牙语 |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | 荷兰语 |
+| ![][flag_RU] [Lacrima](https://osu.ppy.sh/users/4915649) | 俄语 |
+| ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | 韩语 |
 
 #### osu!mania
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_AU] [DarkistDeci](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) | 印度尼西亚语 |
+| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
+| ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | 西班牙语 |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
@@ -245,7 +247,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
 [flag_PL]: /wiki/shared/flag/PL.gif "波兰"
-[flag_PR]: /wiki/shared/flag/PR.gif "波多黎各"
 [flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
 [flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_SG]: /wiki/shared/flag/SG.gif "新加坡"

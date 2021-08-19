@@ -288,20 +288,20 @@ Below are the results screens of the other game modes.
 
 This is your online leaderboard. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
-1. Your player bar. It shows your [PP](/wiki/Performance_Points), Global Rank, Total Score, Overall [Accuracy](/wiki/Accuracy), and level bar.
+1. Your player bar. It shows your [PP](/wiki/Performance_Points), Global Rank, Total Score, Overall [Accuracy](/wiki/Gameplay/Accuracy), and level bar.
 2. `Save replay to Replays folder`: You can watch the replay later either by opening it from a local leaderboard, or by going to `Replays` directory and double clicking it.
 3. `Add as online favourite`: Include the beatmap into your list of favourites, which is located on your osu! profile page under the "Beatmaps" section.
 4. Local Leaderboard: All your results are stored on your computer. To see them, navigate to the [song selection screen](#song-selection-screen), then select `Local Rankings` from the drop-down menu on the left.
 5. `Beatmap Ranking` section. Available only for maps with online leaderboards ([qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked), or [loved](/wiki/Beatmap/Category#loved)). You also need to be online to see this section.
    1. `Overall`: Your position on the map's leaderboard, where you compete against players that used [mods](/wiki/Game_modifier), even if you didn't use any yourself.
-   2. `Accuracy`: How [precisely](/wiki/Accuracy) did you play the beatmap. Will only be counted when your old score is surpassed.
+   2. `Accuracy`: How [precisely](/wiki/Gameplay/Accuracy) did you play the beatmap. Will only be counted when your old score is surpassed.
    3. `Max Combo`: Your longest combo on the map you played.
    4. `Ranked Score`: Your [best result](/wiki/Score#ranked-score) on the beatmap.
    5. `Total Score`: Not taken into account, since it does not affect your position in online rankings.
    6. `Performance`: The amount of [unweighted PP](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played) you would receive for the play.
 6. `Overall Ranking` section. It's available only for beatmaps with online leaderboards. You also need to be online to see this section.
    1. `Overall`: Your global ranking in the world.
-   2. `Accuracy`: Your average [accuracy](/wiki/Accuracy#accuracy) over all beatmaps you have played.
+   2. `Accuracy`: Your average [accuracy](/wiki/Gameplay/Accuracy#accuracy) over all beatmaps you have played.
    3. `Max Combo`: The longest combo over all beatmaps you have played.
    4. [`Ranked Score`](/wiki/Score#ranked-score): The number of points earned from all ranked beatmaps that you have ever played, with every map being counted exactly once.
    5. [`Total Score`](/wiki/Score#total-score): Same as ranked score, but it takes into account all beatmaps available on the osu! website, and also underplayed or failed beatmaps. This counts towards your level.

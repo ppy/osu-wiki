@@ -305,7 +305,7 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 
 *Detaljerad förklaring för poängräkning hittas i spellägets motsvarande artikel eller i [Poäng-artikeln](/wiki/Score).*
 
-*Detaljerad förklaring för beräkning av träffsäkerhet hittas i spellägets motsvarande artikel eller i [artikeln om Träffsäkerhet](/wiki/Accuracy).*
+*Detaljerad förklaring för beräkning av träffsäkerhet hittas i spellägets motsvarande artikel eller i [artikeln om Träffsäkerhet](/wiki/Gameplay/Accuracy).*
 
 ### Rang
 

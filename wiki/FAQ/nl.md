@@ -54,7 +54,7 @@ Dit onderdeel gaat dieper in op de fijne kneepjes van het scoren, met inbegrip v
 
 ### Precisie
 
-[precisie](/wiki/Accuracy) = totale punten van hits / (totaal aantal hits \* 300)
+[precisie](/wiki/Gameplay/Accuracy) = totale punten van hits / (totaal aantal hits \* 300)
 
 Totaal aantal hits = (aantal keer gemist + aantal hits van '50' + aantal hits van '100' + aantal hits van '300') Totaal aantal punten van hits = (aantal hits van '50' \* 50 + aantal hits van '100' \* 100 + aantal hits van '300' \* 300)
 
