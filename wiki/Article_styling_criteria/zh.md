@@ -495,7 +495,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 例如：
 
 ```markdown
-[欢迎](/wiki/Welcome)
+[Rules](/wiki/Rules)
 [pippi](/wiki/Mascots#-pippi)
 ```
 
