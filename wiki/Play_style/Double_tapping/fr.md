@@ -14,7 +14,7 @@ Le **double tapping** est une méthode de jeu pour le mode [osu!](/wiki/Game_mod
 
 ## Utilisation
 
-Le double tapping remplace généralement la méthode de jeu principale d'un joueur en raison de sa facilité d'exécution et de l'augmentation de la "vitesse" (même si le joueur ne frappe pas plus vite). Cette augmentation de la vitesse est obtenue en tirant parti des hit windows qui se chevauchent le plus souvent dans les stacks et les streams. Ainsi, lorsque l'entrée d'une touche est enregistrée comme ayant frappé un cercle dans un stack, le cercle suivant sera également enregistré comme ayant été frappé car leurs hit windows sont si proches qu'elles se chevauchent. En conséquence, il est presque impossible de contrôler le timing de ces frappes, ce qui peut nuire à la [précision](/wiki/Accuracy) du joueur.
+Le double tapping remplace généralement la méthode de jeu principale d'un joueur en raison de sa facilité d'exécution et de l'augmentation de la "vitesse" (même si le joueur ne frappe pas plus vite). Cette augmentation de la vitesse est obtenue en tirant parti des hit windows qui se chevauchent le plus souvent dans les stacks et les streams. Ainsi, lorsque l'entrée d'une touche est enregistrée comme ayant frappé un cercle dans un stack, le cercle suivant sera également enregistré comme ayant été frappé car leurs hit windows sont si proches qu'elles se chevauchent. En conséquence, il est presque impossible de contrôler le timing de ces frappes, ce qui peut nuire à la [précision](/wiki/Gameplay/Accuracy) du joueur.
 
 ## Arguments
 

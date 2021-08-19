@@ -295,7 +295,7 @@ Aşağıdakiler diğer oyun modlarının sonuç ekranlarıdır.
 Bu sizin çevrimiçi lider tablonuzdur. Buraya gelmek için sonuç ekranından aşağı kaydırabilirsiniz. Yerel Skor Tablonuz her zamanki gibi isminizi ve skorunuzu görüntüleyecektir.
 
 1. Buradan tekrar için kaydedilen ismi değiştirebilirsiniz.
-2. Oyuncu paneliniz. Sizin [PP](/wiki/Performance_Points)'niz, Küresel Sıralamanız, Toplam Skorunuz, Ortalama [İsabet Oranınız](/wiki/Accuracy), ve seviye göstergeniz bulunur.
+2. Oyuncu paneliniz. Sizin [PP](/wiki/Performance_Points)'niz, Küresel Sıralamanız, Toplam Skorunuz, Ortalama [İsabet Oranınız](/wiki/Gameplay/Accuracy), ve seviye göstergeniz bulunur.
 3. Beatmap ile ilgili seçenekler.
    1. Tekrar dosyasını `.osr` olarak çıkar: Çevrimiçi kullanılabilen tekrarı kaydet.
    2. Çevrimiçi Favorilere ekle: Beatmapi Çevrimiçi Favorilerine ekle. Çevrimiçi profilinde Beatmapler->Favori Beatmapler kısmında gözükecektir

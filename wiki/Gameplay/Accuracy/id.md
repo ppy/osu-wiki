@@ -1,5 +1,3 @@
-<!-- TODO: needs to be combined with /wiki/Gameplay/Accuracy in some way -->
-
 # Akurasi
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
