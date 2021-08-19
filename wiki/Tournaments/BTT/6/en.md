@@ -8,7 +8,7 @@ tags:
 
 ![BTT6 logo](img/logo.jpg)
 
-The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) and ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263). Only players ranked #10,000 and above can participate. It was the sixth installment of the Beginners' Taiko Tournament.
+The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) and ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263). Only players ranked #10,000 and above can participate. It was the sixth instalment of the Beginners' Taiko Tournament.
 
 ## Tournament schedule
 
@@ -19,7 +19,7 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double
 | Qualifiers mappool showcase | 2021-01-31 (15:00 UTC) |
 | Qualifiers | 2021-02-06/2021-02-07 |
 | Live drawings | 2021-02-08 (18:00 UTC) |
-| Group Stage | 2021-02-12/2021-02-21 |
+| Group stage | 2021-02-12/2021-02-21 |
 | Round of 32 | 2021-02-23/2021-02-28 |
 | Round of 16 | 2021-03-06/2021-03-07 |
 | Quarterfinals | 2021-03-13/2021-03-14 |
@@ -31,9 +31,9 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) was a worldwide double
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "BTT6 winner badge")
 
@@ -268,7 +268,7 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 - Tiebreaker
   - **[hololive IDOL PROJECT - Shiny Smily Story (taiko\_ryuki) \[Ron's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1050045#taiko/2322393)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (52 MB)](https://mega.nz/file/B0UCVZAC#YE-4sS94GSC6kwigXFxLtlsCkqM_VZF4zj14eRbvhS4 "MEGA")**
 
@@ -464,7 +464,7 @@ Sunday, 28 February 2021:
 | Mashyuf ![][flag_TW] | 1 | **4** | ![][flag_US] **-Schwarts** | [#1](https://osu.ppy.sh/community/matches/76915367) |
 | dhuragin ![][flag_US] | 1 | **4** | ![][flag_SE] **Logg45vs** | [#1](https://osu.ppy.sh/community/matches/76915252) |
 
-### Group Stage
+### Group stage
 
 Friday, 12 February 2021:
 

@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2017 logo](img/logo.jpg)
 
-The **osu!catch World Cup 2017** (***CWC 2017***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth installment of the osu!catch World Cup.
+The **osu!catch World Cup 2017** (***CWC 2017***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!catch World Cup 2017** (***CWC 2017***) was a country-based osu!catch 
 | --: | :-- |
 | Registration phase | 2017-05-03/2017-05-14 |
 | Live drawings | 2017-05-28 (14:00 UTC) |
-| Group Stage | 2017-06-03/2017-06-04 |
+| Group stage | 2017-06-03/2017-06-04 |
 | Round of 16 | 2017-06-11 |
 | Quarterfinals | 2017-06-18 |
 | Semifinals | 2017-06-24/2017-06-25 |
@@ -37,7 +37,7 @@ The **osu!catch World Cup 2017** (***CWC 2017***) was a country-based osu!catch 
 
 The osu!catch World Cup 2017 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) |
@@ -87,9 +87,11 @@ The osu!catch World Cup 2017 was run by various community members.
 | ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [chickenbible](https://osu.ppy.sh/users/2306637), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Del](https://osu.ppy.sh/users/2996241), [qebrus](https://osu.ppy.sh/users/3438241), [Sponge](https://osu.ppy.sh/users/4365562) |
 | ![][flag_VE] | **Venezuela** | **[AizW](https://osu.ppy.sh/users/6672736)**, [\_Tsugumi](https://osu.ppy.sh/users/8746368), [F4spross](https://osu.ppy.sh/users/6485050), [Hisashi Shimoro](https://osu.ppy.sh/users/6736420), [Yudara](https://osu.ppy.sh/users/3564018) |
 
-![CWC 2017 podium](img/podium.jpg)
+![](img/bracket.jpg "CWC 2017 bracket")
 
-![CWC 2017 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "CWC 2017 podium")
 
 ## Mappools
 
@@ -199,7 +201,7 @@ The osu!catch World Cup 2017 was run by various community members.
 - Tiebreaker
   - **[Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Tenshichan) \[Stellar\]](https://osu.ppy.sh/beatmapsets/485733#fruits/1035785)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (120 MB)](https://www.mediafire.com/file/4vdwqn61cwk1vb1/CWC_2017_Group_Stage.rar "MediaFire")**
 
@@ -302,7 +304,7 @@ Sunday, 11 June 2017:
 | **Sweden** ![][flag_SE] | **5** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/33790093) |
 | Germany ![][flag_DE] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/33791464) |
 
-### Group Stage
+### Group stage
 
 Saturday, 3 June 2017:
 

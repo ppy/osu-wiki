@@ -8,7 +8,7 @@ tags:
 
 ![DMX 3 logo](img/logo.png)
 
-The **DeltaMax's Mania Key Smasher** (***DMX 3***) was a 1v1 double-elimination osu!mania tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third installment of the DeltaMax's Tournaments.
+The **DeltaMax's Mania Key Smasher** (***DMX 3***) was a 1v1 double-elimination osu!mania tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third instalment of the DeltaMax's Tournaments.
 
 ## Tournament schedule
 

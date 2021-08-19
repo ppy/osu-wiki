@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2020 logo](img/logo.jpg)
 
-The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international four-on-four double-elimination osu! tournament hosted by ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. This was the fourth installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international four-on-four double-elimination osu! tournament hosted by ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. This was the fourth instalment of the osu! TV Size Tournament.
 
 ## Tournament schedule
 
@@ -29,7 +29,7 @@ The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international fou
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter for each team member |
 
 ![](img/badge.png "otst! 2020 winner badge")
 
@@ -40,7 +40,7 @@ The osu! TV Size Tournament 2020 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
-| Map selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_AU] [Kazuma](https://osu.ppy.sh/users/10642837), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
+| Mappool selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_AU] [Kazuma](https://osu.ppy.sh/users/10642837), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
 | Referee | ![][flag_DE] [ChaotiX](https://osu.ppy.sh/users/4236576), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_BG] [Geromu Keretem](https://osu.ppy.sh/users/9404532), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DE] [real cute](https://osu.ppy.sh/users/9172811), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255) |
 | Commentator | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
 | Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
@@ -112,9 +112,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | seusbruk |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Rubber Conquest** (![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Floating up** (![][flag_KR] **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078), ![][flag_KR] [Aristia](https://osu.ppy.sh/users/3478883), ![][flag_KR] [Mya2](https://osu.ppy.sh/users/7302146), ![][flag_IT] [Koba](https://osu.ppy.sh/users/4448118), ![][flag_KR] [Karuna](https://osu.ppy.sh/users/8775024), ![][flag_KR] [Zeisen-](https://osu.ppy.sh/users/7892320), ![][flag_KR] [Ponytail](https://osu.ppy.sh/users/1516650)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **seusbruk** (![][flag_US] **[Conyoh](https://osu.ppy.sh/users/4844496)**, ![][flag_SE] [\[ Blue \]](https://osu.ppy.sh/users/4859699), ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950), ![][flag_US] [Exarch](https://osu.ppy.sh/users/5370153), ![][flag_US] [thaibuy](https://osu.ppy.sh/users/4250296), ![][flag_BR] [Mistya](https://osu.ppy.sh/users/5403374), ![][flag_BR] [Mystia](https://osu.ppy.sh/users/4277702), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178)) |
 
 ## Mappools
 

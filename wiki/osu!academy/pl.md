@@ -4,7 +4,7 @@ outdated: true
 
 # Akademia osu!
 
-![osu!academy's logo](img/osu!academy-logo.png "osu!academy logo")
+![osu!academy's logo](img/logo.png "osu!academy logo")
 
 ## Wprowadzenie
 

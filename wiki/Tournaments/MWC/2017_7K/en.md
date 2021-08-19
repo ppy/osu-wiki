@@ -10,15 +10,15 @@ tags:
 
 ![MWC 7K 2017 logo](img/logo.jpg)
 
-The **osu!mania 7K World Cup 2017** (***MWC 7K 2017***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third installment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2017** (***MWC 7K 2017***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third instalment of the osu!mania 7K World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2016-12-12/2016-12-25 |
 | Live drawings | 2017-01-08 (14:00 UTC) |
-| Group Stage | 2017-01-14/2017-01-15 |
+| Group stage | 2017-01-14/2017-01-15 |
 | Quarterfinals | 2017-01-21 |
 | Semifinals | 2017-01-29 |
 | Finals week 1 | 2017-02-04/2017-02-05 |
@@ -38,7 +38,7 @@ The **osu!mania 7K World Cup 2017** (***MWC 7K 2017***) was a country-based osu!
 
 The osu!mania 7K World Cup 2017 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- |:-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881), ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783) |
@@ -81,9 +81,11 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 | **C** | ![][flag_CN] China | ![][flag_ID] Indonesia | ![][flag_PL] Poland | ![][flag_AR] Argentina |
 | **D** | ![][flag_KR] South Korea | ![][flag_SG] Singapore | ![][flag_PH] Philippines | ![][flag_GB] United Kingdom |
 
-![MWC 7K 2017 podium](img/podium.jpg)
+![](img/bracket.jpg "MWC 7K 2017 bracket")
 
-![MWC 7K 2017 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 7K 2017 podium")
 
 ## Mappools
 
@@ -155,7 +157,7 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 - Tiebreaker
   - **[niki feat. Reol - WAVE (KafuuChino) \[WAVE\]](https://osu.ppy.sh/beatmapsets/476563#mania/1017922)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (88 MB)](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar "MediaFire")**
 
@@ -225,7 +227,7 @@ Saturday, 21 January 2017:
 | Chile ![][flag_CL] | 2 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/30510203) |
 | United States ![][flag_US] | 2 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/30510203) |
 
-### Group Stage
+### Group stage
 
 Saturday, 14 January 2017:
 

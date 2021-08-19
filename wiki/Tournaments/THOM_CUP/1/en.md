@@ -9,7 +9,7 @@ tags:
 
 ![THOM CUP logo](img/logo.png)
 
-**The Heptakey osu!mania Cup #1** (***THOM CUP #1***) was a 1v1 Euro-American 7K osu!mania tournament. It was the first installment of the The Heptakey osu!mania Cup.
+**The Heptakey osu!mania Cup #1** (***THOM CUP #1***) was a 1v1 Euro-American 7K osu!mania tournament. It was the first instalment of the The Heptakey osu!mania Cup.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ tags:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30 USD |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20 USD |
 
-## Organization
+## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -193,7 +193,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Ruby My Dear - 7C0 (Pope Gadget) \[R26\]](https://osu.ppy.sh/beatmapsets/352201#mania/844672)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (95 MB)](https://www.dropbox.com/sh/c3rktbonawm67hk/AAAQv1tCrCV9BSvEbRm84Nxha?dl=0 "Dropbox")**
 
@@ -550,7 +550,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
-#### Bans, rolls and song selection
+#### Bans, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.

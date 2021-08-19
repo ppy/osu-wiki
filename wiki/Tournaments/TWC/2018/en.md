@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2018 logo](img/logo.png)
 
-The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2018-03-08/2018-03-21 |
 | Live drawings | 2018-03-31 (14:00 UTC) |
-| Group Stage | 2018-04-07/2018-04-08 |
+| Group stage | 2018-04-07/2018-04-08 |
 | Round of 16 | 2018-04-15 |
 | Quarterfinals | 2018-04-21/2018-04-22 |
 | Semifinals | 2018-04-28/2018-04-29 |
@@ -37,7 +37,7 @@ The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko 
 
 The osu!taiko World Cup 2018 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
@@ -80,9 +80,11 @@ The osu!taiko World Cup 2018 was run by various community members.
 | ![][flag_US] | **United States** | **[n1doking](https://osu.ppy.sh/users/5991961)**, [Dargin](https://osu.ppy.sh/users/7086439), [JDrago14](https://osu.ppy.sh/users/7690078), [Loopy542](https://osu.ppy.sh/users/5468461), [Tem](https://osu.ppy.sh/users/5393042) |
 | ![][flag_VE] | **Venezuela** | **[[\_Chichinya\_]](https://osu.ppy.sh/users/2140739)**, [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [Colorojo12](https://osu.ppy.sh/users/5136821) |
 
-![TWC 2018 podium](img/podium.png)
+![](img/bracket.png "TWC 2018 bracket")
 
-![TWC 2018 bracket](img/bracket.png)
+## Podium
+
+![](img/podium.png "TWC 2018 podium")
 
 ## Mappools
 
@@ -190,7 +192,7 @@ The osu!taiko World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[BlackYooh vs. siromaru - BLACK or WHITE? (Arrival) \[White\]](https://osu.ppy.sh/beatmapsets/606833#taiko/1281858)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (61 MB)](http://www.mediafire.com/file/q87i9p51i3627bu/TWC%202018%20-%20GROUP%20STAGE%20MAPPOOL.rar "MediaFire")**
 
@@ -298,7 +300,7 @@ Sunday, 15 April 2018:
 | **Chile** ![][flag_CL] | **5** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/41687469) |
 | United Kingdom ![][flag_GB] | 1 | **5** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/41689289) |
 
-### Group Stage
+### Group stage
 
 Saturday, 7 April 2018:
 

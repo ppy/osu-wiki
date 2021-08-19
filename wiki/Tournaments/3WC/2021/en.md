@@ -8,7 +8,7 @@ tags:
 
 ![3WC 2021 banner](img/banner.png)
 
-The **3 Digit World Cup 2021** (***3WC 2021***) was a country-based osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) and ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899). It was the third installment of the 3 Digit World Cup.
+The **3 Digit World Cup 2021** (***3WC 2021***) was a country-based osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) and ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899). It was the third instalment of the 3 Digit World Cup.
 
 ## Tournament schedule
 
@@ -84,6 +84,8 @@ The 3 Digit World Cup was run by various community members.
 | ![][flag_UA] | **Ukraine** | **[Kryterion](https://osu.ppy.sh/users/9920144)**, [1Max](https://osu.ppy.sh/users/11653711), [AlasMO](https://osu.ppy.sh/users/9850229), [gusniki](https://osu.ppy.sh/users/9830628), [Lappen777](https://osu.ppy.sh/users/8274648), [Tooqie](https://osu.ppy.sh/users/9203015) |
 | ![][flag_GB] | **United Kingdom** | **[Voss](https://osu.ppy.sh/users/7657761)**, [Rinnu](https://osu.ppy.sh/users/12179012), [majoreh](https://osu.ppy.sh/users/7959222), [Kingling](https://osu.ppy.sh/users/7010761), [Jemzsee](https://osu.ppy.sh/users/11553627), [Doomsday](https://osu.ppy.sh/users/18983) |
 | ![][flag_US] | **United States** | **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, [Exarch](https://osu.ppy.sh/users/5370153), [Apraxia](https://osu.ppy.sh/users/4194445), [Woey](https://osu.ppy.sh/users/3792472), [Flezlin](https://osu.ppy.sh/users/3696423), [Tekkito](https://osu.ppy.sh/users/7075211) |
+
+## Podium
 
 ![](img/podium.png "3WC 2021 podium")
 

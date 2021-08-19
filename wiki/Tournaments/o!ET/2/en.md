@@ -8,7 +8,7 @@ tags:
 
 ![o!ET 2 logo](img/logo.png)
 
-The **osu! European Tournament 2** (***o!ET 2***) was a 2v2 European double-elimination osu! tournament hosted by ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Planatek](https://osu.ppy.sh/users/4869601), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second installment of the osu! European Tournament.
+The **osu! European Tournament 2** (***o!ET 2***) was a 2v2 European double-elimination osu! tournament hosted by ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Planatek](https://osu.ppy.sh/users/4869601), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second instalment of the osu! European Tournament.
 
 ## Tournament schedule
 
@@ -27,9 +27,9 @@ The **osu! European Tournament 2** (***o!ET 2***) was a 2v2 European double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 year of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 year of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
 ![](img/badge-top.png "o!ET 2 Top Bracket winner badge") ![](img/badge-mid.png "o!ET 2 Middle Bracket winner badge") ![](img/badge-low.png "o!ET 2 Low Bracket winner badge")
 
@@ -143,25 +143,25 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Sruba |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Almost Allies |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | nh9mju0 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Sruba** (![][flag_PL] **[MrBooM](https://osu.ppy.sh/users/1837989)**, ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_PL] [Wakson](https://osu.ppy.sh/users/3048222)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Almost Allies** (![][flag_IT] **[Koba](https://osu.ppy.sh/users/4448118)**, ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **nh9mju0** (![][flag_NO] **[- Markus -](https://osu.ppy.sh/users/8414284)**, ![][flag_BE] [5joshi](https://osu.ppy.sh/users/4279650), ![][flag_NL] [Lazer](https://osu.ppy.sh/users/1799925)) |
 
 ### Middle Bracket
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Makeshift Winners |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | singletap is braindead |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Phoenix Emperors |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Makeshift Winners** (![][flag_BG] **[kiril2011](https://osu.ppy.sh/users/3703793)**, ![][flag_GB] [Chugger](https://osu.ppy.sh/users/4491713), ![][flag_DE] [shycat](https://osu.ppy.sh/users/6263574)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **singletap is braindead** (![][flag_NL] **[Just Lucan](https://osu.ppy.sh/users/5007943)**, ![][flag_PL] [HAEN24](https://osu.ppy.sh/users/4390077), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Phoenix Emperors** (![][flag_PL] **[przepson](https://osu.ppy.sh/users/5420473)**, ![][flag_AT] [Snajper](https://osu.ppy.sh/users/4211027), ![][flag_PL] [Kajcio](https://osu.ppy.sh/users/4578726)) |
 
 ### Low Bracket
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | not even european |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Yes (Yes) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Polish Musketeers |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **not even european** (![][flag_DE] **[\[Shadez\]](https://osu.ppy.sh/users/549954)**, ![][flag_HK] [Nocy](https://osu.ppy.sh/users/4801735), ![][flag_RU] [Liswiera](https://osu.ppy.sh/users/9356954)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Yes (Yes)** (![][flag_FI] **[Lefafel](https://osu.ppy.sh/users/2295850)**, ![][flag_FI] [Yes](https://osu.ppy.sh/users/6567244)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Polish Musketeers** (![][flag_PL] **[MagBlood](https://osu.ppy.sh/users/6178640)**, ![][flag_PL] [Shambles](https://osu.ppy.sh/users/8523882), ![][flag_PL] [2040](https://osu.ppy.sh/users/6052264)) |
 
 ## Mappools
 

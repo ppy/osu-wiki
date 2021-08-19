@@ -10,7 +10,7 @@ tags:
 
 > Third time's the charm!
 
-The **Springtime Osu!mania Free-for-all Tournament 3** (***SOFT 3***) was a 1v1 country-independent 4-key osu!mania tournament. It was the third installment of the Springtime Osu!mania Free-for-all Tournament.
+The **Springtime Osu!mania Free-for-all Tournament 3** (***SOFT 3***) was a 1v1 country-independent 4-key osu!mania tournament. It was the third instalment of the Springtime Osu!mania Free-for-all Tournament.
 
 ## Tournament schedule
 
@@ -33,13 +33,13 @@ The **Springtime Osu!mania Free-for-all Tournament 3** (***SOFT 3***) was a 1v1 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 9 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 9 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
 
 ![](img/badge.png "SOFT3 winner badge")
 
-## Organization
+## Organisation
 
 | Position | Member |
 | :-- | :-- |
@@ -740,7 +740,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This includes the first 2 stages of the tournament after the qualifiers.
 
-#### Bans, rolls and song selection
+#### Bans, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.

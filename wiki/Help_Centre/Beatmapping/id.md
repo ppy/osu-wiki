@@ -19,7 +19,7 @@ tags:
 
 *Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
 
-Laman ini akan membahas berbagai permasalahan yang umum dihadapi seputar proses pembuatan beatmap (*beatmapping*) dan Beatmap Editor yang ada secara garis besar beserta dengan solusinya.
+Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutarakan seputar proses pembuatan beatmap (*beatmapping*) dan penggunaan Beatmap Editor secara garis besar.
 
 ## Bagaimana caranya agar saya dapat mengunggah/memperbarui beatmap milik saya?
 

@@ -7,7 +7,7 @@ tags:
 
 ![TSC logo](img/logo.png)
 
-The **Taiko Suiji Cup** (***TSC***) was a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). Each participant registered individually and was assigned to a random team. It was the first installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup** (***TSC***) was a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). Each participant registered individually and was assigned to a random team. It was the first instalment of the Taiko Suiji Cup.
 
 ## Tournament schedule
 

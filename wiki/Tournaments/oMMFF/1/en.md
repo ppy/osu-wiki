@@ -8,7 +8,7 @@ tags:
 
 ![oMMFF logo](img/logo.png)
 
-The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elimination tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It was the first installment of the osu! Multi Mode French Fiesta.
+The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elimination tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It was the first instalment of the osu! Multi Mode French Fiesta.
 
 ## Tournament schedule
 
@@ -33,7 +33,7 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elim
 | Registration phase | 2018-11-10/2018-12-09 |
 | Live drawings | 2018-12-09 (17:00 UTC) |
 | Qualifiers | 2019-01-05/2019-01-06 |
-| Group Stage | 2019-01-12/2019-01-13 |
+| Group stage | 2019-01-12/2019-01-13 |
 | Round of 12 | 2019-01-19/2019-01-20 |
 | Semifinals | 2019-01-26/2019-01-27 |
 | Finals | 2019-02-02/2019-02-03 |
@@ -68,9 +68,9 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/ "Aukey") keyboard, 10€ PayPal/Amazon balance, physical trophy |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, 10€ PayPal/Amazon balance |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, 10€ PayPal/Amazon balance |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter, [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/ "Aukey") keyboard, 10€ PayPal/Amazon balance, physical trophy |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter, 10€ PayPal/Amazon balance |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, 10€ PayPal/Amazon balance |
 
 ![](img/badge-std.png "oMMFF winner badge (osu!)") ![](img/badge-tko.png "oMMFF winner badge (osu!taiko)") ![](img/badge-ctb.png "oMMFF winner badge (osu!catch)") ![](img/badge-mna.png "oMMFF winner badge (osu!mania)")
 
