@@ -59,7 +59,7 @@ Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Mapp
 
 # Beatmap submission and ranking
 
-Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognized. Discover what it takes to walk this path, and how to increase your chance to succeed: beatmap reviews, quality control, and procedures that help streamline ranking.
+Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognized. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, as well as the procedures for quality control and the ranking process.
 
 [Submission](/wiki/Submission) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
@@ -83,7 +83,7 @@ Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelin
 
 # Help
 
-Answers to frequent questions and solutions to common issues live here. Learn how to deal with network issues, or combat bad behaviour in the community.
+Answers to frequent questions and solutions to common issues live here.
 
 [Help centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_Troubleshooting) • [Account support team](wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
