@@ -13,7 +13,7 @@ Welcome to the osu! wiki, the open-source knowledge base containing a wide range
 
 # Getting started
 
-Important articles and guides which will help you dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5).
+Important articles and guides that will help you dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5).
 
 [Rules](/wiki/Rules) • [Welcome](/wiki/Welcome) • [Installation](/wiki/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_Centre)
 
@@ -24,7 +24,7 @@ Important articles and guides which will help you dive into osu!. In case anythi
 
 # Game client
 
-Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know it better, from various settings, through customization capabilities, to technical details and file formats the game uses.
+Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know the game better from its various settings and customisation capabilities to technical details and file formats it uses.
 
 [Interface](/wiki/Interface) • [Options](/wiki/Options) • [Visual settings](/wiki/Visual_Settings) • [Shortcut key reference](/wiki/Shortcut_key_reference) • [Configuration file](/wiki/osu!_Program_Files/User_Configuration_File) • [Program files](/wiki/osu!_Program_Files)
 
@@ -46,7 +46,7 @@ Everything about clicking circles, striking drums, catching fruits, and playing 
 
 # [Beatmap editor](/wiki/Beatmap_Editor)
 
-All osu! beatmaps are created by its vibrant and dynamic community, blooming with ideas. Always wanted to share your favourite music with others, but never knew how? Familiarize yourself with the built-in editor and the opportunities it has to offer.
+All osu! beatmaps are created by the blooming imagination of its dynamic community. Always wanted to share your favourite music with others, but never knew how? Familiarize yourself with the built-in editor and the opportunities it has to offer.
 
 Sections: [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song setup](/wiki/Beatmap_Editor/Song_Setup)
 
@@ -59,7 +59,7 @@ Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Mapp
 
 # Beatmap submission and ranking
 
-Ranking is the process of obtaining a scoreboard for a beatmap, which makes it more popular and well-recognized. Discover what it takes to walk this path, and how to increase your chance to succeed: beatmap reviews, quality control, and procedures that help streamline ranking.
+Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognized. Discover what it takes to walk this path, and how to increase your chance to succeed: beatmap reviews, quality control, and procedures that help streamline ranking.
 
 [Submission](/wiki/Submission) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
@@ -76,7 +76,7 @@ Read about procedures and regulations that keep osu! and its community safe, fro
 
 Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelines) • [Explicit content](/wiki/Rules/Explicit_Content) • [Song content rules](/wiki/Rules/Song_Content_Rules) • [Visual content considerations](/wiki/Rules/Visual_Content_Considerations)
 
-[Legal pages](/wiki/Legal): [Copyright (DMCA)](/wiki/Legal/Copyright) • [Music licensing](/wiki/Legal/Music_Licensing) • [Privacy](/wiki/Legal/Privacy) • [Terms of Service](/wiki/Legal/Terms)
+[Legal pages](/wiki/Legal): [Terms of Service](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Music licensing](/wiki/Legal/Music_Licensing)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -96,18 +96,18 @@ Do your part: [How and what to help with](/wiki/How_you_can_help!) • [Report b
 
 # Community and projects
 
-Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or organize the next big event!
+Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or help organize the next big event!
 
-[Tournaments](/wiki/Tournaments) • [Featured Artists](/wiki/Featured_Artists) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](wiki/Community_Mentorship_Program)
+[Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](wiki/Community_Mentorship_Program)
 
-[Projects](/wiki/Projects): [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
+[Projects](/wiki/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # People
 
-osu! wouldn't have been possible without many users helping with development, maintenance and community management: their efforts, time, and dedication make the game live and prosper.
+osu! wouldn't have been possible without many users helping with development, maintenance, and community management: their efforts, time, and dedication make the game live and prosper.
 
 [The Team](/wiki/People/The_Team): [Developers](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
