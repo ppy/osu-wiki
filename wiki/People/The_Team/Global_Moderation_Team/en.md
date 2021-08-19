@@ -67,15 +67,18 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | German | Chat moderation |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turkish | Chat moderation |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Chat moderation, forum moderation |
+| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Swedish | Mapping/modding community moderation |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Forum moderation, technical support |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Technical support |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portuguese, Japanese | Chat moderation |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Player support, wiki administration |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinese | Mapping/modding community moderation |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polish | Chat moderation |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chinese | Mapping/modding community moderation |
 | ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding community moderation |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Chat moderation, mapping/modding community moderation |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonese, Chinese, Japanese | Chat moderation |
+| ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | German | Mapping/modding community moderation |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russian | Chat moderation |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japanese | Chat moderation |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Chat moderation |
@@ -83,6 +86,8 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portuguese | Tournament management |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | German | Mapping/modding community moderation |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chinese | Chat moderation |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonese, Chinese | Tournament management |
+| ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portuguese | Mapping/modding community moderation |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! development |
 | ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | Russian | Chat moderation |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Chat moderation, forum moderation |
@@ -109,6 +114,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish | Chat moderation |
 | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | Italian, Romanian | Chat moderation |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | French, Spanish | Chat moderation |
+| ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | Portuguese | Mapping/modding community moderation |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Chat moderation |
 | ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) | Indonesian | Chat moderation |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinese | Chat moderation |
@@ -189,6 +195,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"

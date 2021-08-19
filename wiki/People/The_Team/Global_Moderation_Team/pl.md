@@ -61,15 +61,18 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Niemiecki | Moderowanie czatu |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turecki | Moderowanie czatu |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Hiszpański | Moderowanie czatu, moderowanie forum |
+| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Szwedzki | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Moderowanie forum, pomoc techniczna |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Pomoc techniczna |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugalski, japoński | Moderowanie czatu |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Zarządzanie społecznością, zarządzanie wiki osu! |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chiński | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderowanie czatu |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chiński | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderowanie czatu, moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kantoński, chiński, japoński | Moderowanie czatu |
+| ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Niemiecki | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rosyjski | Moderowanie czatu |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japoński | Moderowanie czatu |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rosyjski | Moderowanie czatu |
@@ -77,6 +80,8 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugalski | Organizowanie turniejów |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Niemiecki | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chiński | Moderowanie czatu |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kantoński, chiński | Organizowanie turniejów |
+| ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portugalski | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Rozwój gry |
 | ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | Rosyjski | Moderowanie czatu |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holenderski | Moderowanie czatu, moderowanie forum |
@@ -103,6 +108,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Szwedzki, hiszpański | Moderowanie czatu |
 | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | Włoski, rumuński | Moderowanie czatu |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Francuski, hiszpański | Moderowanie czatu |
+| ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | Portugalski | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonezyjski | Moderowanie czatu |
 | ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) | Indonezyjski | Moderowanie czatu |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chiński | Moderowanie czatu |
@@ -181,6 +187,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugalia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rosja"
 [flag_SE]: /wiki/shared/flag/SE.gif "Szwecja"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tajlandia"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turcja"
 [flag_TW]: /wiki/shared/flag/TW.gif "Tajwan"

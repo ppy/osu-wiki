@@ -79,14 +79,12 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Alemão, Polonês | Avaliação |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, Francês | Avaliação |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Avaliação |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
-[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Argélia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"

@@ -70,42 +70,47 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Coréen, Japonais | Modération du tchat |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Allemand | Modération du tchat |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turc | Modération du tchat |
-| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Espagnol | Modération du tchat, Modération du forum |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Modération du forum, Support technique |
+| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Espagnol | Modération du tchat, modération du forum |
+| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Suédois | Modération de la communauté modding/mapping |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Modération du forum, support technique |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Support technique |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugais, Japonais | Modération du tchat |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Support aux joueurs, Administration du wiki |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Support aux joueurs, administration du wiki |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinois | Modération de la communauté modding/mapping |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polonais | Modération du tchat |
-| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chinois | Modération de la communauté mapping/modding |
-| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Modération de la communauté mapping/modding |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Modération du tchat, Modération de la communauté mapping/modding |
+| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chinois | Modération de la communauté modding/mapping |
+| ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Modération de la communauté modding/mapping |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Modération du tchat, modération de la communauté modding/mapping |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonais, Chinois, Japonais | Modération du tchat |
+| ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Allemand | Modération de la communauté modding/mapping |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russe | Modération du tchat |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japonais | Modération du tchat |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russe | Modération du tchat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandais | Modération du tchat |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugais | Gestion des tournois |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Allemand | Modération de la communauté mapping/modding |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Allemand | Modération de la communauté modding/mapping |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chinois | Modération du tchat |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | développement d'osu! |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonais, Chinois | Gestion des tournois |
+| ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portugais | Modération de la communauté modding/mapping |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Développement d'osu! |
 | ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | Russe | Modération du tchat |
-| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Néerlandais | Modération du tchat, Modération du forum |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippin | Modération du tchat, Modération du forum, Support technique |
+| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Néerlandais | Modération du tchat, modération du forum |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippin | Modération du tchat, modération du forum, support technique |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Français | Modération du tchat |
-| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Modération de la communauté mapping/modding |
+| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Modération de la communauté modding/mapping |
 | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | Indonésien | Modération du tchat |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Français | Modération du tchat |
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portugais, Espagnol | Modération du tchat |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand | Modération de la communauté mapping/modding |
-| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, Serbe | Modération de la communauté mapping/modding |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand | Modération de la communauté modding/mapping |
+| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, Serbe | Modération de la communauté modding/mapping |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestion des tournois |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français, un peu d'espagnol | Modération du tchat, Modération du forum, Modération de la communauté mapping/modding |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français, un peu de Espagnol | Modération du tchat, modération du forum, modération de la communauté modding/mapping |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugais | Modération du tchat |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, Chinois | Modération du tchat |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Coréen, Japonais | Modération du tchat |
-| ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Modération de la communauté mapping/modding |
+| ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Modération de la communauté modding/mapping |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Espagnol | Modération du tchat |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Allemand | Modération du forum |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Coréen | Modération du tchat |
@@ -113,11 +118,12 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Suédois, Espagnol | Modération du tchat |
 | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | Italien, Roumain | Modération du tchat |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Français, Espagnol | Modération du tchat |
+| ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | Portugais | Modération de la communauté modding/mapping |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonésien | Modération du tchat |
 | ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) | Indonésien | Modération du tchat |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinois | Modération du tchat |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Allemand, Serbe | Modération du tchat, Modération du forum |
-| ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Russe | Modération du tchat, Administration du wiki |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Allemand, Serbe | Modération du tchat, modération du forum |
+| ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Russe | Modération du tchat, administration du wiki |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Coréen, Japonais, Philippin | Modération du tchat |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Philippin | Modération du tchat |
 | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) | Thaïlandais | Modération du tchat |
@@ -125,7 +131,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polonais | Modération du tchat |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | Polonais | Modération du tchat |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polonais | Modération du tchat |
-| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | | Modération du tchat |
+| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Modération du tchat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turc, Allemand | Modération du tchat |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Modération du tchat |
 
@@ -175,9 +181,9 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HM]: /wiki/shared/flag/HM.gif "Île Heard et îles McDonald"
+[flag_HM]: /wiki/shared/flag/HM.gif "Îles Heard et McDonald"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
@@ -189,10 +195,11 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turquie"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
 [flag___]: /wiki/shared/flag/__.gif
