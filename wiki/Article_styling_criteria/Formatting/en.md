@@ -324,14 +324,7 @@ It is possible to redefine a section's identifier, which is used for linking to 
 ## Common restriction reasons and cooldowns {#common-reasons}
 ```
 
-Custom identifiers should be used in case the automatically generated ones are too long or contain tricky punctuation marks. For uniform experience, headings in a translated article must use the same identifiers as these in the original article:
-
-```markdown
-## Chat rules <!-- original heading -->
-## Правила чата {#chat-rules} <!-- translated heading -->
-```
-
-This feature can also be used for tagging a specific part of the article which doesn't have a heading. Use it sparingly:
+Custom identifiers should be used in case the automatically generated ones are too long, contain tricky punctuation marks or images. This feature can also be used for tagging a specific part of the article which doesn't have a heading. Use it sparingly:
 
 ```markdown
 > That's it! You're well on your way to becoming an osu! rhythm champion!
