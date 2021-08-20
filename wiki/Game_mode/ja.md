@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 92d9c98fac5191ce3931d830ca40dbaa3e3a0094
+---
+
 # ゲームモード
 
 osu!には4つの**ゲームモード**があります: [osu!](#-osu!)、[osu!taiko](#-osu!taiko)、[osu!catch](#-osu!catch)、[osu!mania](#-osu!mania)。それぞれがユニークなゲーム性を持ち、他のリズムゲームからヒントを得て作られています。

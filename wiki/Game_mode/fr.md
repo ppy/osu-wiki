@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 92d9c98fac5191ce3931d830ca40dbaa3e3a0094
+---
+
 # Modes de jeu
 
 osu! possède quatre **modes de jeu** : [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch) et [osu!mania](#-osu!mania). Chacun d'entre eux possède des mécanismes de jeu uniques et a été initialement inspiré par d'autres jeux de rythme.
