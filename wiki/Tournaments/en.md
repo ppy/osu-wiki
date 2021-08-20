@@ -255,6 +255,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! UK Tournament 4](OUKT/4) | 2015-01-10 | 2015-08-21 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | N/A |
 | [osu! UK Tournament 5](OUKT/5) | 2015-09-12 | 2016-04-23 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [Kakiage](https://osu.ppy.sh/users/3104031) |
 
+#### osu! Vintage Map Tourney!
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Vintage Map Tourney!](OVMT/1) | 2016-09-01 | 2016-10-03 | ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226) | ![][flag_US] [Catgirl](https://osu.ppy.sh/users/2771995) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| [osu! Vintage Map Tourney 2! Electric Boogaloo!](OVMT/2) | 2017-06-21 | 2017-09-01 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | ![][flag_TW] [Rucker](https://osu.ppy.sh/users/147515) | ![][flag_SI] [krom1](https://osu.ppy.sh/users/4643145) |
+
 #### osu! Z-Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -692,6 +699,7 @@ Unofficial tournaments/competitions hosted by the communities.
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_SI]: /wiki/shared/flag/SI.gif "Slovenia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
