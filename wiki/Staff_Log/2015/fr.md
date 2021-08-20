@@ -106,7 +106,7 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 06/02/2015 :
 - Ajout de [Fycho](https://osu.ppy.sh/users/1876867) : Chat Moderators (12/03/2015)
 - Ajout de [VeilStar](https://osu.ppy.sh/users/4255720) : Support Team (28/03/2015)
 
-### Nouveaux Beatmap Nominators 
+### Nouveaux Beatmap Nominators
 
 Tous les utilisateurs listés ci-dessous ont été ajoutés le 03/03/2015 :
 
@@ -269,4 +269,3 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 02/10/2015 :
 - Transfert de [Garven](https://osu.ppy.sh/users/244216) : osu! Alumni (22/12/2015)
 - Transfert de [lolcubes](https://osu.ppy.sh/users/578401) : osu! Alumni (22/12/2015)
 - Transfert de [Lust](https://osu.ppy.sh/users/2316951) : Quality Assurance Team > osu! Alumni (22/12/2015)
-

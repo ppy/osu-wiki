@@ -5,8 +5,9 @@
 ## Janvier
 
 - Transfert de [James](https://osu.ppy.sh/users/5728) : osu! Alumni > Beatmap Approval Team (25/01/2010)
-- Transfert de [DawnII](https://osu.ppy.sh/users/8399) : osu! Alumni > Beatmap Approval Team (26/01/2010) 
+- Transfert de [DawnII](https://osu.ppy.sh/users/8399) : osu! Alumni > Beatmap Approval Team (26/01/2010)
 - Transfert de [kingcobra52](https://osu.ppy.sh/users/9934) : osu! Alumni > Beatmap Approval Team (27/01/2010)
+
 ## Février
 
 - Ajout de [yaya](https://osu.ppy.sh/users/50163) : Beatmap Approval Team (01/02/2010)
@@ -76,4 +77,3 @@
 - Ajout de [jericho2442](https://osu.ppy.sh/users/88904) : Mapping Assistance Team (03/12/2010)
 - Transfert de [Card N'FoRcE](https://osu.ppy.sh/users/3936) : Mapping Assistance Team > Beatmap Approval Team (23/12/2010)
 - Transfert de [Doomsday](https://osu.ppy.sh/users/18983) : Mapping Assistance Team > Beatmap Approval Team (23/12/2010)
-

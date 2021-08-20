@@ -144,4 +144,3 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 04/11/2016 :
 - [Critical\_Star](https://osu.ppy.sh/users/3793196)
 - [Chromoxx](https://osu.ppy.sh/users/1881639)
 - [snowball112](https://osu.ppy.sh/users/2350722)
-

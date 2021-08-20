@@ -344,4 +344,3 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 27/07/2018 :
 - Ajout de [Hinsvar](https://osu.ppy.sh/users/1249323) : Global Moderation Team (05/12/2018)
 - Transfert de [Elfin](https://osu.ppy.sh/users/1399551) : Global Moderation Team > osu! Alumni (05/12/2018)
 - Retrait de [Backfire](https://osu.ppy.sh/users/263110) : Project Loved Team (31/12/2018)
-

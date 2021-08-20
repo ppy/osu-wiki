@@ -540,4 +540,3 @@ Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont le
 - 28/12/2020 : Retrait de [Dapuluous](https://osu.ppy.sh/users/8140944) : **BN**
 - 29/12/2020 : Retrait de [Xinely](https://osu.ppy.sh/users/1521445) : **BN**
 - 30/12/2020 : Retrait de [Myxo](https://osu.ppy.sh/users/2202645) : **BN**
-

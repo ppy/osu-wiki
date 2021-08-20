@@ -322,4 +322,3 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 02/12/2014 :
 - [Sieg](https://osu.ppy.sh/users/1404615)
 - [wcx19911123](https://osu.ppy.sh/users/376831)
 - [xxdeathx](https://osu.ppy.sh/users/3034880)
-

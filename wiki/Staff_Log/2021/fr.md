@@ -378,4 +378,3 @@ Les  abréviations des groupes d'utilisateurs utilisées dans ce registre sont l
 - 13/08/2021 : Retrait de [Lirai](https://osu.ppy.sh/users/3734394) : **BN**
 - 17/08/2021 : Retrait de [Default Guy](https://osu.ppy.sh/users/7058457) : **Probationary BN**
 - 17/08/2021 : Retrait de [CallieCube](https://osu.ppy.sh/users/7535045) : **Probationary BN**
-

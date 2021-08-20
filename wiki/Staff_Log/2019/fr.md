@@ -333,4 +333,3 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 16/02/2019 :
 - Retrait de [Yukiyo](https://osu.ppy.sh/users/4541873) : Beatmap Nominators - démission (27/12/2019)
 - Ajout de [frukoyurdakul](https://osu.ppy.sh/users/7612550) : Probationary Beatmap Nominators (28/12/2019)
 - Ajout de [Volta](https://osu.ppy.sh/users/4154071) : Probationary Beatmap Nominators (28/12/2019)
-

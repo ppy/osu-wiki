@@ -149,4 +149,3 @@ Tous les utilisateurs listés ci-dessous ont été ajoutés le 11/12/2017 :
 ### Retrait : Beatmap Nominators
 
 - [Monstrata](https://osu.ppy.sh/users/2706438) - un comportement peu glorieux sur de longues périodes de temps (19/12/2017)
-

@@ -30,7 +30,7 @@
 
 ## Septembre
 
-- Transfert de [mtmcl](https://osu.ppy.sh/users/5960) : Beatmap Appreciation Team > osu! Alumni (11/09/2011) 
+- Transfert de [mtmcl](https://osu.ppy.sh/users/5960) : Beatmap Appreciation Team > osu! Alumni (11/09/2011)
 - Ajout de [Krisom](https://osu.ppy.sh/users/99269) : Beatmap Appreciation Team (17/09/2011)
 - Ajout de [RandomJibberish](https://osu.ppy.sh/users/157879) : Beatmap Appreciation Team (17/09/2011)
 - Transfert de [Sakura Hana](https://osu.ppy.sh/users/289422) : Mapping Assistance Team > Beatmap Appreciation Team (17/09/2011)
@@ -44,8 +44,8 @@
 
 ## Octobre
 
-- Transfert de [Card N'FoRcE](https://osu.ppy.sh/users/3936) : Beatmap Appreciation Team > osu! Alumni (03/10/2011) 
-- Transfert de [deepsea](https://osu.ppy.sh/users/7824) : Global Mod Team > osu! Alumni (10/10/2011) 
+- Transfert de [Card N'FoRcE](https://osu.ppy.sh/users/3936) : Beatmap Appreciation Team > osu! Alumni (03/10/2011)
+- Transfert de [deepsea](https://osu.ppy.sh/users/7824) : Global Mod Team > osu! Alumni (10/10/2011)
 
 ## Décembre
 
@@ -58,5 +58,4 @@
 - Transfert de [Odaril](https://osu.ppy.sh/users/113005) : Mapping Assistance Team > Beatmap Appreciation Team (08/12/2011)
 - Ajout de [Charles445](https://osu.ppy.sh/users/85000) : Mapping Assistance Team (08/12/2011)
 - Ajout à nouveau de [Agnes](https://osu.ppy.sh/users/136982) : Mapping Assistance Team (08/12/2011)
-- Transfert de [Mogsy](https://osu.ppy.sh/users/4018) : Beatmap Appreciation Team > osu! Alumni (15/12/2011) 
-
+- Transfert de [Mogsy](https://osu.ppy.sh/users/4018) : Beatmap Appreciation Team > osu! Alumni (15/12/2011)
