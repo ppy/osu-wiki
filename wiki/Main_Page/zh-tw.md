@@ -15,7 +15,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # 入門
 
-[歡迎](/wiki/Welcome) • [安裝](/wiki/Installation) • [註冊](/wiki/Registration) • [幫助中心](/wiki/Help_Centre) • [問與答](/wiki/FAQ)
+[安裝](/wiki/Installation) • [註冊](/wiki/Registration) • [幫助中心](/wiki/Help_Centre) • [問與答](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

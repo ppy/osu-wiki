@@ -13,7 +13,7 @@ Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informaç�
 
 # Introdução
 
-[Bem-vindo](/wiki/Welcome) • [Instalação](/wiki/Installation) • [Registro](/wiki/Registration) • [Central de Ajuda](/wiki/Help_Centre) • [Perguntas Frequentes](/wiki/FAQ)
+[Instalação](/wiki/Installation) • [Registro](/wiki/Registration) • [Central de Ajuda](/wiki/Help_Centre) • [Perguntas Frequentes](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
