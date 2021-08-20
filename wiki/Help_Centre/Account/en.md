@@ -90,7 +90,7 @@ Some VPN providers and proxy servers simply do not work with osu! for whatever r
 
 **We'll need a `network.log` file from you to figure out what's going on if neither of the above solutions work.**
 
-For information on how to get a network.log file to send to us, see [log files](/wiki/Help_Centre#log_files).
+For information on how to get a `network.log` file to send to us, see [Help Centre § Log files](/wiki/Help_Centre#log-files).
 
 Rarely, you might need to contact your Internet Service Provider (ISP) to inquire about these problems. Certain ISPs have historically had issues connecting to osu!, usually due to poor routing.
 
@@ -130,7 +130,7 @@ If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home
 
 At any point thereafter, you may purchase a [username change](https://osu.ppy.sh/store/products/32) to change your username to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
-Please note that usernames must abide by our [Community Rules](/wiki/Rules) in that they must not be broadly offensive to other users, overly provocative or otherwise inflammatory in any way. In addition, usernames that impersonate or assume the identity of major public figures (such as celebrities, politicians, etc.) are not allowed and will be forcefully reverted once we find out about them.
+Please note that usernames must abide by our [community rules](/wiki/Rules#community-rules) in that they must not be broadly offensive to other users, overly provocative or otherwise inflammatory in any way. In addition, usernames that impersonate or assume the identity of major public figures (such as celebrities, politicians, etc.) are not allowed and will be forcefully reverted once we find out about them.
 
 If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
 
@@ -222,6 +222,6 @@ If you are playing from a public place, make sure to keep a close eye on your ac
 
 **You can see all maps you've played on the website.**
 
-**If you have an active supporter tag**, you can see all maps you have submitted a score on by going to the [beatmap list page](https://osu.ppy.sh/beatmapsets), clicking `More Search Options`, then selecting the `Played` filter. Alternatively, you can use [this link](https://osu.ppy.sh/beatmapsets?played=played) to access the filtered page directly.
+**If you have an active supporter tag**, you can see all maps you have submitted a score on by going to the [beatmap list page](https://osu.ppy.sh/beatmapsets), clicking `More Search Options`, then selecting the `Played` filter. Alternatively, you can [the filtered page](https://osu.ppy.sh/beatmapsets?played=played) directly.
 
 Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
