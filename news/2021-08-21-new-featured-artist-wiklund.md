@@ -25,7 +25,7 @@ Experience some of **Wiklund**'s music for yourself with this 2009 map of [*Bill
 Check out [the beatmap from the video above](https://osu.ppy.sh/beatmapsets/9040) hosted by [yeahyeahyeahhh](https://osu.ppy.sh/users/58042) and [this other beatmap](https://osu.ppy.sh/beatmapsets/22082) hosted by [IceBeam](https://osu.ppy.sh/users/208440)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/192/Wing%20Beats%2FWiklund%20-%20Billy%20Boogie.mp3" type="audio/mpeg">
 </audio>
 
 ### Whip the Blip
@@ -33,7 +33,7 @@ Check out [the beatmap from the video above](https://osu.ppy.sh/beatmapsets/9040
 Play through [another classic beatmap](https://osu.ppy.sh/beatmapsets/8299) hosted by [Ultimate](https://osu.ppy.sh/users/53940)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/192/Wing%20Beats%2FWiklund%20-%20Whip%20the%20Blip.mp3" type="audio/mpeg">
 </audio>
 
 ### Joy of Living
@@ -41,7 +41,7 @@ Play through [another classic beatmap](https://osu.ppy.sh/beatmapsets/8299) host
 Try out [this beatmap](https://osu.ppy.sh/beatmapsets/9197) by [0_o](https://osu.ppy.sh/users/56708)! People had some interesting usernames 10 years ago.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/192/Wing%20Beats%2FWiklund%20-%20Joy%20of%20Living.mp3" type="audio/mpeg">
 </audio>
 
 ### The Digital Force
@@ -49,7 +49,7 @@ Try out [this beatmap](https://osu.ppy.sh/beatmapsets/9197) by [0_o](https://osu
 Enjoy [yet another beatmap](https://osu.ppy.sh/beatmapsets/11153) by [Metroid](https://osu.ppy.sh/users/10542)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/192/Wing%20Beats%2FWiklund%20-%20The%20Digital%20Force.mp3" type="audio/mpeg">
 </audio>
 
 ### Wing Beats
@@ -57,7 +57,7 @@ Enjoy [yet another beatmap](https://osu.ppy.sh/beatmapsets/11153) by [Metroid](h
 Have fun with [the first ranked **Wiklund** map](https://osu.ppy.sh/beatmapsets/6499) hosted by [v0xtrot](https://osu.ppy.sh/users/52832)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/192/Wing%20Beats%2FWiklund%20-%20Wing%20Beats.mp3" type="audio/mpeg">
 </audio>
 
 ### Crystal Dimension
@@ -65,12 +65,12 @@ Have fun with [the first ranked **Wiklund** map](https://osu.ppy.sh/beatmapsets/
 Last but not least, check out [this beatmap](https://osu.ppy.sh/beatmapsets/11100) hosted by [GladiOol](https://osu.ppy.sh/users/23326)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/192/Songs%2FWiklund%20-%20Crystal%20Dimension.mp3" type="audio/mpeg">
 </audio>
 
 ---
 
-Surprising absolutely nobody, even more of **Wiklund**'s music can be found on [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/192)! Will you be the first person to make a dissonant slider-heavy tech map over retro chiptune music? Nobody's asking for it, but we'll wish you luck anyway.
+Surprising absolutely nobody, even more of **Wiklund**'s music can be found on [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/192)! Will you be the first person to make a dissonant slider-heavy tech map over retro chiptune music? Nobody's asking for it, but we'll wish you luck anyway.
 
 That's all for this week! Next week we'll be jumping back with a couple Japanese artists with polar opposite genres to showcase. Stay tuned to the [@osugame Twitter](https://twitter.com/osugame) for updates on that and we'll see you soon!
 
