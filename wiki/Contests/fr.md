@@ -224,7 +224,6 @@ Les *concours non officiels* sont des concours organisés par les membres de la 
 
 ### osu! Beatmapping World Championship
 
-
 Le **osu! Beatmapping World Championship** est un concours de mapping par équipe où les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/Featured_Artists) pendant son déroulement.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
