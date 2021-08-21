@@ -15,14 +15,14 @@ La **osu! Mapping Olympiad** est un concours de mapping destiné à tous les mod
 
 ## Règles
 
-*Note: Veuillez garder à l'esprit que les règles sont susceptibles de changer par rapport aux restrictions des éditions du tournoi.*
+*Note : Veuillez garder à l'esprit que les règles sont susceptibles de changer par rapport aux restrictions des éditions du tournoi.*
 
-- Chaque participation doit suivre les [Critères de classement](/wiki/Ranking_Criteria). Les participations ne respectant pas les Critères de classement se verront obtenir des pénalités, allant du retrait de points à la disqualification en fonction de la gravité.
+- Chaque participation doit suivre les [critères de classement](/wiki/Ranking_Criteria). Les participations ne respectant pas les critères de classement se verront obtenir des pénalités, allant du retrait de points à la disqualification en fonction de la gravité.
 - Le dépôt des beatmaps ne doit pas excéder 15Mo.
-- Les Storyboards ne seront pas pris en compte dans le processus de jugement.
+- Les storyboards ne seront pas pris en compte dans le processus de jugement.
 - L'usage des [hitsounds](/wiki/Beatmapping/Hitsound) personnalisés est autorisé.
 - La collaboration entre mappeurs sur les participations sont interdites. 
-- Les beatmaps créées pour le concours ne doivent pas êtres publiées via le [Système de publication des beatmaps](/wiki/Submission) (BSS) jusqu'à ce que le concours soit terminé, et les résultats annoncés.
+- Les beatmaps créées pour le concours ne doivent pas êtres publiées via le [Beatmap Submission System](/wiki/Submission) (BSS) jusqu'à ce que le concours soit terminé, et les résultats annoncés.
   
 ## Précédentes éditions
 
@@ -42,14 +42,14 @@ Les classements ci-dessous montrent le top 3 des participants pour chaque éditi
 
 Dans l'osu! Mapping Olympiad, les réscompenses sont octroyées sous formes d'un système de points.
 
-- **Gagnant du concours**: 6 points
-- **Seconde place**: 4 points
-- **Troisième place**: 2 points
+- **Gagnant du concours** : 6 points
+- **Seconde place** : 4 points
+- **Troisième place** : 2 points
 
 À partir d'un certain nombre de points, le participant peut se voir obtenir des récompenses uniques :
 
-- À partir de la deuxième édition, le gagnant dispose d'un titre de profil *Mappeur d'Élite*.
-- Chaque participant se trouvant sur le podium obtient une étiquette **osu! supporter de deux, trois, ou quatres mois, en fonction du classement**.
+- À partir de la deuxième édition, le gagnant dispose d'un titre de profil *Elite Mapper*.
+- Chaque participant se trouvant sur le podium obtient un tag **osu! supporter de deux, trois, ou quatre mois, en fonction du classement**.
 - Lorsqu'un participant gagne 6 points, il se voit récompensé d'un **badge de profil**, qui peut s'améliorer 5 fois à chaque fois qu'un participant aura récolté 6 points en tout.
 
 ![](https://assets.ppy.sh/profile-badges/olympiad-1star-b.jpg "Olympien du Mapping Niveau 1") ![](https://assets.ppy.sh/profile-badges/olympiad-2star.jpg "Olympien du Mapping Niveau 2") ![](https://assets.ppy.sh/profile-badges/olympiad-3star.jpg "Olympien du Mapping Niveau 3") ![](https://assets.ppy.sh/profile-badges/olympiad-4star.jpg "Olympien du Mapping Niveau 4") ![](https://assets.ppy.sh/profile-badges/olympiad-5star.jpg "Olympien du Mapping Niveau 5")
