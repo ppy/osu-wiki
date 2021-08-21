@@ -16,7 +16,7 @@ Benvenuto alla wiki di osu!, un progetto contenente un'ampia gamma di informazio
 
 # Iniziamo
 
-[Benvenuto](/wiki/Welcome) • [Registrazione](/wiki/Registration) • [Installazione](/wiki/Installation) • [Interfaccia di Gioco](/wiki/Interface) • [Opzioni di Gioco](/wiki/Options) • [Fonte Scorciatoie da Tasitera](/wiki/Shortcut_key_reference) • [Mappa del Sito](/wiki/Sitemap) • [Guide](/wiki/Guides) • [Centro di Aiuto](/wiki/Help_Centre)
+[Registrazione](/wiki/Registration) • [Installazione](/wiki/Installation) • [Interfaccia di Gioco](/wiki/Interface) • [Opzioni di Gioco](/wiki/Options) • [Fonte Scorciatoie da Tasitera](/wiki/Shortcut_key_reference) • [Mappa del Sito](/wiki/Sitemap) • [Guide](/wiki/Guides) • [Centro di Aiuto](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">

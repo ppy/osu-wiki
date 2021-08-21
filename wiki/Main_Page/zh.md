@@ -13,7 +13,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # 入门
 
-[欢迎](/wiki/Welcome) • [安装](/wiki/Installation) • [注册](/wiki/Registration) • [帮助中心](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[安装](/wiki/Installation) • [注册](/wiki/Registration) • [帮助中心](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

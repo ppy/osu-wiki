@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 92d9c98fac5191ce3931d830ca40dbaa3e3a0094
+---
+
 # Oyun modu
 
 osu! dört **oyun moduna** sahiptir: [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch), ve [osu!mania](#-osu!mania). Her biri benzersiz oyun mekaniklerine sahiptir ve özünde diğer ritim oyunlarından ilham alınmıştır.

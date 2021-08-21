@@ -255,6 +255,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! UK Tournament 4](OUKT/4) | 2015-01-10 | 2015-08-21 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | N/A |
 | [osu! UK Tournament 5](OUKT/5) | 2015-09-12 | 2016-04-23 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [Kakiage](https://osu.ppy.sh/users/3104031) |
 
+#### osu! Vintage Map Tourney!
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Vintage Map Tourney!](OVMT/1) | 2016-09-01 | 2016-10-03 | ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226) | ![][flag_US] [Catgirl](https://osu.ppy.sh/users/2771995) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| [osu! Vintage Map Tourney 2! Electric Boogaloo!](OVMT/2) | 2017-06-21 | 2017-09-01 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | ![][flag_TW] [Rucker](https://osu.ppy.sh/users/147515) | ![][flag_SI] [krom1](https://osu.ppy.sh/users/4643145) |
+
 #### osu! Z-Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -546,6 +553,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania 4K Chinese National Cup 2019](MCNC/2019) | 2019-06-19 | 2019-08-12 | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
+| [osu!mania 4K Chinese National Cup 2020](MCNC/2020) | 2020-04-27 | 2020-06-28 | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) | ![][flag_CN] [Kakuko](https://osu.ppy.sh/users/10413362) | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
+| [osu!mania 4K Chinese National Cup 2021](MCNC/2021) | 2021-04-05 | 2021-06-06 | ![][flag_CN] [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) | ![][flag_CN] [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
 
 #### osu!mania Asian's Champions
 
@@ -692,6 +701,7 @@ Unofficial tournaments/competitions hosted by the communities.
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_SI]: /wiki/shared/flag/SI.gif "Slovenia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"

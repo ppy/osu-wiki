@@ -53,7 +53,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 ### 准确率
 
-*又见: [准确率](/wiki/Accuracy)*
+*又见: [准确率](/wiki/Gameplay/Accuracy)*
 
 *准确率* 是一个权衡玩家准时击中[物件](/wiki/Hit_object)能力的百分值；它也是一项和pp算法相关的衡量玩家在谱面中某项表现的标准。
 

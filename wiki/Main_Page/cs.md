@@ -14,7 +14,7 @@ Vítejte na osu! wiki, projekt obsahující širokou škálu osu! související 
 
 # Začínáme
 
-[Vítejte](/wiki/Welcome) • [Instalace](/wiki/Installation) • [Registrace](/wiki/Registration) • [Centrum nápovědy](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Instalace](/wiki/Installation) • [Registrace](/wiki/Registration) • [Centrum nápovědy](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -13,7 +13,7 @@ Willkommen zum osu!-Wiki. Ein Projekt, das eine große Reichweite an osu!-basier
 
 # Erste Schritte
 
-[Willkommen](/wiki/Welcome) • [Installation](/wiki/Installation) • [Registrierung](/wiki/Registration) • [Hilfe-Center](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Installation](/wiki/Installation) • [Registrierung](/wiki/Registration) • [Hilfe-Center](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

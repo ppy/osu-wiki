@@ -15,7 +15,7 @@ Welcome to the osu! wiki, the open-source knowledge base containing a wide range
 
 Important articles and guides that will help you dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5).
 
-[Rules](/wiki/Rules) • [Welcome](/wiki/Welcome) • [Installation](/wiki/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_Centre)
+[Rules](/wiki/Rules) • [Installation](/wiki/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_Centre)
 
 [Chat console](/wiki/Chat_Console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides) • [Glossary](/wiki/Glossary)
 
@@ -72,7 +72,7 @@ Ranking is the process of obtaining a leaderboard for a beatmap, which makes it 
 
 Read about procedures and regulations that keep osu! and its community safe, from music licensing and media guidelines to chat and forum rules.
 
-[Rules](/wiki/Rules) • [Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) • [Code of Conduct for modding and mapping](wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Rules](/wiki/Rules) • [Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) • [Code of Conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelines) • [Explicit content](/wiki/Rules/Explicit_Content) • [Song content rules](/wiki/Rules/Song_Content_Rules) • [Visual content considerations](/wiki/Rules/Visual_Content_Considerations)
 
@@ -85,7 +85,7 @@ Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelin
 
 Answers to frequent questions and solutions to common issues live here.
 
-[Help centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_Troubleshooting) • [Account support team](wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
+[Help centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_Troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
 Profile restrictions: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_Centre/Account_Restrictions)
 
@@ -98,7 +98,7 @@ Do your part: [How and what to help with](/wiki/How_you_can_help!) • [Report b
 
 Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or help organize the next big event!
 
-[Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](wiki/Community_Mentorship_Program)
+[Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community_Mentorship_Program)
 
 [Projects](/wiki/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
 
@@ -131,7 +131,7 @@ Interact with osu! via other applications and media, or help it grow further.
 
 Just as almost everything out here, the osu! wiki is written and maintained by volunteers. Suggest an improvement, report an issue, or even write your own article at the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki "osu! wiki at GitHub").
 
-[History of osu!](/wiki/History_of_osu!) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/Mapping_and_Modding_Timeline) • [April Fools](wiki/History_of_osu!/April_Fools)
+[History of osu!](/wiki/History_of_osu!) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
 [Sitemap](/wiki/Sitemap) • [Contribution guide](/wiki/osu!_wiki_Contribution_Guide) • [Article styling criteria](/wiki/Article_Styling_Criteria) • [News styling criteria](/wiki/News_Styling_Criteria)
 

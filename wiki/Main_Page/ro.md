@@ -14,7 +14,7 @@ Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informa
 
 # Noțiuni de bază
 
-[Bun venit](/wiki/Welcome) • [Instalare](/wiki/Installation) • [Înregistrare](/wiki/Registration) • [Centrul de ajutor](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Instalare](/wiki/Installation) • [Înregistrare](/wiki/Registration) • [Centrul de ajutor](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
