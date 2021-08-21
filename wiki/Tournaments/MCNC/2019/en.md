@@ -2,6 +2,7 @@
 tags:
   - MCNC
   - MCNC2019
+  - MCNC 2019
 ---
 
 # osu!mania 4K Chinese National Cup 2019
