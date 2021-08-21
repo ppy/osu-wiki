@@ -529,7 +529,7 @@ Observações:
   - A imagem do elemento é automaticamente invertida horizontalmente se o stage estiver de cabeça para baixo.
 - Este elemento sempre aparece antes de um mapa começar, se tiver tempo suficiente.
 
-### Lighting
+### Iluminação
 
 `lightingL.png`
 
