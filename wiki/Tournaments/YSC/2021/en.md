@@ -77,7 +77,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_] [tbd]() |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_] [tbd]() |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_] [tbd]() |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
 | *4th place* | ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950) |
 
 ## Mappools
@@ -302,19 +302,19 @@ This competition has come to an end and resulted in the following podium:
 
 #### Grand Final
 
-Sunday, 15 August 2021:
+Sunday, 22 August 2021:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Mathi ![][flag_CL] | score | score | ![][flag_] username | [#1]() |
+| Mathi ![][flag_CL] | score | score | ![][flag_AU] rushia1 | [#1]() |
 
 #### Losers Final
 
-Saturday, 14 August 2021:
+Saturday, 21 August 2021:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| rushia1 ![][flag_AU] | score | score | ![][flag_GB] Bubbleman | [#1]() |
+| **rushia1** ![][flag_AU] | **7** | 5 | ![][flag_GB] Bubbleman | [#1](https://osu.ppy.sh/community/matches/89607856) |
 
 ### Finals
 
