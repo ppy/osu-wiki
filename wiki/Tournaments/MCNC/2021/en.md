@@ -35,7 +35,7 @@ The **osu!mania 4K Chinese National Cup 2021** (***MCNC 2021***) was a country-b
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 1,500, 2 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 800, 1 month of osu!supporter |
 
-![MCNC 2021 winner badge](img/badge.png)
+![](img/badge.png "MCNC 2021 winner badge")
 
 ## Organisation
 
@@ -90,7 +90,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 | #24 | ![][flag_HK] [Yana Feiya](https://osu.ppy.sh/users/7802517) |
 | #25 | ![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881) |
 | #26 | ![][flag_CN] [Sern888](https://osu.ppy.sh/users/2089244) |
-| #27 | ![][flag_MO] [\[Crz\]macaoleaf](https://osu.ppy.sh/users/7082716) | 
+| #27 | ![][flag_MO] [\[Crz\]macaoleaf](https://osu.ppy.sh/users/7082716) |
 | #28 | ![][flag_CN] [spensll](https://osu.ppy.sh/users/4547744) |
 | #29 | ![][flag_CN] [\[Paw\]Chuixing](https://osu.ppy.sh/users/14906054) |
 | #30 | ![][flag_TW] [Ha0201](https://osu.ppy.sh/users/12243730) |
@@ -248,7 +248,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 | **\[Crz\]Caicium** | **7** | 5 | \[Crz\]sunnyxxy | [#1](https://osu.ppy.sh/community/matches/85929706) |
 | **\[Crz\]sunnyxxy** | **7** | 3 | yuwenhao1 | [#1](https://osu.ppy.sh/community/matches/86292551) |
 | \[Crz\]Caicium | 4 | **7** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/86361944) |
-| \[Crz\]Caicium | 3 | **7** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/86365187) 
+| \[Crz\]Caicium | 3 | **7** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/86365187) |
 
 ### Semifinals
 
@@ -321,7 +321,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 | **\[Rweiru\]** | **5** | 1 | gzdongsheng | [#1](https://osu.ppy.sh/community/matches/81759366) |
 | shade0214 | 1 | **5** | **\[Crz\]Liusecy** | [#1](https://osu.ppy.sh/community/matches/81758857) |
 | Joylintp | 2 | **5** | **\[Crz\]sunnyxxy** | [#1](https://osu.ppy.sh/community/matches/81761705) |
-| spensll | 0 | **5** |**\[Crz\]Liusecy** | [#1](https://osu.ppy.sh/community/matches/81761677) |
+| spensll | 0 | **5** | **\[Crz\]Liusecy** | [#1](https://osu.ppy.sh/community/matches/81761677) |
 | **\[Rweiru\]** | **5** | 3 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/81763496) |
 | \[1552828\] | 2 | **5** | **\[Crz\]Liusecy** | [#1](https://osu.ppy.sh/community/matches/81765240) |
 | **U1d** | **5** | 0 | \[Crz\]Makii | [#1](https://osu.ppy.sh/community/matches/81831190) |
