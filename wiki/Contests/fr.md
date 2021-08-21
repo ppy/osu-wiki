@@ -233,7 +233,7 @@ Le **osu! Beatmapping World Championship** est un concours de mapping par équip
 
 ### Pending Cup
 
-La **Pending Cup** est un concours de mapping organisé chaque année par des membres éminents de la communauté chinoise de mapping. musique et/ou catégories dans lesquelles les mappeurs de toute la communauté sont libres de concourir et de soumettre leurs entrées.
+La **Pending Cup** est un concours de mapping organisé chaque année par des membres éminents de la communauté sinophone de mapping. musique et/ou catégories dans lesquelles les mappeurs de toute la communauté sont libres de concourir et de soumettre leurs entrées.
 
 Bien que la Pending Cup ait été initialement destinée principalement aux membres de la communauté chinoise, le concours a depuis été élargi afin d'intégrer les contributions d'autres mappeurs du monde entier.
 
@@ -374,7 +374,7 @@ La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mai
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgarie"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
-[flag_BY]: /wiki/shared/flag/BY.gif "Bélarus"
+[flag_BY]: /wiki/shared/flag/BY.gif "Biélorussie"
 [flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
@@ -399,7 +399,7 @@ La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mai
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
 [flag_PA]: /wiki/shared/flag/PA.gif "Panama"
 [flag_PE]: /wiki/shared/flag/PE.gif "Pérou"
-[flag_PH]: /wiki/shared/flag/PH.gif "Phillipine"
+[flag_PH]: /wiki/shared/flag/PH.gif "Phillipines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
