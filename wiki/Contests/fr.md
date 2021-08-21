@@ -308,7 +308,7 @@ Bien que la Pending Cup ait été initialement destinée principalement aux memb
 
 ### Newspaper Cup
 
-La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mais qui met davantage l'accent sur les mappeurs débutants. Comme pour la Pending Cup, le concours est également organisé chaque année par des membres éminents de la communauté chinoise de mapping et est passé d'un concours particulièrement destiné aux membres de la communauté chinoise à un concours d'envergure mondiale.
+La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mais qui met davantage l'accent sur les mappeurs débutants. Comme pour la Pending Cup, le concours est également organisé chaque année par des membres éminents de la communauté sinophone de mapping et est passé d'un concours particulièrement destiné aux membres de la communauté sinophone à un concours d'envergure mondiale.
 
 #### [Newspaper Cup \#1 (2015)](https://osu.ppy.sh/community/forums/topics/272739)
 
