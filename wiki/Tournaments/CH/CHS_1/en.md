@@ -247,7 +247,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (71 MB)](http://www.mediafire.com/file/ymmc53rkwsjz65t/Qualifiers_Pool.rar/file "MediaFire")**
+**[Download the mappack here! (71 MB)](https://www.mediafire.com/file/ymmc53rkwsjz65t/Qualifiers_Pool.rar/file "MediaFire")**
 
 - NoMod
   - [nano - DREAMCATCHER (Depths) \[Destiny\]](https://osu.ppy.sh/beatmapsets/802148#osu/1683581)

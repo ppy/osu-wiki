@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (159 MB)](http://www.mediafire.com/file/8efiufeeekqvc92/OTC+%232+Finals+Mappool.zip "MediaFire")**
+**[Download the mappack here! (159 MB)](https://www.mediafire.com/file/8efiufeeekqvc92/OTC+%232+Finals+Mappool.zip "MediaFire")**
 
 - NoMod
   - [lapix - Labyrinth (Akali) \[Who's the fucking gangster?\]](https://osu.ppy.sh/beatmapsets/615878#osu/1299008)
@@ -149,7 +149,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (112 MB)](http://www.mediafire.com/file/wgait7rkr0fmg6o/OTC+%232+Semifinals+Mappool.zip "MediaFire")**
+**[Download the mappack here! (112 MB)](https://www.mediafire.com/file/wgait7rkr0fmg6o/OTC+%232+Semifinals+Mappool.zip "MediaFire")**
 
 - NoMod
   - [Hommarju - Rock It (toybot) \[Blast Off\]](https://osu.ppy.sh/beatmapsets/700421#osu/1484308)
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/kfj2yg3mek1og6e/OTC+%232+Quarterfinals+Mappool.zip "MediaFire")**
+**[Download the mappack here! (153 MB)](https://www.mediafire.com/file/kfj2yg3mek1og6e/OTC+%232+Quarterfinals+Mappool.zip "MediaFire")**
 
 - NoMod
   - [succducc - me & u (Nathan) \[together\]](https://osu.ppy.sh/beatmapsets/699749#osu/1481624)
@@ -201,7 +201,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (117 MB)](http://www.mediafire.com/file/hffn6onh89b658x/OTC+%232+Ro16+Mappool.zip "MediaFire")**
+**[Download the mappack here! (117 MB)](https://www.mediafire.com/file/hffn6onh89b658x/OTC+%232+Ro16+Mappool.zip "MediaFire")**
 
 - NoMod
   - [Nekomata Master+ - Proof of the existence (Alheak) \[Expert\]](https://osu.ppy.sh/beatmapsets/427864#osu/923589)
@@ -213,7 +213,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   - [Reol - FLASH BACK (Nathan) \[BLACKOUT\]](https://osu.ppy.sh/beatmapsets/409397#osu/888715)
   - [Zekk - Calling (Mirash) \[Mirash's Another\]](https://osu.ppy.sh/beatmapsets/673878#osu/1427700)
-  - [a\_hisa - Fanatiker der Liebe \[Extra\]](http://osu.uu.gl/s/167091)
+  - a\_hisa - Fanatiker der Liebe \[Extra\]
 - HardRock
   - [syrela - Pulsation (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/677886#osu/1433497)
   - [Powerless - Soleil (DTM9 Nowa, \_DT3) \[#3: DTM9 Nowa & \_DT3\]](https://osu.ppy.sh/beatmapsets/721494#osu/1524297)
@@ -227,10 +227,10 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (153 MB)](http://www.mediafire.com/file/7sesz4tdhk3e3jn/OTC+%232+Group+Stage+Mappool.zip "MediaFire")**
+**[Download the mappack here! (153 MB)](https://www.mediafire.com/file/7sesz4tdhk3e3jn/OTC+%232+Group+Stage+Mappool.zip "MediaFire")**
 
 - NoMod
-  - [Sota Fujimori - WOBBLE IMPACT \[Black Another\]](http://osu.uu.gl/s/166337)
+  - Sota Fujimori - WOBBLE IMPACT \[Black Another\]
   - [akari - boys, be "stand up"!! (Hollow Wings, Tsukuyomi) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/177585#osu/427455)
   - [Zips - Reiwai Terrorism (Broccoly) \[Distortion\]](https://osu.ppy.sh/beatmapsets/101953#osu/269773)
   - [Blaster & Extra Terra - Spacecraft (Hobbes2) \[Hobbes2's Extra\]](https://osu.ppy.sh/beatmapsets/712901#osu/1543913)

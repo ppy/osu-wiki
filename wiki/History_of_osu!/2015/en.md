@@ -65,7 +65,7 @@ The Chat Moderators were officially merged into the Global Moderation Team (GMT)
 
 The old FPS counter was replaced with a new "refresh and latency display" on 2 September 2015. This new display would still display the current FPS (frames per second), but the new change caused it to hide from view if it exceeded 500 FPS. In addition, a new counter was added below the FPS counter that would display exactly how much latency was being introduced during frame rendering (measured in milliseconds). "Stuttered" or "dropped" frames would be shown as coloured rectangles to the left of the counter to better visualise exactly how much frame render latency a user was experiencing [[26,27]][r].
 
-On 26 September 2015, [cYsmix](http://cysmix.com/ "cysmix.com") became one of the first official osu! artists. This partnership entailed the creation of three tracks made specifically for osu!, along with the creation of a mapping contest using those tracks. The aforementioned four tracks were as follows:
+On 26 September 2015, [cYsmix](https://cysmix.com/ "cysmix.com") became one of the first official osu! artists. This partnership entailed the creation of three tracks made specifically for osu!, along with the creation of a mapping contest using those tracks. The aforementioned four tracks were as follows:
 
 - ["Manic"](https://soundcloud.com/olemlanglie/cysmix-manic-osu)
 - ["House with Legs"](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-osu)

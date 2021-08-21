@@ -179,7 +179,7 @@ This song pack features four songs by SoulEye, all of which are featured in the 
 
 See also:
 
-- [Souleye's website](http://magnuspalsson.com/)
+- [Souleye's website](https://magnuspalsson.com/)
 
 ## SHIKI Pack Vol. 1
 

@@ -26,7 +26,7 @@ This article serves as a library of custom hitsounds.
 
 ### Finishes
 
-1. [10](http://luigihann.googlepages.com/normal-hitfinish.wav) - booming cymbal crash
+1. [10](https://luigihann.googlepages.com/normal-hitfinish.wav) - booming cymbal crash
 2. [11](https://up.ppy.sh/files/china-cym-mid.wav) - Chinese cymbal clap
 3. [12](https://up.ppy.sh/files/normal-hitfinish.wav) - sharp cymbal crash
 
@@ -49,7 +49,7 @@ This article serves as a library of custom hitsounds.
 
 ### Whistles
 
-1. [17](http://luigihann.googlepages.com/cowbell.wav) - cowbell
+1. [17](https://luigihann.googlepages.com/cowbell.wav) - cowbell
 2. [18](https://up.ppy.sh/files/normal-hitwhistle.wav) - bells
 
 ### Finishes
@@ -84,18 +84,18 @@ This article serves as a library of custom hitsounds.
 
 ## Miscellaneous
 
-1. [29](http://www.mediafire.com/?2oyjtzimita) - claps
-2. [30](http://www.mediafire.com/?tzemmzgym2j) - cymbols1
-3. [31](http://www.mediafire.com/?unkn4yoyjog) - cymbols2
-4. [32](http://www.mediafire.com/?mxizztdnffw) - cymbols3
-5. [33](http://www.mediafire.com/?meyjwttenrn) - drum1
-6. [34](http://www.mediafire.com/?qy4myjgljqm) - drum2
-7. [35](http://www.mediafire.com/?wxzozg2zyoj) - drum3
-8. [36](http://www.mediafire.com/?ymzqh0hez3g) - drum4
-9. [37](http://www.mediafire.com/?yjdkm5ij1tm) - Hihat
-10. [38](http://www.mediafire.com/?imfezmnztzx) - Snare
+1. [29](https://www.mediafire.com/?2oyjtzimita) - claps
+2. [30](https://www.mediafire.com/?tzemmzgym2j) - cymbols1
+3. [31](https://www.mediafire.com/?unkn4yoyjog) - cymbols2
+4. [32](https://www.mediafire.com/?mxizztdnffw) - cymbols3
+5. [33](https://www.mediafire.com/?meyjwttenrn) - drum1
+6. [34](https://www.mediafire.com/?qy4myjgljqm) - drum2
+7. [35](https://www.mediafire.com/?wxzozg2zyoj) - drum3
+8. [36](https://www.mediafire.com/?ymzqh0hez3g) - drum4
+9. [37](https://www.mediafire.com/?yjdkm5ij1tm) - Hihat
+10. [38](https://www.mediafire.com/?imfezmnztzx) - Snare
 11. [39](https://up.ppy.sh/files/mididrumswavpack.rar) - MIDI Percussion wav pack
-12. [40](http://www.mediafire.com/download.php?jjnwmyy0mmf) - Drums wav pack (There are some unlabeled sounds)
+12. [40](https://www.mediafire.com/download.php?jjnwmyy0mmf) - Drums wav pack (There are some unlabeled sounds)
 13. [- LKs Hitsound Pack](https://puu.sh/uEpY)
 14. [- LKs Ultimate Hitsound Pack](https://puu.sh/1Ojer)
 

@@ -49,9 +49,9 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ## Links
 
-- **[Main spreadsheet](http://docs.google.com/spreadsheets/d/e/2PACX-1vTjldrvfwKxuc3x8QyhVAcccvGm6z2FDR-BZuxyX68GkQkdXoWwkcUlD0gaNA__aKJRlX3WSMfW5Pkj/pubhtml# "Google Sheets")**
-- [Discussion thread](http://osu.ppy.sh/community/forums/topics/1141903)
-- [Discord server](http://discord.gg/7g6TAj2 "Discord")
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjldrvfwKxuc3x8QyhVAcccvGm6z2FDR-BZuxyX68GkQkdXoWwkcUlD0gaNA__aKJRlX3WSMfW5Pkj/pubhtml# "Google Sheets")**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1141903)
+- [Discord server](https://discord.gg/7g6TAj2 "Discord")
 - [Livestream](https://www.twitch.tv/osuIndonesia "Twitch")
 
 ## Participants

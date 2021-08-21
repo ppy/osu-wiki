@@ -99,7 +99,7 @@ The osu!catch World Cup 2017 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (115 MB)](http://www.mediafire.com/file/1u6j67z6qsvuu7e/CWC_2017_Finals.rar "MediaFire")**
+**[Download the mappack here! (115 MB)](https://www.mediafire.com/file/1u6j67z6qsvuu7e/CWC_2017_Finals.rar "MediaFire")**
 
 - NoMod
   - [Camellia - Bangin' Burst (CLSW) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/524515#fruits/1113287)

@@ -126,7 +126,7 @@ This competition has come to an end and resulted in the following podium:
   - [xi - over the top (Reillia) \[Heaven\]](https://osu.ppy.sh/beatmapsets/851156#osu/1779343)
   - [YURRY CANON - Nadeshiko color Heart (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/682996#osu/1451733)
   - [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry) \[Neil x Sharu, Syzygy\]](https://osu.ppy.sh/beatmapsets/694402#osu/1469136)
-  - [ZAQ - Last Proof (Anmiy) \[Don't Give Up \[snap edit\]\]](http://puu.sh/EixH8/14cbdb0d70.osz "puush")
+  - [ZAQ - Last Proof (Anmiy) \[Don't Give Up \[snap edit\]\]](https://puu.sh/EixH8/14cbdb0d70.osz "puush")
 - Hidden
   - [xi - Caramel Custard (nya10) \[Creme [edit ver.]\]](https://osu.ppy.sh/beatmapsets/1038181#osu/2170298)
   - [Meramipop - Secret Desire - Dyes Remix - (Skystar) \[Irregular\]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1x-AD_XWpQQs6z5xVUwWal6iwbbsFPe0A/view?usp=sharing "Google Drive")**
 
 - NoMod
-  - [LiSA - ADAMAS (xChippy) \[Reality\]](http://puu.sh/E8W86/6de3f3cbbd.osz "puush")
+  - [LiSA - ADAMAS (xChippy) \[Reality\]](https://puu.sh/E8W86/6de3f3cbbd.osz "puush")
   - [UNDEAD CORPORATION - Seven Colors (Realazy) \[Concerto\]](https://osu.ppy.sh/beatmapsets/537952#osu/1139787)
   - [Rain Man Ft. Sirah - Visionary (Consouls DnB Edit) (JrSzZ) \[Na na na na...\]](https://osu.ppy.sh/beatmapsets/863113#osu/1805438)
   - [D-Cee - CITRUS MONSTER (Hakurei Yoru) \[1112's Master\]](https://osu.ppy.sh/beatmapsets/537860#osu/1865292)

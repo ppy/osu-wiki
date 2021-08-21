@@ -45,7 +45,7 @@ OUKT5 was run by various community members
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/363250)
 - [RO128/64 Challonge page](https://challonge.com/OUKT5 "Challonge")
 - [Groups Stage + Finals Challonge page](https://challonge.com/oukt5finals "Challonge")
-- [Livestream](http://www.twitch.tv/oukt3 "Twitch")
+- [Livestream](https://www.twitch.tv/oukt3 "Twitch")
 - [Mappool Spreadshet](https://docs.google.com/spreadsheets/d/1K7pliGqIofU3Vj66RTNPdhF6Zbhnn_nkRhyRhad8RBg/edit?usp=sharing "Google Sheets")
 - [Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1KgigrN2NPd8sCa3XIKIkcOjToHb4umYcQFtV3S3Wx58/edit#gid=511911619 "Google Sheets")
 

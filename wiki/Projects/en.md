@@ -14,7 +14,7 @@ outdated: true
 - [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015)—A live feed of current player events.
   - [Website](https://osu.ppy.sh/p/events)
 - [osu! (OS X)](https://osu.ppy.sh/community/forums/topics/56460)—osu! on OS X (results will vary).
-  - [GitHub](https://github.com/ppy/osu-wine) | [Website](http://osuosx.tumblr.com)
+  - [GitHub](https://github.com/ppy/osu-wine) | [Website](https://osuosx.tumblr.com)
 - [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342)—The osu! localisation project, localise your language into osu!.
 - [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)—A release of the initial game client.
 - [osu!api](https://osu.ppy.sh/community/forums/topics/141240)—Public API for accessing osu! related data.
@@ -45,7 +45,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - McOsu—A free open-source circle-clicking rhythm game practice client for osu! beatmaps with Virtual Reality support.
   - [Steam](https://store.steampowered.com/app/607260/McOsu/)
 - [opsu!](https://osu.ppy.sh/community/forums/topics/221726)—An unofficial osu! client written in Java.
-  - [GitHub](https://github.com/itdelatrisu/opsu) | [Website](http://itdelatrisu.github.io/opsu/)
+  - [GitHub](https://github.com/itdelatrisu/opsu) | [Website](https://itdelatrisu.github.io/opsu/)
 - [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175)—Python clone of osu!
 - osu!droid—An unofficial osu! client written for Android, open source.
   - [GitHub](https://github.com/osudroid/osu-droid) | [Website](http://ops.dgsrz.com/)

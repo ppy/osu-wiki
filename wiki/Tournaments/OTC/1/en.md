@@ -100,7 +100,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (190 MB)](http://www.mediafire.com/file/yhe8oh8mbays2a9/OTC+Finals+Pool.zip "MediaFire")**
+**[Download the mappack here! (190 MB)](https://www.mediafire.com/file/yhe8oh8mbays2a9/OTC+Finals+Pool.zip "MediaFire")**
 
 - NoMod
   - [Getty vs. DJ DiA - Fox4-Raize- (Kaifin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/482552#osu/1029677)
@@ -125,7 +125,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (125 MB)](http://www.mediafire.com/file/3qlq8unc1oc026b/OTC+Semifinals+Pool.zip "MediaFire")**
+**[Download the mappack here! (125 MB)](https://www.mediafire.com/file/3qlq8unc1oc026b/OTC+Semifinals+Pool.zip "MediaFire")**
 
 - NoMod
   - [Function Phantom - Euclid (byfar) \[Fifth Postulate\]](https://osu.ppy.sh/beatmapsets/419614#osu/908093)
@@ -150,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (126 MB)](http://www.mediafire.com/file/z9f0auhtlzo2nal/OTC+Quarter+Finals+Pool.zip "MediaFire")**
+**[Download the mappack here! (126 MB)](https://www.mediafire.com/file/z9f0auhtlzo2nal/OTC+Quarter+Finals+Pool.zip "MediaFire")**
 
 - NoMod
   - [Memme - Cherry Blossom (rrtyui) \[tyui's Extra\]](https://osu.ppy.sh/beatmapsets/442581#osu/984660)
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32 / Round of 16
 
-**[Download the mappack here! (172 MB)](http://www.mediafire.com/file/f9zmm3ju4zhe66d/OTC+RO32-16+Pool.zip "MediaFire")**
+**[Download the mappack here! (172 MB)](https://www.mediafire.com/file/f9zmm3ju4zhe66d/OTC+RO32-16+Pool.zip "MediaFire")**
 
 - NoMod
   - [Camellia - Towards The Horizon (sahuang) \[sahuang's Expert\]](https://osu.ppy.sh/beatmapsets/636393#osu/1478678)
@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (145 MB)](http://www.mediafire.com/file/shu79fyhms1f7t1/OTC+Group+Stage+Mappool.zip "MediaFire")**
+**[Download the mappack here! (145 MB)](https://www.mediafire.com/file/shu79fyhms1f7t1/OTC+Group+Stage+Mappool.zip "MediaFire")**
 
 - NoMod
   - [SWAN K feat. Asuka M - LOVE B.B.B (rs\_fadeaway) \[Extra\]](https://osu.ppy.sh/beatmapsets/143457#osu/758189)

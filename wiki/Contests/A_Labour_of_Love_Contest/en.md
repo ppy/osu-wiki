@@ -108,7 +108,7 @@ The following usage terms were provided by Kuba Oms: *The remixers can post thei
 
 ## Results
 
-For more information on results, see the [detailed results overview](https://docs.google.com/spreadsheets/d/e/2PACX-1vTts0zpdjKdCUS3oCP4XZ18vh5ckEDqL_Jvy2eh0B4kC8je09bCGwYcpOWgjaXXy0251c3f33u7BDjv/pubhtml) and the [results summary](http://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love).
+For more information on results, see the [detailed results overview](https://docs.google.com/spreadsheets/d/e/2PACX-1vTts0zpdjKdCUS3oCP4XZ18vh5ckEDqL_Jvy2eh0B4kC8je09bCGwYcpOWgjaXXy0251c3f33u7BDjv/pubhtml) and the [results summary](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love).
 
 ### Musician panel
 

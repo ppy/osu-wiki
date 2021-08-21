@@ -108,7 +108,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (128 MB)](http://www.mediafire.com/file/megczynxqptfm2b/MAPPACK+GRAND+FINALS.rar "MediaFire")**
+**[Download the mappack here! (128 MB)](https://www.mediafire.com/file/megczynxqptfm2b/MAPPACK+GRAND+FINALS.rar "MediaFire")**
 
 - NoMod
   - [Rings of Saturn - Eviscerate (Xay) \[Oniscerate\]](https://osu.ppy.sh/beatmapsets/477477#taiko/1621260)

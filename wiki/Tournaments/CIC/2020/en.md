@@ -51,7 +51,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 ## Links
 
-- **[Main spreadsheet](http://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vRWcBzTJy5RnGqGIzRDc_Zv28lRo9Z3yz9yUVqF4eqoVi-cebrHDDEWk186ODj71mLf2x9mPARwaVlB/pubhtml?gid=2045538686&single=true "Google Sheets")**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vRWcBzTJy5RnGqGIzRDc_Zv28lRo9Z3yz9yUVqF4eqoVi-cebrHDDEWk186ODj71mLf2x9mPARwaVlB/pubhtml?gid=2045538686&single=true "Google Sheets")**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1096883)
 - [Discord server](https://discord.gg/YwAYbPa "Discord")
 - [Challonge brackets](https://challonge.com/CIC2020 "Challonge")

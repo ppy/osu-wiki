@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the map pack here! (141 MB)](http://www.mediafire.com/file/k05rh4m5rx0reol/Grand+Finals+pool+Tier+2.zip "MediaFire")**
+**[Download the map pack here! (141 MB)](https://www.mediafire.com/file/k05rh4m5rx0reol/Grand+Finals+pool+Tier+2.zip "MediaFire")**
 
 - NoMod
   - [Feryquitous - Strahv (Rumia-) \[Kotori's Resolution\]](https://osu.ppy.sh/beatmapsets/634143#osu/1345663)
@@ -254,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-**[Download the map pack here! (105 MB)](http://www.mediafire.com/file/asefqarbax0p4ti/Quarter+Finals+Pool+Tier+1.zip "MediaFire")**
+**[Download the map pack here! (105 MB)](https://www.mediafire.com/file/asefqarbax0p4ti/Quarter+Finals+Pool+Tier+1.zip "MediaFire")**
 
 - NoMod
   - [Hatsuki Yura - Shoujo to Ougonryuu no Monogatari (Garden) \[schoolboy's Extra\]](https://osu.ppy.sh/beatmapsets/719158#osu/1546635)
@@ -278,7 +278,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the map pack here! (78 MB)](http://www.mediafire.com/file/4k5aw7ydkdlh00l/Quarter+Finals+Pool+Tier+2.zip "MediaFire")**
+**[Download the map pack here! (78 MB)](https://www.mediafire.com/file/4k5aw7ydkdlh00l/Quarter+Finals+Pool+Tier+2.zip "MediaFire")**
 
 - NoMod
   - [Camellia feat. Nanahira - Tsukitourou (jonathanlfj) \[Nyquill's Extra\]](https://osu.ppy.sh/beatmapsets/383147#osu/1313971)

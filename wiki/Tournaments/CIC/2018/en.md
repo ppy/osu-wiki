@@ -47,7 +47,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/780969)
-- [CIC 2018 Discord](http://discord.gg/dKcVbWE "Discord")
+- [CIC 2018 Discord](https://discord.gg/dKcVbWE "Discord")
 - [Livestream](https://www.twitch.tv/osuindonesia "Twitch")
 - [Challonge brackets](https://challonge.com/CIC2018 "Challonge")
 
@@ -153,7 +153,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Round of 16
 
-**[Download the mappack here! (64 MB)](http://ritsu.s-ul.eu/7tEXfmjV "s-ul")**
+**[Download the mappack here! (64 MB)](https://ritsu.s-ul.eu/7tEXfmjV "s-ul")**
 
 - NoMod
   - [40mP feat.yuikonnu - Ame to Asphalt (-wwwww) \[Downpour\]](https://osu.ppy.sh/beatmapsets/658705#fruits/1395111)
@@ -174,7 +174,7 @@ The Catch the Beat Indonesia Cup 2018 was run by various Indonesian osu!catch co
 
 ### Group stage
 
-**[Download the mappack here! (79 MB)](http://ritsu.s-ul.eu/ZNs2PEAy "s-ul")**
+**[Download the mappack here! (79 MB)](https://ritsu.s-ul.eu/ZNs2PEAy "s-ul")**
 
 - NoMod
   - [SMiLE.dk - GOLDEN SKY (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/749378#fruits/1578433)

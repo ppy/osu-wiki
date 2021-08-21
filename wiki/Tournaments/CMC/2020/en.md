@@ -56,7 +56,7 @@ Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1157755)
 - [Discord server](https://discord.gg/5a2dy53 "Discord")
 - [Livestream (Twitch)](https://www.twitch.tv/komplekkeluargacemara "Twitch")
-- [Livestream (YouTube)](http://www.youtube.com/channel/UCVKBLmflZE2QUHnmB8eaf0g "YouTube")
+- [Livestream (YouTube)](https://www.youtube.com/channel/UCVKBLmflZE2QUHnmB8eaf0g "YouTube")
 - [Challonge bracket](https://challonge.com/CMC_1 "Challonge")
 
 ## Participants
@@ -353,7 +353,7 @@ Sunday, 29 November 2020:
 1. In the Group Stage, the 32 previously qualified players will be randomly spread out into eight groups consisting of four different players each based on their seed.
 2. All the players from each group will face each other in a single multiplayer lobby under the "Battle Royale" matchup format as follows:
    - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977 "Google Sheets").
-   - After the conclusion of each map, the two players who finish 2nd and 3rd will receive +2 points and the other two players who finish 1st and 4th will receive +1 point following the "[middle winner](http://imgur.com/a/GydWooA "Imgur")" scoring system.
+   - After the conclusion of each map, the two players who finish 2nd and 3rd will receive +2 points and the other two players who finish 1st and 4th will receive +1 point following the "[middle winner](https://imgur.com/a/GydWooA "Imgur")" scoring system.
 3. Players **are not allowed** to ban any maps in the Group Stage.
 4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room. 
    - In case of a points tie, all affected players will be ordered by their Group Stage seed.

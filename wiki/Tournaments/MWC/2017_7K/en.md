@@ -93,7 +93,7 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (124 MB)](http://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar "MediaFire")**
+**[Download the mappack here! (124 MB)](https://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar "MediaFire")**
 
 - FreeMod
   - [Alon Mor - Demons (-Kamikaze-) \[Evening's ritual (preview)\]](https://osu.ppy.sh/beatmapsets/562279#mania/1188811)
@@ -116,7 +116,7 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/ko6380yoov9455x/MWC7K_2017_Semifinals.rar "MediaFire")**
+**[Download the mappack here! (99 MB)](https://www.mediafire.com/file/ko6380yoov9455x/MWC7K_2017_Semifinals.rar "MediaFire")**
 
 - FreeMod
   - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) (Evening) \[Expert\]](https://osu.ppy.sh/beatmapsets/799677#mania/1042544)
@@ -138,7 +138,7 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (61 MB)](http://www.mediafire.com/file/19768v0uxatm433/MWC_7K_2017_Quarterfinals.rar "MediaFire")**
+**[Download the mappack here! (61 MB)](https://www.mediafire.com/file/19768v0uxatm433/MWC_7K_2017_Quarterfinals.rar "MediaFire")**
 
 - FreeMod
   - [Rob Zombie - What Lurks on Channel X? (Pope Gadget) \[VII\]](https://osu.ppy.sh/beatmapsets/542627#mania/1150224)
@@ -159,7 +159,7 @@ The osu!mania 7K World Cup 2017 was run by various community members.
 
 ### Group stage
 
-**[Download the mappack here! (88 MB)](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar "MediaFire")**
+**[Download the mappack here! (88 MB)](https://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar "MediaFire")**
 
 - FreeMod
   - [WALKUERE - Ikenai Borderline (SanadaYukimura) \[Emiria's 7K G\]](https://osu.ppy.sh/beatmapsets/478451#mania/1030861)

@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (106 MB)](http://www.mediafire.com/file/55u3kl139pr04i8/TWC+-+Final+Mappool+pack.zip "MediaFire")**
+**[Download the mappack here! (106 MB)](https://www.mediafire.com/file/55u3kl139pr04i8/TWC+-+Final+Mappool+pack.zip "MediaFire")**
 
 - NoMod
   - Cres - End Time (choco00) \[Nyan's Taiko (TWC Ver.)\]

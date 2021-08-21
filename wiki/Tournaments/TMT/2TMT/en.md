@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (94 MB)](http://www.mediafire.com/file/2adgf33nba2x39b/2TMT+GF.zip "MediaFire")**
+**[Download the mappack here! (94 MB)](https://www.mediafire.com/file/2adgf33nba2x39b/2TMT+GF.zip "MediaFire")**
 
 - FreeMod
   - [Omoi - Snow Drive (frolica) \[Felicity \[11\]\]](https://osu.ppy.sh/beatmapsets/480013#mania/1024856)
@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (79 MB)](http://www.mediafire.com/file/un3z1e1y8levdr1/2TMT+SF.zip "MediaFire")**
+**[Download the mappack here! (79 MB)](https://www.mediafire.com/file/un3z1e1y8levdr1/2TMT+SF.zip "MediaFire")**
 
 - FreeMod
   - [Remo Prototype\[CV: Hanamori Yumiri\] - Sendan Life (Hestiaaa) \[Hard-\[Short\]\]](https://osu.ppy.sh/beatmapsets/429911#mania/927549)
@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (84 MB)](http://www.mediafire.com/file/biq1sxy1oiu2cdx/2TMT+RO16.zip "MediaFire")**
+**[Download the mappack here! (84 MB)](https://www.mediafire.com/file/biq1sxy1oiu2cdx/2TMT+RO16.zip "MediaFire")**
 
 - FreeMod
   - [carryYellow Claw & Flux Pavilion - Catch Me (andreymc) \[Hard\]](https://osu.ppy.sh/beatmapsets/700716#mania/1483360)
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (29 MB)](http://www.mediafire.com/file/2tqt35qnr3ouru6/2TMT+Qualifiers.zip "MediaFire")**
+**[Download the mappack here! (29 MB)](https://www.mediafire.com/file/2tqt35qnr3ouru6/2TMT+Qualifiers.zip "MediaFire")**
 
 - FreeMod
   - [Woodkid - Run Boy Run (RemFangirl) \[Stage 1 : Getaway\]](https://osu.ppy.sh/beatmapsets/873415#mania/1825724)

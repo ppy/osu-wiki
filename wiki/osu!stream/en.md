@@ -4,7 +4,7 @@
 
 ![](img/Os-Logo.jpg "osu!stream logo")
 
-**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only, but an [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port is planned. It introduces a brand new game-play system such as the hold circle and connected beats.
+**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](https://en.wikipedia.org/wiki/IOS) platform only, but an [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) port is planned. It introduces a brand new game-play system such as the hold circle and connected beats.
 
 It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. Both free and paid maps are available at the "Store".
 
@@ -29,7 +29,7 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 **Device must have [iTunes](https://www.apple.com/itunes/) installed.**
 
-- Go to [this link and download it](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
+- Go to [this link and download it](https://apps.apple.com/us/app/osu-stream/id436952197)
   - If requested for Apple ID, key-in the Apple ID and the password.
 - Plug-in the iDevice to the device (that has osu!stream).
 - Transfer the osu!stream files using iTunes.
@@ -377,5 +377,5 @@ Usually heard at Main Menu and tutorial screen.
 
 ## Links
 
-- [Official website](http://www.osustream.com)
+- [Official website](https://www.osustream.com)
 - [Discussion forum (osu! website)](https://osu.ppy.sh/community/forums/79)

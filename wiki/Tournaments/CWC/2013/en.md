@@ -39,7 +39,7 @@ The osu! Catch the Beat World Cup 2013 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676), ![][flag_PH] [Seph](https://osu.ppy.sh/users/1591614), ![][flag_CA] [Weez](https://osu.ppy.sh/users/67211) |
-| Mappool selector | ![][flag_DE] [DeathXHunter](http://osu.ppy.sh/users/405326), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_CA] [Weez](https://osu.ppy.sh/users/67211) |
+| Mappool selector | ![][flag_DE] [DeathXHunter](https://osu.ppy.sh/users/405326), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_CA] [Weez](https://osu.ppy.sh/users/67211) |
 | Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400), ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991), ![][flag_ES] [Nokeru-Chan](https://osu.ppy.sh/users/602315), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730) |
 | Scheduler | ![][flag_DE] [Nitojgrem](https://osu.ppy.sh/users/755705), ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676) |
 | Streamer | ![][flag_US] [dkun](https://osu.ppy.sh/users/154400), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) |
@@ -66,7 +66,7 @@ The osu! Catch the Beat World Cup 2013 was run by various community members.
 | ![][flag_FR] | **France** | **[Jinchuu ya vizard](https://osu.ppy.sh/users/669531)**, [Capitaine fares](https://osu.ppy.sh/users/559386), [Keijou](https://osu.ppy.sh/users/799561), [Syfose](https://osu.ppy.sh/users/1186827) |
 | ![][flag_DE] | **Germany A** | **[Nitojgrem](https://osu.ppy.sh/users/755705)**, [ayiku](https://osu.ppy.sh/users/710936), [DoKoLP](https://osu.ppy.sh/users/537084), [Keyone94](https://osu.ppy.sh/users/321907) |
 | ![][flag_DE] | **Germany B** | **[Kingkevin30](https://osu.ppy.sh/users/564334)**, - C e L o - <!-- missing player -->, [bleachownersee](https://osu.ppy.sh/users/1592433), [Zuwik15](https://osu.ppy.sh/users/1401147) |
-| ![][flag_HK] | **Hong Kong** | **[SakaNa](http://osu.ppy.sh/users/1784164)**, [171717277876366a](https://osu.ppy.sh/users/1311496), [alienflybot](https://osu.ppy.sh/users/636114), [mayochiki16](https://osu.ppy.sh/users/1606426) |
+| ![][flag_HK] | **Hong Kong** | **[SakaNa](https://osu.ppy.sh/users/1784164)**, [171717277876366a](https://osu.ppy.sh/users/1311496), [alienflybot](https://osu.ppy.sh/users/636114), [mayochiki16](https://osu.ppy.sh/users/1606426) |
 | ![][flag_HU] | **Hungary** | **[TaylorXIII](https://osu.ppy.sh/users/351814)**, [Kuroi Mato](https://osu.ppy.sh/users/584921), [Kurokami](https://osu.ppy.sh/users/260933), [tuzgu](https://osu.ppy.sh/users/333129) |
 | ![][flag_ID] | **Indonesia A** | **[Sakuya Aizawa](https://osu.ppy.sh/users/1595221)**, [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), [Intel21](https://osu.ppy.sh/users/1272422), [-Newbie-](https://osu.ppy.sh/users/434914) |
 | ![][flag_ID] | **Indonesia B** | **[Rey Fullbuster](https://osu.ppy.sh/users/500032)**, [Drexel13](https://osu.ppy.sh/users/1140567), [El SolarBeam](https://osu.ppy.sh/users/1074710), [Vladhusen](https://osu.ppy.sh/users/1475521) |
@@ -78,11 +78,11 @@ The osu! Catch the Beat World Cup 2013 was run by various community members.
 | ![][flag_MX] | **Mexico** | **[Salwinjack](https://osu.ppy.sh/users/219084)**, Fercho <!-- missing player -->, [Mennock](https://osu.ppy.sh/users/854580), [Xtreme\_gear](https://osu.ppy.sh/users/983395) |
 | ![][flag_PE] | **Peru** | **[\[Yue\]](https://osu.ppy.sh/users/645486)**, [AleZer0](https://osu.ppy.sh/users/214574), [Solaris730](https://osu.ppy.sh/users/480511), [-Yakemi-](https://osu.ppy.sh/users/765334) |
 | ![][flag_PH] | **Philippines** | **[Seph](https://osu.ppy.sh/users/1591614)**, [blacksymbian](https://osu.ppy.sh/users/53956), [Jdle07](https://osu.ppy.sh/users/552716), [Mystgun](https://osu.ppy.sh/users/720029) |
-| ![][flag_RU] ![][flag_UA] | **Russian Federation/Ukraine** | **[Don Omar](https://osu.ppy.sh/users/689414)**, [Blaster812](https://osu.ppy.sh/users/997411), [MeGl](https://osu.ppy.sh/users/1126814), [Merzo](http://osu.ppy.sh/users/998792) |
+| ![][flag_RU] ![][flag_UA] | **Russian Federation/Ukraine** | **[Don Omar](https://osu.ppy.sh/users/689414)**, [Blaster812](https://osu.ppy.sh/users/997411), [MeGl](https://osu.ppy.sh/users/1126814), [Merzo](https://osu.ppy.sh/users/998792) |
 | ![][flag_SG] | **Singapore** | **[botakist](https://osu.ppy.sh/users/4735535)**, [Akatsuki](https://osu.ppy.sh/users/506301), [MoGu](https://osu.ppy.sh/users/654942), [zLaceration](https://osu.ppy.sh/users/1365535) |
-| ![][flag_KR] | **South Korea** | **[Rubytic](http://osu.ppy.sh/users/1688325)**, [Berncastell](https://osu.ppy.sh/users/233667), [Spectator](https://osu.ppy.sh/users/702598), [Why](https://osu.ppy.sh/users/1082617) |
+| ![][flag_KR] | **South Korea** | **[Rubytic](https://osu.ppy.sh/users/1688325)**, [Berncastell](https://osu.ppy.sh/users/233667), [Spectator](https://osu.ppy.sh/users/702598), [Why](https://osu.ppy.sh/users/1082617) |
 | ![][flag_ES] | **Spain** | **[Raimon](https://osu.ppy.sh/users/609627)**, Eternal <!-- missing player -->, [jekasa](https://osu.ppy.sh/users/792196) |
-| ![][flag_TW] | **Taiwan A** | **[madaoB](https://osu.ppy.sh/users/8174275)**, [ItsChipiko](http://osu.ppy.sh/users/1846113), [set44599](http://osu.ppy.sh/users/605088), [YounaZheng](https://osu.ppy.sh/users/820403) |
+| ![][flag_TW] | **Taiwan A** | **[madaoB](https://osu.ppy.sh/users/8174275)**, [ItsChipiko](https://osu.ppy.sh/users/1846113), [set44599](https://osu.ppy.sh/users/605088), [YounaZheng](https://osu.ppy.sh/users/820403) |
 | ![][flag_TW] | **Taiwan B** | **[N y a L o](https://osu.ppy.sh/users/866720)**, [ItsLingers](https://osu.ppy.sh/users/1449322), [KanpanRin](https://osu.ppy.sh/users/903699), [MoMo Tenshi](https://osu.ppy.sh/users/715417) |
 | ![][flag_TH] | **Thailand** | **[boomngong](https://osu.ppy.sh/users/1090858)**, [0814587134](https://osu.ppy.sh/users/1054016), [Nansugumi](https://osu.ppy.sh/users/795915), [SUBSTAC9](https://osu.ppy.sh/users/116389) |
 | ![][flag_US] | **United States** | **[TenguKing9](https://osu.ppy.sh/users/1637716)**, [dbzguru32](https://osu.ppy.sh/users/881667), [Tenshi](https://osu.ppy.sh/users/741940), [Zak](https://osu.ppy.sh/users/1375955) |
@@ -94,7 +94,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Team |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] **Chile A** (**[eldnl](https://osu.ppy.sh/users/285756)**, [Dark Diego](https://osu.ppy.sh/users/723787), [DaxMasterix](https://osu.ppy.sh/users/264914), [lineqtxz](https://osu.ppy.sh/users/989542)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taiwan A** (**[madaoB](https://osu.ppy.sh/users/8174275)**, [ItsChipiko](http://osu.ppy.sh/users/1846113), [set44599](http://osu.ppy.sh/users/605088), [YounaZheng](https://osu.ppy.sh/users/820403)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taiwan A** (**[madaoB](https://osu.ppy.sh/users/8174275)**, [ItsChipiko](https://osu.ppy.sh/users/1846113), [set44599](https://osu.ppy.sh/users/605088), [YounaZheng](https://osu.ppy.sh/users/820403)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AR] ![][flag_CO] **Argentina/Colombia** (**[VelperK](https://osu.ppy.sh/users/348467)**, [k4mm3r](https://osu.ppy.sh/users/286570), [LZJKE](https://osu.ppy.sh/users/1109701), [NightWar](https://osu.ppy.sh/users/1209167)) |
 
 ## Mappools
@@ -132,7 +132,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (134 MB)](http://www.mediafire.com/?7fc0ub0yj6yfsc9 "MediaFire")**
+**[Download the mappack here! (134 MB)](https://www.mediafire.com/?7fc0ub0yj6yfsc9 "MediaFire")**
 
 - NoMod
   - [44teru-k remixed wa. - Higanbana Daini -Shuusei no Lycoris- (soulfear) \[Fear\]](https://osu.ppy.sh/beatmapsets/38966#fruits/124512)
@@ -156,7 +156,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (111 MB)](http://www.mediafire.com/?y5jfe4fn5zc0xnl "MediaFire")**
+**[Download the mappack here! (111 MB)](https://www.mediafire.com/?y5jfe4fn5zc0xnl "MediaFire")**
 
 - NoMod
   - [Glutamine - Babylon (CSY the corrupt) \[Corruption\]](https://osu.ppy.sh/beatmapsets/35992#fruits/145118)
@@ -221,7 +221,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 2
 
-**[Download the mappack here! (88 MB)](http://www.mediafire.com/?o5szwa4mxt4juh1 "MediaFire")**
+**[Download the mappack here! (88 MB)](https://www.mediafire.com/?o5szwa4mxt4juh1 "MediaFire")**
 
 - NoMod
   - [IA - Six Trillion Years and Overnight Story (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/51245#fruits/158662)
@@ -243,8 +243,6 @@ This competition has come to an end and resulted in the following podium:
   - **[Fear, and Loathing in Las Vegas - Just Awake (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/44527#fruits/139446)**
 
 ### Round 1
-
-**[Download the mappack here!](http://dkun.us/cwcpool1.zip "dkun")**
 
 - NoMod
   - [Chata - Koisuru Otome (hoLysoup) \[Insane\]](https://osu.ppy.sh/beatmapsets/36274#fruits/117236)

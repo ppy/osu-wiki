@@ -170,7 +170,7 @@ This competition has come to an end and resulted in the following podium:
   - [Tatsh - THE SUN (Osamix) \[yzrin's SURVIVAL\]](https://osu.ppy.sh/beatmapsets/499614#taiko/1066202)
   - [cosMo@Bousou-P - The Real Disappearance of Hatsune Miku (thika1432) \[Yuni's Hell Oni\]](https://osu.ppy.sh/beatmapsets/489791#taiko/1043960)
   - [Sara - Natu iro Present Wo BPM180 Ni Shitemita (asuasu_yura) \[Special\]](https://osu.ppy.sh/beatmapsets/506844#taiko/1078077)
-  - [Toromaru - Shounen wa Sora wo Tadoru Prog Piano Remix (-\[ ix Ishida xi \]-) \[-\[ ix Taiko xi \]- (NATT Ver.)\]](http://puu.sh/B9lWf/2b353d1cb1.osz "puush")
+  - [Toromaru - Shounen wa Sora wo Tadoru Prog Piano Remix (-\[ ix Ishida xi \]-) \[-\[ ix Taiko xi \]- (NATT Ver.)\]](https://puu.sh/B9lWf/2b353d1cb1.osz "puush")
 - Hidden
   - [Boogie Belgique - Piccadilly (lazyboy007) \[West End (NATT Ver.)\]](https://puu.sh/B7MKd/578642611a.osz "puush")
   - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (xfraczynho) \[Final Oni\]](https://osu.ppy.sh/beatmapsets/682914#taiko/1444126)

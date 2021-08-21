@@ -235,7 +235,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 ### Group stage
 
-**[Download the mappack here! (110 MB)](http://www.mediafire.com/file/zg731xlt633u44n/otst%21+Group+Stage.zip "MediaFire")**
+**[Download the mappack here! (110 MB)](https://www.mediafire.com/file/zg731xlt633u44n/otst%21+Group+Stage.zip "MediaFire")**
 
 - NoMod
   - [M2U - Moon Halo (Minorsonek) \[Infinity\]](https://osu.ppy.sh/beatmapsets/782778#osu/1648966)

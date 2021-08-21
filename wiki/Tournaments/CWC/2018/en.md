@@ -150,7 +150,7 @@ The osu!catch World Cup 2018 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (102 MB)](http://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip "MediaFire")**
+**[Download the mappack here! (102 MB)](https://www.mediafire.com/file/8zg9b3gf7kwq4nr/CWC2018%20-%20QF%20Mappack.zip "MediaFire")**
 
 - NoMod
   - [Function Phantom - Euclid \(Ascendance\) \[Axiom\]](https://osu.ppy.sh/beatmapsets/729321#fruits/1539487)
@@ -176,7 +176,7 @@ The osu!catch World Cup 2018 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (99 MB)](http://www.mediafire.com/file/8adzvcvqjxydxw9/CWC2018%20-%20RO16%20Mappack.zip "MediaFire")**
+**[Download the mappack here! (99 MB)](https://www.mediafire.com/file/8adzvcvqjxydxw9/CWC2018%20-%20RO16%20Mappack.zip "MediaFire")**
 
 - NoMod
   - [Hiroyuki Sawano feat. Mika Kobayashi - Bios \(wairo\) \[Furely's Overdose\]](https://osu.ppy.sh/beatmapsets/728912#fruits/1599347)

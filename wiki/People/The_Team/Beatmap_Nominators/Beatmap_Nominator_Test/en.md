@@ -28,7 +28,7 @@ The test has no time limit and it's expected that test takers read relevant wiki
 
 ## History
 
-[Echo](https://osu.ppy.sh/users/431) created a prototype for the first modding test in 2008, however it was not used for new BN (previously known as [Beatmap Approval Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)) applicants. Users were expected to point out mistakes in an intentionally flawed beatmap, [Arashi - Kitto Daijoubu](http://up.ppy.sh/files/Arashi%20-%20Kitto%20Daijoubu.rar).
+[Echo](https://osu.ppy.sh/users/431) created a prototype for the first modding test in 2008, however it was not used for new BN (previously known as [Beatmap Approval Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)) applicants. Users were expected to point out mistakes in an intentionally flawed beatmap, [Arashi - Kitto Daijoubu](https://up.ppy.sh/files/Arashi%20-%20Kitto%20Daijoubu.rar).
 
 Similar modding puzzles were created for fun until 2015, when the first Beatmap Nominator test was created for practical use. The test featured a multiple choice section similar to the current BN test, as well as a hands-on modding puzzle created by [Charles445](https://osu.ppy.sh/users/85000). The modding test beatmap featured 10 difficulties with short mapped segments. Each segment was assigned a [difficulty level](/wiki/Beatmap/Difficulty) and issues were expected to be found given that context.
 

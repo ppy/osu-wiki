@@ -27,4 +27,4 @@ Your drivers could be installed properly but your colour bit depth may be wrong.
 
 ## Additional Help
 
-If your problem isn't fixed by the solutions above, then please open a thread in the [help forum](https://osu.ppy.sh/community/forums/5) with the output of [this program](http://realtech-vr.com/home/glview) and your gl\_info.txt if you are on the Cutting Edge stream.
+If your problem isn't fixed by the solutions above, then please open a thread in the [help forum](https://osu.ppy.sh/community/forums/5) with the output of [this program](https://realtech-vr.com/home/glview) and your gl\_info.txt if you are on the Cutting Edge stream.

@@ -1228,7 +1228,7 @@ Sunday, 20 January 2019:
 
 ### Eligibility and registration
 
-- Any player who has a flag of a country that is part of the [Francophonie](http://www.world-territories.com/ttfr/dossiers.php?dossier=francophonie "Tous les territoires français") or part of the [Overseas France](https://fr.wikipedia.org/wiki/France_d%27outre-mer "Wikipedia") is allowed to play in this tournament.
+- Any player who has a flag of a country that is part of the [Francophonie](https://www.world-territories.com/ttfr/dossiers.php?dossier=francophonie "Tous les territoires français") or part of the [Overseas France](https://fr.wikipedia.org/wiki/France_d%27outre-mer "Wikipedia") is allowed to play in this tournament.
 - Any staff member except **map selectors and referees** are allowed to play in this tournament.
 - 32 slots will be open for each division. In the case a division does not get 32 players, then only the top 16 of this division will be allowed to play in this tournament. If a division has less than 16 players, the tournament for it will be **cancelled**. More slots will not be open. Players can join **any** of the 4 tournaments.
 - This tournament's staff has any right to decline the registration of a player if osu! staff declines them.

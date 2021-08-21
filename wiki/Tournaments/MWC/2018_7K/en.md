@@ -130,7 +130,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (66 MB)](http://www.mediafire.com/file/qz2w37i72joijx7/SF+Mappool.zip "MediaFire")**
+**[Download the mappack here! (66 MB)](https://www.mediafire.com/file/qz2w37i72joijx7/SF+Mappool.zip "MediaFire")**
 
 - FreeMod
   - [FELT - Flower Flag (17VA) [Lunatic]](https://osu.ppy.sh/beatmapsets/539088#mania/1142360)
@@ -151,7 +151,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (65 MB)](http://www.mediafire.com/file/6tkb99xgg481wzy/Quarterfinals%20Mappool.zip "MediaFire")**
+**[Download the mappack here! (65 MB)](https://www.mediafire.com/file/6tkb99xgg481wzy/Quarterfinals%20Mappool.zip "MediaFire")**
 
 - FreeMod
   - [Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix) (jakads) [Betsaljoy Lv.32 [Jacky Express]]](https://osu.ppy.sh/beatmapsets/708064#mania/1497082)
@@ -170,7 +170,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (64 MB)](http://www.mediafire.com/file/7jqki3895iiehp5/ro16%20mappool.zip "MediaFire")**
+**[Download the mappack here! (64 MB)](https://www.mediafire.com/file/7jqki3895iiehp5/ro16%20mappool.zip "MediaFire")**
 
 - FreeMod
   - [xi - Aragami (Blocko) [7K Insane]](https://osu.ppy.sh/beatmapsets/344198#mania/760452)
@@ -189,7 +189,7 @@ The osu!mania 7K World Cup 2018 was run by various community members.
 
 ### Group stage
 
-**[Download the mappack here! (79 MB)](http://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip "MediaFire")**
+**[Download the mappack here! (79 MB)](https://www.mediafire.com/file/afhpp235r223mry/Group%20Stage.zip "MediaFire")**
 
 - FreeMod
   - [yozuca\* - LOVING TRIP (shionelove) [Another]](https://osu.ppy.sh/beatmapsets/449243#mania/964012)

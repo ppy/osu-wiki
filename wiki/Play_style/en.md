@@ -145,7 +145,7 @@ To dash, many players use one of the face buttons on their gamepad. Though, some
 
 ### Keyboard
 
-[External guide for Mechanical Keyboard](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/)
+[External guide for Mechanical Keyboard](https://www.daskeyboard.com/blog/mechanical-keyboard-guide/)
 
 Keyboard was once the *only* way to play osu!mania until other play methods was supported over time.
 
