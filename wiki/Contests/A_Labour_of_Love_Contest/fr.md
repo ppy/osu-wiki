@@ -45,55 +45,55 @@ Les soumissions à ce concours comprennent les éléments suivants :
 Le concours sera jugé par un panel de mappeurs (y compris les storyboarders) et un panel de musiciens. Chaque groupe ayant sa propre spécialité, l'équipe ayant obtenu le meilleur score dans chaque groupe recevra un prix distinct.
 
 - **Vote communautaire**
-    - Prix
-        - **Deuxième place :** 3 mois d'osu!supporter 
-        - **Gagnant :**  6 mois d'abonnement à osu!supporter + badge de profil *Community Pick*.
+  - Prix
+    - **Deuxième place :** 3 mois d'osu!supporter 
+    - **Gagnant :**  6 mois d'abonnement à osu!supporter + badge de profil *Community Pick*.
 - **Panel de mapping** (en se concentrant sur la qualité du mapping)
-    - Prix
-        - **Deuxième place :** 3 mois d'osu!supporter 
-        - **Gagnant :**  6 mois d'abonnement à osu!supporter + badge de profil *Mappers' Pick*
-    - Panélistes :
-        - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
-        - ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
-        - ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992)
-        - ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645)
-        - ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777)
-        - ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581)
-        - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
-        - ![][flag_CZ] [NyarkoO](https://osu.ppy.sh/users/6622567)
-        - ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771)
-        - ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547)
-        - ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
-        - ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
-        - ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926)
-        - ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
+  - Prix
+    - **Deuxième place :** 3 mois d'osu!supporter 
+    - **Gagnant :**  6 mois d'abonnement à osu!supporter + badge de profil *Mappers' Pick*
+      - Panélistes :
+      - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
+      - ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+      - ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992)
+      - ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645)
+      - ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777)
+      - ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581)
+      - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
+      - ![][flag_CZ] [NyarkoO](https://osu.ppy.sh/users/6622567)
+      - ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771)
+      - ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547)
+      - ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
+      - ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
+      - ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926)
+      - ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 - **Panel de musiciens** (en se concentrer sur la qualité des remixes)
-    - Prix
-        - **Deuxième place :** 3 mois d'osu!supporter 
-        - **Gagnant :**  6 mois d'abonnement à osu!supporter + badge de profil *Musicians' Pick*
-    - Panélistes :
-        - ![][flag_CA] Kuba Oms
-        - ![][flag_JP] [A__](https://osu.ppy.sh/users/12011880)
-        - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
-        - ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379)
-        - ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088)
-        - ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
+  - Prix
+    - **Deuxième place :** 3 mois d'osu!supporter 
+    - **Gagnant :**  6 mois d'abonnement à osu!supporter + badge de profil *Musicians' Pick*
+      - Panélistes :
+      - ![][flag_CA] Kuba Oms
+      - ![][flag_JP] [A__](https://osu.ppy.sh/users/12011880)
+      - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
+      - ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379)
+      - ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088)
+      - ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
 - **Prix général** (combinaison des deux panels axés sur tous les domaines)
     - **Deuxième place :** 3 mois d'osu!supporter + badge de profil *Overall runner-up*
     - **Gagnant :**
-        - 6 mois d'abonnement à osu!supporter
-        - badge de profil *Overall winner*
-        - Titres d'utilisateur *Elite Mapper*, *Elite Storyboarder*, et *osu!mixer*
-        - Soumission groupée avec les nouveaux téléchargements d'osu! et passage rapide au statut Classée
+      - 6 mois d'abonnement à osu!supporter
+      - badge de profil *Overall winner*
+      - Titres d'utilisateur *Elite Mapper*, *Elite Storyboarder*, et *osu!mixer*
+      - Soumission groupée avec les nouveaux téléchargements d'osu! et passage rapide au statut Classée
 
 Si une équipe gagne dans plusieurs des catégories ci-dessus, elle sera récompensée par un badge de profil reflétant toutes les catégories pertinentes.
 
 ## Règles
 
 - **La soumission doit être une "expérience complète de beatmap" comprenant les éléments suivants :**
-    - Remix de la chanson **Kuba Oms - My Love**
-    - La beatmap suivra les [critères de classement](/wiki/Ranking_Criteria)
-    - Storyboard ou vidéo personnalisée
+  - Remix de la chanson **Kuba Oms - My Love**
+  - La beatmap suivra les [critères de classement](/wiki/Ranking_Criteria)
+  - Storyboard ou vidéo personnalisée
 - **La soumission doit être au format `.osz`.**
 - **Les beatmap doivent être dans le mode de jeu *osu!* uniquement.** Comparer les beatmaps de différents modes dans un scénario de jugement n'est malheureusement pas réaliste.
 - **Les beatmaps doivent respecter les [critères de classement](/wiki/Ranking_Criteria).** Bien que nous puissions être indulgents pour les erreurs, les soumissions qui ne pourraient pas être classées sans changements majeurs seront remises en question.
