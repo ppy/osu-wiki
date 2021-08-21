@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Options
 
 ![Menu des options](img/options_basic-FR.jpg "Menu des options \(barre latérale à gauche\)")
