@@ -52,7 +52,7 @@ Le concours sera jugé par un panel de mappeurs (y compris les storyboarders) et
   - Prix
     - **Deuxième place :** 3 mois d'osu!supporter 
     - **Gagnant :**  6 mois d'abonnement à osu!supporter + badge de profil *Mappers' Pick*
-      - Panélistes :
+    - Panélistes :
       - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
       - ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
       - ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992)
@@ -71,7 +71,7 @@ Le concours sera jugé par un panel de mappeurs (y compris les storyboarders) et
   - Prix
     - **Deuxième place :** 3 mois d'osu!supporter 
     - **Gagnant :**  6 mois d'abonnement à osu!supporter + badge de profil *Musicians' Pick*
-      - Panélistes :
+    - Panélistes :
       - ![][flag_CA] Kuba Oms
       - ![][flag_JP] [A__](https://osu.ppy.sh/users/12011880)
       - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
@@ -79,12 +79,12 @@ Le concours sera jugé par un panel de mappeurs (y compris les storyboarders) et
       - ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088)
       - ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
 - **Prix général** (combinaison des deux panels axés sur tous les domaines)
-    - **Deuxième place :** 3 mois d'osu!supporter + badge de profil *Overall runner-up*
-    - **Gagnant :**
-      - 6 mois d'abonnement à osu!supporter
-      - badge de profil *Overall winner*
-      - Titres d'utilisateur *Elite Mapper*, *Elite Storyboarder*, et *osu!mixer*
-      - Soumission groupée avec les nouveaux téléchargements d'osu! et passage rapide au statut Classée
+  - **Deuxième place :** 3 mois d'osu!supporter + badge de profil *Overall runner-up*
+  - **Gagnant :**
+    - 6 mois d'abonnement à osu!supporter
+    - badge de profil *Overall winner*
+    - Titres d'utilisateur *Elite Mapper*, *Elite Storyboarder*, et *osu!mixer*
+    - Soumission groupée avec les nouveaux téléchargements d'osu! et passage rapide au statut Classée
 
 Si une équipe gagne dans plusieurs des catégories ci-dessus, elle sera récompensée par un badge de profil reflétant toutes les catégories pertinentes.
 
