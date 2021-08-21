@@ -40,7 +40,7 @@ Ici, vous pouvez modifier la réaffectation des touches du clavier avec les acti
 
 **Notes :**
 
-- Vous pouvez également utiliser `Ctrl` + `+` pour augmenter la vitesse.
+- Vous pouvez utiliser `Ctrl` + `+` pour augmenter la vitesse...
 - Et vous pouvez également utiliser `Ctrl` + `-` pour la diminuer.
 
 ## In-Game
