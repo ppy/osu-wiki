@@ -22,7 +22,7 @@ Having trouble with a product from the osu!store? Check if there's an available 
 
 ### How do I configure the osu!keyboard?
 
-**You can use the osu!keyboard configuration utility, available from [puu.sh](https://puu.sh/l6urN/4b6bc800f2.zip "puush").**
+**You can use the osu!keyboard configuration utility, available from [puush](https://puu.sh/l6urN/4b6bc800f2.zip "puush").**
 
 Simply extract it to anywhere on your computer, and run the executable!
 
