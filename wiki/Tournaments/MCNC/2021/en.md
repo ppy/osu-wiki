@@ -97,7 +97,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 | #31 | ![][flag_TW] [Joylintp](https://osu.ppy.sh/users/13579078) |
 | #32 | ![][flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545) |
 
-### Groups
+## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -106,18 +106,11 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 | ketsuyo233 | Molli | - xiaoluoli - | Joylintp | Sern888 | murorachi | gluefly | spensll |
 | observer233 | \[JbL\]Hx_032 | Lucas\_Kan | Sillyp | Littlesheep37 | \[Crz\]Makii | 4kGameBye | \[1552828\] |
 
-### Podium and bracket
+![](img/bracket.jpg "MCNC 2021 bracket")
 
-This competition has come to an end and resulted in the following podium:
+## Podium
 
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
-
-![MCNC 2021 podium](img/podium.jpg)
-![MCNC 2021 bracket](img/bracket.jpg)
+![](img/podium.jpg "MCNC 2021 podium")
 
 ## Mappools
 
@@ -128,7 +121,7 @@ This competition has come to an end and resulted in the following podium:
 - FreeMod
   - [Camellia - Racemization (Ayase Eli) \[ELPIS' Racemization 1.15x\]](https://osu.ppy.sh/beatmapsets/1484517#mania/3044452)
   - [sakuzyo - PANDORA PARADOXXX (Imperial Wolf) \[4K Re:MASTER LV.15\]](https://osu.ppy.sh/beatmapsets/1483812#mania/3043161)
-  - [Camellia - Flamewall (Cut ver.) (\[Crz\]xz1z1z) \[AlexDunk's FINAL REBELLION (Cut Edit) \[1.05x Rate\]](https://osu.ppy.sh/beatmapsets/1462775#mania/3019256)
+  - [Camellia - Flamewall (Cut ver.) (\[Crz\]xz1z1z) \[AlexDunk's FINAL REBELLION (Cut Edit) \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1462775#mania/3019256)
   - [MAX MAXIMIZER - Tortura (\[Crz\]Crysarlene) \[Distress\]](https://osu.ppy.sh/beatmapsets/1065944#mania/2232022)
   - [Hatsuki Yura - Halloween of the Dead (Truth you left) \[Skwid's Challenge 1.05x\]](https://osu.ppy.sh/beatmapsets/1485450#mania/3046055)
   - [Juggernaut - OPLHEUX (lemonguy) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1450331#mania/2981829)
@@ -143,7 +136,7 @@ This competition has come to an end and resulted in the following podium:
   - [Camellia - B L A C K - R A Y (Toaph Daddy) \[D A R K - M A G I C I A N x1.1\]](https://osu.ppy.sh/beatmapsets/1306124#mania/2707897)
   - [Chroma - Lost found melody (Ciel) \[Found\]](https://osu.ppy.sh/beatmapsets/1051052#mania/2196635)
 - Tiebreaker
-  - [Camellia - NIGHTMARE CITY (\[Crz\]xz1z1z) \[NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/1486342#mania/3047677)
+  - **[Camellia - NIGHTMARE CITY (\[Crz\]xz1z1z) \[NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/1486342#mania/3047677)**
 
 ### Semifinals
 
@@ -167,7 +160,7 @@ This competition has come to an end and resulted in the following podium:
   - [Frums - dropdead (Chrubble) \[fatality\]](https://osu.ppy.sh/beatmapsets/957823#mania/2186287)
   - [ONE – Future (arcwinolivirus) \[4K SV Innovation\]](https://osu.ppy.sh/beatmapsets/708785#mania/1498464)
 - Tiebreaker
-  - [Camellia vs. lapix - Solvicious (Mameyodoufu Remix) (Dubstek) \[Cybernetic Extinction\]](https://osu.ppy.sh/beatmapsets/933845#mania/1949498)
+  - **[Camellia vs. lapix - Solvicious (Mameyodoufu Remix) (Dubstek) \[Cybernetic Extinction\]](https://osu.ppy.sh/beatmapsets/933845#mania/1949498)**
 
 ### Quarterfinals
 
@@ -177,7 +170,7 @@ This competition has come to an end and resulted in the following podium:
   - [Dimrain47 – Infernoplex (\[Crz\]xz1z1z) \[Mat's Insane 1.35x\]](https://osu.ppy.sh/beatmapsets/https://osu.ppy.sh/beatmapsets/1454397#mania/2989914)
   - [Camellia - Alone intelligence (guden) \[Solace\]](https://osu.ppy.sh/beatmapsets/1235533#mania/2568385)
   - [Junk - Life is PIANO (Muses & xz's Life is JACKKK) \[\[Crz\]xz1z1z\]](https://osu.ppy.sh/beatmapsets/1369788#mania/2832368)
-  - [Hino Isuka - #be_fortunate (HowToPlayLN) \[#be_edited\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2349916)
+  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_edited\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2349916)
   - [Silentroom - Shuu no Hazama (Cut ver.) (Monheim) \[April's Abendregen\]](https://osu.ppy.sh/beatmapsets/1321003#mania/2736532)
   - [lapix - Outer Space (Evening) \[current\]](https://osu.ppy.sh/beatmapsets/1071822#mania/2243437)
   - [sakuraburst – dragonlands (Toaph Daddy) \[myth\]](https://osu.ppy.sh/beatmapsets/808881#mania/1697375)
@@ -189,7 +182,7 @@ This competition has come to an end and resulted in the following podium:
   - [SHK - Wedding Crashers (\[Crz\]xz1z1z) \[NTR\]](https://osu.ppy.sh/beatmapsets/1454389#mania/2989898)
   - [sakuraburst – anticrystal (Mipha-) \[spooky\]](https://osu.ppy.sh/beatmapsets/1223208#mania/2562631)
 - Tiebreaker
-  - [rejection - Signal (feat. Such) (Mameyodoufu Remix) (\[OSC\]Amagai) \[ Keen Perception \[Revised Again\]\]](https://osu.ppy.sh/beatmapsets/1404380#mania/2993544)
+  - **[rejection - Signal (feat. Such) (Mameyodoufu Remix) (\[OSC\]Amagai) \[ Keen Perception \[Revised Again\]\]](https://osu.ppy.sh/beatmapsets/1404380#mania/2993544)**
 
 ### Round of 16
 
@@ -211,7 +204,7 @@ This competition has come to an end and resulted in the following podium:
   - [M2U - Felis (Nyakkeru) \[xz1z1z's Scurrying\]](https://osu.ppy.sh/beatmapsets/1321042#mania/2773340)
   - [sakuzyo - Hodia (Tidek) \[Vivace\]](https://osu.ppy.sh/beatmapsets/924601#mania/1931227)
 - Tiebreaker
-  - [Kanone vs Yooh - Cold Inflaction (Extended Mix) (\[Crz\]xz1z1z) \[Cold But With You\]](https://osu.ppy.sh/beatmapsets/1274517#mania/2648242)
+  - **[Kanone vs Yooh - Cold Inflaction (Extended Mix) (\[Crz\]xz1z1z) \[Cold But With You\]](https://osu.ppy.sh/beatmapsets/1274517#mania/2648242)**
 
 ### Group Stage
 
@@ -231,7 +224,7 @@ This competition has come to an end and resulted in the following podium:
   - [succducc - me & u (Shoegazer) \[yume\]](https://osu.ppy.sh/beatmapsets/781107#mania/1640584)
   - [Elijah Hill - Better (H1Pur) \[nearing perfection\]](https://osu.ppy.sh/beatmapsets/1376566#mania/2845109)
 - Tiebreaker
-  - [Camellia - Dance with Silence (\[Crz\]xz1z1z) \[Silence\]](https://osu.ppy.sh/beatmapsets/1405229#mania/2934744)
+  - **[Camellia - Dance with Silence (\[Crz\]xz1z1z) \[Silence\]](https://osu.ppy.sh/beatmapsets/1405229#mania/2934744)**
 
 ### Qualifiers
 
