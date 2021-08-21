@@ -23,7 +23,7 @@ La **osu! Mapping Olympiad** est un concours de mapping destiné à tous les mod
 - L'usage des [hitsounds](/wiki/Beatmapping/Hitsound) personnalisés est autorisé.
 - La collaboration entre mappeurs sur les participations sont interdites. 
 - Les beatmaps créées pour le concours ne doivent pas êtres publiées via le [Beatmap Submission System](/wiki/Submission) (BSS) jusqu'à ce que le concours soit terminé, et les résultats annoncés.
-  
+
 ## Précédentes éditions
 
 Les classements ci-dessous montrent le top 3 des participants pour chaque édition de la osu! Mapping Olympiad depuis la première édition.
@@ -31,7 +31,7 @@ Les classements ci-dessous montrent le top 3 des participants pour chaque éditi
 | Numéro du concours | ![Couronne dorée](/wiki/shared/crown-gold.png "Première place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | Résultats |
 | :-- | :-- | :-- | :-- | :-- |
 | [\#1: osu!](https://osu.ppy.sh/community/contests/63) | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_IT] [Bonzi](https://osu.ppy.sh/users/1313969), ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | ![][flag_UA] [Fallmorph](https://osu.ppy.sh/users/5720389), ![][flag_SG] [Rokkea](https://osu.ppy.sh/users/2500099), ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648), ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | [Résultats](https://osu.ppy.sh/home/news/2018-06-23-osu-mapping-olympiad-1-results) (23/06/2018) |
-| [\#2: osu!taiko](https://osu.ppy.sh/community/contests/65) | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | Résultats](https://osu.ppy.sh/home/news/2019-09-07-osu!taiko-mapping-olympiad-2-results) (07/09/2019) |
+| [\#2: osu!taiko](https://osu.ppy.sh/community/contests/65) | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | [Résultats](https://osu.ppy.sh/home/news/2019-09-07-osu!taiko-mapping-olympiad-2-results) (07/09/2019) |
 | [\#3: osu!mania](https://osu.ppy.sh/community/contests/67) | ![][flag_FI] [PianoLuigi](https://osu.ppy.sh/users/9665915) | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | ![][flag_ID] [\_VianK\_](https://osu.ppy.sh/users/6889055) | [Résultats](https://osu.ppy.sh/home/news/2019-12-27-osu-mapping-olympiad-3-results) (27/12/2019) |
 | [\#4: osu!catch](https://osu.ppy.sh/community/contests/69) | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | ![][flag_KR] [Minato Yukina](https://osu.ppy.sh/users/4647754) | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | [Résultats](https://osu.ppy.sh/home/news/2019-02-06-osu-mapping-olympiad-4-results) (06/02/2019) |
 | [\#5: Concept Mapping](https://osu.ppy.sh/community/contests/72) | ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593),![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | ![][flag_CA] [J1\_](https://osu.ppy.sh/users/5918561), ![][flag_HK] [how2miss](https://osu.ppy.sh/users/4477199) | [Résultats](https://osu.ppy.sh/home/news/2019-05-22-osu-mapping-olympiad-5-results) (22/05/2019) |
