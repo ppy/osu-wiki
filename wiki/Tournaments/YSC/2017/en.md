@@ -8,7 +8,7 @@ tags:
 
 ![YSC 2017 logo](img/logo.png)
 
-The **Yaz's Summer Cup 2017** (***YSC 2017***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) and sponsored by Ferocity Esports. It was the first instalment of the Yaz's Summer Cup.
+**Yaz's Summer Cup 2017** (***YSC 2017***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) and sponsored by Ferocity Esports. It was the first instalment of the Yaz's Summer Cup.
 
 ## Tournament schedule
 
