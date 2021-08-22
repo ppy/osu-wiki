@@ -684,7 +684,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1TnWnJ
 - Matches will be head to head, with score v2 as the scoring system used.
 - There will be no rank limit on sign-ups. The tournament will have open qualifiers with the top 64 players participating in the bracket stage.
 - Host, co-hosts, referees, schedulers, mappool selectors, and mappool testers are not permitted to sign up for the tournament.
-- All players must treat staff and other participants with a high level of respect, any kind of mistreatment in a match or on the discord (this includes extreme toxicity, racism, homophobia) will result in a ban and will be blacklisted from participating in future installments of this tournament.
+- All players must treat staff and other participants with a high level of respect, any kind of mistreatment in a match or on the discord (this includes extreme toxicity, racism, homophobia) will result in a ban and will be blacklisted from participating in future instalments of this tournament.
 - Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.
 - Each stage will be held on a Saturday/Sunday. Schedules and mappools will be released on the Monday/Tuesday before that stage is due to happen, to allow for reschedules.
 - Reschedules will be allowed if both players agree on a time and provide proof of the agreed reschedule to hosts/co-hosts/scheduling team.
@@ -695,7 +695,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1TnWnJ
 
 - Players will play the qualifiers mappool once.
 - Failed scores are counted as a pass.
-- The Top 64 qualifying scores will progress into the knockout stage.
+- The top 64 qualifying scores will progress into the knockout stage.
 
 ### Knockout stages
 
@@ -713,7 +713,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1TnWnJ
 - In the case of a disconnection, common sense will be applied: if proof exists of the disconnected player's score, it will be considered valid, and the winner of the point will be judged accordingly.
 - Any attempts to stall the match, show toxicity or spam during the match will result in a warning. Failure to comply with this rule again will result in a point being awarded to another player.
 - Failed scores are counted as a pass.
-- If there is a tie score on a map, the map will be nullified for the duration of the match and cannot be re-picked. This will not affect the pick order.
+- If there are tied scores on a map, the map will be nullified for the duration of the match and cannot be re-picked. This will not affect the pick order.
 - If there is a tie, the tiebreaker will be played to determine the winner of that match (mods are available during the tiebreaker).
 - At the end of the match, you are free to leave the lobby.
 

@@ -870,7 +870,7 @@ Thursday, 27 July 2017:
 - Referees will create the lobby and invite players 10 minutes before the match is due to start.
 - Any player that fails to show up 10 minutes after a match is due to start will forfeit the match and a win by default will be awarded to the other player.
 - Failure to attend a match without a valid reason may result in being blacklisted from participating in future tournaments.
-- The referee will have host at all times during the match. Players are expected to have a warm up and link the beatmap before the match starts.
+- The referee will have host at all times during the match. Players are expected to have a warm-up and link the beatmap before the match starts.
 - Players will have 90 seconds to ban a map. Failure to ban a map after this time will result in a loss of a ban.
 - Players will have 90 seconds to pick a map. Failure to pick a map after this time will result in the pick being passed to their opponent.
 - Disconnects during the first 30 seconds of the map will result in the map being replayed. Any disconnections after this will result in a forfeit of that map.
@@ -895,7 +895,7 @@ Thursday, 27 July 2017:
 
 - Seeding for knockouts will be as follows: Group A #1 vs Group B #2 etc.
 - In this stage, there will be warm-ups and 2 bans per player.
-- Players will roll once. The winner will have the first warm up, first ban and first pick.
+- Players will roll once. The winner will have the first warm-up, first ban and first pick.
 - In these stages, players are free to pick from any mod bracket.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
