@@ -8,7 +8,7 @@ tags:
 
 ![YSC 2021 logo](img/logo.jpg)
 
-The **Yaz's Summer Cup 2021** (***YSC 2021***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the fourth instalment of Yaz's Summer Cup.
+The **Yaz's Summer Cup 2021** (***YSC 2021***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the fourth instalment of the Yaz's Summer Cup.
 
 ## Tournament schedule
 
@@ -682,7 +682,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1TnWnJ
 - This tournament is a 1v1 double-elimination international osu! tournament.
 - This tournament will consist of 64 players.
 - Matches will be head to head, with score v2 as the scoring system used.
-- There will be no rank limit on signups. The tournament will have open qualifiers with the top 64 players participating in the bracket stage.
+- There will be no rank limit on sign-ups. The tournament will have open qualifiers with the top 64 players participating in the bracket stage.
 - Host, co-hosts, referees, schedulers, mappool selectors, and mappool testers are not permitted to sign up for the tournament.
 - All players must treat staff and other participants with a high level of respect, any kind of mistreatment in a match or on the discord (this includes extreme toxicity, racism, homophobia) will result in a ban and will be blacklisted from participating in future installments of this tournament.
 - Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.
