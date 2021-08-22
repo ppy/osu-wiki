@@ -8,7 +8,7 @@ tags:
 
 ![YSC 2018 logo](img/logo.jpg)
 
-**Yaz's Summer Cup 2018** (***YSC 2018***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the second instalment of the Yaz's Summer Cup.
+**Yaz's Summer Cup 2018** (***YSC 2018***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the second instalment of Yaz's Summer Cup.
 
 ## Tournament schedule
 
