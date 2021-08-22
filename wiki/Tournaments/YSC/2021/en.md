@@ -22,7 +22,7 @@ The **Yaz's Summer Cup 2021** (***YSC 2021***) was a 1v1 double-elimination osu!
 | Quarterfinals | 2021-07-23/2021-07-25 |
 | Semifinals | 2021-07-30/2021-08-01 |
 | Finals | 2021-08-06/2021-08-08 |
-| Grand Finals | 2021-08-13/2021-08-15 |
+| Grand Finals | 2021-08-21/2021-08-22 |
 
 ## Prizes
 
@@ -62,7 +62,7 @@ Yaz's Summer Cup 2021 was run by various community members.
 
 | Seed | Members |
 | :-: | :-- |
-| 1-16 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265), ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950), ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078), ![][flag_CA] [Zylice](https://osu.ppy.sh/users/5033077), ![][flag_AU] [rushia1](https://osu.ppy.sh/users/7562902), ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890), ![][flag_CA] [xootynator](https://osu.ppy.sh/users/3717598), ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515), ![][flag_US] [Exarch](https://osu.ppy.sh/users/5370153), ![][flag_US] [Utami](https://osu.ppy.sh/users/7512553), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031), ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528) |
+| 1-16 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265), ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950), ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078), ![][flag_CA] [Zylice](https://osu.ppy.sh/users/5033077), ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902), ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890), ![][flag_CA] [xootynator](https://osu.ppy.sh/users/3717598), ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515), ![][flag_US] [Exarch](https://osu.ppy.sh/users/5370153), ![][flag_US] [Utami](https://osu.ppy.sh/users/7512553), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031), ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528) |
 | 17-32 | ![][flag_BR] [niii\_san](https://osu.ppy.sh/users/5403374), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635), ![][flag_BR] [Mystia](https://osu.ppy.sh/users/4277702), ![][flag_US] [headstack](https://osu.ppy.sh/users/10322186), ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263), ![][flag_US] [BoshyMan741](https://osu.ppy.sh/users/4830687), ![][flag_US] [theez](https://osu.ppy.sh/users/4230827), ![][flag_TW] [Rucker](https://osu.ppy.sh/users/147515), ![][flag_CL] [Pekocambing](https://osu.ppy.sh/users/2546001), ![][flag_CN] [Gynophobia-](https://osu.ppy.sh/users/6090175), ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620), ![][flag_AU] [jordanlr7](https://osu.ppy.sh/users/11652827), ![][flag_BE] [Hanori](https://osu.ppy.sh/users/7078544), ![][flag_US] [Tj7223](https://osu.ppy.sh/users/10210668), ![][flag_TW] [Spinesnight](https://osu.ppy.sh/users/4519494) |
 | 33-48 | ![][flag_PL] [Mastasz](https://osu.ppy.sh/users/1876565), ![][flag_RU] [Dizick](https://osu.ppy.sh/users/5014197), ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837), ![][flag_US] [Venpris](https://osu.ppy.sh/users/8861593), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_SE] [Saika0k1](https://osu.ppy.sh/users/4316633), ![][flag_AR] [Pein](https://osu.ppy.sh/users/2212941), ![][flag_LV] [Akolibed](https://osu.ppy.sh/users/9269034), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106), ![][flag_PL] [Aldrouch](https://osu.ppy.sh/users/5575135), ![][flag_US] [Spev](https://osu.ppy.sh/users/9047729), ![][flag_AU] [GranDSenpaiu](https://osu.ppy.sh/users/3997580), ![][flag_AU] [Vivace](https://osu.ppy.sh/users/3698691), ![][flag_RU] [Leva\_Russian](https://osu.ppy.sh/users/5199332), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |
 | 49-64 | ![][flag_US] [AlmightyDoor](https://osu.ppy.sh/users/11715109), ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_US] [-Arko](https://osu.ppy.sh/users/8802914), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458), ![][flag_US] [FlashoFoSho](https://osu.ppy.sh/users/4755314), ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484), ![][flag_BR] [Astris](https://osu.ppy.sh/users/6173856), ![][flag_AU] [Arbusion](https://osu.ppy.sh/users/11469447), ![][flag_US] [Jakson](https://osu.ppy.sh/users/8788058), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_JP] [haga1115](https://osu.ppy.sh/users/6574823), ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_PL] [gogos19](https://osu.ppy.sh/users/12009458), ![][flag_JP] [\_tottoko\_](https://osu.ppy.sh/users/8354698) |
@@ -75,10 +75,12 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_] [tbd]() |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_] [tbd]() |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
 | *4th place* | ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950) |
+
+![YSC 2021 podium](img/podium.jpg)
 
 ## Mappools
 
@@ -306,7 +308,8 @@ Sunday, 22 August 2021:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Mathi ![][flag_CL] | score | score | ![][flag_AU] rushia1 | [#1]() |
+| Mathi ![][flag_CL] | 4 | **7** | ![][flag_AU] **mrekk** | [#1](https://osu.ppy.sh/community/matches/89650143) |
+| **mrekk** ![][flag_AU] | **7** | 2 | ![][flag_CL] Mathi | [#1](https://osu.ppy.sh/community/matches/89652797) |
 
 #### Losers Final
 
@@ -314,7 +317,7 @@ Saturday, 21 August 2021:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **rushia1** ![][flag_AU] | **7** | 5 | ![][flag_GB] Bubbleman | [#1](https://osu.ppy.sh/community/matches/89607856) |
+| **mrekk** ![][flag_AU] | **7** | 5 | ![][flag_GB] Bubbleman | [#1](https://osu.ppy.sh/community/matches/89607856) |
 
 ### Finals
 
@@ -324,7 +327,7 @@ Sunday, 8 August 2021:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| rushia1 ![][flag_AU] | 6 | **7** | ![][flag_CL] **Mathi** | [#1](https://osu.ppy.sh/community/matches/88861304) |
+| mrekk ![][flag_AU] | 6 | **7** | ![][flag_CL] **Mathi** | [#1](https://osu.ppy.sh/community/matches/88861304) |
 
 #### Losers Bracket Round 8
 
@@ -356,7 +359,7 @@ Saturday, 31 July 2021:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **rushia1** ![][flag_AU] | **6** | 0 | ![][flag_SE] Reedkatt | [#1](https://osu.ppy.sh/community/matches/88390248) |
+| **mrekk** ![][flag_AU] | **6** | 0 | ![][flag_SE] Reedkatt | [#1](https://osu.ppy.sh/community/matches/88390248) |
 
 Tuesday, 3 August 2021:
 
@@ -409,7 +412,7 @@ Saturday, 24 July 2021:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Bubbleman ![][flag_GB] | 2 | **6** | ![][flag_AU] **ruisha1** | [#1](https://osu.ppy.sh/community/matches/87975293) |
+| Bubbleman ![][flag_GB] | 2 | **6** | ![][flag_AU] **mrekk** | [#1](https://osu.ppy.sh/community/matches/87975293) |
 | Bartek22830 ![][flag_PL] | 4 | **6** | ![][flag_CL] **Mathi** | [#1](https://osu.ppy.sh/community/matches/87994910) |
 
 #### Losers Bracket Round 4
@@ -467,7 +470,7 @@ Sunday, 18 July 2021:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **rushia1** ![][flag_AU] | **6** | 1 | ![][flag_US] theez | [#1](https://osu.ppy.sh/community/matches/87597097) |
+| **mrekk** ![][flag_AU] | **6** | 1 | ![][flag_US] theez | [#1](https://osu.ppy.sh/community/matches/87597097) |
 | **im a fancy lad** ![][flag_US] | **6** | 0 | ![][flag_ID] Rexeez | [#1](https://osu.ppy.sh/community/matches/87599493) |
 | **Bartek22830** ![][flag_PL] | **6** | 1 | ![][flag_GB] Karthy | [#1](https://osu.ppy.sh/community/matches/87617947) |
 | FlyingTuna ![][flag_KR] | 5 | **6** | ![][flag_CL] **Mathi** | [#1](https://osu.ppy.sh/community/matches/87622076) |
@@ -571,7 +574,7 @@ Sunday, 11 July 2021:
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Arnold24x24** ![][flag_PE] | **5** | 0 | ![][flag_AU] jordanlr7 | [#1](https://osu.ppy.sh/community/matches/87157696) |
-| **rushia1** ![][flag_AU] | **5** | 1 | ![][flag_LV] Akolibed | [#1](https://osu.ppy.sh/community/matches/87170692) |
+| **mrekk** ![][flag_AU] | **5** | 1 | ![][flag_LV] Akolibed | [#1](https://osu.ppy.sh/community/matches/87170692) |
 | **Bartek22830** ![][flag_PL] | **5** | 1 | ![][flag_PH] Rammu | [#1](https://osu.ppy.sh/community/matches/87177373) |
 | **FlyingTuna** ![][flag_KR] | **5** | 2 | ![][flag_SE] Saika0k1 | [#1](https://osu.ppy.sh/community/matches/87183984) |
 | **Mathi** ![][flag_CL] | **5** | 3 | ![][flag_RU] Skrowell | [#1](https://osu.ppy.sh/community/matches/87189027) |
@@ -652,7 +655,7 @@ Sunday, 4 July 2021:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **rushia1** ![][flag_AU] | **5** | 2 | ![][flag_AU] Arbusion | [#1](https://osu.ppy.sh/community/matches/86756018) |
+| **mrekk** ![][flag_AU] | **5** | 2 | ![][flag_AU] Arbusion | [#1](https://osu.ppy.sh/community/matches/86756018) |
 | **jordanlr7** ![][flag_AU] | **5** | 1 | ![][flag_US] Venpris | [#1](https://osu.ppy.sh/community/matches/86756115) |
 | Vinno ![][flag_ID] | 3 | **5** | ![][flag_AU] **Vivace** | [#1](https://osu.ppy.sh/community/matches/86757860) |
 | **Spinesnight** ![][flag_TW] | **5** | 2 | ![][flag_PL] Mastasz | [#1](https://osu.ppy.sh/community/matches/86766257) |
