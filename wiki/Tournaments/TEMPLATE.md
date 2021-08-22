@@ -6,7 +6,7 @@ tags:
 
 # {TITLE}
 
-![{SHORT_TITLE} logo/banner](img/logo.png) <!-- choose the option that suits the image better -->
+![{SHORT_TITLE} logo](img/logo.png) <!-- replace "logo" with "banner" if that suits the image better -->
 
 The **{TITLE}** (***{SHORT_TITLE}***) is a <!-- enter applicable tournament traits, example: {N}v{N}, double-elimination, country-based --> {MODE} tournament hosted by {ORGANISERS} <!-- list the organisers here with their flags -->. It is the {ITERATION_ORDINAL} instalment of the {SERIES_TITLE}.
 
@@ -56,9 +56,9 @@ The {TITLE} is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/{TOPIC_NUM})
-- [Livestream](https://www.twitch.tv/AccountName "Twitch")
-- **[Statistics sheet](StatisticsLink "App Name")**
+- [Discussion thread]({THREAD_LINK})
+- [Livestream]({LIVESTREAM_LINK} "Website name")
+- **[Statistics sheet]({SHEET_LINK} "Website name")**
 
 ## Participants
 
@@ -139,7 +139,18 @@ Day, date: <!-- e.g. Saturday, 17 June 2018: -->
 
 ## Ruleset
 
-<!-- organise the ruleset of your tournament here -->
+<!-- organise the ruleset of your tournament here
+
+example header structure:
+
+### General
+### Registration
+### Stages
+### Scheduling
+### Mappools
+### Match procedure
+
+ -->
 
 <!--
 Add flag references here.
