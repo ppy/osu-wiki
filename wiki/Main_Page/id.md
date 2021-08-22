@@ -17,7 +17,7 @@ Artikel dan panduan penting yang akan membantu Anda mendalami osu!. Jika terjadi
 
 [Peraturan](/wiki/Rules) • [Instalasi](/wiki/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_Centre)
   
-[Konsol chat](/wiki/Chat_Console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Panduan](/wiki/Guides) • [Glossary](/wiki/Glossary)
+[Konsol chat](/wiki/Chat_Console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Panduan](/wiki/Guides) • [Glosarium](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
