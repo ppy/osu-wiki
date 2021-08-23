@@ -46,7 +46,7 @@ Semuanya tentang mengklik lingkaran, memukul drum, menangkap buah, dan memainkan
 
 # [Beatmap editor](/wiki/Beatmap_Editor)
   
-Semua beatmap berada di osu! dibuat oleh imajinasi yang berkembang dari komunitasnya yang dinamis. Ingin selalu berbagi musik favorit Anda dengan orang lain, tetapi tidak pernah tahu caranya? Biasakan diri Anda dengan editor bawaan dan peluang yang ditawarkannya.
+Semua beatmap berada di osu! dibuat oleh imajinasi yang berkembang dari komunitasnya yang dinamis. Ingin selalu berbagi musik favoritmu dengan orang lain, tetapi tidak pernah tahu caranya? Biasakan dirimu dengan editor bawaan dan peluang yang ditawarkannya.
 
 Bagian: [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)
 
@@ -59,7 +59,7 @@ Kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Mapping_Te
 
 # Submisi dan proses ranking beatmap
   
-Peringkat adalah proses memperoleh papan peringkat untuk sebuah beatmap, menjadikannya lebih populer dan dikenal dengan baik. Temukan apa yang diperlukan untuk menempuh jalur ini dan bagaimana meningkatkan peluang Anda untuk berhasil melalui tinjauan beatmap, serta prosedur untuk kontrol kualitas dan proses peringkat.
+Peringkat adalah proses memperoleh papan peringkat untuk sebuah beatmap, menjadikannya lebih populer dan dikenal dengan baik. Temukan apa yang diperlukan untuk menempuh jalur ini dan bagaimana meningkatkan peluangmu untuk berhasil melalui tinjauan beatmap, serta prosedur untuk kontrol kualitas dan proses peringkat.
 
 [Pengunggahan beatmap](/wiki/Submission) • [Modding](/wiki/Modding) • [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
@@ -129,7 +129,7 @@ Berinteraksi dengan osu! melalui aplikasi dan media lain, atau membantunya berke
 
 # Wiki dan halaman meta
   
-Sama seperti semua yang ada di sini, osu! wiki ditulis dan dikelola oleh sukarelawan. Sarankan perbaikan, laporkan masalah, atau bahkan tulis artikel Anda sendiri di [GitHub repositori osu-wiki](https://github.com/ppy/osu-wiki "osu! wiki di GitHub").
+Sama seperti semua yang ada di sini, osu! wiki ditulis dan dikelola oleh sukarelawan. Sarankan perbaikan, laporkan masalah, atau bahkan tulis artikelmu sendiri di [GitHub repositori osu-wiki](https://github.com/ppy/osu-wiki "osu! wiki di GitHub").
 
 [Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
