@@ -4,7 +4,7 @@ title: "Summer 2021 Track and Field Fanart Contest Results"
 date: 2021-08-23 12:00:00 +0000
 ---
 
-The race is over, now witness the podium finish in all its glory with 15 new Summer seasonal backgrounds!
+The race is over — now witness the podium finish in all its glory with 15 new Summer seasonal backgrounds!
 
 ![](https://assets.ppy.sh/contests/133/header-winner.jpg)
 
@@ -26,7 +26,7 @@ A big congratulations goes to Porukana, who has been a regular participant in th
 
 [![](https://assets.ppy.sh/contests/133/banners/Ravioli-.jpg)](https://assets.ppy.sh/contests/133/winners/Ravioli-.png)
 
-**2586** voters could not help but listen to [**Ravioli-**](https://osu.ppy.sh/users/8678404)'s take on Mocha pleading with pippi and Chirou to slow down a bit mid way through a marathon run.
+**2586** voters could not help but listen to [**Ravioli-**](https://osu.ppy.sh/users/8678404)'s take on Mocha pleading with pippi and Chirou to slow down a bit midway through a marathon run.
 
 It's a good thing Chirou is staying hydrated in this one, but it is a terrible shame that the cup she's drinking from is occluding her runner's number. I guess we'll never know what it was.
 
@@ -52,7 +52,7 @@ So excellently done!
 
 [![](https://assets.ppy.sh/contests/133/banners/Kwms024.jpg)](https://assets.ppy.sh/contests/133/winners/Kwms024.png)
 
-Athletic energy is front and center in [**Kwms024**](https://osu.ppy.sh/users/11516014)'s entry, scoring **1760** votes from hyped up observers, showcasing the prowess of all the official mascots across every game mode. And a fish.
+Athletic energy is front and center in [**Kwms024**](https://osu.ppy.sh/users/11516014)'s entry, scoring **1760** votes from hyped-up observers, showcasing the prowess of all the official mascots across every game mode. And a fish.
 
 There will be no talk of competitor numbers. None whatsoever.
 
@@ -66,7 +66,7 @@ There will be no talk of competitor numbers. None whatsoever.
 
 [![](https://assets.ppy.sh/contests/133/banners/McFriedFries.jpg)](https://assets.ppy.sh/contests/133/winners/McFriedFries.png)
 
-**1547** voters were wowed by the sheer cool factor of [**McFriedFries**](https://osu.ppy.sh/users/12694139)'s pippi mid jump. Just look at her! That's a lady who knows where she's going: right over that bar, and she's confident enough to give the crowd a nod while she's at it.
+**1547** voters were wowed by the sheer cool-factor of [**McFriedFries**](https://osu.ppy.sh/users/12694139)'s pippi mid-jump. Just look at her! That's a lady who knows where she's going: right over that bar, and she's confident enough to give the crowd a nod while she's at it.
 
 [![](https://assets.ppy.sh/contests/133/banners/Phoebe%20Yu.jpg)](https://assets.ppy.sh/contests/133/winners/Phoebe%20Yu.png)
 
@@ -76,7 +76,7 @@ Bonus imaginary points for taking a very unexpected twist on the theme and setti
 
 [![](https://assets.ppy.sh/contests/133/banners/kabandayo.jpg)](https://assets.ppy.sh/contests/133/winners/kabandayo.png)
 
-[**kabandayo**](https://osu.ppy.sh/users/21567829) wowed over **1472** voters with their take on a baton pass moment between pippi and Mocha mid way through a race. Just look at how excited pippi is!
+[**kabandayo**](https://osu.ppy.sh/users/21567829) wowed over **1472** voters with their take on a baton pass moment between pippi and Mocha midway through a race. Just look at how excited pippi is!
 
 [![](https://assets.ppy.sh/contests/133/banners/Tin%20Can.jpg)](https://assets.ppy.sh/contests/133/winners/Tin%20Can.png)
 
@@ -92,7 +92,7 @@ A truly spectacular piece and easily one of the most memorable fanart entries I 
 
 [![](https://assets.ppy.sh/contests/133/banners/Loichuu.jpg)](https://assets.ppy.sh/contests/133/winners/Loichuu.png)
 
-**1159** voters embraced the chaos (and cute) of [**Loichuu**](https://osu.ppy.sh/users/460210)'s most athletic scene depicting pippi undertaking a victory lap while Chirou drops her ice water bowl in an ill-fated pursuit. And of course, where there is Yuzu, there is *shenanigans*, as that rather ominously aimed disc might suggest...
+**1159** voters embraced the chaos (and cuteness) of [**Loichuu**](https://osu.ppy.sh/users/460210)'s most athletic scene depicting pippi undertaking a victory lap while Chirou drops her ice water bowl in an ill-fated pursuit. And of course, where there is Yuzu, there is *shenanigans*, as that rather ominously aimed disc might suggest...
 
 ---
 
@@ -100,9 +100,9 @@ A truly spectacular piece and easily one of the most memorable fanart entries I 
 
 The [Summer 2021 Track and Field Fanart Contest listing](https://osu.ppy.sh/community/contests/133) awaits with the full rundown for everyone who entered, so make sure to check that all out and see where your favourite entries ended up in the tally if they didn't make it here.
 
-You'll find the finalists listed above are available in game now as the Summer 2021 seasonal backgrounds (and in osu!lazer too!). The top three artists have also earned themselves a special profile badge featuring their winning work, and everybody here also goes home with 3 months of osu!supporter to celebrate their victory.
+You'll find the finalists listed above are available in-game now as the Summer 2021 seasonal backgrounds (and in osu!(lazer) too!). The top three artists have also earned themselves a special profile badge featuring their winning work, and everybody here also goes home with 3 months of osu!supporter to celebrate their victory.
 
-Thank you to everybody who entered and voted, and we'll see you in only a couple of weeks for another Fan Art contest, because as you all know by now, the end of the year is just chock full of them.
+Thank you to everybody who entered and voted, and we'll see you in only a couple of weeks for another Fan Art contest, because as you all know by now, the end of the year is just chock-full of them.
 
 See you then!
 
