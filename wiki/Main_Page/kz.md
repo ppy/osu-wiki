@@ -17,16 +17,16 @@ Important articles and guides that will help you dive into osu!. In case anythin
 
 [Ережелер](/wiki/Rules) • [Жүктеу](/wiki/Installation) • [Тіркеу](/wiki/Registration) • [Анықтама орталығы](/wiki/Help_Centre)
 
-[Chat console](/wiki/Chat_Console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides) • [Glossary](/wiki/Glossary)
+[Чат консолі](/wiki/Chat_Console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Нұсқаулық](/wiki/Guides) • [Сөздік](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Game client
+# Ойын клиенті
 
 Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know the game better from its various settings and customisation capabilities to technical details and file formats it uses.
 
-[Interface](/wiki/Interface) • [Options](/wiki/Options) • [Visual settings](/wiki/Visual_Settings) • [Shortcut key reference](/wiki/Shortcut_key_reference) • [Configuration file](/wiki/osu!_Program_Files/User_Configuration_File) • [Program files](/wiki/osu!_Program_Files)
+[Интерфейс](/wiki/Interface) • [Баптау](/wiki/Options) • [Visual settings](/wiki/Visual_Settings) • [Shortcut key reference](/wiki/Shortcut_key_reference) • [Configuration file](/wiki/osu!_Program_Files/User_Configuration_File) • [Program files](/wiki/osu!_Program_Files)
 
 [File formats](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
 
