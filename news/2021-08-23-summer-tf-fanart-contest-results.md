@@ -8,7 +8,7 @@ The race is over, now witness the podium finish in all its glory with 15 new Sum
 
 ![](https://assets.ppy.sh/contests/133/header-winner.jpg)
 
-Over five thousand individual voters had their say, and we now finally have our winners for the Summer 2021 Track and Field Fanart Contest!
+Over five thousand individual voters had their say, and we finally have our winners for the Summer 2021 Track and Field Fanart Contest!
 
 What a contest it was, with **80** brave contenders putting their creations forth for approval from the masses with only **10** votes each to go around — certainly no small feat for any artist, no matter how experienced they might be! A huge thank you to everyone who participated!
 
