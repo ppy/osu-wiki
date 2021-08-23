@@ -78,7 +78,7 @@ Bonus imaginary points for taking a very unexpected twist on the theme and setti
 
 [**kabandayo**](https://osu.ppy.sh/users/21567829) wowed over **1472** voters with their take on a baton pass moment between pippi and Mocha mid way through a race. Just look at how excited pippi is!
 
-[![](https://assets.ppy.sh/contests/133/banners/Tin Can.jpg)](https://assets.ppy.sh/contests/133/winners/Tin Can.png)
+[![](https://assets.ppy.sh/contests/133/banners/Tin%20Can.jpg)](https://assets.ppy.sh/contests/133/winners/Tin%20Can.png)
 
 **1222** voters joined Chirou, a don and the Taikonator in cheering on [**Tin Can**](https://osu.ppy.sh/users/10682807)'s pippi and Mocha through a baton marathon. Unfortunately for Mocha, it seems like she's about to be introduced to the ground or drop her baton — possibly both at the same time. Such is the struggle of an athlete.
 
