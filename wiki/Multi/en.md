@@ -8,7 +8,7 @@ needs_cleanup: true
 
 Multi (also known as *Multiplayer*) was implemented on 03 June 2008 (2008-06-03) under osu! Public Release b335, and is a game mode in which up to sixteen(16) players can compete against each other on a single map decided by the host.
 
-The [osu!academy](/wiki/osu!academy) covered this topic in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with the [Online Users Panel](/wiki/Chat_Console#extended-chat-console).
+The [osu!academy](/wiki/osu!academy) covered this topic in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII "YouTube") along with the [Online Users Panel](/wiki/Chat_Console#extended-chat-console).
 
 ## How to enter
 

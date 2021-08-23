@@ -37,11 +37,11 @@ A beatmap is unable to be nominated<!-- TODO: link --> if it has the `Unspecifie
 | Unspecified | No songs are applicable. This genre is a placeholder until a proper one is set. |
 | Video Game | Made for or made popular by a video game. This is also used for arrangements and remixes of those songs. |
 | Anime | Made for or made popular by an anime or similar medium. |
-| Rock | Mostly focusing on guitars, drums, and bass, typically "built on a foundation of simple unsyncopated rhythms" and characterised by "live performance and a focus on serious and progressive themes" ([*Rock music* on Wikipedia](https://en.wikipedia.org/wiki/Rock_music#Characteristics)). |
+| Rock | Mostly focusing on guitars, drums, and bass, typically "built on a foundation of simple unsyncopated rhythms" and characterised by "live performance and a focus on serious and progressive themes" ([*Rock music* on Wikipedia](https://en.wikipedia.org/wiki/Rock_music#Characteristics "Wikipedia")). |
 | Pop | Prominent in pop culture, and composed to be catchy by use of simple structure and repeated choruses or melodies. |
 | Other | Not belonging to any of the listed genres. |
 | Novelty | Comical or unusual. In osu!, this category primarily includes songs like YouTube Poops, Niconico MADs, and meme music. |
-| Hip Hop | "Stylized rhythmic music that commonly accompanies rapping," sometimes "sampling beats or bass lines from records" ([*Hip hop music* on Wikipedia](https://en.wikipedia.org/wiki/Hip_hop_music)). |
+| Hip Hop | "Stylized rhythmic music that commonly accompanies rapping," sometimes "sampling beats or bass lines from records" ([*Hip hop music* on Wikipedia](https://en.wikipedia.org/wiki/Hip_hop_music "Wikipedia")). |
 | Electronic | Composed digitally or with electronic instruments. |
 | Metal | Having a heavy sound, making use of loud and distorted electric guitars and bass, and containing fast or dense drum rhythms. |
 | Classical | Formal, structured around advanced musical theory, and having roots in old western culture or taking inspiration from it. |

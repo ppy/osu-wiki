@@ -16,7 +16,7 @@ Nominator: [kingcobra52](https://osu.ppy.sh/users/9934)
 **Etna sliders** is typically comprised of 6 to 8 sliders that are half a beat long and separated by another half a beat.
 They can go in any direction and there are usually plenty of them.
 
-The term "Etna sliders" were coined by [awp](https://osu.ppy.sh/users/2650) and named after a [character from Disgaea](https://disgaea.fandom.com/wiki/Etna) who appeared in one of his maps.
+The term "Etna sliders" were coined by [awp](https://osu.ppy.sh/users/2650) and named after a [character from Disgaea](https://disgaea.fandom.com/wiki/Etna "Fandom") who appeared in one of his maps.
 
 [This post was how it all began.](https://osu.ppy.sh/community/forums/posts/5783)
 

@@ -11,8 +11,8 @@ tags:
 
 ## Links
 
-- **[Website](https://ppy.sh/)**
-- [ppy blog](https://blog.ppy.sh/)
+- **[Website](https://ppy.sh/ "ppy")**
+- [ppy blog](https://blog.ppy.sh/ "ppy blog")
 - [GitHub](https://github.com/peppy "GitHub")
 - [Twitter](https://twitter.com/ppy "Twitter")
 - [Twitch](https://www.twitch.tv/ppy "Twitch")

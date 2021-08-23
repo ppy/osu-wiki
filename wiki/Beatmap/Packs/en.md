@@ -40,6 +40,6 @@ The beatmaps packs can be found and downloaded from: [osu! Beatmaps Packs page](
 ### Torrenting
 
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
-  - [PandoTracker](https://pandotracker.me) by [- Pandoro](https://osu.ppy.sh/users/2574057)
+  - [PandoTracker](https://pandotracker.me "PandoTracker") by [- Pandoro](https://osu.ppy.sh/users/2574057)
 
 You will need a lot of space (and bandwidth) to torrent all of these packs.

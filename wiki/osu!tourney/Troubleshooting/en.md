@@ -46,7 +46,7 @@ See previous answer.
 
 ## How do I stream my tournament to streaming services like Twitch?
 
-We recommend using [Open Broadcaster Software](https://obsproject.com/), but any other streaming program that can capture the screen may also be used.
+We recommend using [Open Broadcaster Software](https://obsproject.com/ "OBS"), but any other streaming program that can capture the screen may also be used.
 
 The resolution of the top part of osu!tourney can be customised in the `tournament.cfg` file but by default it is `1280x720`. Make sure that the resolution of your monitor is larger than this value. See the [setup guide](/wiki/osu!tourney/Setup) for information on how to change the resolution.
 

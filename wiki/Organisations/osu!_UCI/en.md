@@ -15,11 +15,11 @@ See the [osu! UCI tournament index](/wiki/Tournaments/osu!_UCI) for wiki article
 
 ## Links
 
-- **[Website](http://www.osuuci.com)**
-- [Discord server](https://discord.gg/qbZddFV)
-- [Facebook group](https://www.facebook.com/groups/osuuci/)
-- [Twitch channel](https://www.twitch.tv/osuuci)
-- [Twitter](https://twitter.com/osuUCI)
+- **[Website](http://www.osuuci.com "osu! UCI")**
+- [Discord server](https://discord.gg/qbZddFV "Discord")
+- [Facebook group](https://www.facebook.com/groups/osuuci/ "Facebook")
+- [Twitch channel](https://www.twitch.tv/osuuci "Twitch")
+- [Twitter](https://twitter.com/osuUCI "Twitter")
 
 ## Officers
 

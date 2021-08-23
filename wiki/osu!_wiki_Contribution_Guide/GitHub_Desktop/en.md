@@ -1,10 +1,10 @@
 # GitHub Desktop
 
-*This article continues from [the main page](/wiki/osu!_wiki_Contribution_Guide)* and assumes that you will be using [GitHub Desktop](https://desktop.github.com). **You may use other Git clients on your own terms.** Even if you do work locally, you will still need to access GitHub to create pull requests to make your changes happen.
+*This article continues from [the main page](/wiki/osu!_wiki_Contribution_Guide)* and assumes that you will be using [GitHub Desktop](https://desktop.github.com "GitHub"). **You may use other Git clients on your own terms.** Even if you do work locally, you will still need to access GitHub to create pull requests to make your changes happen.
 
 ## Installing GitHub Desktop
 
-1. Install [GitHub Desktop](https://desktop.github.com) if you don't have it installed already.
+1. Install [GitHub Desktop](https://desktop.github.com "GitHub") if you don't have it installed already.
 2. When installation is completed, GitHub Desktop will prompt you to sign in, click `Sign in to GitHub.com`.
 3. Fill in the prompts as they appear.
 4. Continue to [Cloning](#cloning).
@@ -25,7 +25,7 @@
 
 ## Branching
 
-While branching is technically optional, it is [highly recommended for a couple of reasons](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). To name a few:
+While branching is technically optional, it is [highly recommended for a couple of reasons](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow "Atlassian"). To name a few:
 
 - Branches isolate different logical changes from each other: you can work on more than one article and have them reviewed and merged separately.
 - When your changes are outside of the `master` branch, you can [safely sync it](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#my-branch-is-out-of-date!) without merge conflicts.
@@ -52,7 +52,7 @@ While branching is technically optional, it is [highly recommended for a couple 
 
 ### Creating new files
 
-*Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) for instructions.
+*Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer "Microsoft") for instructions.
 
 1. Use Windows Explorer, your favorite image editor, and/or your favorite text editor, to create new files. If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/Article_styling_criteria/Formatting#locales).
 2. Continue to [Committing and pushing](#committing-and-pushing).

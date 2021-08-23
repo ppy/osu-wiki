@@ -282,7 +282,7 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
   - [RYO - Shuffle Heaven (Nwolf) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/194109#taiko/461057)
 - HardRock
   - [Camellia - Sayonara Heaven (Camellia's NEKOMATAelectroRMX) (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/964453#taiko/2027842)
-  - [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (TKSalt) \[Futsuu\]](https://beatconnect.io/b/108948 )
+  - [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (TKSalt) \[Futsuu\]](https://beatconnect.io/b/108948 "Beatconnect")
 - DoubleTime
   - [XXXTENTACION - Jocelyn Flores (Chromoxx) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/705133#taiko/1491486)
   - [Sano Gaku - Rise Up Your Flag (Meow2) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/221626#taiko/555274)

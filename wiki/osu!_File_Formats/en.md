@@ -47,8 +47,8 @@
 
 **Picture examples** (credit to [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
 
-- [WinRAR](https://puu.sh/1MBV)
-- [7-zip](https://puu.sh/1MBW)
+- [WinRAR](https://puu.sh/1MBV "puush")
+- [7-zip](https://puu.sh/1MBW "puush")
   - For beatmap, use .osz extension.
 
 ### From the game

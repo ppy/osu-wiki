@@ -15,7 +15,7 @@ A sneak peek of the osu!next design was on display in the 46th issue of osu!week
 Links:
 
 - [osu!weekly \#46](https://osu.ppy.sh/home/news/2016-02-02-osuweekly-46)
-- [2016-01](https://blog.ppy.sh/post/138642696393/2016-01)
+- [2016-01](https://blog.ppy.sh/post/138642696393/2016-01 "ppy blog")
 - [Best of 2015: Results](https://osu.ppy.sh/home/news/2016-02-06-best-of-2015-results)
 - [osu!weekly \#48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
 - [osu!weekly \#49](https://osu.ppy.sh/home/news/2016-02-23-osuweekly-49)
@@ -50,7 +50,7 @@ Links:
 
 - [Mapping With Rewards #1 - Bounties Complete!](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete)
 - [osu!idol 2016 - Registrations open!](https://osu.ppy.sh/home/news/2016-06-03-osuidol-2016-registrations-open)
-- [a long-overdue update – ppy blog](https://blog.ppy.sh/post/146687255823/a-long-overdue-update)
+- [a long-overdue update – ppy blog](https://blog.ppy.sh/post/146687255823/a-long-overdue-update "ppy blog")
 
 ## July
 
@@ -71,7 +71,7 @@ Links:
 - [New Hush-Hush Medals!](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals)
 - [osu!taiko mascot voting](https://osu.ppy.sh/home/news/2016-08-22-osutaiko-mascot-voting)
 - [osu!remix contest #1: Results](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results)
-- [osu! on Twitter](https://twitter.com/osugame/status/770153577255796737)
+- [osu! on Twitter](https://twitter.com/osugame/status/770153577255796737 "Twitter")
 
 ## September
 
@@ -80,7 +80,7 @@ Links:
 Links:
 
 - [osu!mania 4K World Cup Results!](https://osu.ppy.sh/home/news/2016-09-10-osumania-4k-world-cup-results)
-- [Dean Herbert on twitter](https://twitter.com/ppy/status/777101188277739522)
+- [Dean Herbert on twitter](https://twitter.com/ppy/status/777101188277739522 "Twitter")
 - [osu!taiko Mascot Community Vote Results](https://osu.ppy.sh/home/news/2016-09-21-osutaiko-mascot-community-vote-results)
 - [Community Mapping Contest \#1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)
 

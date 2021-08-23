@@ -45,4 +45,4 @@ These titles were only visible on the sidebars of forum posts (not on the users'
 
 ## Trivia
 
-- User titles are referred to as "rank titles" throughout the game's code. This is a leftover name from when osu! was built on top of [phpBB](https://www.phpbb.com/).
+- User titles are referred to as "rank titles" throughout the game's code. This is a leftover name from when osu! was built on top of [phpBB](https://www.phpbb.com/ "phpBB").

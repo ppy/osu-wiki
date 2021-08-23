@@ -4,7 +4,7 @@ legal: true
 
 # osu! privacy policy
 
-Last Updated 16th April 2021. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Last Updated 16th April 2021. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md "GitHub")
 
 In addition to this policy, please also make sure to visit and understand our [Terms of Service](/wiki/Legal/Terms).
 
@@ -89,18 +89,18 @@ We may share your personal data with third parties in very specific cases:
 - Where you have expressly made information public
 - To fulfil your store orders
 - To process payments via payment processing providers like Paypal and Xsolla
-- To process your customer service tickets (we use [Enchant](https://enchant.com))
-- In order to improve our service, via error logging (we use [Sentry](https://sentry.io))
+- To process your customer service tickets (we use [Enchant](https://enchant.com "Enchant"))
+- In order to improve our service, via error logging (we use [Sentry](https://sentry.io "Sentry"))
 
 ## Your rights and control
 
-As a user you have the right to migrate, update or delete your personal information. This can be done primarily from the [user settings](https://osu.ppy.sh/home/account/edit), or where not available from a localised "Edit" feature on the relevant section of our site. In cases you wish to programmatically retrieve your full account data, please use our [public API](https://github.com/ppy/osu-api/wiki).
+As a user you have the right to migrate, update or delete your personal information. This can be done primarily from the [user settings](https://osu.ppy.sh/home/account/edit), or where not available from a localised "Edit" feature on the relevant section of our site. In cases you wish to programmatically retrieve your full account data, please use our [public API](https://github.com/ppy/osu-api/wiki "GitHub").
 
 In many cases, user submissions such as forum posts and beatmaps can be deleted on an individual basis. You will find delete buttons directly associated with the items that can be deleted.
 
 You have the option of deleting your account from our service. Please note that this is currently a manual process and may take several days to complete ([contact us](mailto:privacy@ppy.sh) to file a request). In the case of account deletion, portions of your public contributions may remain intact, as detailed in "Information we collect".
 
-As we have a strict one-account-per-user policy to maintain fair leaderboards, after account deletion you may not be able to return to our service. To enforce this, we will also maintain the unique identifying string as mentioned in "Information we collect", even after account deletion. This is done so as a [legitimate interest as outlined in the GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) in order to enforce our rules. Rest assured, this information is one-way hashed and cannot be used to identify you outside of osu!, or beyond the precise context of enforcing this rule.
+As we have a strict one-account-per-user policy to maintain fair leaderboards, after account deletion you may not be able to return to our service. To enforce this, we will also maintain the unique identifying string as mentioned in "Information we collect", even after account deletion. This is done so as a [legitimate interest as outlined in the GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/ "ICO") in order to enforce our rules. Rest assured, this information is one-way hashed and cannot be used to identify you outside of osu!, or beyond the precise context of enforcing this rule.
 
 ## Cookies
 

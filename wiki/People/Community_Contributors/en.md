@@ -15,14 +15,14 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | User | Contributions |
 | :-- | :-- |
 | ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Developing and maintaining the [osu!record service](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` to video file). |
-| ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Hosting and maintaining one of osu!'s longest running [beatmap mirrors](https://osu.yas-online.net/). |
+| ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Hosting and maintaining one of osu!'s longest running [beatmap mirrors](https://osu.yas-online.net/ "osu! Beatmap Pack Mirror"). |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Numerous (beyond count) graphical contributions to the game client and everything else. |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | [Achievement](/wiki/Medals) artwork. |
 | ![][flag_US] [akrolsmir](https://osu.ppy.sh/users/576800) | Developing and maintaining [AIBat](https://osu.ppy.sh/community/forums/topics/55305), the most popular third-party beatmap modding tool ever produced by most people on the community. |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Outstanding performance in bug-fix/feature testing and coding numerous utilities for mappers and modders. |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organising several major official tournaments (including the OWC). |
 | ![][flag_US] [Blazevoir](https://osu.ppy.sh/users/120265) | Insane moderation track record (equivalent to roughly 6 staff members) and almost single-handedly moderating `#osu` during peak hours (9k+ users). |
-| ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Developing and maintaining [osu!stats](https://osustats.ppy.sh/) and a number of useful utilities for both beatmapping, modding and general play. |
+| ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Developing and maintaining [osu!stats](https://osustats.ppy.sh/ "osu!Stats") and a number of useful utilities for both beatmapping, modding and general play. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Outstanding performance in bugfix/feature testing and handling user support queries. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ years of silent work tirelessly handling [beatmap packing](https://osu.ppy.sh/beatmaps/packs) and several years of managing the beatmap charts. |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Years upon years of service, including designing the original beatmap skin, advancing [storyboarding](/wiki/Storyboards) as an art and motivation. |

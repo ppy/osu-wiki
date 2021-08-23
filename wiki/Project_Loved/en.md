@@ -8,12 +8,12 @@ Beatmaps are moved to Loved by a nomination and voting process.
 
 Members of the Project Loved Team called **captains** regularly nominate beatmaps for a specific game mode. Almost always, these sets come from submissions from the osu! community. The current Loved submission forms and listings can be found via the following links:
 
-- [osu!/osu!catch form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
-- [osu!taiko form](https://docs.google.com/forms/d/e/1FAIpQLSclPWyjFByhHP45AtKD49y0RSl1TK5UOzD4dVdvjfJJQ1aCXQ/viewform)
-- [osu!mania form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform)
-- [osu!/osu!catch listing](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
-- [osu!taiko listing](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit)
-- [osu!mania listing](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
+- [osu!/osu!catch form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform "Google Forms")
+- [osu!taiko form](https://docs.google.com/forms/d/e/1FAIpQLSclPWyjFByhHP45AtKD49y0RSl1TK5UOzD4dVdvjfJJQ1aCXQ/viewform "Google Forms")
+- [osu!mania form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform "Google Forms")
+- [osu!/osu!catch listing](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit "Google Sheets")
+- [osu!taiko listing](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit "Google Sheets")
+- [osu!mania listing](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit "Google Sheets")
 
 *Note: If your access to Google Forms is restricted, you may also contact any of the [Project Loved Team members](/wiki/People/The_Team/Project_Loved_Team#team-members) to have a map submitted on your behalf.*
 
@@ -48,4 +48,4 @@ There are no strict rules governing which maps a captain must nominate for Loved
 
 ## Further information
 
-All of the organisation and planning for Project Loved is done in the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy). There is also a `#project-loved` channel in the [osu! Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H). Any questions, concerns, or suggestions may be directed there.
+All of the organisation and planning for Project Loved is done in the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy "Discord"). There is also a `#project-loved` channel in the [osu! Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord"). Any questions, concerns, or suggestions may be directed there.

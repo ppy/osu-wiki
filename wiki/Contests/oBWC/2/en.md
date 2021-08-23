@@ -57,11 +57,11 @@ The osu! Beatmapping World Championship is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1060035)
-- [Discord server](https://discord.gg/CZp4bNx)
-- [Official website](https://obwc.net/)
-- [Twitter](https://twitter.com/osubwc)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/30) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Livestream](https://www.twitch.tv/osubwc)
+- [Discord server](https://discord.gg/CZp4bNx "Discord")
+- [Official website](https://obwc.net/ "osu! Beatmapping World Championship")
+- [Twitter](https://twitter.com/osubwc "Twitter")
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/30 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Livestream](https://www.twitch.tv/osubwc "Twitch")
 
 ## Participants
 
@@ -122,7 +122,7 @@ Grand Final song: **[Zekk](https://osu.ppy.sh/beatmaps/artists/76) - Let Me Hear
 
 ### Semifinals
 
-**[Download all entries here! (31 MB)](https://obwc.net/api/results/downloadZip/4)**
+**[Download all entries here! (31 MB)](https://obwc.net/api/results/downloadZip/4 "osu! Beatmapping World Championship")**
 
 Songs:
 
@@ -137,7 +137,7 @@ Songs:
 
 ### Quarterfinals
 
-**[Download all entries here! (86 MB)](https://obwc.net/api/results/downloadZip/3)**
+**[Download all entries here! (86 MB)](https://obwc.net/api/results/downloadZip/3 "osu! Beatmapping World Championship")**
 
 Songs:
 
@@ -154,7 +154,7 @@ Songs:
 
 ### Round of 16
 
-**[Download all entries here! (119 MB)](https://obwc.net/api/results/downloadZip/2)**
+**[Download all entries here! (119 MB)](https://obwc.net/api/results/downloadZip/2 "osu! Beatmapping World Championship")**
 
 Songs:
 
@@ -175,9 +175,9 @@ Songs:
 
 ### Qualifiers
 
-*For scoring details, see the [qualifiers leaderboard](https://obwc.net/results/qualifiers) on the contest website.*
+*For scoring details, see the [qualifiers leaderboard](https://obwc.net/results/qualifiers "osu! Beatmapping World Championship") on the contest website.*
 
-**[Download all entries here! (219 MB)](https://obwc.net/api/results/downloadZip/1)**
+**[Download all entries here! (219 MB)](https://obwc.net/api/results/downloadZip/1 "osu! Beatmapping World Championship")**
 
 Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 

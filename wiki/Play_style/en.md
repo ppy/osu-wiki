@@ -95,7 +95,7 @@ There are two main styles of setting the keys placement in the keyboard: KDDK (T
 
 ### Taiko controller
 
-A taiko controller is the default play style and controller for the [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin) series([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) for US).
+A taiko controller is the default play style and controller for the [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") series([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master "Wikipedia") for US).
 
 *Note: Some skilled players who play using a Taiko controller may create theirs from scratch while others purchase theirs via retail or online stores.*
 
@@ -145,7 +145,7 @@ To dash, many players use one of the face buttons on their gamepad. Though, some
 
 ### Keyboard
 
-[External guide for Mechanical Keyboard](https://www.daskeyboard.com/blog/mechanical-keyboard-guide/)
+[External guide for Mechanical Keyboard](https://www.daskeyboard.com/blog/mechanical-keyboard-guide/ "Das Keyboard")
 
 Keyboard was once the *only* way to play osu!mania until other play methods was supported over time.
 
@@ -159,7 +159,7 @@ Arcade controllers from other rhythm games such as DJMAX, O2Jam, Beatmania IIDX,
 
 ### Dance pad
 
-Dance pads are controllers for games like the [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) (DDR) series, and the [Pump It Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) (PIU) series. ([StepMania](https://wikipedia.org/wiki/StepMania) is a semi–well known, community-driven clone of both of these games).
+Dance pads are controllers for games like the [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution "Wikipedia") (DDR) series, and the [Pump It Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series) "Wikipedia") (PIU) series. ([StepMania](https://wikipedia.org/wiki/StepMania "Wikipedia") is a semi–well known, community-driven clone of both of these games).
 
 To play with a dance pad, players "dance" on the dance pad to input commands. DDR pads have 4 panels: Up, Down, Left, and Right. DDR Solo pads add Up-Left and Up-Right to that. PIU pads have 5 panels: Up-Left, Up-Right, Down-Left, Down-Right, and Center. Some 9 panel pads also exist for the purpose of compatibility with both PIU and DDR without having to change a pad. Normal DDR and PIU pads are often used in doubles mode in their respective games, where one player uses 2 pads for a song. DDR Solo games were all single-player, so they aren't commonly doubled.
 
@@ -169,5 +169,5 @@ Another drawback is that osu!mania maps may have been designed without dance gam
 
 ### Other styles
 
-- **Guitar/Drum set**(5/6K): The default controller for the guitar-themed ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed([Drummania](https://wikipedia.org/wiki/Drum_Mania)) rhythm game. Players stream on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
-- **Para Para controller**(5K): This is the default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitivity of the input receiver and the player's physical limitation.
+- **Guitar/Drum set**(5/6K): The default controller for the guitar-themed ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero "Wikipedia"))/drum-themed([Drummania](https://wikipedia.org/wiki/Drum_Mania "Wikipedia")) rhythm game. Players stream on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
+- **Para Para controller**(5K): This is the default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise "Wikipedia") series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitivity of the input receiver and the player's physical limitation.

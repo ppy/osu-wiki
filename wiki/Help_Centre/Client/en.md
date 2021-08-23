@@ -104,12 +104,12 @@ If you see this error when you try to open osu! or its updater, it means you del
 
 Here is a collection of common fonts used in different versions of Windows and across the web which should help:
 
-- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
-- [Tahoma](https://freefontsfamily.com/tahoma-font-free)
-- [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
-- [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (Traditional Chinese UI font)
+- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm "Wayback Machine") (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
+- [Tahoma](https://freefontsfamily.com/tahoma-font-free "Free Fonts Family")
+- [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011 "Microsoft") (Segoe UI)
+- [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072 "Microsoft") (微軟正黑體) (Traditional Chinese UI font)
 
-See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice, and other options on getting them back.
+See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a "Microsoft") in Microsoft Answers for some more detailed advice, and other options on getting them back.
 
 ### Some of my beatmaps are missing!
 
@@ -141,7 +141,7 @@ To safely force your beatmap database to be recreated, try the following steps:
 7. Rename it as you wish. It doesn't matter, as long as it is not called "osu!". Then press `Enter`.
 8. Relaunch osu!.
 
-*Note: a fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues).*
+*Note: a fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues "GitHub").*
 
 ### My song list keeps scrolling!
 
@@ -253,7 +253,7 @@ Playing with the `global leaderboard` selected, rather than the local leaderboar
 
 #### Are the score submission servers up?
 
-**The answer is almost always yes, but check the [osu! server status](https://status.ppy.sh) or the [@osustatus Twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
+**The answer is almost always yes, but check the [osu! server status](https://status.ppy.sh) or the [@osustatus Twitter](https://twitter.com/osustatus "Twitter") to make sure everything is running smoothly on our end.**
 
 If the servers are offline, do not close osu! until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
 
@@ -282,7 +282,7 @@ If this still doesn't help, you may want to try updating your sound card or moth
 
 ### My game looks glitchy, like the graphics are torn!
 
-**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame limiter` option to `VSync`.**
+**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing "Wikipedia") and can be fixed by setting the in-game `Frame limiter` option to `VSync`.**
 
 This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate.
 
@@ -316,15 +316,15 @@ To make sure osu! can access the internet, we will need to allow it to communica
 
 #### Allowing a program through AVG Firewall
 
-Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home) for detailed instructions on how to do this.
+Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home "AVG") for detailed instructions on how to do this.
 
 #### Allowing a program through Kaspersky Internet Security
 
-Please consult Kaspersky's [official help article](https://support.kaspersky.com/15163#block2) on adding applications to the Trusted Zone.
+Please consult Kaspersky's [official help article](https://support.kaspersky.com/15163#block2 "Kaspersky") on adding applications to the Trusted Zone.
 
 #### Allowing a program through McAfee
 
-Please consult McAfee's [official knowledgebase entry on the topic](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
+Please consult McAfee's [official knowledgebase entry on the topic](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view "McAfee").
 
 ### I've added osu! to my firewall but I still can't connect to the game!
 
@@ -341,7 +341,7 @@ If you are still having issues connecting to our game servers, please submit a s
 
 You can perform a trace route by opening Command Prompt and running the command `tracert`.
 
-To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. For more information, see the [Windows knowledgebase article](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
+To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. For more information, see the [Windows knowledgebase article](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e "Microsoft").
 
 You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
 
@@ -393,7 +393,7 @@ You may also wish to look into utilities that allow you to control the speed of 
 
 **Most of the time, this is due to overheating of one or more of your computer's components, usually your graphics card or CPU.**
 
-To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Speccy](https://www.ccleaner.com/speccy).
+To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Speccy](https://www.ccleaner.com/speccy "Piriform").
 
 If you notice either your GPU or CPU temperature exceeding values of 90°C or 194°F, your computer is running very hot and dangerously close to most automatic shutdown thresholds.
 
@@ -417,7 +417,7 @@ Ghosting is a somewhat complex topic, but essentially boils down to issues with 
 
 Most newer keyboards will allow up to **6** keys to be held down at once, albeit in random combinations.
 
-You can test your keyboard's ghosting limits by using [drakeirving's Anti-Ghosting utility](https://drakeirving.github.io/MultiKeyDisplay).
+You can test your keyboard's ghosting limits by using [drakeirving's Anti-Ghosting utility](https://drakeirving.github.io/MultiKeyDisplay "Keyboard Ghosting Demonstration").
 
 While the Ranking Criteria for osu!mania tries to alleviate the issue of ghosting by not allowing more than 6 notes to be active at any one time, you may encounter this issue if your keyboard is older.
 

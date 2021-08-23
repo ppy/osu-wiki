@@ -4,7 +4,7 @@ legal: true
 
 # osu! terms of service
 
-Last Updated 8th March 2021. [View history](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
+Last Updated 8th March 2021. [View history](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md "GitHub")
 
 **ppy Pty Ltd** is offering you a service, which is conditioned on your acceptance, without any modification whatsoever to the following terms, conditions, and notices.
 

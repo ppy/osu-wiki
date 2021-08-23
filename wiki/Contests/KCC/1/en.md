@@ -41,8 +41,8 @@ The **Korean Charting Contest 2021** (***KCC2021***) is a osu!mania mapping cont
 ## Links
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1230057)
-- [Results sheet](https://docs.google.com/spreadsheets/d/1O0Ygpning0te62S850M42oPo0lCYd1Ct8VeYnAWRcYE/edit?usp=sharing)
-- [Entries](https://lulu.s-ul.eu/D2M3x9LH)
+- [Results sheet](https://docs.google.com/spreadsheets/d/1O0Ygpning0te62S850M42oPo0lCYd1Ct8VeYnAWRcYE/edit?usp=sharing "Google Sheets")
+- [Entries](https://lulu.s-ul.eu/D2M3x9LH "s-ul")
 
 ## Song list
 

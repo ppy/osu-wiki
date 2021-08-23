@@ -7,7 +7,7 @@ tags:
 
 # Beats per minute
 
-**Beats per minute** (***BPM***) refers to the number of whole musical beats in a minute, and is used to measure the [tempo](https://en.wikipedia.org/wiki/Tempo) of a song.
+**Beats per minute** (***BPM***) refers to the number of whole musical beats in a minute, and is used to measure the [tempo](https://en.wikipedia.org/wiki/Tempo "Wikipedia") of a song.
 
 ## Timing points
 

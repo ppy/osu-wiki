@@ -31,7 +31,7 @@ The update was generally well-recevied by players as a welcome change of pace fr
 
 ## Additional Resources
 
-- osu!academy introduces osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
+- osu!academy introduces osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o "YouTube")
 - peppy announces osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

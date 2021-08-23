@@ -2,20 +2,20 @@
 
 ## January
 
-osu! now supports widescreen in all modes (including the editor too)! Database size was reduced by 10%. The ability to reset key bindings to their defaults was added. Hyperdash issues in [Catch the Beat](/wiki/Game_mode/osu!catch) was almost fixed. The main menu's copyright graphic was updated for 2013 without the copyright text. [Results for the annual "Best of" is out. (Best of 2012)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0).
+osu! now supports widescreen in all modes (including the editor too)! Database size was reduced by 10%. The ability to reset key bindings to their defaults was added. Hyperdash issues in [Catch the Beat](/wiki/Game_mode/osu!catch) was almost fixed. The main menu's copyright graphic was updated for 2013 without the copyright text. [Results for the annual "Best of" is out. (Best of 2012)](https://docs.google.com/spreadsheets/d/1X9f7W6FKc3eBP54RAlyOzlHycgHMFOW_PUHWp866xDI/edit#gid=0 "Google Sheets").
 
 Links:
 
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/39831318171/this-week-in-osu-8)
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/41003637501/this-week-in-osu-9)
-- [Getting Hyperdash Right – ppy blog](https://blog.ppy.sh/post/39917651337/getting-hyperdash-right)
+- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/39831318171/this-week-in-osu-8 "ppy blog")
+- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/41003637501/this-week-in-osu-9 "ppy blog")
+- [Getting Hyperdash Right – ppy blog](https://blog.ppy.sh/post/39917651337/getting-hyperdash-right "ppy blog")
 - [Best of 2012 Results](https://osu.ppy.sh/community/forums/posts/2042263)
 
 ## February
 
 A new version of the osu!mania editor was being worked on. Taiko mode skinning now has a "metadata" bar (song title and artist below the playfield), taiko playfield was no longer transparent and fades in and out of kiai time. The original FAQ has been superseded by the [osu! wiki](/wiki/FAQ).
 
-BanchoBot's `!faq` command has been open to public for [translation](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdHhUUjNSa19QendtcTdYUjE2S2hnVHc#gid=24). The legendary [BanchoBot](/wiki/BanchoBot) finally has a [profile](https://osu.ppy.sh/users/3)! The user panels display now adjusts to display four columns on all widescreen modes.
+BanchoBot's `!faq` command has been open to public for [translation](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdHhUUjNSa19QendtcTdYUjE2S2hnVHc#gid=24 "Google Sheets"). The legendary [BanchoBot](/wiki/BanchoBot) finally has a [profile](https://osu.ppy.sh/users/3)! The user panels display now adjusts to display four columns on all widescreen modes.
 
 osu!mania now support vertical flip (upside-down), making gameplay similar to that of DDR/o2jam. Skinning now supports double-resolution sprites when the window width was greater than 1600 pixels. To add support to a skin, add images with double the width/height containing the `@2x` suffix before the file extension (eg: `cursor@2x.png`).
 
@@ -23,9 +23,9 @@ Ranking support for [Hidden](/wiki/HD) and [FadeIn](/wiki/FI) mods in osu!mania 
 
 Links:
 
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/42178900910/this-week-in-osu-10)
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43136384020/this-week-in-osu-11)
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43823357969/this-week-in-osu-12)
+- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/42178900910/this-week-in-osu-10 "ppy blog")
+- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43136384020/this-week-in-osu-11 "ppy blog")
+- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43823357969/this-week-in-osu-12 "ppy blog")
 - [osu! release b20130220](https://osu.ppy.sh/community/forums/posts/2134063)
 
 ## March
@@ -53,7 +53,7 @@ This month's updates were mostly made up of patching up the previous major updat
 
 Game modes can now be easily switched at song selection by using `Ctrl` + `1`, `2`, `3`, or `4`. A new game modifier was added specially for osu!mania, [Random](/wiki/RD). Some adjustment has been made on Multi's "Quick Join" button behaviour to direct you to a room with respect to your average pp against the room pp's deviation.
 
-For beatmap replays, stale-standing comment has been switched to moving [nico-style](https://en.wikipedia.org/wiki/Nico_Nico_Douga) comment style and comment colour can now be customised (for osu!supporters only).
+For beatmap replays, stale-standing comment has been switched to moving [nico-style](https://en.wikipedia.org/wiki/Nico_Nico_Douga "Wikipedia") comment style and comment colour can now be customised (for osu!supporters only).
 
 In the beatmapping side of things, all MAT members became BAT members as MAT has been officially dissolved since the power boundary between MAT and BAT members were too close to each other.
 
@@ -61,7 +61,7 @@ peppy released one of the initial osu! builds from 2007 to 2009 (the one he had 
 
 Links:
 
-- [This week (month) in osu! – ppy blog](https://blog.ppy.sh/post/46924535831/this-week-month-in-osu-13)
+- [This week (month) in osu! – ppy blog](https://blog.ppy.sh/post/46924535831/this-week-month-in-osu-13 "ppy blog")
 - [The end of the MAT](https://osu.ppy.sh/community/forums/topics/129165)
 - [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)
 
@@ -84,7 +84,7 @@ Three brand new Dedication [achievements](/wiki/Medals) for osu!mania have been 
 
 [osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) has started. As a counter-measure against players creating lots of accounts, clarity of messaging during account registration was improved and infographic showing that you can't register from phones/tablets has been added to prevent players creating more accounts for personal reasons.
 
-Away with the security measures, users allowed to choose which game mode their profile defaults to (such as [osu!mania](/wiki/Game_mode/osu!mania), [Taiko](/wiki/Game_mode/osu!taiko)) and [last.fm](https://last.fm) support to profiles. User profiles now have country performance rank on their profile and a new pp graph.
+Away with the security measures, users allowed to choose which game mode their profile defaults to (such as [osu!mania](/wiki/Game_mode/osu!mania), [Taiko](/wiki/Game_mode/osu!taiko)) and [last.fm](https://last.fm "Last.fm") support to profiles. User profiles now have country performance rank on their profile and a new pp graph.
 
 In-game wise, the main menu gets a new visualisation, with a blazing flare around the osu! symbol dependent on intensity of currently playing song's BPM. Performance have been optimised in song selection with many (more than ten-thousand) maps. Update process robustness and performance have been improved.
 
@@ -128,11 +128,11 @@ Links:
 
 [peppy was confirmed for Comic Fiesta 2013 in Malaysia at 21st and 22nd of December in Kuala Lumpur City Center](https://osu.ppy.sh/community/forums/topics/163121). For day 1 (2013-12-21), osu! was shown as a stage event, demonstrating the game in four different game modes (osu!, Taiko, Catch the Beat, and osu!mania). For day 2 (2013-12-22), peppy gives an insight of osu! along with his future update plans at the panel room and showcased osu!tablet for the public to try it out.
 
-One of the current hot-topic for debate right now was that peppy was making a new game mode and was testing it as a proof-in-concept (testing if it's playable, competitive or flexible enough). Some players speculate it was [Tohousu!](https://osu.ppy.sh/community/forums/topics/19307) (dodging the bullet-hell, that was, inverse of [Catch the Beat](/wiki/Game_mode/osu!catch)). By time of writing, not much information was discovered about the new game mode. [A video clip about the talk was in ppy's blog](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches)
+One of the current hot-topic for debate right now was that peppy was making a new game mode and was testing it as a proof-in-concept (testing if it's playable, competitive or flexible enough). Some players speculate it was [Tohousu!](https://osu.ppy.sh/community/forums/topics/19307) (dodging the bullet-hell, that was, inverse of [Catch the Beat](/wiki/Game_mode/osu!catch)). By time of writing, not much information was discovered about the new game mode. [A video clip about the talk was in ppy's blog](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches "ppy blog")
 
 Links:
 
 - [I will be in malaysia (December)](https://osu.ppy.sh/community/forums/topics/163121)
-- [Schedule | Comic Fiesta 2013](https://comicfiesta.org/2013/info/event/schedule)
+- [Schedule | Comic Fiesta 2013](https://comicfiesta.org/2013/info/event/schedule "Comic Fiesta")
 - [New osu! mode announced on CF2013?](https://osu.ppy.sh/community/forums/topics/176000)
-- [Comic Fiesta 2013 Impressions & osu! Q&A Panel Session with peppy (ppy) | INFONOCHIKARA 「インフォノチカラ」 Blogotopia](https://infonochikara.wordpress.com/2013/12/30/comic-fiesta-2013-impressions-osu-qa-panel-session-with-peppy-ppy/)
+- [Comic Fiesta 2013 Impressions & osu! Q&A Panel Session with peppy (ppy) | INFONOCHIKARA 「インフォノチカラ」 Blogotopia](https://infonochikara.wordpress.com/2013/12/30/comic-fiesta-2013-impressions-osu-qa-panel-session-with-peppy-ppy/ "Wordpress")

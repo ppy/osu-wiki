@@ -14,7 +14,7 @@ needs_cleanup: true
 
 ### I've never played this "Ouendan" thing - what is it?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
 
 ![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
 
@@ -108,7 +108,7 @@ Click on the `Mode` button to **open up a list of gameplay modes available on os
 
 ![osu!taiko Interface](/wiki/shared/taiko-gameplay.jpg "In-game interface of osu!taiko")
 
-*[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* is a taiko drum rhythm game made by *Namco* (now Namco Bandai). The game involves the simulation of playing the taiko drum to the beat of the music. In osu!, beatmaps can be played in the styling of *Taiko no Tatsujin* through the use of osu!taiko game mode.
+*[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")* is a taiko drum rhythm game made by *Namco* (now Namco Bandai). The game involves the simulation of playing the taiko drum to the beat of the music. In osu!, beatmaps can be played in the styling of *Taiko no Tatsujin* through the use of osu!taiko game mode.
 
 #### Basic explanation
 
@@ -395,7 +395,7 @@ For any questions regarding pp, please refer to the [wiki page for pp first](/wi
 
 #### I think I've found a bug! Where can I report it?
 
-If you have a general technical issue, or if you're unsure whether the issue you've encountered is a bug or not, you can create a post in the [Help forum](https://osu.ppy.sh/community/forums/5). If you think you've found a specific, critical issue with osu!, you can create an issue in the [osu-stable-issues GitHub repository](https://github.com/ppy/osu-stable-issues/issues). Before posting, make sure that nobody has already reported your problem.
+If you have a general technical issue, or if you're unsure whether the issue you've encountered is a bug or not, you can create a post in the [Help forum](https://osu.ppy.sh/community/forums/5). If you think you've found a specific, critical issue with osu!, you can create an issue in the [osu-stable-issues GitHub repository](https://github.com/ppy/osu-stable-issues/issues "GitHub"). Before posting, make sure that nobody has already reported your problem.
 
 #### Where to find and get the beatmaps?
 
@@ -419,7 +419,7 @@ For osu!mania, **Entozer** has compiled a decent list sorted by relative player'
 
 Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). The easiest maps are at the top of the list.
 
-Lastly, **Rivenation** did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) named [osu!search](https://osusearch.com) which not only has the same features as the official beatmap searchbar but also has some neat features to define a specific beatmap requirement. The unofficial beatmap searchbar can be found at [this link](https://osusearch.com).
+Lastly, **Rivenation** did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) named [osu!search](https://osusearch.com "osu!search") which not only has the same features as the official beatmap searchbar but also has some neat features to define a specific beatmap requirement. The unofficial beatmap searchbar can be found at [this link](https://osusearch.com "osu!search").
 
 #### What does Level in my profile actually do?
 
@@ -504,7 +504,7 @@ If miss the timing to tap the starting circle point, miss the slider ticks, or m
 
 These situations, caused by a slider, are collectively called **sliderbreak**. A max combo play can be known by checking the result screen for the *Perfect* notice on the performance graph; not having the *Perfect* notice, especially without any miss, usually means there is one or more sliderbreak occurred during play.
 
-[Answer source with test example in gaming section of stackexchange](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
+[Answer source with test example in gaming section of stackexchange](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores "StackExchange")
 
 ### osu!taiko
 
@@ -544,7 +544,7 @@ Please follow these steps:
 - Entozer's osu!mania maps, sorted by difficulty [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
 - Drace's \[GUIDE\] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
 - Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
-- Wikipedia [\[7\]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [\[8\]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
+- Wikipedia [\[7\]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia"), [\[8\]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")
 
 [osu! icon]: /wiki/shared/mode/osu.png
 [osu!taiko icon]: /wiki/shared/mode/taiko.png

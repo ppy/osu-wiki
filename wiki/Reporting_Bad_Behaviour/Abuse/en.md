@@ -47,15 +47,15 @@ Immediately block the user by right-clicking their username and selecting `Block
 
 Afterwards, contact the administrators of the server at once by looking for someone at the very top of the users list and let them know what's happened. If you can't figure out who is an administrator, look for someone with a crown next to their name - they are the server owner and are responsible for what happens within it.
 
-Should this abuse continue and the administrators do nothing about it, [please notify the Discord Trust & Safety team by filing out a report](https://dis.gd/request).
+Should this abuse continue and the administrators do nothing about it, [please notify the Discord Trust & Safety team by filing out a report](https://dis.gd/request "Discord").
 
 In addition, if you know the osu! username of the person bothering you, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible and it will be investigated promptly.
 
 ### On a Twitter linked to an osu! user's profile
 
-Click the three dots in the top right of the problem tweet and click 'Report Tweet'. Make sure to follow the prompts and read them carefully. You might also want to read [Twitter's guide on reporting abusive behaviour](https://help.twitter.com/en/safety-and-security/report-abusive-behavior) for more information on the process.
+Click the three dots in the top right of the problem tweet and click 'Report Tweet'. Make sure to follow the prompts and read them carefully. You might also want to read [Twitter's guide on reporting abusive behaviour](https://help.twitter.com/en/safety-and-security/report-abusive-behavior "Twitter") for more information on the process.
 
-Afterwards, either block or mute the user in question by clicking the three dots in the top right of their tweet (if you're using the website or mobile client). Consult [Twitter's guide on blocking accounts](https://help.twitter.com/en/using-twitter/blocking-and-unblocking-accounts) for more information.
+Afterwards, either block or mute the user in question by clicking the three dots in the top right of their tweet (if you're using the website or mobile client). Consult [Twitter's guide on blocking accounts](https://help.twitter.com/en/using-twitter/blocking-and-unblocking-accounts "Twitter") for more information.
 
 Please be aware that the person will see you have blocked them if they check your Twitter profile. If you are worried this will make the problem worse elsewhere, mute them instead. This will remove their tweets from your timeline and prevent you from seeing any more content from them, but they will still be able to see and comment on all the tweets you make.
 

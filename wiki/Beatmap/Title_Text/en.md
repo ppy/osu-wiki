@@ -33,7 +33,7 @@ A newly-submitted beatmap will have its title text set to `[size:20,bold:0]Artis
 | `bold` | Whether or not the line's will be in bold type. A value of 1 means bold, while any other value means not bold. | 1 |
 | `colour` | The colour of the line, formatted as `R.G.B`, where each colour component ranges from 0 to 255. | 255.255.255 |
 | `hold` | How long the line will display before starting to fade out, in milliseconds. | *Changes per line* |
-| `size` | The font size of the line, in [points](https://en.wikipedia.org/wiki/Point_(typography)). | 40 |
+| `size` | The font size of the line, in [points](https://en.wikipedia.org/wiki/Point_(typography) "Wikipedia"). | 40 |
 | `time` | The time in the song when this line will start to appear, in milliseconds. | *Changes per line* |
 | `wait` | An extra delay before the line shows, in milliseconds. | 500 |
 

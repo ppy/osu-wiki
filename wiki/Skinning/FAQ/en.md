@@ -56,7 +56,7 @@ Yes, you can have a similar skin theme as someone else who might have done it be
 
 ### Why isn't there a database for skins, like beatmaps?
 
-There are some third-party projects that try to do this already. However, the skinning database is already planned. For more details, see [ppy/osu-web#61 - Skin System](https://github.com/ppy/osu-web/issues/61).
+There are some third-party projects that try to do this already. However, the skinning database is already planned. For more details, see [ppy/osu-web#61 - Skin System](https://github.com/ppy/osu-web/issues/61 "GitHub").
 
 ## Sharing
 

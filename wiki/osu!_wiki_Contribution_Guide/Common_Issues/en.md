@@ -28,7 +28,7 @@ To resolve this, you need to use GitHub Web Interface:
 14. Fix the title (this will be the commit message; make sure it is meaningful).
 15. Fix the description (this will be the commit description; this is optional, but make sure you change it).
 16. Click `Confirm squash and merge`.
-17. Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki).
+17. Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki "GitHub").
 18. Close your pull request that has the problematic branch.
 19. Open a new pull request using the new branch.
 20. You can copy the description of the closed pull request into the new one you just opened. It is helpful to also include a reference to the other pull request you had closed.

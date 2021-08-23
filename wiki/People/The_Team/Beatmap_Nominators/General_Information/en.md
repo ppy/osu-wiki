@@ -41,11 +41,11 @@ In addition to being able to nominate beatmaps or reset their nominations, BNs h
 
 ### Veto mediation
 
-When a veto mediation is initiated, a randomly selected jury of BNs will be selected. If you are one of the selected members for a veto mediation, the NAT will send you a message with additional information on how to vote using the [BN Website](https://bn.mappersguild.com). If you are unable to participate, inform a NAT member so that a different BN can be chosen for the jury in your place.
+When a veto mediation is initiated, a randomly selected jury of BNs will be selected. If you are one of the selected members for a veto mediation, the NAT will send you a message with additional information on how to vote using the [BN Website](https://bn.mappersguild.com "NAT/BN Management"). If you are unable to participate, inform a NAT member so that a different BN can be chosen for the jury in your place.
 
 ### Quality Assurance
 
-Full BNs may do Quality Assurance by checking qualified beatmaps for issues at any time. The Quality Assurance board can be viewed [on the BN website](https://bn.mappersguild.com/qualityassurance).
+Full BNs may do Quality Assurance by checking qualified beatmaps for issues at any time. The Quality Assurance board can be viewed [on the BN website](https://bn.mappersguild.com/qualityassurance "NAT/BN Management").
 
 ### Content Review
 

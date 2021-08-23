@@ -1,6 +1,6 @@
 # Featured artist showcase beatmaps
 
-Members of the [Mappers' Guild](/wiki/Mappers_Guild) occasionally create exclusive "showcase beatmaps" by using songs and other materials from osu!'s unreleased [featured artists](/wiki/Featured_Artists). When a featured artist is publicly announced, these beatmaps are covered in the corresponding [newsposts](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame).
+Members of the [Mappers' Guild](/wiki/Mappers_Guild) occasionally create exclusive "showcase beatmaps" by using songs and other materials from osu!'s unreleased [featured artists](/wiki/Featured_Artists). When a featured artist is publicly announced, these beatmaps are covered in the corresponding [newsposts](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame "Twitter").
 
 To participate in featured artist showcase beatmaps, a member of the Mappers' Guild must accept a [limited-time mystery quests](/wiki/Mappers_Guild#quests) or be directly invited to create a beatmap after reaching tier 1 (or higher) in [Guild rank](/wiki/Mappers_Guild#rewards).
 

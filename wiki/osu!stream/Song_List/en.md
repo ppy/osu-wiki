@@ -2,7 +2,7 @@
 
 *For information on the base game, see: [osu!stream](/wiki/osu!stream)*
 
-osu!stream features up to 45 playable songs spread across various bundles and song packs. As of [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release), all songs are available for download and play for free.
+osu!stream features up to 45 playable songs spread across various bundles and song packs. As of [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release "osu!stream"), all songs are available for download and play for free.
 
 At the Store menu, you can scroll through the list of all available song packs and preview the beatmaps inside before downloading. Upon selecting the `PREVIEW` button, you'll be able to see a short gameplay demo of all four difficulties in a beatmap from the lowest difficulty to the highest [in their corresponding stream order](wiki/osu!stream#new-game-play-system).
 
@@ -28,7 +28,7 @@ See also:
 - [nekodex's osu! profile](https://osu.ppy.sh/users/102)
 - [tieff's osu! profile](https://osu.ppy.sh/users/89619)
 - [Natteke's osu! profile](https://osu.ppy.sh/users/157177)
-- [SkyMarshall's website](https://hafskjold.net/skymarshallarts/)
+- [SkyMarshall's website](https://hafskjold.net/skymarshallarts/ "Hafskjold.net")
 
 ## Free Pack 1
 
@@ -43,14 +43,14 @@ This song pack features two songs of different variety by haru☆ and Garbled Wa
 
 See also:
 
-- [haru☆'s website](https://haru.ocv.me/)
-- [Garbled Waves' Bandcamp page](https://garbledwaves.bandcamp.com)
+- [haru☆'s website](https://haru.ocv.me/ "The Music of Haru")
+- [Garbled Waves' Bandcamp page](https://garbledwaves.bandcamp.com "Bandcamp")
 
 ## Free Pack 1.5
 
 Price: **Free**
 
-This song pack features the song Want You Gone by Jonathan Coulton (under the Aperture Science alias) as made famous by the video game [Portal 2](https://www.thinkwithportals.com/).
+This song pack features the song Want You Gone by Jonathan Coulton (under the Aperture Science alias) as made famous by the video game [Portal 2](https://www.thinkwithportals.com/ "Portal 2").
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -58,7 +58,7 @@ This song pack features the song Want You Gone by Jonathan Coulton (under the Ap
 
 See also:
 
-  - [Jonathan Coulton's website](https://www.jonathancoulton.com/)
+  - [Jonathan Coulton's website](https://www.jonathancoulton.com/ "Jonathan Coulton")
 
 ## Free Pack 2
 
@@ -73,12 +73,12 @@ This song pack features two songs of different variety by Bomb Boy and daniwellP
 
 See also:
 
-- [Bomb Boy's Twitter account](https://twitter.com/BomuBoi)
-- [daniwellP's website](https://aidn.jp/)
+- [Bomb Boy's Twitter account](https://twitter.com/BomuBoi "Twitter")
+- [daniwellP's website](https://aidn.jp/ "AIDN")
 
 ## Cranky Pack Vol. 1
 
-Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release "osu!stream"))
 
 This song pack features four songs by rave music extraordinaire Cranky.
 
@@ -92,11 +92,11 @@ This song pack features four songs by rave music extraordinaire Cranky.
 See also:
 
 - [**Cranky's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/23)
-- [Cranky's website](https://www.feline-groove.com/)
+- [Cranky's website](https://www.feline-groove.com/ "Cranky")
 
 ## OK Go Vol. 1
 
-Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release "osu!stream"))
 
 This song pack features four songs by American rock band OK Go.
 
@@ -109,11 +109,11 @@ This song pack features four songs by American rock band OK Go.
 
 See also:
 
-- [OK Go's website](https://okgo.net/)
+- [OK Go's website](https://okgo.net/ "OK Go")
 
 ## Koizumi Vol. 1
 
-Price: **Free** / **USD$2.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+Price: **Free** / **USD$2.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release "osu!stream"))
 
 This song pack features four songs provided by the independent recording label Tsundere Recordings.
 
@@ -126,11 +126,11 @@ This song pack features four songs provided by the independent recording label T
 
 See also:
 
-- [Tsundere Recordings' YouTube channel](https://www.youtube.com/user/TsundereRecordings)
+- [Tsundere Recordings' YouTube channel](https://www.youtube.com/user/TsundereRecordings "YouTube")
 
 ## Electronic Pack Vol. 1
 
-Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release "osu!stream"))
 
 This song pack features four electronic-oriented songs by various musicians from across the world.
 
@@ -143,13 +143,13 @@ This song pack features four electronic-oriented songs by various musicians from
 
 See also:
 
-- [Kenneth Nilsen's Soundcloud page](https://soundcloud.com/keosni391)
-- [NIGHTkilla's Soundcloud](https://soundcloud.com/qbiq-nightkilla)
-- [SkyMarshall's website](https://hafskjold.net/skymarshallarts/)
+- [Kenneth Nilsen's Soundcloud page](https://soundcloud.com/keosni391 "SoundCloud")
+- [NIGHTkilla's Soundcloud](https://soundcloud.com/qbiq-nightkilla "SoundCloud")
+- [SkyMarshall's website](https://hafskjold.net/skymarshallarts/ "Hafskjold.net")
 
 ## Odyssey Pack
 
-Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release "osu!stream"))
 
 This song pack features four songs provided by the internet musical collective Odyssey Eurobeat.
 
@@ -162,13 +162,13 @@ This song pack features four songs provided by the internet musical collective O
 
 See also:
 
-- [Odyssey Eurobeat's Bandcamp page](https://odysseymusic.bandcamp.com/)
+- [Odyssey Eurobeat's Bandcamp page](https://odysseymusic.bandcamp.com/ "Bandcamp")
 
 ## VVVVVV Pack Vol. 1
 
-Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release "osu!stream"))
 
-This song pack features four songs by SoulEye, all of which are featured in the hit platforming game [VVVVVV](https://thelettervsixtim.es/).
+This song pack features four songs by SoulEye, all of which are featured in the hit platforming game [VVVVVV](https://thelettervsixtim.es/ "VVVVVV").
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -179,11 +179,11 @@ This song pack features four songs by SoulEye, all of which are featured in the 
 
 See also:
 
-- [Souleye's website](https://magnuspalsson.com/)
+- [Souleye's website](https://magnuspalsson.com/ "Souleye")
 
 ## SHIKI Pack Vol. 1
 
-Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release "osu!stream"))
 
 This song pack features four songs by renowned BMS music producer SHIKI.
 
@@ -196,15 +196,15 @@ This song pack features four songs by renowned BMS music producer SHIKI.
 
 See also:
 
-- [SHIKI's website](http://shiki2.sakura.ne.jp/)
+- [SHIKI's website](http://shiki2.sakura.ne.jp/ "SHIKI")
 
 ## Unreleased Tracks Vol. 1
 
-Price: **Free** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release))
+Price: **Free** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release "osu!stream"))
 
 This song pack features four songs/arrangements of original Touhou Project compositions by various musicians from across the world. 
 
-Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). This song pack has consequently been re-released as free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
+Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release "osu!stream"). This song pack has consequently been re-released as free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release "osu!stream").
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -215,17 +215,17 @@ Initially, this song pack was included in the base game's launch with a price ta
 
 See also:
 
-- [Amane/Rolling Contact's website](https://youzyo.net/)
-- [sou1's YouTube channel](https://www.youtube.com/channel/UCDOnl9xBMM-SZtCKKu178NA)
-- [Lix's website](https://levolution.info)
+- [Amane/Rolling Contact's website](https://youzyo.net/ "RollingContact")
+- [sou1's YouTube channel](https://www.youtube.com/channel/UCDOnl9xBMM-SZtCKKu178NA "YouTube")
+- [Lix's website](https://levolution.info "L2.INFO")
 
 ## Unreleased Tracks Vol. 2
 
-Price: **Free** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release))
+Price: **Free** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release "osu!stream"))
 
 This song pack features four songs/arrangements of original Touhou Project compositions by various musicians from across the world. 
 
-Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). This song pack has consequently been re-released as free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
+Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release "osu!stream"). This song pack has consequently been re-released as free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release "osu!stream").
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -236,9 +236,9 @@ Initially, this song pack was included in the base game's launch with a price ta
 
 See also:
 
-- [Lix's website](https://levolution.info)
-- [haru☆'s website](https://haru.ocv.me/)
-- [Amane/Rolling Contact's website](https://youzyo.net/)
+- [Lix's website](https://levolution.info "L2.INFO")
+- [haru☆'s website](https://haru.ocv.me/ "The Music of Haru")
+- [Amane/Rolling Contact's website](https://youzyo.net/ "RollingContact")
 
 ## Screenshots
 

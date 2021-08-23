@@ -19,11 +19,11 @@ To ease the description of the format of each .db file, the following names for 
 | Short | 2 | integer |
 | Int | 4 | integer |
 | Long | 8 | integer |
-| ULEB128 | Variable | integer; see [this](https://en.wikipedia.org/wiki/LEB128) |
+| ULEB128 | Variable | integer; see [this](https://en.wikipedia.org/wiki/LEB128 "Wikipedia") |
 | Single | 4 | 32-bit IEEE floating point value |
 | Double | 8 | 64-bit IEEE floating point value |
 | Boolean | 1 | 0x00 for false, everything else is true |
-| String | Variable | Has three parts; a single byte which will be either 0x00, indicating that the next two parts are not present, or 0x0b (decimal 11), indicating that the next two parts are present. If it is 0x0b, there will then be a ULEB128, representing the byte length of the following string, and then the string itself, encoded in UTF-8. See [this](https://en.wikipedia.org/wiki/UTF-8). |
+| String | Variable | Has three parts; a single byte which will be either 0x00, indicating that the next two parts are not present, or 0x0b (decimal 11), indicating that the next two parts are present. If it is 0x0b, there will then be a ULEB128, representing the byte length of the following string, and then the string itself, encoded in UTF-8. See [this](https://en.wikipedia.org/wiki/UTF-8 "Wikipedia"). |
 
 ## osu!.db
 
@@ -37,7 +37,7 @@ Some data types specific to osu!.db are defined below.
 | :-- | :-- | :-- |
 | Int-Double pair | 14 | The first byte is 0x08, followed by an Int, then 0x0d, followed by a Double. These extraneous bytes are presumably flags to signify different data types in these slots, though in practice no other such flags have been seen. Currently the purpose of this data type is unknown. |
 | Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [.osu (file format)](/wiki/osu!_File_Formats/Osu_(file_format)) for more information regarding timing points. |
-| DateTime | 8 | A 64-bit number of ticks representing a date and time. Ticks are the amount of 100-nanosecond intervals since midnight, January 1, 0001 UTC. See [.NET framework documentation on ticks](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.ticks?view=netframework-4.7.2) for more information. |
+| DateTime | 8 | A 64-bit number of ticks representing a date and time. Ticks are the amount of 100-nanosecond intervals since midnight, January 1, 0001 UTC. See [.NET framework documentation on ticks](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.ticks?view=netframework-4.7.2 "Microsoft") for more information. |
 
 ### osu!.db format
 

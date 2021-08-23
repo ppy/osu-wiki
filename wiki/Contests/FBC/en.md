@@ -17,7 +17,7 @@ Since the 2017 edition, the chosen songs have a length lower than 3 minutes and 
 
 This edition was the first one which reunited all game modes: osu!, osu!taiko, osu!catch, osu!mania. However, in osu!catch and osu!mania, there weren’t enough contestants to attribute a badge to the winners.
 
-The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?v=NuQfuYxf6lk).
+The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?v=NuQfuYxf6lk "YouTube").
 
 ![FBC 2015 Badge](img/fbc2015.png)
 
@@ -66,7 +66,7 @@ The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?
 
 This contest edition was the last one to use a marathon-style music (longer than 5 minutes) and also was the last to allow other game modes to participate, due to the low amount of contestants in osu!taiko, osu!catch and osu!mania.
 
-The song picked for osu! and osu!catch was [Phantom Sage - Holystone](https://www.youtube.com/watch?v=gnZXoRb--z4) while the song for osu!taiko and osu!mania was [Weyheyhey!! - Throw It Away](https://www.youtube.com/watch?v=qtQ8Xo4p9js).
+The song picked for osu! and osu!catch was [Phantom Sage - Holystone](https://www.youtube.com/watch?v=gnZXoRb--z4 "YouTube") while the song for osu!taiko and osu!mania was [Weyheyhey!! - Throw It Away](https://www.youtube.com/watch?v=qtQ8Xo4p9js "YouTube").
 
 ![FBC 2016 Badge](img/fbc2016.png)
 
@@ -94,7 +94,7 @@ The song picked for osu! and osu!catch was [Phantom Sage - Holystone](https://ww
 
 This edition was the first edition which uses a song that lasts less than 3 minutes. Moreover, it was the first one to allow the winning set (hosted by the contest winner) to host the top 3 entries.
 
-The song picked for this contest edition was [ak+q - Excelsia](https://soundcloud.com/ak_q/bofu2017-excelsia).
+The song picked for this contest edition was [ak+q - Excelsia](https://soundcloud.com/ak_q/bofu2017-excelsia "SoundCloud").
 
 ![FBC 2017 Badge](img/fbc2017.png)
 
@@ -121,7 +121,7 @@ The song picked for this contest edition was [ak+q - Excelsia](https://soundclou
 
 This contest edition was the first one to suggest a Featured Artist song in the FBC contests.
 
-The song picked for this tournament edition was [Thaehan - Sunrise](https://www.youtube.com/watch?v=F1_EyWi68hE).
+The song picked for this tournament edition was [Thaehan - Sunrise](https://www.youtube.com/watch?v=F1_EyWi68hE "YouTube").
 
 ![FBC 2018 Badge](img/fbc2018.png)
 

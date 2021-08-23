@@ -17,7 +17,7 @@ Links:
 Links:
 
 - [New Featured Artist: Ben Briggs](https://osu.ppy.sh/home/news/2017-02-08-new-featured-artist-ben-briggs)
-- [Release 0.0.3 · ppy/osu](https://github.com/ppy/osu/releases/tag/v0.0.3)
+- [Release 0.0.3 · ppy/osu](https://github.com/ppy/osu/releases/tag/v0.0.3 "GitHub")
 
 ## March
 
@@ -59,8 +59,8 @@ The osu!team participates in Anime Expo for the upcoming 10 years of osu!. On 20
 
 Links:
 
-- [2017.609.0 – ppy blog](https://blog.ppy.sh/2017.609.0/)
-- [2017.717.0 – ppy blog](https://blog.ppy.sh/2017.717.0/)
+- [2017.609.0 – ppy blog](https://blog.ppy.sh/2017.609.0/ "ppy blog")
+- [2017.717.0 – ppy blog](https://blog.ppy.sh/2017.717.0/ "ppy blog")
 - [main menu background changes](https://osu.ppy.sh/community/forums/topics/606931)
 - [Mocha in Summer Fanart Contest Begins!](https://osu.ppy.sh/home/news/2017-06-15-mocha-fanart-contest-now-open)
 
@@ -128,5 +128,5 @@ Links:
 - [Winter is Here!](https://osu.ppy.sh/home/news/2017-12-14-winter-is-here)
 - [osu! World Cup 2017 Concludes](https://osu.ppy.sh/home/news/2017-12-21-owc-2017-concludes)
 - [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)
-- [osu!status on Twitter](https://twitter.com/osustatus/status/945098179183181824)
-- [and so 2017 comes to an end!](https://www.youtube.com/watch?v=5x7VnC1R0Do)
+- [osu!status on Twitter](https://twitter.com/osustatus/status/945098179183181824 "Twitter")
+- [and so 2017 comes to an end!](https://www.youtube.com/watch?v=5x7VnC1R0Do "YouTube")

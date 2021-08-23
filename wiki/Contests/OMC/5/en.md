@@ -28,7 +28,7 @@ Contestants are offered two songs to choose from. Only these two songs may be ma
 1. HyuN - Absolute
 2. Cranky - R176
 
-You can download the .osz file for the provided songs at [here](https://drive.google.com/drive/folders/1RGEL2DPoO1Cl1zSnQtKprRB-C-4ZEMxo?usp=sharing).
+You can download the .osz file for the provided songs at [here](https://drive.google.com/drive/folders/1RGEL2DPoO1Cl1zSnQtKprRB-C-4ZEMxo?usp=sharing "Google Drive").
 
 ## Ruleset
 
@@ -76,4 +76,4 @@ The OMC5 is run by members of the Korean mapping community.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/937258)
-- [Registration](https://forms.gle/RwDTZNyLS1A8z2Bu9)
+- [Registration](https://forms.gle/RwDTZNyLS1A8z2Bu9 "Google Forms")

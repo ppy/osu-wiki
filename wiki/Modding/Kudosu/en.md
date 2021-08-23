@@ -8,7 +8,7 @@ stub: true
 
 In forum modding, kudosu was exchangeable for [star priority](/wiki/Modding/Star_priority).
 
-The word *kudosu*, sometimes stylised as *kudosu!*, is a [portmanteau](https://en.wikipedia.org/wiki/Portmanteau) of *kudos* and *osu!*.
+The word *kudosu*, sometimes stylised as *kudosu!*, is a [portmanteau](https://en.wikipedia.org/wiki/Portmanteau "Wikipedia") of *kudos* and *osu!*.
 
 <!-- TODO: forum modding, star priority? stubs-->
 

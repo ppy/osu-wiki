@@ -101,7 +101,7 @@ It is usually skipped due to the effort required finding **official sources** fo
 
 Whilst this part can be skipped, it can be a huge help for the mapper and BNs if the Metadata is checked and a post is made about it. Even when the Metadata is already correct, posting good sources for confirmation also helps.
 
-If unsure of a legitimate source for metadata, the [Metadata Heap Discord server](https://discord.gg/9Y4EdyM "Discord invite link") is open for such questions.
+If unsure of a legitimate source for metadata, the [Metadata Heap Discord server](https://discord.gg/9Y4EdyM "Discord") is open for such questions.
 
 ### Song setup
 
@@ -197,7 +197,7 @@ If the difficulty has a lot of hitsound problems, **do not point them all out**!
 
 - **[General ranking criteria](/wiki/Ranking_Criteria)**
 - **[osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania)**
-- **[Naxess' Mapset Verifier (modding tool)](https://github.com/Naxesss/MapsetVerifier)**
-- **[Evening's SV Crash Course](https://github.com/Eve-ning/SV-Crash-Course-LaTeX/blob/master/builds/11082018.pdf)**
+- **[Naxess' Mapset Verifier (modding tool)](https://github.com/Naxesss/MapsetVerifier "GitHub")**
+- **[Evening's SV Crash Course](https://github.com/Eve-ning/SV-Crash-Course-LaTeX/blob/master/builds/11082018.pdf "GitHub")**
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"

@@ -16,7 +16,7 @@ In short, tablets are an optional device to let you play the game in a different
 
 ### osu!store
 
-*Notice: **The osu!store no longer sells osu!tablets.*** At this time, [peppy has tweeted](https://twitter.com/ppy/status/846190638873767936) that if you want to try this input method, you may want to look into other alternatives.
+*Notice: **The osu!store no longer sells osu!tablets.*** At this time, [peppy has tweeted](https://twitter.com/ppy/status/846190638873767936 "Twitter") that if you want to try this input method, you may want to look into other alternatives.
 
 With the goal of trying to allow players to try the tablet input method without putting a hole in their wallet, the osu!store once featured the osu!tablet. It was made by Huion and designed by flyte. The first version in 2013 featured the osu!tablet (white), a pen with a nib, 3 replaceable nibs, but required a AA battery for the pen (which was included but would add weight to the pen). The second version in 2016 feature the osu!tablet (black), a pen with a nib, 3 replaceable nibs, but the pen needed to be charged via USB (included).
 
@@ -50,7 +50,7 @@ At the time of writing there are three versions of the Bamboo, all confusingly u
 
 ![](https://puu.sh/dlQi "Third generation Bamboo (Connect, Capture, Create - Connect shown)")
 
-You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](https://apple.com/magictrackpad).
+You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](https://apple.com/magictrackpad "Apple").
 
 The other Bamboo models come in two sizes, basically small and large. For the second generation, Bamboo Touch, Pen, and Pen and Touch were the "small" ones, whereas the Fun and Craft were the "large" ones. For the third generation, the Connect and Capture are the "small", whereas the Create is the "large".
 
@@ -64,10 +64,10 @@ In short, Wacom is the recommended brand from most serious osu! players. Cintiq 
 
 Here are some links to purchase the latest models.
 
-- [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP)
-- [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt)
-- [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
-  - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](https://a.co/6uDGhXL)
+- [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP "Amazon")
+- [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt "Amazon")
+- [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html "Huion")
+  - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](https://a.co/6uDGhXL "Amazon")
 
 ## Conclusion
 

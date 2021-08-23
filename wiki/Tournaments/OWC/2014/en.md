@@ -42,7 +42,7 @@ The osu! World Cup 2014 was run by various community members.
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
 | Mappool selector | ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
 | Streamer | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665), ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Commentator | ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116), ![][flag_FR][Mr Color](https://osu.ppy.s6078), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Commentator | ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116), ![][flag_FR][Mr Color](https://osu.ppy.sh/users/6078), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
@@ -435,7 +435,7 @@ Sunday, 9 November 2014:
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 7. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
 8. The Tournament Management may reject registrations due to insufficient gameplay abilities.
-9. The Game Administration may reject registrations due to [the violation of the Terms of Services](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)
+9. The Game Administration may reject registrations due to [the violation of the Terms of Services](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied- "Zendesk")
 10. The total amount of teams is 32.
 11. All successfully registered teams will be published after Registration Phase.
     - Captains will get notified in case their roster has been accepted or rejected.

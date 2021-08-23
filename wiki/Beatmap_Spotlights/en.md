@@ -159,12 +159,12 @@ The curation system involves the process of curators selecting the beatmaps bein
 The current implementation of the Beatmap Spotlights is highly experimental and can change anytime depending on how players respond to it. Because of that, it is important to collect as much feedback and criticism as possible to improve furtherly on the direction and implementation of this system. Players are encouraged to leave their thoughts and feedback here:
 
 - [Feedback forum thread](https://osu.ppy.sh/community/forums/topics/1189626)
-- `#beatmap-spotlights` in the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)
-- `#osu-spotlights` in the [osu!dev Discord server](https://discord.gg/ppy)
+- `#beatmap-spotlights` in the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")
+- `#osu-spotlights` in the [osu!dev Discord server](https://discord.gg/ppy "Discord")
 
 ### Becoming a curator
 
-Anyone can apply to become a curator by filling this [application form](https://spotlights.team/app). Applications open up between the seasons and are closed during an ongoing season.
+Anyone can apply to become a curator by filling this [application form](https://spotlights.team/app "osu! Spotlights Team"). Applications open up between the seasons and are closed during an ongoing season.
 
 All applicants are reviewed by project management and team leaders and assessed based on their proficiency as a player, mapper, modder and tournament mappool selector for their respective game mode. Applicants do not need to be proficient in all of these things to be selected, but having a broad skill set certainly helps. The roster of curators is based on a healthy mix and match of various skill levels, experiences and proficiencies. The number of curators is being purposefully kept small and limited at the moment as the project develops.
 

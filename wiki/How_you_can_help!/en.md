@@ -8,7 +8,7 @@ Below are just a few of the ways you can help out in the community:
 
 ## Help out with the wiki
 
-[The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base that contains anything and everything about osu!. And as such, the wiki is always looking for more contributors to help keep the site up-to-date with fresh, new knowledge or translations.
+[The wiki](https://github.com/ppy/osu-wiki "GitHub") is our official knowledge base that contains anything and everything about osu!. And as such, the wiki is always looking for more contributors to help keep the site up-to-date with fresh, new knowledge or translations.
 
 If you are a newcomer to the osu! wiki, you can read more about it in the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).
 
@@ -54,7 +54,7 @@ Below are just a few of the ways you can contribute:
 
 - Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum. Tournaments take a lot time and work to organize without hitches, and you can help out by being a spectator judge in some cases.
 - Check out what's going on in the [Development](https://osu.ppy.sh/community/forums/2) forum; this is where most serious projects happen.
-  - Join the [osu!dev Discord](https://discord.gg/ppy)! Even just following along and staying up-to-date with osu! development and projects is a good way to stay informed.
+  - Join the [osu!dev Discord](https://discord.gg/ppy "Discord")! Even just following along and staying up-to-date with osu! development and projects is a good way to stay informed.
 - Join a [beatmap project](https://osu.ppy.sh/community/forums/53) and learn how fun collaborating with others can be!
 - Start your own project! Whether it's bringing back dancing pippi, or just making something cool for osu!, anything is accepted!
 
@@ -62,8 +62,8 @@ Below are just a few of the ways you can contribute:
 
 Started in 2017, the osu!lazer project is the current focus of the osu! team, along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
 
-- Helping with the [osu!lazer](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
-- Make the [new website](https://github.com/ppy/osu-web) even better.
+- Helping with the [osu!lazer](https://github.com/ppy/osu "GitHub") project. There is so much to implement on the new version of osu!, and you can help make it happen!
+- Make the [new website](https://github.com/ppy/osu-web "GitHub") even better.
 
 ## Avoid being negative! Make people happy!
 

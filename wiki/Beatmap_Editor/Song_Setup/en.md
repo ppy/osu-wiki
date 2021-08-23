@@ -22,7 +22,7 @@ Input for artist, title, and source fields should be sourced from the song's [pr
 
 Foreign/Eastern names should be presented in the same name order as used on Wikipedia (generally, given name followed by family name; the western order, for consistency).
 
-This field should prefer to the spelling of the official release sources. The artist can sometimes be found on [Wikipedia](https://www.wikipedia.org) or other unofficial sources such as [Anime News Network](https://www.animenewsnetwork.com) or [MyAnimeList](https://myanimelist.net). As with any unofficial sources, provided content should be cross-checked against the official sources or if it provides a link to the official source, visit the official source instead. When in doubt, fill in all the information known now and make a verification request post.
+This field should prefer to the spelling of the official release sources. The artist can sometimes be found on [Wikipedia](https://www.wikipedia.org "Wikipedia") or other unofficial sources such as [Anime News Network](https://www.animenewsnetwork.com "Anime News Network") or [MyAnimeList](https://myanimelist.net "MyAnimeList"). As with any unofficial sources, provided content should be cross-checked against the official sources or if it provides a link to the official source, visit the official source instead. When in doubt, fill in all the information known now and make a verification request post.
 
 ##### Romanised Artist
 

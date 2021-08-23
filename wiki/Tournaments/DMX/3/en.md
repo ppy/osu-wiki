@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
   - [Daisuke Ohnuma - HONG KONG KUNG-FU HURRICANE (PiraTom) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/164899#mania/401291)
   - [Between August and December - Sayonara Cruel World (Reworked) (tailsdk) \[LN\]](https://osu.ppy.sh/beatmapsets/747111#mania/1574382)
   - [Silent Siren - BANG!BANG!BANG! (short Ver.) (ALEFY) \[MX (no SV)\]](https://osu.ppy.sh/beatmapsets/348778#mania/769335)
-  - [Aphex Twin - Cock-Ver10 (Valor) \[Hard 10\]](https://osudaily.net/dl/DMAX-Groups-Tech.osz)
+  - [Aphex Twin - Cock-Ver10 (Valor) \[Hard 10\]](https://osudaily.net/dl/DMAX-Groups-Tech.osz "osu!daily")
   - [a crowd of rebellion - M1917 (Fontes) \[Fontes' Insane\]](https://osu.ppy.sh/beatmapsets/552868#mania/1288460)
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Wh1teh) \[Hard\]](https://osu.ppy.sh/beatmapsets/403450#mania/878056)
 - Tiebreaker

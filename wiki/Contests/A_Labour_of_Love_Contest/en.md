@@ -97,7 +97,7 @@ If a team wins in multiple of the above categories, they will be rewarded a prof
 - **Submission must be in `.osz` format.**
 - **Beatmap must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be questioned.
-- **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418). Teams are limited to 5 members.
+- **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform "Google Forms").** If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418). Teams are limited to 5 members.
 - **Submissions must not be Qualified before the community vote ends.**
 
 Teams are encouraged tease their submissions in this contest prior to the results being announced.
@@ -108,7 +108,7 @@ The following usage terms were provided by Kuba Oms: *The remixers can post thei
 
 ## Results
 
-For more information on results, see the [detailed results overview](https://docs.google.com/spreadsheets/d/e/2PACX-1vTts0zpdjKdCUS3oCP4XZ18vh5ckEDqL_Jvy2eh0B4kC8je09bCGwYcpOWgjaXXy0251c3f33u7BDjv/pubhtml) and the [results summary](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love).
+For more information on results, see the [detailed results overview](https://docs.google.com/spreadsheets/d/e/2PACX-1vTts0zpdjKdCUS3oCP4XZ18vh5ckEDqL_Jvy2eh0B4kC8je09bCGwYcpOWgjaXXy0251c3f33u7BDjv/pubhtml "Google Sheets") and the [results summary](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love).
 
 ### Musician panel
 

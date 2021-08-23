@@ -2,7 +2,7 @@
 
 **osu!lazer tournament client** is the official client that overlays [osu!tourney](/wiki/osu!tourney) with supplementary scenes and information relevant to an osu! tournament during a live stream.
 
-Users encountering problems with the client may [create an issue on GitHub](https://github.com/ppy/osu/issues) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Users encountering problems with the client may [create an issue on GitHub](https://github.com/ppy/osu/issues "GitHub") or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Setup
 
@@ -38,7 +38,7 @@ The osu!lazer tournament client can be customised by providing it with custom fl
 
 ### Flags
 
-By default, the osu!lazer tournament client provides built-in flags for the countries of the world. These can be referenced by their [ISO 3166 Alpha-2 Country Codes](https://www.iso.org/iso-3166-country-codes.html) in the Team Editor.
+By default, the osu!lazer tournament client provides built-in flags for the countries of the world. These can be referenced by their [ISO 3166 Alpha-2 Country Codes](https://www.iso.org/iso-3166-country-codes.html "ISO") in the Team Editor.
 
 For custom flags, `.jpg` and `.png` files are accepted. Flag images should be at least 140x94, maintaining an aspect ratio close to this specification for best results.
 

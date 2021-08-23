@@ -275,7 +275,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### September
 
 - **2016-09-30:** The [Community Mentorship Program](/wiki/Community_Mentorship_Program) re-launched after a long hiatus.
-  - Its new structure was centered around [Discord](https://discord.com) communication and seasonal cycles.
+  - Its new structure was centered around [Discord](https://discord.com "Discord") communication and seasonal cycles.
   - The program was led by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
 ### October
@@ -422,7 +422,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2019-05-05:** The BN/QAT restructure was finalized.
   - The Quality Assurance Team was renamed to the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
   - Beatmap Nominators became responsible for disqualifications and veto mediation. Veto mediation was handled through a blind vote rather than a discussion.
-  - The [Beatmap Nominator website](https://bn.mappersguild.com/) was published to automate many BN/NAT tasks.
+  - The [Beatmap Nominator website](https://bn.mappersguild.com/ "NAT/BN Management") was published to automate many BN/NAT tasks.
     - Through the website, users could apply to the BN at any time as opposed to the previous cycle-based application system. This resulted in Beatmap Nominators being added at irregular times instead of in large waves.
     - Reports for inappropriate beatmaps and BN/NAT misconduct were shifted from a Google Form to the BN website.
     - Statistics and evaluations for BN modding/nomination activity and proficiency shifted from painfully inefficient Google Spreadsheets to the BN website, hugely increasing productivity for Beatmap Nominator management. <!-- https://osu.ppy.sh/home/news/2019-05-05-bn-and-qat-restructure -->
@@ -449,7 +449,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
   - These were originally planned in the QAT Upheaval two years prior. <!-- https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019 -->
 - **2020-02-21:**  NAT leadership as a concept was discontinued as ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) stepped down as NAT leader.
   - Tasks specific to NAT leaders were delegated to the whole team.
-- **2020-02-24:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) system was transferred from Trello to the [Beatmap Nominator website](https://bn.mappersguild.com/).
+- **2020-02-24:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) system was transferred from Trello to the [Beatmap Nominator website](https://bn.mappersguild.com/ "NAT/BN Management").
   - This change was made to account for Quality Assurance activity in Beatmap Nominator evaluations.
 
 ### April
@@ -470,7 +470,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### December
 
-- **2020-12-17:** Inappropriate content review submission and evaluation were moved from Discord discussions to blind votes via the [Beatmap Nominator website](https://bn.mappersguild.com/).
+- **2020-12-17:** Inappropriate content review submission and evaluation were moved from Discord discussions to blind votes via the [Beatmap Nominator website](https://bn.mappersguild.com/ "NAT/BN Management").
 
 **3580 beatmaps** were ranked in 2020.
 

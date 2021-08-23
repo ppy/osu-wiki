@@ -15,7 +15,7 @@ H.264 is a good codec to use but like most video codecs, it is lossy. This means
 
 ### Using Handbrake
 
-This section will show you how to remove audio from videos using [Handbrake](https://handbrake.fr/) to reduce the file size of the video file.
+This section will show you how to remove audio from videos using [Handbrake](https://handbrake.fr/ "Handbrake") to reduce the file size of the video file.
 
 1. Open Handbrake and import your video file. You can drag and drop your file into Handbrake or manually import by clicking the `File` option.
 
@@ -47,7 +47,7 @@ This section will show you how to remove audio from videos using [Handbrake](htt
 
 ## Audio
 
-The audio bitrate determines a lot about the size of the audio file. You can use [Audacity](https://www.audacityteam.org/) to change the bitrate of your audio files.
+The audio bitrate determines a lot about the size of the audio file. You can use [Audacity](https://www.audacityteam.org/ "Audacity") to change the bitrate of your audio files.
 
 The [Ranking Criteria](/wiki/Ranking_Criteria#audio) has a rule noting that anything above 192kbps is not allowed. In addition to this, anything under 128kbps is usually considered to be low quality.
 

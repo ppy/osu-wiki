@@ -2,11 +2,11 @@
 
 *See also: [Installation on macOS](/wiki/Installation/macOS)*
 
-This page will tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) that explains how to install osu! on Windows.
+This page will tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU "YouTube") that explains how to install osu! on Windows.
 
 ## Minimum system requirements
 
-- .NET framework 4+ (the installer should prompt you to download it, otherwise, you can [find it here](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+- .NET framework 4+ (the installer should prompt you to download it, otherwise, you can [find it here](https://www.microsoft.com/en-us/download/details.aspx?id=48130 "Microsoft"))
 - A decent graphics card.
 
 ## Installing osu!
@@ -23,13 +23,13 @@ This page will tell you how to get osu! working on your Windows device. The [osu
 
 ## Troubleshooting
 
-If you are using a 64-bit Windows 7, you may have difficulties installing osu! correctly. Try to install the 64-bit version of .NET Framework, in case it doesn't come with the osu! installer. [Download it here](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
+If you are using a 64-bit Windows 7, you may have difficulties installing osu! correctly. Try to install the 64-bit version of .NET Framework, in case it doesn't come with the osu! installer. [Download it here](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe "Microsoft")
 
 ---
 
 **If game installer throws errors when attempting to install, you can try few things:**
 
-- Try reinstalling the latest version of .NET Framework. [You can find it here](https://dotnet.microsoft.com/download).
+- Try reinstalling the latest version of .NET Framework. [You can find it here](https://dotnet.microsoft.com/download "Microsoft").
 - Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
 
 ## Adding beatmaps

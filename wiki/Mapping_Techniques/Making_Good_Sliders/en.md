@@ -4,7 +4,7 @@ Also check if the article matches with ASC. See #5729 for more informations -->
 # Making good sliders
 
 This article is a how-to on making good sliders.
-In the most basic form, all you need is a [bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
+In the most basic form, all you need is a [bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve "Wikipedia").
 
 From [Ephemeral](https://osu.ppy.sh/users/102335),
 

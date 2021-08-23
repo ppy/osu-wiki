@@ -32,10 +32,10 @@ New featured artists are announced weekly on osu!'s [news feed](https://osu.ppy.
 
 ## Community usage
 
-Beatmappers are encouraged to create maps for featured artist tracks. These tracks are provided with [timing](/wiki/Beatmap_Editor/Timing) data and are already cleared for use within osu!, allowing users to immediately jump into mapping without worry. The work-in-progress development build of osu!, dubbed [osu!lazer](https://github.com/ppy/osu/releases)<!-- TODO: wiki link -->, will mark these maps prominently in-game.
+Beatmappers are encouraged to create maps for featured artist tracks. These tracks are provided with [timing](/wiki/Beatmap_Editor/Timing) data and are already cleared for use within osu!, allowing users to immediately jump into mapping without worry. The work-in-progress development build of osu!, dubbed [osu!lazer](https://github.com/ppy/osu/releases "GitHub")<!-- TODO: wiki link -->, will mark these maps prominently in-game.
 
 All mapping contests published on the [community contest listing](https://osu.ppy.sh/community/contests), such as the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and the [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad), require participants to map featured artist songs. Some community-run contests utilise these songs as well.
 
-To promote mapping featured artist content, members of the community created the [Mappers' Guild](/wiki/Mappers_Guild), giving mappers an MMO-style quest system that they can participate in with other mappers. Prizes are rewarded for creating and ranking beatmaps, including three tiers of profile badges<!-- TODO: profile badges article -->. Mappers can join the guild by visiting the [Mappers' Guild website](https://mappersguild.com/).
+To promote mapping featured artist content, members of the community created the [Mappers' Guild](/wiki/Mappers_Guild), giving mappers an MMO-style quest system that they can participate in with other mappers. Prizes are rewarded for creating and ranking beatmaps, including three tiers of profile badges<!-- TODO: profile badges article -->. Mappers can join the guild by visiting the [Mappers' Guild website](https://mappersguild.com/ "Mappers' Guild").
 
 If a pre-timed `.osz` from the featured artist listing has errors of any kind, they can be reported on [this forum thread](https://osu.ppy.sh/community/forums/topics/783985).

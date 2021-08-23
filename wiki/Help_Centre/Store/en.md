@@ -22,7 +22,7 @@ Having trouble with a product from the osu!store? Check if there's an available 
 
 ### How do I configure the osu!keyboard?
 
-**You can use the osu!keyboard configuration utility, available from [this link](https://puu.sh/l6urN/4b6bc800f2.zip).**
+**You can use the osu!keyboard configuration utility, available from [this link](https://puu.sh/l6urN/4b6bc800f2.zip "puush").**
 
 Simply extract it to anywhere on your computer, and run the executable!
 
@@ -101,7 +101,7 @@ First off, [download the package containing the osu!go default files](https://as
 
 ### The osu!go device is present, but in a "RAW" state
 
-**This will appear like [this](https://puu.sh/nktuJ/05791b6fc1.png) in the Disk Management dialog.**
+**This will appear like [this](https://puu.sh/nktuJ/05791b6fc1.png "puush") in the Disk Management dialog.**
 
 To fix this, ensure you have the osu!go device selected, right-click on the RAW partition, and select the `Format` option. Choose either `NTFS` or `exFAT` under the `File System` dropdown.
 
@@ -111,7 +111,7 @@ To fix this, ensure you have the osu!go device selected, right-click on the RAW 
 
 **You will need to partition the device from scratch.**
 
-Please follow [this guide](https://staging.tails.boum.org/doc/first_steps/reset/windows.en.html) for details on how to do that.
+Please follow [this guide](https://staging.tails.boum.org/doc/first_steps/reset/windows.en.html "Tails") for details on how to do that.
 
 ### I've reformatted the osu!go device and it now shows up in Disk Management
 

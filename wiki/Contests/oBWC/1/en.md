@@ -44,8 +44,8 @@ The osu! Mapping World Cup is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/843987)
-- [Livestream](https://www.twitch.tv/osumwc)
-- [Discord server](https://discord.gg/DybsJTr)
+- [Livestream](https://www.twitch.tv/osumwc "Twitch")
+- [Discord server](https://discord.gg/DybsJTr "Discord")
 
 ## Participants
 

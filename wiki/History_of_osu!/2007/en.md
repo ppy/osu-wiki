@@ -44,7 +44,7 @@ Gameplay was enhanced with the debut of [combo fire](/wiki/Glossary/Combo_fire),
 
 ![](img/2007-09.jpg)
 
-September 17, 2007 was the "birth" of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a news announcement on [bemanistyle](https://www.otaquest.com/bemanistyle) which drew quite a few interested people with previous rhythm game experience.
+September 17, 2007 was the "birth" of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a news announcement on [bemanistyle](https://www.otaquest.com/bemanistyle "OTAQUEST") which drew quite a few interested people with previous rhythm game experience.
 
 ![](img/2007-09_01.jpg "Slider creation in the editor")
 

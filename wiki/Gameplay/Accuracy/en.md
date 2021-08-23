@@ -61,7 +61,7 @@ Due to the way the [DT](/wiki/Game_modifier/Double_time) (Double Time) and [HT](
 
 #### Unstable rate
 
-`Unstable Rate` represents the consistency of the timing of the hits, where lower numbers are better (top players often score below 100). Note that the value measures consistency, not accuracy, so consistently hitting 15ms early is the same as consistently hitting on time. The formula is essentially the standard deviation of the hit errors (in milliseconds), multiplied by 10. [Sample code](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) is available as a reference, showing how osu-stable calculates the unstable rate values.
+`Unstable Rate` represents the consistency of the timing of the hits, where lower numbers are better (top players often score below 100). Note that the value measures consistency, not accuracy, so consistently hitting 15ms early is the same as consistently hitting on time. The formula is essentially the standard deviation of the hit errors (in milliseconds), multiplied by 10. [Sample code](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899 "GitHub") is available as a reference, showing how osu-stable calculates the unstable rate values.
 
 ### Spin
 

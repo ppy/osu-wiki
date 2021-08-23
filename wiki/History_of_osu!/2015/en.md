@@ -39,7 +39,7 @@ Among the changes and announcements made surrounding beatmap ranking, [a change 
 
 The [osu!news YouTube channel](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ "YouTube") uploaded its [first video](https://www.youtube.com/watch?v=KQbudVxEjr8 "YouTube") to the public on 8 May 2015. The channel was run by various members of the community and aimed to create videos on skin showcases, tournaments, mapping, contests, and other news from the community [[12,13]][r].
 
-The osu!keyboard (also known as the "osu! 'nono' keyboard") was added to the osu!store on 30 May 2015, retailing for about $40 at launch. Initially announced in a [tweet by peppy](https://twitter.com/ppy/status/603797988742336512) on 28 May 2015, there were only 100 keyboards available at launch, and were more akin to a keypad than a full-sized keyboard [[14,15]][r].
+The osu!keyboard (also known as the "osu! 'nono' keyboard") was added to the osu!store on 30 May 2015, retailing for about $40 at launch. Initially announced in a [tweet by peppy](https://twitter.com/ppy/status/603797988742336512 "Twitter") on 28 May 2015, there were only 100 keyboards available at launch, and were more akin to a keypad than a full-sized keyboard [[14,15]][r].
 
 ![](img/osu-keyboard.jpg "The osu! keyboard teased in a tweet by peppy")
 
@@ -67,9 +67,9 @@ The old FPS counter was replaced with a new "refresh and latency display" on 2 S
 
 On 26 September 2015, [cYsmix](https://cysmix.com/ "cysmix.com") became one of the first official osu! artists. This partnership entailed the creation of three tracks made specifically for osu!, along with the creation of a mapping contest using those tracks. The aforementioned four tracks were as follows:
 
-- ["Manic"](https://soundcloud.com/olemlanglie/cysmix-manic-osu)
-- ["House with Legs"](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-osu)
-- ["Dovregubben's Hall (New Ver.)"](https://soundcloud.com/olemlanglie/cysmix-dovregubbens-hall-new-ver-osu)
+- ["Manic"](https://soundcloud.com/olemlanglie/cysmix-manic-osu "SoundCloud")
+- ["House with Legs"](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-osu "SoundCloud")
+- ["Dovregubben's Hall (New Ver.)"](https://soundcloud.com/olemlanglie/cysmix-dovregubbens-hall-new-ver-osu "SoundCloud")
 
 ![](img/cysmix-album-cover-1.jpg "The album cover for cYsmix's first release of official osu! songs")
 
@@ -143,7 +143,7 @@ A few days later (19 November 2015), peppy updated users on the situation in [an
 12. [osu! newspost [Tahsa] (8 May 2015) - "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
 13. [YouTube video [osu!news] (8 May 2015) - "Welcome to the osu!news"](https://www.youtube.com/watch?v=iAhKcQK5Iw8 "YouTube")
 14. [osu! newspost [Tasha] (30 May 2015) - "osu!weekly 12"](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
-15. [Tweet [@ppy] - 28 May 2015](https://twitter.com/ppy/status/603797988742336512)
+15. [Tweet [@ppy] - 28 May 2015](https://twitter.com/ppy/status/603797988742336512 "Twitter")
 16. [ppy blog - "20150604 /Vocal/"](https://blog.ppy.sh/post/120685091453/20150604-vocal "ppy blog")
 17. [ppy blog - "20150616 /Boxed/"](https://blog.ppy.sh/post/121678619658/20150616-boxed "ppy blog")
 18. [ppy blog - "20150617"](https://blog.ppy.sh/post/121762218848/20150617 "ppy blog")
