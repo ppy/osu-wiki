@@ -5,17 +5,17 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-osu! wiki-ге қош келдіңіз, the open-source knowledge base containing a wide range of information related to osu!, a free-to-win rhythm game.
+osu! wiki-ге қош келдіңіз. Осы жерде сіз osu!-ға қатысты кең ауқымды ақпаратты таба аласыз. osu! бұл тегін ырғақты ойын.
 </div>
 
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel wiki-main-page-panel--full">
 
-# Getting started
+# Бастау
 
 Important articles and guides that will help you dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5).
 
-[Rules](/wiki/Rules) • [Installation](/wiki/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_Centre)
+[Ережелер](/wiki/Rules) • [Жүктеу](/wiki/Installation) • [Тіркеу](/wiki/Registration) • [Анықтама орталығы](/wiki/Help_Centre)
 
 [Chat console](/wiki/Chat_Console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides) • [Glossary](/wiki/Glossary)
 
