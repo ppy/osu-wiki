@@ -4,7 +4,7 @@ title: "Summer 2021 Track and Field Fanart Contest Results"
 date: 2021-08-23 12:00:00 +0000
 ---
 
-The race is over, now witness podium finish in all its glory!
+The race is over, now witness the podium finish in all its glory with 15 new Summer seasonal backgrounds!
 
 ![](https://assets.ppy.sh/contests/133/header-winner.jpg)
 
