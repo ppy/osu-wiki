@@ -56,7 +56,7 @@ Athletic energy is front and center in [**Kwms024**](https://osu.ppy.sh/users/11
 
 There will be no talk of competitor numbers. None whatsoever.
 
-[![](https://assets.ppy.sh/contests/133/banners/not slepp.jpg)](https://assets.ppy.sh/contests/133/winners/not slepp.png)
+[![](https://assets.ppy.sh/contests/133/banners/not%20slepp.jpg)](https://assets.ppy.sh/contests/133/winners/not%20slepp.png)
 
 **1657** voters watched in on [**not slepp**](https://osu.ppy.sh/users/14406940)'s rendition of Mocha and Alisa enjoying a bit of locker room chat. Poor Mocha looks like she's struggling, but then again, when isn't she? 
 
