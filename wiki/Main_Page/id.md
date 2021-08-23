@@ -5,7 +5,7 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Selamat datang ke osu! wiki, basis pengetahuan open-source yang berisi berbagai informasi terkait osu!, permainan ritme free-to-win.
+Selamat datang di osu! wiki, sebuah basis pengetahuan *open-source* yang mengandung berbagai informasi seputar segala sesuatu yang berhubungan dengan osu!.
 </div>
 
 <div class="wiki-main-page__panels">
@@ -13,7 +13,7 @@ Selamat datang ke osu! wiki, basis pengetahuan open-source yang berisi berbagai 
 
 # Pendahuluan
   
-Artikel dan panduan penting yang akan membantu Anda mendalami osu!. Jika terjadi kesalahan atau hal-hal tidak jelas, pastikan untuk mengunjungi [Forum bantuan](https://osu.ppy.sh/forum/5).
+Artikel-artikel berikut ini akan memandumu untuk dapat mengenal osu! lebih dalam. Apabila kamu memiliki pertanyaan-pertanyaan lebih lanjut, harap kunjungi [sub-forum Help](https://osu.ppy.sh/forum/5).
 
 [Peraturan](/wiki/Rules) • [Instalasi](/wiki/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_Centre)
   
@@ -85,7 +85,7 @@ Peraturan media: [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guideline
 
 Jawaban atas pertanyaan yang sering diajukan dan solusi untuk masalah umum ada di sini.
 
-[Pusat bantuan](/wiki/Help_Centre) • [Pemecahan masalah kinerja osu!](/wiki/Performance_Troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Forum bantuan](https://osu.ppy.sh/forum/5)
+[Pusat bantuan](/wiki/Help_Centre) • [Pemecahan masalah kinerja osu!](/wiki/Performance_Troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Help](https://osu.ppy.sh/forum/5)
 
 Pembatasan profil: [Silence](/wiki/Silence) • [Pembatasan akun](/wiki/Help_Centre/Account_Restrictions)
 
