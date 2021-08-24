@@ -44,7 +44,7 @@ Tout ce qui concerne les cercles, les tambours, les fruits et le synthétiseur :
 
 # [L'Éditeur de beatmap](/wiki/Beatmap_Editor)
 
-Toutes les beatmaps d'osu! sont créés par l'imagination débordante de sa dynamique communauté. Vous avez toujours voulu partager votre musique préférée avec d'autres, mais n'avez jamais su comment faire ? Familiarisez-vous avec l'éditeur intégré et les possibilités qu'il vous offre.
+Toutes les beatmaps d'osu! sont créées par l'imagination débordante de sa dynamique communauté. Vous avez toujours voulu partager votre musique préférée avec d'autres, mais n'avez jamais su comment faire ? Familiarisez-vous avec l'éditeur intégré et les possibilités qu'il vous offre.
 
 Sections : [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song setup](/wiki/Beatmap_Editor/Song_Setup)
 
@@ -57,7 +57,7 @@ Activités : [Beatmapping](/wiki/Beatmapping) • [Techniques de mapping](/wiki/
 
 # Soumission et classement des beatmaps
 
-Le classement est le processus qui consiste à obtenir un classement pour uen beatmap, ce qui la rend plus populaire et plus reconnu. Découvrez ce qu'il faut faire pour emprunter cette voie et comment augmenter vos chances de réussite grâce aux reviews de votre beatmap, ainsi que les procédures de contrôle de la qualité et le processus de classement.
+Le classement est le processus qui consiste à obtenir un classement pour une beatmap, ce qui la rend plus populaire et plus reconnue. Découvrez ce qu'il faut faire pour emprunter cette voie et comment augmenter vos chances de réussite grâce aux reviews de votre beatmap, ainsi que les procédures de contrôle de qualité et le processus de classement.
 
 [Soumission](/wiki/Submission) • [Modding](/wiki/Modding) • [Procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
