@@ -6,7 +6,7 @@ tags:
 
 # French Beatmapping Contest
 
-La **French Beatmapping Contest** (***FBC***) est un tournoi de mapping uniquement accessible aux personnes francophones. Dans chaque édition, les mappeurs doivent réaliser une difficulté de niveau Insane ou plus.
+Le **French Beatmapping Contest** (***FBC***) est un tournoi de mapping uniquement accessible aux personnes francophones. Dans chaque édition, les mappeurs doivent réaliser une difficulté de niveau Insane ou plus.
 
 Les points sont attribués en suivant les critères de notation suivants : **Structure**, **Pertinence**, **Créativité**, **Impression du juge** et **Hitsounds**. Il est possible que les critères changent si nécessaire.
 

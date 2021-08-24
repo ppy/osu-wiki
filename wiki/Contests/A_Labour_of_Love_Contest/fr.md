@@ -17,7 +17,7 @@ Les soumissions à ce concours comprennent les éléments suivants :
 
 ## Équipes
 
-| Nom de l'équipe | Remixeur(s) | Beatmapper(s) | Créateur(s) de storyboard/vidéo | Entrée |
+| Nom de l'équipe | Remixeur(s) | Beatmapper(s) | Créateur(s) de storyboard/vidéo | Participation |
 | :-- | :-- | :-- | :-- | :-- |
 | Bowkutoly Encore | ![][flag_TH] [Raytoly](https://osu.ppy.sh/users/8121109) | ![][flag_TH] [Raytoly](https://osu.ppy.sh/users/8121109), ![][flag_ID] [gokugohan12468](https://osu.ppy.sh/users/2013571) | ![][flag_GB] [Agent Encore](https://osu.ppy.sh/users/18121148), ![][flag_US] [BowLL](https://osu.ppy.sh/users/10198015), ![][flag_TH] [Raytoly](https://osu.ppy.sh/users/8121109) | [Link](https://osu.ppy.sh/beatmapsets/1389153#osu/2868826) |
 | Daniel Gaming | ![][flag_US] [Sooph](https://osu.ppy.sh/users/12001243) | ![][flag_ID] [Tocorn](https://osu.ppy.sh/users/9564072), ![][flag_US] [phyr](https://osu.ppy.sh/users/13181574) | ![][flag_US] [Malishiosu](https://osu.ppy.sh/users/12521528) | [Link](https://osu.ppy.sh/beatmapsets/1390683#osu/2871703) |
@@ -86,7 +86,7 @@ Le concours sera jugé par un panel de mappeurs (y compris les storyboarders) et
     - Titres d'utilisateur *Elite Mapper*, *Elite Storyboarder*, et *osu!mixer*
     - Soumission groupée avec les nouveaux téléchargements d'osu! et passage rapide au statut Classée
 
-Si une équipe gagne dans plusieurs des catégories ci-dessus, elle sera récompensée par un badge de profil reflétant toutes les catégories pertinentes.
+Si une équipe gagne dans plusieurs des catégories citées ci-dessus, elle sera récompensée par un badge de profil reflétant toutes les catégories pertinentes.
 
 ## Règles
 

@@ -8,7 +8,7 @@ tags:
 
 ![Bannière de la KCC2021](img/banner.png)
 
-Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping osu!mania pour les utilisateurs de ![][flag_KR] Corée du Sud. Il s'agit de la première édition du concours de mapping coréen.
+Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping osu!mania pour les utilisateurs venant de ![][flag_KR] Corée du Sud. Il s'agit de la première édition du concours de mapping coréen.
 
 ## Programme du concours
 
@@ -79,7 +79,7 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 ### Règlement du concours
 
 - Ce concours est réservé au mode osu!mania.
-- Seuls les Coréens peuvent participer à ce concours. Si votre drapeau de profil n'indique pas que vous êtes en ![][flag_KR] Corée du Sud pour des raisons telles que la résidence à l'étranger, vous pouvez quand même participer si vous êtes en mesure de vérifier que vous êtes coréen.
+- Seuls les coréens peuvent participer à ce concours. Si votre drapeau de profil n'indique pas que vous êtes en ![][flag_KR] Corée du Sud pour des raisons telles que la résidence à l'étranger, vous pouvez quand même participer si vous êtes en mesure de vérifier que vous êtes coréen.
 - Vous devez choisir une musique que vous souhaitez mapper lors de votre inscription (une musique pour Instrumentale et une pour Vocal). Vous pouvez mapper une de ces deux musiques après la fin du vote.
 - Le client d'osu! doit être capable de charger et de lire votre soumission.
 - La soumission doit être au format `.osz`.
