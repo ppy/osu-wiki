@@ -56,7 +56,7 @@ Additionally, in response to the backlash from the community, Ephemeral promised
 
 — Loctav, "Changes to the Quality Assurance Team" [[14]][r]
 
-Reception towards this change was overall mostly positive by the community; however, some users did have concerns as to whether or not this change would cause some beatmaps to become ignored without a guaranteed mod by a QAT member [[14]][r].
+Reception of the community towards this change was overall mostly positive. However, some users did have concerns as to whether or not this change would cause some beatmaps to become ignored without a guaranteed mod by a QAT member [[14]][r].
 
 ## May
 
@@ -109,7 +109,7 @@ Despite these rankings and rewards, users were reminded that the official mascot
 
 ## October
 
-**The GMT (Global Moderation Team) began taking applications for the first time in its history on 15 October 2016.** Previously, members of the GMT would be inducted via process of nomination or recommendation by other GMT members; however, due to a recent increase in demand for more members, the team decided that it would need to reach out to the community more:
+**The GMT (Global Moderation Team) began taking applications for the first time in its history on 15 October 2016.** Previously, members of the GMT would be inducted via process of nomination or recommendation by other GMT members. However, due to a recent increase in demand for more members, the team decided that it would need to reach out to the community more:
 
 > Over the past few months, we've been trying to get more in touch with the community as a whole. As a part of these efforts, we are now accepting applications from anyone who wishes to join the Global Moderation Team.
 >
