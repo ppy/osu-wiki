@@ -1,6 +1,6 @@
 # Concours
 
-Cette section est dédiée aux concours organisés par la communauté d'osu!
+Cette section est dédiée aux concours organisés par la communauté d'osu!.
 
 ## Concours officiels
 
@@ -12,7 +12,7 @@ Les concours officiels sont organisés (ou reconnus comme officiels) par l'[équ
 
 *Page principale : [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
-Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours de mapping où les mappeurs participants s'affrontaient pour créer la plus remarquable beatmap avec un [niveau de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) approprié à partir de Facile ou Normal en un mois.
+Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours de mapping où les mappeurs participants s'affrontaient pour créer la plus remarquable beatmap avec un [niveau de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) approprié à partir de Easy ou Normal en un mois.
 
 | Numéro du concours | Musique(s) | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -33,7 +33,7 @@ Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours
 | [#12](https://osu.ppy.sh/home/news/2016-03-04-beatmapping-contest-12-osu) | IAHN - Candy Luv | ![osu!][osu!] | ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | [#1](https://osu.ppy.sh/home/news/2016-05-26-monthly-beatmapping-contest-12-results) |
 | [#13](https://osu.ppy.sh/home/news/2016-12-09-monthly-beatmapping-contest-13-now-open) | BilliumMoto - HDHR | ![osu!][osu!] | ![][flag_MY] [RyoKazuka](https://osu.ppy.sh/users/6258586) | ![][flag_ID] [Fort](https://osu.ppy.sh/users/2805457) | ![][flag_DE] [Pho](https://osu.ppy.sh/users/3624692) | [#1](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results) |
 
-Après une longue interruption, le Monthly Beatmapping Contest  a été relancé en janvier 2020 avec un tout nouveau calendrier, de nouvelles règles, une nouvelle procédure de vote et un nouveau système de récompense. De nombreux aspects du concours ont été radicalement modifiés afin de rendre le concours plus attrayant et plus intéressant, dont voici quelques exemples :
+Après une longue interruption, le Monthly Beatmapping Contest a été relancé en janvier 2020 avec un tout nouveau calendrier, de nouvelles règles, une nouvelle procédure de vote et un nouveau système de récompense. De nombreux aspects du concours ont été radicalement modifiés afin de rendre le concours plus attrayant et plus intéressant, dont voici quelques exemples :
 
 - Au lieu d'une musique unique, le concours propose désormais une sélection de musiques de différents [featured artists](/wiki/Featured_Artists) chaque mois, pour lesquelles tous les mappeurs participants sont libres de mapper et de soumettre leurs entrées.
 - Les mappeurs participants ne doivent désormais soumettre qu'une seule difficulté au lieu d'un mapset complet.
@@ -88,9 +88,9 @@ L'**osu! Mapping Olympiad** est un concours de mapping qui se tient comme un suc
 
 #### Community Mapping Contest
 
-Le **Community Mapping Contest** est un concours de mapping où les mappeurs participants sont libres de soumettre leur entrée pour n'importe quelle difficulté dans n'importe quel mode de jeu qu'ils désirent, après quoi toutes les entrées gagnantes, toutes difficultés et tous modes de jeu confondus, seront fusionnées en une seule beatmap.
+Le **Community Mapping Contest** est un concours de mapping où les mappeurs participants sont libres de soumettre leur entrée pour n'importe quelle difficulté dans n'importe quel mode de jeu, après quoi toutes les entrées gagnantes, toutes difficultés et tous modes de jeu confondus, seront fusionnées en une seule beatmap.
 
-| Numéro du concours | Musique | Mode de jeu | ![Couronne en or][GCrown] (Easy) | ![Couronne en or][GCrown] (Normal) | ![Couronne en or][GCrown] (Hard) | ![Couronne en or][GCrown] (Insane) | ![Couronne en or][GCrown] (Extra) | Results |
+| Numéro du concours | Musique | Mode de jeu | ![Couronne en or][GCrown] (Easy) | ![Couronne en or][GCrown] (Normal) | ![Couronne en or][GCrown] (Hard) | ![Couronne en or][GCrown] (Insane) | ![Couronne en or][GCrown] (Extra) | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
 | [#1 (osu!)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | ![osu!][osu!] | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_ID] [Chalwa](https://osu.ppy.sh/users/4826159) | ![][flag_TH] [Nondt](https://osu.ppy.sh/users/3119525) | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | [#1](https://osu.ppy.sh/beatmapsets/587388) |
 | [#1 (osu!taiko)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | ![osu!taiko][osu!taiko] | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | ![][flag_TW] [S a n d](https://osu.ppy.sh/users/676578) | [#1](https://osu.ppy.sh/beatmapsets/587388) |
@@ -102,7 +102,7 @@ Le **Community Mapping Contest** est un concours de mapping où les mappeurs par
 
 **Mapping With Rewards** est un concours de mapping où les mappeurs participants s'affrontent pour créer la meilleure beatmap (avec un [niveau de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) à partir de Easy ou Normal) pour n'importe laquelle des musiques données dans chaque itération correspondante, sans délai strict.
 
-| Numéro du concours | Musique | Mode de jeu | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | Results |
+| Numéro du concours | Musique | Mode de jeu | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [#1.1](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) | [cYsmix - Manic](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | *N/A* | *N/A* | [#1](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete) |
 | [#1.2](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) | [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | *N/A* | *N/A* | [#1](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete) |
@@ -131,7 +131,7 @@ Le **Community Mapping Contest** est un concours de mapping où les mappeurs par
 
 Le **Best of/Community Choice** est un concours de vote public qui a lieu chaque année afin de déterminer les beatmaps les plus populaires aux yeux de la communauté d'osu!
 
-À son lancement, le concours a été nommé "Best of", car le principe initial et les attentes du concours étaient d'encourager les membres de la communauté à voter pour ce qu'ils considéraient comme "the best beatmaps of the year" ; cependant, comme la base de joueurs du jeu a continué à croître au fil du temps, le concours se transformait inévitablement de plus en plus en un concours de popularité chaque année, ce qui a incité le concours à être relancé comme "Community Choice" en 2017.
+À son lancement, le concours a été nommé "Best of", car le principe initial et les attentes du concours étaient d'encourager les membres de la communauté à voter pour ce qu'ils considéraient comme "the best beatmaps of the year" ; cependant, comme le nombre de joueurs a continué à croître au fil du temps, le concours se transformait inévitablement de plus en plus en un concours de popularité chaque année, ce qui a incité le concours à être relancé comme "Community Choice" en 2017.
 
 | Année | Mode de jeu | ![Couronne en or][GCrown] (osu!) | ![Couronne en or][GCrown] (osu!taiko) | ![Couronne en or][GCrown] (osu!catch) | ![Couronne en or][GCrown] (osu!mania) | Résultats |
 | :-: | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -206,13 +206,13 @@ Le *osu! Beatmap Blueprints Contest* est un concours unique organisé pour comm�
 
 **osu!remix** est un concours de remix de musique où les musiciens participants de toute la communauté sont chargés de créer le meilleur remix d'une musique choisie qui a été largement connue dans la communauté d'osu! d'une manière ou d'une autre. C'est le tout premier concours à être géré via la page [Liste des concours](https://osu.ppy.sh/community/contests).
 
-| Numéro du concours | Musique remixée | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Results |
+| Numéro du concours | Musique remixée | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest) | [nekodex - circles!](https://osu.ppy.sh/beatmaps/artists/1) | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | [#1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) |
 
 #### Skinning Contest
 
-The **Skinning Contest** is a skinning contest where artistic creators from all across the community compete to create the best skin in a limited time. 
+Le **Skinning Contest** est un concours de skinning dans lequel les créateurs artistiques de toute la communauté s'affrontent pour créer le meilleur skin en un temps limité. 
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
@@ -233,7 +233,7 @@ Le **osu! Beatmapping World Championship** est un concours de mapping par équip
 
 ### Pending Cup
 
-La **Pending Cup** est un concours de mapping organisé chaque année par des membres éminents de la communauté sinophone de mapping. musique et/ou catégories dans lesquelles les mappeurs de toute la communauté sont libres de concourir et de soumettre leurs entrées.
+La **Pending Cup** est un concours de mapping organisé chaque année par des membres éminents de la communauté sinophone de mapping. Chaque année, le concours présente jusqu'à trois musiques et/ou catégories dans lesquelles les mappeurs de toute la communauté sont libres de concourir et de soumettre leurs entrées.
 
 Bien que la Pending Cup ait été initialement destinée principalement aux membres de la communauté chinoise, le concours a depuis été élargi afin d'intégrer les contributions d'autres mappeurs du monde entier.
 
@@ -302,7 +302,7 @@ Bien que la Pending Cup ait été initialement destinée principalement aux memb
 
 ¹ La catégorie "Featured Artist" permet aux mappeurs de choisir entre deux chansons différentes à mapper : Zekk - Re\_construct et Shuu no Hazama \[Rainshower\].
 
-² La catégorie  "Vocal" offre aux mappeurs le choix entre deux chansons différentes à mapper : nonoc - memento et DUSTCELL - DERO.
+² La catégorie "Vocal" offre aux mappeurs le choix entre deux chansons différentes à mapper : nonoc - memento et DUSTCELL - DERO.
 
 ³ La catégorie "Instrumentale" offre aux mappeurs le choix entre deux chansons différentes à mapper : onoken - Felys final remix et Nekomata Master - The Sky of Sadness.
 
