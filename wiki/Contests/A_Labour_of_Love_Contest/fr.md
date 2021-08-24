@@ -1,6 +1,6 @@
 # A Labour of Love contest
 
-Un concours à plusieurs niveaux lancé en novembre 2020 pour célébrer la beatmap [**Kuba Oms - My Love**](https://osu.ppy.sh/beatmapsets/163112).
+A Labour of Love est un concours à plusieurs niveaux lancé en novembre 2020 pour célébrer la beatmap [**Kuba Oms - My Love**](https://osu.ppy.sh/beatmapsets/163112).
 
 Les soumissions à ce concours comprennent les éléments suivants :
 
