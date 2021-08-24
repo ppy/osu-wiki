@@ -48,7 +48,7 @@ Toutes les beatmaps d'osu! sont créées par l'imagination débordante de sa dyn
 
 Sections : [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song setup](/wiki/Beatmap_Editor/Song_Setup)
 
-Composants : [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timeline](/wiki/Beatmap_Editor/Timelines)
+Composants : [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timelines](/wiki/Beatmap_Editor/Timelines)
 
 Activités : [Beatmapping](/wiki/Beatmapping) • [Techniques de mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding) • [Skinning](/wiki/Skinning)
 
