@@ -26,14 +26,14 @@ Important articles and guides that will help you dive into osu!. In case anythin
 
 Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know the game better from its various settings and customisation capabilities to technical details and file formats it uses.
 
-[Интерфейс](/wiki/Interface) • [Баптау](/wiki/Options) • [Visual settings](/wiki/Visual_Settings) • [Shortcut key reference](/wiki/Shortcut_key_reference) • [Configuration file](/wiki/osu!_Program_Files/User_Configuration_File) • [Program files](/wiki/osu!_Program_Files)
+[Интерфейс](/wiki/Interface) • [Баптау](/wiki/Options) • [Көрнекі параметрлер](/wiki/Visual_Settings) • [Shortcut key reference](/wiki/Shortcut_key_reference) • [Configuration file](/wiki/osu!_Program_Files/User_Configuration_File) • [Program files](/wiki/osu!_Program_Files)
 
 [File formats](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Gameplay
+# Ойын
 
 Everything about clicking circles, striking drums, catching fruits, and playing the synthesizer: key elements, concepts, mechanics, and competitive play.
 
@@ -44,7 +44,7 @@ Everything about clicking circles, striking drums, catching fruits, and playing 
 </div>
 <div class="wiki-main-page-panel">
 
-# [Beatmap editor](/wiki/Beatmap_Editor)
+# [Карталардың редакторы](/wiki/Beatmap_Editor)
 
 All osu! beatmaps are created by the blooming imagination of its dynamic community. Always wanted to share your favourite music with others, but never knew how? Familiarize yourself with the built-in editor and the opportunities it has to offer.
 
@@ -57,7 +57,7 @@ Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Mapp
 </div>
 <div class="wiki-main-page-panel">
 
-# Beatmap submission and ranking
+# Карталарды ұсыну және оларды рейтинге шығару
 
 Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognized. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, as well as the procedures for quality control and the ranking process.
 
@@ -68,7 +68,7 @@ Ranking is the process of obtaining a leaderboard for a beatmap, which makes it 
 </div>
 <div class="wiki-main-page-panel">
 
-# Rules and legalese
+# Ережелер мен заңдылықтар
 
 Read about procedures and regulations that keep osu! and its community safe, from music licensing and media guidelines to chat and forum rules.
 
@@ -81,7 +81,7 @@ Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelin
 </div>
 <div class="wiki-main-page-panel">
 
-# Help
+# Көмек
 
 Answers to frequent questions and solutions to common issues live here.
 
@@ -94,7 +94,7 @@ Do your part: [How and what to help with](/wiki/How_you_can_help!) • [Report b
 </div>
 <div class="wiki-main-page-panel">
 
-# Community and projects
+# Қоғам мен жобалар
 
 Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or help organize the next big event!
 
@@ -105,7 +105,7 @@ Social interaction is one of main things that fuel osu! players all around the w
 </div>
 <div class="wiki-main-page-panel">
 
-# People
+# Адамдар
 
 osu! wouldn't have been possible without many users helping with development, maintenance, and community management: their efforts, time, and dedication make the game live and prosper.
 
