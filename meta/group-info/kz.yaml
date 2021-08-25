@@ -11,16 +11,16 @@ alumni:
 gmt:
   all_mods: Барлық модераторлар
   areas:
-    beatmap: beatmap moderation
-    chat: chat moderation
-    forum: forum moderation
-    team: official team presence
+    beatmap: карталардың модераторы
+    chat: Чат модераторы
+    forum: Форум модераторы
+    team: Команданың ресми өкілі
     dev: osu! әзірлеуші
-    player: player support
-    support: technical support
-    tournaments: tournament management
-    wiki: wiki administration
-    mapping: mapping/modding community moderation
+    player: ойыншыларға көмек беруші
+    support: Техникалық көмек беруші
+    tournaments: Турнирлер
+    wiki: Уики әкімшілігі
+    mapping: карталарды жасаушылар/өзгерушілер қоғамының модераторы
 nat:
   areas:
     communication: кері байланыс
