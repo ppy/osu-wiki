@@ -1,21 +1,21 @@
 separator: ", "
 alumni:
   roles:
-    academy: osu!academy founder
-    admin: administration
-    chat: Chat Moderator
-    dev: osu!dev
-    media: osu!media creation
-    support: Support Team
-    tournaments: tournament management
+    academy: osu!academy негізін қалаушы
+    admin: Әкімшілік
+    chat: Чат модераторы
+    dev: osu! әзірлеуші
+    media: osu!media жасаушы
+    support: Техникалық көмек
+    tournaments: Турнирлер жасаушы
 gmt:
-  all_mods: all moderators
+  all_mods: Барлық модераторлар
   areas:
     beatmap: beatmap moderation
     chat: chat moderation
     forum: forum moderation
     team: official team presence
-    dev: osu! development
+    dev: osu! әзірлеуші
     player: player support
     support: technical support
     tournaments: tournament management
@@ -23,10 +23,10 @@ gmt:
     mapping: mapping/modding community moderation
 nat:
   areas:
-    communication: communication
-    evaluation: evaluation
-    moderation: moderation
-    structural: structural
+    communication: кері байланыс
+    evaluation: номинаторлерді бағалау
+    moderation: модерация
+    structural: ұйымдастыру
 languages:
   partial: ішінара <language>
   ar: Араб тілі
