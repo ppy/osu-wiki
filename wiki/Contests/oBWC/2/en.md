@@ -112,7 +112,7 @@ Grand Final song: **[Zekk](https://osu.ppy.sh/beatmaps/artists/76) - Let Me Hear
 
 | Team 1 |  |  | Team 2 | Entries |
 | --: | :-: | :-: | :-- | :-- |
-| Argentina ![][flag_AR] | 3 | **4** | ![][flag_GB] **United Kingdom**  | [#1](https://osu.ppy.sh/beatmapsets/1280480#osu/2659858), [#2](https://osu.ppy.sh/beatmapsets/1280467#osu/2659837) |
+| Argentina ![][flag_AR] | 3 | **4** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/beatmapsets/1280480#osu/2659858), [#2](https://osu.ppy.sh/beatmapsets/1280467#osu/2659837) |
 
 3rd Place Final song: **[Cranky](https://osu.ppy.sh/beatmaps/artists/23) - Flugel**
 
