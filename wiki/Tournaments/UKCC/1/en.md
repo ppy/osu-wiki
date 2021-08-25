@@ -100,7 +100,7 @@ This competition has come to an end and resulted in the following podium:
   - [Levaslater - NNRT (Reisen Udongein) [Extra]](https://osu.ppy.sh/beatmapsets/47330#osu/146985)
 - Tiebreaker
   - **[goreshit - burn this moment into the retina of my eye (grumd) [extra]](https://osu.ppy.sh/beatmapsets/359890#osu/791274)**
-  
+
 ### Finals
 
 - NoMod
@@ -134,7 +134,7 @@ This competition has come to an end and resulted in the following podium:
   - [ayaponzu\* - Otsukimi Recital (captin1) [Broccoly's Extra]](https://osu.ppy.sh/beatmapsets/172157#osu/416211)
 - Tiebreaker
   - **[BoxPlot - Escape With The Clouds (Strategas) [No Escape]](https://osu.ppy.sh/beatmapsets/379897#osu/831443)**
-  
+
 ### Semifinals
 
 - NoMod
@@ -162,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
   - [Breaking Benjamin - Breath (pishifat) [Extra]](https://osu.ppy.sh/beatmapsets/374683#osu/821525)
 - Tiebreaker
   - **[DJ Noriken - #The\_Relentless\_(Modified) (captin1) [Unstoppable]](https://osu.ppy.sh/beatmapsets/331821#osu/734927)**
-  
+
 ### Quarterfinals
 
 - NoMod
@@ -190,7 +190,7 @@ This competition has come to an end and resulted in the following podium:
   - [Yooh - Shanghai Kouchakan \~ Chinese Tea Orchid Remix (Gamu) [INFINITE]](https://osu.ppy.sh/beatmapsets/184498#osu/486619)
 - Tiebreaker
   - **[Xi - Rokujuu Nenme no Shinsoku Saiban \~ Rapidity is a justice (sjoy) [Justice]](https://osu.ppy.sh/beatmapsets/210764#osu/495776)**
-  
+
 ### Round of 16
 
 - NoMod
@@ -218,7 +218,7 @@ This competition has come to an end and resulted in the following podium:
   - [Mind Vortex - Alive (Katty Pie) [Insane]](https://osu.ppy.sh/beatmapsets/205309#osu/484661)
 - Tiebreaker
   - **[SawanoHiroyuki[nZk]:Gemie - x.U. (ETIA. Hardcore Bootleg Remix) (captin1) [Shinoa]](https://osu.ppy.sh/beatmapsets/331872#osu/735021)**
-  
+
 ### Group Stage
 
 - NoMod
@@ -246,7 +246,7 @@ This competition has come to an end and resulted in the following podium:
   - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) [Crazy Jay]](https://osu.ppy.sh/beatmapsets/24448#osu/91462)
 - Tiebreaker
   - **[Shimotsuki Haruka - Youka to Yumeutsutsu (Naitoshi) (Awakening)](https://osu.ppy.sh/beatmapsets/324587#osu/721158)**
-  
+
 ### Round of 64
 
 - NoMod
@@ -268,7 +268,7 @@ This competition has come to an end and resulted in the following podium:
   - [maritumix - Defiance (Leorda) [Lunatic]](https://osu.ppy.sh/beatmapsets/292857#osu/658961)
 - Tiebreaker
   - **[Memtrix - All You Are (Come[Back]Home) [Brink]](https://osu.ppy.sh/beatmapsets/383095#osu/837605)**
-  
+
 ### Qualifiers
 
 - NoMod
