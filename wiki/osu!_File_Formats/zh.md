@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! 文件格式
 
 ## osu! 特有的文件格式

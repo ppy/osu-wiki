@@ -99,7 +99,7 @@ Certains fournisseurs de VPN et serveurs proxy ne fonctionnent tout simplement p
 
 **Nous aurons besoin d'un fichier `network.log` de votre part pour comprendre ce qui se passe si aucune des solutions ci-dessus ne fonctionne.**
 
-Pour savoir comment obtenir un fichier network.log, voir [Fichiers log](/wiki/Help_Centre#fichiers-log).
+Pour savoir comment obtenir un fichier `network.log`, voir [Help Centre § Fichiers log](/wiki/Help_Centre#fichiers-log).
 
 Dans de rares cas, vous devrez peut-être contacter votre fournisseur d'accès Internet (FAI) pour vous renseigner sur ces problèmes. Certains fournisseurs d'accès ont toujours eu des problèmes de connexion à osu!, généralement en raison d'un mauvais routage.
 
@@ -139,7 +139,7 @@ Si vous avez acheté (ou reçu) un [tag de supporter](https://osu.ppy.sh/home/su
 
 À tout moment par la suite, vous pouvez acheter un [changement de nom d'utilisateur](https://osu.ppy.sh/store/products/32) pour changer votre nom d'utilisateur en ce que vous souhaitez. Cependant, chaque changement deviendra progressivement plus cher - le deuxième coûtera 8$, le troisième 16$, et ainsi de suite, jusqu'à un plafond de 100$. Nous faisons cela pour empêcher les utilisateurs d'abuser du système pour changer leur nom très rapidement.
 
-Veuillez noter que les noms d'utilisateur doivent respecter les [Règles de la communauté](/wiki/Rules), c'est-à-dire qu'ils ne doivent pas être offensants pour les autres utilisateurs, ni provocants ou susceptibles de créer des conflits. En outre, les noms d'utilisateur qui usurpent l'identité de personnalités publiques importantes (telles que des célébrités, des politiciens, etc.) ne sont pas autorisés et seront annulés dès que nous les découvrirons.
+Veuillez noter que les noms d'utilisateur doivent respecter les [Règles de la communauté](/wiki/Rules#règles-de-communauté), c'est-à-dire qu'ils ne doivent pas être offensants pour les autres utilisateurs, ni provocants ou susceptibles de créer des conflits. En outre, les noms d'utilisateur qui usurpent l'identité de personnalités publiques importantes (telles que des célébrités, des politiciens, etc.) ne sont pas autorisés et seront annulés dès que nous les découvrirons.
 
 Si vous ne recherchez que des modifications mineures en matière de capitalisation ou de grammaire/orthographe, vous pouvez envoyer un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) pour demander un changement de nom gratuit afin de corriger ces problèmes. Nous ne vous facturerons pas pour ce type de changement de nom, mais vous **DEVEZ** le faire par le biais d'un e-mail au support. Gardez à l'esprit que nous n'effectuerons cette opération qu'un nombre limité de fois, alors assurez-vous que vous le souhaitez vraiment !
 

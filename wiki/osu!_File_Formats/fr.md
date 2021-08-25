@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Formats de fichiers
 
 ## Formats de fichiers spécifiques à osu!

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1fd11e0fffd3ad686940372ae876e7e55971e429
+---
+
 # Opcje
 
 ![Nakładka opcji](img/options_basic.jpg "Nakładka opcji \(panel boczny po lewej\)")

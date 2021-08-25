@@ -94,7 +94,7 @@ Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out
 
 In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh) and discussing your situation with them.
 
-If at any point you are in doubt as to whether something is appropriate for a Me! page, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
+If at any point you are in doubt as to whether something is appropriate for a Me! page, you may message any of the members of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
 
 ### Do I need to use my email address to register?
 
