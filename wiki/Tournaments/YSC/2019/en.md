@@ -8,7 +8,7 @@ tags:
 
 ![YSC 2019 logo](img/logo.png)
 
-The **Yaz's Summer Cup 2019** (***YSC 2019***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the third instalment of Yaz's Summer Cup.
+**Yaz's Summer Cup 2019** (***YSC 2019***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the third instalment of Yaz's Summer Cup.
 
 ## Tournament schedule
 
@@ -697,7 +697,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1uAaQ9
 - This tournament is a 1v1 double-elimination international osu! tournament.
 - This tournament will consist of 128 players.
 - Matches will be head to head, with score v2 as the scoring system used.
-- There will be no rank limit on signups, however if we reach 124 signups we will take the top 124 players in terms of BWS.
+- There will be no rank limit on sign-ups, however if we reach 124 sign-ups we will take the top 124 players in terms of BWS.
 - The Top 4 from YSC 2018 (![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) and ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)) all have automatic qualifications into the Group Stage should they accept their invitation.
 - Ranks will be taken and locked when registrations have concluded
 - Anyone who does sign up must be able to play maps with a difficulty of at least 5*.
@@ -715,7 +715,7 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1uAaQ9
 - The better of the 2 scores for each map will be counted towards the final qualfier score.
 - Failed scores are counted as a pass.
 - Players are free to leave the qualifiers at any point, however any maps that a player does not play will not be counted towards their final score.
-- The Top 60 qualifying scores (depending on top 4 signups) will progress into the bracket stage.
+- The Top 60 qualifying scores (depending on top 4 sign-ups) will progress into the bracket stage.
 
 ### Knockout stages
 
@@ -726,8 +726,8 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1uAaQ9
 - Referees will create the lobby and invite players 10 minutes before the match is due to start.
 - Any player that fails to show up 10 minutes after a match is due to start will forfeit the match and a win by default will be awarded to the other player.
 - Failure to attend a match without a valid reason may result in being blacklisted from participating in future tournaments.
-- The referee will have host at all times during the match. The only exception are for picking warmups.
-- Warmups are allowed beginning in the Round of 32, Warmups must be 4 minutes or shorter.
+- The referee will have host at all times during the match. The only exception are for picking warm-ups.
+- Warm-ups are allowed beginning in the Round of 32, Warm-ups must be 4 minutes or shorter.
 - Players will have one ban in the Round of 64 and Round of 32 and two bans thereafter. Players are allowed to ban from the same mappool.
 - Players will roll once. The winner of the roll selects first or second pick or ban, and the loser of the roll selects from the remaining options.
 - Players will have 90 seconds to ban a map. Failure to ban a map after this time will result in a loss of a ban.

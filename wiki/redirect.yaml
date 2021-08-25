@@ -47,7 +47,9 @@
 "qualified":                   "Beatmap/Category#qualified"
 "loved":                       "Beatmap/Category#loved"
 "pending":                     "Beatmap/Category#pending"
-"graveyarded":                 "Graveyard"
+"dead":                        "Beatmap/Category#graveyard"
+"graveyard":                   "Beatmap/Category#graveyard"
+"graveyarded":                 "Beatmap/Category#graveyard"
 
 "beatmap_packs":               "Beatmap/Packs"
 "beatmap_pack":                "Beatmap/Packs"
