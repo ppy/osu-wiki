@@ -28,39 +28,40 @@ nat:
     moderation: moderation
     structural: structural
 languages:
-  partial: some <language>
-  ar: Arabic
-  bg: Bulgarian
-  bn: Bengali
-  ca: Catalan
-  da: Danish
-  de: German
-  el: Greek
-  es: Spanish
-  et: Estonian
-  fi: Finnish
-  fil: Filipino
-  fr: French
-  gl: Galician
-  hr: Croatian
-  hu: Hungarian
-  id: Indonesian
-  it: Italian
-  ja: Japanese
-  ko: Korean
-  ms: Malay
-  nl: Dutch
-  no: Norwegian
-  pl: Polish
-  pt: Portuguese
-  ro: Romanian
-  ru: Russian
-  sr: Serbian
-  sv: Swedish
-  te: Telugu
-  th: Thai
-  tr: Turkish
-  ur: Urdu
-  vi: Vietnamese
-  yue: Cantonese
-  zh: Chinese
+  partial: ішінара <language>
+  ar: Араб тілі
+  bg: Болгар тілі
+  bn: Бенгал тілі
+  ca: Каталан тілі
+  da: Дат тілі
+  de: Неміс тілі 
+  el: Грек тілі
+  es: Испан тілі
+  et: Эстон тілі
+  fi: Фин тілі
+  fil: Филиппин тілі 
+  fr: Француз тілі
+  gl: Галис тілі
+  hr: Хорват тілі
+  hu: Венгер тілі
+  id: Индонезиялық тіл
+  it: Итальян тілі
+  ja: Жапон тілі
+  ko: Корей тілі
+  kz: Қазақ тілі
+  ms: Малай тілі
+  nl: Голландиялық тіл
+  no: Норвегиялық тіл
+  pl: Поялк тілі
+  pt: Португал тілі
+  ro: Румын тілі
+  ru: Орыс тілі
+  sr: Серб тілі
+  sv: Швед тілі
+  te: Телугу тілі
+  th: Тай тілі
+  tr: Түрік тілі
+  ur: Урду тілі
+  vi: Вьетнам тілі
+  yue: Кантондық тілі
+  zh: Қытай тілі
