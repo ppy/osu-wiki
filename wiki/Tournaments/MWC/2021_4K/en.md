@@ -104,37 +104,37 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_AR] | Argentina | Aug 28 (Sat.) 02:00 UTC | Aug 27 (Fri.) 22:00 UTC-4 | Aug 27 (Fri.) 23:00 UTC-3 | ² |
 | Japan | ![][flag_JP] | ![][flag_PL] | Poland | Aug 28 (Sat.) 10:00 UTC | Aug 28 (Sat.) 19:00 UTC+9 | Aug 28 (Sat.) 12:00 UTC+2 | ² |
-| Hong Kong | ![][flag_HK] | ![][flag_IT] | Italy | Aug 28 (Sat.) 11:00 UTC | Aug 28 (Sat.) 19:00 UTC+8 | Aug 28 (Sat.) 13:00 UTC+2 | ² |
 | Indonesia | ![][flag_ID] | ![][flag_TW] | Taiwan | Aug 28 (Sat.) 12:00 UTC | Aug 28 (Sat.) 19:00 UTC+7 | Aug 28 (Sat.) 20:00 UTC+8 | ² |
-| Singapore | ![][flag_SG] | ![][flag_ES] | Spain | Aug 28 (Sat.) 13:00 UTC | Aug 28 (Sat.) 21:00 UTC+8 | Aug 28 (Sat.) 15:00 UTC+2 | ² |
+| Hong Kong | ![][flag_HK] | ![][flag_IT] | Italy | Aug 28 (Sat.) 13:00 UTC | Aug 28 (Sat.) 21:00 UTC+8 | Aug 28 (Sat.) 15:00 UTC+2 | ² |
+| Singapore | ![][flag_SG] | ![][flag_ES] | Spain | Aug 28 (Sat.) 14:00 UTC | Aug 28 (Sat.) 22:00 UTC+8 | Aug 28 (Sat.) 16:00 UTC+2 | ² |
 | Thailand | ![][flag_TH] | ![][flag_RU] | Russian Federation | Aug 28 (Sat.) 14:00 UTC | Aug 28 (Sat.) 21:00 UTC+7 | Aug 28 (Sat.) 17:00 UTC+3 | ² |
-| Chile | ![][flag_CL] | ![][flag_PE] | Peru | Aug 28 (Sat.) 15:00 UTC | Aug 28 (Sat.) 11:00 UTC-4 | Aug 28 (Sat.) 10:00 UTC-5 | ² |
+| Chile | ![][flag_CL] | ![][flag_PE] | Peru | Aug 28 (Sat.) 20:00 UTC | Aug 28 (Sat.) 16:00 UTC-4 | Aug 28 (Sat.) 15:00 UTC-5 | ² |
 | France | ![][flag_FR] | ![][flag_NL] | Netherlands | Aug 28 (Sat.) 16:00 UTC | Aug 28 (Sat.) 18:00 UTC+2 | Aug 28 (Sat.) 18:00 UTC+2 | ² |
-| Canada | ![][flag_CA] | ![][flag_AR] | Argentina | Aug 28 (Sat.) 17:00 UTC | Aug 28 (Sat.) 13:00 UTC-4 | Aug 28 (Sat.) 14:00 UTC-3 | ² |
 
 ### Sunday, August 29, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_NL] | Netherlands | Aug 29 (Sun.) 01:00 UTC | Aug 29 (Sat.) 21:00 UTC-4 | Aug 29 (Sun.) 03:00 UTC+2 | ³ |
 | Taiwan | ![][flag_TW] | ![][flag_CL] | Chile | Aug 29 (Sun.) 02:00 UTC | Aug 29 (Sun.) 10:00 UTC+8 | Aug 28 (Sat.) 22:00 UTC-4 | ³ |
 | Taiwan | ![][flag_TW] | ![][flag_PE] | Peru | Aug 29 (Sun.) 02:00 UTC | Aug 29 (Sun.) 10:00 UTC+8 | Aug 28 (Sat.) 21:00 UTC-5 | ³ |
-| United States | ![][flag_US] | ![][flag_PH] | Philippines | Aug 29 (Sun.) 03:00 UTC | Aug 28 (Sat.) 22:00 UTC-5 | Aug 29 (Sun.) 11:00 UTC+8 | ¹ |
-| Hong Kong | ![][flag_HK] | ![][flag_JP] | Japan | Aug 29 (Sun.) 04:00 UTC | Aug 29 (Sun.) 12:00 UTC+8 | Aug 29 (Sun.) 13:00 UTC+9 | ³ |
+| United States | ![][flag_US] | ![][flag_PH] | Philippines | Aug 29 (Sun.) 02:00 UTC | Aug 28 (Sat.) 21:00 UTC-5 | Aug 29 (Sun.) 10:00 UTC+8 | ¹ |
+| Malaysia | ![][flag_MY] | ![][flag_VN] | Vietnam | Aug 29 (Sun.) 08:00 UTC | Aug 29 (Sun.) 16:00 UTC+8 | Aug 29 (Sun.) 15:00 UTC+7 | ¹ |
 | Singapore | ![][flag_SG] | ![][flag_TH] | Thailand | Aug 29 (Sun.) 10:00 UTC | Aug 29 (Sun.) 18:00 UTC+8 | Aug 29 (Sun.) 17:00 UTC+7 | ³ |
-| Singapore | ![][flag_SG] | ![][flag_RU] | Russian Federation | Aug 29 (Sun.) 10:00 UTC | Aug 29 (Sun.) 18:00 UTC+8 | Aug 29 (Sun.) 13:00 UTC+3 | ³ |
 | Spain | ![][flag_ES] | ![][flag_TH] | Thailand | Aug 29 (Sun.) 10:00 UTC | Aug 29 (Sun.) 12:00 UTC+2 | Aug 29 (Sun.) 17:00 UTC+7 | ³ |
-| Spain | ![][flag_ES] | ![][flag_RU] | Russian Federation | Aug 29 (Sun.) 10:00 UTC | Aug 29 (Sun.) 12:00 UTC+2 | Aug 29 (Sun.) 13:00 UTC+3 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_VN] | Vietnam | Aug 29 (Sun.) 11:00 UTC | Aug 29 (Sun.) 19:00 UTC+8 | Aug 29 (Sun.) 18:00 UTC+7 | ¹ |
+| Singapore | ![][flag_SG] | ![][flag_RU] | Russian Federation | Aug 29 (Sun.) 11:00 UTC | Aug 29 (Sun.) 19:00 UTC+8 | Aug 29 (Sun.) 14:00 UTC+3 | ³ |
+| Hong Kong | ![][flag_HK] | ![][flag_JP] | Japan | Aug 29 (Sun.) 12:00 UTC | Aug 29 (Sun.) 20:00 UTC+8 | Aug 29 (Sun.) 21:00 UTC+9 | ³ |
 | United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | Aug 29 (Sun.) 12:00 UTC | Aug 29 (Sun.) 13:00 UTC+1 | Aug 29 (Sun.) 21:00 UTC+9 | ¹ |
 | Hong Kong | ![][flag_HK] | ![][flag_PL] | Poland | Aug 29 (Sun.) 13:00 UTC | Aug 29 (Sun.) 21:00 UTC+8 | Aug 29 (Sun.) 15:00 UTC+2 | ³ |
 | Italy | ![][flag_IT] | ![][flag_JP] | Japan | Aug 29 (Sun.) 13:00 UTC | Aug 29 (Sun.) 15:00 UTC+2 | Aug 29 (Sun.) 22:00 UTC+9 | ³ |
 | Italy | ![][flag_IT] | ![][flag_PL] | Poland | Aug 29 (Sun.) 13:00 UTC | Aug 29 (Sun.) 15:00 UTC+2 | Aug 29 (Sun.) 15:00 UTC+2 | ³ |
 | Brazil | ![][flag_BR] | ![][flag_CN] | China | Aug 29 (Sun.) 14:00 UTC | Aug 29 (Sun.) 11:00 UTC-3 | Aug 29 (Sun.) 22:00 UTC+8 | ¹ |
+| Spain | ![][flag_ES] | ![][flag_RU] | Russian Federation | Aug 29 (Sun.) 15:00 UTC | Aug 29 (Sun.) 17:00 UTC+2 | Aug 29 (Sun.) 18:00 UTC+3 | ³ |
 | Indonesia | ![][flag_ID] | ![][flag_CL] | Chile | Aug 29 (Sun.) 15:00 UTC | Aug 29 (Sun.) 22:00 UTC+7 | Aug 29 (Sun.) 11:00 UTC-4 | ³ |
 | Indonesia | ![][flag_ID] | ![][flag_PE] | Peru | Aug 29 (Sun.) 15:00 UTC | Aug 29 (Sun.) 22:00 UTC+7 | Aug 29 (Sun.) 10:00 UTC-5 | ³ |
 | Canada | ![][flag_CA] | ![][flag_FR] | France | Aug 29 (Sun.) 18:00 UTC | Aug 29 (Sun.) 14:00 UTC-4 | Aug 29 (Sun.) 20:00 UTC+2 | ³ |
-| Canada | ![][flag_CA] | ![][flag_NL] | Netherlands | Aug 29 (Sun.) 18:00 UTC | Aug 29 (Sun.) 14:00 UTC-4 | Aug 29 (Sun.) 20:00 UTC+2 | ³ |
 | Argentina | ![][flag_AR] | ![][flag_FR] | France | Aug 29 (Sun.) 18:00 UTC | Aug 29 (Sun.) 15:00 UTC-3 | Aug 29 (Sun.) 20:00 UTC+2 | ³ |
 | Argentina | ![][flag_AR] | ![][flag_NL] | Netherlands | Aug 29 (Sun.) 18:00 UTC | Aug 29 (Sun.) 15:00 UTC-3 | Aug 29 (Sun.) 20:00 UTC+2 | ³ |
 
