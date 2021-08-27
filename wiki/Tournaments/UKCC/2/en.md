@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup 2
 
-The **UK Community Cup 2** (***UKCC2***) was a ![][flag_GB] United Kingdom 2v2 double-elimination osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) and ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379). It was the second instalment of the UK Community Cup series and the first instalment in the 2v2 UK Community Cup series.
+The **UK Community Cup 2** (***UKCC2***) was a ![][flag_GB] United Kingdom 2v2 double-elimination osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) and ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379). It was the second instalment of the UK Community Cup series and the series' first 2v2 competition.
 
 ## Links
 

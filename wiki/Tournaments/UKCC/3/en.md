@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup 3
 
-The **UK Community Cup 3** (***UKCC3***) was a ![][flag_GB] United Kingdom 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the third instalment of the UK Community Cup series and the second instalment in the 1v1 UK Community Cup series.
+The **UK Community Cup 3** (***UKCC3***) was a ![][flag_GB] United Kingdom 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the third instalment of the UK Community Cup series and the series' second 1v1 competition.
 
 ## Links
 

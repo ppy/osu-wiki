@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup
 
-The **UK Community Cup** (***UKCC***) was a 1v1 double-elimination ![][flag_GB] United Kingdom osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) and ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379). It was the first instalment of the UK Community Cup series and the first instalment in the 1v1 UK Community Cup series.
+The **UK Community Cup** (***UKCC***) was a 1v1 double-elimination ![][flag_GB] United Kingdom osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) and ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379). It was the first instalment of the UK Community Cup series and the series' first 1v1 competition.
 
 ## Tournament schedule
 
