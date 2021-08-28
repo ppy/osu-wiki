@@ -89,7 +89,7 @@ The {TITLE} is run by various community members.
 
 ![](img/bracket.png "{SHORT_TITLE} bracket") <!-- remove if not available -->
 
-<!-- add the following section, once your tournament is concluded
+<!-- add the following section, once your tournament is concluded -->
 
 ## Podium
 
@@ -101,7 +101,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
 
-![](img/podium.png "{SHORT_TITLE} podium") --> <!-- remove image if not available --> 
+![](img/podium.png "{SHORT_TITLE} podium") <!-- remove image if not available --> 
 
 ## Mappools
 
