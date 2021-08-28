@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup 10
 
-The **UK Community Cup 10** (***UKCC10***) is a ![][flag_GB] United Kingdom 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147) and ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823). It is the eleventh instalment of the UK Community Cup series and the series' sixth 1v1 competition.
+The **UK Community Cup 10** (***UKCC10***) is a British 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147) and ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823). It is the eleventh instalment of the UK Community Cup series and the series' sixth 1v1 competition.
 
 ## Links
 

@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup 8
 
-The **UK Community Cup 8** (***UKCC8***) was a ![][flag_GB] United Kingdom 2v2 double-elimination osu! tournament hosted by ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the eighth instalment of the UK Community Cup series and the series' fourth 2v2 competition.
+The **UK Community Cup 8** (***UKCC8***) was a British 2v2 double-elimination osu! tournament hosted by ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the eighth instalment of the UK Community Cup series and the series' fourth 2v2 competition.
 
 ## Links
 

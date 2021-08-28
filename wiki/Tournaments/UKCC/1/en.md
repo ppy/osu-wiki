@@ -609,7 +609,7 @@ Friday, 1 July 2016:
 
 ### General
 
-- This tournament is a 1v1 double-elimination ![][flag_GB] United Kingdom osu! tournament.
+- This tournament is a 1v1 double-elimination British osu! tournament.
 - This tournament will consist of up to 128 players.
 - Matches will be Team Vs, with score v1 as the scoring system used.
 - To be able to participate, players must have a ![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag, otherwise the player must be able to provide proof of residency to the hosts.

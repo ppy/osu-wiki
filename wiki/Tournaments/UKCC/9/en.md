@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup 9
 
-The **UK Community Cup 9** (***UKCC 9***) was a ![][flag_GB] United Kingdom 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the ninth instalment of the UK Community Cup series and the series' fifth 1v1 competition.
+The **UK Community Cup 9** (***UKCC 9***) was a British 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the ninth instalment of the UK Community Cup series and the series' fifth 1v1 competition.
 
 ## Links
 

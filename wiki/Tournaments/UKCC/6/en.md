@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup 6
 
-The **UK Community Cup 6** (***UKCC6***) was a ![][flag_GB] United Kingdom 2v2 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Chrigarr](https://osu.ppy.sh/users/10111130), ![][flag_GB] [\_Takara](https://osu.ppy.sh/users/11599184) and ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378). It was the sixth instalment of the UK Community Cup series and the series' third 2v2 competition.
+The **UK Community Cup 6** (***UKCC6***) was a British 2v2 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Chrigarr](https://osu.ppy.sh/users/10111130), ![][flag_GB] [\_Takara](https://osu.ppy.sh/users/11599184) and ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378). It was the sixth instalment of the UK Community Cup series and the series' third 2v2 competition.
 
 ## Links
 
