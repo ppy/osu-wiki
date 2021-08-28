@@ -16,7 +16,7 @@ We've picked up **20** tracks from their discography stretching back to 2012, al
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/193/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/194/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
