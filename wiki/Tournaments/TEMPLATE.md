@@ -46,10 +46,10 @@ The {TITLE} is run by various community members.
 | :-- | :-- |
 | Manager |  |
 | Mappool selector |  |
-| Streamer |
+| Streamer |  |
 | Commentator |  |
-| Designer |
-| Referee |
+| Designer |  |
+| Referee |  |
 | Statistician |  |
 <!-- | Example | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) | -->
 
