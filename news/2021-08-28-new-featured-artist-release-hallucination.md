@@ -12,7 +12,7 @@ Shining the spotlight on osu!'s gothic rock sound, **Release Hallucination** is 
 
 We've picked up **20** tracks from their discography stretching back to 2012, all of which are craving to be mapped from [**Release Hallucination**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/194).
 
-**Release Hallucination**'s song *Chronostasis* is likely familiar track to players across all modes. If you're somehow not part of the cool-osu!-players-club though, feel free to experience the song through 3 of its beatmaps in the video below, then check out the rest of the powerful previews:
+**Release Hallucination**'s song *Chronostasis* is likely a familiar track to players across all modes. If you're somehow not part of the cool-osu!-players-club though, feel free to experience the song through 3 of its beatmaps in the video below, then check out the rest of these powerful previews:
 
 <div align="center">
     <video width="95%" controls>
