@@ -8,7 +8,7 @@ This is where wiki articles for tournaments live, both official and community-ru
 
 It's usually the easiest to start from the [tournament template](TEMPLATE.md) if you're adding a new tournament:
 
-1. Create a new directory in the `Tournaments` folder for the tournament or tournament series. The directory name should be the acronym or short name of the tournament. If the tournament is a series, create another directory under it named after the tournament's iteration in the series.
+1. Create a new directory in the `Tournaments` folder. The directory name should be an acronym or short name of the tournament. If the tournament is a series, create another directory under it named after the tournament's iteration in the series.
 
    Examples:
 
