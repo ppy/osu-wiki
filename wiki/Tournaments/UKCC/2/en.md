@@ -15,6 +15,6 @@ The **UK Community Cup 2** (***UKCC2***) was a ![][flag_GB] United Kingdom 2v2 d
 - [Bracket spreadsheet](https://docs.google.com/spreadsheets/d/1P2FFROqznB9Pky_YIWKP1K9lECM5B0PML3k2fWKMp0c/edit#gid=252149330 "Google Sheets")
 - [Discord](https://discord.gg/EtsU7Cw "Discord")
 - [Livestream](https://twitch.tv/osuukcc "Twitch")
-- [Mappool Spreadsheet](https://docs.google.com/spreadsheets/d/1naVmu5igCLmtuqtN5IgrymS9KPBzYec9ZNd9fixEM3c/edit#gid=2094220291 "Google Sheets")
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1naVmu5igCLmtuqtN5IgrymS9KPBzYec9ZNd9fixEM3c/edit#gid=2094220291 "Google Sheets")
 
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"

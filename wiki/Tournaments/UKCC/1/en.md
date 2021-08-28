@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup
 
-The **UK Community Cup** (***UKCC***) was a 1v1 double-elimination ![][flag_GB] United Kingdom osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) and ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379). It was the first instalment of the UK Community Cup series and the series' first 1v1 competition.
+The **UK Community Cup** (***UKCC***) was a 1v1 double-elimination British osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) and ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379). It was the first instalment of the UK Community Cup series and the series' first 1v1 competition.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **UK Community Cup** (***UKCC***) was a 1v1 double-elimination ![][flag_GB] 
 | Live drawings | 2016-06-13 |
 | Qualifiers | 2016-06-18/2016-06-19 |
 | Round of 64 | 2016-06-25/2016-06-26 |
-| Group Stage | 2016-07-02/2016-07-03 |
+| Group stage | 2016-07-02/2016-07-03 |
 | Round of 16 | 2016-07-09/2016-07-10 |
 | Quarterfinals | 2016-07-16/2016-07-17 |
 | Semifinals | 2016-07-23/2017-07-24 |
@@ -245,7 +245,7 @@ This competition has come to an end and resulted in the following podium:
   - [ALiCE'S EMOTiON - LUNA (Frostmourne) [Lunatic]](https://osu.ppy.sh/beatmapsets/47124#osu/152180)
   - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) [Crazy Jay]](https://osu.ppy.sh/beatmapsets/24448#osu/91462)
 - Tiebreaker
-  - **[Shimotsuki Haruka - Youka to Yumeutsutsu (Naitoshi) (Awakening)](https://osu.ppy.sh/beatmapsets/324587#osu/721158)**
+  - **[Shimotsuki Haruka - Youka to Yumeutsutsu (Naitoshi) [Awakening]](https://osu.ppy.sh/beatmapsets/324587#osu/721158)**
 
 ### Round of 64
 
@@ -291,7 +291,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Receptor - Redstar (fergas) [Glory]](https://osu.ppy.sh/beatmapsets/184301#osu/502414)**
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -365,7 +365,7 @@ Wednesdady, 27 July 2016:
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | Mafham ![][flag_GB] | 0 | **5** | ![][flag_GB] **OPJames** |  |
-| helix ![][flag_GB] | 0 | **0** | ![][flag_GB] **Bubbleman** | *no score recorded* |
+| helix ![][flag_GB] | -1 | **0** | ![][flag_GB] **Bubbleman** | *no score recorded* |
 
 ### Quaterfinals
 
@@ -452,7 +452,7 @@ Friday, 15 July 2016:
 | --: | :-: | :-: | :-- |
 | YunoWhoItIs ![][flag_GB] | 0 | **4** | ![][flag_GB] **helix** |
 
-### Group Stage
+### Group stage
 
 #### Group A
 
@@ -463,7 +463,7 @@ Friday, 15 July 2016:
 | Pyrooo ![][flag_GB] | 2 | **4** | ![][flag_GB] **Taiitoo** |  |
 | **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_GB] Pyrooo |  |
 | **helix** ![][flag_GB] | **4** | 3 | ![][flag_GB] Taiitoo |  |
-| **helix** ![][flag_GB] | **0** | 0 | ![][flag_GB] Pyrooo | *no score recorded* |
+| **helix** ![][flag_GB] | **0** | -1 | ![][flag_GB] Pyrooo | *no score recorded* |
 
 #### Group B
 

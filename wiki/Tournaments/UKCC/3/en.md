@@ -15,6 +15,6 @@ The **UK Community Cup 3** (***UKCC3***) was a ![][flag_GB] United Kingdom 1v1 d
 - [Bracket spreadsheet](https://docs.google.com/spreadsheets/d/1ZpBZEMRNdjIINOwxY3qJ52W6cNiXuGOaOIfQM_fAZXU/edit?usp=sharing "Google Sheets")
 - [Discord](https://discord.gg/EtsU7Cw "Discord")
 - [Livestream](https://twitch.tv/osuukcc "Twitch")
-- [Mappool Spreadsheet](https://docs.google.com/spreadsheets/d/1WZEaRaGKC9i67Sa68eaW-fEw6wXTpfklMgyzczr7JJ4/edit?usp=sharing "Google Sheets")
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1WZEaRaGKC9i67Sa68eaW-fEw6wXTpfklMgyzczr7JJ4/edit?usp=sharing "Google Sheets")
 
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
