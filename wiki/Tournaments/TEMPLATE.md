@@ -101,15 +101,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
 
--->
-
-<!-- if the podium is an image, use the following version:
-
-## Podium
-
-![](img/podium.png "{SHORT_TITLE} podium")
-
--->
+![](img/podium.png "{SHORT_TITLE} podium") --> <!-- remove image if not available --> 
 
 ## Mappools
 
