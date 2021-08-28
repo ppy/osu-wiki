@@ -103,8 +103,137 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 | Bald meiling | ![][flag_MA] [Antori](https://osu.ppy.sh/users/13472931), ![][flag_MA] [-Ran Yakumo-](https://osu.ppy.sh/users/5104454) |
 | A Casa Greedom | ![][flag_AR] [menphiss](https://osu.ppy.sh/users/6185083), ![][flag_AR] [Zetar](https://osu.ppy.sh/users/16286274) |
 
+## Podium
 
+This competition has come to an end and resulted in the following podium:
 
+| Placing | Team |
+| :--| :-- |
+|   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   | MY 2.5 + TH 1.5 (![][flag_MY] [Expired112](https://osu.ppy.sh/users/8782656), ![][flag_MY] [Unicow](https://osu.ppy.sh/users/9444174), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_TH] [osu_player420](https://osu.ppy.sh/users/13018880)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | yuyupa (![][flag_CN] [yyjshishuaibi](https://osu.ppy.sh/users/10383569), ![][flag_CN] [MrCrystalJoker](https://osu.ppy.sh/users/8526295), ![][flag_CN] [observer233](https://osu.ppy.sh/users/15303552), ![][flag_CN] [Lo_liFish2000](https://osu.ppy.sh/users/8828244)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | SMOrcat (![][flag_TW] [Joylintp](https://osu.ppy.sh/users/13579078), ![][flag_TW] [opl95173](https://osu.ppy.sh/users/7227070), ![][flag_TW] [LaoXiao-](https://osu.ppy.sh/users/2393571), ![][flag_TW] [mmi366127](https://osu.ppy.sh/users/2393571)) |
+
+## Mappools
+
+### Grand Finals
+
+- FreeMod
+  - [FELT - OUR SHIP (Evening) \[ Enchanted Love\]](https://osu.ppy.sh/beatmapsets/1188944#mania/2477648)
+  - [3L - Endless Night (Gekido-) \[Eternal\]](https://osu.ppy.sh/beatmapsets/956232#mania/2001931)
+  - [Rin - Ayakashi set 12 Another ~ Border of Life (LaoXiao-) \[Jack of Life\]](https://osu.ppy.sh/beatmapsets/1235944#mania/2569297)
+  - [UNDEAD CORPORATION - The Empress scream off ver (TheZiemniax) \[SC\]](https://osu.ppy.sh/beatmapsets/315435#mania/713130)
+  - [nomico, ayame & Masayoshi Minoshima - Bad Apple!! (ARM x Kitsune Musou Remix) (\_underjoy) \[ EIRIN!!!! \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1055109#mania/2204667)
+  - [Camallia - Tera's Collection (\[Crz\]Noire) \[ Perfect Cherry Storm\]](https://osu.ppy.sh/beatmapsets/1278431#mania/2655939)
+  - [BUTAOTOME - Towa no Maigo (Irone OSU) \[Foolish Fright 1.2x (216bpm)\]](https://osu.ppy.sh/beatmapsets/1309375#mania/2714515)
+  - [Tokyo Machine - FIGHT (Zytosy) \[ FIGHTO !\]](https://osu.ppy.sh/beatmapsets/1042644#mania/2179359)
+  - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Irone OSU) \[Surreal Fantasy\]](https://osu.ppy.sh/beatmapsets/1310043#mania/2715758)
+  - [Xceon ft. Mayumi Morinaga - Genei No Shoshitsu (araragigun) \[Yukizakura\]](https://osu.ppy.sh/beatmapsets/876910#mania/1832605) 
+  - [IOSYS - Ringo's Tea Party (TheToaphster) \[Spooked\]](https://osu.ppy.sh/beatmapsets/638838#mania/1355027)
+  - [Hotaru - Indomitable Spirit \[Hommarju Remix\] (\[Crz\]Auraah) \[\[L\]u\[N\]atic\]](https://osu.ppy.sh/beatmapsets/963806#mania/2406277)
+  - [Xe - Satori Maiden ~ 3rd Eye (Zestiri9) \[Satire Deity 0.95x\]](https://osu.ppy.sh/beatmapsets/1311414#mania/2718111)
+  - [Camellia - werewolf howls. \['Growling' Long ver.\] (Zestiri9) \[Star Fang\]](https://osu.ppy.sh/beatmapsets/1303204#mania/2702592)
+- TieBreaker
+  -  **[Camellia - Tojita Sekai (MyZterioN-) \[Last Defiance\]](https://osu.ppy.sh/beatmapsets/930473#mania/1971631)**
+
+### Finals
+
+- FreeMod
+  - [FELT - Crescent Moon (MintApril\_) \[Hopeless Masquerade\]](https://osu.ppy.sh/beatmapsets/640512#mania/1358399)
+  - [Super Psychic Fujy - Dark Avatara Beam (Le Dos-on Remix) (Blue_Potion) \[Edit\]](https://osu.ppy.sh/beatmapsets/1261327#mania/2621914)
+  - [Demetori - The Grimoire of Alice ～ 不思議の国のアリス (Antori) \[The Grimoire of Aryu 1.1\]](https://osu.ppy.sh/beatmapsets/1306423#mania/2708693)
+  - [ZUN remix by 44teru-k - Harutoman no Youkai Shoujo~VirusV (Wh1teh) \[k\]](https://osu.ppy.sh/beatmapsets/531514#mania/1126369)
+  - [Demetori - U.N. Owen wa kanojo nano ka? (puxtu) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/454219#mania/973872)
+  - [Nanahira - STAND UP! (\[Crz\]hinako1804) \[Full\]](https://osu.ppy.sh/beatmapsets/1306399#mania/2708652)
+  - [Kobaryo - CU73-D3V1L (Tamaki Iroha) \[wyyyyw's LUN47IC\]](https://osu.ppy.sh/beatmapsets/1304805#mania/2707376)
+  - [Camellia - KillerBeast (Noa Himesaka) \[SV\]](https://osu.ppy.sh/beatmapsets/1243593#mania/2585314)
+  - [Silentroom - NULCTRL (Janko) \[ SILENT\]](https://osu.ppy.sh/beatmapsets/874723#mania/1828104)
+  - [Senya Arr. Iceon - Replica no Koi (Kroly-) \[LuNatic\]](https://osu.ppy.sh/beatmapsets/712241#mania/1505677)
+  - [3L - Miracle Hinacle (Zestiri9) \[Misfortune Dispelln\]](https://osu.ppy.sh/beatmapsets/1298827#mania/2693961)
+  - [REDALiCE & aran - Sweet Requiem (Irone OSU) \[Luscious Chant\]](https://osu.ppy.sh/beatmapsets/1298744#mania/2693821)
+  - [ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita. (Irone OSU) \[Affable Affection\]](https://osu.ppy.sh/beatmapsets/1306401#mania/2708657)
+  - [SOUND HOLIC - Touhou Hakureisou (Tamaki Iroha) \[Amagai's Extra Stage(Edit)\]](https://osu.ppy.sh/beatmapsets/1306448#mania/2708730)
+- TieBreaker
+  - **[Camellia ft. Hatsune Miku - Looking for Edge of Ground (MyZterioN-) \[Flawless World\]](https://osu.ppy.sh/beatmapsets/1170710#mania/2442222)**
+
+### Semifinals
+
+- FreeMod
+  - [goreshit - satori de pon! (SaltedFISSH) \[~pon~\]](https://osu.ppy.sh/beatmapsets/1251545#mania/2601286)
+  - [LeaF - Wizdomiot (Zestiri9) \[ Jealousy\]](https://osu.ppy.sh/beatmapsets/1295013#mania/2687000)
+  - [ZUN (arr. sun3) - Higan Retour -idling mix- (Shoegazer) \[Sequencer\]](https://osu.ppy.sh/beatmapsets/464898#mania/995322)
+  - [tasofro - Cosmic Mind (\[Crz\]hinako1804) \[Da Bei Zhou x1.05_P\]](https://osu.ppy.sh/beatmapsets/1295068#mania/2687099)
+  - [LeaF - Calamity Fortune (Shoegazer) \[Euphoria\]](https://osu.ppy.sh/beatmapsets/435450#mania/938145)
+  - [Nhato - Gekka (Short Version) (\[Crz\]hinako1804) \[Halation\]](https://osu.ppy.sh/beatmapsets/1182593#mania/2465588)
+  - [UNDEAD CORPORATION - Magus night fever inst. (puxtu) \[pxt\]](https://osu.ppy.sh/beatmapsets/582016#mania/1231839)
+  - [Wakeshima Kanon - Foul Play ni Kurari (datoujia) \[SV Beginner\]](https://osu.ppy.sh/beatmapsets/1260461#mania/2620261)
+  - [Paul Bazooka - Drunken Stein (Sillyp) \[KUNNAN BIANSU\]](https://osu.ppy.sh/beatmapsets/1164662#mania/2429361)
+  - [senya - Sasayaku Kiekaketa Kouishou ga (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/1109484#mania/2318491)
+  - [senya - Kowareta Unmei wo Tsumuide (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/853700#mania/1784113)
+  - [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Melancholia\]](https://osu.ppy.sh/beatmapsets/836634#mania/1751934)
+  - [Foreground Eclipse - (I Don't Need Any Titles To This Song!) (YuEast 2018) \[ \[\] \]](https://osu.ppy.sh/beatmapsets/1275896#mania/2650942)
+  - [Alstroemeria Records - SACRIFICE feat. ayame (ATing) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/836072#mania/1926204)
+- TieBreaker
+  - **[Zekk - Let Me Hear (Dubstek) \[Let Me Play\]](https://osu.ppy.sh/beatmapsets/1146384#mania/2393639)**
+
+### Quarterfinals
+
+- FreeMod
+  - [Various Artists - Jack Complexes Vol1.A (deceleration) \[ZOU+\ [Sumika\]\]](https://osu.ppy.sh/beatmapsets/1195487#mania/2490415)
+  - [t+pazolite - Luv-Lab-Poison 22ate! (Zestiri9) \[Toxic!\]](https://osu.ppy.sh/beatmapsets/1286065#mania/2670406)
+  - [Nanahira - Monosugoi ikioide keine ga monosugoi uta (SaltedFISSH) \[Revolution!!!\]](https://osu.ppy.sh/beatmapsets/1258005#mania/2615107)
+  - [Halozy - Serenade of Love (Hydria) \[Hard\]](https://osu.ppy.sh/beatmapsets/1042429#mania/2178504)
+  - [Shinigiwa Satellite - The Life and Times of Dino Spumoni (Rudalek) \[Insane\]](https://osu.ppy.sh/beatmapsets/639692#mania/1356673)
+  - [loz - Cinderella Cage -Trancecore Mix- (drunkenstein) \[Insane\]](https://osu.ppy.sh/beatmapsets/300934#mania/674850)
+  - [Pegboard Nerds - Try This (Ciel) \[your size\]](https://osu.ppy.sh/beatmapsets/871668#mania/1821216)
+  - [DOT96 - MAKE IT FUNKY NOW (RuleBlazing) \[Funny\]](https://osu.ppy.sh/beatmapsets/1181310#mania/2463156)
+  - [Rin - Mythic set ~ Heart-Stirring Urban Legends (UnluckyCroco) \[Tales of the Occult\]](https://osu.ppy.sh/beatmapsets/1243225#mania/2584677)
+  - [nomico - Boku no owari o kazaru hana (lgzzz) \[Owaru Hana\]](https://osu.ppy.sh/beatmapsets/1287937#mania/2674033)
+  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[4k // Lunatic\]](https://osu.ppy.sh/beatmapsets/943788#mania/1971029)
+  - [F-777 - Dark Angel (\[ Mee \]) \[MEE\]](https://osu.ppy.sh/beatmapsets/316932#mania/706156)
+- TieBreaker
+  - [Camellia - Lunatic Rough Party!! (Long Ver.) (Ichigaki) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/286262#mania/646319)
+
+### Round Of 16
+
+- FreeMod
+  - [beatMARIO - Night of Knights (Cranky Remix) (FAMoss) \[Hard\]](https://osu.ppy.sh/beatmapsets/1173144#mania/2446749)
+  - [Camellia - Ultimate Ascension (Fresh Chicken) \[advanced\]](https://osu.ppy.sh/beatmapsets/476565#mania/1018885)
+  - [FELT - Day After (arcwinolivirus) \[Blossoming Flower 1.1x\]](https://osu.ppy.sh/beatmapsets/936831#mania/1957026)
+  - [Cory Williams - The Mean Kitty Song (SaltedFISSH) \[cat\]](https://osu.ppy.sh/beatmapsets/1076900#mania/2253474)
+  - [M2U - Nightmare (Shoegazer) \[Desolation\]](https://osu.ppy.sh/beatmapsets/665005#mania/1407494)
+  - [uma feat. mashiro - Brave My Soul -Full Version- (Tamaki Iroha) \[Hard(Edit)\]](https://osu.ppy.sh/beatmapsets/1037582#mania/2665314)
+  - [Chroma - Genyo Ressha no Tabi (Zestiri9) \[Journey\]](https://osu.ppy.sh/beatmapsets/1165415#mania/2430700)
+  - [Camellia - Routing (Couil) \[Drifting\]](https://osu.ppy.sh/beatmapsets/1235559#mania/2568420)
+  - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (juankristal) \[Stage 3: Release\]](https://osu.ppy.sh/beatmapsets/732983#mania/1546412)
+  - [ARForest - It's alright (riunosk) \[8.\]](https://osu.ppy.sh/beatmapsets/1116132#mania/2331669)
+  - [Aya ponzu*/a yo/Marcia/Amamiya Miya - Genso konekuto (cherrychou) \[Gensokyo\]](https://osu.ppy.sh/beatmapsets/1268988#mania/2637128)
+  - [Masayoshi Minoshima - Struggle (Fe_Sanae_C) \[Forever Blossom\]](https://osu.ppy.sh/beatmapsets/1212220#mania/2523208)
+- TieBreaker
+  - [Dark PHOENiX - Taketori Hishou (Madoka2574) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/606334#mania/1280968)
+
+### Group Stage
+
+- FreeMod
+  - [senya - Nihil Kagura (Raediaufar) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/365790#mania/802866)
+  - [Feint - Reprise (Original Mix) (ExNeko) \[HD\]](https://osu.ppy.sh/beatmapsets/759362#mania/1597026)
+  - [MUZIK SERVANT feat.CHERICa - Over the Starlit sky (Feerum) \[Hard\]](https://osu.ppy.sh/beatmapsets/430151#mania/927962)
+  - [A4paper - Hypernova (Spy) \[Mashiro's  4K Hyper\]](https://osu.ppy.sh/beatmapsets/541278#mania/1147748)
+  - [Gekidan Hitotose - Curtain Call!!!!! (Tofu1222) \[Hard\]](https://osu.ppy.sh/beatmapsets/611200#mania/1290338)
+  - [The Ghost of 3.13 - Last Star In The Universe (Shoegazer) \[Serenade\]](https://osu.ppy.sh/beatmapsets/302911#mania/1667749)
+  - [Mili - Lemonade (-Hyme) \[Hard\]](https://osu.ppy.sh/beatmapsets/772168#mania/1623266)
+  - [XXXTENTACION - SAD! (Couil) \[down\]](https://osu.ppy.sh/beatmapsets/1242775#mania/2583713)
+  - [NAGI - inside (Jinjin) \[Longing\]](https://osu.ppy.sh/beatmapsets/475615#mania/1016139)
+  - [Rabpit - Saika (Jinjin) \[LN  Master\]](https://osu.ppy.sh/beatmapsets/1060785#mania/2220965)
+- Tiebreaker
+  - [BilliumMoto - Four Veiled Stars (- Aries  -) \[FAMoss'  Hard\]](https://osu.ppy.sh/beatmapsets/1008419#mania/2146932)
+
+### Qualifier
+
+- FreeMod
+  - [LeaF - Armageddon (Sillyp) \[Stage 1:  SV\]](https://osu.ppy.sh/beatmapsets/1271396#mania/2642080)
+  - [ccy - Fallen (cherrychou) \[Stage 2:  Acc\]](https://osu.ppy.sh/beatmapsets/1199190#mania/2516921)
+  - [Poppin'Party - STAR BEAT!~Hoshi no Kodou~ (Raveille) \[Stage 3:  LN\]](https://osu.ppy.sh/beatmapsets/1271347#mania/2641964)
+  - [ZUN - Youma Yakou (Zestiri9) \[Stage 4:  Hybrid\]](https://osu.ppy.sh/beatmapsets/1261406#mania/2622083)
 
 ## Ruleset
 
