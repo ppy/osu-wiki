@@ -2,7 +2,7 @@
 
 [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
-Home of the [Knowledge Base](https://osu.ppy.sh/wiki).
+Home of the [osu! wiki](https://osu.ppy.sh/wiki).
 
 ## Contributing
 
