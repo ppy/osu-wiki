@@ -29,7 +29,7 @@ Play through any beatmap from the video above:
 - [osu!catch map](https://osu.ppy.sh/beatmapsets/1096713) hosted by [Daletto](https://osu.ppy.sh/users/7592136)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/194/Chronostasis/Release%20Hallucination%20-%20Chronostasis.mp3" type="audio/mpeg">
 </audio>
 
 ### Ariadne
@@ -37,7 +37,7 @@ Play through any beatmap from the video above:
 Experience [this new osu!taiko map](https://osu.ppy.sh/beatmapsets/1536537) hosted by [Heaxys](https://osu.ppy.sh/users/5671417) and [this new osu! map](https://osu.ppy.sh/beatmapsets/1550194) by [Zelq](https://osu.ppy.sh/users/8953955) of the Mappers' Guild!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/194/Ariadne/Release%20Hallucination%20-%20Ariadne.mp3" type="audio/mpeg">
 </audio>
 
 ### Lovers in Abyss
@@ -45,13 +45,13 @@ Experience [this new osu!taiko map](https://osu.ppy.sh/beatmapsets/1536537) host
 Try [this experimental osu! map](https://osu.ppy.sh/beatmapsets/1032560) hosted by [Deramok](https://osu.ppy.sh/users/1428455)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/194/Lovers%20in%20Abyss/Release%20Hallucination%20-%20Lovers%20in%20Abyss.mp3" type="audio/mpeg">
 </audio>
 
 ### Deus ex Machina
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/194/Imperfection%20of%20Imaginary%20Number/Release%20Hallucination%20-%20Deus%20ex%20Machina.mp3" type="audio/mpeg">
 </audio>
 
 ---
