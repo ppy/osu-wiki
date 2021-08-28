@@ -34,7 +34,7 @@ Play through any beatmap from the video above:
 
 ### Ariadne
 
-Experience [this new osu!taiko map](https://osu.ppy.sh/beatmapsets/1536537) hosted by [Heaxys](https://osu.ppy.sh/users/5671417) of the Mappers' Guild!
+Experience [this new osu!taiko map](https://osu.ppy.sh/beatmapsets/1536537) hosted by [Heaxys](https://osu.ppy.sh/users/5671417) and [this new osu! map](https://osu.ppy.sh/beatmapsets/1550194) by [Zelq](https://osu.ppy.sh/users/8953955) of the Mappers' Guild!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
