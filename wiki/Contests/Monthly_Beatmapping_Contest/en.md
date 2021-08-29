@@ -77,7 +77,7 @@ Information and results for all iterations of the MBC since its relaunch in 2020
 | :-- | :-- | :-- | :-- | :-- |
 | [January 2020](https://osu.ppy.sh/community/contests/84) | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | [Results](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [February 2020](https://osu.ppy.sh/community/contests/89) | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | [Results](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |
-| [March 2020](https://osu.ppy.sh/community/contests/91) | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | [Results](https://osu.ppy.sh/home/news/2020-04-20-monthly-beatmapping-contest-3-results) |
+| [March 2020](https://osu.ppy.sh/community/contests/91) | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | [Results](https://osu.ppy.sh/home/news/2020-04-21-monthly-beatmapping-contest-3-results) |
 | [April 2020](https://osu.ppy.sh/community/contests/93) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | [Results](https://osu.ppy.sh/home/news/2020-05-22-monthly-beatmapping-contest-4-results) |
 | [May 2020](https://osu.ppy.sh/community/contests/95) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | [Results](https://osu.ppy.sh/home/news/2020-07-24-monthly-beatmapping-contest-5-6-results) |
 | [June 2020](https://osu.ppy.sh/community/contests/96) | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777), ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421), ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | N/A | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | [Results](https://osu.ppy.sh/home/news/2020-07-24-monthly-beatmapping-contest-5-6-results) |
@@ -91,7 +91,8 @@ Information and results for all iterations of the MBC since its relaunch in 2020
 | [April 2021 (osu!taiko)](https://osu.ppy.sh/community/contests/123) | ![][flag_TH] [KappuChinooo](https://osu.ppy.sh/users/9582525) | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | N/A | [Results](https://osu.ppy.sh/home/news/2021-05-24-results-monthly-beatmapping-contest-april-2020) |
 | [April 2021 (osu!catch)](https://osu.ppy.sh/community/contests/124) | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | ![][flag_TH] [rew0825](https://osu.ppy.sh/users/2488026) | N/A | [Results](https://osu.ppy.sh/home/news/2021-05-24-results-monthly-beatmapping-contest-april-2020) |
 | [May 2021 (osu!)](https://osu.ppy.sh/community/contests/127) | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | [Results](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
-| [June 2021 (osu!)](https://osu.ppy.sh/community/contests/127) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | [Results](https://osu.ppy.sh/home/news/2021-07-30-results-monthly-beatmapping-contest-june-2021) |
+| [June 2021 (osu!)](https://osu.ppy.sh/community/contests/130) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | [Results](https://osu.ppy.sh/home/news/2021-07-30-results-monthly-beatmapping-contest-june-2021) |
+| [July 2021 (osu!)](https://osu.ppy.sh/community/contests/132) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | [Results](https://osu.ppy.sh/home/news/2021-08-30-results-monthly-beatmapping-contest-july-2021) |
 
 The MBC was put on hold between October 2020 and March 2021 to provide time for the [A Labour of Love Contest](/wiki/Contests/A_Labour_of_Love_Contest). Statistics about all 2020 MBC iterations can be found on the [10th contest's results news post](https://osu.ppy.sh/home/news/2020-12-14-monthly-beatmapping-contest-10-results).
 
@@ -120,11 +121,11 @@ MBC points of every contest participant are listed below.
 | User | Points |
 | :-- | :-- |
 | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | 8 |
+| ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | 8 |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 7 |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 6 |
 | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | 6 |
-| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | 5 |
-| ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | 5 |
+| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | 6 |
 | ![][flag_TH] [- Frontier -](https://osu.ppy.sh/users/4314710) | 3 |
 | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | 2 |
 | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | 2 |
