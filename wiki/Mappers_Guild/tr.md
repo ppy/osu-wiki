@@ -16,7 +16,7 @@ Loncanın organizasyonu ve tartışması [osu!dev Discord sunucusundaki](https:/
 
 3 ya da daha fazla dereceli mape sahip mapperlar loncaya istedikleri zaman [Mappers' Guild web sayfasına](https://mappersguild.com/) osu! hesaplarıyla giriş yaparak katılabilirler. Web sayfasındaki görevleri ve mapleme aktivitesini herkes görebilir.
 
-Mapperlar Mappers' Guild'e bağlı olan featured artistlerin maplerinin derecelendirilme prosedürüne katkıda bulunarak ödüller kazanabilir. Bu, temel olarak beatmap oluşturmaya odaklanır, ancak [modlama](/wiki/Modding) yaparak, [storyboard](/wiki/Storyboards) oluşturarak, ya da lonca içindeki görevleri tamamlayarak katkıda bulunan kullanıcılara da ödül verilir.
+Mapperlar Mappers' Guild'e bağlı olan featured artistlerin maplerinin derecelendirilme prosedürüne katkıda bulunarak ödüller kazanabilir. Bu, temel olarak beatmap oluşturmaya odaklanır, ancak [modlama](/wiki/Modding) yaparak, [storyboard](/wiki/Storyboard) oluşturarak, ya da lonca içindeki görevleri tamamlayarak katkıda bulunan kullanıcılara da ödül verilir.
 
 ### Partiler
 

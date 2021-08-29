@@ -19,7 +19,7 @@ La création des [hit objects](/wiki/Hit_Objects) et des autres éléments de je
 
 ## Design
 
-L'onglet [Design](/wiki/Beatmap_Editor/Design) permet de réaliser des [storyboards](/wiki/Storyboards), c’est-à-dire les animations qui accompagnent les beatmaps. Étant donné que les storyboards contiennent des effets complexes justifiant l'utilisation d'un nombre conséquent de commandes de storyboard, les mappers utilisent également le [storyboard scripting](/wiki/Storyboard_Scripting) sans entrer dans l'onglet design.
+L'onglet [Design](/wiki/Beatmap_Editor/Design) permet de réaliser des [storyboards](/wiki/Storyboard), c’est-à-dire les animations qui accompagnent les beatmaps. Étant donné que les storyboards contiennent des effets complexes justifiant l'utilisation d'un nombre conséquent de commandes de storyboard, les mappers utilisent également le [storyboard scripting](/wiki/Storyboard/Scripting) sans entrer dans l'onglet design.
 
 ## Timing
 

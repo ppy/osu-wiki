@@ -42,7 +42,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 コンポーネント: [AiMod](/wiki/Beatmap_Editor/AiMod) • [ビートスナップディバイザー](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [ディスタンススナップ](/wiki/Beatmap_Editor/Distance_Snap) • [メニュー](/wiki/Beatmap_Editor/Menu) • [SBロード](/wiki/Beatmap_Editor/SB_Load) • [タイムライン](/wiki/Beatmap_Editor/Timelines)
 
-[ビートマッピング](/wiki/Beatmapping) • [難易度](/wiki/Beatmap/Difficulty) • [マッピング技術](/wiki/Mapping_Techniques) • [ストーリーボード](/wiki/Storyboarding)
+[ビートマッピング](/wiki/Beatmapping) • [難易度](/wiki/Beatmap/Difficulty) • [マッピング技術](/wiki/Mapping_Techniques) • [ストーリーボード](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

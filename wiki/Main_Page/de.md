@@ -42,7 +42,7 @@ Abschnitte: [Zusammenstellung](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/
 
 Komponenten: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Taktteiler](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menü](/wiki/Beatmap_Editor/Menu) • [SB-Belastung](/wiki/Beatmap_Editor/SB_Load) • [Zeitleisten](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Schwierigkeitsgrade](/wiki/Beatmap/Difficulty) • [Mapping-Techniken](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+[Beatmapping](/wiki/Beatmapping) • [Schwierigkeitsgrade](/wiki/Beatmap/Difficulty) • [Mapping-Techniken](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -1,6 +1,6 @@
 # 简写
 
-为了减少代码冗余，在编写[命令](/wiki/Storyboard_Scripting/Commands)时，有三种**简写**情况。
+为了减少代码冗余，在编写[命令](/wiki/Storyboard/Scripting/Commands)时，有三种**简写**情况。
 
 ## 一样的事件、持续时间、顺序
 

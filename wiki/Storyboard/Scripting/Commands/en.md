@@ -1,6 +1,6 @@
 # Storyboard scripting commands
 
-Each [object declaration](/wiki/Storyboard_Scripting/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change colour. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
+Each [object declaration](/wiki/Storyboard/Scripting/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change colour. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
 
 A command under an object declaration looks like:
 
@@ -49,7 +49,7 @@ where:
 - (starttime) and (endtime) are the starting and ending times of the command, respectively in milliseconds (ms).
 - (params...) vary between specific values for (event). This is usually what values the variables should take on.
 
-In some special cases, various [shorthands](/wiki/Storyboard_Scripting/Shorthand) can be used.
+In some special cases, various [shorthands](/wiki/Storyboard/Scripting/Shorthand) can be used.
 
 An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F).
 ![Setting a(n) sprite/object with their commands to do (Event).](img/SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
@@ -86,7 +86,7 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _F,0,1000,3000,1,1
 ```
 
-See the [shorthand](/wiki/Storyboard_Scripting/Shorthand) section for an explanation of how to shorten this last line to just:
+See the [shorthand](/wiki/Storyboard/Scripting/Shorthand) section for an explanation of how to shorten this last line to just:
 
 `_F,0,1000,3000,1`
 
@@ -96,7 +96,7 @@ See the [shorthand](/wiki/Storyboard_Scripting/Shorthand) section for an explana
 
 | Affects | Value definition | Default value |
 | :-- | :-- | :-- |
-| The location of the object in the play area. | An (x,y) position, as specified above. Decimals are allowed. | The location defined in the [object declaration](/wiki/Storyboard_Scripting/Objects). |
+| The location of the object in the play area. | An (x,y) position, as specified above. Decimals are allowed. | The location defined in the [object declaration](/wiki/Storyboard/Scripting/Objects). |
 
 where:
 
@@ -266,5 +266,5 @@ _P,0,60000,62000,V
 
 There are more complicated commands that don't do anything by themselves. Instead, they provide conditions for when other events happen, and are explained on separate pages:
 
-- [Loop (L) Command](/wiki/Storyboard_Scripting/Compound_Commands)
-- [Trigger (T) Command](/wiki/Storyboard_Scripting/Compound_Commands)
+- [Loop (L) Command](/wiki/Storyboard/Scripting/Compound_Commands)
+- [Trigger (T) Command](/wiki/Storyboard/Scripting/Compound_Commands)

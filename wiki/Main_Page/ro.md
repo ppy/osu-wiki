@@ -43,7 +43,7 @@ Secțiuni: [Compune](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 Componente: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divizor Beat Snap](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distanţă pocnet](/wiki/Beatmap_Editor/Distance_Snap) • [Meniu](/wiki/Beatmap_Editor/Menu) • [Încărcare SB](/wiki/Beatmap_Editor/SB_Load) • [Cronologii](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Dificultăți](/wiki/Beatmap/Difficulty) • [Tehnici de mapping](/wiki/Mapping_Techniques) • [Scenariu vizual](/wiki/Storyboarding)
+[Beatmapping](/wiki/Beatmapping) • [Dificultăți](/wiki/Beatmap/Difficulty) • [Tehnici de mapping](/wiki/Mapping_Techniques) • [Scenariu vizual](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

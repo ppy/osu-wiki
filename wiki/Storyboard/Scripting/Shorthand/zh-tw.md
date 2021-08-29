@@ -4,7 +4,7 @@ no_native_review: true
 
 # Storyboard scripting shorthand
 
-在寫[指令](/wiki/Storyboard_Scripting/Commands)時，有三種**縮寫**方法可以使撰寫過程更簡單。
+在寫[指令](/wiki/Storyboard/Scripting/Commands)時，有三種**縮寫**方法可以使撰寫過程更簡單。
 
 ## 事件、持續時間、順序相同
 

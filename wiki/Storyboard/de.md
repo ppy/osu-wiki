@@ -16,4 +16,4 @@ Desweiteren sind Storyboards oft sehr schwer zu kreieren und benötigen eine res
 
 Den [Storyboard Editor](/wiki/Storyboard_Editor) (SBE) findet man im Design-Tab (alternativ F2) im Beatmap Editor. Grundsätzlich bietet der SBE den Benutzern einen simplen Weg, um die Bewegung von einfachen Sprites zu kontrollieren. Allerdings wird das oftmals als schwerfällig angesehen, da diese meistens über die Grundlagen eines Storyboards hinausgehen. Falls jemand den Wunsch hat, ein Widescreen Storyboard zu erstellen, dann kann er dies tun, indem er auf den Song-Setup Dialog geht.
 
-Erfahrene Nutzer im Storyboarding benutzen oftmals den Back-End-Code, welcher stattdessen als [Storyboard Scripting](/wiki/Storyboard_Scripting) (SBS) betitelt wird, da dieser mehr Kontrolle bietet. Siehe im Artikel für mehr Details.
+Erfahrene Nutzer im Storyboarding benutzen oftmals den Back-End-Code, welcher stattdessen als [Storyboard Scripting](/wiki/Storyboard/Scripting) (SBS) betitelt wird, da dieser mehr Kontrolle bietet. Siehe im Artikel für mehr Details.

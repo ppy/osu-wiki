@@ -116,7 +116,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 ### Storyboards
 
-*For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard_Scripting).*
+*For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard/Scripting).*
 
 Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all difficulties in a beatmap.
 

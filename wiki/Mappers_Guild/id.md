@@ -17,7 +17,7 @@ Organisasi dan diskusi perkumpulan ini dapat ditemukan di channel `#mappers-guil
 
 Mapper yang memiliki setidaknya 3 map yang sudah ranked dapat bergabung dengan perkumpulan ini kapan saja melewati dengan melakukan otentikasi osu! mereka pada [situs web Mapper's Guild](https://mappersguild.com/). Siapa pun tidak dibatasi untuk melihat *quest* yang tersedia dan aktivitas mapping yang dilakukan pada situs web.
 
-Mapper dapat memperoleh imbalan dengan berpartisipasi dalam proses pemeringkatan map menjadi ranked untuk map yang menggunakan konten artis unggulan dan terhubung ke Mapper's Guild. Dengan ini, mapper berfokus pada pembuatan beatmap, namun imbalan juga diberikan untuk pengguna yang berkontribusi dengan [modding](/wiki/Modding), membuat [storyboard](/wiki/Storyboards), dan menyelesaikan *quest* dalam *guild*.
+Mapper dapat memperoleh imbalan dengan berpartisipasi dalam proses pemeringkatan map menjadi ranked untuk map yang menggunakan konten artis unggulan dan terhubung ke Mapper's Guild. Dengan ini, mapper berfokus pada pembuatan beatmap, namun imbalan juga diberikan untuk pengguna yang berkontribusi dengan [modding](/wiki/Modding), membuat [storyboard](/wiki/Storyboard), dan menyelesaikan *quest* dalam *guild*.
 
 ### Kelompok
 

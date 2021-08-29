@@ -1,4 +1,4 @@
-# Storyboards
+# Storyboard
 
 ![This scene is shown while playing Walkie Talkie Man. However, it is only shown when you get an "Elite Beat 300".](img/Sbpassing.png "This scene is shown while playing Walkie Talkie Man. However, it is only shown when you get an Elite Beat 300.")
 ![This is shown when you missed or got a 50 in the previously played combo.](img/Sbfailing.png "This is shown when you missed or got a 50 in the previously played combo.")
@@ -9,4 +9,4 @@ Storyboards are stored in beatmap folders as either standalone [`.osb` files](/w
 
 ## Storyboarding
 
-*Storyboarding* is the process of making a storyboard; the person behind the process is called *a storyboarder*. Storyboarding is often very difficult and requires considerable time and expertise in standard animation and in the creation of graphics. osu! offers a [design editor](/wiki/Beatmap_Editor/Design) inside of the [beatmap editor](/wiki/Beatmap_Editor) to aid the creation of storyboards, but most avid storyboard producers opt to instead program via [storyboard scripting](/wiki/Storyboard_Scripting) directly. Many creators choose to write programs in full-featured programming languages to generate storyboards scripts, because complex visual effects can require a great amount of storyboard code to produce.
+*Storyboarding* is the process of making a storyboard; the person behind the process is called *a storyboarder*. Storyboarding is often very difficult and requires considerable time and expertise in standard animation and in the creation of graphics. osu! offers a [design editor](/wiki/Beatmap_Editor/Design) inside of the [beatmap editor](/wiki/Beatmap_Editor) to aid the creation of storyboards, but most avid storyboard producers opt to instead program via [storyboard scripting](/wiki/Storyboard/Scripting) directly. Many creators choose to write programs in full-featured programming languages to generate storyboards scripts, because complex visual effects can require a great amount of storyboard code to produce.

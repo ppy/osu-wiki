@@ -16,7 +16,7 @@ Guild organisation and discussion can be found in the `#mappers-guild` channel o
 
 Mappers with 3 or more ranked maps can join the guild at any time via the [Mappers' Guild website](https://mappersguild.com/) by authenticating their osu! account. Anyone else is free to view the website's quest and mapping activities.
 
-Mappers can earn rewards by participating in the ranking process for featured artist maps that are connected to the Mappers' Guild. This primarily focuses on creating beatmaps, however rewards are also provided for users who contribute by [modding](/wiki/Modding), creating [storyboards](/wiki/Storyboards), and completing quests within the guild.
+Mappers can earn rewards by participating in the ranking process for featured artist maps that are connected to the Mappers' Guild. This primarily focuses on creating beatmaps, however rewards are also provided for users who contribute by [modding](/wiki/Modding), creating [storyboards](/wiki/Storyboard), and completing quests within the guild.
 
 ### Parties
 

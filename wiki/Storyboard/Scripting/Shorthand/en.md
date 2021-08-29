@@ -1,6 +1,6 @@
 # Storyboard scripting shorthand
 
-To make life easier, there are three cases of **shorthand** when writing [storyboard commands](/wiki/Storyboard_Scripting/Commands).
+To make life easier, there are three cases of **shorthand** when writing [storyboard commands](/wiki/Storyboard/Scripting/Commands).
 
 ## Same Event, Same Duration, Sequentially
 

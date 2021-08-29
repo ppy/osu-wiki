@@ -21,7 +21,7 @@
 
 ## Design
 
-[Design](/wiki/Beatmap_Editor/Design)は、ビートマップに付随する視覚効果である[ストーリーボード](/wiki/Storyboards)を作成する方法を提供します。ストーリーボードは複雑な効果を持つことが多く、多くのストーリーボードコマンドを使用する必要があるため、マッパーはデザインタブに入らずに[ストーリーボードスクリプト](/wiki/Storyboard_Scripting)を直接使用することもあります。
+[Design](/wiki/Beatmap_Editor/Design)は、ビートマップに付随する視覚効果である[ストーリーボード](/wiki/Storyboard)を作成する方法を提供します。ストーリーボードは複雑な効果を持つことが多く、多くのストーリーボードコマンドを使用する必要があるため、マッパーはデザインタブに入らずに[ストーリーボードスクリプト](/wiki/Storyboard/Scripting)を直接使用することもあります。
 
 ## Timing
 

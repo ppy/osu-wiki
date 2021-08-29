@@ -1,6 +1,6 @@
 # Storyboard Scripting - Schalter
 
-Die folgenden sind Schalter, die in .osu (und in manchen Fällen in .osb) Dateien das [Skinning](/wiki/Skinning)/[Storyboarding](/wiki/Storyboards) beeinflussen.
+Die folgenden sind Schalter, die in .osu (und in manchen Fällen in .osb) Dateien das [Skinning](/wiki/Skinning)/[Storyboarding](/wiki/Storyboard) beeinflussen.
 
 Siehe auch [skin.ini](/wiki/Skinning/Skin.ini)
 

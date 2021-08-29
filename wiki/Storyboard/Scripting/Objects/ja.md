@@ -8,7 +8,7 @@ outdated: true
 
 *[osu!でのヒットオブジェクトに関しては](/wiki/Game_mode/osu!)[Beatmappingと](/wiki/Beatmapping)[Hit Objects](/wiki/Hit_Objects)* を参照してください。
 
-[SBでの](/wiki/Storyboards)**Objects** はSBを構成する動かすことができる画像、アニメーションのことを指します。 またSBとして追加するオーディオデータもオブジェクトに含められると考えられます。しかしここではわかりやすくするために[別のガイドを設けています](/wiki/Storyboard_Scripting/Audio)。
+[SBでの](/wiki/Storyboard)**Objects** はSBを構成する動かすことができる画像、アニメーションのことを指します。 またSBとして追加するオーディオデータもオブジェクトに含められると考えられます。しかしここではわかりやすくするために[別のガイドを設けています](/wiki/Storyboard/Scripting/Audio)。
 
 ## オブジェクトの定義
 
@@ -20,7 +20,7 @@ outdated: true
 
 Where:
 
-- **(layer)** は**オブジェクトが表示される[レイヤーを示します](/wiki/Storyboard_Scripting/General_Rules)。** 有効な値は以下のとおりです:
+- **(layer)** は**オブジェクトが表示される[レイヤーを示します](/wiki/Storyboard/Scripting/General_Rules)。** 有効な値は以下のとおりです:
   - 0 - Background
   - 1 - Fail
   - 2 - Pass
@@ -54,7 +54,7 @@ Where:
   - LoopForever (これを有効化するとデフォルトではアニメーションの最後のフレームが終わると最初のフレームに戻ります。)
   - LoopOnce (こちらは最後のフレームが終わると停止し、最後の画像を表示させ続けます。)
 
-*オブジェクトが表示された時の指示はではない*ということには留意してください。それらは完全に[コマンドに依存します](/wiki/Storyboard_Scripting/Commands)。.osuもしくは.osbにきジュスされたオブジェクトの順番だけが重なりの状態を変化させることができます。*
+*オブジェクトが表示された時の指示はではない*ということには留意してください。それらは完全に[コマンドに依存します](/wiki/Storyboard/Scripting/Commands)。.osuもしくは.osbにきジュスされたオブジェクトの順番だけが重なりの状態を変化させることができます。*
 
 ## 具体例
 

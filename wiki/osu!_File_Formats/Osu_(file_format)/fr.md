@@ -159,7 +159,7 @@ SliderTickRate (Float) indique la fréquence d'apparition des ticks de slider. L
 
 ### Events
 
-Voir [Storyboard Scripting](/wiki/Storyboard_Scripting)
+Voir [Storyboard Scripting](/wiki/Storyboard/Scripting)
 
 ### Timing Points
 

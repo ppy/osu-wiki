@@ -153,7 +153,7 @@ texte
 
 La balise `[code]` est utilisée pour créer des *blocs de code préformatés* (aussi appelés *texte préformaté*). Sur le site osu!, la balise `[code]` formatera le texte dans une police monospace à l'intérieur d'une boîte grise semi-transparente. Le formatage du texte à l'intérieur d'un bloc de code indique à l'éditeur de traiter le texte entre ces balises de manière littérale, empêchant ainsi la conversion de toute balise ou code source en quelque chose d'autre.
 
-Dans les forums osu!, les blocs de code sont le plus souvent utilisés pour afficher le code source d'un [storyboard](/wiki/Storyboards), ou dans les tutoriels qui nécessitent de montrer la syntaxe des balises, des commandes ou du code source.
+Dans les forums osu!, les blocs de code sont le plus souvent utilisés pour afficher le code source d'un [storyboard](/wiki/Storyboard), ou dans les tutoriels qui nécessitent de montrer la syntaxe des balises, des commandes ou du code source.
 
 ### Centre
 
