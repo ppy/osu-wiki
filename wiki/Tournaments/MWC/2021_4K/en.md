@@ -98,51 +98,62 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)**, [Neko-Pan](https://osu.ppy.sh/users/8676532), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [Edvo](https://osu.ppy.sh/users/8301758), [Doryoku](https://osu.ppy.sh/users/5639725), [Cerelac](https://osu.ppy.sh/users/8065567) |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [Lottery61](https://osu.ppy.sh/users/13821222), [Asrielly](https://osu.ppy.sh/users/2656302), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [LovelyL](https://osu.ppy.sh/users/14821320) |
 
-## Match schedule: Quarterfinals
+## Match schedule: Semifinals
 
-### Saturday, August 28, 2021
-
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_AR] | Argentina | Aug 28 (Sat.) 02:00 UTC | Aug 27 (Fri.) 22:00 UTC-4 | Aug 27 (Fri.) 23:00 UTC-3 | ² |
-| Japan | ![][flag_JP] | ![][flag_PL] | Poland | Aug 28 (Sat.) 10:00 UTC | Aug 28 (Sat.) 19:00 UTC+9 | Aug 28 (Sat.) 12:00 UTC+2 | ² |
-| Indonesia | ![][flag_ID] | ![][flag_TW] | Taiwan | Aug 28 (Sat.) 12:00 UTC | Aug 28 (Sat.) 19:00 UTC+7 | Aug 28 (Sat.) 20:00 UTC+8 | ² |
-| Hong Kong | ![][flag_HK] | ![][flag_IT] | Italy | Aug 28 (Sat.) 13:00 UTC | Aug 28 (Sat.) 21:00 UTC+8 | Aug 28 (Sat.) 15:00 UTC+2 | ² |
-| Singapore | ![][flag_SG] | ![][flag_ES] | Spain | Aug 28 (Sat.) 14:00 UTC | Aug 28 (Sat.) 22:00 UTC+8 | Aug 28 (Sat.) 16:00 UTC+2 | ² |
-| Thailand | ![][flag_TH] | ![][flag_RU] | Russian Federation | Aug 28 (Sat.) 14:00 UTC | Aug 28 (Sat.) 21:00 UTC+7 | Aug 28 (Sat.) 17:00 UTC+3 | ² |
-| Chile | ![][flag_CL] | ![][flag_PE] | Peru | Aug 28 (Sat.) 20:00 UTC | Aug 28 (Sat.) 16:00 UTC-4 | Aug 28 (Sat.) 15:00 UTC-5 | ² |
-| France | ![][flag_FR] | ![][flag_NL] | Netherlands | Aug 28 (Sat.) 16:00 UTC | Aug 28 (Sat.) 18:00 UTC+2 | Aug 28 (Sat.) 18:00 UTC+2 | ² |
-
-### Sunday, August 29, 2021
+### Saturday, September 04, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_NL] | Netherlands | Aug 29 (Sun.) 01:00 UTC | Aug 29 (Sat.) 21:00 UTC-4 | Aug 29 (Sun.) 03:00 UTC+2 | ³ |
-| Taiwan | ![][flag_TW] | ![][flag_CL] | Chile | Aug 29 (Sun.) 02:00 UTC | Aug 29 (Sun.) 10:00 UTC+8 | Aug 28 (Sat.) 22:00 UTC-4 | ³ |
-| Taiwan | ![][flag_TW] | ![][flag_PE] | Peru | Aug 29 (Sun.) 02:00 UTC | Aug 29 (Sun.) 10:00 UTC+8 | Aug 28 (Sat.) 21:00 UTC-5 | ³ |
-| United States | ![][flag_US] | ![][flag_PH] | Philippines | Aug 29 (Sun.) 02:00 UTC | Aug 28 (Sat.) 21:00 UTC-5 | Aug 29 (Sun.) 10:00 UTC+8 | ¹ |
-| Malaysia | ![][flag_MY] | ![][flag_VN] | Vietnam | Aug 29 (Sun.) 08:00 UTC | Aug 29 (Sun.) 16:00 UTC+8 | Aug 29 (Sun.) 15:00 UTC+7 | ¹ |
-| Singapore | ![][flag_SG] | ![][flag_TH] | Thailand | Aug 29 (Sun.) 10:00 UTC | Aug 29 (Sun.) 18:00 UTC+8 | Aug 29 (Sun.) 17:00 UTC+7 | ³ |
-| Spain | ![][flag_ES] | ![][flag_TH] | Thailand | Aug 29 (Sun.) 10:00 UTC | Aug 29 (Sun.) 12:00 UTC+2 | Aug 29 (Sun.) 17:00 UTC+7 | ³ |
-| Singapore | ![][flag_SG] | ![][flag_RU] | Russian Federation | Aug 29 (Sun.) 11:00 UTC | Aug 29 (Sun.) 19:00 UTC+8 | Aug 29 (Sun.) 14:00 UTC+3 | ³ |
-| Hong Kong | ![][flag_HK] | ![][flag_JP] | Japan | Aug 29 (Sun.) 12:00 UTC | Aug 29 (Sun.) 20:00 UTC+8 | Aug 29 (Sun.) 21:00 UTC+9 | ³ |
-| United Kingdom | ![][flag_GB] | ![][flag_KR] | South Korea | Aug 29 (Sun.) 12:00 UTC | Aug 29 (Sun.) 13:00 UTC+1 | Aug 29 (Sun.) 21:00 UTC+9 | ¹ |
-| Hong Kong | ![][flag_HK] | ![][flag_PL] | Poland | Aug 29 (Sun.) 13:00 UTC | Aug 29 (Sun.) 21:00 UTC+8 | Aug 29 (Sun.) 15:00 UTC+2 | ³ |
-| Italy | ![][flag_IT] | ![][flag_JP] | Japan | Aug 29 (Sun.) 13:00 UTC | Aug 29 (Sun.) 15:00 UTC+2 | Aug 29 (Sun.) 22:00 UTC+9 | ³ |
-| Italy | ![][flag_IT] | ![][flag_PL] | Poland | Aug 29 (Sun.) 13:00 UTC | Aug 29 (Sun.) 15:00 UTC+2 | Aug 29 (Sun.) 15:00 UTC+2 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_CN] | China | Aug 29 (Sun.) 14:00 UTC | Aug 29 (Sun.) 11:00 UTC-3 | Aug 29 (Sun.) 22:00 UTC+8 | ¹ |
-| Spain | ![][flag_ES] | ![][flag_RU] | Russian Federation | Aug 29 (Sun.) 15:00 UTC | Aug 29 (Sun.) 17:00 UTC+2 | Aug 29 (Sun.) 18:00 UTC+3 | ³ |
-| Indonesia | ![][flag_ID] | ![][flag_CL] | Chile | Aug 29 (Sun.) 15:00 UTC | Aug 29 (Sun.) 22:00 UTC+7 | Aug 29 (Sun.) 11:00 UTC-4 | ³ |
-| Indonesia | ![][flag_ID] | ![][flag_PE] | Peru | Aug 29 (Sun.) 15:00 UTC | Aug 29 (Sun.) 22:00 UTC+7 | Aug 29 (Sun.) 10:00 UTC-5 | ³ |
-| Canada | ![][flag_CA] | ![][flag_FR] | France | Aug 29 (Sun.) 18:00 UTC | Aug 29 (Sun.) 14:00 UTC-4 | Aug 29 (Sun.) 20:00 UTC+2 | ³ |
-| Argentina | ![][flag_AR] | ![][flag_FR] | France | Aug 29 (Sun.) 18:00 UTC | Aug 29 (Sun.) 15:00 UTC-3 | Aug 29 (Sun.) 20:00 UTC+2 | ³ |
-| Argentina | ![][flag_AR] | ![][flag_NL] | Netherlands | Aug 29 (Sun.) 18:00 UTC | Aug 29 (Sun.) 15:00 UTC-3 | Aug 29 (Sun.) 20:00 UTC+2 | ³ |
+| China | ![][flag_CN] | ![][flag_JP] | Japan | Sep 4 (Sat.) 11:00 UTC | Sep 4 (Sat.) 19:00 UTC+8 | Sep 4 (Sat.) 20:00 UTC+9 | ² |
+| South Korea | ![][flag_KR] | ![][flag_FR] | France | Sep 4 (Sat.) 12:00 UTC | Sep 4 (Sat.) 21:00 UTC+9 | Sep 4 (Sat.) 14:00 UTC+2 | ² |
+| Philippines | ![][flag_PH] | ![][flag_SG] | Singapore | Sep 4 (Sat.) 13:00 UTC | Sep 4 (Sat.) 21:00 UTC+8 | Sep 4 (Sat.) 21:00 UTC+8 | ² |
+| Vietnam | ![][flag_VN] | ![][flag_ID] | Indonesia | Sep 4 (Sat.) 14:00 UTC | Sep 4 (Sat.) 21:00 UTC+7 | Sep 4 (Sat.) 21:00 UTC+7 | ² |
+
+### Sunday, September 05, 2021
+
+| Team A | | | Team B | Match time | Local time A | Local time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Vietnam | ![][flag_VN] | ![][flag_PH] | Philippines | Sep 5 (Sun.) 12:00 UTC | Sep 5 (Sun.) 19:00 UTC+7 | Sep 5 (Sun.) 20:00 UTC+8 | ³ |
+| Vietnam | ![][flag_VN] | ![][flag_SG] | Singapore | Sep 5 (Sun.) 12:00 UTC | Sep 5 (Sun.) 19:00 UTC+7 | Sep 5 (Sun.) 20:00 UTC+8 | ³ |
+| Indonesia | ![][flag_ID] | ![][flag_PH] | Philippines | Sep 5 (Sun.) 12:00 UTC | Sep 5 (Sun.) 19:00 UTC+7 | Sep 5 (Sun.) 20:00 UTC+8 | ³ |
+| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Sep 5 (Sun.) 12:00 UTC | Sep 5 (Sun.) 19:00 UTC+7 | Sep 5 (Sun.) 20:00 UTC+8 | ³ |
+| China | ![][flag_CN] | ![][flag_KR] | South Korea | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 21:00 UTC+8 | Sep 5 (Sun.) 22:00 UTC+9 | ³ |
+| China | ![][flag_CN] | ![][flag_FR] | France | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 21:00 UTC+8 | Sep 5 (Sun.) 15:00 UTC+2 | ³ |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 22:00 UTC+9 | Sep 5 (Sun.) 22:00 UTC+9 | ³ |
+| Japan | ![][flag_JP] | ![][flag_FR] | France | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 22:00 UTC+9 | Sep 5 (Sun.) 15:00 UTC+2 | ³ |
+| United States | ![][flag_US] | ![][flag_MY] | Malaysia | Sep 5 (Sun.) 15:00 UTC | Sep 5 (Sun.) 10:00 UTC-5 | Sep 5 (Sun.) 23:00 UTC+8 | ¹ |
+| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | Sep 5 (Sun.) 17:00 UTC | Sep 5 (Sun.) 18:00 UTC+1 | Sep 5 (Sun.) 14:00 UTC-3 | ¹ |
 
 ¹ Winners bracket match\
 ² Losers bracket match\
 ³ Final matchup depends on the results of ²
 
 ## Mappools
+
+### Semifinals
+
+- Rice
+  1. [SHIKI - Angelic Layer (Mipha-) \[Paragon 1.2x (175bpm)\]](https://osu.ppy.sh/beatmapsets/1332427#mania/2798673)
+  2. [DJ SHARPNEL - STRANGEPROGRAM (Shoegazer) \[Malfunction 1.2x (258bpm)\]](https://osu.ppy.sh/beatmapsets/1393835#mania/2888752)
+  3. [Jea - snows ~Soshite Kiseki~ (Jole) \[Fast Regrets 1.3x (242bpm)\]](https://osu.ppy.sh/beatmapsets/1533545#mania/3136095)
+  4. [ZUN (Arr.sun3) - STAR OF ANDROMEDA (Seiryuu) \[1.0\]](https://osu.ppy.sh/beatmapsets/1541438#mania/3150953)
+  5. [Frums - Q.E. (Pizza69) \[Insane 1.15x (192bpm)\]](https://osu.ppy.sh/beatmapsets/1558484#mania/3183458)
+  6. [dev-null - Goblin (ilikexd) \[Insane 1.2x (252bpm)\]](https://osu.ppy.sh/beatmapsets/1543786#mania/3155497)
+  7. [Outsider - Acquaintance (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/1450363#mania/2981901)
+- Hybrid
+  1. [BEMANI Sound Team "HuMer vs dj Hellix" - EMERALDAS (stupud man) \[CHAOS CONTROL 1.1x\]](https://osu.ppy.sh/beatmapsets/1416026#mania/2918199)
+  2. [Silentroom vs Frums - Aegleseeker (Abraxos) \[The Final Edge of Light\]](https://osu.ppy.sh/beatmapsets/1458667#mania/2997592)
+  3. [Camellia as "menaXe inXonnu" - Xronial Xero (lemonguy) \[Xhallenge\]](https://osu.ppy.sh/beatmapsets/1519331#mania/3109899)
+- LN
+  1. [Amane - Dodger's Gadget (UNMIXED) (inteliser) \[Catastrophy \[LN\] 1.05x (189bpm)\]](https://osu.ppy.sh/beatmapsets/1519475#mania/3185566)
+  2. [MiddleIsland - Delrio (Raveille) \[for the rivers\]](https://osu.ppy.sh/beatmapsets/1251408#mania/2601016)
+  3. [penoreri - Preserved Valkyria (guden) \[Brynhildr\]](https://osu.ppy.sh/beatmapsets/1485257#mania/3191733)
+  4. [Camellia - werewolf howls. (lemonguy) \[LNFINITE.\]](https://osu.ppy.sh/beatmapsets/1435835#mania/2954313)
+- SV
+  1. [DOT96 - MAKE IT FUNKY NOW (RuleBlazing) \[Funny (edit)\]](https://osu.ppy.sh/beatmapsets/1181310#mania/3189234)
+  2. [EZFG - cloud (Toaph Daddy) \[scattered\]](https://osu.ppy.sh/beatmapsets/1481395#mania/3038813)
+- Tiebreaker
+  1. **[Camellia - OOPARTS (-mint-) \[Antikythera\]](https://osu.ppy.sh/beatmapsets/1505323#mania/3083481)**
 
 ### Quarterfinals
 
@@ -223,6 +234,36 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 - [deathcount - A Beautiful Degeneracy (Remix by Stazma The Junglechrist) (Shoegazer) \[Stage 8: Desperado\]](https://osu.ppy.sh/beatmapsets/1535626#mania/3140053)
 
 ## Match results
+
+## Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxI-1S9uv04mhcmVeYdB_rbQ3T6gyhbs8739duhmPwv4oChWpcALdX6qm9vS3PsWR-ouo9ytG5f2rA/pubhtml "Google Sheets").
+
+Saturday, August 28, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Canada** ![][flag_CA] | **6** | FF | ![][flag_AR] Argentina | |
+| **Japan** ![][flag_JP] | **6** | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/89998280) |
+| **Indonesia** ![][flag_ID] | **6** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/90001720) |
+| **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/90004019) |
+| **Thailand** ![][flag_TH] | **6** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/90006670) |
+| **Singapore** ![][flag_SG] | **6** | 4 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/90006472) |
+| **France** ![][flag_FR] | **6** | 2 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/90012514) |
+| **Chile** ![][flag_CL] | **6** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/90025700) |
+
+Sunday, August 29, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **6** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/90040871) |
+| **Malaysia** ![][flag_MY] | **6** | 1 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/90053442) |
+| **Singapore** ![][flag_SG] | **6** | 3 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/90056452) |
+| Hong Kong ![][flag_HK] | 2 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/90059924) |
+| **United Kingdom** ![][flag_GB] | **6** | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/90060092) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/90064931) |
+| Chile ![][flag_CL] | 4 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/90067609) |
+| Canada ![][flag_CA] | 2 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/90076136) |
 
 ### Round of 16
 
