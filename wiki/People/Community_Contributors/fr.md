@@ -2,7 +2,7 @@
 
 ![](/wiki/shared/contributor.jpg "Badge Contributor")
 
-Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des services à la communauté d'osu! à grands frais pour elles-mêmes - des outils et des fonctionnalités que beaucoup d'entre nous prennent pour acquis aujourd'hui. Ces utilisateurs reçoivent un badge pour indiquer qu'ils ont fait quelque chose de remarquable pour l'ensemble de la communauté.
+Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des services à la communauté d'osu! à grands frais pour eux-mêmes - des outils et des fonctionnalités que beaucoup d'entre nous prennent pour acquis aujourd'hui. Ces utilisateurs reçoivent un badge pour indiquer qu'ils ont fait quelque chose de remarquable pour l'ensemble de la communauté.
 
 À ne pas confondre avec les [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), qui sont d'anciens membres de l'équipe d'osu! qui ont pris leur retraite, les badges Contributor sont attribués à des indépendants publics qui ont fait plus que leur devoir pour améliorer osu! et l'environnement communautaire.
 
