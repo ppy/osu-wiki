@@ -4,6 +4,20 @@
 
 In addition to the [built-in storyboard editor](/wiki/Beatmap_Editor/Design), a plain text editor, such as Notepad, [Notepad++](https://www.notepad-plus-plus.org/), or [Visual Studio Code](https://code.visualstudio.com/), can also be used to create [storyboards](/wiki/Storyboard) for beatmaps. This workflow is called **storyboarding by scripting** (*SBS*) and it allows one to be more precise (to the pixel and the millisecond) as to when sprites appear, how they behave, and so on.
 
+To study a specific part of scripting, head to one of the articles below:
+
+- Basic concepts:
+  - [General rules of storyboarding](General_Rules)
+  - [Objects](Objects)
+  - [Basic commands](Commands)
+  - [Compound commands](Compound_Commands)
+  - [Variables](Variables)
+- Extra:
+  - [Playing audio](Audio)
+  - [Storyboard scripting cheat sheet](Cheat_Sheet)
+  - [osu! file toggles](osu!_File_Toggles)
+  - [Short versions of commands](Shorthand)
+
 ## Overview
 
 There is an overview of the storyboard scripting concepts provided by [Doomsday](https://osu.ppy.sh/users/18983): [osu! - Storyboard Scripting for Beginners (12:22)](https://www.youtube.com/watch?v=UJ1YLDs-bZg "YouTube").
