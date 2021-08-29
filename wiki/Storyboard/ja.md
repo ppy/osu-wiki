@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
+---
+
 # ストーリーボード
 
 ![Walkie Talkie Manをプレイしているときに表示されるシーンです。ただし、「Elite Beat 300」を取得したときのみ表示されます。](img/Sbpassing.png "Walkie Talkie Manをプレイしているときに表示されるシーンです。ただし、「Elite Beat 300」を取得したときのみ表示されます。")

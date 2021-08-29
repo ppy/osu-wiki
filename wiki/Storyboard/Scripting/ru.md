@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
+---
+
 # Storyboard Scripting
 
 ![Пример скрипта в .osb](img/SBS_Base.jpg "Пример скрипта в .osb")

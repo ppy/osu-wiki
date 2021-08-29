@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
+---
+
 # Storyboards
  
 ![Ця сцена показується під час гри Walkie Talkie Man. Однак, вона показується тільки тоді, коли ви отримуєте "Elite Beat 300".](img/Sbpassing.png "This scene is shown while playing Walkie Talkie Man. However, it is only shown when you get an Elite Beat 300.")

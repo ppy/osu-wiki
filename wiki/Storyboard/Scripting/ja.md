@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
+---
+
 # ストーリーボードスクリプティング
 
 ![.osbでのスクリプティング例](img/SBS_Base.jpg ".osbでのスクリプティング例")

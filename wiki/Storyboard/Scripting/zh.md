@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
+---
+
 # 利用脚本制作故事板
 
 ![](img/SBS_Base.jpg "一个 .osb 文件的故事板脚本例子")

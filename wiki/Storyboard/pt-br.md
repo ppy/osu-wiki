@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
+---
+
 # Storyboards
 
 ![Essa cena é mostrada enquanto joga Walkie Talkie Man. Porem é apenas mostrada quando se consegue um hit "Elite Beat 300"](img/Sbpassing.png "Essa cena é mostrada enquanto joga Walkie Talkie Man. Porém é apenas mostrada quando se consegue um hit Elite Beat 300")
