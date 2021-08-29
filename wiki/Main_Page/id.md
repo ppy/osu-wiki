@@ -5,7 +5,7 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Selamat datang di osu! wiki, sebuah basis pengetahuan *open-source* yang mengandung berbagai informasi seputar segala sesuatu yang berhubungan dengan osu!.
+Selamat datang di osu! wiki, sebuah basis pengetahuan open-source yang mengandung berbagai informasi seputar segala sesuatu yang berhubungan dengan osu!.
 </div>
 
 <div class="wiki-main-page__panels">
@@ -46,7 +46,7 @@ Semuanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek-aspek kun
 
 # [Beatmap editor](/wiki/Beatmap_Editor)
   
-Semua beatmap yang ada di osu! merupakan kreativitas dari anggota-anggota komunitas yang ada. Apakah kamu ingin membuat beatmap, namun masih belum tahu caranya? Pelajari artikel-artikel berikut ini agar kamu dapat menguasai editor yang osu! miliki.
+Seluruh beatmap yang ada di osu! merupakan buah kreativitas dari anggota-anggota komunitas yang ada. Apakah kamu ingin membuat beatmap, namun masih belum tahu caranya? Pelajari artikel-artikel berikut ini agar kamu dapat menguasai editor yang osu! miliki.
 
 Bagian: [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)
 
@@ -59,7 +59,7 @@ Kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Mapping_Te
 
 # Submisi dan proses ranking beatmap
   
-Agar suatu beatmap dapat memiliki papan peringkat/*leaderboard*, beatmap tersebut harus melewati proses ranking beatmap (*beatmap ranking process*) yang berlaku di osu!. Ketahui bagaimana caranya agar beatmap milikmu dapat melewati proses ini serta prosedur kontrol kualitas beatmap (*quality control*) yang osu! terapkan.
+Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebut harus melewati proses ranking beatmap yang berlaku di osu!. Ketahui bagaimana proses ini berlangsung dan seperti apa prosedur kontrol kualitas beatmap (*quality control*) yang osu! terapkan.
 
 [Pengunggahan beatmap](/wiki/Submission) • [Modding](/wiki/Modding) • [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
@@ -70,13 +70,13 @@ Agar suatu beatmap dapat memiliki papan peringkat/*leaderboard*, beatmap tersebu
   
 # Aturan dan hukum
   
-Ketahui prosedur-prosedur hukum dan peraturan-peraturan yang berlaku di osu! lebih dalam, mulai dari proses lisensi musik, pedoman penggunaan konten, hingga etika penggunaan forum dan obrolan (*chat*).
+Ketahui prosedur-prosedur hukum dan peraturan-peraturan yang berlaku di osu! lebih dalam, mulai dari proses lisensi musik, pedoman penggunaan konten, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
 
 [Peraturan](/wiki/Rules) • [Kode Etik Contributor Covenant](/wiki/Contributor_Code_of_Conduct) • [Kode etik dalam modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Peraturan media: [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) • [Konten eksplisit](/wiki/Rules/Explicit_Content) • [Aturan konten musik](/wiki/Rules/Song_Content_Rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_Content_Considerations)
 
-[Halaman legal](/wiki/Legal): [Ketentuan layanan osu!](/wiki/Legal/Terms) • [Privasi](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_Licensing)
+[Halaman legal](/wiki/Legal): [Ketentuan layanan osu!](/wiki/Legal/Terms) • [Ketentuan privasi](/wiki/Legal/Privacy) • [Ketentuan hak cipta (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_Licensing)
   
 </div>
 <div class="wiki-main-page-panel">
@@ -96,7 +96,7 @@ Lakukan bagianmu: [Bagaimana dan apa yang harus dibantu](/wiki/How_you_can_help!
   
 # Komunitas dan proyek
 
-Para pemain osu! di seluruh dunia saling berinteraksi dan terhubung antar satu sama lain setiap waktunya. Telusurilah berbagai aktivitas dan kontes yang ada, mulailah mengobrol dengan orang-orang baru, atau selenggarakanlah *event* osu! berikutnya!
+Para pemain osu! di seluruh dunia saling terhubung dan berinteraksi antar satu sama lain setiap waktunya. Telusurilah berbagai aktivitas dan kontes yang ada, mulailah mengobrol dengan orang-orang baru, atau selenggarakanlah *event* osu! berikutnya!
 
 [Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_Spotlights) • [Kontes](/wiki/Contests) • [Program komunitas mentorship](/wiki/Community_Mentorship_Program)
   
@@ -129,7 +129,7 @@ Segala hal yang terkait dengan pengembangan osu!, mulai dari cara untuk membuat 
 
 # Seputar wiki dan hal-hal meta lainnya
   
-Segala hal yang ada di osu!, termasuk osu! wiki, dikembangkan dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke osu! wiki, harap kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki "osu! wiki di GitHub").
+Semuanya yang ada di osu!, termasuk osu! wiki, utamanya dikelola dan dikembangkan oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke osu! wiki, harap kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki "osu! wiki di GitHub").
 
 [Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
