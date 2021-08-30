@@ -16,6 +16,8 @@ Users who are silenced by moderators cannot do the following:
 - Submit and update beatmaps
 - Partake in [multiplayer](/wiki/Multi) games
 
+In addition to that, all messages of a silenced user are removed from all chat channels and private messages [1](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
+
 {{{ Infobox
 ![](img/silence-profile.png "An example of silence record in profile page")
 }}}
@@ -24,7 +26,7 @@ After a user is silenced, they will see warning in place of the chat input field
 
 ## Appealing a silence
 
-If you believe you were silenced unfairly, contact [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence.
+If you believe you were silenced unfairly, contact [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence. Make sure to do it from the email linked to your osu! account; mention your osu! nickname, as well as approximate date and time when the silence was handed out.
 
 ## Common reasons for silences
 
