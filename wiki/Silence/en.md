@@ -20,6 +20,8 @@ In addition to that, all messages of a silenced user are removed from all chat c
 
 {{{ Infobox
 ![](img/silence-profile.png "An example of silence record in profile page")
+
+![](img/silence-ingame.png "An example of silence warning shown in the chat")
 }}}
 
 After a user is silenced, they will see warning in place of the chat input field, saying when will the silence wear off. The silence record can also be observed at the bottom of the profile on the web site, from which it will disappear after a couple of weeks.
