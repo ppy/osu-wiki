@@ -18,11 +18,11 @@ Vyberte část, která nejvíce odpovídá vašemu problému, abyste našli vhod
 | Sekce | Témata |
 | :-- | :-- |
 | [Účet](/wiki/Help_Centre/Account) | osu!supporter, omezení, přihlášení, změna jména, data profilu |
-| [Beatmapping a Editor](/wiki/Help_Centre/Beatmapping) | Údržba beatmap, vlastnictví beatmapy,beatmapové sloty|
-| [Klient](/wiki/Help_Centre/Client) |Bugy a pády, gameplay, připojení, performance |
+| [Beatmapping a Editor](/wiki/Help_Centre/Beatmapping) | Údržba beatmap, vlastnictví beatmapy, beatmapové sloty |
+| [Klient](/wiki/Help_Centre/Client) | Bugy a pády, gameplay, připojení, performance |
 | [Instalace a registrace](/wiki/Help_Centre/Installation_and_registration) | Stahování hry, vytváření účtu |
 | [Obchod](/wiki/Help_Centre/Store) | Zboží, osu!go, osu!klávesnice, osu!tablet |
-| [Website](/wiki/Help_Centre/Website) |Blokování uživatelů, kontakt s podporou, vzhled stránek |
+| [Website](/wiki/Help_Centre/Website) | Blokování uživatelů, kontakt s podporou, vzhled stránek |
 
 ## Pomozte nám, pomóct vám
 
@@ -35,13 +35,13 @@ Ačkoli se to může zdát triviální, tyto soubory nám opravdu mohou pomoci v
 Pokud vás člen týmu podpory o tyto logs požádal, postupujte takto:
 
 1. Otevřete osu!.
-2. Klikněte na tlačítko `Možnosti` v hlavní nabídce nebo stiskněte `Ctrl` +` O `.
+2. Klikněte na tlačítko `Možnosti` v hlavní nabídce nebo stiskněte `Ctrl` + `O`.
 3. Do panelu rychlého vyhledávání zadejte `release`. Tím přejdete na aktuální stream vydání, který váš klient používá.
 4. Ujistěte se, že je nastaveno na `Cutting Edge (Experimental)`.
 5. Pokud jste provedli nějaké změny ve streamu vydání, abyste je použili, klikněte na tlačítko restartovat.
 6. Znovu přejděte do nabídky `Možnosti` a klikněte na `Open osu! folder`.
 7. V okně, které se otevře, vyhledejte adresář `logs`.
-8.  Vyberte požadovaný soubor protokolu (zástupce podpory vám řekne jaký) a přiložte jej k support ticketu nebo příspěvku na fóru.
+8. Vyberte požadovaný soubor protokolu (zástupce podpory vám řekne jaký) a přiložte jej k support ticketu nebo příspěvku na fóru.
 
 ### Event Viewer
 
@@ -52,12 +52,12 @@ Když máte problémy s osu! crashing, pokud osu! vám neposkytne protokol o sel
 Pokud vás člen týmu podpory požádal, abyste v Prohlížeči událostí našli protokol selhání, postupujte takto:
 
 1. Po zhroucení osu!, stisknutím kláves `Win` + `R` otevřete pole pro spuštění.
-2. Do pole pro spuštění zadejte `eventvwr` a stiskněte klávesu `Enter``. Tím se otevře Prohlížeč událostí.
+2. Do pole pro spuštění zadejte `eventvwr` a stiskněte klávesu `Enter`. Tím se otevře Prohlížeč událostí.
 3. V Event Viewer v levé části klikněte na položku `Windows Logs` a poté `Application`.
 4. Vpravo klikněte na  `Filter current log`.
 5. V okně filtru, které se otevře, zkontrolujte, zda je zaškrtnuto políčko `Error` a klikněte na `OK`.
 6. Stiskněte `Ctrl` +` F` a napište osu! v poli hledání. Najde první log selhání z osu!.
-7. Přejděte na kartu `Details`, rozbalte  `System` a `Event Data` kliknutím na každou z nich.
+7. Přejděte na kartu `Details`, rozbalte `System` a `Event Data` kliknutím na každou z nich.
 8. Zkopírujte text a vložte jej do lístku podpory nebo příspěvku na fóru.
 
 ### Frame Time Graph
@@ -73,4 +73,4 @@ Pokud vás člen týmu podpory požádal o pořízení videa nebo snímku obrazo
 3. Spusťte nebo počkejte, až nastane problém s výkonem.
 4. Pořiďte snímek obrazovky stisknutím kláves `Shift` + `F12`. Tím se snímek nahraje do serverů osu! a otevře snímek obrazovky na kartě webového prohlížeče.
 5. Zkopírujte a vložte poskytnutý odkaz do support ticketu nebo příspěvku na fóru.
-6. Zavřete Frame Time Graph stejným způsobem, jakým jste jej otevřeli, stisknutím kláves `Ctrl` +` F11`.
+6. Zavřete Frame Time Graph stejným způsobem, jakým jste jej otevřeli, stisknutím kláves `Ctrl` + `F11`.
