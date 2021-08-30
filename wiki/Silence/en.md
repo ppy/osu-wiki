@@ -6,29 +6,29 @@
 
 Users who are silenced by moderators cannot do the following:
 
-- Use [chat](/wiki/Chat_Console), both in-game and on the web site
+- Use [chat](/wiki/Chat_Console), both in-game and on the website
 - Send and receive private messages
 - Post on any of the osu! forums
 - Comment on [beatmaps](/wiki/Beatmap)
 - Take part in [beatmap discussions](/wiki/Beatmap_Discussion)
-- Edit userpage
+- Edit their userpage
 - Change avatar and profile details
 - Submit and update beatmaps
 - Partake in [multiplayer](/wiki/Multi) games
 
-In addition to that, all messages of a silenced user are removed from all chat channels and private messages [1](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
+In addition to that, all messages of a silenced user are removed from all chat channels and private messages [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
 
 {{{ Infobox
-![](img/silence-profile.png "An example of silence record in profile page")
+![](img/silence-profile.png "An example of a silence record in the profile page")
 
-![](img/silence-ingame.png "An example of silence warning shown in the chat")
+![](img/silence-ingame.png "An example of a silence warning shown in the chat")
 }}}
 
-After a user is silenced, they will see warning in place of the chat input field, saying when will the silence wear off. The silence record can also be observed at the bottom of the profile on the web site, from which it will disappear after a couple of weeks.
+After a user is silenced, an alert will be displayed in place of the chat input field, saying when the silence wears off. The silence record can also be observed at the bottom of the profile on the website, from which it will disappear after 28 days.
 
 ## Appealing a silence
 
-If you believe you were silenced unfairly, contact [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence. Make sure to do it from the email linked to your osu! account; mention your osu! nickname, as well as approximate date and time when the silence was handed out.
+If you believe you were silenced unfairly, contact the [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence. Make sure to do it from the email linked to your osu! account; mention your osu! nickname, as well as the approximate date and time when the silence was handed out.
 
 ## Common reasons for silences
 
