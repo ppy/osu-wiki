@@ -3,6 +3,8 @@ tags:
   - BN
   - BNG
 no_native_review: true
+outdated: true
+outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 ---
 
 # Beatmap Nominators
