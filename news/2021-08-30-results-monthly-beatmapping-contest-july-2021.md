@@ -15,7 +15,7 @@ The **Monthly Beatmapping Contest** (***MBC***) is... well, a beatmap contest th
 | User | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#prizes) |
 | :-- | :-- | :-- | :-- | :-- |
 | [kuyusu](https://osu.ppy.sh/users/11758667) | Winner + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | 8 (⯅3) |
-| [Sylas](https://osu.ppy.sh/users/3906405) | Runner-up | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png)  | *Elite Mapper* | 6 (⯅1) |
+| [Sylas](https://osu.ppy.sh/users/3906405) | Runner-up | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | 6 (⯅1) |
 
 Both of these mappers were on the cusp of earning the highest prize in the MBC, and now they've finally been rewarded for their efforts! Details on their entries and the rest of the contestants can be found below.
 
