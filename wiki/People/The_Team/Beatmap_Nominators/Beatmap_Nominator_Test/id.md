@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
----
-
 # Tes Beatmap Nominator
 
 **Tes Beatmap Nominator** adalah sembuah ujian yang digunakan untuk membantu evaluasi dari lamaran [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*).
