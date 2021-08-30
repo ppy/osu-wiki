@@ -19,10 +19,10 @@ So you downloaded a map and you've thought of some things you aren't happy with 
 - Before modding, ensure your intentions are good and you are focused on the task at hand. No one likes to receive a rude or lazy mod.
 - When making suggestions, try to differentiate between what is intersubjectively / objectively bad or wrong, and what you simply dislike on a personal level. **All types of suggestion are fine as long as they are put forward accordingly**.
   - **Objective Issues** - Prohibited by rulesets and must be fixed.
-  - **Intersubjective Issues** - Not prohibited by rulesets, but are agreed upon as being "wrong" by a majority of people. Should be fixed in most cases unless there are opposing intersubjective arguments with equal size, or if the mapper can exhaustively explain why they feel it is acceptable
+  - **Intersubjective Issues** - Not prohibited by rulesets, but are agreed upon as being "wrong" by a majority of people. Should be fixed in most cases unless there are opposing intersubjective arguments with equal size, or if the mapper can exhaustively explain why they feel it is acceptable.
   - **Subjective Issues** - Something that you believe or think on a personal level. Might become intersubjective if many people agree with it.
 - **Unless the concept behind a beatmap is fundamentally flawed from the start**, modding should aim to improve the map **in its current design** - not force your own style upon it. If you truly believe the map has too many significant issues to address individually, try to give a general statement of why this is the case and what direction you think the map should go in to get back on track.
-- When pointing out "issues", inspect each thoroughly consider exactly what it is about the particular "thing" you dislike. Then, try to offer a potential solution or improvement and consider exactly how that suggestion will improve the map. If necessary, try multiple suggestions to see which work best - The more help you can offer the mapper, the better.
+- When pointing out "issues", inspect each thoroughly and consider exactly what it is about the particular "thing" you dislike. Then, try to offer a potential solution or improvement and consider exactly how that suggestion will improve the map. If necessary, try multiple suggestions to see which work best - The more help you can offer the mapper, the better.
 
 Suggestions themselves should ideally consist of four main parts, though based on the experience of the mapper and/or your personal relationship to them, you may want to be more lenient:
 
