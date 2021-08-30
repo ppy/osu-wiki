@@ -4,7 +4,6 @@ outdated: true
 outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
 ---
 
-
 # Regels
 
 Deze regels zijn de basis waarmee we ervoor zorgen dat de osu! community een leuke en gastvrije plek voor iedereen blijft.
