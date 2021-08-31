@@ -8,7 +8,7 @@ Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisate
 
 L'un des prix offerts aux vainqueurs des [World Cups officielles](/wiki/Tournaments#official-world-cups) est un titre d'utilisateur qui dure environ un an.
 
-Les gagnants de la [OWC 2020](/wiki/Tournaments/OWC/2020) avec le titre d'utilisateur **osu! Champion** :
+Les gagnants de l'[OWC 2020](/wiki/Tournaments/OWC/2020) avec le titre d'utilisateur **osu! Champion** :
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
@@ -89,7 +89,7 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 
 ### Elite Nominators
 
-Depuis 2020, l'activité des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) et des membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) en faveur du système de classement est récompensée par le titre de **Elite Nominator**. Ce titre est attribué au début de chaque année pour les contributions apportées au cours de la précédente, et est retiré lorsque l'utilisateur quitte l'équipe.
+Depuis 2020, l'activité des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) et des membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) en faveur du système de classement est récompensée par le titre **Elite Nominator**. Ce titre est attribué au début de chaque année pour les contributions apportées au cours de la précédente, et est retiré lorsque l'utilisateur quitte l'équipe.
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
@@ -97,7 +97,7 @@ Depuis 2020, l'activité des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_
 - ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)¹
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
 
-![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), et ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) ont tous reçu le titre de **Elite Nominator II** pour avoir été nommés Elite Nominator deux années de suite.
+![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), et ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) ont tous reçu le titre **Elite Nominator II** pour avoir été nommés Elite Nominator deux années de suite.
 
 ### Les gagnants du concours de mapping Aspire
 
@@ -116,16 +116,16 @@ Les gagnants du concours de mapping Aspire proposent une variante spéciale du t
 
 ### Gagnants du concours osu!remix
 
-Les concours osu!remix attribuent le titre de **osu!mixer** comme premier prix.
+Les concours osu!remix attribuent le titre **osu!mixer** comme premier prix.
 
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
 
-¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) a reçu le titre de **osu!mixer II** pour avoir remporté le [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) et le concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
+¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) a reçu le titre **osu!mixer II** pour avoir remporté le [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) et le concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 
 ### Featured Artists
 
-Les [Featured Artists](/wiki/Featured_Artists) possédant un compte osu! reçoivent le titre de **Featured Artist** pour montrer leur implication.
+Les [Featured Artists](/wiki/Featured_Artists) possédant un compte osu! reçoivent le titre **Featured Artist** pour montrer leur implication.
 
 ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) et ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) ont le titre **osu!musician** pour leurs contributions antérieures à la conception sonore et aux thèmes officiels d'osu! et ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) a choisi de garder le titre **osu!mixer** (qui a depuis été mis à jour en osu!mixer II) lorsqu'il est devenu un Featured Artist.
 
@@ -166,7 +166,7 @@ L'équipe d'osu! a organisé des concours artistiques pour que les membres de la
 
 ### Temple de la renommée
 
-Ces trois utilisateurs ont reçu le titre de **osu! Hall of Famer** pour avoir joué au jeu au plus haut niveau et contribué à l'époque où la communauté était encore jeune.
+Ces trois utilisateurs ont reçu le titre **osu! Hall of Famer** pour avoir joué au jeu au plus haut niveau et contribué à l'époque où la communauté était encore jeune.
 
 - ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589)
 - ![][flag_PH] [James](https://osu.ppy.sh/users/5728)
@@ -174,7 +174,7 @@ Ces trois utilisateurs ont reçu le titre de **osu! Hall of Famer** pour avoir j
 
 ### Elite Storyboarders
 
-Les storyboarders qui font preuve d'un talent exceptionnel en matière de storyboarding et qui impressionnent l'ensemble de la communauté reçoivent le titre de **Elite Storyboarder**.
+Les storyboarders qui font preuve d'un talent exceptionnel en matière de storyboarding et qui impressionnent l'ensemble de la communauté reçoivent le titre **Elite Storyboarder**.
 
 - ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366)
 - ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
