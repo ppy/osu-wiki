@@ -68,7 +68,7 @@ Le classement est le processus qui consiste à obtenir un classement pour une be
 
 # Règles et jargon juridique
 
-Lisez les procédures et règlements qui assurent la sécurité d'osu! et de sa communauté, depuis les licences musicales et les directives relatives aux médias jusqu'aux règles du tchat et des forums.
+Lisez les procédures et règlements qui assurent la sécurité d'osu! et de sa communauté, des licences musicales et directives relatives aux médias jusqu'aux règles du tchat et des forums.
 
 [Règles](/wiki/Rules) • [Code de conduite Contributor Covenant](/wiki/Contributor_Code_of_Conduct) • [Code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
