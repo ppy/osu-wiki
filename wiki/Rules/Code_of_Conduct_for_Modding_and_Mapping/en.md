@@ -1,6 +1,6 @@
 # Code of conduct for modding and mapping
 
-The **Code of Conduct for Modding and Mapping** is a set of rules and guidelines that apply to the entirety of the osu! [modding](/wiki/Modding) and [mapping](/wiki/Beatmapping) ecosystem and an extension to the [osu! community rules](/wiki/Rules) and [General Ranking Criteria](/wiki/Ranking_Criteria). In order to ensure that mapping and modding discussions in threads take place in a constructive, positive and productive environment, a code of conduct is crucial to get everyone on the same page. When participating in the modding and mapping ecosystem, it is mandatory to follow this Code of Conduct. Misconduct that violates these rules might lead to [penalties issued to your account](/wiki/Silence).
+The **Code of Conduct for Modding and Mapping** is a set of rules and guidelines that apply to the entirety of the osu! [modding](/wiki/Modding) and [mapping](/wiki/Beatmapping) ecosystem and an extension to the [osu! community rules](/wiki/Rules) and [general ranking criteria](/wiki/Ranking_Criteria). In order to ensure that mapping and modding discussions in threads take place in a constructive, positive and productive environment, a code of conduct is crucial to get everyone on the same page. When participating in the modding and mapping ecosystem, it is mandatory to follow this Code of Conduct. Misconduct that violates these rules might lead to [penalties issued to your account](/wiki/Silence).
 
 ## Behaviour and Conduct
 
@@ -9,7 +9,7 @@ The **Code of Conduct for Modding and Mapping** is a set of rules and guidelines
   - Don't shy away from new mappers and modders - these people are the ones who can benefit the most from your input! Be patient, understanding, and provide as much explanation as possible so that they can learn and improve more quickly
   - If you're new yourself, don't be afraid to say so! This will allow more experienced community members to point you in the right direction. Everyone was new and in your position once!
 - Treat others as you wish to be treated. People are more receptive to kind, helpful suggestions than hostile ones. Try to understand others' point-of-view rather than attack it - nobody likes to feel worthless, incompetent or stupid. If you are a masochist, assume that all others are not.
-- If you wish to comment on or discuss a beatmap, go to that beatmap's [discussion page](/wiki/Beatmap_Discussion) - not social media outlets, or the comment section (if the map is [qualified](/wiki/Beatmap/Category#qualified)), as it is unlikely your concerns will be heard by anyone with the power to address them appropriately.
+- If you wish to comment on or discuss a beatmap, go to that beatmap's [discussion page](/wiki/Beatmap_Discussion) - not social media outlets, or the comment section, as it is unlikely your concerns will be heard by anyone with the power to address them appropriately.
 - Personal attacks, hateful comments, misplaced joking, derailing the thread and general drama-initiation are not acceptable in any form and **will not be tolerated**.
 
 ## Making a Mod Post
