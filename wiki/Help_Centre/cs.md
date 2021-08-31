@@ -19,10 +19,10 @@ Vyberte část, která nejvíce odpovídá vašemu problému, abyste našli vhod
 | :-- | :-- |
 | [Účet](/wiki/Help_Centre/Account) | osu!supporter, omezení, přihlášení, změna jména, data profilu |
 | [Beatmapping a Editor](/wiki/Help_Centre/Beatmapping) | Údržba beatmap, vlastnictví beatmapy, beatmapové sloty |
-| [Klient](/wiki/Help_Centre/Client) | Bugy a pády, gameplay, připojení, performance |
+| [Klient](/wiki/Help_Centre/Client) | Bugy a pády, gameplay, připojení, výkon |
 | [Instalace a registrace](/wiki/Help_Centre/Installation_and_registration) | Stahování hry, vytváření účtu |
-| [Obchod](/wiki/Help_Centre/Store) | Zboží, osu!go, osu!klávesnice, osu!tablet |
-| [Website](/wiki/Help_Centre/Website) | Blokování uživatelů, kontakt s podporou, vzhled stránek |
+| [Obchod](/wiki/Help_Centre/Store) | Zboží, osu!go, osu!keyboard, osu!tablet |
+| [Webová stránka](/wiki/Help_Centre/Website) | Blokování uživatelů, kontakt s podporou, vzhled stránek |
 
 ## Pomozte nám, pomóct vám
 
@@ -62,7 +62,7 @@ Pokud vás člen týmu podpory požádal, abyste v Prohlížeči událostí naš
 
 ### Frame Time Graph
 
-**The Frame Time Graph je vlastnost osu! které nám mohou pomoci shromáždit další užitečné informace o problémech s výkonem, se kterými se můžete setkat.**
+**Frame Time Graph je vlastnost osu! které nám mohou pomoci shromáždit další užitečné informace o problémech s výkonem, se kterými se můžete setkat.**
 
 Když se v osu! Setkáte se složitými problémy s výkonem, Frame Time Graph je dobrým nástrojem, který nám pomůže diagnostikovat problém po ruce a pomůže vám najít řešení problému.
 
