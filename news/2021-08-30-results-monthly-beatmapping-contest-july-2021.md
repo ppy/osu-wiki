@@ -41,7 +41,7 @@ See results for all submissions here:
 
 ### Winner
 
-Dominating for the last 3 months in a row, [kuyusu](https://osu.ppy.sh/users/11758667) has taken the well-deserved throne with their submissions of [*Tanchiky - Revolution* & *fiend - FDF2*](https://osu.ppy.sh/beatmapsets/1563859). Their approach aimed for a clear contrast that anyone could pick up on: one of their maps used only sliders, while the other used only circles.
+Dominating for the last 3 months in a row, [kuyusu](https://osu.ppy.sh/users/11758667) has taken the well-deserved throne with their submissions of [*Tanchiky - Revolution* & *fiend - 2DF2*](https://osu.ppy.sh/beatmapsets/1563859). Their approach aimed for a clear contrast that anyone could pick up on: one of their maps used only sliders, while the other used only circles.
 
 Given its landslide scores above other entrants and receiving the #1 spot among screeners, nobody can question kuyusu's authority in mapping as osu!'s newest *Elite Mapper*!
 
@@ -51,7 +51,7 @@ Given its landslide scores above other entrants and receiving the #1 spot among 
 
 He's achieved a win in [March 2020](https://osu.ppy.sh/home/news/2020-04-21-monthly-beatmapping-contest-3-results), and another win + the screeners' #1 pick in [June 2020](https://osu.ppy.sh/home/news/2020-07-24-monthly-beatmapping-contest-5-6-results). With countless spots among finalists in contests thereafter, he hasn't picked up a win until more than a year later!
 
-That said, Sylas has joined osu!'s prestigous *Elite Mapper* list with his beatmaps of [*Tanchiky - Revolution* & *2DF2*](https://osu.ppy.sh/beatmapsets/1563787)!
+That said, Sylas has joined osu!'s prestigous *Elite Mapper* list with his beatmaps of [*Tanchiky - Revolution* & *fiend - 2DF2*](https://osu.ppy.sh/beatmapsets/1563787)!
 
 ---
 
