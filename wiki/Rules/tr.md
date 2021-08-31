@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
+---
+
 # Kurallar
 
 Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalması için büyük önem taşımaktadır.

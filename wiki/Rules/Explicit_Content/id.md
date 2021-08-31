@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
+---
+
 # Konten eksplisit
 
 ![Tampilan beatmap yang mengandung konten eksplisit](img/explicit-tag.jpg "Contoh beatmap yang ditandai dengan label 'eksplisit'.")
