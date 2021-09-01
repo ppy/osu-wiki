@@ -3,6 +3,8 @@ stub: true
 tags:
   - downbeats
   - first beat
+  - 强拍
+  - 第一拍
 ---
 
 # 强拍
