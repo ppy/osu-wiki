@@ -38,4 +38,4 @@ Im "Compose"-Tab des Beatmapeditors wirst du wahrscheinlich den Großteil deiner
 
 *Siehe auch: [Design](/wiki/Design) und [Storyboarding](/wiki/Storyboard#storyboarding)*
 
-Im "Design"-Tab des Beatmapeditors kannst du ein Hintergrundbild und -video zu deiner Beatmap hinzufügen. Außerdem kannst du ein grundlegendes Storyboard erstellen. Je nach deinem Ansatz zum Storyboarding verwendest du den "Design"-Tab häufig oder auch gar nicht (z.B. beim [SBS](/wiki/Storyoard_Scripting) ("Storyboard Scripting")).
+Im "Design"-Tab des Beatmapeditors kannst du ein Hintergrundbild und -video zu deiner Beatmap hinzufügen. Außerdem kannst du ein grundlegendes Storyboard erstellen. Je nach deinem Ansatz zum Storyboarding verwendest du den "Design"-Tab häufig oder auch gar nicht (z.B. beim [SBS](/wiki/Storyboard/Scripting) ("Storyboard Scripting")).
