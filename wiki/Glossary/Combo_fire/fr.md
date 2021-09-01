@@ -1,7 +1,8 @@
 ---
-stub: true
 tags:
   - combo flame
+outdated: true
+outdated_since: 2eff49dbef81f27ad535446edb303eec56a59f69
 ---
 
 # Combo fire
