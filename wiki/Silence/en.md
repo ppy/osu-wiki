@@ -4,6 +4,10 @@
 
 ## Limitations
 
+{{{ Infobox
+![](img/silence-profile.png "Silence record in the profile page")
+}}}
+
 Users who are silenced by moderators cannot do the following:
 
 - Use [chat](/wiki/Chat_Console) (public and private), both in-game and on the website
@@ -16,9 +20,7 @@ Users who are silenced by moderators cannot do the following:
 
 In addition to that, all messages of a silenced user are removed from all chat channels and private conversations [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
 
-{{{ Infobox
-![](img/silence-profile.png "An example of a silence record in the profile page")
-
+{{{
 ![](img/silence-ingame.png "An example of a silence warning shown in the chat")
 }}}
 
