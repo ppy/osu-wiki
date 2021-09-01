@@ -6,13 +6,11 @@
 
 Users who are silenced by moderators cannot do the following:
 
-- Use [chat](/wiki/Chat_Console), both in-game and on the website
-- Send and receive private messages
+- Use [chat](/wiki/Chat_Console) (public and private), both in-game and on the website
 - Post on any of the osu! forums
 - Comment on [beatmaps](/wiki/Beatmap)
 - Take part in [beatmap discussions](/wiki/Beatmap_Discussion)
-- Edit their userpage
-- Change avatar and profile details
+- Edit profile details (e.g. avatar, "me!" section)
 - Submit and update beatmaps
 - Partake in [multiplayer](/wiki/Multi) games
 
@@ -28,7 +26,7 @@ After a user is silenced, an alert will be displayed in place of the chat input 
 
 ## Appealing a silence
 
-If you believe you were silenced unfairly, contact the [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence. Make sure to do it from the email linked to your osu! account; mention your osu! nickname, as well as the approximate date and time when the silence was handed out.
+If you believe you were silenced unfairly, contact the [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence. Make sure to do it from the email linked to your osu! account; mention your osu! username, as well as the approximate date and time when the silence was handed out.
 
 ## Common reasons for silences
 
