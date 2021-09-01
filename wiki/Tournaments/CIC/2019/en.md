@@ -18,8 +18,8 @@ The **Catch the Beat Indonesia Cup 2019** (***CIC 2019***) was a double-eliminat
 | Screening phase | 2019-09-02/2019-09-08 |
 | Group stage | 2019-09-09/2019-09-15 |
 | Round of 16 | 2019-09-16/2019-09-22 |
-| Quarterfinals | 2019-09-23/2019-09-29  |
-| Semifinals | 2019-09-30/2019-10-06  |
+| Quarterfinals | 2019-09-23/2019-09-29 |
+| Semifinals | 2019-09-30/2019-10-06 |
 | *Technical break* | 2019-10-07/2019-10-13 |
 | Finals (week 1) | 2019-10-14/2019-10-20 |
 | Finals (week 2) | 2019-10-21/2019-10-27 |
