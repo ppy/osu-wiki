@@ -271,11 +271,8 @@ The system used to calculate health drain and health gain is complicated so it w
 
 ### History
 
-![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire")
-
-- Older version of osu! used to emulate some of the elements from the *ouendan* series before being removed or replaced.
-  - Combo fire when hitting new combo milestones.
-    - Removed on 05 March 2013 (2013-03-05), due to performance issues.
+- Older version of osu! used to emulate some of the elements from the *ouendan* series before being removed or replaced:
+  - [Combo fire](/wiki/Glossary/Combo_fire) when hitting new combo milestones.
   - The first version of default skin using v1 skin behaviour, which was *osu!default by peppy* skin, provides an almost identical copy of the *ouendan* interface.
     - It was replaced by nicer current default skin using v2 skin behaviour.
   - The most notable feature difference between v1 and v2 skin behaviour is the spinner.

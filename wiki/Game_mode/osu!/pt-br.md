@@ -266,11 +266,8 @@ O sistema usado para calcular o dreno de vida é complicado, então não será e
 
 ### Histórico
 
-![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire")
-
 - As versões antigas do osu! costumavam emular alguns elementos da série *ouendan*, mas com o passar do tempo foram removidos ou substituídos.
-  - Combo fire ao atingir algumas metas de combo.
-    - Removido em 05 de Março de 2013 (2013-03-05), devido a problemas de performance.
+  - [Combo fire](/wiki/Glossary/Combo_fire) ao atingir algumas metas de combo.
   - A primeira versão da skin padrão era uma cópia quase idêntica da interface do *ouendan*.
     - Foi substituída pela por uma mais atualizada que está de acordo com novos padrões de comportamentos de skins.
   - A diferença mais notável entre o padrão de comportamento antigo e o novo está no spinner.

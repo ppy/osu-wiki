@@ -269,11 +269,8 @@ Can tüketimi ve can kazanımını hesaplamak için kullanılan sistem karmaşı
 
 ### Tarihçe
 
-![Combo Alevi](/wiki/shared/combo-fire.jpg "Combo Alevi")
-
 - osu!'nun eski versiyonu, değiştirilmeden veya kaldırılmadan önce *ouendan* serisindeki bazı özellikleri taklit ederdi.
-  - Yeni kombo eşiklerine ulaşıldığında kombo alevinin çıkması.
-    - Performans sorunları nedeniyle 05 Mart 2013'te kaldırıldı.
+  - Yeni kombo eşiklerine ulaşıldığında [kombo alevinin](/wiki/Glossary/Combo_fire) çıkması.
   - Adı *osu!default by peppy* olan, v1 tema özelliklerini kullanan varsayılan temanın ilk versiyonu *ouendan* arayüzünün neredeyse birebir kopyasını içerirdi.
     - v2 tema özelliklerini kullanan daha güzel bir varsayılan tema ile değiştirildi.
   - v1 ve v2 temaları arasındaki en önemli davranış farkı, spinnerdır.

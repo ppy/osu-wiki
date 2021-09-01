@@ -272,11 +272,8 @@ Le système utilisé pour calculer la perte et le gain de vie est compliqué et 
 
 ### Histoire
 
-![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire")
-
 - Les anciennes versions de osu! ont utilisé des éléments de la série *ouendan* avant qu'ils ne soient supprimés ou remplacés.
-  - Le combo fire qui ajoutait des flammes depuis le bas de l'écran lors de grands combos.
-    - Supprimé le 5 mars 2013 (05-03-2013), en raison de problèmes de performance.
+  - [Le combo fire](/wiki/Glossary/Combo_fire) qui ajoutait des flammes depuis le bas de l'écran lors de grands combos.
   - La première version du skin par défaut utilisant le comportement du skin v1, qui était *osu!default by peppy*, fournit une copie presque identique de l'interface du jeu *ouendan*.
     - Il a été remplacé par un skin actuel plus agréable utilisant le comportement de skin v2.
   - La différence la plus notable entre le comportement du skin v1 et v2 est le spinner.
