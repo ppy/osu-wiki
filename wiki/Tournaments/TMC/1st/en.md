@@ -235,6 +235,193 @@ This competition has come to an end and resulted in the following podium:
   - [Poppin'Party - STAR BEAT!~Hoshi no Kodou~ (Raveille) \[Stage 3:  LN\]](https://osu.ppy.sh/beatmapsets/1271347#mania/2641964)
   - [ZUN - Youma Yakou (Zestiri9) \[Stage 4:  Hybrid\]](https://osu.ppy.sh/beatmapsets/1261406#mania/2622083)
 
+## Match results
+
+### Grand Finals
+
+Monday, 7 December 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MY 2.5 +  TH 1.5** | **7** | 4 | yuyupa |[#1](https://osu.ppy.sh/community/matches/71081449), [#2](https://osu.ppy.sh/community/matches/71135584)|
+
+Sunday, 6 December 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| SMOrcat | 0 | **7** | **yuyupa** |[#1](https://osu.ppy.sh/community/matches/71077642)|
+
+### Finals 
+
+Saturday, 28 November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| maggie  team | 1 | **7** | **yuyupa** | [#1](https://osu.ppy.sh/community/matches/70609724) |
+
+Sunday, 29 November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| SMOrcat | 1 | **7** | **MY 2.5 +  TH 1.5** | [#1](https://osu.ppy.sh/community/matches/70670271) |
+| **AndreyMinecraft** | **7** | 2 | Team  Irone | [#1](https://osu.ppy.sh/community/matches/70675555) |
+
+Monday, 30 November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| AndreyMinecraft | 1 | **7** | yuyupa | [#1](https://osu.ppy.sh/community/matches/70724890) |
+
+### Semifinals
+
+Saturday, 21 November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| maggie  team | 1 | **7** | **MY 2.5 +  TH 1.5** | [#1](https://osu.ppy.sh/community/matches/70212837) |
+| **I want  to lick Reimu's armpits** | **7** | 4 | N.Z.  Owen Was Her? | [#1](https://osu.ppy.sh/community/matches/70214011) |
+| **Team  Irone** | **5** | 0 | Mai Chai  Kon | [#1](https://osu.ppy.sh/community/matches/70216792) |
+| Happy  Birthday ZayyKen | 2 | **7** | **Narumi  is ET** | [#1](https://osu.ppy.sh/community/matches/70216334) |
+| The  Master of the Shadows | 1 | **7** | **yuyupa** | [#1](https://osu.ppy.sh/community/matches/70218004) |
+| **SMOrcat** | **7** | 6 | AndreyMinecraft | [#1](https://osu.ppy.sh/community/matches/70219895) |
+
+Sunday, 22 November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Team  Irone** | **7** | 6 | Narumi  is ET | [#1](https://osu.ppy.sh/community/matches/70278489) |
+
+Monday, 23 November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| I want  to lick Reimu's armpits | 1 | **7** | **yuyupa** | [#1](https://osu.ppy.sh/community/matches/70333793) |
+
+### Quarterfinals
+
+Saturday 14, November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MY 2.5 +  TH 1.5** | **6** | 0 | Team  Irone | [#1](https://osu.ppy.sh/community/matches/69817486) |
+| **maggie  team** | **6** | 2 | Happy  Birthday ZayyKen | [#1](https://osu.ppy.sh/community/matches/69821071) |
+| **Mai Chai  Kon** | **0** | -1 | Piolin Y  PalomAsh | *win by default* |
+| I want  to lick Reimu's armpits | 0 | **6** | **AndreyMinecraft** | [#1](https://osu.ppy.sh/community/matches/69848586) |
+
+Sunday 15, November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Leen  Bakker | 0 | **6** | **N.Z.  Owen Was Her?** | [#1](https://osu.ppy.sh/community/matches/69883014) |
+| How to  SV | 1 | **6** | **Narumi  is ET** | [#1](https://osu.ppy.sh/community/matches/69883127) |
+| **yuyupa** | **6** | 2 | Shiister  Fanclub | [#1](https://osu.ppy.sh/community/matches/69886993) |
+| The  Master of the Shadows | 1 | **6** | **SMOrcat** | [#1](https://osu.ppy.sh/community/matches/69887029) |
+
+### Round Of 16										
+
+Saturday 7, November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **The  Master of the Shadows** | **6** | 1 | Mai Chai  Kon | [#1](https://osu.ppy.sh/community/matches/69443591) |
+| **MY 2.5 +  TH 1.5** | **6** | 0 | yuyupa | [#1](https://osu.ppy.sh/community/matches/69444346) |
+| **AndreyMinecraft** | **6** | 0 | Narumi  is ET | [#1](https://osu.ppy.sh/community/matches/69457069) |
+
+Sunday 8, November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **I want  to lick Reimu's armpits** | **6** | 1 | How to  SV | [#1](https://osu.ppy.sh/community/matches/69500456) |
+| **Happy  Birthday ZayyKen** | **6** | 2 | N.Z.  Owen Was Her? | [#1](https://osu.ppy.sh/community/matches/69500323) |
+| **Team  Irone** | **6** | 0 | Shiister  Fanclub | [#1](https://osu.ppy.sh/community/matches/69505710) |
+| **maggie  team** | **6** | 0 | Leen  Bakker | [#1](https://osu.ppy.sh/community/matches/69507276) |
+| **SMOrcat** | **6** | 0 | Piolin Y  PalomAsh | [#1](https://osu.ppy.sh/community/matches/69507191) |
+
+### Group Stage
+
+Friday 23, October 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Mai Chai  Kon | **5** | 0 | YoZoSoft | [#1](https://osu.ppy.sh/community/matches/68672261) |
+
+Saturday 24, October 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 0x5f375a86 | 0 | **5** | **The  Master of the Shadows** | [#1](https://osu.ppy.sh/community/matches/68724331) |
+| **Please  don't pick LN** | **5** | 1 | SiniGang | [#1](https://osu.ppy.sh/community/matches/68728519) |
+| **maggie  team** | **5** | 1 | Piolin Y  PalomAsh | [#1](https://osu.ppy.sh/community/matches/68742436) |
+| Weirdchamps | 4 | **5** | **Shiister  Fanclub** | [#1](https://osu.ppy.sh/community/matches/68738732) |
+| **Narumi  is ET** | **0** | -1 | pollos | *win by default* |
+| **Team  Irone** | **5** | 0 | momento colta | [#1](https://osu.ppy.sh/community/matches/68729329) |
+| **SMOrcat** | **5** | 0 | Leen  Bakker | [#1](https://osu.ppy.sh/community/matches/68724121) |
+| **Happy  Birthday ZayyKen** | **5** | 0 | Mai Chai  Kon | [#1](https://osu.ppy.sh/community/matches/68714275) |
+
+Sunday 25, October 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Piolin Y  PalomAsh** | **5** | 0 | SiniGang | [#1](https://osu.ppy.sh/community/matches/68765454) |
+| **maggie  team** | **5** | 1 | Please  don't pick LN | [#1](https://osu.ppy.sh/community/matches/68783150) |
+| **Shiister  Fanclub** | **5** | 3 | Ball Of  Duty | [#1](https://osu.ppy.sh/community/matches/68781719) |
+| **MY 2.5 +  TH 1.5** | **5** | 0 | -Simp-  And the Simps | [#1](https://osu.ppy.sh/community/matches/68777118) |
+| **MY 2.5 +  TH 1.5** | **5** | 1 | Narumi  is ET | [#1](https://osu.ppy.sh/community/matches/68778813) |
+| **-Simp-  And the Simps** | **0** | -1 | pollos | *win by default* |
+| **AndreyMinecraft** | **5** | 0 | A Casa  Greedom | [#1](https://osu.ppy.sh/community/matches/68800123) |
+| **AndreyMinecraft** | **5** | 0 | Boacasio  & Hariel | [#1](https://osu.ppy.sh/community/matches/68804223) |
+| **How to  SV** | **0** | -1 | momento  colta | *win by default* |
+| **Leen  Bakker** | **5** | 1 | Xi Yang  Hong | [#1](https://osu.ppy.sh/community/matches/68780850) |
+| **Happy  Birthday ZayyKen** | **5** | 0 | YoZoSoft | [#1](https://osu.ppy.sh/community/matches/68770638) |
+
+Friday 30, October 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Team  Irone** | **5** | 4 | How to  SV | [#1](https://osu.ppy.sh/community/matches/69022983) |
+| **SMOrcat** | **5** | 0 | Xi Yang  Hong | [#1](https://osu.ppy.sh/community/matches/69023415) |
+| Peppynillos  Guerreros | 4 | **5** | **Mai Chai  Kon** | [#1](https://osu.ppy.sh/community/matches/69028548) |
+
+Saturday 31, October 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **N.Z.  Owen Was Her?** | **5** | 1 | 0x5f375a86 | [#1](https://osu.ppy.sh/community/matches/69073983) |
+| **0x5f375a86** | **5** | 0 | Bald  meiling | [#1](https://osu.ppy.sh/community/matches/69077272) |
+| **The  Master of the Shadows** | **5** | 1 | N.Z.  Owen Was Her? | [#1](https://osu.ppy.sh/community/matches/69077082) |
+| **The  Master of the Shadows** | **5** | 0 | Bald  meiling | [#1](https://osu.ppy.sh/community/matches/69080839) |
+| Please  don't pick LN | 3 | **5** | **Piolin Y  PalomAsh** | [#1](https://osu.ppy.sh/community/matches/69088452) |
+| **I want  to lick Reimu's armpits** | **5** | 4 | Shiister  Fanclub | [#1](https://osu.ppy.sh/community/matches/69083168) |
+| **I want  to lick Reimu's armpits** | **5** | 1 | Weirdchamps | [#1](https://osu.ppy.sh/community/matches/69094218) |
+| **MY 2.5 +  TH 1.5** | **0** | -1 | pollos | *win by default* |
+| **yuyupa** | **5** | 0 | A Casa  Greedom | [#1](https://osu.ppy.sh/community/matches/69062382) |
+| **AndreyMinecraft** | **5** | 0 | yuyupa | [#1](https://osu.ppy.sh/community/matches/69078624) |
+| **yuyupa** | **5** | 1 | Boacasio  & Hariel | [#1](https://osu.ppy.sh/community/matches/69080871) |
+| **momento  colta** | **0** | -1 | Arrow  Gang | *win by default* |
+| **Leen  Bakker** | **5** | 0 | Llamas  maniaticas | [#1](https://osu.ppy.sh/community/matches/69100664) |
+| **Peppynillos  Guerreros** | **5** | 1 | YoZoSoft | [#1](https://osu.ppy.sh/community/matches/69078730) |
+
+Sunday 1, November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **N.Z.  Owen Was Her?** | **5** | 1 | Bald  meiling | [#1](https://osu.ppy.sh/community/matches/69128781) |
+| **maggie  team** | **5** | 0 | SiniGang | [#1](https://osu.ppy.sh/community/matches/69127060) |
+| **Ball Of  Duty** | **5** | 0 | Weirdchamps | [#1](https://osu.ppy.sh/community/matches/69132366) |
+| **I want  to lick Reimu's armpits** | **5** | 0 | Ball Of  Duty | [#1](https://osu.ppy.sh/community/matches/69138203) |
+| **Narumi  is ET** | **5** | 1 | -Simp-  And the Simps | [#1](https://osu.ppy.sh/community/matches/69130531) |
+| Boacasio  & Hariel | 1 | **5** | **A Casa  Greedom** | [#1](https://osu.ppy.sh/community/matches/69155311) |
+| **Team  Irone** | **0** | -1 | Arrow  Gang | *win by default* |
+| **How to  SV** | **0** | -1 | Arrow  Gang | *win by default* |
+| **SMOrcat** | **5** | 1 | Llamas  maniaticas | [#1](https://osu.ppy.sh/community/matches/69134936) |
+| **Happy  Birthday ZayyKen** | **5** | 0 | Peppynillos  Guerreros | [#1](https://osu.ppy.sh/community/matches/69134977) |
+
+Monday 2,November 2020:
+
+| Blue Team |  |  | Red Team | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Llamas  maniaticas | 0 | 0 | Xi Yang  Hong | *nullified* |
+
 ## Ruleset
 
 ### General ruleset
@@ -268,14 +455,14 @@ This competition has come to an end and resulted in the following podium:
      4. Winner of the sudden death.
         - Sudden death match: BO9 with random Tiebreaker pick from the mappool.
 3. Round of 16
-   - 13 maps + 1 Tiebreaker. BO9.
+   - 13 maps + 1 Tiebreaker. BO11.
 4. Quarterfinals
-   - 13 maps + 1 Tiebreaker. BO9.
+   - 13 maps + 1 Tiebreaker. BO11.
 5. Semifinals
-   - 15 maps + 1 Tiebreaker. BO11.
-6. Finals - Week 1
-   - 15 maps + 1 Tiebreaker. BO11.
-7. Finals - Week 2
+   - 15 maps + 1 Tiebreaker. BO13.
+6. Finals
+   - 15 maps + 1 Tiebreaker. BO13.
+7. Grand Finals
    - 15 maps + 1 Tiebreaker. BO13.
 
 [flag_AR]: /wiki/shared/flag/AR.gif	"Argentina"
