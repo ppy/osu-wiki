@@ -423,8 +423,8 @@ Monday, 16 September 2019:
    - In the Round of 16 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
    - In the Semifinals and the Finals (except for the Lower Bracket Final and the Grand Final), each player needs to win 6 points in order to win a match. (Best-of-11)
    - In the Lower Bracket Final and the Grand Final, each player needs to win 7 points in order to win the match. (Best-of-13)
-   - Player(s) who Win By Default.
-   - Whether there are player(s) who are disqualified from the tournament.
+   - Players who Win By Default.
+   - Whether there are players who are disqualified from the tournament.
 
 ### Match regulations
 
