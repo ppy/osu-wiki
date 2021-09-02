@@ -428,7 +428,7 @@ Monday, 16 September 2019:
 
 ### Match regulations
 
-1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
+1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the ban and pick order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group stage lobbies.
 2. Each player is obligated to ban one beatmap from the mappool. All banned beatmaps are not allowed to be picked by any player in the match.
