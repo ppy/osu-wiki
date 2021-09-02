@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 - FreeMod
-  - [Various Artists - Jack Complexes Vol1.A (deceleration) \[ZOU+\ [Sumika\]\]](https://osu.ppy.sh/beatmapsets/1195487#mania/2490415)
+  - [Various Artists - Jack Complexes Vol1.A (deceleration) \[ZOU+ \[Sumika\]\]](https://osu.ppy.sh/beatmapsets/1195487#mania/2490415)
   - [t+pazolite - Luv-Lab-Poison 22ate! (Zestiri9) \[Toxic!\]](https://osu.ppy.sh/beatmapsets/1286065#mania/2670406)
   - [Nanahira - Monosugoi ikioide keine ga monosugoi uta (SaltedFISSH) \[Revolution!!!\]](https://osu.ppy.sh/beatmapsets/1258005#mania/2615107)
   - [Halozy - Serenade of Love (Hydria) \[Hard\]](https://osu.ppy.sh/beatmapsets/1042429#mania/2178504)
