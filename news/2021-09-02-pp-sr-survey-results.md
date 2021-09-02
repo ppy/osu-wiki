@@ -12,7 +12,7 @@ Two weeks of voting later, and we now have a pretty solid picture of where the c
 
 Interested in how it all went down?
 
-[**Check out the full survey results here!**](https://assets.ppy.sh/pp-survey-results/viewer.htm?v=10)
+[**Check out the full survey results here!**](https://assets.ppy.sh/pp-survey-results/viewer.htm?v=1337)
 
 The buttons on the side will group the results of the vote by rank group to help you get a better idea of where things sit higher (or lower) on the ladder and to make quick comparisons between them.
 
