@@ -309,6 +309,7 @@ Saturday, 18 March 2017:
 | --: | :-: | :-: | :-- | :-- |
 | Spare Fish | -1 | **0** | **benis** | *forfeit* |
 | **benis** | **7** | 6 | Spare Fish |  |
+
 ### Finals
 
 #### Winners Finals
