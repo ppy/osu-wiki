@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Survey Results: Performance Points & Star Rating"
+title: "Results - Performance Points & Star Rating Survey"
 date: 2021-09-02 08:00:00 +0000
 ---
 
@@ -20,6 +20,6 @@ As an aside, we originally intended to run another version of this survey delibe
 
 We're also choosing to avoid analyzing the results too extensively, as the survey is intended to be a reference point going forward for both the developers and the community at large over anything else.
 
-Thank you to everyone who participated, and we'll be taking your feedback on board to help us determine the way forward.
+Thank you to everyone who participated. You can be assured that the team (and contributors helping with SR and PP updates) will be taking your feedback on board to help determine the way forward.
 
 —osu!team
