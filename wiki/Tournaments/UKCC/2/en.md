@@ -30,9 +30,8 @@ The UK Community Cup 2 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
-| Mappool selector | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| Mappool selector | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/5182050), ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572), ![][flag_MY] [\[ -Scarlet- \]](https://osu.ppy.sh/users/2427693), |
 | Streamer | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Zainny](https://osu.ppy.sh/users/4621060), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_GB] [Helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), |
-| Commentator | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
 | Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850), ![][flag_GB] [minorman4](https://osu.ppy.sh/users/4837257), ![][flag_GB] [minorman4](https://osu.ppy.sh/users/6566765), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [- Isozaki -](https://osu.ppy.sh/users/3987676), ![][flag_GB] [Pobe](https://osu.ppy.sh/users/6340618) |
 
 ## Links
@@ -304,10 +303,12 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| Spare Fish | 6 | **7** | **benis** |
+Saturday, 18 March 2017:
 
+| Team 1 |  |  | Team 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| Spare Fish | -1 | **0** | **benis** | *forfeit* |
+| **benis** | **7** | 6 | Spare Fish |  |
 ### Finals
 
 #### Winners Finals
@@ -689,9 +690,12 @@ Wednesday, 1 February 2017:
 - Semifinals will be BO11 (first to 6).
 - Finals and the Grand Final will be BO13 (first to 7).
 
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_GR]: /wiki/shared/flag/GR.gif "Greece"
 [flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
