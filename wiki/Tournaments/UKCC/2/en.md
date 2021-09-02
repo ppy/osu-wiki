@@ -25,7 +25,7 @@ The **UK Community Cup 2** (***UKCC2***) was a British 2v2 double-elimination os
 
 ## Organisation
 
-The UK Community Cup 2 is run by various community members.
+The UK Community Cup 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -671,7 +671,7 @@ Wednesday, 1 February 2017:
 
 ### Mapools
 
-- Each mappool will consist of 6 NoMod, 3 HD, 3 HR, 3 DT, 3 Freemod and 1 Tiebreaker map.
+- Each mappool will consist of 6 NoMod, 3 HD, 3 HR, 3 DT, 3 Freemod and 1 Tiebreaker maps.
 - In a Freemod pick, both teams are able to choose between a combination of HD/HR. One player on each team is required to pick a mod.
 - The Tiebreaker follows Freemod rules but players are not required to pick a mod.
 
