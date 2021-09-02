@@ -9,7 +9,7 @@ tags:
 
 ![](img/notelock.gif "Example of note lock: the second note is inaccessible")
 
-**Note lock** is a gameplay mechanic of [osu!](/wiki/Game_mode/osu!) which may prevent a player from clearing a hit object. It happens if **two** conditions are met at the same time:
+**Note lock** is an informal term for a gameplay mechanic of [osu!](/wiki/Game_mode/osu!) which may prevent a player from clearing a hit object. It happens if **two** conditions are met at the same time:
 
 1. The [timing windows](/wiki/Beatmapping/Overall_difficulty#timing) of two hit objects overlap.
 2. The first object of those two has not been judged yet (hit or missed).
