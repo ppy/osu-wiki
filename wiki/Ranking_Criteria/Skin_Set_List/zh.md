@@ -189,7 +189,7 @@ Catchers 应该居中，宽度为 302px。
 | 文件名 | 注释 | 要求 | 标准皮肤的推荐尺寸 |
 | --: | :-: | :-: | :-: |
 | scorebar-bg.png | 应该与 scorebar-colour(-n).png 一起使用 | 必须 | - |
-| scorebar-colour(-n).png | 应该与 scorebar-bg.png 一起使用 | 必须 | - |
+| scorebar-colour(-n).png | 应该与 scorebar-bg.png 一起使用 | 必须 | 最高: 120px |
 | scorebar-ki.png | - | 必须 | - |
 | scorebar-kidanger.png | - | 必须 | - |
 | scorebar-kidanger2.png | - | 必须 | - |
