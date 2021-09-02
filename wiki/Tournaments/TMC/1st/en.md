@@ -48,21 +48,15 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1143215)
-
 - [Registration form](https://forms.gle/3K7oxBXehL6W9Zy76 "Google Forms")
-
 - [Discord server](https://discord.gg/NQkEKqj "Discord")
-
 - [Challonge](https://challonge.com/zh_CN/TMC1st "Challonge")
-
 - [Mappool recommendation](https://forms.gle/vD28kudECmMqppyw9 "Google Forms")
-
 - Livestream
   - [Tamaki Iroha](https://live.bilibili.com/4353181 "Bilibili")
   - [kj415j45](https://okinawa.loli.land/live "Bilibili")
   - [aiyulu](https://live.bilibili.com/10183 "Bilibili")
   - [Tigerest](https://live.bilibili.com/869246 "Bilibili")
-  
 - [Statistics sheet](https://docs.qq.com/sheet/DSXlsQ2NmeGhySGxD "Tencent Docs")
 
 ## Participants
@@ -70,8 +64,8 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 | Team | Members |
 | :--| :-- |
 | Rikka Gathering | ![][flag_US] [FBI Chan](https://osu.ppy.sh/users/15834583), ![][flag_CA] [XenoPenguino](https://osu.ppy.sh/users/12045254) |
-| Team Irone | ![][flag_MY] [-Wick-](https://osu.ppy.sh/users/10938928), ![][flag_TW] [Pdog4ni](https://osu.ppy.sh/users/14581544), ![][flag_TW] [shinkuan](https://osu.ppy.sh/users/11066459), ![][flag_TW] [ Snow Rabbit ](https://osu.ppy.sh/users/1833280) |
-| Peppynillos Guerreros | ![][flag_ES] [Froggie09](https://osu.ppy.sh/users/14332005),![][flag_ES] [game_maker26](https://osu.ppy.sh/users/4876699), ![][flag_ES] [Winds PCH](https://osu.ppy.sh/users/12200022), ![flag_ES] [Kracohc](https://osu.ppy.sh/users/11554942) |
+| Team Irone | ![][flag_MY] [-Wick-](https://osu.ppy.sh/users/10938928), ![][flag_TW] [Pdog4ni](https://osu.ppy.sh/users/14581544), ![][flag_TW] [shinkuan](https://osu.ppy.sh/users/11066459), ![][flag_TW] [Snow Rabbit](https://osu.ppy.sh/users/1833280) |
+| Peppynillos Guerreros | ![][flag_ES] [Froggie09](https://osu.ppy.sh/users/14332005),![][flag_ES] [game_maker26](https://osu.ppy.sh/users/4876699), ![][flag_ES] [Winds PCH](https://osu.ppy.sh/users/12200022), ![][flag_ES] [Kracohc](https://osu.ppy.sh/users/11554942) |
 | The Master of the Shadows | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [MsD_Mafufu](https://osu.ppy.sh/users/10884561) |
 | XYH | ![][flag_CN] [FFFflyhigh](https://osu.ppy.sh/users/9182179), ![][flag_CN] [cirno_0](https://osu.ppy.sh/users/12389140), ![][flag_CN] [basket_ball](https://osu.ppy.sh/users/10848528), ![][flag_CN] [shizehao](https://osu.ppy.sh/users/4928674) |
 | yuyupa | ![][flag_CN] [yyjshishuaibi](https://osu.ppy.sh/users/10383569), ![][flag_CN] [MrCrystalJoker](https://osu.ppy.sh/users/8526295), ![][flag_CN] [observer233](https://osu.ppy.sh/users/15303552), ![][flag_CN] [Lo_liFish2000](https://osu.ppy.sh/users/8828244) |
@@ -133,7 +127,7 @@ This competition has come to an end and resulted in the following podium:
   - [Xe - Satori Maiden ~ 3rd Eye (Zestiri9) \[Satire Deity 0.95x\]](https://osu.ppy.sh/beatmapsets/1311414#mania/2718111)
   - [Camellia - werewolf howls. \['Growling' Long ver.\] (Zestiri9) \[Star Fang\]](https://osu.ppy.sh/beatmapsets/1303204#mania/2702592)
 - TieBreaker
-  -  **[Camellia - Tojita Sekai (MyZterioN-) \[Last Defiance\]](https://osu.ppy.sh/beatmapsets/930473#mania/1971631)**
+  - **[Camellia - Tojita Sekai (MyZterioN-) \[Last Defiance\]](https://osu.ppy.sh/beatmapsets/930473#mania/1971631)**
 
 ### Finals
 
@@ -243,13 +237,13 @@ Monday, 7 December 2020:
 
 | Blue Team |  |  | Red Team | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **MY 2.5 +  TH 1.5** | **7** | 4 | yuyupa |[#1](https://osu.ppy.sh/community/matches/71081449), [#2](https://osu.ppy.sh/community/matches/71135584)|
+| **MY 2.5 +  TH 1.5** | **7** | 4 | yuyupa | [#1](https://osu.ppy.sh/community/matches/71081449), [#2](https://osu.ppy.sh/community/matches/71135584) |
 
 Sunday, 6 December 2020:
 
 | Blue Team |  |  | Red Team | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| SMOrcat | 0 | **7** | **yuyupa** |[#1](https://osu.ppy.sh/community/matches/71077642)|
+| SMOrcat | 0 | **7** | **yuyupa** | [#1](https://osu.ppy.sh/community/matches/71077642) |
 
 ### Finals 
 
@@ -317,7 +311,7 @@ Sunday 15, November 2020:
 | **yuyupa** | **6** | 2 | Shiister  Fanclub | [#1](https://osu.ppy.sh/community/matches/69886993) |
 | The  Master of the Shadows | 1 | **6** | **SMOrcat** | [#1](https://osu.ppy.sh/community/matches/69887029) |
 
-### Round Of 16										
+### Round Of 16
 
 Saturday 7, November 2020:
 
@@ -465,26 +459,26 @@ Monday 2,November 2020:
 7. Grand Finals
    - 15 maps + 1 Tiebreaker. BO13.
 
-[flag_AR]: /wiki/shared/flag/AR.gif	"Argentina"
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BR]: /wiki/shared/flag/BR.gif	"Brazil"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif	"Chile"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FR]: /wiki/shared/flag/FR.gif	"France"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_MA]: /wiki/shared/flag/MA.gif	"Morocco"
+[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NZ]: /wiki/shared/flag/NZ.gif	"New Zealand"
-[flag_PE]: /wiki/shared/flag/PE.gif	"Peru"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif	"Thailand"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
