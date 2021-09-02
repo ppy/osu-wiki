@@ -62,7 +62,7 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 ## Participants
 
 | Team | Members |
-| :--| :-- |
+| :-- | :-- |
 | Rikka Gathering | ![][flag_US] [FBI Chan](https://osu.ppy.sh/users/15834583), ![][flag_CA] [XenoPenguino](https://osu.ppy.sh/users/12045254) |
 | Team Irone | ![][flag_MY] [-Wick-](https://osu.ppy.sh/users/10938928), ![][flag_TW] [Pdog4ni](https://osu.ppy.sh/users/14581544), ![][flag_TW] [shinkuan](https://osu.ppy.sh/users/11066459), ![][flag_TW] [Snow Rabbit](https://osu.ppy.sh/users/1833280) |
 | Peppynillos Guerreros | ![][flag_ES] [Froggie09](https://osu.ppy.sh/users/14332005),![][flag_ES] [game_maker26](https://osu.ppy.sh/users/4876699), ![][flag_ES] [Winds PCH](https://osu.ppy.sh/users/12200022), ![][flag_ES] [Kracohc](https://osu.ppy.sh/users/11554942) |
@@ -102,7 +102,7 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
-| :--| :-- |
+| :-- | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | MY 2.5 + TH 1.5 (![][flag_MY] [Expired112](https://osu.ppy.sh/users/8782656), ![][flag_MY] [Unicow](https://osu.ppy.sh/users/9444174), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_TH] [osu_player420](https://osu.ppy.sh/users/13018880)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | yuyupa (![][flag_CN] [yyjshishuaibi](https://osu.ppy.sh/users/10383569), ![][flag_CN] [MrCrystalJoker](https://osu.ppy.sh/users/8526295), ![][flag_CN] [observer233](https://osu.ppy.sh/users/15303552), ![][flag_CN] [Lo_liFish2000](https://osu.ppy.sh/users/8828244)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | SMOrcat (![][flag_TW] [Joylintp](https://osu.ppy.sh/users/13579078), ![][flag_TW] [opl95173](https://osu.ppy.sh/users/7227070), ![][flag_TW] [LaoXiao-](https://osu.ppy.sh/users/2393571), ![][flag_TW] [mmi366127](https://osu.ppy.sh/users/2393571)) |
