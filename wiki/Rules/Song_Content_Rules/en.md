@@ -12,7 +12,7 @@ With a wide variety of music available, most tracks will be fine for use in osu!
 
 In the interests of keeping a game about rhythm strictly about rhythm and in accordance with [Community Rule](/wiki/Rules#community-rules) #3, content which is deemed excessively political by the administration is disallowed.
 
-We adhere to no one particular "end" of a political spectrum—osu! is strictly apolitical and we want people to enjoy themselves, not start feuds or quabble over politics.
+We adhere to no one particular "end" of a political spectrum—osu! is strictly apolitical and we want people to enjoy themselves, not start feuds or squabble over politics.
 
 ## What happens if my track isn't okay?
 
