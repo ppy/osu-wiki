@@ -8,7 +8,7 @@ tags:
 
 ![SEAC logo](img/logo.gif)
 
-The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament was restricted to South East Asian countries only. It was the third installment of the osu!mania South East Asia Champion.
+The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament was restricted to South East Asian countries only. It was the third instalment of the osu!mania South East Asia Champion.
 
 ## Tournament schedule
 
@@ -28,9 +28,9 @@ The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-e
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "SEAC 2020 winner badge")
 
@@ -254,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[PSYQUI - Hysteric Night Girl feat. Such (android52 Edit) (Evening) \[whiskey\]](https://osu.ppy.sh/beatmapsets/1086072#mania/2476309)**
 
-### Post-Qualifiers
+### Post-qualifiers
 
 - FreeMod
   - [BlueWind - OVER THE SKYLiNE (MyZterioN-) \[Horizon [edit]\]](https://osu.ppy.sh/beatmapsets/1131572#mania/2363659)
@@ -376,7 +376,7 @@ Sunday, 17 January 2021:
 | Polytetral ![][flag_SG] | 2 | **5** | ![][flag_VN] CPT\_Sivelia | [#1](https://osu.ppy.sh/community/matches/73606440) |
 | TriDoanGaming ![][flag_VN] | **5** | 1 | ![][flag_TH] HowToBeIntel | [#1](https://osu.ppy.sh/community/matches/73607754) |
 
-### Post-Qualifiers
+### Post-qualifiers
 
 Friday, 8 January 2021:
 

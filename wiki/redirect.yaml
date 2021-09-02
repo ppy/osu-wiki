@@ -47,7 +47,9 @@
 "qualified":                   "Beatmap/Category#qualified"
 "loved":                       "Beatmap/Category#loved"
 "pending":                     "Beatmap/Category#pending"
-"graveyarded":                 "Graveyard"
+"dead":                        "Beatmap/Category#graveyard"
+"graveyard":                   "Beatmap/Category#graveyard"
+"graveyarded":                 "Beatmap/Category#graveyard"
 
 "beatmap_packs":               "Beatmap/Packs"
 "beatmap_pack":                "Beatmap/Packs"
@@ -212,7 +214,8 @@
 "game_modifier/9k":            "Game_modifier/xk"
 "xk":                          "Game_modifier/xk"
 
-"acc":                         "Accuracy"
+"acc":                         "Gameplay/Accuracy"
+"accuracy":                    "Gameplay/Accuracy"
 "approach_circle":             "Hit_object/Approach_circle"
 "aspire":                      "Contests/Aspire"
 "authentic":                   "Beatmap/Authentic"
@@ -1416,8 +1419,9 @@
 # Grouped osu! Riverside LAN tournaments
 "tournaments/male": "Tournaments/osu!_Riverside/MALE"
 
-# Removed About because Main Page does it better
+# Removed About and Welcome because Main Page does it better
 "about": "Main_Page"
+"welcome": "Main_Page"
 
 # Moved Scaling BPM article of Ranking Criteria up one level
 "ranking_criteria/osu!/scaling_bpm": "Ranking_Criteria/Scaling_BPM"

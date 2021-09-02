@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
+---
+
 # Project Loved
 
 **Project Loved** adalah platform/wadah pemungutan suara yang mempromosikan beatmap ke kategori [Loved](/wiki/Beatmap/Category#loved). Program ini dijalankan oleh [Project Loved Team](/wiki/People/Project_Loved_Team).

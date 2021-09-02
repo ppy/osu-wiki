@@ -8,7 +8,7 @@ tags:
 
 ![o!AOT2 logo](img/logo.jpg)
 
-The **osu! Asia Oceania Tournament 2** (***o!AOT2***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). The tournament was restricted to players within the Asia and Oceania countries only. It was the second installment of the osu! Asia Oceania Tournament.
+The **osu! Asia Oceania Tournament 2** (***o!AOT2***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). The tournament was restricted to players within the Asia and Oceania countries only. It was the second instalment of the osu! Asia Oceania Tournament.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ The osu! Asia Oceania Tournament 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) |
-| Map selector | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_VN] [LMT](https://osu.ppy.sh/users/7262798), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
+| Mappool selector | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_VN] [LMT](https://osu.ppy.sh/users/7262798), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
 | Referee | ![][flag_KR] [Cherry bomb](https://osu.ppy.sh/users/11584205), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495), ![][flag_HK] [Finley On Cocoa](https://osu.ppy.sh/users/10141298), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_CN] [MyAngelJackWang](https://osu.ppy.sh/users/3665920), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632) |
 | Streamer | ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
 | Commentator | ![][flag_GR] [JackPaX](https://osu.ppy.sh/users/11226645), ![][flag_SG] [O-Tae](https://osu.ppy.sh/users/13430124), ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462), ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |

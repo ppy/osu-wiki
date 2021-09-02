@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
+---
+
 # Pedoman Penggunaan Konten
 
 Sebagai mapper, kamu harus memiliki izin dari pemegang hak cipta baik untuk aset audio/visual/gameplay yang termasuk dalam kiriman beatmap kamu. Jika kamu mengirim tanpa disertai perizinan ini, beatmap kamu berisiko dihapus dan juga aksesmu bisa ditolak ke sistem pengajuan beatmap sesuai dengan [kebijakan hak cipta osu!](/wiki/Legal/Copyright).

@@ -8,7 +8,7 @@ tags:
 
 ![ATT 2021 logo](img/logo.jpg)
 
-The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235). The tournament was restricted to players within the Southeast Asian countries only. It was the seventh installment of the Ausu!Taiko Tournament.
+The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235). The tournament was restricted to players within the Southeast Asian countries only. It was the seventh instalment of the Ausu!Taiko Tournament.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 o
 | --: | :-- |
 | Registration phase | 2021-03-29/2021-04-05 |
 | Reveal of seedings and groups | 2021-04-18 |
-| Group Stage | 2021-04-24/2021-04-25 |
+| Group stage | 2021-04-24/2021-04-25 |
 | Round of 16 | 2021-05-01/2021-05-02 |
 | Quarterfinals | 2021-05-08/2021-05-09 |
 | Semifinals | 2021-05-15/2021-05-16 |
@@ -220,7 +220,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Quaoar (Nepuri) \[Transneptunian\]](https://osu.ppy.sh/beatmapsets/931741#taiko/1945451)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (53 MB)](https://drive.google.com/file/d/1_9FfeVHDMf3fMae8ZxMMWkrEESVETm-r/view?usp=sharing "Google Drive")**
 
@@ -330,7 +330,7 @@ Sunday, 2 May 2021:
 | **tzechi** ![][flag_SG] | **5** | 3 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/82351619) |
 | **apaajaboleh10** ![][flag_ID] | **5** | 1 | ![][flag_SG] Prehistoria | [#1](https://osu.ppy.sh/community/matches/82353782) |
 
-### Group Stage
+### Group stage
 
 Saturday, 24 April 2021:
 

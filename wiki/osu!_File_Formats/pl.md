@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Format plików osu!
 
 ## Specyficzne formaty plików osu!

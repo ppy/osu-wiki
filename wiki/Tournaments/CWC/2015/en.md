@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2015 logo](img/logo.png)
 
-The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth installment of the osu!catch World Cup.
+The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based 
 | --: | :-- |
 | Registration phase | 2015-04-02/2015-04-19 |
 | Live drawings | 2015-05-02 (14:00 UTC) |
-| Group Stage | 2015-05-09/2015-05-10 |
+| Group stage | 2015-05-09/2015-05-10 |
 | Round of 16 | 2015-05-16 |
 | Quarterfinals | 2015-05-23/2015-05-24 |
 | Semifinals | 2015-05-30/2015-05-31 |
@@ -27,9 +27,9 @@ The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based 
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, special user title, osu! merchandise |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge, special user title, osu! merchandise |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, unique profile badge |
 
 ![](img/badge.jpg "CWC 2015 winner badge") ![](img/badge2.jpg "CWC 2015 2nd place badge") ![](img/badge3.jpg "CWC 2015 3rd place badge")
 
@@ -98,9 +98,11 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 | ![][flag_PH] Philippines | ![][flag_AR] Argentina | ![][flag_NL] Netherlands | ![][flag_SG] Singapore | ![][flag_MX] Mexico | ![][flag_HK] Hong Kong | ![][flag_JP] Japan | ![][flag_TH] Thailand |
 | ![][flag_FR] France | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_PL] Poland | ![][flag_CN] China | Indonesia ![][flag_ID] | ![][flag_DE] Germany | ![][flag_IT] Italy |
 
-![CWC 2015 podium](img/podium.jpg)
+![](img/bracket.jpg "CWC 2015 bracket")
 
-![CWC 2015 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "CWC 2015 podium")
 
 ## Mappools
 
@@ -222,7 +224,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 - Tiebreaker
   - **[Saiya - Remote Control (CLSW) \[Crystal Spec\]](https://osu.ppy.sh/beatmapsets/175623#fruits/423373)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (168 MB)](https://www.mediafire.com/download/2vadd4tk50y1mz1/CWC_2015_Group_Stage.rar "MediaFire")**
 
@@ -333,7 +335,7 @@ Saturday, 16 May 2015:
 | **Germany** ![][flag_DE] | **5** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/16164371) |
 | Argentina ![][flag_AR] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/16166132) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 May 2015:
 

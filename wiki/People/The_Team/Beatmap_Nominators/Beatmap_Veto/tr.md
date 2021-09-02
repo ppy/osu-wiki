@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
+---
+
 # Beatmap vetosu
 
 *Beatmap vetosu* bir [Beatmap Aday Göstericinin](/wiki/People/Beatmap_Nominators) beatmapin kalitesiyle ilgili Dereceli bölümü için uygun olmayacak derecede önemli sorunlar olduğunu düşündüğünde beatmapi Niteliklendirmeden alıkoymasını sağlar. Mapin Niteliklendirme sürecine devam etmesinden önce değinilmesi gerektiğini düşündüğü her türlü kalite sorunu hakkında ayrıntılı bir şekilde tartışma ve konuya açıklık kazandırma arayışı onların temel sorumluluklarındandır.

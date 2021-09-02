@@ -9,7 +9,7 @@ tags:
 
 ![112CT logo](img/banner.png)
 
-The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! tournament started with qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fifth installment of 112's Tournaments series.
+The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! tournament started with qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fifth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! 
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -36,7 +36,7 @@ The 112's Corona Tournament was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Map selector | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_CA] [Sansnaka](https://osu.ppy.sh/users/5543535) |
+| Mappool selector | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_CA] [Sansnaka](https://osu.ppy.sh/users/5543535) |
 | Referee | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_TR] [Hazar](https://osu.ppy.sh/users/6364554), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107), ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852), ![][flag_DE] [takoz53](https://osu.ppy.sh/users/2214428), ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514), ![][flag_TR] [We0l](https://osu.ppy.sh/users/13196066) |
 | Streamer | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [HakoFixed](https://osu.ppy.sh/users/7188447) |
 | Commentator | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107) |
@@ -87,7 +87,7 @@ The 112's Corona Tournament was run by various community members.
 
 ## Podium
 
-![112CT podium](img/podium.png)
+![](img/podium.png "112CT podium")
 
 ## Mappools
 
@@ -269,7 +269,7 @@ Sunday, 3 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Team Big Chungus | 0 | **1** | **SARS-CoV-3** | *-win by default-* |
+| Team Big Chungus | 0 | **1** | **SARS-CoV-3** | *win by default* |
 | **ali vefa fanclub** | **6** | 3 | isim bulamadık | [#1](https://osu.ppy.sh/community/matches/61222339) |
 | **NEŞESİNE YAŞAM** | **6** | 1 | 1.yiz kasmayın | [#1](https://osu.ppy.sh/community/matches/61218558) |
 
@@ -292,7 +292,7 @@ Sunday, 26 April 2020:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SARS-CoV-3** | **5** | 3 | i may be stupid | [#1](https://osu.ppy.sh/community/matches/60915278) |
-| yoo biz 1.yiz | 0 | **1** | **kms** | *-win by default-* |
+| yoo biz 1.yiz | 0 | **1** | **kms** | *win by default* |
 | **ali vefa fanclub** | **5** | 2 | 1.yiz kasmayın | [#1](https://osu.ppy.sh/community/matches/60921181) |
 
 Saturday, 2 May 2020:

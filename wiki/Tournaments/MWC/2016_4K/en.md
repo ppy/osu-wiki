@@ -10,15 +10,15 @@ tags:
 
 ![MWC 4K 2016 logo](img/logo.jpg)
 
-The **osu!mania 4K World Cup 2016** (***MWC 4K 2016***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2016** (***MWC 4K 2016***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2016-06-28/2016-07-17 |
-| Live Drawings | 2016-07-31 (14:00 UTC) |
-| Group Stage | 2016-08-06/2016-08-07 |
+| Live drawings | 2016-07-31 (14:00 UTC) |
+| Group stage | 2016-08-06/2016-08-07 |
 | Round of 16 | 2016-08-13 |
 | Quarterfinals | 2016-08-21 |
 | Semifinals | 2016-08-27/2016-08-28 |
@@ -41,7 +41,7 @@ There was a $1,900 cash prize pool with extra money being added by buying suppor
 
 The osu!mania 4K World Cup 2016 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
@@ -104,9 +104,11 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 | **G** | ![][flag_JP] Japan | ![][flag_DE] Germany | ![][flag_IT] Italy | ![][flag_SE] Sweden |
 | **H** | ![][flag_FR] France | ![][flag_ID] Indonesia | ![][flag_DK] Denmark | ![][flag_MX] Mexico |
 
-![MWC 4K 2016 podium](img/podium.jpg)
+![](img/brackets.jpg "MWC 4K 2016 bracket")
 
-![MWC 4K 2016 bracket](img/brackets.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 4K 2016 podium")
 
 ## Mappools
 
@@ -204,7 +206,7 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (Daikyi) \[Final Voyage\]](https://osu.ppy.sh/beatmapsets/381334#mania/834266)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here!](https://www.mediafire.com/download/p39r1ckct4kjg91/MWC_4K_2016_Group_Stage.rar "MediaFire")**
 
@@ -304,7 +306,7 @@ Saturday, 13 August 2016:
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/27017355) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/27018723) |
 
-### Group Stage
+### Group stage
 
 Saturday, 6 August 2016:
 

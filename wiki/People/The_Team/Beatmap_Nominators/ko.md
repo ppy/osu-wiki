@@ -2,6 +2,8 @@
 tags:
   - BN
   - BNG
+outdated: true
+outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 ---
 
 # 비트맵 노미네이터

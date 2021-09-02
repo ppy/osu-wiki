@@ -255,6 +255,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! UK Tournament 4](OUKT/4) | 2015-01-10 | 2015-08-21 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | N/A |
 | [osu! UK Tournament 5](OUKT/5) | 2015-09-12 | 2016-04-23 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [Kakiage](https://osu.ppy.sh/users/3104031) |
 
+#### osu! Vintage Map Tourney!
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Vintage Map Tourney!](OVMT/1) | 2016-09-01 | 2016-10-03 | ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226) | ![][flag_US] [Catgirl](https://osu.ppy.sh/users/2771995) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| [osu! Vintage Map Tourney 2! Electric Boogaloo!](OVMT/2) | 2017-06-21 | 2017-09-01 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | ![][flag_TW] [Rucker](https://osu.ppy.sh/users/147515) | ![][flag_SI] [krom1](https://osu.ppy.sh/users/4643145) |
+
 #### osu! Z-Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -304,6 +311,22 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [TAG2 Tournament 2019](T2T/2019) | 2019-02-15 | 2019-05-19 | Thank You | osu! schmosu! | yoo whats goodie eh |
 
+#### UK Community Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [UK Community Cup](UKCC/1) | 2016-06-18 | 2016-08-07 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| [UK Community Cup 2](UKCC/2) | 2017-01-14 | 2017-03-05 | benis | Spare Fish | We'll think of something |
+| [UK Community Cup 3](UKCC/3) | 2017-06-01 | 2017-08-20 | ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
+| [UK Community Cup 4](UKCC/4) | 2018-01-27 | 2018-03-11 | One Thrust Men | Sorry Bubble | Nomod since 2014 |
+| [UK Community Cup 5](UKCC/5) | 2018-06-23 | 2018-08-19 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| [UK Community Cup 6](UKCC/6) | 2019-02-23 | 2019-04-07 | Question Mark | 10man? | Boom! Tetris for Benbow! |
+| [UK Community Cup 7](UKCC/7) | 2019-09-07 | 2019-10-27 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373) | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |
+| [UK Community Cup 8](UKCC/8) | 2020-03-28 | 2020-05-17 | 10man? | will is minecart | Gaurdians of Valhalla |
+| [UK Community Cup 9](UKCC/9) | 2020-08-29 | 2020-10-11 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
+| [UK Community Cup X](UKCC/X) | 2021-02-06 | 2021-04-12 | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761) | ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484) |
+| [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | *TBA* | *TBA* | *TBA* |
+
 #### Ulat Bulu Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -317,9 +340,9 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Yaz's Summer Cup 2017](YSC/2017) | 2017-07-21 | 2017-09-30 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | ![][flag_KR] [Cookiezi](https://osu.ppy.sh/users/124493) |
-| [Yaz's Summer Cup 2018](YSC/2018) | 2018-05-13 | 2018-08-12 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| [Yaz's Summer Cup 2019](YSC/2019) | 2019-05-26 | 2019-08-25 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_US] [thaibuy](https://osu.ppy.sh/users/4250296) | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) |
-| [Yaz's Summer Cup 2021](YSC/2021) | 2021-05-28 | 2021-08-15 | TBA | TBA | TBA |
+| [Yaz's Summer Cup 2018](YSC/2018) | 2018-06-16 | 2018-08-12 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| [Yaz's Summer Cup 2019](YSC/2019) | 2019-07-06 | 2019-08-25 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_US] [thaibuy](https://osu.ppy.sh/users/4250296) | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) |
+| [Yaz's Summer Cup 2021](YSC/2021) | 2021-06-25 | 2021-08-22 | ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
 
 #### Yuri Cup
 
@@ -546,6 +569,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania 4K Chinese National Cup 2019](MCNC/2019) | 2019-06-19 | 2019-08-12 | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
+| [osu!mania 4K Chinese National Cup 2020](MCNC/2020) | 2020-04-27 | 2020-06-28 | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) | ![][flag_CN] [Kakuko](https://osu.ppy.sh/users/10413362) | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
+| [osu!mania 4K Chinese National Cup 2021](MCNC/2021) | 2021-04-05 | 2021-06-06 | ![][flag_CN] [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) | ![][flag_CN] [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
 
 #### osu!mania Asian's Champions
 
@@ -692,6 +717,7 @@ Unofficial tournaments/competitions hosted by the communities.
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_SI]: /wiki/shared/flag/SI.gif "Slovenia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"

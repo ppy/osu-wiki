@@ -8,7 +8,7 @@ tags:
 
 ![o!ET 2021 logo](img/logo.jpg)
 
-The **osu! European Tournament 2021** (**o!ET 2021**) was a 4v4 osu! tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133). The tournament was run in tiered-draft format, teams of 8 players were formed post qualifiers with 4 tiers and 2 players filled each tier. The tournament was also rank-restricted to rank between #1 and #30,000. It was the fourth installment of the osu! European Tournament.
+The **osu! European Tournament 2021** (**o!ET 2021**) was a 4v4 osu! tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133). The tournament was run in tiered-draft format, teams of 8 players were formed post qualifiers with 4 tiers and 2 players filled each tier. The tournament was also rank-restricted to rank between #1 and #30,000. It was the fourth instalment of the osu! European Tournament.
 
 ## Tournament schedule
 

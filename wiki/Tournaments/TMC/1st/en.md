@@ -7,7 +7,7 @@ tags:
 
 ![TMC 1st logo](img/logo.png)
 
-The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!mania 4K tournament hosted by ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501). The tournament features a variety of maps related to the Touhou Project. It is the 1st installment of the Touhou Project Mania Cup.
+The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!mania 4K tournament hosted by ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501). The tournament features a variety of maps related to the Touhou Project. It is the first instalment of the Touhou Project Mania Cup.
 
 ## Tournament schedule
 
@@ -16,20 +16,20 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 | Registration phase | 2020-09-14/2020-10-04 |
 | Qualifier | 2020-10-13/2020-10-18 |
 | Live drawings | 2020-10-18 (12:00 UTC) |
-| Group Stage | 2020-10-20/2020-11-01 |
+| Group stage | 2020-10-20/2020-11-01 |
 | Round of 16 | 2020-11-07/2020-11-08 |
 | Quarterfinals | 2020-11-14/2020-11-15 |
 | Semifinals | 2020-11-21/2020-11-22 |
-| Finals - Week 1 | 2020-11-28/2020-11-29 |
-| Finals - Week 2 | 2020-12-05/2020-12-06 |
+| Finals week 1 | 2020-11-28/2020-11-29 |
+| Finals week 2 | 2020-12-05/2020-12-06 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/TMC1st_Winner.png "TMC 1st winner badge")
 

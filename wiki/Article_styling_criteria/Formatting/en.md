@@ -312,7 +312,28 @@ Section headings must use levels 2 to 5. The section heading proceeding the [tit
 
 Section headings must not skip a heading level (i.e. do not go from a level 2 heading to a level 4 heading) and must not contain formatting or links.
 
-*Notice: On the website, heading levels 4 and 5 will not appear in the table of contents. They cannot be linked to directly either.*
+*Notice: On the website, heading levels 4 and 5 will not appear in the table of contents.*
+
+### Custom identifiers
+
+It is possible to redefine a section's identifier, which is used for linking to it directly. Custom identifiers should be used in case the automatically generated ones are too long or contain tricky punctuation marks or images:
+
+<!-- TODO: remove the {id=...} example when https://github.com/ppy/osu-web/issues/8057 is closed -->
+
+```markdown
+## My cooldown has passed. How do I appeal? {#appeal}
+
+## Common restriction reasons and cooldowns {#common-reasons}
+
+## Ideas for a multiplayer match {id=идеи-для-мультиплеера} <!-- alternative syntax for Unicode identifiers -->
+```
+
+This feature can also be used for tagging a specific part of the article which doesn't have a heading. Use it sparingly:
+
+```markdown
+> That's it! You're well on your way to becoming an osu! rhythm champion!
+{#tutorial-quote}
+```
 
 ## Lists
 

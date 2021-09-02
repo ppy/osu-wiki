@@ -28,7 +28,7 @@ There are some very minimal criteria that need to be met for beatmaps to be nomi
 - Its creator is neither banned nor restricted
 - At least one difficulty can be passed
 - It has at least 30 favourites (only applies to osu! maps)
-- Every difficulty has at least 30 seconds of [drain time](/wiki/Gameplay/Drain_time)
+- Every nominated difficulty has at least 30 seconds of [drain time](/wiki/Gameplay/Drain_time)
 
 However, despite nearly all [Pending and Work-in-progress](/wiki/Beatmap/Category#work-in-progress-and-pending) maps meeting these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
 
@@ -37,6 +37,8 @@ Beatmaps entering the Loved category are required to follow some additional rule
 - [The Metadata section of the Ranking Criteria](/wiki/Ranking_Criteria#metadata)
 - [Song Content Rules](/wiki/Rules/Song_Content_Rules)
 - [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations)
+
+Additionally, in order to keep the audio quality of the song at a reasonable level, beatmap's audio files should be from the highest quality source available while having an average bit rate no greater than 192kbps.
 
 Any problems with these rules are usually sorted out while the map is up for voting.
 

@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -11,7 +13,7 @@ Willkommen zum osu!-Wiki. Ein Projekt, das eine große Reichweite an osu!-basier
 
 # Erste Schritte
 
-[Willkommen](/wiki/Welcome) • [Installation](/wiki/Installation) • [Registrierung](/wiki/Registration) • [Hilfe-Center](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Installation](/wiki/Installation) • [Registrierung](/wiki/Registration) • [Hilfe-Center](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

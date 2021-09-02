@@ -10,7 +10,7 @@ tags:
 
 > Unite the Diversity between us!
 
-The **Asian Taiko Showdown 2018** (***ATS 2018***) was a 1v1 double-elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). Previously, ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). It was the second installment of the Asian-Oceanian Taiko Showdown, and an extension from the Indonesia region to Asia.
+The **Asian Taiko Showdown 2018** (***ATS 2018***) was a 1v1 double-elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). Previously, ATS was known as [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070). It was the second instalment of the Asian-Oceanian Taiko Showdown, and an extension from the Indonesia region to Asia.
 
 ## Tournament schedule
 
@@ -29,7 +29,7 @@ The **Asian Taiko Showdown 2018** (***ATS 2018***) was a 1v1 double-elimination 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag, userpage banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter, userpage banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Userpage banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Userpage banner |
 
@@ -77,13 +77,15 @@ The Asian Taiko Showdown 2018 was run by various osu!taiko community members.
 | **G** | ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
 | **H** | ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651) | ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981) | ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134) |
 
-![](img/podium.jpg "ATS 2018 podium")
-
 ![](img/upper_bracket.jpg "ATS 2018 Upper Bracket")
 
 ![](img/lower_bracket.jpg "ATS 2018 Lower Bracket")
 
 ![](img/gs_participants.gif "ATS 2018 GS participants")
+
+## Podium
+
+![](img/podium.jpg "ATS 2018 podium")
 
 ## Mappools
 
@@ -374,7 +376,7 @@ Saturday, 2 June 2018:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C | **nyanmi-1828** ![][flag_JP] | **4** | 1 | ![][flag_KR] L y s | [#1](https://osu.ppy.sh/community/matches/42979943) |
 | D | **qoot8123** ![][flag_TW] | **4** | 0 | ![][flag_PH] Micka | [#1](https://osu.ppy.sh/community/matches/42979761) |
-| B | Smallwu ![][flag_TW] | 0 | 0 | ![][flag_JP] yyyyyyyyyyypetu | -nullified- |
+| B | Smallwu ![][flag_TW] | 0 | 0 | ![][flag_JP] yyyyyyyyyyypetu | *nullified* |
 | G | **ayomikasa** ![][flag_ID] | **4** | 0 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/42980581) |
 | F | **butter0414** ![][flag_JP] | **4** | 1 | ![][flag_ID] Niko-nyan | [#1](https://osu.ppy.sh/community/matches/42981652) |
 | H | **Jmeh07** ![][flag_PH] | **4** | 3 | ![][flag_JP] GlinT fraulein | [#1](https://osu.ppy.sh/community/matches/42981801) |
@@ -385,7 +387,7 @@ Saturday, 2 June 2018:
 | F | **Niko-nyan** ![][flag_ID] | **4** | 1 | ![][flag_AU] SpiritsUnite | [#1](https://osu.ppy.sh/community/matches/42983966) |
 | D | **qoot8123** ![][flag_TW] | **4** | 2 | ![][flag_MY] ZethZ161 | [#1](https://osu.ppy.sh/community/matches/42984090) |
 | A | **Jerry** ![][flag_MY] | **4** | 0 | ![][flag_KR] 404 AccNotFound | *win by default* |
-| D | CrabCow ![][flag_MY] | 0 | 0 | ![][flag_PH] Micka | -nullified- |
+| D | CrabCow ![][flag_MY] | 0 | 0 | ![][flag_PH] Micka | *nullified* |
 | E | toorun12 ![][flag_JP] | 1 | **4** | ![][flag_JP] **Sanawieck** | [#1](https://osu.ppy.sh/community/matches/42985601) |
 | F | **butter0414** ![][flag_JP] | **4** | 0 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/42985633) |
 | B | **Smallwu** ![][flag_TW] | **4** | 0 | ![][flag_MY] Dakry | [#1](https://osu.ppy.sh/community/matches/42987313) |

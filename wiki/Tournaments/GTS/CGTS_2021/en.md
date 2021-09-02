@@ -9,7 +9,7 @@ tags:
 
 ![CGTS 2021 logo](img/logo.jpg)
 
-The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) was a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). The tournament had a regional phase and a global phase: the regional phase was a 1v1 bracket to find the best players on each continent, and the global phase was a 4v4 bracket where the top players from each continent face each other. It was the second installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) was a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). The tournament had a regional phase and a global phase: the regional phase was a 1v1 bracket to find the best players on each continent, and the global phase was a 4v4 bracket where the top players from each continent faced each other. It was the second instalment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -238,9 +238,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Asia |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Europe |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | North America |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Asia** (![][flag_JP] **[uone](https://osu.ppy.sh/users/5321719)**, ![][flag_JP] [C-light](https://osu.ppy.sh/users/7955738), ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073), ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950), ![][flag_JP] [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ![][flag_JP] [Six b0xes](https://osu.ppy.sh/users/8303357), ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Europe** (![][flag_IT] **[LordEnder](https://osu.ppy.sh/users/4609767)**, ![][flag_IT] [A-40](https://osu.ppy.sh/users/14510301), ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_DE] [Xayphon](https://osu.ppy.sh/users/961417)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **North America** (![][flag_CA] **[janitore](https://osu.ppy.sh/users/3307897)**, ![][flag_US] [AuroraPhasmata](https://osu.ppy.sh/users/13664116), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_CA] [FusRoYay](https://osu.ppy.sh/users/5207783), ![][flag_CA] [vysha](https://osu.ppy.sh/users/4908773), ![][flag_US] [Whulf](https://osu.ppy.sh/users/11601107)) |
 
 ### Regional phase
 

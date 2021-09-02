@@ -329,7 +329,6 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 ## Voir aussi
 
-- [Modèle pour les articles sur les tournois](/wiki/Tournaments/Template)
 - [Liste des pays qui ont participés dans des tournois d'osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client utilisé pour le streaming de tournoi)
 

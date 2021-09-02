@@ -58,8 +58,8 @@ The **osu!Philippines Summer Tournament 2018** (***oPHST2018***) was a semi-invi
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 2 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 2 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
 ![](img/std.png "oPHST2018 winner badge (osu!)") ![](img/ctb.png "oPHST2018 winner badge (osu!catch)") ![](img/4kmania.png "oPHST2018 winner badge (osu!mania 4K)") ![](img/7Kmania.png"oPHST2018 winner badge (osu!mania 7K)")
 

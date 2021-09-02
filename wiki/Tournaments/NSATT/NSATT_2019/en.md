@@ -8,14 +8,14 @@ tags:
 
 ![NSATT 2019 logo](img/logo.jpg)
 
-The **North & South American Taiko Tournament 2019** (***NSATT 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North and South American countries only. It was the fourth installment of the North & South American Taiko Tournament.
+The **North & South American Taiko Tournament 2019** (***NSATT 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North and South American countries only. It was the fourth instalment of the North & South American Taiko Tournament.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2019-06-01/2019-06-25 |
-| Group Stage | 2019-06-22/2019-06-23 |
+| Group stage | 2019-06-22/2019-06-23 |
 | Round of 16 | 2019-06-29/2019-06-30 |
 | Quarterfinals | 2019-07-06/2019-07-07 |
 | Semifinals | 2019-07-13/2019-07-14 |
@@ -26,9 +26,9 @@ The **North & South American Taiko Tournament 2019** (***NSATT 2019***) was a do
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year of osu!supporter tag (or US$26 ) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag (or US$16) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag (or US$8) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year of osu!supporter (or US$26 ) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter (or US$16) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter (or US$8) |
 
 ![](img/badge.jpg "NSATT 2019 winner badge")
 
@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Primitive Pump (frz) \[Inner PUMP\]](https://osu.ppy.sh/beatmapsets/712424#taiko/1505977)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (57 MB)](https://www.dropbox.com/s/ywc3w1vai12cvv9/NSATT%202019%20-%20Group%20Stage%20Map%20Pack.rar "Dropbox")**
 
@@ -312,7 +312,7 @@ Sunday, 30 June 2019:
 | **BossPlays** ![][flag_AR] | **5** | 4 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/53017178) |
 | **TrolloCat** ![][flag_US] | **5** | 2 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/53022697) |
 
-### Group Stage
+### Group stage
 
 Complete Group Stage match results can be accessed through the [statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPxwqEqzN-miTVZ9fM20aMelIYCwnm1FFJV3M0yn7w8YoBB60lS-hIzpV4l9JOqQ3v9iyTBXHhoOAk/pubhtml "Google Sheets")
 

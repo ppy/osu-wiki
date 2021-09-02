@@ -8,7 +8,7 @@ tags:
 
 ![T2T 2019 logo](img/logo.png)
 
-The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. tournament hosted by ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) and ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178). It was the third installment of the TAG Tournament series. The tournament followed on from ![][flag_NL] [Tayo](https://osu.ppy.sh/users/8910355)'s two previous TAG Tournaments: [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
+The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. tournament hosted by ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) and ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178). It was the third instalment of the TAG Tournament series. The tournament followed on from ![][flag_NL] [Tayo](https://osu.ppy.sh/users/8910355)'s two previous TAG Tournaments: [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
 
 ## Tournament schedule
 
@@ -27,15 +27,15 @@ The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ## Organisation
 
 The TAG2 Tournament 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | --: | :-- |
 | Host | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178) |
 | Co-host | ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
@@ -109,9 +109,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Thank You (![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | osu! schmosu! (![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | yooo whats goodie eh (![][flag_CA] [Vespirit](https://osu.ppy.sh/users/5425046), ![][flag_CA] [neuro](https://osu.ppy.sh/users/3737401)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Thank You** (![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **osu! schmosu!** (![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **yooo whats goodie eh** (![][flag_CA] [Vespirit](https://osu.ppy.sh/users/5425046), ![][flag_CA] [neuro](https://osu.ppy.sh/users/3737401)) |
 
 ## Mappools
 

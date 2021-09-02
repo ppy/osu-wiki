@@ -2,7 +2,7 @@
 
 ![CMT 4K 2017 logo](img/pic.png)
 
-The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) was a 1v1 4K specified Chinese regional osu!mania tournament hosted by the CMT team. It was the second installment of the Chinese osu!mania 4K Tournament.
+The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) was a 1v1 4K specified Chinese regional osu!mania tournament hosted by the CMT team. It was the second instalment of the Chinese osu!mania 4K Tournament.
 
 ## Tournament schedule
 
@@ -24,9 +24,9 @@ All prizes were sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter, profile badge, **CrazyBoard Mark One Keyboard** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -84,6 +84,8 @@ The Chinese osu!mania 4K Tournament 2017 was run by various community members.
 - ![][flag_CN] [WF Night](https://osu.ppy.sh/users/7109100)
 - ![][flag_CN] [wjh123](https://osu.ppy.sh/users/1147820)
 - ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516)
+
+## Podium
 
 ![](img/podium.png "CMT 4K 2017 podium")
 

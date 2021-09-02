@@ -10,7 +10,7 @@ tags:
 
 *См. также: [правила для номинаторов](Rules), [ожидания от номинаторов](Expectations), [общая информация](General_Information), [как стать номинатором](Becoming_a_Beatmap_Nominator)*
 
-**Номинаторы** (также ***BN***, ***БН***) — группа пользователей, занимающихся [номинированием карт на ранк](/wiki/Beatmap_ranking_procedure). На форуме и в обсуждениях карт их имена имеют фиолетовый цвет.
+**Номинаторы** (также ***BN***, ***БН***) — группа пользователей, занимающихся [номинированием карт на ранк](/wiki/Beatmap_ranking_procedure). Их имена имеют фиолетовый цвет на форуме и в [обсуждениях карт](/wiki/Beatmap_Discussion).
 
 ## Роли и обязанности
 
@@ -48,6 +48,7 @@ tags:
 | :-- | :-- |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Индонезийский |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Русский |
+| ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  |
 | ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Японский |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Итальянский |
@@ -64,12 +65,14 @@ tags:
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Китайский |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Китайский |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Индонезийский |
+| ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | Немецкий |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Китайский, частично французский |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Китайский |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Испанский |
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | Французский, немецкий |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Немецкий |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Корейский |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Китайский |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
@@ -77,6 +80,7 @@ tags:
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Русский |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Датский |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
+| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Русский |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Китайский |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
@@ -84,13 +88,12 @@ tags:
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Французский |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Итальянский |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Немецкий |
-| ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Китайский, кантонский диалект |
-| ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Португальский |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Французский |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Французский |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Корейский |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
+| ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | Французский |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Русский |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Русский |
@@ -134,23 +137,27 @@ tags:
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Немецкий, сербский |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Немецкий, частично французский |
+| ![][flag_US] [yenmaster](https://osu.ppy.sh/users/12565402) |  |
 
 #### osu!catch
 
 | Имя | Языки |
 | :-- | :-- |
+| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Тайский |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Китайский, кантонский диалект |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Испанский |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Норвежский |
+| ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | Нидерландский |
 | ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136) | Немецкий |
 | ![][flag_DE] [Du5t](https://osu.ppy.sh/users/6053071) | Немецкий |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Филиппинский |
-| ![][flag_KR] [My Angel RangE](https://osu.ppy.sh/users/6336713) | Корейский |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Русский |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Греческий |
+| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Польский |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_CN] [Souvenir](https://osu.ppy.sh/users/14057792) | Китайский |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
+| ![][flag_BR] [zerokt](https://osu.ppy.sh/users/13776127) | Португальский |
 
 #### osu!mania
 
@@ -165,9 +172,7 @@ tags:
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | Испанский, португальский, галисийский, итальянский, японский |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Филиппинский |
-| ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Индонезийский |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Индонезийский |
-| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Корейский |
 | ![][flag_KR] [Paran](https://osu.ppy.sh/users/13340203) | Корейский |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Китайский, кантонский диалект |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Индонезийский |
@@ -182,45 +187,41 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | Финский |
-| ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_DK] [Akayume](https://osu.ppy.sh/users/10617530) | Датский |
-| ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045) |  |
 | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) |  |
-| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) |  |
-| ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | Немецкий |
+| ![][flag_DE] [FuJu](https://osu.ppy.sh/users/10773882) | Немецкий |
 | ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
-| ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
+| ![][flag_HK] [Kyle Y](https://osu.ppy.sh/users/3565813) | Китайский, кантонский диалект |
+| ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ![][flag_GB] [mrowswares](https://osu.ppy.sh/users/9558549) |  |
-| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | Французский |
+| ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Португальский |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) |  |
 
 #### osu!taiko
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Китайский, кантонский диалект |
-| ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | Итальянский |
-| ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Испанский |
 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Корейский |
+| ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741) | Китайский, кантонский диалект |
+| ![][flag_BR] [Idealism](https://osu.ppy.sh/users/3869519) | Португальский |
 | ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344) | Китайский |
-| ![][flag_US] [yenmaster](https://osu.ppy.sh/users/12565402) |  |
 
 #### osu!catch
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Тайский |
-| ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | Нидерландский |
-| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Польский |
-| ![][flag_BR] [zerokt](https://osu.ppy.sh/users/13776127) | Португальский |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Нидерландский |
+| ![][flag_RU] [Lacrima](https://osu.ppy.sh/users/4915649) | Русский |
+| ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Корейский |
 
 #### osu!mania
 
 | Имя | Языки |
 | :-- | :-- |
+| ![][flag_AU] [DarkistDeci](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) | Индонезийский |
+| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Корейский |
+| ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | Испанский |
 
 ## История
 
@@ -255,7 +256,6 @@ tags:
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Новая Зеландия"
 [flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
 [flag_PL]: /wiki/shared/flag/PL.gif "Польша"
-[flag_PR]: /wiki/shared/flag/PR.gif "Пуэрто-Рико"
 [flag_RU]: /wiki/shared/flag/RU.gif "Российская Федерация"
 [flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
 [flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"

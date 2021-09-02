@@ -71,20 +71,18 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Değerlendirme, moderasyon |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Flemenkçe | Değerlendirme, yapısal |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korece | Değerlendirme |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korece | Değerlendirme, haberleşme |
 
 ### osu!mania
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Almanca, Lehçe | Değerlendirme |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arapça, Fransızca | Değerlendirme |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Değerlendirme |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Cezayir"
 [flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
 [flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"

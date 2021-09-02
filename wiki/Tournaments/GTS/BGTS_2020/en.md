@@ -9,7 +9,7 @@ tags:
 
 ![BGTS 2020 logo](img/logo.jpg)
 
-The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). Only players ranked #8,000 and above can participate. It was the first installment of the Beginners Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). Only players ranked #8,000 and above could participate. It was the first instalment of the Beginners Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) was a worldwide c
 | Registration phase | 2020-11-08/2020-11-22 |
 | Screening and team creations | 2020-11-22/2020-11-29 |
 | Qualifiers | 2020-12-05/2020-12-06 |
-| Group Stage | 2020-12-10/2020-12-13 |
+| Group stage | 2020-12-10/2020-12-13 |
 | Round of 32 | 2020-12-19/2020-12-20 |
 | Round of 16 | 2021-01-09/2021-01-10 |
 | Quarterfinals | 2021-01-15/2021-01-17 |
@@ -368,7 +368,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[PSYQUI feat. Such - Your voice so... (Capu) \[Muzukashii...\]](https://osu.ppy.sh/beatmapsets/1163892#taiko/2436260)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (71 MB)](https://mega.nz/file/8wlxUKSY#Uh6XZdznW68cGIHS03sA5GYDIDbmRdShY27zVg52RfU "MEGA")**
 
@@ -552,7 +552,7 @@ Sunday, 20 December 2020:
 | Portugal ![][flag_PT] | -1 | **0** | ![][flag_BR] **Brazil** | *win by default* |
 | **Ukraine** ![][flag_UA] | **6** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/71929621) |
 
-### Group Stage
+### Group stage
 
 Thursday, 10 December 2020:
 

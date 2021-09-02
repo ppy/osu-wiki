@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -11,7 +13,7 @@ layout: main_page
 
 # Начало работы
 
-[Добро пожаловать](/wiki/Welcome) • [Установка](/wiki/Installation) • [Регистрация](/wiki/Registration) • [Центр помощи](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Установка](/wiki/Installation) • [Регистрация](/wiki/Registration) • [Центр помощи](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - Osu! Tatake! Ouendan
 outdated: true
