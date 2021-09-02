@@ -108,21 +108,21 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | South Korea | ![][flag_KR] | ![][flag_FR] | France | Sep 4 (Sat.) 12:00 UTC | Sep 4 (Sat.) 21:00 UTC+9 | Sep 4 (Sat.) 14:00 UTC+2 | ² |
 | Philippines | ![][flag_PH] | ![][flag_SG] | Singapore | Sep 4 (Sat.) 13:00 UTC | Sep 4 (Sat.) 21:00 UTC+8 | Sep 4 (Sat.) 21:00 UTC+8 | ² |
 | Vietnam | ![][flag_VN] | ![][flag_ID] | Indonesia | Sep 4 (Sat.) 14:00 UTC | Sep 4 (Sat.) 21:00 UTC+7 | Sep 4 (Sat.) 21:00 UTC+7 | ² |
+| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | Sep 4 (Sat.) 19:00 UTC | Sep 4 (Sat.) 20:00 UTC+1 | Sep 4 (Sat.) 16:00 UTC-3 | ¹ |
 
 ### Sunday, September 05, 2021
 
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Vietnam | ![][flag_VN] | ![][flag_PH] | Philippines | Sep 5 (Sun.) 12:00 UTC | Sep 5 (Sun.) 19:00 UTC+7 | Sep 5 (Sun.) 20:00 UTC+8 | ³ |
-| Vietnam | ![][flag_VN] | ![][flag_SG] | Singapore | Sep 5 (Sun.) 12:00 UTC | Sep 5 (Sun.) 19:00 UTC+7 | Sep 5 (Sun.) 20:00 UTC+8 | ³ |
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| United States | ![][flag_US] | ![][flag_MY] | Malaysia | Sep 5 (Sun.) 04:00 UTC | Sep 4 (Sat.) 23:00 UTC-5 | Sep 5 (Sun.) 12:00 UTC+8 | ¹ |
+| Vietnam | ![][flag_VN] | ![][flag_PH] | Philippines | Sep 5 (Sun.) 09:15 UTC | Sep 5 (Sun.) 16:15 UTC+7 | Sep 5 (Sun.) 17:15 UTC+8 | ³ |
 | Indonesia | ![][flag_ID] | ![][flag_PH] | Philippines | Sep 5 (Sun.) 12:00 UTC | Sep 5 (Sun.) 19:00 UTC+7 | Sep 5 (Sun.) 20:00 UTC+8 | ³ |
 | Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Sep 5 (Sun.) 12:00 UTC | Sep 5 (Sun.) 19:00 UTC+7 | Sep 5 (Sun.) 20:00 UTC+8 | ³ |
 | China | ![][flag_CN] | ![][flag_KR] | South Korea | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 21:00 UTC+8 | Sep 5 (Sun.) 22:00 UTC+9 | ³ |
 | China | ![][flag_CN] | ![][flag_FR] | France | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 21:00 UTC+8 | Sep 5 (Sun.) 15:00 UTC+2 | ³ |
 | Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 22:00 UTC+9 | Sep 5 (Sun.) 22:00 UTC+9 | ³ |
 | Japan | ![][flag_JP] | ![][flag_FR] | France | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 22:00 UTC+9 | Sep 5 (Sun.) 15:00 UTC+2 | ³ |
-| United States | ![][flag_US] | ![][flag_MY] | Malaysia | Sep 5 (Sun.) 15:00 UTC | Sep 5 (Sun.) 10:00 UTC-5 | Sep 5 (Sun.) 23:00 UTC+8 | ¹ |
-| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | Sep 5 (Sun.) 17:00 UTC | Sep 5 (Sun.) 18:00 UTC+1 | Sep 5 (Sun.) 14:00 UTC-3 | ¹ |
+| Vietnam | ![][flag_VN] | ![][flag_SG] | Singapore | Sep 5 (Sun.) 14:45 UTC | Sep 5 (Sun.) 21:45 UTC+7 | Sep 5 (Sun.) 22:45 UTC+8 | ³ |
 
 ¹ Winners bracket match\
 ² Losers bracket match\
