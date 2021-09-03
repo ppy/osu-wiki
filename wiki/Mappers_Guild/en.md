@@ -30,13 +30,13 @@ Quests reward mappers for following certain requirements when creating their fea
 
 Each quest has its own party size/rank specifications, price to accept, and deadline. All members of a party must pay the listed price to accept the quest. Prices are usually higher for gimmicky quests and solo quests.
 
-Quests expire after 3 months of inactivity. Any user can re-open quests by spending their available pool of Mappers' Guild points.
+Quests will automatically expire after 3 months of inactivity. Any user can re-open quests by spending their available pool of Mappers' Guild points.
 
 Quest participation is not required for members of the Mappers' Guild. If a user wants to, they may create beatmaps alone to earn rewards.
 
 ### Rewards
 
-Rewards are distributed through a points system. When a user reaches a specified points threshold, they earn a different rank signified by a profile badge. There are three profile badge tiers at 100, 250, and 500 points respectively.
+Rewards are distributed through a points system. When a user reaches a specified points threshold, they earn a different rank signified by a profile badge. There are four profile badge tiers at 100, 250, 500, and 1000 points respectively.
 
 Rewards are based on a user's total points. A user's available points are a subsection of their total points following the same model as osu!'s [kudosu](/wiki/Modding/Kudosu) "total earned" and "available" pools.
 

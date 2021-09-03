@@ -80,7 +80,7 @@ News articles do not use traditional Markdown titles in any capacity whatsoever.
 
 #### Headers
 
-Header levels 1 (``#``), 2 (``##``), and 3 (``###``) can be used. Never use headers to style or format text.
+Header levels 1 (``#``), 2 (``##``), and 3 (``###``) can be used. They have unique identifiers and can be linked directly to. Never use headers to style or format text.
 
 #### Bold
 
@@ -139,11 +139,3 @@ Limited HTML use for the purposes of embedding off-site content such as YouTube 
 ``<center>`` tag use (or any equivalent styling such as ``<p align='center'>``) is disallowed due to the news system styling automatically centering non-text elements.
 
 The width of all embedded content frames must be set to ``width: 100%``. To be included in articles in general, embedded content must support display at full-width styling without breaking or looking awful.
-
-### Linking to osu! related information
-
-All osu! related information should aim to use the new site wherever possible.
-
-This includes forum threads (``https://osu.ppy.sh/community/forums/13``), user profiles (``https://osu.ppy.sh/users/102335``), beatmaps (``https://osu.ppy.sh/beatmapsets/611806#osu/1291369``), and any other view which has a fully functioning implementation in osu-web.
-
-If unsure, ask a reviewer.

@@ -1,6 +1,11 @@
+---
+outdated: true
+outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
+---
+
 # Veto sur une beatmap
 
-Le _veto de beatmap_ permet aux [nominateurs de beatmaps](/wiki/People/Beatmap_Nominators) de retirer une beatmap des Qualifications si ils voient un gros problème au niveau de la qualité de la beatmap qui la rendrait impossible a classer. Chercher et clarifier des problèmes trouvés dans différentes beatmaps afin de les montrer au créateur de la beatmap avant qu'elle soit qualifiée est l'une des pricipales responsabilités des Nominateurs de Beatmaps.
+Le *veto de beatmap* permet aux [nominateurs de beatmaps](/wiki/People/Beatmap_Nominators) de retirer une beatmap des Qualifications si ils voient un gros problème au niveau de la qualité de la beatmap qui la rendrait impossible a classer. Chercher et clarifier des problèmes trouvés dans différentes beatmaps afin de les montrer au créateur de la beatmap avant qu'elle soit qualifiée est l'une des pricipales responsabilités des Nominateurs de Beatmaps.
 
 Tous les nominateurs de beatmap peuvent placer leur veto sur une beatmap, en fonction de quel mode d'osu! ils sont qualifiés à juger, comme en a statué le [règlement des nominateurs de beatmap](/wiki/People/Beatmap_Nominators/Rules). Chaque veto sur une beatmap doit faire suivre une discussion des deux parties - le créateur de la beatmap autant que le nominateur de beatmap ayant posé le veto - afin d'atteindre un bon compromis validé des deux côtés.
 
