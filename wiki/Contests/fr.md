@@ -12,7 +12,7 @@ Les concours officiels sont organisés (ou reconnus comme officiels) par l'[équ
 
 *Page principale : [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
-Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours de mapping où les mappeurs participants s'affrontaient pour créer la plus remarquable beatmap avec un [niveau de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) approprié à partir de Easy ou Normal en un mois.
+Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours de mapping où les mappeurs participants s'affrontaient pour créer la beatmap la plus remarquable avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) en commençant à partir de Easy ou Normal en un mois.
 
 | Numéro du concours | Musique(s) | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -37,7 +37,7 @@ Après une longue interruption, le Monthly Beatmapping Contest a été relancé 
 
 - Au lieu d'une musique unique, le concours propose désormais une sélection de musiques de différents [featured artists](/wiki/Featured_Artists) chaque mois, pour lesquelles tous les mappeurs participants sont libres de mapper et de soumettre leurs entrées.
 - Les mappeurs participants ne doivent désormais soumettre qu'une seule difficulté au lieu d'un mapset complet.
-- Les mappeurs participants doivent maintenant adhérer à un certain thème de mapping et/ou à une limitation définie dans le ruleset, comme "Le classement par étoiles ne doit pas dépasser 4,00★" ou "Chaque objet doit chevaucher un autre objet".
+- Les mappeurs participants doivent maintenant adhérer à un certain thème de mapping et/ou à une limitation définie dans les règles, telles que "Le classement par étoiles ne doit pas dépasser 4,00★" ou "Chaque objet doit chevaucher un autre objet".
 
 | Itération du concours | Featured artist | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | Screening Crew's #1 | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -68,13 +68,13 @@ Après une longue interruption, le Monthly Beatmapping Contest a été relancé 
 | [#2](https://osu.ppy.sh/home/news/2016-05-17-aspire-returns-beatmap-contest) | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmaps/artists/3) | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145) | ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) | [#1](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) |
 | [#3](https://osu.ppy.sh/home/news/2017-01-21-aspire-returns-for-2017) | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmaps/artists/5) | ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792) | ![][flag_HK] [MinG3012](https://osu.ppy.sh/users/1583218) | ![][flag_SG] [emilia](https://osu.ppy.sh/users/2003326) | [#1](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) |
 | [#4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | [Culprate - Acid Rain](https://osu.ppy.sh/beatmaps/artists/29) | ![][flag_TW] [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ![][flag_LT] [seselis1](https://osu.ppy.sh/users/7321833) | [#1](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
-| [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | Toutes les musiques sont disponible sur la [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) as per April 2020 | ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) *(gagnant du choix de la communauté)*, ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) *(gagnant du choix du mappeur)* | ![][flag_CA] [Meow Mix](https://osu.ppy.sh/users/3021634) | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
+| [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | N'importe quelle musique disponible sur la [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists) jusqu'en avril 2020 | ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) *(gagnant du choix de la communauté)*, ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) *(gagnant du choix du mappeur)* | ![][flag_CA] [Meow Mix](https://osu.ppy.sh/users/3021634) | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
 
 #### osu! Mapping Olympiad
 
 *Page principale : [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
 
-L'**osu! Mapping Olympiad** est un concours de mapping qui se tient comme un successeur spirituel des anciens (avant 2020) Monthly Beatmapping Contests. Dans ce concours, les mappeurs participants sont chargés de créer soit une beatmap avec un [niveau de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) approprié à partir de Easy ou Normal, soit un certain nombre de difficultés pour n'importe quelle musique donnée dans chaque itération correspondante.
+L'**osu! Mapping Olympiad** est un concours de mapping qui se tient comme un successeur spirituel des anciens (avant 2020) Monthly Beatmapping Contests. Dans ce concours, les mappeurs participants sont chargés de créer soit une beatmap avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) en commençant à partir de Easy ou Normal, soit un certain nombre de difficultés pour n'importe quelle musique donnée dans chaque itération correspondante.
 
 | Numéro du concours | Musique(s) | Mode de jeu | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -88,7 +88,7 @@ L'**osu! Mapping Olympiad** est un concours de mapping qui se tient comme un suc
 
 #### Community Mapping Contest
 
-Le **Community Mapping Contest** est un concours de mapping où les mappeurs participants sont libres de soumettre leur entrée pour n'importe quelle difficulté dans n'importe quel mode de jeu, après quoi toutes les entrées gagnantes, toutes difficultés et tous modes de jeu confondus, seront fusionnées en une seule beatmap.
+Le **Community Mapping Contest** est un concours de mapping dans lequel les mappeurs participants sont libres de soumettre leur entrée pour n'importe quelle difficulté dans n'importe quel mode de jeu, après quoi toutes les entrées gagnantes, toutes difficultés et tous modes de jeu confondus, seront fusionnées en une seule beatmap.
 
 | Numéro du concours | Musique | Mode de jeu | ![Couronne en or][GCrown] (Easy) | ![Couronne en or][GCrown] (Normal) | ![Couronne en or][GCrown] (Hard) | ![Couronne en or][GCrown] (Insane) | ![Couronne en or][GCrown] (Extra) | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -100,7 +100,7 @@ Le **Community Mapping Contest** est un concours de mapping où les mappeurs par
 
 #### Mapping With Rewards
 
-**Mapping With Rewards** est un concours de mapping où les mappeurs participants s'affrontent pour créer la meilleure beatmap (avec un [niveau de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) à partir de Easy ou Normal) pour n'importe laquelle des musiques données dans chaque itération correspondante, sans délai strict.
+Le **Mapping With Rewards** est un concours de mapping dans lequel les mappeurs participants s'affrontent pour créer la meilleure beatmap (avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) en commençant à partir de Easy ou Normal) pour n'importe laquelle des musiques données dans chaque itération correspondante, sans délai strict.
 
 | Numéro du concours | Musique | Mode de jeu | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -121,7 +121,7 @@ Le **Community Mapping Contest** est un concours de mapping où les mappeurs par
 
 #### A Labour of Love
 
-**A Labour of Love** est un concours par équipe couvrant plusieurs disciplines artistiques où les équipes participantes sont chargées de remixer/réarranger une musique largement connue au sein de la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard/une vidéo d'arrière-plan originale comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://twitter.com/ppy/status/1333362145224843264 "Twitter"), le concours s'inspire de [l'événement BMS OF FIGHTERS](https://www.bmsoffighters.net/ "BMS OF FIGHTERS") et d'autres concours similaires.
+**A Labour of Love** est un concours par équipe couvrant plusieurs disciplines artistiques dans lequel les équipes participantes sont chargées de remixer/réarranger une musique largement connue au sein de la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard/une vidéo d'arrière-plan originale comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://twitter.com/ppy/status/1333362145224843264 "Twitter"), le concours s'inspire de [l'événement BMS OF FIGHTERS](https://www.bmsoffighters.net/ "BMS OF FIGHTERS") et d'autres concours similaires.
 
 | Numéro du concours | Musique remixée | ![Couronne en or][GCrown] (Vainqueur général) | ![Couronne d'argent][SCrown] (Deuxième place générale) | Gagnant du vote communautaire | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -129,7 +129,7 @@ Le **Community Mapping Contest** est un concours de mapping où les mappeurs par
 
 #### Best of/Community Choice
 
-Le **Best of/Community Choice** est un concours de vote public qui a lieu chaque année afin de déterminer les beatmaps les plus populaires aux yeux de la communauté d'osu!
+Le **Best of/Community Choice** est un concours de vote public qui a lieu chaque année afin de déterminer les beatmaps les plus populaires aux yeux de la communauté d'osu!.
 
 À son lancement, le concours a été nommé "Best of", car le principe initial et les attentes du concours étaient d'encourager les membres de la communauté à voter pour ce qu'ils considéraient comme "the best beatmaps of the year" ; cependant, comme le nombre de joueurs a continué à croître au fil du temps, le concours se transformait inévitablement de plus en plus en un concours de popularité chaque année, ce qui a incité le concours à être relancé comme "Community Choice" en 2017.
 
@@ -150,7 +150,7 @@ Le **Best of/Community Choice** est un concours de vote public qui a lieu chaque
 
 #### Fan Art Contest
 
-Le **Fan Art Contest** est un concours de dessin où les artistes participants de la communauté sont mis au défi de créer le meilleur fan art pour osu! impliquant [les mascottes d'osu!](/wiki/Mascots) à travers différents thèmes et concepts artistiques.
+Le **Fan Art Contest** est un concours de dessin dans lequel les artistes participants de la communauté sont mis au défi de créer le meilleur fan art pour osu! impliquant [les mascottes d'osu!](/wiki/Mascots) à travers différents thèmes et concepts artistiques.
 
 | Numéro du concours | Thème | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -182,7 +182,7 @@ Le **Fan Art Contest** est un concours de dessin où les artistes participants d
 
 #### osu! Beatmap Blueprints Contest
 
-Le *osu! Beatmap Blueprints Contest* est un concours unique organisé pour commémorer le lancement de [Beatmap Blueprints](https://osu.ppy.sh/store/products/9) dans le [osu!store](https://osu.ppy.sh/store/listing). Dans ce concours, les utilisateurs participants se sont affrontés pour créer le meilleur plan d'une beatmap sur n'importe quel support visuel en utilisant toutes les ressources fournies dans le pack de marchandises Beatmap Blueprints.
+Le *osu! Beatmap Blueprints Contest* est un concours unique organisé pour commémorer le lancement de [Beatmap Blueprints](https://osu.ppy.sh/store/products/9) dans l'[osu!store](https://osu.ppy.sh/store/listing). Dans ce concours, les utilisateurs participants se sont affrontés pour créer le meilleur plan d'une beatmap sur n'importe quel support visuel en utilisant toutes les ressources fournies dans le pack de marchandises Beatmap Blueprints.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
@@ -190,7 +190,7 @@ Le *osu! Beatmap Blueprints Contest* est un concours unique organisé pour comm�
 
 #### osu!idol
 
-**osu!idol** est un concours de chant où les participants de toute la communauté s'affrontent pour créer la meilleure reprise de musique (en solo ou avec un partenaire) à travers plusieurs étapes de jugement et de vote de la communauté. Le concours porte le nom de la franchise [Idols](https://fr.wikipedia.org/wiki/Idol_(franchise) "Wikipédia") et s'inspire principalement de divers concours de chant télévisés.
+L'**osu!idol** est un concours de chant dans lequel les participants de toute la communauté s'affrontent pour créer la meilleure reprise de musique (en solo ou avec un partenaire) à travers plusieurs étapes de jugement et de vote communautaire. Le concours porte le nom de la franchise [Idols](https://fr.wikipedia.org/wiki/Idol_(franchise) "Wikipédia") et s'inspire principalement de divers concours de chant télévisés.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Musique gagnante | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -224,7 +224,7 @@ Les *concours non officiels* sont des concours organisés par les membres de la 
 
 ### osu! Beatmapping World Championship
 
-Le **osu! Beatmapping World Championship** est un concours de mapping par équipe où les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/Featured_Artists) pendant son déroulement.
+Le **osu! Beatmapping World Championship** est un concours de mapping par équipe dans lequel les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/Featured_Artists) pendant son déroulement.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
