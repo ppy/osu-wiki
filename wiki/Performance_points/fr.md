@@ -1,6 +1,6 @@
 # Points de performance
 
-Les **points de performance** (abrégé en **pp**) sont une mesure de classement qui vise à être plus contextuellement pertinente pour la progression d'un joueur dans osu!.
+Les **points de performance** (abrégé en **pp**) sont une mesure de classement qui vise à être plus contextuellement pertinente pour la progression d'un joueur sur osu!.
 
 Ce système cherche à mettre en valeur une représentation des compétences du joueur plutôt qu'une représentation de son temps de jeu. Pour ce faire, il calcule un score unique basé sur la difficulté d'une beatmap et la performance du joueur sur cette [beatmap](/wiki/Beatmap).
 
@@ -30,7 +30,7 @@ ppv2 est actuellement en service actif, avec des mises à jour en direct publié
 
 Les points de performance sont fortement basés sur la difficulté calculée de la beatmap, qui est déterminée par un algorithme unique construit pour chaque [mode de jeu](/wiki/Game_mode).
 
-La difficulté de la beatmap qu'un joueur est en train de jouer détermine la valeur finale de son score. Par conception, la formule s'appuie sur quatre valeurs fondamentales : l'**[aim](#aim)**, le **[speed](#speed)**, la **[précision](#précision)**, et le **[strain](#strain)**. Toutes ces valeurs sont ensuite combinées à des degrés divers pour produire un score global lié à la [difficulté](/wiki/Beatmap/Difficulty) particulière d'une beatmap et à la performance individuelle du joueur dans ladite beatmap.
+La difficulté de la beatmap qu'un joueur est en train de jouer détermine la valeur finale de son score. Par conception, la formule s'appuie sur quatre valeurs fondamentales : l'**[aim](#aim)**, la **[speed](#speed)**, la **[précision](#précision)**, et le **[strain](#strain)**. Toutes ces valeurs sont ensuite combinées à des degrés divers pour produire un score global lié à la [difficulté](/wiki/Beatmap/Difficulty) particulière d'une beatmap et à la performance individuelle du joueur dans ladite beatmap.
 
 Les scores sont ensuite "pondérés" les uns par rapport aux autres afin de s'assurer que les meilleurs scores d'un utilisateur soient les scores comptant le plus dans son classement général de points de performance. Connu sous le nom de [*weightage system*](#weightage-system), son objectif est d'empêcher l'obtention rapide et répétée de pp sur des beatmaps faciles en réduisant le nombre de pp réellement obtenus en fonction des autres meilleurs scores du joueur.
 
@@ -56,7 +56,7 @@ Dans le cas d'[osu!](/wiki/Game_mode/osu!), les beatmaps avec de très grands [j
 
 *Speed* est une valeur fondamentale qui tient compte de la vitesse à laquelle une beatmap présente les éléments d'une partie.
 
-Les beatmaps avec un nombre élevé d'objets  dans un court laps de temps sont considérés comme ayant des valeurs de vitesse très élevées. Dans cet aspect spécifique, plus la vitesse d'une beatmap est élevée, plus ladite beatmap est difficile, accordant ainsi de plus grands gains de pp.
+Les beatmaps avec un nombre élevé d'objets dans un court laps de temps sont considérés comme ayant des valeurs de vitesse très élevées. Dans cet aspect spécifique, plus la vitesse d'une beatmap est élevée, plus ladite beatmap est difficile, accordant ainsi de plus grands gains de pp.
 
 En conséquence, des mods comme [Double Time](/wiki/Game_modifier/Double_Time) et [Half Time](/wiki/Game_modifier/Half_Time) affectent de manière significative la vitesse d'une beatmap prise en compte par l'algorithme des points de performance. De même, ces mods affectent fortement les gains de pp lorsqu'ils sont utilisés.
 
@@ -115,7 +115,7 @@ Le nombre médian de scores requis pour atteindre la moitié de ce bonus est d'e
 
 **Comme ci-dessus, les anciens scores seront finalement pondérés pour moins d'un pour cent de leur valeur totale. Cela signifie qu'ils finiront par ne presque plus contribuer à votre score total à mesure que vous vous améliorerez.**
 
-À ce stade, cependant, vous aurez obtenu des scores comparativement plus impressionnants, ce qui signifie que votre  nombre de pp sera plus élevé dans l'ensemble, car les scores plus élevés que vous avez obtenus l'emportent sur les plus anciens.
+À ce stade, cependant, vous aurez obtenu des scores comparativement plus impressionnants, ce qui signifie que votre nombre de pp sera plus élevé dans l'ensemble, car les scores plus élevés que vous avez obtenus l'emportent sur les plus anciens.
 
 ### Pourquoi ai-je perdu des pp pour avoir établi un nouveau score ?
 
