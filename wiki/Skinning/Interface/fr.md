@@ -1081,7 +1081,7 @@ Notes:
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Oui][true] | ![Oui][true] | (Variable) | Coin Supérieur Gauche | - |
+| Toutes | ![Oui][true] | ![Oui][true] | (Variable) | Coin Supérieur Gauche | max height: 120px |
 
 Notes:
 

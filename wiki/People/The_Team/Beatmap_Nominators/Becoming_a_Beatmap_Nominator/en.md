@@ -51,7 +51,7 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 
 ### How new potential Beatmap Nominators are chosen
 
-- The `ModScore` of all applications will be doublechecked to confirm if they reached the required minimum score.
+- The `ModScore` of all applications will be double-checked to confirm if they reached the required minimum score.
 - Modders that acquired enough score will be evaluated by the corresponding NAT members of the game mode they applied for, taking into account the following criteria:
   - General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), as well as general behaviour in chat/forums.
   - Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.

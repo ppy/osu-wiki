@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
+---
+
 # Beatmap Aday Göstericiler için genel bilgi
 
 Bir [Beatmap Aday Gösterici](/wiki/People/The_Team/Beatmap_Nominators) *(BN)* misiniz, ya da olmak mı istiyorsunuz? Eğer öyleyse, doğru yere geldiniz! Bu makale yeni bir Beatmap Aday Gösterici olarak bilmeniz gereken bütün genel bilgileri içermektedir.
