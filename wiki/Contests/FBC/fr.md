@@ -16,7 +16,7 @@ Depuis l'édition 2017, les musiques choisies ont une durée inférieure à 3 mi
 
 ## FBC 2015
 
-L'édition 2015 était la première édition à avoir réuni les 4 modes de jeu : osu!, osu!taiko, osu!catch, osu!mania. Malheureusement, dans les modes osu!catch et osu!mania, il n'y avait pas assez de participants pour récompenser les vainqueurs d'un badge.
+L'édition 2015 était la première édition à avoir réuni les 4 modes de jeu : osu!, osu!taiko, osu!catch, osu!mania. Malheureusement, dans les modes osu!catch et osu!mania, il n'y avait pas suffisamment de participants pour récompenser les vainqueurs d'un badge.
 
 La musique sélectionnée pour ce concours était [ANTI - Koi](https://www.youtube.com/watch?v=NuQfuYxf6lk) d'une durée de 5:06 minutes.
 
@@ -24,7 +24,7 @@ La musique sélectionnée pour ce concours était [ANTI - Koi](https://www.youtu
 
 ### Vainqueurs du mode osu!
 
-| Place | Joueurs |
+| Place | Mappeurs |
 | :-: | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689) |
@@ -32,7 +32,7 @@ La musique sélectionnée pour ce concours était [ANTI - Koi](https://www.youtu
 
 ### Vainqueurs du mode osu!taiko
 
-| Place | Joueurs |
+| Place | Mappeurs |
 | :-: | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_FR] [Aldwych](https://osu.ppy.sh/users/1416484) |
@@ -40,14 +40,14 @@ La musique sélectionnée pour ce concours était [ANTI - Koi](https://www.youtu
 
 ### Vainqueurs du mode osu!mania
 
-| Place | Joueurs |
+| Place | Mappeurs |
 | :-: | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_CA] [Julie](https://osu.ppy.sh/users/2420987) |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_FR] [Todestrieb](https://osu.ppy.sh/users/4056690) |
 
 ### Vainqueurs du mode osu!catch
 
-| Place | Joueurs |
+| Place | Mappeurs |
 | :-: | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
 
@@ -73,7 +73,7 @@ La musique sélectionnée pour le mode osu! et osu!catch était [Phantom Sage - 
 
 ### Vainqueurs
 
-| Place | Joueurs |
+| Place | Mappeurs |
 | :-: | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_CA] [sheela](https://osu.ppy.sh/users/1138027) |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
@@ -93,7 +93,7 @@ La musique sélectionnée pour le mode osu! et osu!catch était [Phantom Sage - 
 
 ## FBC 2017
 
-Cette édition était la première édition qui utilise une musique de moins de 3 minutes. De plus, elle était la première à permettre au mapset vainqueur (hébergé par le vainqueur du tournoi) de contenir les difficultés des trois premiers joueurs.
+Cette édition était la première édition à utiliser une musique de moins de 3 minutes. De plus, elle était la première à permettre au mapset vainqueur (hébergé par le vainqueur du tournoi) de contenir les difficultés des trois premiers mappeurs.
 
 La musique sélectionnée pour cette édition du tournoi était [ak+q - Excelsia](https://soundcloud.com/ak_q/bofu2017-excelsia).
 
@@ -101,7 +101,7 @@ La musique sélectionnée pour cette édition du tournoi était [ak+q - Excelsia
 
 ### Vainqueurs
 
-| Place | Joueurs |
+| Place | Mappeurs |
 | :-: | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_FR] [Sotarks](https://osu.ppy.sh/users/4452992) |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449) |
@@ -120,7 +120,7 @@ La musique sélectionnée pour cette édition du tournoi était [ak+q - Excelsia
 
 ## FBC 2018
 
-Cette édition était la première à proposer une musique d'un Featured Artist dans ce tournoi. De plus, c'était la première à voir deux joueurs être ex-aequo dans le classement.
+Cette édition était la première à proposer une musique d'un Featured Artist dans ce tournoi. De plus, c'était la première à voir deux participants ex-aequo dans le classement.
 
 La musique sélectionnée pour cette édition du tournoi est [Thaehan - Sunrise](https://www.youtube.com/watch?v=F1_EyWi68hE).
 
@@ -128,7 +128,7 @@ La musique sélectionnée pour cette édition du tournoi est [Thaehan - Sunrise]
 
 ### Vainqueurs
 
-| Place | Joueurs |
+| Place | Mappeurs |
 | :-: | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_CA] [celerih](https://osu.ppy.sh/users/4696296) |

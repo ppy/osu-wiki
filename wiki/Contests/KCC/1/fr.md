@@ -79,18 +79,18 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 ### Règlement du concours
 
 - Ce concours est réservé au mode osu!mania.
-- Seuls les personnes coréennes peuvent participer à ce concours. Si votre drapeau de profil n'indique pas que vous êtes en ![][flag_KR] Corée du Sud pour des raisons telles que la résidence à l'étranger, vous pouvez quand même participer si vous êtes en mesure de prouver que vous êtes Coréen.
+- Seules les personnes coréennes peuvent participer à ce concours. Si votre drapeau de profil n'indique pas que vous êtes en ![][flag_KR] Corée du Sud pour des raisons telles que la résidence à l'étranger, vous pouvez quand même participer si vous êtes en mesure de prouver que vous êtes Coréen.
 - Vous devez choisir une musique que vous souhaitez mapper lors de votre inscription (une musique pour la catégorie Instrumentale et une pour la catégorie Vocal). Vous pouvez mapper une de ces deux musiques après la fin du vote.
 - Le client d'osu! doit être capable de charger et de lire votre beatmap.
 - La beatmap doit être au format `.osz`.
 - Les hitsounds personnalisés sont autorisés.
 - Le titre, l'artiste, le fichier MP3, la source, les tags et le fond ne doivent PAS être modifiés. Cependant, le point de prévisualisation peut être personnalisé.
-- Les vidéos, skins et storyboards ne sont PAS autorisés. Cependant, les sons des storyboards peuvent être modifiés.
+- Les vidéos, skins et storyboards ne sont PAS autorisés. Cependant, les hitsounds des storyboards peuvent être modifiés.
 - Le nombre de keys de la beatmap doit être entre 4K et 9K.
 - Le mod Auto doit être en mesure d'effectuer un full combo (score de 1 000 000) sur votre beatmap.
 - La beatmap doit être terminée par le concurrent seul. Aucune collaboration n'est autorisée.
 - Les beatmaps ne doivent pas être publiées sur le site d'osu! par le biais du Beatmap Submission System (BSS). Toutes les soumissions au concours doivent être anonymes pendant les phases de jugement afin d'éviter toute partialité.
-- Une seule difficulté de la beatmap est autorisée. Si plusieurs difficultés sont soumises, celle qui a le plus grand nombre d'étoiles sera celle acceptée.
+- Une seule difficulté est autorisée. Si plusieurs difficultés sont soumises, celle qui a le plus grand nombre d'étoiles sera celle acceptée.
 - Seules les difficultés Insane ou plus sont autorisées. Veuillez consulter les règles spécifiques aux difficultés dans les [critères de classement](/wiki/Ranking_Criteria).
 - Si vous soumettez plusieurs maps, la dernière sera celle prise en compte.
 - L'envoi d'une participation implique la compréhension et l'acceptation des règles énoncées ci-dessus.
