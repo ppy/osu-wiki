@@ -37,7 +37,7 @@ Partisipasi *quest* tidak memerlukan seluruh anggota Mapper's Guild. Jika seoran
 
 ### Imbalan
 
-Imbalan didistribusikan melalui sistem poin. Ketika seorang pengguna telah mencapai dalam titik pencapaian, mereka memperoleh peringkat yang berbeda dengan ditandainya sebuah lencana profil. Ada tiga tingkatan profil untuk tiap pencapaian yang masing - masing diberikan pada 100, 250, dan 500 poin.
+Imbalan didistribusikan melalui sistem poin. Ketika seorang pengguna telah mencapai dalam titik pencapaian, mereka memperoleh peringkat yang berbeda dengan ditandainya sebuah lencana profil. Ada empat tingkatan profil untuk tiap pencapaian yang masing - masing diberikan pada 100, 250, 500, dan 1000 poin.
 
 Imbalan diberikan berdasarkan peroleh poin tiap pengguna. Poin yang tersedia pengguna adalah sub-bagian dari total poin mereka, sistem ini juga mengikuti model [kudosu](/wiki/Modding/Kudosu) "total yang diperoleh" dan "tersedia".
 
