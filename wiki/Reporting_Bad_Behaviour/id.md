@@ -20,7 +20,7 @@ Tidak hanya sebatas obrolan di dalam gim saja tetapi juga di tempat lain seperti
 
 Penggunaan: `!report username [alasan]`
 
-Parameter **[** dan **]** merupakan opsional.
+Parameter **\[** dan **\]** merupakan opsional.
 
 Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan garis bawah `_` karena obrolan di dalam gim osu! didasarkan pada [Internet Relay Chat](/wiki/Internet_Relay_Chat).
 
