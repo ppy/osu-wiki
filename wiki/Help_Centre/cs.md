@@ -56,7 +56,7 @@ Pokud vás člen týmu podpory požádal, abyste v Prohlížeči událostí naš
 3. V Event Viewer v levé části klikněte na položku `Windows Logs` a poté `Application`.
 4. Vpravo klikněte na  `Filter current log`.
 5. V okně filtru, které se otevře, zkontrolujte, zda je zaškrtnuto políčko `Error` a klikněte na `OK`.
-6. Stiskněte `Ctrl` +` F` a napište osu! v poli hledání. Najde první log selhání z osu!.
+6. Stiskněte `Ctrl` + `F` a napište osu! v poli hledání. Najde první log selhání z osu!.
 7. Přejděte na kartu `Details`, rozbalte `System` a `Event Data` kliknutím na každou z nich.
 8. Zkopírujte text a vložte jej do lístku podpory nebo příspěvku na fóru.
 
@@ -69,7 +69,7 @@ Když se v osu! Setkáte se složitými problémy s výkonem, Frame Time Graph j
 Pokud vás člen týmu podpory požádal o pořízení videa nebo snímku obrazovky s otevřeným grafem časového rámce, postupujte takto:
 
 1. Otevři osu!.
-2. Stisknutím klávesy `Ctrl` +` F11` otevřete Frame Time Graph.
+2. Stisknutím klávesy `Ctrl` + `F11` otevřete Frame Time Graph.
 3. Spusťte nebo počkejte, až nastane problém s výkonem.
 4. Pořiďte snímek obrazovky stisknutím kláves `Shift` + `F12`. Tím se snímek nahraje do serverů osu! a otevře snímek obrazovky na kartě webového prohlížeče.
 5. Zkopírujte a vložte poskytnutý odkaz do support ticketu nebo příspěvku na fóru.
