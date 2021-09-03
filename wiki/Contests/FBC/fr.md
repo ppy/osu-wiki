@@ -10,13 +10,13 @@ Le **French Beatmapping Contest** (***FBC***) est un tournoi de mapping uniqueme
 
 Les points sont attribués en suivant les critères de notation suivants : **Structure**, **Pertinence**, **Créativité**, **Impression du juge** et **Hitsounds**. Il est possible que les critères changent si nécessaire.
 
-Les trois premiers mappeurs d'un tournoi recevront chacun un titre de osu!supporter d'une durée qui peut varier en fonction des éditions. Cependant, le vainqueur de chaque édition recevra un badge personnalisé qui s'affichera sur son profil osu!.
+Les trois premiers mappeurs d'un tournoi recevront chacun un tag osu!supporter d'une durée qui peut varier en fonction des éditions. Cependant, le vainqueur de chaque édition recevra un badge personnalisé qui s'affichera sur son profil osu!.
 
-Depuis l'édition 2017, les musiques choisies ont une durée inférieure à 3 minutes et les difficultés en dessous du niveau Insane sont mappées par les organisateurs des tournois ou bien par des membres de la communauté de mapping francophone.
+Depuis l'édition 2017, les musiques choisies ont une durée inférieure à 3 minutes et les difficultés en dessous du niveau Insane sont mappées par les organisateurs des tournois ou par des membres de la communauté de mapping francophone.
 
 ## FBC 2015
 
-L'édition 2015 était la première édition à avoir réuni les 4 modes de jeu : osu!, osu!taiko, osu!catch, osu!mania. Malheureusement, en mode osu!catch et osu!mania, il n'y avait pas assez de participants pour récompenser les vainqueurs d'un badge.
+L'édition 2015 était la première édition à avoir réuni les 4 modes de jeu : osu!, osu!taiko, osu!catch, osu!mania. Malheureusement, dans les modes osu!catch et osu!mania, il n'y avait pas assez de participants pour récompenser les vainqueurs d'un badge.
 
 La musique sélectionnée pour ce concours était [ANTI - Koi](https://www.youtube.com/watch?v=NuQfuYxf6lk) d'une durée de 5:06 minutes.
 
