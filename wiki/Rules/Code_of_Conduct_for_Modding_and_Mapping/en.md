@@ -6,7 +6,7 @@ The **Code of conduct for modding and mapping** is a set of rules and guidelines
 
 - The goal of modding is to help a mapper improve their work so that it can be pushed towards [ranked](/wiki/Beatmap/Category#ranked) status if the mapper chooses to do so. If you're not interested in helping people, steer clear of the discussion to avoid *hurting them*.
 - When modding, consider who the post is directed at, what you aim to achieve by posting and what response you expect to receive. This will ensure your best intentions are conveyed and your post is easy to understand.
-  - Don't shy away from new mappers and modders - these people are the ones who can benefit the most from your input! Be patient, understanding, and provide as much explanation as possible so that they can learn and improve more quickly
+  - Don't shy away from new mappers and modders—these people are the ones who can benefit the most from your input! Be patient, understanding, and provide as much explanation as possible so that they can learn and improve more quickly
   - If you're new yourself, don't be afraid to say so! This will allow more experienced community members to point you in the right direction. Everyone was new and in your position once!
 - Treat others as you wish to be treated. People are more receptive to kind, helpful suggestions than hostile ones. Try to understand others' point-of-view rather than attack it - nobody likes to feel worthless, incompetent or stupid. If you are a masochist, assume that all others are not.
 - If you wish to comment on or discuss a beatmap, go to that beatmap's [discussion page](/wiki/Beatmap_Discussion) - not social media outlets, or the comment section, as it is unlikely your concerns will be heard by anyone with the power to address them appropriately.
@@ -54,8 +54,8 @@ Sometimes, a single mod and response isn't enough to bring all parties to agreem
 
 ## Qualified beatmaps
 
-The [Qualified section](/wiki/Beatmap/Category#qualified) allows beatmaps to receive any final suggestions for change or improvement before reaching ranked status. When modding a qualified map, everything you consider "not minor" should **always** be mentioned - minor issues are also worth mentioning however, especially if they affect gameplay. If a qualified beatmap accumulates a significant number of minor issues, or if there is one or more major / unrankable issues, the beatmap should be disqualified so that fixes and improvements can be made before attempting requalification.
+The [Qualified section](/wiki/Beatmap/Category#qualified) allows beatmaps to receive any final suggestions for change or improvement before reaching ranked status. When modding a qualified map, everything you consider "not minor" should **always** be mentioned - minor issues are also worth mentioning however, especially if they affect gameplay. If a qualified beatmap accumulates a significant number of minor issues, or if there is one or more major/unrankable issues, the beatmap should be disqualified so that fixes and improvements can be made before attempting requalification.
 
 If you're unsure on the nature of a potential problem, ask for other opinions or review previous mod posts to make sure the "issue" presented isn't something done intentionally by the mapper - if so, it will likely have been discussed already. If there has been no prior discussion, feel free to open one as if you were modding the map normally, and post a brief outline of your concerns.
 
-**Note that it is the community's responsibility alone to report issues with qualified beatmaps**. It is not guaranteed that BNs or NAT members will actively check and disqualify beatmaps without being prompted to do so.
+**Note that it is the community's responsibility alone to report issues with qualified beatmaps**. It is not guaranteed that any BN or NAT member will actively check and disqualify beatmaps without being prompted to do so.
