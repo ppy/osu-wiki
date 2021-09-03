@@ -30,8 +30,8 @@ The UK Community Cup 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
-| Mappool selector | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/5182050), ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572), ![][flag_MY] [\[ -Scarlet- \]](https://osu.ppy.sh/users/2427693), |
-| Streamer | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Zainny](https://osu.ppy.sh/users/4621060), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_GB] [Helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), |
+| Mappool selector | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/5182050), ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572), ![][flag_MY] [\[ -Scarlet- \]](https://osu.ppy.sh/users/2427693) |
+| Streamer | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Zainny](https://osu.ppy.sh/users/4621060), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_GB] [Helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 | Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850), ![][flag_GB] [minorman4](https://osu.ppy.sh/users/4837257), ![][flag_GB] [minorman4](https://osu.ppy.sh/users/6566765), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [- Isozaki -](https://osu.ppy.sh/users/3987676), ![][flag_GB] [Pobe](https://osu.ppy.sh/users/6340618) |
 
 ## Links
