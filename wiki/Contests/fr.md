@@ -12,7 +12,7 @@ Les concours officiels sont organisés (ou reconnus comme officiels) par l'[équ
 
 *Page principale : [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
-Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours de mapping où les mappeurs participants s'affrontaient pour créer la beatmap la plus remarquable avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) en commençant à partir de Easy ou Normal en un mois.
+Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours de mapping où les mappeurs participants s'affrontaient pour créer la beatmap la plus remarquable avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) en commençant à partir de Easy ou Normal en un mois.
 
 | Numéro du concours | Musique(s) | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -74,7 +74,7 @@ Après une longue interruption, le Monthly Beatmapping Contest a été relancé 
 
 *Page principale : [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
 
-L'**osu! Mapping Olympiad** est un concours de mapping qui se tient comme un successeur spirituel des anciens (avant 2020) Monthly Beatmapping Contests. Dans ce concours, les mappeurs participants sont chargés de créer soit une beatmap avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) en commençant à partir de Easy ou Normal, soit un certain nombre de difficultés pour n'importe quelle musique donnée dans chaque itération correspondante.
+L'**osu! Mapping Olympiad** est un concours de mapping qui se tient comme un successeur spirituel des anciens (avant 2020) Monthly Beatmapping Contests. Dans ce concours, les mappeurs participants sont chargés de créer soit une beatmap avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) en commençant à partir de Easy ou Normal, soit un certain nombre de difficultés pour n'importe quelle musique donnée dans chaque itération correspondante.
 
 | Numéro du concours | Musique(s) | Mode de jeu | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -100,7 +100,7 @@ Le **Community Mapping Contest** est un concours de mapping dans lequel les mapp
 
 #### Mapping With Rewards
 
-Le **Mapping With Rewards** est un concours de mapping dans lequel les mappeurs participants s'affrontent pour créer la meilleure beatmap (avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#difficulty-levels) en commençant à partir de Easy ou Normal) pour n'importe laquelle des musiques données dans chaque itération correspondante, sans délai strict.
+Le **Mapping With Rewards** est un concours de mapping dans lequel les mappeurs participants s'affrontent pour créer la meilleure beatmap (avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) en commençant à partir de Easy ou Normal) pour n'importe laquelle des musiques données dans chaque itération correspondante, sans délai strict.
 
 | Numéro du concours | Musique | Mode de jeu | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
