@@ -11,7 +11,7 @@ tags:
 - berkas lagu itu sendiri, yang tersimpan dalam format MP3 atau Ogg.
 - [background/gambar latar belakang](/wiki/Beatmap/Background), atau sebuah video, yang berperan sebagai playfield.
 - [custom hitsound](/wiki/Beatmapping/Hitsound) yang digunakan untuk aransemen dan umpan balik aural yang ditingkatkan (opsional).
-- [storyboard](/wiki/Storyboards) dengan efek-efek visual, berfungsi sebagai latar cerita atau tema lagu (opsional).
+- [storyboard](/wiki/Storyboard) dengan efek-efek visual, berfungsi sebagai latar cerita atau tema lagu (opsional).
 - [custom skin](/wiki/Skinning), yang mengubah tampilan elemen antarmuka dan gameplay (opsional).
 
 *Catatan: Beberapa fitur visual dan aural pada sebuah beatmap dapat dinonaktifkan melalui [visual settings](/wiki/Visual_Settings).*

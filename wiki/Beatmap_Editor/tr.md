@@ -21,7 +21,7 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
 ## Design (Dizayn)
 
-[Design (Dizayn)](/wiki/Beatmap_Editor/Design) sekmesi beatmaplere eklenen görsel efektler olan [storyboard](/wiki/Storyboards) oluşturmayı sağlar. Storyboardlar genellikle karmaşık efektler içerdiğinden ve çok fazla storyboard komutu kullanımı gerektirmesinden ötürü, mapperlar aynı zamanda dizayn sekmesine hiç girmeden doğrudan [storyboard komut dizisi](/wiki/Storyboard_Scripting) kullanmaktadırlar.
+[Design (Dizayn)](/wiki/Beatmap_Editor/Design) sekmesi beatmaplere eklenen görsel efektler olan [storyboard](/wiki/Storyboard) oluşturmayı sağlar. Storyboardlar genellikle karmaşık efektler içerdiğinden ve çok fazla storyboard komutu kullanımı gerektirmesinden ötürü, mapperlar aynı zamanda dizayn sekmesine hiç girmeden doğrudan [storyboard komut dizisi](/wiki/Storyboard/Scripting) kullanmaktadırlar.
 
 ## Timing (Zamanlama)
 

@@ -221,7 +221,7 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 ```markdown
 ## Beatmapping
 
-*See also: [Storyboarding](/wiki/Storyboarding)*
+*See also: [Storyboarding](/wiki/Storyboard#storyboarding)*
 ```
 
 #### 关于;请见

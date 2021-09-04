@@ -30,7 +30,7 @@ Benvenuto alla wiki di osu!, un progetto contenente un'ampia gamma di informazio
 
 # [Editor di Beatmap](/wiki/Beatmap_Editor)
 
-Sezioni: ([Componi](/wiki/Beatmap_Editor/Compose) • [Progettazione](/wiki/Beatmap_Editor/Design) • [Tempistica](/wiki/Beatmap_Editor/Timing) • [Setup della Canzone](/wiki/Beatmap_Editor/Song_Setup)) • Componenti: ([Divisore di Beat Snap](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Difficoltà](/wiki/Beatmap/Difficulty) • [Hit Objects](/wiki/Hit_Objects) • [Tecniche di Mappatura](/wiki/Mapping_Techniques) • [Fare la Storyboard](/wiki/Storyboarding)
+Sezioni: ([Componi](/wiki/Beatmap_Editor/Compose) • [Progettazione](/wiki/Beatmap_Editor/Design) • [Tempistica](/wiki/Beatmap_Editor/Timing) • [Setup della Canzone](/wiki/Beatmap_Editor/Song_Setup)) • Componenti: ([Divisore di Beat Snap](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Difficoltà](/wiki/Beatmap/Difficulty) • [Hit Objects](/wiki/Hit_Objects) • [Tecniche di Mappatura](/wiki/Mapping_Techniques) • [Fare la Storyboard](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -31,7 +31,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [Piotrekol](https://osu.ppy.sh/users/304520) | Desarrollar y mantener [osu!Stats](https://osustats.ppy.sh/) y una serie de funciones útiles tanto para beatmapping, modding y jugabilidad en general. |
 | [MillhioreF](https://osu.ppy.sh/users/941094) | Excelente rendimiento en la corrección de errores/funciones probando y manejo de consultas del soporte del usuario. |
 | [DeathxShinigami](https://osu.ppy.sh/users/49516) | Más de 3 años de trabajo silencioso manejando incansablemente el [Beatmap Packing](https://osu.ppy.sh/p/packlist) y varios años de administración de gráficos de beatmaps. |
-| [LuigiHann](https://osu.ppy.sh/users/1079) | Años tras años de servicio, incluido el diseño del skin del beatmap original, [storyboarding](/wiki/Storyboards) avanzando como arte y motivación. |
+| [LuigiHann](https://osu.ppy.sh/users/1079) | Años tras años de servicio, incluido el diseño del skin del beatmap original, [storyboarding](/wiki/Storyboard) avanzando como arte y motivación. |
 | [awp](https://osu.ppy.sh/users/2650) | Temprana gestión y moderación de la comunidad y enormes contribuciones en el transcurso de su tiempo. |
 | [Sinistro](https://osu.ppy.sh/users/5530) | Siendo el primer administrador de la comunidad y moderador global, que estableció el listón extremadamente alto a seguir para el [GMT](/wiki/People/Global_Moderation_Team). |
 | [Ivalset](https://osu.ppy.sh/users/827) | Siendo el primer gerente de personal y BATmanager, y formar por sí solo un equipo de moderación de élite de beatmaps de la nada. |

@@ -55,6 +55,6 @@ Katu triggers the second-tier on the storyboard during the gameplay, which usual
 
 Obtaining Katu triggers several events:
 
-- [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers) is deactivated.
-- [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers) is activated.
+- [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers) is deactivated.
+- [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers) is activated.
 - "Passing" event is triggered, if the previous state was "Fail".

@@ -30,7 +30,7 @@ no_native_review: true
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) |  开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | 在 Bug 修复和新功能测试方面、以及处理用户支持请求上均有杰出的表现 |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3 年多默默无闻而又不辞勤劳地管理[曲包](https://osu.ppy.sh/beatmaps/packs) 以及数年对月度新谱面排名竞赛的管理 |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | 年复一年的服务，包括了设计原创谱面皮肤，推进[故事版](/wiki/Storyboards)作为艺术和作图动力的发展 |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | 年复一年的服务，包括了设计原创谱面皮肤，推进[故事版](/wiki/Storyboard)作为艺术和作图动力的发展 |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | 早期的社区管理并且在他有限的时间过程中作出了巨大的贡献 |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | 作为第一位临时的社区管理员和 GMT，他为 [GMT](/wiki/People/The_Team/Global_Moderation_Team) 树立了一个非常好的榜样 |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 作为第一位行政主管和 BAT 管理员，他以一己之力从无到有建立了一个杰出的谱面管理团队 |

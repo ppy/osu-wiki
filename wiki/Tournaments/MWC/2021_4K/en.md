@@ -107,7 +107,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | China | ![][flag_CN] | ![][flag_JP] | Japan | Sep 4 (Sat.) 11:00 UTC | Sep 4 (Sat.) 19:00 UTC+8 | Sep 4 (Sat.) 20:00 UTC+9 | ² |
 | South Korea | ![][flag_KR] | ![][flag_FR] | France | Sep 4 (Sat.) 12:00 UTC | Sep 4 (Sat.) 21:00 UTC+9 | Sep 4 (Sat.) 14:00 UTC+2 | ² |
 | Philippines | ![][flag_PH] | ![][flag_SG] | Singapore | Sep 4 (Sat.) 13:00 UTC | Sep 4 (Sat.) 21:00 UTC+8 | Sep 4 (Sat.) 21:00 UTC+8 | ² |
-| Vietnam | ![][flag_VN] | ![][flag_ID] | Indonesia | Sep 4 (Sat.) 14:00 UTC | Sep 4 (Sat.) 21:00 UTC+7 | Sep 4 (Sat.) 21:00 UTC+7 | ² |
+| Vietnam | ![][flag_VN] | ![][flag_ID] | Indonesia | Sep 4 (Sat.) 14:45 UTC | Sep 4 (Sat.) 21:45 UTC+7 | Sep 4 (Sat.) 21:45 UTC+7 | ² |
 | United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | Sep 4 (Sat.) 19:00 UTC | Sep 4 (Sat.) 20:00 UTC+1 | Sep 4 (Sat.) 16:00 UTC-3 | ¹ |
 
 ### Sunday, September 05, 2021

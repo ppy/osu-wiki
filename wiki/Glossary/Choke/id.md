@@ -1,7 +1,8 @@
 ---
-stub: true
 tags:
   - reverse choke
+outdated: true
+outdated_since: dded789e83248296663b8ac3844e9dfcb0de3849
 ---
 
 # Choke

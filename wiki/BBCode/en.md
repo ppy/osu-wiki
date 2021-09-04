@@ -153,7 +153,7 @@ text
 
 The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). On the osu! website, the `[code]` tag will format text in a monospace font inside of a semi-transparent gray box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
 
-Within the osu! forums, code blocks are most often used to post source code for a [storyboard](/wiki/Storyboards), or in tutorials that require showing the syntax for tags, commands, or source code.
+Within the osu! forums, code blocks are most often used to post source code for a [storyboard](/wiki/Storyboard), or in tutorials that require showing the syntax for tags, commands, or source code.
 
 ### Centre
 

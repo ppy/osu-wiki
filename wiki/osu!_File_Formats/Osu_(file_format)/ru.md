@@ -159,7 +159,7 @@ outdated: true
 
 ### Events
 
-См. [скрипты для сториборд](/wiki/Storyboard_Scripting)
+См. [скрипты для сториборд](/wiki/Storyboard/Scripting)
 
 ### Timing Points
 

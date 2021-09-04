@@ -7,7 +7,7 @@
 | [.osz][Osz Link] | `x-osu-beatmap-archive` | osu! beatmap archive |
 | [.osk][Osk Link] | `x-osu-skin-archive` | osu! skin archive |
 | [.osu][Osu Link] | `x-osu-beatmap` | osu! [beatmap](/wiki/Beatmap) |
-| [.osb][Osb Link] | `x-osu-storyboard` | osu! [storyboard](/wiki/Storyboard_Scripting) |
+| [.osb][Osb Link] | `x-osu-storyboard` | osu! [storyboard](/wiki/Storyboard/Scripting) |
 | [.osr][Osr Link] | `x-osu-replay` | osu! [replay](/wiki/Replay) |
 
 ## Creating .osz/.osk file
