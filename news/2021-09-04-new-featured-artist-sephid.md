@@ -52,7 +52,7 @@ Or check out [this awesome beatmap](https://osu.ppy.sh/beatmapsets/1173187) host
 
 If you managed to survive this long without visiting [**SEPHID**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/196), you might have a serious problem. Please talk to your doctor or visit **SEPHID**'s page as soon as possible — whichever is most convenient.
 
-Unrelated, you may notice a new "Featured Artist" badge on certain beatmaps! Recognition, huzzah!
+Unrelated, but you may have noticed a new "Featured Artist" badge on certain beatmaps! Recognition, huzzah!
 
 ![](/wiki/shared/news/2021-09-04-new-featured-artist-sephid/fa-badge.png)
 
