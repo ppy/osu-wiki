@@ -23,13 +23,13 @@ The changelog has been started by peppy on September 11, 2007 in a dedicated for
 
 ![](img/changelog-osume-2013.png "Changelog in the osu! updater (2013)")
 
-In October, 2007, a web version of changelog [became available](https://osu.ppy.sh/community/forums/posts/2499), both through the website and the osu! updater.
+In October, 2007, a web version of changelog [became available](https://osu.ppy.sh/community/forums/posts/2499) both through the website and the osu! updater.
 
-On October 25, 2009, the changelog [became available via the RSS](https://osu.ppy.sh/community/forums/topics/19137) feed.
+On October 25, 2009, the changelog [became available via an RSS feed](https://osu.ppy.sh/community/forums/topics/19137).
 
 ![](img/build-propagation-graph-2015.png "Distribution of osu! build versions (2015)")
 
-On October 28, 2015, a graph with osu! versions distribution across the playerbase [was added to the changelog](https://web.archive.org/web/20151103161516/http://osu.ppy.sh:80/p/changelog), making the statistics open to the general public. At the same time, it became possible to filter changelog by update stream.
+On October 28, 2015, a graph with osu! versions distribution across the playerbase [was added to the changelog](https://web.archive.org/web/20151103161516/http://osu.ppy.sh:80/p/changelog), making the statistics open to the general public. At the same time, it became possible to filter the changelog by update stream.
 
 ## See also
 
