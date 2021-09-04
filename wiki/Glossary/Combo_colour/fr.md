@@ -11,7 +11,7 @@ tags:
 
 Les **couleurs de combo** sont des couleurs qui permettent de séparer les [combosets](/wiki/Beatmapping/Combo) les uns des autres. Les couleurs de combos s'appliquent à tous les [objets](/wiki/Hit_object) d'une [beatmap](/wiki/Beatmap). Lorsqu'un nouveau combo est lancé, la couleur des [combos](/wiki/Beatmapping/Combo) passe à la couleur définie suivante. Le bouton `New Combo` se trouve sur le côté droit de l'onglet "Compose" de l'[éditeur de beatmap](/wiki/Beatmap_Editor).
 
-Les couleurs de combo sont des aspects importants de l'esthétique d'une beatmap, car elles sont un des seuls moyens de modifier l'aspect visuel d'une beatmap en dehors du [storyboarding](/wiki/Storyboard_Scripting) et du [skinning](/wiki/Skinning). Elles peuvent être définies dans le panneau [Song Setup](/wiki/Beatmap_Editor/Song_Setup) avec un minimum de 2 et un maximum de 8 couleurs de combo. Les couleurs de combo définies dans un skin ne seront utilisées que si le mappeur ne définit pas de couleurs de combo ou si le joueur les remplace dans ses paramètres.
+Les couleurs de combo sont des aspects importants de l'esthétique d'une beatmap, car elles sont un des seuls moyens de modifier l'aspect visuel d'une beatmap en dehors du [storyboarding](/wiki/Storyboard/Scripting) et du [skinning](/wiki/Skinning). Elles peuvent être définies dans le panneau [Song Setup](/wiki/Beatmap_Editor/Song_Setup) avec un minimum de 2 et un maximum de 8 couleurs de combo. Les couleurs de combo définies dans un skin ne seront utilisées que si le mappeur ne définit pas de couleurs de combo ou si le joueur les remplace dans ses paramètres.
 
 ## osu!
 

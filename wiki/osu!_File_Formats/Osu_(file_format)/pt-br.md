@@ -114,7 +114,7 @@ Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wik
 
 ### Storyboards
 
-*Para informções sobre a sintaxe de storyboards, veja [Storyboard Scripting](/wiki/Storyboard_Scripting).*
+*Para informções sobre a sintaxe de storyboards, veja [Storyboard Scripting](/wiki/Storyboard/Scripting).*
 
 Os storyboards podem ser definidos em um arquivo de storyboard separado, com a extensão `.osb`. Storyboards externos são compartilhados com todos os dificuldades em um beatmap.
 

@@ -25,7 +25,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Mengembangkan dan memelihara [osu!stats](https://osustats.ppy.sh/) dan sejumlah utilitas bermanfaat untuk beatmap, modding, dan game ini secara umum. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Kontribusi luar biasa dalam perbaikan *bug*/pengujian fitur dan penanganan permintaan dukungan pengguna. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ tahun kerja tanpa henti menangani [pengemasan beatmap](https://osu.ppy.sh/beatmaps/packs) dan beberapa tahun mengelola beatmap charts. |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Pelayanan hingga bertahun - tahun, termasuk merancang skin beatmap asli versi pertama, memajukan [storyboard](/wiki/Storyboards) sebagai bentuk seni dan motivasi. |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Pelayanan hingga bertahun - tahun, termasuk merancang skin beatmap asli versi pertama, memajukan [storyboard](/wiki/Storyboard) sebagai bentuk seni dan motivasi. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Manajemen komunitas dan moderasi di awal - awal dan kontribusi besar selama masa waktunya. |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Menjadi pengelola komunitas pertama dan moderator global, yang menetapkan standar sangat tinggi untuk diikuti [GMT](/wiki/People/The_Team/Global_Moderation_Team). |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Menjadi pengelola staf pertama dan BATmanager dan sendirian membentuk tim moderasi beatmap elit dari nol. |

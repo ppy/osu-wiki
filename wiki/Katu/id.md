@@ -56,6 +56,6 @@ Kemunculan Geki akan memicu respon storyboard kedua terbaik (*second-tier storyb
 
 Kemunculan Katu dapat memicu hal-hal berikut:
 
-- Penonaktifan [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
-- Aktivasi [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
+- Penonaktifan [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers).
+- Aktivasi [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers).
 - Terjadinya suatu *event* yang dikategorikan dalam kelompok "Passing" walaupun pemain yang bersangkutan sebelumnya berada dalam keadaan "Fail".

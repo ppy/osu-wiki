@@ -27,7 +27,7 @@ Du point de vue auditif, une difficulté peut augmenter la musique en fournissan
   - a very small paragraph on every key component, including those from Beatmap#overview;
 -->
 
-Les [composants visuels](/wiki/Beatmap) d'une difficulté, contrairement à ses motifs, fournissent une expérience auxiliaire pendant le jeu et peuvent être désactivés dans la superposition des [paramètres visuels](/wiki/Visual_Settings) pour la plupart. Si certains d'entre eux, comme les [storyboards](/wiki/Storyboards) ou les [skins personnalisés](/wiki/Skinning), appartiennent à l'ensemble de la beatmap, la plupart des composants visuels peuvent varier en fonction de la difficulté (par exemple, les sections [kiai time](/wiki/Kiai_time) et les [couleurs de combos](/wiki/Glossary/Combo_colour)).
+Les [composants visuels](/wiki/Beatmap) d'une difficulté, contrairement à ses motifs, fournissent une expérience auxiliaire pendant le jeu et peuvent être désactivés dans la superposition des [paramètres visuels](/wiki/Visual_Settings) pour la plupart. Si certains d'entre eux, comme les [storyboards](/wiki/Storyboard) ou les [skins personnalisés](/wiki/Skinning), appartiennent à l'ensemble de la beatmap, la plupart des composants visuels peuvent varier en fonction de la difficulté (par exemple, les sections [kiai time](/wiki/Kiai_time) et les [couleurs de combos](/wiki/Glossary/Combo_colour)).
 
 ## Niveaux de difficulté
 

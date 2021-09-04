@@ -42,7 +42,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 Компоненти: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timelines](/wiki/Beatmap_Editor/Timelines)
 
-[Створення карт](/wiki/Beatmapping) • [Найменування складнощів](/wiki/Beatmap/Difficulty) • [Техніки створення карт](/wiki/Mapping_Techniques) • [Створення сторібордів](/wiki/Storyboarding)
+[Створення карт](/wiki/Beatmapping) • [Найменування складнощів](/wiki/Beatmap/Difficulty) • [Техніки створення карт](/wiki/Mapping_Techniques) • [Створення сторібордів](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

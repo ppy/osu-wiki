@@ -55,6 +55,6 @@ osu!maniaでは、喝は200と表示されます。これは200の基本スコ�
 
 喝を手に入れると、いくつかのイベントが発生します:
 
-- [Failレイヤー](/wiki/Storyboard_Scripting/General_Rules#layers)が無効化されます。
-- [Passレイヤー](/wiki/Storyboard_Scripting/General_Rules#layers)が有効になります。
+- [Failレイヤー](/wiki/Storyboard/Scripting/General_Rules#layers)が無効化されます。
+- [Passレイヤー](/wiki/Storyboard/Scripting/General_Rules#layers)が有効になります。
 - 以前の状態が「Fail」だった場合、「Passing」イベントが発生します。

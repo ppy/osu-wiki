@@ -44,7 +44,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 元件：[AiMod](/wiki/Beatmap_Editor/AiMod) • [節拍劃分](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [間隔控制](/wiki/Beatmap_Editor/Distance_Snap) • [選單](/wiki/Beatmap_Editor/Menu) • [Storyboard 負載](/wiki/Beatmap_Editor/SB_Load) • [時間軸](/wiki/Beatmap_Editor/Timelines)
 
-[製譜](/wiki/Beatmapping) • [難度](/wiki/Beatmap/Difficulty) • [製譜技巧](/wiki/Mapping_Techniques) • [製作 Storyboard](/wiki/Storyboarding)
+[製譜](/wiki/Beatmapping) • [難度](/wiki/Beatmap/Difficulty) • [製譜技巧](/wiki/Mapping_Techniques) • [製作 Storyboard](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

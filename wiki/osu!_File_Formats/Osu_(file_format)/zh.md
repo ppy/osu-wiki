@@ -114,7 +114,7 @@
 
 ### Storyboards（故事板）
 
-*更多故事板语法的信息。参见 [利用脚本制作故事板](/wiki/Storyboard_Scripting).*
+*更多故事板语法的信息。参见 [利用脚本制作故事板](/wiki/Storyboard/Scripting).*
 
 故事板可以在扩展名为 `.osb` 的单独可选故事板文件中定义。 外部故事板与同一谱面集的所有谱面共享。
 
