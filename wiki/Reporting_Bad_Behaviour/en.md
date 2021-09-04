@@ -73,6 +73,13 @@ This option works if the offending user is in sight:
 1. Under the comment, click the `report` link.
 2. Select the category and add details (optional).
 
+### Beatmap
+
+![](img/report-beatmap.png "The report button on a beatmap page")
+
+1. Press the button with three vertical dots and select `Report`.
+2. Select the category and add details (optional).
+
 ### Beatmap discussion
 
 ![](img/report-user-discussion.png "The report button on a discussion post")
@@ -80,7 +87,7 @@ This option works if the offending user is in sight:
 1. Under the discussion post, click the `report` link.
 2. Select the category and add details (optional).
 
-### Cheated score
+### Score listing
 
 ![](img/report-score-user.png "The report button on a top score in a user's profile")
 
