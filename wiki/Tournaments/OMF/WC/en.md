@@ -243,7 +243,7 @@ Saturday, 28 August 2021:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 4 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/90000968) |
-| **Singapore B** ![][flag_SG] | **2** | 5 | ![][flag_HK] Hong Kong B | [#1](https://osu.ppy.sh/community/matches/90006529) |
+| Singapore B ![][flag_SG] | 2 | **5** | ![][flag_HK] **Hong Kong B** | [#1](https://osu.ppy.sh/community/matches/90006529) |
 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FR] France B | [#1](https://osu.ppy.sh/community/matches/90006521) |
 | **South Korea** ![][flag_KR] | **5** | 3 | ![][flag_BR] Brazil B | [#1](https://osu.ppy.sh/community/matches/90010297) |
 | **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/90010059) |
@@ -260,16 +260,16 @@ Sunday, 29 August 2021:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Indonesia** ![][flag_ID] | **5** | 3 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/90045914) |
-| **Australia** ![][flag_AU] | **2** | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/90048283) |
+| Australia ![][flag_AU] | 2 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/90048283) |
 | **Finland** ![][flag_FI] | **5** | 3 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/90058274) |
-| **Malaysia B** ![][flag_MY] | **3** | 5 | ![][flag_NL] Netherlands B | [#1](https://osu.ppy.sh/community/matches/90061876) |
-| **Israel** ![][flag_IL] | **0** | 5 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/90070513) |
-| **Hungary** ![][flag_HU] | **-1** | 5 | ![][flag_ES] Spain |  |
+| Malaysia B ![][flag_MY] | 3 | **5** | ![][flag_NL] **Netherlands B** | [#1](https://osu.ppy.sh/community/matches/90061876) |
+| Israel ![][flag_IL] | 0 | **5** | ![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/90070513) |
+| Hungary ![][flag_HU] | -1 | **5** | ![][flag_ES] **Spain** |  |
 | **Russian Federation B** ![][flag_RU] | **5** | 4 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/90073561) |
-| **Austria B** ![][flag_AT] | **4** | 5 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/90076404) |
-| **Countryless B** ![][flag___] | **-1** | 5 | ![][flag_SK] Slovakia | [#1](https://osu.ppy.sh/community/matches/90079797) |
-| **United Kingdom B** ![][flag_GB] | **1** | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/90065138) |
-| **Colombia** ![][flag_CO] | **3** | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/90080188) |
+| Austria B ![][flag_AT] | 4 | **5** | ![][flag_PT] **Portugal** | [#1](https://osu.ppy.sh/community/matches/90076404) |
+| Countryless B ![][flag___] | -1 | **5** | ![][flag_SK] **Slovakia** | [#1](https://osu.ppy.sh/community/matches/90079797) |
+| United Kingdom B ![][flag_GB] | 1 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/90065138) |
+| Colombia ![][flag_CO] | 3 | **5** | ![][flag_DK] **Denmark** | [#1](https://osu.ppy.sh/community/matches/90080188) |
 
 Monday, 30 August 2021:
 
@@ -277,7 +277,7 @@ Monday, 30 August 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **Finland B** ![][flag_FI] | **5** | 4 | ![][flag_EE] Estonia | [#1](https://osu.ppy.sh/community/matches/90128921) |
 | **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/90134682) |
-| **Peru B** ![][flag_PE] | **0** | 5 | ![][flag_CZ] Czechia | [#1](https://osu.ppy.sh/community/matches/90139842) |
+| Peru B ![][flag_PE] | 0 | **5** | ![][flag_CZ] **Czechia** | [#1](https://osu.ppy.sh/community/matches/90139842) |
 
 ### Round of 64
 
@@ -289,14 +289,14 @@ Saturday, 28 August 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_MY] Malaysia B | [#1](https://osu.ppy.sh/community/matches/89555170) |
 | **China** ![][flag_CN] | **5** | 0 | ![][flag_PE] Peru B | [#1](https://osu.ppy.sh/community/matches/89595366) |
-| **Malaysia** ![][flag_MY] | **4** | 5 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/89611626) |
+| Malaysia ![][flag_MY] | 4 | **5** | ![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/89611626) |
 | **Thailand** ![][flag_TH] | **5** | 3 | ![][flag_CZ] Czechia | [#1](https://osu.ppy.sh/community/matches/89612952) |
 | **Japan** ![][flag_JP] | **5** | 0 | ![][flag_HK] Hong Kong B | [#1](https://osu.ppy.sh/community/matches/89614029) |
 | **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_HU] Hungary | [#1](https://osu.ppy.sh/community/matches/89617201) |
 | **Canada B** ![][flag_CA] | **5** | 3 | ![][flag_DE] Germany B | [#1](https://osu.ppy.sh/community/matches/89620054) |
 | **United States B** ![][flag_US] | **5** | -1 | ![][flag_ES] Spain B | [#1](https://osu.ppy.sh/community/matches/89622660) |
 | **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/89622673) |
-| **Canada** ![][flag_CA] | **5** | -1 | ![][flag___] Countryless B | [#1]() |
+| **Canada** ![][flag_CA] | **5** | -1 | ![][flag___] Countryless B |  |
 | **Chile** ![][flag_CL] | **5** | 1 | ![][flag_AR] Argentina B | [#1](https://osu.ppy.sh/community/matches/89635728) |
 
 Sunday, 29 August 2021:
@@ -307,14 +307,14 @@ Sunday, 29 August 2021:
 | **Argentina** ![][flag_AR] | **5** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/89650373) |
 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/89669002) |
 | **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_EE] Estonia | [#1](https://osu.ppy.sh/community/matches/89671085) |
-| **Norway** ![][flag_NO] | **2** | 5 | ![][flag_FR] France B | [#1](https://osu.ppy.sh/community/matches/89671687) |
+| Norway ![][flag_NO] | 2 | **5** | ![][flag_FR] **France B** | [#1](https://osu.ppy.sh/community/matches/89671687) |
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_SG] Singapore B | [#1](https://osu.ppy.sh/community/matches/89673897) |
 | **Germany** ![][flag_DE] | **5** | 3 | ![][flag_SK] Slovakia | [#1](https://osu.ppy.sh/community/matches/89676440) |
 | **Poland B** ![][flag_PL] | **5** | 0 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/89677184) |
 | **Italy** ![][flag_IT] | **5** | 1 | ![][flag_UY] Uruguay | [#1](https://osu.ppy.sh/community/matches/89679656) |
 | **Sweden** ![][flag_SE] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/89682748) |
 | **Romania** ![][flag_RO] | **5** | 2 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/89683718) |
-| **Countryless** ![][flag___] | **1** | 5 | ![][flag_BR] Brazil B | [#1](https://osu.ppy.sh/community/matches/89685117) |
+| Countryless ![][flag___] | 1 | **5** | ![][flag_BR] **Brazil B** | [#1](https://osu.ppy.sh/community/matches/89685117) |
 
 Monday, 30 August 2021:
 
