@@ -32,7 +32,6 @@ The **Old Map Fantasy World Cup** (***OMFWC***) is a country-based 4v4 double-el
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile banner |
 
-
 ## Organisation
 
 The Old Map Fantasy World Cup was run by various community members.
@@ -115,7 +114,7 @@ The Old Map Fantasy World Cup was run by various community members.
 | ![][flag_TH] | **Thailand** | **[Deppyforce](https://osu.ppy.sh/users/5286213)**, [Faken](https://osu.ppy.sh/users/10249166), [Koiyo](https://osu.ppy.sh/users/11373528), [- Phantasma -](https://osu.ppy.sh/users/1427407), [MCWG](https://osu.ppy.sh/users/4384795), [Sweet Princess](https://osu.ppy.sh/users/551369), [chantat on osu](https://osu.ppy.sh/users/12290117) |
 | ![][flag_GB] | **United Kingdom** | **[Kingling](https://osu.ppy.sh/users/7010761)**, [Doomsday](https://osu.ppy.sh/users/18983), [EZChamp](https://osu.ppy.sh/users/1719471), [Bubbleman](https://osu.ppy.sh/users/5182050), [mrowswares](https://osu.ppy.sh/users/9558549), [lystia](https://osu.ppy.sh/users/11042418), [Chemistry](https://osu.ppy.sh/users/6069540), [uee](https://osu.ppy.sh/users/3793976) |
 | ![][flag_GB] | **United Kingdom B** | **[Doughy](https://osu.ppy.sh/users/5275937)**, [Nek1i](https://osu.ppy.sh/users/6385453), [Danger](https://osu.ppy.sh/users/7238485), [Sspannish](https://osu.ppy.sh/users/11418478), [Twiki-](https://osu.ppy.sh/users/10329548), [Lemon Tree](https://osu.ppy.sh/users/15865385), [Greninja](https://osu.ppy.sh/users/8579186), [Gazza](https://osu.ppy.sh/users/3648459) |
-| ![][flag_US] | **United States** | **[AIREU](https://osu.ppy.sh/users/1650010)**, [im a fancy lad](https://osu.ppy.sh/users/4908650), [Woey](https://osu.ppy.sh/users/3792472), [Utami](https://osu.ppy.sh/users/7512553), [kablaze](https://osu.ppy.sh/users/3043603), [fieryrage](https://osu.ppy.sh/users/3533958), [WillCookie](https://osu.ppy.sh/users/6404488), [stackerjoe](https://osu.ppy.sh/users/7279141) | 
+| ![][flag_US] | **United States** | **[AIREU](https://osu.ppy.sh/users/1650010)**, [im a fancy lad](https://osu.ppy.sh/users/4908650), [Woey](https://osu.ppy.sh/users/3792472), [Utami](https://osu.ppy.sh/users/7512553), [kablaze](https://osu.ppy.sh/users/3043603), [fieryrage](https://osu.ppy.sh/users/3533958), [WillCookie](https://osu.ppy.sh/users/6404488), [stackerjoe](https://osu.ppy.sh/users/7279141) |
 | ![][flag_US] | **United States B** | **[BoshyMan741](https://osu.ppy.sh/users/4830687)**, [ConsumerOfBean](https://osu.ppy.sh/users/6293158), [Leftoverss](https://osu.ppy.sh/users/4665746), [toybot](https://osu.ppy.sh/users/2848604), [-Tynamo](https://osu.ppy.sh/users/3638962), [YoshiLover456](https://osu.ppy.sh/users/6843383), [Unique](https://osu.ppy.sh/users/6204231), [saiyo](https://osu.ppy.sh/users/2709574) |
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Rebo](https://osu.ppy.sh/users/6942259), [Raby](https://osu.ppy.sh/users/5218320), [Madozito](https://osu.ppy.sh/users/4054429), [Kazuki K](https://osu.ppy.sh/users/6407282), [Scramzi](https://osu.ppy.sh/users/6425836) |
 
@@ -240,6 +239,7 @@ The Old Map Fantasy World Cup was run by various community members.
 The stats of the Round of 32 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1dpX2983pjfa6FFzycWS7E_sEEd2rrH_ogVMxhJ1ibDI/edit?usp=sharing "Google spreadsheet").
 
 Saturday, 28 August 2021:
+
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 4 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/90000968) |
@@ -272,6 +272,7 @@ Sunday, 29 August 2021:
 | **Colombia** ![][flag_CO] | **3** | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/90080188) |
 
 Monday, 30 August 2021:
+
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Finland B** ![][flag_FI] | **5** | 4 | ![][flag_EE] Estonia | [#1](https://osu.ppy.sh/community/matches/90128921) |
@@ -324,7 +325,6 @@ Monday, 30 August 2021:
 | **Finland** ![][flag_FI] | **5** | 0 | ![][flag_FI] Finland B | [#1](https://osu.ppy.sh/community/matches/89733807) |
 | **Peru** ![][flag_PE] | **5** | 0 | ![][flag_NL] Netherlands B | [#1](https://osu.ppy.sh/community/matches/89750968) |
 
-
 ### Qualifiers
 
 See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/17yFrT7yEf5x01Xx3v4yxHNCEdOl630svCdFs2WIpRYk/edit#gid=809028813 "Google Sheets") for lists of all qualification results.
@@ -362,7 +362,6 @@ See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/
     - Declaring the match as Lost by Default
     - Disqualification from the entire tournament
 
-
 ### Tournament registration
 
 1. Every user interested in joining their country's team will sign up individually.
@@ -373,7 +372,6 @@ See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/
 2. All successfully formed teams will be published after the Registration Phase.
    - **A team should have at least 4 players registered to have the chance to play the Qualifier stage.**
    - **The top 64 seeded teams will qualify to the Round of 64.**
-
 
 ### Stage instructions
 
@@ -430,7 +428,6 @@ See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/
    - In the Quarterfinals and subsequent stages, team captains may inform Tournament Management if they expect a specific time slot to be unavailable in the following week. Schedule updates will be granted to the best of Management's abilities.
 5. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff in that particular week when your match takes place.**
 6. **Reschedules may only be requested by a team captain.**
-
 7. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
