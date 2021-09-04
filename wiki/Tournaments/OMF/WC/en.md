@@ -6,9 +6,9 @@ tags:
 
 # Old Map Fantasy World Cup
 
-![OMF World Cup Banner](img/banner.png)
+![OMFWC banner](img/banner.png)
 
-The **Old Map Fantasy World Cup** (***OMFWC***) is a country-based 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519). It is the first iteration of the Old Map Fantasy World Cup.
+The **Old Map Fantasy World Cup** (***OMFWC***) is a country-based 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519). It is the first instalment of the Old Map Fantasy.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ The **Old Map Fantasy World Cup** (***OMFWC***) is a country-based 4v4 double-el
 
 ## Organisation
 
-The Old Map Fantasy World Cup was run by various community members.
+The Old Map Fantasy World Cup is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -136,7 +136,7 @@ The Old Map Fantasy World Cup was run by various community members.
 - HardRock
   - [Rohi - Kodoku Egoism (NatsumeRin) \[Nold\]](https://osu.ppy.sh/beatmapsets/58737#osu/185667)
   - [DM Ashura - Chaotic WHITE (AngelHoney) \[Chaos\]](https://osu.ppy.sh/beatmapsets/22874#osu/81304)
-- Doubletime HardRock
+- DoubleTime & HardRock
   - [Matchbox Twenty - Push (mrtn) \[Hard\]](https://osu.ppy.sh/beatmapsets/4047#osu/23207)
 - DoubleTime
   - [SuganoMusic - Imademo... (S i R i R u) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/21960#osu/75930)
@@ -166,7 +166,7 @@ The Old Map Fantasy World Cup was run by various community members.
 - HardRock
   - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kurosanyan) \[Strongest Fairy\]](https://osu.ppy.sh/beatmapsets/29307#osu/100392)
   - [Cranky - Luvin' You (avira0922) \[MAX\]](https://osu.ppy.sh/beatmapsets/8923#osu/36134)
-- Doubletime HardRock
+- DoubleTime & HardRock
   - [BeForU - Moonbike (James) \[Hard\]](https://osu.ppy.sh/beatmapsets/1505#osu/13250)
 - DoubleTime
   - [Starving Trancer feat. MAKI - only my railgun (Leorda) \[Insane\]](https://osu.ppy.sh/beatmapsets/43513#osu/137575)
@@ -209,7 +209,7 @@ The Old Map Fantasy World Cup was run by various community members.
   - [BRIGHT - Ichinen Nikagetsu Hatsuka (Nymph) \[Hard\]](https://osu.ppy.sh/beatmapsets/50270#osu/154582)
   - [Santana feat. Rob Thomas - Smooth (lesjuh) \[Hard\]](https://osu.ppy.sh/beatmapsets/9781#osu/38695)
 - Tiebreaker
-  - [Ayane - Endless Tears... (lkp) \[Plus\]](https://osu.ppy.sh/beatmapsets/24960#osu/85355)
+  - **[Ayane - Endless Tears... (lkp) \[Plus\]](https://osu.ppy.sh/beatmapsets/24960#osu/85355)**
 
 ### Qualifiers
 
@@ -222,10 +222,10 @@ The Old Map Fantasy World Cup was run by various community members.
   - [Ruzarin Kashiwagi - Theme of Love (Short Ver.) (Hitoshirenu Shourai) \[Insane\]](https://osu.ppy.sh/beatmapsets/3892#osu/22828)
 - HardRock
   - [Kola Kid - can't hide your love (Kert) \[Can't\]](https://osu.ppy.sh/beatmapsets/39732#osu/126446)
-- Doubletime HardRock
+- DoubleTime & HardRock
   - [Angela Chang - Adventure of True Love (James) \[Hard\]](https://osu.ppy.sh/beatmapsets/3301#osu/21428)
 - DoubleTime
-  - [Mina - Kiss Kiss (osu_CN_yaya) \[Another\]](https://osu.ppy.sh/beatmapsets/9658#osu/38359)
+  - [Mina - Kiss Kiss (osu\_CN\_yaya) \[Another\]](https://osu.ppy.sh/beatmapsets/9658#osu/38359)
   - [Midnight Project - Crystal Cinderella (C R E A M) \[Cookietic\]](https://osu.ppy.sh/beatmapsets/28017#osu/96708)
 - Easy
   - [An - AxiVid (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmapsets/66000#osu/192802)
@@ -236,7 +236,7 @@ The Old Map Fantasy World Cup was run by various community members.
 
 ### Round of 32
 
-The stats of the Round of 32 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1dpX2983pjfa6FFzycWS7E_sEEd2rrH_ogVMxhJ1ibDI/edit?usp=sharing "Google spreadsheet").
+The stats of the Round of 32 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1dpX2983pjfa6FFzycWS7E_sEEd2rrH_ogVMxhJ1ibDI/edit?usp=sharing "Google Sheets").
 
 Saturday, 28 August 2021:
 
@@ -281,7 +281,7 @@ Monday, 30 August 2021:
 
 ### Round of 64
 
-The stats of the Round of 64 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1qdjdu2Ppg_vZgl4DBBDaO2QA4mbsSLQiUefPr4j7jq8/edit#gid=1455419690 "Google spreadsheet").
+The stats of the Round of 64 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1qdjdu2Ppg_vZgl4DBBDaO2QA4mbsSLQiUefPr4j7jq8/edit#gid=1455419690 "Google Sheets").
 
 Saturday, 28 August 2021:
 
