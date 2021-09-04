@@ -271,12 +271,12 @@ The system used to calculate health drain and health gain is complicated so it w
 
 ### History
 
-- Older version of osu! used to emulate some of the elements from the *ouendan* series before being removed or replaced:
+- Older version of osu! used to emulate some of the elements from the *Ouendan* series before being removed or replaced:
   - [Combo fire](/wiki/Glossary/Combo_fire) when hitting new combo milestones.
-  - The first version of default skin using v1 skin behaviour, which was *osu!default by peppy* skin, provides an almost identical copy of the *ouendan* interface.
+  - The first version of default skin using v1 skin behaviour, which was *osu!default by peppy* skin, provides an almost identical copy of the *Ouendan* interface.
     - It was replaced by nicer current default skin using v2 skin behaviour.
   - The most notable feature difference between v1 and v2 skin behaviour is the spinner.
-    - The v1 skin behaviour for a spinner would increment the spinner meter from bottom to top in levels until it is full as per *ouendan* series.
+    - The v1 skin behaviour for a spinner would increment the spinner meter from bottom to top in levels until it is full as per *Ouendan* series.
       - The timer is a circle inside the spinner which will converge to the centre core of the spinner. The spinner ends when the timer circle reached the centre core of the spinner.
     - The v2 skin behaviour for a spinner would slowly expand the spinner circle to full size and glows when it is completed.
       - The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.

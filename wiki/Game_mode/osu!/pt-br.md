@@ -266,12 +266,12 @@ O sistema usado para calcular o dreno de vida é complicado, então não será e
 
 ### Histórico
 
-- As versões antigas do osu! costumavam emular alguns elementos da série *ouendan*, mas com o passar do tempo foram removidos ou substituídos.
+- As versões antigas do osu! costumavam emular alguns elementos da série *Ouendan*, mas com o passar do tempo foram removidos ou substituídos.
   - [Combo fire](/wiki/Glossary/Combo_fire) ao atingir algumas metas de combo.
-  - A primeira versão da skin padrão era uma cópia quase idêntica da interface do *ouendan*.
+  - A primeira versão da skin padrão era uma cópia quase idêntica da interface do *Ouendan*.
     - Foi substituída pela por uma mais atualizada que está de acordo com novos padrões de comportamentos de skins.
   - A diferença mais notável entre o padrão de comportamento antigo e o novo está no spinner.
-    - O padrão v1 incrementava o timer do spinner até que ele estivesse completamente cheio, assim como no *ouendan*.
+    - O padrão v1 incrementava o timer do spinner até que ele estivesse completamente cheio, assim como no *Ouendan*.
       - O timer era um círculo dentro do spinner que convergia progressivamente para o núcleo deste. O spinner era completo quando o timer atingia o centro do núcleo do spinner.
     - O padrão v2 faz o spinner expandir progressivamente até o seu comprimento completo e adiciona um efeito de brilho quando o tamanho estabelecido é atingido.
       - O timer virou o círculo aproximatório que muda de cor a medida em que o spinner é completado.
