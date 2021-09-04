@@ -161,7 +161,7 @@ The Old Map Fantasy World Cup is run by various community members.
   - [Wada Kouji - Hirari (Ekaru) \[Insane\]](https://cdn.discordapp.com/attachments/414934337981644811/878710381734932550/Wada_Kouji_-_Hirari.osz)
 - Hidden
   - [Hirano Aya - Super Driver (CDFA) \[Collab\]](https://osu.ppy.sh/beatmapsets/21499#osu/74652)
-  - [fripSide - Assemble*LOVEsemble (ykcarrot) \[Ensemble\]](https://osu.ppy.sh/beatmapsets/10787#osu/42499)
+  - [fripSide - Assemble\*LOVEsemble (ykcarrot) \[Ensemble\]](https://osu.ppy.sh/beatmapsets/10787#osu/42499)
   - [TERRA - We Are (James) \[Insane\]](https://osu.ppy.sh/beatmapsets/846#osu/5413)
 - HardRock
   - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kurosanyan) \[Strongest Fairy\]](https://osu.ppy.sh/beatmapsets/29307#osu/100392)
@@ -192,11 +192,11 @@ The Old Map Fantasy World Cup is run by various community members.
 - Hidden
   - [Hatsune Miku - Hatsune Miku no Tomadoi (DJPop) \[Confusion\]](https://osu.ppy.sh/beatmapsets/15320#osu/55535)
   - [ZUN - Voyage 1969 (Sushi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16860#osu/60298)
-  - [Loos - LOVE * BEAM (james039) \[Insane\]](https://osu.ppy.sh/beatmapsets/4970#osu/25466)
+  - [Loos - LOVE \* BEAM (james039) \[Insane\]](https://osu.ppy.sh/beatmapsets/4970#osu/25466)
 - HardRock
   - [Kagamine Rin - Tokyo Teddy Bear (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/39838#osu/127138)
   - [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/40368#osu/131009)
-- Doubletime HardRock
+- DoubleTime & HardRock
   - [Wizet. Nexon - Coke Town (Metroid) \[Hard\]](https://osu.ppy.sh/beatmapsets/5424#osu/26660)
 - DoubleTime
   - [Megpoid GUMI - Mozaik Role (NatsumeRin) \[PoLKs\]](https://osu.ppy.sh/beatmapsets/20817#osu/74779)
