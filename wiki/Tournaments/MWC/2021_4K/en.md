@@ -255,6 +255,8 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 ### Semifinals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDhy2Sgc-Bw9vB484JdHKbD8I0ZTu7PT8O0J_h_NpfG7QmLfgFoHIVNoX1cgDggQANFumV296H0fVz/pubhtml "Google Sheets").
+
 Saturday, September 04, 2021
 
 | Team A | | | Team B | Match link |
