@@ -98,37 +98,55 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)**, [Neko-Pan](https://osu.ppy.sh/users/8676532), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [Edvo](https://osu.ppy.sh/users/8301758), [Doryoku](https://osu.ppy.sh/users/5639725), [Cerelac](https://osu.ppy.sh/users/8065567) |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [Lottery61](https://osu.ppy.sh/users/13821222), [Asrielly](https://osu.ppy.sh/users/2656302), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [LovelyL](https://osu.ppy.sh/users/14821320) |
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Saturday, September 04, 2021
+### Saturday, September 11, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_JP] | Japan | Sep 4 (Sat.) 11:00 UTC | Sep 4 (Sat.) 19:00 UTC+8 | Sep 4 (Sat.) 20:00 UTC+9 | ² |
-| South Korea | ![][flag_KR] | ![][flag_FR] | France | Sep 4 (Sat.) 12:00 UTC | Sep 4 (Sat.) 21:00 UTC+9 | Sep 4 (Sat.) 14:00 UTC+2 | ² |
-| Philippines | ![][flag_PH] | ![][flag_SG] | Singapore | Sep 4 (Sat.) 13:00 UTC | Sep 4 (Sat.) 21:00 UTC+8 | Sep 4 (Sat.) 21:00 UTC+8 | ² |
-| Vietnam | ![][flag_VN] | ![][flag_ID] | Indonesia | Sep 4 (Sat.) 14:45 UTC | Sep 4 (Sat.) 21:45 UTC+7 | Sep 4 (Sat.) 21:45 UTC+7 | ² |
-| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | Sep 4 (Sat.) 19:00 UTC | Sep 4 (Sat.) 20:00 UTC+1 | Sep 4 (Sat.) 16:00 UTC-3 | ¹ |
+| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Sep 11 (Sat.) 10:00 UTC | Sep 11 (Sat.) 18:00 UTC+8 | Sep 11 (Sat.) 19:00 UTC+9 | ² |
+| United Kingdom | ![][flag_GB] | ![][flag_VN] | Vietnam | Sep 11 (Sat.) 12:00 UTC | Sep 11 (Sat.) 13:00 UTC+1 | Sep 11 (Sat.) 19:00 UTC+7 | ² |
 
-### Sunday, September 05, 2021
+### Sunday, September 12, 2021
 
-| Team A | | | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_MY] | Malaysia | Sep 5 (Sun.) 04:00 UTC | Sep 4 (Sat.) 23:00 UTC-5 | Sep 5 (Sun.) 12:00 UTC+8 | ¹ |
-| Vietnam | ![][flag_VN] | ![][flag_PH] | Philippines | Sep 5 (Sun.) 09:15 UTC | Sep 5 (Sun.) 16:15 UTC+7 | Sep 5 (Sun.) 17:15 UTC+8 | ³ |
-| Indonesia | ![][flag_ID] | ![][flag_PH] | Philippines | Sep 5 (Sun.) 12:00 UTC | Sep 5 (Sun.) 19:00 UTC+7 | Sep 5 (Sun.) 20:00 UTC+8 | ³ |
-| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Sep 5 (Sun.) 12:00 UTC | Sep 5 (Sun.) 19:00 UTC+7 | Sep 5 (Sun.) 20:00 UTC+8 | ³ |
-| China | ![][flag_CN] | ![][flag_KR] | South Korea | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 21:00 UTC+8 | Sep 5 (Sun.) 22:00 UTC+9 | ³ |
-| China | ![][flag_CN] | ![][flag_FR] | France | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 21:00 UTC+8 | Sep 5 (Sun.) 15:00 UTC+2 | ³ |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 22:00 UTC+9 | Sep 5 (Sun.) 22:00 UTC+9 | ³ |
-| Japan | ![][flag_JP] | ![][flag_FR] | France | Sep 5 (Sun.) 13:00 UTC | Sep 5 (Sun.) 22:00 UTC+9 | Sep 5 (Sun.) 15:00 UTC+2 | ³ |
-| Vietnam | ![][flag_VN] | ![][flag_SG] | Singapore | Sep 5 (Sun.) 14:45 UTC | Sep 5 (Sun.) 21:45 UTC+7 | Sep 5 (Sun.) 22:45 UTC+8 | ³ |
+| Team A | | | Team B | Match time | Local time A | Local time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | Sep 12 (Sun.) 12:00 UTC | Sep 12 (Sun.) 21:00 UTC+9 | Sep 12 (Sun.) 13:00 UTC+1 | ³ |
+| Malaysia | ![][flag_MY] | ![][flag_GB] | United Kingdom | Sep 12 (Sun.) 12:00 UTC | Sep 12 (Sun.) 20:00 UTC+8 | Sep 12 (Sun.) 13:00 UTC+1 | ³ |
+| Japan | ![][flag_JP] | ![][flag_VN] | Vietnam | Sep 12 (Sun.) 12:00 UTC | Sep 12 (Sun.) 21:00 UTC+9 | Sep 12 (Sun.) 19:00 UTC+7 | ³ |
+| Malaysia | ![][flag_MY] | ![][flag_VN] | Vietnam | Sep 12 (Sun.) 12:00 UTC | Sep 12 (Sun.) 20:00 UTC+8 | Sep 12 (Sun.) 19:00 UTC+7 | ³ |
+| United States | ![][flag_US] | ![][flag_BR] | Brazil | Sep 12 (Sun.) 20:00 UTC | Sep 12 (Sun.) 15:00 UTC-5 | Sep 12 (Sun.) 17:00 UTC-3 | ¹ |
 
 ¹ Winners bracket match\
 ² Losers bracket match\
 ³ Final matchup depends on the results of ²
 
 ## Mappools
+
+### Finals
+
+- Rice
+  1. [Kuribayashi Minami - ZERO!! (stupud man) \[Skwid's Challenge 1.05x\]](https://osu.ppy.sh/beatmapsets/1450344#mania/2981851)
+  2. [Divine Heresy - Bleed The Fifth (Shoegazer) \[Deception 1.2x (286bpm)\]](https://osu.ppy.sh/beatmapsets/1481039#mania/3040598)
+  3. [DJ SHARPNEL - FAKE PROMISE (Shoegazer) \[Eternity 1.35x (258bpm)\]](https://osu.ppy.sh/beatmapsets/1441640#mania/2969934)
+  4. [DARK SAMBA MASTER -SATOH- - DARK SAMBA LAND (Mipha-) \[miphather 1.15x (167bpm)\]](https://osu.ppy.sh/beatmapsets/1206115#mania/2511427)
+  5. [Haruko Momoi - Eiyuu no Uta (Valedict) \[STORM OF BLOOD 1.1x\]](https://osu.ppy.sh/beatmapsets/1483232#mania/3114831)
+  6. [Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) \[Alice's First Law 1.15x (no mini-LNs)\]](https://osu.ppy.sh/beatmapsets/1438897#mania/3196807)
+  7. [Aquellex - Wanderflux (Halogen-) \[Extirpate 1.05x (268bpm)\]](https://osu.ppy.sh/beatmapsets/1564822#mania/3195737)
+- Hybrid
+  1. [Camellia - B L A C K - R A Y (Toaph Daddy) \[D A R K - M A G I C I A N x1.05\]](https://osu.ppy.sh/beatmapsets/1306124#mania/2707896)
+  2. [cosMo@BousouP - Dusanco Odyssey!! (lemonguy) \[MAXIMUM x1.05\]](https://osu.ppy.sh/beatmapsets/1497081#mania/3117177)
+  3. [Feryquitous - Arcahv (-mint-) \[Abraxos's Rend 1.1x\]](https://osu.ppy.sh/beatmapsets/1566545#mania/3198642)
+- LN
+  1. [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_editlocked\]](https://osu.ppy.sh/beatmapsets/1099229#mania/3200043)
+  2. [Function Phantom - Algebra (juankristal) \[Logaritmo Natural\]](https://osu.ppy.sh/beatmapsets/1568619#mania/3202757)
+  3. [C-Show - LubedeR (lemonguy) \[LN Master x1.05\]](https://osu.ppy.sh/beatmapsets/1512748#mania/3106492)
+  4. [Frums - VIS::CRACKED (\[Crz\]Crysarlene) \[mipha vs. crys's oblivion\]](https://osu.ppy.sh/beatmapsets/1561114#mania/3188294)
+- SV
+  1. [DJ Witch Girl Miracle - Mafain (Orca-) \[Phasmos\]](https://osu.ppy.sh/beatmapsets/1569493#mania/3205012)
+  2. [Jeff Allen ft. Noelle LeBlanc and Naoko Takamoto - Recession (Razzy) \[Peel Back The Cover\]](https://osu.ppy.sh/beatmapsets/758418#mania/1595289)
+- Tiebreaker
+  1. **[SUPER MWC KART - Purple Palace (-mint-) \[Rainbow Road Revolution\]](https://osu.ppy.sh/beatmapsets/1569527#mania/3205077)**
 
 ### Semifinals
 
@@ -234,6 +252,26 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 - [deathcount - A Beautiful Degeneracy (Remix by Stazma The Junglechrist) (Shoegazer) \[Stage 8: Desperado\]](https://osu.ppy.sh/beatmapsets/1535626#mania/3140053)
 
 ## Match results
+
+### Semifinals
+
+Saturday, September 04, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 5 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/90366440) |
+| **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/90368430) |
+| **Philippines** ![][flag_PH] | **7** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/90370579) |
+| **Vietnam** ![][flag_VN] | **7** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/90375487) |
+
+Sunday, September 05, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United Kingdom ![][flag_GB] | 1 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/90388662) |
+| **United States** ![][flag_US] | **7** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/90411906) |
+| **Vietnam** ![][flag_VN] | **7** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/90421240) |
+| **Japan** ![][flag_JP] | **7** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/90428313) |
 
 ## Quarterfinals
 
