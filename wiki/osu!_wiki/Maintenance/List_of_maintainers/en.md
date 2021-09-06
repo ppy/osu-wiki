@@ -26,25 +26,23 @@ If you need help with making a contribution or merging your pull request, talk t
 
 ## The news team
 
-Authors, editors, and approvers of all the [newsposts](https://osu.ppy.sh/home/news) that appear on the website.
+Curators, editors, and approvers of all the [newsposts](https://osu.ppy.sh/home/news) that appear on the website.
 
 | osu! profile | GitHub profile |
 | :-- | :-- |
-| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
+| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
 
 ## Past maintainers
 
-This table includes maintainers of the MediaWiki setup, which osu! wiki [used to have](/wiki/History_of_osu!/osu!_wiki).
+This list includes maintainers of the MediaWiki setup, which osu! wiki [used to have](/wiki/History_of_osu!/osu!_wiki):
 
-| osu! profile |
-| :-- |
-| ![][flag_RU] [\[Dellirium\]](https://osu.ppy.sh/users/519032) |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) |
-| ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) |
+- ![][flag_RU] [\[Dellirium\]](https://osu.ppy.sh/users/519032)
+- ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)
+- ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570)
+- ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)
+- ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
