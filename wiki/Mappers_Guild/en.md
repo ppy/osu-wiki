@@ -6,6 +6,8 @@ tags:
 
 # Mappers' Guild
 
+![](img/mg-logo.png)
+
 The **Mappers' Guild** is a group of mappers responsible for creating [beatmaps](/wiki/Beatmap) for osu!'s [featured artists](/wiki/Featured_Artists). Utilising an MMO-style guild format, it allows mappers to earn rewards by participating in the ranking process for featured artist beatmaps and cooperating in mapping-related quests.
 
 Guild organisation and discussion can be found in the `#mappers-guild` channel of the [osu!dev Discord server](https://discord.gg/ppy).
@@ -35,6 +37,8 @@ Quests will automatically expire after 3 months of inactivity. Any user can re-o
 Quest participation is not required for members of the Mappers' Guild. If a user wants to, they may create beatmaps alone to earn rewards.
 
 ### Rewards
+
+![](img/mg-badges.png "The four tiers of the Mappers' Guild profile badge")
 
 Rewards are distributed through a points system. When a user reaches a specified points threshold, they earn a different rank signified by a profile badge. There are four profile badge tiers at 100, 250, 500, and 1000 points respectively.
 
