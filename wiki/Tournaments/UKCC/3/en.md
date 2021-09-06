@@ -592,7 +592,7 @@ Saturday, 1 July 2017:
 | Tironas ![][flag_LT] | 1 | **3** | ![][flag_GB] **Doughy** |  |
 | Electovoid ![][flag_GB] | -1 | **0** | ![][flag_GB] **- Akemi** | *forfeit* |
 | **Orenjijusu** ![][flag_GB] | **3** | 0 | ![][flag_GB] Mashihoe |  |
-| **D u c k y** ![][flag_IE] | **3** | 0 | ![][flag_GB] _Oliver_ |  |
+| **D u c k y** ![][flag_IE] | **3** | 0 | ![][flag_GB] \_Oliver\_ |  |
 
 Sunday, 2 July 2017:
 
