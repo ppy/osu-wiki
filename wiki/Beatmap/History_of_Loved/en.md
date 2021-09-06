@@ -44,6 +44,8 @@ After a few rounds of the original style of polling, Toy decided to use a slight
 
 <!-- TODO: Documentation of ~2018 and on -->
 
+In December 2020, development efforts for the official [Project Loved website](https://loved.sh/) began, and shortly after it was launched, merely as an admin page for the coordinators at first. By mid-2021, the website was made available for the rest of the team. Eventually, in August 2021, the Google forms and sheets used for beatmap submissions and viewing were fully deprecated and begun to be hosted on the website instead.
+
 ## Present day
 
 [Project Loved](/wiki/Project_Loved) is the current system being used to move maps to Loved. More details and information about how to get beatmaps up for voting in Project Loved can be found in its wiki article.
