@@ -44,9 +44,15 @@ Points are earned for different mapping-related tasks. Earnings vary between tas
 
 Difficulty creation tasks earn a user more points if the beatmap is associated with a quest. Completing a quest before its deadline provides users with bonus points for each difficulty mapped and a flat bonus for all users involved in the quest. This flat bonus is lost after the deadline is passed, however difficulty bonuses are kept with diminishing returns after 0, 20 and 40 day increments beyond the deadline.
 
+### Showcase beatmaps
+
+*Main article: [Featured artist showcase beatmaps](https://osu.ppy.sh/wiki/en/Featured_Artists/Featured_Artist_Showcase_Beatmaps)*
+
+Members of the Mappers' Guild may also participate in the creation of showcase beatmaps for future featured artist announcements. Upon the announcement of the corresponding featured artist, these beatmaps are highlighted in the [newspost](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame "Twitter") as well.
+
 ## History
 
-The Mappers' Guild launched with a group of less than 10 mappers in late 2017. Given information on an upcoming featured artist at the time, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), they were tasked with creating 5 beatmaps to accompany the artist's [news post announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
+The Mappers' Guild launched with a group of less than 10 mappers in late 2017. Given information on an upcoming featured artist at the time, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), they were tasked with creating six beatmaps to accompany the artist's [news post announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
 To promote older featured artists, the group increased its member count and ranked 8 beatmaps from different artists. These beatmaps were published in a [news post](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) alongside a downloadable beatmap pack<!-- TODO: beatmap pack article -->.
 

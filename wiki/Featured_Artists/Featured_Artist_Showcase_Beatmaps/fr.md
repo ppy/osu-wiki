@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Vitrine des beatmaps des artistes associés
 
 Les membres de la [Mappers' Guild](/wiki/Mappers_Guild) créent parfois des "beatmaps vitrines" exclusives en utilisant des chansons et d'autres éléments des [artistes associés](/wiki/Featured_Artists) inédits d'osu!. Lorsqu'un artiste est annoncé publiquement, ces beatmaps sont publiées dans les [newsposts](https://osu.ppy.sh/home/news) et font souvent l'objet d'une promotion sur le [Twitter @osugame](https://twitter.com/osugame).
