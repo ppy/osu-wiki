@@ -10,7 +10,7 @@ tags:
 
 # Fingerlock
 
-*Artikel ini bukan mengenai [Notelock](/wiki/Beatmapping/Overall_difficulty#notelock) atau [Mind block](/wiki/Gameplay/Mind_block).*
+*Artikel ini bukan mengenai [Notelock](/wiki/Gameplay/Notelock) atau [Mind block](/wiki/Gameplay/Mind_block).*
 
 **Fingerlock** (secara alternatif dieja `finger-lock` atau `finger lock`) adalah istilah yang digunakan untuk mendeskripsikan sensasi kehilangan kendali sesaat atas jari-jari seseorang saat bermain osu!. Meskipun bukan istilah khusus untuk osu!, istilah ini banyak digunakan oleh pemain untuk mengungkapkan rasa frustrasi dengan permainan di mana pemain tahu kapan dan di mana harus menekan [hit object](/wiki/Hit_object), tetapi entah mengapa tidak menekannya, secara efektif menciptakan sensasi di mana jari tersebut terasa seolah-olah "terkunci" di tempatnya. Oleh karena itu dinamai "fingerlock".
 
