@@ -7,7 +7,7 @@ tags:
 
 # Note lock
 
-![](img/notelock.gif "Example of note lock: the second note is inaccessible")
+![](img/notelock.gif "An example of note lock: the second note is inaccessible")
 
 **Note lock** is an informal term for a gameplay mechanic of [osu!](/wiki/Game_mode/osu!) which may prevent a player from clearing a hit object. It happens if **two** conditions are met at the same time:
 
