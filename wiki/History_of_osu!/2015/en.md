@@ -115,14 +115,14 @@ A few days later (19 November 2015), peppy updated users on the situation in [an
 > - All users which were targeted so far have used the same password for 3+ years.
 > - Many used a very simple password, or shared the password across other services.
 > - All users compromised have had at least one other account compromised in the past.
->
+
 > Nonetheless, I am still taking further action:
 >
 > - I’ve expanded the list of common passwords, and am forcefully resetting passwords of users which have these.
 > - We are on high alert and ready to help users out which are experiencing troubles.
 > - We’ve made procedures for users which have invalid email addresses so they can recover their account successfully.
 > - Working on adding two-factor support (email for now) to the osu! client. Should surface very soon.
->
+
 > We have a lot of accounts to forcefully reset due to weak passwords, and due to limited support staff, will be staggering the “rollout” of these resets over the coming weeks.
 
 — peppy, "20151119" [[40]][r]

@@ -23,7 +23,7 @@ Chaque partie du développement possède son propre canal de discussion :
 | [osu!lazer](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
-| Discussions et modifications apportées au [Star Rating](/wiki/Beatmapping/Star_rating) et aux [points de performance](/wiki/Performance_Points) dans le mode [osu!](/wiki/Game_mode/osu!)  | `#difficulty-osu` |
+| Discussions et modifications apportées au [Star Rating](/wiki/Beatmapping/Star_rating) et aux [points de performance](/wiki/Performance_Points) dans le mode [osu!](/wiki/Game_mode/osu!) | `#difficulty-osu` |
 | Discussions et modifications apportées au Star Rating et aux points de performance dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko) | `#difficulty-taiko` |
 | Discussions et modifications apportées au Star Rating et aux points de performance dans le mode [osu!catch](/wiki/Game_mode/osu!catch) | `#difficulty-catch` |
 | Discussions et modifications apportées au Star Rating et aux points de performance dans le mode [osu!mania](/wiki/Game_mode/osu!mania) | `#difficulty-mania` |
