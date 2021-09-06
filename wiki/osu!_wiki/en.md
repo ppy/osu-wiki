@@ -1,11 +1,11 @@
 # osu! wiki
 
-The **osu! wiki** is an open-source knowledge database written and maintaned by [volunteer contributors](https://github.com/ppy/osu-wiki/graphs/contributors). It contains a wide range of information on topic related to osu!, its community, and related activities and concepts. The wiki serves as an official source of information and is considered a documentation of the osu! history.
+The **osu! wiki** is an open-source knowledge database written and maintained by [volunteer contributors](https://github.com/ppy/osu-wiki/graphs/contributors). It contains a wide range of information on topics related to osu!, its community, and related activities and concepts. The wiki serves as an official source of information and is considered a documentation of the osu! history.
 
 All discussions which cover the wiki in general, its development, and changes to articles, happen in the `#osu-wiki` channel of the official [osu!dev Discord server](/wiki/osu!dev_Discord_server). To learn how you can help the osu! wiki, read the following articles:
 
 - [Contribution guide](/wiki/osu!_wiki_Contribution_Guide)
-- [Maintenance](/wiki/osu!_wiki/Maintenance)
+- [osu! wiki maintenance](/wiki/osu!_wiki/Maintenance)
 
 ## History
 
@@ -25,11 +25,11 @@ For most articles, translations are available. They are done by the community me
 
 The osu! wiki is built around the concept of accessibility: edits and translations are encouraged and may be done by anyone capable and knowledgeable. The data for articles is stored in a [GitHub repository](https://github.com/ppy/osu-wiki) and updated by contributors through [use of pull requests](/wiki/osu!_wiki_Contribution_Guide), which then are reviewed and merged by the [wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
 
-The articles are formatted using [GitHub-flavoured Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). Additionally, the website engine implements custom features, which are crucual for the wiki as a whole, such as redirects, front matter, or formatting improvements<!-- TODO: article on custom features of the wiki? it could help us ease the ASC a bit as well -->.
+The articles are formatted using [GitHub-flavoured Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). Additionally, the website engine implements custom features, which are crucial for the wiki as a whole, such as redirects, front matter, or formatting improvements<!-- TODO: article on custom features of the wiki? it could help us ease the ASC a bit as well -->.
 
 Articles are composed according to the [styling criteria](/wiki/Article_styling_criteria) of the osu! wiki, which means they are written in a neutral language and follow common formatting and design rules. Some informational articles serve as a list of commonly asked questions (FAQ) on the topic and use informal language. Translations follow the content parity principle and comply with the same formatting and writing rules.
 
 Despite having the *wiki* suffix in its name, the osu! wiki doesn't fully satisfy [the Wiki concept](https://en.wikipedia.org/wiki/Wiki):
 
 - Users are encouraged to improve existing articles and create new ones, but basic knowledge of [GitHub](https://github.com) is expected, which raises the threshold necessary for entry;
-- All changes to the osu! wiki are premoderated and undergo the review process, where a contributor is expected to collaborate with the wiki maintainers.
+- All changes to the osu! wiki are pre-moderated and undergo the review process, where a contributor is expected to collaborate with the wiki maintainers.

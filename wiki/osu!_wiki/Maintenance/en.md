@@ -16,7 +16,7 @@ Maintainers perform the final review of pull requests and merge them. If you hav
 
 ### Issue tracker
 
-The osu! wiki's [issue tracker](https://github.com/ppy/osu-wiki/issues) contains ideas and requests for possible improvements, both for the articles themselves and wiki-related part of the website. Open an issue if you have a feature request for wiki, or if you found a mistake on one of the pages. Please note that **this is only limited to the osu! wiki**: if you need assistance with other official projects related to osu!, use their own issue trackers:
+The osu! wiki's [issue tracker](https://github.com/ppy/osu-wiki/issues) contains ideas and requests for possible improvements, both for the articles themselves and wiki-related parts of the website. Open an issue if you have a feature request for wiki, or if you found a mistake on one of the pages. Please note that **this is only limited to the osu! wiki**: if you need assistance with other official projects related to osu!, use their own issue trackers:
 
 - [osu!(lazer)](https://github.com/ppy/osu)
 - [The osu! website](https://github.com/ppy/osu-web/)
@@ -41,7 +41,7 @@ According to [[RC]], this is forbidden.
 
 When adding redirects for a new or existing article, make sure to check the following:
 
-- The redirect should be designed for use and be conscise—don't add it for the sake of adding.
+- The redirect should be designed for use and be concise—don't add it for the sake of adding.
 - The redirect should not conflict with existing redirects.
 
 <!-- TODO: should probably briefly mention external links https://github.com/ppy/osu-web/issues/8086 and footnotes https://github.com/ppy/osu-wiki/issues/4911#issuecomment-893959588 once they are implemented -->
@@ -53,7 +53,7 @@ The osu! wiki repository uses [continuous integration](https://docs.github.com/e
 The CI checks are run automatically on every commit of a recurring contributor. In order to have their pull requests merged, contributors are expected to fix errors reported by the CI. To see the [status of checks](img/ci-status.png), do the following:
 
 1. Scroll the pull request's page down, find the `osu-wiki continuous integration` status row, and click the `Details` link.
-2. On the new page, expand the `run remark on changed files` step. Each finding is accompanied by a its exact location in a file and a short description of why is it an error.
+2. On the new page, expand the `run remark on changed files` step. Each finding is accompanied by its exact location in a file and a short description of why it is an error.
 
 If you need help with decrypting the CI check errors, or fixing the issues, ask in the `#osu-wiki` channel on Discord.
 
@@ -71,7 +71,7 @@ Some features are not directly related to the osu! website, but may be useful fo
 
 ## Routines
 
-*Note: the [osu-wiki status](https://clayton.cc/osu-wiki-status/en) website shows list of all articles in need of maintenance, broken down by category.*
+*Note: the [osu-wiki status](https://clayton.cc/osu-wiki-status/en) website shows a list of all articles in need of maintenance, broken down by category.*
 
 The wiki relies on input from the osu! community. You can help the maintainers and other contributors by doing your part. For information on how to do that, read the [contribution guide](/wiki/osu!_wiki_Contribution_Guide) If at any point you feel stuck, ask for help in the `#osu-wiki` channel of [osu!dev Discord server](/wiki/osu!dev_Discord_server).
 
@@ -89,7 +89,7 @@ A translation may be merged without a native review if it's been more than two w
 
 *For the scope of work, see [list of existing stubs (English)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md).*
 
-Some articles of the osu! wiki are incomplete and lack information on topic. Such articles are marked as *stubs*, which means that they are important enough to be referred to, but will be completed later. If you are familiar with the topic of the article, contribute to it and share your knowledge.
+Some articles of the osu! wiki are incomplete and lack information. Such articles are marked as *stubs*, which means that they are important enough to be referred to, but will be completed later. If you are familiar with the topic of the article, contribute to it and share your knowledge.
 
 ### Cross-linking
 
@@ -97,7 +97,7 @@ One of the key features of any wiki is *connectivity*, when an article refers to
 
 ### New articles
 
-osu! is an ever-changing environment: the community makes new beatmaps, invents new ways of self-expression, and does other *new* things. If a certain topic or term is not covered, don't hesitate to write an article about it and contribute to the pool of global knowledge. New tournament or contest? New osu! feature? Unknown part of the lore? Put your sharp writing skills to a good use.
+osu! is an ever-changing environment: the community makes new beatmaps, invents new ways of self-expression, and does other *new* things. If a certain event or term is not covered, don't hesitate to write an article about it and contribute to the pool of global knowledge. New tournament or contest? New osu! feature? Unknown part of the lore? Put your sharp writing skills to good use.
 
 ### Updates
 
