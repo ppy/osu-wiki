@@ -22,7 +22,7 @@ Taking a page out of **Harumaki Gohan**'s notebook, we took osu! to the coast fo
 
 ### Suisei ni Nareta nara
 
-Try out [this map](https://osu.ppy.sh/beatmapsets/1344515) by [torriru](https://osu.ppy.sh/users/15342657) from the video above or [this harder map](https://osu.ppy.sh/beatmapsets/1215982) by [Remapper](https://osu.ppy.sh/users/3045895)!
+Try out [this map](https://osu.ppy.sh/beatmapsets/1344515) by [torriru](https://osu.ppy.sh/users/15342657) from the video above or [this harder map](https://osu.ppy.sh/beatmapsets/1215982) appropriately created by [\[Hatsune Miku\]](https://osu.ppy.sh/users/3045895)!
 
 **VOCALOID version:**
 
