@@ -131,15 +131,26 @@ While Half Time and Double Time does not change the actual given AR value, the s
 
 ![Detailed OD chart](img/ODTable.png "Detailed OD chart")
 
+*Note: The above table only applies for osu!*
+
+*Note: Overall difficulty is visible when viewing osu!catch beatmap information, but it does not affect gameplay.*
+
 *Notice: On the beatmap page, Overall Difficulty is listed as Accuracy.*
 
 Overall Difficulty, commonly abbreviated as OD, defines how difficult it is to achieve high accuracy. The values range from 0 to 10; higher OD values will require more accuracy and precision. Since accuracy is important for gaining HP, Overall Difficulty indirectly influences how hard it is to pass the beatmap. Higher OD values mean shorter time windows to clear the hit objects, both in general and terms of getting the highest score value from the hit object.
 
-In osu!, this also affects spinners, in which they must be spun more to fill up the gauge in time. In osu!taiko, the denden (osu!taiko spinner) will also need more hits to clear it.
+In osu!, the timing system does not allow an object to be hit until the previous object is either (1) hit and receives a judgement or (2) missed after the hit window passes. If the hit windows is too long, the next object's hit window may overlap with the previous one. If an next object is hit in the overlapping time period while the previous object hasn't undergone (1) or (2), it will be "locked" and the hit will not count as a (1). This is informally called "notelock" in osu!, or "column locking" or "cbrushing" in osu!mania. For more details and examples, see the page [Notelock](/wiki/Gameplay/Notelock). For this reason, it is advised not to use low OD values in high BPM maps.
+
+Gamemode specifics:
+
+- osu!: Spinners must be spun more to fill up the gauge.
+- osu!taiko: The denden (spinner) require more hits to clear.
+- osu!mania: Each lane's timing window is independent and it is possible to notelock on any combination of columns.
+- osu!catch is simply not affected by OD.
 
 *Note: This does imply that raising the OD too high can make previously possible spinners near impossible to clear on time.*
 
-In osu!, the timing system will not allow a hit object to be tapped until the previous object is tapped (or missed after the hit window passes); resulting in a miss. With a low OD value, the hit window of one hit object may overlap with the next. Thus, a player could hit the second hit object with perfect timing after failing to hit the first hit object but this would result in completely missing both hit objects due to the hit window of the first hit object being active.
+If you wish to calculate the hit windows, explicit formulas can be found [here](/wiki/Beatmapping/Overall_difficulty).
 
 ---
 
@@ -149,8 +160,8 @@ There are four mods which alter Overall Difficulty timing when activated:
 
 - [Easy](/wiki/Game_modifier/Easy): Halves the OD value.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplies the OD value by 1.4, up to a maximum of OD10.
-- [Double Time](/wiki/Game_modifier/Double_Time): The OD value is not affected, but due to the 50% play speed increase this causes hit windows to be 33% shorter.
-- [Half Time](/wiki/Game_modifier/Half_Time): The OD value is not affected, but due to the 25% play speed decrease, this causes hit windows to be 33% longer.
+- [Double Time](/wiki/Game_modifier/Double_Time): The OD value is not affected, but due to the 50% play speed increase this effectively causes hit windows to be 33% shorter.
+- [Half Time](/wiki/Game_modifier/Half_Time): The OD value is not affected, but due to the 25% play speed decrease, this effectively causes hit windows to be 33% longer.
 
 While Half Time and Double Time do not change the actual OD value, the speed's effect on hit windows will make the hit objects seem to have a lower or higher apparent OD, respectively. In the OD chart provided, apparent OD values are provided to allow comparison between timings with and without these mods. Note that these apparent OD values only apply to 300s on circles. Windows for 100s, 50s, and sliders (which use the 50 hit window) scale more harshly with Double Time than this apparent OD suggests and more leniently with Half Time. Again, outside of NoMod, HR, and EZ (on the left side); the OD values provided are only for comparison: the actual OD value is always a number from 0 to 10.
 
