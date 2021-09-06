@@ -17,7 +17,7 @@ If you need help with making a contribution or merging your pull request, talk t
 | ![][flag_DE] [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | Inactive | German |
 | ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Inactive | - |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Inactive | German |
-| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | Inactive | - |
+| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Active** | Japanese |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | [Repflez](https://github.com/Repflez) | Inactive | Spanish |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Inactive | French |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Active** | Russian |

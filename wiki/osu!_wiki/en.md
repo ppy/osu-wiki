@@ -5,7 +5,7 @@ The **osu! wiki** is an open-source knowledge database written and maintaned by 
 All discussions which cover the wiki in general, its development, and changes to articles, happen in the `#osu-wiki` channel of the official [osu!dev Discord server](/wiki/osu!dev_Discord_server). To learn how you can help the osu! wiki, read the following articles:
 
 - [Contribution guide](/wiki/osu!_wiki_Contribution_Guide)
-- [osu! wiki maintenance](/wiki/osu!_wiki/Maintenance)
+- [Maintenance](/wiki/osu!_wiki/Maintenance)
 
 ## History
 
