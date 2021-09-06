@@ -79,7 +79,7 @@ The wiki relies on input from the osu! community. You can help the maintainers a
 
 <!-- note: the GitHub links are intentional here, because they expose many articles of a category at once -->
 
-*For the list of translations and their completeness, see [osu-wiki status](https://clayton.cc/osu-wiki-status/en).*
+*For a list of translations and their completeness, see: [osu-wiki status](https://clayton.cc/osu-wiki-status/en)*
 
 The osu! wiki is read by people from all around the world. To help your local community and attract new awesome players, mappers, modders, and developers into the game, you can translate English articles, or update existing translations that fell behind—the only thing that limits you is a [list of languages supported by the osu! wiki](/wiki/Article_styling_criteria/Formatting#locales). If you are a fluent speaker and experienced writer, take on key topics such as articles from [Rules](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) or [Ranking Criteria](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). In case you only begin your writing career, pick a small article to receive help and guidance from the native reviewers.
 
@@ -87,7 +87,7 @@ A translation may be merged without a native review if it's been more than two w
 
 ### Stub expansion
 
-*For the scope of work, see [list of existing stubs (English)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md).*
+*For possible scope of work, see: [List of existing stubs (English)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
 
 Some articles of the osu! wiki are incomplete and lack information. Such articles are marked as *stubs*, which means that they are important enough to be referred to, but will be completed later. If you are familiar with the topic of the article, contribute to it and share your knowledge.
 
@@ -100,5 +100,7 @@ One of the key features of any wiki is *connectivity*, when an article refers to
 osu! is an ever-changing environment: the community makes new beatmaps, invents new ways of self-expression, and does other *new* things. If a certain event or term is not covered, don't hesitate to write an article about it and contribute to the pool of global knowledge. New tournament or contest? New osu! feature? Unknown part of the lore? Put your sharp writing skills to good use.
 
 ### Updates
+
+*For possible scope of work, see: [List of untracked TODOs (English)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
 
 Existing articles need maintenance, too. If you have found a factual error, or there are details missing, or if you simply want to rewrite/expand the article according to the reality, step forward and make the osu! wiki a better place. In case the change you plan is large or significant enough, make sure to bring it up for discussion in the `#osu-wiki` channel, or [create a tracking issue](https://github.com/ppy/osu-wiki/issues/new).
