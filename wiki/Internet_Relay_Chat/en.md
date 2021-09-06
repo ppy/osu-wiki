@@ -1,6 +1,6 @@
 # Internet Relay Chat
 
-*For further information, see: [Internet Relay Chat (Wikipedia)](https://en.wikipedia.org/wiki/Internet_Relay_Chat "Wikipedia")*
+*For further information, see: [Internet Relay Chat (Wikipedia)](https://en.wikipedia.org/wiki/Internet_Relay_Chat)*
 
 The **Internet Relay Chat** (**IRC**) is an application layer protocol used for chatting with numerous online clients.
 
@@ -39,14 +39,14 @@ By default, many IRC clients inform you when a user joins or leaves a channel. F
 
 | IRC client | Description |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/ "GitHub") | Check "Hide join and part messages" under `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
-| [ircII](http://www.eterna.com.au/ircii/ "ircII") | Type `IGNORE * CRAP` |
-| [Irssi](https://irssi.org "Irssi") | Type `/ignore * JOINS PARTS QUITS` |
-| [Weechat](https://weechat.org/ "Weechat") | Type `/filter add joinquit * irc_join,irc_part,irc_quit *` |
-| [KVIrc](https://www.kvirc.net/ "KVIrc") | (Refer to [the KVIrc wiki page](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub")) |
-| [mIRC](https://www.mirc.com/ "mIRC") | Go to mIRC Options (`Tools` -> `Options`, or `Alt` + `O`), select `IRC`, click the `Events...` button and select `Hide` for joins and parts |
-| [Quassel IRC](https://quassel-irc.org/ "Quassel IRC") | Right-click inside the chat and choose Joins/Parts/Quits in the "Hide Events" menu |
-| [XChat](http://xchat.org/ "XChat") | Type `/set irc_conf_mode 1` |
+| [HexChat](https://hexchat.github.io/) | Check "Hide join and part messages" under `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
+| [ircII](http://www.eterna.com.au/ircii/) | Type `IGNORE * CRAP` |
+| [Irssi](https://irssi.org) | Type `/ignore * JOINS PARTS QUITS` |
+| [Weechat](https://weechat.org/) | Type `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [KVIrc](https://www.kvirc.net/) | (Refer to [the KVIrc wiki page](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
+| [mIRC](https://www.mirc.com/) | Go to mIRC Options (`Tools` -> `Options`, or `Alt` + `O`), select `IRC`, click the `Events...` button and select `Hide` for joins and parts |
+| [Quassel IRC](https://quassel-irc.org/) | Right-click inside the chat and choose Joins/Parts/Quits in the "Hide Events" menu |
+| [XChat](http://xchat.org/) | Type `/set irc_conf_mode 1` |
 
 ## FAQ
 
@@ -82,4 +82,4 @@ Users connected via osu! client or web site have no prefix.
 
 ### Someone sends messages, but they are not in the list of channel users!
 
-They are either using [the web version of chat](https://osu.ppy.sh/community/chat) or connected via [osu!lazer](https://github.com/ppy/osu "GitHub").
+They are either using [the web version of chat](https://osu.ppy.sh/community/chat) or connected via [osu!lazer](https://github.com/ppy/osu).

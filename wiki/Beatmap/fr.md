@@ -76,7 +76,7 @@ Les beatmaps qui ont été classées le même mois ou qui partagent le même th�
 Il existe également d'autres sources de beatmaps, qui ne sont **ni vérifiées ni administrées par l'osu!team**. Cependant, elles sont disponibles sur les forums et sont appréciées par la communauté. Ces sources incluent:
 
 - des plateformes de téléchargements de beatmaps hébergées par des tiers;
-- des packs fait par des joueurs et des compilations partagées via [des réseaux peer-to-peer](https://fr.wikipedia.org/wiki/Pair-à-pair "Wikipédia"), tels que BitTorrent.
+- des packs fait par des joueurs et des compilations partagées via [des réseaux peer-to-peer](https://fr.wikipedia.org/wiki/Pair-à-pair), tels que BitTorrent.
 
 ## Beatmaps et la communauté
 

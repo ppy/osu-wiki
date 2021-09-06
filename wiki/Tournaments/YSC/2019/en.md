@@ -54,10 +54,10 @@ Yaz's Summer Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/913011)
-- [Challonge](https://challonge.com/YSC2019 "Challonge")
-- [Discord](https://discord.gg/brQzjbb "Discord")
-- [Livestream](https://www.twitch.tv/summer_cup_osu "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit?usp=sharing "Google Sheets")
+- [Challonge](https://challonge.com/YSC2019)
+- [Discord](https://discord.gg/brQzjbb)
+- [Livestream](https://www.twitch.tv/summer_cup_osu)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit?usp=sharing)
 
 ## Participants
 
@@ -68,7 +68,7 @@ Yaz's Summer Cup 2019 was run by various community members.
 | 33-48 | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_MN] [Seegii](https://osu.ppy.sh/users/4659319), ![][flag_AU] [Vivace](https://osu.ppy.sh/users/3698691), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [thaibuy](https://osu.ppy.sh/users/4250296), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_PL] [GunOfGaming](https://osu.ppy.sh/users/5522259), ![][flag_AR] [-Nanahira-](https://osu.ppy.sh/users/6169195), ![][flag_HK] [IllyaLover](https://osu.ppy.sh/users/9313951), ![][flag_US] [spaghetti cat](https://osu.ppy.sh/users/8457202), ![][flag_NL] [Lilily](https://osu.ppy.sh/users/6502403), ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984), ![][flag_PL] [twoj stary](https://osu.ppy.sh/users/3543130), ![][flag_GB] [hlo](https://osu.ppy.sh/users/2232928) |
 | 49-64 | ![][flag_AU] [Ezipie](https://osu.ppy.sh/users/5978907), ![][flag_GB] [Woffel](https://osu.ppy.sh/users/3915122), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568), ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_AU] [ASecretWaffle](https://osu.ppy.sh/users/3336090), ![][flag_AU] [Eta Carinae](https://osu.ppy.sh/users/5841333), ![][flag_US] [Woey](https://osu.ppy.sh/users/3792472), ![][flag_SE] [Saika-](https://osu.ppy.sh/users/4316633), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086), ![][flag_PL] [esemoka57](https://osu.ppy.sh/users/2272413), ![][flag_DE] [SgtCataclyst](https://osu.ppy.sh/users/7947626), ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_US] [explosionboom](https://osu.ppy.sh/users/4681410), ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453) |
 
-See the [participants sheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit#gid=1492058728 "Google Sheets") for a list of all initial participants.
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit#gid=1492058728) for a list of all initial participants.
 
 ## Podium
 
@@ -85,7 +85,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (126.7 MB)](https://mega.nz/#!mgRE2AzS!UVX3eCXp-dvS-V5ns2QT4HBVHKsfBvAbqGVk6T1HgrI "MEGA")**
+**[Download the mappack here! (126.7 MB)](https://mega.nz/#!mgRE2AzS!UVX3eCXp-dvS-V5ns2QT4HBVHKsfBvAbqGVk6T1HgrI)**
 
 - NoMod
   - [Drop - Dragon and Sakura Miko (Yusomi) [Itomori AR9.5]](https://osu.ppy.sh/beatmapsets/508656#osu/1081885)
@@ -116,7 +116,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (121.1 MB)](https://mega.nz/#!j15EzA4I!kmj97bAOL39LH8Y4NgLp8jO9ozJbw02QT-73XeUvWJA "MEGA")**
+**[Download the mappack here! (121.1 MB)](https://mega.nz/#!j15EzA4I!kmj97bAOL39LH8Y4NgLp8jO9ozJbw02QT-73XeUvWJA)**
 
 - NoMod
   - [ZAQ - Last Proof (eLy) [Don't Give Up]](https://osu.ppy.sh/beatmapsets/596889#osu/1262025)
@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (133.4 MB)](https://mega.nz/#!q95XnCTK!NUlb4R_zo7BZ1SIqJFSZ2wr0vHKD0aL5jBNp5XfduIo "MEGA")**
+**[Download the mappack here! (133.4 MB)](https://mega.nz/#!q95XnCTK!NUlb4R_zo7BZ1SIqJFSZ2wr0vHKD0aL5jBNp5XfduIo)**
 
 - NoMod
   - [Yorushika - Deep Indigo (Sing) [That's Why I Gave Up on Mapping]](https://osu.ppy.sh/beatmapsets/949288#osu/1982289)
@@ -178,7 +178,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (136.1 MB)](https://mega.nz/#!6gh1VSCJ!0_jwlD4bKhaYG9wMVGcshaNetm5qHAa5_b9qYRVT9nY "MEGA")**
+**[Download the mappack here! (136.1 MB)](https://mega.nz/#!6gh1VSCJ!0_jwlD4bKhaYG9wMVGcshaNetm5qHAa5_b9qYRVT9nY)**
 
 - NoMod
   - [Yuna (CV: Kanada Sayaka) - Break Beat Bark! (SkyFlame) [Checkmate]](https://osu.ppy.sh/beatmapsets/924734#osu/1931547)
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (165.8 MB)](https://mega.nz/#!v15QmIaa!wCMR-il_t9Zmsob7-zsYHvrEvRGpPi5ROMSfly7rH-I "MEGA")**
+**[Download the mappack here! (165.8 MB)](https://mega.nz/#!v15QmIaa!wCMR-il_t9Zmsob7-zsYHvrEvRGpPi5ROMSfly7rH-I)**
 
 - NoMod
   - [Mimori Suzuko - Light for Knight (\_kotachi\_) [Destiny]](https://osu.ppy.sh/beatmapsets/801337#osu/1682101)
@@ -240,7 +240,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (132.7 MB)](https://mega.nz/#!K0gGXKjD!4Y3_duvE_K_0TeIlGYjpzg57SFoAkxhWS2cG3n4ptE8 "MEGA")**
+**[Download the mappack here! (132.7 MB)](https://mega.nz/#!K0gGXKjD!4Y3_duvE_K_0TeIlGYjpzg57SFoAkxhWS2cG3n4ptE8)**
 
 - NoMod
   - [gi(a)rlish number - Bloom (Shizuku-) [Extra]](https://osu.ppy.sh/beatmapsets/551782#osu/1168674)
@@ -266,7 +266,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 64
 
-**[Download the mappack here! (84.8 MB)](https://mega.nz/file/ylAWBKIB#N19bjBeO5GmQPJRi33jERl4gxwJmnx69ZwXgmSeFrNU "MEGA")**
+**[Download the mappack here! (84.8 MB)](https://mega.nz/file/ylAWBKIB#N19bjBeO5GmQPJRi33jERl4gxwJmnx69ZwXgmSeFrNU)**
 
 - NoMod
   - [BUTA-OTOME - Blue Fireworks (BarkingMadDog) [Reminiscence]](https://osu.ppy.sh/beatmapsets/716455#osu/1513645)
@@ -690,7 +690,7 @@ Tuesday, 16 July 2019:
 
 ### Qualifiers
 
-See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit#gid=27448477 "Google Sheets") for a list of all qualification results.
+See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1uAaQ949SsbFOXrjw_jczta0rN4ytV4A2ClbTmdX3-RI/edit#gid=27448477) for a list of all qualification results.
 
 ## Ruleset
 

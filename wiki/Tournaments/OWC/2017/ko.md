@@ -44,7 +44,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 ## 링크
 
 - [토론 스레드](https://osu.ppy.sh/community/forums/topics/653192)
-- [라이브 스트림](https://www.twitch.tv/osulive "Twitch")
+- [라이브 스트림](https://www.twitch.tv/osulive)
 - [참가 신청](https://osu.ppy.sh/community/tournaments/12)
 
 ## 참가 국가
@@ -165,7 +165,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 
 5. 그룹 스테이지 이후부터는 더블 엘리미네이션 방식입니다. 이 말은 스테이지에서 승리하면 다음 스테이지로 진출하고, 패배하면 패자조로 가게 된다는 말입니다.
 
-6. [이 이미지](https://puu.sh/bUq5V/f1066103b0.png "puush")를 기반으로 하며 스테이지는 다음과 같이 나누어집니다:
+6. [이 이미지](https://puu.sh/bUq5V/f1066103b0.png)를 기반으로 하며 스테이지는 다음과 같이 나누어집니다:
 
    | 스테이지 | 경기 ID |
    | --: | :-- |

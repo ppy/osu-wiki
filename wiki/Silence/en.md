@@ -18,7 +18,7 @@ Users who are silenced by moderators cannot do the following:
 - Submit and update beatmaps
 - Partake in [multiplayer](/wiki/Multi) games
 
-In addition to that, all messages of a silenced user are removed from all chat channels and private conversations [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
+In addition to that, all messages of a silenced user are removed from all chat channels and private conversations [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5).
 
 {{{ Infobox
 ![](img/silence-ingame.png "Silence warning in the chat")

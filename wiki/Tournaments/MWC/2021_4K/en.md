@@ -49,10 +49,10 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- [pick'ems page](https://pickem.hwc.hr/tournaments/67 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Challonge bracket](https://challonge.com/MWC4K_2021 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAcQbWgmUTB8pR17UlLc2GC9i49-GzrJyKed6rj-8nM21cjIajvdTGqU0-Jdp2SM75Kq-x8ExyJEqI/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- [pick'ems page](https://pickem.hwc.hr/tournaments/67) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Challonge bracket](https://challonge.com/MWC4K_2021)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAcQbWgmUTB8pR17UlLc2GC9i49-GzrJyKed6rj-8nM21cjIajvdTGqU0-Jdp2SM75Kq-x8ExyJEqI/pubhtml)**
 
 ## Participants
 
@@ -237,7 +237,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Quarterfinals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxI-1S9uv04mhcmVeYdB_rbQ3T6gyhbs8739duhmPwv4oChWpcALdX6qm9vS3PsWR-ouo9ytG5f2rA/pubhtml "Google Sheets").
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxI-1S9uv04mhcmVeYdB_rbQ3T6gyhbs8739duhmPwv4oChWpcALdX6qm9vS3PsWR-ouo9ytG5f2rA/pubhtml).
 
 Saturday, August 28, 2021
 
@@ -267,7 +267,7 @@ Sunday, August 29, 2021
 
 ### Round of 16
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-l5g5Qa_O55t-_azBZLFGF8foa86bWrEtJRlvUiViRPsxreUeNztIbgBrFsjh0ffc8_wXtfHmLcaD/pubhtml "Google Sheets").
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-l5g5Qa_O55t-_azBZLFGF8foa86bWrEtJRlvUiViRPsxreUeNztIbgBrFsjh0ffc8_wXtfHmLcaD/pubhtml).
 
 Saturday, August 21, 2021
 
@@ -297,7 +297,7 @@ Sunday, August 22, 2021
 
 ### Round of 32
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRCqILWcxsJv9hmIGjtGhV6Q7C3-ZxUPusNIYyV4lED1CNzn1vsH_lUPlnz6Mu1f_ODHZZJvmh4uPfv/pubhtml "Google Sheets").
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRCqILWcxsJv9hmIGjtGhV6Q7C3-ZxUPusNIYyV4lED1CNzn1vsH_lUPlnz6Mu1f_ODHZZJvmh4uPfv/pubhtml).
 
 Saturday, August 14, 2021
 
@@ -327,7 +327,7 @@ Sunday, August 15, 2021
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CqMoaA8sCvnzKIdacPuXiqlVan4b1-1O4HCfLSvOaV0/edit?rm=minimal "Google Sheets"). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdqhTkuMWNIS__5kIRsSijfBz_tpADXACO-9VtOxRXK5zIIqmFKlaEx7Hm_-MpjE4K5-8PDmExG7hJ/pubhtml "Google Sheets").
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CqMoaA8sCvnzKIdacPuXiqlVan4b1-1O4HCfLSvOaV0/edit?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdqhTkuMWNIS__5kIRsSijfBz_tpADXACO-9VtOxRXK5zIIqmFKlaEx7Hm_-MpjE4K5-8PDmExG7hJ/pubhtml).
 
 ## Ruleset
 

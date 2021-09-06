@@ -12,9 +12,9 @@ The **UK Community Cup 10** (***UKCC10***) is a British 1v1 double-elimination o
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1404078?n=1)
-- [Discord](https://discord.gg/EtsU7Cw "Discord")
-- [Livestream](https://twitch.tv/osuukcc "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksIZYO4SMX2ldVhrCMhoCPHjZt8l_M/edit?usp=sharing "Google Sheets")
+- [Discord](https://discord.gg/EtsU7Cw)
+- [Livestream](https://twitch.tv/osuukcc)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksIZYO4SMX2ldVhrCMhoCPHjZt8l_M/edit?usp=sharing)
 
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"

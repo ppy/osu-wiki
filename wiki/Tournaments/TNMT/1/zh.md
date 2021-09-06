@@ -45,18 +45,18 @@
 ## 链接
 
 - [论坛帖子](https://osu.ppy.sh/community/forums/topics/933636)
-- [报名注册](https://www.wjx.cn/jq/42658963.aspx "问卷星")
-- [数据表](https://docs.google.com/spreadsheets/d/10sproN_2SQWUi6BZ4Sv9wlx0I5-i0hEBq7wqqWrlJdQ "Google Sheets")
-- [在 Challonge 上查看赛程](https://challonge.com/TNMT "Challonge")
-- [Discord](https://discord.gg/nxWEjpW "Discord")
-- [QQ 群](https://jq.qq.com/?_wv=1027&k=5XdDR3K "Tencent QQ")
+- [报名注册](https://www.wjx.cn/jq/42658963.aspx)
+- [数据表](https://docs.google.com/spreadsheets/d/10sproN_2SQWUi6BZ4Sv9wlx0I5-i0hEBq7wqqWrlJdQ)
+- [在 Challonge 上查看赛程](https://challonge.com/TNMT)
+- [Discord](https://discord.gg/nxWEjpW)
+- [QQ 群](https://jq.qq.com/?_wv=1027&k=5XdDR3K)
 - 直播间
-  - [官方 Twitch](https://www.twitch.tv/thonkingtourney "Twitch")
-  - [IA daisuki](https://live.bilibili.com/4353181 "Bilibili")
-  - [kj415j45](https://okinawa.loli.land/live "Bilibili")
-  - [Rasis](https://live.bilibili.com/5333 "Bilibili")
-  - [Sinaeb](https://www.twitch.tv/sinbae_/ "Twitch")
-  - [Logan636](https://www.twitch.tv/logan_636 "Twitch")
+  - [官方 Twitch](https://www.twitch.tv/thonkingtourney)
+  - [IA daisuki](https://live.bilibili.com/4353181)
+  - [kj415j45](https://okinawa.loli.land/live)
+  - [Rasis](https://live.bilibili.com/5333)
+  - [Sinaeb](https://www.twitch.tv/sinbae_/)
+  - [Logan636](https://www.twitch.tv/logan_636)
 
 ## 图池
 

@@ -123,7 +123,7 @@ The **Community Mapping Contest** is a mapping contest where participating mappe
 
 #### A Labour of Love
 
-**A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264 "Twitter"), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/ "BMS OF FIGHTERS") and other similar competitions.
+**A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/) and other similar competitions.
 
 | Contest No. | Remixed Song | ![Gold crown][GCrown] (Overall Winner) | ![Silver crown][SCrown] (Overall Runner-Up) | Community Vote Winner | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -192,7 +192,7 @@ The *osu! Beatmap Blueprints Contest* is a one-off contest held in commemoration
 
 #### osu!idol
 
-**osu!idol** is a singing contest where participants from all across the community compete to create the best song cover (either solo or with a partner) across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise) "Wikipedia") and is mainly inspired by various televised singing competition shows.
+**osu!idol** is a singing contest where participants from all across the community compete to create the best song cover (either solo or with a partner) across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is mainly inspired by various televised singing competition shows.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |

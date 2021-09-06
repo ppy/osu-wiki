@@ -55,10 +55,10 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 - [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/1260186)
 - [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1260175)
-- [Livestream](https://live.bilibili.com/2996250 "Bilibili")
-- [Discord Server](https://discord.gg/uBHK5vq "Discord")
-- [Challonge bracket](https://challonge.com/zh_CN/MCNC2021 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1xgxKNKoJNEQz_zlPUf-4fyxeBDpuhfkgqxXyOxaIkpU "Google Sheets")**
+- [Livestream](https://live.bilibili.com/2996250)
+- [Discord Server](https://discord.gg/uBHK5vq)
+- [Challonge bracket](https://challonge.com/zh_CN/MCNC2021)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1xgxKNKoJNEQz_zlPUf-4fyxeBDpuhfkgqxXyOxaIkpU)**
 
 ## Participants
 
@@ -116,7 +116,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (255 MB)](https://drive.google.com/file/d/1Fb0s3GTJzZ0v2LgCJLhtjphwpXXPYpkl/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (255 MB)](https://drive.google.com/file/d/1Fb0s3GTJzZ0v2LgCJLhtjphwpXXPYpkl/view?usp=sharing)**
 
 - FreeMod
   - [Camellia - Racemization (Ayase Eli) \[ELPIS' Racemization 1.15x\]](https://osu.ppy.sh/beatmapsets/1484517#mania/3044452)
@@ -140,7 +140,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1tj0Q6dEO1YGqvsXZQ5huJkZAckPSh4fS/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1tj0Q6dEO1YGqvsXZQ5huJkZAckPSh4fS/view?usp=sharing)**
 
 - FreeMod
   - [Oohashi Ayaka - NOISY LOVE POWER (\[Crz\]Serika) \[Fight for Love!! \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1046203#mania/2187192)
@@ -164,7 +164,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/12P98_uqoBN5qaqL6-4DSFtxyFwcrjtVo/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/12P98_uqoBN5qaqL6-4DSFtxyFwcrjtVo/view?usp=sharing)**
 
 - FreeMod
   - [Dimrain47 – Infernoplex (\[Crz\]xz1z1z) \[Mat's Insane 1.35x\]](https://osu.ppy.sh/beatmapsets/https://osu.ppy.sh/beatmapsets/1454397#mania/2989914)
@@ -186,7 +186,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (123 MB)](https://drive.google.com/file/d/1VDpFnjGwhyzIp0SvqUu6XEizSJ9FfGiD/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (123 MB)](https://drive.google.com/file/d/1VDpFnjGwhyzIp0SvqUu6XEizSJ9FfGiD/view?usp=sharing)**
 
 - FreeMod
   - [TUYU - Doro no Bunzai de Watashidake no Taisetsu o Ubaouda Nante (flashnias) \[11Bit's Fallen Angel\]](https://osu.ppy.sh/beatmapsets/1248382#mania/2597083)
@@ -208,7 +208,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 ### Group Stage
 
-**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/13I8C26KAv3xVXBov1fRHuWR80Hskzi6T/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (83 MB)](https://drive.google.com/file/d/13I8C26KAv3xVXBov1fRHuWR80Hskzi6T/view?usp=sharing)**
 
 - FreeMod
   - [LeaF - Paraclete (Wonki) \[Another\]](https://osu.ppy.sh/beatmapsets/515734#mania/1095177)
@@ -228,7 +228,7 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 ### Qualifiers
 
-**[Download the mappack here! (18 MB)](https://drive.google.com/file/d/1KYzdeiVoa11U0FYwjzqu-EKnDiA8DFr4/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (18 MB)](https://drive.google.com/file/d/1KYzdeiVoa11U0FYwjzqu-EKnDiA8DFr4/view?usp=sharing)**
 
 - FreeMod
   - [Petit Rabbit's - Tenkuu Cafeteria (TV Size) (Hidden is fun) \[BLOOM! (No LN)\]](https://osu.ppy.sh/beatmapsets/1418929#mania/2923231)

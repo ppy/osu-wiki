@@ -55,9 +55,9 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
 - [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/1039317)
 - [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1039326)
-- [Livestream](https://live.bilibili.com/2996250 "Bilibili")
-- [Challonge bracket](https://challonge.com/zh_CN/MCNC2020 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/18a6ZwQ5Q_EWvncpfzP3KIYFB6IeOIWiC_AbqYpuORBE "Google Sheets")**
+- [Livestream](https://live.bilibili.com/2996250)
+- [Challonge bracket](https://challonge.com/zh_CN/MCNC2020)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/18a6ZwQ5Q_EWvncpfzP3KIYFB6IeOIWiC_AbqYpuORBE)**
 
 ## Participants
 
@@ -115,7 +115,7 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (201 MB)](https://www.dropbox.com/s/p4daduyfm4us6m4/MCNC20%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (201 MB)](https://www.dropbox.com/s/p4daduyfm4us6m4/MCNC20%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - Aquellex - Tachyon Beam Cannon (Plutes) Gekido-'s \[Destruction 1.1x\]
@@ -138,7 +138,7 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (189 MB)](https://www.dropbox.com/s/joxo6t1cxgqakrl/MCNC20%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (189 MB)](https://www.dropbox.com/s/joxo6t1cxgqakrl/MCNC20%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [CALL - Du Bist (Sillyp) \[EXEXEX\]](https://osu.ppy.sh/beatmapsets/1179739#mania/2460233)
@@ -161,7 +161,7 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (156 MB)](https://www.dropbox.com/s/09beh96ojmjnkzb/MCNC20%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (156 MB)](https://www.dropbox.com/s/09beh96ojmjnkzb/MCNC20%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [Dyako/UsadaPekora - usadapekora (\[Crz\]xz1z1z) \[pekopekopeko\]](https://osu.ppy.sh/beatmapsets/1168838#mania/2438605)
@@ -182,7 +182,7 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (113 MB)](https://www.dropbox.com/s/ie7xz0i9zw0d485/MCNC20%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (113 MB)](https://www.dropbox.com/s/ie7xz0i9zw0d485/MCNC20%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [(G)I-DLE - WHAT'S YOUR NAME (Skochan) \[My name\]](https://osu.ppy.sh/beatmapsets/932956#mania/1947823)
@@ -203,7 +203,7 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
 ### Group stage
 
-**[Download the mappack here! (121 MB)](https://www.dropbox.com/s/lqde07vuqftq579/MCNC20%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (121 MB)](https://www.dropbox.com/s/lqde07vuqftq579/MCNC20%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [Bring Me The Horizon - ouch (Sillyp) \[Tears\]](https://osu.ppy.sh/beatmapsets/1156490#mania/2413394)
@@ -222,7 +222,7 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
 ### Qualifiers
 
-**[Download the mappack here! (14 MB)](https://www.dropbox.com/s/xwvugt6bvhy6d20/MCNC20%20%E8%B5%84%E6%A0%BC%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (14 MB)](https://www.dropbox.com/s/xwvugt6bvhy6d20/MCNC20%20%E8%B5%84%E6%A0%BC%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - NoMod
   - [DASU - 8 6 (\[Crz\]xz1z1z) \[SV\]](https://osu.ppy.sh/beatmapsets/1093579#mania/2285630)

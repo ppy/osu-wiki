@@ -49,9 +49,9 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/860911)
-- [otst! Discord server](https://discord.gg/YHyqz4x "Discord")
-- [Livestream](https://twitch.tv/osu_otst "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1COneF_D_UM6ApTJx2Bw5P7WVXLQca0WH2Sun5aeaQgs/edit?usp=sharing "Google Sheets")**
+- [otst! Discord server](https://discord.gg/YHyqz4x)
+- [Livestream](https://twitch.tv/osu_otst)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1COneF_D_UM6ApTJx2Bw5P7WVXLQca0WH2Sun5aeaQgs/edit?usp=sharing)**
 
 ## Participants
 
@@ -119,7 +119,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (113 MB)](https://mega.nz/#!z8hlFSxK!df_W0NfxqL_prWpYlW19ZycDqXKI3yBere1K1U_lQJk "MEGA")**
+**[Download the mappack here! (113 MB)](https://mega.nz/#!z8hlFSxK!df_W0NfxqL_prWpYlW19ZycDqXKI3yBere1K1U_lQJk)**
 
 - NoMod
   - [Dormir - Cookie Bouquets (dsco) \[Wonderland\]](https://osu.ppy.sh/beatmapsets/675125#osu/1428309)
@@ -149,7 +149,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 ### Semifinals
 
-**[Download the mappack here! (113 MB)](https://mega.nz/#!7sJ3mCqb!lC-e6cCMswI-6WX5qfkNLUBWhxH8JHPf9yTWlzmMMQw "MEGA")**
+**[Download the mappack here! (113 MB)](https://mega.nz/#!7sJ3mCqb!lC-e6cCMswI-6WX5qfkNLUBWhxH8JHPf9yTWlzmMMQw)**
 
 - NoMod
   - [T7 - Strike (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/679007#osu/1435677)
@@ -179,7 +179,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (113 MB)](https://mega.nz/#!n0AUDQIb!qwFO9feWeRvWYpBCRwCOaadEoCuZoXejaLptugz2vPA "MEGA")**
+**[Download the mappack here! (113 MB)](https://mega.nz/#!n0AUDQIb!qwFO9feWeRvWYpBCRwCOaadEoCuZoXejaLptugz2vPA)**
 
 - NoMod
   - [XX:me - escape (TV Size) (Mir) \[Mir's Expert\]](https://osu.ppy.sh/beatmapsets/782869#osu/1645687)
@@ -209,7 +209,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 ### Round of 16
 
-**[Download the mappack here! (98 MB)](https://mega.nz/#!i1wjGC5Q!7vDs8YXx5IPXAT31dr6CWYNBNjOjaGtOYkkJ3gzqTCM "MEGA")**
+**[Download the mappack here! (98 MB)](https://mega.nz/#!i1wjGC5Q!7vDs8YXx5IPXAT31dr6CWYNBNjOjaGtOYkkJ3gzqTCM)**
 
 - NoMod
   - [Kurosaki Maon - Gravitation (TV Size) (Lasse) \[Lasse's Extra\]](https://osu.ppy.sh/beatmapsets/864354#osu/1807738)
@@ -235,7 +235,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 ### Group stage
 
-**[Download the mappack here! (110 MB)](http://www.mediafire.com/file/zg731xlt633u44n/otst%21+Group+Stage.zip "MediaFire")**
+**[Download the mappack here! (110 MB)](http://www.mediafire.com/file/zg731xlt633u44n/otst%21+Group+Stage.zip)**
 
 - NoMod
   - [M2U - Moon Halo (Minorsonek) \[Infinity\]](https://osu.ppy.sh/beatmapsets/782778#osu/1648966)

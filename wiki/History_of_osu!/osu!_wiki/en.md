@@ -28,9 +28,9 @@ outdated: true
 | 2016-08-26 | [peppy created osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e). craftu and Xyloo ported the MediaWiki content to the repository in a week. |
 | 2016-09 | Most of the pages except the images are moved to the repository, with unsolved syntax-translation errors stemming from language differences between Markdown and MediaWiki. |
 | 2017-01 | osu!web support of osu! wiki done by nanaya. |
-| 2017-01-05 | [osu! wiki project suggested by Ephemeralis](https://github.com/ppy/osu-wiki/projects/1 "osu! wiki 2017 project by Ephemeralis"). |
+| 2017-01-05 | [osu! wiki project suggested by Ephemeralis](https://github.com/ppy/osu-wiki/projects/1). |
 | 2017-01-26 | osu! wiki got mentioned on ppy's blog. |
-| 2017-05-22 | [osu!news archive is now stored on osu! wiki (in text form only)](https://github.com/ppy/osu-wiki/pull/252 "Initial commit of all tumblr news posts by peppy"). |
-| 2017-05-30 | [Page redirection is finally implemented in osu! wiki](https://github.com/ppy/osu-web/pull/1144 "osu! wiki - redirects by MegaApplePi") |
+| 2017-05-22 | [osu!news archive is now stored on osu! wiki (in text form only)](https://github.com/ppy/osu-wiki/pull/252). |
+| 2017-05-30 | [Page redirection is finally implemented in osu! wiki](https://github.com/ppy/osu-web/pull/1144) |
 | 2017-06 | TPGPL is promoted with write-access for the osu-wiki repository. Search service on osu-web for osu! wiki is implemented. |
-| 2018-02-07 | [Article tagging support was implemented](https://github.com/ppy/osu-web/pull/2331 "Add support for wiki page tags by nanaya") to allow better search results for wiki articles. |
+| 2018-02-07 | [Article tagging support was implemented](https://github.com/ppy/osu-web/pull/2331) to allow better search results for wiki articles. |

@@ -40,10 +40,10 @@ The UK Community Cup is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/447541?n=1)
-- [Bracket spreadsheet](https://docs.google.com/spreadsheets/d/1I5xjiGtUT8Rtr5Yid9HAzid0lRqRreO_42wYD-Jy2YM/edit?usp=sharing "Google Sheets")
-- [Discord](https://discord.gg/EtsU7Cw "Discord")
-- [Livestream](https://twitch.tv/osuukcc "Twitch")
-- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1gy1ipc9QjKF4rb0dUwXJQVHKjucs-Jjd-QRDuyGgVOc/edit?usp=sharing "Google Sheets")
+- [Bracket spreadsheet](https://docs.google.com/spreadsheets/d/1I5xjiGtUT8Rtr5Yid9HAzid0lRqRreO_42wYD-Jy2YM/edit?usp=sharing)
+- [Discord](https://discord.gg/EtsU7Cw)
+- [Livestream](https://twitch.tv/osuukcc)
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1gy1ipc9QjKF4rb0dUwXJQVHKjucs-Jjd-QRDuyGgVOc/edit?usp=sharing)
 
 ## Participants
 

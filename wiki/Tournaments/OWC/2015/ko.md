@@ -43,11 +43,11 @@ outdated: true
 
 ## 링크
 
-- [osu! World Cup 2015 트위치](https://www.twitch.tv/osulive "Twitch")
+- [osu! World Cup 2015 트위치](https://www.twitch.tv/osulive)
 - [논의 스레드](https://osu.ppy.sh/community/forums/posts/4550383)
 - [등록 페이지](https://osu.ppy.sh/tournaments/2)
-- [현재 단계의 결과](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml "Google Sheets")
-- **[그룹 스테이지 통계 개요(임시)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml "Google Sheets")**
+- [현재 단계의 결과](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
+- **[그룹 스테이지 통계 개요(임시)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
 ![OWC 2015 brackets](img/bracket.jpg)
 
@@ -140,7 +140,7 @@ outdated: true
 
 ### 8강
 
-**[맵팩을 여기서 다운로드 할 수 있습니다!](https://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar "MediaFire")**
+**[맵팩을 여기서 다운로드 할 수 있습니다!](https://www.mediafire.com/download/l4zdsy0ujeq8xz3/OWC_2015_Quarterfinals.rar)**
 
 - NoMod
   - [ALiCE'S EMOTiON - Dark Flight Dreamer (Sakaue Nachi) \[Dreamer\]](https://osu.ppy.sh/beatmapsets/185250#osu/676172)
@@ -170,7 +170,7 @@ outdated: true
 
 ### 16강
 
-**[맵팩을 여기서 다운로드 할 수 있습니다!](https://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar "MediaFire")**
+**[맵팩을 여기서 다운로드 할 수 있습니다!](https://www.mediafire.com/download/r21yp0iu2zgkkln/OWC_2015_Round_of_16.rar)**
 
 - NoMod
   - [Sharlo & yealina - Kakushigoto (Sharlo) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/208095#osu/495899)
@@ -200,7 +200,7 @@ outdated: true
 
 ### 그룹 스테이지
 
-**[맵팩을 여기서 다운로드 할 수 있습니다!](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar "MediaFire")**
+**[맵팩을 여기서 다운로드 할 수 있습니다!](https://www.mediafire.com/download/4mmsagzc3mg6g13/OWC_2015_Group_Stage.rar)**
 
 - NoMod
   - [Duca - COLD BUTTERFLY (Zweib) \[Insane\]](https://osu.ppy.sh/beatmapsets/125380#osu/363063)
@@ -372,7 +372,7 @@ outdated: true
 
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 
-6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png "puush"), the stages are splitted up the following:
+6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
 
    | Stage | Match ID |
    | :-- | :-- |

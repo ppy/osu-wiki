@@ -11,8 +11,8 @@ The **UK Community Cup X** (***UKCC X***) was a British 1v1 swiss osu! tournamen
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1227275?n=1)
-- [Discord](https://discord.gg/EtsU7Cw "Discord")
-- [Livestream](https://twitch.tv/osuukcc "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJmIYW6dGfDgL4djEZfAIMQcDgfV-mskmc/edit?usp=sharing "Google Sheets")
+- [Discord](https://discord.gg/EtsU7Cw)
+- [Livestream](https://twitch.tv/osuukcc)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJmIYW6dGfDgL4djEZfAIMQcDgfV-mskmc/edit?usp=sharing)
 
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"

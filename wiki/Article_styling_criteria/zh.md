@@ -18,7 +18,7 @@ outdated: true  # the original article has been UPDATED and split into two, Form
 
 ## 本地化
 
-下面是 osu!wiki 允许的语言列表。文件名是两个字符的语言代码 ([ISO 639-1](https://baike.baidu.com/item/ISO%20639-1/8292914 "百度百科条目"))，扩展名为`.md`，如`zh.md`。如果语言在不同国家/地区存在差异，则文件名是两个字符的语言代码 ([ISO 639-1](https://baike.baidu.com/item/ISO%20639-1/8292914 "百度百科条目"))，后跟一个连字号 (`-`)，两个字符的国家/地区代码 ([ISO 3166-2](https://baike.baidu.com/item/ISO%203166-1/5269555 "百度百科条目"))，然后加上扩展名`.md`，如`zh-tw.md`。
+下面是 osu!wiki 允许的语言列表。文件名是两个字符的语言代码 ([ISO 639-1](https://baike.baidu.com/item/ISO%20639-1/8292914))，扩展名为`.md`，如`zh.md`。如果语言在不同国家/地区存在差异，则文件名是两个字符的语言代码 ([ISO 639-1](https://baike.baidu.com/item/ISO%20639-1/8292914))，后跟一个连字号 (`-`)，两个字符的国家/地区代码 ([ISO 3166-2](https://baike.baidu.com/item/ISO%203166-1/5269555))，然后加上扩展名`.md`，如`zh-tw.md`。
 
 | 文件名 | 中文写法 | 当地写法 |
 | :-- | :-- | :-- |
@@ -69,7 +69,7 @@ outdated: true  # the original article has been UPDATED and split into two, Form
 
 ### 元数据
 
-元数据（有些时候也被称为“前言”）必须放置在文件的最顶部。它由 [YAML](https://baike.baidu.com/item/YAML/1067697 "YAML 百度百科条目") 编写，并描述了有关该文章的其他信息。元数据必须在其上下两行用三个连字符（`---`）包围，并且在其后必须有一空行。
+元数据（有些时候也被称为“前言”）必须放置在文件的最顶部。它由 [YAML](https://baike.baidu.com/item/YAML/1067697) 编写，并描述了有关该文章的其他信息。元数据必须在其上下两行用三个连字符（`---`）包围，并且在其后必须有一空行。
 
 #### 需要整理帮助的文章
 
@@ -568,7 +568,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 例如：
 
 ```markdown
-*关于 Music theory 的更多信息，请见：[Music theory](https://en.wikipedia.org/wiki/Music_theory "Wikipedia")*
+*关于 Music theory 的更多信息，请见：[Music theory](https://en.wikipedia.org/wiki/Music_theory)*
 ```
 
 #### 重定向

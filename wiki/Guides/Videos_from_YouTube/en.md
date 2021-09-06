@@ -13,7 +13,7 @@ This tutorial is intended for those who **can not** find the video elsewhere but
 
 ## Using online tools
 
-[YouTube to Mp3](https://ytmp3.cc "YouTube to Mp3") is an online video converter service designed for YouTube. Using it is very straightforward: first, paste your desired YouTube video link into the text box; then, select `mp4`, click `Convert`; and after the conversion is finished, click `Download` to obtain the video file.
+[YouTube to Mp3](https://ytmp3.cc) is an online video converter service designed for YouTube. Using it is very straightforward: first, paste your desired YouTube video link into the text box; then, select `mp4`, click `Convert`; and after the conversion is finished, click `Download` to obtain the video file.
 
 ## Using youtube-dl
 

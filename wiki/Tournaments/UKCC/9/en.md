@@ -12,11 +12,11 @@ The **UK Community Cup 9** (***UKCC 9***) was a British 1v1 double-elimination o
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1124574?n=1)
-- [Challonge](https://challonge.com/ukcc9 "Challonge")
-- [Discord](https://discord.gg/EtsU7Cw "Discord")
-- [Livestream](https://twitch.tv/osuukcc "Twitch")
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/44 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1UASxqPHMk2IJxs8rKmRtxBa27ZODFa9NoW2Ls8GW2IE/edit?usp=sharing "Google Sheets")
+- [Challonge](https://challonge.com/ukcc9)
+- [Discord](https://discord.gg/EtsU7Cw)
+- [Livestream](https://twitch.tv/osuukcc)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/44) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1UASxqPHMk2IJxs8rKmRtxBa27ZODFa9NoW2Ls8GW2IE/edit?usp=sharing)
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"

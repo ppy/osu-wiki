@@ -11,7 +11,7 @@ outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
 
 ## 概述
 
-[Doomsday](https://osu.ppy.sh/users/18983)曾发布过一个关于编写故事板脚本的视频： [osu! - Storyboard Scripting for Beginners (12:22)](https://www.youtube.com/watch?v=UJ1YLDs-bZg "YouTube")。
+[Doomsday](https://osu.ppy.sh/users/18983)曾发布过一个关于编写故事板脚本的视频： [osu! - Storyboard Scripting for Beginners (12:22)](https://www.youtube.com/watch?v=UJ1YLDs-bZg)。
 
 ## 完整规范
 

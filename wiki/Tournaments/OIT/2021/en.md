@@ -52,11 +52,11 @@ OIT 2021 was run by various osu! community members predominantly hailing from In
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1R7y585_PIb5XrFvDQk-rlI0vSlr2FyGkhCmPzorNhuU/edit#gid=1680086225 "Google Sheets")**
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1R7y585_PIb5XrFvDQk-rlI0vSlr2FyGkhCmPzorNhuU/edit#gid=1680086225)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1215072)
-- [Discord server](https://discordapp.com/invite/CHRFffH "Discord")
-- [Livestream channel](https://www.twitch.tv/osuindonesia "Twitch")
-- [Challonge brackets](https://challonge.com/OIT2021 "Challonge")
+- [Discord server](https://discordapp.com/invite/CHRFffH)
+- [Livestream channel](https://www.twitch.tv/osuindonesia)
+- [Challonge brackets](https://challonge.com/OIT2021)
 
 ## Participants
 
@@ -107,7 +107,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Finals week 2
 
-**[Download the mappack here! (164 MB)](https://drive.google.com/file/d/1skji2yO502KAPe9VHM2EqwbRlmmHq-Oh/view "Google Drive")**
+**[Download the mappack here! (164 MB)](https://drive.google.com/file/d/1skji2yO502KAPe9VHM2EqwbRlmmHq-Oh/view)**
 
 - NoMod
   - [nao - Toaru Shoukoku no Ohime-sama ga (Lyruke) \[Ratifa\]](https://osu.ppy.sh/beatmapsets/1389145#osu/2868816)
@@ -139,7 +139,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Finals week 1
 
-**[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1ijv8NwJ1p-DUCBDoF76ZkTLuwhhPzd0A/view "Google Drive")**
+**[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1ijv8NwJ1p-DUCBDoF76ZkTLuwhhPzd0A/view)**
 
 - NoMod
   - [ABSOLUTE CASTAWAY - SPiNEL (Celine) \[Feline Collab #OITEdit\]](https://osu.ppy.sh/beatmapsets/1401813#osu/2891998)
@@ -171,7 +171,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Semifinals
 
-**[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1cLvH3PG2cnhJSfCTBY9Wqbs3Mbf2w4Ej/view "Google Drive")**
+**[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1cLvH3PG2cnhJSfCTBY9Wqbs3Mbf2w4Ej/view)**
 
 - NoMod
   - [ReoNa - ANIMA (SkyFlame) \[EVERLASTING\]](https://osu.ppy.sh/beatmapsets/1219288#osu/2536719)
@@ -203,7 +203,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Quarterfinals
 
-**[Download the mappack here! (163 MB)](https://drive.google.com/file/d/1cWKli8nWJv5Biw6XMEU_hml1PjsYgHBN/view "Google Drive")**
+**[Download the mappack here! (163 MB)](https://drive.google.com/file/d/1cWKli8nWJv5Biw6XMEU_hml1PjsYgHBN/view)**
 
 - NoMod
   - [Kurosaki Maon - Setsuna no Kajitsu (jonathanlfj) \[captin lfj's Paradise\]](https://osu.ppy.sh/beatmapsets/332112#osu/1900365)
@@ -235,7 +235,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Round of 16
 
-**[Download the mappack here! (100 MB)](https://drive.google.com/file/d/1jB5uAgWW7uv8f7BG0Y8KllXfR6CPUxG1/view "Google Drive")**
+**[Download the mappack here! (100 MB)](https://drive.google.com/file/d/1jB5uAgWW7uv8f7BG0Y8KllXfR6CPUxG1/view)**
 
 - NoMod
   - [Denkishiki Karen Ongaku Shuudan - gemini (Star Stream) \[Extra\]](https://osu.ppy.sh/beatmapsets/182815#osu/438187)
@@ -263,7 +263,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Round of 32
 
-**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bpPhDewj_pXvKkB45Iwzu8JXvcqCJKpT/view "Google Drive")**
+**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bpPhDewj_pXvKkB45Iwzu8JXvcqCJKpT/view)**
 
 - NoMod
   - [Natsume Itsuki - Beginning (Garden) \[Prologue\]](https://osu.ppy.sh/beatmapsets/1173059#osu/2446555)
@@ -291,7 +291,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Qualifiers
 
-**[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1V68Jl6ddSMMXsWiBhA0ZWXoS4aWeLRaA/view "Google Drive")**
+**[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1V68Jl6ddSMMXsWiBhA0ZWXoS4aWeLRaA/view)**
 
 - NoMod
   - [Mary - Vivid (BarkingMadDog) \[Henceforth\]](https://osu.ppy.sh/beatmapsets/1230253#osu/2557665)

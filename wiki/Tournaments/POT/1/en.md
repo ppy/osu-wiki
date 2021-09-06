@@ -8,7 +8,7 @@ tags:
 
 ![PERAK osu! Tournament logo](img/logo.jpg)
 
-The **PERAK osu! Tournament** was a double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) which was being held as a part of the [PERAK Games League](https://perak.cs.ui.ac.id/ "Pesta Rakyat Komputer") festival. The tournament was open to all players who were registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id "University of Indonesia") regardless of rank. It was the first iteration of the PERAK osu! Tournament.
+The **PERAK osu! Tournament** was a double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) which was being held as a part of the [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the first iteration of the PERAK osu! Tournament.
 
 ## Tournament schedule
 
@@ -46,11 +46,11 @@ The PERAK osu! Tournament was run by various Indonesian osu! community members.
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1QLDMAL1lbfSey2tOd7zoVE6dtvI3qPD8PRBFJQpJxYY/edit#gid=563925167 "Google Sheets")**
-- [Official website](https://perak.cs.ui.ac.id/skor/osu "PERAK Games League website")
-- [Discord server](https://discordapp.com/invite/8vGTedxKmD "Discord")
-- [Livestream channel](https://www.twitch.tv/perakgamesleague "Twitch")
-- [Challonge brackets](https://challonge.com/jon1xcd6 "Challonge")
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1QLDMAL1lbfSey2tOd7zoVE6dtvI3qPD8PRBFJQpJxYY/edit#gid=563925167)**
+- [Official website](https://perak.cs.ui.ac.id/skor/osu)
+- [Discord server](https://discordapp.com/invite/8vGTedxKmD)
+- [Livestream channel](https://www.twitch.tv/perakgamesleague)
+- [Challonge brackets](https://challonge.com/jon1xcd6)
 
 ## Participants
 
@@ -324,7 +324,7 @@ Sunday, 28 February 2021:
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, a player must be able to attest their status as a registered student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id "University of Indonesia") by showing a valid [EMAS UI credential](http://emas.ui.ac.id "EMAS UI") to the Tournament Management.
+   - In order to be eligible to play in the tournament, a player must be able to attest their status as a registered student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) by showing a valid [EMAS UI credential](http://emas.ui.ac.id) to the Tournament Management.
 2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration Phase has ended.
 4. Testplayers, referees, and map selectors may not participate as players in this tournament.

@@ -17,7 +17,7 @@ tags:
 
 ## Causes
 
-Mind block is often caused by heavy build-up of "useless [muscle memory](https://en.wikipedia.org/wiki/Muscle_memory "Wikipedia")" from constant, repeated, and quick retrying of a beatmap. Although no official science or research has been conducted on this specific phenomenon in osu!, it is widely believed by the community that during mind block, the player's mind is often bored, burned-out, or tired of doing the same patterns and hearing the same few seconds of music, that it struggles to focus and pay attention, and thus struggles to develop new muscle memory.
+Mind block is often caused by heavy build-up of "useless [muscle memory](https://en.wikipedia.org/wiki/Muscle_memory)" from constant, repeated, and quick retrying of a beatmap. Although no official science or research has been conducted on this specific phenomenon in osu!, it is widely believed by the community that during mind block, the player's mind is often bored, burned-out, or tired of doing the same patterns and hearing the same few seconds of music, that it struggles to focus and pay attention, and thus struggles to develop new muscle memory.
 
 ## Remedies & prevention
 

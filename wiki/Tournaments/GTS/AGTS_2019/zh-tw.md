@@ -55,10 +55,10 @@ outdated: true
 ## 連結
 
 - [討論版](https://osu.ppy.sh/community/forums/topics/931003)
-- [AGTS Discord 伺服器](https://discord.gg/zbHVzvF "Discord")
-- [直播處](https://www.twitch.tv/gtsosu "Twitch")
-- [Challonge 積分榜](https://challonge.com/AGTS2019 "Challonge")
-- **[統計表](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing "Google Sheets")**
+- [AGTS Discord 伺服器](https://discord.gg/zbHVzvF)
+- [直播處](https://www.twitch.tv/gtsosu)
+- [Challonge 積分榜](https://challonge.com/AGTS2019)
+- **[統計表](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
 
 ## 參與者
 
@@ -120,7 +120,7 @@ outdated: true
 
 ### 總決賽
 
-**[這裡可以下載圖包！(86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE "MEGA")**
+**[這裡可以下載圖包！(86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
 
 - NoMod
   - [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
@@ -149,7 +149,7 @@ outdated: true
 
 ### 決賽
 
-**[這裡可以下載圖包！(102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ "MEGA")**
+**[這裡可以下載圖包！(102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
 
 - NoMod
   - [YUC'e - PUMP (KinomiCandy) \[Kinobles & Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/610546#taiko/1289147)
@@ -178,7 +178,7 @@ outdated: true
 
 ### 4強
 
-**[這裡可以下載圖包！(77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs "MEGA")**
+**[這裡可以下載圖包！(77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
 
 - NoMod
   - [Murder King - Ben Her Gun Artik Sen (frukoyurdakul) \[Suistimal\]](https://osu.ppy.sh/beatmapsets/959186#taiko/2008180)
@@ -207,7 +207,7 @@ outdated: true
 
 ### 8強
 
-**[這裡可以下載圖包！(83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA "MEGA")**
+**[這裡可以下載圖包！(83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
 
 - NoMod
   - [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
@@ -235,7 +235,7 @@ outdated: true
 
 ### 小組賽
 
-**[這裡可以下載圖包！(96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE "MEGA")**
+**[這裡可以下載圖包！(96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
 
 - NoMod
   - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
@@ -267,7 +267,7 @@ outdated: true
 
 ### 預選賽
 
-**[這裡可以下載圖包！(20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q "MEGA")**
+**[這裡可以下載圖包！(20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
 
 - NoMod
   - [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)

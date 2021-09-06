@@ -61,7 +61,7 @@ Pada [osu!mania](/wiki/Game_mode/osu!mania), hanya pengaturan kesulitan penilaia
 
 ## Trivia
 
-- Mod Hard Rock dinamai dari kesulitan tersusah pada permainan [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS "Wikipedia"), "[Elite Beat Agents](/wiki/iNiS_games)"
+- Mod Hard Rock dinamai dari kesulitan tersusah pada permainan [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS), "[Elite Beat Agents](/wiki/iNiS_games)"
 - Mod Hard Rock akan mematikan mod [Easy](/wiki/Game_modifier/Easy). Dan sebaliknya.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

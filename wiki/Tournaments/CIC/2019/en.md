@@ -49,11 +49,11 @@ CIC 2019 was run by various Indonesian osu! community members.
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1W_kzgRc0isXcEM8xx65qUs83PogNlSmdwMFkGjWEKyU/edit#gid=0 "Google Sheets")**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1W_kzgRc0isXcEM8xx65qUs83PogNlSmdwMFkGjWEKyU/edit#gid=0)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/949339)
-- [Discord server](https://discord.gg/YwAYbPa "Discord")
-- [Challonge brackets](https://challonge.com/xhv62wxa "Challonge")
-- [Livestream channel](https://www.twitch.tv/osuIndonesia/ "Twitch")
+- [Discord server](https://discord.gg/YwAYbPa)
+- [Challonge brackets](https://challonge.com/xhv62wxa)
+- [Livestream channel](https://www.twitch.tv/osuIndonesia/)
 
 ## Participants
 
@@ -107,7 +107,7 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Semifinals
 
-**[Download the mappack here! (131 MB)](https://drive.google.com/u/0/uc?id=1YxWGTolttfzbT5oPrm2rHnLFGjATxyxw&export=download "Google Drive")**
+**[Download the mappack here! (131 MB)](https://drive.google.com/u/0/uc?id=1YxWGTolttfzbT5oPrm2rHnLFGjATxyxw&export=download)**
 
 - NoMod
   - [LiSA - ADAMAS (Ascendance) \[IDu5t's Overdose\]](https://osu.ppy.sh/beatmapsets/998118#fruits/2102038)
@@ -162,7 +162,7 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Round of 16
 
-**[Download the mappack here! (96 MB)](https://drive.google.com/u/0/uc?id=1Lqc2DqxwkYDHwYKRAMESA1yFReXanE_O&export=download "Google Drive")**
+**[Download the mappack here! (96 MB)](https://drive.google.com/u/0/uc?id=1Lqc2DqxwkYDHwYKRAMESA1yFReXanE_O&export=download)**
 
 - NoMod
   - [ChouCho - Yasashisa no Riyuu (Ascendance) \[Ascendance & Spec's Duality\]](https://osu.ppy.sh/beatmapsets/689356#fruits/1459569)
@@ -188,7 +188,7 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Group stage
 
-**[Download the mappack here! (90 MB)](https://drive.google.com/u/0/uc?id=1tcb_bRjfGyylo7_9FnoL_m7DgkfdydzJ&export=download "Google Drive")**
+**[Download the mappack here! (90 MB)](https://drive.google.com/u/0/uc?id=1tcb_bRjfGyylo7_9FnoL_m7DgkfdydzJ&export=download)**
 
 - NoMod
   - [Glacier - Neos (WildOne94) \[Rain\]](https://osu.ppy.sh/beatmapsets/771096#fruits/1627430)
@@ -396,7 +396,7 @@ Monday, 16 September 2019:
 
 ### Group stage rules
 
-1. In the Group stage, all qualified players will be situated into different seeds based on their osu!catch pp. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
+1. In the Group stage, all qualified players will be situated into different seeds based on their osu!catch pp. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/) draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnouts after each map:
    - 1st place: **+2 point(s)**
    - 2nd place: **+1 point(s)**
@@ -413,7 +413,7 @@ Monday, 16 September 2019:
 
 ### Knock-out stage rules 
 
-1. The eight Group stage winners will be matched to the eight Group stage runners-up at random; that is, instead of following a predetermined match-up format (A1 vs H2, B1 vs G2, and so on), all the match-ups will be based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
+1. The eight Group stage winners will be matched to the eight Group stage runners-up at random; that is, instead of following a predetermined match-up format (A1 vs H2, B1 vs G2, and so on), all the match-ups will be based on the result of a livestreamed [random.org](http://www.random.org/lists/) draw.
 2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as following:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.

@@ -12,9 +12,9 @@ The **UK Community Cup 3** (***UKCC3***) was a British 1v1 double-elimination os
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/589295?n=1)
-- [Bracket spreadsheet](https://docs.google.com/spreadsheets/d/1ZpBZEMRNdjIINOwxY3qJ52W6cNiXuGOaOIfQM_fAZXU/edit?usp=sharing "Google Sheets")
-- [Discord](https://discord.gg/EtsU7Cw "Discord")
-- [Livestream](https://twitch.tv/osuukcc "Twitch")
-- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1WZEaRaGKC9i67Sa68eaW-fEw6wXTpfklMgyzczr7JJ4/edit?usp=sharing "Google Sheets")
+- [Bracket spreadsheet](https://docs.google.com/spreadsheets/d/1ZpBZEMRNdjIINOwxY3qJ52W6cNiXuGOaOIfQM_fAZXU/edit?usp=sharing)
+- [Discord](https://discord.gg/EtsU7Cw)
+- [Livestream](https://twitch.tv/osuukcc)
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1WZEaRaGKC9i67Sa68eaW-fEw6wXTpfklMgyzczr7JJ4/edit?usp=sharing)
 
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
