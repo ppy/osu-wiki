@@ -20,7 +20,7 @@ The **UK Community Cup 2** (***UKCC2***) was a British 2v2 double-elimination os
 | Round of 16 | 2017-02-04/2017-02-05 |
 | Quarterfinals | 2017-02-11/2017-02-12 |
 | Semifinals | 2017-02-18/2017-02-19 |
-| Finals  | 2017-02-25/2017-02-26 |
+| Finals | 2017-02-25/2017-02-26 |
 | Grand Finals | 2017-03-04/2017-03-05 |
 
 ## Organisation
@@ -669,7 +669,7 @@ Wednesday, 1 February 2017:
 - UK Staff are able to participate.
 - The combined team rank must be worse than #1000 to play, ranks will be calculated once the registration phase has concluded.
 
-### Mapools
+### Mappools
 
 - Each mappool will consist of 6 NoMod, 3 HD, 3 HR, 3 DT, 3 Freemod and 1 Tiebreaker maps.
 - In a Freemod pick, both teams are able to choose between a combination of HD/HR. One player on each team is required to pick a mod.
