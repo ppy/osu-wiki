@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
+---
+
 # 注目アーティストのショーケースビートマップ
 
 [Mappers' Guild](/wiki/Mappers_Guild)のメンバーは、osu!で未発表の注目アーティストの楽曲を使って、限定の「ショーケースビートマップ」を作成することがあります。注目アーティストが発表されると、このビートマップは対応する[ニュース記事](https://osu.ppy.sh/home/news)で取り上げられ、[@osugameのTwitter](https://twitter.com/osugame)でもしばしば宣伝されます。
