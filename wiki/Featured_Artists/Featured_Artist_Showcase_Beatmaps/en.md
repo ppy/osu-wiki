@@ -385,12 +385,12 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Natsume Itsuki - Mayday](https://osu.ppy.sh/beatmapsets/1506697) hosted by ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
   - (![][osu!]) [Natsume Itsuki - AI to CodeQ no Hate](https://osu.ppy.sh/beatmapsets/1515036) hosted by ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
   - (![][osu!]) [Natsume Itsuki - Miniascape](https://osu.ppy.sh/beatmapsets/1509856) hosted by ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
-- **[rN](https://osu.ppy.sh/home/news/2021-08-14-new-featured-artist-rn)** 
+- **[rN](https://osu.ppy.sh/home/news/2021-08-14-new-featured-artist-rn)** (2021-08-14)
   - (![][osu!]) [rN - My Dearest Nightmare](https://osu.ppy.sh/beatmapsets/1542543) hosted by ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
 - **[technoplanet](https://osu.ppy.sh/home/news/2021-08-25-new-featured-artist-technoplanet)** (2021-08-25)
   - (![][osu!]) [technoplanet feat. chamo - Tepic Tepoch](https://osu.ppy.sh/beatmapsets/1551369) hosted by ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311)
   - (![][osu!taiko]) [technoplanet - Megastructure \[Extended Mix\]](https://osu.ppy.sh/beatmapsets/1499443) hosted by ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484)
- - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)     
+  - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)     
 - **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (2021-08-28)
   - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) hosted by ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
