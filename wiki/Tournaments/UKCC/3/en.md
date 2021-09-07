@@ -386,7 +386,7 @@ Sunday, 30 July 2017:
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | Summer Solstice ![][flag_GB] | -1 | -1 | ![][flag_GB] Woffel | *double no-show* |
-| Mykaterasu ![][flag_GB] | -1 | **0** | ![][flag_GB] **Wario** | *forfeit* |
+| Mykaterasu ![][flag_GB] | -1 | **0** | ![][flag_GB] **Wario** | *forfeit, Wario advances to Losers Bracket Round 4* |
 | **Kardet** ![][flag_GB] | **5** | 3 | ![][flag_GB] Dag |  |
 
 Wednesday, 2 August 2017:
@@ -528,7 +528,7 @@ Saturday, 8 July 2017:
 | SteffoST ![][flag_GB] | 2 | **3** | ![][flag_GB] **Woffel** |  |
 | MagicMantwon ![][flag_GB] | 0 | **3** | ![][flag_GB] **Sam** |  |
 | **Linkle** ![][flag_GB] | **0** | -1 | ![][flag_GB] \[ B E A S T \] | *forfeit* |
-| PsycoStatic ![][flag_GB] | -1 | **0** | ![][flag_GB] **Rndguy** | *forfeit* |
+| PsychoStatic ![][flag_GB] | -1 | **0** | ![][flag_GB] **Rndguy** | *forfeit* |
 | Cornfield ![][flag_GB] | 0 | **3** | ![][flag_GB] **Terrible** |  |
 | Chitxge ![][flag_GB] | 0 | **3** | ![][flag_GB] **ebanineo** |  |
 | Savag3blow ![][flag_GB] | 2 | **3** | ![][flag_GB] **Mykaterasu** |  |
@@ -540,7 +540,7 @@ Sunday, 9 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **October** ![][flag_GB] | **3** | 0 | ![][flag_GB] Zain |  |
+| **October** ![][flag_GB] | **3** | 0 | ![][flag_GB] Zainny |  |
 | Gazza ![][flag_GB] | -1 | **0** | ![][flag_GB] **Wario** | *forfeit* |
 | **Cephus** ![][flag_GB] | **3** | 0 | ![][flag_GB] Icecream-chan |  |
 | Proteus ![][flag_GB] | 1 | **3** | ![][flag_GB] **Pelzio** |  |
@@ -611,8 +611,8 @@ Sunday, 2 July 2017:
 | **Savag3blow** ![][flag_GB] | **3** | 1 | ![][flag_GB] -Blue- |  |
 | **Zainny** ![][flag_GB] | **0** | -1 | ![][flag_GB] Chug | *forfeit* |
 | **Chugger** ![][flag_GB] | **3** | 0 | ![][flag_GB] Respirte |  |
-| **djsettle** ![][flag_GB] | **3** | 0 | ![][flag_GB] Stedoss |  |
-| uee ![][flag_GB] | 2 | **3** | ![][flag_GB] **Majoreh** |  |
+| **djsettle** ![][flag_GB] | **3** | 0 | ![][flag_GB] Stedoss | *djsettle advances to group stage* |
+| uee ![][flag_GB] | 2 | **3** | ![][flag_GB] **Majoreh** | *Majoreh advances to group stage* |
 | Sapphy128 ![][flag_GB] | 0 | **3** | ![][flag_CA] **Squapple** |  |
 | **Poi Panda** ![][flag_GB] | **3** | 1 | ![][flag_GB] Pyrooo |  |
 | Desired ![][flag_GB] | -1 | -1 | ![][flag_GB] \[Josh\] | *double no-show* |
@@ -626,6 +626,7 @@ Sunday, 2 July 2017:
 | Chassit ![][flag_GB] | -1 | **0** | ![][flag_GB] **Addstir** | *forfeit* |
 | Pepsi Max ![][flag_GB] | 1 | **3** | ![][flag_IE] **M a t t y** |  |
 | Falc0 ![][flag_GB] | 0 | **3** | ![][flag_GB] **dong** |  |
+| Azerith ![][flag_GB] | -1 | -1 | ![][flag_GB] Valentine | *double forfeit* |
 
 Monday, 3 July 2017:
 
