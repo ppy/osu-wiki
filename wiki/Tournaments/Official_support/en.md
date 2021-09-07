@@ -165,8 +165,6 @@ We have historically had issues where unscrupulous organisers have geared tourna
 
 Generally no, unless the role they are assuming is not one that could conceivably alter the outcome of the tournament.
 
-One main exception is for playtesters collaborating with mappoolers for feedback and replays—this is tentatively allowed, but must be undertaken with care to ensure that it does not skew the tournament's outcome in any unfair or unusual way. We permit this on an expectation of trust and hope that any misuse of this exception would be reported to the tournament committee for prompt review.
-
 A player may conclude play in your tournament and join as a commentator, for example, but not as a referee, organiser, or anything further.
 
 ### Why can't badges be awarded to recurring monthly (or weekly) tournaments?
