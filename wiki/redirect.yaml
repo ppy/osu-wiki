@@ -871,6 +871,9 @@
 "moderators":                      "People/The_Team/Global_Moderation_Team"
 "moderator":                       "People/The_Team/Global_Moderation_Team"
 
+"chatops":                         "People/The_Team/Global_Moderation_Team"
+"chat_ops":                        "People/The_Team/Global_Moderation_Team"
+"chat_moderators":                 "People/The_Team/Global_Moderation_Team"
 "language_moderators":             "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
 "language_moderator":              "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
 "language_mods":                   "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
@@ -878,9 +881,6 @@
 "lm":                              "People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated"
 
 "lsd":                             "People/The_Team/Language_Surveillance_Division"
-"chatops":                         "People/The_Team/Language_Surveillance_Division"
-"chat_ops":                        "People/The_Team/Language_Surveillance_Division"
-"chat_moderators":                 "People/The_Team/Language_Surveillance_Division"
 
 "osu!_alumni":                     "People/The_Team/osu!_Alumni"
 "osu!alumni":                      "People/The_Team/osu!_Alumni"
