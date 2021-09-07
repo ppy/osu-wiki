@@ -1,5 +1,6 @@
 ---
 outdated: true
+outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
 ---
 
 # 注目アーティストのショーケースビートマップ
