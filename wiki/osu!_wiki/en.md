@@ -38,4 +38,4 @@ Despite having the *wiki* suffix in its name, the osu! wiki doesn't fully satisf
 
 The majority of content in the osu! wiki is licensed under [CC-BY-NC 4.0](https://github.com/ppy/osu-wiki/blob/master/LICENCE.md). This means that in general, the materials of the wiki may be used in a non-commercial manner (see the [quick summary](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-4.0-international-(cc-by-nc-4.0))). Some content may be covered by different third party licences, which will then be cited local to it and override the global licence.
 
-The "osu!" or "ppy" branding is *exempt from this* and is protected by trademark law. For information on use of these terms, [contact us](mailto:contact@ppy.sh).
+Please note that this does not cover the usage of the "osu!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law. If you require clearance for the use of these terms, please [contact us](mailto:contact@ppy.sh).
