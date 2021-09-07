@@ -2,13 +2,13 @@
 
 osu! has [a team of moderators](/wiki/People/The_Team/Global_Moderation_Team) that adheres to keeping the game and its ecosystem clean and safe. If you notice rule-breaking behaviour or inappropriate content, report it using one of the methods described below. Alternatively, you may contact any of the moderators online directly if your report wasn't properly handled within a reasonable amount of time—do so only as the last resort.
 
-Accidental reports are ignored. Users who purposedly send invalid reports are [silenced](/wiki/Silence).
+Accidental reports are ignored. Users who deliberately send invalid reports can risk being [silenced](/wiki/Silence).
 
 ## Special cases
 
 | Nature of infringement | Point of contact |
 | :-- | :-- |
-| Mildly offensive private messages | **None**: [ignore the user](/wiki/Chat_Console#commands-list) instead. For permanent effect, use the in-game ignore list located in [options](/wiki/Options). |
+| Offensive private messages | **None**: [ignore the user](/wiki/Chat_Console#commands-list) instead. For permanent effect, use the in-game ignore list located in [options](/wiki/Options). |
 | Infringements related to modding and/or mapping | NAT, via the [NAT/BN Management](https://bn.mappersguild.com/reports) website |
 | Inappropriate conduct from a [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) or [GMT](/wiki/People/The_Team/Global_Moderation_Team) member | [Account support team](/wiki/People/The_Team/Account_support_team) at [support@ppy.sh](mailto:support@ppy.sh) |
 | Sexual abuse or extreme misbehaviour | Refer to [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse) |
@@ -21,7 +21,7 @@ For anything else, see instructions below.
 
 ![](img/report-command.jpg "Example of using the !report command")
 
-Chat misbehaviour is the most common infringement. To report it, use the [`!report`](https://osu.ppy.sh/community/forums/topics/34843) command, preferably in the channel where infringement took place. Don't feel stressed: if your message starts with `!report` and a space, **it is only visible to moderators** and no one else in the chat.
+Chat misbehaviour is the most common infringement. To report it, use the [`!report`](https://osu.ppy.sh/community/forums/topics/34843) command, preferably in the channel where infringement took place. Don't feel stressed: if your message starts with `!report` and a space, **it is only visible to moderators** and no one else in the chat. You can also use the report function via the [in-game overlay](#in-game-overlay) as depicted below if you are still concerned.
 
 The command's syntax has two forms:
 
