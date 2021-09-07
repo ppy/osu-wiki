@@ -50,7 +50,7 @@ Difficulty creation tasks earn a user more points if the beatmap is associated w
 
 ### Showcase beatmaps
 
-*Main article: [Featured artist showcase beatmaps](wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps)*
+*Main article: [Featured artist showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps)*
 
 Members of the Mappers' Guild may also participate in the creation of showcase beatmaps for future featured artist announcements. Upon the announcement of the corresponding featured artist, these beatmaps are highlighted in the [newspost](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame) as well.
 
