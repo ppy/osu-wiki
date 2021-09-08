@@ -76,7 +76,7 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksI
 
 - This tournament is a 1v1 double-elimination British osu! tournament.
 - To be able to participate, players must have a ![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag, otherwise the player must be able to provide proof of residency to the hosts.
-- Matches will be Head To Head, with score v2 as the scoring system used.
+- Matches will be Head To Head, with ScoreV2 as the scoring system used.
 - Hosts, mappool selectors and referees are not permitted participate in the tournament.
 - All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the discord server or during matches (this includes homophobia, racism and toxicity) will result in a ban and will be blacklisted from participating from future UKCC tournaments.
 - Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.
@@ -92,7 +92,7 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksI
 - Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
 - If a match needs rescheduling to a time after a related losers’ bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
 
-### Match Rules
+### Match rules
 
 - Referees will create the lobby approximately 10 minutes before the match is due to start. (UKCC: (Player 1) vs (Player 2))
 - Players have a 10 minute grace period after their scheduled match time to join the lobby. If a player fails to join the lobby in this time, then the default win will go to the other player. If both players do not show up, both players will receive losses.
@@ -101,7 +101,7 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksI
 
 #### Qualifiers
 
-- Players will play 9 maps (3 Nomod, 2 Hidden, 2 Hard Rock, 2 DoubleTime) once.
+- Players will play 9 maps (3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime) once.
 - The top 32/64 scores (depending on signups/screening) from qualifiers will make it through to the bracket stage.
 
 #### Rolling
@@ -123,7 +123,7 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksI
 
 - Players have 90 seconds to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing team.
 - Failed scores will count.
-- Tiebreakers are Freemod, however No Mod can be used.
+- Tiebreakers are FreeMod, however NoMod can be used.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"

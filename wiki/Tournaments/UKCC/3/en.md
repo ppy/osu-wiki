@@ -26,7 +26,7 @@ The **UK Community Cup 3** (***UKCC3***) was a British 1v1 double-elimination os
 
 ## Organisation
 
-The UK Community Cup 3 is run by various community members.
+The UK Community Cup 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -75,7 +75,7 @@ This competition has come to an end and resulted in the following podium:
   - [beatMARIO - Night of Knights (alacat) [The World]](https://osu.ppy.sh/beatmapsets/352570#osu/776951)
   - [FujuniseikouyuuP - Oh My Robin (val0108) [Robin Hood]](https://osu.ppy.sh/beatmapsets/296357#osu/665445)
   - [Konuko - Toumei Elegy (Awaken) [Skystar's Tragic Love Extra]](https://osu.ppy.sh/beatmapsets/219380#osu/790048)
-  - [Akitsuki Fuuka CV:Lynn - Fair wind (Zero__wind) [cRyo&xsrs's Extreme]](https://osu.ppy.sh/beatmapsets/587541#osu/1414172)
+  - [Akitsuki Fuuka CV:Lynn - Fair wind (Zero\_\_wind) [cRyo&xsrs's Extreme]](https://osu.ppy.sh/beatmapsets/587541#osu/1414172)
   - [NOMA - LOUDER MACHINE (Skystar) [Axarious' EX EX]](https://osu.ppy.sh/beatmapsets/483606#osu/1040647)
   - [Pierce The Veil - Texas Is Forever (puxtu) [pishi's Extreme]](https://osu.ppy.sh/beatmapsets/451070#osu/1009097)
 - Hidden
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[buzzG feat. GUMI - World Lampshade (Kotonoha) [Illumination]](https://osu.ppy.sh/beatmapsets/328779#osu/729137)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Duca - COLD BUTTERFLY (Zweib) [Insane]](https://osu.ppy.sh/beatmapsets/125380#osu/363063)
@@ -281,7 +281,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Stonebank - Stronger (feat. EMEL) (Shadren) [Empower]](https://osu.ppy.sh/beatmapsets/273711#osu/621703)**
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -294,7 +294,7 @@ Sunday, 10 September 2017:
 
 ### Finals
 
-#### Winners Finals
+#### Winner Finals
 
 Saturday, 12 August 2017:
 
@@ -310,9 +310,9 @@ Saturday, 12 August 2017:
 | --: | :-: | :-: | :-- |
 | **Karthy** ![][flag_GB] | **7** | 1 | ![][flag_GB] helix |
 
-#### Losers Finals
+#### Loser Finals
 
-Sundady, 13 August 2017:
+Sunday, 13 August 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
@@ -358,7 +358,7 @@ Saturday, 29 July 2017:
 | Wario ![][flag_GB] | 0 | **5** | ![][flag_GB] **Doomsday** |  |
 | **OPJames** ![][flag_GB] | **5** | 1 | ![][flag_GB] Dag |  |
 
-Mondday, 31 July 2017:
+Monday, 31 July 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
@@ -422,7 +422,7 @@ Monday, 24 July 2017:
 | --: | :-: | :-: | :-- |
 | **Doomsday** ![][flag_GB] | **5** | 0 | ![][flag_GB] Pelzio |
 
-### Group Stage
+### Group stage
 
 #### Group A
 
@@ -630,8 +630,7 @@ Sunday, 2 July 2017:
 | Falc0 ![][flag_GB] | 0 | **3** | ![][flag_GB] **dong** |  |
 | Azerith ![][flag_GB] | -1 | -1 | ![][flag_GB] Valentine | *double forfeit¹* |
 
-¹ djsettle advances to group stage, Azerith and Valentine eliminated.
-
+¹ djsettle advances to group stage, Azerith and Valentine eliminated.\
 ² Majoreh advances to group stage, Desired and \[Josh\] eliminated.
 
 Monday, 3 July 2017:
@@ -684,15 +683,13 @@ Monday, 3 July 2017:
 - Semifinals will be BO11 (first to 6).
 - Finals and Grand Final will be BO13 (first to 7).
 
-#### Pre-Match
+#### Pre-match
 
 - If a player is unable to make their allocated time, a reschedule will be allowed as long as both players can agree on a time.
 - Any player that fails to show up 10 minutes after a match is due to start will forfeit the match and a win by default will be awarded to the other player.
 - Rematches are allowed in the event of software/hardware failure, or when a player disconnects unintentionally during a map when they could have potentially won. The final say on a rematch is at the discretion of the referee for the match.
   - As a rule of thumb, if a player has a full combo at the time of disconnection and the opponent misses or has missed, the map will likely be rematched.
 - Any other unexpected happenings are handled at the referee and hosts discretion.
-
-#### During match
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
