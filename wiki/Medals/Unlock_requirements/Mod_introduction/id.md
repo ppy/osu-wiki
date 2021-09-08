@@ -1,4 +1,4 @@
-#  Persyaratan untuk mendapatkan medali Mod Introduction
+# Persyaratan untuk mendapatkan medali Mod Introduction
 
 | Nama medali | Persyaratan |
 | :-- | :-- |
