@@ -12,7 +12,7 @@ You haven't seen a jack of all trades until you've taken notice of **Harumaki Go
 
 Each of the **16** tracks available from [**Harumaki Gohan**'s Featured Artist page](https://osu.ppy.sh/beatmaps/artists/197) hit hard with undeniably pure emotion, including 11 VOCALOID tracks and 5 covers sung by the rice spring roll himself.
 
-Taking a page out of **Harumaki Gohan**'s notebook, we took osu! to the coast for the perfect view of the sky described in [*Harumaki Gohan - Suisei ni Nareta nara*](https://osu.ppy.sh/beatmapsets/1344515). Take a peek at that and the other song previews below:
+Taking a page out of **Harumaki Gohan**'s notebook, we took osu! to the beach for a perfect view of the sky described in [*Harumaki Gohan - Suisei ni Nareta nara*](https://osu.ppy.sh/beatmapsets/1344515). Take a peek at that and the other song previews below:
 
 <div align="center">
     <video width="95%" controls>
