@@ -106,7 +106,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 #### Romanisation
 
-- **An artist's name must romanised in the order it is printed in the unicode field if there is no official romanisation available.** If an official romansiation is available, either the direct romanisation or official may be used.
+- **An artist's name must romanised in the order it is printed in the unicode field if there is no official romanisation or translation available.** If an official romanisation is available, either option may be used in accordance with the relevant allowance.
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
 - **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae` and `ß` to `ss`.**
@@ -143,7 +143,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 ### Allowances
 
-This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the ranking criteria.
+This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the ranking criteria. In cases where there are multiple options available for a song's metadata, the above standardization rules for the Ranked and Loved sections takes priority.
 
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
 - **If a Unicode song title or artist has either an official translation or romanisation provided by the artist, either or may be used in the respective romanised field.**
