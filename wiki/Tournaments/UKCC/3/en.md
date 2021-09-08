@@ -385,9 +385,11 @@ Sunday, 30 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| Summer Solstice ![][flag_GB] | -1 | -1 | ![][flag_GB] Woffel | *double no-show* |
-| Mykaterasu ![][flag_GB] | -1 | **0** | ![][flag_GB] **Wario** | *forfeit, Wario advances to Losers Bracket Round 4* |
+| Summer Solstice ![][flag_GB] | -1 | -1 | ![][flag_GB] Woffel | *double no-show¹* |
+| Mykaterasu ![][flag_GB] | -1 | **0** | ![][flag_GB] **Wario** | *forfeit¹* |
 | **Kardet** ![][flag_GB] | **5** | 3 | ![][flag_GB] Dag |  |
+
+¹ Wario advances to Losers Bracket Round 4, Summer Solstice and Woffel eliminated.
 
 Wednesday, 2 August 2017:
 
@@ -611,11 +613,11 @@ Sunday, 2 July 2017:
 | **Savag3blow** ![][flag_GB] | **3** | 1 | ![][flag_GB] -Blue- |  |
 | **Zainny** ![][flag_GB] | **0** | -1 | ![][flag_GB] Chug | *forfeit* |
 | **Chugger** ![][flag_GB] | **3** | 0 | ![][flag_GB] Respirte |  |
-| **djsettle** ![][flag_GB] | **3** | 0 | ![][flag_GB] Stedoss | *djsettle advances to group stage* |
-| uee ![][flag_GB] | 2 | **3** | ![][flag_GB] **Majoreh** | *Majoreh advances to group stage* |
+| **djsettle** ![][flag_GB] | **3** | 0 | ![][flag_GB] Stedoss | ¹ |
+| uee ![][flag_GB] | 2 | **3** | ![][flag_GB] **Majoreh** | ² |
 | Sapphy128 ![][flag_GB] | 0 | **3** | ![][flag_CA] **Squapple** |  |
 | **Poi Panda** ![][flag_GB] | **3** | 1 | ![][flag_GB] Pyrooo |  |
-| Desired ![][flag_GB] | -1 | -1 | ![][flag_GB] \[Josh\] | *double no-show* |
+| Desired ![][flag_GB] | -1 | -1 | ![][flag_GB] \[Josh\] | *double no-show²* |
 | **helix** ![][flag_GB] | **0** | -1 | ![][flag_GB] fgl2036 | *forfeit* |
 | Scootawoo ![][flag_GB] | 2 | **3** | ![][flag_GB] **Pelzio** |  |
 | Patritoic Brit ![][flag_GB] | 0 | **3** | ![][flag_GB] **Dag** |  |
@@ -626,7 +628,11 @@ Sunday, 2 July 2017:
 | Chassit ![][flag_GB] | -1 | **0** | ![][flag_GB] **Addstir** | *forfeit* |
 | Pepsi Max ![][flag_GB] | 1 | **3** | ![][flag_IE] **M a t t y** |  |
 | Falc0 ![][flag_GB] | 0 | **3** | ![][flag_GB] **dong** |  |
-| Azerith ![][flag_GB] | -1 | -1 | ![][flag_GB] Valentine | *double forfeit* |
+| Azerith ![][flag_GB] | -1 | -1 | ![][flag_GB] Valentine | *double forfeit¹* |
+
+¹ djsettle advances to group stage, Azerith and Valentine eliminated.
+
+² Majoreh advances to group stage, Desired and \[Josh\] eliminated.
 
 Monday, 3 July 2017:
 
