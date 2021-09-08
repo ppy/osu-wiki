@@ -4,9 +4,9 @@
 
 When a beatmap was nuked, it would have a radioactive symbol ![](/wiki/shared/icon/nuke.gif) on its beatmap thread. This would signal other members of the BAT/GMT that it was not to be considered for [Ranked](/wiki/Beatmap_ranking_procedure#ranked) until significant changes had been made. If a beatmap made the corresponding changes, the icon would be removed and it could proceed with the [ranking process](/wiki/Beatmap_ranking_procedure).
 
-{{{ Infobox
+::: Infobox
 ![](img/forum-listing-nuke.png "Nuked beatmaps and their threads in the Graveyard subforum")
-}}}
+:::
 
 Beatmaps could be nuked for a multitude of reasons, but the most common ones were:
 
