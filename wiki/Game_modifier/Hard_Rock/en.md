@@ -57,9 +57,9 @@ Due to this much larger spike in difficulty compared to other [game modes](/wiki
 
 *Notice: Using this mod on osu!mania will result in an unranked play.*
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the HP value is increased by 40% while the timing windows are about 29% stricter. Though the AR value is displayed as increased, it does not affect the gameplay.
+In [osu!mania](/wiki/Game_mode/osu!mania), the HP drain is increased by 40% while the timing windows are about 29% stricter. Although the AR value is displayed as increased, it does not affect the gameplay.
 
-To calculate the timing windows after applying HR, simply take the original timing window under the OD (which can be calculated [here](/wiki/Beatmapping/Overall_difficulty)) and divide it by 1.4. One thing to note is that since the timing window of Rainbow 300 (MAX) is fixed regardless of the OD, which means the timing window of a MAX with HR will always be ±11.43ms.
+To calculate the timing windows after HR is applied, take the original timing window under the OD (which can be calculated [here](/wiki/Beatmapping/Overall_difficulty)) and divide it by 1.4. The timing window of Rainbow 300 (MAX) is fixed regardless of the OD, which means the timing window of a MAX with HR will always be ±11.43ms.
 
 Note that the calculation method is different in [ScoreV2](/wiki/Game_modifier/ScoreV2).
 

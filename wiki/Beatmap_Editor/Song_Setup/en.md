@@ -133,24 +133,23 @@ While Half Time and Double Time does not change the actual given AR value, the s
 
 ![Detailed OD chart](img/ODTable.png "Detailed OD chart")
 
-*Note: The above table applies for the osu! game mode only.*
-
+*Note: The above table applies for the osu! game mode only.*\
 *Notice: On the beatmap page, Overall Difficulty is listed as Accuracy.*
 
 Overall Difficulty, commonly abbreviated as OD, defines how difficult it is to achieve high accuracy. The values range from 0 to 10; higher OD values will require more accuracy and precision. Since accuracy is important for gaining HP, Overall Difficulty indirectly influences how hard it is to pass the beatmap. Higher OD values mean shorter time windows to clear the hit objects, both in general and in terms of getting the highest score value from the hit object.
 
 In osu!, the timing system does not allow an object to be hit until the previous object has either been hit and received a judgement, or missed after the hit window has passed. If the hit windows are too long, the object's hit window may overlap with the previous one. During this time, the object is "locked" and any hit will not count. This is informally called "notelock" in osu!, or "column locking" or "cbrushing" in osu!mania. For further details and examples, see the [article on notelock](/wiki/Gameplay/Notelock). Because of this, it is advised not to use low OD values in high BPM maps.
 
-Additional effects in each game mode:
+Additional effects of increasing the OD in each game mode:
 
 - osu!: Spinners must be spun more to fill up the gauge.
 - osu!taiko: The denden (spinner) requires more hits to clear.
 - osu!mania: Each lane's timing window is independent and it is possible to notelock on any combination of columns.
-- osu!catch is simply not affected by OD.
+- osu!catch is not affected by OD.
 
 *Note: This does imply that raising the OD too high can make previously possible spinners near impossible to clear on time.*
 
-If you wish to calculate the hit windows, explicit formulas can be found in the [main article on Overall Difficulty](/wiki/Beatmapping/Overall_difficulty).
+To calculate hit windows, see formulas from the [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) article.
 
 ---
 
