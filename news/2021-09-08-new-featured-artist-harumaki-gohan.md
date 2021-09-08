@@ -27,13 +27,13 @@ Try out [this map](https://osu.ppy.sh/beatmapsets/1344515) by [torriru](https://
 **VOCALOID version:**
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/197/Futari%20no/Harumaki%20Gohan%20feat.%20Hatsune%20Miku%20-%20Suisei%20ni%20Nareta%20nara.mp3" type="audio/mpeg">
 </audio>
 
 **Vocal version:**
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/197/Futari%20no/Harumaki%20Gohan%20-%20Suisei%20ni%20Nareta%20nara.mp3" type="audio/mpeg">
 </audio>
 
 ### Melty Land Nightmare
@@ -41,7 +41,7 @@ Try out [this map](https://osu.ppy.sh/beatmapsets/1344515) by [torriru](https://
 Check out [the first-ever-ranked **Harumaki Gohan** map](https://osu.ppy.sh/beatmapsets/944938) by [mindmaster107](https://osu.ppy.sh/users/8819496) or [this other map](https://osu.ppy.sh/beatmapsets/1029792) by [Cris-](https://osu.ppy.sh/users/6175280)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/197/NEO%20DREAM%20TRAVELER/Harumaki%20Gohan%20feat.%20Hatsune%20Miku%20-%20Melty%20Land%20Nightmare.mp3" type="audio/mpeg">
 </audio>
 
 ### Yakusoku
@@ -51,13 +51,13 @@ Play through [this osu! map](https://osu.ppy.sh/beatmapsets/1266328) by [Puvn](h
 **VOCALOID version:**
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/197/Futari%20no/Harumaki%20Gohan%20feat.%20Hatsune%20Miku%20-%20Yakusoku.mp3" type="audio/mpeg">
 </audio>
 
 **Vocal version:**
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/197/Futari%20no/Harumaki%20Gohan%20-%20Yakusoku.mp3" type="audio/mpeg">
 </audio>
 
 ### Himitsu
@@ -65,13 +65,13 @@ Play through [this osu! map](https://osu.ppy.sh/beatmapsets/1266328) by [Puvn](h
 **VOCALOID version:**
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/197/Futari%20no/Harumaki%20Gohan%20feat.%20Hatsune%20Miku%20-%20Himitsu.mp3" type="audio/mpeg">
 </audio>
 
 **Vocal version:**
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/197/Futari%20no/Harumaki%20Gohan%20-%20Himitsu.mp3" type="audio/mpeg">
 </audio>
 
 ---
