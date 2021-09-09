@@ -51,7 +51,7 @@ The ability to see what a replay would look like without [mods](/wiki/Game_modif
 
 ## July
 
-On 15 July 2015, it was announced that a new public [Slack](https://slack.com/ "Slack") team was created for the purpose of better communicating with public contributors. [peppy](https://osu.ppy.sh/users/2) initially made the announcement on his blog and had explained that anyone who was willing to help test cutting-edge features, contribute graphical/sound resources, or get help working with osu! services could come and join the team and talk to the osu! team directly [[21]][r].
+On 15 July 2015, it was announced that a new public [Slack](https://slack.com/ "Slack") team was created for the purpose of better communicating with public contributors. [peppy](https://osu.ppy.sh/users/2) initially made the announcement on his blog and had explained that anyone who was willing to help test cutting-edge features, contribute graphical/sound resources, or get help working with osu! services could come and join the team and talk to the people from different [osu! teams](/wiki/People/The_Team) directly [[21]][r].
 
 *Note: There was still a private Slack team that the osu! team used for internal communications, which was not accessible or viewable to outside users; these two teams were independent of each other.*
 
@@ -81,7 +81,7 @@ Despite [promises from peppy on his blog](https://blog.ppy.sh/post/132009865043/
 
 ## October
 
-After months of work, a full migration from [DirectX](https://en.wikipedia.org/wiki/DirectX "Wikipedia") to [OpenGL](https://en.wikipedia.org/wiki/OpenGL "Wikipedia") graphics rendering was completed and pushed out to all users on the Stable release stream on 16 October 2015. However, users who were not able to run the new update due to compatibility issues were switched to a new release stream named "Stable (Fallback)", which used the old DirectX graphics rendering. It was meant to be continuously supported alongside the Stable release until the team felt confident enough in the compatibility of the OpenGL rendering for all users [[28,29,30,31,32]][r].
+After months of work, a full migration from [DirectX](https://en.wikipedia.org/wiki/DirectX "Wikipedia") to [OpenGL](https://en.wikipedia.org/wiki/OpenGL "Wikipedia") graphics rendering was completed and pushed out to all users on the Stable release stream on 16 October 2015. However, users who were not able to run the new update due to compatibility issues were switched to a new release stream named "Stable (Fallback)", which used the old DirectX graphics rendering. It was meant to be continuously supported alongside the Stable release until the osu! team felt confident enough in the compatibility of the OpenGL rendering for all users [[28,29,30,31,32]][r].
 
 Another batch of official osu! songs were released by cYsmix on 27 October 2015, with a similar "open-bounty–style" contest being opened for it as well. The three songs were ["Fright March"](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu "SoundCloud"), ["Moonlight Sonata"](https://soundcloud.com/olemlanglie/cysmix-moonlight-sonata-osu "SoundCloud"), and ["Classic Pursuit"](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu "SoundCloud") [[33,34]][r].
 
@@ -115,14 +115,14 @@ A few days later (19 November 2015), peppy updated users on the situation in [an
 > - All users which were targeted so far have used the same password for 3+ years.
 > - Many used a very simple password, or shared the password across other services.
 > - All users compromised have had at least one other account compromised in the past.
->
+> 
 > Nonetheless, I am still taking further action:
->
+> 
 > - I’ve expanded the list of common passwords, and am forcefully resetting passwords of users which have these.
 > - We are on high alert and ready to help users out which are experiencing troubles.
 > - We’ve made procedures for users which have invalid email addresses so they can recover their account successfully.
 > - Working on adding two-factor support (email for now) to the osu! client. Should surface very soon.
->
+> 
 > We have a lot of accounts to forcefully reset due to weak passwords, and due to limited support staff, will be staggering the “rollout” of these resets over the coming weeks.
 
 — peppy, "20151119" [[40]][r]
