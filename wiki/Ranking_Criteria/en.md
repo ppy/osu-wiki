@@ -106,7 +106,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 #### Romanisation
 
-- **An artist's name must be romanised in the order it is printed in the unicode field if there is no official romanisation or translation available.** If an official romanisation is available, either option may be used in accordance with the relevant allowance.
+- **An artist's name must be romanised in the order it is printed in the unicode field if there is no official romanisation or translation available.** When an official romanisation is available, this method is optional.
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
 - **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae` and `ß` to `ss`.**
