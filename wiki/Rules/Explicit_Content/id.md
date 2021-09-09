@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
----
-
 # Konten eksplisit
 
 ![Tampilan beatmap yang mengandung konten eksplisit](img/explicit-tag.jpg "Contoh beatmap yang ditandai dengan label 'eksplisit'.")
@@ -17,7 +12,7 @@ osu! mengizinkan pemakaian **konten audio** yang bersifat eksplisit (baik dari s
 
 **Di sisi lain, osu! tidak membenarkan penggunaan gambar maupun video yang bersifat senonoh - seluruh elemen visual yang ada tetap harus tunduk pada [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations).**
 
-Pengecualian di sini hanya diberikan pada elemen-elemen visual senonoh yang mengandung unsur estetika seni (*artistic use*) dalam nuansa dan konteks pemakaiannya.
+Pengecualian di sini hanya diberikan pada elemen-elemen visual senonoh yang mengandung unsur estetika seni (*artistic use*) dalam nuansa dan konteks pemakaiannya, seperti [storyboards](/wiki/Storyboards) atau konten video.
 
 Pada intinya, selama dilabeli sebagaimana mestinya, lagu-lagu yang bersifat eksplisit dapat dipergunakan dan disebarluaskan dalam bentuk beatmap di dalam lingkungan osu!.
 
