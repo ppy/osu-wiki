@@ -104,17 +104,17 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Sep 11 (Sat.) 10:00 UTC | Sep 11 (Sat.) 18:00 UTC+8 | Sep 11 (Sat.) 19:00 UTC+9 | ² |
-| United Kingdom | ![][flag_GB] | ![][flag_VN] | Vietnam | Sep 11 (Sat.) 12:00 UTC | Sep 11 (Sat.) 13:00 UTC+1 | Sep 11 (Sat.) 19:00 UTC+7 | ² |
+| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Sep 11 (Sat.) 13:00 UTC | Sep 11 (Sat.) 21:00 UTC+8 | Sep 11 (Sat.) 22:00 UTC+9 | ² |
+| United Kingdom | ![][flag_GB] | ![][flag_VN] | Vietnam | Sep 11 (Sat.) 14:55 UTC | Sep 11 (Sat.) 15:55 UTC+1 | Sep 11 (Sat.) 21:55 UTC+7 | ² |
 
 ### Sunday, September 12, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Japan | ![][flag_JP] | ![][flag_VN] | Vietnam | Sep 12 (Sun.) 09:30 UTC | Sep 12 (Sun.) 18:30 UTC+9 | Sep 12 (Sun.) 16:30 UTC+7 | ³ |
+| Malaysia | ![][flag_MY] | ![][flag_VN] | Vietnam | Sep 12 (Sun.) 09:30 UTC | Sep 12 (Sun.) 17:30 UTC+8 | Sep 12 (Sun.) 16:30 UTC+7 | ³ |
 | Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | Sep 12 (Sun.) 12:00 UTC | Sep 12 (Sun.) 21:00 UTC+9 | Sep 12 (Sun.) 13:00 UTC+1 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_GB] | United Kingdom | Sep 12 (Sun.) 12:00 UTC | Sep 12 (Sun.) 20:00 UTC+8 | Sep 12 (Sun.) 13:00 UTC+1 | ³ |
-| Japan | ![][flag_JP] | ![][flag_VN] | Vietnam | Sep 12 (Sun.) 12:00 UTC | Sep 12 (Sun.) 21:00 UTC+9 | Sep 12 (Sun.) 19:00 UTC+7 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_VN] | Vietnam | Sep 12 (Sun.) 12:00 UTC | Sep 12 (Sun.) 20:00 UTC+8 | Sep 12 (Sun.) 19:00 UTC+7 | ³ |
+| Malaysia | ![][flag_MY] | ![][flag_GB] | United Kingdom | Sep 12 (Sun.) 13:00 UTC | Sep 12 (Sun.) 21:00 UTC+8 | Sep 12 (Sun.) 14:00 UTC+1 | ³ |
 | United States | ![][flag_US] | ![][flag_BR] | Brazil | Sep 12 (Sun.) 20:00 UTC | Sep 12 (Sun.) 15:00 UTC-5 | Sep 12 (Sun.) 17:00 UTC-3 | ¹ |
 
 ¹ Winners bracket match\
