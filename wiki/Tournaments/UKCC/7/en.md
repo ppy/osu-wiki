@@ -70,7 +70,6 @@ The UK Community Cup 7 was run by various community members.
 | 81-96 | ![][flag_GB] [_Snowy](https://osu.ppy.sh/users/10710046), ![][flag_GB] [Tesco Meal Deal](https://osu.ppy.sh/users/6471972), ![][flag_GB] [DeltaZero](https://osu.ppy.sh/users/6472042), ![][flag_GB] [JO3-M4K](https://osu.ppy.sh/users/7659789), ![][flag_GB] [Felicia](https://osu.ppy.sh/users/6177798), ![][flag_GB] [SS_Eclipse](https://osu.ppy.sh/users/9468006), ![][flag_GB] [Sith](https://osu.ppy.sh/users/8112797), ![][flag_GB] [JackRB](https://osu.ppy.sh/users/10007343), ![][flag_GB] [lokkut](https://osu.ppy.sh/users/4776591), ![][flag_GB] [Asda Meal Deal](https://osu.ppy.sh/users/6749950), ![][flag_GB] [PsychoStatic](https://osu.ppy.sh/users/7291594), ![][flag_GB] [smh my head](https://osu.ppy.sh/users/12203874), ![][flag_GB] [Phymiath](https://osu.ppy.sh/users/9106403), ![][flag_GB] [Elit3](https://osu.ppy.sh/users/10086758), ![][flag_GB] [Blukey](https://osu.ppy.sh/users/7813034), ![][flag_GB] [GongoTheGecko](https://osu.ppy.sh/users/9227012) |
 | 97-111 | ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [DrexiN](https://osu.ppy.sh/users/5363646), ![][flag_GB] [cfman29](https://osu.ppy.sh/users/9023597), ![][flag_GB] [God](https://osu.ppy.sh/users/10502908), ![][flag_GB] [Mantle](https://osu.ppy.sh/users/7225966), ![][flag_GB] [aroS](https://osu.ppy.sh/users/7193474), ![][flag_IE] [Neverslain](https://osu.ppy.sh/users/10644912), ![][flag_IE] [kaniciwah](https://osu.ppy.sh/users/9371954), ![][flag_GB] [josph12](https://osu.ppy.sh/users/8584840), ![][flag_GB] [mamoopy](https://osu.ppy.sh/users/9384951), ![][flag_GB] [fadentic](https://osu.ppy.sh/users/13453905), ![][flag_GB] [Metzo](https://osu.ppy.sh/users/10633982), ![][flag_GB] [Bowris](https://osu.ppy.sh/users/8562850), ![][flag_GB] [_Phazy](https://osu.ppy.sh/users/3956707), ![][flag_IE] [Broznix](https://osu.ppy.sh/users/13909259) |
 
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -152,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   - [Roselia - R (Doormat) [Rosenlied]](https://osu.ppy.sh/beatmapsets/820180#osu/1719416)
   - [LeaF - MEPHISTO (Starfy) [Mephistopheles]](https://osu.ppy.sh/beatmapsets/714024#osu/1509096)
-  - Reol - Yakusoku no Ao (Fatfan Kolek) [Chaoz's Extra]
+  - Reol - Yakusoku no Ao (Fatfan Kolek) \[Chaoz's Extra\]<!-- Map deleted by owner -->
   - [Camellia feat. Nanahira - NANI THE FUCK!! (Mir) [???????]](https://osu.ppy.sh/beatmapsets/1021743#osu/2137778)
   - [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) [Dance]](https://osu.ppy.sh/beatmapsets/46848#osu/145669)
   - [kamome sano - citrus (nika mika) [moecho's lemonade]](https://osu.ppy.sh/beatmapsets/529789#osu/1411721)
@@ -339,7 +338,7 @@ Sunday, 20 October 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Harpy** ![][flag_GB] | **6** | 4 | ![][flag_GB] AJT| [#1](https://osu.ppy.sh/community/matches/55693071) |
+| **Harpy** ![][flag_GB] | **6** | 4 | ![][flag_GB] AJT | [#1](https://osu.ppy.sh/community/matches/55693071) |
 
 Monday, 21 October 2019:
 
@@ -452,7 +451,7 @@ Monday, 7 October 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| helix ![][flag_GB] | 3 | **5** |![][flag_GB] **Summer Solstice** | [#1](https://osu.ppy.sh/community/matches/55399760) |
+| helix ![][flag_GB] | 3 | **5** | ![][flag_GB] **Summer Solstice** | [#1](https://osu.ppy.sh/community/matches/55399760) |
 
 #### Losers Bracket Round 3
 
