@@ -55,4 +55,4 @@ If you are unsure about an image that is going to be included in a beatmap in an
 
 **The result of any vote is final**, unless the image is significantly altered in an attempt to resolve any potentially problematic elements raised during discussion.
 
-At all times, the voting teams reserve the right to unilaterally declare any piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
+At all times, [the osu! team](/wiki/People/The_Team) reserves the right to unilaterally declare any piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
