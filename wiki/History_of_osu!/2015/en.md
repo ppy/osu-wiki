@@ -51,9 +51,9 @@ The ability to see what a replay would look like without [mods](/wiki/Game_modif
 
 ## July
 
-On 15 July 2015, it was announced that a new public [Slack](https://slack.com/ "Slack") team was created for the purpose of better communicating with public contributors. [peppy](https://osu.ppy.sh/users/2) initially made the announcement on his blog and had explained that anyone who was willing to help test cutting-edge features, contribute graphical/sound resources, or get help working with osu! services could come and join the team and talk to the osu! team directly [[21]][r].
+On 15 July 2015, it was announced that a new public [Slack](https://slack.com/ "Slack") team was created for the purpose of better communicating with public contributors. [peppy](https://osu.ppy.sh/users/2) initially made the announcement on his blog and had explained that anyone who was willing to help test cutting-edge features, contribute graphical/sound resources, or get help working with osu! services could come and join the team and talk to the people from different [osu! teams](/wiki/People/The_Team) directly [[21]][r].
 
-*Note: There was still a private Slack team that the osu! team used for internal communications, which was not accessible or viewable to outside users; these two teams were independent of each other.*
+*Note: There was still a private Slack team that the osu! teams used for internal communications, which was not accessible or viewable to outside users; these two teams were independent of each other.*
 
 Notwithstanding, the new team was completely public and available for anyone to join, which caused many unwanted users to flood the channels. This forced peppy into "locking down" the new team the very next day. Despite this, peppy continued to make use of the team throughout the rest of the year, and often invited users to come and join when they were testing new features or implementations [[22,23]][r].
 
