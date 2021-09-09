@@ -9,7 +9,7 @@ tags:
 
 # Developers
 
-The developers of osu! keep the game and website running by fixing bugs and adding new features. Most of them are employees of ppy Pty Ltd, the company that owns osu!. They form most of the [osu!team](/wiki/People/The_Team).
+The developers of osu! keep the game and website running by fixing bugs and adding new features. Most of them are employees of ppy Pty Ltd, the company that owns osu!. They form most of the [osu! team](/wiki/People/The_Team).
 
 Developers of osu! can be recognized by their pink user colours and "osu!dev" or "osu!team" user titles.
 

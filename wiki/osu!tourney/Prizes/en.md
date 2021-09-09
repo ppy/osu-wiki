@@ -4,7 +4,7 @@
 
 ## Profile Badges
 
-The osu!team may (at their discretion), provide a community-run tournament with a *profile badge*, a special reward that is visible on a player's profile.
+The osu! team may (at their discretion), provide a community-run tournament with a *profile badge*, a special reward that is visible on a player's profile.
 
 These badges typically display a player's skill and prowess in tournament play, and are thus regulated to ensure that they retain their worth and value.
 
@@ -23,7 +23,7 @@ We may award profile badges to any **first-place winners** of community-run tour
 
 **¹**: "Experienced" team members are loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team.
 
-In some cases, the osu!team may award profile badges for first, second, and third place of exceptionally large-scale tournaments (e.g. [Corsace Open](https://osu.ppy.sh/community/forums/topics/1117976)). This will be considered on a case-by-case basis.
+In some cases, the osu! team may award profile badges for first, second, and third place of exceptionally large-scale tournaments (e.g. [Corsace Open](https://osu.ppy.sh/community/forums/topics/1117976)). This will be considered on a case-by-case basis.
 
 ### Tournament Screening
 
@@ -137,7 +137,7 @@ Yes, a match can still be played even if one of the teams is missing one (or mor
 
 ### Can I request to advertise my tournament on the main menu?
 
-Yes, you can. It's at the osu!team's discretion to decide if your tournament can be advertised in-game, as there are many factors to consider.
+Yes, you can. It's at the osu! team's discretion to decide if your tournament can be advertised in-game, as there are many factors to consider.
 
 The minimum requirements to request in-game advertising are as follows:
 

@@ -75,7 +75,7 @@ Beatmaps that were ranked in the same month, or share the same theme (e.g. the s
 
 ### Unofficial sources
 
-There are also secondary sources of beatmaps, which are **neither checked nor operated by the osu!team**. However, they are available on the forums and appreciated by the community. Such sources include:
+There are also secondary sources of beatmaps, which are **neither checked nor operated by the osu! team**. However, they are available on the forums and appreciated by the community. Such sources include:
 
 - third-party beatmap mirrors hosted off a platform;
 - player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia"), such as BitTorrent.
@@ -115,4 +115,4 @@ osu! community regularly runs different contests in order to promote creativity 
 
 *Main page: [Featured Artists](/wiki/Featured_Artists)*
 
-Featured Artists is a community program by [osu!team](/wiki/People/The_Team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides pre-timed templates for mapping.
+Featured Artists is a community program by the [osu! team](/wiki/People/The_Team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides pre-timed templates for mapping.
