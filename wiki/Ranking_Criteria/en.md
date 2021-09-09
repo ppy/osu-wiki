@@ -143,7 +143,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 ### Allowances
 
-This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the ranking criteria. In cases where there are multiple options available for a song's metadata, the above standardization rules for the Ranked and Loved sections takes priority.
+This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the ranking criteria. In cases where there are multiple options available for a song's metadata, the above standardisation rules for the Ranked and Loved sections take priority.
 
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
 - **If a Unicode song title or artist has either an official translation or romanisation provided by the artist, either or may be used in the respective romanised field.**
