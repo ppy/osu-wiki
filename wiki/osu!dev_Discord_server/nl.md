@@ -6,13 +6,13 @@ no_native_review: true
 
 # osu!dev Discord server
 
-**osu!dev** is de officiële [Discord](https://discordapp.com "Website van Discord") server voor het werken aan osu!'s open source en community projecten. Dit is de voornaamste plaats om bij te dragen aan de ontwikkeling van osu! en om in contact te komen met het [osu!team](/wiki/People/The_Team).
+**osu!dev** is de officiële [Discord](https://discordapp.com "Website van Discord") server voor het werken aan osu!'s open source en community projecten. Dit is de voornaamste plaats om bij te dragen aan de ontwikkeling van osu! en om in contact te komen met de [osu! team](/wiki/People/The_Team).
 
 De permanente uitnodigingslink is <https://discord.gg/ppy>.
 
 ## Verificatie
 
-Nieuwe leden van de server hebben standaard geen toestemming om berichten te sturen. Als je toch berichten wilt sturen kan je een kort overzicht van jouw bedoelingen posten in het `#arrival`-kanaal, waarna een lid van het osu!team een server role aan jouw account zal toevoegen die de chatbeperking opheft.
+Nieuwe leden van de server hebben standaard geen toestemming om berichten te sturen. Als je toch berichten wilt sturen kan je een kort overzicht van jouw bedoelingen posten in het `#arrival`-kanaal, waarna een lid van het osu! team een server role aan jouw account zal toevoegen die de chatbeperking opheft.
 
 ## Projecten
 

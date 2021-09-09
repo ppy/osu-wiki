@@ -5,13 +5,13 @@ tags:
 
 # osu!dev Discord sunucusu
 
-**osu!dev**, osu!'nun açık kaynak ve topluluk projeleri üzerinde çalışılması için kurulmuş resmi [Discord](https://discordapp.com "Discord'un web sitesi") sunucusudur. Burası osu!'nun geliştirilmesine katkıda bulunmak ve [osu!team](/wiki/People/The_Team) ile temas kurmak için temel mekandır.
+**osu!dev**, osu!'nun açık kaynak ve topluluk projeleri üzerinde çalışılması için kurulmuş resmi [Discord](https://discordapp.com "Discord'un web sitesi") sunucusudur. Burası osu!'nun geliştirilmesine katkıda bulunmak ve [osu! ekibiyle](/wiki/People/The_Team) temasa geçmek için birincil merkezdir.
 
 Süresiz davet linki: <https://discord.gg/ppy>
 
 ## Doğrulama
 
-Sunucuya dahil olan yeni üyeler varsayılan olarak mesaj gönderemezler. Eğer mesaj göndermek istiyorlarsa, `#arrival` kanalına niyetleri hakkında kısa bir metin gönderebilirler, ve böylece bir osu!team üyesi onlara bir rol vererek bu kısıtlamayı kaldırabilir.
+Sunucuya dahil olan yeni üyeler varsayılan olarak mesaj gönderemezler. Eğer mesaj göndermek istiyorlarsa, `#arrival` kanalına niyetleri hakkında kısa bir metin gönderebilirler, ve böylece bir osu! ekip üyesi onlara bir rol vererek bu kısıtlamayı kaldırabilir.
 
 ## Projeler
 
