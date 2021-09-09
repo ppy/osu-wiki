@@ -24,7 +24,7 @@ Selain itu, seluruh pesan yang dikirim oleh user tersilence dihapus dari seluruh
 ![](img/silence-ingame.png "Peringatan silence di chat")
 :::
 
-After a user is silenced, an alert will be displayed in place of the chat input field, saying when the silence wears off. The silence record can also be observed at the bottom of the profile on the website, from which it will disappear after 28 days.
+Setelah user tersebut di silence, sebuah peringatan akan muncul pada kolom chat, dan terdapat tulisan kapan silence akan hilang. Catatan silence juga dapat dilihat pada bagian bawah profil di situs, yang dimana akan hilang setelah 28 hari.
 
 ## Mengajukan banding sebuah silence
 
