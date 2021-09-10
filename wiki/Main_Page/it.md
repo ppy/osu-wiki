@@ -129,7 +129,6 @@ Interagisci con osu! tramite altre applicazioni e media, o aiutalo a crescere ol
 
 # Wiki e pagine meta
 
-  
 Come quasi tutto il resto là fuori, la wiki di osu! è scritta e mantenuta da volontari. Suggerisci un miglioramento, segnala un problema, o scrivi un tuo articolo sulla [repository di GitHub osu!wiki](https://github.com/ppy/osu-wiki "osu! wiki at GitHub").
 
 [Storia di osu!](/wiki/History_of_osu!) • [Storia della wiki di osu!](/wiki/History_of_osu!/osu!_wiki) • [Timeline del mapping e del modding](/wiki/Mapping_and_Modding_Timeline) • [Pesci d'aprile](/wiki/History_of_osu!/April_Fools)
