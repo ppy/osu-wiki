@@ -33,7 +33,7 @@ The **UK Community Cup 7** (***UKCC7***) was a British 1v1 double-elimination os
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter and a sparkling medal |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter and a sparkling medal |
 
-![](img/badge.png "YSC 2021 winner badge")
+![](img/badge.png "UKCC7 winner badge")
 
 ## Organisation
 
