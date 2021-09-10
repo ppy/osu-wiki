@@ -54,7 +54,7 @@ Links:
 
 ## July
 
-[Aspire](/wiki/Aspire) 2 concluded with [Monstrata](https://osu.ppy.sh/users/2706438) as the Aspirant. osu! remix contest voting opened. The osu! team opened an osu!taiko design contest, as osu!taiko has yet to have one.
+[Aspire](/wiki/Aspire) 2 concluded with [Monstrata](https://osu.ppy.sh/users/2706438) as the Aspirant. osu! remix contest voting opened, together with the osu!taiko design contest.
 
 Links:
 

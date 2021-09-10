@@ -1,8 +1,8 @@
 # Featured artist showcase beatmaps
 
-Members of the [Mappers' Guild](/wiki/Mappers_Guild) occasionally create exclusive "showcase beatmaps" by using songs and other materials from osu!'s unreleased [featured artists](/wiki/Featured_Artists). When a featured artist is publicly announced, these beatmaps are covered in the corresponding [newsposts](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame).
+Members of the [Mappers' Guild](/wiki/Mappers_Guild) may occasionally create exclusive "showcase beatmaps" by using songs and other materials from osu!'s unreleased [featured artists](/wiki/Featured_Artists). Upon the announcement of the corresponding featured artist, these beatmaps are highlighted in the [newspost](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame) as well.
 
-To participate in featured artist showcase beatmaps, a member of the Mappers' Guild must accept a [limited-time mystery quests](/wiki/Mappers_Guild#quests) or be directly invited to create a beatmap after reaching tier 1 (or higher) in [Guild rank](/wiki/Mappers_Guild#rewards).
+In order to participate in the creation of featured artist showcase beatmaps, a member of the Mappers' Guild must either accept a [limited-time mystery quest](/wiki/Mappers_Guild#quests), be directly invited by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), or have their `FA showcase mapper` setting enabled in the [Mappers' Guild website](https://mappersguild.com/).
 
 This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
 
@@ -385,14 +385,20 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Natsume Itsuki - Mayday](https://osu.ppy.sh/beatmapsets/1506697) hosted by ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
   - (![][osu!]) [Natsume Itsuki - AI to CodeQ no Hate](https://osu.ppy.sh/beatmapsets/1515036) hosted by ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
   - (![][osu!]) [Natsume Itsuki - Miniascape](https://osu.ppy.sh/beatmapsets/1509856) hosted by ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
-- **[rN](https://osu.ppy.sh/home/news/2021-08-14-new-featured-artist-rn)** 
+- **[rN](https://osu.ppy.sh/home/news/2021-08-14-new-featured-artist-rn)** (2021-08-14)
   - (![][osu!]) [rN - My Dearest Nightmare](https://osu.ppy.sh/beatmapsets/1542543) hosted by ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
+- **[technoplanet](https://osu.ppy.sh/home/news/2021-08-25-new-featured-artist-technoplanet)** (2021-08-25)
+  - (![][osu!]) [technoplanet feat. chamo - Tepic Tepoch](https://osu.ppy.sh/beatmapsets/1551369) hosted by ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311)
+  - (![][osu!taiko]) [technoplanet - Megastructure \[Extended Mix\]](https://osu.ppy.sh/beatmapsets/1499443) hosted by ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484)
+  - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)     
+- **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (2021-08-28)
+  - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) hosted by ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
 ## History
 
-Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
+From its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists"<!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals. This was reflected in the Guild's first ever major project, in where members of the Guild had prepared and ranked six beatmaps of [licensed MOtOLOiD songs](https://osu.ppy.sh/beatmaps/artists/19) long prior to the [corresponding artist's announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
-As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming featured artist contents were often restricted to only a handful of mappers who were predominantly of the [osu!](/wiki/Game_mode/osu!) game mode; however, the Guild's [shift to an open and automated entry system in early 2019](/wiki/Mapping_and_Modding_Timeline#march.5) gradually allowed more and more creators to participate in the creation of showcase beatmaps for future featured artists over time regardless of their game mode.
+As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming featured artist contents were often restricted only to a handful of mappers who were predominantly of the [osu!](/wiki/Game_mode/osu!) game mode]. However, as the Guild began to shift to an open and automated entry system [in early 2019](/wiki/Mapping_and_Modding_Timeline#march.5), more and more mappers were drawn into the creation of showcase beatmaps for future featured artists over time regardless of their game mode.
 
 Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) in December 2020 onwards, new featured artist announcement posts occasionally began to feature short preview videos, often with these showcase beatmaps acting as their main headline.
 
@@ -430,4 +436,5 @@ Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/n
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

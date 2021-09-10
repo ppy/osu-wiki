@@ -598,7 +598,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 *Notice: External links refers to links that go outside the `https://osu.ppy.sh/` domain.*
 
-The `https` protocol must be used, unless the site does not support it. External links must be a clean and direct link to a reputable source. The link text should be the title of the page it is linking to. The URL from the address bar of your web browser should be copied as it is when linking to other external pages.
+The `https` protocol must be used, unless the site does not support it. External links must be a clean and direct link to a reputable source. The URL from the address bar of your web browser should be copied as it is when linking to other external pages.
 
 There are no visual differences between external and osu! web links. Due to this, the website name should be included in the title text. See the following example:
 

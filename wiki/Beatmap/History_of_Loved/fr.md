@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 91dc02f939d9a5eae9217bbbc7fb4d76c6001c89
+---
+
 # L'histoire de la catégorie Loved
 
 La catégorie de beatmaps [Loved](/wiki/Beatmap/Category#loved) est actuellement gérée par le [Project Loved](/wiki/Project_Loved). Cependant, cela n'a pas toujours été le cas. Project Loved est le troisième système principal qui a promu les beatmaps au rang de Loved ; avant lui, il y avait d'autres méthodes pour le faire, ainsi que de longues périodes de stagnation pour la catégorie Loved.

@@ -34,7 +34,7 @@ outdated: true
 
 ## Community
 
-*Caution: Use at your own risk! The projects listed below are not endorsed by osu! nor have any support from the osu! team.*
+*Caution: Use at your own risk! The projects listed below are not endorsed by osu!, nor do they have any official support.*
 
 Tools and/or services made by the osu! community. Feel free to add your own osu!-related projects to this list.
 
