@@ -3,8 +3,8 @@
 Dengan banyaknya variasi musik yang tersedia, sebagian besar lagu akan baik-baik saja untuk digunakan di osu!, asalkan tidak:
 
 - Mengandung hal yang sangat politis
-- Mendukung tekanan dan perpecahan terhadap rasial
-- Mengandung volume lagu sangat keras dan tak tertahankan atau terlalu durasi lagu terpotong terlalu banyak
+- Bersifat diskriminatif terhadap suatu ras ataupun kalangan tertentu
+- Memiliki volume lagu yang dengan sengaja dipasang sedemikian keras hingga memunculkan efek *clipping* yang berlebihan
 
 *Lihat juga: [Konten eksplisit](/wiki/Rules/Explicit_Content)*.
 
