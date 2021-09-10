@@ -80,11 +80,11 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [Spare](https://osu.ppy.sh/users/2204373) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [AJT](https://osu.ppy.sh/users/3181083) |
 
-## Map pools
+## Mappools
 
 ### Grand Finals
 
-**[Download the map pack here! (148.0MB)](https://mega.nz/#!TmhgUK5K!7kkYZPdolGvJbuCezRBj1SFJe6J-qZRu0B4qXTwXwzU)**
+**[Download the mappack here! (148.0MB)](https://mega.nz/#!TmhgUK5K!7kkYZPdolGvJbuCezRBj1SFJe6J-qZRu0B4qXTwXwzU)**
 
 - NoMod
   - [Shiena Nishizawa - Brand-new World (AtHeoN) [Brand-new Extra]](https://osu.ppy.sh/beatmapsets/375910#osu/1391381)
@@ -107,7 +107,7 @@ This competition has come to an end and resulted in the following podium:
   - [kors k - Dot (Reiji-RJ) [korzhik]](https://osu.ppy.sh/beatmapsets/184484#osu/441616)
   - [Hardgore Alice (CV: Hidaka Rina) - Forget me Not... (Mordred) [Insane]](https://osu.ppy.sh/beatmapsets/918004#osu/1924965)
 - FreeMod
-  - [DECO*27 - Ghost Rule (val0108) [z1085684963's Extra]](https://osu.ppy.sh/beatmapsets/425169#osu/951521)
+  - [DECO\*27 - Ghost Rule (val0108) [z1085684963's Extra]](https://osu.ppy.sh/beatmapsets/425169#osu/951521)
   - [DragonForce - Ashes of the Dawn (pw384) [Extra]](https://osu.ppy.sh/beatmapsets/786141#osu/1650328)
   - [CustomiZ - COOLEST (Spork Lover) [Hi-Speed Extreme]](https://osu.ppy.sh/beatmapsets/520373#osu/1105536)
 - Tiebreaker
@@ -115,7 +115,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the map pack here! (165.6MB)](https://mega.nz/#!7ux0kKbD!aBqtZjDCQnxb4nvianpVv_2eOUl4aEeMa6TmZH-w5so)**
+**[Download the mappack here! (165.6MB)](https://mega.nz/#!7ux0kKbD!aBqtZjDCQnxb4nvianpVv_2eOUl4aEeMa6TmZH-w5so)**
 
 - NoMod
   - [\*namirin - Amatsu Kitsune (Meg) [Extra]](https://osu.ppy.sh/beatmapsets/405474#osu/881313)
@@ -146,7 +146,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the map pack here! (128.7MB)](https://mega.nz/#!S7p2QShR!ugelC74o3C1Xc3ECMHCb7EWzhvuZh75UuGs9_nznR44)**
+**[Download the mappack here! (128.7MB)](https://mega.nz/#!S7p2QShR!ugelC74o3C1Xc3ECMHCb7EWzhvuZh75UuGs9_nznR44)**
 
 - NoMod
   - [Roselia - R (Doormat) [Rosenlied]](https://osu.ppy.sh/beatmapsets/820180#osu/1719416)
@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the map pack here! (141.7MB)](https://mega.nz/#!37BHiSQa!_YCHsfzKe3AqxPboSBa2Uuyf0_chbWqYVTpd5QNj9WA)**
+**[Download the mappack here! (141.7MB)](https://mega.nz/#!37BHiSQa!_YCHsfzKe3AqxPboSBa2Uuyf0_chbWqYVTpd5QNj9WA)**
 
 - NoMod
   - [Suzumu - Kakumeisei ousama densenbyou (tutuhaha) [Extra]](https://osu.ppy.sh/beatmapsets/307686#osu/688304)
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the map pack here! (163.5MB)](https://mega.nz/#!qqA2nCSa!zCQWppNn47REZtWCPLk9aVguEF9rGuO9h6BwHQGVqUk)**
+**[Download the mappack here! (163.5MB)](https://mega.nz/#!qqA2nCSa!zCQWppNn47REZtWCPLk9aVguEF9rGuO9h6BwHQGVqUk)**
 
 - NoMod
   - [Aqours - Thrilling One Way (ASPIRIN) [DvXtra]](https://osu.ppy.sh/beatmapsets/577666#osu/1225805)
@@ -237,7 +237,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the map pack here! (114.6MB)](https://mega.nz/#!OvQhmAiS!PT1qpuu5XGjnvX9Ra9w8flaEZsL_CCW47scekuARt7Y)**
+**[Download the mappack here! (114.6MB)](https://mega.nz/#!OvQhmAiS!PT1qpuu5XGjnvX9Ra9w8flaEZsL_CCW47scekuARt7Y)**
 
 - NoMod
   - [kalon. - Juubaku (Meg) [rui's Extra]](https://osu.ppy.sh/beatmapsets/529724#osu/1123161)
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifying round 2
 
-**[Download the map pack here! (86.8MB)](https://mega.nz/#!f3ASAA7T!umH3bN99cnuYe1ZFsOiXauUBFQRrW0n-_Zr4V8gE9ZA)**
+**[Download the mappack here! (86.8MB)](https://mega.nz/#!f3ASAA7T!umH3bN99cnuYe1ZFsOiXauUBFQRrW0n-_Zr4V8gE9ZA)**
 
 - NoMod
   - [96neko - E? Aa, sou. (newton-) [Fabricated]](https://osu.ppy.sh/beatmapsets/902346#osu/1914227)
@@ -285,7 +285,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifying round 1
 
-**[Download the map pack here! (46.7MB)](https://mega.nz/#!T6RjDY7S!0PbquOystkS4v2-byiBC0b_KMEZA8lECFhMqjYKDm_A)**
+**[Download the mappack here! (46.7MB)](https://mega.nz/#!T6RjDY7S!0PbquOystkS4v2-byiBC0b_KMEZA8lECFhMqjYKDm_A)**
 
 - NoMod
   - [ALiCE'S EMOTiON - Cold Rain (Yauxo) [Lunatic]](https://osu.ppy.sh/beatmapsets/204399#osu/482650)
@@ -299,9 +299,7 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [T.M.Revolution x Mizuki Nana - Preserved Roses (Xinely) [Collab Hard]](https://osu.ppy.sh/beatmapsets/223530#osu/522135)
 
-## Match schedules and results
-
-![Schedules](img/schedule_no_number.png)
+## Match results
 
 ### Grand Finals
 
@@ -421,7 +419,7 @@ Sunday, 6 October 2019:
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Harpy** ![][flag_GB] | **5** | 3 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/community/matches/55372794) |
-| Wario ![][flag_GB] | 2 | 5 | ![][flag_GB] **Ventus** | [#1](https://osu.ppy.sh/community/matches/55378053) |
+| Wario ![][flag_GB] | 2 | **5** | ![][flag_GB] **Ventus** | [#1](https://osu.ppy.sh/community/matches/55378053) |
 
 #### Losers Bracket Round 2
 
@@ -436,8 +434,8 @@ Saturday, 5 October 2019:
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kingling** ![][flag_GB] | **0** | -1 | ![][flag_GB] meltz | *forfeit* |
-| MoeYandere ![][flag_GB] | -1 | **0** | ![][flag_GB] hlo | *forfeit* |
-| majoreh ![][flag_GB] | 2 | **5** | ![][flag_GB] Zyphox | [#1](https://osu.ppy.sh/community/matches/55347021) |
+| MoeYandere ![][flag_GB] | -1 | **0** | ![][flag_GB] **hlo** | *forfeit* |
+| majoreh ![][flag_GB] | 2 | **5** | ![][flag_GB] **Zyphox** | [#1](https://osu.ppy.sh/community/matches/55347021) |
 
 Sunday, 6 October 2019:
 
@@ -445,7 +443,7 @@ Sunday, 6 October 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **Malteser** ![][flag_GB] | **5** | 3 | ![][flag_GB] Woffel | [#1](https://osu.ppy.sh/community/matches/55368204) |
 | **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_GB] Rinnu | [#1](https://osu.ppy.sh/community/matches/55371230) |
-| Voss ![][flag_GB] | 2 | 5 | ![][flag_GB] **Kerantina** | [#1](https://osu.ppy.sh/community/matches/55376109) |
+| Voss ![][flag_GB] | 2 | **5** | ![][flag_GB] **Kerantina** | [#1](https://osu.ppy.sh/community/matches/55376109) |
 
 Monday, 7 October 2019:
 
@@ -571,7 +569,7 @@ Monday, 23 September 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| -spoon- ![][flag_GB] | 4 | **5** | ![][flag_GB] Wario | [#1](https://osu.ppy.sh/community/matches/55061725) |
+| -spoon- ![][flag_GB] | 4 | **5** | ![][flag_GB] **Wario** | [#1](https://osu.ppy.sh/community/matches/55061725) |
 
 Wednesday, 25 September 2019:
 
@@ -585,7 +583,7 @@ See the [Qualifying round 2 results sheet](https://docs.google.com/spreadsheets/
 
 Top 10 qualification results:
 
-| Placing | Player | Total Score | Average Score |
+| Placing | Player | Total score | Average score |
 | --: | :-- | :-- | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) | 9,047,548 | 1,005,283 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373) | 8,927,095 | 991,899 |
@@ -604,7 +602,7 @@ See the [Qualifying round 1 results sheet](https://docs.google.com/spreadsheets/
 
 Top 10 qualification results:
 
-| Placing | Player | Total Score | Average Score |
+| Placing | Player | Total score | Average score |
 | --: | :-- | :-- | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262) | 7,359,796 | 1,051,399 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761) | 7,348,665 | 1,049,809 |
