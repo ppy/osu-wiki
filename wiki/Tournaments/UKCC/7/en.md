@@ -617,24 +617,24 @@ Top 10 qualification results:
 
 ## Ruleset
 
-- In the event there is 128 signups, those with the lowest global rank will be unable to participate (unless we expand the tournament)
+- In the event there is 128 signups, those with the lowest global rank will be unable to participate (unless we expand the tournament).
 - The structure of the tournament will be:
   - Two qualifications rounds - 32 players progress
   - Double Elimination Bracket
 - To be able to participate, players must have an **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag or be able to provide proof of residency to the hosts.**
-- Matches will be **Head to Head** and **ScoreV2**
+- Matches will be **Head to Head** and **ScoreV2**.
 - Ranks and Qualifications placements are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
 - All staff (apart from the Hosts, Mappool Selectors and Referees) are allowed to participate in the tournament.
 - All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and will be **blacklisted** from participating from future UKCC tournaments.
 - ***Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.***
 - Players are **required** to join the public discord so that they are contactable by other players and staff. If a player can’t be contacted or is not responding to messages, through discord, ingame messages or forum pms, contact the staff.
-- Mappools are to be released the Monday before a stage is due to happen
+- Mappools are to be released the Monday before a stage is due to happen.
 
 ### Reschedules
 
 - Schedules for the next round are released on the Monday before a stage is due to happen and **all** matches will be scheduled for the weekend. You can reschedule for weekdays at the staffs discretion.
 - In order to reschedule, you must contact your opponents, agree on a time and be able to provide **proof** (by form of a screenshot/image) of the agreed reschedule to the Hosts.
-- In effort to ensure as many matches take place as possible, reschedules are allowed up to **1 hour before your match is due to be played**. However, your opponent holds the right to **refuse a reschedule if asked less than 24 hours from the scheduled time**
+- In effort to ensure as many matches take place as possible, reschedules are allowed up to **1 hour before your match is due to be played**. However, your opponent holds the right to **refuse a reschedule if asked less than 24 hours from the scheduled time**.
 - If it is impossible to find a time to reschedule to that suits both players, both players should talk to the Hosts (Bae- or Yazzehh) and we will attempt to sort something out.
 - Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
 - If a match needs rescheduling to a time after a related losers’ bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
@@ -652,10 +652,10 @@ Top 10 qualification results:
 - There will be 4 No Mod, 1 Hidden, 1 HardRock and 1 DoubleTime map in round 1.
 - There will be 3 No Mod, 2 Hidden, 2 HardRock and 2 DoubleTime maps in round 2.
   - Round 2 maps were played in the order: NM3, HR2, DT2, HD2, HR1, NM2, DT1, NM1, HD1.
-- Your scores on each map will be added together giving you a total score
-- The top 64 players will progress from the first qualifier
-- The top 32 players will progress from the second qualifier
-- Seeding for groups will be determined from your seed based on your osu! rank (as of signup close) and your overall position in the RO64 qualifer, eg 3rd seed + 15th in qualifier = 18 points
+- Your scores on each map will be added together giving you a total score.
+- The top 64 players will progress from the first qualifier.
+- The top 32 players will progress from the second qualifier.
+- Seeding for groups will be determined from your seed based on your osu! rank (as of signup close) and your overall position in the RO64 qualifer, eg 3rd seed + 15th in qualifier = 18 points.
 
 ### Rolling
 
@@ -668,14 +668,14 @@ Top 10 qualification results:
 
 ### Warmups
 
-- There will be no warmups in Qualification rounds. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less
+- There will be no warmups in Qualification rounds. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less.
 
 ### Picking
 
 - Players have **2 minutes** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing player.
-- For Freemod picks, players must select any combination of the following mods: **Hidden, HardRock**
-- Failed scores will count
-- Tiebreakers are Freemod, however No Mod can be used.
+- For Freemod picks, players must select any combination of the following mods: **Hidden, HardRock**.
+- Failed scores will count.
+- Tiebreakers are FreeMod, however No Mod can be used.
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
