@@ -25,19 +25,19 @@ Need a refresher on **Avizura**'s sound? Experience the duality of osu!'s leader
 In case you missed it, play through [this osu! + osu!taiko mapset](https://osu.ppy.sh/beatmapsets/130546) hosted by [Bearizm](https://osu.ppy.sh/users/3495259)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/198/Lucky%20Star%20EP/Avizura%20-%20Lucky%20Star.mp3" type="audio/mpeg">
 </audio>
 
 ### Air Castles
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/198/Air%20Castles/Avizura%20-%20Air%20Castles.mp3" type="audio/mpeg">
 </audio>
 
 ### Over The Edge
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/198/Crystal%20EP/Avizura%20-%20Over%20The%20Edge.mp3" type="audio/mpeg">
 </audio>
 
 ---
