@@ -10,9 +10,7 @@ Regardless of the nature of the audio, make sure it also complies with the [gene
 
 Explicit content refers primarily to the **audio content of a beatmap**, mostly in theme, subject matter, or *heavy* use of explicit language. It does **not** apply to visual elements of a beatmap—those **must** adhere to the [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations).**
 
-In certain circumstances, some exclusions may apply for artistic use of high-effort content, such as [storyboards](/wiki/Storyboards) or bespoke (i.e. specifically created) video content.
-
-Generally speaking, with the advent of the new explicit content marker, most forms of music are now acceptable to use in beatmaps with very few exceptions, so long as they are marked appropriately.
+Generally speaking, most forms of music are acceptable to use in beatmaps with very few exceptions, so long as they are marked appropriately.
 
 ## What counts as heavy use of explicit language?
 
