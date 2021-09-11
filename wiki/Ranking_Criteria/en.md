@@ -146,7 +146,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the ranking criteria. In cases where there are multiple options available for a song's metadata, the above standardisation rules for the Ranked and Loved sections take priority.
 
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
-- **If a Unicode song title or artist has either an official translation or romanisation provided by the artist, either or may be used in the respective romanised field.**
+- **If a Unicode song title or artist has an official translation or romanisation provided by the artist, it may be used in the respective romanised field. If both a translation and romanisation are available, either may be used.**
 - **If a beatmap's track was contributed to by multiple artists, they may be listed with commas inbetween.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
 - **For Remixes/Covers, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the Remix/Cover artist followed by descriptor.
 
