@@ -25,7 +25,7 @@ tags:
   - tampilan antarmuka
 ---
 
-# Klien1
+# Klien
 
 *Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
 
