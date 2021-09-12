@@ -275,7 +275,7 @@ Sunday, September 05, 2021
 | **Vietnam** ![][flag_VN] | **7** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/90421240) |
 | **Japan** ![][flag_JP] | **7** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/90428313) |
 
-## Quarterfinals
+### Quarterfinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxI-1S9uv04mhcmVeYdB_rbQ3T6gyhbs8739duhmPwv4oChWpcALdX6qm9vS3PsWR-ouo9ytG5f2rA/pubhtml "Google Sheets").
 
