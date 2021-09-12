@@ -115,4 +115,4 @@ Komunitas osu! secara rutin mengadakan kontes-kontes yang berbeda untuk mempromo
 
 *Artikel utama: [Featured Artist](/wiki/Featured_Artists)*
 
-Featured Artist adalah program komunitas yang dibuat oleh [osu! team](/wiki/People/The_Team) yang berfokus pada pemberian lisensi musik dari berbagai artis untuk osu! dan membuatnya tersedia untuk mapping. Situs web [daftar featured artist](https://osu.ppy.sh/beatmaps/artists) memamerkan setiap artis yang terlibat sekaligus menyediakan template untuk mapping.
+Featured Artist adalah program komunitas yang dibuat oleh [tim inti osu!](/wiki/People/The_Team) yang berfokus pada pemberian lisensi musik dari berbagai artis untuk osu! dan membuatnya tersedia untuk mapping. Situs web [daftar featured artist](https://osu.ppy.sh/beatmaps/artists) memamerkan setiap artis yang terlibat sekaligus menyediakan template untuk mapping.
