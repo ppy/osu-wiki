@@ -56,7 +56,7 @@ The other Bamboo models come in two sizes, basically small and large. For the se
 
 For osu!, you'll probably be looking at getting one of the "small" sized tablets because it's a common strategy to reduce play area so that you don't have to move your arm when you play. However, it's personal preference as to whether or not you want a larger tablet area, and it's especially worth considering the "large" size if you are also into digital art; drawing is much more comfortable on a larger tablet.
 
-Lastly, Intuos3 tablets can be had for very cheap on second-hand sites like eBay or Craigslist, and are definitely worth checking out if you're also going to be doing digital art as well. For osu!, however, the differences between the Intuos and Bamboo lines are negligible, the only real difference is that the Intuos lines have a much wider range of sizes than is available for Bamboo.
+Lastly, CTL-480 tablets can be had for very cheap on second-hand sites like eBay or Amazon, although they are often hard to find, due to the discontinuation of the manufacturing, but if you could find one for a reasonable price, they are definitely worth checking out if you're also going to be doing digital art as well. For osu!, however, the differences between the Intuos and Bamboo lines are negligible, the only real difference is that the Intuos lines have a much wider range of sizes than is available for Bamboo.
 
 ### Other tablet brands
 
