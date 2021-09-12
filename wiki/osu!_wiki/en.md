@@ -9,7 +9,7 @@ All discussions which cover the wiki in general, its development, and changes to
 
 ## History
 
-*See also: [History of the osu! wiki](/wiki/History_of_osu!/osu!_wiki)*
+*Main page: [History of the osu! wiki](/wiki/History_of_osu!/osu!_wiki)*
 
 The [first attempts](https://osu.ppy.sh/community/forums/posts/1175876) of creating a structured knowledge base are dated to 2011, when [peppy](/wiki/People/peppy) set up a [MediaWiki](https://en.wikipedia.org/wiki/MediaWiki) instance for anyone willing to participate. Over the years, maintenance and operation of the MediaWiki has been proven difficult and toilsome, and in [August 26, 2016](https://discord.com/channels/188630481301012481/218677502141399041/218678017659109376) peppy and a team of volunteers began the process of migrating the osu! wiki to GitHub, where it resides to this day. The wiki has since been integrated into the new osu! website and received technical and visual updates critical for good user experience.
 

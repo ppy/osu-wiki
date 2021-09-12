@@ -6,9 +6,9 @@ This article describes technical or administrative aspects of the osu! wiki. It 
 
 ## Administrators
 
-*Main article: [List of the osu! wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
+*Main page: [List of the osu! wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
 
-The administrators are people with the [collaborator level of access](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki/), where all the data is stored. They triage and label issues, manage open pull requests, and make decisions regarding the osu! wiki's present and future.
+The administrators are people with the [collaborator level of access](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki/), where all articles and news are stored. They can triage and label issues, manage open pull requests, and make decisions regarding the osu! wiki's present and future.
 
 Maintainers perform the final review of pull requests and merge them. If you have a contribution which needs attention, ask one of them in the `#osu-wiki` channel.
 
@@ -56,7 +56,7 @@ If you need help with decrypting the CI check errors, or fixing the issues, ask 
 
 ### Development
 
-The osu! wiki is integrated into the osu! website, which means all technical feature requests should be [made and tracked](https://github.com/ppy/osu-web/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aarea%3Awiki) in the `ppy/osu-web` repository. To inform other contributors of your request, make sure to link the new issue in the `#osu-wiki` Discord channel, or osu! wiki's issue tracker.
+The osu! wiki is integrated into the osu! website, which means all technical feature requests should be [made and tracked](https://github.com/ppy/osu-web/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aarea%3Awiki) in the `ppy/osu-web` repository. To inform other contributors of your request, make sure to link the new issue in the `#osu-wiki` Discord channel, or the osu! wiki's issue tracker.
 
 ### Tools
 

@@ -1,8 +1,8 @@
 # List of the osu! wiki maintainers
 
-The maintainers look after the [issue tracker](https://github.com/ppy/osu-wiki/issues), review and edit the pull requests from contributors, and merge them into the `master` branch of the repository, effectively making the changes public.
+The maintainers regularly look after the [issue tracker](https://github.com/ppy/osu-wiki/issues) and review pull requests from contributors. Apart from other contributors, they can edit pull requests and merge them into the `master` branch of the repository, effectively making the changes public.
 
-If you need help with making a contribution or merging your pull request, talk to one of the maintainers in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/osu!dev_Discord_server) (all of them speak English).
+If you need help with making a contribution or want a review on your pull request, message in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/osu!dev_Discord_server) and a maintainer or another contributor will reply back (all maintainers know English).
 
 ## The wiki team
 
