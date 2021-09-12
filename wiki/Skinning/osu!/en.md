@@ -36,7 +36,7 @@ Notes:
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- This element is downscaled by 0.8x.
 
 ---
 
@@ -53,7 +53,7 @@ Notes:
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- This element is downscaled by 0.8x.
 
 ---
 
@@ -70,7 +70,7 @@ Notes:
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- This element is downscaled by 0.8x.
 
 ---
 
@@ -87,7 +87,7 @@ Notes:
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- This element is downscaled by 0.8x.
 
 ---
 
@@ -104,7 +104,7 @@ Notes:
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- This element is downscaled by 0.8x.
 
 ---
 
@@ -121,7 +121,7 @@ Notes:
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- This element is downscaled by 0.8x.
 
 ---
 
@@ -138,7 +138,7 @@ Notes:
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- This element is downscaled by 0.8x.
 
 ---
 
@@ -155,7 +155,7 @@ Notes:
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- This element is downscaled by 0.8x.
 
 ---
 
@@ -172,7 +172,7 @@ Notes:
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- This element is downscaled by 0.8x.
 
 ---
 
@@ -189,7 +189,7 @@ Notes:
 - In v1.0, these expanded then fades out with the hit circle.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
-- This element is downscaled by 0.8x
+- This element is downscaled by 0.8x.
 
 ## Hit circles
 
@@ -363,7 +363,7 @@ Notes:
 
 Notes:
 
-- Animation name: `sliderendcircleoverlay-#.png`, replace # with indexed count (start frame count at zero)
+- Animation name: `sliderendcircleoverlay-#.png`, replace # with indexed count (start frame count at zero).
 - Animation rate: 2 FPS (4 FPS max).
   - This rate is affected by the half time and double time/nightcore the game modifiers.
 - This element fades in before completing and expands when completed.
@@ -534,8 +534,8 @@ Notes:
 
 Notes:
 
-- RPM is short for "Revolutions Per Minute"
-- This element is positioned at 139px to the left from the middle of the screen and at 712px height
+- RPM is short for "Revolutions Per Minute".
+- This element is positioned at 139px to the left from the middle of the screen and at 712px height.
   - (373,712) at 1024x768
   - (544,712) at 1366x768
 
@@ -617,7 +617,7 @@ Notes:
 
 - Positioned 46px away from top and 512px to the left from the middle axis.
   - (0,46) at 1024x768 and (171,46) at 1366x768.
-- This element is the progression bars
+- This element is the progression bars.
 - The highest part of the bar will blink when bonus points are awarded.
   - Blinking can be disabled by setting `SpinnerNoBlink` to `1` in the [skin.ini](/wiki/Skinning/skin.ini)
 
@@ -649,7 +649,7 @@ Notes:
 Notes:
 
 - This element is positioned around 397px vertically.
-- Tinted cyan, blinks white when bonus points are awarded
+- Tinted cyan, blinks white when bonus points are awarded.
 - This blinks when awarding bonus points.
 - This element is the lowest layer.
 
