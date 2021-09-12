@@ -29,7 +29,7 @@ tags:
 
 *Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
 
-Apakah kamu mengalami masalah dengan klien osu! milikmu? Harap simak artikel ini dengan seksama untuk mengetahui apakah persoalan yang hendak kamu keluhkan telah terperinci di dalamnya.
+Apakah kamu mengalami masalah dengan klien osu! milikmu? Harap simak artikel ini dengan seksama untuk mengetahui apakah persoalan yang tengah kamu hadapi telah terperinci di dalamnya.
 
 ## *Bug* & *crash*
 
