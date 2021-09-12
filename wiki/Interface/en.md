@@ -37,7 +37,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 1. `View Profile`: Opens up your profile page in your default web browser.
 2. `Sign Out`: Sign out of your account (after signing out, the [Options](/wiki/Options) sidebar will prompt you to sign in).
 3. `Change Avatar`: Open up the edit avatar page in your default web browser.
-4. `Close`: Close this dialog
+4. `Close`: Close this dialog.
 
 ## Play Menu
 
