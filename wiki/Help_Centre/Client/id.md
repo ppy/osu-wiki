@@ -37,7 +37,7 @@ Apakah kamu mengalami masalah dengan klien osu! milikmu? Harap simak artikel ini
 
 **Pada umumnya, masalah ini dapat teratasi dengan mengembalikan osu! ke pengaturan *default*.**
 
-Ikuti langkah-langkah berikut untuk dapat mengembalikan osu! ke pengaturan *default*:
+Untuk dapat mengembalikan osu! ke pengaturan *default*, ikuti langkah-langkah berikut:
 
 1. Jalankan osu! sembari menahan tombol `Shift` pada *keyboard*.
 2. Tunggu hingga osu! memunculkan menu `osu! configuration`.
