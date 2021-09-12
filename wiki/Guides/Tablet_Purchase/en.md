@@ -46,9 +46,9 @@ At the time of writing there are three versions of the Bamboo, all confusingly u
 
 ![](img/gen1.jpg "First generation Bamboo (Pen and Touch, Touch, and Fun - Bamboo Fun shown)")
 
-![](https://puu.sh/dlQH "Second generation Bamboo (Pen and Touch, Pen, Touch, Fun, and Craft - Bamboo Pen and Touch shown)")
+![](img/gen2.jpg "Second generation Bamboo (Pen and Touch, Pen, Touch, Fun, and Craft - Bamboo Pen and Touch shown)")
 
-![](https://wowcake.s-ul.eu/PgLyCagy "Third generation Bamboo (Connect, Capture, Create - Connect shown)")
+![](img/gen3.jpg "Third generation Bamboo (Connect, Capture, Create - Connect shown)")
 
 You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](https://apple.com/magictrackpad).
 
@@ -78,7 +78,7 @@ In short, Wacom is the recommended brand from most serious osu! players. Cintiq 
 
 Here are some links to purchase the latest models.
 
-- [Amazon - One by Wacom Tablet (small version) (CTL472)](https://www.amazon.com/dp/B07S1RR3FR/ref=cm_sw_r_awdo_navT_g_6QR3RY32BE2C0WQ8B1KG)
+- [Amazon - One by Wacom Tablet (small version) (CTL472)](https://www.amazon.com/Wacom-Graphic-Drawing-Tablet-Beginners/dp/B07S1RR3FR)
 - [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP)
 - [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt)
 - [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
