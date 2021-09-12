@@ -26,7 +26,7 @@ With the goal of trying to allow players to try the tablet input method without 
 
 ### Huion
 
-Huion is a tablet company that is the supplier of the osu!tablet. They are best known for being cheaper than Wacom tablets by a large margin but some would say that their tablets feel flimsier and that running a tablet pen over a Huion tablet would feel as if you were on writing paper (in comparison, some say that on Wacom, it is as if you were writing on glass). Their tablet pens either require a battery or needs to be charged, unlike Wacom tablet pens, and their nibs may need to be often than Wacom nibs. Other than that, there really are not any noticeable differences between Walcom and Huion tablets.
+Huion is a tablet company that is the supplier of the osu!tablet. They are best known for being cheaper than Wacom tablets by a large margin but some would say that their tablets feel flimsier and that running a tablet pen over a Huion tablet would feel as if you were on writing paper (in comparison, some say that on Wacom, it is as if you were writing on glass). Their tablet pens either require a battery or needs to be charged, unlike Wacom tablet pens, and their nibs may need to be often replaced than Wacom nibs. Other than that, there really are not any noticeable differences between Walcom and Huion tablets.
 
 The HUION H430P (4096) is similar to the osu!tablet (in fact, it is marketed towards osu! players).
 
@@ -48,7 +48,7 @@ At the time of writing there are three versions of the Bamboo, all confusingly u
 
 ![](https://puu.sh/dlQH "Second generation Bamboo (Pen and Touch, Pen, Touch, Fun, and Craft - Bamboo Pen and Touch shown)")
 
-![](https://puu.sh/dlQi "Third generation Bamboo (Connect, Capture, Create - Connect shown)")
+![](https://wowcake.s-ul.eu/PgLyCagy "Third generation Bamboo (Connect, Capture, Create - Connect shown)")
 
 You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](https://apple.com/magictrackpad).
 
@@ -58,12 +58,27 @@ For osu!, you'll probably be looking at getting one of the "small" sized tablets
 
 Lastly, Intuos3 tablets can be had for very cheap on second-hand sites like eBay or Craigslist, and are definitely worth checking out if you're also going to be doing digital art as well. For osu!, however, the differences between the Intuos and Bamboo lines are negligible, the only real difference is that the Intuos lines have a much wider range of sizes than is available for Bamboo.
 
-In short, Wacom is the recommended brand from most serious osu! players. Cintiq and Intuos tablets are too expensive and give no real advantage over Bamboo for osu!. See the recommend options above for the recommend models. Also try your luck at a used Intuos3 if you're also into art.
+### Other tablet brands
+
+Other than Wacom and Huion, there are also more tablet manufacturers that tries to compete with the market, bringing a decent product that targetted at artists, and even osu! players.
+
+Some of those manufacturer and their known tablet are:
+
+- Gaomon (known for their Gaomon S620 tablet).
+- XP-Pen (known for their XP-PEN G640 Rev A tablet).
+- VEIKK  (known for their VEIKK S640 tablet).
+
+All of those aforementioned tablets have a pretty decent quality. Often being priced much cheaper than Wacom's tablets, making them a really good tablet when you're on budget.
+
+Although, some people still prefer the Wacom's tablets, despite of those alternatives.
+
+In short, Wacom is the recommended brand from most serious osu! players. Cintiq and Intuos tablets are too expensive and give no real advantage over Bamboo for osu!. See the recommend options above for the recommend models. Also try your luck at a used CTL-480 if you're also into art.
 
 ## Recommendations
 
 Here are some links to purchase the latest models.
 
+- [Amazon - One by Wacom Tablet (small version) (CTL472)](https://www.amazon.com/dp/B07S1RR3FR/ref=cm_sw_r_awdo_navT_g_6QR3RY32BE2C0WQ8B1KG)
 - [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP)
 - [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt)
 - [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
