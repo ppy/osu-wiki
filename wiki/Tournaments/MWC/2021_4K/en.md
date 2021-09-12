@@ -115,7 +115,7 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 ### Finals
 
-*Note: this mappool was used for both the Finals and Grand Finals.*
+*Note: this mappool is used for both the Finals and Grand Finals.*
 
 - Rice
   1. [Kuribayashi Minami - ZERO!! (stupud man) \[Skwid's Challenge 1.05x\]](https://osu.ppy.sh/beatmapsets/1450344#mania/2981851)
