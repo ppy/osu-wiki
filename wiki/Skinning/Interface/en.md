@@ -164,7 +164,7 @@ Notes:
 
 Notes:
 
-- This element is underneath the `cursor.png` element
+- This element is underneath the `cursor.png` element.
 - If `cursormiddle.png` is present, a longer trail is used.
 - By default, this element does not rotate.
 - [skin.ini](/wiki/Skinning/skin.ini) command:
@@ -1171,8 +1171,8 @@ Notes:
 Notes:
 
 - `scorebar-marker.png` has higher priority.
-- this element represents the "warning" zone
-- This element is not used in [osu!mania](/wiki/Game_mode/osu!mania)
+- This element represents the "warning" zone.
+- This element is not used in [osu!mania](/wiki/Game_mode/osu!mania).
 - Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
 
 ---
@@ -1189,7 +1189,7 @@ Notes:
 
 - `scorebar-marker.png` has higher priority.
 - This element represents the "critical" zone.
-- This element is not used in [osu!mania](/wiki/Game_mode/osu!mania)
+- This element is not used in [osu!mania](/wiki/Game_mode/osu!mania).
 - Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
 
 ---
@@ -1917,7 +1917,7 @@ Notes:
 - Tinting depends on use:
   - Score: white
   - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined.
 - Origin varies on use:
   - Score: Top Left
   - Combo: Top Right
@@ -1939,7 +1939,7 @@ Notes:
 - Tinting depends on use:
   - Score: white
   - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined.
 - Origin varies on use:
   - Score: Top Left
   - Combo: Top Right
@@ -1961,7 +1961,7 @@ Notes:
 - Tinting depends on use:
   - Score: white
   - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined.
 - Origin varies on use:
   - Score: Top Left
   - Combo: Top Right
@@ -1983,7 +1983,7 @@ Notes:
 - Tinting depends on use:
   - Score: white
   - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined.
 - Origin varies on use:
   - Score: Top Left
   - Combo: Top Right
@@ -2005,7 +2005,7 @@ Notes:
 - Tinting depends on use:
   - Score: white
   - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined.
 - Origin varies on use:
   - Score: Top Left
   - Combo: Top Right
@@ -2027,7 +2027,7 @@ Notes:
 - Tinting depends on use:
   - Score: white
   - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined.
 - Origin varies on use:
   - Score: Top Left
   - Combo: Top Right
@@ -2049,7 +2049,7 @@ Notes:
 - Tinting depends on use:
   - Score: white
   - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined.
 - Origin varies on use:
   - Score: Top Left
   - Combo: Top Right
@@ -2071,7 +2071,7 @@ Notes:
 - Tinting depends on use:
   - Score: white
   - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined.
 - Origin varies on use:
   - Score: Top Left
   - Combo: Top Right
@@ -2093,7 +2093,7 @@ Notes:
 - Tinting depends on use:
   - Score: white
   - Combo: cyan
-  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined
+  - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/Skinning/skin.ini) or black, if not defined.
 - Origin varies on use:
   - Score: Top Left
   - Combo: Top Right
