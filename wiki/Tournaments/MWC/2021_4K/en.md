@@ -260,7 +260,7 @@ Sunday, September 12, 2021
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Malaysia ![][flag_MY] | 4 | **7** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/90796940) |
+| **Malaysia** ![][flag_MY] | **7** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/90796940) |
 | United States ![][flag_US] | 1 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/90818556) |
 
 ### Semifinals
