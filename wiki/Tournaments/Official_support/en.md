@@ -1,6 +1,6 @@
 # Official tournament support
 
-The [osu!team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
+The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
 ## Benefits
 
@@ -30,7 +30,7 @@ Participants in officially supported tournaments are expected to adhere to the [
 
 Tournament players are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions.
 
-Organisers who find the behaviour of any player enrolled in an officially supported tournament questionable or disruptive may report such things to the osu! support team for prompt review. At the osu!team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
+Organisers who find the behaviour of any player enrolled in an officially supported tournament questionable or disruptive may report such things to the osu! support team for prompt review. At the osu! team's discretion, offending players may be issued timed or permanent tournament bans depending on the severity of their behaviour. Repeat offenders may risk incurring a permanent tournament ban or a restriction.
 
 ## Tournament screening
 
@@ -59,10 +59,10 @@ Individual players who are unhappy with their screening outcome should be told t
 
 Profile badge images must adhere to the following standards:
 
-- The badge image file MUST be a PNG.
-- The badge image MUST be **172x80**px in dimension.
-- The badge MUST clearly display the logo, motif, or name of your tournament.
-- The badge MUST be cleanly designed and of reasonable visual quality.
+- The badge image file must be a PNG.
+- The badge image must be **172x80**px in dimension.
+- The badge must clearly display the logo, motif, or name of your tournament.
+- The badge must be cleanly designed and of reasonable visual quality.
 
 Please consult the following examples of approved badges:
 
@@ -75,12 +75,12 @@ Badge images that do not meet these standards will be refused with given reasoni
 
 In rare circumstances, some long-running community tournaments may qualify for in-game main-menu banner support. Such images must adhere to the following standards:
 
-- The banner image MUST be a PNG.
-- The banner image MUST be **1500x256**px in dimension.
+- The banner image must be a PNG.
+- The banner image must be **1500x256**px in dimension.
   - All banner images will be treated as `2x`, meaning that they will be exported at 50% scale by us in a `1x` image.
   - Design your images appropriately to ensure things are legible at half size.
-- The banner MUST clearly display the logo, motif AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
-- The banner MUST be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
+- The banner must clearly display the logo, motif AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
+- The banner must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 
 Please do not submit a main menu banner with your original request—you will be asked and pointed to this section if you are authorized to make use of one.
 
@@ -90,7 +90,7 @@ To start with, the request for support **must be made well before the tournament
 
 There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process. 
 
-You may be required to postpone the start of your tournament during periods of high delay, but the osu!team will make efforts to ensure this does not happen.
+You may be required to postpone the start of your tournament during periods of high delay, but the osu! team will make efforts to ensure this does not happen.
 
 Please read the criteria laid out below, then send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with the following information:
 
@@ -147,13 +147,13 @@ LAN tournaments are also required to add links to VODs and a copy of the bracket
 
 ## Frequently asked questions
 
-### Why does a tournament have to run at least twice or more in order to qualify for profile badges without experienced staff present?
+### Why does a tournament have to run at least twice or more in order to qualify for profile badges without experienced staff present? {#twice-or-more}
 
 The second iteration of a tournament is often free of a lot of the organisational issues of the first tournament, and has established a solid workflow and staff involved in its production. They are far less likely to peter out or be subject to questionable choices. The tournament is also far more identifiable if it runs more than just once.
 
 For all of these reasons (and more), we ask that profile badge prizes are only awarded to tournaments that have successfully run at least once before, unless a sizeable majority of the team is experienced and accomplished at running tournaments in the past.
 
-### What is considered "staff" as far as tournament management goes?
+### What is considered "staff" as far as tournament management goes? {#what-is-considered-staff}
 
 We consider referees, mappool selectors, judges, team organisers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
 
@@ -161,29 +161,29 @@ Commentators and streamers are not considered by us as staff, and may play or in
 
 We have historically had issues where unscrupulous organisers have geared tournaments specifically (i.e. picked maps they're familiar with, adjusted seeds/brackets, etc.) to farm profile badges for themselves and their friends. While we understand that most groups will not do this, we must enforce this restriction to keep things fair for everyone.
 
-### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems?
+### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems? {#player-join-staff}
 
 Generally no, unless the role they are assuming is not one that could conceivably alter the outcome of the tournament.
 
 A player may conclude play in your tournament and join as a commentator, for example, but not as a referee, organiser, or anything further.
 
-### Why can't badges be awarded to recurring monthly (or weekly) tournaments?
+### Why can't badges be awarded to recurring monthly (or weekly) tournaments? {#recurring-contests}
 
 Flooding the game with profile badges dilutes the prestige of the prize for everybody else. We do not want profile badges to be something that people 'farm' from a few sets of regular, recurring tournaments.
 
-### Can I request a badge for a beatmap contest or other type of competition?
+### Can I request a badge for a beatmap contest or other type of competition? {#contest-support}
 
 For beatmap contests, yes, just follow the same rules as above. We highly recommend using [Featured Artists](https://osu.ppy.sh/beatmaps/artists) for such contests and will flagrantly give preferential treatment to those who do.
 
 For other contests, email us and ask personally. We'll try to work something out.
 
-### Can a team-based tournament match be played if a team is missing a player?
+### Can a team-based tournament match be played if a team is missing a player? {#team-player-missing}
 
 Yes, a match can still be played even if one of the teams is missing one or more players.
 
-### Can I request to advertise my tournament on the main menu?
+### Can I request to advertise my tournament on the main menu? {#main-menu-advertise}
 
-Yes, you can. It's at the osu!team's discretion to decide if your tournament can be advertised in-game, as there are many factors to consider.
+Yes, you can. It's at the osu! team's discretion to decide if your tournament can be advertised in-game, as there are many factors to consider.
 
 The minimum requirements to request in-game advertising are as follows:
 
