@@ -75,7 +75,7 @@ Beatmap yang ranked di bulan yang sama, atau mempunyai tema yang sama (mis. arti
 
 ### Sumber tidak resmi
 
-Terdapat sumber-sumber beatmap lainnya, yang **tidak diperiksa atau dioperasikan oleh osu!team**. Namun, sumber-sumber tersebut tersedia di forum dan diterima oleh komunitas. Sumber-sumber tersebut meliputi:
+Terdapat sumber-sumber beatmap lainnya, yang **tidak diperiksa atau dioperasikan oleh tim inti osu!**. Namun, sumber-sumber tersebut tersedia di forum dan diterima oleh komunitas. Sumber-sumber tersebut meliputi:
 
 - mirror beatmap pihak ketiga yang dihosting di luar platform;
 - paket dan kompilasi beatmap yang dibuat oleh pengguna biasa yang dibagikan melalui [jaringan-jaringan peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia"), seperti BitTorrent.
@@ -115,4 +115,4 @@ Komunitas osu! secara rutin mengadakan kontes-kontes yang berbeda untuk mempromo
 
 *Artikel utama: [Featured Artist](/wiki/Featured_Artists)*
 
-Featured Artist adalah program komunitas yang dibuat oleh [osu!team](/wiki/People/The_Team) yang berfokus pada pemberian lisensi musik dari berbagai artis untuk osu! dan membuatnya tersedia untuk mapping. Situs web [daftar featured artist](https://osu.ppy.sh/beatmaps/artists) memamerkan setiap artis yang terlibat sekaligus menyediakan template untuk mapping.
+Featured Artist adalah program komunitas yang dibuat oleh [tim inti osu!](/wiki/People/The_Team) yang berfokus pada pemberian lisensi musik dari berbagai artis untuk osu! dan membuatnya tersedia untuk mapping. Situs web [daftar featured artist](https://osu.ppy.sh/beatmaps/artists) memamerkan setiap artis yang terlibat sekaligus menyediakan template untuk mapping.

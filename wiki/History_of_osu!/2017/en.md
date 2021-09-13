@@ -55,7 +55,7 @@ osu!catch World Cup 2017 was opened for registrations. [Kuba Oms](https://osu.pp
 
 ## June
 
-The osu!team participates in Anime Expo for the upcoming 10 years of osu!. On 2017-06-15, the main menu/playfield image has been changed to four generic, but new, images. The playfield image changes when the current song is changed. Support for enabling or disabling the seasonal backgrounds all year round or sometimes seeing them has been added to the [Options](/wiki/Options). Somewhere around this month, inside the osu!dev Discord, the osu!weekly was discussed to have been dead. From this point forward, each official and community news post will be posted independently when it is ready, rather than waiting every week. The Mocha in Summer fanart contest began.
+The osu! team participates in Anime Expo for the upcoming 10 years of osu!. On 2017-06-15, the main menu/playfield image has been changed to four generic, but new, images. The playfield image changes when the current song is changed. Support for enabling or disabling the seasonal backgrounds all year round or sometimes seeing them has been added to the [Options](/wiki/Options). Somewhere around this month, inside the osu!dev Discord, the osu!weekly was discussed to have been dead. From this point forward, each official and community news post will be posted independently when it is ready, rather than waiting every week. The Mocha in Summer fanart contest began.
 
 Links:
 

@@ -12,7 +12,7 @@ tags:
 
 ![Cuplikan laman profil Tom94](img/dev.png "Gelar \"osu!dev\" sebagaimana yang tersemat pada laman profil Tom94.")
 
-**Gelar pengguna** merupakan label atau tajuk khusus yang tersemat pada laman profil pengguna. Suatu gelar pengguna pada umumnya disematkan oleh [osu!team](/wiki/People/The_Team) untuk menandakan status keanggotaan seseorang di dalam [gugus pengguna (*user group*)](/wiki/People/The_Team#user-groups) tertentu. Meskipun demikian, terdapat beberapa gelar yang [diberikan secara khusus](/wiki/People/Users_with_unique_titles) kepada pengguna-pengguna tertentu sebagai bentuk apresiasi atas pencapaian yang telah mereka raih dalam bidangnya masing-masing.
+**Gelar pengguna** merupakan label atau tajuk khusus yang tersemat pada laman profil pengguna. Suatu gelar pengguna pada umumnya disematkan oleh [tim inti osu!](/wiki/People/The_Team) untuk menandakan status keanggotaan seseorang di dalam [gugus pengguna (*user group*)](/wiki/People/The_Team#user-groups) tertentu. Meskipun demikian, terdapat beberapa gelar yang [diberikan secara khusus](/wiki/People/Users_with_unique_titles) kepada pengguna-pengguna tertentu sebagai bentuk apresiasi atas pencapaian yang telah mereka raih dalam bidangnya masing-masing.
 
 Gelar-gelar yang disematkan pada pengguna pada umumnya akan terpajang dengan warna yang sesuai dengan warna gugus pengguna yang bersangkutan. Untuk gelar-gelar yang tidak terkait dengan keanggotaan suatu gugus pengguna, gelar yang bersangkutan akan terpajang dalam warna putih.
 

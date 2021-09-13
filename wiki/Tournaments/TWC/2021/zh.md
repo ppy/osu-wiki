@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2021 标志](/wiki/shared/news/banners/TWC_2021.jpg)
 
-**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
+**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!团队](/wiki/People/The_Team)举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
 
 *注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 3 月 12 日 21:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/TWC/2021?locale=en)为准。*
 

@@ -326,10 +326,10 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 
 ### September
 
-- **2017-09-10:** Proposal "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" disahkan dan diberlakukan. Proposal ini pada mulanya dicetuskan sebagai suatu bentuk aspirasi dari anggota-anggota komunitas yang merasa kurang puas dengan campur tangan [osu!team](/wiki/People/The_Team) yang dinilai berlebihan di dalam lingkungan mapping dan modding. Setelah proposal ini diberlakukan, QAT mulai bergerak secara lebih mandiri tanpa adanya intervensi dari atas.
+- **2017-09-10:** Proposal "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" disahkan dan diberlakukan. Proposal ini pada mulanya dicetuskan sebagai suatu bentuk aspirasi dari anggota-anggota komunitas yang merasa kurang puas dengan campur tangan [tim inti osu!](/wiki/People/The_Team) yang dinilai berlebihan di dalam lingkungan mapping dan modding. Setelah proposal ini diberlakukan, QAT mulai bergerak secara lebih mandiri tanpa adanya intervensi dari atas.
   - Sistem [BN Tier](/wiki/Modding/Beatmap_Nominator_Tiers) diganti dengan sistem [Probationary Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators). Anggota BN yang ditempatkan pada masa uji coba (*probation*) hanya dapat menominasikan suatu beatmap apabila nominasi lainnya berasal dari oleh anggota BN lainnya yang tidak ditempatkan pada masa uji coba.
   - Anggota-anggota BN ditandai dengan nama pengguna yang berwarna ungu pada forum. 
-  - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) berdasarkan hasil pemungutan suara yang diikuti oleh seluruh anggota BN dan QAT. Mereka bekerja sama dengan osu!team untuk memoderasi lingkungan mapping dan modding secara keseluruhan.
+  - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) berdasarkan hasil pemungutan suara yang diikuti oleh seluruh anggota BN dan QAT. Mereka bekerja sama dengan tim inti osu! untuk memoderasi lingkungan mapping dan modding secara keseluruhan.
   - Anggota-anggota BN dan QAT yang telah menjabat dalam kurun-kurun waktu tertentu diberikan penghargaan berupa *profile badge* sesuai dengan besar kontribusinya masing-masing. Pengakuan balas jasa ini diberikan untuk meningkatkan motivasi BN dan QAT yang di kala itu sedang berada pada titik yang cukup rendah. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
   - Perubahan ini membuat lingkungan mapping dan modding yang ada menjadi jauh lebih mengayomi dan terbuka antar satu sama lain. Beatmap-beatmap yang sebelumnya dipandang kontroversial seperti *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)* dan lain sebagainya mulai lebih dapat diterima oleh berbagai pihak.
 
@@ -340,7 +340,7 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 
 ### Desember
 
-- **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) sepenuhnya mengundurkan diri dari osu!team dan melepas segala bentuk tanggung jawab yang dibebankan kepadanya di kala itu, termasuk selaku QAT leader. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
+- **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) sepenuhnya mengundurkan diri dari tim inti osu! dan melepas segala bentuk tanggung jawab yang dibebankan kepadanya di kala itu, termasuk selaku QAT leader. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
 
 Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
@@ -371,7 +371,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 ### Mei
 
 - **2018-05-22:** ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) setelah ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) mengundurkan diri.
-  - Ia melanjutkan tugas QAT leader sebelumnya dalam bekerja sama dengan osu!team untuk memoderasi lingkungan mapping dan modding secara keseluruhan. <!-- source is discord logs -->
+  - Ia melanjutkan tugas QAT leader sebelumnya dalam bekerja sama dengan tim inti osu! untuk memoderasi lingkungan mapping dan modding secara keseluruhan. <!-- source is discord logs -->
 
 ### Juni
 
@@ -388,10 +388,10 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Desember
 
-- **2018-12-12:** osu!team secara resmi [menjauhkan diri dari praktek komisi beatmap (*beatmap commission*)](https://osu.ppy.sh/community/forums/topics/840838) yang tidak beritikad baik.
-  - Dalam pengumumannya, osu!team turut menambahkan bahwa walaupun praktek komisi beatmap yang demikian tidak dapat sepenuhnya diberantas, osu!team akan secara proaktif turun tangan untuk menindak anggota-anggota BN/QAT yang terlibat dalam praktek terkait.
+- **2018-12-12:** tim inti osu! secara resmi [menjauhkan diri dari praktek komisi beatmap (*beatmap commission*)](https://osu.ppy.sh/community/forums/topics/840838) yang tidak beritikad baik.
+  - Dalam pengumumannya, tim inti osu! turut menambahkan bahwa walaupun praktek komisi beatmap yang demikian tidak dapat sepenuhnya diberantas, tim inti osu! akan secara proaktif turun tangan untuk menindak anggota-anggota BN/QAT yang terlibat dalam praktek terkait.
 - **2018-12-17:** ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) setelah ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) mengundurkan diri.
-  - Ia melanjutkan tugas QAT leader sebelumnya dalam bekerja sama dengan osu!team untuk memoderasi lingkungan mapping dan modding secara keseluruhan. <!-- source is discord logs -->
+  - Ia melanjutkan tugas QAT leader sebelumnya dalam bekerja sama dengan tim inti osu! untuk memoderasi lingkungan mapping dan modding secara keseluruhan. <!-- source is discord logs -->
 - **2018-12-17:** Seruan untuk merombak ulang QAT mulai didengungkan setelah banyak pihak menilai QAT sudah tidak lagi memiliki fungsi yang nyata.
   - Pada titik ini, anggota-anggota QAT sudah hampir sepenuhnya lepas tangan dari hal-hal yang terkait dengan penjaminan mutu (*quality assurance*). Hal ini bertolak belakang dengan tujuan pembentukan QAT pada awalnya.
   - Di samping itu, QAT pada masa itu juga dirundung berbagai masalah yang meliputi antara lain:
