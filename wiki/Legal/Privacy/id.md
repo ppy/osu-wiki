@@ -6,7 +6,7 @@ legal: true
 
 Terakhir diperbarui pada 16 April 2021. [Lihat riwayatnya disini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
-Selain kebijakan ini, pastikan juga untuk mengunjungi dan memahami [Ketentuan Layanan](https://osu.ppy.sh/legal/terms) kami.
+Selain kebijakan ini, pastikan juga untuk mengunjungi dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) kami.
 
 ## Pendahuluan
 
@@ -18,7 +18,7 @@ Untuk menawarkan layanan ini kepada Anda, kami harus sering mengumpulkan, menyim
 
 Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan di jaringan kami dan dalam manggunakan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, dan opsi apa saja yang kami tawarkan kepada Anda untuk mengontrol informasi pribadi Anda.
 
-Dengan menggunakan layanan kami, Anda mengonfirmasi bahwa Anda telah membaca dan memahami [Ketentuan Layanan](https://osu.ppy.sh/legal/terms) dan kebijakan privasi ini, termasuk bagaimana dan mengapa kami menggunakan informasi Anda dan bahwa dengan penggunaan layanan ini, Anda tunduk pada Ketentuan Layanan dan Kebijakan Privasi yang berlaku. Jika Anda tidak ingin kami mengumpulkan atau memproses informasi pribadi Anda seperti yang telah dijelaskan di sini, Anda memiliki beberapa pilihan seperti membatasi informasi yang kami kumpulkan dari Anda atau tidak menggunakan Jaringan atau Produk dan Layanan kami.
+Dengan menggunakan layanan kami, Anda mengonfirmasi bahwa Anda telah membaca dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) dan kebijakan privasi ini, termasuk bagaimana dan mengapa kami menggunakan informasi Anda dan bahwa dengan penggunaan layanan ini, Anda tunduk pada Ketentuan Layanan dan Kebijakan Privasi yang berlaku. Jika Anda tidak ingin kami mengumpulkan atau memproses informasi pribadi Anda seperti yang telah dijelaskan di sini, Anda memiliki beberapa pilihan seperti membatasi informasi yang kami kumpulkan dari Anda atau tidak menggunakan Jaringan atau Produk dan Layanan kami.
 
 ## Informasi yang kami kumpulkan
 

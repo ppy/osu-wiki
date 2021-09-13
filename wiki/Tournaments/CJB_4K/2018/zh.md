@@ -1,8 +1,8 @@
 ---
 tags:
-- CJB
-- CJB 2018
-- CJB2018
+  - CJB
+  - CJB 2018
+  - CJB2018
 ---
 
 # 第四届 osu!mania 4K 菜鸡杯
@@ -46,23 +46,19 @@ tags:
 
 ## 相关链接
 
-- [Rasis 直播间](https://live.bilibili.com/5333)
-- [Flow Light 直播间](https://live.bilibili.com/73668)
-- [aiyulu 直播间](https://live.bilibili.com/10183)
-- [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
-- [Challonge](https://challonge.com/zh_CN/cjb4)
-
----
+- [Rasis 直播间](https://live.bilibili.com/5333 "Bilibili")
+- [Flow Light 直播间](https://live.bilibili.com/73668 "Bilibili")
+- [aiyulu 直播间](https://live.bilibili.com/10183 "Bilibili")
+- [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=5sTdKLp "Tencent QQ")
+- [Challonge](https://challonge.com/zh_CN/cjb4 "Challonge")
 
 ![CJB 4K 4th Podium](img/podium.jpg)
-
----
 
 ## 图池
 
 ### 决赛第二周
 
-**下载完整图池包！（97.9M） - [百度云盘](https://pan.baidu.com/s/1-gKsm-Mcnt-ayLZDKvVYyw) - [Google 云端硬盘](https://drive.google.com/file/d/1vwasJMXpsCr4ibxvncxIOU29r7SehV2Q)**
+**下载完整图池包！（97.9M） - [百度云盘](https://pan.baidu.com/s/1-gKsm-Mcnt-ayLZDKvVYyw "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1vwasJMXpsCr4ibxvncxIOU29r7SehV2Q "Google Drive")**
 
 - FreeMod
   - [Memme - Acid Burst \[Chaos\]](https://osu.ppy.sh/beatmapsets/724670#mania/1530202)
@@ -84,7 +80,7 @@ tags:
 
 ### 决赛第一周
 
-**下载完整图池包！（148M） - [百度云盘](https://pan.baidu.com/s/1cQEbBQhW57IaS4Gba5uETw) - [Google 云端硬盘](https://drive.google.com/file/d/1WcvhPLepOb8Zaw5RFIXh1jgvHHTOloy6)**
+**下载完整图池包！（148M） - [百度云盘](https://pan.baidu.com/s/1cQEbBQhW57IaS4Gba5uETw "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1WcvhPLepOb8Zaw5RFIXh1jgvHHTOloy6 "Google Drive")**
 
 - FreeMod
   - [Hitori Tori - perthed again (yambabom remix) \[Insane\]](https://osu.ppy.sh/beatmapsets/569392#mania/1277797)
@@ -106,7 +102,7 @@ tags:
 
 ### 半决赛
 
-**下载完整图池包！（90.2M） - [百度云盘](https://pan.baidu.com/s/1cXXo6INlZDboM7Bgq3bJQQ) - [Google 云端硬盘](https://drive.google.com/file/d/1km4zpC_oEOCU5WBejfsQD5X4WaPjNwIi)**
+**下载完整图池包！（90.2M） - [百度云盘](https://pan.baidu.com/s/1cXXo6INlZDboM7Bgq3bJQQ "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1km4zpC_oEOCU5WBejfsQD5X4WaPjNwIi "Google Drive")**
 
 - FreeMod
   - [X&G - Whiplash ft. josh pan (sakuraburst Remix) \[break out\]](https://osu.ppy.sh/beatmapsets/723633#mania/1527737)
@@ -128,7 +124,7 @@ tags:
 
 ### 八强
 
-**下载完整图池包！（64.1M） - [百度云盘](https://pan.baidu.com/s/12PJbnBexbpXRb1puGiv2dw) - [Google 云端硬盘](https://drive.google.com/open?id=1gnaRjpbQFQ081cpWS4ATQwNLfPEElyFP)**
+**下载完整图池包！（64.1M） - [百度云盘](https://pan.baidu.com/s/12PJbnBexbpXRb1puGiv2dw "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/open?id=1gnaRjpbQFQ081cpWS4ATQwNLfPEElyFP "Google Drive")**
 
 - FreeMod
   - [So Sus + Konka - Acorn \[Hard\]](https://osu.ppy.sh/beatmapsets/639057#mania/1540124)
@@ -148,7 +144,7 @@ tags:
 
 ### 十六强
 
-**下载完整图池包！（77.5M） - [百度云盘](https://pan.baidu.com/s/1eSHYDVS7u53S3gzmFK71oA) - [Google 云端硬盘](https://drive.google.com/file/d/1ZNekV5Lh6pw3qgl9BuWEs6CN6dSpOl8N)**
+**下载完整图池包！（77.5M） - [百度云盘](https://pan.baidu.com/s/1eSHYDVS7u53S3gzmFK71oA "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1ZNekV5Lh6pw3qgl9BuWEs6CN6dSpOl8N "Google Drive")**
 
 - FreeMod
   - [Loos - Koi Yumi Zakura \[Stage 4: Story\]](https://osu.ppy.sh/beatmapsets/791641#mania/1660726)
@@ -280,7 +276,7 @@ tags:
 
 ### 报名参赛
 
-1. 每位参赛者应当独立报名（进入 [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=5sTdKLp) 阅读群公告内容进行报名）。
+1. 每位参赛者应当独立报名（进入 [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=5sTdKLp "Tencent QQ") 阅读群公告内容进行报名）。
 2. 玩家满足以下条件的可以报名参加 CJB 4K 4th：
    - 玩家注册地区在亚洲。
    - 玩家使用汉语作为主要语言。
@@ -312,5 +308,5 @@ tags:
 5. 两名选手交替从图池中选择比赛图：
    - 出现平局时（双方均差1分赢得比赛），选手必须使用决胜图（Tiebreaker）作为下一张比赛地图。
 
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"

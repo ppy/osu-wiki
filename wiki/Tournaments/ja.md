@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 70fd166193a632f68f3c3ec84d64c07a8dbfbd38
+---
+
 # トーナメント
 
 osu!トーナメント専用のセクションです。トーナメントには専用のフォーラムがあり、[このリンクから](https://osu.ppy.sh/community/forums/55)見ることができます。

@@ -3,7 +3,7 @@
 # Beatmapping
 
 **Beatmapping** is the process of creating [beatmaps](/wiki/Beatmap) in osu! for players to play.
-This involves choosing a song, [timing](/wiki/Timing), placement of [objects](/wiki/Hit_Objects), and (optionally) [skinning](/wiki/Skinning) and [storyboarding](/wiki/Storyboarding).
+This involves choosing a song, [timing](/wiki/Timing), placement of [objects](/wiki/Hit_Objects), and (optionally) [skinning](/wiki/Skinning) and [storyboarding](/wiki/Storyboard#storyboarding).
 
 Mappers usually want to get their beatmaps [ranked](/wiki/Beatmap) which consists of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
@@ -48,11 +48,11 @@ This will save you (and the modding community) a lot of hassle later on.
 *Main page: [Compose](/wiki/Compose)*
 
 The compose tab of the beatmap editor is where you will probably spend a majority of your time beatmapping.
-It is where you can visually place hit objects and toggle their [hitsounds](/wiki/Beatmapping/Hitsound)
+It is where you can visually place hit objects and toggle their [hitsounds](/wiki/Beatmapping/Hitsound).
 
 ### Design
 
-*Main page: [Design](/wiki/Design) and [Storyboarding](/wiki/Storyboarding)*
+*Main page: [Design](/wiki/Design) and [Storyboarding](/wiki/Storyboard#storyboarding)*
 
 The design tab of the beatmap editor is where you can set the beatmap's background image, add a video, and/or make a basic storyboard.
-Depending on what you do, you may use the design tab a lot or none at all, if you happen to be doing [SBS](/wiki/Storyboard_Scripting) (storyboard scripting).
+Depending on what you do, you may use the design tab a lot or none at all, if you happen to be doing [SBS](/wiki/Storyboard/Scripting) (storyboard scripting).

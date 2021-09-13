@@ -9,7 +9,7 @@ tags:
 
 *Lihat juga: [Menambah Kustom Hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
 
-**Hitsound** adalah efek suara yang dimainkan ketika sedang dalam gameplay osu!, spesifiknya ketika pemain berinteraksi dengan [hit object](/wiki/Hit_Objects). Hitsound biasanya digunakan untuk memberikan umpan balik suara kepada pemain untuk membantu mereka dalam menilai [akurasi](/wiki/Accuracy) yang terkait dengan lagu tersebut.
+**Hitsound** adalah efek suara yang dimainkan ketika sedang dalam gameplay osu!, spesifiknya ketika pemain berinteraksi dengan [hit object](/wiki/Hit_Objects). Hitsound biasanya digunakan untuk memberikan umpan balik suara kepada pemain untuk membantu mereka dalam menilai [akurasi](/wiki/Gameplay/Accuracy) yang terkait dengan lagu tersebut.
 
 Hitsound terdiri dari sampel default yang disebut "hit normal", dan kombinasi sampel whistle, finish, atau clap. Setiap sampel memiliki satu dari tiga "sampel set" yang mengubah gayanya: `Normal`,` Soft`, atau `Drum`.
 

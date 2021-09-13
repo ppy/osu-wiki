@@ -245,8 +245,7 @@ Ces mots doivent être orthographiés comme suit (l'espacement doit correspondre
 
 Certains mots ont des variantes. Leur orthographe préférée doit être utilisée et est la suivante :
 
-- `beatmap` au lieu de `map`.
-- `creator` au lieu de `beatmapper` ou `mapper`.
+- `creator` ou `mapper` au lieu de `beatmapper`.
 - `mapped` au lieu de `beatmapped`.
 - `BN` ou `Beatmap Nominators` lorsqu'il s'agit des *nominateurs de Beatmap*.
 - `sign in` au lieu de `log in`, sauf si le nom d'un bouton ou d'un lien indique le contraire.

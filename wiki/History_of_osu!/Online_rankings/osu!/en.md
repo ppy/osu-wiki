@@ -30,14 +30,14 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-10-06 | 2007-10-09 | [\[1\]](https://osu.ppy.sh/scores/osu/318) [\[2\]](https://web.archive.org/web/20071117154117/http://osu.ppy.sh/index.php?p=song&s=1 "Internet Archive — osu!") |
+| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-10-06 | 2007-10-09 | [\[1\]](https://osu.ppy.sh/scores/osu/237) [\[2\]](https://web.archive.org/web/20071117154117/http://osu.ppy.sh/index.php?p=song&s=1 "Internet Archive — osu!") |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-09 | 2007-10-15 | [\[1\]](https://web.archive.org/web/20071011215722/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-10-15 | 2007-10-24 | [\[1\]](https://osu.ppy.sh/community/forums/topics/342) |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-24 | 2007-11-06 | [\[1\]](https://web.archive.org/web/20071024063540/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-11-06 | 2007-11-15 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-11-15 | 2007-11-17 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_NZ] [Echo (*Echo45*)](https://osu.ppy.sh/users/431) | 2007-11-17 | 2007-11-23 | [\[1\]](https://osu.ppy.sh/community/forums/topics/963) |
-| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-11-23 | 2007-12-27 | [\[1\]](https://web.archive.org/web/20071024063540/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
+| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-11-23 | 2007-11-27 | [\[1\]](https://web.archive.org/web/20071024063540/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-11-27 | 2007-12-05 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-12-05 | 2007-12-19 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-12-19 | 2007-12-23 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
@@ -84,7 +84,7 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-10-30 | 2009-11-07 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2009-11-07 | 2009-12-07 | [\[1\]](https://imgur.com/Ozzl6En "Imgur") |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-12-07 | 2009-12-25 | [\[1\]](https://imgur.com/7B9nt8e "Imgur") |
-| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2009-12-25 | 2009-12-29 | [\[1\]](https://imgur.com/7B9nt8e "Imgur") |
+| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2009-12-25 | 2009-12-29 | [\[1\]](https://osu.ppy.sh/community/forums/topics/21622?start=276369) |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-12-29 | *2010-01-05* | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 
 ## 2010
@@ -96,7 +96,7 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-01-11 | 2010-02-01 | [\[1\]](https://web.archive.org/web/20100207194753/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2010-02-01 | 2010-02-02 | [\[1\]](https://osu.ppy.sh/community/forums/topics/23715) |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-02-02 | 2010-03-17 | [\[1\]](https://web.archive.org/web/20100207194753/http://osu.ppy.sh/p/playerranking "Imgur") |
-| ![][flag_GB] [Doomsday (*Doomsday93*)](https://osu.ppy.sh/users/18983) | 2010-03-17 | 2009-03-18 | [\[1\]](https://osu.ppy.sh/community/forums/topics/26603) |
+| ![][flag_GB] [Doomsday (*Doomsday93*)](https://osu.ppy.sh/users/18983) | 2010-03-17 | 2010-03-18 | [\[1\]](https://osu.ppy.sh/community/forums/topics/26603) |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-03-18 | 2010-06-24 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2010-06-24 | 2010-06-26 | [\[1\]](https://osu.ppy.sh/community/forums/topics/30241?start=449266) |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-06-26 | 2010-07-10 | [\[1\]](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE/edit?usp=sharing "Google Sheets") |
@@ -138,7 +138,7 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-05-10 | 2012-05-16 | [\[1\]](https://web.archive.org/web/20120513043426/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
 | ![][flag_CN] [5231_Kinoko](https://osu.ppy.sh/users/181057) | 2012-05-16 | 2012-05-17 | [\[1\]](https://hiphotos.baidu.com/5231jing/pic/item/51216639b13533fa0fd0a793a8d3fd1f40345b2d.jpg "Baidu") |
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-05-17 | 2012-06-05 | [\[1\]](https://web.archive.org/web/20120517131511/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
-| ![][flag_PL] [WubWoofWolf (*White Wolf*)](https://osu.ppy.sh/users/39828) | 2012-06-02 | 2012-11-28 | [\[1\]](https://web.archive.org/web/20120503012726/http://osu.ppy.sh/u/39828 "Internet Archive — osu!")  |
+| ![][flag_PL] [WubWoofWolf (*White Wolf*)](https://osu.ppy.sh/users/39828) | 2012-06-05 | 2012-11-28 | [\[1\]](https://web.archive.org/web/20120503012726/http://osu.ppy.sh/u/39828 "Internet Archive — osu!")  |
 | ![][flag_KR] [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | 2012-11-28 | 2012-11-28 | [\[1\]](https://web.archive.org/web/20210421133539/https://cafe.naver.com/ofclove?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D19485218%2526page%3D12%2526menuid%3D2%2526inCafeSearch%3Dtrue%2526searchBy%3D1%2526query%3D1%25EC%259C%2584%2526includeAll%3D%2526exclude%3D%2526include%3D%2526exact%3D%2526searchdate%3Dall%2526media%3D0%2526sortBy%3Ddate%2526articleid%3D76562%2526referrerAllArticles%3Dfalse%2526commentFocus%3Dtrue "Internet Archive — Naver") |
 | ![][flag_PL] [WubWoofWolf (*White Wolf*)](https://osu.ppy.sh/users/39828) | 2012-11-28 | 2012-11-30 | [\[1\]](https://web.archive.org/web/20210421133539/https://cafe.naver.com/ofclove?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D19485218%2526page%3D12%2526menuid%3D2%2526inCafeSearch%3Dtrue%2526searchBy%3D1%2526query%3D1%25EC%259C%2584%2526includeAll%3D%2526exclude%3D%2526include%3D%2526exact%3D%2526searchdate%3Dall%2526media%3D0%2526sortBy%3Ddate%2526articleid%3D76562%2526referrerAllArticles%3Dfalse%2526commentFocus%3Dtrue "Internet Archive — Naver") |
 | ![][flag_KR] [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | 2012-11-30 | *2013-01-16* | [\[1\]](https://web.archive.org/web/20121130133544/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
@@ -152,7 +152,7 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 | ![][flag_KR] [chocomint (*Cookiezi*)](https://osu.ppy.sh/users/124493) | 2013-01-21 | 2013-10-04 | [\[1\]](https://web.archive.org/web/20130121185247/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 2013-10-04 | 2013-10-05 | [\[1\]](https://osu.ppy.sh/home/news/2013-10-04-important-pp-performance-point-changes) [\[2\]](https://osu.ppy.sh/community/forums/topics/158129) [\[3\]](https://web.archive.org/save/https://old.reddit.com/r/osugame/comments/1npkv3/so_thelewa_is_now_officially_the_1_osustandart/ "Internet Archive — Reddit") |
 | ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-10-05 | 2013-10-20 | [\[1\]](https://web.archive.org/web/20131005191933/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
-| ![][flag_KR] [Reimu-Desu (*- Hakurei Reimu-*)](https://osu.ppy.sh/users/948713) | 2013-10-20 | 2013-12-29 | [\[1\]](https://web.archive.org/web/20131020195724/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
+| ![][flag_KR] [Reimu-Desu (*- Hakurei Reimu-*)](https://osu.ppy.sh/users/948713) | 2013-10-20 | 2013-11-24 | [\[1\]](https://web.archive.org/web/20131020195724/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2013-11-24 | *2014-01-20* | [\[1\]](https://old.reddit.com/r/osugame/comments/1rctoz/wubwoofwolf_went_on_a_little_rampage/ "Reddit") |
 
 ## 2014
@@ -266,11 +266,11 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | 2021-04-08 | [\[1\]](https://web.archive.org/web/20191006200709/https://osu.ppy.sh/rankings/osu/performance "Internet Archive — osu!") [\[2\]](https://ameobea.me/osutrack/user/whitecat/ "osu!track") [\[3\]](https://web.archive.org/web/20210119102542/https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/ "Internet Archive — Reddit") [\[4\]](https://web.archive.org/web/20210203170702if_/https://www.youtube.com/watch?v=Bx4R7lovF-0 "Internet Archive — YouTube") |
-| ![][flag_AU] [rushia1 (*mrekk*)](https://osu.ppy.sh/users/7562902) | 2021-04-08 | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/ "osu!track") [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/ "Reddit") [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/ "Reddit") [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE "YouTube") |
+| ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/ "osu!track") [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/ "Reddit") [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/ "Reddit") [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE "YouTube") |
 
 ## Number of reigns
 
-The following is a list of the total amount of times a player has reached the rank #1 spot in their playtime (as of 3 June 2021).
+The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 3 June 2021).
 
 | Player | Reigns |
 | --: | :-: |
@@ -301,10 +301,10 @@ The following is a list of the total amount of times a player has reached the ra
 | ![][flag_TW] [f0012979](https://osu.ppy.sh/users/12143) | 1 |
 | ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 1 |
 | ![][flag_KR] [La Valse](https://osu.ppy.sh/users/70863) | 1 |
+| ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | 1 |
 | ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 1 |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 1 |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 1 |
-| ![][flag_AU] [rushia1](https://osu.ppy.sh/users/7562902) | 1 |
 | ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 1 |
 | ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730) | 1 |
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 1 |
@@ -315,11 +315,11 @@ The following is a list of the total amount of times a player has reached the ra
 
 *Note: The current rank #1 reign is excluded.*
 
-The following is a list of the total amount of days that a player has held the rank #1 spot (as of 3 June 2021).
+The following is a list of the total number of days that a player has held the rank #1 spot (as of 3 June 2021).
 
 | Player | Length (days) |
 | --: | :-: |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 968 |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 967 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 578 |
 | ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | 550 |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 507 |
@@ -339,8 +339,8 @@ The following is a list of the total amount of days that a player has held the r
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 44 |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 39 |
 | ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 37 |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 35 |
 | ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
-| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 34 |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 33 |
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 33 |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 27 |

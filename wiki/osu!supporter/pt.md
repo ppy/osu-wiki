@@ -4,7 +4,7 @@ outdated: true
 
 # osu!supporter
 
-![link do osu!supporter na pagina principal.](img/store-product.jpg "link do osu!supporter na pagina principal.")
+![link do osu!supporter na pagina principal.](img/store-product.jpg?1 "link do osu!supporter na pagina principal.")
 
 ## Introdução
 
@@ -60,6 +60,6 @@ Aqui, você terá varias formas de doação. É recomendado que use [PayPal](htt
 
 ### Duração
 
-![Comparação entre osu!supporter ativo e inativo.](img/status.jpg "Comparação entre osu!supporter ativo e inativo.")
+![Comparação entre osu!supporter ativo e inativo.](img/status.jpg?1 "Comparação entre osu!supporter ativo e inativo.")
 
 Depois que a transação estiver completa, a atividade recente do seu perfil vai mostrar "{Your account} has become an osu! supporter - thanks for your generosity!" (o jogador se tornou um osu!supporter - obrigado por sua generosidade) ou "{Your account} has once again chosen to donate to the osu! cause - thanks for your generosity!" (O jogador decidiu doar mais uma vez para ajudar o osu! - obrigado por sua generosidade!) caso o jogador já fez doações antes. Se você doou com seu próprio nickname, você poderá ver um emblema de osu!supporter abaixo da imagem do seu perfil. Para checar quando seu osu!supporter vai expirar, [retorne para o mesmo lugar que você fez a doação](https://osu.ppy.sh/home/support).

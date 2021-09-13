@@ -53,10 +53,10 @@ ROI PRO Tournament dapat terlaksana dikarenakan bantuan berbagai anggota komunit
 ## Tautan terkait
 
 - [Topik diskusi](https://osu.ppy.sh/community/forums/topics/1035782)
-- [Server Discord RPT](https://discord.gg/xjtz5t6)
-- [Siaran langsung](https://www.twitch.tv/roiprotournament)
-- [Klasemen Challonge](https://challonge.com/roiprotournament)
-- **[Statistik](https://docs.google.com/spreadsheets/d/1YRVgU95F8lBCP-sJqsexdtChzyF_iZJv_wNGd_QSIao/edit?usp=sharing)**
+- [Server Discord RPT](https://discord.gg/xjtz5t6 "Discord")
+- [Siaran langsung](https://www.twitch.tv/roiprotournament "Twitch")
+- [Klasemen Challonge](https://challonge.com/roiprotournament "Challonge")
+- **[Statistik](https://docs.google.com/spreadsheets/d/1YRVgU95F8lBCP-sJqsexdtChzyF_iZJv_wNGd_QSIao/edit?usp=sharing "Google Sheets")**
 
 ## Peserta
 
@@ -87,7 +87,7 @@ ROI PRO Tournament dapat terlaksana dikarenakan bantuan berbagai anggota komunit
 
 ### Grand Final
 
-**[Unduh mappack di sini! (158 MB)](https://drive.google.com/file/d/1AXqUsNa5GOSpUVKZzIQbDHb8lTi42f-M/view?usp=sharing)**
+**[Unduh mappack di sini! (158 MB)](https://drive.google.com/file/d/1AXqUsNa5GOSpUVKZzIQbDHb8lTi42f-M/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [THE ORAL CIGARETTES - Flower (fritz\_divine) \[Vagueness\]](https://osu.ppy.sh/beatmapsets/878327#osu/2259898)
@@ -118,7 +118,7 @@ ROI PRO Tournament dapat terlaksana dikarenakan bantuan berbagai anggota komunit
 
 ### Final
 
-**[Unduh mappack di sini! (133 MB)](https://drive.google.com/file/d/1RpD-WewkrwR80aiX5yOPrd0VbXOKqgbM/view?usp=sharing)**
+**[Unduh mappack di sini! (133 MB)](https://drive.google.com/file/d/1RpD-WewkrwR80aiX5yOPrd0VbXOKqgbM/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [mafumafu - Rinne Tensei (AirinCat) \[Reincarnation\]](https://osu.ppy.sh/beatmapsets/1083811#osu/2266659)
@@ -149,7 +149,7 @@ ROI PRO Tournament dapat terlaksana dikarenakan bantuan berbagai anggota komunit
 
 ### Semi final
 
-**[Unduh mappack di sini! (115 MB)](https://drive.google.com/file/d/1p6VVfux4_yrmB9Rlqxjp8cVo_Y7DRu1i/view?usp=sharing)**
+**[Unduh mappack di sini! (115 MB)](https://drive.google.com/file/d/1p6VVfux4_yrmB9Rlqxjp8cVo_Y7DRu1i/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Harada Hitomi - Kyoumei no True Force (Kibbleru) \[Ex\]](https://osu.ppy.sh/beatmapsets/454893#osu/975153)
@@ -180,7 +180,7 @@ ROI PRO Tournament dapat terlaksana dikarenakan bantuan berbagai anggota komunit
 
 ### Perempat final
 
-**[Unduh mappack di sini! (127 MB)](https://drive.google.com/file/d/1dxd5XH2EuBaWhCIMyoyvg2e9pmy1gQ05/view?usp=sharing)**
+**[Unduh mappack di sini! (127 MB)](https://drive.google.com/file/d/1dxd5XH2EuBaWhCIMyoyvg2e9pmy1gQ05/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Itou Kanako - Fatima (10nya) \[1.064750%\]](https://osu.ppy.sh/beatmapsets/787938#osu/1653723)
@@ -211,7 +211,7 @@ ROI PRO Tournament dapat terlaksana dikarenakan bantuan berbagai anggota komunit
 
 ### Babak 16 besar
 
-**[Unduh mappack di sini! (90 MB)](https://drive.google.com/file/d/141ky8BlEB5IkFjF7xSPxDp_KGwXkllCB/view?usp=sharing)**
+**[Unduh mappack di sini! (90 MB)](https://drive.google.com/file/d/141ky8BlEB5IkFjF7xSPxDp_KGwXkllCB/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Minato Aqua - Dadadada Tenshi (Amateurre) \[Tenshi\]](https://osu.ppy.sh/beatmapsets/1079554#osu/2267030)
@@ -237,7 +237,7 @@ ROI PRO Tournament dapat terlaksana dikarenakan bantuan berbagai anggota komunit
 
 ### Kualifikasi
 
-**[Unduh mappack di sini! (71 MB)](https://drive.google.com/file/d/1XDHJ7cQPC2KXVrAkZolGY8iuQd_XVr7T/view?usp=sharing)**
+**[Unduh mappack di sini! (71 MB)](https://drive.google.com/file/d/1XDHJ7cQPC2KXVrAkZolGY8iuQd_XVr7T/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Hanazono Tae (CV: Otsuka Sae) - Hanazono Denki Guitar!!! (Akitoshi) \[Expert\]](https://osu.ppy.sh/beatmapsets/943947#osu/1971326)

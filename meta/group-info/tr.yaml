@@ -1,4 +1,3 @@
-# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
@@ -8,7 +7,7 @@ alumni:
     dev: osu!dev
     media: osu!media yapımı
     support: destek ekibi
-    tournaments: turnuvalar
+    tournaments: turnuva yönetimi
 gmt:
   all_mods: tüm moderatörler
   areas:
@@ -19,8 +18,9 @@ gmt:
     dev: osu! geliştirme
     player: oyuncu desteği
     support: teknik destek
-    tournaments: turnuvalar
+    tournaments: turnuva yönetimi
     wiki: wiki yönetimi
+    mapping: mapping/modding topluluk moderasyonu
 nat:
   areas:
     communication: haberleşme
@@ -41,6 +41,7 @@ languages:
   fi: Fince
   fil: Filipince
   fr: Fransızca
+  gl: Galiçyaca
   hr: Hırvatça
   hu: Macarca
   id: Endonezce

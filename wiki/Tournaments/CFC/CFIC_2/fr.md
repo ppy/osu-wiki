@@ -49,12 +49,12 @@ La Catch French Intermediate Cup 2 était gérée par différents membres de la 
 ## Liens
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/1011966)
-- [Discord du CFC](https://discord.gg/3DewaX8)
+- [Discord du CFC](https://discord.gg/3DewaX8 "Discord")
 - Livestream
-  - [osufrlive](https://twitch.tv/osufrlive)
-  - [osufrlive2](https://twitch.tv/osufrlive2)
-- [Tableaux Challonge](https://osucfc.challonge.com/CFIC2)
-- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/1WY3pFruEH5nos-xEi7NDuLOKq2A0L9Nr8dPks0sktmY/edit?usp=sharing)**
+  - [osufrlive](https://twitch.tv/osufrlive "Twitch")
+  - [osufrlive2](https://twitch.tv/osufrlive2 "Twitch")
+- [Tableaux Challonge](https://osucfc.challonge.com/CFIC2 "Challonge")
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/1WY3pFruEH5nos-xEi7NDuLOKq2A0L9Nr8dPks0sktmY/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -88,7 +88,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Grandes Finales
 
-**[Download the mappack here! (109 MB)](https://mega.nz/#!RdgDjC6B!XEZDuiV1BJnS-8Id5CGiK_79OI1rOLAScZk54BA_c0Y)**
+**[Download the mappack here! (109 MB)](https://mega.nz/#!RdgDjC6B!XEZDuiV1BJnS-8Id5CGiK_79OI1rOLAScZk54BA_c0Y "MEGA")**
 
 - NoMod
   - [Konuko - Toumei Elegy (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/658896#fruits/1395516)
@@ -144,7 +144,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Demi-finales
 
-**[Download the mappack here! (104 MB)](https://mega.nz/#!EoUACIDC!dXQH5hLj9EY-Y7VfvZeoyEPSC5Bz0-2BXezoSyeN7ik)**
+**[Download the mappack here! (104 MB)](https://mega.nz/#!EoUACIDC!dXQH5hLj9EY-Y7VfvZeoyEPSC5Bz0-2BXezoSyeN7ik "MEGA")**
 
 - NoMod
   - [Mili - Rightfully (Vignette-) \[IDu5t's Rain\]](https://osu.ppy.sh/beatmapsets/867781#fruits/1864600)
@@ -173,7 +173,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Quarts-de-finale
 
-**[Téléchargez le mappack ici! (96 MB)](https://mega.nz/#!UR5gSajR!q18ZIqRBYnyJ9HraaJr2YGIV-Z7r1Y3lpy0voxCElOc)**
+**[Téléchargez le mappack ici! (96 MB)](https://mega.nz/#!UR5gSajR!q18ZIqRBYnyJ9HraaJr2YGIV-Z7r1Y3lpy0voxCElOc "MEGA")**
 
 - NoMod
   - [Serj Tankian - Sky Is Over (Hareimu) \[The Sun\]](https://osu.ppy.sh/beatmapsets/914791#fruits/1910610)
@@ -197,7 +197,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Group Stage
 
-**[Téléchargez le mappack ici! (57 MB)](https://mega.nz/#!48V30CiY!3XUk847uzPDk0l1JRpojn9251o3SpFeE87b6x9l44PI)**
+**[Téléchargez le mappack ici! (57 MB)](https://mega.nz/#!48V30CiY!3XUk847uzPDk0l1JRpojn9251o3SpFeE87b6x9l44PI "MEGA")**
 
 - NoMod
   - [Shiokara-zu - Shiokara-Bushi (ZiRoX) \[Rainmaker\]](https://osu.ppy.sh/beatmapsets/333960#fruits/738947)
@@ -218,7 +218,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Qualifications
 
-**[Téléchargez le mappack ici! (25 MB)](https://mega.nz/#!0l033KpC!lAumo6lxhaOgo43vfGx3CmPU7GnAXyBf1IRnWq2-JRM)**
+**[Téléchargez le mappack ici! (25 MB)](https://mega.nz/#!0l033KpC!lAumo6lxhaOgo43vfGx3CmPU7GnAXyBf1IRnWq2-JRM "MEGA")**
 
 - NoMod
   - [Grand Thaw - AltMirrorBell (Deif) \[Rain\]](https://osu.ppy.sh/beatmapsets/959843#fruits/2177808)

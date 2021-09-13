@@ -1,6 +1,6 @@
 # SB load
 
-**SB Load** (short for storyboard load) is a number used in [Storyboarding](/wiki/Storyboards) to indicate how much more load the Storyboard is causing on the graphics program. It is a measure of how many times the full 640x480 area needs to be redrawn in a frame.
+**SB Load** (short for storyboard load) is a number used in [Storyboarding](/wiki/Storyboard) to indicate how much more load the Storyboard is causing on the graphics program. It is a measure of how many times the full 640x480 area needs to be redrawn in a frame.
 
 Without any storyboarding, this value is 1x (as the 640x480 space needs to be drawn once). Including a single image that takes up exactly half of the screen would result in 1.5x; two images that overlap entirely and take up half of the screen would result in 2x.
 
@@ -48,7 +48,7 @@ For every png that you use in your storyboard, osu! has to draw the entire thing
 
 ### Don't forget that you can recolour images using SB coding
 
-I'm just mentioning this because I don't see this effect used much in storyboards, but **check out the "[colour](/wiki/Storyboard_Scripting/Commands#color---colour--c--command)" event code in the Scripting thread**. You can make cool effects by making a grayscale or light-coloured sprite, and overlaying different colours onto it during your SB. There might be some cases where you're fading in a whole separate background image when you could just change the colour this way, for skies and stuff. Just something to consider.
+I'm just mentioning this because I don't see this effect used much in storyboards, but **check out the "[colour](/wiki/Storyboard/Scripting/Commands#color---colour--c--command)" event code in the Scripting thread**. You can make cool effects by making a grayscale or light-coloured sprite, and overlaying different colours onto it during your SB. There might be some cases where you're fading in a whole separate background image when you could just change the colour this way, for skies and stuff. Just something to consider.
 
 Hopefully these tips are of some use to people. I know a lot of people don't know about the background disable feature, so please spread the word, especially if you see somebody using a big empty black image to hide their background image.
 

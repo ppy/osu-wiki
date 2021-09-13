@@ -23,7 +23,7 @@ To upload your beatmap, go into the editor and hit `File` > `Upload Beatmap`.
 
 This will make your beatmap available for others to download on the website. Updating a map is the same process for a map that has already been uploaded.
 
-Each user has a limited number of maps they can simultaneously upload. Leaving a map inactive for a month (28 days), by not updating it, will send it to the [Beatmap Graveyard](/wiki/Graveyard). To revive a beatmap from the graveyard back into a Pending or WIP status, update it.
+Each user has a limited number of maps they can simultaneously upload. Leaving a map inactive for a month (28 days), by not updating it, will send it to the [Beatmap Graveyard](/wiki/Beatmap/Category#graveyard). To revive a beatmap from the graveyard back into a Pending or WIP status, update it.
 
 ## The editor is telling me "The beatmap you are trying to submit isn't yours!"
 
@@ -43,7 +43,7 @@ By default, every user has 4 pending slots. One slot is added for every ranked b
 
 ## How can I delete my beatmap?
 
-**The team does not take requests to manually delete uploaded beatmaps.**
+**The [support team](/wiki/People/The_Team/Account_support_team) does not take requests to manually delete uploaded beatmaps.**
 
 You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month (28 days) without updates.
 

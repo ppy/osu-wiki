@@ -8,14 +8,14 @@ tags:
 
 ![CFC 2018 logo](img/logo.png)
 
-The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second installment of the Catch French Cup.
+The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the Catch French Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2018-03-11/2018-04-01 |
-| Group Stage | 2018-04-07/2018-04-09 |
+| Group stage | 2018-04-07/2018-04-09 |
 | Quarterfinals | 2018-04-14/2018-04-15 |
 | Semifinals | 2018-04-21/2018-04-22 |
 | Finals | 2018-04-28/2018-04-29 |
@@ -25,9 +25,9 @@ The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch
 
 | Place | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 8 months of osu!supporter tag, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 8 months of osu!supporter, unique profile badge |
 
-![CFC 2018 winner badge](img/badge.png)
+![](img/badge.png "CFC 2018 winner badge")
 
 ## Organisation
 
@@ -36,7 +36,7 @@ The Catch French Cup 2018 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map selector | ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994) |
+| Mappool selector | ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994) |
 | Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [Rsuiono](https://osu.ppy.sh/users/9266902), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
 | Streamer | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898) |
 | Commentator | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Corn-](https://osu.ppy.sh/users/4089232), ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913), ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
@@ -46,8 +46,8 @@ The Catch French Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/714536)
-- [Livestream](https://www.twitch.tv/osufrlive)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1AwvOj_yBpcrB5sLEtRpEE7Wq7ZTVSZRncKzPjs7T-xQ/edit?usp=sharing)**
+- [Livestream](https://www.twitch.tv/osufrlive "Twitch")
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1AwvOj_yBpcrB5sLEtRpEE7Wq7ZTVSZRncKzPjs7T-xQ/edit?usp=sharing "Google Sheets")**
 
 ## Participants
 
@@ -57,8 +57,6 @@ The Catch French Cup 2018 was run by various community members.
 | **B** | ![][flag_FR] [Aqliva](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Kyuare](https://osu.ppy.sh/users/2705312) | ![][flag_FR] [CaptainAlexis](https://osu.ppy.sh/users/6872242) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | **C** | ![][flag_FR] [Sounny](https://osu.ppy.sh/users/7326109) | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913) | ![][flag_FR] [I Sora I](https://osu.ppy.sh/users/4843750) |
 | **D** | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [RemSuckMyDuck](https://osu.ppy.sh/users/1698323) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
-
----
 
 ## Podium
 
@@ -70,13 +68,11 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
 
----
-
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (240 MB)](https://mega.nz/#!httTTSLS!9q1J0C92c0NdsQnqubSjAubFw9yBbTok4gB2rskY8jo)**
+**[Download the mappack here! (240 MB)](https://mega.nz/#!httTTSLS!9q1J0C92c0NdsQnqubSjAubFw9yBbTok4gB2rskY8jo "MEGA")**
 
 - NoMod
   - [Getty vs. DJ DiA - Ops:Code-Rapture- (Minato Yukina) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/562060#fruits/1188198)
@@ -110,7 +106,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (116 MB)](https://mega.nz/#!R9VxiBoS!prokzQthV3M32505pt7dHmeLMejvV2U2dUhGegnhfHM)**
+**[Download the mappack here! (116 MB)](https://mega.nz/#!R9VxiBoS!prokzQthV3M32505pt7dHmeLMejvV2U2dUhGegnhfHM "MEGA")**
 
 - NoMod
   - [BlackYooh vs. siromaru - BLACK or WHITE? (Minato Yukina) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/508846#fruits/1082169)
@@ -144,7 +140,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (173 MB)](https://mega.nz/#!9xdRjYJZ!J6LCXOrTt_ma7Y15NgDmk1aPNq0tDieVedg9syIz4gU)**
+**[Download the mappack here! (173 MB)](https://mega.nz/#!9xdRjYJZ!J6LCXOrTt_ma7Y15NgDmk1aPNq0tDieVedg9syIz4gU "MEGA")**
 
 - NoMod
   - [D.watt(OTAKU-ELITE Recordings) - Opium and Purple haze (Minato Yukina) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/596519#fruits/1261322)
@@ -178,7 +174,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (110 MB)](https://mega.nz/#!0gdwkDLQ!UVRknCV5eRScWDLbHzGESuryQmeAHDOP1W7mnABIZ68)**
+**[Download the mappack here! (110 MB)](https://mega.nz/#!0gdwkDLQ!UVRknCV5eRScWDLbHzGESuryQmeAHDOP1W7mnABIZ68 "MEGA")**
 
 - NoMod
   - [PUSHER - Feel U (Vincs) \[Overdose\]](https://osu.ppy.sh/beatmapsets/740666#fruits/1562529)
@@ -204,9 +200,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[UNDERVEIL ALLSTARS - UNDERVEIL IS REAL!!! ...AND WE ARE UNDERVEIL!!! (-Plus-) \[\*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (81 MB)](https://mega.nz/#!k00gQAQA!AN6ivOW-s0QZZIqVwmj1VMZ1lw-Th3V9W0hlhDrX_vM)**
+**[Download the mappack here! (81 MB)](https://mega.nz/#!k00gQAQA!AN6ivOW-s0QZZIqVwmj1VMZ1lw-Th3V9W0hlhDrX_vM "MEGA")**
 
 - NoMod
   - [ClariS - Hitorigoto -TV MIX- (Spectator) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/624544#fruits/1316296)
@@ -228,8 +224,6 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Ascendance) \[Ascendance's Reunion\]](https://osu.ppy.sh/beatmapsets/544468#fruits/1161865)**
 
----
-
 ## Rules
 
 ### General rules
@@ -250,4 +244,4 @@ This competition has come to an end and resulted in the following podium:
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
 
-[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_FR]: /wiki/shared/flag/FR.gif "France"

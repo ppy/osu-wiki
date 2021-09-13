@@ -1,19 +1,19 @@
 ---
 tags:
-- CIC
-- CIC2013
+  - CIC
+  - CIC2013
 ---
 
 # Catch the Beat Indonesia Cup 2013
 
-The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) was an Indonesian 4-players osu!catch tournament hosted by ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422). It was the second installment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) was an Indonesian 4-players osu!catch tournament hosted by ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422). It was the second instalment of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2013-03-15/2013-03-31 |
-| Group Stage | 2013-04-26/2013-04-28 |
+| Group stage | 2013-04-26/2013-04-28 |
 | Quarterfinals | 2013-05-03/2013-05-05 |
 | Semifinals | 2013-05-10/2013-05-12 |
 | Finals | 2013-05-18/2013-05-18 |
@@ -22,21 +22,21 @@ The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) was an Indonesian 4-p
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
-| *4th place* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
+| *4th place* | 1 month of osu!supporter |
 
 ## Organisation
 
 The Catch the Beat Indonesia Cup 2013 was run by various Indonesian osu!catch community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) |
 | Schedule organiser | ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422) |
 | Referee | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710), ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991), ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373), ![][flag_ID] Sena Aizawa |
-| Map selector | ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422), ![][flag_ID] [mana\_vayne](https://osu.ppy.sh/users/872884), ![][flag_ID] [\[Sena Airi\]](https://osu.ppy.sh/users/1151612), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216) |
+| Mappool selector | ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422), ![][flag_ID] [mana\_vayne](https://osu.ppy.sh/users/872884), ![][flag_ID] [\[Sena Airi\]](https://osu.ppy.sh/users/1151612), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216) |
 | Additional | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Ava](https://osu.ppy.sh/users/1531280), ![][flag_ID] [Yunia Anindya](https://osu.ppy.sh/users/1339271), ![][flag_ID] [- t e n n y a -](https://osu.ppy.sh/users/678794) |
 
 ## Links
@@ -167,7 +167,7 @@ Notes:
 - Tiebreaker
   - **[V.K. - Darkness (Niva) \[OverdoZe\]](https://osu.ppy.sh/beatmapsets/79838#fruits/222591)** (B)
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Ceui - Seisen Spectale (Arusha Shuna) \[Collab\]](https://osu.ppy.sh/beatmapsets/19343#fruits/68083)
@@ -243,7 +243,7 @@ Sunday, 5 May 2013:
 | A | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (6) | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165) (1) | ![][flag_ID] **Sena Aizawa (13)** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (12)** |
 | B | ![][flag_ID] [Takamaru\_17](https://osu.ppy.sh/users/1762922) (4) | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (14)** | ![][flag_ID] **[lody tomiya](https://osu.ppy.sh/users/1808039) (14)** | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) (0) |
 
-### Group Stage
+### Group stage
 
 Friday, 26 April 2013:
 
@@ -288,8 +288,8 @@ In order to prevent multi accounting, this tournament have specific entry regula
 5. Staff decision is final.
 6. Rules may change without any further notice. However, staffs will make sure to notice the participants beforehand.
 7. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-   - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current installment of CIC.
-   - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
+   - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current instalment of CIC.
+   - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next instalment of CIC.
    - Participants who use multi account will be blacklisted for 3 years.
 
 ### Match rules

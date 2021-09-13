@@ -54,10 +54,10 @@ La Catch French Beginner 4 était gérée par différents membres de la communau
 ## Liens
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/1039950)
-- [Discord du CFB](https://discord.gg/dqAsqE3)
-- [Livestream](https://www.twitch.tv/catchfrenchbeginner)
-- [Tableaux Challonge](https://challonge.com/fr/cfbquatre)
-- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/1UVwaSi_s32QEYro3zjnfMYjPrYBjr-n6El8_MntBCyk/edit#gid=1982472802)**
+- [Discord du CFB](https://discord.gg/dqAsqE3 "Discord")
+- [Livestream](https://www.twitch.tv/catchfrenchbeginner "Twitch")
+- [Tableaux Challonge](https://challonge.com/fr/cfbquatre "Challonge")
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/1UVwaSi_s32QEYro3zjnfMYjPrYBjr-n6El8_MntBCyk/edit#gid=1982472802 "Google Sheets")**
 
 ## Participants
 
@@ -91,7 +91,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Grandes Finales
 
-**[Téléchargez le mappack ici! (94 MB)](https://wetransfer.com/downloads/c14607c36a2c18e2d9a4f9d858e2cdb320200524222021/776d61)**
+**[Téléchargez le mappack ici! (94 MB)](https://wetransfer.com/downloads/c14607c36a2c18e2d9a4f9d858e2cdb320200524222021/776d61 "WeTransfer")**
 
 - NoMod
   - [BoA - Lookbook (Irreversible) \[HIGH QUALITY\]](https://osu.ppy.sh/beatmapsets/379890#fruits/833967)
@@ -120,7 +120,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Finales
 
-**[Téléchargez le mappack ici! (86 MB)](https://wetransfer.com/downloads/9e57a92911b54453fbd3f550bceb28df20200517205914/c1d593)**
+**[Téléchargez le mappack ici! (86 MB)](https://wetransfer.com/downloads/9e57a92911b54453fbd3f550bceb28df20200517205914/c1d593 "WeTransfer")**
 
 - NoMod
   - [Haruna Luna - Momoiro Typhoon (Trynna) \[Net0's Insane\]](https://osu.ppy.sh/beatmapsets/916277#fruits/1913606)
@@ -149,7 +149,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Demi-finales
 
-**[Téléchargez le mappack ici! (98 MB)](https://wetransfer.com/downloads/26664364b295dfcc5985e16a26f37a0e20200510175846/b6e4b5)**
+**[Téléchargez le mappack ici! (98 MB)](https://wetransfer.com/downloads/26664364b295dfcc5985e16a26f37a0e20200510175846/b6e4b5 "WeTransfer")**
 
 - NoMod
   - [Eli Ayase (CV. Nanjo Yoshino) - Arifureta Kanashimi No Hate (Yuuna Kamishiro Remix) (GAMI) \[Gommy's Platter\]](https://osu.ppy.sh/beatmapsets/334494#fruits/748399)
@@ -178,7 +178,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Quarts de finale
 
-**[Téléchargez le mappack ici! (81 MB)](https://wetransfer.com/downloads/ec58b4ae5ecad8833fb648d82e23833720200503191515/607831)**
+**[Téléchargez le mappack ici! (81 MB)](https://wetransfer.com/downloads/ec58b4ae5ecad8833fb648d82e23833720200503191515/607831 "WeTransfer")**
 
 - NoMod
   - [dark cat - BUBBLE TEA (feat. juu & cinders) (Hobbes2) \[Ascendance's Platter\]](https://osu.ppy.sh/beatmapsets/769917#fruits/1630241)
@@ -202,7 +202,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Phase de poules
 
-**[Téléchargez le mappack ici! (61 MB)](https://wetransfer.com/downloads/acc2947bf3e906e2d4ebf4b97cdbe30420200426171428/49d7d2)**
+**[Téléchargez le mappack ici! (61 MB)](https://wetransfer.com/downloads/acc2947bf3e906e2d4ebf4b97cdbe30420200426171428/49d7d2 "WeTransfer")**
 
 - NoMod
   - [Sayuri - Tsuki to Hanataba (TV Size) (Absolute Zero) \[Salad\]](https://osu.ppy.sh/beatmapsets/816867#fruits/1712961)

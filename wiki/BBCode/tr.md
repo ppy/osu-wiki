@@ -151,7 +151,7 @@ metin
 
 `[code]` etiketi *biçimlendirilmemiş kod bloklarını* (diğer bir deyişle: *biçimlendirilmemiş metin*) oluşturmak için kullanılır. osu! websitesinde, `[code]` etiketi metni yarı-şeffaf, gri bir kutucuk içerisinde sabit-aralıklı (monospace) bir yazı tipi ile biçimlendirecektir. Bir kod bloğu içerisinde metni biçimlendirmek, düzenleyicinin bu etiketler arasındaki yazıyı olduğu gibi algılamasını sağlayarak, içeriğindeki diğer etiketlerin veya kaynak kodunun başka bir şeye dönüşmesini engelleyecektir.
 
-osu! forumları içerisinde, kod blokları sıklıkla bir [storyboard](/wiki/Storyboards) için kaynak kodu göndermek adına, ya da etiketler, komutlar, veya çeşitli kodlar için sözdizimi (syntax) gösterilmesi gereken öğretici rehberlerde kullanılır.
+osu! forumları içerisinde, kod blokları sıklıkla bir [storyboard](/wiki/Storyboard) için kaynak kodu göndermek adına, ya da etiketler, komutlar, veya çeşitli kodlar için sözdizimi (syntax) gösterilmesi gereken öğretici rehberlerde kullanılır.
 
 ### Ortala
 

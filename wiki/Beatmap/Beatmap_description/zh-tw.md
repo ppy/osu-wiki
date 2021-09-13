@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: c08929c17cf02a4642967c8acebddd893f775be9
+---
+
 # 圖譜說明
 
 **圖譜說明**是[圖譜](/wiki/Beatmap)頁面下的小區塊，用 [BBCode](/wiki/BBCode) 撰寫關於此圖譜的資訊。多數 [Ranked](/wiki/Beatmap/Category#ranked) 的圖譜會至少使用一張圖片，一個數字 (根據製譜者已製作多少張 Ranked 圖譜)，及難度列表。

@@ -2,26 +2,13 @@
 
 ## osu!-specific file format
 
-### Archive
-
-| File format | Usage |
-| :-- | :-- |
-| [.osz][Osz Link] | Executable beatmap file. |
-| [.osk][Osk Link] | Executable skin file. |
-| [.db][Db Link] | Cached information. |
-
-### Beatmap Editor
-
-| File format | Usage |
-| :-- | :-- |
-| [.osu][Osu Link] | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link] | [Design](/wiki/Beatmap_Editor/Design). |
-
-### Replay
-
-| File format | Usage |
-| :-- | :-- |
-| [.osr][Osr Link] | Executable replay file (cannot be decompressed). |
+| File format | MIME type | Usage |
+| :-- | :-- | :-- |
+| [.osz][Osz Link] | `x-osu-beatmap-archive` | osu! beatmap archive |
+| [.osk][Osk Link] | `x-osu-skin-archive` | osu! skin archive |
+| [.osu][Osu Link] | `x-osu-beatmap` | osu! [beatmap](/wiki/Beatmap) |
+| [.osb][Osb Link] | `x-osu-storyboard` | osu! [storyboard](/wiki/Storyboard/Scripting) |
+| [.osr][Osr Link] | `x-osu-replay` | osu! [replay](/wiki/Replay) |
 
 ## Creating .osz/.osk file
 
@@ -74,7 +61,6 @@
 
 [Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
 [Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)
-[Db Link]: /wiki/osu!_File_Formats/Db_(file_format)
 [Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
 [Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)
 [Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)

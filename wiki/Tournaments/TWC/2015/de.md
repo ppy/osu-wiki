@@ -1,7 +1,7 @@
 ---
 tags:
-- TWC 2015
-- TWC2015
+  - TWC 2015
+  - TWC2015
 outdated: true
 ---
 
@@ -42,14 +42,10 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 | Kommentatoren | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiker | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/279723)
-- [osu! Taiko World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
-
----
+- [osu! Taiko World Cup 2015 auf Twitch](https://www.twitch.tv/osulive "Twitch")
 
 ## Regelsätze
 
@@ -106,7 +102,7 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 4. Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
    1. Dies hängt jedoch an der Gesamtanzahl an Teams ab und kann daher variieren.
 5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
-6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png "puush") teilen sich die Etappen wie folgt auf:
    | Etappe | Match ID |
    | :-- | :-- |
    | Achtelfinale | A, B, C, D, E, F, G, H |
@@ -128,9 +124,9 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    1. Beide Vetos müssen benutzt werden.
 4. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
-5. Beide Kapitäne müssen einmal "!roll" ins \#multiplayer-Channel eingeben.
-   1. Der Gewinner beim !roll wählt die zuerst spielende Map der Partie aus.
-   2. Der Verlierer beim !roll beginnt mit dem Bannen von 2 Beatmaps.
+5. Beide Kapitäne müssen einmal `!roll` ins `#multiplayer`-Channel eingeben.
+   1. Der Gewinner beim `!roll` wählt die zuerst spielende Map der Partie aus.
+   2. Der Verlierer beim `!roll` beginnt mit dem Bannen von 2 Beatmaps.
 6. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
    1. Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
 7. Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.

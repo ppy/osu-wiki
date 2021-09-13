@@ -41,15 +41,11 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 | Kommentatoren | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiker | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
-- [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
+- [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive "Twitch")
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/4550383)
 - [Registrierungsseite](https://osu.ppy.sh/tournaments/2)
-
----
 
 ## Participants
 
@@ -138,8 +134,6 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 | ![][flag_AT] | **Austria** | **[Fedora Goose](https://osu.ppy.sh/users/2323131 "Fedora Goose")**, [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz"), [Alumetorz](https://osu.ppy.sh/users/1145984 "Alumetorz"), [BlueFlame](https://osu.ppy.sh/users/3506191 "BlueFlame"), [Shirone](https://osu.ppy.sh/users/1426098 "Shirone"), [Elscar](https://osu.ppy.sh/users/2253511 "Elscar"), [Hakkero](https://osu.ppy.sh/users/177913 "Hakkero"), [skritsch](https://osu.ppy.sh/users/3323141 "skritsch") |
 | ![][flag_TW] | **Taiwan** | **[Rucker](https://osu.ppy.sh/users/147515 "Rucker")**, [hvick225](https://osu.ppy.sh/users/50265 "hvick225"), [Small K](https://osu.ppy.sh/users/952751 "Small K"), [YuyuKo sama](https://osu.ppy.sh/users/234788 "YuyuKo sama"), [Uan](https://osu.ppy.sh/users/147623 "Uan"), [dabanlong](https://osu.ppy.sh/users/624254 "dabanlong"), [zxxzxxz](https://osu.ppy.sh/users/1646474 "zxxzxxz"), [RedLeaf](https://osu.ppy.sh/users/2703742 "RedLeaf") |
 
----
-
 ## Regelsätze
 
 ### Turnierregeln
@@ -207,7 +201,7 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 
 5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
 
-6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png "puush") teilen sich die Etappen wie folgt auf:
 
    | Stage | Match ID |
    | :-- | :-- |
@@ -232,9 +226,9 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    1. Beide Vetos müssen benutzt werden.
 4. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
-5. Beide Kapitäne müssen "!roll" einmal im \#multiplayer benutzen.
-   1. Der Gewinner beim !roll wählt die zuerst spielende Map der Partie aus.
-   2. Der Verlierer beim !roll beginnt mit dem Bannen von 2 Beatmaps.
+5. Beide Kapitäne müssen `!roll` einmal im `#multiplayer` benutzen.
+   1. Der Gewinner beim `!roll` wählt die zuerst spielende Map der Partie aus.
+   2. Der Verlierer beim `!roll` beginnt mit dem Bannen von 2 Beatmaps.
 6. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
    1. Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
 7. Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.

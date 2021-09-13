@@ -22,7 +22,7 @@ From the auditory perspective, a difficulty can augment the song by providing on
   - a very small paragraph on every key component, including those from Beatmap#overview;
 -->
 
-[Visual components](/wiki/Beatmap) of a difficulty, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Visual_Settings) overlay for the most part. While some of them, such as [storyboards](/wiki/Storyboards) or [custom skins](/wiki/Skinning), belong to the beatmap as a whole, most of the visual components may vary per difficulty (e.g., [kiai time](/wiki/Kiai_time) sections and [combo colours](/wiki/Glossary/Combo_colour)).
+[Visual components](/wiki/Beatmap) of a difficulty, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Visual_Settings) overlay for the most part. While some of them, such as [storyboards](/wiki/Storyboard) or [custom skins](/wiki/Skinning), belong to the beatmap as a whole, most of the visual components may vary per difficulty (e.g., [kiai time](/wiki/Kiai_time) sections and [combo colours](/wiki/Glossary/Combo_colour)).
 
 ## Difficulty levels
 
@@ -66,11 +66,13 @@ These are the typical levels of difficulty that a beatmap can fall under. Specif
 - ![](/wiki/shared/diff/expert-m.png) Expert
 - ![](/wiki/shared/diff/expertplus-m.png) Expert+
 
-## Star rating
+## Difficulty and star rating
 
-![Star rating ranges](img/SR-range.png)
+As of 27 July 2021, the osu! website automatically assigns a beatmap's difficulty rating colour based on their star rating according to the following spectrum:
 
-On the website, beatmaps are automatically given a difficulty icon based on these star rating ranges:
+![osu! difficulty rating colour spectrum](img/osu-difficulty-spectrum.png)
+
+In some instances, such as [AIMod](/wiki/Beatmap_Editor/AiMod), difficulty is classified into six level ranges based on star rating as follows:
 
 - ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
@@ -79,4 +81,4 @@ On the website, beatmaps are automatically given a difficulty icon based on thes
 - ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ and above
 
-The intended difficulty levels of most beatmaps match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) define more precise rules for determining difficulty and evaluating beatmaps spreads.
+Note that while the intended difficulty levels of most beatmaps match the colours or level ranges they are given, some may deviate significantly due to certain factors. This is why the [ranking criteria](/wiki/Ranking_Criteria) offers more decisive ground rules to determine a beatmap's actual difficulty level and spread regardless of its star rating.

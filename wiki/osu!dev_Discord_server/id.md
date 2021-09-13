@@ -6,13 +6,13 @@ tags:
 
 # Server Discord osu!dev
 
-**osu!dev** merupakan server [Discord](https://discordapp.com "Situs web Discord") resmi yang digunakan perihal proyek *open source* osu! dan proyek yang dijalankan komunitas osu!. Di sinilah tempat utama yang bisa kamu kunjungi untuk berkontribusi pada pengembangan osu! dan berhubungan dengan [osu!team](/wiki/People/The_Team).
+**osu!dev** merupakan server [Discord](https://discordapp.com "Situs web Discord") resmi yang digunakan perihal proyek *open source* osu! dan proyek yang dijalankan komunitas osu!. Di sinilah tempat utama yang bisa kamu kunjungi untuk berkontribusi pada pengembangan osu! dan berhubungan dengan [tim inti osu!](/wiki/People/The_Team).
 
 Tautan undangan untuk masuk sudah permanen dan bisa diakses dengan <https://discord.gg/ppy>.
 
 ## Tahap verifikasi
 
-Anggota baru dalam server tidak dapat secara langsung mengirim pesan. Jika mereka ingin mendapat akses untuk mengirim pesan, mereka dapat memposting di `#arrival` disertai dengan maksud dan tujuan memasuki server, salah satu anggota osu!team setelah itu akan memberi hak akses dan mengangkat keterbatasan kamu dan akhirnya kamu dapat mengirim pesan.
+Anggota baru dalam server tidak dapat secara langsung mengirim pesan. Jika mereka ingin mendapat akses untuk mengirim pesan, mereka dapat memposting di `#arrival` disertai dengan maksud dan tujuan memasuki server, salah satu anggota tim inti osu! setelah itu akan memberi hak akses dan mengangkat keterbatasan kamu dan akhirnya kamu dapat mengirim pesan.
 
 ## Proyek
 

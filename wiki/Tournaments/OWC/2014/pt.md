@@ -39,21 +39,15 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 | Comentaristas | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | Estatisticas | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
-- [osu! World Cup 2014 on Twitch](https://www.twitch.tv/osulive/)
-- [Registration Form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
+- [osu! World Cup 2014 on Twitch](https://www.twitch.tv/osulive "Twitch")
+- [Registration Form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms")
 - [Discussion Thread](https://osu.ppy.sh/community/forums/posts/3410198)
 - [Mappool Discussion](https://osu.ppy.sh/community/forums/topics/255369/)
-- **[Group Stage Statistics](https://owc.nicarim.pw/results/view/3)**
-
----
+- **[Group Stage Statistics](https://owc.nicarim.pw/results/view/3 "Nicarim")**
 
 ![OWC 2014 brackets](img/bracket.jpg)
-
----
 
 ## Participantes
 
@@ -113,13 +107,11 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 | ![][flag_RU] Russian Federation | **[cr1m](https://osu.ppy.sh/users/803766)**, [talala](https://osu.ppy.sh/users/1389663), [Shiawase](https://osu.ppy.sh/users/989489), [anticlone111](https://osu.ppy.sh/users/1950600), [Kert](https://osu.ppy.sh/users/119933), [KoTo](https://osu.ppy.sh/users/1382805), [Hidari Handoru](https://osu.ppy.sh/users/1056329), [Pyroboom](https://osu.ppy.sh/users/689882) |
 | ![][flag_CN] China | **[Prophet](https://osu.ppy.sh/users/651307)**, [Dsan](https://osu.ppy.sh/users/1266166), [N a n o](https://osu.ppy.sh/users/694114), [Del soon Bye](https://osu.ppy.sh/users/629717), [Rebellion](https://osu.ppy.sh/users/2896273), [SpringLane](https://osu.ppy.sh/users/1343504), [Spring Roll](https://osu.ppy.sh/users/2499198), [wobeinimacao](https://osu.ppy.sh/users/350723) |
 
----
-
 ## Lista de Beatmaps
 
 ### Quartas de final
 
-**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
+**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar "MediaFire")**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
@@ -149,7 +141,7 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 
 ### Oitavas de final
 
-**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
+**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar "MediaFire")**
 
 - NoMod
   - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
@@ -179,7 +171,7 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 
 ### Fase de Grupos
 
-**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
+**[Clique aqui para baixar o pack!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar "MediaFire")**
 
 - NoMod
   - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
@@ -206,8 +198,6 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
   - [Sana - Terekakushi Shishunki (litoluna) \[Insane\]](https://osu.ppy.sh/beatmapsets/202677#osu/479354)
 - Tiebreaker
   - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
-
----
 
 ## Resultado das Partidas
 
@@ -253,8 +243,6 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 | ![][flag_HK] Hong Kong | 3 - **4** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/10355083) |
 | ![][flag_SG] Singapore | 1 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/10355087) |
 
----
-
 ## Regras
 
 ### Regras Gerais do Torneio
@@ -285,7 +273,7 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
    1. O tamanho máximo de uma equipe é 8 jogadores.
    2. Você deverá especificar um capitão para representar a equipe.
 2. Cada equipe representa uma nação. Você deverá formar uma equipe com jogadores do mesmo país.
-3. Para inscrição de equipes,[preencha este formulário](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Então, verifique sua inscrição [enviando uma PM para o Loctav](https://osu.ppy.sh/home/messages/users/71366) entitulada “OWC Registration”
+3. Para inscrição de equipes,[preencha este formulário](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform "Google Forms"). Então, verifique sua inscrição [enviando uma PM para o Loctav](https://osu.ppy.sh/home/messages/users/71366) entitulada “OWC Registration”
    - Capitães podem mudar o esquema do time [avisando a Administração](https://osu.ppy.sh/home/messages/users/71366).
 4. Qualquer inscrição de mudança será checada pela Administração do Torneio antes de ser aceita e adicionada à lista de participantes.
 5. O número de equipes será de 32. Quem chegar primeiro, fica com a vaga.
@@ -316,7 +304,7 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
    3. A equipe mencionada primeiramente no nome da sala será a equipe azul, a equipe mencionada posteriormente será a equipe vermelha.
 2. O árbitro entrará na sala externamente. O árbitro irá assistir a partida por meio de um client especial para multi-spectating.
 3. Os jogadores estarão livres para escolher um beatmap de aquecimento.
-4. A seleção de mapas será alternada entre cada capitão escolhendo um beatmap por vez. Os capitães deverão usar o comando "!roll" no \#multiplayer para determinar qual a equipe que escolherá primeiro.
+4. A seleção de mapas será alternada entre cada capitão escolhendo um beatmap por vez. Os capitães deverão usar o comando `!roll` no `#multiplayer` para determinar qual a equipe que escolherá primeiro.
    1. Os capitães poderão escolher beatmaps do grupo NoMod livremente.
    2. A escolha de beatmaps nos subgrupos específicos de mods será limitada. Cada capitão poderá escolher apenas um mapa de cada subgrupo de mods.
    3. Em caso de empate na partida, o tiebraker deverá ser jogado para desempate.

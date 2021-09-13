@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: d2a93c7e0e135bbf0a1944230cab0a334b2ef58f
+---
+
 # Beatmap Aday Göstericiler için Kurallar
 
 Burada listelenen kurallar [Beatmap Aday Göstericilerin](/wiki/People/Beatmap_Nominators) beatmapleri aday gösterirken neler yapıp neler yapamayacağını etkiler, aynı zamanda onlardan beklenen genel davranış şeklini belirler. Bu kurallar [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) içerisindeki müzakerelerin bir sonucudur ve Beatmap Aday Göstericilerin geri bildirimleri de göz önüne alınarak oluşturulmuştur.

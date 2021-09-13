@@ -6,16 +6,14 @@
 
 Beatmaps are moved to Loved by a nomination and voting process.
 
-Members of the Project Loved Team called **captains** regularly nominate beatmaps for a specific game mode. Almost always, these sets come from submissions from the osu! community. The current Loved submission forms and listings can be found via the following links:
+Members of the Project Loved Team called **captains** regularly nominate beatmaps for a specific game mode. These sets almost always come from submissions from the osu! community.
 
-- [osu!/osu!catch form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
-- [osu!taiko form](https://docs.google.com/forms/d/e/1FAIpQLSclPWyjFByhHP45AtKD49y0RSl1TK5UOzD4dVdvjfJJQ1aCXQ/viewform)
-- [osu!mania form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform)
-- [osu!/osu!catch listing](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
-- [osu!taiko listing](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit)
-- [osu!mania listing](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
+To submit a beatmap for Loved, please visit the [beatmap submission page](https://loved.sh/submit) of the Project Loved website and fill out the form. Upon submitting, you will be able to view your submission under the listing of its respective game mode along with the others. Below are the listings where these submissions can be viewed:
 
-*Note: If your access to Google Forms is restricted, you may also contact any of the [Project Loved Team members](/wiki/People/The_Team/Project_Loved_Team#team-members) to have a map submitted on your behalf.*
+- [osu! submissions](https://loved.sh/submissions/osu)
+- [osu!taiko submissions](https://loved.sh/submissions/taiko)
+- [osu!catch submissions](https://loved.sh/submissions/fruits)
+- [osu!mania submissions](https://loved.sh/submissions/mania)
 
 Nominated mapsets are then posted to the [Project Loved forum](https://osu.ppy.sh/community/forums/120), where community members may vote whether they want the mapset to be Loved or not. Maps reaching a specified threshold percentage of "Yes" votes at their polls' end time will be moved to the Loved category.
 
@@ -28,15 +26,17 @@ There are some very minimal criteria that need to be met for beatmaps to be nomi
 - Its creator is neither banned nor restricted
 - At least one difficulty can be passed
 - It has at least 30 favourites (only applies to osu! maps)
-- Every difficulty has at least 30 seconds of [drain time](/wiki/Gameplay/Drain_time)
+- Every nominated difficulty has at least 30 seconds of [drain time](/wiki/Gameplay/Drain_time)
 
-However, despite nearly all [Pending and Work-in-progress](/wiki/Beatmap/Category#work-in-progress-and-pending) maps meeting these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
+Although many [Pending and Work-in-progress](/wiki/Beatmap/Category#work-in-progress-and-pending) maps meet these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
 
 Beatmaps entering the Loved category are required to follow some additional rule sets:
 
 - [The Metadata section of the Ranking Criteria](/wiki/Ranking_Criteria#metadata)
 - [Song Content Rules](/wiki/Rules/Song_Content_Rules)
 - [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations)
+
+Additionally, in order to keep the audio quality of the song at a reasonable level, beatmap's audio files should be from the highest quality source available while having an average bit rate no greater than 192kbps.
 
 Any problems with these rules are usually sorted out while the map is up for voting.
 
@@ -47,3 +47,8 @@ There are no strict rules governing which maps a captain must nominate for Loved
 ## Further information
 
 All of the organisation and planning for Project Loved is done in the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy). There is also a `#project-loved` channel in the [osu! Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H). Any questions, concerns, or suggestions may be directed there.
+
+In addition to the discussion channels mentioned above, osu!taiko and osu!mania communities have their own dedicated Discord hubs, which you may join via the following links:
+
+- [osu!taiko Project Loved Discord server](https://discord.com/invite/GhfjtZ6)
+- [osu!mania Project Loved Discord server](https://discord.gg/Ededv7m)

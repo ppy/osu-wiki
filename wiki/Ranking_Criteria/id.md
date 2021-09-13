@@ -210,6 +210,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **Dimensi video tidak boleh melebihi lebar 1280 dan tinggi 720 pixel.** Selain itu, meng-upscale video resolusi rendah ke resolusi yang lebih tinggi harus dihindari untuk memastikan file video tidak menjadi terlalu besar atau menghabiskan banyak sumber daya.
 - **[Offset](/wiki/Beatmapping/Offset) video harus benar jika itu sinkron dengan lagu.** Offset yang salah dapat menyebabkan representasi visual yang tidak sesuai dengan lagu. Jika video yang sama muncul dalam beberapa tingkat kesulitan, itu harus selalu memiliki offset yang sama.
 - **Trek audio video harus dihapus dari file video.** Trek audio dalam video tidak digunakan di osu!, jadi menghapusnya mengurangi ukuran file dari beatmap tersebut. Ini juga berlaku pada video dengan trek audio yang dibisukan.
+  - *Kunjungi laman [Kompresi berkas § Video](/wiki/Guides/Compressing_files#video) untuk panduan lebih lanjut.*
 
 ### Pedoman
 

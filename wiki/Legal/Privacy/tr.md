@@ -6,7 +6,7 @@ legal: true
 
 En son 16 Nisan 2021 tarihinde güncellendi. [Geçmişi buradan görüntüleyin](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
-Bu politikaya ek olarak, lütfen [Hizmet Koşullarımızı](https://osu.ppy.sh/legal/terms) okuyup anladığınızdan emin olun.
+Bu politikaya ek olarak, lütfen [Hizmet Koşullarımızı](/wiki/Legal/Terms) okuyup anladığınızdan emin olun.
 
 ## Giriş
 
@@ -18,7 +18,7 @@ Bu servisleri sizlere sunabilmek için, sıklıkla kişisel verilerinizi toplama
 
 Bu döküman, iletişim ağımız üzerinden, ürünlerimizin ve servislerimizin kullanımından hangi bilgileri topladığımız, bu bilgileri nasıl kullandığımız ve kişisel bilgilerinizi kontrol edebilmeniz doğrultusunda size ne gibi seçenekler sunduğumuzu açıklamayı amaçlamaktadır.
 
-Hizmetimizi kullanarak, [Hizmet Koşullarını](https://osu.ppy.sh/legal/terms) ve bu gizlilik politikasını okuyup anladığınızı, buna ek olarak bilgilerinizi nasıl ve niçin kullandığımızı ve hizmet kullanımınızın geçerli Hizmet Koşullarına ve bu Gizlilik Politikasına tabi olduğunu kabul etmiş olursunuz. Eğer kişisel bilgilerinizi burada bahsedildiği gibi toplamamızı ve işlememizi istemiyorsanız, sizin adınıza topladığımız bilgileri sınırlandırmak, veya İletişim Ağımızı, Ürünlerimizi ve Servislerimizi kullanmamak dahil birtakım seçenekleriniz mevcuttur.
+Hizmetimizi kullanarak, [Hizmet Koşullarını](/wiki/Legal/Terms) ve bu gizlilik politikasını okuyup anladığınızı, buna ek olarak bilgilerinizi nasıl ve niçin kullandığımızı ve hizmet kullanımınızın geçerli Hizmet Koşullarına ve bu Gizlilik Politikasına tabi olduğunu kabul etmiş olursunuz. Eğer kişisel bilgilerinizi burada bahsedildiği gibi toplamamızı ve işlememizi istemiyorsanız, sizin adınıza topladığımız bilgileri sınırlandırmak, veya İletişim Ağımızı, Ürünlerimizi ve Servislerimizi kullanmamak dahil birtakım seçenekleriniz mevcuttur.
 
 ## Topladığımız bilgiler
 

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
+---
+
 # Kumpulan beatmap showcase Featured Artist
 
 Anggota dari [Mappers' Guild](/wiki/Mappers_Guild) sering membuat "beatmap showcase" eksklusif dengan menggunakan lagu yang belum dirilis dan materi lain dari [featured artist](/wiki/Featured_Artists) osu!. Ketika sebuah featured artist diumumkan secara publik, beatmap-beatmap yang tertera di sini akan dicantumkan ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali dipromosikan di [Twitter @osugame](https://twitter.com/osugame).
@@ -348,6 +353,45 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!mania]) [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1126358) diurus oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)
 - **[yukitani](https://osu.ppy.sh/home/news/2021-05-22-new-featured-artist-yukitani)** (2021-05-22)
   - (![][osu!taiko]) [yukitani - Amusing Reflection Rag.](https://osu.ppy.sh/beatmapsets/1436446) diurus oleh ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011)
+- **[Sewerslvt](https://osu.ppy.sh/home/news/2021-05-29-new-featured-artist-sewerslvt)** (2021-05-29)
+  - (![][osu!taiko]) [Sewerslvt - Newlove](https://osu.ppy.sh/beatmapsets/1442626) diurus oleh ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+
+### Juni
+
+- **[La priere](https://osu.ppy.sh/home/news/2021-06-16-new-featured-artist-la-priere)** (2021-06-16)
+  - (![][osu!]) [La prière - Senjou no Utahime](https://osu.ppy.sh/beatmapsets/1398580) diurus oleh ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!]) [La prière - Kyouzou no Canon](https://osu.ppy.sh/beatmapsets/1475603) diurus oleh ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
+- **[katagiri](https://osu.ppy.sh/home/news/2020-06-23-new-featured-artist-katagiri)** (2021-06-23)
+  - (![][osu!catch]) [katagiri - Urushi](https://osu.ppy.sh/beatmapsets/1482723) diurus oleh ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+- **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (2018-06-26)
+  - (![][osu!]) [Andromedik x Itro x Polygon - Fly](https://osu.ppy.sh/beatmapsets/1470255) diurus oleh ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
+
+### Juli
+
+- **[Fred V & Grafix](https://osu.ppy.sh/home/news/2021-07-10-new-featured-artist-fred-v-grafix)** (2021-07-10)
+  - (![][osu!]) [Fred V & Grafix - Ignite (feat. Amy J Pryce)](https://osu.ppy.sh/beatmapsets/1443360) diurus oleh ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)
+- **[Aoi](https://osu.ppy.sh/home/news/2021-07-21-new-featured-artist-aoi)** (2021-07-21)
+  - (![][osu!]) [Aoi a.k.a. ALFOU](https://osu.ppy.sh/beatmapsets/1248102) diurus oleh ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
+  - (![][osu!taiko]) [Aoi vs. siqlo - Hacktivism](https://osu.ppy.sh/beatmapsets/1488148) diurus oleh ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][osu!taiko]) [Aoi - c.s.q.n.](https://osu.ppy.sh/beatmapsets/1492454) diurus oleh ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253)
+- **[seatrus](https://osu.ppy.sh/home/news/2021-07-28-new-featured-artist-seatrus)** (2021-07-28)
+  - (![][osu!]) [seatrus - TH3 5UMMONERS](https://osu.ppy.sh/beatmapsets/1497954) diurus oleh ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623)
+  - (![][osu!taiko]) [seatrus - efchi](https://osu.ppy.sh/beatmapsets/1461343) diurus oleh ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649)
+- **[SEBii](https://osu.ppy.sh/home/news/2021-07-31-new-featured-artist-sebii)** (2021-07-31)
+  - (![][osu!catch]) [SEBii - Play Poker Remix (w/ Maple)](https://osu.ppy.sh/beatmapsets/1512572) diurus oleh ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164)
+
+### Agustus
+
+- **[T & Sugah](https://osu.ppy.sh/home/news/2021-08-07-new-featured-artist-t-and-sugah)** (2021-08-07)
+  - (![][osu!]) [T & Sugah - Days Away (feat. Voicians)](https://osu.ppy.sh/beatmapsets/1519300) diurus oleh ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033)
+  - (![][osu!]) [T & Sugah x Zazu - Lost On My Own](https://osu.ppy.sh/beatmapsets/1511518) diurus oleh ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+  - (![][osu!]) [T & Sugah - Wicked Days](https://osu.ppy.sh/beatmapsets/1496811) diurus oleh ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+- **[Natsume Itsuki](https://osu.ppy.sh/home/news/2021-08-11-new-featured-artist-natsume-itsuki)** (2021-08-11)
+  - (![][osu!]) [Natsume Itsuki - Mayday](https://osu.ppy.sh/beatmapsets/1506697) diurus oleh ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!]) [Natsume Itsuki - AI to CodeQ no Hate](https://osu.ppy.sh/beatmapsets/1515036) diurus oleh ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!]) [Natsume Itsuki - Miniascape](https://osu.ppy.sh/beatmapsets/1509856) diurus oleh ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
+- **[rN](https://osu.ppy.sh/home/news/2021-08-14-new-featured-artist-rn)** 
+  - (![][osu!]) [rN - My Dearest Nightmare](https://osu.ppy.sh/beatmapsets/1542543) diurus oleh ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
 
 ## Sejarah
 
@@ -380,6 +424,7 @@ Dimulai dari [Pengumuman MYUKKE. sebagai featured artist](https://osu.ppy.sh/hom
 [flag_IT]: /wiki/shared/flag/IT.gif "Itali"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lituania"
 [flag_MX]: /wiki/shared/flag/MX.gif "Meksiko"
 [flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"

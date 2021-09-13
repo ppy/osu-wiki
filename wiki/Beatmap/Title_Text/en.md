@@ -12,7 +12,7 @@ tags:
 
 **Title text** appears in the top-middle of the screen while playing a beatmap. Most commonly, it shows the artist and title of the song near the beginning of the map, but the map's creator may change the text to whatever they prefer. They can also change how the text is formatted and when it will display.
 
-If used correctly by the map's creator, title text can add a nice effect to the map. It's an especially useful tool for map creators who make [storyboards](/wiki/Storyboards), since they likely want to control the presentation of their maps as finely as possible during gameplay. Some good examples of using custom title text can be found in [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) and [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
+If used correctly by the map's creator, title text can add a nice effect to the map. It's an especially useful tool for map creators who make [storyboards](/wiki/Storyboard), since they likely want to control the presentation of their maps as finely as possible during gameplay. Some good examples of using custom title text can be found in [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) and [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560).
 
 ## Changing Title Text
 

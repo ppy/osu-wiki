@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
 tags:
   - Mapper's Guild
   - MG
@@ -17,7 +19,7 @@ Organisasi dan diskusi perkumpulan ini dapat ditemukan di channel `#mappers-guil
 
 Mapper yang memiliki setidaknya 3 map yang sudah ranked dapat bergabung dengan perkumpulan ini kapan saja melewati dengan melakukan otentikasi osu! mereka pada [situs web Mapper's Guild](https://mappersguild.com/). Siapa pun tidak dibatasi untuk melihat *quest* yang tersedia dan aktivitas mapping yang dilakukan pada situs web.
 
-Mapper dapat memperoleh imbalan dengan berpartisipasi dalam proses pemeringkatan map menjadi ranked untuk map yang menggunakan konten artis unggulan dan terhubung ke Mapper's Guild. Dengan ini, mapper berfokus pada pembuatan beatmap, namun imbalan juga diberikan untuk pengguna yang berkontribusi dengan [modding](/wiki/Modding), membuat [storyboard](/wiki/Storyboards), dan menyelesaikan *quest* dalam *guild*.
+Mapper dapat memperoleh imbalan dengan berpartisipasi dalam proses pemeringkatan map menjadi ranked untuk map yang menggunakan konten artis unggulan dan terhubung ke Mapper's Guild. Dengan ini, mapper berfokus pada pembuatan beatmap, namun imbalan juga diberikan untuk pengguna yang berkontribusi dengan [modding](/wiki/Modding), membuat [storyboard](/wiki/Storyboard), dan menyelesaikan *quest* dalam *guild*.
 
 ### Kelompok
 
@@ -37,7 +39,7 @@ Partisipasi *quest* tidak memerlukan seluruh anggota Mapper's Guild. Jika seoran
 
 ### Imbalan
 
-Imbalan didistribusikan melalui sistem poin. Ketika seorang pengguna telah mencapai dalam titik pencapaian, mereka memperoleh peringkat yang berbeda dengan ditandainya sebuah lencana profil. Ada tiga tingkatan profil untuk tiap pencapaian yang masing - masing diberikan pada 100, 250, dan 500 poin.
+Imbalan didistribusikan melalui sistem poin. Ketika seorang pengguna telah mencapai dalam titik pencapaian, mereka memperoleh peringkat yang berbeda dengan ditandainya sebuah lencana profil. Ada empat tingkatan profil untuk tiap pencapaian yang masing - masing diberikan pada 100, 250, 500, dan 1000 poin.
 
 Imbalan diberikan berdasarkan peroleh poin tiap pengguna. Poin yang tersedia pengguna adalah sub-bagian dari total poin mereka, sistem ini juga mengikuti model [kudosu](/wiki/Modding/Kudosu) "total yang diperoleh" dan "tersedia".
 

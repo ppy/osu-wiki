@@ -16,7 +16,7 @@ Välkommen till osu! wikin, ett projekt som innehåller ett brett utbud av osu! 
 
 # Kom igång
 
-[Välkommen](/wiki/Welcome) • [Registrering](/wiki/Registration) • [Installation](/wiki/Installation) • [Spelgränssnitt](/wiki/Interface) • [Spelinställningar](/wiki/Options) • [Tangentbindningar](/wiki/Shortcut_Key_Reference) • [Översikt](/wiki/Sitemap) • [Guider](/wiki/Guides) • [Hjälpcenter](/wiki/Help_Centre)
+[Registrering](/wiki/Registration) • [Installation](/wiki/Installation) • [Spelgränssnitt](/wiki/Interface) • [Spelinställningar](/wiki/Options) • [Tangentbindningar](/wiki/Shortcut_Key_Reference) • [Översikt](/wiki/Sitemap) • [Guider](/wiki/Guides) • [Hjälpcenter](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -30,7 +30,7 @@ Välkommen till osu! wikin, ett projekt som innehåller ett brett utbud av osu! 
 
 # [Beatmap Editor](/wiki/Beatmap_Editor)
 
-Sektioner: ([Komponera](/wiki/Beatmap_Editor/Compose) • [Designa](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Låt Setup](/wiki/Beatmap_Editor/Song_Setup)) • Komponenter: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Svårhetsgrader](/wiki/Beatmap/Difficulty) • [Hit Objects](/wiki/Hit_Objects) • [Mappingtekniker](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+Sektioner: ([Komponera](/wiki/Beatmap_Editor/Compose) • [Designa](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Låt Setup](/wiki/Beatmap_Editor/Song_Setup)) • Komponenter: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Svårhetsgrader](/wiki/Beatmap/Difficulty) • [Hit Objects](/wiki/Hit_Objects) • [Mappingtekniker](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

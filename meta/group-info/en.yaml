@@ -20,6 +20,7 @@ gmt:
     support: technical support
     tournaments: tournament management
     wiki: wiki administration
+    mapping: mapping/modding community moderation
 nat:
   areas:
     communication: communication
@@ -40,6 +41,7 @@ languages:
   fi: Finnish
   fil: Filipino
   fr: French
+  gl: Galician
   hr: Croatian
   hu: Hungarian
   id: Indonesian

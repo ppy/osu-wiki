@@ -6,6 +6,8 @@ tags:
 
 # Mappers' Guild
 
+![](img/mg-logo.png)
+
 The **Mappers' Guild** is a group of mappers responsible for creating [beatmaps](/wiki/Beatmap) for osu!'s [featured artists](/wiki/Featured_Artists). Utilising an MMO-style guild format, it allows mappers to earn rewards by participating in the ranking process for featured artist beatmaps and cooperating in mapping-related quests.
 
 Guild organisation and discussion can be found in the `#mappers-guild` channel of the [osu!dev Discord server](https://discord.gg/ppy).
@@ -16,7 +18,7 @@ Guild organisation and discussion can be found in the `#mappers-guild` channel o
 
 Mappers with 3 or more ranked maps can join the guild at any time via the [Mappers' Guild website](https://mappersguild.com/) by authenticating their osu! account. Anyone else is free to view the website's quest and mapping activities.
 
-Mappers can earn rewards by participating in the ranking process for featured artist maps that are connected to the Mappers' Guild. This primarily focuses on creating beatmaps, however rewards are also provided for users who contribute by [modding](/wiki/Modding), creating [storyboards](/wiki/Storyboards), and completing quests within the guild.
+Mappers can earn rewards by participating in the ranking process for featured artist maps that are connected to the Mappers' Guild. This primarily focuses on creating beatmaps, however rewards are also provided for users who contribute by [modding](/wiki/Modding), creating [storyboards](/wiki/Storyboard), and completing quests within the guild.
 
 ### Parties
 
@@ -30,13 +32,15 @@ Quests reward mappers for following certain requirements when creating their fea
 
 Each quest has its own party size/rank specifications, price to accept, and deadline. All members of a party must pay the listed price to accept the quest. Prices are usually higher for gimmicky quests and solo quests.
 
-Quests expire after 3 months of inactivity. Any user can re-open quests by spending their available pool of Mappers' Guild points.
+Quests will automatically expire after 3 months of inactivity. Any user can re-open quests by spending their available pool of Mappers' Guild points.
 
 Quest participation is not required for members of the Mappers' Guild. If a user wants to, they may create beatmaps alone to earn rewards.
 
 ### Rewards
 
-Rewards are distributed through a points system. When a user reaches a specified points threshold, they earn a different rank signified by a profile badge. There are three profile badge tiers at 100, 250, and 500 points respectively.
+![](img/mg-badges.png "The four tiers of the Mappers' Guild profile badge")
+
+Rewards are distributed through a points system. When a user reaches a specified points threshold, they earn a different rank signified by a profile badge. There are four profile badge tiers at 100, 250, 500, and 1000 points respectively.
 
 Rewards are based on a user's total points. A user's available points are a subsection of their total points following the same model as osu!'s [kudosu](/wiki/Modding/Kudosu) "total earned" and "available" pools.
 
@@ -44,9 +48,15 @@ Points are earned for different mapping-related tasks. Earnings vary between tas
 
 Difficulty creation tasks earn a user more points if the beatmap is associated with a quest. Completing a quest before its deadline provides users with bonus points for each difficulty mapped and a flat bonus for all users involved in the quest. This flat bonus is lost after the deadline is passed, however difficulty bonuses are kept with diminishing returns after 0, 20 and 40 day increments beyond the deadline.
 
+### Showcase beatmaps
+
+*Main article: [Featured artist showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps)*
+
+Members of the Mappers' Guild may also participate in the creation of showcase beatmaps for future featured artist announcements. Upon the announcement of the corresponding featured artist, these beatmaps are highlighted in the [newspost](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame) as well.
+
 ## History
 
-The Mappers' Guild launched with a group of less than 10 mappers in late 2017. Given information on an upcoming featured artist at the time, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), they were tasked with creating 5 beatmaps to accompany the artist's [news post announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
+The Mappers' Guild launched with a group of less than 10 mappers in late 2017. Given information on an upcoming featured artist at the time, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), they were tasked with creating six beatmaps to accompany the artist's [news post announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
 To promote older featured artists, the group increased its member count and ranked 8 beatmaps from different artists. These beatmaps were published in a [news post](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) alongside a downloadable beatmap pack<!-- TODO: beatmap pack article -->.
 

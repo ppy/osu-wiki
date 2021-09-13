@@ -2,7 +2,6 @@
 tags:
   - accuracy
   - hit window
-  - notelock
   - OD
   - spinner difficulty
 ---
@@ -11,7 +10,7 @@ tags:
 
 *For recommended OD values, see: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Overall difficulty** (***OD***) defines how difficult it is to achieve high [accuracy](/wiki/Accuracy) on a [beatmap](/wiki/Beatmap). The value ranges from 0 to 10, where higher OD will require more accuracy and precision. Since accuracy is important for gaining health, overall difficulty also influences how hard it is to pass a beatmap.
+**Overall difficulty** (***OD***) defines how difficult it is to achieve high [accuracy](/wiki/Gameplay/Accuracy) on a [beatmap](/wiki/Beatmap). The value ranges from 0 to 10, where higher OD will require more accuracy and precision. Since accuracy is important for gaining health, overall difficulty also influences how hard it is to pass a beatmap.
 
 ## Timing
 
@@ -23,7 +22,7 @@ Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_Obje
 | 100 | `280ms - 16ms * OD` |
 | 300 | `160ms - 12ms * OD` |
 
-If the player hits outside of the 50's hit window, it will count as a miss.
+If the player hits outside of the 50's hit window, it will count as a miss. In case the hit windows of two objects overlap, the second object will be inaccessible until the first object disappears due to [notelock](/wiki/Gameplay/Notelock).
 
 ## Sliders and spinners
 
@@ -34,10 +33,6 @@ Overall difficulty also affects spinners, in that they must be spun more to fill
 - OD < 5: `5 - 2 * (5 - OD) / 5`
 - OD = 5: `5`
 - OD > 5: `5 + 2.5 * (OD - 5) / 5`
-
-## Notelock
-
-In osu!, the timing system will not allow a hit object to be cleared until the previous object is cleared (or missed after the hit window passes). This can lead to instances of **notelock** where players will miss a note even though they hit it perfectly in sync with the beat. This occurs more often on beatmaps with low OD values, because the hit windows of hit objects overlap more frequently.
 
 ## Mod effects
 

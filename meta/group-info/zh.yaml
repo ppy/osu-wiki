@@ -21,6 +21,7 @@ gmt:
     support: 技术支持
     tournaments: 锦标赛管理员
     wiki: wiki 管理
+    mapping: 谱面制作社群的管理工作
 nat:
   areas:
     communication: 沟通
@@ -41,6 +42,7 @@ languages:
   fi: 芬兰语
   fil: 菲律宾语
   fr: 法语
+  gl: 加利西亚语
   hr: 克罗地亚语
   hu: 匈牙利语
   id: 印度尼西亚语

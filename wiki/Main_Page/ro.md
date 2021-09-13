@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -12,7 +14,7 @@ Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informa
 
 # Noțiuni de bază
 
-[Bun venit](/wiki/Welcome) • [Instalare](/wiki/Installation) • [Înregistrare](/wiki/Registration) • [Centrul de ajutor](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Instalare](/wiki/Installation) • [Înregistrare](/wiki/Registration) • [Centrul de ajutor](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -41,7 +43,7 @@ Secțiuni: [Compune](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 Componente: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divizor Beat Snap](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distanţă pocnet](/wiki/Beatmap_Editor/Distance_Snap) • [Meniu](/wiki/Beatmap_Editor/Menu) • [Încărcare SB](/wiki/Beatmap_Editor/SB_Load) • [Cronologii](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Dificultăți](/wiki/Beatmap/Difficulty) • [Tehnici de mapping](/wiki/Mapping_Techniques) • [Scenariu vizual](/wiki/Storyboarding)
+[Beatmapping](/wiki/Beatmapping) • [Dificultăți](/wiki/Beatmap/Difficulty) • [Tehnici de mapping](/wiki/Mapping_Techniques) • [Scenariu vizual](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -1,7 +1,7 @@
 ---
 tags:
-- TWC 2015
-- TWC2015
+  - TWC 2015
+  - TWC2015
 outdated: true
 ---
 
@@ -41,8 +41,6 @@ outdated: true
 | 配信者 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | 実況者 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | 統計者 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
-
----
 
 ## 参加者
 
@@ -85,9 +83,7 @@ outdated: true
 ## リンク
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
-- [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
-
----
+- [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive "Twitch")
 
 ## ルールセット
 
@@ -149,7 +145,7 @@ outdated: true
 
 5. 続くステージはダブル・エリミネーションステージです。勝者は次のステージに、敗者は敗者枠に移動されます。
 
-6. [この図](https://puu.sh/bUq5V/f1066103b0.png)を基にして、ステージは以下のように分けられます:
+6. [この図](https://puu.sh/bUq5V/f1066103b0.png "puush")を基にして、ステージは以下のように分けられます:
 
    | ステージ | 試合 ID |
    | :-- | :-- |
@@ -173,9 +169,9 @@ outdated: true
 3. それぞれのキャプテンはビートマップ群から2つビートマップを使用禁止にすることができます。ここで選ばれたビートマップは試合を通してどちらのチームも使用してはいけません。
    1. このビートマップ拒否権は必ずどちらも使用してください。
 4. ビートマップ選択はそれぞれのキャプテンが交互に行います。
-5. それぞれのキャプテンは\#multiplayerで"!roll"を使ってください。
-   1. !rollの勝者は先に試合のビートマップを選んでください。
-   2. !rollの敗者は先に2つビートマップを使用禁止にしてください。
+5. それぞれのキャプテンは`#multiplayer`で`!roll`を使ってください。
+   1. `!roll`の勝者は先に試合のビートマップを選んでください。
+   2. `!roll`の敗者は先に2つビートマップを使用禁止にしてください。
 6. キャプテンはどのカテゴリからでも自由にビートマップを選んで構いません。
    1. 同点の場合は必ず同点決勝ビートマップをプレイしてください。
 7. 結果は統計サイトで発表されます。

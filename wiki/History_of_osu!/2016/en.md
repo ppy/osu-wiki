@@ -54,7 +54,7 @@ Links:
 
 ## July
 
-[Aspire](/wiki/Aspire) 2 concluded with [Monstrata](https://osu.ppy.sh/users/2706438) as the Aspirant. osu! remix contest voting opened. The osu! team opened an osu!taiko design contest, as osu!taiko has yet to have one.
+[Aspire](/wiki/Aspire) 2 concluded with [Monstrata](https://osu.ppy.sh/users/2706438) as the Aspirant. osu! remix contest voting opened, together with the osu!taiko design contest.
 
 Links:
 
@@ -75,7 +75,7 @@ Links:
 
 ## September
 
-[osu!mania 4k World Cup](/wiki/Tournaments/MWC/2016_4K) concluded with South Korea being victorious against Brazil. peppy tweeted regarding the 9th anniversary of osu!; however, stated that there nothing was planned for this year. The osu!taiko mascot voting results were in, peppy reminds that the community picked winner was *not* the new mascot since the osu!team wanted to take more into account than the mascots' loliciousness. [yuki.](https://osu.ppy.sh/beatmaps/artists/4), a brand new osu!musician, entered the stage with a new community mapping contest.
+[osu!mania 4k World Cup](/wiki/Tournaments/MWC/2016_4K) concluded with South Korea being victorious against Brazil. peppy tweeted regarding the 9th anniversary of osu!; however, stated that there nothing was planned for this year. The osu!taiko mascot voting results were in, peppy reminds that the community picked winner was *not* the new mascot since the osu! team wanted to take more into account than the mascots' loliciousness. [yuki.](https://osu.ppy.sh/beatmaps/artists/4), a brand new osu!musician, entered the stage with a new community mapping contest.
 
 Links:
 

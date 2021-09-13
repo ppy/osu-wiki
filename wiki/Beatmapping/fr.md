@@ -1,7 +1,7 @@
 # Beatmapping
 
 Le **Beatmapping** est le processus de création de [beatmaps](/wiki/Beatmap) par le biais du client osu!
-Cela implique de choisir une chanson, [timing](/wiki/Timing), le placement de [objects](/wiki/Hit_Objects), et (éventuellement) le [skinning](/wiki/Skinning) et le [storyboarding](/wiki/Storyboarding).
+Cela implique de choisir une chanson, [timing](/wiki/Timing), le placement de [objects](/wiki/Hit_Objects), et (éventuellement) le [skinning](/wiki/Skinning) et le [storyboarding](/wiki/Storyboard#storyboarding).
 
 Les mappeurs veulent généralement que leurs beatmaps obtiennent le statut [classé](/wiki/Beatmap). Pour en savoir plus à propos de ceci, vous pouvez jeter un aperçu à la [procédure de classement d'une beatmap](/wiki/Beatmap_ranking_procedure).
 
@@ -59,6 +59,6 @@ C’est également ici que vous pouvez placer des hit objects et gérer leurs [h
 
 ### Conception
 
-*Page principale : [Conception](/wiki/Design) et [Storyboarding](/wiki/Storyboarding)*
+*Page principale : [Conception](/wiki/Design) et [Storyboarding](/wiki/Storyboard#storyboarding)*
 
 L'onglet Conception de l'éditeur de beatmap est l'endroit où vous pouvez définir l'image de fond de beatmap, ajouter une vidéo et/ou créer un storyboard.

@@ -69,6 +69,7 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 | [RMoT #2](/wiki/Tournaments/RMoTI/2) | 06/05/2017 | 14/05/2017 | [MagBlood](https://osu.ppy.sh/users/6178640) | [bsurma](https://osu.ppy.sh/users/509575) | [MaIson](https://osu.ppy.sh/users/6047395) |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
+
 | Nome | Início | Fim | ![Gold Crown](/wiki/shared/crown-gold.png "1º Lugar") | ![Silver Crown](/wiki/shared/crown-silver.png "2º Lugar") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3º Lugar") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 24/06/2017 | 06/08/2017 | [- Choma -](https://osu.ppy.sh/users/-%20Choma%20-) | [\[Crz\]MemoryI](https://osu.ppy.sh/users/%5BCrz%5DMemoryI) | [\[Crz\]ScSolAr](https://osu.ppy.sh/users/%5BCrz%5DScSolAr) |

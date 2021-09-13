@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1fd11e0fffd3ad686940372ae876e7e55971e429
+---
+
 # Opcje
 
 ![Nakładka opcji](img/options_basic.jpg "Nakładka opcji \(panel boczny po lewej\)")
@@ -395,7 +400,7 @@ Ta sekcja jest poświęcona zarządzaniu beatmapami i aktualizacjom.
 
 #### Wersja kompilacji
 
-Wyświetla wersję kompilacji posiadanego klienta gry oraz rodzaj wersji osu!, z którego pobierane są aktualizacje. Kliknięcie na napis, otworzy listę zmian danej wersji gry w domyślnej przeglądarce internetowej.
+Wyświetla wersję kompilacji posiadanego klienta gry oraz rodzaj wersji osu!, z którego pobierane są aktualizacje. Kliknięcie na napis, otworzy [listę zmian](/wiki/Glossary/Changelog) danej wersji gry w domyślnej przeglądarce internetowej.
 
 Komplilacje są nazywane według następującej formuły:
 

@@ -48,15 +48,11 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 | Kommentatoren | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Statistiker | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
----
-
 ## Links
 
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
-- [osu! World Cup 2013 auf Twitch](https://www.twitch.tv/osulive/profile/pastBroadcasts)
-- [Statistik](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)
-
----
+- [osu! World Cup 2013 auf Twitch](https://www.twitch.tv/osulive/profile/pastBroadcasts "Twitch")
+- [Statistik](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17 "Google Sheets")
 
 ## Teilnehmer
 
@@ -112,19 +108,15 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 | ![][flag_SG] Singapore | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
 | ![][flag_VE] Venezuela | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli |
 
----
-
 ## K.-o.-Runden
 
 ![OWC 2013 brackets](img/bracket.jpg)
-
----
 
 ## Mappools
 
 ### Finals
 
-**[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
+**[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar "MediaFire")**
 
 - NoMod
   - [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
@@ -158,7 +150,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 ### Halbfinale
 
-**[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](https://www.mediafire.com/?pn3yxce7m6v4j13)**
+**[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](https://www.mediafire.com/?pn3yxce7m6v4j13 "MediaFire")**
 
 - NoMod
   - [CON - Cruel Clocks (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76882#osu/216272)
@@ -192,7 +184,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 ### Viertelfinale
 
-**[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
+**[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar "MediaFire")**
 
 - NoMod
   - [xi - Time files (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/49843#osu/153484)
@@ -226,7 +218,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 ### Achtelfinale
 
-**[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
+**[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar "MediaFire")**
 
 - NoMod
   - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/43248#osu/135804)
@@ -260,7 +252,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 ### Gruppenphase
 
-**[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
+**[Klick hier drauf, um den ganzen Pool aufeinmal herunterzuladen!](https://www.mediafire.com/?jn0c8p6wqfrtfhb "MediaFire")**
 
 - NoMod
   - [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w) \[YuruYuri\]](https://osu.ppy.sh/beatmapsets/45316#osu/153418)
@@ -291,8 +283,6 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
   - [Beridzebeth - Seijin no Tou (Strawberry) \[Another\]](https://osu.ppy.sh/beatmapsets/66968#osu/194953)
 - Tiebreaker
   - **[DJ Okawari - Luv Letter (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/40071#osu/127363)**
-
----
 
 ## Ergebnisse aller Partien
 
@@ -328,7 +318,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 | ![][flag_JP] Japan | 2 - **5** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/2962477) |
 | ![][flag_KR] **Korea** | **5** - 2 | Austria ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/2964278) |
 | ![][flag_CN] China | 4 - **5** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/2966197) |
-| ![][flag_GB] **United Kingdom** | **5** - 3 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/2969031) [#A](https://puu.sh/5rT5F/9b2a7bfa74.jpg) |
+| ![][flag_GB] **United Kingdom** | **5** - 3 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/2969031) [#A](https://puu.sh/5rT5F/9b2a7bfa74.jpg "puush") |
 
 ### Achtelfinale
 
@@ -380,7 +370,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 | ![][flag_NO] **Norway** | **4** - 1 | Chile ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/2612443) |
 | ![][flag_AR] **Argentina** | **4** - 0 | Singapore ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/2614072) |
 | ![][flag_AT] **Austria** | **4** - 0 | Philippines ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/2614095) |
-| ![][flag_TH] **Thailand** | **4** - 1 | Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/2618739) [#A](https://puu.sh/5dh2n/b90be32a79.jpg) |
+| ![][flag_TH] **Thailand** | **4** - 1 | Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/2618739) [#A](https://puu.sh/5dh2n/b90be32a79.jpg "puush") |
 | ![][flag_HK] **Hong Kong** | **4** - 0 | Venezuela ![][flag_VE] | *Win by default* |
 | ![][flag_RU] **Russian Federation** | **4** - 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/2617238) |
 | ![][flag_US] **United States** | **4** - 1 | Latvia ![][flag_LV] | [#1](https://osu.ppy.sh/community/matches/2621519) |
@@ -412,8 +402,6 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 | ![][flag_KR] **Korea** | **4** - 2 | Chile ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/2662493) |
 | ![][flag_AU] Australia | 1 - **4** | **Brazil** ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/2767400) |
 
----
-
 ## Regelsätze
 
 ### Turnierregeln
@@ -444,7 +432,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
    1. Die maximale Teamgröße ist 8.
    2. Es muss ein Kapitän angegeben werden, der das Team representieren wird.
 2. Jedes Team representiert eine Nation. Sie müssen ein Team zusammenstellen mit Spieler aus demselben Land und daher dieselbe Flagge im Profil haben.
-3. Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
+3. Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms"). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
    - Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
 4. Jede Registrierung und Änderung wird vom Turnier Management überprüft, bevor sie akzeptiert und zur Liste der Teilnehmer hinzugefügt werden.
 5. Die maximale Anzahl an Teams liegt bei 32.

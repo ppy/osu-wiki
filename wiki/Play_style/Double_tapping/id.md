@@ -15,7 +15,7 @@ tags:
 
 ## Penggunaan
 
-Double tapping biasanya menggantikan gaya tapping utama pemain karena mudah digunakan dan meningkatkan "kecepatan" (meskipun pemain sebenarnya tidak mengetuk lebih cepat). Peningkatan kecepatan ini dicapai dengan mengambil keuntungan tumpang-tindih dari hit window yang paling sering terjadi pada stack dan stream. Jadi, satu input tombol terhitung sebagai satu hit circle dalam stack, circle berikutnya juga akan terhitung sebagai hit karena hit window mereka sangat berdekatan sehingga saling tumpang tindih. Tetapi sebagai akibatnya, hampir tidak mungkin untuk mengontrol waktu tapping ini yang dapat mengurangi [akurasi](/wiki/Accuracy) pemain.
+Double tapping biasanya menggantikan gaya tapping utama pemain karena mudah digunakan dan meningkatkan "kecepatan" (meskipun pemain sebenarnya tidak mengetuk lebih cepat). Peningkatan kecepatan ini dicapai dengan mengambil keuntungan tumpang-tindih dari hit window yang paling sering terjadi pada stack dan stream. Jadi, satu input tombol terhitung sebagai satu hit circle dalam stack, circle berikutnya juga akan terhitung sebagai hit karena hit window mereka sangat berdekatan sehingga saling tumpang tindih. Tetapi sebagai akibatnya, hampir tidak mungkin untuk mengontrol waktu tapping ini yang dapat mengurangi [akurasi](/wiki/Gameplay/Accuracy) pemain.
 
 ## Argumen
 

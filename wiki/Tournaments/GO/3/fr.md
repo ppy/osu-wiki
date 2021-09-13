@@ -1,8 +1,8 @@
 ---
 tags:
-- Game_Osu Tourney 3
-- GO 3
-- GO3
+  - Game_Osu Tourney 3
+  - GO 3
+  - GO3
 ---
 
 # Game_Osu Tourney 3
@@ -58,17 +58,15 @@ La Game_Osu Tourney 3 était gérée par différents membres de la communauté, 
 ## Liens
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/869989)
-- [Serveur Discord du GO](https://discord.gg/trnFByC)
-- [Chaîne Youtube du GO](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA)
-- [Tableaux Challonge du GO](https://challonge.com/gameosu)
-- [Site Internet](https://www.gameosu.com/)
+- [Serveur Discord du GO](https://discord.gg/trnFByC "Discord")
+- [Chaîne Youtube du GO](https://www.youtube.com/channel/UCwIJ0ymAahAASp0_KaZ_1jA "YouTube")
+- [Tableaux Challonge du GO](https://challonge.com/gameosu "Challonge")
+- [Site Internet](https://www.gameosu.com/ "GameOsu")
 - Livestream
-  - [Game\_Osu (EN)](https://www.twitch.tv/gameosu)
-  - [Chaîne Twitch de Sardoche](https://www.twitch.tv/sardoche) (Stream des Finales et de la Grande Finale)
-  - [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr)
-- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQkxCyBeU6EG2qiHd8ZMrrHYiEm7wxjXCCl73eH8Ttoh7_n9Gz6XfDsm8_tg2Proo9hQR11PATPBGGn/pubhtml)**
-
----
+  - [Game\_Osu (EN)](https://www.twitch.tv/gameosu "Twitch")
+  - [Chaîne Twitch de Sardoche](https://www.twitch.tv/sardoche "Twitch") (Stream des Finales et de la Grande Finale)
+  - [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr "Twitch")
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQkxCyBeU6EG2qiHd8ZMrrHYiEm7wxjXCCl73eH8Ttoh7_n9Gz6XfDsm8_tg2Proo9hQR11PATPBGGn/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -141,8 +139,6 @@ La Game_Osu Tourney 3 était gérée par différents membres de la communauté, 
 | #766 | ![][flag_MX] [Andros](https://osu.ppy.sh/users/9072586) |
 | #972.71 | ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326) |
 
----
-
 ## Podium
 
 La compétition est arrivée à une fin et à donné le podium ci-dessous:
@@ -155,15 +151,13 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | *4ème place* | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | *5ème place* | ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144) |
 
----
-
 ## Liste des maps
 
 ### Finales
 
 **Ce mappool a été joué en Finale et en Grande Finale.**
 
-**[Téléchargez le mappack ici! (191 MB)](https://drive.google.com/file/d/10-RHCidjwOPXXwzqTPL57-Rtu0f5v3oW/view)**
+**[Téléchargez le mappack ici! (191 MB)](https://drive.google.com/file/d/10-RHCidjwOPXXwzqTPL57-Rtu0f5v3oW/view "Google Drive")**
 
 - NoMod
   - [BUTAOTOME - Mesen (BarkingMadDog) \[EXPERT\]](https://osu.ppy.sh/beatmapsets/865750#osu/1810154)
@@ -199,7 +193,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Demi-finales
 
-**[Téléchargez le mappack ici! (134 MB)](https://drive.google.com/file/d/1DHQeb__mNIgMiWkpI92aUKsJ9eJrox_0/view)**
+**[Téléchargez le mappack ici! (134 MB)](https://drive.google.com/file/d/1DHQeb__mNIgMiWkpI92aUKsJ9eJrox_0/view "Google Drive")**
 
 - NoMod
   - [DJ TOTTO - Crystalia (Xenok, \[Hysteria\]) \[Xenok Sakaki's Extreme\]](https://osu.ppy.sh/beatmapsets/691220#osu/1549739)
@@ -229,7 +223,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Quarts-de-finale
 
-**[Téléchargez le mappack ici! (163 MB)](https://drive.google.com/file/d/163fuC05dewoY5lRcmUi2zNQ66mRQCJ2C/view)**
+**[Téléchargez le mappack ici! (163 MB)](https://drive.google.com/file/d/163fuC05dewoY5lRcmUi2zNQ66mRQCJ2C/view "Google Drive")**
 
 - NoMod
   - [Luschka - unravel (Mirash) \[NeilPerry's Extra\]](https://osu.ppy.sh/beatmapsets/731933#osu/1603296)
@@ -259,7 +253,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### 8èmes de finale
 
-**[Téléchargez le mappack ici! (135 MB)](https://www.mediafire.com/file/i5cxkm5kqb49x5x/RO16+Map-Pack.rar)**
+**[Téléchargez le mappack ici! (135 MB)](https://www.mediafire.com/file/i5cxkm5kqb49x5x/RO16+Map-Pack.rar "MediaFire")**
 
 - NoMod
   - [sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui (Kalibe) \[Descent\]](https://osu.ppy.sh/beatmapsets/926846#osu/1935864)
@@ -289,7 +283,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### 16èmes de finale
 
-**[Téléchargez le mappack ici! (164 MB)](https://drive.google.com/file/d/1pptNQPOsK-1x-6eLEzs8dB3TAVeKXSbJ/view?usp=sharing)**
+**[Téléchargez le mappack ici! (164 MB)](https://drive.google.com/file/d/1pptNQPOsK-1x-6eLEzs8dB3TAVeKXSbJ/view?usp=sharing "Google Drive")**
 
 - NoMod
   - [Shintani Ryoko - Wonderful World (HanzeR) \[Extra\]](https://osu.ppy.sh/beatmapsets/128604#osu/326423)
@@ -319,7 +313,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### 32èmes de finale
 
-**[Téléchargez le mappack ici! (91 MB)](https://www.dropbox.com/s/a1uqkn10euxsn75/Game_Osu%20RO64%20Mappack.zip?dl=0)**
+**[Téléchargez le mappack ici! (91 MB)](https://www.dropbox.com/s/a1uqkn10euxsn75/Game_Osu%20RO64%20Mappack.zip?dl=0 "Dropbox")**
 
 - NoMod
   - [AKINO with bless4 - EXTRA MAGIC HOUR (koreapenguin) \[Extra\]](https://osu.ppy.sh/beatmapsets/224335#osu/523661)
@@ -343,7 +337,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Phase de qualifications
 
-**[Téléchargez le mappack ici! (144 MB)](https://www.gameosu.com/Downloads/Qualifiers%20map-pack.rar)**
+**[Téléchargez le mappack ici! (144 MB)](https://www.gameosu.com/Downloads/Qualifiers%20map-pack.rar "GameOsu")**
 
 - NoMod
   - [factal - Stars Tonight (Sharu) \[Sky\]](https://osu.ppy.sh/beatmapsets/807831#osu/1695344)
@@ -364,8 +358,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   - [IOSYS - Danzai Yamaxanadu (Zekira) \[Eternal Damnation\]](https://osu.ppy.sh/beatmapsets/13654#osu/50354)
 - Tiebreaker
   - **[Mia REGINA - Choumusubi Amulet (nenpulse bootleg remix) (cococolaco) \[Dispel\]](https://osu.ppy.sh/beatmapsets/719896#osu/1520055)**
-
----
 
 ## Résultats des matches
 
@@ -585,8 +577,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | Woey ![][flag_US] | 2 | **4** | ![][flag_PL] **Rafis** | [#1](https://osu.ppy.sh/community/matches/50511189) |
 | lain ![][flag_US] | 1 | **4** | ![][flag_CA] **trev rasher** | [#1](https://osu.ppy.sh/community/matches/50512611) |
 
----
-
 ## Règlement
 
 ### Règles Générales
@@ -596,10 +586,10 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 3. Le reste des rounds se joueront en double élimination.
 4. Tous les matchs seront joués en **ScoreV2.** Le revive est autorisé.
 5. Le maximum d’inscrits est de **128 participants.**
-6. Seulement le **top 128 des inscrits basé sur le [BWS Rank](https://pastebin.com/3QSaGdkE)** à la fin de la période d’inscriptions sera autorisé à participer.
+6. Seulement le **top 128 des inscrits basé sur le [BWS Rank](https://pastebin.com/3QSaGdkE "Pastebin")** à la fin de la période d’inscriptions sera autorisé à participer.
 7. Pour pouvoir vous inscrire, vous devez être au moins **#10,000** global.
-8. La participation au tournoi est **prohibée** à tous les [membres du staff](https://www.gameosu.com/staff) (*à l’exception des casters*).
-9. Les map-pools seront révélés à la fin de chaque semaine les dimanches sur la [chaîne Twitch du Game\_Osu](https://www.twitch.tv/gameosu). Rendez-vous sur le site internet dans l’onglet “Planning” pour en apprendre plus sur l’agenda du tournoi. Servez vous de l’onglet “Mappool” pour y récupérer les maps après leur annonce.
+8. La participation au tournoi est **prohibée** à tous les [membres du staff](https://www.gameosu.com/staff "GameOsu") (*à l’exception des casters*).
+9. Les map-pools seront révélés à la fin de chaque semaine les dimanches sur la [chaîne Twitch du Game\_Osu](https://www.twitch.tv/gameosu "Twitch"). Rendez-vous sur le site internet dans l’onglet “Planning” pour en apprendre plus sur l’agenda du tournoi. Servez vous de l’onglet “Mappool” pour y récupérer les maps après leur annonce.
 
 ### Organisation des matchs
 
@@ -639,38 +629,38 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 4. Chaque joueur devra `!roll`. Le plus haut roll décide de l’ordre des picks et des bans (le premier à ban sera le dernier à pick)
 5. Dans le cas d’une égalité, le Tiebreaker sera joué. Les perdants du Winners bracket iront au Losers bracket.
 6. Si un joueur est victime d’une déconnexion de Bancho au milieu d’une map, un rematch de cette map peut être joué seulement si l’arbitre y consent, la décision lui revient. Les joueurs ont droit à cinq minutes pour contacter leur arbitre via osu! où Discord avant qu’ils ne soient comptés perdant du match.
-7. Le reschedule est autorisé, pour ce faire nous vous demandons de contacter votre adversaire de vous-même et de nous envoyer une preuve de votre consentement mutuel au reschedule. Nous vous laissons à disposition le channel `#rescheduling` sur le [Serveur Discord GO](https://discord.gg/trnFByC) pour contacter votre adversaire. Vous avez jusqu'au jeudi à 19h (UTC) de la semaine précédant le match pour le faire.
+7. Le reschedule est autorisé, pour ce faire nous vous demandons de contacter votre adversaire de vous-même et de nous envoyer une preuve de votre consentement mutuel au reschedule. Nous vous laissons à disposition le channel `#rescheduling` sur le [Serveur Discord GO](https://discord.gg/trnFByC "Discord") pour contacter votre adversaire. Vous avez jusqu'au jeudi à 19h (UTC) de la semaine précédant le match pour le faire.
 
 ### Règles liées au comportement
 
 1. Toutes les [règles d’osu!](/wiki/Rules) s’appliquent.
 2. Les comportements *toxiques* durant les matchs seront très fortement réprimandés et pourront résulter en une défaite forcée, une **expulsion du tournoi où un bannissement** des tournois futurs.
 3. Nous ne tolérerons pas une once de **tricherie ou de tentatives pour obtenir un avantage par rapport aux autres joueurs.**
-4. Veuillez noter que **seules** les chaînes Twitch suivantes sont autorisées à diffuser le tournoi: [Game\_Osu (EN)](https://www.twitch.tv/gameosu), [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr), and [Sardoche](https://www.twitch.tv/sardoche). **Nous n’autorisons pas le restream** sauf indication contraire de notre part et demanderons des **sanctions** dans le cas **d’uploads non-autorisés.** Les joueurs, eux sont autorisés à diffuser leurs matchs.
+4. Veuillez noter que **seules** les chaînes Twitch suivantes sont autorisées à diffuser le tournoi: [Game\_Osu (EN)](https://www.twitch.tv/gameosu "Twitch"), [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr "Twitch"), and [Sardoche](https://www.twitch.tv/sardoche "Twitch"). **Nous n’autorisons pas le restream** sauf indication contraire de notre part et demanderons des **sanctions** dans le cas **d’uploads non-autorisés.** Les joueurs, eux sont autorisés à diffuser leurs matchs.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_MA]: /wiki/shared/flag/MA.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PR]: /wiki/shared/flag/PR.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_LV]: /wiki/shared/flag/LV.gif "Lettonie"
+[flag_MA]: /wiki/shared/flag/MA.gif "Maroc"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_PR]: /wiki/shared/flag/PR.gif "Porto Rico"
+[flag_RO]: /wiki/shared/flag/RO.gif "Roumanie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

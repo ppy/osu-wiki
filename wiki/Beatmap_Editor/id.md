@@ -19,7 +19,7 @@ Tab [Compose](/wiki/Beatmap_Editor/Compose) merupakan bagian dari editor yang di
 
 ## Design
 
-Tab [Design](/wiki/Beatmap_Editor/Design) merupakan bagian dari editor yang dipergunakan untuk membuat [storyboard](/wiki/Storyboards) dan mengatur efek-efek visual lainnya. Meskipun demikian, untuk mendesain storyboard-storyboard yang lebih kompleks pada umumnya para mapper cenderung lebih menggunakan teknik [storyboard scripting](/wiki/Storyboard_Scripting) tanpa melalui tab Design.
+Tab [Design](/wiki/Beatmap_Editor/Design) merupakan bagian dari editor yang dipergunakan untuk membuat [storyboard](/wiki/Storyboard) dan mengatur efek-efek visual lainnya. Meskipun demikian, untuk mendesain storyboard-storyboard yang lebih kompleks pada umumnya para mapper cenderung lebih menggunakan teknik [storyboard scripting](/wiki/Storyboard/Scripting) tanpa melalui tab Design.
 
 ## Timing
 

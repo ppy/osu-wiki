@@ -78,8 +78,9 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 - **[Guest difficulty](/wiki/Beatmap/Guest_difficulty) creators, storyboarders, skinners and hitsounders must be added to the tags of a beatmap.** This is to give credit where credit is due and help others identify the main contributors of any given beatmap. Usernames containing single characters separated by spaces must have the spaces replaced with underscores.
 - **[Primary metadata sources](/wiki/Beatmap/Primary_metadata_source) must be used as references for metadata.** Do not modify metadata from primary sources except to comply with formatting and standardisation rules below. If no sources are available, use what is most common and recognizable.
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. A song's sole artist cannot be a fictional character or program unless it is the artist's alias.
-- **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website names, album names, or BMS are not acceptable sources. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
-  - In cases where a [song compilation](/wiki/Beatmapping/Song_compilation)/remix/medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
+- **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, web site, community etc.** If the song was featured or tied to a media after it was released, the source field should not be used. If a song has multiple potential sources, any option is valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
+  - In cases where a [song compilation](/wiki/Beatmapping/Song_compilation)/remix/medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field (unless the compilation is prominently tied to a source itself).
+  - `osu!` itself should never be used in the source field except in cases where the track was specifically created for osu! (also known as an osu! original), such as commissioned tournament tiebreaker tracks.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 - **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
 - **If the song mapped is a licensed one in the featured artist library, `featured artist` must be added to tags.**
@@ -100,13 +101,13 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 - **If a song has been edited to have a higher tempo, use a `(Sped Up Ver.)` marker at the end of the current title.** If there is an existing sped up version marker in the title, replace it with `(Sped Up Ver.)`. Sped up songs in Techno, Trance, Dance, or other similar genres must use a `(Nightcore Mix)` marker instead.
   - Note: For tracks which are both cut and sped up, combine their markers into `(Sped Up & Cut Ver.)` or `(Nightcore & Cut Ver.)`.
 - **Special unicode characters must be filtered to their nearest standard equivalent or removed from the romanised fields within a `.osu` file.** `★ ☆ ⚝ ✪` and the likes are substituted to an asterisk (`*`). Other special characters are to be romanised or dropped on case-by-case basis.
-- **If a mapset track is composed of two or more songs, list the song titles clearly with a dividing symbol inbetween or use a title descriptive of its contents.** If the title becomes too long as a result, a descriptive title must be used instead.
+- **If a beatmap's track is composed of two or more songs, list the song titles clearly with a dividing symbol inbetween or use a title descriptive of its contents.** If the title becomes too long as a result, a descriptive title must be used instead.
 - **If a symbol is used to group parts of a title, a space must be used before and after the group, but not directly before or after the symbols within the groups.**
 - **If a series applicable as a source contains sub-series, the most precise label must be used as the source.** If a song has multiple applicable sub-series, the main series/franchise may be used instead.
 
 #### Romanisation
 
-- **Artist names are to be romanised in the order they are printed in the unicode fields.**
+- **An artist's name is to be romanised in the order it is printed in the unicode field, unless an alternative order for the romanised name is provided by the artist.**
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
 - **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae` and `ß` to `ss`.**
@@ -116,6 +117,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
   - Mandarin metadata must be romanised using the Hanyu Pinyin system.
   - Cantonese metadata must be romanised by using the Jyutping system.
   - If the song falls into neither category, this choice is left up to the mapper's discretion and contacting a native speaker is recommended.
+- **Metadata in other languages not specifically covered in this section and lacking official romanisation from the artist must use a system common and recognisable for the language.** Contacting a native speaker is recommended to ensure accuracy in these cases.
 
 ### Guidelines
 
@@ -123,12 +125,12 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 #### Technical
 
-- **If the creator of the mapset has remixed or covered the song, they are free to name it appropriately to signal that this song is a special version.** In this case the original songs should still be clearly indicated in the title or tags in order for players to be able to search for the original songs.
+- **If the creator of the beatmap has remixed or covered the song, they are free to name it appropriately to signal that this song is a special version.** In this case the original songs should still be clearly indicated in the title or tags in order for players to be able to search for the original songs.
 - **In the case of compilations or remixes, the original song title(s) and artist(s) should be included in tags.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
 - **Songs with metadata that contains ambiguous or hard to write unicode characters should add easily searchable variations or romanisations of these words to the beatmap's tags.**
 - **If the source of the song is available in both unicode and romanised formats, the option not used in the source field should be added to tags.**
 - **Song genre and language should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
-- **Tags should be added for related artists, alternate names for the artist, title, or source, contractions in any part of the metadata with the apostrophe removed, and whatever else may aid a player in finding the mapset.**
+- **Tags should be added for related artists, alternate names for the artist, title, or source, contractions in any part of the metadata with the apostrophe removed, and whatever else may aid a player in finding the beatmap.**
 
 #### Standardisation
 
@@ -147,7 +149,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
 - **If an artist has provided an official translation for their name, this may be used in the romanised artist field.** Official romanisation may be used for the spelling of an artist's name, but the name order must follow the related rule.
 - **If a Unicode Song title has either an official translation or romanisation provided by the artist, either or may be used in the romanised title field.**
-- **If a mapset track was contributed to by multiple artists, they may be listed with commas inbetween.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
+- **If a beatmap's track was contributed to by multiple artists, they may be listed with commas inbetween.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
 - **For Remixes/Covers, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the Remix/Cover artist followed by descriptor.
 
 ## Timing
@@ -208,12 +210,14 @@ This category contains explicit allowance statements of concepts and rules that 
   - **Maximum height:** 1440px
   - **Maximum file size:** 2.5MB
 - **A video's dimensions must not exceed a width of 1280 and a height of 720 pixels.** Additionally, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
+- **A video must be encoded in H.264.**
 - **A video's [offset](/wiki/Beatmapping/Offset) must be correct if it synchronizes with the song.** An incorrect offset can result in a misleading visual representation of the song. If the same video appears in multiple difficulties, it must always have the same offset(s).
 - **A video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that file size of the beatmap. This includes videos with muted audio tracks.
+  - *See [Compressing files § Video](/wiki/Guides/Compressing_files#video) for guidance.*
 
 ### Guidelines
 
-- **The background image of each difficulty in a beatmap should be of reasonable quality.** Try to find the original source of any image and avoid unnecessary upscaling or file size bloating.
+- **Background images and videos in a beatmap should be of reasonable quality.** Try to find the original source and avoid unnecessary upscaling or file size bloating.
 
 ## Skinning
 

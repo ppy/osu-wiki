@@ -1,75 +1,73 @@
----
-outdated: true
-outdated_since: 3bec7abe5a3da2952e6324d55a29431f9240e8a0
----
+# Résumé des modificateurs de jeu
 
-# Sommaire
+*Page principale : [Modificateurs de jeu](/wiki/Game_modifier)*
 
-*Note: Tous les mods changeant la difficulté sur osu!mania n'augmenteront jamais le multiplicateur de score.*
+*Note : Tous les mods utilisés dans osu!mania n'augmenteront jamais le multiplicateur de score.*
 
-| Mod | Nom (Abrégé) | Multiplicateur | Effet |
+| Mod | Nom (Abréviation) | Multiplicateur | Légende |
 | :-- | :-- | :-- | :-- |
-| ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x | Tout, mais en  *plus facile*. |
-| ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x | Vous ne pouvez pas perdre, peu importe ce que vous faites. |
-| ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.30x • ![][osu!mania]: 0.50x | Ralenti la beatmap de 25%. |
-| ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | ![][osu!] ![][osu!taiko]: 1.06x • ![][osu!catch]: 1.12x • ![][osu!mania]: 1.00x (unrankable) | Tout, mais en plus dur. |
-| ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | Si tu casses ton combo = Game over |
-| ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | SS (100% de précision) ou rien |
-| ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | ![][osu!] ![][osu!taiko]: 1.12x • ![][osu!catch]: 1.06x • ![][osu!mania]: 1.00x | Augmente la vitesse de la beatmap de 50%. |
-| ![Nightcore](/wiki/shared/mods/NC.png) | Nightcore (NC) | ![][osu!] ![][osu!taiko]: 1.12x • ![][osu!catch]: 1.06x • ![][osu!mania]: 1.00x | Augmente la vitesse et ajoute un son de métronome. |
-| ![Hidden](/wiki/shared/mods/HD.png) | Hidden (HD) | ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x • ![][osu!mania]: 1.00x | Les notes vont disparaître avant d'être cliquées. |
-| ![Fade In](/wiki/shared/mods/FI.png) | Fade In (FI) | ![][osu!mania]: 1.00x | Les touches vont arriver en dégradé. |
-| ![Flashlight](/wiki/shared/mods/FL.png) | Flashlight (FL) | ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.12x • ![][osu!mania]: 1.00x | Limite la champ de vision autour du curseur. |
-| ![Relax](/wiki/shared/mods/RL.png) | Relax (RL) | ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.00x (unrankable) | Juste, vise. |
-| ![Auto Pilot](/wiki/shared/mods/AP.png) | Auto Pilot (AP) | ![][osu!]: 0.00x (unrankable) | Clique, une petite pause s'impose. |
-| ![Spun Out](/wiki/shared/mods/SO.png) | Spun Out (SO) | ![][osu!]: 0.90x | Les spinners sont tournés automatiquement. |
-| ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.00x (unrankable) | Regarde une partie parfaite. |
-| ![Cinema](/wiki/shared/mods/CM.png) | Cinema (CM) | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.00x (unrankable) | Regarde la vidéo et/ou le storyboard. |
-| ![4K](/wiki/shared/mods/4K.png) | xK (xK) | ![][osu!mania]: 0.66x ~ 1.00x (voir[chart below](#le-multiplicateur-de-score-du-mode-xk)) | Joue avec un nombre `x` de touches. |
-| ![Co-Op](/wiki/shared/mods/CP.png) | Co-Op (COOP) | ![][osu!mania]: 0.70x ~ 1.00x voir[chart below](#le-mod-xK-avec-le-multiplicateur-de-score-de-la-CO-OP)) | Un duo, ça vous dit ? |
-| ![Random](/wiki/shared/mods/RD.png) | Random (RD) | ![][osu!mania]: 1.00x | Change les touches de colonnes. |
+| ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x | • ![][osu!]: `Réduit la difficulté de manière générale : cercles plus grands, barre de vie plus indulgente et moins de précision requise.` • ![][osu!taiko]: `Réduit la difficulté de manière générale : barre de vie plus indulgente et moins de précision requise.` • ![][osu!catch]: `Réduit la difficulté de manière générale : cercles plus grands, barre de vie plus indulgente et moins de précision requise.` • ![][osu!mania]: `Réduit la difficulté de manière générale : barre de vie plus indulgente et moins de précision requise.` |
+| ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x  | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Impossible  d'échouer, quoi que vous fassiez` |
+| ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | • ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.30x • ![][osu!mania]: 0.50x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Tout va plus lentement...` |
+| ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | • ![][osu!]: 1.12x ![][osu!taiko]: 1.06x • ![][osu!catch]: 1.12x • ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Tout devient un peu plus compliqué.` |
+| ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Ratez une note et vous échouez.`  |
+| ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Un SS sinon rien.` |
+| ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | • ![][osu!]: 1.06x • ![][osu!taiko]: 1.12x ![][osu!catch]: 1.06x • ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Tout va plus vite !`  |
+| ![Nightcore](/wiki/shared/mods/NC.png) | Nightcore (NC) | • ![][osu!]: 1.06x • ![][osu!taiko]: 1.12x ![][osu!catch]: 1.06x • ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `uguuuu~` |
+| ![Hidden](/wiki/shared/mods/HD.png) | Hidden (HD) | • ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.06x • ![][osu!mania]: 1.00x | • ![][osu!]: `Jouez sans cercles d'approche et avec des notes qui s'estompent progressivement.` • ![][osu!taiko]: `Les notes s'estompent progressivement.` • ![][osu!catch] `Jouez sans cercles d'approche et avec des notes qui s'estompent progressivement.` • ![][osu!mania]: `Les notes s'estompent progressivement.` |
+| ![Fade In](/wiki/shared/mods/FI.png) | Fade In (FI) | • ![][osu!mania]: 1.00x |  |
+| ![Flashlight](/wiki/shared/mods/FL.png) | Flashlight (FL) | • ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.12x • ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Jouez dans la pénombre avec votre curseur en guise de lampe torche` |
+| ![Relax](/wiki/shared/mods/RL.png) | Relax (RL) | • ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.00x | • ![][osu!]: `YVous n'avez pas besoin de cliquer. Vos doigts méritent une pause après toute cette agitation. ** LE SCORE RÉALISÉ NE SERA PAS COMPTABILISÉ **` • ![][osu!taiko]: `Détendez-vous ! Vous ne serez plus embêté par les spinners surprise, les drumrolls difficiles ou les katus inattendus. ** LE SCORE RÉALISÉ NE SERA PAS COMPTABILISÉ **` • ![][osu!catch]: `Utilisez la souris pour contrôler le personnage. ** LE SCORE RÉALISÉ NE SERA PAS COMPTABILISÉ **` |
+| ![Autopilot](/wiki/shared/mods/AP.png) | Auto Pilot (AP) | • ![][osu!]: 0.00x | • ![][osu!]: `Le mouvement du curseur est automatique, contentez-vous de suivre le rythme. ** LE SCORE RÉALISÉ NE SERA PAS COMPTABILISÉ **` |
+| ![Spun Out](/wiki/shared/mods/SO.png) | Spun Out (SO) | • ![][osu!]: 0.90x | • ![][osu!]: `Les spinners seront effectués automatiquement.` |
+| ![4K (*x*K)](/wiki/shared/mods/4K.png) | 4K (*x*K) | 0.66x–1.00x (voir [tableau ci-dessous](#multiplicateurs-de-score-pour-le-mod-xk)) |  |
+| ![Co-op](/wiki/shared/mods/CP.png) | Co-op (CP) | 0.70x–1.00x (voir [tableau ci-dessous](#multiplicateurs-de-score-avec-le-mod-*x*k-en-co-op)) | • ![][osu!mania]: ``Deux fois plus de touches pour deux fois plus de fun !` |
+| ![Mirror](/wiki/shared/mods/MR.png) | Mirror (MR) | • ![][osu!mania]: 1.00x |  |
+| ![Random](/wiki/shared/mods/RD.png) | Random (RD) | • ![][osu!mania]: 0.00x | • ![][osu!mania]: `Mettez un peu d'aléatoire pour pimenter votre partie.` |
+| ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Regardez l'ordinateur réaliser un score parfait` |
+| ![Cinema](/wiki/shared/mods/CM.png) | Cinema (CM) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x |  |
+| ![ScoreV2](/wiki/shared/mods/SV2.png) | ScoreV2 (SV2) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Try the future scoring system. ** UNRANKED **` |
+| ![Target Practice](/wiki/shared/mods/TP.png) | Target Practice (TP) | • ![][osu!]: 1.00x |  |
 
-## Le multiplicateur de score du mod xK
+## Multiplicateurs de score pour le mod xK 
 
-*Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu! vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.*
+*Attention : Ce tableau n'affecte que les beatmaps convertis de osu! à osu!mania pendant le jeu, et non les beatmaps spécifiques à osu!mania !*.
 
-|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+| Défaut/Modificateur | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
-| 4K | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 5K | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 |
-| 6K | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 |
-| 7K | 0.66 | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 |
+| 4K | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
+| 5K | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x |
+| 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
+| 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
-### Le mod xK avec le multiplicateur de score de la CO-OP
+### Multiplicateurs de score avec le mod *x*K en Co-op
 
-*Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu! vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.*
+*Remarque : Ce tableau n'affecte que les beatmaps converties de osu! à osu!mania pendant le jeu, et non les beatmaps spécifiques à osu!mania. En tant que tel, le mod Co-op ne donne aucune pénalité sur les beatmaps spécifiques à osu!mania.*
 
-Le Co-Op mod n'applique **aucune** pénalité sur les beatmaps spécifiquement créés pour osu!mania.
-
-|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+| Défaut/Modificateur | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
-| 4K | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 5K | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 6K | 0.74 | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 7K | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 4K | 0.82x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
+| 5K | 0.78x | 0.86x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
+| 6K | 0.74x | 0.82x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
+| 7K | 0.70x | 0.78x | 0.86x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
 
-## Les mods incompatibles
+## Annulations entre les mods
 
-*Note: Afin que ce tableau ne soit pas trop long, on considère que les relations sont réciproques.*
+*Note : Tous les mods annulent le mod Target Practice.*
 
-| Ces mods... | ...annulent ceux-ci. |
+| Ces mods... | ...annule ces mod (et vice-versa) |
 | :-- | :-- |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | ![Easy](/wiki/shared/mods/EZ.png) |
 | ![Double Time](/wiki/shared/mods/DT.png) ![Nightcore](/wiki/shared/mods/NC.png) | ![Half Time](/wiki/shared/mods/HT.png) |
-| ![No Fail](/wiki/shared/mods/NF.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) |
-| ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) | ![No Fail](/wiki/shared/mods/NF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
-| ![Relax](/wiki/shared/mods/RL.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![No Fail](/wiki/shared/mods/NF.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
-| ![Auto Pilot](/wiki/shared/mods/AP.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![No Fail](/wiki/shared/mods/NF.png) ![Relax](/wiki/shared/mods/RL.png) ![Spun Out](/wiki/shared/mods/SO.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
-| ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Spun Out](/wiki/shared/mods/SO.png) |
+| ![No Fail](/wiki/shared/mods/NF.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Autopilot](/wiki/shared/mods/AP.png) |
+| ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) | ![No Fail](/wiki/shared/mods/NF.png) ![Relax](/wiki/shared/mods/RL.png) ![Autopilot](/wiki/shared/mods/AP.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
+| ![Relax](/wiki/shared/mods/RL.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![No Fail](/wiki/shared/mods/NF.png) ![Autopilot](/wiki/shared/mods/AP.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
+| ![Autopilot](/wiki/shared/mods/AP.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![No Fail](/wiki/shared/mods/NF.png) ![Relax](/wiki/shared/mods/RL.png) ![Spun Out](/wiki/shared/mods/SO.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
+| ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Autopilot](/wiki/shared/mods/AP.png) ![Spun Out](/wiki/shared/mods/SO.png) |
 
 ### osu!mania
 
-| Ces mods... | ...annulent ceux-ci. |
+| Ces mods... | ...annule ces mod (et vice-versa) |
 | :-- | :-- |
 | ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |
 

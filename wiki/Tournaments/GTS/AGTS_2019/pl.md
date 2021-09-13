@@ -55,12 +55,10 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 ## Links
 
 - [Wątek dyskusyjny](https://osu.ppy.sh/community/forums/topics/931003)
-- [Serwer Discord AGTS](https://discord.gg/zbHVzvF)
-- [Livestream](https://www.twitch.tv/gtsosu)
-- [Challonge brackets](https://challonge.com/AGTS2019)
-- **[Arkusz Statystyk](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
-
----
+- [Serwer Discord AGTS](https://discord.gg/zbHVzvF "Discord")
+- [Livestream](https://www.twitch.tv/gtsosu "Twitch")
+- [Challonge brackets](https://challonge.com/AGTS2019 "Challonge")
+- **[Arkusz Statystyk](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing "Google Sheets")**
 
 ## Uczestnicy
 
@@ -108,8 +106,6 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 | **E** | ![][flag_KR] Korea Południowa | ![][flag_DE] Niemcy A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Wenezuela |
 | **F** | ![][flag_CA] Kanada | ![][flag_GB] ![][flag_PT] Wielka Brytania/Portugalia | ![][flag_ID] Indonezja A | ![][flag_ID] Indonezja B |
 
----
-
 ## Podium
 
 Turniej dobiegł końca i wynikiem jest następujące podium:
@@ -120,13 +116,11 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | ![Srebrna Korona](/wiki/shared/crown-silver.png "2 miejsce") | ![][flag_CA] Kanada |
 | ![Brązowa Korona](/wiki/shared/crown-bronze.png "3 miejsce") | ![][flag_RU] Rosja A |
 
----
-
 ## Mappoole
 
 ### Wielkie Finały
 
-**[Tutaj pobierzesz paczki map! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
+**[Tutaj pobierzesz paczki map! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE "MEGA")**
 
 - NoMod
   - [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
@@ -155,7 +149,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Finały
 
-**[Tutaj pobierzesz paczki map! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
+**[Tutaj pobierzesz paczki map! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ "MEGA")**
 
 - NoMod
   - [YUC'e - PUMP (KinomiCandy) \[Kinobles & Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/610546#taiko/1289147)
@@ -184,7 +178,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Półfinały
 
-**[Tutaj pobierzesz paczki map! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
+**[Tutaj pobierzesz paczki map! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs "MEGA")**
 
 - NoMod
   - [Murder King - Ben Her Gun Artik Sen (frukoyurdakul) \[Suistimal\]](https://osu.ppy.sh/beatmapsets/959186#taiko/2008180)
@@ -213,7 +207,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Ćwierćfinały
 
-**[Tutaj pobierzesz paczki map! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
+**[Tutaj pobierzesz paczki map! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA "MEGA")**
 
 - NoMod
   - [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
@@ -241,7 +235,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Faza Grupowa
 
-**[Tutaj pobierzesz paczki map! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
+**[Tutaj pobierzesz paczki map! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE "MEGA")**
 
 - NoMod
   - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
@@ -273,7 +267,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Kwalifikacje
 
-**[Tutaj pobierzesz paczki map! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
+**[Tutaj pobierzesz paczki map! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q "MEGA")**
 
 - NoMod
   - [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)
@@ -284,8 +278,6 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
   - [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN (\[I\]MMoRTal\[S\]) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/177182#taiko/426542)
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
-
----
 
 ## Wyniki Meczy
 
@@ -383,8 +375,6 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | E4 | **Scandinavia** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] Wenezuela | -win by default- |
 | E5 | Wenezuela ![][flag_VE] | 0 | **5** | ![][flag_DE] **Niemcy A** | -win by default- |
 | D2 | **Brazylia** ![][flag_BR] | **5** | 3 | ![][flag_US] Stany Zjednoczone A | [#1](https://osu.ppy.sh/community/matches/54181034) |
-
----
 
 ## Zasady
 
@@ -496,34 +486,34 @@ All-star to zabawne wydarzenie, które odbędzie się w ten sam weekend, co Wiel
    - Wymiana zawodników podczas meczu jest dozwolona bez ograniczeń.
    - Te same zasade, co normalnie kiedy gracz się rozłączy.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
+[flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_ES]: /wiki/shared/flag/ES.gif "España"
+[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
+[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japón"
+[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
+[flag_MX]: /wiki/shared/flag/MX.gif "México"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malasia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
+[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Federación Rusa"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suecia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TH]: /wiki/shared/flag/TH.gif "Tailandia"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwán"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

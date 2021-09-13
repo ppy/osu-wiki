@@ -191,7 +191,7 @@ The entirety of this skin set is gameplay relevant. Please note that the sizes o
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
 | scorebar-bg.png | should be included together with scorebar-colour(-n).png | required | - |
-| scorebar-colour(-n).png | should be included together with scorebar-bg.png | required | - |
+| scorebar-colour(-n).png | should be included together with scorebar-bg.png | required | maximum 120px tall |
 | scorebar-ki.png | - | required | - |
 | scorebar-kidanger.png | - | required | - |
 | scorebar-kidanger2.png | - | required | - |

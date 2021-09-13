@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
+---
+
 # Peraturan
 
 Peraturan-peraturan berikut ini merupakan pedoman dasar yang kami terapkan di dalam lingkungan osu! untuk menjaga agar komunitas osu! senantiasa menjadi tempat yang menyenangkan dan ramah bagi semua orang.

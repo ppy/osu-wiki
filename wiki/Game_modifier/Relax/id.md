@@ -36,13 +36,13 @@ Mod **Relax** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujuan 
 
 Pada [osu!](/wiki/Game_mode/osu!), dengan menggunakan mod Relax, pemain hanya perlu untuk memidik [hit object](/wiki/Hit_object); semua urusan tapping hit object akan secara otomatis dilakukan oleh osu!. Mod ini membuat pemain mustahil untuk gagal pada suatu map di seluruh mode-mode game.
 
-Mod Relax juga mematikan antarmuka permainan, memyembunyikan tampilan [skor](/wiki/Score), [kombo](/wiki/Beatmapping/Combo), dan miss, antarmuka permainan bisa dihidupkan kembali dengan menekan `Shift`+`Tab`. Selain itu, nilai putaran per menit (SPM) juga akan digandakan dua kali lipat, mengizinkan pemain untuk memutar lebih cepat dan meraih skor yang lebih tinggi daripada play yang biasa.
+Mod Relax juga mematikan antarmuka permainan, menyembunyikan tampilan [skor](/wiki/Score), [kombo](/wiki/Beatmapping/Combo), dan miss, antarmuka permainan bisa dihidupkan kembali dengan menekan `Shift`+`Tab`. Selain itu, nilai putaran per menit (SPM) juga akan digandakan dua kali lipat, mengizinkan pemain untuk memutar lebih cepat dan meraih skor yang lebih tinggi daripada play yang biasa.
 
 ### osu!taiko
 
-Pada [osu!taiko](/wiki/Game_mode/osu!taiko), mod Relax menghapus keharusan untuk mengetuk note dengan warna yang tepat: warna yang tepat pada sebuah not akan tetap diketuk terlepas dari warna apapun itu. Mesikupun warna note-note tetap tidak akan berubah.
+Pada [osu!taiko](/wiki/Game_mode/osu!taiko), mod Relax menghapus keharusan untuk mengetuk note dengan warna yang tepat: warna yang tepat pada sebuah not akan tetap diketuk terlepas dari warna apapun itu. Meskipun warna note-note tetap tidak akan berubah.
 
-Selain dari yang telah disebutkan di atas, Mod Relax juga akan mempermudah timing untuk mengumpulkan slider tick pada drumroll, sementara denden bisa diselesaikan dengan warna urutan apapun daripada alternating pada urutan warna. Maskot juga akan dihilangkan.
+Selain dari yang telah disebutkan di atas, Mod Relax juga akan mempermudah timing untuk mengumpulkan slider tick pada drumroll, sementara denden bisa diselesaikan dengan warna urutan apapun daripada diharuskan untuk alternating pada urutan warna yang benar. Maskot juga akan dihilangkan.
 
 Tidak seperti osu!, mod Relax di osu!taiko *akan* menampilkan skor, kombo, dan miss.
 

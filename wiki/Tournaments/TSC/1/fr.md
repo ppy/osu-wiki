@@ -48,8 +48,8 @@ Le Taiko Suiji Cup était géré par divers membres de la communauté d'osu!taik
 ## Liens
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/782877)
-- [Livestream](https://www.twitch.tv/osutaikolive)
-- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4mX-oPxTW6kHLxYF-dk3dYqRNI0c9KnpGO9VZQIR9HKjB2xIM0JrZjsaknY0drLfVk55wjxf9a2M5/pubhtml)**
+- [Livestream](https://www.twitch.tv/osutaikolive "Twitch")
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4mX-oPxTW6kHLxYF-dk3dYqRNI0c9KnpGO9VZQIR9HKjB2xIM0JrZjsaknY0drLfVk55wjxf9a2M5/pubhtml "Google Sheets")**
 
 ## Participants
 
@@ -102,7 +102,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Grandes finales
 
-**Download the mappack here! (80 MB) - [MEGA](https://mega.nz/#!MoNQDAbA!0ca6h-0hffFuWbtCLC-h63PM9qfb48KbvSsD5lpMteY) - [Direct Link](https://htfarmingiscool.s-ul.eu/9odc3wed)**
+**Download the mappack here! (80 MB) - [MEGA](https://mega.nz/#!MoNQDAbA!0ca6h-0hffFuWbtCLC-h63PM9qfb48KbvSsD5lpMteY "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/9odc3wed "s-ul")**
 
 #### Mappool A
 
@@ -137,7 +137,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Finales
 
-**Download the mappack here! (80 MB) - [MEGA](https://mega.nz/#!0kkBGSJR!hekHIkKaHshq1h8voFX-uLacFuqGrF6pmEdIOSTbpJQ) - [Direct Link](https://htfarmingiscool.s-ul.eu/C8HIStSC)**
+**Download the mappack here! (80 MB) - [MEGA](https://mega.nz/#!0kkBGSJR!hekHIkKaHshq1h8voFX-uLacFuqGrF6pmEdIOSTbpJQ "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/C8HIStSC "s-ul")**
 
 #### Mappool A
 
@@ -172,7 +172,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Demi-finales
 
-**Télécharge le mappack ici! (92 MB) - [MEGA](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE) - [Direct Link](https://htfarmingiscool.s-ul.eu/T52925dk)**
+**Télécharge le mappack ici! (92 MB) - [MEGA](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/T52925dk "s-ul")**
 
 #### Mappool A
 
@@ -194,7 +194,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 #### Mappool B
 
 - Challenge
-  - [Verdammt - Hitori botchi no Mao (rezi888) \[Lowermost (TWC Ver.)\]](https://puu.sh/BvQaX/4cbcdb17de.osz)
+  - [Verdammt - Hitori botchi no Mao (rezi888) \[Lowermost (TWC Ver.)\]](https://puu.sh/BvQaX/4cbcdb17de.osz "puush")
   - [Camellia feat. Nanahira - PAPAYAPA BASS (Nwolf) \[KATKATDONKAT\]](https://osu.ppy.sh/beatmapsets/584714#taiko/1237040)
 - DoubleTime
   - [Submatik & Phil ft. Holly Drummond - One (Virtual Riot 2017 Remix) (Nerova Guiz GX) \[N/AT\]](https://osu.ppy.sh/beatmapsets/846862#taiko/1771063)
@@ -207,7 +207,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Quarts-de-finale
 
-**[Télécharge le mappack ici! (70 MB)](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE)**
+**[Télécharge le mappack ici! (70 MB)](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE "MEGA")**
 
 #### Mappool A
 
@@ -242,7 +242,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### 16èmes de finale
 
-**[Télécharge le mappack ici! (97 MB)](https://mega.nz/#!55tSEYbI!MgVAYh3na4eClolUt6bFsqsMdrzaF2Vt5ZX_ugcdQss)**
+**[Télécharge le mappack ici! (97 MB)](https://mega.nz/#!55tSEYbI!MgVAYh3na4eClolUt6bFsqsMdrzaF2Vt5ZX_ugcdQss "MEGA")**
 
 #### Mappool A
 
@@ -277,7 +277,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### 32èmes de finale
 
-**[Télécharge le mappack ici! (78 MB)](https://mega.nz/#!E5cBCASB!WJ3873xVVrppbGIHu70TluCBgJX97Xb1bdL2Ut_cKh8)**
+**[Télécharge le mappack ici! (78 MB)](https://mega.nz/#!E5cBCASB!WJ3873xVVrppbGIHu70TluCBgJX97Xb1bdL2Ut_cKh8 "MEGA")**
 
 #### Mappool A
 
@@ -469,7 +469,7 @@ Dimanche, 2 Septembre 2018:
 - Sur les maps FreeMod, au moins deux joueurs de chaque équipe doivent utiliser Hidden, HardRock, ou les deux.
 - Hidden et HardRock sont autorisés mais ne sont pas obligatoires sur les TieBreakers.
 - Seulement une personne de chaque seed est autorisé à jouer dans la salle à tout moment. C'est-à-dire une équipe peut avoir seulement 1 seed A, 1 seed B et 1 seed C.
-- Une fois que le choix de la map a été verrouillé, les joueurs ont 3 minutes pour se préparer. L'arbitre va commencer le match quand tous les joueurs sont prêts. Si les 3 minutes sont écoulées, l'arbitre va forcer le début du match avec la commande !mp start 15 et le match commencera avec les personnes qui sont prêtes à ce moment dans la salle.
+- Une fois que le choix de la map a été verrouillé, les joueurs ont 3 minutes pour se préparer. L'arbitre va commencer le match quand tous les joueurs sont prêts. Si les 3 minutes sont écoulées, l'arbitre va forcer le début du match avec la commande `!mp start 15` et le match commencera avec les personnes qui sont prêtes à ce moment dans la salle.
 - Le gagnant de la map est déterminé par l'équipe avec le plus grand score.
 - Dans le cas d'une déconnexion, un rematch va être effectué seulement si la déconnexion est arrivée dans les 30 premières secondes de la map. Cela peut être déterminé par le lien mp. Si un joueur déconnecte après que 30 secondes de map sont passées, leur score ne va pas être pris en compte.
 

@@ -50,7 +50,7 @@ Pour chaque participant :
 
 ## Retransmission des matchs
 
-La plupart des matchs ont été diffusés et sont disponibles pour une lecture différée sur Twitch [à cette adresse](https://www.twitch.tv/osulive/profile/pastBroadcasts).
+La plupart des matchs ont été diffusés et sont disponibles pour une lecture différée sur Twitch [à cette adresse](https://www.twitch.tv/osulive/profile/pastBroadcasts "Twitch").
 
 ## Équipes
 
@@ -110,7 +110,7 @@ Les capitaines sont représentés en gras.
 
 ## Résultats
 
-Consultez le [tableau des résultats et des statistiques](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web) pour tous les détails.
+Consultez le [tableau des résultats et des statistiques](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web "Google Sheets") pour tous les détails.
 Le graphique suivant montre les équipes qui se sont qualifiées pour les huitièmes de finale :
 
 ![OWC 2013 brackets](img/bracket.jpg)
@@ -145,7 +145,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 | ![][flag_NO] **Norway** | **4** - 1 | Chile ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/2612443) |
 | ![][flag_AR] **Argentina** | **4** - 0 | Singapore ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/2614072) |
 | ![][flag_AT] **Austria** | **4** - 0 | Philippines ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/2614095) |
-| ![][flag_TH] **Thailand** | **4** - 1 | Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/2618739) [#A](https://puu.sh/5dh2n/b90be32a79.jpg) |
+| ![][flag_TH] **Thailand** | **4** - 1 | Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/2618739) [#A](https://puu.sh/5dh2n/b90be32a79.jpg "puush") |
 | ![][flag_HK] **Hong Kong** | **4** - 0 | Venezuela ![][flag_VE] | *Win by default* |
 | ![][flag_RU] **Russian Federation** | **4** - 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/2617238) |
 | ![][flag_US] **United States** | **4** - 1 | Latvia ![][flag_LV] | [#1](https://osu.ppy.sh/community/matches/2621519) |
@@ -206,7 +206,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 | ![][flag_JP] Japan | 2 - **5** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/2962477) |
 | ![][flag_KR] **Korea** | **5** - 2 | Austria ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/2964278) |
 | ![][flag_CN] China | 4 - **5** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/2966197) |
-| ![][flag_GB] **United Kingdom** | **5** - 3 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/2969031) [#A](https://puu.sh/5rT5F/9b2a7bfa74.jpg) |
+| ![][flag_GB] **United Kingdom** | **5** - 3 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/2969031) [#A](https://puu.sh/5rT5F/9b2a7bfa74.jpg "puush") |
 
 ### Demi-finales
 
@@ -235,7 +235,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 
 ### Poules
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase](https://www.mediafire.com/?jn0c8p6wqfrtfhb "MediaFire")**
 
 - NoMod
   - [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w) \[YuruYuri\]](https://osu.ppy.sh/beatmapsets/45316#osu/153418)
@@ -269,7 +269,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 
 ### Huitièmes de finale
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)** (attention : ce pack ne reflète pas les derniers changements dans le choix des beatmaps ; en l'occurrence, *Justice Breaker* et *Saigetsu* n'y sont pas présents)
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar "MediaFire")** (attention : ce pack ne reflète pas les derniers changements dans le choix des beatmaps ; en l'occurrence, *Justice Breaker* et *Saigetsu* n'y sont pas présents)
 
 - NoMod
   - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/43248#osu/135804)
@@ -303,7 +303,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 
 ### Quarts de finale
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar "MediaFire")**
 
 - NoMod
   - [xi - Time files (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/49843#osu/153484)
@@ -337,7 +337,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 
 ### Demi-finales
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase](https://www.mediafire.com/?pn3yxce7m6v4j13)**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase](https://www.mediafire.com/?pn3yxce7m6v4j13 "MediaFire")**
 
 - NoMod
   - [CON - Cruel Clocks (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76882#osu/216272)
@@ -371,7 +371,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 
 ### Finales
 
-**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
+**[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar "MediaFire")**
 
 - NoMod
   - [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
@@ -440,7 +440,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
    1. La taille d'une équipe ne peut dépasser 8 joueurs.
    2. Le responsable d'une équipe, le *capitaine*, doit être spécifié.
 2. Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
-3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
+3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform "Google Forms"). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
    - Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/home/messages/users/71366).
 4. Tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés.
 5. 32 équipes maximum sont autorisées à participer. L'ordre des inscriptions suit la règle du « premier arrivé, premier servi ».
@@ -476,7 +476,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
 2. L'arbitre devra quitter la salle pour permettre la venue du 8ème joueur, mais sera tout de même connecté à la salle de manière externe. Il regardera les 8 joueurs jouer simultanément grâce à un logiciel spécial.
 3. Les joueurs ont la possibilité de s'échauffer sur une map de leur choix avant le début de la partie.
-4. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande « !roll » dans le chat ; le plus grand nombre l'emporte.
+4. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande `!roll` dans le chat ; le plus grand nombre l'emporte.
    1. Les capitaines peuvent choisir autant de beatmaps des catégories NoMod et FreeMod qu'ils le souhaitent.
    2. Des limitations s'imposent concernant les autres catégories. Chaque capitaine ne peut sélectionner qu'une beatmap de chaque catégorie durant le match.
    3. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker doit être joué.
@@ -512,35 +512,35 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 
 - [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BG]: /wiki/shared/flag/BG.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
+[flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgarie"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonie"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_LV]: /wiki/shared/flag/LV.gif "Lettonie"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Format Berkas Osu!
 
 ## osu!-specific file format

@@ -288,7 +288,7 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 *Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan skor yang berlaku pada masing-masing mode permainan, harap kunjungi laman [Score](/wiki/Score) atau laman masing-masing mode permainan.*
 
-*Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan akurasi yang berlaku pada masing-masing mode permainan, harap kunjungi laman [Accuracy](/wiki/Accuracy) atau laman masing-masing mode permainan.*
+*Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan akurasi yang berlaku pada masing-masing mode permainan, harap kunjungi laman [Accuracy](/wiki/Gameplay/Accuracy) atau laman masing-masing mode permainan.*
 
 ### Peringkat
 

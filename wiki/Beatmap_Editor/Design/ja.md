@@ -2,7 +2,7 @@
 
 ![Design tab](img/SE_base.jpg "Design tab")
 
-**ストーリーボードエディタ** は[エディタ内にある機能で](/wiki/Beatmap_Editor)、Designタブに存在していて、簡単な[ストーリーボード](/wiki/Storyboards)(通称SB)の作成が可能です。より細かな設定や複雑な作業を必要とする[ストーリーボードスクリプトに入る前にここで基本操作について抑えておきましょう](/wiki/Storyboard_Scripting)。
+**ストーリーボードエディタ** は[エディタ内にある機能で](/wiki/Beatmap_Editor)、Designタブに存在していて、簡単な[ストーリーボード](/wiki/Storyboard)(通称SB)の作成が可能です。より細かな設定や複雑な作業を必要とする[ストーリーボードスクリプトに入る前にここで基本操作について抑えておきましょう](/wiki/Storyboard/Scripting)。
 
 複雑なSBを作成する前に適当な画像を使用して、どういったコマンドがどのように動作するのかを確認するのがよいでしょう。それをすることであなたは利用方法を覚え、よりSB作成をスムーズにできるようになれるはずです。
 
@@ -140,10 +140,10 @@
 ## 制限に関して
 
 - サウンドエフェクトはサポートされていません。これはプレイヤーの注意を逸らしてしまう危険性もあるので、BATや熟練者の指導に従うとよいでしょう。
-- [loopあるいは](/wiki/Storyboard_Scripting/Compound_Commands)[triggerはサポートしていません](/wiki/Storyboard_Scripting/Compound_Commands)。
-- [Move-X](/wiki/Storyboard_Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting_Commands) コマンドは存在しません。
+- [loopあるいは](/wiki/Storyboard/Scripting/Compound_Commands)[triggerはサポートしていません](/wiki/Storyboard/Scripting/Compound_Commands)。
+- [Move-X](/wiki/Storyboard/Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting_Commands) コマンドは存在しません。
 - 画像の座標は*常に* 320,240になります。座標を指定するためにMoveコマンドを使う必要があるでしょう。ただしこれは強制ではありません。
-  - [ストーリーボードスクリプトを行っていた場合はデザインで各オブジェクトに割り当てられた](/wiki/Storyboard_Scripting)*特殊なコマンド*を読み込み直す必要があります。
+  - [ストーリーボードスクリプトを行っていた場合はデザインで各オブジェクトに割り当てられた](/wiki/Storyboard/Scripting)*特殊なコマンド*を読み込み直す必要があります。
 
 ## ソース
 

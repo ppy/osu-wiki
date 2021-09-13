@@ -23,7 +23,6 @@ These difficulty names are the most commonly used for each game mode.
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
 ### osu!catch
 
@@ -190,3 +189,4 @@ The following difficulty names are common alternatives and additions to the defa
 - ![](/wiki/shared/diff/hard-o.png) Hyper: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
 - ![](/wiki/shared/diff/expert-o.png) Extra: it can used as a substitute for Expert.
 - ![](/wiki/shared/diff/expertplus-o.png) Extreme: it can be used to represent a more difficult Expert.
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni: it can be used to represent a more difficult Inner Oni.
