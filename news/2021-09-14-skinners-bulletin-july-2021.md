@@ -52,7 +52,7 @@ Another fascinating detail can be spotted on the animated `menu-back.png` button
 
 That said, to admire the beauty of this masterpiece first-hand, all it takes is downloading the skin by yourself. But before that, having a look at the showcase video below wouldn't hurt:
 
-<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/4DGmaRT-FSo" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/FhY1ikQljiU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Arknights Ch'en v2.0
 
@@ -64,7 +64,7 @@ Jumping into the playthrough essentially feels like you're starting on a covert 
 
 To summarize, Arknights Ch'en v2.0 is an exceptional skin that bridges the gap between osu! and the Arknights universe professionally, which is just a click away. Enough words uttered, it is time to watch the showcase video and have a feast for the eyes:
 
-<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/neufphnlgGo" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/4DGmaRT-FSo" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Raiden Shogun - Baal
 
@@ -76,7 +76,7 @@ Inside the circle-clicking boundaries, the skin remains relatively player-friend
 
 Last but not least, Raiden Shogun - Baal is one of the perfect examples of how character-orientation and minimalism should be mixed into one. Nonetheless, we are but the messenger, and deciding on the skin that goes well with your taste falls onto your hands, so give its showcase video a go before making a decision:
 
-<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/FhY1ikQljiU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/neufphnlgGo" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 And that wraps up our skin showcases for July 2021! We'll come back with more of them in the forthcoming issues, but until then, have a look around the rest of the bulletin to enlighten yourself with everything skinning.
 
