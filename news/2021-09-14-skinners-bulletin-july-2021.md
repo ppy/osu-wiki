@@ -28,7 +28,7 @@ As for the creators of these skins, a total of **41** skinners contributed via t
 
 ![New/Returning Graph](/wiki/shared/news/2021-09-14-skinners-bulletin-july-2021/graph-skinners.png)
 
-In place of the dessert, we would like to share some interesting albeit trivial facts with you: In this month, the highest number of skins released by a single person is **2**, and the number of skinners published that many skins are no more than **4**, leading up to average **1.1** skins per skinner overall.
+In place of the dessert, we would like to share some interesting albeit trivial facts with you: In this month, the highest number of skins released by a single person is **2**, and the number of skinners who published that many skins are no more than **4**, leading up to an average of **1.1** skins per skinner overall.
 
 ## Skin Showcase
 
@@ -58,7 +58,7 @@ That said, to admire the beauty of this masterpiece first-hand, all it takes is 
 
 Created with care by [Inflique](https://osu.ppy.sh/users/13865585), [Arknights Ch'en v2.0](https://osu.ppy.sh/community/forums/topics/1365860) ensures you a cyberpunk-esque gaming experience featuring Ch'en from the popular mobile game Arknights. Presenting you with a futuristic song selection panel, the skin makes you feel as if you're in a cockpit of a high-tech spaceship.
 
-Even though just a cursory look might be sufficient to impress many skin curators, the real deal with this skin is undoubtedly the details. Further enhancing the essence of its theme, each and every corner of Arknights Ch'en is full of flavour texts, such as the alert message found on the results screen or the faction logo put in place of the game mode selection button. Moreover, the menu sounds carry out the futuristic theme and contain the character voice lines of Ch'en, maintaining the feeling of playing Arknights by clicking the circles. Alongside everything else, the colour choices fit the environment perfectly, ensures you a pleasant gaming session inside an exosuit jumped out of a typical sci-fi movie.
+Even though just a cursory look might be sufficient to impress many skin curators, the real deal with this skin is undoubtedly the details. Further enhancing the essence of its theme, each and every corner of Arknights Ch'en is full of flavour texts, such as the alert message found on the results screen or the faction logo put in place of the game mode selection button. Moreover, the menu sounds carry out the futuristic theme and contain the character voice lines of Ch'en, maintaining the feeling of playing Arknights by clicking the circles. Alongside everything else, the colour choices fit the environment perfectly, ensuring you a pleasant gaming session inside an exosuit jumped out of a typical sci-fi movie.
 
 Jumping into the playthrough essentially feels like you're starting on a covert mission, especially given the skip button animation behaving like a loading screen. Additionally, pause and fail menus carry this effect further, featuring a massive text that reads "MISSION STILL ONGOING" and "AN ERROR OCCURRED" right behind the options, respectively. In-game elements seem to have preferred minimalism over flamboyance, thereby appealing to the player base to a large extent, yet still manages to keep up with the overall theme. Provided by [Jianshyy](https://osu.ppy.sh/users/9178563), fully skinned osu!mania game mode is included in the package alongside the osu! mode as well.
 
@@ -82,13 +82,13 @@ And that wraps up our skin showcases for July 2021! We'll come back with more of
 
 ## News & Tips
 
-Curious about what is going on with the skinning community? Read all about it right away!
+Curious about what is going on within the skinning community? Read all about it right away!
 
 ### Completed Skins Compendium Rework
 
 Previously consisting of a long list of skins grouped under 5 prominent categories, the [Completed Skins Compendium](https://osu.ppy.sh/community/forums/topics/686664) has been pulled out of forums and replaced by [a fully operational website](https://compendium.skinship.xyz/ "skinship") on its own. Thanks to its advanced sorting options coupled with the search bar, the new compendium ensures that none of the skins require browsing further than skin-deep!
 
-Although the website is being hosted outside of osu!, the content is based on the [Completed Skins subforum](https://osu.ppy.sh/community/forums/109), meaning that the skins should be wholly original and safe-for-work as per the [rules of the Skinning forum](https://osu.ppy.sh/community/forums/topics/318193).
+Although the website is being hosted outside of osu!, the content is based on the [Completed Skins subforum](https://osu.ppy.sh/community/forums/109), meaning that the skins are wholly original and safe-for-work as per the [rules of the Skinning forum](https://osu.ppy.sh/community/forums/topics/318193).
 
 If you want your skin to be hosted in the new compendium, all you need to do is submitting your skin in the [Completed Skins Queue thread](https://osu.ppy.sh/community/forums/topics/686672). After that, your skin will be moved to the Completed Skins subforum and thereby added to the compendium.
 
