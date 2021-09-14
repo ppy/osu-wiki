@@ -96,7 +96,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ![][flag_KR] South Korea | ![][flag_RU] Russian Federation | ![][flag_US] United States |
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ![][flag_US] United States | ![][flag_BR] Brazil | ![][flag_TW] Taiwan |
-| [3 Digit World Cup 2021](3WC/2021) | 2020-03-16 | 2020-05-31 | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_US] United States |
+| [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_US] United States |
 
 #### Aus/NZ osu!standard Tournament
 
