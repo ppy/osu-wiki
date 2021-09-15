@@ -10,7 +10,7 @@
 
 ![pippi](img/pippi.png "pippi")
 
-pippi（注意开头是小写 "p"）是 osu! 游戏模式的吉祥物，于 2008 年 7 月加入。她在 osu!taiko 模式中也被称为 pippidon。同时，她也曾作为 NPC 出现于 [病娇模拟器](https://yanderesimulator.com) 中。她的初始艺术形象由 [Sarumaru](https://osu.ppy.sh/users/9427) 设计，pippidon 艺术形象由 [crystalsuicune](https://osu.ppy.sh/users/9974) 设计，而现在上线的艺术形象则是由 [Daru](https://osu.ppy.sh/users/32480) 设计。
+pippi（注意开头是小写“p”）是 osu! 游戏模式的吉祥物，于 2008 年 7 月加入。她在 osu!taiko 模式中也被称为 pippidon。同时，她也曾作为 NPC 出现于 [病娇模拟器](https://yanderesimulator.com) 中。她的初始艺术形象由 [Sarumaru](https://osu.ppy.sh/users/9427) 设计，pippidon 艺术形象由 [crystalsuicune](https://osu.ppy.sh/users/9974) 设计，而现在的艺术形象则是由 [Daru](https://osu.ppy.sh/users/32480) 设计。
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
@@ -18,7 +18,7 @@ pippi（注意开头是小写 "p"）是 osu! 游戏模式的吉祥物，于 2008
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu 是 osu!catch 游戏模式的吉祥物，于 2014 年 6 月 22 日加入。他出生于 2000 年 4 月 10 日，身高 172 厘米，体重 65 千克。他现在的形象由 [Thievley](https://osu.ppy.sh/users/4717672) 设计，而他最初的艺术形象和接水果小人是由 [ztrot](https://osu.ppy.sh/users/6347) 设计。而 Daru 设计了 comboburst 时出现在屏幕上的形象。
+Yuzu 是 osu!catch 游戏模式的吉祥物，于 2014 年 6 月 22 日加入。他出生于 2000 年 4 月 10 日，身高 172 厘米，体重 65 千克。现在的形象由 [Thievley](https://osu.ppy.sh/users/4717672) 设计，而最初的艺术形象和接水果小人是由 [ztrot](https://osu.ppy.sh/users/6347) 设计。Daru 设计了他在 comboburst 时出现在屏幕上的形象。
 
 ### ![osu!mania icon](/wiki/shared/mode/mania.png) Mani & Mari
 
@@ -26,9 +26,9 @@ Yuzu 是 osu!catch 游戏模式的吉祥物，于 2014 年 6 月 22 日加入。
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Mani 和 Mari 是由 [xiemon](https://osu.ppy.sh/users/5203667) 设计，在 [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) 中脱颖而出，并于 2020 年 9 月 18 日成为 osu!mania 模式的官方吉祥物。Mani 和 Mari 是互相看不惯对方，但又不可否认地很相似的一对双胞胎。
+Mani 和 Mari 由 [xiemon](https://osu.ppy.sh/users/5203667) 设计，在 [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) 中脱颖而出，并于 2020 年 9 月 18 日成为 osu!mania 模式的官方吉祥物。Mani 和 Mari 是互相看不惯对方，但又不可否认地很相似的一对双胞胎。
 
-Mani 是个特立独行的人，他总是渴望探索新花样和新事物。同时，他的妹妹 Mari（以前又被叫做 Maria）是一个传统、死板的理想主义者，同时也很喜欢成为聚光灯下的焦点。这对双胞胎的性格截然不同，很难相处。
+Mani 是个特立独行的人，他总是渴望探索新花样和新事物。同时，他的妹妹 Mari（以前又被叫做 Maria）是一个传统、保守的理想主义者，也希望成为聚光灯下的焦点。因性格迥异，他们之间水火不相容。
 
 ### ![osu!taiko icon](/wiki/shared/mode/taiko.png) Mocha
 
@@ -46,7 +46,7 @@ Mocha 是 osu!taiko 游戏模式的官方吉祥物。她最初由 [Crowie](https
 
 > 他是应援团中的热血头儿，有一颗善良的心，总是为周围陷入困难与窘境的人们加油打劲！
 
-一本木龍太（Ryūta Ippongi）曾是 osu!catch 模式中的接水果小人，于 2008 年加入 osu!，但于 2014 年被 [Yuzu](#-yuzu) 替代。他的艺术形象由 [iNiS 公司](https://en.wikipedia.org/wiki/INiS) 设计，并曾作为老版官方网页的一部分。同时，他也曾在 [病娇模拟器](https://yanderesimulator.com) 中作为 NPC 出现。
+一本木龍太（Ryūta Ippongi）曾是 osu!catch 模式中的接水果小人，于 2008 年加入 osu!，但于 2014 年被 [Yuzu](#-yuzu) 替代。他的艺术形象由 [iNiS 公司](https://en.wikipedia.org/wiki/INiS) 设计，并曾作为老版官方网页的一部分。他也曾在 [病娇模拟器](https://yanderesimulator.com) 中作为 NPC 出现。
 
 龙太也曾出现在 [LuigiHann](https://osu.ppy.sh/users/1079) 设计的皮肤 [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357) 中。
 
@@ -64,7 +64,7 @@ Mocha 是 osu!taiko 游戏模式的官方吉祥物。她最初由 [Crowie](https
 
 ![Don](img/Don.png "Don")
 
-> Don 是游戏 [太鼓达人](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) 系列的主角。他是一只有白色鼓边、红橙色鼓面、淡蓝色身体、四只脚的太鼓。Don 的梦想是把太鼓的美妙带给全世界。在他搬到和田屋三年之后，城镇中无人不晓他的名号。他食量惊人，经常花重金买许多好吃的，以至于和田屋有时候都负担不起他的消费。他的口癖是经常在句尾带上一句 "Ta-Don"，意为敲击鼓面的声音。
+> Don 是游戏 [太鼓达人](https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E4%B9%8B%E9%81%94%E4%BA%BA%E7%B3%BB%E5%88%97) 系列的主角。他是一只有白色鼓边、红橙色鼓面、淡蓝色身体、四只脚的太鼓。Don 的梦想是把太鼓的美妙带给全世界。在他搬到和田屋三年后，城镇中无人不晓他的名号。他食量惊人，经常花重金买许多好吃的，以至于和田屋有时候都负担不起他的消费。他的口癖是经常在句尾带上一句 "Ta-Don"，意为敲击鼓面的声音。
 
 和田どん（Wada Don），又称为 Don 或者咚酱，曾于 2008 年 5 月加入 osu!，并作为 osu!taiko 的吉祥物。他有 48 厘米高，体重却超过 100 千克。他在 osu!taiko 默认皮肤中出现。他的艺术形象由 Yukiko Yokoo（横尾有希子）设计，由 Narahashi Miki（楢橋 美紀）配音。
 
