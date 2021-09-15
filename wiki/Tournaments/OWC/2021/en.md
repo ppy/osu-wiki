@@ -199,5 +199,5 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 [flag_IN]: /wiki/shared/flag/IN.gif "India"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
