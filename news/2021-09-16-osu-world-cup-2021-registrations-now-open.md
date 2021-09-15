@@ -22,12 +22,13 @@ For more details, refer to the **[osu! World Cup 2021 wiki article](/wiki/Tourna
 | Round of 16 | Oct 30 & Oct 31 |
 | Quarterfinals | Nov 06 & Nov 07 |
 | Semifinals | Nov 13 & Nov 14 |
-| Finals | Nov 20 & Nov 21|
+| Finals | Nov 20 & Nov 21 |
 | Grand Finals | Nov 27 & Nov 28 |
 
 ## Prizes
 
 The osu! World Cup 2021 offers a $5,000 prize pool, along with limited edition goods!
+
 - **1st:** 50% of the prize pool, exclusive limited-edition merch, profile badge, "osu! Champion" user title for one year
 - **2nd:** 34% of the prize pool, exclusive limited-edition merch, profile badge
 - **3rd:** 16% of the prize pool, exclusive limited-edition merch, profile badge
