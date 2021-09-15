@@ -41,7 +41,7 @@ Apabila anggota layanan dukungan kami memintamu untuk memberikan berkas-berkas l
 
 1. Buka osu!.
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `CTRL` + `O`.
-3. Ketik `release` pada kolom pencarian (*quick-search bar*) yang muncul. Kamu akan melihat versi osu! yang sedang kamu gunakan
+3. Ketik `release` pada kolom pencarian (*quick-search bar*) yang muncul. Kamu akan melihat versi osu! yang sedang kamu gunakan.
 4. Pastikan kamu sedang menggunakan osu! versi `Eksperimental (Cutting Edge)`.
 5. Apabila pada langkah sebelumnya kamu mengganti versi osu! yang kamu gunakan, *restart* osu! melalui tombol yang muncul pada sisi bawah layar.
 6. Klik menu `Options` dan pilih `Buka folder osu!`.
