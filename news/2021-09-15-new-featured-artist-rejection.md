@@ -8,7 +8,7 @@ Treat yourself to the latest addition to our Featured Artist catalogue: **reject
 
 ![](https://assets.ppy.sh/artists/199/header.jpg)
 
-Exemplifying the core of the doujin rhythm game music, **rejection** is a DJ/producer whose songs span from instrumental masterpieces to vocal works featuring notable singers in the doujin scene like *Such*, [*Aitsuki Nakuru*](https://osu.ppy.sh/beatmaps/artists/127), and *mami*. No matter what you're looking for, **rejection** has you covered.
+Exemplifying the core of doujin rhythm game music, **rejection** is a DJ/producer whose songs span from instrumental masterpieces to vocal works featuring notable singers in the doujin scene like *Such*, [*Aitsuki Nakuru*](https://osu.ppy.sh/beatmaps/artists/127), and *mami*. No matter what you're looking for, **rejection** has you covered.
 
 **14** songs are up for grabs from [**rejection**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/199), most of which come with a game-size 2:00 version supplied by the artist specifically for osu!. Thanks for being cool, **rejection**.
 
