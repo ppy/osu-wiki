@@ -75,7 +75,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 9. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
    - This might change depending on the amount of registrations.
 10. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
-   - The minimum amount of required players is considered as the amount of players needed to play a beatmap without any vacant spots on the lobby (i.e. 4 participants must be present for the match to begin).
+    - The minimum amount of required players is considered as the amount of players needed to play a beatmap without any vacant spots on the lobby (i.e. 4 participants must be present for the match to begin).
 11. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
 12. Exchanging players between games is allowed without limitations.
 13. Beatmaps must not be reused in the same match, except for rematches.
@@ -83,7 +83,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 15. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
 16. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
 17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
-   - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
+    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
 18. Penalties for violating the tournament rules include, but are not limited to:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
