@@ -26,7 +26,7 @@ Check out all these maps from the most popular **rejection** song on osu!:
 
 - [osu! map](https://osu.ppy.sh/beatmapsets/1286349) hosted by [Yukiyo](https://osu.ppy.sh/users/4541873) (featured in the video!)
 - [osu! map](https://osu.ppy.sh/beatmapsets/1241769) hosted by [Livia](https://osu.ppy.sh/users/1298844)
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1104277) hosted by [Cychlorin](https://osu.ppy.sh/users/6921736) (first ranked map of this song!)
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1104277) hosted by [Cychloryn](https://osu.ppy.sh/users/6921736) (first ranked map of this song!)
 - [osu!catch map](https://osu.ppy.sh/beatmapsets/1129636) hosted by [-MomoX](https://osu.ppy.sh/users/2150415)
 - [osu!taiko map of Mameyudoufu's remix](https://osu.ppy.sh/beatmapsets/1190233) by [KappuChinooo](https://osu.ppy.sh/users/9582525)
 
