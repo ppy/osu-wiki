@@ -31,7 +31,7 @@ Check out all these maps from the most popular **rejection** song on osu!:
 - [osu!taiko map of Mameyudoufu's remix](https://osu.ppy.sh/beatmapsets/1190233) by [KappuChinooo](https://osu.ppy.sh/users/9582525)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/199/Songs/rejection%20-%20Signal%20%28feat.%20Such%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Calling
@@ -39,7 +39,7 @@ Check out all these maps from the most popular **rejection** song on osu!:
 Brag about your tech skills while getting 72% acc on [this osu! map](https://osu.ppy.sh/beatmapsets/1458359) hosted by [Realazy](https://osu.ppy.sh/users/918297)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/199/Songs/rejection%20-%20Calling.mp3" type="audio/mpeg">
 </audio>
 
 ### The Way of Adventure (feat. Kusaka Akira)
@@ -47,7 +47,7 @@ Brag about your tech skills while getting 72% acc on [this osu! map](https://osu
 Mash through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1367326) hosted by [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/199/encore%20plus%20chaptire%2001/rejection%20-%20The%20Way%20of%20Adventure%20%28feat.%20Kusaka%20Akira%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Open Your Heart (feat. Renko)
@@ -55,7 +55,7 @@ Mash through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1367326) hosted
 Or try out [another osu!taiko map](https://osu.ppy.sh/beatmapsets/1443296) hosted by [Hivie](https://osu.ppy.sh/users/14102976)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/199/Songs/rejection%20-%20Open%20Your%20Heart%20%28feat.%20Renko%29.mp3" type="audio/mpeg">
 </audio>
 
 ---
