@@ -220,7 +220,7 @@ Lebih jauh, sistem internal osu! juga menyimpan berbagai tayangan ulang pada fol
 
 Harap dicatat bahwa apabila karena suatu alasan tayangan ulang milikmu hilang atau tidak lagi tersedia secara *online*, tayangan ulang tersebut akan hilang selama-lamanya.
 
-### osu! memberitahu saya bahwa versi osu! yang saya gunakan sudah terlalu lawas (*my game client is too old*)!
+### osu! memberitahu saya bahwa versi osu! yang saya gunakan sudah terlalu lawas (*your game client is too old*)!
 
 **Waktunya untuk memperbaharui versi osu! yang kamu gunakan! Versi-versi osu! lawas pada umumnya tidak lagi dapat digunakan untuk mengirimkan skor secara *online*, sehingga kamu harus memperbaharui versi osu! milikmu melalui menu `Options` -> `Umum` -> `Jalankan osu! updater` untuk tetap dapat terhubung dengan para pemain lain.**
 
@@ -495,7 +495,7 @@ Pastikan kamu senantiasa memperbaharui *driver-driver* yang kamu miliki secara b
 
 **Terlalu banyaknya piranti USB yang tertumpuk pada satu *port* USB yang sama dapat menyebabkan *input lag* yang signifikan.**
 
-Cobalah untuk mencopot *USB spliter* yang kamu miliki dan menghubungkan ulang piranti-piranti yang ada pada *port-port* USB lain secara merata setelahnya.
+Cobalah untuk mencopot *USB splitter* yang kamu miliki dan menghubungkan ulang piranti-piranti yang ada pada *port-port* USB lain secara merata setelahnya.
 
 #### Apakah kamu sedang menjalankan osu! pada mode *windowed* atau *borderless*?
 
