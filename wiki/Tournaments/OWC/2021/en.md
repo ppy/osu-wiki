@@ -8,9 +8,7 @@ tags:
 
 ![OWC 2021 banner](/wiki/shared/news/2021-09-16-osu-world-cup-2021-registrations-now-open/owc-2021-banner.jpg)
 
-
 The **osu! World Cup 2021** (***OWC 2021***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the twelfth instalment of the osu! World Cup.
-
 
 ## Tournament schedule
 
@@ -56,7 +54,6 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1420416)
 - [Livestream](https://www.twitch.tv/osulive)
 
-
 ## Ruleset
 
 ### Tournament rules
@@ -76,9 +73,9 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 9. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
-    - This might change depending on the amount of registrations.
+   - This might change depending on the amount of registrations.
 10. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
-    - The minimum amount of required players is considered as the amount of players needed to play a beatmap without any vacant spots on the lobby (i.e. 4 participants must be present for the match to begin).
+   - The minimum amount of required players is considered as the amount of players needed to play a beatmap without any vacant spots on the lobby (i.e. 4 participants must be present for the match to begin).
 11. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
 12. Exchanging players between games is allowed without limitations.
 13. Beatmaps must not be reused in the same match, except for rematches.
@@ -86,7 +83,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 15. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
 16. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
 17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
-    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
+   - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
 18. Penalties for violating the tournament rules include, but are not limited to:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
@@ -115,6 +112,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of the commentators.
 
 ### Qualifier instructions
+
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
 2. The mappool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), and [DoubleTime](/wiki/Game_modifier/Double_Time). There will be no tiebreakers for this stage.
 3. The Qualifier pool will contain 10 maps. There will be 4 maps under the NoMod bracket and 2 maps for the other mod brackets.
@@ -188,7 +186,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 5. **Reschedules will only be considered if both teams agree to a time and communicate it to the Tournament Management, before Wednesday 23:59 UTC+0 of the week the match is to take place on.**
    - Reschedules may only be requested by a team captain.
    - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request.**
-7. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
+6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

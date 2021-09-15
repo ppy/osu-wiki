@@ -10,7 +10,6 @@ With 2021 coming to an end, it's time to sign off with the final tournament of t
 
 For more details, refer to the **[osu! World Cup 2021 wiki article](/wiki/Tournaments/OWC/2021)**. You can discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1420416)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
-
 ## Tournament schedule
 
 | Event | Timestamp |
