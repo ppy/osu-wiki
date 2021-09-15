@@ -41,6 +41,6 @@ The osu! World Cup 2021 offers a $5,000 prize pool, along with limited edition g
 
 If your registration passes our internal checks, you will be placed on the candidate list for your country. When that country's captain has been assigned, the list will be sent to them. This may take a while, so please be patient.
 
-*Remember that any registrations submitted after the deadline will not be considered under any circumstances — submit your registration ahead of time to avoid any last-minute issues. If you run into any issues, send an email to [tournaments@ppy.sh](mailto:accounts@ppy.sh)*
+*Remember that any registrations submitted after the deadline will not be considered under any circumstances — submit your registration ahead of time to avoid any last-minute headaches. If you run into any issues, send an email to [tournaments@ppy.sh](mailto:accounts@ppy.sh).*
 
 —ChillierPear, LeoFLT, and Azer
