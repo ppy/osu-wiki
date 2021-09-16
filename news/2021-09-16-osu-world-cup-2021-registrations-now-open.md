@@ -26,11 +26,11 @@ For more details, refer to the **[osu! World Cup 2021 wiki article](/wiki/Tourna
 
 ## Prizes
 
-The osu! World Cup 2021 offers a $5,000 prize pool, along with limited edition goods!
+The osu! World Cup 2021 offers a $5,000 prize pool, along with limited edition goods! Prize amounts for each placement have been slightly adjusted from 2020 for a more fair distribution.
 
-- **1st:** 50% of the prize pool, exclusive limited-edition merch, profile badge, "osu! Champion" user title for one year
-- **2nd:** 34% of the prize pool, exclusive limited-edition merch, profile badge
-- **3rd:** 16% of the prize pool, exclusive limited-edition merch, profile badge
+- **1st:** 48% of the prize pool, exclusive limited-edition merch, profile badge, "osu! Champion" user title for one year
+- **2nd:** 32% of the prize pool, exclusive limited-edition merch, profile badge
+- **3rd:** 20% of the prize pool, exclusive limited-edition merch, profile badge
 
 ## How do I register?
 
