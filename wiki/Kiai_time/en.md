@@ -1,24 +1,24 @@
 ---
-stub: true
-tags:
-  - timing section
-  - kiai mode
+stubbe: sant
+tagger:
+  - tidsseksjon
+  - kiai -modus
 ---
 
-# Kiai time
+# Kiai -tid
 
-*For regulations surrounding kiai time, see: [Ranking Criteria](/wiki/Ranking_Criteria)*
+*For forskrifter rundt kiai -tid, se: [Rangeringskriterier] (/wiki/Ranking_Criteria)*
 
-**Kiai Time** (or *kiai*) is a term given for a "special" timing section to help emphasize a part of a [beatmap](/wiki/Beatmap). Players can tell if a part of a beatmap has a kiai timing section if they see added visual effects in the background (e.g., flashing beats, flying stars, and fountains).
+** Kiai Time ** (eller*kiai*) er et begrep gitt for en "spesiell" timing -seksjon for å understreke en del av et [beatmap] (/wiki/Beatmap). Spillere kan se om en del av et beatmap har en kiai timing -seksjon hvis de ser ekstra visuelle effekter i bakgrunnen (f.eks. Blinkende beats, flygende stjerner og fontener).
 
-While kiai is active, all [hit objects](/wiki/Hit_object) will flash at the rhythm of the [main beat](/wiki/Beatmap_Editor/Timing) and stars will explode from the cursor when a [hit circle](/wiki/Hit_object/Hit_circle) is hit. Otherwise, they will fall from the cursor when a [slider](/wiki/Hit_object/Slider) or [spinner](/wiki/Hit_object/Spinner) is followed.
+Mens kiai er aktiv, vil alle [treffobjekter] (/wiki/Hit_object) blinke på rytmen til [hovedslaget] (/wiki/Beatmap_Editor/Timing) og stjernene eksploderer fra markøren når en [treffsirkel] (/ wiki/Hit_object/Hit_circle) er rammet. Ellers faller de fra markøren når en [glidebryter] (/wiki/Hit_object/Slider) eller [spinner] (/wiki/Hit_object/Spinner) blir fulgt.
 
 ## Beatmapping
 
-Kiai time is most commonly used for the "strongest part of a song" which is usually the chorus. Since kiai sections are the strongest part of a song, they are typically slightly more challenging than the rest of the [beatmap](/wiki/Beatmap) to follow the song.
+Kiai -tid brukes mest for den "sterkeste delen av en sang", som vanligvis er refrenget. Siden kiai -seksjoner er den sterkeste delen av en sang, er de vanligvis litt mer utfordrende enn resten av [beatmap] (/wiki/Beatmap) for å følge sangen.
 
-## osu!taiko
+## osu! taiko
 
-On [osu!taiko](/wiki/Game_Modes/osu!taiko) beatmaps, kiai sections give 20% more [score](/wiki/Score).
+På [osu! Taiko] (/wiki/Game_Modes/osu! Taiko) beatmaps gir kiai -seksjoner 20% mer [score] (/wiki/Score).
 
-<!-- TODO: Add links -->
+<!-TODO: Legg til lenker->
