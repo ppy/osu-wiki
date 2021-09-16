@@ -52,6 +52,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 - **[Register here](https://osu.ppy.sh/community/tournaments/30)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1420416)
 - [Livestream](https://www.twitch.tv/osulive)
+- [pick'ems page](https://pickem.hwc.hr/tournaments/73 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Ruleset
 
