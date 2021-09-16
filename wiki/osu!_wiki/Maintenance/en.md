@@ -8,9 +8,9 @@ This article describes technical or administrative aspects of the osu! wiki. It 
 
 *Main page: [List of the osu! wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
 
-The administrators are people with the [collaborator level of access](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki/), where all articles and news posts are stored. They can triage and label issues, manage open pull requests, and make decisions regarding the osu! wiki's present and future.
+The administrators are people with [collaborator access](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki/), where all articles and news posts are stored. They can triage and label issues, manage open pull requests, and make decisions regarding the osu! wiki's present and future.
 
-Maintainers perform the final review of pull requests and merge them. If you have a contribution which needs attention, ask one of them in the `#osu-wiki` channel.
+Maintainers perform the final review of pull requests and merge them. If you have a contribution in need of attention, ask one of them in the `#osu-wiki` channel.
 
 ## Technical details
 
@@ -36,7 +36,7 @@ On GitHub, pull requests and issues may be tagged and classified by using [label
 Most osu! wiki articles have alternative links, which are set up using the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file. The redirects are meant to be used outside the osu! wiki, for example, on forums, or in the [chat](/wiki/Chat_Console), where they could be quickly turned into an inline reference:
 
 ```
-According to [[RC]], this is forbidden.
+According to the [[RC]], this is forbidden.
 ```
 
 When adding redirects for a new or existing article, keep in mind that they should be concise and designed for actual use.
@@ -45,16 +45,16 @@ When adding redirects for a new or existing article, keep in mind that they shou
 
 ### CI checks
 
-The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) to automatically check incoming pull requests for different common errors. The list of checks is configured in the [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) file. 
+The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) to automatically check incoming pull requests for various common errors. The list of checks is configured in the [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) file. 
 
 The [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) file lists all plugins used by the CI, from which some were written by the osu! wiki maintainers.
 
 The CI checks are run automatically on every commit of a recurring contributor. In order to have their pull requests merged, contributors are expected to fix errors reported by the CI. To see the [status of checks](img/ci-status.png), do the following:
 
-1. Scroll the pull request's page down, find the `osu-wiki continuous integration` status row, and click the `Details` link.
+1. Scroll down the pull request's page, find the `osu-wiki continuous integration` status row, and click the `Details` link.
 2. On the new page, expand the `run remark on changed files` step. Each finding is accompanied by its exact location in a file and a short description of why it is an error.
 
-If you need help with decrypting the CI check errors, or fixing the issues, ask in the `#osu-wiki` channel on Discord.
+If you need help with decrypting CI check errors, or fixing issues, ask in the `#osu-wiki` channel on Discord.
 
 ### Development
 
@@ -64,8 +64,8 @@ The osu! wiki is integrated into the osu! website, which means all technical fea
 
 Some features are not directly related to the osu! website, but may be useful for contributing or general housekeeping. In this case, they are implemented by people capable of it and are **not** added to the website directly:
 
-- [osu-wiki status](https://clayton.cc/osu-wiki-status/en): list of articles per every language, and the category of maintenance they require (translation, update, stub expansion). See [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) for functionality requests.
-- [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin): a Node.js utility for automated checks and edits (broken links, usergroup updates, wiki-wide text replacements, and other things)
+- [osu-wiki status](https://clayton.cc/osu-wiki-status/en): list of articles per language, and the category of maintenance they require (translation, update, stub expansion). See [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) for functionality requests.
+- [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin): a Node.js utility for automated checks and edits (broken links, usergroup updates, wiki-wide text replacements, among other things)
 - [flag-wiki-osu](https://megaapplepi.github.io/flag-wiki-osu): automatically add references to the flags mentioned in an article. See [ppy/osu-wiki#328](https://github.com/ppy/osu-wiki/issues/328) for functionality requests.
 
 ## Routines
@@ -80,7 +80,7 @@ The wiki relies on input from the osu! community. You can help the maintainers a
 
 *For a list of translations and their completeness, see: [osu-wiki status](https://clayton.cc/osu-wiki-status/en)*
 
-The osu! wiki is read by people from all around the world. To help your local community and attract new awesome players, mappers, modders, and developers into the game, you can translate English articles, or update existing translations that have fallen behind. Check the [list of languages](/wiki/Article_styling_criteria/Formatting#locales) supported by the osu! wiki, and ensure your translation follows the [content parity](/wiki/Article_styling_criteria/Formatting#content-parity) principle. If you are a fluent speaker and experienced writer, take on key topics such as articles from [Rules](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) or [Ranking Criteria](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). In case you are only beginning your writing career, pick a small article to receive help and guidance from native reviewers.
+The osu! wiki is read by people from all around the world. To help your local community and attract new awesome players, mappers, modders, and developers into the game, you can translate English articles, or update existing translations that have fallen behind. Check the [list of languages](/wiki/Article_styling_criteria/Formatting#locales) supported by the osu! wiki, and ensure your translation follows the [content parity](/wiki/Article_styling_criteria/Formatting#content-parity) principle. If you are a fluent speaker and experienced writer, take on key topics such as articles on [rules](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) or the [ranking criteria](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). In case you are only beginning your writing career, pick a small article to receive help and guidance from native reviewers.
 
 A translation may be merged without a native review if it's been more than two weeks since its creation date.
 

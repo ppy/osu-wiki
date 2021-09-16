@@ -2,7 +2,7 @@
 
 The **osu! wiki** is an open-source knowledge database written and maintained by [volunteer contributors](https://github.com/ppy/osu-wiki/graphs/contributors). It contains a wide range of information on topics related to osu!, its community, and related activities and concepts. The wiki serves as an official source of information and is considered as a documentation of the osu! history.
 
-All discussions which cover the wiki in general, its development, and changes to articles, happen in the `#osu-wiki` channel of the official [osu!dev Discord server](/wiki/osu!dev_Discord_server). To learn how you can help the osu! wiki, check the following articles:
+All discussions that cover the wiki in general, its development, and changes to articles, happen in the `#osu-wiki` channel of the official [osu!dev Discord server](/wiki/osu!dev_Discord_server). To learn how you can help the osu! wiki, check the following articles:
 
 - [Contribution guide](/wiki/osu!_wiki_Contribution_Guide)
 - [Maintenance](/wiki/osu!_wiki/Maintenance)
@@ -11,7 +11,7 @@ All discussions which cover the wiki in general, its development, and changes to
 
 *Main page: [History of the osu! wiki](/wiki/History_of_osu!/osu!_wiki)*
 
-The [first attempts](https://osu.ppy.sh/community/forums/posts/1175876) of creating a structured knowledge base are dated to 2011, when [peppy](/wiki/People/peppy) set up a [MediaWiki](https://en.wikipedia.org/wiki/MediaWiki) instance for anyone willing to participate. Over the years, maintenance and operation of the MediaWiki has been proven difficult and toilsome, and in [August 26, 2016](https://discord.com/channels/188630481301012481/218677502141399041/218678017659109376) peppy and a team of volunteers began the process of migrating the osu! wiki to GitHub, where it resides to this day. The wiki has since been integrated into the new osu! website and received technical and visual updates critical for good user experience.
+The [first attempts](https://osu.ppy.sh/community/forums/posts/1175876) of creating a structured knowledge base are dated back to 2011, when [peppy](/wiki/People/peppy) set up a [MediaWiki](https://en.wikipedia.org/wiki/MediaWiki) instance for anyone willing to participate. Over the years, maintenance and operation of the MediaWiki has been proven difficult and toilsome, and in [August 26, 2016](https://discord.com/channels/188630481301012481/218677502141399041/218678017659109376) peppy and a team of volunteers began the process of migrating the osu! wiki to GitHub, where it resides to this day. The wiki has since been integrated into the new osu! website and received technical and visual updates critical for good user experience.
 
 ## Structure
 
@@ -23,7 +23,7 @@ Translations in different languages are available for some articles. They are ma
 
 ## Model
 
-The osu! wiki is built around the concept of accessibility: edits and translations are encouraged and may be done by anyone capable and knowledgeable. The data for articles is stored in a [GitHub repository](https://github.com/ppy/osu-wiki) and updated by contributors through the [use of pull requests](/wiki/osu!_wiki_Contribution_Guide), which then are reviewed and merged by the [wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
+The osu! wiki is built around the concept of accessibility: edits and translations are encouraged and may be done by anyone capable and knowledgeable. The data for articles is stored in a [GitHub repository](https://github.com/ppy/osu-wiki) and updated by contributors through the [use of pull requests](/wiki/osu!_wiki_Contribution_Guide), which are then reviewed and merged by the [wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
 
 The articles are formatted using [GitHub-flavoured Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). Additionally, the website engine implements custom features crucial for the wiki as a whole, such as redirects, front matter, or formatting improvements.<!-- TODO: article on custom features of the wiki? it could help us ease the ASC a bit as well -->
 
