@@ -8,7 +8,7 @@ This article describes technical or administrative aspects of the osu! wiki. It 
 
 *Main page: [List of the osu! wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
 
-The administrators are people with the [collaborator level of access](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki/), where all articles and news are stored. They can triage and label issues, manage open pull requests, and make decisions regarding the osu! wiki's present and future.
+The administrators are people with the [collaborator level of access](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki/), where all articles and news posts are stored. They can triage and label issues, manage open pull requests, and make decisions regarding the osu! wiki's present and future.
 
 Maintainers perform the final review of pull requests and merge them. If you have a contribution which needs attention, ask one of them in the `#osu-wiki` channel.
 
@@ -28,8 +28,8 @@ On GitHub, pull requests and issues may be tagged and classified by using [label
 
 - `rule change`: the change affects an existing set of rules, such as the [Ranking Criteria](/wiki/Ranking_Criteria), and needs to be reviewed by the area's owner
 - `blocked`: the change has issues which must be resolved before proceeding, or depends on another issue which must be resolved first
-- `needs native review`: the translation needs to be checked by a person fluent in the respective language. Alternatively, during the merge process it means that no such review took place
-- `needs rebase`: the pull request has too many small unstructured commits, which need to be rebased and worded in a better way
+- `needs native review`: the translation needs to be checked by a person fluent in the respective language; alternatively, during the merge process it means that no such review took place
+- `needs rebase`: the pull request has too many small unstructured commits, which need to be rebased and worded in a better way; this is usually done by the maintainers right before the merge
 
 ### Links and redirects
 
@@ -45,7 +45,9 @@ When adding redirects for a new or existing article, keep in mind that they shou
 
 ### CI checks
 
-The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) to automatically check incoming pull requests for different common errors. The list of checks is configured in the [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) file and includes several custom plugins written by the osu! wiki maintainers.
+The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) to automatically check incoming pull requests for different common errors. The list of checks is configured in the [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) file. 
+
+The [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) file lists all plugins used by the CI, from which some were written by the osu! wiki maintainers.
 
 The CI checks are run automatically on every commit of a recurring contributor. In order to have their pull requests merged, contributors are expected to fix errors reported by the CI. To see the [status of checks](img/ci-status.png), do the following:
 
@@ -56,7 +58,7 @@ If you need help with decrypting the CI check errors, or fixing the issues, ask 
 
 ### Development
 
-The osu! wiki is integrated into the osu! website, which means all technical feature requests should be [made and tracked](https://github.com/ppy/osu-web/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aarea%3Awiki) in the `ppy/osu-web` repository. To inform other contributors of your request, make sure to link the new issue in the `#osu-wiki` Discord channel, or the osu! wiki's issue tracker.
+The osu! wiki is integrated into the osu! website, which means all technical feature requests should be [made and tracked](https://github.com/ppy/osu-web/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aarea%3Awiki) in the `ppy/osu-web` repository. To inform other contributors of your request, make sure to link the issue in the `#osu-wiki` Discord channel, or the osu! wiki's issue tracker.
 
 ### Tools
 
@@ -70,7 +72,7 @@ Some features are not directly related to the osu! website, but may be useful fo
 
 *Note: the [osu-wiki status](https://clayton.cc/osu-wiki-status/en) website shows a list of all articles in need of maintenance, broken down by category.*
 
-The wiki relies on input from the osu! community. You can help the maintainers and other contributors by doing your part. For information on how to do that, read the [contribution guide](/wiki/osu!_wiki_Contribution_Guide). If at any point you feel stuck, ask for help in the `#osu-wiki` channel of [osu!dev Discord server](/wiki/osu!dev_Discord_server).
+The wiki relies on input from the osu! community. You can help the maintainers and other contributors by doing your part. For information on how to do that, read the [contribution guide](/wiki/osu!_wiki_Contribution_Guide). If at any point you feel stuck, ask for help in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
 
 ### Translations
 
@@ -100,4 +102,4 @@ osu! is an ever-changing environment: the community makes new beatmaps, invents 
 
 *For possible scope of work, see: [List of untracked TODOs (English)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
 
-Existing articles need maintenance, too. If you have found a factual error, or there are details missing, or if you simply want to rewrite/expand the article according to the reality, step forward and make the osu! wiki a better place. In case the change you plan is large or significant enough, make sure to bring it up for discussion in the `#osu-wiki` channel, or [create a tracking issue](https://github.com/ppy/osu-wiki/issues/new).
+Existing articles need maintenance too. If you have found a factual error, or there are details missing, or if you simply want to rewrite/expand the article according to the reality, step forward and make the osu! wiki a better place. In case the change you plan is large or significant enough, make sure to bring it up for discussion in the `#osu-wiki` channel, or [create a tracking issue](https://github.com/ppy/osu-wiki/issues/new).

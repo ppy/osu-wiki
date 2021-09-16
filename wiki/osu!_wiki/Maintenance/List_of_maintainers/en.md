@@ -26,7 +26,7 @@ If you need help with making a contribution or want a review on your pull reques
 
 ## The news team
 
-Curators, editors, and approvers of all the [newsposts](https://osu.ppy.sh/home/news) that appear on the website.
+Curators, editors, and approvers of all [news posts](https://osu.ppy.sh/home/news) that appear on the website.
 
 | osu! profile | GitHub profile |
 | :-- | :-- |
@@ -44,15 +44,15 @@ This list includes maintainers of the MediaWiki setup, which the osu! wiki [used
 - ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)
 - ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865)
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
