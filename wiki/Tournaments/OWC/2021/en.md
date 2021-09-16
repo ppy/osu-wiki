@@ -30,9 +30,9 @@ The osu! World Cup 2021 offers a $5,000 cash prize pool and limited edition merc
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 36% of the prize pool, exclusive single-run merch, profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 14% of the prize pool, exclusive single-run merch, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 48% of the prize pool, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, exclusive single-run merch, profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, exclusive single-run merch, profile badge |
 
 ## Organisation
 
