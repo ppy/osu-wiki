@@ -33,7 +33,7 @@ On GitHub, pull requests and issues may be tagged and classified by using [label
 
 ### Links and redirects
 
-Most osu! wiki articles have alternative links, which are set up using the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file. The redirects are meant to be used outside the osu! wiki, for example, on forums, or in the [chat](/wiki/Chat_Console), where they could be quickly turned into an inline reference:
+Most osu! wiki articles have alternative links, which are set up using the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file. The redirects are meant to be used outside the osu! wiki, for example, on the forums, or in the [chat](/wiki/Chat_Console), where they can be quickly turned into an inline reference:
 
 ```
 According to the [[RC]], this is forbidden.
@@ -82,7 +82,7 @@ The wiki relies on input from the osu! community. You can help the maintainers a
 
 The osu! wiki is read by people from all around the world. To help your local community and attract new awesome players, mappers, modders, and developers into the game, you can translate English articles, or update existing translations that have fallen behind. Check the [list of languages](/wiki/Article_styling_criteria/Formatting#locales) supported by the osu! wiki, and ensure your translation follows the [content parity](/wiki/Article_styling_criteria/Formatting#content-parity) principle. If you are a fluent speaker and experienced writer, take on key topics such as articles on [rules](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) or the [ranking criteria](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). In case you are only beginning your writing career, pick a small article to receive help and guidance from native reviewers.
 
-A translation may be merged without a native review if it's been more than two weeks since its creation date.
+A translation may be merged without a native review if it has been more than two weeks since its creation date.
 
 ### Stub expansion
 
@@ -92,11 +92,11 @@ Some articles of the osu! wiki are incomplete and lack information. Such article
 
 ### Cross-linking
 
-One of the key features of any wiki is *connectivity*, meaning that articles refer to related pages, helping a reader stay in the flow. To connect the articles, add links to mentioned terms where it's important for a better understanding of the subject. Link to individual sections of the article when necessary, and use [disambiguation pages](/wiki/Article_styling_criteria/Formatting#disambiguation-articles) for blanket terms.
+One of the key features of any wiki is *connectivity*, meaning that articles refer to related pages, helping a reader stay in the flow. To connect the articles, add links to mentioned terms where it is important for a better understanding of the subject. Link to individual sections of the article when necessary, and use [disambiguation pages](/wiki/Article_styling_criteria/Formatting#disambiguation-articles) for blanket terms.
 
 ### New articles
 
-osu! is an ever-changing environment: the community makes new beatmaps, invents new ways of self-expression, and does other *new* things. If a certain event or term is not covered, don't hesitate to write an article about it and contribute to the pool of global knowledge. New tournament or contest? New osu! feature? Unknown part of the lore? Put your sharp writing skills to good use.
+osu! is an ever-changing environment: the community makes new beatmaps, invents new ways of self-expression, and does other *new* things. If a certain event or term is not covered, do not hesitate to write an article about it and contribute to the pool of global knowledge. New tournament or contest? New osu! feature? Unknown part of the lore? Put your sharp writing skills to good use.
 
 ### Updates
 

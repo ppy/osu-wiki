@@ -1,6 +1,6 @@
 # osu! wiki
 
-The **osu! wiki** is an open-source knowledge database written and maintained by [volunteer contributors](https://github.com/ppy/osu-wiki/graphs/contributors). It contains a wide range of information on topics related to osu!, its community, and related activities and concepts. The wiki serves as an official source of information and is considered as a documentation of the osu! history.
+The **osu! wiki** is an open-source knowledge database written and maintained by [volunteer contributors](https://github.com/ppy/osu-wiki/graphs/contributors). It contains a wide range of information on topics related to osu!, its community, and related activities and concepts. The wiki serves as an official source of information and is considered as a documentation of the history of osu!.
 
 All discussions that cover the wiki in general, its development, and changes to articles, happen in the `#osu-wiki` channel of the official [osu!dev Discord server](/wiki/osu!dev_Discord_server). To learn how you can help the osu! wiki, check the following articles:
 
@@ -29,7 +29,7 @@ The articles are formatted using [GitHub-flavoured Markdown](https://help.github
 
 Articles are composed according to the [styling criteria](/wiki/Article_styling_criteria) of the osu! wiki, which means they are written in a neutral language and follow common formatting and design rules. Some informational articles serve as a list of frequently asked questions (FAQ) on the topic and use informal language. Translations follow the content parity principle and comply with the same formatting rules.
 
-Despite having the *wiki* suffix in its name, the osu! wiki doesn't fully satisfy [the Wiki concept](https://en.wikipedia.org/wiki/Wiki):
+Despite having the *wiki* suffix in its name, the osu! wiki does not fully satisfy [the Wiki concept](https://en.wikipedia.org/wiki/Wiki):
 
 - Users are encouraged to improve existing articles and create new ones, but basic knowledge of [GitHub](https://github.com) is expected, which raises the threshold necessary for entry.
 - All changes to the osu! wiki are pre-moderated and undergo a review process, where a contributor is expected to collaborate with the wiki maintainers and respond to feedback.
