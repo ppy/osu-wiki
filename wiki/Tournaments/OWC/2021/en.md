@@ -30,9 +30,9 @@ The osu! World Cup 2021 offers a $5,000 cash prize pool and limited edition merc
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 36% of the prize pool, exclusive single-run merch, profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 14% of the prize pool, exclusive single-run merch, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 48% of the prize pool, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, exclusive single-run merch, profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, exclusive single-run merch, profile badge |
 
 ## Organisation
 
@@ -41,7 +41,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496), ![][flag_LT] [Mazzerin](https://osu.ppy.sh/users/2942381), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578942) |
+| Mappool selector | ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496), ![][flag_LT] [Mazzerin](https://osu.ppy.sh/users/2942381), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) |
 | Mappool quality assurance | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097), ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) |
 | Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [Monk The Don](https://osu.ppy.sh/users/4012086), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
@@ -102,7 +102,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains may choose, with the approval of the Tournament Management, at any time, to delegate their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-3. To ensure valid registrations, every prospective participant will be manually checked by the Tournament Management, in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
+3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the global osu! performance ranking, and have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the Registration Phase.
