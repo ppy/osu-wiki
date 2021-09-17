@@ -1,23 +1,14 @@
----
-outdated: true
-outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
----
-
 # Konten eksplisit
 
 ![Tampilan beatmap yang mengandung konten eksplisit](img/explicit-tag.jpg "Contoh beatmap yang ditandai dengan label 'eksplisit'.")
 
-Ketika membuat beatmap, para mapper dapat menyematkan label 'eksplisit' pada beatmap-beatmap buatan mereka di situs web osu! untuk menandai bahwa beatmap-beatmap yang bersangkutan mengandung konten eksplisit.
+Para mapper dapat menyematkan label 'eksplisit' pada beatmap-beatmap buatan mereka di situs web osu! untuk menandai bahwa beatmap-beatmap yang bersangkutan mengandung konten eksplisit dengan menggunakan [popup aliran dan bahasa lagu](/wiki/Beatmap/Genre_and_language). Fitur ini memiliki beberapa pengecualiaan dan peraturan yang mengatur penggunaannya.
 
-Artikel ini menjelaskan seputar berbagai hal yang terkait dengan dengan label tersebut beserta tata cara penggunaannya.
+Regardless of the nature of the audio, make sure it also complies with the [general song content rules](/wiki/Rules/Song_Content_Rules).
 
 ## Hal-hal apa saja yang termasuk ke dalam konten eksplisit?
 
-osu! mengizinkan pemakaian **konten audio** yang bersifat eksplisit (baik dari segi *tema* ataupun *lirik* lagu) hingga batasan tertentu.
-
-**Di sisi lain, osu! tidak membenarkan penggunaan gambar maupun video yang bersifat senonoh - seluruh elemen visual yang ada tetap harus tunduk pada [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations).**
-
-Pengecualian di sini hanya diberikan pada elemen-elemen visual senonoh yang mengandung unsur estetika seni (*artistic use*) dalam nuansa dan konteks pemakaiannya.
+osu! mengizinkan pemakaian **konten audio** yang bersifat eksplisit (baik dari segi *tema* ataupun *lirik* lagu) hingga batasan tertentu. Di sisi lain, osu! **tidak** membenarkan penggunaan gambar maupun video yang bersifat senonoh - seluruh elemen visual yang ada tetap **harus** tunduk pada [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations).
 
 Pada intinya, selama dilabeli sebagaimana mestinya, lagu-lagu yang bersifat eksplisit dapat dipergunakan dan disebarluaskan dalam bentuk beatmap di dalam lingkungan osu!.
 

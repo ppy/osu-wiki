@@ -616,7 +616,7 @@ Friday, 1 July 2016:
 - UK Staff are able to participate.
 - Your rank must be better than #25000 to play.
 
-### Mapools
+### Mappools
 
 - During Qualifiers, each mappool will consist of 4 NoMod, 2 HD, 2 HR, 2 DT, 2 Freemod and 1 Tiebreaker map.
 - From the Group stage to Semifinals, each mappool will consist of 6 NoMod, 3 HD, 3 HR, 3 DT, 3 Freemod and 1 Tiebreaker map.

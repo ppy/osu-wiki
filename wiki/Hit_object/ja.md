@@ -16,7 +16,7 @@ tags:
 | [ヒットサークル](/wiki/Hit_object/Hit_circle) | ヒットサークル | [フルーツ](/wiki/Hit_object/Fruit) | ノーツ |
 | [スライダー](/wiki/Hit_object/Slider) | ドラムロール | [ジュースストリーム](/wiki/Hit_object/Juice_stream) | ホールドノーツ |
 | [スピナー](/wiki/Hit_object/Spinner) | デンデン | [バナナ](/wiki/Hit_object/Banana) | x |
-| x | x | [ハイパーフルーツ]](/wiki/Hit_object/Hyperfruit) | x |
+| x | x | [ハイパーフルーツ](/wiki/Hit_object/Hyperfruit) | x |
 
 プログラミングの観点からすると、osu!maniaのホールドノーツはosu!のスライダーと同等ではありませんが、この表では簡単にするためにまとめてあります。その他、ヘルスバーや気合星など、ゲームプレイ中には操作されない要素は、ゲーム性を高めるものか、ユーザーインターフェースの一部と考えられます。
 

@@ -43,7 +43,7 @@ By default, every user has 4 pending slots. One slot is added for every ranked b
 
 ## How can I delete my beatmap?
 
-**The team does not take requests to manually delete uploaded beatmaps.**
+**The [support team](/wiki/People/The_Team/Account_support_team) does not take requests to manually delete uploaded beatmaps.**
 
 You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month (28 days) without updates.
 

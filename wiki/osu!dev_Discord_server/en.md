@@ -5,13 +5,13 @@ tags:
 
 # osu!dev Discord server
 
-**osu!dev** is the official [Discord](https://discordapp.com "Discord's website") server for working on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the [osu!team](/wiki/People/The_Team).
+**osu!dev** is the official [Discord](https://discordapp.com "Discord's website") server for working on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the [osu! team](/wiki/People/The_Team).
 
 The permanent invite link is <https://discord.gg/ppy>.
 
 ## Verification
 
-New members of the server aren't allowed to send messages by default. If they want to send messages, they can post in `#arrival` with a brief overview of their intentions, and a member of the osu!team will add a role that lifts the restriction.
+New members of the server aren't allowed to send messages by default. If they want to send messages, they can post in `#arrival` with a brief overview of their intentions, and a member of the osu! team will add a role that lifts the restriction.
 
 ## Projects
 

@@ -78,8 +78,9 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 - **[Guest difficulty](/wiki/Beatmap/Guest_difficulty) creators, storyboarders, skinners and hitsounders must be added to the tags of a beatmap.** This is to give credit where credit is due and help others identify the main contributors of any given beatmap. Usernames containing single characters separated by spaces must have the spaces replaced with underscores.
 - **[Primary metadata sources](/wiki/Beatmap/Primary_metadata_source) must be used as references for metadata.** Do not modify metadata from primary sources except to comply with formatting and standardisation rules below. If no sources are available, use what is most common and recognizable.
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. A song's sole artist cannot be a fictional character or program unless it is the artist's alias.
-- **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website names, album names, or BMS are not acceptable sources. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
-  - In cases where a [song compilation](/wiki/Beatmapping/Song_compilation)/remix/medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
+- **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, web site, community etc.** If the song was featured or tied to a media after it was released, the source field should not be used. If a song has multiple potential sources, any option is valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
+  - In cases where a [song compilation](/wiki/Beatmapping/Song_compilation)/remix/medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field (unless the compilation is prominently tied to a source itself).
+  - `osu!` itself should never be used in the source field except in cases where the track was specifically created for osu! (also known as an osu! original), such as commissioned tournament tiebreaker tracks.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 - **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
 - **If the song mapped is a licensed one in the featured artist library, `featured artist` must be added to tags.**
@@ -209,13 +210,14 @@ This category contains explicit allowance statements of concepts and rules that 
   - **Maximum height:** 1440px
   - **Maximum file size:** 2.5MB
 - **A video's dimensions must not exceed a width of 1280 and a height of 720 pixels.** Additionally, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
+- **A video must be encoded in H.264.**
 - **A video's [offset](/wiki/Beatmapping/Offset) must be correct if it synchronizes with the song.** An incorrect offset can result in a misleading visual representation of the song. If the same video appears in multiple difficulties, it must always have the same offset(s).
 - **A video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that file size of the beatmap. This includes videos with muted audio tracks.
   - *See [Compressing files § Video](/wiki/Guides/Compressing_files#video) for guidance.*
 
 ### Guidelines
 
-- **The background image of each difficulty in a beatmap should be of reasonable quality.** Try to find the original source of any image and avoid unnecessary upscaling or file size bloating.
+- **Background images and videos in a beatmap should be of reasonable quality.** Try to find the original source and avoid unnecessary upscaling or file size bloating.
 
 ## Skinning
 

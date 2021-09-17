@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2021 标志](/wiki/shared/news/banners/CWC2021.jpg)
 
-**osu!catch 2021 世界杯**（***CWC 2021***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!catch 世界杯的第 10 届。
+**osu!catch 2021 世界杯**（***CWC 2021***）是由 [osu!团队](/wiki/People/The_Team)举办的基于国家/地区间的官方锦标赛。这是 osu!catch 世界杯的第 10 届。
 
 *注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 5 月 11 日 18:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/CWC/2021?locale=en)为准。*
 

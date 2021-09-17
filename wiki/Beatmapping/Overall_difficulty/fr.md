@@ -6,6 +6,8 @@ tags:
   - OD
   - spinner difficulty
   - précision
+outdated: true
+outdated_since: 266a07fc271ddfef0dfd369697733a2c5835a124
 ---
 
 # Overall difficulty

@@ -178,7 +178,7 @@ If you create an account while on holiday in the United States, your account wil
 
 The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.**
 
-To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
+To confirm this, the [support team](/wiki/People/The_Team/Account_support_team) will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
 
 We will never display this information to anyone else, and we encourage you to blank out any personal information (while still allowing us to determine which country the document is for!) if you are concerned about your privacy.
 
