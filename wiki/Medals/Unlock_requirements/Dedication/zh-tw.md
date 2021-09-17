@@ -32,4 +32,3 @@
 | 40,000 Keys | 在 osu!mania 中擊中 40000 次音符。 | 這只是彩虹的起點而已。(Just the start of the rainbow.) |
 | 400,000 Keys | 在 osu!mania 中擊中 400000 次音符。 | 40萬？還差的遠呢。(Four hundred thousand and still not even close.) |
 | 4,000,000 Keys | 在 osu!mania 中擊中 4000000 次音符。 | 這就是彩虹的盡頭嗎？(Is this the end of the rainbow?) |
-
