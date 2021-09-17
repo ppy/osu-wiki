@@ -11,9 +11,9 @@ Les [beatmaps](/wiki/Beatmap) soumises en ligne sont réparties en catégories e
 
 ### Cimetière
 
-La catégorie **cimetière** correspond aux beatmaps qui ont été abandonnées par leurs créateurs. Les beatmaps sont déplacées automatiquement de la catégorie [Work In Progress et En attente](#work-in-progress-et-en-attente) vers la catégorie Graveyard lorsqu'elles n'ont pas été mises à jour pendant 4 semaines. Les beatmaps au cimetière ne disposent pas de classements. Cependant, elles peuvent toujours être téléchargées et jouées, et [contribuer aux statistiques de jeu](#statistiques-des-beatmaps-non-classées). Ils utilisent l'icône de point d'interrogation (![](/wiki/shared/status/graveyard.png)) dans l'[écran de sélection des beatmaps](/wiki/Interface#song-selection-screen).
+Le cimetière est un endroit où résident les beatmaps abandonnées par leurs [hôtes](/wiki/Beatmap/Beatmap_host). Ces maps n'ont pas de classement, mais elles peuvent toujours être téléchargées et jouées, et elles continuent à [contribuer aux statistiques de jeu](#statistiques-des-beatmaps-non-classées). Ils utilisent l'icône de point d'interrogation (![](/wiki/shared/status/graveyard.png)) dans l'[écran de sélection des beatmaps](/wiki/Interface#song-selection-screen).
 
-Une fois qu'une beatmap est graveyarded, elle peut revivre (c'est-à-dire être ramenée au statut [en attente](#work-in-progress-et-en-attente)). Pour ce faire, il suffit de mettre à jour la beatmap via le [système de soumission des beatmaps](/wiki/Submission).
+Une beatmap est automatiquement déplacé au cimetière depuis [Work In Progress et En attente](#work-in-progress-et-en-attente) lorsqu'il n'a pas été mis à jour depuis 4 semaines. L'auteur peut faire revivre la beatmap (c'est-à-dire le ramener à [en attente](#work-in-progress-et-en-attente)) en la mettant à jour via le [système de soumission des beatmaps](/wiki/Submission). Une beatmap au cimetière ne compte pas dans la [limite totale de téléchargement](/wiki/Help_Centre/Beatmapping#je-suis-un-osu!supporter-mais-je-n'ai-pas-10-emplacements-en-attente-!) d'un mappeur, mais la faire revivre nécessite un slot libre.
 
 ### Work In Progress et En attente
 
