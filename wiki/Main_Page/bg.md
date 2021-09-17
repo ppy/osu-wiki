@@ -3,8 +3,6 @@ layout: main_page
 no_native_review: true
 ---
 
-<!-- Do not add any empty lines inside this div. -->
-
 <div class="wiki-main-page__blurb">
 Добре дошли в Уикипедията на osu!, проектът с отворен код, който обхваща всичко свързано с играта osu!(следвай ритъма за да спечелиш).
 </div>
