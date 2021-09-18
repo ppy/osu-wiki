@@ -8,7 +8,7 @@ Celebrating a massive milestone with the official inclusion of ***Our Stolen The
 
 ![](https://assets.ppy.sh/artists/200/header.jpg)
 
-Every osu! player recognizes the modern electronic pop/rock sound behind [***Our Stolen Theory** - United (L.A.O.S Remix)*](https://osu.ppy.sh/beatmapsets?q=artist%3D%22our%20stolen%20theory%22%20united).
+Every osu! player recognizes the modern electronic pop/rock sound behind [**Our Stolen Theory - United (L.A.O.S Remix)**](https://osu.ppy.sh/beatmapsets?q=artist%3D%22our%20stolen%20theory%22%20united).
 
 This song has penetrated every corner of the osu! community, with ranked beatmaps spanning all game modes and totaling nearly 8 million plays across the board.
 
