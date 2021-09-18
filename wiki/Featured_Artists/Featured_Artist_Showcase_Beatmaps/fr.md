@@ -356,6 +356,7 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
   - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) hosted by ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 ## Histoire
 
+
 Dès sa création, la Mappers' Guild s'est fixé comme objectif principal de "créer des packs de beatmaps promotionnels pour les artistes associés à venir". Cela s'est reflété dans le tout premier projet majeur de la Guilde, dans lequel les membres de la Guilde ont préparé et classé six beatmaps des [musiques MOtOLOiD sous licence](https://osu.ppy.sh/beatmaps/artists/19) bien avant [l'annonce de l'artiste correspondant](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
 Comme la Guilde elle-même fonctionnait sur une entrée fermée, basée sur les candidatures à ses débuts, l'accès aux contenus des artistes associés à venir était souvent réservé à une poignée de mappeurs qui étaient majoritairement du mode de jeu [osu!](/wiki/Game_mode/osu!)]. Cependant, lorsque la Guilde a commencé à passer à un système d'entrée ouvert et automatisé [début 2019](/wiki/Mapping_and_Modding_Timeline#march.5), de plus en plus de mappeurs ont été attirés par la création de beatmaps vitrines pour les futurs artistes associés, quel que soit leur mode de jeu.
