@@ -4,11 +4,11 @@ title: "200th Featured Artist: Our Stolen Theory"
 date: 2021-09-18 09:30:00 +0000
 ---
 
-Celebrating a massive milestone with the official inclusion of ***Our Stolen Theory** - United (L.A.O.S Remix)* in the Featured Artist program!
+We're celebrating a massive milestone with the official inclusion of **Our Stolen Theory** - United (L.A.O.S Remix)** in the Featured Artist program!
 
 ![](https://assets.ppy.sh/artists/200/header.jpg)
 
-Every osu! player recognizes the modern electronic pop/rock sound behind [***Our Stolen Theory** - United (L.A.O.S Remix)*](https://osu.ppy.sh/beatmapsets?q=artist%3D%22our%20stolen%20theory%22%20united).
+Every osu! player recognizes the modern electronic pop/rock sound behind [**Our Stolen Theory - United (L.A.O.S Remix)**](https://osu.ppy.sh/beatmapsets?q=artist%3D%22our%20stolen%20theory%22%20united).
 
 This song has penetrated every corner of the osu! community, with ranked beatmaps spanning all game modes and totaling nearly 8 million plays across the board.
 
