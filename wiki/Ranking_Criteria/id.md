@@ -78,8 +78,8 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 - **Pembuat [guest difficulty](/wiki/Beatmap/Guest_difficulty), storyboard, skin dan hitsound harus ditambahkan ke tags beatmap.** Hal ini bertujuan memberikan pengakuan dan membantu orang lain mengidentifikasi kontributor utama dari beatmap. Nama pengguna yang berisi karakter tunggal dipisahkan oleh spasi harus mengganti spasi dengan garis bawah.
 - **[Sumber metadata utama](/wiki/Beatmap/Primary_metadata_source) harus dijadikan referensi metadata.** Jangan mengubah metadata dari sumber utama kecuali untuk mematuhi aturan pemformatan dan standardisasi di bawah. Jika tidak ada sumber yang tersedia, gunakan sumber yang paling umum dan dapat dikenali.
 - **Artis lagu harus dapat dilacak ke orang yang ada.** Jika tidak ada orang yang tercatat sebagai artis, gunakan `Unknown Artist`. Artis tunggal sebuah lagu tidak boleh merupakan suatu karakter atau program fiksi kecuali jika itu adalah alias artis.
-- **Anda harus menggunakan kolom Sumber jika lagu berasal atau terkait langsung dengan media lain seperti video game, film, serial, dll.** Nama situs web, nama album, atau BMS bukan sumber yang dapat digunakan. Jika lagu itu masuk atau terikat ke media lain setelah dirilis, kolom sumber bersifat opsional. `osu!` dapat digunakan sebagai sumber untuk konten Featured Artist osu!. Jika sebuah lagu memiliki beberapa sumber yang dapat digunakan, opsi apa pun valid. Untuk remix, aransemen, atau cover berdasarkan lagu aslinya, sumber lagu asli diterapkan dengan cara yang sama.
-  - Dalam kasus [kompilasi lagu](/wiki/Beatmapping/Song_compilation)/remix/medley/dll. yang memiliki lagu tanpa sumber yang sama, sumber harus diletakkan di tags, bukan di kolom sumber.
+- **Anda harus menggunakan kolom Sumber/*Source* jika lagu berasal atau terkait langsung dengan media lain seperti video game, film, serial, situs web, komunitas, dll.** Jika lagu itu masuk atau terikat ke media lain setelah dirilis, kolom sumber tidak perlu diisi/digunakan. Jika sebuah lagu memiliki beberapa sumber yang dapat digunakan, opsi apa pun valid. Untuk remix, aransemen, atau cover berdasarkan lagu aslinya, sumber lagu asli diterapkan dengan cara yang sama.
+  - Dalam kasus [kompilasi lagu](/wiki/Beatmapping/Song_compilation)/remix/medley/dll. yang memiliki lagu tanpa sumber yang sama, sumber harus diletakkan di tags, bukan di kolom sumber (kecuali kompilasi secara jelas terkait dengan sumber itu sendiri).
   - `osu!` tidak boleh digunakan sebagai sumber/*source*, kecuali jika musik dibuat khusus untuk osu! (dikenal juga sebagai osu! original), seperti pembuatan musik untuk tiebreaker dalam suatu turnamen.
 - **Metadata yang melebihi batas kolom (81 karakter) harus disingkat.** Mulailah dengan menghilangkan penanda tambahan dan jika masih tidak cukup, tunjukkan bahwa judul telah disingkat menggunakan `...` di tempat yang masuk akal.
 - **Jika artis atau judul disingkat agar sesuai dengan batas kolom, informasi yang dihilangkan harus ditambahkan ke tags.**
@@ -107,7 +107,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 #### Romanisasi
 
-- **Nama artis harus diromanisasi sesuai urutan yang tertulis di kolom unicode.**
+- **Nama seorang artis harus diromanisasi sesuai dari urutan yang tertulis di kolom unicode, kecuali jika terdapat nama alternatif untuk diromanisasi yang disediakan oleh artis.**
 - **Kata serap dari bahasa lain harus menggunakan kata-kata aslinya ketika sedang diromanisasi.**
 - **Ketika sebuah lagu menggunakan kata-kata berulang dalam judul atau artis yang satu dalam unicode, dan yang lainnya sebagai romanisasi dasar, kolom romanisasi harus menggunakan romanisasi yang disediakan dan menghapus duplikatnya.**
 - **Umlaut harus diromanisasi menjadi dua huruf yang sama: `ü` menjadi `ue`, `ö` menjadi `oe`, `ä` menjadi `ae` dan `ß` menjadi `ss`.**
