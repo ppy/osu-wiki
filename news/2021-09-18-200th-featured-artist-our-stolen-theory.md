@@ -32,8 +32,8 @@ Experience this timeless classic for yourself through any of these top-tier beat
 - [osu! map](https://osu.ppy.sh/beatmapsets/953303) by [Sotarks](https://osu.ppy.sh/users/4452992) - a modern rendition showcasing a different style!
 - [osu!taiko map](https://osu.ppy.sh/beatmapsets/559371) by [hikiko-](https://osu.ppy.sh/users/6512678)
 - [another osu!taiko map](https://osu.ppy.sh/beatmapsets/556731) by [Yuzeyun](https://osu.ppy.sh/users/481582)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/527777) - loved beatmap featuring an outstanding storyboard!
-- [osu!mania map](https://osu.ppy.sh/beatmapsets/726545) - a full spread for 4K players!
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/527777) by [CLSW](https://osu.ppy.sh/users/531253)- loved beatmap featuring an outstanding storyboard!
+- [osu!mania map](https://osu.ppy.sh/beatmapsets/726545) by [riunosk](https://osu.ppy.sh/users/5594381) - a full spread for 4K players!
 
 [Download the beatmap template](https://assets.ppy.sh/artists/200/Songs/Our%20Stolen%20Theory%20-%20United%20(L.A.O.S%20Remix).osz) to make your own map of this song!
 
@@ -50,8 +50,7 @@ It's honestly hard to believe how quickly things have blown up around here. We r
 Raw numbers might help put the current size of osu!'s Featured Artist library into perspective:
 
 - **4,326 tracks from 200 artists** are available for mapping from our Featured Artists!
-- **2,320 beatmaps have been ranked** using Featured Artist songs!
-- Meanwhile, approximately **33,701 ranked/pending/work-in-progress beatmaps** use Featured Artist songs! That's more than half of all non-graveyard maps.
+- **2,320 beatmaps have been ranked** using Featured Artist songs! Another **1,758 beatmaps** are currently pending or works in progress.
 - Beatmaps using Featured Artist songs have been **favourited over 720,000 times!**
 - Players have accumulated over **1.37 billion plays** throughout all maps using songs from our Featured Artists!
 - osu! players have spent roughly **1,933 years (yes, YEARS) playing maps of Featured Artist songs!** We're assuming non-pass plays are 10% of the map's length, so there's a lot of room for error on this stat. It's still an insane amount of time though.
