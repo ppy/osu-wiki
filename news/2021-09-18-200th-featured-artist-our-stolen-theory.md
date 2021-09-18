@@ -51,7 +51,7 @@ Raw numbers might help put the current size of osu!'s Featured Artist library in
 
 - **4,326 tracks from 200 artists** are available for mapping from our Featured Artists!
 - **2,320 beatmaps have been ranked** using Featured Artist songs!
-- Meanwhile, approximately **543,850 submitted beatmaps** use Featured Artist songs! (estimated 510,149 in the graveyard + 33,701 in other categories)
+- Meanwhile, approximately **33,701 ranked/pending/work-in-progress beatmaps** use Featured Artist songs! That's more than half of all non-graveyard maps.
 - Beatmaps using Featured Artist songs have been **favourited over 720,000 times!**
 - Players have accumulated over **1.37 billion plays** throughout all maps using songs from our Featured Artists!
 - osu! players have spent roughly **1,933 years (yes, YEARS) playing maps of Featured Artist songs!** We're assuming non-pass plays are 10% of the map's length, so there's a lot of room for error on this stat. It's still an insane amount of time though.
