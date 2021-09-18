@@ -32,7 +32,7 @@ Experience this timeless classic for yourself through any of these top-tier beat
 - [osu! map](https://osu.ppy.sh/beatmapsets/953303) by [Sotarks](https://osu.ppy.sh/users/4452992) - a modern rendition showcasing a different style!
 - [osu!taiko map](https://osu.ppy.sh/beatmapsets/559371) by [hikiko-](https://osu.ppy.sh/users/6512678)
 - [another osu!taiko map](https://osu.ppy.sh/beatmapsets/556731) by [Yuzeyun](https://osu.ppy.sh/users/481582)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/527777) by [CLSW](https://osu.ppy.sh/users/531253)- loved beatmap featuring an outstanding storyboard!
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/527777) by [Minato Yukina](https://osu.ppy.sh/users/531253) - loved beatmap featuring an outstanding storyboard!
 - [osu!mania map](https://osu.ppy.sh/beatmapsets/726545) by [riunosk](https://osu.ppy.sh/users/5594381) - a full spread for 4K players!
 
 [Download the beatmap template](https://assets.ppy.sh/artists/200/Songs/Our%20Stolen%20Theory%20-%20United%20(L.A.O.S%20Remix).osz) to make your own map of this song!
