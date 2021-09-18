@@ -1,14 +1,14 @@
 ---
 tags:
   - reverse choke
-outdated: true
-outdated_since: dded789e83248296663b8ac3844e9dfcb0de3849
 ---
 
 # Choke
 
-Le terme **Choke** est utilisé lorsqu'un joueur obtient un combo proche du maximum en jouant une [beatmap](/wiki/Beatmap), mais en faisant un [combobreak](/wiki/Glossary/Combobreak) vers la fin. À l'inverse, on parle de **reverse choke** lorsqu'un joueur fait un combobreak au début mais maintient le combo pendant le reste de la beatmap.
+Terme utilisé lorsqu'un joueur obtient presque un combo complet en jouant une [beatmap](/wiki/Beatmap), mais [casse son combo](/wiki/Glossary/Combobreak) vers la fin. Au contraire, on parle de **reverse choke** lorsqu'un joueur casse le combo au début, mais le conserve pendant le reste de la beatmap. Dans [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch), la différence de [score total](/wiki/Score) entre les choke normaux et inversés peut être radicale, car les miss tardifs font que le joueur perd potentiellement plus de points en raison du multiplicateur de score élevé du combo accumulé.
 
-Le terme est également utilisé par de nombreuses autres communautés en ligne pour décrire des événements et des actions identiques ou similaires. (Par exemple, *Super Smash Bros.* ou les *speedrunners*).
+Le terme est également utilisé par de nombreuses autres communautés en ligne pour décrire des événements et des actions identiques ou similaires (par exemple, [*Super Smash Bros.*](https://fr.wikipedia.org/wiki/Super_Smash_Bros.) ou [*speedrunning*](https://fr.wikipedia.org/wiki/Speedrun)).
 
-<!--TODO: Add images and links-->
+## Causes des chokes
+
+La caractéristique principale d'un choke est son caractère aléatoire et ses performances incohérentes. Cela exclut les miss réguliers ou spécifiques à un motif ou les [slider breaks](/wiki/Gameplay/Sliderbreak), qui sont généralement liés au niveau de compétence du joueur ou à la façon dont la beatmap est construite. Les chokes sont généralement causés par un stress mental excessif et une nervosité pendant le jeu, ainsi que par une fatigue générale.
