@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "200th Featured Artist: Our Stolen Theory"
-date: 2021-09-18 12:00:00 +0000
+date: 2021-09-18 09:30:00 +0000
 ---
 
 Celebrating a massive milestone with the official inclusion of ***Our Stolen Theory** - United (L.A.O.S Remix)* in the Featured Artist program!
@@ -12,7 +12,7 @@ Every osu! player recognizes the modern electronic pop/rock sound behind [***Our
 
 This song has penetrated every corner of the osu! community, with ranked beatmaps spanning all game modes and totaling nearly 8 million plays across the board.
 
-Unlike our usual artist announcements, there's only 1 song available on [**Our Stolen Theory**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/200). The band hasn't produced music after the passing of one of its members, but their track *United (L.A.O.S Remix)* has made an undeniable impact on the osu! community, and we're beyond happy to carve out a special place for it in the osu! community.
+Unlike our usual artist announcements, there's only 1 song available on [**Our Stolen Theory**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/200). The band hasn't actively produced music in a long time, but their track *United (L.A.O.S Remix)* has made an undeniable impact on the osu! community, and we're beyond happy to carve out a special place for it in the osu! community.
 
 ---
 
@@ -35,30 +35,30 @@ Experience this timeless classic for yourself through any of these top-tier beat
 - [osu!catch map](https://osu.ppy.sh/beatmapsets/527777) - loved beatmap featuring an outstanding storyboard!
 - [osu!mania map](https://osu.ppy.sh/beatmapsets/726545) - a full spread for 4K players!
 
-[Download the beatmap template](LINK) to make your own map of this song!
+[Download the beatmap template](https://assets.ppy.sh/artists/200/Songs/Our%20Stolen%20Theory%20-%20United%20(L.A.O.S%20Remix).osz) to make your own map of this song!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/200/Songs/Our%20Stolen%20Theory%20-%20United%20(L.A.O.S%20Remix).mp3" type="audio/mpeg">
 </audio>
 
 ---
 
-[**Our Stolen Theory**](https://osu.ppy.sh/beatmaps/artists/200) is osu!'s 200th Featured Artist. That's a big deal. Let's talk about it.
+[**Our Stolen Theory**](https://osu.ppy.sh/beatmaps/artists/200) is osu!'s 200th Featured Artist. That's a big deal.
 
-It's honestly hard to believe how quickly things have grown. We reached [**100 artists**](https://osu.ppy.sh/home/news/2020-09-23-new-featured-artist-epica) less than a year ago, and it took **4 years** since the start of the Featured Artist program to reach that milestone.
+It's honestly hard to believe how quickly things have blown up around here. We reached [**100 artists**](https://osu.ppy.sh/home/news/2020-09-23-new-featured-artist-epica) less than a year ago, and it took **4 years** since the start of the Featured Artist program to reach that milestone.
 
-Raw numbers might help put this growth into perspective:
+Raw numbers might help put the current size of osu!'s Featured Artist library into perspective:
 
-- **xxxx** tracks from **200** artists are available for mapping from the Featured Artist listing!
-- **xxxx** beatmaps have been **ranked** using Featured Artist songs!
-- Meanwhile, **xxxx** beatmaps have been **submitted** using Featured Artist songs!
-- Players have accumulated **x** plays on songs from our Featured Artists!
-- Beatmaps using Featured Artist songs have been favourited **x** times!
-- //Time spent playing Featured Artist songs?
+- **4326 tracks from 200 artists** are available for mapping from our Featured Artists!
+- **2320 beatmaps have been ranked** using Featured Artist songs!
+- Meanwhile, approximately **900,000 beatmaps have been submitted** use Featured Artist songs! (estimated 844,749 in the graveyard + 55805 in other categories)
+- Beatmaps using Featured Artist songs have been **favourited over 720,000 times!**
+- Players have accumulated over **1.37 billion plays** throughout all maps using songs from our Featured Artists!
+- osu! players have spent roughly **1,933 years (yes, YEARS) playing maps of Featured Artist songs!** We're assuming non-pass plays are 10% of the map's length, so there's a lot of room for error on this stat. It's still an insane amount of time though.
 
-While big numbers are cool, they don't reeeeally showcase our biggest goal with the Featured Artist program.
+While big numbers are cool, they don't reeeeally showcase one of our biggest goals with the Featured Artist program.
 
-osu!'s 14 years of community-designed content is full of artists and songs like [***Our Stolen Theory** - United (L.A.O.S Remix)*](https://osu.ppy.sh/beatmapsets?q=artist%3D%22our%20stolen%20theory%22%20united) that have strongly connected with the osu! scene. We want to ensure that these community icons are properly supported for use in osu! until the end of the universe, so we'll be continuing with that aim while picking up our next hundred Featured Artists.
+osu!'s 14 years of community-designed content is full of artists and songs that have strong connections to the osu! scene like [***Our Stolen Theory** - United (L.A.O.S Remix)*](https://osu.ppy.sh/beatmapsets?q=artist%3D%22our%20stolen%20theory%22%20united). We want to ensure that these community icons are properly supported for use in osu! until the end of the universe, so we'll be continuing with that aim while picking up our next hundred Featured Artists.
 
 That said, thanks for guiding us on the never-ending Featured Artist train.
 
