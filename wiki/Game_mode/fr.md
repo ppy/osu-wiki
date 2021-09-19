@@ -20,7 +20,7 @@ Pour passer d'un mode à l'autre, cliquez sur le bouton `Mode` en bas de l'écra
 
 *Page principale : [osu!](osu!)*
 
-*osu!* est le mode par défaut, dans lequel les joueurs doivent toucher des cercles, tenir des sliders et faire tourner des spinner en suivant le rythme de la musique. Il est basé sur le jeu de rythme original [iNiS](https://fr.wikipedia.org/wiki/INiS) *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan)*. osu! a sa propre mascotte appelée [pippi](/wiki/Mascots#-pippi), une fille aux cheveux roses et noirs.
+*osu!* est le mode par défaut, dans lequel les joueurs doivent cliquer sur des cercles, tenir des sliders et faire tourner des spinners en suivant le rythme de la musique. Il est basé sur le jeu de rythme original [iNiS](https://fr.wikipedia.org/wiki/INiS) *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan)*. osu! a sa propre mascotte appelée [pippi](/wiki/Mascots#-pippi), une fille aux cheveux roses et noirs.
 
 ![Gameplay d'osu!](/wiki/shared/osu-gameplay.jpg "Gameplay d'osu!")
 
@@ -44,7 +44,7 @@ Dans *osu!catch*, des fruits de différentes variétés tombent du haut de l'éc
 
 *Page principale : [osu!mania](osu!mania)*
 
-*osu!mania* est un mode de jeu rythmique à défilement vertical (VSRG) conçu comme un simulateur de piano. Il a été principalement [introduit et implémenté](https://osu.ppy.sh/community/forums/topics/100751) par [woc2006](https://osu.ppy.sh/users/1105845), et est basé sur une variété de jeux de rythme de type tapis roulant (notamment [Dance Dance Revolution](https://fr.wikipedia.org/wiki/Dance_Dance_Revolution) et [Beatmania](https://fr.wikipedia.org/wiki/Beatmania)). Les mascottes d'osu!mania sont les jumelles [Mani et Mari](/wiki/Mascots#-mani-&-mari), toutes deux avec des cheveux violets et violets clairs.
+*osu!mania* est un mode de jeu rythmique à défilement vertical (VSRG) conçu comme un simulateur de piano. Il a été principalement [introduit et implémenté](https://osu.ppy.sh/community/forums/topics/100751) par [woc2006](https://osu.ppy.sh/users/1105845), et est basé sur une variété de jeux de rythme de type tapis roulant (notamment [Dance Dance Revolution](https://fr.wikipedia.org/wiki/Dance_Dance_Revolution) et [Beatmania](https://fr.wikipedia.org/wiki/Beatmania)). Les mascottes d'osu!mania sont les jumeaux [Mani et Mari](/wiki/Mascots#-mani-&-mari), tous deux aux cheveux violets et violets clairs.
 
 ![Gameplay d'osu!mania](/wiki/shared/mania-gameplay.jpg "Gameplay d'osu!mania")
 
