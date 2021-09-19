@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 61a3764d13436798e07e277a2d0db5b277def001
+---
+
 # Basit arkaplanlara sahip görseller nasıl kırpılır
 
 Şimdi, sizlere tek renkli arkaplanları silmenin çabuk bir yolunu göstereceğim. Önceki öğretici gibi burada da GIMP ve aşağıda görebildiğiniz görseli kullanacağım.
