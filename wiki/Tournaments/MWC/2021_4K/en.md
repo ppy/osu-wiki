@@ -267,7 +267,7 @@ Sunday, September 12, 2021:
 
 ### Semifinals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDhy2Sgc-Bw9vB484JdHKbD8I0ZTu7PT8O0J_h_NpfG7QmLfgFoHIVNoX1cgDggQANFumV296H0fVz/pubhtml "Google Sheets").
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDhy2Sgc-Bw9vB484JdHKbD8I0ZTu7PT8O0J_h_NpfG7QmLfgFoHIVNoX1cgDggQANFumV296H0fVz/pubhtml).
 
 Saturday, September 04, 2021:
 
@@ -289,7 +289,7 @@ Sunday, September 05, 2021:
 
 ### Quarterfinals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxI-1S9uv04mhcmVeYdB_rbQ3T6gyhbs8739duhmPwv4oChWpcALdX6qm9vS3PsWR-ouo9ytG5f2rA/pubhtml "Google Sheets").
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxI-1S9uv04mhcmVeYdB_rbQ3T6gyhbs8739duhmPwv4oChWpcALdX6qm9vS3PsWR-ouo9ytG5f2rA/pubhtml).
 
 Saturday, August 28, 2021:
 
@@ -319,7 +319,7 @@ Sunday, August 29, 2021:
 
 ### Round of 16
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-l5g5Qa_O55t-_azBZLFGF8foa86bWrEtJRlvUiViRPsxreUeNztIbgBrFsjh0ffc8_wXtfHmLcaD/pubhtml "Google Sheets").
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-l5g5Qa_O55t-_azBZLFGF8foa86bWrEtJRlvUiViRPsxreUeNztIbgBrFsjh0ffc8_wXtfHmLcaD/pubhtml).
 
 Saturday, August 21, 2021:
 
@@ -349,7 +349,7 @@ Sunday, August 22, 2021:
 
 ### Round of 32
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRCqILWcxsJv9hmIGjtGhV6Q7C3-ZxUPusNIYyV4lED1CNzn1vsH_lUPlnz6Mu1f_ODHZZJvmh4uPfv/pubhtml "Google Sheets").
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRCqILWcxsJv9hmIGjtGhV6Q7C3-ZxUPusNIYyV4lED1CNzn1vsH_lUPlnz6Mu1f_ODHZZJvmh4uPfv/pubhtml).
 
 Saturday, August 14, 2021:
 
@@ -379,7 +379,7 @@ Sunday, August 15, 2021:
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CqMoaA8sCvnzKIdacPuXiqlVan4b1-1O4HCfLSvOaV0/edit?rm=minimal "Google Sheets"). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdqhTkuMWNIS__5kIRsSijfBz_tpADXACO-9VtOxRXK5zIIqmFKlaEx7Hm_-MpjE4K5-8PDmExG7hJ/pubhtml "Google Sheets").
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CqMoaA8sCvnzKIdacPuXiqlVan4b1-1O4HCfLSvOaV0/edit?rm=minimal "Google Sheets"). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdqhTkuMWNIS__5kIRsSijfBz_tpADXACO-9VtOxRXK5zIIqmFKlaEx7Hm_-MpjE4K5-8PDmExG7hJ/pubhtml).
 
 ## Ruleset
 
