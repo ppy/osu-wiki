@@ -14,7 +14,7 @@ The osu! wiki is formatted using Markdown (specifically [GitHub-Flavoured Markdo
 
 Since the osu! wiki is managed through this GitHub repository, you'll need some basic knowledge of [Git](https://git-scm.com/) in order to contribute.
 
-Luckily, if you're not willing to get too involved with the technicalities of Git, GitHub provides some on-site tools that can help you easily make changes. The [osu! wiki Contribution Guide](https://osu.ppy.sh/help/wiki/osu!_wiki_Contribution_Guide) explains step-by-step how to utilise them in order to make changes to the osu! wiki, assuming that you have no prior knowledge of Git or GitHub.
+Luckily, if you're not willing to get too involved with the technicalities of Git, GitHub provides some on-site tools that can help you easily make changes. The [osu! wiki contribution guide](https://osu.ppy.sh/help/wiki/osu!_wiki/Contribution_guide) explains step-by-step how to utilise them in order to make changes to the osu! wiki, assuming that you have no prior knowledge of Git or GitHub.
 
 ## Standards and Requirements
 

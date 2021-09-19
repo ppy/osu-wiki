@@ -48,7 +48,7 @@ Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, si
 
 3. Esto no es un gran problema; ésto es, si no vas a editar un archivo que ya fue modificado, lo cual es poco probable, más 'commits' estarás por detrás.
 
-4. Para solucionar esto, ve a la sección [¡Mi bifurcación está desactualizada!](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#my-branch-is-out-of-date!) en el artículo de Problemas Comunes.
+4. Para solucionar esto, ve a la sección [¡Mi bifurcación está desactualizada!](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!) en el artículo de Problemas Comunes.
 
 5. Una vez que hayas completado el paso 4, continúa en [Editando en línea o localmente](#editando-en-línea-o-localmente).
 
@@ -56,8 +56,8 @@ Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, si
 
 En este punto, tienes dos opciones:
 
-- [Interfaz Web de GitHub](/wiki/osu!_wiki_Contribution_Guide/GitHub_Web_Interface) - edita en línea; ésta es la mejor opción para la edición de un solo archivo
-- [GitHub para Escritorio](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop) - edita localmente; ésta es la mejor opción para la edición de uno o más archivos (ésto incluye subir, eliminar y mover imágenes o archivos)
+- [Interfaz Web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - edita en línea; ésta es la mejor opción para la edición de un solo archivo
+- [GitHub para Escritorio](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - edita localmente; ésta es la mejor opción para la edición de uno o más archivos (ésto incluye subir, eliminar y mover imágenes o archivos)
 
 *Nota: No estás limitado a las dos opciones listadas para editar. Para mantener esta guía corta y simple, éstos artículos no discutirán el uso de otras herramientas en lo absoluto. Hay otras aplicaciones de terceros que pueden hacer más o menos de lo que la Interfaz Web de GitHub y GitHub para Escritorio pueden hacer.*
 

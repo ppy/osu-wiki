@@ -44,7 +44,7 @@
 
 3. 这不是个大问题。只是你无法修改已经被修改的文件，这意味你的仓库落后于最新的提交。
 
-4. 为了解决这个问题，请看[常见问题——我的分支过期了！](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#我的分支过期了！)。
+4. 为了解决这个问题，请看[常见问题——我的分支过期了！](/wiki/osu!_wiki/Contribution_guide/Common_Issues#我的分支过期了！)。
 
 5. 当你完成了第 4 步，请转到 [在线编辑或本地编辑](#在线编辑或本地编辑)。
 
@@ -52,8 +52,8 @@
 
 现在，你有两种选择：
 
-- [GitHub 网页](/wiki/osu!_wiki_Contribution_Guide/GitHub_Web_Interface) - 在线编辑；适合单篇文章的编辑
-- [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop) - 本地编辑；这适合于单篇或者多篇文章的编辑（包括上传，删除，移动图片和文件）
+- [GitHub 网页](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - 在线编辑；适合单篇文章的编辑
+- [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - 本地编辑；这适合于单篇或者多篇文章的编辑（包括上传，删除，移动图片和文件）
 
 *提示：你在以上两种编辑方式中任选一种。为了使本指南简短而简单，文章不会讨论如何使用其他工具。也有一些第三方软件可以做类似于 GitHub 网页和 Desktop 所做的事情。*
 

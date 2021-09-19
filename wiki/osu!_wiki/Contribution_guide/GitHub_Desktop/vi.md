@@ -4,7 +4,7 @@ no_native_review: true
 
 # GitHub Desktop
 
-*Bài viết này tiếp tục từ [trang chính](/wiki/osu!_wiki_Contribution_Guide)* và coi rằng bạn sẽ sử dụng [GitHub Desktop](https://desktop.github.com). **Bạn có thể sử dụng Git client khác theo ý thích của mình.** Kể cả khi bạn làm việc cục bộ, bạn vẫn cần truy cập GitHub để tạo pull request để làm cho các thay đổi của bạn có thể được thực hiện.
+*Bài viết này tiếp tục từ [trang chính](/wiki/osu!_wiki/Contribution_guide)* và coi rằng bạn sẽ sử dụng [GitHub Desktop](https://desktop.github.com). **Bạn có thể sử dụng Git client khác theo ý thích của mình.** Kể cả khi bạn làm việc cục bộ, bạn vẫn cần truy cập GitHub để tạo pull request để làm cho các thay đổi của bạn có thể được thực hiện.
 
 ## Cài đặt GitHub Desktop
 
@@ -32,7 +32,7 @@ no_native_review: true
 Tuy việc phân nhánh không bắt buộc, nhưng nó [được khuyến nghị với khá nhiều lý do](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Ví dụ:
 
 - Phân nhánh cô lập các thay đổi logic khác nhau: bạn có thể làm việc với nhiều bài viết cũng như được đánh giá và merge một cách riêng biệt.
-- Nếu các thay đổi nằm ngoài nhánh `master`, bạn có thể [đồng bộ chúng an toàn](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#branch-của-tôi-đã-lỗi-thời!) mà không gặp xung đột khi merge.
+- Nếu các thay đổi nằm ngoài nhánh `master`, bạn có thể [đồng bộ chúng an toàn](/wiki/osu!_wiki/Contribution_guide/Common_Issues#branch-của-tôi-đã-lỗi-thời!) mà không gặp xung đột khi merge.
 
 1. Nhấn vào trình đơn thả xuống `Current branch` ở menu trên cùng.
 
@@ -91,4 +91,4 @@ Ví dụ, như ở hình trên, [pippi](/wiki/Mascots#-pippi) đã thêm một t
 
   ![](img/github-desktop-push.jpg)
 
-9. Đi tới [Hoàn thiện](/wiki/osu!_wiki_Contribution_Guide#hoàn-thiện) để biết thêm các thông tin cuối cùng về việc tạo pull request của bạn.
+9. Đi tới [Hoàn thiện](/wiki/osu!_wiki/Contribution_guide#hoàn-thiện) để biết thêm các thông tin cuối cùng về việc tạo pull request của bạn.

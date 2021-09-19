@@ -83,7 +83,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # О вики
 
-[Карта сайта](/wiki/Sitemap) • [Руководство по вкладу](/wiki/osu!_wiki_Contribution_Guide) • [Критерии оформления статей](/wiki/Article_Styling_Criteria) • [Критерии оформления новостей](/wiki/News_Styling_Criteria)
+[Карта сайта](/wiki/Sitemap) • [Руководство по вкладу](/wiki/osu!_wiki/Contribution_guide) • [Критерии оформления статей](/wiki/Article_Styling_Criteria) • [Критерии оформления новостей](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

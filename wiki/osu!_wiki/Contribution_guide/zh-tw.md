@@ -43,7 +43,7 @@
 
 3. 這不算什麼大問題，只要你不要編輯到已經修改的檔案，但你落後的 commits 越多，情況就越不可能發生。
 
-4. 為了解決這個問題，請參見常見問題中的[我的分支過期了！](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#my-branch-is-out-of-date!)。
+4. 為了解決這個問題，請參見常見問題中的[我的分支過期了！](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!)。
 
 5. 完成第4步後，繼續閱讀[在本機或線上編輯](#editing-online-or-locally)。
 
@@ -51,8 +51,8 @@
 
 現在你有兩個選擇：
 
-- [GitHub 網頁介面](/wiki/osu!_wiki_Contribution_Guide/GitHub_Web_Interface) - 線上編輯；適合單篇文章的編輯。
-- [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop) - 在自己的電腦上編輯；適合單篇和/或多篇文章的編輯 (包括上傳、刪除及移動照片或其他檔案)。
+- [GitHub 網頁介面](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - 線上編輯；適合單篇文章的編輯。
+- [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - 在自己的電腦上編輯；適合單篇和/或多篇文章的編輯 (包括上傳、刪除及移動照片或其他檔案)。
 
 *提醒: 編輯的方式並不限於以上兩種，但為了指南的長度及整潔度，我們不會提到或深入討論其他工具。其他的第三方軟體跟 GitHub 網頁介面和 GitHub Desktop 相比，有更多或更少的功能。*
 

@@ -4,7 +4,7 @@ no_native_review: true
 
 # Giao diện web GitHub
 
-*Bài viết này tiếp tục từ [trang chính](/wiki/osu!_wiki_Contribution_Guide).* Nếu bạn định sửa đổi nhiều bài viết (bao gồm đăng tải, xoá, và/hoặc di chuyển các ảnh, các tệp), vui lòng xem hướng dẫn [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop).
+*Bài viết này tiếp tục từ [trang chính](/wiki/osu!_wiki/Contribution_guide).* Nếu bạn định sửa đổi nhiều bài viết (bao gồm đăng tải, xoá, và/hoặc di chuyển các ảnh, các tệp), vui lòng xem hướng dẫn [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop).
 
 ## Sửa đổi
 
@@ -24,7 +24,7 @@ no_native_review: true
 
 ### Di chuyển các tệp
 
-*Cảnh báo: **Không khuyến khích** làm điều này vì bạn chỉ có thể di chuyển một tệp mỗi lần. Nó sẽ tạo nhiều commit "vô nghĩa" khiến cho những người đánh giá muốn [đóng hoặc trì hoãn pull request của bạn](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#ai-đó-bảo-tôi-hãy-viết-thông-điệp-commit-có-ý-nghĩa!)!*
+*Cảnh báo: **Không khuyến khích** làm điều này vì bạn chỉ có thể di chuyển một tệp mỗi lần. Nó sẽ tạo nhiều commit "vô nghĩa" khiến cho những người đánh giá muốn [đóng hoặc trì hoãn pull request của bạn](/wiki/osu!_wiki/Contribution_guide/Common_Issues#ai-đó-bảo-tôi-hãy-viết-thông-điệp-commit-có-ý-nghĩa!)!*
 
 1. Điều hướng tới tệp bạn muốn di chuyển và mở nó.
 
@@ -60,7 +60,7 @@ no_native_review: true
 
 ### Xoá các tệp
 
-*Cảnh báo: **Không khuyến khích** do bạn chỉ có thể xoá mỗi lần một tệp. Nó sẽ tạo nhiều commit "vô nghĩa" khiến cho những người đánh giá muốn [đóng hoặc trì hoãn pull request của bạn](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#ai-đó-bảo-tôi-hãy-viết-thông-điệp-commit-có-ý-nghĩa!)!*
+*Cảnh báo: **Không khuyến khích** do bạn chỉ có thể xoá mỗi lần một tệp. Nó sẽ tạo nhiều commit "vô nghĩa" khiến cho những người đánh giá muốn [đóng hoặc trì hoãn pull request của bạn](/wiki/osu!_wiki/Contribution_guide/Common_Issues#ai-đó-bảo-tôi-hãy-viết-thông-điệp-commit-có-ý-nghĩa!)!*
 
 1. Mở thẻ code trên fork của bạn.
 2. Điều hướng tới tệp bạn muốn xoá và mở nó.
@@ -89,4 +89,4 @@ no_native_review: true
 
    ![](img/pull-request-pippi-osu--osu-wiki.jpg "Đừng làm gì ở đây (không phải trang này!)")
 
-8. Đi tới [Hoàn thiện](/wiki/osu!_wiki_Contribution_Guide#hoàn-thiện) để xem các thông tin cuối cùng về việc tạo pull request của bạn.
+8. Đi tới [Hoàn thiện](/wiki/osu!_wiki/Contribution_guide#hoàn-thiện) để xem các thông tin cuối cùng về việc tạo pull request của bạn.

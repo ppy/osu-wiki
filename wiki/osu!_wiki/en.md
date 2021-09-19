@@ -4,7 +4,7 @@ The **osu! wiki** is an open-source knowledge database written and maintained by
 
 All discussions that cover the wiki in general, its development, and changes to articles, happen in the `#osu-wiki` channel of the official [osu!dev Discord server](/wiki/osu!dev_Discord_server). To learn how you can help the osu! wiki, check the following articles:
 
-- [Contribution guide](/wiki/osu!_wiki_Contribution_Guide)
+- [Contribution guide](/wiki/osu!_wiki/Contribution_guide)
 - [Maintenance](/wiki/osu!_wiki/Maintenance)
 
 ## History
@@ -23,7 +23,7 @@ Translations in different languages are available for some articles. They are ma
 
 ## Model
 
-The osu! wiki is built around the concept of accessibility: edits and translations are encouraged and may be done by anyone capable and knowledgeable. The data for articles is stored in a [GitHub repository](https://github.com/ppy/osu-wiki) and updated by contributors through the [use of pull requests](/wiki/osu!_wiki_Contribution_Guide), which are then reviewed and merged by the [wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
+The osu! wiki is built around the concept of accessibility: edits and translations are encouraged and may be done by anyone capable and knowledgeable. The data for articles is stored in a [GitHub repository](https://github.com/ppy/osu-wiki) and updated by contributors through the [use of pull requests](/wiki/osu!_wiki/Contribution_guide), which are then reviewed and merged by the [wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
 
 The articles are formatted using [GitHub-flavoured Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). Additionally, the website engine implements custom features crucial for the wiki as a whole, such as redirects, front matter, or formatting improvements.<!-- TODO: article on custom features of the wiki? it could help us ease the ASC a bit as well -->
 

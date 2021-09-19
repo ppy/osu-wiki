@@ -83,7 +83,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # 关于 osu!wiki
 
-[网址地图](/wiki/Sitemap) • [贡献指南](/wiki/osu!_wiki_Contribution_Guide) • [文章风格规范](/wiki/Article_Styling_Criteria) • [新闻风格规范](/wiki/News_Styling_Criteria)
+[网址地图](/wiki/Sitemap) • [贡献指南](/wiki/osu!_wiki/Contribution_guide) • [文章风格规范](/wiki/Article_Styling_Criteria) • [新闻风格规范](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

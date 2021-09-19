@@ -8,7 +8,7 @@ Di bawah ini hanyalah beberapa cara yang dapat Kamu lakukan untuk membantu dalam
 
 [Wiki](https://github.com/ppy/osu-wiki) adalah basis pengetahuan resmi kami yang berisi apa saja dan segalanya tentang osu!. Oleh karena itu, wiki selalu membutuhkan lebih banyak kontributor untuk membantu menjaga situs tetap mutakhir dengan pengetahuan maupun terjemahan yang segar dan baru.
 
-Jika Kamu adalah pendatang baru di osu! wiki, Kamu dapat membaca lebih lanjut di [Panduan Kontribusi osu! wiki](/wiki/osu!_wiki_Contribution_Guide).
+Jika Kamu adalah pendatang baru di osu! wiki, Kamu dapat membaca lebih lanjut di [Panduan Kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide).
 
 ## Membantu menjaga osu! tetap ramah dan aman
 

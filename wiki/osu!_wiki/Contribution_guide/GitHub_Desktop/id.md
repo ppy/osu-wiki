@@ -1,6 +1,6 @@
 # GitHub Desktop
 
-*Artikel ini merupakan lanjutan dari [laman utama sebelumnya](/wiki/osu!_wiki_Contribution_Guide)* dengan asumsi kamu akan menggunakan [Github Desktop](https://desktop.github.com). **Kamu tetap dapat menggunakan aplikasi Git yang lain sesuai dengan kehendakmu.** Meskipun kamu bekerja secara lokal, kamu masih perlu mengakses GitHub untuk membuat pull request agar perubahan kamu dapat terjadi dan bisa diakses semua orang.
+*Artikel ini merupakan lanjutan dari [laman utama sebelumnya](/wiki/osu!_wiki/Contribution_guide)* dengan asumsi kamu akan menggunakan [Github Desktop](https://desktop.github.com). **Kamu tetap dapat menggunakan aplikasi Git yang lain sesuai dengan kehendakmu.** Meskipun kamu bekerja secara lokal, kamu masih perlu mengakses GitHub untuk membuat pull request agar perubahan kamu dapat terjadi dan bisa diakses semua orang.
 
 ## Memasang Github Desktop
 
@@ -28,7 +28,7 @@
 Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Di antaranya:
 
 - Percabangan (branch) mengisolasi perubahan teknis yang berbeda antar satu sama lain: ini berarti kamu dapat mengerjakan lebih dari satu artikel dan meminta mereka untuk ditinjau dan digabungkan (merging) secara terpisah.
-- Saat perubahan yang kamu lakukan berada di luar branch `master`, kamu dapat [melakukan sinkronisasi dengan aman](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#branch-saya-belum-diperbarui!) tanpa mengalami konflik penggabungan (merge conflicts).
+- Saat perubahan yang kamu lakukan berada di luar branch `master`, kamu dapat [melakukan sinkronisasi dengan aman](/wiki/osu!_wiki/Contribution_guide/Common_Issues#branch-saya-belum-diperbarui!) tanpa mengalami konflik penggabungan (merge conflicts).
 
 1. Tekan tombol dropdown `Current branch`. Menu ini terletak di bagian atas menu.
 
@@ -87,4 +87,4 @@ Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#-pippi) telah 
 
   ![](img/github-desktop-push.jpg)
 
-9. Lanjutkan ke tahap [Penyelesaian](/wiki/osu!_wiki_Contribution_Guide#penyelesaian) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.
+9. Lanjutkan ke tahap [Penyelesaian](/wiki/osu!_wiki/Contribution_guide#penyelesaian) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.

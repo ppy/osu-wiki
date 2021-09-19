@@ -85,7 +85,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # 關於此 wiki
 
-[網站地圖](/wiki/Sitemap) • [貢獻指南](/wiki/osu!_wiki_Contribution_Guide) • [文章風格規範](/wiki/Article_Styling_Criteria) • [新聞風格規範](/wiki/News_Styling_Criteria)
+[網站地圖](/wiki/Sitemap) • [貢獻指南](/wiki/osu!_wiki/Contribution_guide) • [文章風格規範](/wiki/Article_Styling_Criteria) • [新聞風格規範](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

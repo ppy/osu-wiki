@@ -1,6 +1,6 @@
 # GitHub Desktop
 
-*This article continues from [the main page](/wiki/osu!_wiki_Contribution_Guide)* and assumes that you will be using [GitHub Desktop](https://desktop.github.com). **You may use other Git clients on your own terms.** Even if you do work locally, you will still need to access GitHub to create pull requests to make your changes happen.
+*This article continues from [the main page](/wiki/osu!_wiki/Contribution_guide)* and assumes that you will be using [GitHub Desktop](https://desktop.github.com). **You may use other Git clients on your own terms.** Even if you do work locally, you will still need to access GitHub to create pull requests to make your changes happen.
 
 ## Installing GitHub Desktop
 
@@ -28,7 +28,7 @@
 While branching is technically optional, it is [highly recommended for a couple of reasons](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). To name a few:
 
 - Branches isolate different logical changes from each other: you can work on more than one article and have them reviewed and merged separately.
-- When your changes are outside of the `master` branch, you can [safely sync it](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#my-branch-is-out-of-date!) without merge conflicts.
+- When your changes are outside of the `master` branch, you can [safely sync it](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!) without merge conflicts.
 
 1. Click on the `Current branch` dropdown located at the top of the menu.
 
@@ -87,4 +87,4 @@ For example, as pictured above, [pippi](/wiki/Mascots#-pippi) had added an image
 
   ![](img/github-desktop-push.jpg)
 
-9. Continue to [Finishing](/wiki/osu!_wiki_Contribution_Guide#finishing) for the last piece of information regarding your pull request and changes.
+9. Continue to [Finishing](/wiki/osu!_wiki/Contribution_guide#finishing) for the last piece of information regarding your pull request and changes.

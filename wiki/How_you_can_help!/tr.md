@@ -8,7 +8,7 @@ Aşağıda, topluluk içerisinde yardımcı olabileceğiniz yollardan birkaçı 
 
 [Wiki](https://github.com/ppy/osu-wiki) osu! hakkındaki her şeyin bulunduğu resmi bilgi bankamızdır. Dolayısıyla wiki, sitenin taze, yeni bilgiler veya çeviriler ile güncel kalmasına yardımcı olabilecek iştirakçileri her daim aramaktadır.
 
-Eğer osu! wiki'ye yeniyseniz, bu konuyla ilgili daha fazla bilgiye [osu! wiki Katkı Rehberi'nden](/wiki/osu!_wiki_Contribution_Guide) erişebilirsiniz.
+Eğer osu! wiki'ye yeniyseniz, bu konuyla ilgili daha fazla bilgiye [osu! wiki Katkı Rehberi'nden](/wiki/osu!_wiki/Contribution_guide) erişebilirsiniz.
 
 ## osu!'nun arkadaş canlısı ve güvenli kalmasına yardımcı olun
 

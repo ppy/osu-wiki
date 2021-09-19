@@ -84,7 +84,7 @@ Organizații: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Despre wiki
 
-[Harta site-ului](/wiki/Sitemap) • [Ghid de contribuție](/wiki/osu!_wiki_Contribution_Guide) • [Criterii de stilare a articolelor](/wiki/Article_Styling_Criteria) • [Criterii de stilare a știrilor](/wiki/News_Styling_Criteria)
+[Harta site-ului](/wiki/Sitemap) • [Ghid de contribuție](/wiki/osu!_wiki/Contribution_guide) • [Criterii de stilare a articolelor](/wiki/Article_Styling_Criteria) • [Criterii de stilare a știrilor](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

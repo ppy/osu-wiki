@@ -4,7 +4,7 @@ no_native_review: true
 
 # GitHub para Escritorio
 
-*Éste artículo es la continuación de [la página principal](/wiki/osu!_wiki_Contribution_Guide)* y asume que estarás usando [GitHub para Escritorio](https://desktop.github.com). **Puedes usar otros clientes de Git bajo tus propios términos.** Incluso si es que trabajas localmente, seguirás necesitando entrar a GitHub para crear 'pull requests' para hacer que tus cambios pasen.
+*Éste artículo es la continuación de [la página principal](/wiki/osu!_wiki/Contribution_guide)* y asume que estarás usando [GitHub para Escritorio](https://desktop.github.com). **Puedes usar otros clientes de Git bajo tus propios términos.** Incluso si es que trabajas localmente, seguirás necesitando entrar a GitHub para crear 'pull requests' para hacer que tus cambios pasen.
 
 ## Instalando GitHub para Escritorio
 
@@ -32,7 +32,7 @@ no_native_review: true
 Mientras que la ramificación es técnicamente opcional, es [altamente recomendable por un par de razones](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Para nombrar unas cuantas:
 
 - Las ramificaciones aislan diferentes cambios lógicos unos de otros: puedes trabajar en más de un artículo y tenerlos revisados y unidos de manera separada.
-- Cuando tus cambios están fuera de tu ramificación `master`, puedes [sincronizarlo de manera segura](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#¡mi-ramificación-está-desactualizada!) sin conflictos de unión.
+- Cuando tus cambios están fuera de tu ramificación `master`, puedes [sincronizarlo de manera segura](/wiki/osu!_wiki/Contribution_guide/Common_Issues#¡mi-ramificación-está-desactualizada!) sin conflictos de unión.
 
 1. Haz click en la opción desplegable `Current branch` localizado en la parte de arriba del menú.
 
@@ -94,4 +94,4 @@ Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#-pippi) ha agregado u
 
    ![](img/github-desktop-push.jpg)
 
-9. Continua a [Finalizando](/wiki/osu!_wiki_Contribution_Guide#finalizando) para la última pieza de información en relación a tus cambios y a tu 'pull request'.
+9. Continua a [Finalizando](/wiki/osu!_wiki/Contribution_guide#finalizando) para la última pieza de información en relación a tus cambios y a tu 'pull request'.

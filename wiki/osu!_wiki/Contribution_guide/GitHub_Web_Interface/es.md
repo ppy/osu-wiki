@@ -4,7 +4,7 @@ no_native_review: true
 
 # Interfaz Web de GitHub
 
-*Éste artículo es la continuación de [la página principal](/wiki/osu!_wiki_Contribution_Guide).* Si vas a hacer cambios a múltiples archivos (ésto incluye subir, eliminar y/o mover imagenes o archivos), por favor vea la otra guía, [GitHub para Escritorio](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop).
+*Éste artículo es la continuación de [la página principal](/wiki/osu!_wiki/Contribution_guide).* Si vas a hacer cambios a múltiples archivos (ésto incluye subir, eliminar y/o mover imagenes o archivos), por favor vea la otra guía, [GitHub para Escritorio](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop).
 
 ## Editando
 
@@ -24,7 +24,7 @@ no_native_review: true
 
 ### Moviendo archivos
 
-*Precaución: Ésto **no es recomendable** porque solo puedes mover un archivo a la vez. Esto puede crear múltiples 'commits' "tontos" los cuales pueden causar que, !los revisadores [cierren o estanquen tu 'pull request'](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#¡alguien-me-dijo-que-use-mensajes-de-'commits'-con-significado!)!*
+*Precaución: Ésto **no es recomendable** porque solo puedes mover un archivo a la vez. Esto puede crear múltiples 'commits' "tontos" los cuales pueden causar que, !los revisadores [cierren o estanquen tu 'pull request'](/wiki/osu!_wiki/Contribution_guide/Common_Issues#¡alguien-me-dijo-que-use-mensajes-de-'commits'-con-significado!)!*
 
 1. Navega al archivo que quieras mover y ábrelo.
 
@@ -60,7 +60,7 @@ no_native_review: true
 
 ### Eliminando archivos
 
-*Precaución: Ésto **no es recomendable** porque solo puedes eliminar un archivo a la vez. Esto puede crear múltiples 'commits' "tontos" los cuales pueden causar que, !los revisadores [cierren o estanquen tu 'pull request'](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#¡alguien-me-dijo-que-use-mensajes-de-'commits'-con-significado!)!*
+*Precaución: Ésto **no es recomendable** porque solo puedes eliminar un archivo a la vez. Esto puede crear múltiples 'commits' "tontos" los cuales pueden causar que, !los revisadores [cierren o estanquen tu 'pull request'](/wiki/osu!_wiki/Contribution_guide/Common_Issues#¡alguien-me-dijo-que-use-mensajes-de-'commits'-con-significado!)!*
 
 1. Abre la pestaña de código (<>code) en tu bifurcación.
 2. Navega al archivo que quieras eliminar y ábrelo.
@@ -89,4 +89,4 @@ no_native_review: true
 
    ![](img/pull-request-pippi-osu--osu-wiki.jpg "No hagas nada aquí (¡esta es la página equivocada!)")
 
-8. Continua en [Finalizando](/wiki/osu!_wiki_Contribution_Guide#finalizando) para la última pieza de información en relación a tus cambios y tu 'pull request'.
+8. Continua en [Finalizando](/wiki/osu!_wiki/Contribution_guide#finalizando) para la última pieza de información en relación a tus cambios y tu 'pull request'.
