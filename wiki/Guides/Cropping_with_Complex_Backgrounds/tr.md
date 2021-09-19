@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 8020295b31793ba412e6c2deb7b6da1e38c310b2
+---
+
 # Karışık arkaplanlara sahip görseller nasıl kırpılır
 
 ## Adım \#1
