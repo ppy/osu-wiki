@@ -2,7 +2,7 @@
 
 ## Step \#1
 
-First thing, you need to select a picture. I will present this on this picture that you can see. I will sho how to do this by using GIMP. (There shouldn't be much problems with other programs.) For this method we need free select tool aka Lasso.
+First, you have to choose an image. We are going to present it to you in this image that you can see. We will show you how to do this using GIMP. (For this method, we need a free selection tool, the Lasso).
 
 ![Tutorial Image 1](img/CCB-1.png "Tutorial Image 1")
 
@@ -32,7 +32,7 @@ Only one thing left to do, cut our character out of the picture and paste it to 
 
 ## Finish
 
-It's finished. It does not look that great especially ends of hair, but this is only because I wasn't that precise while making this.
+It's done. It doesn't look very good, especially the ends of the hair, but that's only because we weren't very precise in doing it.
 
 It can take a little time, but final effect is really good.
 
