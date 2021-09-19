@@ -8,7 +8,7 @@ tags:
 
 # osu!mania 4K World Cup 2021
 
-![](/wiki/shared/news/banners/mwc4k-2021.jpg)
+![MWC 4K 2021 banner](/wiki/shared/news/banners/mwc4k-2021.jpg)
 
 The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth instalment of the osu!mania 4K World Cup.
 
@@ -108,7 +108,7 @@ The osu!mania 4K World Cup 2021 was run by the [osu! team](/wiki/People/The_Team
 
 ### Finals
 
-*Note: this mappool was used for both Finals week 1 and 2.*
+*Note: This mappool was used for both Finals week 1 and 2.*
 
 - Rice
   1. [Kuribayashi Minami - ZERO!! (stupud man) \[Skwid's Challenge 1.05x\]](https://osu.ppy.sh/beatmapsets/1450344#mania/2981851)
@@ -240,7 +240,7 @@ The osu!mania 4K World Cup 2021 was run by the [osu! team](/wiki/People/The_Team
 
 ### Finals week 2
 
-Detailed statistics for Finals week 1 and 2 can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2RgCDlCseyg6CNGnrGtnIRTadNqYt1wuZKkthLV9o4hsGl4gDwPiq2oAF1lp1JT0UougO8Z28Fvex/pubhtml "Google Sheets").
+Detailed statistics for Finals week 1 and 2 can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2RgCDlCseyg6CNGnrGtnIRTadNqYt1wuZKkthLV9o4hsGl4gDwPiq2oAF1lp1JT0UougO8Z28Fvex/pubhtml).
 
 Sunday, September 19, 2021:
 
