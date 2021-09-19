@@ -30,7 +30,7 @@ The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) was a country-based osu!
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania 4K Champion" user title for one year |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
