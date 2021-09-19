@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2020 logo](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
-The **osu! World Cup 2020** (***OWC 2020***) was a country-based osu! tournament hosted by the [osu!team](/wiki/People/The_Team). It was the 11th instalment of the osu! World Cup.
+The **osu! World Cup 2020** (***OWC 2020***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 11th instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -38,7 +38,7 @@ The osu! World Cup 2020 offered a $5,000 cash prize pool and limited edition mer
 
 ## Organisation
 
-The osu! World Cup 2020 was run by the osu!team and various community members.
+The osu! World Cup 2020 was run by the osu! team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |

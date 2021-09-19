@@ -401,7 +401,7 @@ Monday, 12 August 2019:
    - Participant's Flag on their profile must be a country from **Asia and Oceania.**
    - Maximum Performance Points (PP) allowed for participant to register is **9,500pp.**
    - Participant's account must be **6 months old or older.**
-   - Participant must pass the screening done by the osu!team officials.
+   - Participant must pass the screening done by the osu! team officials.
 3. The tournament will be held over seven weekends.
 4. The matches will be played under **Score V2** and **Head to Head** settings.
 5. Joining the Discord server is mandatory at least for the duration of the tournament.

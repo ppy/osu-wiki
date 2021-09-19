@@ -25,7 +25,7 @@ tags:
 
 *Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
 
-Berikut merupakan jawaban atas pertanyaan-pertanyaan yang umum diajukan seputar segala hal yang berhubungan dengan akun osu! milikmu. Harap baca artikel ini dengan seksama untuk mengetahui apakah pertanyaan yang hendak kamu ajukan telah terperinci di dalamnya.
+Berikut merupakan jawaban atas pertanyaan-pertanyaan yang umum diajukan seputar segala hal yang berhubungan dengan akun osu! milikmu. Harap simak artikel ini dengan seksama untuk mengetahui apakah pertanyaan yang hendak kamu ajukan telah terperinci di dalamnya.
 
 ## Supporter
 

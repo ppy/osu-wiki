@@ -157,7 +157,7 @@ The osu!remix contests award the **osu!mixer** title as a first-place prize.
 
 ### Mascot design contest winners
 
-The osu!team held art contests for community members to get a chance to design or redesign some of the game's mascots. Winners of these contests, as well as the people whose designs were ultimately used as official artwork, were awarded the **osu!artist** title.
+The osu! team held art contests for community members to get a chance to design or redesign some of the game's mascots. Winners of these contests, as well as the people whose designs were ultimately used as official artwork, were awarded the **osu!artist** title.
 
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) designed **Mocha** and helped produce a lot of other osu! artwork.
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) won the [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2) contest.

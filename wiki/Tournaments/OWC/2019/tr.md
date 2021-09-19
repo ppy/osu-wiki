@@ -9,7 +9,7 @@ outdated: true
 
 ![OWC 2019 logo](img/logo.jpg)
 
-**osu! 2019 Dünya Kupası** (***OWC 2019***) [osu!team](/wiki/People/The_Team) tarafından ev sahipliği yapılan ülke tabanlı bir turnuvadır. Şu ana kadar yapılan 10. osu! Dünya Kupasıdır.
+**osu! 2019 Dünya Kupası** (***OWC 2019***) [osu! ekibi](/wiki/People/The_Team) tarafından ev sahipliği yapılan ülke tabanlı bir turnuvadır. Şu ana kadar yapılan 10. osu! Dünya Kupasıdır.
 
 ## Turnuva planlaması
 

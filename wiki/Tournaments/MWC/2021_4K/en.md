@@ -100,30 +100,22 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Match schedule: Finals
 
-### Saturday, September 11, 2021
+### Sunday, September 19, 2021
 
 | Team A | | | Team B | Match time | Local time A | Local time B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Sep 11 (Sat.) 13:00 UTC | Sep 11 (Sat.) 21:00 UTC+8 | Sep 11 (Sat.) 22:00 UTC+9 | ² |
-| United Kingdom | ![][flag_GB] | ![][flag_VN] | Vietnam | Sep 11 (Sat.) 14:55 UTC | Sep 11 (Sat.) 15:55 UTC+1 | Sep 11 (Sat.) 21:55 UTC+7 | ² |
+| United States | ![][flag_US] | ![][flag_MY] | Malaysia | Sep 19 (Sun.) 03:00 UTC | Sep 18 (Sat.) 22:00 UTC-5 | Sep 19 (Sun.) 11:00 UTC+8 | ¹ |
+| Brazil | ![][flag_BR] | ![][flag_MY] | Malaysia | Sep 19 (Sun.) 14:00 UTC | Sep 19 (Sun.) 11:00 UTC-3 | Sep 19 (Sun.) 22:00 UTC+8 | ² |
+| Brazil | ![][flag_BR] | ![][flag_US] | United States | Sep 19 (Sun.) 20:00 UTC | Sep 19 (Sun.) 17:00 UTC-3 | Sep 19 (Sun.) 15:00 UTC-5 | ² |
 
-### Sunday, September 12, 2021
-
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_VN] | Vietnam | Sep 12 (Sun.) 09:30 UTC | Sep 12 (Sun.) 18:30 UTC+9 | Sep 12 (Sun.) 16:30 UTC+7 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_VN] | Vietnam | Sep 12 (Sun.) 09:30 UTC | Sep 12 (Sun.) 17:30 UTC+8 | Sep 12 (Sun.) 16:30 UTC+7 | ³ |
-| Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | Sep 12 (Sun.) 12:00 UTC | Sep 12 (Sun.) 21:00 UTC+9 | Sep 12 (Sun.) 13:00 UTC+1 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_GB] | United Kingdom | Sep 12 (Sun.) 13:00 UTC | Sep 12 (Sun.) 21:00 UTC+8 | Sep 12 (Sun.) 14:00 UTC+1 | ³ |
-| United States | ![][flag_US] | ![][flag_BR] | Brazil | Sep 12 (Sun.) 20:00 UTC | Sep 12 (Sun.) 15:00 UTC-5 | Sep 12 (Sun.) 17:00 UTC-3 | ¹ |
-
-¹ Winners bracket match\
-² Losers bracket match\
-³ Final matchup depends on the results of ²
+¹ Losers bracket match\
+² Final matchup depends on the results of ¹
 
 ## Mappools
 
 ### Finals
+
+*Note: this mappool is used for both the Finals and Grand Finals.*
 
 - Rice
   1. [Kuribayashi Minami - ZERO!! (stupud man) \[Skwid's Challenge 1.05x\]](https://osu.ppy.sh/beatmapsets/1450344#mania/2981851)
@@ -253,6 +245,24 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Match results
 
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2RgCDlCseyg6CNGnrGtnIRTadNqYt1wuZKkthLV9o4hsGl4gDwPiq2oAF1lp1JT0UougO8Z28Fvex/pubhtml "Google Sheets").
+
+Saturday, September 11, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Malaysia** ![][flag_MY] | **7** | 6 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/90732849) |
+| **United Kingdom** ![][flag_GB] | **7** | 6 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/90739182) |
+
+Sunday, September 12, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Malaysia** ![][flag_MY] | **7** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/90796940) |
+| United States ![][flag_US] | 1 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/90818556) |
+
 ### Semifinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDhy2Sgc-Bw9vB484JdHKbD8I0ZTu7PT8O0J_h_NpfG7QmLfgFoHIVNoX1cgDggQANFumV296H0fVz/pubhtml "Google Sheets").
@@ -275,7 +285,7 @@ Sunday, September 05, 2021
 | **Vietnam** ![][flag_VN] | **7** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/90421240) |
 | **Japan** ![][flag_JP] | **7** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/90428313) |
 
-## Quarterfinals
+### Quarterfinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxI-1S9uv04mhcmVeYdB_rbQ3T6gyhbs8739duhmPwv4oChWpcALdX6qm9vS3PsWR-ouo9ytG5f2rA/pubhtml).
 

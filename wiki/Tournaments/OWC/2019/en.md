@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2019 logo](img/logo.jpg)
 
-The **osu! World Cup 2019** (***OWC 2019***) was a country-based osu! tournament hosted by the [osu!team](/wiki/People/The_Team). It was the tenth instalment of the osu! World Cup.
+The **osu! World Cup 2019** (***OWC 2019***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the tenth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
