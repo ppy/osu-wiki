@@ -16,15 +16,15 @@ The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) was a country-based osu!
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-07-07 – 2021-07-21 |
-| Qualifier showcase |  2021-07-31 (14:00 UTC) |
-| Qualifier stage | 2021-08-07 & 2021-08-08 |
-| Round of 32 | 2021-08-14 & 2021-08-15 |
-| Round of 16 | 2021-08-21 & 2021-08-22 |
-| Quarterfinals | 2021-08-28 & 2021-08-29 |
-| Semifinals | 2021-09-04 & 2021-09-05 |
-| Finals | 2021-09-11 & 2021-09-12 |
-| Grand Finals | 2021-09-18 & 2021-09-19 |
+| Registration phase | 2021-07-07/2021-07-21 |
+| Qualifier showcase | 2021-07-31 (14:00 UTC) |
+| Qualifier stage | 2021-08-07/2021-08-08 |
+| Round of 32 | 2021-08-14/021-08-15 |
+| Round of 16 | 2021-08-21/2021-08-22 |
+| Quarterfinals | 2021-08-28/2021-08-29 |
+| Semifinals | 2021-09-04/2021-09-05 |
+| Finals | 2021-09-11/2021-09-12 |
+| Grand Finals | 2021-09-18/2021-09-19 |
 
 ## Prizes
 
