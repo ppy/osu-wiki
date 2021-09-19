@@ -242,7 +242,7 @@ The osu!mania 4K World Cup 2021 was run by the [osu! team](/wiki/People/The_Team
 
 Detailed statistics for Finals week 1 and 2 can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2RgCDlCseyg6CNGnrGtnIRTadNqYt1wuZKkthLV9o4hsGl4gDwPiq2oAF1lp1JT0UougO8Z28Fvex/pubhtml "Google Sheets").
 
-Sunday, September 19, 2021
+Sunday, September 19, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -251,14 +251,14 @@ Sunday, September 19, 2021
 
 ### Finals week 1
 
-Saturday, September 11, 2021
+Saturday, September 11, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Malaysia** ![][flag_MY] | **7** | 6 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/90732849) |
 | **United Kingdom** ![][flag_GB] | **7** | 6 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/90739182) |
 
-Sunday, September 12, 2021
+Sunday, September 12, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -269,7 +269,7 @@ Sunday, September 12, 2021
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDhy2Sgc-Bw9vB484JdHKbD8I0ZTu7PT8O0J_h_NpfG7QmLfgFoHIVNoX1cgDggQANFumV296H0fVz/pubhtml "Google Sheets").
 
-Saturday, September 04, 2021
+Saturday, September 04, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -278,7 +278,7 @@ Saturday, September 04, 2021
 | **Philippines** ![][flag_PH] | **7** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/90370579) |
 | **Vietnam** ![][flag_VN] | **7** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/90375487) |
 
-Sunday, September 05, 2021
+Sunday, September 05, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -291,7 +291,7 @@ Sunday, September 05, 2021
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxI-1S9uv04mhcmVeYdB_rbQ3T6gyhbs8739duhmPwv4oChWpcALdX6qm9vS3PsWR-ouo9ytG5f2rA/pubhtml "Google Sheets").
 
-Saturday, August 28, 2021
+Saturday, August 28, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -304,7 +304,7 @@ Saturday, August 28, 2021
 | **France** ![][flag_FR] | **6** | 2 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/90012514) |
 | **Chile** ![][flag_CL] | **6** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/90025700) |
 
-Sunday, August 29, 2021
+Sunday, August 29, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -321,7 +321,7 @@ Sunday, August 29, 2021
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-l5g5Qa_O55t-_azBZLFGF8foa86bWrEtJRlvUiViRPsxreUeNztIbgBrFsjh0ffc8_wXtfHmLcaD/pubhtml "Google Sheets").
 
-Saturday, August 21, 2021
+Saturday, August 21, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -329,7 +329,7 @@ Saturday, August 21, 2021
 | Finland ![][flag_FI] | 3 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/89614019) |
 | Colombia ![][flag_CO] | 0 | **6** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/89620008) |
 
-Sunday, August 22, 2021
+Sunday, August 22, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -351,7 +351,7 @@ Sunday, August 22, 2021
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRCqILWcxsJv9hmIGjtGhV6Q7C3-ZxUPusNIYyV4lED1CNzn1vsH_lUPlnz6Mu1f_ODHZZJvmh4uPfv/pubhtml "Google Sheets").
 
-Saturday, August 14, 2021
+Saturday, August 14, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -364,7 +364,7 @@ Saturday, August 14, 2021
 | **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/89228185) |
 | **Malaysia** ![][flag_MY] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/89231018) |
 
-Sunday, August 15, 2021
+Sunday, August 15, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
