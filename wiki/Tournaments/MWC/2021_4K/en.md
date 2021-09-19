@@ -10,7 +10,7 @@ tags:
 
 ![](/wiki/shared/news/banners/mwc4k-2021.jpg)
 
-The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eighth instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -34,9 +34,11 @@ The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) is a country-based osu!m
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
+![](img/badge-1st.jpg "MWC 4K 2021 winner badge") ![](img/badge-2nd.jpg "MWC 4K 2021 2nd place badge") ![](img/badge-3rd.jpg "MWC 4K 2021 3rd place badge")
+
 ## Organisation
 
-The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu!mania 4K World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -98,24 +100,15 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)**, [Neko-Pan](https://osu.ppy.sh/users/8676532), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [Edvo](https://osu.ppy.sh/users/8301758), [Doryoku](https://osu.ppy.sh/users/5639725), [Cerelac](https://osu.ppy.sh/users/8065567) |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [Lottery61](https://osu.ppy.sh/users/13821222), [Asrielly](https://osu.ppy.sh/users/2656302), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [LovelyL](https://osu.ppy.sh/users/14821320) |
 
-## Match schedule: Finals
+## Podium
 
-### Sunday, September 19, 2021
-
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_MY] | Malaysia | Sep 19 (Sun.) 03:00 UTC | Sep 18 (Sat.) 22:00 UTC-5 | Sep 19 (Sun.) 11:00 UTC+8 | ¹ |
-| Brazil | ![][flag_BR] | ![][flag_MY] | Malaysia | Sep 19 (Sun.) 14:00 UTC | Sep 19 (Sun.) 11:00 UTC-3 | Sep 19 (Sun.) 22:00 UTC+8 | ² |
-| Brazil | ![][flag_BR] | ![][flag_US] | United States | Sep 19 (Sun.) 20:00 UTC | Sep 19 (Sun.) 17:00 UTC-3 | Sep 19 (Sun.) 15:00 UTC-5 | ² |
-
-¹ Losers bracket match\
-² Final matchup depends on the results of ¹
+![](img/podium.jpg "MWC 4K 2021 podium")
 
 ## Mappools
 
 ### Finals
 
-*Note: this mappool is used for both the Finals and Grand Finals.*
+*Note: this mappool was used for both Finals week 1 and 2.*
 
 - Rice
   1. [Kuribayashi Minami - ZERO!! (stupud man) \[Skwid's Challenge 1.05x\]](https://osu.ppy.sh/beatmapsets/1450344#mania/2981851)
@@ -245,9 +238,18 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Match results
 
-### Finals
+### Finals week 2
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2RgCDlCseyg6CNGnrGtnIRTadNqYt1wuZKkthLV9o4hsGl4gDwPiq2oAF1lp1JT0UougO8Z28Fvex/pubhtml "Google Sheets").
+Detailed statistics for Finals week 1 and 2 can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2RgCDlCseyg6CNGnrGtnIRTadNqYt1wuZKkthLV9o4hsGl4gDwPiq2oAF1lp1JT0UougO8Z28Fvex/pubhtml "Google Sheets").
+
+Sunday, September 19, 2021
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **7** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/91143237) |
+| **Brazil** ![][flag_BR] | **7** | 3 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/91184243) |
+
+### Finals week 1
 
 Saturday, September 11, 2021
 
