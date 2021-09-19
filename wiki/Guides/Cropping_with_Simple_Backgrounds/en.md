@@ -1,6 +1,6 @@
 # How to crop images with simple backgrounds
 
-So, I will show you a quick way how to remove one coloured backgrounds. Like in previous tutorial, same here, I am using GIMP and the picture you can see.
+So, I will show you a quick way to remove the one-colour backgrounds. As in the previous tutorial, here too we will use GIMP and the image you can see.
 
 ![Picture](img/CSB-1.png "Picture")
 
