@@ -6,7 +6,7 @@ Anyone is allowed (and encouraged!) to contribute to the osu! wiki.
 
 ### Markdown
 
-The osu! wiki is formatted using Markdown (specifically [GitHub-Flavoured Markdown (GFM)](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ "GitHub Help: Writing on GitHub")), a markup language that allows for text to have basic styling.
+The osu! wiki is formatted using Markdown (specifically [GitHub-Flavoured Markdown (GFM)](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)), a markup language that allows for text to have basic styling.
 
 [adam-p's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a fantastic tool of reference if you need to quickly learn about or refresh your memory of a Markdown feature.
 

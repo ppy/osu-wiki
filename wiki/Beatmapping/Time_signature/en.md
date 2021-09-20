@@ -10,7 +10,7 @@ tags:
 
 # Time signature
 
-*For more information on time signatures in music theory, see: [Time signature](https://en.wikipedia.org/wiki/Time_signature "Wikipedia")*
+*For more information on time signatures in music theory, see: [Time signature](https://en.wikipedia.org/wiki/Time_signature)*
 
 A **time signature** is a musical term that indicates the number of [beats](/wiki/Beat) in a single measure (indicated by the top number), and which note indicates a single beat (indicated by the bottom number).
 

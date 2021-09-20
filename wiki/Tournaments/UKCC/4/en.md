@@ -12,9 +12,9 @@ The **UK Community Cup 4** (***UKCC4***) was a British 2v2 double-elimination os
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/677534?n=1)
-- [Challonge](https://challonge.com/ukcc4 "Challonge")
-- [Discord](https://discord.gg/EtsU7Cw "Discord")
-- [Livestream](https://twitch.tv/osuukcc "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXl3K0w3_IJzWUHviHlzfhVcPbJs01O4k1fAdfkQ2g_8Ix6KdAzeY6B-1I3kP1fX_JbTSDEI9NDIt5/pubhtml "Google Sheets")
+- [Challonge](https://challonge.com/ukcc4)
+- [Discord](https://discord.gg/EtsU7Cw)
+- [Livestream](https://twitch.tv/osuukcc)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXl3K0w3_IJzWUHviHlzfhVcPbJs01O4k1fAdfkQ2g_8Ix6KdAzeY6B-1I3kP1fX_JbTSDEI9NDIt5/pubhtml)
 
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"

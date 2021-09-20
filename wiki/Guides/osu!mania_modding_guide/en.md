@@ -101,7 +101,7 @@ It is usually skipped due to the effort required finding **official sources** fo
 
 Whilst this part can be skipped, it can be a huge help for the mapper and BNs if the Metadata is checked and a post is made about it. Even when the Metadata is already correct, posting good sources for confirmation also helps.
 
-If unsure of a legitimate source for metadata, the [Metadata Heap Discord server](https://discord.gg/9Y4EdyM "Discord invite link") is open for such questions.
+If unsure of a legitimate source for metadata, the [Metadata Heap Discord server](https://discord.gg/9Y4EdyM) is open for such questions.
 
 ### Song setup
 

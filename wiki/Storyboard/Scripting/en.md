@@ -20,7 +20,7 @@ To study a specific part of scripting, head to one of the articles below:
 
 ## Overview
 
-There is an overview of the storyboard scripting concepts provided by [Doomsday](https://osu.ppy.sh/users/18983): [osu! - Storyboard Scripting for Beginners (12:22)](https://www.youtube.com/watch?v=UJ1YLDs-bZg "YouTube").
+There is an overview of the storyboard scripting concepts provided by [Doomsday](https://osu.ppy.sh/users/18983): [osu! - Storyboard Scripting for Beginners (12:22)](https://www.youtube.com/watch?v=UJ1YLDs-bZg).
 
 ## Full specification
 

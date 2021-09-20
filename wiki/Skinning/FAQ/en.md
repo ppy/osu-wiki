@@ -78,7 +78,7 @@ No, you are not allowed to post a mixed skin in any subforums. The same thing ap
 
 #### Where can I post my mixed skin?
 
-You can use your me! userpage, your signature, the [/r/osuskins subreddit](https://www.reddit.com/r/OsuSkins "Reddit"), or anywhere else outside of the osu! forums.
+You can use your me! userpage, your signature, the [/r/osuskins subreddit](https://www.reddit.com/r/OsuSkins), or anywhere else outside of the osu! forums.
 
 ### Can I post a skin remake?
 

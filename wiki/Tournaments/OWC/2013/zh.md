@@ -50,8 +50,8 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 - [讨论帖（英文）](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 - [讨论帖（中文）](https://osu.ppy.sh/community/forums/topics/160371)
-- [osu! World Cup 直播录像](https://www.twitch.tv/osulive/profile/pastBroadcasts "Twitch")
-- [分组信息、统计](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web "Google Sheets")
+- [osu! World Cup 直播录像](https://www.twitch.tv/osulive/profile/pastBroadcasts)
+- [分组信息、统计](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web)
 
 ## 参赛者
 
@@ -115,7 +115,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 ### 决赛
 
-**[图包下载](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar "MediaFire")**
+**[图包下载](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
 
 - NoMod
   - [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
@@ -149,7 +149,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 ### 半决赛
 
-**[图包下载](https://www.mediafire.com/?pn3yxce7m6v4j13 "MediaFire")**
+**[图包下载](https://www.mediafire.com/?pn3yxce7m6v4j13)**
 
 - NoMod
   - [CON - Cruel Clocks (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76882#osu/216272)
@@ -183,7 +183,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 ### 8强赛
 
-**[图包下载](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar "MediaFire")**
+**[图包下载](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
 
 - NoMod
   - [xi - Time files (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/49843#osu/153484)
@@ -217,7 +217,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 ### 16强赛
 
-**[图包下载](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar "MediaFire")**
+**[图包下载](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
 
 - NoMod
   - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/43248#osu/135804)
@@ -251,7 +251,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 ### 小组赛
 
-**[图包下载](https://www.mediafire.com/?jn0c8p6wqfrtfhb "MediaFire")**
+**[图包下载](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
 
 - NoMod
   - [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w) \[YuruYuri\]](https://osu.ppy.sh/beatmapsets/45316#osu/153418)
@@ -317,7 +317,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 | ![][flag_JP] Japan | 2 - **5** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/2962477) |
 | ![][flag_KR] **Korea** | **5** - 2 | Austria ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/2964278) |
 | ![][flag_CN] China | 4 - **5** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/2966197) |
-| ![][flag_GB] **United Kingdom** | **5** - 3 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/2969031) [#A](https://puu.sh/5rT5F/9b2a7bfa74.jpg "puush") |
+| ![][flag_GB] **United Kingdom** | **5** - 3 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/2969031) [#A](https://puu.sh/5rT5F/9b2a7bfa74.jpg) |
 
 ### 16强赛
 
@@ -369,7 +369,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 | ![][flag_NO] **Norway** | **4** - 1 | Chile ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/2612443) |
 | ![][flag_AR] **Argentina** | **4** - 0 | Singapore ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/2614072) |
 | ![][flag_AT] **Austria** | **4** - 0 | Philippines ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/2614095) |
-| ![][flag_TH] **Thailand** | **4** - 1 | Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/2618739) [#A](https://puu.sh/5dh2n/b90be32a79.jpg "puush") |
+| ![][flag_TH] **Thailand** | **4** - 1 | Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/2618739) [#A](https://puu.sh/5dh2n/b90be32a79.jpg) |
 | ![][flag_HK] **Hong Kong** | **4** - 0 | Venezuela ![][flag_VE] | *Win by default* |
 | ![][flag_RU] **Russian Federation** | **4** - 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/2617238) |
 | ![][flag_US] **United States** | **4** - 1 | Latvia ![][flag_LV] | [#1](https://osu.ppy.sh/community/matches/2621519) |
@@ -431,7 +431,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
    1. 每个队伍最多可以有8名玩家。
    2. 你必须选择一位队长代表队伍。.
 2. 每个队伍代表一个国家。队员必须来自同一个国家。
-3. 报名步骤为，[填写该表](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform "Google Forms"). 然后[给 Loctav 发送确认 PM](https://osu.ppy.sh/home/messages/users/71366), 标题为“OWC Registration”
+3. 报名步骤为，[填写该表](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). 然后[给 Loctav 发送确认 PM](https://osu.ppy.sh/home/messages/users/71366), 标题为“OWC Registration”
    1. 队长可以[通知比赛委员会](https://osu.ppy.sh/home/messages/users/71366)来更改队员组成。
 4. 所有报名信息及其修改请求由比赛委员会审核后加入参赛者名单。
 5. 队伍总数为32. 先到先报名。

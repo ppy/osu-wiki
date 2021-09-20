@@ -19,7 +19,7 @@ Les descriptions de beatmaps comprennent souvent les éléments suivants :
 
 ### Images
 
-De nombreuses descriptions de beatmaps contiennent au moins une image (souvent un [GIF animé](https://fr.wikipedia.org/wiki/GIF "Wikipédia") d'une certaine sorte), qui est utilisée pour exprimer et illustrer le créateur, la musique et/ou la beatmap d'une manière rapide. Elles peuvent également prendre la place d'un titre ou d'une en-tête pour ajouter du style et de la qualité. Pour apprendre à ajouter une image à l'aide du BBCode, consultez le [tutoriel de l'article BBCode sur les images](/wiki/BBCode#images).
+De nombreuses descriptions de beatmaps contiennent au moins une image (souvent un [GIF animé](https://fr.wikipedia.org/wiki/GIF) d'une certaine sorte), qui est utilisée pour exprimer et illustrer le créateur, la musique et/ou la beatmap d'une manière rapide. Elles peuvent également prendre la place d'un titre ou d'une en-tête pour ajouter du style et de la qualité. Pour apprendre à ajouter une image à l'aide du BBCode, consultez le [tutoriel de l'article BBCode sur les images](/wiki/BBCode#images).
 
 ### Sections de difficultés
 

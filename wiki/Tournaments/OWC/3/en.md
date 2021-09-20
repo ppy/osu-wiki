@@ -49,7 +49,7 @@ The osu! World Cup #3 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/102985)
-- [Livestream](https://www.twitch.tv/osuworldcup "Twitch")
+- [Livestream](https://www.twitch.tv/osuworldcup)
 
 ## Participants
 
@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (147 MB)](https://puu.sh/1NOAZ "puush")**
+**[Download the mappack here! (147 MB)](https://puu.sh/1NOAZ)**
 
 - FreeMod
   - [Katakiri Rekka - Answer (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/39953#osu/127047)
@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (183 MB)](https://puu.sh/1KW0D "puush")**
+**[Download the mappack here! (183 MB)](https://puu.sh/1KW0D)**
 
 - FreeMod
   - [TJ.Hangneil - Kamui (7odoa) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/39017#osu/140167)
@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (128 MB)](https://puu.sh/1zcsu "puush")**
+**[Download the mappack here! (128 MB)](https://puu.sh/1zcsu)**
 
 - FreeMod
   - [Jun.A - Ghost Lead (Scorpiour) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/47516#osu/147370)
@@ -246,7 +246,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage week 2
 
-**[Download the mappack here! (103 MB)](https://puu.sh/1ukRK "puush")**
+**[Download the mappack here! (103 MB)](https://puu.sh/1ukRK)**
 
 - FreeMod
   - [Spriggan - Valkyrie Dimension (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/45935#osu/143189)
@@ -269,7 +269,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage week 1
 
-**[Download the mappack here! (66 MB)](https://puu.sh/1qFb1 "puush")**
+**[Download the mappack here! (66 MB)](https://puu.sh/1qFb1)**
 
 - FreeMod
   - [Hatsune Miku - Sabamiso! (val0108) \[Sabamiso!\]](https://osu.ppy.sh/beatmapsets/37705#osu/142588)

@@ -56,11 +56,11 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 ## Ссылки
 
 - [Тема для обсуждения](https://osu.ppy.sh/community/forums/topics/906298)
-- [IGTS Дискорд сервер](https://discord.gg/a6PzzFz "Discord")
-- [Стрим](https://www.twitch.tv/igtsosu "Twitch")
-- [Сетка Challonge](https://challonge.com/dqq46siu "Challonge")
-- [Сайт Pick'ems](https://pickem.hwc.hr/tournaments/8 "hwchr's pick'em")
-- **[Таблица со статистикой](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing "Google Sheets")**
+- [IGTS Дискорд сервер](https://discord.gg/a6PzzFz)
+- [Стрим](https://www.twitch.tv/igtsosu)
+- [Сетка Challonge](https://challonge.com/dqq46siu)
+- [Сайт Pick'ems](https://pickem.hwc.hr/tournaments/8)
+- **[Таблица со статистикой](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ## Участники
 
@@ -126,7 +126,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### All-Stars Battle Royale
 
-**[Скачайте сборку карт здесь! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg "MEGA")**
+**[Скачайте сборку карт здесь! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
 
 - NoMod
   - [Silent Siren - Merry-Go-Round (hoku-4625) \[Shallty-Go-Round\]](https://osu.ppy.sh/beatmapsets/751585#taiko/1612301)
@@ -149,7 +149,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### All-Stars
 
-**[Скачайте сборку карт здесь! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo "MEGA")**
+**[Скачайте сборку карт здесь! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
 
 - NoMod
   - [Yuyoyuppe - AiAe (asuasu\_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/447734#taiko/961162)
@@ -180,7 +180,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### Гранд Финалы
 
-**[Скачайте сборку карт здесь! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar "puush")**
+**[Скачайте сборку карт здесь! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
 
 - NoMod
   - [xi - Blue Zenith (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035965)
@@ -207,7 +207,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### Финал
 
-**[Скачайте сборку карт здесь! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar "puush")**
+**[Скачайте сборку карт здесь! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
 
 - NoMod
   - [Reol - Gigantic O.T.N (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/434182#taiko/937232)
@@ -234,7 +234,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### Полуфинал
 
-**[Скачайте сборку карт здесь! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E "MEGA")**
+**[Скачайте сборку карт здесь! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E)**
 
 - NoMod
   - [Buta-Otome - Towa no Maigo (404 AccNotFound) \[Oni\]](https://osu.ppy.sh/beatmapsets/622175#taiko/1317865)
@@ -261,7 +261,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### Четвертьфинал
 
-**[Скачайте сборку карт здесь! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw "MEGA")**
+**[Скачайте сборку карт здесь! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
 
 - NoMod
   - [Dreamcatcher - Chase Me (-omicron) \[Jaye's Lite Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987174#taiko/2065074)
@@ -287,7 +287,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### 1/8 финала
 
-**[Скачайте сборку карт здесь! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY "MEGA")**
+**[Скачайте сборку карт здесь! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY)**
 
 - NoMod
   - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/596741)
@@ -313,7 +313,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 
 ### Групповая стади
 
-**[Скачайте сборку карт здесь! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I "MEGA")**
+**[Скачайте сборку карт здесь! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
 
 - NoMod
   - [An - TearVid (Kokatsu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/79647#taiko/222678)
@@ -397,7 +397,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | Мексика ![][flag_MX] | 1 | **6** | ![][flag_SG] **Сингапур** | [#1](https://osu.ppy.sh/community/matches/52641017) |
 | Аргентина ![][flag_AR] | 3 | **6** | ![][flag_FR] **Франция A** | [#1](https://osu.ppy.sh/community/matches/52644303) |
 | Польша A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Чили** | [#1](https://osu.ppy.sh/community/matches/52647239) |
-| **Соединенные Штаты A** ![][flag_US] | **6** | 0 | ![][flag_EC] Эквадор | [#1](https://www.twitch.tv/videos/439630298 "Twitch") |
+| **Соединенные Штаты A** ![][flag_US] | **6** | 0 | ![][flag_EC] Эквадор | [#1](https://www.twitch.tv/videos/439630298) |
 
 | Воскресенье, 2019-06-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |

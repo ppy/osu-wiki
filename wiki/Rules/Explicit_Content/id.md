@@ -25,4 +25,4 @@ Di samping itu, suatu lagu juga dapat dikategorikan eksplisit apabila lagu terse
 - Lagu-lagu yang membahas seputar persimbahan darah dalam bentuk apapun secara gamblang
 - Lagu-lagu yang bernuansa seksual
 
-Apabila kamu butuh acuan lebih lanjut, kamu dapat mengecek apakah lagu yang bersangkutan memiliki label ekplisit atau tidak pada [Spotify](https://www.spotify.com "Spotify") atau layanan-layanan *streaming* lagu lainnya.
+Apabila kamu butuh acuan lebih lanjut, kamu dapat mengecek apakah lagu yang bersangkutan memiliki label ekplisit atau tidak pada [Spotify](https://www.spotify.com) atau layanan-layanan *streaming* lagu lainnya.

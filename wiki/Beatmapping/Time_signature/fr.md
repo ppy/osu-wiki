@@ -10,7 +10,7 @@ tags:
 
 # Signature temporelle
 
-*Pour plus d'informations sur les signatures temporelles en théorie musicale, voir : [Signature temporelle](https://en.wikipedia.org/wiki/Time_signature "Wikipédia (en anglais)")*
+*Pour plus d'informations sur les signatures temporelles en théorie musicale, voir : [Signature temporelle](https://en.wikipedia.org/wiki/Time_signature)*
 
 Une **signature temporelle** est un terme musical qui indique le nombre de [battements](/wiki/Beat) dans une mesure unique (indiqué par le chiffre du haut), et quelle note indique un seul battement (indiqué par le chiffre du bas).
 

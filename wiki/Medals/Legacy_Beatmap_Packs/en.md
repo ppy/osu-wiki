@@ -12,7 +12,7 @@ This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.p
 
 Download link:
 
-- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn "MediaFire")
+- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
 
 Beatmaps:
 
@@ -36,7 +36,7 @@ This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.p
 
 Download link:
 
-- [MediaFire](https://www.mediafire.com/?722os55j52ikylq "Mediafire")
+- [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
 
 Beatmaps:
 
@@ -60,7 +60,7 @@ This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.s
 
 Download link:
 
-- [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b "Mediafire")
+- [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
 
 Beatmaps:
 
@@ -84,7 +84,7 @@ This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https:/
 
 Download link:
 
-- [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv "Mediafire")
+- [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
 
 Beatmaps:
 
@@ -210,7 +210,7 @@ This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.p
 
 Download link:
 
-- [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob "MediaFire")
+- [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
 
 Beatmaps:
 
@@ -234,7 +234,7 @@ This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.s
 
 Download link:
 
-- [MediaFire](https://www.mediafire.com/?axvxrnx637767ls "Mediafire")
+- [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
 
 Beatmaps:
 

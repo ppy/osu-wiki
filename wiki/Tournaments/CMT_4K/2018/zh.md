@@ -48,13 +48,13 @@ tags:
 ## 链接
 
 - [论坛帖子](https://osu.ppy.sh/community/forums/topics/800125)
-- [QQ群](https://jq.qq.com/?_wv=1027&k=5IH0Tkr "Tencent QQ")
-- [Challonge](https://challonge.com/zh_CN/CMT2018 "Challonge")
+- [QQ群](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
+- [Challonge](https://challonge.com/zh_CN/CMT2018)
 - 直播间
-  - 哔哩哔哩：[aiyulu](https://live.bilibili.com/10183 "Bilibili")（主直播）、[Flow Light](https://live.bilibili.com/73668 "Bilibili")（副直播）、[kj415j45](https://live.bilibili.com/237250 "Bilibili")（备用）
-  - Twitch：[aiyulu](https://www.twitch.tv/aiyulu "Twitch")
-- [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform "Google Forms")（需科学上网）
-- [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ")
+  - 哔哩哔哩：[aiyulu](https://live.bilibili.com/10183)（主直播）、[Flow Light](https://live.bilibili.com/73668)（副直播）、[kj415j45](https://live.bilibili.com/237250)（备用）
+  - Twitch：[aiyulu](https://www.twitch.tv/aiyulu)
+- [谱面推荐](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)（需科学上网）
+- [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)
 
 ![CMT4K2018 podium](img/podium.png)
 
@@ -62,7 +62,7 @@ tags:
 
 ### 决赛
 
-**下载完整图池包！（105 MB） - [百度云盘](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi "Google Drive")**
+**下载完整图池包！（105 MB） - [百度云盘](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw) - [Google 云端硬盘](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi)**
 
 - FreeMod
   - [Sota Fujimori - Move That Body -Extended Mix- \[Dance\]](https://osu.ppy.sh/beatmapsets/765772#mania/1609983)
@@ -84,7 +84,7 @@ tags:
 
 ### 半决赛
 
-**下载完整图池包！（104 MB） - [百度云盘](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK "Google Drive")**
+**下载完整图池包！（104 MB） - [百度云盘](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w) - [Google 云端硬盘](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK)**
 
 - FreeMod
   - [PROTODOME - Greatest Hat \[chalLeNge\]](https://osu.ppy.sh/beatmapsets/840500#mania/1759313)
@@ -106,7 +106,7 @@ tags:
 
 ### 八强赛
 
-**下载完整图池包！（72 MB） - [百度云盘](https://pan.baidu.com/s/1Ddy1Is0VhxJx3FCCfG--3Q "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1cq1ytwNhXtA6nhbX7-9E_30iS88pVwPO "Google Drive")**
+**下载完整图池包！（72 MB） - [百度云盘](https://pan.baidu.com/s/1Ddy1Is0VhxJx3FCCfG--3Q) - [Google 云端硬盘](https://drive.google.com/file/d/1cq1ytwNhXtA6nhbX7-9E_30iS88pVwPO)**
 
 - FreeMod
   - [M2U - Mare Maris \[For The Brave\]](https://osu.ppy.sh/beatmapsets/786297#mania/1650609)
@@ -126,7 +126,7 @@ tags:
 
 ### 十六强赛
 
-**下载完整图池包！（81 MB） - [百度云盘](https://pan.baidu.com/s/1trdHtV6nNIuifTwVPCQYgg "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1wJEAdCAwj72W7_fuKiAD3qxwpbsly_WI "Google Drive")**
+**下载完整图池包！（81 MB） - [百度云盘](https://pan.baidu.com/s/1trdHtV6nNIuifTwVPCQYgg) - [Google 云端硬盘](https://drive.google.com/file/d/1wJEAdCAwj72W7_fuKiAD3qxwpbsly_WI)**
 
 - FreeMod
   - [Swimy - Acchi Muite \[This Way! NSV\]](https://osu.ppy.sh/beatmapsets/744373#mania/1687703)
@@ -146,7 +146,7 @@ tags:
 
 ### 小组赛
 
-**下载完整图池包！（55 MB） - [百度云盘](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS "Google Drive")**
+**下载完整图池包！（55 MB） - [百度云盘](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google 云端硬盘](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
 
 - FreeMod
   - [Between August and December - Sayonara Cruel World (Reworked) \[LN\]](https://osu.ppy.sh/beatmapsets/747111#mania/1574382)
@@ -248,7 +248,7 @@ tags:
 
 ### 资格赛
 
-请查看 [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ") 以了解详细得分情况。
+请查看 [赛事记录表](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj) 以了解详细得分情况。
 
 ## 规则
 

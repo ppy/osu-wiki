@@ -29,8 +29,8 @@ Terminologi Katu sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_g
 
 ## Katu dalam permainan-permainan iNiS
 
-- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs "YouTube")
-- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI "YouTube")
+- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs)
+- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI)
 
 ## Katu dalam mode-mode permainan lainnya
 

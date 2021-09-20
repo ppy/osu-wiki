@@ -55,10 +55,10 @@ Advanced Global Taiko Showdown 2019 fue realizado por varios miembros de la comu
 ## Enlaces
 
 - [Foro de discusión](https://osu.ppy.sh/community/forums/topics/931003)
-- [AGTS Servidor de Discord](https://discord.gg/zbHVzvF "Discord")
-- [Livestream](https://www.twitch.tv/gtsosu "Twitch")
-- [Challonge brackets](https://challonge.com/AGTS2019 "Challonge")
-- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing "Google Sheets")**
+- [AGTS Servidor de Discord](https://discord.gg/zbHVzvF)
+- [Livestream](https://www.twitch.tv/gtsosu)
+- [Challonge brackets](https://challonge.com/AGTS2019)
+- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
 
 ## Participantes
 
@@ -120,7 +120,7 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
 
 ### Gran Finales
 
-**[Descarga el paquete de mapas aquí! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE "MEGA")**
+**[Descarga el paquete de mapas aquí! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
 
 - NoMod
   - [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
@@ -149,7 +149,7 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
 
 ### Finales
 
-**[Descarga el paquete de mapas aquí! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ "MEGA")**
+**[Descarga el paquete de mapas aquí! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
 
 - NoMod
   - [YUC'e - PUMP (KinomiCandy) \[Kinobles & Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/610546#taiko/1289147)
@@ -178,7 +178,7 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
 
 ### Semifinales
 
-**[Descarga el paquete de mapas aquí! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs "MEGA")**
+**[Descarga el paquete de mapas aquí! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
 
 - NoMod
   - [Murder King - Ben Her Gun Artik Sen (frukoyurdakul) \[Suistimal\]](https://osu.ppy.sh/beatmapsets/959186#taiko/2008180)
@@ -207,7 +207,7 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
 
 ### Cuartos de Final
 
-**[Descarga el paquete de mapas aquí! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA "MEGA")**
+**[Descarga el paquete de mapas aquí! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
 
 - NoMod
   - [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
@@ -235,7 +235,7 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
 
 ### Fase de Grupos
 
-**[Descarga el paquete de mapas aquí! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE "MEGA")**
+**[Descarga el paquete de mapas aquí! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
 
 - NoMod
   - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
@@ -267,7 +267,7 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
 
 ### Eliminatorias
 
-**[Descarga el paquete de mapas aquí! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q "MEGA")**
+**[Descarga el paquete de mapas aquí! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
 
 - NoMod
   - [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)

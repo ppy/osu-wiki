@@ -30,8 +30,8 @@ Deze combinaties werken overal:
 | `F10` | Zet alle muisknoppen aan/uit (behalve het muiswiel, deze staat altijd aan). |
 | `F12` | Neemt een screenshot. Klik op de dialoog om de screenshots folder te openen. |
 | `Shift` + `F12` | Neemt een screenshot en uploadt deze naar de server. De screenshot wordt ook lokaal opgeslagen. De screenshot wordt ook geopend in je web browser. |
-| `Insert` | Dit is de [boss key](https://en.wikipedia.org/wiki/Boss_key "Boss key op Wikipedia"). Verkleint de game client naar het notificatie vak. De game wordt ook gedempt. |
-| `Shift` + `F1` | Opent [osu!status](https://twitter.com/osustatus "osu!status op Twitter") in je web browser. (Alleen als er een connectie error verschijnt.) |
+| `Insert` | Dit is de [boss key](https://en.wikipedia.org/wiki/Boss_key). Verkleint de game client naar het notificatie vak. De game wordt ook gedempt. |
+| `Shift` + `F1` | Opent [osu!status](https://twitter.com/osustatus) in je web browser. (Alleen als er een connectie error verschijnt.) |
 | `Ctrl` + `O` | Opent de opties sidebalk. Je kunt de offset wizard niet gebruiken als je niet in het hoofdmenu bent. |
 
 ## Hoofdmenu

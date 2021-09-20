@@ -51,10 +51,10 @@ The Royal Danish osu!Cup 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1097554)
-- [RDOC Discord server](https://discord.gg/JhBkmzE "Discord")
-- [Livestream](https://www.twitch.tv/royaldanishosucup "Twitch")
-- [Challonge bracket](https://challonge.com/rdoc2020 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19NJkGHDmvXprqqO1wr9g2mfkkepGYmW5nXSsd6KHMk4 "Google Sheets")**
+- [RDOC Discord server](https://discord.gg/JhBkmzE)
+- [Livestream](https://www.twitch.tv/royaldanishosucup)
+- [Challonge bracket](https://challonge.com/rdoc2020)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19NJkGHDmvXprqqO1wr9g2mfkkepGYmW5nXSsd6KHMk4)**
 
 ## Participants
 

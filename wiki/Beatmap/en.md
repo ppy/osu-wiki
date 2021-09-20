@@ -78,7 +78,7 @@ Beatmaps that were ranked in the same month, or share the same theme (e.g. the s
 There are also secondary sources of beatmaps, which are **neither checked nor operated by the osu! team**. However, they are available on the forums and appreciated by the community. Such sources include:
 
 - third-party beatmap mirrors hosted off a platform;
-- player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia"), such as BitTorrent.
+- player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer), such as BitTorrent.
 
 ## Beatmaps and community
 

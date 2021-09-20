@@ -15,7 +15,7 @@ tags:
 
 ## Penyebab
 
-Mind block sering kali disebabkan oleh penumpukan "[muscle memory](https://en.wikipedia.org/wiki/Muscle_memory "Wikipedia") yang tidak berguna" dari pengulangan beatmap yang konstan, dan cepat. Meskipun tidak ada sains atau penelitian resmi yang dilakukan mengenai fenomena khusus ini di osu!, komunitas meyakini bahwa selama mind block, pikiran pemain sering kali bosan, kelelahan, atau lelah melakukan pola yang sama dan mendengarkan beberapa detik musik yang sama, sehingga kesusahan untuk fokus dan memperhatikan, dan dengan demikian kesusahan untuk mengembangkan muscle memory baru.
+Mind block sering kali disebabkan oleh penumpukan "[muscle memory](https://en.wikipedia.org/wiki/Muscle_memory) yang tidak berguna" dari pengulangan beatmap yang konstan, dan cepat. Meskipun tidak ada sains atau penelitian resmi yang dilakukan mengenai fenomena khusus ini di osu!, komunitas meyakini bahwa selama mind block, pikiran pemain sering kali bosan, kelelahan, atau lelah melakukan pola yang sama dan mendengarkan beberapa detik musik yang sama, sehingga kesusahan untuk fokus dan memperhatikan, dan dengan demikian kesusahan untuk mengembangkan muscle memory baru.
 
 ## Pertolongan & pencegahan
 

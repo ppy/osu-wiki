@@ -23,7 +23,7 @@ outdated: true
 - `F12`: Сделать скриншот
 - `Shift` + `F12`: Сделать скриншот и загрузить скриншот на сервер для отправки
 - `Insert`: ([Кнопка-антибосс](https://en.wikipedia.org/wiki/Boss_key)) Свернуть клиент osu! в трей
-- `Shift` + `F1`: Открывает [osu!status](https://twitter.com/osustatus "osu!status в Twitter") (когда появляется ошибка подключения)
+- `Shift` + `F1`: Открывает [osu!status](https://twitter.com/osustatus) (когда появляется ошибка подключения)
 
 ## Главное меню
 
