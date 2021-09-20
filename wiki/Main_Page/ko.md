@@ -84,7 +84,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 위키 정보
 
-[사이트맵](/wiki/Sitemap) • [참여하는 방법](/wiki/osu!_wiki_Contribution_Guide) • [문서 스타일링 크리테리아](/wiki/Article_Styling_Criteria) • [뉴스 스타일링 크리테리아](/wiki/News_Styling_Criteria)
+[사이트맵](/wiki/Sitemap) • [참여하는 방법](/wiki/osu!_wiki/Contribution_guide) • [문서 스타일링 크리테리아](/wiki/Article_Styling_Criteria) • [뉴스 스타일링 크리테리아](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

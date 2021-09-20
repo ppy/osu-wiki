@@ -133,7 +133,7 @@ Semuanya yang ada di osu!, termasuk osu! wiki, utamanya dikelola dan dikembangka
 
 [Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
-[Peta situs](/wiki/Sitemap) • [Panduan kontribusi](/wiki/osu!_wiki_Contribution_Guide) • [Kriteria penyusunan artikel](/wiki/Article_Styling_Criteria) • [Kriteria penyusunan berita](/wiki/News_Styling_Criteria)
+[Peta situs](/wiki/Sitemap) • [Panduan kontribusi](/wiki/osu!_wiki/Contribution_guide) • [Kriteria penyusunan artikel](/wiki/Article_Styling_Criteria) • [Kriteria penyusunan berita](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

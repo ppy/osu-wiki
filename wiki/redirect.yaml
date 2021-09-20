@@ -790,14 +790,20 @@
 
 "tourney":                     "osu!tourney"
 
-"osu!wiki_contribution_guide":                      "osu!_wiki_Contribution_Guide"
-"owcg":                                             "osu!_wiki_Contribution_Guide"
-"osu!wiki_contribution_guide/common_issues":        "osu!_wiki_Contribution_Guide/Common_Issues"
-"owcg/common_issues":                               "osu!_wiki_Contribution_Guide/Common_Issues"
-"osu!wiki_contribution_guide/github_web_interface": "osu!_wiki_Contribution_Guide/GitHub_Web_Interface"
-"owcg/github_web_interface":                        "osu!_wiki_Contribution_Guide/GitHub_Web_Interface"
-"osu!wiki_contribution_guide/github_desktop":       "osu!_wiki_Contribution_Guide/GitHub_Desktop"
-"owcg/github_desktop":                              "osu!_wiki_Contribution_Guide/GitHub_Desktop"
+"osu!wiki_contribution_guide":                      "osu!_wiki/Contribution_guide"
+"owcg":                                             "osu!_wiki/Contribution_guide"
+"osu!wiki_contribution_guide/common_issues":        "osu!_wiki/Contribution_guide/Common_Issues"
+"owcg/common_issues":                               "osu!_wiki/Contribution_guide/Common_Issues"
+"osu!wiki_contribution_guide/github_web_interface": "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
+"owcg/github_web_interface":                        "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
+"osu!wiki_contribution_guide/github_desktop":       "osu!_wiki/Contribution_guide/GitHub_Desktop"
+"owcg/github_desktop":                              "osu!_wiki/Contribution_guide/GitHub_Desktop"
+
+# moved in #6138
+"osu!_wiki_Contribution_Guide":                       "osu!_wiki/Contribution_guide"
+"osu!_wiki_Contribution_Guide/Common_Issues":         "osu!_wiki/Contribution_guide/Common_Issues"
+"osu!_wiki_Contribution_Guide/GitHub_Desktop":        "osu!_wiki/Contribution_guide/GitHub_Desktop"
+"osu!_wiki_Contribution_Guide/GitHub_Web_Interface":  "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
 
 "people/beatmap_nominator":              "People/The_Team/Beatmap_Nominators"
 "people/beatmap_nomination_group":       "People/The_Team/Beatmap_Nominators"

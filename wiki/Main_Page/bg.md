@@ -132,7 +132,7 @@ osu! нямаше да съществува без всички потребит
 
 [История на osu!](/wiki/History_of_osu!) • [История на osu! Уики](/wiki/History_of_osu!/osu!_wiki) • [Бийтмап създаване/редактиране - история](/wiki/Mapping_and_Modding_Timeline) • [Априлски Шеги](/wiki/History_of_osu!/April_Fools)
 
-[Карта на сайта](/wiki/Sitemap) • [Указания за принос](/wiki/osu!_wiki_Contribution_Guide) • [Критерии за оформяне на Страница](/wiki/Article_Styling_Criteria) • [Критерии за оформяне на Новини](/wiki/News_Styling_Criteria)
+[Карта на сайта](/wiki/Sitemap) • [Указания за принос](/wiki/osu!_wiki/Contribution_guide) • [Критерии за оформяне на Страница](/wiki/Article_Styling_Criteria) • [Критерии за оформяне на Новини](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

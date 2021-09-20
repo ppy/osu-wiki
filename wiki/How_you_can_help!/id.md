@@ -8,7 +8,7 @@ Di bawah ini hanyalah beberapa cara yang dapat Kamu lakukan untuk membantu dalam
 
 [Wiki](https://github.com/ppy/osu-wiki) adalah basis pengetahuan resmi kami yang berisi apa saja dan segalanya tentang osu!. Oleh karena itu, wiki selalu membutuhkan lebih banyak kontributor untuk membantu menjaga situs tetap mutakhir dengan pengetahuan maupun terjemahan yang segar dan baru.
 
-Jika Kamu adalah pendatang baru di osu! wiki, Kamu dapat membaca lebih lanjut di [Panduan Kontribusi osu! wiki](/wiki/osu!_wiki_Contribution_Guide).
+Jika Kamu adalah pendatang baru di osu! wiki, Kamu dapat membaca lebih lanjut di [Panduan Kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide).
 
 ## Membantu menjaga osu! tetap ramah dan aman
 
@@ -26,10 +26,10 @@ Jika Kamu menemui seseorang yang memiliki masalah dengan osu!, bantulah mereka! 
 Secara garis besar, berikut ini beberapa cara Kamu dapat membantu orang lain:
 
 - Pilih forum yang menarik minat Kamu:
-    - [Help](https://osu.ppy.sh/community/forums/5)
-    - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
-    - [Storyboarding](https://osu.ppy.sh/community/forums/20)
-    - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
+  - [Help](https://osu.ppy.sh/community/forums/5)
+  - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
+  - [Storyboarding](https://osu.ppy.sh/community/forums/20)
+  - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
 - Tandai forum ini sebagai telah dibaca menggunakan tombol tautan di paling bawah.
 - Ikuti utas-utas terbaru, baca masing-masing utas tersebut dan bantu bila Kamu bisa; Kamu dapat menggunakan *unread icon* untuk memastikan Kamu mengikutinya.
 - Baca [panduan](/wiki/Guides) yang tersedia untuk menyempurnakan pengetahuan osu!. Jika menurutmu panduan tidak memuaskan, maka Kamu dapat mencoba berkontribusi pada panduan itu!
@@ -52,7 +52,7 @@ Di bawah ini beberapa cara Kamu dapat berkontribusi:
 
 - Jelajahi forum [Turnaments](https://osu.ppy.sh/community/forums/55). Turnamen membutuhkan banyak waktu dan pekerjaan untuk dapat diatur tanpa hambatan, dan Kamu dapat membantu dengan menjadi juri penonton dalam beberapa kasus.
 - Periksa apa yang terjadi di forum [Development](https://osu.ppy.sh/community/forums/2); di sinilah proyek paling serius terjadi.
-    - Bergabunglah dengan [Discord osu!dev](https://discord.gg/ppy), bahkan hanya mengikuti dan up-to-date dengan proyek pengembangan osu! adalah cara yang baik untuk tetap memperoleh informasi.
+  - Bergabunglah dengan [Discord osu!dev](https://discord.gg/ppy), bahkan hanya mengikuti dan up-to-date dengan proyek pengembangan osu! adalah cara yang baik untuk tetap memperoleh informasi.
 - Bergabunglah dengan [beatmap project](https://osu.ppy.sh/community/forums/53) dan pelajari betapa menyenangkannya berkolaborasi dengan orang lain!
 - Mulai proyek Kamu sendiri! Baik itu membawakan kembali dancing pippi, atau hanya membuat sesuatu yang keren untuk osu!, apa pun boleh!
 
