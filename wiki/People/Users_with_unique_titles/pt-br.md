@@ -20,7 +20,6 @@ Vencedores da [OWC 2020](/wiki/Tournaments/OWC/2020) com o título de **osu! Cha
 - ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
 - ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650)
 - ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603)
-- ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
 Vencedores da [TWC 2021](/wiki/Tournaments/TWC/2021) com o título de **osu!taiko Champion**:
@@ -353,7 +352,6 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Elite Mapper: Aspirant |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
-| ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296) | osu! Champion |
 | ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) | osu!taiko Champion |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Elite Mapper |
 | ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
