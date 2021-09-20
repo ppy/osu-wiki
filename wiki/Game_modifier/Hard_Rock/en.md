@@ -61,7 +61,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania), only the judgement difficulty (OD) an
 
 ## Trivia
 
-- The Hard Rock mod is named after the hardest difficulty of the [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS "Wikipedia") game "[Elite Beat Agents](/wiki/iNiS_games)"
+- The Hard Rock mod is named after the hardest difficulty of the [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS) game "[Elite Beat Agents](/wiki/iNiS_games)"
 - The Hard Rock mod will cancel out the [Easy](/wiki/Game_modifier/Easy) mod. And vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

@@ -47,9 +47,9 @@ Corgi Cup: June 2016 was run by various community members.
 
 ## Links
 
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/16JHAuJZU8wtBCuiiuxkdYYPkRFQd2UoPJOuFnQTMu7o/edit?usp=sharing "Google Sheets")
-- [Livestream](https://twitch.tv/Doomsday "Twitch")
-- [Discord](https://discord.gg/doomscord "Discord")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/16JHAuJZU8wtBCuiiuxkdYYPkRFQd2UoPJOuFnQTMu7o/edit?usp=sharing)
+- [Livestream](https://twitch.tv/Doomsday)
+- [Discord](https://discord.gg/doomscord)
 
 ## Participants
 

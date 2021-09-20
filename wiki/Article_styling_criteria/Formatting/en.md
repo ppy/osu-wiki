@@ -2,7 +2,7 @@
 
 *For the writing standards, see: [Article style criteria/Writing](../Writing)*
 
-*Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") to describe requirement levels.*
+*Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
 
 ## Locales
 
@@ -58,7 +58,7 @@ There are some cases where the content is allowed to differ:
 
 ## Front matter
 
-Front matter must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example "YAML Wikipedia article") and describes additional information about the article. This must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it before the title heading.
+Front matter must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example) and describes additional information about the article. This must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it before the title heading.
 
 ### Articles that need help
 
@@ -111,7 +111,7 @@ no_native_review: true
 
 *See also: [Folder names](#folder-names) and [Titles](#titles)*
 
-Article titles should be singular and use sentence case. See [Wikipedia's naming conventions article](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals) "Wikipedia") for more details.
+Article titles should be singular and use sentence case. See [Wikipedia's naming conventions article](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals)) for more details.
 
 Article titles should match the folder name it is in (spaces may replace underscores (`_`) where appropriate). If the folder name changes, the article title should be changed to match it and vice versa.
 
@@ -292,7 +292,7 @@ Italics may also be used to provide emphasis or help with readability.
 
 All headings must use sentence case.
 
-Headings must use the [ATX (hash) style](https://github.github.com/gfm/#atx-headings "GitHub") and must have an empty line before and after the heading. The title heading is an exception when it is on the first line. If this is the case, there only needs to be an empty line after the title heading.
+Headings must use the [ATX (hash) style](https://github.github.com/gfm/#atx-headings) and must have an empty line before and after the heading. The title heading is an exception when it is on the first line. If this is the case, there only needs to be an empty line after the title heading.
 
 Headings must not exceed a heading level of 5 and must not be used to style or format text.
 
@@ -603,7 +603,7 @@ The `https` protocol must be used, unless the site does not support it. External
 There are no visual differences between external and osu! web links. Due to this, the website name should be included in the title text. See the following example:
 
 ```markdown
-*For more information about music theory, see: [Music theory](https://en.wikipedia.org/wiki/Music_theory "Wikipedia")*
+*For more information about music theory, see: [Music theory](https://en.wikipedia.org/wiki/Music_theory)*
 ```
 
 ## Images
@@ -642,7 +642,7 @@ Images should use the JPG format at quality 8 (80 or 80%, depending on the progr
 
 Images must be under 1 megabyte, otherwise they will fail to load. Downscaling and using JPG at 80% is almost always under the size limit.
 
-All images should be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive "GitHub") to compress JPEG images. For consistency, use the following command for jpeg-archive:
+All images should be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) to compress JPEG images. For consistency, use the following command for jpeg-archive:
 
 ```sh
 jpeg-recompress -am smallfry <input> <output>
@@ -736,7 +736,7 @@ Flag icons next to user links must be separate from the link text. See the follo
 
 ### Flag icons
 
-*For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328 "GitHub")*
+*For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328)*
 
 The flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
 
@@ -744,7 +744,7 @@ The flag icons use the two letter code (in all capital letters) and end with `.g
 ![](/wiki/shared/flag/xx.gif)
 ```
 
-Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia") two-lettered country code for the flag.
+Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
 
 The full country name should be added in the title text. The country code in the alternate text is optional, but must be applied to all flag icons in the article.
 

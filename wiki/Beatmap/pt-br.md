@@ -80,7 +80,7 @@ Existem também fontes secundárias de *beatmaps*, que não são **nem checadas 
 Essas fontes incluem:
 
 - *mirrors* de beatmap de terceiros hospedados em alguma plataforma;
-- pacotes feitos por jogadores e compilações compartilhadas por [redes-p2p](https://pt.wikipedia.org/wiki/Peer-to-peer "Wikipedia"), como o BitTorrent.
+- pacotes feitos por jogadores e compilações compartilhadas por [redes-p2p](https://pt.wikipedia.org/wiki/Peer-to-peer), como o BitTorrent.
 
 ### Beatmaps e a comunidade
 

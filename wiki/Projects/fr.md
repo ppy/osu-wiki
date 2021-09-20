@@ -45,7 +45,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
 - [opsu!](https://osu.ppy.sh/community/forums/topics/221726)—Un client non-officiel d'osu! écrit en Java.
   - [GitHub](https://github.com/itdelatrisu/opsu) | [Site](http://itdelatrisu.github.io/opsu/)
 - [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175)—Clône python d'osu!
-- [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640)—Un jeu [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") gratuit qui joue les beatmaps osu! sur votre iPhone ou appareil Android.
+- [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640)—Un jeu [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) gratuit qui joue les beatmaps osu! sur votre iPhone ou appareil Android.
 - osu!droid—Un client osu! non-officiel écrit pour Android, open source.
   - [GitHub](https://github.com/osudroid/osu-droid)
   - [Site](http://ops.dgsrz.com/)

@@ -53,9 +53,9 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 ## 링크
 
 - [의견 스레드](https://osu.ppy.sh/community/forums/topics/726251)
-- [라이브 스트림](https://www.twitch.tv/osutaikoshowdown "Twitch")
-- [ATS 2018 디스코드](https://discord.gg/2xQDbkS "Discord")
-- **[아시아 태고 쇼다운 현황](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0 "Google Sheets")**
+- [라이브 스트림](https://www.twitch.tv/osutaikoshowdown)
+- [ATS 2018 디스코드](https://discord.gg/2xQDbkS)
+- **[아시아 태고 쇼다운 현황](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)**
 
 ## 참가자
 
@@ -91,7 +91,7 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 ### 최종 결승
 
-**[여기서 당신의 맵팩을 다운받는! (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing "Google Drive")**
+**[여기서 당신의 맵팩을 다운받는! (65MB)](https://drive.google.com/file/d/18VwS0VHtsRC9zecGbM1ne_uszDDhkk3v/view?usp=sharing)**
 
 - NoMod
   - [Colorful Sounds Port - ETERNAL DRAIN (Shirai-) \[MuzukATShii\]](https://osu.ppy.sh/beatmapsets/625899#taiko/1574085)
@@ -119,7 +119,7 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 ### 결승
 
-**[여기서 당신의 맵팩을 다운받는! (84MB)](https://drive.google.com/file/d/1y2tGdLhx3j8U7h7FZHDVjhvYxA7ouY-e/view?usp=sharing "Google Drive")**
+**[여기서 당신의 맵팩을 다운받는! (84MB)](https://drive.google.com/file/d/1y2tGdLhx3j8U7h7FZHDVjhvYxA7ouY-e/view?usp=sharing)**
 
 - NoMod
   - [Innocent Key - Toho-Assisted-Speedrun!!! (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/796419#taiko/1672405)
@@ -147,7 +147,7 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 ### 4강
 
-**[여기서 당신의 맵팩을 다운받는! (81MB)](https://drive.google.com/file/d/17XmIGdwsdxLNYnkc7EoL0mLczF8VoUsw/view?usp=sharing "Google Drive")**
+**[여기서 당신의 맵팩을 다운받는! (81MB)](https://drive.google.com/file/d/17XmIGdwsdxLNYnkc7EoL0mLczF8VoUsw/view?usp=sharing)**
 
 - NoMod
   - [Mitsuyoshi Takenobu no Ani - Amphisbaena (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/737973#taiko/1557391)
@@ -175,7 +175,7 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 ### 8강
 
-**[여기서 당신의 맵팩을 다운받는! (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing "Google Drive")**
+**[여기서 당신의 맵팩을 다운받는! (91 MB)](https://drive.google.com/file/d/1tlAk1b9H1VT5xbLEi08hEzEbFRAuze63/view?usp=sharing)**
 
 - NoMod
   - [Renard - The Club (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553809#taiko/1172641)
@@ -203,7 +203,7 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 ### 16강
 
-**[여기서 당신의 맵팩을 다운받는! (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing "Google Drive")**
+**[여기서 당신의 맵팩을 다운받는! (105 MB)](https://drive.google.com/file/d/1dJbbGVljsn9AYSHsubbzfcmBc0cwPPh0/view?usp=sharing)**
 
 - NoMod
   - [Kamui Gakupo, KAITO, Kagamine Len - Immoral Memory\~The Lost Memory\~ (7odoa) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44898#taiko/145660)
@@ -231,7 +231,7 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 ### 그룹스테이지
 
-**[여기서 당신의 맵팩을 다운받는! (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing "Google Drive")**
+**[여기서 당신의 맵팩을 다운받는! (77 MB)](https://drive.google.com/file/d/188OfTUx7h3CeBuWzNdVA5xZ9HjIFznm0/view?usp=sharing)**
 
 - NoMod
   - [Hatsune Miku & Megpoid Gumi - Ashurashurashura (Mapper 31) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/36248#taiko/148859)
@@ -259,7 +259,7 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 ### Eliminations Stage
 
-**[여기서 당신의 맵팩을 다운받는! (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing "Google Drive")**
+**[여기서 당신의 맵팩을 다운받는! (65MB)](https://drive.google.com/file/d/1u4bnB-9fznRFtVGSxuLYvB7ZonvH8gRK/view?usp=sharing)**
 
 - NoMod
   - [yanaginagi - Owari no Sekai kara (Lundlerol) \[Lundle's Taiko\]](https://osu.ppy.sh/beatmapsets/44854#taiko/156706)

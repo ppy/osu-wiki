@@ -70,7 +70,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), le mod Hidden fonctionne co
 
 ## Le saviez-vous ?
 
-- Le mod Hidden est apparu pour la première fois dans Ouendan 2, qui était le deuxième jeu DS japonais de la série [Osu! Tatake! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan "Wikipédia") (la série dont osu! s'inspire).
+- Le mod Hidden est apparu pour la première fois dans Ouendan 2, qui était le deuxième jeu DS japonais de la série [Osu! Tatake! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan) (la série dont osu! s'inspire).
 - Si une beatmap est passée avec un grade S ou SS avec le mod Hidden activé, la beatmap attribuera la variante argentée du grade à la place.
 - Par défaut, dans [osu!](/wiki/Game_mode/osu!) le [approach circle](/wiki/Hit_object/Approach_circle) du premier [objet](/wiki/Hit_object) sera temporairement visible au début d'une beatmap afin d'aider les joueurs à mieux évaluer le moment où ils doivent toucher l'objet en question. Ceci peut être désactivé dans les options sous `Gameplay`.
 - Dans le mode osu!mania, le mod Hidden est une variante du mod [Fade In](/wiki/Game_modififer/Fade_In).

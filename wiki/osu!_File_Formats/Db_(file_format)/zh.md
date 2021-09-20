@@ -19,11 +19,11 @@
 | Short | 2 | 整数 |
 | Int | 4 | 整数 |
 | Long | 8 | 整数 |
-| ULEB128 | 可变 | 整数；见[此处](https://en.wikipedia.org/wiki/LEB128 "Wikipedia") |
+| ULEB128 | 可变 | 整数；见[此处](https://en.wikipedia.org/wiki/LEB128) |
 | Single | 4 | 32位 IEEE 浮点数值 |
 | Double | 8 | 64位 IEEE 浮点数值 |
 | Boolean | 1 | 0x00 为false，其余任何值为true |
-| String | 可变 | 分为三部分：一个单独的字节，可能为 0x00，表示接下来两个部分不存在；或 0x0b（十进制 11），表示下面两个部分存在。若为 0x0b，第二部分将有一个 ULEB128，表示第三部分的字符串字节长度，然后是字符串本身，经 UTF-8 编码。见[此处](https://en.wikipedia.org/wiki/UTF-8 "Wikipedia")。 |
+| String | 可变 | 分为三部分：一个单独的字节，可能为 0x00，表示接下来两个部分不存在；或 0x0b（十进制 11），表示下面两个部分存在。若为 0x0b，第二部分将有一个 ULEB128，表示第三部分的字符串字节长度，然后是字符串本身，经 UTF-8 编码。见[此处](https://en.wikipedia.org/wiki/UTF-8)。 |
 
 ## osu!.db
 
@@ -37,7 +37,7 @@
 | :-- | :-- | :-- |
 | Int-Double pair | 14 | 第一个字节为0x08，跟随一个 Int，然后是0x0d，跟随一个 Double。 这些无关的字节大概是表示这些位置中不同数据类型的标志，但实际上还没有看到其他这样的标志。目前，这种数据类型的用途是未知的。 |
 | Timing Point | 17 | 包含一个代表 BPM 的 Double，和一个代表偏移量（以毫秒为单位）的 Double，和一个布尔值；如果为 false，则该 Timing Point 是继承的。查阅 [.osu（文件格式）](/wiki/osu!_File_Formats/Osu_(file_format)) 以获得更多关于 Timing Point 的信息。 |
-| DateTime | 8 | 一个代表日期和时间的 64 位刻。刻是从 UTC 时间 1 年 1 月 1 日午夜 0 点开始的 100 纳秒间隔量。 详见 [.NET Framework 关于刻的文档](https://docs.microsoft.com/zh-cn/dotnet/api/system.datetime.ticks?view=netframework-4.7.2 "Microsoft Docs")。 |
+| DateTime | 8 | 一个代表日期和时间的 64 位刻。刻是从 UTC 时间 1 年 1 月 1 日午夜 0 点开始的 100 纳秒间隔量。 详见 [.NET Framework 关于刻的文档](https://docs.microsoft.com/zh-cn/dotnet/api/system.datetime.ticks?view=netframework-4.7.2)。 |
 
 ### osu!.db 格式
 

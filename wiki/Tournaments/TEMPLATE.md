@@ -57,8 +57,8 @@ The {TITLE} is run by various community members.
 ## Links
 
 - [Discussion thread]({THREAD_LINK})
-- [Livestream]({LIVESTREAM_LINK} "Website name")
-- **[Statistics sheet]({SHEET_LINK} "Website name")**
+- [Livestream]({LIVESTREAM_LINK})
+- **[Statistics sheet]({SHEET_LINK})**
 
 ## Participants
 

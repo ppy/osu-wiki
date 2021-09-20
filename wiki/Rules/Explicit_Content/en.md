@@ -25,4 +25,4 @@ In addition, vivid and sustained discussion of controversial topics or anything 
 - Depiction/discussion of violent consequences in gory detail
 - Extremely overt sexual references or allusions to sexual acts
 
-A good way of discerning if something should be tagged as explicit or not is if any major audio streaming services have it listed as such on their own platforms. [Spotify](https://www.spotify.com "Spotify") is an excellent place to start.
+A good way of discerning if something should be tagged as explicit or not is if any major audio streaming services have it listed as such on their own platforms. [Spotify](https://www.spotify.com) is an excellent place to start.

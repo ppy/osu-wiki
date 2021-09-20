@@ -74,7 +74,7 @@ Ici, vous pouvez modifier la réaffectation des touches du clavier avec les acti
 
 **Notes :**
 
-- Explication de la `Boss Key` : [Boss key](https://fr.wikipedia.org/wiki/Boss_key "Wikipédia")
+- Explication de la `Boss Key` : [Boss key](https://fr.wikipedia.org/wiki/Boss_key)
   - Lorsqu'elle est utilisée, osu! se met en sourdine et cache la fenêtre de la barre d'outils.
   - Pour désactiver la boss key, cliquez sur l'icône osu! dans la barre des tâches et le client s'ouvrira.  
 

@@ -163,7 +163,7 @@ Vous pouvez également vérifier si les boutons de vos périphériques sont bloq
 
 **Vous devrez extraire le pack dans votre répertoire Songs.**
 
-La plupart des beatmap packs sont fournis au format de fichier `.rar`, ce qui signifie qu'il s'agit d'une archive compressée de fichiers de beatmaps. Vous devrez les extraire en utilisant l'utilitaire de votre choix (nous recommandons [7-Zip](https://7-zip.org "7zip")) dans votre répertoire "Songs".
+La plupart des beatmap packs sont fournis au format de fichier `.rar`, ce qui signifie qu'il s'agit d'une archive compressée de fichiers de beatmaps. Vous devrez les extraire en utilisant l'utilitaire de votre choix (nous recommandons [7-Zip](https://7-zip.org)) dans votre répertoire "Songs".
 
 Une fois que tous les fichiers `.osz` de l'archive sont dans le répertoire `Songs`, appuyez sur `F5` dans le menu de sélection des chansons pour rafraîchir le cache des beatmaps du jeu et charger vos nouvelles chansons dans le jeu.
 
@@ -288,7 +288,7 @@ Si cela ne suffit toujours pas, vous pouvez essayer de mettre à jour les pilote
 
 ### Mon jeu a l'air défectueux, comme si les graphiques étaient déchirés !
 
-**Ceci est dû à un effet appelé [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing "Wikipédia (en anglais)") et peut être corrigé en réglant l'option du jeu `Images par seconde` sur `VSync`.**
+**Ceci est dû à un effet appelé [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) et peut être corrigé en réglant l'option du jeu `Images par seconde` sur `VSync`.**
 
 Il s'agit d'un effet totalement inoffensif (bien que laid !) qui se produit parce que le taux de rafraîchissement du jeu n'est pas synchronisé avec celui de votre écran.
 

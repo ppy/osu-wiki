@@ -149,7 +149,7 @@ Si vous ne recherchez que des modifications mineures en matière de capitalisati
 
 Si un joueur ne s'est pas connecté depuis au moins 6 mois et n'a pas joué, son nom d'utilisateur peut être réclamé via la page [osu!store player name change page](https://osu.ppy.sh/store/products/32) pour le prix standard associé aux changements de nom d'utilisateur.
 
-Si ce joueur a joué au moins une partie parmi tous les modes de jeu, une [fonction non linéaire](https://www.desmos.com/calculator/b89siyv9j8 "Graphique Desmos") est utilisée pour calculer combien de temps supplémentaire est ajouté à ces 6 mois. Cela permet d'éviter que des personnes volent les noms d'utilisateur de joueurs actifs ou qui ont arrêté récemment.
+Si ce joueur a joué au moins une partie parmi tous les modes de jeu, une [fonction non linéaire](https://www.desmos.com/calculator/b89siyv9j8) est utilisée pour calculer combien de temps supplémentaire est ajouté à ces 6 mois. Cela permet d'éviter que des personnes volent les noms d'utilisateur de joueurs actifs ou qui ont arrêté récemment.
 
 ### Est-il possible de changer mon nom ou de revenir à mon ancien nom d'utilisateur ?
 

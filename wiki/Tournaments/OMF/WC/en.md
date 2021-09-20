@@ -49,10 +49,10 @@ The Old Map Fantasy World Cup is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1359817)
-- [Livestream](https://www.twitch.tv/Kaeldori "Twitch")
-- [Challonge bracket](https://challonge.com/OMFWC "Challonge")
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/72 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Main sheet](https://docs.google.com/spreadsheets/d/1YwFNdAnKQL4jCqZQmxUGc-Q_5hHj1fdhOdbTcWKZhsw/edit#gid=0 "Google Sheets")**
+- [Livestream](https://www.twitch.tv/Kaeldori)
+- [Challonge bracket](https://challonge.com/OMFWC)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/72) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Main sheet](https://docs.google.com/spreadsheets/d/1YwFNdAnKQL4jCqZQmxUGc-Q_5hHj1fdhOdbTcWKZhsw/edit#gid=0)**
 
 ## Participants
 
@@ -236,7 +236,7 @@ The Old Map Fantasy World Cup is run by various community members.
 
 ### Round of 32
 
-The stats of the Round of 32 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1dpX2983pjfa6FFzycWS7E_sEEd2rrH_ogVMxhJ1ibDI/edit?usp=sharing "Google Sheets").
+The stats of the Round of 32 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1dpX2983pjfa6FFzycWS7E_sEEd2rrH_ogVMxhJ1ibDI/edit?usp=sharing).
 
 Saturday, 28 August 2021:
 
@@ -281,7 +281,7 @@ Monday, 30 August 2021:
 
 ### Round of 64
 
-The stats of the Round of 64 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1qdjdu2Ppg_vZgl4DBBDaO2QA4mbsSLQiUefPr4j7jq8/edit#gid=1455419690 "Google Sheets").
+The stats of the Round of 64 can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1qdjdu2Ppg_vZgl4DBBDaO2QA4mbsSLQiUefPr4j7jq8/edit#gid=1455419690).
 
 Saturday, 28 August 2021:
 
@@ -327,7 +327,7 @@ Monday, 30 August 2021:
 
 ### Qualifiers
 
-See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/17yFrT7yEf5x01Xx3v4yxHNCEdOl630svCdFs2WIpRYk/edit#gid=809028813 "Google Sheets") for lists of all qualification results.
+See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/17yFrT7yEf5x01Xx3v4yxHNCEdOl630svCdFs2WIpRYk/edit#gid=809028813) for lists of all qualification results.
 
 ## Ruleset
 

@@ -23,7 +23,7 @@ Ces raccourcis fonctionnent partout :
 - `F12`: Prend une capture d'écran
 - `Shift` + `F12`: Prend une capture d'écran et la télécharge sur un serveur pour le partager
 - `Insert`: ([Boss Key](https://fr.wikipedia.org/wiki/Boss_key)) Réduit le client osu! dans la zone de notification
-- `Shift` + `F1`: Ouvre un [osu!status](https://twitter.com/osustatus "osu!status sur Twitter") (quand une erreur de connection apparait)
+- `Shift` + `F1`: Ouvre un [osu!status](https://twitter.com/osustatus) (quand une erreur de connection apparait)
 
 ## Menu principal
 

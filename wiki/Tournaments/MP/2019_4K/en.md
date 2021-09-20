@@ -28,7 +28,7 @@ The **Mistrzostwa Polski w 4K 2019** (***MP4K 2019***, *4K Polish Championship 2
 
 ## Prizes
 
-The prize pool was crowdfunded through the [tipanddonation](https://tipanddonation.com/MP4K3 "tipanddonation") page with a minimum prize pool set at 200 PLN total with a 50%/30%/20% split for the top 3 players.
+The prize pool was crowdfunded through the [tipanddonation](https://tipanddonation.com/MP4K3) page with a minimum prize pool set at 200 PLN total with a 50%/30%/20% split for the top 3 players.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -54,9 +54,9 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/907418)
-- [Livestream](https://www.twitch.tv/mp4k "Twitch")
-- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv "Discord")
-- [Challonge](https://challonge.com/MP4K3 "Challonge")
+- [Livestream](https://www.twitch.tv/mp4k)
+- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
+- [Challonge](https://challonge.com/MP4K3)
 
 ## Participants
 
@@ -422,7 +422,7 @@ Sunday, 30 June 2019:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhwQj6gqzWVjhmolPUlYOIkAjKZDEiqOqBGMl6M-a6duVOzzpWTqeiE0-bEolAnhZRSGQgKpyNJC_f/pubhtml "Google Sheets").
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhwQj6gqzWVjhmolPUlYOIkAjKZDEiqOqBGMl6M-a6duVOzzpWTqeiE0-bEolAnhZRSGQgKpyNJC_f/pubhtml).
 
 ## Ruleset
 

@@ -46,12 +46,12 @@ tags:
 
 ## 链接
 
-- [Challonge](https://challonge.com/zh_CN/MXB3rd "Challonge")
+- [Challonge](https://challonge.com/zh_CN/MXB3rd)
 - 直播间
-  - [Flow Light](https://live.bilibili.com/73668 "Bilibili")
-  - [IA daisuki](https://live.bilibili.com/4353181 "Bilibili")
-  - [NimaPro](https://live.bilibili.com/12166146 "Bilibili")
-  - [Rasis](https://live.bilibili.com/5333 "Bilibili")
+  - [Flow Light](https://live.bilibili.com/73668)
+  - [IA daisuki](https://live.bilibili.com/4353181)
+  - [NimaPro](https://live.bilibili.com/12166146)
+  - [Rasis](https://live.bilibili.com/5333)
 
 ## 颁奖
 
@@ -86,7 +86,7 @@ tags:
 
 ### 决赛
 
-**下载完整图池包！（118 MB）- [百度云盘](https://pan.baidu.com/s/1v2mmoQVy_bdNR5_0W5j06w "Baidu Netdisk")（提取码：`ploo`）- [Google 云端硬盘](https://drive.google.com/file/d/1zLUvsmKgd5ppPWZEvFxDA4WEAMgkzdRH "Google Drive")**
+**下载完整图池包！（118 MB）- [百度云盘](https://pan.baidu.com/s/1v2mmoQVy_bdNR5_0W5j06w)（提取码：`ploo`）- [Google 云端硬盘](https://drive.google.com/file/d/1zLUvsmKgd5ppPWZEvFxDA4WEAMgkzdRH)**
 
 - FreeMod
   - [LeaF - I \[\_UJ's Another\]](https://osu.ppy.sh/beatmapsets/426638#mania/928341)
@@ -108,7 +108,7 @@ tags:
 
 ### 半决赛
 
-**下载完整图池包！（77 MB）- [百度云盘](https://pan.baidu.com/s/1WbMvDnuRXqWQlcjGvW6LiQ "Baidu Netdisk")（提取码：`tydk`）- [Google 云端硬盘](https://drive.google.com/file/d/1ovBrmPRGZzOxCOAGSBKpbEiljhyWEnsH "Google Drive")**
+**下载完整图池包！（77 MB）- [百度云盘](https://pan.baidu.com/s/1WbMvDnuRXqWQlcjGvW6LiQ)（提取码：`tydk`）- [Google 云端硬盘](https://drive.google.com/file/d/1ovBrmPRGZzOxCOAGSBKpbEiljhyWEnsH)**
 
 - FreeMod
   - [IOSYS - Endless Tewi-ma Park \[Arcwin Tewicated\]](https://osu.ppy.sh/beatmapsets/392965#mania/855472)
@@ -128,7 +128,7 @@ tags:
 
 ### 八强赛
 
-**下载完整图池包！（85 MB） - [百度云盘](https://pan.baidu.com/s/1JH-52Xp4Ez2J4oCGo8jv7Q "Baidu Netdisk")（提取码：`wtvh`） - [Google 云端硬盘](https://drive.google.com/file/d/1ZVxWmXj5uEVS1MgjF9k_YR9gafInsLNy "Google Drive")**
+**下载完整图池包！（85 MB） - [百度云盘](https://pan.baidu.com/s/1JH-52Xp4Ez2J4oCGo8jv7Q)（提取码：`wtvh`） - [Google 云端硬盘](https://drive.google.com/file/d/1ZVxWmXj5uEVS1MgjF9k_YR9gafInsLNy)**
 
 - FreeMod
   - [Xceon feat.Mayumi Morinaga - Sakurayozora (Extended Mix) \[Expert\]](https://osu.ppy.sh/beatmapsets/316411#mania/705048)
@@ -148,7 +148,7 @@ tags:
 
 ### 小组赛
 
-**下载完整图池包！（73 MB） - [百度云盘](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow "Baidu Netdisk")（提取码： `wbbx`） - [Google 云端硬盘](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn "Google Drive")**
+**下载完整图池包！（73 MB） - [百度云盘](https://pan.baidu.com/s/1SidZxUAGE53yYCfN8GSRow)（提取码： `wbbx`） - [Google 云端硬盘](https://drive.google.com/file/d/1Q-Ys6AcwjQe_lOiFkPNkzULY37sd36Hn)**
 
 - FreeMod
   - [Junk - Qualia \[4K HD+\]](https://osu.ppy.sh/beatmapsets/177155#mania/426499)
@@ -166,7 +166,7 @@ tags:
 
 ### 资格赛
 
-**下载完整图池包！（14 MB） - [百度云盘](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA "Baidu Netdisk") - [Google 云端硬盘](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM- "Google Drive")**
+**下载完整图池包！（14 MB） - [百度云盘](https://pan.baidu.com/s/1XkNuvDcQUlKfT_5dmEYVNA) - [Google 云端硬盘](https://drive.google.com/file/d/11pY2Li_O_XBvJz60xfdAhxOjGQghkvM-)**
 
 - FreeMod
   - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \[Stage 1: Reborn\]](https://osu.ppy.sh/beatmapsets/961881#mania/2014099)
@@ -225,7 +225,7 @@ tags:
 
 ### 资格赛
 
-[点此查看](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s "Tencent QQ") 资格赛得分情况。
+[点此查看](https://docs.qq.com/sheet/DSWlYeVZIR01xRG5s) 资格赛得分情况。
 
 ## 规则
 
@@ -266,7 +266,7 @@ tags:
 #### 淘汰赛
 
 - 淘汰赛采用双败赛制。这意味着参加淘汰赛的选手必须在本阶段输掉两场比赛才能被淘汰出局。
-- 可以在[这里](https://challonge.com/zh_CN/MXB3rd "Challonge")找到 MXB 赛程。
+- 可以在[这里](https://challonge.com/zh_CN/MXB3rd)找到 MXB 赛程。
 - 在胜者组比赛中，在一场比赛中符合获胜条件的选手将被宣布为该场比赛的获胜者，并将进入胜者组的下一阶段。这场比赛的失败者将落入败者组。
 - 在败者组的比赛中，在一场比赛中符合获胜条件的选手将被宣布为比赛的胜利者，并将进一步败者组的下一阶段。这场比赛的失败者将被淘汰出局。
 - 在胜者组的玩家每个阶段都只需要进行一场比赛。唯一的例外是，如果在总决赛阶段，该选手在第一场比赛中输给了败者组中惟一的获胜者，那么他需要进行第二场比赛来决定是否成为总冠军。

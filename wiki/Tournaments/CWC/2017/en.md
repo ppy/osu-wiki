@@ -47,8 +47,8 @@ The osu!catch World Cup 2017 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/589552)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ukKQD-q9mOaEX0gWhhKdma9o-HlI_n9Bz5g6l88j3lc/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ukKQD-q9mOaEX0gWhhKdma9o-HlI_n9Bz5g6l88j3lc/pubhtml)**
 
 ## Participants
 
@@ -99,7 +99,7 @@ The osu!catch World Cup 2017 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (115 MB)](http://www.mediafire.com/file/1u6j67z6qsvuu7e/CWC_2017_Finals.rar "MediaFire")**
+**[Download the mappack here! (115 MB)](http://www.mediafire.com/file/1u6j67z6qsvuu7e/CWC_2017_Finals.rar)**
 
 - NoMod
   - [Camellia - Bangin' Burst (CLSW) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/524515#fruits/1113287)
@@ -125,7 +125,7 @@ The osu!catch World Cup 2017 was run by various community members.
 
 ## Semifinals
 
-**[Download the mappack here! (97 MB)](https://www.mediafire.com/file/ikgcpwt5p719p0c/CWC_2017_Semifinals.rar "MediaFire")**
+**[Download the mappack here! (97 MB)](https://www.mediafire.com/file/ikgcpwt5p719p0c/CWC_2017_Semifinals.rar)**
 
 - NoMod
   - [Function Phantom - Algebra (Spectator) \[Crystal Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/468281#fruits/1001619)
@@ -151,7 +151,7 @@ The osu!catch World Cup 2017 was run by various community members.
 
 ## Quarterfinals
 
-**[Download the mappack here! (102 MB)](https://www.mediafire.com/file/91ve9g5dpkg24up/CWC_2017_Quarterfinals.rar "MediaFire")**
+**[Download the mappack here! (102 MB)](https://www.mediafire.com/file/91ve9g5dpkg24up/CWC_2017_Quarterfinals.rar)**
 
 - NoMod
   - [dj MAX STEROID - Arabian Rave Night (Ascendance) \[Black Another\]](https://osu.ppy.sh/beatmapsets/592980#fruits/1254591)
@@ -177,7 +177,7 @@ The osu!catch World Cup 2017 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (124 MB)](https://www.mediafire.com/file/l7kgoz9hx967mnz/CWC_2017_Round_of_16.rar "MediaFire")**
+**[Download the mappack here! (124 MB)](https://www.mediafire.com/file/l7kgoz9hx967mnz/CWC_2017_Round_of_16.rar)**
 
 - NoMod
   - [Reol - No title (Spectator) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/230741#fruits/536479)
@@ -203,7 +203,7 @@ The osu!catch World Cup 2017 was run by various community members.
 
 ### Group stage
 
-**[Download the mappack here! (120 MB)](https://www.mediafire.com/file/4vdwqn61cwk1vb1/CWC_2017_Group_Stage.rar "MediaFire")**
+**[Download the mappack here! (120 MB)](https://www.mediafire.com/file/4vdwqn61cwk1vb1/CWC_2017_Group_Stage.rar)**
 
 - NoMod
   - [ensou ft GUMI - COMA (Nelly) \[Rain\]](https://osu.ppy.sh/beatmapsets/589530#fruits/1299618)
