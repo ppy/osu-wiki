@@ -94,7 +94,7 @@ The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/The_Team
 
 ## Podium
 
-![](img/podium.jpg "MWC 7K 2020 podium")
+![](img/podium.jpg "MWC 4K 2020 podium")
 
 ## Mappools
 
