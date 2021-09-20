@@ -12,9 +12,9 @@ The **UK Community Cup 8** (***UKCC8***) was a British 2v2 double-elimination os
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1026417?n=1)
-- [Challonge](https://challonge.com/ukcc8 "Challonge")
-- [Discord](https://discord.gg/EtsU7Cw "Discord")
-- [Livestream](https://twitch.tv/osuukcc "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1qBNQMfkLaujAMj8mQW4gTvejIhm6Wz7TOlS32IZOr64/edit?usp=sharing "Google Sheets")
+- [Challonge](https://challonge.com/ukcc8)
+- [Discord](https://discord.gg/EtsU7Cw)
+- [Livestream](https://twitch.tv/osuukcc)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1qBNQMfkLaujAMj8mQW4gTvejIhm6Wz7TOlS32IZOr64/edit?usp=sharing)
 
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"

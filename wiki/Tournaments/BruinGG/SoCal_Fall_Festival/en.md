@@ -45,16 +45,16 @@ There are five organisers for the osu! section of the SoCal Fall Festival:
 
 ## Links
 
-- **[Discord server](https://discord.gg/au7qpnk "Discord")**
+- **[Discord server](https://discord.gg/au7qpnk)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1168265)
-- [Rules](https://docs.google.com/document/d/1HX3zr4dU8NlimMubDSiRFn8vP3DusvgVgG1WYiKGqmQ/edit?usp=sharing "Google Docs")
+- [Rules](https://docs.google.com/document/d/1HX3zr4dU8NlimMubDSiRFn8vP3DusvgVgG1WYiKGqmQ/edit?usp=sharing)
 
 ### Related Discord servers
 
-- [BruinGG](https://discord.gg/bkxNBay "Discord")
-- [Gaucho Gaming](https://discord.gg/GauchoGaming "Discord")
-- [osu! UCI](https://discord.gg/qbZddFV "Discord")
-- [TAG at UCI](https://discord.gg/qKqCZXQ "Discord")
+- [BruinGG](https://discord.gg/bkxNBay)
+- [Gaucho Gaming](https://discord.gg/GauchoGaming)
+- [osu! UCI](https://discord.gg/qbZddFV)
+- [TAG at UCI](https://discord.gg/qKqCZXQ)
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

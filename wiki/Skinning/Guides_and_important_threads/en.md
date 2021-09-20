@@ -8,9 +8,9 @@ List of guides and important threads, created by the community.
 - [Cropping with Simple Backgrounds](/wiki/Guides/Cropping_with_Simple_Backgrounds)
 - [Making Properly Centered Spinners](/wiki/Guides/Making_Properly_Centered_Spinners)
 - [How to adjust the skin.ini file](https://osu.ppy.sh/community/forums/topics/575880) by [Lyawi](https://osu.ppy.sh/users/5851253)
-- [New Skinning Tutorial](https://tutorial.skinship.xyz/tutorial/introduction "skinship") by [RockRoller](https://osu.ppy.sh/users/8388854)
-- [skinship Skinning Guides](https://tutorial.skinship.xyz/guides "skinship") by [RockRoller](https://osu.ppy.sh/users/8388854)
-- [Song Selection Template](https://tutorial.skinship.xyz/resources/song_selection "skinship") by [RockRoller](https://osu.ppy.sh/users/8388854)
+- [New Skinning Tutorial](https://tutorial.skinship.xyz/tutorial/introduction) by [RockRoller](https://osu.ppy.sh/users/8388854)
+- [skinship Skinning Guides](https://tutorial.skinship.xyz/guides) by [RockRoller](https://osu.ppy.sh/users/8388854)
+- [Song Selection Template](https://tutorial.skinship.xyz/resources/song_selection) by [RockRoller](https://osu.ppy.sh/users/8388854)
 - [Template Skin](https://osu.ppy.sh/community/forums/topics/923143) by [Galvit](https://osu.ppy.sh/users/7629682)
 
 ## Important threads
@@ -25,7 +25,7 @@ List of guides and important threads, created by the community.
 
 ## Collections
 
-- [Circle People's pro players skin collection](https://circle-people.com/skins/ "Circle People")
+- [Circle People's pro players skin collection](https://circle-people.com/skins/)
 - [Completed skins compendium](https://osu.ppy.sh/community/forums/topics/686664) by [RockRoller](https://osu.ppy.sh/users/8388854)
 - [Skinnable files list](https://osu.ppy.sh/community/forums/topics/186787) by [Haskorion](https://osu.ppy.sh/users/3252321)
 - [(pro) Players skin compendium](https://osu.ppy.sh/community/forums/topics/87675) by [fartownik](https://osu.ppy.sh/users/56917)

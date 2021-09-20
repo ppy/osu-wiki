@@ -56,11 +56,11 @@ Intermediate Global Taiko Showdown 2019 fue realizado por varios miembros de la 
 ## Enlaces
 
 - [Foro de discusión](https://osu.ppy.sh/community/forums/topics/906298)
-- [IGTS Servidor de Discord](https://discord.gg/a6PzzFz "Discord")
-- [Livestream](https://www.twitch.tv/igtsosu "Twitch")
-- [Challonge brackets](https://challonge.com/dqq46siu "Challonge")
-- [Página de Pick'em](https://pickem.hwc.hr/tournaments/8 "hwchr's pick'em")
-- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing "Google Sheets")**
+- [IGTS Servidor de Discord](https://discord.gg/a6PzzFz)
+- [Livestream](https://www.twitch.tv/igtsosu)
+- [Challonge brackets](https://challonge.com/dqq46siu)
+- [Página de Pick'em](https://pickem.hwc.hr/tournaments/8)
+- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ## Participantes
 
@@ -126,7 +126,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### All-Stars Battle Royale
 
-**[Descarga el paquete de mapas aquí! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg "MEGA")**
+**[Descarga el paquete de mapas aquí! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
 
 - NoMod
   - [Silent Siren - Merry-Go-Round (hoku-4625) \[Shallty-Go-Round\]](https://osu.ppy.sh/beatmapsets/751585#taiko/1612301)
@@ -149,7 +149,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### All-Stars
 
-**[Descarga el paquete de mapas aquí! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo "MEGA")**
+**[Descarga el paquete de mapas aquí! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
 
 - NoMod
   - [Yuyoyuppe - AiAe (asuasu\_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/447734#taiko/961162)
@@ -180,7 +180,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Gran Finales
 
-**[Descarga el paquete de mapas aquí! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar "puush")**
+**[Descarga el paquete de mapas aquí! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
 
 - NoMod
   - [xi - Blue Zenith (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035965)
@@ -207,7 +207,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Finales
 
-**[Descarga el paquete de mapas aquí! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar "puush")**
+**[Descarga el paquete de mapas aquí! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
 
 - NoMod
   - [Reol - Gigantic O.T.N (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/434182#taiko/937232)
@@ -234,7 +234,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Semifinales
 
-**[Descarga el paquete de mapas aquí! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E "MEGA")**
+**[Descarga el paquete de mapas aquí! (93 MB)](https://mega.nz/#!WwlilCBT!o9-f_FKiAmjCTBs3UEs-JW6Hl8F0ni-ZFH47SROQ42E)**
 
 - NoMod
   - [Buta-Otome - Towa no Maigo (404 AccNotFound) \[Oni\]](https://osu.ppy.sh/beatmapsets/622175#taiko/1317865)
@@ -261,7 +261,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Cuartos de Final
 
-**[Descarga el paquete de mapas aquí! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw "MEGA")**
+**[Descarga el paquete de mapas aquí! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
 
 - NoMod
   - [Dreamcatcher - Chase Me (-omicron) \[Jaye's Lite Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987174#taiko/2065074)
@@ -287,7 +287,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Octavos de Final
 
-**[Descarga el paquete de mapas aquí! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY "MEGA")**
+**[Descarga el paquete de mapas aquí! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY)**
 
 - NoMod
   - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/596741)
@@ -313,7 +313,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Fase de Grupos
 
-**[Descarga el paquete de mapas aquí! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I "MEGA")**
+**[Descarga el paquete de mapas aquí! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
 
 - NoMod
   - [An - TearVid (Kokatsu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/79647#taiko/222678)
@@ -397,7 +397,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 | México ![][flag_MX] | 1 | **6** | ![][flag_SG] **Singapur** | [#1](https://osu.ppy.sh/community/matches/52641017) |
 | Argentina ![][flag_AR] | 3 | **6** | ![][flag_FR] **Francia A** | [#1](https://osu.ppy.sh/community/matches/52644303) |
 | Polonia A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/52647239) |
-| **Estados Unidos A** ![][flag_US] | **6** | 0 | ![][flag_EC] Ecuador | [#1](https://www.twitch.tv/videos/439630298 "Twitch") |
+| **Estados Unidos A** ![][flag_US] | **6** | 0 | ![][flag_EC] Ecuador | [#1](https://www.twitch.tv/videos/439630298) |
 
 | Domingo, 2019-06-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |

@@ -51,11 +51,11 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 ## Links
 
-- [osu! World Cup 2014 auf Twitch](https://www.twitch.tv/osulive "Twitch")
-- [Registrierungformular](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms")
+- [osu! World Cup 2014 auf Twitch](https://www.twitch.tv/osulive)
+- [Registrierungformular](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/3410198)
 - [Mappool Diskussionsthread](https://osu.ppy.sh/community/forums/topics/255369/)
-- **[Statistik zur Gruppenphase](https://owc.nicarim.pw/results/view/3 "Nicarim")**
+- **[Statistik zur Gruppenphase](https://owc.nicarim.pw/results/view/3)**
 
 ![OWC 2014 brackets](img/bracket.jpg)
 
@@ -121,7 +121,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 ### Finale
 
-**[Download das Mappack hier!](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar "MediaFire")**
+**[Download das Mappack hier!](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
 - NoMod
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmapsets/59049#osu/214248)
@@ -151,7 +151,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 ### Halbfinale
 
-**[Download das Mappack hier!](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar "MediaFire")**
+**[Download das Mappack hier!](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
@@ -181,7 +181,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 ### Viertelfinale
 
-**[Download das Mappack hier!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar "MediaFire")**
+**[Download das Mappack hier!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
@@ -211,7 +211,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 ### Achtelfinale
 
-**[Download das Mappack hier!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar "MediaFire")**
+**[Download das Mappack hier!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
 - NoMod
   - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
@@ -241,7 +241,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 ### Gruppenphase
 
-**[Download das Mappack hier!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar "MediaFire")**
+**[Download das Mappack hier!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
 - NoMod
   - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
@@ -440,7 +440,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
    2. Es muss ein Kapitän angegeben werden, der das Team representieren wird.
       1. Wir unterscheiden nicht zwischen Kern- und Reservespieler.
 2. Jedes Team representiert eine Nation. Sie müssen ein Team zusammenstellen mit Spieler aus demselben Land und daher dieselbe Flagge im Profil haben.
-3. Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms"). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
+3. Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
    - Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
    - Sie bekommen eine Bestätigungsantwort, welches Ihnen mitteilen soll, dass Ihre Anmeldung erfolgreich angekommen ist. Die Registrierung ist dann in Bearbeitung.
 4. Um gültige und ernsthafte Registrierungen zu gewährleisten, wird jede Registrierung und Änderung vom Turnier Management geprüft.
@@ -466,9 +466,9 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 4. Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
 
-5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt. Eine ausführliche Erklärung finden Sie [hier](https://de.wikipedia.org/wiki/Double_knock-out "Wikipedia").
+5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt. Eine ausführliche Erklärung finden Sie [hier](https://de.wikipedia.org/wiki/Double_knock-out).
 
-6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png "puush") teilen sich die Etappen wie folgt auf:
+6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
    | Stage | Match ID |
    | :-- | :-- |

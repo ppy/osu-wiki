@@ -50,8 +50,8 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/553131)
-- [RDOC Discord server](https://discord.gg/4XRqWJB "Discord")
-- [Challonge brackets](https://challonge.com/rdoc2017 "Challonge")
+- [RDOC Discord server](https://discord.gg/4XRqWJB)
+- [Challonge brackets](https://challonge.com/rdoc2017)
 
 ## Participants
 

@@ -45,9 +45,9 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 ## Liens
 
 - [Topic de discussion](https://osu.ppy.sh/community/forums/topics/615787)
-- [Diffusion en direct](https://www.twitch.tv/osulive "Twitch")
+- [Diffusion en direct](https://www.twitch.tv/osulive)
 - [Supportez votre équipe avec une bannière de profil !](https://osu.ppy.sh/store/products/226)
-- **[Statistiques générales, groupes et plus!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml "Google Sheets")**
+- **[Statistiques générales, groupes et plus!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
 ## Calendrier des matchs : demi-finales
 
@@ -126,7 +126,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Phases de poules
 
-**[Téléchargez le pack de maps ici ! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar "MediaFire")**
+**[Téléchargez le pack de maps ici ! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar)**
 
 - Freemod
   - [Lifetheory - Daisy (Tidek) \[Life (Insane)\]](https://osu.ppy.sh/beatmapsets/323163#mania/718401)
@@ -146,7 +146,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Huitièmes de finale
 
-**[Téléchargez le pack de maps ici ! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar "MediaFire")**
+**[Téléchargez le pack de maps ici ! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar)**
 
 - FreeMod
   - [hyi - you can recover (Valedict) \[restoration\]](https://osu.ppy.sh/beatmapsets/566156#mania/1199287)
@@ -167,7 +167,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Quarts de finale
 
-**[Téléchargez le pack de maps ici ! (88 MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar "MediaFire")**
+**[Téléchargez le pack de maps ici ! (88 MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar)**
 
 - FreeMod
   - [BABYMETAL - Road of Resistance (hi19hi19) \[Uprising\]](https://osu.ppy.sh/beatmapsets/649356#mania/1375744)
@@ -188,7 +188,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Demi-finales
 
-**[Téléchargez le pack de maps ici ! (90 MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar "MediaFire")**
+**[Téléchargez le pack de maps ici ! (90 MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar)**
 
 - FreeMod
   - [9mm Parabellum Bullet - Punishment (Valedict) \[Retribution\]](https://osu.ppy.sh/beatmapsets/532682#mania/1128678)
@@ -367,7 +367,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 5. L'étape qui suit est une phase à double élimination. Cela veut dire que le gagnant passe à la prochaine étape et que l'équipe perdante passe au tableau des perdants.
 
-6. En se basant sur [cette image](https://puu.sh/bUq5V/f1066103b0.png "puush"), les phases sont divisées comme suivant :
+6. En se basant sur [cette image](https://puu.sh/bUq5V/f1066103b0.png), les phases sont divisées comme suivant :
 
    | Étape | ID du match |
    | --: | :-- |

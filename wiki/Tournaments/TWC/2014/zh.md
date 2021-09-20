@@ -43,7 +43,7 @@ outdated: true
 ## 相关鏈接
 
 - [讨论串](https://osu.ppy.sh/community/forums/topics/179127)
-- [直播 (Twitch)](https://www.twitch.tv/osulive "Twitch")
+- [直播 (Twitch)](https://www.twitch.tv/osulive)
 
 ## 規則
 
@@ -76,7 +76,7 @@ outdated: true
    1. The maximum team size is 6.
    2. You must specify a captain who will represent the team.
 2. Each team represents a nation. You must form a team with players from the same country.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform "Google Forms"). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “TWC Registration”
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “TWC Registration”
    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.

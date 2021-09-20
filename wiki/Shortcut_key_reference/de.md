@@ -22,8 +22,8 @@ Diese Kürzel können überall verwendet werden:
 - `F10`: Maustasten für's Spielen ein-/ausschalten
 - `F12`: Einen Screenshot machen
 - `Shift` + `F12`: Einen Screenshot machen, hochladen und zum Teilen per URL im Browser öffnen
-- `Einfg`: ([Boss-Key](https://de.wikipedia.org/wiki/Cheftaste "Boss-Key auf Wikipedia")) osu! in den Benachrichtigungsbereich minimieren
-- `Shift` + `F1`: [osu!status](https://twitter.com/osustatus "osu!status auf twitter") öffnen (nur bei Verbindungsproblemen)
+- `Einfg`: ([Boss-Key](https://de.wikipedia.org/wiki/Cheftaste)) osu! in den Benachrichtigungsbereich minimieren
+- `Shift` + `F1`: [osu!status](https://twitter.com/osustatus) öffnen (nur bei Verbindungsproblemen)
 
 ## Hauptmenü
 

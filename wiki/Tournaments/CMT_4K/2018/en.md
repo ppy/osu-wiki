@@ -50,13 +50,13 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/800125)
-- [QQ group](https://jq.qq.com/?_wv=1027&k=5IH0Tkr "Tencent QQ")
-- [Challonge](https://challonge.com/CMT2018 "Challonge")
+- [QQ group](https://jq.qq.com/?_wv=1027&k=5IH0Tkr)
+- [Challonge](https://challonge.com/CMT2018)
 - Livestream
-  - bilibili: [aiyulu](https://live.bilibili.com/10183 "Bilibili") (Primary), [Flow Light](https://live.bilibili.com/73668 "Bilibili") (Secondary), [kj415j45](https://live.bilibili.com/237250 "Bilibili") (Backup).   
-  - Twitch: [aiyulu](https://www.twitch.tv/aiyulu "Twitch").
-- [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform "Google Forms")
-- **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ")**
+  - bilibili: [aiyulu](https://live.bilibili.com/10183) (Primary), [Flow Light](https://live.bilibili.com/73668) (Secondary), [kj415j45](https://live.bilibili.com/237250) (Backup).   
+  - Twitch: [aiyulu](https://www.twitch.tv/aiyulu).
+- [Beatmap suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeGjHNxIOw1cOfj1NHn1KwbXBfa5mZnqRNQQnFT-v6z6uRJYg/viewform)
+- **[Statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)**
 
 ## Podium
 
@@ -66,7 +66,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 
 ### Finals
 
-**Download the mappack here! (105 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi "Google Drive")**
+**Download the mappack here! (105 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Qc4B46bUWDnLoWTG96IjWw) - [Google Drive](https://drive.google.com/file/d/1DrJ9MG5naQoBMvMcvwd84RUE105BwODi)**
 
 - FreeMod
   - [Sota Fujimori - Move That Body -Extended Mix- \[Dance\]](https://osu.ppy.sh/beatmapsets/765772#mania/1609983)
@@ -88,7 +88,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 
 ### Semifinals
 
-**Download the mappack here! (104 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK "Google Drive")**
+**Download the mappack here! (104 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1BqzBwJ4JmGHpnV6T9plW2w) - [Google Drive](https://drive.google.com/file/d/1rdhA-MDfErQtevTp9EPp-6q4ml9WIkgK)**
 
 - FreeMod
   - [PROTODOME - Greatest Hat \[chalLeNge\]](https://osu.ppy.sh/beatmapsets/840500#mania/1759313)
@@ -110,7 +110,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 
 ### Quarterfinals
 
-**Download the mappack here! (72 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Ddy1Is0VhxJx3FCCfG--3Q "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1cq1ytwNhXtA6nhbX7-9E_30iS88pVwPO "Google Drive")**
+**Download the mappack here! (72 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1Ddy1Is0VhxJx3FCCfG--3Q) - [Google Drive](https://drive.google.com/file/d/1cq1ytwNhXtA6nhbX7-9E_30iS88pVwPO)**
 
 - FreeMod
   - [M2U - Mare Maris \[For The Brave\]](https://osu.ppy.sh/beatmapsets/786297#mania/1650609)
@@ -130,7 +130,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 
 ### Round of 16
 
-**Download the mappack here! (81 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1trdHtV6nNIuifTwVPCQYgg "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1wJEAdCAwj72W7_fuKiAD3qxwpbsly_WI "Google Drive")**
+**Download the mappack here! (81 MB) - [Baidu Netdisk](https://pan.baidu.com/s/1trdHtV6nNIuifTwVPCQYgg) - [Google Drive](https://drive.google.com/file/d/1wJEAdCAwj72W7_fuKiAD3qxwpbsly_WI)**
 
 - FreeMod
   - [Swimy - Acchi Muite \[This Way! NSV\]](https://osu.ppy.sh/beatmapsets/744373#mania/1687703)
@@ -150,7 +150,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 
 ### Group stage
 
-**Download the mappack here! (55 MB) - [Baidu Netdisk](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ "Baidu Netdisk") - [Google Drive](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS "Google Drive")**
+**Download the mappack here! (55 MB) - [Baidu Netdisk](https://pan.baidu.com/s/11cy15gHcxRplbYHDRa2YfQ) - [Google Drive](https://drive.google.com/file/d/1hLicP57XpL7PS7SgJnlkCCynuKsVnHWS)**
 
 - FreeMod
   - [Between August and December - Sayonara Cruel World (Reworked) \[LN\]](https://osu.ppy.sh/beatmapsets/747111#mania/1574382)
@@ -252,7 +252,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 
 ### Qualification stage
 
-Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj "Tencent QQ")** for more details.
+Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for more details.
 
 ## Ruleset
 

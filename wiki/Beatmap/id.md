@@ -78,7 +78,7 @@ Beatmap yang ranked di bulan yang sama, atau mempunyai tema yang sama (mis. arti
 Terdapat sumber-sumber beatmap lainnya, yang **tidak diperiksa atau dioperasikan oleh tim inti osu!**. Namun, sumber-sumber tersebut tersedia di forum dan diterima oleh komunitas. Sumber-sumber tersebut meliputi:
 
 - mirror beatmap pihak ketiga yang dihosting di luar platform;
-- paket dan kompilasi beatmap yang dibuat oleh pengguna biasa yang dibagikan melalui [jaringan-jaringan peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia"), seperti BitTorrent.
+- paket dan kompilasi beatmap yang dibuat oleh pengguna biasa yang dibagikan melalui [jaringan-jaringan peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer), seperti BitTorrent.
 
 ## Beatmap dan komunitas
 

@@ -41,4 +41,4 @@ Debe contactar con este equipo para tratar temas relacionados con la cuenta que 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
 - [Solicitudes de datos](/wiki/Legal/Privacy#data-controller) y preocupaciones de privacidad.
-- **Permanente** [solicitudes de eliminación de cuentas](/wiki/Legal/Privacy#your-rights-and-control) para residentes de la UE ([GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation "Wikipedia") cobertura).
+- **Permanente** [solicitudes de eliminación de cuentas](/wiki/Legal/Privacy#your-rights-and-control) para residentes de la UE ([GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) cobertura).

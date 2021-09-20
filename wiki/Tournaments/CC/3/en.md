@@ -51,9 +51,9 @@ Corgi Cup III: April 2017 was run by various community members.
 
 ## Links
 
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1WgCjEliR1Jg0mFox6cS5TkJbOd6UZWsoV3euLkXDkpc/edit?usp=sharing "Google Sheets")
-- [Livestream](https://twitch.tv/Doomsday "Twitch")
-- [Discord](https://discord.gg/doomscord "Discord")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1WgCjEliR1Jg0mFox6cS5TkJbOd6UZWsoV3euLkXDkpc/edit?usp=sharing)
+- [Livestream](https://twitch.tv/Doomsday)
+- [Discord](https://discord.gg/doomscord)
 
 ## Participants
 
@@ -83,7 +83,7 @@ This competition has come to an end and resulted in the following podium:
   - [kanone - The Sea of Memory (rrtyui) [sentiments]](https://osu.ppy.sh/beatmapsets/395278#osu/860311)
   - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness (Sing) [Empyrean]](https://osu.ppy.sh/beatmapsets/558927#osu/1182191)
   - [USAO - Chrono Diver -PENDULUMs- (USAO remix) (Skystar) [Tempus]](https://osu.ppy.sh/beatmapsets/414448#osu/925161)
-  - [Ruby Tuesday - Here in the Moment (Deramok) [..!]](https://puu.sh/HRcrf/899f92f960.osz "puush")
+  - [Ruby Tuesday - Here in the Moment (Deramok) [..!]](https://puu.sh/HRcrf/899f92f960.osz)
   - [LeaF - Paraclete (Kroytz) [Extra]](https://osu.ppy.sh/beatmapsets/455109#osu/977875)
 - Hidden
   - [YUC'e - Sengoku HOP (c/f Athenarium) (Nathan) [YOISHO]](https://osu.ppy.sh/beatmapsets/564329#osu/1193089)
@@ -99,7 +99,7 @@ This competition has come to an end and resulted in the following podium:
   - [fripSide - only my railgun -Euro Beat Charger Mix- (yongtw123) [Insane]](https://osu.ppy.sh/beatmapsets/47105#osu/146299)
 - FreeMod
   - [MaxNRG - Hide Away My Heart (Strategas) [Extra]](https://osu.ppy.sh/beatmapsets/502928#osu/1070249)
-  - [MuryokuP - Still (apaffy) [woof's Extra]](https://puu.sh/HRcrk/450ac70a54.osz "puush")
+  - [MuryokuP - Still (apaffy) [woof's Extra]](https://puu.sh/HRcrk/450ac70a54.osz)
   - [Last Note. - Setsuna Trip (val0108) [0108 style]](https://osu.ppy.sh/beatmapsets/58604#osu/176069)
 - Tiebreaker
   - **[Camellia Vs Akira Complex - Reality Distortion (rrtyui) [Transference]](https://osu.ppy.sh/beatmapsets/582089#osu/1480798)**

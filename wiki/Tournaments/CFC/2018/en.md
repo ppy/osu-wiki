@@ -46,8 +46,8 @@ The Catch French Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/714536)
-- [Livestream](https://www.twitch.tv/osufrlive "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1AwvOj_yBpcrB5sLEtRpEE7Wq7ZTVSZRncKzPjs7T-xQ/edit?usp=sharing "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osufrlive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1AwvOj_yBpcrB5sLEtRpEE7Wq7ZTVSZRncKzPjs7T-xQ/edit?usp=sharing)**
 
 ## Participants
 
@@ -72,7 +72,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (240 MB)](https://mega.nz/#!httTTSLS!9q1J0C92c0NdsQnqubSjAubFw9yBbTok4gB2rskY8jo "MEGA")**
+**[Download the mappack here! (240 MB)](https://mega.nz/#!httTTSLS!9q1J0C92c0NdsQnqubSjAubFw9yBbTok4gB2rskY8jo)**
 
 - NoMod
   - [Getty vs. DJ DiA - Ops:Code-Rapture- (Minato Yukina) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/562060#fruits/1188198)
@@ -106,7 +106,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (116 MB)](https://mega.nz/#!R9VxiBoS!prokzQthV3M32505pt7dHmeLMejvV2U2dUhGegnhfHM "MEGA")**
+**[Download the mappack here! (116 MB)](https://mega.nz/#!R9VxiBoS!prokzQthV3M32505pt7dHmeLMejvV2U2dUhGegnhfHM)**
 
 - NoMod
   - [BlackYooh vs. siromaru - BLACK or WHITE? (Minato Yukina) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/508846#fruits/1082169)
@@ -140,7 +140,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (173 MB)](https://mega.nz/#!9xdRjYJZ!J6LCXOrTt_ma7Y15NgDmk1aPNq0tDieVedg9syIz4gU "MEGA")**
+**[Download the mappack here! (173 MB)](https://mega.nz/#!9xdRjYJZ!J6LCXOrTt_ma7Y15NgDmk1aPNq0tDieVedg9syIz4gU)**
 
 - NoMod
   - [D.watt(OTAKU-ELITE Recordings) - Opium and Purple haze (Minato Yukina) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/596519#fruits/1261322)
@@ -174,7 +174,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (110 MB)](https://mega.nz/#!0gdwkDLQ!UVRknCV5eRScWDLbHzGESuryQmeAHDOP1W7mnABIZ68 "MEGA")**
+**[Download the mappack here! (110 MB)](https://mega.nz/#!0gdwkDLQ!UVRknCV5eRScWDLbHzGESuryQmeAHDOP1W7mnABIZ68)**
 
 - NoMod
   - [PUSHER - Feel U (Vincs) \[Overdose\]](https://osu.ppy.sh/beatmapsets/740666#fruits/1562529)
@@ -202,7 +202,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (81 MB)](https://mega.nz/#!k00gQAQA!AN6ivOW-s0QZZIqVwmj1VMZ1lw-Th3V9W0hlhDrX_vM "MEGA")**
+**[Download the mappack here! (81 MB)](https://mega.nz/#!k00gQAQA!AN6ivOW-s0QZZIqVwmj1VMZ1lw-Th3V9W0hlhDrX_vM)**
 
 - NoMod
   - [ClariS - Hitorigoto -TV MIX- (Spectator) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/624544#fruits/1316296)

@@ -39,14 +39,14 @@ IRC 클라이언트의 설정 창에서 다음 값들을 채우세요 (서버를
 
 | IRC 클라이언트 | 설명 |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/ "GitHub") | `설정 (Settings)` -> `기본 설정 (Preferences)` -> `대화 (Chatting)` -> `일반 (General)`에서  "입장/퇴장 메시지 숨김" 체크하기  (Advanced pre-2.9.6) |
-| [ircII](http://www.eterna.com.au/ircii/ "ircII") | `IGNORE * CRAP` 입력 |
-| [Irssi](https://irssi.org "Irssi") | `/ignore * JOINS PARTS QUITS` 입력 |
-| [Weechat](https://weechat.org/ "Weechat") | `/filter add joinquit * irc_join,irc_part,irc_quit *` 입력 |
-| [KVIrc](https://www.kvirc.net/ "KVIrc") | ( [KVIrc 위키 페이지](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub")를 참고하기) |
-| [mIRC](https://www.mirc.com/ "mIRC") | mIRC 설정에서 (`Tools` -> `Options`, 또는 `Alt` + `O`), `IRC`를 선택하고, `Events...`버튼을 클릭해 입장과 퇴장 `Hide`하기 |
-| [Quassel IRC](https://quassel-irc.org/ "Quassel IRC") | 채팅에서 우클릭 후 "Hide Events" 메뉴에서 Joins/Parts/Quits 선택하기 |
-| [XChat](http://xchat.org/ "XChat") | `/set irc_conf_mode 1` 입력 |
+| [HexChat](https://hexchat.github.io/) | `설정 (Settings)` -> `기본 설정 (Preferences)` -> `대화 (Chatting)` -> `일반 (General)`에서  "입장/퇴장 메시지 숨김" 체크하기  (Advanced pre-2.9.6) |
+| [ircII](http://www.eterna.com.au/ircii/) | `IGNORE * CRAP` 입력 |
+| [Irssi](https://irssi.org) | `/ignore * JOINS PARTS QUITS` 입력 |
+| [Weechat](https://weechat.org/) | `/filter add joinquit * irc_join,irc_part,irc_quit *` 입력 |
+| [KVIrc](https://www.kvirc.net/) | ( [KVIrc 위키 페이지](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)를 참고하기) |
+| [mIRC](https://www.mirc.com/) | mIRC 설정에서 (`Tools` -> `Options`, 또는 `Alt` + `O`), `IRC`를 선택하고, `Events...`버튼을 클릭해 입장과 퇴장 `Hide`하기 |
+| [Quassel IRC](https://quassel-irc.org/) | 채팅에서 우클릭 후 "Hide Events" 메뉴에서 Joins/Parts/Quits 선택하기 |
+| [XChat](http://xchat.org/) | `/set irc_conf_mode 1` 입력 |
 
 ## 자주 묻는 질문
 
@@ -82,4 +82,4 @@ osu! 게임 클라이언트 또는 웹사이트를 통해 접속한 유저는 �
 
 ### 누가 메시지를 보냈는데, 채팅중인 유저 목록에 나오질 않아요!
 
-[웹 버전 채팅](https://osu.ppy.sh/community/chat) 또는 [osu!lazer](https://github.com/ppy/osu "GitHub")를 통해 접속한 유저입니다.
+[웹 버전 채팅](https://osu.ppy.sh/community/chat) 또는 [osu!lazer](https://github.com/ppy/osu)를 통해 접속한 유저입니다.

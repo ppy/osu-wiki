@@ -4,7 +4,7 @@ no_native_review: true
 
 # IRC
 
-*若要深入了解，請見：[Internet Relay Chat (維基百科)](https://zh.wikipedia.org/wiki/Internet_Relay_Chat "維基百科")*
+*若要深入了解，請見：[Internet Relay Chat (維基百科)](https://zh.wikipedia.org/wiki/Internet_Relay_Chat)*
 
 **IRC**（**Internet Relay Chat**）是一種應用層的協定。其主要用於群體聊天，
 
@@ -43,14 +43,14 @@ no_native_review: true
 
 | IRC 客戶端 | 說明 |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/ "GitHub") | 在 `Settings` -> `Preferences` -> `Chatting` -> `General` 勾選 "Hide join and part messages" (Advanced pre-2.9.6) |
-| [ircII](http://www.eterna.com.au/ircii/ "ircII") | 輸入 `IGNORE * CRAP` |
-| [Irssi](https://irssi.org "Irssi") | 輸入 `/ignore * JOINS PARTS QUITS` |
-| [Weechat](https://weechat.org/ "Weechat") | 輸入 `/filter add joinquit * irc_join,irc_part,irc_quit *` |
-| [KVIrc](https://www.kvirc.net/ "KVIrc") | 請參考 [KVIrc 的維基頁面](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub") |
-| [mIRC](https://www.mirc.com/ "mIRC") | 前往 mIRC 的設定 (`Tools` -> `Options`、或 `Alt` + `O`)，選擇 `IRC`，點擊 `Events...` 按鈕，並隱藏 join and parts |
-| [Quassel IRC](https://quassel-irc.org/ "Quassel IRC") | 對聊天室點擊右鍵，並在 "Hide Events" 選單中選擇 Joins/Parts/Quits |
-| [XChat](http://xchat.org/ "XChat") | 輸入 `/set irc_conf_mode 1` |
+| [HexChat](https://hexchat.github.io/) | 在 `Settings` -> `Preferences` -> `Chatting` -> `General` 勾選 "Hide join and part messages" (Advanced pre-2.9.6) |
+| [ircII](http://www.eterna.com.au/ircii/) | 輸入 `IGNORE * CRAP` |
+| [Irssi](https://irssi.org) | 輸入 `/ignore * JOINS PARTS QUITS` |
+| [Weechat](https://weechat.org/) | 輸入 `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [KVIrc](https://www.kvirc.net/) | 請參考 [KVIrc 的維基頁面](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages) |
+| [mIRC](https://www.mirc.com/) | 前往 mIRC 的設定 (`Tools` -> `Options`、或 `Alt` + `O`)，選擇 `IRC`，點擊 `Events...` 按鈕，並隱藏 join and parts |
+| [Quassel IRC](https://quassel-irc.org/) | 對聊天室點擊右鍵，並在 "Hide Events" 選單中選擇 Joins/Parts/Quits |
+| [XChat](http://xchat.org/) | 輸入 `/set irc_conf_mode 1` |
 
 ## FAQ
 
@@ -86,4 +86,4 @@ IRC 標準中有頻道模式的概念，也就是每位使用者能做的行為�
 
 ### 有人不在頻道用戶列表，但還是可以傳送訊息！
 
-他們是透過[網頁](https://osu.ppy.sh/community/chat)或是 [osu!lazer](https://github.com/ppy/osu "GitHub") 連接的。
+他們是透過[網頁](https://osu.ppy.sh/community/chat)或是 [osu!lazer](https://github.com/ppy/osu) 連接的。

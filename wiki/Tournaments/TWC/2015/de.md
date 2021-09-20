@@ -45,7 +45,7 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 ## Links
 
 - [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/279723)
-- [osu! Taiko World Cup 2015 auf Twitch](https://www.twitch.tv/osulive "Twitch")
+- [osu! Taiko World Cup 2015 auf Twitch](https://www.twitch.tv/osulive)
 
 ## Regelsätze
 
@@ -102,7 +102,7 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 4. Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
    1. Dies hängt jedoch an der Gesamtanzahl an Teams ab und kann daher variieren.
 5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
-6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png "puush") teilen sich die Etappen wie folgt auf:
+6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
    | Etappe | Match ID |
    | :-- | :-- |
    | Achtelfinale | A, B, C, D, E, F, G, H |

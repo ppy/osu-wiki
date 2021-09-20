@@ -31,8 +31,8 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `F10` | Liga e desliga os botões o mouse (exceto pela roda do mouse, que ela sempre fica ativa). |
 | `F12` | Tira uma captura de tela. Clique na caixa de diálogo para abrir a pasta de capturas de tela. |
 | `Shift` + `F12` | Tira uma captura de tela e upa para o servidor para compartilhamento. A captura de tela também irá ser salva localmente na sua pasta. Isso também irá abrir a screenshot no seu navegador da web. |
-| `Insert` | Essa é a [boss key](https://en.wikipedia.org/wiki/Boss_key "Boss key on Wikipedia"). Ela irá minimizar e esconder seu jogo na barra de tarefas/notificações. Isso também irar tirar o som do jogo completamente até que você o abra novamente. |
-| `Shift` + `F1` | Abre o [osu!status](https://twitter.com/osustatus "osu!status on Twitter") em seu navegador da web. (Apenas quando um erro de conexão aparecer.) |
+| `Insert` | Essa é a [boss key](https://en.wikipedia.org/wiki/Boss_key). Ela irá minimizar e esconder seu jogo na barra de tarefas/notificações. Isso também irar tirar o som do jogo completamente até que você o abra novamente. |
+| `Shift` + `F1` | Abre o [osu!status](https://twitter.com/osustatus) em seu navegador da web. (Apenas quando um erro de conexão aparecer.) |
 | `Ctrl` + `O` | Abre a barra de canto de opções. Não há como entrar no offset wizard se você não estiver no menu principal. |
 
 ## Menu principal
