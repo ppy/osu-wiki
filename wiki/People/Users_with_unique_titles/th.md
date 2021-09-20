@@ -336,7 +336,7 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506) | osu!catch Champion |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Elite Mapper |
-| ![][flag_CA] [Redside](https://osu.ppy.sh/users/16039046) | Featured Artist
+| ![][flag_CA] [Redside](https://osu.ppy.sh/users/16039046) | Featured Artist |
 | ![][flag_KR] [Rells](https://osu.ppy.sh/users/7937519) | osu!catch Champion |
 | ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883) | Elite Mapper |
 | ![][flag_PH] [rtnario](https://osu.ppy.sh/users/16222702) | Featured Artist |
