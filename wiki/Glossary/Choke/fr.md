@@ -11,4 +11,4 @@ Le terme est également utilisé par de nombreuses autres communautés en ligne 
 
 ## Causes des chokes
 
-La caractéristique principale d'un choke est son caractère aléatoire et ses performances incohérentes. Cela exclut les miss réguliers ou spécifiques à un pattern ou les [slider breaks](/wiki/Gameplay/Sliderbreak), qui sont généralement liés au niveau de compétence du joueur ou à la façon dont la beatmap est construite. Les chokes sont généralement causés par un stress mental excessif et une nervosité pendant la partie, ainsi que par une fatigue générale.
+La caractéristique principale d'un choke est son caractère aléatoire et ses performances incohérentes. Cela exclut les miss réguliers ou spécifiques à un pattern ou les [slider breaks](/wiki/Gameplay/Slider_break), qui sont généralement liés au niveau de compétence du joueur ou à la façon dont la beatmap est construite. Les chokes sont généralement causés par un stress mental excessif et une nervosité pendant la partie, ainsi que par une fatigue générale.
