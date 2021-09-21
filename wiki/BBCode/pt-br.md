@@ -1,14 +1,78 @@
----
-outdated: true
----
-
 # BBCode
+
+**BBCode** é uma [linguagem de marcação](https://pt.wikipedia.org/wiki/Linguagem_de_marca%C3%A7%C3%A3o) que é usada nos fóruns do osu! e, em um contexto maior, na grande maioria de fóruns da internet. Seu intuito é de habilitar a formatação do texto em RTF (Rich Text Formatting). Ele é composto por tags que rodeiam excertos do texto para enriquecê-lo com propriedades e atributos. Também é utilizando em vários locais no site do osu! como em fóruns, assinaturas, páginas de usuários e descrição de beatmaps.
 
 ![A caixa de edição nos fóruns](img/editor.jpg "A caixa de edição nos fóruns")
 
-**BBCode** é uma sintaxe de marcação que é usada nos fóruns do osu! e, em um contexto maior, na grande maioria de fóruns da internet. Seu intuito é de habilitar a formatação do texto em RTF (Rich Text Formatting). Ele é composto por tags que rodeiam excertos do texto para enriquecê-lo com propriedades e atributos.
+## Comportamento
 
-No osu!web, BBCode é utilizado nas postagens dos fóruns, assinaturas e páginas de usuários.
+Clicando em um botão de marcação sem realçar nenhum texto irá criar um conjunto de tags abertas e fechadas diretamente no cursor de texto no editor. Realçando o texto antes de clicar no botão de marcação irá cercar o texto realçado com as tags.
+
+Usuários, que desejarem combinar formatações em uma única seção de texto, podem fazê-lo ao colocar as tags de BBCode dentro umas das outras. Porém, a ordem de aninhamento dessas tags **precisa ser respeitada** ao combiná-las. Caso não, a formatação será quebrada.
+
+Um exemplo de uso correto e incorreto das tags aninhadas está descrito abaixo:
+
+• `[centre][b]texto[/b][/centre]` está correto
+
+• `[b][centre]texto[/b][/centre]` está incorreto
+
+## Tags
+
+O BBCode, como qualquer outra linguagem de marcação, formata o texto utilizando um sistema de tags, que são indicadas por um par de colchetes (`[]`). Essas tags são divididas em tags 'de abertura' e 'de fechamento', que são diferenciadas através da inclusão de uma barra (`/`). Especificamente, as tags de fechamento devem conter a barra, enquanto as tags de abertura não devem conter.
+
+Também é importante notar que as tags de abertura ocasionalmente incluem sinais de igualdade (`=`) para indicar URLs, tamanhos de fonte e outros elementos.
+
+As tags de BBCode, que são suportadas pelo site do osu!, estão listadas e descritas em detalhe abaixo.
+
+### Negrito
+
+```
+[b]texto[/b]
+```
+A tag `[b]` é usada para enfatizar um texto através do negrito. O negrito do BBCode não afeta o tamanho da fonte. 
+
+Botão na barra de formatação: ![Negrito](img/bold.png "Negrito")
+
+### Itálico
+
+```
+[i]texto[/i]
+```
+A tag `[i]` é usada para enfatizar levemente um texto deixando-o inclinado para o lado direito.
+
+Botão na barra de formatação: ![Itálico](img/italic.png "Itálico")
+
+### Sublinhado
+
+```
+[u]texto[/u]
+```
+A tag `[u]` é usada para enfatizar um texto ao sublinhá-lo. A linha desenhada diretamente abaixo do texto será afetada por outras tags como negrito e itálico.
+
+### Tachado
+
+```
+[strike]texto[/strike]
+```
+*Nota: Texto "tachado" também pode ser conhecido por "riscado".*
+
+A tag `[strike]` é usada para indicar a remoção de um texto previamente incluso através do uso de uma linha que "risca" diretamente o texto.
+
+Botão na barra de formatação: ![Tachado](img/strike.png "Tachado")
+
+### Cores
+
+```
+[color=HEXCODE]texto[/color]
+```
+
+*Para uma lista com todas as cores, veja [Nomes de cores no X11](https://pt.wikipedia.org/wiki/Nomes_de_cores_no_X11#Tabelas_de_nome_de_cores)*
+
+A tag `[color]` é usada para estilizar um texto através de colorações de letras. A tag usa o formato de [código HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) para especificar a cor, embora também possam ser especificadas através de nomes de cor em HTML como "red" ou "green". Para utilizar, substitua o argumento `HEXCODE` com a cor correspondente em código HEX ou por seu nome em HTML.
+
+O argumento mencionado anteriormente não aceita aspas (`"`) e não possui uma cor padrão. Se o argumento não for especificado ou se aspas forem utilizadas, a tag não será processada como uma tag de BBCode.
+
+================== NOT MINE BELOW ==================
 
 ## Avisos
 
