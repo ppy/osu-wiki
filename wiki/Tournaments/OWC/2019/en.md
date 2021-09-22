@@ -51,7 +51,7 @@ The osu! World Cup 2019 was run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/973724)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwchr.com/tournaments/19)
-- [Challonge bracket](https://challonge.com/OWC2019)
+- [Challonge bracket](https://challonge.com/OWC_2019)
 - [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vREamImW3yN-q3rio2XIFX497uoIoPprEuSqykuPPP9D9WcMfMJQj0bXcBl1ZGxIcm_tPIuoZPk_GFk/pubhtml)
 
 ## Participants
