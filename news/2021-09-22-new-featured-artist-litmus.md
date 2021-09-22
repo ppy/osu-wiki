@@ -27,7 +27,7 @@ We've chiseled out **21** songs from **litmus\***'s back-catalogue for your mapp
 Check out [this new osu!catch map](https://osu.ppy.sh/beatmapsets/1524173) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134) or [this new osu! map](https://osu.ppy.sh/beatmapsets/1551054) hosted by [elicz1](https://osu.ppy.sh/users/8039342) and seen in the video above!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/201/Good%20Life/Ester%20-%20Krave.mp3" type="audio/mpeg">
 </audio>
 
 ### litmus* as Ester - Dizzolve
@@ -35,7 +35,7 @@ Check out [this new osu!catch map](https://osu.ppy.sh/beatmapsets/1524173) hoste
 Experience the first ranked **litmus\*** map through [this osu!taiko set](https://osu.ppy.sh/beatmapsets/817528) hosted by [-Dusk](https://osu.ppy.sh/users/6092181)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/201/Good%20Life/Ester%20-%20Dizzolve.mp3" type="audio/mpeg">
 </audio>
 
 ### litmus* - Rush-More
@@ -43,7 +43,7 @@ Experience the first ranked **litmus\*** map through [this osu!taiko set](https:
 Contrast this song with any of the **Ester** ones while playing [this osu!mania map](https://osu.ppy.sh/beatmapsets/1505336) by [FAMoss](https://osu.ppy.sh/users/7707789)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/201/Good%20Life/litmus%20-%20Rush-More.mp3" type="audio/mpeg">
 </audio>
 
 ### litmus* - Tokamok
@@ -51,7 +51,7 @@ Contrast this song with any of the **Ester** ones while playing [this osu!mania 
 Try out [one more osu!mania map](https://osu.ppy.sh/beatmapsets/662402) hosted by [LeiN-](https://osu.ppy.sh/users/2162939)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/201/Songs/litmus%20-%20Tokamak.mp3" type="audio/mpeg">
 </audio>
 
 ---
