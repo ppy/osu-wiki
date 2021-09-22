@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Featured Artist: litmus\*"
+title: "New Featured Artist: litmus*"
 date: 2021-09-22 08:00:00 +0000
 ---
 
