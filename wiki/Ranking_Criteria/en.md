@@ -122,6 +122,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 ### Guidelines
 
 - **When a song is covered or remixed and has metadata varying from the original song, use common sense to determine whether the variation was a mistake or an intentional artist choice.**
+- **If multiple metadata options are available, priority should be given to the option which is most easily recognisable and traceable back to the original song or source.** Official romanisations and translations are preferred for romanised fields so long as they are easily found and commonly recognised.
 
 #### Technical
 
