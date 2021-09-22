@@ -3,6 +3,7 @@ tags:
   - charts
   - Ranking Charts
   - Seasonal Spotlights
+no_native_review: true
 ---
 
 # Musim ke-4 Beatmap Spotlights (Musim Semi 2021)
