@@ -44,7 +44,7 @@ Interested? Check out a sample of a few tracks below:
     <source src="https://assets.ppy.sh/artists/40/previews/944.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 All of the above plus more are now available over at [**RiraN**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/40), 100% free for use in mapping.
 

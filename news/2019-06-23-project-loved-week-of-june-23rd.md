@@ -16,12 +16,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -57,7 +57,7 @@ There's been a small group of people helping keep TAG4 alive and relevant in thi
 
 [Masa - Onigumo to Kitsune no Shishi to](https://osu.ppy.sh/beatmapsets/299871#osu) by [Yales](https://osu.ppy.sh/users/2377881)  
 240 BPM, 4:11 | 6.75★  
-The [Kiwin] and [Ha-N] difficulties are *not* being nominated for Loved.  
+The \[Kiwin\] and \[Ha-N\] difficulties are *not* being nominated for Loved.  
 *description written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
 A spooky song from Masa-P and mapped by Yales makes a very amusing map to say the least! This map packs in at 6.75 stars and comes with a variety of jumps and patterns. Some parts, as well as the song are pretty similar to a previously Loved map *Kitsune no Yomeiri*. You could say this is an easier version of the other one keeping the same 240 BPM pace. The map maintains its difficulty throughout the map making the player play consistently. Don't let the ending kicksliders make you sliderbreak! It also has some well chosen hitsounds for the song. The jumps aren't too big but they're still jumps. Give them a go!
@@ -110,7 +110,7 @@ Artificial voice screaming has never been so pleasant! *Soitogeta Android e* by 
 
 *GALAXY BURST* a mapset that may not be too well known among most casual players but many experienced players will see this as a treat today. This mapset originally was submitted with two difficulties, "creation." and "cessation." however it later gained a third guest difficulty from AtHeoN as "atheon's terminus." With all three difficulties leveling around the 7 star range, it's extremely easy to underestimate just how hard this mapset is. We're talking spaced cutstreams, zig-zag patterns, and extreme slider velocity changes. Not exactly the most welcoming sight, but man is it a blast to play.
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -154,7 +154,7 @@ This week, we have a high-BPM map that even the best may stumble at. This map, w
 
 上位勢も唸る、高BPM譜面が今週のpickに登場です！BPM290のストリームを叩き続けるこの譜面は、プレイヤーに休憩も許すことなく、体力を削り続けていきます。。。そう、この譜面をプレイするあなたに必要なのは、"体力"と"連打のスピード"でしょう。プレイヤーたちには、マルチやクリア目標としてこの譜面が良く使われています。それもあり、この譜面はEkoroの太鼓譜面の代表作の一つと言えます。
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -176,7 +176,7 @@ As one of the top catch players, Jervis also gave mapping a try. The map *aoyama
 
 ExGon is known for his bizarre mapping, and this map is no exception. In fact, I would argue that this is one of the most bizarre maps out there. Let's start with the most obvious gimmick: CS10. While it should never be recommended to use such a high CS, in this case, it works really well. The song is very calm and the AR is set to 0, which makes aiming for the fruits doable while still having room for correction. But it is not just the CS—the HP drain is also set to 10 which makes misses very unforgiving. Especially at the end of the map when the song picks up the pace and fruits occur during spinners, a lot of players will fail. There are also stacked fruits throughout the map which also drain the HP significantly when missed. The map is a difficult reading and precision challenge, so it won't be FCd easily. Although the whole idea sounds ridiculous at first—it is a really fun map, so make sure to give it a try!
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
@@ -185,14 +185,14 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-06-23-project-loved-week-of-june-23rd/mania/1-shin-sennen-joou.jpg)](https://osu.ppy.sh/community/forums/topics/925098)
 
 [Shiraishi - Shin Sennen Joou](https://osu.ppy.sh/beatmapsets/276927#mania) by [Zyph](https://osu.ppy.sh/users/1600432)  
-160 BPM, 2:33 | [4K] 4.70★
+160 BPM, 2:33 | \[4K\] 4.70★
 
 A fairly popular chart made back in 2016, Zyph's *Shin Sennen Joou* is a jack-oriented challenge both for lower-level players and sharpshooters. The chart starts off with light 1/4 handstreams, to handstreams with hidden 1/4 minijacks, to handstreams with more frequent minijacks, to 1/3 (pitch relevant!) moderately dense chordjacking. Zyph's rendition of *Shin Sennen Joou* might be more straight-forward than other popular renditions of this song, but its linearity is what makes this such a compelling chart to play for many. Fancy an accuracy challenge or a rough jack-ridden endeavour? This chart is for you.
 
 [![](/wiki/shared/news/2019-06-23-project-loved-week-of-june-23rd/mania/2-you-can-recover.jpg)](https://osu.ppy.sh/community/forums/topics/925097)
 
 [hyi - you can recover](https://osu.ppy.sh/beatmapsets/566156#mania) by [Valedict](https://osu.ppy.sh/users/2537082)  
-198 BPM, 2:14 | [4K] 3.87★, [4K] 4.21★, [4K] 4.51★, [4K] 4.81★, [4K] 5.11★
+198 BPM, 2:14 | \[4K\] 3.87★, \[4K\] 4.21★, \[4K\] 4.51★, \[4K\] 4.81★, \[4K\] 5.11★
 
 *you can recover* is a jumpstream chart with varying levels of density. There are places where the jumpstream alternates between having a double every 1/2 and a double every 1/1, and there are other occasions in the jumpstream where 2/3rds of the jumpstream are doubles. There are also a few straightforward breaks in between jumpstreams with light LN use for certain sounds, which nicely complement the simplicity of the chart. The chart, from a playing perspective, is a pleasant linear accuracy challenge. There are also rates (from 1.1x to 1.4x) for players who want a less precision-focused challenge as well.
 
@@ -201,21 +201,21 @@ From a charting standpoint, the chart has what you would expect from stringent c
 [![](/wiki/shared/news/2019-06-23-project-loved-week-of-june-23rd/mania/3-scars-of-fauna.jpg)](https://osu.ppy.sh/community/forums/topics/925096)
 
 [Nekomata Master - Scars of Fauna](https://osu.ppy.sh/beatmapsets/846374#mania) by [Raveille](https://osu.ppy.sh/users/1388767)  
-165 BPM, 1:58 | [4K] 4.61★
+165 BPM, 1:58 | \[4K\] 4.61★
 
 A new contender from the osu!mania World Cup 2018 is *Scars of Fauna*, a smooth, fun, and satisfying LN experience made for anyone with an interest in long notes and complicated release timings. The chart utilizes different densities of LN to represent different sections of the music, as well as in some cases even just different sounds, most notably in the chorus where inverse is used as a peak in the buildup of sounds that the song has to offer making that particular section very satisfying to play. Layered with this satisfaction are the difficult releases strewn throughout which serve to keep players on their toes for the whole duration of the chart—definitely succeeding in that department. Overall, *Scars of Fauna* is simply a dynamic, satisfying, and fun arrangement of long notes worthy of this nomination to the Loved section.
 
 [![](/wiki/shared/news/2019-06-23-project-loved-week-of-june-23rd/mania/4-promise.jpg)](https://osu.ppy.sh/community/forums/topics/925095)
 
 [M2U - Promise](https://osu.ppy.sh/beatmapsets/399373#mania) by [Jinjin](https://osu.ppy.sh/users/3360737)  
-200 BPM, 2:27 | [7K] 0.92★, [7K] 1.44★, [7K] 2.35★, [7K] 5.29★
+200 BPM, 2:27 | \[7K\] 0.92★, \[7K\] 1.44★, \[7K\] 2.35★, \[7K\] 5.29★
 
 It's been some time since we got a non-O2-oriented LN chart for Loved and for this round, we have Jinjin's *Promise*. Drawing inspiration from fun elements of O2Jam charting, Jinjin manages to combine a plethora of LN styles ranging from column specific LN groupings, inverses, stylistic reverse shielding, up to 1/4 LN chording at a later section. While not solely restricted to common LN themes, the rice does alternate between bracketing and 1/2 chordtrilling at 200 BPM to chordmashing at the same bpm. Even with the inclusion of patterns that may raise some concerned eyebrows for some just by looks, all these elements come to play in a fashion that's very casual and easy to handle, marking this map as a must play for anyone starting to enter into mid-tier LNing.
 
 [![](/wiki/shared/news/2019-06-23-project-loved-week-of-june-23rd/mania/5-checkpoint.jpg)](https://osu.ppy.sh/community/forums/topics/925093)
 
 [Nitro Fun & Hyper Potions - Checkpoint](https://osu.ppy.sh/beatmapsets/647297#mania) by [Kawawa](https://osu.ppy.sh/users/4647754)  
-140 BPM, 3:00 | [7K] 4.80★
+140 BPM, 3:00 | \[7K\] 4.80★
 
 Kawawa makes a comeback to Project Loved with yet another rice-oriented chart. Very comfy in nature, *Checkpoint* is known primarily for being an introductory chart for faster stream patterns which some may call "delay" patterns. While not quite up there in terms of speed, *Checkpoint* presents very simple but fluid patterning presenting dense 1/4 chordstreaming and chordtrilling with some occasional bracketing followed by 1/8 comfy streaming at 140 BPM. Serving as quite a strong example on how simple charts can be very fun, *Checkpoint* has earned it place for nomination this round.
 

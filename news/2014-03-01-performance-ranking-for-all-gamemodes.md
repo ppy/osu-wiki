@@ -11,10 +11,10 @@ I'd like to mention, that the performance ranking is in no way finalized and you
 
 Here are direct links to the feedback forum threads:
 
--   [Standard feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181850)
--   [Catch the Beat feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181851)
--   [Taiko feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181852)
--   [osu!mania feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181853)
+- [Standard feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181850)
+- [Catch the Beat feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181851)
+- [Taiko feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181852)
+- [osu!mania feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181853)
 
 Note, that standard players might also experience slight rank changes due to the difficulty algorithm migrating from the not perfectly accurate tp difficulty calculator to the osu! client.
 

@@ -1,13 +1,11 @@
----
-needs_cleanup: true
----
+<!-- TODO: some formatting issues, and I think it's odd that most of this article is a tutorial. feels like there should be a separate guide article. -->
 
 # Beatmapping
 
-**Beatmapping** is the process of creating [beatmaps](/wiki/Beatmaps) in osu! for players to play.
-This involves choosing a song, [timing](/wiki/Timing), placement of [objects](/wiki/Hit_Objects), and (optionally) [skinning](/wiki/Skinning) and [storyboarding](/wiki/Storyboarding).
+**Beatmapping** is the process of creating [beatmaps](/wiki/Beatmap) in osu! for players to play.
+This involves choosing a song, [timing](/wiki/Timing), placement of [objects](/wiki/Hit_Objects), and (optionally) [skinning](/wiki/Skinning) and [storyboarding](/wiki/Storyboard#storyboarding).
 
-Mappers usually want to get their beatmaps [ranked](/wiki/Beatmaps) which consists of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+Mappers usually want to get their beatmaps [ranked](/wiki/Beatmap) which consists of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 As osu! is a rhythm based game, the song/music you choose to map should have an obvious and constant beat.
 Try to avoid songs which have tempo (or speed) changes or slow songs until you are more experienced and used to beatmapping.
@@ -27,7 +25,7 @@ Click on the song, this will open the [beatmap editor](/wiki/Beatmap_Editor) and
 
 When making a new [mapset](/wiki/mapset), you will always see this dialog before any other parts of the beatmap editor.
 
-You should fill out this information before creating another [difficulty](/wiki/Difficulties).
+You should fill out this information before creating another [difficulty](/wiki/Beatmap/Difficulty).
 This will ensure that the metadata will be consistent across all of the difficulties in the set.
 
 You can change the options in the other tabs now if you want, but they can be changed later on.
@@ -50,11 +48,11 @@ This will save you (and the modding community) a lot of hassle later on.
 *Main page: [Compose](/wiki/Compose)*
 
 The compose tab of the beatmap editor is where you will probably spend a majority of your time beatmapping.
-It is where you can visually place hit objects and toggle their [hitsounds](/wiki/hit_sounds)
+It is where you can visually place hit objects and toggle their [hitsounds](/wiki/Beatmapping/Hitsound).
 
 ### Design
 
-*Main page: [Design](/wiki/Design) and [Storyboarding](/wiki/Storyboarding)*
+*Main page: [Design](/wiki/Design) and [Storyboarding](/wiki/Storyboard#storyboarding)*
 
 The design tab of the beatmap editor is where you can set the beatmap's background image, add a video, and/or make a basic storyboard.
-Depending on what you do, you may use the design tab a lot or none at all, if you happen to be doing [SBS](/wiki/Storyboard_Scripting) (storyboard scripting).
+Depending on what you do, you may use the design tab a lot or none at all, if you happen to be doing [SBS](/wiki/Storyboard/Scripting) (storyboard scripting).

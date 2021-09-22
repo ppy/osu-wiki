@@ -16,12 +16,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/DkfcGDx_-rg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Bibbity Bill returns to Project Loved with a map from an artist that many will b
 
 With this mapset, Sing *encounter*s their second feature on Project Loved—only this time featuring guest difficulties from 7 other mappers! With a grand total of 9 individual difficulties, there surely is a map for everyone, especially with a difficulty spread like this. Many of them take advantage of the song's complex rhythms and bursts, however each map is unique to their own and is a blast to play for anyone looking to try.
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -93,7 +93,7 @@ If you like gimmick maps, this one's for you. katacheh themselves said they pack
 Although initially planned by maziari1105 to get Ranked, he decided to allow us to put it here for the voting stage and of course we instantly took the chance to do so.  
 Worry not though—even if its (insane) top difficulty is one of the best maps we have seen yet, the other diffs don't fall short to the hype either!
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -115,7 +115,7 @@ After playing the "SINNOH'S INFINITE" difficulty of the recently ranked [Chroma 
 
 Here we go then. The map that was supposed to blow everything away in the ranked section pp-wise but sadly never made it to that ranked section in the end. Having quit for a while now, Koliron's *Soldiers of the Wasteland* hasn't seen any activity in over a year which was a bummer for quite a lot of people. The map itself is very well created and very well polished having been used for the CTB International Cup IV as Grand Finals tiebreaker, and also having seen plenty of play in multiplayer lobbies despite its very ranked-map-esque feel. With its tons of streams, stream jumps, and the lengthiness of the song itself, this map is truly a finger-breaker. As the star rating suggests, the map is suited only for players of (very) high skill level, let alone with hardrock turned on. Will you be able to play it? Or will you find yourself just another soldier lost in the wasteland?
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
@@ -124,7 +124,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-09-16-project-loved-week-of-september-15th/mania/1-sense.jpg)](https://osu.ppy.sh/community/forums/topics/961642)
 
 [SCRIPT - SENSE](https://osu.ppy.sh/beatmapsets/981117#mania) by [LeiN-](https://osu.ppy.sh/users/2162939)  
-177 BPM, 2:55 | [4K] 4.94★
+177 BPM, 2:55 | \[4K\] 4.94★
 
 Did you guys miss LeiN-? We did too. Unlike LeiN-'s previous charts in the Loved section, *SENSE* is an extremely complex drumstep song with many distinct sections, unpredictable bass wobbles, and a multitude of sound textures to be found. Just like the song, LeiN-'s rendition of *SENSE* is very complex and very technical.
 
@@ -135,14 +135,14 @@ To say that the chart is dynamic is an understatement—it's one of LeiN-'s most
 [![](/wiki/shared/news/2019-09-16-project-loved-week-of-september-15th/mania/2-kimi-no-shiranai-monogatari.jpg)](https://osu.ppy.sh/community/forums/topics/961641)
 
 [supercell - Kimi no Shiranai Monogatari](https://osu.ppy.sh/beatmapsets/696444#mania) by [eZmmR](https://osu.ppy.sh/users/8647138) et al.  
-165 BPM, 5:36 | [4K] 6.22★
+165 BPM, 5:36 | \[4K\] 6.22★
 
 We've seen him before taking the spot of a popular LN charter, and here eZmmR is once again along with collaborative partners Pianissimo, Timbergling and Yuichie (also including a couple of familiar faces) for their chart of *Kimi no Shiranai Monogatari*. As you might expect from the familiar group, the chart is chock full of difficult LN patterns taking various forms, from LN streams to release oriented dump patterns, to occasional runs of inverse patterning. Similar to their last entry, it is truly the type of chart for those LN enthusiasts to jump all over and enjoy, and one for those looking to introduce themselves to the vast array of difficult LN patterns there are to find. The chart is certainly a popular one of this genre, and can be very appealing to the two groups mentioned, and thus earns itself a spot among the Loved nominations.
 
 [![](/wiki/shared/news/2019-09-16-project-loved-week-of-september-15th/mania/3-tiefsee.jpg)](https://osu.ppy.sh/community/forums/topics/961640)
 
 [SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE](https://osu.ppy.sh/beatmapsets/861816#mania) by [Kim_GodSSI](https://osu.ppy.sh/users/2218047)  
-165 BPM, 5:49 | [7K] 8.29★
+165 BPM, 5:49 | \[7K\] 8.29★
 
 It's time for another Kim_GodSSI pick! This round we're having *TIEFSEE*! You might have seen this from the last 7K Mania World Cup and it is arguably one of the more well-received maps in the pool for all the right reasons.
 

@@ -1,13 +1,14 @@
 ---
 outdated: true
 ---
+
 # Logros
 
 Los **Logros** ***(Achievements)*** son pequeñas insignias en el perfil de alguien que indican que alguien ha llevado a cabo un objetivo excepcional. Actualmente, están divididos en 5 grupos.
 
 ## Beatmap Packs
 
-**Los Beatmap Packs** son logros pueden ser obtenidos por **Jugar cada beatmap a al menos una vez en cualquier dificultad** Dentro de un [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t). Deberá jugar en Modo [osu! Standard](/wiki/Game_Modes/osu!) para calificar a **CLEARED (Completado)** en el [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) y ganar la insignia.
+**Los Beatmap Packs** son logros pueden ser obtenidos por **Jugar cada beatmap a al menos una vez en cualquier dificultad** Dentro de un [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t). Deberá jugar en Modo [osu! Standard](/wiki/Game_mode/osu!) para calificar a **CLEARED (Completado)** en el [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) y ganar la insignia.
 
 Actualmente hay 16 logros de este grupo, que se dividen en 4 secciones:-
 
@@ -18,12 +19,12 @@ Actualmente hay 16 logros de este grupo, que se dividen en 4 secciones:-
 
 Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 
-### Requisitos y notas sobre la obtención de la insignia.
+### Requisitos y notas sobre la obtención de la insignia
 
-#### Requisitos:
+#### Requisitos
 
 - Jugar cada beatmap una vez en cualquier dificultad dentro de una [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t) es suficiente.
-- El modo debe ser [osu! Standard](/wiki/Game_Modes/osu!).
+- El modo debe ser [osu! Standard](/wiki/Game_mode/osu!).
 - Extraer el Theme pack, Coloque todos los beatmaps del .zip en osu.! Ejecutar tu osu! y comenzar a jugar. Eso es todo.
   - Si el beatmap se encuentra en .zip, debe extraerlo como .zip y no ir a hacer carpetas para ellos. Si se hacen las carpetas para ellos, es posible que no obtenga el logro y el estado "**CLEARED (Completado)**" en su [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t)
   - Alternativamente, usted puede descargar las canciones manualmente de uno en uno, sigue siendo valido.
@@ -31,7 +32,7 @@ Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 - Su cuenta en cuestión debe estar logeado en osu!. Tener Sección iniciada en el Sitio web de osu! pero no el juego, no cuentan.
 - Los Mods pueden utilizarse pero no mods que pueden jugar sin clasificar (como Auto-Piloto). Use los mods sabiamente a su favor.
 
-#### Notas:
+#### Notas
 
 - Después de completar su logro, usted puede borrar las canciones del tema. Su achievement (Logro), ranked score y accuracy (Precisión) Se guardaran. Si lo que quieres es mejorar tu ranked score (Puntuación) y la accuracy (Precisión) de los beatmap, puede hacerlo personalmente y jugar el beatmap de nuevo.
 - Si usted se pregunta ¿por qué usted no tiene la insignia? y se siente como si no fuera una canción, usted puede comprobar el [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) aqui. La canción que se haya terminado, se marcará **CLEARED** en negrita.
@@ -50,14 +51,14 @@ Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 
 ## Combo
 
-Los Logros de **Combo** Se puede obtener al adquirir un determinado [Combo](/wiki/Glossary) en el modo osu! Standard y se puede completar con cualquier canción.
+Los Logros de **Combo** Se puede obtener al adquirir un determinado [Combo](/wiki/Beatmapping/Combo) en el modo osu! Standard y se puede completar con cualquier canción.
 Lograr el mismo combo en Taiko, Catch the Beat u osu!mania NO es valido para conseguir el logro.
 
 Para el logro de 1,000 y 2,000 combo, Debe ser un beatmap en estado "Aprobado". No busque beatmaps sin Aprobar o de otra forma no podra conseguir el logro.
 
 ## Dedicación (Dedication)
 
-Los logros por **Dedicación (Dedication)** pueden ser obtenidos por (Jugando continuamente en modo Standard / Recoger muchas frutas en modo [Catch the Beat (CTB)](/wiki/Game_Modes/osu!catch) / golpear un montón de golpes los tambores en modo [Taiko](/wiki/Game_Modes/osu!taiko) / presionando muchas teclas en [osu!mania](/wiki/Game_Modes/osu!mania)).
+Los logros por **Dedicación (Dedication)** pueden ser obtenidos por (Jugando continuamente en modo Standard / Recoger muchas frutas en modo [Catch the Beat (CTB)](/wiki/Game_mode/osu!catch) / golpear un montón de golpes los tambores en modo [Taiko](/wiki/Game_mode/osu!taiko) / presionando muchas teclas en [osu!mania](/wiki/Game_mode/osu!mania)).
 
 ## Hush-Hush
 

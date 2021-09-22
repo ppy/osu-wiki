@@ -1,11 +1,10 @@
-# EZ
+# EZ (désambiguïsation)
 
-**EZ** peut également se référer à :
+Le terme **EZ** peut avoir plusieurs significations :
 
-- Le [Modificateur de jeu Easy](/wiki/Game_Modifiers#easy).
-- Le nom de la version d'un beatmap.
-- La difficulté d'une beatmap :
-  - ![](/wiki/shared/diff/easy-m.png) EZ, pour osu!mania.
-  - ![](/wiki/shared/diff/easy-s.png) Easy, pour osu!standard.
-  - ![](/wiki/shared/diff/easy-t.png) Kantan, pour osu!taiko.
-  - ![](/wiki/shared/diff/easy-c.png) Cup, pour osu!catch.
+- Le [modificateur de jeu](/wiki/Game_modifier/Easy) Easy
+- La [difficulté](/wiki/Beatmap/Difficulty) d'une beatmap :
+  - ![](/wiki/shared/diff/easy-m.png) EZ, pour le mode osu!mania.
+  - ![](/wiki/shared/diff/easy-o.png) Easy, pour le mode osu!.
+  - ![](/wiki/shared/diff/easy-t.png) Kantan, pour le mode osu!taiko.
+  - ![](/wiki/shared/diff/easy-c.png) Cup, pour le mode osu!catch.

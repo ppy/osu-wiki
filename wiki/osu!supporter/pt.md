@@ -4,7 +4,7 @@ outdated: true
 
 # osu!supporter
 
-![link do osu!supporter na pagina principal.](img/store-product.jpg "link do osu!supporter na pagina principal.")
+![link do osu!supporter na pagina principal.](img/store-product.jpg?1 "link do osu!supporter na pagina principal.")
 
 ## Introdução
 
@@ -20,7 +20,7 @@ Resumindo: Doações são usadas para sustentar o jogo em geral.
   - Especificamente, `menu-background.jpg` (Menu Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triângulos); `welcome.wav` (Som de Boas Vindas); `seeya.wav` (Som de Saída)
 - [Feature Requests](https://osu.ppy.sh/community/forums/4): Votos extras para feature requests (2 por mês em vez de 1 por mês).
 - [Seleção de Musica](/wiki/Interface): A habilidade de ver dentro do jogo os rankings de beatmaps apenas em seu pais / amigos / mods específicos.
-- Seu Perfil: <https://osu.ppy.sh/users/>
+- Seu Perfil: `https://osu.ppy.sh/users/`
   - Você pode adicionar uma pagina do usuário no seu perfil.
     - Sua pagina do usuário não será deletada quando osu!supporter expirar.
   - A Habilidade de mudar seu nome de usuário (uma vez por conta. Você não poderá usar novamente, com raras exceções)
@@ -60,6 +60,6 @@ Aqui, você terá varias formas de doação. É recomendado que use [PayPal](htt
 
 ### Duração
 
-![Comparação entre osu!supporter ativo e inativo.](img/status.jpg "Comparação entre osu!supporter ativo e inativo.")
+![Comparação entre osu!supporter ativo e inativo.](img/status.jpg?1 "Comparação entre osu!supporter ativo e inativo.")
 
 Depois que a transação estiver completa, a atividade recente do seu perfil vai mostrar "{Your account} has become an osu! supporter - thanks for your generosity!" (o jogador se tornou um osu!supporter - obrigado por sua generosidade) ou "{Your account} has once again chosen to donate to the osu! cause - thanks for your generosity!" (O jogador decidiu doar mais uma vez para ajudar o osu! - obrigado por sua generosidade!) caso o jogador já fez doações antes. Se você doou com seu próprio nickname, você poderá ver um emblema de osu!supporter abaixo da imagem do seu perfil. Para checar quando seu osu!supporter vai expirar, [retorne para o mesmo lugar que você fez a doação](https://osu.ppy.sh/home/support).

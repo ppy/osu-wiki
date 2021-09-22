@@ -1,10 +1,15 @@
+---
+outdated: true
+outdated_since: 2a53f4edb06a6521b8f6db07dc442660fa9861d3
+---
+
 # AiMod
 
 **AiMod** ist ein Hilfsmittel im Beatmap Editor. Der **AiMod** kann über den Tastenkürzel `Strg` + `Shift` + `A` oder über **File**, dann **Open AiMod** geöffnet werden.
 
-![AiMod](AiMod.jpg "AiMod ist normalerweise der erste Modder einer Beatmap")
+![AiMod](img/AiMod.jpg "AiMod ist normalerweise der erste Modder einer Beatmap")
 
-AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Probleme erkennt. Komplizierteres, wie das Überprüfen der Timing/BPM oder das Design der Beatmap, muss von einem [Modder](/wiki/Glossary) überprüft werden. Fehler, Probleme und Warnungen werden in Tabs kategorisiert.
+AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Probleme erkennt. Komplizierteres, wie das Überprüfen der Timing/BPM oder das Design der Beatmap, muss von einem [Modder](/wiki/Modding/Modder) überprüft werden. Fehler, Probleme und Warnungen werden in Tabs kategorisiert.
 
 ## Tabs
 
@@ -31,13 +36,13 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 #### All
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
-| No problems were found in this map! | AiMod konnte keine Probleme mit der Beatmap finden! | Man kann die Beatmap mithilfe von BSS hochladen und damit osu!moddern erlauben weitere Fehler und Probleme der Beatmap zu finden.|
+| :-- | :-- | :-- |
+| No problems were found in this map! | AiMod konnte keine Probleme mit der Beatmap finden! | Man kann die Beatmap mithilfe von BSS hochladen und damit osu!moddern erlauben weitere Fehler und Probleme der Beatmap zu finden. |
 
 #### Meta
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | HP rate for Easy/Normal is suggested to be at least 4. | Nur bei osu!mania | In den Song Einstellungen muss "HP rate" auf 4 oder höher gesetzt werden. |
 | HP rate for Hard and up is suggested to be at least 7. | Nur bei osu!mania | In den Song Einstellungen muss "HP rate" auf 7 oder höher gesetzt werden. |
 | OD rate for maps with few sliders is suggested to be at least 7. | Nur bei osu!mania | In den Song Einstellungen muss die "OD rate" auf 7 oder höher gesetzt werden. |
@@ -48,13 +53,13 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 #### Compose
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
-| These two objects are less than 10ms apart! | Zwei Hitobjekte sind zu nah beieinander. Die Spieler können nicht so schnell klicken. | Die zwei Hitobjekte müssen entweder voneinander verschoben oder gelöscht werden.|
+| :-- | :-- | :-- |
+| These two objects are less than 10ms apart! | Zwei Hitobjekte sind zu nah beieinander. Die Spieler können nicht so schnell klicken. | Die zwei Hitobjekte müssen entweder voneinander verschoben oder gelöscht werden. |
 
 #### Design
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Your beatmap has no background image. | Die Beatmap hat kein Hintergrundbild! Das Video gilt nicht als Hintergrundbild, da der Spieler die Videos nicht unbedingt herunterladen muss! | Ein angemessenes Bild muss als Hintergrundbild genutzt werden. |
 
 ### Warnings
@@ -62,7 +67,7 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 #### Compose
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | This slider moves in an abnormal way. | Der Slider ist mit der Maus entweder nicht verfolgbar oder spielbar. | Der Slider sollte verändert oder entfernt werden. |
 | This combo is very long. Consider splitting it up. | Die Länge der Kombo kann die Schwierigkeit der Beatmap beeinflussen, sowie die Anzahl der Früchte, die in osu!catch auf der Platte gestapelt werden. | Die problematischen Kombos müssen aufgespaltet werden. (Es ist empfohlen, dass die Länge der Kombos höchstens 15-18 sein sollten.) |
 | This spinner appears onscreen later than objects which follow it. | Objekte überlappen den Spinner. Das könnte daran liegen, dass die AR zu niedrig ist und/oder die Objekte zu nah am Spinner sind. | Die Länge des Spinners muss verändert werden und/oder die darauffolgenden Objekte entfernt werden. |
@@ -83,75 +88,75 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 #### Design
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Background image is larger than 1366x768. | Das Hintergrundbild ist zu groß. | Das Bild muss durch ein kleineres Bild ersetzt werden. |
 | This map may need an epilepsy warning, as it contains frequently toggled storyboards. | Die Beatmap hat vieleicht ein Storyboard mit Inhalten, die von Epiletikern nicht verkraftet werden kann. | Überprüfe dein Storyboard und aktiviere die Epilepsie Warnung. |
 | File missing: | Eine Datei fehlt. | Die Datei sollte wieder hinzugefügt werden oder aus dem Projekt vollständig entfernt werden. |
-| {0}'s dimensions must be {1}x{1} | | |
-| Your video's dimensions must not exceed 1024x768 for the 4:3 format. | | |
-| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | | |
+| {0}'s dimensions must be {1}x{1} |  |  |
+| Your video's dimensions must not exceed 1024x768 for the 4:3 format. |  |  |
+| Your video's dimensions must not exceed 1280x720 for the 16:9 format. |  |  |
 
 #### Timing
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
-| All timing sections have a volume below 5%. | | |
-| This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. | | |
-| Your beatmap is shorter than 45 seconds. Consider making it longer. | | |
-| Audio bitrate is higher than 192kbps. Consider recompressing to CBR 192kbps or VBR ~1.0. | | |
-| Kiai time is toggled on for less than 15 seconds. | | |
-| Audio bitrate is lower than 128kbps. Consider finding a better quality source. | | |
-| The mp3 you are using is a lot longer than the part which is mapped. Consider cropping it to reduce filesize. | | |
-| Kiai needs an end time point. | | |
-| A preview point for this map is not set. Consider setting one from the Timing menu. | | |
-| Two timing points exist at the same time! | | |
-| {0} out of {1} timing sections have a volume below 5%. | | |
-| More than 1/3 of the map is Kiai time. Consider reducing this. | | |
-| More than 1/2 of the TV Size map is Kiai time. Consider reducing this. | | |
-| Kiai isn't snapped! | | |
-| Kiai's end isn't snapped! | | |
-| Breaktime is not suggested for mania maps. | | |
-| Easy/Normal diff contains too many speed changes. | | |
-| Kiai is toggled very frequently! | | |
-| More than 1/3 of the map is Kiai time. Consider reducing this. | | |
+| :-- | :-- | :-- |
+| All timing sections have a volume below 5%. |  |  |
+| This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. |  |  |
+| Your beatmap is shorter than 45 seconds. Consider making it longer. |  |  |
+| Audio bitrate is higher than 192kbps. Consider recompressing to CBR 192kbps or VBR ~1.0. |  |  |
+| Kiai time is toggled on for less than 15 seconds. |  |  |
+| Audio bitrate is lower than 128kbps. Consider finding a better quality source. |  |  |
+| The mp3 you are using is a lot longer than the part which is mapped. Consider cropping it to reduce filesize. |  |  |
+| Kiai needs an end time point. |  |  |
+| A preview point for this map is not set. Consider setting one from the Timing menu. |  |  |
+| Two timing points exist at the same time! |  |  |
+| {0} out of {1} timing sections have a volume below 5%. |  |  |
+| More than 1/3 of the map is Kiai time. Consider reducing this. |  |  |
+| More than 1/2 of the TV Size map is Kiai time. Consider reducing this. |  |  |
+| Kiai isn't snapped! |  |  |
+| Kiai's end isn't snapped! |  |  |
+| Breaktime is not suggested for mania maps. |  |  |
+| Easy/Normal diff contains too many speed changes. |  |  |
+| Kiai is toggled very frequently! |  |  |
+| More than 1/3 of the map is Kiai time. Consider reducing this. |  |  |
 
 #### Meta
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
-| Stack leniency is larger than 0.9 or smaller than 0.3. | | |
-| Romanised artist contains unicode. | | |
-| Romanised title contains unicode. | | |
+| :-- | :-- | :-- |
+| Stack leniency is larger than 0.9 or smaller than 0.3. |  |  |
+| Romanised artist contains unicode. |  |  |
+| Romanised title contains unicode. |  |  |
 | Countdown is not allowed in mania mode. | Nur bei osu!mania Maps | Geh in die **Song Einstellungen** und schalte den Countdown im **"Design" tab** aus. |
-| Letterboxing is not allowed in mania mode. | Nur bei osu!mania Maps | |
+| Letterboxing is not allowed in mania mode. | Nur bei osu!mania Maps |  |
 | OD rate is suggested to be at least 5. | Nur bei osu!mania Maps | Geh in die **Song Einstellungen** und setze die **OD (Overall Difficulty)** auf 5 oder höher. |
-| OD rate for maps with very few sliders is suggested to be at least 8. | Nur bei osu!mania Maps | |
-| Countdown is not allowed in taiko mode. | Nur bei osu!taiko Maps | |
-| Epilepsy warning is not allowed in taiko mode. | Nur bei osu!taiko Maps | |
-| Letterboxing is not allowed in taiko mode. | Nur bei osu!taiko Maps | |
+| OD rate for maps with very few sliders is suggested to be at least 8. | Nur bei osu!mania Maps |  |
+| Countdown is not allowed in taiko mode. | Nur bei osu!taiko Maps |  |
+| Epilepsy warning is not allowed in taiko mode. | Nur bei osu!taiko Maps |  |
+| Letterboxing is not allowed in taiko mode. | Nur bei osu!taiko Maps |  |
 
 #### Mapset
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
-| Artist conflicts with {0} diff. | | |
-| Audio file conflicts with {0} diff. | | |
-| Countdown conflicts with {0} diff. | | |
-| Audio lead-in conflicts with {0} diff. | | |
-| Letterbox in breaks conflicts with {0} diff. | | |
-| Audio preview time conflicts with {0} diff. | | |
-| Source conflicts with {0} diff. | | |
-| Tags conflict with {0} diff. | | |
-| Title conflicts with {0} diff. | | |
-| Unicode artist conflicts with {0} diff. | | |
-| Unicode title conflicts with {0} diff. | | |
-| This mapset cannot have an Insane diff. without a Hard diff. | | |
-| Filesize of the mapset exceeds 10MB without video. | | |
-| Filesize of the mapset exceeds 24MB with video. | | |
-| This mapset is missing diff: {0} | | |
-| This mapset needs at least 2 Catch the Beat diffs. | Nur bei osu!catch Maps | |
-| This mapset needs at least 1 Easy/Normal diff. | | |
-| This mapset needs at least 2 osu!mania diffs. | Nur bei osu!mania Maps | |
-| This mapset needs at least 2 standard diffs. | Nur bei osu!standard Maps | |
-| This mapset needs at least 2 Taiko diffs. | Nur bei osu!taiko Maps | |
-| Uninherited timing points conflict with {0} diff. | | |
+| :-- | :-- | :-- |
+| Artist conflicts with {0} diff. |  |  |
+| Audio file conflicts with {0} diff. |  |  |
+| Countdown conflicts with {0} diff. |  |  |
+| Audio lead-in conflicts with {0} diff. |  |  |
+| Letterbox in breaks conflicts with {0} diff. |  |  |
+| Audio preview time conflicts with {0} diff. |  |  |
+| Source conflicts with {0} diff. |  |  |
+| Tags conflict with {0} diff. |  |  |
+| Title conflicts with {0} diff. |  |  |
+| Unicode artist conflicts with {0} diff. |  |  |
+| Unicode title conflicts with {0} diff. |  |  |
+| This mapset cannot have an Insane diff. without a Hard diff. |  |  |
+| Filesize of the mapset exceeds 10MB without video. |  |  |
+| Filesize of the mapset exceeds 24MB with video. |  |  |
+| This mapset is missing diff: {0} |  |  |
+| This mapset needs at least 2 Catch the Beat diffs. | Nur bei osu!catch Maps |  |
+| This mapset needs at least 1 Easy/Normal diff. |  |  |
+| This mapset needs at least 2 osu!mania diffs. | Nur bei osu!mania Maps |  |
+| This mapset needs at least 2 standard diffs. | Nur bei osu! Maps |  |
+| This mapset needs at least 2 Taiko diffs. | Nur bei osu!taiko Maps |  |
+| Uninherited timing points conflict with {0} diff. |  |  |

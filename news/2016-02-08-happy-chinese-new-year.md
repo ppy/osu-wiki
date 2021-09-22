@@ -9,6 +9,8 @@ tumblr_url: http://osunews.tumblr.com/post/138895980163/happy-chinese-new-year
 
 ![](/wiki/shared/news/2016-02-08-happy-chinese-new-year/cny.png)
 
+![](/wiki/shared/news/2016-02-08-happy-chinese-new-year/cny.png)
+
 鸟语喧花果，猴声啼水帘。玉兔探月观新岁，金猴捧挑笑丰年。
 
 鳥語喧花果，猴聲啼水簾。玉兔探月觀新歲，金猴捧挑笑豐年。

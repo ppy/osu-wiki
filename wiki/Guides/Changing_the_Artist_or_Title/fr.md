@@ -1,10 +1,10 @@
 # Changer l'artiste ou le titre d'une beatmap
 
-[*Full Submission with Title/Artist Change -- Mistakes* par NoHitter (amélioré par peppy)](https://osu.ppy.sh/community/forums/topics/24443)
+*[Full Submission with Title/Artist Change -- Mistakes par NoHitter (amélioré par peppy)](https://osu.ppy.sh/community/forums/topics/24443)*
 
 Quand vous changez le **titre ou l'artiste** d'une beatmap, un problème peut survenir, qui rendra la publication de cette dernière impossible sans la dupliquer.
 
-**NE PUBLIEZ PAS SI LE MENU "WEB" DE L'EDITEUR EST DESACTIVE, CAR VOTRE BEATMAP SERAIT DUPLIQUEE.**
+**Ne publiez pas si le menu "Web" de l'editeur est desactive, car votre beatmap serait dupliquee.**
 
 Pour résoudre ce problème de duplication, suivez les étapes suivantes:
 
@@ -26,4 +26,4 @@ Pour résoudre ce problème de duplication, suivez les étapes suivantes:
   7. Naviguez dans les menus `Fichier` > `Ouvrir...` afin de changer l'artiste/le titre dans d'autres difficultés.
   8. Publiez la beatmap.
 
-Si vous avez toujours des maps dupliquées, contactez la [NAT](/wiki/People/Nomination_Assessment_Team) pour résoudre le problème.
+Si vous avez toujours des maps dupliquées, contactez la [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) pour résoudre le problème.

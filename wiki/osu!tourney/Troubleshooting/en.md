@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: same problem as FAQ page. organizing articles with only questions renders it useless beyond direct section links -->
 
 # osu!tourney troubleshooting
 
@@ -32,7 +33,7 @@ Rename or delete the `tournament.cfg` file.
 
 ## My client is not spectating!
 
-Click the room name on the bottom black panel so that it apppears **bold**.
+Click the room name on the bottom black panel so that it appears **bold**.
 If the client is still not spectating, click the `Panic` button.
 
 ## The rooms are not showing up!

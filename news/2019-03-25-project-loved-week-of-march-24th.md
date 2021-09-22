@@ -14,12 +14,12 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -97,7 +97,7 @@ TSUBAKI is a song made infamous by the Hollow Wings set, but if you can't stand 
 
 Midge, in my opinion, is one of the most criminally ignored mappers within osu!, full stop. He has a multitude of simply incredible maps, such as his take on Mazare Party and this, xi's Akasha. With a song you all will know but have never quite experienced before like this, Midge takes you through the ebb and flow of the lead instrument as it twists and winds its way along the notes on the stave, using techniques such as cut and accelerating streams to respond brilliantly to the pitches and rhythms of the song. Never played a Midge map? Do yourself a favour and try this one. You won't regret it.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -135,7 +135,7 @@ This year's osu!taiko World Cup season is coming soon. This week, I decided to p
 
 Congratulations to komasy for #1 in Taiko Japanese Beatmap Contest #10! This excellent map, created by komasy, is so good. It almost blows away their previous maps—yes, like they were nothing. The art of "elegant spacing" is something so outstanding that mappers, including komasy, may never be able to replicate it. This map offers such a free, rich experience—I highly recommend giving this map a try!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Ascendance](https://osu.ppy.sh/users/2931883), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
 
@@ -157,7 +157,7 @@ Furely: who doesn't know this mapper? They are known for creating a fair amount 
 
 Badis is known for being a mapper with a somewhat unconventional mapping style, which makes most of his maps something you usually don't see often. His map of the jazzy song Meikaruza is not an exception. It has a lot of fast-paced patterns mostly consisting of wiggles and snappy direction changes. However, sometimes hyperdashes are used, creating a few patterns you need to be very accurate and precise to catch. The map has a break in the middle of the map, which makes it less taxing for your hands and gives you a moment to relax. The mapset also comes with three versions of the same map which only differ in their AR, giving the player an opportunity to choose an AR they are more comfortable with. All in all, this is a very fun and exciting map. Enjoy the jazz!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

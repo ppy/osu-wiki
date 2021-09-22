@@ -20,11 +20,9 @@ We have our champions for the osu!catch World Cup of 2016! Peppy has posted a mu
 
 **There is just way too many tournaments for us to talk about how exciting each one of them are!** While this may be the case, the osu!weekly is here to try to keep you in the know with some of the bigger upcoming and currently on-going competitions. Let's take a look at what's been brought to my attention this week!
 
-+ The [osu! Histy Championships (OHC)](https://osu.ppy.sh/community/forums/topics/466836/start=0) is an international 4v4 osu!standard tournament that allows players to form their own teams with no rank limits. It's currently still in it's registration phase, so head on over if you're interested!
-
-+ The [Second Circle Championships](https://osu.ppy.sh/community/forums/topics/441098) is a third party sponsored 2v2 tournament that has some pretty big players participating.
-
-+ The OCWT concluded this passing weekend with the (definitely not overpowered) team SPD taking the top prize. There's a vod up for the [grand finals](https://www.twitch.tv/ocwt/v/74634469) over on the ocwt twitch channel, so you can go see it if you missed it!
+- The [osu! Histy Championships (OHC)](https://osu.ppy.sh/community/forums/topics/466836/start=0) is an international 4v4 osu!standard tournament that allows players to form their own teams with no rank limits. It's currently still in it's registration phase, so head on over if you're interested!
+- The [Second Circle Championships](https://osu.ppy.sh/community/forums/topics/441098) is a third party sponsored 2v2 tournament that has some pretty big players participating.
+- The OCWT concluded this passing weekend with the (definitely not overpowered) team SPD taking the top prize. There's a vod up for the [grand finals](https://www.twitch.tv/ocwt/v/74634469) over on the ocwt twitch channel, so you can go see it if you missed it!
 
 **Just as I was about to push out this article, Flyte posted a new [update](https://next.ppy.sh/post/146744703858/this-weeks-teaser-is-not-so-much-of-a-teaser) for us on his blog!** It seems that flyte has gotten his rear in gear and started working away on some of his more old designs. I had a brief glance at the screenshots of the new userpage design, and it seems that quite a few things have been changed! Can you spot all the differences?
 
@@ -38,19 +36,19 @@ The osu!catch World Cup 2016 has concluded with Indonesia facing off again last 
 
 <center>![](https://puu.sh/pMLj3/47284249df.png)</center>
 
-As the Grand Final began, China picked Morimori Atsushi - PUPA (Cherry Blossom) [Butterfly] and Indonesia responded it by gained their first point.
+As the Grand Final began, China picked Morimori Atsushi - PUPA (Cherry Blossom) \[Butterfly\] and Indonesia responded it by gained their first point.
 
-Indonesia picked DJ Sharpnel - IVALTEK (happy30) [HappyMiX] in hope they could get their second point, but China was able to win it and made it tie 1 - 1. The performance of both teams were very contrast after the tie.; Indonesia's performance dropped down and made a lot of mistakes while China nailed everything calmly.
+Indonesia picked DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\] in hope they could get their second point, but China was able to win it and made it tie 1 - 1. The performance of both teams were very contrast after the tie.; Indonesia's performance dropped down and made a lot of mistakes while China nailed everything calmly.
 
 Without wasting time China tried to gain everything they could, closed the 1st round with a massive 7 - 1 win and proceed to 2nd match as China came from Loser Bracket and they needed another win to be crowned as World Champion.
 
 ![](https://puu.sh/pK4SR/a62fc1da7e.png)
 
-Lost their first chance to win, Indonesia changed the strategy by picked different song in the first pick (Hitori Tori - perthed again (yambabom remix) (CLSW) [Nervous Breakdown]) in hope they could get their first point, but China was able to convert it to their point and made 4 - 1 lead shortly. Indonesia didn't want to give up, tried everything they can and they successfully chased their deficit to 4 - 3. Indonesia tried their last chance to win the remaining rounds in order to win the World Cup, but the on-fire China sealed the match with 7 - 3 and brought home World Champion title for second time as they have won it previously in 2012.
+Lost their first chance to win, Indonesia changed the strategy by picked different song in the first pick (Hitori Tori - perthed again (yambabom remix) (CLSW) \[Nervous Breakdown\]) in hope they could get their first point, but China was able to convert it to their point and made 4 - 1 lead shortly. Indonesia didn't want to give up, tried everything they can and they successfully chased their deficit to 4 - 3. Indonesia tried their last chance to win the remaining rounds in order to win the World Cup, but the on-fire China sealed the match with 7 - 3 and brought home World Champion title for second time as they have won it previously in 2012.
 
 ![](https://puu.sh/pK4V0/ff02f4bf04.png)
 
-An honorable mention to Dusk (China) as the player who successfully made SS in same song (T.M.Revolution x Mizuki Nana - Preserved Roses (Xinely) [Collab Insane]) three times in a row.
+An honorable mention to Dusk (China) as the player who successfully made SS in same song (T.M.Revolution x Mizuki Nana - Preserved Roses (Xinely) \[Collab Insane\]) three times in a row.
 
 ![](https://puu.sh/pGKjK/91b509024b.jpg)
 

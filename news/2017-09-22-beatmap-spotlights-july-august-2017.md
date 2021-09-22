@@ -20,14 +20,14 @@ Each month, a selection of volunteers work alongside the Quality Assurance Team 
 
 First of all, congratulations to the winners of the June 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [Maitroxsk](https://osu.ppy.sh/users/4875451)
-+ **osu!catch:** [\_Asriel](https://osu.ppy.sh/users/566276)
-+ **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [Maitroxsk](https://osu.ppy.sh/users/4875451)
+- **osu!catch:** [\_Asriel](https://osu.ppy.sh/users/566276)
+- **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
 
-# July 2017 Spotlight
+## July 2017 Spotlight
 
-## osu!
+### osu!
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/myoujin-henka.jpg)](https://osu.ppy.sh/beatmapsets/559843)
 
@@ -57,7 +57,7 @@ The rhythms are given enough thought to ensure they both represent the song, as 
 
 While it may not be innovative, **[Delis](https://osu.ppy.sh/users/1603923)** has presented us with yet another well made map this month filled, with his nostalgia-focused design choices. What makes Delis's maps stand out from the masses of modern maps is their old-style object composition and slider design, which resemble maps from an age most current osu! players have never gotten a chance to see.
 
-## osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/soumatou-labyrinth.jpg)](https://osu.ppy.sh/beatmapsets/625493)
 
@@ -91,7 +91,7 @@ Difficult rhythms, dense patterns, streams and various combined note snaps: My S
 
 **[Akemi_Homura](https://osu.ppy.sh/users/707980)** has put out a great entry into Ranked this month with Sayonara Memories! The simple 1/2 + 1/4 patterns are neatly mapped with appropriate consistency and the song parts were divided very well by patterning within the map itself, making it very interesting to play. It is also good practice for Double Time, since the map has many rest sections dividing the more difficult ones. There's bound to be something for everyone in this one!
 
-## osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/fingerbang.jpg)](https://osu.ppy.sh/beatmapsets/559525)
 
@@ -107,7 +107,7 @@ When you think of "marathons" in osu!catch, a Platter difficulty at 88.5 BPM doe
 
 Despite the lower difficulty level, the map offers a wide variety of patterns and emphasis to keep the player interested over the course of almost six minutes, from short and sharp dashes on synth and percussion sounds, to long, twisting vocal-mapped sliders. Each section of the map is pitched well to the emotion and intensity of the music, resulting in a relaxing yet enjoyable experience that can provide a test of stamina to less-experienced players.
 
-## osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/I.jpg)](https://osu.ppy.sh/beatmapsets/426638)
 
@@ -127,9 +127,9 @@ Just when we all thought the days of mapping SDVX songs with the SFX were over, 
 
 Furthermore, it utilizes some simple stutter Slider Velocity changes where appropriate. With a heavy focus on visuals as well as having some minijacks and basic Long Note holds and releases, the map provides a unique and varied gameplay experience.
 
-# August 2017 Spotlights
+## August 2017 Spotlights
 
-## osu!
+### osu!
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/sonata-no-14-in-cis-moll.jpg)](https://osu.ppy.sh/beatmapsets/518426)
 
@@ -161,7 +161,7 @@ The same style is used for every difficulty, which makes the mapset feel very co
 
 [Cherry Blossom](https://osu.ppy.sh/users/1156742) has yet again managed to create a map which is not only insanely clean but also very fun to play in general, with an absolutely clever use of symmetry and a very fitting use of spacing for the streams, underlining properly the intensity of the various instruments. If you like challenging stream maps, you can't go wrong with this one!
 
-## osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/true-blue.jpg)](https://osu.ppy.sh/beatmapsets/643803)
 
@@ -204,7 +204,7 @@ A quite solid mapset brought up by [komasy](https://osu.ppy.sh/users/1980256) th
 
 Black Lotus shines with its well designed structure and snapping changes, making it fairly easy to read. However, the density of the notes coupled with the high BPM still make it quite challenging and a good training map for those who want to train their 1/6 beat snapping mechanics.
 
-## osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/hikaru-nara.jpg)](https://osu.ppy.sh/beatmapsets/519023)
 
@@ -226,7 +226,7 @@ Despite the rather repetitive nature of the song, Spectator uses just the right 
 
 Accelerating its way to the Spotlights is this mapset by a huge collective of mappers! From [JBHyperion](https://osu.ppy.sh/users/4879508), [NurseHyperion](https://osu.ppy.sh/users/4880672), [- Magic Girl -](https://osu.ppy.sh/users/3095784), [WildOne94](https://osu.ppy.sh/users/3482692), [Withered Lotus](https://osu.ppy.sh/users/3546931), and [Razor Sharp](https://osu.ppy.sh/users/3414261), this map brings a variety of mapping styles on the plate. It features a lot of hectic patterns (contemplated by the higher-than-usual Approach Rate) that compliments the song's fast-paced nature. Just be careful not to get left behind!
 
-## osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2017-09-22-beatmap-spotlights-july-august-2017/swampgator.jpg)](https://osu.ppy.sh/beatmapsets/613792)
 
@@ -248,7 +248,7 @@ Although this map does not even reach 3 stars, it is more difficult than it look
 
 It has a simple but cute storyboard, harmless to your sight while you are playing it. The final section becomes a little bit more complicated with some Long Note releases that can make you drop some accuracy, but every single set of different type of patterns make this map worth enough for this spotlight.
 
---------
+---
 
 And that concludes the Spotlights listing. We hope that you click, drum, catch, and mash your heart out from these maps and nab yourself a shiny new Spotlight medal for your profile page! Look forward to next month's installment!
 

@@ -1,22 +1,20 @@
 # How to record videos of osu!
 
-[Want to use Virtualdub instead of Sony Vegas? Click here!](https://osu.ppy.sh/forum/viewtopic.php?p=252802#p252802)
+[Want to use Virtualdub instead of Sony Vegas? Click here!](https://osu.ppy.sh/community/forums/posts/252802)
 
-Always wanted to make a video for YouTube about osu!, but never figured a good way to make it happen? I'll explain in this thread how you can do that.
-**Please note that there are more ways to do this, this is just my way.**
-[See result of this tutorial here (Watch in HD and fullscreen!)](http://youtube.com/watch?v=JRGhQh69geI)
+Always wanted to make a video for YouTube about osu!, but never figured a good way to make it happen? I'll explain in this thread how you can do that. **Please note that there are more ways to do this, this is just my way.** [See result of this tutorial here (Watch in HD and fullscreen!)](https://youtube.com/watch?v=JRGhQh69geI).
 
 ## Requirements
 
--   Recording software
-    - OBS
-    - Fraps
-    - Action!
-    - Bandicam
--   Editing/Rendering software (Never ever use Windows Moviemaker, it will lower the quality of the video drastically!)
-    - Sony Vegas
-    - Adobe Premier
-    - AVS Video Editor
+- Recording software
+  - OBS
+  - Fraps
+  - Action!
+  - Bandicam
+- Editing/Rendering software (Never ever use Windows Moviemaker, it will lower the quality of the video drastically!)
+  - Sony Vegas
+  - Adobe Premier
+  - AVS Video Editor
 
 ### Configuring Fraps
 
@@ -26,12 +24,12 @@ Open Fraps, and lets screw around with the settings.
 
 Make sure that:
 
--   You make the Video Capture Hotkey a key that won't be in the way;
--   If you get a output video that has a jumpy framerate, that you limit the framerate to 30. If this isn't the case, just use 60 FPS;
--   If you get a output video that has a low framerate, that you record 'half-size'. The video will be the half of the resolution its recorded from (alternatively: you could run osu! in a lower resolution when recording);
--   You have enough free space left on your harddisc. If not, the video will end early when there isn't anymore space left to store;
--   No Cursor is checked
--   YOU RECORD SOUND! There is nothing worse then osu! videos with later added music.
+- You make the Video Capture Hotkey a key that won't be in the way;
+- If you get a output video that has a jumpy framerate, that you limit the framerate to 30. If this isn't the case, just use 60 FPS;
+- If you get a output video that has a low framerate, that you record 'half-size'. The video will be the half of the resolution its recorded from (alternatively: you could run osu! in a lower resolution when recording);
+- You have enough free space left on your harddisc. If not, the video will end early when there isn't anymore space left to store;
+- No Cursor is checked
+- YOU RECORD SOUND! There is nothing worse then osu! videos with later added music.
 
 ## Recording your gameplay
 
@@ -55,15 +53,12 @@ You can do some optional editing now.
 
 ## Rendering your video
 
-Now that you are done editing the video, go to 'File', then click 'Render As'
-Use the following options (depending on your Vegas version):
+Now that you are done editing the video, go to 'File', then click 'Render As'. Use the following options (depending on your Vegas version):
 
 ![Rendering video clip](img/Recording_5.png "Rendering video clip")
 
 ![Rendering video clip](img/Recording_6.png "Rendering video clip")
 
-Press the save button, and your video will be done in a couple of minutes. It's now ready for YouTube!
-Please note that it will take some time before the video will be available in high res on YouTube, be patient!
+Press the save button, and your video will be done in a couple of minutes. It's now ready for YouTube! Please note that it will take some time before the video will be available in high res on YouTube, be patient!
 
-**Now, go make videos and spread osu!**
-Guide done by [Remco32](https://osu.ppy.sh/users/9199), original thread [here](https://osu.ppy.sh/community/forums/topics/18112)
+**Now, go make videos and spread osu!.** Guide done by [Remco32](https://osu.ppy.sh/users/9199), original thread [here](https://osu.ppy.sh/community/forums/topics/18112)

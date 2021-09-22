@@ -46,7 +46,7 @@ But as always, don't take our word for it, give these a listen:
     <source src="https://assets.ppy.sh/artists/54/previews/1555.mp3" type="audio/mpeg">
 </audio>
 
--------
+---
 
 You know the drill by now — all of the above and so much more are available *right now* over at [**Ricky Montgomery**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/54), so click the damn link and go map some!
 

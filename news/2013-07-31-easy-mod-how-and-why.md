@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Easy Mod: How and Why"
-date: 2013-07-31 00:00:00 +0000
+date: 2013-07-31 05:50:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56948486143/easy-mod-how-and-why
 ---
 
 The Easy mod is notorious for actually making most maps harder, creating massive overlaps and unreadable patterns, all in exchange for nearly halving your final score. But if you take the time to learn it and take advantage of its special features, is it really that useless?
+
+![](https://osu.ppy.sh/images/headers/news-show-default.jpg)
 
 **What is Easy Mod?**
 
@@ -29,17 +31,14 @@ Here is where most people get stuck; on complicated maps, especially ones with m
 
 Here are a few tips to make reading the Easy mod a little bit easier, too:
 
-*   Know the map's rhythm. This is the most important one by far. Sightreading with the Easy mod is definitely possible, but it is very difficult, and requires lots of training. For people trying to learn to use it, I heavily recommend that you practice on a song that you already know very well. Remember the general flow of each part of the map, what patterns may end up overlapping and being difficult, etc. Then play with Easy mod, and try to remember how the map goes and play it along to the rhythm you remember, rather than trying to read every circle for what it is and figuring it out on the fly.
-
-*   Count by combo numbers. This one is a strong second to know. Some skins remove combo numbers altogether, and this is a very terrible idea for playing Easy mod! Until you get completely comfortable with reading slow approach circles, combo numbers will be your best friend. If you're about to hit note #4 in a combo, then next obviously comes #5, so scan the playfield ahead of time in order to locate that note. Proceed onward to do the same for #6, #7, and so on.
-
-*   Use multiple contrasting combo colors. This may seem a bit strange, but it ties heavily in with the previous point. Some maps have very short combos, which make it hard to use combo numbers – they keep resetting back to 1! For this reason, make sure that you are using a skin where the combo colors are easily distinguishable, even via peripheral vision, and have the order of the colors (e.g. red -> blue -> green -> orange -> red) absolutely committed to heart.
-
-*   When in doubt, memorize! Even after years of practice with the Easy mod, and using all the above tips, there will still be some patterns that are just so obtuse and complex that they're impossible to read properly. In these cases, don't even bother reading them – just remember the pattern! Open up that pattern in the editor, and use Test mode to play it over and over again until you know the exact cursor movements required to hit it, then practice it again with Easy mod; you may very well find that your hand still remembers, even if you don't clearly, and you'll hit patterns you wouldn't have dreamed of.
+- Know the map's rhythm. This is the most important one by far. Sightreading with the Easy mod is definitely possible, but it is very difficult, and requires lots of training. For people trying to learn to use it, I heavily recommend that you practice on a song that you already know very well. Remember the general flow of each part of the map, what patterns may end up overlapping and being difficult, etc. Then play with Easy mod, and try to remember how the map goes and play it along to the rhythm you remember, rather than trying to read every circle for what it is and figuring it out on the fly.
+- Count by combo numbers. This one is a strong second to know. Some skins remove combo numbers altogether, and this is a very terrible idea for playing Easy mod! Until you get completely comfortable with reading slow approach circles, combo numbers will be your best friend. If you're about to hit note #4 in a combo, then next obviously comes #5, so scan the playfield ahead of time in order to locate that note. Proceed onward to do the same for #6, #7, and so on.
+- Use multiple contrasting combo colors. This may seem a bit strange, but it ties heavily in with the previous point. Some maps have very short combos, which make it hard to use combo numbers – they keep resetting back to 1! For this reason, make sure that you are using a skin where the combo colors are easily distinguishable, even via peripheral vision, and have the order of the colors (e.g. red -> blue -> green -> orange -> red) absolutely committed to heart.
+- When in doubt, memorize! Even after years of practice with the Easy mod, and using all the above tips, there will still be some patterns that are just so obtuse and complex that they're impossible to read properly. In these cases, don't even bother reading them – just remember the pattern! Open up that pattern in the editor, and use Test mode to play it over and over again until you know the exact cursor movements required to hit it, then practice it again with Easy mod; you may very well find that your hand still remembers, even if you don't clearly, and you'll hit patterns you wouldn't have dreamed of.
 
 **What are some good practice maps?**
 
-Hmm... now this is a tough one. Really, there's no one standard of maps that are simple and fun to read. I personally really enjoy playing [Kirby MIXes](https://osu.ppy.sh/p/beatmaplist?q="kirby%20mix"&m=-1&r=0&g=0&la=0&success=1512684053) with Easy, as they contain very few overlaps, and were created for AR8 (rather than the modern standard of AR9) so it's less of a stretch to use the lower AR. Other maps include anything by [mtmcl](https://osu.ppy.sh/p/beatmaplist?q=mtmcl&m=-1&r=0&g=0&la=0), thanks to the simple patterns and lack of overlap, as well as [Avicii - Levels (Nightcore Mix)](https://osu.ppy.sh/beatmaps/169505), which, although not the greatest map, is very simple and repetitive, and great to help ease into the Easy mod. I highly recommend playing maps that you're personally comfortable with, though, as anything I can suggest may very well be unreadable to you!
+Hmm... now this is a tough one. Really, there's no one standard of maps that are simple and fun to read. I personally really enjoy playing [Kirby MIXes](https://osu.ppy.sh/p/beatmaplist?q="kirby%20mix"&m=-1&r=0&g=0&la=0&success=1512684053) with Easy, as they contain very few overlaps, and were created for AR8 (rather than the modern standard of AR9) so it's less of a stretch to use the lower AR. Other maps include anything by [mtmcl](https://osu.ppy.sh/p/beatmaplist?q=mtmcl&m=-1&r=0&g=0&la=0), thanks to the simple patterns and lack of overlap, as well as [Avicii - Levels (Nightcore Mix)](https://osu.ppy.sh/beatmapsets/55644#osu/169505), which, although not the greatest map, is very simple and repetitive, and great to help ease into the Easy mod. I highly recommend playing maps that you're personally comfortable with, though, as anything I can suggest may very well be unreadable to you!
 
 **And finally, what skin works well?**
 

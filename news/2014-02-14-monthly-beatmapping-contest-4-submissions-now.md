@@ -11,19 +11,19 @@ The song choice for this month is Kuba Oms - My Love, from the as-of-yet unrelea
 
 <iframe style="border: 0; width: 100%; height: 142px;" src="https://bandcamp.com/EmbeddedPlayer/album=3027743476/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/t=1/transparent=true/" seamless=""><a href="https://kubaoms.bandcamp.com/album/adhd" target="_blank">ADHD by Kuba Oms</a></iframe>
 
-## Prizes:
+## Prizes
 
--   6 months of supporter for you or a friend
--   An [osu!tablet](https://puu.sh/4KJjJ/fc3db59aa0.jpg) (when available).
--   'Elite Mapper' title
--   **Winning mapset is bundled with the osu! game client download!**
+- 6 months of supporter for you or a friend
+- An [osu!tablet](https://puu.sh/4KJjJ/fc3db59aa0.jpg) (when available).
+- 'Elite Mapper' title
+- **Winning mapset is bundled with the osu! game client download!**
 
-## Rules:
+## Rules
 
--   You must map 3 difficulties in an appropriate spread - either ENH (easy, normal and hard) or NHI (normal, hard, insane).
--   Collaboration is allowed, but will only be registered under the name of the person who submitted the beatmap.
--   Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything comparable.
--   Maps submitted to the contest must not submitted to the BSS until the contest has concluded.
+- You must map 3 difficulties in an appropriate spread - either ENH (easy, normal and hard) or NHI (normal, hard, insane).
+- Collaboration is allowed, but will only be registered under the name of the person who submitted the beatmap.
+- Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything comparable.
+- Maps submitted to the contest must not submitted to the BSS until the contest has concluded.
 
 Download the base beatmap and enter [here!](https://osu.ppy.sh/p/contest?c=10).
 

@@ -13,14 +13,14 @@ The beatmap charts for the February Spotlights can be found [here](https://osu.p
 ## Past Spotlights results
 
 First of all, congratulations to the winners of the January 2018 Spotlights. They receive one month of supporter status for their efforts!
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [nananass](https://osu.ppy.sh/users/7231722)
-+ **osu!catch:** [skvix](https://osu.ppy.sh/users/4447639)
-+ **osu!mania:** [ZYuan](https://osu.ppy.sh/users/3337688)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [nananass](https://osu.ppy.sh/users/7231722)
+- **osu!catch:** [skvix](https://osu.ppy.sh/users/4447639)
+- **osu!mania:** [ZYuan](https://osu.ppy.sh/users/3337688)
 
-# February 2018 Spotlights
+## February 2018 Spotlights
 
-## osu!
+### osu!
 
 [![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/future-candy.jpg)](https://osu.ppy.sh/beatmapsets/546820)
 
@@ -54,7 +54,7 @@ If you're looking for an aim challenge, the Extra difficulty is a lot easier on 
 
 Showcasing highly organized patterns and clear attention to the song's details, this map is an excellent addition to this month's Spotlights!
 
-## osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/lets-jump.jpg)](https://osu.ppy.sh/beatmapsets/688928)
 
@@ -96,7 +96,7 @@ Last but certainly not least, this February we're showcasing this month [Kazu](h
 
 The song provides plenty of musical and rhythmic variety throughout its various sections, and the improvisational nature of their mapping styles lend to difficulties which represent this song to its fullest potential. The lower difficulties also shine on their own, making this set one that players of all levels can enjoy.
 
-## osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/kanpan.jpg)](https://osu.ppy.sh/beatmapsets/633255)
 
@@ -128,7 +128,7 @@ All you want to see about a modern-styled map can be found in this set, with app
 
 Despite some similarities, "Sennen no Kotowari" is a noticeably more subdued mapset in comparison. Gone are the energetic wubs and harsh hyperdashes and in their place are beautifully clean streams and pattern choices that really shine across all difficulties. With a wonderfully natural flow it should be second nature to any avid catch player.
 
-## osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/yume.jpg)](https://osu.ppy.sh/beatmapsets/619531)
 
@@ -140,7 +140,7 @@ After a two-year break between his last ranked map and now, [liaoxingyao](https:
 
 Its low level of difficulty makes it an accessible mapset for almost any level player, and is why it's found itself a spot in this month's spotlights.
 
---------
+---
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the future.
 

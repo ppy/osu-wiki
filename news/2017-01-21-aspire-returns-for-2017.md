@@ -33,19 +33,19 @@ A true test of beatmapping skill.
 
 The rules are thus:
 
-* This contest is for **osu!** (standard) mode only.
-* The osu! Ranking Criteria **DOES NOT APPLY** to this contest.
-* You may submit **ONE** difficulty to the contest. This may be of any difficulty tier that you wish, though Aspire contests typically attract Expert (5.25+) and above.
-* The map itself must be able to be passed, with mods or otherwise. Maps which autofail (defined as immediately failing at the end of the map when played by Auto) will be immediately disqualified, no questions asked.
-* **Any entries with additional resources (hitsounds, storyboards, etc) must be submitted in .osz format, with a size no greater than 20mb.** Accounting for song size, you have roughly **11mb** of asset space available for your use. Petitions for additional space must be sent via forum PM to [Ephemeral](https://osu.ppy.sh/users/102335).
-* The drain time of your entry must be at least 70% of the song's total length. Basically, you have to map at LEAST 70% of the song.
+- This contest is for **osu!** (standard) mode only.
+- The osu! Ranking Criteria **DOES NOT APPLY** to this contest.
+- You may submit **ONE** difficulty to the contest. This may be of any difficulty tier that you wish, though Aspire contests typically attract Expert (5.25+) and above.
+- The map itself must be able to be passed, with mods or otherwise. Maps which autofail (defined as immediately failing at the end of the map when played by Auto) will be immediately disqualified, no questions asked.
+- **Any entries with additional resources (hitsounds, storyboards, etc) must be submitted in .osz format, with a size no greater than 20mb.** Accounting for song size, you have roughly **11mb** of asset space available for your use. Petitions for additional space must be sent via forum PM to [Ephemeral](https://osu.ppy.sh/users/102335).
+- The drain time of your entry must be at least 70% of the song's total length. Basically, you have to map at LEAST 70% of the song.
 
 Unlike previous Aspire contests, **this contest will be judged primarily by double-blind community voting**, similar to the previous Community Beatmapping Contest. Intrepid mappers will need to pull out all the stops to keep their audience engaged - or risk losing it all.
 
 The top 2 maps voted for shall receive the following prizes:
 
-* **1st place:** 6 months of osu! supporter, unique Aspire 2017 profile badge, osu!news showcase featuring their winning entry and an *Elite Mapper: Aspirant* forum title (or special incrementation if they already have an Aspirant/Elite Mapper title), mapset enshrined forevermore as an "Aspire" class Approval map.
-* **2nd place:** 3 months of osu!supporter, mapset enshrined forevermore as a Loved beatmap
+- **1st place:** 6 months of osu! supporter, unique Aspire 2017 profile badge, osu!news showcase featuring their winning entry and an *Elite Mapper: Aspirant* forum title (or special incrementation if they already have an Aspirant/Elite Mapper title), mapset enshrined forevermore as an "Aspire" class Approval map.
+- **2nd place:** 3 months of osu!supporter, mapset enshrined forevermore as a Loved beatmap
 
 **Honorable Mentions** as judged by an independent panel shall also receive 1 month of osu!supporter each, as well as a mention in the announcement post. Exceptional mentions may also receive a variant of the 2nd place prize, including entry into the Loved category.
 

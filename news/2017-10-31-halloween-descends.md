@@ -73,10 +73,10 @@ _(You can get a full-size, high-quality version of the image from [Anny's Devian
 
 How does it work? It's really simple:
 
-* **Update the game by opening the game client first!** This new fancy Discord business only works with the special Halloween version of the game and any newer builds going forward - it will **NOT** work at all if you do not do this.
-* Make sure Discord detects osu! as a registered game on your system - it generally does this by default, so you shouldn't need to worry about it. You can check this in the ``App Settings -> Games`` tab of the Discord options menu.
-* Turn on the *Display currently running game as status message* option in the ``Games`` tab.
-* Start any game of multiplayer, head on over to your local Discord haunt and click the shiny green button in front of the plus sign (![](/wiki/shared/news/2017-10-31-halloween-descends/rpc-button.png)). It may take a few seconds to appear if you've only just started a game.
+- **Update the game by opening the game client first!** This new fancy Discord business only works with the special Halloween version of the game and any newer builds going forward - it will **NOT** work at all if you do not do this.
+- Make sure Discord detects osu! as a registered game on your system - it generally does this by default, so you shouldn't need to worry about it. You can check this in the ``App Settings -> Games`` tab of the Discord options menu.
+- Turn on the *Display currently running game as status message* option in the ``Games`` tab.
+- Start any game of multiplayer, head on over to your local Discord haunt and click the shiny green button in front of the plus sign (![](/wiki/shared/news/2017-10-31-halloween-descends/rpc-button.png)). It may take a few seconds to appear if you've only just started a game.
 
 Your friends can now click on the 'Join' button to stand by you in battle against the horrors of the night! Or to fight over host, or whatever. Halloween is a night of horrors after all, and we don't judge.
 

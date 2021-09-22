@@ -11,7 +11,7 @@ Some [absolutely incredible entries](https://osu.ppy.sh/community/contests/36) c
 
 <a href="https://assets.ppy.sh/user-contest-entries/1029/9746ef99d001139f9bf70bc809f2bab7958e77254e55f2c31ae1bc5de92a066c.jpg"><img src="https://puu.sh/t1ldz/33ffa8e588.jpg"></a>
 
-Taking **first place** by storm, [\[ Piyori \]](https://osu.ppy.sh/users/4457608) awed people across the world with their incredible portrayal of a rugged-up pippi reflected in the mirror sheen of a Christmas bauble. Wow. We also featured [ Piyori ]'s work as part of the hand-picked entries that made it to the main-menu.
+Taking **first place** by storm, [\[ Piyori \]](https://osu.ppy.sh/users/4457608) awed people across the world with their incredible portrayal of a rugged-up pippi reflected in the mirror sheen of a Christmas bauble. Wow. We also featured \[ Piyori \]'s work as part of the hand-picked entries that made it to the main-menu.
 
 <a href="https://assets.ppy.sh/user-contest-entries/998/cb7b02bc5ea60547fcd1d114ac835637ce5898397d8bca197eedfa5cdb205419.jpg"><img src="https://puu.sh/t1ldM/b7d4ffedac.jpg"></a>
 

@@ -13,14 +13,14 @@ The beatmap charts for the January Spotlights can be found [here](https://osu.pp
 ## Past Spotlights results
 
 First of all, congratulations to the winners of the December 2017 Spotlights. They receive one month of supporter status for their efforts!
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [n1doking](https://osu.ppy.sh/users/5991961)
-+ **osu!catch:** [Guillotine](https://osu.ppy.sh/users/4365562)
-+ **osu!mania:** [\[MY\]Idiot](https://osu.ppy.sh/users/2059742)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [n1doking](https://osu.ppy.sh/users/5991961)
+- **osu!catch:** [Guillotine](https://osu.ppy.sh/users/4365562)
+- **osu!mania:** [\[MY\]Idiot](https://osu.ppy.sh/users/2059742)
 
-# January 2018 Spotlights
+## January 2018 Spotlights
 
-## osu!
+### osu!
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/yakumo.jpg)](https://osu.ppy.sh/beatmapsets/688877)
 
@@ -52,7 +52,7 @@ An absolute treat of a map to play, and to watch as well! The storyboard, also d
 
 YUC'e - Sengoku HOP, brought to us by [Nathan](https://osu.ppy.sh/users/4785223), [Gamu](https://osu.ppy.sh/users/611174) and [appleeaterx](https://osu.ppy.sh/users/2407160), clearly shows how cuteness and glitch hop music is done, with their breathtakingly wonderful works! This map features rather gimmicky and technical patterns, including stacks and high-speed sliders. Try it out if you want to challenge your reading skills and all other abilities!
 
-## osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/come-and-get-it.jpg)](https://osu.ppy.sh/beatmapsets/417377)
 
@@ -92,7 +92,7 @@ Being the only nominated taiko mapset with no X-rated difficulty, it stands out 
 
 Despite the short song length, it is a well-made mapset that shows his expertise in taiko mapping, as well as understanding of musical emotion. Definitely worth mentioning in this month's Spotlights!
 
-## osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/algebra.jpg)](https://osu.ppy.sh/beatmapsets/468281)
 
@@ -118,7 +118,7 @@ You've had to have lived under a rock (underneath another rock) to not heard of 
 
 With twisting and turning patterns of streams combined with engaging patterns on even the calmest of parts, this map just keeps you on your toes for its entirety. It also uses quite the unconventional style, using mostly circles instead of sliders on larger part of the map, and with movement not commonly seen in most osu!catch maps. Excellent job by Kyuare for his rendition of this highly-popular song!
 
-## osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/fuego.jpg)](https://osu.ppy.sh/beatmapsets/622946)
 
@@ -142,7 +142,7 @@ As it looks to be a trend, SV sets seem to have very amazing lower difficulties 
 
 Taking my time to congratulate you too Toaph and I am personally looking forward to more stuff from you!
 
---------
+---
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the near future. Until then, happy clicking, drumming, catching, and hitting the piano notes! Do not forget to have a rest occasionally!
 

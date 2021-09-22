@@ -1,22 +1,21 @@
 ---
 layout: post
 title: "Mara's Gaming Corner - July"
-date: 2013-07-31 00:00:00 +0000
+date: 2013-07-31 05:52:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56948588121/maras-gaming-corner-july
 ---
 
 People have been waiting for Cube World's release for two years now. An endless journey on unknown land with action-based combat makes people wait for a reason. However, nobody expected Cube World to suddenly come out on the start of July as alpha version. Does Cube World live with promises or will the alpha version kill all hope for this game?
+
+![](/wiki/shared/news/2013-07-31-maras-gaming-corner-july/CubeWorld1.jpg)
 
 Cube World (PC) Developed by Picroma
 
 Minimum System Requirements
 
 - Windows XP SP2 or newer
-
 - Intel® Core 2 Duo 2.0 GHz, Core i3 OR AMD Athlon 64 X2
-
 - NVIDIA® GeForce® 7800, ATI X1800, Intel HD 3000 (256 MB of video RAM and shader model 3.0)
-
 - 2 GB RAM
 
 Hello, gamers! Today I will tell you about an amazing game. It's an experience that people have awaited for the last two years. It's an action-packed adventure with voxels and has surprisingly good gameplay for an alpha! Guess what game it is! Minecraft, perhaps? Good guess, but the correct answer is Cube World, which just got released on PC recently. Speaking of Minecraft, people tend to claim that Cube World is just a massive rip-off of Minecraft. The truth is that the only similarity with Minecraft are the voxels. Cube World focuses on completely different elements.
@@ -31,10 +30,9 @@ The game also supports infinite levels. However, this doesn't mean that you can 
 
 Cube World has a combat that focuses on player skill and free movement. Of course, you are not able to defeat insanely high level bosses at level 3, but in most cases you are able to dodge enemy attacks and strike at the right moment. This is one of the reasons why I like this game; the game rewards you for being a skillful player. It feels great to take down an incredibly difficult boss who throws high damage boomerangs at you all by yourself. I wish enemies wouldn't be so simple though. Bosses would be much better if there would be more special attacks that are deadly if not avoided. I also noticed that only a few enemies actually try to dodge your attacks. Enemies that dodge add more intensity to the battle, and I wish it would be a norm for more difficult enemies.
 
-**  
-![image](/wiki/shared/news/2013-07-31-maras-gaming-corner-july/CubeWorld1.jpg)**
+![](/wiki/shared/news/2013-07-31-maras-gaming-corner-july/CubeWorld1.jpg)
 
-_You are able to defeat most monsters in the world if you are skilled enough._
+*You are able to defeat most monsters in the world if you are skilled enough.*
 
 The game also supports crafting, even though there aren't too many things to craft yet. You can craft potions, armor, amulets and other stuff that will come in handy later on. Not only that, but you can customize your weapon with special cubes you can find in caves. You can place the cubes on your weapon freely, leading to your own interesting designs. I hope this feature will also be added on other gear in the future.
 
@@ -42,10 +40,9 @@ For now, there are four different classes; Warrior, Mage, Ranger and Rogue. Warr
 
 Speaking of riding, one of the features I like are the pets. There are all kinds of animals you can obtain, that do many different things. Some do melee damage, some do ranged damage, some are ridden and there is even one that can heal you! To get a pet in Cube World, first you have to find out what food each animal likes. Then you have to obtain the food and then offer it to the animal. This is really simple but also insanely addicting. It's almost like playing Pokémon all over again; especially along with the fact that they are able to level up!
 
-**  
-![image](/wiki/shared/news/2013-07-31-maras-gaming-corner-july/CubeWorld2.jpg)**
+![](/wiki/shared/news/2013-07-31-maras-gaming-corner-july/CubeWorld2.jpg)
 
-_Multiplayer is great fun if you get the right people to play with you._
+*Multiplayer is great fun if you get the right people to play with you.*
 
 Cube World already has 4 player multiplayer support both online and LAN, but it's been a buggy ride so far. The biggest issue with multiplayer is that all players get experience points from completing a quest. This means that everyone else can just stay in town while one player goes and completes a quest. I have encountered some players who have been asking for powerleveling and I find this really sad. I also heard from a friend that one of his friends went to a modded server which had about 100 players and then came back with level 800 without doing anything. I hope this will be fixed, so only the people doing hard work are getting rewarded. Not only that, but servers like to crash when someone disconnects.
 

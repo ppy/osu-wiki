@@ -2,7 +2,7 @@
 
 ![Design tab](img/SE_base.jpg "Design tab")
 
-The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Beatmap_Editor), under the Design tab, which enables simple [Storyboarding](/wiki/Storyboards). It is a good introduction to the fundamental concept before the more advanced [Storyboard Scripting](/wiki/Storyboard_Scripting).
+The **Storyboard Editor** is a section of the in-game [Beatmap Editor](/wiki/Beatmap_Editor), under the Design tab, which enables simple [Storyboarding](/wiki/Storyboard). It is a good introduction to the fundamental concept before the more advanced [Storyboard Scripting](/wiki/Storyboard/Scripting).
 
 It would be favorable to do crash courses out of every commands using random images at least once before attempting some serious storyboarding. It would help you memorise and understand the usage better.
 
@@ -31,7 +31,7 @@ It would be favorable to do crash courses out of every commands using random ima
 #### Timeline
 
 | Name | Description |
-| --- | --- |
+| :-- | :-- |
 | `+`/`-` buttons at left | Increase/Decrease timeline zoom |
 | `Up`/`Down` arrow buttons left-below | Scroll up/down the transformation timeline (to see Move/Colour timeline). |
 | Centre | Transformation Timeline for the selected SB object. |
@@ -41,7 +41,7 @@ It would be favorable to do crash courses out of every commands using random ima
 This will be used for **adding anchor points (Start/End points).** It works pretty much the same way as bookmarks. The buttons are just under the timeline.
 
 | Name | Description |
-| --- | --- |
+| :-- | :-- |
 | `+`/`-` buttons | Add/Delete anchor points for the selected transformation. |
 | `Left`/`Right` arrow buttons | Jump backward/forward to nearest anchor point of selected transformation. |
 
@@ -92,17 +92,17 @@ To use them:-
 ##### Transformation effects (timeframe-based)
 
 | Command | Usage |
-| --- | --- |
-| Move | Translation [where to go (e.g., move up)]. |
+| :-- | :-- |
+| Move | Translation \[where to go (e.g., move up)\]. |
 | Scale | Proportional enlargement (a square is still a square). |
 | Fade | Fade in/out. (darken vs brighten) |
 | Rotate | Rotate a certain number of "Radians" (not degrees). |
 | Colour | Force colouring to the sprite. Can change colour gradually using different colour as end-point. "Permanent effect". Basic explanation. |
 
-##### Additional effects (hover over left bar):
+##### Additional effects (hover over left bar)
 
 | Command | Usage |
-| --- | --- |
+| :-- | :-- |
 | Vector Scale | Irregular enlargement (a square becomes a rectangle). |
 | Horizontal/Vertical Flip | Reflection at x-axis/y-axis respectively |
 
@@ -111,7 +111,7 @@ To use them:-
 ![Extra commands](img/SE_AO.jpg "Extra commands")
 
 | Command | Usage |
-| --- | --- |
+| :-- | :-- |
 | Tweening | You have two Keyframes (ie Start/End), do you want to animate between them? If so, turn on Tweening. If not, then turn it off. |
 | Easing In/Out | Start slow/fast then fast/slow near end point. Useful with Fade In. |
 | Origin | Point of origin. "Top-Left" corner or "Centre" of image |
@@ -120,8 +120,8 @@ To use them:-
 **Note:**
 
 - Colour: "Permanent effect" - The colour you set will still be in effect even after it's timeline is over. This is quite useful for transparent image.
-- `.osb` (osu!beatmap event base): "Design" base (BG, Video, SB) for each difficulty of the beatmap set to follow.
-- `.osu` (osu!beatmap difficulty): Difficulty-specific file. Holds *a lot* of information.
+- `.osb`: "Design" base (BG, Video, SB) for each difficulty of the beatmap to follow.
+- `.osu`: Difficulty-specific file. Holds *a lot* of information.
 
 ### Centre (Storyboard of the beatmap)
 
@@ -148,10 +148,10 @@ Plays the beatmap. Outro storyboarding requires storyboard scripting. Playback S
 ## Limitations
 
 - No sound effect support, this is not a big problem as sound effects can distract players, especially if they are near [hit objects](/wiki/Hit_Objects). Use of sound effects should be done by advanced mappers only and with the guidance of a BAT.
-- No [loop](/wiki/Storyboard_Scripting/Compound_Commands) or [trigger](/wiki/Storyboard_Scripting/Compound_Commands) support.
-- No [Move-X](/wiki/Storyboard_Scripting/Commands)/[Move-Y](/wiki/Storyboard_Scripting/Commands) commands.
+- No [loop](/wiki/Storyboard/Scripting/Compound_Commands) or [trigger](/wiki/Storyboard/Scripting/Compound_Commands) support.
+- No [Move-X](/wiki/Storyboard/Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting/Commands) commands.
 - Sprite coordinate is *always* 320,240. You will need to use Move command once to set the location (endpoint not required).
-  - If you are *also* doing [Storyboard Scripting](/wiki/Storyboard_Scripting), you will need to *read an extra line* per object done in Design tab.
+  - If you are *also* doing [Storyboard Scripting](/wiki/Storyboard/Scripting), you will need to *read an extra line* per object done in Design tab.
 
 ## Source
 

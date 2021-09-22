@@ -4,49 +4,49 @@ No momento, sample-sets do beatmap e sample-sets da skin podem ser customizados.
 
 Os seguintes arquivos podem ser substituídos:
 
-## Normal (alto) sampleset:
+## Normal (alto) sampleset
 
--   normal-hitnormal
--   normal-hitwhistle
--   normal-hitfinish
--   normal-hitclap
-
-esses três samples são aditivos, portanto quando você acertar um slider com whistle você vai ouvir o hitnormal + hitwhistle
-
--   normal-sliderslide (loops)
--   normal-sliderwhistle (loops)
--   normal-slidertick
-
-## Soft sampleset:
-
--   soft-hitnormal
--   soft-hitwhistle
--   soft-hitfinish
--   soft-hitclap
+- normal-hitnormal
+- normal-hitwhistle
+- normal-hitfinish
+- normal-hitclap
 
 esses três samples são aditivos, portanto quando você acertar um slider com whistle você vai ouvir o hitnormal + hitwhistle
 
--   soft-sliderslide (loops)
--   soft-sliderwhistle (loops)
--   soft-slidertick
+- normal-sliderslide (loops)
+- normal-sliderwhistle (loops)
+- normal-slidertick
 
-## Drum sampleset:
+## Soft sampleset
 
--   drum-hitnormal
--   drum-hitwhistle
--   drum-hitfinish
--   drum-hitclap
+- soft-hitnormal
+- soft-hitwhistle
+- soft-hitfinish
+- soft-hitclap
 
 esses três samples são aditivos, portanto quando você acertar um slider com whistle você vai ouvir o hitnormal + hitwhistle
 
--   soft-sliderslide (loops)
--   soft-sliderwhistle (loops)
--   soft-slidertick
+- soft-sliderslide (loops)
+- soft-sliderwhistle (loops)
+- soft-slidertick
 
-## Samples Universais:
+## Drum sampleset
 
--   spinnerspin (esse som tem frequencia alteravel conforme o spinner vai sendo completado. A frequencia vai desde ~500hz até 80000hz quando o sample original é 44100hz)
--   spinnerbonus (o som "ding" dos bonus de spinner)
+- drum-hitnormal
+- drum-hitwhistle
+- drum-hitfinish
+- drum-hitclap
+
+esses três samples são aditivos, portanto quando você acertar um slider com whistle você vai ouvir o hitnormal + hitwhistle
+
+- soft-sliderslide (loops)
+- soft-sliderwhistle (loops)
+- soft-slidertick
+
+## Samples Universais
+
+- spinnerspin (esse som tem frequencia alteravel conforme o spinner vai sendo completado. A frequencia vai desde ~500hz até 80000hz quando o sample original é 44100hz)
+- spinnerbonus (o som "ding" dos bonus de spinner)
 
 ## Formato dos Samples
 

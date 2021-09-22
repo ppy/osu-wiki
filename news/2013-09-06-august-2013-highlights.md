@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "August 2013 Highlights"
-date: 2014-09-06 00:00:00 +0000
+date: 2013-09-06 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/60438764327/august-2013-highlights
 ---
 
@@ -19,7 +19,7 @@ Due to the high frequency of attacks on Bancho in the last month or so, peppy to
 
 ### osu! stickers have been ordered!
 
-At the beginning of the month, peppy announced in [a Community Voice thread](https://t.umblr.com/redirect?z=https%3A%2F%2Fosu.ppy.sh%2Fforum%2Ft%2F146524&t=OWQyMDhiMzU0YTk2OGQ4YTBmMThhNWRkMmY0YWEzNzA1NGE0NjZjYixLbGQ1RGlsaA%3D%3D&b=t%3AIzBfiACgMyVf9sEXdmjc5g&p=http%3A%2F%2Fosunews.tumblr.com%2Fpost%2F60438764327%2Faugust-2013-highlights&m=1) that he was considering ordering osu! stickers. Enough people showed interest that the first batch has already been ordered - keep your eyes peeled, as these stickers should be coming soon! Choices include a set of five different 3"x3" designs from the most recent merchandise contest, and a set of ten 2"x2" osu! logo stickers, just the right size to put on the back of a smartphone.  
+At the beginning of the month, peppy announced in [a Community Voice thread](https://osu.ppy.sh/community/forums/topics/146524) that he was considering ordering osu! stickers. Enough people showed interest that the first batch has already been ordered - keep your eyes peeled, as these stickers should be coming soon! Choices include a set of five different 3"x3" designs from the most recent merchandise contest, and a set of ten 2"x2" osu! logo stickers, just the right size to put on the back of a smartphone.  
   
 
 #### Noteworthy Websites

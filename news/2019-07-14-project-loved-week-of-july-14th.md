@@ -16,12 +16,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -107,7 +107,7 @@ Once in a while comes a map that shakes up the whole osu! community from within.
 
 Tori no Uta is a single difficulty collaboration from three prominent japanese mappers: OK_oreGENKI, eLy and Arieruco. The map features a variety of ultra-low BPM streams, including cutting streams, spaced streams and stream jumps and also some tricky 1/6 beats to top it all off. The map is a great challenge for both the people wanting to improve their low BPM stream ability and the ones seeking a finger control challenge with the DoubleTime mod.
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -150,7 +150,7 @@ dk dk!
 dk dk!  
 The bouncy rhythms that the patterns put together using 1/8 dk have will elegantly and stylishly guide you to pleasure! It has many unique and technical rhythms, so it's also great practice.
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -172,7 +172,7 @@ Zyzyx is by no means a new mapper and is mostly known for maps that are relative
 
 Despite this set being relatively young compared to some of our other picks, it has seen quite some traffic of plays and favourites. With *Be There*, GiGas has made a very enjoyable set that can be considered enjoyable to players of all skill levels thanks to its 6 very different difficulties. The uniqueness of the mapset won't blow your brains out, but it does manage a very satisfactory experience thanks to very nice left-rights which definitely fit the song. If you don't find the top difficulty hard enough there's always the possibility of slapping hard rock and/or hidden on top to spice things up. Don't wait on playing and voting, but be there!
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
@@ -181,14 +181,14 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-07-14-project-loved-week-of-july-14th/mania/1-ghost.jpg)](https://osu.ppy.sh/community/forums/topics/934327)
 
 [Camellia - GHOST](https://osu.ppy.sh/beatmapsets/658081#mania) by [Lynessa](https://osu.ppy.sh/users/6703951)  
-220 BPM, 5:15 | [4K] 5.30★, [4K] 5.76★, [4K] 6.17★, [4K] 6.63★
+220 BPM, 5:15 | \[4K\] 5.30★, \[4K\] 5.76★, \[4K\] 6.17★, \[4K\] 6.63★
 
 One of Trixta's more popular charts (with no small part to the catchy, near-apocalyptic song that comes with it), *GHOST* is a jumpstream/handstream player's delight. Clocking in at 4-5 minutes of dense jumpstreams and handstreams with very few breaks, *GHOST* works excellently as an assessor of jumpstream or handstream ability and a gratifying challenge to players. The mapset contains rates as well (from 1.0 to 1.3) with the hardest difficulty being at a blisteringly fast 286 BPM. If you like jumpstream or handstream, this should absolutely be up your alley.
 
 [![](/wiki/shared/news/2019-07-14-project-loved-week-of-july-14th/mania/2-chik-habit.jpg)](https://osu.ppy.sh/community/forums/topics/934326)
 
 [The Flashbulb - Chik Habit](https://osu.ppy.sh/beatmapsets/732982#mania) by [Gekido-](https://osu.ppy.sh/users/4693052)  
-210 BPM, 2:34 | [4K] 4.17★, [4K] 4.45★
+210 BPM, 2:34 | \[4K\] 4.17★, \[4K\] 4.45★
 
 If you've been playing rhythm games for at least a year or two, you'll know who The Flashbulb is. His early crisp drill-and-bass tunes are hard to forget, and the combination of cinematic elements and IDM in his later works is an approachable yet cathartic listen for many. *Chik Habit* is, in the rhythm game community, one of The Flashbulb's most popular songs. There are multiple charts for *Chik Habit* in osu!mania, StepMania, and Flash Flash Revolution that are mind-numbingly difficult, one of which practically impossible. In this wave, we're nominating a chart for *Chik Habit* that is, while not as freakishly difficult as most charts for *Chik Habit*, a chart that is fair, exciting, complementary, and challenging.
 
@@ -199,7 +199,7 @@ Looking or playing through the chart, it's hard not to see why: Gekido's tactful
 [![](/wiki/shared/news/2019-07-14-project-loved-week-of-july-14th/mania/3-sakurairo-time-capsule.jpg)](https://osu.ppy.sh/community/forums/topics/934325)
 
 [\*namirin - Sakurairo Time Capsule](https://osu.ppy.sh/beatmapsets/831039#mania) by [MisterLuka](https://osu.ppy.sh/users/6117525), [eZmmR](https://osu.ppy.sh/users/8647138), [upan](https://osu.ppy.sh/users/4289829) and [kaythen](https://osu.ppy.sh/users/5782153)  
-170 BPM, 4:20 | [4K] 6.35★, [7K] 4.25★, [7K] 8.22★
+170 BPM, 4:20 | \[4K\] 6.35★, \[7K\] 4.25★, \[7K\] 8.22★
 
 After a very successful round with Ame to Asphalt, MisterLuka returns to Project Loved with another set to look out for! This round, we have *Sakurairo Time Capsule* which follows the usual 4K + 7K O2LN combination but with the aid of another 7K difficulty by kaythen.
 

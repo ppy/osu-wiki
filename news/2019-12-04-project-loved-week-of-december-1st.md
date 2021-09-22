@@ -16,12 +16,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [BeasttrollMC](https://osu.ppy.sh/users/3171691) and [Bubbleman](https://osu.ppy.sh/users/5182050)!
 
@@ -69,7 +69,7 @@ A map by recently returned legend and Twitter's most loved English student val01
 
 A versatile song turned into a versatile mapset, -kevincela- hosts an array of guest difficulties by the likes of Jounzan, Taeyang and ktgster to create a set with many different mapping ideas based around a banger of an M2U song. Ranging from spaced linear flow to more awkward changes in stream patterning, and using every piece of the song's rhythm that they can get their hands on, this set is a joy to play through and experience all the different ideas presented by the mappers. Have a try for yourself!
 
-## <a id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861) and [Ulqui](https://osu.ppy.sh/users/1263669)!
 
@@ -89,9 +89,9 @@ If you're one of those that have been in osu since the beginning of time, back w
 180 BPM, 3:44 | 8.07★  
 *description written by [Ulqui](https://osu.ppy.sh/users/1263669)*
 
-This week we bring you *Education*, mapped by [\_Chichinya\_]. It's a single-diff map that got attention due to the amount of work it has on hitsounds. In this map you'll see a lot of different sounds carefully placed and mapped, making the playing experience even more rich, including interesting and different patterns that make the map difficulty and unique. We expect to see impressive scores from all kinds of experienced players; enjoy this hitsound mapping!
+This week we bring you *Education*, mapped by \[\_Chichinya\_\]. It's a single-diff map that got attention due to the amount of work it has on hitsounds. In this map you'll see a lot of different sounds carefully placed and mapped, making the playing experience even more rich, including interesting and different patterns that make the map difficulty and unique. We expect to see impressive scores from all kinds of experienced players; enjoy this hitsound mapping!
 
-## <a id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -113,7 +113,7 @@ INO is a mapper that has been around for a very long time. Because of his long h
 
 Zyzyx is a mapper that is still fairly new to the scene, yet he has already created a lot of content and evolved quickly. His maps are usually the fast-paced type which require a lot of quick movement and catcher control. *CLICK* is a map which is exactly like that. It is targeted at skilled players that are used to new mapping styles and can keep their stamina over a long period of time. For aspiring players, this map serves as good practice, as you will find a lot of the patterns used in harder Ranked maps as well. All-in-all, this is an enjoyable map to play, and you should definitely give it a try!
 
-## <a id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [lenpai](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
@@ -122,7 +122,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/1-that-schoolgirl.jpg)](https://osu.ppy.sh/community/forums/topics/993240)
 
 [Rotten Blood - that schoolgirl](https://osu.ppy.sh/beatmapsets/707565#mania) by [Abraxos](https://osu.ppy.sh/users/5025064)  
-297 BPM, 1:29 | [4K] 4.53★, [4K] 4.85★, [4K] 5.23★, [4K] 5.58★, [4K] 5.93★
+297 BPM, 1:29 | \[4K\] 4.53★, \[4K\] 4.85★, \[4K\] 5.23★, \[4K\] 5.58★, \[4K\] 5.93★
 
 Abraxos is a charter who is more well-known for his extremely technical charts focused on difficult LN releases, heavy grace note/minijack usage and polyrhythms. His charts for [ExaVid](https://osu.ppy.sh/beatmapsets/649306) and [Rhuzerv](https://osu.ppy.sh/beatmapsets/846866) exemplify his style. His rendition of *that schoolgirl* might come as a pleasant surprise to some charters and players because of its mostly straightforward nature.
 
@@ -135,7 +135,7 @@ Contrary to the difficulty name, the mapset is actually not the worst. Far from 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/2-autotheist-movements-i-ii-iii.jpg)](https://osu.ppy.sh/community/forums/topics/993239)
 
 [The Faceless - Autotheist Movements I, II & III](https://osu.ppy.sh/beatmapsets/429742#mania) by [XeoStyle](https://osu.ppy.sh/users/3377280)  
-80 BPM, 17:42 | [4K] 5.32★
+80 BPM, 17:42 | \[4K\] 5.32★
 
 Veteran charter and unbridled progressive metal fanboy XeoStyle is well-known for a few things: his more straightforward charts like [Lone Digger](https://osu.ppy.sh/beatmapsets/537933), his more technical low-difficulty charts like [Pablo's Place](https://osu.ppy.sh/beatmapsets/630584), and his extremely ambitious progressive metal project, [The Parallax II: Future Sequence](https://osu.ppy.sh/beatmapsets/682489).
 
@@ -146,7 +146,7 @@ Despite the chart being made over three years ago, it has shown over time to be 
 [![](/wiki/shared/news/2019-12-04-project-loved-week-of-december-1st/mania/3-regular-dan-phase-iii.jpg)](https://osu.ppy.sh/community/forums/topics/993238)
 
 [osu!mania 7K Dan Course - Regular Dan Phase III](https://osu.ppy.sh/beatmapsets/930218#mania) by [Jinjin](https://osu.ppy.sh/users/3360737) et al.  
-125 BPM, 9:59 | [7K] 7.32★, [7K] 7.47★, [7K] 8.14★, [7K] 8.66★, [7K] 9.30★
+125 BPM, 9:59 | \[7K\] 7.32★, \[7K\] 7.47★, \[7K\] 8.14★, \[7K\] 8.66★, \[7K\] 9.30★
 
 This is it. The absolute carbohydrate packed monster. This is what sets the difference from the skilled players from the true ETs. This is *Regular Dan Phase III*.
 

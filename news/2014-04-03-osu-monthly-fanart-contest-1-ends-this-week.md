@@ -19,12 +19,12 @@ Big surprise there, I know. But to make things a bit more interesting (and to ru
 
 Rules:
 
--   Artwork must be, in some way, related to the month's theme. In this case, **current-costume Pippi**.
--   Everything in your image must be **your own work**! Don't steal anyone's art, even for backgrounds.
--   Don't include any copyrighted characters. Including your own original characters alongside osu! characters is fine.
--   Images must be G-rated and safe-for-work
--   You must post a web-friendly (600px by 600px maximum) image in **[the official contest thread](https://osu.ppy.sh/community/forums/topics/198551/)**, and link to a much larger print-friendly image (at least 1000x1000, as high as possible) for possible merch use.
--   Deadline for entries is **May 1st, 2014**.
+- Artwork must be, in some way, related to the month's theme. In this case, **current-costume Pippi**.
+- Everything in your image must be **your own work**! Don't steal anyone's art, even for backgrounds.
+- Don't include any copyrighted characters. Including your own original characters alongside osu! characters is fine.
+- Images must be G-rated and safe-for-work
+- You must post a web-friendly (600px by 600px maximum) image in **[the official contest thread](https://osu.ppy.sh/community/forums/topics/198551/)**, and link to a much larger print-friendly image (at least 1000x1000, as high as possible) for possible merch use.
+- Deadline for entries is **May 1st, 2014**.
 
 By entering, you agree to let us use your art on the osu! website, social media accounts, and merchandise. While this isn't a merch design contest per se, if we do decide to use your image on a t-shirt or other item, you will get a free one!
 

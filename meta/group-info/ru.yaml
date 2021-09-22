@@ -1,0 +1,67 @@
+# need to update alumni.roles.tournaments and gmt.areas.tournaments
+separator: ", "
+alumni:
+  roles:
+    academy: основатель osu!academy
+    admin: администратор
+    chat: модератор чата
+    dev: разработчик osu!
+    media: создатель osu!media
+    support: сотрудник техподдержки
+    tournaments: организатор турниров
+gmt:
+  all_mods: все модераторы
+  areas:
+    beatmap: модерация карт
+    chat: модерация чата
+    forum: модерация форума
+    team: официальное представление команды
+    dev: разработка osu!
+    player: поддержка игроков
+    support: техподдержка
+    tournaments: турниры
+    wiki: администрирование вики
+    mapping: модерация маппинг-сообщества
+nat:
+  areas:
+    communication: обратная связь
+    evaluation: аттестация номинаторов
+    moderation: модерация
+    structural: организация
+languages:
+  partial: частично <language>
+  ar: арабский
+  bg: болгарский
+  bn: бенгальский
+  ca: каталанский
+  da: датский
+  de: немецкий
+  el: греческий
+  es: испанский
+  et: эстонский
+  fi: финский
+  fil: филиппинский
+  fr: французский
+  gl: галисийский
+  hr: хорватский
+  hu: венгерский
+  id: индонезийский
+  it: итальянский
+  ja: японский
+  ko: корейский
+  ms: малайзийский
+  nl: нидерландский
+  no: норвежский
+  pl: польский
+  pt: португальский
+  ro: румынский
+  ru: русский
+  sr: сербский
+  sv: шведский
+  te: телугу
+  th: тайский
+  tr: турецкий
+  ur: урду
+  vi: вьетнамский
+  yue: кантонский диалект
+  zh: китайский

@@ -12,7 +12,7 @@ As the dust settled on the Winners and Losers Finals of the double-elimination t
 
 Would the favorites find victory, or would the underdogs claw their way through the grueling task of winning back to back best of 11-map series to find glory?
 
-<p align="center"><iframe src="https://player.twitch.tv/?video=v167002207&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
+<p align="center"><iframe src="https://player.twitch.tv/?video=v167002207&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
 
 The [250 - 500 rank bracket](http://challonge.com/znsjvw11) saw well-known all-around player [-GN](https://osu.ppy.sh/users/895581) pitted against [smh](https://osu.ppy.sh/users/1629553), a former tourney winner himself in the 2016 osu! Indonesia Tournament. In a surprising result in the Winners Final, smh knocked -GN down to the Losers Bracket in a back-and-forth clash where he ultimately won in a tiebreaker, and so -GN entered the Grand Final seeking revenge.
 
@@ -22,7 +22,7 @@ The players would split the next two picks before smh managed to hold his own on
 
 [View multiplayer match history for smh vs -GN](https://osu.ppy.sh/community/matches/35241598)
 
-<p align="center"><iframe src="https://player.twitch.tv/?video=v167002950&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
+<p align="center"><iframe src="https://player.twitch.tv/?video=v167002950&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
 
 In the [500 - 1000 bracket](http://challonge.com/h015rw5f), [Exarch](https://osu.ppy.sh/users/5370153) advanced through the Winners Bracket in dominating fashion, dropping only 4 maps en route to the Grand Final. There he would meet [pyccknn](https://osu.ppy.sh/users/3618773) in a repeat of their Winners Final matchup after pyccknn triumphed convincingly in the Losers Bracket Final.
 
@@ -30,7 +30,7 @@ Unfortunately, real-world circumstances caught up to pyccknn, as he was unable t
 
 [View multiplayer match history for Exarch vs pyccknn](https://osu.ppy.sh/community/matches/35247144)
 
-<p align="center"><iframe src="https://player.twitch.tv/?video=v167002704&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
+<p align="center"><iframe src="https://player.twitch.tv/?video=v167002704&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
 
 Fans turned out in droves to watch the [1000 - 3000 bracket](http://challonge.com/a36241q1) Grand Final featuring fan favorite [Lee Jung Hyun](https://osu.ppy.sh/users/4065138) (affectionately nicknamed "Shakeman" for his almost bizarrely shaky playstyle that belied impeccable aim) against [\_verto\_](https://osu.ppy.sh/users/2015300), who quietly made his way through the Winners Bracket while losing only 5 maps to make it to the Grand Final. However, Lee Jung Hyun was not to be trifled with, as shown by victories in the Losers Bracket over multiple strong opponents.
 
@@ -42,7 +42,7 @@ There, \_verto\_ selected [Igorrr - Unpleasant Sonata](https://osu.ppy.sh/beatma
 
 [View multiplayer match history for \_verto\_ vs Lee Jung Hyun](https://osu.ppy.sh/community/matches/35244291)
 
-<p align="center"><iframe src="https://player.twitch.tv/?video=v167003179&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
+<p align="center"><iframe src="https://player.twitch.tv/?video=v167003179&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
   
   
 The [12000 - 18000](http://challonge.com/pxrd8vej) Grand Final told a fascinating story. On one side was [Cyndere](https://osu.ppy.sh/users/5477793), the bracket's Spring Tour champion reprising his performance by making his way through the Winners Bracket quickly and efficiently. On the other was [egedi](https://osu.ppy.sh/users/3975137), who lost in a tiebreaker in the first round of the brackets before fighting his way through six rounds of the Losers Bracket to make it all the way back to the Grand Final.
@@ -55,7 +55,7 @@ Selecting DT map [Horie Yui - Vanilla Salt](https://osu.ppy.sh/beatmaps/320981) 
 
 [View multiplayer match history for Cyndere vs egedi](https://osu.ppy.sh/community/matches/35249726)
 
-<p align="center"><iframe src="https://player.twitch.tv/?video=v167003412&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
+<p align="center"><iframe src="https://player.twitch.tv/?video=v167003412&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
 
 From the [62500 - 80000 bracket](http://challonge.com/bqmca1h3) came one of the most exciting matches of the day, if not the entire tournament. On the surface it looked similar to the 12000 - 18000 matchup: the Winners Bracket was won in impressive style by [snowdeep](https://osu.ppy.sh/users/8614428), while [Dreamtwolf](https://osu.ppy.sh/users/6138845) dropped to the Losers Bracket via tiebreaker in the first round then fought all the way through, winning another tiebreaker in the Losers Final to secure his ticket to the Grand Final.
 
@@ -83,4 +83,4 @@ Finally, thank you: first, to all the participants, who played their hearts out 
 
 I'm sure I'm not alone in already being excited for the next installation of the HappyStick Tour, and I can't wait to see everyone there!
 
-\- this1neguy
+—this1neguy

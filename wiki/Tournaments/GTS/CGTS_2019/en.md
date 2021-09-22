@@ -1,14 +1,15 @@
 ---
 tags:
+  - CGTS 2019
   - CGTS
-  - CGTS2019
+  - GTS
 ---
 
 # Continental Global Taiko Showdown 2019
 
 ![CGTS 2019 logo](img/logo.jpg)
 
-The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) was a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament had a regional phase and a global phase: the regional phase was a 1v1 bracket to find the best players in each continent, and the global phase was a 4v4 bracket where the top players from each continent faced each other. This was the first installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) was a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament had a regional phase and a global phase: the regional phase was a 1v1 bracket to find the best players in each continent, and the global phase was a 4v4 bracket where the top players from each continent faced each other. This was the first instalment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -41,19 +42,19 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) was a worldwide
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge for each team member, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag for each player, exclusive team banner |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag for each player, exclusive team banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge for each team member, US$32 or 1 year and 2 months of osu!supporter for each player, exclusive team banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$12 or 4 months of osu!supporter for each player, exclusive team banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$8 or 2 months of osu!supporter for each player, exclusive team banner |
 
-![CGTS 2019 winner badge](img/badge.png)
+![](img/badge.png "CGTS 2019 winner badge")
 
 ### Regional
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | US$16 or 6 months of osu!supporter, exclusive 1st place banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$12 or 4 months of osu!supporter, exclusive 2nd place banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$8 or 2 months of osu!supporter, exclusive 3rd place banner |
 
 ## Organisation
 
@@ -61,21 +62,22 @@ The Continental Global Taiko Showdown 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map selector | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
+| Organiser | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Mappool selector | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
 | Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_FR] [Apsuko](https://osu.ppy.sh/users/9313135), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_MA] [clorox\_1g](https://osu.ppy.sh/users/9702728), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
 | Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
 | Commentator | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_DE] [Ak1o](https://osu.ppy.sh/users/1600041), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_US] [Bauregaurd](https://osu.ppy.sh/users/2598555), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_CL] [Catulus](https://osu.ppy.sh/users/6276709), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
 | Designer | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
 | Statistician | ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Translator | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972), ![][flag_JP] [katatakatata](https://osu.ppy.sh/users/3540294), ![][flag_NO] [Mills](https://osu.ppy.sh/users/7234023), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Developer | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/960704)
-- [CGTS Discord server](https://discord.gg/C2b4xrH)
+- [GTS Discord server](https://discord.gg/3mGC3HBH)
+- [GTS website](https://gtsosu.com/)
 - [Livestream](https://www.twitch.tv/gtsosu)
 - Challonge brackets
   - [Global phase](https://challonge.com/CGTS4v4)
@@ -153,9 +155,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Continent |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Asia |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | Europe |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | North America |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Asia |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Europe |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | North America |
 
 ### Regional
 
@@ -163,41 +165,41 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) |
 
 #### Europe
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
 
 #### North America
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) |
 
 #### Oceania/South East Asia
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) |
 
 #### South America
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) |
 
 ## Mappools
 
@@ -605,7 +607,7 @@ Sunday, 1 December 2019:
 | **Element118** ![][flag_SG] | **7** | 1 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/56650283) |
 | R J ![][flag_US] | 2 | **7** | ![][flag_US] **closed** | [#1](https://osu.ppy.sh/community/matches/56650277) |
 | **Whulf** ![][flag_US] | **7** | 0 | ![][flag_US] closed | [#1](https://osu.ppy.sh/community/matches/56651297) |
-| **asuasu\_yura** ![][flag_JP] | **7** | 6 | ![][flag_JP] iceOC | [#1](https://osu.ppy.sh/community/matches/56655630)
+| **asuasu\_yura** ![][flag_JP] | **7** | 6 | ![][flag_JP] iceOC | [#1](https://osu.ppy.sh/community/matches/56655630) |
 | **iceOC** ![][flag_JP] | **7** | 0 | ![][flag_KR] Laby | [#1](https://osu.ppy.sh/community/matches/56657233) |
 | frukoyurdakul ![][flag_TR] | 3 | **7** | ![][flag_KR] **Konpaku Sariel** | [#1](https://osu.ppy.sh/community/matches/56659054) |
 | **Sparxe** ![][flag_NZ] | **7** | 5 | ![][flag_MY] growATMfarmz | [#1](https://osu.ppy.sh/community/matches/56660125) |

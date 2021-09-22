@@ -39,7 +39,7 @@ Queste regole sono la base da cui attingiamo per aiutare a mantenere la communit
 
 ## Regole di richiesta delle beatmap
 
-Queste regole si applicano strettamente alle beatmap inviate tramite il gioco [Beatmap Submission System](/wiki/Glossary#bss). Questi thread/discussioni sono creati automaticamente tramite il client di osu! quando una beatmap viene inviata tramite [editor](/wiki/editor).
+Queste regole si applicano strettamente alle beatmap inviate tramite il gioco [Beatmap Submission System](/wiki/Submission). Questi thread/discussioni sono creati automaticamente tramite il client di osu! quando una beatmap viene inviata tramite [editor](/wiki/editor).
 
 Esiste una serie di regole più dettagliate per la creazione di beatmap, note come [Ranking Criteria](/wiki/Ranking_Criteria).
 

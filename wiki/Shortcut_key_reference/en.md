@@ -28,8 +28,8 @@ These shortcuts work anywhere:
 | `F10` | Toggle all mouse buttons (except for the mouse wheel, which is always enabled). |
 | `F12` | Take a screenshot. Click on the dialog to open the screenshots folder. |
 | `Shift` + `F12` | Take a screenshot and upload to the server for sharing. The screenshot will also be saved locally. This will open the screenshot on your web browser. |
-| `Insert` | This is the [boss key](https://en.wikipedia.org/wiki/Boss_key "Boss key on Wikipedia"). Minimize the game client into the notification area. This will also mute the game. |
-| `Shift` + `F1` | Open [osu!status](https://twitter.com/osustatus "osu!status on Twitter") on your web browser. (Only when a connection error appears.) |
+| `Insert` | This is the [boss key](https://en.wikipedia.org/wiki/Boss_key). Minimize the game client into the notification area. This will also mute the game. |
+| `Shift` + `F1` | Open [osu!status](https://twitter.com/osustatus) on your web browser. (Only when a connection error appears.) |
 | `Ctrl` + `O` | Open the options sidebar. Can not enter the offset wizard if you are not in the main menu. |
 
 ## Main menu
@@ -57,7 +57,7 @@ These shortcuts work anywhere:
 | `C` | Toggle pause and play. |
 | `F4` | Stop playing (resets the current time). |
 | `V` or `F5` | Play the next song. |
-| `J` or `F6`| Opens the jump to menu. |
+| `J` or `F6` | Opens the jump to menu. |
 | `R` | Play a random song. |
 
 ## Song select
@@ -66,36 +66,34 @@ These shortcuts work anywhere:
 
 | Shortcut | Action |
 | :-- | :-- |
-| `F1` | Open the [game modifiers](/wiki/Game_Modifiers) selection menu. |
+| `F1` | Open the [game modifiers](/wiki/Game_modifier) selection menu. |
 | `F2` | Randomly select a beatmap. |
 | `Shift` + `F2` | Go back to the previously random-selected beatmap. |
 | `F3` | Open the beatmap options. |
 | `F5` | Reprocess beatmaps (this may prompt you to continue). |
-| `Shift` + `Delete` | Prompt the delete beatmap dialog. This will ask you if you want to delete the beatmapset (all difficulties), the beatmap (the selected difficulty), or all visible beatmaps. |
-| `Ctrl` + `1` | Switch the game mode to [osu!](/wiki/osu!). |
-| `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/osu!taiko). |
-| `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/osu!catch). |
-| `Ctrl` + `4` | Switch the game mode to [osu!mania](/wiki/osu!mania). |
-| `Ctrl` + `Enter` | Play the selected beatmap with the [auto mod](/wiki/Auto). |
-| `Ctrl` + `Shift` + `Enter` | Play the selected beatmap with the [cinema mod](/wiki/Cinema). |
-| `Ctrl` + `A` | Toggle the auto mod. |
+| `Shift` + `Delete` | Prompt the delete beatmap dialog. This will ask you if you want to delete the beatmap (all difficulties), a single difficulty, or all visible beatmaps. |
+| `Ctrl` + `1` | Switch the game mode to [osu!](/wiki/Game_mode/osu!). |
+| `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/Game_mode/osu!taiko). |
+| `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/Game_mode/osu!catch). |
+| `Ctrl` + `4` | Switch the game mode to [osu!mania](/wiki/Game_mode/osu!mania). |
+| `Ctrl` + `Enter` | Play the selected beatmap with the [Auto mod](/wiki/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Play the selected beatmap with the [Cinema mod](/wiki/Game_modifier/Cinema). |
+| `Ctrl` + `A` | Toggle the Auto mod. |
 | `Ctrl` + `F3` or `Ctrl` + `+` | Increase the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Decrease the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `Backspace` | Delete the last word in the search bar. |
-| `Up/Down Arrow` | Select the next beatmap up/down respectively. |
-| `Left/Right Arrow` | Select the next beatmapset up/down respectively. |
+| `Up/Down Arrow` | Select the next difficulty up/down respectively. |
+| `Left/Right Arrow` | Select the next beatmap up/down respectively. |
 | `Page Up/Down` | Scroll the page up/down respectively. |
-| `Enter` | Enter the current selection (if selecting over a beatmapset or collection group) or being playing a difficulty (if selecting over a beatmap). |
+| `Enter` | Enter the current selection (if selecting over a beatmap or collection group) or being playing a difficulty (if selecting over a beatmap). |
 | `Shift` + `Left/Right Arrow` | Enter the next/previous group. |
 | `Shift` + `Enter` | Expand or collapse the selected group. |
 
 ### Game modifiers
 
-*Main page: [Game modifiers](/wiki/Game_Modifiers)*
-
-*Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*
-
-*Note: Target practice (osu!standard), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
+*Main page: [Game modifiers](/wiki/Game_modifier)*\
+*Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*\
+*Note: Target practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
 
 | Shortcut | Mod |
 | :-- | :-- |
@@ -107,15 +105,15 @@ These shortcuts work anywhere:
 | `S` twice | Perfect |
 | `D` | Double Time |
 | `D` twice | Nightcore |
-| `F` | Hidden (osu!standard, osu!taiko, and osu!catch) or Fade In (osu!mania)
+| `F` | Hidden (osu!, osu!taiko, and osu!catch) or Fade In (osu!mania) |
 | `F` twice | Hidden (osu!mania) |
 | `G` | Flashlight |
-| `Z` | Relax (osu!standard, osu!taiko, and osu!catch) or cycle through xK mods (osu!mania) |
-| `X` | Auto Pilot (osu!standard) or Random (osu!mania) |
-| `C` | Spun Out (osu!standard) |
+| `Z` | Relax (osu!, osu!taiko, and osu!catch) or cycle through xK mods (osu!mania) |
+| `X` | Auto Pilot (osu!) or Random (osu!mania) |
+| `C` | Spun Out (osu!) |
 | `V` | Auto |
 | `V` twice | Cinema |
-| `B` | Score v2 |
+| `B` | Score V2 |
 | `3` to `9` | 3K to 9K (osu!mania) |
 
 ## Play mode
@@ -170,10 +168,10 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `N` | Prompt to remove all hit objects. |
 | `Ctrl` + `Up/Down Arrow` | Increase/decrease the playback speed by 25%. |
 | `Ctrl` + `Shift` + `Up/Down Arrow` | Increase/decrease the playback speed by 5%. |
-| `F1` | Switch to the [compose](/wiki/Compose) mode. |
-| `F2` | Switch to the [design](/wiki/Design) mode. |
-| `F3` | Switch to the [timing](/wiki/Timing) mode. |
-| `F4` | Open the [song setup](/wiki/Song_Setup) dialog. |
+| `F1` | Switch to the [compose](/wiki/Beatmap_Editor/Compose) mode. |
+| `F2` | Switch to the [design](/wiki/Beatmap_Editor/Design) mode. |
+| `F3` | Switch to the [timing](/wiki/Beatmap_Editor/Timing) mode. |
+| `F4` | Open the [song setup](/wiki/Beatmap_Editor/Song_Setup) dialog. |
 | `F5` | Enter test mode. |
 | `F6` | Open the timing and control points dialog. |
 | `Ctrl` + `P` | Add an uninherited timing point at the current timestamp. If not in the timing mode, this will also open the timing and control points dialog. |
@@ -196,6 +194,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 | Shortcut | Action |
 | :-- | :-- |
+| `Double Click` | On circles or slider ends to jump to the object's position in the timeline from any point in the song. (osu!, osu!taiko, osu!catch) |
 | `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting). |
 
 #### General
@@ -210,8 +209,9 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `C` | Copy. |
 | `Ctrl` + `V` | Paste. |
 | `Ctrl` + `D` | Clone the selection. This will paste the selection 1 measure after last selected object. |
+| `Ctrl` + `M` | Adjust the snap divisor. |
 | `Delete` | Delete. |
-| `1`, `2`, `3`, or `4` | Switch between placement/selection mode: select, circle, slider, and spinner respectively (osu!standard, osu!taiko, or osu!catch). |
+| `1`, `2`, `3`, or `4` | Switch between placement/selection mode: select, circle, slider, and spinner respectively (osu!, osu!taiko, or osu!catch). |
 | `1`, `2`, or `3` | Switch between placement/selection mode: select, circle, and hold respectively (osu!mania). |
 | `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Switch between placement/selection modes. |
 | `Ctrl` + `Shift` + `A` | Open [AiMod](/wiki/Beatmap_Editor/AiMod). |
@@ -245,15 +245,15 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `Shift` + `S` | Scale selected hit objects by a specified amount (opens a dialog). |
 | `Ctrl` + `Shift` + `D` | Generate polygons with a specificied number of points (opens a dialog). |
 | `Ctrl` + `Shift` + `F` | Convert the selected slider into a hit circle stream (opens a dialog). |
-| `Ctrl` + `Left/Right/Up/Down Arrow` | Nudge the selected notes in the pressed direction. (osu!standard, osu!taiko, osu!catch) |
+| `Ctrl` + `Left/Right/Up/Down Arrow` | Nudge the selected notes in the pressed direction. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Left/Right Arrow` | Move selected objects left or right one column. (osu!mania) |
-| `Ctrl` + `Up/Down Arrow` | Move selected objects up or down one tick in time. (osu!mania) |
+| `Ctrl` + `Up/Down Arrow` | Move selected objects up or down 1 divisor. (osu!mania) |
 
 #### Hitsounding
 
 | Shortcut | Action |
 | :-- | :-- |
-| `W` | Toggle the whistle addition to selection. |
+| `W` | Toggle the Whistle addition to selection. |
 | `E` | Toggle the Finish addition to selection. |
 | `R` | Toggle the Clap addition to selection. |
 | `Shift` + (`Q`, `W`, `E`, or `R`) | Change sampleset for the selection to auto, normal, soft, or drum respectively. |
@@ -264,7 +264,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 | Shortcut | Action |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Set the [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Set the [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 and 1/9 respectively. |
 | `Shift` (while dragging in the timeline) | Ignore the beat snap divisor snapping. |
 | `J` | Nudge the selection backwards 1 divisor. |
 | `K` | Nudge the selection forwards 1 divisor. |
@@ -280,11 +280,14 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `C` | Copy the selected sprite. |
 | `Ctrl` + `V` | Paste the sprite at the current time. *Note: Pasted sprites will not be shown on the layer list until the beatmap is saved and reloaded.* |
 | `Delete` | Remove the selected sprite from the layer. |
-| `W`, `A`, `S`, `D` | Nudge the selected sprite up, left, down, or right respectively one [osu!pixel](/wiki/Glossary#osupixel). |
+| `W`, `A`, `S`, `D` | Nudge the selected sprite up, left, down, or right respectively one [osu!pixel](/wiki/osupixel). |
 
 ### Timing
 
 | Shortcut | Action |
 | :-- | :-- |
 | `T` | Set BPM and offset when tapped to the beat of the song. |
-| `Shift` while adjusting the BPM and offset | Increment 4x the normal amount. |
+| `Shift` while adjusting BPM or offset | Increment 5x the normal amount. |
+| `Ctrl` while adjusting BPM | Increment by 0.25. |
+| `Ctrl` while adjusting offset | Increment by 1. |
+| `Ctrl` while adjusting slider velocity | Increment by 0.1. |

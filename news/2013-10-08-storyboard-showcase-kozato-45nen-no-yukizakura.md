@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Storyboard Showcase: Kozato - 45nen no Yukizakura"
-date: 2014-10-08 00:00:00 +0000
+date: 2013-10-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/63423749972/storyboard-showcase-kozato-45nen-no-yukizakura
 ---
 

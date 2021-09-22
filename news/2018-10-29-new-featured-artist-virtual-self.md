@@ -42,7 +42,7 @@ All of the tracks from the self-titled **Virtual Self** EP are now available as 
 
 Check them out over at their [**Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/28)!
 
----------
+---
 
 [![](https://assets.ppy.sh/contests/63/header.jpg)](https://osu.ppy.sh/community/contests/72)
 
@@ -56,7 +56,7 @@ The winning entry as judged by the Olympiad team will see both participants awar
 
 Interested? [Head on over to the contest listing to read the rules in depth and find out more!](https://osu.ppy.sh/community/contests/72)
 
-----------
+---
 
 We're excited to see what kind of incredible pieces the osu! community can churn out with **Virtual Self's** iconic sound!
 

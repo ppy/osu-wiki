@@ -16,12 +16,12 @@ For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -97,7 +97,7 @@ One of DoKito's infamous maps, Elemental Creation is an older style of map invol
 
 Dance your cursor around the screen on Necroluttah's take on #Fairy\_dancing\_in\_lake, a 142 BPM map involving many different rhythms and patterns designed to seriously test your technical ability. Rhythm changes, harsh and smooth angles and a challenge to your reading if you decide to attempt the AR9 difficulty, this map will push even the highest calibre of players. If you think you can follow the spritely fairy's movements, why not give it a go?
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910), [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -131,7 +131,7 @@ In this happy pop song by Umeboshi Chazuke, there are two difficulties, both the
 
 I bet may players have played this in multiplayer. Known for its difficulty and quality, The ll-taiko series joins this week's pick! The patterns may be simple, but the speed is what will challenge players. I'm sure many, including myself, once made it a goal to pass this. Now, we can do it!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)! This week, all osu!catch beatmap descriptions were written by [Tenshichan](https://osu.ppy.sh/users/1101600).
 
@@ -149,7 +149,7 @@ Chain of Pain is a map which has unfortunately not been uploaded for four years.
 
 Anhedonia is a very clean mapset by alienflybot with a top diff of his own, and guest difficulties by Equim, Zirox, BoberOfDarkness and Ascendance, who collaborated on the Cup with alienflybot himself. Although the mapset is basically complete, it never made any noticeable progress going towards the ranked section. But given the popularity of the set and that it had been picked in a World Cup before, you can not really call it an unknown map. But what is it exactly that makes this map a blast to play? Let's talk about the top diff: the jewel of this mapset. It doesn't have any gimmicky patterns at all and is not particularly hard to play, yet it has something that fascinates you while playing; it utilizes a lot of clean stream patterns and snappy jumps which fit the music very well and create an amazing flow throughout the map. The key parts of the song are neatly emphasized, making this difficulty a great experience you should not miss out on.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [Shoegazer](https://osu.ppy.sh/users/2520707) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

@@ -14,12 +14,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -107,7 +107,7 @@ Many players already know of Nemis's set for *Shuffle Heaven*, but did you know 
 
 Ever wondered how speedcore would have been mapped in 2010? Wonder no more! Hailing from a time long past, it may be speedcore, but not as we know it. TQBF has a real knack for springing some incredibly creative tunes from unlikely places and with this track he turns samples from Team Fortress 2's Heavy into a fast paced banger. Coupled with old-style mapping, it takes you on a trip back to when hats were statements and refined metal was actually worth something. Fancy a trip down memory lane? Give this set a play!
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -141,7 +141,7 @@ Make your fingers dance with Shiron's *Deadly Dolly Dance*—by far one of the g
 
 Hope you studied for your tests because w_tre respect for AT&HU's  *Schur's Theorem* is going to test your taiko math skills! Ralphage filled this map to the brim with absolutely mind-bending 1/6 patterns, often consisting of many off-hand patterns and complex rhythms. Underestimate this map, and you're in for a tough one.
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -163,7 +163,7 @@ Streamy maps, which are mostly seen with modern styles, are always considered ea
 
 Even though Nucoin doesn't play osu!catch anymore, they created a very fun map when they were active: *Suki ! Yuki ! Maji Magic*. The map mostly consists of very snappy patterns which go well with the rhythm of the song. However, because of the snappy patterns it requires advanced catcher control to not miss due to mistimed dashes. Especially if you also want to go for an SS, there are some snappy hyperdashes onto sliders which might cause one or two droplet misses. Overall though, the map shouldn't be too difficult for experienced players, but it's increasingly harder with any additional mod(s), so players who think nomod is too boring can challenge themselves.
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
@@ -172,7 +172,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/1-uta.jpg)](https://osu.ppy.sh/community/forums/topics/940578)
 
 [Imperial Circus Dead Decadence - Uta](https://osu.ppy.sh/beatmapsets/981714#mania) by [Evening](https://osu.ppy.sh/users/2193881) and [XeoStyle](https://osu.ppy.sh/users/3377280)  
-140 BPM, 8:48 | [4K] 4.74★, [4K] 5.64★, [4K] 5.77★
+140 BPM, 8:48 | \[4K\] 4.74★, \[4K\] 5.64★, \[4K\] 5.77★
 
 "Return of the king" is a phrase one may use seeing this nomination to the Loved section. Evening, one of the most well-known and influential mappers to ever grace osu!mania, is back in the nominations with an even more well-known and popular song from a recently added Featured Artist—Imperial Circus Dead Decadence. 
 
@@ -185,7 +185,7 @@ Back when this was first released, it gained significant notoriety through the c
 [![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/2-mario-paint-time-regression-mix-for-bms.jpg)](https://osu.ppy.sh/community/forums/topics/940577)
 
 [ueotan - Mario Paint (Time Regression Mix for BMS)](https://osu.ppy.sh/beatmapsets/292994#mania) by [Fullerene-](https://osu.ppy.sh/users/2531335)  
-155 BPM, 1:29 | [4K] 4.91★, [4K] 5.68★, [4K] 6.74★
+155 BPM, 1:29 | \[4K\] 4.91★, \[4K\] 5.68★, \[4K\] 6.74★
 
 There aren't many mapsets that are as notorious as Fullerene's *Mario Paint (Time Regression Mix for BMS)*. Its D-HYPER difficulty is part of one of the harder 4K dan courses, and even outside of Dan courses, D-HYPER has been a benchmark for many players for many years. D-NORMAL has also been a popular chart for lower-level players, and D-ANOTHER, while originally a joke difficulty meant to emulate a chart from BMS, has been played frequently by the very best players today.
 
@@ -196,7 +196,7 @@ Mario Paint, as a mapset, has sustained popularity for over four and a half year
 [![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/3-gravitation.jpg)](https://osu.ppy.sh/community/forums/topics/940576)
 
 [Kurosaki Maon - Gravitation](https://osu.ppy.sh/beatmapsets/884981#mania) by [tangjinxi](https://osu.ppy.sh/users/2270126)  
-200 BPM, 4:22 | [7K] 10.38★
+200 BPM, 4:22 | \[7K\] 10.38★
 
 For this round, 7K gets to see another welcome face known for their O2Jam charts. This is tangjinxi's *Gravitation*.
 

@@ -6,11 +6,11 @@ A YouTube video showcasing the osu! mascots can be seen at [Mascot Showcase](htt
 
 ## Official
 
-### ![osu!standard icon](/wiki/shared/mode/osu.png) pippi
+### ![osu! icon](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stylized with a lowercase "p", is the osu!standard mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by [Daru](https://osu.ppy.sh/users/32480).
+pippi, stylized with a lowercase "p", is the osu! game mode mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
@@ -20,13 +20,15 @@ pippi, stylized with a lowercase "p", is the osu!standard mascot that joined on 
 
 Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-10, is 172 centimetres tall, and weighs 65 kilograms. His current art design was designed by [Thievley](https://osu.ppy.sh/users/4717672). Whereas his initial art design and catcher sprites were done by [ztrot](https://osu.ppy.sh/users/6347); Daru created the comboburst art.
 
-### ![osu!mania icon](/wiki/shared/mode/mania.png) Maria
+### ![osu!mania icon](/wiki/shared/mode/mania.png) Mani & Mari
 
-*For the news post, see: [Meet Maria - osu!mania’s new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)*
+*For more information, see: [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
 
-![Maria](img/Maria.png "Maria")
+![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Maria is the osu!mania mascot that joined on 2016-03-04. Her art was designed by Daru.
+Designed by [xiemon](https://osu.ppy.sh/users/5203667) after being scouted from the [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) and announced as the official osu!mania mascots on 2020-09-18, Mani and Mari are twins who can't quite stand each other, but are more similar than they'd care to admit.
+
+Mani is something of a maverick, always looking to explore new styles and things, while his sister Mari (formerly known as Maria) is a rigid, classical perfectionist with a penchant for the spotlight. The two get along like oil and water.
 
 ### ![osu!taiko icon](/wiki/shared/mode/taiko.png) Mocha
 
@@ -46,7 +48,7 @@ Mocha is the osu!taiko mascot. She was initially designed during the [sixth fana
 
 一本木龍太 (Ryūta Ippongi) was the osu!catch chibi-fruit catcher that had joined in 2008, but was replaced by [Yuzu](#-yuzu) in 2014. He was created by [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) and was once part of the old website. He also appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC.
 
-Ryuuta was also featured in [LuigiHann](https://osu.ppy.sh/users/1079)'s skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+Ryuuta was also featured in [LuigiHann](https://osu.ppy.sh/users/1079)'s skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
 
 ### Agent J
 
@@ -56,7 +58,7 @@ Ryuuta was also featured in [LuigiHann](https://osu.ppy.sh/users/1079)'s skin, [
 
 Agent J, also known as BA-2 (Beat Agent-2) or J, was one of the osu! mascots in 2008 but had retired in 2014. He was created by iNiS Corporation and was once part of the old website.
 
-Agent J was also featured in [LuigiHann](https://osu.ppy.sh/users/1079)'s skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+Agent J was also featured in [LuigiHann](https://osu.ppy.sh/users/1079)'s skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
 
 ### Don
 

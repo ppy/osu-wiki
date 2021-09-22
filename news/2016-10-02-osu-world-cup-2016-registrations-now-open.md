@@ -14,36 +14,36 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/c
 
 ## Tournament Schedule
 
-+ Registration Phase: 02 Oct - 16 Oct 2016
-+ Live Drawings: 04 Nov 2016 12:00 UTC+0
-+ Group Stage: 12-13 Nov 2016
-+ Round of 16: 19-20 Nov 2016
-+ Quarterfinals: 26-27 Nov 2016
-+ Semifinals: 03-04 Dec 2016
-+ Finals - Week 1: 10-11 Dec 2016
-+ Finals - Week 2: 17-18 Dec 2016
+- Registration Phase: 02 Oct - 16 Oct 2016
+- Live Drawings: 04 Nov 2016 12:00 UTC+0
+- Group Stage: 12-13 Nov 2016
+- Round of 16: 19-20 Nov 2016
+- Quarterfinals: 26-27 Nov 2016
+- Semifinals: 03-04 Dec 2016
+- Finals - Week 1: 10-11 Dec 2016
+- Finals - Week 2: 17-18 Dec 2016
 
 ## What has been changed?
 
-+ We added clearer regulations regarding disconnects and inappropriate behavior during the matches.
-+ We changed our prize pool to offer unique and exclusive merchandise to all of our podium winners, giving the winners something more special, rewarding and outstanding when competing against the best of the best.
-+ We adjusted the mappool structure and size. All pools are now of a size of 16 beatmaps in total, whereas 6 are in the NoMod bracket, 2 are in the Hidden HardRock and DoubleTime brackets respectively, 3 are in the FreeMod bracket and 1 is the tiebreaker of the pool.
-+ We adjusted the ban amounts for balancing purposes. Teams may only ban 1 beatmap each per match now.
-+ Along with opening up the new World Cup season, the graphic design has been renewed to give everything a fresh touch.
+- We added clearer regulations regarding disconnects and inappropriate behavior during the matches.
+- We changed our prize pool to offer unique and exclusive merchandise to all of our podium winners, giving the winners something more special, rewarding and outstanding when competing against the best of the best.
+- We adjusted the mappool structure and size. All pools are now of a size of 16 beatmaps in total, whereas 6 are in the NoMod bracket, 2 are in the Hidden HardRock and DoubleTime brackets respectively, 3 are in the FreeMod bracket and 1 is the tiebreaker of the pool.
+- We adjusted the ban amounts for balancing purposes. Teams may only ban 1 beatmap each per match now.
+- Along with opening up the new World Cup season, the graphic design has been renewed to give everything a fresh touch.
 
 ## Prizes
 
 We plan to distribute exclusive and unique merchandise to all our podium winners in different tiers. The items are yet to be announced.
 
-+ 1st: exclusive and unique merchandise, profile badge, "osu! Champion" user title
-+ 2nd: exclusive and unique merchandise, profile badge
-+ 3rd: exclusive and unique merchandise, profile badge
+- 1st: exclusive and unique merchandise, profile badge, "osu! Champion" user title
+- 2nd: exclusive and unique merchandise, profile badge
+- 3rd: exclusive and unique merchandise, profile badge
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/7)**
-+ Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
-+ Hand in your registration before **16. October 2016.**
+- **[Click here to sign-up!](https://osu.ppy.sh/tournaments/7)**
+- Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
+- Hand in your registration before **16. October 2016.**
 
 Note that you can only participate if you are of a **osu! global ranking of #5000 or higher and did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.
 

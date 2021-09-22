@@ -13,30 +13,27 @@ no_native_review: true
 - [カスタムヒットサウンドの追加](Adding_Custom_Hitsounds)
 - [オーディオ編集](Audio_Editing)
 - [アーティストまたはタイトルの変更](Changing_the_Artist_or_Title)
-- [タイトルテキストの変更](/wiki/Beatmaps/Title_Text#changing-title-text)
+- [タイトルテキストの変更](/wiki/Beatmap/Title_Text#changing-title-text)
 - [コラボ情報](Collab_Information)
 - [ファイルを圧縮する](Compressing_Files)
 - [カスタムヒットサウンドライブラリ](Custom_Hitsound_Library)
 - [カスタムサンプルオーバーライド](Custom_Sample_Overrides)
-- [ビデオゲームから曲を取得する](Getting_Songs_From_Video_Games)
 - [曲の時間を計る方法](How_to_Time_Songs)
 - [ミュージックセオリー](Music_Theory)
 - [osu!mania マッピングガイド](osu!mania_Mapping_Guide)
 - [正しいビートのオフセットを設定](Setting_the_Offset_on_the_Correct_Beat)
 - [ビートマッププロジェクトの開始](Starting_a_Beatmap_Project)
-- [YouTubeの動画](Videos_From_Youtube)
+- [YouTubeの動画](Videos_from_Youtube)
 
 ## Modding
 
 *メインページ: [Modding](/wiki/Modding)*
 
 - [マップをModdingする](Getting_Your_Map_Modded)
-- [マップをRankedする方法](How_To_Get_Your_Map_Ranked)
 
 ## プレイング
 
 - [初心者向けチュートリアル](Beginner's_Tutorial)
-- [osu!maniaの遊び方](How_to_Play_osu!mania)
 - [オフセットウィザードの使用方法](How_to_Use_the_Offset_Wizard)
 - [ビートマップの検索とダウンロード](Searching_and_Downloading_Beatmaps)
 - [タブレットの購入](Tablet_Purchase)
@@ -44,9 +41,7 @@ no_native_review: true
 
 ## スキニング
 
-*メインページ: [スキニング](/wiki/Skinning)*
-
-*関連情報: [スキニング チュートリアル](/wiki/Skinning_Tutorial)*
+*メインページ: [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)*
 
 - [複雑な背景でのトリミング](Cropping_with_Complex_Backgrounds)
 - [シンプルな背景でのトリミング](Cropping_with_Simple_Backgrounds)
@@ -55,6 +50,6 @@ no_native_review: true
 ## その他
 
 - [Discord Rich Presence](Discord_Rich_Presence)
-- [osu!のライブストリーミング](Live_Streaming_osu!)
+- [osu!のライブストリーミング](Livestreaming_osu!)
 - [OpenGLサポートの問題](OpenGL_Support_Issues)
 - [osu!の録画](Recording_osu!)

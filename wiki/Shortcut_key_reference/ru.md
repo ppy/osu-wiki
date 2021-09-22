@@ -23,7 +23,7 @@ outdated: true
 - `F12`: Сделать скриншот
 - `Shift` + `F12`: Сделать скриншот и загрузить скриншот на сервер для отправки
 - `Insert`: ([Кнопка-антибосс](https://en.wikipedia.org/wiki/Boss_key)) Свернуть клиент osu! в трей
-- `Shift` + `F1`: Открывает [osu!status](https://twitter.com/osustatus "osu!status в Twitter") (когда появляется ошибка подключения)
+- `Shift` + `F1`: Открывает [osu!status](https://twitter.com/osustatus) (когда появляется ошибка подключения)
 
 ## Главное меню
 
@@ -66,7 +66,7 @@ outdated: true
 
 - `Alt` + `Стрелка вверх`: Увеличить громкость
 - `Alt` + `Стрелка вниз`: Уменьшить громкость
-- `F1`: Меню выбора [модов](/wiki/Game_Modifiers)
+- `F1`: Меню выбора [модов](/wiki/Game_modifier)
 - `F2`: Случайно выбрать карту
 - `Shift` + `F2`: Отменить случайный выбор карты
 - `F3`: Настройки карты
@@ -97,13 +97,12 @@ outdated: true
 
 ### Выбор модов
 
-*Главная страница: [Модификаторы игры](/wiki/Game_Modifiers)*
+*Главная страница: [Модификаторы игры](/wiki/Game_modifier)*
 
 **Заметки:**
 
 - Справка снизу предполагает, что никакие моды не выбраны в данный момент.
 - Некоторые моды требуют двойного нажатия на кнопку.
-
 - `Q`: [Easy](/wiki/Easy_mod)
 - `W`: [No Fail](/wiki/No_Fail)
 - `E`: [Half Time](/wiki/Half_Time)
@@ -115,7 +114,7 @@ outdated: true
 - `S`, затем `S`: [Perfect](/wiki/Perfect)
 - `D`: [Double Time](/wiki/Double_Time)
 - `D`, затем `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, и osu!catch)
+- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, и osu!catch)
   - эта кнопка будет включать/выключать [Fade In](/wiki/Fade_In) для osu!mania
 - `F`, затем `F`: [Hidden](/wiki/Hidden) (только в osu!mania)
 - `G`: [Flashlight](/wiki/Flashlight)

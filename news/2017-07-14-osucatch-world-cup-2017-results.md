@@ -13,7 +13,7 @@ The past five weeks have seen 189 intrepid fruit-catchers from 32 different coun
 
 South Korea and China, two true powerhouses of the game would take to the stage one final time, both bringing their own dreams and aspirations. China, looking to claim their second victory in a row after triumphing over Indonesia in 2016. South Korea, looking to return to the winners' circle after emerging triumphant in 2014 and 2015. Could South Korea repeat their Winners' Bracket victory, or would China return with a vengeance to steal the show? Read on to find out, or check out the video on demand below!
 
-<iframe src="https://player.twitch.tv/?video=v157762013&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" width="100%" height="368"></iframe>
+<iframe src="https://player.twitch.tv/?video=v157762013&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" width="100%" height="368"></iframe>
 
 South Korea could claim a tactical advantage from the start, having seen China's performance on nearly every map in the pool after their breathtaking 6-5 victory over Indonesia the previous week. They knew the DoubleTime strength of the Chinese team, again choosing to ban [ChouCho - Yasashisa no Riyuu](https://osu.ppy.sh/beatmaps/1144716&m=2). China responded in kind, again banning one of the two Approach Rate 8 Hidden picks, [Grand Thaw - Aventyr](https://osu.ppy.sh/beatmaps/1055601&m=2). China would, unsurprisingly, kick off with DoubleTime, locking in [NeLiME - CODE NAME : ZERO](https://osu.ppy.sh/beatmaps/374235&m=2), with captain [Dusk](https://osu.ppy.sh/users/533210) finally securing a winning roll and having the chance to pick first.
 
@@ -31,7 +31,7 @@ With their options running out, China turned to HardRock, picking the CS6.5 [Yoo
 
 The insanely technical standard convert [gmtn vs. kozato - squartatrice](https://osu.ppy.sh/beatmaps/499713&m=2) from the NoMod pool would be the stage, a map which South Korea lost as their first pick at the previous meeting. Chinese hopes were high as they were buoyed by some impressive early comboing, but as the map ran on, the wheels came off, with South Korea sealing the victory and with it, the crown of 2017 osu!catch World Champions.
 
-![](/wiki/Tournaments/CWC/2017/podium.jpg)
+![](/wiki/Tournaments/CWC/2017/img/podium.jpg)
 
 Congratulations to South Korea on becoming three-time osu!catch World Champions, who each take home $300 in prize money, an exclusive osu! tumbler and pins, a unique profile badge, and the "osu!catch Champion" user title for one year.
 

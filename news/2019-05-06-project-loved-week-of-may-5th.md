@@ -18,12 +18,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -49,7 +49,7 @@ ONLYWONDER is the last remaining piece without the leaderboard of n0ah's frederi
 
 [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence](https://osu.ppy.sh/beatmapsets/94671#osu) by [ignorethis](https://osu.ppy.sh/users/27343)  
 165 BPM, 1:57 | 7.08★  
-The [Hyper] and [Taiko Oni] difficulties are *not* being nominated for Loved.  
+The \[Hyper\] and \[Taiko Oni\] difficulties are *not* being nominated for Loved.  
 *description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
 If you're looking for a calm and relaxing map to pass the day, you must have taken a wrong turn. Those who recognize this song from a previous Loved map by [Flower](https://osu.ppy.sh/users/1033017) will know of its complex nature and alt-styled patterns. Submitted in 2013, this map by ignorethis pushed this idea a little further, with smaller circles, denser patterns, and higher star ratings. Many players will find themselves struggling to even pass this map due to its unconventionally-angled jumps and streams.
@@ -110,7 +110,7 @@ You are going to need a lot of stamina for this one! This one is from Xearo, wit
 
 This is a song about a girl and how she is thriving to achieve love from people. It is quite a deep one sung by vocaloid Hatsune Miku. It has four difficulties, two of which are made by the creator, nyu -. Each difficulty is made well with nothing out of the ordinary. The hardest difficulty is 4.55 stars and lowest 1.25, so it has some difficulty spread for various skill levels. It has gotten 106 favourites so far and is a fairly aged map. Give it a try and enjoy the song!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -144,12 +144,12 @@ Tower of Heaven is a classic stream map that I'm sure many players hold dear to 
 
 [UNDEAD CORPORATION - Flowering Night Fever](https://osu.ppy.sh/beatmapsets/414317#taiko) by [Ekoro](https://osu.ppy.sh/users/284905)  
 290 BPM, 3:52 | 8.24★  
-The [Electrical Freeze] difficulty is *not* being nominated for Loved.  
+The \[Electrical Freeze\] difficulty is *not* being nominated for Loved.  
 *description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
 This week, we have a high-BPM map that even the best may stumble at. This map, which offers many streams at 290 BPM, whittles at the player's stamina without giving any time to recover, making speed and stamina very crucial. Many players use this map for multiplayer and set passing it as their goal. I think all of these aspects make this map one of Ekoro's masterpieces.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -161,9 +161,9 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 150 BPM, 4:56 | 5.92★, 5.92★  
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-This is the song probably every osu! player knows, "Bad apple!!", only it is remixed by Nardis. [-naniwa-] has made quite a few maps over the years they have been playing, and this is the first of their maps being nominated for the Loved category. The map consists of two difficulties, where the only change is the approach rate. The difficulty with the lower approach rate might be more accessible to toy around with some mods such as Hidden and DoubleTime. If you're not very adept with mods, the map will still be a fun challenge to either just pass or go for the full combo.
+This is the song probably every osu! player knows, "Bad apple!!", only it is remixed by Nardis. \[-naniwa-\] has made quite a few maps over the years they have been playing, and this is the first of their maps being nominated for the Loved category. The map consists of two difficulties, where the only change is the approach rate. The difficulty with the lower approach rate might be more accessible to toy around with some mods such as Hidden and DoubleTime. If you're not very adept with mods, the map will still be a fun challenge to either just pass or go for the full combo.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

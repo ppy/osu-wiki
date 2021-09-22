@@ -1,0 +1,66 @@
+separator: "、"
+alumni:
+  roles:
+    academy: osu!academy創設者
+    admin: 管理者
+    chat: チャットモデレーター
+    dev: osu!dev
+    media: osu!media制作者
+    support: サポートチーム
+    tournaments: トーナメント運営
+gmt:
+  all_mods: すべてのモデレーター
+  areas:
+    beatmap: ビートマップモデレーション
+    chat: チャットモデレーション
+    forum: フォーラムモデレーション
+    team: オフィシャルチームプレゼンス
+    dev: osu!開発者
+    player: プレーヤーサポート
+    support: テクニカルサポート
+    tournaments: トーナメント運営
+    wiki: wiki管理者
+    mapping: mapping/modding コミュニティ モデレーション
+nat:
+  areas:
+    communication: コミュニケーション
+    evaluation: 評価
+    moderation: モデレーション
+    structural: 構造
+languages:
+  partial: 部分的な<language>
+  ar: アラビア語
+  bg: ブルガリア語
+  bn: ベンガル語
+  ca: カタルーニャ語
+  da: デンマーク語
+  de: ドイツ語
+  el: ギリシャ語
+  es: スペイン語
+  et: エストニア語
+  fi: フィンランド語
+  fil: フィリピン語
+  fr: フランス語
+  gl: ガリシア語
+  hr: クロアチア語
+  hu: ハンガリー語
+  id: インドネシア語
+  it: イタリア語
+  ja: 日本語
+  ko: 韓国語
+  ms: マレー語
+  nl: オランダ語
+  no: ノルウェー語
+  pl: ポーランド語
+  pt: ポルトガル語
+  ro: ルーマニア語
+  ru: ロシア語
+  sr: セルビア語
+  sv: スウェーデン語
+  te: テルグ語
+  th: タイ語
+  tr: トルコ語
+  ur: ウルドゥー語
+  vi: ベトナム語
+  yue: 広東語
+  zh: 中国語

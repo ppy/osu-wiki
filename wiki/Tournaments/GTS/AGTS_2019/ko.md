@@ -1,7 +1,9 @@
 ---
 tags:
-- AGTS 2019
-- AGTS2019
+  - AGTS 2019
+  - AGTS
+  - GTS
+outdated: true
 ---
 
 # Advanced Global Taiko Showdown 2019
@@ -27,9 +29,9 @@ tags:
 
 | 등수 | 상품 |
 | :-: | :-- |
-| ![금메달](/wiki/shared/GCrown.png "1등") | 프로필 배지, 팀 배너 |
-| ![은메달](/wiki/shared/SCrown.png "2등") | 팀 배너 |
-| ![동메달](/wiki/shared/BCrown.png "3등") | 팀 배너 |
+| ![금메달](/wiki/shared/crown-gold.png "1등") | 프로필 배지, 팀 배너 |
+| ![은메달](/wiki/shared/crown-silver.png "2등") | 팀 배너 |
+| ![동메달](/wiki/shared/crown-bronze.png "3등") | 팀 배너 |
 
 ![AGTS 2019 우승자 배지](img/badge.png)
 
@@ -57,8 +59,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 - [라이브 방송](https://www.twitch.tv/gtsosu)
 - [Challonge 대진표](https://challonge.com/AGTS2019)
 - **[메인 스프레드시트](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
-
----
 
 ## 참가자
 
@@ -103,10 +103,8 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | **B** | ![][flag_JP] 일본 | ![][flag_AR] 아르헨티나 | ![][flag_HK] 홍콩 | ![][flag_CL] 칠레 |
 | **C** | ![][flag_NL] 네덜란드 | ![][flag_FR] 프랑스 | ![][flag_MX] 멕시코 | ![][flag_TW] 대만 |
 | **D** | ![][flag_US] 미국 A | ![][flag_RU] 러시아 A | ![][flag_US] 미국 B | ![][flag_BR] 브라질 |
-| **E** | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 A | ![][flag_DK] ![][flag_NO] ![][flag_SE] 스칸디나비아 | ![][flag_VE] 베네수엘라
+| **E** | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 A | ![][flag_DK] ![][flag_NO] ![][flag_SE] 스칸디나비아 | ![][flag_VE] 베네수엘라 |
 | **F** | ![][flag_CA] 캐나다 | ![][flag_GB] ![][flag_PT] 영국/포르투갈 | ![][flag_ID] 인도네시아 A | ![][flag_ID] 인도네시아 B |
-
----
 
 ## 순위권
 
@@ -114,11 +112,9 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 | 등수 | 국가 |
 | :-: | :-- |
-| ![금메달](/wiki/shared/GCrown.png "1등") | ![][flag_JP] 일본 |
-| ![은메달](/wiki/shared/SCrown.png "2등") | ![][flag_CA] 캐나다 |
-| ![동메달](/wiki/shared/BCrown.png "3등") | ![][flag_RU] 러시아 A |
-
----
+| ![금메달](/wiki/shared/crown-gold.png "1등") | ![][flag_JP] 일본 |
+| ![은메달](/wiki/shared/crown-silver.png "2등") | ![][flag_CA] 캐나다 |
+| ![동메달](/wiki/shared/crown-bronze.png "3등") | ![][flag_RU] 러시아 A |
 
 ## 맵풀
 
@@ -283,8 +279,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
----
-
 ## 경기 결과
 
 ### 최종 결승
@@ -316,7 +310,7 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | --: | :-: | :-: | :-- | :-- |
 | 대만 ![][flag_TW] | 1 | **7** | ![][flag_CA] **캐나다** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | 네덜란드 ![][flag_NL] | 6 | **7** | ![][flag_KR] **대한민국** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| 인도네시아 A ![][flag_ID] | 3 | **7** | ![][flag_KR] **대한민국** | [#1](https://osu.ppy.sh/community/matches/54533409)
+| 인도네시아 A ![][flag_ID] | 3 | **7** | ![][flag_KR] **대한민국** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
 ### 8강
 
@@ -327,7 +321,8 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | **일본** ![][flag_JP] | **6** | 0 | ![][flag_BR] 브라질 | [#1](https://osu.ppy.sh/community/matches/54317042) |
 | **러시아 A** ![][flag_RU] | **6** | 2 | ![][flag_RU] 러시아 B | [#1](https://osu.ppy.sh/community/matches/54317274) |
 | 캐나다 ![][flag_CA] | 4 | **6** | ![][flag_JP] **일본** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| 폴란드 ![][flag_PL] | 1 | **6** | ![][flag_ID] **인도네시아 A** | [#1](https://osu.ppy.sh/community/matches/54320532) | **캐나다** ![][flag_CA] | **6** | 1 | ![][flag_RU] 러시아 B | [#1](https://osu.ppy.sh/community/matches/54322599) |
+| 폴란드 ![][flag_PL] | 1 | **6** | ![][flag_ID] **인도네시아 A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
+| **캐나다** ![][flag_CA] | **6** | 1 | ![][flag_RU] 러시아 B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
 | 일요일, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -380,8 +375,6 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | E4 | **스칸디나비아** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] 베네수엘라 | -win by default- |
 | E5 | 베네수엘라 ![][flag_VE] | 0 | **5** | ![][flag_DE] **독일 A** | -win by default- |
 | D2 | **브라질** ![][flag_BR] | **5** | 3 | ![][flag_US] 미국 A | [#1](https://osu.ppy.sh/community/matches/54181034) |
-
----
 
 ## 규칙
 
@@ -467,7 +460,7 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 6. 각 팀은 각각 하나의 웜업(warm-up) 비트맵을 제시할 수 있습니다. 웜업에 사용되는 곡은 길이가 4분 이하여야 합니다. 웜업은 몇 명이든 참가할 수 있습니다. 즉, 1대1이나 3대3, 2대4 등도 허용됩니다.
 7. 각 팀의 주장은 **맵풀에 있는 하나의 맵을 밴하게 됩니다.** 이때 TB는 밴 대상에서 제외됩니다. 이렇게 밴된 맵은 경기에서 플레이되지 않습니다.
 8. 각 팀의 주장은 `!roll` 커맨드를 사용해 숫자 뽑기를 합니다.
-9. !roll을 통해 더 낮은 숫자를 뽑은 사람이 먼저 맵을 밴하고, 더 높은 숫자를 뽑은 사람이 그 이후에 먼저 맵을 고릅니다.
+9. `!roll`을 통해 더 낮은 숫자를 뽑은 사람이 먼저 맵을 밴하고, 더 높은 숫자를 뽑은 사람이 그 이후에 먼저 맵을 고릅니다.
 10. 플레이할 비트맵 결정은 곡을 밴하는 과정 이후 서로 번갈아가면서 맵풀에서 하나씩 고르게 됩니다.
 11. 경기 중의 플레이어 교체는 언제나 허용됩니다.
 12. 경기 중 선수 교환은 제한없이 허용됩니다.

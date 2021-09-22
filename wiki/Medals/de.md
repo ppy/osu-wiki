@@ -1,13 +1,14 @@
 ---
 outdated: true
 ---
+
 # Medaillen
 
 **Medaillen**, auch früher bekannt als **Achievements** (dt. Erfolge oder Errungenschaften), sind kleine Embleme auf der Profilseite, welche anzeigen, dass jemand eine triviale Herausforderung gemeistert hat. Zur Zeit sind sie in 5 Hauptgruppen unterteilt: **Beatmap Packs**, **Skill**, **Dedication**, **Hush-Hush** und **Mod Introduction**.
 
 ## Beatmap Packs
 
-**Beatmap Packs** Erfolge können erlangt werden, indem aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe gespielt wird. Die Beatmaps müssen im [osu!](/wiki/Game_Modes/osu!/) Modus von osu! gespielt werden.
+**Beatmap Packs** Erfolge können erlangt werden, indem aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe gespielt wird. Die Beatmaps müssen im [osu!](/wiki/Game_mode/osu!) Modus von osu! gespielt werden.
 
 Zur Zeit gibt es 16 dieser Erfolge, welche sich nochmal in 4 Untergruppen aufteilen lassen:
 
@@ -20,10 +21,10 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 
 ### Anforderungen und Hinweise, um Embleme zu erhalten
 
-#### Anforderungen:
+#### Anforderungen
 
 - Spiele eine beliebige Schwierigkeitsstufe von jeder Beatmap eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t)
-- Der Spielmodus muss der [osu!](/wiki/Game_Modes/osu!/) Modus sein.
+- Der Spielmodus muss der [osu!](/wiki/Game_mode/osu!) Modus sein.
 - Entpacke das `Theme Beatmap Pack` und packe alle Beatmaps in den osu! Song Ordner. Starte osu! und spiel die Maps. Das ist alles.
   - Sollte die Beatmap als `.zip` Datei vorliegen, dann verschieb sie als `.zip` in den osu! Song Ordner und erstelle nicht einen neuen Ordner dafür.
   - Die Beatmaps können auch einzeln heruntergeladen und gespielt werden.
@@ -31,7 +32,7 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 - Man muss mit seinem Account im Spiel angemeldet sein. Nur auf der Webseite angemeldet zu sein, reicht nicht aus.
 - Mods können nach Belieben benutzt werden, außer Mods wie `Relax`, ansonsten wird der erspielte Rekord nicht gezählt.
 
-#### Hinweise:
+#### Hinweise
 
 - Nach Erhalten des Erfolges können die dafür benötigten Beatmaps wieder gelöscht werden. Der Erfolg, Ranked Score und die Genauigkeit bleiben erhalten. Falls man jedoch seinen Ranked Score oder die Genauigkeit verbessern möchte, dann sollte man die Beatmaps jedoch behalten oder neu herunterladen.
 - Falls man sich fragt, warum man einen der Theme Pack Erfolge nicht erhalten hat und eventuell das Gefühl hat, dass eine Map fehlt, dann kann man zu jeder Zeit die [Theme Pack Liste](https://osu.ppy.sh/p/packlist?t=t) überprüfen. Jede geschaffte Map hat ein dickgedrucktes **CLEARED** neben sich.
@@ -50,7 +51,7 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 
 ## Skill
 
-Es gibt derzeit 4 Komboerfolge, indem man eine bestimmte [Kombo](/wiki/Glossary) im osu! Standard Modus auf einer beliebigen Ranked/Approved Beatmap erreicht bzw. überschreitet. Das Erreichen der Kombo in anderen Spielmodi zählt nicht.
+Es gibt derzeit 4 Komboerfolge, indem man eine bestimmte [Kombo](/wiki/Beatmapping/Combo) im osu! Standard Modus auf einer beliebigen Ranked/Approved Beatmap erreicht bzw. überschreitet. Das Erreichen der Kombo in anderen Spielmodi zählt nicht.
 
 Neben den Komboerfolgen gibt es noch weitere 20 Erfolge für jeden Spielmodi (osu!, osu!taiko, osu!catch und osu!mania), die in 3 Gruppen aufgeteilt sind: **Rank**, **Pass** und **Perfect**.
 
@@ -62,7 +63,7 @@ Bei den 8 **Pass** und 8 **Perfect** Erfolgen muss eine beliebige Ranked/Approve
 
 ## Dedication
 
-**Dedication** (dt. Hingabe) Erfolge können erreicht werden, indem man viele Runden im [osu!](/wiki/Game_Modes/osu!/) Modus spielt / Früchte in [osu!catch](/wiki/Game_Modes/osu!catch/) sammelt / Noten in [osu!taiko](/wiki/Game_Modes/osu!taiko/) trifft / viele Tasten in [osu!mania](/wiki/Game_Modes/osu!mania/) drückt.
+**Dedication** (dt. Hingabe) Erfolge können erreicht werden, indem man viele Runden im [osu!](/wiki/Game_mode/osu!) Modus spielt / Früchte in [osu!catch](/wiki/Game_mode/osu!catch) sammelt / Noten in [osu!taiko](/wiki/Game_mode/osu!taiko) trifft / viele Tasten in [osu!mania](/wiki/Game_mode/osu!mania) drückt.
 
 ## Hush-Hush
 

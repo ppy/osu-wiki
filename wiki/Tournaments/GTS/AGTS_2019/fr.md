@@ -1,7 +1,9 @@
 ---
 tags:
-- AGTS 2019
-- AGTS2019
+  - AGTS 2019
+  - AGTS
+  - GTS
+outdated: true
 ---
 
 # Advanced Global Taiko Showdown 2019
@@ -27,9 +29,9 @@ L'**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) est un tournoi par p
 
 | Classement | Prix |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/GCrown.png "1ère place") | Un badge unique sur le profil, une bannière d'équipe exclusive |
-| ![Couronne en argent](/wiki/shared/SCrown.png "2ème place") | Une bannière d'équipe exclusive |
-| ![Couronne en bronze](/wiki/shared/BCrown.png "3ème place") | Une bannière d'équipe exclusive |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | Un badge unique sur le profil, une bannière d'équipe exclusive |
+| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | Une bannière d'équipe exclusive |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | Une bannière d'équipe exclusive |
 
 ![Badge des gagnants de l'AGTS 2019](img/badge.png)
 
@@ -57,8 +59,6 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 - [Diffusion en direct](https://www.twitch.tv/gtsosu)
 - [Tableaux Challonge](https://challonge.com/AGTS2019)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
-
----
 
 ## Participants
 
@@ -103,10 +103,8 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 | **B** | ![][flag_JP] Japon | ![][flag_AR] Argentine | ![][flag_HK] Hong Kong | ![][flag_CL] Chili |
 | **C** | ![][flag_NL] Pays-Bas | ![][flag_FR] France | ![][flag_MX] Mexique | ![][flag_TW] Taïwan |
 | **D** | ![][flag_US] États-Unis A | ![][flag_RU] Russie A | ![][flag_US] États-Unis B | ![][flag_BR] Brésil |
-| **E** | ![][flag_KR] Corée du Sud | ![][flag_DE] Allemagne A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavie | ![][flag_VE] Venezuela
+| **E** | ![][flag_KR] Corée du Sud | ![][flag_DE] Allemagne A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavie | ![][flag_VE] Venezuela |
 | **F** | ![][flag_CA] Canada | ![][flag_GB] ![][flag_PT] Royaume-Uni/Portugal | ![][flag_ID] Indonésie A | ![][flag_ID] Indonésie B |
-
----
 
 ## Podium
 
@@ -114,11 +112,9 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 | Classement | Pays |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] Japon |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CA] Canada |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_RU] Russie A |
-
----
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] Japon |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] Canada |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] Russie A |
 
 ## Liste des maps
 
@@ -283,8 +279,6 @@ Cette compétition est maintenant terminée, voici le classement final:
 - DoubleTime
   - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
 
----
-
 ## Résultats des matchs
 
 ### Grande Finale
@@ -316,7 +310,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 | --: | :-: | :-: | :-- | :-- |
 | Taïwan ![][flag_TW] | 1 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Pays-Bas ![][flag_NL] | 6 | **7** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| Indonésie A ![][flag_ID] | 3 | **7** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/54533409)
+| Indonésie A ![][flag_ID] | 3 | **7** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
 ### Quarts de finale
 
@@ -327,7 +321,8 @@ Cette compétition est maintenant terminée, voici le classement final:
 | **Japon** ![][flag_JP] | **6** | 0 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/community/matches/54317042) |
 | **Russie A** ![][flag_RU] | **6** | 2 | ![][flag_RU] Russie B | [#1](https://osu.ppy.sh/community/matches/54317274) |
 | Canada ![][flag_CA] | 4 | **6** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| Pologne ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54320532) | **Canada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Russie B | [#1](https://osu.ppy.sh/community/matches/54322599) |
+| Pologne ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
+| **Canada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Russie B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
 | Dimanche, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -380,8 +375,6 @@ Cette compétition est maintenant terminée, voici le classement final:
 | E4 | **Scandinavie** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] Venezuela | -win by default- |
 | E5 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_DE] **Allemagne A** | -win by default- |
 | D2 | **Brésil** ![][flag_BR] | **5** | 3 | ![][flag_US] États-Unis A | [#1](https://osu.ppy.sh/community/matches/54181034) |
-
----
 
 ## Règles
 
@@ -493,34 +486,34 @@ All-stars est un événement fait pour le fun, se déroulant le même week-end q
    - Il est autorisé de changer ses joueurs entre les maps sans limite aucune.
    - Les même règles pour les déconnexions s'appliquent qu'en temps normal.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
+[flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
+[flag_EC]: /wiki/shared/flag/EC.gif "Equateur"
+[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

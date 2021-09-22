@@ -14,16 +14,16 @@ The beatmap charts for the Summer Spotlights can be found [here](https://osu.ppy
 
 You may have noticed that the regular Monthly Beatmap Spotlights slowed down a bit and then outright stopped a few months ago. After some internal discussion, we've decided to revamp the project to follow a seasonal release schedule going forward - and thus the Seasonal Spotlights are born!
 
-+ **Spring Spotlights**: Showcases maps ranked from March 1st to May 31st, and released on June 30th
-+ **Summer Spotlights**: Showcases maps ranked from June 1st to August 31st, and released on September 30th
-+ **Fall Spotlights**: Showcases maps ranked from September 1st to November 30th, and released on December 31st
-+ **Winter Spotlights**: Showcases maps ranked from December 1st to February 28th or 29th, and released on March 31st.
+- **Spring Spotlights**: Showcases maps ranked from March 1st to May 31st, and released on June 30th
+- **Summer Spotlights**: Showcases maps ranked from June 1st to August 31st, and released on September 30th
+- **Fall Spotlights**: Showcases maps ranked from September 1st to November 30th, and released on December 31st
+- **Winter Spotlights**: Showcases maps ranked from December 1st to February 28th or 29th, and released on March 31st.
 
 The astute among us will note that it is indeed November, and not September at the moment - the delay in releasing the Summer Spotlights is a one-time affair and the others will all be proceeding following the schedule listed above.
 
 **The Spotlights team is also looking for new members!** If you've ever been interested in helping pick out the best of the best beatmaps from a given seasonal cycle and think you've got what it takes to contribute, we want to hear from you! Check out the application [here](https://goo.gl/XdNvXo)!
 
-If you just want to observe the process and get a feel for things, we've decided to make our Discord server public and you are [free to join](http://discord.gg/Z28ZtUf) if you like. With that said, discussion about the future and other important stuff will still happen on the dedicated *#osu-spotlights* channel over at the [osu! development Discord](Http://discord.gg/ppy).
+If you just want to observe the process and get a feel for things, we've decided to make our Discord server public and you are [free to join](http://discord.gg/Z28ZtUf) if you like. With that said, discussion about the future and other important stuff will still happen on the dedicated *#osu-spotlights* channel over at the [osu! development Discord](https://discord.gg/ppy).
 
 We're also looking to freshen up the Spotlights gameplay experience to make it a little more competitive. The top three players who manage to conquer the Seasonal Spotlights leaderboards can look forward to receiving 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively.
 
@@ -31,16 +31,16 @@ We are also pushing to increase the visibility of the Spotlights on the website 
 
 For now, let's get stuck right into this year's blazing summer beatmap hits!
 
-# Summer 2018 Spotlights
+## Summer 2018 Spotlights
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+### osu!
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/osu/last-minute.jpg)](https://osu.ppy.sh/beatmapsets/813036)
 
@@ -100,7 +100,7 @@ With an upbeat tempo and groovy beat, [tutuhaha](https://osu.ppy.sh/users/546991
 
 Last but not least, [bor](https://osu.ppy.sh/users/4116573) provides us with a stunning mapset of Draw The Emotional's "Sad Spring". The highest difficulty puts a huge focus on motion, with every object having just the right impact. The extravagant streamshapes feel very satisfying to play. All that accompanied by an ambitious and consistent spread with the help of [Lasse](https://osu.ppy.sh/users/896613) and [Aeril](https://osu.ppy.sh/users/4334976), this is a mapset everyone should try!
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/taiko/bison-charge.jpg)](https://osu.ppy.sh/beatmapsets/739116)
 
@@ -205,7 +205,7 @@ Super solid mapset overall and a worthy addition to the Spotlights!
 
 Definitely my personal favourite map of the summer, honestly what a banger. odaxelagnia's "#sawg" remixed by Wan Bushi features relatively fast paced breakcore, which [Ulqui](https://osu.ppy.sh/users/1263669) did a great job representing through this map. With beautifully made tricky 1/6 patterns and carefully placed Slider Velocity progressions, they combine to make this map an amazing piece of artwork that is really fun to play!
 
-## <a name="catch" id="catch"></a>osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/catch/tokei-no-heya.jpg)](https://osu.ppy.sh/beatmapsets/639409)
 
@@ -239,7 +239,7 @@ Bringing us another fantastic map in the style we all know and love, Camellia's 
 
 And of course, for everyone else, the Cup through Rain difficulties definitely provide a challenge well above the curve of a normal mapset, giving something for everyone to play and enjoy!
 
-## <a name="mania" id="mania"></a>osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2018-11-01-beatmap-spotlights-summer-2018/mania/lost.jpg)](https://osu.ppy.sh/beatmapsets/624059)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skin Showcase: Shingeki no Kyojin"
-date: 2014-12-05 00:00:00 +0000
+date: 2013-12-05 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/69104260522/skin-showcase-shingeki-no-kyojin
 ---
 

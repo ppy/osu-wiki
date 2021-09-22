@@ -24,7 +24,7 @@ Requiring two more wins simply to secure a tiebreaker after a break point, Brazi
 
 ### [South Korea vs United States](https://osu.ppy.sh/community/matches/46519536)
 
- <iframe src="https://player.twitch.tv/?autoplay=false&video=v319366674" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
+ <iframe src="https://player.twitch.tv/?video=v319366674&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 The United States team once again successfully opened with [Tachyon Beam Cannon](https://osu.ppy.sh/beatmaps/1782639&m=3), while South Korea took their expected point on the tough LN pick, [VERTeX](https://osu.ppy.sh/beatmaps/1783679&m=3) by more than 75,000, a 30k+ larger victory than last time, setting up both a 1-1 score and the stage for what would seem to be yet another grueling punch-for-punch duel.
 
@@ -56,4 +56,4 @@ This year's MWC was indeed a blast. We had a lot of fun bringing you the action 
 
 ![](/wiki/shared/news/2018-10-11-osu!mania-World-Cup-2018-Grand-Finals-Recap/blamejuan.png)
 
---World Cup Staff
+—World Cup Staff

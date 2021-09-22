@@ -78,7 +78,7 @@ Achieving **3664** votes, [R3\_AL](https://osu.ppy.sh/users/11983357)'s adorable
 
 On wings of a spring-tinged dream, **3647** voters were enthralled by [RaudhrAkai](https://osu.ppy.sh/users/1631442)'s fantastical take on an otherworldly Pippi enjoying some springtime scenery. Well done!
 
----------
+---
 
 Like what you see? [Download all of the entries bundled together in high quality here!](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20Winners.zip)
 

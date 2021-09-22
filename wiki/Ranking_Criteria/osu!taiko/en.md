@@ -8,7 +8,7 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](../Difficulty_Naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
 - ![](/wiki/shared/diff/easy-t.png) Kantan
 - ![](/wiki/shared/diff/normal-t.png) Futsuu
@@ -21,7 +21,7 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 - **Don / Red note:** A beat that can be hit with any of the Drum Center attached keys (default keys `X`, `C`).
 - **Kat / Blue note:** A beat that can be hit with any of the Drum Rim attached keys (default keys `Z`, `V`).
 - **Big don / Big red note / Finisher note:** A strong beat that can be hit with both Drum Center keys at the same time for extra score.
-- **Big kat / Big blue note / Finisher note:**  A strong beat that can be hit with both Drum Rim keys at the same time for extra score.
+- **Big kat / Big blue note / Finisher note:** A strong beat that can be hit with both Drum Rim keys at the same time for extra score.
 - **BPM:** An acronym for "beats per minute" used to determine the tempo of a song.
 - **Slider/Drumroll:** A yellow bar with ticks inside of it which are played with any of the assigned keys. These ticks are usually snapped to 1/4 corresponding to the song's BPM. If the BPM is lower than 125, the snapping will change to 1/8. If the BPM is higher than 250, it will change to 1/2. If slider tick rate is set to 3, the slider ticks will instead snap to 1/3.
 - **Spinner:** A round element that requires the player to alternate between hitting Don/Kat for a determined number of times, which is shown in the center of the spinner. This number depends on the Overall Difficulty of the map as well as the length of the spinner.
@@ -63,7 +63,7 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 - **Substantial overlapping should be avoided so that the colour of each note is still easily readable and does not pose unnecessary visual disturbance.** Overlapping should only be done if the song's pacing or note snapping at that point could justify it.
 - **Avoid rhythms which are in no way predictable.** Rhythm can be made intuitive through the usage of consistent timeline gaps bridging between different snappings or through rest moments.
 - **Kiai time should only be used for the chorus or emphasized parts of a song.** Kiai flashes/short kiais are discouraged for several reasons: they disturb the gameplay experience especially on low-end PC users, and can cause trouble for epileptic users.
-- **The base slider velocity should be 1.40 throughout all difficulties of a mapset.** This is to ensure optimal quantity of notes on the playfield, as well as the optimal distance of separation between different notes.
+- **The base slider velocity should be 1.40 throughout all difficulties of a beatmap.** This is to ensure optimal quantity of notes on the playfield, as well as the optimal distance of separation between different notes.
 - **Slider tick rate should be set according to the song.** In most cases, it should be set to 1. If the song uses 1/3 as its main snapping, use tickrate 3 to snap the drumroll ticks to 1/3.
 - **Avoid following multiple layers of the song if it is unclear which rhythm is being prioritized.** Players should be able to discern what part of the song is being followed.
 - **Use low volume or silent spinners only when it suits a low volume section of the song.** In most other scenarios, having audible hitsound feedback on spinners is highly recommended.
@@ -80,7 +80,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Finisher notes must not be used in patterns as such. For songs that follow a swing beat, this limit is 1/3.
-- **Patterns on snaps faster than 1/2 are disallowed.** These patterns are too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
+- **Notes must be at least 1/2 of a beat apart.** Anything faster is too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
 
 #### Guidelines
 
@@ -99,23 +99,23 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
-- **If a 1/3 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Finisher notes must not be used in patterns as such.
-- **Patterns on snaps faster than 1/3 are disallowed.** These patterns are too complex for beginner players.
+- **If a 1/3 pattern is used, the patterns must stay simplistic.** Finisher notes must not be used in patterns as such.
+- **Notes must be at least 1/3 of a beat apart.** Anything faster is too complex for beginner players.
 
-If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmapset, it must also abide by these rules:
+If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmap, it must also abide by these rules:
 
-- **Patterns on snaps faster than 1/2 are disallowed.** These patterns are too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
+- **Notes must be at least 1/2 of a beat apart.** Anything faster is too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
 
 #### Guidelines
 
-- **1/3 patterns should not be longer than two notes.** Anything longer is very situational and usually too complex for newer players. Patterns like these should be followed by a rest moment.
-- **1/2  patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
+- **1/3 patterns should not be longer than two notes.** Anything longer is very situational and usually too complex for newer players. These patterns should be followed by a rest moment within 2/1, and patterns that are 1/2 or faster should be avoided during that time.
+- **1/2 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
 - **Main snapping should consist of mostly 1/1, 2/1 or slower rhythms.** Occasionally using 1/2 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
 - **At least 1 rest moment that is 2/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Simple Slider velocity changes may be used.**
 
-If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
+If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmap, it should also follow these guidelines:
 
 - **1/2 patterns should not be longer than five notes.**
 - **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
@@ -130,7 +130,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 #### Rules
 
 - **Finisher notes must not be used in any 1/4 patterns or faster in this difficulty.** The finisher usage on these patterns is too complicated for the audience at this level.
-- **Patterns on snaps faster than 1/6 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
+- **Notes must be at least 1/6 of a beat apart.** Anything faster is too complex for the target audience of this difficulty level.
 
 #### Guidelines
 
@@ -154,7 +154,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Finisher notes must not be used in any 1/6 patterns or faster in this difficulty.** The finisher usage on these patterns is too complicated for the audience at this level.
 - **Finisher notes for 1/4 patterns in this difficulty must only be used at the end of that pattern.** Placements other than this can disturb the readability for the audience at this level.
-- **Patterns on snaps faster than 1/8 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
+- **Notes must be at least 1/8 of a beat apart.** Anything faster is too complex for the target audience of this difficulty level.
 
 #### Guidelines
 
@@ -162,7 +162,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - **1/4 patterns should not be longer than nine notes.** Anything longer is likely to be too straining for the target audience of this difficulty level.
 - **Main snapping should consist of mostly 1/2 and occasional 1/1 rhythms.** 1/4 rhythms may be used more frequently at this level of difficulty.
 - **There should be at least 1/4 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment which is 1/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on beginners.
+- **At least 1 rest moment which is 1/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Players may be too strained if there are not enough rests or the rests are too short.
 - **1/4 patterns which are longer than five notes should avoid complicated colour changes.** Longer patterns with such complexity would be too demanding for the target audience of this difficulty level.
 
 #### Difficulty setting guidelines

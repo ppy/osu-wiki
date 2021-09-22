@@ -226,7 +226,7 @@ This means **eight** brand new tracks of varying intensity and composition to pl
     <source src="https://assets.ppy.sh/artists/15/previews/414.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 All the tracks listed above are completely free to use for mapping in osu! and any game mode therein, so worry less, and map more!
 

@@ -27,9 +27,9 @@ All prizes were awarded to osu! and osu!mania winners.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge |
 
-![NFL profile badge](img/badge.jpg)
+![](img/badge.jpg "NFL winner badge")
 
 ## Organisation
 
@@ -37,7 +37,7 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Position | Member(s) |
 | :-- | :-- |
-| Map selector | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [slushy](https://osu.ppy.sh/users/3692940), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
+| Mappool selector | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [slushy](https://osu.ppy.sh/users/3692940), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 | Streamer | ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
 | Commentator | ![][flag___] Matthew<!-- TODO what is his osu profile -->, ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [ruruchewy](https://osu.ppy.sh/users/7112839), ![][flag_US] [Sukida](https://osu.ppy.sh/users/4097867), ![][flag_US] [Yattaze](https://osu.ppy.sh/users/13870255) |
 | Referee | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [PingusKhan](https://osu.ppy.sh/users/9648050), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
@@ -93,17 +93,17 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CA] [Dark lord bob](https://osu.ppy.sh/users/4588299) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [Dark lord bob](https://osu.ppy.sh/users/4588299) |
 
 ## Mappools
 
@@ -508,6 +508,6 @@ Both tournaments will use a standard double-elimination format for playoffs.
 3. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
 4. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
 
-[flag___]: /wiki/shared/flag/__.gif
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag___]: /wiki/shared/flag/__.gif

@@ -20,11 +20,11 @@ Let's get stuck in!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/osu/snow-drive.jpg)](https://osu.ppy.sh/community/forums/topics/699475)
 
@@ -82,7 +82,7 @@ To end the list for the osu! mode, [Necroluttah](https://osu.ppy.sh/users/291747
 
 This set has amassed over 230 favourites and remains one of the most popular unranked 8* maps. Though only 2 minutes long, it's a wild ride.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/taiko/ishikitakaikei.jpg)](https://osu.ppy.sh/community/forums/topics/699491)
 
@@ -114,7 +114,7 @@ Ah, a funny little quirk about this map. The description for this actually says 
 
 Kinda funny how life works isn't it? Anyway, a map well known to players from TWC 2016, this is a very fun set with a little for all types of players, with an outstanding top diff.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 [![](/wiki/shared/news/2018-02-05-project-loved-february-week-1/mania/the-mastermind.jpg)](https://osu.ppy.sh/community/forums/topics/699501)
 
@@ -178,7 +178,7 @@ Once again, [PiraTom](https://osu.ppy.sh/users/1847698) and [inteliser](https://
 
 This is a quick, dense and varied semi-finals pick in 2016 meaning that this chart certainly doesn't mess about, and getting that full combo may be easier said than done. That said, good luck!
 
------
+---
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame?lang=en).
 

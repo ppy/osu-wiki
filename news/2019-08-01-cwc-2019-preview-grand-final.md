@@ -12,7 +12,7 @@ A little over a month ago, the curtain was raised on the 2019 edition of the osu
 
 If you missed any of the exciting action that led us to this point, VODs from throughout the tournament are available on the [osu!live Twitch channel](https://www.twitch.tv/osulive) for your viewing pleasure!
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v458642937" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe><br/>
+<iframe src="https://player.twitch.tv/?video=v458642937&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe><br/>
 
 I highly recommend checking out the Finals Week 1 matches that led us to here if you have the time, but if you prefer the busy person's overview of last weekend's encounters, feel free to read on below!
 

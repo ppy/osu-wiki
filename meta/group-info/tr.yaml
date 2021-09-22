@@ -1,0 +1,66 @@
+separator: ", "
+alumni:
+  roles:
+    academy: osu!academy kurucusu
+    admin: yönetim
+    chat: sohbet moderatörü
+    dev: osu!dev
+    media: osu!media yapımı
+    support: destek ekibi
+    tournaments: turnuva yönetimi
+gmt:
+  all_mods: tüm moderatörler
+  areas:
+    beatmap: beatmap moderasyonu
+    chat: sohbet moderasyonu
+    forum: forum moderasyonu
+    team: resmi takım temsilcisi
+    dev: osu! geliştirme
+    player: oyuncu desteği
+    support: teknik destek
+    tournaments: turnuva yönetimi
+    wiki: wiki yönetimi
+    mapping: mapping/modding topluluk moderasyonu
+nat:
+  areas:
+    communication: haberleşme
+    evaluation: değerlendirme
+    moderation: moderasyon
+    structural: yapısal
+languages:
+  partial: biraz <language>
+  ar: Arapça
+  bg: Bulgarca
+  bn: Bengalce
+  ca: Katalanca
+  da: Danca
+  de: Almanca
+  el: Yunanca
+  es: İspanyolca
+  et: Estçe
+  fi: Fince
+  fil: Filipince
+  fr: Fransızca
+  gl: Galiçyaca
+  hr: Hırvatça
+  hu: Macarca
+  id: Endonezce
+  it: İtalyanca
+  ja: Japonca
+  ko: Korece
+  ms: Malay dili
+  nl: Flemenkçe
+  no: Norveççe
+  pl: Lehçe
+  pt: Portekizce
+  ro: Romence
+  ru: Rusça
+  sr: Sırpça
+  sv: İsveççe
+  te: Teluguca
+  th: Tay dili
+  tr: Türkçe
+  ur: Urduca
+  vi: Vietnamca
+  yue: Kantonca
+  zh: Çince

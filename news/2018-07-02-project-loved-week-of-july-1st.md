@@ -28,12 +28,12 @@ Let's get started! To accompany the selections, we have verto's mentioned video,
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 *All osu! descriptions written by [Toy](https://osu.ppy.sh/users/2757689)*
 
@@ -67,7 +67,7 @@ At this point, if you've been on the internet long enough, you'd be acquainted w
 
 A fairly recent mapset that mixes all of yesterday's memes together. It's got Doki Doki Literature Club, Gucci Gang, Man's Not Hot, all mixed together by everyone's favorite youtuber, Miraie. Submitted in early 2018, the map has very quickly amassed lots of favorites, potentially for its viability as a multiplayer map choice with its 7\* jump diff. Not much to say about this, as its diff name seems to be self aware.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 *All osu!taiko descriptions written by [Backfire](https://osu.ppy.sh/users/263110)*
 
@@ -103,7 +103,7 @@ I say all this to say, now, we have one other to add! This map is our current #1
 
 Now closing into three years after Undertale's release, it's clear how much of an effect this game had on some parts of Japan's music community, it continuing to be a popular choice for japanese releases like [Underveil](http://underveil.unisphere.tv/), this is part of that culture that has built up over a small period of time. This particular map by namaniku carefully combines the frantic pace of the song with super dense and packed patterns, filled with lots of 1/6 and 1/8. The sparseness of the track is very well followed by the mapping itself, so you really feel like a breakbeat drummer throughout the map! It's very tastefully difficult, a perfect map for those looking for a technical map without wanting to break their keyboard!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 *All osu!catch descriptions written by [SartNYAN OwO XD](https://osu.ppy.sh/users/4100941)*
 
@@ -119,7 +119,7 @@ Choux a la creme is one of those typical made-for-fun maps by Vincs that you hav
 
 It has been a while since we saw an over-the-top level map being put in the loved section for osu!catch, so here we go again with ExGon's Sewing Machine! Paramount to anything this map has unconventional patterns all across its endurity. There are plenty of left-rights, jumping and tap-dashing sections, all of those being ridiculously hard to catch. I dare to bet my left kidney on the fact that there won't be any full combos to be had from this map, perhaps a pass or two from the very best players we have around, meaning this might not make for a great map for everyone. I would however suggest you try it anyway (with NoFail turned on) and see for yourself, the difficulty doesn't per se take away the fun of the map. There are definitely some satisfying patterns present in this map for everyone!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/eviscerate.jpg)](https://osu.ppy.sh/community/forums/topics/768666)
 

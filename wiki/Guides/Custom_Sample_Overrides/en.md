@@ -4,7 +4,7 @@ At the moment, per-beatmap and per-skin sample-sets can be implemented.
 
 The following section describes the name of files that can be replaced.
 
-## Normal (loud) sampleset:
+## Normal (loud) sampleset
 
 - `normal-hitnormal`
 - `normal-hitwhistle`
@@ -17,7 +17,7 @@ The following three samples are additive, meaning when you hit a whistle you wil
 - `normal-sliderwhistle` (loops)
 - `normal-slidertick`
 
-## Soft sampleset:
+## Soft sampleset
 
 - `soft-hitnormal`
 - `soft-hitwhistle`
@@ -30,7 +30,7 @@ The following three samples are additive, meaning when you hit a whistle you wil
 - `soft-sliderwhistle` (loops)
 - `soft-slidertick`
 
-## Drum sampleset:
+## Drum sampleset
 
 - `drum-hitnormal`
 - `drum-hitwhistle`
@@ -43,7 +43,7 @@ The following three samples are additive, meaning when you hit a whistle you wil
 - `drum-sliderwhistle` (loops)
 - `drum-slidertick`
 
-## Universal samples:
+## Universal samples
 
 - `spinnerspin` (this sound is pitch-shifted as the spinner increases. It goes from ~500hz to 80000hz where the original sample is 44100hz)
 - `spinnerbonus` (ding)
@@ -60,5 +60,5 @@ The following three samples are additive, meaning when you hit a whistle you wil
 
 See also:
 
-- [Custom Hitsound Library](../Custom_Hitsound_Library)
-- [Skinning/Sounds](/wiki/Skinning/Sounds/)
+- [Custom Hitsound Library](/wiki/Guides/Custom_Hitsound_Library)
+- [Skinning/Sounds](/wiki/Skinning/Sounds)

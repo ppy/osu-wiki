@@ -2,4 +2,4 @@
 
 Index page for all of the Game_Osu Tourney series.
 
-- [Game_Osu Tourney Winter/Spring Edition](./3 "Game_Osu Tourney Winter/Spring Edition")
+- [Game_Osu Tourney Winter/Spring Edition](3)

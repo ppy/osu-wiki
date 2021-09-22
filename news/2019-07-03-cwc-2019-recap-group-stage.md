@@ -12,7 +12,7 @@ The eight edition of the osu!catch World Cup has begun in earnest, with another 
 
 Weren't able to follow the action live and want to find out how your favourite teams fared? Or longing to relive the hype and the heartbreak all over again? Fret not, for VODs from throughout the Group Stages are available on the [osu!live Twitch channel](https://www.twitch.tv/osulive)!
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v445817750" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe><br/>
+<iframe src="https://player.twitch.tv/?video=v445817750&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe><br/>
 
 If you're stretched for time and looking for a speedy summary of the Group Stage's greatest hits, feel free to read on below!
 
@@ -26,7 +26,7 @@ Hong Kong again opened proceedings on the Sunday, this time in a remarkable crus
 
 In the closing stages of the day, France completed a hat-trick of comfortable victories to qualify from Group H, with Germany holding their nerve against a determined Argentinian roster to top group D. Fittingly, the Group Stage culminated with more drama in a high-stakes, do-or-die match between Canada and Mexico for the second qualification spot in Group F. In a match that consisted almost entirely of break points, Canada made a spirited recovery from 4-2 down to force a final TieBreaker. The scoreline flickered back and forth throughout, with all players carrying their team's hopes and dreams at some point, but ultimately it would be the Mexicans that held their nerve to claim a nail-biting 5,000 point victory.
 
-![](/wiki/shared/news/2019-07-02-cwc-2019-recap-group-stage.md/CNvMX-game9-720w.jpg)
+![](/wiki/shared/news/2019-07-03-cwc-2019-recap-group-stage/CNvMX-game9-720w.jpg)
 
 ## Upcoming Stage – Round of 16
 

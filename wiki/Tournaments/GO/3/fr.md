@@ -1,15 +1,15 @@
 ---
 tags:
-- Game_Osu Tourney 3
-- GO 3
-- GO3
+  - Game_Osu Tourney 3
+  - GO 3
+  - GO3
 ---
 
 # Game_Osu Tourney 3
 
 ![GO 3 Logo](img/logo.png)
 
-Le **Game_Osu Tourney 3** (***GO 3***) était un tournoi international 1v1 sur osu! sponsorisé par [Logitech](https://www.logitech.com/ "Logitech website") et organisé par ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) et ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), supporté par ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702). Il s'agit de sa troisième édition.
+Le **Game_Osu Tourney 3** (***GO 3***) était un tournoi international 1v1 sur osu! sponsorisé par [Logitech](https://www.logitech.com/) et organisé par ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) et ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), supporté par ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702). Il s'agit de sa troisième édition.
 
 ## Dates du tournoi
 
@@ -30,9 +30,9 @@ Le **Game_Osu Tourney 3** (***GO 3***) était un tournoi international 1v1 sur o
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | 1000€, badge sur le profil |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | 500€ |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | 250€ |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | 1000€, badge sur le profil |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 500€ |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 250€ |
 | *4ème place* | 150€ |
 | *5ème place* | 100€ |
 
@@ -67,8 +67,6 @@ La Game_Osu Tourney 3 était gérée par différents membres de la communauté, 
   - [Chaîne Twitch de Sardoche](https://www.twitch.tv/sardoche) (Stream des Finales et de la Grande Finale)
   - [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vQkxCyBeU6EG2qiHd8ZMrrHYiEm7wxjXCCl73eH8Ttoh7_n9Gz6XfDsm8_tg2Proo9hQR11PATPBGGn/pubhtml)**
-
----
 
 ## Participants
 
@@ -135,13 +133,11 @@ La Game_Osu Tourney 3 était gérée par différents membres de la communauté, 
 | #494 | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |
 | #534 | ![][flag_US] [not very smart](https://osu.ppy.sh/users/3696423) |
 | #548 | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
-| #569.62 | ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580)
+| #569.62 | ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580) |
 | #700 | ![][flag_US] [Tj7223](https://osu.ppy.sh/users/10210668) |
 | #737 | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) |
 | #766 | ![][flag_MX] [Andros](https://osu.ppy.sh/users/9072586) |
 | #972.71 | ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326) |
-
----
 
 ## Podium
 
@@ -149,13 +145,11 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
 | *4ème place* | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | *5ème place* | ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144) |
-
----
 
 ## Liste des maps
 
@@ -190,7 +184,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   - [FELT - Puppet in the Dark (Mackenzie) \[Out Of Place ARTifactS\]](https://osu.ppy.sh/beatmapsets/326636#osu/725198)
   - [The Pretty Reckless - Kill Me (Zero\_\_wind) \[Kill!!!\]](https://osu.ppy.sh/beatmapsets/97187#osu/260006)
 - FreeMod
-  - [t+pazolite - Magical Higan Tour 2009 (DJNightmare) \[Collab\]](https://osu.ppy.sh/beatmapsets/40609/#osu/128775)
+  - [t+pazolite - Magical Higan Tour 2009 (DJNightmare) \[Collab\]](https://osu.ppy.sh/beatmapsets/40609#osu/128775)
   - [5 Step Sound Team - Never Say Die (P o M u T a) \[Die\]](https://osu.ppy.sh/beatmapsets/292599#osu/658488)
   - [join. SELEN - DADADADADADADA (PoNo) \[Sharu's Extreme\]](https://osu.ppy.sh/beatmapsets/773755#osu/1632692)
   - [Luschka - Kami no Kotoba (byfar) \[Jounzan's Special\]](https://osu.ppy.sh/beatmapsets/817667#osu/1714634)
@@ -364,8 +358,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   - [IOSYS - Danzai Yamaxanadu (Zekira) \[Eternal Damnation\]](https://osu.ppy.sh/beatmapsets/13654#osu/50354)
 - Tiebreaker
   - **[Mia REGINA - Choumusubi Amulet (nenpulse bootleg remix) (cococolaco) \[Dispel\]](https://osu.ppy.sh/beatmapsets/719896#osu/1520055)**
-
----
 
 ## Résultats des matches
 
@@ -559,7 +551,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | Viveliam ![][flag_NL] | 3 | **4** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50466844) |
 | **WubWoofWolf** ![][flag_PL] | **4** | 0 | ![][flag_SE] Reedkatt | [#1](https://osu.ppy.sh/community/matches/50468369) |
 | **WalkingTuna** ![][flag_KR] | **4** | 1 | ![][flag_MX] Andros | [#1](https://osu.ppy.sh/community/matches/50468498) |
-| **idke** ![][flag_US] |  **4** | 1 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/community/matches/50468362) |
+| **idke** ![][flag_US] | **4** | 1 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/community/matches/50468362) |
 | **Varvalian** ![][flag_JP] | **4** | 2 | ![][flag_PL] AstroFP | [#1](https://osu.ppy.sh/community/matches/50470038) |
 | kablaze ![][flag_US] | 0 | 4 | ![][flag_KR] **Ansol** | -win by default- |
 | NerO ![][flag_FR] | 3 | **4** | ![][flag_PL] **Mastasz** | [#1](https://osu.ppy.sh/community/matches/50473464) |
@@ -584,8 +576,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **Flaven** ![][flag_FR] | **4** | 1 | ![][flag_IT] -Syncro | [#1](https://osu.ppy.sh/community/matches/50503904) |
 | Woey ![][flag_US] | 2 | **4** | ![][flag_PL] **Rafis** | [#1](https://osu.ppy.sh/community/matches/50511189) |
 | lain ![][flag_US] | 1 | **4** | ![][flag_CA] **trev rasher** | [#1](https://osu.ppy.sh/community/matches/50512611) |
-
----
 
 ## Règlement
 
@@ -648,30 +638,29 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 3. Nous ne tolérerons pas une once de **tricherie ou de tentatives pour obtenir un avantage par rapport aux autres joueurs.**
 4. Veuillez noter que **seules** les chaînes Twitch suivantes sont autorisées à diffuser le tournoi: [Game\_Osu (EN)](https://www.twitch.tv/gameosu), [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr), and [Sardoche](https://www.twitch.tv/sardoche). **Nous n’autorisons pas le restream** sauf indication contraire de notre part et demanderons des **sanctions** dans le cas **d’uploads non-autorisés.** Les joueurs, eux sont autorisés à diffuser leurs matchs.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_MA]: /wiki/shared/flag/MA.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PR]: /wiki/shared/flag/PR.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_LV]: /wiki/shared/flag/LV.gif "Lettonie"
+[flag_MA]: /wiki/shared/flag/MA.gif "Maroc"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_PR]: /wiki/shared/flag/PR.gif "Porto Rico"
+[flag_RO]: /wiki/shared/flag/RO.gif "Roumanie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

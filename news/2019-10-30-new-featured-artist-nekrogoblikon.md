@@ -44,7 +44,7 @@ So what are you waiting for? Take a listen below!
     <source src="https://assets.ppy.sh/artists/53/previews/1541.mp3" type="audio/mpeg">
 </audio>
 
--------
+---
 
 Pick up a beatmap template fully timed and 100% free for your mapping pleasure directly from [**Nekrogoblikon**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/53), no strings attached.
 

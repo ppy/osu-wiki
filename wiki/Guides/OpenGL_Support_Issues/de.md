@@ -8,8 +8,8 @@ Wenn Sie nicht den richtigen Grafikkartentreiber installiert haben, wird Windows
 
 Als erstes lassen Sie uns überprüfen, ob dies auf Sie zutrifft:
 
--   Rechtsklick auf 'Dieser PC' und wählen Sie 'Eigenschaften' aus oder drücken Sie Windows-Taste + Pause auf Ihrer Tastatur.
--   Wählen Sie Geräte-Manager auf der linken Seite aus.
+- Rechtsklick auf 'Dieser PC' und wählen Sie 'Eigenschaften' aus oder drücken Sie Windows-Taste + Pause auf Ihrer Tastatur.
+- Wählen Sie Geräte-Manager auf der linken Seite aus.
 
 Überprüfen Sie, ob Sie Microsoft Basic Display Adapter wie im folgenden Bild benutzen:
 
@@ -17,14 +17,14 @@ Als erstes lassen Sie uns überprüfen, ob dies auf Sie zutrifft:
 
 Bitte laden Sie sich den Treiber von der Webseite des Herstellers Ihrer Grafikkarte herunter. Hier paar allgemeine Links:
 
--   AMD / ATI: <http://support.amd.com/de-de/download>
--   NVIDIA: <http://www.nvidia.de/Download/index.aspx?lang=de>
--   Intel: [Intel Grafikkartentreiber](https://downloadcenter.intel.com/de/search?keyword=2nd+Generation+Intel%C2%AE+Core%E2%84%A2+Processors+with+Intel%C2%AE+HD+Graphics+3000%2F2000)
+- [AMD / ATI](https://amd.com/de/support)
+- [NVIDIA](https://nvidia.de/Download/index.aspx?lang=de)
+- [Intel Grafikkartentreiber](https://downloadcenter.intel.com/de/product/81500/Intel-HD-Grafik-3000)
 
 ## Falsche Bittiefe
 
-Ihr Treiber mag vielleicht richtig sein, aber die Farbbittiefe kann dennoch möglicherweise falsch sein. Windows wird dann den Ersatztreiber verwenden, [wenn die Farbbittiefe nicht 32bpp ist](http://www.opengl.org/discussion_boards/showthread.php/145008-Why-my-OpenGL-program-uses-Microsoft-GDI-renderer-instead-of-my-GeForce-5200). Das Ändern [der Farbbittiefe zu 32bpp sollte das Problem lösen](http://windows.microsoft.com/en-us/windows/getting-best-display-monitor#getting-best-display-monitor&section_2).
+Ihr Treiber mag vielleicht richtig sein, aber die Farbbittiefe kann dennoch möglicherweise falsch sein. Windows wird dann den Ersatztreiber verwenden, [wenn die Farbbittiefe nicht 32bpp ist](https://opengl.org/discussion_boards/showthread.php/145008-Why-my-OpenGL-program-uses-Microsoft-GDI-renderer-instead-of-my-GeForce-5200). Das Ändern [der Farbbittiefe zu 32bpp sollte das Problem lösen](https://windows.microsoft.com/en-us/windows/getting-best-display-monitor#getting-best-display-monitor&section_2).
 
 ## Zusätzliche Hilfe
 
-Wenn Ihr Problem nach den genannten Lösungen immernoch besteht, dann erstellen Sie bitte ein Thread im [Help Forum](https://osu.ppy.sh/community/forums/5) mit dem Output von [diesem Programm](http://www.realtech-vr.com/glview/download.php) und Ihrer gl\_info.txt, wenn Sie den Cutting Edge Build benutzen.
+Wenn Ihr Problem nach den genannten Lösungen immernoch besteht, dann erstellen Sie bitte ein Thread im [Help Forum](https://osu.ppy.sh/community/forums/5) mit dem Output von [diesem Programm](http://realtech-vr.com/home/glview) und Ihrer gl\_info.txt, wenn Sie den Cutting Edge Build benutzen.

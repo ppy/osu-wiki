@@ -7,9 +7,9 @@ tumblr_url: http://osunews.tumblr.com/post/152288900053/osuidol-2016-finals-comm
 
 Last year the osu!community voted to determine the winner for 2015's contest and now the time has come again for all of you, to pick who will be the osu!idol for 2016!
 
-We launched the event mid-summer, with more than 150 submissions, went through multiple stages to narrow it down to only a few. We have 3 talented, excited and of course, nervous finalists for you to vote for! Hop onboard and give them a listen!
-
 ![](http://flan.s-ul.eu/Mw0a4Uqy)
+
+We launched the event mid-summer, with more than 150 submissions, went through multiple stages to narrow it down to only a few. We have 3 talented, excited and of course, nervous finalists for you to vote for! Hop onboard and give them a listen!
 
 ## Where can I vote?
 

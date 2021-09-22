@@ -1,6 +1,6 @@
-# Bancho
+# Bancho (désambiguïsation)
 
-**Bancho** peut également se référer à :
+Le terme **Bancho** peut avoir plusieurs significations :
 
-- [Bancho](/wiki/Glossary#bancho), le serveur codé par peppy pour gérer les connections d'osu! entrantes et sortantes.
-- [BanchoBot](/wiki/BanchoBot), le bot IRC (Internet Relay Chat) pour la [discussion en jeu](/wiki/Chat_Console).
+- [Bancho](/wiki/Bancho_(server)), le serveur codé par peppy pour gérer les connexions entrantes et sortantes d'osu!
+- [BanchoBot](/wiki/BanchoBot), le robot [IRC](/wiki/Internet_Relay_Chat) pour le [chat en jeu](/wiki/Chat_Console)

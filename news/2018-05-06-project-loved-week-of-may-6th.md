@@ -20,12 +20,12 @@ Unfortunately, there won't be any videos this week; our regular video producer h
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/osu/fukagyaku-replace.jpg)](https://osu.ppy.sh/community/forums/topics/742387)
 
@@ -97,7 +97,7 @@ Welcoming back a mapper already familiar with the Loved category, [Snow Note](ht
 
 [DoKito](https://osu.ppy.sh/users/537084) is a mapper who has been active for a long time, and [Koisuru\*Uchu Sensou](https://osu.ppy.sh/beatmapsets/47027) is one of his well known classics. The map features winding streams that are sure to still pose a threat to the players of today, as well as plenty of classic symmetry-based patterning. [val0108](https://osu.ppy.sh/users/243917) said it best in the thread of this map 6 years ago: "awesome really.big big fun".
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/taiko/marianne-nottaiko-edit-.jpg)](https://osu.ppy.sh/community/forums/topics/742402)
 
@@ -148,7 +148,7 @@ Ya' know, music producers in the Taiko Community are few and far between, but bo
 
 Last but not least, we have [B](https://osu.ppy.sh/beatmapsets/718270). Yes, that is really the title of the song; B. However, don't let the underwhelming title fool you, B is most certainly an overwhelm to the senses. At 280BPM and filled to the brim with difficult patterns, this is one of [yea](https://osu.ppy.sh/users/6874332)'s most exciting maps yet. This one is for the players who really want to test their speed and streaming ability!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/catch/yukari.jpg)](https://osu.ppy.sh/community/forums/topics/742414)
 
@@ -185,7 +185,7 @@ Last but not least, we have [B](https://osu.ppy.sh/beatmapsets/718270). Yes, tha
 
 When you read [ZHSteven](https://osu.ppy.sh/users/142413), you know it is going to be hard in some way. His map for [L](https://osu.ppy.sh/beatmapsets/233454) specifically is unique in its own way. Old-style left-right patterns paired with CS5 is not what you see everyday, especially not with this length. The difficulty name Hand - Breaking isn't there just for show; due to the unusual movements and left-rights, it drains your stamina over the time, making it really hard to consistently hit these patterns in the later part of the map. The fact that a lot of the distances are really tight doesn't help either. Getting close to an FC would already be considered amazing given how much of a challenge this map is.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 [![](/wiki/shared/news/2018-05-06-project-loved-week-of-may-6th/mania/telos.jpg)](https://osu.ppy.sh/community/forums/topics/742424)
 

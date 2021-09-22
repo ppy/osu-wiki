@@ -1,13 +1,66 @@
-outdated: true
+separator: ", "
+alumni:
+  roles:
+    academy: pendiri osu!academy
+    admin: administrator
+    chat: Chat Moderator
+    dev: osu!dev
+    media: pereka cipta osu!media
+    support: Support Team
+    tournaments: manajemen turnamen
 gmt:
-  areas_of_focus:
-    beatmap_moderation: Moderasi beatmap
-    chat_moderation: Moderasi chat
-    forum_moderation: Moderasi forum
-    official_team_presence: Official team presence
-    osu!_development: osu! development
-    player_support: Bantuan pemain
-    ranking_criteria: Ranking Criteria
-    technical_support: Dukungan teknis
-    tournament_organisation: Turnamen # this one needs to be updated, rn it's just "Tournaments"
-    wiki_administration: Administrasi wiki
+  all_mods: seluruh moderator
+  areas:
+    beatmap: moderasi beatmap
+    chat: moderasi chat
+    forum: moderasi forum
+    team: anggota inti osu!team
+    dev: pengembangan osu!
+    player: dukungan pengguna
+    support: dukungan teknis
+    tournaments: manajemen turnamen
+    wiki: administrasi osu!wiki
+    mapping: moderasi komunitas mapping/modding
+nat:
+  areas:
+    communication: komunikasi
+    evaluation: evaluasi
+    moderation: moderasi
+    structural: struktural
+languages:
+  partial: sedikit <language>
+  ar: Arab
+  bg: Bulgaria
+  bn: Bengal
+  ca: Katalan
+  da: Denmark
+  de: Jerman
+  el: Yunani
+  es: Spanyol
+  et: Estonia
+  fi: Finlandia
+  fil: Tagalog
+  fr: Prancis
+  gl: Galisia
+  hr: Kroasia
+  hu: Hungaria
+  id: Indonesia
+  it: Italia
+  ja: Jepang
+  ko: Korea
+  ms: Malaysia
+  nl: Belanda
+  no: Norwegia
+  pl: Polandia
+  pt: Portugis
+  ro: Rumania
+  ru: Rusia
+  sr: Serbia
+  sv: Swedia
+  te: Telugu
+  th: Thai
+  tr: Turki
+  ur: Urdu
+  vi: Vietnam
+  yue: Kanton
+  zh: Mandarin

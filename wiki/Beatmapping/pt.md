@@ -4,9 +4,9 @@ outdated: true
 
 # Beatmapping (Português)
 
-**Beatmapping** é o processo de criação de mapas no osu! para outros jogadores. Mapear envolve, [timing](/wiki/Timing), colocação de objetos, e (opcionalmente) [skinning](/wiki/Skinning) e/ou [storyboarding](/wiki/Storyboarding).
+**Beatmapping** é o processo de criação de mapas no osu! para outros jogadores. Mapear envolve, [timing](/wiki/Timing), colocação de objetos, e (opcionalmente) [skinning](/wiki/Skinning) e/ou [storyboarding](/wiki/Storyboard#storyboarding).
 
-Para começar, pressione o botão **Edit**. Normalmente mappers querem que seus beatmaps sejam [ranked](/wiki/Beatmaps), que consiste num processo de [beatmap approval](/wiki/Beatmap_ranking_procedure), onde quando completados com sucesso, um quadro de pontuações será atribuído ao mapa e será considerado completo, a não ser que o mapper deseje adicionar/mudar algo no mesmo.
+Para começar, pressione o botão **Edit**. Normalmente mappers querem que seus beatmaps sejam [ranked](/wiki/Beatmap), que consiste num processo de [beatmap approval](/wiki/Beatmap_ranking_procedure), onde quando completados com sucesso, um quadro de pontuações será atribuído ao mapa e será considerado completo, a não ser que o mapper deseje adicionar/mudar algo no mesmo.
 
 As dificuldades mais comuns criadas em Beatmapping são:
 
@@ -15,11 +15,11 @@ As dificuldades mais comuns criadas em Beatmapping são:
 - Hard
 - Insane
 
-Clicar em cada link vai exibir um conjunto de diretrizes em comum para [mappers](/wiki/Glossary) seguirem e se tornarem aptos a criar um beatmap divertido apropriado para o seu nível de [difficulty](/wiki/Difficulties)
+Clicar em cada link vai exibir um conjunto de diretrizes em comum para mappers seguirem e se tornarem aptos a criar um beatmap divertido apropriado para o seu nível de [difficulty](/wiki/Beatmap/Difficulty)
 
-Também não é incomum para [mappers](/wiki/Glossary) usarem uma [dificuldade](/wiki/Difficulties) com nome customizado em vez desses. (Como "Mario", por exemplo)
+Também não é incomum para mappers usarem uma [dificuldade](/wiki/Beatmap/Difficulty) com nome customizado em vez desses. (Como "Mario", por exemplo)
 
-Adicionalmente você poderá encontrar [Guest Difficulties](/wiki/Glossary) que são comummente classificado como dificuldade do mapper em questão (Por exemplo, Larto's Insane).
+Adicionalmente você poderá encontrar [Guest Difficulties](/wiki/Beatmap/Guest_difficulty) que são comummente classificado como dificuldade do mapper em questão (Por exemplo, Larto's Insane).
 
 Com a adição de modos Special, você poderá agora adicionar dificuldades específicas para cada modo no seu beatmap em vez da dificuldade padrão do osu!. É completamente possível encher um beatmap apenas com dificuldades de Taiko/Catch the Beat, se for providenciado também uma dificuldade Easy/Normal no mesmo.
 
@@ -59,7 +59,7 @@ Aqui estão algumas dicas para conseguir apropriadamente fazer o timing da músi
 Você deverá inserir essa informação antes de criar uma segunda dificuldade, para assegurar que a descrição será consistente em todos os mapas no set. Atualmente você tem a **permissão para usar carateres Unicode.**
 
 | Name | Description |
-| --- | --- |
+| :-- | :-- |
 | Artist | **A banda, cantor, ou grupo que realizou ou criou a música.** O osu! irá extrair o artista do ficheiro mp3, mas por favor verifique de novo para ter certeza que está sendo soletrado e pontuado corretamente. **Títulos de Anime/Jogos ou companhias não pertencem aqui (eles pertencem a Tags).** Você poderá normalmente encontrar o compositor para as músicas de anime e jogos na Wikipedia ou outras fontes confiáveis de informação como [AnimeNewsNetwork](http://www.animesnewsnetwork.com/AnimeNewsNetwork) ou [MyAnimeList](http://myanimelist.net/MyAnimeList). Nomes estrangeiros devem ser apresentados na mesma ordem de nome igual á que aparece na Wikipedia (geralmente, Nome Próprio seguido pelo Nome de Família, a ordem ocidental, por consistência). |
 | Romanised Artist | **Os nomes romanizados (Ingleses) do artista ou da música.** Deverá ser apresentado na mesma ordem de nome como usado na Wikipédia (geralmente, Nome Próprio seguido pelo Nome de Família, na ordem ocidental, como anteriormente). Este campo ficará ativo se você usar carateres Unicode no campo de "Artista". |
 | Title | **O nome da música.** Será extraído automaticamente do ficheiro mp3, mas verifique novamente para ter certeza que está sendo soletrado e pontuado corretamente., especialmente se você conseguiu o mp3 online. |
@@ -76,7 +76,7 @@ Novamente, para evitar problemas, por favor tenha certeza que tudo (excepto o no
 ### Bookmark
 
 | Name | Description |
-| --- | --- |
+| :-- | :-- |
 | `Ctrl` + `B` | **Adiciona** um atalho na atual posição da música. |
 | `Ctrl` + `Shift` + `B` | **Remove** um atalho na atual posição da música. |
 | `Ctrl` + `Seta Direita` | **Próximo** atalho. |
@@ -201,7 +201,7 @@ Clique na aba "Design" para abrir o SBE ([Storyboard Editor](/wiki/Storyboard_Ed
 Sim, e aqui está uma lista deles. Será melhor que você imprima eles para referência rápida.
 
 | Name | Description |
-| --- | --- |
+| :-- | :-- |
 | `H` | Ajuda (incluindo esses atalhos de teclado) |
 | `Z` | Para. |
 | `X` | Reproduzir desde o começo. |
@@ -225,7 +225,7 @@ Sim, e aqui está uma lista deles. Será melhor que você imprima eles para refe
 #### Modo Compose
 
 | Name | Description |
-| --- | --- |
+| :-- | :-- |
 | Números (`1`, `2`, `3`, `4`) | Mudar o modo de seleção/colocação. |
 | `Q`, `W`, `E`, `R`, `L` | Mudar os modos de opção de mão direita. |
 | `Delete` | Remover notas selecionadas. |
@@ -251,7 +251,7 @@ Sim, e aqui está uma lista deles. Será melhor que você imprima eles para refe
 #### Modo Timing
 
 | Name | Description |
-| --- | --- |
+| :-- | :-- |
 | `T` | Tocar (tap) usando o teclado. |
 | `Shift` (while adjusting BPM/Offset) | 4x velocidade. |
 | `Ctrl` + `B` | Resetar ponto de timing atual. |
@@ -262,9 +262,9 @@ Sim, e aqui está uma lista deles. Será melhor que você imprima eles para refe
 Aqui tem uma lista deles:
 
 | Name | Description |
-| --- | --- |
+| :-- | :-- |
 | `Clique Esquerdo` | Colocação de hit-circles normais, começo de slider ou adição de novo ponto para um slider sendo colocado. Seleciona círculos. |
-| `Ctrl` + `Clique Esquerdo` | Adiciona novo ponto para slider existente.  |
+| `Ctrl` + `Clique Esquerdo` | Adiciona novo ponto para slider existente. |
 | `Clique Direito` | Inicia um novo combo, finaliza um slider ou remove um ponto do mesmo (apenas enquanto está no menu de colocação ou não escutando o áudio). |
 | `Roda do Mouse` | Procure seguinte/anterior. Mantenha shift para procura 4x mais rápida. |
 | `Ctrl` + `Alt` + `Roda do Mouse` | Muda o modo de colocação/seleção no campo de jogo. |

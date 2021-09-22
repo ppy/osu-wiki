@@ -18,12 +18,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+- [osu!standard](#osu!standard)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!standard
+## osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -69,7 +69,7 @@ This groovy swing tune by Caravan Palace has an amazing 11-difficulty mapset hos
 
 Making its way through Loved is Logicdash's first ever beatmap—*Bring It On* by Giga-P featuring Rin & Len. It's a Speed Up Version, so it'll be a bit faster than you anticipate a Giga-P song to be. The beatmap has a bigger circle size than the usual CS4 with the star rating being a little over 8 stars. The beginning of the beatmap starts fairly simple with simple patterns and smaller jumps. It picks up the pace at the 2nd kiai time with increased spacing. After a short period of time, you will find yourself at the 3rd chorus section doing back and forth jumps, as well as triangle jumps with triples in them that are pretty spaced. Are you able to do this high-star 240 BPM map? Try it out and give your vote!
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -112,7 +112,7 @@ The genre of music called "Amen punk", packed with elements such as Nightcore an
 And among them, this map is popular in multiplayer for its balance of fast and stamina-draining density with simple, comfortable patterns.  
 Playing this map heats your body up! (I mean, it is August).
 
-## <a name="catch" id="catch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -134,7 +134,7 @@ osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/
 
 So here we go with a little bit of an odd map to get a bit of variety in this week's picks. Despite rostld's reputation of not really mapping anything all too serious, *Sentimental Hades in the Heavenly Skyscraper* is quite a playable map for good players. It's quite bursty in its difficulty thanks to crazy jumps from the halfway point up until the end of the map. It's very enjoyable to try and catch these jumps though, making it a map with lots of replayability. Above all though, simply put the map is funny and not to be taken too seriously, with the lawnmower meme having been quite popular around its release in 2015.
 
-## <a name="mania" id="mania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
@@ -143,14 +143,14 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/mania/1-finixe.jpg)](https://osu.ppy.sh/community/forums/topics/947133)
 
 [Silentroom - Finixe](https://osu.ppy.sh/beatmapsets/688577#mania) by [shuniki](https://osu.ppy.sh/users/4942174)  
-222 BPM, 2:35 | [4K] 5.66★, [4K] 5.66★, [4K] 8.66★
+222 BPM, 2:35 | \[4K\] 5.66★, \[4K\] 5.66★, \[4K\] 8.66★
 
 Returning with more of his staple extraordinarily hard LN maps is shuniki being nominated for *Finixe*. While this isn't the hardest of shuniki's LN maps that have been nominated for Loved, it is certainly no pushover when it comes to the strain and speed required to perform well on it. The chart contains massive inverse walls as well as some less dense—though in a way, trickier—LN streams with patterns clocking in at 222 BPM which are sure to fire up players who thrive on giving themselves some physically taxing LN. As has been the story with past shuniki nominations, this is a perfect map for those hardcore LN lovers, those who want to push their skill, speed, and reading with inverse and general long note play to the limit, and those who want to have a fun time with the smooth, yet challenging experience that can be found in *Finixe*.
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/mania/2-toraburu-kuroneko-manbiki.jpg)](https://osu.ppy.sh/community/forums/topics/947132)
 
 [Masami-T - Toraburu Kuroneko Manbiki](https://osu.ppy.sh/beatmapsets/591252#mania) by [AutotelicBrown](https://osu.ppy.sh/users/4238941)  
-119 BPM, 2:40 | [4K], 4.90★ – 6.99★
+119 BPM, 2:40 | \[4K\], 4.90★ – 6.99★
 
 AutotelicBrown gets her first mapset nominated for the Loved section with *Trouble Kuroneko Man'yuuki*. Chordjack charts are a common favourite among most players, and *Man'yuuki* is just that: chordjacks.
 
@@ -161,7 +161,7 @@ This mapset also has 5 different rates (1.0x to 1.4x), so it's very likely that 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/mania/3-suikinkutsu-feat-uehara-hiromi.jpg)](https://osu.ppy.sh/community/forums/topics/947130)
 
 [Tokyo Ska Paradise Orchestra - -SUIKINKUTSU- feat. Uehara Hiromi](https://osu.ppy.sh/beatmapsets/327318#mania) by [Evening](https://osu.ppy.sh/users/2193881)  
-51 BPM, 6:53 | [7K] 6.05★, [7K] 6.05★
+51 BPM, 6:53 | \[7K\] 6.05★, \[7K\] 6.05★
 
 Following Evening's success last round with their 4k pick, it would be unwise to skip over a 7k pick for this round. For this round, we're having *SUIKINKUTSU*.
 

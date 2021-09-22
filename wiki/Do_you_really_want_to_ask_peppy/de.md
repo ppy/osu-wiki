@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: d80f130d2ee1a1de26188b49560c8b6ed876fd56
+---
+
 # Willst du wirklich peppy fragen?
 
 Hallo. Ich, [peppy](https://osu.ppy.sh/users/2), verstehe deinen Drang mich persönlich zu kontaktieren, aber ich bitte dich zuerst zu verstehen, dass das **nicht** der Ort ist, an dem du mich um Hilfe/Unterstützung fragen solltest. Ich halte osu! Support und persönliche Nachrichten voneinander getrennt und finde auch, dass das Antworten auf private Forum-PNs ziemlich schwer zu halten ist. Ich bitte dich daher eine der folgenden Möglichkeiten zu wählen:

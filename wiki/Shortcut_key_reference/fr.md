@@ -23,7 +23,7 @@ Ces raccourcis fonctionnent partout :
 - `F12`: Prend une capture d'écran
 - `Shift` + `F12`: Prend une capture d'écran et la télécharge sur un serveur pour le partager
 - `Insert`: ([Boss Key](https://fr.wikipedia.org/wiki/Boss_key)) Réduit le client osu! dans la zone de notification
-- `Shift` + `F1`: Ouvre un [osu!status](https://twitter.com/osustatus "osu!status sur Twitter") (quand une erreur de connection apparait)
+- `Shift` + `F1`: Ouvre un [osu!status](https://twitter.com/osustatus) (quand une erreur de connection apparait)
 
 ## Menu principal
 
@@ -66,7 +66,7 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 
 - `Alt` + `Arrow Up`: Monte le volume
 - `Alt` + `Arrow Down`: Baisse le volume
-- `F1`: Ouvre le menu de sélection des [Mod](/wiki/Game_Modifiers)
+- `F1`: Ouvre le menu de sélection des [Mod](/wiki/Game_modifier)
 - `F2`: Sélectionne aléatoirement une map
 - `Shift` + `F2`: Supprime la sélection aléatoire de map
 - `F3`: Options de Beatmap
@@ -86,8 +86,8 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 - `Ctrl` + `Backspace`: Supprime le dernier mot(quand vous utilisez la fonction recherche)
 - `Up`: Bouge vers le haut le sélecteur d'une map
 - `Down`: Bouge vers le haut le sélecteur d'une map
-- `Left`: Change d'un beatmapset plus haut
-- `Right`: Change d'un beatmapset plus bas
+- `Left`: Change d'une beatmap plus haut
+- `Right`: Change d'une beatmap plus bas
 - `Page Up`: Défile vers le haut
 - `Page Down`: Défile vers le bas
 - `Enter`: Sélectionne une sélection ou joue une sélection
@@ -97,13 +97,12 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 
 ### Game Modifiers
 
-*Page principale : [Game Modifiers](/wiki/Game_Modifiers)*
+*Page principale : [Game Modifiers](/wiki/Game_modifier)*
 
 **Notes:**
 
 - Les raccourcis claviers ci-dessous présume qu'aucun mod n'est sélectionné.
 - Certains mods exige que le joueur presse le raccourci deux fois.
-
 - `Q`: [Easy](/wiki/Easy_mod)
 - `W`: [No Fail](/wiki/No_Fail)
 - `E`: [Half Time](/wiki/Half_Time)
@@ -115,7 +114,7 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 - `S`, puis `S`: [Perfect](/wiki/Perfect)
 - `D`: [Double Time](/wiki/Double_Time)
 - `D`, puis `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, et osu!catch)
+- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, et osu!catch)
   - cela activera [Fade In](/wiki/Fade_In) pour osu!mania
 - `F`, puis `F`: [Hidden](/wiki/Hidden) (seulement pour osu!mania)
 - `G`: [Flashlight](/wiki/Flashlight)

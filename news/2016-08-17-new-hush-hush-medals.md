@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/149074719383/new-hush-hush-medals
 
 The first set of new "Hush-Hush" style medals are here at long last. Medal hunters unite!
 
+![](https://osu.ppy.sh/images/headers/news-show-default.jpg)
+
 Many months ago, we mentioned a number of new medals in development in the meetings posted on [peppy's blog](https://blog.ppy.sh). The Mod Spotlight medals released relatively quietly a few weeks back were just preparation for the big ones coming - and they're finally here!
 
 We'd like to proudly present to you, the first portion of a new set of medals in the "Hush-Hush" style. For those unfamiliar with the concept, "Hush-Hush" medals are a mixture of riddles and gameplay skills. From experimenting with mod combinations, to little similarities in metadata, gaining these coveted medals is more than just simply following a set of instructions towards your goal.

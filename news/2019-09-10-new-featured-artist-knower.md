@@ -44,7 +44,7 @@ Here's a sample of just a few:
     <source src="https://assets.ppy.sh/artists/48/previews/1234.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 **13** spectacular new tracks await you over on their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/48), all pre-timed and ready for your modding and mapping adventures. Totally worry free for use in osu!, by the way.
 

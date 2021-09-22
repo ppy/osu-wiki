@@ -18,12 +18,12 @@ Anyway, that's enough talk, let's take a look at what's been happening in the sc
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/_JIRqk8uJMA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -199,7 +199,7 @@ FlyingTuna surprised us all with the second (almost-) FC on AXION_REBORN! While 
 
 300 BPM is apparently no challenge for Informous, who managed to earn 97% on this older map filled with difficult patterns and demanding streams. Please do yourself a favor and watch the video; this is speed like you've never seen before!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 **[Ulqui](https://osu.ppy.sh/users/1263669)**: [Nigro [Xay's Taiko]](https://osu.ppy.sh/beatmapsets/430223#taiko/928094) +HD **Silver S** (FC, 99.89%)  
 3 February 2019, Unranked  
@@ -225,7 +225,7 @@ This is another map that is actually very long and intense, clocking in at speed
 
 As always, shinchikuhome has been able to amaze us time and time again with his impressive versatility of mod usage and sightreading skills. And this map of course is no exception as he scores a nearly perfect play with the DT,HR mod combo. This is certaintly one score that'll be unrivaled by many other players which makes it all the more deserving to have a place here.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/bTy9HEQFrx4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -267,7 +267,7 @@ Karym has taken the fourth ever HR FC on Asymmetry, along with monsters like Dus
 
 Hyper being Hyper as always. This is the only thing that can possibly be said for this play. This is way too ridiculous on too many levels. This map already has an awful lot of anti-flow patterns which make it horrible to fc it with nomod, only there being one HD FC, and Hyper has came out of basically nowhere and FC's it with HR.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/IgEZJw-0o04?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

@@ -18,12 +18,12 @@ This week has some awesome picks, so let's jump right in!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ub4ndEbi8Uo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -85,7 +85,7 @@ After a number of requests for more [09kami](https://osu.ppy.sh/users/443031) ma
 
 [Imperishable Challengers](https://osu.ppy.sh/beatmapsets/289225) by [-Tochi](https://osu.ppy.sh/users/3664366) is one of the most enjoyable and comfortable maps I have ever played. This map is incredibly popular and has been pervasive throughout multiplayer lobbies ever since its creation in 2015. With the addition of a storyboard and a great Taiko difficulty, Imperishable Challengers is finally ready for its shot at a leaderboard in the Loved vote!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/L35fv-7-vBc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -121,7 +121,7 @@ Semi-gimmicky mapset featuring a variety of difficulties, all set to a goofy ren
 
 Last but certainly not least, [Nexta](https://osu.ppy.sh/beatmapsets/737778) is a map by [un-plugged](https://osu.ppy.sh/users/8959673) that came in second in the [Argentina Taiko Mapping Contest](https://osu.ppy.sh/community/forums/topics/697521), however, if you ask me, this is #1 in my eyes. un-plugged employs [katacheh](https://osu.ppy.sh/users/6651672)-esque gimmicks and even goes sometimes beyond what kata normally has done in the past. Personally, this is one of the most impressive maps I have EVER seen in taiko, and the gimmicks are all awesome and not in any way distracting in the way of the map. This is a rare one folks, so let's not let it pass us by.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/h_C2nGnds3U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -157,7 +157,7 @@ Taking pride of place as the Grand Finals tiebreaker for the recent AxS Third Ed
 
 Did you not feel like your aspire tingles were satisfied yet after the 2017 osu!catch aspire contest? Then we might have good news for you with [Fear of the Heavens](https://osu.ppy.sh/beatmapsets/556491)! You will notice that this map is very stylistic after hitting the first one or two notes, with funky sliders and spinners all throughout this calm song. The main challenge of this map is definitely to keep high accuracy, while also trying to optimize spins which limit your movement due to the fact that there are notes within those spinners as well. Mostly though, this is just a real fun map to play, something you can relax on as a break for your grind towards osu!catch glory.
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bOE-qkGfVsQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

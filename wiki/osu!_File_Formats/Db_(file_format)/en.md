@@ -4,8 +4,8 @@
 
 They can be usually found in the osu! installation directory:
 
--   Windows: `%localappdata%\osu!`
--   Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
+- Windows: `%localappdata%\osu!`
+- Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
 
 Currently the only ones are osu!.db, scores.db, collection.db, and presence.db.
 
@@ -14,7 +14,7 @@ Currently the only ones are osu!.db, scores.db, collection.db, and presence.db.
 To ease the description of the format of each .db file, the following names for data types will be used. Unless otherwise specified, all numerical types are stored little-endian. Integer values, including bytes, are all unsigned. UTF-8 characters are stored in their canonical form, with the higher-order byte first.
 
 | Name | Number of bytes | Description |
-| ---- | --------------- | ----------- |
+| :-- | :-- | :-- |
 | Byte | 1 | integer |
 | Short | 2 | integer |
 | Int | 4 | integer |
@@ -34,15 +34,15 @@ To ease the description of the format of each .db file, the following names for 
 Some data types specific to osu!.db are defined below.
 
 | Name | Number of bytes | Description |
-| ---- | --------------- | ----------- |
+| :-- | :-- | :-- |
 | Int-Double pair | 14 | The first byte is 0x08, followed by an Int, then 0x0d, followed by a Double. These extraneous bytes are presumably flags to signify different data types in these slots, though in practice no other such flags have been seen. Currently the purpose of this data type is unknown. |
-| Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [Osu (file format)][Osu Link] for more information regarding timing points. |
+| Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [.osu (file format)](/wiki/osu!_File_Formats/Osu_(file_format)) for more information regarding timing points. |
 | DateTime | 8 | A 64-bit number of ticks representing a date and time. Ticks are the amount of 100-nanosecond intervals since midnight, January 1, 0001 UTC. See [.NET framework documentation on ticks](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.ticks?view=netframework-4.7.2) for more information. |
 
 ### osu!.db format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Int | osu! version (e.g. 20150203) |
 | Int | Folder Count |
 | Bool | AccountUnlocked (only false when the account is locked or banned in any way) |
@@ -55,7 +55,7 @@ Some data types specific to osu!.db are defined below.
 ### Beatmap Information
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Int | Size in bytes of the beatmap entry. Only present if version is less than 20191106. |
 | String | Artist name |
 | String | Artist name, in Unicode |
@@ -84,8 +84,8 @@ Some data types specific to osu!.db are defined below.
 | Int | Total time, in milliseconds |
 | Int | Time when the audio preview when hovering over a beatmap in beatmap select starts, in milliseconds. |
 | Timing point+ | An Int indicating the number of following Timing points, then the aforementioned Timing points. |
+| Int | Difficulty ID |
 | Int | Beatmap ID |
-| Int | Beatmap set ID |
 | Int | Thread ID |
 | Byte | Grade achieved in osu! standard. |
 | Byte | Grade achieved in Taiko. |
@@ -93,7 +93,7 @@ Some data types specific to osu!.db are defined below.
 | Byte | Grade achieved in osu!mania. |
 | Short | Local beatmap offset |
 | Single | Stack leniency |
-| Byte | Osu gameplay mode. 0x00 = osu!Standard, 0x01 = Taiko, 0x02 = CTB, 0x03 = Mania |
+| Byte | osu! gameplay mode. 0x00 = osu!，0x01 = osu!taiko，0x02 = osu!catch，0x03 = osu!mania |
 | String | Song source |
 | String | Song tags |
 | Short | Online offset |
@@ -119,14 +119,14 @@ Some data types specific to osu!.db are defined below.
 ### collection.db format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Int | Version (e.g. 20150203) |
 | Int | Number of collections |
 
 The following will be repeated for the total number of collections.
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | String | Name of the collection |
 | Int | Number of beatmaps in the collection |
 | String* | Beatmap MD5 hash. Repeated for as many beatmaps as are in the collection. |
@@ -138,7 +138,7 @@ This database contains the scores achieved locally.
 ### scores.db format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Int | Version (e.g. 20150204) |
 | Int | Number of beatmaps |
 | Beatmaps* | Aforementioned beatmaps |
@@ -146,7 +146,7 @@ This database contains the scores achieved locally.
 ### Individual beatmap format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | String | Beatmap MD5 hash |
 | Int | Number of scores on this beatmap |
 | Score* | Aforementioned scores |
@@ -154,17 +154,17 @@ This database contains the scores achieved locally.
 ### Individual score format
 
 | Data type | Description |
-| --------- | ----------- |
-| Byte | osu! gameplay mode (0x00 = osu!Standard, 0x01 = Taiko, 0x02 = CTB, 0x03 = Mania) |
+| :-- | :-- |
+| Byte | osu! gameplay mode (0x00 = osu!，0x01 = osu!taiko，0x02 = osu!catch，0x03 = osu!mania) |
 | Int | Version of this score/replay (e.g. 20150203) |
 | String | Beatmap MD5 hash |
 | String | Player name |
 | String | Replay MD5 hash |
 | Short | Number of 300's |
-| Short | Number of 100's in osu!Standard, 150's in Taiko, 100's in CTB, 200's in Mania |
-| Short | Number of 50's in osu!Standard, small fruit in CTB, 50's in Mania |
-| Short | Number of Gekis in osu!Standard, Max 300's in Mania |
-| Short | Number of Katus in osu!Standard, 100's in Mania |
+| Short | Number of 100's in osu!, 150's in osu!taiko, 100's in osu!catch, 100's in osu!mania |
+| Short | Number of 50's in osu!, small fruit in osu!catch, 50's in osu!mania |
+| Short | Number of Gekis in osu!, Max 300's in osu!mania |
+| Short | Number of Katus in osu!, 200's in osu!mania |
 | Short | Number of misses |
 | Int | Replay score |
 | Short | Max Combo |
@@ -174,7 +174,7 @@ This database contains the scores achieved locally.
 | Long | Timestamp of replay, in Windows ticks |
 | Int | Should always be 0xffffffff (-1). |
 | Long | Online Score ID |
-| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_Modifiers#special.1) is enabled. |
+| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_modifier/Target_Practice) is enabled. |
 
 #### Additional mod information
 

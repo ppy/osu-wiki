@@ -55,7 +55,7 @@ But don't take our word for it, have a listen to a small sample of what's availa
 
 > Slower paced and more pensive, Houkai no Hate No Ishi is a faintly ethereal take on a classic grungy rock sound, joined by the voice of the Vocaloid GUMI.
 
-------
+---
 
 But that's not all, there are a few more tracks on [**Trial & Error**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/20) for you to check out if you're interested.
 

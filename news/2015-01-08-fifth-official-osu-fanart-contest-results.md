@@ -5,6 +5,8 @@ date: 2015-01-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/107496626248/fifth-official-osu-fanart-contest-results
 ---
 
+![](/wiki/shared/news/2015-01-08-fifth-official-osu-fanart-contest-results/thumb-60.jpg)
+
 You may have noticed the festive Christmas backgrounds, rotated on the title screen in the lead up to Christmas (from December 22 ~ 31) - but now it's finally time to reveal the results of Fanart Contest \#5 voting.
 
 We received a total of 132,988 votes from 22,213 users over two weeks. 8 osu! staff members took part in the staff voting (including peppy, of course!). This time, we're announcing 10 winners who will each win a four month supporter tag: five winners selected by the public poll, five selected by osu! staff. First place wins an osu! tablet too!
@@ -17,7 +19,7 @@ We'll be granting the supporter tags and contacting the first prize winner about
 
 The winners are...
 
-## PUBLIC POLL RESULTS:
+## PUBLIC POLL RESULTS
 
 **First Place:**
 
@@ -47,7 +49,7 @@ by [Riversouls](https://osu.ppy.sh/users/3163257) | [download full version here]
 
 by [RedViolet](https://osu.ppy.sh/users/2221040) | [download full version here](/wiki/shared/news/2015-01-08-fifth-official-osu-fanart-contest-results/full-6.jpg)
 
-## STAFF FAVORITES:
+## STAFF FAVORITES
 
 **Staff Favourite (No Particular Order):**
 
@@ -79,7 +81,7 @@ by [Katty0505](https://osu.ppy.sh/users/1340452) | [download full version here](
 
 by [Dustdevilish](https://osu.ppy.sh/users/4483162) | [download full version here](/wiki/shared/news/2015-01-08-fifth-official-osu-fanart-contest-results/full-45.jpg)
 
-## HONORABLE MENTIONS:
+## HONORABLE MENTIONS
 
 ![](/wiki/shared/news/2015-01-08-fifth-official-osu-fanart-contest-results/thumb-48.jpg)
 
@@ -101,7 +103,7 @@ by [RainAid](https://osu.ppy.sh/users/3344403) | [download full version here](/w
 
 by [BurntToaster](https://osu.ppy.sh/users/2236066) | [download full version here](/wiki/shared/news/2015-01-08-fifth-official-osu-fanart-contest-results/full-49.jpg)
 
-* * *
+---
 
 Thank you to everyone who entered and congrats to all artists featured above, as well as those who didn't win but were selected to appear on the game's title screen in December ([Lempika](https://osu.ppy.sh/users/3662284), [ecarnage](https://osu.ppy.sh/users/2295549), [Mira-san](https://osu.ppy.sh/users/1587999), [KTRAngel](https://osu.ppy.sh/users/5369337), [Arthesian](https://osu.ppy.sh/users/3567049), [sh0ta](https://osu.ppy.sh/users/4212411), [Cripple](https://osu.ppy.sh/users/4451485)). These users will be granted 1-month supporter tags too!
 

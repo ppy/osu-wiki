@@ -1,10 +1,22 @@
 # Disambiguation
 
-Disambiguation in the osu! wiki is the process of resolving conflicts that arise when a potential article title is ambiguous, most often because it refers to more than one subject covered by the osu! wiki, either as the main topic of an article, or as a subtopic covered by an article in addition to the article's main topic.
+**Disambiguation** articles in the [osu! wiki](/wiki/Main_Page) highlight ambiguous terms and explain their various possible meanings.
+
+A regular article, if it has a similar title, must use the ["For other uses" hatnote](/wiki/Article_styling_criteria/Formatting#for-other-uses) with a link to its disambiguation page.
 
 ## List of disambiguation articles
 
 - [Bancho](Bancho)
+- [Combo](Combo)
 - [Easy](Easy)
 - [EZ](EZ)
+- [Fail](Fail)
 - [Mod](Mod)
+- [NC](NC)
+- [NM](NM)
+- [Offset](Offset)
+- [osu!](osu!)
+- [Ouendan](Ouendan)
+- [Rank](Rank)
+- [Star](Star)
+- [Version](Version)

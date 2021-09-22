@@ -20,10 +20,10 @@ You can listen a preview of the track below:
 
 The rules of this Aspire contest variant is as follows:
 
-* The contest accepts only **osu!standard** mapsets.
-* **The map must be able to be completed without the NoFail mod required to pass it**. Completion is considered as being able to pass the track without failing it - not FCing (full-combo) it!
-* **The map must be of a difficulty level where reasonably skilled players (think 30k+ rank) can complete it with significant effort.** This means that yes, your map may be *very* difficult, but not insurmountably difficult. No Apparition wannabees, please!
-* That's it!
+- The contest accepts only **osu!standard** mapsets.
+- **The map must be able to be completed without the NoFail mod required to pass it**. Completion is considered as being able to pass the track without failing it - not FCing (full-combo) it!
+- **The map must be of a difficulty level where reasonably skilled players (think 30k+ rank) can complete it with significant effort.** This means that yes, your map may be *very* difficult, but not insurmountably difficult. No Apparition wannabees, please!
+- That's it!
 
 *(The difficulty rule is deliberately vague. We want to encourage mappers to break the current mold of difficulty = creativity. Intelligent use of everything at a mapper's disposal (storyboards, backing videos, .osu file editing, hitsounds, timing sections, etc) is what we're looking for over maps that are exceptionally difficult.)*
 
@@ -31,9 +31,9 @@ The standard Ranking Criteria does **NOT** apply. Mappers are completely free to
 
 The winners of the contest will receive the following prizes:
 
-* **1st place:** 6 months of osu! supporter, unique *"Aspire 2016"* profile badge, osu!news showcase featuring their winning entry and an *'Elite Mapper: Aspirant'* forum title, mapset enshrined forevermore as an "Aspire" class Approval map.
-* **2nd place:** 3 months of osu! supporter
-* **Honorable Mentions:** 1 month of osu! supporter
+- **1st place:** 6 months of osu! supporter, unique *"Aspire 2016"* profile badge, osu!news showcase featuring their winning entry and an *'Elite Mapper: Aspirant'* forum title, mapset enshrined forevermore as an "Aspire" class Approval map.
+- **2nd place:** 3 months of osu! supporter
+- **Honorable Mentions:** 1 month of osu! supporter
 
 Yes, you did read that right - any map impressive enough to warrant an honorable mention by verdict of the judges will receive a prize. There's no excuse to not get involved and give it your all.
 

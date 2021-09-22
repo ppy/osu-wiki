@@ -1,8 +1,8 @@
 ---
 tags:
-- osu! Multi Mode French Fiesta
-- oMMFF
-- MMFF
+  - osu! Multi Mode French Fiesta
+  - oMMFF
+  - MMFF
 ---
 
 # osu! Multi Mode French Fiesta
@@ -69,9 +69,9 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)*** est un tournoi 1v1 français e
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge sur le profil, 4 mois de supporter, un clavier [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/), 10€ sur Amazon/PayPal, trophée physique |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | 2 mois de supporter, 10€ PayPal/Amazon balance |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | 1 mois de supporter, 10€ PayPal/Amazon balance |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | Badge sur le profil, 4 mois de supporter, un clavier [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/), 10€ sur Amazon/PayPal, trophée physique |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 2 mois de supporter, 10€ PayPal/Amazon balance |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 1 mois de supporter, 10€ PayPal/Amazon balance |
 
 ![oMMFF Winner Badge - osu!](img/badge-std.png) ![oMMFF Winner Badge - osu!taiko](img/badge-tko.png) ![oMMFF Winner Badge - osu!catch](img/badge-ctb.png) ![oMMFF Winner Badge - osu!mania](img/badge-mna.png)
 
@@ -112,8 +112,6 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
   - [osu!mania](https://o2mf.challonge.com/o2mf_mania)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vSE0LEyHOBW8P5F37719J2oZMhtba9b7Z-WaT5otksz7lSf4fvIq3giYXHNpT4xl1bOrIhJCPN6xlxO/pubhtml)**
 
------------------------
-
 ## Participants
 
 ### Division osu!
@@ -152,8 +150,6 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | Low | ![][flag_FR] [polo2000](https://osu.ppy.sh/users/10169467), ![][flag_FR] [quentin5110054](https://osu.ppy.sh/users/8756421), ![][flag_FR] [Trypha](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Exilfaker](https://osu.ppy.sh/users/2735466), ![][flag_FR] [PouletFurtif](https://osu.ppy.sh/users/1271018), ![][flag_FR] [Vivio](https://osu.ppy.sh/users/4545868) |
 | Unseeded | ![][flag_FR] [Roboclop](https://osu.ppy.sh/users/7126414), ![][flag_FR] [-Leks](https://osu.ppy.sh/users/10403635), ![][flag_FR] [The\_Azerty](https://osu.ppy.sh/users/11274064), ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359), ![][flag_FR] [\_Karibu\_](https://osu.ppy.sh/users/7339484), ![][flag_FR] [Zulsramno](https://osu.ppy.sh/users/12563193) |
 
------------------------
-
 ## Podium
 
 La compétition est arrivée à une fin et à donné le podium ci-dessous:
@@ -162,35 +158,33 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) |
 
 ### Division osu!taiko
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) |
 
 ### Division osu!catch
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
 ### Division osu!mania
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
-
------------------------
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
 
 ## Liste des maps
 
@@ -727,11 +721,11 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 **[Télécharge le mappack ici! (49 MB)](https://mega.nz/#!o9MChIxJ!BtKgqPuqV0xZChiPzoOYNJz8DAs8XXVYeFLBmJc5lHo)**
 
 - FreeMod
-  - [Ian Davecore - Katyusha (Laibus) \[Bounce\]](https://osu.ppy.sh/beatmapsets/849009/#mania/1775369)
+  - [Ian Davecore - Katyusha (Laibus) \[Bounce\]](https://osu.ppy.sh/beatmapsets/849009#mania/1775369)
   - [Celldweller - Senorita Bonita (Duboyy) \[Hard \[SV play\]\]](https://osu.ppy.sh/beatmapsets/541579#mania/1148320)
   - [Reol - MONSTER (puxtu) \[puxtu's MX\]](https://osu.ppy.sh/beatmapsets/415350#mania/1021002)
   - [Hommarju - Get back here (Fresh Chicken) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/488369#mania/1041168)
-  - [LiSA - Empty MERMAiD -MUSIC CLIP Short Ver.- (SpectorDG) \[SpectorDG's 4K ULTRA\]](https://osu.ppy.sh/beatmapsets/351846/#mania/775411)
+  - [LiSA - Empty MERMAiD -MUSIC CLIP Short Ver.- (SpectorDG) \[SpectorDG's 4K ULTRA\]](https://osu.ppy.sh/beatmapsets/351846#mania/775411)
   - [M2U feat. Guriri - Magnolia (juankristal) \[Stage 3: Enlightenment\]](https://osu.ppy.sh/beatmapsets/706898#mania/1494548)
   - [AAAA Chazuke - Hop Step Adventure\* (Musty) \[MX\*\]](https://osu.ppy.sh/beatmapsets/487632#mania/1039605)
   - [knot - cold planet (Kamikaze) \[for stepmania\]](https://osu.ppy.sh/beatmapsets/793200#mania/1697652)
@@ -739,8 +733,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   - [AK X LYNX ft. Veela - Virtual Paradise (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/586954#mania/1242932)
 - Tiebreaker
   - **[BlackY vs. Yooh - XROSS INFECTION (xlwan) \[xl's EXHAUST\]](https://osu.ppy.sh/beatmapsets/486123#mania/1793948)**
-
-------------------------------------------------------------------------
 
 ## Résultats des matches
 
@@ -1001,7 +993,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Samedi, 2019-01-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] MindLight | [#1](https://osu.ppy.sh/community/matches/48802845)
+| **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] MindLight | [#1](https://osu.ppy.sh/community/matches/48802845) |
 | **Noulayfe** ![][flag_FR] | **5** | 1 | ![][flag_FR] Realmas | [#1](https://osu.ppy.sh/community/matches/48798016) |
 | **Boros** ![][flag_FR] | **5** | 0 | ![][flag_FR] Sageru | [#1](https://osu.ppy.sh/community/matches/48799372) |
 | **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_FR] Aequo3 | [#1](https://osu.ppy.sh/community/matches/48801202) |
@@ -1009,7 +1001,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Dimanche, 2019-01-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Sageru ![][flag_FR] | 2 | **5** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/48835441)
+| Sageru ![][flag_FR] | 2 | **5** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/48835441) |
 
 ### Division osu!mania
 
@@ -1102,8 +1094,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **DragonSonic** ![][flag_FR] | **4** | 1 | ![][flag_FR] Trypha | [#1](https://osu.ppy.sh/community/matches/49013744) |
 | **Min-eb** ![][flag_FR] | **4** | 3 | ![][flag_FR] -Leks | [#1](https://osu.ppy.sh/community/matches/49014525) |
 
-------------------------------------------------------------------------
-
 ## Règlement
 
 ### Modes de jeu et système de score
@@ -1170,7 +1160,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 #### Bans et Picks
 
-- Suivant la phase de warmup, les joueurs devront utiliser la commande de !roll sur le chat du multijoueur. Le joueur avec le plus bas roll aura le premier ban et deuxième pick, tandis que le joueur avec le plus haut roll aura le premier pick et deuxième ban. Il y aura **deux bans** par joueur pour chaque round.
+- Suivant la phase de warmup, les joueurs devront utiliser la commande de `!roll` sur le chat du multijoueur. Le joueur avec le plus bas roll aura le premier ban et deuxième pick, tandis que le joueur avec le plus haut roll aura le premier pick et deuxième ban. Il y aura **deux bans** par joueur pour chaque round.
 
 #### Format du Match
 
@@ -1200,15 +1190,15 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 - Ceci est très simple. Les joueurs et le staff doivent tout d'abord, avoir lu ce règlement en entier. Toute personne participant dans ce tournoi est attendu d'être respectueux de chacun. Sous peine de ban et blacklist si cela n'est pas respecté. Ceci compte autant pour les joueurs que pour le staff.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BF]: /wiki/shared/flag/BF.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
+[flag_BF]: /wiki/shared/flag/BF.gif "Burkina Faso"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_IE]: /wiki/shared/flag/IE.gif "Irlande"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

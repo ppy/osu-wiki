@@ -1,11 +1,10 @@
-# Easy
+# Easy (disambiguasi)
 
-**Easy** mungkin juga merujuk pada:
+**Easy** mempunyai beberapa arti:
 
-- Sebuah [game modifier](/wiki/Game_Modifiers#easy).
-- Nama tingkat kesulitan sebuah beatmap.
-- Tingkat kesulitan sebuah beatmap:
-  - ![](/wiki/shared/diff/easy-s.png) Easy, untuk osu!standard.
+- [Game modifier](/wiki/Game_modifier/Easy).
+- [Tingkat kesulitan](/wiki/Beatmap/Difficulty) dari sebuah beatmap:
+  - ![](/wiki/shared/diff/easy-o.png) Easy, untuk osu!.
   - ![](/wiki/shared/diff/easy-t.png) Kantan, untuk osu!taiko.
   - ![](/wiki/shared/diff/easy-c.png) Cup, untuk osu!catch.
   - ![](/wiki/shared/diff/easy-m.png) EZ, untuk osu!mania.

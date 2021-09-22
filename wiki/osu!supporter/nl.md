@@ -4,7 +4,7 @@ outdated: true
 
 # osu!supporter
 
-![osu!supporter tag](img/store-product.jpg "osu!supporter tag")
+![osu!supporter tag](img/store-product.jpg?1 "osu!supporter tag")
 
 ## Introductie
 
@@ -22,7 +22,7 @@ In het kort: Donaties worden gebruikt om osu! draaiend te houden.
   - Iets specifieker; `menu-background.jpg` (Main Menu); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triangles); `welcome.wav` (Welcome Sound); `seeya.wav` (Exiting Sound)
 - [Feature Requests](https://osu.ppy.sh/community/forums/4): Extra stemmen voor Feature Requests (2 per maand).
 - [Song Selection](/wiki/Interface): De mogelijkheid om de rankings van een beatmap van jouw land / vrienden / mods te bekijken in-game.
-- Your Profile: <https://osu.ppy.sh/users/>
+- Your Profile: `https://osu.ppy.sh/users/`
   - Je kan een userpage aan je profiel toevoegen.
     - Je userpage verdwijnt niet als je osu!supporter is afgelopen.
   - De eenmalige mogelijkheid om je username te veranderen (één keer per account. Je kan je username hierna niet meer veranderen, uitzonderingen worden zeer zelden gemaakt).
@@ -36,7 +36,7 @@ In het kort: Donaties worden gebruikt om osu! draaiend te houden.
 
 [Gebruik deze valuta converter](http://www.oanda.com/currency/converter/) of [vraag Google](https://www.google.com.my/#q=usd+exchange+rate) om de prijs in omgerekend naar euro te zien. De prijzen zijn in "USD$ dollar".
 
-![Een voorbeeld van Supporter kopen](img/selecting-duration.jpg "Een voorbeeld van Supporter kopen")
+![Een voorbeeld van Supporter kopen](img/selecting-duration.jpg?1 "Een voorbeeld van Supporter kopen")
 
 | Maanden | Kosten {USD$} (ten opzicht van totaal) |
 | :-: | :-- |
@@ -62,6 +62,6 @@ Na de lengte en accounts gecheckt te hebben, klik je op 'Checkout'. Hier krijg j
 
 ### Duur
 
-![Vergelijking tussen een actieve en inactieve osu!supporter-tag.](img/status.jpg "Vergelijking tussen een actieve en inactieve osu!supporter-tag.")
+![Vergelijking tussen een actieve en inactieve osu!supporter-tag.](img/status.jpg?1 "Vergelijking tussen een actieve en inactieve osu!supporter-tag.")
 
 Nadat je transactie voltooid is, zal onder het kopje 'Recent Activity' op je profiel het volgende woorden weergegeven: "{Accountnaam} has become an osu! supporter - thanks for your generosity!" als het de eerste keer is dat je account osu!supporter krijgt, "{Accountnaam} has once again chosen to donate to the osu! cause - thanks for your generosity!" als je al eerder supporter hebt gehad en "{Accountnaam} has received the gift of osu! supporter!" als je osu!supporter van iemand anders krijgt. Als je supporter op je eigen account hebt, zie je onder je profielfoto de osu!supporter badge staan. Om te kijken wanneer je osu!supporter afloopt, keer je terug naar [keer je terug naar de plek waar je het gekocht hebt](https://osu.ppy.sh/home/support).

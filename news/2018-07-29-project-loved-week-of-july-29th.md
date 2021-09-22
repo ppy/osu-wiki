@@ -20,12 +20,12 @@ Now let's see those beatmaps!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [Toy](https://osu.ppy.sh/users/2757689) and [DigitalHypno](https://osu.ppy.sh/users/4384207)!
 
@@ -66,7 +66,7 @@ This map is possibly best known for its viability as a stamina training, finger 
 
 Similarly to toromi hearts 2, Cherry Blossom's Firmament Castle "Velier" (Formerly uetsu shi - Tenku No Shiro Vuerieru) is famous for its status as a stream stamina test. A beautifully mapped 7\* diff of an equally beautiful song, the map itself proves slightly more vicious, clocking in at 222 BPM and featuring various streams reaching up to over 60 notes in length. Originally mapped in 2013 along with a more difficult remap in 2015, Firmament Castle "Velier" is a stream map for the ages.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [Backfire](https://osu.ppy.sh/users/263110), [Gezoda](https://osu.ppy.sh/users/481582) and [iceOC](https://osu.ppy.sh/users/5482401)! This week, all osu!taiko beatmap descriptions were written by [Gezoda](https://osu.ppy.sh/users/481582).
 
@@ -102,7 +102,7 @@ We may not have our usual Camellia feat Nanahira collab in the pollings this wee
 
 Oh look, a Miku map that isn't all cutesy for once! With streams to kill you, it was also used in Taiko World Cup: Last Man Standing 4 and features stuff I can't even FC because I'm bad at this game. It's got 1/6 tech patterns and handswitchy streams everywhere, and this beatmap is a complete joke in the good way because all of its settings are repeated digits. You have no room for mistakes; HP6.6 for 3333 notes is guaranteed to kill you even with 98% if you miss one too many notes. I didn't even choose this map, but nobody else wanted to write its description—so put those pitchforks away.
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Zak](https://osu.ppy.sh/users/1375955), [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941) and [Ascendance](https://osu.ppy.sh/users/2931883)!
 
@@ -122,7 +122,7 @@ The long requested Pacific Girls collab from ExGon and DakkyChan finally makes i
 
 One of the osu! community's favourite songs, C18H27NO3, gets a chance to receive some luvin' from the osu!catch community now as well. The by-now quit mapper Milquar put together an excellent yet simple-styled version of this song that has seen quite some play from multiplayer lobbies, solo play and even solo challenges in past time. What can only be described as a relentless hyper fiesta, C18H27NO3 is not too accessible of a map for the lower-skilled end of the community, but for those that can properly play it, this ordeal is an absolute banger. The super exciting song combined with this map's style will definitely leave you wanting to try this out more than once—so check it out!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Kamikaze](https://osu.ppy.sh/users/2124783), [Pope Gadget](https://osu.ppy.sh/users/2288341), [aitor98](https://osu.ppy.sh/users/3154852), [TheToaphster](https://osu.ppy.sh/users/7616811) and [\_underjoy](https://osu.ppy.sh/users/2235750)!
 

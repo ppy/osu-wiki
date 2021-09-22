@@ -1,47 +1,42 @@
----
-needs_cleanup: true
----
-
 # Keyboard bindings
 
-To access this dialog, open the [Options](/wiki/Options/), type in `change` then click on `Change keyboard bindings`.
+To access this dialog, open the [Options](/wiki/Options), type in `change` then click on `Change keyboard bindings`.
 
 Here, you can change reassign keyboard keys with the listed actions.
 
-**Notice:** the osu!client will not notify you for keys used multiple times (this includes conflicting keys)!
+**Notice:** the osu! client will not notify you for keys used multiple times (this includes conflicting keys)!
 
-## osu! Standard Mode
+## osu!
 
-| Name        | Default |
-|-------------|---------|
-| Left Click  | `Z`     |
-| Right Click | `X`     |
-| Smoke       | `C`     |
+| Name | Default |
+| :-- | :-- |
+| Left Click | `Z` |
+| Right Click | `X` |
+| Smoke | `C` |
 
-## Taiko Mode
+## osu!taiko
 
-| Name                | Default |
-|---------------------|---------|
-| Drum Centre (Left)  | `X`     |
-| Drum Centre (Right) | `C`     |
-| Drum Rim (Left)     | `Z`     |
-| Drum Rim (Right)    | `V`     |
+| Name | Default |
+| :-- | :-- |
+| Drum Centre (Left) | `X` |
+| Drum Centre (Right) | `C` |
+| Drum Rim (Left) | `Z` |
+| Drum Rim (Right) | `V` |
 
+## osu!catch
 
-## Catch the Beat Mode
+| Name | Default |
+| :-- | :-- |
+| Move Left | `Left Arrow` |
+| Move Right | `Right Arrow` |
+| Dash! (2x movement speed) | `Left Shift` |
 
-| Name                      | Default       |
-|---------------------------|---------------|
-| Move Left                 | `Left Arrow`  |
-| Move Right                | `Right Arrow` |
-| Dash! (2x movement speed) | `Left Shift`  |
+## osu!mania
 
-## osu! Mania Mode
-
-| Name           | Default |
-|----------------|---------|
-| Increase Speed | `F3`    |
-| Decrease Speed | `F4`    |
+| Name | Default |
+| :-- | :-- |
+| Increase Speed | `F4` |
+| Decrease Speed | `F3` |
 
 **Notes:**
 
@@ -50,12 +45,12 @@ Here, you can change reassign keyboard keys with the listed actions.
 
 ## In-Game
 
-| Name                       | Default     |
-|----------------------------|-------------|
-| Game Pause                 | `Esc`       |
-| Skip Cutscene              | `Space`     |
-| Toggle Scoreboard          | `Tab`       |
-| Increase Local Song Offset | `+` (plus)  |
+| Name | Default |
+| :-- | :-- |
+| Game Pause | `Esc` |
+| Skip Cutscene | `Space` |
+| Toggle Scoreboard | `Tab` |
+| Increase Local Song Offset | `+` (plus) |
 | Decrease Local Song Offset | `-` (minus) |
 | Quick Retry (hold briefly) | `~` (tilde) |
 
@@ -66,16 +61,16 @@ Here, you can change reassign keyboard keys with the listed actions.
 
 ## Universal
 
-| Name                   | Default      |
-|------------------------|--------------|
-| Toggle Framerate Limit | `F7`         |
-| Toggle Chat            | `F8`         |
-| Toggle Extended Chat   | `F9`         |
-| Save Screenshot        | `F12`        |
-| Increase Volume        | `Up Arrow`   |
-| Decrease Volume        | `Down Arrow` |
-| Disable Mouse buttons  | `F10`        |
-| Boss Key               | `Insert`     |
+| Name | Default |
+| :-- | :-- |
+| Toggle Framerate Limit | `F7` |
+| Toggle Chat | `F8` |
+| Toggle Extended Chat | `F9` |
+| Save Screenshot | `F12` |
+| Increase Volume | `Up Arrow` |
+| Decrease Volume | `Down Arrow` |
+| Disable Mouse buttons | `F10` |
+| Boss Key | `Insert` |
 
 **Notes:**
 
@@ -85,47 +80,47 @@ Here, you can change reassign keyboard keys with the listed actions.
 
 ## Editor
 
-| Name                   | Default      |
-|------------------------|--------------|
-| Select tool            | `1`          |
-| Normal tool            | `2`          |
-| Slider tool            | `3`          |
-| Spinner tool           | `4`          |
-| New Combo Toggle       | `Q`          |
-| Whistle Toggle         | `W`          |
-| Finish Toggle          | `E`          |
-| Clap Toggle            | `R`          |
-| Grip Snap toggle       | `T`          |
-| Distance Snap Toggle   | `Y`          |
-| Note Lock toggle       | `L`          |
-| Nudge Left             | `J`          |
-| Nudge Right            | `K`          |
-| Help Toggle            | `H`          |
-| Jump to First Note     | `Z`          |
-| Play from beginning    | `X`          |
-| Audio Pause            | `C`          |
-| Jump to End            | `V`          |
-| Grid Size Change       | `G`          |
-| Add Timing Section     | _(None)_     |
-| Add Inheriting Section | _(None)_     |
-| Remove Section         | _(None)_     |
+| Name | Default |
+| :-- | :-- |
+| Select tool | `1` |
+| Normal tool | `2` |
+| Slider tool | `3` |
+| Spinner tool | `4` |
+| New Combo Toggle | `Q` |
+| Whistle Toggle | `W` |
+| Finish Toggle | `E` |
+| Clap Toggle | `R` |
+| Grip Snap toggle | `T` |
+| Distance Snap Toggle | `Y` |
+| Note Lock toggle | `L` |
+| Nudge Left | `J` |
+| Nudge Right | `K` |
+| Help Toggle | `H` |
+| Jump to First Note | `Z` |
+| Play from beginning | `X` |
+| Audio Pause | `C` |
+| Jump to End | `V` |
+| Grid Size Change | `G` |
+| Add Timing Section | *(None)* |
+| Add Inheriting Section | *(None)* |
+| Remove Section | *(None)* |
 
 ## Mod Select
 
-| Name         | Default |
-|--------------|---------|
-| Easy         | `Q`     |
-| No Fail      | `W`     |
-| Half Time    | `E`     |
-| Hard Rock    | `A`     |
-| Sudden Death | `S`     |
-| Double Time  | `D`     |
-| Hidden       | `F`     |
-| Flashlight   | `G`     |
-| Relax        | `Z`     |
-| Autopilot    | `X`     |
-| Spun Out     | `C`     |
-| Auto         | `V`     |
+| Name | Default |
+| :-- | :-- |
+| Easy | `Q` |
+| No Fail | `W` |
+| Half Time | `E` |
+| Hard Rock | `A` |
+| Sudden Death | `S` |
+| Double Time | `D` |
+| Hidden | `F` |
+| Flashlight | `G` |
+| Relax | `Z` |
+| Autopilot | `X` |
+| Spun Out | `C` |
+| Auto | `V` |
 
 **Notes:**
 
@@ -144,7 +139,7 @@ This button will reset all bindings to their defaults listed above.
 **For mod select:**
 
 - The mania xK mods are not listed there.
-  - You can press keys `3` to `9` to enabled the xK mods.
+  - You can press keys `3` to `9` to enable the xK mods.
 - Not all mod icons have a keyboard shortcut, such as:
   - 1K
   - 2K

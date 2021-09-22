@@ -24,7 +24,7 @@ To start off your Olympiad journey as a drum master, we have chosen a song by fe
 ## Rules
 
 - This contest is for the **osu!taiko** gamemode only.
-- Each entry **must follow the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)**. Failure to adhere to the Ranking Criteria may result in penalties ranging from point deduction to total disqualification, depending on severity.
+- Each entry **must follow the [Ranking Criteria](/wiki/Ranking_Criteria)**. Failure to adhere to the Ranking Criteria may result in penalties ranging from point deduction to total disqualification, depending on severity.
 - The size of the beatmap submission must not exceed 15MB.
 - Storyboards will not be considered during the judging process.
 - Custom hitsounds **may** be used.

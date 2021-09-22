@@ -18,12 +18,12 @@ If you have any suggestions for scores we should include, please submit them usi
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/XgkmFxuaqVQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -93,7 +93,7 @@ This offline play from Bubbleman demonstrates his insane finger control, being o
 20 February 2019, Ranked, 683pp  
 *Added and written by [clayton](https://osu.ppy.sh/users/3666350)*
 
-idke, you're really stretching my words here. I don't even know how to describe these plays anymore because they're all completely whack. This [synonym for crazy] play on this [synonym for incredibly fast] map is leagues above the rest, sitting proudly as the only HR FC atop a leaderboard that's already only got 20 or so FCs, despite pretty much every top player having tried this map before.
+idke, you're really stretching my words here. I don't even know how to describe these plays anymore because they're all completely whack. This \[synonym for crazy\] play on this \[synonym for incredibly fast\] map is leagues above the rest, sitting proudly as the only HR FC atop a leaderboard that's already only got 20 or so FCs, despite pretty much every top player having tried this map before.
 
 **[idke](https://osu.ppy.sh/users/4650315)**: [Happppy song [happy birthday to me.]](https://osu.ppy.sh/beatmapsets/744593#osu/1569904) +HR **A** (2,285/2,402x, 98.41%)  
 20 February 2019, Ranked, 759pp  
@@ -303,7 +303,7 @@ One of Akali's more recent maps, Gekka's got pretty much everything you'd expect
 
 Just a few days after BeasttrollMC's HR FC, fieryrage raises the sword even higher with his own score at over 99% accuracy. This kind of accuracy on a nearly 4,000 combo map made of mostly deathstreams shouldn't be taken lightly; the amount of consistency and dedication needed to pull this feat off is on a level most players will never reach. As expected, his reaction to his own play comes with a similar feeling of disbelief as BeastrollMC's did.
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/_V16MA4gKRo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -319,7 +319,7 @@ Some of you may remember this map from from the RO16 pool of TWC 2017, and if yo
 24 February 2019, Ranked, 618pp  
 *Added by [JDrago14](https://osu.ppy.sh/users/7690078), written by [Raphalge](https://osu.ppy.sh/users/3918650)*
 
-Every now and then I think to myself "This is it. We've reached peak performance". However, minutes later someone decides to put the pedal to the metal and does what was previously thought to be impossible. For shinchikuhome, an 8-minute, 205 BPM, appropriately titled "Hell Oni" map is simply too easy, and needs some spice. Double Time spice to be exact, taking this already very dense 6* map and bumping it up to a jaw-dropping 8.95*. It speaks for itself, really. 5 minutes of 308 BPM at what is basically 9*? I'd say that's worth having a look at.
+Every now and then I think to myself "This is it. We've reached peak performance". However, minutes later someone decides to put the pedal to the metal and does what was previously thought to be impossible. For shinchikuhome, an 8-minute, 205 BPM, appropriately titled "Hell Oni" map is simply too easy, and needs some spice. Double Time spice to be exact, taking this already very dense 6\* map and bumping it up to a jaw-dropping 8.95\*. It speaks for itself, really. 5 minutes of 308 BPM at what is basically 9\*? I'd say that's worth having a look at.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/O_s9Da23qgU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -345,7 +345,7 @@ One of the more recently ranked TAIKO-HOLIC mapsets from the famous Japanese Tai
 
 And the award for the most stupidly catchy song goes to... A song about trains? A well-known map, infamous for it's abundant usage of 1/6 patterns and speed. Matched with a player, well-known for his proficiency in those exact areas? A match made in heaven if you ask me. applerss makes a rare appearance in this installment of the biweekly Scorewatch, facing off against the ever-powerful Densha Warrior. Will he use his trump card "Hidden" and tear through the map with ease, or will he be overwhelmed by the speed and technicalities and fail? Well, you already see the results in the title. But give it a watch anyways!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/I5B2LrCTeIo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -363,7 +363,7 @@ Here we go again with a very good play on the newest and second ranked 9 star ma
 
 EzGon On NM comes in fresh with a pretty unexpected play actually. Getting the 23rd HR FC on Genryuu Kaiko, still being one of the "endgame" maps after four years of it being ranked. This is an extremely impressive play; the video will explain it for you better than I can!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/oMDZyHUJBcI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

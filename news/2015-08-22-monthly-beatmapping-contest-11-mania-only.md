@@ -13,16 +13,16 @@ For the previous contest we had a quirky, fun 8-bit remix from the Legend of Zel
 
 ## What are the prizes?
 
-* 6 months of supporter for you or a friend!
-* 'Elite Mapper' forum title
-* **Winning mapset will be bundled with the osu! game client download!**
+- 6 months of supporter for you or a friend!
+- 'Elite Mapper' forum title
+- **Winning mapset will be bundled with the osu! game client download!**
 
 ## What are the rules?
 
-* You must map 4 difficulties in an appropriate spread - either ENHI (easy, normal, hard and insane) or NHIX (normal, hard, insane, expert).
-* Collaboration is allowed, but will only be registered under the name of the person who submitted the beatmap. Prizes for a winning mapset will only be given to the uploader.
-* Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything comparable.
-* Maps submitted to the contest must not be submitted to the BSS until the contest has concluded.
+- You must map 4 difficulties in an appropriate spread - either ENHI (easy, normal, hard and insane) or NHIX (normal, hard, insane, expert).
+- Collaboration is allowed, but will only be registered under the name of the person who submitted the beatmap. Prizes for a winning mapset will only be given to the uploader.
+- Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything comparable.
+- Maps submitted to the contest must not be submitted to the BSS until the contest has concluded.
 
 ## Where can I enter?
 

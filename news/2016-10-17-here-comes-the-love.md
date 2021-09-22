@@ -15,9 +15,9 @@ We'd like to say that starting today, those times are over. Without further ado,
 
 Here's the details:
 
-* Loved state functions almost identically to the Qualified state. Beatmaps marked with the state have their own scoreboards, but do not grant pp (performance points) for plays.
-* Similarly to how Qualified maps work, Loved maps also increase playcount, count for *most* medal achievements (excluding star related progression achievements and some others), saved online replays, and everything else you'd expect from a scoreboarded map.
-* Once a map enters Loved state, it can no longer be altered by the mapper without leaving the state again.
+- Loved state functions almost identically to the Qualified state. Beatmaps marked with the state have their own scoreboards, but do not grant pp (performance points) for plays.
+- Similarly to how Qualified maps work, Loved maps also increase playcount, count for *most* medal achievements (excluding star related progression achievements and some others), saved online replays, and everything else you'd expect from a scoreboarded map.
+- Once a map enters Loved state, it can no longer be altered by the mapper without leaving the state again.
 
 **To start the open testing off, we will be holding community voting on a weekly basis to select the first number of maps to enter the Loved state.** Maps may enter the Loved state in different ways in the future (such as via SP), pending some discussion and development of the system. For now, voting will be the only way.
 

@@ -13,21 +13,21 @@ We're excited to see how this goes - we have been planning big, and we're hoping
 
 ## Tournament Schedule
 
--   Registration Phase: 9 Mar - 4 May 2014
--   Tournament Start: 10 May 2014  
+- Registration Phase: 9 Mar - 4 May 2014
+- Tournament Start: 10 May 2014  
 
 ## Prizes
 
--   1st: 6 month supporter tag & profile userbadge
--   2nd: 3 month supporter tag
--   3rd: 1 month supporter tag  
+- 1st: 6 month supporter tag & profile userbadge
+- 2nd: 3 month supporter tag
+- 3rd: 1 month supporter tag  
 
 ## Registration Instructions
 
--   Hand in your registration before **4 May 2014 at 23:59:59 UTC+0**.
--   Your team must consist of 3-6 players, either coming from two different countries or from the same region.
--   The tournament will run with a maximum of 32 teams.
--   If you have any changes you wish to make during the registration phase, request it via PM.
+- Hand in your registration before **4 May 2014 at 23:59:59 UTC+0**.
+- Your team must consist of 3-6 players, either coming from two different countries or from the same region.
+- The tournament will run with a maximum of 32 teams.
+- If you have any changes you wish to make during the registration phase, request it via PM.
 
 ## How to register?
 
@@ -37,6 +37,6 @@ _Any registrations or team changes past the deadline can not be considered._
 
 ## Links
 
--   [Information and Discussion Thread](https://osu.ppy.sh/community/forums/topics/192614/start=0)
+- [Information and Discussion Thread](https://osu.ppy.sh/community/forums/topics/192614/start=0)
 
 —Dolphin

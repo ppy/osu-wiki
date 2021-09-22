@@ -15,20 +15,20 @@ Here's a taste of the track for this contest:
 
 ## What are the prizes?
 
-* 6 months of osu!supporter (for yourself, a friend, or many friends - the choice is yours)
-* The highly coveted *Elite Mapper* forum title and entry into the osu! Hall of Fame
-* The winning map will be featured by the official osu! media team, including a video preview, and potentially much more!
+- 6 months of osu!supporter (for yourself, a friend, or many friends - the choice is yours)
+- The highly coveted *Elite Mapper* forum title and entry into the osu! Hall of Fame
+- The winning map will be featured by the official osu! media team, including a video preview, and potentially much more!
 
 ## What are the rules?
 
-* **All maps submitted must be for the osu! gamemode.** Other contests for other gamemodes will appear later in 2017.
-* **All submitted difficulties must adhere to the Ranking Criteria as closely as possible.** Small mistakes and issues that can be fixed post-contest will not be judged too harshly. This isn't an Aspire contest!
-* You must map at least **three** (3) difficulties in an appropriate spread as per the Ranking Criteria, either ENH (easy, normal and hard) or NHI (normal, hard, insane).
-* You may map **one** (1) expert level difficulty for your set if you are mapping an NHI spread, for an end spread of NHIE. *You are not REQUIRED to create an expert level difficulty for your set if you do not want to.*
-* No more than **four** (4) difficulties may be submitted under any circumstances.
-* Collaboration is allowed, but only the submitter of the set will receive credit for the prizes.
-* Difficulty names **must only be the name of the respective difficulty**. Things like 'Monstrata's spicy triangles' or 'pishifat's Expert' are not allowed.
-* Maps and sets submitted to the contest must not be uploaded to the BSS until the contest has concluded and the winners have been announced.
+- **All maps submitted must be for the osu! gamemode.** Other contests for other gamemodes will appear later in 2017.
+- **All submitted difficulties must adhere to the Ranking Criteria as closely as possible.** Small mistakes and issues that can be fixed post-contest will not be judged too harshly. This isn't an Aspire contest!
+- You must map at least **three** (3) difficulties in an appropriate spread as per the Ranking Criteria, either ENH (easy, normal and hard) or NHI (normal, hard, insane).
+- You may map **one** (1) expert level difficulty for your set if you are mapping an NHI spread, for an end spread of NHIE. *You are not REQUIRED to create an expert level difficulty for your set if you do not want to.*
+- No more than **four** (4) difficulties may be submitted under any circumstances.
+- Collaboration is allowed, but only the submitter of the set will receive credit for the prizes.
+- Difficulty names **must only be the name of the respective difficulty**. Things like 'Monstrata's spicy triangles' or 'pishifat's Expert' are not allowed.
+- Maps and sets submitted to the contest must not be uploaded to the BSS until the contest has concluded and the winners have been announced.
 
 Like all other MBC's, a panel of hand-picked judges from the Beatmap Nominators and the Quality Assurance Team will determine the winner after extensive deliberation. Entries will be judged on their worth and cohesion as a full set, not just as individual difficulties, as per every other MBC.
 

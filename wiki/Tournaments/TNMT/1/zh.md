@@ -25,9 +25,9 @@
 
 | 名次 | 奖品 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/GCrown.png "第一名") | 3个月 osu!支持者，主页定制勋章 |
-| ![银冠](/wiki/shared/SCrown.png "第二名") | 2个月 osu!支持者 |
-| ![铜冠](/wiki/shared/BCrown.png "第三名") | 1个月 osu!支持者 |
+| ![金冠](/wiki/shared/crown-gold.png "第一名") | 3个月 osu!支持者，主页定制勋章 |
+| ![银冠](/wiki/shared/crown-silver.png "第二名") | 2个月 osu!支持者 |
+| ![铜冠](/wiki/shared/crown-bronze.png "第三名") | 1个月 osu!支持者 |
 
 ## 主办团队
 
@@ -233,7 +233,7 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Maou** | **12** |  | **Horou** | **11** |  | **Davvyforte** | **12** |  | **Ladylag** | **12** |
 | **edisonhello** | **9** |  | **NestleiFan** | **9** |  | **BITONIC** | **8** |  | **NutAndGo** | **9** |
-| TNKSTC | 7 |  | ReanimateS | 8 |  | [xiao ba] | 6 |  | GodYeeKung | 4 |
+| TNKSTC | 7 |  | ReanimateS | 8 |  | \[xiao ba\] | 6 |  | GodYeeKung | 4 |
 | - Blue Bell - | 0 |  | JunFish | 3 |  | Katsumi | 4 |  | Blujae | 5 |
 
 | Group E | Score |  | Group F | Score |  | Group G | Score |  | Group H | Score |
@@ -241,7 +241,7 @@
 | **Yukina-** | **12** |  | **palmEuEi** | **12** |  | **Halo-** | **12** |  | **mewmew** | **12** |
 | **HD_AdreNaline** | **11** |  | **Antalf** | **9** |  | **EDTA233** | **8** |  | **vincent4399** | **8** |
 | Kasumii-sama | 4 |  | xyxyxy091 | 4 |  | Loily | 5 |  | Yozomi | 6 |
-| -[ GuiboxFR ]- | 6 |  | OumiOVO | 5 |  | XxTheJKxX | 4 |  | DrugManager | 0 |
+| -\[ GuiboxFR \]- | 6 |  | OumiOVO | 5 |  | XxTheJKxX | 4 |  | DrugManager | 0 |
 
 ## 规则
 
@@ -272,7 +272,6 @@
 主办方有对规则的最终解释权。
 
 - 注意：如果任何人被主办方或是 osu! 官方认为是“作弊者”或“有嫌疑”，将被立刻从比赛中删除。
-
 - 入场
   - 房间名均有 TNMT 前缀，对应场次的选手亦将在比赛前收到邀请。
   - 选手需在比赛开始前 10 分钟入场。
@@ -285,19 +284,19 @@
 - 比赛（资格赛不适用）
   - 房间设定为 Team VS, Score V2。
   1. 热手
-      - 裁判将随机给予房主，选手可选择一张 osu!mania 4K 专用谱面进行热手，热手图若长于 4 分钟需对方同意并经裁判确认，之后交换房主，遵循同样规则。
+     - 裁判将随机给予房主，选手可选择一张 osu!mania 4K 专用谱面进行热手，热手图若长于 4 分钟需对方同意并经裁判确认，之后交换房主，遵循同样规则。
   2. 摇点与禁图
-      - 双方热手完成后需在 `#multiplayer` 频道发送 `!roll` 进行摇点，若相同则重摇，点数低的选手先禁用地图，之后是点数高的选手禁用地图。
+     - 双方热手完成后需在 `#multiplayer` 频道发送 `!roll` 进行摇点，若相同则重摇，点数低的选手先禁用地图，之后是点数高的选手禁用地图。
   3. 选图比赛
-      - 摇点阶段禁用的地图以及决胜图不能选择
-      - 已经选择过的地图不能再次选择
-      - 摇点阶段点数高的选手先选择第一张地图，之后每轮交替选图。
-      - 每轮赛图结束后的空窗期不得长于 3 分钟，超时的情况裁判有权设置 15 秒倒计时强制开始。
-      - 若发生平局，该回合视为无效，地图重新记为未选择，交换选图选手，并且该回合不得再选择该图。
+     - 摇点阶段禁用的地图以及决胜图不能选择
+     - 已经选择过的地图不能再次选择
+     - 摇点阶段点数高的选手先选择第一张地图，之后每轮交替选图。
+     - 每轮赛图结束后的空窗期不得长于 3 分钟，超时的情况裁判有权设置 15 秒倒计时强制开始。
+     - 若发生平局，该回合视为无效，地图重新记为未选择，交换选图选手，并且该回合不得再选择该图。
   4. Tiebreaker（决胜）
-      - 双方均达到赛点时，该回合将强制选择 Tiebreaker。
+     - 双方均达到赛点时，该回合将强制选择 Tiebreaker。
   5. 中途暂停
-      - 如果选手因特殊原因需要在比赛中途暂停需告知裁判，裁判将设定计时器，暂停时间不得超过 5 分钟。
+     - 如果选手因特殊原因需要在比赛中途暂停需告知裁判，裁判将设定计时器，暂停时间不得超过 5 分钟。
 - 超时
   - 比赛时间已到但未入场、比赛中途从房间断开均记为超时，此时将启动一个计时器，计时器达到 10 分钟的选手判负。
 
@@ -315,12 +314,12 @@
   3. 负场更少优先
   4. 加赛的胜者优先
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
+[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
+[flag_US]: /wiki/shared/flag/US.gif "美国"

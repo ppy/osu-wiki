@@ -71,7 +71,7 @@ Some of you might remember the old Mapping with Rewards event, but [Okorin](http
 
 All you have to do is map one of the listed tracks, upload them to both BSS and the contest page and you're done! Your set can be even ranked already when entering. After the 3 month deadline has passed, a team of dedicated judges will review the entries and decide which is the best.
 
-The creator of the winning beatmap set for each game mode will receive several rewards, such as a 6 months of [osu!supporter](https://osu.ppy.sh/help/wiki/osu!supporter), a profile badge and more! If you haven't read it yet make sure to head over to the [MWR announcement page](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) and read more about it!
+The creator of the winning beatmap set for each game mode will receive several rewards, such as a 6 months of [osu!supporter](/wiki/osu!supporter), a profile badge and more! If you haven't read it yet make sure to head over to the [MWR announcement page](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) and read more about it!
 
 If you want even more mapping events, [Irreversible](https://osu.ppy.sh/users/1287964) has something special planned for the coming month, so stay tuned!
 

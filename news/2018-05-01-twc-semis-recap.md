@@ -55,7 +55,7 @@ In Semifinals, every map was picked atleast once (including tiebreaker!) and the
 
 This weekend we'll be seeing 4 matches. While that may not sound like a lot, the importance of each match cannot be overstated. Also, keep in mind that the matches from now on will be Best-Of-13 and can last a very long time as a result.
 
-In the winners bracket, the undefeated teams of Japan and Taiwan will battle for a spot in the Grand Final. In the losers bracket, we'll be seeing atleast two matches between North America and Asia, as the first two matchups are South Korea versus Canada and United States versus Indonesia. The winners of these two matches will face each other for a spot in the top 3, where they later compete with either Japan or Taiwan for the Grand Finals spot. If all of this sounds complicated, you can have a look at the bracket on [the wiki page](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2018/).
+In the winners bracket, the undefeated teams of Japan and Taiwan will battle for a spot in the Grand Final. In the losers bracket, we'll be seeing atleast two matches between North America and Asia, as the first two matchups are South Korea versus Canada and United States versus Indonesia. The winners of these two matches will face each other for a spot in the top 3, where they later compete with either Japan or Taiwan for the Grand Finals spot. If all of this sounds complicated, you can have a look at the bracket on [the wiki page](/wiki/Tournaments/TWC/2018/).
 
 ### Useful Links
 

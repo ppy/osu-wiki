@@ -7,13 +7,13 @@ outdated: true
 ## Gründer
 
 | Name | Beschreibung |
-| ---- | ----------- |
+| :-- | :-- |
 | [peppy](https://osu.ppy.sh/users/2) | Projektleiter |
 
 ## Aktive
 
 | Name | Beschreibung |
-| ---- | ----------- |
+| :-- | :-- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Spielerunterstützer |
 | [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Chefdesigner |
 | [Loctav](https://osu.ppy.sh/users/71366) | Offizieller Turnier Organisator |
@@ -28,24 +28,24 @@ outdated: true
 ## Inaktive
 
 | Name | Beschreibung |
-| ---- | ----------- |
+| :-- | :-- |
 | [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Allgemeine Haushaltsführung und Unterstützung, Chibi Illustrationen |
 | [Derekku](https://osu.ppy.sh/users/91341) | Allgemeine Haushaltsführung, Community Verwaltung |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | osu! Entwickler Team, IRC-Integration der In-Game Chats, Seiteninstandhaltung |
 | [Intermezzo](https://osu.ppy.sh/users/136842) | osu! Entwickler Team, osz2/p2p Zuständiger |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) | Originales Seitendesign |
+| Jim ([Brave New Games](http://www.bravegamer.com/)) | Originales Seitendesign |
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Episches Skin Design, Beiträger am "default"-Skin und an Symbol- und Zeichensets |
 | [mm201](https://osu.ppy.sh/users/30655) | osu! Entwickler Team, mm sliders |
 | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone Entwickler |
-| Phil | Forum Design Arbeit |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Originales pippi Entwurf und Grafikdesign |
+| [phill](https://osu.ppy.sh/users/53) | Forum Design Arbeit |
+| [Sarumaru](https://osu.ppy.sh/users/9427) ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Originales pippi Entwurf und Grafikdesign |
 | [Sinistro](https://osu.ppy.sh/users/5530) | Besprechungsprotokolle, Große FAQ Beiträger |
 | [woc2006](https://osu.ppy.sh/users/1105845) | osu! Entwickler Team, osu! osu!mania Modus Entwickler |
 
 ## Benutzergruppen
 
 | Name | Beschreibung |
-| ---- | ----------- |
+| :-- | :-- |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Behalten die Übersicht über die Foren und den In-Game Chat |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Sorgen dafür, dass deine Beatmap in den "qualifiziert"-Status kommen |
 | [Entwickler](https://osu.ppy.sh/groups/11) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Spielfehler beheben |

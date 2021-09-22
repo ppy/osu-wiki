@@ -12,7 +12,7 @@ Greetings everyone, [JBHyperion](https://osu.ppy.sh/users/4879508) here to once 
 
 The osu!catch World Cup 2018 is already well underway, with the Group Stage having concluded this past weekend, but if you’re keen to find out how your favourite team performed, you’re in luck! VODs from the whole weekend are available on the [osu!live Twitch channel](https://www.twitch.tv/osulive).
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v271790255" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe><br/>
+<iframe src="https://player.twitch.tv/?video=v271790255&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe><br/>
 
 As I’ll get into very soon, this was possibly the most incredible weekend of matches I’ve ever had the pleasure to commentate (or even witness), so I highly encourage everyone to check out the action as it went down if you’re able to do so!
 

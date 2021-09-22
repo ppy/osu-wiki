@@ -15,14 +15,14 @@ Recently, we heard voices urging from the community calling for transparent rele
 
 The group consists of **4 sub-teams** in total, being responsible for metadata checking, the Ranking Criteria Council, monthly ranking charts and Beatmap Nominator test creation. Members of each team are shown below:
 
--   **Beatmap Nominator Tests**:
-    -   osu!: Irreversible, Mao
-    -   osu!taiko: DakeDekaane, MMzz
-    -   osu!catch: Deif, JBHyperion
-    -   osu!mania: Blocko, Feerum
--   **Metadata & Reports**: alacat, Fycho, IamKwaN
--   **Ranking Charts**: Kurokami, OnosakiHito, Tari
--   **Ranking Criteria**: Desperate-kun, Okorin
+- **Beatmap Nominator Tests**:
+  - osu!: Irreversible, Mao
+  - osu!taiko: DakeDekaane, MMzz
+  - osu!catch: Deif, JBHyperion
+  - osu!mania: Blocko, Feerum
+- **Metadata & Reports**: alacat, Fycho, IamKwaN
+- **Ranking Charts**: Kurokami, OnosakiHito, Tari
+- **Ranking Criteria**: Desperate-kun, Okorin
 
 Surprisingly, some of us started to be responsible for making up the BN test exam paper not long ago. Huge efforts are needed to brainstorm questions to examine the significant people for the mapping community in the future. Much appreciated their works!
 

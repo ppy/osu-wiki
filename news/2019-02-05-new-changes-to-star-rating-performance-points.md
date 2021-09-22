@@ -18,55 +18,55 @@ Prefer video form? Let Doomsday walk your through the changes in 20 minutes:
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/5rSaXWr_VUM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# Release Schedule
+## Release Schedule
 
-- ☑ As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select. **[COMPLETE]**
-- ☑ Over the coming hours, server-side star ratings will be updated to match. **[COMPLETE]**
-- ☑ Over the next 24 hours, user total PP values will be updated. During this time, user rank updates and profile pp graphs will be paused. **[COMPLETE]**
-- ☑ Over a 4-6 hour period, all user ranks will be recalculated. **Expect to gain ranks in general**, as we are also purging some inactive users from the ranking system. **[COMPLETE]**
-- Over the coming days, all existing scores will be recalculated for all users, updating profiles and beatmap listings. During this period, some scores in "best performance" may be out of order or not visible. **[COMPLETE]**
+- ☑ As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select. **\[COMPLETE\]**
+- ☑ Over the coming hours, server-side star ratings will be updated to match. **\[COMPLETE\]**
+- ☑ Over the next 24 hours, user total PP values will be updated. During this time, user rank updates and profile pp graphs will be paused. **\[COMPLETE\]**
+- ☑ Over a 4-6 hour period, all user ranks will be recalculated. **Expect to gain ranks in general**, as we are also purging some inactive users from the ranking system. **\[COMPLETE\]**
+- Over the coming days, all existing scores will be recalculated for all users, updating profiles and beatmap listings. During this period, some scores in "best performance" may be out of order or not visible. **\[COMPLETE\]**
 
 Note that all *new* scores which are set will already be using the up-to-date performance algorithm.
 
-# Summary of changes
+## Summary of changes
 
-## Wide angle jumps
+### Wide angle jumps
 
 The aim difficulty rating of hit objects now considers the angles formed.
 
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/wide-angle-chart.png)
 
 Example beatmaps where this change can be seen:
-- [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) - 6.25* -> 6.34*
-- [FELT - Puppet in the Dark (Part I & II)](https://osu.ppy.sh/beatmapsets/829511#osu/1737885) - 6.04* -> 6.63*
-- [Momoi Haruko - Luka Luka Night Fever](https://osu.ppy.sh/beatmapsets/21724#osu/83925) - 4.38* -> 4.88*
+- [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) - 6.25\* -> 6.34\*
+- [FELT - Puppet in the Dark (Part I & II)](https://osu.ppy.sh/beatmapsets/829511#osu/1737885) - 6.04\* -> 6.63\*
+- [Momoi Haruko - Luka Luka Night Fever](https://osu.ppy.sh/beatmapsets/21724#osu/83925) - 4.38\* -> 4.88\*
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
-## High BPM streams
+### High BPM streams
 
 The difficulty of patterns consisting of high-paced hit circles (streams) now increases exponentially from 200 BPM to 330 BPM.
 
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-bpm-chart.png)
 
 Example beatmap where this change can be seen:
-- [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) - 7.65* -> 8.03*
+- [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) - 7.65\* -> 8.03\*
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
-## Highly spaced streams
+### Highly spaced streams
 
 The difficulty rating of streams with very high spacing between hit circles has been decreased slightly. These plays are still quite impressive and worth a lot, but not as much as before.
 
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-spacing-chart.png)
 
 Example beatmaps where this change can be seen:
-- [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - 7.11* -> 7.03*
-- [VINXIS - Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566) - 7.11* -> 7.04*
+- [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - 7.11\* -> 7.03\*
+- [VINXIS - Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566) - 7.11\* -> 7.04\*
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
-## Long sliders
+### Long sliders
 
 The difficulty rating of long sliders has been increased significantly.
 
@@ -75,11 +75,11 @@ The difficulty rating of long sliders has been increased significantly.
 The effect of this change also increases along with the jump distance to the slider increasing and the amount of time between hit objects decreasing.
 
 Example beatmap where this change can be seen:
-- [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083) - 5.08* -> 5.71*
+- [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083) - 5.08\* -> 5.71\*
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
-## Speed accuracy
+### Speed accuracy
 
 The performance points awarded for low accuracy scores has been decreased for beatmaps with a high speed rating.
 
@@ -91,7 +91,7 @@ Example beatmaps where this change can be seen:
 
 View on GitHub: [#74](https://github.com/ppy/osu-performance/pull/74)
 
-## Flashlight mod adjustments
+### Flashlight mod adjustments
 
 The performance points awarded due to the flashlight mod has been reduced for short beatmaps and increased for long beatmaps.
 
@@ -103,7 +103,7 @@ Example beatmaps where this change can be seen:
 
 View on GitHub: [#48](https://github.com/ppy/osu-performance/pull/48), [#71](https://github.com/ppy/osu-performance/pull/71)
 
-## Hidden mod adjustments
+### Hidden mod adjustments
 
 The performance points awarded due to the hidden mod has been increased for beatmaps with high aim and accuracy ratings, and decreased for high approach rate beatmaps with high speed ratings.
 
@@ -116,7 +116,7 @@ Example beatmaps where this change can be seen:
 
 View on GitHub: [#72](https://github.com/ppy/osu-performance/pull/72)
 
-## Miscellaneous changes
+### Miscellaneous changes
 
 These are the more minor technical changes that we introduced to fix previous issues and keep things balanced.
 
@@ -127,7 +127,7 @@ These are the more minor technical changes that we introduced to fix previous is
 - Slightly less performance points are now awarded due to the aim rating on approach rate 10.33+ beatmaps. ([#76](https://github.com/ppy/osu-performance/pull/76))
 - Slightly more performance points are now awarded due to the speed rating on approach rate 10.33+ beatmaps. ([#76](https://github.com/ppy/osu-performance/pull/76))
 
-----------
+---
 
 We hope that these changes shake up the leaderboard in a way that is both fun and exciting for all players. Stay tuned for more updates in the future and happy clicking!
 

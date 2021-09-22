@@ -17,9 +17,9 @@ We have reached the end in this year's osu!idol contest. Thanks everyone for tak
 **Third place goes to [MjIsMaster](https://osu.ppy.sh/users/9922896)** with their performance of **The Romantics - Talking In Your Sleep**! Applause, everyone!
 
 Here are links to the performances.
-* [Will Stetson - Snow Drive](https://assets.ppy.sh/contests/71/entries/Snow%20Drive.mp3)
-* [Zeva[FL] - My Shiny Teeth And Me](https://assets.ppy.sh/contests/71/entries/My%20Shiny%20Teeth%20And%20Me.mp3)
-* [MjIsMaster - Talking In Your Sleep](https://assets.ppy.sh/contests/71/entries/Talking%20In%20Your%20Sleep.mp3)
+- [Will Stetson - Snow Drive](https://assets.ppy.sh/contests/71/entries/Snow%20Drive.mp3)
+- [Zeva[FL] - My Shiny Teeth And Me](https://assets.ppy.sh/contests/71/entries/My%20Shiny%20Teeth%20And%20Me.mp3)
+- [MjIsMaster - Talking In Your Sleep](https://assets.ppy.sh/contests/71/entries/Talking%20In%20Your%20Sleep.mp3)
 
 ### Conclusion
 

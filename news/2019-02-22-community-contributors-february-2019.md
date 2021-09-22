@@ -200,7 +200,7 @@ Responsible for considerable contributions to the osu!lazer project, ekr's effor
 
 Noted specifically as one of the few developers brave enough to delve into the core architecture of osu!'s framework, ekr's work ethic and willingness to get involved is highly valued.
 
--------------
+---
 
 As mentioned in previous years, we cannot really stress just how important community contribution is to the future of osu! as a whole. 
 

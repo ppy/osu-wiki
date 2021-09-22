@@ -49,7 +49,7 @@ Beatmap vetoes have always been something that mappers have feared in the past. 
 
 The process of mediation will be performed on any vetoed beatmap, after 48 hours by the request of the mappers or Nominator upholding the veto if no compromise can be made between the two parties, or after 7 days automatically. From there, the arguments for and against the veto will be discussed to determine if the proposed changes are deemed necessary, detrimental, or anything in between.
 
-After discussion concludes, a decision is made amongst the disqualification branch members on whether to uphold the veto, or to dismiss it and allow the ranking process to continue. If you want to look a little more into the details in mediation, or just for a reminder of what vetoes are and how they work, head on over to the new [Beatmap Veto wiki page](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators/Beatmap_Veto).
+After discussion concludes, a decision is made amongst the disqualification branch members on whether to uphold the veto, or to dismiss it and allow the ranking process to continue. If you want to look a little more into the details in mediation, or just for a reminder of what vetoes are and how they work, head on over to the new [Beatmap Veto wiki page](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
 
 ### Changes to disqualifications
 Last-minute disqualifications have seen a lot of controversy in the past, delaying the Ranking process of a beatmap significantly; something a fair number of mappers wish to avoid at all costs. This month, however, sees a change to this process which will hopefully make these disqualifications a little less daunting and discouraging.

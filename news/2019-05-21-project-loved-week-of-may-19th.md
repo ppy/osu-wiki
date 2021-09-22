@@ -14,12 +14,12 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -105,7 +105,7 @@ You may know the artist Kurokotei from the Loved map Galaxy Collapse; if you enj
 
 Now this is a collab with many well known mappers in it, and the set creator is the one and only ProfessionalBox. "Camellia - NUCLEAR-STAR" has a variety of difficulties that each vary in their own respective mapper's way. The map ranges from 0.44 stars to 7.67 stars, so there's a bit of everything in this set: from slider-tech-heavy patterns to more simple standard ones, there's a difficulty that suits anyone who gives this map a go!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -145,7 +145,7 @@ It's TWC season! eae managed to map this very relaxing song with dense patterns 
 
 今年もTWCの季節がやってきた！eaeによるこの譜面は、落ち着いた曲調のこの曲を、巧みなマッピングスキルでに高密度に仕上げることが出来ています。Readingの難しさから、osu!taiko World Cup 2019のmappoolとしても選ばれています。低いスクロールスピードの譜面が苦手なあなたも、ぜひこの譜面で練習してみてください！
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
@@ -167,7 +167,7 @@ Spectator is an absolute veteran of osu!catch mapping; there are hardly any play
 
 Vincs is certainly not an unknown entity when it comes to the Loved section, as he already has three of his maps in it. However, this time it is not another CS0 map. Instead, it is a 10-minute-long map of exceptional quality with a drain time of over 8 minutes, and that on a single song. Yoiyami no Uta is one of those maps which just doesn't deserve to be forgotten in the Graveyard. The map definitely reflects the insane amount of work that went into it; nothing feels out of place, and even though the map is long, it isn't repetitive or boring to play, rather the opposite. The mapping style is very clean and was kept at a level where it is not over-the-top but on the other hand also not too easy. You just have to give this map a shot if you want to know how fantastic it really is; it is truly a great experience!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
@@ -176,21 +176,21 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/mania/1-hype-feat-such-lapix-remix.jpg)](https://osu.ppy.sh/community/forums/topics/910856)
 
 [PSYQUI - Hype feat. Such (lapix Remix)](https://osu.ppy.sh/beatmapsets/934819#mania) by [Chrubble](https://osu.ppy.sh/users/2594280)  
-175 BPM, 4:37 | [4K] 4.97★
+175 BPM, 4:37 | \[4K\] 4.97★
 
 Starting off osu!mania Loved is a chart whose description is summed up very nicely within its own title. Yes, this map very much lives up to the word "hype" through its great variety of technical elements, the consistency and satisfaction of these choices, and also the difficulty of it that more than matches up with the expectations of the song. A player who wishes to experience the hype around this map will find themselves immersed in a plethora of fast and tricky bursts, difficult minijack patterns, and disjointed LNs and releases sure to keep the attention of said player. Even with its near-5-minute play time, the chart continues to develop its patterns, eventually culminating in an intense showcase of LNs that neatly captures the ultimate intensity that the song was preparing and keeping the player on their toes for. All-in-all, a satisfying experience with the quickly-grown following gives this chart more than enough hype to earn it a nomination spot.
 
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/mania/2-a-reyvateil-s-curse.jpg)](https://osu.ppy.sh/community/forums/topics/910855)
 
 [Helblinde - A Reyvateil's Curse](https://osu.ppy.sh/beatmapsets/580790#mania) by [Skochan](https://osu.ppy.sh/users/7861278)  
-200 BPM, 4:25 | [4K] 7.69★, [7K] 6.92★
+200 BPM, 4:25 | \[4K\] 7.69★, \[7K\] 6.92★
 
 Joining in on the trend of insanely difficult and popular LN maps to be nominated comes A Reyvateil's Curse, a rather varied LN chart as far as these maps come. Skochan makes sure to bombard the player with as many difficult patterns as he can while remaining faithful to the song, stretching from LN jacks, speed and bursts to full on inverse in some sections. This variety has made it very appealing to LN enthusiasts, as well as anyone looking to get practice with the upper end of the skillset, and has led it to gain a significant following, landing it in a perfect position to be nominated for the Loved section.
 
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/mania/3-endymion.jpg)](https://osu.ppy.sh/community/forums/topics/910854)
 
 [fallen shepherd feat. RabbiTon Strings - ENDYMION](https://osu.ppy.sh/beatmapsets/684675#mania) by [Halogen-](https://osu.ppy.sh/users/169992) and [Kamikaze](https://osu.ppy.sh/users/2124783)  
-220 BPM, 1:59 | [4K] 1.35★, [4K] 3.56★, [4K] 4.09★, [4K] 5.44★
+220 BPM, 1:59 | \[4K\] 1.35★, \[4K\] 3.56★, \[4K\] 4.09★, \[4K\] 5.44★
 
 DanceDanceRevolution A's ENDYMION is notorious for having the hardest official singles chart in all of DDR, and, in the realm of osu!mania, having a difficult chart that has accumulated both notoriety and admiration over the years.
 
@@ -203,14 +203,14 @@ For lower-level players, there are three lower difficulties to check out, includ
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/mania/4-snailchan-adventure.jpg)](https://osu.ppy.sh/community/forums/topics/910853)
 
 [Ujico\*/Snail's House - Snailchan Adventure](https://osu.ppy.sh/beatmapsets/872779#mania) by [Wonki](https://osu.ppy.sh/users/7898495)  
-174 BPM, 3:22 | [7K] 6.58★
+174 BPM, 3:22 | \[7K\] 6.58★
 
 Finally coming into the Project Loved scene, we have Wonki's Snailchan Adventure! This map clocks in at 174 BPM and delivers a striking balance between rigid and comfy chordstream patterns. You name it, this has it! Brackets, anchors, chordtrills, and and a copious amount of comfy chordstreams. With its own share of pattern repetition to highlight similar sounding sections, a lot of sectional changes to the overall feel to the chart are present as well. Ranging from jacking, to burst patterns, and even an LN section later on into the song, this chart has something that everyone should look forward to playing.
 
 [![](/wiki/shared/news/2019-05-21-project-loved-week-of-may-19th/mania/5-credens-justitiam.jpg)](https://osu.ppy.sh/community/forums/topics/910852)
 
 [Kajiura Yuki - Credens justitiam](https://osu.ppy.sh/beatmapsets/598654#mania) by [Flexo123](https://osu.ppy.sh/users/5367287)  
-136 BPM, 3:39 | [7K] 5.88★
+136 BPM, 3:39 | \[7K\] 5.88★
 
 In classic O2Jam fashion, we have our LN pick with Flexo123's Credens justitiam. Primarily a release-intensive chart, the map starts with with simple light chordstreaming at 136 BPM, which gradually transitions into a nearly full-LN chart by the first main section. While note yet release heavy, the section slowly picks up with the LN density and introduces some instances of LN release tech which peaks towards the end of the section. These introduced patterns only get more and more difficult as the map progresses.
 

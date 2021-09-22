@@ -70,7 +70,7 @@ Notable runners up were:
 
 [t+pazolite - Oshama Scramble!](https://osu.ppy.sh/beatmapsets/511480) by [\[ A v a l o n \]](https://osu.ppy.sh/users/4632359) with **587** votes.
 
-----
+---
 
 Each top-voted set has its mapper walk away with a shiny new profile badge, and 6 months of osu!supporter for their efforts. The runners up and the top 10 voted sets for each game mode receive 1 months of osu!supporter as well.
 

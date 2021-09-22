@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 단축키 모음
 
 osu!에는 인게임에서 사용할 수 있는 많은 단축키가 존재합니다. 아래에서 이러한 단축키의 종류와 기능을 설명하고 있습니다.
@@ -19,7 +23,7 @@ osu!에는 인게임에서 사용할 수 있는 많은 단축키가 존재합니
 - `F12`: 스크린샷 캡쳐
 - `Shift` + `F12`: 스크린샷 캡쳐 후 서버에 업로드
 - `Insert`: ([보스 키](https://en.wikipedia.org/wiki/Boss_key)) osu!클라이언트를 알림 영역으로 최소화합니다.
-- `Shift` + `F1`: [osu!status](https://twitter.com/osustatus "osu!status on Twitter") 열기 (연결 문제가 발생했을 때)
+- `Shift` + `F1`: [osu!status](https://twitter.com/osustatus) 열기 (연결 문제가 발생했을 때)
 
 ## 메인 메뉴
 
@@ -62,7 +66,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 
 - `Alt` + `Arrow Up`: 사운드 불륨 증가
 - `Alt` + `Arrow Down`: 사운드 불륨 감소
-- `F1`: [모드](/wiki/Game_Modifiers) 선택 메뉴
+- `F1`: [모드](/wiki/Game_modifier) 선택 메뉴
 - `F2`: 랜덤으로 맵 선택
 - `Shift` + `F2`: 랜덤 맵 선택 이전의 곡으로 돌아가기
 - `F3`: 비트맵 옵션
@@ -93,13 +97,12 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 
 ### Game Modifiers
 
-*Main Page: [Game Modifiers](/wiki/Game_Modifiers)*
+*Main Page: [Game Modifiers](/wiki/Game_modifier)*
 
 **Notes:**
 
 - 아래 단축키들은 플레이어가 아무런 모드도 걸지 않았을 때의 기준입니다.
 - 일부 모드를 선택하려면 키를 두 번 눌러야 할 수도 있습니다.
-
 - `Q`: [Easy](/wiki/Easy_mod)
 - `W`: [No Fail](/wiki/No_Fail)
 - `E`: [Half Time](/wiki/Half_Time)
@@ -111,7 +114,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `S`, `S`: [Perfect](/wiki/Perfect)
 - `D`: [Double Time](/wiki/Double_Time)
 - `D`, `D`: [Nightcore](/wiki/Nightcore)
-- `F`: [Hidden](/wiki/Hidden) (osu!standard, osu!taiko, osu!catch)
+- `F`: [Hidden](/wiki/Hidden) (osu!, osu!taiko, osu!catch)
   - [Fade In](/wiki/Fade_In) (osu!mania)
 - `F`, `F`: [Hidden](/wiki/Hidden) (osu!mania 전용)
 - `G`: [Flashlight](/wiki/Flashlight)
@@ -192,7 +195,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 - `Ctrl` + `V`: 붙여넣기
 - `Ctrl + D`: 선택한 노트 복제 (복제된 노트는 가장 뒷쪽의 노트를 기준으로 1박자 만큼의 간격을 두고 배치됨)
 - `Delete`: 선택한 노트 삭제
-- `1`, `2`, `3`, `4`: 배치/선택 모드 전환: 각각 Select, Circle, Slider, Spinner 선택 (osu!standard, osu!taiko, osu!catch 모드에서)
+- `1`, `2`, `3`, `4`: 배치/선택 모드 전환: 각각 Select, Circle, Slider, Spinner 선택 (osu!, osu!taiko, osu!catch 모드에서)
 - `1`, `2`, `3`: 배치/선택 모드 전환: 각각 Select, Circle, Hold 선택 (osu!mania 모드에서)
 - `Ctrl` + `Alt` + `Mouse Wheel Up`: 배치/선택 모드 전환 (위쪽으로)
 - `Ctrl` + `Alt` + `Mouse Wheel Down`: 배치/선택 모드 전환 (아래쪽으로)

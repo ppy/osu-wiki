@@ -1,7 +1,5 @@
 # 2009
 
-*Halaman utama: [Sejarah osu!](/wiki/History_of_osu!).*
-
 ## Januari
 
 osu! membuat jalannya tersendiri ke iPhone dari sebuah port ke iPhone, hal ini dapat dilakukan oleh nuudles. Proyek ini memiliki [subforum](https://osu.ppy.sh/community/forums/47) tersendiri.

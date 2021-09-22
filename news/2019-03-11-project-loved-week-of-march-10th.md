@@ -16,12 +16,12 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
-## <a name="osu" id="osu"></a>osu!
+## osu!
 
 osu! Loved candidates were chosen by [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
@@ -107,7 +107,7 @@ This map is one of the oldest (playable) 8 star maps, and its star difficulty is
 
 toybot's mapset of "LegenD." was updated and revised for a year after its creation before being abandoned and left to the throes of the graveyard. It's seen a constant inclusion in tournament map pools recently, and was never unpopular to begin with. Adding its full difficulty spread to this, I see no reason such a diverse mapset can't be enjoyed by many players of all skill levels. Give the mapset a spin; there's a lot of enjoyment to be had within its many difficulties!
 
-## <a name="osutaiko" id="osutaiko"></a>osu!taiko
+## osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
@@ -137,7 +137,7 @@ This week, we have katagiri... but this isn't only a katagiri song: It's Katagir
 
 Nosso Samba... 1, 2, 1, 2. You may know this map if you've been active recently. This map was a DT pick for the Ro16 in the osu!taiko World Cup 2018. Although calm for the most part, the map has some characteristic 1/12 and even-number patterns, making the map more challenging than it looks. Let's practice this map, and prepare for this year's osu!taiko World Cup too!
 
-## <a name="osucatch" id="osucatch"></a>osu!catch
+## osu!catch
 
 osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
 
@@ -159,7 +159,7 @@ Blaster812's "Game Grumpy" is a pretty old map from 2013. I remember this being 
 
 Despite it not being quite as big of a leap back as the other map featured this week, this map is also a throwback. Michael Jordan, having started mapping in early 2015, has not been in the spotlight for quite a while now. With a large number of maps under his belt, there is definitely some good stuff to be revived and more fun to be had here. Nippon manju was quite popular in multiplayer back in the day, it being a fairly hard map for its time (and even now) due to how dense some parts of the map feel, combined with a lot of left-right jumps. The map also includes a decent amount hyperwalks—they weren't that common of a pattern back in those days, hence why they feel a little experimental here, but they're still pretty cool. All in all, this map makes for a nice nostalgic trip, and will definitely be enjoyable to a lot of you!
 
-## <a name="osumania" id="osumania"></a>osu!mania
+## osu!mania
 
 osu!mania Loved candidates were chosen by [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [Shoegazer](https://osu.ppy.sh/users/2520707) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 

@@ -1,7 +1,5 @@
 # 2008
 
-*Halaman utama: [Sejarah osu!](/wiki/History_of_osu!).*
-
 ![](img/2008.jpg)
 
 ## Januari
@@ -14,13 +12,13 @@ peppy tidak melakukan pengembangan di Jepang pada 2007-12-17 hingga 2008-01-20. 
 
 ![](img/hard_rock.png "Hard Rock \(v1\)") ![](img/sudden_death.png "Sudden Death \(v1\)") ![](img/double_time.png "Double Time \(v1\)")
 
-Pemain menerima tantangan tambahan dalam bentuk mod ([Hard Rock](/wiki/HR), [Sudden Death](/wiki/SD), dan [Double Time](/wiki/DT)). Terjadi peningkatan Gameplay dengan ditambahkannya gambar dan suara hitung mundur (countdown), nomor kustom, dan warna kombo, peringkat bagian O/X (Berhasil/Gagal), penghitungan mundur, skrip warna latar belakang (background color scripting), kontrol volume per bagian waktu (volume control per timing section), dan mungkin yang paling penting, pengenalan dukungan skrip storyboard. Sebuah usaha dilakukan untuk memindahkan osu! ke framework XNAv2, tapi peppy menyatakan bahwa versi baru malah mengurangi kinerja keseluruhan osu! dan menjadi tidak berguna. XNA1.1 digunakan dari titik ini dan ke depannya, yang telah dibentuk sesuai dengan kebutuhan osu! Dengan ribuan baris kode dan prosedur lain yang ditulis ulang untuk membuat osu! seperti sebelumnya. Mesin render teks (text rendering engine) baru diimplementasikan, memungkinkan tampilan font yang sangat tajam pada ukuran font yang beragam. Hal ini memungkinkan osu! untuk menampilkan lebih banyak informasi mengenai editor dan membuat game terlihat jauh lebih baik secara keseluruhan.
+Pemain menerima tantangan tambahan dalam bentuk mod ([Hard Rock](/wiki/Game_modifier/Hard_Rock), [Sudden Death](/wiki/Game_modifier/Sudden_Death), dan [Double Time](/wiki/Game_modifier/Double_Time)). Terjadi peningkatan Gameplay dengan ditambahkannya gambar dan suara hitung mundur (countdown), nomor kustom, dan warna kombo, peringkat bagian O/X (Berhasil/Gagal), penghitungan mundur, skrip warna latar belakang (background color scripting), kontrol volume per bagian waktu (volume control per timing section), dan mungkin yang paling penting, pengenalan dukungan skrip storyboard. Sebuah usaha dilakukan untuk memindahkan osu! ke framework XNAv2, tapi peppy menyatakan bahwa versi baru malah mengurangi kinerja keseluruhan osu! dan menjadi tidak berguna. XNA1.1 digunakan dari titik ini dan ke depannya, yang telah dibentuk sesuai dengan kebutuhan osu! Dengan ribuan baris kode dan prosedur lain yang ditulis ulang untuk membuat osu! seperti sebelumnya. Mesin render teks (text rendering engine) baru diimplementasikan, memungkinkan tampilan font yang sangat tajam pada ukuran font yang beragam. Hal ini memungkinkan osu! untuk menampilkan lebih banyak informasi mengenai editor dan membuat game terlihat jauh lebih baik secara keseluruhan.
 
 ## Maret
 
 ![](img/relax.png "Relax \(v1\)") ![](img/half_time.png "Half Time \(v1\)")
 
-Untuk mengimbangi mod baru yang dirilis Februari, mod [Relax](/wiki/RL) dan [Half Time](/wiki/HT) tiba untuk membuat hidup lebih mudah bagi pemain baru di bulan ini. Pengguna sekarang dapat mengambil screnshot, dan mengekspor/impor tayangan ulang permainan. Animasi dapat dijadikan storyboard untuk pertama kalinya, dan layar pemilihan skin ditambahkan. Optimisasi kinerja terlihat menurun sebanyak 82% saat memuat layar pemilihan lagu (melalui format baru untuk database beatmap lokal). Berbagai cara dilakukan untuk membuat kinerja lebih baik lagi, termasuk pengenalan frame rate dan sejumlah opsi grafis lainnya. Proyek Bancho dimulai pada 2008-03-24. Tujuannya adalah untuk membuat komponen server untuk keluarga besar osu!, yang menangani komunikasi antar pengguna dan menghilangkan ketergantungan IRC Resmi.
+Untuk mengimbangi mod baru yang dirilis Februari, mod [Relax](/wiki/Game_modifier/Relax) dan [Half Time](/wiki/Game_modifier/Half_Time) tiba untuk membuat hidup lebih mudah bagi pemain baru di bulan ini. Pengguna sekarang dapat mengambil screnshot, dan mengekspor/impor tayangan ulang permainan. Animasi dapat dijadikan storyboard untuk pertama kalinya, dan layar pemilihan skin ditambahkan. Optimisasi kinerja terlihat menurun sebanyak 82% saat memuat layar pemilihan lagu (melalui format baru untuk database beatmap lokal). Berbagai cara dilakukan untuk membuat kinerja lebih baik lagi, termasuk pengenalan frame rate dan sejumlah opsi grafis lainnya. Proyek Bancho dimulai pada 2008-03-24. Tujuannya adalah untuk membuat komponen server untuk keluarga besar osu!, yang menangani komunikasi antar pengguna dan menghilangkan ketergantungan IRC Resmi.
 
 ## April
 
@@ -30,7 +28,7 @@ Bukan lelucon, Bancho sudah selesai dan siap digunakan bulan ini, dan begitu jug
 
 ![](img/taiko.png "Taiko Mod")
 
-Mode [Taiko](/wiki/Taiko) pertama kali memperlihatkan eksistensinya di bulan ini, beserta tambahan utama lainnya, dukungan skrip storyboard `.osb`. Multi-part slider dan pesan pribadi dalam obrolan juga tersedia.
+Mode [Taiko](/wiki/Game_mode/osu!taiko) pertama kali memperlihatkan eksistensinya di bulan ini, beserta tambahan utama lainnya, dukungan skrip storyboard `.osb`. Multi-part slider dan pesan pribadi dalam obrolan juga tersedia.
 
 ## Juni
 
@@ -38,7 +36,7 @@ Pencapaian utama dalam sejarah osu! dicapai dengan penambahan mode permainan [Mu
 
 ## Juli
 
-Editor, multiplayer, storyboarding, opsi grafis, dan konsol obrolan (chat console) semuanya menerima banyak peningkatan pada bulan ini. Layar opsi menerima layout baru, dan [pengaturan kunci kustom (custom key bindings)](/wiki/Keyboard_Bindings) diperkenalkan.
+Editor, multiplayer, storyboarding, opsi grafis, dan konsol obrolan (chat console) semuanya menerima banyak peningkatan pada bulan ini. Layar opsi menerima layout baru, dan [pengaturan kunci kustom (custom key bindings)](/wiki/Options/Keyboard_Bindings) diperkenalkan.
 
 ## Agustus
 
@@ -46,13 +44,13 @@ Melanjutkan tren yang ditetapkan pada bulan Juli, akan sulit sekali menemukan as
 
 Skor pribadi online terbaik (Personal online best scores) ditambahkan ke menu pemilihan lagu, permintaan jangka panjang yang akhirnya terpenuhi. Proses ini membutuhkan beberapa pengoptimalan database yang cukup besar. Perbaikan grafis dilakukan untuk layar peringkat, dan berbagai elemen skin bawaan, dengan tujuan untuk membuat skin lebih bersih, jernih, dan rapih dari sebelumnya. Tampilan slider tick sprite (10/30) diimplementasikan. Perombakan terlihat dalam pengaturan pertandingan multiplayer, yang memungkinkan kontrol host (pembuat ruang) dapat ditransfer kepadap pemain lain. Banyak perintah obrolan baru ditambahkan demi kenyamanan pengguna.
 
-Status peringkat baru "![](img/fire.gif) [approved](/wiki/approved)" ditambahkan untuk map yang memiliki kualitas tinggi tetapi melebihi panjang maksimum lagu atau tingkat kesulitan (atau lainnya) dalam beberapa cara. Map yang memiliki status ini tidak menambah skor pemain, tetapi tetap memiliki papan peringkat (scoreboard) dan bertindak sama seperti map yang berstatus ![](img/heart.gif) [ranked](/ranked).
+Status peringkat baru "![](img/fire.gif) [approved](/wiki/Beatmap/Category#Approved)" ditambahkan untuk map yang memiliki kualitas tinggi tetapi melebihi panjang maksimum lagu atau tingkat kesulitan (atau lainnya) dalam beberapa cara. Map yang memiliki status ini tidak menambah skor pemain, tetapi tetap memiliki papan peringkat (scoreboard) dan bertindak sama seperti map yang berstatus ![](img/heart.gif) [ranked](/wiki/Beatmap/Category#Ranked).
 
 ## September
 
 ![](img/flashlight.png "Flashlight \(v1\)") ![](img/spun_out.png "Spun Out \(v1\)") ![](img/auto.png "Auto \(v1\)")
 
-Banyak mod baru yang diluncurkan di bulan ini. [Flashlight](/wiki/FL), [Spun Out](/wiki/SO), dan [Auto](/wiki/AT). Skrip Auto merupakan pemain AI yang menyelesaikan (hampir) semua beatmap dengan akurasi sempurna, dan juga dapat diakses melalui mode tes editor. Batas-batas perancangan beatmap didorong lebih jauh dengan penambahan elemen yang lebih mudah diwarnai (termasuk gambar combo burst), sampel suara bertepuk (clap), kemampuan untuk menetapkan sampel suara ke endpoint slider tiap individu (individual slider endpoints) dan pewarisan bagian waktu (inherited timing sections). Menu pemilihan lagu juga menerima perombakan.
+Banyak mod baru yang diluncurkan di bulan ini. [Flashlight](/wiki/Game_modifier/Flashlight), [Spun Out](/wiki/Game_modifier/Spun_Out), dan [Auto](/wiki/Game_modifier/Auto). Skrip Auto merupakan pemain AI yang menyelesaikan (hampir) semua beatmap dengan akurasi sempurna, dan juga dapat diakses melalui mode tes editor. Batas-batas perancangan beatmap didorong lebih jauh dengan penambahan elemen yang lebih mudah diwarnai (termasuk gambar combo burst), sampel suara bertepuk (clap), kemampuan untuk menetapkan sampel suara ke endpoint slider tiap individu (individual slider endpoints) dan pewarisan bagian waktu (inherited timing sections). Menu pemilihan lagu juga menerima perombakan.
 
 ## Oktober
 
@@ -62,7 +60,7 @@ Kemajuan pertama tercatat dengan pengimplementasian OpenGL dan debut mode permai
 
 ![](img/fruit_ryuuta.png "Catcher mode Catch the Beat")
 
-Bulan November, kita dapat melihat pengenalan mode permainan baru, [Catch the Beat](/wiki/Catch_the_Beat). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
+Bulan November, kita dapat melihat pengenalan mode permainan baru, [Catch the Beat](/wiki/Game_mode/osu!catch). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
 
 Karena pemain yang memiliki beatmap dalam jumlah besar selalu mengeluhkan tentang waktu muat osu!, peppy menghabiskan hari-harinya untuk mengoptimalkan apa pun yang dapat ia optimalkan, hasilnya peningkatkan kinerja yang hampir tak terukir dalam skala (let's just say somewhere over 9,000). Waktu muat lebih dari satu menit telah dioptimalkan menjadi hanya sekian milidetik.
 
@@ -72,7 +70,7 @@ Bulan terakhir di tahun 2008, banyak pengembangan terjadi di osu!. Pada Natal ke
 
 Pratinjau thumbanail dan audio ditambahkan ke daftar beatmap online, membuat penelurusan beatmap yang ingin Anda mainkan jauh lebih mudah.
 
-Peristiwa lain yang patut diperhatikan adalah skor Catch the Beat [dihapuskan](https://osu.ppy.sh/forum/viewtopic.php?f=9&t=7996) selama bulan ini. Sejak itu, jumlah pengali dari mod (score multiplier) telah diubah dalam mode Catch the Beat juga.
+Peristiwa lain yang patut diperhatikan adalah skor Catch the Beat [dihapuskan](https://osu.ppy.sh/community/forums/topics/7996) selama bulan ini. Sejak itu, jumlah pengali dari mod (score multiplier) telah diubah dalam mode Catch the Beat juga.
 
 ## Pesan untuk Masa Depan
 

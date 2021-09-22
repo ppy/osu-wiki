@@ -34,16 +34,16 @@ Aturannya adalah `{Nama_Tab}-{TTTTBBHH}-{JJMMSS}` dalam format .txt, yang pada d
 
 Muncul selepas anda menggunakan perkhidmatan "osu!direct". **Menyimpan file .osz yang anda sedang muat-turun dari osu!direct**, kemudian dihantar ke folder Song sebagai beatmaps sah setelah selesai.
 
-### Lokalisasi
+### Localisation
 
 Muncul ketika anda telah beralih bahasa anda di bawah Graphics pada halaman Options. **Menyimpan fail teks terjemahan yang dapat digunakan masing-masing untuk menggantikan teks Bahasa Inggeris yang biasa berdasarkan lokalisasi yang dipilih.**
 
 ### Replay
 
-Gelar **external executable osu! file replay (.osr)**. Tidak bekerja ketika Beatmap terkait dengan file replay hilang. Menyimpan hasil data dan mengulangkan pergerakan kursor anda semasa replay. Untuk membuat .osr, tekan "**[F2]**" layar hasil (Results screen) atau klik pada "Save as .osr" di online layar Ranking (di bawah Hasil layar di Solo saja). Tidak menyimpan elemen multi-play. Ukuran file berkisar antara 100KB ~ 1KB. [Untuk pemain yang tertarik untuk memuat-naik fail replay mereka ke Youtube, lihat thread ini](https://osu.ppy.sh/community/forums/topics/108092).
+Gelar **external executable osu! file replay (.osr)**. Tidak bekerja ketika Beatmap terkait dengan file replay hilang. Menyimpan hasil data dan mengulangkan pergerakan kursor anda semasa replay. Untuk membuat .osr, tekan "**\[F2\]**" layar hasil (Results screen) atau klik pada "Save as .osr" di online layar Ranking (di bawah Hasil layar di Solo saja). Tidak menyimpan elemen multi-play. Ukuran file berkisar antara 100KB ~ 1KB. [Untuk pemain yang tertarik untuk memuat-naik fail replay mereka ke Youtube, lihat thread ini](https://osu.ppy.sh/community/forums/topics/108092).
 
 Formatnya adalah `{Nama pemain tempatan} - {Penyanyi} - {Tajuk} {[Kesukaran]}{(TTTT-BB-HH)} {Mode Mainan}`
-**Contoh:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
+**Contoh:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania
 
 ### Screenshots
 
@@ -74,23 +74,23 @@ File .dll adalah komponen dari osu!.exe.
 
 **Komponen Dasar** (Untuk Microsoft .NET)
 
--   avcodec-51.dll
--   avformat-52.dll
--   avutil-49.dll
--   bass.dll
--   bass_fx.dll
--   d3dx9_31.dll
--   Microsoft.Ink.dll
--   Microsoft.Xna.Framework.dll
--   pthreadGC2.dll
--   x3daudio1_1.dll
+- avcodec-51.dll
+- avformat-52.dll
+- avutil-49.dll
+- bass.dll
+- bass_fx.dll
+- d3dx9_31.dll
+- Microsoft.Ink.dll
+- Microsoft.Xna.Framework.dll
+- pthreadGC2.dll
+- x3daudio1_1.dll
 
 **Komponen osu!**
 
--   ~~osu!framework.dll~~
--   osu!gameplay.dll
--   osu!ui.dll
--   osu.dll
+- ~~osu!framework.dll~~
+- osu!gameplay.dll
+- osu!ui.dll
+- osu.dll
 
 ### .db (Database file)
 
@@ -98,27 +98,27 @@ File .db adalah data beatmaps. Hanya osu!.exe/osu!test.exe dapat memanfaatkan. N
 
 **osu! database**
 
--   collection.db ("Collections" (Koleksi) anda dalam game. Anda dapat memposting ke forum bagi orang lain untuk memeriksa "Collections" anda. Beatmaps Sebenarnya tidak tersedia.)
--   osu!.db (osu! beatmaps' cache.)
--   presence.db (Cache pemain osu! @ Chat Console)
--   scores.db (Menyimpan skor tempatan bersejarah)
+- collection.db ("Collections" (Koleksi) anda dalam game. Anda dapat memposting ke forum bagi orang lain untuk memeriksa "Collections" anda. Beatmaps Sebenarnya tidak tersedia.)
+- osu!.db (osu! beatmaps' cache.)
+- presence.db (Cache pemain osu! @ Chat Console)
+- scores.db (Menyimpan skor tempatan bersejarah)
 
 **osu!test database**
 
--   osu!test.db
--   osu!test_collection.db
--   osu!test_presence.db
+- osu!test.db
+- osu!test_collection.db
+- osu!test_presence.db
 
 ### .cfg (File Konfigurasi)
 
 Konfigurasi file atau file konfigurasi mengkonfigurasi pengaturan awal untuk osu! untuk bekerja. File-file dapat dibuka dengan Notepad.
 
--   osu!.cfg (Pemikiran osu!)
--   osu!.{Nama PC anda}.cfg ("Skrin [Options](/wiki/Options)". Juga mengandungi variabel yang menarik dan informasi sensitif)
-    -   {Nama PC anda}: Nama Akaun PC Anda. Katakanlah, jika anda menetapkan nama admin/user account anda sebagai "HelloWorld", file .cfg akan diberi nama, osu!.HelloWorld.cfg .
+- osu!.cfg (Pemikiran osu!)
+- osu!.{Nama PC anda}.cfg ("Skrin [Options](/wiki/Options)". Juga mengandungi variabel yang menarik dan informasi sensitif)
+  - {Nama PC anda}: Nama Akaun PC Anda. Katakanlah, jika anda menetapkan nama admin/user account anda sebagai "HelloWorld", file .cfg akan diberi nama, osu!.HelloWorld.cfg .
 
 ### .exe (Aplikasi)
 
 Komponen utama. Klik di atasnya untuk start-up. Fail .exe adalah selama untuk dibuka jika anda menggunakan osu! Installer untuk menginstal osu!.
 
--   osu!.exe (Buka osu!)
+- osu!.exe (Buka osu!)

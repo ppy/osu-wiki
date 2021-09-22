@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 8936d6101fc0868c7d2479382eb6a7137bdde90b
+---
+
 # macOS
 
 이 페이지에서는 macOS 환경에서 osu!를 설치하는 방법에 대해 설명할 것입니다.

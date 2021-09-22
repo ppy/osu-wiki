@@ -1,8 +1,8 @@
----
-outdated: true
----
-
 # Kişiler
 
+Kişiler ve gruplar hakkındaki makalelerin ana sayfası.
+
 - [Ekip](The_Team)
-- [Topluluk İştirakçıları](Community_Contributors)
+- [Eşsiz ünvanlara sahip kullanıcılar](Users_with_unique_titles)
+- [peppy](peppy)
+- [Topluluk İştirakçileri](Community_Contributors)
