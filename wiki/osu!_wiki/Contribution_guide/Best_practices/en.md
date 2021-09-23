@@ -80,4 +80,4 @@ Depending on the severity of the conflicts, you may have two options to fix this
    4. Repeat the process for all conflicts.
    5. When completed, click `Mark as resolved` (this is only available when all conflicting parts of the file are resolved).
 2. If the `Resolve conflicts` button is blocked due to the conflicts being too complicated for GitHub, you are out of luck and will need to [update your branch](#syncing-the-fork) and make your changes again.
-   - *Note: This is only true if you are limited to using the GitHub web interface.* There are still ways to fix it, but they don't belong to the scope of this article. Moreover, it is probably not be worth the effort to do so, because you will overwrite and revert the conflicting changes.
+   - *Note: This is only true if you are limited to using the GitHub web interface.* There are still ways to fix it, but they don't belong to the scope of this article. Moreover, it is probably not worth the effort to do so, because you will overwrite and revert the conflicting changes.

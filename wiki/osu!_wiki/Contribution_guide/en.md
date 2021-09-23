@@ -27,7 +27,7 @@ The osu! wiki articles are stored on [GitHub][osu_wiki]. To contribute, do the f
 When you are done editing, take some time to proofread your work. Go through the following quick checklist:
 
 - **Tone of delivery**: the osu! wiki articles, with rare exceptions, must be written using the neutral register.
-- **Style and grammar**: the articles should be clear, understandable, and require no significant mental effort from the reader. Be consistent and avoid overcomplicated or abrupt sentences. Use editors with built-in spellcheckers, such as [Google Docs](https://docs.google.com), to expose typos and grammatical or syntax errors.
+- **Style and grammar**: the articles should be clear, understandable, and require no significant mental effort from the reader. Be consistent and avoid overcomplicated or abrupt sentences. Use editors with built-in spell checkers, such as [Google Docs](https://docs.google.com), to expose typos and grammatical or syntax errors.
 - **[Content parity](/wiki/Article_styling_criteria/Formatting#content-parity)**: translations must contain the same information as the original articles (differences in punctuation, wording, or formatting are obviously expected). Instead of changing the contents of the translation, [open an issue](https://github.com/ppy/osu-wiki/issues/new) or an extra pull request for the original if you feel it is incomplete, inaccurate, or outdated.
 - **Structure and formatting**: preview your article with a tool such as [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) to make sure it looks exactly how you wanted it to be.<!-- TODO(TicClick): we really need an article on markup features specific to the osu! wiki-->
 - **All images and other non-text files** must be [under 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Screenshots** need to use the default osu! skin and [specific settings](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), including the maximum dimensions of 1280×720.
@@ -44,7 +44,7 @@ After the changes are double-checked, committed, and pushed to your fork, you ne
 
 ## Review
 
-All changes to the osu! wiki are moderated. During that stage, other collaborators point out possible mistakes and ways to fix them, either in free form, or by suggesting direct edits to the pull request. Just like with any other peer review, you need to address the comments by applying the suggestions, or by explaining why you'd rather keep the things your way.
+All changes to the osu! wiki are moderated. During that stage, other collaborators point out possible mistakes and ways to fix them, either in free form, or by suggesting direct edits to the pull request. Just like with any other peer review, you need to address the comments by applying the suggestions, or by explaining why you'd rather keep things your way.
 
 If no one has checked in after a couple of days, try the following:
 
