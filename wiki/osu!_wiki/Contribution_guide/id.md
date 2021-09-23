@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # Panduan kontribusi osu! wiki
 
 Terima kasih atas minatnya untuk membuat osu! wiki tempat yang lebih baik! Panduan ini ditujukan untuk pendatang baru yang belum pernah bekerja dengan GitHub dan belum mengenal alur kerja kontribusi osu! wiki sebelumnya. Jika kamu sudah memiliki pengalaman menggunakan GitHub, kamu bisa melewati panduan ini dan langsung mengikuti alur kerja *feature-branch* untuk pembaruan konten di repositori ini.

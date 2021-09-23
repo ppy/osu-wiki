@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # osu! wiki katkı rehberi
 
 osu! wiki'yi daha iyi hale getirmek için gösterdiğiniz ilgiye teşekkür ederiz! Bu hızlı başlangıç kılavuzu GitHub ortamında hiç çalışmamış, osu! wiki'nin katkı iş akışına alışkın olmayan yeni başlayanlar için hazırlanmıştır. Eğer GitHub kullanmakta deneyimliyseniz, bu veri havuzundaki içerik güncellemeleri için ortak feature-branch iş akışını takip edebilir ve bu rehberi atlayabilirsiniz.

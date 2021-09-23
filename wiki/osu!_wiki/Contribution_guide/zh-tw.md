@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # osu! wiki 貢獻指南
 
 感謝你有興趣讓 osu!wiki 變得更好！這篇快速指南是為那些沒有用過 Github 或貢獻過 osu!wiki 的人而寫的。如果你已經有使用 Github 的經驗，可以跳過這篇指南並遵循常見的特性分支工作流程來為 osu!wiki 添加新內容。

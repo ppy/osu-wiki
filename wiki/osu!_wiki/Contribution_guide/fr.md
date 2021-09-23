@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # Guide de contribution au osu! wiki
 
 Merci de votre intérêt pour aider à rendre le wiki osu! meilleur ! Ce guide de démarrage rapide est destiné aux nouveaux arrivants qui n'ont jamais travaillé avec GitHub et les workflow de contribution du wiki d'osu! avant. Si vous avez déjà utilisé GitHub, n'hésitez pas à ignorer ce guide et à suivre le flux de travaux commun aux branches de fonctionnalités pour les mises à jour de contenu dans ce référentiel.
