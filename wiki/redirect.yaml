@@ -792,8 +792,9 @@
 
 "osu!wiki_contribution_guide":                      "osu!_wiki/Contribution_guide"
 "owcg":                                             "osu!_wiki/Contribution_guide"
-"osu!wiki_contribution_guide/common_issues":        "osu!_wiki/Contribution_guide/Common_Issues"
-"owcg/common_issues":                               "osu!_wiki/Contribution_guide/Common_Issues"
+"osu!_wiki/Contribution_guide/Common_Issues":       "osu!_wiki/Contribution_guide/Best_practices"
+"osu!wiki_contribution_guide/common_issues":        "osu!_wiki/Contribution_guide/Best_practices"
+"owcg/common_issues":                               "osu!_wiki/Contribution_guide/Best_practices"
 "osu!wiki_contribution_guide/github_web_interface": "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
 "owcg/github_web_interface":                        "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
 "osu!wiki_contribution_guide/github_desktop":       "osu!_wiki/Contribution_guide/GitHub_Desktop"
@@ -801,7 +802,7 @@
 
 # moved in #6138
 "osu!_wiki_Contribution_Guide":                       "osu!_wiki/Contribution_guide"
-"osu!_wiki_Contribution_Guide/Common_Issues":         "osu!_wiki/Contribution_guide/Common_Issues"
+"osu!_wiki_Contribution_Guide/Common_Issues":         "osu!_wiki/Contribution_guide/Best_practices"
 "osu!_wiki_Contribution_Guide/GitHub_Desktop":        "osu!_wiki/Contribution_guide/GitHub_Desktop"
 "osu!_wiki_Contribution_Guide/GitHub_Web_Interface":  "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
 
