@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2021 banner](/wiki/shared/news/2021-09-16-osu-world-cup-2021-registrations-now-open/owc-2021-banner.jpg)
 
-The **osu! World Cup 2021** (***OWC 2021***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the twelfth instalment of the osu! World Cup.
+La **osu! World Cup 2021** (***OWC 2021***) est un tournoi osu! basé sur les pays animé par la [team osu!](/wiki/People/The_Team). C'est le douzième (partie?) de la osu! World Cup.
 
 ## Tournament schedule
 
