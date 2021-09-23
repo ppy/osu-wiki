@@ -12,7 +12,7 @@ Pour passer d'un mode à l'autre, cliquez sur le bouton `Mode` en bas de l'écra
 - `Ctrl` + `1` pour osu!
 - `Ctrl` + `2` pour osu!taiko
 - `Ctrl` + `3` pour osu!catch
-- `Ctrl` + `4` for osu!mania
+- `Ctrl` + `4` pour osu!mania
 
 ![Interface de sélection du mode](/wiki/shared/Interface_mode.png "Interface de sélection du mode")
 
@@ -20,7 +20,7 @@ Pour passer d'un mode à l'autre, cliquez sur le bouton `Mode` en bas de l'écra
 
 *Page principale : [osu!](osu!)*
 
-*osu!* est le mode par défaut, dans lequel les joueurs doivent cliquer sur des cercles, tenir des sliders et faire tourner des spinners en suivant le rythme de la musique. Il est basé sur le jeu de rythme original [iNiS](https://fr.wikipedia.org/wiki/INiS) *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan)*. osu! a sa propre mascotte appelée [pippi](/wiki/Mascots#-pippi), une fille aux cheveux roses et noirs.
+*osu!* est le mode par défaut, dans lequel les joueurs doivent cliquer sur des cercles, tenir des sliders et faire tourner des spinners en suivant le rythme de la musique. Il est basé sur le jeu de rythme original *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan)* par [iNiS](https://fr.wikipedia.org/wiki/INiS). osu! a sa propre mascotte appelée [pippi](/wiki/Mascots#-pippi), une fille aux cheveux roses et noirs.
 
 ![Gameplay d'osu!](/wiki/shared/osu-gameplay.jpg "Gameplay d'osu!")
 
