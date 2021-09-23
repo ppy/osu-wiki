@@ -1,14 +1,14 @@
 # Catégories des beatmaps
 
-Les [beatmaps](/wiki/Beatmap) soumises en ligne sont réparties en catégories en fonction de leurs activités récentes, de leurs [nomination](/wiki/Beatmap_ranking_procedure#qualification) et de leurs popularités.
+Les [beatmaps](/wiki/Beatmap) soumises en ligne sont réparties en catégories en fonction de leurs activités récentes, de leurs [nominations](/wiki/Beatmap_ranking_procedure#qualification) et de leur popularité.
 
 ## Catégories actuelles
 
 ### Cimetière
 
-Le cimetière est un endroit où résident les beatmaps abandonnées par leurs [hôtes](/wiki/Beatmap/Beatmap_host). Ces maps n'ont pas de classement, mais elles peuvent toujours être téléchargées et jouées, et elles continuent à [contribuer aux statistiques de jeu](#statistiques-des-beatmaps-non-classées). Ils utilisent l'icône de point d'interrogation (![](/wiki/shared/status/graveyard.png)) dans l'[écran de sélection des beatmaps](/wiki/Interface#song-selection-screen).
+Le cimetière est un endroit où résident les beatmaps abandonnées par leurs [hôtes](/wiki/Beatmap/Beatmap_host). Ces beatmaps n'ont pas de classement, mais elles peuvent toujours être téléchargées et jouées, et elles continuent à [contribuer aux statistiques de jeu](#statistiques-des-beatmaps-non-classées). Elles utilisent l'icône de point d'interrogation (![](/wiki/shared/status/graveyard.png)) dans l'[écran de sélection des beatmaps](/wiki/Interface#song-selection-screen).
 
-Une beatmap est automatiquement déplacé au cimetière depuis [Work In Progress et En attente](#work-in-progress-et-en-attente) lorsqu'il n'a pas été mis à jour depuis 4 semaines. L'auteur peut faire revivre la beatmap (c'est-à-dire le ramener à [en attente](#work-in-progress-et-en-attente)) en la mettant à jour via le [système de soumission des beatmaps](/wiki/Submission). Une beatmap au cimetière ne compte pas dans la [limite totale de téléchargement](/wiki/Help_Centre/Beatmapping#je-suis-un-osu!supporter-mais-je-n'ai-pas-10-emplacements-en-attente-!) d'un mappeur, mais la faire revivre nécessite un slot libre.
+Une beatmap est automatiquement déplacée au cimetière depuis les catégories [Work In Progress et En attente](#work-in-progress-et-en-attente) lorsqu'elle n'a pas été mise à jour depuis 4 semaines. L'auteur peut faire revivre la beatmap (c'est-à-dire la ramener dans la catégorie [en attente](#work-in-progress-et-en-attente)) en la mettant à jour via le [système de soumission des beatmaps](/wiki/Submission). Une beatmap au cimetière ne compte pas dans la [limite totale de publications](/wiki/Help_Centre/Beatmapping#je-suis-un-osu!supporter-mais-je-n'ai-pas-10-emplacements-en-attente-!) d'un mappeur, mais la faire revivre nécessite un emplacement libre.
 
 ### Work In Progress et En attente
 
