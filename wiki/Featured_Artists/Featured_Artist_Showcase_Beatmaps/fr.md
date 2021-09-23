@@ -349,11 +349,11 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
 - **[yukitani](https://osu.ppy.sh/home/news/2021-05-22-new-featured-artist-yukitani)** (22/05/2021)
   - (![][osu!taiko]) [yukitani - Amusing Reflection Rag.](https://osu.ppy.sh/beatmapsets/1436446) organisé par ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011)
 - **[technoplanet](https://osu.ppy.sh/home/news/2021-08-25-new-featured-artist-technoplanet)** (25/08/2021)
-  - (![][osu!]) [technoplanet feat. chamo - Tepic Tepoch](https://osu.ppy.sh/beatmapsets/1551369) hosted by ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311)
+  - (![][osu!]) [technoplanet feat. chamo - Tepic Tepoch](https://osu.ppy.sh/beatmapsets/1551369) organisé par ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311)
   - (![][osu!taiko]) [technoplanet - Megastructure \[Extended Mix\]](https://osu.ppy.sh/beatmapsets/1499443) hosted by ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484)
- - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)     
+ - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) organisé par ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)     
 - **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (28/08/2021)
-  - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) hosted by ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
+  - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) organisé par ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
 ## Histoire
 
