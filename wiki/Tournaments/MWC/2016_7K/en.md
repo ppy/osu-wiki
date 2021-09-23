@@ -52,8 +52,8 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/615787)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Group Stage statistics here!](https://docs.google.com/spreadsheets/d/1rUBWY0m7faZ9dFNkaVhXxJ9bpqAjHUZR8xRmHFxjoEs/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Group Stage statistics here!](https://docs.google.com/spreadsheets/d/1rUBWY0m7faZ9dFNkaVhXxJ9bpqAjHUZR8xRmHFxjoEs/pubhtml)**
 
 ## Participants
 
@@ -101,7 +101,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here!](https://www.mediafire.com/download/9179zq7bew4tj72/MWC_7K_2016_Finals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/9179zq7bew4tj72/MWC_7K_2016_Finals.rar)**
 
 - FreeMod
   - [Betwixt & Between - 12 little fragments of silence (Fullerene-) \[............\]](https://osu.ppy.sh/beatmapsets/206097#mania/486159)
@@ -127,7 +127,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/xr20mjchibn373n/MWC_7K_2016_Semifinals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/xr20mjchibn373n/MWC_7K_2016_Semifinals.rar)**
 
 - FreeMod
   - [sun3 - ApolloN (bbu2) \[7K Extreme\]](https://osu.ppy.sh/beatmapsets/290702#mania/654831)
@@ -151,7 +151,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/kn50d6pa5akm9xs/MWC_7K_2016_Quarterfinals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/kn50d6pa5akm9xs/MWC_7K_2016_Quarterfinals.rar)**
 
 - FreeMod
   - [xi - Valhalla (Remillion Cross) \[Usagi's White Another\]](https://osu.ppy.sh/beatmapsets/257079#mania/593403)
@@ -173,7 +173,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here!](https://www.mediafire.com/download/042busdr49rxz51/MWC_7K_2016_Round_of_16.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/042busdr49rxz51/MWC_7K_2016_Round_of_16.rar)**
 
 - FreeMod
   - [M2U - Quo Vadis (JamesHappy15) \[lZenxl's 7K SHD\]](https://osu.ppy.sh/beatmapsets/227037#mania/908806)
@@ -195,7 +195,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
 
 ### Group stage
 
-**[Download the mappack here!](https://www.mediafire.com/download/841w26d8ik487uc/MWC_7K_2016_Group_Stage.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/841w26d8ik487uc/MWC_7K_2016_Group_Stage.rar)**
 
 - FreeMod
   - [Vospi - Reverence (Nivrad00) \[Insane\]](https://osu.ppy.sh/beatmapsets/203929#mania/481701)

@@ -121,7 +121,7 @@ Le **Mapping With Rewards** est un concours de mapping dans lequel les mappeurs 
 
 #### A Labour of Love
 
-**A Labour of Love** est un concours par équipe couvrant plusieurs disciplines artistiques dans lequel les équipes participantes sont chargées de remixer/réarranger une musique largement connue au sein de la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard/une vidéo d'arrière-plan originale comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://twitter.com/ppy/status/1333362145224843264 "Twitter"), le concours s'inspire de [l'événement BMS OF FIGHTERS](https://www.bmsoffighters.net/ "BMS OF FIGHTERS") et d'autres concours similaires.
+**A Labour of Love** est un concours par équipe couvrant plusieurs disciplines artistiques dans lequel les équipes participantes sont chargées de remixer/réarranger une musique largement connue au sein de la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard/une vidéo d'arrière-plan originale comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://twitter.com/ppy/status/1333362145224843264), le concours s'inspire de [l'événement BMS OF FIGHTERS](https://www.bmsoffighters.net/) et d'autres concours similaires.
 
 | Numéro du concours | Musique remixée | ![Couronne en or][GCrown] (Vainqueur général) | ![Couronne d'argent][SCrown] (Deuxième place générale) | Gagnant du vote communautaire | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -190,7 +190,7 @@ Le *osu! Beatmap Blueprints Contest* est un concours unique organisé pour comm�
 
 #### osu!idol
 
-L'**osu!idol** est un concours de chant dans lequel les participants de toute la communauté s'affrontent pour créer la meilleure reprise de musique (en solo ou avec un partenaire) à travers plusieurs étapes de jugement et de vote communautaire. Le concours porte le nom de la franchise [Idols](https://fr.wikipedia.org/wiki/Idol_(franchise) "Wikipédia") et s'inspire principalement de divers concours de chant télévisés.
+L'**osu!idol** est un concours de chant dans lequel les participants de toute la communauté s'affrontent pour créer la meilleure reprise de musique (en solo ou avec un partenaire) à travers plusieurs étapes de jugement et de vote communautaire. Le concours porte le nom de la franchise [Idols](https://fr.wikipedia.org/wiki/Idol_(franchise)) et s'inspire principalement de divers concours de chant télévisés.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Musique gagnante | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |

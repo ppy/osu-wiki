@@ -790,14 +790,20 @@
 
 "tourney":                     "osu!tourney"
 
-"osu!wiki_contribution_guide":                      "osu!_wiki_Contribution_Guide"
-"owcg":                                             "osu!_wiki_Contribution_Guide"
-"osu!wiki_contribution_guide/common_issues":        "osu!_wiki_Contribution_Guide/Common_Issues"
-"owcg/common_issues":                               "osu!_wiki_Contribution_Guide/Common_Issues"
-"osu!wiki_contribution_guide/github_web_interface": "osu!_wiki_Contribution_Guide/GitHub_Web_Interface"
-"owcg/github_web_interface":                        "osu!_wiki_Contribution_Guide/GitHub_Web_Interface"
-"osu!wiki_contribution_guide/github_desktop":       "osu!_wiki_Contribution_Guide/GitHub_Desktop"
-"owcg/github_desktop":                              "osu!_wiki_Contribution_Guide/GitHub_Desktop"
+"osu!wiki_contribution_guide":                      "osu!_wiki/Contribution_guide"
+"owcg":                                             "osu!_wiki/Contribution_guide"
+"osu!wiki_contribution_guide/common_issues":        "osu!_wiki/Contribution_guide/Common_Issues"
+"owcg/common_issues":                               "osu!_wiki/Contribution_guide/Common_Issues"
+"osu!wiki_contribution_guide/github_web_interface": "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
+"owcg/github_web_interface":                        "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
+"osu!wiki_contribution_guide/github_desktop":       "osu!_wiki/Contribution_guide/GitHub_Desktop"
+"owcg/github_desktop":                              "osu!_wiki/Contribution_guide/GitHub_Desktop"
+
+# moved in #6138
+"osu!_wiki_Contribution_Guide":                       "osu!_wiki/Contribution_guide"
+"osu!_wiki_Contribution_Guide/Common_Issues":         "osu!_wiki/Contribution_guide/Common_Issues"
+"osu!_wiki_Contribution_Guide/GitHub_Desktop":        "osu!_wiki/Contribution_guide/GitHub_Desktop"
+"osu!_wiki_Contribution_Guide/GitHub_Web_Interface":  "osu!_wiki/Contribution_guide/GitHub_Web_Interface"
 
 "people/beatmap_nominator":              "People/The_Team/Beatmap_Nominators"
 "people/beatmap_nomination_group":       "People/The_Team/Beatmap_Nominators"
@@ -1688,5 +1694,8 @@
 # Moved "Live_Streaming_osu!" to "Livestreaming_osu!"
 "guides/live_streaming_osu!": "Guides/Livestreaming_osu!"
 
+
 # Moved "Beatmap_Packs_0916" to "Legacy_Beatmap_Packs"
 "medals/beatmap_packs_0916": "Medals/Legacy_Beatmap_Packs"
+# Moved "osu!tourney/Prizes" to "Tournaments/Official_support"
+"osu!tourney/prizes": "Tournaments/Official_support"

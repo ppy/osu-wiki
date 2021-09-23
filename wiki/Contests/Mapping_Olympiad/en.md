@@ -56,7 +56,7 @@ Achieving a certain amount of points can grant the contestant unique prizes:
 
 ## Points
 
-A more detailed leaderboard is available on [Google Sheets](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing "Google Spreadsheet").
+A more detailed leaderboard is available on [Google Sheets](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing).
 
 | User(s) | Points |
 | :-- | :-- |

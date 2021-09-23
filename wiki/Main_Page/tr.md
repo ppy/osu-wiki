@@ -84,7 +84,7 @@ Organizasyonlar: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Wiki hakkında
 
-[Site haritası](/wiki/Sitemap) • [Katkı rehberi](/wiki/osu!_wiki_Contribution_Guide) • [Makale biçimlendirme kriterleri](/wiki/Article_Styling_Criteria) • [Haber gönderisi biçimlendirme kriterleri](/wiki/News_Styling_Criteria)
+[Site haritası](/wiki/Sitemap) • [Katkı rehberi](/wiki/osu!_wiki/Contribution_guide) • [Makale biçimlendirme kriterleri](/wiki/Article_Styling_Criteria) • [Haber gönderisi biçimlendirme kriterleri](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

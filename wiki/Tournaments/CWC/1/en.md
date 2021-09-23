@@ -5,7 +5,7 @@ tags:
 
 # Catch the Beat World Cup
 
-The **Catch the Beat World Cup** (***CWC***) was a single elimination team-based osu!catch tournament organized by various osu! community members. Despite not being hosted by (or being run under the direct provision of) the [osu!team](/wiki/People/The_Team), it was formally considered as the first instalment of the osu!catch World Cup tournament series.
+The **Catch the Beat World Cup** (***CWC***) was a single elimination team-based osu!catch tournament organized by various osu! community members. Despite not being hosted by (or being run under the direct provision of) the [osu! team](/wiki/People/The_Team), it was formally considered as the first instalment of the osu!catch World Cup tournament series.
 
 ## Tournament schedule
 
@@ -43,7 +43,7 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/63296)
-- [Livestream link](https://de.justin.tv/inoodle "Justin.tv")
+- [Livestream link](https://de.justin.tv/inoodle)
 
 ## Participants
 
@@ -96,12 +96,12 @@ This competition has come to an end and resulted in the following podium:
 - NoMod (*to be played in order*)
   - [SUPER STAR -MITSURU- - THANK YOU FOR PLAYING (ZHSteven) \[CWC competition\]](https://osu.ppy.sh/beatmapsets/42694#fruits/275691)
   - [S.S.H. - Intersect Thunderbolt (Deif) \[Thunderbolt\]](https://osu.ppy.sh/beatmapsets/43027#fruits/135142)
-  - [PRASTIK DANCEFLOOR - Session 9 -Chronicles- (Kuzino) \[2Q\]](https://puu.sh/ccsl "puush")
+  - [PRASTIK DANCEFLOOR - Session 9 -Chronicles- (Kuzino) \[2Q\]](https://puu.sh/ccsl)
   - [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB pro competition\]](https://osu.ppy.sh/beatmapsets/31297#fruits/102923)
-  - [NicoNico Chorus - World's End Dancehall (CLSW) \[CLSPEC Adieu Special\]](https://puu.sh/eykZ "puush")
-  - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](https://puu.sh/1g0e "puush")
-  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Extra CtB Stage\]](https://puu.sh/HiC "puush")
-  - [Yousei Teikoku - Kokou no Sousei (Verdisphaena) \[Verdi's TAG2\]](https://puu.sh/f6oX "puush")
+  - [NicoNico Chorus - World's End Dancehall (CLSW) \[CLSPEC Adieu Special\]](https://puu.sh/eykZ)
+  - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](https://puu.sh/1g0e)
+  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Extra CtB Stage\]](https://puu.sh/HiC)
+  - [Yousei Teikoku - Kokou no Sousei (Verdisphaena) \[Verdi's TAG2\]](https://puu.sh/f6oX)
 - Tiebreaker  
   - **[Ryu\* - I'm so Happy (\[JPSNS\]Shana) \[Shana's Madness CTB\]](https://osu.ppy.sh/beatmapsets/30006#fruits/99319)**
 

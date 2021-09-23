@@ -83,7 +83,7 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 # เกี่ยวกับวิกิ
 
-[แผนผังเว็บไซต์](/wiki/Sitemap) • [คู่มือการมีส่วนร่วม](/wiki/osu!_wiki_Contribution_Guide) • [เกณฑ์การจัดรูปแบบบทความ](/wiki/Article_Styling_Criteria) • [เกณฑ์การจัดรูปแบบข่าว](/wiki/News_Styling_Criteria)
+[แผนผังเว็บไซต์](/wiki/Sitemap) • [คู่มือการมีส่วนร่วม](/wiki/osu!_wiki/Contribution_guide) • [เกณฑ์การจัดรูปแบบบทความ](/wiki/Article_Styling_Criteria) • [เกณฑ์การจัดรูปแบบข่าว](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

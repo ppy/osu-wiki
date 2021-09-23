@@ -324,7 +324,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Septembre
 
-- **10/09/2017 :** Le "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" a été mis en place. Il s'agissait d'une série de changements en réponse au mécontentement de la communauté de mapping sous la direction de l'[osu!team](/wiki/People/The_Team). Suite à ce changement, les QAT ont commencés à s'autogérer sans l'intervention de leurs supérieurs.
+- **10/09/2017 :** Le "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" a été mis en place. Il s'agissait d'une série de changements en réponse au mécontentement de la communauté de mapping sous la direction de l'[équipe du jeu](/wiki/People/The_Team). Suite à ce changement, les QAT ont commencés à s'autogérer sans l'intervention de leurs supérieurs.
   - Les [BN Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) ont été remplacés par les [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators). Deux membres des BN en probation ne pouvaient pas nommer la même beatmap et les utilisateurs ne pouvaient pas être en probation pendant plus de deux mois à la fois.
   - Des titres violets ont été donnés aux Beatmap Nominators sur les forums.
   - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) et ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) ont été nommés [responsables des QAT](/wiki/Modding/QAT_Leaders) par un vote des membres du BN/QAT. Leur responsabilité était de travailler avec l'équipe d'osu! pour maintenir les communautés de mapping et de modding.

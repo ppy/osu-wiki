@@ -83,7 +83,7 @@ Organisationen: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Über das Wiki
 
-[Inhaltsverzeichnis](/wiki/Sitemap) • [Anleitung zum Beitragen](/wiki/osu!_wiki_Contribution_Guide) • [Kriterien für die Artikelgestaltung](/wiki/Article_Styling_Criteria) • [Kriterien für die Gestaltung von Nachrichten](/wiki/News_Styling_Criteria)
+[Inhaltsverzeichnis](/wiki/Sitemap) • [Anleitung zum Beitragen](/wiki/osu!_wiki/Contribution_guide) • [Kriterien für die Artikelgestaltung](/wiki/Article_Styling_Criteria) • [Kriterien für die Gestaltung von Nachrichten](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

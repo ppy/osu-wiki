@@ -99,7 +99,7 @@ E-postalarınızın destek ekibimiz tarafından düzgün bir şekilde okunmadı�
 
 Bu adrese bir e-posta göndermenin, itirazınıza yalnızca ikinci bir bakış/ilk yanıt garanti ettiğini lütfen unutmayın, itiraz sürecinin içerdiği beklentileri ihlal ettiğiniz tespit edildiğinde herhangi bir sonuç değişikliğini garanti etmez.
 
-**İtiraz inceleme/soruşturma taleplerini yalnızca [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) adresine gönderilen e-postalar yoluyla yanıtlayacağız.** Lütfen bu süreci atlatmak için osu!team üyeleriyle (veya gönüllü ekiplerin üyeleriyle) Twitter, Discord veya başka bir platform aracılığıyla iletişime geçmeye çalışmayın - size yardımcı olamazlar.
+**İtiraz inceleme/soruşturma taleplerini yalnızca [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) adresine gönderilen e-postalar yoluyla yanıtlayacağız.** Lütfen bu süreci atlatmak için osu! ekip üyeleriyle (veya gönüllü ekiplerin üyeleriyle) Twitter, Discord veya başka bir platform aracılığıyla iletişime geçmeye çalışmayın - size yardımcı olamazlar.
 
 ## Yaygın kısıtlama nedenleri ve bekleme süreleri
 

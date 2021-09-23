@@ -50,9 +50,9 @@ tags:
 ## Daftar Tautan Terkait
 
 - [Topik diskusi](https://osu.ppy.sh/community/forums/topics/913338)
-- [Siaran langsung](https://www.twitch.tv/omic_live "Twitch")
-- [Server Discord](https://discord.gg/mPbSx2q "Discord")
-- [Bagan Challonge](https://challonge.com/omic4k2019 "Challonge")
+- [Siaran langsung](https://www.twitch.tv/omic_live)
+- [Server Discord](https://discord.gg/mPbSx2q)
+- [Bagan Challonge](https://challonge.com/omic4k2019)
 
 ## Daftar Peserta
 

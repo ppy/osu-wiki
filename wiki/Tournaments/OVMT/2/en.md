@@ -47,15 +47,15 @@ osu! Vintage Map Tourney! was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/600456)
-- [Challonge](https://challonge.com/kgwsveyx "Challonge")
-- [Discord](https://discord.gg/UvwSefQ "Discord")
-- [Livestream](https://www.twitch.tv/mmi_ "Twitch")
-- [Match VODs](https://www.youtube.com/playlist?list=PLPdnq-hqHu25rAUrFpPhSrtL6CEBtqbXL "YouTube")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1vEER4LsZ1hAc0M2qV3UEa-VLcjFiNMqvoANz2SNUx2M/edit#gid=1298568898 "Google Sheets")
+- [Challonge](https://challonge.com/kgwsveyx)
+- [Discord](https://discord.gg/UvwSefQ)
+- [Livestream](https://www.twitch.tv/mmi_)
+- [Match VODs](https://www.youtube.com/playlist?list=PLPdnq-hqHu25rAUrFpPhSrtL6CEBtqbXL)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1vEER4LsZ1hAc0M2qV3UEa-VLcjFiNMqvoANz2SNUx2M/edit#gid=1298568898)
 
 ## Participants
 
-See the [participants sheet](https://docs.google.com/spreadsheets/d/1vEER4LsZ1hAc0M2qV3UEa-VLcjFiNMqvoANz2SNUx2M/edit#gid=781686462 "Google Sheets") for a list of all initial participants.
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1vEER4LsZ1hAc0M2qV3UEa-VLcjFiNMqvoANz2SNUx2M/edit#gid=781686462) for a list of all initial participants.
 
 ## Podium
 

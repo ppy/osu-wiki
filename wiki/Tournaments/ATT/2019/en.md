@@ -46,9 +46,9 @@ The Ausu!Taiko Tournament 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/919873)
-- [Livestream](https://www.twitch.tv/drumdecimator "Twitch")
-- [Challonge bracket](https://challonge.com/ausutaiko2019 "Challonge")
-- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1ooMPds3EA82u3fcKPo3PCV-3llFzhLGbQIlwtV-Cto4/edit?usp=sharing "Google Sheets")
+- [Livestream](https://www.twitch.tv/drumdecimator)
+- [Challonge bracket](https://challonge.com/ausutaiko2019)
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1ooMPds3EA82u3fcKPo3PCV-3llFzhLGbQIlwtV-Cto4/edit?usp=sharing)
 
 ## Participants
 

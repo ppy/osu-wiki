@@ -43,11 +43,11 @@ OUKT5 was run by various community members
 ## Links
 
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/363250)
-- [RO128/64 Challonge page](https://challonge.com/OUKT5 "Challonge")
-- [Groups Stage + Finals Challonge page](https://challonge.com/oukt5finals "Challonge")
-- [Livestream](http://www.twitch.tv/oukt3 "Twitch")
-- [Mappool Spreadshet](https://docs.google.com/spreadsheets/d/1K7pliGqIofU3Vj66RTNPdhF6Zbhnn_nkRhyRhad8RBg/edit?usp=sharing "Google Sheets")
-- [Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1KgigrN2NPd8sCa3XIKIkcOjToHb4umYcQFtV3S3Wx58/edit#gid=511911619 "Google Sheets")
+- [RO128/64 Challonge page](https://challonge.com/OUKT5)
+- [Groups Stage + Finals Challonge page](https://challonge.com/oukt5finals)
+- [Livestream](http://www.twitch.tv/oukt3)
+- [Mappool Spreadshet](https://docs.google.com/spreadsheets/d/1K7pliGqIofU3Vj66RTNPdhF6Zbhnn_nkRhyRhad8RBg/edit?usp=sharing)
+- [Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1KgigrN2NPd8sCa3XIKIkcOjToHb4umYcQFtV3S3Wx58/edit#gid=511911619)
 
 ## Podium
 
@@ -61,7 +61,7 @@ OUKT5 was run by various community members
 
 ### Grand Finals
 
-**[Download the mappack here! (264 MB)](https://drive.google.com/open?id=1Y5J4MJS7ikxjUVOfNgsOx10Qe-d8pIJY "Google Drive")**
+**[Download the mappack here! (264 MB)](https://drive.google.com/open?id=1Y5J4MJS7ikxjUVOfNgsOx10Qe-d8pIJY)**
 
 - NoMod
   - [kemu - Kamisama Nejimaki (Regou) \[Mahua\]](https://osu.ppy.sh/beatmapsets/104506#osu/282470)
@@ -103,7 +103,7 @@ OUKT5 was run by various community members
 
 ### Finals
 
-**[Download the mappack here! (183 MB)](https://drive.google.com/open?id=1dGJw6KCUIKHsRGLxLLnXuTlpz03m6dvx "Google Drive")**
+**[Download the mappack here! (183 MB)](https://drive.google.com/open?id=1dGJw6KCUIKHsRGLxLLnXuTlpz03m6dvx)**
 
 - NoMod
   - [USAO - Miracle 5ympho X (Extended Mix) (RLC) \[5ympho XtrA\]](https://osu.ppy.sh/beatmapsets/230739#osu/536476)
@@ -135,7 +135,7 @@ OUKT5 was run by various community members
 
 ### Semifinals & Losers Round 4/5
 
-**[Download the mappack here! (121 MB)](https://drive.google.com/open?id=1AzYSM_YSDP_RGwZUHEGIU2IMJM9mhSK9 "Google Drive")**
+**[Download the mappack here! (121 MB)](https://drive.google.com/open?id=1AzYSM_YSDP_RGwZUHEGIU2IMJM9mhSK9)**
 
 - NoMod
   - [Renard - Smoke Tower (Priti) \[Trauma\]](https://osu.ppy.sh/beatmapsets/135596#osu/339640)
@@ -165,7 +165,7 @@ OUKT5 was run by various community members
 
 ### Quater Finals & Losers Round 2/3
 
-**[Download the mappack here! (146 MB)](https://drive.google.com/open?id=1eWmXHTWNKhI1hpiqlXV5TluK1DQOUX_o "Google Drive")**
+**[Download the mappack here! (146 MB)](https://drive.google.com/open?id=1eWmXHTWNKhI1hpiqlXV5TluK1DQOUX_o)**
 
 - NoMod
   - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)
@@ -195,7 +195,7 @@ OUKT5 was run by various community members
 
 ### Round of 16 & Losers Round 1
 
-**[Download the mappack here! (161 MB)](https://drive.google.com/open?id=1OahazD7ZUUlTKW1W64DXRU2Hc1dm0Zcq "Google Drive")**
+**[Download the mappack here! (161 MB)](https://drive.google.com/open?id=1OahazD7ZUUlTKW1W64DXRU2Hc1dm0Zcq)**
 
 - NoMod
   - [dj TAKA - Hollywood Galaxy (Megurine Luka) \[Extreme\]](https://osu.ppy.sh/beatmapsets/48196#osu/150116)
@@ -223,7 +223,7 @@ OUKT5 was run by various community members
 
 ### Round of 32
 
-**[Download the mappack here! (126 MB)](https://drive.google.com/open?id=1g6bm1niVitDXfT77lFxEfk3xJLg9bO8B "Google Drive")**
+**[Download the mappack here! (126 MB)](https://drive.google.com/open?id=1g6bm1niVitDXfT77lFxEfk3xJLg9bO8B)**
 
 - NoMod
   - [Lapfox Trax feat. guilhox - Lapfoxed Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/59521#osu/178353)
@@ -249,7 +249,7 @@ OUKT5 was run by various community members
 
 ### Round of 64
 
-**[Download the mappack here! (97 MB)](https://drive.google.com/open?id=1gFGhx8ssb_HDJFLbrtnXtHyvik6smSOy "Google Drive")**
+**[Download the mappack here! (97 MB)](https://drive.google.com/open?id=1gFGhx8ssb_HDJFLbrtnXtHyvik6smSOy)**
 
 - NoMod
   - [Last Note. - Caramel Heaven (Snepif) \[Heaven\]](https://osu.ppy.sh/beatmapsets/90095#osu/244691)
@@ -275,7 +275,7 @@ OUKT5 was run by various community members
 
 ### Round of 128
 
-**[Download the mappack here! (98 MB)](https://drive.google.com/open?id=1XnorV8A2Osi9gc6QQbuM38rHYYPDhAUk "Google Drive")**
+**[Download the mappack here! (98 MB)](https://drive.google.com/open?id=1XnorV8A2Osi9gc6QQbuM38rHYYPDhAUk)**
 
 - NoMod
   - [wa. remixed celas - Crystal World \~Fracture\~ (Mr Color) \[Extra\]](https://osu.ppy.sh/beatmapsets/62962#osu/186407)

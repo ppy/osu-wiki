@@ -9,7 +9,7 @@ tags:
 
 # Développeurs
 
-Les développeurs d'osu! assurent le fonctionnement du jeu et du site Web en corrigeant les bugs et en ajoutant de nouvelles fonctionnalités. La plupart d'entre eux sont des employés de ppy Pty Ltd, la société propriétaire d'osu!. Ils forment la majorité de la [osu!team](/wiki/People/The_Team).
+Les développeurs d'osu! assurent le fonctionnement du jeu et du site Web en corrigeant les bugs et en ajoutant de nouvelles fonctionnalités. La plupart d'entre eux sont des employés de ppy Pty Ltd, la société propriétaire d'osu!. Ils forment la majorité de l'[équipe du jeu](/wiki/People/The_Team).
 
 Les développeurs d'osu! sont reconnaissables à leur couleur rose et à leur titre d'utilisateur "osu!dev" ou "osu!team".
 
@@ -54,7 +54,7 @@ Actuellement, les principaux projets d'osu! sont hébergés sur GitHub et tout l
 
 #### osu!
 
-*Pour des informations détaillées sur les contributions au projet osu!, voir : [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors "GitHub")*
+*Pour des informations détaillées sur les contributions au projet osu!, voir : [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)*
 
 - ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022)
 - ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163)
@@ -64,7 +64,7 @@ Actuellement, les principaux projets d'osu! sont hébergés sur GitHub et tout l
 
 #### osu!framework
 
-*Pour des informations détaillées sur les contributions au projet osu!framework, voir : [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors "GitHub")*
+*Pour des informations détaillées sur les contributions au projet osu!framework, voir : [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)*
 
 - ![][flag_SA] [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732)
@@ -74,7 +74,7 @@ Actuellement, les principaux projets d'osu! sont hébergés sur GitHub et tout l
 
 #### osu!web
 
-*Pour des informations détaillées sur les contributions au projet osu!web, voir : [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors "GitHub")*
+*Pour des informations détaillées sur les contributions au projet osu!web, voir : [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)*
 
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_ID] [GPR](https://osu.ppy.sh/users/10721349)

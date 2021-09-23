@@ -51,8 +51,8 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/472027)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1GSFF2W81heDb8oTdrp_R-w4sTNBvf3tv0Rdmpxsw_U0/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/1GSFF2W81heDb8oTdrp_R-w4sTNBvf3tv0Rdmpxsw_U0/pubhtml)**
 
 ## Participants
 
@@ -116,7 +116,7 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here!](https://www.mediafire.com/download/k67i387mj5kdmec/MWC_4K_2016_Finals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/k67i387mj5kdmec/MWC_4K_2016_Finals.rar)**
 
 - NoMod
   - [Tatsh - IMAGE -MATERIAL- \<Version 0\> (Fullerene-) \[Refraction\]](https://osu.ppy.sh/beatmapsets/492000#mania/1048210)
@@ -139,7 +139,7 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/wyp4gi7pun5vr0l/MWC4K_2016_Semifinals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/wyp4gi7pun5vr0l/MWC4K_2016_Semifinals.rar)**
 
 - NoMod
   - [\_yosuke & MOKONA - Sumowind (\_underjoy) \[Falling Leaves\]](https://osu.ppy.sh/beatmapsets/486523#mania/1037449)
@@ -162,7 +162,7 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here!](https://www.mediafire.com/download/x8fv79n1mb1miss/MWC_4K_2016_Quarterfinals.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/x8fv79n1mb1miss/MWC_4K_2016_Quarterfinals.rar)**
 
 - NoMod
   - [Memme - Chinese Restaurant (ajeemaniz) \[Insanity "Noodles"\]](https://osu.ppy.sh/beatmapsets/252357#mania/579715)
@@ -185,7 +185,7 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here!](https://www.mediafire.com/download/8ixrt0vl4si4fko/MWC_4K_2016_Round_of_16.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/8ixrt0vl4si4fko/MWC_4K_2016_Round_of_16.rar)**
 
 - NoMod
   - [Nobuo Uematsu - Liberi Fatali (Halogen-) \[Insane\]](https://osu.ppy.sh/beatmapsets/369402#mania/816901)
@@ -208,7 +208,7 @@ The osu!mania 4K World Cup 2016 was run by various community members.
 
 ### Group stage
 
-**[Download the mappack here!](https://www.mediafire.com/download/p39r1ckct4kjg91/MWC_4K_2016_Group_Stage.rar "MediaFire")**
+**[Download the mappack here!](https://www.mediafire.com/download/p39r1ckct4kjg91/MWC_4K_2016_Group_Stage.rar)**
 
 - NoMod
   - [The Ghost of 3.13 - Last Star In The Universe (Shoegazer) \[Nocturne\]](https://osu.ppy.sh/beatmapsets/302911#mania/678855)

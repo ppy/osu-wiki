@@ -84,7 +84,7 @@ Organizace: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # O wiki
 
-[Obsah](/wiki/Sitemap) • [Jak přispět?](/wiki/osu!_wiki_Contribution_Guide) • [Kritéria pro návrh článku](/wiki/Article_Styling_Criteria) • [Kritéria pro návrh zpráv](/wiki/News_Styling_Criteria)
+[Obsah](/wiki/Sitemap) • [Jak přispět?](/wiki/osu!_wiki/Contribution_guide) • [Kritéria pro návrh článku](/wiki/Article_Styling_Criteria) • [Kritéria pro návrh zpráv](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

@@ -326,10 +326,10 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### September
 
-- **2017-09-10:** The "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" was implemented. This was a series of changes in response to dissatisfaction from the mapping community under leadership by [osu!team](/wiki/People/The_Team) higher-ups. Following this change, the QAT began self-leadership without higher-up intervention.
+- **2017-09-10:** The "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" was implemented. This was a series of changes in response to dissatisfaction from the mapping community under leadership by [osu! team](/wiki/People/The_Team) higher-ups. Following this change, the QAT began self-leadership without higher-up intervention.
   - [BN Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) were replaced with [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators). Two probationary BN members could not nominate the same beatmap and users could not be in Probation for more than two months at a time.
   - Beatmap Nominators were given purple titles on the forums.
-  - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) were appointed as [QAT leaders](/wiki/Modding/QAT_Leaders) by a vote of BN/QAT members. Their responsibility was to work with the osu!team to maintain the mapping and modding communities.
+  - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) were appointed as [QAT leaders](/wiki/Modding/QAT_Leaders) by a vote of BN/QAT members. Their responsibility was to work with the osu! team to maintain the mapping and modding communities.
   - Tenure based Beatmap Nominator and Quality Assurance Team profile badges were created. This and other Beatmap Nominator rewards were planned to re-motivate the currently dissatisfied team. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
   - With less authoritative leadership and more users capable of nominating beatmaps after these changes, mapping standards stopped being strictly controlled. Controversial beatmaps that would have likely not been ranked under the previous system (e.g. *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)*) reached ranked status.
 
@@ -340,7 +340,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### December
 
-- **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) stepped down from involvement in the osu!team, including his heavy participation in the QAT. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
+- **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) stepped down from involvement in the osu! team, including his heavy participation in the QAT. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
 
 **1847 beatmaps** were ranked in 2017.
 
@@ -371,7 +371,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### May
 
 - **2018-05-22:** ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) became a [QAT leader](/wiki/Modding/QAT_Leaders) after ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) stepped down.
-  - Like his predecessor, he continued working with the osu!team to manage the mapping/modding scenes. <!-- source is discord logs -->
+  - Like his predecessor, he continued working with the osu! team to manage the mapping/modding scenes. <!-- source is discord logs -->
 
 ### June
 
@@ -388,10 +388,10 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### December
 
-- **2018-12-12:** The osu!team took a [negative stance on beatmap commissions](https://osu.ppy.sh/community/forums/topics/840838).
+- **2018-12-12:** The osu! team took a [negative stance on beatmap commissions](https://osu.ppy.sh/community/forums/topics/840838).
   - The team acknowledged that commissions will happen, but pledged to take no action unless members of the BN or QAT were involved.
 - **2018-12-17:** ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) became a [QAT leader](/wiki/Modding/QAT_Leaders) after ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) stepped down.
-  - Like his predecessor, he continued working with the osu!team to manage the mapping/modding scenes. <!-- source is discord logs -->
+  - Like his predecessor, he continued working with the osu! team to manage the mapping/modding scenes. <!-- source is discord logs -->
 - **2018-12-17:** The QAT was declared as having no future in its current state and ideas for reform were encouraged.
   - This decision was made because the QAT had not been involved in anything Quality Assurance related for years, however a system needed to exist to maintain the Beatmap Nominators and mapping community in general.
   - Some concerns at the time about the QAT included:

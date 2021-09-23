@@ -83,7 +83,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # wikiについて
 
-[サイトマップ](/wiki/Sitemap) • [コントリビューションガイド](/wiki/osu!_wiki_Contribution_Guide) • [記事のスタイリング基準](/wiki/Article_Styling_Criteria) • [ニュースのスタイリング基準](/wiki/News_Styling_Criteria)
+[サイトマップ](/wiki/Sitemap) • [コントリビューションガイド](/wiki/osu!_wiki/Contribution_guide) • [記事のスタイリング基準](/wiki/Article_Styling_Criteria) • [ニュースのスタイリング基準](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

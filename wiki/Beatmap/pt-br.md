@@ -76,11 +76,11 @@ Beatmaps que foram ranqueados no mesmo mês, ou compartilham o mesmo tema (ex: o
 
 ### Fontes não oficiais
 
-Existem também fontes secundárias de *beatmaps*, que não são **nem checadas nem operadas pelo osu!team**. Contudo, elas estão disponíveis em fóruns e são apreciadas pela comunidade.
+Existem também fontes secundárias de *beatmaps*, que não são **nem checadas nem operadas pela nossa equipe**. Contudo, elas estão disponíveis em fóruns e são apreciadas pela comunidade.
 Essas fontes incluem:
 
 - *mirrors* de beatmap de terceiros hospedados em alguma plataforma;
-- pacotes feitos por jogadores e compilações compartilhadas por [redes-p2p](https://pt.wikipedia.org/wiki/Peer-to-peer "Wikipedia"), como o BitTorrent.
+- pacotes feitos por jogadores e compilações compartilhadas por [redes-p2p](https://pt.wikipedia.org/wiki/Peer-to-peer), como o BitTorrent.
 
 ### Beatmaps e a comunidade
 
@@ -113,4 +113,4 @@ A comunidade do osu! regularmente realiza diferentes concursos em prol de promov
 
 *Artigo principal: [Artistas em destaque](/wiki/Featured_Artists)*
 
-Artistas em destque é um programa da comunidade feito pelo [osu!team](/wiki/people/The_Team) que foca em licenciar música de vários artistas para o osu! e colocá-las disponíveis para *mapping*. A [listagem de artistas em destaque](https://osu.ppy.sh/beatmaps/artists) do *website* exibe cada artista envolvido e fornece *pre-timed templates* para *mapping*.
+Artistas em destque é um programa da comunidade feito pela [nossa equipe](/wiki/people/The_Team) que foca em licenciar música de vários artistas para o osu! e colocá-las disponíveis para *mapping*. A [listagem de artistas em destaque](https://osu.ppy.sh/beatmaps/artists) do *website* exibe cada artista envolvido e fornece *pre-timed templates* para *mapping*.

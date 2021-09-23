@@ -41,8 +41,8 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 doub
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/679243)
-- [Livestream](https://www.twitch.tv/osuanzt "Twitch")
-- [Challonge page](https://anzttournaments.challonge.com/o1fs6s1q "Challonge")
+- [Livestream](https://www.twitch.tv/osuanzt)
+- [Challonge page](https://anzttournaments.challonge.com/o1fs6s1q)
 
 ## Podium
 
@@ -58,7 +58,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals week 2
 
-**[Download the map pack here! (129 MB)](http://www.mediafire.com/file/3whiaig0dvuxzhr/ANZT5S+Grand+Finals+Mappack+.zip "MediaFire")**
+**[Download the map pack here! (129 MB)](http://www.mediafire.com/file/3whiaig0dvuxzhr/ANZT5S+Grand+Finals+Mappack+.zip)**
 
 - NoMod
   - [mafumafu - Revenge Syndrome (Rizia) \[Reunion\]](https://osu.ppy.sh/beatmapsets/543109)
@@ -85,7 +85,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals week 1
 
-**[Download the map pack here! (121 MB)](http://www.mediafire.com/file/sm4embsj8le04bq/ANZT5S%20Finals%20Week%201%20Mappack.zip "MediaFire")**
+**[Download the map pack here! (121 MB)](http://www.mediafire.com/file/sm4embsj8le04bq/ANZT5S%20Finals%20Week%201%20Mappack.zip)**
 
 - NoMod
   - [nmk - sola (Morinaga) \[Last Word\]](https://osu.ppy.sh/beatmapsets/723024)
@@ -112,7 +112,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals & Losers Bracket Rounds 7 & 8
 
-**[Download the map pack here! (117 MB)](http://www.mediafire.com/file/7x9o4gaga0zpfkj/ANZT5S%20SF%20Mappool.zip "MediaFire")**
+**[Download the map pack here! (117 MB)](http://www.mediafire.com/file/7x9o4gaga0zpfkj/ANZT5S%20SF%20Mappool.zip)**
 
 - NoMod
   - [Mitani Nana - Inochi Mijikashi Koiseyo Otome (Amamiya Yuko) \[Insane\]](https://osu.ppy.sh/beatmapsets/125511)
@@ -139,7 +139,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals & Losers Bracket Rounds 5 & 6
 
-**[Download the map pack here! (106 MB)](http://www.mediafire.com/file/0i0b10n63061b35/ANZT5S%20QF%20Mappool.zip "MediaFire")**
+**[Download the map pack here! (106 MB)](http://www.mediafire.com/file/0i0b10n63061b35/ANZT5S%20QF%20Mappool.zip)**
 
 - NoMod
   - [mafumafu - Revenge Syndrome (Rizia) \[Extra\]](https://osu.ppy.sh/beatmapsets/200308)
@@ -166,7 +166,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16 & Losers Bracket Rounds 3 & 4
 
-**[Download the map pack here! (111 MB)](http://www.mediafire.com/file/wx3e2bidn691d0z/ANZT5S_RO16_Stage_Mappack.zip "MediaFire")**
+**[Download the map pack here! (111 MB)](http://www.mediafire.com/file/wx3e2bidn691d0z/ANZT5S_RO16_Stage_Mappack.zip)**
 
 - NoMod
   - [FujuniseikouyuuP - Make a Loser (val0108) \[0108 Style\]](https://osu.ppy.sh/beatmapsets/287694)
@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32 & Losers Bracket Rounds 1 & 2
 
-**[Download the map pack here! (106 MB)](http://www.mediafire.com/file/5d8y4dpvfg29ov5/ANZT5S%20RO32%20Stage%20Mappack.zip "MediaFire")**
+**[Download the map pack here! (106 MB)](http://www.mediafire.com/file/5d8y4dpvfg29ov5/ANZT5S%20RO32%20Stage%20Mappack.zip)**
 
 - NoMod
   - [ZUN - Shoutoku Legend ~ True Administrator (chenwu) \[Over Drive\]](https://osu.ppy.sh/beatmapsets/103226)
@@ -216,7 +216,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 64
 
-**[Download the map pack here! (99 MB)](http://www.mediafire.com/file/p8b5xddkpp2ihx3/ANZT5S+RO64+Stage+Mappack.zip "MediaFire")**
+**[Download the map pack here! (99 MB)](http://www.mediafire.com/file/p8b5xddkpp2ihx3/ANZT5S+RO64+Stage+Mappack.zip)**
 
 - NoMod
   - [sakuzyo - Neurotoxin (kiddly) \[Another\]](https://osu.ppy.sh/beatmapsets/192995)
@@ -241,7 +241,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the map pack here! (19 MB)](http://www.mediafire.com/file/edkxcwm8vymjcct/ANZT5S+Qualifiers+Mappack.zip "MediaFire")**
+**[Download the map pack here! (19 MB)](http://www.mediafire.com/file/edkxcwm8vymjcct/ANZT5S+Qualifiers+Mappack.zip)**
 
 - NoMod
   - [DJ YOSHITAKA - MANA (EvilElvis) \[Kiiwa's Another\]](https://osu.ppy.sh/beatmapsets/136144)

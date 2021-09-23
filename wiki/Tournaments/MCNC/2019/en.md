@@ -49,9 +49,9 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/908176)
-- [Livestream](https://live.bilibili.com/2996250 "Bilibili")
-- [Challonge bracket](https://challonge.com/zh_CN/MCNC "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ii3yzv9lsReXbRN2dQTulp2izIpzSsp1zm_LIBVhzlQ "Google Sheets")**
+- [Livestream](https://live.bilibili.com/2996250)
+- [Challonge bracket](https://challonge.com/zh_CN/MCNC)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ii3yzv9lsReXbRN2dQTulp2izIpzSsp1zm_LIBVhzlQ)**
 
 ## Participants
 
@@ -106,7 +106,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (154MB)](https://www.dropbox.com/s/r4p7tbxa58ijgzh/MCNC19%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (154MB)](https://www.dropbox.com/s/r4p7tbxa58ijgzh/MCNC19%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [TAG underground overlay - Over The "Period" (Tidek) \[Edit\]](https://osu.ppy.sh/beatmapsets/850075#mania/1777377)
@@ -129,7 +129,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (96.5MB)](https://www.dropbox.com/s/fq0u3l87fahgw5b/MCNC19%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (96.5MB)](https://www.dropbox.com/s/fq0u3l87fahgw5b/MCNC19%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/beatmapsets/941878#mania/1966772)
@@ -152,7 +152,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (110MB)](https://www.dropbox.com/s/6ocxk2bm9w8q49j/MCNC19%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (110MB)](https://www.dropbox.com/s/6ocxk2bm9w8q49j/MCNC19%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmapsets/973377#mania/2037752)
@@ -173,7 +173,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (82.9MB)](https://www.dropbox.com/s/k752wba6kpyyzt1/MCNC19%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (82.9MB)](https://www.dropbox.com/s/k752wba6kpyyzt1/MCNC19%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - Frums - Wavetapper (qqqant) \[Stage 1: Memory Factory\]
@@ -194,7 +194,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (84.3MB)](https://www.dropbox.com/s/ywwvekemymwzrjh/MCNC19%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (84.3MB)](https://www.dropbox.com/s/ywwvekemymwzrjh/MCNC19%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [Frums - Credits (BossModWolf) \[Glitched Tech Corp. (SV)\]](https://osu.ppy.sh/beatmapsets/950920#mania/1985858)

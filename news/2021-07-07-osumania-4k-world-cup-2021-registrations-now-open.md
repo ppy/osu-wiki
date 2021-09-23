@@ -8,7 +8,7 @@ With the conclusion of the osu!catch World Cup, it is time for the yearly keyboa
 
 ![](/wiki/shared/news/banners/mwc4k-2021.jpg)
 
-For more details, refer to the **[osu!mania 4K World Cup 2021 wiki article](/wiki/Tournaments/MWC/2021_4K)**. You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")**.
+For more details, refer to the **[osu!mania 4K World Cup 2021 wiki article](/wiki/Tournaments/MWC/2021_4K)**. You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament schedule
 

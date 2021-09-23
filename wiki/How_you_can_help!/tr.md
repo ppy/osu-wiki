@@ -8,7 +8,7 @@ Aşağıda, topluluk içerisinde yardımcı olabileceğiniz yollardan birkaçı 
 
 [Wiki](https://github.com/ppy/osu-wiki) osu! hakkındaki her şeyin bulunduğu resmi bilgi bankamızdır. Dolayısıyla wiki, sitenin taze, yeni bilgiler veya çeviriler ile güncel kalmasına yardımcı olabilecek iştirakçileri her daim aramaktadır.
 
-Eğer osu! wiki'ye yeniyseniz, bu konuyla ilgili daha fazla bilgiye [osu! wiki Katkı Rehberi'nden](/wiki/osu!_wiki_Contribution_Guide) erişebilirsiniz.
+Eğer osu! wiki'ye yeniyseniz, bu konuyla ilgili daha fazla bilgiye [osu! wiki Katkı Rehberi'nden](/wiki/osu!_wiki/Contribution_guide) erişebilirsiniz.
 
 ## osu!'nun arkadaş canlısı ve güvenli kalmasına yardımcı olun
 
@@ -52,7 +52,7 @@ Aşağıda katkıda bulunabileceğiniz yollardan birkaçı mevcut:
 
 - [Turnuvalar](https://osu.ppy.sh/community/forums/55) forumuna göz atın. Turnuvalar epey zaman alır ve aksamadan organize edilmesi oldukça fazla bir iş gücü gerektirir, ve bazı durumlarda seyirci juri olarak yardımcı olabilirsiniz.
 - [Geliştirme](https://osu.ppy.sh/community/forums/2) forumunda neler olduğunu kontrol edin; burası çoğu önemli projenin bulunduğu yerdir.
-   - [osu!dev Discord'una](https://discord.gg/ppy) katılın! Yalnızca olan biteni takip etmek ve osu!'nun geliştirilmesiyle ve projelerle güncel kalmak bile gelişmelerden haberdar olmanın iyi bir yoludur.
+  - [osu!dev Discord'una](https://discord.gg/ppy) katılın! Yalnızca olan biteni takip etmek ve osu!'nun geliştirilmesiyle ve projelerle güncel kalmak bile gelişmelerden haberdar olmanın iyi bir yoludur.
 - Bir [beatmap projesine](https://osu.ppy.sh/community/forums/53) katılın ve diğerleriyle birlikte çalışmanın ne kadar eğlenceli olduğunu öğrenin!
 - Kendi projenizi başlatın! Dans eden pippi'yi geri getirmek olsun, veya sadece osu! için havalı bir şey yapmak olsun, her şey uygundur!
 

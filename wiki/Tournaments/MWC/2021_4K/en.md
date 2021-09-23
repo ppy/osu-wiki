@@ -8,40 +8,43 @@ tags:
 
 # osu!mania 4K World Cup 2021
 
-![](/wiki/shared/news/banners/mwc4k-2021.jpg)
+![MWC 4K 2021 banner](/wiki/shared/news/banners/mwc4k-2021.jpg)
 
-The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eighth instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2021** (***MWC 4K 2021***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-07-07 – 2021-07-21 |
-| Qualifier showcase |  2021-07-31 (14:00 UTC) |
-| Qualifier stage | 2021-08-07 & 2021-08-08 |
-| Round of 32 | 2021-08-14 & 2021-08-15 |
-| Round of 16 | 2021-08-21 & 2021-08-22 |
-| Quarterfinals | 2021-08-28 & 2021-08-29 |
-| Semifinals | 2021-09-04 & 2021-09-05 |
-| Finals | 2021-09-11 & 2021-09-12 |
-| Grand Finals | 2021-09-18 & 2021-09-19 |
+| Registration phase | 2021-07-07/2021-07-21 |
+| Qualifier showcase | 2021-07-31 (14:00 UTC) |
+| Qualifier stage | 2021-08-07/2021-08-08 |
+| Round of 32 | 2021-08-14/2021-08-15 |
+| Round of 16 | 2021-08-21/2021-08-22 |
+| Quarterfinals | 2021-08-28/2021-08-29 |
+| Semifinals | 2021-09-04/2021-09-05 |
+| Finals | 2021-09-11/2021-09-12 |
+| Grand Finals | 2021-09-18/2021-09-19 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania 4K Champion" user title for one year |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
+![](img/badge-1st.jpg "MWC 4K 2021 winner badge") ![](img/badge-2nd.jpg "MWC 4K 2021 2nd place badge") ![](img/badge-3rd.jpg "MWC 4K 2021 3rd place badge")
+
 ## Organisation
 
-The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu!mania 4K World Cup 2021 was run by the [osu! team](/wiki/People/The_Team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Mappool helper | ![][flag_US] [chxu](https://osu.ppy.sh/users/1371219), ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972), ![][flag_DK] [Jole](https://osu.ppy.sh/users/2883132), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [lemonguy](https://osu.ppy.sh/users/4693052), ![][flag_US] [Matthia](https://osu.ppy.sh/users/19804607), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_TH] [MyZterioN-](https://osu.ppy.sh/users/8521723), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Commentator | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -49,10 +52,10 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1366220)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- [pick'ems page](https://pickem.hwc.hr/tournaments/67 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Challonge bracket](https://challonge.com/MWC4K_2021 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAcQbWgmUTB8pR17UlLc2GC9i49-GzrJyKed6rj-8nM21cjIajvdTGqU0-Jdp2SM75Kq-x8ExyJEqI/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/67) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Challonge bracket](https://challonge.com/MWC4K_2021)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAcQbWgmUTB8pR17UlLc2GC9i49-GzrJyKed6rj-8nM21cjIajvdTGqU0-Jdp2SM75Kq-x8ExyJEqI/pubhtml)**
 
 ## Participants
 
@@ -98,32 +101,15 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)**, [Neko-Pan](https://osu.ppy.sh/users/8676532), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [Edvo](https://osu.ppy.sh/users/8301758), [Doryoku](https://osu.ppy.sh/users/5639725), [Cerelac](https://osu.ppy.sh/users/8065567) |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [Lottery61](https://osu.ppy.sh/users/13821222), [Asrielly](https://osu.ppy.sh/users/2656302), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [LovelyL](https://osu.ppy.sh/users/14821320) |
 
-## Match schedule: Finals
+## Podium
 
-### Saturday, September 11, 2021
-
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Malaysia | ![][flag_MY] | ![][flag_JP] | Japan | Sep 11 (Sat.) 13:00 UTC | Sep 11 (Sat.) 21:00 UTC+8 | Sep 11 (Sat.) 22:00 UTC+9 | ² |
-| United Kingdom | ![][flag_GB] | ![][flag_VN] | Vietnam | Sep 11 (Sat.) 14:55 UTC | Sep 11 (Sat.) 15:55 UTC+1 | Sep 11 (Sat.) 21:55 UTC+7 | ² |
-
-### Sunday, September 12, 2021
-
-| Team A | | | Team B | Match time | Local time A | Local time B | |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_VN] | Vietnam | Sep 12 (Sun.) 09:30 UTC | Sep 12 (Sun.) 18:30 UTC+9 | Sep 12 (Sun.) 16:30 UTC+7 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_VN] | Vietnam | Sep 12 (Sun.) 09:30 UTC | Sep 12 (Sun.) 17:30 UTC+8 | Sep 12 (Sun.) 16:30 UTC+7 | ³ |
-| Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | Sep 12 (Sun.) 12:00 UTC | Sep 12 (Sun.) 21:00 UTC+9 | Sep 12 (Sun.) 13:00 UTC+1 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_GB] | United Kingdom | Sep 12 (Sun.) 13:00 UTC | Sep 12 (Sun.) 21:00 UTC+8 | Sep 12 (Sun.) 14:00 UTC+1 | ³ |
-| United States | ![][flag_US] | ![][flag_BR] | Brazil | Sep 12 (Sun.) 20:00 UTC | Sep 12 (Sun.) 15:00 UTC-5 | Sep 12 (Sun.) 17:00 UTC-3 | ¹ |
-
-¹ Winners bracket match\
-² Losers bracket match\
-³ Final matchup depends on the results of ²
+![](img/podium.jpg "MWC 4K 2021 podium")
 
 ## Mappools
 
 ### Finals
+
+*Note: This mappool was used for both Finals week 1 and 2.*
 
 - Rice
   1. [Kuribayashi Minami - ZERO!! (stupud man) \[Skwid's Challenge 1.05x\]](https://osu.ppy.sh/beatmapsets/1450344#mania/2981851)
@@ -253,11 +239,38 @@ The osu!mania 4K World Cup 2021 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Match results
 
+### Finals week 2
+
+Detailed statistics for Finals week 1 and 2 can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2RgCDlCseyg6CNGnrGtnIRTadNqYt1wuZKkthLV9o4hsGl4gDwPiq2oAF1lp1JT0UougO8Z28Fvex/pubhtml).
+
+Sunday, September 19, 2021:
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **7** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/91143237) |
+| **Brazil** ![][flag_BR] | **7** | 3 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/91184243) |
+
+### Finals week 1
+
+Saturday, September 11, 2021:
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Malaysia** ![][flag_MY] | **7** | 6 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/90732849) |
+| **United Kingdom** ![][flag_GB] | **7** | 6 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/90739182) |
+
+Sunday, September 12, 2021:
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Malaysia** ![][flag_MY] | **7** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/90796940) |
+| United States ![][flag_US] | 1 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/90818556) |
+
 ### Semifinals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDhy2Sgc-Bw9vB484JdHKbD8I0ZTu7PT8O0J_h_NpfG7QmLfgFoHIVNoX1cgDggQANFumV296H0fVz/pubhtml "Google Sheets").
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDhy2Sgc-Bw9vB484JdHKbD8I0ZTu7PT8O0J_h_NpfG7QmLfgFoHIVNoX1cgDggQANFumV296H0fVz/pubhtml).
 
-Saturday, September 04, 2021
+Saturday, September 04, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -266,7 +279,7 @@ Saturday, September 04, 2021
 | **Philippines** ![][flag_PH] | **7** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/90370579) |
 | **Vietnam** ![][flag_VN] | **7** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/90375487) |
 
-Sunday, September 05, 2021
+Sunday, September 05, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -275,11 +288,11 @@ Sunday, September 05, 2021
 | **Vietnam** ![][flag_VN] | **7** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/90421240) |
 | **Japan** ![][flag_JP] | **7** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/90428313) |
 
-## Quarterfinals
+### Quarterfinals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxI-1S9uv04mhcmVeYdB_rbQ3T6gyhbs8739duhmPwv4oChWpcALdX6qm9vS3PsWR-ouo9ytG5f2rA/pubhtml "Google Sheets").
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxI-1S9uv04mhcmVeYdB_rbQ3T6gyhbs8739duhmPwv4oChWpcALdX6qm9vS3PsWR-ouo9ytG5f2rA/pubhtml).
 
-Saturday, August 28, 2021
+Saturday, August 28, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -292,7 +305,7 @@ Saturday, August 28, 2021
 | **France** ![][flag_FR] | **6** | 2 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/90012514) |
 | **Chile** ![][flag_CL] | **6** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/90025700) |
 
-Sunday, August 29, 2021
+Sunday, August 29, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -307,9 +320,9 @@ Sunday, August 29, 2021
 
 ### Round of 16
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-l5g5Qa_O55t-_azBZLFGF8foa86bWrEtJRlvUiViRPsxreUeNztIbgBrFsjh0ffc8_wXtfHmLcaD/pubhtml "Google Sheets").
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-l5g5Qa_O55t-_azBZLFGF8foa86bWrEtJRlvUiViRPsxreUeNztIbgBrFsjh0ffc8_wXtfHmLcaD/pubhtml).
 
-Saturday, August 21, 2021
+Saturday, August 21, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -317,7 +330,7 @@ Saturday, August 21, 2021
 | Finland ![][flag_FI] | 3 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/89614019) |
 | Colombia ![][flag_CO] | 0 | **6** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/89620008) |
 
-Sunday, August 22, 2021
+Sunday, August 22, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -337,9 +350,9 @@ Sunday, August 22, 2021
 
 ### Round of 32
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRCqILWcxsJv9hmIGjtGhV6Q7C3-ZxUPusNIYyV4lED1CNzn1vsH_lUPlnz6Mu1f_ODHZZJvmh4uPfv/pubhtml "Google Sheets").
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRCqILWcxsJv9hmIGjtGhV6Q7C3-ZxUPusNIYyV4lED1CNzn1vsH_lUPlnz6Mu1f_ODHZZJvmh4uPfv/pubhtml).
 
-Saturday, August 14, 2021
+Saturday, August 14, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -352,7 +365,7 @@ Saturday, August 14, 2021
 | **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/89228185) |
 | **Malaysia** ![][flag_MY] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/89231018) |
 
-Sunday, August 15, 2021
+Sunday, August 15, 2021:
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -367,7 +380,7 @@ Sunday, August 15, 2021
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CqMoaA8sCvnzKIdacPuXiqlVan4b1-1O4HCfLSvOaV0/edit?rm=minimal "Google Sheets"). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdqhTkuMWNIS__5kIRsSijfBz_tpADXACO-9VtOxRXK5zIIqmFKlaEx7Hm_-MpjE4K5-8PDmExG7hJ/pubhtml "Google Sheets").
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CqMoaA8sCvnzKIdacPuXiqlVan4b1-1O4HCfLSvOaV0/edit?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdqhTkuMWNIS__5kIRsSijfBz_tpADXACO-9VtOxRXK5zIIqmFKlaEx7Hm_-MpjE4K5-8PDmExG7hJ/pubhtml).
 
 ## Ruleset
 
@@ -499,14 +512,16 @@ The final standings for the Qualifier stage can be found at the following [sprea
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
@@ -515,6 +530,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 [flag_IN]: /wiki/shared/flag/IN.gif "India"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
@@ -524,13 +540,11 @@ The final standings for the Qualifier stage can be found at the following [sprea
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"

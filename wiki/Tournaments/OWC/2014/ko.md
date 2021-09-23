@@ -43,8 +43,8 @@ outdated: true
 
 ## 링크
 
-- [osu! World Cup 2014 트위치 방송](https://www.twitch.tv/osulive "Twitch")
-- [등록 양식](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms")
+- [osu! World Cup 2014 트위치 방송](https://www.twitch.tv/osulive)
+- [등록 양식](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
 - [토론 장소](https://osu.ppy.sh/community/forums/posts/3410198)
 
 ## Ruleset
@@ -77,7 +77,7 @@ outdated: true
    2. 팀을 대표할 주장이 반드시 선발해야 합니다.
       1. 주요 선수와 백업 선ㅅ에 차별을 두지 않습니다.
 2. 각 팀은 그 나라를 대표하게 됩니다. 모든 선수들이 같은 나라의 선수들인지 확인해 주십시오. 또한 유저 프로필에 같은 국기를 달아야 합니다.
-3. 참가신청은 [**구글폼**](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms") 을 통해 제출한 다음, [Loctav](https://osu.ppy.sh/home/messages/users/71366) 에게 “OWC Registration” 라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
+3. 참가신청은 [**구글폼**](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng) 을 통해 제출한 다음, [Loctav](https://osu.ppy.sh/home/messages/users/71366) 에게 “OWC Registration” 라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
    - 각 팀 주장은 선수 등록에 변동사항이 있을 경우 [운영위원](https://osu.ppy.sh/home/messages/users/71366)에게 알려주셔야 합니다.
    - 확인 답장을 받으면, 정상 전송된 것입니다. 그러면, 등록과정이 진행되고 있는 것입니다.
 4. 모든 등록과 변경은 운영위원들의 확인을 거쳐 반영될 것입니다.
@@ -105,7 +105,7 @@ outdated: true
 
 5. 각 조의 상위 2순위 팀은 Double Elimination 경기에 참가하게 되며, 하위 2순위 팀은 패자부활전에 참가하게 됩니다.
 
-6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png "puush"), the stages are splitted up the following:
+6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
 
    | Stage | Match ID |
    | :-- | :-- |

@@ -12,14 +12,14 @@ Toplantılar genellikle `#modding` kanalında bir hafta önceden duyurulur.
 
 ## Toplantı konu başlıkları
 
-- 2019-12-29: NAT'nin sorumlulukları - [Notlar](https://docs.google.com/document/d/1THKiYwiRBY-7PW__itoDrpUVeH7cmr5_QNtNMlkbNNs/edit?usp=sharing "Google dökümanı: (#1) NAT'nin Sorumlulukları"), [Özet](https://osu.ppy.sh/community/forums/topics/1006014)
-- 2020-01-03: NAT üyeliğine terfi etme - [Notlar](https://docs.google.com/document/d/1y3MAKp10Y-pAGDXqFIl9rKcd_Ym3WF3CjtDxPtY0-1k/edit?usp=sharing "Google dökümanı: (#2) NAT Üyeliğine Terfi Etmek"), [Özet](https://osu.ppy.sh/community/forums/topics/1006119)
-- 2020-01-18: Başvuru değerlendirme - [Notlar](https://docs.google.com/document/d/1Q2MdQKEcCTXS7hYoFgmm9pPW8vcz4Wc_qCphTp8Bmlw/edit?usp=sharing "Google dökümanı: (#3) Başvuru Değerlendirme"), [Özet](https://osu.ppy.sh/community/forums/topics/1012519)
-- 2020-02-01: İlerleme raporları ve yarım kalan işler - [Notlar](https://docs.google.com/document/d/1grwhfegjiFhb52oEZZB5v5ryN0kKGX6X0n8X6zSLxco/edit?usp=sharing "Google dökümanı: (#4) İlerleme Raporları & Yarım Kalan İşler")
-- 2020-02-15: Mevcut BN değerlendirme - [Notlar](https://docs.google.com/document/d/1Zu_FFHG6nzMniCOzveNlxPEv2dx8xkoi95s5UEaNRkg/edit?usp=sharing "Google dökümanı: (#5) Mevcut BN Değerlendirme"), [Özet](https://osu.ppy.sh/community/forums/topics/1023943)
-- 2020-03-01: BN yetiştirme - [Notlar](https://docs.google.com/document/d/12OCLF33v5-Z7a3pZ39IdrQXGrvPf6IkGyq0AUKDo9ZA/edit?usp=sharing "Google dökümanı: (#6) BN Yetiştirme"), [Özet](https://osu.ppy.sh/community/forums/topics/1040487)
-- 2020-03-22: QAH ve diğerlerinin durumu - [Notlar](https://docs.google.com/document/d/1yZwXXT8OSU1HsLw-oobE-7MKlq-PZ5uggnTN33kPxaE/edit?usp=sharing "Google dökümanı: (#7) QAH & Diğerlerinin Durumu"), [Özet](https://osu.ppy.sh/community/forums/topics/1040456)
-- 2020-04-11: Tür ve dil seçenekleri - [Notlar](https://docs.google.com/document/d/13eCGWJuQ8hxdBTfqXoVgGhMBFwSZvaMZTuR1gK6lHtw/edit?usp=sharing "Google dökümanı: (#8) Tür ve Dil Seçenekleri"), [Özet](https://osu.ppy.sh/community/forums/topics/1059659)
+- 2019-12-29: NAT'nin sorumlulukları - [Notlar](https://docs.google.com/document/d/1THKiYwiRBY-7PW__itoDrpUVeH7cmr5_QNtNMlkbNNs/edit?usp=sharing), [Özet](https://osu.ppy.sh/community/forums/topics/1006014)
+- 2020-01-03: NAT üyeliğine terfi etme - [Notlar](https://docs.google.com/document/d/1y3MAKp10Y-pAGDXqFIl9rKcd_Ym3WF3CjtDxPtY0-1k/edit?usp=sharing), [Özet](https://osu.ppy.sh/community/forums/topics/1006119)
+- 2020-01-18: Başvuru değerlendirme - [Notlar](https://docs.google.com/document/d/1Q2MdQKEcCTXS7hYoFgmm9pPW8vcz4Wc_qCphTp8Bmlw/edit?usp=sharing), [Özet](https://osu.ppy.sh/community/forums/topics/1012519)
+- 2020-02-01: İlerleme raporları ve yarım kalan işler - [Notlar](https://docs.google.com/document/d/1grwhfegjiFhb52oEZZB5v5ryN0kKGX6X0n8X6zSLxco/edit?usp=sharing)
+- 2020-02-15: Mevcut BN değerlendirme - [Notlar](https://docs.google.com/document/d/1Zu_FFHG6nzMniCOzveNlxPEv2dx8xkoi95s5UEaNRkg/edit?usp=sharing), [Özet](https://osu.ppy.sh/community/forums/topics/1023943)
+- 2020-03-01: BN yetiştirme - [Notlar](https://docs.google.com/document/d/12OCLF33v5-Z7a3pZ39IdrQXGrvPf6IkGyq0AUKDo9ZA/edit?usp=sharing), [Özet](https://osu.ppy.sh/community/forums/topics/1040487)
+- 2020-03-22: QAH ve diğerlerinin durumu - [Notlar](https://docs.google.com/document/d/1yZwXXT8OSU1HsLw-oobE-7MKlq-PZ5uggnTN33kPxaE/edit?usp=sharing), [Özet](https://osu.ppy.sh/community/forums/topics/1040456)
+- 2020-04-11: Tür ve dil seçenekleri - [Notlar](https://docs.google.com/document/d/13eCGWJuQ8hxdBTfqXoVgGhMBFwSZvaMZTuR1gK6lHtw/edit?usp=sharing), [Özet](https://osu.ppy.sh/community/forums/topics/1059659)
 
 ### Planlanan konu başlıkları
 

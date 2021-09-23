@@ -36,7 +36,7 @@
 
 ## 贯彻落实
 
-如遇滥用、骚扰等不当行为，请通过邮箱 [abuse@ppy.sh](mailto:abuse@ppy.sh) 向 osu!team 举报。
+如遇滥用、骚扰等不当行为，请通过邮箱 [abuse@ppy.sh](mailto:abuse@ppy.sh) 向 osu!团队举报。
 
 目前有权限访问该收件箱的纪律检查委员名单如下：
 

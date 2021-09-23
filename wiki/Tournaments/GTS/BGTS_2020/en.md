@@ -49,13 +49,13 @@ The Beginners Global Taiko Showdown 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1178018)
-- [GTS Discord server](https://discord.gg/3mGC3HB "Discord")
-- [GTS website](https://gtsosu.com/bgts/home "GTS")
+- [GTS Discord server](https://discord.gg/3mGC3HB)
+- [GTS website](https://gtsosu.com/bgts/home)
 - Livestream
-  - [GTSosu](https://www.twitch.tv/gtsosu "Twitch")
-  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b "Twitch")
-- [Challonge bracket](https://challonge.com/BGTS2020 "Challonge")
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/48 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+  - [GTSosu](https://www.twitch.tv/gtsosu)
+  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
+- [Challonge bracket](https://challonge.com/BGTS2020)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/48) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### All Stars
 
-**[Download the mappack here! (84 MB)](https://mega.nz/file/449wgYZR#Mp7eSTZkUWGd30OCWJpaK55dV0evvzz8U8AmGK-5auM "MEGA")**
+**[Download the mappack here! (84 MB)](https://mega.nz/file/449wgYZR#Mp7eSTZkUWGd30OCWJpaK55dV0evvzz8U8AmGK-5auM)**
 
 - NoMod
   - [Mrs. GREEN APPLE - Inferno (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/1146346#taiko/2396917)
@@ -202,7 +202,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (84 MB)](https://mega.nz/file/kh9GlA4Y#s0q3GEDUG0xrInRULo3aKRONdH0aUS8iC4MjDVea1C0 "MEGA")**
+**[Download the mappack here! (84 MB)](https://mega.nz/file/kh9GlA4Y#s0q3GEDUG0xrInRULo3aKRONdH0aUS8iC4MjDVea1C0)**
 
 - NoMod
   - [Usada Pekora - Discommunication Alien (eiri-) \[Oni Peko\]](https://osu.ppy.sh/beatmapsets/1260310#taiko/2633375)
@@ -232,7 +232,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (91 MB)](https://mega.nz/file/twVljKLT#RtKDRxr-aWeaQqzgHjvOzzVA2MJpxygRS2xpTf22azQ "MEGA")**
+**[Download the mappack here! (91 MB)](https://mega.nz/file/twVljKLT#RtKDRxr-aWeaQqzgHjvOzzVA2MJpxygRS2xpTf22azQ)**
 
 - NoMod
   - [Yorushika - Itte. (Hivie) \[Muzukashii.\]](https://osu.ppy.sh/beatmapsets/1127175#taiko/2355095)
@@ -262,7 +262,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (85 MB)](https://mega.nz/file/phlgQCAR#6VzRHga1ssFCXXUMmNREmmNFo4qV7R6rSwIsyC1KOS8 "MEGA")**
+**[Download the mappack here! (85 MB)](https://mega.nz/file/phlgQCAR#6VzRHga1ssFCXXUMmNREmmNFo4qV7R6rSwIsyC1KOS8)**
 
 - NoMod
   - [ginkiha feat. TEA - Neon Tetra (Gamelan4) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1123529#taiko/2347777)
@@ -292,7 +292,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (63 MB)](https://mega.nz/file/ohMHSACC#p7v8LpnFr6a_jG8xKWHfgB-89v0cd2qPntrtKR2t0ac "MEGA")**
+**[Download the mappack here! (63 MB)](https://mega.nz/file/ohMHSACC#p7v8LpnFr6a_jG8xKWHfgB-89v0cd2qPntrtKR2t0ac)**
 
 - NoMod
   - [Nakanojojo - Bittersweet (feat. Kuishinboakachan a.k.a Kiato) (qoot8123) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/847323#taiko/1772047)
@@ -318,7 +318,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (75 MB)](https://mega.nz/file/oh8kAYiT#6hr2Cva1iNf9QMEVzBr9PW6ZHlFhboV8SxCxNg66u5I "MEGA")**
+**[Download the mappack here! (75 MB)](https://mega.nz/file/oh8kAYiT#6hr2Cva1iNf9QMEVzBr9PW6ZHlFhboV8SxCxNg66u5I)**
 
 - NoMod
   - [lily white - Binetsu kara Mystery (Nardoxyribonucleic) \[Jik's Muzukashii\]](https://osu.ppy.sh/beatmapsets/217642#taiko/512332)
@@ -344,7 +344,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (83 MB)](https://mega.nz/file/5sFGQJRZ#JhFHe7SpucrcrkE6-n6nyxTteK_hxvP7umjLFPxLJ6o "MEGA")**
+**[Download the mappack here! (83 MB)](https://mega.nz/file/5sFGQJRZ#JhFHe7SpucrcrkE6-n6nyxTteK_hxvP7umjLFPxLJ6o)**
 
 - NoMod
   - [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[OniJAM's Muzukashii\]](https://osu.ppy.sh/beatmapsets/122342#taiko/361488)
@@ -370,7 +370,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the mappack here! (71 MB)](https://mega.nz/file/8wlxUKSY#Uh6XZdznW68cGIHS03sA5GYDIDbmRdShY27zVg52RfU "MEGA")**
+**[Download the mappack here! (71 MB)](https://mega.nz/file/8wlxUKSY#Uh6XZdznW68cGIHS03sA5GYDIDbmRdShY27zVg52RfU)**
 
 - NoMod
   - [PSYQUI - Education (Genjuro) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1119099#taiko/2337465)
@@ -395,7 +395,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (20 MB)](https://mega.nz/file/lxdC0BRL#zsPEu1oT8XIiNBCl_fzQ92lwMM2jJ0Lyyav34MACYPM "MEGA")**
+**[Download the mappack here! (20 MB)](https://mega.nz/file/lxdC0BRL#zsPEu1oT8XIiNBCl_fzQ92lwMM2jJ0Lyyav34MACYPM)**
 
 - NoMod
   - [Memme - Pandemonium (Raiden) \[Skull Kid's Futsuu\]](https://osu.ppy.sh/beatmapsets/922918#taiko/2566142)
@@ -668,7 +668,7 @@ Sunday, 13 December 2020:
 
 ### Qualifiers
 
-- More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1MrHZx9Ca1RHoq2ze6X0Ol3xYMF7hLtcxC3SM9JusBlM/edit "Google Sheets")
+- More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1MrHZx9Ca1RHoq2ze6X0Ol3xYMF7hLtcxC3SM9JusBlM/edit)
 - The position earned during Qualifiers was used as seedings in Group Stage
 - Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 

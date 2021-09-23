@@ -4,7 +4,7 @@
 
 **Kontributor Komunitas** adalah orang-orang yang meluangkan waktunya untuk melayani komunitas osu! dengan pengorbanan diri mereka sendiri - alat dan fitur yang banyak dari kita anggap remeh namun berguna hingga hari ini. Pengguna ini diberi lencana sebagai bukti atas kontribusi mereka yang telah melakukan sesuatu bagi seluruh komunitas osu!.
 
-Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), yang merupakan anggota osu!team yang sudah pensiun, lencana Kontributor Komunitas ini diberikan kepada *freelancer* yang telah melampaui ekspektasi dan tugas yang diberikan demi meningkatkan osu! dan komunitasnya.
+Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), yang merupakan anggota tim inti osu! yang sudah pensiun, lencana Kontributor Komunitas ini diberikan kepada *freelancer* yang telah melampaui ekspektasi dan tugas yang diberikan demi meningkatkan osu! dan komunitasnya.
 
 ## 2013
 

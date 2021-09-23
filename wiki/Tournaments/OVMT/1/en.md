@@ -43,14 +43,14 @@ The osu! Vintage Map Tourney! was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/477968)
-- [Challonge](https://challonge.com/b6zz81ju "Challonge")
-- [Discord](https://discord.gg/UvwSefQ "Discord")
-- [Livestream](https://www.twitch.tv/mmi_ "Twitch")
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1AJjmh_BxCJBihbFnbWvFRbmpq1nLTjXVU0DvF8O0Ltg/edit#gid=1977560641 "Google Sheets")
+- [Challonge](https://challonge.com/b6zz81ju)
+- [Discord](https://discord.gg/UvwSefQ)
+- [Livestream](https://www.twitch.tv/mmi_)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1AJjmh_BxCJBihbFnbWvFRbmpq1nLTjXVU0DvF8O0Ltg/edit#gid=1977560641)
 
 ## Participants
 
-See the [participants sheet](https://docs.google.com/spreadsheets/d/1AJjmh_BxCJBihbFnbWvFRbmpq1nLTjXVU0DvF8O0Ltg/edit#gid=1312201255 "Google Sheets") for a list of all initial participants.
+See the [participants sheet](https://docs.google.com/spreadsheets/d/1AJjmh_BxCJBihbFnbWvFRbmpq1nLTjXVU0DvF8O0Ltg/edit#gid=1312201255) for a list of all initial participants.
 
 ## Podium
 

@@ -51,8 +51,8 @@ La competición ha concluido con el siguiente podio:
 
 ## Links
 
-- [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive "Twitch")
-- [Forma de registro](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI "Google Forms")
+- [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive)
+- [Forma de registro](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
 - [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/200185)
 
 ## Cuadro
@@ -119,11 +119,11 @@ La competición ha concluido con el siguiente podio:
 
 ## Mappools
 
-**[Todos los mapas del torneo pueden descargarse aquí](https://www.mediafire.com/download/4f58oh6oxxb75ws/CWC_Packs.zip "MediaFire")**
+**[Todos los mapas del torneo pueden descargarse aquí](https://www.mediafire.com/download/4f58oh6oxxb75ws/CWC_Packs.zip)**
 
 ### Finales
 
-**[Click aquí para descargar todos los mapas](https://www.mediafire.com/download/xtg49nkipcsl6gu/CWC_Finals.rar "MediaFire")**
+**[Click aquí para descargar todos los mapas](https://www.mediafire.com/download/xtg49nkipcsl6gu/CWC_Finals.rar)**
 
 - NoMod
   - [sakuzyo - AXION (DaxMasterix) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/57468#fruits/173222)
@@ -157,7 +157,7 @@ La competición ha concluido con el siguiente podio:
 
 ### Semifinales
 
-**[Click aquí para descargar todos los mapas](https://www.mediafire.com/download/c2o11bznoryz8wk/CWC_Semifinals.rar "MediaFire")**
+**[Click aquí para descargar todos los mapas](https://www.mediafire.com/download/c2o11bznoryz8wk/CWC_Semifinals.rar)**
 
 - NoMod
   - [goreshit - Satori De Pon! (eldnl) \[Fruitcore\]](https://osu.ppy.sh/beatmapsets/134990#fruits/338326)
@@ -191,7 +191,7 @@ La competición ha concluido con el siguiente podio:
 
 ### Cuartos de final
 
-**[Click aquí para descargar todos los mapas](https://www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar "MediaFire")**
+**[Click aquí para descargar todos los mapas](https://www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar)**
 
 - NoMod
   - [LeaF - MEPHISTO (Alumetorz) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/106212#fruits/298908)
@@ -225,7 +225,7 @@ La competición ha concluido con el siguiente podio:
 
 ### Octavos de final
 
-**[Click aquí para descargar todos los mapas](https://www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar "MediaFire")**
+**[Click aquí para descargar todos los mapas](https://www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar)**
 
 - NoMod
   - [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](https://osu.ppy.sh/beatmapsets/82282#fruits/242575)
@@ -259,7 +259,7 @@ La competición ha concluido con el siguiente podio:
 
 ### Fase de grupos
 
-**[Click aquí para descargar todos los mapas](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Grupo_Stage.rar "MediaFire")**
+**[Click aquí para descargar todos los mapas](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Grupo_Stage.rar)**
 
 - NoMod
   - [Rita - Princess Blood (Zweib) \[Insane\]](https://osu.ppy.sh/beatmapsets/94112#fruits/253528)
@@ -400,7 +400,7 @@ La competición ha concluido con el siguiente podio:
    1. El máximo de jugadores es 6.
    2. Tienes que especificar un capitán que representará al equipo.
 2. Cada equipo representa a un país. Tienes que formar un equipo con jugadores del mismo país.
-3. Para inscribirse [llena esta forma](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit "Google Forms"). Después, verifica tu registro [enviándole un PM a Loctav](https://osu.ppy.sh/home/messages/users/71366) títulado “CWC Registration”
+3. Para inscribirse [llena esta forma](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit). Después, verifica tu registro [enviándole un PM a Loctav](https://osu.ppy.sh/home/messages/users/71366) títulado “CWC Registration”
    - Los capitanes pueden cambiar el equipo [notificando a la organización](https://osu.ppy.sh/home/messages/users/71366).
    - Recibirás una confirmación en caso de que tu registro haya sido enviado exitosamente. Tu registro queda pendiente entonces.
 4. Para asegurarse de que los registros son válidos y serios, cada uno será controlado por la organización del torneo.

@@ -47,8 +47,8 @@ The osu!catch World Cup 2016 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/442617)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wl_-ovoojuvTLDeMRkFPqBdBdX0AAFZR60ysbNkk-S8/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wl_-ovoojuvTLDeMRkFPqBdBdX0AAFZR60ysbNkk-S8/pubhtml)**
 
 ## Participants
 
@@ -108,7 +108,7 @@ The osu!catch World Cup 2016 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (115 MB)](https://www.mediafire.com/download/g5lof1srmoxf81x/CWC_2016_Finals.rar "MediaFire")**
+**[Download the mappack here! (115 MB)](https://www.mediafire.com/download/g5lof1srmoxf81x/CWC_2016_Finals.rar)**
 
 - NoMod
   - [Hitori Tori - perthed again (yambabom remix) (CLSW) \[Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/347196#fruits/766249)
@@ -137,7 +137,7 @@ The osu!catch World Cup 2016 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (88 MB)](https://www.mediafire.com/download/keom45knuegmccd/CWC_2016_Semifinals.rar "MediaFire")**
+**[Download the mappack here! (88 MB)](https://www.mediafire.com/download/keom45knuegmccd/CWC_2016_Semifinals.rar)**
 
 - NoMod
   - Yooh - LegenD. (Flask) \[Len's OverdosE.\]
@@ -166,7 +166,7 @@ The osu!catch World Cup 2016 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (124 MB)](https://www.mediafire.com/download/qi1qfls8fi7p10d/CWC_2016_Quarterfinals.rar "MediaFire")**
+**[Download the mappack here! (124 MB)](https://www.mediafire.com/download/qi1qfls8fi7p10d/CWC_2016_Quarterfinals.rar)**
 
 - NoMod
   - [Seiryu - Ultramarine (ZiRoX) \[Spec's Abyss\]](https://osu.ppy.sh/beatmapsets/275991#fruits/635701)
@@ -195,7 +195,7 @@ The osu!catch World Cup 2016 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (137 MB)](https://www.mediafire.com/download/hl78p11alped115/CWC_2016_Round_of_16.rar "MediaFire")**
+**[Download the mappack here! (137 MB)](https://www.mediafire.com/download/hl78p11alped115/CWC_2016_Round_of_16.rar)**
 
 - NoMod
   - [M2U - Gravity (WildOne94) \[Rain collab\]](https://osu.ppy.sh/beatmapsets/310966#fruits/721170)
@@ -224,7 +224,7 @@ The osu!catch World Cup 2016 was run by various community members.
 
 ### Group stage
 
-**[Download the mappack here! (140 MB)](https://www.mediafire.com/download/zj5ayqd22x9cq30/CWC_2106_Group_Stage.rar "MediaFire")**
+**[Download the mappack here! (140 MB)](https://www.mediafire.com/download/zj5ayqd22x9cq30/CWC_2106_Group_Stage.rar)**
 
 - NoMod
   - [supercell - Hoshi ga Matataku Konna Yoru ni (\[Teichan\]) \[exam's Rain\]](https://osu.ppy.sh/beatmapsets/294042#fruits/668102)

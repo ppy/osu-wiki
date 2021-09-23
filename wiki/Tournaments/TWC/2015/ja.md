@@ -83,7 +83,7 @@ outdated: true
 ## リンク
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
-- [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive "Twitch")
+- [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive)
 
 ## ルールセット
 
@@ -145,7 +145,7 @@ outdated: true
 
 5. 続くステージはダブル・エリミネーションステージです。勝者は次のステージに、敗者は敗者枠に移動されます。
 
-6. [この図](https://puu.sh/bUq5V/f1066103b0.png "puush")を基にして、ステージは以下のように分けられます:
+6. [この図](https://puu.sh/bUq5V/f1066103b0.png)を基にして、ステージは以下のように分けられます:
 
    | ステージ | 試合 ID |
    | :-- | :-- |

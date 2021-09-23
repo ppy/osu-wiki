@@ -16,14 +16,14 @@ Les réunions sont généralement annoncées plus d'une semaine à l'avance dans
 
 ## Thèmes des réunions
 
-- 29/12/2019 : Responsabilités de la NAT - [Notes](https://docs.google.com/document/d/1THKiYwiRBY-7PW__itoDrpUVeH7cmr5_QNtNMlkbNNs/edit?usp=sharing "Document Google : (#1) Responsibilities of the NAT"), [Résumé](https://osu.ppy.sh/community/forums/topics/1006014)
-- 03/01/2020 : Promotion des membres de la NAT - [Notes](https://docs.google.com/document/d/1y3MAKp10Y-pAGDXqFIl9rKcd_Ym3WF3CjtDxPtY0-1k/edit?usp=sharing "Document Google : (#2) Promotion of NAT Members"), [Résumé](https://osu.ppy.sh/community/forums/topics/1006119)
-- 18/01/2020 : Évaluation de la candidature - [Notes](https://docs.google.com/document/d/1Q2MdQKEcCTXS7hYoFgmm9pPW8vcz4Wc_qCphTp8Bmlw/edit?usp=sharing "Document Google : (#3) Application Evaluation"), [Résumé](https://osu.ppy.sh/community/forums/topics/1012519)
-- 01/02/2020 : Rapports d'avancement et détails à régler - [Notes](https://docs.google.com/document/d/1grwhfegjiFhb52oEZZB5v5ryN0kKGX6X0n8X6zSLxco/edit?usp=sharing "Document Google : (#4) Progress Reports & Loose Ends")
-- 15/02/2020 : Évaluation actuelle des BN - [Notes](https://docs.google.com/document/d/1Zu_FFHG6nzMniCOzveNlxPEv2dx8xkoi95s5UEaNRkg/edit?usp=sharing "Document Google : (#5) Current BN Evaluation"), [Résumé](https://osu.ppy.sh/community/forums/topics/1023943)
-- 01/03/2020 : Cultiver les BN - [Notes](https://docs.google.com/document/d/12OCLF33v5-Z7a3pZ39IdrQXGrvPf6IkGyq0AUKDo9ZA/edit "Document Google : (#6) Cultivating BNs"), [Résumé](https://osu.ppy.sh/community/forums/topics/1040487)
-- 22/03/2020 : État du QAH et divers. - [Notes](https://docs.google.com/document/d/1yZwXXT8OSU1HsLw-oobE-7MKlq-PZ5uggnTN33kPxaE/edit?usp=sharing "Document Google : (#7) State of QAH & Misc"), [Résumé](https://osu.ppy.sh/community/forums/topics/1040456)
-- 11/04/2020 : Paramètres du genre et de la langue - [Notes](https://docs.google.com/document/d/13eCGWJuQ8hxdBTfqXoVgGhMBFwSZvaMZTuR1gK6lHtw/edit?usp=sharing "Document Google : (#8) Genre and Language settings"), [Résumé](https://osu.ppy.sh/community/forums/topics/1059659)
+- 29/12/2019 : Responsabilités de la NAT - [Notes](https://docs.google.com/document/d/1THKiYwiRBY-7PW__itoDrpUVeH7cmr5_QNtNMlkbNNs/edit?usp=sharing), [Résumé](https://osu.ppy.sh/community/forums/topics/1006014)
+- 03/01/2020 : Promotion des membres de la NAT - [Notes](https://docs.google.com/document/d/1y3MAKp10Y-pAGDXqFIl9rKcd_Ym3WF3CjtDxPtY0-1k/edit?usp=sharing), [Résumé](https://osu.ppy.sh/community/forums/topics/1006119)
+- 18/01/2020 : Évaluation de la candidature - [Notes](https://docs.google.com/document/d/1Q2MdQKEcCTXS7hYoFgmm9pPW8vcz4Wc_qCphTp8Bmlw/edit?usp=sharing), [Résumé](https://osu.ppy.sh/community/forums/topics/1012519)
+- 01/02/2020 : Rapports d'avancement et détails à régler - [Notes](https://docs.google.com/document/d/1grwhfegjiFhb52oEZZB5v5ryN0kKGX6X0n8X6zSLxco/edit?usp=sharing)
+- 15/02/2020 : Évaluation actuelle des BN - [Notes](https://docs.google.com/document/d/1Zu_FFHG6nzMniCOzveNlxPEv2dx8xkoi95s5UEaNRkg/edit?usp=sharing), [Résumé](https://osu.ppy.sh/community/forums/topics/1023943)
+- 01/03/2020 : Cultiver les BN - [Notes](https://docs.google.com/document/d/12OCLF33v5-Z7a3pZ39IdrQXGrvPf6IkGyq0AUKDo9ZA/edit), [Résumé](https://osu.ppy.sh/community/forums/topics/1040487)
+- 22/03/2020 : État du QAH et divers. - [Notes](https://docs.google.com/document/d/1yZwXXT8OSU1HsLw-oobE-7MKlq-PZ5uggnTN33kPxaE/edit?usp=sharing), [Résumé](https://osu.ppy.sh/community/forums/topics/1040456)
+- 11/04/2020 : Paramètres du genre et de la langue - [Notes](https://docs.google.com/document/d/13eCGWJuQ8hxdBTfqXoVgGhMBFwSZvaMZTuR1gK6lHtw/edit?usp=sharing), [Résumé](https://osu.ppy.sh/community/forums/topics/1059659)
 
 ### Sujets planifiés
 

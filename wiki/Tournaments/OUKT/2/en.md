@@ -45,8 +45,8 @@ The OUKT2 was run by various community members
 ## Links
 
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/190049)
-- [Challonge page](https://challonge.com/osuukST "Challonge")
-- [Livestream](https://www.twitch.tv/deathosaurus777 "Twitch")
+- [Challonge page](https://challonge.com/osuukST)
+- [Livestream](https://www.twitch.tv/deathosaurus777)
 
 ## Participants
 
@@ -73,7 +73,7 @@ The OUKT2 was run by various community members
 
 ### Finals
 
-**[Download the mappack here! (133 MB)](https://drive.google.com/open?id=1cl4gKpyoCieYGamW0-EkRBsl7nH1qGr5 "Google Drive")**
+**[Download the mappack here! (133 MB)](https://drive.google.com/open?id=1cl4gKpyoCieYGamW0-EkRBsl7nH1qGr5)**
 
 - NoMod
   - [FOLiACETATE - Heterochromia Iridis (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/106443#osu/279607)
@@ -101,7 +101,7 @@ The OUKT2 was run by various community members
 
 ### Semifinals
 
-**[Download the mappack here! (169 MB)](https://drive.google.com/open?id=11GveI2eZEhggGcm-LEh3OCbEIImz3fRE "Google Drive")**
+**[Download the mappack here! (169 MB)](https://drive.google.com/open?id=11GveI2eZEhggGcm-LEh3OCbEIImz3fRE)**
 
 - NoMod
   - [naotyu- - Her Majesty (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmapsets/52360#osu/160104)
@@ -129,7 +129,7 @@ The OUKT2 was run by various community members
 
 ### Quaterfinals
 
-**[Download the mappack here! (137 MB)](https://drive.google.com/open?id=12x_VzeQJqgpPiaKoL3AsMpdxhzd6sKPj "Google Drive")**
+**[Download the mappack here! (137 MB)](https://drive.google.com/open?id=12x_VzeQJqgpPiaKoL3AsMpdxhzd6sKPj)**
 
 - NoMod
   - [IOSYS - RE:Usatei (OzzyOzrock) \[Extra\]](https://osu.ppy.sh/beatmapsets/31343#osu/103051)
@@ -157,7 +157,7 @@ The OUKT2 was run by various community members
 
 ### Round of 16
 
-**[Download the mappack here! (123 MB)](https://drive.google.com/open?id=1dSi1kXLKyL31_0k9RkUSfE16IPPq9GQ1 "Google Drive")**
+**[Download the mappack here! (123 MB)](https://drive.google.com/open?id=1dSi1kXLKyL31_0k9RkUSfE16IPPq9GQ1)**
 
 - NoMod
   - [M2U - Nightmare (Kloyd) \[MX\]](https://osu.ppy.sh/beatmapsets/88616#osu/241431)
@@ -183,7 +183,7 @@ The OUKT2 was run by various community members
 
 ### Round of 32
 
-**[Download the mappack here! (167 MB)](https://drive.google.com/open?id=1oM-xSvenWv_yxa2OdUVV4alZn9KeWskh "Google Drive")**
+**[Download the mappack here! (167 MB)](https://drive.google.com/open?id=1oM-xSvenWv_yxa2OdUVV4alZn9KeWskh)**
 
 - NoMod
   - [L.E.D Vs. Yuuhei Satellite - Torikago no Houou (10nya) \[Another\]](https://osu.ppy.sh/beatmapsets/121989#osu/312282)
@@ -208,7 +208,7 @@ The OUKT2 was run by various community members
 
 ### Round of 64
 
-**[Download the mappack here! (124 MB)](https://drive.google.com/open?id=1IYeNRVsVFiPxat4aGrHIS9-JAxt-EJTT "Google Drive")**
+**[Download the mappack here! (124 MB)](https://drive.google.com/open?id=1IYeNRVsVFiPxat4aGrHIS9-JAxt-EJTT)**
 
 - NoMod
   - [sakuzyo - Neurotoxin (Maddy) \[Another\]](https://osu.ppy.sh/beatmapsets/41842#osu/131966)

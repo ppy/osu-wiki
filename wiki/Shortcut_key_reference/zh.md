@@ -32,8 +32,8 @@ tags:
 | `F10` | 禁用所有鼠标按键（鼠标滚轮仍可使用） |
 | `F12` | 截图，单击弹出的对话框以打开截图保存的文件夹 |
 | `Shift` + `F12` | 截图并上传至服务器分享，图片仍然会保存在本地，并在上传成功后自动在浏览器中显示截图 |
-| `Insert` | [老板键](https://baike.baidu.com/item/%E8%80%81%E6%9D%BF%E9%94%AE "老板键的百度百科")，最小化 osu! 至通知栏，并静音游戏所有声音 |
-| `Shift` + `F1` | 打开 [osu!status](https://twitter.com/osustatus "osu!status 的推特") （当网络错误时） |
+| `Insert` | [老板键](https://baike.baidu.com/item/%E8%80%81%E6%9D%BF%E9%94%AE)，最小化 osu! 至通知栏，并静音游戏所有声音 |
+| `Shift` + `F1` | 打开 [osu!status](https://twitter.com/osustatus) （当网络错误时） |
 | `Ctrl` + `O` | 快速打开设置菜单，在主菜单以外的地方无法进入偏移量（Offset）设置向导 |
 
 ## 主菜单

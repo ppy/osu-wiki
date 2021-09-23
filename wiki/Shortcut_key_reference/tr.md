@@ -28,8 +28,8 @@ Bu kısayollar her yerde çalışır:
 | `F10` | Tüm fare tuşlarını aç/kapa (her zaman etkin olan fare tekerleği hariç). |
 | `F12` | Ekran görüntüsü al. Ekran görüntüleri dosyasını açmak için iletiye tıkla. |
 | `Shift` + `F12` | Ekran görüntüsü al ve paylaşmak için sunucuya karşıya yükle. Ekran görüntüsü aynı zamanda yerelde de kaydedilecek. Bu ekran görüntünüzü web tarayıcınızda açacak. |
-| `Insert` | Bu [patron geldi tuşudur](https://en.wikipedia.org/wiki/Boss_key "Boss key on Wikipedia"). Oyun istemcisini bildirim çubuğuna küçült. Bu aynı zamanda oyunu susturur. |
-| `Shift` + `F1` | Web tarayıcısında [osu!status](https://twitter.com/osustatus "osu!status on Twitter") sayfasını aç. (Yalnızca bağlantı hatası oluştuğunda.) |
+| `Insert` | Bu [patron geldi tuşudur](https://en.wikipedia.org/wiki/Boss_key). Oyun istemcisini bildirim çubuğuna küçült. Bu aynı zamanda oyunu susturur. |
+| `Shift` + `F1` | Web tarayıcısında [osu!status](https://twitter.com/osustatus) sayfasını aç. (Yalnızca bağlantı hatası oluştuğunda.) |
 | `Ctrl` + `O` | Ayarlar yan çubuğunu aç. Ana menüde değilseniz offset sihirbazına giremezsiniz. |
 
 ## Ana menü

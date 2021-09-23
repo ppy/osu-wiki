@@ -21,7 +21,6 @@ Zwycięzcy [OWC 2020](/wiki/Tournaments/OWC/2020) otrzymali tytuł **osu! Champi
 - ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
 - ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650)
 - ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603)
-- ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
 Zwycięzcy [TWC 2021](/wiki/Tournaments/TWC/2021) otrzymali tytuł **osu!taiko Champion**:
@@ -41,13 +40,13 @@ Zwycięzcy [CWC 2021](/wiki/Tournaments/CWC/2021) otrzymali tytuł **osu!catch C
 - ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506)
 - ![][flag_KR] [Rells](https://osu.ppy.sh/users/7937519)
 
-Zwycięzcy [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) otrzymali tytuł **osu!mania Champion**:
+Zwycięzcy [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) otrzymali tytuł **osu!mania 4K Champion**:
 
 - ![][flag_BR] [Amerom](https://osu.ppy.sh/users/5691061)
-- ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387)
-- ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824)
+- ![][flag_BR] [Lenn](https://osu.ppy.sh/users/11236829)
+- ![][flag_BR] [LeMarcinho](https://osu.ppy.sh/users/13347579)
+- ![][flag_BR] [Liight00](https://osu.ppy.sh/users/13601876)
 - ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019)
-- ![][flag_BR] [Punnies](https://osu.ppy.sh/users/8700468)
 - ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363)
 
 ### Zwycięzcy oficjalnych konkursów w tworzeniu beatmap
@@ -68,13 +67,14 @@ Jedną z nagród w większości oficjalnych konkursów w tworzeniu beatmap jest 
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377)
 - ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378)
+- ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667)
 - ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611)
 - ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308)
 - ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804)
 - ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)
 - ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023)
 - ![][flag_AU] [m980](https://osu.ppy.sh/users/3288)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)¹
 - ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993)
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
@@ -85,6 +85,7 @@ Jedną z nagród w większości oficjalnych konkursów w tworzeniu beatmap jest 
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
 - ![][flag_LY] [Soul Evans](https://osu.ppy.sh/users/4490770)
+- ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405)
 - ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340)
 - ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
@@ -148,6 +149,7 @@ Nagrodą w konkursach osu!remix jest tytuł **osu!mixer** dla głównego zwycię
 | ![][flag_JP] [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
+| ![][flag_CA] [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
 | ![][flag_PH] [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
 | ![][flag_US] [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
 | ![][flag_ES] [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
@@ -237,7 +239,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | Elite Mapper |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) | Elite Nominator |
 | ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010) | osu! Champion |
-| ![][flag_BR] [Amerom](https://osu.ppy.sh/users/5691061) | osu!mania Champion |
+| ![][flag_BR] [Amerom](https://osu.ppy.sh/users/5691061) | osu!mania 4K Champion |
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | Featured Artist |
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
@@ -274,7 +276,6 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072) | Elite Mapper |
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | Elite Mapper |
 | ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073) | osu!taiko Champion |
-| ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387) | osu!mania Champion |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Elite Mapper |
 | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) | osu! Champion |
@@ -290,16 +291,19 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_RO] [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | Featured Artist |
 | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
+| ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | Elite Mapper |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
-| ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824) | osu!mania Champion |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Nominator II |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organizer |
+| ![][flag_BR] [LeMarcinho](https://osu.ppy.sh/users/13347579) | osu!mania 4K Champion |
+| ![][flag_BR] [Lenn](https://osu.ppy.sh/users/11236829) | osu!mania 4K Champion |
 | ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
 | ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
+| ![][flag_BR] [Liight00](https://osu.ppy.sh/users/13601876) | osu!mania 4K Champion |
 | ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | Elite Mapper |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
 | ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023) | Elite Mapper |
-| ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | osu!mania Champion |
+| ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | osu!mania 4K Champion |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | Elite Mapper |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Elite Mapper II |
@@ -319,10 +323,10 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ![][flag_FI] [PianoLuigi](https://osu.ppy.sh/users/9665915) | Elite Mapper |
 | ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792) | Elite Mapper: Aspirant |
-| ![][flag_BR] [Punnies](https://osu.ppy.sh/users/8700468) | osu!mania Champion |
 | ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506) | osu!catch Champion |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Elite Mapper |
+| ![][flag_CA] [Redside](https://osu.ppy.sh/users/16039046) | Featured Artist |
 | ![][flag_KR] [Rells](https://osu.ppy.sh/users/7937519) | osu!catch Champion |
 | ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883) | Elite Mapper |
 | ![][flag_PH] [rtnario](https://osu.ppy.sh/users/16222702) | Featured Artist |
@@ -334,7 +338,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574) | osu!mixer |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Elite Storyboarder |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
-| ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363) | osu!mania Champion |
+| ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363) | osu!mania 4K Champion |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | Elite Mapper |
 | ![][flag_US] [skymuted](https://osu.ppy.sh/users/7734050) | Featured Artist |
 | ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267) | Elite Mapper: Aspirant |
@@ -343,8 +347,8 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Elite Mapper: Aspirant |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
-| ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296) | osu! Champion |
 | ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) | osu!taiko Champion |
+| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Elite Mapper |
 | ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
 | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | osu!artist |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | Featured Artist |
@@ -363,6 +367,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazylia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
