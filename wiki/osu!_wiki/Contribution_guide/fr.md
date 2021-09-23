@@ -44,7 +44,7 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 
 3. Ce n'est pas vraiment un problème; autrement dit, si vous ne modifiez pas un fichier qui a déjà été modifié, il est peu probable que vous soyez en retard.
 
-4. Pour résoudre ce problème, voir [Ma branche est obsolète ! section de l'article sur les problèmes courants](/wiki/osu!_wiki/Contribution_guide/Common_Issues#ma-branche-n'est-plus-à-jour!).
+4. Pour résoudre ce problème, voir [Ma branche est obsolète ! section de l'article sur les problèmes courants](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
 5. Lorsque vous avez terminé l’étape 4, passez à [Modification en ligne ou localement](#edition-en-ligne-ou-localement).
 

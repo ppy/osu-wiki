@@ -44,7 +44,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 3. もし他の人によってすでに変更されたファイルを変更する予定がない場合、これはさほど大きな問題ではありません。
 
-4. これを解決するには、[My branch is out of date! section in the Common Issues article](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!)を読んでください。
+4. これを解決するには、[My branch is out of date! section in the Common Issues article](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)を読んでください。
 
 5. 4が完了したら、 [オンラインかローカルで編集する](#オンラインかローカルで編集する)へ続けてください。
 
