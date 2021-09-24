@@ -242,7 +242,7 @@ Sunday, 12 September 2021:
 5. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
    - Most points obtained.
    - Winner of the Tiebreaker.
-   - Players who Win By Default.
+   - Players who win by default.
    - Whether there are players who are disqualified from the tournament.
 6. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the Knock-out stage.
 
