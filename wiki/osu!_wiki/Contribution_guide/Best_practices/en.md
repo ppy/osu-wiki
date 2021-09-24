@@ -42,9 +42,9 @@ If you encountered any problems while using the GitHub tool or you want to overw
 
 ![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 
-## Making changes
+## Making edits
 
-Within your fork of the osu! wiki, you are free to make any edits and save them. **Commits** are individual "save points" of the repository. **Branches** are workspaces, which let you switch between multiple versions of the repository. To make your workflow easier and keep the history of the wiki clean and free from noise, follow these guidelines:
+Within your fork of the osu! wiki, you are free to make any changes and save them. **Commits** are individual "save points" of the repository. **Branches** are workspaces, which let you switch between multiple versions of the repository. To make your workflow easier and keep the history of the wiki clean and free from noise, follow these guidelines:
 
 - [Sync the `master` branch](#syncing-the-fork).
 - Always start the work by creating a new branch off `master`, and only keep your changes in there. Give it a meaningful name, such as `update-staff-log`.<!-- https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow is the explanation, but it doesn't really fit in here -->
@@ -71,7 +71,7 @@ There are two reasons for why a conflict could have happened:
 - You edited a file when your branch was out of date.
 - There was poor communication between you and another person, so you two were editing the same article but that person's changes were merged before yours (technically, this caused your edited files to become out of date).
 
-Depending on the severity of the conflicts, you may have two options to fix this.
+Depending on the severity of the conflicts, you have two options on how to fix this:
 
 1. If your pull request has the `Resolve conflicts` button, click on that. This will open a slightly different version of the web editor.
    1. GitHub will highlight the conflicting areas. Find one of them.
