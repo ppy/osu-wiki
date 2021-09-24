@@ -221,7 +221,7 @@ Sunday, 12 September 2021:
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, each player is required to have either the Indonesian flag displayed on their profile and a playcount of 3,000 or more in osu!catch.
+   - In order to be eligible to play in the tournament, each player is required to have the Indonesian flag displayed on their profile and a playcount of 3,000 or more in osu!catch.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. The Tournament Management will only account for a maximum of 32 players to take part in the tournament.
