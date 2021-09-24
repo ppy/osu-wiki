@@ -76,7 +76,7 @@ Depending on the severity of the conflicts, you have two options on how to fix t
 1. If your pull request has the `Resolve conflicts` button, click on that. This will open a slightly different version of the web editor.
    1. GitHub will highlight the conflicting areas. Find one of them.
    2. Everything from `<<<<<<<` to the `=======` is your changes, whereas everything from `=======` to `>>>>>>> master` is what's in the `ppy/master` branch.
-   3. From here, you will need to manually fix the conflict and delete the lines with the  `<<<<<<<`, `=======`, and `>>>>>>> master` markings.
+   3. From here, you will need to manually fix the conflict and delete the lines with the `<<<<<<<`, `=======`, and `>>>>>>> master` markings.
    4. Repeat the process for all conflicts.
    5. When completed, click `Mark as resolved` (this is only available when all conflicting parts of the file are resolved).
 2. If the `Resolve conflicts` button is blocked due to the conflicts being too complicated for GitHub, you are out of luck and will need to [update your branch](#syncing-the-fork) and make your changes again.
