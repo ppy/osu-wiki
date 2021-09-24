@@ -162,7 +162,7 @@ Saturday, 18 September 2021:
 | Upper | **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/91107817) |
 | Upper | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/9153772) | [#1](https://osu.ppy.sh/community/matches/91104776) |
 | Upper | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/91097712) |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ![][flag_ID]  | **5** | 0 | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | *win by default* |
+| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ![][flag_ID]  | **5** | 0 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | *win by default* |
 
 Sunday, 19 September 2021:
 
