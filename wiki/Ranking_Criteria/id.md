@@ -123,6 +123,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 ### Pedoman
 
 - **Jika sebuah lagu di-cover atau di-remix dan memiliki metadata yang berbeda dari lagu aslinya, gunakan akal sehat untuk menentukan apakah variasi tersebut adalah kesalahan atau pilihan artis yang disengaja.**
+- **Jika metadata tersedia dalam beberapa opsi, prioritas harus diberikan kepada opsi yang paling mudah dikenali dan dapat dilacak kembali ke lagu atau sumber aslinya.** Romanisasi dan terjemahan resmi lebih baik diletakkan ke bidang romanisasi selama mudah ditemukan dan dikenali secara umum.
 
 #### Teknis
 
