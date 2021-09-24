@@ -6,7 +6,7 @@ In case you need tips or advice during any stage, don't hesitate to ask in the `
 
 ## Areas of interest
 
-If you want to help, but don't know where to start, see [osu! wiki maintenance § Routines](/wiki/osu!_wiki/Maintenance#routines) for a list of tasks which need to be performed regularly, and for the ways to help other wiki editors. To familiarize yourself with the formatting language used on the wiki, check Adam Pritchard's [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+If you want to help, but don't know where to start, see [osu! wiki maintenance § Routines](/wiki/osu!_wiki/Maintenance#routines) for a list of tasks which need to be performed regularly, and for ways to help other wiki editors. To familiarise yourself with the formatting language used on the wiki, check Adam Pritchard's [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Editing the wiki
 
@@ -17,7 +17,7 @@ The osu! wiki articles are stored on [GitHub][osu_wiki]. To contribute, do the f
 0. [Create](https://github.com/signup) a GitHub account.
 1. Open the [`ppy/osu-wiki`][osu_wiki] repository and click `Fork` in the top-right corner to make a controlled copy of the wiki. To return to your fork, go to [`ppy/osu-wiki`][osu_wiki] and press `Fork` again.
 
-  - If you've made the fork some time ago, sync it according to [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
+  - If you've made a fork some time ago, sync it according to [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
 2. Read [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-changes) and perform necessary edits. While you are free to use any application of your choice, the osu! wiki has detailed instructions on two workflows:
 
@@ -28,13 +28,13 @@ The osu! wiki articles are stored on [GitHub][osu_wiki]. To contribute, do the f
 
 When you are done editing, take some time to proofread your work. Go through the following quick checklist:
 
-- **Tone of delivery**: the osu! wiki articles, with rare exceptions, must be written using the neutral register.
+- **Tone of delivery**: the osu! wiki articles, with rare exceptions, must be written using a neutral register.
 - **Style and grammar**: the articles should be clear, understandable, and require no significant mental effort from the reader. Be consistent and avoid overcomplicated or abrupt sentences. Use editors with built-in spell checkers, such as [Google Docs](https://docs.google.com), to expose typos and grammatical or syntax errors.
 - **[Content parity](/wiki/Article_styling_criteria/Formatting#content-parity)**: translations must contain the same information as the original articles (differences in punctuation, wording, or formatting are obviously expected). Instead of changing the contents of the translation, [open an issue](https://github.com/ppy/osu-wiki/issues/new) or an extra pull request for the original if you feel it is incomplete, inaccurate, or outdated.
 - **Structure and formatting**: preview your article with a tool such as [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) to make sure it looks exactly how you wanted it to be.<!-- TODO(TicClick): we really need an article on markup features specific to the osu! wiki-->
 - **All images and other non-text files** must be [under 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Screenshots** need to use the default osu! skin and [specific settings](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), including the maximum dimensions of 1280×720.
 
-For a complete list of rules, read [article styling criteria](/wiki/Article_styling_criteria).
+For a complete list of rules, read the [article styling criteria](/wiki/Article_styling_criteria).
 
 ## Pull request
 
