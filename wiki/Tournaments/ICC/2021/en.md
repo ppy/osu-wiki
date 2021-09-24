@@ -257,7 +257,7 @@ Sunday, 12 September 2021:
 4. Players who can compete in the next round are determined by:
    - In the Round of 16 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
    - In the Semifinals and the Finals, each player needs to win 7 points in order to win the match. (Best-of-13)
-   - Players who Win By Default.
+   - Players who win by default.
    - Whether there are players who are disqualified from the tournament.
 
 ### Match regulations
