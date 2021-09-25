@@ -214,7 +214,7 @@ Sunday, 12 September 2021:
    - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
 9. Lag is not a valid reason to nullify a beatmap.
 10. If any problems during the match occur, the Tournament Management will make a decision based on referee's report.
-11. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
+11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
     - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from the tournament altogether by the Tournament Management.
     - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
