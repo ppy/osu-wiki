@@ -209,7 +209,7 @@ Sunday, 12 September 2021:
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. If a player disconnects, it will be treated as if they had failed the beatmap.
-   - Disconnects that occur within a few seconds after the beatmap is started by the referee can be rematched.
+   - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 8. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
    - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
 9. Lag is not a valid reason to nullify a beatmap.
