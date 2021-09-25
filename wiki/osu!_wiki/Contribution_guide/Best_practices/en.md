@@ -49,7 +49,7 @@ Within your fork of the osu! wiki, you are free to make any changes and save the
 - [Sync the `master` branch](#syncing-the-fork).
 - Always start the work by creating a new branch off `master`, and only keep your changes in there. Give it a meaningful name, such as `update-staff-log`.<!-- https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow is the explanation, but it doesn't really fit in here -->
 - Commit your work when you've made reasonably sized changes. It's better to commit an article as a whole rather than 10 small edits.
-- **Use short and meaningful commit messages**, as they let others know what's in the box. Something like `rewrite the section about jump patterns` says a lot more than `Update en.md`.
+- **Use short and meaningful commit messages**, as they let others know what's in the box. Something like `Rewrite the section about jump patterns` says a lot more than `Update en.md`.
 
 ## Opening a pull request
 
