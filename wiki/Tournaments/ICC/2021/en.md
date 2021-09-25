@@ -120,7 +120,7 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Group stage
 
-**[Download the mappack here! (101 MB)](https://drive.google.com/u/0/uc?id=1bJFVnOkST8dFyFd_FgHMtHKiqM2bAsiE&export=download "Google Drive")**
+**[Download the mappack here! (101 MB)](https://drive.google.com/u/0/uc?id=1bJFVnOkST8dFyFd_FgHMtHKiqM2bAsiE&export=download)**
 
 - NoMod
   - [Hotaru Murasaki - Re:TrymenT (Kyuukai) \[SeaRasp's:InsanE\]](https://osu.ppy.sh/beatmapsets/563680#fruits/1199190)
