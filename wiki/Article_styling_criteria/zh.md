@@ -601,7 +601,6 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 ```markdown
 ![][flag_AU]
 
-[flag_AU]: /wiki/shared/flag/AU.gif
 ```
 
 如果图片仅被引用一次，则必须使用前者。而后者必须把变量赋值放在文章的结尾处。
@@ -956,3 +955,5 @@ October 25, 2016 (11:45 UTC)
 | Notice: | 请注意： |
 | Caution: | 请小心： |
 | Warning: | 警告： |
+
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"

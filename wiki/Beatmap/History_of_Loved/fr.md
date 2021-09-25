@@ -47,6 +47,6 @@ Après quelques tours du style de sondage originel, Toy a décidé d'utiliser un
 
 Le [Project Loved](/wiki/Project_Loved) est le système actuel utilisé pour transférer les maps vers la catégorie Loved. Vous trouverez plus de détails et d'informations sur comment rendre des beatmaps éligibles aux votes dans l'article wiki du Project Loved.   
 
-[flag_AU]: /wiki/shared/flag/AU.gif 
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

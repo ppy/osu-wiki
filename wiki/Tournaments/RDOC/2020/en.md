@@ -515,7 +515,7 @@ Friday, 21 August 2020:
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_GL]: /wiki/shared/flag/GL.gif "Greenland"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"

@@ -611,7 +611,6 @@ Il existe deux types de liens d'image : en ligne et de référence. Exemples :
 ```markdown
 ![][flag_AU]
 
-[flag_AU]: /wiki/shared/flag/AU.gif
 ```
 
 Les images doivent utiliser le style de lien en ligne. Les références aux liens de référence doivent être placées en bas de l'article.
@@ -780,3 +779,5 @@ Elles doivent être précédées et suivies d'une ligne vide. Les ruptures thém
 ```markdown
 ---
 ```
+
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
