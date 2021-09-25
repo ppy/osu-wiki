@@ -47,11 +47,11 @@ ICC 2021 is run by various osu! community members predominantly hailing from Ind
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSQgtDnGz_FA1vq4BaLElDgZUyw7fF2sZMsRBF8T9ke_Xg_v_AvqCUf46P6iSW8YvJIXvGYHC3FtCUC/pubhtml# "Google Sheets")**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSQgtDnGz_FA1vq4BaLElDgZUyw7fF2sZMsRBF8T9ke_Xg_v_AvqCUf46P6iSW8YvJIXvGYHC3FtCUC/pubhtml#)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1390980)
-- [Discord server](https://discord.gg/7g6TAj2 "Discord")
-- [Challonge brackets](https://challonge.com/ICC_2021 "Challonge")
-- [Livestream channel](https://www.twitch.tv/osuIndonesia/ "Twitch")
+- [Discord server](https://discord.gg/7g6TAj2)
+- [Challonge brackets](https://challonge.com/ICC_2021)
+- [Livestream channel](https://www.twitch.tv/osuIndonesia/)
 
 ## Participants
 
