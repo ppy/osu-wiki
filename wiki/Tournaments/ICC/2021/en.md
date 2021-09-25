@@ -230,7 +230,7 @@ Sunday, 12 September 2021:
 
 ### Group stage rules
 
-1. In the Group stage, all qualified players will be situated into different seeds based on considerations listed on [this table](https://cdn.discordapp.com/attachments/747506228577697973/884397385793564682/unknown.png). The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
+1. In the Group stage, all qualified players will be situated into different seeds based on considerations listed on [this table](https://cdn.discordapp.com/attachments/747506228577697973/884397385793564682/unknown.png). The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/) draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnouts after each map:
    - 1st place: **+2 points**
    - 2nd place: **+1 point**
