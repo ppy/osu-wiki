@@ -96,7 +96,7 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Round of 16
 
-**[Download the mappack here! (94 MB)](https://drive.google.com/u/0/uc?id=1n6zq2kuoN79QqndoptT5g1OBSFhLF4Hc&export=download "Google Drive")**
+**[Download the mappack here! (94 MB)](https://drive.google.com/u/0/uc?id=1n6zq2kuoN79QqndoptT5g1OBSFhLF4Hc&export=download)**
 
 - NoMod
   - [gi(a)rlish number - Bloom (Azunyan-) \[My Voice\]](https://osu.ppy.sh/beatmapsets/1373933#fruits/2840314)
