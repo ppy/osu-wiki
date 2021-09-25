@@ -25,7 +25,7 @@ From playing rhythm games to composing music for them, **tokiwa** is a Japanese 
 Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1496234) hosted by [Mocaotic](https://osu.ppy.sh/users/9487458) from the video above!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/202/Songs/tokiwa%20-%20Wasurena%20feat.%20Sennzai.mp3" type="audio/mpeg">
 </audio>
 
 ### Syuou Sange
@@ -33,7 +33,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1496234) hosted by 
 Explore this future bass classic through [an osu! map](https://osu.ppy.sh/beatmapsets/1387277) hosted by [Ayate](https://osu.ppy.sh/users/18319978) or [an osu!mania map](https://osu.ppy.sh/beatmapsets/1265840) hosted by [DarkistDeci](https://osu.ppy.sh/users/13360768)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/202/Songs/tokiwa%20-%20Syuou%20Sange.mp3" type="audio/mpeg">
 </audio>
 
 ### Memoirs feat. Aitsuki Nakuru
@@ -41,7 +41,7 @@ Explore this future bass classic through [an osu! map](https://osu.ppy.sh/beatma
 Try [the osu!taiko + osu!mania map](https://osu.ppy.sh/beatmapsets/976366) hosted by [_Kobii](https://osu.ppy.sh/users/6209713) that put **tokiwa** on the radar!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/202/Songs/tokiwa%20-%20Memoirs%20feat.%20Aitsuki%20Nakuru.mp3" type="audio/mpeg">
 </audio>
 
 ---
