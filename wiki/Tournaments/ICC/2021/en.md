@@ -72,7 +72,7 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Quarterfinals
 
-**[Download the mappack here! (105 MB)](https://drive.google.com/u/0/uc?id=1rdBRZtIkpWYC7rKyRsEnChvf_PPWeu1n&export=download "Google Drive")**
+**[Download the mappack here! (105 MB)](https://drive.google.com/u/0/uc?id=1rdBRZtIkpWYC7rKyRsEnChvf_PPWeu1n&export=download)**
 
 - NoMod
   - [Yorushika - Itte. (AIR) \[Hard\]](https://osu.ppy.sh/beatmapsets/1190533#fruits/2480520)
