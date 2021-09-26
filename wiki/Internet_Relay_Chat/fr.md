@@ -1,6 +1,6 @@
 # Internet Relay Chat
 
-*Pour plus d'informations, lire : [Internet Relay Chat (Wikipédia)](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)*
+*Pour plus d'informations, consultez : [Internet Relay Chat (Wikipédia)](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)*
 
 Le **Internet Relay Chat** (**IRC**) est un protocole de couche d'application utilisé pour chatter avec de nombreux clients en ligne.
 
