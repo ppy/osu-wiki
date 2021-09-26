@@ -8,6 +8,7 @@ tags:
   - 机器人账号
   - 聊天机器人
   - IRC 机器人
+no_native_review: true
 ---
 
 # 机器人账号
