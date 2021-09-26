@@ -367,7 +367,6 @@ La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mai
 
 ² La catégorie "Instrumentale" offre aux mappeurs un choix de cinq chansons différentes à mapper : Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, et roop - Chatblanc.
 
-
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
