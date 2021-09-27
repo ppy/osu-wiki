@@ -8,7 +8,7 @@ tags:
 
 ![NWT 2019 logo](img/logo.jpg)
 
-The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide 1v1 double-elimination osu! tournament hosted by ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264). It was the first installment of the nik's Tournaments series.
+The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide 1v1 double-elimination osu! tournament hosted by ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264). It was the first instalment of the nik's Tournaments series.
 
 ## Tournament schedule
 
@@ -27,9 +27,9 @@ The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide 1v1 double-elimi
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "NWT 2019 winner badge")
 
@@ -52,10 +52,10 @@ The nik's Winter Tour 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/842334)
-- [NT Discord server](https://discord.gg/wrwZWRS "Discord")
-- [Livestream](https://www.twitch.tv/niks_tournaments "Twitch")
-- [NWT 2019 Challonge brackets](https://challonge.com/NWT2019 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXkpCBB_gcPcEEOq93pmLHiOTUf_3n1LYju7NbGF61h5QK19CTuuP2BFBdaOPL-d2UWb06i6iD-wD/pubhtml "Google Sheets")**
+- [NT Discord server](https://discord.gg/wrwZWRS)
+- [Livestream](https://www.twitch.tv/niks_tournaments)
+- [NWT 2019 Challonge brackets](https://challonge.com/NWT2019)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaXkpCBB_gcPcEEOq93pmLHiOTUf_3n1LYju7NbGF61h5QK19CTuuP2BFBdaOPL-d2UWb06i6iD-wD/pubhtml)**
 
 ## Participants
 
@@ -80,7 +80,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the map pack here! (123 MB)](https://www.mediafire.com/file/9835f3t5z8xa3a0/Grand+Finals+Pool.zip "MediaFire")**
+**[Download the map pack here! (123 MB)](https://www.mediafire.com/file/9835f3t5z8xa3a0/Grand+Finals+Pool.zip)**
 
 - NoMod
   - [yuikonnu - Kakushigoto (AtHeoN) \[Asaiga's Extra\]](https://osu.ppy.sh/beatmapsets/436177#osu/1698115)
@@ -109,7 +109,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the map pack here! (103 MB)](https://www.mediafire.com/file/b1jjruemesunoxe/Semi+Finals+Pool.zip "MediaFire")**
+**[Download the map pack here! (103 MB)](https://www.mediafire.com/file/b1jjruemesunoxe/Semi+Finals+Pool.zip)**
 
 - NoMod
   - [Feryquitous feat. Aitsuki Nakuru - Kairikou (Ryuusei Aika) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/740862#osu/1562893)
@@ -135,7 +135,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the map pack here! (115 MB)](https://www.mediafire.com/file/8jip2t4vltq7qht/QF+Pool.zip "MediaFire")**
+**[Download the map pack here! (115 MB)](https://www.mediafire.com/file/8jip2t4vltq7qht/QF+Pool.zip)**
 
 - NoMod
   - [Asakura Momo - Ashita wa Kimi to. (domSaur) \[Tomorrow.\]](https://osu.ppy.sh/beatmapsets/748013#osu/1575968)
@@ -161,7 +161,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the map pack here! (119 MB)](https://www.mediafire.com/file/6par0x0hr7rerws/RO16+Pool.zip "MediaFire")**
+**[Download the map pack here! (119 MB)](https://www.mediafire.com/file/6par0x0hr7rerws/RO16+Pool.zip)**
 
 - NoMod
   - [Manami Numakura - Sakebe (Mishima Yurara) \[Mikii's Extra\]](https://osu.ppy.sh/beatmapsets/550344#osu/1451747)
@@ -187,7 +187,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the map pack here! (92 MB)](https://mega.nz/#!ejByjCBb!rIoNtWLzLrRlDoeBiBBV5xwqXq5PvnPiN1DbRAhj-bA "MEGA")**
+**[Download the map pack here! (92 MB)](https://mega.nz/#!ejByjCBb!rIoNtWLzLrRlDoeBiBBV5xwqXq5PvnPiN1DbRAhj-bA)**
 
 - NoMod
   - [The Winking Owl - Bloom (Shmiklak) \[Lokidoki's Another\]](https://osu.ppy.sh/beatmapsets/602408#osu/1321786)

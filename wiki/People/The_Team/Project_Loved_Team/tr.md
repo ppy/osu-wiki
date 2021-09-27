@@ -8,7 +8,9 @@ tags:
 
 # Project Loved Takımı
 
-**Project Loved Takımı**, [beatmaplerin](/wiki/Beatmap) [Sevilen](/wiki/Beatmap/Category#loved) kategorisine eklenmesini sağlayan oylama platformu olan [Project Loved](/wiki/Project_Loved)'ı yöneten osu! topluluğu üyeleridir.
+**Project Loved Takımı**, [beatmaplerin](/wiki/Beatmap) [Sevilen](/wiki/Beatmap/Category#loved) kategorisine eklenmesini sağlayan oylama platformu olan [Project Loved](/wiki/Project_Loved)'ı yöneten osu! topluluğu üyeleridir. Onlar, forumlarda şeker pembesi olan isim renkleri ve `LVD` yazan kullanıcı grubu rozetleri ile ayırt edilirler.
+
+[Project Loved grup sayfası](https://osu.ppy.sh/groups/31) tüm takım üyelerini listeler.
 
 ## Kaptanlar
 
@@ -18,15 +20,18 @@ Project Loved Takımının çoğunluğunu her bir [oyun modunun](/wiki/Game_mode
 
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983)
+- ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 - ![][flag_US] [Wixonater](https://osu.ppy.sh/users/10083084)
 
 ### osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
+- ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910)
+- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
-- ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 
 ### osu!catch
 
@@ -37,18 +42,17 @@ Project Loved Takımının çoğunluğunu her bir [oyun modunun](/wiki/Game_mode
 
 ### osu!mania
 
+- ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
-- ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
-- ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
 - ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
-- ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 
 ## Koordinatörler
 
 Koordinatörler temel olarak Project Loved'ın düzgünce işlemesi için tüm kaptanların bir uyum içerisinde çalışıp çalışmadıklarından sorumludurlar. Onlar haber ve forum gönderilerini yazarlar, araç-gereçleri idare ederler, ve Sevilen kategorisiyle ilgili tartışmaların moderasyonunda yardımcı olurlar.
 
 - ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
+- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
 
 ## Beatmap metaverisi denetçileri
 
@@ -60,8 +64,19 @@ Metaveri denetçileri oylamaya sunulacak her bir mapi kontrol eder, ve mapperlar
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
+- ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
-## Emekliler
+## Beatmap içeriği moderatörleri
+
+İçerik moderatörleri, kendilerini oylamaya sürülecek olan beatmaplerde bulunan görsel ve işitsel içerikleri denetlemeye adamış [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) ve [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) üyelerinden oluşur.
+
+- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
+- ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437)
+
+## Emekli üyeler
+
+Aşağıda listelenen kullanıcılar bir zamanlar Project Loved Takımının bir parçasıydı.
 
 ### Koordinatörler
 
@@ -91,6 +106,7 @@ Metaveri denetçileri oylamaya sunulacak her bir mapi kontrol eder, ve mapperlar
 - ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767)
 - ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
+- ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 - ![][flag_FR] [Yuzeyun](https://osu.ppy.sh/users/481582)
 
 ### osu!catch kaptanları
@@ -103,11 +119,13 @@ Metaveri denetçileri oylamaya sunulacak her bir mapi kontrol eder, ve mapperlar
 
 ### osu!mania kaptanları
 
-- ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
+- ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852)
+- ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992)
 - ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
+- ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 - ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707)
 - ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612)
 - ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811)
@@ -120,13 +138,14 @@ Metaveri denetçileri oylamaya sunulacak her bir mapi kontrol eder, ve mapperlar
 ## Ek bilgiler
 
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) orijinal kaptanlar takımını Eylül 2017'de, daha sonra Project Loved ismini alacak olan [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) sistemiyle birlikte oluşturdu. 2019'un sonlarına dek, tüm projeyi gözlemledi ve yönetti.
-- Web sitesinde grup ID'si 31 olan bir Project Loved kullanıcı grubu bulunmaktadır, ancak liste herkese açık değildir. Bu liste [Project Loved forumunun](https://osu.ppy.sh/community/forums/120) moderasyon yetkileri ve beatmaplerin Sevilen kategorisine yükseltilmesinde kullanılır.
+- 28 Nisan 2021 tarihinden önce, [Project Loved grup sayfası](https://osu.ppy.sh/groups/31) herkese açık değildi ve yalnızca yönetimsel amaçlar için kullanılmaktaydı. An itibariyle bu sayfa herkese açık bir şekilde mevcut.
   - 16 Nisan 2021 tarihine kadar bu grupta yalnızca ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ve ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) bulunmaktaydı. Artık Project Loved Takımının tamamı bu grubun birer üyesidir.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Şili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Çin"
 [flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ekvador"
 [flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
 [flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
 [flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
@@ -142,5 +161,7 @@ Metaveri denetçileri oylamaya sunulacak her bir mapi kontrol eder, ve mapperlar
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusya Federasyonu"
 [flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunus"
+[flag_TR]: /wiki/shared/flag/TR.gif "Türkiye"
 [flag_TW]: /wiki/shared/flag/TW.gif "Tayvan"
 [flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"

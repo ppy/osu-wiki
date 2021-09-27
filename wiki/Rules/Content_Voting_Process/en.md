@@ -18,7 +18,7 @@ The voting is tallied using a simple cascading system as described below:
 - If the merged vote is 70% yes or above, the content is considered acceptable and is allowed to be used.
 - If the merged vote is below 70% yes, the content is judged to be not allowed for use and must be removed and changed immediately.
 
-Once a result has been achieved, the outcome is **final** and cannot be contested by any means save for intervention from the osu!team.
+Once a result has been achieved, the outcome is **final** and cannot be contested by any means save for intervention from the [support team](/wiki/People/The_Team/Account_support_team).
 
 ### Examples
 

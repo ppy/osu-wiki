@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2020 logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2020** (***RDOC 2020***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It was the sixth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2020** (***RDOC 2020***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It was the sixth instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -27,9 +27,9 @@ The **Royal Danish osu!Cup 2020** (***RDOC 2020***) was a Danish 1v1 double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 14 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 14 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
 
 ![](img/badge.png "RDOC 2020 winner badge")
 
@@ -43,7 +43,7 @@ The Royal Danish osu!Cup 2020 was run by various community members.
 | Mappool selector | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
 | Referee | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020) |
 | Streamer | ![][flag_DK] [Alberte](https://osu.ppy.sh/users/7395529), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Marco PoIo](https://osu.ppy.sh/users/10650901), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204) |
-| Commentator | ![][flag_DK] [Amanda](https://osu.ppy.sh/users/2678812), ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_DK] [Dralle](80988), ![][flag_DK] [Marco PoIo](https://osu.ppy.sh/users/10650901), ![][flag_DK] [MinecraftSteve](https://osu.ppy.sh/users/9476042), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020), ![][flag_GB] [Signature](https://osu.ppy.sh/users/13092025), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Commentator | ![][flag_DK] [Amanda](https://osu.ppy.sh/users/2678812), ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_DK] [Dralle](https://osu.ppy.sh/users/80988), ![][flag_DK] [Marco PoIo](https://osu.ppy.sh/users/10650901), ![][flag_DK] [MinecraftSteve](https://osu.ppy.sh/users/9476042), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020), ![][flag_GB] [Signature](https://osu.ppy.sh/users/13092025), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Designer | ![][flag_BR] [Hana Fubuki](https://osu.ppy.sh/users/4761039), ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
 | Wiki editor | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
 | Donator | ![][flag_DK] [Gabby](https://osu.ppy.sh/users/3727470), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204) |
@@ -51,10 +51,10 @@ The Royal Danish osu!Cup 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1097554)
-- [RDOC Discord server](https://discord.gg/JhBkmzE "Discord")
-- [Livestream](https://www.twitch.tv/royaldanishosucup "Twitch")
-- [Challonge bracket](https://challonge.com/rdoc2020 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19NJkGHDmvXprqqO1wr9g2mfkkepGYmW5nXSsd6KHMk4 "Google Sheets")**
+- [RDOC Discord server](https://discord.gg/JhBkmzE)
+- [Livestream](https://www.twitch.tv/royaldanishosucup)
+- [Challonge bracket](https://challonge.com/rdoc2020)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19NJkGHDmvXprqqO1wr9g2mfkkepGYmW5nXSsd6KHMk4)**
 
 ## Participants
 

@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2019 logo](img/logo.jpg)
 
-The **osu!mania 4K World Cup 2019** (***MWC 4K 2019***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2019** (***MWC 4K 2019***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2019** (***MWC 4K 2019***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2019-08-20/2019-09-03 |
 | Live drawings | 2019-09-14 (14:00 UTC) |
-| Group Stage | 2019-09-21/2019-09-22 |
+| Group stage | 2019-09-21/2019-09-22 |
 | Round of 16 | 2019-09-28/2019-09-29 |
 | Quarterfinals | 2019-10-05/2019-10-06 |
 | Semifinals | 2019-10-11/2019-10-13 |
@@ -50,9 +50,9 @@ The osu!mania 4K World Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/950440)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- [Challonge bracket](https://challonge.com/MWC4K2019 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLJYJ_IZMmXieVdGEdqBciVEwx8kqOeu6pzuTgtiMrNrwUmoZVQP1OKQf3BchgQyS0dh9i90TgbtRz/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/MWC4K2019)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLJYJ_IZMmXieVdGEdqBciVEwx8kqOeu6pzuTgtiMrNrwUmoZVQP1OKQf3BchgQyS0dh9i90TgbtRz/pubhtml)**
 
 ## Participants
 
@@ -104,7 +104,9 @@ The osu!mania 4K World Cup 2019 was run by various community members.
 | **G** | ![][flag_AU] Australia | ![][flag_JP] Japan | ![][flag_RU] Russian Federation | ![][flag_VE] Venezuela |
 | **H** | ![][flag_FR] France | ![][flag_SG] Singapore | ![][flag_MX] Mexico | ![][flag_NO] Norway |
 
-![MWC 4K 2019 podium](img/podium.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 4K 2019 podium")
 
 ## Mappools
 
@@ -194,7 +196,7 @@ The osu!mania 4K World Cup 2019 was run by various community members.
 - Tiebreaker
   - **[dj TAKA - Colors -sasakure.UK Futurelogic Remix- (Dergo) \[blue\]](https://osu.ppy.sh/beatmapsets/1033943#mania/2161813)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Mr.T - electro peaceful (-mint-) \[voltaic relaxation\]](https://osu.ppy.sh/beatmapsets/1031030#mania/2164238)
@@ -310,7 +312,7 @@ Sunday, 29 September 2019:
 | Chile ![][flag_CL] | 0 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/55201602) |
 | China ![][flag_CN] | 1 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/55201667) |
 
-### Group Stage
+### Group stage
 
 Saturday, 21 September 2019:
 

@@ -10,16 +10,16 @@ tags:
 
 ![OWC #2 logo](img/logo.png)
 
-The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cup 2011** (***OWC 2011***), was a single elimination country-based osu! tournament organized by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the second installment of the osu! World Cup.
+The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cup 2011** (***OWC 2011***), was a single elimination country-based osu! tournament organized by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the second instalment of the osu! World Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2011-10-29/2011-11-20 |
-| Group Stage week 1 | 2011-11-21/2011-11-27 |
-| Group Stage week 2 | 2011-11-28/2011-12-04 |
-| Group Stage week 3 | 2011-12-05/2011-12-11 |
+| Group stage week 1 | 2011-11-21/2011-11-27 |
+| Group stage week 2 | 2011-11-28/2011-12-04 |
+| Group stage week 3 | 2011-12-05/2011-12-11 |
 | *Winter break* | 2011-12-12/2012-01-01 |
 | Round of 16 | 2012-01-02/2012-01-08 |
 | Quarterfinals | 2012-01-09/2012-02-05 |
@@ -30,17 +30,17 @@ The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cu
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag for each team member, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter for each team member, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 
 ![](img/badge.jpg "OWC #2 winner badge")
 
-## Organization
+## Organisation
 
 The osu! World Cup #2 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |
@@ -52,25 +52,9 @@ The osu! World Cup #2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/65535)
-- [Livestream link (livestream.com)](https://livestream.com/osuworldcup "Livestream")
-- [Livestream link (own3d.tv)](https://www.own3d.tv/MetroAR "OWN3D")
-- [Pre-tournament interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit "Google Docs")
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [CheEZ](https://osu.ppy.sh/users/272117), [K i R i K a R u](https://osu.ppy.sh/users/139670), [moneto](https://osu.ppy.sh/users/242788), [Reisen Udongein](https://osu.ppy.sh/users/232942), [Remilia-Scarlet](https://osu.ppy.sh/users/602783)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [Sinch](https://osu.ppy.sh/users/360552), [tobaku2784](https://osu.ppy.sh/users/113855), *[val0108](https://osu.ppy.sh/users/243917)¹*) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *[gabaeba](https://osu.ppy.sh/users/867902)²*) |
-
-¹ *Denotes players that were being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
-
-² *Denotes players that were being brought in as a substitute player prior to the beginning of the knock-out stages.*
-
-![OWC #2 bracket](img/bracket.jpg)
+- [Livestream link (livestream.com)](https://livestream.com/osuworldcup)
+- [Livestream link (own3d.tv)](https://www.own3d.tv/MetroAR)
+- [Pre-tournament interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
 
 ## Participants
 
@@ -123,6 +107,22 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_DK] Denmark | ![][flag_NL] Netherlands | ![][flag_NO] Norway | ![][flag_HK] Hong Kong | ![][flag_FR] France | ![][flag_MY] Malaysia | ![][flag_BG] Bulgaria | ![][flag_AT] Austria |
 | ![][flag_DE] Germany | ![][flag_NZ] New Zealand | ![][flag_PL] Poland | ![][flag_KR] South Korea | ![][flag_LV] Latvia | ![][flag_RU] Russian Federation | ![][flag_SE] Sweden | ![][flag_TH] Thailand |
 | ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_UA] Ukraine | ![][flag_VN] Vietnam | ![][flag_PT] Portugal | ![][flag_UY] Uruguay | ![][flag_TW] Taiwan | ![][flag_US] United States |
+
+![](img/bracket.jpg "OWC #2 bracket")
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [CheEZ](https://osu.ppy.sh/users/272117), [K i R i K a R u](https://osu.ppy.sh/users/139670), [moneto](https://osu.ppy.sh/users/242788), [Reisen Udongein](https://osu.ppy.sh/users/232942), [Remilia-Scarlet](https://osu.ppy.sh/users/602783)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [Sinch](https://osu.ppy.sh/users/360552), [tobaku2784](https://osu.ppy.sh/users/113855), *[val0108](https://osu.ppy.sh/users/243917)¹*) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *[gabaeba](https://osu.ppy.sh/users/867902)²*) |
+
+¹ *Denotes players that were being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
+
+² *Denotes players that were being brought in as a substitute player prior to the beginning of the knock-out stages.*
 
 ## Mappools
 
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)**
 
-### Group Stage week 3
+### Group stage week 3
 
 - NoMod
   - [Ruru Ichinose - Hinarin's Relation of Misfortune (Mafiamaster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12344#osu/46486)
@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342)**
 
-### Group Stage week 2
+### Group stage week 2
 
 - NoMod
   - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#osu/82734)
@@ -249,7 +249,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
-### Group Stage week 1
+### Group stage week 1
 
 - NoMod
   - [Hatsune Miku - BadBye (goodbye) \[GoodBye\]](https://osu.ppy.sh/beatmapsets/30939#osu/101916)
@@ -269,7 +269,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021)**
 
-## Match Results
+## Match results
 
 ### Finals
 
@@ -345,7 +345,7 @@ Friday, 13 January 2012:
 | --: | :-: | :-: | :-- | :-- |
 | ![][flag_BR] **Brazil** | **3** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/2385313) |
 
-### Group Stage (Week 3)
+### Group stage week 3
 
 Saturday, 10 December 2011:
 
@@ -383,7 +383,7 @@ Sunday, 18 December 2011:
 | H | ![][flag_AR] **Argentina** | **3** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/2206788) |
 | G | ![][flag_BR] **Brazil** | **3** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/2243425) |
 
-### Group Stage (Week 2)
+### Group stage week 2
 
 Saturday, 3 December 2011:
 
@@ -426,7 +426,7 @@ Saturday, 10 December 2011:
 | D | ![][flag_CA] **Canada** | **3** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/2159276) |
 | H | ![][flag_AT] Austria | 1 | **3** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/2161204) |
 
-### Group Stage (Week 1)
+### Group stage week 1
 
 Saturday, 19 November 2011:
 
@@ -551,7 +551,7 @@ Time Zone: (...)
 ### Stage instructions
 
 1. In the Group Stage, the teams will be divided into 8 groups of 4 teams at random.
-   - To ensure fairness, the drawing process will be [publicly livestreamed](http://www.livestream.com/natteke "Livestream").
+   - To ensure fairness, the drawing process will be [publicly livestreamed](http://www.livestream.com/natteke).
 2. All the teams from each group will face each other over the course of three weeks.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.

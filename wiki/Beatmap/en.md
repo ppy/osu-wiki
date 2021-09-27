@@ -11,7 +11,7 @@ A **beatmap** (sometimes called *beatmapset*) is a set of game levels ([difficul
 - the song itself, stored in MP3 or Ogg format.
 - [background images](/wiki/Beatmap/Background), or a video, acting as a playfield.
 - [custom hitsounds](/wiki/Beatmapping/Hitsound) for arrangement and improved aural feedback (optional).
-- [storyboard](/wiki/Storyboards) with motion graphics and special effects, serving as a background story or theme for the song (optional).
+- [storyboard](/wiki/Storyboard) with motion graphics and special effects, serving as a background story or theme for the song (optional).
 - [custom skin](/wiki/Skinning), which changes the appearance of interface and gameplay elements (optional).
 
 *Note: Some of the visual and aural features of a beatmap can be disabled through the [visual settings](/wiki/Visual_Settings) overlay.*
@@ -75,10 +75,10 @@ Beatmaps that were ranked in the same month, or share the same theme (e.g. the s
 
 ### Unofficial sources
 
-There are also secondary sources of beatmaps, which are **neither checked nor operated by the osu!team**. However, they are available on the forums and appreciated by the community. Such sources include:
+There are also secondary sources of beatmaps, which are **neither checked nor operated by the osu! team**. However, they are available on the forums and appreciated by the community. Such sources include:
 
 - third-party beatmap mirrors hosted off a platform;
-- player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia"), such as BitTorrent.
+- player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer), such as BitTorrent.
 
 ## Beatmaps and community
 
@@ -115,4 +115,4 @@ osu! community regularly runs different contests in order to promote creativity 
 
 *Main page: [Featured Artists](/wiki/Featured_Artists)*
 
-Featured Artists is a community program by [osu!team](/wiki/People/The_Team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides pre-timed templates for mapping.
+Featured Artists is a community program by the [osu! team](/wiki/People/The_Team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides pre-timed templates for mapping.

@@ -8,7 +8,7 @@ tags:
 
 ![NSST 2019 logo](img/logo.jpg)
 
-The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a 1v1 worldwide double-elimination osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264). It was the second installment of the nik's Tournaments series.
+The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a 1v1 worldwide double-elimination osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264). It was the second instalment of the nik's Tournaments series.
 
 ## Tournament schedule
 
@@ -29,8 +29,8 @@ The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a 1v1 worldwide doub
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge-1.png "NSST 2019 Tier 1 winner badge") ![](img/badge-2.png "NSST 2019 Tier 2 winner badge")
 
@@ -53,14 +53,14 @@ The nik's Spring/Summer Tour 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/883340)
-- [NT Discord server](https://discord.gg/wrwZWRS "Discord")
-- [Livestream](https://twitch.tv/niks_tournaments "Twitch")
+- [NT Discord server](https://discord.gg/wrwZWRS)
+- [Livestream](https://twitch.tv/niks_tournaments)
 - Challonge brackets
-  - [Tier 1](https://challonge.com/NSST19T1 "Challonge")
-  - [Tier 2](https://challonge.com/NSST19T2 "Challonge")
+  - [Tier 1](https://challonge.com/NSST19T1)
+  - [Tier 2](https://challonge.com/NSST19T2)
 - Statistics sheet
-  - **[Tier 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vQPphrCZiOVJskzqs8611I5yqeeq_JN91UIcAeKJI5xjEihvEV9IJn8J1Kf9QBO1K1pyFvOkfYV3MQ2/pubhtml "Google Sheets")**
-  - **[Tier 2](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0rK_52GXfaYEiQs9DwR67l2PUV78x6MCyGkEQ4WxjFrMCe59Ox1jWDVxOE39Msl_YjMdQlOpqRfkC/pubhtml "Google Sheets")**
+  - **[Tier 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vQPphrCZiOVJskzqs8611I5yqeeq_JN91UIcAeKJI5xjEihvEV9IJn8J1Kf9QBO1K1pyFvOkfYV3MQ2/pubhtml)**
+  - **[Tier 2](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0rK_52GXfaYEiQs9DwR67l2PUV78x6MCyGkEQ4WxjFrMCe59Ox1jWDVxOE39Msl_YjMdQlOpqRfkC/pubhtml)**
 
 ## Participants
 
@@ -138,7 +138,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the map pack here! (139 MB)](https://www.mediafire.com/file/u5d66t534ws3zh0/Grand+Finals+Pool+Tier+1.zip "MediaFire")**
+**[Download the map pack here! (139 MB)](https://www.mediafire.com/file/u5d66t534ws3zh0/Grand+Finals+Pool+Tier+1.zip)**
 
 - NoMod
   - [Yousei Teikoku - Hades: The rise (Delis) \[Hardest\]](https://osu.ppy.sh/beatmapsets/662526#osu/1402392)
@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the map pack here! (141 MB)](http://www.mediafire.com/file/k05rh4m5rx0reol/Grand+Finals+pool+Tier+2.zip "MediaFire")**
+**[Download the map pack here! (141 MB)](http://www.mediafire.com/file/k05rh4m5rx0reol/Grand+Finals+pool+Tier+2.zip)**
 
 - NoMod
   - [Feryquitous - Strahv (Rumia-) \[Kotori's Resolution\]](https://osu.ppy.sh/beatmapsets/634143#osu/1345663)
@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-**[Download the map pack here! (97 MB)](https://www.mediafire.com/file/regog7hnrzrvhdg/Semi+Finals+Pool+Tier+1.zip "MediaFire")**
+**[Download the map pack here! (97 MB)](https://www.mediafire.com/file/regog7hnrzrvhdg/Semi+Finals+Pool+Tier+1.zip)**
 
 - NoMod
   - [ABSOLUTE CASTAWAY - Shinsou Shintouron (Lasse) \[Petal\]](https://osu.ppy.sh/beatmapsets/827743#osu/1734403)
@@ -226,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the map pack here! (99 MB)](https://www.mediafire.com/file/705ffj1dehcet3j/Semi+Finals+Pool+Tier+2.zip "MediaFire")**
+**[Download the map pack here! (99 MB)](https://www.mediafire.com/file/705ffj1dehcet3j/Semi+Finals+Pool+Tier+2.zip)**
 
 - NoMod
   - [\*namirin - Senaka Awase no Kuukyo (with Kakichoco) (jonathanlfj) \[Extra\]](https://osu.ppy.sh/beatmapsets/716249#osu/1513315)
@@ -254,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-**[Download the map pack here! (105 MB)](http://www.mediafire.com/file/asefqarbax0p4ti/Quarter+Finals+Pool+Tier+1.zip "MediaFire")**
+**[Download the map pack here! (105 MB)](http://www.mediafire.com/file/asefqarbax0p4ti/Quarter+Finals+Pool+Tier+1.zip)**
 
 - NoMod
   - [Hatsuki Yura - Shoujo to Ougonryuu no Monogatari (Garden) \[schoolboy's Extra\]](https://osu.ppy.sh/beatmapsets/719158#osu/1546635)
@@ -278,7 +278,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the map pack here! (78 MB)](http://www.mediafire.com/file/4k5aw7ydkdlh00l/Quarter+Finals+Pool+Tier+2.zip "MediaFire")**
+**[Download the map pack here! (78 MB)](http://www.mediafire.com/file/4k5aw7ydkdlh00l/Quarter+Finals+Pool+Tier+2.zip)**
 
 - NoMod
   - [Camellia feat. Nanahira - Tsukitourou (jonathanlfj) \[Nyquill's Extra\]](https://osu.ppy.sh/beatmapsets/383147#osu/1313971)
@@ -304,7 +304,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-**[Download the map pack here! (109 MB)](https://www.mediafire.com/file/15ckdbbj1enk0cc/RO16+Pool+For+Tier+1.zip "MediaFire")**
+**[Download the map pack here! (109 MB)](https://www.mediafire.com/file/15ckdbbj1enk0cc/RO16+Pool+For+Tier+1.zip)**
 
 - NoMod
   - [Kirisaki Chitoge (CV: Touyama Nao), Onodera Kosaki (CV: Hanazawa Kana) - Taisetsu no Tsukurikata (Asterisk Remix) (Gottagof4st) \[Heroine of Tomorrow\]](https://osu.ppy.sh/beatmapsets/915208#osu/1911436)
@@ -328,7 +328,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the map pack here! (77 MB)](https://www.mediafire.com/file/xzk941enbp8gu4f/RO16+Pool+For+Tier+2.zip "MediaFire")**
+**[Download the map pack here! (77 MB)](https://www.mediafire.com/file/xzk941enbp8gu4f/RO16+Pool+For+Tier+2.zip)**
 
 - NoMod
   - [Shiena Nishizawa - FUBUKI (Rizia) \[Blizzard\]](https://osu.ppy.sh/beatmapsets/288950#osu/651501)
@@ -354,7 +354,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-**[Download the map pack here! (109 MB)](https://www.mediafire.com/file/ynblwf6a6o488at/Group+Stage+Pool+Tier+1.zip "MediaFire")**
+**[Download the map pack here! (109 MB)](https://www.mediafire.com/file/ynblwf6a6o488at/Group+Stage+Pool+Tier+1.zip)**
 
 - NoMod
   - [sweet ARMS - Trust in you (CXu) \[Asfand's Extra\]](https://osu.ppy.sh/beatmapsets/346218#osu/1476592)
@@ -378,7 +378,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the map pack here! (135 MB)](https://www.mediafire.com/file/jp39b28s66ty0by/Group+Stage+Pool+Tier+2.zip "MediaFire")**
+**[Download the map pack here! (135 MB)](https://www.mediafire.com/file/jp39b28s66ty0by/Group+Stage+Pool+Tier+2.zip)**
 
 - NoMod
   - [Reol - Asymmetry (Skystar) \[-Leadercela-'s Insane\]](https://osu.ppy.sh/beatmapsets/310499#osu/698254)
@@ -404,7 +404,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 1
 
-**[Download the map pack here! (57 MB)](https://www.mediafire.com/file/24o36cagl7jhe39/Qualifiers+Pool+Tier+1.zip "MediaFire")**
+**[Download the map pack here! (57 MB)](https://www.mediafire.com/file/24o36cagl7jhe39/Qualifiers+Pool+Tier+1.zip)**
 
 - NoMod
   - [Naoki Miki (CV: Takahashi Rie) & Ebisuzawa Kurumi (CV: Ozawa Ari) - Unhappy End World (Yasaija 714) \[Extra\]](https://osu.ppy.sh/beatmapsets/823259#osu/1748071)
@@ -422,7 +422,7 @@ This competition has come to an end and resulted in the following podium:
 
 #### Tier 2
 
-**[Download the map pack here! (61 MB)](https://www.mediafire.com/file/1chruurslhjsht5/Qualifiers+Pool+Tier+2.zip "MediaFire")**
+**[Download the map pack here! (61 MB)](https://www.mediafire.com/file/1chruurslhjsht5/Qualifiers+Pool+Tier+2.zip)**
 
 - NoMod
   - [nano - Bull's Eye (Asphyxia) \[moph's Insane\]](https://osu.ppy.sh/beatmapsets/393986#osu/925838)
@@ -863,7 +863,7 @@ Monday, 20 May 2019:
 
 1. nik's Spring/Summer Tour 2019 is a **one-on-one** tournament using **double-elimination bracket** and **Score V2** as its map scoring.
 2. Rank ranges are explained as follows:
-   - Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank. More information about BWS can be accessed via this [link](https://docs.google.com/spreadsheets/d/1Y0P32sy7OS90CvLTD3P5lg58CHDDWVVOa851HnMLKNg/edit?usp=sharing "Google Sheets").
+   - Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank. More information about BWS can be accessed via this [link](https://docs.google.com/spreadsheets/d/1Y0P32sy7OS90CvLTD3P5lg58CHDDWVVOa851HnMLKNg/edit?usp=sharing).
    - For Tier 1, we are expecting between **#1 - #4,999.**
    - For Tier 2, we are expecting between **#5,000 - #25,000.**
    - Top 64 seeds from qualifiers for each tier will be put in groups of 4 based on rank.

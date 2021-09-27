@@ -11,11 +11,11 @@ Les critères de mise en forme d'article (ASC pour Article Styling Criteria) son
 
 Tous les articles doivent avoir une bonne grammaire, une bonne orthographe et une information correcte.
 
-Pour suggérer des changements aux critères de mise en forme d'article, [ouvrez une issue sur GitHub](https://github.com/ppy/osu-wiki/issues/new "GitHub").
+Pour suggérer des changements aux critères de mise en forme d'article, [ouvrez une issue sur GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
 ## Normes
 
-*Notes: Les articles ci-dessous utilisent [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") pour décrire les différents niveaux d'exigence.*
+*Notes: Les articles ci-dessous utilisent [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les différents niveaux d'exigence.*
 
 Les critères de mise en forme d'article sont divisés en deux articles:
 

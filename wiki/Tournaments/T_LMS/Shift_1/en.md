@@ -16,7 +16,7 @@ The **Taiko LMS: Shift Cup** (***TLMS:SC***) was a 3-on-3, 1v1 knock-out style o
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2018-04-11/2018-06-02 (09:00 UTC) |
-| Group Stage | 2018-06-09/2018-06-10 |
+| Group stage | 2018-06-09/2018-06-10 |
 | Round of 16 | 2018-06-16/2018-06-17 |
 | Quarterfinals | 2018-06-23/2018-06-24 |
 | Semifinals | 2018-06-30/2018-07-01 |
@@ -40,7 +40,7 @@ The Taiko LMS: Shift Cup was run by various osu!taiko community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
-| Map selector | ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
+| Mappool selector | ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Referee | ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_SE] [Eiuh](https://osu.ppy.sh/users/4653213), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008) |
 | Streamer | ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120) |
 | Commentator | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
@@ -50,10 +50,10 @@ The Taiko LMS: Shift Cup was run by various osu!taiko community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/744163)
-- [LMS Discord server](https://discord.gg/wEkYka "Discord")
-- [Livestream](https://www.twitch.tv/osutaikolive "Twitch")
-- [Challonge brackets and predictions](https://challonge.com/96vafjot "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhsgMXM2PvwMJbvPsY5jPPWVcIUg7birLFYMvvM2wAWkC_LSTh2QnhHs9Z4nnxR7BtzX5itW0RzjXS/pubhtml# "Google Sheets")**
+- [LMS Discord server](https://discord.gg/wEkYka)
+- [Livestream](https://www.twitch.tv/osutaikolive)
+- [Challonge brackets and predictions](https://challonge.com/96vafjot)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhsgMXM2PvwMJbvPsY5jPPWVcIUg7birLFYMvvM2wAWkC_LSTh2QnhHs9Z4nnxR7BtzX5itW0RzjXS/pubhtml#)**
 
 ## Participants
 
@@ -88,7 +88,7 @@ The Taiko LMS: Shift Cup was run by various osu!taiko community members.
 | **あ** | ![][flag_JP] **[ma\_r1n](https://osu.ppy.sh/users/9950613)**, ![][flag_JP] [Hori\_159](https://osu.ppy.sh/users/3023007), ![][flag_JP] [vzk](https://osu.ppy.sh/users/8264451), ![][flag_JP] [miki308](https://osu.ppy.sh/users/7632508) |
 | **迫真osu!taiko部** | ![][flag_JP] **[nekomusya1234](https://osu.ppy.sh/users/1382717)**, ![][flag_JP] [kazu0611](https://osu.ppy.sh/users/3784062), ![][flag_JP] [ton\_411](https://osu.ppy.sh/users/11981877) |
 
-### Groups
+## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
@@ -106,15 +106,15 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | V E R Y S T R O N G T E A M |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | あ |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **V E R Y S T R O N G T E A M** (![][flag_MY] **[Jerry](https://osu.ppy.sh/users/605973)**, ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364), ![][flag_AU] [rango](https://osu.ppy.sh/users/7728466), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **あ** (![][flag_JP] **[ma\_r1n](https://osu.ppy.sh/users/9950613)**, ![][flag_JP] [Hori\_159](https://osu.ppy.sh/users/3023007), ![][flag_JP] [vzk](https://osu.ppy.sh/users/8264451), ![][flag_JP] [miki308](https://osu.ppy.sh/users/7632508)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く** (![][flag_BR] **[Skull Kid](https://osu.ppy.sh/users/3044264)**, ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669), ![][flag_BR] [Brasil](https://osu.ppy.sh/users/3949268), ![][flag_BR] [Marm](https://osu.ppy.sh/users/5143353)) |
 
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (96 MB)](https://www.dropbox.com/s/1isvlrdonrvciwz/LMSS%20-%20Grand%20Finals.rar?dl=1 "Dropbox")**
+**[Download the mappack here! (96 MB)](https://www.dropbox.com/s/1isvlrdonrvciwz/LMSS%20-%20Grand%20Finals.rar?dl=1)**
 
 - NoMod
   - [PHQUASE - Plain Asia -PHQ remix- (TKS) \[Lunatic Asia\]](https://osu.ppy.sh/beatmapsets/737935#taiko/1557323)
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (119 MB)](https://www.dropbox.com/s/ixo2vqm023hn48d/LMSS%20-%20Finals.rar?dl=1 "Dropbox")**
+**[Download the mappack here! (119 MB)](https://www.dropbox.com/s/ixo2vqm023hn48d/LMSS%20-%20Finals.rar?dl=1)**
 
 - NoMod
   - [Shiron - Deadly Dolly Dance (Kqrth) \[Doll Play\]](https://osu.ppy.sh/beatmapsets/741753#taiko/1564797)
@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (78 MB)](https://www.dropbox.com/s/q0whrqgt0wz5p9g/LMSS%20-%20SF.rar?dl=1 "Dropbox")**
+**[Download the mappack here! (78 MB)](https://www.dropbox.com/s/q0whrqgt0wz5p9g/LMSS%20-%20SF.rar?dl=1)**
 
 - NoMod
   - [C-Show - U.N. Owen was her? (TO-HOLIC Mix) (climbb65588, Backfire) \[Climbb & Backfire's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/803406#taiko/1686221)
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/s81h5x5xm2gag6p/LMSS%20-%20QF.rar?dl=1 "Dropbox")**
+**[Download the mappack here! (89 MB)](https://www.dropbox.com/s/s81h5x5xm2gag6p/LMSS%20-%20QF.rar?dl=1)**
 
 - NoMod
   - [BABYMETAL - Distortion (IceOC) \[Destruction\]](https://osu.ppy.sh/beatmapsets/779002#taiko/1636023)
@@ -238,7 +238,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (91 MB)](https://www.dropbox.com/s/82xuf7gzs4pobtt/LMSS%20-%20R16.rar?dl=1 "Dropbox")**
+**[Download the mappack here! (91 MB)](https://www.dropbox.com/s/82xuf7gzs4pobtt/LMSS%20-%20R16.rar?dl=1)**
 
 - NoMod
   - [TAROLIN - world.[NOT].excuse(nxc); (applerss) \[world.runExecution();\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528896)
@@ -267,9 +267,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Rhapsody - Epicus Furor / Emerald Sword (Midnaait) \[Eternal Journey\]](https://osu.ppy.sh/beatmapsets/780381#taiko/1639326)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (95 MB)](https://www.dropbox.com/s/ud8ofjzlqrjazax/LMSS%20-%20Group%20Stage.rar?dl=1 "Dropbox")**
+**[Download the mappack here! (95 MB)](https://www.dropbox.com/s/ud8ofjzlqrjazax/LMSS%20-%20Group%20Stage.rar?dl=1)**
 
 - NoMod
   - [kors k - Echo Of Forever (Starger) \[Oni\]](https://osu.ppy.sh/beatmapsets/754193#taiko/1587862)
@@ -390,7 +390,7 @@ Sunday, 17 June 2018:
 | B1-G2 | Noko Pan Pan | 2 | **5** | **FLip-FLop** | [#1](https://osu.ppy.sh/community/matches/43418934) |
 | G1-B2 | **Pyon Pyon Usagi** | **5** | 0 | :b:erkele | [#1](https://osu.ppy.sh/community/matches/43420521) |
 
-### Group Stage
+### Group stage
 
 Saturday, 8 June 2018 and Sunday, 9 June 2018:
 

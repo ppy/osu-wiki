@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2015 logo](img/logo.png)
 
-The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth installment of the osu!catch World Cup.
+The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based 
 | --: | :-- |
 | Registration phase | 2015-04-02/2015-04-19 |
 | Live drawings | 2015-05-02 (14:00 UTC) |
-| Group Stage | 2015-05-09/2015-05-10 |
+| Group stage | 2015-05-09/2015-05-10 |
 | Round of 16 | 2015-05-16 |
 | Quarterfinals | 2015-05-23/2015-05-24 |
 | Semifinals | 2015-05-30/2015-05-31 |
@@ -27,9 +27,9 @@ The **osu! Catch the Beat World Cup 2015** (***CWC 2015***) was a country-based 
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, special user title, osu! merchandise |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge, special user title, osu! merchandise |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, unique profile badge |
 
 ![](img/badge.jpg "CWC 2015 winner badge") ![](img/badge2.jpg "CWC 2015 2nd place badge") ![](img/badge3.jpg "CWC 2015 3rd place badge")
 
@@ -48,9 +48,9 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/316279)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- [Team Captains showcase on YouTube](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp "YouTube")
-- **[Statistics sheet](https://owc.nicarim.pw/results/view/5 "Nicarim")**
+- [Livestream](https://www.twitch.tv/osulive)
+- [Team Captains showcase on YouTube](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp)
+- **[Statistics sheet](https://owc.nicarim.pw/results/view/5)**
 
 ## Participants
 
@@ -98,9 +98,11 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 | ![][flag_PH] Philippines | ![][flag_AR] Argentina | ![][flag_NL] Netherlands | ![][flag_SG] Singapore | ![][flag_MX] Mexico | ![][flag_HK] Hong Kong | ![][flag_JP] Japan | ![][flag_TH] Thailand |
 | ![][flag_FR] France | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_PL] Poland | ![][flag_CN] China | Indonesia ![][flag_ID] | ![][flag_DE] Germany | ![][flag_IT] Italy |
 
-![CWC 2015 podium](img/podium.jpg)
+![](img/bracket.jpg "CWC 2015 bracket")
 
-![CWC 2015 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "CWC 2015 podium")
 
 ## Mappools
 
@@ -108,7 +110,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (157 MB)](https://www.mediafire.com/download/7ywwybasjwgav0d/CWC_2015_finals.rar "MediaFire")**
+**[Download the mappack here! (157 MB)](https://www.mediafire.com/download/7ywwybasjwgav0d/CWC_2015_finals.rar)**
 
 - NoMod
   - [Zips - Reiwai Terrorism (Broccoly) \[Distortion\]](https://osu.ppy.sh/beatmapsets/101953#fruits/269773)
@@ -137,7 +139,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (114 MB)](https://www.mediafire.com/download/a4dctyubgyoakic/CWC_2015_Semifinals.rar "MediaFire")**
+**[Download the mappack here! (114 MB)](https://www.mediafire.com/download/a4dctyubgyoakic/CWC_2015_Semifinals.rar)**
 
 - NoMod
   - [Fear, and Loathing in Las Vegas - Swing It](https://osu.ppy.sh/beatmapsets/204159#fruits/482147)
@@ -166,7 +168,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (185 MB)](https://www.mediafire.com/download/6vo4z84r9cn68kv/CWC+2015+QuarterFinals.rar "MediaFire")**
+**[Download the mappack here! (185 MB)](https://www.mediafire.com/download/6vo4z84r9cn68kv/CWC+2015+QuarterFinals.rar)**
 
 - NoMod
   - [Linked Horizon - Guren no Yumiya (TV Size) (eldnl) \[Overdose\]](https://osu.ppy.sh/beatmapsets/103150#fruits/326464)
@@ -195,7 +197,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (137 MB)](https://www.mediafire.com/download/sn1i72g5fq1fhnb/CWC_2015_Round_of_16.rar "MediaFire")**
+**[Download the mappack here! (137 MB)](https://www.mediafire.com/download/sn1i72g5fq1fhnb/CWC_2015_Round_of_16.rar)**
 
 - NoMod
   - [KAZAHA - Sajin no kanata he (Drafura) \[Rain\]](https://osu.ppy.sh/beatmapsets/158706#fruits/388088)
@@ -222,9 +224,9 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 - Tiebreaker
   - **[Saiya - Remote Control (CLSW) \[Crystal Spec\]](https://osu.ppy.sh/beatmapsets/175623#fruits/423373)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (168 MB)](https://www.mediafire.com/download/2vadd4tk50y1mz1/CWC_2015_Group_Stage.rar "MediaFire")**
+**[Download the mappack here! (168 MB)](https://www.mediafire.com/download/2vadd4tk50y1mz1/CWC_2015_Group_Stage.rar)**
 
 - NoMod
   - [sasakure.UK - Jack-the-Ripper (Sprosive) \[JackHasCome!\]](https://osu.ppy.sh/beatmapsets/23907#fruits/81560)
@@ -333,7 +335,7 @@ Saturday, 16 May 2015:
 | **Germany** ![][flag_DE] | **5** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/16164371) |
 | Argentina ![][flag_AR] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/16166132) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 May 2015:
 

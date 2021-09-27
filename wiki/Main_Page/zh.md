@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -11,7 +13,7 @@ layout: main_page
 
 # 入门
 
-[欢迎](/wiki/Welcome) • [安装](/wiki/Installation) • [注册](/wiki/Registration) • [帮助中心](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[安装](/wiki/Installation) • [注册](/wiki/Registration) • [帮助中心](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,7 +42,7 @@ layout: main_page
 
 组件：[AiMod](/wiki/Beatmap_Editor/AiMod) • [节拍细分](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [间距锁定](/wiki/Beatmap_Editor/Distance_Snap) • [菜单](/wiki/Beatmap_Editor/Menu) • [故事板负载](/wiki/Beatmap_Editor/SB_Load) • [时间轴](/wiki/Beatmap_Editor/Timelines)
 
-[作图](/wiki/Beatmapping) • [难度分级](/wiki/Beatmap/Difficulty) • [作图风格](/wiki/Mapping_Techniques) • [故事板](/wiki/Storyboarding)
+[作图](/wiki/Beatmapping) • [难度分级](/wiki/Beatmap/Difficulty) • [作图风格](/wiki/Mapping_Techniques) • [故事板](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -81,7 +83,7 @@ layout: main_page
 
 # 关于 osu!wiki
 
-[网址地图](/wiki/Sitemap) • [贡献指南](/wiki/osu!_wiki_Contribution_Guide) • [文章风格规范](/wiki/Article_Styling_Criteria) • [新闻风格规范](/wiki/News_Styling_Criteria)
+[网址地图](/wiki/Sitemap) • [贡献指南](/wiki/osu!_wiki/Contribution_guide) • [文章风格规范](/wiki/Article_Styling_Criteria) • [新闻风格规范](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

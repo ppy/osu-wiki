@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2016 logo](img/logo.jpg)
 
-The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth installment of the osu!catch World Cup.
+The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch 
 | --: | :-- |
 | Registration phase | 2016-04-12/2016-04-30 |
 | Live drawings | 2016-05-15 (14:00 UTC) |
-| Group Stage | 2016-05-21/2016-05-22 |
+| Group stage | 2016-05-21/2016-05-22 |
 | Round of 16 | 2016-05-28 |
 | Quarterfinals | 2016-06-05 |
 | Semifinals | 2016-06-11/2016-06-12 |
@@ -37,7 +37,7 @@ The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch 
 
 The osu!catch World Cup 2016 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) |
@@ -47,8 +47,8 @@ The osu!catch World Cup 2016 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/442617)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wl_-ovoojuvTLDeMRkFPqBdBdX0AAFZR60ysbNkk-S8/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wl_-ovoojuvTLDeMRkFPqBdBdX0AAFZR60ysbNkk-S8/pubhtml)**
 
 ## Participants
 
@@ -96,9 +96,11 @@ The osu!catch World Cup 2016 was run by various community members.
 | ![][flag_ID] Indonesia | ![][flag_MX] Mexico | ![][flag_HK] Hong Kong | ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_SE] Sweden |
 | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_CL] Chile | ![][flag_FR] France | ![][flag_DE] Germany | ![][flag_AR] Argentina | ![][flag_CN] China |
 
-![CWC 2016 podium](img/podium.jpg)
+![](img/bracket.jpg "CWC 2016 bracket")
 
-![CWC 2016 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "CWC 2016 podium")
 
 ## Mappools
 
@@ -106,7 +108,7 @@ The osu!catch World Cup 2016 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-**[Download the mappack here! (115 MB)](https://www.mediafire.com/download/g5lof1srmoxf81x/CWC_2016_Finals.rar "MediaFire")**
+**[Download the mappack here! (115 MB)](https://www.mediafire.com/download/g5lof1srmoxf81x/CWC_2016_Finals.rar)**
 
 - NoMod
   - [Hitori Tori - perthed again (yambabom remix) (CLSW) \[Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/347196#fruits/766249)
@@ -135,7 +137,7 @@ The osu!catch World Cup 2016 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (88 MB)](https://www.mediafire.com/download/keom45knuegmccd/CWC_2016_Semifinals.rar "MediaFire")**
+**[Download the mappack here! (88 MB)](https://www.mediafire.com/download/keom45knuegmccd/CWC_2016_Semifinals.rar)**
 
 - NoMod
   - Yooh - LegenD. (Flask) \[Len's OverdosE.\]
@@ -164,7 +166,7 @@ The osu!catch World Cup 2016 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (124 MB)](https://www.mediafire.com/download/qi1qfls8fi7p10d/CWC_2016_Quarterfinals.rar "MediaFire")**
+**[Download the mappack here! (124 MB)](https://www.mediafire.com/download/qi1qfls8fi7p10d/CWC_2016_Quarterfinals.rar)**
 
 - NoMod
   - [Seiryu - Ultramarine (ZiRoX) \[Spec's Abyss\]](https://osu.ppy.sh/beatmapsets/275991#fruits/635701)
@@ -193,7 +195,7 @@ The osu!catch World Cup 2016 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (137 MB)](https://www.mediafire.com/download/hl78p11alped115/CWC_2016_Round_of_16.rar "MediaFire")**
+**[Download the mappack here! (137 MB)](https://www.mediafire.com/download/hl78p11alped115/CWC_2016_Round_of_16.rar)**
 
 - NoMod
   - [M2U - Gravity (WildOne94) \[Rain collab\]](https://osu.ppy.sh/beatmapsets/310966#fruits/721170)
@@ -220,9 +222,9 @@ The osu!catch World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[Halozy - Paranoid Lost (Kyuare) \[Lost Grapes\]](https://osu.ppy.sh/beatmapsets/307818#fruits/688531)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (140 MB)](https://www.mediafire.com/download/zj5ayqd22x9cq30/CWC_2106_Group_Stage.rar "MediaFire")**
+**[Download the mappack here! (140 MB)](https://www.mediafire.com/download/zj5ayqd22x9cq30/CWC_2106_Group_Stage.rar)**
 
 - NoMod
   - [supercell - Hoshi ga Matataku Konna Yoru ni (\[Teichan\]) \[exam's Rain\]](https://osu.ppy.sh/beatmapsets/294042#fruits/668102)
@@ -327,7 +329,7 @@ Saturday, 28 May 2016:
 | Mexico ![][flag_MX] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/25200513) |
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/25202284) |
 
-### Group Stage
+### Group stage
 
 Saturday, 21 May 2016:
 
@@ -463,8 +465,8 @@ Sunday, 22 May 2016:
    | Stage | Match ID |
    | :-- | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
-   | Quarter-finals | I, J, K, L & R, S, T, U |
-   | Semi-finals | M, N & V, W, X, Y, Z,AA |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z,AA |
    | Finals | O & AB, AC, AD, AE |
    | Grand Finals | P, Q |
 

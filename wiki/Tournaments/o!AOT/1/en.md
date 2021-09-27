@@ -8,7 +8,7 @@ tags:
 
 ![o!AOT logo](img/logo.jpg)
 
-The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). It was the first installment of the osu! Asia Oceania Tournament.
+The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). It was the first instalment of the osu! Asia Oceania Tournament.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian dou
 | Registration phase | 2019-06-10/2019-07-07 |
 | Live drawings | 2019-07-20 (19:00 UTC+7) |
 | Qualifiers | 2019-07-26/2019-07-28 |
-| Group Stage | 2019-08-02/2019-08-11 |
+| Group stage | 2019-08-02/2019-08-11 |
 | Round of 16 | 2019-08-17/2019-08-18 |
 | Quarterfinals | 2019-08-24/2019-08-25 |
 | Semifinals | 2019-08-30/2019-09-01 |
@@ -28,8 +28,8 @@ The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian dou
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "o!AOT winner badge")
 
@@ -40,7 +40,7 @@ The osu! Asia Oceania Tournament was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
-| Map selector | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_MY] [Sikey](https://osu.ppy.sh/users/343057), ![][flag_MY] [ZheVulture](https://osu.ppy.sh/users/6570008) |
+| Mappool selector | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_MY] [Sikey](https://osu.ppy.sh/users/343057), ![][flag_MY] [ZheVulture](https://osu.ppy.sh/users/6570008) |
 | Referee | ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_PH] [Hues](https://osu.ppy.sh/users/2367206), ![][flag_MY] [Kardshark](https://osu.ppy.sh/users/4724315), ![][flag_TH] [Koiyo](https://osu.ppy.sh/users/11373528), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_PH] [Kyoren](https://osu.ppy.sh/users/1266303), ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259), ![][flag_CN] [MyAngelJackWang](https://osu.ppy.sh/users/3665920), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_MY] [PurpleSatanWeed](https://osu.ppy.sh/users/6928574), ![][flag_TH] [reset](https://osu.ppy.sh/users/212879), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_MY] [ZheVulture](https://osu.ppy.sh/users/6570008) |
 | Streamer | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
 | Commentator | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_VN] [LMT](https://osu.ppy.sh/users/7262798), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047), ![][flag_SG] [Pencil-kun](https://osu.ppy.sh/users/4662795), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
@@ -51,9 +51,9 @@ The osu! Asia Oceania Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/919600)
-- [o!AOT Discord server](https://discord.gg/mZtHc5M "Discord")
-- [Livestream](https://www.twitch.tv/osuaot "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1mN_7WMteQKfBQi4vLbHFMI_g97oYjOnAsrz_TOT3E3w/edit "Google Sheets")**
+- [o!AOT Discord server](https://discord.gg/mZtHc5M)
+- [Livestream](https://www.twitch.tv/osuaot)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1mN_7WMteQKfBQi4vLbHFMI_g97oYjOnAsrz_TOT3E3w/edit)**
 
 ## Participants
 
@@ -119,14 +119,14 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (163 MB)](https://fuma.s-ul.eu/pDlyqhaj "s-ul")**
+**[Download the mappack here! (163 MB)](https://fuma.s-ul.eu/pDlyqhaj)**
 
 - NoMod
   - [xi - Last Resort (Kroytz) \[Real's GRAVITY\]](https://osu.ppy.sh/beatmapsets/800102#osu/1679794)
   - [xi - over the top (Reillia) \[Heaven\]](https://osu.ppy.sh/beatmapsets/851156#osu/1779343)
   - [YURRY CANON - Nadeshiko color Heart (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/682996#osu/1451733)
   - [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry) \[Neil x Sharu, Syzygy\]](https://osu.ppy.sh/beatmapsets/694402#osu/1469136)
-  - [ZAQ - Last Proof (Anmiy) \[Don't Give Up \[snap edit\]\]](http://puu.sh/EixH8/14cbdb0d70.osz "puush")
+  - [ZAQ - Last Proof (Anmiy) \[Don't Give Up \[snap edit\]\]](http://puu.sh/EixH8/14cbdb0d70.osz)
 - Hidden
   - [xi - Caramel Custard (nya10) \[Creme [edit ver.]\]](https://osu.ppy.sh/beatmapsets/1038181#osu/2170298)
   - [Meramipop - Secret Desire - Dyes Remix - (Skystar) \[Irregular\]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)
@@ -148,7 +148,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (102 MB)](https://fuma.s-ul.eu/uzzzkVHO "s-ul")**
+**[Download the mappack here! (102 MB)](https://fuma.s-ul.eu/uzzzkVHO)**
 
 - NoMod
   - [Hatsuki Yura - Kaguyahime (KwAIMSuckASFuk) \[Parade\]](https://osu.ppy.sh/beatmapsets/1014375#osu/2125073)
@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (111 MB)](https://fuma.s-ul.eu/H8unXHqn "s-ul")**
+**[Download the mappack here! (111 MB)](https://fuma.s-ul.eu/H8unXHqn)**
 
 - NoMod
   - [Kaneko Chiharu - WHITEOUT (Flask) \[HEAVENLY\]](https://osu.ppy.sh/beatmapsets/734944#osu/1551576)
@@ -206,10 +206,10 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1x-AD_XWpQQs6z5xVUwWal6iwbbsFPe0A/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1x-AD_XWpQQs6z5xVUwWal6iwbbsFPe0A/view?usp=sharing)**
 
 - NoMod
-  - [LiSA - ADAMAS (xChippy) \[Reality\]](http://puu.sh/E8W86/6de3f3cbbd.osz "puush")
+  - [LiSA - ADAMAS (xChippy) \[Reality\]](http://puu.sh/E8W86/6de3f3cbbd.osz)
   - [UNDEAD CORPORATION - Seven Colors (Realazy) \[Concerto\]](https://osu.ppy.sh/beatmapsets/537952#osu/1139787)
   - [Rain Man Ft. Sirah - Visionary (Consouls DnB Edit) (JrSzZ) \[Na na na na...\]](https://osu.ppy.sh/beatmapsets/863113#osu/1805438)
   - [D-Cee - CITRUS MONSTER (Hakurei Yoru) \[1112's Master\]](https://osu.ppy.sh/beatmapsets/537860#osu/1865292)
@@ -235,7 +235,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (121 MB)](https://drive.google.com/file/d/1BKoSNRuz5TnHcwTn35KjAW12fX4ZNCbG/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (121 MB)](https://drive.google.com/file/d/1BKoSNRuz5TnHcwTn35KjAW12fX4ZNCbG/view?usp=sharing)**
 
 - NoMod
   - [a\_hisa - Pastel Subliminal (My Angel Rize) \[Nanaka's Extra\]](https://osu.ppy.sh/beatmapsets/587286#osu/1251051)
@@ -256,15 +256,15 @@ This competition has come to an end and resulted in the following podium:
   - [omniboi - BonBon (Kyshiro) \[Ryo's Insane\]](https://osu.ppy.sh/beatmapsets/505729#osu/1092923)
   - [Kuraki Mai - Your Best Friend (Xinely) \[Together\]](https://osu.ppy.sh/beatmapsets/210114#osu/494368)
 - FreeMod
-  - [Black Hole - Pluto (Snow Note) \[Expert\]](https://bloodcat.com/osu/s/45074 "Bloodcat")
+  - [Black Hole - Pluto (Snow Note) \[Expert\]](https://bloodcat.com/osu/s/45074)
   - [LeaF - Calamity Fortune (Flower) \[Extra\]](https://osu.ppy.sh/beatmapsets/96103#osu/257793)
   - [Tonon - Shirayuki \~sirayuki\~ (yf\_bmp) \[Expert\]](https://osu.ppy.sh/beatmapsets/429316#osu/926381)
 - Tiebreaker
   - **[BABYMETAL - KARATE (Hysteria) \[Kyacchi Ni-Ju Ni\]](https://osu.ppy.sh/beatmapsets/505685#osu/1090998)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (102 MB)](https://fuma.s-ul.eu/HlCziwOy "s-ul")**
+**[Download the mappack here! (102 MB)](https://fuma.s-ul.eu/HlCziwOy)**
 
 - NoMod
   - [LiSA - Mitsu (Dailycare) \[schoolboy's Extra\]](https://osu.ppy.sh/beatmapsets/841534#osu/1761079)
@@ -288,7 +288,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (67 MB)](https://fuma.s-ul.eu/LejNA6fu "s-ul")**
+**[Download the mappack here! (67 MB)](https://fuma.s-ul.eu/LejNA6fu)**
 
 - NoMod
   - [A Skylit Drive - Pendulum (Fanteer) \[test\]](https://osu.ppy.sh/beatmapsets/680670#osu/1439169)
@@ -305,7 +305,7 @@ This competition has come to an end and resulted in the following podium:
   - [Ito Kanako - Skyclad no Kansokusha (Linada) \[-Tochi's Insane\]](https://osu.ppy.sh/beatmapsets/416129#osu/972844)
   - [Kuba Oms - All In All (Venix) \[Insane\]](https://osu.ppy.sh/beatmapsets/961320#osu/2012527)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -412,7 +412,7 @@ Sunday, 18 August 2019:
 | No Tryhard | 1 | **6** | **panda is not justice** | [#1](https://osu.ppy.sh/community/matches/54168789) |
 | **reyuza ganteng** | **6** | 3 | FYP 228922 | [#1](https://osu.ppy.sh/community/matches/54168996) |
 
-### Group Stage
+### Group stage
 
 Friday, 2 August 2019:
 
@@ -496,7 +496,7 @@ Sunday, 11 August 2019:
 
 ### Qualifier information
 
-1. Scoring will be done by using the following [formula](https://docs.google.com/spreadsheets/d/1MvooEv_AWLs9DaGujlO8Nj3jScPk_zbXprxEPKLv6dI/edit#gid=1475545356 "Google Sheets").
+1. Scoring will be done by using the following [formula](https://docs.google.com/spreadsheets/d/1MvooEv_AWLs9DaGujlO8Nj3jScPk_zbXprxEPKLv6dI/edit#gid=1475545356).
 2. Every map in the qualifier mappool will have to be played once.
 3. Notify `@host` to reschedule your lobby in `#reschedule` that can be found in o!AOT's Discord server using the given format.
 4. Team placement in the qualifiers will determine seedings in group stage as follows:

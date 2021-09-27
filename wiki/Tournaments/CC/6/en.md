@@ -12,7 +12,7 @@ tags:
 
 ![CCVI logo](img/logo.png)
 
-The **Corgi Cup VI** (***CCVI***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the sixth installment of the Corgi Cup.
+The **Corgi Cup VI** (***CCVI***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the sixth instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -40,7 +40,7 @@ The **Corgi Cup VI** (***CCVI***) was a 1v1 double-elimination osu! tournament h
 
 ## Organisation
 
-Corgi Cup VI was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+Corgi Cup VI was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -54,10 +54,10 @@ Corgi Cup VI was run by various community members by distributing the multitude 
 
 ## Links
 
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1IGgBceewxOivVRLYd2ayb7K-zNgY4yaa_dO5USCGzv4/edit?usp=sharing "Google Sheets")
-- [Livestream](https://twitch.tv/Doomsday "Twitch")
-- [Challonge](https://challonge.com/CorgiCupVI "Challonge")
-- [Discord](https://discord.gg/doomscord "Discord")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1IGgBceewxOivVRLYd2ayb7K-zNgY4yaa_dO5USCGzv4/edit?usp=sharing)
+- [Livestream](https://twitch.tv/Doomsday)
+- [Challonge](https://challonge.com/CorgiCupVI)
+- [Discord](https://discord.gg/doomscord)
 
 ## Participants
 

@@ -7,7 +7,7 @@ tags:
 
 ![TSC logo](img/logo.png)
 
-The **Taiko Suiji Cup** (***TSC***) was a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). Each participant registered individually and was assigned to a random team. It was the first installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup** (***TSC***) was a three-on-three randomised team based osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). Each participant registered individually and was assigned to a random team. It was the first instalment of the Taiko Suiji Cup.
 
 ## Tournament schedule
 
@@ -48,8 +48,8 @@ The Taiko Suiji Cup was run by various osu!taiko community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/782877)
-- [Livestream](https://www.twitch.tv/osutaikolive "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4mX-oPxTW6kHLxYF-dk3dYqRNI0c9KnpGO9VZQIR9HKjB2xIM0JrZjsaknY0drLfVk55wjxf9a2M5/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osutaikolive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4mX-oPxTW6kHLxYF-dk3dYqRNI0c9KnpGO9VZQIR9HKjB2xIM0JrZjsaknY0drLfVk55wjxf9a2M5/pubhtml)**
 
 ## Participants
 
@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**Download the mappack here! (86 MB) - [MEGA](https://mega.nz/#!MoNQDAbA!0ca6h-0hffFuWbtCLC-h63PM9qfb48KbvSsD5lpMteY "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/9odc3wed "s-ul")**
+**Download the mappack here! (86 MB) - [MEGA](https://mega.nz/#!MoNQDAbA!0ca6h-0hffFuWbtCLC-h63PM9qfb48KbvSsD5lpMteY) - [Direct Link](https://htfarmingiscool.s-ul.eu/9odc3wed)**
 
 #### Mappool A
 
@@ -137,7 +137,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**Download the mappack here! (80 MB) - [MEGA](https://mega.nz/#!0kkBGSJR!hekHIkKaHshq1h8voFX-uLacFuqGrF6pmEdIOSTbpJQ "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/C8HIStSC "s-ul")**
+**Download the mappack here! (80 MB) - [MEGA](https://mega.nz/#!0kkBGSJR!hekHIkKaHshq1h8voFX-uLacFuqGrF6pmEdIOSTbpJQ) - [Direct Link](https://htfarmingiscool.s-ul.eu/C8HIStSC)**
 
 #### Mappool A
 
@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**Download the mappack here! (92 MB) - [MEGA](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE "MEGA") - [Direct Link](https://htfarmingiscool.s-ul.eu/T52925dk "s-ul")**
+**Download the mappack here! (92 MB) - [MEGA](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE) - [Direct Link](https://htfarmingiscool.s-ul.eu/T52925dk)**
 
 #### Mappool A
 
@@ -194,7 +194,7 @@ This competition has come to an end and resulted in the following podium:
 #### Mappool B
 
 - Challenge
-  - [Verdammt - Hitori botchi no Mao (rezi888) \[Lowermost (TWC Ver.)\]](https://puu.sh/BvQaX/4cbcdb17de.osz "puush")
+  - [Verdammt - Hitori botchi no Mao (rezi888) \[Lowermost (TWC Ver.)\]](https://puu.sh/BvQaX/4cbcdb17de.osz)
   - [Camellia feat. Nanahira - PAPAYAPA BASS (Nwolf) \[KATKATDONKAT\]](https://osu.ppy.sh/beatmapsets/584714#taiko/1237040)
 - DoubleTime
   - [Submatik & Phil ft. Holly Drummond - One (Virtual Riot 2017 Remix) (Nerova Guiz GX) \[N/AT\]](https://osu.ppy.sh/beatmapsets/846862#taiko/1771063)
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (70 MB)](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE "MEGA")**
+**[Download the mappack here! (70 MB)](https://mega.nz/#!80VSwChJ!wgT-gQWtXvAZDqDhbGoVwQQwbSOMnbDP-P7SBb-l6gE)**
 
 #### Mappool A
 
@@ -242,7 +242,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (97 MB)](https://mega.nz/#!55tSEYbI!MgVAYh3na4eClolUt6bFsqsMdrzaF2Vt5ZX_ugcdQss "MEGA")**
+**[Download the mappack here! (97 MB)](https://mega.nz/#!55tSEYbI!MgVAYh3na4eClolUt6bFsqsMdrzaF2Vt5ZX_ugcdQss)**
 
 #### Mappool A
 
@@ -277,7 +277,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (78 MB)](https://mega.nz/#!E5cBCASB!WJ3873xVVrppbGIHu70TluCBgJX97Xb1bdL2Ut_cKh8 "MEGA")**
+**[Download the mappack here! (78 MB)](https://mega.nz/#!E5cBCASB!WJ3873xVVrppbGIHu70TluCBgJX97Xb1bdL2Ut_cKh8)**
 
 #### Mappool A
 

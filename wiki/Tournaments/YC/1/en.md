@@ -7,7 +7,7 @@ tags:
 
 ![YC logo](img/logo.jpg)
 
-The **Yuri Cup** (***YC***) was an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team of 8 players battled against other teams from around the globe. This was the first installment of the Yuri Cup.
+The **Yuri Cup** (***YC***) was an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team of 8 players battled against other teams from around the globe. This was the first instalment of the Yuri Cup.
 
 ## Tournament schedule
 
@@ -38,7 +38,7 @@ The Yuri Cup was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |
-| Map selector | ![][flag_US] [bor](https://osu.ppy.sh/users/4116573), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_US] [Izzz](https://osu.ppy.sh/users/6725659), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Mayflower](https://osu.ppy.sh/users/10302848), ![][flag_PT] [My Angel Maki](https://osu.ppy.sh/users/11610772), ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332) |
+| Mappool selector | ![][flag_US] [bor](https://osu.ppy.sh/users/4116573), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_US] [Izzz](https://osu.ppy.sh/users/6725659), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Mayflower](https://osu.ppy.sh/users/10302848), ![][flag_PT] [My Angel Maki](https://osu.ppy.sh/users/11610772), ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332) |
 | Referee | ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_NO] [Ferretface](https://osu.ppy.sh/users/9703202), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_US] [sriracha rice](https://osu.ppy.sh/users/11922986), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255), ![][flag_AU] [Thunderbird](https://osu.ppy.sh/users/3026554), ![][flag_FR] [Yorumi](https://osu.ppy.sh/users/2458399) |
 | Commentator | ![][flag_CA] [BlastTheKidd](https://osu.ppy.sh/users/3988240), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_GR] [JackPaX](https://osu.ppy.sh/users/11226645), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_PL] [Shymshym](https://osu.ppy.sh/users/8631683) |
 | Streamer | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_PL] [Shymshym](https://osu.ppy.sh/users/8631683) |
@@ -49,10 +49,10 @@ The Yuri Cup was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1015368)
-- [YC Discord server](https://discord.gg/Hxttw27 "Discord")
-- [Livestream](https://twitch.tv/kaeldori "Twitch")
-- [Challonge brackets](https://challonge.com/yuricup "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19oFY3WgkQ-Wqkawu_4AUDSIEUCfZ50tPz4qStb0TH2k/edit#gid=0 "Google Sheets")**
+- [YC Discord server](https://discord.gg/Hxttw27)
+- [Livestream](https://twitch.tv/kaeldori)
+- [Challonge brackets](https://challonge.com/yuricup)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19oFY3WgkQ-Wqkawu_4AUDSIEUCfZ50tPz4qStb0TH2k/edit#gid=0)**
 
 ## Participants
 
@@ -112,15 +112,15 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Corim's Bad Dream |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | a la verga |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Rtzero x Rtzer0 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Corim's Bad Dream** (![][flag_NO] **[YokesPai](https://osu.ppy.sh/users/6399568)**, ![][flag_RU] [KomachiBaka](https://osu.ppy.sh/users/6155320), ![][flag_IT] [Carretto](https://osu.ppy.sh/users/3801459), ![][flag_US] [M I L E S](https://osu.ppy.sh/users/6036351), ![][flag_BE] [5joshi](https://osu.ppy.sh/users/4279650), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088), ![][flag_US] [Vertarix](https://osu.ppy.sh/users/7315668)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **a la verga** (![][flag_UY] **[daanit](https://osu.ppy.sh/users/6159669)**, ![][flag_FR] [VROUM CV VITE](https://osu.ppy.sh/users/7630971), ![][flag_NL] [taku](https://osu.ppy.sh/users/684433), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_BR] [Despairy](https://osu.ppy.sh/users/7339984), ![][flag_US] [conradmittn](https://osu.ppy.sh/users/8208289), ![][flag_US] [Zanik](https://osu.ppy.sh/users/5052673)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Rtzero x Rtzer0** (![][flag_SG] **[Rtzer0](https://osu.ppy.sh/users/5407620)**, ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_SG] [Raindrop](https://osu.ppy.sh/users/1155871), ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132), ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462), ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938)) |
 
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (135 MB)](https://mega.nz/#!GVNmxaRb!VSDzR0f_swSZ-XCa2NY0uaGDIfD72uU7EeH917jylZo "MEGA")**
+**[Download the mappack here! (135 MB)](https://mega.nz/#!GVNmxaRb!VSDzR0f_swSZ-XCa2NY0uaGDIfD72uU7EeH917jylZo)**
 
 - NoMod
   - [System Of A Down - Toxicity (Icekalt) \[Disorder\]](https://osu.ppy.sh/beatmapsets/1041151#osu/2176046)
@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
   - [RYO - Shuffle Heaven (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/30682#osu/118971)
   - [Memme - %S(M) (P o M u T a) \[EX\]](https://osu.ppy.sh/beatmapsets/296393#osu/665509)
 - DoubleTime
-  - [Taylor Swift - ...Ready For It? (Syph) \[Extra\]](https://puu.sh/Fru9p/84d01bdba5.osz "puush")
+  - [Taylor Swift - ...Ready For It? (Syph) \[Extra\]](https://puu.sh/Fru9p/84d01bdba5.osz)
   - [bibuko - Crayon (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/49455#osu/152463)
   - [Stan SB - Let This Go (Kyshiro) \[Gone\]](https://osu.ppy.sh/beatmapsets/89912#osu/244230)
   - [Culprate & Joe Ford - Gaucho (ScubDomino) \[Kalibe x LCFC's Insane\]](https://osu.ppy.sh/beatmapsets/847776#osu/1772924)
@@ -161,7 +161,7 @@ This competition has come to an end and resulted in the following podium:
   - [SOUND HOLIC Vs. T.Kakuta feat. YURiCa - TOXIC VIBRATION (extend ver.) (Musty) \[NiNo's Extra\]](https://osu.ppy.sh/beatmapsets/521184#osu/1389624)
   - [Beatdrop - Phase 1 (rustbell) \[HD\]](https://osu.ppy.sh/beatmapsets/526397#osu/1116977)
   - [Silentroom - Nhelv (Nyxa) \[iniquitatem\]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432)
-  - [goreshit - MATZcore (\_LRJ\_) \[Lolicore AR9.7\]](https://puu.sh/FoAb5/95a87b53e9.osz "puush")
+  - [goreshit - MATZcore (\_LRJ\_) \[Lolicore AR9.7\]](https://puu.sh/FoAb5/95a87b53e9.osz)
   - [sasakure.UK - Good Bye, Mr. Jack (Xilver15) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/586425#osu/1241924)
 - Hidden
   - [Akatsuki Records - WARNING x WARNING x WARNING (Hailie) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/755619#osu/1593262)
@@ -189,7 +189,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (127 MB)](https://mega.nz/#!iAt1VYjZ!J0F0u5BGORbghwRkwmzR1tIV9aiX92wkyKJ2uyWFKWQ "MEGA")**
+**[Download the mappack here! (127 MB)](https://mega.nz/#!iAt1VYjZ!J0F0u5BGORbghwRkwmzR1tIV9aiX92wkyKJ2uyWFKWQ)**
 
 - NoMod
   - [Amamiya Sora - Eternal (Mordred) \[New World\]](https://osu.ppy.sh/beatmapsets/815811#osu/1710926)
@@ -210,7 +210,7 @@ This competition has come to an end and resulted in the following podium:
   - [Grynpyret - Boba Beach (VINXIS) \[Habanero\]](https://osu.ppy.sh/beatmapsets/327224#osu/726289)
   - [DJ TOTTO feat. \*spiLa\* - illumina (handsome) \[insane\]](https://osu.ppy.sh/beatmapsets/349883#osu/779441)
   - [Chris Brown Feat. Busta Rhymes & Lil Wayne - Look At Me Now (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/29859#osu/99997)
-  - [KOTOKO - agony (K-S-O) \[Insane\]](https://bloodcat.com/osu/s/302 "Bloodcat")
+  - [KOTOKO - agony (K-S-O) \[Insane\]](https://bloodcat.com/osu/s/302)
 - FreeMod
   - [DJKurara - Goodbye (EijiKuinbii) \[grumd's Extra\]](https://osu.ppy.sh/beatmapsets/866436#osu/1968486)
   - [nobodyknows+ - Kokoro Odoru (toybot) \[bbj's Expert\]](https://osu.ppy.sh/beatmapsets/1020878#osu/2176407)
@@ -220,7 +220,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (166 MB)](https://mega.nz/#!aeBUQIxR!ubNS6YQKzc6TxYj52bS-2zpQuO3UD2Y8jBtCrv8snPc "MEGA")**
+**[Download the mappack here! (166 MB)](https://mega.nz/#!aeBUQIxR!ubNS6YQKzc6TxYj52bS-2zpQuO3UD2Y8jBtCrv8snPc)**
 
 - NoMod
   - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) \[Expert\]](https://osu.ppy.sh/beatmapsets/935707#osu/1954858)
@@ -251,7 +251,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (135 MB)](https://mega.nz/#!rU0VmADK!ZrKe9THLFBW5rjSULGu2AkRDAhQfYvXQyRAeRWLiFwc "MEGA")**
+**[Download the mappack here! (135 MB)](https://mega.nz/#!rU0VmADK!ZrKe9THLFBW5rjSULGu2AkRDAhQfYvXQyRAeRWLiFwc)**
 
 - NoMod
   - [Enter Shikari - Wall (Hectic) \[Spectrum\]](https://osu.ppy.sh/beatmapsets/1012220#osu/2118714)
@@ -282,7 +282,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (116 MB)](https://mega.nz/#!3TQC3KLa!jYVQf_oFBbuBP0yseL6k2Q1j8q0W2yf6ytU6ZALa-uI "MEGA")**
+**[Download the mappack here! (116 MB)](https://mega.nz/#!3TQC3KLa!jYVQf_oFBbuBP0yseL6k2Q1j8q0W2yf6ytU6ZALa-uI)**
 
 - NoMod
   - [96neko - E? Aa, sou. (newton-) \[Fabricated\]](https://osu.ppy.sh/beatmapsets/902346#osu/1914227)
@@ -517,7 +517,7 @@ Sunday, 1 March 2020:
 | #45 | carroça rebaixada | 44.2 |
 | #46 | CEO Of Yuri | 45.4 |
 
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1OanmoSiHTwzALW43eOes6yUwc7GF_CNw5etJkfx4FM0/edit#gid=1464429579 "Google Sheets")
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1OanmoSiHTwzALW43eOes6yUwc7GF_CNw5etJkfx4FM0/edit#gid=1464429579)
 - Average is determined by `Σ position earned when playing the qualifiers mappool / 10`
 - Only the top 32 team can proceed to the knockout stage
 

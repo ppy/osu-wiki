@@ -1,6 +1,6 @@
 # BBCode
 
-Le **BBCode** est un [langage de balisage](https://fr.wikipedia.org/wiki/Langage_de_balisage "Wikipédia") qui est utilisé dans les forums d'osu! et également, dans une plus large mesure, dans la grande majorité des forums sur Internet. Utilisé pour permettre le formatage de texte riche, il est composé de balises qui entourent le texte pour indiquer le formatage, les attributs, l'incorporation et plus encore. Il est utilisé à divers endroits sur le site web d'osu!, notamment dans les messages des forums, les signatures, les pages des utilisateurs et les descriptions des beatmap.
+Le **BBCode** est un [langage de balisage](https://fr.wikipedia.org/wiki/Langage_de_balisage) qui est utilisé dans les forums d'osu! et également, dans une plus large mesure, dans la grande majorité des forums sur Internet. Utilisé pour permettre le formatage de texte riche, il est composé de balises qui entourent le texte pour indiquer le formatage, les attributs, l'incorporation et plus encore. Il est utilisé à divers endroits sur le site web d'osu!, notamment dans les messages des forums, les signatures, les pages des utilisateurs et les descriptions des beatmap.
 
 ![L'éditeur de messages du forum avec ses boutons](img/editor.jpg?1 "La zone d'édition dans les forums")
 
@@ -69,9 +69,9 @@ Bouton de la barre d'outils : ![Strike button](img/strike.png "Barré")
 [color=HEXCODE]texte[/color]
 ```
 
-*Pour une liste de tous les noms de couleurs, voir [Noms de couleur X11](https://fr.wikipedia.org/wiki/Noms_de_couleur_X11#Noms_de_couleur_identiques_entre_X11_et_HTML/CSS "Wikipédia")*
+*Pour une liste de tous les noms de couleurs, voir [Noms de couleur X11](https://fr.wikipedia.org/wiki/Noms_de_couleur_X11#Noms_de_couleur_identiques_entre_X11_et_HTML/CSS)*
 
-La balise `[color]` est utilisée pour styliser le texte au moyen de différents types de couleurs sûres pour le web. Cette balise utilise des valeurs [RGB hexadécimales](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs "Wikipedia") pour spécifier la couleur, bien qu'elle puisse aussi être spécifiée par des noms de couleur HTML comme "rouge" ou "vert". Pour spécifier, remplacez l'argument `HEXCODE` par le code HEX ou le nom HTML correspondant à la couleur.
+La balise `[color]` est utilisée pour styliser le texte au moyen de différents types de couleurs sûres pour le web. Cette balise utilise des valeurs [RGB hexadécimales](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs) pour spécifier la couleur, bien qu'elle puisse aussi être spécifiée par des noms de couleur HTML comme "rouge" ou "vert". Pour spécifier, remplacez l'argument `HEXCODE` par le code HEX ou le nom HTML correspondant à la couleur.
 
 L'argument mentionné ci-dessus ne prend pas de guillemets (`"`), et n'a pas de couleur par défaut. Si aucun argument n'est spécifié, ou si des guillemets sont utilisés, la balise ne sera pas analysée comme une balise BBCode.
 
@@ -153,7 +153,7 @@ texte
 
 La balise `[code]` est utilisée pour créer des *blocs de code préformatés* (aussi appelés *texte préformaté*). Sur le site osu!, la balise `[code]` formatera le texte dans une police monospace à l'intérieur d'une boîte grise semi-transparente. Le formatage du texte à l'intérieur d'un bloc de code indique à l'éditeur de traiter le texte entre ces balises de manière littérale, empêchant ainsi la conversion de toute balise ou code source en quelque chose d'autre.
 
-Dans les forums osu!, les blocs de code sont le plus souvent utilisés pour afficher le code source d'un [storyboard](/wiki/Storyboards), ou dans les tutoriels qui nécessitent de montrer la syntaxe des balises, des commandes ou du code source.
+Dans les forums osu!, les blocs de code sont le plus souvent utilisés pour afficher le code source d'un [storyboard](/wiki/Storyboard), ou dans les tutoriels qui nécessitent de montrer la syntaxe des balises, des commandes ou du code source.
 
 ### Centre
 
@@ -219,7 +219,7 @@ La balise `[img]` est utilisée pour inclure des images en ligne dans les messag
 
 Pour obtenir l'adresse d'une image, il faut se rendre sur le site web d'où elle provient, passer la souris sur l'image, faire un clic droit sur l'image et sélectionner "Copier l'adresse de l'image". Il faut ensuite copier et coller l'adresse entre les balises.
 
-Bien que les images puissent provenir de n'importe où, osu! recommande aux utilisateurs de les télécharger sur des sites de partage d'images réputés comme [Imgur](https://imgur.com "Imgur"), car certains sites Web n'apprécient pas les liens directs vers leurs images (autrement appelés "hotlinks").
+Bien que les images puissent provenir de n'importe où, osu! recommande aux utilisateurs de les télécharger sur des sites de partage d'images réputés comme [Imgur](https://imgur.com), car certains sites Web n'apprécient pas les liens directs vers leurs images (autrement appelés "hotlinks").
 
 Bouton de la barre d'outils : ![Image button](img/image.png "Image")
 
@@ -229,7 +229,7 @@ Bouton de la barre d'outils : ![Image button](img/image.png "Image")
 [youtube]VIDEO_ID[/youtube]
 ```
 
-La balise `[youtube]` est utilisée pour intégrer une vidéo [YouTube](https://youtube.com "YouTube") sur le site web. L'utilisateur doit saisir uniquement l'ID de la vidéo (**et non** l'URL complète) entre les deux balises (représentées par l'argument `VIDEO_ID` ci-dessus).
+La balise `[youtube]` est utilisée pour intégrer une vidéo [YouTube](https://youtube.com) sur le site web. L'utilisateur doit saisir uniquement l'ID de la vidéo (**et non** l'URL complète) entre les deux balises (représentées par l'argument `VIDEO_ID` ci-dessus).
 
 L'ID d'une vidéo YouTube se trouve dans l'URL de la vidéo, et est la chaîne de 11 caractères *directement après* le `v=`..
 
@@ -239,7 +239,7 @@ L'ID d'une vidéo YouTube se trouve dans l'URL de la vidéo, et est la chaîne d
 [audio]URL[/audio]
 ```
 
-La balise `[audio]` est utilisée pour intégrer un lecteur audio [HTML5](https://fr.wikipedia.org/wiki/HTML5 "Wikipédia") provenant d'une source audio en ligne. Les fichiers audio peuvent provenir de n'importe où, tant que le fichier existe à partir d'une URL donnée. Les chemins d'accès aux fichiers locaux (par exemple, `C:\Users\Name\Music\audio.mp3`) **ne fonctionneront pas**.
+La balise `[audio]` est utilisée pour intégrer un lecteur audio [HTML5](https://fr.wikipedia.org/wiki/HTML5) provenant d'une source audio en ligne. Les fichiers audio peuvent provenir de n'importe où, tant que le fichier existe à partir d'une URL donnée. Les chemins d'accès aux fichiers locaux (par exemple, `C:\Users\Name\Music\audio.mp3`) **ne fonctionneront pas**.
 
 *Attention : Veuillez noter que tous les services de partage de fichiers n'apprécient pas l'extraction de leurs fichiers audio, en raison des problèmes de piratage de la musique. osu! n'est pas responsable des problèmes de droits d'auteur que les utilisateurs peuvent rencontrer à cet égard.
 

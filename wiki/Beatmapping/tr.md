@@ -3,7 +3,7 @@
 # Beatmap oluşturma
 
 **Beatmap oluşturma** oyuncuların oynaması için gerekli [beatmaplerin](/wiki/Beatmap) oluşturulma sürecidir.
-Bu şarkı seçmeyi, [zamanlamayı](/wiki/Timing), [objeler](/wiki/Hit_Objects) yerleştirmeyi, ve (opsiyonel olarak) [tema](/wiki/Skinning) ve [storyboard](/wiki/Storyboarding) oluşturmayı da içerir.
+Bu şarkı seçmeyi, [zamanlamayı](/wiki/Timing), [objeler](/wiki/Hit_Objects) yerleştirmeyi, ve (opsiyonel olarak) [tema](/wiki/Skinning) ve [storyboard](/wiki/Storyboard#storyboarding) oluşturmayı da içerir.
 
 Mapperlar genellikle [beatmap derecelendirme prosedürünü](/wiki/Beatmap_ranking_procedure) takip ederek beatmaplerini [dereceli](/wiki/Beatmap) yapmak isterler.
 
@@ -52,7 +52,7 @@ Burası vuruş objelerini görsel olarak yerleştirebileceğiniz ve [vuruş sesl
 
 ### Dizayn (Design)
 
-*Ana sayfa: [Dizayn](/wiki/Design) ve [Storyboard oluşturma](/wiki/Storyboarding)*
+*Ana sayfa: [Dizayn](/wiki/Design) ve [Storyboard oluşturma](/wiki/Storyboard#storyboarding)*
 
 Beatmap düzenleyicinin dizayn sekmesi beatmapinizin arkaplan resmini ayarlayabileceğiniz, video ekleyebileceğiniz, ve/veya basit bir storyboard oluşturabileceğiniz yerdir.
-Eğer [SBS](/wiki/Storyboard_Scripting) (storyboard scripting) kullanıyorsanız, ne yaptığınıza bağlı olarak, dizayn sekmesini epey fazla da kullanabilirsiniz, hiç kullanmayabilirsiniz de.
+Eğer [SBS](/wiki/Storyboard/Scripting) (storyboard scripting) kullanıyorsanız, ne yaptığınıza bağlı olarak, dizayn sekmesini epey fazla da kullanabilirsiniz, hiç kullanmayabilirsiniz de.

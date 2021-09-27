@@ -1,6 +1,6 @@
 # 制谱
 
-在 osu! 中为玩家制作可供游玩的谱面这一过程即为**制谱**。该过程包括选择一首歌曲，[校准节奏与偏移量（Timing）](/wiki/Beatmap_Editor/Timing)，放置击打物件，以及（可选的）[制作皮肤](/wiki/Skinning)与[创作故事板](/wiki/Storyboarding)。
+在 osu! 中为玩家制作可供游玩的谱面这一过程即为**制谱**。该过程包括选择一首歌曲，[校准节奏与偏移量（Timing）](/wiki/Beatmap_Editor/Timing)，放置击打物件，以及（可选的）[制作皮肤](/wiki/Skinning)与[创作故事板](/wiki/Storyboard#storyboarding)。
 
 谱师们一般都会希望他们的谱面可以经由[谱面 rank 流程](/wiki/Beatmap_ranking_procedure)进入 [rank 类别](/wiki/Beatmap)。
 
@@ -36,6 +36,6 @@
 
 ### 背景设计（Design）
 
-*主页面: [背景设计](/wiki/Beatmap_Editor/Design) 以及 [故事板创作](/wiki/Storyboarding)*
+*主页面: [背景设计](/wiki/Beatmap_Editor/Design) 以及 [故事板创作](/wiki/Storyboard#storyboarding)*
 
-你可以在谱面的背景设计界面中设置背景图片，添加背景视频，并且/或创作一个基础的故事板。不过如果你会用 [故事板脚本编写（SBS）](/wiki/Storyboard_Scripting)的话，这个界面可能几乎或甚至完全用不到。
+你可以在谱面的背景设计界面中设置背景图片，添加背景视频，并且/或创作一个基础的故事板。不过如果你会用 [故事板脚本编写（SBS）](/wiki/Storyboard/Scripting)的话，这个界面可能几乎或甚至完全用不到。

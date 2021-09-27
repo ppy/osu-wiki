@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2019 logo](img/logo.jpg)
 
-The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eight installment of the osu!catch World Cup.
+The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch 
 | --: | :-- |
 | Registration phase | 2019-05-29/2019-06-11 |
 | Live drawings | 2019-06-22 (16:00 UTC) |
-| Group Stage | 2019-06-29/2019-06-30 |
+| Group stage | 2019-06-29/2019-06-30 |
 | Round of 16 | 2019-07-06/2019-07-07 |
 | Quarterfinals | 2019-07-13/2019-07-14 |
 | Semifinals | 2019-07-20/2019-07-21 |
@@ -37,7 +37,7 @@ The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch 
 
 The osu!catch World Cup 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
@@ -48,9 +48,9 @@ The osu!catch World Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/913952)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/9 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRt5kVxQM14v5e4fhQ9CL7N5qXrFzO8XXsKnaO6bBqMy4WZ1rhTa_1xkr-nntRxS_AQ2WqEjks_4ssm/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/9) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRt5kVxQM14v5e4fhQ9CL7N5qXrFzO8XXsKnaO6bBqMy4WZ1rhTa_1xkr-nntRxS_AQ2WqEjks_4ssm/pubhtml)**
 
 ## Participants
 
@@ -89,13 +89,15 @@ The osu!catch World Cup 2019 was run by various community members.
 | ![][flag_VE] | **Venezuela** | **[Zuleta\_](https://osu.ppy.sh/users/10287019)**, [\[Aless50\]](https://osu.ppy.sh/users/4339778), [-\[CocoaFangirl\]](https://osu.ppy.sh/users/10291253), [-\[Ketsu\]-](https://osu.ppy.sh/users/10496305), [Hisashi Shimoro](https://osu.ppy.sh/users/6736420), [Tsugumi](https://osu.ppy.sh/users/8746368) |
 | ![][flag_VN] | **Vietnam** | **[\[A\]bsolute](https://osu.ppy.sh/users/8525921)**, [Close](https://osu.ppy.sh/users/4744615), [Hana Yukiko](https://osu.ppy.sh/users/4964095), [mothernature](https://osu.ppy.sh/users/6403418), [Saaya](https://osu.ppy.sh/users/5144295), [Seonna](https://osu.ppy.sh/users/4677276) |
 
-![CWC 2019 podium](img/podium.jpg)
+## Podium
+
+![](img/podium.jpg "CWC 2019 podium")
 
 ## Mappools
 
 ### Finals week 2
 
-**[Download the mappack here!](https://www.dropbox.com/s/w76kar8lt11u7kv/CWC%20GF%20Mappool.zip?dl=0&file_subpath=%2FCWC+GF+Mappool "Dropbox")**
+**[Download the mappack here!](https://www.dropbox.com/s/w76kar8lt11u7kv/CWC%20GF%20Mappool.zip?dl=0&file_subpath=%2FCWC+GF+Mappool)**
 
 - NoMod
   - [Masayoshi Iimori - BREAK OVER (- G i G a s -) \[SUPER MENTAL IS BREAK???\]](https://osu.ppy.sh/beatmapsets/743698#fruits/1568290)
@@ -124,7 +126,7 @@ The osu!catch World Cup 2019 was run by various community members.
 
 ### Finals week 1
 
-**[Download the mappack here!](https://www.dropbox.com/s/b9fcomih3576nxz/CWC%20Finals%20Mappool.zip?dl=0 "Dropbox")**
+**[Download the mappack here!](https://www.dropbox.com/s/b9fcomih3576nxz/CWC%20Finals%20Mappool.zip?dl=0)**
 
 - NoMod
   - [Zekk - Feelsleft0ut (AJamez) \[:)\]](https://osu.ppy.sh/beatmapsets/856040#fruits/1788564)
@@ -153,7 +155,7 @@ The osu!catch World Cup 2019 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here!](https://www.dropbox.com/s/gvrrfhmooy15pbl/CWC%20Semifinals%20Mappool.zip?dl=0 "Dropbox")**
+**[Download the mappack here!](https://www.dropbox.com/s/gvrrfhmooy15pbl/CWC%20Semifinals%20Mappool.zip?dl=0)**
 
 - NoMod
   - [M2U - Marionette (Absolute Zero) \[MBomb's Overdose\]](https://osu.ppy.sh/beatmapsets/797395#fruits/1895451)
@@ -182,7 +184,7 @@ The osu!catch World Cup 2019 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here!](https://www.dropbox.com/s/xc7mkw9nkijacs5/CWC%20QF%20Mappool.zip?dl=0&file_subpath=%2FCWC+QF+Mappool "Dropbox")**
+**[Download the mappack here!](https://www.dropbox.com/s/xc7mkw9nkijacs5/CWC%20QF%20Mappool.zip?dl=0&file_subpath=%2FCWC+QF+Mappool)**
 
 - NoMod
   - [Helblinde - Unconquered (IDu5t) \[Indestructible\]](https://osu.ppy.sh/beatmapsets/975136#fruits/2041090)
@@ -208,7 +210,7 @@ The osu!catch World Cup 2019 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here!](https://www.dropbox.com/sh/4q19wyd0z6q4akw/AAD6Cc014HXigZvHPWSpNmbSa?dl=0 "Dropbox")**
+**[Download the mappack here!](https://www.dropbox.com/sh/4q19wyd0z6q4akw/AAD6Cc014HXigZvHPWSpNmbSa?dl=0)**
 
 - NoMod
   - [a\_hisa - Tokei no Heya to Seishin Sekai (Spectator) \[Kyuare Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/639409#fruits/1356120)
@@ -232,9 +234,9 @@ The osu!catch World Cup 2019 was run by various community members.
 - Tiebreaker
   - **[Eisyo-kobu - Oriental Blossom -Eika Shuuei- (Yumeno Himiko) \[Sakura\]](https://osu.ppy.sh/beatmapsets/910194#fruits/1899381)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here!](https://www.dropbox.com/sh/e3jgd039od90c85/AADfBfWbrPI5NHwpKWiv3fCCa?dl=0 "Dropbox")**
+**[Download the mappack here!](https://www.dropbox.com/sh/e3jgd039od90c85/AADfBfWbrPI5NHwpKWiv3fCCa?dl=0)**
 
 - NoMod
   - [Roselia - Neo-Aspect (Underdogs) \[AJamez's Rain\]](https://osu.ppy.sh/beatmapsets/776620#fruits/1892842)
@@ -346,7 +348,7 @@ Sunday, 7 July 2019:
 | **Taiwan** ![][flag_TW] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/53170971) |
 | Mexico ![][flag_MX] | 4 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/53178682) |
 
-### Group Stage
+### Group stage
 
 Saturday, 29 June 2019:
 
@@ -480,7 +482,7 @@ Sunday, 30 June 2019:
 
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 
-6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png "puush"), the stages are split up into the following:
+6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
    | Stage | Match ID |
    | --: | :-- |

@@ -10,7 +10,7 @@ Mode permainan pertama yang namanya terinspirasi dan didasari dari seri Ouendan.
 
 ## Apa itu "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* merupakan sebuah permainan pada konsol *Nintendo DS* yang mendasari dan menginspirasi awal terbentuknya osu!. Permainan tersebut pada intinya hanya didasari pada tiga aturan yang harus kamu ikuti di dalamnya: sentuh circle-circle yang muncul pada layar, ikuti slider-slider sesuai dengan alur yang tergambar, dan putar spinner yang ada secepat mungkin. Elemen-elemen yang ada di dalam permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari lagu yang sedang dimainkan. Permainan tersebut tampak seperti ini pada layar *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* merupakan sebuah permainan pada konsol *Nintendo DS* yang mendasari dan menginspirasi awal terbentuknya osu!. Permainan tersebut pada intinya hanya didasari pada tiga aturan yang harus kamu ikuti di dalamnya: sentuh circle-circle yang muncul pada layar, ikuti slider-slider sesuai dengan alur yang tergambar, dan putar spinner yang ada secepat mungkin. Elemen-elemen yang ada di dalam permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari lagu yang sedang dimainkan. Permainan tersebut tampak seperti ini pada layar *DS*:
 
 ![Contoh tampilan permainan Osu! Tatakae! Ouendan pada layar Nintendo DS](/wiki/shared/Ouendan.jpg "Contoh tampilan permainan Osu! Tatakae! Ouendan pada layar Nintendo DS")
 
@@ -265,11 +265,8 @@ Sistem yang digunakan untuk menghitung *health drain* dan *health gain* per obje
 
 ### Sejarah
 
-![Kombo Api](/wiki/shared/combo-fire.jpg "Combo Fire")
-
 - Pada versi lama, osu! menggunakan beberapa elemen dari seri *Ouendan* sebelum akhirnya mulai dihapus atau digantikan.
-  - Efek kombo api yang muncul ketika mencapai kombo baru.
-    - Dihapus pada 05 Maret 2013 dikarenakan terdapat masalah pada kinerja.
+  - Efek [kombo api](/wiki/Glossary/Combo_fire) yang muncul ketika mencapai kombo baru.
   - Versi pertama pada skin default menggunakan perilaku skin v1 yang merupakan skin *osu! Default oleh peppy*, skin ini menyediakan antarmuka yang hampir identik dengan Ouendan.
     - Kemudian, skin tersebut digantikan dengan skin default yang lebih bagus yang menggunakan perilaku skin v2.
   - Perbedaan fitur yang paling mencolok antara perilaku skin v1 dan v2 adalah pada bagian spinner.

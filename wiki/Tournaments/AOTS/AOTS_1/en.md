@@ -9,7 +9,7 @@ tags:
 
 > Uniting the mass diversity, NOW EXPANDED!
 
-The **Asian-Oceanian Taiko Showdown** (***AOTS***) was a 1v1 Asian and Oceanian double-elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third installment of the Asian-Oceanian Taiko Showdown, and an extension from the Asia region to Asia and Oceania.
+The **Asian-Oceanian Taiko Showdown** (***AOTS***) was a 1v1 Asian and Oceanian double-elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third instalment of the Asian-Oceanian Taiko Showdown, and an extension from the Asia region to Asia and Oceania.
 
 ## Tournament schedule
 
@@ -52,10 +52,10 @@ The Asian-Oceanian Taiko Showdown was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/928099)
-- [AOTS Discord server](https://discord.gg/2xQDbkS "Discord")
-- [Livestream](https://www.twitch.tv/Beat43210 "Twitch")
-- [Challonge brackets](https://challonge.com/osuaots "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzUwghFR9NIKzw4t29pjTptyzjMkWro5ZAYPkYS7-XdYiUiVnyVQbhyO7BJuqT2quFs8Px9suFGdU8/pubhtml "Google Sheets")**
+- [AOTS Discord server](https://discord.gg/2xQDbkS)
+- [Livestream](https://www.twitch.tv/Beat43210)
+- [Challonge brackets](https://challonge.com/osuaots)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzUwghFR9NIKzw4t29pjTptyzjMkWro5ZAYPkYS7-XdYiUiVnyVQbhyO7BJuqT2quFs8Px9suFGdU8/pubhtml)**
 
 ## Participants
 
@@ -92,7 +92,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the map pack here! (88 MB)](https://puu.sh/EfqvP/8474be105f.zip "puush")**
+**[Download the map pack here! (88 MB)](https://puu.sh/EfqvP/8474be105f.zip)**
 
 - NoMod
   - [Nekomata Master - Journey (BabySnakes) \[Inner Oni (Finished)\]](https://osu.ppy.sh/beatmapsets/961119#taiko/2012118)
@@ -121,7 +121,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the map pack here! (95 MB)](https://puu.sh/EcKsL/379042b001.zip "puush")**
+**[Download the map pack here! (95 MB)](https://puu.sh/EcKsL/379042b001.zip)**
 
 - NoMod
   - [mafumafu - Yuugure Semi Nikki (-\[ ix Ishida xi \]-) \[-\[ ix IshidaTaikonari xi \]-\]](https://osu.ppy.sh/beatmapsets/83519#taiko/230572)
@@ -150,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the map pack here! (60 MB)](https://puu.sh/E9FE1/a1f5e10fe0.zip "puush")**
+**[Download the map pack here! (60 MB)](https://puu.sh/E9FE1/a1f5e10fe0.zip)**
 
 - NoMod
   - [BlackY - Nobodyknows Eden (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/768440#taiko/1722532)
@@ -177,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the map pack here! (60 MB)](https://puu.sh/E74ch/e222bc7d3f.zip "puush")**
+**[Download the map pack here! (60 MB)](https://puu.sh/E74ch/e222bc7d3f.zip)**
 
 - NoMod
   - [sasakure.UK - The UniversaL ElekiteL (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/567572#taiko/1202588)
@@ -202,12 +202,12 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the map pack here! (61 MB)](https://puu.sh/E4vgO/031e24289a.zip "puush")**
+**[Download the map pack here! (61 MB)](https://puu.sh/E4vgO/031e24289a.zip)**
 
 - NoMod
   - [Chroma - Lost Found Melody (zkane2) \[Found It\]](https://osu.ppy.sh/beatmapsets/832348#taiko/1743812)
   - [Ryu - Sakura Mirage (\[I\]MMoRTal\[S\]) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/239807#taiko/554407)
-  - [Coda - BLOODY STREAM (BabySnakes) \[Venom\]](https://drive.google.com/file/d/1sCahc8bjBj0tAEeBWJvC7vWpL4e2xc6Y/view "Google Drive")
+  - [Coda - BLOODY STREAM (BabySnakes) \[Venom\]](https://drive.google.com/file/d/1sCahc8bjBj0tAEeBWJvC7vWpL4e2xc6Y/view)
   - [DJ Genki - Toymatic Parade!! (HEKUSODASU) \[23-'s Oni\]](https://osu.ppy.sh/beatmapsets/828912#taiko/1747311)
 - Hidden
   - [Sirio & D-Tox - Loudness War (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/349861#taiko/771449)
@@ -227,7 +227,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group stage
 
-**[Download the map pack here! (46 MB)](https://puu.sh/E1b4I/abef3223c1.zip "puush")**
+**[Download the map pack here! (46 MB)](https://puu.sh/E1b4I/abef3223c1.zip)**
 
 - NoMod
   - [Kano - Houkago Stride (Short Ver.) (Lundlerol) \[Oni\]](https://osu.ppy.sh/beatmapsets/80983#taiko/225075)
@@ -401,7 +401,7 @@ Monday, 12 August 2019:
    - Participant's Flag on their profile must be a country from **Asia and Oceania.**
    - Maximum Performance Points (PP) allowed for participant to register is **9,500pp.**
    - Participant's account must be **6 months old or older.**
-   - Participant must pass the screening done by the osu!team officials.
+   - Participant must pass the screening done by the osu! team officials.
 3. The tournament will be held over seven weekends.
 4. The matches will be played under **Score V2** and **Head to Head** settings.
 5. Joining the Discord server is mandatory at least for the duration of the tournament.

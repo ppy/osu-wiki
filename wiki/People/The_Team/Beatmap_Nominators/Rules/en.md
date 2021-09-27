@@ -1,20 +1,20 @@
 # Rules for Beatmap Nominators
 
-The rules listed here affect what [Beatmap Nominators](/wiki/People/Beatmap_Nominators) can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them. These rules are the result of discussion within the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) and have taken into account feedback from the Beatmap Nominators upon their proposal.
+The rules listed here affect what [Beatmap Nominators](/wiki/People/Beatmap_Nominators) can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them. These rules are the result of discussion within the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) and have taken into account feedback from the Beatmap Nominators upon their proposal.
 
-Beatmap Nominators possess the tools to nominate beatmaps and shape the world of osu! by promoting new content towards being included in the official listings, for this reason they have to abide by the rules at all times. Violating any of these may get the respective Beatmap Nominator removed from the Beatmap Nominators. Violations of those rules may be reported to a member of the Nomination Assessment Team directly.
+Beatmap Nominators possess the tools to nominate beatmaps and shape the world of osu! by promoting new content towards being included in the official listings, for this reason they have to abide by the rules at all times. Violating any of these may get the respective Beatmap Nominator removed from the Beatmap Nominators. Violations of those rules may be reported to a member of the NAT directly.
 
 ## Expectations
 
 All Beatmap Nominators are expected to do their best to abide by the ethos laid out in the [Expectations for Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/Expectations) article.
 
-Sustained behaviour in conflict with these expectations is grounds for dismissal at the discretion of the Nomination Assessment Team.
+Sustained behaviour in conflict with these expectations is grounds for dismissal at the discretion of the NAT.
 
 ## Conduct
 
 - **Do not follow any unfinalized rules or amendments.**
 - **Abide by the [osu! Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Ranking_Criteria/Code_of_Conduct) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being placed on a temporary probation, or in extreme cases, removal from the Beatmap Nominators.
-- **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any "official" osu! team (BN, NAT or otherwise) involved in the ranking process.
+- **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any osu! team (BN, NAT or otherwise) involved in the [ranking process](/wiki/Beatmap_ranking_procedure).
 
 ## Activity
 
@@ -24,24 +24,22 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 
 ### Requirements
 
-Multiple activities available to Beatmap Nominators can be peformed to gain activity: nominating, quality assurance (QA) checking, and nomination resetting. These can be mixed and matched to meet the equivalent of your gamemode's minimum requirement.
-
-Activity is measured in nominations, meaning that each nomination is worth one point of activity. Each QA check is equal to 1/4 the activity of a nomination. Resetting beatmaps is taken into account but to a lesser extent, and it has no set ratio compared to nominations.
+Beatmap Nominator activity is primarily measured by nominations. Resetting beatmaps is taken into account but to a lesser extent, and it has no set ratio compared to nominations.
 
 Each mode has its own required minimum for monthly activity.
 
-- osu!, osu!taiko, osu!catch: equivalent of 3 nominations.
-- osu!mania: equivalent of 2 nominations.
-- Hybrid: equivalent of 3 nominations, with at least 1 per proficient gamemode.
+- osu!, osu!taiko, osu!catch: 3 nominations.
+- osu!mania: 2 nominations.
+- Hybrid: 3 nominations, with at least 1 per proficient gamemode.
 
 ## Nomination
 
-- **Do not nominate beatmaps with unrankable issues.** The General Ranking Criteria and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.
+- **Do not nominate beatmaps with unrankable issues.** The [General Ranking Criteria](/wiki/Ranking_Criteria) and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.
 - **Do not nominate beatmaps that you contributed to.** This includes any major contribution such as mapping, hitsounding, storyboarding, skinning, or slider velocity editing.
 - **Do not nominate a beatmap without properly checking all difficulties of the mode(s) you are nominating.** Improper checking includes just running a modding tool before nominating or not even downloading the beatmap.
 - **Do not nominate a beatmap if you are unsure of something.** In such cases, ask fellow nominators for assistance before making any rushed decisions. This includes unfamiliar game modes, suspiciously gray area/unrankable issues, quality issues or complex timing.
 - **Do not nominate a beatmap if you cannot reasonably judge it.** Being able to reasonably evaluate a beatmap, either through playtesting or modding experience, is a core part of being able to judge a beatmap’s quality. If you are deemed not to have sufficient playing skill or modding experience, we may call your ability to judge the beatmap into question.
-- **Make sure no mod posts in the beatmap discussion have been ignored before nominating a beatmap.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the beatmap discussion and act accordingly.
+- **Make sure no mod posts in the [beatmap discussion](/wiki/Beatmap_Discussion) have been ignored before nominating a beatmap.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the beatmap discussion and act accordingly.
 
 ### Qualification
 

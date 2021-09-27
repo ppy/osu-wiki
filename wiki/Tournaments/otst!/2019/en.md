@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2019 logo](img/logo.png)
 
-The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. It was the third installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. It was the third instalment of the osu! TV Size Tournament.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination
 | --: | :-- |
 | Registration phase | 2019-01-26/2019-02-10 |
 | Live drawings | 2019-02-23 (14:00 UTC) |
-| Group Stage | 2019-03-02/2019-03-10 |
+| Group stage | 2019-03-02/2019-03-10 |
 | Round of 16 | 2019-03-16/2019-03-17 |
 | Quarterfinals | 2019-03-23/2019-03-24 |
 | Semifinals | 2019-03-30/2019-03-31 |
@@ -29,7 +29,7 @@ The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
-![otst! 2019 winner badge](img/badge.png)
+![](img/badge.png "otst! 2019 winner badge")
 
 ## Organisation
 
@@ -38,7 +38,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Map selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
+| Mappool selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
 | Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_MA] [clorox\_1g](https://osu.ppy.sh/users/9702728) |
 | Commentator | ![][flag_US] [Badge When](https://osu.ppy.sh/users/9378089), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_DE] [-Haruki](https://osu.ppy.sh/users/3673149), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
 | Statistician | ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
@@ -49,9 +49,9 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/860911)
-- [otst! Discord server](https://discord.gg/YHyqz4x "Discord")
-- [Livestream](https://twitch.tv/osu_otst "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1COneF_D_UM6ApTJx2Bw5P7WVXLQca0WH2Sun5aeaQgs/edit?usp=sharing "Google Sheets")**
+- [otst! Discord server](https://discord.gg/YHyqz4x)
+- [Livestream](https://twitch.tv/osu_otst)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1COneF_D_UM6ApTJx2Bw5P7WVXLQca0WH2Sun5aeaQgs/edit?usp=sharing)**
 
 ## Participants
 
@@ -109,9 +109,9 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Floating up |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Rubber Conquest |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | #arsecrackers |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Floating up** (![][flag_KR] **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_TW] [Rizer](https://osu.ppy.sh/users/5155973), ![][flag_IT] [Koba](https://osu.ppy.sh/users/4448118), ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078), ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890), ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Rubber Conquest** (![][flag_US] **[Apraxia](https://osu.ppy.sh/users/4194445)**, ![][flag_KR] [nathan on osu](https://osu.ppy.sh/users/124493), ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_KR] [Neta](https://osu.ppy.sh/users/832084), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_CA] [RyuK](https://osu.ppy.sh/users/6304246), ![][flag_KR] [Aristia](https://osu.ppy.sh/users/3478883), ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **#arsecrackers** (![][flag_AU] **[GranDSenpai](https://osu.ppy.sh/users/3997580)**, ![][flag_US] [he rack](https://osu.ppy.sh/users/2644828), ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683), ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552), ![][flag_JP] [Shirasaka Koume](https://osu.ppy.sh/users/3062998), ![][flag_DE] [Dustice](https://osu.ppy.sh/users/754565), ![][flag_JP] [----](https://osu.ppy.sh/users/4304495), ![][flag_JP] [Varvalian](https://osu.ppy.sh/users/3345902)) |
 
 ## Mappools
 
@@ -119,7 +119,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (113 MB)](https://mega.nz/#!z8hlFSxK!df_W0NfxqL_prWpYlW19ZycDqXKI3yBere1K1U_lQJk "MEGA")**
+**[Download the mappack here! (113 MB)](https://mega.nz/#!z8hlFSxK!df_W0NfxqL_prWpYlW19ZycDqXKI3yBere1K1U_lQJk)**
 
 - NoMod
   - [Dormir - Cookie Bouquets (dsco) \[Wonderland\]](https://osu.ppy.sh/beatmapsets/675125#osu/1428309)
@@ -149,7 +149,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 ### Semifinals
 
-**[Download the mappack here! (113 MB)](https://mega.nz/#!7sJ3mCqb!lC-e6cCMswI-6WX5qfkNLUBWhxH8JHPf9yTWlzmMMQw "MEGA")**
+**[Download the mappack here! (113 MB)](https://mega.nz/#!7sJ3mCqb!lC-e6cCMswI-6WX5qfkNLUBWhxH8JHPf9yTWlzmMMQw)**
 
 - NoMod
   - [T7 - Strike (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/679007#osu/1435677)
@@ -179,7 +179,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (113 MB)](https://mega.nz/#!n0AUDQIb!qwFO9feWeRvWYpBCRwCOaadEoCuZoXejaLptugz2vPA "MEGA")**
+**[Download the mappack here! (113 MB)](https://mega.nz/#!n0AUDQIb!qwFO9feWeRvWYpBCRwCOaadEoCuZoXejaLptugz2vPA)**
 
 - NoMod
   - [XX:me - escape (TV Size) (Mir) \[Mir's Expert\]](https://osu.ppy.sh/beatmapsets/782869#osu/1645687)
@@ -209,7 +209,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 ### Round of 16
 
-**[Download the mappack here! (98 MB)](https://mega.nz/#!i1wjGC5Q!7vDs8YXx5IPXAT31dr6CWYNBNjOjaGtOYkkJ3gzqTCM "MEGA")**
+**[Download the mappack here! (98 MB)](https://mega.nz/#!i1wjGC5Q!7vDs8YXx5IPXAT31dr6CWYNBNjOjaGtOYkkJ3gzqTCM)**
 
 - NoMod
   - [Kurosaki Maon - Gravitation (TV Size) (Lasse) \[Lasse's Extra\]](https://osu.ppy.sh/beatmapsets/864354#osu/1807738)
@@ -233,9 +233,9 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
   - **[Tatsh - Cruel Moon (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13584#osu/50148)**
   - **[t+pazolite - Electric "Sister" Bitch (Nerova Riuz GX) \[N/A's INFINITE\]](https://osu.ppy.sh/beatmapsets/441459#osu/976187)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (110 MB)](http://www.mediafire.com/file/zg731xlt633u44n/otst%21+Group+Stage.zip "MediaFire")**
+**[Download the mappack here! (110 MB)](http://www.mediafire.com/file/zg731xlt633u44n/otst%21+Group+Stage.zip)**
 
 - NoMod
   - [M2U - Moon Halo (Minorsonek) \[Infinity\]](https://osu.ppy.sh/beatmapsets/782778#osu/1648966)
@@ -356,7 +356,7 @@ Sunday, 17 March 2019:
 | derust | 4 | **5** | **la profanacion** | [#1](https://osu.ppy.sh/community/matches/50346076) |
 | **Hotel for Lolis** | **5** | 1 | Raise My PeePee | [#1](https://osu.ppy.sh/community/matches/50347544) |
 
-### Group Stage
+### Group stage
 
 Saturday, 2 March 2019:
 

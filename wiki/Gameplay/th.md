@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # เกมเพลย์
 
 - [ความแม่นยำ](/wiki/Gameplay/Accuracy)

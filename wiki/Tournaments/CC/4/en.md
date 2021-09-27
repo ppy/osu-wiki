@@ -12,7 +12,7 @@ tags:
 
 ![CCIV logo](img/logo.png)
 
-The **Corgi Cup IV: September 2017** (***CCIV***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710). It was the fourth installment of the Corgi Cup.
+The **Corgi Cup IV: September 2017** (***CCIV***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710). It was the fourth instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -31,9 +31,9 @@ The **Corgi Cup IV: September 2017** (***CCIV***) was a 1v1 double-elimination o
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Qwazar Red Shift (Cherry MX Red) Keyboard, 1 year of osu!supporter tag or a money equivalent, £20 Steam Gift Card, unique title on Doomsday’s Discord, profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag or a money equivalent, £10 Steam Gift Card, unique title on Doomsday’s Discord |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag or a money equivalent, £10 Steam Gift Card, unique title on Doomsday’s Discord |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Qwazar Red Shift (Cherry MX Red) Keyboard, 1 year of osu!supporter or a money equivalent, £20 Steam Gift Card, unique title on Doomsday’s Discord, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter or a money equivalent, £10 Steam Gift Card, unique title on Doomsday’s Discord |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter or a money equivalent, £10 Steam Gift Card, unique title on Doomsday’s Discord |
 
 ![](img/badge.png "CCIV winner badge")
 
@@ -54,10 +54,10 @@ Corgi Cup IV: September 2017 was run by various community members.
 
 ## Links
 
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1JXx3-np43KRkHLvhWCNblOf2EYXkpnMoMyZRNhiHOZc/edit?usp=sharing "Google Sheets")
-- [Livestream](https://twitch.tv/Doomsday "Twitch")
-- [Discord](https://discord.gg/doomscord "Discord")
-- [Challonge](https://challonge.com/CorgiCup4 "Challonge")
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1JXx3-np43KRkHLvhWCNblOf2EYXkpnMoMyZRNhiHOZc/edit?usp=sharing)
+- [Livestream](https://twitch.tv/Doomsday)
+- [Discord](https://discord.gg/doomscord)
+- [Challonge](https://challonge.com/CorgiCup4)
 
 ## Participants
 

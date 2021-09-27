@@ -8,7 +8,7 @@ tags:
 
 ![ATT 2020 logo](img/logo.jpg)
 
-The **Ausu!Taiko Tournament 2020** (**ATT 2020**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352). The tournament was restricted to players within the Southeast Asian countries only. It was the sixth installment of the Ausu!Taiko Tournament.
+The **Ausu!Taiko Tournament 2020** (**ATT 2020**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352). The tournament was restricted to players within the Southeast Asian countries only. It was the sixth instalment of the Ausu!Taiko Tournament.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **Ausu!Taiko Tournament 2020** (**ATT 2020**) was a double-elimination 1v1 o
 | --: | :-- |
 | Registration phase | 2020-04-20/2020-05-02 |
 | Reveal of seedings and groups | 2020-05-03 |
-| Group Stage | 2020-05-09/2020-05-11 |
+| Group stage | 2020-05-09/2020-05-11 |
 | Round of 16 | 2020-05-16/2020-05-17 |
 | Quarterfinals | 2020-05-23/2020-05-24 |
 | Semifinals | 2020-05-30/2020-06-01 |
@@ -46,9 +46,9 @@ The Ausu!Taiko Tournament 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1055313)
-- [Livestream](https://www.twitch.tv/DrumDecimator "Twitch")
-- [Challonge bracket](https://challonge.com/ausutaiko2020 "Challonge")
-- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1KgmKIGzTxIERNo9Dl6hL96A_wXRKYddfguvdx5P0ugI/edit?usp=sharing "Google Sheets")
+- [Livestream](https://www.twitch.tv/DrumDecimator)
+- [Challonge bracket](https://challonge.com/ausutaiko2020)
+- [Mappool spreadsheet](https://docs.google.com/spreadsheets/d/1KgmKIGzTxIERNo9Dl6hL96A_wXRKYddfguvdx5P0ugI/edit?usp=sharing)
 
 ## Participants
 
@@ -85,7 +85,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (85 MB)](https://www.mediafire.com/file/6mhp70fuknuavi1/A%21TT_Finals.rar/file "MediaFire")**
+**[Download the mappack here! (85 MB)](https://www.mediafire.com/file/6mhp70fuknuavi1/A%21TT_Finals.rar/file)**
 
 - NoMod
   - [lapix - Foolish Hero (FutureCore Mix) (HEKUSODASU) \[KUSO vs. Shallty HerOni\]](https://osu.ppy.sh/beatmapsets/858866#taiko/1794875)
@@ -112,7 +112,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (79 MB)](https://www.mediafire.com/file/x9zc6hf731hj4q4/A%21TT_Semis.rar/file "MediaFire")**
+**[Download the mappack here! (79 MB)](https://www.mediafire.com/file/x9zc6hf731hj4q4/A%21TT_Semis.rar/file)**
 
 - NoMod
   - [Feryquitous feat. Sennzai - Koe (Skull Kid) \[HiroK's Ura Oni\]](https://osu.ppy.sh/beatmapsets/958909#taiko/2061960)
@@ -183,7 +183,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[FELT - Lies in Reality (Surono) \[Dissembler\]](https://osu.ppy.sh/beatmapsets/665069#taiko/1407618)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [sakuzyo feat. Hatsune Miku - ChaiN De/structioN (Shiirn) \[Climbb & Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/49071#taiko/154164)
@@ -295,7 +295,7 @@ Sunday, 17 May 2020:
 | uchuuj1n ![][flag_SG] | 1 | **6** | ![][flag_SG] **Bobfree** | [#1](https://osu.ppy.sh/community/matches/61768193) |
 | FiNNb ![][flag_PH] | 4 | **6** | ![][flag_PH] **Aiery** | [#1](https://osu.ppy.sh/community/matches/61770234) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 May 2020:
 

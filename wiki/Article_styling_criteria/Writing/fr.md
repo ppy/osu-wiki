@@ -2,7 +2,7 @@
 
 *Pour les normes de mise en forme, voir : [Critères de style des articles/Mise en forme](../Formatting)*
 
-*Note : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119 "Outils IETF") pour décrire les niveaux d'exigence.*
+*Note : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les niveaux d'exigence.*
 
 **Attention : cet article n'a pas une réelle importance pour les traductions dans la langue française, il est plus destiné à la création d'articles en langue anglaise.**
 
@@ -126,7 +126,7 @@ Les marques commerciales ne doivent pas être suivies des symboles de la marque 
 
 ### Mise en forme de la date
 
-Les formats trouvés dans [Wikipédia:Conventions concernant les nombres § Formats](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats "Wikipédia (en anglais)") sont tous les formats de date acceptés. Le formatage des dates doit être cohérent dans l'ensemble de l'article.<!-- j'ai garder l'article dans sa version anglaise, car la version française de cette dernière et de mauvaise qualité, et n'explique pas explicitement le point abordé ici -->
+Les formats trouvés dans [Wikipédia:Conventions concernant les nombres § Formats](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats) sont tous les formats de date acceptés. Le formatage des dates doit être cohérent dans l'ensemble de l'article.<!-- j'ai garder l'article dans sa version anglaise, car la version française de cette dernière et de mauvaise qualité, et n'explique pas explicitement le point abordé ici -->
 
 Le format de date `AAAA-MM-JJ` ne doit être utilisé que dans les tableaux.
 
@@ -209,7 +209,7 @@ Les titres d'utilisateurs qui incluent `osu!` dans le nom du titre doivent prend
 - `osu! Alumni`
 - `osu! Champion`
 
-Pour tous les autres termes, osu! doit être traité comme un [nom qualificatif](https://en.wikipedia.org/wiki/Noun_adjunct "Wikipédia (en anglais)"). Cela signifie qu'il faut ajouter un espace entre osu! et le nom qu'il modifie. Voici quelques exemples :
+Pour tous les autres termes, osu! doit être traité comme un [nom qualificatif](https://en.wikipedia.org/wiki/Noun_adjunct). Cela signifie qu'il faut ajouter un espace entre osu! et le nom qu'il modifie. Voici quelques exemples :
 
 - `osu! tournaments`
 - `osu! community`
@@ -245,8 +245,7 @@ Ces mots doivent être orthographiés comme suit (l'espacement doit correspondre
 
 Certains mots ont des variantes. Leur orthographe préférée doit être utilisée et est la suivante :
 
-- `beatmap` au lieu de `map`.
-- `creator` au lieu de `beatmapper` ou `mapper`.
+- `creator` ou `mapper` au lieu de `beatmapper`.
 - `mapped` au lieu de `beatmapped`.
 - `BN` ou `Beatmap Nominators` lorsqu'il s'agit des *nominateurs de Beatmap*.
 - `sign in` au lieu de `log in`, sauf si le nom d'un bouton ou d'un lien indique le contraire.
@@ -302,7 +301,7 @@ Les expressions `tu` et `ton` sont à éviter. Le `je` ne doit pas être utilis�
 
 ## Grammar and syntax
 
-Les articles doivent utiliser de préférence une grammaire et une [syntaxe américaines plus simple](https://www.thepunctuationguide.com/british-versus-american-style.html "Le Guide de la ponctuation").
+Les articles doivent utiliser de préférence une grammaire et une [syntaxe américaines plus simple](https://www.thepunctuationguide.com/british-versus-american-style.html).
 
 ### Contractions
 
@@ -326,7 +325,7 @@ La virgule de série, également connue sous le nom de virgule d'Oxford ou de Ha
 
 ### Citations logiques
 
-Consultez le [Manuel de style de Wikipédia pour les citations logiques](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside "Wikipédia (en anglais)").
+Consultez le [Manuel de style de Wikipédia pour les citations logiques](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
 
 Extrait du manuel de style de Wikipédia :
 
@@ -334,4 +333,4 @@ Extrait du manuel de style de Wikipédia :
 
 ## Prononciation
 
-La prononciation écrite doit utiliser l'[Alphabet phonétique international](https://fr.wikipedia.org/wiki/Aide:Alphabet_phon%C3%A9tique_anglais "Wikipédia").
+La prononciation écrite doit utiliser l'[Alphabet phonétique international](https://fr.wikipedia.org/wiki/Aide:Alphabet_phon%C3%A9tique_anglais).

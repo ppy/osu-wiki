@@ -8,13 +8,11 @@ tags:
 
 # UK osu!standard tournament!
 
-![OUKT 1 Banner](img/logo.png)
+![OUKT 1 banner](img/logo.png)
 
-## Introduction
+The **UK osu!standard tournament!** (***OUKT1***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the first iteration of the **osu! UK Tournament** (***OUKT***) series.
 
-The **UK osu!standard tournament!** (***OUKT1***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 1st iteration of the **osu! UK Tournament** (***OUKT***) series.
-
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -30,8 +28,8 @@ The **UK osu!standard tournament!** (***OUKT1***) was a ![][flag_GB] United King
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
 
 ## Organisation
 
@@ -39,14 +37,14 @@ The OUKT1 was run by various community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Map Selectors | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) |
-| Referees | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_US] [Rinnou Kouriri](https://osu.ppy.sh/users/1518370) |
+| Organiser | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
+| Mappool selector | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) |
+| Referee | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_US] [Rinnou Kouriri](https://osu.ppy.sh/users/1518370) |
 
 ## Links
 
 - [Fourm thread](https://osu.ppy.sh/community/forums/topics/165077)
-- [Challonge page](https://challonge.com/UKosu "Challonge")
+- [Challonge page](https://challonge.com/UKosu)
 
 ## Participants
 
@@ -69,9 +67,9 @@ The OUKT1 was run by various community members
 
 ### Finals
 
-**[Download the mappack here! (98 MB)](https://drive.google.com/open?id=11lIJSeyRMWucvYUK_RGKCC8aX8De62gf "Google Drive")**
+**[Download the mappack here! (98 MB)](https://drive.google.com/open?id=11lIJSeyRMWucvYUK_RGKCC8aX8De62gf)**
 
-- Nomod
+- NoMod
   - [Yousei Teikoku - Wahrheit (Saten) \[Saten\]](https://osu.ppy.sh/beatmapsets/53923#osu/164183)
   - [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/42909#osu/138008)
   - [Ryu\* - Mind Mapping (kors k mix) (wring) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/47199#osu/146583)
@@ -94,9 +92,9 @@ The OUKT1 was run by various community members
 
 ### Semifinals
 
-**[Download the mappack here! (149 MB)](https://drive.google.com/open?id=1jqVKiYmtOHIwlLJE1JMdWX9kcvnA4oeY "Google Drive")**
+**[Download the mappack here! (149 MB)](https://drive.google.com/open?id=1jqVKiYmtOHIwlLJE1JMdWX9kcvnA4oeY)**
 
-- Nomod
+- NoMod
   - [Celldweller - So Long Sentiment (Metal Remix) (Kei) \[Snep&Kei's Sentiment\]](https://osu.ppy.sh/beatmapsets/43415#osu/139240)
   - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (Aleks719) \[Insane\]](https://osu.ppy.sh/beatmapsets/65853#osu/192508)
   - [AU - Infinite of Nuclear Fusion (OnosakiHito) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/35211#osu/291284)
@@ -118,9 +116,9 @@ The OUKT1 was run by various community members
 
 ### Quarterfinals
 
-**[Download the mappack here! (86 MB)](https://drive.google.com/open?id=1rulzK-5qWuuDHvVBPXcaFOPtUrF4sC6q "Google Drive")**
+**[Download the mappack here! (86 MB)](https://drive.google.com/open?id=1rulzK-5qWuuDHvVBPXcaFOPtUrF4sC6q)**
 
-- Nomod
+- NoMod
   - [Saiya - Remote Control (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/53857#osu/164020)
   - [Pizuya's Cell x MyonMyon - Romantic Children (Frill) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/18009#osu/68431)
   - [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/29727#osu/98496)
@@ -142,9 +140,9 @@ The OUKT1 was run by various community members
 
 ### Round of 16
 
-**[Download the mappack here! (114 MB)](https://drive.google.com/open?id=14X9ntsTRQMbxl7zeUPlCQc2UVYQn9PpG "Google Drive")**
+**[Download the mappack here! (114 MB)](https://drive.google.com/open?id=14X9ntsTRQMbxl7zeUPlCQc2UVYQn9PpG)**
 
-- Nomod
+- NoMod
   - [LeaF - Calamity Fortune (Flower) \[SCV's Lunatic\]](https://osu.ppy.sh/beatmapsets/96103#osu/261725)
   - [Jesus-P - Death Should Not Have Taken Thee! (cheesiest) \[Insane\]](https://osu.ppy.sh/beatmapsets/87119#osu/238128)
   - [guna with team kyukkyu - subconsciousness (Charles445) \[Another\]](https://osu.ppy.sh/beatmapsets/45205#osu/150892)
@@ -165,9 +163,7 @@ The OUKT1 was run by various community members
 
 ### Round of 32
 
-**[Download the mappack here! (132 MB)](link)**
-
-- Nomod
+- NoMod
   - [ONE OK ROCK - Answer is Near (Kuria) \[Insane\]](https://osu.ppy.sh/beatmapsets/63112#osu/186721)
   - [NicoNicoDouga - Courage to tell a lie (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/46574#osu/144935)
   - [Meiko - Leave The Lights On (KROT Remix) (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/56633#osu/171126)
@@ -211,7 +207,7 @@ Saturday, 4 January 2014
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] Deathosaurus | |
-| ILikeMudkipz ![][flag_GB] | 0 | **1** | ![][flag_GB] **R a h a r u** | Forfeit |
+| ILikeMudkipz ![][flag_GB] | 0 | **1** | ![][flag_GB] **R a h a r u** | *forfeit* |
 
 ### Quaterfinals
 
@@ -220,7 +216,7 @@ Saturday, 21 December 2013
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **4** | 2 | ![][flag_GB] vidya | |
-| **Deathosaurus** ![][flag_GB] | **3** | 1 | ![][flag_GB] Starry- | Forfeit (physical problems) |
+| **Deathosaurus** ![][flag_GB] | **3** | 1 | ![][flag_GB] Starry- | *forfeit (physical problems)* |
 | **ILikeMudkipz** ![][flag_GB] | **4** | 2 | ![][flag_GB] Viremon | |
 | **R a h a r u** ![][flag_GB] | **4** | 2 | ![][flag_GB] PortalLife | |
 
@@ -232,11 +228,11 @@ Saturday, 14 December 2013
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Raiku | |
 | destructor966 ![][flag_GB] | 0 | **3** | ![][flag_GB] **vidya** | |
-| jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Deathosaurus** | Forfeit |
+| jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Deathosaurus** | *forfeit* |
 | **Starry-** ![][flag_GB] | **3** | 1 | ![][flag_GB] \[Transcendence\] | |
-| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] Slvin | Forfeit |
+| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] Slvin | *forfeit* |
 | Cozzzy ![][flag_GB] | 2 | **3** | ![][flag_GB] **Viremon** | |
-| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] Nyaristoru | Forfeit |
+| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] Nyaristoru | *forfeit* |
 | Navi ![][flag_GB] | 2 | **3** | ![][flag_GB] **PortalLife** | |
 
 ### Round of 32
@@ -247,16 +243,16 @@ Saturday, 7 December 2013
 | --: | :-: | :-: | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Zarfots | |
 | **Raiku** ![][flag_GB] | **3** | 1 | ![][flag_GB] Mahiro Yasaka | |
-| Charleyzard ![][flag_GB] | 0 | **1** | ![][flag_GB] **destructor966** | Forfeit |
+| Charleyzard ![][flag_GB] | 0 | **1** | ![][flag_GB] **destructor966** | *forfeit* |
 | **vidya** ![][flag_GB] | **3** | 0 | ![][flag_GB] Just miku | |
 | **jesus1412** ![][flag_GB] | **3** | 0 | ![][flag_GB] EzLyn | |
 | **Deathosaurus** ![][flag_GB] | **3** | 0 | ![][flag_GB] Aaruen | |
-| **Starry-** ![][flag_GB] | **1** | 0 | ![][flag_GB] 3lliot | Forfeit |
+| **Starry-** ![][flag_GB] | **1** | 0 | ![][flag_GB] 3lliot | *forfeit* |
 | **\[Transcendence\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] scouttt | |
-| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] ItzDom | Forfeit |
+| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] ItzDom | *forfeit* |
 | **Slvin** ![][flag_GB] | **3** | 2 | ![][flag_GB] Snookie | |
 | **Cozzzy** ![][flag_GB] | **3** | 0 | ![][flag_GB] Yoishi | |
-| bubby963 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Viremon** | Forfeit |
+| bubby963 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Viremon** | *forfeit* |
 | **R a h a r u** ![][flag_GB] | **3** | 0 | ![][flag_GB] Tekklorn | |
 | Kardet ![][flag_GB] | 2 | **3** | ![][flag_GB] **Nyaristoru** | |
 | **Navi** ![][flag_GB] | **3** | 0 | ![][flag_GB] Riari | |
@@ -264,9 +260,9 @@ Saturday, 7 December 2013
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
-- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined by seeding via [osu!TP](https://web.archive.org/web/20131113173042/http://osutp.net/info "Internet Archive - osu!tp"). (There is one exception here, as someone took the place of a higher seed player.)
+- This tournament is a single elimination 1v1 tournament. Lose once, you are out. Brackets have been determined by seeding via [osu!TP](https://web.archive.org/web/20131113173042/http://osutp.net/info). (There is one exception here, as someone took the place of a higher seed player.)
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round until the Finals. (no more matches)
 - Each map pool will have 6-8 no mod picks, 2 mod picks and 1 tiebreaker. The mod brackets shall be Hidden/Double Time/Hard Rock. Two maps for each.
 - Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he cant pick from the HD pool again. P2 may however pick a HD map.
@@ -276,7 +272,7 @@ Saturday, 7 December 2013
 - RO32/RO16 will be best of 5. Quarterfinals, Semifinals will be best of 7. Finals will be best of 9.
 - Any unexpected happenings or events not covered by the rules shall be handled by the organizer at their discretion.
 
-### Match Rules
+### Match rules
 
 - The referee shall make the game and give it a appropriate title. First pick shall be decided by `!roll`, the highest roll wins. The pick order then will alternate back and forth between both players until a winner is declared.
 - The game mode shall be set to Team Vs.
@@ -285,7 +281,7 @@ Saturday, 7 December 2013
 - After the end of the match, the referee will post the title of the match and a link to the MP history of that lobby and the final match score.
 - Matches will be locked and invite only.
 
-### Scheduling Info
+### Scheduling info
 
 - Matches will be played on the weekend.
 - If you cannot play at the time posted for you, contact the organizer for a rearrangement.

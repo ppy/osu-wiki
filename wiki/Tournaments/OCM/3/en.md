@@ -8,7 +8,7 @@ tags:
 
 ![OCM3 logo](img/logo.png)
 
-The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) and ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156). It is the 3rd installment of the osu! Cup Master.
+The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) and ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156). It is the third instalment of the osu! Cup Master.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team
 | --: | :-- |
 | Registration phase | 2019-12-14/2020-01-25 |
 | Live drawings | 2020-02-09 |
-| Group Stage | 2020-02-15/2020-02-16 |
+| Group stage | 2020-02-15/2020-02-16 |
 | Quarterfinals | 2020-02-22/2020-02-23 |
 | Semifinals | 2020-02-29/2020-03-01 |
 | Finals | 2020-03-07/2020-03-08 |
@@ -27,8 +27,8 @@ The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (*to be confirmed*) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
-| ![MVP icon](img/mvp.png "MVP") | 1 month of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
+| ![MVP icon](img/mvp.png "MVP") | 1 month of osu!supporter |
 
 *Note: The MVP is chosen by the tournament staff after the tournament concludes.*
 
@@ -40,7 +40,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 | :-: | :-- |
 | Host | ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102), ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Manager | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
-| Map Selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_MX] [firu](https://osu.ppy.sh/users/10516547) , ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542) |
+| Mappool selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_MX] [firu](https://osu.ppy.sh/users/10516547) , ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542) |
 | Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_CL] [lechuguin](https://osu.ppy.sh/users/2872000), ![][flag_LU] [Gae](https://osu.ppy.sh/users/7787785), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) |
 | Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_CL] [Danilo](https://osu.ppy.sh/users/1350613), ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255), ![][flag_UY] [Neimex23](https://osu.ppy.sh/users/7293703), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555/osu), ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) |
 | Designer | ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
@@ -49,9 +49,9 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/997764)
-- [Livestream](https://www.twitch.tv/osucupmaster "Twitch")
-- [Discord server](https://discord.gg/Y9MKD8m "Discord")
-- [Twitter](https://twitter.com/CupOsu "Twitter")
+- [Livestream](https://www.twitch.tv/osucupmaster)
+- [Discord server](https://discord.gg/Y9MKD8m)
+- [Twitter](https://twitter.com/CupOsu)
 
 ## Participants
 
@@ -87,7 +87,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 
 ### Semifinals
 
-**[Download the mappack here! (106 MB)](https://mega.nz/#!rBgjCbTQ!w6slaPCtKT-LiGk7ggZwG11PFmVMAMCxl8o1Yi6Fc4w "MEGA")**
+**[Download the mappack here! (106 MB)](https://mega.nz/#!rBgjCbTQ!w6slaPCtKT-LiGk7ggZwG11PFmVMAMCxl8o1Yi6Fc4w)**
 
 - NoMod
   - [Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/720294#fruits/1520788)
@@ -116,7 +116,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 
 ### Quarterfinals
 
-**[Download the mappack here! (120 MB)](https://mega.nz/#!HNZVQIoZ!5iPK6FObu9KaM0XA_EUn-y_nKOz2WTITCk1h-olbvYg "MEGA")**
+**[Download the mappack here! (120 MB)](https://mega.nz/#!HNZVQIoZ!5iPK6FObu9KaM0XA_EUn-y_nKOz2WTITCk1h-olbvYg)**
 
 - NoMod
   - [P*light - Ninja (Kyubey) \[Elvis's Donatello\]](https://osu.ppy.sh/beatmapsets/195307#fruits/548376)
@@ -143,9 +143,9 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 - Tiebreaker
   - **[Nekomata Gekidan - Envidia (-Ken) \[Envy\]](https://osu.ppy.sh/beatmapsets/883114#fruits/1846202)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (136 MB)](https://mega.nz/#!bJADnIbL!QuXa-kSOKKIxCC8LcQNxOa5rEtGv4Fm8GvD1WqkISWo "MEGA")**
+**[Download the mappack here! (136 MB)](https://mega.nz/#!bJADnIbL!QuXa-kSOKKIxCC8LcQNxOa5rEtGv4Fm8GvD1WqkISWo)**
 
 - NoMod
   - [Scop - Keppekishou (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#fruits/201731)
@@ -190,7 +190,7 @@ Sunday, 23 February 2020:
 | Winner | \[B1\] Retired Players comeback | 5 | **6** | **Smukur es colombiano \[C2\]** | [#1](https://osu.ppy.sh/community/matches/58675218) |
 | Winner | **\[D1\] idk lol** | **6** | 2 | QT DOKU \[A2\] | [#1](https://osu.ppy.sh/community/matches/58673121) |
 
-### Group Stage
+### Group stage
 
 Saturday, 22 February 2020:
 

@@ -34,7 +34,7 @@ outdated: true
 
 ## Community
 
-*Caution: Use at your own risk! The projects listed below are not endorsed by osu! nor have any support from the osu! team.*
+*Caution: Use at your own risk! The projects listed below are not endorsed by osu!, nor do they have any official support.*
 
 Tools and/or services made by the osu! community. Feel free to add your own osu!-related projects to this list.
 
@@ -49,7 +49,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175)—Python clone of osu!
 - osu!droid—An unofficial osu! client written for Android, open source.
   - [GitHub](https://github.com/osudroid/osu-droid) | [Website](http://ops.dgsrz.com/)
-- [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640)—A free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") clone that plays osu! beatmaps on your iPhone or Android device.
+- [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640)—A free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) clone that plays osu! beatmaps on your iPhone or Android device.
 - 戳泡泡—A Chinese clone of osu!.
   - [Website](https://osugame.online/)
 

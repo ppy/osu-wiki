@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -12,7 +14,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 시작하기
 
-[환영합니다](/wiki/Welcome) • [설치하기](/wiki/Installation) • [회원가입](/wiki/Registration) • [고객 지원](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[설치하기](/wiki/Installation) • [회원가입](/wiki/Registration) • [고객 지원](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -41,7 +43,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 구성 요소: [AiMod](/wiki/Beatmap_Editor/AiMod) • [비트 스냅 박자](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [거리 스냅](/wiki/Beatmap_Editor/Distance_Snap) • [메뉴](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [타임라인](/wiki/Beatmap_Editor/Timelines)
 
-[비트매핑](/wiki/Beatmapping) • [난이도](/wiki/Beatmap/Difficulty) • [매핑 테크닉](/wiki/Mapping_Techniques) • [스토리보드 만들기](/wiki/Storyboarding)
+[비트매핑](/wiki/Beatmapping) • [난이도](/wiki/Beatmap/Difficulty) • [매핑 테크닉](/wiki/Mapping_Techniques) • [스토리보드 만들기](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -82,7 +84,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 위키 정보
 
-[사이트맵](/wiki/Sitemap) • [참여하는 방법](/wiki/osu!_wiki_Contribution_Guide) • [문서 스타일링 크리테리아](/wiki/Article_Styling_Criteria) • [뉴스 스타일링 크리테리아](/wiki/News_Styling_Criteria)
+[사이트맵](/wiki/Sitemap) • [참여하는 방법](/wiki/osu!_wiki/Contribution_guide) • [문서 스타일링 크리테리아](/wiki/Article_Styling_Criteria) • [뉴스 스타일링 크리테리아](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

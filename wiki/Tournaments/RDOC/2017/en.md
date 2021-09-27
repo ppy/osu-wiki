@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2017 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), and ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469). It was the third installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), and ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469). It was the third instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -26,10 +26,10 @@ The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 12 months of osu!supporter tag, custom hoodie |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag, custom t-shirt |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
-| *4th place* | 2 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 12 months of osu!supporter, custom hoodie |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter, custom t-shirt |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
+| *4th place* | 2 months of osu!supporter |
 
 ![](img/badge.png "RDOC 2017 winner badge")
 
@@ -50,8 +50,8 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/553131)
-- [RDOC Discord server](https://discord.gg/4XRqWJB "Discord")
-- [Challonge brackets](https://challonge.com/rdoc2017 "Challonge")
+- [RDOC Discord server](https://discord.gg/4XRqWJB)
+- [Challonge brackets](https://challonge.com/rdoc2017)
 
 ## Participants
 

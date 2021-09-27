@@ -24,15 +24,15 @@ The **:thonking: Newbie mania Tournament** (***TNMT***) was a 1v1 osu!mania 4K t
 | Finals week 1 | 2019-09-21/2019-09-22 |
 | Finals week 2 | 2019-09-28/2019-09-29 |
 
-## Prize
+## Prizes
 
 All prizes were sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6679329)**.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![](/wiki/shared/crown-gold.png) | 3 months of osu!supporter tag, unique profile badge |
-| ![](/wiki/shared/crown-silver.png) | 2 months of osu!supporter tag |
-| ![](/wiki/shared/crown-bronze.png) | 1 month of osu!supporter tag |
+| ![](/wiki/shared/crown-gold.png) | 3 months of osu!supporter, unique profile badge |
+| ![](/wiki/shared/crown-silver.png) | 2 months of osu!supporter |
+| ![](/wiki/shared/crown-bronze.png) | 1 month of osu!supporter |
 
 ## Organisation
 
@@ -50,18 +50,18 @@ All prizes were sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/933542)
-- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfq_yw61wfi9NyLxmTvBDw-rzwyqsYYHt_5udh5pMmX0iPQdA/viewform "Google Forms")
-- [Statistics sheet](https://docs.google.com/spreadsheets/d/10sproN_2SQWUi6BZ4Sv9wlx0I5-i0hEBq7wqqWrlJdQ "Google Sheets")
-- [Challonge brackets](https://challonge.com/TNMT "Challonge")
-- [Discord server](https://discord.gg/nxWEjpW "Discord")
-- [QQ group](https://jq.qq.com/?_wv=1027&k=5XdDR3K "QQ")
+- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfq_yw61wfi9NyLxmTvBDw-rzwyqsYYHt_5udh5pMmX0iPQdA/viewform)
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/10sproN_2SQWUi6BZ4Sv9wlx0I5-i0hEBq7wqqWrlJdQ)
+- [Challonge brackets](https://challonge.com/TNMT)
+- [Discord server](https://discord.gg/nxWEjpW)
+- [QQ group](https://jq.qq.com/?_wv=1027&k=5XdDR3K)
 - Livestream
-  - [Official Twitch](https://www.twitch.tv/thonkingtourney "Twitch")
-  - [IA daisuki](https://live.bilibili.com/4353181 "Bilibili")
-  - [kj415j45](https://okinawa.loli.land/live "Bilibili")
-  - [Rasis](https://live.bilibili.com/5333 "Bilibili")
-  - [Sinaeb](https://www.twitch.tv/sinbae_ "Twitch")
-  - [Logan636](https://www.twitch.tv/logan_636 "Twitch")
+  - [Official Twitch](https://www.twitch.tv/thonkingtourney)
+  - [IA daisuki](https://live.bilibili.com/4353181)
+  - [kj415j45](https://okinawa.loli.land/live)
+  - [Rasis](https://live.bilibili.com/5333)
+  - [Sinaeb](https://www.twitch.tv/sinbae_)
+  - [Logan636](https://www.twitch.tv/logan_636)
 
 ## Mappools
 

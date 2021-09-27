@@ -10,14 +10,14 @@ tags:
 
 ![OWC #3 logo](img/logo.png)
 
-The **osu! World Cup #3** (***OWC #3***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third installment of the osu! World Cup.
+The **osu! World Cup #3** (***OWC #3***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third instalment of the osu! World Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2012-10-25/2012-11-15 |
-| Group Stage | 2012-11-23/2012-12-09 |
+| Group stage | 2012-11-23/2012-12-09 |
 | Round of 16 | 2012-12-14/2012-12-16 |
 | Quarterfinals | 2013-01-04/2013-01-06 |
 | Semifinals | 2013-01-11/2013-01-13 |
@@ -27,9 +27,9 @@ The **osu! World Cup #3** (***OWC #3***) was a country-based osu! tournament hos
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, T-shirt |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge, T-shirt |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
 ![](img/badge.jpg "OWC #3 winner badge")
 
@@ -37,7 +37,7 @@ The **osu! World Cup #3** (***OWC #3***) was a country-based osu! tournament hos
 
 The osu! World Cup #3 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
 | Mappool selector | ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401), ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477) |
@@ -49,7 +49,7 @@ The osu! World Cup #3 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/102985)
-- [Livestream](https://www.twitch.tv/osuworldcup "Twitch")
+- [Livestream](https://www.twitch.tv/osuworldcup)
 
 ## Participants
 
@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (147 MB)](https://puu.sh/1NOAZ "puush")**
+**[Download the mappack here! (147 MB)](https://puu.sh/1NOAZ)**
 
 - FreeMod
   - [Katakiri Rekka - Answer (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/39953#osu/127047)
@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (183 MB)](https://puu.sh/1KW0D "puush")**
+**[Download the mappack here! (183 MB)](https://puu.sh/1KW0D)**
 
 - FreeMod
   - [TJ.Hangneil - Kamui (7odoa) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/39017#osu/140167)
@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (128 MB)](https://puu.sh/1zcsu "puush")**
+**[Download the mappack here! (128 MB)](https://puu.sh/1zcsu)**
 
 - FreeMod
   - [Jun.A - Ghost Lead (Scorpiour) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/47516#osu/147370)
@@ -223,7 +223,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Shintani Ryoko - Wonderful World (Laurier) \[Insane\]](https://osu.ppy.sh/beatmapsets/45306#osu/141525)**
 
-### Group Stage week 3
+### Group stage week 3
 
 - FreeMod
   - [Itou Kanako - fake me (Science Adventure Dance Remix) (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/50322#osu/154727)
@@ -244,9 +244,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[paraoka - Manima ni (Apricot) \[Insane\]](https://osu.ppy.sh/beatmapsets/41603#osu/131354)**
 
-### Group Stage week 2
+### Group stage week 2
 
-**[Download the mappack here! (103 MB)](https://puu.sh/1ukRK "puush")**
+**[Download the mappack here! (103 MB)](https://puu.sh/1ukRK)**
 
 - FreeMod
   - [Spriggan - Valkyrie Dimension (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/45935#osu/143189)
@@ -267,9 +267,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/22276#osu/86324)**
 
-### Group Stage week 1
+### Group stage week 1
 
-**[Download the mappack here! (66 MB)](https://puu.sh/1qFb1 "puush")**
+**[Download the mappack here! (66 MB)](https://puu.sh/1qFb1)**
 
 - FreeMod
   - [Hatsune Miku - Sabamiso! (val0108) \[Sabamiso!\]](https://osu.ppy.sh/beatmapsets/37705#osu/142588)

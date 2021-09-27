@@ -23,7 +23,7 @@ osu!에는 인게임에서 사용할 수 있는 많은 단축키가 존재합니
 - `F12`: 스크린샷 캡쳐
 - `Shift` + `F12`: 스크린샷 캡쳐 후 서버에 업로드
 - `Insert`: ([보스 키](https://en.wikipedia.org/wiki/Boss_key)) osu!클라이언트를 알림 영역으로 최소화합니다.
-- `Shift` + `F1`: [osu!status](https://twitter.com/osustatus "osu!status on Twitter") 열기 (연결 문제가 발생했을 때)
+- `Shift` + `F1`: [osu!status](https://twitter.com/osustatus) 열기 (연결 문제가 발생했을 때)
 
 ## 메인 메뉴
 

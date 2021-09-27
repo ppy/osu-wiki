@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
+---
+
 # Beatmap veto
 
 *Beatmap veto* memungkinkan seorang [Beatmap Nominator](/wiki/People/Beatmap_Nominators) untuk menahan sebuah beatmap dari sesi Kualifikasi jika mereka mendapati suatu masalah signifikan terkait kualitas beatmap yang membuatnya masih belum sesuai untuk menjadi bagian dari beatmap dengan status Ranked. Mendiskusikan atau mengklarifikasi lebih lanjut tentang segala jenis masalah kualitas yang mereka rasa perlu ditangani sebelum map tersebut dapat dilanjutkan ke sesi Kualifikasi adalah salah satu tanggung jawab utama mereka.

@@ -2,13 +2,14 @@
 tags:
   - MCNC
   - MCNC2019
+  - MCNC 2019
 ---
 
 # osu!mania 4K Chinese National Cup 2019
 
 ![MCNC 2019 logo](img/logo.jpg)
 
-The **osu!mania 4K Chinese National Cup 2019** (***MCNC 2019***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the first installment of the osu!mania 4K Chinese National Cup.
+The **osu!mania 4K Chinese National Cup 2019** (***MCNC 2019***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the first instalment of the osu!mania 4K Chinese National Cup.
 
 ## Tournament schedule
 
@@ -16,29 +17,29 @@ The **osu!mania 4K Chinese National Cup 2019** (***MCNC 2019***) was a country-b
 | --: | :-- |
 | Registration phase | 2019-05-16/2019-06-01 |
 | Live drawings | 2019-06-16 20:00:00 UTC+8 |
-| Group Stage | 2019-06-19/2019-06-23 |
+| Group stage | 2019-06-19/2019-06-23 |
 | Round of 16 | 2019-06-24/2019-06-30 |
 | Quarterfinals | 2019-07-01/2019-07-07 |
 | Semifinals | 2019-07-08/2019-07-22 |
-| Finals - Week 1 | 2019-07-23/2019-07-28 |
-| Finals - Week 2 | 2019-08-04/2019-08-12 |
+| Finals week 1 | 2019-07-23/2019-07-28 |
+| Finals week 2 | 2019-08-04/2019-08-12 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,000, Niz 104 Keyboard, profile badge, invite to the \[Crz\]Team, Rhythm-gaming professional Keycaps (x4), 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 600, Niz 87 Keyboard, Rhythm-gaming professional Keycaps (x4), 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, EnjoyPBT Keycaps, Rhythm-gaming professional Keycaps (x4), 1 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,000, Niz 104 Keyboard, profile badge, invite to the \[Crz\]Team, Rhythm-gaming professional Keycaps (x4), 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 600, Niz 87 Keyboard, Rhythm-gaming professional Keycaps (x4), 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, EnjoyPBT Keycaps, Rhythm-gaming professional Keycaps (x4), 1 months of osu!supporter |
 
 ## Organisation
 
 The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083) |
-| Map selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_BR] [Sillyfangirl](https://osu.ppy.sh/users/2288363), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) |
+| Mappool selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_BR] [Sillyfangirl](https://osu.ppy.sh/users/2288363), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) |
 | Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951), ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156) |
 | Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951) |
 | Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681), ![][flag_CN] [fazioli txt](https://osu.ppy.sh/users/9598315), ![][flag_CN] [-Se Tsu Nya-](https://osu.ppy.sh/users/6073139) |
@@ -48,9 +49,9 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/908176)
-- [Livestream](https://live.bilibili.com/2996250 "Bilibili")
-- [Challonge bracket](https://challonge.com/zh_CN/MCNC "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ii3yzv9lsReXbRN2dQTulp2izIpzSsp1zm_LIBVhzlQ "Google Sheets")**
+- [Livestream](https://live.bilibili.com/2996250)
+- [Challonge bracket](https://challonge.com/zh_CN/MCNC)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ii3yzv9lsReXbRN2dQTulp2izIpzSsp1zm_LIBVhzlQ)**
 
 ## Participants
 
@@ -81,7 +82,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 | #23 | ![][flag_CN] [Ecivon](https://osu.ppy.sh/users/9430102) |
 | #24 | ![][flag_CN] [Stink God](https://osu.ppy.sh/users/7381269) |
 
-### Groups
+## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -89,7 +90,9 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 | LFWY | \[RT\]Alleyne | \[Crz\]I-Night | ImmortalphoeniX | \[Crz\]Serika | AW ZERO | Sakaki | Pureforever |
 | Lo_liFish2000 | Tamaki Iroha | \[RT\]Mrqianmo | Namida KL | snowkyou | Ecivon | - xiaoluoli - | ying huo |
 
-### Podium and bracket
+![](img/bracket.png "MCNC 2019 bracket")
+
+## Podium
 
 This competition has come to an end and resulted in the following podium:
 
@@ -99,13 +102,11 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
 
-![MCNC 2019 bracket](img/bracket.png)
-
 ## Mappools
 
 ### Finals
 
-**[Download the mappack here! (154MB)](https://www.dropbox.com/s/r4p7tbxa58ijgzh/MCNC19%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (154MB)](https://www.dropbox.com/s/r4p7tbxa58ijgzh/MCNC19%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [TAG underground overlay - Over The "Period" (Tidek) \[Edit\]](https://osu.ppy.sh/beatmapsets/850075#mania/1777377)
@@ -128,7 +129,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (96.5MB)](https://www.dropbox.com/s/fq0u3l87fahgw5b/MCNC19%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (96.5MB)](https://www.dropbox.com/s/fq0u3l87fahgw5b/MCNC19%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/beatmapsets/941878#mania/1966772)
@@ -151,7 +152,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (110MB)](https://www.dropbox.com/s/6ocxk2bm9w8q49j/MCNC19%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (110MB)](https://www.dropbox.com/s/6ocxk2bm9w8q49j/MCNC19%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmapsets/973377#mania/2037752)
@@ -172,7 +173,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (82.9MB)](https://www.dropbox.com/s/k752wba6kpyyzt1/MCNC19%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (82.9MB)](https://www.dropbox.com/s/k752wba6kpyyzt1/MCNC19%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - Frums - Wavetapper (qqqant) \[Stage 1: Memory Factory\]
@@ -191,9 +192,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[goreshit - fleshbound (\[Crz\]NucleoAP) \[Couil's trapped\]](https://osu.ppy.sh/beatmapsets/992271#mania/2075130)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (84.3MB)](https://www.dropbox.com/s/ywwvekemymwzrjh/MCNC19%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0 "Dropbox")**
+**[Download the mappack here! (84.3MB)](https://www.dropbox.com/s/ywwvekemymwzrjh/MCNC19%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
   - [Frums - Credits (BossModWolf) \[Glitched Tech Corp. (SV)\]](https://osu.ppy.sh/beatmapsets/950920#mania/1985858)

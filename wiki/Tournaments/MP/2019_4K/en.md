@@ -10,7 +10,7 @@ tags:
 
 ![MP4K 2019 logo](img/logo.png)
 
-The **Mistrzostwa Polski w 4K 2019** (***MP4K 2019***, *4K Polish Championship 2019*) was a 1v1 4-key osu!mania tournament made for osu! players based in Poland or of Polish heritage. It was the third installment of the Mistrzostwa Polski w 4K.
+The **Mistrzostwa Polski w 4K 2019** (***MP4K 2019***, *4K Polish Championship 2019*) was a 1v1 4-key osu!mania tournament made for osu! players based in Poland or of Polish heritage. It was the third instalment of the Mistrzostwa Polski w 4K.
 
 ## Tournament schedule
 
@@ -28,13 +28,13 @@ The **Mistrzostwa Polski w 4K 2019** (***MP4K 2019***, *4K Polish Championship 2
 
 ## Prizes
 
-The prize pool was crowdfunded through the [tipanddonation](https://tipanddonation.com/MP4K3 "tipanddonation") page with a minimum prize pool set at 200 PLN total with a 50%/30%/20% split for the top 3 players.
+The prize pool was crowdfunded through the [tipanddonation](https://tipanddonation.com/MP4K3) page with a minimum prize pool set at 200 PLN total with a 50%/30%/20% split for the top 3 players.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 300 PLN, profile badge, 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 200 PLN, 4 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 100 PLN, 2 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 300 PLN, profile badge, 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 200 PLN, 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 100 PLN, 2 months of osu!supporter |
 
 ![](img/badge.png "MP4K 2019 winner badge")
 
@@ -54,9 +54,9 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/907418)
-- [Livestream](https://www.twitch.tv/mp4k "Twitch")
-- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv "Discord")
-- [Challonge](https://challonge.com/MP4K3 "Challonge")
+- [Livestream](https://www.twitch.tv/mp4k)
+- [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
+- [Challonge](https://challonge.com/MP4K3)
 
 ## Participants
 
@@ -79,6 +79,8 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 | **F** | ![][flag_PL] SitekX | ![][flag_PL] Miq | ![][flag_PL] Felix27 | ![][flag_PL] Acrith |
 | **G** | ![][flag_PL] Tidek | ![][flag_PL] Hvb3rt | ![][flag_PL] Shadow Cultist | ![][flag_PL] FD5GD |
 | **H** | ![][flag_PL] \_underjoy | ![][flag_PL] Justin14p | ![][flag_PL] m666 | ![][flag_PL] MrBooM |
+
+## Podium
 
 ![](img/podium.png "MP4K 2019 podium")
 
@@ -420,7 +422,7 @@ Sunday, 30 June 2019:
 
 ### Qualifiers
 
-The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhwQj6gqzWVjhmolPUlYOIkAjKZDEiqOqBGMl6M-a6duVOzzpWTqeiE0-bEolAnhZRSGQgKpyNJC_f/pubhtml "Google Sheets").
+The results of the Qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhwQj6gqzWVjhmolPUlYOIkAjKZDEiqOqBGMl6M-a6duVOzzpWTqeiE0-bEolAnhZRSGQgKpyNJC_f/pubhtml).
 
 ## Ruleset
 
@@ -507,7 +509,7 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Warm-up songs will be on FreeMod, which allows for any special modifications that players see fit for the purpose of warming up properly.
 - In the early stages, your warmup song cannot have a drain time of longer than 4 minutes. This rule is enforced within the Group Stage of the tournament.
 
-#### Bans, rolls and song selection
+#### Bans, rolls, and song selection
 
 - With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.

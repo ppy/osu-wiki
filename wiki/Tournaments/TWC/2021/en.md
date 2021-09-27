@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2021 logo](/wiki/shared/news/banners/TWC_2021.jpg)
 
-The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eleventh installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eleventh instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2021-02-04/2021-02-18 |
 | Live drawings | 2021-02-27 (14:00 UTC) |
-| Group Stage | 2021-03-06/2021-03-07 |
+| Group stage | 2021-03-06/2021-03-07 |
 | Round of 16 | 2021-03-13/2021-03-14 |
 | Quarterfinals | 2021-03-20/2021-03-21 |
 | Semifinals | 2021-03-27/2021-03-28 |
@@ -48,10 +48,10 @@ The osu!taiko World Cup 2021 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1241159)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- [Challonge bracket](https://challonge.com/TWC_2021 "Challonge")
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/53 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTImDZNlIdekerlWWr-TR82GKRflboYOcu3ZEqqeTuaSKQfOuY5WO2rS8p5lPjbvtZ5xZdY_iVGNcTI/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/TWC_2021)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/53) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTImDZNlIdekerlWWr-TR82GKRflboYOcu3ZEqqeTuaSKQfOuY5WO2rS8p5lPjbvtZ5xZdY_iVGNcTI/pubhtml)**
 
 ## Participants
 
@@ -90,7 +90,9 @@ The osu!taiko World Cup 2021 was run by various community members.
 | ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [cheese salad](https://osu.ppy.sh/users/6349821), [R J](https://osu.ppy.sh/users/6490509), [3san](https://osu.ppy.sh/users/8050850), [ChurroChef](https://osu.ppy.sh/users/9258564) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [-BunZ-](https://osu.ppy.sh/users/7556673), [SaraSoul](https://osu.ppy.sh/users/13493346) |
 
-![TWC 2021 podium](img/podium.jpg)
+## Podium
+
+![](img/podium.jpg "TWC 2021 podium")
 
 ## Mappools
 
@@ -217,7 +219,7 @@ The osu!taiko World Cup 2021 was run by various community members.
 - Tiebreaker
   - **[ulko - REGGAETON BUT IT HAS AMEN BREAKS (D3kuu) \[TATSUJIN\]](https://osu.ppy.sh/beatmapsets/1013247#taiko/2120869)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Noisia - Anomaly (maziari1105) \[Insane\]](https://osu.ppy.sh/beatmapsets/1222464#taiko/2542673)
@@ -327,7 +329,7 @@ Sunday, 14 March 2021:
 | Portugal ![][flag_PT] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/78051556) |
 | **Italy** ![][flag_IT] | **6** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/78059865) |
 
-### Group Stage
+### Group stage
 
 Saturday, 6 March 2021:
 

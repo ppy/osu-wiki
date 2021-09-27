@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2014 logo](img/logo.png)
 
-The **osu! World Cup 2014** (***OWC 2014***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth installment of the osu! World Cup.
+The **osu! World Cup 2014** (***OWC 2014***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! World Cup 2014** (***OWC 2014***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2014-10-02/2014-10-26 |
 | Live drawings | 2014-11-01 (14:00 UTC) |
-| Group Stage | 2014-11-08/2014-11-09 |
+| Group stage | 2014-11-08/2014-11-09 |
 | Round of 16 | 2014-11-16 |
 | Quarterfinals | 2014-11-22/2014-11-23 |
 | Semifinals | 2014-11-29/2014-11-30 |
@@ -27,9 +27,9 @@ The **osu! World Cup 2014** (***OWC 2014***) was a country-based osu! tournament
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, "osu! Champion" user title, osu! merchandise |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge, "osu! Champion" user title, osu! merchandise |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, unique profile badge |
 
 ![](img/badge.jpg "OWC 2014 winner badge") ![](img/badge2.jpg "OWC 2014 2nd place badge") ![](img/badge3.jpg "OWC 2014 3rd place badge")
 
@@ -48,8 +48,8 @@ The osu! World Cup 2014 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/posts/3410198)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://owc.nicarim.pw/results/view/3 "Nicarim")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://owc.nicarim.pw/results/view/3)**
 
 ## Participants
 
@@ -97,6 +97,8 @@ The osu! World Cup 2014 was run by various community members.
 | ![][flag_PT] Portugal | ![][flag_NZ] New Zealand | ![][flag_FR] France | ![][flag_MX] Mexico | ![][flag_SE] Sweden | ![][flag_NL] Netherlands | ![][flag_GB] United Kingdom | ![][flag_MY] Malaysia |
 | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_ID] Indonesia | ![][flag_UA] Ukraine | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_RU] Russian Federation |
 
+![](img/bracket.jpg "OWC 2014 bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -107,15 +109,13 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] **Poland** (**[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [listless](https://osu.ppy.sh/users/1106527), [r0ck](https://osu.ppy.sh/users/1549620), [SteRRuM](https://osu.ppy.sh/users/42585), [Wilchq](https://osu.ppy.sh/users/2021758), [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] **Germany** (**[cptnXn](https://osu.ppy.sh/users/495272)**, [BDDav](https://osu.ppy.sh/users/1164526), [CookEasy](https://osu.ppy.sh/users/453226), [Dustice](https://osu.ppy.sh/users/754565), [shunsuke](https://osu.ppy.sh/users/2028641), [Splinter572](https://osu.ppy.sh/users/846038), [Tom94](https://osu.ppy.sh/users/1857058)) |
 
-![OWC 2014 bracket](img/bracket.jpg)
-
 ## Mappools
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
 ### Finals
 
-**[Download the mappack here! (130 MB)](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar "MediaFire")**
+**[Download the mappack here! (130 MB)](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
 - NoMod
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmapsets/59049#osu/214248)
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (187 MB)](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar "MediaFire")**
+**[Download the mappack here! (187 MB)](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (164 MB)](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar "MediaFire")**
+**[Download the mappack here! (164 MB)](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
@@ -205,7 +205,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (144 MB)](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar "MediaFire")**
+**[Download the mappack here! (144 MB)](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
 - NoMod
   - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
@@ -233,9 +233,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (206 MB)](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar "MediaFire")**
+**[Download the mappack here! (206 MB)](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
 - NoMod
   - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
@@ -340,7 +340,7 @@ Sunday, 16 November 2014:
 | United Kingdom ![][flag_GB] | 2 | **5** | ![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10520060) |
 | Argentina ![][flag_AR] | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/10521646) |
 
-### Group Stage
+### Group stage
 
 Saturday, 8 November 2014:
 
@@ -430,7 +430,7 @@ Sunday, 9 November 2014:
 3. You must specify a captain who will represent the team.
 4. We do not differ between core players and back-up players
 5. Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
-6. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms"). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
+6. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 7. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
@@ -468,10 +468,10 @@ Sunday, 9 November 2014:
     | Stage | Match ID |
     | :-- | :-- |
     | Round of 16 | A, B, C, D, E, F, G, H |
-    | Quarter-finals | I, J, K, L & R, S, T, U |
-    | Semi-finals | M, N & V, W, X, Y, Z, AA |
-    | Finals - Week 1 | O & AB, AC, AD, AE |
-    | Finals - Week 2 | P, Q |
+    | Quarterfinals | I, J, K, L & R, S, T, U |
+    | Semifinals | M, N & V, W, X, Y, Z, AA |
+    | Finals week 1 | O & AB, AC, AD, AE |
+    | Finals week 2 | P, Q |
 
 12. **Winning conditions:**
     - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)

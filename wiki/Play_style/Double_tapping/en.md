@@ -14,7 +14,7 @@ tags:
 
 ## Usage
 
-Double tapping is typically substituted in-place of a player's primary tapping style due to it's easy-to-execute form and increased "speed" (even though the player isn't actually tapping any faster). This increase in speed is achieved by taking advantage of the overlapping hit windows that occur most frequently in stacks and streams. So once one key's input is registered as hitting one circle in  a stack, the next circle will also be registered as hit due to their hit windows being so close together that they overlap. But as a result of this, it's almost impossible to control the timing of these hits which can take a toll on the player's [accuracy](/wiki/Accuracy).
+Double tapping is typically substituted in-place of a player's primary tapping style due to it's easy-to-execute form and increased "speed" (even though the player isn't actually tapping any faster). This increase in speed is achieved by taking advantage of the overlapping hit windows that occur most frequently in stacks and streams. So once one key's input is registered as hitting one circle in  a stack, the next circle will also be registered as hit due to their hit windows being so close together that they overlap. But as a result of this, it's almost impossible to control the timing of these hits which can take a toll on the player's [accuracy](/wiki/Gameplay/Accuracy).
 
 ## Arguments
 

@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2016 logo](img/logo.jpg)
 
-The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh installment of the osu! World Cup.
+The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2016-10-02/2016-10-16 |
 | Live drawings | 2016-11-04 (12:00 UTC) |
-| Group Stage | 2016-11-12/2016-11-13 |
+| Group stage | 2016-11-12/2016-11-13 |
 | Round of 16 | 2016-11-19 |
 | Quarterfinals | 2016-11-26 |
 | Semifinals | 2016-12-03/2016-12-04 |
@@ -37,7 +37,7 @@ The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament
 
 The osu! World Cup 2016 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- |:-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) |
@@ -47,9 +47,9 @@ The osu! World Cup 2016 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/507270)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- [Stage recaps](https://www.youtube.com/playlist?list=PLqJuZKl72XH_El27Es8RsxW5NXDUVeRRl "YouTube") (by Feurigel)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/users/1/d/1rvVSjmdHIb-h8pekmVfIIPDPivrD5fACjNRYGo1U9to/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- [Stage recaps](https://www.youtube.com/playlist?list=PLqJuZKl72XH_El27Es8RsxW5NXDUVeRRl) (by Feurigel)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/users/1/d/1rvVSjmdHIb-h8pekmVfIIPDPivrD5fACjNRYGo1U9to/pubhtml)**
 
 ## Participants
 
@@ -101,9 +101,11 @@ The osu! World Cup 2016 was run by various community members.
 | **G** | ![][flag_KR] South Korea | ![][flag_RU] Russian Federation | ![][flag_NL] Netherlands | ![][flag_ID] Indonesia |
 | **H** | ![][flag_GB] United Kingdom | ![][flag_BR] Brazil | ![][flag_HK] Hong Kong | ![][flag_SE] Sweden |
 
-![OWC 2016 podium](img/podium.jpg)
+![](img/bracket.jpg "OWC 2016 bracket")
 
-![OWC 2016 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "OWC 2016 podium")
 
 ## Mappools
 
@@ -111,7 +113,7 @@ The osu! World Cup 2016 was run by various community members.
 
 **This mappool was played during the Finals week 1 and Finals week 2.**
 
-[Download the mappack here! (148 MB)](https://www.mediafire.com/file/1rf6jgjsgfilhkx/OWC_2016_Finals.rar "MediaFire")
+[Download the mappack here! (148 MB)](https://www.mediafire.com/file/1rf6jgjsgfilhkx/OWC_2016_Finals.rar)
 
 - NoMod
   - [U1 overground - Dopamine (fanzhen0019) \[C6H3(OH)2-CH2-CH2-NH2\]](https://osu.ppy.sh/beatmapsets/210316#osu/494818)
@@ -138,7 +140,7 @@ The osu! World Cup 2016 was run by various community members.
 
 ### Semifinals
 
-[Download the mappack here! (131 MB)](https://www.mediafire.com/file/byy9j4jan4uhk57/OWC_2016_Semifinals.rar "MediaFire")
+[Download the mappack here! (131 MB)](https://www.mediafire.com/file/byy9j4jan4uhk57/OWC_2016_Semifinals.rar)
 
 - NoMod
   - [ZUN remixed by LeaF - Resurrection Spell (Muya) \[VOLCANO\]](https://osu.ppy.sh/beatmapsets/292644#osu/658561)
@@ -165,7 +167,7 @@ The osu! World Cup 2016 was run by various community members.
 
 ### Quarterfinals
 
-[Download the mappack here! (125 MB)](https://www.mediafire.com/file/7gmr44m72v58p8w/OWC_2016_Quarterfinals.rar "MediaFire")
+[Download the mappack here! (125 MB)](https://www.mediafire.com/file/7gmr44m72v58p8w/OWC_2016_Quarterfinals.rar)
 
 - NoMod
   - [Memme - Chinese Restaurant (M o k o r i) \[Spicy\]](https://osu.ppy.sh/beatmapsets/256467#osu/587547)
@@ -192,7 +194,7 @@ The osu! World Cup 2016 was run by various community members.
 
 ### Round of 16
 
-[Download the mappack here! (171 MB)](https://www.mediafire.com/file/1qbqnc5hxa10xk9/OWC_2016_Round_of_16.rar "MediaFire")
+[Download the mappack here! (171 MB)](https://www.mediafire.com/file/1qbqnc5hxa10xk9/OWC_2016_Round_of_16.rar)
 
 - NoMod
   - [Cilvery - Kamisama Nejimaki (sukiNathan) \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/374900#osu/821238)
@@ -217,9 +219,9 @@ The osu! World Cup 2016 was run by various community members.
 - Tiebreaker
   - **[Camellia - d:for the DELTA (ProfessionalBox) \[Delirium\]](https://osu.ppy.sh/beatmapsets/396370#osu/862338)**
 
-### Group Stage
+### Group stage
 
-[Download the mappack here! (153 MB)](https://www.mediafire.com/file/13glkdv1zbyxfpp/OWC_2016_Group_Stage.rar "MediaFire")
+[Download the mappack here! (153 MB)](https://www.mediafire.com/file/13glkdv1zbyxfpp/OWC_2016_Group_Stage.rar)
 
 - NoMod
   - [sakuzyo - Altale (toybot) \[Bonzi's Extra\]](https://osu.ppy.sh/beatmapsets/228815#osu/1012279)
@@ -264,7 +266,7 @@ Saturday, 10 December 2016:
 | **United States** ![][flag_US] | **6** | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/29524076) |
 | **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/29530355) |
 | Germany ![][flag_DE] | 2 | **6** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/29531576) |
-| **China** ![][flag_CN] | **4** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/29533696) |
+| **China** ![][flag_CN] | **6** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/29533696) |
 
 Sunday, 11 December 2016:
 
@@ -283,7 +285,7 @@ Saturday, 3 December 2016:
 | Finland ![][flag_FI] | 0 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/29383842) |
 | **United States** ![][flag_US] | **6** | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/29385744) |
 | **United Kingdom** ![][flag_GB] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/29388879) |
-| Canada ![][flag_CA] | 0 | **6** | ![][flag_BR] **Poland** | [#1](https://osu.ppy.sh/community/matches/29391121) |
+| Canada ![][flag_CA] | 0 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/29391121) |
 
 Sunday, 4 December 2016:
 
@@ -322,7 +324,7 @@ Saturday, 19 November 2016:
 | Canada ![][flag_CA] | 1 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29105450) |
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/29106903) |
 
-### Group Stage
+### Group stage
 
 Saturday, 12 November 2016:
 
@@ -344,13 +346,13 @@ Saturday, 12 November 2016:
 | **Poland** ![][flag_PL] | **4** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/28955012) |
 | **Taiwan** ![][flag_TW] | **4** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/28955025) |
 | Austria ![][flag_AT] | 2 | **4** | ![][flag_DK] **Denmark** | [#1](https://osu.ppy.sh/community/matches/28955030) |
-| **Brazil** ![][flag_AT] | **4** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/28955037) |
+| **Brazil** ![][flag_BR] | **4** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/28955037) |
 | **Germany** ![][flag_DE] | **4** | 1 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/28961703) |
 | **Canada** ![][flag_CA] | **4** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/28961705) |
 | **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/28961706) |
 | **Poland** ![][flag_PL] | **4** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/28962677) |
 | **United States** ![][flag_US] | **4** | 3 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/28962678) |
-| **Norway** ![][flag_US] | **4** | 1 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/28962679) |
+| **Norway** ![][flag_NO] | **4** | 1 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/28962679) |
 | Mexico ![][flag_MX] | 2 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/28964826) |
 | **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/28964827) |
 
@@ -461,8 +463,8 @@ Sunday, 13 November 2016:
    | Round of 16 | A, B, C, D, E, F, G, H |
    | Quarterfinals | I, J, K, L & R, S, T, U |
    | Semifinals | M, N & V, W, X, Y, Z, AA |
-   | Finals - Week 1 | O & AB, AC, AD, AE |
-   | Finals - Week 2 | P, Q |
+   | Finals week 1 | O & AB, AC, AD, AE |
+   | Finals week 2 | P, Q |
 
 #### Winning conditions
 

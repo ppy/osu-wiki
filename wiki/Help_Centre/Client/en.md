@@ -138,8 +138,10 @@ To safely force your beatmap database to be recreated, try the following steps:
 4. Close osu!.
 5. Find the `osu!.db` file located in the folder you just opened.
 6. Right-click on it, then click `Rename`.
-7. Rename it to anything. It does not matter what you rename it to, as long as it is not "osu!". Then press `Enter`.
+7. Rename it as you wish. It doesn't matter, as long as it is not called "osu!". Then press `Enter`.
 8. Relaunch osu!.
+
+*Note: a fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues).*
 
 ### My song list keeps scrolling!
 
@@ -155,7 +157,7 @@ You may also wish to check for any jammed or damaged buttons on your peripherals
 
 **You will need to extract the pack into your Songs directory.**
 
-Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You will need to extract them using your utility of choice (we recommend [7-Zip](https://7-zip.org "7zip")) to your 'Songs' directory first.
+Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You will need to extract them using your utility of choice (we recommend [7-Zip](https://7-zip.org)) to your 'Songs' directory first.
 
 Once all of the `.osz` files from the archive are in the `Songs` directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
 
@@ -207,7 +209,7 @@ The default keybinding for this feature is `C`, and it will work for as long as 
 
 This will save your shiny new score as a `.osr` file in the /Replays/ folder within the default osu! installation directory.
 
-osu! also automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
+osu! also automatically saves all replays after you complete a song under the `/Data/r/` hidden folder, also contained within the osu! installation directory.
 
 Please note that if no replay was saved for the score you will not be able to retrieve a replay by doing this.
 
@@ -247,7 +249,7 @@ In the song select menu, check in the top left of the screen for any small icons
 
 ![](img/correct-map-status.png "This is what it should look like")
 
-Playing with the `global leaderboard` selected, rather than the local leaderboard, can help prevent this on a map by map basis. If a large number of your beatmaps, or all of them, are missing/have incorrect statuses, try forcing your beatmap database file to be recreated. You can find out how to safely do this above in the "Some of my beatmaps are missing!" section. After doing this, it may take some time for all of your maps to regain the correct status.
+Playing with the `global leaderboard` selected, rather than the local leaderboard, can help prevent this on a map by map basis. If a large number of your beatmaps, or all of them, are missing/have incorrect statuses, try forcing your beatmap database file to be recreated. You can find out how to safely do this above in the "[Some of my beatmaps are missing!](#some-of-my-beatmaps-are-missing)" section. After doing this, it may take some time for all of your maps to regain the correct status.
 
 #### Are the score submission servers up?
 
@@ -314,15 +316,15 @@ To make sure osu! can access the internet, we will need to allow it to communica
 
 #### Allowing a program through AVG Firewall
 
-Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=Allow-application-in-AVG-Firewall) for detailed instructions on how to do this.
+Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home) for detailed instructions on how to do this.
 
-#### Allowing a program through Kaspersky Security Center
+#### Allowing a program through Kaspersky Internet Security
 
-Please consult Kaspersky's [official help article](https://support.kaspersky.com/7834) on adding applications to the Trusted Zone.
+Please consult Kaspersky's [official help article](https://support.kaspersky.com/15163#block2) on adding applications to the Trusted Zone.
 
 #### Allowing a program through McAfee
 
-Please consult McAfee's [official knowledgebase entry on the topic](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813).
+Please consult McAfee's [official knowledgebase entry on the topic](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
 
 ### I've added osu! to my firewall but I still can't connect to the game!
 
@@ -339,7 +341,7 @@ If you are still having issues connecting to our game servers, please submit a s
 
 You can perform a trace route by opening Command Prompt and running the command `tracert`.
 
-To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. [For more information, see this Windows knowledgebase article.](https://support.microsoft.com/en-us/kb/314868).
+To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. For more information, see the [Windows knowledgebase article](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
 
 You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
 
@@ -351,7 +353,7 @@ To copy the results of the command, simply click and drag from the bottom of the
 
 **The servers could be having issues.**
 
-Check the [osu! server status page](https://status.ppy.sh/ "status.pyy.sh") to see if there are any ongoing issues with the servers.
+Check the [osu! server status page](https://status.ppy.sh/ "osu! server status") to see if there are any ongoing issues with the servers.
 
 **This can also happen if you are using a shared internet connection, a proxy, or VPN.**
 
@@ -379,7 +381,7 @@ To check what your frame limiter is set to, follow these steps:
 2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
 3. Type `frame` into the quick-search to bring up the frame limiter options.
 
-If your frame limiter is set to Unlimited, you may notice a significant improvement by changing it to one of the other three options.
+If your frame limiter is set to `Unlimited`, you may notice a significant improvement by changing it to one of the other three options.
 
 `VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `Power Saving` and `Optimal` will run the game at twice and 8 times your monitor's refresh rate, up to 960Hz.
 
@@ -391,9 +393,9 @@ You may also wish to look into utilities that allow you to control the speed of 
 
 **Most of the time, this is due to overheating of one or more of your computer's components, usually your graphics card or CPU.**
 
-To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Piriform Speccy](https://www.piriform.com/speccy).
+To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Speccy](https://www.ccleaner.com/speccy).
 
-If you notice either your GPU or CPU temperature exceeding values of 90C or 194F, your computer is running very hot and dangerously close to most automatic shutdown thresholds.
+If you notice either your GPU or CPU temperature exceeding values of 90°C or 194°F, your computer is running very hot and dangerously close to most automatic shutdown thresholds.
 
 ### My computer isn't overheating, but the game still causes my computer to reboot!
 

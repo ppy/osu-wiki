@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2018 logo](img/logo.png)
 
-The **osu!mania 4K World Cup 2018** (***MWC 4K 2018***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2018** (***MWC 4K 2018***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2018** (***MWC 4K 2018***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2018-07-25/2018-08-08 |
 | Live drawings | 2018-08-25 (14:00 UTC) |
-| Group Stage | 2018-09-01/2018-09-02 |
+| Group stage | 2018-09-01/2018-09-02 |
 | Round of 16 | 2018-09-08/2018-09-09 |
 | Quarterfinals | 2018-09-15/2018-09-16 |
 | Semifinals | 2018-09-22/2018-09-23 |
@@ -39,7 +39,7 @@ The **osu!mania 4K World Cup 2018** (***MWC 4K 2018***) was a country-based osu!
 
 The osu!mania 4K World Cup 2018 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
@@ -50,8 +50,8 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/779486)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4YC-Klj9KWK_TQD6UCT3rFE8UwbILbiTjf6yMP-zpzt6wbvyKajW8qG2x6wLLiquggUw4pp_-lVJA/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4YC-Klj9KWK_TQD6UCT3rFE8UwbILbiTjf6yMP-zpzt6wbvyKajW8qG2x6wLLiquggUw4pp_-lVJA/pubhtml)**
 
 ## Participants
 
@@ -103,9 +103,11 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 | **G** | ![][flag_BR] Brazil | ![][flag_SG] Singapore | ![][flag_RU] Russian Federation | ![][flag_HK] Hong Kong |
 | **H** | ![][flag_CA] Canada | ![][flag_FR] France | ![][flag_ES] Spain | ![][flag_MO] Macau |
 
-![MWC 4K 2018 podium](img/podium.jpg)
+![](img/bracket.jpg "MWC 4K 2018 bracket")
 
-![MWC 4K 2018 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 4K 2018 podium")
 
 ## Mappools
 
@@ -113,7 +115,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 
 ### Finals
 
-- Freemod
+- FreeMod
   - [Yuuna Kamishiro - Shrill False (Hydria) \[Lunatic - 0.95x\]](https://osu.ppy.sh/beatmapsets/471708#mania/1778859)
   - [Kommisar - Turkey Turkey (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/852916#mania/1782630)
   - [LeaF - I (Tidek) \[Ego\]](https://osu.ppy.sh/beatmapsets/853523#mania/1783820)
@@ -134,7 +136,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 
 ### Semifinals
 
-- Freemod
+- FreeMod
   - [Yuuyu - endleSSStation (Frums Shuden Bootleg) (Elekton) \[last train\]](https://osu.ppy.sh/beatmapsets/653227#mania/1384837)
   - [SOUND HOLIC feat. Nana Takahashi - Wakusei\*Lollipop (Unknown\_player) \[qqq's LNoli Pop\]](https://osu.ppy.sh/beatmapsets/816149#mania/1723938)
   - [Camellia - Chirality (Abraxos) \[Kheiral point\]](https://osu.ppy.sh/beatmapsets/681311#mania/1440557)
@@ -155,7 +157,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 
 ### Quarterfinals
 
-- Freemod
+- FreeMod
   - [ANNERLEY GORDON - ON MY OWN  2006 (Sped Up Ver.) (Jole) \[0.95x\]](https://osu.ppy.sh/beatmapsets/844060#mania/1765782)
   - [Hommarju - Rock It (Mage) \[aLNother\]](https://osu.ppy.sh/beatmapsets/725793#mania/1532410)
   - [sakuraburst - dragonlands (TheToaphster) \[myth\]](https://osu.ppy.sh/beatmapsets/808881#mania/1697375)
@@ -174,9 +176,9 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here!](https://www.dropbox.com/sh/s1taz1rtutblzbs/AACt_d06U54Qta4qKZC8zARca?dl=0 "Dropbox")**
+**[Download the mappack here!](https://www.dropbox.com/sh/s1taz1rtutblzbs/AACt_d06U54Qta4qKZC8zARca?dl=0)**
 
-- Freemod
+- FreeMod
   - [Glome - Cynthia (With Moonlight) (Elekton) \[hyper\]](https://osu.ppy.sh/beatmapsets/716826#mania/1514659)
   - [Y..J - Ten Thousand Tons of Anonymous Letters (zero2snow) \[A message\]](https://osu.ppy.sh/beatmapsets/768928#mania/1616973)
   - [The Black Dahlia Murder - Deathmask Divine (Valedict) \[Necromance\]](https://osu.ppy.sh/beatmapsets/563020#mania/1190604)
@@ -193,11 +195,11 @@ The osu!mania 4K World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[goreshit - fleshbound (Couil) \[trapped\]](https://osu.ppy.sh/beatmapsets/992271#mania/2075130)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here!](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0 "Dropbox")**
+**[Download the mappack here!](https://www.dropbox.com/sh/tbxsmeunyarynr2/AAAH0KoruTSFfYPf-TpDkkdXa?dl=0)**
 
-- Freemod
+- FreeMod
   - [Suzuki Konomi - THERE IS A REASON (Mat) \[Uc207Pr4f57t9\]](https://osu.ppy.sh/beatmapsets/778642#mania/1635364)
   - [toby fox - ASGORE (Wh1teh) \[Edit\]](https://osu.ppy.sh/beatmapsets/824051#mania/1726743)
   - [Mike Forst - I Do, What I Want (XeoStyle) \[SV\]](https://osu.ppy.sh/beatmapsets/498779#mania/1061726)
@@ -299,7 +301,7 @@ Sunday, 9 September 2018:
 | Australia ![][flag_AU] | 1 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/45829590) |
 | **Indonesia** ![][flag_ID] | **6** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/45831584) |
 
-### Group Stage
+### Group stage
 
 Saturday, 1 September 2018:
 

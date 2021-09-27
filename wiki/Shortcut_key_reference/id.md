@@ -29,8 +29,8 @@ Pintasan-pintasan ini bekerja di mana pun:
 | `F10` | Mengaktifkan/menonaktifkan semua tombol mouse (kecuali untuk roda mouse yang selalu menyala). |
 | `F12` | Mengambil screenshot. Klik pada dialog untuk membuka folder screenshot. |
 | `Shift` + `F12` | Mengambil screenshot dan meng-upload-nya ke server osu! untuk bisa dibagikan. Screenshot ini juga akan disimpan secara lokal. Perintah ini akan membuka screenshot tersebut pada web browser kamu. |
-| `Insert` | Tombol ini adalah [tombol bos](https://en.wikipedia.org/wiki/Boss_key "Tombol Bos di Wikipedia"). Meminimalkan klien gim ke bagian notifikasi komputer. Perintah ini juga akan mematikan suara gim. |
-| `Shift` + `F1` | Membuka [osu!status](https://twitter.com/osustatus "osu!status di Twitter") di web browser kamu. (Hanya ketika terjadi kesalahan koneksi.) |
+| `Insert` | Tombol ini adalah [tombol bos](https://en.wikipedia.org/wiki/Boss_key). Meminimalkan klien gim ke bagian notifikasi komputer. Perintah ini juga akan mematikan suara gim. |
+| `Shift` + `F1` | Membuka [osu!status](https://twitter.com/osustatus) di web browser kamu. (Hanya ketika terjadi kesalahan koneksi.) |
 | `Ctrl` + `O` | Membuka sidebar pengaturan. Tidak bisa membuka offset wizard jika tidak berada di menu utama. |
 
 ## Menu utama

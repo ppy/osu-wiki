@@ -7,7 +7,7 @@ tags:
 
 ![GST logo](img/logo.jpg)
 
-The **Great Singapore Tournament** (***GST***) was a Singaporean double-elimination 2v2 osu! tournament hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133). This was the first installment of the Great Singapore Tournament.
+The **Great Singapore Tournament** (***GST***) was a Singaporean double-elimination 2v2 osu! tournament hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133). This was the first instalment of the Great Singapore Tournament.
 
 ## Tournament schedule
 
@@ -15,7 +15,7 @@ The **Great Singapore Tournament** (***GST***) was a Singaporean double-eliminat
 | --: | :-- |
 | Registration phase | 2019-06-01/2019-06-15 |
 | Live drawings | 2019-06-16 (01:00 UTC+8) |
-| Group Stage | 2019-06-18/2019-06-30 |
+| Group stage | 2019-06-18/2019-06-30 |
 | Round of 16 | 2019-07-05/2019-07-08 |
 | Quarterfinals | 2019-07-10/2019-07-15 |
 | Semifinals | 2019-07-16/2019-07-23 |
@@ -38,7 +38,7 @@ The Great Singapore Tournament was run by various community members.
 | :-- | :-- |
 | Organiser | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Administrator | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
-| Map selector | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
+| Mappool selector | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Referee | ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_KR] [Nopekjk](https://osu.ppy.sh/users/4585186), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_DK] [Plaiceholder](https://osu.ppy.sh/users/11910867), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553), ![][flag_US] [spaghetti cat](https://osu.ppy.sh/users/8457202), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Commentator | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
@@ -49,11 +49,11 @@ The Great Singapore Tournament was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/915163)
-- [GST Discord server](https://discord.gg/kCfW4Jw "Discord")
-- [Livestream](https://twitch.tv/osusg "Twitch")
+- [GST Discord server](https://discord.gg/kCfW4Jw)
+- [Livestream](https://twitch.tv/osusg)
 - Statistics sheet
-  - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1nlp7NOyQWiI8FKTuRfLTQ6oIo1ah0CZvQyPY5bAzgTs/edit?usp=sharing "Google Sheets")**
-  - [Mappools spreadsheet](https://docs.google.com/spreadsheets/d/1kCsL4FusayuQMfW80UE3Jubh6VJ5cukdAUuATh6jWK0/edit?usp=sharing "Google Sheets")
+  - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1nlp7NOyQWiI8FKTuRfLTQ6oIo1ah0CZvQyPY5bAzgTs/edit?usp=sharing)**
+  - [Mappools spreadsheet](https://docs.google.com/spreadsheets/d/1kCsL4FusayuQMfW80UE3Jubh6VJ5cukdAUuATh6jWK0/edit?usp=sharing)
 
 ## Participants
 
@@ -119,15 +119,15 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Tom and Jerry |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Broken Family |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Ranked Score |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Tom and Jerry** (![][flag_SG] **[Demonical](https://osu.ppy.sh/users/5447609)**, ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Broken Family** (![][flag_SG] **[Soba Noodles](https://osu.ppy.sh/users/3010281)**, ![][flag_SG] [Raindrop](https://osu.ppy.sh/users/1155871)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Ranked Score** (![][flag_SG] **[moosepi](https://osu.ppy.sh/users/1868745)**, ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106)) |
 
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (171 MB)](https://drive.google.com/file/d/1jVTXwdYrluQAeFP_H5D_tXWbnpL5KIxV/view "Google Drive")**
+**[Download the mappack here! (171 MB)](https://drive.google.com/file/d/1jVTXwdYrluQAeFP_H5D_tXWbnpL5KIxV/view)**
 
 - NoMod
   - [May'n - Belief (Depths) \[Kibblemat's Extreme\]](https://osu.ppy.sh/beatmapsets/501286#osu/1240583)
@@ -257,7 +257,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Inori Minase - Yume no Tsubomi (hvick225) \[NathanZhanKamal225's Blossom\]](https://osu.ppy.sh/beatmapsets/601883#osu/1271372)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Igorrr - Houmous (Hobbes2) \[Collab Hyper\]](https://osu.ppy.sh/beatmapsets/703568#osu/1744049)
@@ -433,7 +433,7 @@ Monday, 8 July 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **Tom and Jerry** | **5** | 1 | Tryhards | [#1](https://osu.ppy.sh/community/matches/53192429) |
 
-### Group Stage
+### Group stage
 
 Tuesday, 18 June 2019:
 

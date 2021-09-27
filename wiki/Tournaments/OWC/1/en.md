@@ -10,13 +10,13 @@ tags:
 
 ![OWC #1 logo](img/logo.png)
 
-The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based osu! tournament run by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the first installment of the osu! World Cup.
+The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based osu! tournament run by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the first instalment of the osu! World Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2011-01-31/2011-02-21 |
+| Registration phase | 2011-01-31/2011-02-21 |
 | Round of 32 | 2011-02-22/2011-02-28 |
 | Round of 16 | 2011-03-01/2011-03-07 |
 | Quarterfinals | 2011-03-08/2011-03-22 |
@@ -27,15 +27,15 @@ The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag for each team member, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter for each team member, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 
 ![](img/badge.jpg "OWC #1 winner badge")
 
-Aside from the main prizes listed above, the Tournament Management has also decided to separately award all members of the ![][flag_JP] Japanese team with 1 month of osu!supporter tag in the wake of the [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami "Wikipedia") incident.
+Aside from the main prizes listed above, the Tournament Management has also decided to separately award all members of the ![][flag_JP] Japanese team with 1 month of osu!supporter in the wake of the [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) incident.
 
-## Organization
+## Organisation
 
 The osu! World Cup #1 was run by various community members.
 
@@ -49,20 +49,8 @@ The osu! World Cup #1 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/45412)
-- [Livestream channel](https://livestream.com/osuworldcup "Livestream")
-- [Finals recap](https://www.mediafire.com/file/ab6j6k4ihtp25o2 "MediaFire") - provided by ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359)
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TW] **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [0222101916](https://osu.ppy.sh/users/122650), [FuNnY--](https://osu.ppy.sh/users/398097), [NanaDesu](https://osu.ppy.sh/users/163474), [Rucker](https://osu.ppy.sh/users/147515), [Tomoka Rin](https://osu.ppy.sh/users/125308)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NL] **Netherlands** (**[GladiOol](https://osu.ppy.sh/users/23326)**, [Awoken](https://osu.ppy.sh/users/256802), [eddieee](https://osu.ppy.sh/users/260284), [happy30](https://osu.ppy.sh/users/27767), [Henkie](https://osu.ppy.sh/users/16944), [Lesjuh](https://osu.ppy.sh/users/44308)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [Binjip](https://osu.ppy.sh/users/261694), [Cookiezi](https://osu.ppy.sh/users/124493), [ehRh](https://osu.ppy.sh/users/272117), [M A I D](https://osu.ppy.sh/users/216472), [Reisen Udongein](https://osu.ppy.sh/users/232942)) |
-
-![OWC #1 bracket](img/bracket.jpg)
+- [Livestream channel](https://livestream.com/osuworldcup)
+- [Finals recap](https://www.mediafire.com/file/ab6j6k4ihtp25o2) - provided by ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359)
 
 ## Participants
 
@@ -97,12 +85,24 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_GB] | **United Kingdom** | **[Doomsday](https://osu.ppy.sh/users/18983)**, [aevv](https://osu.ppy.sh/users/390955), [DiamondCrash](https://osu.ppy.sh/users/123790), [jericho2442](https://osu.ppy.sh/users/88904), [Natteke](https://osu.ppy.sh/users/157177) |
 | ![][flag_US] | **United States** | **[Lybydose](https://osu.ppy.sh/users/64501)**, [Cyclone](https://osu.ppy.sh/users/18589), [ebacho](https://osu.ppy.sh/users/129932), [Mafiamaster](https://osu.ppy.sh/users/17695), [naptime](https://osu.ppy.sh/users/277682) |
 
+![](img/bracket.jpg "OWC #1 bracket")
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TW] **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [0222101916](https://osu.ppy.sh/users/122650), [FuNnY--](https://osu.ppy.sh/users/398097), [NanaDesu](https://osu.ppy.sh/users/163474), [Rucker](https://osu.ppy.sh/users/147515), [Tomoka Rin](https://osu.ppy.sh/users/125308)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NL] **Netherlands** (**[GladiOol](https://osu.ppy.sh/users/23326)**, [Awoken](https://osu.ppy.sh/users/256802), [eddieee](https://osu.ppy.sh/users/260284), [happy30](https://osu.ppy.sh/users/27767), [Henkie](https://osu.ppy.sh/users/16944), [Lesjuh](https://osu.ppy.sh/users/44308)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [Binjip](https://osu.ppy.sh/users/261694), [Cookiezi](https://osu.ppy.sh/users/124493), [ehRh](https://osu.ppy.sh/users/272117), [M A I D](https://osu.ppy.sh/users/216472), [Reisen Udongein](https://osu.ppy.sh/users/232942)) |
+
 ## Mappools
 
 ### Finals
 
 - NoMod (*to be played in order*)
-  - [Minibosses - Castlevania (m980) \[owc Finals\]](https://www.mediafire.com/file/twuti02311dk6ip/Minibosses+-+Castlevania.osz/file "MediaFire")
+  - [Minibosses - Castlevania (m980) \[owc Finals\]](https://www.mediafire.com/file/twuti02311dk6ip/Minibosses+-+Castlevania.osz/file)
   - [Various Artists - osu! Stream Compilation (Natteke) \[EXE\]](https://osu.ppy.sh/beatmapsets/25403#osu/86044)
   - [Shiki mixed by Djsmalls - Air (MegaManEXE) \[Best map ever created\]](https://osu.ppy.sh/beatmapsets/13008#osu/48386)
   - [Nico Nico Douga - U.N. Owen Was Her? (Reikin) \[Ronald Mix\]](https://osu.ppy.sh/beatmapsets/1785#osu/21010)

@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -11,7 +13,7 @@ Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informaç�
 
 # Introdução
 
-[Bem-vindo](/wiki/Welcome) • [Instalação](/wiki/Installation) • [Registro](/wiki/Registration) • [Central de Ajuda](/wiki/Help_Centre) • [Perguntas Frequentes](/wiki/FAQ)
+[Instalação](/wiki/Installation) • [Registro](/wiki/Registration) • [Central de Ajuda](/wiki/Help_Centre) • [Perguntas Frequentes](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,7 +42,7 @@ Seções: [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Edi
 
 Componentes: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timelines](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Dificuldades](/wiki/Beatmap/Difficulty) • [Técnicas de mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+[Beatmapping](/wiki/Beatmapping) • [Dificuldades](/wiki/Beatmap/Difficulty) • [Técnicas de mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -81,7 +83,7 @@ Organizações: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 # Sobre a wiki
 
-[Sitemap](/wiki/Sitemap) • [Guia de contribuição](/wiki/osu!_wiki_Contribution_Guide) • [Critérios do estilo de artigos](/wiki/Article_Styling_Criteria) • [Critérios do estilo de notícias](/wiki/News_Styling_Criteria)
+[Sitemap](/wiki/Sitemap) • [Guia de contribuição](/wiki/osu!_wiki/Contribution_guide) • [Critérios do estilo de artigos](/wiki/Article_Styling_Criteria) • [Critérios do estilo de notícias](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

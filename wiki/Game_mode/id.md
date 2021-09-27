@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 92d9c98fac5191ce3931d830ca40dbaa3e3a0094
+---
+
 # Mode permainan
 
 osu! memiliki empat **mode permainan** yang dapat kamu mainkan: [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch), dan [osu!mania](#-osu!mania). Keempat mode permainan tersebut memiliki mekanisme permainannya masing-masing yang terinspirasi dari berbagai permainan ritme lainnya yang ada di luar sana.
@@ -12,7 +17,7 @@ Secara *default*, kamu akan disambut oleh mode permainan yang terakhir kali dima
 
 *Laman utama: [osu!](osu!)*
 
-*osu!* merupakan mode permainan utama yang dimiliki oleh osu!. Mode permainan ini didasarkan pada permainan *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* yang dirilis oleh [iNiS](https://en.wikipedia.org/wiki/INiS "Wikipedia"). Dalam mode permainan ini, kamu dituntut untuk dapat mengenai semua circle, slider, dan spinner yang ada mengikuti irama lagu.
+*osu!* merupakan mode permainan utama yang dimiliki oleh osu!. Mode permainan ini didasarkan pada permainan *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* yang dirilis oleh [iNiS](https://en.wikipedia.org/wiki/INiS). Dalam mode permainan ini, kamu dituntut untuk dapat mengenai semua circle, slider, dan spinner yang ada mengikuti irama lagu.
 
 ![Tampilan permainan osu!](/wiki/shared/osu-gameplay.jpg "Permainan osu!")
 
@@ -20,7 +25,7 @@ Secara *default*, kamu akan disambut oleh mode permainan yang terakhir kali dima
 
 *Laman utama: [osu!taiko](osu!taiko)*
 
-*osu!taiko* merupakan mode permainan yang didasarkan pada seri permainan *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")* yang dirilis oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment "Wikipedia"). Dalam mode permainan yang dibuat untuk menyerupai permainan drum ini, kamu dituntut untuk dapat mengenai not-not yang muncul pada layar sesuai dengan indikator warnanya masing-masing. 
+*osu!taiko* merupakan mode permainan yang didasarkan pada seri permainan *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* yang dirilis oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment). Dalam mode permainan yang dibuat untuk menyerupai permainan drum ini, kamu dituntut untuk dapat mengenai not-not yang muncul pada layar sesuai dengan indikator warnanya masing-masing. 
 
 ![Tampilan permainan osu!taiko](/wiki/shared/taiko-gameplay.jpg "Permainan osu!taiko")
 
@@ -28,7 +33,7 @@ Secara *default*, kamu akan disambut oleh mode permainan yang terakhir kali dima
 
 *Laman utama: [osu!catch](osu!catch)*
 
-*osu!catch* merupakan mode permainan yang didasari pada *minigame EZ2CATCH* yang dipopulerkan oleh seri permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ "Wikipedia") dan beberapa simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania "Wikipedia") lainnya. Dalam mode permainan ini, kamu dituntut untuk dapat menangkap buah-buah yang jatuh dari bagian atas layar permainan dengan menggunakan “*catcher*” yang kamu miliki.
+*osu!catch* merupakan mode permainan yang didasari pada *minigame EZ2CATCH* yang dipopulerkan oleh seri permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) dan beberapa simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania) lainnya. Dalam mode permainan ini, kamu dituntut untuk dapat menangkap buah-buah yang jatuh dari bagian atas layar permainan dengan menggunakan “*catcher*” yang kamu miliki.
 
 ![Tampilan permainan osu!catch](/wiki/shared/catch-gameplay.jpg "Permainan osu!catch")
 
@@ -36,7 +41,7 @@ Secara *default*, kamu akan disambut oleh mode permainan yang terakhir kali dima
 
 *Laman utama: [osu!mania](osu!mania)*
 
-*osu!mania* merupakan mode permainan yang didasari pada konsep permainan VSRG (vertical-scrolling rhythm game) pada umumnya, seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution "Wikipedia") dan Beatmania. Dalam mode permainan yang pada awalnya dirancang oleh [woc2006](https://osu.ppy.sh/users/1105845) ini, kamu dituntut untuk dapat menekan tombol-tombol pada keyboard sesuai dengan laju perguliran not-not yang ada pada layar permainan.
+*osu!mania* merupakan mode permainan yang didasari pada konsep permainan VSRG (vertical-scrolling rhythm game) pada umumnya, seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) dan Beatmania. Dalam mode permainan yang pada awalnya dirancang oleh [woc2006](https://osu.ppy.sh/users/1105845) ini, kamu dituntut untuk dapat menekan tombol-tombol pada keyboard sesuai dengan laju perguliran not-not yang ada pada layar permainan.
 
 ![Tampilan permainan osu!mania](/wiki/shared/mania-gameplay.jpg "Permainan osu!mania")
 

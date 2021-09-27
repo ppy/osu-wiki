@@ -11,7 +11,7 @@ El primer modo de juego y homónimo que se basó en la serie ouendan.
 
 ## ¿Qué es "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* es un juego de ritmo para la *Nintendo DS*. La jugabilidad consta de solo tres elementos: tocar círculos en la pantalla táctil, arrastrar una bola por un camino fijo y girar una ruleta muy rápido. Todos estos elementos están sincronizados con (covers de) populares canciones japonesas. Se ve así en el *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* es un juego de ritmo para la *Nintendo DS*. La jugabilidad consta de solo tres elementos: tocar círculos en la pantalla táctil, arrastrar una bola por un camino fijo y girar una ruleta muy rápido. Todos estos elementos están sincronizados con (covers de) populares canciones japonesas. Se ve así en el *DS*:
 
 ![Gameplay de ejemplo de Osu! Tatakae! Ouendan en la Nintendo DS](/wiki/shared/Ouendan.jpg "Ejemplo de partida de Osu! Tatakae! Ouendan en Nintendo DS")
 
@@ -272,15 +272,12 @@ El sistema utilizado para calcular el drenaje de la salud y la ganancia de salud
 
 ### Historia
 
-![Combo de fuego](/wiki/shared/combo-fire.jpg "Combo de fuego")
-
-- ¡La versión anterior de osu! solia emular algunos de los elementos de la serie *ouendan* antes de ser eliminados o remplazados.
-  - El combo de fuego aparecía cuando alcanzabas los nuevos hitos del combo.
-    - Eliminado el 05 de marzo de 2013 (2013-03-05), debido a problemas de rendimiento.
-- La primera versión del skin por defecto que usa el comportamiento de skin v1, fue la skin *osu! Default por peppy*, proporcionaba una copia casi idéntica de la interfaz *ouendan*.
+- ¡La versión anterior de osu! solia emular algunos de los elementos de la serie *Ouendan* antes de ser eliminados o remplazados.
+  - El [combo de fuego](/wiki/Glossary/Combo_fire) aparecía cuando alcanzabas los nuevos hitos del combo.
+- La primera versión del skin por defecto que usa el comportamiento de skin v1, fue la skin *osu! Default por peppy*, proporcionaba una copia casi idéntica de la interfaz *Ouendan*.
   - Fue reemplazado por un aspecto predeterminado más actual que usa el comportamiento de la skin v2.
   - La diferencia de característica más notable entre el comportamiento de la skin v1 y v2 es la ruleta.
-    - El comportamiento de la skin v1 para una ruleta incrementaría el medidor de la ruleta de abajo hacia arriba en niveles hasta que esté lleno según la serie *ouendan*.
+    - El comportamiento de la skin v1 para una ruleta incrementaría el medidor de la ruleta de abajo hacia arriba en niveles hasta que esté lleno según la serie *Ouendan*.
       - El temporizador es un círculo dentro de la ruleta que convergerje al núcleo central de la ruleta. La ruleta termina cuando el círculo del temporizador alcanza el centro del núcleo de la ruleta.
     - El comportamiento de la skin v2 para una ruleta expandiría lentamente el círculo giratorio a su tamaño completo y se iluminaría cuando se completara.
       - El temporizador es el círculo exterior de la ruleta que cambia de color. La ruleta termina cuando el color del círculo del temporizador cambia por completo.

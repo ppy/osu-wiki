@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
+---
+
 # Project Loved
 
 **Project Loved** (*проект «Улюблені Мапи»*, також *«Лавед»*) — це платформа для голосування, через яку мапи потрапляють у категорію [Loved](/wiki/Beatmap/Category#loved). Проектом управляє [одноименна команда](/wiki/People/The_Team/Project_Loved_Team).

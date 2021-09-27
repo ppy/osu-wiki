@@ -28,8 +28,8 @@ tags:
 
 ## iNiSゲームでのゲームプレイ
 
-- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs "YouTube")
-- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI "YouTube")
+- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs)
+- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI)
 
 ## その他のゲームモード
 
@@ -55,6 +55,6 @@ osu!maniaでは、喝は200と表示されます。これは200の基本スコ�
 
 喝を手に入れると、いくつかのイベントが発生します:
 
-- [Failレイヤー](/wiki/Storyboard_Scripting/General_Rules#layers)が無効化されます。
-- [Passレイヤー](/wiki/Storyboard_Scripting/General_Rules#layers)が有効になります。
+- [Failレイヤー](/wiki/Storyboard/Scripting/General_Rules#layers)が無効化されます。
+- [Passレイヤー](/wiki/Storyboard/Scripting/General_Rules#layers)が有効になります。
 - 以前の状態が「Fail」だった場合、「Passing」イベントが発生します。

@@ -7,9 +7,9 @@ tags:
 
 # 112's Summer Tournament 2019
 
-![112ST Logo](img/logo.png)
+![112ST2019 logo](img/logo.png)
 
-The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 osu! tournament started with 1v1 qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fourth installment of 112's Tournaments series.
+The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 osu! tournament started with 1v1 qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fourth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 
 | --: | :-- |
 | Registration phase | 2019-06-05/2019-06-30 |
 | Qualifiers | 2019-07-13/2019-07-14 |
-| Group Stage | 2019-07-20/2019-07-21 |
+| Group stage | 2019-07-20/2019-07-21 |
 | Quarterfinals | 2019-07-27/2019-07-28 |
 | Semifinals | 2019-08-03/2019-08-04 |
 | Finals | 2019-08-11/2019-08-16 |
@@ -27,9 +27,9 @@ The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 month of osu!supporter |
 
-![112's Summer Tournament 2019 Winner Badge](img/badge.png)
+![](img/badge.png "112ST2019 winner badge")
 
 ## Organisation
 
@@ -38,7 +38,7 @@ The 112's Summer Tournament 2019 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Map selector | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_TR] [sentez](https://osu.ppy.sh/users/8816305) |
+| Mappool selector | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_TR] [sentez](https://osu.ppy.sh/users/8816305) |
 | Referee | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107), ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521) |
 | Streamer | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_NL] [goeo\_](https://osu.ppy.sh/users/6832107), ![][flag_TR] [pyth0nix](https://osu.ppy.sh/users/10922849) |
 | Commentator | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [bigbirb-](https://osu.ppy.sh/users/11285985), ![][flag_TR] [Ekin](https://osu.ppy.sh/users/2947405), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [Lxran](https://osu.ppy.sh/users/3651081), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_NL] [goeo\_](https://osu.ppy.sh/users/6832107) |
@@ -49,9 +49,9 @@ The 112's Summer Tournament 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/917454)
-- [112's Tournaments Discord server](https://discord.gg/g3nqqeZ "Discord")
-- [Livestream](https://www.twitch.tv/osu_turkiye "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1d6JqZWqnZ32nFCgGMcXz3Pc4KyE1iLmU5KpTIg6TEhE/edit "Google Sheets")**
+- [112's Tournaments Discord server](https://discord.gg/g3nqqeZ)
+- [Livestream](https://www.twitch.tv/osu_turkiye)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1d6JqZWqnZ32nFCgGMcXz3Pc4KyE1iLmU5KpTIg6TEhE/edit)**
 
 ## Participants
 
@@ -127,13 +127,13 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ## Podium
 
-![112ST 2019 Podium](img/podium.png)
+![](img/podium.png "112ST2019 podium")
 
 ## Mappools
 
 ### Grand Finals
 
-**[Download the map pack here! (132 MB)](https://112.s-ul.eu/yUBjoWpe "s-ul")**
+**[Download the map pack here! (132 MB)](https://112.s-ul.eu/yUBjoWpe)**
 
 - NoMod
   - [XX:me - Escape (jonathanlfj) \[Freedom\]](https://osu.ppy.sh/beatmapsets/811119#osu/1701563)
@@ -162,7 +162,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ### Finals
 
-**[Download the map pack here! (91 MB)](https://112.s-ul.eu/MBhzkPlU "s-ul")**
+**[Download the map pack here! (91 MB)](https://112.s-ul.eu/MBhzkPlU)**
 
 - NoMod
   - [nano - Nevereverland (zhu) \[Starset’s Redemption\]](https://osu.ppy.sh/beatmapsets/621438#osu/1507079)
@@ -191,7 +191,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ### Semifinals
 
-**[Download the map pack here!(109 MB)](https://drive.google.com/file/d/1F_eyDQuN1zKThMuWwW6wxYP1wa7m_ciY/view "Google Drive")**
+**[Download the map pack here!(109 MB)](https://drive.google.com/file/d/1F_eyDQuN1zKThMuWwW6wxYP1wa7m_ciY/view)**
 
 - NoMod
   - [PSYQUI – Still in my heart feat. Punipuni Denki (Nanashima Asami) \[I’m gonna miss you\]](https://osu.ppy.sh/beatmapsets/964997#osu/2020137)
@@ -220,7 +220,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ### Quarterfinals
 
-**[Download the map pack here! (122 MB)](https://112.s-ul.eu/yIQMxrAl "s-ul")**
+**[Download the map pack here! (122 MB)](https://112.s-ul.eu/yIQMxrAl)**
 
 - NoMod
   - [Son Feci Bisiklet – Viva La Vadi (Pati) \[Green Valley\]](https://osu.ppy.sh/beatmapsets/460386#osu/986011)
@@ -233,7 +233,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
   - [Starlight Kukugumi – You are a ghost, I am a ghost \~Gekijou no Ghost\~ (Gaia) \[Kalibe’s Extra\]](https://osu.ppy.sh/beatmapsets/941509#osu/1971493)
   - [HyuN – Infinity Heaven (Niva) \[Ad Infinitum\]](https://osu.ppy.sh/beatmapsets/891345#osu/1863246)
 - HardRock
-  - [Fujiwara Chika (CV: Kohara Konomi) – Chikatto Chika Chika (Andrea) \[Sekai’s IQ <3\]]( https://osu.ppy.sh/beatmapsets/962521#osu/2015394)
+  - [Fujiwara Chika (CV: Kohara Konomi) – Chikatto Chika Chika (Andrea) \[Sekai’s IQ <3\]](https://osu.ppy.sh/beatmapsets/962521#osu/2015394)
   - [YURiKA – Kyoumen no Nami (Vell) \[Expert\]](https://osu.ppy.sh/beatmapsets/731108#osu/1542973)
   - [sakuzyo - Altale (toybot) \[Bonzi’s Extra\]](https://osu.ppy.sh/beatmapsets/228815#osu/1012279)
 - DoubleTime
@@ -247,11 +247,11 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - Tiebreaker
   - **[Falcom Sound Team jdk feat. Suehiro Yuri – Nageki no Refrain (AIR) \[OriginatorZero\]](https://osu.ppy.sh/beatmapsets/907848#osu/1894536)**
 
-### Group Stage
+### Group stage
 
 #### 1–15K
 
-**[Download the map pack here! (70 MB)](https://112.s-ul.eu/6D3w5waU "s-ul")**
+**[Download the map pack here! (70 MB)](https://112.s-ul.eu/6D3w5waU)**
 
 - NoMod
   - [Ayalis – Ai o Chikaishi Hime Kazari (handsome) \[Kyshiro’s Extra\]](https://osu.ppy.sh/beatmapsets/506155#osu/1086956)
@@ -275,7 +275,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 #### 15K+
 
-**[Download the map pack here! (88 MB)](https://112.s-ul.eu/aJfLLa0v "s-ul")**
+**[Download the map pack here! (88 MB)](https://112.s-ul.eu/aJfLLa0v)**
 
 - NoMod
   - [Porter Robinson – Flicker (Cyllinus) \[Alonevpk’s Insane\]](https://osu.ppy.sh/beatmapsets/284931#osu/712895)
@@ -297,11 +297,11 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - Tiebreaker
   - **[Halozy – Paranoid Lost (Hakurei Yoru) \[Soda’s Lunatic\]](https://osu.ppy.sh/beatmapsets/440925#osu/964622)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
 #### 1-15K
 
-**[Download the map pack here! (36 MB)](https://112.s-ul.eu/ytXqfkWL "s-ul")**
+**[Download the map pack here! (36 MB)](https://112.s-ul.eu/ytXqfkWL)**
 
 - NoMod
   - [Himeringo – Idola no Circus (Nevo) \[Salvation\]](https://osu.ppy.sh/beatmapsets/902250#osu/1883745)
@@ -311,11 +311,11 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - HardRock
   - [Imperial Circus Dead Decadence – Danzai No Honoo To Koibito-Tachi No Rondo (Gottagof4st) \[Piercing Pain\]](https://osu.ppy.sh/beatmapsets/961431#osu/2012740)
 - DoubleTime
-  - [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](https://zeu.s-ul.eu/XHGcqmAq.osz "s-ul")
+  - [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](https://zeu.s-ul.eu/XHGcqmAq.osz)
 
 #### 15K+
 
-**[Download the map pack here! (33 MB)](https://112.s-ul.eu/VMeQXi78 "s-ul")**
+**[Download the map pack here! (33 MB)](https://112.s-ul.eu/VMeQXi78)**
 
 - NoMod
   - [Memme – Geurida (NeilPerry) \[Mellifluous Miracle\]](https://osu.ppy.sh/beatmapsets/688183#osu/1456417)
@@ -323,7 +323,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 - Hidden
   - [ak+q – Axium Crisis (MrSergio) \[Collapse\]](https://osu.ppy.sh/beatmapsets/812551#osu/1704329)
 - HardRock
-  - [Nekomata Master+ – encounter (Sing) \[Frey’s Expert\]](https://zeu.s-ul.eu/Lzk6C8ux.osz "s-ul")
+  - [Nekomata Master+ – encounter (Sing) \[Frey’s Expert\]](https://zeu.s-ul.eu/Lzk6C8ux.osz)
 - DoubleTime
   - [Hate vs Brilliance – Qubism (Regraz) \[Elexus’ HYPER\]](https://osu.ppy.sh/beatmapsets/524503#osu/1802266)
 
@@ -407,7 +407,7 @@ Sunday, 4 August 2019:
 | --: | :-: | :-: | :-- | :-- |
 | İsim bulamadık pingleme artık | 3 | **5** | **KFC Managers** | [#1](https://osu.ppy.sh/community/matches/53835518) |
 
-### Group Matches
+### Group matches
 
 Saturday, 20 July 2019:
 
@@ -504,7 +504,7 @@ Monday, 22 July 2019:
 
 1. Every user interested in joining the tournament will sign up individually.
    - **Any form of registration, other than the registration form provided in related channels, will be disregarded.**
-2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ "Discord") for the duration of the tournament.
+2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
 4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](/wiki/osu!tourney/Prizes#tournament-screening) for more information about tournament screening.
 5. All players eligible to participate in the tournament will be published after the Registration period ends.
@@ -512,7 +512,7 @@ Monday, 22 July 2019:
 ### Stage instructions
 
 1. In the Qualifier stage, each seed will have a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](wiki/Game_Modifiers), [HardRock](wiki/Game_Modifiers), [DoubleTime](wiki/Game_Modifiers). There will not be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
 3. Each of the Qualifier pools contain 5 maps. There will be 2 maps under the NoMod bracket and 1 map for the other mod brackets.
 4. No warm-ups will be entertained during this stage.
 5. Players will have to play the map pool **twice** at a designated time. Placement results will be calculated according to their best combined scores.
@@ -551,7 +551,7 @@ Monday, 22 July 2019:
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](wiki/Game_Modifiers), [HardRock](wiki/Game_Modifiers), [DoubleTime](wiki/Game_Modifiers) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - The Group stage mappools will have 4 NoMod maps, 2 maps for each of the remaining mod brackets.
    - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.

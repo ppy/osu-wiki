@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2018 logo](img/logo.png)
 
-The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It was the second installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It was the second instalment of the osu! TV Size Tournament.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination
 | --: | :-- |
 | Registration phase | 2018-01-12/2018-02-09 |
 | Live drawings | 2018-02-10 (14:00 UTC) |
-| Group Stage | 2018-02-17/2018-02-25 |
+| Group stage | 2018-02-17/2018-02-25 |
 | Round of 32 | 2018-03-03/2018-03-04 |
 | Round of 16 | 2018-03-10/2018-03-11 |
 | Quarterfinals | 2018-03-17/2018-03-18 |
@@ -29,9 +29,9 @@ The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter for each team member |
 
-![otst! 2018 winner badge](img/badge.png)
+![](img/badge.png "otst! 2018 winner badge")
 
 ## Organisation
 
@@ -40,7 +40,7 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Map selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_UY] [Nightshiftt](https://osu.ppy.sh/users/4662596), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_MY] [Sikey](https://osu.ppy.sh/users/343057) |
+| Mappool selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_UY] [Nightshiftt](https://osu.ppy.sh/users/4662596), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_MY] [Sikey](https://osu.ppy.sh/users/343057) |
 | Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_NL] [cavoeboy](https://osu.ppy.sh/users/7361815), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_US] [Spry](https://osu.ppy.sh/users/7069714) |
 | Commentator | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_US] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_UY] [Nightshiftt](https://osu.ppy.sh/users/4662596), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) |
 | Statistician | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
@@ -51,9 +51,9 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/684745)
-- [otst! Discord server](https://discord.gg/hdXQNG6 "Discord")
-- [Livestream](https://twitch.tv/osu_otst "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRD_BDZNHkPsW_kA_01j5t_Op8A-p7dcOMHylq2bN-I6JA0b7fPXx0h3joibUhcbnshJwlKJ6f5L8n1/pubhtml "Google Sheets")**
+- [otst! Discord server](https://discord.gg/hdXQNG6)
+- [Livestream](https://twitch.tv/osu_otst)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRD_BDZNHkPsW_kA_01j5t_Op8A-p7dcOMHylq2bN-I6JA0b7fPXx0h3joibUhcbnshJwlKJ6f5L8n1/pubhtml)**
 
 ## Participants
 
@@ -151,9 +151,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | black dogleg |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Rubber Conquest** (![][flag_US] **[Apraxia](https://osu.ppy.sh/users/4194445)**, ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_KR] [Cookiezi](https://osu.ppy.sh/users/124493), ![][flag_BR] [MouseEasy](https://osu.ppy.sh/users/124493), ![][flag_CA] [\_RyuK](https://osu.ppy.sh/users/6304246)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Floating up** (![][flag_KR] **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_KR] [Pring](https://osu.ppy.sh/users/3478883), ![][flag_KR] [Pray](https://osu.ppy.sh/users/2190336), ![][flag_KR] [Neta](https://osu.ppy.sh/users/832084), ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865), ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397), ![][flag_CN] [EmertxE](https://osu.ppy.sh/users/954557), ![][flag_TW] [Shiina Noriko](https://osu.ppy.sh/users/1285637)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **black dogleg** (![][flag_US] **[fruit punch](https://osu.ppy.sh/users/6303313)**, ![][flag_US] [Ritzeh](https://osu.ppy.sh/users/1028387), ![][flag_US] [Aknama](https://osu.ppy.sh/users/4322869), ![][flag_US] [Tem](https://osu.ppy.sh/users/5393042), ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373), ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150), ![][flag_US][Wombraider](https://osu.ppy.sh/users/7342622), ![][flag_US] [Ceptin](https://osu.ppy.sh/users/3221564)) |
 
 ## Mappools
 
@@ -161,7 +161,7 @@ This competition has come to an end and resulted in the following podium:
 
 *This mappool was played in Finals and Grand Finals.*
 
-**[Download the mappack here! (100 MB)](https://i.patyye.me/OTST-Finals-Mappool.zip "Patyye")**
+**[Download the mappack here! (100 MB)](https://i.patyye.me/OTST-Finals-Mappool.zip)**
 
 - NoMod
   - [Twin-Tails - Twintail Dreamer! (Hollow Wings) \[HW's EX\]](https://osu.ppy.sh/beatmapsets/244964#osu/660264)
@@ -206,7 +206,7 @@ This competition has come to an end and resulted in the following podium:
   - [YUC'e - Future Candy (Sing) \[Cocaine\]](https://osu.ppy.sh/beatmapsets/584985#osu/1238016)
 - DoubleTime
   - [Traktion - Metropolis (Original Mix) (Damnae) \[Damnae's Insane\]](https://osu.ppy.sh/beatmapsets/359549#osu/812689)
-  - [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (Priti) \[Another\]](https://i.patyye.me/mmgirl.osz "Patyye")
+  - [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (Priti) \[Another\]](https://i.patyye.me/mmgirl.osz)
   - [Susumu Hirasawa - Switched-On Lotus (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10977#osu/43827)
 - FreeMod
   - [IOSYS - Marisa wa Taihen na Kanbu de Tomatte Ikimashita (DJPop) \[Love\]](https://osu.ppy.sh/beatmapsets/10143#osu/39825)
@@ -293,7 +293,7 @@ This competition has come to an end and resulted in the following podium:
   - **[beatMARIO(COOL&CREATE) - Aki nation (Crimmi) \[NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/476535#osu/1051179)**
   - **[Expander - aura (Midge) \[Beyond Extreme\]](https://osu.ppy.sh/beatmapsets/281721#osu/637391)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Qrispy Joybox - licca (Frey) \[Special\]](https://osu.ppy.sh/beatmapsets/242877#osu/560453)
@@ -450,7 +450,7 @@ Sunday, 4 March 2018:
 | **Sayuri best girl** | **5** | 2 | Tilted Venrue | [#1](https://osu.ppy.sh/community/matches/40575783) |
 | **Azer** | **5** | 0 | Potato farmers | [#1](https://osu.ppy.sh/community/matches/40575774) |
 
-### Group Stage
+### Group stage
 
 Saturday, 17 February 2018:
 

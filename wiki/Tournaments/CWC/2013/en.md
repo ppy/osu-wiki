@@ -6,7 +6,7 @@ tags:
 
 # osu! Catch the Beat World Cup 2013
 
-The **osu! Catch the Beat World Cup 2013** (***CWC 2013***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second installment of the osu!catch World Cup.
+The **osu! Catch the Beat World Cup 2013** (***CWC 2013***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -26,9 +26,9 @@ The **osu! Catch the Beat World Cup 2013** (***CWC 2013***) was a country-based 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "CWC 2013 winner badge")
 
@@ -36,7 +36,7 @@ The **osu! Catch the Beat World Cup 2013** (***CWC 2013***) was a country-based 
 
 The osu! Catch the Beat World Cup 2013 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676), ![][flag_PH] [Seph](https://osu.ppy.sh/users/1591614), ![][flag_CA] [Weez](https://osu.ppy.sh/users/67211) |
 | Mappool selector | ![][flag_DE] [DeathXHunter](http://osu.ppy.sh/users/405326), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_CA] [Weez](https://osu.ppy.sh/users/67211) |
@@ -47,8 +47,8 @@ The osu! Catch the Beat World Cup 2013 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/106684)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://owc.nicarim.pw/results/view/5 "Nicarim")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://owc.nicarim.pw/results/view/5)**
 
 ## Participants
 
@@ -132,7 +132,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (134 MB)](http://www.mediafire.com/?7fc0ub0yj6yfsc9 "MediaFire")**
+**[Download the mappack here! (134 MB)](http://www.mediafire.com/?7fc0ub0yj6yfsc9)**
 
 - NoMod
   - [44teru-k remixed wa. - Higanbana Daini -Shuusei no Lycoris- (soulfear) \[Fear\]](https://osu.ppy.sh/beatmapsets/38966#fruits/124512)
@@ -156,7 +156,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (111 MB)](http://www.mediafire.com/?y5jfe4fn5zc0xnl "MediaFire")**
+**[Download the mappack here! (111 MB)](http://www.mediafire.com/?y5jfe4fn5zc0xnl)**
 
 - NoMod
   - [Glutamine - Babylon (CSY the corrupt) \[Corruption\]](https://osu.ppy.sh/beatmapsets/35992#fruits/145118)
@@ -221,7 +221,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 2
 
-**[Download the mappack here! (88 MB)](http://www.mediafire.com/?o5szwa4mxt4juh1 "MediaFire")**
+**[Download the mappack here! (88 MB)](http://www.mediafire.com/?o5szwa4mxt4juh1)**
 
 - NoMod
   - [IA - Six Trillion Years and Overnight Story (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/51245#fruits/158662)
@@ -244,7 +244,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 1
 
-**[Download the mappack here!](http://dkun.us/cwcpool1.zip "dkun")**
+**[Download the mappack here!](http://dkun.us/cwcpool1.zip)**
 
 - NoMod
   - [Chata - Koisuru Otome (hoLysoup) \[Insane\]](https://osu.ppy.sh/beatmapsets/36274#fruits/117236)

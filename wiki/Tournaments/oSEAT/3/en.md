@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT3 logo](img/logo.jpg)
 
-The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian double-elimination one-on-one osu! tournament hosted by ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911). It was the third installment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian double-elimination one-on-one osu! tournament hosted by ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911). It was the third instalment of the osu! South East Asia Tournament.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian 
 | Registration phase | 2019-10-27/2020-12-01 |
 | Live drawings | 2019-12-01 (21:00 UTC+8) |
 | Qualifiers | 2019-12-14/2019-12-15 |
-| Group Stage | 2019-12-17/2020-01-01 |
+| Group stage | 2019-12-17/2020-01-01 |
 | Round of 32 | 2020-01-02/2020-01-05 |
 | Round of 16 | 2020-01-11/2020-01-12 |
 | Quarterfinals | 2020-01-15/2020-01-20 |
@@ -29,15 +29,15 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
-| *4th place* | 2 months of osu!supporter tag |
-| *5th place* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
+| *4th place* | 2 months of osu!supporter |
+| *5th place* | 1 month of osu!supporter |
 
 *Note: 5th place was determined by a playoff.*
 
-![oSEAT3 winner badge](img/badge.png)
+![](img/badge.png "oSEAT3 winner badge")
 
 ## Organisation
 
@@ -46,7 +46,7 @@ The osu! South East Asia 3 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911) |
-| Map selector | ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) |
+| Mappool selector | ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) |
 | Referee | ![][flag_VN] [- Rem -](https://osu.ppy.sh/users/10489063), ![][flag_PH] [-Hanamaru-](https://osu.ppy.sh/users/11348518), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_MY] [Iyouka](https://osu.ppy.sh/users/7138499), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_VN] [LOLEnigMatic](https://osu.ppy.sh/users/13571949), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_US] [Yeong Yuseong](https://osu.ppy.sh/users/8926244) |
 | Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
 | Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
@@ -57,10 +57,10 @@ The osu! South East Asia 3 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/978343)
-- [oSEAT Discord server](https://discord.gg/sVHndPU "Discord")
-- [Livestream](https://www.twitch.tv/oseatournament "Twitch")
-- [Challonge brackets](https://challonge.com/SEAT3 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1waGkj7eW1oNKF4itjLrNbk0dCviPlXfjw70l0a1U_AA/edit?usp=sharing "Google Sheets")**
+- [oSEAT Discord server](https://discord.gg/sVHndPU)
+- [Livestream](https://www.twitch.tv/oseatournament)
+- [Challonge brackets](https://challonge.com/SEAT3)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1waGkj7eW1oNKF4itjLrNbk0dCviPlXfjw70l0a1U_AA/edit?usp=sharing)**
 
 ## Participants
 
@@ -110,7 +110,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (130 MB)](https://drive.google.com/file/d/1GS7xi9NJm6pZujzw-ylg0hyLEvlz2luy/view "Google Drive")**
+**[Download the mappack here! (130 MB)](https://drive.google.com/file/d/1GS7xi9NJm6pZujzw-ylg0hyLEvlz2luy/view)**
 
 - NoMod
   - [hitorie - Little Cry Baby (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1098258#osu/2294643)
@@ -139,7 +139,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1UTTv0agwW-iwPNYtd4Orj3tOxNJqdVbn/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1UTTv0agwW-iwPNYtd4Orj3tOxNJqdVbn/view?usp=sharing)**
 
 - NoMod
   - [Alfakyun. x Camellia - calling (ProfessionalBox) \[Prestissimo\]](https://osu.ppy.sh/beatmapsets/523558#osu/1111493)
@@ -168,7 +168,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (122 MB)](https://drive.google.com/file/d/1h9gbFO-ybLxrAPQ2Rvbp3ZaGp21OPTXv/view "Google Drive")**
+**[Download the mappack here! (122 MB)](https://drive.google.com/file/d/1h9gbFO-ybLxrAPQ2Rvbp3ZaGp21OPTXv/view)**
 
 - NoMod
   - [Powerless feat. Sennzai - Unrequited (VINXIS) \[Reunion\]](https://osu.ppy.sh/beatmapsets/543109#osu/1162811)
@@ -197,7 +197,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (92 MB)](https://drive.google.com/file/d/1eoNTJ_0CfUjgKT9fBxHme9ODxFly-Ksz/view "Google Drive")**
+**[Download the mappack here! (92 MB)](https://drive.google.com/file/d/1eoNTJ_0CfUjgKT9fBxHme9ODxFly-Ksz/view)**
 
 - NoMod
   - [Camellia - Fastest Crash (sukiNathan) \[RLC's Paroxysm\]](https://osu.ppy.sh/beatmapsets/331025#taiko/733432)
@@ -224,7 +224,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (109 MB)](https://drive.google.com/file/d/15aJLWylVJHKTOwkuC4IBZ4dkpJ4r5Odc/view?usp=sharing "Google Drive")**
+**[Download the mappack here! (109 MB)](https://drive.google.com/file/d/15aJLWylVJHKTOwkuC4IBZ4dkpJ4r5Odc/view?usp=sharing)**
 
 - NoMod
   - [Suzuki Konomi - Zenbu Kimi ga Ita kara Shittanda (Kalibe) \[Hope\]](https://osu.ppy.sh/beatmapsets/587616#osu/1725575)
@@ -251,7 +251,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (120 MB)](https://drive.google.com/file/d/16T_rAwgd8WlBd87Nt_q-dDtHRC0uweWx/view "Google Drive")**
+**[Download the mappack here! (120 MB)](https://drive.google.com/file/d/16T_rAwgd8WlBd87Nt_q-dDtHRC0uweWx/view)**
 
 - NoMod
   - [Suzuki Konomi - One day sky (Kyle73) \[Starry Sky\]](https://osu.ppy.sh/beatmapsets/843226#osu/1764267)
@@ -276,9 +276,9 @@ This competition has come to an end and resulted in the following podium:
   - [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Paprika\]](https://osu.ppy.sh/beatmapsets/770240#osu/1619425)
   - [Hanataba - Night of Knights (v2b) \[DJPop's Extra Stage\]](https://osu.ppy.sh/beatmapsets/5445#osu/26726)
 
-### Group Stage - Week 2
+### Group stage week 2
 
-**[Download the mappack here! (70 MB)](https://drive.google.com/file/d/1kb4XoTLHUVLjTjHfVeSNlyfETownFZ4_/view "Google Drive")**
+**[Download the mappack here! (70 MB)](https://drive.google.com/file/d/1kb4XoTLHUVLjTjHfVeSNlyfETownFZ4_/view)**
 
 - NoMod
   - [Feint - We Won't Be Alone (feat. Laura Brehm) (Cheesecake) \[Hikaru's Rose Extra\]](https://osu.ppy.sh/beatmapsets/357539#osu/1231520)
@@ -299,9 +299,9 @@ This competition has come to an end and resulted in the following podium:
   - [Suzuki Konomi - Blow out (Kalibe) \[Linadeft's Extra\]](https://osu.ppy.sh/beatmapsets/617203#osu/1324163)
   - [Kawano Marina - Sekai no Hate (Nao Tomori) \[Lasse's Insane\]](https://osu.ppy.sh/beatmapsets/892145#osu/1865143)
 
-### Group Stage - Week 1
+### Group stage week 1
 
-**[Download the mappack here! (79 MB)](https://mega.nz/#F!KupS1SqA!lOH8xviyDRC84aHC96yvkA "MEGA")**
+**[Download the mappack here! (79 MB)](https://mega.nz/#F!KupS1SqA!lOH8xviyDRC84aHC96yvkA)**
 
 - NoMod
   - [Ayaka Ohashi - Wagamama MIRROR HEART (Rizia) \[Kisses' Extra\]](https://osu.ppy.sh/beatmapsets/554618#osu/1226282)
@@ -324,7 +324,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (76 MB)](https://mega.nz/#F!f3xXRQbC!Ce_NZgkWjR-jLdB4qae8TA "MEGA")**
+**[Download the mappack here! (76 MB)](https://mega.nz/#F!f3xXRQbC!Ce_NZgkWjR-jLdB4qae8TA)**
 
 - NoMod
   - [Demetori - Furuki Yuanxian \~ Death Echo (jonathanlfj) \[Extra Stage Collab\]](https://osu.ppy.sh/beatmapsets/291517#osu/656385)
@@ -552,7 +552,7 @@ Sunday, 5 January 2020:
 | MilkyCoffee- ![][flag_MY] | -1 | **0** | ![][flag_PH] **fixedbyglue** | *win by default* |
 | **blufir\_** ![][flag_MY] | **6** | 1 | ![][flag_ID] thefarrel007 | [#1](https://osu.ppy.sh/community/matches/57516363) |
 
-### Group Stage
+### Group stage
 
 Tuesday, 17 December 2019:
 
@@ -835,7 +835,7 @@ Wednesday, 1 December 2019:
    - If no difference is found in this manner, the tie will be resolved randomly.
 7. For administrative purposes, if a player submits a score on at least 1 map and does not submit a score on at least 1 map, they will have a score of 0 for maps they did not submit a score on. If a player does not submit a score for any map, they will be disqualified.
 
-#### Group Stage
+#### Group stage
 
 1. Each group will have 4 or 6 players (depending on whether the number of qualifiers is a power of 2 or a multiple of 6). Each group will have 1 player of each seed.
    - The top 8 qualifiers will be allocated a group based on hypothetical bracket seeding. All other qualifiers will be assigned groups randomly.
@@ -843,8 +843,8 @@ Wednesday, 1 December 2019:
 3. All group stage matches will be best of 9 (first to 5 wins)
 4. Each group stage pool contains 5 NM, 2 HD, 2 HR, 2 DT, and 2 FM maps.
 5. **Each group will be run as a small bracket stage.**
-   - Below is how a 4 man group will be run. ![4 Man Group Stage Bracket](img/group-stage-4man-bracket.png)
-   - Below is how a 6 man group will be run. ![6 Man Group Stage Bracket](img/group-stage-6man-bracket.png)
+   - Below is how a 4 man group will be run. ![](img/group-stage-4man-bracket.png "4 man Group stage bracket")
+   - Below is how a 6 man group will be run. ![](img/group-stage-6man-bracket.png "6 man Group stage bracket")
 6. The top 2 players will qualify to the RO32 winner’s bracket. The 3rd place player (and for 6 man groups, 4th place player) will qualify to the RO32 loser’s bracket. All other players will be eliminated.
 
 #### Round of 32/Round of 16/Quarterfinals

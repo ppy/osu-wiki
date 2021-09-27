@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2019 logo](img/logo.jpg)
 
-The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2019-03-15/2019-03-29 |
 | Live drawings | 2019-04-13 (14:00 UTC) |
-| Group Stage | 2019-04-20/2019-04-21 |
+| Group stage | 2019-04-20/2019-04-21 |
 | Round of 16 | 2019-04-27/2019-04-28 |
 | Quarterfinals | 2019-05-04/2019-05-05 |
 | Semifinals | 2019-05-11/2019-05-12 |
@@ -37,7 +37,7 @@ The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko 
 
 The osu!taiko World Cup 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
@@ -48,8 +48,8 @@ The osu!taiko World Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/881546)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbRHUw1tLZ0o4PpmjLh02Nea4L_uxdZMbBRqfoTAOPkx5O9xocPVCvoNyt_uYzcyXJtHKY47PrkZHX/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbRHUw1tLZ0o4PpmjLh02Nea4L_uxdZMbBRqfoTAOPkx5O9xocPVCvoNyt_uYzcyXJtHKY47PrkZHX/pubhtml)**
 
 ## Participants
 
@@ -88,9 +88,11 @@ The osu!taiko World Cup 2019 was run by various community members.
 | ![][flag_US] | **United States** | **[Ney](https://osu.ppy.sh/users/5991961)**, [\_cc](https://osu.ppy.sh/users/1656336), [cheese salad](https://osu.ppy.sh/users/6349821), [Loopy542](https://osu.ppy.sh/users/5468461), [yea](https://osu.ppy.sh/users/6874332) |
 | ![][flag_VE] | **Venezuela** | **[Te amo Kazu](https://osu.ppy.sh/users/1368025)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [My Angel Kazu](https://osu.ppy.sh/users/5136821), [Nutellitah](https://osu.ppy.sh/users/10613075) |
 
-![TWC 2019 podium](img/podium.jpg)
+![](img/bracket.jpg "TWC 2019 bracket")
 
-![TWC 2019 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "TWC 2019 podium")
 
 ## Mappools
 
@@ -217,7 +219,7 @@ The osu!taiko World Cup 2019 was run by various community members.
 - Tiebreaker
   - **[xi - Double Helix (Loopy542) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/763343#taiko/1605065)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Venetian Snares - Szamar Madar (Xay) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/685785#taiko/1451660)
@@ -327,7 +329,7 @@ Sunday, 28 April 2019:
 | Singapore ![][flag_SG] | 1 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51361043) |
 | **Japan** ![][flag_JP] | **6** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/51363192) |
 
-### Group Stage
+### Group stage
 
 Saturday, 20 April 2019:
 

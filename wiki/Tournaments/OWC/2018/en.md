@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2018 logo](img/logo.jpg)
 
-The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth installment of the osu! World Cup.
+The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2018-10-13/2018-10-26 |
 | Live drawings | 2018-11-04 (14:00 UTC) |
-| Group Stage | 2018-11-10/2018-11-11 |
+| Group stage | 2018-11-10/2018-11-11 |
 | Round of 16 | 2018-11-17/2018-11-18 |
 | Quarterfinals | 2018-11-24/2018-11-25 |
 | Semifinals | 2018-12-01/2018-12-02 |
@@ -37,7 +37,7 @@ The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament
 
 The osu! World Cup 2018 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/578943) |
@@ -48,9 +48,9 @@ The osu! World Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/815745)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/3 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRx6Eo1_ZRiHlAkZsuPgwt9zBlMhueAZblppAxhZLvezmRm0JsWAjRKzevgFk2OlKqts3KL1uw62Wat/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/3) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRx6Eo1_ZRiHlAkZsuPgwt9zBlMhueAZblppAxhZLvezmRm0JsWAjRKzevgFk2OlKqts3KL1uw62Wat/pubhtml)**
 
 ## Participants
 
@@ -89,15 +89,17 @@ The osu! World Cup 2018 was run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)**, [Doomsday](https://osu.ppy.sh/users/18983), [Jameslike](https://osu.ppy.sh/users/2415743), [Karthy](https://osu.ppy.sh/users/4196808), [MoeYandere](https://osu.ppy.sh/users/2565902), [OPJames](https://osu.ppy.sh/users/4117142), [SoraRoxas01](https://osu.ppy.sh/users/1986262), [Spare](https://osu.ppy.sh/users/2204373) |
 | ![][flag_US] | **United States** | **[Apraxia](https://osu.ppy.sh/users/4194445)**, [DigitalHypno](https://osu.ppy.sh/users/4384207), [fieryrage](https://osu.ppy.sh/users/3533958), [he rack](https://osu.ppy.sh/users/2644828), [idke](https://osu.ppy.sh/users/4650315), [Monko2k](https://osu.ppy.sh/users/4852013), [Toy](https://osu.ppy.sh/users/2757689), [Vaxei](https://osu.ppy.sh/users/4787150) |
 
-![OWC 2018 podium](img/podium.jpg)
+![](img/bracket.jpg "OWC 2018 bracket")
 
-![OWC 2018 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "OWC 2018 podium")
 
 ## Mappools
 
 ### Finals week 2
 
-**[Download the mappack here! (140 MB)](https://www.mediafire.com/file/s791z5me6w6b0sx/OWC-GF-Mappack.zip/file "MediaFire")**
+**[Download the mappack here! (140 MB)](https://www.mediafire.com/file/s791z5me6w6b0sx/OWC-GF-Mappack.zip/file)**
 
 - NoMod
   - [Camellia feat. Nanahira - Bassdrop Freaks (2018 ''Redrop'' ver.) \(Mir\) \[Beisu Doroppu\]](https://osu.ppy.sh/beatmapsets/806859#osu/1693575)
@@ -126,7 +128,7 @@ The osu! World Cup 2018 was run by various community members.
 
 ### Finals week 1
 
-**[Download the mappack here! (116 MB)](https://mega.nz/#!xolFEKQA!g-4E-q-mVCaKWa3XdpefZ67UhOncE3vnWVz6D_LX4PY "MEGA")**
+**[Download the mappack here! (116 MB)](https://mega.nz/#!xolFEKQA!g-4E-q-mVCaKWa3XdpefZ67UhOncE3vnWVz6D_LX4PY)**
 
 - NoMod
   - [jioyi - Platinum \(09kami\) \[tyui's Extra\]](https://osu.ppy.sh/beatmapsets/449225#osu/1093629)
@@ -155,7 +157,7 @@ The osu! World Cup 2018 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (120 MB)](https://mega.nz/#!GP4UmKAB!H4qmc4z9GawNni2wV0Ykmq1BtPPN6ctQ_btQ4RJE-nM "MEGA")**
+**[Download the mappack here! (120 MB)](https://mega.nz/#!GP4UmKAB!H4qmc4z9GawNni2wV0Ykmq1BtPPN6ctQ_btQ4RJE-nM)**
 
 - NoMod
   - [USAO - Boss Rush \(Lavender\) \[Moecho's Blitz Surge Extra\]](https://osu.ppy.sh/beatmapsets/619807#osu/1306399)
@@ -184,7 +186,7 @@ The osu! World Cup 2018 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (109 MB)](https://mega.nz/#!qbQ1hKpZ!2_emp6STvj3yDjkp40PMR_uqBMizPx3F3f1mTZsHAbc "MEGA")**
+**[Download the mappack here! (109 MB)](https://mega.nz/#!qbQ1hKpZ!2_emp6STvj3yDjkp40PMR_uqBMizPx3F3f1mTZsHAbc)**
 
 - NoMod
   - [xi - Aragami \(Sayaka-\) \[Death\]](https://osu.ppy.sh/beatmapsets/225377#osu/526757)
@@ -212,7 +214,7 @@ The osu! World Cup 2018 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (114 MB)](https://mega.nz/#!SHBSACzI!gdAciJN3WfN_iCpkOqLC5sL5OGzkhCX1j0k-zafgyy4 "MEGA")**
+**[Download the mappack here! (114 MB)](https://mega.nz/#!SHBSACzI!gdAciJN3WfN_iCpkOqLC5sL5OGzkhCX1j0k-zafgyy4)**
 
 - NoMod
   - [nowisee - confusion \(hot anime girl\) \[Fearful Star Extra\]](https://osu.ppy.sh/beatmapsets/720882#osu/1522329)
@@ -238,9 +240,9 @@ The osu! World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[Dark PHOENiX - Ryokugan no Jealousy \(EvilElvis\) \[Monster with Green Eyes\]](https://osu.ppy.sh/beatmapsets/382455#osu/836339)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (91 MB)](https://mega.nz/#!qLphFAoZ!eXLEe01i9mnPHqi5ebqGcSVQkK6nCqha8krm3MdhlXA "MEGA")**
+**[Download the mappack here! (91 MB)](https://mega.nz/#!qLphFAoZ!eXLEe01i9mnPHqi5ebqGcSVQkK6nCqha8krm3MdhlXA)**
 
 - NoMod
   - [nano - DREAMCATCHER \(Vert\) \[Depths' Starlight Future Extra\]](https://osu.ppy.sh/beatmapsets/695957#osu/1532896)
@@ -355,7 +357,7 @@ Sunday, 18 November 2018:
 | **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/47518299) |
 | Russian Federation ![][flag_RU] | 3 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/47521221) |
 
-### Group Stage
+### Group stage
 
 Saturday, 10 November 2018:
 

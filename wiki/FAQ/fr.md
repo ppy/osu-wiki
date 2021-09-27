@@ -308,7 +308,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 *Une explication détaillée des notations peut être trouvée sur la page de chaque mode de jeu ou sur [la page des Scores](/wiki/Score).*
 
-*Une explication détaillée des calculs de la précision peut être trouvée sur la page de chaque mode de jeu ou sur [the Accuracy page](/wiki/Accuracy).*
+*Une explication détaillée des calculs de la précision peut être trouvée sur la page de chaque mode de jeu ou sur [the Accuracy page](/wiki/Gameplay/Accuracy).*
 
 ### Grades
 

@@ -6,13 +6,15 @@ tags:
   - OD
   - spinner difficulty
   - précision
+outdated: true
+outdated_since: 266a07fc271ddfef0dfd369697733a2c5835a124
 ---
 
 # Overall difficulty
 
 *Pour les valeurs d'OD recommandées, voir : [Critères de classement](/wiki/Ranking_Criteria)*
 
-L'**overall difficulty** (abrégé en ***OD***) définit la difficulté d'obtenir une [précision](/wiki/Accuracy) élevée sur une [beatmap](/wiki/Beatmap). La valeur est comprise entre 0 et 10, une OD plus élevée exigeant plus de précision et d'exactitude. Étant donné que la précision est importante pour récupérer de la vie, l'overall difficulty influence également la difficulté pour réussir une beatmap.
+L'**overall difficulty** (abrégé en ***OD***) définit la difficulté d'obtenir une [précision](/wiki/Gameplay/Accuracy) élevée sur une [beatmap](/wiki/Beatmap). La valeur est comprise entre 0 et 10, une OD plus élevée exigeant plus de précision et d'exactitude. Étant donné que la précision est importante pour récupérer de la vie, l'overall difficulty influence également la difficulté pour réussir une beatmap.
 
 ## Timing
 

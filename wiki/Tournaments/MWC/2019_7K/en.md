@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2019 logo](img/logo.jpg)
 
-The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth installment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2019-01-07/2019-01-19 |
 | Live drawings | 2019-02-02 14:00:00 UTC |
-| Group Stage | 2019-02-09/2019-02-10 |
+| Group stage | 2019-02-09/2019-02-10 |
 | Round of 16 | 2019-02-16/2019-02-17 |
 | Quarterfinals | 2019-02-23/2019-02-24 |
 | Semifinals | 2019-03-02/2019-03-03 |
@@ -39,7 +39,7 @@ The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!
 
 The osu!mania 7K World Cup 2019 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Mappool selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
@@ -50,8 +50,8 @@ The osu!mania 7K World Cup 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/851928)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHx-0kmYIB3ZrSpz5ZOS7hYV-SsLsVbIVQ15y7PvdMelCSUAr2ipyHRZzsSxXnUEhCaed6PNO5ecb2/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHx-0kmYIB3ZrSpz5ZOS7hYV-SsLsVbIVQ15y7PvdMelCSUAr2ipyHRZzsSxXnUEhCaed6PNO5ecb2/pubhtml)**
 
 ## Participants
 
@@ -95,9 +95,11 @@ The osu!mania 7K World Cup 2019 was run by various community members.
 | **G** | ![][flag_CN] China | ![][flag_CL] Chile | ![][flag_DK] Denmark |
 | **H** | ![][flag_PL] Poland | ![][flag_SG] Singapore | ![][flag_IL] Israel |
 
-![MWC 7K 2019 podium](img/podium.jpg)
+![](img/bracket.jpg "MWC 7K 2019 bracket")
 
-![MWC 7K 2019 bracket](img/bracket.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 7K 2019 podium")
 
 ## Mappools
 
@@ -177,7 +179,7 @@ The osu!mania 7K World Cup 2019 was run by various community members.
 - Tiebreaker
   - **[Sword of Justice - Valestein Castle (pporse) \[Rock\]](https://osu.ppy.sh/beatmapsets/290360#mania/654164)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Kurenainagi Tabibito - Otenba Koimusume (MeowPaz) \[paperlens' 7K Hard\]](https://osu.ppy.sh/beatmapsets/363320#mania/797821)
@@ -280,7 +282,7 @@ Sunday, 17 February 2019:
 | Japan ![][flag_JP] | 3 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49657037) |
 | Sweden ![][flag_SE] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49660865) |
 
-### Group Stage
+### Group stage
 
 Saturday, 9 February 2019:
 

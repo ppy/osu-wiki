@@ -18,6 +18,10 @@ The **Rapid Monthly osu! Tournament Invitational #2** (***RMoTI 2***) was a 1v1 
 | Losers Round 4, 5 and 6 | 2017-05-14 |
 | Finals and Grand Finals | 2017-05-14 |
 
+## Prizes
+
+The prizes were handed out in the form of points. Every 36 points could be redeemed for a month of the osu!supporter tag. Invitational winners were awarded twice the amount awarded in RMoTs. The winner of the Invitational tournament got 96 points, second place got 48 points etc.
+
 ## Organisation
 
 | Position | Member(s) |
@@ -29,17 +33,13 @@ The **Rapid Monthly osu! Tournament Invitational #2** (***RMoTI 2***) was a 1v1 
 | Streamer | ![][flag_SE] [BeatingHeart](https://osu.ppy.sh/users/4586549), ![][flag_PL] [FreezingTooEasy](https://osu.ppy.sh/users/4022318) |
 | Commentator | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575), ![][flag_SE] [ErroTheCube](https://osu.ppy.sh/users/4425262), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_DE] [Niegth](https://osu.ppy.sh/users/1991114), ![][flag_SI] [ultraregen](https://osu.ppy.sh/users/4106122) |
 
-## Prizes
-
-The prizes were handed out in the form of points. Every 36 points could be redeemed for a month of the osu!supporter tag. Invitational winners were awarded twice the amount awarded in RMoTs. The winner of the Invitational tournament got 96 points, second place got 48 points etc.
-
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/589111)
-- [Challonge](https://challonge.com/rmotinvitational2 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1l2rR7m_h4suoXIwGPJzy78_0m8DbF0aO_W062f2U714 "Google Sheets")**
+- [Challonge](https://challonge.com/rmotinvitational2)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1l2rR7m_h4suoXIwGPJzy78_0m8DbF0aO_W062f2U714)**
 
-### Predictions
+## Predictions
 
 Anyone was allowed to predict the outcome of the tournament until the starting date. The predictions took place on Challonge and the top three predicters were awarded half the amount of points awarded in RMoTs.
 
@@ -79,6 +79,16 @@ The filler players are chosen according to a few criteria in the following prior
 
 ![][flag_SE] [ErroTheCube](https://osu.ppy.sh/users/4425262), ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575), ![][flag_PL] [Malson](https://osu.ppy.sh/users/6047395) and ![][flag_NL] [Senpaii Hentaii](https://osu.ppy.sh/users/7093651) gained the right to participate in the Invitational, ErroTheCube being seeded higher than the other three.
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [Malson](https://osu.ppy.sh/users/6047395) |
+
 ## Mappool
 
 - NoMod
@@ -107,16 +117,6 @@ The filler players are chosen according to a few criteria in the following prior
   - **[nano - Hysteria (theramdans) [Collab]](https://osu.ppy.sh/beatmapsets/168662#osu/412306)**
   - **[Halozy - Masshiro na Yuki (MrSergio) [Everlasting Snow]](https://osu.ppy.sh/beatmapsets/388887#osu/848143)**
   - **[DJ Noriken - Elecktrick U-Phoria (Extended Mix) (sionKotori) [Illuminate]](https://osu.ppy.sh/beatmapsets/392682#osu/854972)**
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [Malson](https://osu.ppy.sh/users/6047395) |
 
 ## Ruleset
 

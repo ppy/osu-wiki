@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2018 logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). It was the fourth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). It was the fourth instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -27,9 +27,9 @@ The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.png "RDOC 2018 winner badge")
 
@@ -51,10 +51,10 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/788769)
-- [RDOC Discord server](https://discord.gg/JhBkmzE "Discord")
-- [Livestream](https://www.twitch.tv/royaldanishosucup "Twitch")
-- [Challonge brackets](https://challonge.com/rdoc2018 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19z2AC5TN80G0eaQGs_6yVsTgfu5d9Huy5Q7EiibZnuQ "Google Sheets")**
+- [RDOC Discord server](https://discord.gg/JhBkmzE)
+- [Livestream](https://www.twitch.tv/royaldanishosucup)
+- [Challonge brackets](https://challonge.com/rdoc2018)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19z2AC5TN80G0eaQGs_6yVsTgfu5d9Huy5Q7EiibZnuQ)**
 
 ## Participants
 

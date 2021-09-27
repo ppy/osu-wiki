@@ -7,7 +7,7 @@ tags:
 
 ![VAF logo](img/logo.jpg)
 
-The **Vaf's Autumn Fiesta** (**VAF**) was a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament was run in a swiss style to determine the top players before going onto a double-elimination bracket in the Semifinals phase. The tournament was also rank-restricted to rank #50 and below. It was the first installment of the Vaf's Autumn Fiesta.
+The **Vaf's Autumn Fiesta** (**VAF**) was a 1v1 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). The tournament was run in a swiss style to determine the top players before going onto a double-elimination bracket in the Semifinals phase. The tournament was also rank-restricted to rank #50 and below. It was the first instalment of the Vaf's Autumn Fiesta.
 
 ## Tournament schedule
 
@@ -29,11 +29,11 @@ The **Vaf's Autumn Fiesta** (**VAF**) was a 1v1 osu!taiko tournament hosted by !
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, physical trophy, 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Physical trophy, 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Physical trophy, 6 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, physical trophy, 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Physical trophy, 6 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Physical trophy, 6 months of osu!supporter |
 
-A prize pool of grand total 18 months of osu!supporter tag and physical trophies is made possible thanks to [Lotuspro](http://www.lotuspro.io/ "Lotuspro").
+A prize pool of grand total 18 months of osu!supporter and physical trophies is made possible thanks to [Lotuspro](http://www.lotuspro.io/).
 
 ![](img/badge.jpg "VAF winner badge")
 
@@ -58,12 +58,12 @@ The Vaf's Autumn Fiesta was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1299571)
 - Livestream
-  - [Twitch](https://www.twitch.tv/vafautumnfiesta "Twitch")
-  - [Trovo](https://trovo.live/VafAutumnFiesta "Trovo")
+  - [Twitch](https://www.twitch.tv/vafautumnfiesta)
+  - [Trovo](https://trovo.live/VafAutumnFiesta)
     - *Note: The second channel's purpose was to stream the other match if there were more than one matches happening at the same time.*
-- [VAF Discord server](https://discord.gg/h6AcC2XB3B "Discord")
-- [Challonge bracket](https://challonge.com/VAF "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1A0MAwHb0xVQefsPAc1v1SMox9dTyWodRXyqyIWNaVjg/edit?usp=sharing "Google Sheets")**
+- [VAF Discord server](https://discord.gg/h6AcC2XB3B)
+- [Challonge bracket](https://challonge.com/VAF)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1A0MAwHb0xVQefsPAc1v1SMox9dTyWodRXyqyIWNaVjg/edit?usp=sharing)**
 
 ## Participants
 
@@ -150,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (90 MB)](https://www.mediafire.com/file/sz6al1q0nifisg9/MAPPACK_GF.zip/file "MediaFire")**
+**[Download the mappack here! (90 MB)](https://www.mediafire.com/file/sz6al1q0nifisg9/MAPPACK_GF.zip/file)**
 
 - NoMod
   - [Kyou1110 - Revavavavava Ideoloololololololo (applerss) \[Innererererer Oniinininininini\]](https://osu.ppy.sh/beatmapsets/669463#taiko/1416106)
@@ -180,7 +180,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (109 MB)](https://www.mediafire.com/file/b2xdkgyty6c5foq/Mappack+F.zip/file "MediaFire")**
+**[Download the mappack here! (109 MB)](https://www.mediafire.com/file/b2xdkgyty6c5foq/Mappack+F.zip/file)**
 
 - NoMod
   - [96-glass - TAROLIN MEGAMIX (2077 art mix) (applerss) \[2019 oni\]](https://osu.ppy.sh/beatmapsets/1066293#taiko/2234549)
@@ -210,7 +210,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (102 MB)](https://www.mediafire.com/file/wzxoqyuv7oqb3rx/MAPPACK_SEMIFINALS_VAF.zip/file "MediaFire")**
+**[Download the mappack here! (102 MB)](https://www.mediafire.com/file/wzxoqyuv7oqb3rx/MAPPACK_SEMIFINALS_VAF.zip/file)**
 
 - NoMod
   - [hanacco - Tachibana Sylphynford (X a v y) \[TSF in Nippon!\]](https://osu.ppy.sh/beatmapsets/1312208#taiko/2719578)
@@ -240,7 +240,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Swiss week 6
 
-**[Download the mappack here! (93 MB)](https://www.mediafire.com/file/9scny0ifon9dtss/mappack+week+6.zip/file "MediaFire")**
+**[Download the mappack here! (93 MB)](https://www.mediafire.com/file/9scny0ifon9dtss/mappack+week+6.zip/file)**
 
 - NoMod
   - [Silentroom - Finixe (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1336266#taiko/2768306)
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Swiss week 5
 
-**[Download the mappack here! (77 MB)](https://www.mediafire.com/file/zmt03xqpk33atfv/MAPPACK_SWISS_5.zip/file "MediaFire")**
+**[Download the mappack here! (77 MB)](https://www.mediafire.com/file/zmt03xqpk33atfv/MAPPACK_SWISS_5.zip/file)**
 
 - NoMod
   - [An - Cochma (Ulqui) \[Purity\]](https://osu.ppy.sh/beatmapsets/1381447#taiko/2854276)
@@ -294,7 +294,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Swiss week 4
 
-**[Download the mappack here! (74 MB)](https://www.mediafire.com/file/hnxyyckq4znqd6m/MAPPACK_SWISS_4.zip/file "MediaFire")**
+**[Download the mappack here! (74 MB)](https://www.mediafire.com/file/hnxyyckq4znqd6m/MAPPACK_SWISS_4.zip/file)**
 
 - NoMod
   - [Rainbowdragoneyes - Gods Of War 2007 - 2010 (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/831241#taiko/1741497)
@@ -321,7 +321,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Swiss week 3
 
-**[Download the mappack here! (88 MB)](https://www.mediafire.com/file/jz3c3oiuax5kpfo/MAPPACK+SWISS+3.zip/file "MediaFire")**
+**[Download the mappack here! (88 MB)](https://www.mediafire.com/file/jz3c3oiuax5kpfo/MAPPACK+SWISS+3.zip/file)**
 
 - NoMod
   - [Rohi - Kakuzetsu Thanatos (Idealism) \[Isolation\]](https://osu.ppy.sh/beatmapsets/1175412#taiko/2451623)
@@ -348,7 +348,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Swiss week 2
 
-**[Download the mappack here! (94 MB)](https://www.mediafire.com/file/ivudcuyyvpky3eh/MAPPACK+SWISS+WEEK+2.zip/file "MediaFire")**
+**[Download the mappack here! (94 MB)](https://www.mediafire.com/file/ivudcuyyvpky3eh/MAPPACK+SWISS+WEEK+2.zip/file)**
 
 - NoMod
   - [mafumafu - Kakushigoto (kanpakyin) \[Inner Oni (Tourney Ver.)\]](https://osu.ppy.sh/beatmapsets/1320126#taiko/3006514)
@@ -375,7 +375,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Swiss week 1
 
-**[Download the mappack here! (113 MB)](https://www.mediafire.com/file/cc6lfomy344chll/SWISS1_MAPPACK.zip/file "MediaFire")**
+**[Download the mappack here! (113 MB)](https://www.mediafire.com/file/cc6lfomy344chll/SWISS1_MAPPACK.zip/file)**
 
 - NoMod
   - [Orangestar - Asu no Yozora Shoukaihan (Raphalge) \[Vocaloid Hater\]](https://osu.ppy.sh/beatmapsets/704125#taiko/1489560)
@@ -757,13 +757,13 @@ Sunday, 16 May 2021:
 
 ### Swiss style
 
-1. Swiss style is a league style format which consists of playing against X opponents depending on the format and rounds existing. This implies that each player will not play against everyone in the swiss. Each matchup will depend on the seeding and performance of every player in the swiss bracket. There is an exception where in case of a tie a player might rematch someone depending on their point difference (this depends on the Challonge bracket). More information on this format can be accessed through the [following video](https://youtu.be/WsvFrxJPBZA "YouTube").
+1. Swiss style is a league style format which consists of playing against X opponents depending on the format and rounds existing. This implies that each player will not play against everyone in the swiss. Each matchup will depend on the seeding and performance of every player in the swiss bracket. There is an exception where in case of a tie a player might rematch someone depending on their point difference (this depends on the Challonge bracket). More information on this format can be accessed through the [following video](https://youtu.be/WsvFrxJPBZA).
 2. Each player will play throughout 6 weeks, 6 matches/rounds of swiss style.
 3. Matchups will be paired between players who possess the same amount of W-L-D (for example someone that goes 3-0 will be prioritized against someone who also is 3-0). Moreover, playing against the same player twice will be avoided unless it's completely necessary.
 4. Every match will use BO13 format, this means throughout the entire swiss bracket a player will need 7 points to win a match or 6 to guarantee a tie. Semifinals onwards will also use BO13 format. The main difference is that the swiss bracket doesn't have a tiebreaker.
 5. In case of a tie in W-L-D at the end of the 6 rounds/matches, several tiebreaker methods will be used depending on different information:
    - Points
-   - [Bucholz](https://en.wikipedia.org/wiki/Buchholz_system "Wikipedia")
+   - [Bucholz](https://en.wikipedia.org/wiki/Buchholz_system)
    - Points scored difference
 6. Every player who enters will play 6 matches in total 6 throughout 6 weeks in the swiss bracket. Only the top 12 players will go through the double elimination bracket afterwards.
 7. Players will immediately enter the Semifinals knockout stage if they pass the swiss bracket. Top 4 players from the swiss bracket will be placed in the winners bracket while the rest will start from the losers bracket.

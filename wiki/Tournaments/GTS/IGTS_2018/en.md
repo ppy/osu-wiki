@@ -9,7 +9,7 @@ tags:
 
 ![IGTS 2018 logo](img/logo.jpg)
 
-The **Intermediate Global Taiko Showdown 2018** (***IGTS 2018***) was a country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the first installment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Intermediate Global Taiko Showdown 2018** (***IGTS 2018***) was a country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the first instalment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **Intermediate Global Taiko Showdown 2018** (***IGTS 2018***) was a country-
 | --: | :-- |
 | Registration phase | 2018-06-30/2018-07-29 |
 | Live drawings | 2018-07-29 (13:00 UTC) |
-| Group Stage | 2018-08-04/2018-08-12 |
+| Group stage | 2018-08-04/2018-08-12 |
 | Round 1 (Lower Bracket) | 2018-08-18/2018-08-19 |
 | Quarterfinals | 2018-08-25/2018-08-26 |
 | Semifinals | 2018-09-01/2018-09-02 |
@@ -28,18 +28,18 @@ The **Intermediate Global Taiko Showdown 2018** (***IGTS 2018***) was a country-
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag, userpage banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter, userpage banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ## Organisation
 
 The Intermediate Global Taiko Showdown 2018 was run by various osu!taiko community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map selector | ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_ID] [Poii](https://osu.ppy.sh/users/7924938) |
+| Mappool selector | ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_ID] [Poii](https://osu.ppy.sh/users/7924938) |
 | Referee | ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_RU] [-\_-Nico-\_-](https://osu.ppy.sh/users/9689534), ![][flag_JP] [Noko_BSF](https://osu.ppy.sh/users/3811831), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) |
 | Commentator | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_AR] [BossPlays\_02](https://osu.ppy.sh/users/7341471), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120) |
@@ -50,10 +50,10 @@ The Intermediate Global Taiko Showdown 2018 was run by various osu!taiko communi
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/767841)
-- [GTS Discord server](https://discord.gg/3mGC3HB "Discord")
-- [GTS website](https://gtsosu.com "GTS")
-- [Livestream](https://www.twitch.tv/igtsosu "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4vir4NFHj_ddiWiO14Tywkd8ZJNF5Zo_CmUb1vKcSOi5ReVFz23InJNg4rEfCtXYmKUq4Byf29SQd/pubhtml "Google Sheets")**
+- [GTS Discord server](https://discord.gg/3mGC3HB)
+- [GTS website](https://gtsosu.com)
+- [Livestream](https://www.twitch.tv/igtsosu)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4vir4NFHj_ddiWiO14Tywkd8ZJNF5Zo_CmUb1vKcSOi5ReVFz23InJNg4rEfCtXYmKUq4Byf29SQd/pubhtml)**
 
 ## Participants
 
@@ -80,7 +80,7 @@ The Intermediate Global Taiko Showdown 2018 was run by various osu!taiko communi
 | ![][flag_US] | **United States** | **[Swovine](https://osu.ppy.sh/users/6666316)**, [Rukairi](https://osu.ppy.sh/users/6642597), [Trilt](https://osu.ppy.sh/users/9292128), [CaptainEChan](https://osu.ppy.sh/users/9536977), [rg\_seo](https://osu.ppy.sh/users/8150728) |
 | ![][flag_VE] | **Venezuela** | **[Acetylcholine](https://osu.ppy.sh/users/4159873)**, [Syber\_Fox](https://osu.ppy.sh/users/6028905) |
 
-### Groups
+## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -103,7 +103,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (107 MB)](https://mega.nz/#!Y8M2la6K!CHWMUKhMNOD4Cr3OKioBD6n1MiGRJIORYhqRJg9Hu-o "MEGA")**
+**[Download the mappack here! (107 MB)](https://mega.nz/#!Y8M2la6K!CHWMUKhMNOD4Cr3OKioBD6n1MiGRJIORYhqRJg9Hu-o)**
 
 - NoMod
   - [LOLI RIPE - All I wanna do is touch your power points (BabySnakes) \[PoisOni\]](https://osu.ppy.sh/beatmapsets/846727#taiko/1770837)
@@ -132,7 +132,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (70 MB)](https://mega.nz/#!94dm3IIB!kdoUv1uMV09D0Jv15QiKsK4PSwbuaWCp09T2hLi6Mkg "MEGA")**
+**[Download the mappack here! (70 MB)](https://mega.nz/#!94dm3IIB!kdoUv1uMV09D0Jv15QiKsK4PSwbuaWCp09T2hLi6Mkg)**
 
 - NoMod
   - [Tomatsu Haruka, Hikasa Yoko, Amamiya Sora - Eyecatch! Too Much! (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/554873#taiko/1187765)
@@ -158,7 +158,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (63 MB)](https://mega.nz/#!xt0gHSrT!Ea2AYNt6Zg6DNoYyiNSNmrCkALw34AZIcS2v_ol02Is "MEGA")**
+**[Download the mappack here! (63 MB)](https://mega.nz/#!xt0gHSrT!Ea2AYNt6Zg6DNoYyiNSNmrCkALw34AZIcS2v_ol02Is)**
 
 - NoMod
   - [Culprate - Yellow (A Second Glimpse) (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/589814#taiko/1500895)
@@ -182,7 +182,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (71 MB)](https://mega.nz/#!ktMHUaaK!2maoXyV1gqC6CyIABct9dwU-RFQk6N5Aa-TdPk0LCaQ "MEGA")**
+**[Download the mappack here! (71 MB)](https://mega.nz/#!ktMHUaaK!2maoXyV1gqC6CyIABct9dwU-RFQk6N5Aa-TdPk0LCaQ)**
 
 - NoMod
   - [Cranky - Into the Unknown (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/738600#taiko/1558765)
@@ -206,7 +206,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 1 (Lower Bracket)
 
-**[Download the mappack here! (56 MB)](https://mega.nz/#!CvhRhKZL!k3My3SDxVJiAmD8xZs27_nwmVsisrMY4O5NaqA1dW6w "MEGA")**
+**[Download the mappack here! (56 MB)](https://mega.nz/#!CvhRhKZL!k3My3SDxVJiAmD8xZs27_nwmVsisrMY4O5NaqA1dW6w)**
 
 - NoMod
   - [Nekomata Master - Silence (Tasha) \[Oni\]](https://osu.ppy.sh/beatmapsets/127126#taiko/342676)
@@ -228,9 +228,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Lovelicot - Indoa\*Ranburu (Kqrth) \[Rumble\]](https://osu.ppy.sh/beatmapsets/627513#taiko/1322323)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (67 MB)](https://mega.nz/#!mzgBHYxJ!C7T6SS-wWBI85Ez0-iKGB62466pcE8iV_yJHKDAB8qQ "MEGA")**
+**[Download the mappack here! (67 MB)](https://mega.nz/#!mzgBHYxJ!C7T6SS-wWBI85Ez0-iKGB62466pcE8iV_yJHKDAB8qQ)**
 
 - NoMod
   - [Fire EX. - Shattered Dreams (Nardoxyribonucleic) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/287251#taiko/660343)
@@ -332,7 +332,7 @@ Saturday, 18 August 2018:
 | **Canada** ![][flag_CA] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/45173889) |
 | Chile ![][flag_CL] | 0 | **5** | ![][flag_PT] **Portugal** | *win by default* |
 
-### Group Stage
+### Group stage
 
 Saturday, 4 August 2018:
 

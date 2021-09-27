@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2014 logo](img/logo.png)
 
-The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third installment of the osu!catch World Cup.
+The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) was a country-based 
 | --: | :-- |
 | Registration phase | 2014-04-11/2014-04-20 |
 | Live drawings | 2014-05-03 (14:00 UTC) |
-| Group Stage | 2014-05-17 |
+| Group stage | 2014-05-17 |
 | Round of 16 | 2014-05-24 |
 | Quarterfinals | 2014-06-01 |
 | Semifinals | 2014-06-08 |
@@ -26,9 +26,9 @@ The **osu! Catch the Beat World Cup 2014** (***CWC 2014***) was a country-based 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, osu! merchandise |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge, osu! merchandise |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "CWC 2014 winner badge")
 
@@ -47,8 +47,8 @@ The osu! Catch the Beat World Cup 2014 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/200185)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1 "Hiroto")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1)**
 
 ## Participants
 
@@ -96,6 +96,8 @@ The osu! Catch the Beat World Cup 2014 was run by various community members.
 | ![][flag_TH] Thailand | ![][flag_CL] Chile | ![][flag_SG] Singapore | ![][flag_MY] Malaysia | ![][flag_NZ] New Zealand | ![][flag_FI] Finland | ![][flag_CA] Canada | ![][flag_UY] Uruguay |
 | ![][flag_US] United States | ![][flag_EE] Estonia | ![][flag_NO] Norway | ![][flag_JP] Japan | ![][flag_SE] Sweden | ![][flag_HR] Croatia | ![][flag_BO] Bolivia | ![][flag_ID] Indonesia |
 
+![](img/bracket.jpg "CWC 2014 bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -106,15 +108,13 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] **Germany** (**[DeathXHunter](https://osu.ppy.sh/users/405326)**, [NoteKuroi](https://osu.ppy.sh/users/186642), [Nyan-Zapo](https://osu.ppy.sh/users/480676)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SE] **Sweden** (**[Yukiteru Amano](https://osu.ppy.sh/users/1894511)**, [-Airi-](https://osu.ppy.sh/users/2546340), [Negri\_sk](https://osu.ppy.sh/users/2231396), [Suzuki](https://osu.ppy.sh/users/2960209), [Walterx8](https://osu.ppy.sh/users/1993041)) |
 
-![CWC 2014 bracket](img/bracket.jpg)
-
 ## Mappools
 
-**[All mappools can be downloaded via this link! (1.05 GB)](https://www.mediafire.com/download/4f58oh6oxxb75ws/CWC_Packs.zip "MediaFire")**
+**[All mappools can be downloaded via this link! (1.05 GB)](https://www.mediafire.com/download/4f58oh6oxxb75ws/CWC_Packs.zip)**
 
 ### Finals
 
-**[Download the mappack here! (246 MB)](https://www.mediafire.com/download/xtg49nkipcsl6gu/CWC_Finals.rar "MediaFire")**
+**[Download the mappack here! (246 MB)](https://www.mediafire.com/download/xtg49nkipcsl6gu/CWC_Finals.rar)**
 
 - NoMod
   - [sakuzyo - AXION (DaxMasterix) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/57468#fruits/173222)
@@ -148,7 +148,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (205 MB)](https://www.mediafire.com/download/c2o11bznoryz8wk/CWC_Semifinals.rar "MediaFire")**
+**[Download the mappack here! (205 MB)](https://www.mediafire.com/download/c2o11bznoryz8wk/CWC_Semifinals.rar)**
 
 - NoMod
   - [goreshit - Satori De Pon! (eldnl) \[Fruitcore\]](https://osu.ppy.sh/beatmapsets/134990#fruits/338326)
@@ -182,7 +182,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (258 MB)](https://www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar "MediaFire")**
+**[Download the mappack here! (258 MB)](https://www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar)**
 
 - NoMod
   - [LeaF - MEPHISTO (Alumetorz) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/106212#fruits/298908)
@@ -216,7 +216,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (178 MB)](https://www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar "MediaFire")**
+**[Download the mappack here! (178 MB)](https://www.mediafire.com/download/sj3umn4ajmmebaz/CWC_Round_of_16.rar)**
 
 - NoMod
   - [ONE OK ROCK - Rock, Scissors, Paper (Haya) \[Tenshichan's Rain\]](https://osu.ppy.sh/beatmapsets/82282#fruits/242575)
@@ -248,9 +248,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/31119#fruits/105143)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (186 MB)](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar "MediaFire")**
+**[Download the mappack here! (186 MB)](https://www.mediafire.com/download/070bbn8puhdwl7i/CWC_Group_Stage.rar)**
 
 - NoMod
   - [Rita - Princess Blood (Zweib) \[Insane\]](https://osu.ppy.sh/beatmapsets/94112#fruits/253528)
@@ -328,7 +328,7 @@ Saturday, 24 May 2014:
 | **Japan** ![][flag_JP] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/6840792) |
 | **United States** ![][flag_US] | **5** | 4 | ![][flag_UY] Uruguay | [#1](https://osu.ppy.sh/community/matches/6842138) |
 
-### Group Stage
+### Group stage
 
 Saturday, 17 May 2014:
 
@@ -401,7 +401,7 @@ Saturday, 17 May 2014:
    - The maximum team size is 6.
    - You must specify a captain who will represent the team.
 2. Each team represents a nation. You must form a team with players from the same country.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit "Google Forms"). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “CWC Registration”
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “CWC Registration”
    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.

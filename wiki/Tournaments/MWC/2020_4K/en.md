@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2020 logo](/wiki/shared/news/banners/MWC4k2020.jpg)
 
-The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!
 | --: | :-- |
 | Registration phase | 2020-07-16/2020-07-30 |
 | Live drawings | 2020-08-08 (14:00 UTC) |
-| Group Stage | 2020-08-15/2020-08-16 |
+| Group stage | 2020-08-15/2020-08-16 |
 | Round of 16 | 2020-08-22/2020-08-23 |
 | Quarterfinals | 2020-08-29/2020-08-30 |
 | Semifinals | 2020-09-05/2020-09-06 |
@@ -50,10 +50,10 @@ The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/The_Team
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1106843)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/41 "hwchr's pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Challonge bracket](https://challonge.com/MWC4K2020 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEX_lsC7Kre0jDtZgHzTvTbmCztws2lm0egFDe4oPNt4LeaJwWCLfdwAgkKpWORp4UplgtPwxxBIS/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/41) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Challonge bracket](https://challonge.com/MWC4K2020)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEX_lsC7Kre0jDtZgHzTvTbmCztws2lm0egFDe4oPNt4LeaJwWCLfdwAgkKpWORp4UplgtPwxxBIS/pubhtml)**
 
 ## Participants
 
@@ -92,7 +92,9 @@ The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/The_Team
 | ![][flag_US] | **United States** | **[\[Crz\]sel](https://osu.ppy.sh/users/9452257)**, [Gekido-](https://osu.ppy.sh/users/4693052), [Iylwrychi](https://osu.ppy.sh/users/7794488), [stupud man](https://osu.ppy.sh/users/2141612), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [Unholy](https://osu.ppy.sh/users/7672414) |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [\[pom\]](https://osu.ppy.sh/users/11789635), [-Frostleaf-](https://osu.ppy.sh/users/11863174), [Lottery61](https://osu.ppy.sh/users/13821222), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [TvS SorAKuN](https://osu.ppy.sh/users/11115041) |
 
-![MWC 7K 2020 podium](img/podium.jpg)
+## Podium
+
+![](img/podium.jpg "MWC 4K 2020 podium")
 
 ## Mappools
 
@@ -182,7 +184,7 @@ The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/The_Team
 - Tiebreaker
   - **[Camellia - farewell to today (-mint-) \[adieu\]](https://osu.ppy.sh/beatmapsets/1114788#mania/2328702)**
 
-### Group Stage
+### Group stage
 
 - FreeMod
   - [Cardboard Box - Nest (Guilhermeziat) \[Yolk 1.1\]](https://osu.ppy.sh/beatmapsets/576883#mania/2433644)
@@ -293,7 +295,7 @@ Sunday, 23 August 2020:
 | Thailand ![][flag_TH] | 2 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/65839201) |
 | **Malaysia** ![][flag_MY] | **6** | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/65841864) |
 
-### Group Stage
+### Group stage
 
 Saturday, 15 August 2020:
 

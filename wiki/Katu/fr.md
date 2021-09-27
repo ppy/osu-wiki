@@ -28,8 +28,8 @@ Katu vient du jeu Nintendo DS [Elite Beat Agents](/wiki/iNiS_games), sur lequel 
 
 ## Le gameplay dans les jeux iNiS
 
-- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs "YouTube")
-- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI "YouTube")
+- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs)
+- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI)
 
 ## Autres modes de jeu
 
@@ -55,6 +55,6 @@ Katu déclenche le deuxième niveau sur le storyboard pendant le jeu, ce qui mon
 
 L'obtention de Katu déclenche plusieurs événements :
 
-- [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers) est désactivé.
-- [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers) est activé.
+- [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers) est désactivé.
+- [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers) est activé.
 - L'événement "Passing" est déclenché, si l'état précédent était "Fail".

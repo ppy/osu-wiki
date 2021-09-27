@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2017 logo](img/logo.jpg)
 
-The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2017-02-07/2017-02-19 |
 | Live drawings | 2017-03-05 (14:00 UTC) |
-| Group Stage | 2017-03-11/2017-03-12 |
+| Group stage | 2017-03-11/2017-03-12 |
 | Round of 16 | 2017-03/19 |
 | Quarterfinals | 2017-03-25/2017-03-26 |
 | Semifinals | 2017-04-01/2017-04-02 |
@@ -37,7 +37,7 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 
 The osu!taiko World Cup 2017 was run by various community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool selector | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_FR] [Sayaka-](https://osu.ppy.sh/users/398275) |
@@ -47,8 +47,8 @@ The osu!taiko World Cup 2017 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/555072)
-- [Livestream](https://www.twitch.tv/osulive "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Yyj_Idbs685dvR0KoFmMF-JRtH7Qd30k62aIPHOmtG8/pubhtml "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Yyj_Idbs685dvR0KoFmMF-JRtH7Qd30k62aIPHOmtG8/pubhtml)**
 
 ## Participants
 
@@ -79,17 +79,19 @@ The osu!taiko World Cup 2017 was run by various community members.
 | ![][flag_US] | **United States** | **[Michiyo](https://osu.ppy.sh/users/5991961)**, [Catgirl](https://osu.ppy.sh/users/2771995), [Das](https://osu.ppy.sh/users/3165416), [JDrago14](https://osu.ppy.sh/users/7690078), [Protonori](https://osu.ppy.sh/users/6049990), [Shyguy](https://osu.ppy.sh/users/178038) |
 | ![][flag_VE] | **Venezuela** | **[JessiChan](https://osu.ppy.sh/users/1368025)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), [Satoruu](https://osu.ppy.sh/users/2243452), [Seok Hyejin](https://osu.ppy.sh/users/2114483), [Thousand](https://osu.ppy.sh/users/2852968) |
 
-![TWC 2017 podium](img/podium.jpg)
+![](img/bracket.jpg "TWC 2017 bracket")
 
-![TWC 2017 bracket](img/bracket.jpg)
+## Podium
 
-## Mappool
+![](img/podium.jpg "TWC 2017 podium")
+
+## Mappools
 
 ### Finals
 
 **This mappool was played in Finals and Grand Finals.**
 
-**[Download the mappack here! (84 MB)](https://www.mediafire.com/file/7e6788k1q63asfe/TWC_2017_Finals.rar "MediaFire")**
+**[Download the mappack here! (84 MB)](https://www.mediafire.com/file/7e6788k1q63asfe/TWC_2017_Finals.rar)**
 
 - NoMod
   - [tarolabo - eth ken (\_yu68) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/530937#taiko/1125322)
@@ -116,7 +118,7 @@ The osu!taiko World Cup 2017 was run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (83 MB)](https://www.mediafire.com/file/7ejgylr5e39zdrk/TWC_2017_Semifinals.rar "MediaFire")**
+**[Download the mappack here! (83 MB)](https://www.mediafire.com/file/7ejgylr5e39zdrk/TWC_2017_Semifinals.rar)**
 
 - NoMod
   - [MDK - Press Start (uone) \[START\]](https://osu.ppy.sh/beatmapsets/552867#taiko/1170749)
@@ -142,7 +144,7 @@ The osu!taiko World Cup 2017 was run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (84 MB)](https://www.mediafire.com/file/889n738d432n228/TWC_2017_Quarterfinals.rar "MediaFire")**
+**[Download the mappack here! (84 MB)](https://www.mediafire.com/file/889n738d432n228/TWC_2017_Quarterfinals.rar)**
 
 - NoMod
   - [Kobaryo - Pumpin' Junkies (Kobaryo's FTN-Remix) (MMzz) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/296900#taiko/666515)
@@ -169,7 +171,7 @@ The osu!taiko World Cup 2017 was run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (86 MB)](https://www.mediafire.com/file/rnzlqkyv9x8ez2v/TWC_2017_Round_of_16.rar "MediaFire")**
+**[Download the mappack here! (86 MB)](https://www.mediafire.com/file/rnzlqkyv9x8ez2v/TWC_2017_Round_of_16.rar)**
 
 - NoMod
   - [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Nishizumi) \[Kraken\]](https://osu.ppy.sh/beatmapsets/542058#taiko/1149263)
@@ -194,9 +196,9 @@ The osu!taiko World Cup 2017 was run by various community members.
 - Tiebreaker
   - **[goreshit - looming shadow of a tree long gone (grumd) \[Loctav's Oni\] (Any)](https://osu.ppy.sh/beatmapsets/90803#taiko/344834)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (81 MB)](https://www.mediafire.com/file/vvi1c5w7px99mf9/TWC_2017_Group_Stage.rar "MediaFire")**
+**[Download the mappack here! (81 MB)](https://www.mediafire.com/file/vvi1c5w7px99mf9/TWC_2017_Group_Stage.rar)**
 
 - NoMod
   - [ENNNN - Nightfall (Ryui) \[Collab\]](https://osu.ppy.sh/beatmapsets/313849#taiko/700552)
@@ -303,7 +305,7 @@ Sunday, 19 March 2017:
 | **United States** ![][flag_US] | **5** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/31889735) |
 | Chile ![][flag_CL] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/31891726) |
 
-### Group Stage
+### Group stage
 
 Saturday, 11 March 2017:
 
@@ -416,10 +418,10 @@ Sunday, 12 March 2017:
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
-   | Quarter-finals | I, J, K, L & R, S, T, U |
-   | Semi-finals | M, N & V, W, X, Y, Z, AA |
-   | Finals - Week 1 | O & AB, AC, AD, AE |
-   | Finals - Week 2 | P, Q |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z, AA |
+   | Finals week 1 | O & AB, AC, AD, AE |
+   | Finals week 2 | P, Q |
 
 7. **Winning conditions:**
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)

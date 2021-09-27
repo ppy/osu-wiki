@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
 <div class="wiki-main-page__blurb">
@@ -11,7 +13,7 @@ layout: main_page
 
 # Начало работы
 
-[Добро пожаловать](/wiki/Welcome) • [Установка](/wiki/Installation) • [Регистрация](/wiki/Registration) • [Центр помощи](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Установка](/wiki/Installation) • [Регистрация](/wiki/Registration) • [Центр помощи](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,7 +42,7 @@ layout: main_page
 
 Компоненты: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timelines](/wiki/Beatmap_Editor/Timelines)
 
-[Создание карт](/wiki/Beatmapping) • [Сложность](/wiki/Beatmap/Difficulty) • [Техники создания карт](/wiki/Mapping_Techniques) • [Создание сторибордов](/wiki/Storyboarding)
+[Создание карт](/wiki/Beatmapping) • [Сложность](/wiki/Beatmap/Difficulty) • [Техники создания карт](/wiki/Mapping_Techniques) • [Создание сторибордов](/wiki/Storyboard#storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -81,7 +83,7 @@ layout: main_page
 
 # О вики
 
-[Карта сайта](/wiki/Sitemap) • [Руководство по вкладу](/wiki/osu!_wiki_Contribution_Guide) • [Критерии оформления статей](/wiki/Article_Styling_Criteria) • [Критерии оформления новостей](/wiki/News_Styling_Criteria)
+[Карта сайта](/wiki/Sitemap) • [Руководство по вкладу](/wiki/osu!_wiki/Contribution_guide) • [Критерии оформления статей](/wiki/Article_Styling_Criteria) • [Критерии оформления новостей](/wiki/News_Styling_Criteria)
 
 </div>
 </div>

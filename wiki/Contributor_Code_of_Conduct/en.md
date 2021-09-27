@@ -36,7 +36,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior by any volunteer contributors may be reported to the osu!team via email at [abuse@ppy.sh](mailto:abuse@ppy.sh).
+Instances of abusive, harassing, or otherwise unacceptable behavior by any volunteer contributors may be reported to the anti-abuse team via email at [abuse@ppy.sh](mailto:abuse@ppy.sh).
 
 The community leaders who have access to this inbox are named as:
 

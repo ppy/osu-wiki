@@ -24,7 +24,7 @@ Pada 16 Januari 2021, perubahan dilakukan pada sistem ppv2 yang bertujuan member
 - Mengenalkan faktor pengali untuk pengurangan pp yang terpengaruhi oleh mod [No Fail](/wiki/Game_modifier/No_Fail) berdasarkan jumlah miss pada sebuah permainan
 - Mengenalkan faktor pengali untuk pengurangan pp yang terpengaruhi oleh mod [Spun Out](/wiki/Game_modifier/Spun_Out) berdasarkan jumlah spinner pada beatmap tersebut
 - Menyesuaikan nilai dari kerugian pp oleh miss untuk berdampak lebih kecil pada map lebih lama dengan kombo yang lebih tinggi
-- Mengurangi perolehan pp untuk [akurasi](/wiki/Accuracy) yang lebih rendah
+- Mengurangi perolehan pp untuk [akurasi](/wiki/Gameplay/Accuracy) yang lebih rendah
 
 ppv2 pada saat ini bersifat aktif dengan pembaruan yang dirilis di [changelognya](https://osu.ppy.sh/p/changelog?category=pp).
 
@@ -64,7 +64,7 @@ Hasilnya, mod seperti [Double Time](/wiki/Game_modifier/Double_Time) dan [Half T
 
 ### Akurasi
 
-*Lihat juga: [Akurasi](/wiki/Accuracy)*
+*Lihat juga: [Akurasi](/wiki/Gameplay/Accuracy)*
 
 *Akurasi* adalah sebuah pengukuran persen dari kemampuan pemain untuk mengenai [hit objek](/wiki/Hit_object) pada waktunya; Berhubungan dengan algoritma pp, itu juga adalah sebuah nilai inti yang digunakan untuk mengevaluasi kinerja individu pemain pada sebuah beatmap.
 

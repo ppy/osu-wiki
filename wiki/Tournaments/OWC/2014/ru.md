@@ -49,12 +49,12 @@ outdated: true
 
 ## Ссылки
 
-- [osu! World Cup 2014 на Twitch](https://www.twitch.tv/osulive "Twitch")
-- [Форма регистрации](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms")
+- [osu! World Cup 2014 на Twitch](https://www.twitch.tv/osulive)
+- [Форма регистрации](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
 - [Тема на форуме](https://osu.ppy.sh/community/forums/topics/247090)
 - [Тема на русском форуме](https://osu.ppy.sh/community/forums/topics/243139)
 - [Обсуждение маппула](https://osu.ppy.sh/community/forums/topics/255369)
-- **[Статистика групповой стадии](https://owc.nicarim.pw/results/view/3 "Nicarim")**
+- **[Статистика групповой стадии](https://owc.nicarim.pw/results/view/3)**
 
 ![OWC 2014 brackets](img/bracket.jpg)
 
@@ -120,7 +120,7 @@ outdated: true
 
 ### Финалы
 
-**[Скачайте весь список карт здесь!](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar "MediaFire")**
+**[Скачайте весь список карт здесь!](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
 - NoMod
   - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmapsets/59049#osu/214248)
@@ -150,7 +150,7 @@ outdated: true
 
 ### Полуфиналы
 
-**[Скачайте весь список карт здесь!](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar "MediaFire")**
+**[Скачайте весь список карт здесь!](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
 - NoMod
   - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
@@ -180,7 +180,7 @@ outdated: true
 
 ### Четвертьфиналы
 
-**[Скачайте весь список карт здесь!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar "MediaFire")**
+**[Скачайте весь список карт здесь!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
 - NoMod
   - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
@@ -210,7 +210,7 @@ outdated: true
 
 ### 1/8 финала
 
-**[Скачайте весь список карт здесь!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar "MediaFire")**
+**[Скачайте весь список карт здесь!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
 - NoMod
   - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
@@ -240,7 +240,7 @@ outdated: true
 
 ### Групповая стадия
 
-**[Скачайте весь список карт здесь!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar "MediaFire")**
+**[Скачайте весь список карт здесь!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
 - NoMod
   - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
@@ -432,7 +432,7 @@ outdated: true
    1. Максимальное количество игроков — восемь.
    2. В каждой команде должен быть капитан, представляющий команду.
 2. Каждая команда должна представлять какую-либо страну. Команда должна состоять из игроков одной страны, как следствие, имеющих одинаковые флаги в профилях.
-3. Для регистрации команды нужно заполнить [эту форму](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng "Google Forms"). После нужно подтвердить регистрацию посредством [сообщения пользователю Loctav](https://osu.ppy.sh/home/messages/users/71366), имеющего заголовок “OWC Registration”
+3. Для регистрации команды нужно заполнить [эту форму](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). После нужно подтвердить регистрацию посредством [сообщения пользователю Loctav](https://osu.ppy.sh/home/messages/users/71366), имеющего заголовок “OWC Registration”
    - Капитаны команд могут предварительно изменить состав с обязательным [уведомлением организаторов](https://osu.ppy.sh/home/messages/users/71366).
    - Капитан команды получит подтверждение регистрации. С этого момента заявка перейдёт в стадию рассмотрения.
 4. Каждая заявка на регистрацию и замену состава будет рассматриваться организаторами турнира.
@@ -460,7 +460,7 @@ outdated: true
 
 5. Дальнейшие этапы турнира будут проводиться по Олимпийской системе с выбыванием после двух поражений.
 
-6. Этапы турнира на основе [этой таблицы](https://puu.sh/bUq5V/f1066103b0.png "puush"):
+6. Этапы турнира на основе [этой таблицы](https://puu.sh/bUq5V/f1066103b0.png):
 
    | Этап | ID матча |
    | :-- | :-- |

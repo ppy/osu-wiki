@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 39f5e18cc72bb7a8c7778e897940b9140be813dd
+---
+
 # Acheter une tablette
 
 Si vous avez joué a osu! et parlé avec d'autres joueurs, vous avez sûrement entendu parler des "tablettes", et leur effet sur le gameplay d'osu!. La tablette fonctionne avec un stylet qui se connecte à votre ordinateur. Lorsque vous déplacez le stylet sur la tablette, le curseur de la souris bouge en même temps que le stylet, et si vous tappez avec le stylet cela fera un clic de souris. Vous pouvez penser à une tablette pour osu! de la même manière que vous pensez à un stick d'arcade pour les jeux de combat, ce n'est pas nécessaire, mais certains joueurs le préfèrent.

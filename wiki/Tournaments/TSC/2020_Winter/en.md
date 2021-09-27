@@ -8,7 +8,7 @@ tags:
 
 ![TSCW 2020 logo](img/logo.jpg)
 
-The **Taiko Suiji Cup Winter 2020** (***TSCW 2020***) was an international four-on-four double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant registered individually and was assigned to a random team. This was the third installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup Winter 2020** (***TSCW 2020***) was an international four-on-four double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant registered individually and was assigned to a random team. This was the third instalment of the Taiko Suiji Cup.
 
 ## Tournament schedule
 
@@ -40,7 +40,7 @@ The Taiko Suiji Cup Winter 2020 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Mappool selector | ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685), ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) |
 | Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438) |
 | Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442) |
 | Commentator | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
@@ -52,10 +52,10 @@ The Taiko Suiji Cup Winter 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1168559)
-- [TSC Discord server](https://discord.gg/yV3bDTC "Discord")
-- [Livestream](https://twitch.tv/osutaikolive "Twitch")
-- [Challonge bracket](https://challonge.com/TSCW2020 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1C22WC447FxO4FPeb2GnP934m_89EzNjLLKfsMPnuobE/edit?usp=sharing "Google Sheets")**
+- [TSC Discord server](https://discord.gg/yV3bDTC)
+- [Livestream](https://twitch.tv/osutaikolive)
+- [Challonge bracket](https://challonge.com/TSCW2020)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1C22WC447FxO4FPeb2GnP934m_89EzNjLLKfsMPnuobE/edit?usp=sharing)**
 
 ## Participants
 
@@ -92,7 +92,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (81 MB)](https://mega.nz/file/Zo9AlCpB#cRZ1JO_bPddG-leYYZxRUT8Nef7GBGT5jZCBtPwfSWE "MEGA")**
+**[Download the mappack here! (81 MB)](https://mega.nz/file/Zo9AlCpB#cRZ1JO_bPddG-leYYZxRUT8Nef7GBGT5jZCBtPwfSWE)**
 
 #### Mappool A
 
@@ -127,7 +127,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (102 MB)](https://mega.nz/file/l0EQGDbJ#7yxz-H7Hw_hU_Vk-bXLillPOQEpz7FkYeViBvElVhPA "MEGA")**
+**[Download the mappack here! (102 MB)](https://mega.nz/file/l0EQGDbJ#7yxz-H7Hw_hU_Vk-bXLillPOQEpz7FkYeViBvElVhPA)**
 
 #### Mappool A
 
@@ -162,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (83 MB)](https://mega.nz/file/k591xCbT#GihHcb-Pch7E81-kEz-6HKEziqfYdjYAnRwsOsIlLKc "MEGA")**
+**[Download the mappack here! (83 MB)](https://mega.nz/file/k591xCbT#GihHcb-Pch7E81-kEz-6HKEziqfYdjYAnRwsOsIlLKc)**
 
 #### Mappool A
 
@@ -197,7 +197,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (98 MB)](https://mega.nz/file/sh1TEIKD#-AE21iSd8oalHUD3o6OvnqGM60aAEhmBO-Frkw32gjY "MEGA")**
+**[Download the mappack here! (98 MB)](https://mega.nz/file/sh1TEIKD#-AE21iSd8oalHUD3o6OvnqGM60aAEhmBO-Frkw32gjY)**
 
 #### Mappool A
 
@@ -232,7 +232,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (75 MB)](https://mega.nz/file/h5dkiJLB#AjFUWhCBejETwpf7qZqCXMwA9TycAm1syVvtXX60TZQ "MEGA")**
+**[Download the mappack here! (75 MB)](https://mega.nz/file/h5dkiJLB#AjFUWhCBejETwpf7qZqCXMwA9TycAm1syVvtXX60TZQ)**
 
 #### Mappool A
 
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (26 MB)](https://mega.nz/file/c4VmyT7S#nLxmxtZlEwbxRoeHIjnfQql3n_tW-Zi3l7ECp0_A9vo "MEGA")**
+**[Download the mappack here! (26 MB)](https://mega.nz/file/c4VmyT7S#nLxmxtZlEwbxRoeHIjnfQql3n_tW-Zi3l7ECp0_A9vo)**
 
 - NoMod
   - [Hommarju - Beat Juggling Mix (Ney) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/987578#taiko/2065896)
@@ -368,7 +368,7 @@ Sunday, 29 November 2020:
 
 ### Qualifiers
 
-More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1OBetaYbVy9Friok9AaDxBW5IZgDd9pZny3D2r_OKvlM/edit#gid=2038944874 "Google Sheets")
+More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1OBetaYbVy9Friok9AaDxBW5IZgDd9pZny3D2r_OKvlM/edit#gid=2038944874)
 
 | Seed | Team | Average |
 | --: | :-- | --: |

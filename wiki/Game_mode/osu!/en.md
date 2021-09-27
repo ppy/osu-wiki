@@ -10,7 +10,7 @@ The first game mode and namesake which was based from the ouendan series.
 
 ## What is "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
 
 ![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
 
@@ -271,15 +271,12 @@ The system used to calculate health drain and health gain is complicated so it w
 
 ### History
 
-![Combo Fire](/wiki/shared/combo-fire.jpg "Combo Fire")
-
-- Older version of osu! used to emulate some of the elements from the *ouendan* series before being removed or replaced.
-  - Combo fire when hitting new combo milestones.
-    - Removed on 05 March 2013 (2013-03-05), due to performance issues.
-  - The first version of default skin using v1 skin behaviour, which was *osu!default by peppy* skin, provides an almost identical copy of the *ouendan* interface.
+- Older version of osu! used to emulate some of the elements from the *Ouendan* series before being removed or replaced:
+  - [Combo fire](/wiki/Glossary/Combo_fire) when hitting new combo milestones.
+  - The first version of default skin using v1 skin behaviour, which was *osu!default by peppy* skin, provides an almost identical copy of the *Ouendan* interface.
     - It was replaced by nicer current default skin using v2 skin behaviour.
   - The most notable feature difference between v1 and v2 skin behaviour is the spinner.
-    - The v1 skin behaviour for a spinner would increment the spinner meter from bottom to top in levels until it is full as per *ouendan* series.
+    - The v1 skin behaviour for a spinner would increment the spinner meter from bottom to top in levels until it is full as per *Ouendan* series.
       - The timer is a circle inside the spinner which will converge to the centre core of the spinner. The spinner ends when the timer circle reached the centre core of the spinner.
     - The v2 skin behaviour for a spinner would slowly expand the spinner circle to full size and glows when it is completed.
       - The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.

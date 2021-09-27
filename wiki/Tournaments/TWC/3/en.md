@@ -10,7 +10,7 @@ tags:
 
 ![TWC #3 logo](img/logo.png)
 
-The **Taiko World Cup #3** (***TWC #3***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third installment of the osu!taiko World Cup.
+The **Taiko World Cup #3** (***TWC #3***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -18,7 +18,7 @@ The **Taiko World Cup #3** (***TWC #3***) was a country-based osu!taiko tourname
 | --: | :-- |
 | Registration phase | 2012-09-22/2013-01-01 |
 | Live drawings | 2013-01-20 |
-| Group Stage | 2013-02-02/2013-02-17 |
+| Group stage | 2013-02-02/2013-02-17 |
 | Qualifiers | 2013-02-23/2013-02-24 |
 | Round of 16 | 2013-03-02/2013-03-03 |
 | Quarterfinals | 2013-03-09/2013-03-10 |
@@ -29,10 +29,10 @@ The **Taiko World Cup #3** (***TWC #3***) was a country-based osu!taiko tourname
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, osu! merchandise |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
-| *Special* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge, osu! merchandise |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
+| *Special* | 1 month of osu!supporter |
 
 ![](img/badge.jpg "TWC #3 winner badge")
 
@@ -52,7 +52,7 @@ The Taiko World Cup #3 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/99029)
-- [Livestream](https://www.twitch.tv/taikoworldcup "Twitch")
+- [Livestream](https://www.twitch.tv/taikoworldcup)
 
 ## Participants
 
@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (106 MB)](http://www.mediafire.com/file/55u3kl139pr04i8/TWC+-+Final+Mappool+pack.zip "MediaFire")**
+**[Download the mappack here! (106 MB)](http://www.mediafire.com/file/55u3kl139pr04i8/TWC+-+Final+Mappool+pack.zip)**
 
 - NoMod
   - Cres - End Time (choco00) \[Nyan's Taiko (TWC Ver.)\]
@@ -192,11 +192,11 @@ This competition has come to an end and resulted in the following podium:
   - [IOSYS - Kanbu de Tomatte Sugu Tokeru \~ Kyouki no Udongein (ouranhshc) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/12292#taiko/61369)
   - [Xelia - Illumiscape (Kanna) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/43960#taiko/160239)
 - Hidden
-  - [IOSYS - Tapuu Tears You Base (danny19940914) \[danny's taiko\]](https://puu.sh/28gKz "puush")
+  - [IOSYS - Tapuu Tears You Base (danny19940914) \[danny's taiko\]](https://puu.sh/28gKz)
   - kors k as teranoid - Bad Maniacs (La Cataline) \[lepidon! - Taiko Oni\]
 - HardRock
   - [Croove & Paul Bazooka - Enemy Storm (Dark Jungle Mix) (Reiji-RJ) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30229#taiko/124413)
-  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (Mr Color) \[Taikolor\]](https://puu.sh/28h1RZ "puush")
+  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (Mr Color) \[Taikolor\]](https://puu.sh/28h1RZ)
 - DoubleTime
   - [Basic Element - Touch You Right Now (Kiiwa) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/32369#taiko/139607)
   - [ClariS - Neo Moon (goodbye) \[Alace's Taiko\]](https://osu.ppy.sh/beatmapsets/29693#taiko/100104)
@@ -226,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Ayane - Endless Tears...(lkp) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/24960#taiko/101301)**
 
-### Group Stage week 3
+### Group stage week 3
 
 - NoMod
   - [Saiya - Remote Control (Garven) \[inaba's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/53857#taiko/173361)
@@ -249,7 +249,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[toku feat. Pagoda - Boku no Sainou -dub mix- (Garven) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/33914#taiko/115063)**
 
-### Group Stage week 2
+### Group stage week 2
 
 - NoMod
   - [Silver Forest - Prayer (Elly-chan) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/32214#taiko/188456)
@@ -272,7 +272,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[DystopiaGround - AugoEidEs (happy30) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/24611#taiko/97949)**
 
-### Group Stage week 1
+### Group stage week 1
 
 - NoMod
   - [Comp - Kyoai (karenying) \[Kana's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/28609#taiko/114207)

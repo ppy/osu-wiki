@@ -1126,7 +1126,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![Yes][true] | ![Yes][true] | (Varies) | Top Left | - |
+| All | ![Yes][true] | ![Yes][true] | (Varies) | Top Left | max height: 120px |
 
 Notes:
 

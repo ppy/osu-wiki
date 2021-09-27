@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2020 logo](img/logo.jpg)
 
-The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international four-on-four double-elimination osu! tournament hosted by ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. This was the fourth installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international four-on-four double-elimination osu! tournament hosted by ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. This was the fourth instalment of the osu! TV Size Tournament.
 
 ## Tournament schedule
 
@@ -29,7 +29,7 @@ The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international fou
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter for each team member |
 
 ![](img/badge.png "otst! 2020 winner badge")
 
@@ -40,7 +40,7 @@ The osu! TV Size Tournament 2020 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
-| Map selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_AU] [Kazuma](https://osu.ppy.sh/users/10642837), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
+| Mappool selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_AU] [Kazuma](https://osu.ppy.sh/users/10642837), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
 | Referee | ![][flag_DE] [ChaotiX](https://osu.ppy.sh/users/4236576), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_BG] [Geromu Keretem](https://osu.ppy.sh/users/9404532), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DE] [real cute](https://osu.ppy.sh/users/9172811), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255) |
 | Commentator | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
 | Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
@@ -51,10 +51,10 @@ The osu! TV Size Tournament 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1019183)
-- [otst! Discord server](https://discord.gg/5URXJxU "Discord")
-- [Livestream](https://twitch.tv/osu_otst "Twitch")
-- [Challonge brackets](https://challonge.com/otst2020 "Challonge")
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit?usp=sharing "Google Sheets")**
+- [otst! Discord server](https://discord.gg/5URXJxU)
+- [Livestream](https://twitch.tv/osu_otst)
+- [Challonge brackets](https://challonge.com/otst2020)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit?usp=sharing)**
 
 ## Participants
 
@@ -112,15 +112,15 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | seusbruk |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Rubber Conquest** (![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Floating up** (![][flag_KR] **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078), ![][flag_KR] [Aristia](https://osu.ppy.sh/users/3478883), ![][flag_KR] [Mya2](https://osu.ppy.sh/users/7302146), ![][flag_IT] [Koba](https://osu.ppy.sh/users/4448118), ![][flag_KR] [Karuna](https://osu.ppy.sh/users/8775024), ![][flag_KR] [Zeisen-](https://osu.ppy.sh/users/7892320), ![][flag_KR] [Ponytail](https://osu.ppy.sh/users/1516650)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **seusbruk** (![][flag_US] **[Conyoh](https://osu.ppy.sh/users/4844496)**, ![][flag_SE] [\[ Blue \]](https://osu.ppy.sh/users/4859699), ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950), ![][flag_US] [Exarch](https://osu.ppy.sh/users/5370153), ![][flag_US] [thaibuy](https://osu.ppy.sh/users/4250296), ![][flag_BR] [Mistya](https://osu.ppy.sh/users/5403374), ![][flag_BR] [Mystia](https://osu.ppy.sh/users/4277702), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178)) |
 
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1FRGj76LSac4v5hgAS6mW7cTpNTLJR0BH/view "Google Drive")**
+**[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1FRGj76LSac4v5hgAS6mW7cTpNTLJR0BH/view)**
 
 - NoMod
   - [DJ TOTTO - Shoujo alice to hakoniwa gensou concerto (lahphnya) \[Ar9.5\]](https://osu.ppy.sh/beatmapsets/568321#osu/1204535)
@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (86 MB)](https://drive.google.com/file/d/1gWsKDGdbG8oW7cusmnvdngBiLa4pgkSh/view "Google Drive")**
+**[Download the mappack here! (86 MB)](https://drive.google.com/file/d/1gWsKDGdbG8oW7cusmnvdngBiLa4pgkSh/view)**
 
 - NoMod
   - [toby fox - Spider Dance (Fatfan Kolek) \[Kyshiro's Genocide\]](https://osu.ppy.sh/beatmapsets/750458#osu/1587275)
@@ -181,7 +181,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bxHpQLc6RKX1TP7XAgW9J08LDBzjAg1g/view "Google Drive")**
+**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bxHpQLc6RKX1TP7XAgW9J08LDBzjAg1g/view)**
 
 - NoMod
   - [Shiggy Jr. - oyasumi (Jval93700) \[-Hwangbo's Kimochi\]](https://osu.ppy.sh/beatmapsets/832247#osu/1761351)
@@ -211,7 +211,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/13ZPRDcUtZX-ePwOIFQ8aqB9G2nxK_Usw/view "Google Drive")**
+**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/13ZPRDcUtZX-ePwOIFQ8aqB9G2nxK_Usw/view)**
 
 - NoMod
   - [BUTA-OTOME - Heisei Kaisei Dottenshan (BarkingMadDog) \[SHOOTING STAR\]](https://osu.ppy.sh/beatmapsets/724942#osu/1530772)
@@ -241,7 +241,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (96 MB)](https://drive.google.com/file/d/16zDfpKcdpQYaBQonxeQOpfWB_Ih3ck1d/view "Google Drive")**
+**[Download the mappack here! (96 MB)](https://drive.google.com/file/d/16zDfpKcdpQYaBQonxeQOpfWB_Ih3ck1d/view)**
 
 - NoMod
   - [BUTAOTOME - Gensou no Satellite (Ascendance) \[Extra\]](https://osu.ppy.sh/beatmapsets/982405#osu/2056031)
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (62 MB)](https://drive.google.com/file/d/1Qkccr-FZRjsEdh8S_4-0-TODlbtjWZrW/view "Google Drive")**
+**[Download the mappack here! (62 MB)](https://drive.google.com/file/d/1Qkccr-FZRjsEdh8S_4-0-TODlbtjWZrW/view)**
 
 - NoMod
   - [Coda - Fighting Gold (TV Size) (hypercyte) \[Gold Experience\]](https://osu.ppy.sh/beatmapsets/862547#osu/1804239)
@@ -293,7 +293,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (36 MB)](https://drive.google.com/file/d/1YdFY-9jP9Iqntoim1sMKSr9j-ejpmFIb/view "Google Drive")**
+**[Download the mappack here! (36 MB)](https://drive.google.com/file/d/1YdFY-9jP9Iqntoim1sMKSr9j-ejpmFIb/view)**
 
 - NoMod
   - [Sound Souler - Aqua Stars (Azzedd) \[Extra\]](https://osu.ppy.sh/beatmapsets/942425#osu/1967947)
@@ -495,7 +495,7 @@ Sunday, 8 March 2020:
 | #44 | Wuhan | 20.76% |
 | #45 | Kirby's | 15.99% |
 
-- More detailed qualifiers results can be accessed via the [statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit#gid=1899100973 "Google Sheets")
+- More detailed qualifiers results can be accessed via the [statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit#gid=1899100973)
 - Rate is determined by `1 - (max avg. score - team avg. score) / (99.5th percentile of all scores) ^ 1.3`
 - Only the top 32 teams can proceed to the knockout stage
 

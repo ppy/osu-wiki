@@ -24,7 +24,7 @@ Test questions are pulled from a large pool of questions sorted by category. The
 
 There is no threshold for passing or failing the BN test, however it's generally accepted that a score above 15 is good, a score between 12.5 and 15 is mediocre, and any scores lower are concerning.
 
-The test has no time limit and it's expected that test takers read relevant wiki pages while taking the test. (It's not cheating!)
+The test has no time limit and it's expected that applicants read relevant wiki pages while taking the test. (It's not cheating!)
 
 ## History
 

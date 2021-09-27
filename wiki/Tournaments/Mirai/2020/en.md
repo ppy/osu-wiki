@@ -8,7 +8,7 @@ tags:
 
 ![Mirai2020 logo](img/logo.png)
 
-The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminination 2v2 osu! tournament hosted by ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709). It is the fourth installment of the Mirai. Tournament.
+The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminination 2v2 osu! tournament hosted by ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709). It is the fourth instalment of the Mirai. Tournament.
 
 ## Tournament schedule
 
@@ -20,15 +20,15 @@ The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminina
 | Round of 16/Losers Round 1 & 2 | 2020-05-16 |
 | Quarterfinals/Losers Round 2 & 3 | 2020-05-22 |
 | Semifinals | 2020-05-30 |
-| Finals - Week 1 | 2020-06-06 |
-| Finals - Week 2 | 2020-06-23 |
+| Finals week 1 | 2020-06-06 |
+| Finals week 2 | 2020-06-23 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag per team member, unique profile badge (pending) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag per team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter per team member, unique profile badge (pending) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter per team member |
 
 ## Organisation
 
@@ -37,7 +37,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344) |
-| Map selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_GB] [NoSpace](https://osu.ppy.sh/users/10585285), ![][flag_GB] [SacretSword](https://osu.ppy.sh/users/9821402), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592), ![][flag_SG] [Zephyrlox](https://osu.ppy.sh/users/6436945) |
+| Mappool selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_GB] [NoSpace](https://osu.ppy.sh/users/10585285), ![][flag_GB] [SacretSword](https://osu.ppy.sh/users/9821402), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592), ![][flag_SG] [Zephyrlox](https://osu.ppy.sh/users/6436945) |
 | Streamer | ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) |
 | Commentator | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592) |
 | Designer | ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) |
@@ -47,9 +47,9 @@ The Mirai. Tournament 2020 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1047235)
-- [Challonge brackets](https://challonge.com/Mirai2020 "Challonge")
-- [Mirai. Community Discord server](https://discord.gg/cSfhfm2 "Discord")
-- [Livestream](https://www.twitch.tv/MiraiSubject "Twitch")
+- [Challonge brackets](https://challonge.com/Mirai2020)
+- [Mirai. Community Discord server](https://discord.gg/cSfhfm2)
+- [Livestream](https://www.twitch.tv/MiraiSubject)
 
 ## Participants
 
@@ -88,13 +88,13 @@ The Mirai. Tournament 2020 is run by various community members.
 | **shaky hand** | [Fallen\_HK](https://osu.ppy.sh/users/13981456), [Himman](https://osu.ppy.sh/users/12665894), [McFuddyDuddy](https://osu.ppy.sh/users/8825522), [Player01](https://osu.ppy.sh/users/10194478) |
 | **surprised\_pikachu** | [-Secured-](https://osu.ppy.sh/users/14648196), [Pokeinfernape](https://osu.ppy.sh/users/11412507), [7heGh0st](https://osu.ppy.sh/users/14256252), [Emfyr](https://osu.ppy.sh/users/13445383) |
 
-![Mirai2020 bracket](img/bracket.png)
+![](img/bracket.png "Mirai2020 bracket")
 
 ## Mappools
 
 ### Grand Finals
 
-**[Download the mappack here! (151 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-grand-finals-0E57AA07.zip "Mirai")**
+**[Download the mappack here! (151 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-grand-finals-0E57AA07.zip)**
 
 - NoMod
   - [AKINO from bless4 - MIIRO \[Miiro\]](https://osu.ppy.sh/beatmapsets/259127#osu/592367)
@@ -125,7 +125,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Finals
 
-**[Download the mappack here! (124 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-finals-F16F65C5.zip "Mirai")**
+**[Download the mappack here! (124 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-finals-F16F65C5.zip)**
 
 - NoMod
   - [BABYMETAL - YAVA! \[Extra\]](https://osu.ppy.sh/beatmapsets/476612#osu/1069950)
@@ -156,7 +156,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Semifinals
 
-**[Download the mappack here! (144 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-sf-E5CF9341.zip "Mirai")**
+**[Download the mappack here! (144 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-sf-E5CF9341.zip)**
 
 - NoMod
   - [Roselia - -HEROIC ADVENT- \[-SHIZUKU'S EXPERT-\]](https://osu.ppy.sh/beatmapsets/826596#osu/1759615)
@@ -187,7 +187,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! (136 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-qf-1447801C.zip "Mirai")**
+**[Download the mappack here! (136 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-qf-1447801C.zip)**
 
 - NoMod
   - [Reol - Logic Agent \[Lost\]](https://osu.ppy.sh/beatmapsets/578814#osu/1283956)
@@ -218,7 +218,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Round of 16
 
-**[Download the mappack here! (108 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt2020-ro16-3E923BFA.zip "Mirai")**
+**[Download the mappack here! (108 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt2020-ro16-3E923BFA.zip)**
 
 - NoMod
   - [Amaranthe - Hunger \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/1028446#osu/2206921)
@@ -244,7 +244,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Round of 32
 
-**[Download the mappack here! (101 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-ro32-C86401FF.zip "Mirai")**
+**[Download the mappack here! (101 MB)](https://cdn.mirai.gg/mirai-2020/pool/mt-2020-ro32-C86401FF.zip)**
 
 - NoMod
   - [sakuzyo feat. Hatsune Miku - ChaiN De/structioN \[Loneliness\]](https://osu.ppy.sh/beatmapsets/49071#osu/154165)
@@ -482,7 +482,7 @@ The ruleset for this tournament is: Scorev2, Team VS in osu! standard.
 
 ### Tournament registration
 
-All the players are required to register on [mirai.gg](https://mirai.gg/ "Mirai"). On the website, players login using their osu! account and connect it to their discord account. Once all the players of a team have joined the team captain can create the team on the website. The BWS rank verification of all the players takes place once the captain has finalized the team.
+All the players are required to register on [mirai.gg](https://mirai.gg/). On the website, players login using their osu! account and connect it to their discord account. Once all the players of a team have joined the team captain can create the team on the website. The BWS rank verification of all the players takes place once the captain has finalized the team.
 
 Another BWS rank verification takes place on the day of the sign up deadline to ensure all the players are within rank range.
 

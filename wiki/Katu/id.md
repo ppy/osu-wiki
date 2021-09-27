@@ -29,8 +29,8 @@ Terminologi Katu sendiri berasal dari permainan [Elite Beat Agents](/wiki/iNiS_g
 
 ## Katu dalam permainan-permainan iNiS
 
-- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs "YouTube")
-- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI "YouTube")
+- [Elite Beat Agents: Without a Fight/Jumpin' Jack Flash - YouTube](https://www.youtube.com/watch?v=wPOCmzY_fqs)
+- [Osu! Tatakae! Ouendan 2: Countdown - YouTube](https://www.youtube.com/watch?v=6us1tY8jOSI)
 
 ## Katu dalam mode-mode permainan lainnya
 
@@ -56,6 +56,6 @@ Kemunculan Geki akan memicu respon storyboard kedua terbaik (*second-tier storyb
 
 Kemunculan Katu dapat memicu hal-hal berikut:
 
-- Penonaktifan [Fail Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
-- Aktivasi [Pass Layer](/wiki/Storyboard_Scripting/General_Rules#layers).
+- Penonaktifan [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers).
+- Aktivasi [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers).
 - Terjadinya suatu *event* yang dikategorikan dalam kelompok "Passing" walaupun pemain yang bersangkutan sebelumnya berada dalam keadaan "Fail".

@@ -3,6 +3,8 @@ tags:
   - Mapper's Guild
   - MG
   - 谱师工会
+outdated: true
+outdated_since: 1e0790f39673fbd138af78b285f3f06a3e9e7ca0
 ---
 
 # 谱师工会（Mappers' Guild）
@@ -17,7 +19,7 @@ tags:
 
 无论何时，拥有三个或更多 rank 评级谱面的谱师均可以通过在[谱师工会网站](https://mappersguild.com/)认证自己的 osu! 帐号以加入工会。所有人均可浏览该网站上的任务与制谱活动。
 
-谱师可以通过通过参与与谱师工会相关的精选艺术家作品的谱面的 ranking 流程以获取报酬。参与该流程的主要方式是创作谱面，但是对[修图](/wiki/Modding)、创作[故事板](/wiki/Storyboards)和在工会内完成相关任务方面作出贡献者亦可获得报酬。
+谱师可以通过通过参与与谱师工会相关的精选艺术家作品的谱面的 ranking 流程以获取报酬。参与该流程的主要方式是创作谱面，但是对[修图](/wiki/Modding)、创作[故事板](/wiki/Storyboard)和在工会内完成相关任务方面作出贡献者亦可获得报酬。
 
 ### 小组（party）
 

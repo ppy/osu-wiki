@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 92d9c98fac5191ce3931d830ca40dbaa3e3a0094
+---
+
 # Modes de jeu
 
 osu! possède quatre **modes de jeu** : [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch) et [osu!mania](#-osu!mania). Chacun d'entre eux possède des mécanismes de jeu uniques et a été initialement inspiré par d'autres jeux de rythme.
@@ -12,7 +17,7 @@ Le mode de jeu par défaut est osu!. Cependant, au démarrage, osu! s'ouvrira av
 
 *Page principale : [osu!](osu!)*
 
-*osu!* est le mode de jeu par défaut du client d'osu! et est basé sur le jeu de rythme original *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipédia")* par [iNiS](https://fr.wikipedia.org/wiki/INiS "Wikipédia"). Sur osu!, le joueur doit cliquer sur des cercles, tenir des sliders et faire tourner des spinners au rythme des chansons.
+*osu!* est le mode de jeu par défaut du client d'osu! et est basé sur le jeu de rythme original *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* par [iNiS](https://fr.wikipedia.org/wiki/INiS). Sur osu!, le joueur doit cliquer sur des cercles, tenir des sliders et faire tourner des spinners au rythme des chansons.
 
 ![Gameplay d'osu!](/wiki/shared/osu-gameplay.jpg "Gameplay d'osu!")
 
@@ -20,7 +25,7 @@ Le mode de jeu par défaut est osu!. Cependant, au démarrage, osu! s'ouvrira av
 
 *Page principale : [osu!taiko](osu!taiko)*
 
-*osu!taiko* est basé sur la série de jeux *[Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipédia")* produite par [Bandai Namco Entertainment](https://fr.wikipedia.org/wiki/Bandai_Namco_Entertainment "Wikipédia"). Conçu pour imiter la sensation de jouer d'un vrai tambour, le joueur utilise un clavier ou une batterie pour frapper des cercles de différentes couleurs sur un seul convoyeur.
+*osu!taiko* est basé sur la série de jeux *[Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin)* produite par [Bandai Namco Entertainment](https://fr.wikipedia.org/wiki/Bandai_Namco_Entertainment). Conçu pour imiter la sensation de jouer d'un vrai tambour, le joueur utilise un clavier ou une batterie pour frapper des cercles de différentes couleurs sur un seul convoyeur.
 
 ![Gameplay d'osu!taiko](/wiki/shared/taiko-gameplay.jpg "Gameplay d'osu!taiko")
 
@@ -28,7 +33,7 @@ Le mode de jeu par défaut est osu!. Cependant, au démarrage, osu! s'ouvrira av
 
 *Page principale : [osu!catch](osu!catch)*
 
-*osu!catch* est vaguement basé sur un mini-jeu à l'intérieur d'un simulateur [Beatmania](https://fr.wikipedia.org/wiki/Beatmania "Wikipédia"), qui lui-même est censé être basé sur le mode *EZ2CATCH* de la série [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ "Wikipédia (en anglais)"). Le mode de jeu consiste en des fruits de différentes variétés tombant du haut de l'écran et un "attrapeur" tenant une assiette pour attraper les fruits.
+*osu!catch* est vaguement basé sur un mini-jeu à l'intérieur d'un simulateur [Beatmania](https://fr.wikipedia.org/wiki/Beatmania), qui lui-même est censé être basé sur le mode *EZ2CATCH* de la série [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Le mode de jeu consiste en des fruits de différentes variétés tombant du haut de l'écran et un "attrapeur" tenant une assiette pour attraper les fruits.
 
 ![Gameplay d'osu!catch](/wiki/shared/catch-gameplay.jpg "Gameplay d'osu!catch")
 
@@ -36,7 +41,7 @@ Le mode de jeu par défaut est osu!. Cependant, au démarrage, osu! s'ouvrira av
 
 *Page principale : [osu!mania](osu!mania)*
 
-*osu!mania* est basé sur une variété de jeux de rythme à base de notes défilant sur l'écran (notamment [Dance Dance Revolution](https://fr.wikipedia.org/wiki/Dance_Dance_Revolution "Wikipédia") et Beatmania). Le mode de jeu a été principalement introduit et mis en œuvre par [woc2006](https://osu.ppy.sh/users/1105845), et est conçu pour imiter la sensation d'un vrai piano grâce à l'utilisation des touches du clavier.
+*osu!mania* est basé sur une variété de jeux de rythme à base de notes défilant sur l'écran (notamment [Dance Dance Revolution](https://fr.wikipedia.org/wiki/Dance_Dance_Revolution) et Beatmania). Le mode de jeu a été principalement introduit et mis en œuvre par [woc2006](https://osu.ppy.sh/users/1105845), et est conçu pour imiter la sensation d'un vrai piano grâce à l'utilisation des touches du clavier.
 
 ![Gameplay d'osu!mania](/wiki/shared/mania-gameplay.jpg "Gameplay d'osu!mania")
 

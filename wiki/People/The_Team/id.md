@@ -11,7 +11,7 @@ tags:
 
 *Untuk rekam jejak anggota yang dipromosikan ke dan dipensiunkan dari jajaran staf osu! seiring waktu, harap lihat: [Staff Log](/wiki/Staff_Log)*
 
-Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!team) yang memiliki tanggung jawab utama untuk menjadikan osu! istimewa bagi semua.
+Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** yang memiliki tanggung jawab utama untuk menjadikan osu! istimewa bagi semua.
 
 | Nama | Peran <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
 | :-- | :-- |

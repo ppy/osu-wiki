@@ -5,18 +5,18 @@ tags:
 
 # Catch the Beat World Cup
 
-The **Catch the Beat World Cup** (***CWC***) was a single elimination team-based osu!catch tournament organized by various osu! community members. Despite not being hosted by (or being run under the direct provision of) the [osu!team](/wiki/People/The_Team), it was formally considered as the first installment of the osu!catch World Cup tournament series.
+The **Catch the Beat World Cup** (***CWC***) was a single elimination team-based osu!catch tournament organized by various osu! community members. Despite not being hosted by (or being run under the direct provision of) the [osu! team](/wiki/People/The_Team), it was formally considered as the first instalment of the osu!catch World Cup tournament series.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2011-09-30/2011-11-01 |
-| Group Stage week 1 | 2011-11-02/2011-11-06 |
-| Group Stage week 2 | 2011-11-07/2011-11-13 |
-| Group Stage week 3 | 2011-11-14/2011-11-20 |
-| Group Stage week 4 | 2011-11-21/2011-11-27 |
-| Group Stage week 5 | 2011-11-28/2011-12-04 |
+| Group stage week 1 | 2011-11-02/2011-11-06 |
+| Group stage week 2 | 2011-11-07/2011-11-13 |
+| Group stage week 3 | 2011-11-14/2011-11-20 |
+| Group stage week 4 | 2011-11-21/2011-11-27 |
+| Group stage week 5 | 2011-11-28/2011-12-04 |
 | *Winter break* | 2011-12-05/2011-12-31 |
 | Quarterfinals | 2012-01-01/2011-01-08 |
 | Semifinals | 2012-01-09/2011-01-15 |
@@ -26,11 +26,11 @@ The **Catch the Beat World Cup** (***CWC***) was a single elimination team-based
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
 
-## Organization
+## Organisation
 
 The Catch the Beat World Cup was run by various osu!catch community members.
 
@@ -43,17 +43,7 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/63296)
-- [Livestream link](https://de.justin.tv/inoodle "Justin.tv")
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **China** (![][flag_CN] **[hy1hy1hy](https://osu.ppy.sh/users/243877)**, ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210), ![][flag_HK] [HineX](https://osu.ppy.sh/users/13854), ![][flag_CN] [joynama](https://osu.ppy.sh/users/169128)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **half manual player team** (![][flag_TW] **[madaoB](https://osu.ppy.sh/users/8174275)**, ![][flag_TW] [allen22604358](https://osu.ppy.sh/users/84921), ![][flag_TW] [Flanet](https://osu.ppy.sh/users/891388), ![][flag_TW] [H i M e J i](https://osu.ppy.sh/users/732285)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Chile** (![][flag_CL] **[eldnl](https://osu.ppy.sh/users/285756)**, ![][flag_CL] [Dark\_Diego](https://osu.ppy.sh/users/723787), ![][flag_ES] [Daxmaster](https://osu.ppy.sh/users/264914), ![][flag_CL] [MoodyRPG](https://osu.ppy.sh/users/464889)) |
+- [Livestream link](https://de.justin.tv/inoodle)
 
 ## Participants
 
@@ -89,6 +79,16 @@ This competition has come to an end and resulted in the following podium:
 | C | Team Nub | half manual player team | Red Fury | German Hentai's | Indonesia II |
 | D | Chile | China | French fruit overdose club | CatchTheHungarians | Korea |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **China** (![][flag_CN] **[hy1hy1hy](https://osu.ppy.sh/users/243877)**, ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210), ![][flag_HK] [HineX](https://osu.ppy.sh/users/13854), ![][flag_CN] [joynama](https://osu.ppy.sh/users/169128)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **half manual player team** (![][flag_TW] **[madaoB](https://osu.ppy.sh/users/8174275)**, ![][flag_TW] [allen22604358](https://osu.ppy.sh/users/84921), ![][flag_TW] [Flanet](https://osu.ppy.sh/users/891388), ![][flag_TW] [H i M e J i](https://osu.ppy.sh/users/732285)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Chile** (![][flag_CL] **[eldnl](https://osu.ppy.sh/users/285756)**, ![][flag_CL] [Dark\_Diego](https://osu.ppy.sh/users/723787), ![][flag_ES] [Daxmaster](https://osu.ppy.sh/users/264914), ![][flag_CL] [MoodyRPG](https://osu.ppy.sh/users/464889)) |
+
 ## Mappools
 
 ### Finals
@@ -96,12 +96,12 @@ This competition has come to an end and resulted in the following podium:
 - NoMod (*to be played in order*)
   - [SUPER STAR -MITSURU- - THANK YOU FOR PLAYING (ZHSteven) \[CWC competition\]](https://osu.ppy.sh/beatmapsets/42694#fruits/275691)
   - [S.S.H. - Intersect Thunderbolt (Deif) \[Thunderbolt\]](https://osu.ppy.sh/beatmapsets/43027#fruits/135142)
-  - [PRASTIK DANCEFLOOR - Session 9 -Chronicles- (Kuzino) \[2Q\]](https://puu.sh/ccsl "puush")
+  - [PRASTIK DANCEFLOOR - Session 9 -Chronicles- (Kuzino) \[2Q\]](https://puu.sh/ccsl)
   - [KAZE.o2SE - Earth Quake (ZHSteven) \[CTB pro competition\]](https://osu.ppy.sh/beatmapsets/31297#fruits/102923)
-  - [NicoNico Chorus - World's End Dancehall (CLSW) \[CLSPEC Adieu Special\]](https://puu.sh/eykZ "puush")
-  - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](https://puu.sh/1g0e "puush")
-  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Extra CtB Stage\]](https://puu.sh/HiC "puush")
-  - [Yousei Teikoku - Kokou no Sousei (Verdisphaena) \[Verdi's TAG2\]](https://puu.sh/f6oX "puush")
+  - [NicoNico Chorus - World's End Dancehall (CLSW) \[CLSPEC Adieu Special\]](https://puu.sh/eykZ)
+  - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](https://puu.sh/1g0e)
+  - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Extra CtB Stage\]](https://puu.sh/HiC)
+  - [Yousei Teikoku - Kokou no Sousei (Verdisphaena) \[Verdi's TAG2\]](https://puu.sh/f6oX)
 - Tiebreaker  
   - **[Ryu\* - I'm so Happy (\[JPSNS\]Shana) \[Shana's Madness CTB\]](https://osu.ppy.sh/beatmapsets/30006#fruits/99319)**
 
@@ -127,7 +127,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker  
   - **[Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlock) \[Northrend\]](https://osu.ppy.sh/beatmapsets/12030#fruits/45433)**
 
-### Group Stage week 5
+### Group stage week 5
 
 - NoMod
   - [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/22773#fruits/78913)
@@ -142,7 +142,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin) \[Uran's CTB\]](https://osu.ppy.sh/beatmapsets/13676#fruits/51945)**
 
-### Group Stage week 4
+### Group stage week 4
 
 - NoMod
   - [sasakure.UK - Jack-the-Ripper (rustbell) \[JackHasCome!\]](https://osu.ppy.sh/beatmapsets/23907#fruits/81560)
@@ -157,7 +157,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[07th Expansion - Final Answer (Shiirn) \[Question\]](https://osu.ppy.sh/beatmapsets/36272#fruits/117232)**
 
-### Group Stage week 3
+### Group stage week 3
 
 - NoMod
   - [IOSYS - Taihen na Mono no Shoushitsu (DJPop) \[Kana's CTB\]](https://osu.ppy.sh/beatmapsets/17819#fruits/67504)
@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Eoin O' Broin - Deep Space (galvenize) \[Another\]](https://osu.ppy.sh/beatmapsets/25098#fruits/85550)**
 
-### Group Stage week 2
+### Group stage week 2
 
 - NoMod
   - [Sakakibara Yui - Koi no Honoo (quintitem) \[ignore's Slider Madness\]](https://osu.ppy.sh/beatmapsets/8511#fruits/35010)
@@ -187,7 +187,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/28984#fruits/96358)**
 
-### Group Stage week 1
+### Group stage week 1
 
 - NoMod
   - [DJ YOSHITAKA - FLOWER (TKiller) \[Intense\]](https://osu.ppy.sh/beatmapsets/29996#fruits/104635)
@@ -202,7 +202,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[chum - Genesis of Aquarion (Lena) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/16782#fruits/60858)**
 
-## Match Results
+## Match results
 
 ## Finals
 
@@ -243,7 +243,7 @@ Sunday, 8 January 2012:
 | CFC | 1 | **3** | **China** | [#1](https://osu.ppy.sh/community/matches/2354049) |
 | **Chile** | **3** | 0 | State(s) of the Art | *win by default* |
 
-### Group Stage week 5
+### Group stage week 5
 
 Saturday, 3 December 2011:
 
@@ -272,7 +272,7 @@ Monday, 5 December 2011:
 
 ¹ *As per the Tournament Management's decision ([\[1\]](https://osu.ppy.sh/community/forums/posts/1184327) [\[2\]](https://osu.ppy.sh/community/forums/posts/1206142) [\[3\]](https://osu.ppy.sh/community/forums/posts/1187916)), the Chile vs. China match was not played.*
 
-### Group Stage week 4
+### Group stage week 4
 
 Saturday, 26 November 2011:
 
@@ -296,7 +296,7 @@ Monday, 28 November 2011:
 | --: | --: | :-: | :-: | :-- | :-- |
 | D | **Chile** | **2** | 0 | French fruit overdose club | [#1](https://osu.ppy.sh/community/matches/2078343) |
 
-### Group Stage week 3
+### Group stage week 3
 
 Saturday, 19 November 2011:
 
@@ -322,7 +322,7 @@ Monday, 21 November 2011:
 | C | **Team Nub** | **2** | 0 | German Hentai's | [#1](https://osu.ppy.sh/community/matches/2034819) |
 | A | **Indonesia** | **2** | 0 | Lone wolfs | *win by default* |
 
-### Group Stage week 2
+### Group stage week 2
 
 Saturday, 12 November 2011:
 
@@ -346,7 +346,7 @@ Monday, 14 November 2011:
 | --: | --: | :-: | :-: | :-- | :-- |
 | B | **State(s) of the Art** | **2** | 0 | Old School | [#1](https://osu.ppy.sh/community/matches/1990265) |
 
-### Group Stage week 1
+### Group stage week 1
 
 Saturday, 5 November 2011:
 

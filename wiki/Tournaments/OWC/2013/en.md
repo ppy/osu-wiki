@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2013 logo](img/logo.jpg)
 
-The **osu! World Cup 2013** (***OWC 2013***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth installment of the osu! World Cup.
+The **osu! World Cup 2013** (***OWC 2013***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! World Cup 2013** (***OWC 2013***) was a country-based osu! tournament
 | --: | :-- |
 | Registration phase | 2013-10-15/2013-10-28 |
 | Live drawings | 2013-10-31 (16:00 UTC) |
-| Group Stage | 2013-11-08/2013-11-10 |
+| Group stage | 2013-11-08/2013-11-10 |
 | Round of 16 | 2013-11-16/2013-11-17 |
 | Quarterfinals | 2013-11-24 |
 | Semifinals | 2013-11-30 |
@@ -26,9 +26,9 @@ The **osu! World Cup 2013** (***OWC 2013***) was a country-based osu! tournament
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, OWC trophy, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge, OWC trophy, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "OWC 2013 winner badge")
 
@@ -47,8 +47,8 @@ The osu! World Cup 2013 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181)
-- [Livestream](https://www.twitch.tv/osulive/profile/pastBroadcasts "Twitch")
-- **[Statistics sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17 "Google Sheets")**
+- [Livestream](https://www.twitch.tv/osulive/profile/pastBroadcasts)
+- **[Statistics sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)**
 
 ## Participants
 
@@ -100,6 +100,8 @@ The osu! World Cup 2013 was run by various community members.
 | ![][flag_TH] Thailand | ![][flag_SE] Sweden | ![][flag_IT] Italy | ![][flag_SG] Singapore |
 | ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_NL] Netherlands | ![][flag_VE] Venezuela |
 
+![](img/bracket.jpg "OWC 2013 bracket")
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -110,13 +112,11 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [dabanlong](https://osu.ppy.sh/users/624254), [I will be back](https://osu.ppy.sh/users/477704), [onlyforyou](https://osu.ppy.sh/users/597858), [Rucker](https://osu.ppy.sh/users/147515), [Small K](https://osu.ppy.sh/users/952751), [SnowWhite](https://osu.ppy.sh/users/50265), [YuyuKo sama](https://osu.ppy.sh/users/234788)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **Poland** (**[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [Beniek](https://osu.ppy.sh/users/1649633), [Niko](https://osu.ppy.sh/users/175141), [Piotrekol](https://osu.ppy.sh/users/304520), [rEdo](https://osu.ppy.sh/users/49329), [worst fl player](http://osu.ppy.sh/users/613592), [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
 
-![OWC 2013 bracket](img/bracket.jpg)
-
 ## Mappools
 
 ### Finals
 
-**[Download the mappack here! (194 MB)](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar "MediaFire")**
+**[Download the mappack here! (194 MB)](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
 
 - NoMod
   - [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
@@ -150,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (209 MB)](https://www.mediafire.com/?pn3yxce7m6v4j13 "MediaFire")**
+**[Download the mappack here! (209 MB)](https://www.mediafire.com/?pn3yxce7m6v4j13)**
 
 - NoMod
   - [CON - Cruel Clocks (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76882#osu/216272)
@@ -184,7 +184,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (184 MB)](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar "MediaFire")**
+**[Download the mappack here! (184 MB)](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
 
 - NoMod
   - [xi - Time files (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/49843#osu/153484)
@@ -218,7 +218,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (143 MB)](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar "MediaFire")**
+**[Download the mappack here! (143 MB)](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
 
 - NoMod
   - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/43248#osu/135804)
@@ -250,9 +250,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Infected Mushroom - The Pretender (RLC) \[Pretender\]](https://osu.ppy.sh/beatmapsets/79498#osu/221777)**
 
-### Group Stage
+### Group stage
 
-**[Download the mappack here! (215 MB)](https://www.mediafire.com/?jn0c8p6wqfrtfhb "MediaFire")**
+**[Download the mappack here! (215 MB)](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
 
 - NoMod
   - [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w) \[YuruYuri\]](https://osu.ppy.sh/beatmapsets/45316#osu/153418)
@@ -340,7 +340,7 @@ Sunday, 17 November 2013:
 | France ![][flag_FR] | 4 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/2817324) |
 | **Austria** ![][flag_AT] | **5** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/2820030) |
 
-### Group Stage
+### Group stage
 
 Friday, 8 November 2013:
 
@@ -432,7 +432,7 @@ Sunday, 10 November 2013:
    - The maximum team size is 8.
    - You must specify a captain who will represent the team.
 2. Each team represents a nation. You must form a team with players from the same country.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform "Google Forms"). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
 4. Any registration and change will be checked by the Tournament Management before being accepted and added to the list of participants.
 5. The total amount of teams is 32. First come, first serve.

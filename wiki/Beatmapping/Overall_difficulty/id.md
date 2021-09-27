@@ -5,13 +5,15 @@ tags:
   - notelock
   - OD
   - spinner difficulty
+outdated: true
+outdated_since: 266a07fc271ddfef0dfd369697733a2c5835a124
 ---
 
 # Overall difficulty
 
 *Untuk rekomendasi nilai OD, Silahkan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Overall difficulty** (***OD***) menjelaskan seberapa sulit untuk mendapatkan [accuracy](/wiki/Accuracy) yang tinggi di dalam sebuah [beatmap](/wiki/Beatmap). Nilainya berkisar dari 0 sampai 10, dimana OD yang paling tinggi akan membutuhkan akurasi dan presisi yang sangat bagus. Karena akurasi itu yang paling penting untuk meningkatkan health, overall dificulty juga mempengaruhi sebarapa susah untuk menyelesaikan sebuah beatmap.
+**Overall difficulty** (***OD***) menjelaskan seberapa sulit untuk mendapatkan [accuracy](/wiki/Gameplay/Accuracy) yang tinggi di dalam sebuah [beatmap](/wiki/Beatmap). Nilainya berkisar dari 0 sampai 10, dimana OD yang paling tinggi akan membutuhkan akurasi dan presisi yang sangat bagus. Karena akurasi itu yang paling penting untuk meningkatkan health, overall dificulty juga mempengaruhi sebarapa susah untuk menyelesaikan sebuah beatmap.
 
 ## Timing
 
