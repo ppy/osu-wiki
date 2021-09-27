@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Project Loved: September 2021"
-date: 2021-09-28 15:00:00 +0000
+date: 2021-09-28 20:00:00 +0000
 ---
 
 With a new season comes the September iteration of Project Loved! 
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-First of all, let us quickly remind everyone about the Project Loved concept in case someone forgot about it. Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective game modes. Each banner will redirect you to the respective beatmap's poll, or you can immediately view them all on the forum [here](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to cast your votes! Find out more about this project on the [wiki page](https://osu.ppy.sh/wiki/Project_Loved)!
+First of all, let us quickly remind everyone about the Project Loved concept in case someone forgot about it. Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective game modes. Each banner will redirect you to the respective beatmap's poll, or you can immediately view them all on the forum [here](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to cast your votes! Find out more about this project on the [wiki page](/wiki/Project_Loved)!
 
 As usual, we would like to thank everyone who participated in the August votes. You're helping to keep this project alive by doing so, and we appreciate it! If you would like to view the results from the previous round, you may do so by clicking the following links:
 
@@ -19,7 +19,7 @@ As usual, we would like to thank everyone who participated in the August votes. 
 
 September comes with good news for Project Loved! The [Project Loved website](https://loved.sh/) is now fully localisable into your native language. Much thanks to the contributors across the community, the website is available in Spanish, Finnish, Swedish and Turkish for the time being. Interested in translating the website to your native language? If so, head over to the [Localisation page of the Project Loved website](https://loved.sh/localization) and follow the steps there! If you wish to contribute to Project Loved, feel free to visit the `#osu-loved` channel in the [osu!dev Discord server](https://discord.com/invite/ppy). If website development is your thing, you can follow the ongoing development progress on [the GitHub repository](https://github.com/cl8n/project-loved-web).
 
-Before announcing the picks for this month, we would like to introduce you to the new faces of the Project Loved Team and wave goodbyes to those who have recently parted ways with us. Already present with us as a metadata reviewer for the picks, [UberFazz](https://osu.ppy.sh/users/8646059) and [Doomsday](https://osu.ppy.sh/users/18983) - long-time osu! players and contributors - have rolled up their sleeves to assist other osu! captains with Loved nominations. And speaking of captains, we are also delighted to present you with [Gamelan4](https://osu.ppy.sh/users/9856910), our newest osu!taiko captain, tasked with picking your favourite dons and kats. Coming from the Global Moderation Team, [Zeus-](https://osu.ppy.sh/users/5464437) takes on the responsibility of beatmap content moderation alongside [Noffy](https://osu.ppy.sh/users/1541323) and [Pachiru](https://osu.ppy.sh/users/2850983). As for our last addition to the Project Loved Team, renowned Beatmap Nominator [Hivie](https://osu.ppy.sh/users/14102976) is here to make sure the metadata across all the nominations is accurate.
+Before announcing the picks for this month, we would like to introduce you to the new faces of the Project Loved Team and wave goodbyes to those who have recently parted ways with us. Already present with us as a metadata reviewer for the picks, [UberFazz](https://osu.ppy.sh/users/8646059) and [Doomsday](https://osu.ppy.sh/users/18983) — long-time osu! players and contributors — have rolled up their sleeves to assist other osu! captains with Loved nominations. And speaking of captains, we are also delighted to present you with [Gamelan4](https://osu.ppy.sh/users/9856910), our newest osu!taiko captain, tasked with picking your favourite dons and kats. Coming from the Global Moderation Team, [Zeus-](https://osu.ppy.sh/users/5464437) takes on the responsibility of beatmap content moderation alongside [Noffy](https://osu.ppy.sh/users/1541323) and [Pachiru](https://osu.ppy.sh/users/2850983). As for our last addition to the Project Loved Team, renowned Beatmap Nominator [Hivie](https://osu.ppy.sh/users/14102976) is here to make sure the metadata across all the nominations is accurate.
 
 Unfortunately, new arrivals tend to bring along several departures. We have recently parted ways with [X a v y](https://osu.ppy.sh/users/3738344) and [Alter-](https://osu.ppy.sh/users/4980256), osu!taiko and osu!mania captains respectively. Although they are no longer a part of the Project Loved Team, their contributions to the Loved scene are here to stay forever. We would like to thank them for their service and wish them luck in their future endeavours!
 
@@ -132,7 +132,7 @@ The osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/
 
 It has been a while since we last saw Xay, a well-known mapper and player in the osu!taiko community, in the same game mode's Loved section, and *Counter Clockwise Chant Pattern* by Terminal 11 is an excellent map to come back to the scene with.
 
-Featured in the TWC 2020 Finals pool, this map is the first thing that comes up to tournament players' minds when tech is the topic on board. After all, even for an experimental song, this map has retained considerable popularity among mid- to high-ranked players who enjoy testing themselves against others.
+Featured in the TWC 2020 Finals pool, this map is the first thing that comes up to tournament players' minds when tech is the topic on board. After all, even for an experimental song, this map has retained considerable popularity among mid-to-high-ranked players who enjoy testing themselves against others.
 
 The usage and combination of 1/6 and 1/8 snaps with the overall patterning decisions contribute to its fun and challenging aspects and have made this map become an excellent benchmark for people wanting to test their finger control and tech skills. If you haven't tried this map yet, you should absolutely give it a try!
 
@@ -172,7 +172,7 @@ As expected, KTYN is good at taking these songs and converting them into absolut
 185 BPM, 2:05 | 1.44★ – 5.77★\
 *description written by [POCARI SWEAT](https://osu.ppy.sh/users/5082685)*
 
-If you played osu!taiko for a long time, you might have heard the name *-+* at least once. Mapped by 5 veteran osu!taiko mappers from the Hong Kong community, *-+*'s osu!taiko diffs have finally made their way to Loved. There are 8 osu!taiko difficulties mapped with star ratings ranging between 1.44\\\~5.77\\\*, containing varying patterns and decent BPM structures, with the highest one serving you a pile of 1/6 patterns, albeit relatively subdued. If you're a professional player tired of playing a hell of intricate maps, or a beginner looking for a quality one to practice, this one will be a great choice.
+If you played osu!taiko for a long time, you might have heard the name *-+* at least once. Mapped by 5 veteran osu!taiko mappers from the Hong Kong community, *-+*'s osu!taiko diffs have finally made their way to Loved. There are 8 osu!taiko difficulties mapped with star ratings ranging from 1.44\* to 5.77\*, containing varying patterns and decent BPM structures, with the highest one serving you a pile of 1/6 patterns, albeit relatively subdued. If you're a professional player tired of playing a hell of intricate maps, or a beginner looking for a quality one to practice, this one will be a great choice.
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/894000.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -210,7 +210,7 @@ If you've ever played a DakkyChan map, then you know: They are tough. This map i
 145 BPM, 2:13 | 4.79★, 4.79★\
 *description written by [Spectator](https://osu.ppy.sh/users/702598)*
 
-Dika312 has recently gained fame among the players for his unique style and stylish patterns. This map, *schwarzekugel - $trange Attraktor* shows the excellence of his gimmick mapping skill. The difficulty, which was used in a FreeMod mappool in AxS, is designed to pay attention to both accuracy and precision where you need to treat the slider-ticks as the notes. With NoMod and Hidden, the sliders seem relatively clean due to the use of the most excellent mapping tool of all time, the Droplet Derandomizer by Phob. Still, with the addition of HardRock you'll see many wacky slider paths, so you should be prepared for a further accuracy challenge if you ever plan to conquer the map with the HardRock mod.
+Dika312 has recently gained fame among the players for his unique style and stylish patterns. This map, *$trange Attraktor* shows the excellence of his gimmick mapping skill. The difficulty, which was used in a FreeMod mappool in AxS, is designed to pay attention to both accuracy and precision where you need to treat the slider-ticks as the notes. With NoMod and Hidden, the sliders seem relatively clean due to the use of the most excellent mapping tool of all time, the Droplet Derandomizer by Phob. Still, with the addition of HardRock you'll see many wacky slider paths, so you should be prepared for a further accuracy challenge if you ever plan to conquer the map with the HardRock mod.
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/365254.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -230,7 +230,7 @@ Many of TenyO's maps are pretty challenging, and as the difficulty name of this 
 
 Fun fact: 78% of osu! players have played League of Legends at least once in their life! 63% of those people have reached at least level 10, and 84% of those people have reached level 30. Cool right? I made all of that up :). Though one thing I cannot lie about is this map and its quality!
 
-Once again, we have Minato Yukina with an incredible full set on this beautiful song: Warriors. As you might expect, it is quite a meta-esque beatmap, without any sort of out-of-the-world gimmicks to be found, primarily emphasizing the 1/4 rhythms. Despite this, there is plenty of fun to be had, especially considering this map is generally well-received in the osu! community. The difficulties go up from Bronze to Challenger, so as you might have guessed, there is something to play for everyone, woo!
+Once again, we have Minato Yukina with an incredible full set on this beautiful song — *Warriors*. As you might expect, it is quite a meta-esque beatmap, without any sort of out-of-the-world gimmicks to be found, primarily emphasizing the 1/4 rhythms. Despite this, there is plenty of fun to be had, especially considering this map is generally well-received in the osu! community. The difficulties go up from Bronze to Challenger, so as you might have guessed, there is something to play for everyone, woo!
 
 Anyway, *here we are, don't turn away now*, and go vote!
 
@@ -261,7 +261,8 @@ Shoegazer's style is obviously very well pronounced in the chart — it contains
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/724338.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Various Artists - arpia97's Vibro Anthology](https://osu.ppy.sh/beatmapsets/724338#mania) by [arpia97](https://osu.ppy.sh/users/6363008), [\[Crz\]Player](https://osu.ppy.sh/users/1089335), [frolica](https://osu.ppy.sh/users/4324195), [Nihilese](https://osu.ppy.sh/users/808176), [SMOC_Hyeon](https://osu.ppy.sh/users/3962638), [Staravia](https://osu.ppy.sh/users/5445777) and [Topovn](https://osu.ppy.sh/users/6583121)\
-119 – 268 BPM, 4:07 | 6.14★ – 16.75★\
+122 – 268 BPM, 4:07 | 6.14★ – 16.75★\
+The \[Pocari Sweat (Marathon)\] and \[do you know da wae (Marathon)\] difficulties are *not* being nominated for Loved.\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
 BEFORE YOU VOTE, LISTEN TO ME, PLEASE! Alright... so let's get this out there. Vibro, to many in the VSRG community, is one of the most divisive skillsets. It's a skillset solely dedicated to a player's ability to absolutely brute force their way through patterns that, to an average player, look ridiculous, to say the least. This preface is essential to set the tone, as we aren't totally confident in a vibro-centered map/set's ability to pass the voting since charts in this vein have shown to perform shoddily in the past. However, I think it's time to give it another shot. arpia's Vibro Anthology over here is by far the most well-known pack on osu! dedicated to this skillset, and honestly, I think it's for a good reason.
@@ -336,7 +337,11 @@ Now, what about the actual patterns in this map? At a runtime of about 2:30 on 1
 153 – 198.9 BPM, 2:29 | 6.05★ – 7.64★\
 *description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-Finally, every chordjack enthusiast was waiting for this moment: we're nominating *The Truth Never Spoken* by none other than \[Crz\]Rachel! Their chordjack maps gather a lot of popularity, and so is the case with this one — that's why we're happy to put this up, and there will surely be more Rachel mapsets to follow in the future! Now onto the chart itself, this 153 BPM chordjack features relatively light but relentless and draining patterning compressed into two solid sections. Although the density is respectable, the lack of longer anchors allows for some speedjacking strats that make this map viable on higher bpm — that's why rates up to 1.3 were added and HP was decreased. This goes up to almost 200 BPM, which is a challenge for even the best jack gorillas out there, but we're sure every adept jack player will find a good bpm range to practice. The patterns in *The Truth Never Spoken* are clean and comfortable — the main difficulty comes from the bpm itself as well as the length of the runs. What is there more to say? Check out the map, break your fingers, and vote for \[Crz\]Rachel's map!
+Finally, every chordjack enthusiast was waiting for this moment: we're nominating *The Truth Never Spoken* by none other than \[Crz\]Rachel! Their chordjack maps gather a lot of popularity, and so is the case with this one — that's why we're happy to put this up, and there will surely be more Rachel mapsets to follow in the future!
+
+Now onto the chart itself, this 153 BPM chordjack features relatively light but relentless and draining patterning compressed into two solid sections. Although the density is respectable, the lack of longer anchors allows for some speedjacking strats that make this map viable on higher bpm — that's why rates up to 1.3 were added and HP was decreased. This goes up to almost 200 BPM, which is a challenge for even the best jack gorillas out there, but we're sure every adept jack player will find a good bpm range to practice.
+
+The patterns in *The Truth Never Spoken* are clean and comfortable — the main difficulty comes from the bpm itself as well as the length of the runs. What is there more to say? Check out the map, break your fingers, and vote for \[Crz\]Rachel's map!
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/459133.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -370,7 +375,7 @@ Yuko-'s *Japanese Transformation* is probably one of the most iconic 7K rice cha
 
 \_Stan makes their first appearance to Loved, with their 5-diff collaborative set of Gunkyouzouteki Soseiriron! Stan is a hardworking charter, which I'm sure many people who keep up with ranked charts should be familiar with. From the eclectic unapologetic patterning of *[Dream to Nightmare](https://osu.ppy.sh/beatmapsets/527728#mania/1125576)* to the creative and diverse hybrid charting of *[Luin of Celtchar](https://osu.ppy.sh/beatmapsets/1281422#mania/2879332)*, Stan has proven to be an essential member of the community over the years and has even contributed to Ranked standard sets! To any unfamiliar, this song is a chaotic and intense piano-based track based on Camellia's *Xroniel Xero* album and features a collaboration between him and the equally legendary Tsukasa Kaminose.
 
-Onto the set, which as a chart for a collaboration between these two artists should be, is a full collaboration between a myriad of different charters. Those charters include Stan, Kyousuke-, biemote, \[Emiria\] (otherwise known as victorica_db), and myself. Besides all of us simply having GDs on the set, the catch is that each of the 5 difficulties is of a different key count. These diffs go from 4K up to 8K, and all of what's here will give players a different experience from one map to the next. From the full rice approach of the 8K to the hybrid centered patterning of the 7K and 4K, each approach to the song brings something distinct to the table. Seeing a well-constructed key-spread is rare enough these days, let alone one put together in a way that's been done here. We're thankful for Stan's contributions to the community over the years and look forward to what they have to offer in the future!
+Onto the set, which as a chart for a collaboration between these two artists should be, is a full collaboration between a myriad of different charters. Those charters include \_Stan, Kyousuke-, biemote, \[Emiria\] (otherwise known as victorica_db), and myself. Besides all of us simply having GDs on the set, the catch is that each of the 5 difficulties is of a different key count. These diffs go from 4K up to 8K, and all of what's here will give players a different experience from one map to the next. From the full rice approach of the 8K to the hybrid centered patterning of the 7K and 4K, each approach to the song brings something distinct to the table. Seeing a well-constructed key-spread is rare enough these days, let alone one put together in a way that's been done here. We're thankful for Stan's contributions to the community over the years and look forward to what they have to offer in the future!
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/699875.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -399,6 +404,6 @@ hokin1995's 4K difficulties on *-+* are rather simple, with a simple chord and j
 
 ---
 
-From everyone on the [Project Loved Team](https://osu.ppy.sh/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. Until then, make sure to enjoy the picks and cast your votes! 
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. Until then, make sure to enjoy the picks and cast your votes! 
 
 —Pachiru
