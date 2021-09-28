@@ -54,7 +54,8 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Structure, communication |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Évaluation, structure, communication |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structure |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portugais | Évaluation, structure, communication |
+| ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Évaluation |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Espagnol, Français | Évaluation |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Néerlandais | Évaluation |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polonais | Évaluation |
 
