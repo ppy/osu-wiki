@@ -471,8 +471,8 @@
 "legal/tos":                   "Legal/Terms"
 "privacy":                     "Legal/Privacy"
 "privacy_policy":              "Legal/Privacy"
-"music licencing":             "Legal/Music_Licensing"
-"music licensing":             "Legal/Music_Licensing"
+"music_licencing":             "Legal/Music_Licensing"
+"music_licensing":             "Legal/Music_Licensing"
 
 
 "mapping_technique":                      "Mapping_Techniques"
@@ -1218,8 +1218,8 @@
 
 "tmc":                            "Tournament_Management_Commands"
 
-"tournament support":          "Tournaments/Official_support"
-"tournaments support":         "Tournaments/Official_support"
+"tournament_support":          "Tournaments/Official_support"
+"tournaments_support":         "Tournaments/Official_support"
 "cpot": "Tournaments/Countries_that_participated_in_osu!_tournaments"
 
 "owc":                         "Tournaments#-osu!-world-cup"
