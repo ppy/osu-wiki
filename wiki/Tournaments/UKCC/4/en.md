@@ -43,15 +43,15 @@ The UK Community Cup 4 was run by various community members.
 | :-- | :-- |
 | Manager | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972) |
 | Mappool selector | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446) |
-| Streamer | ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [xfluffyo](https://osu.ppy.sh/users/8397226), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_DE] [Irate](https://osu.ppy.sh/users/7166084) |
+| Streamer | ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [xfluffyo](https://osu.ppy.sh/users/8397226), ![][flag_US] [noctisv\_v](https://osu.ppy.sh/users/6775083), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_DE] [Irate](https://osu.ppy.sh/users/7166084) |
 | Commentator | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [xfluffyo](https://osu.ppy.sh/users/8397226), ![][flag_DE] [Irate](https://osu.ppy.sh/users/7166084) |
 | Designer | ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
-| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446), ![][flag_GB] [Pepsi Max](https://osu.ppy.sh/users/7785655), ![][flag_GB] [Mashi](https://osu.ppy.sh/users/8400612), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_GB] [ebanineo](https://osu.ppy.sh/users/7755063), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238), ![][flag_NL] [Wiqued](https://osu.ppy.sh/users/10039350) |
+| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446), ![][flag_GB] [Pepsi Max](https://osu.ppy.sh/users/4837257), ![][flag_GB] [Mashi](https://osu.ppy.sh/users/8400612), ![][flag_US] [noctisv\_v](https://osu.ppy.sh/users/6775083), ![][flag_GB] [ebanineo](https://osu.ppy.sh/users/7755063), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238), ![][flag_NL] [Wiqued](https://osu.ppy.sh/users/10039350), ![][flag_DE] [Irate](https://osu.ppy.sh/users/7166084) |
 | Statistician | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/677534?n=1)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/677534)
 - [Challonge](https://challonge.com/ukcc4)
 - [Discord](https://discord.gg/EtsU7Cw)
 - [Livestream](https://twitch.tv/osuukcc)
@@ -68,7 +68,7 @@ The UK Community Cup 4 was run by various community members.
 | **can you come up with something** | ![][flag_GB] [Alphabet](https://osu.ppy.sh/users/4879380), ![][flag_GB] [Pyrooo](https://osu.ppy.sh/users/5276579) |
 | **Sorry Bubble** | ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262), ![][flag_GB] [OskaRRRitoS](https://osu.ppy.sh/users/7051163) |
 | **I Can't Believe It's Not Kardet** | ![][flag_GB] [Titus](https://osu.ppy.sh/users/2014867), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
-| **One Thrust Men** | ![][flag_GB] [[Bloo]](https://osu.ppy.sh/users/6778877), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| **One Thrust Men** | ![][flag_GB] [\[Bloo\]](https://osu.ppy.sh/users/6778877), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
 | **I don't mind** | ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_GB] [Wario](https://osu.ppy.sh/users/4361729) |
 | **Da ting go SKRAAAAH!** | ![][flag_GB] [Summer Solstice](https://osu.ppy.sh/users/3233710), ![][flag_GB] [Husk](https://osu.ppy.sh/users/3578707) |
 | **Twins** | ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_GB] [Shaww](https://osu.ppy.sh/users/2704809) |
@@ -78,7 +78,7 @@ The UK Community Cup 4 was run by various community members.
 | **Blood Brothers** | ![][flag_GB] [Harpy](https://osu.ppy.sh/users/6761714), ![][flag_CA] [Squapple](https://osu.ppy.sh/users/6826036) |
 | **Tetanus** | ![][flag_GB] [Valentine](https://osu.ppy.sh/users/4437309), ![][flag_GB] [skaytan](https://osu.ppy.sh/users/6480903) |
 | **Nomod since 2014** | ![][flag_GB] [Jameslike](https://osu.ppy.sh/users/2415743), ![][flag_GB] [sullyjhf](https://osu.ppy.sh/users/1994780) |
-| **We're Good At Hidden** | ![][flag_GB] [meltz](https://osu.ppy.sh/users/6741042), ![][flag_GB] [[- Creepy -]](https://osu.ppy.sh/users/7263333) |
+| **We're Good At Hidden** | ![][flag_GB] [meltz](https://osu.ppy.sh/users/6741042), ![][flag_GB] [\[- Creepy -\]](https://osu.ppy.sh/users/7263333) |
 
 ### Mid Seed
 
@@ -87,11 +87,11 @@ The UK Community Cup 4 was run by various community members.
 | **Raw Sauce** | ![][flag_GB] [Benpoi](https://osu.ppy.sh/users/4361380), ![][flag_GB] [Vortecs](https://osu.ppy.sh/users/2715375) |
 | **Washed Up** | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
 | **omae wa nyaa** | ![][flag_GB] [Roam](https://osu.ppy.sh/users/5077897), ![][flag_GB] [Junarchy](https://osu.ppy.sh/users/3544285) |
-| **yiff > hentai** | ![][flag_GB] [[ Crazy ]](https://osu.ppy.sh/users/4019511), ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549) |
+| **yiff > hentai** | ![][flag_GB] [\[ Crazy \]](https://osu.ppy.sh/users/4019511), ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549) |
 | **Random Team Name** | ![][flag_GB] [Cozzzy](https://osu.ppy.sh/users/2003917), ![][flag_GB] [RndGuy](https://osu.ppy.sh/users/1201586) |
 | **Pecado** | ![][flag_GB] [TopSp1n](https://osu.ppy.sh/users/7657761), ![][flag_GB] [Scotland](https://osu.ppy.sh/users/6646935) |
 | **Morbidly Obese** | ![][flag_GB] [Obese](https://osu.ppy.sh/users/3937808), ![][flag_GB] [Morbid](https://osu.ppy.sh/users/6963690) |
-| **Snake** | ![][flag_GB] [[Lune]](https://osu.ppy.sh/users/1464467), ![][flag_GB] [Snookie](https://osu.ppy.sh/users/1484934) |
+| **Snake** | ![][flag_GB] [\[Lune\]](https://osu.ppy.sh/users/1464467), ![][flag_GB] [Snookie](https://osu.ppy.sh/users/1484934) |
 | **Generic Team Name** | ![][flag_GB] [xFluffyo](https://osu.ppy.sh/users/8397226), ![][flag_GB] [fozzy425](https://osu.ppy.sh/users/9993781) |
 | **osubantz** | ![][flag_GB] [CanIQuitNow](https://osu.ppy.sh/users/1331455), ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
 | **We love decaying** | ![][flag_GB] [Cephus](https://osu.ppy.sh/users/3373206), ![][flag_GB] [Gazza](https://osu.ppy.sh/users/3648459) |
@@ -106,7 +106,7 @@ The UK Community Cup 4 was run by various community members.
 | Team | Members |
 | :-- | :-- |
 | **ProNoobs** | ![][flag_GB] [DrexiN](https://osu.ppy.sh/users/5363646), ![][flag_GB] [Aquaza](https://osu.ppy.sh/users/10173933) |
-| **:^)** | ![][flag_GB] [graffiti](https://osu.ppy.sh/users/6471972), ![][flag_GB] [[ Sammy ]](https://osu.ppy.sh/users/9177314) |
+| **:^)** | ![][flag_GB] [graffiti](https://osu.ppy.sh/users/6471972), ![][flag_GB] [\[ Sammy \]](https://osu.ppy.sh/users/9177314) |
 | **Spotty Frog** | ![][flag_GB] [HighlandHitman](https://osu.ppy.sh/users/5418512), ![][flag_GB] [vTec](https://osu.ppy.sh/users/6530071) |
 | **quit w** | ![][flag_GB] [-HD](https://osu.ppy.sh/users/6371865), ![][flag_GB] [Shigere](https://osu.ppy.sh/users/7775183) |
 | **Bros before hoes** | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [RevRoadster](https://osu.ppy.sh/users/5139514) |
@@ -115,7 +115,7 @@ The UK Community Cup 4 was run by various community members.
 | **pathos** | ![][flag_GB] [adrixxx](https://osu.ppy.sh/users/9754392), ![][flag_GB] [Syzmik](https://osu.ppy.sh/users/10017183) |
 | **Samurai Dads** | ![][flag_GB] [dt is bad](https://osu.ppy.sh/users/4776591), ![][flag_GB] [Melonturtle](https://osu.ppy.sh/users/4775283) |
 | **Traps Aren't Gay** | ![][flag_GB] [Unrestricted](https://osu.ppy.sh/users/9553446), ![][flag_GB] [ShiiTsuin](https://osu.ppy.sh/users/9186316) |
-| **Doomsbae** | ![][flag_GB] [[-Shadow-]](https://osu.ppy.sh/users/4273559), ![][flag_GB] [Koiishi](https://osu.ppy.sh/users/707861) |
+| **Doomsbae** | ![][flag_GB] [\[-Shadow-\]](https://osu.ppy.sh/users/4273559), ![][flag_GB] [Koiishi](https://osu.ppy.sh/users/707861) |
 | **Logang (Dab)** | ![][flag_GB] [Azerith](https://osu.ppy.sh/users/8678513), ![][flag_GB] [- Sakura](https://osu.ppy.sh/users/8459209) |
 | **keep on click and you'll win** | ![][flag_GB] [AFriendlyPug](https://osu.ppy.sh/users/5643517), ![][flag_GB] [robyru](https://osu.ppy.sh/users/7026575) |
 | **sk8 fast eat ass** | ![][flag_GB] [botsbots](https://osu.ppy.sh/users/7374916), ![][flag_GB] [woodzy](https://osu.ppy.sh/users/7361767) |
@@ -137,14 +137,14 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 - NoMod
-  - [GEM - Umiyuri Kaiteitan (Loreley) [[ -Scarlet- ]'s Extra (UKCC ver.)]](https://puu.sh/Ibrdo/69658e6920.osz)
+  - [GEM - Umiyuri Kaiteitan (Loreley) [\[ -Scarlet- \]'s Extra (UKCC ver.)]](https://puu.sh/Ibrdo/69658e6920.osz)
   - [MOSAIC.WAV - Gokusotu Angel Ennmachan (Nattu) [Ennmachan!?]](https://osu.ppy.sh/beatmapsets/541540#osu/1148238)
   - [Caravan Palace - Lone Digger (Sheepcraft) [Funky]](https://osu.ppy.sh/beatmapsets/376860#osu/824970)
   - [Franz Liszt - La Campanella (8 Bit Remix) (Louis Cyphre) [Ultimate]](https://osu.ppy.sh/beatmapsets/383094#osu/1095418)
   - [Mutsuhiko Izumi - Red Goose (nold_1702) [Superable]](https://osu.ppy.sh/beatmapsets/46239#osu/144029)
   - [USAO - Boss Rush (ZeluaR) [Zempus]](https://osu.ppy.sh/beatmapsets/530997#osu/1125430)
 - Hidden
-  - [sana - Packet Hero (Zero__wind) [Legendary]](https://osu.ppy.sh/beatmapsets/413592#osu/896843)
+  - [sana - Packet Hero (Zero\_\_wind) [Legendary]](https://osu.ppy.sh/beatmapsets/413592#osu/896843)
   - [YUC'e - Future Cider (Sing) [Duplication]](https://osu.ppy.sh/beatmapsets/591674#osu/1252022)
   - [Silent Spica - Anhedonia (Muya) [Another]](https://osu.ppy.sh/beatmapsets/60136#osu/181843)
 - HardRock
@@ -165,22 +165,22 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 - NoMod
-  - [yu_tokiwa.djw - murmur twins (Muya) [Another]](https://osu.ppy.sh/beatmapsets/71856#osu/248501)
+  - [yu\_tokiwa.djw - murmur twins (Muya) [Another]](https://osu.ppy.sh/beatmapsets/71856#osu/248501)
   - [Traktion - Gid V (Nhawak) [Dance]](https://osu.ppy.sh/beatmapsets/285249#osu/1111553)
-  - [ginkiha - Borealis (Aka) [iyasine_sk's Exteme]](https://osu.ppy.sh/beatmapsets/213068#osu/709749)
+  - [ginkiha - Borealis (Aka) [iyasine\_sk's Exteme]](https://osu.ppy.sh/beatmapsets/213068#osu/709749)
   - [The Little Mermaid - Under the Sea (Yogurtt) [undah da sea]](https://osu.ppy.sh/beatmapsets/330927#osu/733266)
   - [Akiyama Uni - The Grimoire of Alice (Hollow Wings) [Extra]](https://osu.ppy.sh/beatmapsets/123839#osu/316018)
   - [LeaF - WoRLd Tempest (Kroytz) [mithew's Extra]](https://osu.ppy.sh/beatmapsets/490916#osu/1415026)
 - Hidden
   - [CLC - No oh oh (Natsu) [No! No!]](https://osu.ppy.sh/beatmapsets/473049#osu/1010809)
   - [DJ Sharpnel & V.A. - Beautiful Synergy (galvenize) [Synergia]](https://osu.ppy.sh/beatmapsets/29164#osu/97057)
-  - [t+pazolite - Electric Sister Bitch (SnowNiNo_) [INFINITE]](https://osu.ppy.sh/beatmapsets/441459#osu/950234)
+  - [t+pazolite - Electric Sister Bitch (SnowNiNo\_) [INFINITE]](https://osu.ppy.sh/beatmapsets/441459#osu/950234)
 - HardRock
   - [Zekk - Calling (NielPerry) [Komore's Extra]](https://osu.ppy.sh/beatmapsets/673878#osu/1432320)
   - [Zeami feat. Ayane - Senpuu no Mai (smallboat) [Fly Senpuu]](https://osu.ppy.sh/beatmapsets/334933#osu/741467)
   - [Rise Against - The Good Left Undone (pishifat) [Extreme]](https://osu.ppy.sh/beatmapsets/351431#osu/774564)
 - DoubleTime
-  - [DECO*27 feat. Topi - Light Lag (SakiK) [Insane]](https://osu.ppy.sh/beatmapsets/32987#osu/107698)
+  - [DECO\*27 feat. Topi - Light Lag (SakiK) [Insane]](https://osu.ppy.sh/beatmapsets/32987#osu/107698)
   - [Fox Stevenson - Turn It Up (Higher) (Kyshiro) [Epic]](https://osu.ppy.sh/beatmapsets/115291#osu/298034)
   - [League of Legends - Legends Never Die (ft. Against The Current) (Kalibe) [Glory]](https://osu.ppy.sh/beatmapsets/669826#osu/1416839)
 - FreeMod
@@ -212,7 +212,7 @@ This competition has come to an end and resulted in the following podium:
   - [Eiffel 65 - Move Your Body (Nightcore Mix) (Lally) [Insane]](https://osu.ppy.sh/beatmapsets/59602#osu/184578)
   - [Horie Yui - Vanilla Salt (raheta_adi) [Collab]](https://osu.ppy.sh/beatmapsets/114988#osu/320981)
 - FreeMod
-  - [Caramell - Caramelldansen (Ryu* Remix) (Nightcore Mix) (Star Stream) [Collab]](https://osu.ppy.sh/beatmapsets/48842#osu/150837)
+  - [Caramell - Caramelldansen (Ryu\* Remix) (Nightcore Mix) (Star Stream) [Collab]](https://osu.ppy.sh/beatmapsets/48842#osu/150837)
   - [beatMARIO - Night of Knights (DJPop) [SOLO]](https://osu.ppy.sh/beatmapsets/15920#osu/58063)
   - [O-Life Japan - Koukishin Yuusen (sjoy) [Misuzu's Extra]](https://osu.ppy.sh/beatmapsets/219355#osu/522992)
 - Tiebreaker
@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
   - [Hatsune Miku - Recommended Spell (val0108) [Spell]](https://osu.ppy.sh/beatmapsets/28864#osu/96055)
 - Hidden
   - [Reol - Asymmetry (Skystar) [Kyversible's Extreme]](https://osu.ppy.sh/beatmapsets/310499#osu/763520)
-  - [Jin - Outer Science (nold_1702) [NOLD]](https://puu.sh/Ibr0n/bb21114789.osz)
+  - [Jin - Outer Science (nold\_1702) [NOLD]](https://puu.sh/Ibr0n/bb21114789.osz)
   - [Groove Coverage - The End (Nightcore Remix) (winber1) [Insane]](https://osu.ppy.sh/beatmapsets/24918#osu/84538)
 - HardRock
   - [Azel - -Astraia- (Spaghetti) [ktgster's Extra]](https://osu.ppy.sh/beatmapsets/331309#osu/734096)
@@ -244,7 +244,7 @@ This competition has come to an end and resulted in the following podium:
   - [Betwixt & Between - I think we can go to the moon (AngelHoney) [Another]](https://osu.ppy.sh/beatmapsets/13728#osu/50658)
   - [Sum 41 - No Reason (Strawberry) [True Reason]](https://osu.ppy.sh/beatmapsets/60228#osu/180111)
 - Tiebreaker
-  - **[Demetori - Kagayaku Hari no Kobito-zoku ~ Counter-Attack of the Weak (GoldenWolf) [Extra Stage]](https://osu.ppy.sh/beatmapsets/347021#osu/765873)**
+  - **[Demetori - Kagayaku Hari no Kobito-zoku \~ Counter-Attack of the Weak (GoldenWolf) [Extra Stage]](https://osu.ppy.sh/beatmapsets/347021#osu/765873)**
 
 ### Round of 16
 
@@ -253,23 +253,23 @@ This competition has come to an end and resulted in the following podium:
   - [nao - Towa naru Kizuna to Omoi no Kiseki (Mishima Yurara) [VINXleft's Extra]](https://osu.ppy.sh/beatmapsets/448197#osu/1160949)
   - [Megpoid GUMI - For my soul (val0108) [Insane]](https://osu.ppy.sh/beatmapsets/22509#osu/80102)
   - [Camellia - Proluvies (Priti) [Bonzi's Extra]](https://osu.ppy.sh/beatmapsets/283815#osu/662294)
-  - [Lyude - Solar Sect of Mystic Wisdom ~ Nuclear Fusion (Saten-san) [Extra]](https://osu.ppy.sh/beatmapsets/35682#osu/115795)
+  - [Lyude - Solar Sect of Mystic Wisdom \~ Nuclear Fusion (Saten-san) [Extra]](https://osu.ppy.sh/beatmapsets/35682#osu/115795)
   - [ITO KASHITARO - START (Milan-) [Collab Extra]](https://osu.ppy.sh/beatmapsets/433030#osu/933587)
 - Hidden
-  - [P*Light - FUNKY SUMMER BEACH (Priti) [K.Penguin's Extra]](https://osu.ppy.sh/beatmapsets/212192#osu/500082)
+  - [P\*Light - FUNKY SUMMER BEACH (Priti) [K.Penguin's Extra]](https://osu.ppy.sh/beatmapsets/212192#osu/500082)
   - [Suzuki Konomi - Redo (Kalibe) [Linada's Extra]](https://osu.ppy.sh/beatmapsets/456524#osu/978325)
   - [dj TAKA - snow storm (Oracle) [fanzhen's Extra]](https://osu.ppy.sh/beatmapsets/151033#osu/372921)
 - HardRock
-  - [Sound Horizon - Raijin no Migiude (_Kiva) [Insane]](https://osu.ppy.sh/beatmapsets/27573#osu/92426)
+  - [Sound Horizon - Raijin no Migiude (\_Kiva) [Insane]](https://osu.ppy.sh/beatmapsets/27573#osu/92426)
   - [illion - AIWAGUMA (Ellyu) [Another]](https://osu.ppy.sh/beatmapsets/533037#osu/1247896)
   - [Yooh - LegenD. (Musty) [EXHAUST]](https://osu.ppy.sh/beatmapsets/295784#osu/670664)
 - DoubleTime
-  - [DECO*27*40mP - HOME (Kibbleru) [Reside]](https://osu.ppy.sh/beatmapsets/161545#osu/489768)
+  - [DECO\*27\*40mP - HOME (Kibbleru) [Reside]](https://osu.ppy.sh/beatmapsets/161545#osu/489768)
   - [DJ Mars - Lemon Tree (MetalMario201) [Hard]](https://osu.ppy.sh/beatmapsets/8229#osu/34045)
   - [Tiara - BALLOON (captin1) [White]](https://osu.ppy.sh/beatmapsets/90664#osu/245850)
 - FreeMod
   - [nmk - sola (sjoy) [Flower's Lunatic]](https://osu.ppy.sh/beatmapsets/183267#osu/441721)
-  - [A*Teens - Gimme! Gimme! Gimme! (Nightcore Mix) (ShadowSoul) [CDFGimme]](https://osu.ppy.sh/beatmapsets/46218#osu/147327)
+  - [A\*Teens - Gimme! Gimme! Gimme! (Nightcore Mix) (ShadowSoul) [CDFGimme]](https://osu.ppy.sh/beatmapsets/46218#osu/147327)
   - [Dollscythe - Flashes (Rethor) [Cryptic's Another]](https://osu.ppy.sh/beatmapsets/386246#osu/866662)
 - Tiebreaker
   - **[ginkiha - EOS (kamome sano rmx) (Broccoly) [4:18 AM]](https://osu.ppy.sh/beatmapsets/404360#osu/879186)**
@@ -305,7 +305,7 @@ This competition has come to an end and resulted in the following podium:
 ### Group Stage
 
 - NoMod
-  - [ZUN - The Venerable Ancient Battlefield ~ Suwa Foughten Field (sjoy) [Extra]](https://osu.ppy.sh/beatmapsets/100444#osu/266778)
+  - [ZUN - The Venerable Ancient Battlefield \~ Suwa Foughten Field (sjoy) [Extra]](https://osu.ppy.sh/beatmapsets/100444#osu/266778)
   - [kors k feat. Furukawa Mirin - Drive Me Crazy (Amamiya Yuko) [Extra]](https://osu.ppy.sh/beatmapsets/76372#osu/313899)
   - [Amane - Roaddoggz (Deijirum) [Lunatic]](https://puu.sh/IaUsd/e61b528afe.osz "puush")
   - [Hanatan - Tengaku (Rakuen) [Natsu's Insane]](https://osu.ppy.sh/beatmapsets/220785#osu/533634)
@@ -597,133 +597,46 @@ Sunday, 4 February 2018:
 
 ### Group stage
 
-#### Group A
+See the [Group stage results sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXl3K0w3_IJzWUHviHlzfhVcPbJs01O4k1fAdfkQ2g_8Ix6KdAzeY6B-1I3kP1fX_JbTSDEI9NDIt5/pubhtml#) for a breakdown of all group results.
 
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| **Enda and the Boys** | **SCORE** | SCORE | Raw Sauce |
-| **Enda and the Boys** | **SCORE** | SCORE | ProNoobs |
-| **Raw Sauce** | **SCORE** | SCORE | ProNoobs |
+## Ruleset
 
-#### Group B
+### General
 
-| Team 1 |  |  | Team 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Brexit This Earth's Atomosphere | SCORE | **SCORE** | **Washed Up** |  |
-| **Brexit This Earth's Atomosphere** | **0** | -1 | :^) | *forfeit* |
-| **Washed Up** | **SCORE** | SCORE | :^) |  |
+- This tournament is a 2v2 double-elimination British osu! tournament.
+- This tournament will consist of up to 64 teams.
+- Matches will be **Team Vs**, with **ScoreV2** as the scoring system used.
+- To be able to participate, players must have an **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag or be able to provide proof of residency to the hosts.**
+- All staff (apart from the Hosts, Mappool Selectors and Referees) are allowed to participate in the tournament.
+- All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and will be **blacklisted** from participating from future UKCC tournaments.
+- ***Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.***
+- Players are strongly advised to join the public discord so that they are contactable by other players and staff. If a player can’t be contacted or is not responding to messages, through discord, ingame messages or forum pms, contact the staff.
+- Mappools are to be released the Monday before a stage is due to happen.
 
-#### Group C
+### Reschedules
 
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| **Can you come up with something** | **SCORE** | SCORE | omae wa nyaa |
-| **Can you come up with something** | **SCORE** | SCORE | Spotty Frog |
-| **omae wa nyaa** | **SCORE** | SCORE | Spotty Frog |
+- The tournament matches will be drawn on weekends, the exact schedule to be released every Monday.
+- Matches can however be rescheduled for any day in the week as long as there is a referee available to supervise.
+- In order to reschedule, you must contact your opponents, agree on a time and be able to provide **proof** (by form of a screenshot/image) of the agreed reschedule to the Hosts.
+- A time to reschedule your match to must be agreed and staff informed before 23:59 GMT Friday, at which point the schedules will be locked. Any reschedule notices after this will be invalid and the original time will stand.
+- If it is impossible to find a time to reschedule to that suits both players, both players should talk to the Hosts (Bae- or Yazzehh) and we will attempt to sort something out.
+- Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
+- If a match needs rescheduling to a time after a related losers’ bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
 
-#### Group D
+### Match Rules
 
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| **Sorry Bubble** | **SCORE** | SCORE | yiff > hentai |
-| **Sorry Bubble** | **SCORE** | SCORE | quit w |
-| **yiff > hentai** | **SCORE** | SCORE | quit w |
-
-#### Group E
-
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| I can't believe its not Kardet | SCORE | **SCORE** | **Random Team Name** |
-| **I can't believe its not Kardet** | **SCORE** | SCORE | Bros before Hoes |
-| **Random Team Name** | **SCORE** | SCORE | Bros before Hoes |
-
-#### Group F
-
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| **One Thrust Men** | **SCORE** | SCORE | Pecado |
-| **One Thrust Men** | **SCORE** | SCORE | 434 Acc not found |
-| **Pecado** | **SCORE** | SCORE | 434 Acc not found |
-
-#### Group G
-
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| **I don't mind** | **SCORE** | SCORE | Morbidly Obese |
-| **I don't mind** | **SCORE** | SCORE | On the Left Left Left |
-| **Morbidly Obese** | **SCORE** | SCORE | On the Left Left Left |
-
-#### Group H
-
-| Team 1 |  |  | Team 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Da ting go SKRAAAAH! | -1 | **0** | **Snake** | *forfeit* |
-| Da ting go SKRAAAAH! | -1 | **0** | **pathos** | *forfeit* |
-| **Snake** | **SCORE** | SCORE | pathos |  |
-
-#### Group I
-
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| Twins | SCORE | **SCORE** | **Generic Team Name** |
-| **Twins** | **SCORE** | SCORE | Samurai Dads |
-| **Generic Team Name** | **SCORE** | SCORE | Samurai Dads |
-
-#### Group J
-
-| Team 1 |  |  | Team 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| **4 digit carries 3 digit (not true)** | **SCORE** | SCORE | osubantz |  |
-| **4 digit carries 3 digit (not true)** | **0** | -1 | Traps Aren't Gay | *forfeit* |
-| osubantz | SCORE | SCORE | Traps Aren't Gay | *forfeit* |
-
-#### Group K
-
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| **hmm** | **SCORE** | SCORE | We love decaying |
-| **hmm** | **SCORE** | SCORE | Doomsbae |
-| **We love decaying** | **SCORE** | SCORE | Doomsbae |
-
-#### Group L
-
-| Team 1 |  |  | Team 2 | Match info |
-| --: | :-: | :-: | :-- | :-- |
-| Cya Karthy | SCORE | **SCORE** | **OPJames is bad** |  |
-| **Cya Karthy** | **SCORE** | SCORE | Logang (Dab) |  |
-| **OPJames is bad** | **SCORE** | SCORE | Logang (Dab) | *forfeit* |
-
-#### Group M
-
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| **Blood Brothers** | **SCORE** | SCORE | Under the C-C-Choke |
-| **Blood Brothers** | **SCORE** | SCORE | keep on click and you'll win |
-| **Under the C-C-Choke** | **SCORE** | SCORE | keep on click and you'll win |
-
-#### Group N
-
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| **Tetanus** | **SCORE** | SCORE | VGA AR11 |
-| **Tetanus** | **SCORE** | SCORE | sk8 fast eat ass |
-| **VGA AR11** | **SCORE** | SCORE | sk8 fast eat ass |
-
-#### Group O
-
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| **Nomod since 2014** | **SCORE** | SCORE | Help! I'm stuck in Undertale |
-| **Nomod since 2014** | **SCORE** | SCORE | DTea |
-| **Help! I'm stuck in Undertale** | **SCORE** | SCORE | DTea |
-
-#### Group P
-
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
-| **We're Good At Hidden** | **SCORE** | SCORE | E G G S |
-| **We're Good At Hidden** | **SCORE** | SCORE | NoStrategy |
-| **E G G S** | **SCORE** | SCORE | NoStrategy |
+- Referees will create the lobby 10 minutes before the match is due to start.
+- If a team fails to show up at the time of the match starting, a 10 minute timer will be started.
+- If after the 10 minutes a team fails to show up, then the default win will go to the other player.
+- When both teams are in the lobby and ready, the referee will ask the players to !roll. The order of picks of bans is decided using the [UKCC 4 roll system](https://i.imgur.com/S0VIvni.png).
+- There will be no warmups in the Group Stage. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less.
+- For warmups, **Head to Head** will be used. **Team Vs** will be used in the actual match.
+- For Freemod picks, players must select any combination of the following mods: **Hidden, HardRock**. Only one player from each team must select a mod.
+- Each team is allowed one ban in group stages. Afterwards, this will increase to two bans
+- Teams have **2 minutes** to ban a map. Failure to ban a map within this time limit results in a lost ban.
+- Teams have **2 minutes** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing team.
+- Tiebreakers are FreeMod, however No Mod can be used.
+- The referee is not allowed to participate in the match.
 
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
