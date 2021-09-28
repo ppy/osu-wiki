@@ -236,7 +236,7 @@ Many of TenyO's maps are pretty challenging, and as the difficulty name of this 
 
 [![](/wiki/shared/news/2021-09-26-project-loved-september-2021/832873.jpg)](https://osu.ppy.sh/community/forums/topics/1429923)
 
-[League of Legends - Warriors (feat. Imagine Dragons)](https://osu.ppy.sh/beatmapsets/832873#fruits) by [Minato Yukina](https://osu.ppy.sh/users/531253)\
+[Imagine Dragons - Warriors](https://osu.ppy.sh/beatmapsets/832873#fruits) by [Minato Yukina](https://osu.ppy.sh/users/531253)\
 156 BPM, 2:44 | 1.41★ – 7.19★\
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
