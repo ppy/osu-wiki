@@ -44,7 +44,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 | Mappool selector | ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496), ![][flag_LT] [Mazzerin](https://osu.ppy.sh/users/2942381), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) |
 | Mappool quality assurance | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097), ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) |
 | Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [Monk The Don](https://osu.ppy.sh/users/4012086), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
-| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
@@ -192,6 +192,7 @@ The osu! World Cup 2021 is run by the osu! team and various community members.
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
