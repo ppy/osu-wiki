@@ -70,7 +70,7 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksI
   - [katagiri - Naopura2000 -Daybreak- (xidorn) [the second]](https://osu.ppy.sh/beatmapsets/1523775#osu/3117956)
 - Hidden
   - [Kawada Mami - Serment (Flame Haze) [Reason]](https://osu.ppy.sh/beatmapsets/1125776#osu/2911065)
-  - [IOSYS - CAMELLIA! \~Dangerous Camellia Vacation\~ (niii_san) [Lunatic]](https://osu.ppy.sh/beatmapsets/1403393#osu/2894759)
+  - [IOSYS - CAMELLIA! \~Dangerous Camellia Vacation\~ (niii\_san) [Lunatic]](https://osu.ppy.sh/beatmapsets/1403393#osu/2894759)
   - [BlackY feat. Risa Yuzuki - Stellalude (Hinsvar) [Prayer]](https://osu.ppy.sh/beatmapsets/1515209#osu/3102195)
 - HardRock
   - [fourfolium - Hosshii no! (Kisses) [Reset!]](https://osu.ppy.sh/beatmapsets/586877#osu/1476903)
