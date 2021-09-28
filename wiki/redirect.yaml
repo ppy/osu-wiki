@@ -469,6 +469,11 @@
 "copyright":                   "Legal/Copyright"
 "tos":                         "Legal/Terms"
 "legal/tos":                   "Legal/Terms"
+"privacy":                     "Legal/Privacy"
+"privacy_policy":              "Legal/Privacy"
+"music_licencing":             "Legal/Music_Licensing"
+"music_licensing":             "Legal/Music_Licensing"
+
 
 "mapping_technique":                      "Mapping_Techniques"
 "map_techs":                              "Mapping_Techniques"
@@ -790,6 +795,8 @@
 
 "tourney":                     "osu!tourney"
 
+"wiki":                                             "osu!_wiki"
+"wiki_help":                                        "osu!_wiki/Maintenance#routines"
 "osu!wiki_contribution_guide":                      "osu!_wiki/Contribution_guide"
 "owcg":                                             "osu!_wiki/Contribution_guide"
 "osu!wiki_contribution_guide/common_issues":        "osu!_wiki/Contribution_guide/Common_Issues"
@@ -1024,6 +1031,9 @@
 "bad_behaviour":                              "Reporting_Bad_Behaviour"
 "report":                                     "Reporting_Bad_Behaviour"
 "reporting":                                  "Reporting_Bad_Behaviour"
+"abuse":                                      "Reporting_Bad_Behaviour/Abuse"
+"reporting_abuse":                            "Reporting_Bad_Behaviour/Abuse"
+"report_abuse":                               "Reporting_Bad_Behaviour/Abuse"
 "handling_foul_play":                         "Reporting_Bad_Behaviour/Handling_Foul_Play"
 "foul_play":                                  "Reporting_Bad_Behaviour/Handling_Foul_Play"
 "handling_cheating":                          "Reporting_Bad_Behaviour/Handling_Foul_Play"
@@ -1034,6 +1044,7 @@
 "rule":                        "Rules"
 "osu!:rules":                  "Rules"
 "content_voting":              "Rules/Content_Voting_Process"
+"content_usage":               "Rules/Content_Usage_Guidelines"
 "content_licencing":           "Rules/Content_Usage_Guidelines"
 "content_licensing":           "Rules/Content_Usage_Guidelines"
 "licencing":                   "Rules/Content_Usage_Guidelines"
@@ -1043,6 +1054,7 @@
 "song_content":                "Rules/Song_Content_Rules"
 "songs_content":               "Rules/Song_Content_Rules"
 "vcc":                         "Rules/Visual_Content_Considerations"
+"visual_content":              "Rules/Visual_Content_Considerations"
 
 "scorev1":                     "Score/ScoreV1"
 "scorev2":                     "Score#scorev2"
@@ -1206,6 +1218,8 @@
 
 "tmc":                            "Tournament_Management_Commands"
 
+"tournament_support":          "Tournaments/Official_support"
+"tournaments_support":         "Tournaments/Official_support"
 "cpot": "Tournaments/Countries_that_participated_in_osu!_tournaments"
 
 "owc":                         "Tournaments#-osu!-world-cup"
