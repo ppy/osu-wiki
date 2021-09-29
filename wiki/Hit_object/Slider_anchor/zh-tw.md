@@ -11,6 +11,7 @@ tags:
   - 錨點
   - control points
   - 控制點
+no_native_review: true
 ---
 
 # 滑條錨點
