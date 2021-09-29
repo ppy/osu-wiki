@@ -2,6 +2,7 @@
 stub: true
 tags:
   - sliderend
+no_native_review: true
 ---
 
 # 滑條尾端
