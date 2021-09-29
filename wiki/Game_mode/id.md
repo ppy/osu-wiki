@@ -1,23 +1,26 @@
----
-outdated: true
-outdated_since: 92d9c98fac5191ce3931d830ca40dbaa3e3a0094
----
-
 # Mode permainan
 
-osu! memiliki empat **mode permainan** yang dapat kamu mainkan: [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch), dan [osu!mania](#-osu!mania). Keempat mode permainan tersebut memiliki mekanisme permainannya masing-masing yang terinspirasi dari berbagai permainan ritme lainnya yang ada di luar sana.
+osu! memiliki empat **mode permainan** dengan mekanik yang bereda, biasanya terinspirasi dari beberapa *rhythm game* yang lain
 
-Setiap mode permainan memiliki simbol/ikonnya masing-masing sebagai berikut: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] (yang secara berurutan melambangkan mode osu!, osu!taiko, osu!catch, dan osu!mania).
+- ![][osu!] [osu!](#-osu!)
+- ![][osu!taiko] [osu!taiko](#-osu!taiko)
+- ![][osu!catch] [osu!catch](#-osu!catch)
+- ![][osu!mania] [osu!mania](#-osu!mania)
 
-Secara *default*, kamu akan disambut oleh mode permainan yang terakhir kali dimainkan setiap kali kamu membuka klien osu!. Untuk dapat berpindah dari satu mode permainan ke mode permainan lainnya, kamu dapat menggunakan tombol `Mode` yang berada pada bagian bawah layar Song Selection atau menekan kombinasi tombol `Ctrl`+`1`, `Ctrl`+`2`, `Ctrl`+`3`, atau `Ctrl`+`4` untuk berpindah ke mode osu!, osu!taiko, osu!catch, atau osu!mania.
+Untuk beralih antar mode, klik tombol `Mode` di bagian bawah layar Pemilihan Lagu, atau gunakan kombinasi tombol berikut:
 
-![Tampilan antarmuka layar pemilihan mode permainan](/wiki/shared/Interface_mode.png "Tampilan antarmuka layar pemilihan mode permainan")
+- `Ctrl` + `1` untuk osu!
+- `Ctrl` + `2` untuk osu!taiko
+- `Ctrl` + `3` untuk osu!catch
+- `Ctrl` + `4` untuk osu!mania
+
+![Mode selection interface](/wiki/shared/Interface_mode.png "Mode selection interface")
 
 ## ![][osu!] osu!
 
 *Laman utama: [osu!](osu!)*
 
-*osu!* merupakan mode permainan utama yang dimiliki oleh osu!. Mode permainan ini didasarkan pada permainan *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* yang dirilis oleh [iNiS](https://en.wikipedia.org/wiki/INiS). Dalam mode permainan ini, kamu dituntut untuk dapat mengenai semua circle, slider, dan spinner yang ada mengikuti irama lagu.
+*osu!* adalah mode utama, dimana pemain diharapkan untuk menekan lingkaran, menggser slider, dan memutar spinner dengan mengikuti irama musik. Ini berdasarkan pada [iNiS](https://en.wikipedia.org/wiki/INiS)' *rhythm game [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. osu! mempunyai maskot tersendiri yang diberi nama [pippi](/wiki/Mascots#-pippi), seorang gadis berambut pink/hitam.
 
 ![Tampilan permainan osu!](/wiki/shared/osu-gameplay.jpg "Permainan osu!")
 
@@ -25,7 +28,7 @@ Secara *default*, kamu akan disambut oleh mode permainan yang terakhir kali dima
 
 *Laman utama: [osu!taiko](osu!taiko)*
 
-*osu!taiko* merupakan mode permainan yang didasarkan pada seri permainan *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* yang dirilis oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment). Dalam mode permainan yang dibuat untuk menyerupai permainan drum ini, kamu dituntut untuk dapat mengenai not-not yang muncul pada layar sesuai dengan indikator warnanya masing-masing. 
+*osu!taiko* mensimulasikan proses memainkan drum secara nyata, yang di mana para pemain menggunakan keyboard atau drum kit untuk menekan lingkaran berwarna berbeda pada satu konveyor. Hal ini didasarkan pada *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* serial game yang diproduksi oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment). Maskot dari osu!taiko adalah [Mocha](/wiki/Mascots#-mocha), seorang gadis berambut hijau menggunakan kimono dan memegang stik drum.
 
 ![Tampilan permainan osu!taiko](/wiki/shared/taiko-gameplay.jpg "Permainan osu!taiko")
 
@@ -33,7 +36,7 @@ Secara *default*, kamu akan disambut oleh mode permainan yang terakhir kali dima
 
 *Laman utama: [osu!catch](osu!catch)*
 
-*osu!catch* merupakan mode permainan yang didasari pada *minigame EZ2CATCH* yang dipopulerkan oleh seri permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) dan beberapa simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania) lainnya. Dalam mode permainan ini, kamu dituntut untuk dapat menangkap buah-buah yang jatuh dari bagian atas layar permainan dengan menggunakan “*catcher*” yang kamu miliki.
+Di *osu!catch* buah yang bervariasi jatuh dari atas layar, dan para pemain harus menangkapnya untuk mengikuti irama. Untuk tujuan ini mereka mengendalikan seorang [*catcher*](/wiki/Mascots#-yuzu) dengan piring di atas kepala mereka untuk menangkap buah-buahan tersebut. Mode ini dirancang berdasarkan sebuah minigame yang ada pada simulai permainan [Beatmania](https://en.wikipedia.org/wiki/Beatmania), yang mana juga berdasarkan pada mode *EZ2CATCH* dari serial permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Maskot dari osu!catch adalah [Yuzu](/wiki/Mascots#-yuzu), seorang anak laki-laki berambut biru.
 
 ![Tampilan permainan osu!catch](/wiki/shared/catch-gameplay.jpg "Permainan osu!catch")
 
@@ -41,7 +44,7 @@ Secara *default*, kamu akan disambut oleh mode permainan yang terakhir kali dima
 
 *Laman utama: [osu!mania](osu!mania)*
 
-*osu!mania* merupakan mode permainan yang didasari pada konsep permainan VSRG (vertical-scrolling rhythm game) pada umumnya, seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) dan Beatmania. Dalam mode permainan yang pada awalnya dirancang oleh [woc2006](https://osu.ppy.sh/users/1105845) ini, kamu dituntut untuk dapat menekan tombol-tombol pada keyboard sesuai dengan laju perguliran not-not yang ada pada layar permainan.
+*osu!mania* merupakan mode permainan yang didasari pada konsep permainan VSRG (vertical-scrolling rhythm game) mode yang dirancang sebagai simulasi piano. Itu [diperkenalkan dan diimplementasikan](https://osu.ppy.sh/community/forums/topics/100751) oleh [woc2006](https://osu.ppy.sh/users/1105845), dan didasarkan pada berbagai permainan *rhythm game* tipe konveyor (seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) and [Beatmania](https://en.wikipedia.org/wiki/Beatmania)).
 
 ![Tampilan permainan osu!mania](/wiki/shared/mania-gameplay.jpg "Permainan osu!mania")
 
