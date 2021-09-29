@@ -2,11 +2,8 @@
 tags:
 - hit objects
 - 打擊物件
+no_native_review: true
 ---
-
-<!-- TODO: should also have articles for each hit object -->
-
-<!-- TODO: other games modes? =( -->
 
 # 打擊物件
 
@@ -22,5 +19,3 @@ tags:
 從程式碼的角度來看，osu!mania 中的長條並不等於 osu! 中的滑條，但為了簡化，在上表中他們被分類在一起。其他無法在遊玩過程中互動的元件，像是血條或是 Kiai 星星，將被視為提升遊戲體驗或是介面的一部份。
 
 在 osu! 中，與其他打擊物件相比，下一個要點擊的打擊圓圈或滑條會以較高的亮度提示玩家，然而， 當[縮圈速度](/wiki/Beatmapping/Approach_rate)過高時，此提示將不再可見。
-
-<!-- TODO: Add links to other articles when they're available -->
