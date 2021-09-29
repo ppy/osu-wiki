@@ -126,7 +126,7 @@ The UK Community Cup 4 was run by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Player |
+| Placing | Team |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **One Thrust Men** (![][flag_GB] [[Bloo]](https://osu.ppy.sh/users/6778877), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Sorry Bubble** (![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262), ![][flag_GB] [OskaRRRitoS](https://osu.ppy.sh/users/7051163)) |
@@ -293,7 +293,7 @@ This competition has come to an end and resulted in the following podium:
   - [Amatsuki - Higurashi Moratorium (HelloSCV) [Insane]](https://osu.ppy.sh/beatmapsets/94506#osu/254332)
 - DoubleTime
   - [Taylor Swift - Better Than Revenge (Larto) [Insane]](https://osu.ppy.sh/beatmapsets/24224#osu/83059)
-  - [a_hisa - Fairy Dance (Priti) [Heavy]](https://osu.ppy.sh/beatmapsets/151219#osu/372835)
+  - [a\_hisa - Fairy Dance (Priti) [Heavy]](https://osu.ppy.sh/beatmapsets/151219#osu/372835)
   - [Shano x 40mp Natsukoi Hanabi (Frostmourne) [Insane]](https://osu.ppy.sh/beatmapsets/104172#osu/274085)
 - FreeMod
   - [ZUN - Dark Side of Fate (Muya) [Lunatic]](https://osu.ppy.sh/beatmapsets/16223#osu/58243)
@@ -302,12 +302,12 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[himmel feat. YooSanHyakurei - Seraphim (aliv) [Lapis Lazuli]](https://osu.ppy.sh/beatmapsets/694385#osu/1469103)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [ZUN - The Venerable Ancient Battlefield \~ Suwa Foughten Field (sjoy) [Extra]](https://osu.ppy.sh/beatmapsets/100444#osu/266778)
   - [kors k feat. Furukawa Mirin - Drive Me Crazy (Amamiya Yuko) [Extra]](https://osu.ppy.sh/beatmapsets/76372#osu/313899)
-  - [Amane - Roaddoggz (Deijirum) [Lunatic]](https://puu.sh/IaUsd/e61b528afe.osz "puush")
+  - [Amane - Roaddoggz (Deijirum) [Lunatic]](https://puu.sh/IaUsd/e61b528afe.osz)
   - [Hanatan - Tengaku (Rakuen) [Natsu's Insane]](https://osu.ppy.sh/beatmapsets/220785#osu/533634)
 - Hidden
   - [AKINO with bless4 - EXTRA MAGIC HOUR (Kawaiwkyik) [Insane]](https://osu.ppy.sh/beatmapsets/228619#osu/532338)
@@ -623,7 +623,7 @@ See the [Group stage results sheet](https://docs.google.com/spreadsheets/d/e/2PA
 - Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
 - If a match needs rescheduling to a time after a related losers’ bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
 
-### Match Rules
+### Match rules
 
 - Referees will create the lobby 10 minutes before the match is due to start.
 - If a team fails to show up at the time of the match starting, a 10 minute timer will be started.
