@@ -189,15 +189,15 @@ Saturday, 25 September 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Keisuu](https://osu.ppy.sh/users/3856673) | [#1](https://osu.ppy.sh/community/matches/91450519) |
 | Lower | **[Ruu](https://osu.ppy.sh/users/3212755)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | [#1](https://osu.ppy.sh/community/matches/91459819) |
-| Lower | | [Sololiquy](https://osu.ppy.sh/users/4350087) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | [#1](https://osu.ppy.sh/community/matches/91448402) |
-| Lower | | [CamXDanna](https://osu.ppy.sh/users/3243148) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/91456664) |
+| Lower | [Sololiquy](https://osu.ppy.sh/users/4350087) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | [#1](https://osu.ppy.sh/community/matches/91448402) |
+| Lower | [CamXDanna](https://osu.ppy.sh/users/3243148) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/91456664) |
 
 Sunday, 26 September 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[Keisuu](https://osu.ppy.sh/users/3856673)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | [#1](https://osu.ppy.sh/community/matches/91509582) |
-| Lower | | [XxepandevanxX](https://osu.ppy.sh/users/13194580) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755)** | [#1](https://osu.ppy.sh/community/matches/91448402) |
+| Lower | [XxepandevanxX](https://osu.ppy.sh/users/13194580) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755)** | [#1](https://osu.ppy.sh/community/matches/91448402) |
 
 Monday, 26 September 2021:
 
