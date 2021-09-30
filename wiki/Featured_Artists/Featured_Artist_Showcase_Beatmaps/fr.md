@@ -425,6 +425,7 @@ Comme la Guilde elle-même fonctionnait sur une entrée fermée, basée sur les 
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
 [flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lituanie"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
