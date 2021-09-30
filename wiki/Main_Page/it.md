@@ -2,8 +2,6 @@
 layout: main_page
 ---
 
-<!-- Do not add any empty lines inside this div. -->
-
 <div class="wiki-main-page__blurb">
 Benvenuto alla wiki di osu!, la base delle conoscenze contenente un'ampia gamma di informazioni su osu!, un gioco di ritmo free-to-win.
 </div>
@@ -47,7 +45,7 @@ Tutto riguardo al cliccare cerchi, colpire tamburi, raccogliere frutta, e suonar
 # [Editor di beatmap](/wiki/Beatmap_Editor)
 
 Tutte le beatmap di osu! sono create dall'immaginazione in fiore della sua comunità dinamica. Sempre voluto condividere la tua musica preferita con altri, ma mai saputo come? Familiarizza con l'editor integrato e le opportunità che ha da offrire.
-  
+
 Sezioni: [Componi](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Tempo](/wiki/Beatmap_Editor/Timing) • [Setup brano](/wiki/Beatmap_Editor/Song_Setup)
 
 Componenti: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divisore di beat](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Snap di distanza](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [Carico SB](/wiki/Beatmap_Editor/SB_Load) • [Timeline](/wiki/Beatmap_Editor/Timelines)
@@ -129,7 +127,7 @@ Interagisci con osu! tramite altre applicazioni e media, o aiutalo a crescere ol
 
 # Wiki e pagine meta
 
-Come quasi tutto il resto là fuori, la wiki di osu! è scritta e mantenuta da volontari. Suggerisci un miglioramento, segnala un problema, o scrivi un tuo articolo sulla [repository di GitHub osu!wiki](https://github.com/ppy/osu-wiki "osu! wiki at GitHub").
+Come quasi tutto il resto là fuori, la wiki di osu! è scritta e mantenuta da volontari. Suggerisci un miglioramento, segnala un problema, o scrivi un tuo articolo sulla [repository di GitHub osu!wiki](https://github.com/ppy/osu-wiki).
 
 [Storia di osu!](/wiki/History_of_osu!) • [Storia della wiki di osu!](/wiki/History_of_osu!/osu!_wiki) • [Timeline del mapping e del modding](/wiki/Mapping_and_Modding_Timeline) • [Pesci d'aprile](/wiki/History_of_osu!/April_Fools)
 
