@@ -39,6 +39,7 @@ ICC 2021 is run by various osu! community members predominantly hailing from Ind
 | Host | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
 | Co-host | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751) |
 | Mappool selector | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| Playtester | ![][flag_ID] [Emilia-Satella](https://osu.ppy.sh/users/1096240), ![][flag_DE] [Gln_Markus](https://osu.ppy.sh/users/8811229), ![][flag_CL] [Pekorrat](https://osu.ppy.sh/users/1250096), ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598), ![][flag_KR] [Abstract-](https://osu.ppy.sh/users/3097304) |
 | Streamer | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336), ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
 | Commentator | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122) |
 | Referee | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [liykun](https://osu.ppy.sh/users/9500057), ![][flag_TH] [Azuria](https://osu.ppy.sh/users/16102533) |
@@ -143,6 +144,38 @@ Listed below are the players who were admitted into the Group stage along with t
   - **[Chata - Nocte of desperatio (Giralda) \[Walpurgisnacht\]](https://osu.ppy.sh/beatmapsets/178685#fruits/429789)**
 
 ## Match results
+
+### Quarterfinals
+
+Friday, 24 September 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Sololiquy](https://osu.ppy.sh/users/4350087) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** | [#1](https://osu.ppy.sh/community/matches/91399776) |
+| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | [#1](https://osu.ppy.sh/community/matches/91394509) |
+| Upper | [Ruu](https://osu.ppy.sh/users/3212755) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/91396522) |
+
+Saturday, 25 September 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Keisuu](https://osu.ppy.sh/users/3856673) | [#1](https://osu.ppy.sh/community/matches/91450519) |
+| Lower | **[Ruu](https://osu.ppy.sh/users/3212755)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | [#1](https://osu.ppy.sh/community/matches/91459819) |
+| Lower | | [Sololiquy](https://osu.ppy.sh/users/4350087) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | [#1](https://osu.ppy.sh/community/matches/91448402) |
+| Lower | | [CamXDanna](https://osu.ppy.sh/users/3243148) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/91456664) |
+
+Sunday, 26 September 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Keisuu](https://osu.ppy.sh/users/3856673)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | [#1](https://osu.ppy.sh/community/matches/91509582) |
+| Lower | | [XxepandevanxX](https://osu.ppy.sh/users/13194580) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755)** | [#1](https://osu.ppy.sh/community/matches/91448402) |
+
+Monday, 26 September 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Keisuu](https://osu.ppy.sh/users/3856673)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/91525881) |
 
 ### Round of 16
 
@@ -272,6 +305,9 @@ Sunday, 12 September 2021:
 4. In case of a tiebreaker, **the tiebreaker beatmap will be played without any mods enabled** (NoMod).
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
