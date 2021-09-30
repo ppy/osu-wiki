@@ -348,10 +348,49 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
   - (![][osu!mania]) [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1126358) organisé par ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)
 - **[yukitani](https://osu.ppy.sh/home/news/2021-05-22-new-featured-artist-yukitani)** (22/05/2021)
   - (![][osu!taiko]) [yukitani - Amusing Reflection Rag.](https://osu.ppy.sh/beatmapsets/1436446) organisé par ![][flag_AR] [Reficul](https://osu.ppy.sh/users/1506011)
+- **[Sewerslvt](https://osu.ppy.sh/home/news/2021-05-29-new-featured-artist-sewerslvt)** (29/05/2021)
+  - (![][osu!taiko]) [Sewerslvt - Newlove](https://osu.ppy.sh/beatmapsets/1442626) organisé par ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+
+### Juin
+
+- **[La priere](https://osu.ppy.sh/home/news/2021-06-16-new-featured-artist-la-priere)** (16/06/2021)
+  - (![][osu!]) [La prière - Senjou no Utahime](https://osu.ppy.sh/beatmapsets/1398580) organisé par ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!]) [La prière - Kyouzou no Canon](https://osu.ppy.sh/beatmapsets/1475603) organisé par ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
+- **[katagiri](https://osu.ppy.sh/home/news/2020-06-23-new-featured-artist-katagiri)** (23/06/2021)
+  - (![][osu!catch]) [katagiri - Urushi](https://osu.ppy.sh/beatmapsets/1482723) organisé par ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+- **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (26/06/2021)
+  - (![][osu!]) [Andromedik x Itro x Polygon - Fly](https://osu.ppy.sh/beatmapsets/1470255) organisé par ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
+
+### Juillet
+
+- **[Fred V & Grafix](https://osu.ppy.sh/home/news/2021-07-10-new-featured-artist-fred-v-grafix)** (10/07/2021)
+  - (![][osu!]) [Fred V & Grafix - Ignite (feat. Amy J Pryce)](https://osu.ppy.sh/beatmapsets/1443360) organisé par ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)
+- **[Aoi](https://osu.ppy.sh/home/news/2021-07-21-new-featured-artist-aoi)** (21/07/2021)
+  - (![][osu!]) [Aoi a.k.a. ALFOU](https://osu.ppy.sh/beatmapsets/1248102) organisé par ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
+  - (![][osu!taiko]) [Aoi vs. siqlo - Hacktivism](https://osu.ppy.sh/beatmapsets/1488148) organisé par ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][osu!taiko]) [Aoi - c.s.q.n.](https://osu.ppy.sh/beatmapsets/1492454) organisé par ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253)
+- **[seatrus](https://osu.ppy.sh/home/news/2021-07-28-new-featured-artist-seatrus)** (28/07/2021)
+  - (![][osu!]) [seatrus - TH3 5UMMONERS](https://osu.ppy.sh/beatmapsets/1497954) organisé par ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623)
+  - (![][osu!taiko]) [seatrus - efchi](https://osu.ppy.sh/beatmapsets/1461343) organisé par ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649)
+- **[SEBii](https://osu.ppy.sh/home/news/2021-07-31-new-featured-artist-sebii)** (31/07/2021)
+  - (![][osu!catch]) [SEBii - Play Poker Remix (w/ Maple)](https://osu.ppy.sh/beatmapsets/1512572) organisé par ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164)
+
+### Août
+
+- **[T & Sugah](https://osu.ppy.sh/home/news/2021-08-07-new-featured-artist-t-and-sugah)** (07/08/2021)
+  - (![][osu!]) [T & Sugah - Days Away (feat. Voicians)](https://osu.ppy.sh/beatmapsets/1519300) organisé par ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033)
+  - (![][osu!]) [T & Sugah x Zazu - Lost On My Own](https://osu.ppy.sh/beatmapsets/1511518) organisé par ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+  - (![][osu!]) [T & Sugah - Wicked Days](https://osu.ppy.sh/beatmapsets/1496811) organisé par ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+- **[Natsume Itsuki](https://osu.ppy.sh/home/news/2021-08-11-new-featured-artist-natsume-itsuki)** (11/08/2021)
+  - (![][osu!]) [Natsume Itsuki - Mayday](https://osu.ppy.sh/beatmapsets/1506697) organisé par ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!]) [Natsume Itsuki - AI to CodeQ no Hate](https://osu.ppy.sh/beatmapsets/1515036) organisé par ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!]) [Natsume Itsuki - Miniascape](https://osu.ppy.sh/beatmapsets/1509856) organisé par ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
+- **[rN](https://osu.ppy.sh/home/news/2021-08-14-new-featured-artist-rn)** (14/08/2021)
+  - (![][osu!]) [rN - My Dearest Nightmare](https://osu.ppy.sh/beatmapsets/1542543) organisé par ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
 - **[technoplanet](https://osu.ppy.sh/home/news/2021-08-25-new-featured-artist-technoplanet)** (25/08/2021)
   - (![][osu!]) [technoplanet feat. chamo - Tepic Tepoch](https://osu.ppy.sh/beatmapsets/1551369) organisé par ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311)
-  - (![][osu!taiko]) [technoplanet - Megastructure \[Extended Mix\]](https://osu.ppy.sh/beatmapsets/1499443) hosted by ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484)
- - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) organisé par ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)     
+  - (![][osu!taiko]) [technoplanet - Megastructure \[Extended Mix\]](https://osu.ppy.sh/beatmapsets/1499443) organisé par ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484)
+  - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) organisé par ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)     
 - **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (28/08/2021)
   - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) organisé par ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
