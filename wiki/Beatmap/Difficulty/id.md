@@ -9,20 +9,20 @@ tags:
 
 # Tingkat kesulitan
 
-*Berbeda dengan [Beatmap](/wiki/Beatmap).*
+*Berbeda konteks dengan [Beatmap](/wiki/Beatmap).*
 
-Sebuah **tingkat kesulitan beatmap** adalah sebuah level permainan, yang dimana tersimpan secara teks file [dengan ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Terdiri dari [game mode](/wiki/Game_mode), yang diatur sesuai dengan [timing](/wiki/Beatmapping/Timing_section) Berkas-berkas ini merupakan bentuk manifestasi dari level-level permainan yang ada dan berisikan antara lain informasi seputar [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) yang terkait serta [timing](/wiki/Beatmapping/Timing_section) yang disesuaikan dengan lagu spesifik. Tingkat kesulitan memiliki aspek yang berbeda, yang secara langsung mempengaruhi pengalaman pemain. Nama tingkat kesulitan dan [*star rating*](/wiki/Beatmapping/Star_rating) biasanya memberikan cukup informasi untuk menceritakan betapa menantangnya itu.
+Sebuah **tingkat kesulitan beatmap** adalah sebuah level permainan yang tersimpan dalam bentuk teks dalam sebuah file dengan [ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Masing-masing level berisikan [hit object](/wiki/Hit_object) berdasarkan [mode permainan](/wiki/Game_mode) terkait yang diatur sesuai dengan [waktu (*timing*)](/wiki/Beatmapping/Timing_section) yang telah ditentukan. Masing-masing tingkat kesulitan memiliki aspek yang berbeda, yang secara langsung dapat mempengaruhi pengalaman pemain. Nama dari sebuah tingkat kesulitan dan [*star rating*](/wiki/Beatmapping/Star_rating) biasanya memberikan cukup informasi bagi pemain, apakah ini menantang atau tidak.
 
-Hit object dari sebuah tingkat kesulitan menyusun sebuah [pola](/wiki/Beatmap/Pattern), yang juga bervariasi per mode permainan dan mengatur nada untuk tampilan dan nuansa keseluruhan tentang bagaimana kesulitan harus dimainkan. Permainan dari sebuah tingkat kesulitan beatmap juga dapat diubah oleh berbagai [pengaturan kesulitan](/wiki/Beatmap_Editor/Song_Setup#difficulty) yang diatur oleh pemilik beatmap atau dialihkan dengan [*game modifier*](/wiki/Game_modifier).
+Hit object dari sebuah tingkat kesulitan disusun dalam sebuah [pola](/wiki/Beatmap/Pattern) yang bervariasi pada masing-masing mode permainan dan diatur sesuai dengan nada sehingga mewakili tampilan dan perasaan secara keseluruhan saat sedang dimainkan. Permainan dari sebuah tingkat kesulitan beatmap juga dapat diubah melalui [pengaturan kesulitan](/wiki/Beatmap_Editor/Song_Setup#difficulty) yang diatur oleh pemilik beatmap atau diubah dengan menggunakan [*game modifier*](/wiki/Game_modifier).
 
-Dari perspektif pendengar, sebuah tingkat kesulitan dapat menambah lagu dengan satu atau beberapa set sample audio, atau [*hitsound*](/wiki/Beatmapping/Hitsound) yang berfungsi sebagai masukan
+Dari perspektif pendengar, sebuah tingkat kesulitan dapat memperkuat lagu dengan menambahkan satu atau beberapa set sampel audio, atau [*hitsound*](/wiki/Beatmapping/Hitsound) yang berfungsi sebagai umpan balik saat sedang bermain.
 
 <!-- TODO: this description of visuals needs to be improved:
   - a separate section;
   - a very small paragraph on every key component, including those from Beatmap#overview;
 -->
 
-[Komponen visual](/wiki/Beatmap) dari sebuah tingkat kesulitan, berbeda dengan polanya, memberikan sebuah pengalaman tambahan selama bermain dan dapat dinonaktifkan di [*Visual setting*](/wiki/Visual_Settings) untuk sebagian besar. Sementara beberapa diantaranya, seperti [*storyboard*](/wiki/Storyboard) atau [*custom skin*](/wiki/Skinning), dari sebuah beatmap secara keseluruhan, sebagian besar komponen visual dapat bervariasi per tingkat kesulitan (sebagai contoh, bagian [kiai](/wiki/Kiai_time) dan [*combo colours*](/wiki/Glossary/Combo_colour)).
+[Komponen visual](/wiki/Beatmap) dari sebuah tingkat kesulitan berbeda dengan polanya, dan dapat memberikan pengalaman tambahan selama bermain. Komponen visual tersebut sebagian besar dapat dinonaktifkan melalui menu [*visual setting*](/wiki/Visual_Settings). Sementara itu, beberapa diantaranya seperti [*storyboard*](/wiki/Storyboard) atau [*custom skin*](/wiki/Skinning) dari sebuah beatmap secara keseluruhan, sebagian besar komponen visual tersebut dapat bervariasi pada masing-masing tingkat kesulitan (contohnya, bagian [kiai](/wiki/Kiai_time) dan [warna kombo](/wiki/Glossary/Combo_colour)).
 
 ## Nama-nama tingkat kesulitan
 
@@ -68,11 +68,11 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 
 ## Star rating
 
-Mulai dari 27 Juli 2021, osu! website secara otomatis menetapkan sebuah warna tingkat kesulitan beatmap berdasarkan kepada peringkat *star rating* yang merujuk kepada spektrum berikut
+Mulai dari 27 Juli 2021, situs web osu! secara otomatis menetapkan warna pada sebuah tingkat kesulitan beatmap berdasarkan *star rating* yang merujuk kepada spektrum berikut:
 
 ![osu! difficulty rating colour spectrum](img/osu-difficulty-spectrum.png)
 
-Dalam beberapa kasus, seperti [*AIMod*](/wiki/Beatmap_Editor/AiMod), tingkat kesulitan dikelompokkan dalam enam rentang level berdasarkan *star rating* sebagai berikut
+Dalam beberapa kasus, seperti [*AIMod*](/wiki/Beatmap_Editor/AiMod), tingkat kesulitan dikelompokkan dalam enam rentang level berdasarkan *star rating* sebagai berikut:
 
 - ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
@@ -81,4 +81,4 @@ Dalam beberapa kasus, seperti [*AIMod*](/wiki/Beatmap_Editor/AiMod), tingkat kes
 - ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ atau lebih
 
-Perhatikan bahwa sementara tingkat kesulitan yang dimaksudkan dari sebagian besar beatmap yang cocok dengan warna atau rentang level yang diberikan, beberapa mungkin menyimpang secara signifikan karena faktor-faktor tertentu. Inilah mengapa [*ranking criteria*](/wiki/Ranking_Criteria) menawarkan aturan dasar yang lebih menentukan untuk menentukan tingkat kesulitan beatmap dan menyebar terlepas dari *star rating*-nya.
+Perlu diperhatikan bahwa terdapat beberapa tingkat kesulitan dari sebagian besar beatmap sesuai dengan warna atau rentang level yang diberikan, tetapi juga terdapat beberapa yang menyimpang secara signifikan karena faktor-faktor tertentu. Inilah mengapa [*ranking criteria*](/wiki/Ranking_Criteria) memberikan aturan dasar yang lebih sesuai untuk menentukan penamaan tingkat kesulitan beatmap dan pembagiannya tanpa harus terpaku dengan *star rating*-nya.
