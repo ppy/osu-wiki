@@ -5,6 +5,7 @@ tags:
   - kiai mode
   - tidsseksjon
   - kiai -modus
+no_native_review: true
 ---
 
 # Kiai -tid
