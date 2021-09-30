@@ -71,6 +71,34 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (116 MB)](https://drive.google.com/u/0/uc?id=1QhezIrutzzr1sF00YTg_LLYW7vy9Ch9o&export=download)**
+
+- NoMod
+  - [In Flames - Take This Life (LMT) \[End Me\]](https://osu.ppy.sh/beatmapsets/709296#fruits/1499387)
+  - [Project Grimoire - Aenbharr (Star Stream) \[Aonbharr\]](https://osu.ppy.sh/beatmapsets/1367187#fruits/2830966)
+  - [Poparzeni Kawa Trzy - Bylas dla mnie wszystkim (fartownik) \[Skubi's Poetry\]](https://osu.ppy.sh/beatmapsets/555030#fruits/1193512)
+  - [sakuraburst - dragonlands (Minorsonek) \[Pulchritudinous\]](https://osu.ppy.sh/beatmapsets/1009637#fruits/2113585)
+  - [Creo - Shape of the Sun (NeilPerry) \[Conflux\]](https://osu.ppy.sh/beatmapsets/1051126#fruits/2196768)
+- Hidden
+  - [REOL - VIP KID (Sparhten) \[Isolophobia\]](https://osu.ppy.sh/beatmapsets/1164168#fruits/2609556)
+  - [Ricky Montgomery - Line Without a Hook (Cheri) \[Expert\]](https://osu.ppy.sh/beatmapsets/1172523#fruits/2445615)
+  - [koushirou - Amata no Mai -Dance of many- (IOException) \[Expert\]](https://osu.ppy.sh/beatmapsets/1228557#fruits/2554582)
+  - [TOTAL OBJECTION - Higurashi Moratorium (rollpan) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/702512#fruits/1486534)  
+- HardRock
+  - [Falcom Sound Team jdk - Desert After Tears (Deca) \[lfj's Nightmare\]](https://osu.ppy.sh/beatmapsets/1150262#fruits/2524307)
+  - [S.F.A - Dienos Advento (Nathan) \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1085630#fruits/2367232)
+  - [BEMANI Sound Team "Nekomata Master" - The last of world music (LMT) \[Expert\]](https://osu.ppy.sh/beatmapsets/1060582#fruits/2220546)
+  - [ZUN - The Venerable Ancient Battlefield \~ Suwa Foughten Field (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/100444#fruits/266778)
+- DoubleTime
+  - [Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/22276#fruits/86324)
+  - [Tatsh - Lunatic Tears... (Tatsh Remix) (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/1460718#fruits/3001358)
+  - [Hiroyuki Sawano - BLOWIN' (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/560165#fruits/1185385)
+  - [Noisia - Groundhog (Beat Juggle) (Arphimigon) \[Pro\]](https://osu.ppy.sh/beatmapsets/475154#fruits/1130379)
+- Tiebreaker
+  - **[USAO - TAPIOCA (Realazy) \[Fury\]](https://osu.ppy.sh/beatmapsets/1267298#fruits/2633754)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (105 MB)](https://drive.google.com/u/0/uc?id=1rdBRZtIkpWYC7rKyRsEnChvf_PPWeu1n&export=download)**
