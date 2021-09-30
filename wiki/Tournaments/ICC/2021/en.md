@@ -76,9 +76,9 @@ Listed below are the players who were admitted into the Group stage along with t
 **[Download the mappack here! (116 MB)](https://drive.google.com/u/0/uc?id=1QhezIrutzzr1sF00YTg_LLYW7vy9Ch9o&export=download)**
 
 - NoMod
-  - [In Flames - Take This Life (LMT) \[End Me\]](https://osu.ppy.sh/beatmapsets/709296#fruits/1499387)
-  - [Project Grimoire - Aenbharr (Star Stream) \[Aonbharr\]](https://osu.ppy.sh/beatmapsets/1367187#fruits/2830966)
   - [Poparzeni Kawa Trzy - Bylas dla mnie wszystkim (fartownik) \[Skubi's Poetry\]](https://osu.ppy.sh/beatmapsets/555030#fruits/1193512)
+  - [Project Grimoire - Aenbharr (Star Stream) \[Aonbharr\]](https://osu.ppy.sh/beatmapsets/1367187#fruits/2830966)
+  - [In Flames - Take This Life (LMT) \[End Me\]](https://osu.ppy.sh/beatmapsets/709296#fruits/1499387)
   - [sakuraburst - dragonlands (Minorsonek) \[Pulchritudinous\]](https://osu.ppy.sh/beatmapsets/1009637#fruits/2113585)
   - [Creo - Shape of the Sun (NeilPerry) \[Conflux\]](https://osu.ppy.sh/beatmapsets/1051126#fruits/2196768)
 - Hidden
