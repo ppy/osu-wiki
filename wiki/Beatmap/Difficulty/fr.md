@@ -21,11 +21,6 @@ Les objets d'une difficulté composent des [motifs](/wiki/Beatmap/Pattern), qui 
 
 Du point de vue auditif, une difficulté peut augmenter la musique en fournissant un ou plusieurs ensembles d'échantillons audio, ou [hitsounds](/wiki/Beatmapping/Hitsound), qui servent de couche supplémentaire.
 
-<!-- TODO: this description of visuals needs to be improved:
-  - a separate section;
-  - a very small paragraph on every key component, including those from Beatmap#overview;
--->
-
 Les [composants visuels](/wiki/Beatmap) d'une difficulté, contrairement à ses motifs, fournissent une expérience auxiliaire pendant le jeu et peuvent être désactivés dans la superposition des [paramètres visuels](/wiki/Visual_Settings) pour la plupart. Si certains d'entre eux, comme les [storyboards](/wiki/Storyboard) ou les [skins personnalisés](/wiki/Skinning), appartiennent à l'ensemble de la beatmap, la plupart des composants visuels peuvent varier en fonction de la difficulté (par exemple, les sections [kiai time](/wiki/Kiai_time) et les [couleurs de combos](/wiki/Glossary/Combo_colour)).
 
 ## Niveaux de difficulté
