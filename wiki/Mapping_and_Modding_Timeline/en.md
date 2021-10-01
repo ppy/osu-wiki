@@ -458,7 +458,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### June
 
-- **2020-06-09:** [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines) article was added to the wiki and promoted in the [Beatmap Submission System](/wiki/Submission) to encourage appropriate permission for all assets in new beatmap submissions.
+- **2020-06-09:** The [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines) article was added to the wiki and promoted in the [Beatmap Submission System](/wiki/Submission) to encourage appropriate permission for all assets in new beatmap submissions.
 
 ### October
 
