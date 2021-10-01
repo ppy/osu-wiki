@@ -2,12 +2,9 @@
 tags:
   - accuracy
   - hit window
-  - notelock
   - OD
   - spinner difficulty
   - précision
-outdated: true
-outdated_since: 266a07fc271ddfef0dfd369697733a2c5835a124
 ---
 
 # Overall difficulty
@@ -26,7 +23,7 @@ Des valeurs d'OD plus élevées signifient une hit window plus courte pour frapp
 | 100 | `280ms - 16ms * OD` |
 | 300 | `160ms - 12ms * OD` |
 
-Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un miss.
+Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un miss. Si les hit windows de deux objets se chevauchent, le second objet sera inaccessible jusqu'à ce que le premier disparaisse à cause du [notelock](/wiki/Gameplay/Notelock).
 
 ## Sliders et spinners
 
@@ -37,10 +34,6 @@ L'overall difficulty affecte également les spinners, dans la mesure où il faut
 - OD < 5 : `5 - 2 * (5 - OD) / 5`
 - OD = 5 : `5`
 - OD > 5 : `5 + 2.5 * (OD - 5) / 5`
-
-## Notelock
-
-Dans osu!, le système de timing n'autorise pas qu'un objet soit frappé avant que l'objet précédent ne le soit (ou manqué après que la hit window soit passée). Cela peut conduire à des cas de **notelock** où les joueurs manqueront une note même s'ils la frappent parfaitement en rythme avec la musique. Cela se produit plus souvent sur les beatmaps avec de faibles valeurs d'OD, car les hit windows des objets se chevauchent plus fréquemment.
 
 ## Effets des mods
 
