@@ -490,14 +490,14 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2021-03-09:** In conjunction with the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines), an addition to the Ranking Criteria began requiring mappers to source their background images and other media in their descriptions.
 - **2021-03-15:** Requirements for re-joining the Beatmap Nominators were loosened.
-  - All applicants needed to undergo the application, but returning group members had shorter cooldown options and were allowed to provide 1-2 months of modding activity instead of the previous 3 month standard. <!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
+  - All applicants needed to undergo the application, but returning group members had shorter cooldown options and were allowed to provide 1-2 months of modding activity instead of the previous 3 month standard.<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
 - **2021-03-16:** Beatmap Nominators were given automatically renewing osu!supporter.
   - This change was made in response to a lack of incentives for dedicated members of the mapping scene. <!-- https://osu.ppy.sh/community/forums/topics/1268711?n=58 -->
-- **2021-03-16:** Ranked maps per day per mode limit increased from 8 to 10 to compensate for an overflowing Qualified beatmaps category.
+- **2021-03-16:** The limit of ranked maps per day per mode was increased from 8 to 10 to compensate for an overflowing Qualified beatmaps category.
 
 ### April
 
-- **2021-04-08:** Ranking Criteria Rule disallowing multiple Qualified beatmaps of the same song was removed.
+- **2021-04-08:** A Ranking Criteria Rule disallowing multiple Qualified beatmaps of the same song was removed.
   - Concerns about malicious disqualification practices were relieved by this change.
 
 ### May
@@ -506,7 +506,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
   - This trial only included osu! members and concluded in August.
   - A subset of Beatmap Nominators were given evaluation roles equal to the NAT, allowing them to contribute to and decide the outcomes of BN applications and current BN evaluations.
   - The first batch of trial members included ~10 users, while the second batch included ~20 users.
-- **2021-05-13:** Option to change difficulty owner was added to the Beatmap Discussion page. <!-- https://github.com/ppy/osu-web/pull/7517 -->
+- **2021-05-13:** An option to change difficulty owner was added to the Beatmap Discussion page. <!-- https://github.com/ppy/osu-web/pull/7517 -->
   - This allowed guest difficulty creators to resolve issues on their beatmaps. Only the mapset host could resolve issues prior to this change, which was a major frustration to mappers.
 
 ### June
