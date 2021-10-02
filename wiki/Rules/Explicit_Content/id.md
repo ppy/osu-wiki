@@ -4,7 +4,7 @@
 
 Para mapper dapat menyematkan label 'eksplisit' pada beatmap buatan mereka dengan cara memberikan tanda centang pada opsi `Konten Eksplisit` yang terdapat pada [menu pengaturan aliran dan bahasa lagu](/wiki/Beatmap/Genre_and_language) pada laman beatmap yang bersangkutan. Label ini utamanya digunakan untuk menandai bahwa beatmap yang dimaksud mengandung lagu yang jatuh ke dalam definisi "eksplisit" sebagaimana yang tertera di bawah ini.
 
-Meskipun demikian, keterdapatan label ini tidak berarti bahwa kamu dapat mengunggah segala jenis lagu ke osu! tanpa terkecuali - untuk amannya, pastikan bahwa lagu yang kamu gunakan telah sepenuhnya patuh pada [aturan konten musik yang berlaku](/wiki/Rules/Song_Content_Rules).
+Meskipun demikian, keterdapatan label ini tidak berarti bahwa kamu dapat mengunggah segala jenis lagu yang ada ke dalam osu! tanpa terkecuali - untuk amannya, pastikan bahwa lagu yang kamu gunakan telah sepenuhnya patuh pada [aturan konten musik yang berlaku](/wiki/Rules/Song_Content_Rules).
 
 ## Hal-hal apa saja yang termasuk ke dalam konten eksplisit?
 
