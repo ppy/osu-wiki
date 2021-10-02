@@ -44,7 +44,7 @@ After a few rounds of the original style of polling, Toy decided to use a slight
 
 <!-- TODO: Documentation of ~2018 and on -->
 
-In December 2020, development efforts for the official [Project Loved website](https://loved.sh/) began, and shortly after it was launched, merely as an admin page for the coordinators at first. By mid-2021, the website was made available for the rest of the team. Eventually, in August 2021, the Google forms and sheets used for beatmap submissions and viewing were fully deprecated and begun to be hosted on the website instead.
+While preparing the round of March 2021, most administrative tasks for Loved transitioned to using the [Project Loved website](https://loved.sh) created by ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350). The website later became a public-facing hub as well, replacing the various Google services with pages for [viewing submissions](https://loved.sh/submissions), [submitting new maps](https://loved.sh/submit), and [viewing mappers' consents to participate in Loved](https://loved.sh/mappers) by August.
 
 ## Present day
 
