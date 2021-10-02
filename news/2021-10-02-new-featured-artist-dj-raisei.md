@@ -23,25 +23,25 @@ On today's episode of *osu!'s Got Talent*, Japanese producer and [6-digit osu! p
 ### DJ Raisei - ⊿23
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/204/Songs/DJ%20Raisei%20-%2023.mp3" type="audio/mpeg">
 </audio>
 
 ### DJ Raisei - Cafe + M!lk + Chocolate
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/204/Songs/DJ%20Raisei%20-%20Cafe%20%2B%20M%21lk%20%2B%20Chocolate.mp3" type="audio/mpeg">
 </audio>
 
 ### ToYou & DJ Raisei - ADHD
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/204/Songs/ToYou%20%26%20DJ%20Raisei%20-%20ADHD.mp3" type="audio/mpeg">
 </audio>
 
 ### DJ Raisei - Nucleo Synthesis
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/204/Songs/DJ%20Raisei%20-%20Nucleo%20Synthesis.mp3" type="audio/mpeg">
 </audio>
 
 ---
