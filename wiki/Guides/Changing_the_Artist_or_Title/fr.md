@@ -2,13 +2,13 @@
 
 *[Full Submission with Title/Artist Change -- Mistakes par NoHitter (amélioré par peppy)](https://osu.ppy.sh/community/forums/topics/24443)*
 
-Quand vous changez le **titre ou l'artiste** d'une beatmap, un problème peut survenir, qui rendra la publication de cette dernière impossible sans la dupliquer.
+Quand vous changez le **titre ou l'artiste** d'une beatmap, un problème peut survenir, ce qui rendra la publication de cette dernière impossible sans la dupliquer.
 
-**Ne publiez pas si le menu "Web" de l'editeur est desactive, car votre beatmap serait dupliquee.**
+**Ne publiez pas si le menu "Web" de l'éditeur est désactive, car votre beatmap serait dupliquée.**
 
-Pour résoudre ce problème de duplication, suivez les étapes suivantes:
+Pour résoudre ce problème de duplication, procédez comme suit :
 
-- La méthode facile (sans aucun changement local):
+- La méthode facile (sans aucun changement local) :
   1. Supprimez la copie de votre beatmap.
   2. Téléchargez la copie à partir du site web d'osu!.
   3. Rendez vous dans l'éditeur d'osu!. Vérifiez que le menu "Web" est accessible (et pas grisé).
@@ -16,7 +16,7 @@ Pour résoudre ce problème de duplication, suivez les étapes suivantes:
   5. **Ne sortez pas de l'éditeur.**
   6. Accédez aux menus `Fichier` > `Ouvrir...` afin de changer l'artiste/le titre dans d'autres difficultés.
   7. Publiez la beatmap.
-- La méthode compliquée (en gardant les changements locaux):
+- La méthode compliquée (en gardant les changements locaux) :
   1. Rendez vous sur la page de votre beatmap sur le site d'osu!.
   2. Ouvrez le Song Setup pour chaque difficulté et définissez l'artiste/le titre par ce qu'il est sur le site.
   3. Rendez vous dans le menu de sélection des beatmaps et appuyez sur `F5`. Attendez quelques secondes.
