@@ -8,13 +8,13 @@ Meskipun demikian, keterdapatan label ini tidak berarti bahwa kamu dapat mengung
 
 ## Hal-hal apa saja yang termasuk ke dalam konten eksplisit?
 
-osu! mengizinkan pemakaian **konten audio** yang bersifat eksplisit (baik dari segi *tema* ataupun *lirik* lagu) hingga batasan tertentu. Di sisi lain, osu! **tidak** membenarkan penggunaan gambar maupun video yang bersifat senonoh - seluruh elemen visual yang ada tetap **harus** tunduk pada [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations).
+osu! mengizinkan penggunaan **konten audio** yang bersifat eksplisit (baik dari segi *tema* ataupun *lirik* lagu) hingga batasan tertentu. Di sisi lain, osu! **tidak** membenarkan penggunaan gambar maupun video yang bersifat senonoh - seluruh elemen visual yang ada tetap **harus** tunduk pada [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations).
 
-Pada intinya, selama dilabeli sebagaimana mestinya, lagu-lagu yang bersifat eksplisit dapat dipergunakan dan disebarluaskan dalam bentuk beatmap di dalam lingkungan osu! tanpa masalah.
+Pada intinya, selama dilabeli sebagaimana mestinya, lagu-lagu yang bersifat eksplisit dapat dipergunakan dan disebarluaskan dalam bentuk beatmap di dalam lingkungan osu! tanpa ada batasan lebih lanjut.
 
 ## Lirik lagu seperti apa yang dikategorikan eksplisit?
 
-Untuk dapat dikategorikan eksplisit, suatu lagu harus tersusun atas lirik yang mengandung hujatan, cacian, atau kata-kata kasar lainnya dalam porsi yang signifikan. Apabila kata-kata kasar tersebut hanya muncul sekali atau dua kali dalam keseluruhan lirik lagu yang ada, maka lagu yang bersangkutan tidak perlu untuk dilabeli eksplisit selama tema lagu yang dimaksud berada pada ranah PG-13 (*Parental Guidance*/bimbingan orang tua) atau lebih rendah. Apabila kamu tidak yakin apakah lagu yang kamu gunakan tergolong eksplisit atau tidak, sebaiknya kamu mengasumsikan bahwa lagu tersebut adalah lagu yang eksplisit demi kemaslahatan bersama.
+Untuk dapat dikategorikan eksplisit, suatu lagu harus tersusun atas lirik-lirik yang mengandung hujatan, cacian, atau kata-kata kasar lainnya dalam porsi yang signifikan. Apabila kata-kata kasar tersebut hanya muncul sekali atau dua kali dalam keseluruhan lirik lagu yang ada, maka lagu yang bersangkutan tidak perlu untuk dilabeli eksplisit selama tema lagu yang dimaksud berada pada ranah PG-13 (*Parental Guidance*/bimbingan orang tua) atau lebih rendah. Apabila kamu tidak yakin apakah lagu yang kamu gunakan tergolong eksplisit atau tidak, sebaiknya kamu mengasumsikan bahwa lagu tersebut adalah lagu yang eksplisit demi kemaslahatan bersama.
 
 Singkatnya, suatu lagu harus mengandung lirik yang penuh dengan kata-kata kasar untuk dapat dikategorikan eksplisit.
 
