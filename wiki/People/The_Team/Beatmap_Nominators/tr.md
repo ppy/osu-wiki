@@ -177,7 +177,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Endonezce |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Flemenkçe |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Çince |
-| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Endonezce |
+| ![][flag_ID] [Lita-](https://osu.ppy.sh/users/15205070) | Endonezce |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korece |
 
 ### Deneme sürecindeki Beatmap Aday Göstericiler

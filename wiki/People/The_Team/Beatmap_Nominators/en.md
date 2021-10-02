@@ -175,7 +175,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesian |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Dutch |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinese |
-| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesian |
+| ![][flag_ID] [Lita-](https://osu.ppy.sh/users/15205070) | Indonesian |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korean |
 
 ### Probationary Beatmap Nominators

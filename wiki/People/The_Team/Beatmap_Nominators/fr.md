@@ -178,7 +178,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonésien |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Néerlandais |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinois |
-| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonésien |
+| ![][flag_ID] [Lita-](https://osu.ppy.sh/users/15205070) | Indonésien |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coréen |
 
 ### Beatmap Nominators probatoires
