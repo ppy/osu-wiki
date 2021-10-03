@@ -31,7 +31,7 @@ This section will show you how to remove audio from videos using [Handbrake](htt
 
 4. Go into the `Video` tab and make sure the video codec is set as `H.264 (X264)`. Change the `Constant Quality` to between 20–25. Smaller values will produce larger file sizes but with a higher video quality.
 
-5. If you're willing to spend more time encoding slower Encoder Presets deliver better video quality and may also reduce the video file size, but do not go down to placebo as it is prohibitively slow and often performs worse than VerySlow.
+5. If you are willing to spend more time encoding, change the `Encoder Preset` under `Encoder Options`. Slower presets deliver better video quality and may also reduce video file size, but do not go down to placebo as it takes much longer than `VerySlow` for very little improvement in quality.
 
 ![Setting the video codec and quality in Handbrake](img/codecquality-handbrake.jpg "Setting the video codec and constant quality")
 
@@ -48,22 +48,25 @@ This section will show you how to remove audio from videos using [Handbrake](htt
 ![Encoding and saving the video](img/save-handbrake.jpg "Encoding and saving the video")
 
 ### Using FFmpeg
-CLI utilities are often seen as scary. But you may prefer the extra flexibility that a CLI tool offers that cannot be matched by HandBrake, in addition if you have multiple video files to reencode it might be quicker and easier to use FFmpeg than HandBrake!
 
-First download FFmpeg. If you're running a Linux distro you likely already have a version of FFmpeg installed. However, there are no official binaries for Windows; the FFmpeg team currently (September 2021) recommends [gyan.dev](https://www.gyan.dev/ffmpeg/builds/) & [BtbN](https://github.com/BtbN/FFmpeg-Builds/releases).
+This section will show you how you can use [FFmpeg](https://ffmpeg.org/) to reduce video file size. FFmpeg is a program used through a [command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface), meaning it does not have any [graphical user interface (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface) by itself. While this may seem intimidating, FFmpeg can offer more flexibility than other tools, such as being able to re-encode multiple video files more quickly and easily.
+
+If you are on Windows, first [download FFmpeg](https://ffmpeg.org/download.html) and add its directory to your `PATH` environment variable. On MacOS, you can alternatively install it using [brew](https://brew.sh/). Most Linux distributions already have FFmpeg installed, but it can often be easily installed through their respective package managers.
    
-Sample command: ```ffmpeg -i input -c:v libx264 -crf 20 -preset slower -an -sn -map_metadata -1 -map_chapters -1 -vf scale=-1:720 output.mp4```
+Open a terminal and paste in the following command, changing the values as needed:
 
-Explanation:
+```
+ffmpeg -i input -c:v libx264 -crf 20 -preset slower -an -sn -map_metadata -1 -map_chapters -1 -vf scale=-1:720 output.mp4
+```
 
-* `-i input`: your source file.
-* `-c:v libx264`: specifies that you want to use the x264 encoder *tbh this isn't necessary as x264 should be the default*.
-* `-crf 20`: the quality number, lower values give better quality at the expense of larger files. Recommended range is around 20-25.
-* `-preset slower`: the preset level, slower presets allow the encoder to give you higher quality files in the same bitrates; conversely it can also help lower file sizes while maintaining a similar level of quality. x264 ranges from ultrafast to placebo. Placebo shouldn't be used in any circumstance as it just greatly increases encoding time while delivering either almost the same performance as veryslow or performing worse.
-* `-an -sn`: removes audio & subtitles if present.
-* `-map_metadata -1 -map_chapters -1`: removes metadata & chapters if present.
-* `-vf scale=-1:720`: downscales the video to 720p, the -1 lets ffmpeg automatically determine the width of the new video in case the source isn't 16:9
-* `output.mp4`: your output file.
+* `-i input`: Your source file. If the file name contains spaces, wrap it around double quotes (`"`).
+* `-c:v libx264`: Specify that the video should be encoded using the x264 encoder, producing video in the H.264 format.
+* `-crf 20`: The compression quality, where lower values give better quality at the expense of larger files and vice versa. The recommended range is around 20-25.
+* `-preset slower`: Specify an encoding preset, with recommended values ranging from `ultrafast` to `veryslow`. Slower presets allow the encoder to give you higher quality for the same bitrate, or lower bitrate for the same quality. More information about available presets can be found on [FFmpeg's official website](https://trac.ffmpeg.org/wiki/Encode/H.264#Preset).
+* `-an -sn`: Remove audio and subtitles if present.
+* `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present.
+* `-vf scale=-1:720`: Downscale the video to a height of 720 pixels. The `-1` lets FFmpeg automatically determine the width of the new video based on the aspect ratio of the source.
+* `output.mp4`: Your output file. If the file name contains spaces, wrap it around double quotes (`"`).
   
 ## Audio
 
@@ -87,13 +90,15 @@ The [Ranking Criteria](/wiki/Ranking_Criteria#audio) has a rule noting that anyt
 
 ### Using FFmpeg
 
-Sample command: ```ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1 output.mp3```
+Paste the following command into your terminal and change the values as needed:
 
-Explanation:
+```
+ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1 output.mp3
+```
 
-* `-i input`: your source file.
-* `-c:a libmp3lame`: specifies that you want to use the lame MP3 encoder *tbh this isn't necessary as lame should be the default*.
-* `-q:a 4`: uses the same variable bitrate range as the Audacity example (lower numbers are higher bitrate). (use `-b:a 128k` for a constant 128k bitrate instead)
-* `-vn -sn`: removes video & subtitles if present.
-* `-map_metadata -1 -map_chapters -1`: removes metadata & chapters if present.
-* `output.mp3`: your output file.
+* `-i input`: Your source file. If the file name contains spaces, wrap it around double quotes (`"`).
+* `-c:a libmp3lame`: Specify that the audio should be encoded using the LAME MP3 encoder.
+* `-q:a 4`: Use the same variable bitrate range as in the Audacity example, where a lower number means higher bitrate. If you want constant bitrate, you would instead use for instance `-b:a 128k` for a constant 128kbps bitrate.
+* `-vn -sn`: Remove video and subtitles if present.
+* `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present.
+* `output.mp3`: Your output file. If the file name contains spaces, wrap it around double quotes (`"`).
