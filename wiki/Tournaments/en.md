@@ -684,6 +684,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 - [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
+- Requirements for receiving the [official support](/wiki/Tournaments/Official_support) for a tournament (badges, screening process, etc.)
 
 [GCrown]: /wiki/shared/crown-gold.png "1st place"
 [SCrown]: /wiki/shared/crown-silver.png "2nd place"
