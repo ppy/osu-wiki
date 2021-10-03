@@ -219,41 +219,41 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 - 2014년 8월 22일부로  BAT는 스태프 팀에서 제외되었고, 이로 인해 인게임 채팅 관리 권한 및 인게임과 포럼에서 빨간 닉네임이 사라지게 되었습니다. 
 - 2015년 2월 1일부로 *BAT*에서 *비트맵 노미네이션 그룹(Beatmap Nomination Group)*으로 변경되었고, 이후 우리가 현재 알고 있는 비트맵 노미네이터로 변경되었습니다.
 
-[flag_AT]: /wiki/shared/flag/AT.gif "오스트리아"
-[flag_AU]: /wiki/shared/flag/AU.gif "호주"
-[flag_BE]: /wiki/shared/flag/BE.gif "벨기에"
-[flag_BR]: /wiki/shared/flag/BR.gif "브라질"
-[flag_BY]: /wiki/shared/flag/BY.gif "벨라루스"
-[flag_CA]: /wiki/shared/flag/CA.gif "캐나다"
-[flag_CL]: /wiki/shared/flag/CL.gif "칠레"
-[flag_CN]: /wiki/shared/flag/CN.gif "중국"
-[flag_DE]: /wiki/shared/flag/DE.gif "독일"
-[flag_DK]: /wiki/shared/flag/DK.gif "덴마크"
-[flag_EC]: /wiki/shared/flag/EC.gif "에콰도르"
-[flag_EG]: /wiki/shared/flag/EG.gif "이집트"
-[flag_FI]: /wiki/shared/flag/FI.gif "핀란드"
-[flag_FR]: /wiki/shared/flag/FR.gif "프랑스"
-[flag_GB]: /wiki/shared/flag/GB.gif "영국"
-[flag_GR]: /wiki/shared/flag/GR.gif "그리스"
-[flag_HK]: /wiki/shared/flag/HK.gif "홍콩"
-[flag_ID]: /wiki/shared/flag/ID.gif "인도네시아"
-[flag_IT]: /wiki/shared/flag/IT.gif "이탈리아"
-[flag_JP]: /wiki/shared/flag/JP.gif "일본"
-[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
-[flag_MY]: /wiki/shared/flag/MY.gif "말레이시아"
-[flag_NL]: /wiki/shared/flag/NL.gif "네덜란드"
-[flag_NO]: /wiki/shared/flag/NO.gif "노르웨이"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "뉴질랜드"
-[flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
-[flag_PL]: /wiki/shared/flag/PL.gif "폴란드"
-[flag_PR]: /wiki/shared/flag/PR.gif "푸에르토리코"
-[flag_RS]: /wiki/shared/flag/RS.gif "세르비아"
-[flag_RU]: /wiki/shared/flag/RU.gif "러시아"
-[flag_SE]: /wiki/shared/flag/SE.gif "스웨덴"
-[flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"
-[flag_TH]: /wiki/shared/flag/TH.gif "태국"
-[flag_TN]: /wiki/shared/flag/TN.gif "튀니지"
-[flag_TR]: /wiki/shared/flag/TR.gif "터키"
-[flag_TW]: /wiki/shared/flag/TW.gif "대만"
-[flag_US]: /wiki/shared/flag/US.gif "미국"
-[flag_VN]: /wiki/shared/flag/VN.gif "베트남"
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BE]: /wiki/shared/flag/BE.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_BY]: /wiki/shared/flag/BY.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_DK]: /wiki/shared/flag/DK.gif
+[flag_EC]: /wiki/shared/flag/EC.gif
+[flag_EG]: /wiki/shared/flag/EG.gif
+[flag_FI]: /wiki/shared/flag/FI.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_GR]: /wiki/shared/flag/GR.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_IT]: /wiki/shared/flag/IT.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_KR]: /wiki/shared/flag/KR.gif
+[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_PR]: /wiki/shared/flag/PR.gif
+[flag_RS]: /wiki/shared/flag/RS.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
+[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_TR]: /wiki/shared/flag/TR.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_US]: /wiki/shared/flag/US.gif
+[flag_VN]: /wiki/shared/flag/VN.gif
