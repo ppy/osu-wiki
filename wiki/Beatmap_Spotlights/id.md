@@ -193,6 +193,7 @@ Pada Agustus 2020, ![][Flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) meng
 [flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungaria"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
 [flag_MX]: /wiki/shared/flag/MX.gif "Meksiko"
