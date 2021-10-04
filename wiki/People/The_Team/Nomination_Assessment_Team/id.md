@@ -54,7 +54,8 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, komunikasi |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluasi, struktural, komunikasi |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Struktural |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portugis | Evaluasi, struktural, komunikasi |
+| ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluasi |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanyol, Prancis | Evaluasi |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Belanda | Evaluasi |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polandia | Evaluasi |
 
@@ -81,7 +82,6 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluasi |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Aljazair"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
