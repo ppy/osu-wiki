@@ -2,6 +2,7 @@
 stub: true
 tags:
   - creator
+  - 创始人
   - Dean Herbert
 ---
 
