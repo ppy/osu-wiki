@@ -41,7 +41,7 @@ ICC 2021 is run by various osu! community members predominantly hailing from Ind
 | Mappool selector | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | Playtester | ![][flag_ID] [Emilia-Satella](https://osu.ppy.sh/users/1096240), ![][flag_DE] [Gln\_Markus](https://osu.ppy.sh/users/8811229), ![][flag_CL] [Pekorrat](https://osu.ppy.sh/users/1250096), ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598), ![][flag_KR] [Abstract-](https://osu.ppy.sh/users/3097304) |
 | Streamer | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336), ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Commentator | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122) |
+| Commentator | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) |
 | Referee | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [liykun](https://osu.ppy.sh/users/9500057), ![][flag_TH] [Azuria](https://osu.ppy.sh/users/16102533) |
 | Graphic designer | ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -70,6 +70,34 @@ Listed below are the players who were admitted into the Group stage along with t
 | H | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | ![][flag_ID] [Ruu](https://osu.ppy.sh/users/3212755) | ![][flag_ID] [Francesca](https://osu.ppy.sh/users/8995235) | ![][flag_ID] [OrdinaryDaffa](https://osu.ppy.sh/users/8404301) |
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here! (xxx MB)](xxx)**
+
+- NoMod
+  - [KOTOKO - Art as Heart (Nana Abe) \[Pastel Love Melody\]](https://osu.ppy.sh/beatmapsets/1267314#fruits/2633788)
+  - [BEMANI Sound Team "Nekomata Master" - Painful Fate (Down) \[Dailycare's Nosedive\]](https://osu.ppy.sh/beatmapsets/1193072#fruits/2486013)
+  - [Tadokoro Azusa - 1HOPE SNIPER (Sotarks) \[Kalibe's Extra\]](https://osu.ppy.sh/beatmapsets/824132#fruits/1726866)
+  - [ISOMERZ (DJ Raisei + seatrus) - Symmetric (Realazy) \[Emantiomorphs\]](https://osu.ppy.sh/beatmapsets/1381824#fruits/2855075)
+  - [Bossfight - Milky Ways (-GN) \[Extreme AR9\]](https://osu.ppy.sh/beatmapsets/1526769#fruits/3147006)
+- Hidden
+  - [KikuoHana - Desert Theater (Keqing) \[Mirage (\#1)\]](https://osu.ppy.sh/beatmapsets/1382362#fruits/2856086)
+  - [Katakiri Rekka - Answer (ShirohaMyMommy) \[GlazeE's Extra\]](https://osu.ppy.sh/beatmapsets/1062653#fruits/2237075)
+  - [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching OWC\]](https://osu.ppy.sh/beatmapsets/1306626#fruits/2709094)
+  - [L.E.D. - CHRONO DIVER -NORNIR- (yf\_bmp) \[Gust's Another\]](https://osu.ppy.sh/beatmapsets/1363479#fruits/2831889)  
+- HardRock
+  - [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/1579180#fruits/3224533)
+  - [UNDEAD CORPORATION - Flowering Night Fever (Alheak) \[Flowering\]](https://osu.ppy.sh/beatmapsets/393663#fruits/856743)
+  - [ICE - Entrance (Icekalt) \[Ausgang\]](https://osu.ppy.sh/beatmapsets/1276389#fruits/2651888)
+  - [Nekomata Master+ - Rengoku no Elferia (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/1489153#fruits/3052739)
+- DoubleTime
+  - [Shimotsuki Haruka - Akahitoha (ImpurePug) \[Lv9's Insane\]](https://osu.ppy.sh/beatmapsets/974417#fruits/2249851)
+  - [Yousei Teikoku - last moment (IsomirDiAngelo) \[meiikyuu's Insane\]](https://osu.ppy.sh/beatmapsets/1172342#fruits/2612500)
+  - [Yorushika - Tada Kimi ni Hare (GreenHue) \[KKip's Stone in a Summer Moor\]](https://osu.ppy.sh/beatmapsets/847238#fruits/1816958)
+  - [Mandy Moore - Lock Me In Your Heart (Raburauza) \[We'll dance together\]](https://osu.ppy.sh/beatmapsets/1260471#fruits/2620285)
+- Tiebreaker
+  - **[Camellia - GHOST (2020 Halloween+++++++++ VIP) (Iled) \[We will meet again...\]](https://osu.ppy.sh/beatmapsets/1464577#fruits/3008085)**
 
 ### Semifinals
 
@@ -172,6 +200,8 @@ Listed below are the players who were admitted into the Group stage along with t
   - **[Chata - Nocte of desperatio (Giralda) \[Walpurgisnacht\]](https://osu.ppy.sh/beatmapsets/178685#fruits/429789)**
 
 ## Match results
+
+### Semifinals
 
 ### Quarterfinals
 
