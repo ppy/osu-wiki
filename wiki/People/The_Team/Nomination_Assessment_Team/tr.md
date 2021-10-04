@@ -82,7 +82,6 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Değerlendirme |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Cezayir"
 [flag_ES]: /wiki/shared/flag/ES.gif "İspanya"

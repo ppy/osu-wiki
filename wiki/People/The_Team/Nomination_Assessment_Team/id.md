@@ -82,7 +82,6 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluasi |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Aljazair"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"

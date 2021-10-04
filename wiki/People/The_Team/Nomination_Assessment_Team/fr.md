@@ -82,7 +82,6 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Évaluation |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Algérie"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"

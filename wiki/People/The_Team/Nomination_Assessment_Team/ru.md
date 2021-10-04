@@ -84,7 +84,6 @@ NAT самостоятельно отслеживает появление но�
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Аттестация номинаторов |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Бельгия"
-[flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
 [flag_CA]: /wiki/shared/flag/CA.gif "Канада"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Алжир"
 [flag_ES]: /wiki/shared/flag/ES.gif "Испания"

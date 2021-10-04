@@ -82,7 +82,6 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | การประเมิน |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "เบลเยียม"
-[flag_BR]: /wiki/shared/flag/BR.gif "บราซิล"
 [flag_CA]: /wiki/shared/flag/CA.gif "แคนาดา"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "แอลจีเรีย"
 [flag_ES]: /wiki/shared/flag/ES.gif "สเปน"
