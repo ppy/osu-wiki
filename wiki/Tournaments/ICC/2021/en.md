@@ -203,6 +203,26 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Semifinals
 
+Friday, 1 October 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Nekuro](https://osu.ppy.sh/users/3222638) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/91741318) |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) | [#1](https://osu.ppy.sh/community/matches/91745392) |
+
+Saturday, 2 October 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Nekuro](https://osu.ppy.sh/users/3222638) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[Keisuu](https://osu.ppy.sh/users/3856673)** | [#1](https://osu.ppy.sh/community/matches/91798609) |
+| Lower | **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [Ruu](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/91804828) |
+
+Sunday, 3 October 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Keisuu](https://osu.ppy.sh/users/3856673) ![][flag_ID] | 2 | **6** | ![][flag_ID] **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** | [#1](https://osu.ppy.sh/community/matches/91860910) |
+
 ### Quarterfinals
 
 Friday, 24 September 2021:
@@ -347,7 +367,8 @@ Sunday, 12 September 2021:
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to clinch the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to clinch the championship title.
 4. Players who can compete in the next round are determined by:
    - In the Round of 16 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Semifinals and the Finals, each player needs to win 7 points in order to win the match. (Best-of-13)
+   - In the Semifinals, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Finals, each player needs to win 7 points in order to win the match. (Best-of-13)
    - Players who win by default.
    - Whether there are players who are disqualified from the tournament.
 
@@ -356,7 +377,7 @@ Sunday, 12 September 2021:
 1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the ban and pick order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group stage lobbies.
-2. Each player is obligated to ban one beatmap from the mappool. All banned beatmaps are not allowed to be picked by any player in the match.
+2. Each player is obligated to ban either one beatmap (in the Round of 16 and the Quarterfinals) or two beatmaps (in the Semifinals and the Finals) from the mappool. All banned beatmaps are not allowed to be picked by any player in the match.
    - This rule does not apply in the Group stage lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Group stage lobbies.
