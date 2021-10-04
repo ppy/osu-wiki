@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Comment recadrer des images avec des arrière-plans complexes
 
 ## Étape \#1
@@ -36,4 +40,4 @@ C'est fini. Ce n'est pas très beau, surtout les pointes des cheveux, mais c'est
 
 Cela peut prendre un peu de temps, mais l'effet final est vraiment bon.
 
-![Results](img/CCB-6.png "Results")
+![Résultats](img/CCB-6.png "Résultats")

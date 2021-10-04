@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Bibliothèque de sons personnalisés
 
 *[Custom Hitsound Library par Yuukari-Banteki](https://osu.ppy.sh/community/forums/topics/15407)*

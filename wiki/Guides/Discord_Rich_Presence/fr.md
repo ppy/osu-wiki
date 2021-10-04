@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Discord Rich Presence
 
 Depuis le 31/10/2017, Discord Rich Presence a maintenant fait son chemin vers la version stable !
