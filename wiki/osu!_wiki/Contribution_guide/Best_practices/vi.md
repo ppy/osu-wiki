@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 1963510e21506f90b21ad201b0eb9ca98fe7ecb5
 ---
 
 # Các vấn đề hay gặp của người đóng góp wiki
