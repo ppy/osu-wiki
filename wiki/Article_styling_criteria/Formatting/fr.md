@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Mise en forme
 
 *Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*
