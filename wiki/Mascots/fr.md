@@ -6,13 +6,13 @@ Une [Présentation des mascottes](https://youtu.be/mJF2cAs_MrI) est disponible.
 
 ## Officiel
 
-### ![Icône osu!](/wiki/shared/mode/osu.png) pippi
+### ![](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
 pippi, stylisée avec un "p" minuscule, est la mascotte d'osu! qui a été créer en juillet 2008. Elle est aussi connue sous le nom de pippidon dans osu!taiko et apparait dans le jeu [Yandere Simulator](https://yanderesimulator.com) comme un personnage non joueur. Le concept art initial à été créer par [Sarumaru](https://osu.ppy.sh/users/9427), le sprite de pippidon à été créer par [crystalsuicune](https://osu.ppy.sh/users/9974) et le dessin actuel à été conçu par [Daru](https://osu.ppy.sh/users/32480).
 
-### ![Icône osu!catch](/wiki/shared/mode/catch.png) Yuzu
+### ![](/wiki/shared/mode/catch.png) Yuzu
 
 *Pour voir les posts des nouvelle, voir : [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) et [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
 
@@ -20,7 +20,7 @@ pippi, stylisée avec un "p" minuscule, est la mascotte d'osu! qui a été crée
 
 Yuzu est la mascotte osu!catch qui nous as rejoins le 22 juin 2014. Il est né le 10 avril 2000, mesure 172 cm et pèse 65 kg. Son design actuel a été conçu par [Thievley](https://osu.ppy.sh/users/4717672). Alors que sa conception artistique initiale et ses sprites attrapeurs ont été réalisés par [ztrot](https://osu.ppy.sh/users/6347); Daru à créer le design du comboburst.
 
-### ![Icône osu!mania](/wiki/shared/mode/mania.png) Maria
+### ![](/wiki/shared/mode/mania.png) Maria
 
 *Pour voir les posts des nouvelle, voir : [Meet Maria - osu!mania’s new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)*
 
@@ -28,7 +28,7 @@ Yuzu est la mascotte osu!catch qui nous as rejoins le 22 juin 2014. Il est né l
 
 Maria est la mascotte osu!mania qui nous a rejoins le 4 mars 2016. Son design à été conçu par Daru.
 
-### ![Icône osu!taiko](/wiki/shared/mode/taiko.png) Mocha
+### ![](/wiki/shared/mode/taiko.png) Mocha
 
 *Pour voir les posts des nouvelle, voir : [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
 

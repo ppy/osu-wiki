@@ -10,13 +10,13 @@ Terdapat sebuah video di Youtube yang menampilkan maskot osu!, konten tersebut b
 
 ## Resmi
 
-### ![Ikon osu!](/wiki/shared/mode/osu.png) pippi
+### ![](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
 pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu! yang bergabung pada Juli 2008. Dia juga dikenal sebagai pippidon di mode osu!taiko dan pippi merupakan salah satu NPC di game [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi awalnya dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), sprite pippidon dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974), dan konsep pippi yang terkini dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
 
-### ![Ikon osu!catch](/wiki/shared/mode/catch.png) Yuzu
+### ![](/wiki/shared/mode/catch.png) Yuzu
 
 *Untuk postingan beritanya, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) dan [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu).*
 
@@ -24,7 +24,7 @@ pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu! yang bergabung pada
 
 Yuzu adalah maskot osu!catch yang telah bergabung sejak 22 Juni 2014. Yuzu lahir pada 10 April 2000, tingginya 172cm, dan beratnya 65kg. Desain versi terbaru dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672). Sedangkan konsep awal dan sprite catcher Yuzu dirancang oleh [ztrot](https://osu.ppy.sh/users/6347) lalu Daru membuat comboburst-nya.
 
-### ![Ikon osu!mania](/wiki/shared/mode/mania.png) Maria
+### ![](/wiki/shared/mode/mania.png) Maria
 
 *Untuk postingan beritanya, lihat: [Meet Maria - osu!mania’s new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot).*
 
@@ -32,7 +32,7 @@ Yuzu adalah maskot osu!catch yang telah bergabung sejak 22 Juni 2014. Yuzu lahir
 
 Maria adalah maskot osu!mania yang bergabung pada 4 Maret 2016. Maria dirancang oleh Daru.
 
-### ![Ikon osu!taiko](/wiki/shared/mode/taiko.png) Mocha
+### ![](/wiki/shared/mode/taiko.png) Mocha
 
 *Untuk postingan beritanya, lihat: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
 

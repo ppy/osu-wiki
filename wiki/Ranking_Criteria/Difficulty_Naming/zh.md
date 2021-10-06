@@ -8,7 +8,7 @@
 
 *注：特殊难度名称 **Marathon** 历史上曾被用来允许提交更长的歌曲，从而也常被用于只有一个难度的谱面集。现在，这个名称没有特殊含义，一般只被用于特别长的歌曲或混编。*
 
-### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
+### ![](/wiki/shared/mode/osu.png "osu!") osu!
 
 - ![](/wiki/shared/diff/easy-o.png) Easy（简单）
 - ![](/wiki/shared/diff/normal-o.png) Normal（普通）
@@ -16,7 +16,7 @@
 - ![](/wiki/shared/diff/insane-o.png) Insane（疯狂）
 - ![](/wiki/shared/diff/expert-o.png) Expert（专家）
 
-### ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko
+### ![](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png) Kantan（简单）
 - ![](/wiki/shared/diff/normal-t.png) Futsuu（普通）
@@ -25,7 +25,7 @@
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni（里鬼）
 - ![](/wiki/shared/diff/expertplus-t.png) Hell Oni（地狱）
 
-### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
+### ![](/wiki/shared/mode/catch.png "osu!catch") osu!catch
 
 - ![](/wiki/shared/diff/easy-c.png) Cup
 - ![](/wiki/shared/diff/normal-c.png) Salad
@@ -33,7 +33,7 @@
 - ![](/wiki/shared/diff/insane-c.png) Rain
 - ![](/wiki/shared/diff/expert-c.png) Overdose
 
-### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania
+### ![](/wiki/shared/mode/mania.png "osu!mania") osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png) Easy
 - ![](/wiki/shared/diff/normal-m.png) Normal

@@ -10,13 +10,13 @@ Um vídeo do YouTube mostrando as mascotes do osu! pode ser visto em [Mascot Sho
 
 ## Oficial
 
-### ![osu! icon](/wiki/shared/mode/osu.png) pippi
+### ![](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
 pippi, estilizado em letra minúscula "p", é a mascote do osu! que se juntou em 2008-07. Ela também é conhecida como pippidon no osu!taiko e apareceu em [Yandere Simulator](https://yanderesimulator.com) como uma NPC. A arte conceitual inicial foi criada por [Sarumaru](https://osu.ppy.sh/users/9427), a sprite da pippidon for criada por [crystalsuicune](https://osu.ppy.sh/users/9974), e a arte atual foi projetada por [Daru](https://osu.ppy.sh/users/32480).
 
-### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
+### ![](/wiki/shared/mode/catch.png) Yuzu
 
 *Para os posts de notícias, veja: [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) e [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
 
@@ -24,7 +24,7 @@ pippi, estilizado em letra minúscula "p", é a mascote do osu! que se juntou em
 
 Yuzu é a mascote do osu!catch que se juntou em 2014-06-22. Nascido em 2000-04-10, ele tem 172 centímetros de altura, e pesa 65 quilogramas. A sua arte atual foi projetada por [Thievley](https://osu.ppy.sh/users/4717672). Enquanto que o projeto de sua arte inicial e sprites de catcher foram feitas por [ztrot](https://osu.ppy.sh/users/6347); Daru criou sua arte de comboburst.
 
-### ![osu!mania icon](/wiki/shared/mode/mania.png) Maria
+### ![](/wiki/shared/mode/mania.png) Maria
 
 *Para o post de notícias, veja: [Meet Maria - osu!mania’s new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)*
 
@@ -32,7 +32,7 @@ Yuzu é a mascote do osu!catch que se juntou em 2014-06-22. Nascido em 2000-04-1
 
 Maria é a mascote de osu!mania que se juntou em 2016-03-04. Sua arte foi projetada por Daru.
 
-### ![osu!taiko icon](/wiki/shared/mode/taiko.png) Mocha
+### ![](/wiki/shared/mode/taiko.png) Mocha
 
 *Para o post de notícias, veja: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
 

@@ -83,7 +83,7 @@ Estas pautas pueden ser quebradas bajo circunstancias **especiales**. Estas exce
 
 Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos por minuto, el Slider Velocity base, las reglas y las pautas mencionadas aquí deben ser ajustadas apropiadamente.
 
-### ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") Kantan
+### ![](/wiki/shared/diff/easy-t.png "Kantan") Kantan
 
 #### Reglas
 
@@ -102,7 +102,7 @@ Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos p
 - El Overall Difficulty debe estar ajustado a 4 o un número menor.
 - El HP Drain Rate debe estar ajustado a 6 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
 
-### ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
+### ![](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
 
 #### Reglas
 
@@ -130,7 +130,7 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - El Overall Difficulty debe estar ajustado a 5 o un número menor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
 
-### ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
+### ![](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
 
 #### Reglas
 
@@ -152,7 +152,7 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - El Overall Difficulty debe estar ajustado a 5 o un número menor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
 
-### ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
+### ![](/wiki/shared/diff/insane-t.png "Oni") Oni
 
 #### Reglas
 
@@ -171,7 +171,7 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - El Overall Difficulty debe estar ajustado a 5 o un número menor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
 
-### ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") Inner/Ura Oni
+### ![](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") Inner/Ura Oni
 
 #### Pautas
 

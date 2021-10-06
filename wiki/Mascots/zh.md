@@ -6,13 +6,13 @@
 
 ## 官方
 
-### ![osu! 图标](/wiki/shared/mode/osu.png) pippi
+### ![](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
 pippi（注意开头是小写“p”）是 osu! 游戏模式的吉祥物，于 2008 年 7 月加入。她在 osu!taiko 模式中也被称为 pippidon。同时，她也曾作为 NPC 出现于 [病娇模拟器](https://yanderesimulator.com) 中。她的初始艺术形象由 [Sarumaru](https://osu.ppy.sh/users/9427) 设计，pippidon 艺术形象由 [crystalsuicune](https://osu.ppy.sh/users/9974) 设计，而现在的艺术形象则是由 [Daru](https://osu.ppy.sh/users/32480) 设计。
 
-### ![osu!catch 图标](/wiki/shared/mode/catch.png) Yuzu
+### ![](/wiki/shared/mode/catch.png) Yuzu
 
 *关于新闻帖子，参见：[Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) 和 [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
 
@@ -20,7 +20,7 @@ pippi（注意开头是小写“p”）是 osu! 游戏模式的吉祥物，于 2
 
 Yuzu 是 osu!catch 游戏模式的吉祥物，于 2014 年 6 月 22 日加入。他出生于 2000 年 4 月 10 日，身高 172 厘米，体重 65 千克。现在的形象由 [Thievley](https://osu.ppy.sh/users/4717672) 设计，而最初的艺术形象和接水果小人是由 [ztrot](https://osu.ppy.sh/users/6347) 设计。Daru 设计了他在 comboburst 时出现在屏幕上的形象。
 
-### ![osu!mania 图标](/wiki/shared/mode/mania.png) Mani & Mari
+### ![](/wiki/shared/mode/mania.png) Mani & Mari
 
 *获取更多信息，参见：[Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
 
@@ -30,7 +30,7 @@ Mani 和 Mari 由 [xiemon](https://osu.ppy.sh/users/5203667) 设计，在 [Most 
 
 Mani 是个特立独行的人，他总是渴望探索新花样和新事物。同时，他的妹妹 Mari（以前又被叫做 Maria）是一个传统、保守的理想主义者，也希望成为聚光灯下的焦点。因性格迥异，他们之间水火不相容。
 
-### ![osu!taiko 图标](/wiki/shared/mode/taiko.png) Mocha
+### ![](/wiki/shared/mode/taiko.png) Mocha
 
 *关于新闻帖子，参见：[The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
 
