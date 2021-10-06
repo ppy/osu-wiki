@@ -27,7 +27,7 @@ See what we mean for yourself:
 Check out [this 9 star beatmap](https://osu.ppy.sh/beatmapsets/1508501) hosted by [Keqing](https://osu.ppy.sh/users/8501291) (a.k.a. iljaaz)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/205/HARDCORE%20UTOPIA%203/RukaDesu%20%26%205KiLOBYTE%20-%20DUALITY.mp3" type="audio/mpeg">
 </audio>
 
 ### Elliot Hsu - Reality Purge
@@ -35,7 +35,7 @@ Check out [this 9 star beatmap](https://osu.ppy.sh/beatmapsets/1508501) hosted b
 Or check out [this map](https://osu.ppy.sh/beatmapsets/1508500) hosted by [Realazy](https://osu.ppy.sh/users/918297)! Rumor has it that Realazy chose this song so people could make "Realazy Purge" puns, but you didn't hear that from us.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/205/HARDCORE%20UTOPIA%203/Elliot%20Hsu%20-%20Reality%20Purge.mp3" type="audio/mpeg">
 </audio>
 
 ### Raphiiel - RoquiRa : Between Life and Death
@@ -43,7 +43,7 @@ Or check out [this map](https://osu.ppy.sh/beatmapsets/1508500) hosted by [Reala
 Experience the climax of *HARDCORE UTOPIA III* through [this 10 minute marathon](https://osu.ppy.sh/beatmapsets/1508499) mapped by [Cubby](https://osu.ppy.sh/users/10914582), [pocket-](https://osu.ppy.sh/users/6808091), [Realazy](https://osu.ppy.sh/users/918297), and [Regou](https://osu.ppy.sh/users/419954)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/205/HARDCORE%20UTOPIA%203/Raphiiel%20-%20RoquiRa%20%20Between%20Life%20and%20Death.mp3" type="audio/mpeg">
 </audio>
 
 ### mitei - Phosphor
@@ -51,7 +51,7 @@ Experience the climax of *HARDCORE UTOPIA III* through [this 10 minute marathon]
 Or experience the climax of your circle-clicking-career through [this difficulty spread](https://osu.ppy.sh/beatmapsets/1508502) hosted by [Mir](https://osu.ppy.sh/users/8688812)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/205/HARDCORE%20UTOPIA%203/mitei%20-%20Phosphor.mp3" type="audio/mpeg">
 </audio>
 
 ---
