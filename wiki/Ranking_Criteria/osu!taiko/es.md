@@ -108,7 +108,7 @@ Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos p
 
 - **Está prohibido utilizar patrones hechos en subdivisiones más rápidas que 1/3.** Estos patrones son demasiado complejos para un jugador novato.
 
-Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe adherirse a las siguientes reglas:
+Si planeas usar un **Futsuu como la dificultad más baja de tu mapset**, debe adherirse a las siguientes reglas:
 
 - **Está prohibido utilizar patrones hechos en subdivisiones más rápidas que 1/2.** Estos patrones son demasiado complejos para un jugador novato.
 
@@ -120,7 +120,7 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - **Debes utilizar al menos un descanso de 2/1 o mayor en un período de entre 16/1 y 20/1 de mapeo continuado.** Utilizarlos en menor medida es aceptable si el ritmo de la canción no permite descansos que suenen naturales o si la sección continua no es densa en en general
 - **Puedes utilizar cambios de SV simples.**
 
-Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe adherirse a las siguientes pautas:
+Si planeas usar un **Futsuu como la dificultad más baja de tu mapset**, debe adherirse a las siguientes pautas:
 
 - **Los patrones en 1/2 no deben ser de más de 5 notas.**
 - **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados sólo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
