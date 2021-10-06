@@ -58,6 +58,6 @@ Or experience the climax of your circle-clicking-career through [this difficulty
 
 Dive into [**HARDCORE UTOPIA**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/205) for the buttload of other songs that aren't listed above, all pre-timed and ready for mapping. (Note: one metric buttload is equal to approximately 46 units).
 
-osu! may not be a huge proponent of capital letters, OUR ARTISTS THIS WEEK ARE. PREPARE FOR MORE CAPS LOCK THIS SATURDAY. Oh, and keep an eye on the [@osugame Twitter](https://twitter.com/osugame) while you're at it too.
+osu! may not be a huge proponent of capital letters, BUT OUR ARTISTS THIS WEEK ARE. PREPARE FOR MORE CAPS LOCK THIS SATURDAY. Oh, and keep an eye on the [@osugame Twitter](https://twitter.com/osugame) while you're at it too.
 
 —pishifat
