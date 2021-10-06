@@ -5,6 +5,7 @@ The following chat commands are provided for remote management of multiplayer to
 - `!mp make <name>` - Creates a tournament room with the specified name. A maximum of 4 such rooms may be created.
   - This room is special in that it is not closed when all players have left the room, and it is password protected from players joining this room themselves.
   - When the room is finished, use `!mp close` to close the room.
+- `!mp name <title>` - Updates the lobby title.
 - `!mp invite <username>` - Invites a player to the room.
   - Note that this does *not* bypass any private message blocks available in the osu! client, so your tournament staff will need to tell players to disable "Block private messages from non-friends" in the osu! options.
 - `!mp lock` - Locks the room so that players can’t change their team and slot.
