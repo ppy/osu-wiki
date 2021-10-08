@@ -301,58 +301,58 @@ outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BG]: /wiki/shared/flag/BG.gif
-[flag_BO]: /wiki/shared/flag/BO.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_CR]: /wiki/shared/flag/CR.gif
-[flag_CZ]: /wiki/shared/flag/CZ.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_DO]: /wiki/shared/flag/DO.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HR]: /wiki/shared/flag/HR.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_MO]: /wiki/shared/flag/MO.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_SV]: /wiki/shared/flag/SV.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
+[flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+[flag_BE]: /wiki/shared/flag/BE.gif "比利时"
+[flag_BG]: /wiki/shared/flag/BG.gif "保加利亚"
+[flag_BO]: /wiki/shared/flag/BO.gif "玻利维亚"
+[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
+[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
+[flag_CL]: /wiki/shared/flag/CL.gif "智利"
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_CO]: /wiki/shared/flag/CO.gif "哥伦比亚"
+[flag_CR]: /wiki/shared/flag/CR.gif "哥斯达黎加"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "捷克"
+[flag_DE]: /wiki/shared/flag/DE.gif "德国"
+[flag_DK]: /wiki/shared/flag/DK.gif "丹麦"
+[flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"
+[flag_EE]: /wiki/shared/flag/EE.gif "爱沙尼亚"
+[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
+[flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
+[flag_FR]: /wiki/shared/flag/FR.gif "法国"
+[flag_GB]: /wiki/shared/flag/GB.gif "英国"
+[flag_GR]: /wiki/shared/flag/GR.gif "希腊"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_HR]: /wiki/shared/flag/HR.gif "克罗地亚"
+[flag_HU]: /wiki/shared/flag/HU.gif "匈牙利"
+[flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
+[flag_IL]: /wiki/shared/flag/IL.gif "以色列"
+[flag_IT]: /wiki/shared/flag/IT.gif "意大利"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
+[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
+[flag_LT]: /wiki/shared/flag/LT.gif "立陶宛"
+[flag_LV]: /wiki/shared/flag/LV.gif "拉脱维亚"
+[flag_MO]: /wiki/shared/flag/MO.gif "澳门"
+[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
+[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
+[flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
+[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
+[flag_PE]: /wiki/shared/flag/PE.gif "秘鲁"
+[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
+[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
+[flag_PT]: /wiki/shared/flag/PT.gif "葡萄牙"
+[flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
+[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
+[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
+[flag_SV]: /wiki/shared/flag/SV.gif "萨尔瓦多"
+[flag_TH]: /wiki/shared/flag/TH.gif "泰国"
+[flag_TR]: /wiki/shared/flag/TR.gif "土耳其"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
+[flag_UA]: /wiki/shared/flag/UA.gif "乌克兰"
+[flag_US]: /wiki/shared/flag/US.gif "美国"
+[flag_UY]: /wiki/shared/flag/UY.gif "乌拉圭"
+[flag_VE]: /wiki/shared/flag/VE.gif "委内瑞拉"
+[flag_VN]: /wiki/shared/flag/VN.gif "越南"

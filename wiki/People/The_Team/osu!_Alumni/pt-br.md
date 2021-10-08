@@ -189,6 +189,7 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | BAT |
 | ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ![][flag_MD] [senaya](https://osu.ppy.sh/users/304103) | Moderador de chat |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
 | ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) | Moderador de chat, GMT |
 | ![][flag_US] [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ![][flag_CA] [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |

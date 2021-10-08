@@ -45,6 +45,6 @@ Setelah beberapa putaran ini, Toy memutuskan menggunakan format pemungutan suara
 
 [Project Loved](/wiki/Project_Loved) adalah sistem sekarang yang digunakan untuk memindahkan map ke status Loved. Penjelasan lebih lanjut dan bagaimana supaya beatmaps masuk kedalam pemungutan suara Project Loved dapat ditemukan di dalam artikel wiki.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

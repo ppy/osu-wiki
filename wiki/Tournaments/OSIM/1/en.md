@@ -591,7 +591,7 @@ Sunday, 19 April 2020:
 6. The Seed C player from each team **has to play at least one map** in every match. If a match reaches a match point and either team's Seed C player has yet to play a map, the referee will not start the next map until the Seed C player from the said team participates.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"

@@ -294,7 +294,7 @@ Sunday, 10 September 2017:
 
 ### Finals
 
-#### Winner Finals
+#### Winners Finals
 
 Saturday, 12 August 2017:
 
@@ -310,7 +310,7 @@ Saturday, 12 August 2017:
 | --: | :-: | :-: | :-- |
 | **Karthy** ![][flag_GB] | **7** | 1 | ![][flag_GB] helix |
 
-#### Loser Finals
+#### Losers Finals
 
 Sunday, 13 August 2017:
 

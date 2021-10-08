@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: a4e45cf0738ff0ce2327cba8b9efe89d53e1ef9f
+---
+
 # 토너먼트 관리 명령어
 
 다음의 채팅 커맨드는 대회 멀티플레이어방의 원격 관리에 도움을 줄 수 있습니다:

@@ -79,18 +79,18 @@ Följande är användargrupper som består av osu! communitymedlemmar som hjälp
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) ledare |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, media- och karaktärdesigner |
 
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_AR]: /wiki/shared/flag/AR.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_CN]: /wiki/shared/flag/CN.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_GR]: /wiki/shared/flag/GR.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NO]: /wiki/shared/flag/NO.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_US]: /wiki/shared/flag/US.gif

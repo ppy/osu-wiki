@@ -20,7 +20,7 @@
 
 ### Moving files
 
-*Warning: This is **not recommended** because you can only move one file at a time. This may create multiple "dumb" commits that may flag the reviewers into [closing or stalling your pull request](/wiki/osu!_wiki/Contribution_guide/Common_Issues#someone-told-me-to-use-meaningful-commit-messages!)!*
+*Warning: This is **not recommended** because you can only move one file at a time. This may create multiple "dumb" commits that may flag the reviewers into [closing or stalling your pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits)!*
 
 1. Navigate to the file you want to move and open it.
 
@@ -56,7 +56,7 @@
 
 ### Deleting files
 
-*Warning: This is **not recommended** because you can only delete one file at a time. This may create multiple "dumb" commits that may flag the reviewers into [closing or stalling your pull request](/wiki/osu!_wiki/Contribution_guide/Common_Issues#someone-told-me-to-use-meaningful-commit-messages!)!*
+*Warning: This is **not recommended** because you can only delete one file at a time. This may create multiple "dumb" commits that may flag the reviewers into [closing or stalling your pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits)!*
 
 1. Open the code tab on your fork.
 2. Navigate to the file you want to delete and open it.
