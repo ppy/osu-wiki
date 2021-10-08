@@ -60,7 +60,36 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksI
 
 ## Mappools
 
+### Quarterfinals
+
+- NoMod
+  - [Superfly - Kakusei (moph) [Extreme]](https://osu.ppy.sh/beatmapsets/1080252#osu/2386178)
+  - [Aether Realm - Tarot (SILENCE PLAYER) [Final Stand]](https://osu.ppy.sh/beatmapsets/1291247#osu/2680248)
+  - [Daisuke Ishiwatari - Childish killer (EvilElvis) [Extra]](https://osu.ppy.sh/beatmapsets/442808#osu/952183)
+  - [Nhato vs. MK - VIBRA (Extended Mix) (Realazy) [Fluctuation]](https://osu.ppy.sh/beatmapsets/1557295#osu/3181309)
+  - [Igorrr - Cicadidae (fergas) [Chirr 2]](https://osu.ppy.sh/beatmapsets/301320#osu/862246)
+  - [Warak - Un Final Feliz (NeonLights) [PaRaDogi's Extra]](https://osu.ppy.sh/beatmapsets/678444#osu/3142435)
+- Hidden
+  - [angela - Otome no Route wa Hitotsu Janai! (verychill) [Camo's Extreme]](https://osu.ppy.sh/beatmapsets/1153303#osu/3120569)
+  - [40mP feat. Chano - Yuugure One Room (vekt0r) [cs 4.5]](https://osu.ppy.sh/beatmapsets/1388120#osu/2866812)
+  - [Getty vs. DJ DiA - DropZ-Line- (Realazy) [Lazy's Another]](https://osu.ppy.sh/beatmapsets/727049#osu/1603376)
+  - [M2U - Felis (IOException) [Beyond]](https://osu.ppy.sh/beatmapsets/1536884#osu/3142389)
+- HardRock
+  - [MEMAI SIREN - Nijimu Sabiiro (Lasse) [Resolve]](https://osu.ppy.sh/beatmapsets/1050914#osu/2196372)
+  - [Arizona Zervas - ROXANNE (wafer) [DeviousPanda's Expert]](https://osu.ppy.sh/beatmapsets/1076733#osu/2256206)
+  - [Nekomata Master - Nekozamurai no Gyakushu (moph) [kwk's Extra]](https://osu.ppy.sh/beatmapsets/518743#osu/1434351)
+  - [Ryokuoushoku Shakai - LADYBUG (RLC) [Rebirth]](https://osu.ppy.sh/beatmapsets/1441587#osu/2965623)
+- DoubleTime
+  - [Hana(Usa) & X-Plorez - Summer time music (Frostmourne) [Insane]](https://osu.ppy.sh/beatmapsets/136862#osu/429797)
+  - [SYNC.ART'S feat. Nakamura Meiko - Sword of Valiant (kiddly) [Remix]](https://osu.ppy.sh/beatmapsets/14893#osu/62203)
+  - [Mitchie M - Suki ! Yuki ! Maji Magic (Natsu) [Snow]](https://osu.ppy.sh/beatmapsets/230442#osu/554701)
+  - [Baracuda - I Leave The World Today (Special D. Remix Edit) (Rena-chan) [Dead]](https://osu.ppy.sh/beatmapsets/6528#osu/39650)
+- Tiebreaker
+  - **[Camellia - FM Synthesis Experiment (Mir) [Amalgamation]](https://osu.ppy.sh/beatmapsets/920474#osu/1922293)**
+
 ### Round of 16
+
+**[Download the mappack here! (100 MB)](https://drive.google.com/file/d/1C9ln_AHCkhxLSysQfS3FLbppW4ByuCkr/view)**
 
 - NoMod
   - [TRUE - Storyteller (Maaadbot) [Beyond]](https://osu.ppy.sh/beatmapsets/1353733#osu/2802324)
@@ -150,6 +179,76 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1HsZwZ-9NcBBMDksI
   - [ChuuToroP - Uta Catastrophe (HelloSCV) [Insane]](https://osu.ppy.sh/beatmapsets/78487#osu/219571)
 
 ## Match results
+
+### Round of 16
+
+#### Round of 16
+
+Sunday, 3 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bubbleman** ![][flag_GB] | **0** | -1 | ![][flag_GB] Matt4132 | *forfeit* |
+| **Harpy** ![][flag_GB] | **0** | -1 | ![][flag_PH] LilyFlower | *forfeit* |
+| **majoreh** ![][flag_GB] | **5** | 0 | ![][flag_GB] Kerantina | [#1](https://osu.ppy.sh/community/matches/91868626) |
+| **Kingling** ![][flag_GB] | **5** | 3 | ![][flag_GB] Jemzsee | [#1](https://osu.ppy.sh/community/matches/91871570) |
+| **Akolibed** ![][flag_LV] | **5** | 3 | ![][flag_GB] -Deeline | [#1](https://osu.ppy.sh/community/matches/91874645) |
+| **Voss** ![][flag_GB] | **5** | 3 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/community/matches/91878217) |
+
+Monday, 4 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Karthy** ![][flag_GB] | **5** | 4 | ![][flag_GB] mrowswares | [#1](https://osu.ppy.sh/community/matches/91919401) |
+| **bloo** ![][flag_GB] | **0** | -1 | ![][flag_GB] lystia | *forfeit* |
+
+#### Losers Bracket Round 2
+
+Thursday, 30 September 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **\[Nathan\]** ![][flag_GB] | **5** | 2 | ![][flag_GB] NeoPixel201 | [#1](https://osu.ppy.sh/community/matches/91709223) |
+
+Saturday, 2 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kosetsu** ![][flag_GB] | **5** | 2 | ![][flag_GB] Sspannish | [#1](https://osu.ppy.sh/community/matches/91801111) |
+| **Checha** ![][flag_BR] | **5** | 0 | ![][flag_IE] souljaboitellem | [#1](https://osu.ppy.sh/community/matches/91804186) |
+| **spook** ![][flag_GB] | **5** | 2 | ![][flag_GB] RndGuy | [#1](https://osu.ppy.sh/community/matches/91804343) |
+| **p4905** ![][flag_GB] | **5** | 4 | ![][flag_GB] idealnettles | [#1](https://osu.ppy.sh/community/matches/91806834) |
+| swankitydankity ![][flag_IE] | 2 | **5** | ![][flag_GB] **aeniko** | [#1](https://osu.ppy.sh/community/matches/91807575) |
+| **Plasma** ![][flag_GB] | **4** | 0 | ![][flag_GB] Kathalshame | [#1](https://osu.ppy.sh/community/matches/91806656) |
+| weezer ![][flag_GB] | 1 | **5** | ![][flag_GB] **Aistre** | [#1](https://osu.ppy.sh/community/matches/91810328) |
+| **Ophiz** ![][flag_IE] | **5** | 0 | ![][flag_GB] Akiba | [#1](https://osu.ppy.sh/community/matches/91816900) |
+| **pedeko** ![][flag_HK] | **0** | -1 | ![][flag_GB] Kwichi- | *forfeit* |
+| Teejay ![][flag_GB] | 0 | **5** | ![][flag_GB] **Cornfield** | [#1](https://osu.ppy.sh/community/matches/91825150) |
+| HonourBound ![][flag_GB] | 1 | **5** | ![][flag_GB] **Gazzzaa** | [#1](https://osu.ppy.sh/community/matches/91824821) |
+| **Defex** ![][flag_GB] | **0** | -1 | ![][flag_GB] Rinnu | *forfeit* |
+| **FuzzyL** ![][flag_GB] | **5** | 3 | ![][flag_GB] Striiker | [#1](https://osu.ppy.sh/community/matches/91831519) |
+
+Sunday, 3 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Zyphox** ![][flag_GB] | **5** | 1 | ![][flag_GB] Skybella | [#1](https://osu.ppy.sh/community/matches/91868943) |
+| **Reshamen** ![][flag_GB] | **5** | 4 | ![][flag_GB] thereal99gamer | [#1](https://osu.ppy.sh/community/matches/91871893) |
+
+#### Losers Bracket Round 3
+
+Sunday, 3 October 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Plasma** ![][flag_GB] | **0** | -1 | ![][flag_GB] aeniko | *forfeit* |
+| **Ophiz** ![][flag_IE] | **5** | 2 | ![][flag_HK] pedeko | [#1](https://osu.ppy.sh/community/matches/91863009) |
+| **\[Nathan\]** ![][flag_GB] | **5** | 2 | ![][flag_GB] p4905 | [#1](https://osu.ppy.sh/community/matches/91865701) |
+| Gazzzaa ![][flag_GB] | 2 | **5** | ![][flag_GB] **Kosetsu** | [#1](https://osu.ppy.sh/community/matches/91866492) |
+| **Checha** ![][flag_BR] | **5** | 1 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/91871404) |
+| **Aistre** ![][flag_GB] | **5** | 3 | ![][flag_GB] Cornfield | [#1](https://osu.ppy.sh/community/matches/91874338) |
+| Zyphox ![][flag_GB] | 4 | **5** | ![][flag_GB] **Reshamen** | [#1](https://osu.ppy.sh/community/matches/91922449) |
+| FuzzyL ![][flag_GB] | 0 | **2** | ![][flag_GB] **spook** | [#1](https://osu.ppy.sh/community/matches/91881112) |
 
 ### Round of 32
 
