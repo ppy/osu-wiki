@@ -42,6 +42,7 @@ Où `<sampleset>` est soit "normal", "soft" ou "drum", et `<sound>` est un des a
 Dans l'image ci-dessus, le premier son listé est nommé `soft-hitclap.wav`, et remplacera le hitsound par défaut qui joue lorsqu'une note avec le sampleset Soft et l'ajout "hitclap" est frappée avec succès. Notez que cela ne sera joué que sur le *sampleset sélectionné*. Si votre beatmap utilise d'autres samplesets, ils nécessiteront des fichiers hitsound supplémentaires (même si vous avez l'intention d'utiliser exactement le même échantillon sonore), par exemple en ajoutant un `normal-hitclap.wav` tout en utilisant le sampleset Normal.
 
 ## Appliquer des hitsounds
+
 ![](img/adding-custom-hitsounds.png "Enseigner à osu! comment utiliser les ajouts personnalisés de hitsound")
 
 Pour qu'osu! joue correctement vos hitsounds personnalisés, assurez-vous de cocher la deuxième option, "Custom 1", comme dans l'image ci-dessus. Les samplesets personnalisés par défaut sont abrégés en `<SS>:C1`, où `<SS>` est la première lettre du groupe de samplesets, soit N (Normal), S (Soft), ou D (Drum).
