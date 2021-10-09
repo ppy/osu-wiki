@@ -388,7 +388,7 @@ Thursday, 9 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Woffel ![][flag_GB] | 3 | 6 | ![][flag_GB] Bloo | [#1](https://osu.ppy.sh/community/matches/44918093) |
+| Woffel ![][flag_GB] | 3 | **6** | ![][flag_GB] **Bloo** | [#1](https://osu.ppy.sh/community/matches/44918093) |
 
 ### Quarterfinals
 
@@ -709,7 +709,7 @@ Saturday, 30 June 2018:
 
 Sunday, 1 July 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
 | **Sobriquet** ![][flag_GB] | **0** | -1 | ![][flag_GB] \[ -Senpai- \] | *forfeit* |
 
