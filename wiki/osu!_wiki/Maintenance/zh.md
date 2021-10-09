@@ -47,7 +47,7 @@ osu! wiki 存储库通过[持续集成(continuous integration, CI)](https://docs
 
 由维护者编写的 [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) 文件列出了持续集成所需要的所有插件。
 
-持续集成会为非初次贡献者的每一个提交运行检查，为了使拉取请求得到合并，贡献者需要修正持续集成所报告的错误，想查看[检查状态]时，按下列指示操作：
+持续集成会为非初次贡献者的每一个提交运行检查，为了使拉取请求得到合并，贡献者需要修正持续集成所报告的错误，想查看[检查状态](img/ci-status.png)时，按下列指示操作：
 
 1. 在拉取请求页面滚动到下方，找到 `osu-wiki continuous integration` 状态行，点击 `Details`。
 2. 在新页面中，点击展开 `run remark on changed files` 步骤，有问题的地方都会有一段描述指出为什么这里错了。
