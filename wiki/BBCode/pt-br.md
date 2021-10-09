@@ -165,7 +165,6 @@ A tag `[centre]` é usada para centralizar um texto. Ela é usada geralmente par
 
 ### URL
 
-
 ```
 [url=LINK]texto[/url]
 ```
