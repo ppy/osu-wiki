@@ -716,10 +716,10 @@ Sunday, 1 July 2018:
 ## Ruleset
 
 - This tournament is a 1v1 double-elimination British osu! tournament.
-- In the event there is 128 signups, those with the lowest global rank will be unable to participate (unless we expand the tournament).
+- In the event there are 128 signups, those with the lowest global rank will be unable to participate (unless the tournament is expanded).
 - The structure of the tournament will be:
-  1. Two single elimination rounds - 32 players progress
-  2. Group stage - 16 players progress
+  1. Two single elimination rounds where 32 players progress
+  2. Group stage where 16 players progress
   3. Double elimination bracket
 - To be able to participate, players must have an **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag or be able to provide proof of residency to the hosts.**
 - Matches will be **Head to Head** and **ScoreV2**.
@@ -727,7 +727,7 @@ Sunday, 1 July 2018:
 - All staff (apart from the Hosts, Mappool Selectors and Referees) are allowed to participate in the tournament.
 - All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the discord server or during matches (this includes homophobia, racism and toxicity) will result in a **ban** and will be **blacklisted** from participating from future UKCC tournaments.
 - ***Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.***
-- Players are **required** to join the public discord so that they are contactable by other players and staff. If a player can’t be contacted or is not responding to messages, through discord, ingame messages or forum pms, contact the staff.
+- Players are **required** to join the public Discord server so that they are contactable by other players and staff. If a player can't be contacted or is not responding to messages through Discord, in-game messages, or forum PMs, contact the staff.
 - Mappools are to be released the Monday before a stage is due to happen.
 
 ### Reschedules
