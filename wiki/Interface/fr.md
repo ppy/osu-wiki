@@ -291,20 +291,20 @@ Ci-dessous se trouvent les écrans de résultat pour les autres modes de jeu.
 
 Voici votre classement en ligne. Vous pouvez y accéder en glissant l'écran des résultats vers le haut. Votre tableau des scores locaux montrera toujours votre nom et votre score.
 
-1. Votre profil. Il montre vos [PP](/wiki/Performance_Points), votre rang global, votre score total, votre [précision](/wiki/Accuracy) globale, ainsi que votre niveau.
+1. Votre profil. Il montre vos [PP](/wiki/Performance_Points), votre rang global, votre score total, votre [précision](/wiki/Gameplay/Accuracy) globale, ainsi que votre niveau.
 2. `Exporter le replay`: Vous pouvez regarder votre performance sur la beatmap plus tard soit en l'ouvrant depuis le classement local, soit en allant dans votre dossier `Replays` et en cliquant dessus.
 3. `Ajouter aux favoris en ligne`: Ajoute la beatmap dans vos favoris, qui sont situés sur votre profil osu! dans la section "Beatmaps".
 4. Classement local: Tous vos scores sont stockés sur votre ordinateur. Pour les voir, retournez sur [l'écran de sélection des beatmaps](#écran-de-sélection-des-beatmaps), puis sélectionnez `Classement local` dans le menu déroulant à gauche.
 5. La section `Beatmap Ranking`. Elle est disponible uniquement pour les beatmaps avec un classement en ligne (elle doit être [qualifiée](/wiki/Beatmap/Category#qualified), [classée](/wiki/Beatmap/Category#ranked), ou [loved](/wiki/Beatmap/Category#loved)). Vous devez également être en ligne pour voir cette section.
    1. `Général`: Votre position dans le classement de la beatmap, où vous pouvez vous mesurer à d'autres joueurs qui ont utilisé des [mods](/wiki/Game_modifier), même si vous n'en avez pas utilisé.
-   2. `Précision`: La [précision](/wiki/Accuracy) avec laquelle vous avez jouée la beatmap. Elle n'est comptée que si vous avez battu votre ancien record.
+   2. `Précision`: La [précision](/wiki/Gameplay/Accuracy) avec laquelle vous avez jouée la beatmap. Elle n'est comptée que si vous avez battu votre ancien record.
    3. `Max Combo`: Votre plus grand combo sur la beatmap jouée.
    4. `Score classé`: Votre [meilleur score](/wiki/Score#ranked-score) sur la beatmap.
    5. `Score total`: N'est pas pris en compte puisqu'il n'affecte en rien votre position dans le classement.
    6. `Performance`: Le nombre de [PP unweighted](/wiki/Performance_points#pourquoi-n'ai-je-pas-gagné-la-totalité-des-pp-d'une-beatmap-que-j'ai-jouée-?) obtenus sur cette partie.
 6. La section `Overall Ranking`. Elle est disponible uniquement pour les beatmaps avec un classement en ligne. Vous devez également être en ligne pour voir cette section.
    1. `Général`: Votre classement global sur la beatmap.
-   2. `Précision`: Votre [précision](/wiki/Accuracy#accuracy) globale sur toutes les beatmaps que vous avez jouées.
+   2. `Précision`: Votre [précision](/wiki/Gameplay/Accuracy#accuracy) globale sur toutes les beatmaps que vous avez jouées.
    3. `Max Combo`: Votre plus grand combo sur toutes les beatmaps que vous avez jouées.
    4. [`Score classé`](/wiki/Score#score-classé): Le nombre total de points que vous avez obtenu sur toutes les beatmaps ayant un classement en ligne que vous avez jouées, chaque beatmap ne comptant qu'une seule fois.
    5. [`Score total`](/wiki/Score#score-total): Le fonctionnement est identique à celui du score classé, mais il prend en compte toutes les beatmaps présentes sur le site d'osu!, ainsi que les beatmaps que vous avez quittées avant la fin et celles que vous avez échouées. Ce score compte dans votre niveau.
