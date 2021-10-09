@@ -12,9 +12,8 @@ Usuários, que desejarem combinar formatações em uma única seção de texto, 
 
 Um exemplo de uso correto e incorreto das tags aninhadas está descrito abaixo:
 
-• `[centre][b]texto[/b][/centre]` está correto
-
-• `[b][centre]texto[/b][/centre]` está incorreto
+- `[centre][b]texto[/b][/centre]` está correto
+- `[b][centre]texto[/b][/centre]` está incorreto
 
 ## Tags
 
@@ -29,6 +28,7 @@ As tags de BBCode, que são suportadas pelo site do osu!, estão listadas e desc
 ```
 [b]texto[/b]
 ```
+
 A tag `[b]` é usada para enfatizar um texto através do negrito. O negrito do BBCode não afeta o tamanho da fonte. 
 
 Botão na barra de formatação: ![Negrito](img/bold.png "Negrito")
@@ -38,6 +38,7 @@ Botão na barra de formatação: ![Negrito](img/bold.png "Negrito")
 ```
 [i]texto[/i]
 ```
+
 A tag `[i]` é usada para enfatizar levemente um texto deixando-o inclinado para o lado direito.
 
 Botão na barra de formatação: ![Itálico](img/italic.png "Itálico")
@@ -47,6 +48,7 @@ Botão na barra de formatação: ![Itálico](img/italic.png "Itálico")
 ```
 [u]texto[/u]
 ```
+
 A tag `[u]` é usada para enfatizar um texto ao sublinhá-lo. A linha desenhada diretamente abaixo do texto será afetada por outras tags como negrito e itálico.
 
 ### Tachado
@@ -54,6 +56,7 @@ A tag `[u]` é usada para enfatizar um texto ao sublinhá-lo. A linha desenhada 
 ```
 [strike]texto[/strike]
 ```
+
 *Nota: Texto "tachado" também pode ser conhecido por "riscado".*
 
 A tag `[strike]` é usada para indicar a remoção de um texto previamente incluso através do uso de uma linha que "risca" diretamente o texto.
@@ -122,7 +125,7 @@ Botão na barra de formatação: ![Spoiler](img/spoilerbox.png "Spoiler")
 [spoilerbox]texto[/spoilerbox]
 ```
 
-Uma *caixa de spoiler* é um tipo especial de caixa no BBCode que não contém um argumento `NAME`. O nome de uma caixa de spoiler será sempre `SPOILER`. Caixas de spoiler têm sua própria tag (`[spoilerbox]`) mas são funcionalmente idênticas às [Caixas](#Caixa).
+Uma *caixa de spoiler* é um tipo especial de caixa no BBCode que não contém um argumento `NAME`. O nome de uma caixa de spoiler será sempre `SPOILER`. Caixas de spoiler têm sua própria tag (`[spoilerbox]`) mas são funcionalmente idênticas às [Caixas](#caixa).
 
 ### Citação
 
@@ -243,8 +246,6 @@ A tag `[audio]` é usada para embutir um tocador de áudio em [HTML5](https://pt
 
 Para embutir um arquivo de áudio através dessa tag, usuários precisam colar a URL do arquivo de áudio (exemplo `https://www.example.com/example.mp3`) entre as tags de abertura e fechamento.
 
-<!-- Exemplo de URL de um arquivo de áudio online para os editores da wiki: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg -->
-
 ### Cabeçalhos (v1)
 
 ```
@@ -294,5 +295,5 @@ A tag *Cabeçalhos (v2)* é uma tag desatualizada que já foi usada nos fóruns 
 ## Trivia
 
 - Este artigo da wiki foi adaptado da postagem no fórum [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) feita por [Stefan](https://osu.ppy.sh/users/626907).
-- Existia um bug que permitia aos usuários criar textos transparentes ao utilizar a tag de [cores](#Cores) e digitando "transparent" após o sinal de igualdade (`=`).
+- Existia um bug que permitia aos usuários criar textos transparentes ao utilizar a tag de [cores](#cores) e digitando "transparent" após o sinal de igualdade (`=`).
   - Atualmente, o texto é automaticamente revertido para a cor padrão (branco) quando isto acontecer.
